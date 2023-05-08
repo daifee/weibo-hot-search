@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683537447676,
+  "endTime": 1683538425642,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1028,7 +1028,7 @@
     },
     {
       "raw_hot": 1610564,
-      "num": 492925,
+      "num": 583498,
       "word": "巴厘岛命案",
       "onboard_time": 1683198386,
       "rank": 12,
@@ -1171,6 +1171,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1543465,
+      "num": 1543465,
+      "word": "中了五亿",
+      "onboard_time": 1683529596,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1540589,
+      "num": 1540589,
+      "word": "12306回应男子在火车上被持刀杀害",
+      "onboard_time": 1683525749,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1539275,
       "num": 1539275,
       "word": "朱珠好美啊",
@@ -1185,14 +1201,6 @@
       "onboard_time": 1683340650,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1516163,
-      "num": 1516163,
-      "word": "12306回应男子在火车上被持刀杀害",
-      "onboard_time": 1683525749,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1512931,
@@ -2137,14 +2145,6 @@
       "onboard_time": 1683346473,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1043662,
-      "num": 1043662,
-      "word": "中了五亿",
-      "onboard_time": 1683529596,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 1042970,
@@ -3363,6 +3363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 651920,
+      "num": 651920,
+      "word": "aespa回归",
+      "onboard_time": 1683026368,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 641820,
       "num": 641820,
       "word": "杭州不定价咖啡馆试营业首日亏3500元",
@@ -3556,7 +3564,7 @@
     },
     {
       "raw_hot": 609453,
-      "num": 338283,
+      "num": 348177,
       "word": "aespa新歌SpicyMV",
       "onboard_time": 1683522032,
       "rank": 41,
@@ -3609,6 +3617,14 @@
       "onboard_time": 1683441808,
       "rank": 7,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 597304,
+      "num": 362226,
+      "word": "马嘉祺宋亚轩缓考",
+      "onboard_time": 1683537753,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 596398,
@@ -4827,6 +4843,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 457534,
+      "num": 457534,
+      "word": "情侣吵架从8楼将萨摩耶扔下",
+      "onboard_time": 1683537453,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 457483,
       "num": 457483,
       "word": "涉事景区称插队事件自己也是受损方",
@@ -5667,6 +5691,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 398011,
+      "num": 308402,
+      "word": "aespa确认会有正规一辑",
+      "onboard_time": 1683536551,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 396554,
       "num": 396554,
       "word": "基辅出动两架无人机袭击克宫未遂",
@@ -6091,6 +6123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367795,
+      "num": 367795,
+      "word": "被认识几年的合作方表白了",
+      "onboard_time": 1683535771,
+      "rank": 23,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 367306,
       "num": 367306,
       "word": "千万别拿街头给的纸巾",
@@ -6483,6 +6523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349342,
+      "num": 292465,
+      "word": "曾嘉 嘉行",
+      "onboard_time": 1683536252,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 348881,
       "num": 348881,
       "word": "国产剧二五定律",
@@ -6819,6 +6867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 335168,
+      "num": 335168,
+      "word": "30岁单亲妈妈和儿子的晚餐",
+      "onboard_time": 1683534270,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 335069,
       "num": 335069,
       "word": "乘风2023破四季最高收视纪录",
@@ -6921,14 +6977,6 @@
       "onboard_time": 1683090211,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 330163,
-      "num": 292465,
-      "word": "曾嘉 嘉行",
-      "onboard_time": 1683536252,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 329502,
@@ -7049,14 +7097,6 @@
       "onboard_time": 1683169047,
       "rank": 21,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 325883,
-      "num": 325883,
-      "word": "被认识几年的合作方表白了",
-      "onboard_time": 1683535771,
-      "rank": 23,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 325699,
@@ -7249,14 +7289,6 @@
       "onboard_time": 1682930487,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 316439,
-      "num": 316439,
-      "word": "30岁单亲妈妈和儿子的晚餐",
-      "onboard_time": 1683534270,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 316390,
@@ -7899,6 +7931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291163,
+      "num": 291163,
+      "word": "差点被吊牌单杀了",
+      "onboard_time": 1683536612,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 290697,
       "num": 288334,
       "word": "言承旭徐若晗二搭",
@@ -8321,14 +8361,6 @@
       "onboard_time": 1682932407,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 273723,
-      "num": 273723,
-      "word": "aespa确认会有正规一辑",
-      "onboard_time": 1683536551,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 273511,
@@ -10323,14 +10355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 222908,
-      "num": 222908,
-      "word": "aespa回归",
-      "onboard_time": 1683026368,
-      "rank": 33,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 222617,
       "num": 222617,
       "word": "时代少年团演唱会回放",
@@ -10737,14 +10761,6 @@
       "onboard_time": 1683210457,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 215487,
-      "num": 273747,
-      "word": "差点被吊牌单杀了",
-      "onboard_time": 1683536612,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 215477,
@@ -12083,6 +12099,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 190291,
+      "num": 190291,
+      "word": "aster",
+      "onboard_time": 1683537453,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 189944,
       "num": 189944,
       "word": "葬月组相约贝加尔湖钓鲑鱼",
@@ -12145,6 +12169,14 @@
       "onboard_time": 1682991209,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 189152,
+      "num": 186032,
+      "word": "打个响指吧",
+      "onboard_time": 1683538291,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 189090,
@@ -13091,6 +13123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 173481,
+      "num": 173481,
+      "word": "全小区都知道这狗会开门了",
+      "onboard_time": 1683536191,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 173094,
       "num": 173094,
       "word": "漫长的季节豆瓣涨分9.3",
@@ -13156,7 +13196,7 @@
     },
     {
       "raw_hot": 171751,
-      "num": 171751,
+      "num": 173166,
       "word": "KPL总决赛",
       "onboard_time": 1683530376,
       "rank": 48,
@@ -13657,14 +13697,6 @@
       "onboard_time": 1683436949,
       "rank": 39,
       "category": "教育"
-    },
-    {
-      "raw_hot": 161303,
-      "num": 161303,
-      "word": "全小区都知道这狗会开门了",
-      "onboard_time": 1683536191,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 161288,
@@ -14457,6 +14489,14 @@
       "onboard_time": 1683120093,
       "rank": 49,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 144486,
+      "num": 173451,
+      "word": "山西吕梁山革命博物馆发闭馆公告",
+      "onboard_time": 1683538351,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144164,

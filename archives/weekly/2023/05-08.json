@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683537447676,
+  "endTime": 1683538425642,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -163,8 +163,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1516163,
-      "num": 1516163,
+      "raw_hot": 1543465,
+      "num": 1543465,
+      "word": "中了五亿",
+      "onboard_time": 1683529596,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1540589,
+      "num": 1540589,
       "word": "12306回应男子在火车上被持刀杀害",
       "onboard_time": 1683525749,
       "rank": 4,
@@ -281,14 +289,6 @@
       "onboard_time": 1683527196,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1043662,
-      "num": 1043662,
-      "word": "中了五亿",
-      "onboard_time": 1683529596,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 1026355,
@@ -411,6 +411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 651920,
+      "num": 651920,
+      "word": "aespa回归",
+      "onboard_time": 1683537869,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 629378,
       "num": 629378,
       "word": "生父再次离婚女儿选择和继母生活",
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 609453,
-      "num": 338283,
+      "num": 348177,
       "word": "aespa新歌SpicyMV",
       "onboard_time": 1683522032,
       "rank": 41,
@@ -451,12 +459,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 597304,
+      "num": 362226,
+      "word": "马嘉祺宋亚轩缓考",
+      "onboard_time": 1683537753,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 583926,
       "num": 583926,
       "word": "宋茜为Amber打call",
       "onboard_time": 1683502823,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 583498,
+      "num": 583498,
+      "word": "巴厘岛命案",
+      "onboard_time": 1683536130,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 555855,
@@ -536,6 +560,14 @@
       "word": "巴厘岛情侣",
       "onboard_time": 1683501321,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457534,
+      "num": 457534,
+      "word": "情侣吵架从8楼将萨摩耶扔下",
+      "onboard_time": 1683537453,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -635,6 +667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 398011,
+      "num": 308402,
+      "word": "aespa确认会有正规一辑",
+      "onboard_time": 1683536551,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 389520,
       "num": 322278,
       "word": "iPhone15ProMax边框更窄",
@@ -673,6 +713,14 @@
       "onboard_time": 1683519212,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367795,
+      "num": 367795,
+      "word": "被认识几年的合作方表白了",
+      "onboard_time": 1683535771,
+      "rank": 23,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 366346,
@@ -755,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 349342,
+      "num": 292465,
+      "word": "曾嘉 嘉行",
+      "onboard_time": 1683536252,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 347342,
       "num": 347342,
       "word": "秋瓷炫的中文是谈恋爱练的",
@@ -795,20 +851,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 335168,
+      "num": 335168,
+      "word": "30岁单亲妈妈和儿子的晚餐",
+      "onboard_time": 1683534270,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 331686,
       "num": 331686,
       "word": "在一起八年分手了是什么体验",
       "onboard_time": 1683523771,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 330163,
-      "num": 292465,
-      "word": "曾嘉 嘉行",
-      "onboard_time": 1683536252,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 329502,
@@ -827,22 +883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 325883,
-      "num": 325883,
-      "word": "被认识几年的合作方表白了",
-      "onboard_time": 1683535771,
-      "rank": 23,
-      "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 316439,
-      "num": 316439,
-      "word": "30岁单亲妈妈和儿子的晚餐",
-      "onboard_time": 1683534270,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 315312,
       "num": 315312,
       "word": "布克三分",
@@ -857,14 +897,6 @@
       "onboard_time": 1683465994,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 314166,
-      "num": 314166,
-      "word": "巴厘岛命案",
-      "onboard_time": 1683536130,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 309378,
@@ -931,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291163,
+      "num": 291163,
+      "word": "差点被吊牌单杀了",
+      "onboard_time": 1683536612,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 289880,
       "num": 289880,
       "word": "劳伦斯",
@@ -961,14 +1001,6 @@
       "onboard_time": 1683455670,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 273723,
-      "num": 273723,
-      "word": "aespa确认会有正规一辑",
-      "onboard_time": 1683536551,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 272679,
@@ -1163,14 +1195,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 215487,
-      "num": 273747,
-      "word": "差点被吊牌单杀了",
-      "onboard_time": 1683536612,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 215477,
       "num": 215477,
       "word": "杜兰特",
@@ -1299,12 +1323,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190291,
+      "num": 190291,
+      "word": "aster",
+      "onboard_time": 1683537453,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 189383,
       "num": 189383,
       "word": "不掺任何杂质的周一",
       "onboard_time": 1683513986,
       "rank": 33,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 189152,
+      "num": 186032,
+      "word": "打个响指吧",
+      "onboard_time": 1683538291,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 188671,
@@ -1395,8 +1435,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 173481,
+      "num": 173481,
+      "word": "全小区都知道这狗会开门了",
+      "onboard_time": 1683536191,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171751,
-      "num": 171751,
+      "num": 173166,
       "word": "KPL总决赛",
       "onboard_time": 1683530376,
       "rank": 48,
@@ -1449,14 +1497,6 @@
       "onboard_time": 1683518189,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 161303,
-      "num": 161303,
-      "word": "全小区都知道这狗会开门了",
-      "onboard_time": 1683536191,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 160748,
@@ -1528,6 +1568,14 @@
       "word": "校方回应男生被老师丈夫刺伤",
       "onboard_time": 1683491591,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144486,
+      "num": 173451,
+      "word": "山西吕梁山革命博物馆发闭馆公告",
+      "onboard_time": 1683538351,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1692,7 +1740,7 @@
     },
     {
       "raw_hot": 107133,
-      "num": 156814,
+      "num": 172923,
       "word": "塞尔达传说王国之泪",
       "onboard_time": 1683536612,
       "rank": 49,
