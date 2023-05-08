@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683510395162,
+  "endTime": 1683513282879,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -603,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1904098,
+      "num": 1513687,
+      "word": "杰克辣条 虐猫",
+      "onboard_time": 1683508949,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1897707,
       "num": 612012,
       "word": "秦昊瘦身食谱",
@@ -673,14 +681,6 @@
       "onboard_time": 1683436829,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1827886,
-      "num": 1513687,
-      "word": "杰克辣条 虐猫",
-      "onboard_time": 1683508949,
-      "rank": 3,
-      "category": "网红"
     },
     {
       "raw_hot": 1823033,
@@ -787,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1765514,
+      "num": 1765514,
+      "word": "六公主评价长月烬明",
+      "onboard_time": 1683503487,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1762220,
       "num": 1762220,
       "word": "跑男 控牌",
@@ -835,12 +843,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1707352,
-      "num": 1707352,
-      "word": "六公主评价长月烬明",
-      "onboard_time": 1683503487,
-      "rank": 0,
-      "category": "影视"
+      "raw_hot": 1705491,
+      "num": 1705491,
+      "word": "科目二太难结果放弃了考驾照",
+      "onboard_time": 1683510026,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 1703424,
@@ -2275,6 +2283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 886329,
+      "num": 886329,
+      "word": "Angelababy定制礼服腰围改小11.5厘米",
+      "onboard_time": 1683510326,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 885437,
       "num": 885437,
       "word": "原来只打中文也能看出国籍",
@@ -2715,6 +2731,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 738388,
+      "num": 738388,
+      "word": "因为性格内向结果被辞退了",
+      "onboard_time": 1683509847,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 736886,
       "num": 736886,
       "word": "知否演员最新合照",
@@ -2745,6 +2769,14 @@
       "onboard_time": 1682985262,
       "rank": 7,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 727017,
+      "num": 622383,
+      "word": "二阳",
+      "onboard_time": 1683508648,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 725796,
@@ -2969,6 +3001,14 @@
       "onboard_time": 1683099570,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 676550,
+      "num": 676550,
+      "word": "有仙无侠 有情无义",
+      "onboard_time": 1683509185,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 676511,
@@ -3801,14 +3841,6 @@
       "onboard_time": 1683205168,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 535426,
-      "num": 535426,
-      "word": "二阳",
-      "onboard_time": 1683508648,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 534211,
@@ -4923,6 +4955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 418751,
+      "num": 418751,
+      "word": "分手一年后前任发的短信",
+      "onboard_time": 1683512663,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 418358,
       "num": 418358,
       "word": "一个宿舍各过各的",
@@ -5001,14 +5041,6 @@
       "onboard_time": 1683172831,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 412562,
-      "num": 412562,
-      "word": "有仙无侠 有情无义",
-      "onboard_time": 1683509185,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 410497,
@@ -6003,12 +6035,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 348472,
-      "num": 348472,
-      "word": "科目二太难结果放弃了考驾照",
-      "onboard_time": 1683510026,
-      "rank": 19,
-      "category": "幽默"
+      "raw_hot": 347991,
+      "num": 314870,
+      "word": "iPhone15ProMax边框更窄",
+      "onboard_time": 1683512007,
+      "rank": 20,
+      "category": "科技"
     },
     {
       "raw_hot": 347768,
@@ -6209,6 +6241,14 @@
       "onboard_time": 1683373170,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 338316,
+      "num": 338316,
+      "word": "全红婵世界杯再斩获1枚金牌",
+      "onboard_time": 1683511647,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 338110,
@@ -6603,6 +6643,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 321096,
+      "num": 321096,
+      "word": "95后女生演了24年老人",
+      "onboard_time": 1683511707,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320244,
       "num": 320244,
       "word": "困困困",
@@ -6753,6 +6801,14 @@
       "onboard_time": 1683112469,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 315312,
+      "num": 315312,
+      "word": "布克三分",
+      "onboard_time": 1683511407,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 315307,
@@ -7955,6 +8011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266170,
+      "num": 266170,
+      "word": "琳芽之旅 龚美呐赛",
+      "onboard_time": 1683509609,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265610,
       "num": 265610,
       "word": "LGD晋级败者组半决赛",
@@ -7977,14 +8041,6 @@
       "onboard_time": 1683449128,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 265274,
-      "num": 265274,
-      "word": "因为性格内向结果被辞退了",
-      "onboard_time": 1683509847,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 265099,
@@ -9587,6 +9643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224779,
+      "num": 224779,
+      "word": "呼吁动物保护法",
+      "onboard_time": 1683512187,
+      "rank": 27,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 224513,
       "num": 224513,
       "word": "江阴枪击案受害人家属发声",
@@ -9633,6 +9697,14 @@
       "onboard_time": 1682983340,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 223894,
+      "num": 223894,
+      "word": "忽然理解妈妈为什么容易生气",
+      "onboard_time": 1683512728,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 223580,
@@ -10097,6 +10169,14 @@
       "onboard_time": 1683266728,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 214701,
+      "num": 214701,
+      "word": "幼儿园老师的嗅觉让我惊讶",
+      "onboard_time": 1683510688,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 214685,
@@ -10603,6 +10683,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 204654,
+      "num": 204654,
+      "word": "约基奇 太阳老板",
+      "onboard_time": 1683512969,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204648,
       "num": 204648,
       "word": "张艺凡新剧黑天鹅造型",
@@ -10947,14 +11035,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 197558,
-      "num": 197558,
-      "word": "琳芽之旅 龚美呐赛",
-      "onboard_time": 1683509609,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197497,
       "num": 197497,
       "word": "严浩翔H舞台",
@@ -11185,6 +11265,14 @@
       "onboard_time": 1683340531,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 192992,
+      "num": 192992,
+      "word": "谁来四川都得笑着回去",
+      "onboard_time": 1683511407,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 192929,
@@ -11633,6 +11721,14 @@
       "onboard_time": 1683453392,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183910,
+      "num": 183910,
+      "word": "秋瓷炫的中文是谈恋爱练的",
+      "onboard_time": 1683475528,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 183799,
@@ -12099,6 +12195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176210,
+      "num": 176210,
+      "word": "你心目中的内娱第一爱豆",
+      "onboard_time": 1683511169,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 176148,
       "num": 176148,
       "word": "承欢记组讯",
@@ -12152,6 +12256,14 @@
       "word": "沧九旻黎苏苏灭魂钉吻花絮好甜",
       "onboard_time": 1682917347,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 175252,
+      "num": 175252,
+      "word": "为什么仙侠剧容易爆火",
+      "onboard_time": 1683512126,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -12345,14 +12457,6 @@
       "onboard_time": 1683438749,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 171247,
-      "num": 171247,
-      "word": "秋瓷炫的中文是谈恋爱练的",
-      "onboard_time": 1683475528,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 171044,
@@ -12681,14 +12785,6 @@
       "onboard_time": 1682867369,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 163917,
-      "num": 163917,
-      "word": "Angelababy定制礼服腰围改小11.5厘米",
-      "onboard_time": 1683510326,
-      "rank": 46,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 163859,
@@ -13809,6 +13905,14 @@
       "onboard_time": 1683381030,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135442,
+      "num": 135442,
+      "word": "小伙带狗狗陪自己捐干细胞",
+      "onboard_time": 1683513266,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135217,
@@ -15340,7 +15444,7 @@
     },
     {
       "raw_hot": 76934,
-      "num": 1695241,
+      "num": 1721960,
       "word": "航天员又要在太空拆快递了",
       "onboard_time": 1683466712,
       "rank": 2,
