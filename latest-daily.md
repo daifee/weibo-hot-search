@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/05/09 00:22:53 ~ 2023/05/09 01:33:43
+本榜单时间：2023/05/09 00:22:53 ~ 2023/05/09 02:20:23
 </p>
 </blockquote>
 <p>
@@ -347,6 +347,12 @@ KPL导播（热度：66946）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E8%88%9F%E5%85%AD%E5%8F%B7%E8%88%B9%E7%AE%AD%E7%BB%84%E5%90%88%E4%BD%93%E5%9E%82%E7%9B%B4%E8%BD%AC%E8%BF%90%E7%BE%8E%E5%9B%BE%23" target="weibo">
 天舟六号船箭组合体垂直转运美图（热度：23997）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Hero%E7%9B%B4%E6%92%AD%23" target="weibo">
+Hero直播（热度：21533）
 </a>
 </li>
 

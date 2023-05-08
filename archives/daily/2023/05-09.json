@@ -1,6 +1,6 @@
 {
   "startTime": 1683562973147,
-  "endTime": 1683567223420,
+  "endTime": 1683570023644,
   "band_list": [
     {
       "raw_hot": 1301163,
@@ -449,6 +449,14 @@
       "onboard_time": 1683555871,
       "rank": 2,
       "category": "科技"
+    },
+    {
+      "raw_hot": 21533,
+      "num": 33032,
+      "word": "Hero直播",
+      "onboard_time": 1683554851,
+      "rank": 49,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
