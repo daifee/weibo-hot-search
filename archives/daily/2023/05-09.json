@@ -1,6 +1,6 @@
 {
   "startTime": 1683562973147,
-  "endTime": 1683587879847,
+  "endTime": 1683588810940,
   "band_list": [
     {
       "raw_hot": 1301163,
@@ -27,12 +27,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 865678,
-      "num": 865678,
+      "raw_hot": 1072003,
+      "num": 1072003,
       "word": "千万不要再侧躺玩手机",
       "onboard_time": 1683561986,
       "rank": 34,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 947033,
+      "num": 947033,
+      "word": "中秋国庆休8天上7天",
+      "onboard_time": 1683542310,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 804022,
@@ -43,20 +51,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 736387,
-      "num": 736387,
-      "word": "中秋国庆休8天上7天",
-      "onboard_time": 1683542310,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 707287,
       "num": 707287,
       "word": "杨洋一番爆剧",
       "onboard_time": 1683557914,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 694152,
+      "num": 694152,
+      "word": "胡锡进 火车上男乘客为什么没参与制服凶手",
+      "onboard_time": 1683587001,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 692629,
@@ -91,19 +99,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 545915,
+      "num": 434809,
+      "word": "假如陈都灵没进娱乐圈",
+      "onboard_time": 1683554132,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 511629,
       "num": 511629,
       "word": "嘉行法人曾嘉曾是杨幂经纪人",
       "onboard_time": 1683550350,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 482240,
-      "num": 434809,
-      "word": "假如陈都灵没进娱乐圈",
-      "onboard_time": 1683554132,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -139,19 +147,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 360026,
+      "num": 360026,
+      "word": "女子车位被邻居霸停数月直接焊死",
+      "onboard_time": 1683551972,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357920,
       "num": 357920,
       "word": "情侣吵架从8楼将萨摩耶扔下",
       "onboard_time": 1683537453,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 351249,
-      "num": 351249,
-      "word": "女子车位被邻居霸停数月直接焊死",
-      "onboard_time": 1683551972,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -163,12 +171,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336612,
+      "num": 336612,
+      "word": "考上编制后你还会离职吗",
+      "onboard_time": 1683587541,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292589,
       "num": 292589,
       "word": "36岁常青藤毕业确诊癌症后反而很开心",
       "onboard_time": 1683555392,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 281328,
+      "num": 281328,
+      "word": "劳伦斯",
+      "onboard_time": 1683587541,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 276376,
@@ -179,6 +203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 273636,
+      "num": 229590,
+      "word": "身边不上班的女生越来越多了",
+      "onboard_time": 1683587541,
+      "rank": 39,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 258171,
       "num": 258171,
       "word": "他叫李飞",
@@ -187,11 +219,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 245649,
-      "num": 245649,
-      "word": "胡锡进 火车上男乘客为什么没参与制服凶手",
-      "onboard_time": 1683587001,
-      "rank": 15,
+      "raw_hot": 231865,
+      "num": 231865,
+      "word": "徐峥称不存在转移资产",
+      "onboard_time": 1683555270,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 230630,
+      "num": 230630,
+      "word": "山西吕梁通报初步调查情况",
+      "onboard_time": 1683588382,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -211,28 +251,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214225,
-      "num": 214225,
-      "word": "生娃当天老公发的朋友圈",
-      "onboard_time": 1683543810,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 213381,
-      "num": 213381,
+      "raw_hot": 215966,
+      "num": 215966,
       "word": "84岁姥姥和51岁妈妈一起晨读",
       "onboard_time": 1683585134,
       "rank": 47,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211982,
-      "num": 211982,
-      "word": "徐峥称不存在转移资产",
-      "onboard_time": 1683555270,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 214225,
+      "num": 214225,
+      "word": "生娃当天老公发的朋友圈",
+      "onboard_time": 1683543810,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 196575,
@@ -257,6 +289,14 @@
       "onboard_time": 1683552809,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190357,
+      "num": 190357,
+      "word": "宝妈回应生3儿1女后又怀四胞胎",
+      "onboard_time": 1683587723,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175739,
@@ -291,20 +331,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155539,
-      "num": 155539,
-      "word": "劳伦斯",
-      "onboard_time": 1683587541,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 153625,
       "num": 153625,
       "word": "什么叫男凝",
       "onboard_time": 1683559052,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 148584,
+      "num": 148584,
+      "word": "平凡之路全职太太被出轨却不离婚",
+      "onboard_time": 1683565039,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 148449,
+      "num": 148449,
+      "word": "网红城市菏泽现在什么样",
+      "onboard_time": 1683588143,
+      "rank": 31,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 147121,
@@ -321,14 +369,6 @@
       "onboard_time": 1683556411,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140892,
-      "num": 140892,
-      "word": "平凡之路全职太太被出轨却不离婚",
-      "onboard_time": 1683565039,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 139194,
@@ -387,12 +427,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122733,
+      "num": 122733,
+      "word": "长相思",
+      "onboard_time": 1683587963,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 122082,
       "num": 122082,
       "word": "时代峰峻回应马嘉祺宋亚轩缓考",
       "onboard_time": 1683546988,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112778,
+      "num": 112778,
+      "word": "六公主点评过的古装剧",
+      "onboard_time": 1683588382,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 110417,
@@ -411,20 +467,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 101690,
-      "num": 101690,
-      "word": "考上编制后你还会离职吗",
-      "onboard_time": 1683587541,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 100513,
       "num": 100513,
       "word": "人民网评处刑式虐猫是向人类良知挑战",
       "onboard_time": 1683563963,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88736,
+      "num": 88736,
+      "word": "乘风2023组团观看长沙夜生活",
+      "onboard_time": 1683588503,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 86517,
@@ -443,28 +499,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81548,
+      "num": 81548,
+      "word": "银座八丁目发生抢劫",
+      "onboard_time": 1683588805,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79926,
       "num": 79926,
       "word": "今晚的月亮好美",
       "onboard_time": 1683558097,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 79681,
-      "num": 79681,
-      "word": "宝妈回应生3儿1女后又怀四胞胎",
-      "onboard_time": 1683587723,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79496,
-      "num": 79496,
-      "word": "身边不上班的女生越来越多了",
-      "onboard_time": 1683587541,
-      "rank": 39,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 78095,
@@ -507,6 +555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 53118,
+      "num": 81399,
+      "word": "无畏",
+      "onboard_time": 1683587903,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 34294,
       "num": 60852,
       "word": "新式神孔雀明王",
@@ -515,7 +571,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 23997,
+      "raw_hot": 30131,
       "num": 1081159,
       "word": "天舟六号船箭组合体垂直转运美图",
       "onboard_time": 1683555871,

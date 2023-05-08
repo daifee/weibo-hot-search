@@ -1,0 +1,410 @@
+{
+  "runTime": 1683588810940,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1072003,
+        "num": 1072003,
+        "word": "千万不要再侧躺玩手机",
+        "onboard_time": 1683561986,
+        "rank": 0,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 947033,
+        "num": 947033,
+        "word": "中秋国庆休8天上7天",
+        "onboard_time": 1683542310,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30131,
+        "num": 842972,
+        "word": "天舟六号船箭组合体垂直转运美图",
+        "onboard_time": 1683555871,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1137196,
+        "num": 836596,
+        "word": "女子裸贷5千仅4个月变欠款百万",
+        "onboard_time": 1683560668,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 782764,
+        "num": 782764,
+        "word": "瘦了二十斤后手部的变化",
+        "onboard_time": 1683557013,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 755672,
+        "num": 755672,
+        "word": "一夜醒来欠了地铁600多万",
+        "onboard_time": 1683552449,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 706771,
+        "num": 706771,
+        "word": "杨幂解约和七年前发的微博呼应上了",
+        "onboard_time": 1683541893,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 694152,
+        "num": 694152,
+        "word": "胡锡进 火车上男乘客为什么没参与制服凶手",
+        "onboard_time": 1683587001,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360026,
+        "num": 360026,
+        "word": "女子车位被邻居霸停数月直接焊死",
+        "onboard_time": 1683551972,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363675,
+        "num": 354458,
+        "word": "嘉行删除杨幂照片",
+        "onboard_time": 1683540690,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545915,
+        "num": 353824,
+        "word": "假如陈都灵没进娱乐圈",
+        "onboard_time": 1683554132,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348418,
+        "num": 348418,
+        "word": "杨洋一番爆剧",
+        "onboard_time": 1683557914,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339531,
+        "num": 339531,
+        "word": "嘉行法人曾嘉曾是杨幂经纪人",
+        "onboard_time": 1683550350,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336612,
+        "num": 336612,
+        "word": "考上编制后你还会离职吗",
+        "onboard_time": 1683587541,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336313,
+        "num": 336313,
+        "word": "美依礼芽的翻译找到了",
+        "onboard_time": 1683545728,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307686,
+        "num": 307686,
+        "word": "羊了个羊被通报",
+        "onboard_time": 1683545129,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281328,
+        "num": 281328,
+        "word": "劳伦斯",
+        "onboard_time": 1683587541,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260551,
+        "num": 260551,
+        "word": "36岁常青藤毕业确诊癌症后反而很开心",
+        "onboard_time": 1683555392,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231865,
+        "num": 231865,
+        "word": "徐峥称不存在转移资产",
+        "onboard_time": 1683555270,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230630,
+        "num": 230630,
+        "word": "山西吕梁通报初步调查情况",
+        "onboard_time": 1683588382,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354397,
+        "num": 229649,
+        "word": "男朋友说生完孩子要做亲子鉴定",
+        "onboard_time": 1683557133,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273636,
+        "num": 229590,
+        "word": "身边不上班的女生越来越多了",
+        "onboard_time": 1683587541,
+        "rank": 21,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 228522,
+        "num": 228522,
+        "word": "巴厘岛命案",
+        "onboard_time": 1683536130,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215966,
+        "num": 215966,
+        "word": "84岁姥姥和51岁妈妈一起晨读",
+        "onboard_time": 1683585134,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193385,
+        "num": 193385,
+        "word": "腾讯给杨紫的定位",
+        "onboard_time": 1683545428,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192341,
+        "num": 192341,
+        "word": "生娃当天老公发的朋友圈",
+        "onboard_time": 1683543810,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190357,
+        "num": 190357,
+        "word": "宝妈回应生3儿1女后又怀四胞胎",
+        "onboard_time": 1683587723,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186429,
+        "num": 186429,
+        "word": "朴宰范演出要求女士化妆",
+        "onboard_time": 1683554911,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166545,
+        "num": 166545,
+        "word": "待爆影帝",
+        "onboard_time": 1683554732,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160936,
+        "num": 160936,
+        "word": "地铁上被陌生人塞了奶茶",
+        "onboard_time": 1683563424,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148584,
+        "num": 148584,
+        "word": "平凡之路全职太太被出轨却不离婚",
+        "onboard_time": 1683565039,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148449,
+        "num": 148449,
+        "word": "网红城市菏泽现在什么样",
+        "onboard_time": 1683588143,
+        "rank": 31,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 140184,
+        "num": 140184,
+        "word": "娱乐圈文女主谢娜",
+        "onboard_time": 1683551551,
+        "rank": 32,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 127555,
+        "num": 127555,
+        "word": "认识8年的男闺蜜变成男朋友了",
+        "onboard_time": 1683550469,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122733,
+        "num": 122733,
+        "word": "长相思",
+        "onboard_time": 1683587963,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113757,
+        "num": 113757,
+        "word": "娜扎cos赫本",
+        "onboard_time": 1683552809,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112778,
+        "num": 112778,
+        "word": "六公主点评过的古装剧",
+        "onboard_time": 1683588382,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102623,
+        "num": 102623,
+        "word": "易烊千玺穿短裤了",
+        "onboard_time": 1683548610,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102377,
+        "num": 102377,
+        "word": "女子拍视频宣传家乡因高颜值走红",
+        "onboard_time": 1683578172,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102280,
+        "num": 102280,
+        "word": "澹台烬终于感受了爱学会了爱",
+        "onboard_time": 1683584716,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95084,
+        "num": 95084,
+        "word": "熬夜看小说 必须熬",
+        "onboard_time": 1683554791,
+        "rank": 40,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 93617,
+        "num": 93617,
+        "word": "五月天明天抢票",
+        "onboard_time": 1683556173,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 91715,
+        "num": 91715,
+        "word": "宁艺卓没有毯子",
+        "onboard_time": 1683556173,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 91511,
+        "num": 91511,
+        "word": "警号055308封存",
+        "onboard_time": 1683562766,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91069,
+        "num": 91069,
+        "word": "他叫李飞",
+        "onboard_time": 1683558453,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88736,
+        "num": 88736,
+        "word": "乘风2023组团观看长沙夜生活",
+        "onboard_time": 1683588503,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83696,
+        "num": 83696,
+        "word": "斗鱼",
+        "onboard_time": 1683547169,
+        "rank": 46,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 81548,
+        "num": 81548,
+        "word": "银座八丁目发生抢劫",
+        "onboard_time": 1683588805,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53118,
+        "num": 81399,
+        "word": "无畏",
+        "onboard_time": 1683587903,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 43196,
+        "num": 81386,
+        "word": "无畏直播",
+        "onboard_time": 1683550830,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见第十届世界华侨华人社团联谊大会代表#"
+    }
+  }
+}
