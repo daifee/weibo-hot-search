@@ -1,0 +1,410 @@
+{
+  "runTime": 1683523007508,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2696352,
+        "num": 2696352,
+        "word": "每天吃一盒蓝莓会发生什么",
+        "onboard_time": 1683518250,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1789369,
+        "num": 1789369,
+        "word": "iPhone16Pro将采用固态按键",
+        "onboard_time": 1683519390,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 51293,
+        "num": 1586482,
+        "word": "100秒回顾天舟五号撤离全过程",
+        "onboard_time": 1683514226,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1440374,
+        "num": 1440374,
+        "word": "分手一年后前任发的短信",
+        "onboard_time": 1683512663,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1292529,
+        "num": 1292529,
+        "word": "庄达菲",
+        "onboard_time": 1683519750,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1285558,
+        "num": 1285558,
+        "word": "亲属称死者最后一刻抢刀压肚子下",
+        "onboard_time": 1683517108,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1275444,
+        "num": 1275444,
+        "word": "袁冰妍逃税公司注销",
+        "onboard_time": 1683516088,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1079135,
+        "num": 1079135,
+        "word": "中奖五千万你会立刻离职吗",
+        "onboard_time": 1683514467,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 866197,
+        "num": 866197,
+        "word": "全世界都知道赵丽颖被淘汰了",
+        "onboard_time": 1683522333,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 847349,
+        "num": 847349,
+        "word": "Angelababy定制礼服腰围改小11.5厘米",
+        "onboard_time": 1683510326,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 820820,
+        "num": 820820,
+        "word": "刘亦菲曾被韩国女生霸凌",
+        "onboard_time": 1683505348,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 769736,
+        "num": 769736,
+        "word": "肖战工作室是懂文案的",
+        "onboard_time": 1683516568,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 678967,
+        "num": 678967,
+        "word": "六公主评价长月烬明",
+        "onboard_time": 1683503487,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 678675,
+        "num": 678675,
+        "word": "科目二太难结果放弃了考驾照",
+        "onboard_time": 1683510026,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 521237,
+        "num": 521237,
+        "word": "泄曲",
+        "onboard_time": 1683520712,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 482461,
+        "num": 482461,
+        "word": "美依礼芽人气断层第一",
+        "onboard_time": 1683464071,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480296,
+        "num": 480296,
+        "word": "淄博一季度GDP超1000亿元",
+        "onboard_time": 1683517708,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 464627,
+        "num": 464627,
+        "word": "那英说热情的台湾人让她感觉到家了",
+        "onboard_time": 1683521019,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 429956,
+        "num": 429956,
+        "word": "儿时的发小因为生孩子去世了",
+        "onboard_time": 1683470734,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 421621,
+        "num": 421621,
+        "word": "李亚鹏在别墅小院种菜被警告",
+        "onboard_time": 1683500960,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 401560,
+        "num": 401560,
+        "word": "罗云熙白鹿三搭看缘分",
+        "onboard_time": 1683521132,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 395027,
+        "num": 395027,
+        "word": "万柳书院75套房源上架抵押拍卖",
+        "onboard_time": 1683520413,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 381286,
+        "num": 381286,
+        "word": "虐猫群以爱猫做群名打掩护",
+        "onboard_time": 1683516688,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362693,
+        "num": 362693,
+        "word": "医院开出2.3万元中药处方",
+        "onboard_time": 1683519212,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359710,
+        "num": 359710,
+        "word": "徐明浩有钱且bking",
+        "onboard_time": 1683521852,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355225,
+        "num": 355225,
+        "word": "下季乘风没有郑秀晶就不礼貌了",
+        "onboard_time": 1683521071,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338518,
+        "num": 338518,
+        "word": "周杰伦厦门",
+        "onboard_time": 1683522152,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 330860,
+        "num": 330860,
+        "word": "因挖呀挖爆火老师身陷6大传闻",
+        "onboard_time": 1683488592,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 299677,
+        "num": 299677,
+        "word": "妈妈是我见过最瘦的人了",
+        "onboard_time": 1683521311,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 291119,
+        "num": 291119,
+        "word": "高铁上被掌掴女孩坚决不和解",
+        "onboard_time": 1683451410,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326425,
+        "num": 288824,
+        "word": "魏晨爸爸当家录制vlog",
+        "onboard_time": 1683522333,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285331,
+        "num": 285331,
+        "word": "忽然理解妈妈为什么容易生气",
+        "onboard_time": 1683512728,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 272679,
+        "num": 272679,
+        "word": "店主买下打错彩票中了30万",
+        "onboard_time": 1683520352,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267929,
+        "num": 267929,
+        "word": "王子奇 斯诺克",
+        "onboard_time": 1683519812,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260578,
+        "num": 260578,
+        "word": "spicy",
+        "onboard_time": 1683521071,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 251114,
+        "num": 251114,
+        "word": "巴厘岛情侣",
+        "onboard_time": 1683501321,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227561,
+        "num": 227561,
+        "word": "有仙无侠 有情无义",
+        "onboard_time": 1683509185,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227096,
+        "num": 227096,
+        "word": "因为性格内向结果被辞退了",
+        "onboard_time": 1683509847,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213257,
+        "num": 213257,
+        "word": "陈都灵工作室编辑记录",
+        "onboard_time": 1683517826,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212388,
+        "num": 212388,
+        "word": "奶茶店员工歧视骑手买不起奶茶",
+        "onboard_time": 1683521852,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202080,
+        "num": 202080,
+        "word": "张杰带女儿探班谢娜",
+        "onboard_time": 1683502102,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200219,
+        "num": 200219,
+        "word": "aespa新歌SpicyMV",
+        "onboard_time": 1683522032,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186194,
+        "num": 186194,
+        "word": "甜小姐与冷先生今日开播",
+        "onboard_time": 1683522272,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177602,
+        "num": 177602,
+        "word": "梅西当选2023年劳伦斯最佳男运动员奖",
+        "onboard_time": 1683515187,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175979,
+        "num": 175979,
+        "word": "我为奶牛猫发声",
+        "onboard_time": 1683516568,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164829,
+        "num": 164829,
+        "word": "莲花楼",
+        "onboard_time": 1683513447,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164036,
+        "num": 164036,
+        "word": "难听",
+        "onboard_time": 1683522873,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149173,
+        "num": 149173,
+        "word": "护心OST阵容",
+        "onboard_time": 1683522933,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101024,
+        "num": 145625,
+        "word": "鬼灭之刃",
+        "onboard_time": 1683506428,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 72822,
+        "num": 144589,
+        "word": "芭莎慈善晚会名单",
+        "onboard_time": 1683502766,
+        "rank": 49,
+        "category": "时尚,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#这就是祖国你永远可以相信她#"
+    }
+  }
+}
