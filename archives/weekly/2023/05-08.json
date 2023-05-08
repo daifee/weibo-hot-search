@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683542020982,
+  "endTime": 1683544479166,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2110130,
+      "num": 630107,
+      "word": "杨幂解约和七年前发的微博呼应上了",
+      "onboard_time": 1683541893,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1937119,
       "num": 1513687,
       "word": "杰克辣条 虐猫",
@@ -153,14 +161,6 @@
       "onboard_time": 1683503487,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1745805,
-      "num": 630107,
-      "word": "杨幂解约和七年前发的微博呼应上了",
-      "onboard_time": 1683541893,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 1676861,
@@ -395,6 +395,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 763815,
+      "num": 2965308,
+      "word": "3岁小宝去世器官将延续6人生命",
+      "onboard_time": 1683539429,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 740571,
       "num": 740571,
       "word": "主办方称赵今麦不存在插队行为",
@@ -432,14 +440,6 @@
       "word": "二阳",
       "onboard_time": 1683508648,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 726401,
-      "num": 2965308,
-      "word": "3岁小宝去世器官将延续6人生命",
-      "onboard_time": 1683539429,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -523,6 +523,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 545184,
+      "num": 545184,
+      "word": "中秋国庆休8天上7天",
+      "onboard_time": 1683542310,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 540491,
       "num": 540491,
       "word": "泄曲",
@@ -595,6 +603,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 448706,
+      "num": 448706,
+      "word": "吕梁",
+      "onboard_time": 1683539852,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 444619,
+      "num": 444619,
+      "word": "官方回应博物馆馆长被区长推倒闭馆",
+      "onboard_time": 1683540629,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 443187,
       "num": 269826,
       "word": "朱珠产后拍戏到浪姐瘦了20斤",
@@ -657,6 +681,14 @@
       "onboard_time": 1683512969,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 408173,
+      "num": 408173,
+      "word": "因为结婚才联系要随份子吗",
+      "onboard_time": 1683543152,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 407245,
@@ -771,14 +803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 361461,
-      "num": 361461,
-      "word": "吕梁",
-      "onboard_time": 1683539852,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 361009,
       "num": 361009,
       "word": "肖战的女主运",
@@ -843,20 +867,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 351738,
-      "num": 351738,
-      "word": "官方回应博物馆馆长被区长推倒闭馆",
-      "onboard_time": 1683540629,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 349342,
       "num": 292465,
       "word": "曾嘉 嘉行",
       "onboard_time": 1683536252,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 348670,
+      "num": 348670,
+      "word": "thirsty",
+      "onboard_time": 1683540751,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 348244,
@@ -929,6 +953,14 @@
       "onboard_time": 1683523771,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 330148,
+      "num": 330148,
+      "word": "美依礼芽想和周深合作",
+      "onboard_time": 1683543091,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 329873,
@@ -1099,14 +1131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 269314,
-      "num": 269314,
-      "word": "thirsty",
-      "onboard_time": 1683540751,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 268109,
       "num": 268109,
       "word": "王子奇 斯诺克",
@@ -1155,6 +1179,14 @@
       "category": "科技,国内要闻"
     },
     {
+      "raw_hot": 255286,
+      "num": 255286,
+      "word": "虞书欣的男主运",
+      "onboard_time": 1683541531,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250701,
       "num": 250701,
       "word": "谢娜跳了XG",
@@ -1179,6 +1211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 243982,
+      "num": 243982,
+      "word": "生娃当天老公发的朋友圈",
+      "onboard_time": 1683543810,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 242610,
       "num": 242610,
       "word": "咽喉炎",
@@ -1187,12 +1227,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241332,
+      "num": 241332,
+      "word": "浙江男篮vs辽宁男篮",
+      "onboard_time": 1683544050,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 239908,
+      "num": 2368686,
+      "word": "中国留学生带五星红旗参加毕业礼",
+      "onboard_time": 1683532355,
+      "rank": 4,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 236410,
       "num": 236410,
       "word": "白桃星座",
       "onboard_time": 1683470495,
       "rank": 24,
       "category": "网红,情感"
+    },
+    {
+      "raw_hot": 235958,
+      "num": 235958,
+      "word": "KPL导播",
+      "onboard_time": 1683543509,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 235517,
@@ -1209,6 +1273,14 @@
       "onboard_time": 1683506428,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 230226,
+      "num": 230226,
+      "word": "CBA总决赛",
+      "onboard_time": 1683543570,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 230187,
@@ -1241,14 +1313,6 @@
       "onboard_time": 1683540031,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 227023,
-      "num": 2368686,
-      "word": "中国留学生带五星红旗参加毕业礼",
-      "onboard_time": 1683532355,
-      "rank": 4,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 224779,
@@ -1393,14 +1457,6 @@
       "onboard_time": 1683523651,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195419,
-      "num": 195419,
-      "word": "虞书欣的男主运",
-      "onboard_time": 1683541531,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 195072,
@@ -1795,7 +1851,7 @@
       "category": "科技,情感"
     },
     {
-      "raw_hot": 120416,
+      "raw_hot": 122579,
       "num": 1406792,
       "word": "这袋自热军粮凝结了沉甸甸的鱼水情",
       "onboard_time": 1683539429,

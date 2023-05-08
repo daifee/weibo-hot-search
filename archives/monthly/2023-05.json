@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683542020982,
+  "endTime": 1683544479166,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -547,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2110130,
+      "num": 630107,
+      "word": "杨幂解约和七年前发的微博呼应上了",
+      "onboard_time": 1683541893,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2107333,
       "num": 1531241,
       "word": "被老公催生二胎 每句话都好窒息",
@@ -937,14 +945,6 @@
       "onboard_time": 1683112586,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1745805,
-      "num": 630107,
-      "word": "杨幂解约和七年前发的微博呼应上了",
-      "onboard_time": 1683541893,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 1742679,
@@ -2907,6 +2907,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 763815,
+      "num": 2965308,
+      "word": "3岁小宝去世器官将延续6人生命",
+      "onboard_time": 1683539429,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 762849,
       "num": 762849,
       "word": "五四青年节",
@@ -3064,14 +3072,6 @@
       "word": "二阳",
       "onboard_time": 1683508648,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 726401,
-      "num": 2965308,
-      "word": "3岁小宝去世器官将延续6人生命",
-      "onboard_time": 1683539429,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -4083,6 +4083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 545184,
+      "num": 545184,
+      "word": "中秋国庆休8天上7天",
+      "onboard_time": 1683542310,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 545126,
       "num": 545126,
       "word": "彭昱畅竟然有6块腹肌",
@@ -4979,6 +4987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 448706,
+      "num": 448706,
+      "word": "吕梁",
+      "onboard_time": 1683539852,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447338,
       "num": 447338,
       "word": "新冠大流行迎来转折点",
@@ -5017,6 +5033,14 @@
       "onboard_time": 1682994809,
       "rank": 45,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 444619,
+      "num": 444619,
+      "word": "官方回应博物馆馆长被区长推倒闭馆",
+      "onboard_time": 1683540629,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 443187,
@@ -5497,6 +5521,14 @@
       "onboard_time": 1682899226,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408173,
+      "num": 408173,
+      "word": "因为结婚才联系要随份子吗",
+      "onboard_time": 1683543152,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 407870,
@@ -6299,14 +6331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 361461,
-      "num": 361461,
-      "word": "吕梁",
-      "onboard_time": 1683539852,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 361351,
       "num": 361351,
       "word": "长月烬明",
@@ -6531,14 +6555,6 @@
       "category": "旅游,幽默"
     },
     {
-      "raw_hot": 351738,
-      "num": 351738,
-      "word": "官方回应博物馆馆长被区长推倒闭馆",
-      "onboard_time": 1683540629,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 351408,
       "num": 351408,
       "word": "睡眠不足的九大表现",
@@ -6585,6 +6601,14 @@
       "onboard_time": 1683014486,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 348670,
+      "num": 348670,
+      "word": "thirsty",
+      "onboard_time": 1683540751,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 348244,
@@ -7041,6 +7065,14 @@
       "onboard_time": 1683090211,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 330148,
+      "num": 330148,
+      "word": "美依礼芽想和周深合作",
+      "onboard_time": 1683543091,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 329873,
@@ -8579,14 +8611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 269314,
-      "num": 269314,
-      "word": "thirsty",
-      "onboard_time": 1683540751,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 269240,
       "num": 269240,
       "word": "看拜仁踢球 坐牢",
@@ -9049,6 +9073,14 @@
       "onboard_time": 1683217045,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255286,
+      "num": 255286,
+      "word": "虞书欣的男主运",
+      "onboard_time": 1683541531,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 254485,
@@ -9515,6 +9547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 243982,
+      "num": 243982,
+      "word": "生娃当天老公发的朋友圈",
+      "onboard_time": 1683543810,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 243789,
       "num": 243789,
       "word": "周雨彤周也撞脸",
@@ -9619,6 +9659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241332,
+      "num": 241332,
+      "word": "浙江男篮vs辽宁男篮",
+      "onboard_time": 1683544050,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 241319,
       "num": 241319,
       "word": "高铁坐过站了千万不要慌",
@@ -9657,6 +9705,14 @@
       "onboard_time": 1683102869,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 239908,
+      "num": 2368686,
+      "word": "中国留学生带五星红旗参加毕业礼",
+      "onboard_time": 1683532355,
+      "rank": 4,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 239816,
@@ -9833,6 +9889,14 @@
       "onboard_time": 1683188667,
       "rank": 24,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 235958,
+      "num": 235958,
+      "word": "KPL导播",
+      "onboard_time": 1683543509,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 235941,
@@ -10099,6 +10163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230226,
+      "num": 230226,
+      "word": "CBA总决赛",
+      "onboard_time": 1683543570,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230205,
       "num": 230205,
       "word": "恋爱牛",
@@ -10281,14 +10353,6 @@
       "onboard_time": 1683269733,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227023,
-      "num": 2368686,
-      "word": "中国留学生带五星红旗参加毕业礼",
-      "onboard_time": 1683532355,
-      "rank": 4,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 226705,
@@ -11913,14 +11977,6 @@
       "onboard_time": 1683523651,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195419,
-      "num": 195419,
-      "word": "虞书欣的男主运",
-      "onboard_time": 1683541531,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 195409,
@@ -15443,6 +15499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 122579,
+      "num": 1406792,
+      "word": "这袋自热军粮凝结了沉甸甸的鱼水情",
+      "onboard_time": 1683539429,
+      "rank": 6,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 122515,
       "num": 122515,
       "word": "长空之王单日票房破亿",
@@ -15529,14 +15593,6 @@
       "onboard_time": 1683216866,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 120416,
-      "num": 1406792,
-      "word": "这袋自热军粮凝结了沉甸甸的鱼水情",
-      "onboard_time": 1683539429,
-      "rank": 6,
-      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 120338,
