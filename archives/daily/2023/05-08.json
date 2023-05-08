@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683508909813,
+  "endTime": 1683510395162,
   "band_list": [
     {
       "raw_hot": 2270611,
@@ -11,6 +11,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2126803,
+      "num": 2126803,
+      "word": "刘亦菲曾被韩国女生霸凌",
+      "onboard_time": 1683505348,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1827886,
+      "num": 1513687,
+      "word": "杰克辣条 虐猫",
+      "onboard_time": 1683508949,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1707352,
       "num": 1707352,
       "word": "六公主评价长月烬明",
@@ -19,20 +35,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1636844,
-      "num": 1636844,
-      "word": "刘亦菲曾被韩国女生霸凌",
-      "onboard_time": 1683505348,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1505488,
       "num": 1505488,
       "word": "李亚鹏在别墅小院种菜被警告",
       "onboard_time": 1683500960,
       "rank": 14,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1491139,
+      "num": 1491139,
+      "word": "高铁上被掌掴女孩坚决不和解",
+      "onboard_time": 1683451410,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1469359,
@@ -49,14 +65,6 @@
       "onboard_time": 1683464071,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1359486,
-      "num": 1359486,
-      "word": "高铁上被掌掴女孩坚决不和解",
-      "onboard_time": 1683451410,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1197936,
@@ -139,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 535426,
+      "num": 535426,
+      "word": "二阳",
+      "onboard_time": 1683508648,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 529993,
       "num": 529993,
       "word": "给内娱一点二次元震撼",
@@ -195,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412562,
+      "num": 412562,
+      "word": "有仙无侠 有情无义",
+      "onboard_time": 1683509185,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 407245,
       "num": 407245,
       "word": "全红婵再现断崖式领先",
@@ -235,20 +259,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 359458,
+      "num": 359458,
+      "word": "偶遇王诗龄逛街",
+      "onboard_time": 1683505287,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 348472,
+      "num": 348472,
+      "word": "科目二太难结果放弃了考驾照",
+      "onboard_time": 1683510026,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 329502,
       "num": 329502,
       "word": "芭莎慈善晚会名单",
       "onboard_time": 1683502766,
       "rank": 17,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 322967,
-      "num": 322967,
-      "word": "偶遇王诗龄逛街",
-      "onboard_time": 1683505287,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 314551,
@@ -265,6 +297,14 @@
       "onboard_time": 1683455253,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306911,
+      "num": 306911,
+      "word": "张杰带女儿探班谢娜",
+      "onboard_time": 1683502102,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 306693,
@@ -299,14 +339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 286138,
-      "num": 286138,
-      "word": "张杰带女儿探班谢娜",
-      "onboard_time": 1683502102,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 284168,
       "num": 284168,
       "word": "曹县汉服订单做不完根本做不完",
@@ -331,12 +363,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 265274,
+      "num": 265274,
+      "word": "因为性格内向结果被辞退了",
+      "onboard_time": 1683509847,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 257525,
       "num": 257525,
       "word": "注视也是性骚扰的一种",
       "onboard_time": 1683475650,
       "rank": 48,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 256927,
+      "num": 256927,
+      "word": "我国可重复使用试验航天器成功着陆",
+      "onboard_time": 1683509847,
+      "rank": 25,
+      "category": "科技,国内要闻"
     },
     {
       "raw_hot": 250701,
@@ -369,6 +417,14 @@
       "onboard_time": 1683470495,
       "rank": 24,
       "category": "网红,情感"
+    },
+    {
+      "raw_hot": 231784,
+      "num": 231784,
+      "word": "鬼灭之刃",
+      "onboard_time": 1683506428,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 230187,
@@ -435,20 +491,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197558,
+      "num": 197558,
+      "word": "琳芽之旅 龚美呐赛",
+      "onboard_time": 1683509609,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195072,
       "num": 195072,
       "word": "seventeen出差十五夜",
       "onboard_time": 1683473491,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194723,
-      "num": 194723,
-      "word": "鬼灭之刃",
-      "onboard_time": 1683506428,
-      "rank": 35,
-      "category": "动漫"
     },
     {
       "raw_hot": 188001,
@@ -483,14 +539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 178557,
-      "num": 178557,
-      "word": "二阳",
-      "onboard_time": 1683508648,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175310,
       "num": 175310,
       "word": "深圳大学",
@@ -499,8 +547,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166659,
-      "num": 166659,
+      "raw_hot": 171247,
+      "num": 171247,
       "word": "秋瓷炫的中文是谈恋爱练的",
       "onboard_time": 1683475528,
       "rank": 41,
@@ -513,6 +561,14 @@
       "onboard_time": 1683462272,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163917,
+      "num": 163917,
+      "word": "Angelababy定制礼服腰围改小11.5厘米",
+      "onboard_time": 1683510326,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 160748,
@@ -529,6 +585,14 @@
       "onboard_time": 1683448291,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 155412,
+      "num": 155412,
+      "word": "aespa新专辑预售量突破180万张",
+      "onboard_time": 1683509427,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 147152,
@@ -628,7 +692,7 @@
     },
     {
       "raw_hot": 118137,
-      "num": 128293,
+      "num": 152268,
       "word": "日本游 住寺庙",
       "onboard_time": 1683500960,
       "rank": 39,

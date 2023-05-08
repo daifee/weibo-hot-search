@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683508909813,
+  "endTime": 1683510395162,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -427,6 +427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2126803,
+      "num": 2126803,
+      "word": "刘亦菲曾被韩国女生霸凌",
+      "onboard_time": 1683505348,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2107333,
       "num": 1531241,
       "word": "被老公催生二胎 每句话都好窒息",
@@ -667,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1827886,
+      "num": 1513687,
+      "word": "杰克辣条 虐猫",
+      "onboard_time": 1683508949,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1823033,
       "num": 1823033,
       "word": "黄晓明 0是啥意思",
@@ -896,14 +912,6 @@
       "word": "大冰",
       "onboard_time": 1683277048,
       "rank": 7,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1636844,
-      "num": 1636844,
-      "word": "刘亦菲曾被韩国女生霸凌",
-      "onboard_time": 1683505348,
-      "rank": 1,
       "category": "艺人"
     },
     {
@@ -3795,6 +3803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 535426,
+      "num": 535426,
+      "word": "二阳",
+      "onboard_time": 1683508648,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 534211,
       "num": 534211,
       "word": "谢娜跳了XG",
@@ -4987,6 +5003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412562,
+      "num": 412562,
+      "word": "有仙无侠 有情无义",
+      "onboard_time": 1683509185,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 410497,
       "num": 410497,
       "word": "伴娘要随份子钱吗",
@@ -5795,6 +5819,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 359458,
+      "num": 359458,
+      "word": "偶遇王诗龄逛街",
+      "onboard_time": 1683505287,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 359310,
       "num": 359310,
       "word": "三大平台的大男主剧",
@@ -5969,6 +6001,14 @@
       "onboard_time": 1683014486,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 348472,
+      "num": 348472,
+      "word": "科目二太难结果放弃了考驾照",
+      "onboard_time": 1683510026,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 347768,
@@ -6539,14 +6579,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 322967,
-      "num": 322967,
-      "word": "偶遇王诗龄逛街",
-      "onboard_time": 1683505287,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 322132,
       "num": 322132,
       "word": "厦门机场一摆渡车撞进航站楼",
@@ -6889,6 +6921,14 @@
       "onboard_time": 1683004051,
       "rank": 39,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 306911,
+      "num": 306911,
+      "word": "张杰带女儿探班谢娜",
+      "onboard_time": 1683502102,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 306606,
@@ -7419,14 +7459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 286138,
-      "num": 286138,
-      "word": "张杰带女儿探班谢娜",
-      "onboard_time": 1683502102,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 285396,
       "num": 268624,
       "word": "卡琳娜 帅",
@@ -7947,6 +7979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 265274,
+      "num": 265274,
+      "word": "因为性格内向结果被辞退了",
+      "onboard_time": 1683509847,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 265099,
       "num": 328378,
       "word": "你多长时间换一次新手机",
@@ -8201,6 +8241,14 @@
       "onboard_time": 1683044249,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 256927,
+      "num": 256927,
+      "word": "我国可重复使用试验航天器成功着陆",
+      "onboard_time": 1683509847,
+      "rank": 25,
+      "category": "科技,国内要闻"
     },
     {
       "raw_hot": 256925,
@@ -9249,6 +9297,14 @@
       "onboard_time": 1682947292,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 231784,
+      "num": 231784,
+      "word": "鬼灭之刃",
+      "onboard_time": 1683506428,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 231565,
@@ -10891,6 +10947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197558,
+      "num": 197558,
+      "word": "琳芽之旅 龚美呐赛",
+      "onboard_time": 1683509609,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197497,
       "num": 197497,
       "word": "严浩翔H舞台",
@@ -11065,14 +11129,6 @@
       "onboard_time": 1683340590,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 194723,
-      "num": 194723,
-      "word": "鬼灭之刃",
-      "onboard_time": 1683506428,
-      "rank": 35,
-      "category": "动漫"
     },
     {
       "raw_hot": 194335,
@@ -11867,14 +11923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178557,
-      "num": 178557,
-      "word": "二阳",
-      "onboard_time": 1683508648,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178533,
       "num": 1287383,
       "word": "下班护士跪地救人20分钟膝盖淤青",
@@ -12299,6 +12347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 171247,
+      "num": 171247,
+      "word": "秋瓷炫的中文是谈恋爱练的",
+      "onboard_time": 1683475528,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171044,
       "num": 171044,
       "word": "历代郭靖黄蓉一览",
@@ -12539,14 +12595,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 166659,
-      "num": 166659,
-      "word": "秋瓷炫的中文是谈恋爱练的",
-      "onboard_time": 1683475528,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 166373,
       "num": 166373,
       "word": "告五人现场",
@@ -12633,6 +12681,14 @@
       "onboard_time": 1682867369,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 163917,
+      "num": 163917,
+      "word": "Angelababy定制礼服腰围改小11.5厘米",
+      "onboard_time": 1683510326,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 163859,
@@ -13056,6 +13112,14 @@
       "word": "王源流星也为你落下来了巡演舞台",
       "onboard_time": 1683011426,
       "rank": 39,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 155412,
+      "num": 155412,
+      "word": "aespa新专辑预售量突破180万张",
+      "onboard_time": 1683509427,
+      "rank": 48,
       "category": "音乐"
     },
     {
@@ -14500,7 +14564,7 @@
     },
     {
       "raw_hot": 118137,
-      "num": 128293,
+      "num": 152268,
       "word": "日本游 住寺庙",
       "onboard_time": 1683500960,
       "rank": 39,

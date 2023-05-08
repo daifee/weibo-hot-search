@@ -1,0 +1,410 @@
+{
+  "runTime": 1683510395162,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2126803,
+        "num": 2126803,
+        "word": "刘亦菲曾被韩国女生霸凌",
+        "onboard_time": 1683505348,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1631355,
+        "num": 1631355,
+        "word": "六公主评价长月烬明",
+        "onboard_time": 1683503487,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 70188,
+        "num": 1517501,
+        "word": "航天员又要在太空拆快递了",
+        "onboard_time": 1683466712,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1827886,
+        "num": 1513687,
+        "word": "杰克辣条 虐猫",
+        "onboard_time": 1683508949,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1491139,
+        "num": 1491139,
+        "word": "高铁上被掌掴女孩坚决不和解",
+        "onboard_time": 1683451410,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1445594,
+        "num": 1445594,
+        "word": "李亚鹏在别墅小院种菜被警告",
+        "onboard_time": 1683500960,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 957844,
+        "num": 957844,
+        "word": "因挖呀挖爆火老师身陷6大传闻",
+        "onboard_time": 1683488592,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 900179,
+        "num": 900179,
+        "word": "美依礼芽人气断层第一",
+        "onboard_time": 1683464071,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 686525,
+        "num": 686525,
+        "word": "儿时的发小因为生孩子去世了",
+        "onboard_time": 1683470734,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 597960,
+        "num": 597960,
+        "word": "那些早婚的女生过得好吗",
+        "onboard_time": 1683504207,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 535426,
+        "num": 535426,
+        "word": "二阳",
+        "onboard_time": 1683508648,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522826,
+        "num": 522826,
+        "word": "杨幂爸爸说明天更是好日子",
+        "onboard_time": 1683502408,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448588,
+        "num": 448588,
+        "word": "25岁的吴倩和23岁的吴世勋",
+        "onboard_time": 1683452668,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 421373,
+        "num": 421373,
+        "word": "宋茜为Amber打call",
+        "onboard_time": 1683502823,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417430,
+        "num": 417430,
+        "word": "巴厘岛情侣",
+        "onboard_time": 1683501321,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412562,
+        "num": 412562,
+        "word": "有仙无侠 有情无义",
+        "onboard_time": 1683509185,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403439,
+        "num": 403439,
+        "word": "ZARA被曝试衣间镜子比帘子长一截",
+        "onboard_time": 1683450629,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359458,
+        "num": 359458,
+        "word": "偶遇王诗龄逛街",
+        "onboard_time": 1683505287,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349500,
+        "num": 349500,
+        "word": "周扬青",
+        "onboard_time": 1683470554,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348472,
+        "num": 348472,
+        "word": "科目二太难结果放弃了考驾照",
+        "onboard_time": 1683510026,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 315505,
+        "num": 315505,
+        "word": "警方回应火车上一男子被持刀杀害",
+        "onboard_time": 1683501923,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311478,
+        "num": 311478,
+        "word": "徐克终于出山了",
+        "onboard_time": 1683500960,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306911,
+        "num": 306911,
+        "word": "张杰带女儿探班谢娜",
+        "onboard_time": 1683502102,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 265274,
+        "num": 265274,
+        "word": "因为性格内向结果被辞退了",
+        "onboard_time": 1683509847,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 258691,
+        "num": 258691,
+        "word": "你会为了编制去异地县城吗",
+        "onboard_time": 1683505229,
+        "rank": 24,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 256927,
+        "num": 256927,
+        "word": "我国可重复使用试验航天器成功着陆",
+        "onboard_time": 1683509847,
+        "rank": 25,
+        "category": "科技,国内要闻"
+      },
+      {
+        "raw_hot": 254362,
+        "num": 254362,
+        "word": "事业编和公务员哪个更难考",
+        "onboard_time": 1683467914,
+        "rank": 26,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 252770,
+        "num": 252770,
+        "word": "曹县汉服订单做不完根本做不完",
+        "onboard_time": 1683502526,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243130,
+        "num": 243130,
+        "word": "古茗回应店员上班偷吃西瓜",
+        "onboard_time": 1683502284,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163061,
+        "num": 235185,
+        "word": "大理回应长街宴1荤7素528元",
+        "onboard_time": 1683503125,
+        "rank": 29,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 232650,
+        "num": 232650,
+        "word": "芭莎慈善晚会名单",
+        "onboard_time": 1683502766,
+        "rank": 30,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 231784,
+        "num": 231784,
+        "word": "鬼灭之刃",
+        "onboard_time": 1683506428,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 224354,
+        "num": 224354,
+        "word": "咽喉炎",
+        "onboard_time": 1683506727,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220551,
+        "num": 220551,
+        "word": "校方通报学生洗澡时晕倒身亡",
+        "onboard_time": 1683473792,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 198989,
+        "num": 198989,
+        "word": "朋友跟暧昧对象散了19公里步",
+        "onboard_time": 1683461910,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197558,
+        "num": 197558,
+        "word": "琳芽之旅 龚美呐赛",
+        "onboard_time": 1683509609,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192809,
+        "num": 192809,
+        "word": "哈登绝杀凯尔特人",
+        "onboard_time": 1683500720,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190349,
+        "num": 190349,
+        "word": "杭州不定价咖啡馆试营业首日亏3500元",
+        "onboard_time": 1683468096,
+        "rank": 37,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 184102,
+        "num": 184102,
+        "word": "周一",
+        "onboard_time": 1683506972,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179715,
+        "num": 179715,
+        "word": "注视也是性骚扰的一种",
+        "onboard_time": 1683475650,
+        "rank": 39,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 178341,
+        "num": 178341,
+        "word": "张颂文曾是高叶老师",
+        "onboard_time": 1683502884,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172165,
+        "num": 172165,
+        "word": "龚琳娜在哄骗美依礼芽吃折耳根",
+        "onboard_time": 1683502707,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171247,
+        "num": 171247,
+        "word": "秋瓷炫的中文是谈恋爱练的",
+        "onboard_time": 1683475528,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168603,
+        "num": 168603,
+        "word": "王鹤棣演民国白月光",
+        "onboard_time": 1683507211,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165625,
+        "num": 165625,
+        "word": "一个宿舍各过各的",
+        "onboard_time": 1683466831,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165121,
+        "num": 165121,
+        "word": "有一个对媳妇百依百顺的婆婆是什么感觉",
+        "onboard_time": 1683507211,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163917,
+        "num": 163917,
+        "word": "Angelababy定制礼服腰围改小11.5厘米",
+        "onboard_time": 1683510326,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 159059,
+        "num": 159059,
+        "word": "周杰伦说华流才是最屌的",
+        "onboard_time": 1683501801,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155412,
+        "num": 155412,
+        "word": "aespa新专辑预售量突破180万张",
+        "onboard_time": 1683509427,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 86741,
+        "num": 152268,
+        "word": "日本游 住寺庙",
+        "onboard_time": 1683500960,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#空间站应用与发展阶段首次飞行任务#"
+    }
+  }
+}
