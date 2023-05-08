@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683519656952,
+  "endTime": 1683520451417,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -259,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2442710,
+      "num": 2442710,
+      "word": "分手一年后前任发的短信",
+      "onboard_time": 1683512663,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2404696,
       "num": 1728350,
       "word": "狗被确诊智障了",
@@ -441,14 +449,6 @@
       "onboard_time": 1683505348,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2124336,
-      "num": 2124336,
-      "word": "分手一年后前任发的短信",
-      "onboard_time": 1683512663,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 2107333,
@@ -753,6 +753,14 @@
       "onboard_time": 1683004651,
       "rank": 6,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 1794708,
+      "num": 1794708,
+      "word": "每天吃一盒蓝莓会发生什么",
+      "onboard_time": 1683518250,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 1792374,
@@ -1259,6 +1267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1386429,
+      "num": 1386429,
+      "word": "袁冰妍逃税公司注销",
+      "onboard_time": 1683516088,
+      "rank": 6,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1384869,
       "num": 1384869,
       "word": "王源 门票",
@@ -1313,14 +1329,6 @@
       "onboard_time": 1683098612,
       "rank": 16,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 1350633,
-      "num": 1350633,
-      "word": "袁冰妍逃税公司注销",
-      "onboard_time": 1683516088,
-      "rank": 6,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1344837,
@@ -1680,6 +1688,14 @@
       "word": "家长带4名孩子摸螺蛳3人不幸溺亡",
       "onboard_time": 1683154941,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1173653,
+      "num": 1173653,
+      "word": "亲属称死者最后一刻抢刀压肚子下",
+      "onboard_time": 1683517108,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2097,22 +2113,6 @@
       "onboard_time": 1682991086,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 986003,
-      "num": 986003,
-      "word": "每天吃一盒蓝莓会发生什么",
-      "onboard_time": 1683518250,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 984913,
-      "num": 984913,
-      "word": "亲属称死者最后一刻抢刀压肚子下",
-      "onboard_time": 1683517108,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 980948,
@@ -3355,6 +3355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 607951,
+      "num": 607951,
+      "word": "淄博一季度GDP超1000亿元",
+      "onboard_time": 1683517708,
+      "rank": 12,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 606499,
       "num": 451895,
       "word": "虞书欣绿色绑带露背吊带背心",
@@ -3625,14 +3633,6 @@
       "onboard_time": 1683445890,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 561750,
-      "num": 561750,
-      "word": "淄博一季度GDP超1000亿元",
-      "onboard_time": 1683517708,
-      "rank": 12,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 561370,
@@ -3985,6 +3985,14 @@
       "onboard_time": 1683294271,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 524981,
+      "num": 524981,
+      "word": "iPhone16Pro将采用固态按键",
+      "onboard_time": 1683519390,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 524921,
@@ -6323,6 +6331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 339949,
+      "num": 339949,
+      "word": "庄达菲",
+      "onboard_time": 1683519750,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 339243,
       "num": 339243,
       "word": "五月天吧",
@@ -7203,6 +7219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301074,
+      "num": 297373,
+      "word": "陈都灵工作室编辑记录",
+      "onboard_time": 1683517826,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 300272,
       "num": 252521,
       "word": "五一多景点人从众现状曝光",
@@ -7289,14 +7313,6 @@
       "onboard_time": 1683447092,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 297373,
-      "num": 297373,
-      "word": "陈都灵工作室编辑记录",
-      "onboard_time": 1683517826,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 297261,
@@ -8049,6 +8065,14 @@
       "onboard_time": 1683091472,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268109,
+      "num": 268109,
+      "word": "王子奇 斯诺克",
+      "onboard_time": 1683519812,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 267524,
@@ -11603,14 +11627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 189272,
-      "num": 189272,
-      "word": "iPhone16Pro将采用固态按键",
-      "onboard_time": 1683519390,
-      "rank": 30,
-      "category": "科技"
-    },
-    {
       "raw_hot": 189263,
       "num": 189263,
       "word": "刘耀文演唱会银白发色饭拍",
@@ -12715,6 +12731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169552,
+      "num": 169552,
+      "word": "医院开出2.3万元中药处方",
+      "onboard_time": 1683519212,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169206,
       "num": 169206,
       "word": "剧院魅影",
@@ -12891,6 +12915,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 165618,
+      "num": 165618,
+      "word": "深圳草莓音乐节",
+      "onboard_time": 1683520052,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 165616,
       "num": 165616,
       "word": "女子深夜加班回家吃榴莲被丈夫指责",
@@ -12985,6 +13017,14 @@
       "onboard_time": 1683092189,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163452,
+      "num": 163452,
+      "word": "王心凌唱歌吃到彩带",
+      "onboard_time": 1683518189,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 163423,
@@ -13427,14 +13467,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 154689,
-      "num": 154689,
-      "word": "王心凌唱歌吃到彩带",
-      "onboard_time": 1683518189,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 154560,
       "num": 172773,
       "word": "cp29场照被炼进AI模型",
@@ -13633,6 +13665,14 @@
       "onboard_time": 1682929407,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 150639,
+      "num": 150639,
+      "word": "万柳书院75套房源上架抵押拍卖",
+      "onboard_time": 1683520413,
+      "rank": 47,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 150626,
@@ -15435,6 +15475,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 91765,
+      "num": 166002,
+      "word": "淘宝回应网友报销账单",
+      "onboard_time": 1683518427,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90632,
       "num": 90632,
       "word": "不办婚礼怎么收回礼金",
@@ -15715,14 +15763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 70878,
-      "num": 159237,
-      "word": "淘宝回应网友报销账单",
-      "onboard_time": 1683518427,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 70341,
       "num": 981650,
       "word": "对青春最好的致敬是成为更好的自己",
@@ -15828,7 +15868,7 @@
     },
     {
       "raw_hot": 63131,
-      "num": 1709833,
+      "num": 1806703,
       "word": "100秒回顾天舟五号撤离全过程",
       "onboard_time": 1683514226,
       "rank": 2,

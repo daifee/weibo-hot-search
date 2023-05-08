@@ -1,7 +1,15 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683519656952,
+  "endTime": 1683520451417,
   "band_list": [
+    {
+      "raw_hot": 2442710,
+      "num": 2442710,
+      "word": "分手一年后前任发的短信",
+      "onboard_time": 1683512663,
+      "rank": 14,
+      "category": "幽默"
+    },
     {
       "raw_hot": 2270611,
       "num": 2270611,
@@ -27,20 +35,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2124336,
-      "num": 2124336,
-      "word": "分手一年后前任发的短信",
-      "onboard_time": 1683512663,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1937119,
       "num": 1513687,
       "word": "杰克辣条 虐猫",
       "onboard_time": 1683508949,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1794708,
+      "num": 1794708,
+      "word": "每天吃一盒蓝莓会发生什么",
+      "onboard_time": 1683518250,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 1765514,
@@ -91,8 +99,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1350633,
-      "num": 1350633,
+      "raw_hot": 1386429,
+      "num": 1386429,
       "word": "袁冰妍逃税公司注销",
       "onboard_time": 1683516088,
       "rank": 6,
@@ -123,28 +131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1173653,
+      "num": 1173653,
+      "word": "亲属称死者最后一刻抢刀压肚子下",
+      "onboard_time": 1683517108,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1009876,
       "num": 1009876,
       "word": "儿时的发小因为生孩子去世了",
       "onboard_time": 1683470734,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 986003,
-      "num": 986003,
-      "word": "每天吃一盒蓝莓会发生什么",
-      "onboard_time": 1683518250,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 984913,
-      "num": 984913,
-      "word": "亲属称死者最后一刻抢刀压肚子下",
-      "onboard_time": 1683517108,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 919662,
@@ -235,6 +235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 607951,
+      "num": 607951,
+      "word": "淄博一季度GDP超1000亿元",
+      "onboard_time": 1683517708,
+      "rank": 12,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 583926,
       "num": 583926,
       "word": "宋茜为Amber打call",
@@ -243,20 +251,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 561750,
-      "num": 561750,
-      "word": "淄博一季度GDP超1000亿元",
-      "onboard_time": 1683517708,
-      "rank": 12,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 529993,
       "num": 529993,
       "word": "给内娱一点二次元震撼",
       "onboard_time": 1683473430,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 524981,
+      "num": 524981,
+      "word": "iPhone16Pro将采用固态按键",
+      "onboard_time": 1683519390,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 512627,
@@ -427,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 339949,
+      "num": 339949,
+      "word": "庄达菲",
+      "onboard_time": 1683519750,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 339222,
       "num": 339222,
       "word": "全红婵世界杯再斩获1枚金牌",
@@ -483,20 +499,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301074,
+      "num": 297373,
+      "word": "陈都灵工作室编辑记录",
+      "onboard_time": 1683517826,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 300524,
       "num": 300524,
       "word": "杭州不定价咖啡馆试营业首日亏3500元",
       "onboard_time": 1683468096,
       "rank": 19,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 297373,
-      "num": 297373,
-      "word": "陈都灵工作室编辑记录",
-      "onboard_time": 1683517826,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 296510,
@@ -537,6 +553,14 @@
       "onboard_time": 1683455670,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 268109,
+      "num": 268109,
+      "word": "王子奇 斯诺克",
+      "onboard_time": 1683519812,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 266170,
@@ -747,14 +771,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 189272,
-      "num": 189272,
-      "word": "iPhone16Pro将采用固态按键",
-      "onboard_time": 1683519390,
-      "rank": 30,
-      "category": "科技"
-    },
-    {
       "raw_hot": 188671,
       "num": 188671,
       "word": "徐明浩晒与陈哲远的合照",
@@ -827,6 +843,14 @@
       "category": "财经,艺人"
     },
     {
+      "raw_hot": 169552,
+      "num": 169552,
+      "word": "医院开出2.3万元中药处方",
+      "onboard_time": 1683519212,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168616,
       "num": 169517,
       "word": "约基奇53分",
@@ -835,12 +859,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165618,
+      "num": 165618,
+      "word": "深圳草莓音乐节",
+      "onboard_time": 1683520052,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 164293,
       "num": 164293,
       "word": "蔡天凤被碎尸案明日将再度提讯",
       "onboard_time": 1683462272,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163452,
+      "num": 163452,
+      "word": "王心凌唱歌吃到彩带",
+      "onboard_time": 1683518189,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 160748,
@@ -875,12 +915,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154689,
-      "num": 154689,
-      "word": "王心凌唱歌吃到彩带",
-      "onboard_time": 1683518189,
-      "rank": 43,
-      "category": "音乐"
+      "raw_hot": 150639,
+      "num": 150639,
+      "word": "万柳书院75套房源上架抵押拍卖",
+      "onboard_time": 1683520413,
+      "rank": 47,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 147152,
@@ -1067,6 +1107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91765,
+      "num": 166002,
+      "word": "淘宝回应网友报销账单",
+      "onboard_time": 1683518427,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84467,
       "num": 96696,
       "word": "WB对战DRG",
@@ -1091,14 +1139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70878,
-      "num": 159237,
-      "word": "淘宝回应网友报销账单",
-      "onboard_time": 1683518427,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 68288,
       "num": 68288,
       "word": "曼联",
@@ -1108,7 +1148,7 @@
     },
     {
       "raw_hot": 63131,
-      "num": 1709833,
+      "num": 1806703,
       "word": "100秒回顾天舟五号撤离全过程",
       "onboard_time": 1683514226,
       "rank": 2,

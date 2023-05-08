@@ -1,0 +1,410 @@
+{
+  "runTime": 1683520451417,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2442710,
+        "num": 2442710,
+        "word": "分手一年后前任发的短信",
+        "onboard_time": 1683512663,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1873838,
+        "num": 1873838,
+        "word": "科目二太难结果放弃了考驾照",
+        "onboard_time": 1683510026,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 49425,
+        "num": 1806703,
+        "word": "100秒回顾天舟五号撤离全过程",
+        "onboard_time": 1683514226,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1794708,
+        "num": 1794708,
+        "word": "每天吃一盒蓝莓会发生什么",
+        "onboard_time": 1683518250,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1483900,
+        "num": 1483900,
+        "word": "中奖五千万你会立刻离职吗",
+        "onboard_time": 1683514467,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1386429,
+        "num": 1386429,
+        "word": "袁冰妍逃税公司注销",
+        "onboard_time": 1683516088,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1173653,
+        "num": 1173653,
+        "word": "亲属称死者最后一刻抢刀压肚子下",
+        "onboard_time": 1683517108,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1122235,
+        "num": 1122235,
+        "word": "刘亦菲曾被韩国女生霸凌",
+        "onboard_time": 1683505348,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1120523,
+        "num": 1120523,
+        "word": "肖战工作室是懂文案的",
+        "onboard_time": 1683516568,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1032283,
+        "num": 1032283,
+        "word": "虐猫群以爱猫做群名打掩护",
+        "onboard_time": 1683516688,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 901350,
+        "num": 901350,
+        "word": "六公主评价长月烬明",
+        "onboard_time": 1683503487,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 758351,
+        "num": 758351,
+        "word": "Angelababy定制礼服腰围改小11.5厘米",
+        "onboard_time": 1683510326,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 607951,
+        "num": 607951,
+        "word": "淄博一季度GDP超1000亿元",
+        "onboard_time": 1683517708,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 524981,
+        "num": 524981,
+        "word": "iPhone16Pro将采用固态按键",
+        "onboard_time": 1683519390,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 483435,
+        "num": 483435,
+        "word": "李亚鹏在别墅小院种菜被警告",
+        "onboard_time": 1683500960,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 478472,
+        "num": 478472,
+        "word": "美依礼芽人气断层第一",
+        "onboard_time": 1683464071,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449078,
+        "num": 449078,
+        "word": "儿时的发小因为生孩子去世了",
+        "onboard_time": 1683470734,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 398206,
+        "num": 398206,
+        "word": "忽然理解妈妈为什么容易生气",
+        "onboard_time": 1683512728,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 357157,
+        "num": 357157,
+        "word": "高铁上被掌掴女孩坚决不和解",
+        "onboard_time": 1683451410,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354979,
+        "num": 354979,
+        "word": "梅西当选2023年劳伦斯最佳男运动员奖",
+        "onboard_time": 1683515187,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352343,
+        "num": 352343,
+        "word": "我为奶牛猫发声",
+        "onboard_time": 1683516568,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 345204,
+        "num": 345204,
+        "word": "因挖呀挖爆火老师身陷6大传闻",
+        "onboard_time": 1683488592,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 339949,
+        "num": 339949,
+        "word": "庄达菲",
+        "onboard_time": 1683519750,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336615,
+        "num": 336615,
+        "word": "有仙无侠 有情无义",
+        "onboard_time": 1683509185,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298209,
+        "num": 298209,
+        "word": "巴厘岛情侣",
+        "onboard_time": 1683501321,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301074,
+        "num": 296803,
+        "word": "陈都灵工作室编辑记录",
+        "onboard_time": 1683517826,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 283666,
+        "num": 283666,
+        "word": "张杰带女儿探班谢娜",
+        "onboard_time": 1683502102,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 276344,
+        "num": 276344,
+        "word": "莲花楼",
+        "onboard_time": 1683513447,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268109,
+        "num": 268109,
+        "word": "王子奇 斯诺克",
+        "onboard_time": 1683519812,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261939,
+        "num": 261939,
+        "word": "秋瓷炫的中文是谈恋爱练的",
+        "onboard_time": 1683475528,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232137,
+        "num": 232137,
+        "word": "因为性格内向结果被辞退了",
+        "onboard_time": 1683509847,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206082,
+        "num": 206082,
+        "word": "95后女生演了24年老人",
+        "onboard_time": 1683511707,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197501,
+        "num": 197501,
+        "word": "iPhone15ProMax边框更窄",
+        "onboard_time": 1683512007,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 185960,
+        "num": 185960,
+        "word": "约基奇 太阳老板",
+        "onboard_time": 1683512969,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180545,
+        "num": 180545,
+        "word": "宋茜为Amber打call",
+        "onboard_time": 1683502823,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177631,
+        "num": 177631,
+        "word": "杜兰特",
+        "onboard_time": 1683514946,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177152,
+        "num": 177152,
+        "word": "刚恋爱就失恋了",
+        "onboard_time": 1683514287,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175281,
+        "num": 175281,
+        "word": "那些早婚的女生过得好吗",
+        "onboard_time": 1683504207,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169552,
+        "num": 169552,
+        "word": "医院开出2.3万元中药处方",
+        "onboard_time": 1683519212,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91765,
+        "num": 166002,
+        "word": "淘宝回应网友报销账单",
+        "onboard_time": 1683518427,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165618,
+        "num": 165618,
+        "word": "深圳草莓音乐节",
+        "onboard_time": 1683520052,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164274,
+        "num": 164274,
+        "word": "ZARA被曝试衣间镜子比帘子长一截",
+        "onboard_time": 1683450629,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163452,
+        "num": 163452,
+        "word": "王心凌唱歌吃到彩带",
+        "onboard_time": 1683518189,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159856,
+        "num": 159856,
+        "word": "徐明浩晒与陈哲远的合照",
+        "onboard_time": 1683514407,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158149,
+        "num": 158149,
+        "word": "aespa新专辑预售量突破180万张",
+        "onboard_time": 1683509427,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156855,
+        "num": 156855,
+        "word": "杨幂爸爸说明天更是好日子",
+        "onboard_time": 1683502408,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154601,
+        "num": 154601,
+        "word": "二阳",
+        "onboard_time": 1683508648,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150639,
+        "num": 150639,
+        "word": "万柳书院75套房源上架抵押拍卖",
+        "onboard_time": 1683520413,
+        "rank": 47,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 108469,
+        "num": 150443,
+        "word": "鬼灭之刃",
+        "onboard_time": 1683506428,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 97404,
+        "num": 148359,
+        "word": "芭莎慈善晚会名单",
+        "onboard_time": 1683502766,
+        "rank": 49,
+        "category": "时尚,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#空间站应用与发展阶段首次飞行任务#"
+    }
+  }
+}
