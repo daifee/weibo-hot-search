@@ -1,6 +1,6 @@
 {
   "startTime": 1683562973147,
-  "endTime": 1683585199443,
+  "endTime": 1683587879847,
   "band_list": [
     {
       "raw_hot": 1301163,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 865678,
+      "num": 865678,
+      "word": "千万不要再侧躺玩手机",
+      "onboard_time": 1683561986,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 804022,
       "num": 804022,
       "word": "瘦了二十斤后手部的变化",
@@ -35,8 +43,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 708588,
-      "num": 708588,
+      "raw_hot": 736387,
+      "num": 736387,
       "word": "中秋国庆休8天上7天",
       "onboard_time": 1683542310,
       "rank": 5,
@@ -91,15 +99,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 458440,
-      "num": 458440,
-      "word": "美依礼芽的翻译找到了",
-      "onboard_time": 1683545728,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 434809,
+      "raw_hot": 482240,
       "num": 434809,
       "word": "假如陈都灵没进娱乐圈",
       "onboard_time": 1683554132,
@@ -107,12 +107,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 406941,
-      "num": 406941,
-      "word": "千万不要再侧躺玩手机",
-      "onboard_time": 1683561986,
-      "rank": 34,
-      "category": "幽默,情感"
+      "raw_hot": 458440,
+      "num": 458440,
+      "word": "美依礼芽的翻译找到了",
+      "onboard_time": 1683545728,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 391908,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351249,
+      "num": 351249,
+      "word": "女子车位被邻居霸停数月直接焊死",
+      "onboard_time": 1683551972,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349473,
       "num": 349473,
       "word": "巴厘岛命案",
@@ -171,20 +179,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 259456,
-      "num": 259456,
-      "word": "女子车位被邻居霸停数月直接焊死",
-      "onboard_time": 1683551972,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 258171,
       "num": 258171,
       "word": "他叫李飞",
       "onboard_time": 1683558453,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 245649,
+      "num": 245649,
+      "word": "胡锡进 火车上男乘客为什么没参与制服凶手",
+      "onboard_time": 1683587001,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223470,
@@ -203,20 +211,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214225,
+      "num": 214225,
+      "word": "生娃当天老公发的朋友圈",
+      "onboard_time": 1683543810,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 213381,
+      "num": 213381,
+      "word": "84岁姥姥和51岁妈妈一起晨读",
+      "onboard_time": 1683585134,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211982,
+      "num": 211982,
+      "word": "徐峥称不存在转移资产",
+      "onboard_time": 1683555270,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196575,
       "num": 196575,
       "word": "地铁上被陌生人塞了奶茶",
       "onboard_time": 1683563424,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 195124,
-      "num": 195124,
-      "word": "徐峥称不存在转移资产",
-      "onboard_time": 1683555270,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 192633,
@@ -267,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155539,
+      "num": 155539,
+      "word": "劳伦斯",
+      "onboard_time": 1683587541,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153625,
       "num": 153625,
       "word": "什么叫男凝",
@@ -291,8 +323,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140505,
-      "num": 140505,
+      "raw_hot": 140892,
+      "num": 140892,
       "word": "平凡之路全职太太被出轨却不离婚",
       "onboard_time": 1683565039,
       "rank": 22,
@@ -363,12 +395,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121787,
-      "num": 121787,
-      "word": "生娃当天老公发的朋友圈",
-      "onboard_time": 1683543810,
+      "raw_hot": 110417,
+      "num": 110417,
+      "word": "女子拍视频宣传家乡因高颜值走红",
+      "onboard_time": 1683578172,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107808,
+      "num": 107808,
+      "word": "澹台烬终于感受了爱学会了爱",
+      "onboard_time": 1683584716,
       "rank": 42,
-      "category": "情感"
+      "category": "影视"
+    },
+    {
+      "raw_hot": 101690,
+      "num": 101690,
+      "word": "考上编制后你还会离职吗",
+      "onboard_time": 1683587541,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100513,
@@ -403,6 +451,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 79681,
+      "num": 79681,
+      "word": "宝妈回应生3儿1女后又怀四胞胎",
+      "onboard_time": 1683587723,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79496,
+      "num": 79496,
+      "word": "身边不上班的女生越来越多了",
+      "onboard_time": 1683587541,
+      "rank": 39,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 78095,
       "num": 173756,
       "word": "全红婵夺冠后又被考拉抱",
@@ -427,20 +491,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72746,
+      "num": 72746,
+      "word": "张云雷希望大家支持传统艺术",
+      "onboard_time": 1683587541,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66946,
       "num": 73302,
       "word": "KPL导播",
       "onboard_time": 1683543509,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 63869,
-      "num": 63869,
-      "word": "女子拍视频宣传家乡因高颜值走红",
-      "onboard_time": 1683578172,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34294,
@@ -451,28 +515,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 26340,
-      "num": 30848,
-      "word": "澹台烬终于感受了爱学会了爱",
-      "onboard_time": 1683584716,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 23997,
       "num": 1081159,
       "word": "天舟六号船箭组合体垂直转运美图",
       "onboard_time": 1683555871,
       "rank": 2,
       "category": "科技"
-    },
-    {
-      "raw_hot": 21833,
-      "num": 30834,
-      "word": "84岁姥姥和51岁妈妈一起晨读",
-      "onboard_time": 1683585134,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21533,
