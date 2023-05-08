@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683527706810,
+  "endTime": 1683530171054,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -283,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2444799,
+      "num": 2376960,
+      "word": "杨幂换头像",
+      "onboard_time": 1683526291,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2442710,
       "num": 2442710,
       "word": "分手一年后前任发的短信",
@@ -313,14 +321,6 @@
       "onboard_time": 1683291209,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2376960,
-      "num": 2376960,
-      "word": "杨幂换头像",
-      "onboard_time": 1683526291,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 2363424,
@@ -425,6 +425,14 @@
       "onboard_time": 1683245009,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2245876,
+      "num": 2245876,
+      "word": "迪丽热巴 嘉行",
+      "onboard_time": 1683528514,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2228363,
@@ -545,6 +553,14 @@
       "onboard_time": 1683388528,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2042771,
+      "num": 602552,
+      "word": "杨幂工作室微博改名",
+      "onboard_time": 1683527196,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 2020479,
@@ -1484,7 +1500,7 @@
     },
     {
       "raw_hot": 1295498,
-      "num": 820787,
+      "num": 1237491,
       "word": "著名导演万玛才旦去世",
       "onboard_time": 1683527014,
       "rank": 10,
@@ -1592,6 +1608,14 @@
       "word": "安庆地震",
       "onboard_time": 1683377369,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1246724,
+      "num": 653789,
+      "word": "疑似巴厘岛命案当事人照片被晒出",
+      "onboard_time": 1683527975,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1737,6 +1761,14 @@
       "onboard_time": 1683294153,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1183120,
+      "num": 632505,
+      "word": "黑莲花 平番",
+      "onboard_time": 1683527196,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 1182951,
@@ -2803,14 +2835,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 756939,
-      "num": 589819,
-      "word": "杨幂工作室微博改名",
-      "onboard_time": 1683527196,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 755976,
       "num": 755976,
       "word": "龚俊 他坐第一排我坐第七排",
@@ -2921,6 +2945,14 @@
       "onboard_time": 1682985262,
       "rank": 7,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 729071,
+      "num": 519357,
+      "word": "撞死了一只羊",
+      "onboard_time": 1683528815,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 727017,
@@ -4187,14 +4219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 519032,
-      "num": 328685,
-      "word": "黑莲花 平番",
-      "onboard_time": 1683527196,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 519021,
       "num": 519021,
       "word": "华晨宇的音乐是挑观众的",
@@ -5179,6 +5203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 419014,
+      "num": 243453,
+      "word": "朱珠产后拍戏到浪姐瘦了20斤",
+      "onboard_time": 1683527975,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 418756,
       "num": 418756,
       "word": "Maybe复出",
@@ -5913,6 +5945,14 @@
       "onboard_time": 1683005726,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 373782,
+      "num": 238814,
+      "word": "分手快乐",
+      "onboard_time": 1683529471,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 373028,
@@ -7795,6 +7835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288254,
+      "num": 288254,
+      "word": "iPhone15",
+      "onboard_time": 1683525691,
+      "rank": 33,
+      "category": "科技"
+    },
+    {
       "raw_hot": 288195,
       "num": 272694,
       "word": "刘惜君 牛",
@@ -7897,6 +7945,14 @@
       "onboard_time": 1683352168,
       "rank": 25,
       "category": "游戏,综艺"
+    },
+    {
+      "raw_hot": 283571,
+      "num": 205888,
+      "word": "乘风4最新人气排名",
+      "onboard_time": 1683528753,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 283215,
@@ -9185,14 +9241,6 @@
       "onboard_time": 1683261452,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 243922,
-      "num": 243922,
-      "word": "iPhone15",
-      "onboard_time": 1683525691,
-      "rank": 33,
-      "category": "科技"
     },
     {
       "raw_hot": 243789,
@@ -11251,6 +11299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201667,
+      "num": 201667,
+      "word": "中了五亿",
+      "onboard_time": 1683529596,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 201594,
       "num": 201594,
       "word": "淄博",
@@ -11817,6 +11873,14 @@
       "onboard_time": 1683437011,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190988,
+      "num": 160211,
+      "word": "蔡徐坤 Baz Luhrmann",
+      "onboard_time": 1683529596,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 190797,
@@ -12875,6 +12939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172757,
+      "num": 172757,
+      "word": "代号鸢",
+      "onboard_time": 1683527795,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 172740,
       "num": 172740,
       "word": "乌鸦扯下以色列国旗",
@@ -13763,6 +13835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 153589,
+      "num": 153589,
+      "word": "警方回应高铁掌掴事件双方均受罚",
+      "onboard_time": 1683527735,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153510,
       "num": 139898,
       "word": "王嘉尔MetGala",
@@ -14209,6 +14289,14 @@
       "onboard_time": 1683523291,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142481,
+      "num": 142481,
+      "word": "火车行凶案凶手疑从衡山上车",
+      "onboard_time": 1683529898,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142064,
