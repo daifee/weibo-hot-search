@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683545627905,
+  "endTime": 1683549248942,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -75,6 +75,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2370779,
+      "num": 2370779,
+      "word": "羊了个羊被通报",
+      "onboard_time": 1683545129,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2350730,
       "num": 1562514,
       "word": "分手快乐",
@@ -107,20 +115,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2261580,
+      "num": 2261580,
+      "word": "杨幂解约和七年前发的微博呼应上了",
+      "onboard_time": 1683541893,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2228363,
       "num": 2228363,
       "word": "全世界都知道赵丽颖被淘汰了",
       "onboard_time": 1683522333,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2198404,
-      "num": 675475,
-      "word": "杨幂解约和七年前发的微博呼应上了",
-      "onboard_time": 1683541893,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 2140321,
@@ -153,6 +161,14 @@
       "onboard_time": 1683519390,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1783452,
+      "num": 1783452,
+      "word": "中秋国庆休8天上7天",
+      "onboard_time": 1683542310,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1765514,
@@ -291,14 +307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1194980,
-      "num": 1194980,
-      "word": "中秋国庆休8天上7天",
-      "onboard_time": 1683542310,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1194913,
       "num": 1194913,
       "word": "肖战工作室是懂文案的",
@@ -329,6 +337,14 @@
       "onboard_time": 1683537753,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1104845,
+      "num": 1104845,
+      "word": "腾讯给杨紫的定位",
+      "onboard_time": 1683545428,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 1026355,
@@ -363,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 923281,
+      "num": 923281,
+      "word": "因为结婚才联系要随份子吗",
+      "onboard_time": 1683543152,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 922212,
       "num": 841354,
       "word": "万玛才旦",
@@ -393,6 +417,14 @@
       "onboard_time": 1683455793,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 863262,
+      "num": 863262,
+      "word": "时代峰峻回应马嘉祺宋亚轩缓考",
+      "onboard_time": 1683546988,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 787707,
@@ -451,14 +483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 713381,
-      "num": 713381,
-      "word": "因为结婚才联系要随份子吗",
-      "onboard_time": 1683543152,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 689690,
       "num": 689690,
       "word": "朋友跟暧昧对象散了19公里步",
@@ -489,6 +513,14 @@
       "onboard_time": 1683465393,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 617414,
+      "num": 617414,
+      "word": "斗鱼",
+      "onboard_time": 1683547169,
+      "rank": 10,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 616154,
@@ -527,6 +559,14 @@
       "num": 583926,
       "word": "宋茜为Amber打call",
       "onboard_time": 1683502823,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 563746,
+      "num": 563746,
+      "word": "美依礼芽的翻译找到了",
+      "onboard_time": 1683545728,
       "rank": 11,
       "category": "综艺"
     },
@@ -1035,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305683,
+      "num": 305683,
+      "word": "网信部门派工作组进驻斗鱼",
+      "onboard_time": 1683547230,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301389,
       "num": 301389,
       "word": "KPL导播",
@@ -1171,14 +1219,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 259241,
-      "num": 259241,
-      "word": "羊了个羊被通报",
-      "onboard_time": 1683545129,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 257525,
       "num": 257525,
       "word": "注视也是性骚扰的一种",
@@ -1201,6 +1241,14 @@
       "onboard_time": 1683509847,
       "rank": 25,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 256223,
+      "num": 256223,
+      "word": "CBA总决赛",
+      "onboard_time": 1683543570,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 255286,
@@ -1259,14 +1307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 238718,
-      "num": 238718,
-      "word": "CBA总决赛",
-      "onboard_time": 1683543570,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 236410,
       "num": 236410,
       "word": "白桃星座",
@@ -1321,6 +1361,22 @@
       "onboard_time": 1683540031,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 228083,
+      "num": 228083,
+      "word": "美依礼芽人气票数破千万",
+      "onboard_time": 1683546089,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 225872,
+      "num": 225872,
+      "word": "易烊千玺穿短裤了",
+      "onboard_time": 1683548610,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 224779,
@@ -1385,6 +1441,14 @@
       "onboard_time": 1683510688,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 211158,
+      "num": 211158,
+      "word": "墙体发霉的房子不能住人",
+      "onboard_time": 1683548369,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 211056,
@@ -1465,6 +1529,14 @@
       "onboard_time": 1683523651,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195245,
+      "num": 195245,
+      "word": "刚上班vs上班一小时后",
+      "onboard_time": 1683546809,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 195072,
@@ -1571,14 +1643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 179692,
-      "num": 179692,
-      "word": "腾讯给杨紫的定位",
-      "onboard_time": 1683545428,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 179555,
       "num": 179555,
       "word": "王鹤棣演民国白月光",
@@ -1611,6 +1675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 175953,
+      "num": 175953,
+      "word": "全红婵夺冠后又被考拉抱",
+      "onboard_time": 1683545791,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175310,
       "num": 175310,
       "word": "深圳大学",
@@ -1624,6 +1696,14 @@
       "word": "为什么仙侠剧容易爆火",
       "onboard_time": 1683512126,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 175169,
+      "num": 175169,
+      "word": "破事精英2",
+      "onboard_time": 1683548610,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -1675,6 +1755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 165464,
+      "num": 165464,
+      "word": "相处11年的闺蜜把我拉黑了",
+      "onboard_time": 1683548610,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 164946,
       "num": 164946,
       "word": "博物馆发公告称馆长被区长推倒受伤",
@@ -1707,6 +1795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 159973,
+      "num": 159973,
+      "word": "程晓玥分享生产日记",
+      "onboard_time": 1683547651,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159548,
       "num": 159548,
       "word": "娜么正瀚",
@@ -1737,6 +1833,14 @@
       "onboard_time": 1683527735,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153398,
+      "num": 153398,
+      "word": "新式神孔雀明王",
+      "onboard_time": 1683545669,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 149883,
@@ -1971,6 +2075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 97523,
+      "num": 108526,
+      "word": "阴阳师",
+      "onboard_time": 1683546210,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 96802,
       "num": 96802,
       "word": "赵丽颖孙千学手势舞",
@@ -2001,6 +2113,14 @@
       "onboard_time": 1683459269,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 83912,
+      "num": 454133,
+      "word": "费德勒说上海见",
+      "onboard_time": 1683547230,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 83189,
