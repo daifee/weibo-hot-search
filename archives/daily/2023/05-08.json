@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683550181768,
+  "endTime": 1683552033996,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -83,6 +83,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2361182,
+      "num": 2361182,
+      "word": "中秋国庆休8天上7天",
+      "onboard_time": 1683542310,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2350730,
       "num": 1562514,
       "word": "分手快乐",
@@ -145,14 +153,6 @@
       "onboard_time": 1683505348,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1950831,
-      "num": 1950831,
-      "word": "中秋国庆休8天上7天",
-      "onboard_time": 1683542310,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1937119,
@@ -225,6 +225,14 @@
       "onboard_time": 1683500960,
       "rank": 14,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1502392,
+      "num": 1502392,
+      "word": "巴厘岛命案",
+      "onboard_time": 1683536130,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1491139,
@@ -339,12 +347,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1106658,
-      "num": 1106658,
-      "word": "巴厘岛命案",
-      "onboard_time": 1683536130,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 1159687,
+      "num": 683403,
+      "word": "嘉行法人曾嘉曾是杨幂经纪人",
+      "onboard_time": 1683550350,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 1104845,
@@ -587,6 +595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 538253,
+      "num": 538253,
+      "word": "相亲对象很好但我好像不喜欢",
+      "onboard_time": 1683549331,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 532765,
       "num": 532765,
       "word": "那英说热情的台湾人让她感觉到家了",
@@ -601,6 +617,14 @@
       "onboard_time": 1683473430,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 528274,
+      "num": 528274,
+      "word": "相处11年的闺蜜把我拉黑了",
+      "onboard_time": 1683548610,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 512627,
@@ -732,7 +756,7 @@
     },
     {
       "raw_hot": 409305,
-      "num": 301796,
+      "num": 333679,
       "word": "易烊千玺穿短裤了",
       "onboard_time": 1683548610,
       "rank": 30,
@@ -907,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 357508,
+      "num": 357508,
+      "word": "认识8年的男闺蜜变成男朋友了",
+      "onboard_time": 1683550469,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 355984,
       "num": 355984,
       "word": "莲花楼",
@@ -987,6 +1019,14 @@
       "category": "幽默,美妆"
     },
     {
+      "raw_hot": 339600,
+      "num": 227792,
+      "word": "长空之王豆瓣开分6.6",
+      "onboard_time": 1683550711,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 339222,
       "num": 339222,
       "word": "全红婵世界杯再斩获1枚金牌",
@@ -1043,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324096,
+      "num": 324096,
+      "word": "女子因琐事太多从体制内裸辞",
+      "onboard_time": 1683549931,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315312,
       "num": 315312,
       "word": "布克三分",
@@ -1057,6 +1105,14 @@
       "onboard_time": 1683465994,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 311409,
+      "num": 311409,
+      "word": "娱乐圈文女主谢娜",
+      "onboard_time": 1683551551,
+      "rank": 24,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 309378,
@@ -1089,14 +1145,6 @@
       "onboard_time": 1683547230,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 302643,
-      "num": 302643,
-      "word": "相处11年的闺蜜把我拉黑了",
-      "onboard_time": 1683548610,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 301389,
@@ -1201,14 +1249,6 @@
       "onboard_time": 1683520352,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272281,
-      "num": 272281,
-      "word": "相亲对象很好但我好像不喜欢",
-      "onboard_time": 1683549331,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 271305,
@@ -1323,6 +1363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246277,
+      "num": 246277,
+      "word": "全红婵夺冠后又被考拉抱",
+      "onboard_time": 1683545791,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 243639,
       "num": 243639,
       "word": "美依礼芽人气票数破千万",
@@ -1403,6 +1451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 225005,
+      "num": 225005,
+      "word": "遇到结婚不回礼的人怎么办",
+      "onboard_time": 1683549751,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 224779,
       "num": 224779,
       "word": "呼吁动物保护法",
@@ -1467,6 +1523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 212647,
+      "num": 212647,
+      "word": "杭州警方通报男子高空扔狗",
+      "onboard_time": 1683551851,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211056,
       "num": 211056,
       "word": "山西吕梁山革命博物馆发闭馆公告",
@@ -1521,14 +1585,6 @@
       "onboard_time": 1683465994,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 198678,
-      "num": 198678,
-      "word": "全红婵夺冠后又被考拉抱",
-      "onboard_time": 1683545791,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 198547,
@@ -1608,6 +1664,14 @@
       "word": "aster",
       "onboard_time": 1683537453,
       "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 190100,
+      "num": 190100,
+      "word": "无畏直播",
+      "onboard_time": 1683550830,
+      "rank": 40,
       "category": "游戏"
     },
     {
@@ -1755,6 +1819,14 @@
       "category": "财经,艺人"
     },
     {
+      "raw_hot": 170322,
+      "num": 170322,
+      "word": "王玉雯王子奇眼神",
+      "onboard_time": 1683551249,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 168616,
       "num": 169517,
       "word": "约基奇53分",
@@ -1777,14 +1849,6 @@
       "onboard_time": 1683520052,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 165483,
-      "num": 165483,
-      "word": "遇到结婚不回礼的人怎么办",
-      "onboard_time": 1683549751,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 165383,
@@ -1883,6 +1947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147785,
+      "num": 147785,
+      "word": "女子车位被邻居霸停数月直接焊死",
+      "onboard_time": 1683551972,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147152,
       "num": 147152,
       "word": "大学生在消防喷淋上挂衣服水淹酒店",
@@ -1961,14 +2033,6 @@
       "onboard_time": 1683472951,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127325,
-      "num": 127325,
-      "word": "女子因琐事太多从体制内裸辞",
-      "onboard_time": 1683549931,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126873,
