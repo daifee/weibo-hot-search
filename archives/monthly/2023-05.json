@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683581595192,
+  "endTime": 1683584153556,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -17403,6 +17403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 50159,
+      "num": 50159,
+      "word": "女子拍视频宣传家乡因高颜值走红",
+      "onboard_time": 1683578172,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49625,
       "num": 126072,
       "word": "DRG晋级败者组决赛",
@@ -17633,14 +17641,6 @@
       "onboard_time": 1683399554,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 29087,
-      "num": 29087,
-      "word": "女子拍视频宣传家乡因高颜值走红",
-      "onboard_time": 1683578172,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28246,
