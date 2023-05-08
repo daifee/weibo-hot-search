@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683555358532,
+  "endTime": 1683556420602,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -371,8 +371,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1072104,
-      "num": 1072104,
+      "raw_hot": 1076137,
+      "num": 1076137,
       "word": "美依礼芽的翻译找到了",
       "onboard_time": 1683545728,
       "rank": 11,
@@ -401,6 +401,14 @@
       "onboard_time": 1683533013,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 976393,
+      "num": 734142,
+      "word": "待爆影帝",
+      "onboard_time": 1683554732,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 923281,
@@ -451,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 838604,
+      "num": 722361,
+      "word": "徐峥称不存在转移资产",
+      "onboard_time": 1683555270,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 803185,
       "num": 803185,
       "word": "女子车位被邻居霸停数月直接焊死",
@@ -473,6 +489,14 @@
       "onboard_time": 1683539429,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 744463,
+      "num": 548874,
+      "word": "假如陈都灵没进娱乐圈",
+      "onboard_time": 1683554132,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 740571,
@@ -513,6 +537,14 @@
       "onboard_time": 1683508648,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 698085,
+      "num": 698085,
+      "word": "一夜醒来欠了地铁600多万",
+      "onboard_time": 1683552449,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 689690,
@@ -595,6 +627,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 592694,
+      "num": 538946,
+      "word": "朴宰范演出要求女士化妆",
+      "onboard_time": 1683554911,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 583926,
       "num": 583926,
       "word": "宋茜为Amber打call",
@@ -651,12 +691,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 526492,
-      "num": 526492,
-      "word": "假如陈都灵没进娱乐圈",
-      "onboard_time": 1683554132,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 513983,
+      "num": 513983,
+      "word": "熬夜看小说 必须熬",
+      "onboard_time": 1683554791,
+      "rank": 40,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 512627,
@@ -673,14 +713,6 @@
       "onboard_time": 1683532414,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 504435,
-      "num": 504435,
-      "word": "一夜醒来欠了地铁600多万",
-      "onboard_time": 1683552449,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 502212,
@@ -721,14 +753,6 @@
       "onboard_time": 1683501321,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 450110,
-      "num": 450110,
-      "word": "待爆影帝",
-      "onboard_time": 1683554732,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 448706,
@@ -1003,14 +1027,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 355444,
-      "num": 355444,
-      "word": "朴宰范演出要求女士化妆",
-      "onboard_time": 1683554911,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 355225,
       "num": 355225,
       "word": "下季乘风没有郑秀晶就不礼貌了",
@@ -1020,7 +1036,7 @@
     },
     {
       "raw_hot": 352425,
-      "num": 340105,
+      "num": 346812,
       "word": "娜扎cos赫本",
       "onboard_time": 1683552809,
       "rank": 25,
@@ -1339,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268800,
+      "num": 268800,
+      "word": "辽宁男篮总决赛开门红",
+      "onboard_time": 1683555813,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 268109,
       "num": 268109,
       "word": "王子奇 斯诺克",
@@ -1355,12 +1379,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265368,
+      "num": 265368,
+      "word": "36岁常青藤毕业确诊癌症后反而很开心",
+      "onboard_time": 1683555392,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 261703,
+      "num": 261703,
+      "word": "宁艺卓没有毯子",
+      "onboard_time": 1683556173,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 260578,
       "num": 260578,
       "word": "spicy",
       "onboard_time": 1683521071,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 258158,
+      "num": 258158,
+      "word": "内地小生一番票房榜",
+      "onboard_time": 1683556052,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 257525,
@@ -1459,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237424,
+      "num": 237424,
+      "word": "五月天明天抢票",
+      "onboard_time": 1683556173,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 236410,
       "num": 236410,
       "word": "白桃星座",
@@ -1513,14 +1569,6 @@
       "onboard_time": 1683540031,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 227333,
-      "num": 227333,
-      "word": "徐峥称不存在转移资产",
-      "onboard_time": 1683555270,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 225437,
@@ -1579,12 +1627,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 216038,
-      "num": 216038,
-      "word": "熬夜看小说 必须熬",
-      "onboard_time": 1683554791,
-      "rank": 40,
-      "category": "情感,幽默"
+      "raw_hot": 215551,
+      "num": 215551,
+      "word": "张镇麟三双",
+      "onboard_time": 1683555450,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 215477,
@@ -1672,6 +1720,14 @@
       "word": "极乐净土",
       "onboard_time": 1683465994,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 199461,
+      "num": 199461,
+      "word": "种地吧",
+      "onboard_time": 1683556411,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -1940,7 +1996,7 @@
     },
     {
       "raw_hot": 165383,
-      "num": 172978,
+      "num": 189592,
       "word": "新式神孔雀明王",
       "onboard_time": 1683545669,
       "rank": 41,
@@ -2068,7 +2124,7 @@
     },
     {
       "raw_hot": 142365,
-      "num": 174262,
+      "num": 190987,
       "word": "Hero直播",
       "onboard_time": 1683554851,
       "rank": 47,
@@ -2377,6 +2433,14 @@
       "onboard_time": 1683487632,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24141,
+      "num": 1319553,
+      "word": "天舟六号船箭组合体垂直转运美图",
+      "onboard_time": 1683555871,
+      "rank": 2,
+      "category": "科技"
     }
   ],
   "hotgov_list": [
@@ -2388,6 +2452,9 @@
     },
     {
       "word": "#习近平将主持中国—中亚峰会#"
+    },
+    {
+      "word": "#高质量发展调研行#"
     }
   ]
 }
