@@ -1,6 +1,6 @@
 {
   "startTime": 1683562973147,
-  "endTime": 1683578021561,
+  "endTime": 1683580493972,
   "band_list": [
     {
       "raw_hot": 1301163,
@@ -441,6 +441,14 @@
       "onboard_time": 1683545669,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 24950,
+      "num": 24950,
+      "word": "女子拍视频宣传家乡因高颜值走红",
+      "onboard_time": 1683578172,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23997,
