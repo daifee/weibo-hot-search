@@ -1,0 +1,410 @@
+{
+  "runTime": 1683545627905,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2448973,
+        "num": 2448973,
+        "word": "嘉行删除杨幂照片",
+        "onboard_time": 1683540690,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568529,
+        "num": 2268744,
+        "word": "3岁小宝去世器官将延续6人生命",
+        "onboard_time": 1683539429,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5985,
+        "num": 2199546,
+        "word": "100秒回顾天舟五号撤离全过程",
+        "onboard_time": 1683514226,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2194158,
+        "num": 2194158,
+        "word": "情侣吵架从8楼将萨摩耶扔下",
+        "onboard_time": 1683537453,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251548,
+        "num": 1195039,
+        "word": "中国留学生带五星红旗参加毕业礼",
+        "onboard_time": 1683532355,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1194980,
+        "num": 1194980,
+        "word": "中秋国庆休8天上7天",
+        "onboard_time": 1683542310,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100199,
+        "num": 986589,
+        "word": "这袋自热军粮凝结了沉甸甸的鱼水情",
+        "onboard_time": 1683539429,
+        "rank": 6,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 956443,
+        "num": 956443,
+        "word": "中了五亿",
+        "onboard_time": 1683529596,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 767459,
+        "num": 767459,
+        "word": "马嘉祺宋亚轩缓考",
+        "onboard_time": 1683537753,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 713381,
+        "num": 713381,
+        "word": "因为结婚才联系要随份子吗",
+        "onboard_time": 1683543152,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2198404,
+        "num": 675475,
+        "word": "杨幂解约和七年前发的微博呼应上了",
+        "onboard_time": 1683541893,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 729126,
+        "num": 663799,
+        "word": "赵今麦 插队",
+        "onboard_time": 1683525090,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579423,
+        "num": 579423,
+        "word": "黑莲花 平番",
+        "onboard_time": 1683527196,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 887449,
+        "num": 578836,
+        "word": "杨幂工作室微博改名",
+        "onboard_time": 1683527196,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568263,
+        "num": 568263,
+        "word": "TFBOYS演唱会",
+        "onboard_time": 1683524488,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 549190,
+        "num": 549190,
+        "word": "于正 射雕就是要流量带新人",
+        "onboard_time": 1683533013,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 539489,
+        "num": 539489,
+        "word": "巴厘岛命案",
+        "onboard_time": 1683536130,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533254,
+        "num": 533254,
+        "word": "分手快乐",
+        "onboard_time": 1683529471,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459361,
+        "num": 459361,
+        "word": "李明德删除报警微博",
+        "onboard_time": 1683533135,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 405829,
+        "num": 405829,
+        "word": "吕梁",
+        "onboard_time": 1683539852,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391594,
+        "num": 391594,
+        "word": "全世界都知道赵丽颖被淘汰了",
+        "onboard_time": 1683522333,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 379384,
+        "num": 379384,
+        "word": "美依礼芽想和周深合作",
+        "onboard_time": 1683543091,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366050,
+        "num": 366050,
+        "word": "生娃当天老公发的朋友圈",
+        "onboard_time": 1683543810,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 344516,
+        "num": 344516,
+        "word": "12306回应男子在火车上被持刀杀害",
+        "onboard_time": 1683525749,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330905,
+        "num": 330905,
+        "word": "thirsty",
+        "onboard_time": 1683540751,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 327925,
+        "num": 327925,
+        "word": "aespa回归",
+        "onboard_time": 1683537869,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 322042,
+        "num": 322042,
+        "word": "每天吃一盒蓝莓会发生什么",
+        "onboard_time": 1683518250,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 301389,
+        "num": 301389,
+        "word": "KPL导播",
+        "onboard_time": 1683543509,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 294411,
+        "num": 294411,
+        "word": "官方回应博物馆馆长被区长推倒闭馆",
+        "onboard_time": 1683540629,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277281,
+        "num": 277281,
+        "word": "小区业主群的聊天记录",
+        "onboard_time": 1683538291,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259241,
+        "num": 259241,
+        "word": "羊了个羊被通报",
+        "onboard_time": 1683545129,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245195,
+        "num": 245195,
+        "word": "柳智敏粉发",
+        "onboard_time": 1683539732,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 238718,
+        "num": 238718,
+        "word": "CBA总决赛",
+        "onboard_time": 1683543570,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230171,
+        "num": 230171,
+        "word": "iPhone16Pro将采用固态按键",
+        "onboard_time": 1683519390,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 218598,
+        "num": 218598,
+        "word": "虞书欣的男主运",
+        "onboard_time": 1683541531,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206135,
+        "num": 206135,
+        "word": "嘉行最新艺人表",
+        "onboard_time": 1683530376,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188684,
+        "num": 188684,
+        "word": "朱珠产后拍戏到浪姐瘦了20斤",
+        "onboard_time": 1683527975,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187449,
+        "num": 187449,
+        "word": "谢娜cos破产姐妹",
+        "onboard_time": 1683539132,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180765,
+        "num": 180765,
+        "word": "亲属称死者最后一刻抢刀压肚子下",
+        "onboard_time": 1683517108,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179692,
+        "num": 179692,
+        "word": "腾讯给杨紫的定位",
+        "onboard_time": 1683545428,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179687,
+        "num": 179687,
+        "word": "唐嫣起诉B站侵权",
+        "onboard_time": 1683532414,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36250,
+        "num": 174834,
+        "word": "淄博一季度GDP超1000亿元",
+        "onboard_time": 1683517708,
+        "rank": 41,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 171134,
+        "num": 171134,
+        "word": "乘风4最新人气排名",
+        "onboard_time": 1683528753,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168808,
+        "num": 168808,
+        "word": "aespa空降",
+        "onboard_time": 1683540812,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167064,
+        "num": 167064,
+        "word": "周杰伦刘畊宏扫楼",
+        "onboard_time": 1683534453,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159687,
+        "num": 159687,
+        "word": "浙江男篮vs辽宁男篮",
+        "onboard_time": 1683544050,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155390,
+        "num": 155390,
+        "word": "主办方称赵今麦不存在插队行为",
+        "onboard_time": 1683532295,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124048,
+        "num": 150797,
+        "word": "清融发博斥私生",
+        "onboard_time": 1683540331,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150560,
+        "num": 150560,
+        "word": "分手一年后前任发的短信",
+        "onboard_time": 1683512663,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 51785,
+        "num": 149969,
+        "word": "一梦2",
+        "onboard_time": 1683540031,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#空间站应用与发展阶段首次飞行任务#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683544479166,
+  "endTime": 1683545627905,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -491,6 +491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2198404,
+      "num": 675475,
+      "word": "杨幂解约和七年前发的微博呼应上了",
+      "onboard_time": 1683541893,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2179014,
       "num": 2179014,
       "word": "吴倩 淘汰",
@@ -544,14 +552,6 @@
       "word": "刘亦菲曾被韩国女生霸凌",
       "onboard_time": 1683505348,
       "rank": 1,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2110130,
-      "num": 630107,
-      "word": "杨幂解约和七年前发的微博呼应上了",
-      "onboard_time": 1683541893,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -1777,6 +1777,14 @@
       "onboard_time": 1683470554,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1194980,
+      "num": 1194980,
+      "word": "中秋国庆休8天上7天",
+      "onboard_time": 1683542310,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1194913,
@@ -3123,6 +3131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 713381,
+      "num": 713381,
+      "word": "因为结婚才联系要随份子吗",
+      "onboard_time": 1683543152,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 709367,
       "num": 709367,
       "word": "婚礼前一天被通知不需要伴娘",
@@ -4081,14 +4097,6 @@
       "onboard_time": 1683119070,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 545184,
-      "num": 545184,
-      "word": "中秋国庆休8天上7天",
-      "onboard_time": 1683542310,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 545126,
@@ -5523,14 +5531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 408173,
-      "num": 408173,
-      "word": "因为结婚才联系要随份子吗",
-      "onboard_time": 1683543152,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 407870,
       "num": 407870,
       "word": "王一博长空之王综合票房破6亿",
@@ -6067,6 +6067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379384,
+      "num": 379384,
+      "word": "美依礼芽想和周深合作",
+      "onboard_time": 1683543091,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 379153,
       "num": 379153,
       "word": "久哲BO7的神",
@@ -6225,6 +6233,14 @@
       "onboard_time": 1683029668,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 366050,
+      "num": 366050,
+      "word": "生娃当天老公发的朋友圈",
+      "onboard_time": 1683543810,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 365809,
@@ -7067,14 +7083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 330148,
-      "num": 330148,
-      "word": "美依礼芽想和周深合作",
-      "onboard_time": 1683543091,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 329873,
       "num": 329873,
       "word": "柳智敏粉发",
@@ -7737,6 +7745,14 @@
       "onboard_time": 1683289469,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 301389,
+      "num": 301389,
+      "word": "KPL导播",
+      "onboard_time": 1683543509,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 301074,
@@ -8907,6 +8923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 259241,
+      "num": 259241,
+      "word": "羊了个羊被通报",
+      "onboard_time": 1683545129,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258933,
       "num": 258933,
       "word": "还没入职就让我先把离职签了",
@@ -9185,6 +9209,14 @@
       "onboard_time": 1683255809,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 251548,
+      "num": 2368686,
+      "word": "中国留学生带五星红旗参加毕业礼",
+      "onboard_time": 1683532355,
+      "rank": 4,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 251447,
@@ -9547,14 +9579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 243982,
-      "num": 243982,
-      "word": "生娃当天老公发的朋友圈",
-      "onboard_time": 1683543810,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 243789,
       "num": 243789,
       "word": "周雨彤周也撞脸",
@@ -9707,14 +9731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 239908,
-      "num": 2368686,
-      "word": "中国留学生带五星红旗参加毕业礼",
-      "onboard_time": 1683532355,
-      "rank": 4,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 239816,
       "num": 239816,
       "word": "情绪低落时的解压方式",
@@ -9761,6 +9777,14 @@
       "onboard_time": 1683433828,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 238718,
+      "num": 238718,
+      "word": "CBA总决赛",
+      "onboard_time": 1683543570,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 238581,
@@ -9889,14 +9913,6 @@
       "onboard_time": 1683188667,
       "rank": 24,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 235958,
-      "num": 235958,
-      "word": "KPL导播",
-      "onboard_time": 1683543509,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 235941,
@@ -10161,14 +10177,6 @@
       "onboard_time": 1682842046,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 230226,
-      "num": 230226,
-      "word": "CBA总决赛",
-      "onboard_time": 1683543570,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 230205,
@@ -12817,6 +12825,14 @@
       "onboard_time": 1683113009,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179692,
+      "num": 179692,
+      "word": "腾讯给杨紫的定位",
+      "onboard_time": 1683545428,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 179555,
