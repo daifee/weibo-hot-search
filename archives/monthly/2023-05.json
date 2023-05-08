@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683502407254,
+  "endTime": 1683508909813,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -819,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1707352,
+      "num": 1707352,
+      "word": "六公主评价长月烬明",
+      "onboard_time": 1683503487,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1703424,
       "num": 1703424,
       "word": "极乐净土",
@@ -888,6 +896,14 @@
       "word": "大冰",
       "onboard_time": 1683277048,
       "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1636844,
+      "num": 1636844,
+      "word": "刘亦菲曾被韩国女生霸凌",
+      "onboard_time": 1683505348,
+      "rank": 1,
       "category": "艺人"
     },
     {
@@ -1043,6 +1059,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 1505488,
+      "num": 1505488,
+      "word": "李亚鹏在别墅小院种菜被警告",
+      "onboard_time": 1683500960,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1502186,
       "num": 1502186,
       "word": "蚀骨危情",
@@ -1081,6 +1105,14 @@
       "onboard_time": 1683028349,
       "rank": 3,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1469359,
+      "num": 1469359,
+      "word": "因挖呀挖爆火老师身陷6大传闻",
+      "onboard_time": 1683488592,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1467422,
@@ -2115,14 +2147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 926380,
-      "num": 926380,
-      "word": "李亚鹏在别墅小院种菜被警告",
-      "onboard_time": 1683500960,
-      "rank": 14,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 925152,
       "num": 442962,
       "word": "马云被聘为东京大学客座教授",
@@ -2305,14 +2329,6 @@
       "onboard_time": 1683173677,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 860184,
-      "num": 860184,
-      "word": "因挖呀挖爆火老师身陷6大传闻",
-      "onboard_time": 1683488592,
-      "rank": 30,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 857505,
@@ -3195,12 +3211,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 616154,
+      "num": 616154,
+      "word": "杨幂爸爸说明天更是好日子",
+      "onboard_time": 1683502408,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 613428,
       "num": 613428,
       "word": "苏群 湖人演过头",
       "onboard_time": 1683258210,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 610939,
+      "num": 610939,
+      "word": "那些早婚的女生过得好吗",
+      "onboard_time": 1683504207,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 609808,
@@ -3336,6 +3368,14 @@
       "word": "高圆圆晒图为贾静雯打call",
       "onboard_time": 1683254307,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 583926,
+      "num": 583926,
+      "word": "宋茜为Amber打call",
+      "onboard_time": 1683502823,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -4379,6 +4419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 459892,
+      "num": 595626,
+      "word": "巴厘岛情侣",
+      "onboard_time": 1683265167,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459727,
       "num": 459727,
       "word": "张真源把背心剪了",
@@ -4755,14 +4803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 428733,
-      "num": 595626,
-      "word": "巴厘岛情侣",
-      "onboard_time": 1683265167,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 428704,
       "num": 286936,
       "word": "而我只能去上班",
@@ -4785,6 +4825,14 @@
       "onboard_time": 1683018929,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 426717,
+      "num": 426717,
+      "word": "警方回应火车上一男子被持刀杀害",
+      "onboard_time": 1683501923,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 424338,
@@ -5377,6 +5425,14 @@
       "onboard_time": 1682865334,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 383320,
+      "num": 383320,
+      "word": "徐克终于出山了",
+      "onboard_time": 1683500960,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 383235,
@@ -6003,14 +6059,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 344763,
-      "num": 344763,
-      "word": "徐克终于出山了",
-      "onboard_time": 1683500960,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 344509,
       "num": 344509,
       "word": "易烊千玺新歌",
@@ -6307,6 +6355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 329502,
+      "num": 329502,
+      "word": "芭莎慈善晚会名单",
+      "onboard_time": 1683502766,
+      "rank": 17,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 329087,
       "num": 300845,
       "word": "特种兵旅游通宵不睡觉单日花费仅百元",
@@ -6481,6 +6537,14 @@
       "onboard_time": 1683448591,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 322967,
+      "num": 322967,
+      "word": "偶遇王诗龄逛街",
+      "onboard_time": 1683505287,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 322132,
@@ -6835,6 +6899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 306457,
+      "num": 293801,
+      "word": "古茗回应店员上班偷吃西瓜",
+      "onboard_time": 1683502284,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 306406,
       "num": 306406,
       "word": "保罗回更衣室了",
@@ -7049,6 +7121,14 @@
       "onboard_time": 1683448351,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 296510,
+      "num": 296510,
+      "word": "张颂文曾是高叶老师",
+      "onboard_time": 1683502884,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 296221,
@@ -7339,6 +7419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286138,
+      "num": 286138,
+      "word": "张杰带女儿探班谢娜",
+      "onboard_time": 1683502102,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 285396,
       "num": 268624,
       "word": "卡琳娜 帅",
@@ -7363,6 +7451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284168,
+      "num": 284168,
+      "word": "曹县汉服订单做不完根本做不完",
+      "onboard_time": 1683502526,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283771,
       "num": 247985,
       "word": "赵丽颖五月行程",
@@ -7385,6 +7481,14 @@
       "onboard_time": 1682916628,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 283048,
+      "num": 283048,
+      "word": "你会为了编制去异地县城吗",
+      "onboard_time": 1683505229,
+      "rank": 24,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 282879,
@@ -8371,6 +8475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248793,
+      "num": 248793,
+      "word": "周一",
+      "onboard_time": 1683506972,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 248766,
       "num": 248766,
       "word": "Ella教张嘉倪哼唱",
@@ -9169,6 +9281,14 @@
       "onboard_time": 1683259471,
       "rank": 44,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 229813,
+      "num": 229813,
+      "word": "李宛妲 华筝",
+      "onboard_time": 1683503487,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 229778,
@@ -10083,6 +10203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210814,
+      "num": 210814,
+      "word": "龚琳娜在哄骗美依礼芽吃折耳根",
+      "onboard_time": 1683502707,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210683,
       "num": 210683,
       "word": "丁真cos李元芳",
@@ -10097,6 +10225,14 @@
       "onboard_time": 1683018687,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 210409,
+      "num": 243893,
+      "word": "大理回应长街宴1荤7素528元",
+      "onboard_time": 1683503125,
+      "rank": 29,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 210303,
@@ -10169,6 +10305,14 @@
       "onboard_time": 1683263371,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208583,
+      "num": 208583,
+      "word": "周杰伦说华流才是最屌的",
+      "onboard_time": 1683501801,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 208224,
@@ -10923,6 +11067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194723,
+      "num": 194723,
+      "word": "鬼灭之刃",
+      "onboard_time": 1683506428,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 194335,
       "num": 194335,
       "word": "LGD大鹅",
@@ -11249,6 +11401,14 @@
       "onboard_time": 1683122314,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188001,
+      "num": 188001,
+      "word": "有一个对媳妇百依百顺的婆婆是什么感觉",
+      "onboard_time": 1683507211,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 187085,
@@ -11611,6 +11771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179555,
+      "num": 179555,
+      "word": "王鹤棣演民国白月光",
+      "onboard_time": 1683507211,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 179354,
       "num": 179354,
       "word": "杨迪要你管直拍",
@@ -11696,6 +11864,14 @@
       "word": "重庆震感",
       "onboard_time": 1683091830,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178557,
+      "num": 178557,
+      "word": "二阳",
+      "onboard_time": 1683508648,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -12611,6 +12787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160748,
+      "num": 160748,
+      "word": "seventeen团体聚餐造型",
+      "onboard_time": 1683503247,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 160723,
       "num": 160723,
       "word": "宋亚轩斗舞",
@@ -13243,6 +13427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147152,
+      "num": 147152,
+      "word": "大学生在消防喷淋上挂衣服水淹酒店",
+      "onboard_time": 1683501501,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146640,
       "num": 146640,
       "word": "cp29 汉末",
@@ -13579,6 +13771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 134887,
+      "num": 134887,
+      "word": "掘金vs太阳",
+      "onboard_time": 1683508409,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134515,
       "num": 134515,
       "word": "B太二刷许昌胖东来",
@@ -13827,14 +14027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129265,
-      "num": 129265,
-      "word": "警方回应火车上一男子被持刀杀害",
-      "onboard_time": 1683501923,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129153,
       "num": 129153,
       "word": "人生路不熟单日票房反超",
@@ -13905,14 +14097,6 @@
       "onboard_time": 1682922508,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128426,
-      "num": 128426,
-      "word": "周杰伦说华流才是最屌的",
-      "onboard_time": 1683501801,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 128285,
@@ -14313,6 +14497,14 @@
       "onboard_time": 1683160348,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118137,
+      "num": 128293,
+      "word": "日本游 住寺庙",
+      "onboard_time": 1683500960,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 117983,
@@ -14987,14 +15179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 83392,
-      "num": 83392,
-      "word": "日本游 住寺庙",
-      "onboard_time": 1683500960,
-      "rank": 39,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 83189,
       "num": 83189,
       "word": "女子生活照被陌生人盗用欲P成裸照",
@@ -15075,14 +15259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 78683,
-      "num": 78683,
-      "word": "大学生在消防喷淋上挂衣服水淹酒店",
-      "onboard_time": 1683501501,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77880,
       "num": 77880,
       "word": "休宁巴伊叶因家人去世缺席活动",
@@ -15096,6 +15272,14 @@
       "word": "女子晒公公做的婚礼方案事无巨细",
       "onboard_time": 1682982558,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76934,
+      "num": 1695241,
+      "word": "航天员又要在太空拆快递了",
+      "onboard_time": 1683466712,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -15131,14 +15315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 76005,
-      "num": 1695241,
-      "word": "航天员又要在太空拆快递了",
-      "onboard_time": 1683466712,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75825,
       "num": 413581,
       "word": "五一景区到处都是人从众",
@@ -15160,14 +15336,6 @@
       "word": "今天是马克思诞辰205周年",
       "onboard_time": 1683262175,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73338,
-      "num": 73338,
-      "word": "古茗回应店员上班偷吃西瓜",
-      "onboard_time": 1683502284,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
