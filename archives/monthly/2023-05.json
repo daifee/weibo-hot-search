@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683513800220,
+  "endTime": 1683515904140,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -467,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2080350,
+      "num": 2080350,
+      "word": "科目二太难结果放弃了考驾照",
+      "onboard_time": 1683510026,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2067150,
       "num": 417330,
       "word": "毕滢",
@@ -595,20 +603,20 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1937119,
+      "num": 1513687,
+      "word": "杰克辣条 虐猫",
+      "onboard_time": 1683508949,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1931132,
       "num": 1931132,
       "word": "友人称巴厘岛身亡两人已恋爱多年",
       "onboard_time": 1683203729,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1904098,
-      "num": 1513687,
-      "word": "杰克辣条 虐猫",
-      "onboard_time": 1683508949,
-      "rank": 3,
-      "category": "网红"
     },
     {
       "raw_hot": 1897707,
@@ -737,14 +745,6 @@
       "onboard_time": 1683004651,
       "rank": 6,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 1794059,
-      "num": 1794059,
-      "word": "科目二太难结果放弃了考驾照",
-      "onboard_time": 1683510026,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 1792374,
@@ -921,6 +921,14 @@
       "onboard_time": 1683277048,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1629743,
+      "num": 1629743,
+      "word": "分手一年后前任发的短信",
+      "onboard_time": 1683512663,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 1610564,
@@ -2691,14 +2699,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 745426,
-      "num": 745426,
-      "word": "分手一年后前任发的短信",
-      "onboard_time": 1683512663,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 743526,
       "num": 417293,
       "word": "吴建豪在郑秀妍面前提少女时代成员",
@@ -3675,6 +3675,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 551435,
+      "num": 551435,
+      "word": "中奖五千万你会立刻离职吗",
+      "onboard_time": 1683514467,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 551306,
       "num": 287472,
       "word": "射雕英雄传侠之大者官宣海报",
@@ -4121,6 +4129,14 @@
       "onboard_time": 1683205471,
       "rank": 33,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 502212,
+      "num": 502212,
+      "word": "忽然理解妈妈为什么容易生气",
+      "onboard_time": 1683512728,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 501563,
@@ -4899,6 +4915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 423668,
+      "num": 423668,
+      "word": "张杰带女儿探班谢娜",
+      "onboard_time": 1683502102,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 423474,
       "num": 279560,
       "word": "蔡文静社交账号评论区",
@@ -5025,6 +5049,14 @@
       "onboard_time": 1683378630,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 413853,
+      "num": 413853,
+      "word": "约基奇 太阳老板",
+      "onboard_time": 1683512969,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 413462,
@@ -5396,7 +5428,7 @@
     },
     {
       "raw_hot": 389520,
-      "num": 314870,
+      "num": 320449,
       "word": "iPhone15ProMax边框更窄",
       "onboard_time": 1683512007,
       "rank": 20,
@@ -6083,14 +6115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 347174,
-      "num": 347174,
-      "word": "忽然理解妈妈为什么容易生气",
-      "onboard_time": 1683512728,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 347172,
       "num": 371738,
       "word": "动画还原巴厘岛命案细节",
@@ -6755,14 +6779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 317070,
-      "num": 317070,
-      "word": "约基奇 太阳老板",
-      "onboard_time": 1683512969,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 316514,
       "num": 316514,
       "word": "宋亚轩肩上是破裤子吗",
@@ -6921,14 +6937,6 @@
       "onboard_time": 1682919808,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 310376,
-      "num": 310376,
-      "word": "张杰带女儿探班谢娜",
-      "onboard_time": 1683502102,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 310337,
@@ -7419,6 +7427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289880,
+      "num": 289880,
+      "word": "劳伦斯",
+      "onboard_time": 1683514169,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 289546,
       "num": 289546,
       "word": "来自婆婆的分寸感",
@@ -7521,6 +7537,14 @@
       "onboard_time": 1683262652,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 286510,
+      "num": 286510,
+      "word": "莲花楼",
+      "onboard_time": 1683513447,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 286173,
@@ -7985,6 +8009,14 @@
       "onboard_time": 1683164666,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267253,
+      "num": 267253,
+      "word": "秋瓷炫的中文是谈恋爱练的",
+      "onboard_time": 1683475528,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 267032,
@@ -9267,14 +9299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233671,
-      "num": 233671,
-      "word": "秋瓷炫的中文是谈恋爱练的",
-      "onboard_time": 1683475528,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 233669,
       "num": 233669,
       "word": "女子推理社",
@@ -9425,6 +9449,14 @@
       "onboard_time": 1683503487,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 229779,
+      "num": 218968,
+      "word": "刚恋爱就失恋了",
+      "onboard_time": 1683514287,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 229778,
@@ -9883,6 +9915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 219765,
+      "num": 219765,
+      "word": "太阳2比2掘金",
+      "onboard_time": 1683514827,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219761,
       "num": 217626,
       "word": "白鹿周深范丞丞组合名",
@@ -9955,14 +9995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218831,
-      "num": 218831,
-      "word": "莲花楼",
-      "onboard_time": 1683513447,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 218714,
       "num": 218714,
       "word": "RNG队员参加Letme婚礼",
@@ -10025,6 +10057,14 @@
       "onboard_time": 1682984300,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217673,
+      "num": 217673,
+      "word": "梅西当选2023年劳伦斯最佳男运动员奖",
+      "onboard_time": 1683515187,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 217643,
@@ -11467,6 +11507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189383,
+      "num": 189383,
+      "word": "不掺任何杂质的周一",
+      "onboard_time": 1683513986,
+      "rank": 33,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 189324,
       "num": 189324,
       "word": "威尔的受众到底是谁",
@@ -11512,6 +11560,14 @@
       "word": "赵露思花园写真",
       "onboard_time": 1683030992,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 188671,
+      "num": 188671,
+      "word": "徐明浩晒与陈哲远的合照",
+      "onboard_time": 1683514407,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -11873,6 +11929,14 @@
       "onboard_time": 1682899285,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180747,
+      "num": 180747,
+      "word": "杜兰特",
+      "onboard_time": 1683514946,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 180597,
@@ -12475,6 +12539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 171033,
+      "num": 171033,
+      "word": "被20年前物价震撼到了",
+      "onboard_time": 1683515488,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170990,
       "num": 170990,
       "word": "王嘉尔和粉丝十指相扣合照",
@@ -12601,6 +12673,14 @@
       "onboard_time": 1683201807,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 168616,
+      "num": 169517,
+      "word": "约基奇53分",
+      "onboard_time": 1683514647,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 168565,
@@ -13219,19 +13299,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155591,
+      "num": 155591,
+      "word": "aespa新专辑预售量突破180万张",
+      "onboard_time": 1683509427,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 155495,
       "num": 155495,
       "word": "王源流星也为你落下来了巡演舞台",
       "onboard_time": 1683011426,
       "rank": 39,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 155412,
-      "num": 155412,
-      "word": "aespa新专辑预售量突破180万张",
-      "onboard_time": 1683509427,
-      "rank": 48,
       "category": "音乐"
     },
     {
@@ -15640,6 +15720,14 @@
       "word": "多公司假后晚到不计考勤",
       "onboard_time": 1683183629,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61830,
+      "num": 1665269,
+      "word": "100秒回顾天舟五号撤离全过程",
+      "onboard_time": 1683514226,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
