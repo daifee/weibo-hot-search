@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683556420602,
+  "endTime": 1683559086894,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -137,6 +137,14 @@
       "onboard_time": 1683522333,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2166523,
+      "num": 2166523,
+      "word": "一夜醒来欠了地铁600多万",
+      "onboard_time": 1683552449,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 2140321,
@@ -371,8 +379,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1076137,
-      "num": 1076137,
+      "raw_hot": 1096677,
+      "num": 1096677,
       "word": "美依礼芽的翻译找到了",
       "onboard_time": 1683545728,
       "rank": 11,
@@ -404,11 +412,19 @@
     },
     {
       "raw_hot": 976393,
-      "num": 734142,
+      "num": 894335,
       "word": "待爆影帝",
       "onboard_time": 1683554732,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 957410,
+      "num": 957410,
+      "word": "瘦了二十斤后手部的变化",
+      "onboard_time": 1683557013,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 923281,
@@ -492,7 +508,7 @@
     },
     {
       "raw_hot": 744463,
-      "num": 548874,
+      "num": 592121,
       "word": "假如陈都灵没进娱乐圈",
       "onboard_time": 1683554132,
       "rank": 13,
@@ -531,20 +547,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 727802,
+      "num": 727802,
+      "word": "熬夜看小说 必须熬",
+      "onboard_time": 1683554791,
+      "rank": 40,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 727017,
       "num": 653516,
       "word": "二阳",
       "onboard_time": 1683508648,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 698085,
-      "num": 698085,
-      "word": "一夜醒来欠了地铁600多万",
-      "onboard_time": 1683552449,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 689690,
@@ -563,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 683373,
+      "num": 683373,
+      "word": "肖战把皮带挂脖子上",
+      "onboard_time": 1683557494,
+      "rank": 13,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 676550,
       "num": 676550,
       "word": "有仙无侠 有情无义",
@@ -577,6 +601,14 @@
       "onboard_time": 1683537869,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 630716,
+      "num": 630716,
+      "word": "杨洋一番爆剧",
+      "onboard_time": 1683557914,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 629378,
@@ -691,12 +723,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 513983,
-      "num": 513983,
-      "word": "熬夜看小说 必须熬",
-      "onboard_time": 1683554791,
-      "rank": 40,
-      "category": "情感,幽默"
+      "raw_hot": 517257,
+      "num": 517257,
+      "word": "36岁常青藤毕业确诊癌症后反而很开心",
+      "onboard_time": 1683555392,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 512627,
@@ -737,6 +769,14 @@
       "onboard_time": 1683500720,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 466978,
+      "num": 466978,
+      "word": "宁艺卓没有毯子",
+      "onboard_time": 1683556173,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 466690,
@@ -891,6 +931,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 389350,
+      "num": 389350,
+      "word": "男朋友说生完孩子要做亲子鉴定",
+      "onboard_time": 1683557133,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 385213,
       "num": 385213,
       "word": "男子火车上被陌生人持刀杀害",
@@ -912,6 +960,14 @@
       "word": "徐克终于出山了",
       "onboard_time": 1683500960,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 383093,
+      "num": 311251,
+      "word": "他叫李飞",
+      "onboard_time": 1683558453,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -1195,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308569,
+      "num": 308569,
+      "word": "反正她会成功的",
+      "onboard_time": 1683557614,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 306693,
       "num": 306693,
       "word": "一个宿舍各过各的",
@@ -1267,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296570,
+      "num": 296570,
+      "word": "我的大笑日记",
+      "onboard_time": 1683558031,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 296510,
       "num": 296510,
       "word": "张颂文曾是高叶老师",
@@ -1321,6 +1393,14 @@
       "onboard_time": 1683455670,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 278479,
+      "num": 258158,
+      "word": "内地小生一番票房榜",
+      "onboard_time": 1683556052,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 277351,
@@ -1379,36 +1459,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 265368,
-      "num": 265368,
-      "word": "36岁常青藤毕业确诊癌症后反而很开心",
-      "onboard_time": 1683555392,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 261703,
-      "num": 261703,
-      "word": "宁艺卓没有毯子",
-      "onboard_time": 1683556173,
-      "rank": 33,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 260578,
       "num": 260578,
       "word": "spicy",
       "onboard_time": 1683521071,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 258158,
-      "num": 258158,
-      "word": "内地小生一番票房榜",
-      "onboard_time": 1683556052,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 257525,
@@ -1484,7 +1540,7 @@
     },
     {
       "raw_hot": 246277,
-      "num": 284219,
+      "num": 308582,
       "word": "全红婵夺冠后又被考拉抱",
       "onboard_time": 1683545791,
       "rank": 36,
@@ -1499,20 +1555,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242593,
+      "num": 237424,
+      "word": "五月天明天抢票",
+      "onboard_time": 1683556173,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 241332,
       "num": 241332,
       "word": "浙江男篮vs辽宁男篮",
       "onboard_time": 1683544050,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 237424,
-      "num": 237424,
-      "word": "五月天明天抢票",
-      "onboard_time": 1683556173,
-      "rank": 39,
-      "category": "音乐"
     },
     {
       "raw_hot": 236410,
@@ -1659,6 +1715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 212865,
+      "num": 207524,
+      "word": "张嘉倪初夏珍珠蜜桃妆",
+      "onboard_time": 1683558812,
+      "rank": 43,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 211056,
       "num": 211056,
       "word": "山西吕梁山革命博物馆发闭馆公告",
@@ -1689,6 +1753,14 @@
       "onboard_time": 1683501801,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 208324,
+      "num": 208324,
+      "word": "今晚的月亮好美",
+      "onboard_time": 1683558097,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 207075,
@@ -1849,6 +1921,14 @@
       "onboard_time": 1683507211,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187028,
+      "num": 187028,
+      "word": "什么叫男凝",
+      "onboard_time": 1683559052,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 186194,
@@ -2411,6 +2491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35270,
+      "num": 1319553,
+      "word": "天舟六号船箭组合体垂直转运美图",
+      "onboard_time": 1683555871,
+      "rank": 2,
+      "category": "科技"
+    },
+    {
       "raw_hot": 34319,
       "num": 34319,
       "word": "贾乃亮穿的衣服好像茶壶",
@@ -2433,14 +2521,6 @@
       "onboard_time": 1683487632,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24141,
-      "num": 1319553,
-      "word": "天舟六号船箭组合体垂直转运美图",
-      "onboard_time": 1683555871,
-      "rank": 2,
-      "category": "科技"
     }
   ],
   "hotgov_list": [
