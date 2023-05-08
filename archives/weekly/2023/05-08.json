@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683523007508,
+  "endTime": 1683524006846,
   "band_list": [
     {
       "raw_hot": 2696352,
@@ -65,6 +65,14 @@
       "onboard_time": 1683503487,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1739797,
+      "num": 1739797,
+      "word": "全世界都知道赵丽颖被淘汰了",
+      "onboard_time": 1683522333,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1625979,
@@ -187,12 +195,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 866197,
-      "num": 866197,
-      "word": "全世界都知道赵丽颖被淘汰了",
-      "onboard_time": 1683522333,
-      "rank": 8,
-      "category": "作品衍生"
+      "raw_hot": 854246,
+      "num": 641885,
+      "word": "肖战作品疑似被恶意评分",
+      "onboard_time": 1683523829,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 738388,
@@ -275,20 +283,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 555855,
+      "num": 555855,
+      "word": "万柳书院75套房源上架抵押拍卖",
+      "onboard_time": 1683520413,
+      "rank": 47,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 540491,
+      "num": 540491,
+      "word": "泄曲",
+      "onboard_time": 1683520712,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 529993,
       "num": 529993,
       "word": "给内娱一点二次元震撼",
       "onboard_time": 1683473430,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 521237,
-      "num": 521237,
-      "word": "泄曲",
-      "onboard_time": 1683520712,
-      "rank": 14,
-      "category": "音乐"
     },
     {
       "raw_hot": 512627,
@@ -307,20 +323,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 488609,
+      "num": 488609,
+      "word": "那英说热情的台湾人让她感觉到家了",
+      "onboard_time": 1683521019,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 471755,
       "num": 471755,
       "word": "哈登绝杀凯尔特人",
       "onboard_time": 1683500720,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 464627,
-      "num": 464627,
-      "word": "那英说热情的台湾人让她感觉到家了",
-      "onboard_time": 1683521019,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 459892,
@@ -353,6 +369,14 @@
       "onboard_time": 1683501923,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 423748,
+      "num": 423748,
+      "word": "周杰伦厦门",
+      "onboard_time": 1683522152,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 423668,
@@ -403,14 +427,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 395027,
-      "num": 395027,
-      "word": "万柳书院75套房源上架抵押拍卖",
-      "onboard_time": 1683520413,
-      "rank": 47,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 389520,
       "num": 322278,
       "word": "iPhone15ProMax边框更窄",
@@ -435,8 +451,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 362693,
-      "num": 362693,
+      "raw_hot": 373028,
+      "num": 373028,
       "word": "医院开出2.3万元中药处方",
       "onboard_time": 1683519212,
       "rank": 38,
@@ -515,14 +531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 338518,
-      "num": 338518,
-      "word": "周杰伦厦门",
-      "onboard_time": 1683522152,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 329502,
       "num": 329502,
       "word": "芭莎慈善晚会名单",
@@ -531,8 +539,8 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 326425,
-      "num": 288824,
+      "raw_hot": 328743,
+      "num": 328743,
       "word": "魏晨爸爸当家录制vlog",
       "onboard_time": 1683522333,
       "rank": 30,
@@ -601,6 +609,14 @@
       "onboard_time": 1683521311,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 297472,
+      "num": 297472,
+      "word": "奶茶店员工歧视骑手买不起奶茶",
+      "onboard_time": 1683521852,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296510,
@@ -707,6 +723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 247022,
+      "num": 247022,
+      "word": "周深一开口宿命感",
+      "onboard_time": 1683523350,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 242610,
       "num": 242610,
       "word": "咽喉炎",
@@ -779,6 +803,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 217269,
+      "num": 217269,
+      "word": "难听",
+      "onboard_time": 1683522873,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 215477,
       "num": 215477,
       "word": "杜兰特",
@@ -801,14 +833,6 @@
       "onboard_time": 1683510688,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 212388,
-      "num": 212388,
-      "word": "奶茶店员工歧视骑手买不起奶茶",
-      "onboard_time": 1683521852,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210814,
@@ -865,6 +889,14 @@
       "onboard_time": 1683516329,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195454,
+      "num": 195454,
+      "word": "爸爸当家",
+      "onboard_time": 1683523651,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 195072,
@@ -995,14 +1027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164036,
-      "num": 164036,
-      "word": "难听",
-      "onboard_time": 1683522873,
-      "rank": 46,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 163452,
       "num": 163452,
       "word": "王心凌唱歌吃到彩带",
@@ -1065,6 +1089,14 @@
       "onboard_time": 1683491591,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142951,
+      "num": 142951,
+      "word": "请假被要求带电脑",
+      "onboard_time": 1683523291,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 139742,
@@ -1321,6 +1353,9 @@
     },
     {
       "word": "#空间站应用与发展阶段首次飞行任务#"
+    },
+    {
+      "word": "#习近平将主持中国—中亚峰会#"
     }
   ]
 }
