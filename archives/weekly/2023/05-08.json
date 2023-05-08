@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683552810202,
+  "endTime": 1683555358532,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -195,6 +195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1590480,
+      "num": 1590480,
+      "word": "嘉行法人曾嘉曾是杨幂经纪人",
+      "onboard_time": 1683550350,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1559428,
       "num": 1559428,
       "word": "TFBOYS演唱会",
@@ -299,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1269796,
-      "num": 885387,
-      "word": "嘉行法人曾嘉曾是杨幂经纪人",
-      "onboard_time": 1683550350,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1226305,
       "num": 1215364,
       "word": "比亚迪本月离职名额已满",
@@ -355,12 +355,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1166639,
+      "num": 1166639,
+      "word": "娱乐圈文女主谢娜",
+      "onboard_time": 1683551551,
+      "rank": 24,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 1104845,
       "num": 1104845,
       "word": "腾讯给杨紫的定位",
       "onboard_time": 1683545428,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1072104,
+      "num": 1072104,
+      "word": "美依礼芽的翻译找到了",
+      "onboard_time": 1683545728,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1026355,
@@ -435,20 +451,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 803185,
+      "num": 803185,
+      "word": "女子车位被邻居霸停数月直接焊死",
+      "onboard_time": 1683551972,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 787707,
       "num": 779995,
       "word": "不应该把中国妹都叫成熊猫妹",
       "onboard_time": 1683530496,
       "rank": 33,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 785351,
-      "num": 785351,
-      "word": "美依礼芽的翻译找到了",
-      "onboard_time": 1683545728,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 763815,
@@ -507,6 +523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 687702,
+      "num": 687702,
+      "word": "赵继伟三分杀疯了",
+      "onboard_time": 1683553351,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 676550,
       "num": 676550,
       "word": "有仙无侠 有情无义",
@@ -529,14 +553,6 @@
       "onboard_time": 1683465393,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 629117,
-      "num": 629117,
-      "word": "娱乐圈文女主谢娜",
-      "onboard_time": 1683551551,
-      "rank": 24,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 617414,
@@ -635,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 526492,
+      "num": 526492,
+      "word": "假如陈都灵没进娱乐圈",
+      "onboard_time": 1683554132,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 512627,
       "num": 512627,
       "word": "ZARA被曝试衣间镜子比帘子长一截",
@@ -649,6 +673,14 @@
       "onboard_time": 1683532414,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 504435,
+      "num": 504435,
+      "word": "一夜醒来欠了地铁600多万",
+      "onboard_time": 1683552449,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 502212,
@@ -689,6 +721,14 @@
       "onboard_time": 1683501321,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 450110,
+      "num": 450110,
+      "word": "待爆影帝",
+      "onboard_time": 1683554732,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 448706,
@@ -963,10 +1003,26 @@
       "category": "科技"
     },
     {
+      "raw_hot": 355444,
+      "num": 355444,
+      "word": "朴宰范演出要求女士化妆",
+      "onboard_time": 1683554911,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 355225,
       "num": 355225,
       "word": "下季乘风没有郑秀晶就不礼貌了",
       "onboard_time": 1683521071,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 352425,
+      "num": 340105,
+      "word": "娜扎cos赫本",
+      "onboard_time": 1683552809,
       "rank": 25,
       "category": "综艺"
     },
@@ -1115,14 +1171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 311104,
-      "num": 311104,
-      "word": "女子车位被邻居霸停数月直接焊死",
-      "onboard_time": 1683551972,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 309378,
       "num": 309378,
       "word": "男子1天吃10顿暴瘦110斤",
@@ -1187,6 +1235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 299031,
+      "num": 299031,
+      "word": "杭州警方通报男子高空扔狗",
+      "onboard_time": 1683551851,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297472,
       "num": 297472,
       "word": "奶茶店员工歧视骑手买不起奶茶",
@@ -1249,6 +1305,14 @@
       "onboard_time": 1683455670,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 277351,
+      "num": 277351,
+      "word": "美依礼芽人气票数破千万",
+      "onboard_time": 1683546089,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 272679,
@@ -1372,19 +1436,11 @@
     },
     {
       "raw_hot": 246277,
-      "num": 262352,
+      "num": 284219,
       "word": "全红婵夺冠后又被考拉抱",
       "onboard_time": 1683545791,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 243639,
-      "num": 243639,
-      "word": "美依礼芽人气票数破千万",
-      "onboard_time": 1683546089,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 242610,
@@ -1416,14 +1472,6 @@
       "word": "新疆旅游协会秘书长李巧",
       "onboard_time": 1683535172,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234363,
-      "num": 234363,
-      "word": "杭州警方通报男子高空扔狗",
-      "onboard_time": 1683551851,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1467,6 +1515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 227333,
+      "num": 227333,
+      "word": "徐峥称不存在转移资产",
+      "onboard_time": 1683555270,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225437,
       "num": 225437,
       "word": "遇到结婚不回礼的人怎么办",
@@ -1483,20 +1539,20 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 224590,
+      "num": 224590,
+      "word": "王玉雯王子奇眼神",
+      "onboard_time": 1683551249,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 219765,
       "num": 219765,
       "word": "太阳2比2掘金",
       "onboard_time": 1683514827,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 219249,
-      "num": 219249,
-      "word": "王玉雯王子奇眼神",
-      "onboard_time": 1683551249,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 218972,
@@ -1523,6 +1579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 216038,
+      "num": 216038,
+      "word": "熬夜看小说 必须熬",
+      "onboard_time": 1683554791,
+      "rank": 40,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 215477,
       "num": 215477,
       "word": "杜兰特",
@@ -1545,14 +1609,6 @@
       "onboard_time": 1683510688,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 213196,
-      "num": 213196,
-      "word": "一夜醒来欠了地铁600多万",
-      "onboard_time": 1683552449,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 211056,
@@ -1827,6 +1883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 174265,
+      "num": 174265,
+      "word": "郭艾伦缺席",
+      "onboard_time": 1683553891,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173481,
       "num": 173481,
       "word": "全小区都知道这狗会开门了",
@@ -1876,7 +1940,7 @@
     },
     {
       "raw_hot": 165383,
-      "num": 165383,
+      "num": 172978,
       "word": "新式神孔雀明王",
       "onboard_time": 1683545669,
       "rank": 41,
@@ -2001,6 +2065,14 @@
       "onboard_time": 1683529898,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142365,
+      "num": 174262,
+      "word": "Hero直播",
+      "onboard_time": 1683554851,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 139742,
