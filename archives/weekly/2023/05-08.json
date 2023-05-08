@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683515904140,
+  "endTime": 1683516810549,
   "band_list": [
     {
       "raw_hot": 2270611,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2140321,
+      "num": 2140321,
+      "word": "科目二太难结果放弃了考驾照",
+      "onboard_time": 1683510026,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2126803,
       "num": 2126803,
       "word": "刘亦菲曾被韩国女生霸凌",
       "onboard_time": 1683505348,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2080350,
-      "num": 2080350,
-      "word": "科目二太难结果放弃了考驾照",
-      "onboard_time": 1683510026,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 1937119,
@@ -35,20 +35,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1792985,
+      "num": 1792985,
+      "word": "分手一年后前任发的短信",
+      "onboard_time": 1683512663,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1765514,
       "num": 1765514,
       "word": "六公主评价长月烬明",
       "onboard_time": 1683503487,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1629743,
-      "num": 1629743,
-      "word": "分手一年后前任发的短信",
-      "onboard_time": 1683512663,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 1505488,
@@ -123,6 +123,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 873618,
+      "num": 873618,
+      "word": "中奖五千万你会立刻离职吗",
+      "onboard_time": 1683514467,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 835679,
+      "num": 835679,
+      "word": "袁冰妍逃税公司注销",
+      "onboard_time": 1683516088,
+      "rank": 6,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 738388,
       "num": 738388,
       "word": "因为性格内向结果被辞退了",
@@ -193,14 +209,6 @@
       "onboard_time": 1683502823,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 551435,
-      "num": 551435,
-      "word": "中奖五千万你会立刻离职吗",
-      "onboard_time": 1683514467,
-      "rank": 8,
-      "category": "情感"
     },
     {
       "raw_hot": 529993,
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 389520,
-      "num": 320449,
+      "num": 322278,
       "word": "iPhone15ProMax边框更窄",
       "onboard_time": 1683512007,
       "rank": 20,
@@ -345,6 +353,22 @@
       "onboard_time": 1683505287,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 355984,
+      "num": 355984,
+      "word": "莲花楼",
+      "onboard_time": 1683513447,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 351980,
+      "num": 351980,
+      "word": "梅西当选2023年劳伦斯最佳男运动员奖",
+      "onboard_time": 1683515187,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 339222,
@@ -425,14 +449,6 @@
       "onboard_time": 1683514169,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 286510,
-      "num": 286510,
-      "word": "莲花楼",
-      "onboard_time": 1683513447,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 284168,
@@ -579,11 +595,11 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 217673,
-      "num": 217673,
-      "word": "梅西当选2023年劳伦斯最佳男运动员奖",
-      "onboard_time": 1683515187,
-      "rank": 31,
+      "raw_hot": 215477,
+      "num": 215477,
+      "word": "杜兰特",
+      "onboard_time": 1683514946,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -627,12 +643,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207075,
+      "num": 207075,
+      "word": "被20年前物价震撼到了",
+      "onboard_time": 1683515488,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199586,
       "num": 199586,
       "word": "极乐净土",
       "onboard_time": 1683465994,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198547,
+      "num": 198547,
+      "word": "时代少年团台歌完整版上线",
+      "onboard_time": 1683516329,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 195760,
+      "num": 195760,
+      "word": "肖战工作室是懂文案的",
+      "onboard_time": 1683516568,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 195072,
@@ -683,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180747,
-      "num": 180747,
-      "word": "杜兰特",
-      "onboard_time": 1683514946,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 180248,
       "num": 180248,
       "word": "姚晨说庄达菲出息了",
@@ -731,12 +763,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 171033,
-      "num": 171033,
-      "word": "被20年前物价震撼到了",
-      "onboard_time": 1683515488,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 171319,
+      "num": 171319,
+      "word": "美依礼芽被抢注商标",
+      "onboard_time": 1683515968,
+      "rank": 36,
+      "category": "财经,艺人"
     },
     {
       "raw_hot": 168616,
@@ -771,6 +803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 158950,
+      "num": 158950,
+      "word": "aespa新专辑预售量突破180万张",
+      "onboard_time": 1683509427,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 155747,
       "num": 155747,
       "word": "小伙带狗狗陪自己捐干细胞",
@@ -779,12 +819,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155591,
-      "num": 155591,
-      "word": "aespa新专辑预售量突破180万张",
-      "onboard_time": 1683509427,
-      "rank": 48,
-      "category": "音乐"
+      "raw_hot": 154174,
+      "num": 154174,
+      "word": "我为奶牛猫发声",
+      "onboard_time": 1683516568,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 147152,
@@ -800,6 +840,14 @@
       "word": "校方回应男生被老师丈夫刺伤",
       "onboard_time": 1683491591,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139475,
+      "num": 139475,
+      "word": "虐猫群以爱猫做群名打掩护",
+      "onboard_time": 1683516688,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -995,7 +1043,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 61830,
+      "raw_hot": 63131,
       "num": 1665269,
       "word": "100秒回顾天舟五号撤离全过程",
       "onboard_time": 1683514226,

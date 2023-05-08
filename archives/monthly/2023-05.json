@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683515904140,
+  "endTime": 1683516810549,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -419,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2140321,
+      "num": 2140321,
+      "word": "科目二太难结果放弃了考驾照",
+      "onboard_time": 1683510026,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2139335,
       "num": 2139335,
       "word": "高铁上最好不要和邻座套近乎",
@@ -465,14 +473,6 @@
       "onboard_time": 1683332792,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2080350,
-      "num": 2080350,
-      "word": "科目二太难结果放弃了考驾照",
-      "onboard_time": 1683510026,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 2067150,
@@ -747,6 +747,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 1792985,
+      "num": 1792985,
+      "word": "分手一年后前任发的短信",
+      "onboard_time": 1683512663,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1792374,
       "num": 1792374,
       "word": "王思佳 假包",
@@ -921,14 +929,6 @@
       "onboard_time": 1683277048,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1629743,
-      "num": 1629743,
-      "word": "分手一年后前任发的短信",
-      "onboard_time": 1683512663,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 1610564,
@@ -2339,6 +2339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 873618,
+      "num": 873618,
+      "word": "中奖五千万你会立刻离职吗",
+      "onboard_time": 1683514467,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 867730,
       "num": 974989,
       "word": "新娘互换手捧花发现是高中同学",
@@ -2449,6 +2457,14 @@
       "onboard_time": 1682995828,
       "rank": 12,
       "category": "幽默,影视"
+    },
+    {
+      "raw_hot": 835679,
+      "num": 835679,
+      "word": "袁冰妍逃税公司注销",
+      "onboard_time": 1683516088,
+      "rank": 6,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 834895,
@@ -3673,14 +3689,6 @@
       "onboard_time": 1682919149,
       "rank": 43,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 551435,
-      "num": 551435,
-      "word": "中奖五千万你会立刻离职吗",
-      "onboard_time": 1683514467,
-      "rank": 8,
-      "category": "情感"
     },
     {
       "raw_hot": 551306,
@@ -5428,7 +5436,7 @@
     },
     {
       "raw_hot": 389520,
-      "num": 320449,
+      "num": 322278,
       "word": "iPhone15ProMax边框更窄",
       "onboard_time": 1683512007,
       "rank": 20,
@@ -5931,6 +5939,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 355984,
+      "num": 355984,
+      "word": "莲花楼",
+      "onboard_time": 1683513447,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 355151,
       "num": 355151,
       "word": "难哄谁来演啊",
@@ -6009,6 +6025,14 @@
       "onboard_time": 1683353131,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 351980,
+      "num": 351980,
+      "word": "梅西当选2023年劳伦斯最佳男运动员奖",
+      "onboard_time": 1683515187,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 351951,
@@ -7537,14 +7561,6 @@
       "onboard_time": 1683262652,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 286510,
-      "num": 286510,
-      "word": "莲花楼",
-      "onboard_time": 1683513447,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 286173,
@@ -10059,14 +10075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 217673,
-      "num": 217673,
-      "word": "梅西当选2023年劳伦斯最佳男运动员奖",
-      "onboard_time": 1683515187,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 217643,
       "num": 217643,
       "word": "漫长的季节太虐了",
@@ -10184,6 +10192,14 @@
       "word": "浙江男篮晋级总决赛",
       "onboard_time": 1683210457,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 215477,
+      "num": 215477,
+      "word": "杜兰特",
+      "onboard_time": 1683514946,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -10593,6 +10609,14 @@
       "onboard_time": 1683447331,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207075,
+      "num": 207075,
+      "word": "被20年前物价震撼到了",
+      "onboard_time": 1683515488,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 206948,
@@ -11035,6 +11059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198547,
+      "num": 198547,
+      "word": "时代少年团台歌完整版上线",
+      "onboard_time": 1683516329,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 198543,
       "num": 197243,
       "word": "沙溢从婀娜多姿变痛苦面具只需一个周深",
@@ -11177,6 +11209,14 @@
       "onboard_time": 1683322633,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195760,
+      "num": 195760,
+      "word": "肖战工作室是懂文案的",
+      "onboard_time": 1683516568,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 195654,
@@ -11931,14 +11971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 180747,
-      "num": 180747,
-      "word": "杜兰特",
-      "onboard_time": 1683514946,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 180597,
       "num": 180597,
       "word": "周也男主运",
@@ -12531,20 +12563,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 171319,
+      "num": 171319,
+      "word": "美依礼芽被抢注商标",
+      "onboard_time": 1683515968,
+      "rank": 36,
+      "category": "财经,艺人"
+    },
+    {
       "raw_hot": 171044,
       "num": 171044,
       "word": "历代郭靖黄蓉一览",
       "onboard_time": 1683460351,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 171033,
-      "num": 171033,
-      "word": "被20年前物价震撼到了",
-      "onboard_time": 1683515488,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 170990,
@@ -13131,6 +13163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 158950,
+      "num": 158950,
+      "word": "aespa新专辑预售量突破180万张",
+      "onboard_time": 1683509427,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 158909,
       "num": 158909,
       "word": "南京的雨是倒下来的水吧",
@@ -13297,14 +13337,6 @@
       "onboard_time": 1683355650,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155591,
-      "num": 155591,
-      "word": "aespa新专辑预售量突破180万张",
-      "onboard_time": 1683509427,
-      "rank": 48,
-      "category": "音乐"
     },
     {
       "raw_hot": 155495,
@@ -13873,6 +13905,14 @@
       "onboard_time": 1683101849,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 139475,
+      "num": 139475,
+      "word": "虐猫群以爱猫做群名打掩护",
+      "onboard_time": 1683516688,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139213,
@@ -15723,7 +15763,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 61830,
+      "raw_hot": 63131,
       "num": 1665269,
       "word": "100秒回顾天舟五号撤离全过程",
       "onboard_time": 1683514226,
