@@ -1,0 +1,410 @@
+{
+  "runTime": 1683513800220,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1927158,
+        "num": 1927158,
+        "word": "刘亦菲曾被韩国女生霸凌",
+        "onboard_time": 1683505348,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1794059,
+        "num": 1794059,
+        "word": "科目二太难结果放弃了考驾照",
+        "onboard_time": 1683510026,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 40242,
+        "num": 1718876,
+        "word": "航天员又要在太空拆快递了",
+        "onboard_time": 1683466712,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1698563,
+        "num": 1698563,
+        "word": "六公主评价长月烬明",
+        "onboard_time": 1683503487,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 919662,
+        "num": 919662,
+        "word": "Angelababy定制礼服腰围改小11.5厘米",
+        "onboard_time": 1683510326,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 804612,
+        "num": 804612,
+        "word": "李亚鹏在别墅小院种菜被警告",
+        "onboard_time": 1683500960,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 771850,
+        "num": 771850,
+        "word": "高铁上被掌掴女孩坚决不和解",
+        "onboard_time": 1683451410,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745426,
+        "num": 745426,
+        "word": "分手一年后前任发的短信",
+        "onboard_time": 1683512663,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 697889,
+        "num": 697889,
+        "word": "因为性格内向结果被辞退了",
+        "onboard_time": 1683509847,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 653704,
+        "num": 653704,
+        "word": "有仙无侠 有情无义",
+        "onboard_time": 1683509185,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 697942,
+        "num": 653516,
+        "word": "二阳",
+        "onboard_time": 1683508648,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648262,
+        "num": 648262,
+        "word": "美依礼芽人气断层第一",
+        "onboard_time": 1683464071,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 512627,
+        "num": 512627,
+        "word": "ZARA被曝试衣间镜子比帘子长一截",
+        "onboard_time": 1683450629,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512609,
+        "num": 512609,
+        "word": "儿时的发小因为生孩子去世了",
+        "onboard_time": 1683470734,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 433126,
+        "num": 433126,
+        "word": "因挖呀挖爆火老师身陷6大传闻",
+        "onboard_time": 1683488592,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 362498,
+        "num": 362498,
+        "word": "95后女生演了24年老人",
+        "onboard_time": 1683511707,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347174,
+        "num": 347174,
+        "word": "忽然理解妈妈为什么容易生气",
+        "onboard_time": 1683512728,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 339222,
+        "num": 339222,
+        "word": "全红婵世界杯再斩获1枚金牌",
+        "onboard_time": 1683511647,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317070,
+        "num": 317070,
+        "word": "约基奇 太阳老板",
+        "onboard_time": 1683512969,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313424,
+        "num": 313424,
+        "word": "布克三分",
+        "onboard_time": 1683511407,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1781446,
+        "num": 312511,
+        "word": "杰克辣条 虐猫",
+        "onboard_time": 1683508949,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 389520,
+        "num": 312210,
+        "word": "iPhone15ProMax边框更窄",
+        "onboard_time": 1683512007,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 311332,
+        "num": 311332,
+        "word": "巴厘岛情侣",
+        "onboard_time": 1683501321,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310376,
+        "num": 310376,
+        "word": "张杰带女儿探班谢娜",
+        "onboard_time": 1683502102,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 296269,
+        "num": 296269,
+        "word": "宋茜为Amber打call",
+        "onboard_time": 1683502823,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259623,
+        "num": 259623,
+        "word": "杨幂爸爸说明天更是好日子",
+        "onboard_time": 1683502408,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257460,
+        "num": 257460,
+        "word": "那些早婚的女生过得好吗",
+        "onboard_time": 1683504207,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248775,
+        "num": 248775,
+        "word": "琳芽之旅 龚美呐赛",
+        "onboard_time": 1683509609,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233671,
+        "num": 233671,
+        "word": "秋瓷炫的中文是谈恋爱练的",
+        "onboard_time": 1683475528,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218831,
+        "num": 218831,
+        "word": "莲花楼",
+        "onboard_time": 1683513447,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216977,
+        "num": 216977,
+        "word": "警方回应火车上一男子被持刀杀害",
+        "onboard_time": 1683501923,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205164,
+        "num": 205164,
+        "word": "幼儿园老师的嗅觉让我惊讶",
+        "onboard_time": 1683510688,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201454,
+        "num": 201454,
+        "word": "徐克终于出山了",
+        "onboard_time": 1683500960,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197924,
+        "num": 197924,
+        "word": "偶遇王诗龄逛街",
+        "onboard_time": 1683505287,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196320,
+        "num": 196320,
+        "word": "25岁的吴倩和23岁的吴世勋",
+        "onboard_time": 1683452668,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174724,
+        "num": 174724,
+        "word": "你心目中的内娱第一爱豆",
+        "onboard_time": 1683511169,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168917,
+        "num": 168917,
+        "word": "鬼灭之刃",
+        "onboard_time": 1683506428,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 166709,
+        "num": 166709,
+        "word": "谁来四川都得笑着回去",
+        "onboard_time": 1683511407,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164986,
+        "num": 164986,
+        "word": "周扬青",
+        "onboard_time": 1683470554,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159373,
+        "num": 159373,
+        "word": "古茗回应店员上班偷吃西瓜",
+        "onboard_time": 1683502284,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155747,
+        "num": 155747,
+        "word": "小伙带狗狗陪自己捐干细胞",
+        "onboard_time": 1683513266,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153343,
+        "num": 153343,
+        "word": "曹县汉服订单做不完根本做不完",
+        "onboard_time": 1683502526,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148071,
+        "num": 148071,
+        "word": "哈登绝杀凯尔特人",
+        "onboard_time": 1683500720,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145597,
+        "num": 145597,
+        "word": "芭莎慈善晚会名单",
+        "onboard_time": 1683502766,
+        "rank": 43,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 141503,
+        "num": 141503,
+        "word": "为什么仙侠剧容易爆火",
+        "onboard_time": 1683512126,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140944,
+        "num": 140944,
+        "word": "事业编和公务员哪个更难考",
+        "onboard_time": 1683467914,
+        "rank": 45,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 137549,
+        "num": 137549,
+        "word": "校方通报学生洗澡时晕倒身亡",
+        "onboard_time": 1683473792,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 133096,
+        "num": 133096,
+        "word": "周杰伦说华流才是最屌的",
+        "onboard_time": 1683501801,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132562,
+        "num": 132562,
+        "word": "咽喉炎",
+        "onboard_time": 1683506727,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58020,
+        "num": 132252,
+        "word": "日本游 住寺庙",
+        "onboard_time": 1683500960,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#这就是祖国你永远可以相信她#"
+    }
+  }
+}

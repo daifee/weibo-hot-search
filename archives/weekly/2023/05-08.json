@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683513282879,
+  "endTime": 1683513800220,
   "band_list": [
     {
       "raw_hot": 2270611,
@@ -27,20 +27,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1794059,
+      "num": 1794059,
+      "word": "科目二太难结果放弃了考驾照",
+      "onboard_time": 1683510026,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1765514,
       "num": 1765514,
       "word": "六公主评价长月烬明",
       "onboard_time": 1683503487,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1705491,
-      "num": 1705491,
-      "word": "科目二太难结果放弃了考驾照",
-      "onboard_time": 1683510026,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 1505488,
@@ -91,6 +91,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 919662,
+      "num": 919662,
+      "word": "Angelababy定制礼服腰围改小11.5厘米",
+      "onboard_time": 1683510326,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 917675,
       "num": 917675,
       "word": "黄晓明见到Amber第一句话提的宋茜",
@@ -107,12 +115,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 886329,
-      "num": 886329,
-      "word": "Angelababy定制礼服腰围改小11.5厘米",
-      "onboard_time": 1683510326,
-      "rank": 46,
-      "category": "作品衍生,时尚"
+      "raw_hot": 745426,
+      "num": 745426,
+      "word": "分手一年后前任发的短信",
+      "onboard_time": 1683512663,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 738388,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 727017,
-      "num": 622383,
+      "num": 653516,
       "word": "二阳",
       "onboard_time": 1683508648,
       "rank": 39,
@@ -195,8 +203,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 488523,
-      "num": 488523,
+      "raw_hot": 512627,
+      "num": 512627,
       "word": "ZARA被曝试衣间镜子比帘子长一截",
       "onboard_time": 1683450629,
       "rank": 11,
@@ -243,20 +251,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 418751,
-      "num": 418751,
-      "word": "分手一年后前任发的短信",
-      "onboard_time": 1683512663,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 407245,
       "num": 407245,
       "word": "全红婵再现断崖式领先",
       "onboard_time": 1683496093,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 389520,
+      "num": 314870,
+      "word": "iPhone15ProMax边框更窄",
+      "onboard_time": 1683512007,
+      "rank": 20,
+      "category": "科技"
     },
     {
       "raw_hot": 385213,
@@ -273,6 +281,14 @@
       "onboard_time": 1683500960,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 362498,
+      "num": 362498,
+      "word": "95后女生演了24年老人",
+      "onboard_time": 1683511707,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 361009,
@@ -299,16 +315,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 347991,
-      "num": 314870,
-      "word": "iPhone15ProMax边框更窄",
-      "onboard_time": 1683512007,
-      "rank": 20,
-      "category": "科技"
+      "raw_hot": 347174,
+      "num": 347174,
+      "word": "忽然理解妈妈为什么容易生气",
+      "onboard_time": 1683512728,
+      "rank": 28,
+      "category": "幽默"
     },
     {
-      "raw_hot": 338316,
-      "num": 338316,
+      "raw_hot": 339222,
+      "num": 339222,
       "word": "全红婵世界杯再斩获1枚金牌",
       "onboard_time": 1683511647,
       "rank": 15,
@@ -323,12 +339,12 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 321096,
-      "num": 321096,
-      "word": "95后女生演了24年老人",
-      "onboard_time": 1683511707,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 317070,
+      "num": 317070,
+      "word": "约基奇 太阳老板",
+      "onboard_time": 1683512969,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 315312,
@@ -347,20 +363,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 310376,
+      "num": 310376,
+      "word": "张杰带女儿探班谢娜",
+      "onboard_time": 1683502102,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 309378,
       "num": 309378,
       "word": "男子1天吃10顿暴瘦110斤",
       "onboard_time": 1683455253,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306911,
-      "num": 306911,
-      "word": "张杰带女儿探班谢娜",
-      "onboard_time": 1683502102,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 306693,
@@ -475,6 +491,14 @@
       "category": "网红,情感"
     },
     {
+      "raw_hot": 233671,
+      "num": 233671,
+      "word": "秋瓷炫的中文是谈恋爱练的",
+      "onboard_time": 1683475528,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231784,
       "num": 231784,
       "word": "鬼灭之刃",
@@ -507,12 +531,12 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 223894,
-      "num": 223894,
-      "word": "忽然理解妈妈为什么容易生气",
-      "onboard_time": 1683512728,
-      "rank": 28,
-      "category": "幽默"
+      "raw_hot": 218831,
+      "num": 218831,
+      "word": "莲花楼",
+      "onboard_time": 1683513447,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 217797,
@@ -563,14 +587,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 204654,
-      "num": 204654,
-      "word": "约基奇 太阳老板",
-      "onboard_time": 1683512969,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 199586,
       "num": 199586,
       "word": "极乐净土",
@@ -608,14 +624,6 @@
       "word": "谢娜cos云缨",
       "onboard_time": 1683464012,
       "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 183910,
-      "num": 183910,
-      "word": "秋瓷炫的中文是谈恋爱练的",
-      "onboard_time": 1683475528,
-      "rank": 41,
       "category": "综艺"
     },
     {
@@ -683,6 +691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155747,
+      "num": 155747,
+      "word": "小伙带狗狗陪自己捐干细胞",
+      "onboard_time": 1683513266,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155412,
       "num": 155412,
       "word": "aespa新专辑预售量突破180万张",
@@ -721,14 +737,6 @@
       "onboard_time": 1683468452,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 135442,
-      "num": 135442,
-      "word": "小伙带狗狗陪自己捐干细胞",
-      "onboard_time": 1683513266,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134887,
