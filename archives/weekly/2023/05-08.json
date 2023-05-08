@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683516810549,
+  "endTime": 1683519656952,
   "band_list": [
     {
       "raw_hot": 2270611,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2124336,
+      "num": 2124336,
+      "word": "分手一年后前任发的短信",
+      "onboard_time": 1683512663,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1937119,
       "num": 1513687,
       "word": "杰克辣条 虐猫",
@@ -35,20 +43,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1792985,
-      "num": 1792985,
-      "word": "分手一年后前任发的短信",
-      "onboard_time": 1683512663,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1765514,
       "num": 1765514,
       "word": "六公主评价长月烬明",
       "onboard_time": 1683503487,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1625979,
+      "num": 1625979,
+      "word": "中奖五千万你会立刻离职吗",
+      "onboard_time": 1683514467,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 1505488,
@@ -83,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1350633,
+      "num": 1350633,
+      "word": "袁冰妍逃税公司注销",
+      "onboard_time": 1683516088,
+      "rank": 6,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1197936,
       "num": 475321,
       "word": "周扬青",
@@ -91,12 +107,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1194913,
+      "num": 1194913,
+      "word": "肖战工作室是懂文案的",
+      "onboard_time": 1683516568,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1183713,
+      "num": 1183713,
+      "word": "虐猫群以爱猫做群名打掩护",
+      "onboard_time": 1683516688,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1009876,
       "num": 1009876,
       "word": "儿时的发小因为生孩子去世了",
       "onboard_time": 1683470734,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 986003,
+      "num": 986003,
+      "word": "每天吃一盒蓝莓会发生什么",
+      "onboard_time": 1683518250,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 984913,
+      "num": 984913,
+      "word": "亲属称死者最后一刻抢刀压肚子下",
+      "onboard_time": 1683517108,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 919662,
@@ -121,22 +169,6 @@
       "onboard_time": 1683455793,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 873618,
-      "num": 873618,
-      "word": "中奖五千万你会立刻离职吗",
-      "onboard_time": 1683514467,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 835679,
-      "num": 835679,
-      "word": "袁冰妍逃税公司注销",
-      "onboard_time": 1683516088,
-      "rank": 6,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 738388,
@@ -209,6 +241,14 @@
       "onboard_time": 1683502823,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 561750,
+      "num": 561750,
+      "word": "淄博一季度GDP超1000亿元",
+      "onboard_time": 1683517708,
+      "rank": 12,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 529993,
@@ -299,6 +339,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 401192,
+      "num": 401192,
+      "word": "梅西当选2023年劳伦斯最佳男运动员奖",
+      "onboard_time": 1683515187,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 399431,
+      "num": 399431,
+      "word": "我为奶牛猫发声",
+      "onboard_time": 1683516568,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 389520,
       "num": 322278,
       "word": "iPhone15ProMax边框更窄",
@@ -363,12 +419,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 351980,
-      "num": 351980,
-      "word": "梅西当选2023年劳伦斯最佳男运动员奖",
-      "onboard_time": 1683515187,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 347342,
+      "num": 347342,
+      "word": "秋瓷炫的中文是谈恋爱练的",
+      "onboard_time": 1683475528,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 339222,
@@ -435,6 +491,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 297373,
+      "num": 297373,
+      "word": "陈都灵工作室编辑记录",
+      "onboard_time": 1683517826,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 296510,
       "num": 296510,
       "word": "张颂文曾是高叶老师",
@@ -473,14 +537,6 @@
       "onboard_time": 1683455670,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 267253,
-      "num": 267253,
-      "word": "秋瓷炫的中文是谈恋爱练的",
-      "onboard_time": 1683475528,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 266170,
@@ -667,14 +723,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 195760,
-      "num": 195760,
-      "word": "肖战工作室是懂文案的",
-      "onboard_time": 1683516568,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 195072,
       "num": 195072,
       "word": "seventeen出差十五夜",
@@ -697,6 +745,14 @@
       "onboard_time": 1683513986,
       "rank": 33,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 189272,
+      "num": 189272,
+      "word": "iPhone16Pro将采用固态按键",
+      "onboard_time": 1683519390,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 188671,
@@ -819,12 +875,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154174,
-      "num": 154174,
-      "word": "我为奶牛猫发声",
-      "onboard_time": 1683516568,
-      "rank": 41,
-      "category": "情感"
+      "raw_hot": 154689,
+      "num": 154689,
+      "word": "王心凌唱歌吃到彩带",
+      "onboard_time": 1683518189,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 147152,
@@ -843,12 +899,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139475,
-      "num": 139475,
-      "word": "虐猫群以爱猫做群名打掩护",
-      "onboard_time": 1683516688,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 139742,
+      "num": 139742,
+      "word": "接心仪offer",
+      "onboard_time": 1683518608,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 138447,
@@ -1035,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70878,
+      "num": 159237,
+      "word": "淘宝回应网友报销账单",
+      "onboard_time": 1683518427,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68288,
       "num": 68288,
       "word": "曼联",
@@ -1044,7 +1108,7 @@
     },
     {
       "raw_hot": 63131,
-      "num": 1665269,
+      "num": 1709833,
       "word": "100秒回顾天舟五号撤离全过程",
       "onboard_time": 1683514226,
       "rank": 2,
