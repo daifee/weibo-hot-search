@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683538425642,
+  "endTime": 1683541108459,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -267,6 +267,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 2598662,
+      "num": 2598662,
+      "word": "中了五亿",
+      "onboard_time": 1683529596,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2591644,
       "num": 2591644,
       "word": "高铁上被掌掴女孩坚决不和解",
@@ -289,6 +297,14 @@
       "onboard_time": 1683528514,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2498011,
+      "num": 2498011,
+      "word": "情侣吵架从8楼将萨摩耶扔下",
+      "onboard_time": 1683537453,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2444799,
@@ -339,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2359363,
+      "num": 2359363,
+      "word": "嘉行删除杨幂照片",
+      "onboard_time": 1683540690,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2350730,
       "num": 1562514,
       "word": "分手快乐",
@@ -353,6 +377,14 @@
       "onboard_time": 1683272547,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2324403,
+      "num": 711990,
+      "word": "还以为杨幂是嘉行老板",
+      "onboard_time": 1683533670,
+      "rank": 11,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 2303880,
@@ -673,14 +705,6 @@
       "onboard_time": 1683011906,
       "rank": 20,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 1940511,
-      "num": 711990,
-      "word": "还以为杨幂是嘉行老板",
-      "onboard_time": 1683533670,
-      "rank": 11,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 1937119,
@@ -1028,7 +1052,7 @@
     },
     {
       "raw_hot": 1610564,
-      "num": 583498,
+      "num": 1017038,
       "word": "巴厘岛命案",
       "onboard_time": 1683198386,
       "rank": 12,
@@ -1169,14 +1193,6 @@
       "onboard_time": 1683530376,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1543465,
-      "num": 1543465,
-      "word": "中了五亿",
-      "onboard_time": 1683529596,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 1540589,
@@ -1849,6 +1865,14 @@
       "onboard_time": 1683154941,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1174154,
+      "num": 1174154,
+      "word": "马嘉祺宋亚轩缓考",
+      "onboard_time": 1683537753,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1160855,
@@ -3363,8 +3387,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 651920,
-      "num": 651920,
+      "raw_hot": 653534,
+      "num": 653534,
       "word": "aespa回归",
       "onboard_time": 1683026368,
       "rank": 33,
@@ -3481,6 +3505,14 @@
       "onboard_time": 1683089673,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 623448,
+      "num": 2517945,
+      "word": "3岁小宝去世器官将延续6人生命",
+      "onboard_time": 1683539429,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 622955,
@@ -3617,14 +3649,6 @@
       "onboard_time": 1683441808,
       "rank": 7,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 597304,
-      "num": 362226,
-      "word": "马嘉祺宋亚轩缓考",
-      "onboard_time": 1683537753,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 596398,
@@ -4843,14 +4867,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 457534,
-      "num": 457534,
-      "word": "情侣吵架从8楼将萨摩耶扔下",
-      "onboard_time": 1683537453,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 457483,
       "num": 457483,
       "word": "涉事景区称插队事件自己也是受损方",
@@ -5875,6 +5891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 385145,
+      "num": 333348,
+      "word": "aespa空降",
+      "onboard_time": 1683540812,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 384472,
       "num": 333998,
       "word": "吃完榴莲千万别碰这些食物",
@@ -6539,6 +6563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 348244,
+      "num": 332397,
+      "word": "谢娜cos破产姐妹",
+      "onboard_time": 1683539132,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347768,
       "num": 347768,
       "word": "蔡徐坤和碧梨MetGala合影",
@@ -6811,6 +6843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335723,
+      "num": 287446,
+      "word": "小区业主群的聊天记录",
+      "onboard_time": 1683538291,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 335712,
       "num": 232185,
       "word": "更适合本人体质的药方",
@@ -6881,6 +6921,14 @@
       "onboard_time": 1683361470,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 334818,
+      "num": 334818,
+      "word": "官方回应博物馆馆长被区长推倒闭馆",
+      "onboard_time": 1683540629,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 334286,
@@ -6977,6 +7025,14 @@
       "onboard_time": 1683090211,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 329873,
+      "num": 329873,
+      "word": "柳智敏粉发",
+      "onboard_time": 1683539732,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 329502,
@@ -8763,6 +8819,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 261489,
+      "num": 261489,
+      "word": "吕梁",
+      "onboard_time": 1683539852,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261301,
       "num": 261301,
       "word": "财神爷生日",
@@ -9713,6 +9777,14 @@
       "onboard_time": 1683025107,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 237041,
+      "num": 237041,
+      "word": "thirsty",
+      "onboard_time": 1683540751,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 237014,
@@ -10979,6 +11051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211056,
+      "num": 211056,
+      "word": "山西吕梁山革命博物馆发闭馆公告",
+      "onboard_time": 1683538351,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210993,
       "num": 210993,
       "word": "爸爸当家2官宣定档",
@@ -12027,6 +12107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191439,
+      "num": 191439,
+      "word": "清融发博斥私生",
+      "onboard_time": 1683540331,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 191313,
       "num": 191313,
       "word": "王子奇直播",
@@ -12273,6 +12361,14 @@
       "onboard_time": 1683507211,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187237,
+      "num": 2368686,
+      "word": "中国留学生带五星红旗参加毕业礼",
+      "onboard_time": 1683532355,
+      "rank": 4,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 187085,
@@ -13539,6 +13635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 164946,
+      "num": 164946,
+      "word": "博物馆发公告称馆长被区长推倒受伤",
+      "onboard_time": 1683540871,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164748,
       "num": 164748,
       "word": "过敏原能有多离谱",
@@ -14491,14 +14595,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 144486,
-      "num": 173451,
-      "word": "山西吕梁山革命博物馆发闭馆公告",
-      "onboard_time": 1683538351,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144164,
       "num": 144164,
       "word": "LGD再次绝境翻盘",
@@ -14873,6 +14969,14 @@
       "onboard_time": 1682982680,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132351,
+      "num": 646727,
+      "word": "一梦2",
+      "onboard_time": 1683540031,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 132280,
@@ -16241,6 +16345,14 @@
       "onboard_time": 1683010048,
       "rank": 29,
       "category": "情感,旅游"
+    },
+    {
+      "raw_hot": 81950,
+      "num": 1406792,
+      "word": "这袋自热军粮凝结了沉甸甸的鱼水情",
+      "onboard_time": 1683539429,
+      "rank": 6,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 81691,

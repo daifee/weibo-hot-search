@@ -1,0 +1,410 @@
+{
+  "runTime": 1683541108459,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2598662,
+        "num": 2598662,
+        "word": "中了五亿",
+        "onboard_time": 1683529596,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 623448,
+        "num": 2517945,
+        "word": "3岁小宝去世器官将延续6人生命",
+        "onboard_time": 1683539429,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12706,
+        "num": 2503763,
+        "word": "100秒回顾天舟五号撤离全过程",
+        "onboard_time": 1683514226,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2498011,
+        "num": 2498011,
+        "word": "情侣吵架从8楼将萨摩耶扔下",
+        "onboard_time": 1683537453,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187237,
+        "num": 2368686,
+        "word": "中国留学生带五星红旗参加毕业礼",
+        "onboard_time": 1683532355,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 2359363,
+        "num": 2359363,
+        "word": "嘉行删除杨幂照片",
+        "onboard_time": 1683540690,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81950,
+        "num": 1406792,
+        "word": "这袋自热军粮凝结了沉甸甸的鱼水情",
+        "onboard_time": 1683539429,
+        "rank": 6,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 1174154,
+        "num": 1174154,
+        "word": "马嘉祺宋亚轩缓考",
+        "onboard_time": 1683537753,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1017038,
+        "num": 1017038,
+        "word": "巴厘岛命案",
+        "onboard_time": 1683536130,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680409,
+        "num": 680409,
+        "word": "李明德删除报警微博",
+        "onboard_time": 1683533135,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1517739,
+        "num": 668591,
+        "word": "分手快乐",
+        "onboard_time": 1683529471,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2324403,
+        "num": 662405,
+        "word": "还以为杨幂是嘉行老板",
+        "onboard_time": 1683533670,
+        "rank": 11,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 1216679,
+        "num": 658074,
+        "word": "赵今麦 插队",
+        "onboard_time": 1683525090,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 653534,
+        "num": 653534,
+        "word": "aespa回归",
+        "onboard_time": 1683537869,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132351,
+        "num": 646727,
+        "word": "一梦2",
+        "onboard_time": 1683540031,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1221796,
+        "num": 646620,
+        "word": "杨幂换头像",
+        "onboard_time": 1683526291,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 777003,
+        "num": 646340,
+        "word": "嘉行最新艺人表",
+        "onboard_time": 1683530376,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 645186,
+        "num": 645186,
+        "word": "12306回应男子在火车上被持刀杀害",
+        "onboard_time": 1683525749,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640315,
+        "num": 640315,
+        "word": "于正 射雕就是要流量带新人",
+        "onboard_time": 1683533013,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 568306,
+        "num": 568306,
+        "word": "TFBOYS演唱会",
+        "onboard_time": 1683524488,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 546134,
+        "num": 546134,
+        "word": "黑莲花 平番",
+        "onboard_time": 1683527196,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 535670,
+        "num": 535670,
+        "word": "全世界都知道赵丽颖被淘汰了",
+        "onboard_time": 1683522333,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 405332,
+        "num": 405332,
+        "word": "每天吃一盒蓝莓会发生什么",
+        "onboard_time": 1683518250,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 346012,
+        "num": 346012,
+        "word": "iPhone16Pro将采用固态按键",
+        "onboard_time": 1683519390,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 334818,
+        "num": 334818,
+        "word": "官方回应博物馆馆长被区长推倒闭馆",
+        "onboard_time": 1683540629,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385145,
+        "num": 333348,
+        "word": "aespa空降",
+        "onboard_time": 1683540812,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 348244,
+        "num": 332397,
+        "word": "谢娜cos破产姐妹",
+        "onboard_time": 1683539132,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329873,
+        "num": 329873,
+        "word": "柳智敏粉发",
+        "onboard_time": 1683539732,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 316443,
+        "num": 316443,
+        "word": "aespa新歌SpicyMV",
+        "onboard_time": 1683522032,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 82536,
+        "num": 288581,
+        "word": "淄博一季度GDP超1000亿元",
+        "onboard_time": 1683517708,
+        "rank": 29,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 335723,
+        "num": 287446,
+        "word": "小区业主群的聊天记录",
+        "onboard_time": 1683538291,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 261489,
+        "num": 261489,
+        "word": "吕梁",
+        "onboard_time": 1683539852,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240760,
+        "num": 240760,
+        "word": "被认识几年的合作方表白了",
+        "onboard_time": 1683535771,
+        "rank": 32,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 237826,
+        "num": 237826,
+        "word": "差点被吊牌单杀了",
+        "onboard_time": 1683536612,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237041,
+        "num": 237041,
+        "word": "thirsty",
+        "onboard_time": 1683540751,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 232530,
+        "num": 232530,
+        "word": "30岁单亲妈妈和儿子的晚餐",
+        "onboard_time": 1683534270,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230368,
+        "num": 230368,
+        "word": "亲属称死者最后一刻抢刀压肚子下",
+        "onboard_time": 1683517108,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228580,
+        "num": 228580,
+        "word": "周杰伦刘畊宏扫楼",
+        "onboard_time": 1683534453,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213552,
+        "num": 213552,
+        "word": "主办方称赵今麦不存在插队行为",
+        "onboard_time": 1683532295,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211056,
+        "num": 211056,
+        "word": "山西吕梁山革命博物馆发闭馆公告",
+        "onboard_time": 1683538351,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204980,
+        "num": 204980,
+        "word": "中奖五千万你会立刻离职吗",
+        "onboard_time": 1683514467,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203406,
+        "num": 203406,
+        "word": "乘风4最新人气排名",
+        "onboard_time": 1683528753,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191439,
+        "num": 191439,
+        "word": "清融发博斥私生",
+        "onboard_time": 1683540331,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188911,
+        "num": 188911,
+        "word": "接我担解约",
+        "onboard_time": 1683534632,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184018,
+        "num": 184018,
+        "word": "朱珠产后拍戏到浪姐瘦了20斤",
+        "onboard_time": 1683527975,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176795,
+        "num": 176795,
+        "word": "唐嫣起诉B站侵权",
+        "onboard_time": 1683532414,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173066,
+        "num": 173066,
+        "word": "在一起八年分手了是什么体验",
+        "onboard_time": 1683523771,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172255,
+        "num": 172255,
+        "word": "分手一年后前任发的短信",
+        "onboard_time": 1683512663,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133295,
+        "num": 168462,
+        "word": "aster",
+        "onboard_time": 1683537453,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164946,
+        "num": 164946,
+        "word": "博物馆发公告称馆长被区长推倒受伤",
+        "onboard_time": 1683540871,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#空间站应用与发展阶段首次飞行任务#"
+    }
+  }
+}
