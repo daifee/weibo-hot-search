@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683552033996,
+  "endTime": 1683552810202,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -17,6 +17,14 @@
       "onboard_time": 1683540690,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3075904,
+      "num": 3075904,
+      "word": "中秋国庆休8天上7天",
+      "onboard_time": 1683542310,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3000781,
@@ -81,14 +89,6 @@
       "onboard_time": 1683512663,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2361182,
-      "num": 2361182,
-      "word": "中秋国庆休8天上7天",
-      "onboard_time": 1683542310,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2350730,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1269796,
+      "num": 885387,
+      "word": "嘉行法人曾嘉曾是杨幂经纪人",
+      "onboard_time": 1683550350,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1226305,
       "num": 1215364,
       "word": "比亚迪本月离职名额已满",
@@ -344,14 +352,6 @@
       "word": "马嘉祺宋亚轩缓考",
       "onboard_time": 1683537753,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1159687,
-      "num": 683403,
-      "word": "嘉行法人曾嘉曾是杨幂经纪人",
-      "onboard_time": 1683550350,
-      "rank": 9,
       "category": "艺人"
     },
     {
@@ -531,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 629117,
+      "num": 629117,
+      "word": "娱乐圈文女主谢娜",
+      "onboard_time": 1683551551,
+      "rank": 24,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 617414,
       "num": 617414,
       "word": "斗鱼",
@@ -579,6 +587,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 581138,
+      "num": 581138,
+      "word": "相亲对象很好但我好像不喜欢",
+      "onboard_time": 1683549331,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 577857,
+      "num": 577857,
+      "word": "相处11年的闺蜜把我拉黑了",
+      "onboard_time": 1683548610,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 555855,
       "num": 555855,
       "word": "万柳书院75套房源上架抵押拍卖",
@@ -595,14 +619,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 538253,
-      "num": 538253,
-      "word": "相亲对象很好但我好像不喜欢",
-      "onboard_time": 1683549331,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 532765,
       "num": 532765,
       "word": "那英说热情的台湾人让她感觉到家了",
@@ -617,14 +633,6 @@
       "onboard_time": 1683473430,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 528274,
-      "num": 528274,
-      "word": "相处11年的闺蜜把我拉黑了",
-      "onboard_time": 1683548610,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 512627,
@@ -665,6 +673,14 @@
       "onboard_time": 1683500720,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 466690,
+      "num": 466690,
+      "word": "认识8年的男闺蜜变成男朋友了",
+      "onboard_time": 1683550469,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 459892,
@@ -756,7 +772,7 @@
     },
     {
       "raw_hot": 409305,
-      "num": 333679,
+      "num": 334315,
       "word": "易烊千玺穿短裤了",
       "onboard_time": 1683548610,
       "rank": 30,
@@ -931,14 +947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 357508,
-      "num": 357508,
-      "word": "认识8年的男闺蜜变成男朋友了",
-      "onboard_time": 1683550469,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 355984,
       "num": 355984,
       "word": "莲花楼",
@@ -1001,6 +1009,14 @@
       "onboard_time": 1683528753,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 343352,
+      "num": 343352,
+      "word": "女子因琐事太多从体制内裸辞",
+      "onboard_time": 1683549931,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 342643,
@@ -1083,14 +1099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 324096,
-      "num": 324096,
-      "word": "女子因琐事太多从体制内裸辞",
-      "onboard_time": 1683549931,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 315312,
       "num": 315312,
       "word": "布克三分",
@@ -1107,12 +1115,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 311409,
-      "num": 311409,
-      "word": "娱乐圈文女主谢娜",
-      "onboard_time": 1683551551,
-      "rank": 24,
-      "category": "艺人,幽默"
+      "raw_hot": 311104,
+      "num": 311104,
+      "word": "女子车位被邻居霸停数月直接焊死",
+      "onboard_time": 1683551972,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309378,
@@ -1364,7 +1372,7 @@
     },
     {
       "raw_hot": 246277,
-      "num": 246277,
+      "num": 262352,
       "word": "全红婵夺冠后又被考拉抱",
       "onboard_time": 1683545791,
       "rank": 36,
@@ -1411,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234363,
+      "num": 234363,
+      "word": "杭州警方通报男子高空扔狗",
+      "onboard_time": 1683551851,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231784,
       "num": 231784,
       "word": "鬼灭之刃",
@@ -1451,8 +1467,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 225005,
-      "num": 225005,
+      "raw_hot": 225437,
+      "num": 225437,
       "word": "遇到结婚不回礼的人怎么办",
       "onboard_time": 1683549751,
       "rank": 39,
@@ -1473,6 +1489,14 @@
       "onboard_time": 1683514827,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219249,
+      "num": 219249,
+      "word": "王玉雯王子奇眼神",
+      "onboard_time": 1683551249,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 218972,
@@ -1523,12 +1547,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 212647,
-      "num": 212647,
-      "word": "杭州警方通报男子高空扔狗",
-      "onboard_time": 1683551851,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 213196,
+      "num": 213196,
+      "word": "一夜醒来欠了地铁600多万",
+      "onboard_time": 1683552449,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 211056,
@@ -1577,6 +1601,14 @@
       "onboard_time": 1683540331,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 202533,
+      "num": 202533,
+      "word": "杰克辣条",
+      "onboard_time": 1683552750,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199586,
@@ -1819,14 +1851,6 @@
       "category": "财经,艺人"
     },
     {
-      "raw_hot": 170322,
-      "num": 170322,
-      "word": "王玉雯王子奇眼神",
-      "onboard_time": 1683551249,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 168616,
       "num": 169517,
       "word": "约基奇53分",
@@ -1945,14 +1969,6 @@
       "onboard_time": 1683522933,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 147785,
-      "num": 147785,
-      "word": "女子车位被邻居霸停数月直接焊死",
-      "onboard_time": 1683551972,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147152,
