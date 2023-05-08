@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683530171054,
+  "endTime": 1683531201346,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -283,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2498673,
+      "num": 2498673,
+      "word": "迪丽热巴 嘉行",
+      "onboard_time": 1683528514,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2444799,
       "num": 2376960,
       "word": "杨幂换头像",
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2268254,
+      "num": 678854,
+      "word": "杨幂工作室微博改名",
+      "onboard_time": 1683527196,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2267391,
       "num": 2267391,
       "word": "丈夫出轨被鹦鹉模仿露骨言语揭穿",
@@ -425,14 +441,6 @@
       "onboard_time": 1683245009,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2245876,
-      "num": 2245876,
-      "word": "迪丽热巴 嘉行",
-      "onboard_time": 1683528514,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 2228363,
@@ -553,14 +561,6 @@
       "onboard_time": 1683388528,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2042771,
-      "num": 602552,
-      "word": "杨幂工作室微博改名",
-      "onboard_time": 1683527196,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 2020479,
@@ -1267,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1439539,
+      "num": 1439539,
+      "word": "疑似巴厘岛命案当事人照片被晒出",
+      "onboard_time": 1683527975,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1437487,
       "num": 1437487,
       "word": "男性朋友抱怨 不敢调情",
@@ -1611,14 +1619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1246724,
-      "num": 653789,
-      "word": "疑似巴厘岛命案当事人照片被晒出",
-      "onboard_time": 1683527975,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1244972,
       "num": 1244972,
       "word": "秦霄贤受伤",
@@ -1764,7 +1764,7 @@
     },
     {
       "raw_hot": 1183120,
-      "num": 632505,
+      "num": 1088279,
       "word": "黑莲花 平番",
       "onboard_time": 1683527196,
       "rank": 21,
@@ -2209,6 +2209,14 @@
       "onboard_time": 1683188968,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 989089,
+      "num": 666545,
+      "word": "分手快乐",
+      "onboard_time": 1683529471,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 987242,
@@ -2785,6 +2793,14 @@
       "onboard_time": 1683016110,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 770059,
+      "num": 401822,
+      "word": "嘉行最新艺人表",
+      "onboard_time": 1683530376,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 767021,
@@ -4763,6 +4779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 456526,
+      "num": 333233,
+      "word": "中了五亿",
+      "onboard_time": 1683529596,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 455478,
       "num": 379366,
       "word": "年轻人开始用现金说明了什么",
@@ -4881,6 +4905,14 @@
       "onboard_time": 1682994809,
       "rank": 45,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 443187,
+      "num": 258113,
+      "word": "朱珠产后拍戏到浪姐瘦了20斤",
+      "onboard_time": 1683527975,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 442692,
@@ -5201,14 +5233,6 @@
       "onboard_time": 1683205894,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 419014,
-      "num": 243453,
-      "word": "朱珠产后拍戏到浪姐瘦了20斤",
-      "onboard_time": 1683527975,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 418756,
@@ -5947,14 +5971,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 373782,
-      "num": 238814,
-      "word": "分手快乐",
-      "onboard_time": 1683529471,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 373028,
       "num": 373028,
       "word": "医院开出2.3万元中药处方",
@@ -6203,6 +6219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 358961,
+      "num": 358961,
+      "word": "比亚迪本月离职名额已满",
+      "onboard_time": 1683530312,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 356046,
       "num": 356046,
       "word": "你姓氏中最有名的人",
@@ -6217,6 +6241,14 @@
       "onboard_time": 1683513447,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 355810,
+      "num": 355810,
+      "word": "iPhone15",
+      "onboard_time": 1683525691,
+      "rank": 33,
+      "category": "科技"
     },
     {
       "raw_hot": 355225,
@@ -7395,6 +7427,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 302830,
+      "num": 254608,
+      "word": "胡一天张婧仪惜花芷开机",
+      "onboard_time": 1683530675,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 302806,
       "num": 302806,
       "word": "杨洋在KTV吃面",
@@ -7835,14 +7875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 288254,
-      "num": 288254,
-      "word": "iPhone15",
-      "onboard_time": 1683525691,
-      "rank": 33,
-      "category": "科技"
-    },
-    {
       "raw_hot": 288195,
       "num": 272694,
       "word": "刘惜君 牛",
@@ -7948,7 +7980,7 @@
     },
     {
       "raw_hot": 283571,
-      "num": 205888,
+      "num": 254512,
       "word": "乘风4最新人气排名",
       "onboard_time": 1683528753,
       "rank": 31,
@@ -8833,6 +8865,14 @@
       "onboard_time": 1683372628,
       "rank": 31,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 253618,
+      "num": 253618,
+      "word": "不应该把中国妹都叫成熊猫妹",
+      "onboard_time": 1683530496,
+      "rank": 33,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 252782,
@@ -11299,14 +11339,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 201667,
-      "num": 201667,
-      "word": "中了五亿",
-      "onboard_time": 1683529596,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 201594,
       "num": 201594,
       "word": "淄博",
@@ -11787,6 +11819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192379,
+      "num": 192379,
+      "word": "分享下你听了十年以上的歌",
+      "onboard_time": 1683530376,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192065,
       "num": 192065,
       "word": "全场审判沧九旻",
@@ -11876,7 +11916,7 @@
     },
     {
       "raw_hot": 190988,
-      "num": 160211,
+      "num": 180241,
       "word": "蔡徐坤 Baz Luhrmann",
       "onboard_time": 1683529596,
       "rank": 42,
@@ -12491,6 +12531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178740,
+      "num": 178740,
+      "word": "代号鸢",
+      "onboard_time": 1683527795,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 178672,
       "num": 178672,
       "word": "为什么吃辣容易拉肚子",
@@ -12939,14 +12987,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 172757,
-      "num": 172757,
-      "word": "代号鸢",
-      "onboard_time": 1683527795,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 172740,
       "num": 172740,
       "word": "乌鸦扯下以色列国旗",
@@ -13185,6 +13225,14 @@
       "onboard_time": 1683103229,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167622,
+      "num": 167622,
+      "word": "火车持刀伤人嫌犯已刑拘",
+      "onboard_time": 1683530916,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167598,
@@ -14420,7 +14468,7 @@
     },
     {
       "raw_hot": 138647,
-      "num": 149073,
+      "num": 164747,
       "word": "一梦江湖",
       "onboard_time": 1683524131,
       "rank": 47,
@@ -15033,6 +15081,14 @@
       "onboard_time": 1683130225,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 124490,
+      "num": 165534,
+      "word": "KPL总决赛",
+      "onboard_time": 1683530376,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 124424,
