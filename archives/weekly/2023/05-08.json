@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683562973147,
+  "endTime": 1683563897990,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -283,6 +283,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1301163,
+      "num": 1301163,
+      "word": "女子裸贷5千仅4个月变欠款百万",
+      "onboard_time": 1683560668,
+      "rank": 1,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1295498,
       "num": 1237491,
       "word": "著名导演万玛才旦去世",
@@ -369,14 +377,6 @@
       "onboard_time": 1683551551,
       "rank": 24,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 1133016,
-      "num": 1133016,
-      "word": "女子裸贷5千仅4个月变欠款百万",
-      "onboard_time": 1683560668,
-      "rank": 1,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1104845,
@@ -1515,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254023,
+      "num": 229259,
+      "word": "千万不要再侧躺玩手机",
+      "onboard_time": 1683561986,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 251548,
       "num": 2368686,
       "word": "中国留学生带五星红旗参加毕业礼",
@@ -2043,6 +2051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174005,
+      "num": 174005,
+      "word": "鲁滨逊 两个星期五",
+      "onboard_time": 1683561806,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 173481,
       "num": 173481,
       "word": "全小区都知道这狗会开门了",
@@ -2131,14 +2147,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 161437,
-      "num": 161437,
-      "word": "鲁滨逊 两个星期五",
-      "onboard_time": 1683561806,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 160748,
       "num": 160748,
       "word": "seventeen团体聚餐造型",
@@ -2185,14 +2193,6 @@
       "onboard_time": 1683527735,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152262,
-      "num": 152262,
-      "word": "千万不要再侧躺玩手机",
-      "onboard_time": 1683561986,
-      "rank": 34,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 149883,
@@ -2299,6 +2299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132702,
+      "num": 132702,
+      "word": "警号055308封存",
+      "onboard_time": 1683562766,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126873,
       "num": 126873,
       "word": "工作5年你能存多少钱",
@@ -2329,6 +2337,14 @@
       "onboard_time": 1683468513,
       "rank": 29,
       "category": "科技,情感"
+    },
+    {
+      "raw_hot": 123462,
+      "num": 123462,
+      "word": "赵丽颖cos哈利波特特里劳妮",
+      "onboard_time": 1683562587,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 122579,
@@ -2393,14 +2409,6 @@
       "onboard_time": 1683500840,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109245,
-      "num": 109245,
-      "word": "赵丽颖cos哈利波特特里劳妮",
-      "onboard_time": 1683562587,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 108264,
@@ -2483,6 +2491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86517,
+      "num": 86517,
+      "word": "白鹿片场唱我结婚了",
+      "onboard_time": 1683562945,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 84467,
       "num": 96696,
       "word": "WB对战DRG",
@@ -2505,22 +2521,6 @@
       "onboard_time": 1683466712,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 75238,
-      "num": 75238,
-      "word": "警号055308封存",
-      "onboard_time": 1683562766,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73755,
-      "num": 73755,
-      "word": "白鹿片场唱我结婚了",
-      "onboard_time": 1683562945,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 68288,

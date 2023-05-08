@@ -1,7 +1,15 @@
 {
   "startTime": 1683562973147,
-  "endTime": 1683562973147,
+  "endTime": 1683563897990,
   "band_list": [
+    {
+      "raw_hot": 1301163,
+      "num": 1301163,
+      "word": "女子裸贷5千仅4个月变欠款百万",
+      "onboard_time": 1683560668,
+      "rank": 1,
+      "category": "社会新闻,财经"
+    },
     {
       "raw_hot": 1184772,
       "num": 1184772,
@@ -9,14 +17,6 @@
       "onboard_time": 1683552449,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1133016,
-      "num": 1133016,
-      "word": "女子裸贷5千仅4个月变欠款百万",
-      "onboard_time": 1683560668,
-      "rank": 1,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1079089,
@@ -179,6 +179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254023,
+      "num": 229259,
+      "word": "千万不要再侧躺玩手机",
+      "onboard_time": 1683561986,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 223470,
       "num": 223470,
       "word": "反正她会成功的",
@@ -227,6 +235,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 174005,
+      "num": 174005,
+      "word": "鲁滨逊 两个星期五",
+      "onboard_time": 1683561806,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171997,
       "num": 171997,
       "word": "法老ghost face",
@@ -243,28 +259,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161437,
-      "num": 161437,
-      "word": "鲁滨逊 两个星期五",
-      "onboard_time": 1683561806,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 153625,
       "num": 153625,
       "word": "什么叫男凝",
       "onboard_time": 1683559052,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 152262,
-      "num": 152262,
-      "word": "千万不要再侧躺玩手机",
-      "onboard_time": 1683561986,
-      "rank": 34,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 147121,
@@ -307,12 +307,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 132702,
+      "num": 132702,
+      "word": "警号055308封存",
+      "onboard_time": 1683562766,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129964,
+      "num": 129964,
+      "word": "斗鱼",
+      "onboard_time": 1683547169,
+      "rank": 44,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 128523,
       "num": 128523,
       "word": "内地小生一番票房榜",
       "onboard_time": 1683556052,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 123462,
+      "num": 123462,
+      "word": "赵丽颖cos哈利波特特里劳妮",
+      "onboard_time": 1683562587,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 122082,
@@ -323,28 +347,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112405,
-      "num": 112405,
+      "raw_hot": 121787,
+      "num": 121787,
       "word": "生娃当天老公发的朋友圈",
       "onboard_time": 1683543810,
       "rank": 42,
       "category": "情感"
     },
     {
-      "raw_hot": 109245,
-      "num": 109245,
-      "word": "赵丽颖cos哈利波特特里劳妮",
-      "onboard_time": 1683562587,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 89375,
-      "num": 89375,
-      "word": "斗鱼",
-      "onboard_time": 1683547169,
-      "rank": 44,
-      "category": "社会新闻,科技"
+      "raw_hot": 86517,
+      "num": 86517,
+      "word": "白鹿片场唱我结婚了",
+      "onboard_time": 1683562945,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 79926,
@@ -363,14 +379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75238,
-      "num": 75238,
-      "word": "警号055308封存",
-      "onboard_time": 1683562766,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75191,
       "num": 75191,
       "word": "赵今麦 插队",
@@ -379,18 +387,18 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 73755,
-      "num": 73755,
-      "word": "白鹿片场唱我结婚了",
-      "onboard_time": 1683562945,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 66946,
       "num": 73302,
       "word": "KPL导播",
       "onboard_time": 1683543509,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 34294,
+      "num": 60852,
+      "word": "新式神孔雀明王",
+      "onboard_time": 1683545669,
       "rank": 49,
       "category": "游戏"
     },
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#习近平会见第十届世界华侨华人社团联谊大会代表#"
+    },
+    {
+      "word": "#高质量发展调研行#"
     }
   ]
 }
