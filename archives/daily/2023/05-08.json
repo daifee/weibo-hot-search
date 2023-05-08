@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683531201346,
+  "endTime": 1683534119940,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -51,6 +51,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2350730,
+      "num": 1562514,
+      "word": "分手快乐",
+      "onboard_time": 1683529471,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2270611,
       "num": 2270611,
       "word": "巴厘岛情侣 柬埔寨车牌",
@@ -91,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1940511,
+      "num": 711990,
+      "word": "还以为杨幂是嘉行老板",
+      "onboard_time": 1683533670,
+      "rank": 11,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 1937119,
       "num": 1513687,
       "word": "杰克辣条 虐猫",
@@ -115,6 +131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1674091,
+      "num": 1674091,
+      "word": "疑似巴厘岛命案当事人照片被晒出",
+      "onboard_time": 1683527975,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1625979,
       "num": 1625979,
       "word": "中奖五千万你会立刻离职吗",
@@ -129,6 +153,14 @@
       "onboard_time": 1683524488,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1549696,
+      "num": 1549696,
+      "word": "嘉行最新艺人表",
+      "onboard_time": 1683530376,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 1516163,
@@ -161,14 +193,6 @@
       "onboard_time": 1683488592,
       "rank": 30,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1439539,
-      "num": 1439539,
-      "word": "疑似巴厘岛命案当事人照片被晒出",
-      "onboard_time": 1683527975,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1432075,
@@ -209,6 +233,14 @@
       "onboard_time": 1683517108,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1215364,
+      "num": 1215364,
+      "word": "比亚迪本月离职名额已满",
+      "onboard_time": 1683530312,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 1197936,
@@ -259,14 +291,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 989089,
-      "num": 666545,
-      "word": "分手快乐",
-      "onboard_time": 1683529471,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 922212,
       "num": 841354,
       "word": "万玛才旦",
@@ -299,12 +323,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 770059,
-      "num": 401822,
-      "word": "嘉行最新艺人表",
-      "onboard_time": 1683530376,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 779995,
+      "num": 779995,
+      "word": "不应该把中国妹都叫成熊猫妹",
+      "onboard_time": 1683530496,
+      "rank": 33,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 738388,
@@ -331,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 728000,
+      "num": 505439,
+      "word": "主办方称赵今麦不存在插队行为",
+      "onboard_time": 1683532295,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 727017,
       "num": 653516,
       "word": "二阳",
@@ -353,6 +385,14 @@
       "onboard_time": 1683509185,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 674677,
+      "num": 674677,
+      "word": "李明德删除报警微博",
+      "onboard_time": 1683533135,
+      "rank": 12,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 629378,
@@ -395,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 560130,
+      "num": 340188,
+      "word": "中了五亿",
+      "onboard_time": 1683529596,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 555855,
       "num": 555855,
       "word": "万柳书院75套房源上架抵押拍卖",
@@ -427,12 +475,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 515246,
+      "num": 338662,
+      "word": "于正 射雕就是要流量带新人",
+      "onboard_time": 1683533013,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 512627,
       "num": 512627,
       "word": "ZARA被曝试衣间镜子比帘子长一截",
       "onboard_time": 1683450629,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 507463,
+      "num": 301485,
+      "word": "唐嫣起诉B站侵权",
+      "onboard_time": 1683532414,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 502212,
@@ -467,16 +531,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 456526,
-      "num": 333233,
-      "word": "中了五亿",
-      "onboard_time": 1683529596,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 443187,
-      "num": 258113,
+      "num": 269826,
       "word": "朱珠产后拍戏到浪姐瘦了20斤",
       "onboard_time": 1683527975,
       "rank": 26,
@@ -595,6 +651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 378358,
+      "num": 286592,
+      "word": "胡一天张婧仪惜花芷开机",
+      "onboard_time": 1683530675,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 373028,
       "num": 373028,
       "word": "医院开出2.3万元中药处方",
@@ -643,14 +707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 358961,
-      "num": 358961,
-      "word": "比亚迪本月离职名额已满",
-      "onboard_time": 1683530312,
-      "rank": 18,
-      "category": "财经"
-    },
-    {
       "raw_hot": 355984,
       "num": 355984,
       "word": "莲花楼",
@@ -683,12 +739,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 346707,
+      "num": 279111,
+      "word": "乘风4最新人气排名",
+      "onboard_time": 1683528753,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 339222,
       "num": 339222,
       "word": "全红婵世界杯再斩获1枚金牌",
       "onboard_time": 1683511647,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 329906,
+      "num": 329906,
+      "word": "挤洗面奶把自己挤骨折了",
+      "onboard_time": 1683531696,
+      "rank": 23,
+      "category": "幽默,美妆"
     },
     {
       "raw_hot": 329502,
@@ -755,14 +827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302830,
-      "num": 254608,
-      "word": "胡一天张婧仪惜花芷开机",
-      "onboard_time": 1683530675,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 301074,
       "num": 297373,
       "word": "陈都灵工作室编辑记录",
@@ -825,14 +889,6 @@
       "onboard_time": 1683502526,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 283571,
-      "num": 254512,
-      "word": "乘风4最新人气排名",
-      "onboard_time": 1683528753,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 283048,
@@ -907,14 +963,6 @@
       "category": "科技,国内要闻"
     },
     {
-      "raw_hot": 253618,
-      "num": 253618,
-      "word": "不应该把中国妹都叫成熊猫妹",
-      "onboard_time": 1683530496,
-      "rank": 33,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 250701,
       "num": 250701,
       "word": "谢娜跳了XG",
@@ -953,6 +1001,14 @@
       "onboard_time": 1683470495,
       "rank": 24,
       "category": "网红,情感"
+    },
+    {
+      "raw_hot": 232987,
+      "num": 171664,
+      "word": "二次元投错票给陈冰",
+      "onboard_time": 1683533614,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 231784,
@@ -1065,6 +1121,14 @@
       "onboard_time": 1683503125,
       "rank": 29,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 208694,
+      "num": 171552,
+      "word": "房东的猫被表白手足无措",
+      "onboard_time": 1683533496,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 208583,
@@ -1241,6 +1305,14 @@
       "onboard_time": 1683512126,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 171751,
+      "num": 171751,
+      "word": "KPL总决赛",
+      "onboard_time": 1683530376,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 171319,
@@ -1457,14 +1529,6 @@
       "onboard_time": 1683468513,
       "rank": 29,
       "category": "科技,情感"
-    },
-    {
-      "raw_hot": 124490,
-      "num": 165534,
-      "word": "KPL总决赛",
-      "onboard_time": 1683530376,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 118753,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1683534119940,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3909750,
+        "num": 3909750,
+        "word": "杨幂官宣与嘉行解约",
+        "onboard_time": 1683525990,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1674091,
+        "num": 1674091,
+        "word": "疑似巴厘岛命案当事人照片被晒出",
+        "onboard_time": 1683527975,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36863,
+        "num": 1573808,
+        "word": "100秒回顾天舟五号撤离全过程",
+        "onboard_time": 1683514226,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2350730,
+        "num": 1562514,
+        "word": "分手快乐",
+        "onboard_time": 1683529471,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1549696,
+        "num": 1549696,
+        "word": "嘉行最新艺人表",
+        "onboard_time": 1683530376,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1215364,
+        "num": 1215364,
+        "word": "比亚迪本月离职名额已满",
+        "onboard_time": 1683530312,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 873276,
+        "num": 873276,
+        "word": "12306回应男子在火车上被持刀杀害",
+        "onboard_time": 1683525749,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 782421,
+        "num": 782421,
+        "word": "TFBOYS演唱会",
+        "onboard_time": 1683524488,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 779995,
+        "num": 779995,
+        "word": "不应该把中国妹都叫成熊猫妹",
+        "onboard_time": 1683530496,
+        "rank": 8,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 750097,
+        "num": 750097,
+        "word": "黑莲花 平番",
+        "onboard_time": 1683527196,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1989845,
+        "num": 725864,
+        "word": "赵今麦 插队",
+        "onboard_time": 1683525090,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1940511,
+        "num": 711990,
+        "word": "还以为杨幂是嘉行老板",
+        "onboard_time": 1683533670,
+        "rank": 11,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 674677,
+        "num": 674677,
+        "word": "李明德删除报警微博",
+        "onboard_time": 1683533135,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 528615,
+        "num": 528615,
+        "word": "每天吃一盒蓝莓会发生什么",
+        "onboard_time": 1683518250,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1642131,
+        "num": 525022,
+        "word": "杨幂换头像",
+        "onboard_time": 1683526291,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 728000,
+        "num": 505439,
+        "word": "主办方称赵今麦不存在插队行为",
+        "onboard_time": 1683532295,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 712825,
+        "num": 491562,
+        "word": "全世界都知道赵丽颖被淘汰了",
+        "onboard_time": 1683522333,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 459629,
+        "num": 459629,
+        "word": "iPhone16Pro将采用固态按键",
+        "onboard_time": 1683519390,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 402493,
+        "num": 402493,
+        "word": "中奖五千万你会立刻离职吗",
+        "onboard_time": 1683514467,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 360491,
+        "num": 360491,
+        "word": "亲属称死者最后一刻抢刀压肚子下",
+        "onboard_time": 1683517108,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1712021,
+        "num": 350376,
+        "word": "迪丽热巴 嘉行",
+        "onboard_time": 1683528514,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560130,
+        "num": 340188,
+        "word": "中了五亿",
+        "onboard_time": 1683529596,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 515246,
+        "num": 338662,
+        "word": "于正 射雕就是要流量带新人",
+        "onboard_time": 1683533013,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329906,
+        "num": 329906,
+        "word": "挤洗面奶把自己挤骨折了",
+        "onboard_time": 1683531696,
+        "rank": 23,
+        "category": "幽默,美妆"
+      },
+      {
+        "raw_hot": 304464,
+        "num": 304464,
+        "word": "在一起八年分手了是什么体验",
+        "onboard_time": 1683523771,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 507463,
+        "num": 301485,
+        "word": "唐嫣起诉B站侵权",
+        "onboard_time": 1683532414,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481813,
+        "num": 292213,
+        "word": "撞死了一只羊",
+        "onboard_time": 1683528815,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 378358,
+        "num": 286592,
+        "word": "胡一天张婧仪惜花芷开机",
+        "onboard_time": 1683530675,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 346707,
+        "num": 279111,
+        "word": "乘风4最新人气排名",
+        "onboard_time": 1683528753,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145689,
+        "num": 272896,
+        "word": "淄博一季度GDP超1000亿元",
+        "onboard_time": 1683517708,
+        "rank": 29,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 311974,
+        "num": 269826,
+        "word": "朱珠产后拍戏到浪姐瘦了20斤",
+        "onboard_time": 1683527975,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264963,
+        "num": 264963,
+        "word": "易烊千玺演唱会",
+        "onboard_time": 1683526050,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 252033,
+        "num": 252033,
+        "word": "分手一年后前任发的短信",
+        "onboard_time": 1683512663,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212562,
+        "num": 212562,
+        "word": "儿时的发小因为生孩子去世了",
+        "onboard_time": 1683470734,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210019,
+        "num": 210019,
+        "word": "科目二太难结果放弃了考驾照",
+        "onboard_time": 1683510026,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 260175,
+        "num": 204271,
+        "word": "著名导演万玛才旦去世",
+        "onboard_time": 1683527014,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246640,
+        "num": 202106,
+        "word": "肖战作品疑似被恶意评分",
+        "onboard_time": 1683523829,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242397,
+        "num": 200017,
+        "word": "aespa新歌SpicyMV",
+        "onboard_time": 1683522032,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196988,
+        "num": 196988,
+        "word": "iPhone15",
+        "onboard_time": 1683525691,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 171751,
+        "num": 171751,
+        "word": "KPL总决赛",
+        "onboard_time": 1683530376,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 234566,
+        "num": 171734,
+        "word": "刘亦菲曾被韩国女生霸凌",
+        "onboard_time": 1683505348,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232987,
+        "num": 171664,
+        "word": "二次元投错票给陈冰",
+        "onboard_time": 1683533614,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208694,
+        "num": 171552,
+        "word": "房东的猫被表白手足无措",
+        "onboard_time": 1683533496,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191708,
+        "num": 171451,
+        "word": "下季乘风没有郑秀晶就不礼貌了",
+        "onboard_time": 1683521071,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171427,
+        "num": 171427,
+        "word": "买饭时女孩突然把头靠在我肩上",
+        "onboard_time": 1683524610,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158901,
+        "num": 158901,
+        "word": "袁冰妍逃税公司注销",
+        "onboard_time": 1683516088,
+        "rank": 45,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 152200,
+        "num": 152200,
+        "word": "医院开出2.3万元中药处方",
+        "onboard_time": 1683519212,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125602,
+        "num": 125602,
+        "word": "代号鸢",
+        "onboard_time": 1683527795,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110782,
+        "num": 110782,
+        "word": "万柳书院75套房源上架抵押拍卖",
+        "onboard_time": 1683520413,
+        "rank": 48,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 75835,
+        "num": 110669,
+        "word": "一梦江湖",
+        "onboard_time": 1683524131,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#这就是祖国你永远可以相信她#"
+    }
+  }
+}

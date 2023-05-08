@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683531201346,
+  "endTime": 1683534119940,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2350730,
+      "num": 1562514,
+      "word": "分手快乐",
+      "onboard_time": 1683529471,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2336203,
       "num": 2336203,
       "word": "全国都在咽喉炎吗",
@@ -667,6 +675,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1940511,
+      "num": 711990,
+      "word": "还以为杨幂是嘉行老板",
+      "onboard_time": 1683533670,
+      "rank": 11,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 1937119,
       "num": 1513687,
       "word": "杰克辣条 虐猫",
@@ -963,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1674091,
+      "num": 1674091,
+      "word": "疑似巴厘岛命案当事人照片被晒出",
+      "onboard_time": 1683527975,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1666718,
       "num": 1666718,
       "word": "朱珠好像圈外人",
@@ -1139,6 +1163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1549696,
+      "num": 1549696,
+      "word": "嘉行最新艺人表",
+      "onboard_time": 1683530376,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1539275,
       "num": 1539275,
       "word": "朱珠好美啊",
@@ -1265,14 +1297,6 @@
       "onboard_time": 1683184948,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1439539,
-      "num": 1439539,
-      "word": "疑似巴厘岛命案当事人照片被晒出",
-      "onboard_time": 1683527975,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1437487,
@@ -1673,6 +1697,14 @@
       "onboard_time": 1683246273,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1215364,
+      "num": 1215364,
+      "word": "比亚迪本月离职名额已满",
+      "onboard_time": 1683530312,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 1211315,
@@ -2209,14 +2241,6 @@
       "onboard_time": 1683188968,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 989089,
-      "num": 666545,
-      "word": "分手快乐",
-      "onboard_time": 1683529471,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 987242,
@@ -2779,6 +2803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 779995,
+      "num": 779995,
+      "word": "不应该把中国妹都叫成熊猫妹",
+      "onboard_time": 1683530496,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 777124,
       "num": 777124,
       "word": "今年五一这10大景区人最多",
@@ -2793,14 +2825,6 @@
       "onboard_time": 1683016110,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 770059,
-      "num": 401822,
-      "word": "嘉行最新艺人表",
-      "onboard_time": 1683530376,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 767021,
@@ -2969,6 +2993,14 @@
       "onboard_time": 1683528815,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 728000,
+      "num": 505439,
+      "word": "主办方称赵今麦不存在插队行为",
+      "onboard_time": 1683532295,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 727017,
@@ -3233,6 +3265,14 @@
       "onboard_time": 1683093388,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 674677,
+      "num": 674677,
+      "word": "李明德删除报警微博",
+      "onboard_time": 1683533135,
+      "rank": 12,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 671779,
@@ -3795,6 +3835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 560130,
+      "num": 340188,
+      "word": "中了五亿",
+      "onboard_time": 1683529596,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 560101,
       "num": 560101,
       "word": "爱奇艺五月片单",
@@ -4251,6 +4299,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 515246,
+      "num": 338662,
+      "word": "于正 射雕就是要流量带新人",
+      "onboard_time": 1683533013,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 511979,
       "num": 511979,
       "word": "张文宏 大流行已经过去",
@@ -4297,6 +4353,14 @@
       "onboard_time": 1682895923,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 507463,
+      "num": 301485,
+      "word": "唐嫣起诉B站侵权",
+      "onboard_time": 1683532414,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 506429,
@@ -4779,14 +4843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 456526,
-      "num": 333233,
-      "word": "中了五亿",
-      "onboard_time": 1683529596,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 455478,
       "num": 379366,
       "word": "年轻人开始用现金说明了什么",
@@ -4908,7 +4964,7 @@
     },
     {
       "raw_hot": 443187,
-      "num": 258113,
+      "num": 269826,
       "word": "朱珠产后拍戏到浪姐瘦了20斤",
       "onboard_time": 1683527975,
       "rank": 26,
@@ -5915,6 +5971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 378358,
+      "num": 286592,
+      "word": "胡一天张婧仪惜花芷开机",
+      "onboard_time": 1683530675,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 378330,
       "num": 378330,
       "word": "17战队夺冠",
@@ -6219,14 +6283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 358961,
-      "num": 358961,
-      "word": "比亚迪本月离职名额已满",
-      "onboard_time": 1683530312,
-      "rank": 18,
-      "category": "财经"
-    },
-    {
       "raw_hot": 356046,
       "num": 356046,
       "word": "你姓氏中最有名的人",
@@ -6473,6 +6529,14 @@
       "onboard_time": 1683445348,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 346707,
+      "num": 279111,
+      "word": "乘风4最新人气排名",
+      "onboard_time": 1683528753,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 346703,
@@ -6809,6 +6873,14 @@
       "onboard_time": 1683090211,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 329906,
+      "num": 329906,
+      "word": "挤洗面奶把自己挤骨折了",
+      "onboard_time": 1683531696,
+      "rank": 23,
+      "category": "幽默,美妆"
     },
     {
       "raw_hot": 329502,
@@ -7427,14 +7499,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 302830,
-      "num": 254608,
-      "word": "胡一天张婧仪惜花芷开机",
-      "onboard_time": 1683530675,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 302806,
       "num": 302806,
       "word": "杨洋在KTV吃面",
@@ -7977,14 +8041,6 @@
       "onboard_time": 1683352168,
       "rank": 25,
       "category": "游戏,综艺"
-    },
-    {
-      "raw_hot": 283571,
-      "num": 254512,
-      "word": "乘风4最新人气排名",
-      "onboard_time": 1683528753,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 283215,
@@ -8865,14 +8921,6 @@
       "onboard_time": 1683372628,
       "rank": 31,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 253618,
-      "num": 253618,
-      "word": "不应该把中国妹都叫成熊猫妹",
-      "onboard_time": 1683530496,
-      "rank": 33,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 252782,
@@ -9776,6 +9824,14 @@
       "word": "乘风投票",
       "onboard_time": 1683468631,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 232987,
+      "num": 171664,
+      "word": "二次元投错票给陈冰",
+      "onboard_time": 1683533614,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -10929,6 +10985,14 @@
       "onboard_time": 1683419605,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208694,
+      "num": 171552,
+      "word": "房东的猫被表白手足无措",
+      "onboard_time": 1683533496,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 208592,
@@ -13011,6 +13075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 171751,
+      "num": 171751,
+      "word": "KPL总决赛",
+      "onboard_time": 1683530376,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 171340,
       "num": 205871,
       "word": "张大仙瘦了",
@@ -15081,14 +15153,6 @@
       "onboard_time": 1683130225,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 124490,
-      "num": 165534,
-      "word": "KPL总决赛",
-      "onboard_time": 1683530376,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 124424,
