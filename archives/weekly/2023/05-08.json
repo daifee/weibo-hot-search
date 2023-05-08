@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683534858567,
+  "endTime": 1683537447676,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 2268254,
-      "num": 678854,
+      "num": 1928522,
       "word": "杨幂工作室微博改名",
       "onboard_time": 1683527196,
       "rank": 15,
@@ -227,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1287014,
+      "num": 1287014,
+      "word": "李明德删除报警微博",
+      "onboard_time": 1683533135,
+      "rank": 12,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1285558,
       "num": 1285558,
       "word": "亲属称死者最后一刻抢刀压肚子下",
@@ -275,12 +283,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1063142,
-      "num": 1063142,
-      "word": "李明德删除报警微博",
-      "onboard_time": 1683533135,
-      "rank": 12,
-      "category": "社会新闻,艺人"
+      "raw_hot": 1043662,
+      "num": 1043662,
+      "word": "中了五亿",
+      "onboard_time": 1683529596,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 1026355,
@@ -297,6 +305,14 @@
       "onboard_time": 1683470734,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 984630,
+      "num": 984630,
+      "word": "于正 射雕就是要流量带新人",
+      "onboard_time": 1683533013,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 922212,
@@ -339,6 +355,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 740571,
+      "num": 740571,
+      "word": "主办方称赵今麦不存在插队行为",
+      "onboard_time": 1683532295,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 738388,
       "num": 738388,
       "word": "因为性格内向结果被辞退了",
@@ -353,14 +377,6 @@
       "onboard_time": 1683452668,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 731782,
-      "num": 731782,
-      "word": "主办方称赵今麦不存在插队行为",
-      "onboard_time": 1683532295,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 729071,
@@ -419,6 +435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 609453,
+      "num": 338283,
+      "word": "aespa新歌SpicyMV",
+      "onboard_time": 1683522032,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 607951,
       "num": 607951,
       "word": "淄博一季度GDP超1000亿元",
@@ -427,28 +451,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 599805,
-      "num": 481674,
-      "word": "于正 射雕就是要流量带新人",
-      "onboard_time": 1683533013,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 583926,
       "num": 583926,
       "word": "宋茜为Amber打call",
       "onboard_time": 1683502823,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 560130,
-      "num": 369871,
-      "word": "中了五亿",
-      "onboard_time": 1683529596,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 555855,
@@ -668,7 +676,7 @@
     },
     {
       "raw_hot": 366346,
-      "num": 295754,
+      "num": 299795,
       "word": "房东的猫被表白手足无措",
       "onboard_time": 1683533496,
       "rank": 42,
@@ -689,6 +697,14 @@
       "onboard_time": 1683456031,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 360071,
+      "num": 315397,
+      "word": "周杰伦刘畊宏扫楼",
+      "onboard_time": 1683534453,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 359767,
@@ -755,6 +771,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 342643,
+      "num": 301296,
+      "word": "接我担解约",
+      "onboard_time": 1683534632,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 341845,
+      "num": 341845,
+      "word": "挤洗面奶把自己挤骨折了",
+      "onboard_time": 1683531696,
+      "rank": 23,
+      "category": "幽默,美妆"
+    },
+    {
       "raw_hot": 339222,
       "num": 339222,
       "word": "全红婵世界杯再斩获1枚金牌",
@@ -763,12 +795,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 329906,
-      "num": 329906,
-      "word": "挤洗面奶把自己挤骨折了",
-      "onboard_time": 1683531696,
-      "rank": 23,
-      "category": "幽默,美妆"
+      "raw_hot": 331686,
+      "num": 331686,
+      "word": "在一起八年分手了是什么体验",
+      "onboard_time": 1683523771,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 330163,
+      "num": 292465,
+      "word": "曾嘉 嘉行",
+      "onboard_time": 1683536252,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 329502,
@@ -787,6 +827,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 325883,
+      "num": 325883,
+      "word": "被认识几年的合作方表白了",
+      "onboard_time": 1683535771,
+      "rank": 23,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 316439,
+      "num": 316439,
+      "word": "30岁单亲妈妈和儿子的晚餐",
+      "onboard_time": 1683534270,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 315312,
       "num": 315312,
       "word": "布克三分",
@@ -795,20 +851,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 315193,
-      "num": 315193,
-      "word": "在一起八年分手了是什么体验",
-      "onboard_time": 1683523771,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 314551,
       "num": 314551,
       "word": "张颂文被扔东西",
       "onboard_time": 1683465994,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 314166,
+      "num": 314166,
+      "word": "巴厘岛命案",
+      "onboard_time": 1683536130,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309378,
@@ -875,28 +931,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 290562,
-      "num": 245414,
-      "word": "aespa新歌SpicyMV",
-      "onboard_time": 1683522032,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 289880,
       "num": 289880,
       "word": "劳伦斯",
       "onboard_time": 1683514169,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 284410,
-      "num": 284410,
-      "word": "周杰伦刘畊宏扫楼",
-      "onboard_time": 1683534453,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 284168,
@@ -921,6 +961,14 @@
       "onboard_time": 1683455670,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 273723,
+      "num": 273723,
+      "word": "aespa确认会有正规一辑",
+      "onboard_time": 1683536551,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 272679,
@@ -979,6 +1027,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 257024,
+      "num": 257024,
+      "word": "王俊凯或将主演小少年",
+      "onboard_time": 1683534938,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 256927,
       "num": 256927,
       "word": "我国可重复使用试验航天器成功着陆",
@@ -1025,6 +1081,14 @@
       "onboard_time": 1683470495,
       "rank": 24,
       "category": "网红,情感"
+    },
+    {
+      "raw_hot": 235517,
+      "num": 304279,
+      "word": "新疆旅游协会秘书长李巧",
+      "onboard_time": 1683535172,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231784,
@@ -1099,6 +1163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 215487,
+      "num": 273747,
+      "word": "差点被吊牌单杀了",
+      "onboard_time": 1683536612,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 215477,
       "num": 215477,
       "word": "杜兰特",
@@ -1171,6 +1243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197206,
+      "num": 159009,
+      "word": "还得是二次元",
+      "onboard_time": 1683536971,
+      "rank": 44,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 195454,
       "num": 195454,
       "word": "爸爸当家",
@@ -1216,14 +1296,6 @@
       "word": "蔡徐坤 Baz Luhrmann",
       "onboard_time": 1683529596,
       "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 190557,
-      "num": 164373,
-      "word": "接我担解约",
-      "onboard_time": 1683534632,
-      "rank": 43,
       "category": "艺人"
     },
     {
@@ -1379,6 +1451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 161303,
+      "num": 161303,
+      "word": "全小区都知道这狗会开门了",
+      "onboard_time": 1683536191,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160748,
       "num": 160748,
       "word": "seventeen团体聚餐造型",
@@ -1433,14 +1513,6 @@
       "onboard_time": 1683522933,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 147319,
-      "num": 147319,
-      "word": "30岁单亲妈妈和儿子的晚餐",
-      "onboard_time": 1683534270,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 147152,
@@ -1617,6 +1689,14 @@
       "onboard_time": 1683473130,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 107133,
+      "num": 156814,
+      "word": "塞尔达传说王国之泪",
+      "onboard_time": 1683536612,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 105336,
