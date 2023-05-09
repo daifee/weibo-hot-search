@@ -1,6 +1,6 @@
 {
   "startTime": 1683562973147,
-  "endTime": 1683641792840,
+  "endTime": 1683642852455,
   "band_list": [
     {
       "raw_hot": 2683828,
@@ -25,6 +25,14 @@
       "onboard_time": 1683603208,
       "rank": 1,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2126647,
+      "num": 2126647,
+      "word": "苹果天气",
+      "onboard_time": 1683639629,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 1937069,
@@ -251,6 +259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1194485,
+      "num": 1194485,
+      "word": "这放整个肛肠科都很炸裂",
+      "onboard_time": 1683624870,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1184772,
       "num": 1184772,
       "word": "一夜醒来欠了地铁600多万",
@@ -265,14 +281,6 @@
       "onboard_time": 1683602788,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1127094,
-      "num": 1127094,
-      "word": "苹果天气",
-      "onboard_time": 1683639629,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 1126440,
@@ -331,14 +339,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1026709,
-      "num": 1026709,
-      "word": "这放整个肛肠科都很炸裂",
-      "onboard_time": 1683624870,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1022512,
       "num": 1022512,
       "word": "中国驻加拿大使馆回应",
@@ -369,6 +369,14 @@
       "onboard_time": 1683618328,
       "rank": 1,
       "category": "军事"
+    },
+    {
+      "raw_hot": 974676,
+      "num": 696826,
+      "word": "鹿晗的关注列表",
+      "onboard_time": 1683640651,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 949837,
@@ -475,20 +483,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 696826,
-      "num": 696826,
-      "word": "鹿晗的关注列表",
-      "onboard_time": 1683640651,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 691733,
       "num": 691733,
       "word": "最适合谈恋爱的星座",
       "onboard_time": 1683615388,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 673357,
+      "num": 673357,
+      "word": "护心小学生特效",
+      "onboard_time": 1683640532,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 667585,
@@ -659,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 514445,
-      "num": 308055,
-      "word": "护心小学生特效",
-      "onboard_time": 1683640532,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 513967,
       "num": 513967,
       "word": "2022年平均工资",
@@ -793,6 +793,14 @@
       "onboard_time": 1683565039,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 420320,
+      "num": 210603,
+      "word": "因为30万彩礼跟男朋友分手了",
+      "onboard_time": 1683641791,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 418003,
@@ -1089,6 +1097,14 @@
       "onboard_time": 1683608015,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 305550,
+      "num": 207627,
+      "word": "护心妆造有些潦草",
+      "onboard_time": 1683640769,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 305174,
@@ -1451,14 +1467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 244352,
-      "num": 179212,
-      "word": "护心妆造有些潦草",
-      "onboard_time": 1683640769,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 243812,
       "num": 243812,
       "word": "五十公里桃花坞3官宣",
@@ -1683,6 +1691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206765,
+      "num": 206765,
+      "word": "巴基斯坦前总理被捕",
+      "onboard_time": 1683642092,
+      "rank": 33,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 205035,
       "num": 205035,
       "word": "嘴像开了光一样是种什么体验",
@@ -1809,6 +1825,14 @@
       "onboard_time": 1683556173,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 192157,
+      "num": 192157,
+      "word": "2023MSI",
+      "onboard_time": 1683642333,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 192043,
@@ -1976,6 +2000,14 @@
       "word": "象山摩托车表演重摔车手不幸身亡",
       "onboard_time": 1683636329,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159195,
+      "num": 159195,
+      "word": "杰克辣条已被取消阜南好人称号",
+      "onboard_time": 1683642572,
+      "rank": 45,
       "category": "社会新闻"
     },
     {

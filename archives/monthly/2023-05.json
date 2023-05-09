@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683641792840,
+  "endTime": 1683642852455,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -601,6 +601,14 @@
       "onboard_time": 1683505348,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2126647,
+      "num": 2126647,
+      "word": "苹果天气",
+      "onboard_time": 1683639629,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 2107333,
@@ -2059,6 +2067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1194485,
+      "num": 1194485,
+      "word": "这放整个肛肠科都很炸裂",
+      "onboard_time": 1683624870,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1190970,
       "num": 1190970,
       "word": "学生五一前请假遭拒强行离校被处分",
@@ -2249,14 +2265,6 @@
       "onboard_time": 1683282452,
       "rank": 12,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 1127094,
-      "num": 1127094,
-      "word": "苹果天气",
-      "onboard_time": 1683639629,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 1126440,
@@ -2579,14 +2587,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1026709,
-      "num": 1026709,
-      "word": "这放整个肛肠科都很炸裂",
-      "onboard_time": 1683624870,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1026355,
       "num": 858291,
       "word": "肖战作品疑似被恶意评分",
@@ -2737,6 +2737,14 @@
       "onboard_time": 1683618328,
       "rank": 1,
       "category": "军事"
+    },
+    {
+      "raw_hot": 974676,
+      "num": 696826,
+      "word": "鹿晗的关注列表",
+      "onboard_time": 1683640651,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 971296,
@@ -3771,14 +3779,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 696826,
-      "num": 696826,
-      "word": "鹿晗的关注列表",
-      "onboard_time": 1683640651,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 695943,
       "num": 695943,
       "word": "陈乔恩工藤静香同框",
@@ -3905,6 +3905,14 @@
       "onboard_time": 1683093388,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 673357,
+      "num": 673357,
+      "word": "护心小学生特效",
+      "onboard_time": 1683640532,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 671779,
@@ -5123,14 +5131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 514445,
-      "num": 308055,
-      "word": "护心小学生特效",
-      "onboard_time": 1683640532,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 513967,
       "num": 513967,
       "word": "2022年平均工资",
@@ -6265,6 +6265,14 @@
       "onboard_time": 1683205894,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 420320,
+      "num": 210603,
+      "word": "因为30万彩礼跟男朋友分手了",
+      "onboard_time": 1683641791,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 418756,
@@ -8819,6 +8827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305550,
+      "num": 207627,
+      "word": "护心妆造有些潦草",
+      "onboard_time": 1683640769,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 305515,
       "num": 305515,
       "word": "装修砸承重墙致200户居民疏散",
@@ -11107,14 +11123,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 244352,
-      "num": 179212,
-      "word": "护心妆造有些潦草",
-      "onboard_time": 1683640769,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 243984,
       "num": 243984,
       "word": "石墩子 花花女士的肚子",
@@ -13131,6 +13139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206765,
+      "num": 206765,
+      "word": "巴基斯坦前总理被捕",
+      "onboard_time": 1683642092,
+      "rank": 33,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 206452,
       "num": 206452,
       "word": "周杰伦香港演唱会盛况",
@@ -14049,6 +14065,14 @@
       "onboard_time": 1683530376,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192157,
+      "num": 192157,
+      "word": "2023MSI",
+      "onboard_time": 1682918250,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 192065,
@@ -16083,6 +16107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159195,
+      "num": 159195,
+      "word": "杰克辣条已被取消阜南好人称号",
+      "onboard_time": 1683642572,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159049,
       "num": 159049,
       "word": "小落 最强新人",
@@ -16601,14 +16633,6 @@
       "onboard_time": 1682857890,
       "rank": 30,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 149326,
-      "num": 149326,
-      "word": "2023MSI",
-      "onboard_time": 1682918250,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 149173,
