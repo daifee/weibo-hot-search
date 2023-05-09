@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683610406375,
+  "endTime": 1683613341428,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1195,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1595219,
+      "num": 1595219,
+      "word": "中方要求甄逸慧5月13日前离华",
+      "onboard_time": 1683610349,
+      "rank": 37,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1593616,
       "num": 1593616,
       "word": "美女幼师凭挖呀挖呀挖走红",
@@ -2195,6 +2203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1102206,
+      "num": 1102206,
+      "word": "为什么这届年轻人开始断亲",
+      "onboard_time": 1683602488,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1099269,
       "num": 613702,
       "word": "张紫宁向粉丝道歉",
@@ -2281,14 +2297,6 @@
       "onboard_time": 1683284370,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1075469,
-      "num": 1075469,
-      "word": "为什么这届年轻人开始断亲",
-      "onboard_time": 1683602488,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 1074147,
@@ -2883,6 +2891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 865508,
+      "num": 865508,
+      "word": "中方对加拿大采取对等反制措施",
+      "onboard_time": 1683609869,
+      "rank": 11,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 863717,
       "num": 863717,
       "word": "杨迪曾因简历照片错失工作机会",
@@ -3297,6 +3313,14 @@
       "onboard_time": 1682866892,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 743491,
+      "num": 743491,
+      "word": "结婚当天建议用的假东西",
+      "onboard_time": 1683608430,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 741494,
@@ -4099,14 +4123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 592686,
-      "num": 569122,
-      "word": "中方对加拿大采取对等反制措施",
-      "onboard_time": 1683609869,
-      "rank": 11,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 587748,
       "num": 463116,
       "word": "Jennie的肤色好辣",
@@ -4129,6 +4145,14 @@
       "onboard_time": 1683259953,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 585371,
+      "num": 585371,
+      "word": "甄逸慧",
+      "onboard_time": 1683610708,
+      "rank": 11,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 585063,
@@ -4185,6 +4209,14 @@
       "onboard_time": 1683436829,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 582125,
+      "num": 582125,
+      "word": "粉丝否认赵丽颖王一博二搭",
+      "onboard_time": 1683610049,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 581418,
@@ -4824,6 +4856,14 @@
       "word": "洛阳规划局",
       "onboard_time": 1683592469,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 514104,
+      "num": 514104,
+      "word": "广州地铁回应乘客欠600多万巨款",
+      "onboard_time": 1683611846,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -6475,6 +6515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 384829,
+      "num": 384829,
+      "word": "黄景瑜对张婧仪说你再找找",
+      "onboard_time": 1683609210,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 384472,
       "num": 333998,
       "word": "吃完榴莲千万别碰这些食物",
@@ -7057,14 +7105,6 @@
       "onboard_time": 1683259894,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 355141,
-      "num": 355141,
-      "word": "结婚当天建议用的假东西",
-      "onboard_time": 1683608430,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 354581,
@@ -8171,6 +8211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 313857,
+      "num": 313857,
+      "word": "大脑发育30岁才完成",
+      "onboard_time": 1683611727,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 313034,
       "num": 313034,
       "word": "杭州西湖捞哥是免费的",
@@ -8353,6 +8401,14 @@
       "onboard_time": 1683444449,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 305174,
+      "num": 305174,
+      "word": "我和男朋友被通知10月结婚",
+      "onboard_time": 1683609151,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 305144,
@@ -9699,12 +9755,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 260003,
+      "num": 260003,
+      "word": "35岁你会发现工作是没有意义的",
+      "onboard_time": 1683611306,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 259721,
       "num": 259721,
       "word": "辽宁男篮",
       "onboard_time": 1682949150,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 259077,
+      "num": 259077,
+      "word": "法老 假面",
+      "onboard_time": 1683610888,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 258933,
@@ -11523,14 +11595,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 221710,
-      "num": 221710,
-      "word": "中方要求甄逸慧5月13日前离华",
-      "onboard_time": 1683610349,
-      "rank": 37,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 221353,
       "num": 221353,
       "word": "你在简历上撒过什么谎",
@@ -11731,14 +11795,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 218599,
-      "num": 218599,
-      "word": "我和男朋友被通知10月结婚",
-      "onboard_time": 1683609151,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 218586,
       "num": 218586,
       "word": "青年节快乐",
@@ -11777,14 +11833,6 @@
       "onboard_time": 1683258692,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 217886,
-      "num": 217886,
-      "word": "粉丝否认赵丽颖王一博二搭",
-      "onboard_time": 1683610049,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 217740,
@@ -12264,14 +12312,6 @@
       "word": "平凡之路今日开播",
       "onboard_time": 1683083613,
       "rank": 29,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 209508,
-      "num": 209508,
-      "word": "黄景瑜对张婧仪说你再找找",
-      "onboard_time": 1683609210,
-      "rank": 47,
       "category": "影视"
     },
     {
@@ -13211,6 +13251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194881,
+      "num": 194881,
+      "word": "白鹿奔跑吧嫦娥造型",
+      "onboard_time": 1683613046,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194739,
       "num": 194739,
       "word": "杨千嬅演唱会",
@@ -13435,6 +13483,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 190525,
+      "num": 190525,
+      "word": "午睡过久会长胖吗",
+      "onboard_time": 1683612929,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190453,
       "num": 190453,
       "word": "五一最后1天假期",
@@ -13465,6 +13521,14 @@
       "onboard_time": 1683022045,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 189790,
+      "num": 189790,
+      "word": "为了考上编制可以有多努力",
+      "onboard_time": 1683612686,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 189743,
@@ -18561,6 +18625,14 @@
       "onboard_time": 1683333689,
       "rank": 49,
       "category": "游戏,音乐"
+    },
+    {
+      "raw_hot": 25492,
+      "num": 200538,
+      "word": "快手引力大会闪耀黄浦江",
+      "onboard_time": 1683612025,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25381,
