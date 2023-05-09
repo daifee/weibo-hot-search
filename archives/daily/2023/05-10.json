@@ -1,6 +1,6 @@
 {
   "startTime": 1683649328764,
-  "endTime": 1683656493144,
+  "endTime": 1683657250014,
   "band_list": [
     {
       "raw_hot": 1276868,
@@ -443,12 +443,20 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 32163,
+      "raw_hot": 33989,
       "num": 34935,
       "word": "疑火车行凶案凶手曾自述患精神分裂",
       "onboard_time": 1683654674,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26523,
+      "num": 30058,
+      "word": "失眠",
+      "onboard_time": 1683542552,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 25931,
