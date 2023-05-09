@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683659624526,
+  "endTime": 1683660819407,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -4667,20 +4667,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45054,
+      "num": 45054,
+      "word": "小说漫画 不应该分男女频",
+      "onboard_time": 1683657314,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 42592,
       "num": 1419398,
       "word": "天舟六号船箭组合体垂直转运美图",
       "onboard_time": 1683555871,
       "rank": 2,
       "category": "科技"
-    },
-    {
-      "raw_hot": 39523,
-      "num": 39523,
-      "word": "小说漫画 不应该分男女频",
-      "onboard_time": 1683657314,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 34319,
@@ -4739,8 +4739,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21879,
-      "num": 23807,
+      "raw_hot": 24369,
+      "num": 24369,
       "word": "周杰伦演唱会男孩仰头大睡",
       "onboard_time": 1683657613,
       "rank": 44,
