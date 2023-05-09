@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683621221987,
+  "endTime": 1683623830216,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -259,6 +259,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1591086,
+      "num": 1591086,
+      "word": "专家称巴厘岛死亡女孩应系被害",
+      "onboard_time": 1683621329,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1590480,
       "num": 1590480,
       "word": "嘉行法人曾嘉曾是杨幂经纪人",
@@ -387,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1388116,
+      "num": 1388116,
+      "word": "五月天演唱会嘉宾",
+      "onboard_time": 1683622225,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1386877,
       "num": 852538,
       "word": "杨幂解约文案适配分手官宣结婚",
@@ -435,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1294748,
+      "num": 535423,
+      "word": "疑似杨幂母亲已成立娱乐公司",
+      "onboard_time": 1683622170,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1292529,
       "num": 1292529,
       "word": "庄达菲",
@@ -473,6 +497,22 @@
       "onboard_time": 1683530312,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1206607,
+      "num": 324885,
+      "word": "外媒称肖战是史上最帅郭靖",
+      "onboard_time": 1683621809,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1199371,
+      "num": 320917,
+      "word": "小三得知我要离婚发的短信",
+      "onboard_time": 1683621988,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 1197936,
@@ -731,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 839658,
+      "num": 317620,
+      "word": "突然发现公积金已经是笔巨款",
+      "onboard_time": 1683622289,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 838604,
       "num": 722361,
       "word": "徐峥称不存在转移资产",
@@ -891,6 +939,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 667585,
+      "num": 506905,
+      "word": "赵露思出发韩国路透",
+      "onboard_time": 1683618445,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 660702,
+      "num": 486457,
+      "word": "巴厘岛案",
+      "onboard_time": 1683621207,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 653534,
       "num": 653534,
       "word": "aespa回归",
@@ -971,6 +1035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 600075,
+      "num": 600075,
+      "word": "刘琳我父亲配享太庙",
+      "onboard_time": 1683622648,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 592694,
       "num": 538946,
       "word": "朴宰范演出要求女士化妆",
@@ -1043,14 +1115,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 549476,
-      "num": 409526,
-      "word": "赵露思出发韩国路透",
-      "onboard_time": 1683618445,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 548129,
       "num": 412783,
       "word": "上海20岁女子被3万卖到安徽当新娘",
@@ -1065,6 +1129,14 @@
       "onboard_time": 1683520712,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 536629,
+      "num": 536629,
+      "word": "香奈儿邀请函",
+      "onboard_time": 1683620425,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 532765,
@@ -2235,6 +2307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257309,
+      "num": 257309,
+      "word": "罗云熙让白鹿享受一点",
+      "onboard_time": 1683622349,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 257024,
       "num": 257024,
       "word": "王俊凯或将主演小少年",
@@ -2433,6 +2513,14 @@
       "onboard_time": 1683563424,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 239187,
+      "num": 239187,
+      "word": "亦卷古月 停更",
+      "onboard_time": 1683623490,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 236410,
@@ -2691,12 +2779,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 213565,
-      "num": 213565,
-      "word": "香奈儿邀请函",
-      "onboard_time": 1683620425,
-      "rank": 49,
-      "category": "时尚"
+      "raw_hot": 213610,
+      "num": 213610,
+      "word": "梁静茹 门票",
+      "onboard_time": 1683623429,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 213040,
@@ -2753,6 +2841,14 @@
       "onboard_time": 1683503125,
       "rank": 29,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 209899,
+      "num": 209899,
+      "word": "领证当天对方不愿意发朋友圈",
+      "onboard_time": 1683623368,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 209135,
@@ -3323,6 +3419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159953,
+      "num": 159953,
+      "word": "周深玉兔造型正面vs背面",
+      "onboard_time": 1683623609,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159548,
       "num": 159548,
       "word": "娜么正瀚",
@@ -3395,14 +3499,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 148640,
-      "num": 148640,
-      "word": "巴厘岛案",
-      "onboard_time": 1683621207,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147152,
       "num": 147152,
       "word": "大学生在消防喷淋上挂衣服水淹酒店",
@@ -3425,6 +3521,14 @@
       "onboard_time": 1683523291,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142717,
+      "num": 142717,
+      "word": "厨房起火邻居徒手爬墙扑灭",
+      "onboard_time": 1683622052,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 142481,
@@ -3577,6 +3681,14 @@
       "onboard_time": 1683468513,
       "rank": 29,
       "category": "科技,情感"
+    },
+    {
+      "raw_hot": 124355,
+      "num": 141481,
+      "word": "WE官宣biubiu离队",
+      "onboard_time": 1683621387,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 123462,
@@ -3852,7 +3964,7 @@
     },
     {
       "raw_hot": 67694,
-      "num": 933241,
+      "num": 1200102,
       "word": "上天入地的大国重器彰显大国力量",
       "onboard_time": 1683617487,
       "rank": 2,

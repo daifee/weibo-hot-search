@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683621221987,
+  "endTime": 1683623830216,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1211,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1591086,
+      "num": 1591086,
+      "word": "专家称巴厘岛死亡女孩应系被害",
+      "onboard_time": 1683621329,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1590480,
       "num": 1590480,
       "word": "嘉行法人曾嘉曾是杨幂经纪人",
@@ -1547,6 +1555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1388116,
+      "num": 1388116,
+      "word": "五月天演唱会嘉宾",
+      "onboard_time": 1683622225,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1386877,
       "num": 852538,
       "word": "杨幂解约文案适配分手官宣结婚",
@@ -1755,6 +1771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1294748,
+      "num": 535423,
+      "word": "疑似杨幂母亲已成立娱乐公司",
+      "onboard_time": 1683622170,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1292529,
       "num": 1292529,
       "word": "庄达菲",
@@ -1947,12 +1971,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1206607,
+      "num": 324885,
+      "word": "外媒称肖战是史上最帅郭靖",
+      "onboard_time": 1683621809,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1205642,
       "num": 1205642,
       "word": "五月天官宣鸟巢连开六场",
       "onboard_time": 1683274288,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1199371,
+      "num": 320917,
+      "word": "小三得知我要离婚发的短信",
+      "onboard_time": 1683621988,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 1197936,
@@ -3027,6 +3067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 839658,
+      "num": 317620,
+      "word": "突然发现公积金已经是笔巨款",
+      "onboard_time": 1683622289,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 839372,
       "num": 839372,
       "word": "田曦薇曾参加过一年级大学季",
@@ -3787,6 +3835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 667585,
+      "num": 506905,
+      "word": "赵露思出发韩国路透",
+      "onboard_time": 1683618445,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 666979,
       "num": 666979,
       "word": "张角",
@@ -3817,6 +3873,14 @@
       "onboard_time": 1682865932,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 660702,
+      "num": 486457,
+      "word": "巴厘岛案",
+      "onboard_time": 1683621207,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 659176,
@@ -4121,6 +4185,14 @@
       "onboard_time": 1683441808,
       "rank": 7,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 600075,
+      "num": 600075,
+      "word": "刘琳我父亲配享太庙",
+      "onboard_time": 1683622648,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 596398,
@@ -4571,14 +4643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 549476,
-      "num": 409526,
-      "word": "赵露思出发韩国路透",
-      "onboard_time": 1683618445,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 549239,
       "num": 549239,
       "word": "美依礼芽翻译是谁",
@@ -4697,6 +4761,14 @@
       "onboard_time": 1683202589,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 536629,
+      "num": 536629,
+      "word": "香奈儿邀请函",
+      "onboard_time": 1683620425,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 536429,
@@ -10043,6 +10115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257309,
+      "num": 257309,
+      "word": "罗云熙让白鹿享受一点",
+      "onboard_time": 1683622349,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 257057,
       "num": 257057,
       "word": "等比例放大的花花",
@@ -10897,6 +10977,14 @@
       "onboard_time": 1683083492,
       "rank": 31,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 239187,
+      "num": 239187,
+      "word": "亦卷古月 停更",
+      "onboard_time": 1683623490,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 239084,
@@ -12307,12 +12395,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213565,
-      "num": 213565,
-      "word": "香奈儿邀请函",
-      "onboard_time": 1683620425,
-      "rank": 49,
-      "category": "时尚"
+      "raw_hot": 213610,
+      "num": 213610,
+      "word": "梁静茹 门票",
+      "onboard_time": 1683623429,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 213399,
@@ -12521,6 +12609,14 @@
       "onboard_time": 1683083613,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 209899,
+      "num": 209899,
+      "word": "领证当天对方不愿意发朋友圈",
+      "onboard_time": 1683623368,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 209296,
@@ -15515,6 +15611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159953,
+      "num": 159953,
+      "word": "周深玉兔造型正面vs背面",
+      "onboard_time": 1683623609,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159895,
       "num": 159895,
       "word": "皮皮限",
@@ -16107,14 +16211,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 148640,
-      "num": 148640,
-      "word": "巴厘岛案",
-      "onboard_time": 1683621207,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148578,
       "num": 148578,
       "word": "老张你再骗我一次吧",
@@ -16297,6 +16393,14 @@
       "onboard_time": 1683523291,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142717,
+      "num": 142717,
+      "word": "厨房起火邻居徒手爬墙扑灭",
+      "onboard_time": 1683622052,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 142481,
@@ -17121,6 +17225,14 @@
       "onboard_time": 1682934626,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124355,
+      "num": 141481,
+      "word": "WE官宣biubiu离队",
+      "onboard_time": 1683621387,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 124259,
@@ -18380,7 +18492,7 @@
     },
     {
       "raw_hot": 67694,
-      "num": 933241,
+      "num": 1200102,
       "word": "上天入地的大国重器彰显大国力量",
       "onboard_time": 1683617487,
       "rank": 2,
