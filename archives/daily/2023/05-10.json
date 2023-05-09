@@ -1,10 +1,10 @@
 {
   "startTime": 1683649328764,
-  "endTime": 1683674216857,
+  "endTime": 1683675219863,
   "band_list": [
     {
-      "raw_hot": 1337804,
-      "num": 1337804,
+      "raw_hot": 1614504,
+      "num": 1614504,
       "word": "辱骂女大学生致死案房东发声",
       "onboard_time": 1683649945,
       "rank": 1,
@@ -33,6 +33,14 @@
       "onboard_time": 1683640651,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 635402,
+      "num": 635402,
+      "word": "特朗普被裁定性侵",
+      "onboard_time": 1683674843,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 617292,
@@ -107,6 +115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 383773,
+      "num": 383773,
+      "word": "张颂文 海澜之家",
+      "onboard_time": 1683674541,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 383178,
       "num": 383178,
       "word": "长月烬明番外",
@@ -163,6 +179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 301788,
+      "num": 301788,
+      "word": "守村人见新娘穿破洞裤送来干净裤子",
+      "onboard_time": 1683663612,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301470,
       "num": 208045,
       "word": "突然发现公积金已经是笔巨款",
@@ -185,14 +209,6 @@
       "onboard_time": 1683644431,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 277130,
-      "num": 277130,
-      "word": "守村人见新娘穿破洞裤送来干净裤子",
-      "onboard_time": 1683663612,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 260774,
@@ -339,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 138059,
+      "num": 138059,
+      "word": "大熊猫竟然可以抱膝坐",
+      "onboard_time": 1683664992,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123629,
       "num": 123629,
       "word": "护心 太空上放烟花",
@@ -347,12 +371,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 122886,
+      "num": 122886,
+      "word": "五月天",
+      "onboard_time": 1683675146,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 120671,
       "num": 120671,
       "word": "迪丽热巴机场粉裙造型",
       "onboard_time": 1683627026,
       "rank": 42,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 120361,
+      "num": 120361,
+      "word": "蔡徐坤第一首原创单曲回归",
+      "onboard_time": 1683674422,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 117196,
@@ -379,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 109745,
+      "num": 109745,
+      "word": "周杰伦演唱会男孩仰头大睡",
+      "onboard_time": 1683657613,
+      "rank": 44,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 105276,
       "num": 196235,
       "word": "上海虹桥火车站一女子坠楼仍在抢救",
@@ -395,6 +443,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 98678,
+      "num": 98678,
+      "word": "杨紫林更新cp感",
+      "onboard_time": 1683674782,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 98051,
+      "num": 98051,
+      "word": "护心适合宝宝体质的仙侠剧",
+      "onboard_time": 1683674119,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 96914,
       "num": 112729,
       "word": "对减脂餐有不同的理解",
@@ -403,20 +467,12 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 93932,
-      "num": 93932,
-      "word": "周杰伦演唱会男孩仰头大睡",
-      "onboard_time": 1683657613,
-      "rank": 44,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 84682,
-      "num": 84682,
-      "word": "大熊猫竟然可以抱膝坐",
-      "onboard_time": 1683664992,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 87327,
+      "num": 87327,
+      "word": "女子刚学会心肺复苏就救球友一命",
+      "onboard_time": 1683674782,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82625,
@@ -459,20 +515,20 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 73385,
+      "num": 73385,
+      "word": "空耳的是宋茜丢脸的是蒋欣",
+      "onboard_time": 1683635368,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67880,
       "num": 67880,
       "word": "能把人逼疯的缺德玩具",
       "onboard_time": 1683649585,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 67508,
-      "num": 67508,
-      "word": "空耳的是宋茜丢脸的是蒋欣",
-      "onboard_time": 1683635368,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 67497,
@@ -489,14 +545,6 @@
       "onboard_time": 1683654674,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57938,
-      "num": 57126,
-      "word": "护心适合宝宝体质的仙侠剧",
-      "onboard_time": 1683674119,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 45054,
@@ -539,8 +587,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 5401,
-      "num": 713464,
+      "raw_hot": 5991,
+      "num": 736258,
       "word": "上天入地的大国重器彰显大国力量",
       "onboard_time": 1683617487,
       "rank": 2,
