@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683620463478,
+  "endTime": 1683621221987,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -779,6 +779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 746762,
+      "num": 746762,
+      "word": "金智秀有钱且漂亮",
+      "onboard_time": 1683615147,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 740571,
       "num": 740571,
       "word": "主办方称赵今麦不存在插队行为",
@@ -963,14 +971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 604359,
-      "num": 604359,
-      "word": "金智秀有钱且漂亮",
-      "onboard_time": 1683615147,
-      "rank": 13,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 592694,
       "num": 538946,
       "word": "朴宰范演出要求女士化妆",
@@ -1041,6 +1041,14 @@
       "onboard_time": 1683520413,
       "rank": 47,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 549476,
+      "num": 409526,
+      "word": "赵露思出发韩国路透",
+      "onboard_time": 1683618445,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 548129,
@@ -1467,14 +1475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 379126,
-      "num": 379126,
-      "word": "赵露思出发韩国路透",
-      "onboard_time": 1683618445,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 378605,
       "num": 378605,
       "word": "杨幂的时间参照物是什么",
@@ -1507,8 +1507,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 369652,
-      "num": 369652,
+      "raw_hot": 373006,
+      "num": 373006,
       "word": "何超莲今日份开心",
       "onboard_time": 1683616167,
       "rank": 31,
@@ -1915,6 +1915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 301167,
+      "num": 301167,
+      "word": "Angelababy奔跑吧七仙女造型",
+      "onboard_time": 1683620307,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301074,
       "num": 297373,
       "word": "陈都灵工作室编辑记录",
@@ -2219,6 +2227,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 257342,
+      "num": 257342,
+      "word": "乘风2023三公分组歌单",
+      "onboard_time": 1683619466,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257024,
       "num": 257024,
       "word": "王俊凯或将主演小少年",
@@ -2515,14 +2531,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 230079,
-      "num": 230079,
-      "word": "乘风2023三公分组歌单",
-      "onboard_time": 1683619466,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 229813,
       "num": 229813,
       "word": "李宛妲 华筝",
@@ -2681,6 +2689,14 @@
       "onboard_time": 1683510688,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 213565,
+      "num": 213565,
+      "word": "香奈儿邀请函",
+      "onboard_time": 1683620425,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 213040,
@@ -3011,6 +3027,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 189256,
+      "num": 262759,
+      "word": "孩子高烧晕厥特警一路护送开道",
+      "onboard_time": 1683617549,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 189152,
       "num": 186032,
       "word": "打个响指吧",
@@ -3033,14 +3057,6 @@
       "onboard_time": 1683514407,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 188377,
-      "num": 262759,
-      "word": "孩子高烧晕厥特警一路护送开道",
-      "onboard_time": 1683617549,
-      "rank": 47,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 188001,
@@ -3243,14 +3259,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 166005,
-      "num": 166005,
-      "word": "Angelababy奔跑吧七仙女造型",
-      "onboard_time": 1683620307,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 165887,
       "num": 165887,
       "word": "哪一瞬间意识到妈妈很爱你",
@@ -3339,6 +3347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154522,
+      "num": 154522,
+      "word": "这放在情侣届也是相当炸裂的",
+      "onboard_time": 1683620425,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153589,
       "num": 153589,
       "word": "警方回应高铁掌掴事件双方均受罚",
@@ -3353,6 +3369,14 @@
       "onboard_time": 1683592171,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 151080,
+      "num": 151080,
+      "word": "沙一汀高三自学考大学",
+      "onboard_time": 1683621026,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 149883,
@@ -3371,20 +3395,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148640,
+      "num": 148640,
+      "word": "巴厘岛案",
+      "onboard_time": 1683621207,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147152,
       "num": 147152,
       "word": "大学生在消防喷淋上挂衣服水淹酒店",
       "onboard_time": 1683501501,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146297,
-      "num": 146297,
-      "word": "这放在情侣届也是相当炸裂的",
-      "onboard_time": 1683620425,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 145479,
@@ -3785,14 +3809,6 @@
       "onboard_time": 1683587903,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 78784,
-      "num": 143318,
-      "word": "香奈儿邀请函",
-      "onboard_time": 1683620425,
-      "rank": 49,
-      "category": "时尚"
     },
     {
       "raw_hot": 77341,
