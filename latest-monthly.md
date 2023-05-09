@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/05/01 00:20:43 ~ 2023/05/10 01:15:22
+本榜单时间：2023/05/01 00:20:43 ~ 2023/05/10 01:33:58
 </p>
 </blockquote>
 <p>
@@ -3027,6 +3027,12 @@ aespa回归（热度：653534）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%B1%E9%AA%82%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%87%B4%E6%AD%BB%E6%A1%88%E6%88%BF%E4%B8%9C%E5%8F%91%E5%A3%B0%23" target="weibo">
+辱骂女大学生致死案房东发声（热度：650614）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%8D%E5%AE%9A%E4%BB%B7%E5%92%96%E5%95%A1%E9%A6%86%E8%AF%95%E8%90%A5%E4%B8%9A%E9%A6%96%E6%97%A5%E4%BA%8F3500%E5%85%83%23" target="weibo">
 杭州不定价咖啡馆试营业首日亏3500元（热度：641820）
 </a>
@@ -3167,12 +3173,6 @@ NBA裁判（热度：626489）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%97%E9%B1%BC%23" target="weibo">
 斗鱼（热度：617414）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%B1%E9%AA%82%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%87%B4%E6%AD%BB%E6%A1%88%E6%88%BF%E4%B8%9C%E5%8F%91%E5%A3%B0%23" target="weibo">
-辱骂女大学生致死案房东发声（热度：616740）
 </a>
 </li>
 
