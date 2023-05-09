@@ -1,0 +1,410 @@
+{
+  "runTime": 1683603212849,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2683828,
+        "num": 2683828,
+        "word": "五月天抢票",
+        "onboard_time": 1683594509,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1283635,
+        "num": 1283635,
+        "word": "赵丽颖王一博将二搭",
+        "onboard_time": 1683601408,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69331,
+        "num": 1209436,
+        "word": "打卡中国",
+        "onboard_time": 1683597687,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1863741,
+        "num": 1202575,
+        "word": "谁抢到了五月天门票",
+        "onboard_time": 1683602366,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1182770,
+        "num": 1182770,
+        "word": "体制外的人会羡慕体制内的工作吗",
+        "onboard_time": 1683596547,
+        "rank": 4,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 1179751,
+        "num": 1179751,
+        "word": "女演员近10年无戏演再见观众哭了",
+        "onboard_time": 1683594929,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 849610,
+        "num": 849610,
+        "word": "胡锡进 火车上男乘客为什么没参与制服凶手",
+        "onboard_time": 1683587001,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 693706,
+        "num": 693706,
+        "word": "现实版高启兰",
+        "onboard_time": 1683588984,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628988,
+        "num": 628988,
+        "word": "他从火光中走来",
+        "onboard_time": 1683598527,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 604333,
+        "num": 604333,
+        "word": "36岁常青藤毕业确诊癌症后反而很开心",
+        "onboard_time": 1683555392,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 753948,
+        "num": 598468,
+        "word": "嘉行删除杨幂照片",
+        "onboard_time": 1683540690,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 561891,
+        "num": 561891,
+        "word": "瘦了二十斤后手部的变化",
+        "onboard_time": 1683557013,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 445539,
+        "num": 445539,
+        "word": "易烊千玺刘艳芬终章上线",
+        "onboard_time": 1683599189,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 408979,
+        "num": 408979,
+        "word": "中秋国庆休8天上7天",
+        "onboard_time": 1683542310,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399885,
+        "num": 399885,
+        "word": "谷爱凌将继续为中国队出战",
+        "onboard_time": 1683589044,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 385592,
+        "num": 385592,
+        "word": "女子裸贷5千仅4个月变欠款百万",
+        "onboard_time": 1683560668,
+        "rank": 15,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 369197,
+        "num": 369197,
+        "word": "一夜醒来欠了地铁600多万",
+        "onboard_time": 1683552449,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 327535,
+        "num": 327535,
+        "word": "aespa成第一个首日销售额破亿女团",
+        "onboard_time": 1683596666,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 308903,
+        "num": 308903,
+        "word": "杨洋一番爆剧",
+        "onboard_time": 1683557914,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307047,
+        "num": 307047,
+        "word": "假如陈都灵没进娱乐圈",
+        "onboard_time": 1683554132,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 585088,
+        "num": 302223,
+        "word": "6岁娃意外死亡父亲收3万签谅解书",
+        "onboard_time": 1683597988,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435623,
+        "num": 295332,
+        "word": "上海20岁女子被3万卖到安徽当新娘",
+        "onboard_time": 1683600506,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340939,
+        "num": 292576,
+        "word": "五一成绩单四川湖南表现惨淡",
+        "onboard_time": 1683601107,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287609,
+        "num": 287609,
+        "word": "给不起彩礼却买了20万的车",
+        "onboard_time": 1683602788,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281037,
+        "num": 281037,
+        "word": "杨幂各行业都有代表作",
+        "onboard_time": 1683596425,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278014,
+        "num": 278014,
+        "word": "美依礼芽的翻译找到了",
+        "onboard_time": 1683545728,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277686,
+        "num": 277686,
+        "word": "勇士vs湖人",
+        "onboard_time": 1683593368,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274639,
+        "num": 274639,
+        "word": "天官赐福",
+        "onboard_time": 1683602609,
+        "rank": 27,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 274235,
+        "num": 274235,
+        "word": "长相思限定惊喜vlog",
+        "onboard_time": 1683602609,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232650,
+        "num": 271880,
+        "word": "大叔8年进山捡垃圾13900余斤",
+        "onboard_time": 1683599486,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 271763,
+        "num": 271763,
+        "word": "杨幂解约文案适配分手官宣结婚",
+        "onboard_time": 1683602907,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265567,
+        "num": 268964,
+        "word": "巨齿鲨2",
+        "onboard_time": 1683600087,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268591,
+        "num": 268591,
+        "word": "领英职场将关停",
+        "onboard_time": 1683602547,
+        "rank": 32,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 247226,
+        "num": 247226,
+        "word": "千万不要再侧躺玩手机",
+        "onboard_time": 1683561986,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 244747,
+        "num": 244747,
+        "word": "五月天演唱会",
+        "onboard_time": 1683598286,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 236604,
+        "num": 236604,
+        "word": "为什么这届年轻人开始断亲",
+        "onboard_time": 1683602488,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234443,
+        "num": 234443,
+        "word": "格林",
+        "onboard_time": 1683602068,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232213,
+        "num": 232213,
+        "word": "在暴雪时分",
+        "onboard_time": 1683600929,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215990,
+        "num": 215990,
+        "word": "大麦",
+        "onboard_time": 1683602788,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200136,
+        "num": 200136,
+        "word": "春色寄情人",
+        "onboard_time": 1683596368,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194739,
+        "num": 194739,
+        "word": "杨千嬅演唱会",
+        "onboard_time": 1683602727,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193922,
+        "num": 193922,
+        "word": "内部人员称不排除安检后拿到刀",
+        "onboard_time": 1683594329,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192043,
+        "num": 192043,
+        "word": "sum41宣布解散",
+        "onboard_time": 1683603087,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185110,
+        "num": 185110,
+        "word": "金泰妍演唱会官宣香港场",
+        "onboard_time": 1683599666,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183529,
+        "num": 183529,
+        "word": "长相思",
+        "onboard_time": 1683587963,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181607,
+        "num": 181607,
+        "word": "宝妈回应生3儿1女后又怀四胞胎",
+        "onboard_time": 1683587723,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181413,
+        "num": 181413,
+        "word": "上海展会外国人插队领冰淇淋被拒",
+        "onboard_time": 1683594450,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173838,
+        "num": 173838,
+        "word": "iPhone14口碑下滑",
+        "onboard_time": 1683595048,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 92558,
+        "num": 164012,
+        "word": "网红城市菏泽现在什么样",
+        "onboard_time": 1683588143,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 30402,
+        "num": 161181,
+        "word": "无畏直播",
+        "onboard_time": 1683550830,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将主持中国—中亚峰会#"
+    }
+  }
+}
