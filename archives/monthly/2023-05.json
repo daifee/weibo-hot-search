@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683638634287,
+  "endTime": 1683639840652,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1843,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1281699,
+      "num": 1281699,
+      "word": "杨紫或将配合青簪行补拍",
+      "onboard_time": 1683635669,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1281127,
       "num": 604449,
       "word": "诺一何炅撞脸",
@@ -1929,6 +1937,14 @@
       "onboard_time": 1683041559,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1242604,
+      "num": 1242604,
+      "word": "肖战被反复评估才确认出演郭靖",
+      "onboard_time": 1683632308,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1240652,
@@ -2323,14 +2339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1094903,
-      "num": 1094903,
-      "word": "肖战被反复评估才确认出演郭靖",
-      "onboard_time": 1683632308,
-      "rank": 3,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1088435,
       "num": 1088435,
       "word": "白鹿片场行为",
@@ -2417,14 +2425,6 @@
       "onboard_time": 1683561986,
       "rank": 34,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 1070486,
-      "num": 1070486,
-      "word": "杨紫或将配合青簪行补拍",
-      "onboard_time": 1683635669,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1066442,
@@ -2547,6 +2547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1032047,
+      "num": 1032047,
+      "word": "鹿晗张艺兴同杂志封面",
+      "onboard_time": 1683636450,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1030066,
       "num": 1030066,
       "word": "王博",
@@ -2649,14 +2657,6 @@
       "onboard_time": 1683188968,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 994548,
-      "num": 994548,
-      "word": "鹿晗张艺兴同杂志封面",
-      "onboard_time": 1683636450,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 994273,
@@ -4659,8 +4659,8 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 555126,
-      "num": 369725,
+      "raw_hot": 555222,
+      "num": 450780,
       "word": "长月烬明番外",
       "onboard_time": 1683633149,
       "rank": 14,
@@ -4785,6 +4785,14 @@
       "onboard_time": 1683170909,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 544712,
+      "num": 314559,
+      "word": "罗云熙说长月烬明虽有憾愿人生圆满",
+      "onboard_time": 1683637411,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 543808,
@@ -6075,6 +6083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 429339,
+      "num": 280440,
+      "word": "孙红雷说张艺兴王一博跳舞是头部",
+      "onboard_time": 1683638551,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 428704,
       "num": 286936,
       "word": "而我只能去上班",
@@ -6475,14 +6491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 405454,
-      "num": 235246,
-      "word": "罗云熙说长月烬明虽有憾愿人生圆满",
-      "onboard_time": 1683637411,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 404774,
       "num": 404774,
       "word": "85后单身女子买完房后降薪了",
@@ -6764,7 +6772,7 @@
     },
     {
       "raw_hot": 391344,
-      "num": 234815,
+      "num": 269446,
       "word": "空耳的是宋茜丢脸的是蒋欣",
       "onboard_time": 1683635368,
       "rank": 23,
@@ -8844,7 +8852,7 @@
     },
     {
       "raw_hot": 302626,
-      "num": 242155,
+      "num": 266214,
       "word": "男朋友165但有钱要继续吗",
       "onboard_time": 1683629789,
       "rank": 27,
@@ -9643,6 +9651,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 278512,
+      "num": 278512,
+      "word": "RNG",
+      "onboard_time": 1683636869,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 278479,
       "num": 258158,
       "word": "内地小生一番票房榜",
@@ -9745,14 +9761,6 @@
       "onboard_time": 1683360930,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 274639,
-      "num": 274639,
-      "word": "RNG",
-      "onboard_time": 1683636869,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 274638,
@@ -10267,6 +10275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 259903,
+      "num": 259903,
+      "word": "白鹿清唱关键词",
+      "onboard_time": 1683637649,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 259721,
       "num": 259721,
       "word": "辽宁男篮",
@@ -10377,6 +10393,14 @@
       "onboard_time": 1683286408,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257688,
+      "num": 257688,
+      "word": "长月烬明的大爱和小情",
+      "onboard_time": 1683639210,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 257525,
@@ -11393,14 +11417,6 @@
       "onboard_time": 1683102689,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 236778,
-      "num": 232840,
-      "word": "白鹿清唱关键词",
-      "onboard_time": 1683637649,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 236597,
@@ -13425,6 +13441,14 @@
       "onboard_time": 1683084213,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200933,
+      "num": 200933,
+      "word": "被十年前的自己催婚了",
+      "onboard_time": 1683638252,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 200870,
@@ -15659,6 +15683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165387,
+      "num": 165387,
+      "word": "象山摩托车表演重摔车手不幸身亡",
+      "onboard_time": 1683636329,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165383,
       "num": 189592,
       "word": "新式神孔雀明王",
@@ -15931,14 +15963,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 160108,
-      "num": 160108,
-      "word": "孙红雷说张艺兴王一博跳舞是头部",
-      "onboard_time": 1683638551,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160027,
       "num": 160027,
       "word": "瞿颖",
@@ -16203,6 +16227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154870,
+      "num": 154870,
+      "word": "Uzi直播",
+      "onboard_time": 1683638371,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154754,
       "num": 154754,
       "word": "dou5",
@@ -16433,6 +16465,14 @@
       "onboard_time": 1683632789,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151006,
+      "num": 151006,
+      "word": "苹果天气",
+      "onboard_time": 1683639629,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 150948,
@@ -16723,14 +16763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 143692,
-      "num": 143692,
-      "word": "象山摩托车表演重摔车手不幸身亡",
-      "onboard_time": 1683636329,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143308,
       "num": 143308,
       "word": "上海草莓到底有多少蜘蛛侠",
@@ -16825,14 +16857,6 @@
       "onboard_time": 1682965217,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140894,
-      "num": 140894,
-      "word": "被十年前的自己催婚了",
-      "onboard_time": 1683638252,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 140867,
@@ -17753,14 +17777,6 @@
       "onboard_time": 1683216866,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 120518,
-      "num": 128742,
-      "word": "Uzi直播",
-      "onboard_time": 1683638371,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 120338,
