@@ -1,0 +1,410 @@
+{
+  "runTime": 1683602311990,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2444424,
+        "num": 2444424,
+        "word": "五月天抢票",
+        "onboard_time": 1683594509,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1778122,
+        "num": 1778122,
+        "word": "女演员近10年无戏演再见观众哭了",
+        "onboard_time": 1683594929,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77341,
+        "num": 1465249,
+        "word": "打卡中国",
+        "onboard_time": 1683597687,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1458180,
+        "num": 1458180,
+        "word": "体制外的人会羡慕体制内的工作吗",
+        "onboard_time": 1683596547,
+        "rank": 3,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 1203605,
+        "num": 1203605,
+        "word": "胡锡进 火车上男乘客为什么没参与制服凶手",
+        "onboard_time": 1683587001,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 949837,
+        "num": 949837,
+        "word": "36岁常青藤毕业确诊癌症后反而很开心",
+        "onboard_time": 1683555392,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 886132,
+        "num": 886132,
+        "word": "现实版高启兰",
+        "onboard_time": 1683588984,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 841486,
+        "num": 841486,
+        "word": "赵丽颖王一博将二搭",
+        "onboard_time": 1683601408,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 605448,
+        "num": 605448,
+        "word": "瘦了二十斤后手部的变化",
+        "onboard_time": 1683557013,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 563649,
+        "num": 563649,
+        "word": "中秋国庆休8天上7天",
+        "onboard_time": 1683542310,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 879104,
+        "num": 554829,
+        "word": "嘉行删除杨幂照片",
+        "onboard_time": 1683540690,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540500,
+        "num": 540500,
+        "word": "谷爱凌将继续为中国队出战",
+        "onboard_time": 1683589044,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 517253,
+        "num": 517253,
+        "word": "易烊千玺刘艳芬终章上线",
+        "onboard_time": 1683599189,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 464459,
+        "num": 464459,
+        "word": "他从火光中走来",
+        "onboard_time": 1683598527,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 447283,
+        "num": 447283,
+        "word": "女子裸贷5千仅4个月变欠款百万",
+        "onboard_time": 1683560668,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 432118,
+        "num": 432118,
+        "word": "aespa成第一个首日销售额破亿女团",
+        "onboard_time": 1683596666,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 423258,
+        "num": 423258,
+        "word": "一夜醒来欠了地铁600多万",
+        "onboard_time": 1683552449,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 396767,
+        "num": 396767,
+        "word": "假如陈都灵没进娱乐圈",
+        "onboard_time": 1683554132,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380646,
+        "num": 380646,
+        "word": "杨洋一番爆剧",
+        "onboard_time": 1683557914,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357917,
+        "num": 357917,
+        "word": "杨幂各行业都有代表作",
+        "onboard_time": 1683596425,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 743238,
+        "num": 357654,
+        "word": "6岁娃意外死亡父亲收3万签谅解书",
+        "onboard_time": 1683597988,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548129,
+        "num": 357631,
+        "word": "上海20岁女子被3万卖到安徽当新娘",
+        "onboard_time": 1683600506,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374496,
+        "num": 357545,
+        "word": "五一成绩单四川湖南表现惨淡",
+        "onboard_time": 1683601107,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357057,
+        "num": 357057,
+        "word": "巨齿鲨2",
+        "onboard_time": 1683600087,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 330055,
+        "num": 330055,
+        "word": "勇士vs湖人",
+        "onboard_time": 1683593368,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317357,
+        "num": 317357,
+        "word": "千万不要再侧躺玩手机",
+        "onboard_time": 1683561986,
+        "rank": 25,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 313685,
+        "num": 313685,
+        "word": "美依礼芽的翻译找到了",
+        "onboard_time": 1683545728,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307030,
+        "num": 307030,
+        "word": "五月天演唱会",
+        "onboard_time": 1683598286,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 306400,
+        "num": 306400,
+        "word": "春色寄情人",
+        "onboard_time": 1683596368,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230758,
+        "num": 281428,
+        "word": "大叔8年进山捡垃圾13900余斤",
+        "onboard_time": 1683599486,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 259956,
+        "num": 259956,
+        "word": "上海展会外国人插队领冰淇淋被拒",
+        "onboard_time": 1683594450,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245624,
+        "num": 245624,
+        "word": "内部人员称不排除安检后拿到刀",
+        "onboard_time": 1683594329,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240323,
+        "num": 240323,
+        "word": "在暴雪时分",
+        "onboard_time": 1683600929,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237491,
+        "num": 237491,
+        "word": "宝妈回应生3儿1女后又怀四胞胎",
+        "onboard_time": 1683587723,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227558,
+        "num": 227558,
+        "word": "长相思",
+        "onboard_time": 1683587963,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224037,
+        "num": 224037,
+        "word": "iPhone14口碑下滑",
+        "onboard_time": 1683595048,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 222379,
+        "num": 222379,
+        "word": "杨幂的时间参照物是什么",
+        "onboard_time": 1683592352,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208203,
+        "num": 208203,
+        "word": "格林",
+        "onboard_time": 1683602068,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200330,
+        "num": 200330,
+        "word": "金泰妍演唱会官宣香港场",
+        "onboard_time": 1683599666,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196678,
+        "num": 196678,
+        "word": "躺着玩手机的最佳姿势",
+        "onboard_time": 1683597566,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188992,
+        "num": 188992,
+        "word": "地震瞬间老师冲进教室带孩子撤离",
+        "onboard_time": 1683596067,
+        "rank": 40,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 186608,
+        "num": 186608,
+        "word": "在暴雪时分首发双人剧照",
+        "onboard_time": 1683601768,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180009,
+        "num": 180009,
+        "word": "嘉行",
+        "onboard_time": 1683595888,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178187,
+        "num": 178187,
+        "word": "听障女孩每天自学十小时考上国科大",
+        "onboard_time": 1683602008,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 175430,
+        "num": 175430,
+        "word": "田曦薇梦到作业没写完",
+        "onboard_time": 1683594749,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174025,
+        "num": 174025,
+        "word": "中公教育回应88.8万定制课",
+        "onboard_time": 1683589465,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 165887,
+        "num": 165887,
+        "word": "哪一瞬间意识到妈妈很爱你",
+        "onboard_time": 1683601467,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114600,
+        "num": 165542,
+        "word": "网红城市菏泽现在什么样",
+        "onboard_time": 1683588143,
+        "rank": 47,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 37148,
+        "num": 165310,
+        "word": "无畏直播",
+        "onboard_time": 1683550830,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 25926,
+        "num": 165217,
+        "word": "第一次去西藏有哪些需要注意的",
+        "onboard_time": 1683549331,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#高质量发展调研行#"
+    }
+  }
+}
