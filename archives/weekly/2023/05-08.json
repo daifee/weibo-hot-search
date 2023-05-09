@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683614101312,
+  "endTime": 1683616556098,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1502043,
+      "num": 1502043,
+      "word": "为什么这届年轻人开始断亲",
+      "onboard_time": 1683602488,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1491139,
       "num": 1491139,
       "word": "高铁上被掌掴女孩坚决不和解",
@@ -403,6 +411,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1300424,
+      "num": 1300424,
+      "word": "结婚当天建议用的假东西",
+      "onboard_time": 1683608430,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1298724,
       "num": 1298724,
       "word": "谷爱凌将继续为中国队出战",
@@ -449,14 +465,6 @@
       "onboard_time": 1683554132,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1226324,
-      "num": 1226324,
-      "word": "为什么这届年轻人开始断亲",
-      "onboard_time": 1683602488,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 1226305,
@@ -563,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1034058,
+      "num": 565571,
+      "word": "李承铉说不生三胎是因为妈妈很辛苦",
+      "onboard_time": 1683614009,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1026355,
       "num": 858291,
       "word": "肖战作品疑似被恶意评分",
@@ -593,14 +609,6 @@
       "onboard_time": 1683607355,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 988898,
-      "num": 988898,
-      "word": "结婚当天建议用的假东西",
-      "onboard_time": 1683608430,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 984630,
@@ -683,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 881580,
+      "num": 881580,
+      "word": "广州地铁回应乘客欠600多万巨款",
+      "onboard_time": 1683611846,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 865508,
       "num": 865508,
       "word": "中方对加拿大采取对等反制措施",
@@ -723,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 790881,
+      "num": 790881,
+      "word": "大脑发育30岁才完成",
+      "onboard_time": 1683611727,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 787707,
       "num": 779995,
       "word": "不应该把中国妹都叫成熊猫妹",
@@ -745,14 +769,6 @@
       "onboard_time": 1683557914,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 750654,
-      "num": 750654,
-      "word": "广州地铁回应乘客欠600多万巨款",
-      "onboard_time": 1683611846,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 740571,
@@ -857,6 +873,14 @@
       "onboard_time": 1683606270,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 629951,
+      "num": 629951,
+      "word": "长月烬明大结局",
+      "onboard_time": 1683613528,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 629378,
@@ -1083,12 +1107,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 480525,
-      "num": 480525,
-      "word": "大脑发育30岁才完成",
-      "onboard_time": 1683611727,
-      "rank": 19,
-      "category": "情感"
+      "raw_hot": 473821,
+      "num": 473821,
+      "word": "金智秀有钱且漂亮",
+      "onboard_time": 1683615147,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 471755,
@@ -1097,6 +1121,14 @@
       "onboard_time": 1683500720,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 471704,
+      "num": 471704,
+      "word": "A股",
+      "onboard_time": 1683615330,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 466978,
@@ -1259,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 413388,
+      "num": 331969,
+      "word": "妈妈侵犯我的隐私发现了秘密",
+      "onboard_time": 1683614489,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 409305,
       "num": 334315,
       "word": "易烊千玺穿短裤了",
@@ -1281,6 +1321,14 @@
       "onboard_time": 1683496093,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 404796,
+      "num": 404796,
+      "word": "宁安如梦",
+      "onboard_time": 1683613167,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 401560,
@@ -1313,6 +1361,14 @@
       "onboard_time": 1683536551,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 397993,
+      "num": 397993,
+      "word": "白鹿奔跑吧嫦娥造型",
+      "onboard_time": 1683613046,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 389520,
@@ -1531,6 +1587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354641,
+      "num": 354641,
+      "word": "最适合谈恋爱的星座",
+      "onboard_time": 1683615388,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 352425,
       "num": 346812,
       "word": "娜扎cos赫本",
@@ -1577,14 +1641,6 @@
       "onboard_time": 1683528753,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 343830,
-      "num": 343830,
-      "word": "长月烬明大结局",
-      "onboard_time": 1683613528,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 343352,
@@ -1699,6 +1755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 326521,
+      "num": 326521,
+      "word": "易烊千玺6天之后还有惊喜",
+      "onboard_time": 1683615568,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 316911,
       "num": 316911,
       "word": "张婧仪的眼睛好会爱人",
@@ -1737,6 +1801,14 @@
       "onboard_time": 1683455253,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307571,
+      "num": 307571,
+      "word": "35岁你会发现工作是没有意义的",
+      "onboard_time": 1683611306,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 307030,
@@ -1809,14 +1881,6 @@
       "onboard_time": 1683468096,
       "rank": 19,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 299983,
-      "num": 299983,
-      "word": "宁安如梦",
-      "onboard_time": 1683613167,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 299677,
@@ -2011,14 +2075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 269464,
-      "num": 269464,
-      "word": "35岁你会发现工作是没有意义的",
-      "onboard_time": 1683611306,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 268800,
       "num": 268800,
       "word": "辽宁男篮总决赛开门红",
@@ -2105,6 +2161,14 @@
       "onboard_time": 1683543570,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255956,
+      "num": 255956,
+      "word": "为了考上编制可以有多努力",
+      "onboard_time": 1683612686,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 255286,
@@ -2233,6 +2297,14 @@
       "onboard_time": 1683506727,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241490,
+      "num": 241490,
+      "word": "李一桐有腹肌",
+      "onboard_time": 1683615208,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 241332,
@@ -2403,14 +2475,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 224917,
-      "num": 224917,
-      "word": "为了考上编制可以有多努力",
-      "onboard_time": 1683612686,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 224779,
       "num": 224779,
       "word": "呼吁动物保护法",
@@ -2425,6 +2489,14 @@
       "onboard_time": 1683551249,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 223664,
+      "num": 223664,
+      "word": "何超莲今日份开心",
+      "onboard_time": 1683616167,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 219765,
@@ -2521,14 +2593,6 @@
       "onboard_time": 1683510688,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 213073,
-      "num": 213073,
-      "word": "白鹿奔跑吧嫦娥造型",
-      "onboard_time": 1683613046,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 213040,
@@ -2643,6 +2707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 204282,
+      "num": 204282,
+      "word": "辛爽 JoySide",
+      "onboard_time": 1683614788,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204165,
       "num": 204165,
       "word": "谷爱凌梅西合影",
@@ -2729,6 +2801,14 @@
       "onboard_time": 1683536971,
       "rank": 44,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 196010,
+      "num": 196010,
+      "word": "奇怪的国设增加了",
+      "onboard_time": 1683615568,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 195454,
@@ -2915,6 +2995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179737,
+      "num": 179737,
+      "word": "漫长的季节 时代背景",
+      "onboard_time": 1683615928,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 179555,
       "num": 179555,
       "word": "王鹤棣演民国白月光",
@@ -2985,14 +3073,6 @@
       "onboard_time": 1683548610,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 174447,
-      "num": 174447,
-      "word": "李承铉说不生三胎是因为妈妈很辛苦",
-      "onboard_time": 1683614009,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 174265,
