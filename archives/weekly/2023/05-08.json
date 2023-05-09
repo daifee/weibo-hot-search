@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683588810940,
+  "endTime": 1683595417374,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -89,6 +89,14 @@
       "onboard_time": 1683512663,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2376314,
+      "num": 2376314,
+      "word": "胡锡进 火车上男乘客为什么没参与制服凶手",
+      "onboard_time": 1683587001,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2350730,
@@ -291,6 +299,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1298724,
+      "num": 1298724,
+      "word": "谷爱凌将继续为中国队出战",
+      "onboard_time": 1683589044,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1295498,
       "num": 1237491,
       "word": "著名导演万玛才旦去世",
@@ -321,6 +337,14 @@
       "onboard_time": 1683517108,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1240652,
+      "num": 792083,
+      "word": "假如陈都灵没进娱乐圈",
+      "onboard_time": 1683554132,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1226305,
@@ -379,6 +403,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 1117582,
+      "num": 1117582,
+      "word": "现实版高启兰",
+      "onboard_time": 1683588984,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1104845,
       "num": 1104845,
       "word": "腾讯给杨紫的定位",
@@ -395,8 +427,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1082474,
-      "num": 1082474,
+      "raw_hot": 1086163,
+      "num": 1086163,
       "word": "瘦了二十斤后手部的变化",
       "onboard_time": 1683557013,
       "rank": 7,
@@ -417,6 +449,14 @@
       "onboard_time": 1683523829,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1022512,
+      "num": 1022512,
+      "word": "中国驻加拿大使馆回应",
+      "onboard_time": 1683590606,
+      "rank": 6,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1009876,
@@ -491,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 843206,
+      "num": 843206,
+      "word": "考上编制后你还会离职吗",
+      "onboard_time": 1683587541,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 838604,
       "num": 722361,
       "word": "徐峥称不存在转移资产",
@@ -529,14 +577,6 @@
       "onboard_time": 1683557914,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 744463,
-      "num": 592121,
-      "word": "假如陈都灵没进娱乐圈",
-      "onboard_time": 1683554132,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 740571,
@@ -587,12 +627,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 694152,
-      "num": 694152,
-      "word": "胡锡进 火车上男乘客为什么没参与制服凶手",
-      "onboard_time": 1683587001,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 694174,
+      "num": 694174,
+      "word": "36岁常青藤毕业确诊癌症后反而很开心",
+      "onboard_time": 1683555392,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 689690,
@@ -755,12 +795,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 518199,
-      "num": 518199,
-      "word": "36岁常青藤毕业确诊癌症后反而很开心",
-      "onboard_time": 1683555392,
-      "rank": 32,
-      "category": "情感"
+      "raw_hot": 515154,
+      "num": 515154,
+      "word": "洛阳规划局",
+      "onboard_time": 1683592469,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 512627,
@@ -883,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425845,
+      "num": 425845,
+      "word": "平凡之路全职太太被出轨却不离婚",
+      "onboard_time": 1683565039,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 424232,
       "num": 424232,
       "word": "买饭时女孩突然把头靠在我肩上",
@@ -921,6 +969,14 @@
       "onboard_time": 1683548610,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 407804,
+      "num": 407804,
+      "word": "种地吧 第二季",
+      "onboard_time": 1683589589,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 407245,
@@ -1000,6 +1056,14 @@
       "word": "美依礼芽想和周深合作",
       "onboard_time": 1683543091,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 378605,
+      "num": 378605,
+      "word": "杨幂的时间参照物是什么",
+      "onboard_time": 1683592352,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -1211,14 +1275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 336612,
-      "num": 336612,
-      "word": "考上编制后你还会离职吗",
-      "onboard_time": 1683587541,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 335723,
       "num": 331456,
       "word": "小区业主群的聊天记录",
@@ -1267,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 319005,
+      "num": 319005,
+      "word": "女演员近10年无戏演再见观众哭了",
+      "onboard_time": 1683594929,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315312,
       "num": 315312,
       "word": "布克三分",
@@ -1312,6 +1376,14 @@
       "word": "网信部门派工作组进驻斗鱼",
       "onboard_time": 1683547230,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302651,
+      "num": 302651,
+      "word": "上海展会外国人插队领冰淇淋被拒",
+      "onboard_time": 1683594450,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1379,6 +1451,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294305,
+      "num": 294305,
+      "word": "五月天抢票",
+      "onboard_time": 1683594509,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 291331,
+      "num": 291331,
+      "word": "宝妈回应生3儿1女后又怀四胞胎",
+      "onboard_time": 1683587723,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291163,
       "num": 291163,
       "word": "差点被吊牌单杀了",
@@ -1411,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283936,
+      "num": 283936,
+      "word": "内部人员称不排除安检后拿到刀",
+      "onboard_time": 1683594329,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283048,
       "num": 283048,
       "word": "你会为了编制去异地县城吗",
@@ -1425,6 +1521,14 @@
       "onboard_time": 1683455670,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 278863,
+      "num": 278863,
+      "word": "勇士vs湖人",
+      "onboard_time": 1683593368,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 278479,
@@ -1555,6 +1659,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 251385,
+      "num": 251385,
+      "word": "运动会上女生抱起晕倒朋友一路狂奔",
+      "onboard_time": 1683591570,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250701,
       "num": 250701,
       "word": "谢娜跳了XG",
@@ -1569,6 +1681,14 @@
       "onboard_time": 1683506972,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 248596,
+      "num": 248596,
+      "word": "中公教育回应88.8万定制课",
+      "onboard_time": 1683589465,
+      "rank": 31,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 247307,
@@ -1609,6 +1729,14 @@
       "onboard_time": 1683544050,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239561,
+      "num": 239561,
+      "word": "地铁上被陌生人塞了奶茶",
+      "onboard_time": 1683563424,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 236410,
@@ -1723,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218911,
+      "num": 218911,
+      "word": "六公主点评过的古装剧",
+      "onboard_time": 1683588382,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217797,
       "num": 217797,
       "word": "原来老公15岁就对我一见钟情了",
@@ -1777,6 +1913,14 @@
       "onboard_time": 1683510688,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 213040,
+      "num": 213040,
+      "word": "3D还原火车持刀行凶案",
+      "onboard_time": 1683594570,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211588,
@@ -1843,6 +1987,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 204165,
+      "num": 204165,
+      "word": "谷爱凌梅西合影",
+      "onboard_time": 1683594028,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 202887,
+      "num": 202887,
+      "word": "母亲去世女子悲伤到开车手脚抽搐",
+      "onboard_time": 1683591151,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202533,
       "num": 202533,
       "word": "杰克辣条",
@@ -1875,20 +2035,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198511,
+      "num": 198511,
+      "word": "网红城市菏泽现在什么样",
+      "onboard_time": 1683588143,
+      "rank": 31,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 197206,
       "num": 159009,
       "word": "还得是二次元",
       "onboard_time": 1683536971,
       "rank": 44,
       "category": "综艺,幽默"
-    },
-    {
-      "raw_hot": 196575,
-      "num": 196575,
-      "word": "地铁上被陌生人塞了奶茶",
-      "onboard_time": 1683563424,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 195454,
@@ -1923,6 +2083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193243,
+      "num": 193243,
+      "word": "王力宏陶喆同框",
+      "onboard_time": 1683589407,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192992,
       "num": 192992,
       "word": "谁来四川都得笑着回去",
@@ -1945,14 +2113,6 @@
       "onboard_time": 1683529596,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 190357,
-      "num": 190357,
-      "word": "宝妈回应生3儿1女后又怀四胞胎",
-      "onboard_time": 1683587723,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190291,
@@ -2017,6 +2177,22 @@
       "onboard_time": 1683549331,
       "rank": 37,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 184290,
+      "num": 184290,
+      "word": "巴厘岛",
+      "onboard_time": 1683593492,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184146,
+      "num": 184146,
+      "word": "iPhone14口碑下滑",
+      "onboard_time": 1683595048,
+      "rank": 40,
+      "category": "科技"
     },
     {
       "raw_hot": 183973,
@@ -2243,12 +2419,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153833,
+      "num": 153833,
+      "word": "田曦薇梦到作业没写完",
+      "onboard_time": 1683594749,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153589,
       "num": 153589,
       "word": "警方回应高铁掌掴事件双方均受罚",
       "onboard_time": 1683527735,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152723,
+      "num": 152723,
+      "word": "你给我的喜欢17集",
+      "onboard_time": 1683592171,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 149883,
@@ -2265,22 +2457,6 @@
       "onboard_time": 1683522933,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 148584,
-      "num": 148584,
-      "word": "平凡之路全职太太被出轨却不离婚",
-      "onboard_time": 1683565039,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 148449,
-      "num": 148449,
-      "word": "网红城市菏泽现在什么样",
-      "onboard_time": 1683588143,
-      "rank": 31,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 147152,
@@ -2355,6 +2531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 136664,
+      "num": 136664,
+      "word": "消防女文员变身战斗员灭火瞬间白了头",
+      "onboard_time": 1683594509,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134887,
       "num": 134887,
       "word": "掘金vs太阳",
@@ -2369,6 +2553,14 @@
       "onboard_time": 1683472951,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133756,
+      "num": 135973,
+      "word": "不快乐女孩听听宋佳说的吧",
+      "onboard_time": 1683592290,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 132702,
@@ -2481,14 +2673,6 @@
       "onboard_time": 1683475947,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112778,
-      "num": 112778,
-      "word": "六公主点评过的古装剧",
-      "onboard_time": 1683588382,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 110417,
@@ -2651,6 +2835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79821,
+      "num": 135826,
+      "word": "无畏",
+      "onboard_time": 1683587903,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 76934,
       "num": 1721960,
       "word": "航天员又要在太空拆快递了",
@@ -2707,16 +2899,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53118,
-      "num": 81399,
-      "word": "无畏",
-      "onboard_time": 1683587903,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 36600,
-      "num": 1319553,
+      "raw_hot": 42592,
+      "num": 1365256,
       "word": "天舟六号船箭组合体垂直转运美图",
       "onboard_time": 1683555871,
       "rank": 2,
