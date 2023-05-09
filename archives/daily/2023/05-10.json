@@ -1,6 +1,6 @@
 {
   "startTime": 1683649328764,
-  "endTime": 1683657250014,
+  "endTime": 1683659624526,
   "band_list": [
     {
       "raw_hot": 1276868,
@@ -443,6 +443,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 39523,
+      "num": 39523,
+      "word": "小说漫画 不应该分男女频",
+      "onboard_time": 1683657314,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 33989,
       "num": 34935,
       "word": "疑火车行凶案凶手曾自述患精神分裂",
@@ -451,8 +459,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26523,
-      "num": 30058,
+      "raw_hot": 31362,
+      "num": 31362,
       "word": "失眠",
       "onboard_time": 1683542552,
       "rank": 46,
@@ -465,6 +473,14 @@
       "onboard_time": 1683654916,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 21879,
+      "num": 23807,
+      "word": "周杰伦演唱会男孩仰头大睡",
+      "onboard_time": 1683657613,
+      "rank": 44,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 4920,

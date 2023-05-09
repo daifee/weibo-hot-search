@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683657250014,
+  "endTime": 1683659624526,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -4675,6 +4675,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 39523,
+      "num": 39523,
+      "word": "小说漫画 不应该分男女频",
+      "onboard_time": 1683657314,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 34319,
       "num": 34319,
       "word": "贾乃亮穿的衣服好像茶壶",
@@ -4691,20 +4699,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31362,
+      "num": 31362,
+      "word": "失眠",
+      "onboard_time": 1683542552,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 26638,
       "num": 26638,
       "word": "挖呀挖",
       "onboard_time": 1683350493,
       "rank": 45,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 26523,
-      "num": 30058,
-      "word": "失眠",
-      "onboard_time": 1683542552,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 26114,
@@ -4729,6 +4737,14 @@
       "onboard_time": 1683612025,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21879,
+      "num": 23807,
+      "word": "周杰伦演唱会男孩仰头大睡",
+      "onboard_time": 1683657613,
+      "rank": 44,
+      "category": "社会新闻,艺人"
     }
   ],
   "hotgov_list": [
