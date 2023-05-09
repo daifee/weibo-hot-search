@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683639840652,
+  "endTime": 1683641792840,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1403,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1490571,
+      "num": 1490571,
+      "word": "杨紫或将配合青簪行补拍",
+      "onboard_time": 1683635669,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1485190,
       "num": 1485190,
       "word": "黄蓉选角",
@@ -1803,6 +1811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1293852,
+      "num": 1242604,
+      "word": "肖战被反复评估才确认出演郭靖",
+      "onboard_time": 1683632308,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1292529,
       "num": 1292529,
       "word": "庄达菲",
@@ -1841,14 +1857,6 @@
       "onboard_time": 1683517108,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1281699,
-      "num": 1281699,
-      "word": "杨紫或将配合青簪行补拍",
-      "onboard_time": 1683635669,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1281127,
@@ -1937,14 +1945,6 @@
       "onboard_time": 1683041559,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1242604,
-      "num": 1242604,
-      "word": "肖战被反复评估才确认出演郭靖",
-      "onboard_time": 1683632308,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1240652,
@@ -2249,6 +2249,14 @@
       "onboard_time": 1683282452,
       "rank": 12,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 1127094,
+      "num": 1127094,
+      "word": "苹果天气",
+      "onboard_time": 1683639629,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 1126440,
@@ -2569,6 +2577,14 @@
       "onboard_time": 1683080791,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1026709,
+      "num": 1026709,
+      "word": "这放整个肛肠科都很炸裂",
+      "onboard_time": 1683624870,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 1026355,
@@ -3755,6 +3771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 696826,
+      "num": 696826,
+      "word": "鹿晗的关注列表",
+      "onboard_time": 1683640651,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 695943,
       "num": 695943,
       "word": "陈乔恩工藤静香同框",
@@ -3987,14 +4011,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 641738,
-      "num": 288549,
-      "word": "这放整个肛肠科都很炸裂",
-      "onboard_time": 1683624870,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 638365,
       "num": 638365,
       "word": "刘诗诗 浙江",
@@ -4137,6 +4153,14 @@
       "onboard_time": 1683260014,
       "rank": 46,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 618528,
+      "num": 618528,
+      "word": "孙红雷说张艺兴王一博跳舞是头部",
+      "onboard_time": 1683638551,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 618360,
@@ -4352,6 +4376,14 @@
       "word": "偷偷藏不住",
       "onboard_time": 1683259953,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 586454,
+      "num": 586454,
+      "word": "长月烬明番外",
+      "onboard_time": 1683633149,
+      "rank": 14,
       "category": "影视"
     },
     {
@@ -4657,14 +4689,6 @@
       "onboard_time": 1683520413,
       "rank": 47,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 555222,
-      "num": 450780,
-      "word": "长月烬明番外",
-      "onboard_time": 1683633149,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 553685,
@@ -5097,6 +5121,14 @@
       "onboard_time": 1683592469,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 514445,
+      "num": 308055,
+      "word": "护心小学生特效",
+      "onboard_time": 1683640532,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 513967,
@@ -6081,14 +6113,6 @@
       "onboard_time": 1683254128,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 429339,
-      "num": 280440,
-      "word": "孙红雷说张艺兴王一博跳舞是头部",
-      "onboard_time": 1683638551,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 428704,
@@ -8128,6 +8152,14 @@
       "word": "凡人修仙传",
       "onboard_time": 1683345394,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 331818,
+      "num": 220474,
+      "word": "青簪行",
+      "onboard_time": 1683641132,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -11075,6 +11107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 244352,
+      "num": 179212,
+      "word": "护心妆造有些潦草",
+      "onboard_time": 1683640769,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 243984,
       "num": 243984,
       "word": "石墩子 花花女士的肚子",
@@ -11961,6 +12001,14 @@
       "onboard_time": 1683269733,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226748,
+      "num": 175854,
+      "word": "易烊千玺新歌动画预告",
+      "onboard_time": 1683641009,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 226705,
@@ -15059,6 +15107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175866,
+      "num": 175866,
+      "word": "Uzi直播",
+      "onboard_time": 1683638371,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 175739,
       "num": 175739,
       "word": "什么叫见过世面",
@@ -16227,14 +16283,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 154870,
-      "num": 154870,
-      "word": "Uzi直播",
-      "onboard_time": 1683638371,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 154754,
       "num": 154754,
       "word": "dou5",
@@ -16465,14 +16513,6 @@
       "onboard_time": 1683632789,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151006,
-      "num": 151006,
-      "word": "苹果天气",
-      "onboard_time": 1683639629,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 150948,

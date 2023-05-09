@@ -1,6 +1,6 @@
 {
   "startTime": 1683562973147,
-  "endTime": 1683639840652,
+  "endTime": 1683641792840,
   "band_list": [
     {
       "raw_hot": 2683828,
@@ -123,6 +123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1490571,
+      "num": 1490571,
+      "word": "杨紫或将配合青簪行补拍",
+      "onboard_time": 1683635669,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1477133,
       "num": 324885,
       "word": "外媒称肖战是史上最帅郭靖",
@@ -203,11 +211,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1281699,
-      "num": 1281699,
-      "word": "杨紫或将配合青簪行补拍",
-      "onboard_time": 1683635669,
-      "rank": 4,
+      "raw_hot": 1293852,
+      "num": 1242604,
+      "word": "肖战被反复评估才确认出演郭靖",
+      "onboard_time": 1683632308,
+      "rank": 3,
       "category": "影视"
     },
     {
@@ -216,14 +224,6 @@
       "word": "长月烬明大结局",
       "onboard_time": 1683613528,
       "rank": 16,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1242604,
-      "num": 1242604,
-      "word": "肖战被反复评估才确认出演郭靖",
-      "onboard_time": 1683632308,
-      "rank": 3,
       "category": "影视"
     },
     {
@@ -265,6 +265,14 @@
       "onboard_time": 1683602788,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1127094,
+      "num": 1127094,
+      "word": "苹果天气",
+      "onboard_time": 1683639629,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 1126440,
@@ -321,6 +329,14 @@
       "onboard_time": 1683636450,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1026709,
+      "num": 1026709,
+      "word": "这放整个肛肠科都很炸裂",
+      "onboard_time": 1683624870,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 1022512,
@@ -459,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 696826,
+      "num": 696826,
+      "word": "鹿晗的关注列表",
+      "onboard_time": 1683640651,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 691733,
       "num": 691733,
       "word": "最适合谈恋爱的星座",
@@ -483,14 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 641738,
-      "num": 288549,
-      "word": "这放整个肛肠科都很炸裂",
-      "onboard_time": 1683624870,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 637507,
       "num": 637507,
       "word": "司法部就高铁掌掴事件发声",
@@ -507,6 +523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 618528,
+      "num": 618528,
+      "word": "孙红雷说张艺兴王一博跳舞是头部",
+      "onboard_time": 1683638551,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 604780,
       "num": 604780,
       "word": "丁真周也竟然认识",
@@ -520,6 +544,14 @@
       "word": "公冶寂无妺女去哪了",
       "onboard_time": 1683633092,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 586454,
+      "num": 586454,
+      "word": "长月烬明番外",
+      "onboard_time": 1683633149,
+      "rank": 14,
       "category": "影视"
     },
     {
@@ -561,14 +593,6 @@
       "onboard_time": 1683593368,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 555222,
-      "num": 450780,
-      "word": "长月烬明番外",
-      "onboard_time": 1683633149,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 552188,
@@ -633,6 +657,14 @@
       "onboard_time": 1683592469,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 514445,
+      "num": 308055,
+      "word": "护心小学生特效",
+      "onboard_time": 1683640532,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 513967,
@@ -729,14 +761,6 @@
       "onboard_time": 1683596666,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 429339,
-      "num": 280440,
-      "word": "孙红雷说张艺兴王一博跳舞是头部",
-      "onboard_time": 1683638551,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 426439,
@@ -883,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376310,
+      "num": 220793,
+      "word": "极乐净土",
+      "onboard_time": 1683640170,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 374605,
       "num": 374605,
       "word": "谢娜说录萌探经常会半夜两点崩溃",
@@ -1009,6 +1041,14 @@
       "onboard_time": 1683608316,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331818,
+      "num": 220474,
+      "word": "青簪行",
+      "onboard_time": 1683641132,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 316911,
@@ -1411,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244352,
+      "num": 179212,
+      "word": "护心妆造有些潦草",
+      "onboard_time": 1683640769,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 243812,
       "num": 243812,
       "word": "五十公里桃花坞3官宣",
@@ -1529,6 +1577,14 @@
       "onboard_time": 1683609690,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226748,
+      "num": 175854,
+      "word": "易烊千玺新歌动画预告",
+      "onboard_time": 1683641009,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 223470,
@@ -1827,6 +1883,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 175866,
+      "num": 175866,
+      "word": "Uzi直播",
+      "onboard_time": 1683638371,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 175739,
       "num": 175739,
       "word": "什么叫见过世面",
@@ -1923,14 +1987,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 154870,
-      "num": 154870,
-      "word": "Uzi直播",
-      "onboard_time": 1683638371,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 154522,
       "num": 154522,
       "word": "这放在情侣届也是相当炸裂的",
@@ -1969,14 +2025,6 @@
       "onboard_time": 1683632789,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151006,
-      "num": 151006,
-      "word": "苹果天气",
-      "onboard_time": 1683639629,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 147121,
