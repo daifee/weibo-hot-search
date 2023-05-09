@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683617607247,
+  "endTime": 1683620463478,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -2603,6 +2603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 975094,
+      "num": 975094,
+      "word": "俄罗斯阅兵",
+      "onboard_time": 1683618328,
+      "rank": 1,
+      "category": "军事"
+    },
+    {
       "raw_hot": 971296,
       "num": 949880,
       "word": "秋瓷炫初舞台唱无法原谅",
@@ -3643,6 +3651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 691733,
+      "num": 691733,
+      "word": "最适合谈恋爱的星座",
+      "onboard_time": 1683615388,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 691244,
       "num": 691244,
       "word": "这样啊 那他是骗你的",
@@ -4065,6 +4081,14 @@
       "onboard_time": 1683608134,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 604359,
+      "num": 604359,
+      "word": "金智秀有钱且漂亮",
+      "onboard_time": 1683615147,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 602431,
@@ -4859,14 +4883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 519028,
-      "num": 519028,
-      "word": "最适合谈恋爱的星座",
-      "onboard_time": 1683615388,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 519021,
       "num": 519021,
       "word": "华晨宇的音乐是挑观众的",
@@ -4888,14 +4904,6 @@
       "word": "易烊千玺刘艳芬终章上线",
       "onboard_time": 1683599189,
       "rank": 15,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 516028,
-      "num": 516028,
-      "word": "金智秀有钱且漂亮",
-      "onboard_time": 1683615147,
-      "rank": 13,
       "category": "音乐"
     },
     {
@@ -6763,6 +6771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 379126,
+      "num": 379126,
+      "word": "赵露思出发韩国路透",
+      "onboard_time": 1683618445,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 378605,
       "num": 378605,
       "word": "杨幂的时间参照物是什么",
@@ -6873,6 +6889,14 @@
       "onboard_time": 1683213212,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 369652,
+      "num": 369652,
+      "word": "何超莲今日份开心",
+      "onboard_time": 1683616167,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 369156,
@@ -7049,6 +7073,14 @@
       "onboard_time": 1682849906,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 360805,
+      "num": 360805,
+      "word": "谢娜陈乔恩同框",
+      "onboard_time": 1683616647,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 360701,
@@ -9371,6 +9403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 274638,
+      "num": 274638,
+      "word": "把工位改造成了海景房",
+      "onboard_time": 1683617367,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 274300,
       "num": 274300,
       "word": "王一博说吾辈当自强",
@@ -9385,6 +9425,14 @@
       "onboard_time": 1683602609,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 273706,
+      "num": 261962,
+      "word": "普京如期出席红场阅兵并致辞",
+      "onboard_time": 1683619887,
+      "rank": 30,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 273636,
@@ -9491,14 +9539,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 270659,
-      "num": 270659,
-      "word": "何超莲今日份开心",
-      "onboard_time": 1683616167,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 270549,
       "num": 270549,
       "word": "张杰华晨宇安九舞台",
@@ -9529,6 +9569,14 @@
       "onboard_time": 1683169948,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 269801,
+      "num": 269801,
+      "word": "宋丹丹问孟子义喜欢谁",
+      "onboard_time": 1683617066,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 269693,
@@ -9833,6 +9881,14 @@
       "onboard_time": 1683174275,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 260972,
+      "num": 260972,
+      "word": "爱奇艺明天的物料",
+      "onboard_time": 1683616706,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 260861,
@@ -10251,6 +10307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250596,
+      "num": 250596,
+      "word": "李一桐有腹肌",
+      "onboard_time": 1683615208,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250512,
       "num": 174676,
       "word": "你能接受明星私下形象邋遢吗",
@@ -10435,6 +10499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246903,
+      "num": 246903,
+      "word": "店员冒暴风雨开门喊母女进屋躲避",
+      "onboard_time": 1683617128,
+      "rank": 43,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 246782,
       "num": 246782,
       "word": "487",
@@ -10505,6 +10577,14 @@
       "onboard_time": 1682851169,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245749,
+      "num": 245749,
+      "word": "奔跑吧路透",
+      "onboard_time": 1683442826,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 245468,
@@ -10713,22 +10793,6 @@
       "onboard_time": 1683361228,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241553,
-      "num": 241553,
-      "word": "爱奇艺明天的物料",
-      "onboard_time": 1683616706,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 241490,
-      "num": 241490,
-      "word": "李一桐有腹肌",
-      "onboard_time": 1683615208,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 241332,
@@ -10969,14 +11033,6 @@
       "onboard_time": 1683188667,
       "rank": 24,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 236153,
-      "num": 236153,
-      "word": "谢娜陈乔恩同框",
-      "onboard_time": 1683616647,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 235941,
@@ -11305,6 +11361,14 @@
       "onboard_time": 1683259471,
       "rank": 44,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 230079,
+      "num": 230079,
+      "word": "乘风2023三公分组歌单",
+      "onboard_time": 1683619466,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 229813,
@@ -13795,12 +13859,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 188107,
-      "num": 188107,
-      "word": "宋丹丹问孟子义喜欢谁",
-      "onboard_time": 1683617066,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 188377,
+      "num": 262759,
+      "word": "孩子高烧晕厥特警一路护送开道",
+      "onboard_time": 1683617549,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 188086,
@@ -14049,14 +14113,6 @@
       "onboard_time": 1683002371,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 183122,
-      "num": 161636,
-      "word": "奔跑吧路透",
-      "onboard_time": 1683442826,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 183109,
@@ -14435,14 +14491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177262,
-      "num": 177262,
-      "word": "店员冒暴风雨开门喊母女进屋躲避",
-      "onboard_time": 1683617128,
-      "rank": 43,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 177083,
       "num": 177083,
       "word": "护心定档海报拍摄花絮",
@@ -14481,14 +14529,6 @@
       "onboard_time": 1683001888,
       "rank": 37,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 176787,
-      "num": 176787,
-      "word": "把工位改造成了海景房",
-      "onboard_time": 1683617367,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 176739,
@@ -15107,6 +15147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166903,
+      "num": 166903,
+      "word": "美国编剧罢工",
+      "onboard_time": 1683618087,
+      "rank": 42,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 166775,
       "num": 175639,
       "word": "无畏切C的大刀有40米长",
@@ -15129,6 +15177,14 @@
       "onboard_time": 1683023065,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 166005,
+      "num": 166005,
+      "word": "Angelababy奔跑吧七仙女造型",
+      "onboard_time": 1683620307,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 165887,
@@ -16115,6 +16171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 146297,
+      "num": 146297,
+      "word": "这放在情侣届也是相当炸裂的",
+      "onboard_time": 1683620425,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 146170,
       "num": 146170,
       "word": "任嘉伦武庚纪妆造",
@@ -16465,6 +16529,14 @@
       "onboard_time": 1683463710,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 135491,
+      "num": 143582,
+      "word": "电竞少年益起守护花开",
+      "onboard_time": 1683619645,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 135478,
@@ -17427,14 +17499,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 112329,
-      "num": 160450,
-      "word": "孩子高烧晕厥特警一路护送开道",
-      "onboard_time": 1683617549,
-      "rank": 47,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 112012,
       "num": 112012,
       "word": "女性视角",
@@ -18123,6 +18187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 78784,
+      "num": 143318,
+      "word": "香奈儿邀请函",
+      "onboard_time": 1683620425,
+      "rank": 49,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 77880,
       "num": 77880,
       "word": "休宁巴伊叶因家人去世缺席活动",
@@ -18289,6 +18361,14 @@
       "onboard_time": 1683502224,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67694,
+      "num": 933241,
+      "word": "上天入地的大国重器彰显大国力量",
+      "onboard_time": 1683617487,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67664,
@@ -18889,14 +18969,6 @@
       "onboard_time": 1683141673,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 6934,
-      "num": 933241,
-      "word": "上天入地的大国重器彰显大国力量",
-      "onboard_time": 1683617487,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
