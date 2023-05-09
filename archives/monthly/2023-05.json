@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683603212849,
+  "endTime": 1683605983220,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -699,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1998336,
+      "num": 1998336,
+      "word": "杨紫申请强执拉夏贝尔网店25万元",
+      "onboard_time": 1683603208,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1995815,
       "num": 1971050,
       "word": "婆婆直接把38.8万彩礼转我了",
@@ -1219,12 +1227,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1566180,
+      "num": 1566180,
+      "word": "天官赐福",
+      "onboard_time": 1683602609,
+      "rank": 27,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 1565743,
       "num": 1565743,
       "word": "月收入一万真的简单吗",
       "onboard_time": 1682943508,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1563775,
+      "num": 1283635,
+      "word": "赵丽颖王一博将二搭",
+      "onboard_time": 1683601408,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 1563659,
@@ -1483,6 +1507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1386877,
+      "num": 618896,
+      "word": "杨幂解约文案适配分手官宣结婚",
+      "onboard_time": 1683602907,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1386429,
       "num": 1386429,
       "word": "袁冰妍逃税公司注销",
@@ -1505,6 +1537,14 @@
       "onboard_time": 1683020728,
       "rank": 3,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1380872,
+      "num": 1380872,
+      "word": "漫长的季节 爹味",
+      "onboard_time": 1683604050,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1376127,
@@ -1713,14 +1753,6 @@
       "onboard_time": 1683517108,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1283635,
-      "num": 1283635,
-      "word": "赵丽颖王一博将二搭",
-      "onboard_time": 1683601408,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 1281127,
@@ -2385,6 +2417,14 @@
       "onboard_time": 1683590606,
       "rank": 6,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1020361,
+      "num": 380860,
+      "word": "给不起彩礼却买了20万的车",
+      "onboard_time": 1683602788,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 1015051,
@@ -3091,6 +3131,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 787188,
+      "num": 787188,
+      "word": "为什么这届年轻人开始断亲",
+      "onboard_time": 1683602488,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 777124,
       "num": 777124,
       "word": "今年五一这10大景区人最多",
@@ -3393,6 +3441,14 @@
       "onboard_time": 1683126154,
       "rank": 18,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 705104,
+      "num": 705104,
+      "word": "他从火光中走来",
+      "onboard_time": 1683598527,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 703161,
@@ -3739,14 +3795,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 628988,
-      "num": 628988,
-      "word": "他从火光中走来",
-      "onboard_time": 1683598527,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 627136,
       "num": 410765,
       "word": "杨洋组织同学会",
@@ -3801,6 +3849,14 @@
       "onboard_time": 1683098728,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 619076,
+      "num": 619076,
+      "word": "刘诗诗东方淮竹",
+      "onboard_time": 1683603268,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 619036,
@@ -3897,6 +3953,14 @@
       "onboard_time": 1683006328,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 606196,
+      "num": 606196,
+      "word": "娜扎 把恋爱脑摔碎",
+      "onboard_time": 1683605249,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 602431,
@@ -4372,7 +4436,7 @@
     },
     {
       "raw_hot": 548129,
-      "num": 357631,
+      "num": 379571,
       "word": "上海20岁女子被3万卖到安徽当新娘",
       "onboard_time": 1683600506,
       "rank": 21,
@@ -5297,6 +5361,14 @@
       "onboard_time": 1682994627,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 450420,
+      "num": 450420,
+      "word": "勇士vs湖人",
+      "onboard_time": 1683421047,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 449869,
@@ -6347,6 +6419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383364,
+      "num": 383364,
+      "word": "大麦",
+      "onboard_time": 1683602788,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 383320,
       "num": 383320,
       "word": "徐克终于出山了",
@@ -6507,6 +6587,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 377465,
+      "num": 377465,
+      "word": "五一成绩单四川湖南表现惨淡",
+      "onboard_time": 1683601107,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377461,
       "num": 377461,
       "word": "奔跑吧一起运动吧",
@@ -6545,14 +6633,6 @@
       "onboard_time": 1683005726,
       "rank": 41,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 374496,
-      "num": 357545,
-      "word": "五一成绩单四川湖南表现惨淡",
-      "onboard_time": 1683601107,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 373028,
@@ -6843,6 +6923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 356897,
+      "num": 356897,
+      "word": "胡锡进称宣扬自保主义是悲哀",
+      "onboard_time": 1683604110,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356567,
       "num": 356567,
       "word": "反正她会成功的",
@@ -6969,14 +7057,6 @@
       "onboard_time": 1683552809,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 351951,
-      "num": 351951,
-      "word": "勇士vs湖人",
-      "onboard_time": 1683421047,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 351874,
@@ -8571,6 +8651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 290401,
+      "num": 290401,
+      "word": "杨幂新头像来源",
+      "onboard_time": 1683604167,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 290201,
       "num": 288165,
       "word": "黎苏苏三世都被同一个男人追",
@@ -8673,14 +8761,6 @@
       "onboard_time": 1683032610,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 287609,
-      "num": 287609,
-      "word": "给不起彩礼却买了20万的车",
-      "onboard_time": 1683602788,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 287147,
@@ -9011,14 +9091,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 274639,
-      "num": 274639,
-      "word": "天官赐福",
-      "onboard_time": 1683602609,
-      "rank": 27,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 274300,
       "num": 274300,
       "word": "王一博说吾辈当自强",
@@ -9105,14 +9177,6 @@
       "onboard_time": 1683034057,
       "rank": 32,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 271763,
-      "num": 271763,
-      "word": "杨幂解约文案适配分手官宣结婚",
-      "onboard_time": 1683602907,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 271305,
@@ -9779,6 +9843,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 252260,
+      "num": 252260,
+      "word": "很难相信是同一个人的衣服",
+      "onboard_time": 1683604591,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 251865,
       "num": 214555,
       "word": "五一档电影评分降了",
@@ -9793,6 +9865,14 @@
       "onboard_time": 1682908287,
       "rank": 22,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 251654,
+      "num": 251654,
+      "word": "入职之后格格不入的头像",
+      "onboard_time": 1683604769,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 251627,
@@ -10107,6 +10187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245717,
+      "num": 245717,
+      "word": "减肥43斤却费了一条腿",
+      "onboard_time": 1683605428,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 245468,
       "num": 245468,
       "word": "警犬执勤时被可爱耶耶吸引走了",
@@ -10265,6 +10353,14 @@
       "onboard_time": 1683258692,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 242205,
+      "num": 242205,
+      "word": "猥亵男被女子揪住后当场下跪求饶",
+      "onboard_time": 1683605670,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242096,
@@ -10523,14 +10619,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 236604,
-      "num": 236604,
-      "word": "为什么这届年轻人开始断亲",
-      "onboard_time": 1683602488,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 236597,
       "num": 236597,
       "word": "史航事件双方为何都不报警",
@@ -10764,7 +10852,7 @@
     },
     {
       "raw_hot": 232650,
-      "num": 281428,
+      "num": 300825,
       "word": "大叔8年进山捡垃圾13900余斤",
       "onboard_time": 1683599486,
       "rank": 34,
@@ -11003,6 +11091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227795,
+      "num": 227795,
+      "word": "私企1万编制5千选哪个",
+      "onboard_time": 1683605370,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 227558,
       "num": 227558,
       "word": "长相思",
@@ -11211,6 +11307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223341,
+      "num": 223341,
+      "word": "北京消协要求不得强制扫码点餐",
+      "onboard_time": 1683605189,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223163,
       "num": 223163,
       "word": "姆巴佩偷袭门将",
@@ -11411,6 +11515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219038,
+      "num": 219038,
+      "word": "詹姆斯",
+      "onboard_time": 1683604651,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218972,
       "num": 230375,
       "word": "多位网友分享巴厘岛惊险历程",
@@ -11531,6 +11643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217506,
+      "num": 217506,
+      "word": "五十公里桃花坞3官宣",
+      "onboard_time": 1683605792,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217290,
       "num": 217290,
       "word": "DOU5对战成都GG",
@@ -11617,14 +11737,6 @@
       "onboard_time": 1683168327,
       "rank": 32,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 215990,
-      "num": 215990,
-      "word": "大麦",
-      "onboard_time": 1683602788,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 215966,
@@ -12105,6 +12217,14 @@
       "onboard_time": 1683282871,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207294,
+      "num": 207294,
+      "word": "五月天 秒没",
+      "onboard_time": 1683603628,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 207192,
@@ -12779,6 +12899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195810,
+      "num": 195810,
+      "word": "湖人勇士",
+      "onboard_time": 1683605972,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195781,
       "num": 195781,
       "word": "大熊猫萌兰用新玩具越狱又失败了",
@@ -12889,6 +13017,14 @@
       "onboard_time": 1683340590,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194918,
+      "num": 194918,
+      "word": "库里助攻",
+      "onboard_time": 1683605428,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 194739,
@@ -15899,6 +16035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136072,
+      "num": 188865,
+      "word": "张艺兴时装男士五月封面",
+      "onboard_time": 1683604651,
+      "rank": 48,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 135661,
       "num": 135661,
       "word": "LGD对战DRG",
@@ -16145,6 +16289,14 @@
       "onboard_time": 1683187649,
       "rank": 46,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 130290,
+      "num": 188006,
+      "word": "久酱转场好可爱",
+      "onboard_time": 1683604528,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 130089,
@@ -17572,7 +17724,7 @@
     },
     {
       "raw_hot": 77341,
-      "num": 1465249,
+      "num": 1578949,
       "word": "打卡中国",
       "onboard_time": 1683597687,
       "rank": 2,
