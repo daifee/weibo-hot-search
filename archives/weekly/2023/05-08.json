@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683623830216,
+  "endTime": 1683624819195,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1925643,
+      "num": 1925643,
+      "word": "五月天演唱会嘉宾",
+      "onboard_time": 1683622225,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1863741,
       "num": 1202575,
       "word": "谁抢到了五月天门票",
@@ -355,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1477133,
+      "num": 324885,
+      "word": "外媒称肖战是史上最帅郭靖",
+      "onboard_time": 1683621809,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1469359,
       "num": 1469359,
       "word": "因挖呀挖爆火老师身陷6大传闻",
@@ -369,6 +385,14 @@
       "onboard_time": 1683596547,
       "rank": 35,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 1439199,
+      "num": 535423,
+      "word": "疑似杨幂母亲已成立娱乐公司",
+      "onboard_time": 1683622170,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1436882,
@@ -393,14 +417,6 @@
       "onboard_time": 1683464071,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1388116,
-      "num": 1388116,
-      "word": "五月天演唱会嘉宾",
-      "onboard_time": 1683622225,
-      "rank": 1,
-      "category": "音乐"
     },
     {
       "raw_hot": 1386877,
@@ -451,14 +467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1294748,
-      "num": 535423,
-      "word": "疑似杨幂母亲已成立娱乐公司",
-      "onboard_time": 1683622170,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1292529,
       "num": 1292529,
       "word": "庄达菲",
@@ -497,14 +505,6 @@
       "onboard_time": 1683530312,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1206607,
-      "num": 324885,
-      "word": "外媒称肖战是史上最帅郭靖",
-      "onboard_time": 1683621809,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 1199371,
@@ -603,6 +603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1077280,
+      "num": 1077280,
+      "word": "刘琳我父亲配享太庙",
+      "onboard_time": 1683622648,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1072003,
       "num": 1072003,
       "word": "千万不要再侧躺玩手机",
@@ -640,6 +648,14 @@
       "word": "儿时的发小因为生孩子去世了",
       "onboard_time": 1683470734,
       "rank": 3,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1006232,
+      "num": 317620,
+      "word": "突然发现公积金已经是笔巨款",
+      "onboard_time": 1683622289,
+      "rank": 21,
       "category": "情感"
     },
     {
@@ -769,14 +785,6 @@
       "onboard_time": 1683587541,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 839658,
-      "num": 317620,
-      "word": "突然发现公积金已经是笔巨款",
-      "onboard_time": 1683622289,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 838604,
@@ -948,7 +956,7 @@
     },
     {
       "raw_hot": 660702,
-      "num": 486457,
+      "num": 507845,
       "word": "巴厘岛案",
       "onboard_time": 1683621207,
       "rank": 48,
@@ -1033,14 +1041,6 @@
       "onboard_time": 1683608134,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 600075,
-      "num": 600075,
-      "word": "刘琳我父亲配享太庙",
-      "onboard_time": 1683622648,
-      "rank": 8,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 592694,
@@ -1211,6 +1211,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 490447,
+      "num": 490447,
+      "word": "亦卷古月 停更",
+      "onboard_time": 1683623490,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 489716,
       "num": 323662,
       "word": "易烊千玺演唱会",
@@ -1241,6 +1249,14 @@
       "onboard_time": 1683550469,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 462445,
+      "num": 462445,
+      "word": "薛之谦连云港 抢票",
+      "onboard_time": 1683624692,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 459892,
@@ -1723,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 352407,
+      "num": 283526,
+      "word": "领证当天对方不愿意发朋友圈",
+      "onboard_time": 1683623368,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 349342,
       "num": 292465,
       "word": "曾嘉 嘉行",
@@ -2083,6 +2107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 290360,
+      "num": 290360,
+      "word": "罗云熙让白鹿享受一点",
+      "onboard_time": 1683622349,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 290000,
       "num": 290000,
       "word": "墙体发霉的房子不能住人",
@@ -2283,6 +2315,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 259579,
+      "num": 259579,
+      "word": "李佳琦 直播",
+      "onboard_time": 1683624390,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 259299,
+      "num": 259299,
+      "word": "为什么中国轻小说写不出日本那个味",
+      "onboard_time": 1683623911,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 259077,
       "num": 259077,
       "word": "法老 假面",
@@ -2305,14 +2353,6 @@
       "onboard_time": 1683619466,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 257309,
-      "num": 257309,
-      "word": "罗云熙让白鹿享受一点",
-      "onboard_time": 1683622349,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 257024,
@@ -2451,6 +2491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246963,
+      "num": 246963,
+      "word": "梁静茹 门票",
+      "onboard_time": 1683623429,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 246903,
       "num": 246903,
       "word": "店员冒暴风雨开门喊母女进屋躲避",
@@ -2513,14 +2561,6 @@
       "onboard_time": 1683563424,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 239187,
-      "num": 239187,
-      "word": "亦卷古月 停更",
-      "onboard_time": 1683623490,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 236410,
@@ -2779,14 +2819,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 213610,
-      "num": 213610,
-      "word": "梁静茹 门票",
-      "onboard_time": 1683623429,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 213040,
       "num": 213040,
       "word": "3D还原火车持刀行凶案",
@@ -2841,14 +2873,6 @@
       "onboard_time": 1683503125,
       "rank": 29,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 209899,
-      "num": 209899,
-      "word": "领证当天对方不愿意发朋友圈",
-      "onboard_time": 1683623368,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 209135,
@@ -2945,6 +2969,14 @@
       "onboard_time": 1683598226,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200870,
+      "num": 183961,
+      "word": "周深玉兔造型正面vs背面",
+      "onboard_time": 1683623609,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 200330,
@@ -3417,14 +3449,6 @@
       "onboard_time": 1683547651,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 159953,
-      "num": 159953,
-      "word": "周深玉兔造型正面vs背面",
-      "onboard_time": 1683623609,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 159548,
@@ -4050,6 +4074,9 @@
     },
     {
       "word": "#习近平会见第十届世界华侨华人社团联谊大会代表#"
+    },
+    {
+      "word": "#这就是中国活力#"
     }
   ]
 }

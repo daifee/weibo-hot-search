@@ -1,0 +1,410 @@
+{
+  "runTime": 1683624819195,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1925643,
+        "num": 1925643,
+        "word": "五月天演唱会嘉宾",
+        "onboard_time": 1683622225,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1465576,
+        "num": 1465576,
+        "word": "专家称巴厘岛死亡女孩应系被害",
+        "onboard_time": 1683621329,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45401,
+        "num": 1095412,
+        "word": "上天入地的大国重器彰显大国力量",
+        "onboard_time": 1683617487,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1077280,
+        "num": 1077280,
+        "word": "刘琳我父亲配享太庙",
+        "onboard_time": 1683622648,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 975350,
+        "num": 975350,
+        "word": "谁抢到了五月天门票",
+        "onboard_time": 1683602366,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 682632,
+        "num": 682632,
+        "word": "猥亵男被女子揪住后当场下跪求饶",
+        "onboard_time": 1683605670,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 676874,
+        "num": 676874,
+        "word": "广州地铁回应乘客欠600多万巨款",
+        "onboard_time": 1683611846,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619270,
+        "num": 619270,
+        "word": "五月天抢票",
+        "onboard_time": 1683594509,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 616550,
+        "num": 616550,
+        "word": "结婚当天建议用的假东西",
+        "onboard_time": 1683608430,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 535417,
+        "num": 535417,
+        "word": "香奈儿邀请函",
+        "onboard_time": 1683620425,
+        "rank": 9,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 1439199,
+        "num": 531716,
+        "word": "疑似杨幂母亲已成立娱乐公司",
+        "onboard_time": 1683622170,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 573955,
+        "num": 516427,
+        "word": "李承铉说不生三胎是因为妈妈很辛苦",
+        "onboard_time": 1683614009,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 545836,
+        "num": 507845,
+        "word": "巴厘岛案",
+        "onboard_time": 1683621207,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490447,
+        "num": 490447,
+        "word": "亦卷古月 停更",
+        "onboard_time": 1683623490,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 462445,
+        "num": 462445,
+        "word": "薛之谦连云港 抢票",
+        "onboard_time": 1683624692,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 456765,
+        "num": 456765,
+        "word": "赵露思出发韩国路透",
+        "onboard_time": 1683618445,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 315474,
+        "num": 315474,
+        "word": "杨幂解约文案适配分手官宣结婚",
+        "onboard_time": 1683602907,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310586,
+        "num": 310586,
+        "word": "俄罗斯阅兵",
+        "onboard_time": 1683618328,
+        "rank": 17,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 300103,
+        "num": 300103,
+        "word": "大脑发育30岁才完成",
+        "onboard_time": 1683611727,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 290360,
+        "num": 290360,
+        "word": "罗云熙让白鹿享受一点",
+        "onboard_time": 1683622349,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1477133,
+        "num": 290033,
+        "word": "外媒称肖战是史上最帅郭靖",
+        "onboard_time": 1683621809,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1157224,
+        "num": 287340,
+        "word": "小三得知我要离婚发的短信",
+        "onboard_time": 1683621988,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1006232,
+        "num": 283992,
+        "word": "突然发现公积金已经是笔巨款",
+        "onboard_time": 1683622289,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 352407,
+        "num": 283526,
+        "word": "领证当天对方不愿意发朋友圈",
+        "onboard_time": 1683623368,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281621,
+        "num": 281621,
+        "word": "金智秀有钱且漂亮",
+        "onboard_time": 1683615147,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 280571,
+        "num": 280571,
+        "word": "为什么这届年轻人开始断亲",
+        "onboard_time": 1683602488,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 279110,
+        "num": 279110,
+        "word": "天官赐福",
+        "onboard_time": 1683602609,
+        "rank": 26,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 259579,
+        "num": 259579,
+        "word": "李佳琦 直播",
+        "onboard_time": 1683624390,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 220065,
+        "num": 259355,
+        "word": "杨紫申请强执拉夏贝尔网店25万元",
+        "onboard_time": 1683603208,
+        "rank": 28,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 84888,
+        "num": 259314,
+        "word": "孩子高烧晕厥特警一路护送开道",
+        "onboard_time": 1683617549,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 259299,
+        "num": 259299,
+        "word": "为什么中国轻小说写不出日本那个味",
+        "onboard_time": 1683623911,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 246963,
+        "num": 246963,
+        "word": "梁静茹 门票",
+        "onboard_time": 1683623429,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231158,
+        "num": 231158,
+        "word": "35岁你会发现工作是没有意义的",
+        "onboard_time": 1683611306,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230174,
+        "num": 230174,
+        "word": "Angelababy奔跑吧七仙女造型",
+        "onboard_time": 1683620307,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229608,
+        "num": 229608,
+        "word": "长月烬明大结局",
+        "onboard_time": 1683613528,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220368,
+        "num": 220368,
+        "word": "减肥43斤却费了一条腿",
+        "onboard_time": 1683605428,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220241,
+        "num": 220241,
+        "word": "漫长的季节 爹味",
+        "onboard_time": 1683604050,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203729,
+        "num": 203729,
+        "word": "乘风2023三公分组歌单",
+        "onboard_time": 1683619466,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197770,
+        "num": 197770,
+        "word": "最适合谈恋爱的星座",
+        "onboard_time": 1683615388,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186936,
+        "num": 186936,
+        "word": "女子裸贷5千仅4个月变欠款百万",
+        "onboard_time": 1683560668,
+        "rank": 39,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 200870,
+        "num": 183961,
+        "word": "周深玉兔造型正面vs背面",
+        "onboard_time": 1683623609,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175731,
+        "num": 175731,
+        "word": "易烊千玺6天之后还有惊喜",
+        "onboard_time": 1683615568,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168063,
+        "num": 168063,
+        "word": "妈妈侵犯我的隐私发现了秘密",
+        "onboard_time": 1683614489,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154608,
+        "num": 154608,
+        "word": "中方要求甄逸慧5月13日前离华",
+        "onboard_time": 1683610349,
+        "rank": 43,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 149258,
+        "num": 149258,
+        "word": "何超莲今日份开心",
+        "onboard_time": 1683616167,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142472,
+        "num": 142472,
+        "word": "粉丝说迪丽热巴不参加芭莎慈善晚会",
+        "onboard_time": 1683616946,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141019,
+        "num": 141019,
+        "word": "店员冒暴风雨开门喊母女进屋躲避",
+        "onboard_time": 1683617128,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 134107,
+        "num": 134107,
+        "word": "谢娜陈乔恩同框",
+        "onboard_time": 1683616647,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127674,
+        "num": 127674,
+        "word": "娜扎 把恋爱脑摔碎",
+        "onboard_time": 1683605249,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108185,
+        "num": 125576,
+        "word": "WE官宣biubiu离队",
+        "onboard_time": 1683621387,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#这就是中国活力#"
+    }
+  }
+}
