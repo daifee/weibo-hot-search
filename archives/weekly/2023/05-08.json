@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683668008129,
+  "endTime": 1683670556691,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -4275,6 +4275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 130146,
+      "num": 130146,
+      "word": "守村人见新娘穿破洞裤送来干净裤子",
+      "onboard_time": 1683663612,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126873,
       "num": 126873,
       "word": "工作5年你能存多少钱",
@@ -4683,14 +4691,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 35144,
-      "num": 35144,
-      "word": "守村人见新娘穿破洞裤送来干净裤子",
-      "onboard_time": 1683663612,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 34319,
       "num": 34319,
       "word": "贾乃亮穿的衣服好像茶壶",
@@ -4713,6 +4713,22 @@
       "onboard_time": 1683542552,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 30294,
+      "num": 30294,
+      "word": "周杰伦演唱会男孩仰头大睡",
+      "onboard_time": 1683657613,
+      "rank": 44,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 30049,
+      "num": 30049,
+      "word": "张云雷听云见心演唱会官宣重启",
+      "onboard_time": 1683666791,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 26638,
@@ -4745,22 +4761,6 @@
       "onboard_time": 1683612025,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24369,
-      "num": 24369,
-      "word": "周杰伦演唱会男孩仰头大睡",
-      "onboard_time": 1683657613,
-      "rank": 44,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 17038,
-      "num": 17038,
-      "word": "张云雷听云见心演唱会官宣重启",
-      "onboard_time": 1683666791,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 10792,

@@ -1,6 +1,6 @@
 {
   "startTime": 1683649328764,
-  "endTime": 1683668008129,
+  "endTime": 1683670556691,
   "band_list": [
     {
       "raw_hot": 1276868,
@@ -323,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 130146,
+      "num": 130146,
+      "word": "守村人见新娘穿破洞裤送来干净裤子",
+      "onboard_time": 1683663612,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123629,
       "num": 123629,
       "word": "护心 太空上放烟花",
@@ -451,14 +459,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 35144,
-      "num": 35144,
-      "word": "守村人见新娘穿破洞裤送来干净裤子",
-      "onboard_time": 1683663612,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 33989,
       "num": 34935,
       "word": "疑火车行凶案凶手曾自述患精神分裂",
@@ -475,27 +475,27 @@
       "category": "情感"
     },
     {
-      "raw_hot": 25931,
-      "num": 34068,
-      "word": "IVE日单wave",
-      "onboard_time": 1683654916,
-      "rank": 48,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 24369,
-      "num": 24369,
+      "raw_hot": 30294,
+      "num": 30294,
       "word": "周杰伦演唱会男孩仰头大睡",
       "onboard_time": 1683657613,
       "rank": 44,
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 17038,
-      "num": 17038,
+      "raw_hot": 30049,
+      "num": 30049,
       "word": "张云雷听云见心演唱会官宣重启",
       "onboard_time": 1683666791,
       "rank": 38,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 25931,
+      "num": 34068,
+      "word": "IVE日单wave",
+      "onboard_time": 1683654916,
+      "rank": 48,
       "category": "音乐"
     },
     {
