@@ -1,6 +1,6 @@
 {
   "startTime": 1683649328764,
-  "endTime": 1683653638570,
+  "endTime": 1683656493144,
   "band_list": [
     {
       "raw_hot": 1276868,
@@ -441,6 +441,22 @@
       "onboard_time": 1683625527,
       "rank": 29,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 32163,
+      "num": 34935,
+      "word": "疑火车行凶案凶手曾自述患精神分裂",
+      "onboard_time": 1683654674,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25931,
+      "num": 34068,
+      "word": "IVE日单wave",
+      "onboard_time": 1683654916,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 4920,

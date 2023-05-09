@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683653638570,
+  "endTime": 1683656493144,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -4683,6 +4683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32163,
+      "num": 34935,
+      "word": "疑火车行凶案凶手曾自述患精神分裂",
+      "onboard_time": 1683654674,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26638,
       "num": 26638,
       "word": "挖呀挖",
@@ -4697,6 +4705,14 @@
       "onboard_time": 1683487632,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25931,
+      "num": 34068,
+      "word": "IVE日单wave",
+      "onboard_time": 1683654916,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 25492,
