@@ -1,6 +1,6 @@
 {
   "startTime": 1683562973147,
-  "endTime": 1683595417374,
+  "endTime": 1683596855062,
   "band_list": [
     {
       "raw_hot": 2376314,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1530767,
-      "num": 1530767,
+      "raw_hot": 1756048,
+      "num": 1756048,
       "word": "中秋国庆休8天上7天",
       "onboard_time": 1683542310,
       "rank": 5,
@@ -41,6 +41,14 @@
       "onboard_time": 1683554132,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1217480,
+      "num": 1217480,
+      "word": "女演员近10年无戏演再见观众哭了",
+      "onboard_time": 1683594929,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1184772,
@@ -99,8 +107,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 717234,
-      "num": 717234,
+      "raw_hot": 756645,
+      "num": 756645,
       "word": "杨洋一番爆剧",
       "onboard_time": 1683557914,
       "rank": 6,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 571785,
-      "num": 371371,
+      "num": 373838,
       "word": "男朋友说生完孩子要做亲子鉴定",
       "onboard_time": 1683557133,
       "rank": 20,
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 514553,
+      "num": 514553,
+      "word": "五月天抢票",
+      "onboard_time": 1683594509,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 511629,
       "num": 511629,
       "word": "嘉行法人曾嘉曾是杨幂经纪人",
@@ -169,6 +185,14 @@
       "onboard_time": 1683545728,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 447589,
+      "num": 447589,
+      "word": "杨幂各行业都有代表作",
+      "onboard_time": 1683596425,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 425845,
@@ -235,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355060,
+      "num": 355060,
+      "word": "内部人员称不排除安检后拿到刀",
+      "onboard_time": 1683594329,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349473,
       "num": 349473,
       "word": "巴厘岛命案",
@@ -243,44 +275,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 319005,
-      "num": 319005,
-      "word": "女演员近10年无戏演再见观众哭了",
-      "onboard_time": 1683594929,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 302651,
-      "num": 302651,
+      "raw_hot": 341681,
+      "num": 341681,
       "word": "上海展会外国人插队领冰淇淋被拒",
       "onboard_time": 1683594450,
       "rank": 24,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 294305,
-      "num": 294305,
-      "word": "五月天抢票",
-      "onboard_time": 1683594509,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 291331,
-      "num": 291331,
+      "raw_hot": 314703,
+      "num": 314703,
       "word": "宝妈回应生3儿1女后又怀四胞胎",
       "onboard_time": 1683587723,
       "rank": 38,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 283936,
-      "num": 283936,
-      "word": "内部人员称不排除安检后拿到刀",
-      "onboard_time": 1683594329,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 287633,
+      "num": 287633,
+      "word": "iPhone14口碑下滑",
+      "onboard_time": 1683595048,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 286799,
+      "num": 286799,
+      "word": "嘉行",
+      "onboard_time": 1683595888,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 281328,
@@ -363,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230753,
+      "num": 230753,
+      "word": "巴厘岛",
+      "onboard_time": 1683593492,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230630,
       "num": 230630,
       "word": "山西吕梁通报初步调查情况",
@@ -409,6 +441,14 @@
       "onboard_time": 1683594570,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205790,
+      "num": 205790,
+      "word": "体制外的人会羡慕体制内的工作吗",
+      "onboard_time": 1683596547,
+      "rank": 35,
+      "category": "社会议题"
     },
     {
       "raw_hot": 204165,
@@ -459,20 +499,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184290,
-      "num": 184290,
-      "word": "巴厘岛",
-      "onboard_time": 1683593492,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 186228,
+      "num": 186228,
+      "word": "春色寄情人",
+      "onboard_time": 1683596368,
+      "rank": 40,
+      "category": "影视"
     },
     {
-      "raw_hot": 184146,
-      "num": 184146,
-      "word": "iPhone14口碑下滑",
-      "onboard_time": 1683595048,
-      "rank": 40,
-      "category": "科技"
+      "raw_hot": 182650,
+      "num": 182650,
+      "word": "田曦薇梦到作业没写完",
+      "onboard_time": 1683594749,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 177244,
+      "num": 177244,
+      "word": "aespa成第一个首日销售额破亿女团",
+      "onboard_time": 1683596666,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 175739,
@@ -507,20 +555,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157280,
+      "num": 157280,
+      "word": "地震瞬间老师冲进教室带孩子撤离",
+      "onboard_time": 1683596067,
+      "rank": 45,
+      "category": "社会正能量,教育"
+    },
+    {
       "raw_hot": 157169,
       "num": 157169,
       "word": "认识8年的男闺蜜变成男朋友了",
       "onboard_time": 1683550469,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 153833,
-      "num": 153833,
-      "word": "田曦薇梦到作业没写完",
-      "onboard_time": 1683594749,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 153625,
@@ -691,20 +739,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80504,
+      "num": 135828,
+      "word": "无畏",
+      "onboard_time": 1683587903,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 79926,
       "num": 79926,
       "word": "今晚的月亮好美",
       "onboard_time": 1683558097,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 79821,
-      "num": 135826,
-      "word": "无畏",
-      "onboard_time": 1683587903,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 78095,
@@ -748,7 +796,7 @@
     },
     {
       "raw_hot": 42592,
-      "num": 1365256,
+      "num": 1419398,
       "word": "天舟六号船箭组合体垂直转运美图",
       "onboard_time": 1683555871,
       "rank": 2,

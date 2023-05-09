@@ -1,0 +1,410 @@
+{
+  "runTime": 1683596855062,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2229166,
+        "num": 2229166,
+        "word": "胡锡进 火车上男乘客为什么没参与制服凶手",
+        "onboard_time": 1683587001,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1756048,
+        "num": 1756048,
+        "word": "中秋国庆休8天上7天",
+        "onboard_time": 1683542310,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34823,
+        "num": 1419398,
+        "word": "天舟六号船箭组合体垂直转运美图",
+        "onboard_time": 1683555871,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1217480,
+        "num": 1217480,
+        "word": "女演员近10年无戏演再见观众哭了",
+        "onboard_time": 1683594929,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1198295,
+        "num": 1198295,
+        "word": "谷爱凌将继续为中国队出战",
+        "onboard_time": 1683589044,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 934229,
+        "num": 934229,
+        "word": "现实版高启兰",
+        "onboard_time": 1683588984,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 775383,
+        "num": 775383,
+        "word": "瘦了二十斤后手部的变化",
+        "onboard_time": 1683557013,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 763266,
+        "num": 763266,
+        "word": "千万不要再侧躺玩手机",
+        "onboard_time": 1683561986,
+        "rank": 7,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 756645,
+        "num": 756645,
+        "word": "杨洋一番爆剧",
+        "onboard_time": 1683557914,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 671559,
+        "num": 671559,
+        "word": "36岁常青藤毕业确诊癌症后反而很开心",
+        "onboard_time": 1683555392,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 943042,
+        "num": 658088,
+        "word": "假如陈都灵没进娱乐圈",
+        "onboard_time": 1683554132,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 631833,
+        "num": 631833,
+        "word": "中国驻加拿大使馆回应",
+        "onboard_time": 1683590606,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 608950,
+        "num": 608950,
+        "word": "考上编制后你还会离职吗",
+        "onboard_time": 1683587541,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541875,
+        "num": 541875,
+        "word": "女子裸贷5千仅4个月变欠款百万",
+        "onboard_time": 1683560668,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 525076,
+        "num": 525076,
+        "word": "杨幂解约和七年前发的微博呼应上了",
+        "onboard_time": 1683541893,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514553,
+        "num": 514553,
+        "word": "五月天抢票",
+        "onboard_time": 1683594509,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 505043,
+        "num": 505043,
+        "word": "一夜醒来欠了地铁600多万",
+        "onboard_time": 1683552449,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 483024,
+        "num": 483024,
+        "word": "洛阳规划局",
+        "onboard_time": 1683592469,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447589,
+        "num": 447589,
+        "word": "杨幂各行业都有代表作",
+        "onboard_time": 1683596425,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373994,
+        "num": 373994,
+        "word": "平凡之路全职太太被出轨却不离婚",
+        "onboard_time": 1683565039,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 473923,
+        "num": 373838,
+        "word": "男朋友说生完孩子要做亲子鉴定",
+        "onboard_time": 1683557133,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 372802,
+        "num": 372802,
+        "word": "杨幂的时间参照物是什么",
+        "onboard_time": 1683592352,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355060,
+        "num": 355060,
+        "word": "内部人员称不排除安检后拿到刀",
+        "onboard_time": 1683594329,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341681,
+        "num": 341681,
+        "word": "上海展会外国人插队领冰淇淋被拒",
+        "onboard_time": 1683594450,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314846,
+        "num": 314846,
+        "word": "种地吧 第二季",
+        "onboard_time": 1683589589,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314703,
+        "num": 314703,
+        "word": "宝妈回应生3儿1女后又怀四胞胎",
+        "onboard_time": 1683587723,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305070,
+        "num": 305070,
+        "word": "美依礼芽的翻译找到了",
+        "onboard_time": 1683545728,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287633,
+        "num": 287633,
+        "word": "iPhone14口碑下滑",
+        "onboard_time": 1683595048,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 286799,
+        "num": 286799,
+        "word": "嘉行",
+        "onboard_time": 1683595888,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230753,
+        "num": 230753,
+        "word": "巴厘岛",
+        "onboard_time": 1683593492,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225607,
+        "num": 225607,
+        "word": "运动会上女生抱起晕倒朋友一路狂奔",
+        "onboard_time": 1683591570,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222643,
+        "num": 222643,
+        "word": "勇士vs湖人",
+        "onboard_time": 1683593368,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221459,
+        "num": 221459,
+        "word": "朴宰范演出要求女士化妆",
+        "onboard_time": 1683554911,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219284,
+        "num": 219284,
+        "word": "女子车位被邻居霸停数月直接焊死",
+        "onboard_time": 1683551972,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206574,
+        "num": 206574,
+        "word": "中公教育回应88.8万定制课",
+        "onboard_time": 1683589465,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 205790,
+        "num": 205790,
+        "word": "体制外的人会羡慕体制内的工作吗",
+        "onboard_time": 1683596547,
+        "rank": 35,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 204049,
+        "num": 204049,
+        "word": "3D还原火车持刀行凶案",
+        "onboard_time": 1683594570,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194627,
+        "num": 194627,
+        "word": "地铁上被陌生人塞了奶茶",
+        "onboard_time": 1683563424,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193233,
+        "num": 193233,
+        "word": "王力宏陶喆同框",
+        "onboard_time": 1683589407,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188786,
+        "num": 188786,
+        "word": "母亲去世女子悲伤到开车手脚抽搐",
+        "onboard_time": 1683591151,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186228,
+        "num": 186228,
+        "word": "春色寄情人",
+        "onboard_time": 1683596368,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182650,
+        "num": 182650,
+        "word": "田曦薇梦到作业没写完",
+        "onboard_time": 1683594749,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177244,
+        "num": 177244,
+        "word": "aespa成第一个首日销售额破亿女团",
+        "onboard_time": 1683596666,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163676,
+        "num": 163676,
+        "word": "谷爱凌梅西合影",
+        "onboard_time": 1683594028,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161899,
+        "num": 161899,
+        "word": "六公主点评过的古装剧",
+        "onboard_time": 1683588382,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157280,
+        "num": 157280,
+        "word": "地震瞬间老师冲进教室带孩子撤离",
+        "onboard_time": 1683596067,
+        "rank": 45,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 143531,
+        "num": 143531,
+        "word": "娜扎cos赫本",
+        "onboard_time": 1683552809,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138912,
+        "num": 138912,
+        "word": "网红城市菏泽现在什么样",
+        "onboard_time": 1683588143,
+        "rank": 47,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 80504,
+        "num": 135828,
+        "word": "无畏",
+        "onboard_time": 1683587903,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 42320,
+        "num": 134570,
+        "word": "无畏直播",
+        "onboard_time": 1683550830,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见第十届世界华侨华人社团联谊大会代表#"
+    }
+  }
+}
