@@ -1,7 +1,15 @@
 {
   "startTime": 1683649328764,
-  "endTime": 1683671612026,
+  "endTime": 1683674216857,
   "band_list": [
+    {
+      "raw_hot": 1337804,
+      "num": 1337804,
+      "word": "辱骂女大学生致死案房东发声",
+      "onboard_time": 1683649945,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1276868,
       "num": 1276868,
@@ -25,14 +33,6 @@
       "onboard_time": 1683640651,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 650614,
-      "num": 650614,
-      "word": "辱骂女大学生致死案房东发声",
-      "onboard_time": 1683649945,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 617292,
@@ -115,11 +115,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 373277,
+      "num": 373277,
+      "word": "列车命案死者是舞者且专业突出",
+      "onboard_time": 1683648805,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338795,
       "num": 338795,
       "word": "杰克辣条已被取消阜南好人称号",
       "onboard_time": 1683642572,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335992,
+      "num": 335992,
+      "word": "宝宝摔下沙发奶奶一下冲过去接住",
+      "onboard_time": 1683650782,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -129,6 +145,14 @@
       "onboard_time": 1683641670,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 315233,
+      "num": 315233,
+      "word": "皇马1比1曼城",
+      "onboard_time": 1683673760,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 302354,
@@ -161,6 +185,14 @@
       "onboard_time": 1683644431,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 277130,
+      "num": 277130,
+      "word": "守村人见新娘穿破洞裤送来干净裤子",
+      "onboard_time": 1683663612,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260774,
@@ -203,14 +235,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213847,
-      "num": 213847,
-      "word": "宝宝摔下沙发奶奶一下冲过去接住",
-      "onboard_time": 1683650782,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212569,
       "num": 212569,
       "word": "母亲节礼物",
@@ -251,28 +275,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 182500,
-      "num": 182500,
-      "word": "列车命案死者是舞者且专业突出",
-      "onboard_time": 1683648805,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179037,
       "num": 160523,
       "word": "宁安如梦定档时间",
       "onboard_time": 1683648326,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 173020,
-      "num": 173020,
-      "word": "守村人见新娘穿破洞裤送来干净裤子",
-      "onboard_time": 1683663612,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168882,
@@ -395,6 +403,22 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 93932,
+      "num": 93932,
+      "word": "周杰伦演唱会男孩仰头大睡",
+      "onboard_time": 1683657613,
+      "rank": 44,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 84682,
+      "num": 84682,
+      "word": "大熊猫竟然可以抱膝坐",
+      "onboard_time": 1683664992,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82625,
       "num": 112742,
       "word": "女子路边发现一箱药紧急报警找失主",
@@ -427,6 +451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 75057,
+      "num": 75057,
+      "word": "赵露思后浪剧组氛围大师",
+      "onboard_time": 1683672737,
+      "rank": 35,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 67880,
       "num": 67880,
       "word": "能把人逼疯的缺德玩具",
@@ -451,6 +483,22 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 61290,
+      "num": 61290,
+      "word": "疑火车行凶案凶手曾自述患精神分裂",
+      "onboard_time": 1683654674,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57938,
+      "num": 57126,
+      "word": "护心适合宝宝体质的仙侠剧",
+      "onboard_time": 1683674119,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 45054,
       "num": 45054,
       "word": "小说漫画 不应该分男女频",
@@ -459,28 +507,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 44439,
-      "num": 44439,
-      "word": "周杰伦演唱会男孩仰头大睡",
-      "onboard_time": 1683657613,
-      "rank": 44,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 35499,
       "num": 35499,
       "word": "张云雷听云见心演唱会官宣重启",
       "onboard_time": 1683666791,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 33989,
-      "num": 34935,
-      "word": "疑火车行凶案凶手曾自述患精神分裂",
-      "onboard_time": 1683654674,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31362,
@@ -499,14 +531,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 21070,
-      "num": 31118,
-      "word": "大熊猫竟然可以抱膝坐",
-      "onboard_time": 1683664992,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 10792,
       "num": 16281,
       "word": "帮30个家庭团聚的志愿者找到了家人",
@@ -515,7 +539,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4920,
+      "raw_hot": 5401,
       "num": 713464,
       "word": "上天入地的大国重器彰显大国力量",
       "onboard_time": 1683617487,
