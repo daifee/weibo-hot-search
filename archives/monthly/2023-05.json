@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683630879647,
+  "endTime": 1683637787056,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -2323,6 +2323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1094903,
+      "num": 1094903,
+      "word": "肖战被反复评估才确认出演郭靖",
+      "onboard_time": 1683632308,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1088435,
       "num": 1088435,
       "word": "白鹿片场行为",
@@ -2601,6 +2609,14 @@
       "onboard_time": 1683622289,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1002778,
+      "num": 1002778,
+      "word": "杨紫或将配合青簪行补拍",
+      "onboard_time": 1683635669,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1002456,
@@ -3001,6 +3017,14 @@
       "onboard_time": 1683357028,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 870977,
+      "num": 870977,
+      "word": "列车命案死者表姐称与广铁基本谈成赔偿",
+      "onboard_time": 1683635009,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 867730,
@@ -3521,6 +3545,14 @@
       "onboard_time": 1682866711,
       "rank": 9,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 734971,
+      "num": 734971,
+      "word": "鹿晗张艺兴同杂志封面",
+      "onboard_time": 1683636450,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 733074,
@@ -4427,6 +4459,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 578409,
+      "num": 379454,
+      "word": "公冶寂无妺女去哪了",
+      "onboard_time": 1683633092,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 578230,
       "num": 578230,
       "word": "不会真有公司五四不放假吧",
@@ -4889,6 +4929,14 @@
       "onboard_time": 1683167726,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 528119,
+      "num": 369725,
+      "word": "长月烬明番外",
+      "onboard_time": 1683633149,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 527793,
@@ -6091,6 +6139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 423916,
+      "num": 369444,
+      "word": "白夜追凶2",
+      "onboard_time": 1683631229,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 423748,
       "num": 423748,
       "word": "周杰伦厦门",
@@ -6627,6 +6683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395686,
+      "num": 395686,
+      "word": "海口两男子试驾被拒后大闹酒店",
+      "onboard_time": 1683636807,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395432,
       "num": 395432,
       "word": "上海 二次元浓度",
@@ -7043,6 +7107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 372896,
+      "num": 183561,
+      "word": "空耳的是宋茜丢脸的是蒋欣",
+      "onboard_time": 1683635368,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 372679,
       "num": 372679,
       "word": "缺爱之人才会对很普通的关系难舍难分",
@@ -7067,6 +7139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 370891,
+      "num": 370891,
+      "word": "上海虹桥火车站一女子坠楼仍在抢救",
+      "onboard_time": 1683630389,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369156,
       "num": 369156,
       "word": "五一假期2.74亿人次出游",
@@ -7081,6 +7161,14 @@
       "onboard_time": 1683261994,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 368330,
+      "num": 368330,
+      "word": "成都火灾",
+      "onboard_time": 1683633569,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 367795,
@@ -7689,6 +7777,14 @@
       "onboard_time": 1683420146,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 344091,
+      "num": 182273,
+      "word": "罗云熙说长月烬明虽有憾愿人生圆满",
+      "onboard_time": 1683637411,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 343420,
@@ -9153,6 +9249,14 @@
       "onboard_time": 1683536612,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 291155,
+      "num": 181844,
+      "word": "胡歌今日文案",
+      "onboard_time": 1683634769,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 290697,
@@ -11771,6 +11875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227707,
+      "num": 178512,
+      "word": "谢娜向何炅求助对付孙红雷",
+      "onboard_time": 1683633510,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227558,
       "num": 227558,
       "word": "长相思",
@@ -14187,6 +14299,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 186983,
+      "num": 186983,
+      "word": "GEN对战G2",
+      "onboard_time": 1683636570,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186920,
       "num": 167473,
       "word": "国外网友偶遇蔡徐坤",
@@ -14747,6 +14867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177788,
+      "num": 177788,
+      "word": "RNG",
+      "onboard_time": 1683636869,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177748,
       "num": 177748,
       "word": "美依礼芽御姐音",
@@ -15033,6 +15161,14 @@
       "onboard_time": 1683553891,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174081,
+      "num": 174081,
+      "word": "白鹿清唱关键词",
+      "onboard_time": 1683637649,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 174005,
@@ -15403,6 +15539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167725,
+      "num": 167725,
+      "word": "尹浩宇GPA3.97分",
+      "onboard_time": 1683631289,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167622,
       "num": 167622,
       "word": "火车持刀伤人嫌犯已刑拘",
@@ -15497,14 +15641,6 @@
       "onboard_time": 1683354749,
       "rank": 47,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 165657,
-      "num": 158356,
-      "word": "上海虹桥火车站一女子坠楼仍在抢救",
-      "onboard_time": 1683630389,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165618,
@@ -16283,6 +16419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151050,
+      "num": 151050,
+      "word": "王鹤棣潜意识里的尊重和保护",
+      "onboard_time": 1683632789,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150948,
       "num": 150948,
       "word": "广州漫展",
@@ -16771,6 +16915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138161,
+      "num": 138161,
+      "word": "五月天周边部分酒店房型已售罄",
+      "onboard_time": 1683634408,
+      "rank": 45,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 137986,
       "num": 137986,
       "word": "餐厅回应养观赏鲨鱼产下3条崽",
@@ -16947,6 +17099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133336,
+      "num": 133336,
+      "word": "阿信",
+      "onboard_time": 1683631709,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 133037,
       "num": 133037,
       "word": "76人1比0凯尔特人",
@@ -16969,6 +17129,14 @@
       "onboard_time": 1683041196,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132533,
+      "num": 132533,
+      "word": "网友是会阴阳怪气的",
+      "onboard_time": 1683636692,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 132442,
