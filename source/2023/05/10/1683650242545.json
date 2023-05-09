@@ -1,0 +1,410 @@
+{
+  "runTime": 1683650242545,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1226606,
+        "num": 1226606,
+        "word": "杭州女生地铁上隔空收到不雅照",
+        "onboard_time": 1683644972,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553068,
+        "num": 553068,
+        "word": "苹果天气",
+        "onboard_time": 1683639629,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 3979,
+        "num": 540116,
+        "word": "上天入地的大国重器彰显大国力量",
+        "onboard_time": 1683617487,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528663,
+        "num": 528663,
+        "word": "肖战被反复评估才确认出演郭靖",
+        "onboard_time": 1683632308,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 484805,
+        "num": 484805,
+        "word": "这放整个肛肠科都很炸裂",
+        "onboard_time": 1683624870,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 446047,
+        "num": 446047,
+        "word": "gidle先行曲",
+        "onboard_time": 1683646647,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 420772,
+        "num": 420772,
+        "word": "是你吗 何以琛",
+        "onboard_time": 1683626309,
+        "rank": 6,
+        "category": "其它,作品衍生"
+      },
+      {
+        "raw_hot": 383178,
+        "num": 383178,
+        "word": "长月烬明番外",
+        "onboard_time": 1683633149,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 377593,
+        "num": 377593,
+        "word": "庆余年2",
+        "onboard_time": 1683629249,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359909,
+        "num": 359909,
+        "word": "血鹦鹉 一种鱼生遭罪的鱼",
+        "onboard_time": 1683644069,
+        "rank": 9,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 625347,
+        "num": 347625,
+        "word": "鹿晗的关注列表",
+        "onboard_time": 1683640651,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481984,
+        "num": 338079,
+        "word": "温州一男子用小刀割断看门猫尾巴",
+        "onboard_time": 1683644792,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304364,
+        "num": 304364,
+        "word": "杨紫或将配合青簪行补拍",
+        "onboard_time": 1683635669,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273437,
+        "num": 273437,
+        "word": "杰克辣条已被取消阜南好人称号",
+        "onboard_time": 1683642572,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256899,
+        "num": 256899,
+        "word": "汪曾祺 大学生大都爱吃",
+        "onboard_time": 1683641670,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235719,
+        "num": 235719,
+        "word": "公冶寂无妺女去哪了",
+        "onboard_time": 1683633092,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227575,
+        "num": 227575,
+        "word": "张婧仪上错车",
+        "onboard_time": 1683644913,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212850,
+        "num": 212850,
+        "word": "长月烬明结局啥意思",
+        "onboard_time": 1683629610,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201075,
+        "num": 201075,
+        "word": "护心小学生特效",
+        "onboard_time": 1683640532,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163936,
+        "num": 163936,
+        "word": "母亲节礼物",
+        "onboard_time": 1683644191,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 401034,
+        "num": 163367,
+        "word": "小三得知我要离婚发的短信",
+        "onboard_time": 1683621988,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 283749,
+        "num": 162622,
+        "word": "因为30万彩礼跟男朋友分手了",
+        "onboard_time": 1683641791,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242106,
+        "num": 162068,
+        "word": "突然发现公积金已经是笔巨款",
+        "onboard_time": 1683622289,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225668,
+        "num": 161397,
+        "word": "白鹿对孙珍妮说小狐狸来生要幸福",
+        "onboard_time": 1683644431,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179037,
+        "num": 160523,
+        "word": "宁安如梦定档时间",
+        "onboard_time": 1683648326,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177878,
+        "num": 159165,
+        "word": "罗云熙说长月烬明虽有憾愿人生圆满",
+        "onboard_time": 1683637411,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170058,
+        "num": 158359,
+        "word": "白夜追凶2",
+        "onboard_time": 1683631229,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123295,
+        "num": 157845,
+        "word": "专家称巴厘岛死亡女孩应系被害",
+        "onboard_time": 1683621329,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89733,
+        "num": 156599,
+        "word": "上海虹桥火车站一女子坠楼仍在抢救",
+        "onboard_time": 1683630389,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56297,
+        "num": 156091,
+        "word": "2022年平均工资",
+        "onboard_time": 1683625527,
+        "rank": 29,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 155719,
+        "num": 155719,
+        "word": "男朋友165但有钱要继续吗",
+        "onboard_time": 1683629789,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226813,
+        "num": 155566,
+        "word": "鹿晗张艺兴同杂志封面",
+        "onboard_time": 1683636450,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188101,
+        "num": 153875,
+        "word": "山西吕梁山革命博物馆明日开馆",
+        "onboard_time": 1683648447,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159730,
+        "num": 152369,
+        "word": "列车命案死者是舞者且专业突出",
+        "onboard_time": 1683648805,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149550,
+        "num": 149550,
+        "word": "孙红雷说张艺兴王一博跳舞是头部",
+        "onboard_time": 1683638551,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144432,
+        "num": 144432,
+        "word": "护心",
+        "onboard_time": 1683628890,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133792,
+        "num": 133792,
+        "word": "极乐净土",
+        "onboard_time": 1683640170,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132973,
+        "num": 132973,
+        "word": "孩子掉地上了来自婆婆的安慰",
+        "onboard_time": 1683642934,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122381,
+        "num": 122381,
+        "word": "护心 太空上放烟花",
+        "onboard_time": 1683648506,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110617,
+        "num": 110617,
+        "word": "王子文金瀚握腰车咚",
+        "onboard_time": 1683643414,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109474,
+        "num": 109474,
+        "word": "时代峰峻代理律师发布律师函",
+        "onboard_time": 1683643050,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105132,
+        "num": 105132,
+        "word": "护心妆造有些潦草",
+        "onboard_time": 1683640769,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104241,
+        "num": 104241,
+        "word": "迪丽热巴机场粉裙造型",
+        "onboard_time": 1683627026,
+        "rank": 42,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 103461,
+        "num": 103461,
+        "word": "考公失败成为了全家之耻",
+        "onboard_time": 1683626849,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99935,
+        "num": 99935,
+        "word": "青簪行",
+        "onboard_time": 1683641132,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96932,
+        "num": 96932,
+        "word": "疑似杨幂母亲已成立娱乐公司",
+        "onboard_time": 1683622170,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96914,
+        "num": 96914,
+        "word": "对减脂餐有不同的理解",
+        "onboard_time": 1683648683,
+        "rank": 46,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 81809,
+        "num": 81809,
+        "word": "RNG",
+        "onboard_time": 1683636869,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 80878,
+        "num": 80878,
+        "word": "2023MSI",
+        "onboard_time": 1683642333,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 80747,
+        "num": 80747,
+        "word": "男子持刀刺伤骑手武警一招制服",
+        "onboard_time": 1683647968,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这就是中国活力#"
+    }
+  }
+}
