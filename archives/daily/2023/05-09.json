@@ -1,6 +1,6 @@
 {
   "startTime": 1683562973147,
-  "endTime": 1683606794782,
+  "endTime": 1683609360006,
   "band_list": [
     {
       "raw_hot": 2683828,
@@ -92,11 +92,27 @@
     },
     {
       "raw_hot": 1386877,
-      "num": 623715,
+      "num": 852538,
       "word": "杨幂解约文案适配分手官宣结婚",
       "onboard_time": 1683602907,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1384007,
+      "num": 1384007,
+      "word": "减肥43斤却费了一条腿",
+      "onboard_time": 1683605428,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1348201,
+      "num": 1348201,
+      "word": "私拆承重墙责任人被采取刑事强制措施",
+      "onboard_time": 1683607115,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1301163,
@@ -155,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1075469,
+      "num": 1075469,
+      "word": "为什么这届年轻人开始断亲",
+      "onboard_time": 1683602488,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1072003,
       "num": 1072003,
       "word": "千万不要再侧躺玩手机",
@@ -171,20 +195,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1037361,
-      "num": 1037361,
-      "word": "为什么这届年轻人开始断亲",
-      "onboard_time": 1683602488,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1022512,
       "num": 1022512,
       "word": "中国驻加拿大使馆回应",
       "onboard_time": 1683590606,
       "rank": 6,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 994273,
+      "num": 994273,
+      "word": "湖人3比1勇士",
+      "onboard_time": 1683607355,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 949837,
@@ -227,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 741549,
+      "num": 741549,
+      "word": "猥亵男被女子揪住后当场下跪求饶",
+      "onboard_time": 1683605670,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 705104,
       "num": 705104,
       "word": "他从火光中走来",
@@ -235,11 +267,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 637507,
+      "num": 637507,
+      "word": "司法部就高铁掌掴事件发声",
+      "onboard_time": 1683606270,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 619076,
       "num": 619076,
       "word": "刘诗诗东方淮竹",
       "onboard_time": 1683603268,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 604780,
+      "num": 604780,
+      "word": "丁真周也竟然认识",
+      "onboard_time": 1683608134,
+      "rank": 14,
       "category": "影视"
     },
     {
@@ -259,8 +307,8 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 558101,
-      "num": 558101,
+      "raw_hot": 558909,
+      "num": 558909,
       "word": "勇士vs湖人",
       "onboard_time": 1683593368,
       "rank": 28,
@@ -307,14 +355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 460989,
-      "num": 460989,
-      "word": "减肥43斤却费了一条腿",
-      "onboard_time": 1683605428,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 458440,
       "num": 458440,
       "word": "美依礼芽的翻译找到了",
@@ -347,6 +387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 426255,
+      "num": 401819,
+      "word": "被白敬亭秒删了的视频",
+      "onboard_time": 1683608430,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 425845,
       "num": 425845,
       "word": "平凡之路全职太太被出轨却不离婚",
@@ -369,6 +417,14 @@
       "onboard_time": 1683554791,
       "rank": 13,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 390759,
+      "num": 390759,
+      "word": "普尔",
+      "onboard_time": 1683608073,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 389457,
@@ -459,20 +515,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 354800,
-      "num": 354800,
-      "word": "猥亵男被女子揪住后当场下跪求饶",
-      "onboard_time": 1683605670,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 349473,
       "num": 349473,
       "word": "巴厘岛命案",
       "onboard_time": 1683536130,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 341712,
+      "num": 341712,
+      "word": "入职之后格格不入的头像",
+      "onboard_time": 1683604769,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 341681,
@@ -483,12 +539,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 323979,
-      "num": 323979,
-      "word": "入职之后格格不入的头像",
-      "onboard_time": 1683604769,
-      "rank": 35,
-      "category": "幽默"
+      "raw_hot": 334966,
+      "num": 334966,
+      "word": "公安机关对高空扔狗男子采取刑事强制措施",
+      "onboard_time": 1683608316,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329118,
+      "num": 329118,
+      "word": "结婚当天建议用的假东西",
+      "onboard_time": 1683608430,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 314703,
@@ -499,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310874,
+      "num": 310874,
+      "word": "张婧仪的眼睛好会爱人",
+      "onboard_time": 1683608734,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 307030,
       "num": 307030,
       "word": "五月天演唱会",
@@ -507,12 +579,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 306960,
+      "num": 306960,
+      "word": "沃克",
+      "onboard_time": 1683608015,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 294058,
       "num": 294058,
       "word": "iPhone14口碑下滑",
       "onboard_time": 1683595048,
       "rank": 40,
       "category": "科技"
+    },
+    {
+      "raw_hot": 292081,
+      "num": 292081,
+      "word": "为什么不理解一个人看电影",
+      "onboard_time": 1683606512,
+      "rank": 43,
+      "category": "情感,影视"
     },
     {
       "raw_hot": 290401,
@@ -595,14 +683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 257745,
-      "num": 257745,
-      "word": "司法部就高铁掌掴事件发声",
-      "onboard_time": 1683606270,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254125,
       "num": 254125,
       "word": "田曦薇梦到作业没写完",
@@ -619,6 +699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 251830,
+      "num": 251830,
+      "word": "李宇春狼尾发型大片",
+      "onboard_time": 1683608494,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 251385,
       "num": 251385,
       "word": "运动会上女生抱起晕倒朋友一路狂奔",
@@ -633,6 +721,14 @@
       "onboard_time": 1683589465,
       "rank": 31,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 247069,
+      "num": 247069,
+      "word": "赵露思宣传周也新剧",
+      "onboard_time": 1683607655,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 243812,
@@ -659,6 +755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 235103,
+      "num": 235103,
+      "word": "湖人勇士",
+      "onboard_time": 1683605972,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234443,
       "num": 234443,
       "word": "格林",
@@ -681,6 +785,14 @@
       "onboard_time": 1683555270,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 231788,
+      "num": 231788,
+      "word": "李莎旻子教美依礼芽说长沙话",
+      "onboard_time": 1683603987,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 230753,
@@ -755,14 +867,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 213458,
-      "num": 213458,
-      "word": "为什么不理解一个人看电影",
-      "onboard_time": 1683606512,
-      "rank": 43,
-      "category": "情感,影视"
-    },
-    {
       "raw_hot": 213040,
       "num": 213040,
       "word": "3D还原火车持刀行凶案",
@@ -795,14 +899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208616,
-      "num": 208616,
-      "word": "湖人勇士",
-      "onboard_time": 1683605972,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 204165,
       "num": 204165,
       "word": "谷爱凌梅西合影",
@@ -817,6 +913,14 @@
       "onboard_time": 1683591151,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201583,
+      "num": 201583,
+      "word": "湖人2比1勇士",
+      "onboard_time": 1683598226,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 200330,
@@ -881,6 +985,14 @@
       "onboard_time": 1683603087,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192005,
+      "num": 192005,
+      "word": "黄景瑜对张婧仪说你再找找",
+      "onboard_time": 1683609210,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 191839,

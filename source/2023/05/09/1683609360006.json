@@ -1,0 +1,410 @@
+{
+  "runTime": 1683609360006,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1802342,
+        "num": 1802342,
+        "word": "杨紫申请强执拉夏贝尔网店25万元",
+        "onboard_time": 1683603208,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1417253,
+        "num": 1417253,
+        "word": "漫长的季节 爹味",
+        "onboard_time": 1683604050,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 58839,
+        "num": 1390634,
+        "word": "打卡中国",
+        "onboard_time": 1683597687,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1384007,
+        "num": 1384007,
+        "word": "减肥43斤却费了一条腿",
+        "onboard_time": 1683605428,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1348201,
+        "num": 1348201,
+        "word": "私拆承重墙责任人被采取刑事强制措施",
+        "onboard_time": 1683607115,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1075469,
+        "num": 1075469,
+        "word": "为什么这届年轻人开始断亲",
+        "onboard_time": 1683602488,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1042890,
+        "num": 1042890,
+        "word": "天官赐福",
+        "onboard_time": 1683602609,
+        "rank": 6,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 994273,
+        "num": 994273,
+        "word": "湖人3比1勇士",
+        "onboard_time": 1683607355,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 939565,
+        "num": 939565,
+        "word": "娜扎 把恋爱脑摔碎",
+        "onboard_time": 1683605249,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 872737,
+        "num": 872737,
+        "word": "五月天抢票",
+        "onboard_time": 1683594509,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1269351,
+        "num": 852538,
+        "word": "杨幂解约文案适配分手官宣结婚",
+        "onboard_time": 1683602907,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 741549,
+        "num": 741549,
+        "word": "猥亵男被女子揪住后当场下跪求饶",
+        "onboard_time": 1683605670,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 684914,
+        "num": 684914,
+        "word": "女演员近10年无戏演再见观众哭了",
+        "onboard_time": 1683594929,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637507,
+        "num": 637507,
+        "word": "司法部就高铁掌掴事件发声",
+        "onboard_time": 1683606270,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604780,
+        "num": 604780,
+        "word": "丁真周也竟然认识",
+        "onboard_time": 1683608134,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 558909,
+        "num": 558909,
+        "word": "勇士vs湖人",
+        "onboard_time": 1683593368,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 533323,
+        "num": 533323,
+        "word": "女子裸贷5千仅4个月变欠款百万",
+        "onboard_time": 1683560668,
+        "rank": 16,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 449409,
+        "num": 449409,
+        "word": "刘诗诗东方淮竹",
+        "onboard_time": 1683603268,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 425940,
+        "num": 425940,
+        "word": "胡锡进 火车上男乘客为什么没参与制服凶手",
+        "onboard_time": 1683587001,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407528,
+        "num": 407528,
+        "word": "他从火光中走来",
+        "onboard_time": 1683598527,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1130613,
+        "num": 402726,
+        "word": "给不起彩礼却买了20万的车",
+        "onboard_time": 1683602788,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 426255,
+        "num": 401819,
+        "word": "被白敬亭秒删了的视频",
+        "onboard_time": 1683608430,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 411443,
+        "num": 396529,
+        "word": "私企1万编制5千选哪个",
+        "onboard_time": 1683605370,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 390759,
+        "num": 390759,
+        "word": "普尔",
+        "onboard_time": 1683608073,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351969,
+        "num": 351969,
+        "word": "谁抢到了五月天门票",
+        "onboard_time": 1683602366,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 346180,
+        "num": 346180,
+        "word": "上海20岁女子被3万卖到安徽当新娘",
+        "onboard_time": 1683600506,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341712,
+        "num": 341712,
+        "word": "入职之后格格不入的头像",
+        "onboard_time": 1683604769,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 334966,
+        "num": 334966,
+        "word": "公安机关对高空扔狗男子采取刑事强制措施",
+        "onboard_time": 1683608316,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329118,
+        "num": 329118,
+        "word": "结婚当天建议用的假东西",
+        "onboard_time": 1683608430,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 328988,
+        "num": 328988,
+        "word": "五一成绩单四川湖南表现惨淡",
+        "onboard_time": 1683601107,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310874,
+        "num": 310874,
+        "word": "张婧仪的眼睛好会爱人",
+        "onboard_time": 1683608734,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306960,
+        "num": 306960,
+        "word": "沃克",
+        "onboard_time": 1683608015,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306245,
+        "num": 306245,
+        "word": "谷爱凌将继续为中国队出战",
+        "onboard_time": 1683589044,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302025,
+        "num": 302025,
+        "word": "一夜醒来欠了地铁600多万",
+        "onboard_time": 1683552449,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 292081,
+        "num": 292081,
+        "word": "为什么不理解一个人看电影",
+        "onboard_time": 1683606512,
+        "rank": 34,
+        "category": "情感,影视"
+      },
+      {
+        "raw_hot": 279744,
+        "num": 279744,
+        "word": "现实版高启兰",
+        "onboard_time": 1683588984,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251830,
+        "num": 251830,
+        "word": "李宇春狼尾发型大片",
+        "onboard_time": 1683608494,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 247069,
+        "num": 247069,
+        "word": "赵露思宣传周也新剧",
+        "onboard_time": 1683607655,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235103,
+        "num": 235103,
+        "word": "湖人勇士",
+        "onboard_time": 1683605972,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234724,
+        "num": 234724,
+        "word": "aespa成第一个首日销售额破亿女团",
+        "onboard_time": 1683596666,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231788,
+        "num": 231788,
+        "word": "李莎旻子教美依礼芽说长沙话",
+        "onboard_time": 1683603987,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225909,
+        "num": 225909,
+        "word": "瘦了二十斤后手部的变化",
+        "onboard_time": 1683557013,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230564,
+        "num": 225561,
+        "word": "美依礼芽的翻译找到了",
+        "onboard_time": 1683545728,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221524,
+        "num": 221524,
+        "word": "嘉行删除杨幂照片",
+        "onboard_time": 1683540690,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201583,
+        "num": 201583,
+        "word": "湖人2比1勇士",
+        "onboard_time": 1683598226,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201195,
+        "num": 201195,
+        "word": "胡锡进称宣扬自保主义是悲哀",
+        "onboard_time": 1683604110,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192057,
+        "num": 192057,
+        "word": "假如陈都灵没进娱乐圈",
+        "onboard_time": 1683554132,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192005,
+        "num": 192005,
+        "word": "黄景瑜对张婧仪说你再找找",
+        "onboard_time": 1683609210,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 51134,
+        "num": 191760,
+        "word": "张艺兴时装男士五月封面",
+        "onboard_time": 1683604651,
+        "rank": 48,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 45730,
+        "num": 190741,
+        "word": "久酱转场好可爱",
+        "onboard_time": 1683604528,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见第十届世界华侨华人社团联谊大会代表#"
+    }
+  }
+}
