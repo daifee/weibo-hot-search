@@ -1,0 +1,410 @@
+{
+  "runTime": 1683599698420,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1809985,
+        "num": 1809985,
+        "word": "女演员近10年无戏演再见观众哭了",
+        "onboard_time": 1683594929,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1433238,
+        "num": 1433238,
+        "word": "现实版高启兰",
+        "onboard_time": 1683588984,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74791,
+        "num": 1337520,
+        "word": "打卡中国",
+        "onboard_time": 1683597687,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1325734,
+        "num": 1325734,
+        "word": "胡锡进 火车上男乘客为什么没参与制服凶手",
+        "onboard_time": 1683587001,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858056,
+        "num": 858056,
+        "word": "谷爱凌将继续为中国队出战",
+        "onboard_time": 1683589044,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 843392,
+        "num": 843392,
+        "word": "36岁常青藤毕业确诊癌症后反而很开心",
+        "onboard_time": 1683555392,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 804139,
+        "num": 804139,
+        "word": "中秋国庆休8天上7天",
+        "onboard_time": 1683542310,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735165,
+        "num": 735165,
+        "word": "体制外的人会羡慕体制内的工作吗",
+        "onboard_time": 1683596547,
+        "rank": 7,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 717029,
+        "num": 717029,
+        "word": "瘦了二十斤后手部的变化",
+        "onboard_time": 1683557013,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 607490,
+        "num": 607490,
+        "word": "杨洋一番爆剧",
+        "onboard_time": 1683557914,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 832296,
+        "num": 607324,
+        "word": "6岁娃意外死亡父亲收3万签谅解书",
+        "onboard_time": 1683597988,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576603,
+        "num": 576603,
+        "word": "假如陈都灵没进娱乐圈",
+        "onboard_time": 1683554132,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 553212,
+        "num": 553212,
+        "word": "千万不要再侧躺玩手机",
+        "onboard_time": 1683561986,
+        "rank": 12,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 543758,
+        "num": 543758,
+        "word": "嘉行删除杨幂照片",
+        "onboard_time": 1683540690,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 531517,
+        "num": 531517,
+        "word": "五月天抢票",
+        "onboard_time": 1683594509,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 470648,
+        "num": 470648,
+        "word": "易烊千玺刘艳芬终章上线",
+        "onboard_time": 1683599189,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 452419,
+        "num": 452419,
+        "word": "女子裸贷5千仅4个月变欠款百万",
+        "onboard_time": 1683560668,
+        "rank": 16,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 410368,
+        "num": 410368,
+        "word": "aespa成第一个首日销售额破亿女团",
+        "onboard_time": 1683596666,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 406609,
+        "num": 406609,
+        "word": "一夜醒来欠了地铁600多万",
+        "onboard_time": 1683552449,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 403331,
+        "num": 403331,
+        "word": "杨幂各行业都有代表作",
+        "onboard_time": 1683596425,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437378,
+        "num": 398875,
+        "word": "男朋友说生完孩子要做亲子鉴定",
+        "onboard_time": 1683557133,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 389457,
+        "num": 389457,
+        "word": "内部人员称不排除安检后拿到刀",
+        "onboard_time": 1683594329,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381683,
+        "num": 381683,
+        "word": "春色寄情人",
+        "onboard_time": 1683596368,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327829,
+        "num": 327829,
+        "word": "他从火光中走来",
+        "onboard_time": 1683598527,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294058,
+        "num": 294058,
+        "word": "iPhone14口碑下滑",
+        "onboard_time": 1683595048,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 288753,
+        "num": 288753,
+        "word": "上海展会外国人插队领冰淇淋被拒",
+        "onboard_time": 1683594450,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263894,
+        "num": 263894,
+        "word": "宝妈回应生3儿1女后又怀四胞胎",
+        "onboard_time": 1683587723,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261555,
+        "num": 261555,
+        "word": "勇士vs湖人",
+        "onboard_time": 1683593368,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254125,
+        "num": 254125,
+        "word": "田曦薇梦到作业没写完",
+        "onboard_time": 1683594749,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243298,
+        "num": 243298,
+        "word": "美依礼芽的翻译找到了",
+        "onboard_time": 1683545728,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229771,
+        "num": 229771,
+        "word": "考上编制后你还会离职吗",
+        "onboard_time": 1683587541,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229301,
+        "num": 229301,
+        "word": "洛阳规划局",
+        "onboard_time": 1683592469,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221192,
+        "num": 221192,
+        "word": "巴厘岛",
+        "onboard_time": 1683593492,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212820,
+        "num": 212820,
+        "word": "平凡之路全职太太被出轨却不离婚",
+        "onboard_time": 1683565039,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179435,
+        "num": 211400,
+        "word": "大叔8年进山捡垃圾13900余斤",
+        "onboard_time": 1683599486,
+        "rank": 34,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 211138,
+        "num": 211138,
+        "word": "种地吧 第二季",
+        "onboard_time": 1683589589,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306636,
+        "num": 208864,
+        "word": "杨幂解约和七年前发的微博呼应上了",
+        "onboard_time": 1683541893,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204911,
+        "num": 204911,
+        "word": "长相思",
+        "onboard_time": 1683587963,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198373,
+        "num": 198373,
+        "word": "躺着玩手机的最佳姿势",
+        "onboard_time": 1683597566,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170833,
+        "num": 197909,
+        "word": "地震瞬间老师冲进教室带孩子撤离",
+        "onboard_time": 1683596067,
+        "rank": 39,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 197854,
+        "num": 197854,
+        "word": "热火3比1尼克斯",
+        "onboard_time": 1683599666,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191884,
+        "num": 191884,
+        "word": "谷爱凌梅西合影",
+        "onboard_time": 1683594028,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187094,
+        "num": 187094,
+        "word": "嘉行",
+        "onboard_time": 1683595888,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186765,
+        "num": 186765,
+        "word": "他从火光中走来烈火小队海报",
+        "onboard_time": 1683598768,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185427,
+        "num": 185427,
+        "word": "中公教育回应88.8万定制课",
+        "onboard_time": 1683589465,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 166675,
+        "num": 166675,
+        "word": "五月天演唱会",
+        "onboard_time": 1683598286,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159458,
+        "num": 159458,
+        "word": "金泰妍演唱会官宣香港场",
+        "onboard_time": 1683599666,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126477,
+        "num": 157732,
+        "word": "网红城市菏泽现在什么样",
+        "onboard_time": 1683588143,
+        "rank": 47,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 68662,
+        "num": 157539,
+        "word": "无畏",
+        "onboard_time": 1683587903,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 39120,
+        "num": 157502,
+        "word": "无畏直播",
+        "onboard_time": 1683550830,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见第十届世界华侨华人社团联谊大会代表#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1683562973147,
-  "endTime": 1683596855062,
+  "endTime": 1683599698420,
   "band_list": [
     {
       "raw_hot": 2376314,
@@ -11,11 +11,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1809985,
+      "num": 1809985,
+      "word": "女演员近10年无戏演再见观众哭了",
+      "onboard_time": 1683594929,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1756048,
       "num": 1756048,
       "word": "中秋国庆休8天上7天",
       "onboard_time": 1683542310,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1433238,
+      "num": 1433238,
+      "word": "现实版高启兰",
+      "onboard_time": 1683588984,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -43,28 +59,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1217480,
-      "num": 1217480,
-      "word": "女演员近10年无戏演再见观众哭了",
-      "onboard_time": 1683594929,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1184772,
       "num": 1184772,
       "word": "一夜醒来欠了地铁600多万",
       "onboard_time": 1683552449,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1117582,
-      "num": 1117582,
-      "word": "现实版高启兰",
-      "onboard_time": 1683588984,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1086163,
@@ -99,11 +99,27 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 843392,
+      "num": 843392,
+      "word": "36岁常青藤毕业确诊癌症后反而很开心",
+      "onboard_time": 1683555392,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 843206,
       "num": 843206,
       "word": "考上编制后你还会离职吗",
       "onboard_time": 1683587541,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 832296,
+      "num": 607324,
+      "word": "6岁娃意外死亡父亲收3万签谅解书",
+      "onboard_time": 1683597988,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -115,12 +131,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 694174,
-      "num": 694174,
-      "word": "36岁常青藤毕业确诊癌症后反而很开心",
-      "onboard_time": 1683555392,
-      "rank": 18,
-      "category": "情感"
+      "raw_hot": 735165,
+      "num": 735165,
+      "word": "体制外的人会羡慕体制内的工作吗",
+      "onboard_time": 1683596547,
+      "rank": 35,
+      "category": "社会议题"
     },
     {
       "raw_hot": 692629,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 571785,
-      "num": 373838,
+      "num": 398875,
       "word": "男朋友说生完孩子要做亲子鉴定",
       "onboard_time": 1683557133,
       "rank": 20,
@@ -155,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 531517,
+      "num": 531517,
+      "word": "五月天抢票",
+      "onboard_time": 1683594509,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 515154,
       "num": 515154,
       "word": "洛阳规划局",
@@ -163,20 +187,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 514553,
-      "num": 514553,
-      "word": "五月天抢票",
-      "onboard_time": 1683594509,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 511629,
       "num": 511629,
       "word": "嘉行法人曾嘉曾是杨幂经纪人",
       "onboard_time": 1683550350,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 470648,
+      "num": 470648,
+      "word": "易烊千玺刘艳芬终章上线",
+      "onboard_time": 1683599189,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 458440,
@@ -203,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 410368,
+      "num": 410368,
+      "word": "aespa成第一个首日销售额破亿女团",
+      "onboard_time": 1683596666,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 407804,
       "num": 407804,
       "word": "种地吧 第二季",
@@ -217,6 +249,22 @@
       "onboard_time": 1683554791,
       "rank": 13,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 389457,
+      "num": 389457,
+      "word": "内部人员称不排除安检后拿到刀",
+      "onboard_time": 1683594329,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381683,
+      "num": 381683,
+      "word": "春色寄情人",
+      "onboard_time": 1683596368,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 378605,
@@ -259,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 355060,
-      "num": 355060,
-      "word": "内部人员称不排除安检后拿到刀",
-      "onboard_time": 1683594329,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 349473,
       "num": 349473,
       "word": "巴厘岛命案",
@@ -283,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327829,
+      "num": 327829,
+      "word": "他从火光中走来",
+      "onboard_time": 1683598527,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 314703,
       "num": 314703,
       "word": "宝妈回应生3儿1女后又怀四胞胎",
@@ -291,8 +339,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 287633,
-      "num": 287633,
+      "raw_hot": 294058,
+      "num": 294058,
       "word": "iPhone14口碑下滑",
       "onboard_time": 1683595048,
       "rank": 40,
@@ -353,6 +401,14 @@
       "onboard_time": 1683558453,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 254125,
+      "num": 254125,
+      "word": "田曦薇梦到作业没写完",
+      "onboard_time": 1683594749,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 251385,
@@ -443,12 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205790,
-      "num": 205790,
-      "word": "体制外的人会羡慕体制内的工作吗",
-      "onboard_time": 1683596547,
-      "rank": 35,
-      "category": "社会议题"
+      "raw_hot": 204911,
+      "num": 204911,
+      "word": "长相思",
+      "onboard_time": 1683587963,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 204165,
@@ -475,6 +531,22 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 198373,
+      "num": 198373,
+      "word": "躺着玩手机的最佳姿势",
+      "onboard_time": 1683597566,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 197854,
+      "num": 197854,
+      "word": "热火3比1尼克斯",
+      "onboard_time": 1683599666,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193243,
       "num": 193243,
       "word": "王力宏陶喆同框",
@@ -499,28 +571,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186228,
-      "num": 186228,
-      "word": "春色寄情人",
-      "onboard_time": 1683596368,
-      "rank": 40,
+      "raw_hot": 186765,
+      "num": 186765,
+      "word": "他从火光中走来烈火小队海报",
+      "onboard_time": 1683598768,
+      "rank": 43,
       "category": "影视"
     },
     {
-      "raw_hot": 182650,
-      "num": 182650,
-      "word": "田曦薇梦到作业没写完",
-      "onboard_time": 1683594749,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 177244,
-      "num": 177244,
-      "word": "aespa成第一个首日销售额破亿女团",
-      "onboard_time": 1683596666,
-      "rank": 42,
-      "category": "音乐"
+      "raw_hot": 179435,
+      "num": 211400,
+      "word": "大叔8年进山捡垃圾13900余斤",
+      "onboard_time": 1683599486,
+      "rank": 34,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 175739,
@@ -547,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170833,
+      "num": 197909,
+      "word": "地震瞬间老师冲进教室带孩子撤离",
+      "onboard_time": 1683596067,
+      "rank": 45,
+      "category": "社会正能量,教育"
+    },
+    {
       "raw_hot": 170159,
       "num": 170159,
       "word": "易烊千玺穿短裤了",
@@ -555,12 +627,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157280,
-      "num": 157280,
-      "word": "地震瞬间老师冲进教室带孩子撤离",
-      "onboard_time": 1683596067,
+      "raw_hot": 166675,
+      "num": 166675,
+      "word": "五月天演唱会",
+      "onboard_time": 1683598286,
       "rank": 45,
-      "category": "社会正能量,教育"
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 159458,
+      "num": 159458,
+      "word": "金泰妍演唱会官宣香港场",
+      "onboard_time": 1683599666,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 157169,
@@ -620,7 +700,7 @@
     },
     {
       "raw_hot": 134261,
-      "num": 135780,
+      "num": 157502,
       "word": "无畏直播",
       "onboard_time": 1683550830,
       "rank": 39,
@@ -665,14 +745,6 @@
       "onboard_time": 1683562587,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122733,
-      "num": 122733,
-      "word": "长相思",
-      "onboard_time": 1683587963,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 122082,
@@ -740,7 +812,7 @@
     },
     {
       "raw_hot": 80504,
-      "num": 135828,
+      "num": 157539,
       "word": "无畏",
       "onboard_time": 1683587903,
       "rank": 48,
@@ -777,6 +849,14 @@
       "onboard_time": 1683525090,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74791,
+      "num": 1337520,
+      "word": "打卡中国",
+      "onboard_time": 1683597687,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72746,
