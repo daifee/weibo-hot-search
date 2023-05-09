@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683642852455,
+  "endTime": 1683645544320,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -155,6 +155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2167110,
+      "num": 2167110,
+      "word": "苹果天气",
+      "onboard_time": 1683639629,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 2166523,
       "num": 2166523,
       "word": "一夜醒来欠了地铁600多万",
@@ -185,14 +193,6 @@
       "onboard_time": 1683505348,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2126647,
-      "num": 2126647,
-      "word": "苹果天气",
-      "onboard_time": 1683639629,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 1937119,
@@ -707,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1022846,
+      "num": 696826,
+      "word": "鹿晗的关注列表",
+      "onboard_time": 1683640651,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1022512,
       "num": 1022512,
       "word": "中国驻加拿大使馆回应",
@@ -761,14 +769,6 @@
       "onboard_time": 1683618328,
       "rank": 1,
       "category": "军事"
-    },
-    {
-      "raw_hot": 974676,
-      "num": 696826,
-      "word": "鹿晗的关注列表",
-      "onboard_time": 1683640651,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 949837,
@@ -1251,6 +1251,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 544266,
+      "num": 544266,
+      "word": "杰克辣条已被取消阜南好人称号",
+      "onboard_time": 1683642572,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 541156,
+      "num": 250350,
+      "word": "因为30万彩礼跟男朋友分手了",
+      "onboard_time": 1683641791,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 540892,
       "num": 540892,
       "word": "海口两男子试驾被拒后大闹酒店",
@@ -1571,14 +1587,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 420320,
-      "num": 210603,
-      "word": "因为30万彩礼跟男朋友分手了",
-      "onboard_time": 1683641791,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 418003,
       "num": 418003,
       "word": "黄景瑜对张婧仪说你再找找",
@@ -1657,6 +1665,14 @@
       "onboard_time": 1683515187,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 400554,
+      "num": 247232,
+      "word": "血鹦鹉 一种鱼生遭罪的鱼",
+      "onboard_time": 1683644069,
+      "rank": 31,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 399496,
@@ -1788,7 +1804,7 @@
     },
     {
       "raw_hot": 376310,
-      "num": 220793,
+      "num": 281010,
       "word": "极乐净土",
       "onboard_time": 1683465994,
       "rank": 28,
@@ -1979,6 +1995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 350269,
+      "num": 248175,
+      "word": "白鹿对孙珍妮说小狐狸来生要幸福",
+      "onboard_time": 1683644431,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 349342,
       "num": 292465,
       "word": "曾嘉 嘉行",
@@ -2100,7 +2124,7 @@
     },
     {
       "raw_hot": 331818,
-      "num": 220474,
+      "num": 247695,
       "word": "青簪行",
       "onboard_time": 1683641132,
       "rank": 27,
@@ -2228,7 +2252,7 @@
     },
     {
       "raw_hot": 305550,
-      "num": 207627,
+      "num": 211657,
       "word": "护心妆造有些潦草",
       "onboard_time": 1683640769,
       "rank": 33,
@@ -2257,6 +2281,14 @@
       "onboard_time": 1683629789,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 301944,
+      "num": 247719,
+      "word": "时代峰峻代理律师发布律师函",
+      "onboard_time": 1683643050,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 301389,
@@ -2595,6 +2627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265298,
+      "num": 247208,
+      "word": "张婧仪上错车",
+      "onboard_time": 1683644913,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 264742,
       "num": 264742,
       "word": "哈尔滨承重墙",
@@ -2699,12 +2739,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 255359,
+      "num": 255359,
+      "word": "母亲节礼物",
+      "onboard_time": 1683644191,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 255286,
       "num": 255286,
       "word": "虞书欣的男主运",
       "onboard_time": 1683541531,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254793,
+      "num": 247350,
+      "word": "孩子掉地上了来自婆婆的安慰",
+      "onboard_time": 1683642934,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 254125,
@@ -2787,12 +2843,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 247920,
+      "num": 247920,
+      "word": "巴基斯坦前总理被捕",
+      "onboard_time": 1683642092,
+      "rank": 33,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 247307,
       "num": 247307,
       "word": "五月天明天抢票",
       "onboard_time": 1683556173,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 247110,
+      "num": 247110,
+      "word": "王子文金瀚握腰车咚",
+      "onboard_time": 1683643414,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 247069,
@@ -3257,14 +3329,6 @@
       "onboard_time": 1683515488,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 206765,
-      "num": 206765,
-      "word": "巴基斯坦前总理被捕",
-      "onboard_time": 1683642092,
-      "rank": 33,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 205884,
@@ -3763,6 +3827,14 @@
       "category": "财经,艺人"
     },
     {
+      "raw_hot": 171181,
+      "num": 171181,
+      "word": "杭州女生地铁上隔空收到不雅照",
+      "onboard_time": 1683644972,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170257,
       "num": 170257,
       "word": "宇宙探索编辑部",
@@ -3835,6 +3907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 165260,
+      "num": 165260,
+      "word": "温州一男子用小刀割断看门猫尾巴",
+      "onboard_time": 1683644792,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164946,
       "num": 164946,
       "word": "博物馆发公告称馆长被区长推倒受伤",
@@ -3881,14 +3961,6 @@
       "onboard_time": 1683448291,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 159195,
-      "num": 159195,
-      "word": "杰克辣条已被取消阜南好人称号",
-      "onboard_time": 1683642572,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158950,
@@ -4305,6 +4377,14 @@
       "onboard_time": 1683476068,
       "rank": 49,
       "category": "幽默,科技"
+    },
+    {
+      "raw_hot": 103584,
+      "num": 119820,
+      "word": "汪曾祺 大学生大都爱吃",
+      "onboard_time": 1683641670,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 100694,
