@@ -1,6 +1,6 @@
 {
   "startTime": 1683562973147,
-  "endTime": 1683613341428,
+  "endTime": 1683614101312,
   "band_list": [
     {
       "raw_hot": 2683828,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1226324,
+      "num": 1226324,
+      "word": "为什么这届年轻人开始断亲",
+      "onboard_time": 1683602488,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1184772,
       "num": 1184772,
       "word": "一夜醒来欠了地铁600多万",
@@ -160,14 +168,6 @@
       "word": "给不起彩礼却买了20万的车",
       "onboard_time": 1683602788,
       "rank": 23,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 1102206,
-      "num": 1102206,
-      "word": "为什么这届年轻人开始断亲",
-      "onboard_time": 1683602488,
-      "rank": 35,
       "category": "情感"
     },
     {
@@ -217,6 +217,14 @@
       "onboard_time": 1683607355,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 988898,
+      "num": 988898,
+      "word": "结婚当天建议用的假东西",
+      "onboard_time": 1683608430,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 949837,
@@ -275,12 +283,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 743491,
-      "num": 743491,
-      "word": "结婚当天建议用的假东西",
-      "onboard_time": 1683608430,
-      "rank": 28,
-      "category": "情感"
+      "raw_hot": 750654,
+      "num": 750654,
+      "word": "广州地铁回应乘客欠600多万巨款",
+      "onboard_time": 1683611846,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 705104,
@@ -395,20 +403,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 514104,
-      "num": 514104,
-      "word": "广州地铁回应乘客欠600多万巨款",
-      "onboard_time": 1683611846,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 511629,
       "num": 511629,
       "word": "嘉行法人曾嘉曾是杨幂经纪人",
       "onboard_time": 1683550350,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 480525,
+      "num": 480525,
+      "word": "大脑发育30岁才完成",
+      "onboard_time": 1683611727,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 458440,
@@ -459,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 418003,
+      "num": 418003,
+      "word": "黄景瑜对张婧仪说你再找找",
+      "onboard_time": 1683609210,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 407804,
       "num": 407804,
       "word": "种地吧 第二季",
@@ -481,14 +497,6 @@
       "onboard_time": 1683594329,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 384829,
-      "num": 384829,
-      "word": "黄景瑜对张婧仪说你再找找",
-      "onboard_time": 1683609210,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 383364,
@@ -579,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 343830,
+      "num": 343830,
+      "word": "长月烬明大结局",
+      "onboard_time": 1683613528,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 341712,
       "num": 341712,
       "word": "入职之后格格不入的头像",
@@ -619,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 313857,
-      "num": 313857,
-      "word": "大脑发育30岁才完成",
-      "onboard_time": 1683611727,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 307030,
       "num": 307030,
       "word": "五月天演唱会",
@@ -649,6 +657,14 @@
       "onboard_time": 1683609151,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 299983,
+      "num": 299983,
+      "word": "宁安如梦",
+      "onboard_time": 1683613167,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 294058,
@@ -681,6 +697,14 @@
       "onboard_time": 1683595888,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 282701,
+      "num": 282701,
+      "word": "加拿大",
+      "onboard_time": 1683613767,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281328,
@@ -731,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269464,
+      "num": 269464,
+      "word": "35岁你会发现工作是没有意义的",
+      "onboard_time": 1683611306,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 268591,
       "num": 268591,
       "word": "领英职场将关停",
@@ -745,14 +777,6 @@
       "onboard_time": 1683611067,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260003,
-      "num": 260003,
-      "word": "35岁你会发现工作是没有意义的",
-      "onboard_time": 1683611306,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 259077,
@@ -800,6 +824,14 @@
       "word": "运动会上女生抱起晕倒朋友一路狂奔",
       "onboard_time": 1683591570,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249590,
+      "num": 249590,
+      "word": "午睡过久会长胖吗",
+      "onboard_time": 1683612929,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -923,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224917,
+      "num": 224917,
+      "word": "为了考上编制可以有多努力",
+      "onboard_time": 1683612686,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 223470,
       "num": 223470,
       "word": "反正她会成功的",
@@ -969,6 +1009,14 @@
       "onboard_time": 1683543810,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213073,
+      "num": 213073,
+      "word": "白鹿奔跑吧嫦娥造型",
+      "onboard_time": 1683613046,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 213040,
@@ -1043,14 +1091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200411,
-      "num": 200411,
-      "word": "宁安如梦",
-      "onboard_time": 1683613167,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 200330,
       "num": 200330,
       "word": "金泰妍演唱会官宣香港场",
@@ -1081,14 +1121,6 @@
       "onboard_time": 1683605428,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 194881,
-      "num": 194881,
-      "word": "白鹿奔跑吧嫦娥造型",
-      "onboard_time": 1683613046,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 194739,
@@ -1131,22 +1163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190525,
-      "num": 190525,
-      "word": "午睡过久会长胖吗",
-      "onboard_time": 1683612929,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189790,
-      "num": 189790,
-      "word": "为了考上编制可以有多努力",
-      "onboard_time": 1683612686,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 188992,
       "num": 197909,
       "word": "地震瞬间老师冲进教室带孩子撤离",
@@ -1177,6 +1193,14 @@
       "onboard_time": 1683560069,
       "rank": 28,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 174447,
+      "num": 174447,
+      "word": "李承铉说不生三胎是因为妈妈很辛苦",
+      "onboard_time": 1683614009,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 174005,
@@ -1492,7 +1516,7 @@
     },
     {
       "raw_hot": 25492,
-      "num": 200538,
+      "num": 226089,
       "word": "快手引力大会闪耀黄浦江",
       "onboard_time": 1683612025,
       "rank": 39,

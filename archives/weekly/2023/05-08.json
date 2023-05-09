@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683613341428,
+  "endTime": 1683614101312,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -451,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1226324,
+      "num": 1226324,
+      "word": "为什么这届年轻人开始断亲",
+      "onboard_time": 1683602488,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1226305,
       "num": 1215364,
       "word": "比亚迪本月离职名额已满",
@@ -523,14 +531,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1102206,
-      "num": 1102206,
-      "word": "为什么这届年轻人开始断亲",
-      "onboard_time": 1683602488,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1096677,
       "num": 1096677,
       "word": "美依礼芽的翻译找到了",
@@ -593,6 +593,14 @@
       "onboard_time": 1683607355,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 988898,
+      "num": 988898,
+      "word": "结婚当天建议用的假东西",
+      "onboard_time": 1683608430,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 984630,
@@ -739,12 +747,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 743491,
-      "num": 743491,
-      "word": "结婚当天建议用的假东西",
-      "onboard_time": 1683608430,
-      "rank": 28,
-      "category": "情感"
+      "raw_hot": 750654,
+      "num": 750654,
+      "word": "广州地铁回应乘客欠600多万巨款",
+      "onboard_time": 1683611846,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 740571,
@@ -1043,14 +1051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 514104,
-      "num": 514104,
-      "word": "广州地铁回应乘客欠600多万巨款",
-      "onboard_time": 1683611846,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 512627,
       "num": 512627,
       "word": "ZARA被曝试衣间镜子比帘子长一截",
@@ -1081,6 +1081,14 @@
       "onboard_time": 1683526050,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 480525,
+      "num": 480525,
+      "word": "大脑发育30岁才完成",
+      "onboard_time": 1683611727,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 471755,
@@ -1235,6 +1243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 418003,
+      "num": 418003,
+      "word": "黄景瑜对张婧仪说你再找找",
+      "onboard_time": 1683609210,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 413853,
       "num": 413853,
       "word": "约基奇 太阳老板",
@@ -1329,14 +1345,6 @@
       "onboard_time": 1683540812,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 384829,
-      "num": 384829,
-      "word": "黄景瑜对张婧仪说你再找找",
-      "onboard_time": 1683609210,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 383364,
@@ -1571,6 +1579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 343830,
+      "num": 343830,
+      "word": "长月烬明大结局",
+      "onboard_time": 1683613528,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 343352,
       "num": 343352,
       "word": "女子因琐事太多从体制内裸辞",
@@ -1715,14 +1731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 313857,
-      "num": 313857,
-      "word": "大脑发育30岁才完成",
-      "onboard_time": 1683611727,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 309378,
       "num": 309378,
       "word": "男子1天吃10顿暴瘦110斤",
@@ -1801,6 +1809,14 @@
       "onboard_time": 1683468096,
       "rank": 19,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 299983,
+      "num": 299983,
+      "word": "宁安如梦",
+      "onboard_time": 1683613167,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 299677,
@@ -1915,6 +1931,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 282701,
+      "num": 282701,
+      "word": "加拿大",
+      "onboard_time": 1683613767,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280578,
       "num": 280578,
       "word": "内娱顶级剧抛脸",
@@ -1987,6 +2011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269464,
+      "num": 269464,
+      "word": "35岁你会发现工作是没有意义的",
+      "onboard_time": 1683611306,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 268800,
       "num": 268800,
       "word": "辽宁男篮总决赛开门红",
@@ -2033,14 +2065,6 @@
       "onboard_time": 1683521071,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 260003,
-      "num": 260003,
-      "word": "35岁你会发现工作是没有意义的",
-      "onboard_time": 1683611306,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 259077,
@@ -2137,6 +2161,14 @@
       "onboard_time": 1683465271,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 249590,
+      "num": 249590,
+      "word": "午睡过久会长胖吗",
+      "onboard_time": 1683612929,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248793,
@@ -2371,6 +2403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 224917,
+      "num": 224917,
+      "word": "为了考上编制可以有多努力",
+      "onboard_time": 1683612686,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 224779,
       "num": 224779,
       "word": "呼吁动物保护法",
@@ -2481,6 +2521,14 @@
       "onboard_time": 1683510688,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 213073,
+      "num": 213073,
+      "word": "白鹿奔跑吧嫦娥造型",
+      "onboard_time": 1683613046,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 213040,
@@ -2627,14 +2675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200411,
-      "num": 200411,
-      "word": "宁安如梦",
-      "onboard_time": 1683613167,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 200330,
       "num": 200330,
       "word": "金泰妍演唱会官宣香港场",
@@ -2723,14 +2763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194881,
-      "num": 194881,
-      "word": "白鹿奔跑吧嫦娥造型",
-      "onboard_time": 1683613046,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194739,
       "num": 194739,
       "word": "杨千嬅演唱会",
@@ -2787,14 +2819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190525,
-      "num": 190525,
-      "word": "午睡过久会长胖吗",
-      "onboard_time": 1683612929,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190291,
       "num": 190291,
       "word": "aster",
@@ -2809,14 +2833,6 @@
       "onboard_time": 1683550830,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 189790,
-      "num": 189790,
-      "word": "为了考上编制可以有多努力",
-      "onboard_time": 1683612686,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 189383,
@@ -2969,6 +2985,14 @@
       "onboard_time": 1683548610,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 174447,
+      "num": 174447,
+      "word": "李承铉说不生三胎是因为妈妈很辛苦",
+      "onboard_time": 1683614009,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 174265,
@@ -3652,7 +3676,7 @@
     },
     {
       "raw_hot": 25492,
-      "num": 200538,
+      "num": 226089,
       "word": "快手引力大会闪耀黄浦江",
       "onboard_time": 1683612025,
       "rank": 39,

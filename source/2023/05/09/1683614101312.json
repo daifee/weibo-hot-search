@@ -1,0 +1,410 @@
+{
+  "runTime": 1683614101312,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1467186,
+        "num": 1467186,
+        "word": "中方要求甄逸慧5月13日前离华",
+        "onboard_time": 1683610349,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1226324,
+        "num": 1226324,
+        "word": "为什么这届年轻人开始断亲",
+        "onboard_time": 1683602488,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50287,
+        "num": 1115267,
+        "word": "打卡中国",
+        "onboard_time": 1683597687,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1011729,
+        "num": 1011729,
+        "word": "杨紫申请强执拉夏贝尔网店25万元",
+        "onboard_time": 1683603208,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 988898,
+        "num": 988898,
+        "word": "结婚当天建议用的假东西",
+        "onboard_time": 1683608430,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 937005,
+        "num": 937005,
+        "word": "娜扎 把恋爱脑摔碎",
+        "onboard_time": 1683605249,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 750654,
+        "num": 750654,
+        "word": "广州地铁回应乘客欠600多万巨款",
+        "onboard_time": 1683611846,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745310,
+        "num": 745310,
+        "word": "猥亵男被女子揪住后当场下跪求饶",
+        "onboard_time": 1683605670,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 718999,
+        "num": 718999,
+        "word": "中方对加拿大采取对等反制措施",
+        "onboard_time": 1683609869,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 685027,
+        "num": 685027,
+        "word": "天官赐福",
+        "onboard_time": 1683602609,
+        "rank": 9,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 822266,
+        "num": 672598,
+        "word": "杨幂解约文案适配分手官宣结婚",
+        "onboard_time": 1683602907,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 584412,
+        "num": 584412,
+        "word": "私拆承重墙责任人被采取刑事强制措施",
+        "onboard_time": 1683607115,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534515,
+        "num": 534515,
+        "word": "粉丝否认赵丽颖王一博二搭",
+        "onboard_time": 1683610049,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 509761,
+        "num": 509761,
+        "word": "甄逸慧",
+        "onboard_time": 1683610708,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 480525,
+        "num": 480525,
+        "word": "大脑发育30岁才完成",
+        "onboard_time": 1683611727,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 418003,
+        "num": 418003,
+        "word": "黄景瑜对张婧仪说你再找找",
+        "onboard_time": 1683609210,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 343830,
+        "num": 343830,
+        "word": "长月烬明大结局",
+        "onboard_time": 1683613528,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312032,
+        "num": 312032,
+        "word": "丁真周也竟然认识",
+        "onboard_time": 1683608134,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305443,
+        "num": 305443,
+        "word": "普尔",
+        "onboard_time": 1683608073,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299983,
+        "num": 299983,
+        "word": "宁安如梦",
+        "onboard_time": 1683613167,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 795540,
+        "num": 296663,
+        "word": "漫长的季节 爹味",
+        "onboard_time": 1683604050,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 496645,
+        "num": 293590,
+        "word": "给不起彩礼却买了20万的车",
+        "onboard_time": 1683602788,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 494656,
+        "num": 289975,
+        "word": "减肥43斤却费了一条腿",
+        "onboard_time": 1683605428,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 317780,
+        "num": 287941,
+        "word": "被白敬亭秒删了的视频",
+        "onboard_time": 1683608430,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 302394,
+        "num": 284151,
+        "word": "我和男朋友被通知10月结婚",
+        "onboard_time": 1683609151,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282701,
+        "num": 282701,
+        "word": "加拿大",
+        "onboard_time": 1683613767,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280779,
+        "num": 280779,
+        "word": "女子裸贷5千仅4个月变欠款百万",
+        "onboard_time": 1683560668,
+        "rank": 26,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 279191,
+        "num": 279191,
+        "word": "湖人3比1勇士",
+        "onboard_time": 1683607355,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278178,
+        "num": 278178,
+        "word": "女演员近10年无戏演再见观众哭了",
+        "onboard_time": 1683594929,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269464,
+        "num": 269464,
+        "word": "35岁你会发现工作是没有意义的",
+        "onboard_time": 1683611306,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 256237,
+        "num": 256237,
+        "word": "法老 假面",
+        "onboard_time": 1683610888,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253095,
+        "num": 253095,
+        "word": "张婧仪的眼睛好会爱人",
+        "onboard_time": 1683608734,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249590,
+        "num": 249590,
+        "word": "午睡过久会长胖吗",
+        "onboard_time": 1683612929,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249514,
+        "num": 249514,
+        "word": "哈尔滨承重墙",
+        "onboard_time": 1683611067,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248005,
+        "num": 248005,
+        "word": "一夜醒来欠了地铁600多万",
+        "onboard_time": 1683552449,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244021,
+        "num": 244021,
+        "word": "司法部就高铁掌掴事件发声",
+        "onboard_time": 1683606270,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240914,
+        "num": 240914,
+        "word": "五月天抢票",
+        "onboard_time": 1683594509,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 237406,
+        "num": 237406,
+        "word": "刘诗诗东方淮竹",
+        "onboard_time": 1683603268,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228067,
+        "num": 228067,
+        "word": "五一成绩单四川湖南表现惨淡",
+        "onboard_time": 1683601107,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25124,
+        "num": 226089,
+        "word": "快手引力大会闪耀黄浦江",
+        "onboard_time": 1683612025,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224917,
+        "num": 224917,
+        "word": "为了考上编制可以有多努力",
+        "onboard_time": 1683612686,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213073,
+        "num": 213073,
+        "word": "白鹿奔跑吧嫦娥造型",
+        "onboard_time": 1683613046,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211512,
+        "num": 211512,
+        "word": "上海20岁女子被3万卖到安徽当新娘",
+        "onboard_time": 1683600506,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210247,
+        "num": 210247,
+        "word": "邓超早期旧照",
+        "onboard_time": 1683609391,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200169,
+        "num": 200169,
+        "word": "谷爱凌将继续为中国队出战",
+        "onboard_time": 1683589044,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185145,
+        "num": 185145,
+        "word": "谁抢到了五月天门票",
+        "onboard_time": 1683602366,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175376,
+        "num": 175376,
+        "word": "胡锡进 火车上男乘客为什么没参与制服凶手",
+        "onboard_time": 1683587001,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174447,
+        "num": 174447,
+        "word": "李承铉说不生三胎是因为妈妈很辛苦",
+        "onboard_time": 1683614009,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102081,
+        "num": 167879,
+        "word": "端午小长假你还会出游吗",
+        "onboard_time": 1683609988,
+        "rank": 48,
+        "category": "旅游,社会议题"
+      },
+      {
+        "raw_hot": 45626,
+        "num": 163450,
+        "word": "张艺兴时装男士五月封面",
+        "onboard_time": 1683604651,
+        "rank": 49,
+        "category": "时尚,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见第十届世界华侨华人社团联谊大会代表#"
+    }
+  }
+}
