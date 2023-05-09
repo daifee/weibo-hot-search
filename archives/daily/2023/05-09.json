@@ -1,6 +1,6 @@
 {
   "startTime": 1683562973147,
-  "endTime": 1683637787056,
+  "endTime": 1683638634287,
   "band_list": [
     {
       "raw_hot": 2683828,
@@ -299,6 +299,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1070486,
+      "num": 1070486,
+      "word": "杨紫或将配合青簪行补拍",
+      "onboard_time": 1683635669,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1059947,
       "num": 1059947,
       "word": "娜扎 把恋爱脑摔碎",
@@ -315,7 +323,7 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 1006232,
+      "raw_hot": 1020209,
       "num": 317620,
       "word": "突然发现公积金已经是笔巨款",
       "onboard_time": 1683622289,
@@ -323,12 +331,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1002778,
-      "num": 1002778,
-      "word": "杨紫或将配合青簪行补拍",
-      "onboard_time": 1683635669,
-      "rank": 4,
-      "category": "影视"
+      "raw_hot": 994548,
+      "num": 994548,
+      "word": "鹿晗张艺兴同杂志封面",
+      "onboard_time": 1683636450,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 994273,
@@ -443,14 +451,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 734971,
-      "num": 734971,
-      "word": "鹿晗张艺兴同杂志封面",
-      "onboard_time": 1683636450,
-      "rank": 7,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 705104,
       "num": 705104,
       "word": "他从火光中走来",
@@ -515,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 594709,
+      "num": 392403,
+      "word": "公冶寂无妺女去哪了",
+      "onboard_time": 1683633092,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 585371,
       "num": 585371,
       "word": "甄逸慧",
@@ -528,14 +536,6 @@
       "word": "粉丝否认赵丽颖王一博二搭",
       "onboard_time": 1683610049,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 578409,
-      "num": 379454,
-      "word": "公冶寂无妺女去哪了",
-      "onboard_time": 1683633092,
-      "rank": 12,
       "category": "影视"
     },
     {
@@ -563,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 555126,
+      "num": 369725,
+      "word": "长月烬明番外",
+      "onboard_time": 1683633149,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 552188,
       "num": 552188,
       "word": "羊了个羊被通报",
@@ -579,20 +587,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 540892,
+      "num": 540892,
+      "word": "海口两男子试驾被拒后大闹酒店",
+      "onboard_time": 1683636807,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 536629,
       "num": 536629,
       "word": "香奈儿邀请函",
       "onboard_time": 1683620425,
       "rank": 49,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 528119,
-      "num": 369725,
-      "word": "长月烬明番外",
-      "onboard_time": 1683633149,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 524196,
@@ -723,6 +731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 426274,
+      "num": 369444,
+      "word": "白夜追凶2",
+      "onboard_time": 1683631229,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 426255,
       "num": 401819,
       "word": "被白敬亭秒删了的视频",
@@ -736,14 +752,6 @@
       "word": "平凡之路全职太太被出轨却不离婚",
       "onboard_time": 1683565039,
       "rank": 22,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 423916,
-      "num": 369444,
-      "word": "白夜追凶2",
-      "onboard_time": 1683631229,
-      "rank": 15,
       "category": "影视"
     },
     {
@@ -779,12 +787,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 405454,
+      "num": 235246,
+      "word": "罗云熙说长月烬明虽有憾愿人生圆满",
+      "onboard_time": 1683637411,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 402558,
       "num": 285921,
       "word": "迪丽热巴机场粉裙造型",
       "onboard_time": 1683627026,
       "rank": 24,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 399496,
+      "num": 399496,
+      "word": "成都火灾",
+      "onboard_time": 1683633569,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 397993,
@@ -795,20 +819,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 395686,
-      "num": 395686,
-      "word": "海口两男子试驾被拒后大闹酒店",
-      "onboard_time": 1683636807,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 391908,
       "num": 391908,
       "word": "熬夜看小说 必须熬",
       "onboard_time": 1683554791,
       "rank": 13,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 391344,
+      "num": 234815,
+      "word": "空耳的是宋茜丢脸的是蒋欣",
+      "onboard_time": 1683635368,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 389457,
@@ -867,27 +891,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 372896,
-      "num": 183561,
-      "word": "空耳的是宋茜丢脸的是蒋欣",
-      "onboard_time": 1683635368,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 370891,
       "num": 370891,
       "word": "上海虹桥火车站一女子坠楼仍在抢救",
       "onboard_time": 1683630389,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 368330,
-      "num": 368330,
-      "word": "成都火灾",
-      "onboard_time": 1683633569,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -969,14 +977,6 @@
       "onboard_time": 1683536130,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 344091,
-      "num": 182273,
-      "word": "罗云熙说长月烬明虽有憾愿人生圆满",
-      "onboard_time": 1683637411,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 341712,
@@ -1108,7 +1108,7 @@
     },
     {
       "raw_hot": 291155,
-      "num": 181844,
+      "num": 233963,
       "word": "胡歌今日文案",
       "onboard_time": 1683634769,
       "rank": 25,
@@ -1185,6 +1185,14 @@
       "onboard_time": 1683556173,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 274639,
+      "num": 274639,
+      "word": "RNG",
+      "onboard_time": 1683636869,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 274638,
@@ -1411,6 +1419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 236778,
+      "num": 232840,
+      "word": "白鹿清唱关键词",
+      "onboard_time": 1683637649,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 235750,
       "num": 235750,
       "word": "邓超早期旧照",
@@ -1475,8 +1491,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227707,
-      "num": 178512,
+      "raw_hot": 228358,
+      "num": 228358,
       "word": "谢娜向何炅求助对付孙红雷",
       "onboard_time": 1683633510,
       "rank": 32,
@@ -1787,28 +1803,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 177788,
-      "num": 177788,
-      "word": "RNG",
-      "onboard_time": 1683636869,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 175739,
       "num": 175739,
       "word": "什么叫见过世面",
       "onboard_time": 1683560069,
       "rank": 28,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 174081,
-      "num": 174081,
-      "word": "白鹿清唱关键词",
-      "onboard_time": 1683637649,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 174005,
@@ -1883,6 +1883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160108,
+      "num": 160108,
+      "word": "孙红雷说张艺兴王一博跳舞是头部",
+      "onboard_time": 1683638551,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157169,
       "num": 157169,
       "word": "认识8年的男闺蜜变成男朋友了",
@@ -1939,6 +1947,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146217,
+      "num": 146217,
+      "word": "五月天周边部分酒店房型已售罄",
+      "onboard_time": 1683634408,
+      "rank": 45,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 143692,
+      "num": 143692,
+      "word": "象山摩托车表演重摔车手不幸身亡",
+      "onboard_time": 1683636329,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142717,
       "num": 142717,
       "word": "厨房起火邻居徒手爬墙扑灭",
@@ -1955,20 +1979,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140894,
+      "num": 140894,
+      "word": "被十年前的自己催婚了",
+      "onboard_time": 1683638252,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138389,
       "num": 138389,
       "word": "张嘉倪初夏珍珠蜜桃妆",
       "onboard_time": 1683558812,
       "rank": 38,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 138161,
-      "num": 138161,
-      "word": "五月天周边部分酒店房型已售罄",
-      "onboard_time": 1683634408,
-      "rank": 45,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 136743,
@@ -2097,6 +2121,14 @@
       "onboard_time": 1683546988,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120518,
+      "num": 128742,
+      "word": "Uzi直播",
+      "onboard_time": 1683638371,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 110417,

@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683637787056,
+  "endTime": 1683638634287,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -2419,6 +2419,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1070486,
+      "num": 1070486,
+      "word": "杨紫或将配合青簪行补拍",
+      "onboard_time": 1683635669,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1066442,
       "num": 899683,
       "word": "姜思达下架史航事件播客",
@@ -2571,6 +2579,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1020209,
+      "num": 317620,
+      "word": "突然发现公积金已经是笔巨款",
+      "onboard_time": 1683622289,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1015051,
       "num": 1015051,
       "word": "小贝饿了带货因虚假宣传被罚46万",
@@ -2600,22 +2616,6 @@
       "word": "IU认出了10年没见的粉丝",
       "onboard_time": 1683368429,
       "rank": 18,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1006232,
-      "num": 317620,
-      "word": "突然发现公积金已经是笔巨款",
-      "onboard_time": 1683622289,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 1002778,
-      "num": 1002778,
-      "word": "杨紫或将配合青簪行补拍",
-      "onboard_time": 1683635669,
-      "rank": 4,
       "category": "影视"
     },
     {
@@ -2649,6 +2649,14 @@
       "onboard_time": 1683188968,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 994548,
+      "num": 994548,
+      "word": "鹿晗张艺兴同杂志封面",
+      "onboard_time": 1683636450,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 994273,
@@ -3547,14 +3555,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 734971,
-      "num": 734971,
-      "word": "鹿晗张艺兴同杂志封面",
-      "onboard_time": 1683636450,
-      "rank": 7,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 733074,
       "num": 608915,
       "word": "爸妈把群聊当私聊被我看到了",
@@ -4307,6 +4307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 594709,
+      "num": 392403,
+      "word": "公冶寂无妺女去哪了",
+      "onboard_time": 1683633092,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 593267,
       "num": 593267,
       "word": "长空之王对违规影院停止提供密钥",
@@ -4457,14 +4465,6 @@
       "onboard_time": 1682983460,
       "rank": 3,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 578409,
-      "num": 379454,
-      "word": "公冶寂无妺女去哪了",
-      "onboard_time": 1683633092,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 578230,
@@ -4659,6 +4659,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 555126,
+      "num": 369725,
+      "word": "长月烬明番外",
+      "onboard_time": 1683633149,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 553685,
       "num": 553685,
       "word": "一位小哥在韩国受到了歧视",
@@ -4803,6 +4811,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 540892,
+      "num": 540892,
+      "word": "海口两男子试驾被拒后大闹酒店",
+      "onboard_time": 1683636807,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 540832,
       "num": 284039,
       "word": "射雕英雄传侠之大者",
@@ -4929,14 +4945,6 @@
       "onboard_time": 1683167726,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 528119,
-      "num": 369725,
-      "word": "长月烬明番外",
-      "onboard_time": 1683633149,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 527793,
@@ -6107,6 +6115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 426274,
+      "num": 369444,
+      "word": "白夜追凶2",
+      "onboard_time": 1683631229,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 426255,
       "num": 401819,
       "word": "被白敬亭秒删了的视频",
@@ -6137,14 +6153,6 @@
       "onboard_time": 1683524610,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 423916,
-      "num": 369444,
-      "word": "白夜追凶2",
-      "onboard_time": 1683631229,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 423748,
@@ -6467,6 +6475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 405454,
+      "num": 235246,
+      "word": "罗云熙说长月烬明虽有憾愿人生圆满",
+      "onboard_time": 1683637411,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 404774,
       "num": 404774,
       "word": "85后单身女子买完房后降薪了",
@@ -6579,6 +6595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 399496,
+      "num": 399496,
+      "word": "成都火灾",
+      "onboard_time": 1683633569,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 399431,
       "num": 399431,
       "word": "我为奶牛猫发声",
@@ -6683,14 +6707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 395686,
-      "num": 395686,
-      "word": "海口两男子试驾被拒后大闹酒店",
-      "onboard_time": 1683636807,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 395432,
       "num": 395432,
       "word": "上海 二次元浓度",
@@ -6744,6 +6760,14 @@
       "word": "向往的生活",
       "onboard_time": 1683291509,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 391344,
+      "num": 234815,
+      "word": "空耳的是宋茜丢脸的是蒋欣",
+      "onboard_time": 1683635368,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -7107,14 +7131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 372896,
-      "num": 183561,
-      "word": "空耳的是宋茜丢脸的是蒋欣",
-      "onboard_time": 1683635368,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 372679,
       "num": 372679,
       "word": "缺爱之人才会对很普通的关系难舍难分",
@@ -7161,14 +7177,6 @@
       "onboard_time": 1683261994,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 368330,
-      "num": 368330,
-      "word": "成都火灾",
-      "onboard_time": 1683633569,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 367795,
@@ -7777,14 +7785,6 @@
       "onboard_time": 1683420146,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 344091,
-      "num": 182273,
-      "word": "罗云熙说长月烬明虽有憾愿人生圆满",
-      "onboard_time": 1683637411,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 343420,
@@ -9252,7 +9252,7 @@
     },
     {
       "raw_hot": 291155,
-      "num": 181844,
+      "num": 233963,
       "word": "胡歌今日文案",
       "onboard_time": 1683634769,
       "rank": 25,
@@ -9745,6 +9745,14 @@
       "onboard_time": 1683360930,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 274639,
+      "num": 274639,
+      "word": "RNG",
+      "onboard_time": 1683636869,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 274638,
@@ -11387,6 +11395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 236778,
+      "num": 232840,
+      "word": "白鹿清唱关键词",
+      "onboard_time": 1683637649,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236597,
       "num": 236597,
       "word": "史航事件双方为何都不报警",
@@ -11827,6 +11843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228358,
+      "num": 228358,
+      "word": "谢娜向何炅求助对付孙红雷",
+      "onboard_time": 1683633510,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228351,
       "num": 228351,
       "word": "本人目前的状态 一不做二不休",
@@ -11873,14 +11897,6 @@
       "onboard_time": 1683246574,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 227707,
-      "num": 178512,
-      "word": "谢娜向何炅求助对付孙红雷",
-      "onboard_time": 1683633510,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 227558,
@@ -14867,14 +14883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177788,
-      "num": 177788,
-      "word": "RNG",
-      "onboard_time": 1683636869,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 177748,
       "num": 177748,
       "word": "美依礼芽御姐音",
@@ -15161,14 +15169,6 @@
       "onboard_time": 1683553891,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174081,
-      "num": 174081,
-      "word": "白鹿清唱关键词",
-      "onboard_time": 1683637649,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 174005,
@@ -15931,6 +15931,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 160108,
+      "num": 160108,
+      "word": "孙红雷说张艺兴王一博跳舞是头部",
+      "onboard_time": 1683638551,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160027,
       "num": 160027,
       "word": "瞿颖",
@@ -16635,6 +16643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 146217,
+      "num": 146217,
+      "word": "五月天周边部分酒店房型已售罄",
+      "onboard_time": 1683634408,
+      "rank": 45,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 146170,
       "num": 146170,
       "word": "任嘉伦武庚纪妆造",
@@ -16705,6 +16721,14 @@
       "onboard_time": 1683357151,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 143692,
+      "num": 143692,
+      "word": "象山摩托车表演重摔车手不幸身亡",
+      "onboard_time": 1683636329,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143308,
@@ -16801,6 +16825,14 @@
       "onboard_time": 1682965217,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140894,
+      "num": 140894,
+      "word": "被十年前的自己催婚了",
+      "onboard_time": 1683638252,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 140867,
@@ -16913,14 +16945,6 @@
       "onboard_time": 1683167668,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138161,
-      "num": 138161,
-      "word": "五月天周边部分酒店房型已售罄",
-      "onboard_time": 1683634408,
-      "rank": 45,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 137986,
@@ -17729,6 +17753,14 @@
       "onboard_time": 1683216866,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120518,
+      "num": 128742,
+      "word": "Uzi直播",
+      "onboard_time": 1683638371,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 120338,
