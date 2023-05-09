@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683599698420,
+  "endTime": 1683600237323,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -179,8 +179,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1809985,
-      "num": 1809985,
+      "raw_hot": 1930113,
+      "num": 1930113,
       "word": "女演员近10年无戏演再见观众哭了",
       "onboard_time": 1683594929,
       "rank": 23,
@@ -523,12 +523,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 915801,
+      "num": 915801,
+      "word": "36岁常青藤毕业确诊癌症后反而很开心",
+      "onboard_time": 1683555392,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 910694,
       "num": 910694,
       "word": "关闭朋友圈一年后的变化",
       "onboard_time": 1683455793,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 908968,
+      "num": 607324,
+      "word": "6岁娃意外死亡父亲收3万签谅解书",
+      "onboard_time": 1683597988,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 863262,
@@ -539,12 +555,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 843392,
-      "num": 843392,
-      "word": "36岁常青藤毕业确诊癌症后反而很开心",
-      "onboard_time": 1683555392,
-      "rank": 32,
-      "category": "情感"
+      "raw_hot": 862428,
+      "num": 862428,
+      "word": "体制外的人会羡慕体制内的工作吗",
+      "onboard_time": 1683596547,
+      "rank": 35,
+      "category": "社会议题"
     },
     {
       "raw_hot": 843206,
@@ -561,14 +577,6 @@
       "onboard_time": 1683555270,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 832296,
-      "num": 607324,
-      "word": "6岁娃意外死亡父亲收3万签谅解书",
-      "onboard_time": 1683597988,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 803185,
@@ -625,14 +633,6 @@
       "onboard_time": 1683452668,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 735165,
-      "num": 735165,
-      "word": "体制外的人会羡慕体制内的工作吗",
-      "onboard_time": 1683596547,
-      "rank": 35,
-      "category": "社会议题"
     },
     {
       "raw_hot": 729071,
@@ -787,6 +787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 558282,
+      "num": 558282,
+      "word": "五月天抢票",
+      "onboard_time": 1683594509,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 555855,
       "num": 555855,
       "word": "万柳书院75套房源上架抵押拍卖",
@@ -809,14 +817,6 @@
       "onboard_time": 1683521019,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 531517,
-      "num": 531517,
-      "word": "五月天抢票",
-      "onboard_time": 1683594509,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 529993,
@@ -1003,6 +1003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 415664,
+      "num": 415664,
+      "word": "aespa成第一个首日销售额破亿女团",
+      "onboard_time": 1683596666,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 413853,
       "num": 413853,
       "word": "约基奇 太阳老板",
@@ -1011,12 +1019,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 410368,
-      "num": 410368,
-      "word": "aespa成第一个首日销售额破亿女团",
-      "onboard_time": 1683596666,
-      "rank": 42,
-      "category": "音乐"
+      "raw_hot": 411890,
+      "num": 327829,
+      "word": "他从火光中走来",
+      "onboard_time": 1683598527,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 409305,
@@ -1401,14 +1409,6 @@
       "onboard_time": 1683522333,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 327829,
-      "num": 327829,
-      "word": "他从火光中走来",
-      "onboard_time": 1683598527,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 315312,
@@ -1899,6 +1899,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 227878,
+      "num": 227878,
+      "word": "巨齿鲨2",
+      "onboard_time": 1683600087,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 226339,
+      "num": 226339,
+      "word": "长相思",
+      "onboard_time": 1683587963,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225437,
       "num": 225437,
       "word": "遇到结婚不回礼的人怎么办",
@@ -1961,6 +1977,14 @@
       "onboard_time": 1683522873,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 216742,
+      "num": 216742,
+      "word": "他从火光中走来烈火小队海报",
+      "onboard_time": 1683598768,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 215966,
@@ -2043,6 +2067,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 209135,
+      "num": 209135,
+      "word": "热火3比1尼克斯",
+      "onboard_time": 1683599666,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208583,
       "num": 208583,
       "word": "周杰伦说华流才是最屌的",
@@ -2073,14 +2105,6 @@
       "onboard_time": 1683540331,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 204911,
-      "num": 204911,
-      "word": "长相思",
-      "onboard_time": 1683587963,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 204165,
@@ -2147,14 +2171,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 197854,
-      "num": 197854,
-      "word": "热火3比1尼克斯",
-      "onboard_time": 1683599666,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 197206,
       "num": 159009,
       "word": "还得是二次元",
@@ -2177,6 +2193,14 @@
       "onboard_time": 1683546809,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195109,
+      "num": 241617,
+      "word": "大叔8年进山捡垃圾13900余斤",
+      "onboard_time": 1683599486,
+      "rank": 34,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 195072,
@@ -2275,14 +2299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186765,
-      "num": 186765,
-      "word": "他从火光中走来烈火小队海报",
-      "onboard_time": 1683598768,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 186194,
       "num": 186194,
       "word": "甜小姐与冷先生今日开播",
@@ -2297,6 +2313,14 @@
       "onboard_time": 1683549331,
       "rank": 37,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 184485,
+      "num": 184485,
+      "word": "金泰妍演唱会官宣香港场",
+      "onboard_time": 1683599666,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 183973,
@@ -2321,14 +2345,6 @@
       "onboard_time": 1683507211,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 179435,
-      "num": 211400,
-      "word": "大叔8年进山捡垃圾13900余斤",
-      "onboard_time": 1683599486,
-      "rank": 34,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 178740,
@@ -2529,14 +2545,6 @@
       "onboard_time": 1683448291,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 159458,
-      "num": 159458,
-      "word": "金泰妍演唱会官宣香港场",
-      "onboard_time": 1683599666,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 158950,
@@ -2956,7 +2964,7 @@
     },
     {
       "raw_hot": 80504,
-      "num": 157539,
+      "num": 158608,
       "word": "无畏",
       "onboard_time": 1683587903,
       "rank": 48,
