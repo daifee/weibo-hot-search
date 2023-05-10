@@ -1,6 +1,6 @@
 {
   "startTime": 1683649328764,
-  "endTime": 1683695750907,
+  "endTime": 1683696806331,
   "band_list": [
     {
       "raw_hot": 6333261,
@@ -19,8 +19,8 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 3532471,
-      "num": 3532471,
+      "raw_hot": 4651661,
+      "num": 4651661,
       "word": "杨幂 名字的顺序都该为角色让位",
       "onboard_time": 1683694599,
       "rank": 0,
@@ -51,20 +51,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1993410,
+      "num": 1993410,
+      "word": "男童喉咙长菜花样肿块确诊感染HPV",
+      "onboard_time": 1683690811,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1977097,
       "num": 1977097,
       "word": "白鹿新剧演恶女",
       "onboard_time": 1683691174,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1900334,
-      "num": 1900334,
-      "word": "男童喉咙长菜花样肿块确诊感染HPV",
-      "onboard_time": 1683690811,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1742874,
@@ -579,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358609,
+      "num": 314744,
+      "word": "王一栩审美vs郭敬明审美",
+      "onboard_time": 1683694539,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 354333,
       "num": 354333,
       "word": "香奈儿大秀",
@@ -603,11 +611,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 342392,
-      "num": 314744,
-      "word": "王一栩审美vs郭敬明审美",
-      "onboard_time": 1683694539,
-      "rank": 28,
+      "raw_hot": 343771,
+      "num": 273957,
+      "word": "我的人间烟火",
+      "onboard_time": 1683696636,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -643,6 +651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 330330,
+      "num": 330330,
+      "word": "室友尖叫导致我听力下降",
+      "onboard_time": 1683693337,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 328240,
       "num": 328240,
       "word": "黄明昊单膝下跪送花李宏毅",
@@ -657,6 +673,14 @@
       "onboard_time": 1683679353,
       "rank": 19,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 326636,
+      "num": 248802,
+      "word": "深圳女副区长一撮白发被指挑染",
+      "onboard_time": 1683696274,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322507,
@@ -681,14 +705,6 @@
       "onboard_time": 1683673760,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 315107,
-      "num": 315107,
-      "word": "室友尖叫导致我听力下降",
-      "onboard_time": 1683693337,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 305693,
@@ -891,8 +907,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 248767,
-      "num": 248767,
+      "raw_hot": 249307,
+      "num": 249307,
       "word": "青蛙人偶被若干小孩围堵打哭未还手",
       "onboard_time": 1683693217,
       "rank": 34,
@@ -979,6 +995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 219970,
+      "num": 185230,
+      "word": "秦昊蒋奇明三搭",
+      "onboard_time": 1683696516,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218653,
       "num": 218653,
       "word": "李托 主教练",
@@ -1035,6 +1059,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 210153,
+      "num": 210153,
+      "word": "IU经纪公司否认剽窃",
+      "onboard_time": 1683696577,
+      "rank": 36,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 209700,
+      "num": 184784,
+      "word": "爱奇艺新综艺片单刷不完",
+      "onboard_time": 1683695622,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205902,
       "num": 205902,
       "word": "杨紫林更新cp感",
@@ -1057,6 +1097,14 @@
       "onboard_time": 1683680311,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194457,
+      "num": 184124,
+      "word": "王一栩说刘诗诗是我们的天选淮竹",
+      "onboard_time": 1683695800,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 189096,
@@ -1129,6 +1177,14 @@
       "onboard_time": 1683693158,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172974,
+      "num": 172974,
+      "word": "喜欢你我也是",
+      "onboard_time": 1683695380,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 171482,
@@ -1289,6 +1345,14 @@
       "onboard_time": 1683640769,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 112016,
+      "num": 165498,
+      "word": "TTG和WB全员入围亚运集训",
+      "onboard_time": 1683696399,
+      "rank": 49,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 109745,

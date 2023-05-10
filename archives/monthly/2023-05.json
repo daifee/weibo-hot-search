@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683695750907,
+  "endTime": 1683696806331,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -67,6 +67,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 4651661,
+      "num": 4651661,
+      "word": "杨幂 名字的顺序都该为角色让位",
+      "onboard_time": 1683694599,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3809512,
       "num": 3809512,
       "word": "嘉行删除杨幂照片",
@@ -80,14 +88,6 @@
       "word": "女演员晒裸照反击黑客勒索",
       "onboard_time": 1682917650,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 3532471,
-      "num": 3532471,
-      "word": "杨幂 名字的顺序都该为角色让位",
-      "onboard_time": 1683694599,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -771,6 +771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1993410,
+      "num": 1993410,
+      "word": "男童喉咙长菜花样肿块确诊感染HPV",
+      "onboard_time": 1683690811,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1977097,
       "num": 1977097,
       "word": "白鹿新剧演恶女",
@@ -865,14 +873,6 @@
       "onboard_time": 1683622225,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1900334,
-      "num": 1900334,
-      "word": "男童喉咙长菜花样肿块确诊感染HPV",
-      "onboard_time": 1683690811,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1897707,
@@ -7971,6 +7971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358609,
+      "num": 314744,
+      "word": "王一栩审美vs郭敬明审美",
+      "onboard_time": 1683694539,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 357057,
       "num": 357057,
       "word": "巨齿鲨2",
@@ -8355,6 +8363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 343771,
+      "num": 273957,
+      "word": "我的人间烟火",
+      "onboard_time": 1683696636,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 343420,
       "num": 343420,
       "word": "青春环游记",
@@ -8385,14 +8401,6 @@
       "onboard_time": 1682991027,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 342392,
-      "num": 314744,
-      "word": "王一栩审美vs郭敬明审美",
-      "onboard_time": 1683694539,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 342209,
@@ -8771,6 +8779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 330330,
+      "num": 330330,
+      "word": "室友尖叫导致我听力下降",
+      "onboard_time": 1683693337,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 330313,
       "num": 330313,
       "word": "浓眉攻防一体",
@@ -8881,6 +8897,14 @@
       "onboard_time": 1683439049,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 326636,
+      "num": 248802,
+      "word": "深圳女副区长一撮白发被指挑染",
+      "onboard_time": 1683696274,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326626,
@@ -9209,14 +9233,6 @@
       "onboard_time": 1683673760,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 315107,
-      "num": 315107,
-      "word": "室友尖叫导致我听力下降",
-      "onboard_time": 1683693337,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 314703,
@@ -11619,6 +11635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249307,
+      "num": 249307,
+      "word": "青蛙人偶被若干小孩围堵打哭未还手",
+      "onboard_time": 1683693217,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248963,
       "num": 248963,
       "word": "19岁高职毕业生在清华当老师的体验",
@@ -11657,14 +11681,6 @@
       "onboard_time": 1683506972,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 248767,
-      "num": 248767,
-      "word": "青蛙人偶被若干小孩围堵打哭未还手",
-      "onboard_time": 1683693217,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248766,
@@ -13187,6 +13203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 219970,
+      "num": 185230,
+      "word": "秦昊蒋奇明三搭",
+      "onboard_time": 1683696516,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 219857,
       "num": 219857,
       "word": "cp29 现杀现做",
@@ -13875,12 +13899,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210153,
+      "num": 210153,
+      "word": "IU经纪公司否认剽窃",
+      "onboard_time": 1683696577,
+      "rank": 36,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 210008,
       "num": 210008,
       "word": "平凡之路今日开播",
       "onboard_time": 1683083613,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 209700,
+      "num": 184784,
+      "word": "爱奇艺新综艺片单刷不完",
+      "onboard_time": 1683695622,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 209296,
@@ -14889,6 +14929,14 @@
       "onboard_time": 1683602727,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194457,
+      "num": 184124,
+      "word": "王一栩说刘诗诗是我们的天选淮竹",
+      "onboard_time": 1683695800,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 194335,
@@ -16337,6 +16385,14 @@
       "onboard_time": 1683184888,
       "rank": 44,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 172974,
+      "num": 172974,
+      "word": "喜欢你我也是",
+      "onboard_time": 1683092012,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 172950,
@@ -17995,14 +18051,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 139183,
-      "num": 139183,
-      "word": "喜欢你我也是",
-      "onboard_time": 1683092012,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 139019,
       "num": 139019,
       "word": "cp29横幅",
@@ -19153,6 +19201,14 @@
       "onboard_time": 1682958145,
       "rank": 29,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 112016,
+      "num": 165498,
+      "word": "TTG和WB全员入围亚运集训",
+      "onboard_time": 1683696399,
+      "rank": 49,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 112012,
