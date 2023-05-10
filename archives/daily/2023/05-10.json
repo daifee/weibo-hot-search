@@ -1,6 +1,6 @@
 {
   "startTime": 1683649328764,
-  "endTime": 1683718401466,
+  "endTime": 1683721983366,
   "band_list": [
     {
       "raw_hot": 6333261,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1994822,
+      "num": 1994822,
+      "word": "被曝11年前性侵学生教授临近退休",
+      "onboard_time": 1683719609,
+      "rank": 0,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1977097,
       "num": 1977097,
       "word": "白鹿新剧演恶女",
@@ -137,6 +145,14 @@
       "onboard_time": 1683649945,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1602307,
+      "num": 1602307,
+      "word": "泫雅 武汉音乐节",
+      "onboard_time": 1683720269,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 1588567,
@@ -267,6 +283,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 871813,
+      "num": 871813,
+      "word": "成铁公安处通报高铁掌掴事件",
+      "onboard_time": 1683719249,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 832162,
       "num": 832162,
       "word": "山西警方发布寻找尸源协查通告",
@@ -299,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 813743,
+      "num": 813743,
+      "word": "高铁掌掴事件双方均违法",
+      "onboard_time": 1683720752,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 796097,
       "num": 796097,
       "word": "周也早几年干嘛去了",
@@ -321,6 +353,14 @@
       "onboard_time": 1683678453,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 764469,
+      "num": 589180,
+      "word": "许光汉 同济",
+      "onboard_time": 1683717449,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 757181,
@@ -451,20 +491,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 609005,
+      "num": 609005,
+      "word": "化学本科生销售新型毒品一家三口获刑",
+      "onboard_time": 1683717145,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 596669,
       "num": 596669,
       "word": "云之羽一看就是郭敬明拍的",
       "onboard_time": 1683691353,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 589180,
-      "num": 589180,
-      "word": "许光汉 同济",
-      "onboard_time": 1683717449,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 582201,
@@ -563,6 +603,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 512836,
+      "num": 512836,
+      "word": "CBA裁判",
+      "onboard_time": 1683721409,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 511080,
       "num": 511080,
       "word": "gidle先行曲",
@@ -617,6 +665,14 @@
       "onboard_time": 1683686788,
       "rank": 18,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 472417,
+      "num": 335097,
+      "word": "七小时结束了相恋七年的感情",
+      "onboard_time": 1683718169,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 465729,
@@ -867,12 +923,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 357694,
+      "num": 357694,
+      "word": "CBA总决赛",
+      "onboard_time": 1683720509,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 355998,
       "num": 355998,
       "word": "肖战白百何骄阳伴我Q4播出",
       "onboard_time": 1683697358,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 355412,
+      "num": 334730,
+      "word": "Jennie紫色吊带短裙",
+      "onboard_time": 1683718707,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 354333,
@@ -929,6 +1001,14 @@
       "onboard_time": 1683650782,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333807,
+      "num": 333807,
+      "word": "护心是儿童剧吧",
+      "onboard_time": 1683720628,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 331714,
@@ -1043,6 +1123,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 313407,
+      "num": 313407,
+      "word": "没有男艺人能穿着衣服走出郭敬明的剧",
+      "onboard_time": 1683719129,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 311516,
       "num": 260615,
       "word": "杨幂也看漫长的季节",
@@ -1064,6 +1152,14 @@
       "word": "杨幂新剧哈尔滨一九四四官宣",
       "onboard_time": 1683695261,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 304682,
+      "num": 304682,
+      "word": "你给我的喜欢大结局",
+      "onboard_time": 1683718169,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -1227,6 +1323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 271569,
+      "num": 271569,
+      "word": "张若昀不再是张无继了",
+      "onboard_time": 1683719795,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 269630,
       "num": 269630,
       "word": "特朗普表示将上诉",
@@ -1257,6 +1361,14 @@
       "onboard_time": 1683707312,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 265091,
+      "num": 248720,
+      "word": "全职太太离婚发现丈夫资产过亿",
+      "onboard_time": 1683721650,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263798,
@@ -1699,14 +1811,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 182876,
-      "num": 182876,
-      "word": "七小时结束了相恋七年的感情",
-      "onboard_time": 1683718169,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 182635,
       "num": 182635,
       "word": "观鹤笔记官宣影视化",
@@ -1779,14 +1883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172521,
-      "num": 172521,
-      "word": "你给我的喜欢大结局",
-      "onboard_time": 1683718169,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 171482,
       "num": 171482,
       "word": "陈若琳驳斥谣言为全红婵正名",
@@ -1833,6 +1929,14 @@
       "onboard_time": 1683621329,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164482,
+      "num": 164482,
+      "word": "武汉音乐节",
+      "onboard_time": 1683721830,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 156081,
@@ -1939,6 +2043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 139603,
+      "num": 139603,
+      "word": "北京国安vs天津津门虎",
+      "onboard_time": 1683721950,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135808,
       "num": 135808,
       "word": "电影河边的错误国际版预告",
@@ -1985,6 +2097,14 @@
       "onboard_time": 1683648506,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 122027,
+      "num": 153385,
+      "word": "预制菜 食品工业化",
+      "onboard_time": 1683717449,
+      "rank": 48,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 120671,
@@ -2131,14 +2251,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 76451,
-      "num": 153385,
-      "word": "预制菜 食品工业化",
-      "onboard_time": 1683717449,
-      "rank": 48,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 75057,
       "num": 75057,
       "word": "赵露思后浪剧组氛围大师",
@@ -2263,6 +2375,9 @@
     },
     {
       "word": "#天舟六号已准备就绪#"
+    },
+    {
+      "word": "#天舟六号飞天有多重要#"
     }
   ]
 }
