@@ -1,0 +1,410 @@
+{
+  "runTime": 1683732230245,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1882880,
+        "num": 1882880,
+        "word": "全职太太离婚发现丈夫资产过亿",
+        "onboard_time": 1683721650,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1083169,
+        "num": 1083169,
+        "word": "泫雅 武汉音乐节",
+        "onboard_time": 1683720269,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 90785,
+        "num": 891213,
+        "word": "属于中国人的宇宙级浪漫",
+        "onboard_time": 1683730232,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 886385,
+        "num": 886385,
+        "word": "庆余年2原班人马",
+        "onboard_time": 1683705332,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 771431,
+        "num": 771431,
+        "word": "江阴枪击案两嫌犯已身亡",
+        "onboard_time": 1683727593,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659139,
+        "num": 659139,
+        "word": "杨幂 名字的顺序都该为角色让位",
+        "onboard_time": 1683694599,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 618777,
+        "num": 618777,
+        "word": "身上5种疣可能是HPV感染",
+        "onboard_time": 1683715409,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549998,
+        "num": 549998,
+        "word": "深圳女副区长一撮白发被指挑染",
+        "onboard_time": 1683696274,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528985,
+        "num": 528985,
+        "word": "格力称孟羽童已离职",
+        "onboard_time": 1683708511,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519342,
+        "num": 519342,
+        "word": "后劲很大看完欲罢不能的小说",
+        "onboard_time": 1683729092,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1400926,
+        "num": 511800,
+        "word": "张子萱终于不给陈赫打码了",
+        "onboard_time": 1683731492,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497764,
+        "num": 497764,
+        "word": "对大学生的伤害不亚于初恋",
+        "onboard_time": 1683725131,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 473090,
+        "num": 473090,
+        "word": "男子酒局带女儿炫耀被全桌羡慕",
+        "onboard_time": 1683712592,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455341,
+        "num": 455341,
+        "word": "男童喉咙长菜花样肿块确诊感染HPV",
+        "onboard_time": 1683690811,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385946,
+        "num": 385946,
+        "word": "女子官宣结婚被民警提醒赶紧分手",
+        "onboard_time": 1683688050,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360482,
+        "num": 360482,
+        "word": "徐克和肖战能拍好射雕英雄传吗",
+        "onboard_time": 1683725794,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359199,
+        "num": 359199,
+        "word": "浙江球迷",
+        "onboard_time": 1683729394,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347744,
+        "num": 347744,
+        "word": "Jennie紫色吊带短裙",
+        "onboard_time": 1683718707,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 336972,
+        "num": 336972,
+        "word": "佳能 黄旭熙",
+        "onboard_time": 1683702632,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324724,
+        "num": 324724,
+        "word": "赵继伟真的牛",
+        "onboard_time": 1683724290,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 490495,
+        "num": 324107,
+        "word": "七小时结束了相恋七年的感情",
+        "onboard_time": 1683718169,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 362817,
+        "num": 323038,
+        "word": "举报郑大教授女子称有两段流产后录音",
+        "onboard_time": 1683724590,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361010,
+        "num": 321908,
+        "word": "玉骨遥到底播不播",
+        "onboard_time": 1683727954,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 330565,
+        "num": 321124,
+        "word": "蘑菇屋将迎来最大客流",
+        "onboard_time": 1683727170,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320831,
+        "num": 320831,
+        "word": "誓约 甜筒",
+        "onboard_time": 1683730833,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 286723,
+        "num": 286723,
+        "word": "罗云熙长月烬明收官特辑花絮",
+        "onboard_time": 1683728734,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284486,
+        "num": 284486,
+        "word": "高铁掌掴事件车厢画面公布",
+        "onboard_time": 1683730653,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273079,
+        "num": 273079,
+        "word": "买房买到一半就拆迁了",
+        "onboard_time": 1683724951,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267466,
+        "num": 267466,
+        "word": "没有男艺人能穿着衣服走出郭敬明的剧",
+        "onboard_time": 1683719129,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251398,
+        "num": 251398,
+        "word": "乔欣工作室营业",
+        "onboard_time": 1683730411,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250666,
+        "num": 250666,
+        "word": "白鹿新剧演恶女",
+        "onboard_time": 1683691174,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245818,
+        "num": 245818,
+        "word": "全员加速中",
+        "onboard_time": 1683725250,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230214,
+        "num": 230214,
+        "word": "盆栽哥Jennie合作曲",
+        "onboard_time": 1683730713,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 214838,
+        "num": 214838,
+        "word": "三井寿 湘北的公主",
+        "onboard_time": 1683722189,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 210611,
+        "num": 210611,
+        "word": "周杰伦香港演唱会",
+        "onboard_time": 1683731373,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209602,
+        "num": 209602,
+        "word": "黄旭熙改微博名字",
+        "onboard_time": 1683711508,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200121,
+        "num": 200121,
+        "word": "狐妖小红娘竹业篇剧版vs原版",
+        "onboard_time": 1683725730,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199514,
+        "num": 199514,
+        "word": "你给我的喜欢大结局",
+        "onboard_time": 1683718169,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197471,
+        "num": 197471,
+        "word": "重孙帮临终太爷爷摘槐花了心愿",
+        "onboard_time": 1683728851,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185624,
+        "num": 191471,
+        "word": "怀孕确实能看清自己的老公",
+        "onboard_time": 1683709229,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191409,
+        "num": 191409,
+        "word": "美白滤镜下的吉克隽逸",
+        "onboard_time": 1683724230,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190793,
+        "num": 190793,
+        "word": "坏妈妈",
+        "onboard_time": 1683730112,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179911,
+        "num": 179911,
+        "word": "护心是儿童剧吧",
+        "onboard_time": 1683720628,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177252,
+        "num": 177252,
+        "word": "董明珠曾称要将孟羽童培养成第二个自己",
+        "onboard_time": 1683712351,
+        "rank": 43,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 172206,
+        "num": 172206,
+        "word": "高铁掌掴事件双方均违法",
+        "onboard_time": 1683720752,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168749,
+        "num": 168749,
+        "word": "张若昀不再是张无继了",
+        "onboard_time": 1683719795,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166534,
+        "num": 166534,
+        "word": "张韶涵演唱会",
+        "onboard_time": 1683730770,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142416,
+        "num": 142416,
+        "word": "经前期综合征",
+        "onboard_time": 1683732153,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139052,
+        "num": 139052,
+        "word": "警方通报江阴枪击案",
+        "onboard_time": 1683731734,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127972,
+        "num": 139042,
+        "word": "MSI",
+        "onboard_time": 1683724290,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#天河行舟载梦远航#"
+    }
+  }
+}

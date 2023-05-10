@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683729737305,
+  "endTime": 1683732230245,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -641,6 +641,14 @@
       "onboard_time": 1683464071,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1400926,
+      "num": 511800,
+      "word": "张子萱终于不给陈赫打码了",
+      "onboard_time": 1683731492,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1386877,
@@ -1555,6 +1563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 618777,
+      "num": 618777,
+      "word": "身上5种疣可能是HPV感染",
+      "onboard_time": 1683715409,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 618610,
       "num": 505396,
       "word": "文俊辉将录制国内综艺",
@@ -1601,14 +1617,6 @@
       "onboard_time": 1683504207,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 610006,
-      "num": 610006,
-      "word": "身上5种疣可能是HPV感染",
-      "onboard_time": 1683715409,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 609453,
@@ -1899,6 +1907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 519342,
+      "num": 519342,
+      "word": "后劲很大看完欲罢不能的小说",
+      "onboard_time": 1683729092,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 518353,
       "num": 518353,
       "word": "IU经纪公司否认剽窃",
@@ -2011,6 +2027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 490495,
+      "num": 353000,
+      "word": "七小时结束了相恋七年的感情",
+      "onboard_time": 1683718169,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 490447,
       "num": 490447,
       "word": "亦卷古月 停更",
@@ -2057,14 +2081,6 @@
       "onboard_time": 1683686788,
       "rank": 18,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 472417,
-      "num": 353000,
-      "word": "七小时结束了相恋七年的感情",
-      "onboard_time": 1683718169,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 471755,
@@ -2843,6 +2859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 359199,
+      "num": 359199,
+      "word": "浙江球迷",
+      "onboard_time": 1683729394,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 358704,
       "num": 358704,
       "word": "生完四胞胎又怀四胞胎女子终止妊娠",
@@ -3291,6 +3315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 320831,
+      "num": 320831,
+      "word": "誓约 甜筒",
+      "onboard_time": 1683730833,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 318961,
       "num": 318961,
       "word": "云之羽",
@@ -3707,6 +3739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286723,
+      "num": 286723,
+      "word": "罗云熙长月烬明收官特辑花絮",
+      "onboard_time": 1683728734,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 286056,
       "num": 286056,
       "word": "老板把拆迁款转到我账户上了",
@@ -3737,6 +3777,14 @@
       "onboard_time": 1683691052,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 284486,
+      "num": 284486,
+      "word": "高铁掌掴事件车厢画面公布",
+      "onboard_time": 1683730653,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284168,
@@ -4227,6 +4275,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 251398,
+      "num": 251398,
+      "word": "乔欣工作室营业",
+      "onboard_time": 1683730411,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251385,
       "num": 251385,
       "word": "运动会上女生抱起晕倒朋友一路狂奔",
@@ -4563,6 +4619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230214,
+      "num": 230214,
+      "word": "盆栽哥Jennie合作曲",
+      "onboard_time": 1683730713,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 230187,
       "num": 230187,
       "word": "梦岚",
@@ -4827,14 +4891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215392,
-      "num": 215392,
-      "word": "后劲很大看完欲罢不能的小说",
-      "onboard_time": 1683729092,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 215241,
       "num": 215241,
       "word": "Maybe复出",
@@ -4913,6 +4969,14 @@
       "onboard_time": 1683502707,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210611,
+      "num": 210611,
+      "word": "周杰伦香港演唱会",
+      "onboard_time": 1683731373,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 210452,
@@ -5179,14 +5243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 197706,
-      "num": 197706,
-      "word": "浙江球迷",
-      "onboard_time": 1683729394,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 197206,
       "num": 159009,
       "word": "还得是二次元",
@@ -5331,6 +5387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190793,
+      "num": 190793,
+      "word": "坏妈妈",
+      "onboard_time": 1683730112,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190291,
       "num": 190291,
       "word": "aster",
@@ -5393,14 +5457,6 @@
       "onboard_time": 1683596067,
       "rank": 45,
       "category": "社会正能量,教育"
-    },
-    {
-      "raw_hot": 188894,
-      "num": 188894,
-      "word": "罗云熙长月烬明收官特辑花絮",
-      "onboard_time": 1683728734,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 188671,
@@ -5779,6 +5835,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 166534,
+      "num": 166534,
+      "word": "张韶涵演唱会",
+      "onboard_time": 1683730770,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 165887,
       "num": 165887,
       "word": "哪一瞬间意识到妈妈很爱你",
@@ -6067,6 +6131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142416,
+      "num": 142416,
+      "word": "经前期综合征",
+      "onboard_time": 1683732153,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142365,
       "num": 190987,
       "word": "Hero直播",
@@ -6097,6 +6169,14 @@
       "onboard_time": 1683721950,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139052,
+      "num": 139052,
+      "word": "警方通报江阴枪击案",
+      "onboard_time": 1683731734,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138647,
@@ -6547,6 +6627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90785,
+      "num": 891213,
+      "word": "属于中国人的宇宙级浪漫",
+      "onboard_time": 1683730232,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88736,
       "num": 88736,
       "word": "乘风2023组团观看长沙夜生活",
@@ -6862,6 +6950,9 @@
     },
     {
       "word": "#天舟六号飞天有多重要#"
+    },
+    {
+      "word": "#天河行舟载梦远航#"
     }
   ]
 }
