@@ -1,0 +1,410 @@
+{
+  "runTime": 1683692402830,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6333261,
+        "num": 6333261,
+        "word": "女子官宣结婚被民警提醒赶紧分手",
+        "onboard_time": 1683688050,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2701709,
+        "num": 2701709,
+        "word": "IU被告发涉嫌剽窃6首歌曲",
+        "onboard_time": 1683686906,
+        "rank": 1,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 167774,
+        "num": 2161619,
+        "word": "5.8%的背后哪些科目越来越好",
+        "onboard_time": 1683688891,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1725515,
+        "num": 1725515,
+        "word": "很烧钱又戒不掉的爱好",
+        "onboard_time": 1683681929,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1343991,
+        "num": 1343991,
+        "word": "狐妖小红娘竹业篇",
+        "onboard_time": 1683685288,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1285638,
+        "num": 1285638,
+        "word": "郑州大学回应女子称11年前遭老师侵犯",
+        "onboard_time": 1683676827,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1249504,
+        "num": 1249504,
+        "word": "长风渡 真情侣",
+        "onboard_time": 1683686368,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1223137,
+        "num": 1223137,
+        "word": "白鹿新剧演恶女",
+        "onboard_time": 1683691174,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1216553,
+        "num": 1216553,
+        "word": "刘诗诗说既然你们缺人不如邀我同行",
+        "onboard_time": 1683686906,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 983620,
+        "num": 983620,
+        "word": "特朗普被裁定性侵",
+        "onboard_time": 1683674843,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 905361,
+        "num": 905361,
+        "word": "罗翔谈女子遭掌掴还手被判定互殴",
+        "onboard_time": 1683687691,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 810360,
+        "num": 810360,
+        "word": "陈都灵到底客串了多少部剧",
+        "onboard_time": 1683690451,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 798009,
+        "num": 798009,
+        "word": "李小鹏任交通运输部党组书记",
+        "onboard_time": 1683690212,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 774176,
+        "num": 774176,
+        "word": "男童喉咙长菜花样肿块确诊感染HPV",
+        "onboard_time": 1683690811,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644374,
+        "num": 644374,
+        "word": "周也早几年干嘛去了",
+        "onboard_time": 1683677310,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 614384,
+        "num": 614384,
+        "word": "江苏卫视一口气官宣了22档节目",
+        "onboard_time": 1683688952,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 494833,
+        "num": 494833,
+        "word": "陈冰 麦当劳",
+        "onboard_time": 1683676407,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 471274,
+        "num": 471274,
+        "word": "王一博香奈儿看秀造型",
+        "onboard_time": 1683684628,
+        "rank": 17,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 456423,
+        "num": 456423,
+        "word": "云之羽一看就是郭敬明拍的",
+        "onboard_time": 1683691353,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 374483,
+        "num": 374483,
+        "word": "郑州大学王国胜",
+        "onboard_time": 1683676347,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 441585,
+        "num": 373999,
+        "word": "肖战庄达菲版射雕为何值得期待",
+        "onboard_time": 1683690512,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 433568,
+        "num": 372671,
+        "word": "徐梦洁 两台手机两个鸟巢也容不下一个我",
+        "onboard_time": 1683677911,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 395620,
+        "num": 372588,
+        "word": "小三得知我要离婚发的短信",
+        "onboard_time": 1683621988,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 371039,
+        "num": 371039,
+        "word": "女子换肾重生11年救助上千病友",
+        "onboard_time": 1683686788,
+        "rank": 23,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 369796,
+        "num": 369796,
+        "word": "这不得迷死王俊凯",
+        "onboard_time": 1683688292,
+        "rank": 24,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 426736,
+        "num": 369781,
+        "word": "杨幂涂山红红定妆侧拍花絮",
+        "onboard_time": 1683687867,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 369657,
+        "num": 369657,
+        "word": "白敬亭你的开心真不像演的",
+        "onboard_time": 1683691712,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 389404,
+        "num": 366361,
+        "word": "狐妖小红娘月红篇涂山情缘版海报",
+        "onboard_time": 1683685589,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 362527,
+        "num": 362527,
+        "word": "清融",
+        "onboard_time": 1683688529,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 321509,
+        "num": 321509,
+        "word": "小县城下班后有多美好",
+        "onboard_time": 1683691295,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 338183,
+        "num": 319422,
+        "word": "长月烬明编剧发文",
+        "onboard_time": 1683683428,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311880,
+        "num": 311880,
+        "word": "男子举牌相亲月薪6千要求女方1万2",
+        "onboard_time": 1683687328,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300295,
+        "num": 300295,
+        "word": "文俊辉将录制国内综艺",
+        "onboard_time": 1683685946,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298291,
+        "num": 298291,
+        "word": "中新网评刘亦菲曾被霸凌",
+        "onboard_time": 1683675385,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275118,
+        "num": 275118,
+        "word": "周迅看秀造型",
+        "onboard_time": 1683691471,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 268789,
+        "num": 268789,
+        "word": "爱奇艺好多待播剧",
+        "onboard_time": 1683684328,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250947,
+        "num": 250947,
+        "word": "这放整个肛肠科都很炸裂",
+        "onboard_time": 1683624870,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244752,
+        "num": 244752,
+        "word": "王者荣耀亚运版本国家集训队名单",
+        "onboard_time": 1683685288,
+        "rank": 37,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 218653,
+        "num": 218653,
+        "word": "李托 主教练",
+        "onboard_time": 1683691471,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 211458,
+        "num": 211458,
+        "word": "长期运动和学习大脑更灵活",
+        "onboard_time": 1683691052,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168600,
+        "num": 211437,
+        "word": "电动车卷到头了吗",
+        "onboard_time": 1683689132,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 260241,
+        "num": 211356,
+        "word": "网剧唐人街探案2首支预告",
+        "onboard_time": 1683686608,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227018,
+        "num": 211222,
+        "word": "狐妖小红娘竹业篇男主",
+        "onboard_time": 1683692196,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226282,
+        "num": 211162,
+        "word": "七时吉祥",
+        "onboard_time": 1683685228,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211101,
+        "num": 211101,
+        "word": "辱骂女大学生致死案房东发声",
+        "onboard_time": 1683649945,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203420,
+        "num": 203420,
+        "word": "张予曦cos斗罗大陆小舞",
+        "onboard_time": 1683691591,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202989,
+        "num": 202989,
+        "word": "庆余年2召集令",
+        "onboard_time": 1683682588,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198644,
+        "num": 198644,
+        "word": "长风渡",
+        "onboard_time": 1683682228,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193125,
+        "num": 193125,
+        "word": "苹果客服回应女生手机隔空收到不雅照",
+        "onboard_time": 1683685048,
+        "rank": 48,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 175882,
+        "num": 175882,
+        "word": "二阳",
+        "onboard_time": 1683682110,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这就是中国活力#"
+    }
+  }
+}

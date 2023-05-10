@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683689640253,
+  "endTime": 1683692402830,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -9,6 +9,14 @@
       "onboard_time": 1683525990,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6333261,
+      "num": 6333261,
+      "word": "女子官宣结婚被民警提醒赶紧分手",
+      "onboard_time": 1683688050,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5078061,
@@ -27,14 +35,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3247724,
-      "num": 3247724,
-      "word": "女子官宣结婚被民警提醒赶紧分手",
-      "onboard_time": 1683688050,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 3075904,
       "num": 3075904,
       "word": "中秋国庆休8天上7天",
@@ -49,6 +49,14 @@
       "onboard_time": 1683525090,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2701709,
+      "num": 2701709,
+      "word": "IU被告发涉嫌剽窃6首歌曲",
+      "onboard_time": 1683686906,
+      "rank": 1,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 2696352,
@@ -651,6 +659,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1223137,
+      "num": 1223137,
+      "word": "白鹿新剧演恶女",
+      "onboard_time": 1683691174,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1209745,
       "num": 1209745,
       "word": "鸟巢那么大 容不下一个我",
@@ -939,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 905361,
+      "num": 905361,
+      "word": "罗翔谈女子遭掌掴还手被判定互殴",
+      "onboard_time": 1683687691,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 904970,
       "num": 904970,
       "word": "郑州大学王国胜",
@@ -1019,12 +1043,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 810360,
+      "num": 810360,
+      "word": "陈都灵到底客串了多少部剧",
+      "onboard_time": 1683690451,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 803185,
       "num": 803185,
       "word": "女子车位被邻居霸停数月直接焊死",
       "onboard_time": 1683551972,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 798009,
+      "num": 798009,
+      "word": "李小鹏任交通运输部党组书记",
+      "onboard_time": 1683690212,
+      "rank": 12,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 796097,
@@ -1065,6 +1105,14 @@
       "onboard_time": 1683678453,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 774176,
+      "num": 774176,
+      "word": "男童喉咙长菜花样肿块确诊感染HPV",
+      "onboard_time": 1683690811,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 763815,
@@ -1331,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 614384,
+      "num": 614384,
+      "word": "江苏卫视一口气官宣了22档节目",
+      "onboard_time": 1683688952,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 610939,
       "num": 610939,
       "word": "那些早婚的女生过得好吗",
@@ -1481,14 +1537,6 @@
       "onboard_time": 1683637411,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 541449,
-      "num": 541449,
-      "word": "罗翔谈女子遭掌掴还手被判定互殴",
-      "onboard_time": 1683687691,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 541156,
@@ -1715,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 456423,
+      "num": 456423,
+      "word": "云之羽一看就是郭敬明拍的",
+      "onboard_time": 1683691353,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 451385,
       "num": 451385,
       "word": "长风渡",
@@ -1779,6 +1835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 441585,
+      "num": 373999,
+      "word": "肖战庄达菲版射雕为何值得期待",
+      "onboard_time": 1683690512,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 438489,
       "num": 368657,
       "word": "妈妈侵犯我的隐私发现了秘密",
@@ -1817,6 +1881,14 @@
       "onboard_time": 1683467914,
       "rank": 13,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 426736,
+      "num": 369781,
+      "word": "杨幂涂山红红定妆侧拍花絮",
+      "onboard_time": 1683687867,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 426717,
@@ -2179,12 +2251,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 368222,
-      "num": 368222,
-      "word": "江苏卫视一口气官宣了22档节目",
-      "onboard_time": 1683688952,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 369796,
+      "num": 370540,
+      "word": "这不得迷死王俊凯",
+      "onboard_time": 1683688292,
+      "rank": 44,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 369657,
+      "num": 369657,
+      "word": "白敬亭你的开心真不像演的",
+      "onboard_time": 1683691712,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 367795,
@@ -2209,6 +2289,14 @@
       "onboard_time": 1683543810,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 362527,
+      "num": 362527,
+      "word": "清融",
+      "onboard_time": 1683688529,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 362498,
@@ -2273,14 +2361,6 @@
       "onboard_time": 1683505287,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 358047,
-      "num": 358047,
-      "word": "杨幂涂山红红定妆侧拍花絮",
-      "onboard_time": 1683687867,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 357057,
@@ -2587,19 +2667,19 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 324568,
-      "num": 370540,
-      "word": "这不得迷死王俊凯",
-      "onboard_time": 1683688292,
-      "rank": 44,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 322507,
       "num": 360692,
       "word": "花过最冤枉的一次钱是什么",
       "onboard_time": 1683688891,
       "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 321509,
+      "num": 321509,
+      "word": "小县城下班后有多美好",
+      "onboard_time": 1683691295,
+      "rank": 29,
       "category": "情感"
     },
     {
@@ -3017,6 +3097,14 @@
       "onboard_time": 1683546089,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 275118,
+      "num": 275118,
+      "word": "周迅看秀造型",
+      "onboard_time": 1683691471,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 274638,
@@ -3675,6 +3763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227018,
+      "num": 211222,
+      "word": "狐妖小红娘竹业篇男主",
+      "onboard_time": 1683692196,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226748,
       "num": 175854,
       "word": "易烊千玺新歌动画预告",
@@ -3731,14 +3827,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 220049,
-      "num": 220049,
-      "word": "清融",
-      "onboard_time": 1683688529,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 219765,
       "num": 219765,
       "word": "太阳2比2掘金",
@@ -3769,6 +3857,14 @@
       "onboard_time": 1683588382,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218653,
+      "num": 218653,
+      "word": "李托 主教练",
+      "onboard_time": 1683691471,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 218074,
@@ -3891,6 +3987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 211458,
+      "num": 211458,
+      "word": "长期运动和学习大脑更灵活",
+      "onboard_time": 1683691052,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 211056,
       "num": 211056,
       "word": "山西吕梁山革命博物馆发闭馆公告",
@@ -4009,6 +4113,14 @@
       "onboard_time": 1683594028,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203420,
+      "num": 203420,
+      "word": "张予曦cos斗罗大陆小舞",
+      "onboard_time": 1683691591,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 202887,
@@ -4555,6 +4667,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168600,
+      "num": 230600,
+      "word": "电动车卷到头了吗",
+      "onboard_time": 1683689132,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 167774,
+      "num": 2161619,
+      "word": "5.8%的背后哪些科目越来越好",
+      "onboard_time": 1683688891,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167725,
       "num": 167725,
       "word": "尹浩宇GPA3.97分",
@@ -4929,14 +5057,6 @@
       "onboard_time": 1683636692,
       "rank": 47,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 132386,
-      "num": 230600,
-      "word": "电动车卷到头了吗",
-      "onboard_time": 1683689132,
-      "rank": 38,
-      "category": "财经"
     },
     {
       "raw_hot": 130855,
@@ -5359,14 +5479,6 @@
       "num": 1739751,
       "word": "上天入地的大国重器彰显大国力量",
       "onboard_time": 1683617487,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67672,
-      "num": 1925151,
-      "word": "5.8%的背后哪些科目越来越好",
-      "onboard_time": 1683688891,
       "rank": 2,
       "category": "社会新闻"
     },
