@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683753480685,
+  "endTime": 1683754412546,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -21707,6 +21707,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 42114,
+      "num": 42114,
+      "word": "郭麒麟向涵之新剧分手戏",
+      "onboard_time": 1683751750,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 42009,
       "num": 42009,
       "word": "SEVENTEEN演我生活状态",
@@ -21795,6 +21803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 34360,
+      "num": 34360,
+      "word": "AC米兰vs国际米兰",
+      "onboard_time": 1683741554,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34319,
       "num": 34319,
       "word": "贾乃亮穿的衣服好像茶壶",
@@ -21809,14 +21825,6 @@
       "onboard_time": 1683108271,
       "rank": 29,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 33327,
-      "num": 33327,
-      "word": "AC米兰vs国际米兰",
-      "onboard_time": 1683741554,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 33144,
@@ -21899,12 +21907,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 28459,
-      "num": 28459,
-      "word": "郭麒麟向涵之新剧分手戏",
-      "onboard_time": 1683751750,
-      "rank": 16,
-      "category": "影视"
+      "raw_hot": 28343,
+      "num": 20683,
+      "word": "列车杀人案受害者家属发文悼念",
+      "onboard_time": 1683750192,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28246,
@@ -21929,14 +21937,6 @@
       "onboard_time": 1683312913,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26339,
-      "num": 19790,
-      "word": "列车杀人案受害者家属发文悼念",
-      "onboard_time": 1683750192,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26114,
@@ -22035,20 +22035,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 19262,
+      "num": 19473,
+      "word": "欧冠",
+      "onboard_time": 1683638309,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 18370,
       "num": 189511,
       "word": "换季如何护肤",
       "onboard_time": 1683367229,
       "rank": 39,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 16326,
-      "num": 19473,
-      "word": "欧冠",
-      "onboard_time": 1683638309,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 15606,
@@ -22089,6 +22089,14 @@
       "onboard_time": 1683141673,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 12925,
+      "num": 17862,
+      "word": "天舟六号发射现场",
+      "onboard_time": 1683754393,
+      "rank": 48,
+      "category": "科技,国内要闻"
     },
     {
       "raw_hot": 10792,

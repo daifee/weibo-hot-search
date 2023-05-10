@@ -1,6 +1,6 @@
 {
   "startTime": 1683736826788,
-  "endTime": 1683753480685,
+  "endTime": 1683754412546,
   "band_list": [
     {
       "raw_hot": 1532446,
@@ -451,6 +451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 42114,
+      "num": 42114,
+      "word": "郭麒麟向涵之新剧分手戏",
+      "onboard_time": 1683751750,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 39350,
       "num": 39350,
       "word": "布斯克茨宣布离开巴萨",
@@ -467,8 +475,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 33327,
-      "num": 33327,
+      "raw_hot": 34360,
+      "num": 34360,
       "word": "AC米兰vs国际米兰",
       "onboard_time": 1683741554,
       "rank": 43,
@@ -491,16 +499,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 28459,
-      "num": 28459,
-      "word": "郭麒麟向涵之新剧分手戏",
-      "onboard_time": 1683751750,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 26339,
-      "num": 19790,
+      "raw_hot": 28343,
+      "num": 20683,
       "word": "列车杀人案受害者家属发文悼念",
       "onboard_time": 1683750192,
       "rank": 48,
@@ -515,7 +515,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 16326,
+      "raw_hot": 19262,
       "num": 19473,
       "word": "欧冠",
       "onboard_time": 1683638309,
@@ -529,6 +529,14 @@
       "onboard_time": 1683750492,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 12925,
+      "num": 17862,
+      "word": "天舟六号发射现场",
+      "onboard_time": 1683754393,
+      "rank": 48,
+      "category": "科技,国内要闻"
     }
   ],
   "hotgov_list": [
