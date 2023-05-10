@@ -1,6 +1,6 @@
 {
   "startTime": 1683649328764,
-  "endTime": 1683696806331,
+  "endTime": 1683699708601,
   "band_list": [
     {
       "raw_hot": 6333261,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2548503,
+      "num": 2548503,
+      "word": "黄旭熙正式退团",
+      "onboard_time": 1683699157,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2339604,
       "num": 2339604,
       "word": "很烧钱又戒不掉的爱好",
@@ -51,8 +59,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1993410,
-      "num": 1993410,
+      "raw_hot": 2021664,
+      "num": 2021664,
       "word": "男童喉咙长菜花样肿块确诊感染HPV",
       "onboard_time": 1683690811,
       "rank": 13,
@@ -121,6 +129,14 @@
       "onboard_time": 1683693158,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1359093,
+      "num": 1359093,
+      "word": "深圳女副区长一撮白发被指挑染",
+      "onboard_time": 1683696274,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1301581,
@@ -395,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 518353,
+      "num": 518353,
+      "word": "IU经纪公司否认剽窃",
+      "onboard_time": 1683696577,
+      "rank": 36,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 516652,
       "num": 393056,
       "word": "肖战庄达菲版射雕为何值得期待",
@@ -441,6 +465,14 @@
       "onboard_time": 1683686788,
       "rank": 18,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 473204,
+      "num": 473204,
+      "word": "兜兜转转还是诗幂",
+      "onboard_time": 1683696994,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 465729,
@@ -547,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366251,
+      "num": 366251,
+      "word": "秦昊蒋奇明三搭",
+      "onboard_time": 1683696516,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 362527,
       "num": 362527,
       "word": "清融",
@@ -635,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332615,
+      "num": 266651,
+      "word": "gidle先行曲MV疑似抄袭",
+      "onboard_time": 1683698673,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 331714,
       "num": 331714,
       "word": "汪曾祺 大学生大都爱吃",
@@ -675,14 +723,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 326636,
-      "num": 248802,
-      "word": "深圳女副区长一撮白发被指挑染",
-      "onboard_time": 1683696274,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 322507,
       "num": 360692,
       "word": "花过最冤枉的一次钱是什么",
@@ -707,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 311516,
+      "num": 260615,
+      "word": "杨幂也看漫长的季节",
+      "onboard_time": 1683697656,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 305693,
       "num": 305693,
       "word": "杨幂新剧哈尔滨一九四四官宣",
@@ -729,6 +777,14 @@
       "onboard_time": 1683622289,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 300610,
+      "num": 219780,
+      "word": "真情侣待播剧",
+      "onboard_time": 1683699454,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 299552,
@@ -843,6 +899,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 261727,
+      "num": 213731,
+      "word": "肖战白百何骄阳伴我Q4播出",
+      "onboard_time": 1683697358,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 260774,
       "num": 260774,
       "word": "张婧仪上错车",
@@ -904,6 +968,14 @@
       "word": "在怎样的一瞬间认清了一个人",
       "onboard_time": 1683688891,
       "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 250962,
+      "num": 250962,
+      "word": "凭什么打开APP时暂停我的歌",
+      "onboard_time": 1683697057,
+      "rank": 22,
       "category": "情感"
     },
     {
@@ -995,14 +1067,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 219970,
-      "num": 185230,
-      "word": "秦昊蒋奇明三搭",
-      "onboard_time": 1683696516,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 218653,
       "num": 218653,
       "word": "李托 主教练",
@@ -1043,6 +1107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214319,
+      "num": 214319,
+      "word": "多名男子搭讪邻桌女孩店员劝阻起冲突",
+      "onboard_time": 1683698733,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213705,
       "num": 213705,
       "word": "出租车深夜抛锚热心小夫妻帮推车",
@@ -1057,14 +1129,6 @@
       "onboard_time": 1683644191,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 210153,
-      "num": 210153,
-      "word": "IU经纪公司否认剽窃",
-      "onboard_time": 1683696577,
-      "rank": 36,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 209700,
@@ -1131,6 +1195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 186722,
+      "num": 186722,
+      "word": "迷路大爷误上婚车被拉到40里外婚房",
+      "onboard_time": 1683699212,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182635,
       "num": 182635,
       "word": "观鹤笔记官宣影视化",
@@ -1161,6 +1233,14 @@
       "onboard_time": 1683648326,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 178021,
+      "num": 178021,
+      "word": "孟羽童称靠别人永远不如靠自己",
+      "onboard_time": 1683699212,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177063,
@@ -1235,12 +1315,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154088,
+      "num": 154088,
+      "word": "索菲亚工程师要求供应商安排嫖娼被开",
+      "onboard_time": 1683699454,
+      "rank": 42,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 153805,
       "num": 153805,
       "word": "极乐净土",
       "onboard_time": 1683640170,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152546,
+      "num": 152546,
+      "word": "田耕纪",
+      "onboard_time": 1683698014,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 149691,
@@ -1289,6 +1385,14 @@
       "onboard_time": 1683641132,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 140582,
+      "num": 140582,
+      "word": "一个人应该有什么样的爱好",
+      "onboard_time": 1683698314,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 133022,
