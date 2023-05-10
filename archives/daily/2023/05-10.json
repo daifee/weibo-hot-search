@@ -1,6 +1,6 @@
 {
   "startTime": 1683649328764,
-  "endTime": 1683699708601,
+  "endTime": 1683700465300,
   "band_list": [
     {
       "raw_hot": 6333261,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3841592,
+      "num": 3841592,
+      "word": "黄旭熙正式退团",
+      "onboard_time": 1683699157,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2701709,
       "num": 2701709,
       "word": "IU被告发涉嫌剽窃6首歌曲",
@@ -41,14 +49,6 @@
       "onboard_time": 1683674843,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2548503,
-      "num": 2548503,
-      "word": "黄旭熙正式退团",
-      "onboard_time": 1683699157,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 2339604,
@@ -123,20 +123,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1455785,
+      "num": 1455785,
+      "word": "深圳女副区长一撮白发被指挑染",
+      "onboard_time": 1683696274,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1386329,
       "num": 1386329,
       "word": "权志龙王一博今晚要同框",
       "onboard_time": 1683693158,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1359093,
-      "num": 1359093,
-      "word": "深圳女副区长一撮白发被指挑染",
-      "onboard_time": 1683696274,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1301581,
@@ -272,6 +272,14 @@
       "word": "骄阳伴我",
       "onboard_time": 1683693158,
       "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 722003,
+      "num": 722003,
+      "word": "真情侣待播剧",
+      "onboard_time": 1683699454,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -443,12 +451,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 501059,
+      "num": 501059,
+      "word": "gidle先行曲MV疑似抄袭",
+      "onboard_time": 1683698673,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 492964,
       "num": 492964,
       "word": "小县城下班后有多美好",
       "onboard_time": 1683691295,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 483455,
+      "num": 483455,
+      "word": "兜兜转转还是诗幂",
+      "onboard_time": 1683696994,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 479429,
@@ -465,14 +489,6 @@
       "onboard_time": 1683686788,
       "rank": 18,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 473204,
-      "num": 473204,
-      "word": "兜兜转转还是诗幂",
-      "onboard_time": 1683696994,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 465729,
@@ -521,6 +537,14 @@
       "onboard_time": 1683677368,
       "rank": 21,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 408922,
+      "num": 243898,
+      "word": "NCT",
+      "onboard_time": 1683699990,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 395033,
@@ -675,14 +699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 332615,
-      "num": 266651,
-      "word": "gidle先行曲MV疑似抄袭",
-      "onboard_time": 1683698673,
-      "rank": 20,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 331714,
       "num": 331714,
       "word": "汪曾祺 大学生大都爱吃",
@@ -779,14 +795,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 300610,
-      "num": 219780,
-      "word": "真情侣待播剧",
-      "onboard_time": 1683699454,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 299552,
       "num": 299552,
       "word": "七时吉祥",
@@ -795,11 +803,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 292714,
+      "num": 292714,
+      "word": "多名男子搭讪邻桌女孩店员劝阻起冲突",
+      "onboard_time": 1683698733,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292487,
       "num": 292487,
       "word": "庆余年2召集令",
       "onboard_time": 1683682588,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 291858,
+      "num": 243432,
+      "word": "肖战白百何骄阳伴我Q4播出",
+      "onboard_time": 1683697358,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -897,14 +921,6 @@
       "onboard_time": 1683681627,
       "rank": 46,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 261727,
-      "num": 213731,
-      "word": "肖战白百何骄阳伴我Q4播出",
-      "onboard_time": 1683697358,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 260774,
@@ -1107,14 +1123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 214319,
-      "num": 214319,
-      "word": "多名男子搭讪邻桌女孩店员劝阻起冲突",
-      "onboard_time": 1683698733,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213705,
       "num": 213705,
       "word": "出租车深夜抛锚热心小夫妻帮推车",
@@ -1163,12 +1171,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195470,
+      "num": 195470,
+      "word": "孟羽童称靠别人永远不如靠自己",
+      "onboard_time": 1683699212,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194457,
       "num": 184124,
       "word": "王一栩说刘诗诗是我们的天选淮竹",
       "onboard_time": 1683695800,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192881,
+      "num": 192881,
+      "word": "迷路大爷误上婚车被拉到40里外婚房",
+      "onboard_time": 1683699212,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189096,
@@ -1193,14 +1217,6 @@
       "onboard_time": 1683629789,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 186722,
-      "num": 186722,
-      "word": "迷路大爷误上婚车被拉到40里外婚房",
-      "onboard_time": 1683699212,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182635,
@@ -1235,20 +1251,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 178021,
-      "num": 178021,
-      "word": "孟羽童称靠别人永远不如靠自己",
-      "onboard_time": 1683699212,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177063,
       "num": 177063,
       "word": "黄子韬徐志胜直播小学生吵架",
       "onboard_time": 1683679533,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176039,
+      "num": 176039,
+      "word": "索菲亚工程师要求供应商安排嫖娼被开",
+      "onboard_time": 1683699454,
+      "rank": 42,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 173079,
@@ -1315,12 +1331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154088,
-      "num": 154088,
-      "word": "索菲亚工程师要求供应商安排嫖娼被开",
-      "onboard_time": 1683699454,
-      "rank": 42,
-      "category": "社会新闻,科技"
+      "raw_hot": 154535,
+      "num": 154535,
+      "word": "华流的存在感到底有多强",
+      "onboard_time": 1683699814,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 153805,
@@ -1361,6 +1377,14 @@
       "onboard_time": 1683643050,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146619,
+      "num": 146619,
+      "word": "九号发布会",
+      "onboard_time": 1683700053,
+      "rank": 42,
+      "category": "科技"
     },
     {
       "raw_hot": 146359,
