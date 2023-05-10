@@ -1,0 +1,410 @@
+{
+  "runTime": 1683740050422,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 933025,
+        "num": 933025,
+        "word": "总而言之 快睡",
+        "onboard_time": 1683734787,
+        "rank": 0,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 333227,
+        "num": 333227,
+        "word": "身上5种疣可能是HPV感染",
+        "onboard_time": 1683715409,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22104,
+        "num": 244536,
+        "word": "属于中国人的宇宙级浪漫",
+        "onboard_time": 1683730232,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239545,
+        "num": 239545,
+        "word": "全职太太离婚发现丈夫资产过亿",
+        "onboard_time": 1683721650,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237881,
+        "num": 237881,
+        "word": "我的论文致谢有你的名字",
+        "onboard_time": 1683737481,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 198971,
+        "num": 198971,
+        "word": "高铁掌掴事件车厢画面公布",
+        "onboard_time": 1683730653,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195018,
+        "num": 195018,
+        "word": "泫雅 武汉音乐节",
+        "onboard_time": 1683720269,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172806,
+        "num": 172806,
+        "word": "经前期综合征",
+        "onboard_time": 1683732153,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143932,
+        "num": 143932,
+        "word": "对大学生的伤害不亚于初恋",
+        "onboard_time": 1683725131,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135286,
+        "num": 135286,
+        "word": "男子酒局带女儿炫耀被全桌羡慕",
+        "onboard_time": 1683712592,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720078,
+        "num": 134066,
+        "word": "张子萱终于不给陈赫打码了",
+        "onboard_time": 1683731492,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405420,
+        "num": 133368,
+        "word": "杨洋同学会全记录视频",
+        "onboard_time": 1683734128,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131983,
+        "num": 131983,
+        "word": "江阴枪击案两嫌犯已身亡",
+        "onboard_time": 1683727593,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126479,
+        "num": 126479,
+        "word": "后劲很大看完欲罢不能的小说",
+        "onboard_time": 1683729092,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117496,
+        "num": 117496,
+        "word": "举报郑大教授性侵女子称已电话报警",
+        "onboard_time": 1683732269,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 103206,
+        "num": 103206,
+        "word": "没有男艺人能穿着衣服走出郭敬明的剧",
+        "onboard_time": 1683719129,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92282,
+        "num": 92282,
+        "word": "蘑菇屋将迎来最大客流",
+        "onboard_time": 1683727170,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90764,
+        "num": 90764,
+        "word": "庆余年2原班人马",
+        "onboard_time": 1683705332,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 87052,
+        "num": 87052,
+        "word": "董明珠曾称要将孟羽童培养成第二个自己",
+        "onboard_time": 1683712351,
+        "rank": 18,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 81538,
+        "num": 81538,
+        "word": "Jennie紫色吊带短裙",
+        "onboard_time": 1683718707,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185525,
+        "num": 81299,
+        "word": "七小时结束了相恋七年的感情",
+        "onboard_time": 1683718169,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96658,
+        "num": 81219,
+        "word": "美白滤镜下的吉克隽逸",
+        "onboard_time": 1683724230,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 81012,
+        "num": 81012,
+        "word": "买房买到一半就拆迁了",
+        "onboard_time": 1683724951,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80491,
+        "num": 80491,
+        "word": "玉骨遥到底播不播",
+        "onboard_time": 1683727954,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74053,
+        "num": 74053,
+        "word": "蒋依依打卡淄博烧烤",
+        "onboard_time": 1683734727,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71037,
+        "num": 71037,
+        "word": "格力称孟羽童已离职",
+        "onboard_time": 1683708511,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70102,
+        "num": 70102,
+        "word": "小猫为自己选了名字",
+        "onboard_time": 1683734667,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69780,
+        "num": 69780,
+        "word": "黄旭熙改微博名字",
+        "onboard_time": 1683711508,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67439,
+        "num": 67439,
+        "word": "护心是儿童剧吧",
+        "onboard_time": 1683720628,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 66188,
+        "num": 66188,
+        "word": "乔欣工作室营业",
+        "onboard_time": 1683730411,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64277,
+        "num": 64277,
+        "word": "张若昀不再是张无继了",
+        "onboard_time": 1683719795,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 63615,
+        "num": 63615,
+        "word": "三井寿 湘北的公主",
+        "onboard_time": 1683722189,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 61495,
+        "num": 61495,
+        "word": "徐克和肖战能拍好射雕英雄传吗",
+        "onboard_time": 1683725794,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61340,
+        "num": 61340,
+        "word": "狐妖小红娘竹业篇剧版vs原版",
+        "onboard_time": 1683725730,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 59706,
+        "num": 59706,
+        "word": "seventeen将推出官方表情包",
+        "onboard_time": 1683733649,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 59273,
+        "num": 59273,
+        "word": "赵继伟真的牛",
+        "onboard_time": 1683724290,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58055,
+        "num": 58055,
+        "word": "许光汉 同济",
+        "onboard_time": 1683717449,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 57404,
+        "num": 57404,
+        "word": "你给我的喜欢大结局",
+        "onboard_time": 1683718169,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 56437,
+        "num": 56437,
+        "word": "浙江球迷",
+        "onboard_time": 1683729394,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50837,
+        "num": 56112,
+        "word": "怀孕确实能看清自己的老公",
+        "onboard_time": 1683709229,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55798,
+        "num": 55798,
+        "word": "周杰伦香港演唱会",
+        "onboard_time": 1683731373,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 51815,
+        "num": 51815,
+        "word": "王源说等待广州见",
+        "onboard_time": 1683738558,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 50258,
+        "num": 50258,
+        "word": "罗云熙长月烬明收官特辑花絮",
+        "onboard_time": 1683728734,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46778,
+        "num": 49800,
+        "word": "MSI",
+        "onboard_time": 1683724290,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 44499,
+        "num": 49159,
+        "word": "盆栽哥Jennie合作曲",
+        "onboard_time": 1683730713,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 43817,
+        "num": 48816,
+        "word": "just chill out",
+        "onboard_time": 1683736522,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42819,
+        "num": 47512,
+        "word": "坏妈妈",
+        "onboard_time": 1683730112,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40389,
+        "num": 47202,
+        "word": "日本人到底在学些什么",
+        "onboard_time": 1683738918,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 39016,
+        "num": 46762,
+        "word": "大城市节奏就是快",
+        "onboard_time": 1683735386,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38247,
+        "num": 45917,
+        "word": "誓约 甜筒",
+        "onboard_time": 1683730833,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#天河行舟载梦远航#"
+    }
+  }
+}
