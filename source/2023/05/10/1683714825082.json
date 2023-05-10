@@ -1,0 +1,410 @@
+{
+  "runTime": 1683714825082,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2644567,
+        "num": 2644567,
+        "word": "格力称孟羽童已离职",
+        "onboard_time": 1683708511,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1220883,
+        "num": 2426491,
+        "word": "19岁小伙自首偷车被失主安排工作",
+        "onboard_time": 1683710129,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14320,
+        "num": 2293118,
+        "word": "5.8%的背后哪些科目越来越好",
+        "onboard_time": 1683688891,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2257641,
+        "num": 2257641,
+        "word": "言冰云谁演",
+        "onboard_time": 1683711930,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 707223,
+        "num": 2072895,
+        "word": "女子官宣结婚被民警提醒赶紧分手",
+        "onboard_time": 1683688050,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2008159,
+        "num": 2008159,
+        "word": "庆余年2原班人马",
+        "onboard_time": 1683705332,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287748,
+        "num": 1485992,
+        "word": "深圳男子暴雨天救助流浪猫是野生动物",
+        "onboard_time": 1683703114,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1248385,
+        "num": 1248385,
+        "word": "佳能 黄旭熙",
+        "onboard_time": 1683702632,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 903036,
+        "num": 903036,
+        "word": "杨幂 名字的顺序都该为角色让位",
+        "onboard_time": 1683694599,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 613701,
+        "num": 613701,
+        "word": "深圳女副区长一撮白发被指挑染",
+        "onboard_time": 1683696274,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 765144,
+        "num": 598404,
+        "word": "董明珠曾称要将孟羽童培养成第二个自己",
+        "onboard_time": 1683712351,
+        "rank": 10,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 582201,
+        "num": 582201,
+        "word": "黄旭熙改微博名字",
+        "onboard_time": 1683711508,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 569933,
+        "num": 569933,
+        "word": "福建3名落水基层干部遇难",
+        "onboard_time": 1683714330,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555601,
+        "num": 555601,
+        "word": "庆余年第二季今日开机",
+        "onboard_time": 1683703413,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30117,
+        "num": 541871,
+        "word": "怼脸镜头大赏",
+        "onboard_time": 1683712827,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 540889,
+        "num": 540889,
+        "word": "男子酒局带女儿炫耀被全桌羡慕",
+        "onboard_time": 1683712592,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488838,
+        "num": 488838,
+        "word": "李沁林婉儿与君再相逢",
+        "onboard_time": 1683710610,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 483597,
+        "num": 483597,
+        "word": "男童喉咙长菜花样肿块确诊感染HPV",
+        "onboard_time": 1683690811,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428196,
+        "num": 428196,
+        "word": "庆余年",
+        "onboard_time": 1683704850,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 401592,
+        "num": 401592,
+        "word": "黄旭熙正式退团",
+        "onboard_time": 1683699157,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440128,
+        "num": 396160,
+        "word": "怀孕确实能看清自己的老公",
+        "onboard_time": 1683709229,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 376220,
+        "num": 376220,
+        "word": "孟羽童称靠别人永远不如靠自己",
+        "onboard_time": 1683699212,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355175,
+        "num": 355175,
+        "word": "白鹿新剧演恶女",
+        "onboard_time": 1683691174,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321696,
+        "num": 321696,
+        "word": "毕业4年跟老公一起攒了100万",
+        "onboard_time": 1683711093,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 311099,
+        "num": 311099,
+        "word": "内娱免检帅哥",
+        "onboard_time": 1683709709,
+        "rank": 24,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 303972,
+        "num": 303972,
+        "word": "男朋友国内登机失联10小时",
+        "onboard_time": 1683704554,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272800,
+        "num": 272800,
+        "word": "庆余年2官宣海报没有肖战",
+        "onboard_time": 1683708870,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267309,
+        "num": 267309,
+        "word": "汪峰说从来没有怕过章子怡",
+        "onboard_time": 1683713187,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260229,
+        "num": 260229,
+        "word": "山东淄博炒鸡",
+        "onboard_time": 1683709889,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 257510,
+        "num": 257510,
+        "word": "室友的简历被人事单独留下了",
+        "onboard_time": 1683702392,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250620,
+        "num": 250620,
+        "word": "很烧钱又戒不掉的爱好",
+        "onboard_time": 1683681929,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245080,
+        "num": 245080,
+        "word": "老板把拆迁款转到我账户上了",
+        "onboard_time": 1683714153,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242238,
+        "num": 242238,
+        "word": "终于等到庆余年2",
+        "onboard_time": 1683707312,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234840,
+        "num": 234840,
+        "word": "小行星",
+        "onboard_time": 1683711328,
+        "rank": 33,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 234158,
+        "num": 234158,
+        "word": "庆余年2再相逢版海报",
+        "onboard_time": 1683704731,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219996,
+        "num": 219996,
+        "word": "金钟仁入伍剪寸头",
+        "onboard_time": 1683710730,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278561,
+        "num": 216336,
+        "word": "权志龙王一博今晚要同框",
+        "onboard_time": 1683693158,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207818,
+        "num": 207818,
+        "word": "IU被告发涉嫌剽窃6首歌曲",
+        "onboard_time": 1683686906,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203370,
+        "num": 203370,
+        "word": "gidle先行曲MV疑似抄袭",
+        "onboard_time": 1683698673,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196913,
+        "num": 196913,
+        "word": "特朗普被裁定性侵",
+        "onboard_time": 1683674843,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190599,
+        "num": 190599,
+        "word": "山东学生身高竟然不是全国第一",
+        "onboard_time": 1683702332,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 183836,
+        "num": 183836,
+        "word": "人丑真的连细节都是丑的",
+        "onboard_time": 1683706289,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182107,
+        "num": 182107,
+        "word": "王权霸业",
+        "onboard_time": 1683708391,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163348,
+        "num": 163348,
+        "word": "你给我的喜欢",
+        "onboard_time": 1683706711,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159125,
+        "num": 159125,
+        "word": "玉骨遥",
+        "onboard_time": 1683702090,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156192,
+        "num": 156192,
+        "word": "原来过生日也需要搭子",
+        "onboard_time": 1683709229,
+        "rank": 45,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 152540,
+        "num": 152540,
+        "word": "郑州大学回应女子称11年前遭老师侵犯",
+        "onboard_time": 1683676827,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 150238,
+        "num": 150238,
+        "word": "杨紫雨中撑伞转圈",
+        "onboard_time": 1683714690,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80588,
+        "num": 149711,
+        "word": "KPL喵门永存",
+        "onboard_time": 1683712652,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 78697,
+        "num": 149351,
+        "word": "星穹铁道首个动画短片",
+        "onboard_time": 1683709709,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#天舟快递使命必达#"
+    }
+  }
+}
