@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683747818631,
+  "endTime": 1683750202423,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -21883,6 +21883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29196,
+      "num": 29196,
+      "word": "AC米兰vs国际米兰",
+      "onboard_time": 1683741554,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28921,
       "num": 28921,
       "word": "戛纳展映排片",
@@ -21929,14 +21937,6 @@
       "onboard_time": 1683654916,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 25927,
-      "num": 25927,
-      "word": "AC米兰vs国际米兰",
-      "onboard_time": 1683741554,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 25851,
@@ -21995,6 +21995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19747,
+      "num": 19820,
+      "word": "曾舜晞孤舟回眸",
+      "onboard_time": 1683749652,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 19663,
       "num": 26424,
       "word": "北体好像没有地心引力",
@@ -22049,6 +22057,14 @@
       "onboard_time": 1683141673,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 11433,
+      "num": 19790,
+      "word": "列车杀人案受害者家属发文悼念",
+      "onboard_time": 1683750192,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10792,
