@@ -1,6 +1,6 @@
 {
   "startTime": 1683736826788,
-  "endTime": 1683754412546,
+  "endTime": 1683757100050,
   "band_list": [
     {
       "raw_hot": 1532446,
@@ -275,6 +275,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 118496,
+      "num": 118496,
+      "word": "7岁女孩三百多天照料唤醒昏迷父亲",
+      "onboard_time": 1683740356,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116732,
       "num": 116732,
       "word": "坏妈妈",
@@ -315,19 +323,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108892,
-      "num": 108892,
-      "word": "7岁女孩三百多天照料唤醒昏迷父亲",
-      "onboard_time": 1683740356,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 108306,
       "num": 93450,
       "word": "杨幂 名字的顺序都该为角色让位",
       "onboard_time": 1683694599,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 104185,
+      "num": 104185,
+      "word": "郭麒麟向涵之新剧分手戏",
+      "onboard_time": 1683751750,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -411,8 +419,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 53002,
-      "num": 53002,
+      "raw_hot": 76909,
+      "num": 76909,
       "word": "新娘崴脚中医伴郎现场针灸",
       "onboard_time": 1683737901,
       "rank": 18,
@@ -451,12 +459,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 42114,
-      "num": 42114,
-      "word": "郭麒麟向涵之新剧分手戏",
-      "onboard_time": 1683751750,
-      "rank": 16,
-      "category": "影视"
+      "raw_hot": 41229,
+      "num": 41229,
+      "word": "AC米兰vs国际米兰",
+      "onboard_time": 1683741554,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 39350,
@@ -467,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39289,
+      "num": 39289,
+      "word": "高三老师们走廊摆摊式辅导为学生答疑",
+      "onboard_time": 1683740177,
+      "rank": 38,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 39016,
       "num": 46762,
       "word": "大城市节奏就是快",
@@ -475,35 +491,51 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 34360,
-      "num": 34360,
-      "word": "AC米兰vs国际米兰",
-      "onboard_time": 1683741554,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 33144,
-      "num": 33144,
-      "word": "高三老师们走廊摆摊式辅导为学生答疑",
-      "onboard_time": 1683740177,
-      "rank": 38,
-      "category": "教育,社会新闻"
+      "raw_hot": 35771,
+      "num": 35771,
+      "word": "列车杀人案受害者家属发文悼念",
+      "onboard_time": 1683750192,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28921,
-      "num": 28921,
+      "num": 30480,
       "word": "戛纳展映排片",
       "onboard_time": 1683737959,
       "rank": 46,
       "category": "影视"
     },
     {
-      "raw_hot": 28343,
-      "num": 20683,
-      "word": "列车杀人案受害者家属发文悼念",
-      "onboard_time": 1683750192,
+      "raw_hot": 28154,
+      "num": 30635,
+      "word": "哈尔滨一九四四剧情简介",
+      "onboard_time": 1683754632,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 22677,
+      "num": 30334,
+      "word": "电视剧平凡之路",
+      "onboard_time": 1683756734,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 22015,
+      "num": 30255,
+      "word": "天舟六号发射现场",
+      "onboard_time": 1683754393,
       "rank": 48,
+      "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 21888,
+      "num": 30235,
+      "word": "食客起冲突见民警后气氛瞬间缓和",
+      "onboard_time": 1683757093,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -529,14 +561,6 @@
       "onboard_time": 1683750492,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 12925,
-      "num": 17862,
-      "word": "天舟六号发射现场",
-      "onboard_time": 1683754393,
-      "rank": 48,
-      "category": "科技,国内要闻"
     }
   ],
   "hotgov_list": [

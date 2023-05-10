@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683754412546,
+  "endTime": 1683757100050,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -20155,6 +20155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118496,
+      "num": 118496,
+      "word": "7岁女孩三百多天照料唤醒昏迷父亲",
+      "onboard_time": 1683740356,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118477,
       "num": 150759,
       "word": "工作不开心时要不要离职",
@@ -20451,14 +20459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 108892,
-      "num": 108892,
-      "word": "7岁女孩三百多天照料唤醒昏迷父亲",
-      "onboard_time": 1683740356,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 108824,
       "num": 108824,
       "word": "曼城vs利兹联",
@@ -20569,6 +20569,14 @@
       "onboard_time": 1683041672,
       "rank": 39,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 104185,
+      "num": 104185,
+      "word": "郭麒麟向涵之新剧分手戏",
+      "onboard_time": 1683751750,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 103359,
@@ -21163,6 +21171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76909,
+      "num": 76909,
+      "word": "新娘崴脚中医伴郎现场针灸",
+      "onboard_time": 1683737901,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76811,
       "num": 364598,
       "word": "寻找青春的纯与真",
@@ -21523,14 +21539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 53002,
-      "num": 53002,
-      "word": "新娘崴脚中医伴郎现场针灸",
-      "onboard_time": 1683737901,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 52638,
       "num": 52638,
       "word": "理发师为顾客打造桂林山水发型",
@@ -21707,14 +21715,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 42114,
-      "num": 42114,
-      "word": "郭麒麟向涵之新剧分手戏",
-      "onboard_time": 1683751750,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 42009,
       "num": 42009,
       "word": "SEVENTEEN演我生活状态",
@@ -21747,6 +21747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41229,
+      "num": 41229,
+      "word": "AC米兰vs国际米兰",
+      "onboard_time": 1683741554,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40049,
       "num": 1124857,
       "word": "劳动是奋斗追梦的五光十色",
@@ -21761,6 +21769,14 @@
       "onboard_time": 1683740416,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39289,
+      "num": 39289,
+      "word": "高三老师们走廊摆摊式辅导为学生答疑",
+      "onboard_time": 1683740177,
+      "rank": 38,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 39016,
@@ -21795,20 +21811,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35771,
+      "num": 35771,
+      "word": "列车杀人案受害者家属发文悼念",
+      "onboard_time": 1683750192,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35499,
       "num": 35499,
       "word": "张云雷听云见心演唱会官宣重启",
       "onboard_time": 1683666791,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 34360,
-      "num": 34360,
-      "word": "AC米兰vs国际米兰",
-      "onboard_time": 1683741554,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 34319,
@@ -21825,14 +21841,6 @@
       "onboard_time": 1683108271,
       "rank": 29,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 33144,
-      "num": 33144,
-      "word": "高三老师们走廊摆摊式辅导为学生答疑",
-      "onboard_time": 1683740177,
-      "rank": 38,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 32926,
@@ -21900,19 +21908,11 @@
     },
     {
       "raw_hot": 28921,
-      "num": 28921,
+      "num": 30480,
       "word": "戛纳展映排片",
       "onboard_time": 1683737959,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 28343,
-      "num": 20683,
-      "word": "列车杀人案受害者家属发文悼念",
-      "onboard_time": 1683750192,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28246,
@@ -21921,6 +21921,14 @@
       "onboard_time": 1682969413,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28154,
+      "num": 30635,
+      "word": "哈尔滨一九四四剧情简介",
+      "onboard_time": 1683754632,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 27402,
@@ -22001,6 +22009,30 @@
       "onboard_time": 1683324855,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 22677,
+      "num": 30334,
+      "word": "电视剧平凡之路",
+      "onboard_time": 1683756734,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 22015,
+      "num": 30255,
+      "word": "天舟六号发射现场",
+      "onboard_time": 1683754393,
+      "rank": 48,
+      "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 21888,
+      "num": 30235,
+      "word": "食客起冲突见民警后气氛瞬间缓和",
+      "onboard_time": 1683757093,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20291,
@@ -22089,14 +22121,6 @@
       "onboard_time": 1683141673,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 12925,
-      "num": 17862,
-      "word": "天舟六号发射现场",
-      "onboard_time": 1683754393,
-      "rank": 48,
-      "category": "科技,国内要闻"
     },
     {
       "raw_hot": 10792,
