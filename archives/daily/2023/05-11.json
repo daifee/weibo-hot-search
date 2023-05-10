@@ -1,6 +1,6 @@
 {
   "startTime": 1683736826788,
-  "endTime": 1683750202423,
+  "endTime": 1683750942214,
   "band_list": [
     {
       "raw_hot": 1532446,
@@ -499,12 +499,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 11433,
+      "raw_hot": 15094,
       "num": 19790,
       "word": "列车杀人案受害者家属发文悼念",
       "onboard_time": 1683750192,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12167,
+      "num": 19322,
+      "word": "云之羽预告",
+      "onboard_time": 1683750492,
+      "rank": 48,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
