@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683717246856,
+  "endTime": 1683718401466,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -115,20 +115,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2661643,
+      "num": 2661643,
+      "word": "言冰云谁演",
+      "onboard_time": 1683711930,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2598662,
       "num": 2598662,
       "word": "中了五亿",
       "onboard_time": 1683529596,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2577263,
-      "num": 2577263,
-      "word": "言冰云谁演",
-      "onboard_time": 1683711930,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 2555114,
@@ -843,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1105648,
+      "num": 1105648,
+      "word": "男子酒局带女儿炫耀被全桌羡慕",
+      "onboard_time": 1683712592,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1104845,
       "num": 1104845,
       "word": "腾讯给杨紫的定位",
@@ -992,14 +1000,6 @@
       "word": "福建3名落水基层干部遇难",
       "onboard_time": 1683714330,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 966583,
-      "num": 966583,
-      "word": "男子酒局带女儿炫耀被全桌羡慕",
-      "onboard_time": 1683712592,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1587,6 +1587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 589180,
+      "num": 589180,
+      "word": "许光汉 同济",
+      "onboard_time": 1683717449,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 586454,
       "num": 586454,
       "word": "长月烬明番外",
@@ -1705,6 +1713,14 @@
       "onboard_time": 1683637411,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 541678,
+      "num": 541678,
+      "word": "父母心疼女儿制毒辛苦帮忙贩毒",
+      "onboard_time": 1683717145,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 541156,
@@ -2427,6 +2443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 382624,
+      "num": 1706441,
+      "word": "男子躺地铁座椅酣睡获众人理解心疼",
+      "onboard_time": 1683716011,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381683,
       "num": 381683,
       "word": "春色寄情人",
@@ -2536,14 +2560,6 @@
       "word": "上海虹桥火车站一女子坠楼仍在抢救",
       "onboard_time": 1683630389,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 368425,
-      "num": 1706441,
-      "word": "男子躺地铁座椅酣睡获众人理解心疼",
-      "onboard_time": 1683716011,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -3059,6 +3075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 321540,
+      "num": 321540,
+      "word": "田柾国扎头发",
+      "onboard_time": 1683717328,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 318961,
       "num": 318961,
       "word": "云之羽",
@@ -3353,6 +3377,14 @@
       "onboard_time": 1683697057,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 294395,
+      "num": 294395,
+      "word": "汪峰说从来没有怕过章子怡",
+      "onboard_time": 1683713187,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 294058,
@@ -3659,14 +3691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 271014,
-      "num": 271014,
-      "word": "汪峰说从来没有怕过章子怡",
-      "onboard_time": 1683713187,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 269801,
       "num": 269801,
       "word": "宋丹丹问孟子义喜欢谁",
@@ -3761,6 +3785,22 @@
       "onboard_time": 1683712652,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 263612,
+      "num": 263612,
+      "word": "冯巩当选中国曲艺家协会主席",
+      "onboard_time": 1683716549,
+      "rank": 33,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 263386,
+      "num": 263386,
+      "word": "少年派还有第3部",
+      "onboard_time": 1683716668,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 260972,
@@ -3980,7 +4020,7 @@
     },
     {
       "raw_hot": 250855,
-      "num": 223043,
+      "num": 231118,
       "word": "身上5种疣可能是HPV感染",
       "onboard_time": 1683715409,
       "rank": 30,
@@ -4016,6 +4056,14 @@
       "word": "青蛙人偶被若干小孩围堵打哭未还手",
       "onboard_time": 1683693217,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249251,
+      "num": 249251,
+      "word": "淄博服装店老板免费接客成新副本",
+      "onboard_time": 1683716130,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -4675,14 +4723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 207305,
-      "num": 207305,
-      "word": "冯巩当选中国曲艺家协会主席",
-      "onboard_time": 1683716549,
-      "rank": 33,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 207075,
       "num": 207075,
       "word": "被20年前物价震撼到了",
@@ -4963,14 +5003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192818,
-      "num": 192818,
-      "word": "淄博服装店老板免费接客成新副本",
-      "onboard_time": 1683716130,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192379,
       "num": 192379,
       "word": "分享下你听了十年以上的歌",
@@ -5131,6 +5163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182876,
+      "num": 182876,
+      "word": "七小时结束了相恋七年的感情",
+      "onboard_time": 1683718169,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182635,
       "num": 182635,
       "word": "观鹤笔记官宣影视化",
@@ -5145,6 +5185,14 @@
       "onboard_time": 1683676347,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181311,
+      "num": 181311,
+      "word": "杨紫雨中撑伞转圈",
+      "onboard_time": 1683714690,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 180248,
@@ -5193,14 +5241,6 @@
       "onboard_time": 1683527795,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 178382,
-      "num": 178382,
-      "word": "少年派还有第3部",
-      "onboard_time": 1683716668,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 178187,
@@ -5283,14 +5323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 175057,
-      "num": 175057,
-      "word": "杨紫雨中撑伞转圈",
-      "onboard_time": 1683714690,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 174265,
       "num": 174265,
       "word": "郭艾伦缺席",
@@ -5337,6 +5369,14 @@
       "onboard_time": 1683695380,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172521,
+      "num": 172521,
+      "word": "你给我的喜欢大结局",
+      "onboard_time": 1683718169,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 171997,
@@ -5577,14 +5617,6 @@
       "onboard_time": 1683709768,
       "rank": 42,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 151462,
-      "num": 151462,
-      "word": "父母心疼女儿制毒辛苦帮忙贩毒",
-      "onboard_time": 1683717145,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151080,
@@ -6265,6 +6297,14 @@
       "onboard_time": 1683466712,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76451,
+      "num": 153385,
+      "word": "预制菜 食品工业化",
+      "onboard_time": 1683717449,
+      "rank": 48,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 76377,
