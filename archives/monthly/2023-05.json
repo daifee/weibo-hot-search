@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683740050422,
+  "endTime": 1683743295916,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -20715,6 +20715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 97163,
+      "num": 97163,
+      "word": "7岁女孩三百多天照料唤醒昏迷父亲",
+      "onboard_time": 1683740356,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97030,
       "num": 97030,
       "word": "淄博八大局记忆",
@@ -21555,6 +21563,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 51200,
+      "num": 51200,
+      "word": "新娘崴脚中医伴郎现场针灸",
+      "onboard_time": 1683737901,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51061,
       "num": 128925,
       "word": "Cat选手夏天见",
@@ -21619,6 +21635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 46325,
+      "num": 48816,
+      "word": "just chill out",
+      "onboard_time": 1683736522,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 45965,
       "num": 49673,
       "word": "深圳马可波罗",
@@ -21641,14 +21665,6 @@
       "onboard_time": 1683657314,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 43817,
-      "num": 48816,
-      "word": "just chill out",
-      "onboard_time": 1683736522,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 43759,
@@ -21731,6 +21747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39350,
+      "num": 39350,
+      "word": "布斯克茨宣布离开巴萨",
+      "onboard_time": 1683740416,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39016,
       "num": 46762,
       "word": "大城市节奏就是快",
@@ -21785,6 +21809,14 @@
       "onboard_time": 1683108271,
       "rank": 29,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 33144,
+      "num": 33144,
+      "word": "高三老师们走廊摆摊式辅导为学生答疑",
+      "onboard_time": 1683740177,
+      "rank": 38,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 32926,
@@ -21849,6 +21881,14 @@
       "onboard_time": 1683399554,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 28921,
+      "num": 28921,
+      "word": "戛纳展映排片",
+      "onboard_time": 1683737959,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 28246,
