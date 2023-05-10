@@ -1,6 +1,6 @@
 {
   "startTime": 1683649328764,
-  "endTime": 1683706858405,
+  "endTime": 1683707634155,
   "band_list": [
     {
       "raw_hot": 6333261,
@@ -59,8 +59,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 2127125,
-      "num": 2127125,
+      "raw_hot": 2208279,
+      "num": 2208279,
       "word": "深圳女副区长一撮白发被指挑染",
       "onboard_time": 1683696274,
       "rank": 30,
@@ -89,6 +89,14 @@
       "onboard_time": 1683676827,
       "rank": 1,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1625962,
+      "num": 1625962,
+      "word": "自曝被郑州大学教授性侵女子仍未报警",
+      "onboard_time": 1683700592,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1619996,
@@ -123,12 +131,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1507148,
-      "num": 1507148,
-      "word": "自曝被郑州大学教授性侵女子仍未报警",
-      "onboard_time": 1683700592,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 1515573,
+      "num": 1515573,
+      "word": "佳能 黄旭熙",
+      "onboard_time": 1683702632,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 1456869,
@@ -137,14 +145,6 @@
       "onboard_time": 1683677911,
       "rank": 4,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1427560,
-      "num": 1427560,
-      "word": "佳能 黄旭熙",
-      "onboard_time": 1683702632,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 1386329,
@@ -169,6 +169,14 @@
       "onboard_time": 1683644972,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1181345,
+      "num": 1181345,
+      "word": "庆余年2原班人马",
+      "onboard_time": 1683705332,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 1051499,
@@ -241,14 +249,6 @@
       "onboard_time": 1683675385,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 804661,
-      "num": 804661,
-      "word": "庆余年2原班人马",
-      "onboard_time": 1683705332,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 796097,
@@ -419,6 +419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 569102,
+      "num": 569102,
+      "word": "山东学生身高竟然不是全国第一",
+      "onboard_time": 1683702332,
+      "rank": 36,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 560585,
       "num": 560585,
       "word": "男孩2年后再见好友满脸难以置信",
@@ -483,14 +491,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 502480,
-      "num": 502480,
-      "word": "山东学生身高竟然不是全国第一",
-      "onboard_time": 1683702332,
-      "rank": 36,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 501059,
       "num": 501059,
       "word": "gidle先行曲MV疑似抄袭",
@@ -547,6 +547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 449968,
+      "num": 449968,
+      "word": "一觉醒来咽喉炎了",
+      "onboard_time": 1683701794,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 448911,
       "num": 285219,
       "word": "室友的简历被人事单独留下了",
@@ -579,20 +587,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 422513,
+      "num": 422513,
+      "word": "庆余年",
+      "onboard_time": 1683704850,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 420489,
       "num": 420489,
       "word": "玉骨遥",
       "onboard_time": 1683702090,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 419539,
-      "num": 419539,
-      "word": "一觉醒来咽喉炎了",
-      "onboard_time": 1683701794,
-      "rank": 33,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 417698,
@@ -611,20 +619,20 @@
       "category": "游戏,社会新闻"
     },
     {
+      "raw_hot": 411302,
+      "num": 257662,
+      "word": "男朋友国内登机失联10小时",
+      "onboard_time": 1683704554,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 408922,
       "num": 243898,
       "word": "NCT",
       "onboard_time": 1683699990,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 396627,
-      "num": 396627,
-      "word": "庆余年",
-      "onboard_time": 1683704850,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 395033,
@@ -691,12 +699,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 365062,
-      "num": 257662,
-      "word": "男朋友国内登机失联10小时",
-      "onboard_time": 1683704554,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 364627,
+      "num": 364627,
+      "word": "易烊千玺说有实体专辑",
+      "onboard_time": 1683705453,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 362527,
@@ -859,6 +867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 315660,
+      "num": 239911,
+      "word": "中国网评杨幂对角色与番位的态度",
+      "onboard_time": 1683703653,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 315233,
       "num": 315233,
       "word": "皇马1比1曼城",
@@ -907,14 +923,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 298319,
-      "num": 239780,
-      "word": "易烊千玺说有实体专辑",
-      "onboard_time": 1683705453,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 294434,
       "num": 294434,
       "word": "凭什么打开APP时暂停我的歌",
@@ -953,6 +961,14 @@
       "onboard_time": 1683705810,
       "rank": 26,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 286008,
+      "num": 238230,
+      "word": "人丑真的连细节都是丑的",
+      "onboard_time": 1683706289,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 284575,
@@ -1011,6 +1027,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 272740,
+      "num": 232275,
+      "word": "庆余年2再相逢版海报",
+      "onboard_time": 1683704731,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272608,
       "num": 242120,
       "word": "张予曦cos斗罗大陆小舞",
@@ -1043,14 +1067,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 263532,
-      "num": 216359,
-      "word": "中国网评杨幂对角色与番位的态度",
-      "onboard_time": 1683703653,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 260774,
       "num": 260774,
       "word": "张婧仪上错车",
@@ -1068,7 +1084,7 @@
     },
     {
       "raw_hot": 259322,
-      "num": 201649,
+      "num": 203983,
       "word": "张若昀小范大人定妆vlog",
       "onboard_time": 1683706351,
       "rank": 30,
@@ -1097,14 +1113,6 @@
       "onboard_time": 1683683728,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 256131,
-      "num": 198909,
-      "word": "庆余年2再相逢版海报",
-      "onboard_time": 1683704731,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 255832,
@@ -1323,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202978,
+      "num": 202978,
+      "word": "深圳男子暴雨天救助流浪猫是野生动物",
+      "onboard_time": 1683703114,
+      "rank": 34,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 200414,
       "num": 200414,
       "word": "威神V",
@@ -1379,14 +1395,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 194088,
-      "num": 194088,
-      "word": "深圳男子暴雨天救助流浪猫是野生动物",
-      "onboard_time": 1683703114,
-      "rank": 34,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 192881,
       "num": 192881,
       "word": "迷路大爷误上婚车被拉到40里外婚房",
@@ -1417,6 +1425,14 @@
       "onboard_time": 1683629789,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 184024,
+      "num": 184024,
+      "word": "徐明浩直播",
+      "onboard_time": 1683707492,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 182635,
@@ -1465,6 +1481,14 @@
       "onboard_time": 1683699454,
       "rank": 42,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 175957,
+      "num": 175957,
+      "word": "终于等到庆余年2",
+      "onboard_time": 1683707312,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 173079,
@@ -1531,19 +1555,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154903,
+      "num": 154903,
+      "word": "你给我的喜欢",
+      "onboard_time": 1683706711,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 154535,
       "num": 154535,
       "word": "华流的存在感到底有多强",
       "onboard_time": 1683699814,
       "rank": 40,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 154008,
-      "num": 154008,
-      "word": "人丑真的连细节都是丑的",
-      "onboard_time": 1683706289,
-      "rank": 42,
       "category": "幽默"
     },
     {
@@ -1643,6 +1667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130140,
+      "num": 130140,
+      "word": "小范大人好久不见",
+      "onboard_time": 1683707612,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 124294,
       "num": 132554,
       "word": "2岁小锣鼓手婚礼上惊艳献技",
@@ -1665,14 +1697,6 @@
       "onboard_time": 1683627026,
       "rank": 42,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 120616,
-      "num": 120616,
-      "word": "你给我的喜欢",
-      "onboard_time": 1683706711,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 120361,
@@ -1835,6 +1859,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 64742,
+      "num": 127684,
+      "word": "地表最强COSPLAY阴阳师",
+      "onboard_time": 1683707013,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 61290,
       "num": 61290,
       "word": "疑火车行凶案凶手曾自述患精神分裂",
@@ -1851,6 +1883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 38166,
+      "num": 175959,
+      "word": "淘宝首次拍卖仓库搬空权",
+      "onboard_time": 1683705633,
+      "rank": 39,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 35499,
       "num": 35499,
       "word": "张云雷听云见心演唱会官宣重启",
@@ -1865,14 +1905,6 @@
       "onboard_time": 1683542552,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 29951,
-      "num": 154079,
-      "word": "淘宝首次拍卖仓库搬空权",
-      "onboard_time": 1683705633,
-      "rank": 39,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 25931,
@@ -1908,6 +1940,9 @@
     },
     {
       "word": "#天舟快递使命必达#"
+    },
+    {
+      "word": "#天舟六号已准备就绪#"
     }
   ]
 }
