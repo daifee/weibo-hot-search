@@ -1,0 +1,410 @@
+{
+  "runTime": 1683706858405,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2127125,
+        "num": 2127125,
+        "word": "深圳女副区长一撮白发被指挑染",
+        "onboard_time": 1683696274,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1814795,
+        "num": 1814795,
+        "word": "黄旭熙正式退团",
+        "onboard_time": 1683699157,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47816,
+        "num": 1550268,
+        "word": "5.8%的背后哪些科目越来越好",
+        "onboard_time": 1683688891,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1507148,
+        "num": 1507148,
+        "word": "自曝被郑州大学教授性侵女子仍未报警",
+        "onboard_time": 1683700592,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1427560,
+        "num": 1427560,
+        "word": "佳能 黄旭熙",
+        "onboard_time": 1683702632,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1235342,
+        "num": 1235342,
+        "word": "杨幂 名字的顺序都该为角色让位",
+        "onboard_time": 1683694599,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1011041,
+        "num": 1011041,
+        "word": "庆余年第二季今日开机",
+        "onboard_time": 1683703413,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 804661,
+        "num": 804661,
+        "word": "庆余年2原班人马",
+        "onboard_time": 1683705332,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 711075,
+        "num": 711075,
+        "word": "男童喉咙长菜花样肿块确诊感染HPV",
+        "onboard_time": 1683690811,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 646969,
+        "num": 646969,
+        "word": "女子官宣结婚被民警提醒赶紧分手",
+        "onboard_time": 1683688050,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 689703,
+        "num": 609753,
+        "word": "权志龙王一博今晚要同框",
+        "onboard_time": 1683693158,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 502480,
+        "num": 502480,
+        "word": "山东学生身高竟然不是全国第一",
+        "onboard_time": 1683702332,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 464341,
+        "num": 464341,
+        "word": "白鹿新剧演恶女",
+        "onboard_time": 1683691174,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 419539,
+        "num": 419539,
+        "word": "一觉醒来咽喉炎了",
+        "onboard_time": 1683701794,
+        "rank": 13,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 396627,
+        "num": 396627,
+        "word": "庆余年",
+        "onboard_time": 1683704850,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366459,
+        "num": 366459,
+        "word": "玉骨遥",
+        "onboard_time": 1683702090,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341809,
+        "num": 341809,
+        "word": "真情侣待播剧",
+        "onboard_time": 1683699454,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 325923,
+        "num": 325923,
+        "word": "杨澜 没有移民没有绿卡",
+        "onboard_time": 1683703471,
+        "rank": 17,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 312484,
+        "num": 312484,
+        "word": "很烧钱又戒不掉的爱好",
+        "onboard_time": 1683681929,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275082,
+        "num": 275082,
+        "word": "李云泽任国家金融监督管理总局党委书记",
+        "onboard_time": 1683704072,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 448911,
+        "num": 268677,
+        "word": "室友的简历被人事单独留下了",
+        "onboard_time": 1683702392,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 365062,
+        "num": 257662,
+        "word": "男朋友国内登机失联10小时",
+        "onboard_time": 1683704554,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322996,
+        "num": 254626,
+        "word": "刘诗诗说既然你们缺人不如邀我同行",
+        "onboard_time": 1683686906,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298319,
+        "num": 239780,
+        "word": "易烊千玺说有实体专辑",
+        "onboard_time": 1683705453,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 238671,
+        "num": 238671,
+        "word": "特朗普被裁定性侵",
+        "onboard_time": 1683674843,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290613,
+        "num": 235938,
+        "word": "gidle先行曲MV疑似抄袭",
+        "onboard_time": 1683698673,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 287163,
+        "num": 221808,
+        "word": "王俊凯暴龙直播",
+        "onboard_time": 1683705810,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 263532,
+        "num": 216359,
+        "word": "中国网评杨幂对角色与番位的态度",
+        "onboard_time": 1683703653,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258583,
+        "num": 209025,
+        "word": "IU被告发涉嫌剽窃6首歌曲",
+        "onboard_time": 1683686906,
+        "rank": 28,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 202108,
+        "num": 202108,
+        "word": "郑州大学回应女子称11年前遭老师侵犯",
+        "onboard_time": 1683676827,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 259322,
+        "num": 201649,
+        "word": "张若昀小范大人定妆vlog",
+        "onboard_time": 1683706351,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200206,
+        "num": 200206,
+        "word": "小三得知我要离婚发的短信",
+        "onboard_time": 1683621988,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256131,
+        "num": 198909,
+        "word": "庆余年2再相逢版海报",
+        "onboard_time": 1683704731,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196490,
+        "num": 196490,
+        "word": "圆明园黑天鹅死于肺部感染",
+        "onboard_time": 1683701494,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176568,
+        "num": 176568,
+        "word": "女子跑步低血糖晕倒瞬间被男子扶起",
+        "onboard_time": 1683701914,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215007,
+        "num": 172850,
+        "word": "张云龙 竹业篇",
+        "onboard_time": 1683693457,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196700,
+        "num": 172647,
+        "word": "长风渡 真情侣",
+        "onboard_time": 1683686368,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165954,
+        "num": 165954,
+        "word": "深圳男子暴雨天救助流浪猫是野生动物",
+        "onboard_time": 1683703114,
+        "rank": 37,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 154312,
+        "num": 154312,
+        "word": "多名男子搭讪邻桌女孩店员劝阻起冲突",
+        "onboard_time": 1683698733,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29951,
+        "num": 154079,
+        "word": "淘宝首次拍卖仓库搬空权",
+        "onboard_time": 1683705633,
+        "rank": 39,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 179699,
+        "num": 154071,
+        "word": "白敬亭撒娇不像演的",
+        "onboard_time": 1683701191,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178926,
+        "num": 154041,
+        "word": "兜兜转转还是诗幂",
+        "onboard_time": 1683696994,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154008,
+        "num": 154008,
+        "word": "人丑真的连细节都是丑的",
+        "onboard_time": 1683706289,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142493,
+        "num": 142493,
+        "word": "凭什么打开APP时暂停我的歌",
+        "onboard_time": 1683697057,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135749,
+        "num": 135749,
+        "word": "肖战白百何骄阳伴我Q4播出",
+        "onboard_time": 1683697358,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123707,
+        "num": 123707,
+        "word": "狐妖小红娘竹业篇",
+        "onboard_time": 1683685288,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120616,
+        "num": 120616,
+        "word": "你给我的喜欢",
+        "onboard_time": 1683706711,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110638,
+        "num": 110638,
+        "word": "说不定呢",
+        "onboard_time": 1683706229,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63159,
+        "num": 110633,
+        "word": "TTG和WB全员入围亚运集训",
+        "onboard_time": 1683696399,
+        "rank": 48,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 45722,
+        "num": 110592,
+        "word": "清融",
+        "onboard_time": 1683688529,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#天舟快递使命必达#"
+    }
+  }
+}
