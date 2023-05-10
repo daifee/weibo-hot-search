@@ -1,0 +1,410 @@
+{
+  "runTime": 1683689640253,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5078061,
+        "num": 5078061,
+        "word": "IU被警方告发涉嫌剽窃6首歌曲",
+        "onboard_time": 1683686906,
+        "rank": 0,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 3247724,
+        "num": 3247724,
+        "word": "女子官宣结婚被民警提醒赶紧分手",
+        "onboard_time": 1683688050,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67672,
+        "num": 1925151,
+        "word": "5.8%的背后哪些科目越来越好",
+        "onboard_time": 1683688891,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1801349,
+        "num": 1801349,
+        "word": "很烧钱又戒不掉的爱好",
+        "onboard_time": 1683681929,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1588567,
+        "num": 1588567,
+        "word": "刘诗诗说既然你们缺人不如邀我同行",
+        "onboard_time": 1683686906,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1504434,
+        "num": 1504434,
+        "word": "狐妖小红娘竹业篇",
+        "onboard_time": 1683685288,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1449187,
+        "num": 1449187,
+        "word": "特朗普被裁定性侵",
+        "onboard_time": 1683674843,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1352961,
+        "num": 1352961,
+        "word": "郑州大学回应女子称11年前遭老师侵犯",
+        "onboard_time": 1683676827,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1301581,
+        "num": 1301581,
+        "word": "长风渡 真情侣",
+        "onboard_time": 1683686368,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 796097,
+        "num": 796097,
+        "word": "周也早几年干嘛去了",
+        "onboard_time": 1683677310,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 720632,
+        "num": 720632,
+        "word": "中新网评刘亦菲曾被霸凌",
+        "onboard_time": 1683675385,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 640414,
+        "num": 640414,
+        "word": "徐梦洁 两台手机两个鸟巢也容不下一个我",
+        "onboard_time": 1683677911,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 599386,
+        "num": 599386,
+        "word": "狐妖小红娘月红篇涂山情缘版海报",
+        "onboard_time": 1683685589,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 541449,
+        "num": 541449,
+        "word": "罗翔谈女子遭掌掴还手被判定互殴",
+        "onboard_time": 1683687691,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506919,
+        "num": 506919,
+        "word": "王一博香奈儿看秀造型",
+        "onboard_time": 1683684628,
+        "rank": 14,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 554850,
+        "num": 505396,
+        "word": "文俊辉将录制国内综艺",
+        "onboard_time": 1683685946,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 502913,
+        "num": 502913,
+        "word": "长月烬明编剧发文",
+        "onboard_time": 1683683428,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 425211,
+        "num": 425211,
+        "word": "王者荣耀亚运版本国家集训队名单",
+        "onboard_time": 1683685288,
+        "rank": 17,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 421999,
+        "num": 421999,
+        "word": "女子换肾重生11年救助上千病友",
+        "onboard_time": 1683686788,
+        "rank": 18,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 382068,
+        "num": 382068,
+        "word": "郑州大学王国胜",
+        "onboard_time": 1683676347,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 555905,
+        "num": 382041,
+        "word": "小三得知我要离婚发的短信",
+        "onboard_time": 1683621988,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 490116,
+        "num": 377495,
+        "word": "陈冰 麦当劳",
+        "onboard_time": 1683676407,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 459055,
+        "num": 374152,
+        "word": "白敬亭新剧人设是妻管严",
+        "onboard_time": 1683684148,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 330022,
+        "num": 372641,
+        "word": "男子举牌相亲月薪6千要求女方1万2",
+        "onboard_time": 1683687328,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324568,
+        "num": 370540,
+        "word": "这不得迷死王俊凯",
+        "onboard_time": 1683688292,
+        "rank": 24,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 368222,
+        "num": 368222,
+        "word": "江苏卫视一口气官宣了22档节目",
+        "onboard_time": 1683688952,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 365992,
+        "num": 365992,
+        "word": "爱奇艺好多待播剧",
+        "onboard_time": 1683684328,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322507,
+        "num": 360692,
+        "word": "花过最冤枉的一次钱是什么",
+        "onboard_time": 1683688891,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 358047,
+        "num": 358047,
+        "word": "杨幂涂山红红定妆侧拍花絮",
+        "onboard_time": 1683687867,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 315390,
+        "num": 356016,
+        "word": "这放整个肛肠科都很炸裂",
+        "onboard_time": 1683624870,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 355951,
+        "num": 355951,
+        "word": "网剧唐人街探案2首支预告",
+        "onboard_time": 1683686608,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317243,
+        "num": 317243,
+        "word": "罗云熙陈瑶二搭",
+        "onboard_time": 1683683129,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304894,
+        "num": 304894,
+        "word": "二阳",
+        "onboard_time": 1683682110,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286843,
+        "num": 286843,
+        "word": "七时吉祥",
+        "onboard_time": 1683685228,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262554,
+        "num": 262554,
+        "word": "辱骂女大学生致死案房东发声",
+        "onboard_time": 1683649945,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252718,
+        "num": 252718,
+        "word": "苹果客服回应女生手机隔空收到不雅照",
+        "onboard_time": 1683685048,
+        "rank": 35,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 251719,
+        "num": 251719,
+        "word": "在怎样的一瞬间认清了一个人",
+        "onboard_time": 1683688891,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231649,
+        "num": 231649,
+        "word": "云之羽",
+        "onboard_time": 1683683968,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132386,
+        "num": 230600,
+        "word": "电动车卷到头了吗",
+        "onboard_time": 1683689132,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 229878,
+        "num": 229878,
+        "word": "亚运会",
+        "onboard_time": 1683685709,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227554,
+        "num": 227554,
+        "word": "庆余年2召集令",
+        "onboard_time": 1683682588,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226851,
+        "num": 226851,
+        "word": "宋慧乔送韩素希应援车",
+        "onboard_time": 1683678453,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225778,
+        "num": 225778,
+        "word": "费城76人",
+        "onboard_time": 1683684148,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225502,
+        "num": 225502,
+        "word": "香奈儿大秀",
+        "onboard_time": 1683684268,
+        "rank": 43,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 222916,
+        "num": 222916,
+        "word": "长风渡",
+        "onboard_time": 1683682228,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205736,
+        "num": 219466,
+        "word": "清融",
+        "onboard_time": 1683688529,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218728,
+        "num": 218728,
+        "word": "杭州女生地铁上隔空收到不雅照",
+        "onboard_time": 1683644972,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216169,
+        "num": 216169,
+        "word": "虞书欣云之羽抬眸",
+        "onboard_time": 1683686489,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216090,
+        "num": 216090,
+        "word": "无忧渡",
+        "onboard_time": 1683688350,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199254,
+        "num": 199254,
+        "word": "Switch卖不动了吗",
+        "onboard_time": 1683677368,
+        "rank": 49,
+        "category": "游戏,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这就是中国活力#"
+    }
+  }
+}

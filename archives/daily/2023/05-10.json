@@ -1,14 +1,22 @@
 {
   "startTime": 1683649328764,
-  "endTime": 1683688676491,
+  "endTime": 1683689640253,
   "band_list": [
     {
-      "raw_hot": 3803742,
-      "num": 3803742,
+      "raw_hot": 5078061,
+      "num": 5078061,
       "word": "IU被警方告发涉嫌剽窃6首歌曲",
       "onboard_time": 1683686906,
       "rank": 0,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 3247724,
+      "num": 3247724,
+      "word": "女子官宣结婚被民警提醒赶紧分手",
+      "onboard_time": 1683688050,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2669790,
@@ -51,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1588567,
+      "num": 1588567,
+      "word": "刘诗诗说既然你们缺人不如邀我同行",
+      "onboard_time": 1683686906,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1584435,
       "num": 1584435,
       "word": "狐妖小红娘竹业篇",
@@ -67,28 +83,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1276868,
-      "num": 1276868,
-      "word": "杭州女生地铁上隔空收到不雅照",
-      "onboard_time": 1683644972,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1088525,
-      "num": 1088525,
+      "raw_hot": 1301581,
+      "num": 1301581,
       "word": "长风渡 真情侣",
       "onboard_time": 1683686368,
       "rank": 42,
       "category": "影视"
     },
     {
-      "raw_hot": 968925,
-      "num": 968925,
-      "word": "刘诗诗说既然你们缺人不如邀我同行",
-      "onboard_time": 1683686906,
-      "rank": 7,
-      "category": "影视"
+      "raw_hot": 1276868,
+      "num": 1276868,
+      "word": "杭州女生地铁上隔空收到不雅照",
+      "onboard_time": 1683644972,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 946069,
@@ -131,8 +139,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 785069,
-      "num": 774327,
+      "raw_hot": 796097,
+      "num": 796097,
       "word": "周也早几年干嘛去了",
       "onboard_time": 1683677310,
       "rank": 8,
@@ -153,14 +161,6 @@
       "onboard_time": 1683678453,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 761170,
-      "num": 761170,
-      "word": "女子官宣结婚被民警提醒赶紧分手",
-      "onboard_time": 1683688050,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 757181,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 618610,
-      "num": 479015,
+      "num": 505396,
       "word": "文俊辉将录制国内综艺",
       "onboard_time": 1683685946,
       "rank": 36,
@@ -273,6 +273,14 @@
       "onboard_time": 1683680789,
       "rank": 16,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 541449,
+      "num": 541449,
+      "word": "罗翔谈女子遭掌掴还手被判定互殴",
+      "onboard_time": 1683687691,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 530606,
@@ -411,20 +419,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 372152,
-      "num": 372152,
-      "word": "罗翔谈女子遭掌掴还手被判定互殴",
-      "onboard_time": 1683687691,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 368222,
+      "num": 368222,
+      "word": "江苏卫视一口气官宣了22档节目",
+      "onboard_time": 1683688952,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 360916,
-      "num": 360916,
+      "num": 372641,
       "word": "男子举牌相亲月薪6千要求女方1万2",
       "onboard_time": 1683687328,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358047,
+      "num": 358047,
+      "word": "杨幂涂山红红定妆侧拍花絮",
+      "onboard_time": 1683687867,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 354333,
@@ -497,6 +513,22 @@
       "onboard_time": 1683679353,
       "rank": 19,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 324568,
+      "num": 370540,
+      "word": "这不得迷死王俊凯",
+      "onboard_time": 1683688292,
+      "rank": 44,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 322507,
+      "num": 360692,
+      "word": "花过最冤枉的一次钱是什么",
+      "onboard_time": 1683688891,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 318961,
@@ -579,14 +611,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 275845,
-      "num": 266847,
-      "word": "杨幂涂山红红定妆侧拍花絮",
-      "onboard_time": 1683687867,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 274020,
       "num": 218749,
       "word": "号称投资百亿争做全省第三如今烂尾",
@@ -667,6 +691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 251719,
+      "num": 251719,
+      "word": "在怎样的一瞬间认清了一个人",
+      "onboard_time": 1683688891,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 241456,
       "num": 241456,
       "word": "护心小学生特效",
@@ -713,14 +745,6 @@
       "onboard_time": 1683686128,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 227900,
-      "num": 227900,
-      "word": "这不得迷死王俊凯",
-      "onboard_time": 1683688292,
-      "rank": 44,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 225552,
@@ -776,6 +800,14 @@
       "word": "狐妖小红娘月红篇",
       "onboard_time": 1683686847,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 216169,
+      "num": 216169,
+      "word": "虞书欣云之羽抬眸",
+      "onboard_time": 1683686489,
+      "rank": 49,
       "category": "影视"
     },
     {
@@ -883,14 +915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172804,
-      "num": 172804,
-      "word": "虞书欣云之羽抬眸",
-      "onboard_time": 1683686489,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 171482,
       "num": 171482,
       "word": "陈若琳驳斥谣言为全红婵正名",
@@ -985,6 +1009,14 @@
       "onboard_time": 1683682350,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132386,
+      "num": 230600,
+      "word": "电动车卷到头了吗",
+      "onboard_time": 1683689132,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 123629,
@@ -1137,6 +1169,14 @@
       "onboard_time": 1683649585,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 67672,
+      "num": 1925151,
+      "word": "5.8%的背后哪些科目越来越好",
+      "onboard_time": 1683688891,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67497,
