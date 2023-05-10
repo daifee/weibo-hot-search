@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683760642272,
+  "endTime": 1683761623963,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -931,6 +931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1076016,
+      "num": 259382,
+      "word": "杨洋同学会全记录视频",
+      "onboard_time": 1683734128,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1072003,
       "num": 1072003,
       "word": "千万不要再侧躺玩手机",
@@ -1251,14 +1259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 810999,
-      "num": 259382,
-      "word": "杨洋同学会全记录视频",
-      "onboard_time": 1683734128,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 803185,
       "num": 803185,
       "word": "女子车位被邻居霸停数月直接焊死",
@@ -1499,6 +1499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 666578,
+      "num": 666578,
+      "word": "身上5种疣可能是HPV感染",
+      "onboard_time": 1683715409,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 663908,
       "num": 396160,
       "word": "怀孕确实能看清自己的老公",
@@ -1545,14 +1553,6 @@
       "onboard_time": 1683685589,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 642730,
-      "num": 642730,
-      "word": "身上5种疣可能是HPV感染",
-      "onboard_time": 1683715409,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 637804,
@@ -2307,6 +2307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429597,
+      "num": 429597,
+      "word": "高铁掌掴事件车厢画面公布",
+      "onboard_time": 1683730653,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428345,
       "num": 428345,
       "word": "事业编和公务员哪个更难考",
@@ -2537,14 +2545,6 @@
       "onboard_time": 1683613046,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 397451,
-      "num": 397451,
-      "word": "高铁掌掴事件车厢画面公布",
-      "onboard_time": 1683730653,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 395033,
@@ -4283,6 +4283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 252579,
+      "num": 252579,
+      "word": "新娘崴脚中医伴郎现场针灸",
+      "onboard_time": 1683737901,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252260,
       "num": 252260,
       "word": "很难相信是同一个人的衣服",
@@ -4699,14 +4707,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 229571,
-      "num": 229571,
-      "word": "新娘崴脚中医伴郎现场针灸",
-      "onboard_time": 1683737901,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229541,
       "num": 229541,
       "word": "王一博秀场滑冰",
@@ -5059,6 +5059,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 210206,
+      "num": 210206,
+      "word": "AC米兰0比2国际米兰",
+      "onboard_time": 1683761122,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209700,
       "num": 184784,
       "word": "爱奇艺新综艺片单刷不完",
@@ -5395,6 +5403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193956,
+      "num": 144770,
+      "word": "男子强拉妻子退几十元衣服",
+      "onboard_time": 1683760403,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193685,
       "num": 193685,
       "word": "你给我的喜欢",
@@ -5457,6 +5473,14 @@
       "onboard_time": 1683529596,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190407,
+      "num": 106566,
+      "word": "杭州地铁售票机不能用支付宝",
+      "onboard_time": 1683759861,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190291,
@@ -5587,6 +5611,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 185740,
+      "num": 185740,
+      "word": "郭麒麟向涵之新剧分手戏",
+      "onboard_time": 1683751750,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185557,
       "num": 185557,
       "word": "深夜会激起你的购买欲吗",
@@ -5627,6 +5659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182045,
+      "num": 182045,
+      "word": "日本地震",
+      "onboard_time": 1683760881,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181311,
       "num": 181311,
       "word": "杨紫雨中撑伞转圈",
@@ -5641,6 +5681,14 @@
       "onboard_time": 1683456031,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180196,
+      "num": 144146,
+      "word": "孟羽童曾称董明珠不可复制",
+      "onboard_time": 1683759077,
+      "rank": 23,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 179737,
@@ -5801,6 +5849,14 @@
       "onboard_time": 1683627328,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 173012,
+      "num": 105712,
+      "word": "男子晒术后取出颅骨碎片薄如甲片",
+      "onboard_time": 1683761183,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172974,
@@ -6019,14 +6075,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 158164,
-      "num": 158164,
-      "word": "郭麒麟向涵之新剧分手戏",
-      "onboard_time": 1683751750,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 156081,
       "num": 156081,
       "word": "6年级女孩2个月手绘全班毕业照",
@@ -6081,6 +6129,14 @@
       "onboard_time": 1683592171,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152697,
+      "num": 152697,
+      "word": "高三老师们走廊摆摊式辅导为学生答疑",
+      "onboard_time": 1683740177,
+      "rank": 38,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 152546,
@@ -6177,14 +6233,6 @@
       "onboard_time": 1683634408,
       "rank": 45,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 145693,
-      "num": 145693,
-      "word": "高三老师们走廊摆摊式辅导为学生答疑",
-      "onboard_time": 1683740177,
-      "rank": 38,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 145479,
@@ -6411,6 +6459,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 132384,
+      "num": 132384,
+      "word": "淄博市烧烤协会声明",
+      "onboard_time": 1683760522,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130855,
       "num": 130855,
       "word": "折腰剧组探班直播",
@@ -6497,14 +6553,6 @@
       "onboard_time": 1683562587,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122615,
-      "num": 79958,
-      "word": "杭州地铁售票机不能用支付宝",
-      "onboard_time": 1683759861,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122579,
@@ -6617,14 +6665,6 @@
       "onboard_time": 1683657613,
       "rank": 44,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 109062,
-      "num": 109062,
-      "word": "孟羽童曾称董明珠不可复制",
-      "onboard_time": 1683759077,
-      "rank": 23,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 108264,
@@ -6779,6 +6819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88550,
+      "num": 88550,
+      "word": "泰星Tangmo溺亡案宣判",
+      "onboard_time": 1683761544,
+      "rank": 36,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 88018,
       "num": 149351,
       "word": "星穹铁道首个动画短片",
@@ -6825,6 +6873,22 @@
       "onboard_time": 1683566777,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82751,
+      "num": 82751,
+      "word": "王国之泪",
+      "onboard_time": 1683760460,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 82748,
+      "num": 82748,
+      "word": "女童突发惊厥高铁员工携手救助",
+      "onboard_time": 1683758416,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82625,
@@ -6899,11 +6963,11 @@
       "category": "综艺,综艺"
     },
     {
-      "raw_hot": 73095,
-      "num": 73095,
-      "word": "男子强拉妻子退几十元衣服",
-      "onboard_time": 1683760403,
-      "rank": 34,
+      "raw_hot": 73272,
+      "num": 73272,
+      "word": "列车杀人案受害者家属发文悼念",
+      "onboard_time": 1683750192,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -6913,14 +6977,6 @@
       "onboard_time": 1683587541,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 72327,
-      "num": 72327,
-      "word": "列车杀人案受害者家属发文悼念",
-      "onboard_time": 1683750192,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 68288,
@@ -6961,14 +7017,6 @@
       "onboard_time": 1683754632,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 65068,
-      "num": 65068,
-      "word": "女童突发惊厥高铁员工携手救助",
-      "onboard_time": 1683758416,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64742,
@@ -7027,14 +7075,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 44301,
-      "num": 56261,
-      "word": "淄博市烧烤协会声明",
-      "onboard_time": 1683760522,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43683,
       "num": 47764,
       "word": "日本人到底在学些什么",
@@ -7089,14 +7129,6 @@
       "onboard_time": 1683498256,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 33407,
-      "num": 55335,
-      "word": "王国之泪",
-      "onboard_time": 1683760460,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 31362,
