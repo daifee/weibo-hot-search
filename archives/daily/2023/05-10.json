@@ -1,6 +1,6 @@
 {
   "startTime": 1683649328764,
-  "endTime": 1683685976571,
+  "endTime": 1683686538860,
   "band_list": [
     {
       "raw_hot": 2669790,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1011722,
+      "num": 1011722,
+      "word": "狐妖小红娘竹业篇",
+      "onboard_time": 1683685288,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 946069,
       "num": 946069,
       "word": "陈冰 麦当劳",
@@ -97,6 +105,14 @@
       "onboard_time": 1683675385,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 778638,
+      "num": 778638,
+      "word": "白敬亭新剧人设是妻管严",
+      "onboard_time": 1683684148,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 777657,
@@ -139,12 +155,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 734687,
-      "num": 734687,
-      "word": "白敬亭新剧人设是妻管严",
-      "onboard_time": 1683684148,
-      "rank": 7,
-      "category": "影视"
+      "raw_hot": 712592,
+      "num": 712592,
+      "word": "二阳",
+      "onboard_time": 1683682110,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 690024,
@@ -155,12 +171,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 675962,
-      "num": 675962,
-      "word": "二阳",
-      "onboard_time": 1683682110,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 657804,
+      "num": 657804,
+      "word": "王一博香奈儿看秀造型",
+      "onboard_time": 1683684628,
+      "rank": 15,
+      "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 654822,
+      "num": 654822,
+      "word": "长月烬明编剧发文",
+      "onboard_time": 1683683428,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 631726,
@@ -179,11 +203,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 580753,
-      "num": 580753,
-      "word": "长月烬明编剧发文",
-      "onboard_time": 1683683428,
-      "rank": 11,
+      "raw_hot": 582073,
+      "num": 367123,
+      "word": "一念关山对峙版海报",
+      "onboard_time": 1683685826,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -235,20 +259,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 487280,
-      "num": 487280,
-      "word": "王一博香奈儿看秀造型",
-      "onboard_time": 1683684628,
-      "rank": 15,
-      "category": "时尚,艺人"
-    },
-    {
       "raw_hot": 465729,
       "num": 465729,
       "word": "是你吗 何以琛",
       "onboard_time": 1683626309,
       "rank": 6,
       "category": "其它,作品衍生"
+    },
+    {
+      "raw_hot": 459929,
+      "num": 459929,
+      "word": "文俊辉将录制国内综艺",
+      "onboard_time": 1683685946,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 451385,
@@ -267,14 +291,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 437565,
-      "num": 437565,
-      "word": "狐妖小红娘竹业篇",
-      "onboard_time": 1683685288,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 417698,
       "num": 417698,
       "word": "庆余年2",
@@ -289,6 +305,14 @@
       "onboard_time": 1683677368,
       "rank": 21,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 401738,
+      "num": 376621,
+      "word": "狐妖小红娘月红篇涂山情缘版海报",
+      "onboard_time": 1683685589,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 395033,
@@ -331,14 +355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 376621,
-      "num": 376621,
-      "word": "狐妖小红娘月红篇涂山情缘版海报",
-      "onboard_time": 1683685589,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 373277,
       "num": 373277,
       "word": "列车命案死者是舞者且专业突出",
@@ -347,16 +363,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 355274,
-      "num": 355274,
-      "word": "一念关山对峙版海报",
-      "onboard_time": 1683685826,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 352781,
-      "num": 352781,
+      "raw_hot": 354333,
+      "num": 354333,
       "word": "香奈儿大秀",
       "onboard_time": 1683684268,
       "rank": 28,
@@ -451,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 292711,
+      "num": 292711,
+      "word": "七时吉祥",
+      "onboard_time": 1683685228,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 292487,
       "num": 292487,
       "word": "庆余年2召集令",
@@ -531,6 +547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 255832,
+      "num": 255832,
+      "word": "费城76人",
+      "onboard_time": 1683684148,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252825,
       "num": 252825,
       "word": "在公司上班需要装穷吗",
@@ -539,12 +563,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 248612,
-      "num": 248612,
-      "word": "文俊辉将录制国内综艺",
-      "onboard_time": 1683685946,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 241901,
+      "num": 241901,
+      "word": "亚运会",
+      "onboard_time": 1683685709,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 241456,
@@ -587,6 +611,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235371,
+      "num": 235371,
+      "word": "莲花楼",
+      "onboard_time": 1683686128,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 230190,
+      "num": 230190,
+      "word": "长风渡 真情侣",
+      "onboard_time": 1683686368,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225552,
       "num": 225552,
       "word": "林黛玉版天欢",
@@ -603,27 +643,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 224929,
+      "num": 224929,
+      "word": "苹果客服回应女生手机隔空收到不雅照",
+      "onboard_time": 1683685048,
+      "rank": 43,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 223304,
       "num": 201401,
       "word": "罗云熙说长月烬明虽有憾愿人生圆满",
       "onboard_time": 1683637411,
       "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 222318,
-      "num": 222318,
-      "word": "亚运会",
-      "onboard_time": 1683685709,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 221151,
-      "num": 221151,
-      "word": "七时吉祥",
-      "onboard_time": 1683685228,
-      "rank": 40,
       "category": "影视"
     },
     {
@@ -673,14 +705,6 @@
       "onboard_time": 1683680311,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197967,
-      "num": 197967,
-      "word": "费城76人",
-      "onboard_time": 1683684148,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 189096,
@@ -745,6 +769,14 @@
       "onboard_time": 1683679533,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172804,
+      "num": 172804,
+      "word": "虞书欣云之羽抬眸",
+      "onboard_time": 1683686489,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 171482,
