@@ -1,6 +1,6 @@
 {
   "startTime": 1683649328764,
-  "endTime": 1683725307839,
+  "endTime": 1683729737305,
   "band_list": [
     {
       "raw_hot": 6333261,
@@ -83,6 +83,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2412327,
+      "num": 2412327,
+      "word": "全职太太离婚发现丈夫资产过亿",
+      "onboard_time": 1683721650,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2339604,
       "num": 2339604,
       "word": "很烧钱又戒不掉的爱好",
@@ -95,14 +103,6 @@
       "num": 2208279,
       "word": "深圳女副区长一撮白发被指挑染",
       "onboard_time": 1683696274,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2024941,
-      "num": 2024941,
-      "word": "全职太太离婚发现丈夫资产过亿",
-      "onboard_time": 1683721650,
       "rank": 30,
       "category": "社会新闻"
     },
@@ -224,6 +224,14 @@
       "word": "19岁小伙自首偷车被失主安排工作",
       "onboard_time": 1683710129,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1149948,
+      "num": 1149948,
+      "word": "江阴枪击案两嫌犯已身亡",
+      "onboard_time": 1683727593,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -419,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 690926,
+      "num": 690926,
+      "word": "赵继伟真的牛",
+      "onboard_time": 1683724290,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 690024,
       "num": 690024,
       "word": "一念关山",
@@ -499,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 610006,
+      "num": 610006,
+      "word": "身上5种疣可能是HPV感染",
+      "onboard_time": 1683715409,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 609005,
       "num": 609005,
       "word": "化学本科生销售新型毒品一家三口获刑",
@@ -512,6 +536,14 @@
       "word": "云之羽一看就是郭敬明拍的",
       "onboard_time": 1683691353,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 596280,
+      "num": 596280,
+      "word": "徐克和肖战能拍好射雕英雄传吗",
+      "onboard_time": 1683725794,
+      "rank": 9,
       "category": "影视"
     },
     {
@@ -529,6 +561,14 @@
       "onboard_time": 1683685826,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 579287,
+      "num": 579287,
+      "word": "对大学生的伤害不亚于初恋",
+      "onboard_time": 1683725131,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 572307,
@@ -553,6 +593,14 @@
       "onboard_time": 1683680789,
       "rank": 16,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 545353,
+      "num": 545353,
+      "word": "举报郑大教授女子称有两段流产后录音",
+      "onboard_time": 1683724590,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 541678,
@@ -747,14 +795,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 430422,
-      "num": 430422,
-      "word": "身上5种疣可能是HPV感染",
-      "onboard_time": 1683715409,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 429620,
       "num": 429620,
       "word": "多名男子搭讪邻桌女孩店员劝阻起冲突",
@@ -875,6 +915,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 378093,
+      "num": 344897,
+      "word": "蘑菇屋将迎来最大客流",
+      "onboard_time": 1683727170,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 377590,
       "num": 377590,
       "word": "爱奇艺好多待播剧",
@@ -889,6 +937,14 @@
       "onboard_time": 1683648805,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 372746,
+      "num": 344496,
+      "word": "玉骨遥到底播不播",
+      "onboard_time": 1683727954,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 367557,
@@ -939,6 +995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 360082,
+      "num": 360082,
+      "word": "三井寿 湘北的公主",
+      "onboard_time": 1683722189,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 358704,
       "num": 358704,
       "word": "生完四胞胎又怀四胞胎女子终止妊娠",
@@ -953,6 +1017,14 @@
       "onboard_time": 1683694539,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 358006,
+      "num": 358006,
+      "word": "全员加速中",
+      "onboard_time": 1683725250,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 357694,
@@ -1025,6 +1097,14 @@
       "onboard_time": 1683719795,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 341863,
+      "num": 341863,
+      "word": "买房买到一半就拆迁了",
+      "onboard_time": 1683724951,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 338795,
@@ -1259,14 +1339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 290739,
-      "num": 290739,
-      "word": "三井寿 湘北的公主",
-      "onboard_time": 1683722189,
-      "rank": 49,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 288701,
       "num": 288701,
       "word": "这是芍药界的天花板吧",
@@ -1297,6 +1369,14 @@
       "onboard_time": 1683714153,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 285584,
+      "num": 285584,
+      "word": "美白滤镜下的吉克隽逸",
+      "onboard_time": 1683724230,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 284575,
@@ -1369,14 +1449,6 @@
       "onboard_time": 1683691591,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 271511,
-      "num": 271511,
-      "word": "赵继伟真的牛",
-      "onboard_time": 1683724290,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 269630,
@@ -1579,6 +1651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235863,
+      "num": 235863,
+      "word": "重孙帮临终太爷爷摘槐花了心愿",
+      "onboard_time": 1683728851,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235371,
       "num": 235371,
       "word": "莲花楼",
@@ -1691,6 +1771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219024,
+      "num": 219024,
+      "word": "我国又一批太空快递已派送",
+      "onboard_time": 1683729032,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218653,
       "num": 218653,
       "word": "李托 主教练",
@@ -1723,12 +1811,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 215392,
+      "num": 215392,
+      "word": "后劲很大看完欲罢不能的小说",
+      "onboard_time": 1683729092,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 214828,
       "num": 214828,
       "word": "罗云熙的文笔",
       "onboard_time": 1683694964,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 213939,
+      "num": 213939,
+      "word": "杨鸣 技术犯规",
+      "onboard_time": 1683725913,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 213705,
@@ -1771,14 +1875,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 206256,
-      "num": 206256,
-      "word": "美白滤镜下的吉克隽逸",
-      "onboard_time": 1683724230,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 205902,
       "num": 205902,
       "word": "杨紫林更新cp感",
@@ -1793,6 +1889,14 @@
       "onboard_time": 1683701914,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203614,
+      "num": 203614,
+      "word": "狐妖小红娘竹业篇剧版vs原版",
+      "onboard_time": 1683725730,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 200414,
@@ -1833,6 +1937,14 @@
       "onboard_time": 1683680311,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197706,
+      "num": 197706,
+      "word": "浙江球迷",
+      "onboard_time": 1683729394,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 196850,
@@ -1883,6 +1995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188894,
+      "num": 188894,
+      "word": "罗云熙长月烬明收官特辑花絮",
+      "onboard_time": 1683728734,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187888,
       "num": 187888,
       "word": "孙红雷说张艺兴王一博跳舞是头部",
@@ -1897,14 +2017,6 @@
       "onboard_time": 1683629789,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 186510,
-      "num": 186510,
-      "word": "举报郑大教授女子称有两段流产后录音",
-      "onboard_time": 1683724590,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 185557,
@@ -2027,6 +2139,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 168547,
+      "num": 168547,
+      "word": "洄天",
+      "onboard_time": 1683728013,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 167774,
       "num": 2293118,
       "word": "5.8%的背后哪些科目越来越好",
@@ -2041,22 +2161,6 @@
       "onboard_time": 1683621329,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162121,
-      "num": 162121,
-      "word": "对大学生的伤害不亚于初恋",
-      "onboard_time": 1683725131,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 160933,
-      "num": 160933,
-      "word": "全员加速中",
-      "onboard_time": 1683725250,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 160673,
@@ -2105,6 +2209,14 @@
       "onboard_time": 1683709768,
       "rank": 42,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 150078,
+      "num": 150078,
+      "word": "T1战胜MAD",
+      "onboard_time": 1683728911,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 149691,

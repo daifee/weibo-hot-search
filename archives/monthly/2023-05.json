@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683725307839,
+  "endTime": 1683729737305,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -435,6 +435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2412327,
+      "num": 2412327,
+      "word": "全职太太离婚发现丈夫资产过亿",
+      "onboard_time": 1683721650,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2404696,
       "num": 1728350,
       "word": "狗被确诊智障了",
@@ -760,14 +768,6 @@
       "word": "知情人称挖呀挖黄老师无教师证",
       "onboard_time": 1683388528,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2024941,
-      "num": 2024941,
-      "word": "全职太太离婚发现丈夫资产过亿",
-      "onboard_time": 1683721650,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -2425,6 +2425,14 @@
       "onboard_time": 1683270809,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1149948,
+      "num": 1149948,
+      "word": "江阴枪击案两嫌犯已身亡",
+      "onboard_time": 1683727593,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1149580,
@@ -4211,6 +4219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 690926,
+      "num": 690926,
+      "word": "赵继伟真的牛",
+      "onboard_time": 1683724290,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 690494,
       "num": 690494,
       "word": "余秀华 读书万卷不过沐猴之冠",
@@ -4683,6 +4699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 610006,
+      "num": 610006,
+      "word": "身上5种疣可能是HPV感染",
+      "onboard_time": 1683715409,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 609808,
       "num": 577541,
       "word": "瞿颖和公司解约的原因 捧太红了",
@@ -4793,6 +4817,14 @@
       "onboard_time": 1683356609,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 596280,
+      "num": 596280,
+      "word": "徐克和肖战能拍好射雕英雄传吗",
+      "onboard_time": 1683725794,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 595131,
@@ -5001,6 +5033,14 @@
       "onboard_time": 1682983460,
       "rank": 3,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 579287,
+      "num": 579287,
+      "word": "对大学生的伤害不亚于初恋",
+      "onboard_time": 1683725131,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 578230,
@@ -5305,6 +5345,14 @@
       "onboard_time": 1683017787,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 545353,
+      "num": 545353,
+      "word": "举报郑大教授女子称有两段流产后录音",
+      "onboard_time": 1683724590,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 545206,
@@ -6819,14 +6867,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 430422,
-      "num": 430422,
-      "word": "身上5种疣可能是HPV感染",
-      "onboard_time": 1683715409,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 429620,
       "num": 429620,
       "word": "多名男子搭讪邻桌女孩店员劝阻起冲突",
@@ -7899,6 +7939,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 378093,
+      "num": 344897,
+      "word": "蘑菇屋将迎来最大客流",
+      "onboard_time": 1683727170,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 377590,
       "num": 377590,
       "word": "爱奇艺好多待播剧",
@@ -7993,6 +8041,14 @@
       "onboard_time": 1683616167,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 372746,
+      "num": 344496,
+      "word": "玉骨遥到底播不播",
+      "onboard_time": 1683727954,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 372679,
@@ -8273,6 +8329,14 @@
       "onboard_time": 1683385715,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 360082,
+      "num": 360082,
+      "word": "三井寿 湘北的公主",
+      "onboard_time": 1683722189,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 360071,
@@ -8817,6 +8881,14 @@
       "onboard_time": 1683171211,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 341863,
+      "num": 341863,
+      "word": "买房买到一半就拆迁了",
+      "onboard_time": 1683724951,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 341845,
@@ -10507,14 +10579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 290739,
-      "num": 290739,
-      "word": "三井寿 湘北的公主",
-      "onboard_time": 1683722189,
-      "rank": 49,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 290697,
       "num": 288334,
       "word": "言承旭徐若晗二搭",
@@ -10713,6 +10777,14 @@
       "onboard_time": 1683714153,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 285584,
+      "num": 285584,
+      "word": "美白滤镜下的吉克隽逸",
+      "onboard_time": 1683724230,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 285396,
@@ -11209,14 +11281,6 @@
       "onboard_time": 1683034057,
       "rank": 32,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 271511,
-      "num": 271511,
-      "word": "赵继伟真的牛",
-      "onboard_time": 1683724290,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 271305,
@@ -12971,6 +13035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235863,
+      "num": 235863,
+      "word": "重孙帮临终太爷爷摘槐花了心愿",
+      "onboard_time": 1683728851,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235788,
       "num": 235788,
       "word": "无畏",
@@ -13955,6 +14027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219024,
+      "num": 219024,
+      "word": "我国又一批太空快递已派送",
+      "onboard_time": 1683729032,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218972,
       "num": 230375,
       "word": "多位网友分享巴厘岛惊险历程",
@@ -14251,6 +14331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215392,
+      "num": 215392,
+      "word": "后劲很大看完欲罢不能的小说",
+      "onboard_time": 1683729092,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 215298,
       "num": 215298,
       "word": "塞尔达传说王国之泪",
@@ -14329,6 +14417,14 @@
       "onboard_time": 1682953469,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213939,
+      "num": 213939,
+      "word": "杨鸣 技术犯规",
+      "onboard_time": 1683725913,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 213795,
@@ -14779,14 +14875,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 206256,
-      "num": 206256,
-      "word": "美白滤镜下的吉克隽逸",
-      "onboard_time": 1683724230,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 206161,
       "num": 206161,
       "word": "Hero对战LGD",
@@ -15025,6 +15113,14 @@
       "onboard_time": 1683013707,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 203614,
+      "num": 203614,
+      "word": "狐妖小红娘竹业篇剧版vs原版",
+      "onboard_time": 1683725730,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 203124,
@@ -15417,6 +15513,14 @@
       "onboard_time": 1683211833,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197706,
+      "num": 197706,
+      "word": "浙江球迷",
+      "onboard_time": 1683729394,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 197497,
@@ -16035,6 +16139,14 @@
       "category": "社会正能量,教育"
     },
     {
+      "raw_hot": 188894,
+      "num": 188894,
+      "word": "罗云熙长月烬明收官特辑花絮",
+      "onboard_time": 1683728734,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188822,
       "num": 188822,
       "word": "刘耀文说太激动了谢谢大家",
@@ -16209,14 +16321,6 @@
       "onboard_time": 1683601768,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 186510,
-      "num": 186510,
-      "word": "举报郑大教授女子称有两段流产后录音",
-      "onboard_time": 1683724590,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186500,
@@ -17435,6 +17539,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 168547,
+      "num": 168547,
+      "word": "洄天",
+      "onboard_time": 1683728013,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 168498,
       "num": 168498,
       "word": "梁静茹演唱会武汉苏州官宣",
@@ -17785,14 +17897,6 @@
       "onboard_time": 1682844087,
       "rank": 28,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 162121,
-      "num": 162121,
-      "word": "对大学生的伤害不亚于初恋",
-      "onboard_time": 1683725131,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 162117,
@@ -18497,6 +18601,14 @@
       "onboard_time": 1682997927,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 150078,
+      "num": 150078,
+      "word": "T1战胜MAD",
+      "onboard_time": 1683728911,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 149941,
