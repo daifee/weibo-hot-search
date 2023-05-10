@@ -1,6 +1,6 @@
 {
   "startTime": 1683649328764,
-  "endTime": 1683707634155,
+  "endTime": 1683710212007,
   "band_list": [
     {
       "raw_hot": 6333261,
@@ -43,12 +43,28 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 2696523,
+      "num": 2696523,
+      "word": "格力称孟羽童已离职",
+      "onboard_time": 1683708511,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2669790,
       "num": 2669790,
       "word": "特朗普被裁定性侵",
       "onboard_time": 1683674843,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2633293,
+      "num": 2633293,
+      "word": "庆余年2原班人马",
+      "onboard_time": 1683705332,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 2339604,
@@ -169,14 +185,6 @@
       "onboard_time": 1683644972,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1181345,
-      "num": 1181345,
-      "word": "庆余年2原班人马",
-      "onboard_time": 1683705332,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 1051499,
@@ -499,6 +507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 500240,
+      "num": 276206,
+      "word": "怀孕确实能看清自己的老公",
+      "onboard_time": 1683709229,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 492964,
       "num": 492964,
       "word": "小县城下班后有多美好",
@@ -563,6 +579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 443932,
+      "num": 443932,
+      "word": "庆余年",
+      "onboard_time": 1683704850,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 442368,
       "num": 442368,
       "word": "脱下孔乙己的长衫你会做什么",
@@ -587,12 +611,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 422513,
-      "num": 422513,
-      "word": "庆余年",
-      "onboard_time": 1683704850,
-      "rank": 14,
-      "category": "影视"
+      "raw_hot": 422232,
+      "num": 422232,
+      "word": "易烊千玺说有实体专辑",
+      "onboard_time": 1683705453,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 420489,
@@ -620,7 +644,7 @@
     },
     {
       "raw_hot": 411302,
-      "num": 257662,
+      "num": 272587,
       "word": "男朋友国内登机失联10小时",
       "onboard_time": 1683704554,
       "rank": 21,
@@ -691,20 +715,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367557,
+      "num": 367557,
+      "word": "徐明浩直播",
+      "onboard_time": 1683707492,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 366368,
+      "num": 270360,
+      "word": "庆余年2再相逢版海报",
+      "onboard_time": 1683704731,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 366251,
       "num": 366251,
       "word": "秦昊蒋奇明三搭",
       "onboard_time": 1683696516,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 364627,
-      "num": 364627,
-      "word": "易烊千玺说有实体专辑",
-      "onboard_time": 1683705453,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 362527,
@@ -851,6 +883,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 325666,
+      "num": 269235,
+      "word": "王权霸业",
+      "onboard_time": 1683708391,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 322507,
       "num": 360692,
       "word": "花过最冤枉的一次钱是什么",
@@ -923,6 +963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 298747,
+      "num": 267154,
+      "word": "人丑真的连细节都是丑的",
+      "onboard_time": 1683706289,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 294434,
       "num": 294434,
       "word": "凭什么打开APP时暂停我的歌",
@@ -963,14 +1011,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 286008,
-      "num": 238230,
-      "word": "人丑真的连细节都是丑的",
-      "onboard_time": 1683706289,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 284575,
       "num": 252060,
       "word": "长期运动和学习大脑更灵活",
@@ -1003,6 +1043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 276359,
+      "num": 276359,
+      "word": "孟羽童称靠别人永远不如靠自己",
+      "onboard_time": 1683699212,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275118,
       "num": 275118,
       "word": "周迅看秀造型",
@@ -1025,14 +1073,6 @@
       "onboard_time": 1683679953,
       "rank": 30,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 272740,
-      "num": 232275,
-      "word": "庆余年2再相逢版海报",
-      "onboard_time": 1683704731,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 272608,
@@ -1113,6 +1153,14 @@
       "onboard_time": 1683683728,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 257326,
+      "num": 257326,
+      "word": "终于等到庆余年2",
+      "onboard_time": 1683707312,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 255832,
@@ -1208,6 +1256,14 @@
       "word": "莲花楼",
       "onboard_time": 1683686128,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 234397,
+      "num": 234397,
+      "word": "狐妖小红娘",
+      "onboard_time": 1683707970,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -1315,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207622,
+      "num": 207622,
+      "word": "原来过生日也需要搭子",
+      "onboard_time": 1683709229,
+      "rank": 32,
+      "category": "幽默,时尚"
+    },
+    {
       "raw_hot": 205902,
       "num": 205902,
       "word": "杨紫林更新cp感",
@@ -1323,20 +1387,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205457,
+      "num": 205457,
+      "word": "深圳男子暴雨天救助流浪猫是野生动物",
+      "onboard_time": 1683703114,
+      "rank": 34,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 204274,
       "num": 204274,
       "word": "女子跑步低血糖晕倒瞬间被男子扶起",
       "onboard_time": 1683701914,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202978,
-      "num": 202978,
-      "word": "深圳男子暴雨天救助流浪猫是野生动物",
-      "onboard_time": 1683703114,
-      "rank": 34,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 200414,
@@ -1379,14 +1443,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 195470,
-      "num": 198433,
-      "word": "孟羽童称靠别人永远不如靠自己",
-      "onboard_time": 1683699212,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194457,
       "num": 184124,
       "word": "王一栩说刘诗诗是我们的天选淮竹",
@@ -1411,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187954,
+      "num": 187954,
+      "word": "山东淄博炒鸡",
+      "onboard_time": 1683709889,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 187888,
       "num": 187888,
       "word": "孙红雷说张艺兴王一博跳舞是头部",
@@ -1425,14 +1489,6 @@
       "onboard_time": 1683629789,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 184024,
-      "num": 184024,
-      "word": "徐明浩直播",
-      "onboard_time": 1683707492,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 182635,
@@ -1481,14 +1537,6 @@
       "onboard_time": 1683699454,
       "rank": 42,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 175957,
-      "num": 175957,
-      "word": "终于等到庆余年2",
-      "onboard_time": 1683707312,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 173079,
@@ -1555,12 +1603,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154903,
+      "raw_hot": 162536,
       "num": 154903,
       "word": "你给我的喜欢",
       "onboard_time": 1683706711,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 162145,
+      "num": 162145,
+      "word": "19岁小伙自首偷车被失主安排工作",
+      "onboard_time": 1683710129,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154535,
@@ -1587,6 +1643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151805,
+      "num": 151805,
+      "word": "在平淡的生活中让自己快乐起来",
+      "onboard_time": 1683709768,
+      "rank": 42,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 149691,
       "num": 149691,
       "word": "上海老街变成了上海猫街",
@@ -1601,6 +1665,14 @@
       "onboard_time": 1683674782,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148183,
+      "num": 148183,
+      "word": "内娱免检帅哥",
+      "onboard_time": 1683709709,
+      "rank": 44,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 147267,
@@ -1793,6 +1865,14 @@
       "onboard_time": 1683648683,
       "rank": 48,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 85529,
+      "num": 140463,
+      "word": "星穹铁道首个动画短片",
+      "onboard_time": 1683709709,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 82625,
