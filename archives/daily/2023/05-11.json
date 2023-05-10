@@ -1,6 +1,6 @@
 {
   "startTime": 1683736826788,
-  "endTime": 1683743295916,
+  "endTime": 1683743855824,
   "band_list": [
     {
       "raw_hot": 1532446,
@@ -315,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108892,
+      "num": 108892,
+      "word": "7岁女孩三百多天照料唤醒昏迷父亲",
+      "onboard_time": 1683740356,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108306,
       "num": 93450,
       "word": "杨幂 名字的顺序都该为角色让位",
@@ -353,14 +361,6 @@
       "onboard_time": 1683734667,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 97163,
-      "num": 97163,
-      "word": "7岁女孩三百多天照料唤醒昏迷父亲",
-      "onboard_time": 1683740356,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94855,
@@ -411,20 +411,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 53002,
+      "num": 53002,
+      "word": "新娘崴脚中医伴郎现场针灸",
+      "onboard_time": 1683737901,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51815,
       "num": 51815,
       "word": "王源说等待广州见",
       "onboard_time": 1683738558,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 51200,
-      "num": 51200,
-      "word": "新娘崴脚中医伴郎现场针灸",
-      "onboard_time": 1683737901,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50020,
@@ -443,8 +443,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 40389,
-      "num": 47202,
+      "raw_hot": 43683,
+      "num": 47764,
       "word": "日本人到底在学些什么",
       "onboard_time": 1683738918,
       "rank": 47,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1683743855824,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 387142,
+        "num": 387142,
+        "word": "总而言之 快睡",
+        "onboard_time": 1683734787,
+        "rank": 0,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 144787,
+        "num": 144787,
+        "word": "身上5种疣可能是HPV感染",
+        "onboard_time": 1683715409,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12616,
+        "num": 141967,
+        "word": "属于中国人的宇宙级浪漫",
+        "onboard_time": 1683730232,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139903,
+        "num": 139903,
+        "word": "我的论文致谢有你的名字",
+        "onboard_time": 1683737481,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 110537,
+        "num": 110537,
+        "word": "全职太太离婚发现丈夫资产过亿",
+        "onboard_time": 1683721650,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108892,
+        "num": 108892,
+        "word": "7岁女孩三百多天照料唤醒昏迷父亲",
+        "onboard_time": 1683740356,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98598,
+        "num": 98598,
+        "word": "高铁掌掴事件车厢画面公布",
+        "onboard_time": 1683730653,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87699,
+        "num": 87699,
+        "word": "泫雅 武汉音乐节",
+        "onboard_time": 1683720269,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 75600,
+        "num": 75600,
+        "word": "对大学生的伤害不亚于初恋",
+        "onboard_time": 1683725131,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72136,
+        "num": 72136,
+        "word": "江阴枪击案两嫌犯已身亡",
+        "onboard_time": 1683727593,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325401,
+        "num": 71435,
+        "word": "张子萱终于不给陈赫打码了",
+        "onboard_time": 1683731492,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182138,
+        "num": 69548,
+        "word": "杨洋同学会全记录视频",
+        "onboard_time": 1683734128,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62339,
+        "num": 62339,
+        "word": "经前期综合征",
+        "onboard_time": 1683732153,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57236,
+        "num": 57236,
+        "word": "男子酒局带女儿炫耀被全桌羡慕",
+        "onboard_time": 1683712592,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56937,
+        "num": 56937,
+        "word": "没有男艺人能穿着衣服走出郭敬明的剧",
+        "onboard_time": 1683719129,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55592,
+        "num": 55592,
+        "word": "举报郑大教授性侵女子称已电话报警",
+        "onboard_time": 1683732269,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 53002,
+        "num": 53002,
+        "word": "新娘崴脚中医伴郎现场针灸",
+        "onboard_time": 1683737901,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52627,
+        "num": 52627,
+        "word": "董明珠曾称要将孟羽童培养成第二个自己",
+        "onboard_time": 1683712351,
+        "rank": 17,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 52376,
+        "num": 52376,
+        "word": "后劲很大看完欲罢不能的小说",
+        "onboard_time": 1683729092,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 43683,
+        "num": 47764,
+        "word": "日本人到底在学些什么",
+        "onboard_time": 1683738918,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99915,
+        "num": 47479,
+        "word": "七小时结束了相恋七年的感情",
+        "onboard_time": 1683718169,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45212,
+        "num": 45212,
+        "word": "买房买到一半就拆迁了",
+        "onboard_time": 1683724951,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44655,
+        "num": 44655,
+        "word": "美白滤镜下的吉克隽逸",
+        "onboard_time": 1683724230,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 42233,
+        "num": 42233,
+        "word": "庆余年2原班人马",
+        "onboard_time": 1683705332,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41549,
+        "num": 41549,
+        "word": "护心是儿童剧吧",
+        "onboard_time": 1683720628,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41234,
+        "num": 41234,
+        "word": "蘑菇屋将迎来最大客流",
+        "onboard_time": 1683727170,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37998,
+        "num": 37998,
+        "word": "布斯克茨宣布离开巴萨",
+        "onboard_time": 1683740416,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36569,
+        "num": 36569,
+        "word": "徐克和肖战能拍好射雕英雄传吗",
+        "onboard_time": 1683725794,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36311,
+        "num": 36311,
+        "word": "黄旭熙改微博名字",
+        "onboard_time": 1683711508,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36301,
+        "num": 36301,
+        "word": "Jennie紫色吊带短裙",
+        "onboard_time": 1683718707,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36129,
+        "num": 36129,
+        "word": "just chill out",
+        "onboard_time": 1683736522,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35540,
+        "num": 35540,
+        "word": "格力称孟羽童已离职",
+        "onboard_time": 1683708511,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35508,
+        "num": 35508,
+        "word": "三井寿 湘北的公主",
+        "onboard_time": 1683722189,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 33761,
+        "num": 33761,
+        "word": "玉骨遥到底播不播",
+        "onboard_time": 1683727954,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33551,
+        "num": 33551,
+        "word": "周杰伦香港演唱会",
+        "onboard_time": 1683731373,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 32055,
+        "num": 32055,
+        "word": "赵继伟真的牛",
+        "onboard_time": 1683724290,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31885,
+        "num": 31885,
+        "word": "浙江球迷",
+        "onboard_time": 1683729394,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31213,
+        "num": 31213,
+        "word": "高三老师们走廊摆摊式辅导为学生答疑",
+        "onboard_time": 1683740177,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 29041,
+        "num": 29041,
+        "word": "张若昀不再是张无继了",
+        "onboard_time": 1683719795,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28745,
+        "num": 28745,
+        "word": "你给我的喜欢大结局",
+        "onboard_time": 1683718169,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28510,
+        "num": 28510,
+        "word": "狐妖小红娘竹业篇剧版vs原版",
+        "onboard_time": 1683725730,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28034,
+        "num": 28034,
+        "word": "蒋依依打卡淄博烧烤",
+        "onboard_time": 1683734727,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27984,
+        "num": 27984,
+        "word": "许光汉 同济",
+        "onboard_time": 1683717449,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27597,
+        "num": 27597,
+        "word": "乔欣工作室营业",
+        "onboard_time": 1683730411,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26927,
+        "num": 26927,
+        "word": "怀孕确实能看清自己的老公",
+        "onboard_time": 1683709229,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26181,
+        "num": 26181,
+        "word": "小猫为自己选了名字",
+        "onboard_time": 1683734667,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25519,
+        "num": 25519,
+        "word": "戛纳展映排片",
+        "onboard_time": 1683737959,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25249,
+        "num": 25249,
+        "word": "MSI",
+        "onboard_time": 1683724290,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24921,
+        "num": 24921,
+        "word": "王源说等待广州见",
+        "onboard_time": 1683738558,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 19480,
+        "num": 24919,
+        "word": "誓约 甜筒",
+        "onboard_time": 1683730833,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#天河行舟载梦远航#"
+    }
+  }
+}
