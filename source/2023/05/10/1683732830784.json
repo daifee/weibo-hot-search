@@ -1,0 +1,410 @@
+{
+  "runTime": 1683732830784,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1781332,
+        "num": 1781332,
+        "word": "全职太太离婚发现丈夫资产过亿",
+        "onboard_time": 1683721650,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 954440,
+        "num": 954440,
+        "word": "泫雅 武汉音乐节",
+        "onboard_time": 1683720269,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 96965,
+        "num": 871103,
+        "word": "属于中国人的宇宙级浪漫",
+        "onboard_time": 1683730232,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 857970,
+        "num": 857970,
+        "word": "庆余年2原班人马",
+        "onboard_time": 1683705332,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 655734,
+        "num": 655734,
+        "word": "江阴枪击案两嫌犯已身亡",
+        "onboard_time": 1683727593,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616934,
+        "num": 616934,
+        "word": "杨幂 名字的顺序都该为角色让位",
+        "onboard_time": 1683694599,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 586298,
+        "num": 586298,
+        "word": "身上5种疣可能是HPV感染",
+        "onboard_time": 1683715409,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580860,
+        "num": 580860,
+        "word": "后劲很大看完欲罢不能的小说",
+        "onboard_time": 1683729092,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 541485,
+        "num": 541485,
+        "word": "深圳女副区长一撮白发被指挑染",
+        "onboard_time": 1683696274,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508526,
+        "num": 508526,
+        "word": "格力称孟羽童已离职",
+        "onboard_time": 1683708511,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2519414,
+        "num": 492372,
+        "word": "张子萱终于不给陈赫打码了",
+        "onboard_time": 1683731492,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432798,
+        "num": 432798,
+        "word": "男童喉咙长菜花样肿块确诊感染HPV",
+        "onboard_time": 1683690811,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424220,
+        "num": 424220,
+        "word": "对大学生的伤害不亚于初恋",
+        "onboard_time": 1683725131,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 422774,
+        "num": 422774,
+        "word": "男子酒局带女儿炫耀被全桌羡慕",
+        "onboard_time": 1683712592,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385557,
+        "num": 385557,
+        "word": "女子官宣结婚被民警提醒赶紧分手",
+        "onboard_time": 1683688050,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381197,
+        "num": 381197,
+        "word": "高铁掌掴事件车厢画面公布",
+        "onboard_time": 1683730653,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331722,
+        "num": 331722,
+        "word": "浙江球迷",
+        "onboard_time": 1683729394,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321765,
+        "num": 321765,
+        "word": "誓约 甜筒",
+        "onboard_time": 1683730833,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 311839,
+        "num": 311839,
+        "word": "徐克和肖战能拍好射雕英雄传吗",
+        "onboard_time": 1683725794,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309547,
+        "num": 309547,
+        "word": "蘑菇屋将迎来最大客流",
+        "onboard_time": 1683727170,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478417,
+        "num": 308493,
+        "word": "七小时结束了相恋七年的感情",
+        "onboard_time": 1683718169,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 333234,
+        "num": 307934,
+        "word": "玉骨遥到底播不播",
+        "onboard_time": 1683727954,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307205,
+        "num": 307205,
+        "word": "Jennie紫色吊带短裙",
+        "onboard_time": 1683718707,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 304364,
+        "num": 304364,
+        "word": "举报郑大教授女子称有两段流产后录音",
+        "onboard_time": 1683724590,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283166,
+        "num": 283166,
+        "word": "佳能 黄旭熙",
+        "onboard_time": 1683702632,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271296,
+        "num": 271296,
+        "word": "罗云熙长月烬明收官特辑花絮",
+        "onboard_time": 1683728734,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265873,
+        "num": 265873,
+        "word": "经前期综合征",
+        "onboard_time": 1683732153,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264422,
+        "num": 264422,
+        "word": "乔欣工作室营业",
+        "onboard_time": 1683730411,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258029,
+        "num": 258029,
+        "word": "没有男艺人能穿着衣服走出郭敬明的剧",
+        "onboard_time": 1683719129,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257873,
+        "num": 257873,
+        "word": "赵继伟真的牛",
+        "onboard_time": 1683724290,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251741,
+        "num": 251741,
+        "word": "盆栽哥Jennie合作曲",
+        "onboard_time": 1683730713,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 245850,
+        "num": 245850,
+        "word": "买房买到一半就拆迁了",
+        "onboard_time": 1683724951,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238159,
+        "num": 238159,
+        "word": "白鹿新剧演恶女",
+        "onboard_time": 1683691174,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227212,
+        "num": 227212,
+        "word": "举报郑大教授性侵女子称已电话报警",
+        "onboard_time": 1683732269,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 225778,
+        "num": 225778,
+        "word": "周杰伦香港演唱会",
+        "onboard_time": 1683731373,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215226,
+        "num": 215226,
+        "word": "全员加速中",
+        "onboard_time": 1683725250,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214013,
+        "num": 214013,
+        "word": "黄旭熙改微博名字",
+        "onboard_time": 1683711508,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204033,
+        "num": 204033,
+        "word": "你给我的喜欢大结局",
+        "onboard_time": 1683718169,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201721,
+        "num": 201721,
+        "word": "郑州大学王国胜已报警",
+        "onboard_time": 1683732693,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197115,
+        "num": 197115,
+        "word": "坏妈妈",
+        "onboard_time": 1683730112,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189701,
+        "num": 189701,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1683732570,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187503,
+        "num": 187503,
+        "word": "护心是儿童剧吧",
+        "onboard_time": 1683720628,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185850,
+        "num": 185850,
+        "word": "狐妖小红娘竹业篇剧版vs原版",
+        "onboard_time": 1683725730,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176627,
+        "num": 184916,
+        "word": "三井寿 湘北的公主",
+        "onboard_time": 1683722189,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 184638,
+        "num": 184638,
+        "word": "美白滤镜下的吉克隽逸",
+        "onboard_time": 1683724230,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183643,
+        "num": 183643,
+        "word": "董明珠曾称要将孟羽童培养成第二个自己",
+        "onboard_time": 1683712351,
+        "rank": 45,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 180499,
+        "num": 180499,
+        "word": "重孙帮临终太爷爷摘槐花了心愿",
+        "onboard_time": 1683728851,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166242,
+        "num": 166242,
+        "word": "张若昀不再是张无继了",
+        "onboard_time": 1683719795,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161304,
+        "num": 161304,
+        "word": "江阴枪击案两名嫌犯尸体被发现",
+        "onboard_time": 1683732511,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125238,
+        "num": 157367,
+        "word": "MSI",
+        "onboard_time": 1683724290,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#天舟六号飞天有多重要#"
+    }
+  }
+}
