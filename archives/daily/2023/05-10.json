@@ -1,7 +1,31 @@
 {
   "startTime": 1683649328764,
-  "endTime": 1683675219863,
+  "endTime": 1683681666827,
   "band_list": [
+    {
+      "raw_hot": 2669790,
+      "num": 2669790,
+      "word": "特朗普被裁定性侵",
+      "onboard_time": 1683674843,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1742874,
+      "num": 1742874,
+      "word": "郑州大学回应女子称11年前遭老师侵犯",
+      "onboard_time": 1683676827,
+      "rank": 1,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1618154,
+      "num": 1618154,
+      "word": "山西野地现无名女尸",
+      "onboard_time": 1683677428,
+      "rank": 3,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1614504,
       "num": 1614504,
@@ -9,6 +33,14 @@
       "onboard_time": 1683649945,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1312947,
+      "num": 1312947,
+      "word": "徐梦洁 两台手机两个鸟巢也容不下一个我",
+      "onboard_time": 1683677911,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 1276868,
@@ -19,12 +51,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 915112,
+      "num": 915112,
+      "word": "陈冰 麦当劳",
+      "onboard_time": 1683676407,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 904970,
+      "num": 904970,
+      "word": "郑州大学王国胜",
+      "onboard_time": 1683676347,
+      "rank": 6,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 818869,
       "num": 818869,
       "word": "苹果天气",
       "onboard_time": 1683639629,
       "rank": 1,
       "category": "科技"
+    },
+    {
+      "raw_hot": 814266,
+      "num": 814266,
+      "word": "中新网评刘亦菲曾被霸凌",
+      "onboard_time": 1683675385,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 774327,
+      "num": 774327,
+      "word": "周也早几年干嘛去了",
+      "onboard_time": 1683677310,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 740669,
@@ -35,12 +99,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 635402,
-      "num": 635402,
-      "word": "特朗普被裁定性侵",
-      "onboard_time": 1683674843,
-      "rank": 3,
+      "raw_hot": 737297,
+      "num": 737297,
+      "word": "张颂文 海澜之家",
+      "onboard_time": 1683674541,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 657789,
+      "num": 657789,
+      "word": "男子返乡遇淄博爆火留下卖橙汁",
+      "onboard_time": 1683676527,
+      "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 631726,
+      "num": 631726,
+      "word": "这放整个肛肠科都很炸裂",
+      "onboard_time": 1683624870,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 617292,
@@ -51,11 +131,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 562088,
-      "num": 562088,
-      "word": "这放整个肛肠科都很炸裂",
-      "onboard_time": 1683624870,
-      "rank": 4,
+      "raw_hot": 599430,
+      "num": 599430,
+      "word": "宋慧乔送韩素希应援车",
+      "onboard_time": 1683678453,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 539198,
+      "num": 326644,
+      "word": "小三得知我要离婚发的短信",
+      "onboard_time": 1683621988,
+      "rank": 20,
       "category": "幽默"
     },
     {
@@ -67,20 +155,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512903,
+      "num": 512903,
+      "word": "血鹦鹉 一种鱼生遭罪的鱼",
+      "onboard_time": 1683644069,
+      "rank": 8,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 511080,
       "num": 511080,
       "word": "gidle先行曲",
       "onboard_time": 1683646647,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 467573,
-      "num": 212058,
-      "word": "小三得知我要离婚发的短信",
-      "onboard_time": 1683621988,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 465729,
@@ -91,6 +179,22 @@
       "category": "其它,作品衍生"
     },
     {
+      "raw_hot": 457402,
+      "num": 457402,
+      "word": "男孩2年后再见好友满脸难以置信",
+      "onboard_time": 1683680789,
+      "rank": 16,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 442368,
+      "num": 442368,
+      "word": "脱下孔乙己的长衫你会做什么",
+      "onboard_time": 1683675506,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 417698,
       "num": 417698,
       "word": "庆余年2",
@@ -99,12 +203,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 415188,
-      "num": 415188,
-      "word": "血鹦鹉 一种鱼生遭罪的鱼",
-      "onboard_time": 1683644069,
-      "rank": 8,
-      "category": "情感,社会新闻"
+      "raw_hot": 412459,
+      "num": 326180,
+      "word": "Switch卖不动了吗",
+      "onboard_time": 1683677368,
+      "rank": 21,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 391872,
@@ -113,14 +217,6 @@
       "onboard_time": 1683635669,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 383773,
-      "num": 383773,
-      "word": "张颂文 海澜之家",
-      "onboard_time": 1683674541,
-      "rank": 6,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 383178,
@@ -137,6 +233,22 @@
       "onboard_time": 1683648805,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350276,
+      "num": 350276,
+      "word": "易烊千玺蚊子包",
+      "onboard_time": 1683676709,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 348475,
+      "num": 314700,
+      "word": "因为30万彩礼跟男朋友分手了",
+      "onboard_time": 1683641791,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 338795,
@@ -163,20 +275,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 327169,
+      "num": 327169,
+      "word": "3位大爷联手救回一条命",
+      "onboard_time": 1683679353,
+      "rank": 19,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 315233,
       "num": 315233,
       "word": "皇马1比1曼城",
       "onboard_time": 1683673760,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 302354,
-      "num": 209855,
-      "word": "因为30万彩礼跟男朋友分手了",
-      "onboard_time": 1683641791,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 301788,
@@ -195,6 +307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 288701,
+      "num": 288701,
+      "word": "这是芍药界的天花板吧",
+      "onboard_time": 1683676046,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288121,
       "num": 288121,
       "word": "公冶寂无妺女去哪了",
@@ -211,12 +331,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274020,
+      "num": 198249,
+      "word": "号称投资百亿争做全省第三如今烂尾",
+      "onboard_time": 1683679953,
+      "rank": 30,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 269630,
+      "num": 269630,
+      "word": "特朗普表示将上诉",
+      "onboard_time": 1683680611,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260774,
       "num": 260774,
       "word": "张婧仪上错车",
       "onboard_time": 1683644913,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 252825,
+      "num": 252825,
+      "word": "在公司上班需要装穷吗",
+      "onboard_time": 1683678332,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 241456,
@@ -251,12 +395,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220564,
+      "num": 220564,
+      "word": "五月天",
+      "onboard_time": 1683675146,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 216297,
+      "num": 216297,
+      "word": "林黛玉版天欢",
+      "onboard_time": 1683677310,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212569,
       "num": 212569,
       "word": "母亲节礼物",
       "onboard_time": 1683644191,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 205902,
+      "num": 205902,
+      "word": "杨紫林更新cp感",
+      "onboard_time": 1683674782,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 199229,
@@ -267,12 +435,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191689,
+      "num": 191689,
+      "word": "淄博黄金地段循环播放寻亲信息",
+      "onboard_time": 1683680311,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189096,
       "num": 189096,
       "word": "山西吕梁山革命博物馆明日开馆",
       "onboard_time": 1683648447,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188191,
+      "num": 188191,
+      "word": "黄明昊单膝下跪送花李宏毅",
+      "onboard_time": 1683681209,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 187888,
@@ -291,12 +475,44 @@
       "category": "情感"
     },
     {
+      "raw_hot": 182631,
+      "num": 182631,
+      "word": "秋秋老师",
+      "onboard_time": 1683676347,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179198,
+      "num": 179198,
+      "word": "大熊猫竟然可以抱膝坐",
+      "onboard_time": 1683664992,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 179037,
       "num": 160523,
       "word": "宁安如梦定档时间",
       "onboard_time": 1683648326,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 177063,
+      "num": 177063,
+      "word": "黄子韬徐志胜直播小学生吵架",
+      "onboard_time": 1683679533,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 171482,
+      "num": 171482,
+      "word": "陈若琳驳斥谣言为全红婵正名",
+      "onboard_time": 1683676105,
+      "rank": 37,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 168882,
@@ -331,6 +547,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149691,
+      "num": 149691,
+      "word": "上海老街变成了上海猫街",
+      "onboard_time": 1683681152,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 149131,
+      "num": 149131,
+      "word": "女子刚学会心肺复苏就救球友一命",
+      "onboard_time": 1683674782,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147267,
       "num": 147267,
       "word": "时代峰峻代理律师发布律师函",
@@ -355,12 +587,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 138059,
-      "num": 138059,
-      "word": "大熊猫竟然可以抱膝坐",
-      "onboard_time": 1683664992,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 124216,
+      "num": 124216,
+      "word": "结婚前父母要和我断绝关系",
+      "onboard_time": 1683681627,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 123629,
@@ -369,14 +601,6 @@
       "onboard_time": 1683648506,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 122886,
-      "num": 122886,
-      "word": "五月天",
-      "onboard_time": 1683675146,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 120671,
@@ -435,20 +659,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102485,
+      "num": 120927,
+      "word": "复刻茉酸奶牛油果奶昔",
+      "onboard_time": 1683680070,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 101578,
       "num": 112747,
       "word": "2023MSI",
       "onboard_time": 1683642333,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 98678,
-      "num": 98678,
-      "word": "杨紫林更新cp感",
-      "onboard_time": 1683674782,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 98051,
@@ -467,14 +691,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 87327,
-      "num": 87327,
-      "word": "女子刚学会心肺复苏就救球友一命",
-      "onboard_time": 1683674782,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 82625,
       "num": 112742,
       "word": "女子路边发现一箱药紧急报警找失主",
@@ -484,7 +700,7 @@
     },
     {
       "raw_hot": 81809,
-      "num": 112712,
+      "num": 120499,
       "word": "RNG",
       "onboard_time": 1683636869,
       "rank": 49,
@@ -579,19 +795,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 12711,
+      "num": 1668318,
+      "word": "上天入地的大国重器彰显大国力量",
+      "onboard_time": 1683617487,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10792,
       "num": 16281,
       "word": "帮30个家庭团聚的志愿者找到了家人",
       "onboard_time": 1683664391,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5991,
-      "num": 736258,
-      "word": "上天入地的大国重器彰显大国力量",
-      "onboard_time": 1683617487,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683675219863,
+  "endTime": 1683681666827,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -49,6 +49,14 @@
       "onboard_time": 1683594509,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2669790,
+      "num": 2669790,
+      "word": "特朗普被裁定性侵",
+      "onboard_time": 1683674843,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2598662,
@@ -251,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1742874,
+      "num": 1742874,
+      "word": "郑州大学回应女子称11年前遭老师侵犯",
+      "onboard_time": 1683676827,
+      "rank": 1,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1676861,
       "num": 1676861,
       "word": "疑似巴厘岛命案当事人照片被晒出",
@@ -273,6 +289,14 @@
       "onboard_time": 1683514467,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1618154,
+      "num": 1618154,
+      "word": "山西野地现无名女尸",
+      "onboard_time": 1683677428,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1614504,
@@ -483,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1312947,
+      "num": 1312947,
+      "word": "徐梦洁 两台手机两个鸟巢也容不下一个我",
+      "onboard_time": 1683677911,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1301163,
       "num": 1301163,
       "word": "女子裸贷5千仅4个月变欠款百万",
@@ -580,7 +612,7 @@
     },
     {
       "raw_hot": 1199371,
-      "num": 320917,
+      "num": 326644,
       "word": "小三得知我要离婚发的短信",
       "onboard_time": 1683621988,
       "rank": 20,
@@ -835,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 915112,
+      "num": 915112,
+      "word": "陈冰 麦当劳",
+      "onboard_time": 1683676407,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 910694,
       "num": 910694,
       "word": "关闭朋友圈一年后的变化",
@@ -849,6 +889,14 @@
       "onboard_time": 1683597988,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 904970,
+      "num": 904970,
+      "word": "郑州大学王国胜",
+      "onboard_time": 1683676347,
+      "rank": 6,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 881580,
@@ -907,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 814266,
+      "num": 814266,
+      "word": "中新网评刘亦菲曾被霸凌",
+      "onboard_time": 1683675385,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 803185,
       "num": 803185,
       "word": "女子车位被邻居霸停数月直接焊死",
@@ -929,6 +985,14 @@
       "onboard_time": 1683530496,
       "rank": 33,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 774327,
+      "num": 774327,
+      "word": "周也早几年干嘛去了",
+      "onboard_time": 1683677310,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 763815,
@@ -969,6 +1033,14 @@
       "onboard_time": 1683509847,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 737297,
+      "num": 737297,
+      "word": "张颂文 海澜之家",
+      "onboard_time": 1683674541,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 735502,
@@ -1075,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 657789,
+      "num": 657789,
+      "word": "男子返乡遇淄博爆火留下卖橙汁",
+      "onboard_time": 1683676527,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 653534,
       "num": 653534,
       "word": "aespa回归",
@@ -1088,14 +1168,6 @@
       "word": "司法部就高铁掌掴事件发声",
       "onboard_time": 1683606270,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 635402,
-      "num": 635402,
-      "word": "特朗普被裁定性侵",
-      "onboard_time": 1683674843,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1177,6 +1249,14 @@
       "onboard_time": 1683608134,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 599430,
+      "num": 599430,
+      "word": "宋慧乔送韩素希应援车",
+      "onboard_time": 1683678453,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 594709,
@@ -1284,7 +1364,7 @@
     },
     {
       "raw_hot": 541156,
-      "num": 256276,
+      "num": 314700,
       "word": "因为30万彩礼跟男朋友分手了",
       "onboard_time": 1683641791,
       "rank": 22,
@@ -1369,6 +1449,14 @@
       "onboard_time": 1683625527,
       "rank": 12,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 512903,
+      "num": 512903,
+      "word": "血鹦鹉 一种鱼生遭罪的鱼",
+      "onboard_time": 1683644069,
+      "rank": 31,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 512627,
@@ -1475,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 457402,
+      "num": 457402,
+      "word": "男孩2年后再见好友满脸难以置信",
+      "onboard_time": 1683680789,
+      "rank": 16,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 448706,
       "num": 448706,
       "word": "吕梁",
@@ -1521,6 +1617,14 @@
       "onboard_time": 1683558453,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 442368,
+      "num": 442368,
+      "word": "脱下孔乙己的长衫你会做什么",
+      "onboard_time": 1683675506,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 438489,
@@ -1635,20 +1739,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 415188,
-      "num": 415188,
-      "word": "血鹦鹉 一种鱼生遭罪的鱼",
-      "onboard_time": 1683644069,
-      "rank": 31,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 413853,
       "num": 413853,
       "word": "约基奇 太阳老板",
       "onboard_time": 1683512969,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 412459,
+      "num": 326180,
+      "word": "Switch卖不动了吗",
+      "onboard_time": 1683677368,
+      "rank": 21,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 409305,
@@ -1785,14 +1889,6 @@
       "onboard_time": 1683540812,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 383773,
-      "num": 383773,
-      "word": "张颂文 海澜之家",
-      "onboard_time": 1683674541,
-      "rank": 6,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 383364,
@@ -2059,6 +2155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 350276,
+      "num": 350276,
+      "word": "易烊千玺蚊子包",
+      "onboard_time": 1683676709,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 349342,
       "num": 292465,
       "word": "曾嘉 嘉行",
@@ -2249,6 +2353,14 @@
       "onboard_time": 1683522333,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 327169,
+      "num": 327169,
+      "word": "3位大爷联手救回一条命",
+      "onboard_time": 1683679353,
+      "rank": 19,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 316911,
@@ -2547,6 +2659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 288701,
+      "num": 288701,
+      "word": "这是芍药界的天花板吧",
+      "onboard_time": 1683676046,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286799,
       "num": 286799,
       "word": "嘉行",
@@ -2643,6 +2763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274020,
+      "num": 198249,
+      "word": "号称投资百亿争做全省第三如今烂尾",
+      "onboard_time": 1683679953,
+      "rank": 30,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 273706,
       "num": 261962,
       "word": "普京如期出席红场阅兵并致辞",
@@ -2689,6 +2817,14 @@
       "onboard_time": 1683617066,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269630,
+      "num": 269630,
+      "word": "特朗普表示将上诉",
+      "onboard_time": 1683680611,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269591,
@@ -2857,6 +2993,14 @@
       "onboard_time": 1683594749,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252825,
+      "num": 252825,
+      "word": "在公司上班需要装穷吗",
+      "onboard_time": 1683678332,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 252260,
@@ -3219,6 +3363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220564,
+      "num": 220564,
+      "word": "五月天",
+      "onboard_time": 1683675146,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 219765,
       "num": 219765,
       "word": "太阳2比2掘金",
@@ -3272,6 +3424,14 @@
       "word": "他从火光中走来烈火小队海报",
       "onboard_time": 1683598768,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 216297,
+      "num": 216297,
+      "word": "林黛玉版天欢",
+      "onboard_time": 1683677310,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -3417,6 +3577,14 @@
       "onboard_time": 1683515488,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 205902,
+      "num": 205902,
+      "word": "杨紫林更新cp感",
+      "onboard_time": 1683674782,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 205884,
@@ -3643,6 +3811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191689,
+      "num": 191689,
+      "word": "淄博黄金地段循环播放寻亲信息",
+      "onboard_time": 1683680311,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190988,
       "num": 180241,
       "word": "蔡徐坤 Baz Luhrmann",
@@ -3715,6 +3891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188191,
+      "num": 188191,
+      "word": "黄明昊单膝下跪送花李宏毅",
+      "onboard_time": 1683681209,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188001,
       "num": 188001,
       "word": "有一个对媳妇百依百顺的婆婆是什么感觉",
@@ -3771,6 +3955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182631,
+      "num": 182631,
+      "word": "秋秋老师",
+      "onboard_time": 1683676347,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180248,
       "num": 180248,
       "word": "姚晨说庄达菲出息了",
@@ -3793,6 +3985,14 @@
       "onboard_time": 1683507211,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 179198,
+      "num": 179198,
+      "word": "大熊猫竟然可以抱膝坐",
+      "onboard_time": 1683664992,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 179037,
@@ -3825,6 +4025,14 @@
       "onboard_time": 1683524010,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 177063,
+      "num": 177063,
+      "word": "黄子韬徐志胜直播小学生吵架",
+      "onboard_time": 1683679533,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 176210,
@@ -3921,6 +4129,14 @@
       "onboard_time": 1683530376,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 171482,
+      "num": 171482,
+      "word": "陈若琳驳斥谣言为全红婵正名",
+      "onboard_time": 1683676105,
+      "rank": 37,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 171319,
@@ -4115,12 +4331,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 149691,
+      "num": 149691,
+      "word": "上海老街变成了上海猫街",
+      "onboard_time": 1683681152,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149173,
       "num": 149173,
       "word": "护心OST阵容",
       "onboard_time": 1683522933,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 149131,
+      "num": 149131,
+      "word": "女子刚学会心肺复苏就救球友一命",
+      "onboard_time": 1683674782,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147152,
@@ -4201,14 +4433,6 @@
       "onboard_time": 1683464552,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 138059,
-      "num": 138059,
-      "word": "大熊猫竟然可以抱膝坐",
-      "onboard_time": 1683664992,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 137022,
@@ -4355,6 +4579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 124216,
+      "num": 124216,
+      "word": "结婚前父母要和我断绝关系",
+      "onboard_time": 1683681627,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 123629,
       "num": 123629,
       "word": "护心 太空上放烟花",
@@ -4369,14 +4601,6 @@
       "onboard_time": 1683562587,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122886,
-      "num": 122886,
-      "word": "五月天",
-      "onboard_time": 1683675146,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 122579,
@@ -4507,6 +4731,14 @@
       "category": "幽默,科技"
     },
     {
+      "raw_hot": 102485,
+      "num": 120927,
+      "word": "复刻茉酸奶牛油果奶昔",
+      "onboard_time": 1683680070,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 100694,
       "num": 100694,
       "word": "DRG止步季后赛",
@@ -4521,14 +4753,6 @@
       "onboard_time": 1683563963,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98678,
-      "num": 98678,
-      "word": "杨紫林更新cp感",
-      "onboard_time": 1683674782,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 98346,
@@ -4593,14 +4817,6 @@
       "onboard_time": 1683588503,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 87327,
-      "num": 87327,
-      "word": "女子刚学会心肺复苏就救球友一命",
-      "onboard_time": 1683674782,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86517,
@@ -4732,7 +4948,7 @@
     },
     {
       "raw_hot": 67694,
-      "num": 1540812,
+      "num": 1668318,
       "word": "上天入地的大国重器彰显大国力量",
       "onboard_time": 1683617487,
       "rank": 2,
