@@ -1,6 +1,6 @@
 {
   "startTime": 1683649328764,
-  "endTime": 1683681666827,
+  "endTime": 1683683176026,
   "band_list": [
     {
       "raw_hot": 2669790,
@@ -19,8 +19,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1618154,
-      "num": 1618154,
+      "raw_hot": 1619996,
+      "num": 1619996,
       "word": "山西野地现无名女尸",
       "onboard_time": 1683677428,
       "rank": 3,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1312947,
-      "num": 1312947,
+      "raw_hot": 1357438,
+      "num": 1357438,
       "word": "徐梦洁 两台手机两个鸟巢也容不下一个我",
       "onboard_time": 1683677911,
       "rank": 4,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 915112,
-      "num": 915112,
+      "raw_hot": 946069,
+      "num": 946069,
       "word": "陈冰 麦当劳",
       "onboard_time": 1683676407,
       "rank": 5,
@@ -83,12 +83,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 777657,
+      "num": 777657,
+      "word": "宋慧乔送韩素希应援车",
+      "onboard_time": 1683678453,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 774327,
       "num": 774327,
       "word": "周也早几年干嘛去了",
       "onboard_time": 1683677310,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 757181,
+      "num": 757181,
+      "word": "男子返乡遇淄博爆火留下卖橙汁",
+      "onboard_time": 1683676527,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 740669,
@@ -107,14 +123,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 657789,
-      "num": 657789,
-      "word": "男子返乡遇淄博爆火留下卖橙汁",
-      "onboard_time": 1683676527,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 631726,
       "num": 631726,
       "word": "这放整个肛肠科都很炸裂",
@@ -131,16 +139,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 599430,
-      "num": 599430,
-      "word": "宋慧乔送韩素希应援车",
-      "onboard_time": 1683678453,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 560585,
+      "num": 560585,
+      "word": "男孩2年后再见好友满脸难以置信",
+      "onboard_time": 1683680789,
+      "rank": 16,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 539198,
-      "num": 326644,
+      "num": 341652,
       "word": "小三得知我要离婚发的短信",
       "onboard_time": 1683621988,
       "rank": 20,
@@ -171,20 +179,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 476575,
+      "num": 476575,
+      "word": "很烧钱又戒不掉的爱好",
+      "onboard_time": 1683681929,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 465729,
       "num": 465729,
       "word": "是你吗 何以琛",
       "onboard_time": 1683626309,
       "rank": 6,
       "category": "其它,作品衍生"
-    },
-    {
-      "raw_hot": 457402,
-      "num": 457402,
-      "word": "男孩2年后再见好友满脸难以置信",
-      "onboard_time": 1683680789,
-      "rank": 16,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 442368,
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 412459,
-      "num": 326180,
+      "num": 328690,
       "word": "Switch卖不动了吗",
       "onboard_time": 1683677368,
       "rank": 21,
@@ -232,6 +240,14 @@
       "word": "列车命案死者是舞者且专业突出",
       "onboard_time": 1683648805,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351116,
+      "num": 351116,
+      "word": "二阳",
+      "onboard_time": 1683682110,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -291,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 313603,
+      "num": 313603,
+      "word": "长风渡",
+      "onboard_time": 1683682228,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 301788,
       "num": 301788,
       "word": "守村人见新娘穿破洞裤送来干净裤子",
@@ -305,6 +329,14 @@
       "onboard_time": 1683622289,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 289089,
+      "num": 289089,
+      "word": "黄明昊单膝下跪送花李宏毅",
+      "onboard_time": 1683681209,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 288701,
@@ -323,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281289,
+      "num": 281289,
+      "word": "范丞丞地垄沟编发",
+      "onboard_time": 1683682888,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279548,
       "num": 203874,
       "word": "白鹿对孙珍妮说小狐狸来生要幸福",
@@ -332,7 +372,7 @@
     },
     {
       "raw_hot": 274020,
-      "num": 198249,
+      "num": 218749,
       "word": "号称投资百亿争做全省第三如今烂尾",
       "onboard_time": 1683679953,
       "rank": 30,
@@ -345,6 +385,14 @@
       "onboard_time": 1683680611,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267477,
+      "num": 267477,
+      "word": "结婚前父母要和我断绝关系",
+      "onboard_time": 1683681627,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 260774,
@@ -387,6 +435,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 236754,
+      "num": 236754,
+      "word": "唐朝诡事录之西行首发剧照",
+      "onboard_time": 1683681690,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 225552,
+      "num": 225552,
+      "word": "林黛玉版天欢",
+      "onboard_time": 1683677310,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223304,
       "num": 201401,
       "word": "罗云熙说长月烬明虽有憾愿人生圆满",
@@ -403,12 +467,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 216297,
-      "num": 216297,
-      "word": "林黛玉版天欢",
-      "onboard_time": 1683677310,
-      "rank": 27,
-      "category": "影视"
+      "raw_hot": 213705,
+      "num": 213705,
+      "word": "出租车深夜抛锚热心小夫妻帮推车",
+      "onboard_time": 1683682648,
+      "rank": 33,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 212569,
@@ -417,6 +481,14 @@
       "onboard_time": 1683644191,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 208887,
+      "num": 208887,
+      "word": "庆余年2召集令",
+      "onboard_time": 1683682588,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 205902,
@@ -449,14 +521,6 @@
       "onboard_time": 1683648447,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 188191,
-      "num": 188191,
-      "word": "黄明昊单膝下跪送花李宏毅",
-      "onboard_time": 1683681209,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 187888,
@@ -513,6 +577,14 @@
       "onboard_time": 1683676105,
       "rank": 37,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 169957,
+      "num": 169957,
+      "word": "罗云熙陈瑶二搭",
+      "onboard_time": 1683683129,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 168882,
@@ -579,6 +651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142683,
+      "num": 142683,
+      "word": "有哪些电子产品买完就吃灰",
+      "onboard_time": 1683682948,
+      "rank": 45,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 141428,
       "num": 141428,
       "word": "青簪行",
@@ -587,12 +667,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 124216,
-      "num": 124216,
-      "word": "结婚前父母要和我断绝关系",
-      "onboard_time": 1683681627,
+      "raw_hot": 133022,
+      "num": 133022,
+      "word": "76人vs凯尔特人",
+      "onboard_time": 1683682350,
       "rank": 46,
-      "category": "幽默,情感"
+      "category": "体育"
     },
     {
       "raw_hot": 123629,
@@ -651,20 +731,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 105414,
+      "num": 129932,
+      "word": "复刻茉酸奶牛油果奶昔",
+      "onboard_time": 1683680070,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 105276,
       "num": 196235,
       "word": "上海虹桥火车站一女子坠楼仍在抢救",
       "onboard_time": 1683630389,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102485,
-      "num": 120927,
-      "word": "复刻茉酸奶牛油果奶昔",
-      "onboard_time": 1683680070,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 101578,
@@ -700,7 +780,7 @@
     },
     {
       "raw_hot": 81809,
-      "num": 120499,
+      "num": 129624,
       "word": "RNG",
       "onboard_time": 1683636869,
       "rank": 49,
@@ -817,6 +897,9 @@
     },
     {
       "word": "#这就是中国活力#"
+    },
+    {
+      "word": "#天舟快递使命必达#"
     }
   ]
 }
