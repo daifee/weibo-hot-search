@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683683176026,
+  "endTime": 1683685976571,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -121,6 +121,14 @@
       "onboard_time": 1683529471,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2339604,
+      "num": 2339604,
+      "word": "很烧钱又戒不掉的爱好",
+      "onboard_time": 1683681929,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 2324403,
@@ -451,6 +459,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 1456869,
+      "num": 1456869,
+      "word": "徐梦洁 两台手机两个鸟巢也容不下一个我",
+      "onboard_time": 1683677911,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1439199,
       "num": 535423,
       "word": "疑似杨幂母亲已成立娱乐公司",
@@ -497,14 +513,6 @@
       "onboard_time": 1683516088,
       "rank": 6,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1357438,
-      "num": 1357438,
-      "word": "徐梦洁 两台手机两个鸟巢也容不下一个我",
-      "onboard_time": 1683677911,
-      "rank": 4,
-      "category": "音乐"
     },
     {
       "raw_hot": 1348201,
@@ -612,7 +620,7 @@
     },
     {
       "raw_hot": 1199371,
-      "num": 341652,
+      "num": 430065,
       "word": "小三得知我要离婚发的短信",
       "onboard_time": 1683621988,
       "rank": 20,
@@ -955,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 832162,
+      "num": 832162,
+      "word": "山西警方发布寻找尸源协查通告",
+      "onboard_time": 1683677428,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 814266,
       "num": 814266,
       "word": "中新网评刘亦菲曾被霸凌",
@@ -1067,6 +1083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 734687,
+      "num": 734687,
+      "word": "白敬亭新剧人设是妻管严",
+      "onboard_time": 1683684148,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 729071,
       "num": 519357,
       "word": "撞死了一只羊",
@@ -1084,7 +1108,7 @@
     },
     {
       "raw_hot": 727017,
-      "num": 653516,
+      "num": 675962,
       "word": "二阳",
       "onboard_time": 1683508648,
       "rank": 39,
@@ -1105,6 +1129,14 @@
       "onboard_time": 1683615388,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 690024,
+      "num": 690024,
+      "word": "一念关山",
+      "onboard_time": 1683685349,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 689690,
@@ -1315,6 +1347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 580753,
+      "num": 580753,
+      "word": "长月烬明编剧发文",
+      "onboard_time": 1683683428,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 577857,
       "num": 577857,
       "word": "相处11年的闺蜜把我拉黑了",
@@ -1409,6 +1449,14 @@
       "onboard_time": 1683521019,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 530606,
+      "num": 530606,
+      "word": "罗云熙陈瑶二搭",
+      "onboard_time": 1683683129,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 529993,
@@ -1523,12 +1571,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 476575,
-      "num": 476575,
-      "word": "很烧钱又戒不掉的爱好",
-      "onboard_time": 1683681929,
-      "rank": 14,
-      "category": "情感"
+      "raw_hot": 487280,
+      "num": 487280,
+      "word": "王一博香奈儿看秀造型",
+      "onboard_time": 1683684628,
+      "rank": 15,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 471755,
@@ -1577,6 +1625,14 @@
       "onboard_time": 1683501321,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451385,
+      "num": 451385,
+      "word": "长风渡",
+      "onboard_time": 1683682228,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 448706,
@@ -1641,6 +1697,14 @@
       "onboard_time": 1683614489,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 437565,
+      "num": 437565,
+      "word": "狐妖小红娘竹业篇",
+      "onboard_time": 1683685288,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 435239,
@@ -1859,6 +1923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 395033,
+      "num": 395033,
+      "word": "王者荣耀亚运会",
+      "onboard_time": 1683685946,
+      "rank": 22,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 391344,
       "num": 269446,
       "word": "空耳的是宋茜丢脸的是蒋欣",
@@ -1931,6 +2003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 379249,
+      "num": 379249,
+      "word": "王者荣耀亚运版本国家集训队名单",
+      "onboard_time": 1683685288,
+      "rank": 23,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 378605,
       "num": 378605,
       "word": "杨幂的时间参照物是什么",
@@ -1947,6 +2027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 377590,
+      "num": 377590,
+      "word": "爱奇艺好多待播剧",
+      "onboard_time": 1683684328,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 377465,
       "num": 377465,
       "word": "五一成绩单四川湖南表现惨淡",
@@ -1960,6 +2048,14 @@
       "word": "白鹿对孙珍妮说小狐狸来生要幸福",
       "onboard_time": 1683644431,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 376621,
+      "num": 376621,
+      "word": "狐妖小红娘月红篇涂山情缘版海报",
+      "onboard_time": 1683685589,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -2131,12 +2227,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 355274,
+      "num": 355274,
+      "word": "一念关山对峙版海报",
+      "onboard_time": 1683685826,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 355225,
       "num": 355225,
       "word": "下季乘风没有郑秀晶就不礼貌了",
       "onboard_time": 1683521071,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 352781,
+      "num": 352781,
+      "word": "香奈儿大秀",
+      "onboard_time": 1683684268,
+      "rank": 28,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 352425,
@@ -2363,12 +2475,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 328240,
+      "num": 328240,
+      "word": "黄明昊单膝下跪送花李宏毅",
+      "onboard_time": 1683681209,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 327169,
       "num": 327169,
       "word": "3位大爷联手救回一条命",
       "onboard_time": 1683679353,
       "rank": 19,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 318961,
+      "num": 318961,
+      "word": "云之羽",
+      "onboard_time": 1683683968,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 316911,
@@ -2409,14 +2537,6 @@
       "onboard_time": 1683465994,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 313603,
-      "num": 313603,
-      "word": "长风渡",
-      "onboard_time": 1683682228,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 310666,
@@ -2619,6 +2739,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 292487,
+      "num": 292487,
+      "word": "庆余年2召集令",
+      "onboard_time": 1683682588,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 292081,
       "num": 292081,
       "word": "为什么不理解一个人看电影",
@@ -2673,14 +2801,6 @@
       "onboard_time": 1683514169,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 289089,
-      "num": 289089,
-      "word": "黄明昊单膝下跪送花李宏毅",
-      "onboard_time": 1683681209,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 288701,
@@ -2979,6 +3099,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 257374,
+      "num": 257374,
+      "word": "高考结束前的最后十五分钟",
+      "onboard_time": 1683683728,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 257342,
       "num": 257342,
       "word": "乘风2023三公分组歌单",
@@ -3107,6 +3235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 248612,
+      "num": 248612,
+      "word": "文俊辉将录制国内综艺",
+      "onboard_time": 1683685946,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248596,
       "num": 248596,
       "word": "中公教育回应88.8万定制课",
@@ -3225,6 +3361,14 @@
       "onboard_time": 1683563424,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 237481,
+      "num": 237481,
+      "word": "计算机二级",
+      "onboard_time": 1683685228,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 236754,
@@ -3403,6 +3547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 225335,
+      "num": 236998,
+      "word": "当i人误入e人生日派对",
+      "onboard_time": 1683685168,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 224779,
       "num": 224779,
       "word": "呼吁动物保护法",
@@ -3416,6 +3568,22 @@
       "word": "王玉雯王子奇眼神",
       "onboard_time": 1683551249,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 222318,
+      "num": 222318,
+      "word": "亚运会",
+      "onboard_time": 1683685709,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 221151,
+      "num": 221151,
+      "word": "七时吉祥",
+      "onboard_time": 1683685228,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -3595,14 +3763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208887,
-      "num": 208887,
-      "word": "庆余年2召集令",
-      "onboard_time": 1683682588,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 208583,
       "num": 208583,
       "word": "周杰伦说华流才是最屌的",
@@ -3739,6 +3899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198671,
+      "num": 198671,
+      "word": "淄博黄金地段循环播放寻亲信息",
+      "onboard_time": 1683680311,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198547,
       "num": 198547,
       "word": "时代少年团台歌完整版上线",
@@ -3769,6 +3937,14 @@
       "onboard_time": 1683630270,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197967,
+      "num": 197967,
+      "word": "费城76人",
+      "onboard_time": 1683684148,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 197206,
@@ -3873,14 +4049,6 @@
       "onboard_time": 1683603087,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 191689,
-      "num": 191689,
-      "word": "淄博黄金地段循环播放寻亲信息",
-      "onboard_time": 1683680311,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190988,
@@ -4009,6 +4177,14 @@
       "onboard_time": 1683464012,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182635,
+      "num": 182635,
+      "word": "观鹤笔记官宣影视化",
+      "onboard_time": 1683685168,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 182631,
@@ -4208,14 +4384,6 @@
       "word": "宇宙探索编辑部",
       "onboard_time": 1683626729,
       "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 169957,
-      "num": 169957,
-      "word": "罗云熙陈瑶二搭",
-      "onboard_time": 1683683129,
-      "rank": 40,
       "category": "影视"
     },
     {
