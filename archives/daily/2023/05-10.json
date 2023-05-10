@@ -1,6 +1,6 @@
 {
   "startTime": 1683649328764,
-  "endTime": 1683693211989,
+  "endTime": 1683695750907,
   "band_list": [
     {
       "raw_hot": 6333261,
@@ -17,6 +17,14 @@
       "onboard_time": 1683686906,
       "rank": 0,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 3532471,
+      "num": 3532471,
+      "word": "杨幂 名字的顺序都该为角色让位",
+      "onboard_time": 1683694599,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2701709,
@@ -49,6 +57,14 @@
       "onboard_time": 1683691174,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1900334,
+      "num": 1900334,
+      "word": "男童喉咙长菜花样肿块确诊感染HPV",
+      "onboard_time": 1683690811,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1742874,
@@ -99,20 +115,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1386329,
+      "num": 1386329,
+      "word": "权志龙王一博今晚要同框",
+      "onboard_time": 1683693158,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1301581,
       "num": 1301581,
       "word": "长风渡 真情侣",
       "onboard_time": 1683686368,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1291925,
-      "num": 896703,
-      "word": "男童喉咙长菜花样肿块确诊感染HPV",
-      "onboard_time": 1683690811,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1276868,
@@ -124,7 +140,7 @@
     },
     {
       "raw_hot": 1051499,
-      "num": 869398,
+      "num": 934639,
       "word": "陈都灵到底客串了多少部剧",
       "onboard_time": 1683690451,
       "rank": 11,
@@ -163,20 +179,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 821398,
+      "num": 821398,
+      "word": "李小鹏任交通运输部党组书记",
+      "onboard_time": 1683690212,
+      "rank": 12,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 818869,
       "num": 818869,
       "word": "苹果天气",
       "onboard_time": 1683639629,
       "rank": 1,
       "category": "科技"
-    },
-    {
-      "raw_hot": 818557,
-      "num": 818557,
-      "word": "李小鹏任交通运输部党组书记",
-      "onboard_time": 1683690212,
-      "rank": 12,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 814266,
@@ -235,6 +251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 732794,
+      "num": 732794,
+      "word": "骄阳伴我",
+      "onboard_time": 1683693158,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 712592,
       "num": 712592,
       "word": "二阳",
@@ -249,14 +273,6 @@
       "onboard_time": 1683685349,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 689666,
-      "num": 689666,
-      "word": "权志龙王一博今晚要同框",
-      "onboard_time": 1683693158,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 657804,
@@ -280,6 +296,14 @@
       "word": "狐妖小红娘月红篇涂山情缘版海报",
       "onboard_time": 1683685589,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 637804,
+      "num": 637804,
+      "word": "张云龙 竹业篇",
+      "onboard_time": 1683693457,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -395,6 +419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 492964,
+      "num": 492964,
+      "word": "小县城下班后有多美好",
+      "onboard_time": 1683691295,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 479429,
       "num": 479429,
       "word": "王者荣耀亚运版本国家集训队名单",
@@ -425,14 +457,6 @@
       "onboard_time": 1683682228,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 444495,
-      "num": 444495,
-      "word": "小县城下班后有多美好",
-      "onboard_time": 1683691295,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 442368,
@@ -547,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 358704,
+      "num": 358704,
+      "word": "生完四胞胎又怀四胞胎女子终止妊娠",
+      "onboard_time": 1683693217,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354333,
       "num": 354333,
       "word": "香奈儿大秀",
@@ -569,6 +601,14 @@
       "onboard_time": 1683641791,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 342392,
+      "num": 314744,
+      "word": "王一栩审美vs郭敬明审美",
+      "onboard_time": 1683694539,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 338795,
@@ -643,6 +683,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 315107,
+      "num": 315107,
+      "word": "室友尖叫导致我听力下降",
+      "onboard_time": 1683693337,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 305693,
+      "num": 305693,
+      "word": "杨幂新剧哈尔滨一九四四官宣",
+      "onboard_time": 1683695261,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 301788,
       "num": 301788,
       "word": "守村人见新娘穿破洞裤送来干净裤子",
@@ -692,7 +748,7 @@
     },
     {
       "raw_hot": 284575,
-      "num": 244441,
+      "num": 252060,
       "word": "长期运动和学习大脑更灵活",
       "onboard_time": 1683691052,
       "rank": 39,
@@ -705,6 +761,14 @@
       "onboard_time": 1683682888,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280094,
+      "num": 280094,
+      "word": "睡眠时长决定我对人生的态度",
+      "onboard_time": 1683695202,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 279548,
@@ -732,7 +796,7 @@
     },
     {
       "raw_hot": 272608,
-      "num": 235673,
+      "num": 242120,
       "word": "张予曦cos斗罗大陆小舞",
       "onboard_time": 1683691591,
       "rank": 45,
@@ -787,6 +851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 258183,
+      "num": 215251,
+      "word": "2023古偶仙侠元年",
+      "onboard_time": 1683694778,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 257374,
       "num": 257374,
       "word": "高考结束前的最后十五分钟",
@@ -817,6 +889,14 @@
       "onboard_time": 1683688891,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 248767,
+      "num": 248767,
+      "word": "青蛙人偶被若干小孩围堵打哭未还手",
+      "onboard_time": 1683693217,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241456,
@@ -931,6 +1011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214828,
+      "num": 214828,
+      "word": "罗云熙的文笔",
+      "onboard_time": 1683694964,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 213705,
       "num": 213705,
       "word": "出租车深夜抛锚热心小夫妻帮推车",
@@ -952,14 +1040,6 @@
       "word": "杨紫林更新cp感",
       "onboard_time": 1683674782,
       "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 204121,
-      "num": 185319,
-      "word": "骄阳伴我",
-      "onboard_time": 1683693158,
-      "rank": 45,
       "category": "影视"
     },
     {
@@ -1044,7 +1124,7 @@
     },
     {
       "raw_hot": 173079,
-      "num": 173079,
+      "num": 204853,
       "word": "工资高但你不喜欢的工作你会做吗",
       "onboard_time": 1683693158,
       "rank": 48,
@@ -1084,7 +1164,7 @@
     },
     {
       "raw_hot": 167774,
-      "num": 2161619,
+      "num": 2194610,
       "word": "5.8%的背后哪些科目越来越好",
       "onboard_time": 1683688891,
       "rank": 2,
