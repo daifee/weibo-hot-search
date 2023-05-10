@@ -1,7 +1,15 @@
 {
   "startTime": 1683649328764,
-  "endTime": 1683686538860,
+  "endTime": 1683688676491,
   "band_list": [
+    {
+      "raw_hot": 3803742,
+      "num": 3803742,
+      "word": "IU被警方告发涉嫌剽窃6首歌曲",
+      "onboard_time": 1683686906,
+      "rank": 0,
+      "category": "艺人,社会新闻"
+    },
     {
       "raw_hot": 2669790,
       "num": 2669790,
@@ -43,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1584435,
+      "num": 1584435,
+      "word": "狐妖小红娘竹业篇",
+      "onboard_time": 1683685288,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1456869,
       "num": 1456869,
       "word": "徐梦洁 两台手机两个鸟巢也容不下一个我",
@@ -59,11 +75,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1011722,
-      "num": 1011722,
-      "word": "狐妖小红娘竹业篇",
-      "onboard_time": 1683685288,
-      "rank": 18,
+      "raw_hot": 1088525,
+      "num": 1088525,
+      "word": "长风渡 真情侣",
+      "onboard_time": 1683686368,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 968925,
+      "num": 968925,
+      "word": "刘诗诗说既然你们缺人不如邀我同行",
+      "onboard_time": 1683686906,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -107,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 785069,
+      "num": 774327,
+      "word": "周也早几年干嘛去了",
+      "onboard_time": 1683677310,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 778638,
       "num": 778638,
       "word": "白敬亭新剧人设是妻管严",
@@ -123,12 +155,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 774327,
-      "num": 774327,
-      "word": "周也早几年干嘛去了",
-      "onboard_time": 1683677310,
-      "rank": 8,
-      "category": "艺人"
+      "raw_hot": 761170,
+      "num": 761170,
+      "word": "女子官宣结婚被民警提醒赶紧分手",
+      "onboard_time": 1683688050,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 757181,
@@ -187,12 +219,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 650873,
+      "num": 650873,
+      "word": "狐妖小红娘月红篇涂山情缘版海报",
+      "onboard_time": 1683685589,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 631726,
       "num": 631726,
       "word": "这放整个肛肠科都很炸裂",
       "onboard_time": 1683624870,
       "rank": 4,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 618610,
+      "num": 479015,
+      "word": "文俊辉将录制国内综艺",
+      "onboard_time": 1683685946,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 617292,
@@ -211,20 +259,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 572307,
+      "num": 447311,
+      "word": "小三得知我要离婚发的短信",
+      "onboard_time": 1683621988,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 560585,
       "num": 560585,
       "word": "男孩2年后再见好友满脸难以置信",
       "onboard_time": 1683680789,
       "rank": 16,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 539198,
-      "num": 430065,
-      "word": "小三得知我要离婚发的短信",
-      "onboard_time": 1683621988,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 530606,
@@ -259,20 +307,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 479429,
+      "num": 479429,
+      "word": "王者荣耀亚运版本国家集训队名单",
+      "onboard_time": 1683685288,
+      "rank": 23,
+      "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 475072,
+      "num": 475072,
+      "word": "女子换肾重生11年救助上千病友",
+      "onboard_time": 1683686788,
+      "rank": 18,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 465729,
       "num": 465729,
       "word": "是你吗 何以琛",
       "onboard_time": 1683626309,
       "rank": 6,
       "category": "其它,作品衍生"
-    },
-    {
-      "raw_hot": 459929,
-      "num": 459929,
-      "word": "文俊辉将录制国内综艺",
-      "onboard_time": 1683685946,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 451385,
@@ -307,20 +363,20 @@
       "category": "游戏,社会新闻"
     },
     {
-      "raw_hot": 401738,
-      "num": 376621,
-      "word": "狐妖小红娘月红篇涂山情缘版海报",
-      "onboard_time": 1683685589,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 395033,
       "num": 395033,
       "word": "王者荣耀亚运会",
       "onboard_time": 1683685946,
       "rank": 22,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 393242,
+      "num": 370640,
+      "word": "网剧唐人街探案2首支预告",
+      "onboard_time": 1683686608,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 391872,
@@ -339,14 +395,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 379249,
-      "num": 379249,
-      "word": "王者荣耀亚运版本国家集训队名单",
-      "onboard_time": 1683685288,
-      "rank": 23,
-      "category": "游戏,体育"
-    },
-    {
       "raw_hot": 377590,
       "num": 377590,
       "word": "爱奇艺好多待播剧",
@@ -360,6 +408,22 @@
       "word": "列车命案死者是舞者且专业突出",
       "onboard_time": 1683648805,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 372152,
+      "num": 372152,
+      "word": "罗翔谈女子遭掌掴还手被判定互殴",
+      "onboard_time": 1683687691,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 360916,
+      "num": 360916,
+      "word": "男子举牌相亲月薪6千要求女方1万2",
+      "onboard_time": 1683687328,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -411,6 +475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 330860,
+      "num": 330860,
+      "word": "刘诗诗新剧真名不叫如意叫任辛",
+      "onboard_time": 1683688228,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 328240,
       "num": 328240,
       "word": "黄明昊单膝下跪送花李宏毅",
@@ -459,8 +531,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 292711,
-      "num": 292711,
+      "raw_hot": 299552,
+      "num": 299552,
       "word": "七时吉祥",
       "onboard_time": 1683685228,
       "rank": 40,
@@ -507,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 275845,
+      "num": 266847,
+      "word": "杨幂涂山红红定妆侧拍花絮",
+      "onboard_time": 1683687867,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 274020,
       "num": 218749,
       "word": "号称投资百亿争做全省第三如今烂尾",
@@ -523,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267721,
+      "num": 267721,
+      "word": "苹果客服回应女生手机隔空收到不雅照",
+      "onboard_time": 1683685048,
+      "rank": 43,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 267477,
       "num": 267477,
       "word": "结婚前父母要和我断绝关系",
@@ -537,6 +625,22 @@
       "onboard_time": 1683644913,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 259417,
+      "num": 259417,
+      "word": "亚运会",
+      "onboard_time": 1683685709,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 258934,
+      "num": 258934,
+      "word": "无忧渡",
+      "onboard_time": 1683688350,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 257374,
@@ -561,14 +665,6 @@
       "onboard_time": 1683678332,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 241901,
-      "num": 241901,
-      "word": "亚运会",
-      "onboard_time": 1683685709,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 241456,
@@ -619,12 +715,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 230190,
-      "num": 230190,
-      "word": "长风渡 真情侣",
-      "onboard_time": 1683686368,
-      "rank": 42,
-      "category": "影视"
+      "raw_hot": 227900,
+      "num": 227900,
+      "word": "这不得迷死王俊凯",
+      "onboard_time": 1683688292,
+      "rank": 44,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 225552,
@@ -643,14 +739,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 224929,
-      "num": 224929,
-      "word": "苹果客服回应女生手机隔空收到不雅照",
-      "onboard_time": 1683685048,
-      "rank": 43,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 223304,
       "num": 201401,
       "word": "罗云熙说长月烬明虽有憾愿人生圆满",
@@ -665,6 +753,30 @@
       "onboard_time": 1683675146,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 220049,
+      "num": 220049,
+      "word": "清融",
+      "onboard_time": 1683688529,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 218074,
+      "num": 218074,
+      "word": "一念关山首支预告",
+      "onboard_time": 1683687750,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 216239,
+      "num": 216239,
+      "word": "狐妖小红娘月红篇",
+      "onboard_time": 1683686847,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 213705,
@@ -1076,7 +1188,7 @@
     },
     {
       "raw_hot": 12711,
-      "num": 1668318,
+      "num": 1739751,
       "word": "上天入地的大国重器彰显大国力量",
       "onboard_time": 1683617487,
       "rank": 2,

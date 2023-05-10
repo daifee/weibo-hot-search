@@ -1,0 +1,410 @@
+{
+  "runTime": 1683688676491,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3803742,
+        "num": 3803742,
+        "word": "IU被警方告发涉嫌剽窃6首歌曲",
+        "onboard_time": 1683686906,
+        "rank": 0,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 2111025,
+        "num": 2111025,
+        "word": "很烧钱又戒不掉的爱好",
+        "onboard_time": 1683681929,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 7409,
+        "num": 1739751,
+        "word": "上天入地的大国重器彰显大国力量",
+        "onboard_time": 1683617487,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1584435,
+        "num": 1584435,
+        "word": "狐妖小红娘竹业篇",
+        "onboard_time": 1683685288,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1448694,
+        "num": 1448694,
+        "word": "特朗普被裁定性侵",
+        "onboard_time": 1683674843,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1416660,
+        "num": 1416660,
+        "word": "郑州大学回应女子称11年前遭老师侵犯",
+        "onboard_time": 1683676827,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1088525,
+        "num": 1088525,
+        "word": "长风渡 真情侣",
+        "onboard_time": 1683686368,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 968925,
+        "num": 968925,
+        "word": "刘诗诗说既然你们缺人不如邀我同行",
+        "onboard_time": 1683686906,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 921730,
+        "num": 921730,
+        "word": "徐梦洁 两台手机两个鸟巢也容不下一个我",
+        "onboard_time": 1683677911,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 761170,
+        "num": 761170,
+        "word": "女子官宣结婚被民警提醒赶紧分手",
+        "onboard_time": 1683688050,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 807280,
+        "num": 716569,
+        "word": "中新网评刘亦菲曾被霸凌",
+        "onboard_time": 1683675385,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 785069,
+        "num": 714508,
+        "word": "周也早几年干嘛去了",
+        "onboard_time": 1683677310,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 650873,
+        "num": 650873,
+        "word": "狐妖小红娘月红篇涂山情缘版海报",
+        "onboard_time": 1683685589,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 564155,
+        "num": 564155,
+        "word": "王一博香奈儿看秀造型",
+        "onboard_time": 1683684628,
+        "rank": 13,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 479429,
+        "num": 479429,
+        "word": "王者荣耀亚运版本国家集训队名单",
+        "onboard_time": 1683685288,
+        "rank": 14,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 644106,
+        "num": 479091,
+        "word": "白敬亭新剧人设是妻管严",
+        "onboard_time": 1683684148,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 618610,
+        "num": 479015,
+        "word": "文俊辉将录制国内综艺",
+        "onboard_time": 1683685946,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 601921,
+        "num": 477068,
+        "word": "长月烬明编剧发文",
+        "onboard_time": 1683683428,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 475072,
+        "num": 475072,
+        "word": "女子换肾重生11年救助上千病友",
+        "onboard_time": 1683686788,
+        "rank": 18,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 450981,
+        "num": 450981,
+        "word": "二阳",
+        "onboard_time": 1683682110,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572307,
+        "num": 447311,
+        "word": "小三得知我要离婚发的短信",
+        "onboard_time": 1683621988,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 528082,
+        "num": 439089,
+        "word": "陈冰 麦当劳",
+        "onboard_time": 1683676407,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412812,
+        "num": 412812,
+        "word": "郑州大学王国胜",
+        "onboard_time": 1683676347,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 409864,
+        "num": 409864,
+        "word": "这放整个肛肠科都很炸裂",
+        "onboard_time": 1683624870,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 372152,
+        "num": 372152,
+        "word": "罗翔谈女子遭掌掴还手被判定互殴",
+        "onboard_time": 1683687691,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393242,
+        "num": 370640,
+        "word": "网剧唐人街探案2首支预告",
+        "onboard_time": 1683686608,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 377538,
+        "num": 369019,
+        "word": "罗云熙陈瑶二搭",
+        "onboard_time": 1683683129,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364259,
+        "num": 364259,
+        "word": "爱奇艺好多待播剧",
+        "onboard_time": 1683684328,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 360916,
+        "num": 360916,
+        "word": "男子举牌相亲月薪6千要求女方1万2",
+        "onboard_time": 1683687328,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295663,
+        "num": 344556,
+        "word": "辱骂女大学生致死案房东发声",
+        "onboard_time": 1683649945,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330860,
+        "num": 330860,
+        "word": "刘诗诗新剧真名不叫如意叫任辛",
+        "onboard_time": 1683688228,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299552,
+        "num": 299552,
+        "word": "七时吉祥",
+        "onboard_time": 1683685228,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277477,
+        "num": 277477,
+        "word": "宋慧乔送韩素希应援车",
+        "onboard_time": 1683678453,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270463,
+        "num": 270463,
+        "word": "Switch卖不动了吗",
+        "onboard_time": 1683677368,
+        "rank": 33,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 267721,
+        "num": 267721,
+        "word": "苹果客服回应女生手机隔空收到不雅照",
+        "onboard_time": 1683685048,
+        "rank": 34,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 275845,
+        "num": 266847,
+        "word": "杨幂涂山红红定妆侧拍花絮",
+        "onboard_time": 1683687867,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 264603,
+        "num": 264603,
+        "word": "杭州女生地铁上隔空收到不雅照",
+        "onboard_time": 1683644972,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259417,
+        "num": 259417,
+        "word": "亚运会",
+        "onboard_time": 1683685709,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258934,
+        "num": 258934,
+        "word": "无忧渡",
+        "onboard_time": 1683688350,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255458,
+        "num": 255458,
+        "word": "长风渡",
+        "onboard_time": 1683682228,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255216,
+        "num": 255216,
+        "word": "庆余年2召集令",
+        "onboard_time": 1683682588,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247033,
+        "num": 247033,
+        "word": "云之羽",
+        "onboard_time": 1683683968,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241917,
+        "num": 241917,
+        "word": "费城76人",
+        "onboard_time": 1683684148,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238507,
+        "num": 238507,
+        "word": "香奈儿大秀",
+        "onboard_time": 1683684268,
+        "rank": 43,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 227900,
+        "num": 227900,
+        "word": "这不得迷死王俊凯",
+        "onboard_time": 1683688292,
+        "rank": 44,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 220049,
+        "num": 220049,
+        "word": "清融",
+        "onboard_time": 1683688529,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218074,
+        "num": 218074,
+        "word": "一念关山首支预告",
+        "onboard_time": 1683687750,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216239,
+        "num": 216239,
+        "word": "狐妖小红娘月红篇",
+        "onboard_time": 1683686847,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214116,
+        "num": 214116,
+        "word": "高考结束前的最后十五分钟",
+        "onboard_time": 1683683728,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213684,
+        "num": 213684,
+        "word": "莲花楼",
+        "onboard_time": 1683686128,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#这就是中国活力#"
+    }
+  }
+}
