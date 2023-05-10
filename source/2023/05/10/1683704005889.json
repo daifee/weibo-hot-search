@@ -1,0 +1,410 @@
+{
+  "runTime": 1683704005889,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2796790,
+        "num": 2796790,
+        "word": "黄旭熙正式退团",
+        "onboard_time": 1683699157,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2212890,
+        "num": 2212890,
+        "word": "杨幂 名字的顺序都该为角色让位",
+        "onboard_time": 1683694599,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69256,
+        "num": 1899794,
+        "word": "5.8%的背后哪些科目越来越好",
+        "onboard_time": 1683688891,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1723525,
+        "num": 1723525,
+        "word": "深圳女副区长一撮白发被指挑染",
+        "onboard_time": 1683696274,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1245639,
+        "num": 1245639,
+        "word": "自曝被郑州大学教授性侵女子仍未报警",
+        "onboard_time": 1683700592,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 932492,
+        "num": 932492,
+        "word": "佳能 黄旭熙",
+        "onboard_time": 1683702632,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 858889,
+        "num": 858889,
+        "word": "男童喉咙长菜花样肿块确诊感染HPV",
+        "onboard_time": 1683690811,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 826920,
+        "num": 826920,
+        "word": "权志龙王一博今晚要同框",
+        "onboard_time": 1683693158,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 787296,
+        "num": 787296,
+        "word": "女子官宣结婚被民警提醒赶紧分手",
+        "onboard_time": 1683688050,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705610,
+        "num": 705610,
+        "word": "白鹿新剧演恶女",
+        "onboard_time": 1683691174,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 537429,
+        "num": 537429,
+        "word": "真情侣待播剧",
+        "onboard_time": 1683699454,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 428481,
+        "num": 428481,
+        "word": "郑州大学回应女子称11年前遭老师侵犯",
+        "onboard_time": 1683676827,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 420489,
+        "num": 420489,
+        "word": "玉骨遥",
+        "onboard_time": 1683702090,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420178,
+        "num": 420178,
+        "word": "gidle先行曲MV疑似抄袭",
+        "onboard_time": 1683698673,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 348156,
+        "num": 416661,
+        "word": "杨澜 没有移民没有绿卡",
+        "onboard_time": 1683703471,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 413654,
+        "num": 413654,
+        "word": "刘诗诗说既然你们缺人不如邀我同行",
+        "onboard_time": 1683686906,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 385333,
+        "num": 385333,
+        "word": "庆余年第二季今日开机",
+        "onboard_time": 1683703413,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320402,
+        "num": 320402,
+        "word": "多名男子搭讪邻桌女孩店员劝阻起冲突",
+        "onboard_time": 1683698733,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310587,
+        "num": 310587,
+        "word": "很烧钱又戒不掉的爱好",
+        "onboard_time": 1683681929,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 285930,
+        "num": 285930,
+        "word": "凭什么打开APP时暂停我的歌",
+        "onboard_time": 1683697057,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 430656,
+        "num": 285219,
+        "word": "室友的简历被人事单独留下了",
+        "onboard_time": 1683702392,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 335551,
+        "num": 285162,
+        "word": "IU被告发涉嫌剽窃6首歌曲",
+        "onboard_time": 1683686906,
+        "rank": 21,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 283367,
+        "num": 283367,
+        "word": "兜兜转转还是诗幂",
+        "onboard_time": 1683696994,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262165,
+        "num": 262165,
+        "word": "一觉醒来咽喉炎了",
+        "onboard_time": 1683701794,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 259677,
+        "num": 259677,
+        "word": "特朗普被裁定性侵",
+        "onboard_time": 1683674843,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254671,
+        "num": 254671,
+        "word": "肖战白百何骄阳伴我Q4播出",
+        "onboard_time": 1683697358,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250024,
+        "num": 250024,
+        "word": "张云龙 竹业篇",
+        "onboard_time": 1683693457,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244306,
+        "num": 244306,
+        "word": "白敬亭撒娇不像演的",
+        "onboard_time": 1683701191,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229051,
+        "num": 229051,
+        "word": "山东学生身高竟然不是全国第一",
+        "onboard_time": 1683702332,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 222342,
+        "num": 222342,
+        "word": "圆明园黑天鹅死于肺部感染",
+        "onboard_time": 1683701494,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222689,
+        "num": 220004,
+        "word": "长风渡 真情侣",
+        "onboard_time": 1683686368,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203943,
+        "num": 203943,
+        "word": "捐肾闺蜜力挺赛琳娜",
+        "onboard_time": 1683700710,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200414,
+        "num": 200414,
+        "word": "威神V",
+        "onboard_time": 1683703289,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199640,
+        "num": 199640,
+        "word": "厦门防空警报",
+        "onboard_time": 1683702994,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194088,
+        "num": 194088,
+        "word": "深圳男子暴雨天救助流浪猫是野生动物",
+        "onboard_time": 1683703114,
+        "rank": 34,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 190098,
+        "num": 190098,
+        "word": "中国网评杨幂对角色与番位的态度",
+        "onboard_time": 1683703653,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181602,
+        "num": 181602,
+        "word": "狐妖小红娘竹业篇",
+        "onboard_time": 1683685288,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180728,
+        "num": 180728,
+        "word": "小三得知我要离婚发的短信",
+        "onboard_time": 1683621988,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178408,
+        "num": 178408,
+        "word": "女子跑步低血糖晕倒瞬间被男子扶起",
+        "onboard_time": 1683701914,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165023,
+        "num": 165023,
+        "word": "孟羽童称靠别人永远不如靠自己",
+        "onboard_time": 1683699212,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161836,
+        "num": 161836,
+        "word": "NCT",
+        "onboard_time": 1683699990,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143258,
+        "num": 143258,
+        "word": "索菲亚工程师要求供应商安排嫖娼被开",
+        "onboard_time": 1683699454,
+        "rank": 41,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 136926,
+        "num": 136926,
+        "word": "郑州大学王国胜",
+        "onboard_time": 1683676347,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 135808,
+        "num": 135808,
+        "word": "电影河边的错误国际版预告",
+        "onboard_time": 1683703831,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133213,
+        "num": 133213,
+        "word": "生完四胞胎又怀四胞胎女子终止妊娠",
+        "onboard_time": 1683693217,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131133,
+        "num": 131133,
+        "word": "王一栩审美vs郭敬明审美",
+        "onboard_time": 1683694539,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124294,
+        "num": 124294,
+        "word": "2岁小锣鼓手婚礼上惊艳献技",
+        "onboard_time": 1683702871,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82015,
+        "num": 124105,
+        "word": "TTG和WB全员入围亚运集训",
+        "onboard_time": 1683696399,
+        "rank": 47,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 63707,
+        "num": 123709,
+        "word": "清融",
+        "onboard_time": 1683688529,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 51190,
+        "num": 123482,
+        "word": "Switch卖不动了吗",
+        "onboard_time": 1683677368,
+        "rank": 49,
+        "category": "游戏,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#天舟快递使命必达#"
+    }
+  }
+}

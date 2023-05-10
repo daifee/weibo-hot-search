@@ -1,6 +1,6 @@
 {
   "startTime": 1683649328764,
-  "endTime": 1683702930181,
+  "endTime": 1683704005889,
   "band_list": [
     {
       "raw_hot": 6333261,
@@ -83,6 +83,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1723525,
+      "num": 1723525,
+      "word": "深圳女副区长一撮白发被指挑染",
+      "onboard_time": 1683696274,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1619996,
       "num": 1619996,
       "word": "山西野地现无名女尸",
@@ -113,14 +121,6 @@
       "onboard_time": 1683685288,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1580304,
-      "num": 1580304,
-      "word": "深圳女副区长一撮白发被指挑染",
-      "onboard_time": 1683696274,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1456869,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1245639,
+      "num": 1245639,
+      "word": "自曝被郑州大学教授性侵女子仍未报警",
+      "onboard_time": 1683700592,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1051499,
       "num": 934639,
       "word": "陈都灵到底客串了多少部剧",
@@ -169,6 +177,14 @@
       "onboard_time": 1683676407,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 932492,
+      "num": 932492,
+      "word": "佳能 黄旭熙",
+      "onboard_time": 1683702632,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 913542,
@@ -321,14 +337,6 @@
       "onboard_time": 1683685589,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 643986,
-      "num": 643986,
-      "word": "自曝被郑州大学教授性侵女子仍未报警",
-      "onboard_time": 1683700592,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 637804,
@@ -523,6 +531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 430656,
+      "num": 285219,
+      "word": "室友的简历被人事单独留下了",
+      "onboard_time": 1683702392,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 429620,
       "num": 429620,
       "word": "多名男子搭讪邻桌女孩店员劝阻起冲突",
@@ -531,20 +547,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 427304,
-      "num": 427304,
-      "word": "佳能 黄旭熙",
-      "onboard_time": 1683702632,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 426736,
       "num": 369781,
       "word": "杨幂涂山红红定妆侧拍花絮",
       "onboard_time": 1683687867,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 420489,
+      "num": 420489,
+      "word": "玉骨遥",
+      "onboard_time": 1683702090,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 417698,
@@ -592,6 +608,14 @@
       "word": "杨紫或将配合青簪行补拍",
       "onboard_time": 1683635669,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 385333,
+      "num": 385333,
+      "word": "庆余年第二季今日开机",
+      "onboard_time": 1683703413,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -705,6 +729,14 @@
       "onboard_time": 1683641791,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 348156,
+      "num": 416661,
+      "word": "杨澜 没有移民没有绿卡",
+      "onboard_time": 1683703471,
+      "rank": 14,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 343771,
@@ -947,6 +979,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 262165,
+      "num": 262165,
+      "word": "一觉醒来咽喉炎了",
+      "onboard_time": 1683701794,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 260774,
       "num": 260774,
       "word": "张婧仪上错车",
@@ -1019,12 +1059,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245191,
-      "num": 245191,
-      "word": "室友的简历被人事单独留下了",
-      "onboard_time": 1683702392,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 244306,
+      "num": 244306,
+      "word": "白敬亭撒娇不像演的",
+      "onboard_time": 1683701191,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 241456,
@@ -1049,14 +1089,6 @@
       "onboard_time": 1683636450,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 237591,
-      "num": 236391,
-      "word": "白敬亭撒娇不像演的",
-      "onboard_time": 1683701191,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 237481,
@@ -1099,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229051,
+      "num": 229051,
+      "word": "山东学生身高竟然不是全国第一",
+      "onboard_time": 1683702332,
+      "rank": 36,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 225552,
       "num": 225552,
       "word": "林黛玉版天欢",
@@ -1120,14 +1160,6 @@
       "word": "罗云熙说长月烬明虽有憾愿人生圆满",
       "onboard_time": 1683637411,
       "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 223047,
-      "num": 198266,
-      "word": "玉骨遥",
-      "onboard_time": 1683702090,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -1219,6 +1251,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200414,
+      "num": 200414,
+      "word": "威神V",
+      "onboard_time": 1683703289,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 199640,
+      "num": 199640,
+      "word": "厦门防空警报",
+      "onboard_time": 1683702994,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199229,
       "num": 199229,
       "word": "白夜追凶2",
@@ -1259,12 +1307,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194088,
+      "num": 194088,
+      "word": "深圳男子暴雨天救助流浪猫是野生动物",
+      "onboard_time": 1683703114,
+      "rank": 34,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 192881,
       "num": 192881,
       "word": "迷路大爷误上婚车被拉到40里外婚房",
       "onboard_time": 1683699212,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190098,
+      "num": 190098,
+      "word": "中国网评杨幂对角色与番位的态度",
+      "onboard_time": 1683703653,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 189096,
@@ -1403,22 +1467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163865,
-      "num": 163865,
-      "word": "一觉醒来咽喉炎了",
-      "onboard_time": 1683701794,
-      "rank": 33,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 162708,
-      "num": 162708,
-      "word": "山东学生身高竟然不是全国第一",
-      "onboard_time": 1683702332,
-      "rank": 36,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 154535,
       "num": 154535,
       "word": "华流的存在感到底有多强",
@@ -1507,12 +1555,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135808,
+      "num": 135808,
+      "word": "电影河边的错误国际版预告",
+      "onboard_time": 1683703831,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 133022,
       "num": 133022,
       "word": "76人vs凯尔特人",
       "onboard_time": 1683682350,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124294,
+      "num": 132554,
+      "word": "2岁小锣鼓手婚礼上惊艳献技",
+      "onboard_time": 1683702871,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123629,
@@ -1561,14 +1625,6 @@
       "onboard_time": 1683640769,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 112851,
-      "num": 132554,
-      "word": "2岁小锣鼓手婚礼上惊艳献技",
-      "onboard_time": 1683702871,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112016,
