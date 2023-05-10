@@ -1,6 +1,6 @@
 {
   "startTime": 1683649328764,
-  "endTime": 1683714825082,
+  "endTime": 1683717246856,
   "band_list": [
     {
       "raw_hot": 6333261,
@@ -67,20 +67,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2577263,
+      "num": 2577263,
+      "word": "言冰云谁演",
+      "onboard_time": 1683711930,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2339604,
       "num": 2339604,
       "word": "很烧钱又戒不掉的爱好",
       "onboard_time": 1683681929,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2257641,
-      "num": 2257641,
-      "word": "言冰云谁演",
-      "onboard_time": 1683711930,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 2208279,
@@ -219,12 +219,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 973955,
+      "num": 973955,
+      "word": "福建3名落水基层干部遇难",
+      "onboard_time": 1683714330,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 966583,
+      "num": 966583,
+      "word": "男子酒局带女儿炫耀被全桌羡慕",
+      "onboard_time": 1683712592,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 946069,
       "num": 946069,
       "word": "陈冰 麦当劳",
       "onboard_time": 1683676407,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 943482,
+      "num": 943482,
+      "word": "董明珠曾称要将孟羽童培养成第二个自己",
+      "onboard_time": 1683712351,
+      "rank": 10,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 913542,
@@ -297,14 +321,6 @@
       "onboard_time": 1683678453,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 765144,
-      "num": 648516,
-      "word": "董明珠曾称要将孟羽童培养成第二个自己",
-      "onboard_time": 1683712351,
-      "rank": 10,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 757181,
@@ -467,14 +483,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 569933,
-      "num": 569933,
-      "word": "福建3名落水基层干部遇难",
-      "onboard_time": 1683714330,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 569102,
       "num": 569102,
       "word": "山东学生身高竟然不是全国第一",
@@ -489,14 +497,6 @@
       "onboard_time": 1683680789,
       "rank": 16,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 540889,
-      "num": 540889,
-      "word": "男子酒局带女儿炫耀被全桌羡慕",
-      "onboard_time": 1683712592,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 535128,
@@ -779,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368425,
+      "num": 1706441,
+      "word": "男子躺地铁座椅酣睡获众人理解心疼",
+      "onboard_time": 1683716011,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367557,
       "num": 367557,
       "word": "徐明浩直播",
@@ -947,6 +955,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 325957,
+      "num": 1485992,
+      "word": "深圳男子暴雨天救助流浪猫是野生动物",
+      "onboard_time": 1683703114,
+      "rank": 34,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 325666,
       "num": 298671,
       "word": "王权霸业",
@@ -1091,20 +1107,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 287748,
-      "num": 1485992,
-      "word": "深圳男子暴雨天救助流浪猫是野生动物",
-      "onboard_time": 1683703114,
-      "rank": 34,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 287163,
       "num": 221808,
       "word": "王俊凯暴龙直播",
       "onboard_time": 1683705810,
       "rank": 26,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 286056,
+      "num": 286056,
+      "word": "老板把拆迁款转到我账户上了",
+      "onboard_time": 1683714153,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 284575,
@@ -1179,8 +1195,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 270016,
-      "num": 270016,
+      "raw_hot": 271014,
+      "num": 271014,
       "word": "汪峰说从来没有怕过章子怡",
       "onboard_time": 1683713187,
       "rank": 26,
@@ -1299,20 +1315,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 250855,
+      "num": 223043,
+      "word": "身上5种疣可能是HPV感染",
+      "onboard_time": 1683715409,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249307,
       "num": 249307,
       "word": "青蛙人偶被若干小孩围堵打哭未还手",
       "onboard_time": 1683693217,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 245080,
-      "num": 245080,
-      "word": "老板把拆迁款转到我账户上了",
-      "onboard_time": 1683714153,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 244306,
@@ -1401,6 +1417,14 @@
       "onboard_time": 1683700710,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229541,
+      "num": 229541,
+      "word": "王一博秀场滑冰",
+      "onboard_time": 1683715768,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 225552,
@@ -1515,6 +1539,14 @@
       "category": "幽默,时尚"
     },
     {
+      "raw_hot": 207305,
+      "num": 207305,
+      "word": "冯巩当选中国曲艺家协会主席",
+      "onboard_time": 1683716549,
+      "rank": 33,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 205902,
       "num": 205902,
       "word": "杨紫林更新cp感",
@@ -1579,10 +1611,26 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193685,
+      "num": 193685,
+      "word": "你给我的喜欢",
+      "onboard_time": 1683706711,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192881,
       "num": 192881,
       "word": "迷路大爷误上婚车被拉到40里外婚房",
       "onboard_time": 1683699212,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192818,
+      "num": 192818,
+      "word": "淄博服装店老板免费接客成新副本",
+      "onboard_time": 1683716130,
       "rank": 36,
       "category": "社会新闻"
     },
@@ -1651,6 +1699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 178382,
+      "num": 178382,
+      "word": "少年派还有第3部",
+      "onboard_time": 1683716668,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 177063,
       "num": 177063,
       "word": "黄子韬徐志胜直播小学生吵架",
@@ -1665,6 +1721,14 @@
       "onboard_time": 1683699454,
       "rank": 42,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 175057,
+      "num": 175057,
+      "word": "杨紫雨中撑伞转圈",
+      "onboard_time": 1683714690,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 173079,
@@ -1723,14 +1787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166967,
-      "num": 166967,
-      "word": "你给我的喜欢",
-      "onboard_time": 1683706711,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 166123,
       "num": 197211,
       "word": "专家称巴厘岛死亡女孩应系被害",
@@ -1779,12 +1835,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 150238,
-      "num": 150238,
-      "word": "杨紫雨中撑伞转圈",
-      "onboard_time": 1683714690,
+      "raw_hot": 151462,
+      "num": 151462,
+      "word": "父母心疼女儿制毒辛苦帮忙贩毒",
+      "onboard_time": 1683717145,
       "rank": 47,
-      "category": "艺人"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149691,
