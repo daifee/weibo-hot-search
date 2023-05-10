@@ -1,0 +1,410 @@
+{
+  "runTime": 1683713904039,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2707931,
+        "num": 2707931,
+        "word": "格力称孟羽童已离职",
+        "onboard_time": 1683708511,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1011891,
+        "num": 2215782,
+        "word": "19岁小伙自首偷车被失主安排工作",
+        "onboard_time": 1683710129,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19222,
+        "num": 2199743,
+        "word": "5.8%的背后哪些科目越来越好",
+        "onboard_time": 1683688891,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2194486,
+        "num": 2194486,
+        "word": "庆余年2原班人马",
+        "onboard_time": 1683705332,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 747579,
+        "num": 2005677,
+        "word": "女子官宣结婚被民警提醒赶紧分手",
+        "onboard_time": 1683688050,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1963985,
+        "num": 1963985,
+        "word": "言冰云谁演",
+        "onboard_time": 1683711930,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232181,
+        "num": 1349271,
+        "word": "深圳男子暴雨天救助流浪猫是野生动物",
+        "onboard_time": 1683703114,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1147132,
+        "num": 1147132,
+        "word": "佳能 黄旭熙",
+        "onboard_time": 1683702632,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 947863,
+        "num": 947863,
+        "word": "杨幂 名字的顺序都该为角色让位",
+        "onboard_time": 1683694599,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 653923,
+        "num": 653923,
+        "word": "深圳女副区长一撮白发被指挑染",
+        "onboard_time": 1683696274,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 691430,
+        "num": 648516,
+        "word": "董明珠曾称要将孟羽童培养成第二个自己",
+        "onboard_time": 1683712351,
+        "rank": 10,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 559054,
+        "num": 559054,
+        "word": "黄旭熙改微博名字",
+        "onboard_time": 1683711508,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537206,
+        "num": 537206,
+        "word": "庆余年第二季今日开机",
+        "onboard_time": 1683703413,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 515370,
+        "num": 515370,
+        "word": "男童喉咙长菜花样肿块确诊感染HPV",
+        "onboard_time": 1683690811,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23081,
+        "num": 460000,
+        "word": "怼脸镜头大赏",
+        "onboard_time": 1683712827,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 446010,
+        "num": 446010,
+        "word": "孟羽童称靠别人永远不如靠自己",
+        "onboard_time": 1683699212,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437921,
+        "num": 437921,
+        "word": "黄旭熙正式退团",
+        "onboard_time": 1683699157,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429176,
+        "num": 429176,
+        "word": "李沁林婉儿与君再相逢",
+        "onboard_time": 1683710610,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381189,
+        "num": 381189,
+        "word": "权志龙王一博今晚要同框",
+        "onboard_time": 1683693158,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 394012,
+        "num": 375713,
+        "word": "庆余年",
+        "onboard_time": 1683704850,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 494322,
+        "num": 375592,
+        "word": "怀孕确实能看清自己的老公",
+        "onboard_time": 1683709229,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 368608,
+        "num": 368608,
+        "word": "白鹿新剧演恶女",
+        "onboard_time": 1683691174,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313702,
+        "num": 313702,
+        "word": "内娱免检帅哥",
+        "onboard_time": 1683709709,
+        "rank": 22,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 312711,
+        "num": 312711,
+        "word": "毕业4年跟老公一起攒了100万",
+        "onboard_time": 1683711093,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 309297,
+        "num": 309297,
+        "word": "男朋友国内登机失联10小时",
+        "onboard_time": 1683704554,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308359,
+        "num": 308359,
+        "word": "山东淄博炒鸡",
+        "onboard_time": 1683709889,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 270016,
+        "num": 270016,
+        "word": "汪峰说从来没有怕过章子怡",
+        "onboard_time": 1683713187,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265194,
+        "num": 265194,
+        "word": "庆余年2官宣海报没有肖战",
+        "onboard_time": 1683708870,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263798,
+        "num": 263798,
+        "word": "被粒子水墨画震撼到了",
+        "onboard_time": 1683712652,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263743,
+        "num": 263743,
+        "word": "很烧钱又戒不掉的爱好",
+        "onboard_time": 1683681929,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 342893,
+        "num": 263737,
+        "word": "男子酒局带女儿炫耀被全桌羡慕",
+        "onboard_time": 1683712592,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262955,
+        "num": 262955,
+        "word": "庆余年2再相逢版海报",
+        "onboard_time": 1683704731,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 863713,
+        "num": 261314,
+        "word": "自曝被郑州大学教授性侵女子仍未报警",
+        "onboard_time": 1683700592,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258243,
+        "num": 258243,
+        "word": "室友的简历被人事单独留下了",
+        "onboard_time": 1683702392,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240057,
+        "num": 240057,
+        "word": "山东学生身高竟然不是全国第一",
+        "onboard_time": 1683702332,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 236534,
+        "num": 236534,
+        "word": "终于等到庆余年2",
+        "onboard_time": 1683707312,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225714,
+        "num": 225714,
+        "word": "小行星",
+        "onboard_time": 1683711328,
+        "rank": 36,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 215615,
+        "num": 215615,
+        "word": "王权霸业",
+        "onboard_time": 1683708391,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214213,
+        "num": 214213,
+        "word": "gidle先行曲MV疑似抄袭",
+        "onboard_time": 1683698673,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211240,
+        "num": 211240,
+        "word": "金钟仁入伍剪寸头",
+        "onboard_time": 1683710730,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198503,
+        "num": 198503,
+        "word": "IU被告发涉嫌剽窃6首歌曲",
+        "onboard_time": 1683686906,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196817,
+        "num": 196817,
+        "word": "特朗普被裁定性侵",
+        "onboard_time": 1683674843,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196078,
+        "num": 196078,
+        "word": "玉骨遥",
+        "onboard_time": 1683702090,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193504,
+        "num": 193504,
+        "word": "人丑真的连细节都是丑的",
+        "onboard_time": 1683706289,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174723,
+        "num": 174723,
+        "word": "徐明浩直播",
+        "onboard_time": 1683707492,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166967,
+        "num": 166967,
+        "word": "你给我的喜欢",
+        "onboard_time": 1683706711,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166707,
+        "num": 166707,
+        "word": "狐妖小红娘",
+        "onboard_time": 1683707970,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164738,
+        "num": 164738,
+        "word": "原来过生日也需要搭子",
+        "onboard_time": 1683709229,
+        "rank": 47,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 133166,
+        "num": 154136,
+        "word": "KPL喵门永存",
+        "onboard_time": 1683712652,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 88018,
+        "num": 148723,
+        "word": "星穹铁道首个动画短片",
+        "onboard_time": 1683709709,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#天舟六号已准备就绪#"
+    }
+  }
+}

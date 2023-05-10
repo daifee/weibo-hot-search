@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683711234078,
+  "endTime": 1683713904039,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -288,6 +288,14 @@
       "word": "白鹿新剧演恶女",
       "onboard_time": 1683691174,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1963985,
+      "num": 1963985,
+      "word": "言冰云谁演",
+      "onboard_time": 1683711930,
+      "rank": 5,
       "category": "影视"
     },
     {
@@ -923,6 +931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1011891,
+      "num": 2215782,
+      "word": "19岁小伙自首偷车被失主安排工作",
+      "onboard_time": 1683710129,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1011041,
       "num": 1011041,
       "word": "庆余年第二季今日开机",
@@ -1307,6 +1323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 691430,
+      "num": 648516,
+      "word": "董明珠曾称要将孟羽童培养成第二个自己",
+      "onboard_time": 1683712351,
+      "rank": 10,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 690024,
       "num": 690024,
       "word": "一念关山",
@@ -1364,7 +1388,7 @@
     },
     {
       "raw_hot": 663908,
-      "num": 300782,
+      "num": 375592,
       "word": "怀孕确实能看清自己的老公",
       "onboard_time": 1683709229,
       "rank": 20,
@@ -1625,6 +1649,14 @@
       "onboard_time": 1683680789,
       "rank": 16,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 559054,
+      "num": 559054,
+      "word": "黄旭熙改微博名字",
+      "onboard_time": 1683711508,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 558909,
@@ -2067,6 +2099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429176,
+      "num": 429176,
+      "word": "李沁林婉儿与君再相逢",
+      "onboard_time": 1683710610,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 428345,
       "num": 428345,
       "word": "事业编和公务员哪个更难考",
@@ -2188,7 +2228,7 @@
     },
     {
       "raw_hot": 411302,
-      "num": 300211,
+      "num": 309297,
       "word": "男朋友国内登机失联10小时",
       "onboard_time": 1683704554,
       "rank": 21,
@@ -2787,6 +2827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342893,
+      "num": 263737,
+      "word": "男子酒局带女儿炫耀被全桌羡慕",
+      "onboard_time": 1683712592,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342643,
       "num": 301296,
       "word": "接我担解约",
@@ -3035,6 +3083,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313702,
+      "num": 313702,
+      "word": "内娱免检帅哥",
+      "onboard_time": 1683709709,
+      "rank": 44,
+      "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 312711,
+      "num": 312711,
+      "word": "毕业4年跟老公一起攒了100万",
+      "onboard_time": 1683711093,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 311516,
       "num": 260615,
       "word": "杨幂也看漫长的季节",
@@ -3057,6 +3121,14 @@
       "onboard_time": 1683455253,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308359,
+      "num": 308359,
+      "word": "山东淄博炒鸡",
+      "onboard_time": 1683709889,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 307030,
@@ -3147,14 +3219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 301875,
-      "num": 301875,
-      "word": "山东淄博炒鸡",
-      "onboard_time": 1683709889,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 301788,
       "num": 301788,
       "word": "守村人见新娘穿破洞裤送来干净裤子",
@@ -3241,14 +3305,6 @@
       "onboard_time": 1683521852,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 297091,
-      "num": 297091,
-      "word": "内娱免检帅哥",
-      "onboard_time": 1683709709,
-      "rank": 44,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 296570,
@@ -3360,14 +3416,6 @@
       "word": "这是芍药界的天花板吧",
       "onboard_time": 1683676046,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 288214,
-      "num": 288214,
-      "word": "19岁小伙自首偷车被失主安排工作",
-      "onboard_time": 1683710129,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -3571,6 +3619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270016,
+      "num": 270016,
+      "word": "汪峰说从来没有怕过章子怡",
+      "onboard_time": 1683713187,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269801,
       "num": 269801,
       "word": "宋丹丹问孟子义喜欢谁",
@@ -3651,12 +3707,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 265194,
+      "num": 265194,
+      "word": "庆余年2官宣海报没有肖战",
+      "onboard_time": 1683708870,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 264742,
       "num": 264742,
       "word": "哈尔滨承重墙",
       "onboard_time": 1683611067,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263798,
+      "num": 263798,
+      "word": "被粒子水墨画震撼到了",
+      "onboard_time": 1683712652,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 260972,
@@ -4139,6 +4211,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 232181,
+      "num": 1349271,
+      "word": "深圳男子暴雨天救助流浪猫是野生动物",
+      "onboard_time": 1683703114,
+      "rank": 34,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 231788,
       "num": 231788,
       "word": "李莎旻子教美依礼芽说长沙话",
@@ -4233,6 +4313,14 @@
       "onboard_time": 1683641009,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 225714,
+      "num": 225714,
+      "word": "小行星",
+      "onboard_time": 1683711328,
+      "rank": 36,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 225552,
@@ -4451,6 +4539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 211240,
+      "num": 211240,
+      "word": "金钟仁入伍剪寸头",
+      "onboard_time": 1683710730,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211056,
       "num": 211056,
       "word": "山西吕梁山革命博物馆发闭馆公告",
@@ -4561,14 +4657,6 @@
       "onboard_time": 1683540331,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 205457,
-      "num": 205457,
-      "word": "深圳男子暴雨天救助流浪猫是野生动物",
-      "onboard_time": 1683703114,
-      "rank": 34,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 205035,
@@ -4779,14 +4867,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 194736,
-      "num": 194736,
-      "word": "金钟仁入伍剪寸头",
-      "onboard_time": 1683710730,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 194457,
       "num": 184124,
       "word": "王一栩说刘诗诗是我们的天选淮竹",
@@ -4800,14 +4880,6 @@
       "word": "长月烬明",
       "onboard_time": 1683530256,
       "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 193496,
-      "num": 193496,
-      "word": "庆余年2官宣海报没有肖战",
-      "onboard_time": 1683708870,
-      "rank": 37,
       "category": "影视"
     },
     {
@@ -4857,14 +4929,6 @@
       "onboard_time": 1683603087,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 191878,
-      "num": 191878,
-      "word": "李沁林婉儿与君再相逢",
-      "onboard_time": 1683710610,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 190988,
@@ -5195,14 +5259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172318,
-      "num": 172318,
-      "word": "毕业4年跟老公一起攒了100万",
-      "onboard_time": 1683711093,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 171997,
       "num": 171997,
       "word": "法老ghost face",
@@ -5260,7 +5316,7 @@
     },
     {
       "raw_hot": 167774,
-      "num": 2194610,
+      "num": 2199743,
       "word": "5.8%的背后哪些科目越来越好",
       "onboard_time": 1683688891,
       "rank": 2,
@@ -5281,6 +5337,14 @@
       "onboard_time": 1683530916,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166967,
+      "num": 166967,
+      "word": "你给我的喜欢",
+      "onboard_time": 1683706711,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 166903,
@@ -5345,14 +5409,6 @@
       "onboard_time": 1683518189,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 162536,
-      "num": 158827,
-      "word": "你给我的喜欢",
-      "onboard_time": 1683706711,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 160748,
@@ -5681,6 +5737,14 @@
       "onboard_time": 1683631709,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 133166,
+      "num": 154136,
+      "word": "KPL喵门永存",
+      "onboard_time": 1683712652,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 133022,
@@ -6027,20 +6091,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88018,
+      "num": 148928,
+      "word": "星穹铁道首个动画短片",
+      "onboard_time": 1683709709,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 86517,
       "num": 86517,
       "word": "白鹿片场唱我结婚了",
       "onboard_time": 1683562945,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 85529,
-      "num": 148928,
-      "word": "星穹铁道首个动画短片",
-      "onboard_time": 1683709709,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 84467,
@@ -6289,6 +6353,14 @@
       "onboard_time": 1683612025,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23081,
+      "num": 460000,
+      "word": "怼脸镜头大赏",
+      "onboard_time": 1683712827,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 10792,
