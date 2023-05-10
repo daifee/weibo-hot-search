@@ -1,6 +1,6 @@
 {
   "startTime": 1683649328764,
-  "endTime": 1683721983366,
+  "endTime": 1683723029290,
   "band_list": [
     {
       "raw_hot": 6333261,
@@ -75,6 +75,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2514292,
+      "num": 2514292,
+      "word": "被曝11年前性侵学生教授临近退休",
+      "onboard_time": 1683719609,
+      "rank": 0,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 2339604,
       "num": 2339604,
       "word": "很烧钱又戒不掉的爱好",
@@ -99,20 +107,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1994822,
-      "num": 1994822,
-      "word": "被曝11年前性侵学生教授临近退休",
-      "onboard_time": 1683719609,
-      "rank": 0,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 1977097,
       "num": 1977097,
       "word": "白鹿新剧演恶女",
       "onboard_time": 1683691174,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1774488,
+      "num": 1774488,
+      "word": "泫雅 武汉音乐节",
+      "onboard_time": 1683720269,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 1742874,
@@ -145,14 +153,6 @@
       "onboard_time": 1683649945,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1602307,
-      "num": 1602307,
-      "word": "泫雅 武汉音乐节",
-      "onboard_time": 1683720269,
-      "rank": 1,
-      "category": "音乐"
     },
     {
       "raw_hot": 1588567,
@@ -219,11 +219,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1105648,
-      "num": 1105648,
+      "raw_hot": 1134928,
+      "num": 1134928,
       "word": "男子酒局带女儿炫耀被全桌羡慕",
       "onboard_time": 1683712592,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1114912,
+      "num": 488595,
+      "word": "全职太太离婚发现丈夫资产过亿",
+      "onboard_time": 1683721650,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1092643,
+      "num": 1092643,
+      "word": "高铁掌掴事件双方均违法",
+      "onboard_time": 1683720752,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -321,14 +337,6 @@
       "onboard_time": 1683675385,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 813743,
-      "num": 813743,
-      "word": "高铁掌掴事件双方均违法",
-      "onboard_time": 1683720752,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 796097,
@@ -668,7 +676,7 @@
     },
     {
       "raw_hot": 472417,
-      "num": 335097,
+      "num": 353000,
       "word": "七小时结束了相恋七年的感情",
       "onboard_time": 1683718169,
       "rank": 40,
@@ -801,6 +809,22 @@
       "onboard_time": 1683685946,
       "rank": 22,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 394971,
+      "num": 394971,
+      "word": "Jennie紫色吊带短裙",
+      "onboard_time": 1683718707,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 394849,
+      "num": 394849,
+      "word": "浙江男篮vs辽宁男篮",
+      "onboard_time": 1683722010,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 393242,
@@ -939,12 +963,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 355412,
-      "num": 334730,
-      "word": "Jennie紫色吊带短裙",
-      "onboard_time": 1683718707,
-      "rank": 21,
-      "category": "作品衍生"
+      "raw_hot": 355379,
+      "num": 355379,
+      "word": "护心是儿童剧吧",
+      "onboard_time": 1683720628,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 354333,
@@ -1003,14 +1027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 333807,
-      "num": 333807,
-      "word": "护心是儿童剧吧",
-      "onboard_time": 1683720628,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 331714,
       "num": 331714,
       "word": "汪曾祺 大学生大都爱吃",
@@ -1033,6 +1049,14 @@
       "onboard_time": 1683693337,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 329663,
+      "num": 329663,
+      "word": "你给我的喜欢大结局",
+      "onboard_time": 1683718169,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 328240,
@@ -1099,6 +1123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 318659,
+      "num": 318659,
+      "word": "张若昀不再是张无继了",
+      "onboard_time": 1683719795,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 315660,
       "num": 239911,
       "word": "中国网评杨幂对角色与番位的态度",
@@ -1152,14 +1184,6 @@
       "word": "杨幂新剧哈尔滨一九四四官宣",
       "onboard_time": 1683695261,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 304682,
-      "num": 304682,
-      "word": "你给我的喜欢大结局",
-      "onboard_time": 1683718169,
-      "rank": 44,
       "category": "影视"
     },
     {
@@ -1323,14 +1347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 271569,
-      "num": 271569,
-      "word": "张若昀不再是张无继了",
-      "onboard_time": 1683719795,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 269630,
       "num": 269630,
       "word": "特朗普表示将上诉",
@@ -1361,14 +1377,6 @@
       "onboard_time": 1683707312,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 265091,
-      "num": 248720,
-      "word": "全职太太离婚发现丈夫资产过亿",
-      "onboard_time": 1683721650,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 263798,
@@ -1468,7 +1476,7 @@
     },
     {
       "raw_hot": 250855,
-      "num": 231118,
+      "num": 232309,
       "word": "身上5种疣可能是HPV感染",
       "onboard_time": 1683715409,
       "rank": 30,
@@ -1579,6 +1587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231856,
+      "num": 231856,
+      "word": "武汉音乐节",
+      "onboard_time": 1683721830,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 229541,
       "num": 229541,
       "word": "王一博秀场滑冰",
@@ -1603,6 +1619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 224493,
+      "num": 224493,
+      "word": "雄安",
+      "onboard_time": 1683721892,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223304,
       "num": 201401,
       "word": "罗云熙说长月烬明虽有憾愿人生圆满",
@@ -1617,6 +1641,14 @@
       "onboard_time": 1683675146,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 220127,
+      "num": 220127,
+      "word": "下拉抽长月烬明戏服",
+      "onboard_time": 1683722971,
+      "rank": 35,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 219996,
@@ -1779,6 +1811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189246,
+      "num": 173759,
+      "word": "赵丽颖直播",
+      "onboard_time": 1683722971,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189096,
       "num": 189096,
       "word": "山西吕梁山革命博物馆明日开馆",
@@ -1931,12 +1971,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164482,
-      "num": 164482,
-      "word": "武汉音乐节",
-      "onboard_time": 1683721830,
-      "rank": 41,
-      "category": "音乐"
+      "raw_hot": 160673,
+      "num": 160673,
+      "word": "美国CPI",
+      "onboard_time": 1683722911,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 156081,
@@ -2100,7 +2140,7 @@
     },
     {
       "raw_hot": 122027,
-      "num": 153385,
+      "num": 154854,
       "word": "预制菜 食品工业化",
       "onboard_time": 1683717449,
       "rank": 48,
@@ -2297,6 +2337,14 @@
       "onboard_time": 1683654674,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59462,
+      "num": 149768,
+      "word": "三井寿 湘北的公主",
+      "onboard_time": 1683722189,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 45054,
