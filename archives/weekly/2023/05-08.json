@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683758105194,
+  "endTime": 1683760642272,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1251,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 810999,
+      "num": 259382,
+      "word": "杨洋同学会全记录视频",
+      "onboard_time": 1683734128,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 803185,
       "num": 803185,
       "word": "女子车位被邻居霸停数月直接焊死",
@@ -1313,14 +1321,6 @@
       "onboard_time": 1683539429,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 761284,
-      "num": 259382,
-      "word": "杨洋同学会全记录视频",
-      "onboard_time": 1683734128,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 759072,
@@ -4387,6 +4387,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 248510,
+      "num": 248510,
+      "word": "7岁女孩三百多天照料唤醒昏迷父亲",
+      "onboard_time": 1683740356,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247920,
       "num": 247920,
       "word": "巴基斯坦前总理被捕",
@@ -4689,6 +4697,14 @@
       "onboard_time": 1683514287,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 229571,
+      "num": 229571,
+      "word": "新娘崴脚中医伴郎现场针灸",
+      "onboard_time": 1683737901,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229541,
@@ -6003,6 +6019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 158164,
+      "num": 158164,
+      "word": "郭麒麟向涵之新剧分手戏",
+      "onboard_time": 1683751750,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 156081,
       "num": 156081,
       "word": "6年级女孩2个月手绘全班毕业照",
@@ -6115,14 +6139,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 149667,
-      "num": 149667,
-      "word": "7岁女孩三百多天照料唤醒昏迷父亲",
-      "onboard_time": 1683740356,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149173,
       "num": 149173,
       "word": "护心OST阵容",
@@ -6161,6 +6177,14 @@
       "onboard_time": 1683634408,
       "rank": 45,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 145693,
+      "num": 145693,
+      "word": "高三老师们走廊摆摊式辅导为学生答疑",
+      "onboard_time": 1683740177,
+      "rank": 38,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 145479,
@@ -6475,6 +6499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122615,
+      "num": 79958,
+      "word": "杭州地铁售票机不能用支付宝",
+      "onboard_time": 1683759861,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122579,
       "num": 1406792,
       "word": "这袋自热军粮凝结了沉甸甸的鱼水情",
@@ -6523,28 +6555,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 118046,
-      "num": 118046,
-      "word": "新娘崴脚中医伴郎现场针灸",
-      "onboard_time": 1683737901,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113853,
       "num": 113853,
       "word": "陆虎杭州巡演",
       "onboard_time": 1683475650,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 113573,
-      "num": 113573,
-      "word": "郭麒麟向涵之新剧分手戏",
-      "onboard_time": 1683751750,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 113508,
@@ -6601,6 +6617,14 @@
       "onboard_time": 1683657613,
       "rank": 44,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 109062,
+      "num": 109062,
+      "word": "孟羽童曾称董明珠不可复制",
+      "onboard_time": 1683759077,
+      "rank": 23,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 108264,
@@ -6787,6 +6811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83101,
+      "num": 83101,
+      "word": "AC米兰vs国际米兰",
+      "onboard_time": 1683741554,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82767,
       "num": 82767,
       "word": "劳伦斯世界体育奖",
@@ -6867,12 +6899,28 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 73095,
+      "num": 73095,
+      "word": "男子强拉妻子退几十元衣服",
+      "onboard_time": 1683760403,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72746,
       "num": 72746,
       "word": "张云雷希望大家支持传统艺术",
       "onboard_time": 1683587541,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72327,
+      "num": 72327,
+      "word": "列车杀人案受害者家属发文悼念",
+      "onboard_time": 1683750192,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 68288,
@@ -6907,6 +6955,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 66746,
+      "num": 66746,
+      "word": "哈尔滨一九四四剧情简介",
+      "onboard_time": 1683754632,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 65068,
+      "num": 65068,
+      "word": "女童突发惊厥高铁员工携手救助",
+      "onboard_time": 1683758416,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64742,
       "num": 127684,
       "word": "地表最强COSPLAY阴阳师",
@@ -6939,14 +7003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 58760,
-      "num": 58760,
-      "word": "高三老师们走廊摆摊式辅导为学生答疑",
-      "onboard_time": 1683740177,
-      "rank": 38,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 51815,
       "num": 51815,
       "word": "王源说等待广州见",
@@ -6971,6 +7027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 44301,
+      "num": 56261,
+      "word": "淄博市烧烤协会声明",
+      "onboard_time": 1683760522,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43683,
       "num": 47764,
       "word": "日本人到底在学些什么",
@@ -6979,28 +7043,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 43641,
-      "num": 43641,
-      "word": "AC米兰vs国际米兰",
-      "onboard_time": 1683741554,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 42592,
       "num": 1419398,
       "word": "天舟六号船箭组合体垂直转运美图",
       "onboard_time": 1683555871,
       "rank": 2,
       "category": "科技"
-    },
-    {
-      "raw_hot": 40501,
-      "num": 39969,
-      "word": "哈尔滨一九四四剧情简介",
-      "onboard_time": 1683754632,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 39350,
@@ -7027,14 +7075,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 37523,
-      "num": 37523,
-      "word": "列车杀人案受害者家属发文悼念",
-      "onboard_time": 1683750192,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35499,
       "num": 35499,
       "word": "张云雷听云见心演唱会官宣重启",
@@ -7049,6 +7089,14 @@
       "onboard_time": 1683498256,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 33407,
+      "num": 55335,
+      "word": "王国之泪",
+      "onboard_time": 1683760460,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 31362,

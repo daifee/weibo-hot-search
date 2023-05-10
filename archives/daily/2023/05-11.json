@@ -1,6 +1,6 @@
 {
   "startTime": 1683736826788,
-  "endTime": 1683758105194,
+  "endTime": 1683760642272,
   "band_list": [
     {
       "raw_hot": 1532446,
@@ -27,7 +27,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 761284,
+      "raw_hot": 810999,
       "num": 259382,
       "word": "杨洋同学会全记录视频",
       "onboard_time": 1683734128,
@@ -91,11 +91,27 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 265339,
-      "num": 265339,
+      "raw_hot": 294265,
+      "num": 294265,
+      "word": "男子酒局带女儿炫耀被全桌羡慕",
+      "onboard_time": 1683712592,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275446,
+      "num": 275446,
       "word": "江阴枪击案两嫌犯已身亡",
       "onboard_time": 1683727593,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248510,
+      "num": 248510,
+      "word": "7岁女孩三百多天照料唤醒昏迷父亲",
+      "onboard_time": 1683740356,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -115,11 +131,11 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 229586,
-      "num": 229586,
-      "word": "男子酒局带女儿炫耀被全桌羡慕",
-      "onboard_time": 1683712592,
-      "rank": 13,
+      "raw_hot": 229571,
+      "num": 229571,
+      "word": "新娘崴脚中医伴郎现场针灸",
+      "onboard_time": 1683737901,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -163,7 +179,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 168467,
+      "raw_hot": 169861,
       "num": 162080,
       "word": "买房买到一半就拆迁了",
       "onboard_time": 1683724951,
@@ -177,6 +193,14 @@
       "onboard_time": 1683730411,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158164,
+      "num": 158164,
+      "word": "郭麒麟向涵之新剧分手戏",
+      "onboard_time": 1683751750,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 157584,
@@ -203,20 +227,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149667,
-      "num": 149667,
-      "word": "7岁女孩三百多天照料唤醒昏迷父亲",
-      "onboard_time": 1683740356,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149436,
       "num": 149436,
       "word": "Jennie紫色吊带短裙",
       "onboard_time": 1683718707,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 145693,
+      "num": 145693,
+      "word": "高三老师们走廊摆摊式辅导为学生答疑",
+      "onboard_time": 1683740177,
+      "rank": 38,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 144312,
@@ -233,6 +257,14 @@
       "onboard_time": 1683731373,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 135428,
+      "num": 135428,
+      "word": "董明珠曾称要将孟羽童培养成第二个自己",
+      "onboard_time": 1683712351,
+      "rank": 33,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 131896,
@@ -259,6 +291,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 128170,
+      "num": 128170,
+      "word": "徐克和肖战能拍好射雕英雄传吗",
+      "onboard_time": 1683725794,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 122615,
+      "num": 79958,
+      "word": "杭州地铁售票机不能用支付宝",
+      "onboard_time": 1683759861,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120384,
       "num": 120384,
       "word": "狐妖小红娘竹业篇剧版vs原版",
@@ -273,22 +321,6 @@
       "onboard_time": 1683711508,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 118821,
-      "num": 118821,
-      "word": "董明珠曾称要将孟羽童培养成第二个自己",
-      "onboard_time": 1683712351,
-      "rank": 33,
-      "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 118046,
-      "num": 118046,
-      "word": "新娘崴脚中医伴郎现场针灸",
-      "onboard_time": 1683737901,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116732,
@@ -315,28 +347,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 113573,
-      "num": 113573,
-      "word": "郭麒麟向涵之新剧分手戏",
-      "onboard_time": 1683751750,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 112383,
-      "num": 94217,
-      "word": "徐克和肖战能拍好射雕英雄传吗",
-      "onboard_time": 1683725794,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 109810,
       "num": 109810,
       "word": "赵继伟真的牛",
       "onboard_time": 1683724290,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109062,
+      "num": 109062,
+      "word": "孟羽童曾称董明珠不可复制",
+      "onboard_time": 1683759077,
+      "rank": 23,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 108306,
@@ -419,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83101,
+      "num": 83101,
+      "word": "AC米兰vs国际米兰",
+      "onboard_time": 1683741554,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81089,
       "num": 81089,
       "word": "怀孕确实能看清自己的老公",
@@ -427,12 +459,36 @@
       "category": "情感"
     },
     {
-      "raw_hot": 58760,
-      "num": 58760,
-      "word": "高三老师们走廊摆摊式辅导为学生答疑",
-      "onboard_time": 1683740177,
-      "rank": 38,
-      "category": "教育,社会新闻"
+      "raw_hot": 73095,
+      "num": 73095,
+      "word": "男子强拉妻子退几十元衣服",
+      "onboard_time": 1683760403,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72327,
+      "num": 72327,
+      "word": "列车杀人案受害者家属发文悼念",
+      "onboard_time": 1683750192,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66746,
+      "num": 66746,
+      "word": "哈尔滨一九四四剧情简介",
+      "onboard_time": 1683754632,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 65068,
+      "num": 65068,
+      "word": "女童突发惊厥高铁员工携手救助",
+      "onboard_time": 1683758416,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51815,
@@ -443,7 +499,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 50020,
+      "raw_hot": 50206,
       "num": 600506,
       "word": "属于中国人的宇宙级浪漫",
       "onboard_time": 1683730232,
@@ -459,28 +515,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 44301,
+      "num": 56261,
+      "word": "淄博市烧烤协会声明",
+      "onboard_time": 1683760522,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43683,
       "num": 47764,
       "word": "日本人到底在学些什么",
       "onboard_time": 1683738918,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 43641,
-      "num": 43641,
-      "word": "AC米兰vs国际米兰",
-      "onboard_time": 1683741554,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 40501,
-      "num": 39969,
-      "word": "哈尔滨一九四四剧情简介",
-      "onboard_time": 1683754632,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 39350,
@@ -499,12 +547,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 37523,
-      "num": 37523,
-      "word": "列车杀人案受害者家属发文悼念",
-      "onboard_time": 1683750192,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 33407,
+      "num": 55335,
+      "word": "王国之泪",
+      "onboard_time": 1683760460,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 28921,
