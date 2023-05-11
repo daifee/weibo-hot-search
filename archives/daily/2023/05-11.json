@@ -1,10 +1,10 @@
 {
   "startTime": 1683736826788,
-  "endTime": 1683778792367,
+  "endTime": 1683779602893,
   "band_list": [
     {
-      "raw_hot": 2717674,
-      "num": 2717674,
+      "raw_hot": 2924775,
+      "num": 2924775,
       "word": "B站UP主吐槽浪姐4",
       "onboard_time": 1683775710,
       "rank": 31,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1847860,
-      "num": 635167,
+      "num": 848798,
       "word": "辛巴 榴莲",
       "onboard_time": 1683769228,
       "rank": 14,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1566990,
-      "num": 608074,
+      "num": 837962,
       "word": "张子萱终于不给陈赫打码了",
       "onboard_time": 1683731492,
       "rank": 10,
@@ -75,20 +75,28 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 1236281,
-      "num": 1236281,
+      "raw_hot": 1302004,
+      "num": 1302004,
       "word": "巴厘岛命案已形成初步报告",
       "onboard_time": 1683774867,
       "rank": 38,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1130417,
-      "num": 1130417,
+      "raw_hot": 1174596,
+      "num": 1174596,
       "word": "孟羽童曾连续工作21小时",
       "onboard_time": 1683765510,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1138226,
+      "num": 1138226,
+      "word": "翟潇闻 狐妖小红娘竹业篇男二",
+      "onboard_time": 1683776788,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 1123153,
@@ -115,14 +123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1021385,
-      "num": 1021385,
-      "word": "翟潇闻 狐妖小红娘竹业篇男二",
-      "onboard_time": 1683776788,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 938230,
       "num": 938230,
       "word": "男子晒术后取出颅骨碎片薄如甲片",
@@ -137,6 +137,14 @@
       "onboard_time": 1683734787,
       "rank": 3,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 905910,
+      "num": 905910,
+      "word": "浓眉被打",
+      "onboard_time": 1683779252,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 848368,
@@ -163,6 +171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 699274,
+      "num": 699274,
+      "word": "勇士vs湖人",
+      "onboard_time": 1683768868,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 685203,
       "num": 685203,
       "word": "广州地铁",
@@ -180,11 +196,19 @@
     },
     {
       "raw_hot": 609342,
-      "num": 277449,
+      "num": 330816,
       "word": "七小时结束了相恋七年的感情",
       "onboard_time": 1683718169,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 593872,
+      "num": 333530,
+      "word": "普通人结婚不建议花的钱",
+      "onboard_time": 1683776368,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 588874,
@@ -201,22 +225,6 @@
       "onboard_time": 1683773909,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 569677,
-      "num": 256473,
-      "word": "普通人结婚不建议花的钱",
-      "onboard_time": 1683776368,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 514746,
-      "num": 514746,
-      "word": "勇士vs湖人",
-      "onboard_time": 1683768868,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 490441,
@@ -268,19 +276,27 @@
     },
     {
       "raw_hot": 411172,
-      "num": 262119,
+      "num": 322338,
       "word": "梦中的那片海",
       "onboard_time": 1683773249,
       "rank": 21,
       "category": "影视"
     },
     {
-      "raw_hot": 380088,
-      "num": 245716,
+      "raw_hot": 405363,
+      "num": 327736,
       "word": "想给男友妈妈买束花却吵架了",
       "onboard_time": 1683776249,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 365822,
+      "num": 365822,
+      "word": "张波叶诚尘均系主犯",
+      "onboard_time": 1683774808,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357554,
@@ -291,20 +307,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 354082,
-      "num": 354082,
-      "word": "张波叶诚尘均系主犯",
-      "onboard_time": 1683774808,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 353508,
       "num": 273663,
       "word": "后浪官宣定档",
       "onboard_time": 1683771028,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 341924,
+      "num": 341924,
+      "word": "库里压哨三分",
+      "onboard_time": 1683778289,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 336949,
@@ -376,6 +392,14 @@
       "word": "未定事件簿",
       "onboard_time": 1683775228,
       "rank": 23,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 294655,
+      "num": 294655,
+      "word": "光与夜之恋",
+      "onboard_time": 1683779252,
+      "rank": 24,
       "category": "游戏"
     },
     {
@@ -475,20 +499,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243613,
+      "num": 243613,
+      "word": "动作导演回应刘诗诗替身争议",
+      "onboard_time": 1683776668,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 237881,
       "num": 237881,
       "word": "我的论文致谢有你的名字",
       "onboard_time": 1683737481,
       "rank": 4,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 235478,
-      "num": 235478,
-      "word": "库里压哨三分",
-      "onboard_time": 1683778289,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 234760,
@@ -547,19 +571,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 212292,
+      "num": 212292,
+      "word": "全资进组豆瓣开分7.1",
+      "onboard_time": 1683777627,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211847,
       "num": 211847,
       "word": "后浪",
       "onboard_time": 1683770908,
       "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 211191,
-      "num": 211191,
-      "word": "动作导演回应刘诗诗替身争议",
-      "onboard_time": 1683776668,
-      "rank": 29,
       "category": "影视"
     },
     {
@@ -723,14 +747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153043,
-      "num": 153043,
-      "word": "全资进组豆瓣开分7.1",
-      "onboard_time": 1683777627,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 152697,
       "num": 152697,
       "word": "高三老师们走廊摆摊式辅导为学生答疑",
@@ -753,6 +769,14 @@
       "onboard_time": 1683777686,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 149557,
+      "num": 149557,
+      "word": "江豚妈妈顶托幼崽长江学游泳",
+      "onboard_time": 1683778831,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149436,
@@ -824,6 +848,14 @@
       "word": "大哥用三轮车拖书去农村摆摊12年",
       "onboard_time": 1683775228,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132654,
+      "num": 132654,
+      "word": "吴谢宇案二审恢复审理",
+      "onboard_time": 1683779069,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1067,6 +1099,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 47716,
+      "num": 152728,
+      "word": "首个中国航天保障用品诞生",
+      "onboard_time": 1683777627,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46325,
       "num": 48816,
       "word": "just chill out",
@@ -1097,14 +1137,6 @@
       "onboard_time": 1683735386,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 38327,
-      "num": 150780,
-      "word": "首个中国航天保障用品诞生",
-      "onboard_time": 1683777627,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28921,

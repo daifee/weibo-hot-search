@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683778792367,
+  "endTime": 1683779602893,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -75,20 +75,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2924775,
+      "num": 2924775,
+      "word": "B站UP主吐槽浪姐4",
+      "onboard_time": 1683775710,
+      "rank": 31,
+      "category": "综艺,网红"
+    },
+    {
       "raw_hot": 2752096,
       "num": 2752096,
       "word": "格力称孟羽童已离职",
       "onboard_time": 1683708511,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2717674,
-      "num": 2717674,
-      "word": "B站UP主吐槽浪姐4",
-      "onboard_time": 1683775710,
-      "rank": 31,
-      "category": "综艺,网红"
     },
     {
       "raw_hot": 2701709,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 2519414,
-      "num": 608074,
+      "num": 837962,
       "word": "张子萱终于不给陈赫打码了",
       "onboard_time": 1683731492,
       "rank": 10,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 1847860,
-      "num": 635167,
+      "num": 848798,
       "word": "辛巴 榴莲",
       "onboard_time": 1683769228,
       "rank": 14,
@@ -747,6 +747,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 1302004,
+      "num": 1302004,
+      "word": "巴厘岛命案已形成初步报告",
+      "onboard_time": 1683774867,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1301581,
       "num": 1301581,
       "word": "长风渡 真情侣",
@@ -835,14 +843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1236281,
-      "num": 1236281,
-      "word": "巴厘岛命案已形成初步报告",
-      "onboard_time": 1683774867,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1226305,
       "num": 1215364,
       "word": "比亚迪本月离职名额已满",
@@ -915,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1174596,
+      "num": 1174596,
+      "word": "孟羽童曾连续工作21小时",
+      "onboard_time": 1683765510,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1174154,
       "num": 1174154,
       "word": "马嘉祺宋亚轩缓考",
@@ -947,19 +955,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1138226,
+      "num": 1138226,
+      "word": "翟潇闻 狐妖小红娘竹业篇男二",
+      "onboard_time": 1683776788,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1134928,
       "num": 1134928,
       "word": "男子酒局带女儿炫耀被全桌羡慕",
       "onboard_time": 1683712592,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1130417,
-      "num": 1130417,
-      "word": "孟羽童曾连续工作21小时",
-      "onboard_time": 1683765510,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -1081,14 +1089,6 @@
       "onboard_time": 1683590606,
       "rank": 6,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 1021385,
-      "num": 1021385,
-      "word": "翟潇闻 狐妖小红娘竹业篇男二",
-      "onboard_time": 1683776788,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 1020209,
@@ -1257,6 +1257,14 @@
       "onboard_time": 1683597988,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 905910,
+      "num": 905910,
+      "word": "浓眉被打",
+      "onboard_time": 1683779252,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 904970,
@@ -1547,6 +1555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 699274,
+      "num": 699274,
+      "word": "勇士vs湖人",
+      "onboard_time": 1683593368,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 691733,
       "num": 691733,
       "word": "最适合谈恋爱的星座",
@@ -1835,6 +1851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 593872,
+      "num": 333530,
+      "word": "普通人结婚不建议花的钱",
+      "onboard_time": 1683776368,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 592694,
       "num": 538946,
       "word": "朴宰范演出要求女士化妆",
@@ -1947,14 +1971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 569677,
-      "num": 256473,
-      "word": "普通人结婚不建议花的钱",
-      "onboard_time": 1683776368,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 569102,
       "num": 569102,
       "word": "山东学生身高竟然不是全国第一",
@@ -1969,14 +1985,6 @@
       "onboard_time": 1683680789,
       "rank": 16,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 558909,
-      "num": 558909,
-      "word": "勇士vs湖人",
-      "onboard_time": 1683593368,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 555855,
@@ -2620,7 +2628,7 @@
     },
     {
       "raw_hot": 411172,
-      "num": 262119,
+      "num": 322338,
       "word": "梦中的那片海",
       "onboard_time": 1683773249,
       "rank": 21,
@@ -2673,6 +2681,14 @@
       "onboard_time": 1683616946,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 405363,
+      "num": 327736,
+      "word": "想给男友妈妈买束花却吵架了",
+      "onboard_time": 1683776249,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 402558,
@@ -2835,14 +2851,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 380088,
-      "num": 245716,
-      "word": "想给男友妈妈买束花却吵架了",
-      "onboard_time": 1683776249,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 379384,
       "num": 379384,
       "word": "美依礼芽想和周深合作",
@@ -3001,6 +3009,14 @@
       "onboard_time": 1683543810,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 365822,
+      "num": 365822,
+      "word": "张波叶诚尘均系主犯",
+      "onboard_time": 1683774808,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 362527,
@@ -3211,14 +3227,6 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 354082,
-      "num": 354082,
-      "word": "张波叶诚尘均系主犯",
-      "onboard_time": 1683774808,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 353508,
       "num": 273663,
       "word": "后浪官宣定档",
@@ -3337,6 +3345,14 @@
       "onboard_time": 1683534632,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 341924,
+      "num": 341924,
+      "word": "库里压哨三分",
+      "onboard_time": 1683778289,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 341863,
@@ -3913,6 +3929,14 @@
       "onboard_time": 1683502884,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 294655,
+      "num": 294655,
+      "word": "光与夜之恋",
+      "onboard_time": 1683779252,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 294434,
@@ -4811,6 +4835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243613,
+      "num": 243613,
+      "word": "动作导演回应刘诗诗替身争议",
+      "onboard_time": 1683776668,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 242610,
       "num": 242610,
       "word": "咽喉炎",
@@ -4905,14 +4937,6 @@
       "onboard_time": 1683535172,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235478,
-      "num": 235478,
-      "word": "库里压哨三分",
-      "onboard_time": 1683778289,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 235103,
@@ -5387,6 +5411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212292,
+      "num": 212292,
+      "word": "全资进组豆瓣开分7.1",
+      "onboard_time": 1683777627,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211847,
       "num": 211847,
       "word": "后浪",
@@ -5401,14 +5433,6 @@
       "onboard_time": 1683559052,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 211191,
-      "num": 211191,
-      "word": "动作导演回应刘诗诗替身争议",
-      "onboard_time": 1683776668,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 211056,
@@ -6555,14 +6579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153043,
-      "num": 153043,
-      "word": "全资进组豆瓣开分7.1",
-      "onboard_time": 1683777627,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 152723,
       "num": 152723,
       "word": "你给我的喜欢17集",
@@ -6649,6 +6665,14 @@
       "onboard_time": 1683681152,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149557,
+      "num": 149557,
+      "word": "江豚妈妈顶托幼崽长江学游泳",
+      "onboard_time": 1683778831,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149173,
@@ -6936,6 +6960,14 @@
       "word": "警号055308封存",
       "onboard_time": 1683562766,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132654,
+      "num": 132654,
+      "word": "吴谢宇案二审恢复审理",
+      "onboard_time": 1683779069,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -7555,6 +7587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 47716,
+      "num": 152728,
+      "word": "首个中国航天保障用品诞生",
+      "onboard_time": 1683777627,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46325,
       "num": 48816,
       "word": "just chill out",
@@ -7601,14 +7641,6 @@
       "onboard_time": 1683735386,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 38327,
-      "num": 150780,
-      "word": "首个中国航天保障用品诞生",
-      "onboard_time": 1683777627,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38166,
