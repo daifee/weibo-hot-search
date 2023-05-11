@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683768167390,
+  "endTime": 1683769569545,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -355,20 +355,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1865036,
+      "num": 1865036,
+      "word": "孟羽童",
+      "onboard_time": 1683763770,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1863741,
       "num": 1202575,
       "word": "谁抢到了五月天门票",
       "onboard_time": 1683602366,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1790527,
-      "num": 1790527,
-      "word": "孟羽童",
-      "onboard_time": 1683763770,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1789369,
@@ -915,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1123153,
+      "num": 1123153,
+      "word": "重庆姐弟坠亡案二审宣判",
+      "onboard_time": 1683767015,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1104845,
       "num": 1104845,
       "word": "腾讯给杨紫的定位",
@@ -1291,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 805391,
+      "num": 805391,
+      "word": "孟羽童曾连续工作21小时",
+      "onboard_time": 1683765510,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 803185,
       "num": 803185,
       "word": "女子车位被邻居霸停数月直接焊死",
@@ -1624,14 +1640,6 @@
       "word": "生父再次离婚女儿选择和继母生活",
       "onboard_time": 1683465393,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 625906,
-      "num": 625906,
-      "word": "重庆姐弟坠亡案二审宣判",
-      "onboard_time": 1683767015,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -2000,14 +2008,6 @@
       "word": "温州一男子用小刀割断看门猫尾巴",
       "onboard_time": 1683644792,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 521327,
-      "num": 242002,
-      "word": "孟羽童曾连续工作21小时",
-      "onboard_time": 1683765510,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -2499,6 +2499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 415169,
+      "num": 415169,
+      "word": "再也不敢吃铜锅火锅了",
+      "onboard_time": 1683768626,
+      "rank": 12,
+      "category": "美食,情感"
+    },
+    {
       "raw_hot": 413853,
       "num": 413853,
       "word": "约基奇 太阳老板",
@@ -2729,6 +2737,14 @@
       "onboard_time": 1683688292,
       "rank": 44,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 379606,
+      "num": 379606,
+      "word": "辛巴 榴莲",
+      "onboard_time": 1683769228,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 379384,
@@ -3020,7 +3036,7 @@
     },
     {
       "raw_hot": 357554,
-      "num": 238400,
+      "num": 272754,
       "word": "为什么35岁是中年的一道坎",
       "onboard_time": 1683764728,
       "rank": 22,
@@ -3268,7 +3284,7 @@
     },
     {
       "raw_hot": 336949,
-      "num": 235049,
+      "num": 275959,
       "word": "山西一地偷排不明液体致3人死亡",
       "onboard_time": 1683763467,
       "rank": 23,
@@ -3900,7 +3916,7 @@
     },
     {
       "raw_hot": 284997,
-      "num": 227129,
+      "num": 228451,
       "word": "男子强拉妻子退几十元衣服",
       "onboard_time": 1683760403,
       "rank": 34,
@@ -3944,6 +3960,14 @@
       "word": "加拿大",
       "onboard_time": 1683613767,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282181,
+      "num": 282181,
+      "word": "被75岁学生写给00后老师的信戳到了",
+      "onboard_time": 1683767968,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -4132,7 +4156,7 @@
     },
     {
       "raw_hot": 268701,
-      "num": 221582,
+      "num": 225210,
       "word": "奔跑吧导演说邀请范丞丞是因为合适",
       "onboard_time": 1683764309,
       "rank": 25,
@@ -4931,12 +4955,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224047,
+      "num": 224047,
+      "word": "爷爷奶奶辈的名字有多令人惊艳",
+      "onboard_time": 1683768028,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 223856,
       "num": 223856,
       "word": "MSI",
       "onboard_time": 1683724290,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 221376,
+      "num": 221376,
+      "word": "NBA",
+      "onboard_time": 1683768329,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 220564,
@@ -5395,14 +5435,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 200101,
-      "num": 200101,
-      "word": "被75岁学生写给00后老师的信戳到了",
-      "onboard_time": 1683767968,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199987,
       "num": 199987,
       "word": "天舟六号",
@@ -5529,6 +5561,14 @@
       "onboard_time": 1683605428,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194753,
+      "num": 194753,
+      "word": "重庆姐弟坠亡案",
+      "onboard_time": 1683768927,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194739,
@@ -5681,6 +5721,14 @@
       "onboard_time": 1683538291,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189111,
+      "num": 189111,
+      "word": "最好的朋友没来参加我的婚礼",
+      "onboard_time": 1683768626,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 189096,
@@ -6219,20 +6267,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 158554,
-      "num": 158554,
-      "word": "爷爷奶奶辈的名字有多令人惊艳",
-      "onboard_time": 1683768028,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 156081,
       "num": 156081,
       "word": "6年级女孩2个月手绘全班毕业照",
       "onboard_time": 1683710969,
       "rank": 45,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 155950,
+      "num": 155950,
+      "word": "6岁男童被浪卷走河南小伙跳水库救人",
+      "onboard_time": 1683764912,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155747,
@@ -6411,14 +6459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144986,
-      "num": 144986,
-      "word": "6岁男童被浪卷走河南小伙跳水库救人",
-      "onboard_time": 1683764912,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144312,
       "num": 144312,
       "word": "seventeen将推出官方表情包",
@@ -6475,12 +6515,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 141198,
+      "num": 141198,
+      "word": "不良人",
+      "onboard_time": 1683769108,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 140582,
       "num": 140582,
       "word": "一个人应该有什么样的爱好",
       "onboard_time": 1683698314,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140574,
+      "num": 140574,
+      "word": "男子地铁里晕倒军校学员暖心救助",
+      "onboard_time": 1683765389,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139742,
@@ -6649,14 +6705,6 @@
       "onboard_time": 1683628530,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 130650,
-      "num": 130650,
-      "word": "男子地铁里晕倒军校学员暖心救助",
-      "onboard_time": 1683765389,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130290,
