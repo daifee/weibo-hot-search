@@ -1,0 +1,410 @@
+{
+  "runTime": 1683786098032,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1685259,
+        "num": 1685259,
+        "word": "弟弟帮离世哥哥通关塞尔达",
+        "onboard_time": 1683780269,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1286204,
+        "num": 1286204,
+        "word": "浓眉被打",
+        "onboard_time": 1683779252,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41722,
+        "num": 1223632,
+        "word": "天舟六号发射升空瞬间",
+        "onboard_time": 1683772468,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1205690,
+        "num": 1205690,
+        "word": "金晨 不想任何声音模糊和影响作品本身",
+        "onboard_time": 1683778109,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1161053,
+        "num": 1161053,
+        "word": "B站UP主吐槽浪姐4",
+        "onboard_time": 1683775710,
+        "rank": 4,
+        "category": "综艺,网红"
+      },
+      {
+        "raw_hot": 1138854,
+        "num": 1138854,
+        "word": "孟羽童回应离职格力",
+        "onboard_time": 1683779671,
+        "rank": 5,
+        "category": "网红,科技"
+      },
+      {
+        "raw_hot": 1105597,
+        "num": 1105597,
+        "word": "那英真的没在说脏话",
+        "onboard_time": 1683782790,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 956763,
+        "num": 956763,
+        "word": "巴厘岛命案已形成初步报告",
+        "onboard_time": 1683774867,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 811565,
+        "num": 811565,
+        "word": "重庆姐弟坠亡案被告人二审死刑",
+        "onboard_time": 1683771387,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 776355,
+        "num": 776355,
+        "word": "张波叶诚尘微信聊天记录",
+        "onboard_time": 1683780692,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2239970,
+        "num": 759534,
+        "word": "刘亦菲露腰了",
+        "onboard_time": 1683783508,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 619142,
+        "num": 619142,
+        "word": "辛巴 榴莲",
+        "onboard_time": 1683769228,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 581275,
+        "num": 581275,
+        "word": "孙俪的背",
+        "onboard_time": 1683784048,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 559398,
+        "num": 559398,
+        "word": "市监局回应辛巴带货致榴莲价格上涨",
+        "onboard_time": 1683780932,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 552532,
+        "num": 552532,
+        "word": "一闪一闪亮星星",
+        "onboard_time": 1683781470,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 499338,
+        "num": 499338,
+        "word": "孟羽童曾连续工作21小时",
+        "onboard_time": 1683765510,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488314,
+        "num": 488314,
+        "word": "张子萱终于不给陈赫打码了",
+        "onboard_time": 1683731492,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388587,
+        "num": 388587,
+        "word": "再也不敢吃铜锅火锅了",
+        "onboard_time": 1683768626,
+        "rank": 17,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 362790,
+        "num": 362790,
+        "word": "金州武术队",
+        "onboard_time": 1683780451,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352397,
+        "num": 352397,
+        "word": "曾可妮拍姐姐拍了10多个G",
+        "onboard_time": 1683771809,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342759,
+        "num": 342759,
+        "word": "蒋雯丽明道转角之恋开分2.9",
+        "onboard_time": 1683784349,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324260,
+        "num": 324260,
+        "word": "旺旺医院",
+        "onboard_time": 1683785127,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 317052,
+        "num": 317052,
+        "word": "美依礼芽投票",
+        "onboard_time": 1683784048,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273911,
+        "num": 313024,
+        "word": "普通人结婚不建议花的钱",
+        "onboard_time": 1683776368,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235348,
+        "num": 312686,
+        "word": "想给男友妈妈买束花却吵架了",
+        "onboard_time": 1683776249,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312486,
+        "num": 312486,
+        "word": "易烊千玺早期小蜜蜂舞蹈",
+        "onboard_time": 1683783089,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303251,
+        "num": 303251,
+        "word": "王鹤棣说好看的人也要好好演戏",
+        "onboard_time": 1683781827,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280973,
+        "num": 280973,
+        "word": "翟潇闻 狐妖小红娘竹业篇男二",
+        "onboard_time": 1683776788,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230017,
+        "num": 230017,
+        "word": "回村后听过最劲爆的八卦",
+        "onboard_time": 1683781890,
+        "rank": 28,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 227720,
+        "num": 227720,
+        "word": "原神3.7",
+        "onboard_time": 1683781470,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 410562,
+        "num": 227393,
+        "word": "老师意外发现13岁学生已是公司老板",
+        "onboard_time": 1683784949,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 238327,
+        "num": 227190,
+        "word": "奔跑吧明晚来听青春歌会",
+        "onboard_time": 1683783327,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224072,
+        "num": 224072,
+        "word": "全职太太离婚发现丈夫资产过亿",
+        "onboard_time": 1683721650,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207928,
+        "num": 207928,
+        "word": "梦中的那片海",
+        "onboard_time": 1683773249,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204827,
+        "num": 204827,
+        "word": "七小时结束了相恋七年的感情",
+        "onboard_time": 1683718169,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185070,
+        "num": 185070,
+        "word": "男子晒术后取出颅骨碎片薄如甲片",
+        "onboard_time": 1683761183,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184818,
+        "num": 184818,
+        "word": "鲁尼",
+        "onboard_time": 1683780392,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172928,
+        "num": 172928,
+        "word": "周觜朝或将接替肖战出演言冰云",
+        "onboard_time": 1683773909,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163646,
+        "num": 163646,
+        "word": "战至巅峰",
+        "onboard_time": 1683782488,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156790,
+        "num": 156790,
+        "word": "谢娜说我们组互相都不熟",
+        "onboard_time": 1683784768,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153961,
+        "num": 153961,
+        "word": "猫毛过敏的朋友来家里玩猫",
+        "onboard_time": 1683781470,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 150919,
+        "num": 150919,
+        "word": "塞尔达",
+        "onboard_time": 1683782609,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143816,
+        "num": 143816,
+        "word": "不良人",
+        "onboard_time": 1683769108,
+        "rank": 42,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 141159,
+        "num": 141159,
+        "word": "勇士2比3湖人",
+        "onboard_time": 1683779911,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140863,
+        "num": 140863,
+        "word": "身上5种疣可能是HPV感染",
+        "onboard_time": 1683715409,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131831,
+        "num": 131831,
+        "word": "谢娜的手臂肌肉",
+        "onboard_time": 1683782666,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129178,
+        "num": 129178,
+        "word": "江豚妈妈顶托幼崽长江学游泳",
+        "onboard_time": 1683778831,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120454,
+        "num": 120454,
+        "word": "动作导演回应刘诗诗替身争议",
+        "onboard_time": 1683776668,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118408,
+        "num": 118408,
+        "word": "跳水比赛 男生女生向前冲",
+        "onboard_time": 1683783807,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111892,
+        "num": 111892,
+        "word": "种地吧",
+        "onboard_time": 1683783269,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#天舟六号飞天有多重要#"
+    }
+  }
+}

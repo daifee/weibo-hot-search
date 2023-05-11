@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683783205770,
+  "endTime": 1683786098032,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2239970,
+      "num": 759534,
+      "word": "刘亦菲露腰了",
+      "onboard_time": 1683783508,
+      "rank": 10,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 2228363,
       "num": 2228363,
       "word": "全世界都知道赵丽颖被淘汰了",
@@ -457,6 +465,14 @@
       "onboard_time": 1683763770,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1685259,
+      "num": 1685259,
+      "word": "弟弟帮离世哥哥通关塞尔达",
+      "onboard_time": 1683780269,
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 1676861,
@@ -859,14 +875,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1249954,
-      "num": 1249954,
-      "word": "弟弟帮离世哥哥通关塞尔达",
-      "onboard_time": 1683780269,
-      "rank": 11,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 1240652,
       "num": 792083,
       "word": "假如陈都灵没进娱乐圈",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1683767015,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1105597,
+      "num": 1105597,
+      "word": "那英真的没在说脏话",
+      "onboard_time": 1683782790,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 1104845,
@@ -1441,6 +1457,14 @@
       "onboard_time": 1683678453,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 776355,
+      "num": 776355,
+      "word": "张波叶诚尘微信聊天记录",
+      "onboard_time": 1683780692,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 764469,
@@ -1947,6 +1971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 581275,
+      "num": 581275,
+      "word": "孙俪的背",
+      "onboard_time": 1683784048,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 581138,
       "num": 581138,
       "word": "相亲对象很好但我好像不喜欢",
@@ -2003,14 +2035,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 561917,
-      "num": 561917,
-      "word": "张波叶诚尘微信聊天记录",
-      "onboard_time": 1683780692,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 560585,
       "num": 560585,
       "word": "男孩2年后再见好友满脸难以置信",
@@ -2019,12 +2043,28 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 559398,
+      "num": 559398,
+      "word": "市监局回应辛巴带货致榴莲价格上涨",
+      "onboard_time": 1683780932,
+      "rank": 17,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 555855,
       "num": 555855,
       "word": "万柳书院75套房源上架抵押拍卖",
       "onboard_time": 1683520413,
       "rank": 47,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 552532,
+      "num": 552532,
+      "word": "一闪一闪亮星星",
+      "onboard_time": 1683781470,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 548129,
@@ -2177,14 +2217,6 @@
       "onboard_time": 1683625527,
       "rank": 12,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 513852,
-      "num": 513852,
-      "word": "市监局回应辛巴带货致榴莲价格上涨",
-      "onboard_time": 1683780932,
-      "rank": 17,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 512903,
@@ -2675,6 +2707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 410562,
+      "num": 227393,
+      "word": "老师意外发现13岁学生已是公司老板",
+      "onboard_time": 1683784949,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 409305,
       "num": 334315,
       "word": "易烊千玺穿短裤了",
@@ -2721,14 +2761,6 @@
       "onboard_time": 1683616946,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 406812,
-      "num": 406812,
-      "word": "一闪一闪亮星星",
-      "onboard_time": 1683781470,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 405363,
@@ -3395,6 +3427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342759,
+      "num": 342759,
+      "word": "蒋雯丽明道转角之恋开分2.9",
+      "onboard_time": 1683784349,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 342719,
       "num": 318659,
       "word": "张若昀不再是张无继了",
@@ -3627,6 +3667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 324260,
+      "num": 324260,
+      "word": "旺旺医院",
+      "onboard_time": 1683785127,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 323756,
       "num": 323756,
       "word": "巴厘岛",
@@ -3681,6 +3729,14 @@
       "onboard_time": 1683683968,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 317052,
+      "num": 317052,
+      "word": "美依礼芽投票",
+      "onboard_time": 1683784048,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 316911,
@@ -3753,6 +3809,14 @@
       "onboard_time": 1683761905,
       "rank": 16,
       "category": "体育,游戏"
+    },
+    {
+      "raw_hot": 312486,
+      "num": 312486,
+      "word": "易烊千玺早期小蜜蜂舞蹈",
+      "onboard_time": 1683783089,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 311516,
@@ -3857,6 +3921,14 @@
       "onboard_time": 1683609151,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 303251,
+      "num": 303251,
+      "word": "王鹤棣说好看的人也要好好演戏",
+      "onboard_time": 1683781827,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 302670,
@@ -3993,14 +4065,6 @@
       "onboard_time": 1683502884,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 295841,
-      "num": 295841,
-      "word": "那英真的没在说脏话",
-      "onboard_time": 1683782790,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 294655,
@@ -4193,14 +4257,6 @@
       "onboard_time": 1683502526,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284127,
-      "num": 284127,
-      "word": "王鹤棣说好看的人也要好好演戏",
-      "onboard_time": 1683781827,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 283881,
@@ -4963,6 +5019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 238327,
+      "num": 227190,
+      "word": "奔跑吧明晚来听青春歌会",
+      "onboard_time": 1683783327,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237881,
       "num": 237881,
       "word": "我的论文致谢有你的名字",
@@ -5203,6 +5267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227720,
+      "num": 227720,
+      "word": "原神3.7",
+      "onboard_time": 1683781470,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 227558,
       "num": 227558,
       "word": "长相思",
@@ -5425,14 +5497,6 @@
       "onboard_time": 1683686489,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 216069,
-      "num": 216069,
-      "word": "原神3.7",
-      "onboard_time": 1683781470,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 215966,
@@ -6683,6 +6747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 156790,
+      "num": 156790,
+      "word": "谢娜说我们组互相都不熟",
+      "onboard_time": 1683784768,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156081,
       "num": 156081,
       "word": "6年级女孩2个月手绘全班毕业照",
@@ -6833,14 +6905,6 @@
       "onboard_time": 1683681152,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 149266,
-      "num": 149266,
-      "word": "易烊千玺早期小蜜蜂舞蹈",
-      "onboard_time": 1683783089,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 149173,
@@ -7289,6 +7353,14 @@
       "onboard_time": 1683477144,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 118408,
+      "num": 118408,
+      "word": "跳水比赛 男生女生向前冲",
+      "onboard_time": 1683783807,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 118137,
