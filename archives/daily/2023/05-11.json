@@ -1,6 +1,6 @@
 {
   "startTime": 1683736826788,
-  "endTime": 1683800301791,
+  "endTime": 1683801210384,
   "band_list": [
     {
       "raw_hot": 2924775,
@@ -211,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1023747,
+      "num": 1023747,
+      "word": "谢楠说现在不敢抵押房子拍电影",
+      "onboard_time": 1683797369,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 938230,
       "num": 938230,
       "word": "男子晒术后取出颅骨碎片薄如甲片",
@@ -257,14 +265,6 @@
       "onboard_time": 1683771809,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 790142,
-      "num": 790142,
-      "word": "谢楠说现在不敢抵押房子拍电影",
-      "onboard_time": 1683797369,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 776355,
@@ -419,8 +419,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 494295,
-      "num": 1024327,
+      "raw_hot": 516332,
+      "num": 1054594,
       "word": "医生跪着托举12分钟保住新生儿",
       "onboard_time": 1683794488,
       "rank": 21,
@@ -435,6 +435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 486948,
+      "num": 486948,
+      "word": "京东集团CEO徐雷退休",
+      "onboard_time": 1683799888,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 485721,
       "num": 485721,
       "word": "日本地震",
@@ -443,12 +451,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484295,
+      "num": 484295,
+      "word": "孟羽童疑似成立个人工作室",
+      "onboard_time": 1683797850,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 475828,
       "num": 310718,
       "word": "论文查重率0%是种什么体验",
       "onboard_time": 1683786448,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 464299,
+      "num": 464299,
+      "word": "姜思达 对不起",
+      "onboard_time": 1683800907,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 459718,
@@ -465,14 +489,6 @@
       "onboard_time": 1683769828,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 450466,
-      "num": 450466,
-      "word": "孟羽童疑似成立个人工作室",
-      "onboard_time": 1683797850,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 445844,
@@ -643,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327020,
+      "num": 195223,
+      "word": "易梦玲美黑",
+      "onboard_time": 1683800548,
+      "rank": 30,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 323756,
       "num": 323756,
       "word": "巴厘岛",
@@ -673,6 +697,14 @@
       "onboard_time": 1683784048,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 317042,
+      "num": 317042,
+      "word": "LPL回应FPX十周年没奖",
+      "onboard_time": 1683799529,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 313639,
@@ -729,6 +761,22 @@
       "onboard_time": 1683779252,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 294104,
+      "num": 294104,
+      "word": "喻言巡演抢票",
+      "onboard_time": 1683800786,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 293727,
+      "num": 293727,
+      "word": "新疆美女博主李巧回应",
+      "onboard_time": 1683798626,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 293458,
@@ -793,6 +841,14 @@
       "onboard_time": 1683783327,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278137,
+      "num": 278137,
+      "word": "女生称30岁相亲被介绍待离婚男士",
+      "onboard_time": 1683799896,
+      "rank": 46,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 273788,
@@ -875,14 +931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 249814,
-      "num": 249814,
-      "word": "新疆美女博主李巧回应",
-      "onboard_time": 1683798626,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
       "raw_hot": 248510,
       "num": 248510,
       "word": "7岁女孩三百多天照料唤醒昏迷父亲",
@@ -963,12 +1011,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231430,
-      "num": 231430,
-      "word": "京东集团CEO徐雷退休",
-      "onboard_time": 1683799888,
-      "rank": 26,
-      "category": "科技"
+      "raw_hot": 231040,
+      "num": 815460,
+      "word": "杭州多个探头为了它们几年一动不动",
+      "onboard_time": 1683790169,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230667,
@@ -1131,14 +1179,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 200807,
-      "num": 200807,
-      "word": "LPL回应FPX十周年没奖",
-      "onboard_time": 1683799529,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 199536,
       "num": 199536,
       "word": "徐明浩自在随性大片",
@@ -1161,14 +1201,6 @@
       "onboard_time": 1683781470,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 191989,
-      "num": 815460,
-      "word": "杭州多个探头为了它们几年一动不动",
-      "onboard_time": 1683790169,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190675,
@@ -1275,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169196,
+      "num": 169196,
+      "word": "相亲 用魔法打败魔法",
+      "onboard_time": 1683800907,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 167234,
       "num": 167234,
       "word": "美白滤镜下的吉克隽逸",
@@ -1377,14 +1417,6 @@
       "onboard_time": 1683798390,
       "rank": 6,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 150301,
-      "num": 150301,
-      "word": "女生称30岁相亲被介绍待离婚男士",
-      "onboard_time": 1683799896,
-      "rank": 46,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 150227,
@@ -1729,6 +1761,14 @@
       "onboard_time": 1683728851,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86190,
+      "num": 179476,
+      "word": "江西8旬老人跳河救起2名儿童",
+      "onboard_time": 1683800428,
+      "rank": 36,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 83101,
