@@ -1,6 +1,6 @@
 {
   "startTime": 1683736826788,
-  "endTime": 1683808425018,
+  "endTime": 1683809389783,
   "band_list": [
     {
       "raw_hot": 2924775,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1065978,
+      "num": 1065978,
+      "word": "美依礼芽素颜",
+      "onboard_time": 1683794069,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1035174,
       "num": 1035174,
       "word": "全职太太离婚发现丈夫资产过亿",
@@ -233,14 +241,6 @@
       "onboard_time": 1683797369,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1002693,
-      "num": 1002693,
-      "word": "美依礼芽素颜",
-      "onboard_time": 1683794069,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 938230,
@@ -403,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 567842,
+      "num": 567842,
+      "word": "长沙烟花",
+      "onboard_time": 1683803729,
+      "rank": 34,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 559398,
       "num": 559398,
       "word": "市监局回应辛巴带货致榴莲价格上涨",
@@ -491,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 476596,
-      "num": 476596,
-      "word": "长沙烟花",
-      "onboard_time": 1683803729,
-      "rank": 34,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 475828,
       "num": 310718,
       "word": "论文查重率0%是种什么体验",
@@ -521,6 +521,14 @@
       "onboard_time": 1683804148,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 457497,
+      "num": 225399,
+      "word": "徐娇泳装",
+      "onboard_time": 1683807388,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 453393,
@@ -579,6 +587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 407386,
+      "num": 321464,
+      "word": "乘风一公改档周六日播出",
+      "onboard_time": 1683806966,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 406426,
       "num": 300005,
       "word": "易梦玲美黑",
@@ -635,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 365635,
+      "num": 365635,
+      "word": "狗狗失踪7年后回家主人煮饺子庆团圆",
+      "onboard_time": 1683807927,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364059,
       "num": 364059,
       "word": "aespa新歌Spicy初舞台",
@@ -649,14 +673,6 @@
       "onboard_time": 1683764728,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 353557,
-      "num": 189721,
-      "word": "徐娇泳装",
-      "onboard_time": 1683807388,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 353508,
@@ -689,14 +705,6 @@
       "onboard_time": 1683795268,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 346345,
-      "num": 247446,
-      "word": "乘风一公改档周六日播出",
-      "onboard_time": 1683806966,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 341924,
@@ -843,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300099,
+      "num": 300099,
+      "word": "那英 问你妈妈好",
+      "onboard_time": 1683808586,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 298933,
       "num": 260643,
       "word": "未定事件簿",
@@ -955,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 276373,
+      "num": 219035,
+      "word": "HR听了都心疼的离职原因",
+      "onboard_time": 1683804987,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 273788,
       "num": 273788,
       "word": "吴谢宇曾写五万字亲笔信寄亲友求活路",
@@ -1003,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259129,
+      "num": 259129,
+      "word": "英国首批三亲婴儿诞生",
+      "onboard_time": 1683808168,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257121,
       "num": 257121,
       "word": "BABYMONSTER真的是五个人",
@@ -1011,20 +1043,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255095,
+      "num": 202516,
+      "word": "辛巴否认带货致榴莲涨价",
+      "onboard_time": 1683807867,
+      "rank": 31,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 254774,
       "num": 254774,
       "word": "亚洲杯抽签",
       "onboard_time": 1683806605,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 254313,
-      "num": 189225,
-      "word": "HR听了都心疼的离职原因",
-      "onboard_time": 1683804987,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 252579,
@@ -1179,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230034,
+      "num": 187897,
+      "word": "保你平安",
+      "onboard_time": 1683808709,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 229492,
       "num": 229492,
       "word": "举报郑大教授性侵女子称已电话报警",
@@ -1233,14 +1273,6 @@
       "onboard_time": 1683789934,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 214544,
-      "num": 167199,
-      "word": "辛巴否认带货致榴莲涨价",
-      "onboard_time": 1683807867,
-      "rank": 31,
-      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 212744,
@@ -1347,6 +1379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202070,
+      "num": 170447,
+      "word": "乘风2023芭莎一公登场大片",
+      "onboard_time": 1683808107,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199536,
       "num": 199536,
       "word": "徐明浩自在随性大片",
@@ -1361,14 +1401,6 @@
       "onboard_time": 1683768927,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194210,
-      "num": 144640,
-      "word": "乘风2023芭莎一公登场大片",
-      "onboard_time": 1683808107,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 192054,
@@ -1409,6 +1441,14 @@
       "onboard_time": 1683780031,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 182237,
+      "num": 161038,
+      "word": "虞书欣度假风穿搭",
+      "onboard_time": 1683809246,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 180919,
@@ -1491,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171938,
+      "num": 144826,
+      "word": "ZB1队长",
+      "onboard_time": 1683809308,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167234,
       "num": 167234,
       "word": "美白滤镜下的吉克隽逸",
@@ -1545,6 +1593,14 @@
       "onboard_time": 1683781470,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 158596,
+      "num": 158596,
+      "word": "C9对战BLG",
+      "onboard_time": 1683809011,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 157101,
@@ -1787,14 +1843,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 120600,
-      "num": 120600,
-      "word": "狗狗失踪7年后回家主人煮饺子庆团圆",
-      "onboard_time": 1683807927,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120384,
       "num": 120384,
       "word": "狐妖小红娘竹业篇剧版vs原版",
@@ -1849,6 +1897,14 @@
       "onboard_time": 1683732570,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 113817,
+      "num": 113817,
+      "word": "一诺预测暖阳夺冠",
+      "onboard_time": 1683809246,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 111892,
@@ -1915,6 +1971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 100700,
+      "num": 100700,
+      "word": "突然爆更很可能是他失业了",
+      "onboard_time": 1683806908,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 100074,
       "num": 100074,
       "word": "小猫为自己选了名字",
@@ -1929,14 +1993,6 @@
       "onboard_time": 1683717449,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 91743,
-      "num": 100450,
-      "word": "英国首批三亲婴儿诞生",
-      "onboard_time": 1683808168,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 88817,
