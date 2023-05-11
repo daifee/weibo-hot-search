@@ -1,6 +1,6 @@
 {
   "startTime": 1683736826788,
-  "endTime": 1683775045300,
+  "endTime": 1683776023581,
   "band_list": [
     {
       "raw_hot": 2445716,
@@ -27,20 +27,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1834447,
+      "num": 1834447,
+      "word": "再也不敢吃铜锅火锅了",
+      "onboard_time": 1683768626,
+      "rank": 12,
+      "category": "美食,情感"
+    },
+    {
       "raw_hot": 1700400,
       "num": 472699,
       "word": "被曝性侵郑大教授否认性侵和PUA",
       "onboard_time": 1683763770,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1682964,
-      "num": 1682964,
-      "word": "再也不敢吃铜锅火锅了",
-      "onboard_time": 1683768626,
-      "rank": 12,
-      "category": "美食,情感"
     },
     {
       "raw_hot": 1566990,
@@ -57,6 +57,14 @@
       "onboard_time": 1683761544,
       "rank": 36,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 1236281,
+      "num": 1236281,
+      "word": "巴厘岛命案已形成初步报告",
+      "onboard_time": 1683774867,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1130417,
@@ -155,8 +163,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 570271,
-      "num": 570271,
+      "raw_hot": 588874,
+      "num": 588874,
       "word": "不良人",
       "onboard_time": 1683769108,
       "rank": 43,
@@ -195,6 +203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 444470,
+      "num": 444470,
+      "word": "周觜朝或将接替肖战出演言冰云",
+      "onboard_time": 1683773909,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 435229,
       "num": 435229,
       "word": "高叶祝张颂文福如东海寿比南山",
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 411172,
-      "num": 229632,
+      "num": 262119,
       "word": "梦中的那片海",
       "onboard_time": 1683773249,
       "rank": 21,
@@ -233,6 +249,14 @@
       "onboard_time": 1683764728,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 354082,
+      "num": 354082,
+      "word": "张波叶诚尘均系主犯",
+      "onboard_time": 1683774808,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 353508,
@@ -267,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323756,
+      "num": 323756,
+      "word": "巴厘岛",
+      "onboard_time": 1683770368,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323116,
       "num": 323116,
       "word": "后劲很大看完欲罢不能的小说",
@@ -276,7 +308,7 @@
     },
     {
       "raw_hot": 313639,
-      "num": 229287,
+      "num": 261138,
       "word": "赵露思饰演叛逆少女孙头头",
       "onboard_time": 1683773607,
       "rank": 22,
@@ -289,6 +321,14 @@
       "onboard_time": 1683761905,
       "rank": 16,
       "category": "体育,游戏"
+    },
+    {
+      "raw_hot": 298933,
+      "num": 260643,
+      "word": "未定事件簿",
+      "onboard_time": 1683775228,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 292379,
@@ -331,20 +371,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268456,
+      "num": 268456,
+      "word": "刘诗诗古偶原声率",
+      "onboard_time": 1683772948,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 259652,
+      "num": 259652,
+      "word": "妈妈带瘫痪女儿锻炼4年终会走路",
+      "onboard_time": 1683774508,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257121,
       "num": 257121,
       "word": "BABYMONSTER真的是五个人",
       "onboard_time": 1683764128,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 256191,
-      "num": 256191,
-      "word": "周觜朝或将接替肖战出演言冰云",
-      "onboard_time": 1683773909,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 252579,
@@ -371,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 246840,
-      "num": 246840,
-      "word": "刘诗诗古偶原声率",
-      "onboard_time": 1683772948,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 237881,
       "num": 237881,
       "word": "我的论文致谢有你的名字",
@@ -395,6 +435,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 232959,
+      "num": 232959,
+      "word": "iOS17内部爆料者被苹果抓获",
+      "onboard_time": 1683771624,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 229492,
       "num": 229492,
       "word": "举报郑大教授性侵女子称已电话报警",
@@ -409,14 +457,6 @@
       "onboard_time": 1683768028,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 223766,
-      "num": 223766,
-      "word": "iOS17内部爆料者被苹果抓获",
-      "onboard_time": 1683771624,
-      "rank": 35,
-      "category": "科技"
     },
     {
       "raw_hot": 221376,
@@ -443,20 +483,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 216415,
-      "num": 216415,
-      "word": "张波叶诚尘均系主犯",
-      "onboard_time": 1683774808,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211847,
       "num": 211847,
       "word": "后浪",
       "onboard_time": 1683770908,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 211467,
+      "num": 211467,
+      "word": "B站UP主吐槽浪姐4",
+      "onboard_time": 1683775710,
+      "rank": 31,
+      "category": "综艺,网红"
     },
     {
       "raw_hot": 210206,
@@ -481,14 +521,6 @@
       "onboard_time": 1683759077,
       "rank": 23,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 209973,
-      "num": 209973,
-      "word": "巴厘岛",
-      "onboard_time": 1683770368,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208997,
@@ -560,14 +592,6 @@
       "word": "随恩人参军的汶川地震受灾男孩又有励志后续",
       "onboard_time": 1683763589,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170996,
-      "num": 170996,
-      "word": "妈妈带瘫痪女儿锻炼4年终会走路",
-      "onboard_time": 1683774508,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -691,12 +715,12 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 143864,
-      "num": 143864,
-      "word": "巴厘岛命案已形成初步报告",
-      "onboard_time": 1683774867,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 141881,
+      "num": 141881,
+      "word": "刘宇新歌春晖",
+      "onboard_time": 1683775169,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 140574,
@@ -713,6 +737,14 @@
       "onboard_time": 1683731373,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 134575,
+      "num": 134575,
+      "word": "大哥用三轮车拖书去农村摆摊12年",
+      "onboard_time": 1683775228,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132466,
@@ -932,7 +964,7 @@
     },
     {
       "raw_hot": 72745,
-      "num": 1424436,
+      "num": 1464956,
       "word": "天舟六号发射升空瞬间",
       "onboard_time": 1683772468,
       "rank": 2,
@@ -1052,6 +1084,9 @@
     },
     {
       "word": "#天舟快递使命必达#"
+    },
+    {
+      "word": "#习近平在河北雄安新区考察#"
     }
   ]
 }
