@@ -1,6 +1,6 @@
 {
   "startTime": 1683736826788,
-  "endTime": 1683818284258,
+  "endTime": 1683819226255,
   "band_list": [
     {
       "raw_hot": 2924775,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2064776,
-      "num": 593391,
+      "num": 669778,
       "word": "徐娇泳装",
       "onboard_time": 1683807388,
       "rank": 20,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1601940,
+      "num": 1601940,
+      "word": "BABYMONSTER出道名单",
+      "onboard_time": 1683817652,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1566990,
       "num": 837962,
       "word": "张子萱终于不给陈赫打码了",
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 1520173,
-      "num": 988364,
+      "num": 1087325,
       "word": "向佐的工作人员叫王一博",
       "onboard_time": 1683812849,
       "rank": 3,
@@ -193,14 +201,6 @@
       "onboard_time": 1683792330,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1192044,
-      "num": 1192044,
-      "word": "BABYMONSTER出道名单",
-      "onboard_time": 1683817652,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1141162,
@@ -339,6 +339,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 838106,
+      "num": 838106,
+      "word": "YG新女团出道",
+      "onboard_time": 1683818132,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 818355,
+      "num": 818355,
+      "word": "B站播放时长最长内容是高等数学",
+      "onboard_time": 1683817473,
+      "rank": 19,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 796970,
       "num": 796970,
       "word": "孟美岐一把顺利拿本",
@@ -401,6 +417,14 @@
       "onboard_time": 1683768868,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 696549,
+      "num": 696549,
+      "word": "ASA出道",
+      "onboard_time": 1683818669,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 692289,
@@ -643,8 +667,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 450221,
+      "num": 450221,
+      "word": "512",
+      "onboard_time": 1683817532,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 448533,
-      "num": 321240,
+      "num": 378272,
       "word": "易烊千玺的实体专辑三公斤",
       "onboard_time": 1683813811,
       "rank": 21,
@@ -699,20 +731,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 414121,
+      "num": 414121,
+      "word": "权志龙ins",
+      "onboard_time": 1683816212,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 411172,
       "num": 322338,
       "word": "梦中的那片海",
       "onboard_time": 1683773249,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 409163,
-      "num": 409163,
-      "word": "YG新女团出道",
-      "onboard_time": 1683818132,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 407386,
@@ -761,6 +793,22 @@
       "onboard_time": 1683793351,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387588,
+      "num": 387588,
+      "word": "rora",
+      "onboard_time": 1683818852,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 384818,
+      "num": 384818,
+      "word": "宁艺卓红丝带编发",
+      "onboard_time": 1683818191,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 377972,
@@ -891,6 +939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 331204,
+      "num": 331204,
+      "word": "塞尔达 海拉鲁我来了",
+      "onboard_time": 1683818431,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 329356,
       "num": 294668,
       "word": "浪来了刘宇宁自己先跑了",
@@ -905,14 +961,6 @@
       "onboard_time": 1683811589,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 328163,
-      "num": 328163,
-      "word": "B站播放时长最长内容是高等数学",
-      "onboard_time": 1683817473,
-      "rank": 19,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 327686,
@@ -945,6 +993,14 @@
       "onboard_time": 1683729092,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 322166,
+      "num": 322166,
+      "word": "人真的可以删除自己的记忆",
+      "onboard_time": 1683815553,
+      "rank": 37,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 319198,
@@ -1315,14 +1371,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 246457,
-      "num": 246457,
-      "word": "512",
-      "onboard_time": 1683817532,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 243613,
       "num": 243613,
       "word": "动作导演回应刘诗诗替身争议",
@@ -1337,6 +1385,14 @@
       "onboard_time": 1683786268,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241273,
+      "num": 241273,
+      "word": "bin说到做到",
+      "onboard_time": 1683816991,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 239656,
@@ -1425,22 +1481,6 @@
       "onboard_time": 1683790169,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230949,
-      "num": 230949,
-      "word": "人真的可以删除自己的记忆",
-      "onboard_time": 1683815553,
-      "rank": 37,
-      "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 230845,
-      "num": 230845,
-      "word": "bin说到做到",
-      "onboard_time": 1683816991,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 230667,
@@ -1803,14 +1843,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 168425,
-      "num": 168425,
-      "word": "权志龙ins",
-      "onboard_time": 1683816212,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 167234,
       "num": 167234,
       "word": "美白滤镜下的吉克隽逸",
@@ -1851,12 +1883,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163812,
-      "num": 163812,
-      "word": "宁艺卓红丝带编发",
-      "onboard_time": 1683818191,
+      "raw_hot": 163755,
+      "num": 163755,
+      "word": "22岁辅警为2岁女童捐献骨髓",
+      "onboard_time": 1683819090,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162045,
+      "num": 162045,
+      "word": "的哥回应连闯红灯送孕妇就医生产",
+      "onboard_time": 1683818372,
       "rank": 49,
-      "category": "综艺"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161680,
@@ -2404,7 +2444,7 @@
     },
     {
       "raw_hot": 33268,
-      "num": 992284,
+      "num": 1137347,
       "word": "天舟六号有何特别之处",
       "onboard_time": 1683810805,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683818284258,
+  "endTime": 1683819226255,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -804,7 +804,7 @@
     },
     {
       "raw_hot": 2064776,
-      "num": 593391,
+      "num": 669778,
       "word": "徐娇泳装",
       "onboard_time": 1683807388,
       "rank": 20,
@@ -1451,6 +1451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1601940,
+      "num": 1601940,
+      "word": "BABYMONSTER出道名单",
+      "onboard_time": 1683817652,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1600059,
       "num": 1600059,
       "word": "巴厘岛凶案酒店称形象严重受损",
@@ -1668,7 +1676,7 @@
     },
     {
       "raw_hot": 1520173,
-      "num": 988364,
+      "num": 1087325,
       "word": "向佐的工作人员叫王一博",
       "onboard_time": 1683812849,
       "rank": 3,
@@ -2489,14 +2497,6 @@
       "onboard_time": 1683624870,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1192044,
-      "num": 1192044,
-      "word": "BABYMONSTER出道名单",
-      "onboard_time": 1683817652,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1190970,
@@ -3851,6 +3851,14 @@
       "category": "幽默,影视"
     },
     {
+      "raw_hot": 838106,
+      "num": 838106,
+      "word": "YG新女团出道",
+      "onboard_time": 1683818132,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 834895,
       "num": 834895,
       "word": "克里姆林宫",
@@ -3937,6 +3945,14 @@
       "onboard_time": 1683342931,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 818355,
+      "num": 818355,
+      "word": "B站播放时长最长内容是高等数学",
+      "onboard_time": 1683817473,
+      "rank": 19,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 817189,
@@ -4569,6 +4585,14 @@
       "onboard_time": 1683112469,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 696549,
+      "num": 696549,
+      "word": "ASA出道",
+      "onboard_time": 1683818669,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 695943,
@@ -7091,6 +7115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 450221,
+      "num": 450221,
+      "word": "512",
+      "onboard_time": 1683817532,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 449968,
       "num": 449968,
       "word": "一觉醒来咽喉炎了",
@@ -7140,7 +7172,7 @@
     },
     {
       "raw_hot": 448533,
-      "num": 321240,
+      "num": 378272,
       "word": "易烊千玺的实体专辑三公斤",
       "onboard_time": 1683813811,
       "rank": 21,
@@ -7779,6 +7811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 414121,
+      "num": 414121,
+      "word": "权志龙ins",
+      "onboard_time": 1683816212,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 413853,
       "num": 413853,
       "word": "约基奇 太阳老板",
@@ -7880,14 +7920,6 @@
       "word": "易烊千玺穿短裤了",
       "onboard_time": 1683548610,
       "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 409163,
-      "num": 409163,
-      "word": "YG新女团出道",
-      "onboard_time": 1683818132,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -8411,6 +8443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387588,
+      "num": 387588,
+      "word": "rora",
+      "onboard_time": 1683818852,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 386853,
       "num": 386853,
       "word": "性骚扰事件 不用考虑直接告",
@@ -8441,6 +8481,14 @@
       "onboard_time": 1683540812,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 384818,
+      "num": 384818,
+      "word": "宁艺卓红丝带编发",
+      "onboard_time": 1683818191,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 384472,
@@ -10083,6 +10131,14 @@
       "category": "影视,情感"
     },
     {
+      "raw_hot": 331204,
+      "num": 331204,
+      "word": "塞尔达 海拉鲁我来了",
+      "onboard_time": 1683818431,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 331062,
       "num": 319055,
       "word": "普通话考试也太尴尬了吧",
@@ -10217,14 +10273,6 @@
       "onboard_time": 1683681209,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 328163,
-      "num": 328163,
-      "word": "B站播放时长最长内容是高等数学",
-      "onboard_time": 1683817473,
-      "rank": 19,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 327996,
@@ -10393,6 +10441,14 @@
       "onboard_time": 1683688891,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 322166,
+      "num": 322166,
+      "word": "人真的可以删除自己的记忆",
+      "onboard_time": 1683815553,
+      "rank": 37,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 322132,
@@ -13739,14 +13795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 246457,
-      "num": 246457,
-      "word": "512",
-      "onboard_time": 1683817532,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 246287,
       "num": 246287,
       "word": "杨迪差点在苍兰诀播后加王鹤棣好友",
@@ -14033,6 +14081,14 @@
       "onboard_time": 1683110968,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 241273,
+      "num": 241273,
+      "word": "bin说到做到",
+      "onboard_time": 1683816991,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 241202,
@@ -14713,22 +14769,6 @@
       "onboard_time": 1683790169,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230949,
-      "num": 230949,
-      "word": "人真的可以删除自己的记忆",
-      "onboard_time": 1683815553,
-      "rank": 37,
-      "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 230845,
-      "num": 230845,
-      "word": "bin说到做到",
-      "onboard_time": 1683816991,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 230837,
@@ -19227,14 +19267,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 168425,
-      "num": 168425,
-      "word": "权志龙ins",
-      "onboard_time": 1683816212,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 168362,
       "num": 151124,
       "word": "湖勇大战来了",
@@ -19523,12 +19555,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 163812,
-      "num": 163812,
-      "word": "宁艺卓红丝带编发",
-      "onboard_time": 1683818191,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 163755,
+      "num": 163755,
+      "word": "22岁辅警为2岁女童捐献骨髓",
+      "onboard_time": 1683819090,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163710,
@@ -19625,6 +19657,14 @@
       "onboard_time": 1682898746,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162045,
+      "num": 162045,
+      "word": "的哥回应连闯红灯送孕妇就医生产",
+      "onboard_time": 1683818372,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161961,
@@ -23644,7 +23684,7 @@
     },
     {
       "raw_hot": 33268,
-      "num": 992284,
+      "num": 1137347,
       "word": "天舟六号有何特别之处",
       "onboard_time": 1683810805,
       "rank": 2,
