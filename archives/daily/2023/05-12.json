@@ -1,6 +1,6 @@
 {
   "startTime": 1683822124198,
-  "endTime": 1683847033389,
+  "endTime": 1683848020159,
   "band_list": [
     {
       "raw_hot": 3648870,
@@ -11,8 +11,16 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 1720089,
-      "num": 1720089,
+      "raw_hot": 2206555,
+      "num": 2206555,
+      "word": "四川地震",
+      "onboard_time": 1683846801,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2047230,
+      "num": 2047230,
       "word": "512",
       "onboard_time": 1683817532,
       "rank": 3,
@@ -43,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 682472,
-      "num": 682472,
+      "raw_hot": 767295,
+      "num": 767295,
       "word": "东北大哥称不想再管吵架事件",
       "onboard_time": 1683822024,
       "rank": 49,
@@ -59,20 +67,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 599488,
-      "num": 599488,
-      "word": "四川地震",
-      "onboard_time": 1683846801,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 572072,
       "num": 572072,
       "word": "长沙霸停数月车位女子道歉",
       "onboard_time": 1683821606,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 547336,
+      "num": 547336,
+      "word": "孟美岐一把顺利拿本",
+      "onboard_time": 1683814172,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 521621,
@@ -91,12 +99,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 470511,
-      "num": 470511,
-      "word": "孟美岐一把顺利拿本",
-      "onboard_time": 1683814172,
-      "rank": 7,
-      "category": "艺人"
+      "raw_hot": 496084,
+      "num": 496084,
+      "word": "专家建议给生孩子的人发薪水",
+      "onboard_time": 1683812427,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 469323,
@@ -113,14 +121,6 @@
       "onboard_time": 1683806908,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 444008,
-      "num": 444008,
-      "word": "专家建议给生孩子的人发薪水",
-      "onboard_time": 1683812427,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 412994,
@@ -171,8 +171,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278344,
-      "num": 278344,
+      "raw_hot": 289540,
+      "num": 289540,
       "word": "英国首批三亲婴儿诞生",
       "onboard_time": 1683808168,
       "rank": 18,
@@ -187,6 +187,38 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 259329,
+      "num": 259329,
+      "word": "戚薇生二胎前差点摔倒被陈小春扶住了",
+      "onboard_time": 1683847585,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 256336,
+      "num": 256336,
+      "word": "淄博一小区为外卖员配专用单车",
+      "onboard_time": 1683846200,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248114,
+      "num": 248114,
+      "word": "男生误把甲酸滴油锅意外合成强力胶",
+      "onboard_time": 1683829274,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245792,
+      "num": 189881,
+      "word": "今天发条微博致敬新生的汶川",
+      "onboard_time": 1683847222,
+      "rank": 20,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 244474,
       "num": 244474,
       "word": "霍华德",
@@ -195,12 +227,12 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 241564,
-      "num": 241564,
-      "word": "男生误把甲酸滴油锅意外合成强力胶",
-      "onboard_time": 1683829274,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 237453,
+      "num": 237453,
+      "word": "王国之泪",
+      "onboard_time": 1683846862,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 235180,
@@ -219,12 +251,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230077,
+      "num": 184928,
+      "word": "不体面但是很赚钱的工作",
+      "onboard_time": 1683847102,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 229928,
       "num": 229928,
       "word": "易烊千玺的实体专辑三公斤",
       "onboard_time": 1683813811,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 226619,
+      "num": 181824,
+      "word": "独生子一人推2个轮椅医院照顾爸妈",
+      "onboard_time": 1683822625,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221810,
+      "num": 221810,
+      "word": "护士节",
+      "onboard_time": 1683847645,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221138,
@@ -251,11 +307,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206269,
-      "num": 155400,
-      "word": "独生子一人推2个轮椅医院照顾爸妈",
-      "onboard_time": 1683822625,
-      "rank": 47,
+      "raw_hot": 203875,
+      "num": 150088,
+      "word": "校方回应13岁学生是公司老板",
+      "onboard_time": 1683847043,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 203591,
+      "num": 177619,
+      "word": "5121428",
+      "onboard_time": 1683847525,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -267,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194451,
+      "num": 170643,
+      "word": "男朋友爷爷的葬礼应该参加吗",
+      "onboard_time": 1683846980,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193682,
       "num": 193682,
       "word": "林俊杰 巡演",
@@ -276,7 +348,7 @@
     },
     {
       "raw_hot": 185909,
-      "num": 166607,
+      "num": 170638,
       "word": "内娱95后浓颜系代表",
       "onboard_time": 1683814770,
       "rank": 30,
@@ -307,6 +379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 164795,
+      "num": 164795,
+      "word": "为啥有的人坚持运动却不见瘦",
+      "onboard_time": 1683842895,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161792,
       "num": 161792,
       "word": "bin说到做到",
@@ -323,20 +403,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154525,
-      "num": 154525,
-      "word": "为啥有的人坚持运动却不见瘦",
-      "onboard_time": 1683842895,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 143161,
+      "num": 143161,
+      "word": "沙溢说展堂才是爹地湘玉已成外婆",
+      "onboard_time": 1683838572,
+      "rank": 27,
+      "category": "影视"
     },
     {
-      "raw_hot": 148260,
-      "num": 148260,
-      "word": "王国之泪",
-      "onboard_time": 1683846862,
-      "rank": 23,
-      "category": "游戏"
+      "raw_hot": 141586,
+      "num": 141586,
+      "word": "当代年轻人的左手现状",
+      "onboard_time": 1683847824,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 135608,
@@ -368,22 +448,6 @@
       "word": "范丞丞称演戏是最轻松的职业",
       "onboard_time": 1683802408,
       "rank": 38,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 132603,
-      "num": 132603,
-      "word": "男朋友爷爷的葬礼应该参加吗",
-      "onboard_time": 1683846980,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 128774,
-      "num": 128774,
-      "word": "沙溢说展堂才是爹地湘玉已成外婆",
-      "onboard_time": 1683838572,
-      "rank": 27,
       "category": "影视"
     },
     {
@@ -443,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119318,
+      "num": 119318,
+      "word": "上海下半年演唱会",
+      "onboard_time": 1683847402,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 116321,
       "num": 116321,
       "word": "22岁辅警为2岁女童捐献骨髓",
@@ -451,20 +523,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114141,
+      "num": 114141,
+      "word": "其实父母什么都知道",
+      "onboard_time": 1683813931,
+      "rank": 45,
+      "category": "情感,影视"
+    },
+    {
       "raw_hot": 107651,
       "num": 107651,
       "word": "刘亦菲露腰了",
       "onboard_time": 1683783508,
       "rank": 44,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 102250,
-      "num": 102250,
-      "word": "其实父母什么都知道",
-      "onboard_time": 1683813931,
-      "rank": 45,
-      "category": "情感,影视"
     },
     {
       "raw_hot": 96415,
@@ -491,19 +563,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 92108,
+      "num": 92108,
+      "word": "每个女孩童年都有的一件衣服",
+      "onboard_time": 1683822146,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 85034,
       "num": 85034,
       "word": "小偷偷来的手机丢失报警求助反被抓",
       "onboard_time": 1683821665,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79028,
-      "num": 79028,
-      "word": "淄博一小区为外卖员配专用单车",
-      "onboard_time": 1683846200,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -521,14 +593,6 @@
       "onboard_time": 1683823221,
       "rank": 43,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 67436,
-      "num": 67436,
-      "word": "每个女孩童年都有的一件衣服",
-      "onboard_time": 1683822146,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 63287,
@@ -555,20 +619,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25473,
+      "num": 1989303,
+      "word": "天舟六号有何特别之处",
+      "onboard_time": 1683810805,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24674,
       "num": 27486,
       "word": "消失的她溶画版海报",
       "onboard_time": 1683844035,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 20562,
-      "num": 911628,
-      "word": "天舟六号有何特别之处",
-      "onboard_time": 1683810805,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15340,
