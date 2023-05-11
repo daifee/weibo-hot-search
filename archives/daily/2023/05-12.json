@@ -1,6 +1,6 @@
 {
   "startTime": 1683822124198,
-  "endTime": 1683843340489,
+  "endTime": 1683844426606,
   "band_list": [
     {
       "raw_hot": 3648870,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 841215,
-      "num": 841215,
+      "raw_hot": 848314,
+      "num": 848314,
       "word": "512",
       "onboard_time": 1683817532,
       "rank": 3,
@@ -115,6 +115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 355541,
+      "num": 355541,
+      "word": "长沙霸停数月车位女子道歉",
+      "onboard_time": 1683821606,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348761,
       "num": 348761,
       "word": "4月份人民币存款减少4609亿元",
@@ -153,14 +161,6 @@
       "onboard_time": 1683819271,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 261812,
-      "num": 261812,
-      "word": "长沙霸停数月车位女子道歉",
-      "onboard_time": 1683821606,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 260372,
@@ -323,11 +323,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 130514,
+      "raw_hot": 131511,
       "num": 130514,
       "word": "独生子一人推2个轮椅医院照顾爸妈",
       "onboard_time": 1683822625,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128462,
+      "num": 128462,
+      "word": "重庆市原副市长熊雪被查",
+      "onboard_time": 1683840972,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -419,20 +427,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 93409,
+      "num": 93409,
+      "word": "男生误把甲酸滴油锅意外合成强力胶",
+      "onboard_time": 1683829274,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92960,
       "num": 92960,
       "word": "王国之泪媒体评分解禁",
       "onboard_time": 1683810146,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 86329,
-      "num": 86329,
-      "word": "重庆市原副市长熊雪被查",
-      "onboard_time": 1683840972,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85034,
@@ -443,11 +451,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 68762,
-      "num": 55858,
-      "word": "男生误把甲酸滴油锅意外合成强力胶",
-      "onboard_time": 1683829274,
-      "rank": 35,
+      "raw_hot": 77360,
+      "num": 77360,
+      "word": "沙溢说展堂才是爹地湘玉已成外婆",
+      "onboard_time": 1683838572,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 70699,
+      "num": 70699,
+      "word": "男子醉驾致妻子死亡判6个月缓1年",
+      "onboard_time": 1683841034,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -475,19 +491,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 53652,
-      "num": 53652,
-      "word": "沙溢说展堂才是爹地湘玉已成外婆",
-      "onboard_time": 1683838572,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 46855,
-      "num": 46855,
-      "word": "男子醉驾致妻子死亡判6个月缓1年",
-      "onboard_time": 1683841034,
-      "rank": 24,
+      "raw_hot": 59426,
+      "num": 50167,
+      "word": "为啥有的人坚持运动却不见瘦",
+      "onboard_time": 1683842895,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -499,20 +507,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26025,
-      "num": 26025,
+      "raw_hot": 36946,
+      "num": 36946,
       "word": "美依礼芽龚琳娜认领龚美呐赛",
       "onboard_time": 1683833713,
       "rank": 25,
       "category": "综艺"
     },
     {
-      "raw_hot": 23672,
-      "num": 23672,
-      "word": "为啥有的人坚持运动却不见瘦",
-      "onboard_time": 1683842895,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 24674,
+      "num": 27486,
+      "word": "消失的她溶画版海报",
+      "onboard_time": 1683844035,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 18554,
