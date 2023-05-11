@@ -1,0 +1,410 @@
+{
+  "runTime": 1683815627532,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 975135,
+        "num": 975135,
+        "word": "4月份人民币存款减少4609亿元",
+        "onboard_time": 1683803425,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 891585,
+        "num": 891585,
+        "word": "突然爆更很可能是他失业了",
+        "onboard_time": 1683806908,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31923,
+        "num": 817975,
+        "word": "天舟六号有何特别之处",
+        "onboard_time": 1683810805,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1520173,
+        "num": 816576,
+        "word": "向佐的工作人员叫王一博",
+        "onboard_time": 1683812849,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 812814,
+        "num": 812814,
+        "word": "专家建议给生孩子的人发薪水",
+        "onboard_time": 1683812427,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629064,
+        "num": 629064,
+        "word": "癌症筛查 早发现早治疗未必是对的",
+        "onboard_time": 1683792330,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 574905,
+        "num": 574905,
+        "word": "英国首批三亲婴儿诞生",
+        "onboard_time": 1683808168,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556583,
+        "num": 556583,
+        "word": "霍华德",
+        "onboard_time": 1683812731,
+        "rank": 7,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 444278,
+        "num": 444278,
+        "word": "美依礼芽素颜",
+        "onboard_time": 1683794069,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405401,
+        "num": 405401,
+        "word": "那英 问你妈妈好",
+        "onboard_time": 1683808586,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1978827,
+        "num": 403613,
+        "word": "徐娇泳装",
+        "onboard_time": 1683807388,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519193,
+        "num": 394402,
+        "word": "刘亦菲露腰了",
+        "onboard_time": 1683783508,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 378288,
+        "num": 378288,
+        "word": "老师意外发现13岁学生已是公司老板",
+        "onboard_time": 1683784949,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 368115,
+        "num": 368115,
+        "word": "狗狗失踪7年后回家主人煮饺子庆团圆",
+        "onboard_time": 1683807927,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331425,
+        "num": 331425,
+        "word": "谢楠说现在不敢抵押房子拍电影",
+        "onboard_time": 1683797369,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 328334,
+        "num": 328334,
+        "word": "孕妇羊水破裂司机一路闯红灯安全送至医院",
+        "onboard_time": 1683811589,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319779,
+        "num": 319779,
+        "word": "张子萱终于不给陈赫打码了",
+        "onboard_time": 1683731492,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306402,
+        "num": 306402,
+        "word": "五月天演唱会荧光棒涨价三倍",
+        "onboard_time": 1683813390,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 294685,
+        "num": 294685,
+        "word": "长沙烟花",
+        "onboard_time": 1683803729,
+        "rank": 18,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 264897,
+        "num": 264897,
+        "word": "巴厘岛命案已形成初步报告",
+        "onboard_time": 1683774867,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448533,
+        "num": 262910,
+        "word": "易烊千玺的实体专辑三公斤",
+        "onboard_time": 1683813811,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 432394,
+        "num": 257285,
+        "word": "姐姐知道我偷偷买房后",
+        "onboard_time": 1683811766,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 428382,
+        "num": 252608,
+        "word": "孟美岐一把顺利拿本",
+        "onboard_time": 1683814172,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289015,
+        "num": 247060,
+        "word": "其实父母什么都知道",
+        "onboard_time": 1683813931,
+        "rank": 23,
+        "category": "情感,影视"
+      },
+      {
+        "raw_hot": 243294,
+        "num": 243294,
+        "word": "易梦玲美黑",
+        "onboard_time": 1683800548,
+        "rank": 24,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 238468,
+        "num": 238468,
+        "word": "再也不敢吃铜锅火锅了",
+        "onboard_time": 1683768626,
+        "rank": 25,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 220466,
+        "num": 220466,
+        "word": "放在整个结婚界都相当炸裂",
+        "onboard_time": 1683812189,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215509,
+        "num": 215509,
+        "word": "内娱95后浓颜系代表",
+        "onboard_time": 1683814770,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209390,
+        "num": 209390,
+        "word": "护心排播咋想的",
+        "onboard_time": 1683802227,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207035,
+        "num": 207035,
+        "word": "王国之泪媒体评分解禁",
+        "onboard_time": 1683810146,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 231115,
+        "num": 206854,
+        "word": "辽宁一养猪场外墙发现无名女尸",
+        "onboard_time": 1683787226,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203136,
+        "num": 203136,
+        "word": "HR听了都心疼的离职原因",
+        "onboard_time": 1683804987,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199825,
+        "num": 199825,
+        "word": "欧豪白鹿新剧北上已开拍",
+        "onboard_time": 1683809426,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190541,
+        "num": 190541,
+        "word": "鹿晗分享工作花絮照",
+        "onboard_time": 1683814590,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195441,
+        "num": 190331,
+        "word": "ZB1队长",
+        "onboard_time": 1683809308,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182653,
+        "num": 182653,
+        "word": "哈利彪特",
+        "onboard_time": 1683811346,
+        "rank": 35,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 182482,
+        "num": 182482,
+        "word": "孩子被异物卡喉众人接力救助",
+        "onboard_time": 1683810687,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 179866,
+        "num": 179866,
+        "word": "虞书欣度假风穿搭",
+        "onboard_time": 1683809246,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179018,
+        "num": 179018,
+        "word": "护心",
+        "onboard_time": 1683803066,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172399,
+        "num": 172399,
+        "word": "毛晓彤说没有打针",
+        "onboard_time": 1683789448,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159752,
+        "num": 159752,
+        "word": "林俊杰 巡演",
+        "onboard_time": 1683815553,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158857,
+        "num": 158857,
+        "word": "女生称30岁相亲被介绍待离婚男士",
+        "onboard_time": 1683799896,
+        "rank": 41,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 153608,
+        "num": 153608,
+        "word": "Apple ID",
+        "onboard_time": 1683793530,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 152231,
+        "num": 152231,
+        "word": "Lisa太阳合照",
+        "onboard_time": 1683813330,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150295,
+        "num": 150295,
+        "word": "乘风一公改档周六日播出",
+        "onboard_time": 1683806966,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146821,
+        "num": 146821,
+        "word": "弟弟帮离世哥哥通关塞尔达",
+        "onboard_time": 1683780269,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141473,
+        "num": 141473,
+        "word": "范丞丞称演戏是最轻松的职业",
+        "onboard_time": 1683802408,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134159,
+        "num": 134159,
+        "word": "乘风2023芭莎一公登场大片",
+        "onboard_time": 1683808107,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129295,
+        "num": 129295,
+        "word": "浙江男篮号召球迷不要地域歧视",
+        "onboard_time": 1683810026,
+        "rank": 48,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 124640,
+        "num": 124640,
+        "word": "辛巴否认带货致榴莲涨价",
+        "onboard_time": 1683807867,
+        "rank": 49,
+        "category": "网红,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#天河行舟载梦远航#"
+    }
+  }
+}
