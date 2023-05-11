@@ -1,0 +1,410 @@
+{
+  "runTime": 1683772933742,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2445716,
+        "num": 2445716,
+        "word": "重庆姐弟坠亡案被告人二审死刑",
+        "onboard_time": 1683771387,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1897143,
+        "num": 1897143,
+        "word": "孟羽童",
+        "onboard_time": 1683763770,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31816,
+        "num": 1424436,
+        "word": "天舟六号发射升空瞬间",
+        "onboard_time": 1683772468,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1297873,
+        "num": 1297873,
+        "word": "再也不敢吃铜锅火锅了",
+        "onboard_time": 1683768626,
+        "rank": 3,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 1037244,
+        "num": 1037244,
+        "word": "孟羽童曾连续工作21小时",
+        "onboard_time": 1683765510,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 836161,
+        "num": 836161,
+        "word": "重庆姐弟坠亡案二审宣判",
+        "onboard_time": 1683767015,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735616,
+        "num": 735616,
+        "word": "男子晒术后取出颅骨碎片薄如甲片",
+        "onboard_time": 1683761183,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541944,
+        "num": 541944,
+        "word": "曾可妮拍姐姐拍了10多个G",
+        "onboard_time": 1683771809,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 469706,
+        "num": 469706,
+        "word": "全职太太离婚发现丈夫资产过亿",
+        "onboard_time": 1683721650,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381667,
+        "num": 381667,
+        "word": "泰星Tangmo溺亡案宣判",
+        "onboard_time": 1683761544,
+        "rank": 9,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1832355,
+        "num": 377819,
+        "word": "辛巴 榴莲",
+        "onboard_time": 1683769228,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 981732,
+        "num": 372970,
+        "word": "张子萱终于不给陈赫打码了",
+        "onboard_time": 1683731492,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368048,
+        "num": 368048,
+        "word": "勇士vs湖人",
+        "onboard_time": 1683768868,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366569,
+        "num": 366569,
+        "word": "不良人",
+        "onboard_time": 1683769108,
+        "rank": 13,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 346390,
+        "num": 346390,
+        "word": "8旬老人为女销户民警含泪帮拍户籍照",
+        "onboard_time": 1683769828,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343532,
+        "num": 343532,
+        "word": "没有男艺人能穿着衣服走出郭敬明的剧",
+        "onboard_time": 1683719129,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336489,
+        "num": 336489,
+        "word": "杨洋同学会全记录视频",
+        "onboard_time": 1683734128,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284711,
+        "num": 284711,
+        "word": "身上5种疣可能是HPV感染",
+        "onboard_time": 1683715409,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276212,
+        "num": 276212,
+        "word": "被75岁学生写给00后老师的信戳到了",
+        "onboard_time": 1683767968,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1240977,
+        "num": 274970,
+        "word": "被曝性侵郑大教授否认性侵和PUA",
+        "onboard_time": 1683763770,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559064,
+        "num": 274160,
+        "word": "七小时结束了相恋七年的感情",
+        "onboard_time": 1683718169,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 353508,
+        "num": 273663,
+        "word": "后浪官宣定档",
+        "onboard_time": 1683771028,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273108,
+        "num": 273108,
+        "word": "刘雅瑟回复网友说她油",
+        "onboard_time": 1683771147,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234760,
+        "num": 234760,
+        "word": "一人一句最讨厌的婚礼主持词",
+        "onboard_time": 1683770847,
+        "rank": 23,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 204744,
+        "num": 204744,
+        "word": "iOS17内部爆料者被苹果抓获",
+        "onboard_time": 1683771624,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 202488,
+        "num": 202488,
+        "word": "最好的朋友没来参加我的婚礼",
+        "onboard_time": 1683768626,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197159,
+        "num": 197159,
+        "word": "山西一地偷排不明液体致3人死亡",
+        "onboard_time": 1683763467,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192128,
+        "num": 192128,
+        "word": "高叶祝张颂文福如东海寿比南山",
+        "onboard_time": 1683762747,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191368,
+        "num": 191368,
+        "word": "BABYMONSTER真的是五个人",
+        "onboard_time": 1683764128,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184665,
+        "num": 184665,
+        "word": "男子强拉妻子退几十元衣服",
+        "onboard_time": 1683760403,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178571,
+        "num": 178571,
+        "word": "为什么35岁是中年的一道坎",
+        "onboard_time": 1683764728,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165969,
+        "num": 165969,
+        "word": "总而言之 快睡",
+        "onboard_time": 1683734787,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 162728,
+        "num": 162728,
+        "word": "孟羽童曾称董明珠不可复制",
+        "onboard_time": 1683759077,
+        "rank": 32,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 156154,
+        "num": 156154,
+        "word": "经前期综合征",
+        "onboard_time": 1683732153,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153574,
+        "num": 153574,
+        "word": "高铁掌掴事件车厢画面公布",
+        "onboard_time": 1683730653,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148935,
+        "num": 148935,
+        "word": "陈美霖称有结果会去天台寺告诉孩子",
+        "onboard_time": 1683772527,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139097,
+        "num": 139097,
+        "word": "爷爷奶奶辈的名字有多令人惊艳",
+        "onboard_time": 1683768028,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135500,
+        "num": 135500,
+        "word": "广州地铁",
+        "onboard_time": 1683764671,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129563,
+        "num": 129563,
+        "word": "我的论文致谢有你的名字",
+        "onboard_time": 1683737481,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 129400,
+        "num": 129400,
+        "word": "张波翻供否认曾写信求原谅",
+        "onboard_time": 1683771089,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127271,
+        "num": 127271,
+        "word": "奔跑吧导演说邀请范丞丞是因为合适",
+        "onboard_time": 1683764309,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127011,
+        "num": 127011,
+        "word": "后浪",
+        "onboard_time": 1683770908,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120461,
+        "num": 120461,
+        "word": "重庆姐弟坠亡案",
+        "onboard_time": 1683768927,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94622,
+        "num": 120001,
+        "word": "属于中国人的宇宙级浪漫",
+        "onboard_time": 1683730232,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119924,
+        "num": 119924,
+        "word": "杭州亚运会电竞国家队名单来了",
+        "onboard_time": 1683761905,
+        "rank": 44,
+        "category": "体育,游戏"
+      },
+      {
+        "raw_hot": 115767,
+        "num": 115767,
+        "word": "CPI",
+        "onboard_time": 1683772287,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 108567,
+        "num": 108567,
+        "word": "NBA",
+        "onboard_time": 1683768329,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105792,
+        "num": 105792,
+        "word": "热火3比2尼克斯",
+        "onboard_time": 1683772827,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104100,
+        "num": 104100,
+        "word": "杭州地铁售票机不能用支付宝",
+        "onboard_time": 1683759861,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91548,
+        "num": 103824,
+        "word": "赞多面包测评",
+        "onboard_time": 1683765931,
+        "rank": 49,
+        "category": "美食,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#天河行舟载梦远航#"
+    }
+  }
+}

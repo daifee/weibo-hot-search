@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683772381768,
+  "endTime": 1683772933742,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -424,6 +424,14 @@
       "word": "情侣吵架从8楼将萨摩耶扔下",
       "onboard_time": 1683537453,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2445716,
+      "num": 2445716,
+      "word": "重庆姐弟坠亡案被告人二审死刑",
+      "onboard_time": 1683771387,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -947,6 +955,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1897143,
+      "num": 1897143,
+      "word": "孟羽童",
+      "onboard_time": 1683763770,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1884914,
       "num": 1884914,
       "word": "要不要为了编制回小县城",
@@ -961,14 +977,6 @@
       "onboard_time": 1683422425,
       "rank": 30,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1866768,
-      "num": 1866768,
-      "word": "孟羽童",
-      "onboard_time": 1683763770,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1863741,
@@ -1579,14 +1587,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1515896,
-      "num": 1515896,
-      "word": "重庆姐弟坠亡案被告人二审死刑",
-      "onboard_time": 1683771387,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1515573,
       "num": 1515573,
       "word": "佳能 黄旭熙",
@@ -2057,6 +2057,14 @@
       "onboard_time": 1683258331,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1297873,
+      "num": 1297873,
+      "word": "再也不敢吃铜锅火锅了",
+      "onboard_time": 1683768626,
+      "rank": 12,
+      "category": "美食,情感"
     },
     {
       "raw_hot": 1295498,
@@ -2569,14 +2577,6 @@
       "onboard_time": 1683614009,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1123491,
-      "num": 1123491,
-      "word": "再也不敢吃铜锅火锅了",
-      "onboard_time": 1683768626,
-      "rank": 12,
-      "category": "美食,情感"
     },
     {
       "raw_hot": 1123153,
@@ -5539,6 +5539,14 @@
       "category": "财经,艺人"
     },
     {
+      "raw_hot": 541944,
+      "num": 541944,
+      "word": "曾可妮拍姐姐拍了10多个G",
+      "onboard_time": 1683771809,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 541678,
       "num": 541678,
       "word": "父母心疼女儿制毒辛苦帮忙贩毒",
@@ -8283,6 +8291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 366569,
+      "num": 366569,
+      "word": "不良人",
+      "onboard_time": 1683168327,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 366368,
       "num": 361413,
       "word": "庆余年2再相逢版海报",
@@ -8723,6 +8739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 353508,
+      "num": 273663,
+      "word": "后浪官宣定档",
+      "onboard_time": 1683771028,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 352895,
       "num": 352895,
       "word": "seventeen 内地签售会",
@@ -8963,6 +8987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 346390,
+      "num": 346390,
+      "word": "8旬老人为女销户民警含泪帮拍户籍照",
+      "onboard_time": 1683769828,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346017,
       "num": 346017,
       "word": "8名内地赌客在澳门赌场抡椅打斗被捕",
@@ -9179,14 +9211,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 338603,
-      "num": 338603,
-      "word": "曾可妮拍姐姐拍了10多个G",
-      "onboard_time": 1683771809,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 338110,
       "num": 338110,
       "word": "这些同学荣获国家奖学金",
@@ -9241,14 +9265,6 @@
       "onboard_time": 1683650782,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 335904,
-      "num": 263201,
-      "word": "后浪官宣定档",
-      "onboard_time": 1683771028,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 335723,
@@ -10843,14 +10859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 289786,
-      "num": 289786,
-      "word": "8旬老人为女销户民警含泪帮拍户籍照",
-      "onboard_time": 1683769828,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 289546,
       "num": 289546,
       "word": "来自婆婆的分寸感",
@@ -11291,14 +11299,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 277959,
-      "num": 277959,
-      "word": "不良人",
-      "onboard_time": 1683168327,
-      "rank": 32,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 277930,
       "num": 277930,
       "word": "中国人有自己的侃爷",
@@ -11457,6 +11457,14 @@
       "onboard_time": 1683017187,
       "rank": 24,
       "category": "动漫,艺人"
+    },
+    {
+      "raw_hot": 273108,
+      "num": 273108,
+      "word": "刘雅瑟回复网友说她油",
+      "onboard_time": 1683771147,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 272800,
@@ -12369,14 +12377,6 @@
       "onboard_time": 1683737901,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 252437,
-      "num": 252437,
-      "word": "刘雅瑟回复网友说她油",
-      "onboard_time": 1683771147,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 252399,
@@ -13443,6 +13443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 234760,
+      "num": 234760,
+      "word": "一人一句最讨厌的婚礼主持词",
+      "onboard_time": 1683770847,
+      "rank": 24,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 234648,
       "num": 207524,
       "word": "张嘉倪初夏珍珠蜜桃妆",
@@ -14169,14 +14177,6 @@
       "onboard_time": 1683339870,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 221716,
-      "num": 221716,
-      "word": "一人一句最讨厌的婚礼主持词",
-      "onboard_time": 1683770847,
-      "rank": 24,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 221376,
@@ -15385,6 +15385,14 @@
       "onboard_time": 1683005068,
       "rank": 37,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 204744,
+      "num": 204744,
+      "word": "iOS17内部爆料者被苹果抓获",
+      "onboard_time": 1683771624,
+      "rank": 35,
+      "category": "科技"
     },
     {
       "raw_hot": 204648,
@@ -18531,14 +18539,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 158678,
-      "num": 158678,
-      "word": "iOS17内部爆料者被苹果抓获",
-      "onboard_time": 1683771624,
-      "rank": 35,
-      "category": "科技"
-    },
-    {
       "raw_hot": 158568,
       "num": 158568,
       "word": "利剑玫瑰群演分享片场的迪丽热巴",
@@ -19137,6 +19137,14 @@
       "onboard_time": 1682947230,
       "rank": 47,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 148935,
+      "num": 148935,
+      "word": "陈美霖称有结果会去天台寺告诉孩子",
+      "onboard_time": 1683772527,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148578,
@@ -20003,6 +20011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129400,
+      "num": 129400,
+      "word": "张波翻供否认曾写信求原谅",
+      "onboard_time": 1683771089,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129390,
       "num": 129390,
       "word": "不良人一盘棋下了两年",
@@ -20571,6 +20587,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 115767,
+      "num": 115767,
+      "word": "CPI",
+      "onboard_time": 1683772287,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 115590,
       "num": 115590,
       "word": "Shownu亨源将小分队出道",
@@ -20689,14 +20713,6 @@
       "onboard_time": 1682958145,
       "rank": 29,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 112581,
-      "num": 112581,
-      "word": "张波翻供否认曾写信求原谅",
-      "onboard_time": 1683771089,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112016,
@@ -20875,6 +20891,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 105792,
+      "num": 105792,
+      "word": "热火3比2尼克斯",
+      "onboard_time": 1683772827,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105414,
       "num": 129932,
       "word": "复刻茉酸奶牛油果奶昔",
@@ -20961,14 +20985,6 @@
       "onboard_time": 1682870367,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102452,
-      "num": 102452,
-      "word": "CPI",
-      "onboard_time": 1683772287,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 102126,
@@ -22225,6 +22241,14 @@
       "onboard_time": 1683222135,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 31816,
+      "num": 1424436,
+      "word": "天舟六号发射升空瞬间",
+      "onboard_time": 1683772468,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31174,

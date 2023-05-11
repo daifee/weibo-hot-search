@@ -1,10 +1,18 @@
 {
   "startTime": 1683736826788,
-  "endTime": 1683772381768,
+  "endTime": 1683772933742,
   "band_list": [
     {
-      "raw_hot": 1866768,
-      "num": 1866768,
+      "raw_hot": 2445716,
+      "num": 2445716,
+      "word": "重庆姐弟坠亡案被告人二审死刑",
+      "onboard_time": 1683771387,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1897143,
+      "num": 1897143,
       "word": "孟羽童",
       "onboard_time": 1683763770,
       "rank": 0,
@@ -35,14 +43,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1515896,
-      "num": 1515896,
-      "word": "重庆姐弟坠亡案被告人二审死刑",
-      "onboard_time": 1683771387,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1341896,
       "num": 1341896,
       "word": "泰星Tangmo溺亡案宣判",
@@ -51,20 +51,20 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 1297873,
+      "num": 1297873,
+      "word": "再也不敢吃铜锅火锅了",
+      "onboard_time": 1683768626,
+      "rank": 12,
+      "category": "美食,情感"
+    },
+    {
       "raw_hot": 1130417,
       "num": 1130417,
       "word": "孟羽童曾连续工作21小时",
       "onboard_time": 1683765510,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1123491,
-      "num": 1123491,
-      "word": "再也不敢吃铜锅火锅了",
-      "onboard_time": 1683768626,
-      "rank": 12,
-      "category": "美食,情感"
     },
     {
       "raw_hot": 1123153,
@@ -147,6 +147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 541944,
+      "num": 541944,
+      "word": "曾可妮拍姐姐拍了10多个G",
+      "onboard_time": 1683771809,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 490441,
       "num": 490441,
       "word": "经前期综合征",
@@ -187,6 +195,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368048,
+      "num": 368048,
+      "word": "勇士vs湖人",
+      "onboard_time": 1683768868,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 366569,
+      "num": 366569,
+      "word": "不良人",
+      "onboard_time": 1683769108,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 357554,
       "num": 272754,
       "word": "为什么35岁是中年的一道坎",
@@ -195,20 +219,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 354913,
-      "num": 354913,
-      "word": "勇士vs湖人",
-      "onboard_time": 1683768868,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 353508,
+      "num": 273663,
+      "word": "后浪官宣定档",
+      "onboard_time": 1683771028,
+      "rank": 21,
+      "category": "影视"
     },
     {
-      "raw_hot": 338603,
-      "num": 338603,
-      "word": "曾可妮拍姐姐拍了10多个G",
-      "onboard_time": 1683771809,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 346390,
+      "num": 346390,
+      "word": "8旬老人为女销户民警含泪帮拍户籍照",
+      "onboard_time": 1683769828,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336949,
@@ -217,14 +241,6 @@
       "onboard_time": 1683763467,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 335904,
-      "num": 263201,
-      "word": "后浪官宣定档",
-      "onboard_time": 1683771028,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 335322,
@@ -275,14 +291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 289786,
-      "num": 289786,
-      "word": "8旬老人为女销户民警含泪帮拍户籍照",
-      "onboard_time": 1683769828,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 284997,
       "num": 228451,
       "word": "男子强拉妻子退几十元衣服",
@@ -291,12 +299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 277959,
-      "num": 277959,
-      "word": "不良人",
-      "onboard_time": 1683769108,
-      "rank": 43,
-      "category": "动漫"
+      "raw_hot": 273108,
+      "num": 273108,
+      "word": "刘雅瑟回复网友说她油",
+      "onboard_time": 1683771147,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 268701,
@@ -313,14 +321,6 @@
       "onboard_time": 1683737901,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 252437,
-      "num": 252437,
-      "word": "刘雅瑟回复网友说她油",
-      "onboard_time": 1683771147,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 250084,
@@ -347,6 +347,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 234760,
+      "num": 234760,
+      "word": "一人一句最讨厌的婚礼主持词",
+      "onboard_time": 1683770847,
+      "rank": 24,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 229492,
       "num": 229492,
       "word": "举报郑大教授性侵女子称已电话报警",
@@ -361,14 +369,6 @@
       "onboard_time": 1683768028,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 221716,
-      "num": 221716,
-      "word": "一人一句最讨厌的婚礼主持词",
-      "onboard_time": 1683770847,
-      "rank": 24,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 221376,
@@ -433,6 +433,14 @@
       "onboard_time": 1683705332,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204744,
+      "num": 204744,
+      "word": "iOS17内部爆料者被苹果抓获",
+      "onboard_time": 1683771624,
+      "rank": 35,
+      "category": "科技"
     },
     {
       "raw_hot": 203958,
@@ -523,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158678,
-      "num": 158678,
-      "word": "iOS17内部爆料者被苹果抓获",
-      "onboard_time": 1683771624,
-      "rank": 35,
-      "category": "科技"
-    },
-    {
       "raw_hot": 157101,
       "num": 157101,
       "word": "格力称孟羽童已离职",
@@ -585,6 +585,14 @@
       "onboard_time": 1683718707,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 148935,
+      "num": 148935,
+      "word": "陈美霖称有结果会去天台寺告诉孩子",
+      "onboard_time": 1683772527,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144990,
@@ -651,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 129400,
+      "num": 129400,
+      "word": "张波翻供否认曾写信求原谅",
+      "onboard_time": 1683771089,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129297,
       "num": 129297,
       "word": "盆栽哥Jennie合作曲",
@@ -699,20 +715,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 115767,
+      "num": 115767,
+      "word": "CPI",
+      "onboard_time": 1683772287,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 114070,
       "num": 94373,
       "word": "薛之谦演唱会",
       "onboard_time": 1683732570,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 112581,
-      "num": 112581,
-      "word": "张波翻供否认曾写信求原谅",
-      "onboard_time": 1683771089,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109810,
@@ -739,20 +755,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 105792,
+      "num": 105792,
+      "word": "热火3比2尼克斯",
+      "onboard_time": 1683772827,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103579,
       "num": 92532,
       "word": "张若昀不再是张无继了",
       "onboard_time": 1683719795,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 102452,
-      "num": 102452,
-      "word": "CPI",
-      "onboard_time": 1683772287,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 101894,
@@ -889,6 +905,14 @@
       "onboard_time": 1683735386,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 31816,
+      "num": 1424436,
+      "word": "天舟六号发射升空瞬间",
+      "onboard_time": 1683772468,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28921,
