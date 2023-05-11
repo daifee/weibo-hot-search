@@ -1,6 +1,6 @@
 {
   "startTime": 1683736826788,
-  "endTime": 1683779602893,
+  "endTime": 1683782149491,
   "band_list": [
     {
       "raw_hot": 2924775,
@@ -9,6 +9,14 @@
       "onboard_time": 1683775710,
       "rank": 31,
       "category": "综艺,网红"
+    },
+    {
+      "raw_hot": 2562556,
+      "num": 2562556,
+      "word": "浓眉被打",
+      "onboard_time": 1683779252,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 2445716,
@@ -67,6 +75,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1470475,
+      "num": 1470475,
+      "word": "孟羽童回应离职格力",
+      "onboard_time": 1683779671,
+      "rank": 4,
+      "category": "网红,科技"
+    },
+    {
+      "raw_hot": 1350616,
+      "num": 1350616,
+      "word": "孟羽童曾连续工作21小时",
+      "onboard_time": 1683765510,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1341896,
       "num": 1341896,
       "word": "泰星Tangmo溺亡案宣判",
@@ -80,14 +104,6 @@
       "word": "巴厘岛命案已形成初步报告",
       "onboard_time": 1683774867,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1174596,
-      "num": 1174596,
-      "word": "孟羽童曾连续工作21小时",
-      "onboard_time": 1683765510,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -123,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 951003,
+      "num": 738654,
+      "word": "弟弟帮离世哥哥通关塞尔达",
+      "onboard_time": 1683780269,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 938230,
       "num": 938230,
       "word": "男子晒术后取出颅骨碎片薄如甲片",
@@ -137,14 +161,6 @@
       "onboard_time": 1683734787,
       "rank": 3,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 905910,
-      "num": 905910,
-      "word": "浓眉被打",
-      "onboard_time": 1683779252,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 848368,
@@ -179,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 692289,
+      "num": 692289,
+      "word": "金州武术队",
+      "onboard_time": 1683780451,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 685203,
       "num": 685203,
       "word": "广州地铁",
@@ -196,7 +220,7 @@
     },
     {
       "raw_hot": 609342,
-      "num": 330816,
+      "num": 392488,
       "word": "七小时结束了相恋七年的感情",
       "onboard_time": 1683718169,
       "rank": 20,
@@ -204,7 +228,7 @@
     },
     {
       "raw_hot": 593872,
-      "num": 333530,
+      "num": 402213,
       "word": "普通人结婚不建议花的钱",
       "onboard_time": 1683776368,
       "rank": 20,
@@ -267,11 +291,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 435108,
+      "num": 435108,
+      "word": "市监局回应辛巴带货致榴莲价格上涨",
+      "onboard_time": 1683780932,
+      "rank": 17,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 429597,
       "num": 429597,
       "word": "高铁掌掴事件车厢画面公布",
       "onboard_time": 1683730653,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 420255,
+      "num": 420255,
+      "word": "张波叶诚尘微信聊天记录",
+      "onboard_time": 1683780692,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -284,11 +324,19 @@
     },
     {
       "raw_hot": 405363,
-      "num": 327736,
+      "num": 391318,
       "word": "想给男友妈妈买束花却吵架了",
       "onboard_time": 1683776249,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 402534,
+      "num": 402534,
+      "word": "勇士2比3湖人",
+      "onboard_time": 1683779911,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 365822,
@@ -313,6 +361,14 @@
       "onboard_time": 1683771028,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 353501,
+      "num": 353501,
+      "word": "鲁尼",
+      "onboard_time": 1683780392,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 341924,
@@ -475,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256289,
+      "num": 256289,
+      "word": "王鹤棣说好看的人也要好好演戏",
+      "onboard_time": 1683781827,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 252579,
       "num": 252579,
       "word": "新娘崴脚中医伴郎现场针灸",
@@ -571,6 +635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 216069,
+      "num": 216069,
+      "word": "原神3.7",
+      "onboard_time": 1683781470,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 212292,
       "num": 212292,
       "word": "全资进组豆瓣开分7.1",
@@ -619,6 +691,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208842,
+      "num": 208842,
+      "word": "回村后听过最劲爆的八卦",
+      "onboard_time": 1683781890,
+      "rank": 31,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 208642,
+      "num": 208642,
+      "word": "江豚妈妈顶托幼崽长江学游泳",
+      "onboard_time": 1683778831,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203958,
       "num": 203958,
       "word": "江疏影头发上有只蝴蝶",
@@ -627,12 +715,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 199536,
+      "num": 199536,
+      "word": "徐明浩自在随性大片",
+      "onboard_time": 1683781291,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 197246,
+      "num": 197246,
+      "word": "一闪一闪亮星星",
+      "onboard_time": 1683781470,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194753,
       "num": 194753,
       "word": "重庆姐弟坠亡案",
       "onboard_time": 1683768927,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192054,
+      "num": 192054,
+      "word": "消失的她将上映",
+      "onboard_time": 1683781470,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 190675,
@@ -649,6 +761,14 @@
       "onboard_time": 1683751750,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 182770,
+      "num": 182770,
+      "word": "原神",
+      "onboard_time": 1683780031,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 180919,
@@ -707,12 +827,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161680,
+      "num": 161680,
+      "word": "吴谢宇案二审恢复审理",
+      "onboard_time": 1683779069,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160964,
       "num": 160964,
       "word": "赵露思罗一舟后浪官宣海报",
       "onboard_time": 1683774267,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 159124,
+      "num": 159124,
+      "word": "猫毛过敏的朋友来家里玩猫",
+      "onboard_time": 1683781470,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 157101,
@@ -769,14 +905,6 @@
       "onboard_time": 1683777686,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 149557,
-      "num": 149557,
-      "word": "江豚妈妈顶托幼崽长江学游泳",
-      "onboard_time": 1683778831,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149436,
@@ -848,14 +976,6 @@
       "word": "大哥用三轮车拖书去农村摆摊12年",
       "onboard_time": 1683775228,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132654,
-      "num": 132654,
-      "word": "吴谢宇案二审恢复审理",
-      "onboard_time": 1683779069,
-      "rank": 45,
       "category": "社会新闻"
     },
     {

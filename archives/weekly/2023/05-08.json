@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683779602893,
+  "endTime": 1683782149491,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -137,6 +137,14 @@
       "onboard_time": 1683529596,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2562556,
+      "num": 2562556,
+      "word": "浓眉被打",
+      "onboard_time": 1683779252,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 2555114,
@@ -651,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1470475,
+      "num": 1470475,
+      "word": "孟羽童回应离职格力",
+      "onboard_time": 1683779671,
+      "rank": 4,
+      "category": "网红,科技"
+    },
+    {
       "raw_hot": 1469359,
       "num": 1469359,
       "word": "因挖呀挖爆火老师身陷6大传闻",
@@ -729,6 +745,14 @@
       "onboard_time": 1683693158,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1350616,
+      "num": 1350616,
+      "word": "孟羽童曾连续工作21小时",
+      "onboard_time": 1683765510,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1348201,
@@ -913,14 +937,6 @@
       "onboard_time": 1683527196,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1174596,
-      "num": 1174596,
-      "word": "孟羽童曾连续工作21小时",
-      "onboard_time": 1683765510,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1174154,
@@ -1155,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 951003,
+      "num": 738654,
+      "word": "弟弟帮离世哥哥通关塞尔达",
+      "onboard_time": 1683780269,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 949837,
       "num": 949837,
       "word": "36岁常青藤毕业确诊癌症后反而很开心",
@@ -1257,14 +1281,6 @@
       "onboard_time": 1683597988,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 905910,
-      "num": 905910,
-      "word": "浓眉被打",
-      "onboard_time": 1683779252,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 904970,
@@ -1563,6 +1579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 692289,
+      "num": 692289,
+      "word": "金州武术队",
+      "onboard_time": 1683780451,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 691733,
       "num": 691733,
       "word": "最适合谈恋爱的星座",
@@ -1796,7 +1820,7 @@
     },
     {
       "raw_hot": 609342,
-      "num": 353000,
+      "num": 392488,
       "word": "七小时结束了相恋七年的感情",
       "onboard_time": 1683718169,
       "rank": 40,
@@ -1852,7 +1876,7 @@
     },
     {
       "raw_hot": 593872,
-      "num": 333530,
+      "num": 402213,
       "word": "普通人结婚不建议花的钱",
       "onboard_time": 1683776368,
       "rank": 20,
@@ -2467,6 +2491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 435108,
+      "num": 435108,
+      "word": "市监局回应辛巴带货致榴莲价格上涨",
+      "onboard_time": 1683780932,
+      "rank": 17,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 433883,
       "num": 433883,
       "word": "漫长的季节 封神",
@@ -2595,6 +2627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 420255,
+      "num": 420255,
+      "word": "张波叶诚尘微信聊天记录",
+      "onboard_time": 1683780692,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 418003,
       "num": 418003,
       "word": "黄景瑜对张婧仪说你再找找",
@@ -2684,7 +2724,7 @@
     },
     {
       "raw_hot": 405363,
-      "num": 327736,
+      "num": 391318,
       "word": "想给男友妈妈买束花却吵架了",
       "onboard_time": 1683776249,
       "rank": 22,
@@ -2697,6 +2737,14 @@
       "onboard_time": 1683627026,
       "rank": 24,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 402534,
+      "num": 402534,
+      "word": "勇士2比3湖人",
+      "onboard_time": 1683779911,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 401560,
@@ -3233,6 +3281,14 @@
       "onboard_time": 1683771028,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 353501,
+      "num": 353501,
+      "word": "鲁尼",
+      "onboard_time": 1683780392,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 352425,
@@ -4587,6 +4643,14 @@
       "category": "科技,国内要闻"
     },
     {
+      "raw_hot": 256289,
+      "num": 256289,
+      "word": "王鹤棣说好看的人也要好好演戏",
+      "onboard_time": 1683781827,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 255832,
       "num": 255832,
       "word": "费城76人",
@@ -5331,6 +5395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216069,
+      "num": 216069,
+      "word": "原神3.7",
+      "onboard_time": 1683781470,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 215966,
       "num": 215966,
       "word": "84岁姥姥和51岁妈妈一起晨读",
@@ -5497,6 +5569,22 @@
       "onboard_time": 1683599666,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208842,
+      "num": 208842,
+      "word": "回村后听过最劲爆的八卦",
+      "onboard_time": 1683781890,
+      "rank": 31,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 208642,
+      "num": 208642,
+      "word": "江豚妈妈顶托幼崽长江学游泳",
+      "onboard_time": 1683778831,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208583,
@@ -5691,6 +5779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199536,
+      "num": 199536,
+      "word": "徐明浩自在随性大片",
+      "onboard_time": 1683781291,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199461,
       "num": 199461,
       "word": "种地吧",
@@ -5736,6 +5832,14 @@
       "word": "长月烬明全员告别",
       "onboard_time": 1683630270,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 197246,
+      "num": 197246,
+      "word": "一闪一闪亮星星",
+      "onboard_time": 1683781470,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -5881,6 +5985,14 @@
       "onboard_time": 1683642333,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 192054,
+      "num": 192054,
+      "word": "消失的她将上映",
+      "onboard_time": 1683781470,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 192043,
@@ -6065,6 +6177,14 @@
       "onboard_time": 1683725192,
       "rank": 42,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 182770,
+      "num": 182770,
+      "word": "原神",
+      "onboard_time": 1683780031,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 182635,
@@ -6459,6 +6579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 161680,
+      "num": 161680,
+      "word": "吴谢宇案二审恢复审理",
+      "onboard_time": 1683779069,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161304,
       "num": 161304,
       "word": "江阴枪击案两名嫌犯尸体被发现",
@@ -6505,6 +6633,14 @@
       "onboard_time": 1683448291,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 159124,
+      "num": 159124,
+      "word": "猫毛过敏的朋友来家里玩猫",
+      "onboard_time": 1683781470,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 158950,
@@ -6665,14 +6801,6 @@
       "onboard_time": 1683681152,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 149557,
-      "num": 149557,
-      "word": "江豚妈妈顶托幼崽长江学游泳",
-      "onboard_time": 1683778831,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149173,
@@ -6960,14 +7088,6 @@
       "word": "警号055308封存",
       "onboard_time": 1683562766,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132654,
-      "num": 132654,
-      "word": "吴谢宇案二审恢复审理",
-      "onboard_time": 1683779069,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
