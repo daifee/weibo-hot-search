@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683786098032,
+  "endTime": 1683786844372,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -451,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1745252,
+      "num": 1745252,
+      "word": "弟弟帮离世哥哥通关塞尔达",
+      "onboard_time": 1683780269,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1742874,
       "num": 1742874,
       "word": "郑州大学回应女子称11年前遭老师侵犯",
@@ -465,14 +473,6 @@
       "onboard_time": 1683763770,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1685259,
-      "num": 1685259,
-      "word": "弟弟帮离世哥哥通关塞尔达",
-      "onboard_time": 1683780269,
-      "rank": 11,
-      "category": "游戏"
     },
     {
       "raw_hot": 1676861,
@@ -1555,6 +1555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 732223,
+      "num": 732223,
+      "word": "旺旺医院",
+      "onboard_time": 1683785127,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 729071,
       "num": 519357,
       "word": "撞死了一只羊",
@@ -1577,6 +1585,14 @@
       "onboard_time": 1683508648,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 723508,
+      "num": 723508,
+      "word": "孙俪的背",
+      "onboard_time": 1683784048,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 722003,
@@ -1971,14 +1987,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 581275,
-      "num": 581275,
-      "word": "孙俪的背",
-      "onboard_time": 1683784048,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 581138,
       "num": 581138,
       "word": "相亲对象很好但我好像不喜欢",
@@ -2059,8 +2067,8 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 552532,
-      "num": 552532,
+      "raw_hot": 553204,
+      "num": 553204,
       "word": "一闪一闪亮星星",
       "onboard_time": 1683781470,
       "rank": 34,
@@ -2121,6 +2129,14 @@
       "onboard_time": 1683520712,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 538878,
+      "num": 538878,
+      "word": "老师意外发现13岁学生已是公司老板",
+      "onboard_time": 1683784949,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 536629,
@@ -2707,14 +2723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 410562,
-      "num": 227393,
-      "word": "老师意外发现13岁学生已是公司老板",
-      "onboard_time": 1683784949,
-      "rank": 30,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 409305,
       "num": 334315,
       "word": "易烊千玺穿短裤了",
@@ -3040,6 +3048,14 @@
       "word": "玉骨遥到底播不播",
       "onboard_time": 1683727954,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 371571,
+      "num": 371571,
+      "word": "蒋雯丽明道转角之恋开分2.9",
+      "onboard_time": 1683784349,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -3427,14 +3443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 342759,
-      "num": 342759,
-      "word": "蒋雯丽明道转角之恋开分2.9",
-      "onboard_time": 1683784349,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 342719,
       "num": 318659,
       "word": "张若昀不再是张无继了",
@@ -3665,14 +3673,6 @@
       "onboard_time": 1683708391,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 324260,
-      "num": 324260,
-      "word": "旺旺医院",
-      "onboard_time": 1683785127,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 323756,
@@ -4313,6 +4313,14 @@
       "onboard_time": 1683628890,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 279549,
+      "num": 279549,
+      "word": "奔跑吧明晚来听青春歌会",
+      "onboard_time": 1683783327,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 278512,
@@ -4987,6 +4995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 242693,
+      "num": 217861,
+      "word": "金钟仁今日入伍",
+      "onboard_time": 1683786268,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242610,
       "num": 242610,
       "word": "咽喉炎",
@@ -5011,20 +5027,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239656,
+      "num": 239656,
+      "word": "原神3.7",
+      "onboard_time": 1683781470,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 239561,
       "num": 239561,
       "word": "地铁上被陌生人塞了奶茶",
       "onboard_time": 1683563424,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 238327,
-      "num": 227190,
-      "word": "奔跑吧明晚来听青春歌会",
-      "onboard_time": 1683783327,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 237881,
@@ -5265,14 +5281,6 @@
       "onboard_time": 1683633510,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 227720,
-      "num": 227720,
-      "word": "原神3.7",
-      "onboard_time": 1683781470,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 227558,
@@ -6035,6 +6043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193509,
+      "num": 193509,
+      "word": "EXO将发行正规七辑",
+      "onboard_time": 1683786209,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 193243,
       "num": 193243,
       "word": "王力宏陶喆同框",
@@ -6249,6 +6265,14 @@
       "onboard_time": 1683710369,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 184904,
+      "num": 184904,
+      "word": "谢娜说我们组互相都不熟",
+      "onboard_time": 1683784768,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 183973,
@@ -6747,14 +6771,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 156790,
-      "num": 156790,
-      "word": "谢娜说我们组互相都不熟",
-      "onboard_time": 1683784768,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 156081,
       "num": 156081,
       "word": "6年级女孩2个月手绘全班毕业照",
@@ -7091,6 +7107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137544,
+      "num": 137544,
+      "word": "小朋友偷看豪车被邀请进车行参观",
+      "onboard_time": 1683786567,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137022,
       "num": 137022,
       "word": "MSI胜败分组赛抽签",
@@ -7281,6 +7305,14 @@
       "onboard_time": 1683468513,
       "rank": 29,
       "category": "科技,情感"
+    },
+    {
+      "raw_hot": 125291,
+      "num": 125291,
+      "word": "论文查重率0%是种什么体验",
+      "onboard_time": 1683786448,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 124355,
