@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683829236014,
+  "endTime": 1683830007655,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -9065,6 +9065,14 @@
       "onboard_time": 1683498256,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 34113,
+      "num": 34113,
+      "word": "男生误把甲酸滴油锅意外合成强力胶",
+      "onboard_time": 1683829274,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33268,
