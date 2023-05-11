@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683794008485,
+  "endTime": 1683796599192,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -611,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1533941,
+      "num": 1533941,
+      "word": "Apple ID",
+      "onboard_time": 1683793530,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1517967,
       "num": 1517967,
       "word": "结婚当天建议用的假东西",
@@ -945,6 +953,14 @@
       "onboard_time": 1683624870,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1184107,
+      "num": 1184107,
+      "word": "癌症筛查 早发现早治疗未必是对的",
+      "onboard_time": 1683792330,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 1183713,
@@ -1795,6 +1811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 648282,
+      "num": 648282,
+      "word": "谁还敢在朋友圈玩梗",
+      "onboard_time": 1683790827,
+      "rank": 8,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 637804,
       "num": 637804,
       "word": "张云龙 竹业篇",
@@ -1921,14 +1945,6 @@
       "onboard_time": 1683608134,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 597621,
-      "num": 597621,
-      "word": "谁还敢在朋友圈玩梗",
-      "onboard_time": 1683790827,
-      "rank": 8,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 596669,
@@ -2347,6 +2363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 500968,
+      "num": 500968,
+      "word": "苹果 钓鱼",
+      "onboard_time": 1683793227,
+      "rank": 32,
+      "category": "科技"
+    },
+    {
       "raw_hot": 498692,
       "num": 498692,
       "word": "A股",
@@ -2601,14 +2625,6 @@
       "onboard_time": 1683675506,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 442202,
-      "num": 442202,
-      "word": "癌症筛查 早发现早治疗未必是对的",
-      "onboard_time": 1683792330,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 438489,
@@ -2867,6 +2883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 403030,
+      "num": 391258,
+      "word": "美依礼芽素颜",
+      "onboard_time": 1683794069,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 402558,
       "num": 285921,
       "word": "迪丽热巴机场粉裙造型",
@@ -2976,6 +3000,14 @@
       "word": "内部人员称不排除安检后拿到刀",
       "onboard_time": 1683594329,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 388421,
+      "num": 388421,
+      "word": "北京 震感",
+      "onboard_time": 1683793351,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -4059,6 +4091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 301921,
+      "num": 218663,
+      "word": "武汉王家湾",
+      "onboard_time": 1683795268,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301788,
       "num": 301788,
       "word": "守村人见新娘穿破洞裤送来干净裤子",
@@ -4259,6 +4299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290520,
+      "num": 290520,
+      "word": "中山一小车冲入河内一家5口身亡",
+      "onboard_time": 1683792508,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290401,
       "num": 290401,
       "word": "杨幂新头像来源",
@@ -4321,6 +4369,14 @@
       "onboard_time": 1683728734,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 286656,
+      "num": 286656,
+      "word": "医生跪着托举12分钟保住新生儿",
+      "onboard_time": 1683794488,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286056,
@@ -4459,14 +4515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 275294,
-      "num": 275294,
-      "word": "苹果 钓鱼",
-      "onboard_time": 1683793227,
-      "rank": 32,
-      "category": "科技"
-    },
-    {
       "raw_hot": 275118,
       "num": 275118,
       "word": "周迅看秀造型",
@@ -4529,6 +4577,14 @@
       "onboard_time": 1683587541,
       "rank": 39,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 273148,
+      "num": 218549,
+      "word": "大佛每天流800次眼泪",
+      "onboard_time": 1683795089,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 273108,
@@ -5099,22 +5155,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 246761,
-      "num": 246761,
-      "word": "中山一小车冲入河内一家5口身亡",
-      "onboard_time": 1683792508,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 246433,
-      "num": 246433,
-      "word": "Apple ID",
-      "onboard_time": 1683793530,
-      "rank": 30,
-      "category": "科技"
-    },
-    {
       "raw_hot": 246277,
       "num": 308582,
       "word": "全红婵夺冠后又被考拉抱",
@@ -5419,14 +5459,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 229723,
-      "num": 229723,
-      "word": "北京 震感",
-      "onboard_time": 1683793351,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229541,
       "num": 229541,
       "word": "王一博秀场滑冰",
@@ -5547,6 +5579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 221745,
+      "num": 221745,
+      "word": "李莎旻子语速",
+      "onboard_time": 1683794189,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221376,
       "num": 221376,
       "word": "NBA",
@@ -5633,6 +5673,14 @@
       "onboard_time": 1683691471,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 218344,
+      "num": 1234799,
+      "word": "中国科学家在月壤中发现天然玻璃纤维",
+      "onboard_time": 1683793709,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218074,
@@ -7547,6 +7595,14 @@
       "category": "科技,情感"
     },
     {
+      "raw_hot": 124592,
+      "num": 124592,
+      "word": "清清第一黑粉不然",
+      "onboard_time": 1683796226,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 124355,
       "num": 141481,
       "word": "WE官宣biubiu离队",
@@ -7593,6 +7649,14 @@
       "onboard_time": 1683717449,
       "rank": 48,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 121413,
+      "num": 121413,
+      "word": "旅行新蜜蜂",
+      "onboard_time": 1683796047,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 120361,
@@ -8091,14 +8155,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 51205,
-      "num": 714990,
-      "word": "中国科学家在月壤中发现天然玻璃纤维",
-      "onboard_time": 1683793709,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 47716,
       "num": 152728,
       "word": "首个中国航天保障用品诞生",
@@ -8324,6 +8380,9 @@
     },
     {
       "word": "#习近平在河北雄安新区考察#"
+    },
+    {
+      "word": "#习近平总书记这样谋划雄安新区发展#"
     }
   ]
 }

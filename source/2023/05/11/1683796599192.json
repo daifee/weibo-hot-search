@@ -1,0 +1,410 @@
+{
+  "runTime": 1683796599192,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1533941,
+        "num": 1533941,
+        "word": "Apple ID",
+        "onboard_time": 1683793530,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1322537,
+        "num": 1322537,
+        "word": "老师意外发现13岁学生已是公司老板",
+        "onboard_time": 1683784949,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 218344,
+        "num": 1234799,
+        "word": "中国科学家在月壤中发现天然玻璃纤维",
+        "onboard_time": 1683793709,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1184107,
+        "num": 1184107,
+        "word": "癌症筛查 早发现早治疗未必是对的",
+        "onboard_time": 1683792330,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 716707,
+        "num": 716707,
+        "word": "毛晓彤说没有打针",
+        "onboard_time": 1683789448,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 648282,
+        "num": 648282,
+        "word": "谁还敢在朋友圈玩梗",
+        "onboard_time": 1683790827,
+        "rank": 5,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 610875,
+        "num": 610875,
+        "word": "辽宁一养猪场外墙发现无名女尸",
+        "onboard_time": 1683787226,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511198,
+        "num": 511198,
+        "word": "黄子韬被狗亲完臭到打了一套拳",
+        "onboard_time": 1683790050,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 500968,
+        "num": 500968,
+        "word": "苹果 钓鱼",
+        "onboard_time": 1683793227,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 394181,
+        "num": 394181,
+        "word": "孟羽童回应离职格力",
+        "onboard_time": 1683779671,
+        "rank": 9,
+        "category": "网红,科技"
+      },
+      {
+        "raw_hot": 805487,
+        "num": 392107,
+        "word": "刘亦菲露腰了",
+        "onboard_time": 1683783508,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 403030,
+        "num": 391258,
+        "word": "美依礼芽素颜",
+        "onboard_time": 1683794069,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388421,
+        "num": 388421,
+        "word": "北京 震感",
+        "onboard_time": 1683793351,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461193,
+        "num": 385655,
+        "word": "孙俪的背",
+        "onboard_time": 1683784048,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 380647,
+        "num": 380647,
+        "word": "B站UP主吐槽浪姐4",
+        "onboard_time": 1683775710,
+        "rank": 14,
+        "category": "综艺,网红"
+      },
+      {
+        "raw_hot": 360245,
+        "num": 360245,
+        "word": "那英真的没在说脏话",
+        "onboard_time": 1683782790,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347312,
+        "num": 347312,
+        "word": "母亲遭陌生男子猥亵儿子一招制服",
+        "onboard_time": 1683789690,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315654,
+        "num": 315654,
+        "word": "辛巴 榴莲",
+        "onboard_time": 1683769228,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 309831,
+        "num": 309831,
+        "word": "弟弟帮离世哥哥通关塞尔达",
+        "onboard_time": 1683780269,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 307136,
+        "num": 307136,
+        "word": "爱奇艺待播剧排播表",
+        "onboard_time": 1683789148,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290520,
+        "num": 290520,
+        "word": "中山一小车冲入河内一家5口身亡",
+        "onboard_time": 1683792508,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286656,
+        "num": 286656,
+        "word": "医生跪着托举12分钟保住新生儿",
+        "onboard_time": 1683794488,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284101,
+        "num": 284101,
+        "word": "张波叶诚尘微信聊天记录",
+        "onboard_time": 1683780692,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265529,
+        "num": 265529,
+        "word": "蒋雯丽明道你们图啥",
+        "onboard_time": 1683789629,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255537,
+        "num": 255537,
+        "word": "浓眉被打",
+        "onboard_time": 1683779252,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236039,
+        "num": 236039,
+        "word": "再也不敢吃铜锅火锅了",
+        "onboard_time": 1683768626,
+        "rank": 25,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 221745,
+        "num": 221745,
+        "word": "李莎旻子语速",
+        "onboard_time": 1683794189,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221232,
+        "num": 221232,
+        "word": "张子萱终于不给陈赫打码了",
+        "onboard_time": 1683731492,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220631,
+        "num": 220631,
+        "word": "巴厘岛命案已形成初步报告",
+        "onboard_time": 1683774867,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218820,
+        "num": 218820,
+        "word": "屈楚萧演张万森吗",
+        "onboard_time": 1683787348,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301921,
+        "num": 218663,
+        "word": "武汉王家湾",
+        "onboard_time": 1683795268,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273148,
+        "num": 218549,
+        "word": "大佛每天流800次眼泪",
+        "onboard_time": 1683795089,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 217985,
+        "num": 217985,
+        "word": "女游客在马来西亚潜水被教练强吻",
+        "onboard_time": 1683788128,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213978,
+        "num": 213978,
+        "word": "Ella亲吴倩",
+        "onboard_time": 1683791308,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208887,
+        "num": 208887,
+        "word": "吴谢宇曾写五万字亲笔信寄亲友求活路",
+        "onboard_time": 1683792029,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207405,
+        "num": 207405,
+        "word": "论文查重率0%是种什么体验",
+        "onboard_time": 1683786448,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179688,
+        "num": 179688,
+        "word": "美依礼芽",
+        "onboard_time": 1683784048,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162377,
+        "num": 162377,
+        "word": "全智贤脸颊比心生图",
+        "onboard_time": 1683789934,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161809,
+        "num": 161809,
+        "word": "七小时结束了相恋七年的感情",
+        "onboard_time": 1683718169,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148587,
+        "num": 148587,
+        "word": "全职太太离婚发现丈夫资产过亿",
+        "onboard_time": 1683721650,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141086,
+        "num": 141086,
+        "word": "重庆姐弟坠亡案被告人二审死刑",
+        "onboard_time": 1683771387,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140419,
+        "num": 140419,
+        "word": "金晨 不想任何声音模糊和影响作品本身",
+        "onboard_time": 1683778109,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139111,
+        "num": 139111,
+        "word": "孟羽童曾连续工作21小时",
+        "onboard_time": 1683765510,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130852,
+        "num": 130852,
+        "word": "市监局回应辛巴带货致榴莲价格上涨",
+        "onboard_time": 1683780932,
+        "rank": 43,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 125377,
+        "num": 125377,
+        "word": "王鹤棣说好看的人也要好好演戏",
+        "onboard_time": 1683781827,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124592,
+        "num": 124592,
+        "word": "清清第一黑粉不然",
+        "onboard_time": 1683796226,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121413,
+        "num": 121413,
+        "word": "旅行新蜜蜂",
+        "onboard_time": 1683796047,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120881,
+        "num": 120881,
+        "word": "杭州多个探头为了它们几年一动不动",
+        "onboard_time": 1683790169,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113877,
+        "num": 113877,
+        "word": "EXO将发行正规七辑",
+        "onboard_time": 1683786209,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113258,
+        "num": 113258,
+        "word": "是谁亲了美依礼芽",
+        "onboard_time": 1683792209,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记这样谋划雄安新区发展#"
+    }
+  }
+}

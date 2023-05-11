@@ -1,6 +1,6 @@
 {
   "startTime": 1683736826788,
-  "endTime": 1683794008485,
+  "endTime": 1683796599192,
   "band_list": [
     {
       "raw_hot": 2924775,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1533941,
+      "num": 1533941,
+      "word": "Apple ID",
+      "onboard_time": 1683793530,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1470475,
       "num": 1470475,
       "word": "孟羽童回应离职格力",
@@ -129,6 +137,14 @@
       "onboard_time": 1683774867,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1184107,
+      "num": 1184107,
+      "word": "癌症筛查 早发现早治疗未必是对的",
+      "onboard_time": 1683792330,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 1141162,
@@ -291,20 +307,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 648282,
+      "num": 648282,
+      "word": "谁还敢在朋友圈玩梗",
+      "onboard_time": 1683790827,
+      "rank": 8,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 609342,
       "num": 392488,
       "word": "七小时结束了相恋七年的感情",
       "onboard_time": 1683718169,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 597621,
-      "num": 597621,
-      "word": "谁还敢在朋友圈玩梗",
-      "onboard_time": 1683790827,
-      "rank": 8,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 593872,
@@ -371,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 500968,
+      "num": 500968,
+      "word": "苹果 钓鱼",
+      "onboard_time": 1683793227,
+      "rank": 32,
+      "category": "科技"
+    },
+    {
       "raw_hot": 490441,
       "num": 490441,
       "word": "经前期综合征",
@@ -419,14 +443,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 442202,
-      "num": 442202,
-      "word": "癌症筛查 早发现早治疗未必是对的",
-      "onboard_time": 1683792330,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 435771,
       "num": 435771,
       "word": "母亲遭陌生男子猥亵儿子一招制服",
@@ -467,12 +483,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 403030,
+      "num": 391258,
+      "word": "美依礼芽素颜",
+      "onboard_time": 1683794069,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 402534,
       "num": 402534,
       "word": "勇士2比3湖人",
       "onboard_time": 1683779911,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 388421,
+      "num": 388421,
+      "word": "北京 震感",
+      "onboard_time": 1683793351,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 377972,
@@ -627,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 301921,
+      "num": 218663,
+      "word": "武汉王家湾",
+      "onboard_time": 1683795268,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298933,
       "num": 260643,
       "word": "未定事件簿",
@@ -667,6 +707,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290520,
+      "num": 290520,
+      "word": "中山一小车冲入河内一家5口身亡",
+      "onboard_time": 1683792508,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286656,
+      "num": 286656,
+      "word": "医生跪着托举12分钟保住新生儿",
+      "onboard_time": 1683794488,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284997,
       "num": 228451,
       "word": "男子强拉妻子退几十元衣服",
@@ -691,20 +747,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 275294,
-      "num": 275294,
-      "word": "苹果 钓鱼",
-      "onboard_time": 1683793227,
-      "rank": 32,
-      "category": "科技"
-    },
-    {
       "raw_hot": 273788,
       "num": 273788,
       "word": "吴谢宇曾写五万字亲笔信寄亲友求活路",
       "onboard_time": 1683792029,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273148,
+      "num": 218549,
+      "word": "大佛每天流800次眼泪",
+      "onboard_time": 1683795089,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 273108,
@@ -795,22 +851,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 246761,
-      "num": 246761,
-      "word": "中山一小车冲入河内一家5口身亡",
-      "onboard_time": 1683792508,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 246433,
-      "num": 246433,
-      "word": "Apple ID",
-      "onboard_time": 1683793530,
-      "rank": 30,
-      "category": "科技"
-    },
-    {
       "raw_hot": 243613,
       "num": 243613,
       "word": "动作导演回应刘诗诗替身争议",
@@ -875,14 +915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 229723,
-      "num": 229723,
-      "word": "北京 震感",
-      "onboard_time": 1683793351,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229492,
       "num": 229492,
       "word": "举报郑大教授性侵女子称已电话报警",
@@ -897,6 +929,14 @@
       "onboard_time": 1683768028,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 221745,
+      "num": 221745,
+      "word": "李莎旻子语速",
+      "onboard_time": 1683794189,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 221376,
@@ -921,6 +961,14 @@
       "onboard_time": 1683768626,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 218344,
+      "num": 1234799,
+      "word": "中国科学家在月壤中发现天然玻璃纤维",
+      "onboard_time": 1683793709,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214807,
@@ -1395,6 +1443,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 124592,
+      "num": 124592,
+      "word": "清清第一黑粉不然",
+      "onboard_time": 1683796226,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 121413,
+      "num": 121413,
+      "word": "旅行新蜜蜂",
+      "onboard_time": 1683796047,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 120384,
       "num": 120384,
       "word": "狐妖小红娘竹业篇剧版vs原版",
@@ -1611,14 +1675,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 51205,
-      "num": 714990,
-      "word": "中国科学家在月壤中发现天然玻璃纤维",
-      "onboard_time": 1683793709,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 47716,
       "num": 152728,
       "word": "首个中国航天保障用品诞生",
@@ -1727,6 +1783,9 @@
     },
     {
       "word": "#习近平在河北雄安新区考察#"
+    },
+    {
+      "word": "#习近平总书记这样谋划雄安新区发展#"
     }
   ]
 }
