@@ -1,0 +1,410 @@
+{
+  "runTime": 1683833600998,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 346196,
+        "num": 346196,
+        "word": "汶川地震15周年",
+        "onboard_time": 1683824421,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399738,
+        "num": 320789,
+        "word": "霍华德台独",
+        "onboard_time": 1683819510,
+        "rank": 1,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 7143,
+        "num": 276397,
+        "word": "天舟六号有何特别之处",
+        "onboard_time": 1683810805,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259062,
+        "num": 259062,
+        "word": "512",
+        "onboard_time": 1683817532,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122089,
+        "num": 122089,
+        "word": "塞尔达",
+        "onboard_time": 1683819271,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 83639,
+        "num": 83639,
+        "word": "B站播放时长最长内容是高等数学",
+        "onboard_time": 1683817473,
+        "rank": 5,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 68103,
+        "num": 68103,
+        "word": "孟美岐一把顺利拿本",
+        "onboard_time": 1683814172,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66662,
+        "num": 66662,
+        "word": "专家建议给生孩子的人发薪水",
+        "onboard_time": 1683812427,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64456,
+        "num": 64456,
+        "word": "东北大哥称不想再管吵架事件",
+        "onboard_time": 1683822024,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46687,
+        "num": 46687,
+        "word": "英国首批三亲婴儿诞生",
+        "onboard_time": 1683808168,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97100,
+        "num": 45911,
+        "word": "徐娇泳装",
+        "onboard_time": 1683807388,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61259,
+        "num": 45839,
+        "word": "长沙霸停数月车位女子道歉",
+        "onboard_time": 1683821606,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44633,
+        "num": 44633,
+        "word": "权志龙ins",
+        "onboard_time": 1683816212,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 42999,
+        "num": 42999,
+        "word": "YG新女团出道",
+        "onboard_time": 1683818132,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37673,
+        "num": 37673,
+        "word": "向佐的工作人员叫王一博",
+        "onboard_time": 1683812849,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34871,
+        "num": 34871,
+        "word": "霍华德",
+        "onboard_time": 1683812731,
+        "rank": 15,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 33723,
+        "num": 33723,
+        "word": "4月份人民币存款减少4609亿元",
+        "onboard_time": 1683803425,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 33613,
+        "num": 33613,
+        "word": "BABYMONSTER出道名单",
+        "onboard_time": 1683817652,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33224,
+        "num": 33224,
+        "word": "范丞丞称演戏是最轻松的职业",
+        "onboard_time": 1683802408,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32185,
+        "num": 32185,
+        "word": "狗狗失踪7年后回家主人煮饺子庆团圆",
+        "onboard_time": 1683807927,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41356,
+        "num": 32184,
+        "word": "人真的可以删除自己的记忆",
+        "onboard_time": 1683815553,
+        "rank": 20,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 37843,
+        "num": 32175,
+        "word": "姐姐知道我偷偷买房后",
+        "onboard_time": 1683811766,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32147,
+        "num": 32147,
+        "word": "突然爆更很可能是他失业了",
+        "onboard_time": 1683806908,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31429,
+        "num": 31429,
+        "word": "22岁辅警为2岁女童捐献骨髓",
+        "onboard_time": 1683819090,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31300,
+        "num": 31300,
+        "word": "独生子一人推2个轮椅医院照顾爸妈",
+        "onboard_time": 1683822625,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30859,
+        "num": 30859,
+        "word": "塞尔达 海拉鲁我来了",
+        "onboard_time": 1683818431,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30408,
+        "num": 30408,
+        "word": "邓紫棋周杰伦演唱会点歌黑色毛衣",
+        "onboard_time": 1683815798,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 29661,
+        "num": 29661,
+        "word": "王国之泪 解锁",
+        "onboard_time": 1683817830,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28658,
+        "num": 28658,
+        "word": "易梦玲美黑",
+        "onboard_time": 1683800548,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 25421,
+        "num": 25421,
+        "word": "内娱95后浓颜系代表",
+        "onboard_time": 1683814770,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 58119,
+        "num": 25421,
+        "word": "男生误把甲酸滴油锅意外合成强力胶",
+        "onboard_time": 1683829274,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25378,
+        "num": 25378,
+        "word": "祝福生生不息的汶川",
+        "onboard_time": 1683824719,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24142,
+        "num": 24142,
+        "word": "bin说到做到",
+        "onboard_time": 1683816991,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23914,
+        "num": 23914,
+        "word": "那英 问你妈妈好",
+        "onboard_time": 1683808586,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22592,
+        "num": 22592,
+        "word": "汪峰说自己简直太狗屎了",
+        "onboard_time": 1683819271,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22212,
+        "num": 22212,
+        "word": "林俊杰 巡演",
+        "onboard_time": 1683815553,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22162,
+        "num": 22162,
+        "word": "宁艺卓红丝带编发",
+        "onboard_time": 1683818191,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21983,
+        "num": 21983,
+        "word": "极乐净土内娱舞台",
+        "onboard_time": 1683819929,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21770,
+        "num": 21770,
+        "word": "其实父母什么都知道",
+        "onboard_time": 1683813931,
+        "rank": 38,
+        "category": "情感,影视"
+      },
+      {
+        "raw_hot": 21760,
+        "num": 21760,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1683816694,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20237,
+        "num": 21726,
+        "word": "护心",
+        "onboard_time": 1683803066,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19995,
+        "num": 21707,
+        "word": "柳智敏贝雷帽造型直拍",
+        "onboard_time": 1683821487,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 19546,
+        "num": 21667,
+        "word": "民警为聋哑夫妇反诈写满五页纸",
+        "onboard_time": 1683823221,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 19166,
+        "num": 21626,
+        "word": "九街",
+        "onboard_time": 1683816273,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19100,
+        "num": 21598,
+        "word": "易烊千玺的实体专辑三公斤",
+        "onboard_time": 1683813811,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18436,
+        "num": 21541,
+        "word": "白敬亭汉堡酱撒裤子上了",
+        "onboard_time": 1683816751,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17628,
+        "num": 21507,
+        "word": "每个女孩童年都有的一件衣服",
+        "onboard_time": 1683822146,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16504,
+        "num": 21464,
+        "word": "护心排播咋想的",
+        "onboard_time": 1683802227,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15806,
+        "num": 21431,
+        "word": "五月天演唱会荧光棒涨价三倍",
+        "onboard_time": 1683813390,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 15508,
+        "num": 21392,
+        "word": "ASA出道",
+        "onboard_time": 1683818669,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记这样谋划雄安新区发展#"
+    }
+  }
+}
