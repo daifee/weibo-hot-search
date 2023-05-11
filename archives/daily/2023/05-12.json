@@ -1,6 +1,6 @@
 {
   "startTime": 1683822124198,
-  "endTime": 1683830007655,
+  "endTime": 1683832401412,
   "band_list": [
     {
       "raw_hot": 3648870,
@@ -25,6 +25,14 @@
       "onboard_time": 1683807388,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 940123,
+      "num": 940123,
+      "word": "汶川地震15周年",
+      "onboard_time": 1683824421,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 841215,
@@ -97,14 +105,6 @@
       "onboard_time": 1683815798,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 410609,
-      "num": 410609,
-      "word": "汶川地震15周年",
-      "onboard_time": 1683824421,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 358677,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68762,
+      "num": 34113,
+      "word": "男生误把甲酸滴油锅意外合成强力胶",
+      "onboard_time": 1683829274,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67641,
       "num": 67641,
       "word": "民警为聋哑夫妇反诈写满五页纸",
@@ -464,14 +472,6 @@
       "word": "室友记录下盲人博士学日语",
       "onboard_time": 1683820589,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34113,
-      "num": 34113,
-      "word": "男生误把甲酸滴油锅意外合成强力胶",
-      "onboard_time": 1683829274,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
