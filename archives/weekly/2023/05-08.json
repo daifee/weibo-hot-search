@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683796599192,
+  "endTime": 1683797613020,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -611,8 +611,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1533941,
-      "num": 1533941,
+      "raw_hot": 1537239,
+      "num": 1537239,
       "word": "Apple ID",
       "onboard_time": 1683793530,
       "rank": 30,
@@ -955,8 +955,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1184107,
-      "num": 1184107,
+      "raw_hot": 1189307,
+      "num": 1189307,
       "word": "癌症筛查 早发现早治疗未必是对的",
       "onboard_time": 1683792330,
       "rank": 27,
@@ -969,6 +969,14 @@
       "onboard_time": 1683516688,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1183186,
+      "num": 1183186,
+      "word": "浦发银行回应员工降薪",
+      "onboard_time": 1683796887,
+      "rank": 3,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1183120,
@@ -1513,6 +1521,14 @@
       "onboard_time": 1683780692,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 769599,
+      "num": 413396,
+      "word": "美依礼芽素颜",
+      "onboard_time": 1683794069,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 764469,
@@ -2259,6 +2275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 523364,
+      "num": 523364,
+      "word": "苹果 钓鱼",
+      "onboard_time": 1683793227,
+      "rank": 32,
+      "category": "科技"
+    },
+    {
       "raw_hot": 523011,
       "num": 387440,
       "word": "温州一男子用小刀割断看门猫尾巴",
@@ -2361,14 +2385,6 @@
       "onboard_time": 1683698673,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 500968,
-      "num": 500968,
-      "word": "苹果 钓鱼",
-      "onboard_time": 1683793227,
-      "rank": 32,
-      "category": "科技"
     },
     {
       "raw_hot": 498692,
@@ -2881,14 +2897,6 @@
       "onboard_time": 1683776249,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 403030,
-      "num": 391258,
-      "word": "美依礼芽素颜",
-      "onboard_time": 1683794069,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 402558,
@@ -3987,6 +3995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 308495,
+      "num": 218663,
+      "word": "武汉王家湾",
+      "onboard_time": 1683795268,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308359,
       "num": 308359,
       "word": "山东淄博炒鸡",
@@ -4089,14 +4105,6 @@
       "onboard_time": 1683643050,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 301921,
-      "num": 218663,
-      "word": "武汉王家湾",
-      "onboard_time": 1683795268,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 301788,
@@ -4211,6 +4219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295076,
+      "num": 295076,
+      "word": "中山一小车冲入河内一家5口身亡",
+      "onboard_time": 1683792508,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294655,
       "num": 294655,
       "word": "光与夜之恋",
@@ -4299,14 +4315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 290520,
-      "num": 290520,
-      "word": "中山一小车冲入河内一家5口身亡",
-      "onboard_time": 1683792508,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 290401,
       "num": 290401,
       "word": "杨幂新头像来源",
@@ -4345,6 +4353,14 @@
       "onboard_time": 1683676046,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287510,
+      "num": 218549,
+      "word": "大佛每天流800次眼泪",
+      "onboard_time": 1683795089,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 287163,
@@ -4577,14 +4593,6 @@
       "onboard_time": 1683587541,
       "rank": 39,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 273148,
-      "num": 218549,
-      "word": "大佛每天流800次眼泪",
-      "onboard_time": 1683795089,
-      "rank": 31,
-      "category": "科技"
     },
     {
       "raw_hot": 273108,
@@ -5283,6 +5291,14 @@
       "category": "网红,情感"
     },
     {
+      "raw_hot": 236244,
+      "num": 236244,
+      "word": "李莎旻子语速",
+      "onboard_time": 1683794189,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235863,
       "num": 235863,
       "word": "重孙帮临终太爷爷摘槐花了心愿",
@@ -5577,14 +5593,6 @@
       "onboard_time": 1683724290,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 221745,
-      "num": 221745,
-      "word": "李莎旻子语速",
-      "onboard_time": 1683794189,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 221376,
@@ -7011,6 +7019,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 160525,
+      "num": 160525,
+      "word": "谢楠说现在不敢抵押房子拍电影",
+      "onboard_time": 1683797369,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 159973,
       "num": 159973,
       "word": "程晓玥分享生产日记",
@@ -7371,6 +7387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139431,
+      "num": 139431,
+      "word": "EXO金钟仁摸头照",
+      "onboard_time": 1683796708,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139052,
       "num": 139052,
       "word": "警方通报江阴枪击案",
@@ -7555,6 +7579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 129554,
+      "num": 129554,
+      "word": "庞博以为杜华想挖鹿晗到公司",
+      "onboard_time": 1683797369,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126873,
       "num": 126873,
       "word": "工作5年你能存多少钱",
@@ -7657,6 +7689,14 @@
       "onboard_time": 1683796047,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 121353,
+      "num": 121353,
+      "word": "或许这才是婚姻的真正意义",
+      "onboard_time": 1683797070,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 120361,

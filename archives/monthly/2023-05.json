@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683796599192,
+  "endTime": 1683797613020,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1635,8 +1635,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1533941,
-      "num": 1533941,
+      "raw_hot": 1537239,
+      "num": 1537239,
       "word": "Apple ID",
       "onboard_time": 1683793530,
       "rank": 30,
@@ -2443,6 +2443,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1189307,
+      "num": 1189307,
+      "word": "癌症筛查 早发现早治疗未必是对的",
+      "onboard_time": 1683792330,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1188795,
       "num": 407882,
       "word": "唐嫣中戏同学聚会",
@@ -2467,14 +2475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1184107,
-      "num": 1184107,
-      "word": "癌症筛查 早发现早治疗未必是对的",
-      "onboard_time": 1683792330,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1183713,
       "num": 1183713,
       "word": "虐猫群以爱猫做群名打掩护",
@@ -2489,6 +2489,14 @@
       "onboard_time": 1683294153,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1183186,
+      "num": 1183186,
+      "word": "浦发银行回应员工降薪",
+      "onboard_time": 1683796887,
+      "rank": 3,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1183120,
@@ -4001,6 +4009,14 @@
       "onboard_time": 1683016110,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 769599,
+      "num": 413396,
+      "word": "美依礼芽素颜",
+      "onboard_time": 1683794069,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 767021,
@@ -6011,6 +6027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 523364,
+      "num": 523364,
+      "word": "苹果 钓鱼",
+      "onboard_time": 1683793227,
+      "rank": 32,
+      "category": "科技"
+    },
+    {
       "raw_hot": 523011,
       "num": 387440,
       "word": "温州一男子用小刀割断看门猫尾巴",
@@ -6273,14 +6297,6 @@
       "onboard_time": 1683698673,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 500968,
-      "num": 500968,
-      "word": "苹果 钓鱼",
-      "onboard_time": 1683793227,
-      "rank": 32,
-      "category": "科技"
     },
     {
       "raw_hot": 500150,
@@ -7793,14 +7809,6 @@
       "onboard_time": 1683459269,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 403030,
-      "num": 391258,
-      "word": "美依礼芽素颜",
-      "onboard_time": 1683794069,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 402657,
@@ -10531,6 +10539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 308495,
+      "num": 218663,
+      "word": "武汉王家湾",
+      "onboard_time": 1683795268,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308359,
       "num": 308359,
       "word": "山东淄博炒鸡",
@@ -10729,14 +10745,6 @@
       "onboard_time": 1683643050,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 301921,
-      "num": 218663,
-      "word": "武汉王家湾",
-      "onboard_time": 1683795268,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 301788,
@@ -11003,6 +11011,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 295076,
+      "num": 295076,
+      "word": "中山一小车冲入河内一家5口身亡",
+      "onboard_time": 1683792508,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294799,
       "num": 294799,
       "word": "性格开朗的原因",
@@ -11219,14 +11235,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 290520,
-      "num": 290520,
-      "word": "中山一小车冲入河内一家5口身亡",
-      "onboard_time": 1683792508,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 290504,
       "num": 253743,
       "word": "听贾静雯唱歌 眼睛享福",
@@ -11361,6 +11369,14 @@
       "onboard_time": 1683032610,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 287510,
+      "num": 218549,
+      "word": "大佛每天流800次眼泪",
+      "onboard_time": 1683795089,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 287163,
@@ -11905,14 +11921,6 @@
       "onboard_time": 1683017187,
       "rank": 24,
       "category": "动漫,艺人"
-    },
-    {
-      "raw_hot": 273148,
-      "num": 218549,
-      "word": "大佛每天流800次眼泪",
-      "onboard_time": 1683795089,
-      "rank": 31,
-      "category": "科技"
     },
     {
       "raw_hot": 273108,
@@ -13851,6 +13859,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 236244,
+      "num": 236244,
+      "word": "李莎旻子语速",
+      "onboard_time": 1683794189,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236163,
       "num": 236163,
       "word": "广东专插本",
@@ -14729,14 +14745,6 @@
       "onboard_time": 1683339870,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 221745,
-      "num": 221745,
-      "word": "李莎旻子语速",
-      "onboard_time": 1683794189,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 221376,
@@ -19115,6 +19123,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 160525,
+      "num": 160525,
+      "word": "谢楠说现在不敢抵押房子拍电影",
+      "onboard_time": 1683797369,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 160513,
       "num": 160513,
       "word": "多家出版机构与史航解除合作",
@@ -20227,6 +20243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139431,
+      "num": 139431,
+      "word": "EXO金钟仁摸头照",
+      "onboard_time": 1683796708,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139213,
       "num": 139213,
       "word": "张角痛哭道歉",
@@ -20747,6 +20771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 129554,
+      "num": 129554,
+      "word": "庞博以为杜华想挖鹿晗到公司",
+      "onboard_time": 1683797369,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129545,
       "num": 129545,
       "word": "遇害情侣家属已抵达巴厘岛",
@@ -21129,6 +21161,14 @@
       "onboard_time": 1683796047,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 121353,
+      "num": 121353,
+      "word": "或许这才是婚姻的真正意义",
+      "onboard_time": 1683797070,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 121286,
