@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683769569545,
+  "endTime": 1683772381768,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -355,8 +355,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1865036,
-      "num": 1865036,
+      "raw_hot": 1866768,
+      "num": 1866768,
       "word": "孟羽童",
       "onboard_time": 1683763770,
       "rank": 0,
@@ -369,6 +369,14 @@
       "onboard_time": 1683602366,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1847860,
+      "num": 384518,
+      "word": "辛巴 榴莲",
+      "onboard_time": 1683769228,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 1789369,
@@ -545,6 +553,14 @@
       "onboard_time": 1683608430,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1515896,
+      "num": 1515896,
+      "word": "重庆姐弟坠亡案被告人二审死刑",
+      "onboard_time": 1683771387,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1515573,
@@ -907,12 +923,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1130417,
+      "num": 1130417,
+      "word": "孟羽童曾连续工作21小时",
+      "onboard_time": 1683765510,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1126440,
       "num": 565571,
       "word": "李承铉说不生三胎是因为妈妈很辛苦",
       "onboard_time": 1683614009,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1123491,
+      "num": 1123491,
+      "word": "再也不敢吃铜锅火锅了",
+      "onboard_time": 1683768626,
+      "rank": 12,
+      "category": "美食,情感"
     },
     {
       "raw_hot": 1123153,
@@ -1297,14 +1329,6 @@
       "onboard_time": 1683675385,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 805391,
-      "num": 805391,
-      "word": "孟羽童曾连续工作21小时",
-      "onboard_time": 1683765510,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 803185,
@@ -2499,14 +2523,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 415169,
-      "num": 415169,
-      "word": "再也不敢吃铜锅火锅了",
-      "onboard_time": 1683768626,
-      "rank": 12,
-      "category": "美食,情感"
-    },
-    {
       "raw_hot": 413853,
       "num": 413853,
       "word": "约基奇 太阳老板",
@@ -2737,14 +2753,6 @@
       "onboard_time": 1683688292,
       "rank": 44,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 379606,
-      "num": 379606,
-      "word": "辛巴 榴莲",
-      "onboard_time": 1683769228,
-      "rank": 14,
-      "category": "网红"
     },
     {
       "raw_hot": 379384,
@@ -3283,6 +3291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 338603,
+      "num": 338603,
+      "word": "曾可妮拍姐姐拍了10多个G",
+      "onboard_time": 1683771809,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 336949,
       "num": 275959,
       "word": "山西一地偷排不明液体致3人死亡",
@@ -3305,6 +3321,14 @@
       "onboard_time": 1683650782,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335904,
+      "num": 263201,
+      "word": "后浪官宣定档",
+      "onboard_time": 1683771028,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 335723,
@@ -3835,6 +3859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290807,
+      "num": 290807,
+      "word": "被75岁学生写给00后老师的信戳到了",
+      "onboard_time": 1683767968,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290401,
       "num": 290401,
       "word": "杨幂新头像来源",
@@ -3865,6 +3897,14 @@
       "onboard_time": 1683514169,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 289786,
+      "num": 289786,
+      "word": "8旬老人为女销户民警含泪帮拍户籍照",
+      "onboard_time": 1683769828,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288701,
@@ -3963,14 +4003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 282181,
-      "num": 282181,
-      "word": "被75岁学生写给00后老师的信戳到了",
-      "onboard_time": 1683767968,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 281289,
       "num": 281289,
       "word": "范丞丞地垄沟编发",
@@ -4017,6 +4049,14 @@
       "onboard_time": 1683556052,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 277959,
+      "num": 277959,
+      "word": "不良人",
+      "onboard_time": 1683769108,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 277351,
@@ -4425,6 +4465,14 @@
       "onboard_time": 1683737901,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252437,
+      "num": 252437,
+      "word": "刘雅瑟回复网友说她油",
+      "onboard_time": 1683771147,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 252260,
@@ -4971,6 +5019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 221716,
+      "num": 221716,
+      "word": "一人一句最讨厌的婚礼主持词",
+      "onboard_time": 1683770847,
+      "rank": 24,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 221376,
       "num": 221376,
       "word": "NBA",
@@ -5009,6 +5065,14 @@
       "onboard_time": 1683514827,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219268,
+      "num": 219268,
+      "word": "最好的朋友没来参加我的婚礼",
+      "onboard_time": 1683768626,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 219038,
@@ -5176,6 +5240,14 @@
       "word": "长空之王导演人民日报发文",
       "onboard_time": 1683606030,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 211847,
+      "num": 211847,
+      "word": "后浪",
+      "onboard_time": 1683770908,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -5723,14 +5795,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 189111,
-      "num": 189111,
-      "word": "最好的朋友没来参加我的婚礼",
-      "onboard_time": 1683768626,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 189096,
       "num": 189096,
       "word": "山西吕梁山革命博物馆明日开馆",
@@ -6267,6 +6331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 158678,
+      "num": 158678,
+      "word": "iOS17内部爆料者被苹果抓获",
+      "onboard_time": 1683771624,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 156081,
       "num": 156081,
       "word": "6年级女孩2个月手绘全班毕业照",
@@ -6380,7 +6452,7 @@
     },
     {
       "raw_hot": 150227,
-      "num": 1100829,
+      "num": 1273223,
       "word": "属于中国人的宇宙级浪漫",
       "onboard_time": 1683730232,
       "rank": 2,
@@ -6513,14 +6585,6 @@
       "onboard_time": 1683554851,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 141198,
-      "num": 141198,
-      "word": "不良人",
-      "onboard_time": 1683769108,
-      "rank": 43,
-      "category": "动漫"
     },
     {
       "raw_hot": 140582,
@@ -6867,6 +6931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112581,
+      "num": 112581,
+      "word": "张波翻供否认曾写信求原谅",
+      "onboard_time": 1683771089,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112016,
       "num": 165498,
       "word": "TTG和WB全员入围亚运集训",
@@ -6953,6 +7025,14 @@
       "onboard_time": 1683476068,
       "rank": 49,
       "category": "幽默,科技"
+    },
+    {
+      "raw_hot": 102452,
+      "num": 102452,
+      "word": "CPI",
+      "onboard_time": 1683772287,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 100694,
