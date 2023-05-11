@@ -1,0 +1,410 @@
+{
+  "runTime": 1683778792367,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2717674,
+        "num": 2717674,
+        "word": "B站UP主吐槽浪姐4",
+        "onboard_time": 1683775710,
+        "rank": 0,
+        "category": "综艺,网红"
+      },
+      {
+        "raw_hot": 2186642,
+        "num": 2186642,
+        "word": "金晨 不想任何声音模糊和影响作品本身",
+        "onboard_time": 1683778109,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 55916,
+        "num": 2006607,
+        "word": "天舟六号发射升空瞬间",
+        "onboard_time": 1683772468,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1909670,
+        "num": 1909670,
+        "word": "重庆姐弟坠亡案被告人二审死刑",
+        "onboard_time": 1683771387,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1475654,
+        "num": 1475654,
+        "word": "再也不敢吃铜锅火锅了",
+        "onboard_time": 1683768626,
+        "rank": 4,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 1207204,
+        "num": 1207204,
+        "word": "巴厘岛命案已形成初步报告",
+        "onboard_time": 1683774867,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1078331,
+        "num": 1078331,
+        "word": "孟羽童曾连续工作21小时",
+        "onboard_time": 1683765510,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1021385,
+        "num": 1021385,
+        "word": "翟潇闻 狐妖小红娘竹业篇男二",
+        "onboard_time": 1683776788,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 699894,
+        "num": 699894,
+        "word": "孟羽童",
+        "onboard_time": 1683763770,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644685,
+        "num": 644685,
+        "word": "男子晒术后取出颅骨碎片薄如甲片",
+        "onboard_time": 1683761183,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1265020,
+        "num": 635167,
+        "word": "辛巴 榴莲",
+        "onboard_time": 1683769228,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 910486,
+        "num": 608074,
+        "word": "张子萱终于不给陈赫打码了",
+        "onboard_time": 1683731492,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 569716,
+        "num": 569716,
+        "word": "周觜朝或将接替肖战出演言冰云",
+        "onboard_time": 1683773909,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 538397,
+        "num": 538397,
+        "word": "曾可妮拍姐姐拍了10多个G",
+        "onboard_time": 1683771809,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 514746,
+        "num": 514746,
+        "word": "勇士vs湖人",
+        "onboard_time": 1683768868,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 424993,
+        "num": 424993,
+        "word": "全职太太离婚发现丈夫资产过亿",
+        "onboard_time": 1683721650,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395896,
+        "num": 395896,
+        "word": "不良人",
+        "onboard_time": 1683769108,
+        "rank": 16,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 350675,
+        "num": 350675,
+        "word": "张波叶诚尘均系主犯",
+        "onboard_time": 1683774808,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283881,
+        "num": 283881,
+        "word": "男孩回答老师提问时突然大哭",
+        "onboard_time": 1683777150,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258873,
+        "num": 258873,
+        "word": "妈妈带瘫痪女儿锻炼4年终会走路",
+        "onboard_time": 1683774508,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569677,
+        "num": 256473,
+        "word": "普通人结婚不建议花的钱",
+        "onboard_time": 1683776368,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 478876,
+        "num": 249760,
+        "word": "七小时结束了相恋七年的感情",
+        "onboard_time": 1683718169,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 380088,
+        "num": 245716,
+        "word": "想给男友妈妈买束花却吵架了",
+        "onboard_time": 1683776249,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 340253,
+        "num": 242863,
+        "word": "梦中的那片海",
+        "onboard_time": 1683773249,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319198,
+        "num": 236887,
+        "word": "莱茵生物实控人被立案",
+        "onboard_time": 1683777390,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 235478,
+        "num": 235478,
+        "word": "库里压哨三分",
+        "onboard_time": 1683778289,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227045,
+        "num": 227045,
+        "word": "赵露思饰演叛逆少女孙头头",
+        "onboard_time": 1683773607,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219975,
+        "num": 219975,
+        "word": "泰星Tangmo溺亡案宣判",
+        "onboard_time": 1683761544,
+        "rank": 27,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 219420,
+        "num": 219420,
+        "word": "后浪官宣定档",
+        "onboard_time": 1683771028,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211191,
+        "num": 211191,
+        "word": "动作导演回应刘诗诗替身争议",
+        "onboard_time": 1683776668,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189699,
+        "num": 189699,
+        "word": "身上5种疣可能是HPV感染",
+        "onboard_time": 1683715409,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183113,
+        "num": 183113,
+        "word": "刘诗诗古偶原声率",
+        "onboard_time": 1683772948,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182327,
+        "num": 182327,
+        "word": "巴厘岛",
+        "onboard_time": 1683770368,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176676,
+        "num": 176676,
+        "word": "8旬老人为女销户民警含泪帮拍户籍照",
+        "onboard_time": 1683769828,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170495,
+        "num": 170495,
+        "word": "杨洋同学会全记录视频",
+        "onboard_time": 1683734128,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170418,
+        "num": 170418,
+        "word": "BABYMONSTER真的是五个人",
+        "onboard_time": 1683764128,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167599,
+        "num": 167599,
+        "word": "iOS17内部爆料者被苹果抓获",
+        "onboard_time": 1683771624,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 153998,
+        "num": 153998,
+        "word": "山西一地偷排不明液体致3人死亡",
+        "onboard_time": 1683763467,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153043,
+        "num": 153043,
+        "word": "全资进组豆瓣开分7.1",
+        "onboard_time": 1683777627,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38327,
+        "num": 150780,
+        "word": "首个中国航天保障用品诞生",
+        "onboard_time": 1683777627,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150011,
+        "num": 150011,
+        "word": "我结婚的外婆和单身的姨婆",
+        "onboard_time": 1683777686,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146331,
+        "num": 146331,
+        "word": "一人一句最讨厌的婚礼主持词",
+        "onboard_time": 1683770847,
+        "rank": 41,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 134786,
+        "num": 134786,
+        "word": "刘雅瑟回复网友说她油",
+        "onboard_time": 1683771147,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129052,
+        "num": 129052,
+        "word": "高叶祝张颂文福如东海寿比南山",
+        "onboard_time": 1683762747,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125034,
+        "num": 125034,
+        "word": "未定事件簿",
+        "onboard_time": 1683775228,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121314,
+        "num": 121314,
+        "word": "为什么35岁是中年的一道坎",
+        "onboard_time": 1683764728,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118209,
+        "num": 118209,
+        "word": "被75岁学生写给00后老师的信戳到了",
+        "onboard_time": 1683767968,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105114,
+        "num": 118207,
+        "word": "没有男艺人能穿着衣服走出郭敬明的剧",
+        "onboard_time": 1683719129,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101344,
+        "num": 118202,
+        "word": "经前期综合征",
+        "onboard_time": 1683732153,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98619,
+        "num": 118196,
+        "word": "奔跑吧导演说邀请范丞丞是因为合适",
+        "onboard_time": 1683764309,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在河北雄安新区考察#"
+    }
+  }
+}
