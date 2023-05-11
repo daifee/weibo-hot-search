@@ -1,6 +1,6 @@
 {
   "startTime": 1683736826788,
-  "endTime": 1683815627532,
+  "endTime": 1683818284258,
   "band_list": [
     {
       "raw_hot": 2924775,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2064776,
-      "num": 445638,
+      "num": 593391,
       "word": "徐娇泳装",
       "onboard_time": 1683807388,
       "rank": 20,
@@ -115,6 +115,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1538498,
+      "num": 1538498,
+      "word": "巴西一医生接生时扯断婴儿头部",
+      "onboard_time": 1683816029,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1537239,
       "num": 1537239,
       "word": "Apple ID",
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 1520173,
-      "num": 816576,
+      "num": 988364,
       "word": "向佐的工作人员叫王一博",
       "onboard_time": 1683812849,
       "rank": 3,
@@ -185,6 +193,14 @@
       "onboard_time": 1683792330,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1192044,
+      "num": 1192044,
+      "word": "BABYMONSTER出道名单",
+      "onboard_time": 1683817652,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1141162,
@@ -259,6 +275,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 981575,
+      "num": 981575,
+      "word": "突然爆更很可能是他失业了",
+      "onboard_time": 1683806908,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 946338,
+      "num": 946338,
+      "word": "专家建议给生孩子的人发薪水",
+      "onboard_time": 1683812427,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 938230,
       "num": 938230,
       "word": "男子晒术后取出颅骨碎片薄如甲片",
@@ -281,14 +313,6 @@
       "onboard_time": 1683808168,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 891585,
-      "num": 891585,
-      "word": "突然爆更很可能是他失业了",
-      "onboard_time": 1683806908,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 882197,
@@ -315,12 +339,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 812814,
-      "num": 812814,
-      "word": "专家建议给生孩子的人发薪水",
-      "onboard_time": 1683812427,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 796970,
+      "num": 796970,
+      "word": "孟美岐一把顺利拿本",
+      "onboard_time": 1683814172,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 787185,
+      "num": 787185,
+      "word": "王国之泪 解锁",
+      "onboard_time": 1683817830,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 776355,
@@ -353,6 +385,14 @@
       "onboard_time": 1683790050,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 703360,
+      "num": 703360,
+      "word": "邓紫棋周杰伦演唱会点歌黑色毛衣",
+      "onboard_time": 1683815798,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 699274,
@@ -427,6 +467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 593897,
+      "num": 593897,
+      "word": "霍华德",
+      "onboard_time": 1683812731,
+      "rank": 8,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 593872,
       "num": 402213,
       "word": "普通人结婚不建议花的钱",
@@ -475,14 +523,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 556583,
-      "num": 556583,
-      "word": "霍华德",
-      "onboard_time": 1683812731,
-      "rank": 8,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 553204,
       "num": 553204,
       "word": "一闪一闪亮星星",
@@ -508,7 +548,7 @@
     },
     {
       "raw_hot": 529064,
-      "num": 257285,
+      "num": 270298,
       "word": "姐姐知道我偷偷买房后",
       "onboard_time": 1683811766,
       "rank": 20,
@@ -604,7 +644,7 @@
     },
     {
       "raw_hot": 448533,
-      "num": 262910,
+      "num": 321240,
       "word": "易烊千玺的实体专辑三公斤",
       "onboard_time": 1683813811,
       "rank": 21,
@@ -616,6 +656,14 @@
       "word": "泫雅 武汉音乐节",
       "onboard_time": 1683720269,
       "rank": 5,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 439135,
+      "num": 439135,
+      "word": "林俊杰 巡演",
+      "onboard_time": 1683815553,
+      "rank": 40,
       "category": "音乐"
     },
     {
@@ -651,20 +699,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 428382,
-      "num": 252608,
-      "word": "孟美岐一把顺利拿本",
-      "onboard_time": 1683814172,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 411172,
       "num": 322338,
       "word": "梦中的那片海",
       "onboard_time": 1683773249,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 409163,
+      "num": 409163,
+      "word": "YG新女团出道",
+      "onboard_time": 1683818132,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 407386,
@@ -723,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 369296,
+      "num": 369296,
+      "word": "九街",
+      "onboard_time": 1683816273,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365822,
       "num": 365822,
       "word": "张波叶诚尘均系主犯",
@@ -777,6 +833,14 @@
       "onboard_time": 1683795268,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347625,
+      "num": 320583,
+      "word": "内娱95后浓颜系代表",
+      "onboard_time": 1683814770,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 341924,
@@ -841,6 +905,14 @@
       "onboard_time": 1683811589,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328163,
+      "num": 328163,
+      "word": "B站播放时长最长内容是高等数学",
+      "onboard_time": 1683817473,
+      "rank": 19,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 327686,
@@ -921,6 +993,22 @@
       "onboard_time": 1683783089,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 308928,
+      "num": 308928,
+      "word": "王国之泪媒体评分解禁",
+      "onboard_time": 1683810146,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 308208,
+      "num": 308208,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1683816694,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 306402,
@@ -1019,14 +1107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 290995,
-      "num": 225118,
-      "word": "王国之泪媒体评分解禁",
-      "onboard_time": 1683810146,
-      "rank": 21,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 290807,
       "num": 290807,
       "word": "被75岁学生写给00后老师的信戳到了",
@@ -1067,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281862,
+      "num": 274547,
+      "word": "白敬亭汉堡酱撒裤子上了",
+      "onboard_time": 1683816751,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281101,
       "num": 281101,
       "word": "时代少年团演唱会应变能力挑战",
@@ -1081,6 +1169,14 @@
       "onboard_time": 1683783327,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278405,
+      "num": 273630,
+      "word": "漫长的季节",
+      "onboard_time": 1683815972,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 276373,
@@ -1219,6 +1315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246457,
+      "num": 246457,
+      "word": "512",
+      "onboard_time": 1683817532,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243613,
       "num": 243613,
       "word": "动作导演回应刘诗诗替身争议",
@@ -1299,6 +1403,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 232002,
+      "num": 248530,
+      "word": "BLG战胜C9",
+      "onboard_time": 1683817292,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 231618,
       "num": 231618,
       "word": "战至巅峰",
@@ -1313,6 +1425,22 @@
       "onboard_time": 1683790169,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230949,
+      "num": 230949,
+      "word": "人真的可以删除自己的记忆",
+      "onboard_time": 1683815553,
+      "rank": 37,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 230845,
+      "num": 230845,
+      "word": "bin说到做到",
+      "onboard_time": 1683816991,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 230667,
@@ -1385,14 +1513,6 @@
       "onboard_time": 1683793709,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 215509,
-      "num": 215509,
-      "word": "内娱95后浓颜系代表",
-      "onboard_time": 1683814770,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 214807,
@@ -1683,6 +1803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 168425,
+      "num": 168425,
+      "word": "权志龙ins",
+      "onboard_time": 1683816212,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 167234,
       "num": 167234,
       "word": "美白滤镜下的吉克隽逸",
@@ -1723,6 +1851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163812,
+      "num": 163812,
+      "word": "宁艺卓红丝带编发",
+      "onboard_time": 1683818191,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161680,
       "num": 161680,
       "word": "吴谢宇案二审恢复审理",
@@ -1737,14 +1873,6 @@
       "onboard_time": 1683774267,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 159752,
-      "num": 159752,
-      "word": "林俊杰 巡演",
-      "onboard_time": 1683815553,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 159124,
@@ -2276,7 +2404,7 @@
     },
     {
       "raw_hot": 33268,
-      "num": 878618,
+      "num": 992284,
       "word": "天舟六号有何特别之处",
       "onboard_time": 1683810805,
       "rank": 2,
@@ -2357,6 +2485,9 @@
     },
     {
       "word": "#习近平在沧州市考察调研#"
+    },
+    {
+      "word": "#习近平回信勉励海军潜艇部队某艇员队#"
     }
   ]
 }
