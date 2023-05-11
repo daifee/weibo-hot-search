@@ -1,0 +1,410 @@
+{
+  "runTime": 1683803647766,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1021836,
+        "num": 1021836,
+        "word": "Apple ID",
+        "onboard_time": 1683793530,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 439280,
+        "num": 968687,
+        "word": "医生跪着托举12分钟保住新生儿",
+        "onboard_time": 1683794488,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120538,
+        "num": 934470,
+        "word": "中国科学家在月壤中发现天然玻璃纤维",
+        "onboard_time": 1683793709,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924485,
+        "num": 924485,
+        "word": "癌症筛查 早发现早治疗未必是对的",
+        "onboard_time": 1683792330,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 269734,
+        "num": 885447,
+        "word": "江西8旬老人跳河救起2名儿童",
+        "onboard_time": 1683800428,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 876991,
+        "num": 876991,
+        "word": "谢楠说现在不敢抵押房子拍电影",
+        "onboard_time": 1683797369,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218502,
+        "num": 761216,
+        "word": "杭州多个探头为了它们几年一动不动",
+        "onboard_time": 1683790169,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 689330,
+        "num": 689330,
+        "word": "美依礼芽素颜",
+        "onboard_time": 1683794069,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 655296,
+        "num": 655296,
+        "word": "京东集团CEO徐雷退休",
+        "onboard_time": 1683799888,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 494841,
+        "num": 494841,
+        "word": "孟羽童疑似成立个人工作室",
+        "onboard_time": 1683797850,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1377324,
+        "num": 494321,
+        "word": "姜思达 对不起",
+        "onboard_time": 1683800907,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 681595,
+        "num": 493204,
+        "word": "刘亦菲露腰了",
+        "onboard_time": 1683783508,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 487549,
+        "num": 487549,
+        "word": "老师意外发现13岁学生已是公司老板",
+        "onboard_time": 1683784949,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 428424,
+        "num": 428424,
+        "word": "辽宁一养猪场外墙发现无名女尸",
+        "onboard_time": 1683787226,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388035,
+        "num": 388035,
+        "word": "护心排播咋想的",
+        "onboard_time": 1683802227,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375621,
+        "num": 375621,
+        "word": "毛晓彤说没有打针",
+        "onboard_time": 1683789448,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 363849,
+        "num": 363849,
+        "word": "王一博在拍什么",
+        "onboard_time": 1683801328,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 335220,
+        "num": 335220,
+        "word": "LPL回应FPX十周年没奖",
+        "onboard_time": 1683799529,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 321229,
+        "num": 321229,
+        "word": "那英真的没在说脏话",
+        "onboard_time": 1683782790,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281724,
+        "num": 281724,
+        "word": "aespa新歌Spicy初舞台",
+        "onboard_time": 1683802829,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 406426,
+        "num": 275015,
+        "word": "易梦玲美黑",
+        "onboard_time": 1683800548,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 338339,
+        "num": 264582,
+        "word": "女生称30岁相亲被介绍待离婚男士",
+        "onboard_time": 1683799896,
+        "rank": 21,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 251741,
+        "num": 251741,
+        "word": "喻言巡演抢票",
+        "onboard_time": 1683800786,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 226987,
+        "num": 226987,
+        "word": "相亲 用魔法打败魔法",
+        "onboard_time": 1683800907,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 191465,
+        "num": 191465,
+        "word": "巴厘岛命案已形成初步报告",
+        "onboard_time": 1683774867,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236140,
+        "num": 190765,
+        "word": "B站UP主吐槽浪姐4",
+        "onboard_time": 1683775710,
+        "rank": 25,
+        "category": "综艺,网红"
+      },
+      {
+        "raw_hot": 235472,
+        "num": 190533,
+        "word": "护心",
+        "onboard_time": 1683803066,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234198,
+        "num": 190032,
+        "word": "seventeen街头录综艺",
+        "onboard_time": 1683803188,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188755,
+        "num": 188755,
+        "word": "再也不敢吃铜锅火锅了",
+        "onboard_time": 1683768626,
+        "rank": 28,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 153160,
+        "num": 187451,
+        "word": "张波叶诚尘微信聊天记录",
+        "onboard_time": 1683780692,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230037,
+        "num": 182907,
+        "word": "新疆美女博主李巧回应",
+        "onboard_time": 1683798626,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 216594,
+        "num": 175163,
+        "word": "时代少年团演唱会应变能力挑战",
+        "onboard_time": 1683798867,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216257,
+        "num": 173186,
+        "word": "薛之谦演唱会 抢票",
+        "onboard_time": 1683797787,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209522,
+        "num": 165000,
+        "word": "刘涛已经45岁了吗",
+        "onboard_time": 1683802708,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197537,
+        "num": 159590,
+        "word": "辛巴 榴莲",
+        "onboard_time": 1683769228,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 158101,
+        "num": 158101,
+        "word": "谁还敢在朋友圈玩梗",
+        "onboard_time": 1683790827,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 147567,
+        "num": 147567,
+        "word": "弟弟帮离世哥哥通关塞尔达",
+        "onboard_time": 1683780269,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141376,
+        "num": 141376,
+        "word": "七小时结束了相恋七年的感情",
+        "onboard_time": 1683718169,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136802,
+        "num": 136802,
+        "word": "浓眉被打",
+        "onboard_time": 1683779252,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135563,
+        "num": 135563,
+        "word": "母亲遭陌生男子猥亵儿子一招制服",
+        "onboard_time": 1683789690,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188174,
+        "num": 134191,
+        "word": "范丞丞称演戏是最轻松的职业",
+        "onboard_time": 1683802408,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174966,
+        "num": 133276,
+        "word": "张子萱终于不给陈赫打码了",
+        "onboard_time": 1683731492,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170935,
+        "num": 130850,
+        "word": "蒋雯丽明道你们图啥",
+        "onboard_time": 1683789629,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162015,
+        "num": 129919,
+        "word": "屈楚萧演张万森吗",
+        "onboard_time": 1683787348,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158030,
+        "num": 128097,
+        "word": "龚琳娜曾和母亲冷战23年",
+        "onboard_time": 1683803548,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152090,
+        "num": 126371,
+        "word": "那英张杰合作没那么简单",
+        "onboard_time": 1683802349,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125180,
+        "num": 125180,
+        "word": "武汉王家湾",
+        "onboard_time": 1683795268,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117592,
+        "num": 117592,
+        "word": "重庆姐弟坠亡案被告人二审死刑",
+        "onboard_time": 1683771387,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108861,
+        "num": 117545,
+        "word": "论文查重率0%是种什么体验",
+        "onboard_time": 1683786448,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87873,
+        "num": 117349,
+        "word": "中山一小车冲入河内一家5口身亡",
+        "onboard_time": 1683792508,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#天河行舟载梦远航#"
+    }
+  }
+}

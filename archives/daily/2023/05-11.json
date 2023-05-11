@@ -1,6 +1,6 @@
 {
   "startTime": 1683736826788,
-  "endTime": 1683801210384,
+  "endTime": 1683803647766,
   "band_list": [
     {
       "raw_hot": 2924775,
@@ -121,6 +121,14 @@
       "onboard_time": 1683779671,
       "rank": 4,
       "category": "网红,科技"
+    },
+    {
+      "raw_hot": 1377324,
+      "num": 494321,
+      "word": "姜思达 对不起",
+      "onboard_time": 1683800907,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1350616,
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 655296,
+      "num": 655296,
+      "word": "京东集团CEO徐雷退休",
+      "onboard_time": 1683799888,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 648282,
       "num": 648282,
       "word": "谁还敢在朋友圈玩梗",
@@ -427,20 +443,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 494841,
+      "num": 494841,
+      "word": "孟羽童疑似成立个人工作室",
+      "onboard_time": 1683797850,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 490441,
       "num": 490441,
       "word": "经前期综合征",
       "onboard_time": 1683732153,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 486948,
-      "num": 486948,
-      "word": "京东集团CEO徐雷退休",
-      "onboard_time": 1683799888,
-      "rank": 26,
-      "category": "科技"
     },
     {
       "raw_hot": 485721,
@@ -451,28 +467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 484295,
-      "num": 484295,
-      "word": "孟羽童疑似成立个人工作室",
-      "onboard_time": 1683797850,
-      "rank": 13,
-      "category": "网红"
-    },
-    {
       "raw_hot": 475828,
       "num": 310718,
       "word": "论文查重率0%是种什么体验",
       "onboard_time": 1683786448,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 464299,
-      "num": 464299,
-      "word": "姜思达 对不起",
-      "onboard_time": 1683800907,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 459718,
@@ -539,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 406426,
+      "num": 275015,
+      "word": "易梦玲美黑",
+      "onboard_time": 1683800548,
+      "rank": 30,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 405363,
       "num": 391318,
       "word": "想给男友妈妈买束花却吵架了",
@@ -563,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388035,
+      "num": 388035,
+      "word": "护心排播咋想的",
+      "onboard_time": 1683802227,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 377972,
       "num": 377972,
       "word": "蒋雯丽明道转角之恋开分2.9",
@@ -577,6 +593,14 @@
       "onboard_time": 1683774808,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363849,
+      "num": 363849,
+      "word": "王一博在拍什么",
+      "onboard_time": 1683801328,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 357554,
@@ -619,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 338339,
+      "num": 278137,
+      "word": "女生称30岁相亲被介绍待离婚男士",
+      "onboard_time": 1683799896,
+      "rank": 46,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 337106,
       "num": 307905,
       "word": "蒋雯丽明道你们图啥",
@@ -643,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335220,
+      "num": 335220,
+      "word": "LPL回应FPX十周年没奖",
+      "onboard_time": 1683799529,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 329356,
       "num": 294668,
       "word": "浪来了刘宇宁自己先跑了",
@@ -657,14 +697,6 @@
       "onboard_time": 1683727593,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 327020,
-      "num": 195223,
-      "word": "易梦玲美黑",
-      "onboard_time": 1683800548,
-      "rank": 30,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 323756,
@@ -697,14 +729,6 @@
       "onboard_time": 1683784048,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 317042,
-      "num": 317042,
-      "word": "LPL回应FPX十周年没奖",
-      "onboard_time": 1683799529,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 313639,
@@ -827,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281724,
+      "num": 281724,
+      "word": "aespa新歌Spicy初舞台",
+      "onboard_time": 1683802829,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 281101,
       "num": 281101,
       "word": "时代少年团演唱会应变能力挑战",
@@ -843,14 +875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278137,
-      "num": 278137,
-      "word": "女生称30岁相亲被介绍待离婚男士",
-      "onboard_time": 1683799896,
-      "rank": 46,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 273788,
       "num": 273788,
       "word": "吴谢宇曾写五万字亲笔信寄亲友求活路",
@@ -865,6 +889,14 @@
       "onboard_time": 1683771147,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269734,
+      "num": 885447,
+      "word": "江西8旬老人跳河救起2名儿童",
+      "onboard_time": 1683800428,
+      "rank": 36,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 268701,
@@ -987,12 +1019,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235472,
+      "num": 190533,
+      "word": "护心",
+      "onboard_time": 1683803066,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 234760,
       "num": 234760,
       "word": "一人一句最讨厌的婚礼主持词",
       "onboard_time": 1683770847,
       "rank": 24,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 234198,
+      "num": 190032,
+      "word": "seventeen街头录综艺",
+      "onboard_time": 1683803188,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 232959,
@@ -1033,6 +1081,14 @@
       "onboard_time": 1683732269,
       "rank": 14,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 226987,
+      "num": 226987,
+      "word": "相亲 用魔法打败魔法",
+      "onboard_time": 1683800907,
+      "rank": 39,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 224047,
@@ -1131,6 +1187,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 209522,
+      "num": 165000,
+      "word": "刘涛已经45岁了吗",
+      "onboard_time": 1683802708,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 208997,
       "num": 208997,
       "word": "庆余年2原班人马",
@@ -1209,6 +1273,14 @@
       "onboard_time": 1683764608,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188174,
+      "num": 134191,
+      "word": "范丞丞称演戏是最轻松的职业",
+      "onboard_time": 1683802408,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 185740,
@@ -1307,14 +1379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169196,
-      "num": 169196,
-      "word": "相亲 用魔法打败魔法",
-      "onboard_time": 1683800907,
-      "rank": 39,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 167234,
       "num": 167234,
       "word": "美白滤镜下的吉克隽逸",
@@ -1371,6 +1435,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 158030,
+      "num": 128097,
+      "word": "龚琳娜曾和母亲冷战23年",
+      "onboard_time": 1683803548,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157101,
       "num": 157101,
       "word": "格力称孟羽童已离职",
@@ -1409,6 +1481,14 @@
       "onboard_time": 1683740177,
       "rank": 38,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 152090,
+      "num": 126371,
+      "word": "那英张杰合作没那么简单",
+      "onboard_time": 1683802349,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 151842,
@@ -1761,14 +1841,6 @@
       "onboard_time": 1683728851,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86190,
-      "num": 179476,
-      "word": "江西8旬老人跳河救起2名儿童",
-      "onboard_time": 1683800428,
-      "rank": 36,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 83101,
