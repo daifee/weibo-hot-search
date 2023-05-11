@@ -1,6 +1,6 @@
 {
   "startTime": 1683736826788,
-  "endTime": 1683772933742,
+  "endTime": 1683775045300,
   "band_list": [
     {
       "raw_hot": 2445716,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1847860,
-      "num": 384518,
+      "num": 451125,
       "word": "辛巴 榴莲",
       "onboard_time": 1683769228,
       "rank": 14,
@@ -33,6 +33,14 @@
       "onboard_time": 1683763770,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1682964,
+      "num": 1682964,
+      "word": "再也不敢吃铜锅火锅了",
+      "onboard_time": 1683768626,
+      "rank": 12,
+      "category": "美食,情感"
     },
     {
       "raw_hot": 1566990,
@@ -49,14 +57,6 @@
       "onboard_time": 1683761544,
       "rank": 36,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 1297873,
-      "num": 1297873,
-      "word": "再也不敢吃铜锅火锅了",
-      "onboard_time": 1683768626,
-      "rank": 12,
-      "category": "美食,情感"
     },
     {
       "raw_hot": 1130417,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 844176,
+      "num": 844176,
+      "word": "曾可妮拍姐姐拍了10多个G",
+      "onboard_time": 1683771809,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 756655,
       "num": 756655,
       "word": "没有男艺人能穿着衣服走出郭敬明的剧",
@@ -147,12 +155,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 541944,
-      "num": 541944,
-      "word": "曾可妮拍姐姐拍了10多个G",
-      "onboard_time": 1683771809,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 570271,
+      "num": 570271,
+      "word": "不良人",
+      "onboard_time": 1683769108,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 490441,
@@ -168,6 +176,14 @@
       "word": "日本地震",
       "onboard_time": 1683760881,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453393,
+      "num": 453393,
+      "word": "8旬老人为女销户民警含泪帮拍户籍照",
+      "onboard_time": 1683769828,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -187,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 434262,
+      "num": 434262,
+      "word": "勇士vs湖人",
+      "onboard_time": 1683768868,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 429597,
       "num": 429597,
       "word": "高铁掌掴事件车厢画面公布",
@@ -195,20 +219,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 368048,
-      "num": 368048,
-      "word": "勇士vs湖人",
-      "onboard_time": 1683768868,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 366569,
-      "num": 366569,
-      "word": "不良人",
-      "onboard_time": 1683769108,
-      "rank": 43,
-      "category": "动漫"
+      "raw_hot": 411172,
+      "num": 229632,
+      "word": "梦中的那片海",
+      "onboard_time": 1683773249,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 357554,
@@ -225,14 +241,6 @@
       "onboard_time": 1683771028,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 346390,
-      "num": 346390,
-      "word": "8旬老人为女销户民警含泪帮拍户籍照",
-      "onboard_time": 1683769828,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 336949,
@@ -265,6 +273,14 @@
       "onboard_time": 1683729092,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 313639,
+      "num": 229287,
+      "word": "赵露思饰演叛逆少女孙头头",
+      "onboard_time": 1683773607,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 313462,
@@ -315,6 +331,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257121,
+      "num": 257121,
+      "word": "BABYMONSTER真的是五个人",
+      "onboard_time": 1683764128,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 256191,
+      "num": 256191,
+      "word": "周觜朝或将接替肖战出演言冰云",
+      "onboard_time": 1683773909,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 252579,
       "num": 252579,
       "word": "新娘崴脚中医伴郎现场针灸",
@@ -337,6 +369,14 @@
       "onboard_time": 1683740356,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246840,
+      "num": 246840,
+      "word": "刘诗诗古偶原声率",
+      "onboard_time": 1683772948,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 237881,
@@ -371,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 223766,
+      "num": 223766,
+      "word": "iOS17内部爆料者被苹果抓获",
+      "onboard_time": 1683771624,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 221376,
       "num": 221376,
       "word": "NBA",
@@ -393,6 +441,14 @@
       "onboard_time": 1683768626,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 216415,
+      "num": 216415,
+      "word": "张波叶诚尘均系主犯",
+      "onboard_time": 1683774808,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211847,
@@ -427,6 +483,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 209973,
+      "num": 209973,
+      "word": "巴厘岛",
+      "onboard_time": 1683770368,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208997,
       "num": 208997,
       "word": "庆余年2原班人马",
@@ -435,28 +499,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 204744,
-      "num": 204744,
-      "word": "iOS17内部爆料者被苹果抓获",
-      "onboard_time": 1683771624,
-      "rank": 35,
-      "category": "科技"
-    },
-    {
       "raw_hot": 203958,
       "num": 203958,
       "word": "江疏影头发上有只蝴蝶",
       "onboard_time": 1683762145,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 200362,
-      "num": 200362,
-      "word": "BABYMONSTER真的是五个人",
-      "onboard_time": 1683764128,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 194753,
@@ -499,11 +547,27 @@
       "category": "美食,艺人"
     },
     {
+      "raw_hot": 176520,
+      "num": 176520,
+      "word": "陈美霖称有结果会去天台寺告诉孩子",
+      "onboard_time": 1683772527,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172884,
       "num": 172884,
       "word": "随恩人参军的汶川地震受灾男孩又有励志后续",
       "onboard_time": 1683763589,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170996,
+      "num": 170996,
+      "word": "妈妈带瘫痪女儿锻炼4年终会走路",
+      "onboard_time": 1683774508,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -529,6 +593,14 @@
       "onboard_time": 1683730411,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160964,
+      "num": 160964,
+      "word": "赵露思罗一舟后浪官宣海报",
+      "onboard_time": 1683774267,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 157101,
@@ -587,11 +659,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 148935,
-      "num": 148935,
-      "word": "陈美霖称有结果会去天台寺告诉孩子",
-      "onboard_time": 1683772527,
-      "rank": 35,
+      "raw_hot": 145038,
+      "num": 145038,
+      "word": "张波翻供否认曾写信求原谅",
+      "onboard_time": 1683771089,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -617,6 +689,14 @@
       "onboard_time": 1683712351,
       "rank": 33,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 143864,
+      "num": 143864,
+      "word": "巴厘岛命案已形成初步报告",
+      "onboard_time": 1683774867,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140574,
@@ -657,14 +737,6 @@
       "onboard_time": 1683718169,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 129400,
-      "num": 129400,
-      "word": "张波翻供否认曾写信求原谅",
-      "onboard_time": 1683771089,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129297,
@@ -859,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72745,
+      "num": 1424436,
+      "word": "天舟六号发射升空瞬间",
+      "onboard_time": 1683772468,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66746,
       "num": 66746,
       "word": "哈尔滨一九四四剧情简介",
@@ -905,14 +985,6 @@
       "onboard_time": 1683735386,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 31816,
-      "num": 1424436,
-      "word": "天舟六号发射升空瞬间",
-      "onboard_time": 1683772468,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28921,
