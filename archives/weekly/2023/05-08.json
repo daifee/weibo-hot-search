@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683804804359,
+  "endTime": 1683808425018,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -763,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1387593,
+      "num": 1387593,
+      "word": "4月份人民币存款减少4609亿元",
+      "onboard_time": 1683803425,
+      "rank": 23,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1386877,
       "num": 852538,
       "word": "杨幂解约文案适配分手官宣结婚",
@@ -1219,6 +1227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1002693,
+      "num": 1002693,
+      "word": "美依礼芽素颜",
+      "onboard_time": 1683794069,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 994273,
       "num": 994273,
       "word": "湖人3比1勇士",
@@ -1417,14 +1433,6 @@
       "onboard_time": 1683546988,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 861971,
-      "num": 861971,
-      "word": "美依礼芽素颜",
-      "onboard_time": 1683794069,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 848368,
@@ -2427,6 +2435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 500894,
+      "num": 298457,
+      "word": "史航",
+      "onboard_time": 1683806186,
+      "rank": 12,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 498692,
       "num": 498692,
       "word": "A股",
@@ -2507,6 +2523,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 476596,
+      "num": 476596,
+      "word": "长沙烟花",
+      "onboard_time": 1683803729,
+      "rank": 34,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 475828,
       "num": 310718,
       "word": "论文查重率0%是种什么体验",
@@ -2577,6 +2601,14 @@
       "onboard_time": 1683788128,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 458644,
+      "num": 458644,
+      "word": "公诉 网播",
+      "onboard_time": 1683804148,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 456304,
@@ -3091,14 +3123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 387509,
-      "num": 387509,
-      "word": "公诉 网播",
-      "onboard_time": 1683804148,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 385213,
       "num": 385213,
       "word": "男子火车上被陌生人持刀杀害",
@@ -3547,6 +3571,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 353557,
+      "num": 189721,
+      "word": "徐娇泳装",
+      "onboard_time": 1683807388,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353508,
       "num": 273663,
       "word": "后浪官宣定档",
@@ -3577,6 +3609,14 @@
       "onboard_time": 1683623368,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 351667,
+      "num": 351667,
+      "word": "白鹿或将演朝雪录",
+      "onboard_time": 1683804747,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 351263,
@@ -3648,6 +3688,14 @@
       "word": "乘风4最新人气排名",
       "onboard_time": 1683528753,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 346345,
+      "num": 247446,
+      "word": "乘风一公改档周六日播出",
+      "onboard_time": 1683806966,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -4251,6 +4299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 300947,
+      "num": 241688,
+      "word": "周杰伦周星驰同框照",
+      "onboard_time": 1683805706,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300524,
       "num": 300524,
       "word": "杭州不定价咖啡馆试营业首日亏3500元",
@@ -4561,14 +4617,6 @@
       "onboard_time": 1683691052,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 284250,
-      "num": 284250,
-      "word": "4月份人民币存款减少4609亿元",
-      "onboard_time": 1683803425,
-      "rank": 23,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 284168,
@@ -5091,6 +5139,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 254774,
+      "num": 254774,
+      "word": "亚洲杯抽签",
+      "onboard_time": 1683806605,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 254313,
+      "num": 189225,
+      "word": "HR听了都心疼的离职原因",
+      "onboard_time": 1683804987,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 254125,
       "num": 254125,
       "word": "田曦薇梦到作业没写完",
@@ -5393,6 +5457,14 @@
       "onboard_time": 1683563424,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 239414,
+      "num": 187780,
+      "word": "范丞丞称演戏是最轻松的职业",
+      "onboard_time": 1683802408,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 237881,
@@ -5963,6 +6035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 214544,
+      "num": 167199,
+      "word": "辛巴否认带货致榴莲涨价",
+      "onboard_time": 1683807867,
+      "rank": 31,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 213939,
       "num": 213939,
       "word": "杨鸣 技术犯规",
@@ -6097,14 +6177,6 @@
       "onboard_time": 1683599666,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209104,
-      "num": 187780,
-      "word": "范丞丞称演戏是最轻松的职业",
-      "onboard_time": 1683802408,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 208642,
@@ -6481,6 +6553,14 @@
       "onboard_time": 1683530256,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194210,
+      "num": 144640,
+      "word": "乘风2023芭莎一公登场大片",
+      "onboard_time": 1683808107,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 193685,
@@ -7003,6 +7083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172121,
+      "num": 172121,
+      "word": "女儿绘制妈妈8年病情帮医生找到病因",
+      "onboard_time": 1683805406,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171997,
       "num": 171997,
       "word": "法老ghost face",
@@ -7041,14 +7129,6 @@
       "onboard_time": 1683626729,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 169634,
-      "num": 169634,
-      "word": "长沙烟花",
-      "onboard_time": 1683803729,
-      "rank": 34,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 168616,
@@ -7457,14 +7537,6 @@
       "onboard_time": 1683501501,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147152,
-      "num": 122493,
-      "word": "白鹿或将演朝雪录",
-      "onboard_time": 1683804747,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 146619,
@@ -7907,6 +7979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120600,
+      "num": 120600,
+      "word": "狗狗失踪7年后回家主人煮饺子庆团圆",
+      "onboard_time": 1683807927,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120361,
       "num": 120361,
       "word": "蔡徐坤第一首原创单曲回归",
@@ -8152,6 +8232,14 @@
       "word": "淘宝回应网友报销账单",
       "onboard_time": 1683518427,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91743,
+      "num": 100450,
+      "word": "英国首批三亲婴儿诞生",
+      "onboard_time": 1683808168,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
