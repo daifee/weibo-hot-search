@@ -1,0 +1,410 @@
+{
+  "runTime": 1683789338648,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1765895,
+        "num": 1765895,
+        "word": "弟弟帮离世哥哥通关塞尔达",
+        "onboard_time": 1683780269,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1484454,
+        "num": 1484454,
+        "word": "老师意外发现13岁学生已是公司老板",
+        "onboard_time": 1683784949,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 34897,
+        "num": 1149104,
+        "word": "天舟六号发射升空瞬间",
+        "onboard_time": 1683772468,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1021606,
+        "num": 1021606,
+        "word": "那英真的没在说脏话",
+        "onboard_time": 1683782790,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 988568,
+        "num": 988568,
+        "word": "孟羽童回应离职格力",
+        "onboard_time": 1683779671,
+        "rank": 4,
+        "category": "网红,科技"
+      },
+      {
+        "raw_hot": 882197,
+        "num": 882197,
+        "word": "孙俪的背",
+        "onboard_time": 1683784048,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 781311,
+        "num": 781311,
+        "word": "B站UP主吐槽浪姐4",
+        "onboard_time": 1683775710,
+        "rank": 6,
+        "category": "综艺,网红"
+      },
+      {
+        "raw_hot": 748901,
+        "num": 748901,
+        "word": "浓眉被打",
+        "onboard_time": 1683779252,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 618294,
+        "num": 618294,
+        "word": "金晨 不想任何声音模糊和影响作品本身",
+        "onboard_time": 1683778109,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 564088,
+        "num": 564088,
+        "word": "巴厘岛命案已形成初步报告",
+        "onboard_time": 1683774867,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1800101,
+        "num": 558252,
+        "word": "刘亦菲露腰了",
+        "onboard_time": 1683783508,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 578287,
+        "num": 551053,
+        "word": "美依礼芽",
+        "onboard_time": 1683784048,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 536664,
+        "num": 536664,
+        "word": "张波叶诚尘微信聊天记录",
+        "onboard_time": 1683780692,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515533,
+        "num": 515533,
+        "word": "屈楚萧演张万森吗",
+        "onboard_time": 1683787348,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 426482,
+        "num": 426482,
+        "word": "辽宁一养猪场外墙发现无名女尸",
+        "onboard_time": 1683787226,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443806,
+        "num": 423619,
+        "word": "辛巴 榴莲",
+        "onboard_time": 1683769228,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 389957,
+        "num": 389957,
+        "word": "重庆姐弟坠亡案被告人二审死刑",
+        "onboard_time": 1683771387,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377972,
+        "num": 377972,
+        "word": "蒋雯丽明道转角之恋开分2.9",
+        "onboard_time": 1683784349,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326754,
+        "num": 326754,
+        "word": "市监局回应辛巴带货致榴莲价格上涨",
+        "onboard_time": 1683780932,
+        "rank": 18,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 311935,
+        "num": 311935,
+        "word": "孟羽童曾连续工作21小时",
+        "onboard_time": 1683765510,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401276,
+        "num": 310718,
+        "word": "论文查重率0%是种什么体验",
+        "onboard_time": 1683786448,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 363941,
+        "num": 307522,
+        "word": "一闪一闪亮星星",
+        "onboard_time": 1683781470,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1141162,
+        "num": 304862,
+        "word": "旺旺医院",
+        "onboard_time": 1683785127,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 342618,
+        "num": 303367,
+        "word": "张子萱终于不给陈赫打码了",
+        "onboard_time": 1683731492,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301542,
+        "num": 301542,
+        "word": "再也不敢吃铜锅火锅了",
+        "onboard_time": 1683768626,
+        "rank": 24,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 329356,
+        "num": 288635,
+        "word": "浪来了刘宇宁自己先跑了",
+        "onboard_time": 1683787529,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 270943,
+        "num": 270943,
+        "word": "女游客在马来西亚潜水被教练强吻",
+        "onboard_time": 1683788128,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255696,
+        "num": 255696,
+        "word": "曾可妮拍姐姐拍了10多个G",
+        "onboard_time": 1683771809,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251179,
+        "num": 251179,
+        "word": "爱你就要大声说出来",
+        "onboard_time": 1683788908,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247437,
+        "num": 247437,
+        "word": "博纳财报评易烊千玺王一博电影",
+        "onboard_time": 1683787949,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209580,
+        "num": 209580,
+        "word": "金钟仁今日入伍",
+        "onboard_time": 1683786268,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208857,
+        "num": 208857,
+        "word": "普通人结婚不建议花的钱",
+        "onboard_time": 1683776368,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207469,
+        "num": 207469,
+        "word": "EXO将发行正规七辑",
+        "onboard_time": 1683786209,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 205578,
+        "num": 205578,
+        "word": "小朋友偷看豪车被邀请进车行参观",
+        "onboard_time": 1683786567,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199396,
+        "num": 199396,
+        "word": "想给男友妈妈买束花却吵架了",
+        "onboard_time": 1683776249,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197750,
+        "num": 197750,
+        "word": "奔跑吧明晚来听青春歌会",
+        "onboard_time": 1683783327,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195924,
+        "num": 195924,
+        "word": "易烊千玺早期小蜜蜂舞蹈",
+        "onboard_time": 1683783089,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186989,
+        "num": 186989,
+        "word": "全职太太离婚发现丈夫资产过亿",
+        "onboard_time": 1683721650,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179266,
+        "num": 179266,
+        "word": "七小时结束了相恋七年的感情",
+        "onboard_time": 1683718169,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175075,
+        "num": 175075,
+        "word": "王鹤棣说好看的人也要好好演戏",
+        "onboard_time": 1683781827,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170604,
+        "num": 170604,
+        "word": "翟潇闻 狐妖小红娘竹业篇男二",
+        "onboard_time": 1683776788,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167001,
+        "num": 167001,
+        "word": "金州武术队",
+        "onboard_time": 1683780451,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166896,
+        "num": 166896,
+        "word": "交警护送重病患者前车纷纷让行",
+        "onboard_time": 1683788908,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155849,
+        "num": 155849,
+        "word": "谢娜说我们组互相都不熟",
+        "onboard_time": 1683784768,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155519,
+        "num": 155519,
+        "word": "最新试管婴儿技术怎样了",
+        "onboard_time": 1683788548,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 154891,
+        "num": 154891,
+        "word": "原神3.7",
+        "onboard_time": 1683781470,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134501,
+        "num": 134501,
+        "word": "梦中的那片海",
+        "onboard_time": 1683773249,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123214,
+        "num": 123214,
+        "word": "王楚钦愿人生没有极限",
+        "onboard_time": 1683789327,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122607,
+        "num": 122607,
+        "word": "回村后听过最劲爆的八卦",
+        "onboard_time": 1683781890,
+        "rank": 48,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 122424,
+        "num": 122424,
+        "word": "爱奇艺待播剧排播表",
+        "onboard_time": 1683789148,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在河北雄安新区考察#"
+    }
+  }
+}
