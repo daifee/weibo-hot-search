@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683761623963,
+  "endTime": 1683768167390,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -363,6 +363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1790527,
+      "num": 1790527,
+      "word": "孟羽童",
+      "onboard_time": 1683763770,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1789369,
       "num": 1789369,
       "word": "iPhone16Pro将采用固态按键",
@@ -393,6 +401,14 @@
       "onboard_time": 1683676827,
       "rank": 1,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1700400,
+      "num": 472699,
+      "word": "被曝性侵郑大教授否认性侵和PUA",
+      "onboard_time": 1683763770,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1676861,
@@ -683,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1341896,
+      "num": 1341896,
+      "word": "泰星Tangmo溺亡案宣判",
+      "onboard_time": 1683761544,
+      "rank": 36,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 1301581,
       "num": 1301581,
       "word": "长风渡 真情侣",
@@ -932,7 +956,7 @@
     },
     {
       "raw_hot": 1076016,
-      "num": 259382,
+      "num": 462224,
       "word": "杨洋同学会全记录视频",
       "onboard_time": 1683734128,
       "rank": 11,
@@ -1081,6 +1105,14 @@
       "onboard_time": 1683712351,
       "rank": 10,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 938230,
+      "num": 938230,
+      "word": "男子晒术后取出颅骨碎片薄如甲片",
+      "onboard_time": 1683761183,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 933025,
@@ -1339,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 756655,
+      "num": 756655,
+      "word": "没有男艺人能穿着衣服走出郭敬明的剧",
+      "onboard_time": 1683719129,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 746762,
       "num": 746762,
       "word": "金智秀有钱且漂亮",
@@ -1467,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 685203,
+      "num": 685203,
+      "word": "广州地铁",
+      "onboard_time": 1683764671,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 683373,
       "num": 683373,
       "word": "肖战把皮带挂脖子上",
@@ -1579,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 625906,
+      "num": 625906,
+      "word": "重庆姐弟坠亡案二审宣判",
+      "onboard_time": 1683767015,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 624276,
       "num": 624276,
       "word": "杰克辣条已被取消阜南好人称号",
@@ -1649,6 +1705,14 @@
       "onboard_time": 1683522032,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 609342,
+      "num": 353000,
+      "word": "七小时结束了相恋七年的感情",
+      "onboard_time": 1683718169,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 609005,
@@ -1939,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 521327,
+      "num": 242002,
+      "word": "孟羽童曾连续工作21小时",
+      "onboard_time": 1683765510,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 518353,
       "num": 518353,
       "word": "IU经纪公司否认剽窃",
@@ -2051,14 +2123,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 490495,
-      "num": 353000,
-      "word": "七小时结束了相恋七年的感情",
-      "onboard_time": 1683718169,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 490447,
       "num": 490447,
       "word": "亦卷古月 停更",
@@ -2089,6 +2153,14 @@
       "onboard_time": 1683710610,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 485721,
+      "num": 485721,
+      "word": "日本地震",
+      "onboard_time": 1683760881,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 483455,
@@ -2281,6 +2353,14 @@
       "onboard_time": 1683605370,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 435229,
+      "num": 435229,
+      "word": "高叶祝张颂文福如东海寿比南山",
+      "onboard_time": 1683762747,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 433883,
@@ -2939,6 +3019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 357554,
+      "num": 238400,
+      "word": "为什么35岁是中年的一道坎",
+      "onboard_time": 1683764728,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 357057,
       "num": 357057,
       "word": "巨齿鲨2",
@@ -3179,6 +3267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 336949,
+      "num": 235049,
+      "word": "山西一地偷排不明液体致3人死亡",
+      "onboard_time": 1683763467,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336909,
       "num": 336909,
       "word": "张婧仪上错车",
@@ -3331,14 +3427,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 322209,
-      "num": 322209,
-      "word": "没有男艺人能穿着衣服走出郭敬明的剧",
-      "onboard_time": 1683719129,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 321765,
       "num": 321765,
       "word": "誓约 甜筒",
@@ -3425,6 +3513,14 @@
       "onboard_time": 1683709709,
       "rank": 44,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 313462,
+      "num": 313462,
+      "word": "杭州亚运会电竞国家队名单来了",
+      "onboard_time": 1683761905,
+      "rank": 16,
+      "category": "体育,游戏"
     },
     {
       "raw_hot": 311516,
@@ -3803,6 +3899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 284997,
+      "num": 227129,
+      "word": "男子强拉妻子退几十元衣服",
+      "onboard_time": 1683760403,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284719,
       "num": 284719,
       "word": "马天宇在跑男演了棵树",
@@ -4025,6 +4129,14 @@
       "onboard_time": 1683555813,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 268701,
+      "num": 221582,
+      "word": "奔跑吧导演说邀请范丞丞是因为合适",
+      "onboard_time": 1683764309,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 268591,
@@ -4353,6 +4465,14 @@
       "onboard_time": 1683615208,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250084,
+      "num": 250084,
+      "word": "杭州地铁售票机不能用支付宝",
+      "onboard_time": 1683759861,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249590,
@@ -5067,6 +5187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210022,
+      "num": 210022,
+      "word": "孟羽童曾称董明珠不可复制",
+      "onboard_time": 1683759077,
+      "rank": 23,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 209700,
       "num": 184784,
       "word": "爱奇艺新综艺片单刷不完",
@@ -5187,6 +5315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203958,
+      "num": 203958,
+      "word": "江疏影头发上有只蝴蝶",
+      "onboard_time": 1683762145,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 203614,
       "num": 203614,
       "word": "狐妖小红娘竹业篇剧版vs原版",
@@ -5243,12 +5379,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200362,
+      "num": 200362,
+      "word": "BABYMONSTER真的是五个人",
+      "onboard_time": 1683764128,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200330,
       "num": 200330,
       "word": "金泰妍演唱会官宣香港场",
       "onboard_time": 1683599666,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 200101,
+      "num": 200101,
+      "word": "被75岁学生写给00后老师的信戳到了",
+      "onboard_time": 1683767968,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199987,
@@ -5403,14 +5555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 193956,
-      "num": 144770,
-      "word": "男子强拉妻子退几十元衣服",
-      "onboard_time": 1683760403,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193685,
       "num": 193685,
       "word": "你给我的喜欢",
@@ -5475,12 +5619,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190407,
-      "num": 106566,
-      "word": "杭州地铁售票机不能用支付宝",
-      "onboard_time": 1683759861,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 190675,
+      "num": 190675,
+      "word": "詹姆斯最佳阵容三阵",
+      "onboard_time": 1683764608,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 190291,
@@ -5659,14 +5803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182045,
-      "num": 182045,
-      "word": "日本地震",
-      "onboard_time": 1683760881,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181311,
       "num": 181311,
       "word": "杨紫雨中撑伞转圈",
@@ -5683,12 +5819,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 180196,
-      "num": 144146,
-      "word": "孟羽童曾称董明珠不可复制",
-      "onboard_time": 1683759077,
-      "rank": 23,
-      "category": "社会新闻,财经"
+      "raw_hot": 179826,
+      "num": 179826,
+      "word": "赞多面包测评",
+      "onboard_time": 1683765931,
+      "rank": 35,
+      "category": "美食,艺人"
     },
     {
       "raw_hot": 179737,
@@ -5851,20 +5987,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 173012,
-      "num": 105712,
-      "word": "男子晒术后取出颅骨碎片薄如甲片",
-      "onboard_time": 1683761183,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172974,
       "num": 172974,
       "word": "喜欢你我也是",
       "onboard_time": 1683695380,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172884,
+      "num": 172884,
+      "word": "随恩人参军的汶川地震受灾男孩又有励志后续",
+      "onboard_time": 1683763589,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171997,
@@ -6019,6 +6155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164257,
+      "num": 164257,
+      "word": "淄博市烧烤协会声明",
+      "onboard_time": 1683760522,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163452,
       "num": 163452,
       "word": "王心凌唱歌吃到彩带",
@@ -6075,6 +6219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 158554,
+      "num": 158554,
+      "word": "爷爷奶奶辈的名字有多令人惊艳",
+      "onboard_time": 1683768028,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156081,
       "num": 156081,
       "word": "6年级女孩2个月手绘全班毕业照",
@@ -6123,6 +6275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153118,
+      "num": 153118,
+      "word": "王楚钦23岁生日",
+      "onboard_time": 1683762689,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152723,
       "num": 152723,
       "word": "你给我的喜欢17集",
@@ -6169,6 +6329,14 @@
       "onboard_time": 1683632789,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150227,
+      "num": 1100829,
+      "word": "属于中国人的宇宙级浪漫",
+      "onboard_time": 1683730232,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150078,
@@ -6240,6 +6408,14 @@
       "word": "校方回应男生被老师丈夫刺伤",
       "onboard_time": 1683491591,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144986,
+      "num": 144986,
+      "word": "6岁男童被浪卷走河南小伙跳水库救人",
+      "onboard_time": 1683764912,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -6459,11 +6635,11 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 132384,
-      "num": 132384,
-      "word": "淄博市烧烤协会声明",
-      "onboard_time": 1683760522,
-      "rank": 47,
+      "raw_hot": 132466,
+      "num": 132466,
+      "word": "小伙从苏州骑电动车到淄博吃烧烤",
+      "onboard_time": 1683764069,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -6473,6 +6649,14 @@
       "onboard_time": 1683628530,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 130650,
+      "num": 130650,
+      "word": "男子地铁里晕倒军校学员暖心救助",
+      "onboard_time": 1683765389,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130290,
@@ -6505,6 +6689,14 @@
       "onboard_time": 1683478102,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126274,
+      "num": 126274,
+      "word": "王国之泪",
+      "onboard_time": 1683760460,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 126033,
@@ -6763,14 +6955,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 96965,
-      "num": 891213,
-      "word": "属于中国人的宇宙级浪漫",
-      "onboard_time": 1683730232,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 96914,
       "num": 112729,
       "word": "对减脂餐有不同的理解",
@@ -6819,14 +7003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 88550,
-      "num": 88550,
-      "word": "泰星Tangmo溺亡案宣判",
-      "onboard_time": 1683761544,
-      "rank": 36,
-      "category": "艺人,社会新闻"
-    },
-    {
       "raw_hot": 88018,
       "num": 149351,
       "word": "星穹铁道首个动画短片",
@@ -6873,14 +7049,6 @@
       "onboard_time": 1683566777,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 82751,
-      "num": 82751,
-      "word": "王国之泪",
-      "onboard_time": 1683760460,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 82748,

@@ -1,22 +1,62 @@
 {
   "startTime": 1683736826788,
-  "endTime": 1683761623963,
+  "endTime": 1683768167390,
   "band_list": [
     {
-      "raw_hot": 1532446,
-      "num": 262109,
+      "raw_hot": 1790527,
+      "num": 1790527,
+      "word": "孟羽童",
+      "onboard_time": 1683763770,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1700400,
+      "num": 472699,
+      "word": "被曝性侵郑大教授否认性侵和PUA",
+      "onboard_time": 1683763770,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1566990,
+      "num": 471419,
       "word": "张子萱终于不给陈赫打码了",
       "onboard_time": 1683731492,
       "rank": 10,
       "category": "艺人"
     },
     {
+      "raw_hot": 1341896,
+      "num": 1341896,
+      "word": "泰星Tangmo溺亡案宣判",
+      "onboard_time": 1683761544,
+      "rank": 36,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 1076016,
-      "num": 259382,
+      "num": 462224,
       "word": "杨洋同学会全记录视频",
       "onboard_time": 1683734128,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1035174,
+      "num": 1035174,
+      "word": "全职太太离婚发现丈夫资产过亿",
+      "onboard_time": 1683721650,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 938230,
+      "num": 938230,
+      "word": "男子晒术后取出颅骨碎片薄如甲片",
+      "onboard_time": 1683761183,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 933025,
@@ -35,6 +75,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 756655,
+      "num": 756655,
+      "word": "没有男艺人能穿着衣服走出郭敬明的剧",
+      "onboard_time": 1683719129,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 685203,
+      "num": 685203,
+      "word": "广州地铁",
+      "onboard_time": 1683764671,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 666578,
       "num": 666578,
       "word": "身上5种疣可能是HPV感染",
@@ -43,11 +99,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 638144,
-      "num": 638144,
-      "word": "全职太太离婚发现丈夫资产过亿",
-      "onboard_time": 1683721650,
-      "rank": 1,
+      "raw_hot": 625906,
+      "num": 625906,
+      "word": "重庆姐弟坠亡案二审宣判",
+      "onboard_time": 1683767015,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 609342,
+      "num": 245439,
+      "word": "七小时结束了相恋七年的感情",
+      "onboard_time": 1683718169,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 521327,
+      "num": 242002,
+      "word": "孟羽童曾连续工作21小时",
+      "onboard_time": 1683765510,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -59,12 +131,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 485721,
+      "num": 485721,
+      "word": "日本地震",
+      "onboard_time": 1683760881,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 445844,
       "num": 445844,
       "word": "泫雅 武汉音乐节",
       "onboard_time": 1683720269,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 435229,
+      "num": 435229,
+      "word": "高叶祝张颂文福如东海寿比南山",
+      "onboard_time": 1683762747,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 429597,
@@ -75,12 +163,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 354125,
-      "num": 163406,
-      "word": "七小时结束了相恋七年的感情",
-      "onboard_time": 1683718169,
-      "rank": 20,
-      "category": "幽默"
+      "raw_hot": 357554,
+      "num": 238400,
+      "word": "为什么35岁是中年的一道坎",
+      "onboard_time": 1683764728,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 336949,
+      "num": 235049,
+      "word": "山西一地偷排不明液体致3人死亡",
+      "onboard_time": 1683763467,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335322,
@@ -107,12 +203,36 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 255093,
-      "num": 255093,
-      "word": "没有男艺人能穿着衣服走出郭敬明的剧",
-      "onboard_time": 1683719129,
-      "rank": 18,
-      "category": "影视"
+      "raw_hot": 313462,
+      "num": 313462,
+      "word": "杭州亚运会电竞国家队名单来了",
+      "onboard_time": 1683761905,
+      "rank": 16,
+      "category": "体育,游戏"
+    },
+    {
+      "raw_hot": 292379,
+      "num": 292379,
+      "word": "对大学生的伤害不亚于初恋",
+      "onboard_time": 1683725131,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 284997,
+      "num": 227129,
+      "word": "男子强拉妻子退几十元衣服",
+      "onboard_time": 1683760403,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268701,
+      "num": 221582,
+      "word": "奔跑吧导演说邀请范丞丞是因为合适",
+      "onboard_time": 1683764309,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 252579,
@@ -123,20 +243,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250084,
+      "num": 250084,
+      "word": "杭州地铁售票机不能用支付宝",
+      "onboard_time": 1683759861,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248510,
       "num": 248510,
       "word": "7岁女孩三百多天照料唤醒昏迷父亲",
       "onboard_time": 1683740356,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248106,
-      "num": 248106,
-      "word": "对大学生的伤害不亚于初恋",
-      "onboard_time": 1683725131,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 237881,
@@ -155,12 +275,36 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 220877,
+      "num": 220877,
+      "word": "蘑菇屋将迎来最大客流",
+      "onboard_time": 1683727170,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210206,
       "num": 210206,
       "word": "AC米兰0比2国际米兰",
       "onboard_time": 1683761122,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210149,
+      "num": 210149,
+      "word": "买房买到一半就拆迁了",
+      "onboard_time": 1683724951,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 210022,
+      "num": 210022,
+      "word": "孟羽童曾称董明珠不可复制",
+      "onboard_time": 1683759077,
+      "rank": 23,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 208997,
@@ -171,28 +315,36 @@
       "category": "影视"
     },
     {
-      "raw_hot": 203279,
-      "num": 203279,
-      "word": "蘑菇屋将迎来最大客流",
-      "onboard_time": 1683727170,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 203958,
+      "num": 203958,
+      "word": "江疏影头发上有只蝴蝶",
+      "onboard_time": 1683762145,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
-      "raw_hot": 193956,
-      "num": 144770,
-      "word": "男子强拉妻子退几十元衣服",
-      "onboard_time": 1683760403,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190407,
-      "num": 106566,
-      "word": "杭州地铁售票机不能用支付宝",
-      "onboard_time": 1683759861,
+      "raw_hot": 200362,
+      "num": 200362,
+      "word": "BABYMONSTER真的是五个人",
+      "onboard_time": 1683764128,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 200101,
+      "num": 200101,
+      "word": "被75岁学生写给00后老师的信戳到了",
+      "onboard_time": 1683767968,
+      "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190675,
+      "num": 190675,
+      "word": "詹姆斯最佳阵容三阵",
+      "onboard_time": 1683764608,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 185740,
@@ -203,22 +355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 182372,
-      "num": 162080,
-      "word": "买房买到一半就拆迁了",
-      "onboard_time": 1683724951,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 182045,
-      "num": 182045,
-      "word": "日本地震",
-      "onboard_time": 1683760881,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180919,
       "num": 180919,
       "word": "玉骨遥到底播不播",
@@ -227,19 +363,35 @@
       "category": "影视"
     },
     {
-      "raw_hot": 180196,
-      "num": 144146,
-      "word": "孟羽童曾称董明珠不可复制",
-      "onboard_time": 1683759077,
-      "rank": 23,
-      "category": "社会新闻,财经"
+      "raw_hot": 179826,
+      "num": 179826,
+      "word": "赞多面包测评",
+      "onboard_time": 1683765931,
+      "rank": 35,
+      "category": "美食,艺人"
     },
     {
-      "raw_hot": 173012,
-      "num": 105712,
-      "word": "男子晒术后取出颅骨碎片薄如甲片",
-      "onboard_time": 1683761183,
-      "rank": 31,
+      "raw_hot": 172884,
+      "num": 172884,
+      "word": "随恩人参军的汶川地震受灾男孩又有励志后续",
+      "onboard_time": 1683763589,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167234,
+      "num": 167234,
+      "word": "美白滤镜下的吉克隽逸",
+      "onboard_time": 1683724230,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 164257,
+      "num": 164257,
+      "word": "淄博市烧烤协会声明",
+      "onboard_time": 1683760522,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -251,12 +403,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157584,
-      "num": 157584,
-      "word": "美白滤镜下的吉克隽逸",
-      "onboard_time": 1683724230,
-      "rank": 22,
-      "category": "作品衍生"
+      "raw_hot": 158554,
+      "num": 158554,
+      "word": "爷爷奶奶辈的名字有多令人惊艳",
+      "onboard_time": 1683768028,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 157101,
@@ -275,12 +427,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153118,
+      "num": 153118,
+      "word": "王楚钦23岁生日",
+      "onboard_time": 1683762689,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152697,
       "num": 152697,
       "word": "高三老师们走廊摆摊式辅导为学生答疑",
       "onboard_time": 1683740177,
       "rank": 38,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 150227,
+      "num": 1100829,
+      "word": "属于中国人的宇宙级浪漫",
+      "onboard_time": 1683730232,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149436,
@@ -297,6 +465,14 @@
       "onboard_time": 1683725794,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 144986,
+      "num": 144986,
+      "word": "6岁男童被浪卷走河南小伙跳水库救人",
+      "onboard_time": 1683764912,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144312,
@@ -323,11 +499,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 132384,
-      "num": 132384,
-      "word": "淄博市烧烤协会声明",
-      "onboard_time": 1683760522,
-      "rank": 47,
+      "raw_hot": 132466,
+      "num": 132466,
+      "word": "小伙从苏州骑电动车到淄博吃烧烤",
+      "onboard_time": 1683764069,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -337,6 +513,14 @@
       "onboard_time": 1683729394,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130650,
+      "num": 130650,
+      "word": "男子地铁里晕倒军校学员暖心救助",
+      "onboard_time": 1683765389,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129527,
@@ -353,6 +537,14 @@
       "onboard_time": 1683730713,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 126274,
+      "num": 126274,
+      "word": "王国之泪",
+      "onboard_time": 1683760460,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 120384,
@@ -411,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 106329,
+      "num": 122467,
+      "word": "三井寿 湘北的公主",
+      "onboard_time": 1683722189,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 103579,
       "num": 92532,
       "word": "张若昀不再是张无继了",
@@ -443,14 +643,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 94855,
-      "num": 94855,
-      "word": "三井寿 湘北的公主",
-      "onboard_time": 1683722189,
-      "rank": 39,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 91948,
       "num": 91948,
       "word": "许光汉 同济",
@@ -465,14 +657,6 @@
       "onboard_time": 1683735565,
       "rank": 46,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 88550,
-      "num": 88550,
-      "word": "泰星Tangmo溺亡案宣判",
-      "onboard_time": 1683761544,
-      "rank": 36,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 88028,
@@ -497,14 +681,6 @@
       "onboard_time": 1683741554,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 82751,
-      "num": 82751,
-      "word": "王国之泪",
-      "onboard_time": 1683760460,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 82748,
@@ -537,14 +713,6 @@
       "onboard_time": 1683754632,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 64419,
-      "num": 602472,
-      "word": "属于中国人的宇宙级浪漫",
-      "onboard_time": 1683730232,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51815,
