@@ -1,0 +1,410 @@
+{
+  "runTime": 1683811229118,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1446609,
+        "num": 1446609,
+        "word": "4月份人民币存款减少4609亿元",
+        "onboard_time": 1683803425,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 927245,
+        "num": 927245,
+        "word": "英国首批三亲婴儿诞生",
+        "onboard_time": 1683808168,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17561,
+        "num": 878618,
+        "word": "天舟六号有何特别之处",
+        "onboard_time": 1683810805,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 876088,
+        "num": 876088,
+        "word": "美依礼芽素颜",
+        "onboard_time": 1683794069,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 729393,
+        "num": 729393,
+        "word": "谢楠说现在不敢抵押房子拍电影",
+        "onboard_time": 1683797369,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 698236,
+        "num": 698236,
+        "word": "癌症筛查 早发现早治疗未必是对的",
+        "onboard_time": 1683792330,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 637272,
+        "num": 637272,
+        "word": "那英 问你妈妈好",
+        "onboard_time": 1683808586,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 621084,
+        "num": 621084,
+        "word": "狗狗失踪7年后回家主人煮饺子庆团圆",
+        "onboard_time": 1683807927,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434799,
+        "num": 434799,
+        "word": "长沙烟花",
+        "onboard_time": 1683803729,
+        "rank": 8,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 419554,
+        "num": 419554,
+        "word": "老师意外发现13岁学生已是公司老板",
+        "onboard_time": 1683784949,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 516346,
+        "num": 403340,
+        "word": "刘亦菲露腰了",
+        "onboard_time": 1683783508,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 380561,
+        "num": 380561,
+        "word": "乘风一公改档周六日播出",
+        "onboard_time": 1683806966,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314066,
+        "num": 314066,
+        "word": "ZB1队长",
+        "onboard_time": 1683809308,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291272,
+        "num": 291272,
+        "word": "欧豪白鹿新剧北上已开拍",
+        "onboard_time": 1683809426,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278751,
+        "num": 278751,
+        "word": "公诉 网播",
+        "onboard_time": 1683804148,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276568,
+        "num": 276568,
+        "word": "周杰伦周星驰同框照",
+        "onboard_time": 1683805706,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273300,
+        "num": 273300,
+        "word": "再也不敢吃铜锅火锅了",
+        "onboard_time": 1683768626,
+        "rank": 16,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 263135,
+        "num": 263135,
+        "word": "白鹿或将演朝雪录",
+        "onboard_time": 1683804747,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257884,
+        "num": 257884,
+        "word": "巴厘岛命案已形成初步报告",
+        "onboard_time": 1683774867,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227163,
+        "num": 227163,
+        "word": "突然爆更很可能是他失业了",
+        "onboard_time": 1683806908,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 618763,
+        "num": 226922,
+        "word": "徐娇泳装",
+        "onboard_time": 1683807388,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290995,
+        "num": 225118,
+        "word": "王国之泪媒体评分解禁",
+        "onboard_time": 1683810146,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1041896,
+        "num": 223267,
+        "word": "姜思达 对不起",
+        "onboard_time": 1683800907,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 243563,
+        "num": 219742,
+        "word": "辛巴否认带货致榴莲涨价",
+        "onboard_time": 1683807867,
+        "rank": 23,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 238624,
+        "num": 219533,
+        "word": "HR听了都心疼的离职原因",
+        "onboard_time": 1683804987,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 258587,
+        "num": 215894,
+        "word": "虞书欣度假风穿搭",
+        "onboard_time": 1683809246,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237670,
+        "num": 214925,
+        "word": "护心排播咋想的",
+        "onboard_time": 1683802227,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213862,
+        "num": 213862,
+        "word": "女生称30岁相亲被介绍待离婚男士",
+        "onboard_time": 1683799896,
+        "rank": 27,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 200672,
+        "num": 200672,
+        "word": "孩子被异物卡喉众人接力救助",
+        "onboard_time": 1683810687,
+        "rank": 28,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 167623,
+        "num": 167623,
+        "word": "亚洲杯抽签",
+        "onboard_time": 1683806605,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372288,
+        "num": 167329,
+        "word": "史航",
+        "onboard_time": 1683806186,
+        "rank": 30,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 345063,
+        "num": 166379,
+        "word": "辽宁一养猪场外墙发现无名女尸",
+        "onboard_time": 1683787226,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231692,
+        "num": 165890,
+        "word": "张子萱终于不给陈赫打码了",
+        "onboard_time": 1683731492,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229192,
+        "num": 164779,
+        "word": "保你平安",
+        "onboard_time": 1683808709,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224853,
+        "num": 164320,
+        "word": "易梦玲美黑",
+        "onboard_time": 1683800548,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 197044,
+        "num": 163816,
+        "word": "乘风2023芭莎一公登场大片",
+        "onboard_time": 1683808107,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163067,
+        "num": 163067,
+        "word": "女儿绘制妈妈8年病情帮医生找到病因",
+        "onboard_time": 1683805406,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153309,
+        "num": 153309,
+        "word": "弟弟帮离世哥哥通关塞尔达",
+        "onboard_time": 1683780269,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148558,
+        "num": 148558,
+        "word": "Apple ID",
+        "onboard_time": 1683793530,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 144940,
+        "num": 144940,
+        "word": "医生跪着托举12分钟保住新生儿",
+        "onboard_time": 1683794488,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195980,
+        "num": 143458,
+        "word": "王一博在拍什么",
+        "onboard_time": 1683801328,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 176149,
+        "num": 142788,
+        "word": "范丞丞称演戏是最轻松的职业",
+        "onboard_time": 1683802408,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171026,
+        "num": 141210,
+        "word": "护心",
+        "onboard_time": 1683803066,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 72097,
+        "num": 138404,
+        "word": "中国科学家在月壤中发现天然玻璃纤维",
+        "onboard_time": 1683793709,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166129,
+        "num": 136909,
+        "word": "哈姆雷特",
+        "onboard_time": 1683810146,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166089,
+        "num": 134379,
+        "word": "毛晓彤说没有打针",
+        "onboard_time": 1683789448,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133878,
+        "num": 133878,
+        "word": "相亲 用魔法打败魔法",
+        "onboard_time": 1683800907,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 130762,
+        "num": 130762,
+        "word": "浙江男篮号召球迷不要地域歧视",
+        "onboard_time": 1683810026,
+        "rank": 47,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 118494,
+        "num": 118494,
+        "word": "LPL回应FPX十周年没奖",
+        "onboard_time": 1683799529,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95982,
+        "num": 95982,
+        "word": "C9对战BLG",
+        "onboard_time": 1683809011,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#天河行舟载梦远航#"
+    }
+  }
+}
