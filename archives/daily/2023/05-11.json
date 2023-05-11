@@ -1,6 +1,6 @@
 {
   "startTime": 1683736826788,
-  "endTime": 1683793263411,
+  "endTime": 1683794008485,
   "band_list": [
     {
       "raw_hot": 2924775,
@@ -43,8 +43,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1944979,
-      "num": 1944979,
+      "raw_hot": 1963886,
+      "num": 1963886,
       "word": "老师意外发现13岁学生已是公司老板",
       "onboard_time": 1683784949,
       "rank": 30,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 730734,
+      "num": 730734,
+      "word": "黄子韬被狗亲完臭到打了一套拳",
+      "onboard_time": 1683790050,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 699274,
       "num": 699274,
       "word": "勇士vs湖人",
@@ -275,14 +283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 682061,
-      "num": 682061,
-      "word": "黄子韬被狗亲完臭到打了一套拳",
-      "onboard_time": 1683790050,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 666578,
       "num": 666578,
       "word": "身上5种疣可能是HPV感染",
@@ -297,6 +297,14 @@
       "onboard_time": 1683718169,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 597621,
+      "num": 597621,
+      "word": "谁还敢在朋友圈玩梗",
+      "onboard_time": 1683790827,
+      "rank": 8,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 593872,
@@ -355,16 +363,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 528350,
-      "num": 528350,
-      "word": "谁还敢在朋友圈玩梗",
-      "onboard_time": 1683790827,
-      "rank": 8,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 499110,
-      "num": 499110,
+      "raw_hot": 529844,
+      "num": 529844,
       "word": "爱奇艺待播剧排播表",
       "onboard_time": 1683789148,
       "rank": 49,
@@ -419,6 +419,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 442202,
+      "num": 442202,
+      "word": "癌症筛查 早发现早治疗未必是对的",
+      "onboard_time": 1683792330,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 435771,
+      "num": 435771,
+      "word": "母亲遭陌生男子猥亵儿子一招制服",
+      "onboard_time": 1683789690,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 435229,
       "num": 435229,
       "word": "高叶祝张颂文福如东海寿比南山",
@@ -457,14 +473,6 @@
       "onboard_time": 1683779911,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 399923,
-      "num": 399923,
-      "word": "母亲遭陌生男子猥亵儿子一招制服",
-      "onboard_time": 1683789690,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 377972,
@@ -683,6 +691,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275294,
+      "num": 275294,
+      "word": "苹果 钓鱼",
+      "onboard_time": 1683793227,
+      "rank": 32,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 273788,
+      "num": 273788,
+      "word": "吴谢宇曾写五万字亲笔信寄亲友求活路",
+      "onboard_time": 1683792029,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273108,
       "num": 273108,
       "word": "刘雅瑟回复网友说她油",
@@ -707,27 +731,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 267045,
-      "num": 267045,
-      "word": "癌症筛查 早发现早治疗未必是对的",
-      "onboard_time": 1683792330,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 259652,
       "num": 259652,
       "word": "妈妈带瘫痪女儿锻炼4年终会走路",
       "onboard_time": 1683774508,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 258295,
-      "num": 216921,
-      "word": "吴谢宇曾写五万字亲笔信寄亲友求活路",
-      "onboard_time": 1683792029,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -785,6 +793,22 @@
       "onboard_time": 1683787949,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 246761,
+      "num": 246761,
+      "word": "中山一小车冲入河内一家5口身亡",
+      "onboard_time": 1683792508,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246433,
+      "num": 246433,
+      "word": "Apple ID",
+      "onboard_time": 1683793530,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 243613,
@@ -849,6 +873,14 @@
       "onboard_time": 1683789327,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 229723,
+      "num": 229723,
+      "word": "北京 震感",
+      "onboard_time": 1683793351,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229492,
@@ -963,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207953,
+      "num": 207953,
+      "word": "是谁亲了美依礼芽",
+      "onboard_time": 1683792209,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207469,
       "num": 207469,
       "word": "EXO将发行正规七辑",
@@ -987,14 +1027,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 203872,
-      "num": 203872,
-      "word": "苹果 钓鱼",
-      "onboard_time": 1683793227,
-      "rank": 32,
-      "category": "科技"
-    },
-    {
       "raw_hot": 199536,
       "num": 199536,
       "word": "徐明浩自在随性大片",
@@ -1008,14 +1040,6 @@
       "word": "重庆姐弟坠亡案",
       "onboard_time": 1683768927,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193901,
-      "num": 193901,
-      "word": "中山一小车冲入河内一家5口身亡",
-      "onboard_time": 1683792508,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1065,14 +1089,6 @@
       "onboard_time": 1683780031,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 181616,
-      "num": 181616,
-      "word": "是谁亲了美依礼芽",
-      "onboard_time": 1683792209,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 180919,
@@ -1313,6 +1329,14 @@
       "onboard_time": 1683765389,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138790,
+      "num": 138790,
+      "word": "终于知道面试怎么谈薪了",
+      "onboard_time": 1683793949,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 136633,
@@ -1585,6 +1609,14 @@
       "onboard_time": 1683738558,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 51205,
+      "num": 714990,
+      "word": "中国科学家在月壤中发现天然玻璃纤维",
+      "onboard_time": 1683793709,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47716,

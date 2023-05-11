@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683793263411,
+  "endTime": 1683794008485,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -907,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1963886,
+      "num": 1963886,
+      "word": "老师意外发现13岁学生已是公司老板",
+      "onboard_time": 1683784949,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1955423,
       "num": 1955423,
       "word": "新冠疫情不再构成国际关注的突发公共卫生事件",
@@ -921,14 +929,6 @@
       "onboard_time": 1682936969,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1944979,
-      "num": 1944979,
-      "word": "老师意外发现13岁学生已是公司老板",
-      "onboard_time": 1683784949,
-      "rank": 30,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1941746,
@@ -4227,6 +4227,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 730734,
+      "num": 730734,
+      "word": "黄子韬被狗亲完臭到打了一套拳",
+      "onboard_time": 1683790050,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 729071,
       "num": 519357,
       "word": "撞死了一只羊",
@@ -4545,14 +4553,6 @@
       "onboard_time": 1683209974,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 682061,
-      "num": 682061,
-      "word": "黄子韬被狗亲完臭到打了一套拳",
-      "onboard_time": 1683790050,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 679898,
@@ -5073,6 +5073,14 @@
       "onboard_time": 1683441808,
       "rank": 7,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 597621,
+      "num": 597621,
+      "word": "谁还敢在朋友圈玩梗",
+      "onboard_time": 1683790827,
+      "rank": 8,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 596669,
@@ -5907,20 +5915,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 529844,
+      "num": 529844,
+      "word": "爱奇艺待播剧排播表",
+      "onboard_time": 1683789148,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 529382,
       "num": 529382,
       "word": "爱过你的女生 分手是蓄谋已久的",
       "onboard_time": 1683167726,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 528350,
-      "num": 528350,
-      "word": "谁还敢在朋友圈玩梗",
-      "onboard_time": 1683790827,
-      "rank": 8,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 527793,
@@ -6257,14 +6265,6 @@
       "onboard_time": 1683374010,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 499110,
-      "num": 499110,
-      "word": "爱奇艺待播剧排播表",
-      "onboard_time": 1683789148,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 498692,
@@ -7043,6 +7043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 442202,
+      "num": 442202,
+      "word": "癌症筛查 早发现早治疗未必是对的",
+      "onboard_time": 1683792330,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 441634,
       "num": 441634,
       "word": "反感说虚岁 来医院才能看到周岁",
@@ -7121,6 +7129,14 @@
       "onboard_time": 1683362123,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 435771,
+      "num": 435771,
+      "word": "母亲遭陌生男子猥亵儿子一招制服",
+      "onboard_time": 1683789690,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 435239,
@@ -7833,14 +7849,6 @@
       "onboard_time": 1683294753,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 399923,
-      "num": 399923,
-      "word": "母亲遭陌生男子猥亵儿子一招制服",
-      "onboard_time": 1683789690,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 399703,
@@ -11747,6 +11755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 275294,
+      "num": 275294,
+      "word": "苹果 钓鱼",
+      "onboard_time": 1683793227,
+      "rank": 32,
+      "category": "科技"
+    },
+    {
       "raw_hot": 275118,
       "num": 275118,
       "word": "周迅看秀造型",
@@ -11793,6 +11809,14 @@
       "onboard_time": 1683679953,
       "rank": 30,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 273788,
+      "num": 273788,
+      "word": "吴谢宇曾写五万字亲笔信寄亲友求活路",
+      "onboard_time": 1683792029,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273706,
@@ -12113,14 +12137,6 @@
       "onboard_time": 1683164666,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 267045,
-      "num": 267045,
-      "word": "癌症筛查 早发现早治疗未必是对的",
-      "onboard_time": 1683792330,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 267032,
@@ -12497,14 +12513,6 @@
       "onboard_time": 1683126571,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 258295,
-      "num": 216921,
-      "word": "吴谢宇曾写五万字亲笔信寄亲友求活路",
-      "onboard_time": 1683792029,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 258183,
@@ -13219,6 +13227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246761,
+      "num": 246761,
+      "word": "中山一小车冲入河内一家5口身亡",
+      "onboard_time": 1683792508,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246668,
       "num": 246668,
       "word": "刘雯第十一次MetGala",
@@ -13233,6 +13249,14 @@
       "onboard_time": 1682904150,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246433,
+      "num": 246433,
+      "word": "Apple ID",
+      "onboard_time": 1683793530,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 246287,
@@ -14224,6 +14248,14 @@
       "word": "女子遭掌掴还手被认定互殴",
       "onboard_time": 1683456331,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229723,
+      "num": 229723,
+      "word": "北京 震感",
+      "onboard_time": 1683793351,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -15643,6 +15675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207953,
+      "num": 207953,
+      "word": "是谁亲了美依礼芽",
+      "onboard_time": 1683792209,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207858,
       "num": 207858,
       "word": "妈妈年轻时候的日记",
@@ -16001,14 +16041,6 @@
       "onboard_time": 1683762145,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 203872,
-      "num": 203872,
-      "word": "苹果 钓鱼",
-      "onboard_time": 1683793227,
-      "rank": 32,
-      "category": "科技"
     },
     {
       "raw_hot": 203614,
@@ -16697,14 +16729,6 @@
       "onboard_time": 1683092909,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 193901,
-      "num": 193901,
-      "word": "中山一小车冲入河内一家5口身亡",
-      "onboard_time": 1683792508,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193685,
@@ -17513,14 +17537,6 @@
       "onboard_time": 1683257732,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 181616,
-      "num": 181616,
-      "word": "是谁亲了美依礼芽",
-      "onboard_time": 1683792209,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 181549,
@@ -20187,6 +20203,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 138790,
+      "num": 138790,
+      "word": "终于知道面试怎么谈薪了",
+      "onboard_time": 1683793949,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138728,
       "num": 138728,
       "word": "失恋对一个人的伤害有多大",
@@ -22641,6 +22665,14 @@
       "onboard_time": 1682916449,
       "rank": 27,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 51205,
+      "num": 714990,
+      "word": "中国科学家在月壤中发现天然玻璃纤维",
+      "onboard_time": 1683793709,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51061,
