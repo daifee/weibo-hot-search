@@ -1,6 +1,6 @@
 {
   "startTime": 1683736826788,
-  "endTime": 1683790405577,
+  "endTime": 1683793263411,
   "band_list": [
     {
       "raw_hot": 2924775,
@@ -43,6 +43,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1944979,
+      "num": 1944979,
+      "word": "老师意外发现13岁学生已是公司老板",
+      "onboard_time": 1683784949,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1897143,
       "num": 1897143,
       "word": "孟羽童",
@@ -81,14 +89,6 @@
       "onboard_time": 1683763770,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1612930,
-      "num": 1612930,
-      "word": "老师意外发现13岁学生已是公司老板",
-      "onboard_time": 1683784949,
-      "rank": 30,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1566990,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1025362,
+      "num": 744165,
+      "word": "毛晓彤说没有打针",
+      "onboard_time": 1683789448,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 938230,
       "num": 938230,
       "word": "男子晒术后取出颅骨碎片薄如甲片",
@@ -235,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 735761,
+      "num": 735761,
+      "word": "辽宁一养猪场外墙发现无名女尸",
+      "onboard_time": 1683787226,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 699274,
       "num": 699274,
       "word": "勇士vs湖人",
@@ -257,6 +273,14 @@
       "onboard_time": 1683764671,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 682061,
+      "num": 682061,
+      "word": "黄子韬被狗亲完臭到打了一套拳",
+      "onboard_time": 1683790050,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 666578,
@@ -331,6 +355,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 528350,
+      "num": 528350,
+      "word": "谁还敢在朋友圈玩梗",
+      "onboard_time": 1683790827,
+      "rank": 8,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 499110,
+      "num": 499110,
+      "word": "爱奇艺待播剧排播表",
+      "onboard_time": 1683789148,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 490441,
       "num": 490441,
       "word": "经前期综合征",
@@ -347,20 +387,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 477703,
-      "num": 436494,
-      "word": "辽宁一养猪场外墙发现无名女尸",
-      "onboard_time": 1683787226,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 475828,
       "num": 310718,
       "word": "论文查重率0%是种什么体验",
       "onboard_time": 1683786448,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 459718,
+      "num": 459718,
+      "word": "女游客在马来西亚潜水被教练强吻",
+      "onboard_time": 1683788128,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 453393,
@@ -403,14 +443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 406770,
-      "num": 406770,
-      "word": "女游客在马来西亚潜水被教练强吻",
-      "onboard_time": 1683788128,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 405363,
       "num": 391318,
       "word": "想给男友妈妈买束花却吵架了",
@@ -427,12 +459,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 399758,
-      "num": 399758,
-      "word": "毛晓彤说没有打针",
-      "onboard_time": 1683789448,
-      "rank": 17,
-      "category": "影视"
+      "raw_hot": 399923,
+      "num": 399923,
+      "word": "母亲遭陌生男子猥亵儿子一招制服",
+      "onboard_time": 1683789690,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 377972,
@@ -483,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 337106,
+      "num": 307905,
+      "word": "蒋雯丽明道你们图啥",
+      "onboard_time": 1683789629,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 336949,
       "num": 275959,
       "word": "山西一地偷排不明液体致3人死亡",
@@ -505,14 +545,6 @@
       "onboard_time": 1683787529,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 328194,
-      "num": 206863,
-      "word": "蒋雯丽明道你们图啥",
-      "onboard_time": 1683789629,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 327686,
@@ -603,6 +635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 293458,
+      "num": 280323,
+      "word": "Ella亲吴倩",
+      "onboard_time": 1683791308,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292379,
       "num": 292379,
       "word": "对大学生的伤害不亚于初恋",
@@ -667,11 +707,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 267045,
+      "num": 267045,
+      "word": "癌症筛查 早发现早治疗未必是对的",
+      "onboard_time": 1683792330,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 259652,
       "num": 259652,
       "word": "妈妈带瘫痪女儿锻炼4年终会走路",
       "onboard_time": 1683774508,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258295,
+      "num": 216921,
+      "word": "吴谢宇曾写五万字亲笔信寄亲友求活路",
+      "onboard_time": 1683792029,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -681,14 +737,6 @@
       "onboard_time": 1683764128,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 256249,
-      "num": 256249,
-      "word": "黄子韬被狗亲完臭到打了一套拳",
-      "onboard_time": 1683790050,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 252579,
@@ -731,8 +779,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 247437,
-      "num": 247437,
+      "raw_hot": 247968,
+      "num": 247968,
       "word": "博纳财报评易烊千玺王一博电影",
       "onboard_time": 1683787949,
       "rank": 29,
@@ -835,20 +883,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 220784,
-      "num": 206720,
-      "word": "爱奇艺待播剧排播表",
-      "onboard_time": 1683789148,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 219268,
       "num": 219268,
       "word": "最好的朋友没来参加我的婚礼",
       "onboard_time": 1683768626,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 214807,
+      "num": 214807,
+      "word": "全智贤脸颊比心生图",
+      "onboard_time": 1683789934,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 212292,
@@ -899,14 +947,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 209187,
-      "num": 206374,
-      "word": "全智贤脸颊比心生图",
-      "onboard_time": 1683789934,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208997,
       "num": 208997,
       "word": "庆余年2原班人马",
@@ -947,6 +987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 203872,
+      "num": 203872,
+      "word": "苹果 钓鱼",
+      "onboard_time": 1683793227,
+      "rank": 32,
+      "category": "科技"
+    },
+    {
       "raw_hot": 199536,
       "num": 199536,
       "word": "徐明浩自在随性大片",
@@ -963,12 +1011,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193901,
+      "num": 193901,
+      "word": "中山一小车冲入河内一家5口身亡",
+      "onboard_time": 1683792508,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192054,
       "num": 192054,
       "word": "消失的她将上映",
       "onboard_time": 1683781470,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191989,
+      "num": 191989,
+      "word": "杭州多个探头为了它们几年一动不动",
+      "onboard_time": 1683790169,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190675,
@@ -1001,6 +1065,14 @@
       "onboard_time": 1683780031,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 181616,
+      "num": 181616,
+      "word": "是谁亲了美依礼芽",
+      "onboard_time": 1683792209,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 180919,
@@ -1171,11 +1243,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 149175,
-      "num": 149175,
-      "word": "母亲遭陌生男子猥亵儿子一招制服",
-      "onboard_time": 1683789690,
-      "rank": 44,
+      "raw_hot": 148931,
+      "num": 148931,
+      "word": "这才是体育应该有的样子",
+      "onboard_time": 1683791669,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146451,
+      "num": 146451,
+      "word": "女子深信电诈骗局被警察发怒喝止",
+      "onboard_time": 1683792330,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1265,14 +1345,6 @@
       "onboard_time": 1683729394,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129911,
-      "num": 129911,
-      "word": "杭州多个探头为了它们几年一动不动",
-      "onboard_time": 1683790169,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129527,
