@@ -1,0 +1,410 @@
+{
+  "runTime": 1683783205770,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2240283,
+        "num": 2240283,
+        "word": "浓眉被打",
+        "onboard_time": 1683779252,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2049779,
+        "num": 2049779,
+        "word": "B站UP主吐槽浪姐4",
+        "onboard_time": 1683775710,
+        "rank": 1,
+        "category": "综艺,网红"
+      },
+      {
+        "raw_hot": 36902,
+        "num": 1795234,
+        "word": "天舟六号发射升空瞬间",
+        "onboard_time": 1683772468,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1580526,
+        "num": 1580526,
+        "word": "重庆姐弟坠亡案被告人二审死刑",
+        "onboard_time": 1683771387,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1420659,
+        "num": 1420659,
+        "word": "金晨 不想任何声音模糊和影响作品本身",
+        "onboard_time": 1683778109,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1361171,
+        "num": 1361171,
+        "word": "孟羽童回应离职格力",
+        "onboard_time": 1683779671,
+        "rank": 5,
+        "category": "网红,科技"
+      },
+      {
+        "raw_hot": 1249954,
+        "num": 1249954,
+        "word": "弟弟帮离世哥哥通关塞尔达",
+        "onboard_time": 1683780269,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1151086,
+        "num": 1151086,
+        "word": "孟羽童曾连续工作21小时",
+        "onboard_time": 1683765510,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1147583,
+        "num": 1147583,
+        "word": "巴厘岛命案已形成初步报告",
+        "onboard_time": 1683774867,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690450,
+        "num": 690450,
+        "word": "翟潇闻 狐妖小红娘竹业篇男二",
+        "onboard_time": 1683776788,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 971660,
+        "num": 680832,
+        "word": "辛巴 榴莲",
+        "onboard_time": 1683769228,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 765603,
+        "num": 673843,
+        "word": "张子萱终于不给陈赫打码了",
+        "onboard_time": 1683731492,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 640613,
+        "num": 640613,
+        "word": "再也不敢吃铜锅火锅了",
+        "onboard_time": 1683768626,
+        "rank": 12,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 581017,
+        "num": 581017,
+        "word": "金州武术队",
+        "onboard_time": 1683780451,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 561917,
+        "num": 561917,
+        "word": "张波叶诚尘微信聊天记录",
+        "onboard_time": 1683780692,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513852,
+        "num": 513852,
+        "word": "市监局回应辛巴带货致榴莲价格上涨",
+        "onboard_time": 1683780932,
+        "rank": 15,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 446346,
+        "num": 446346,
+        "word": "曾可妮拍姐姐拍了10多个G",
+        "onboard_time": 1683771809,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406812,
+        "num": 406812,
+        "word": "一闪一闪亮星星",
+        "onboard_time": 1683781470,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345147,
+        "num": 345147,
+        "word": "男子晒术后取出颅骨碎片薄如甲片",
+        "onboard_time": 1683761183,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330579,
+        "num": 330579,
+        "word": "周觜朝或将接替肖战出演言冰云",
+        "onboard_time": 1683773909,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 371424,
+        "num": 327554,
+        "word": "普通人结婚不建议花的钱",
+        "onboard_time": 1683776368,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 308845,
+        "num": 308845,
+        "word": "想给男友妈妈买束花却吵架了",
+        "onboard_time": 1683776249,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 307144,
+        "num": 307144,
+        "word": "七小时结束了相恋七年的感情",
+        "onboard_time": 1683718169,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 301451,
+        "num": 301451,
+        "word": "梦中的那片海",
+        "onboard_time": 1683773249,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295940,
+        "num": 295940,
+        "word": "全职太太离婚发现丈夫资产过亿",
+        "onboard_time": 1683721650,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295841,
+        "num": 295841,
+        "word": "那英真的没在说脏话",
+        "onboard_time": 1683782790,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293930,
+        "num": 293930,
+        "word": "鲁尼",
+        "onboard_time": 1683780392,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284127,
+        "num": 284127,
+        "word": "王鹤棣说好看的人也要好好演戏",
+        "onboard_time": 1683781827,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275094,
+        "num": 275094,
+        "word": "勇士2比3湖人",
+        "onboard_time": 1683779911,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266978,
+        "num": 266978,
+        "word": "孟羽童",
+        "onboard_time": 1683763770,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251195,
+        "num": 251195,
+        "word": "回村后听过最劲爆的八卦",
+        "onboard_time": 1683781890,
+        "rank": 30,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 251039,
+        "num": 251039,
+        "word": "不良人",
+        "onboard_time": 1683769108,
+        "rank": 31,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 231618,
+        "num": 231618,
+        "word": "战至巅峰",
+        "onboard_time": 1683782488,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210536,
+        "num": 210536,
+        "word": "塞尔达",
+        "onboard_time": 1683782609,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206371,
+        "num": 206371,
+        "word": "动作导演回应刘诗诗替身争议",
+        "onboard_time": 1683776668,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183750,
+        "num": 183750,
+        "word": "身上5种疣可能是HPV感染",
+        "onboard_time": 1683715409,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179624,
+        "num": 179624,
+        "word": "谢娜的手臂肌肉",
+        "onboard_time": 1683782666,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174929,
+        "num": 174929,
+        "word": "江豚妈妈顶托幼崽长江学游泳",
+        "onboard_time": 1683778831,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173536,
+        "num": 173536,
+        "word": "全资进组豆瓣开分7.1",
+        "onboard_time": 1683777627,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171220,
+        "num": 171220,
+        "word": "原神3.7",
+        "onboard_time": 1683781470,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161904,
+        "num": 161904,
+        "word": "泰星Tangmo溺亡案宣判",
+        "onboard_time": 1683761544,
+        "rank": 40,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 154246,
+        "num": 154246,
+        "word": "赵露思饰演叛逆少女孙头头",
+        "onboard_time": 1683773607,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152736,
+        "num": 152736,
+        "word": "消失的她将上映",
+        "onboard_time": 1683781470,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151681,
+        "num": 151681,
+        "word": "猫毛过敏的朋友来家里玩猫",
+        "onboard_time": 1683781470,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 149266,
+        "num": 149266,
+        "word": "易烊千玺早期小蜜蜂舞蹈",
+        "onboard_time": 1683783089,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146121,
+        "num": 146121,
+        "word": "英式家常蛋炒饭",
+        "onboard_time": 1683782367,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 143596,
+        "num": 143596,
+        "word": "杨洋同学会全记录视频",
+        "onboard_time": 1683734128,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141924,
+        "num": 141924,
+        "word": "后浪官宣定档",
+        "onboard_time": 1683771028,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135696,
+        "num": 135696,
+        "word": "张波叶诚尘均系主犯",
+        "onboard_time": 1683774808,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130243,
+        "num": 130243,
+        "word": "男孩回答老师提问时突然大哭",
+        "onboard_time": 1683777150,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在河北雄安新区考察#"
+    }
+  }
+}

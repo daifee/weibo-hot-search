@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683782149491,
+  "endTime": 1683783205770,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -859,6 +859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1249954,
+      "num": 1249954,
+      "word": "弟弟帮离世哥哥通关塞尔达",
+      "onboard_time": 1683780269,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1240652,
       "num": 792083,
       "word": "假如陈都灵没进娱乐圈",
@@ -1169,14 +1177,6 @@
       "onboard_time": 1683714330,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 951003,
-      "num": 738654,
-      "word": "弟弟帮离世哥哥通关塞尔达",
-      "onboard_time": 1683780269,
-      "rank": 11,
-      "category": "游戏"
     },
     {
       "raw_hot": 949837,
@@ -2003,6 +2003,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 561917,
+      "num": 561917,
+      "word": "张波叶诚尘微信聊天记录",
+      "onboard_time": 1683780692,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 560585,
       "num": 560585,
       "word": "男孩2年后再见好友满脸难以置信",
@@ -2169,6 +2177,14 @@
       "onboard_time": 1683625527,
       "rank": 12,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 513852,
+      "num": 513852,
+      "word": "市监局回应辛巴带货致榴莲价格上涨",
+      "onboard_time": 1683780932,
+      "rank": 17,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 512903,
@@ -2491,14 +2507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 435108,
-      "num": 435108,
-      "word": "市监局回应辛巴带货致榴莲价格上涨",
-      "onboard_time": 1683780932,
-      "rank": 17,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 433883,
       "num": 433883,
       "word": "漫长的季节 封神",
@@ -2627,14 +2635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 420255,
-      "num": 420255,
-      "word": "张波叶诚尘微信聊天记录",
-      "onboard_time": 1683780692,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 418003,
       "num": 418003,
       "word": "黄景瑜对张婧仪说你再找找",
@@ -2721,6 +2721,14 @@
       "onboard_time": 1683616946,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 406812,
+      "num": 406812,
+      "word": "一闪一闪亮星星",
+      "onboard_time": 1683781470,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 405363,
@@ -3987,6 +3995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295841,
+      "num": 295841,
+      "word": "那英真的没在说脏话",
+      "onboard_time": 1683782790,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294655,
       "num": 294655,
       "word": "光与夜之恋",
@@ -4177,6 +4193,14 @@
       "onboard_time": 1683502526,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284127,
+      "num": 284127,
+      "word": "王鹤棣说好看的人也要好好演戏",
+      "onboard_time": 1683781827,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 283881,
@@ -4643,14 +4667,6 @@
       "category": "科技,国内要闻"
     },
     {
-      "raw_hot": 256289,
-      "num": 256289,
-      "word": "王鹤棣说好看的人也要好好演戏",
-      "onboard_time": 1683781827,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 255832,
       "num": 255832,
       "word": "费城76人",
@@ -4745,6 +4761,14 @@
       "onboard_time": 1683591570,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251195,
+      "num": 251195,
+      "word": "回村后听过最劲爆的八卦",
+      "onboard_time": 1683781890,
+      "rank": 31,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 250701,
@@ -5097,6 +5121,14 @@
       "onboard_time": 1683506428,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 231618,
+      "num": 231618,
+      "word": "战至巅峰",
+      "onboard_time": 1683782488,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 230837,
@@ -5523,6 +5555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210536,
+      "num": 210536,
+      "word": "塞尔达",
+      "onboard_time": 1683782609,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210452,
       "num": 210452,
       "word": "五月天 秒没",
@@ -5569,14 +5609,6 @@
       "onboard_time": 1683599666,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208842,
-      "num": 208842,
-      "word": "回村后听过最劲爆的八卦",
-      "onboard_time": 1683781890,
-      "rank": 31,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 208642,
@@ -5832,14 +5864,6 @@
       "word": "长月烬明全员告别",
       "onboard_time": 1683630270,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 197246,
-      "num": 197246,
-      "word": "一闪一闪亮星星",
-      "onboard_time": 1683781470,
-      "rank": 34,
       "category": "影视"
     },
     {
@@ -6233,6 +6257,14 @@
       "onboard_time": 1683615928,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 179624,
+      "num": 179624,
+      "word": "谢娜的手臂肌肉",
+      "onboard_time": 1683782666,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 179555,
@@ -6803,6 +6835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149266,
+      "num": 149266,
+      "word": "易烊千玺早期小蜜蜂舞蹈",
+      "onboard_time": 1683783089,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149173,
       "num": 149173,
       "word": "护心OST阵容",
@@ -6841,6 +6881,14 @@
       "onboard_time": 1683634408,
       "rank": 45,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 146121,
+      "num": 146121,
+      "word": "英式家常蛋炒饭",
+      "onboard_time": 1683782367,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 145479,
