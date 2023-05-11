@@ -1,6 +1,6 @@
 {
   "startTime": 1683822124198,
-  "endTime": 1683844426606,
+  "endTime": 1683847033389,
   "band_list": [
     {
       "raw_hot": 3648870,
@@ -9,6 +9,14 @@
       "onboard_time": 1683819510,
       "rank": 0,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 1720089,
+      "num": 1720089,
+      "word": "512",
+      "onboard_time": 1683817532,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1581175,
@@ -35,11 +43,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 848314,
-      "num": 848314,
-      "word": "512",
-      "onboard_time": 1683817532,
-      "rank": 3,
+      "raw_hot": 682472,
+      "num": 682472,
+      "word": "东北大哥称不想再管吵架事件",
+      "onboard_time": 1683822024,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -49,6 +57,22 @@
       "onboard_time": 1683817652,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 599488,
+      "num": 599488,
+      "word": "四川地震",
+      "onboard_time": 1683846801,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 572072,
+      "num": 572072,
+      "word": "长沙霸停数月车位女子道歉",
+      "onboard_time": 1683821606,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 521621,
@@ -67,19 +91,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 470511,
+      "num": 470511,
+      "word": "孟美岐一把顺利拿本",
+      "onboard_time": 1683814172,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 469323,
       "num": 469323,
       "word": "YG新女团出道",
       "onboard_time": 1683818132,
       "rank": 6,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 468122,
-      "num": 468122,
-      "word": "孟美岐一把顺利拿本",
-      "onboard_time": 1683814172,
-      "rank": 7,
       "category": "艺人"
     },
     {
@@ -115,28 +139,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 355541,
-      "num": 355541,
-      "word": "长沙霸停数月车位女子道歉",
-      "onboard_time": 1683821606,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 348761,
       "num": 348761,
       "word": "4月份人民币存款减少4609亿元",
       "onboard_time": 1683803425,
       "rank": 13,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 322822,
-      "num": 322822,
-      "word": "东北大哥称不想再管吵架事件",
-      "onboard_time": 1683822024,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 320486,
@@ -163,20 +171,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278344,
+      "num": 278344,
+      "word": "英国首批三亲婴儿诞生",
+      "onboard_time": 1683808168,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260372,
       "num": 260372,
       "word": "周杰伦演唱会",
       "onboard_time": 1683816694,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 255680,
-      "num": 255680,
-      "word": "英国首批三亲婴儿诞生",
-      "onboard_time": 1683808168,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 244474,
@@ -187,12 +195,28 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 241564,
+      "num": 241564,
+      "word": "男生误把甲酸滴油锅意外合成强力胶",
+      "onboard_time": 1683829274,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235180,
       "num": 235180,
       "word": "极乐净土内娱舞台",
       "onboard_time": 1683819929,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 231266,
+      "num": 231266,
+      "word": "重庆市原副市长熊雪被查",
+      "onboard_time": 1683840972,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229928,
@@ -225,6 +249,14 @@
       "onboard_time": 1683816751,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206269,
+      "num": 155400,
+      "word": "独生子一人推2个轮椅医院照顾爸妈",
+      "onboard_time": 1683822625,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198460,
@@ -283,12 +315,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 151544,
-      "num": 151544,
+      "raw_hot": 161114,
+      "num": 161114,
       "word": "狗狗失踪7年后回家主人煮饺子庆团圆",
       "onboard_time": 1683807927,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154525,
+      "num": 154525,
+      "word": "为啥有的人坚持运动却不见瘦",
+      "onboard_time": 1683842895,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148260,
+      "num": 148260,
+      "word": "王国之泪",
+      "onboard_time": 1683846862,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 135608,
@@ -323,20 +371,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 131511,
-      "num": 130514,
-      "word": "独生子一人推2个轮椅医院照顾爸妈",
-      "onboard_time": 1683822625,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 132603,
+      "num": 132603,
+      "word": "男朋友爷爷的葬礼应该参加吗",
+      "onboard_time": 1683846980,
+      "rank": 24,
+      "category": "情感"
     },
     {
-      "raw_hot": 128462,
-      "num": 128462,
-      "word": "重庆市原副市长熊雪被查",
-      "onboard_time": 1683840972,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 128774,
+      "num": 128774,
+      "word": "沙溢说展堂才是爹地湘玉已成外婆",
+      "onboard_time": 1683838572,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 127026,
@@ -345,6 +393,14 @@
       "onboard_time": 1683792330,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126907,
+      "num": 126907,
+      "word": "男子醉驾致妻子死亡判6个月缓1年",
+      "onboard_time": 1683841034,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126227,
@@ -427,14 +483,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 93409,
-      "num": 93409,
-      "word": "男生误把甲酸滴油锅意外合成强力胶",
-      "onboard_time": 1683829274,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92960,
       "num": 92960,
       "word": "王国之泪媒体评分解禁",
@@ -451,20 +499,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77360,
-      "num": 77360,
-      "word": "沙溢说展堂才是爹地湘玉已成外婆",
-      "onboard_time": 1683838572,
-      "rank": 27,
-      "category": "影视"
+      "raw_hot": 79028,
+      "num": 79028,
+      "word": "淄博一小区为外卖员配专用单车",
+      "onboard_time": 1683846200,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 70699,
-      "num": 70699,
-      "word": "男子醉驾致妻子死亡判6个月缓1年",
-      "onboard_time": 1683841034,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 67949,
+      "num": 67949,
+      "word": "辛巴再诉快手侵权",
+      "onboard_time": 1683846320,
+      "rank": 43,
+      "category": "科技,网红"
     },
     {
       "raw_hot": 67641,
@@ -475,28 +523,20 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 63287,
-      "num": 63287,
-      "word": "宁艺卓红丝带编发",
-      "onboard_time": 1683818191,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 59515,
-      "num": 59515,
+      "raw_hot": 67436,
+      "num": 67436,
       "word": "每个女孩童年都有的一件衣服",
       "onboard_time": 1683822146,
       "rank": 47,
       "category": "情感"
     },
     {
-      "raw_hot": 59426,
-      "num": 50167,
-      "word": "为啥有的人坚持运动却不见瘦",
-      "onboard_time": 1683842895,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 63287,
+      "num": 63287,
+      "word": "宁艺卓红丝带编发",
+      "onboard_time": 1683818191,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 44133,
@@ -523,7 +563,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 18554,
+      "raw_hot": 20562,
       "num": 911628,
       "word": "天舟六号有何特别之处",
       "onboard_time": 1683810805,
