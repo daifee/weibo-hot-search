@@ -1,6 +1,6 @@
 {
   "startTime": 1683822124198,
-  "endTime": 1683825295816,
+  "endTime": 1683826409581,
   "band_list": [
     {
       "raw_hot": 3648870,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358677,
+      "num": 358677,
+      "word": "塞尔达",
+      "onboard_time": 1683819271,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 348761,
       "num": 348761,
       "word": "4月份人民币存款减少4609亿元",
@@ -121,14 +129,6 @@
       "onboard_time": 1683822024,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 320570,
-      "num": 320570,
-      "word": "塞尔达",
-      "onboard_time": 1683819271,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 320486,
@@ -457,6 +457,14 @@
       "onboard_time": 1683822146,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 44133,
+      "num": 44133,
+      "word": "室友记录下盲人博士学日语",
+      "onboard_time": 1683820589,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18554,
