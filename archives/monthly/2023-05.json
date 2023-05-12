@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683912808177,
+  "endTime": 1683915604797,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -25745,6 +25745,14 @@
       "onboard_time": 1682999010,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32694,
+      "num": 32694,
+      "word": "真的很容易对这样的人有好感",
+      "onboard_time": 1683910462,
+      "rank": 46,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 32401,
