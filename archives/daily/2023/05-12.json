@@ -1,6 +1,6 @@
 {
   "startTime": 1683822124198,
-  "endTime": 1683872474922,
+  "endTime": 1683873243567,
   "band_list": [
     {
       "raw_hot": 3648870,
@@ -51,19 +51,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2163910,
+      "num": 2163910,
+      "word": "大学生掏鸟被判10年半当事人将出狱",
+      "onboard_time": 1683869010,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2047230,
       "num": 2047230,
       "word": "512",
       "onboard_time": 1683817532,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2028666,
-      "num": 2028666,
-      "word": "大学生掏鸟被判10年半当事人将出狱",
-      "onboard_time": 1683869010,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -129,6 +129,14 @@
       "onboard_time": 1683856408,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1314235,
+      "num": 1314235,
+      "word": "沈月出道前曾帮人拍婚庆",
+      "onboard_time": 1683872066,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 1292404,
@@ -427,6 +435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 431375,
+      "num": 431375,
+      "word": "四川大学再回应部分男厕改女厕",
+      "onboard_time": 1683870509,
+      "rank": 15,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 412994,
       "num": 412994,
       "word": "邓紫棋周杰伦演唱会点歌黑色毛衣",
@@ -443,20 +459,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 395642,
-      "num": 395642,
-      "word": "四川大学再回应部分男厕改女厕",
-      "onboard_time": 1683870509,
-      "rank": 15,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 390753,
       "num": 390753,
       "word": "斗罗大陆2",
       "onboard_time": 1683859708,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 384125,
+      "num": 384125,
+      "word": "保罗这就是命",
+      "onboard_time": 1683870209,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 383116,
@@ -499,14 +515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 362736,
-      "num": 362736,
-      "word": "保罗这就是命",
-      "onboard_time": 1683870209,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 358677,
       "num": 358677,
       "word": "塞尔达",
@@ -539,12 +547,20 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 327974,
-      "num": 327974,
-      "word": "沈月出道前曾帮人拍婚庆",
-      "onboard_time": 1683872066,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 324746,
+      "num": 324746,
+      "word": "高中生打碎水银温度计报警求助",
+      "onboard_time": 1683871290,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322267,
+      "num": 249205,
+      "word": "孟羽童为什么没能成第二个董宇辉",
+      "onboard_time": 1683872729,
+      "rank": 30,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 321962,
@@ -723,14 +739,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 245167,
-      "num": 245167,
-      "word": "高中生打碎水银温度计报警求助",
-      "onboard_time": 1683871290,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244474,
       "num": 244474,
       "word": "霍华德",
@@ -835,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223878,
+      "num": 223878,
+      "word": "你肉体上最疼的一次经历是什么",
+      "onboard_time": 1683872129,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 221810,
       "num": 221810,
       "word": "护士节",
@@ -875,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206373,
+      "num": 206373,
+      "word": "蔡徐坤朱梓骁同框旧照",
+      "onboard_time": 1683872729,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 205205,
       "num": 205205,
       "word": "上海下半年演唱会",
@@ -899,8 +923,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 198684,
-      "num": 198684,
+      "raw_hot": 199904,
+      "num": 199904,
       "word": "薛之谦演唱会门票",
       "onboard_time": 1683870088,
       "rank": 36,
@@ -995,6 +1019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 177925,
+      "num": 177925,
+      "word": "汶川钢腿女孩分享现状",
+      "onboard_time": 1683872367,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175550,
       "num": 166084,
       "word": "易梦玲美黑",
@@ -1025,6 +1057,14 @@
       "onboard_time": 1683855628,
       "rank": 45,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 171312,
+      "num": 171312,
+      "word": "A股",
+      "onboard_time": 1683872848,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 168978,
@@ -1107,14 +1147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153700,
-      "num": 153700,
-      "word": "你肉体上最疼的一次经历是什么",
-      "onboard_time": 1683872129,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 153144,
       "num": 153144,
       "word": "汶川地震夹缝男孩回忆获救情形",
@@ -1139,14 +1171,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 141727,
-      "num": 141727,
-      "word": "汶川钢腿女孩分享现状",
-      "onboard_time": 1683872367,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141119,
       "num": 141119,
       "word": "谢晖遭禁赛一场",
@@ -1161,6 +1185,14 @@
       "onboard_time": 1683850411,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136874,
+      "num": 136874,
+      "word": "毕业前没人想花50元拍合影",
+      "onboard_time": 1683873148,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 135608,
