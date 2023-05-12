@@ -1,0 +1,410 @@
+{
+  "runTime": 1683865199550,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3263822,
+        "num": 3263822,
+        "word": "李大钊孙女",
+        "onboard_time": 1683858327,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1394474,
+        "num": 1394474,
+        "word": "5121428",
+        "onboard_time": 1683847525,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29878,
+        "num": 1338689,
+        "word": "高质量发展调研行",
+        "onboard_time": 1683864393,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1322051,
+        "num": 1322051,
+        "word": "张颂文悼念李大钊孙女",
+        "onboard_time": 1683862350,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1270175,
+        "num": 1270175,
+        "word": "陶勇重新拿起手术刀",
+        "onboard_time": 1683861268,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1093837,
+        "num": 1093837,
+        "word": "庆余年海报疑似抄袭",
+        "onboard_time": 1683863730,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 860962,
+        "num": 860962,
+        "word": "不显瘦阿姨都不卖你",
+        "onboard_time": 1683859828,
+        "rank": 6,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 786708,
+        "num": 786708,
+        "word": "周杰伦演唱会外男子被抢两张门票",
+        "onboard_time": 1683859467,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 699085,
+        "num": 699085,
+        "word": "戚薇生二胎前差点摔倒被陈小春扶住了",
+        "onboard_time": 1683847585,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 636985,
+        "num": 636985,
+        "word": "看老照片 停更",
+        "onboard_time": 1683856408,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1199608,
+        "num": 635588,
+        "word": "刘宇宁是怎么火起来的",
+        "onboard_time": 1683861330,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 819379,
+        "num": 632816,
+        "word": "ZEKU",
+        "onboard_time": 1683862050,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 694022,
+        "num": 625522,
+        "word": "霍华德台独",
+        "onboard_time": 1683819510,
+        "rank": 12,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 601133,
+        "num": 601133,
+        "word": "狗头萝莉卖煎饼",
+        "onboard_time": 1683849993,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 550984,
+        "num": 550984,
+        "word": "长月烬明原作者辟谣",
+        "onboard_time": 1683860066,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 502434,
+        "num": 502434,
+        "word": "杨幂唐嫣赵丽颖的人生你想过谁的",
+        "onboard_time": 1683864569,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 452035,
+        "num": 452035,
+        "word": "二阳",
+        "onboard_time": 1683859409,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438350,
+        "num": 438350,
+        "word": "护心导演点赞拉踩长月烬明内容",
+        "onboard_time": 1683862409,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400708,
+        "num": 400708,
+        "word": "四川地震",
+        "onboard_time": 1683846801,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390753,
+        "num": 390753,
+        "word": "斗罗大陆2",
+        "onboard_time": 1683859708,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 883777,
+        "num": 389449,
+        "word": "为什么年轻人爱上了用B站学习",
+        "onboard_time": 1683851971,
+        "rank": 20,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 385645,
+        "num": 385645,
+        "word": "邓紫棋说早知道我先化个妆",
+        "onboard_time": 1683851012,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 367677,
+        "num": 367677,
+        "word": "HYBE新男团鼻子",
+        "onboard_time": 1683859828,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 333244,
+        "num": 333244,
+        "word": "专家建议给生孩子的人发薪水",
+        "onboard_time": 1683812427,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314200,
+        "num": 314200,
+        "word": "当过一次伴娘就再也不想当了",
+        "onboard_time": 1683862887,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 306253,
+        "num": 306253,
+        "word": "6岁娃指出狗主人错误被打成脑震荡",
+        "onboard_time": 1683857968,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304204,
+        "num": 304204,
+        "word": "B站播放时长最长内容是高等数学",
+        "onboard_time": 1683817473,
+        "rank": 26,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 298792,
+        "num": 298792,
+        "word": "男生和女生买房的区别",
+        "onboard_time": 1683852154,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289226,
+        "num": 289226,
+        "word": "为什么年轻人都不想卷了",
+        "onboard_time": 1683861149,
+        "rank": 28,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 260033,
+        "num": 260033,
+        "word": "如何让领导知道你干了很多活",
+        "onboard_time": 1683864510,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 396877,
+        "num": 260024,
+        "word": "哪个部位的黑痣更易发生癌变成为黑色素瘤",
+        "onboard_time": 1683863190,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238209,
+        "num": 238209,
+        "word": "美国上百名童工在屠宰厂上夜班",
+        "onboard_time": 1683856110,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237213,
+        "num": 237213,
+        "word": "掘金vs太阳",
+        "onboard_time": 1683860730,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225598,
+        "num": 225598,
+        "word": "汶川地震饲养员连抱带抬转移熊猫",
+        "onboard_time": 1683864991,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211935,
+        "num": 211935,
+        "word": "维金斯肋骨骨折",
+        "onboard_time": 1683854671,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209967,
+        "num": 209967,
+        "word": "为什么年轻人会反感家里来客",
+        "onboard_time": 1683864207,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193148,
+        "num": 193148,
+        "word": "灵隐寺千年七叶树开花",
+        "onboard_time": 1683855570,
+        "rank": 36,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 190718,
+        "num": 190718,
+        "word": "男子欲轻生谎称找朋友被的哥识破救下",
+        "onboard_time": 1683860969,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183083,
+        "num": 183083,
+        "word": "为什么说散步是约会的开始",
+        "onboard_time": 1683859169,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180959,
+        "num": 180959,
+        "word": "赵露思把肉丝读成肉shi",
+        "onboard_time": 1683864269,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174259,
+        "num": 174259,
+        "word": "王一博脱鞋也要插兜",
+        "onboard_time": 1683858987,
+        "rank": 40,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 155108,
+        "num": 155108,
+        "word": "孤岛逃生十五年后",
+        "onboard_time": 1683864811,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153144,
+        "num": 153144,
+        "word": "汶川地震夹缝男孩回忆获救情形",
+        "onboard_time": 1683863368,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151888,
+        "num": 151888,
+        "word": "Steam禁止开小号欺凌初级玩家",
+        "onboard_time": 1683857551,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141119,
+        "num": 141119,
+        "word": "谢晖遭禁赛一场",
+        "onboard_time": 1683862829,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139996,
+        "num": 139996,
+        "word": "512",
+        "onboard_time": 1683817532,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132202,
+        "num": 132202,
+        "word": "韩国人有自己的台风蜕变之战",
+        "onboard_time": 1683848547,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131280,
+        "num": 131280,
+        "word": "塔图姆 拉",
+        "onboard_time": 1683855447,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130636,
+        "num": 130636,
+        "word": "孟美岐一把顺利拿本",
+        "onboard_time": 1683814172,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110831,
+        "num": 130635,
+        "word": "王国之泪",
+        "onboard_time": 1683846862,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励海军潜艇部队某艇员队#"
+    }
+  }
+}

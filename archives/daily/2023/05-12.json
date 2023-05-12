@@ -1,6 +1,6 @@
 {
   "startTime": 1683822124198,
-  "endTime": 1683862423702,
+  "endTime": 1683865199550,
   "band_list": [
     {
       "raw_hot": 3648870,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3249092,
-      "num": 3249092,
+      "raw_hot": 3263822,
+      "num": 3263822,
       "word": "李大钊孙女",
       "onboard_time": 1683858327,
       "rank": 30,
@@ -75,12 +75,44 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 1322051,
+      "num": 1322051,
+      "word": "张颂文悼念李大钊孙女",
+      "onboard_time": 1683862350,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1314985,
       "num": 1314985,
       "word": "看老照片 停更",
       "onboard_time": 1683856408,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1270175,
+      "num": 1270175,
+      "word": "陶勇重新拿起手术刀",
+      "onboard_time": 1683861268,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1199608,
+      "num": 635588,
+      "word": "刘宇宁是怎么火起来的",
+      "onboard_time": 1683861330,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1093837,
+      "num": 1093837,
+      "word": "庆余年海报疑似抄袭",
+      "onboard_time": 1683863730,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1048858,
@@ -131,12 +163,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 860962,
+      "num": 860962,
+      "word": "不显瘦阿姨都不卖你",
+      "onboard_time": 1683859828,
+      "rank": 11,
+      "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 819379,
+      "num": 632816,
+      "word": "ZEKU",
+      "onboard_time": 1683862050,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 807423,
       "num": 682458,
       "word": "狗头萝莉卖煎饼",
       "onboard_time": 1683849993,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 786708,
+      "num": 786708,
+      "word": "周杰伦演唱会外男子被抢两张门票",
+      "onboard_time": 1683859467,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 767295,
@@ -155,28 +211,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 744250,
-      "num": 744250,
-      "word": "周杰伦演唱会外男子被抢两张门票",
-      "onboard_time": 1683859467,
-      "rank": 8,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 716885,
       "num": 716885,
       "word": "塔图姆 拉",
       "onboard_time": 1683855447,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 712079,
-      "num": 712079,
-      "word": "不显瘦阿姨都不卖你",
-      "onboard_time": 1683859828,
-      "rank": 11,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 695999,
@@ -195,14 +235,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 659347,
-      "num": 659347,
-      "word": "陶勇重新拿起手术刀",
-      "onboard_time": 1683861268,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 652787,
       "num": 652787,
       "word": "BABYMONSTER出道名单",
@@ -217,14 +249,6 @@
       "onboard_time": 1683854671,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 574001,
-      "num": 574001,
-      "word": "ZEKU",
-      "onboard_time": 1683862050,
-      "rank": 13,
-      "category": "科技"
     },
     {
       "raw_hot": 572072,
@@ -243,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 557163,
-      "num": 557163,
-      "word": "刘宇宁是怎么火起来的",
-      "onboard_time": 1683861330,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 521621,
       "num": 521621,
       "word": "向佐的工作人员叫王一博",
@@ -264,6 +280,14 @@
       "word": "权志龙ins",
       "onboard_time": 1683816212,
       "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 502434,
+      "num": 502434,
+      "word": "杨幂唐嫣赵丽颖的人生你想过谁的",
+      "onboard_time": 1683864569,
+      "rank": 15,
       "category": "作品衍生"
     },
     {
@@ -307,6 +331,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 438350,
+      "num": 438350,
+      "word": "护心导演点赞拉踩长月烬明内容",
+      "onboard_time": 1683862409,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 431937,
       "num": 431937,
       "word": "HYBE新男团鼻子",
@@ -329,6 +361,22 @@
       "onboard_time": 1683847102,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 396877,
+      "num": 260024,
+      "word": "哪个部位的黑痣更易发生癌变成为黑色素瘤",
+      "onboard_time": 1683863190,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390753,
+      "num": 390753,
+      "word": "斗罗大陆2",
+      "onboard_time": 1683859708,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 383116,
@@ -379,20 +427,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 320707,
-      "num": 320707,
-      "word": "斗罗大陆2",
-      "onboard_time": 1683859708,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 320486,
       "num": 242585,
       "word": "人真的可以删除自己的记忆",
       "onboard_time": 1683815553,
       "rank": 20,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 314200,
+      "num": 314200,
+      "word": "当过一次伴娘就再也不想当了",
+      "onboard_time": 1683862887,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 302271,
@@ -436,7 +484,7 @@
     },
     {
       "raw_hot": 279814,
-      "num": 231655,
+      "num": 238209,
       "word": "美国上百名童工在屠宰厂上夜班",
       "onboard_time": 1683856110,
       "rank": 25,
@@ -465,6 +513,14 @@
       "onboard_time": 1683816694,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 260033,
+      "num": 260033,
+      "word": "如何让领导知道你干了很多活",
+      "onboard_time": 1683864510,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 248114,
@@ -515,6 +571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 237213,
+      "num": 237213,
+      "word": "掘金vs太阳",
+      "onboard_time": 1683860730,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 235180,
       "num": 235180,
       "word": "极乐净土内娱舞台",
@@ -552,6 +616,14 @@
       "word": "独生子一人推2个轮椅医院照顾爸妈",
       "onboard_time": 1683822625,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225598,
+      "num": 225598,
+      "word": "汶川地震饲养员连抱带抬转移熊猫",
+      "onboard_time": 1683864991,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -595,12 +667,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205746,
-      "num": 205746,
-      "word": "掘金vs太阳",
-      "onboard_time": 1683860730,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 209967,
+      "num": 209967,
+      "word": "为什么年轻人会反感家里来客",
+      "onboard_time": 1683864207,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 205205,
@@ -699,6 +771,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 180959,
+      "num": 180959,
+      "word": "赵露思把肉丝读成肉shi",
+      "onboard_time": 1683864269,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179605,
       "num": 179605,
       "word": "王国之泪 解锁",
@@ -787,6 +867,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155108,
+      "num": 155108,
+      "word": "孤岛逃生十五年后",
+      "onboard_time": 1683864811,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153144,
+      "num": 153144,
+      "word": "汶川地震夹缝男孩回忆获救情形",
+      "onboard_time": 1683863368,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149269,
       "num": 149269,
       "word": "凯尔特人vs76人",
@@ -801,6 +897,14 @@
       "onboard_time": 1683838572,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 141119,
+      "num": 141119,
+      "word": "谢晖遭禁赛一场",
+      "onboard_time": 1683862829,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 139722,
@@ -857,14 +961,6 @@
       "onboard_time": 1683856949,
       "rank": 45,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 131066,
-      "num": 131066,
-      "word": "张颂文悼念李大钊孙女",
-      "onboard_time": 1683862350,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 127026,
@@ -937,14 +1033,6 @@
       "onboard_time": 1683857252,
       "rank": 47,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 116440,
-      "num": 116440,
-      "word": "护心导演点赞拉踩长月烬明内容",
-      "onboard_time": 1683862409,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 116321,
@@ -1057,6 +1145,14 @@
       "onboard_time": 1683833713,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 29878,
+      "num": 1338689,
+      "word": "高质量发展调研行",
+      "onboard_time": 1683864393,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24674,

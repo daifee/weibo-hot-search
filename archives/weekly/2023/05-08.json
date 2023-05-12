@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683862423702,
+  "endTime": 1683865199550,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -67,8 +67,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3249092,
-      "num": 3249092,
+      "raw_hot": 3263822,
+      "num": 3263822,
       "word": "李大钊孙女",
       "onboard_time": 1683858327,
       "rank": 30,
@@ -931,6 +931,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 1322051,
+      "num": 1322051,
+      "word": "张颂文悼念李大钊孙女",
+      "onboard_time": 1683862350,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1314985,
       "num": 1314985,
       "word": "看老照片 停更",
@@ -1019,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1270175,
+      "num": 1270175,
+      "word": "陶勇重新拿起手术刀",
+      "onboard_time": 1683861268,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1267297,
       "num": 1267297,
       "word": "长月烬明大结局",
@@ -1065,6 +1081,14 @@
       "onboard_time": 1683628293,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1199608,
+      "num": 635588,
+      "word": "刘宇宁是怎么火起来的",
+      "onboard_time": 1683861330,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 1199371,
@@ -1209,6 +1233,14 @@
       "onboard_time": 1683545728,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1093837,
+      "num": 1093837,
+      "word": "庆余年海报疑似抄袭",
+      "onboard_time": 1683863730,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1092643,
@@ -1603,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 860962,
+      "num": 860962,
+      "word": "不显瘦阿姨都不卖你",
+      "onboard_time": 1683859828,
+      "rank": 11,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 848368,
       "num": 361923,
       "word": "郑州大学王国胜已报警",
@@ -1667,6 +1707,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 819379,
+      "num": 632816,
+      "word": "ZEKU",
+      "onboard_time": 1683862050,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 814266,
       "num": 814266,
       "word": "中新网评刘亦菲曾被霸凌",
@@ -1721,6 +1769,14 @@
       "onboard_time": 1683817830,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 786708,
+      "num": 786708,
+      "word": "周杰伦演唱会外男子被抢两张门票",
+      "onboard_time": 1683859467,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 778638,
@@ -1809,14 +1865,6 @@
       "onboard_time": 1683860066,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 744250,
-      "num": 744250,
-      "word": "周杰伦演唱会外男子被抢两张门票",
-      "onboard_time": 1683859467,
-      "rank": 8,
-      "category": "音乐"
     },
     {
       "raw_hot": 740571,
@@ -1913,14 +1961,6 @@
       "onboard_time": 1683855447,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 712079,
-      "num": 712079,
-      "word": "不显瘦阿姨都不卖你",
-      "onboard_time": 1683859828,
-      "rank": 11,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 705104,
@@ -2080,14 +2120,6 @@
       "word": "巴厘岛案",
       "onboard_time": 1683621207,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 659347,
-      "num": 659347,
-      "word": "陶勇重新拿起手术刀",
-      "onboard_time": 1683861268,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -2435,14 +2467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 574001,
-      "num": 574001,
-      "word": "ZEKU",
-      "onboard_time": 1683862050,
-      "rank": 13,
-      "category": "科技"
-    },
-    {
       "raw_hot": 572072,
       "num": 572072,
       "word": "长沙霸停数月车位女子道歉",
@@ -2497,14 +2521,6 @@
       "onboard_time": 1683780932,
       "rank": 17,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 557163,
-      "num": 557163,
-      "word": "刘宇宁是怎么火起来的",
-      "onboard_time": 1683861330,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 555855,
@@ -2769,6 +2785,14 @@
       "onboard_time": 1683802227,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 502434,
+      "num": 502434,
+      "word": "杨幂唐嫣赵丽颖的人生你想过谁的",
+      "onboard_time": 1683864569,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 502212,
@@ -3113,6 +3137,14 @@
       "onboard_time": 1683614489,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 438350,
+      "num": 438350,
+      "word": "护心导演点赞拉踩长月烬明内容",
+      "onboard_time": 1683862409,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 435771,
@@ -3467,6 +3499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 396877,
+      "num": 260024,
+      "word": "哪个部位的黑痣更易发生癌变成为黑色素瘤",
+      "onboard_time": 1683863190,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395033,
       "num": 395033,
       "word": "王者荣耀亚运会",
@@ -3505,6 +3545,14 @@
       "onboard_time": 1683635368,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 390753,
+      "num": 390753,
+      "word": "斗罗大陆2",
+      "onboard_time": 1683859708,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 389520,
@@ -4515,14 +4563,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 320707,
-      "num": 320707,
-      "word": "斗罗大陆2",
-      "onboard_time": 1683859708,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 319198,
       "num": 236887,
       "word": "莱茵生物实控人被立案",
@@ -4593,6 +4633,14 @@
       "onboard_time": 1683465994,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 314200,
+      "num": 314200,
+      "word": "当过一次伴娘就再也不想当了",
+      "onboard_time": 1683862887,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 314066,
@@ -5268,7 +5316,7 @@
     },
     {
       "raw_hot": 279814,
-      "num": 231655,
+      "num": 238209,
       "word": "美国上百名童工在屠宰厂上夜班",
       "onboard_time": 1683856110,
       "rank": 25,
@@ -5601,6 +5649,14 @@
       "onboard_time": 1683521071,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 260033,
+      "num": 260033,
+      "word": "如何让领导知道你干了很多活",
+      "onboard_time": 1683864510,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 259903,
@@ -6163,6 +6219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237213,
+      "num": 237213,
+      "word": "掘金vs太阳",
+      "onboard_time": 1683508409,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 236754,
       "num": 236754,
       "word": "唐朝诡事录之西行首发剧照",
@@ -6497,6 +6561,14 @@
       "onboard_time": 1683731373,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 225598,
+      "num": 225598,
+      "word": "汶川地震饲养员连抱带抬转移熊猫",
+      "onboard_time": 1683864991,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225552,
@@ -6891,6 +6963,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 209967,
+      "num": 209967,
+      "word": "为什么年轻人会反感家里来客",
+      "onboard_time": 1683864207,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 209700,
       "num": 184784,
       "word": "爱奇艺新综艺片单刷不完",
@@ -7001,14 +7081,6 @@
       "onboard_time": 1683540331,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 205746,
-      "num": 205746,
-      "word": "掘金vs太阳",
-      "onboard_time": 1683508409,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 205205,
@@ -7667,6 +7739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180959,
+      "num": 180959,
+      "word": "赵露思把肉丝读成肉shi",
+      "onboard_time": 1683864269,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180248,
       "num": 180248,
       "word": "姚晨说庄达菲出息了",
@@ -8275,6 +8355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155108,
+      "num": 155108,
+      "word": "孤岛逃生十五年后",
+      "onboard_time": 1683864811,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154759,
       "num": 154759,
       "word": "蒋依依打卡淄博烧烤",
@@ -8304,6 +8392,14 @@
       "word": "警方回应高铁掌掴事件双方均受罚",
       "onboard_time": 1683527735,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153144,
+      "num": 153144,
+      "word": "汶川地震夹缝男孩回忆获救情形",
+      "onboard_time": 1683863368,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -8579,6 +8675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 141119,
+      "num": 141119,
+      "word": "谢晖遭禁赛一场",
+      "onboard_time": 1683862829,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140582,
       "num": 140582,
       "word": "一个人应该有什么样的爱好",
@@ -8795,14 +8899,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 131066,
-      "num": 131066,
-      "word": "张颂文悼念李大钊孙女",
-      "onboard_time": 1683862350,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130855,
       "num": 130855,
       "word": "折腰剧组探班直播",
@@ -9017,14 +9113,6 @@
       "onboard_time": 1683500960,
       "rank": 39,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 116440,
-      "num": 116440,
-      "word": "护心导演点赞拉踩长月烬明内容",
-      "onboard_time": 1683862409,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 115767,
@@ -9649,6 +9737,14 @@
       "onboard_time": 1683712827,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 29878,
+      "num": 1338689,
+      "word": "高质量发展调研行",
+      "onboard_time": 1683864393,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28921,
