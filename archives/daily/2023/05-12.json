@@ -1,6 +1,6 @@
 {
   "startTime": 1683822124198,
-  "endTime": 1683895676050,
+  "endTime": 1683897587928,
   "band_list": [
     {
       "raw_hot": 3648870,
@@ -185,6 +185,14 @@
       "onboard_time": 1683856408,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1314074,
+      "num": 1314074,
+      "word": "罗成 梦女",
+      "onboard_time": 1683895351,
+      "rank": 19,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1292404,
@@ -411,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 684908,
+      "num": 684908,
+      "word": "放下个人素质 享受缺德人生",
+      "onboard_time": 1683894027,
+      "rank": 33,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 663337,
       "num": 663337,
       "word": "校方回应13岁学生是公司老板",
@@ -433,6 +449,14 @@
       "onboard_time": 1683867693,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 639149,
+      "num": 639149,
+      "word": "韩国低出生率结果",
+      "onboard_time": 1683894690,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 633992,
@@ -460,7 +484,7 @@
     },
     {
       "raw_hot": 609467,
-      "num": 252600,
+      "num": 263297,
       "word": "妈妈染指甲被儿子说",
       "onboard_time": 1683891449,
       "rank": 21,
@@ -651,6 +675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 426656,
+      "num": 426656,
+      "word": "外交部辟谣驻法大使卢沙野将被召回",
+      "onboard_time": 1683895229,
+      "rank": 16,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 412994,
       "num": 412994,
       "word": "邓紫棋周杰伦演唱会点歌黑色毛衣",
@@ -692,11 +724,19 @@
     },
     {
       "raw_hot": 400003,
-      "num": 251079,
+      "num": 262329,
       "word": "手机后三位是你房子的面积",
       "onboard_time": 1683891988,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 398917,
+      "num": 398917,
+      "word": "BLACKPINK出发新加坡",
+      "onboard_time": 1683895468,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 393608,
@@ -777,14 +817,6 @@
       "onboard_time": 1683867095,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 368097,
-      "num": 368097,
-      "word": "放下个人素质 享受缺德人生",
-      "onboard_time": 1683894027,
-      "rank": 33,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 364915,
@@ -1019,12 +1051,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 278933,
-      "num": 278933,
-      "word": "外交部辟谣驻法大使卢沙野将被召回",
-      "onboard_time": 1683895229,
+      "raw_hot": 277648,
+      "num": 277648,
+      "word": "泫雅武汉音乐节海报是P的",
+      "onboard_time": 1683896310,
       "rank": 16,
-      "category": "国内要闻"
+      "category": "音乐"
     },
     {
       "raw_hot": 275963,
@@ -1059,6 +1091,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 269270,
+      "num": 269270,
+      "word": "闫桉 生病才拥有一个gapday",
+      "onboard_time": 1683894748,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265952,
       "num": 265952,
       "word": "男子欲轻生谎称找朋友被的哥识破救下",
@@ -1073,6 +1113,14 @@
       "onboard_time": 1683875667,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264733,
+      "num": 264733,
+      "word": "好利来罗成辟谣未婚妻传闻",
+      "onboard_time": 1683896550,
+      "rank": 19,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 263874,
@@ -1100,7 +1148,7 @@
     },
     {
       "raw_hot": 260127,
-      "num": 239928,
+      "num": 246777,
       "word": "AI出来后第一个失业的是孙燕姿",
       "onboard_time": 1683892108,
       "rank": 24,
@@ -1163,14 +1211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 247886,
-      "num": 247886,
-      "word": "韩国低出生率结果",
-      "onboard_time": 1683894690,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 245915,
       "num": 245915,
       "word": "曹操盖饭是什么梗",
@@ -1203,14 +1243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 243525,
-      "num": 243525,
-      "word": "罗成 梦女",
-      "onboard_time": 1683895351,
-      "rank": 19,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 242287,
       "num": 242287,
       "word": "为什么说散步是约会的开始",
@@ -1224,6 +1256,14 @@
       "word": "乘风",
       "onboard_time": 1683866614,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 239081,
+      "num": 239081,
+      "word": "跑男",
+      "onboard_time": 1683896489,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -1371,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212434,
+      "num": 212434,
+      "word": "JDG",
+      "onboard_time": 1683896008,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210819,
       "num": 210819,
       "word": "教资面试",
@@ -1515,14 +1563,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 186970,
-      "num": 186970,
-      "word": "BLACKPINK出发新加坡",
-      "onboard_time": 1683895468,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 186610,
       "num": 186610,
       "word": "无人机航拍时被鹰叼走",
@@ -1555,6 +1595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181893,
+      "num": 181893,
+      "word": "Jennie的眼睛还没好",
+      "onboard_time": 1683897209,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179605,
       "num": 179605,
       "word": "王国之泪 解锁",
@@ -1577,14 +1625,6 @@
       "onboard_time": 1683872367,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177097,
-      "num": 177097,
-      "word": "闫桉 生病才拥有一个gapday",
-      "onboard_time": 1683894748,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 177094,
@@ -1619,6 +1659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 174518,
+      "num": 174518,
+      "word": "九鹭非香的女主",
+      "onboard_time": 1683897389,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 174199,
       "num": 174199,
       "word": "萌娃遇消防员婚车队集体挥手祝福",
@@ -1633,6 +1681,14 @@
       "onboard_time": 1683855628,
       "rank": 45,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 173141,
+      "num": 173141,
+      "word": "五个女博士被立案调查",
+      "onboard_time": 1683897268,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170987,
@@ -1779,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150454,
+      "num": 150454,
+      "word": "蒋奇明打手语",
+      "onboard_time": 1683892108,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 149269,
       "num": 149269,
       "word": "凯尔特人vs76人",
@@ -1801,14 +1865,6 @@
       "onboard_time": 1683880708,
       "rank": 45,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 144047,
-      "num": 144047,
-      "word": "蒋奇明打手语",
-      "onboard_time": 1683892108,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 143330,

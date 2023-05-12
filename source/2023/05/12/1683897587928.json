@@ -1,0 +1,402 @@
+{
+  "runTime": 1683897587928,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1314074,
+        "num": 1314074,
+        "word": "罗成 梦女",
+        "onboard_time": 1683895351,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1172472,
+        "num": 1172472,
+        "word": "对不起发达国家这顶帽子中国戴不了",
+        "onboard_time": 1683885210,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1051354,
+        "num": 1051354,
+        "word": "原来两万块有这么厚",
+        "onboard_time": 1683883769,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 788399,
+        "num": 788399,
+        "word": "硕士求职客服岗被拒HR教改简历",
+        "onboard_time": 1683883170,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 687139,
+        "num": 687139,
+        "word": "X玖少年团成员前缀",
+        "onboard_time": 1683890427,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 684908,
+        "num": 684908,
+        "word": "放下个人素质 享受缺德人生",
+        "onboard_time": 1683894027,
+        "rank": 6,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 670585,
+        "num": 670585,
+        "word": "李虹去世",
+        "onboard_time": 1683881368,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639149,
+        "num": 639149,
+        "word": "韩国低出生率结果",
+        "onboard_time": 1683894690,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440559,
+        "num": 440559,
+        "word": "26岁我的真实存款",
+        "onboard_time": 1683876869,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 426656,
+        "num": 426656,
+        "word": "外交部辟谣驻法大使卢沙野将被召回",
+        "onboard_time": 1683895229,
+        "rank": 10,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 398917,
+        "num": 398917,
+        "word": "BLACKPINK出发新加坡",
+        "onboard_time": 1683895468,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 393205,
+        "num": 393205,
+        "word": "一看就没有恋爱过的女生",
+        "onboard_time": 1683883890,
+        "rank": 12,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 340490,
+        "num": 340490,
+        "word": "周扬青说安检识别不出我的脸",
+        "onboard_time": 1683882929,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321972,
+        "num": 321972,
+        "word": "李大钊孙女",
+        "onboard_time": 1683858327,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297412,
+        "num": 297412,
+        "word": "小伙入职第二天报警把公司端了",
+        "onboard_time": 1683875548,
+        "rank": 15,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 277648,
+        "num": 277648,
+        "word": "泫雅武汉音乐节海报是P的",
+        "onboard_time": 1683896310,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 275986,
+        "num": 275986,
+        "word": "孟羽童在格力月薪没过万",
+        "onboard_time": 1683865896,
+        "rank": 17,
+        "category": "财经,网红"
+      },
+      {
+        "raw_hot": 269270,
+        "num": 269270,
+        "word": "闫桉 生病才拥有一个gapday",
+        "onboard_time": 1683894748,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264733,
+        "num": 264733,
+        "word": "好利来罗成辟谣未婚妻传闻",
+        "onboard_time": 1683896550,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1047749,
+        "num": 264188,
+        "word": "田馥甄",
+        "onboard_time": 1683885510,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448314,
+        "num": 263297,
+        "word": "妈妈染指甲被儿子说",
+        "onboard_time": 1683891449,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 318027,
+        "num": 262329,
+        "word": "手机后三位是你房子的面积",
+        "onboard_time": 1683891988,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258462,
+        "num": 258462,
+        "word": "沈月出道前曾帮人拍婚庆",
+        "onboard_time": 1683872066,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246777,
+        "num": 246777,
+        "word": "AI出来后第一个失业的是孙燕姿",
+        "onboard_time": 1683892108,
+        "rank": 24,
+        "category": "科技,艺人"
+      },
+      {
+        "raw_hot": 239081,
+        "num": 239081,
+        "word": "跑男",
+        "onboard_time": 1683896489,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235111,
+        "num": 235111,
+        "word": "时代峰峻训练生底薪8000",
+        "onboard_time": 1683875129,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219968,
+        "num": 219968,
+        "word": "霍华德道歉并辩解",
+        "onboard_time": 1683877166,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217517,
+        "num": 217517,
+        "word": "INTO1首次撕名牌问题好多",
+        "onboard_time": 1683891507,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212434,
+        "num": 212434,
+        "word": "JDG",
+        "onboard_time": 1683896008,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209900,
+        "num": 209900,
+        "word": "乘风破浪下一季叫什么",
+        "onboard_time": 1683889710,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196823,
+        "num": 196823,
+        "word": "小伙努力3年无人问凭一首神曲逆袭",
+        "onboard_time": 1683887308,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181893,
+        "num": 181893,
+        "word": "Jennie的眼睛还没好",
+        "onboard_time": 1683897209,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174518,
+        "num": 174518,
+        "word": "九鹭非香的女主",
+        "onboard_time": 1683897389,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173141,
+        "num": 173141,
+        "word": "五个女博士被立案调查",
+        "onboard_time": 1683897268,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169366,
+        "num": 169366,
+        "word": "丈夫家中去世女子赶车路上崩溃大哭",
+        "onboard_time": 1683870027,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168107,
+        "num": 168107,
+        "word": "奔跑吧今晚和400位观众合唱",
+        "onboard_time": 1683887908,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167246,
+        "num": 167246,
+        "word": "男生为过教资面试在地铁上试讲",
+        "onboard_time": 1683884308,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 165830,
+        "num": 165830,
+        "word": "张婧仪古装",
+        "onboard_time": 1683883229,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157836,
+        "num": 157836,
+        "word": "看老照片",
+        "onboard_time": 1683893248,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153717,
+        "num": 153717,
+        "word": "原来真有大学生月入过万",
+        "onboard_time": 1683886889,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150454,
+        "num": 150454,
+        "word": "蒋奇明打手语",
+        "onboard_time": 1683892108,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149737,
+        "num": 149737,
+        "word": "年轻人没有负债是什么水平",
+        "onboard_time": 1683888331,
+        "rank": 42,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 148356,
+        "num": 148356,
+        "word": "5121428",
+        "onboard_time": 1683847525,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148329,
+        "num": 148329,
+        "word": "杨幂唐嫣赵丽颖的人生你想过谁的",
+        "onboard_time": 1683864569,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147078,
+        "num": 147078,
+        "word": "蔡徐坤广西",
+        "onboard_time": 1683892466,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136009,
+        "num": 136009,
+        "word": "北京一千块过一个月是什么概念",
+        "onboard_time": 1683889949,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135158,
+        "num": 135158,
+        "word": "庆余年2海报设计公司道歉",
+        "onboard_time": 1683876985,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110487,
+        "num": 130422,
+        "word": "朋友问我塞尔达怎么还没通关",
+        "onboard_time": 1683891687,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 85340,
+        "num": 128340,
+        "word": "黑龙江男子到剑门关旅游被免门票",
+        "onboard_time": 1683884067,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在石家庄市考察调研#"
+    }
+  }
+}
