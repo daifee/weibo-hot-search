@@ -1,6 +1,6 @@
 {
   "startTime": 1683822124198,
-  "endTime": 1683855864735,
+  "endTime": 1683858725745,
   "band_list": [
     {
       "raw_hot": 3648870,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 963817,
+      "num": 963817,
+      "word": "专家建议给生孩子的人发薪水",
+      "onboard_time": 1683812427,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 940123,
       "num": 940123,
       "word": "汶川地震15周年",
@@ -123,11 +131,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 744389,
-      "num": 744389,
-      "word": "专家建议给生孩子的人发薪水",
-      "onboard_time": 1683812427,
-      "rank": 9,
+      "raw_hot": 716885,
+      "num": 716885,
+      "word": "塔图姆 拉",
+      "onboard_time": 1683855447,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 695999,
+      "num": 623824,
+      "word": "知情人称列车命案凶器或藏在下腹部",
+      "onboard_time": 1683853471,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -147,12 +163,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 623824,
-      "num": 623824,
-      "word": "知情人称列车命案凶器或藏在下腹部",
-      "onboard_time": 1683853471,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 577728,
+      "num": 577728,
+      "word": "维金斯肋骨骨折",
+      "onboard_time": 1683854671,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 572072,
@@ -161,6 +177,14 @@
       "onboard_time": 1683821606,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 525234,
+      "num": 406806,
+      "word": "看老照片 停更",
+      "onboard_time": 1683856408,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 521621,
@@ -179,6 +203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 473972,
+      "num": 473972,
+      "word": "马斯克官宣卸任推特CEO",
+      "onboard_time": 1683855928,
+      "rank": 9,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 469323,
       "num": 469323,
       "word": "YG新女团出道",
@@ -195,16 +227,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 421608,
-      "num": 198459,
-      "word": "维金斯肋骨骨折",
-      "onboard_time": 1683854671,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 439414,
+      "num": 207693,
+      "word": "灵隐寺千年七叶树开花",
+      "onboard_time": 1683855570,
+      "rank": 35,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 417589,
-      "num": 272141,
+      "num": 369454,
       "word": "男生和女生买房的区别",
       "onboard_time": 1683852154,
       "rank": 21,
@@ -259,6 +291,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 340459,
+      "num": 186448,
+      "word": "李大钊孙女",
+      "onboard_time": 1683858327,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320486,
       "num": 242585,
       "word": "人真的可以删除自己的记忆",
@@ -304,6 +344,14 @@
       "word": "淄博一小区为外卖员配专用单车",
       "onboard_time": 1683846200,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274517,
+      "num": 203599,
+      "word": "美国上百名童工在屠宰厂上夜班",
+      "onboard_time": 1683856110,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -427,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 207020,
-      "num": 176941,
-      "word": "塔图姆 拉",
-      "onboard_time": 1683855447,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205205,
       "num": 205205,
       "word": "上海下半年演唱会",
@@ -449,6 +489,14 @@
       "onboard_time": 1683816273,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196831,
+      "num": 196831,
+      "word": "猫被气的站起来跑步打人了",
+      "onboard_time": 1683857492,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 193845,
@@ -475,6 +523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 187641,
+      "num": 187641,
+      "word": "76人3比3凯尔特人",
+      "onboard_time": 1683858327,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186610,
       "num": 186610,
       "word": "无人机航拍时被鹰叼走",
@@ -499,12 +555,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 178324,
+      "num": 178324,
+      "word": "6岁娃指出狗主人错误被打成脑震荡",
+      "onboard_time": 1683857968,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175550,
       "num": 166084,
       "word": "易梦玲美黑",
       "onboard_time": 1683800548,
       "rank": 31,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 173151,
+      "num": 173151,
+      "word": "秋瓷炫说我对你们一辈子好",
+      "onboard_time": 1683856288,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 168978,
@@ -515,20 +587,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 168400,
+      "num": 168400,
+      "word": "过劳肥是如何导致的",
+      "onboard_time": 1683855628,
+      "rank": 45,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 164795,
       "num": 164795,
       "word": "为啥有的人坚持运动却不见瘦",
       "onboard_time": 1683842895,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163556,
-      "num": 163556,
-      "word": "灵隐寺千年七叶树开花",
-      "onboard_time": 1683855570,
-      "rank": 35,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 162164,
@@ -553,6 +625,22 @@
       "onboard_time": 1683807927,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160112,
+      "num": 160112,
+      "word": "Steam禁止开小号欺凌初级玩家",
+      "onboard_time": 1683857551,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 156033,
+      "num": 156033,
+      "word": "张婧仪新剧出妆路透图",
+      "onboard_time": 1683858267,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 155472,
@@ -619,6 +707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 132196,
+      "num": 132196,
+      "word": "那只能我们来找你了",
+      "onboard_time": 1683856949,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 127026,
       "num": 127026,
       "word": "癌症筛查 早发现早治疗未必是对的",
@@ -651,14 +747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123133,
-      "num": 123133,
-      "word": "过劳肥是如何导致的",
-      "onboard_time": 1683855628,
-      "rank": 45,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 122648,
       "num": 122648,
       "word": "五月天演唱会荧光棒涨价三倍",
@@ -681,6 +769,14 @@
       "onboard_time": 1683794069,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118501,
+      "num": 118501,
+      "word": "当年512亲历者们如今怎么样",
+      "onboard_time": 1683857252,
+      "rank": 47,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 116321,
