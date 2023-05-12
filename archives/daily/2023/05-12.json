@@ -1,6 +1,6 @@
 {
   "startTime": 1683822124198,
-  "endTime": 1683865199550,
+  "endTime": 1683866018953,
   "band_list": [
     {
       "raw_hot": 3648870,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3263822,
-      "num": 3263822,
+      "raw_hot": 3365132,
+      "num": 3365132,
       "word": "李大钊孙女",
       "onboard_time": 1683858327,
       "rank": 30,
@@ -75,8 +75,16 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 1322051,
-      "num": 1322051,
+      "raw_hot": 1444496,
+      "num": 1444496,
+      "word": "庆余年海报疑似抄袭",
+      "onboard_time": 1683863730,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1421879,
+      "num": 1421879,
       "word": "张颂文悼念李大钊孙女",
       "onboard_time": 1683862350,
       "rank": 42,
@@ -107,12 +115,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1093837,
-      "num": 1093837,
-      "word": "庆余年海报疑似抄袭",
-      "onboard_time": 1683863730,
-      "rank": 5,
-      "category": "影视"
+      "raw_hot": 1179719,
+      "num": 627347,
+      "word": "杨幂唐嫣赵丽颖的人生你想过谁的",
+      "onboard_time": 1683864569,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1048858,
@@ -283,14 +291,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 502434,
-      "num": 502434,
-      "word": "杨幂唐嫣赵丽颖的人生你想过谁的",
-      "onboard_time": 1683864569,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 473972,
       "num": 473972,
       "word": "马斯克官宣卸任推特CEO",
@@ -323,20 +323,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 451308,
+      "num": 342785,
+      "word": "哪个部位的黑痣更易发生癌变成为黑色素瘤",
+      "onboard_time": 1683863190,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 441100,
+      "num": 441100,
+      "word": "护心导演点赞拉踩长月烬明内容",
+      "onboard_time": 1683862409,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 439414,
       "num": 283022,
       "word": "灵隐寺千年七叶树开花",
       "onboard_time": 1683855570,
       "rank": 35,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 438350,
-      "num": 438350,
-      "word": "护心导演点赞拉踩长月烬明内容",
-      "onboard_time": 1683862409,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 431937,
@@ -363,14 +371,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 396877,
-      "num": 260024,
-      "word": "哪个部位的黑痣更易发生癌变成为黑色素瘤",
-      "onboard_time": 1683863190,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 390753,
       "num": 390753,
       "word": "斗罗大陆2",
@@ -385,6 +385,14 @@
       "onboard_time": 1683862409,
       "rank": 22,
       "category": "科技"
+    },
+    {
+      "raw_hot": 372582,
+      "num": 372582,
+      "word": "如何让领导知道你干了很多活",
+      "onboard_time": 1683864510,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 372501,
@@ -433,6 +441,14 @@
       "onboard_time": 1683815553,
       "rank": 20,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 318336,
+      "num": 318336,
+      "word": "裸辞5年后面试第一家就入职了",
+      "onboard_time": 1683865355,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 314200,
@@ -484,7 +500,7 @@
     },
     {
       "raw_hot": 279814,
-      "num": 238209,
+      "num": 245289,
       "word": "美国上百名童工在屠宰厂上夜班",
       "onboard_time": 1683856110,
       "rank": 25,
@@ -515,12 +531,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 260033,
-      "num": 260033,
-      "word": "如何让领导知道你干了很多活",
-      "onboard_time": 1683864510,
-      "rank": 29,
+      "raw_hot": 257658,
+      "num": 257658,
+      "word": "为什么年轻人会反感家里来客",
+      "onboard_time": 1683864207,
+      "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 251916,
+      "num": 251916,
+      "word": "掘金vs太阳",
+      "onboard_time": 1683860730,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 250454,
+      "num": 250454,
+      "word": "汶川地震饲养员连抱带抬转移熊猫",
+      "onboard_time": 1683864991,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248114,
@@ -571,14 +603,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 237213,
-      "num": 237213,
-      "word": "掘金vs太阳",
-      "onboard_time": 1683860730,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 235180,
       "num": 235180,
       "word": "极乐净土内娱舞台",
@@ -593,6 +617,22 @@
       "onboard_time": 1683850772,
       "rank": 25,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 234970,
+      "num": 234970,
+      "word": "敬礼娃娃每年都给解放军叔叔发祝福短信",
+      "onboard_time": 1683865714,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234896,
+      "num": 234896,
+      "word": "孔雪儿周翊然开机路透",
+      "onboard_time": 1683865232,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 231266,
@@ -619,12 +659,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225598,
-      "num": 225598,
-      "word": "汶川地震饲养员连抱带抬转移熊猫",
-      "onboard_time": 1683864991,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 226324,
+      "num": 226324,
+      "word": "赵露思把肉丝读成肉shi",
+      "onboard_time": 1683864269,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 225026,
+      "num": 225026,
+      "word": "孟羽童在格力月薪没过万",
+      "onboard_time": 1683865896,
+      "rank": 39,
+      "category": "财经,网红"
     },
     {
       "raw_hot": 221810,
@@ -665,14 +713,6 @@
       "onboard_time": 1683816751,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 209967,
-      "num": 209967,
-      "word": "为什么年轻人会反感家里来客",
-      "onboard_time": 1683864207,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 205205,
@@ -771,14 +811,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 180959,
-      "num": 180959,
-      "word": "赵露思把肉丝读成肉shi",
-      "onboard_time": 1683864269,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 179605,
       "num": 179605,
       "word": "王国之泪 解锁",
@@ -827,6 +859,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167818,
+      "num": 167818,
+      "word": "美术老师备课笔记精美如绘本",
+      "onboard_time": 1683863249,
+      "rank": 45,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 166537,
+      "num": 166537,
+      "word": "第一次见液体大熊猫",
+      "onboard_time": 1683865652,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164795,
       "num": 164795,
       "word": "为啥有的人坚持运动却不见瘦",
@@ -857,6 +905,14 @@
       "onboard_time": 1683807927,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157274,
+      "num": 157274,
+      "word": "青春环游记",
+      "onboard_time": 1683865774,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 155472,
@@ -1131,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39446,
+      "num": 1456338,
+      "word": "高质量发展调研行",
+      "onboard_time": 1683864393,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38409,
       "num": 1989303,
       "word": "天舟六号有何特别之处",
@@ -1145,14 +1209,6 @@
       "onboard_time": 1683833713,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 29878,
-      "num": 1338689,
-      "word": "高质量发展调研行",
-      "onboard_time": 1683864393,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24674,
