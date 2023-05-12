@@ -1,0 +1,402 @@
+{
+  "runTime": 1683895676050,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1388572,
+        "num": 1388572,
+        "word": "对不起发达国家这顶帽子中国戴不了",
+        "onboard_time": 1683885210,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1161281,
+        "num": 1161281,
+        "word": "原来两万块有这么厚",
+        "onboard_time": 1683883769,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 768826,
+        "num": 768826,
+        "word": "X玖少年团成员前缀",
+        "onboard_time": 1683890427,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 728850,
+        "num": 728850,
+        "word": "李虹去世",
+        "onboard_time": 1683881368,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699997,
+        "num": 699997,
+        "word": "硕士求职客服岗被拒HR教改简历",
+        "onboard_time": 1683883170,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 468893,
+        "num": 468893,
+        "word": "乘风破浪下一季叫什么",
+        "onboard_time": 1683889710,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 453059,
+        "num": 453059,
+        "word": "26岁我的真实存款",
+        "onboard_time": 1683876869,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 386025,
+        "num": 386025,
+        "word": "一看就没有恋爱过的女生",
+        "onboard_time": 1683883890,
+        "rank": 8,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 368097,
+        "num": 368097,
+        "word": "放下个人素质 享受缺德人生",
+        "onboard_time": 1683894027,
+        "rank": 9,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 504190,
+        "num": 366638,
+        "word": "周扬青说安检识别不出我的脸",
+        "onboard_time": 1683882929,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356256,
+        "num": 356256,
+        "word": "李大钊孙女",
+        "onboard_time": 1683858327,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325202,
+        "num": 325202,
+        "word": "时代峰峻训练生底薪8000",
+        "onboard_time": 1683875129,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306828,
+        "num": 306828,
+        "word": "孟羽童在格力月薪没过万",
+        "onboard_time": 1683865896,
+        "rank": 13,
+        "category": "财经,网红"
+      },
+      {
+        "raw_hot": 296964,
+        "num": 296964,
+        "word": "小伙入职第二天报警把公司端了",
+        "onboard_time": 1683875548,
+        "rank": 14,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 281058,
+        "num": 281058,
+        "word": "霍华德道歉并辩解",
+        "onboard_time": 1683877166,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278933,
+        "num": 278933,
+        "word": "外交部辟谣驻法大使卢沙野将被召回",
+        "onboard_time": 1683895229,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 276026,
+        "num": 276026,
+        "word": "沈月出道前曾帮人拍婚庆",
+        "onboard_time": 1683872066,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247886,
+        "num": 247886,
+        "word": "韩国低出生率结果",
+        "onboard_time": 1683894690,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243525,
+        "num": 243525,
+        "word": "罗成 梦女",
+        "onboard_time": 1683895351,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1262456,
+        "num": 243489,
+        "word": "田馥甄",
+        "onboard_time": 1683885510,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 538338,
+        "num": 243407,
+        "word": "妈妈染指甲被儿子说",
+        "onboard_time": 1683891449,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242752,
+        "num": 242752,
+        "word": "小伙努力3年无人问凭一首神曲逆袭",
+        "onboard_time": 1683887308,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 356801,
+        "num": 239436,
+        "word": "手机后三位是你房子的面积",
+        "onboard_time": 1683891988,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 260127,
+        "num": 238842,
+        "word": "AI出来后第一个失业的是孙燕姿",
+        "onboard_time": 1683892108,
+        "rank": 24,
+        "category": "科技,艺人"
+      },
+      {
+        "raw_hot": 234116,
+        "num": 234116,
+        "word": "奔跑吧今晚和400位观众合唱",
+        "onboard_time": 1683887908,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229227,
+        "num": 229227,
+        "word": "年轻人没有负债是什么水平",
+        "onboard_time": 1683888331,
+        "rank": 26,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 226973,
+        "num": 226973,
+        "word": "INTO1首次撕名牌问题好多",
+        "onboard_time": 1683891507,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212283,
+        "num": 212283,
+        "word": "男生为过教资面试在地铁上试讲",
+        "onboard_time": 1683884308,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 188475,
+        "num": 188475,
+        "word": "看老照片",
+        "onboard_time": 1683893248,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231096,
+        "num": 188467,
+        "word": "微信公众号",
+        "onboard_time": 1683889827,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 188401,
+        "num": 188401,
+        "word": "张婧仪古装",
+        "onboard_time": 1683883229,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186970,
+        "num": 186970,
+        "word": "BLACKPINK出发新加坡",
+        "onboard_time": 1683895468,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183495,
+        "num": 183495,
+        "word": "蔡徐坤广西",
+        "onboard_time": 1683892466,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179915,
+        "num": 179915,
+        "word": "原来真有大学生月入过万",
+        "onboard_time": 1683886889,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177097,
+        "num": 177097,
+        "word": "闫桉 生病才拥有一个gapday",
+        "onboard_time": 1683894748,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166913,
+        "num": 166913,
+        "word": "丈夫家中去世女子赶车路上崩溃大哭",
+        "onboard_time": 1683870027,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168565,
+        "num": 164650,
+        "word": "北京一千块过一个月是什么概念",
+        "onboard_time": 1683889949,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161532,
+        "num": 161532,
+        "word": "徐明浩cos小狗造型",
+        "onboard_time": 1683889288,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154835,
+        "num": 154835,
+        "word": "许允真",
+        "onboard_time": 1683888809,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150042,
+        "num": 150042,
+        "word": "朋友问我塞尔达怎么还没通关",
+        "onboard_time": 1683891687,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147871,
+        "num": 147871,
+        "word": "庆余年2海报设计公司道歉",
+        "onboard_time": 1683876985,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146094,
+        "num": 146094,
+        "word": "早期白月光杀伤力",
+        "onboard_time": 1683883769,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145912,
+        "num": 145912,
+        "word": "李国庆称签约孟羽童保底要400万",
+        "onboard_time": 1683867632,
+        "rank": 43,
+        "category": "财经,网红"
+      },
+      {
+        "raw_hot": 145299,
+        "num": 145299,
+        "word": "5121428",
+        "onboard_time": 1683847525,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142670,
+        "num": 142670,
+        "word": "韩国张凌赫",
+        "onboard_time": 1683866315,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141594,
+        "num": 141594,
+        "word": "杨幂唐嫣赵丽颖的人生你想过谁的",
+        "onboard_time": 1683864569,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139509,
+        "num": 139509,
+        "word": "蒋奇明打手语",
+        "onboard_time": 1683892108,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98095,
+        "num": 136929,
+        "word": "黑龙江男子到剑门关旅游被免门票",
+        "onboard_time": 1683884067,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 65357,
+        "num": 136613,
+        "word": "塞学家研究所 请假",
+        "onboard_time": 1683890850,
+        "rank": 49,
+        "category": "游戏,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在石家庄市考察调研#"
+    }
+  }
+}
