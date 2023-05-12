@@ -1,6 +1,6 @@
 {
   "startTime": 1683908490327,
-  "endTime": 1683911685359,
+  "endTime": 1683912808177,
   "band_list": [
     {
       "raw_hot": 1765860,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210685,
+      "num": 210685,
+      "word": "淄博男子驾车昏厥幸好遇到他们",
+      "onboard_time": 1683912680,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204168,
       "num": 204168,
       "word": "AI出来后第一个失业的是孙燕姿",
@@ -387,20 +395,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 81240,
+      "num": 81240,
+      "word": "官方通报辛巴致榴莲变贵不实",
+      "onboard_time": 1683910762,
+      "rank": 44,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 64547,
       "num": 64547,
       "word": "当给周杰伦配上勇气大爆发",
       "onboard_time": 1683911419,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 61690,
-      "num": 61690,
-      "word": "官方通报辛巴致榴莲变贵不实",
-      "onboard_time": 1683910762,
-      "rank": 44,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 53175,
