@@ -1,6 +1,6 @@
 {
   "startTime": 1683822124198,
-  "endTime": 1683898401775,
+  "endTime": 1683900902895,
   "band_list": [
     {
       "raw_hot": 3648870,
@@ -47,6 +47,14 @@
       "num": 829264,
       "word": "田馥甄",
       "onboard_time": 1683885510,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2469874,
+      "num": 444129,
+      "word": "王一博删照片",
+      "onboard_time": 1683899130,
       "rank": 10,
       "category": "艺人"
     },
@@ -363,6 +371,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 806159,
+      "num": 806159,
+      "word": "很体面但是工资不高的工作",
+      "onboard_time": 1683898890,
+      "rank": 3,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 786708,
       "num": 786708,
       "word": "周杰伦演唱会外男子被抢两张门票",
@@ -603,6 +619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 479170,
+      "num": 479170,
+      "word": "九鹭非香的女主",
+      "onboard_time": 1683897389,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 473972,
       "num": 473972,
       "word": "马斯克官宣卸任推特CEO",
@@ -633,6 +657,14 @@
       "onboard_time": 1683852154,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 458310,
+      "num": 458310,
+      "word": "爸爸年轻时的工资是2000",
+      "onboard_time": 1683898411,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 457940,
@@ -683,6 +715,22 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 425784,
+      "num": 245652,
+      "word": "五个女博士被立案调查",
+      "onboard_time": 1683897268,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421276,
+      "num": 421276,
+      "word": "跑男",
+      "onboard_time": 1683896489,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 412994,
       "num": 412994,
       "word": "邓紫棋周杰伦演唱会点歌黑色毛衣",
@@ -713,14 +761,6 @@
       "onboard_time": 1683886467,
       "rank": 37,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 402614,
-      "num": 245652,
-      "word": "五个女博士被立案调查",
-      "onboard_time": 1683897268,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 400758,
@@ -907,6 +947,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 342838,
+      "num": 276723,
+      "word": "上海北外滩偶遇刺猬头",
+      "onboard_time": 1683897808,
+      "rank": 29,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 342157,
       "num": 342157,
       "word": "离职需要签字最多的人",
@@ -963,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321119,
+      "num": 321119,
+      "word": "INTO1首次撕名牌问题好多",
+      "onboard_time": 1683891507,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320486,
       "num": 242585,
       "word": "人真的可以删除自己的记忆",
@@ -987,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307905,
+      "num": 275965,
+      "word": "星汉灿烂开播前不被看好",
+      "onboard_time": 1683898829,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 304712,
       "num": 304712,
       "word": "家里做饭阿姨是985毕业的",
@@ -1001,14 +1065,6 @@
       "onboard_time": 1683846980,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 301117,
-      "num": 301117,
-      "word": "跑男",
-      "onboard_time": 1683896489,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 299831,
@@ -1065,14 +1121,6 @@
       "onboard_time": 1683883109,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 285827,
-      "num": 285827,
-      "word": "九鹭非香的女主",
-      "onboard_time": 1683897389,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 285670,
@@ -1195,14 +1243,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 255499,
-      "num": 255499,
-      "word": "INTO1首次撕名牌问题好多",
-      "onboard_time": 1683891507,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 251916,
       "num": 251916,
       "word": "掘金vs太阳",
@@ -1249,14 +1289,6 @@
       "onboard_time": 1683829274,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 246784,
-      "num": 246784,
-      "word": "上海北外滩偶遇刺猬头",
-      "onboard_time": 1683897808,
-      "rank": 29,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 245915,
@@ -1547,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197383,
+      "num": 190661,
+      "word": "512汶川地震时的监控录像",
+      "onboard_time": 1683899732,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194521,
       "num": 194521,
       "word": "俩人的智商此刻超过了爱因斯坦",
@@ -1731,6 +1771,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 166037,
+      "num": 166037,
+      "word": "你相信有天性很坏的孩子吗",
+      "onboard_time": 1683898051,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 164795,
       "num": 164795,
       "word": "为啥有的人坚持运动却不见瘦",
@@ -1745,6 +1793,22 @@
       "onboard_time": 1683870987,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 163544,
+      "num": 163544,
+      "word": "母亲节要送婆婆礼物吗",
+      "onboard_time": 1683900452,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 162799,
+      "num": 162799,
+      "word": "妈妈和听力障碍女儿当9年同桌",
+      "onboard_time": 1683900152,
+      "rank": 38,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 162164,
@@ -1795,12 +1859,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157690,
+      "num": 157690,
+      "word": "汶川地震亲历者回忆地震瞬间",
+      "onboard_time": 1683900031,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157274,
       "num": 157274,
       "word": "青春环游记",
       "onboard_time": 1683865774,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156683,
+      "num": 156683,
+      "word": "工资5000交税15万",
+      "onboard_time": 1683900872,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 155472,
@@ -1953,6 +2033,14 @@
       "onboard_time": 1683802408,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 133808,
+      "num": 133808,
+      "word": "妈妈让我辞职了",
+      "onboard_time": 1683899670,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 133088,
@@ -2147,6 +2235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 55219,
+      "num": 1022918,
+      "word": "第一视角看航天员进入天舟六号",
+      "onboard_time": 1683898109,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49617,
       "num": 599305,
       "word": "我的家乡我来拍",
@@ -2201,14 +2297,6 @@
       "onboard_time": 1683844035,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 19485,
-      "num": 1022918,
-      "word": "第一视角看航天员进入天舟六号",
-      "onboard_time": 1683898109,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15340,

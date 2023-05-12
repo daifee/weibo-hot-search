@@ -1,0 +1,410 @@
+{
+  "runTime": 1683900902895,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1460195,
+        "num": 1460195,
+        "word": "罗成 梦女",
+        "onboard_time": 1683895351,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 985184,
+        "num": 985184,
+        "word": "对不起发达国家这顶帽子中国戴不了",
+        "onboard_time": 1683885210,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 55219,
+        "num": 827516,
+        "word": "第一视角看航天员进入天舟六号",
+        "onboard_time": 1683898109,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 806159,
+        "num": 806159,
+        "word": "很体面但是工资不高的工作",
+        "onboard_time": 1683898890,
+        "rank": 3,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 746741,
+        "num": 746741,
+        "word": "原来两万块有这么厚",
+        "onboard_time": 1683883769,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 698813,
+        "num": 698813,
+        "word": "硕士求职客服岗被拒HR教改简历",
+        "onboard_time": 1683883170,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 645574,
+        "num": 645574,
+        "word": "韩国低出生率结果",
+        "onboard_time": 1683894690,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 588151,
+        "num": 588151,
+        "word": "X玖少年团成员前缀",
+        "onboard_time": 1683890427,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 479170,
+        "num": 479170,
+        "word": "九鹭非香的女主",
+        "onboard_time": 1683897389,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 458310,
+        "num": 458310,
+        "word": "爸爸年轻时的工资是2000",
+        "onboard_time": 1683898411,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2469874,
+        "num": 444129,
+        "word": "王一博删照片",
+        "onboard_time": 1683899130,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425823,
+        "num": 425823,
+        "word": "一看就没有恋爱过的女生",
+        "onboard_time": 1683883890,
+        "rank": 11,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 421276,
+        "num": 421276,
+        "word": "跑男",
+        "onboard_time": 1683896489,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363011,
+        "num": 363011,
+        "word": "李虹去世",
+        "onboard_time": 1683881368,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337669,
+        "num": 337669,
+        "word": "好利来罗成辟谣未婚妻传闻",
+        "onboard_time": 1683896550,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 425496,
+        "num": 334542,
+        "word": "放下个人素质 享受缺德人生",
+        "onboard_time": 1683894027,
+        "rank": 15,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 325804,
+        "num": 325804,
+        "word": "泫雅武汉音乐节海报是P的",
+        "onboard_time": 1683896310,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 321119,
+        "num": 321119,
+        "word": "INTO1首次撕名牌问题好多",
+        "onboard_time": 1683891507,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315996,
+        "num": 315996,
+        "word": "26岁我的真实存款",
+        "onboard_time": 1683876869,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282071,
+        "num": 282071,
+        "word": "BLACKPINK出发新加坡",
+        "onboard_time": 1683895468,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 873206,
+        "num": 280578,
+        "word": "田馥甄",
+        "onboard_time": 1683885510,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386785,
+        "num": 279743,
+        "word": "妈妈染指甲被儿子说",
+        "onboard_time": 1683891449,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 342838,
+        "num": 276723,
+        "word": "上海北外滩偶遇刺猬头",
+        "onboard_time": 1683897808,
+        "rank": 22,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 307905,
+        "num": 275965,
+        "word": "星汉灿烂开播前不被看好",
+        "onboard_time": 1683898829,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274667,
+        "num": 274667,
+        "word": "手机后三位是你房子的面积",
+        "onboard_time": 1683891988,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244592,
+        "num": 244592,
+        "word": "周扬青说安检识别不出我的脸",
+        "onboard_time": 1683882929,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239486,
+        "num": 239486,
+        "word": "Jennie的眼睛还没好",
+        "onboard_time": 1683897209,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208892,
+        "num": 208892,
+        "word": "AI出来后第一个失业的是孙燕姿",
+        "onboard_time": 1683892108,
+        "rank": 27,
+        "category": "科技,艺人"
+      },
+      {
+        "raw_hot": 195843,
+        "num": 195843,
+        "word": "JDG",
+        "onboard_time": 1683896008,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192664,
+        "num": 192664,
+        "word": "闫桉 生病才拥有一个gapday",
+        "onboard_time": 1683894748,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425784,
+        "num": 192649,
+        "word": "五个女博士被立案调查",
+        "onboard_time": 1683897268,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197383,
+        "num": 190661,
+        "word": "512汶川地震时的监控录像",
+        "onboard_time": 1683899732,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187613,
+        "num": 187613,
+        "word": "看老照片",
+        "onboard_time": 1683893248,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184490,
+        "num": 184490,
+        "word": "男生为过教资面试在地铁上试讲",
+        "onboard_time": 1683884308,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 183590,
+        "num": 183590,
+        "word": "奔跑吧今晚和400位观众合唱",
+        "onboard_time": 1683887908,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167298,
+        "num": 167298,
+        "word": "外交部辟谣驻法大使卢沙野将被召回",
+        "onboard_time": 1683895229,
+        "rank": 35,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 166037,
+        "num": 166037,
+        "word": "你相信有天性很坏的孩子吗",
+        "onboard_time": 1683898051,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163544,
+        "num": 163544,
+        "word": "母亲节要送婆婆礼物吗",
+        "onboard_time": 1683900452,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162799,
+        "num": 162799,
+        "word": "妈妈和听力障碍女儿当9年同桌",
+        "onboard_time": 1683900152,
+        "rank": 38,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 160016,
+        "num": 160016,
+        "word": "小伙入职第二天报警把公司端了",
+        "onboard_time": 1683875548,
+        "rank": 39,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 159959,
+        "num": 159959,
+        "word": "小伙努力3年无人问凭一首神曲逆袭",
+        "onboard_time": 1683887308,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159154,
+        "num": 159154,
+        "word": "原来真有大学生月入过万",
+        "onboard_time": 1683886889,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157690,
+        "num": 157690,
+        "word": "汶川地震亲历者回忆地震瞬间",
+        "onboard_time": 1683900031,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156683,
+        "num": 156683,
+        "word": "工资5000交税15万",
+        "onboard_time": 1683900872,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153546,
+        "num": 153546,
+        "word": "张婧仪古装",
+        "onboard_time": 1683883229,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133808,
+        "num": 133808,
+        "word": "妈妈让我辞职了",
+        "onboard_time": 1683899670,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126714,
+        "num": 126714,
+        "word": "李大钊孙女",
+        "onboard_time": 1683858327,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123776,
+        "num": 123776,
+        "word": "霍华德道歉并辩解",
+        "onboard_time": 1683877166,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70444,
+        "num": 123522,
+        "word": "黑龙江男子到剑门关旅游被免门票",
+        "onboard_time": 1683884067,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 66002,
+        "num": 121484,
+        "word": "朋友问我塞尔达怎么还没通关",
+        "onboard_time": 1683891687,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在石家庄市考察调研#"
+    }
+  }
+}
