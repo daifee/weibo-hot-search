@@ -1,6 +1,6 @@
 {
   "startTime": 1683822124198,
-  "endTime": 1683879629564,
+  "endTime": 1683880414030,
   "band_list": [
     {
       "raw_hot": 3648870,
@@ -75,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1771536,
+      "num": 1771536,
+      "word": "26岁我的真实存款",
+      "onboard_time": 1683876869,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1714929,
       "num": 1714929,
       "word": "戚薇生二胎前差点摔倒被陈小春扶住了",
@@ -113,14 +121,6 @@
       "onboard_time": 1683870027,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1467636,
-      "num": 1467636,
-      "word": "26岁我的真实存款",
-      "onboard_time": 1683876869,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 1451767,
@@ -195,8 +195,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1102278,
+      "num": 1102278,
+      "word": "小伙入职第二天报警把公司端了",
+      "onboard_time": 1683875548,
+      "rank": 42,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 1093011,
-      "num": 741124,
+      "num": 747096,
       "word": "时代峰峻训练生底薪8000",
       "onboard_time": 1683875129,
       "rank": 23,
@@ -225,14 +233,6 @@
       "onboard_time": 1683807388,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1022060,
-      "num": 1022060,
-      "word": "小伙入职第二天报警把公司端了",
-      "onboard_time": 1683875548,
-      "rank": 42,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 940123,
@@ -363,8 +363,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 615298,
-      "num": 615298,
+      "raw_hot": 633992,
+      "num": 633992,
       "word": "广东一男子开铲车见人就冲见车就撞",
       "onboard_time": 1683877949,
       "rank": 13,
@@ -419,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 565772,
+      "num": 565772,
+      "word": "特斯拉",
+      "onboard_time": 1683876149,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
       "raw_hot": 537176,
       "num": 405081,
       "word": "哪个部位的黑痣更易发生癌变成为黑色素瘤",
@@ -435,28 +443,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 518655,
+      "num": 518655,
+      "word": "专家称孙燕姿音色不受法律保护",
+      "onboard_time": 1683876625,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 512921,
       "num": 431853,
       "word": "权志龙ins",
       "onboard_time": 1683816212,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 503762,
-      "num": 503762,
-      "word": "特斯拉",
-      "onboard_time": 1683876149,
-      "rank": 31,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 503452,
-      "num": 503452,
-      "word": "专家称孙燕姿音色不受法律保护",
-      "onboard_time": 1683876625,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 492478,
@@ -627,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 364915,
+      "num": 322395,
+      "word": "千万不要和领导走太近",
+      "onboard_time": 1683878369,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 358677,
       "num": 358677,
       "word": "塞尔达",
@@ -665,14 +673,6 @@
       "onboard_time": 1683803425,
       "rank": 13,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 337453,
-      "num": 322395,
-      "word": "千万不要和领导走太近",
-      "onboard_time": 1683878369,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 333531,
@@ -819,6 +819,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 267563,
+      "num": 267563,
+      "word": "杨洋刘诗诗赵露思的古装仪态",
+      "onboard_time": 1683877649,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 265952,
       "num": 265952,
       "word": "男子欲轻生谎称找朋友被的哥识破救下",
@@ -849,14 +857,6 @@
       "onboard_time": 1683864207,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 255037,
-      "num": 255037,
-      "word": "杨洋刘诗诗赵露思的古装仪态",
-      "onboard_time": 1683877649,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 251916,
@@ -1019,6 +1019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 216842,
+      "num": 216842,
+      "word": "离职需要签字最多的人",
+      "onboard_time": 1683879330,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 215562,
       "num": 215562,
       "word": "rora",
@@ -1043,12 +1051,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208993,
-      "num": 208993,
+      "raw_hot": 210819,
+      "num": 210819,
       "word": "教资面试",
       "onboard_time": 1683877891,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 209785,
+      "num": 209785,
+      "word": "特来骑",
+      "onboard_time": 1683878549,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205205,
@@ -1073,14 +1089,6 @@
       "onboard_time": 1683857492,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 200561,
-      "num": 200561,
-      "word": "特来骑",
-      "onboard_time": 1683878549,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 199904,
@@ -1203,6 +1211,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 175455,
+      "num": 175455,
+      "word": "你见过最稀有的姓氏是什么",
+      "onboard_time": 1683879807,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174831,
       "num": 174831,
       "word": "张婧仪新剧出妆路透图",
@@ -1283,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160092,
+      "num": 160092,
+      "word": "孔雪儿许佳琪开机同框",
+      "onboard_time": 1683879625,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 157274,
       "num": 157274,
       "word": "青春环游记",
@@ -1307,14 +1331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153232,
-      "num": 153232,
-      "word": "离职需要签字最多的人",
-      "onboard_time": 1683879330,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 153144,
       "num": 153144,
       "word": "汶川地震夹缝男孩回忆获救情形",
@@ -1337,6 +1353,14 @@
       "onboard_time": 1683854310,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144567,
+      "num": 144567,
+      "word": "黄晓明回应汶川地震夹缝男孩",
+      "onboard_time": 1683880286,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 143330,
@@ -1401,6 +1425,14 @@
       "onboard_time": 1683802408,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 133447,
+      "num": 133447,
+      "word": "素全法师 见死不救才是最大的忌讳",
+      "onboard_time": 1683880407,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 133088,
@@ -1577,6 +1609,14 @@
       "onboard_time": 1683818191,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 55308,
+      "num": 133060,
+      "word": "95后女孩推轮椅带奶奶旅行",
+      "onboard_time": 1683878608,
+      "rank": 48,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 45162,
