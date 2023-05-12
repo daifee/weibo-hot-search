@@ -1,0 +1,410 @@
+{
+  "runTime": 1683872474922,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2659967,
+        "num": 2659967,
+        "word": "孟羽童在格力月薪没过万",
+        "onboard_time": 1683865896,
+        "rank": 0,
+        "category": "财经,网红"
+      },
+      {
+        "raw_hot": 2028666,
+        "num": 2028666,
+        "word": "大学生掏鸟被判10年半当事人将出狱",
+        "onboard_time": 1683869010,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27874,
+        "num": 1550536,
+        "word": "高质量发展调研行",
+        "onboard_time": 1683864393,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1490967,
+        "num": 1490967,
+        "word": "丈夫家中去世女子赶车路上崩溃大哭",
+        "onboard_time": 1683870027,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1201858,
+        "num": 1201858,
+        "word": "李国庆称签约孟羽童保底要400万",
+        "onboard_time": 1683867632,
+        "rank": 4,
+        "category": "财经,网红"
+      },
+      {
+        "raw_hot": 1192017,
+        "num": 1192017,
+        "word": "李大钊孙女",
+        "onboard_time": 1683858327,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 951411,
+        "num": 951411,
+        "word": "庆余年海报疑似抄袭",
+        "onboard_time": 1683863730,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 903883,
+        "num": 903883,
+        "word": "5121428",
+        "onboard_time": 1683847525,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643495,
+        "num": 643495,
+        "word": "护心导演向长月烬明道歉",
+        "onboard_time": 1683867693,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 637246,
+        "num": 637246,
+        "word": "张颂文悼念李大钊孙女",
+        "onboard_time": 1683862350,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1261264,
+        "num": 621627,
+        "word": "韩国张凌赫",
+        "onboard_time": 1683866315,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 952175,
+        "num": 595761,
+        "word": "杨幂唐嫣赵丽颖的人生你想过谁的",
+        "onboard_time": 1683864569,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 567963,
+        "num": 567963,
+        "word": "肖战唐三vs周翊然唐三",
+        "onboard_time": 1683869249,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 490249,
+        "num": 490249,
+        "word": "刘宇宁是怎么火起来的",
+        "onboard_time": 1683861330,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468846,
+        "num": 468846,
+        "word": "杜兰特老了",
+        "onboard_time": 1683867394,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 395642,
+        "num": 395642,
+        "word": "四川大学再回应部分男厕改女厕",
+        "onboard_time": 1683870509,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 395493,
+        "num": 395493,
+        "word": "陶勇重新拿起手术刀",
+        "onboard_time": 1683861268,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388253,
+        "num": 388253,
+        "word": "霍华德台独",
+        "onboard_time": 1683819510,
+        "rank": 17,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 362736,
+        "num": 362736,
+        "word": "保罗这就是命",
+        "onboard_time": 1683870209,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327974,
+        "num": 327974,
+        "word": "沈月出道前曾帮人拍婚庆",
+        "onboard_time": 1683872066,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 477948,
+        "num": 325676,
+        "word": "为什么年轻人爱上了用B站学习",
+        "onboard_time": 1683851971,
+        "rank": 20,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 312936,
+        "num": 312936,
+        "word": "如何让领导知道你干了很多活",
+        "onboard_time": 1683864510,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 304712,
+        "num": 304712,
+        "word": "家里做饭阿姨是985毕业的",
+        "onboard_time": 1683869428,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 300305,
+        "num": 300305,
+        "word": "哪个部位的黑痣更易发生癌变成为黑色素瘤",
+        "onboard_time": 1683863190,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279418,
+        "num": 279418,
+        "word": "狗头萝莉卖煎饼",
+        "onboard_time": 1683849993,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 276641,
+        "num": 276641,
+        "word": "戚薇生二胎前差点摔倒被陈小春扶住了",
+        "onboard_time": 1683847585,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275545,
+        "num": 275545,
+        "word": "广东一阿姨开着GTR出来买菜",
+        "onboard_time": 1683869849,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271756,
+        "num": 271756,
+        "word": "看老照片 停更",
+        "onboard_time": 1683856408,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270844,
+        "num": 270844,
+        "word": "五月天武汉演唱会",
+        "onboard_time": 1683868471,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 266326,
+        "num": 266326,
+        "word": "斗罗大陆2演员全阵容",
+        "onboard_time": 1683868530,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254767,
+        "num": 254767,
+        "word": "四川地震",
+        "onboard_time": 1683846801,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245167,
+        "num": 245167,
+        "word": "高中生打碎水银温度计报警求助",
+        "onboard_time": 1683871290,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242261,
+        "num": 242261,
+        "word": "第一次见液体大熊猫",
+        "onboard_time": 1683865652,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209328,
+        "num": 209328,
+        "word": "裸辞5年后面试第一家就入职了",
+        "onboard_time": 1683865355,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204884,
+        "num": 204884,
+        "word": "乘风",
+        "onboard_time": 1683866614,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199975,
+        "num": 199975,
+        "word": "ZEKU",
+        "onboard_time": 1683862050,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 198684,
+        "num": 198684,
+        "word": "薛之谦演唱会门票",
+        "onboard_time": 1683870088,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180776,
+        "num": 180776,
+        "word": "汶川地震幸存女孩戴义肢玩滑板真美",
+        "onboard_time": 1683867155,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174792,
+        "num": 174792,
+        "word": "邓紫棋说早知道我先化个妆",
+        "onboard_time": 1683851012,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168339,
+        "num": 168339,
+        "word": "不显瘦阿姨都不卖你",
+        "onboard_time": 1683859828,
+        "rank": 39,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 167047,
+        "num": 167047,
+        "word": "汶川地震饲养员连抱带抬转移熊猫",
+        "onboard_time": 1683864991,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163986,
+        "num": 163986,
+        "word": "BTS新歌ThePlanet",
+        "onboard_time": 1683870987,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156319,
+        "num": 156319,
+        "word": "塞尔达是天",
+        "onboard_time": 1683866254,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153700,
+        "num": 153700,
+        "word": "你肉体上最疼的一次经历是什么",
+        "onboard_time": 1683872129,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153247,
+        "num": 153247,
+        "word": "为什么年轻人会反感家里来客",
+        "onboard_time": 1683864207,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142325,
+        "num": 142325,
+        "word": "6岁娃指出狗主人错误被打成脑震荡",
+        "onboard_time": 1683857968,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141727,
+        "num": 141727,
+        "word": "汶川钢腿女孩分享现状",
+        "onboard_time": 1683872367,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139738,
+        "num": 139738,
+        "word": "长月烬明原作者辟谣",
+        "onboard_time": 1683860066,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102479,
+        "num": 139106,
+        "word": "灵隐寺千年七叶树开花",
+        "onboard_time": 1683855570,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 90752,
+        "num": 138644,
+        "word": "Steam禁止开小号欺凌初级玩家",
+        "onboard_time": 1683857551,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励海军潜艇部队某艇员队#"
+    }
+  }
+}
