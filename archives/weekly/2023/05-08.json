@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683848020159,
+  "endTime": 1683854534423,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -89,6 +89,14 @@
       "onboard_time": 1683775710,
       "rank": 31,
       "category": "综艺,网红"
+    },
+    {
+      "raw_hot": 2850254,
+      "num": 2850254,
+      "word": "5121428",
+      "onboard_time": 1683847525,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2752096,
@@ -257,6 +265,14 @@
       "onboard_time": 1683533670,
       "rank": 11,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 2280760,
+      "num": 366162,
+      "word": "四川大学",
+      "onboard_time": 1683848666,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2270611,
@@ -505,6 +521,14 @@
       "onboard_time": 1683676827,
       "rank": 1,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1714929,
+      "num": 1714929,
+      "word": "戚薇生二胎前差点摔倒被陈小春扶住了",
+      "onboard_time": 1683847585,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 1700400,
@@ -1355,6 +1379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 948537,
+      "num": 948537,
+      "word": "邓紫棋说早知道我先化个妆",
+      "onboard_time": 1683851012,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 946338,
       "num": 946338,
       "word": "专家建议给生孩子的人发薪水",
@@ -1393,6 +1425,14 @@
       "onboard_time": 1683761183,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 933532,
+      "num": 933532,
+      "word": "为什么年轻人爱上了用B站学习",
+      "onboard_time": 1683851971,
+      "rank": 5,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 933025,
@@ -1459,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 910923,
+      "num": 910923,
+      "word": "当代年轻人的左手现状",
+      "onboard_time": 1683847824,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 910694,
       "num": 910694,
       "word": "关闭朋友圈一年后的变化",
@@ -1497,6 +1545,14 @@
       "onboard_time": 1683611846,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 877725,
+      "num": 796970,
+      "word": "孟美岐一把顺利拿本",
+      "onboard_time": 1683814172,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 871813,
@@ -1603,20 +1659,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 807423,
+      "num": 682458,
+      "word": "狗头萝莉卖煎饼",
+      "onboard_time": 1683849993,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 803185,
       "num": 803185,
       "word": "女子车位被邻居霸停数月直接焊死",
       "onboard_time": 1683551972,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 796970,
-      "num": 796970,
-      "word": "孟美岐一把顺利拿本",
-      "onboard_time": 1683814172,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 796097,
@@ -1953,6 +2009,14 @@
       "onboard_time": 1683709229,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 663337,
+      "num": 663337,
+      "word": "校方回应13岁学生是公司老板",
+      "onboard_time": 1683847043,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 660702,
@@ -3107,6 +3171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 417589,
+      "num": 272141,
+      "word": "男生和女生买房的区别",
+      "onboard_time": 1683852154,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 413853,
       "num": 413853,
       "word": "约基奇 太阳老板",
@@ -3153,6 +3225,14 @@
       "onboard_time": 1683699990,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 407882,
+      "num": 270569,
+      "word": "不体面但是很赚钱的工作",
+      "onboard_time": 1683847102,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 407858,
@@ -3523,6 +3603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 372501,
+      "num": 372501,
+      "word": "韩国人有自己的台风蜕变之战",
+      "onboard_time": 1683848547,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 370891,
       "num": 370891,
       "word": "上海虹桥火车站一女子坠楼仍在抢救",
@@ -3817,6 +3905,14 @@
       "onboard_time": 1683684268,
       "rank": 28,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 354164,
+      "num": 354164,
+      "word": "泰山爬完不得瘦死",
+      "onboard_time": 1683847824,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 353508,
@@ -4555,6 +4651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 302271,
+      "num": 268679,
+      "word": "男朋友爷爷的葬礼应该参加吗",
+      "onboard_time": 1683846980,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 301944,
       "num": 254215,
       "word": "时代峰峻代理律师发布律师函",
@@ -4761,6 +4865,14 @@
       "onboard_time": 1683617128,
       "rank": 43,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 293226,
+      "num": 293226,
+      "word": "知情人称列车命案凶器或藏在下腹部",
+      "onboard_time": 1683853471,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292487,
@@ -5067,6 +5179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 275963,
+      "num": 275963,
+      "word": "淄博一小区为外卖员配专用单车",
+      "onboard_time": 1683846200,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275118,
       "num": 275118,
       "word": "周迅看秀造型",
@@ -5363,14 +5483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 259329,
-      "num": 259329,
-      "word": "戚薇生二胎前差点摔倒被陈小春扶住了",
-      "onboard_time": 1683847585,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 259322,
       "num": 203983,
       "word": "张若昀小范大人定妆vlog",
@@ -5473,14 +5585,6 @@
       "onboard_time": 1683509847,
       "rank": 25,
       "category": "科技,国内要闻"
-    },
-    {
-      "raw_hot": 256336,
-      "num": 256336,
-      "word": "淄博一小区为外卖员配专用单车",
-      "onboard_time": 1683846200,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 255832,
@@ -5963,6 +6067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235024,
+      "num": 235024,
+      "word": "榴莲涨价跟辛巴有关系吗",
+      "onboard_time": 1683850772,
+      "rank": 25,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 234840,
       "num": 234840,
       "word": "小行星",
@@ -6123,14 +6235,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 230077,
-      "num": 184928,
-      "word": "不体面但是很赚钱的工作",
-      "onboard_time": 1683847102,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 230034,
       "num": 187897,
       "word": "保你平安",
@@ -6212,7 +6316,7 @@
     },
     {
       "raw_hot": 226619,
-      "num": 181824,
+      "num": 199801,
       "word": "独生子一人推2个轮椅医院照顾爸妈",
       "onboard_time": 1683822625,
       "rank": 47,
@@ -6297,6 +6401,14 @@
       "onboard_time": 1683768329,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220960,
+      "num": 220960,
+      "word": "YG又来这套",
+      "onboard_time": 1683852813,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 220564,
@@ -6723,6 +6835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 205205,
+      "num": 205205,
+      "word": "上海下半年演唱会",
+      "onboard_time": 1683847402,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205035,
       "num": 205035,
       "word": "嘴像开了光一样是种什么体验",
@@ -6763,28 +6883,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 203875,
-      "num": 150088,
-      "word": "校方回应13岁学生是公司老板",
-      "onboard_time": 1683847043,
-      "rank": 30,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 203614,
       "num": 203614,
       "word": "狐妖小红娘竹业篇剧版vs原版",
       "onboard_time": 1683725730,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 203591,
-      "num": 177619,
-      "word": "5121428",
-      "onboard_time": 1683847525,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202887,
@@ -7019,14 +7123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 194451,
-      "num": 170643,
-      "word": "男朋友爷爷的葬礼应该参加吗",
-      "onboard_time": 1683846980,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 194299,
       "num": 194299,
       "word": "长月烬明",
@@ -7035,12 +7131,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193845,
+      "num": 193845,
+      "word": "男子非礼酒吧女歌手不成气急败坏",
+      "onboard_time": 1683848365,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193685,
       "num": 193685,
       "word": "你给我的喜欢",
       "onboard_time": 1683706711,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193475,
+      "num": 193475,
+      "word": "陈星旭用单手背章若楠",
+      "onboard_time": 1683850533,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 193243,
@@ -7225,6 +7337,14 @@
       "onboard_time": 1683636570,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 186610,
+      "num": 186610,
+      "word": "无人机航拍时被鹰叼走",
+      "onboard_time": 1683849449,
+      "rank": 34,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 186608,
@@ -7923,6 +8043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153737,
+      "num": 153737,
+      "word": "NBA季后赛",
+      "onboard_time": 1683854133,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153589,
       "num": 153589,
       "word": "警方回应高铁掌掴事件双方均受罚",
@@ -8041,6 +8169,14 @@
       "onboard_time": 1683681152,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149269,
+      "num": 149269,
+      "word": "凯尔特人vs76人",
+      "onboard_time": 1683854310,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 149173,
@@ -8195,14 +8331,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 141586,
-      "num": 141586,
-      "word": "当代年轻人的左手现状",
-      "onboard_time": 1683847824,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 140582,
       "num": 140582,
       "word": "一个人应该有什么样的爱好",
@@ -8219,12 +8347,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140049,
+      "num": 140049,
+      "word": "四川泸定接连发生四次地震",
+      "onboard_time": 1683850231,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139742,
       "num": 139742,
       "word": "接心仪offer",
       "onboard_time": 1683518608,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 139722,
+      "num": 139722,
+      "word": "HYBE新男团预告视频",
+      "onboard_time": 1683850411,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 139603,
@@ -8568,14 +8712,6 @@
       "word": "蔡徐坤第一首原创单曲回归",
       "onboard_time": 1683674422,
       "rank": 29,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 119318,
-      "num": 119318,
-      "word": "上海下半年演唱会",
-      "onboard_time": 1683847402,
-      "rank": 38,
       "category": "音乐"
     },
     {
@@ -9179,6 +9315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 38409,
+      "num": 1989303,
+      "word": "天舟六号有何特别之处",
+      "onboard_time": 1683810805,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38166,
       "num": 175959,
       "word": "淘宝首次拍卖仓库搬空权",
@@ -9209,14 +9353,6 @@
       "onboard_time": 1683498256,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 33268,
-      "num": 1989303,
-      "word": "天舟六号有何特别之处",
-      "onboard_time": 1683810805,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31362,

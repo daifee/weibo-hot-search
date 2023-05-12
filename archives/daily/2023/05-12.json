@@ -1,6 +1,6 @@
 {
   "startTime": 1683822124198,
-  "endTime": 1683848020159,
+  "endTime": 1683854534423,
   "band_list": [
     {
       "raw_hot": 3648870,
@@ -9,6 +9,22 @@
       "onboard_time": 1683819510,
       "rank": 0,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 2850254,
+      "num": 2850254,
+      "word": "5121428",
+      "onboard_time": 1683847525,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2280760,
+      "num": 366162,
+      "word": "四川大学",
+      "onboard_time": 1683848666,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2206555,
@@ -27,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1714929,
+      "num": 1714929,
+      "word": "戚薇生二胎前差点摔倒被陈小春扶住了",
+      "onboard_time": 1683847585,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1581175,
       "num": 1581175,
       "word": "B站播放时长最长内容是高等数学",
@@ -43,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 948537,
+      "num": 948537,
+      "word": "邓紫棋说早知道我先化个妆",
+      "onboard_time": 1683851012,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 940123,
       "num": 940123,
       "word": "汶川地震15周年",
@@ -51,12 +83,60 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 933532,
+      "num": 933532,
+      "word": "为什么年轻人爱上了用B站学习",
+      "onboard_time": 1683851971,
+      "rank": 5,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 910923,
+      "num": 910923,
+      "word": "当代年轻人的左手现状",
+      "onboard_time": 1683847824,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 877725,
+      "num": 547336,
+      "word": "孟美岐一把顺利拿本",
+      "onboard_time": 1683814172,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 807423,
+      "num": 682458,
+      "word": "狗头萝莉卖煎饼",
+      "onboard_time": 1683849993,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 767295,
       "num": 767295,
       "word": "东北大哥称不想再管吵架事件",
       "onboard_time": 1683822024,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 744389,
+      "num": 744389,
+      "word": "专家建议给生孩子的人发薪水",
+      "onboard_time": 1683812427,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 663337,
+      "num": 663337,
+      "word": "校方回应13岁学生是公司老板",
+      "onboard_time": 1683847043,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 652787,
@@ -75,14 +155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 547336,
-      "num": 547336,
-      "word": "孟美岐一把顺利拿本",
-      "onboard_time": 1683814172,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 521621,
       "num": 521621,
       "word": "向佐的工作人员叫王一博",
@@ -97,14 +169,6 @@
       "onboard_time": 1683816212,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 496084,
-      "num": 496084,
-      "word": "专家建议给生孩子的人发薪水",
-      "onboard_time": 1683812427,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 469323,
@@ -123,6 +187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 417589,
+      "num": 272141,
+      "word": "男生和女生买房的区别",
+      "onboard_time": 1683852154,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 412994,
       "num": 412994,
       "word": "邓紫棋周杰伦演唱会点歌黑色毛衣",
@@ -131,12 +203,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 407882,
+      "num": 270569,
+      "word": "不体面但是很赚钱的工作",
+      "onboard_time": 1683847102,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 372501,
+      "num": 372501,
+      "word": "韩国人有自己的台风蜕变之战",
+      "onboard_time": 1683848547,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 358677,
       "num": 358677,
       "word": "塞尔达",
       "onboard_time": 1683819271,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 354164,
+      "num": 354164,
+      "word": "泰山爬完不得瘦死",
+      "onboard_time": 1683847824,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 348761,
@@ -155,12 +251,28 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 302271,
+      "num": 268679,
+      "word": "男朋友爷爷的葬礼应该参加吗",
+      "onboard_time": 1683846980,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 299211,
       "num": 299211,
       "word": "ASA出道",
       "onboard_time": 1683818669,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293226,
+      "num": 293226,
+      "word": "知情人称列车命案凶器或藏在下腹部",
+      "onboard_time": 1683853471,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290146,
@@ -179,28 +291,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275963,
+      "num": 275963,
+      "word": "淄博一小区为外卖员配专用单车",
+      "onboard_time": 1683846200,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260372,
       "num": 260372,
       "word": "周杰伦演唱会",
       "onboard_time": 1683816694,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 259329,
-      "num": 259329,
-      "word": "戚薇生二胎前差点摔倒被陈小春扶住了",
-      "onboard_time": 1683847585,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 256336,
-      "num": 256336,
-      "word": "淄博一小区为外卖员配专用单车",
-      "onboard_time": 1683846200,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248114,
@@ -243,20 +347,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 235024,
+      "num": 235024,
+      "word": "榴莲涨价跟辛巴有关系吗",
+      "onboard_time": 1683850772,
+      "rank": 25,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 231266,
       "num": 231266,
       "word": "重庆市原副市长熊雪被查",
       "onboard_time": 1683840972,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230077,
-      "num": 184928,
-      "word": "不体面但是很赚钱的工作",
-      "onboard_time": 1683847102,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 229928,
@@ -268,7 +372,7 @@
     },
     {
       "raw_hot": 226619,
-      "num": 181824,
+      "num": 199801,
       "word": "独生子一人推2个轮椅医院照顾爸妈",
       "onboard_time": 1683822625,
       "rank": 47,
@@ -291,6 +395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 220960,
+      "num": 220960,
+      "word": "YG又来这套",
+      "onboard_time": 1683852813,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215562,
       "num": 215562,
       "word": "rora",
@@ -307,20 +419,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203875,
-      "num": 150088,
-      "word": "校方回应13岁学生是公司老板",
-      "onboard_time": 1683847043,
-      "rank": 30,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 203591,
-      "num": 177619,
-      "word": "5121428",
-      "onboard_time": 1683847525,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 205205,
+      "num": 205205,
+      "word": "上海下半年演唱会",
+      "onboard_time": 1683847402,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 198460,
@@ -331,12 +435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194451,
-      "num": 170643,
-      "word": "男朋友爷爷的葬礼应该参加吗",
-      "onboard_time": 1683846980,
-      "rank": 24,
-      "category": "情感"
+      "raw_hot": 193845,
+      "num": 193845,
+      "word": "男子非礼酒吧女歌手不成气急败坏",
+      "onboard_time": 1683848365,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193682,
@@ -345,6 +449,22 @@
       "onboard_time": 1683815553,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193475,
+      "num": 193475,
+      "word": "陈星旭用单手背章若楠",
+      "onboard_time": 1683850533,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186610,
+      "num": 186610,
+      "word": "无人机航拍时被鹰叼走",
+      "onboard_time": 1683849449,
+      "rank": 34,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 185909,
@@ -403,6 +523,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153737,
+      "num": 153737,
+      "word": "NBA季后赛",
+      "onboard_time": 1683854133,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 149269,
+      "num": 149269,
+      "word": "凯尔特人vs76人",
+      "onboard_time": 1683854310,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143161,
       "num": 143161,
       "word": "沙溢说展堂才是爹地湘玉已成外婆",
@@ -411,12 +547,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 141586,
-      "num": 141586,
-      "word": "当代年轻人的左手现状",
-      "onboard_time": 1683847824,
-      "rank": 33,
-      "category": "情感"
+      "raw_hot": 140049,
+      "num": 140049,
+      "word": "四川泸定接连发生四次地震",
+      "onboard_time": 1683850231,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139722,
+      "num": 139722,
+      "word": "HYBE新男团预告视频",
+      "onboard_time": 1683850411,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 135608,
@@ -505,14 +649,6 @@
       "onboard_time": 1683794069,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119318,
-      "num": 119318,
-      "word": "上海下半年演唱会",
-      "onboard_time": 1683847402,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 116321,
@@ -611,20 +747,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38409,
+      "num": 1989303,
+      "word": "天舟六号有何特别之处",
+      "onboard_time": 1683810805,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36946,
       "num": 36946,
       "word": "美依礼芽龚琳娜认领龚美呐赛",
       "onboard_time": 1683833713,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 25473,
-      "num": 1989303,
-      "word": "天舟六号有何特别之处",
-      "onboard_time": 1683810805,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24674,
