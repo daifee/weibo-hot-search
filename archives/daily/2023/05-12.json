@@ -1,6 +1,6 @@
 {
   "startTime": 1683822124198,
-  "endTime": 1683861473978,
+  "endTime": 1683862423702,
   "band_list": [
     {
       "raw_hot": 3648870,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3010268,
-      "num": 3010268,
+      "raw_hot": 3249092,
+      "num": 3249092,
       "word": "李大钊孙女",
       "onboard_time": 1683858327,
       "rank": 30,
@@ -147,12 +147,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 745313,
+      "num": 745313,
+      "word": "长月烬明原作者辟谣",
+      "onboard_time": 1683860066,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 744250,
+      "num": 744250,
+      "word": "周杰伦演唱会外男子被抢两张门票",
+      "onboard_time": 1683859467,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 716885,
       "num": 716885,
       "word": "塔图姆 拉",
       "onboard_time": 1683855447,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 712079,
+      "num": 712079,
+      "word": "不显瘦阿姨都不卖你",
+      "onboard_time": 1683859828,
+      "rank": 11,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 695999,
@@ -171,20 +195,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 658039,
-      "num": 614959,
-      "word": "不显瘦阿姨都不卖你",
-      "onboard_time": 1683859828,
-      "rank": 11,
-      "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 657061,
-      "num": 657061,
-      "word": "长月烬明原作者辟谣",
-      "onboard_time": 1683860066,
-      "rank": 6,
-      "category": "影视"
+      "raw_hot": 659347,
+      "num": 659347,
+      "word": "陶勇重新拿起手术刀",
+      "onboard_time": 1683861268,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 652787,
@@ -195,14 +211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 625647,
-      "num": 625647,
-      "word": "周杰伦演唱会外男子被抢两张门票",
-      "onboard_time": 1683859467,
-      "rank": 8,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 577728,
       "num": 577728,
       "word": "维金斯肋骨骨折",
@@ -211,12 +219,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 574001,
+      "num": 574001,
+      "word": "ZEKU",
+      "onboard_time": 1683862050,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 572072,
       "num": 572072,
       "word": "长沙霸停数月车位女子道歉",
       "onboard_time": 1683821606,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 569648,
+      "num": 569648,
+      "word": "二阳",
+      "onboard_time": 1683859409,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 557163,
+      "num": 557163,
+      "word": "刘宇宁是怎么火起来的",
+      "onboard_time": 1683861330,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 521621,
@@ -275,8 +307,8 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 417075,
-      "num": 417075,
+      "raw_hot": 431937,
+      "num": 431937,
       "word": "HYBE新男团鼻子",
       "onboard_time": 1683859828,
       "rank": 15,
@@ -291,20 +323,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 409513,
-      "num": 409513,
-      "word": "二阳",
-      "onboard_time": 1683859409,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 407882,
       "num": 270569,
       "word": "不体面但是很赚钱的工作",
       "onboard_time": 1683847102,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 383116,
+      "num": 383116,
+      "word": "OPPO终止ZEKU业务",
+      "onboard_time": 1683862409,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 372501,
@@ -347,20 +379,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320707,
+      "num": 320707,
+      "word": "斗罗大陆2",
+      "onboard_time": 1683859708,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 320486,
       "num": 242585,
       "word": "人真的可以删除自己的记忆",
       "onboard_time": 1683815553,
       "rank": 20,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 314025,
-      "num": 314025,
-      "word": "斗罗大陆2",
-      "onboard_time": 1683859708,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 302271,
@@ -377,6 +409,14 @@
       "onboard_time": 1683818669,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296019,
+      "num": 296019,
+      "word": "为什么年轻人都不想卷了",
+      "onboard_time": 1683861149,
+      "rank": 31,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 290146,
@@ -408,6 +448,14 @@
       "word": "淄博一小区为外卖员配专用单车",
       "onboard_time": 1683846200,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265952,
+      "num": 265952,
+      "word": "男子欲轻生谎称找朋友被的哥识破救下",
+      "onboard_time": 1683860969,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -571,14 +619,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 201015,
-      "num": 201015,
-      "word": "为什么年轻人都不想卷了",
-      "onboard_time": 1683861149,
-      "rank": 31,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 198460,
       "num": 217777,
       "word": "九街",
@@ -635,14 +675,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 190584,
-      "num": 190584,
-      "word": "陶勇重新拿起手术刀",
-      "onboard_time": 1683861268,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186610,
       "num": 186610,
       "word": "无人机航拍时被鹰叼走",
@@ -675,14 +707,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 178133,
-      "num": 178133,
-      "word": "刘宇宁是怎么火起来的",
-      "onboard_time": 1683861330,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 175550,
       "num": 166084,
       "word": "易梦玲美黑",
@@ -697,6 +721,14 @@
       "onboard_time": 1683858267,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 174199,
+      "num": 174199,
+      "word": "萌娃遇消防员婚车队集体挥手祝福",
+      "onboard_time": 1683862290,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173523,
@@ -744,14 +776,6 @@
       "word": "狗狗失踪7年后回家主人煮饺子庆团圆",
       "onboard_time": 1683807927,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155998,
-      "num": 155998,
-      "word": "男子欲轻生谎称找朋友被的哥识破救下",
-      "onboard_time": 1683860969,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -835,6 +859,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 131066,
+      "num": 131066,
+      "word": "张颂文悼念李大钊孙女",
+      "onboard_time": 1683862350,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127026,
       "num": 127026,
       "word": "癌症筛查 早发现早治疗未必是对的",
@@ -859,20 +891,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125736,
+      "num": 125736,
+      "word": "塔图姆自我救赎",
+      "onboard_time": 1683859828,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124810,
       "num": 124810,
       "word": "祝福生生不息的汶川",
       "onboard_time": 1683824719,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 124146,
-      "num": 124146,
-      "word": "塔图姆自我救赎",
-      "onboard_time": 1683859828,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 122648,
@@ -905,6 +937,14 @@
       "onboard_time": 1683857252,
       "rank": 47,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 116440,
+      "num": 116440,
+      "word": "护心导演点赞拉踩长月烬明内容",
+      "onboard_time": 1683862409,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 116321,

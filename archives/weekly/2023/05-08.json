@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683861473978,
+  "endTime": 1683862423702,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3249092,
+      "num": 3249092,
+      "word": "李大钊孙女",
+      "onboard_time": 1683858327,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3075904,
       "num": 3075904,
       "word": "中秋国庆休8天上7天",
@@ -81,14 +89,6 @@
       "onboard_time": 1683705332,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 3010268,
-      "num": 3010268,
-      "word": "李大钊孙女",
-      "onboard_time": 1683858327,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3000781,
@@ -1803,6 +1803,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 745313,
+      "num": 745313,
+      "word": "长月烬明原作者辟谣",
+      "onboard_time": 1683860066,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 744250,
+      "num": 744250,
+      "word": "周杰伦演唱会外男子被抢两张门票",
+      "onboard_time": 1683859467,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 740571,
       "num": 740571,
       "word": "主办方称赵今麦不存在插队行为",
@@ -1897,6 +1913,14 @@
       "onboard_time": 1683855447,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 712079,
+      "num": 712079,
+      "word": "不显瘦阿姨都不卖你",
+      "onboard_time": 1683859828,
+      "rank": 11,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 705104,
@@ -2059,12 +2083,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 658039,
-      "num": 614959,
-      "word": "不显瘦阿姨都不卖你",
-      "onboard_time": 1683859828,
-      "rank": 11,
-      "category": "幽默,社会新闻"
+      "raw_hot": 659347,
+      "num": 659347,
+      "word": "陶勇重新拿起手术刀",
+      "onboard_time": 1683861268,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 657804,
@@ -2073,14 +2097,6 @@
       "onboard_time": 1683684628,
       "rank": 15,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 657061,
-      "num": 657061,
-      "word": "长月烬明原作者辟谣",
-      "onboard_time": 1683860066,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 655296,
@@ -2153,14 +2169,6 @@
       "onboard_time": 1683465393,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 625647,
-      "num": 625647,
-      "word": "周杰伦演唱会外男子被抢两张门票",
-      "onboard_time": 1683859467,
-      "rank": 8,
-      "category": "音乐"
     },
     {
       "raw_hot": 624276,
@@ -2427,6 +2435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 574001,
+      "num": 574001,
+      "word": "ZEKU",
+      "onboard_time": 1683862050,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 572072,
       "num": 572072,
       "word": "长沙霸停数月车位女子道歉",
@@ -2481,6 +2497,14 @@
       "onboard_time": 1683780932,
       "rank": 17,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 557163,
+      "num": 557163,
+      "word": "刘宇宁是怎么火起来的",
+      "onboard_time": 1683861330,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 555855,
@@ -3139,6 +3163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 431937,
+      "num": 431937,
+      "word": "HYBE新男团鼻子",
+      "onboard_time": 1683859828,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 429620,
       "num": 429620,
       "word": "多名男子搭讪邻桌女孩店员劝阻起冲突",
@@ -3257,14 +3289,6 @@
       "onboard_time": 1683609210,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 417075,
-      "num": 417075,
-      "word": "HYBE新男团鼻子",
-      "onboard_time": 1683859828,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 413853,
@@ -3553,6 +3577,14 @@
       "onboard_time": 1683500960,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 383116,
+      "num": 383116,
+      "word": "OPPO终止ZEKU业务",
+      "onboard_time": 1683862409,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 382624,
@@ -4483,6 +4515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 320707,
+      "num": 320707,
+      "word": "斗罗大陆2",
+      "onboard_time": 1683859708,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 319198,
       "num": 236887,
       "word": "莱茵生物实控人被立案",
@@ -4561,14 +4601,6 @@
       "onboard_time": 1683809308,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 314025,
-      "num": 314025,
-      "word": "斗罗大陆2",
-      "onboard_time": 1683859708,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 313702,
@@ -4897,6 +4929,14 @@
       "onboard_time": 1683502884,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296019,
+      "num": 296019,
+      "word": "为什么年轻人都不想卷了",
+      "onboard_time": 1683861149,
+      "rank": 31,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 295076,
@@ -5489,6 +5529,14 @@
       "onboard_time": 1683509609,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265952,
+      "num": 265952,
+      "word": "男子欲轻生谎称找朋友被的哥识破救下",
+      "onboard_time": 1683860969,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265717,
@@ -7059,14 +7107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201015,
-      "num": 201015,
-      "word": "为什么年轻人都不想卷了",
-      "onboard_time": 1683861149,
-      "rank": 31,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 200933,
       "num": 200933,
       "word": "被十年前的自己催婚了",
@@ -7395,14 +7435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190584,
-      "num": 190584,
-      "word": "陶勇重新拿起手术刀",
-      "onboard_time": 1683861268,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190541,
       "num": 190541,
       "word": "鹿晗分享工作花絮照",
@@ -7715,14 +7747,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 178133,
-      "num": 178133,
-      "word": "刘宇宁是怎么火起来的",
-      "onboard_time": 1683861330,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 177889,
       "num": 177889,
       "word": "张雨绮沙漠红裙",
@@ -7825,6 +7849,14 @@
       "onboard_time": 1683553891,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174199,
+      "num": 174199,
+      "word": "萌娃遇消防员婚车队集体挥手祝福",
+      "onboard_time": 1683862290,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174005,
@@ -8217,14 +8249,6 @@
       "onboard_time": 1683710969,
       "rank": 45,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 155998,
-      "num": 155998,
-      "word": "男子欲轻生谎称找朋友被的哥识破救下",
-      "onboard_time": 1683860969,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155950,
@@ -8771,6 +8795,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 131066,
+      "num": 131066,
+      "word": "张颂文悼念李大钊孙女",
+      "onboard_time": 1683862350,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130855,
       "num": 130855,
       "word": "折腰剧组探班直播",
@@ -8835,6 +8867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 125736,
+      "num": 125736,
+      "word": "塔图姆自我救赎",
+      "onboard_time": 1683859828,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125523,
       "num": 196664,
       "word": "你多长时间换一次新手机",
@@ -8873,14 +8913,6 @@
       "onboard_time": 1683702871,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 124146,
-      "num": 124146,
-      "word": "塔图姆自我救赎",
-      "onboard_time": 1683859828,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 123629,
@@ -8985,6 +9017,14 @@
       "onboard_time": 1683500960,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 116440,
+      "num": 116440,
+      "word": "护心导演点赞拉踩长月烬明内容",
+      "onboard_time": 1683862409,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 115767,
