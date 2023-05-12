@@ -1,7 +1,15 @@
 {
   "startTime": 1683908490327,
-  "endTime": 1683908490327,
+  "endTime": 1683909398806,
   "band_list": [
+    {
+      "raw_hot": 1765860,
+      "num": 1765860,
+      "word": "为什么很多漂亮女生却单身",
+      "onboard_time": 1683901893,
+      "rank": 1,
+      "category": "幽默"
+    },
     {
       "raw_hot": 1587015,
       "num": 1587015,
@@ -11,20 +19,20 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 1502939,
-      "num": 1502939,
-      "word": "为什么很多漂亮女生却单身",
-      "onboard_time": 1683901893,
-      "rank": 1,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1033933,
       "num": 348803,
       "word": "王一博删照片",
       "onboard_time": 1683899130,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 815689,
+      "num": 815689,
+      "word": "学生摔伤无人报警但满屏都是警",
+      "onboard_time": 1683907110,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 703996,
@@ -43,20 +51,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 545968,
+      "num": 171906,
+      "word": "原来小燕子真的穿的花衣",
+      "onboard_time": 1683907587,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 491619,
       "num": 218115,
       "word": "田馥甄",
       "onboard_time": 1683885510,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 487251,
-      "num": 487251,
-      "word": "学生摔伤无人报警但满屏都是警",
-      "onboard_time": 1683907110,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 430168,
@@ -91,12 +99,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 349225,
-      "num": 171906,
-      "word": "原来小燕子真的穿的花衣",
-      "onboard_time": 1683907587,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 328015,
+      "num": 216316,
+      "word": "一日为师周深为父",
+      "onboard_time": 1683906867,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 326662,
@@ -107,8 +115,8 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 321372,
-      "num": 321372,
+      "raw_hot": 326525,
+      "num": 326525,
       "word": "向往的生活",
       "onboard_time": 1683889889,
       "rank": 12,
@@ -139,12 +147,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 272801,
-      "num": 216316,
-      "word": "一日为师周深为父",
-      "onboard_time": 1683906867,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 292744,
+      "num": 292744,
+      "word": "华晨宇五专台湾销量",
+      "onboard_time": 1683907886,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 288013,
+      "num": 147100,
+      "word": "陶勇医生 手术刀在我心里从未放下",
+      "onboard_time": 1683907647,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266545,
@@ -203,14 +219,6 @@
       "category": "科技,艺人"
     },
     {
-      "raw_hot": 202629,
-      "num": 202629,
-      "word": "华晨宇五专台湾销量",
-      "onboard_time": 1683907886,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 201042,
       "num": 201042,
       "word": "豆瓣评分人数TOP20电视剧",
@@ -233,6 +241,14 @@
       "onboard_time": 1683906209,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 178644,
+      "num": 178644,
+      "word": "可乐男孩现已成为可乐博物馆馆长",
+      "onboard_time": 1683908366,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175652,
@@ -299,14 +315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137186,
-      "num": 137186,
-      "word": "陶勇医生 手术刀在我心里从未放下",
-      "onboard_time": 1683907647,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136481,
       "num": 136481,
       "word": "奔跑吧下周谁是贵阳推荐官",
@@ -363,20 +371,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104569,
+      "num": 104569,
+      "word": "上海3人造谣幼师卖淫被刑拘",
+      "onboard_time": 1683907826,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101101,
       "num": 101101,
       "word": "银河护卫队",
       "onboard_time": 1683900992,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 91575,
-      "num": 91575,
-      "word": "可乐男孩现已成为可乐博物馆馆长",
-      "onboard_time": 1683908366,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53175,
@@ -393,6 +401,14 @@
       "onboard_time": 1683884067,
       "rank": 49,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 36801,
+      "num": 79489,
+      "word": "奶香芋泥酱",
+      "onboard_time": 1683909204,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 20998,

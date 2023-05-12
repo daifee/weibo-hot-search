@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683908490327,
+  "endTime": 1683909398806,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -571,6 +571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1765860,
+      "num": 1765860,
+      "word": "为什么很多漂亮女生却单身",
+      "onboard_time": 1683901893,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1765514,
       "num": 1765514,
       "word": "六公主评价长月烬明",
@@ -841,14 +849,6 @@
       "onboard_time": 1683500960,
       "rank": 14,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1502939,
-      "num": 1502939,
-      "word": "为什么很多漂亮女生却单身",
-      "onboard_time": 1683901893,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 1502392,
@@ -1923,6 +1923,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 815689,
+      "num": 815689,
+      "word": "学生摔伤无人报警但满屏都是警",
+      "onboard_time": 1683907110,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 814266,
       "num": 814266,
       "word": "中新网评刘亦菲曾被霸凌",
@@ -2899,6 +2907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 545968,
+      "num": 171906,
+      "word": "原来小燕子真的穿的花衣",
+      "onboard_time": 1683907587,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 545353,
       "num": 545353,
       "word": "举报郑大教授女子称有两段流产后录音",
@@ -3241,14 +3257,6 @@
       "onboard_time": 1683898411,
       "rank": 9,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 487251,
-      "num": 487251,
-      "word": "学生摔伤无人报警但满屏都是警",
-      "onboard_time": 1683907110,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 485721,
@@ -4715,14 +4723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 349225,
-      "num": 171906,
-      "word": "原来小燕子真的穿的花衣",
-      "onboard_time": 1683907587,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 348670,
       "num": 348670,
       "word": "thirsty",
@@ -5099,6 +5099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 328015,
+      "num": 216316,
+      "word": "一日为师周深为父",
+      "onboard_time": 1683906867,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327910,
       "num": 310441,
       "word": "原来真有大学生月入过万",
@@ -5113,6 +5121,14 @@
       "onboard_time": 1683679353,
       "rank": 19,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 326525,
+      "num": 326525,
+      "word": "向往的生活",
+      "onboard_time": 1683889889,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 326023,
@@ -5209,14 +5225,6 @@
       "onboard_time": 1683717328,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 321372,
-      "num": 321372,
-      "word": "向往的生活",
-      "onboard_time": 1683889889,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 319198,
@@ -5755,6 +5763,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 292744,
+      "num": 292744,
+      "word": "华晨宇五专台湾销量",
+      "onboard_time": 1683907886,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 292487,
       "num": 292487,
       "word": "庆余年2召集令",
@@ -5865,6 +5881,14 @@
       "onboard_time": 1683883109,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 288013,
+      "num": 147100,
+      "word": "陶勇医生 手术刀在我心里从未放下",
+      "onboard_time": 1683907647,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287510,
@@ -6184,14 +6208,6 @@
       "word": "刘雅瑟回复网友说她油",
       "onboard_time": 1683771147,
       "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 272801,
-      "num": 216316,
-      "word": "一日为师周深为父",
-      "onboard_time": 1683906867,
-      "rank": 21,
       "category": "综艺"
     },
     {
@@ -8139,14 +8155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202629,
-      "num": 202629,
-      "word": "华晨宇五专台湾销量",
-      "onboard_time": 1683907886,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 202533,
       "num": 202533,
       "word": "杰克辣条",
@@ -8865,6 +8873,14 @@
       "onboard_time": 1683527795,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 178644,
+      "num": 178644,
+      "word": "可乐男孩现已成为可乐博物馆馆长",
+      "onboard_time": 1683908366,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178187,
@@ -9987,14 +10003,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 137186,
-      "num": 137186,
-      "word": "陶勇医生 手术刀在我心里从未放下",
-      "onboard_time": 1683907647,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137022,
       "num": 137022,
       "word": "MSI胜败分组赛抽签",
@@ -10507,6 +10515,14 @@
       "category": "幽默,科技"
     },
     {
+      "raw_hot": 104569,
+      "num": 104569,
+      "word": "上海3人造谣幼师卖淫被刑拘",
+      "onboard_time": 1683907826,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100694,
       "num": 100694,
       "word": "DRG止步季后赛",
@@ -10600,14 +10616,6 @@
       "word": "淘宝回应网友报销账单",
       "onboard_time": 1683518427,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 91575,
-      "num": 91575,
-      "word": "可乐男孩现已成为可乐博物馆馆长",
-      "onboard_time": 1683908366,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -11009,6 +11017,14 @@
       "onboard_time": 1683833713,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 36801,
+      "num": 79489,
+      "word": "奶香芋泥酱",
+      "onboard_time": 1683909204,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 36756,
