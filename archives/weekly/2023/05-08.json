@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683920003638,
+  "endTime": 1683922638090,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -11043,6 +11043,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 37908,
+      "num": 37908,
+      "word": "外交部回应美拟取消中国发展中国家地位",
+      "onboard_time": 1683916334,
+      "rank": 43,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 36946,
       "num": 36946,
       "word": "美依礼芽龚琳娜认领龚美呐赛",
@@ -11105,14 +11113,6 @@
       "onboard_time": 1683737959,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 27683,
-      "num": 27683,
-      "word": "外交部回应美拟取消中国发展中国家地位",
-      "onboard_time": 1683916334,
-      "rank": 43,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 26638,
@@ -11217,6 +11217,14 @@
       "onboard_time": 1683664391,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8007,
+      "num": 14293,
+      "word": "夏日动漫版镰仓",
+      "onboard_time": 1683921732,
+      "rank": 49,
+      "category": "动漫"
     }
   ],
   "hotgov_list": [

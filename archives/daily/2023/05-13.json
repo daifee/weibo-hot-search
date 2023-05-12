@@ -1,6 +1,6 @@
 {
   "startTime": 1683908490327,
-  "endTime": 1683920003638,
+  "endTime": 1683922638090,
   "band_list": [
     {
       "raw_hot": 1765860,
@@ -443,6 +443,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 37908,
+      "num": 37908,
+      "word": "外交部回应美拟取消中国发展中国家地位",
+      "onboard_time": 1683916334,
+      "rank": 43,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 32694,
       "num": 32694,
       "word": "真的很容易对这样的人有好感",
@@ -451,20 +459,20 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 27683,
-      "num": 27683,
-      "word": "外交部回应美拟取消中国发展中国家地位",
-      "onboard_time": 1683916334,
-      "rank": 43,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 20998,
       "num": 939727,
       "word": "第一视角看航天员进入天舟六号",
       "onboard_time": 1683898109,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8007,
+      "num": 14293,
+      "word": "夏日动漫版镰仓",
+      "onboard_time": 1683921732,
+      "rank": 49,
+      "category": "动漫"
     }
   ],
   "hotgov_list": [
