@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683882977565,
+  "endTime": 1683884022623,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -947,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1390966,
+      "num": 1390966,
+      "word": "李虹去世",
+      "onboard_time": 1683881368,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1386877,
       "num": 852538,
       "word": "杨幂解约文案适配分手官宣结婚",
@@ -1001,14 +1009,6 @@
       "onboard_time": 1683761544,
       "rank": 36,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 1337896,
-      "num": 1337896,
-      "word": "李虹去世",
-      "onboard_time": 1683881368,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1314985,
@@ -1691,6 +1691,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 899737,
+      "num": 899737,
+      "word": "稻香",
+      "onboard_time": 1683880768,
+      "rank": 9,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 882197,
       "num": 882197,
       "word": "孙俪的背",
@@ -1905,14 +1913,6 @@
       "onboard_time": 1683678453,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 776741,
-      "num": 776741,
-      "word": "稻香",
-      "onboard_time": 1683880768,
-      "rank": 9,
-      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 776355,
@@ -2849,6 +2849,14 @@
       "onboard_time": 1683811766,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 525111,
+      "num": 525111,
+      "word": "周扬青说安检识别不出我的脸",
+      "onboard_time": 1683882929,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 524196,
@@ -4307,6 +4315,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 355608,
+      "num": 355608,
+      "word": "住在罗汉寺里吃七个馒头的吴京",
+      "onboard_time": 1683882027,
+      "rank": 22,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 355549,
       "num": 355549,
       "word": "斗罗大陆2演员全阵容",
@@ -4505,6 +4521,14 @@
       "onboard_time": 1683534632,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 342157,
+      "num": 342157,
+      "word": "离职需要签字最多的人",
+      "onboard_time": 1683879330,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 341924,
@@ -4715,6 +4739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 329759,
+      "num": 329759,
+      "word": "硕士求职客服岗被拒HR教改简历",
+      "onboard_time": 1683883170,
+      "rank": 20,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 329663,
       "num": 329663,
       "word": "你给我的喜欢大结局",
@@ -4769,6 +4801,14 @@
       "onboard_time": 1683679353,
       "rank": 19,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 326347,
+      "num": 326347,
+      "word": "张婧仪古装",
+      "onboard_time": 1683883229,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 326023,
@@ -4881,14 +4921,6 @@
       "onboard_time": 1683683968,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 318341,
-      "num": 318341,
-      "word": "住在罗汉寺里吃七个馒头的吴京",
-      "onboard_time": 1683882027,
-      "rank": 22,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 317052,
@@ -5217,6 +5249,14 @@
       "onboard_time": 1683468096,
       "rank": 19,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 299831,
+      "num": 299831,
+      "word": "时代峰峻否认练习生底薪8000",
+      "onboard_time": 1683881967,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 299787,
@@ -5587,14 +5627,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 282715,
-      "num": 282715,
-      "word": "时代峰峻否认练习生底薪8000",
-      "onboard_time": 1683881967,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 282701,
       "num": 282701,
       "word": "加拿大",
@@ -5699,14 +5731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 276581,
-      "num": 276581,
-      "word": "离职需要签字最多的人",
-      "onboard_time": 1683879330,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 276373,
       "num": 219533,
       "word": "HR听了都心疼的离职原因",
@@ -5745,6 +5769,14 @@
       "onboard_time": 1683704072,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 274677,
+      "num": 274677,
+      "word": "惜花芷",
+      "onboard_time": 1683883109,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 274638,
@@ -6347,6 +6379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249570,
+      "num": 249570,
+      "word": "薛之谦哈尔滨",
+      "onboard_time": 1683883948,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 249307,
       "num": 249307,
       "word": "青蛙人偶被若干小孩围堵打哭未还手",
@@ -6755,6 +6795,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 234583,
+      "num": 234583,
+      "word": "曹操盖饭是什么梗",
+      "onboard_time": 1683882628,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 234443,
       "num": 234443,
       "word": "格林",
@@ -6945,6 +6993,14 @@
       "onboard_time": 1683540031,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 228515,
+      "num": 228515,
+      "word": "原来两万块有这么厚",
+      "onboard_time": 1683883769,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 228358,
@@ -7523,6 +7579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 205283,
+      "num": 205283,
+      "word": "薛之谦演唱会门票",
+      "onboard_time": 1683870088,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205205,
       "num": 205205,
       "word": "上海下半年演唱会",
@@ -7689,14 +7753,6 @@
       "onboard_time": 1683723990,
       "rank": 35,
       "category": "科技"
-    },
-    {
-      "raw_hot": 199904,
-      "num": 199904,
-      "word": "薛之谦演唱会门票",
-      "onboard_time": 1683870088,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 199640,
@@ -8315,6 +8371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176927,
+      "num": 176927,
+      "word": "早期白月光杀伤力",
+      "onboard_time": 1683883769,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 176520,
       "num": 176520,
       "word": "陈美霖称有结果会去天台寺告诉孩子",
@@ -8691,6 +8755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164341,
+      "num": 164341,
+      "word": "一看就没有恋爱过的女生",
+      "onboard_time": 1683883890,
+      "rank": 44,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 164293,
       "num": 164293,
       "word": "蔡天凤被碎尸案明日将再度提讯",
@@ -8835,6 +8907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 158149,
+      "num": 158149,
+      "word": "你遭受过最大的耻辱是什么",
+      "onboard_time": 1683883351,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157274,
       "num": 157274,
       "word": "青春环游记",
@@ -8929,14 +9009,6 @@
       "onboard_time": 1683762689,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152725,
-      "num": 152725,
-      "word": "周扬青说安检识别不出我的脸",
-      "onboard_time": 1683882929,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 152723,
@@ -9153,14 +9225,6 @@
       "onboard_time": 1683733649,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 144185,
-      "num": 144185,
-      "word": "曹操盖饭是什么梗",
-      "onboard_time": 1683882628,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 143330,
@@ -10060,7 +10124,7 @@
     },
     {
       "raw_hot": 74714,
-      "num": 143764,
+      "num": 153841,
       "word": "95后女孩推轮椅带奶奶旅行",
       "onboard_time": 1683878608,
       "rank": 48,

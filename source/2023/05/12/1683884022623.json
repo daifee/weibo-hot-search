@@ -1,0 +1,410 @@
+{
+  "runTime": 1683884022623,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2695430,
+        "num": 2695430,
+        "word": "26岁我的真实存款",
+        "onboard_time": 1683876869,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1390966,
+        "num": 1390966,
+        "word": "李虹去世",
+        "onboard_time": 1683881368,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612,
+        "num": 1233083,
+        "word": "第15个全国防灾减灾日",
+        "onboard_time": 1683878908,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1085079,
+        "num": 1085079,
+        "word": "小伙入职第二天报警把公司端了",
+        "onboard_time": 1683875548,
+        "rank": 3,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 937705,
+        "num": 937705,
+        "word": "5121428",
+        "onboard_time": 1683847525,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1181235,
+        "num": 936876,
+        "word": "霍华德道歉并辩解",
+        "onboard_time": 1683877166,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 929444,
+        "num": 929444,
+        "word": "沈月出道前曾帮人拍婚庆",
+        "onboard_time": 1683872066,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 899737,
+        "num": 899737,
+        "word": "稻香",
+        "onboard_time": 1683880768,
+        "rank": 7,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 816012,
+        "num": 816012,
+        "word": "李国庆称签约孟羽童保底要400万",
+        "onboard_time": 1683867632,
+        "rank": 8,
+        "category": "财经,网红"
+      },
+      {
+        "raw_hot": 740762,
+        "num": 740762,
+        "word": "丈夫家中去世女子赶车路上崩溃大哭",
+        "onboard_time": 1683870027,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 774373,
+        "num": 726613,
+        "word": "时代峰峻训练生底薪8000",
+        "onboard_time": 1683875129,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 679184,
+        "num": 679184,
+        "word": "杨洋刘诗诗赵露思的古装仪态",
+        "onboard_time": 1683877649,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 536454,
+        "num": 536454,
+        "word": "孟羽童在格力月薪没过万",
+        "onboard_time": 1683865896,
+        "rank": 12,
+        "category": "财经,网红"
+      },
+      {
+        "raw_hot": 531085,
+        "num": 531085,
+        "word": "庆余年2海报设计公司道歉",
+        "onboard_time": 1683876985,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 525111,
+        "num": 525111,
+        "word": "周扬青说安检识别不出我的脸",
+        "onboard_time": 1683882929,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517441,
+        "num": 517441,
+        "word": "李大钊孙女",
+        "onboard_time": 1683858327,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475845,
+        "num": 475845,
+        "word": "5岁女孩认出罂粟花报警铲除",
+        "onboard_time": 1683874349,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368331,
+        "num": 368331,
+        "word": "韩国张凌赫",
+        "onboard_time": 1683866315,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 355608,
+        "num": 355608,
+        "word": "住在罗汉寺里吃七个馒头的吴京",
+        "onboard_time": 1683882027,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 342157,
+        "num": 342157,
+        "word": "离职需要签字最多的人",
+        "onboard_time": 1683879330,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 329759,
+        "num": 329759,
+        "word": "硕士求职客服岗被拒HR教改简历",
+        "onboard_time": 1683883170,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 326347,
+        "num": 326347,
+        "word": "张婧仪古装",
+        "onboard_time": 1683883229,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 299831,
+        "num": 299831,
+        "word": "时代峰峻否认练习生底薪8000",
+        "onboard_time": 1683881967,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298230,
+        "num": 298230,
+        "word": "108罗汉娃长大了",
+        "onboard_time": 1683881306,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291536,
+        "num": 291536,
+        "word": "专家称孙燕姿音色不受法律保护",
+        "onboard_time": 1683876625,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287495,
+        "num": 287495,
+        "word": "千万不要和领导走太近",
+        "onboard_time": 1683878369,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274677,
+        "num": 274677,
+        "word": "惜花芷",
+        "onboard_time": 1683883109,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274609,
+        "num": 274609,
+        "word": "孟羽童为什么没能成第二个董宇辉",
+        "onboard_time": 1683872729,
+        "rank": 27,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 251482,
+        "num": 251482,
+        "word": "杨幂唐嫣赵丽颖的人生你想过谁的",
+        "onboard_time": 1683864569,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249570,
+        "num": 249570,
+        "word": "薛之谦哈尔滨",
+        "onboard_time": 1683883948,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 239970,
+        "num": 239970,
+        "word": "黄晓明回应汶川地震夹缝男孩",
+        "onboard_time": 1683880286,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234583,
+        "num": 234583,
+        "word": "曹操盖饭是什么梗",
+        "onboard_time": 1683882628,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228515,
+        "num": 228515,
+        "word": "原来两万块有这么厚",
+        "onboard_time": 1683883769,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226788,
+        "num": 226788,
+        "word": "广东一男子开铲车见人就冲见车就撞",
+        "onboard_time": 1683877949,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226047,
+        "num": 226047,
+        "word": "护心导演向长月烬明道歉",
+        "onboard_time": 1683867693,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205283,
+        "num": 205283,
+        "word": "薛之谦演唱会门票",
+        "onboard_time": 1683870088,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199195,
+        "num": 199195,
+        "word": "肖战唐三vs周翊然唐三",
+        "onboard_time": 1683869249,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196788,
+        "num": 196788,
+        "word": "特斯拉",
+        "onboard_time": 1683876149,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 186589,
+        "num": 186589,
+        "word": "你见过最稀有的姓氏是什么",
+        "onboard_time": 1683879807,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176927,
+        "num": 176927,
+        "word": "早期白月光杀伤力",
+        "onboard_time": 1683883769,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171978,
+        "num": 171978,
+        "word": "四川大学再回应部分男厕改女厕",
+        "onboard_time": 1683870509,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 167255,
+        "num": 167255,
+        "word": "素全法师 见死不救才是最大的忌讳",
+        "onboard_time": 1683880407,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166698,
+        "num": 166698,
+        "word": "你肉体上最疼的一次经历是什么",
+        "onboard_time": 1683872129,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165147,
+        "num": 165147,
+        "word": "女孩困得东倒西歪还坚持让座",
+        "onboard_time": 1683876985,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164341,
+        "num": 164341,
+        "word": "一看就没有恋爱过的女生",
+        "onboard_time": 1683883890,
+        "rank": 44,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 164061,
+        "num": 164061,
+        "word": "刘宇宁是怎么火起来的",
+        "onboard_time": 1683861330,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158149,
+        "num": 158149,
+        "word": "你遭受过最大的耻辱是什么",
+        "onboard_time": 1683883351,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156608,
+        "num": 156608,
+        "word": "张颂文悼念李大钊孙女",
+        "onboard_time": 1683862350,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97970,
+        "num": 154916,
+        "word": "塞尔达是天",
+        "onboard_time": 1683866254,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 61994,
+        "num": 153841,
+        "word": "95后女孩推轮椅带奶奶旅行",
+        "onboard_time": 1683878608,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励海军潜艇部队某艇员队#"
+    }
+  }
+}
