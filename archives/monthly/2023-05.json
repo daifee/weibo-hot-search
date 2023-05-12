@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683904619823,
+  "endTime": 1683905619021,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -603,6 +603,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 2308304,
+      "num": 2308304,
+      "word": "很体面但是工资不高的工作",
+      "onboard_time": 1683898890,
+      "rank": 3,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 2303880,
       "num": 2303880,
       "word": "珠穆朗玛峰凌晨两点还在堵",
@@ -737,14 +745,6 @@
       "onboard_time": 1683522333,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2214814,
-      "num": 2214814,
-      "word": "很体面但是工资不高的工作",
-      "onboard_time": 1683898890,
-      "rank": 3,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 2208279,
@@ -5203,20 +5203,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 670802,
+      "num": 234091,
+      "word": "为什么很多漂亮女生却单身",
+      "onboard_time": 1683901893,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 669568,
       "num": 346221,
       "word": "妖刀C麻了",
       "onboard_time": 1683298771,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 668168,
-      "num": 234091,
-      "word": "为什么很多漂亮女生却单身",
-      "onboard_time": 1683901893,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 667585,
@@ -7795,6 +7795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 448488,
+      "num": 448488,
+      "word": "广州宝马撞人案判决书披露作案动机",
+      "onboard_time": 1683904111,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447814,
       "num": 447814,
       "word": "Jennie紫色吊带短裙",
@@ -9507,6 +9515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 376332,
+      "num": 376332,
+      "word": "i love you guys",
+      "onboard_time": 1683903452,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 376264,
       "num": 376264,
       "word": "网传江苏江阴发生枪击",
@@ -10611,6 +10627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 341891,
+      "num": 341891,
+      "word": "你相信有天性很坏的孩子吗",
+      "onboard_time": 1683898051,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 341863,
       "num": 341863,
       "word": "买房买到一半就拆迁了",
@@ -10681,14 +10705,6 @@
       "onboard_time": 1683251128,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 339772,
-      "num": 339772,
-      "word": "你相信有天性很坏的孩子吗",
-      "onboard_time": 1683898051,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 339600,
@@ -13291,14 +13307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 276953,
-      "num": 276953,
-      "word": "i love you guys",
-      "onboard_time": 1683903452,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 276531,
       "num": 276531,
       "word": "唐山铁矿透水事故县领导谎报",
@@ -13633,6 +13641,14 @@
       "onboard_time": 1683210336,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269265,
+      "num": 233850,
+      "word": "豆瓣评分人数TOP20电视剧",
+      "onboard_time": 1683902314,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 269240,
@@ -14105,6 +14121,14 @@
       "onboard_time": 1683706351,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 259302,
+      "num": 233829,
+      "word": "租的房子根本没必要买家具",
+      "onboard_time": 1683901535,
+      "rank": 26,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 259299,
@@ -15107,14 +15131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 244800,
-      "num": 233850,
-      "word": "豆瓣评分人数TOP20电视剧",
-      "onboard_time": 1683902314,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 244498,
       "num": 244498,
       "word": "送女孩赶火车大哥说山东人遇到都会帮",
@@ -15865,14 +15881,6 @@
       "onboard_time": 1683007108,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 233829,
-      "num": 233829,
-      "word": "租的房子根本没必要买家具",
-      "onboard_time": 1683901535,
-      "rank": 26,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 233669,
@@ -17305,6 +17313,14 @@
       "onboard_time": 1683594570,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212878,
+      "num": 212878,
+      "word": "王子奇一种很新的撕漫男",
+      "onboard_time": 1683904171,
+      "rank": 43,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 212744,
@@ -19083,6 +19099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190455,
+      "num": 190455,
+      "word": "陶勇回应上热搜",
+      "onboard_time": 1683902253,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190453,
       "num": 190453,
       "word": "五一最后1天假期",
@@ -20131,14 +20155,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 176790,
-      "num": 176790,
-      "word": "陶勇回应上热搜",
-      "onboard_time": 1683902253,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176739,
       "num": 176739,
       "word": "LGD",
@@ -20721,14 +20737,6 @@
       "onboard_time": 1682999368,
       "rank": 43,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 169910,
-      "num": 169910,
-      "word": "广州宝马撞人案判决书披露作案动机",
-      "onboard_time": 1683904111,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169792,
@@ -21587,6 +21595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157389,
+      "num": 157389,
+      "word": "奔跑吧下周谁是贵阳推荐官",
+      "onboard_time": 1683905071,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157240,
       "num": 157240,
       "word": "朴树 上海草莓音乐节",
@@ -21841,14 +21857,6 @@
       "onboard_time": 1682912429,
       "rank": 34,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 153286,
-      "num": 153286,
-      "word": "王子奇一种很新的撕漫男",
-      "onboard_time": 1683904171,
-      "rank": 43,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 153144,
@@ -24995,6 +25003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69128,
+      "num": 320161,
+      "word": "汶川地震少年现在都怎么样了",
+      "onboard_time": 1683903630,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68899,
       "num": 68899,
       "word": "瓦格纳",
@@ -25520,14 +25536,6 @@
       "word": "劳动是奋斗追梦的五光十色",
       "onboard_time": 1683091590,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39762,
-      "num": 317432,
-      "word": "汶川地震少年现在都怎么样了",
-      "onboard_time": 1683903630,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

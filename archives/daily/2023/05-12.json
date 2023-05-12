@@ -1,6 +1,6 @@
 {
   "startTime": 1683822124198,
-  "endTime": 1683904619823,
+  "endTime": 1683905619021,
   "band_list": [
     {
       "raw_hot": 3648870,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2308304,
+      "num": 2308304,
+      "word": "很体面但是工资不高的工作",
+      "onboard_time": 1683898890,
+      "rank": 3,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 2280760,
       "num": 366162,
       "word": "四川大学",
@@ -73,14 +81,6 @@
       "onboard_time": 1683869010,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2214814,
-      "num": 2214814,
-      "word": "很体面但是工资不高的工作",
-      "onboard_time": 1683898890,
-      "rank": 3,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 2206555,
@@ -459,7 +459,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 668168,
+      "raw_hot": 670802,
       "num": 234091,
       "word": "为什么很多漂亮女生却单身",
       "onboard_time": 1683901893,
@@ -699,6 +699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 448488,
+      "num": 448488,
+      "word": "广州宝马撞人案判决书披露作案动机",
+      "onboard_time": 1683904111,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441100,
       "num": 441100,
       "word": "护心导演点赞拉踩长月烬明内容",
@@ -859,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376332,
+      "num": 376332,
+      "word": "i love you guys",
+      "onboard_time": 1683903452,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 375981,
       "num": 356835,
       "word": "你肉体上最疼的一次经历是什么",
@@ -987,20 +1003,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 341891,
+      "num": 341891,
+      "word": "你相信有天性很坏的孩子吗",
+      "onboard_time": 1683898051,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 341487,
       "num": 341487,
       "word": "108罗汉娃长大了",
       "onboard_time": 1683881306,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 339772,
-      "num": 339772,
-      "word": "你相信有天性很坏的孩子吗",
-      "onboard_time": 1683898051,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 333531,
@@ -1075,8 +1091,8 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 308997,
-      "num": 308997,
+      "raw_hot": 311123,
+      "num": 311123,
       "word": "向往的生活",
       "onboard_time": 1683889889,
       "rank": 19,
@@ -1187,14 +1203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 276953,
-      "num": 276953,
-      "word": "i love you guys",
-      "onboard_time": 1683903452,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 275963,
       "num": 275963,
       "word": "淄博一小区为外卖员配专用单车",
@@ -1225,6 +1233,14 @@
       "onboard_time": 1683868471,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 269265,
+      "num": 233850,
+      "word": "豆瓣评分人数TOP20电视剧",
+      "onboard_time": 1683902314,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 265952,
@@ -1273,6 +1289,14 @@
       "onboard_time": 1683892108,
       "rank": 24,
       "category": "科技,艺人"
+    },
+    {
+      "raw_hot": 259302,
+      "num": 233829,
+      "word": "租的房子根本没必要买家具",
+      "onboard_time": 1683901535,
+      "rank": 26,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 258463,
@@ -1353,14 +1377,6 @@
       "onboard_time": 1683847222,
       "rank": 20,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 244800,
-      "num": 233850,
-      "word": "豆瓣评分人数TOP20电视剧",
-      "onboard_time": 1683902314,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 244474,
@@ -1451,14 +1467,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 233829,
-      "num": 233829,
-      "word": "租的房子根本没必要买家具",
-      "onboard_time": 1683901535,
-      "rank": 26,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 232254,
       "num": 232254,
       "word": "JDG",
@@ -1531,6 +1539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 218383,
+      "num": 218383,
+      "word": "出差十五夜",
+      "onboard_time": 1683905009,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215562,
       "num": 215562,
       "word": "rora",
@@ -1545,6 +1561,14 @@
       "onboard_time": 1683857551,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 212878,
+      "num": 212878,
+      "word": "王子奇一种很新的撕漫男",
+      "onboard_time": 1683904171,
+      "rank": 43,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 212702,
@@ -1715,6 +1739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 190455,
+      "num": 190455,
+      "word": "陶勇回应上热搜",
+      "onboard_time": 1683902253,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186610,
       "num": 186610,
       "word": "无人机航拍时被鹰叼走",
@@ -1779,14 +1811,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 176790,
-      "num": 176790,
-      "word": "陶勇回应上热搜",
-      "onboard_time": 1683902253,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176305,
       "num": 176305,
       "word": "15年前他们喊出中国雄起",
@@ -1833,14 +1857,6 @@
       "onboard_time": 1683885029,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169910,
-      "num": 169910,
-      "word": "广州宝马撞人案判决书披露作案动机",
-      "onboard_time": 1683904111,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168978,
@@ -1947,6 +1963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157389,
+      "num": 157389,
+      "word": "奔跑吧下周谁是贵阳推荐官",
+      "onboard_time": 1683905071,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157274,
       "num": 157274,
       "word": "青春环游记",
@@ -1985,14 +2009,6 @@
       "onboard_time": 1683886949,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 153286,
-      "num": 153286,
-      "word": "王子奇一种很新的撕漫男",
-      "onboard_time": 1683904171,
-      "rank": 43,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 153144,
@@ -2299,6 +2315,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 69128,
+      "num": 320161,
+      "word": "汶川地震少年现在都怎么样了",
+      "onboard_time": 1683903630,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67949,
       "num": 67949,
       "word": "辛巴再诉快手侵权",
@@ -2352,14 +2376,6 @@
       "word": "室友记录下盲人博士学日语",
       "onboard_time": 1683820589,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39762,
-      "num": 317432,
-      "word": "汶川地震少年现在都怎么样了",
-      "onboard_time": 1683903630,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
