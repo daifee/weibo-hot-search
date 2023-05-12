@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683916410116,
+  "endTime": 1683918795241,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -25921,6 +25921,14 @@
       "onboard_time": 1683324855,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 22729,
+      "num": 22729,
+      "word": "外交部回应美拟取消中国发展中国家地位",
+      "onboard_time": 1683916334,
+      "rank": 43,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 21888,
