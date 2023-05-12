@@ -1,6 +1,6 @@
 {
   "startTime": 1683822124198,
-  "endTime": 1683891210151,
+  "endTime": 1683894721468,
   "band_list": [
     {
       "raw_hot": 3648870,
@@ -171,8 +171,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1353116,
-      "num": 1353116,
+      "raw_hot": 1356237,
+      "num": 1356237,
       "word": "原来两万块有这么厚",
       "onboard_time": 1683883769,
       "rank": 32,
@@ -331,6 +331,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 844135,
+      "num": 844135,
+      "word": "X玖少年团成员前缀",
+      "onboard_time": 1683890427,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 819379,
       "num": 632816,
       "word": "ZEKU",
@@ -435,12 +443,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 614197,
+      "num": 614197,
+      "word": "乘风破浪下一季叫什么",
+      "onboard_time": 1683889710,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 612168,
       "num": 612168,
       "word": "一看就没有恋爱过的女生",
       "onboard_time": 1683883890,
       "rank": 44,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 609467,
+      "num": 252600,
+      "word": "妈妈染指甲被儿子说",
+      "onboard_time": 1683891449,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 603547,
@@ -456,14 +480,6 @@
       "word": "张婧仪古装",
       "onboard_time": 1683883229,
       "rank": 21,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 589664,
-      "num": 589664,
-      "word": "X玖少年团成员前缀",
-      "onboard_time": 1683890427,
-      "rank": 8,
       "category": "作品衍生"
     },
     {
@@ -513,14 +529,6 @@
       "onboard_time": 1683876149,
       "rank": 31,
       "category": "科技"
-    },
-    {
-      "raw_hot": 563959,
-      "num": 563959,
-      "word": "乘风破浪下一季叫什么",
-      "onboard_time": 1683889710,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 562427,
@@ -681,6 +689,14 @@
       "onboard_time": 1683887908,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 400003,
+      "num": 251079,
+      "word": "手机后三位是你房子的面积",
+      "onboard_time": 1683891988,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 393608,
@@ -979,6 +995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 283783,
+      "num": 190110,
+      "word": "微信公众号",
+      "onboard_time": 1683889827,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 279814,
       "num": 245289,
       "word": "美国上百名童工在屠宰厂上夜班",
@@ -1139,6 +1163,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 244105,
+      "num": 244105,
+      "word": "INTO1首次撕名牌问题好多",
+      "onboard_time": 1683891507,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242287,
       "num": 242287,
       "word": "为什么说散步是约会的开始",
@@ -1153,6 +1185,14 @@
       "onboard_time": 1683866614,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 239928,
+      "num": 239928,
+      "word": "AI出来后第一个失业的是孙燕姿",
+      "onboard_time": 1683892108,
+      "rank": 24,
+      "category": "科技,艺人"
     },
     {
       "raw_hot": 238613,
@@ -1249,6 +1289,14 @@
       "onboard_time": 1683864269,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223634,
+      "num": 223634,
+      "word": "看老照片",
+      "onboard_time": 1683893248,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 221810,
@@ -1467,6 +1515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 178880,
+      "num": 178880,
+      "word": "北京一千块过一个月是什么概念",
+      "onboard_time": 1683889949,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177925,
       "num": 177925,
       "word": "汶川钢腿女孩分享现状",
@@ -1507,6 +1563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 174540,
+      "num": 174540,
+      "word": "放下个人素质 享受缺德人生",
+      "onboard_time": 1683894027,
+      "rank": 33,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 174199,
       "num": 174199,
       "word": "萌娃遇消防员婚车队集体挥手祝福",
@@ -1515,20 +1579,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173739,
+      "num": 173739,
+      "word": "蔡徐坤广西",
+      "onboard_time": 1683892466,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173523,
       "num": 173523,
       "word": "过劳肥是如何导致的",
       "onboard_time": 1683855628,
       "rank": 45,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 171120,
-      "num": 171120,
-      "word": "微信公众号",
-      "onboard_time": 1683889827,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 170987,
@@ -1603,20 +1667,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160309,
+      "num": 160309,
+      "word": "朋友问我塞尔达怎么还没通关",
+      "onboard_time": 1683891687,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 160092,
       "num": 160092,
       "word": "孔雪儿许佳琪开机同框",
       "onboard_time": 1683879625,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 159853,
-      "num": 159853,
-      "word": "北京一千块过一个月是什么概念",
-      "onboard_time": 1683889949,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 158149,
@@ -1699,6 +1763,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 144047,
+      "num": 144047,
+      "word": "蒋奇明打手语",
+      "onboard_time": 1683892108,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 143330,
       "num": 143330,
       "word": "汶川地震中的催泪瞬间",
@@ -1763,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134992,
+      "num": 134992,
+      "word": "浙江黄药师为青海小童千里送解药",
+      "onboard_time": 1683894207,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134243,
       "num": 134243,
       "word": "范丞丞称演戏是最轻松的职业",
@@ -1785,6 +1865,14 @@
       "onboard_time": 1683856949,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 130689,
+      "num": 130689,
+      "word": "乘风破浪",
+      "onboard_time": 1683892228,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 127026,
@@ -1841,6 +1929,14 @@
       "onboard_time": 1683821487,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 122130,
+      "num": 122130,
+      "word": "韩国低出生率结果",
+      "onboard_time": 1683894690,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120572,
