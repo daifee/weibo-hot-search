@@ -1,6 +1,6 @@
 {
   "startTime": 1683822124198,
-  "endTime": 1683890030399,
+  "endTime": 1683891210151,
   "band_list": [
     {
       "raw_hot": 3648870,
@@ -99,8 +99,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1648285,
-      "num": 1648285,
+      "raw_hot": 1664560,
+      "num": 1664560,
       "word": "对不起发达国家这顶帽子中国戴不了",
       "onboard_time": 1683885210,
       "rank": 11,
@@ -459,6 +459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 589664,
+      "num": 589664,
+      "word": "X玖少年团成员前缀",
+      "onboard_time": 1683890427,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 580246,
       "num": 580246,
       "word": "如何让领导知道你干了很多活",
@@ -505,6 +513,14 @@
       "onboard_time": 1683876149,
       "rank": 31,
       "category": "科技"
+    },
+    {
+      "raw_hot": 563959,
+      "num": 563959,
+      "word": "乘风破浪下一季叫什么",
+      "onboard_time": 1683889710,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 562427,
@@ -635,6 +651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 412516,
+      "num": 720467,
+      "word": "小伙努力3年无人问凭一首神曲逆袭",
+      "onboard_time": 1683887308,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407882,
       "num": 270569,
       "word": "不体面但是很赚钱的工作",
@@ -651,12 +675,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 391702,
-      "num": 720467,
-      "word": "小伙努力3年无人问凭一首神曲逆袭",
-      "onboard_time": 1683887308,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 400758,
+      "num": 400758,
+      "word": "奔跑吧今晚和400位观众合唱",
+      "onboard_time": 1683887908,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 393608,
+      "num": 393608,
+      "word": "年轻人没有负债是什么水平",
+      "onboard_time": 1683888331,
+      "rank": 23,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 390753,
@@ -697,14 +729,6 @@
       "onboard_time": 1683865652,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 376329,
-      "num": 376329,
-      "word": "奔跑吧今晚和400位观众合唱",
-      "onboard_time": 1683887908,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 375981,
@@ -828,7 +852,7 @@
     },
     {
       "raw_hot": 327910,
-      "num": 308677,
+      "num": 310441,
       "word": "原来真有大学生月入过万",
       "onboard_time": 1683886889,
       "rank": 32,
@@ -913,14 +937,6 @@
       "onboard_time": 1683818669,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 297318,
-      "num": 297318,
-      "word": "年轻人没有负债是什么水平",
-      "onboard_time": 1683888331,
-      "rank": 23,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 296019,
@@ -1017,6 +1033,14 @@
       "onboard_time": 1683875667,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263874,
+      "num": 263874,
+      "word": "许允真",
+      "onboard_time": 1683888809,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 261262,
@@ -1307,14 +1331,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 204228,
-      "num": 204228,
-      "word": "乘风破浪下一季叫什么",
-      "onboard_time": 1683889710,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 203587,
       "num": 203587,
       "word": "小品女团",
@@ -1371,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194521,
+      "num": 194521,
+      "word": "俩人的智商此刻超过了爱因斯坦",
+      "onboard_time": 1683891148,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 194280,
       "num": 194280,
       "word": "秋瓷炫说我对你们一辈子好",
@@ -1409,14 +1433,6 @@
       "onboard_time": 1683850533,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 193142,
-      "num": 193142,
-      "word": "许允真",
-      "onboard_time": 1683888809,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 186610,
@@ -1507,6 +1523,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 171120,
+      "num": 171120,
+      "word": "微信公众号",
+      "onboard_time": 1683889827,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 170987,
       "num": 170987,
       "word": "奔跑吧",
@@ -1585,6 +1609,14 @@
       "onboard_time": 1683879625,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 159853,
+      "num": 159853,
+      "word": "北京一千块过一个月是什么概念",
+      "onboard_time": 1683889949,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 158149,
@@ -1673,6 +1705,14 @@
       "onboard_time": 1683877107,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143249,
+      "num": 143249,
+      "word": "塞学家研究所 请假",
+      "onboard_time": 1683890850,
+      "rank": 45,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 143161,
