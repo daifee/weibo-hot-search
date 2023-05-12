@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683897587928,
+  "endTime": 1683898401775,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -771,6 +771,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1524867,
+      "num": 1524867,
+      "word": "罗成 梦女",
+      "onboard_time": 1683895351,
+      "rank": 19,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1520173,
       "num": 1087325,
       "word": "向佐的工作人员叫王一博",
@@ -1041,14 +1049,6 @@
       "onboard_time": 1683856408,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1314074,
-      "num": 1314074,
-      "word": "罗成 梦女",
-      "onboard_time": 1683895351,
-      "rank": 19,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1302004,
@@ -2027,6 +2027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 754265,
+      "num": 754265,
+      "word": "韩国低出生率结果",
+      "onboard_time": 1683894690,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 746762,
       "num": 746762,
       "word": "金智秀有钱且漂亮",
@@ -2049,6 +2057,14 @@
       "onboard_time": 1683532295,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 740229,
+      "num": 740229,
+      "word": "放下个人素质 享受缺德人生",
+      "onboard_time": 1683894027,
+      "rank": 33,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 738388,
@@ -2251,14 +2267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 684908,
-      "num": 684908,
-      "word": "放下个人素质 享受缺德人生",
-      "onboard_time": 1683894027,
-      "rank": 33,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 683373,
       "num": 683373,
       "word": "肖战把皮带挂脖子上",
@@ -2377,14 +2385,6 @@
       "onboard_time": 1683867693,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 639149,
-      "num": 639149,
-      "word": "韩国低出生率结果",
-      "onboard_time": 1683894690,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 637804,
@@ -2516,7 +2516,7 @@
     },
     {
       "raw_hot": 609467,
-      "num": 263297,
+      "num": 291758,
       "word": "妈妈染指甲被儿子说",
       "onboard_time": 1683891449,
       "rank": 21,
@@ -3779,6 +3779,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 402614,
+      "num": 245652,
+      "word": "五个女博士被立案调查",
+      "onboard_time": 1683897268,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402558,
       "num": 285921,
       "word": "迪丽热巴机场粉裙造型",
@@ -3820,11 +3828,19 @@
     },
     {
       "raw_hot": 400003,
-      "num": 262329,
+      "num": 291073,
       "word": "手机后三位是你房子的面积",
       "onboard_time": 1683891988,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 399785,
+      "num": 399785,
+      "word": "好利来罗成辟谣未婚妻传闻",
+      "onboard_time": 1683896550,
+      "rank": 19,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 399496,
@@ -4659,6 +4675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 346012,
+      "num": 346012,
+      "word": "泫雅武汉音乐节海报是P的",
+      "onboard_time": 1683896310,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 343771,
       "num": 273957,
       "word": "我的人间烟火",
@@ -5395,6 +5419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301117,
+      "num": 301117,
+      "word": "跑男",
+      "onboard_time": 1683896489,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301074,
       "num": 297373,
       "word": "陈都灵工作室编辑记录",
@@ -5513,6 +5545,14 @@
       "onboard_time": 1683861149,
       "rank": 31,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 295449,
+      "num": 295449,
+      "word": "闫桉 生病才拥有一个gapday",
+      "onboard_time": 1683894748,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 295076,
@@ -5739,6 +5779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 285827,
+      "num": 285827,
+      "word": "九鹭非香的女主",
+      "onboard_time": 1683897389,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 285670,
       "num": 285670,
       "word": "塞尔达是天",
@@ -5905,14 +5953,6 @@
       "onboard_time": 1683611966,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 277648,
-      "num": 277648,
-      "word": "泫雅武汉音乐节海报是P的",
-      "onboard_time": 1683896310,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 277351,
@@ -6099,14 +6139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 269270,
-      "num": 269270,
-      "word": "闫桉 生病才拥有一个gapday",
-      "onboard_time": 1683894748,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 268800,
       "num": 268800,
       "word": "辽宁男篮总决赛开门红",
@@ -6203,14 +6235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 264733,
-      "num": 264733,
-      "word": "好利来罗成辟谣未婚妻传闻",
-      "onboard_time": 1683896550,
-      "rank": 19,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 264422,
       "num": 264422,
       "word": "乔欣工作室营业",
@@ -6276,7 +6300,7 @@
     },
     {
       "raw_hot": 260127,
-      "num": 246777,
+      "num": 253750,
       "word": "AI出来后第一个失业的是孙燕姿",
       "onboard_time": 1683892108,
       "rank": 24,
@@ -6443,6 +6467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 255499,
+      "num": 255499,
+      "word": "INTO1首次撕名牌问题好多",
+      "onboard_time": 1683891507,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255286,
       "num": 255286,
       "word": "虞书欣的男主运",
@@ -6569,6 +6601,14 @@
       "onboard_time": 1683788908,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 250996,
+      "num": 250996,
+      "word": "Jennie的眼睛还没好",
+      "onboard_time": 1683897209,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 250701,
@@ -6731,6 +6771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 246784,
+      "num": 246784,
+      "word": "上海北外滩偶遇刺猬头",
+      "onboard_time": 1683897808,
+      "rank": 29,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 246277,
       "num": 308582,
       "word": "全红婵夺冠后又被考拉抱",
@@ -6769,14 +6817,6 @@
       "onboard_time": 1683701191,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 244105,
-      "num": 244105,
-      "word": "INTO1首次撕名牌问题好多",
-      "onboard_time": 1683891507,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 243812,
@@ -6873,14 +6913,6 @@
       "onboard_time": 1683802408,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 239081,
-      "num": 239081,
-      "word": "跑男",
-      "onboard_time": 1683896489,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 238613,
@@ -7097,6 +7129,14 @@
       "onboard_time": 1683599486,
       "rank": 34,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 232254,
+      "num": 232254,
+      "word": "JDG",
+      "onboard_time": 1683896008,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 232002,
@@ -7617,14 +7657,6 @@
       "onboard_time": 1683803548,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 212434,
-      "num": 212434,
-      "word": "JDG",
-      "onboard_time": 1683896008,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 212374,
@@ -8547,14 +8579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181893,
-      "num": 181893,
-      "word": "Jennie的眼睛还没好",
-      "onboard_time": 1683897209,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 181311,
       "num": 181311,
       "word": "杨紫雨中撑伞转圈",
@@ -8771,14 +8795,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 174518,
-      "num": 174518,
-      "word": "九鹭非香的女主",
-      "onboard_time": 1683897389,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 174265,
       "num": 174265,
       "word": "郭艾伦缺席",
@@ -8825,14 +8841,6 @@
       "onboard_time": 1683536191,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 173141,
-      "num": 173141,
-      "word": "五个女博士被立案调查",
-      "onboard_time": 1683897268,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173079,
@@ -10849,6 +10857,14 @@
       "onboard_time": 1683749652,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 19485,
+      "num": 1022918,
+      "word": "第一视角看航天员进入天舟六号",
+      "onboard_time": 1683898109,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19262,
