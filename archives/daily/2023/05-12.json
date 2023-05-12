@@ -1,6 +1,6 @@
 {
   "startTime": 1683822124198,
-  "endTime": 1683880414030,
+  "endTime": 1683882977565,
   "band_list": [
     {
       "raw_hot": 3648870,
@@ -33,6 +33,14 @@
       "onboard_time": 1683865896,
       "rank": 39,
       "category": "财经,网红"
+    },
+    {
+      "raw_hot": 2753617,
+      "num": 2753617,
+      "word": "26岁我的真实存款",
+      "onboard_time": 1683876869,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 2280760,
@@ -73,14 +81,6 @@
       "onboard_time": 1683872066,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1771536,
-      "num": 1771536,
-      "word": "26岁我的真实存款",
-      "onboard_time": 1683876869,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 1714929,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1337896,
+      "num": 1337896,
+      "word": "李虹去世",
+      "onboard_time": 1683881368,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1314985,
       "num": 1314985,
       "word": "看老照片 停更",
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 1093011,
-      "num": 747096,
+      "num": 762053,
       "word": "时代峰峻训练生底薪8000",
       "onboard_time": 1683875129,
       "rank": 23,
@@ -299,6 +307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 776741,
+      "num": 776741,
+      "word": "稻香",
+      "onboard_time": 1683880768,
+      "rank": 9,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 767295,
       "num": 767295,
       "word": "东北大哥称不想再管吵架事件",
@@ -313,6 +329,14 @@
       "onboard_time": 1683860066,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 731825,
+      "num": 731825,
+      "word": "杨洋刘诗诗赵露思的古装仪态",
+      "onboard_time": 1683877649,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 716885,
@@ -675,6 +699,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 341487,
+      "num": 341487,
+      "word": "108罗汉娃长大了",
+      "onboard_time": 1683881306,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333531,
       "num": 333531,
       "word": "特斯拉召回超百万台国产及进口车型",
@@ -713,6 +745,14 @@
       "onboard_time": 1683815553,
       "rank": 20,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 318341,
+      "num": 318341,
+      "word": "住在罗汉寺里吃七个馒头的吴京",
+      "onboard_time": 1683882027,
+      "rank": 22,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 314200,
@@ -779,12 +819,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 282715,
+      "num": 282715,
+      "word": "时代峰峻否认练习生底薪8000",
+      "onboard_time": 1683881967,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279814,
       "num": 245289,
       "word": "美国上百名童工在屠宰厂上夜班",
       "onboard_time": 1683856110,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276581,
+      "num": 276581,
+      "word": "离职需要签字最多的人",
+      "onboard_time": 1683879330,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 275963,
@@ -817,14 +873,6 @@
       "onboard_time": 1683868471,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 267563,
-      "num": 267563,
-      "word": "杨洋刘诗诗赵露思的古装仪态",
-      "onboard_time": 1683877649,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 265952,
@@ -873,6 +921,14 @@
       "onboard_time": 1683864991,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249056,
+      "num": 249056,
+      "word": "黄晓明回应汶川地震夹缝男孩",
+      "onboard_time": 1683880286,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 248114,
@@ -987,6 +1043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 229562,
+      "num": 229562,
+      "word": "素全法师 见死不救才是最大的忌讳",
+      "onboard_time": 1683880407,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 226619,
       "num": 199801,
       "word": "独生子一人推2个轮椅医院照顾爸妈",
@@ -1017,14 +1081,6 @@
       "onboard_time": 1683811766,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 216842,
-      "num": 216842,
-      "word": "离职需要签字最多的人",
-      "onboard_time": 1683879330,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 215562,
@@ -1083,11 +1139,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 203587,
+      "num": 203587,
+      "word": "小品女团",
+      "onboard_time": 1683880947,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 203536,
       "num": 203536,
       "word": "猫被气的站起来跑步打人了",
       "onboard_time": 1683857492,
       "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 202919,
+      "num": 202919,
+      "word": "你见过最稀有的姓氏是什么",
+      "onboard_time": 1683879807,
+      "rank": 39,
       "category": "幽默"
     },
     {
@@ -1211,14 +1283,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 175455,
-      "num": 175455,
-      "word": "你见过最稀有的姓氏是什么",
-      "onboard_time": 1683879807,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 174831,
       "num": 174831,
       "word": "张婧仪新剧出妆路透图",
@@ -1249,6 +1313,14 @@
       "onboard_time": 1683818431,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 168834,
+      "num": 168834,
+      "word": "地震空降兵回忆当年惊天一跳",
+      "onboard_time": 1683881730,
+      "rank": 38,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 167818,
@@ -1339,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152725,
+      "num": 152725,
+      "word": "周扬青说安检识别不出我的脸",
+      "onboard_time": 1683882929,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151005,
       "num": 151005,
       "word": "15年前的汶川孩子已经长大了",
@@ -1355,12 +1435,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144567,
-      "num": 144567,
-      "word": "黄晓明回应汶川地震夹缝男孩",
-      "onboard_time": 1683880286,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 145583,
+      "num": 145583,
+      "word": "护士节大学生排队献血致敬白衣天使",
+      "onboard_time": 1683880708,
+      "rank": 45,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 144185,
+      "num": 144185,
+      "word": "曹操盖饭是什么梗",
+      "onboard_time": 1683882628,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 143330,
@@ -1425,14 +1513,6 @@
       "onboard_time": 1683802408,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 133447,
-      "num": 133447,
-      "word": "素全法师 见死不救才是最大的忌讳",
-      "onboard_time": 1683880407,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 133088,
@@ -1587,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74714,
+      "num": 143764,
+      "word": "95后女孩推轮椅带奶奶旅行",
+      "onboard_time": 1683878608,
+      "rank": 48,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 67949,
       "num": 67949,
       "word": "辛巴再诉快手侵权",
@@ -1609,14 +1697,6 @@
       "onboard_time": 1683818191,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 55308,
-      "num": 133060,
-      "word": "95后女孩推轮椅带奶奶旅行",
-      "onboard_time": 1683878608,
-      "rank": 48,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 45162,
