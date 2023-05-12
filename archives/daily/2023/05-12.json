@@ -1,6 +1,6 @@
 {
   "startTime": 1683822124198,
-  "endTime": 1683868533205,
+  "endTime": 1683869621880,
   "band_list": [
     {
       "raw_hot": 3648870,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2684191,
-      "num": 2684191,
+      "raw_hot": 2912856,
+      "num": 2912856,
       "word": "孟羽童在格力月薪没过万",
       "onboard_time": 1683865896,
       "rank": 39,
@@ -83,8 +83,8 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 1447789,
-      "num": 1447789,
+      "raw_hot": 1511440,
+      "num": 1511440,
       "word": "韩国张凌赫",
       "onboard_time": 1683866315,
       "rank": 3,
@@ -129,6 +129,14 @@
       "onboard_time": 1683861268,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1252259,
+      "num": 575836,
+      "word": "李国庆称签约孟羽童保底要400万",
+      "onboard_time": 1683867632,
+      "rank": 12,
+      "category": "财经,网红"
     },
     {
       "raw_hot": 1199608,
@@ -267,12 +275,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 630629,
-      "num": 540359,
-      "word": "李国庆称签约孟羽童保底要400万",
-      "onboard_time": 1683867632,
-      "rank": 12,
-      "category": "财经,网红"
+      "raw_hot": 603547,
+      "num": 603547,
+      "word": "杜兰特老了",
+      "onboard_time": 1683867394,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 580246,
+      "num": 580246,
+      "word": "如何让领导知道你干了很多活",
+      "onboard_time": 1683864510,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 577728,
@@ -299,12 +315,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 566914,
-      "num": 566914,
-      "word": "如何让领导知道你干了很多活",
-      "onboard_time": 1683864510,
-      "rank": 29,
-      "category": "情感"
+      "raw_hot": 556534,
+      "num": 556534,
+      "word": "护心导演向长月烬明道歉",
+      "onboard_time": 1683867693,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 537176,
@@ -379,14 +395,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 434612,
-      "num": 434612,
-      "word": "杜兰特老了",
-      "onboard_time": 1683867394,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 431937,
       "num": 431937,
       "word": "HYBE新男团鼻子",
@@ -411,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 400429,
+      "num": 241115,
+      "word": "大学生掏鸟被判10年半当事人将出狱",
+      "onboard_time": 1683869010,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 390753,
       "num": 390753,
       "word": "斗罗大陆2",
@@ -425,6 +441,14 @@
       "onboard_time": 1683862409,
       "rank": 22,
       "category": "科技"
+    },
+    {
+      "raw_hot": 377574,
+      "num": 363127,
+      "word": "第一次见液体大熊猫",
+      "onboard_time": 1683865652,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 372501,
@@ -449,14 +473,6 @@
       "onboard_time": 1683867095,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 363127,
-      "num": 363127,
-      "word": "第一次见液体大熊猫",
-      "onboard_time": 1683865652,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 358677,
@@ -523,11 +539,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 312884,
-      "num": 312884,
-      "word": "护心导演向长月烬明道歉",
-      "onboard_time": 1683867693,
-      "rank": 28,
+      "raw_hot": 310809,
+      "num": 310809,
+      "word": "肖战唐三vs周翊然唐三",
+      "onboard_time": 1683869249,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -657,6 +673,14 @@
       "onboard_time": 1683812731,
       "rank": 19,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 243843,
+      "num": 243843,
+      "word": "五月天武汉演唱会",
+      "onboard_time": 1683868471,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 242287,
@@ -795,14 +819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208224,
-      "num": 208224,
-      "word": "五月天武汉演唱会",
-      "onboard_time": 1683868471,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 205205,
       "num": 205205,
       "word": "上海下半年演唱会",
@@ -811,12 +827,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 205160,
+      "num": 205160,
+      "word": "你毕业后的第一份工作月薪有多少",
+      "onboard_time": 1683868769,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 203536,
       "num": 203536,
       "word": "猫被气的站起来跑步打人了",
       "onboard_time": 1683857492,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 202710,
+      "num": 202710,
+      "word": "家里做饭阿姨是985毕业的",
+      "onboard_time": 1683869428,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 198460,
@@ -1260,7 +1292,7 @@
     },
     {
       "raw_hot": 45162,
-      "num": 1582253,
+      "num": 1603020,
       "word": "高质量发展调研行",
       "onboard_time": 1683864393,
       "rank": 2,
