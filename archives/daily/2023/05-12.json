@@ -1,6 +1,6 @@
 {
   "startTime": 1683822124198,
-  "endTime": 1683854534423,
+  "endTime": 1683855864735,
   "band_list": [
     {
       "raw_hot": 3648870,
@@ -11,8 +11,8 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 2850254,
-      "num": 2850254,
+      "raw_hot": 3398233,
+      "num": 3398233,
       "word": "5121428",
       "onboard_time": 1683847525,
       "rank": 23,
@@ -59,6 +59,22 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 1541372,
+      "num": 1541372,
+      "word": "为什么年轻人爱上了用B站学习",
+      "onboard_time": 1683851971,
+      "rank": 5,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 1035542,
+      "num": 1035542,
+      "word": "邓紫棋说早知道我先化个妆",
+      "onboard_time": 1683851012,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1028140,
       "num": 433678,
       "word": "徐娇泳装",
@@ -67,28 +83,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 948537,
-      "num": 948537,
-      "word": "邓紫棋说早知道我先化个妆",
-      "onboard_time": 1683851012,
-      "rank": 4,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 940123,
       "num": 940123,
       "word": "汶川地震15周年",
       "onboard_time": 1683824421,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 933532,
-      "num": 933532,
-      "word": "为什么年轻人爱上了用B站学习",
-      "onboard_time": 1683851971,
-      "rank": 5,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 910923,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 623824,
+      "num": 623824,
+      "word": "知情人称列车命案凶器或藏在下腹部",
+      "onboard_time": 1683853471,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 572072,
       "num": 572072,
       "word": "长沙霸停数月车位女子道歉",
@@ -185,6 +193,14 @@
       "onboard_time": 1683806908,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 421608,
+      "num": 198459,
+      "word": "维金斯肋骨骨折",
+      "onboard_time": 1683854671,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 417589,
@@ -267,14 +283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 293226,
-      "num": 293226,
-      "word": "知情人称列车命案凶器或藏在下腹部",
-      "onboard_time": 1683853471,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 290146,
       "num": 290146,
       "word": "汪峰说自己简直太狗屎了",
@@ -329,6 +337,14 @@
       "onboard_time": 1683812731,
       "rank": 19,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 237864,
+      "num": 237864,
+      "word": "YG又来这套",
+      "onboard_time": 1683852813,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 237453,
@@ -395,14 +411,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 220960,
-      "num": 220960,
-      "word": "YG又来这套",
-      "onboard_time": 1683852813,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 215562,
       "num": 215562,
       "word": "rora",
@@ -417,6 +425,14 @@
       "onboard_time": 1683816751,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207020,
+      "num": 176941,
+      "word": "塔图姆 拉",
+      "onboard_time": 1683855447,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 205205,
@@ -507,6 +523,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163556,
+      "num": 163556,
+      "word": "灵隐寺千年七叶树开花",
+      "onboard_time": 1683855570,
+      "rank": 35,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 162164,
+      "num": 162164,
+      "word": "NBA季后赛",
+      "onboard_time": 1683854133,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161792,
       "num": 161792,
       "word": "bin说到做到",
@@ -523,12 +555,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153737,
-      "num": 153737,
-      "word": "NBA季后赛",
-      "onboard_time": 1683854133,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 155472,
+      "num": 155472,
+      "word": "四川泸定接连发生四次地震",
+      "onboard_time": 1683850231,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149269,
@@ -545,14 +577,6 @@
       "onboard_time": 1683838572,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 140049,
-      "num": 140049,
-      "word": "四川泸定接连发生四次地震",
-      "onboard_time": 1683850231,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139722,
@@ -625,6 +649,14 @@
       "onboard_time": 1683824719,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123133,
+      "num": 123133,
+      "word": "过劳肥是如何导致的",
+      "onboard_time": 1683855628,
+      "rank": 45,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 122648,

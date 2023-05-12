@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683854534423,
+  "endTime": 1683855864735,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -59,6 +59,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 3398233,
+      "num": 3398233,
+      "word": "5121428",
+      "onboard_time": 1683847525,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3075904,
       "num": 3075904,
       "word": "中秋国庆休8天上7天",
@@ -89,14 +97,6 @@
       "onboard_time": 1683775710,
       "rank": 31,
       "category": "综艺,网红"
-    },
-    {
-      "raw_hot": 2850254,
-      "num": 2850254,
-      "word": "5121428",
-      "onboard_time": 1683847525,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2752096,
@@ -683,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1541372,
+      "num": 1541372,
+      "word": "为什么年轻人爱上了用B站学习",
+      "onboard_time": 1683851971,
+      "rank": 5,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1540589,
       "num": 1540589,
       "word": "12306回应男子在火车上被持刀杀害",
@@ -1251,6 +1259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1035542,
+      "num": 1035542,
+      "word": "邓紫棋说早知道我先化个妆",
+      "onboard_time": 1683851012,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1032047,
       "num": 1032047,
       "word": "鹿晗张艺兴同杂志封面",
@@ -1379,14 +1395,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 948537,
-      "num": 948537,
-      "word": "邓紫棋说早知道我先化个妆",
-      "onboard_time": 1683851012,
-      "rank": 4,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 946338,
       "num": 946338,
       "word": "专家建议给生孩子的人发薪水",
@@ -1425,14 +1433,6 @@
       "onboard_time": 1683761183,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 933532,
-      "num": 933532,
-      "word": "为什么年轻人爱上了用B站学习",
-      "onboard_time": 1683851971,
-      "rank": 5,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 933025,
@@ -2112,6 +2112,14 @@
       "word": "杰克辣条已被取消阜南好人称号",
       "onboard_time": 1683642572,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 623824,
+      "num": 623824,
+      "word": "知情人称列车命案凶器或藏在下腹部",
+      "onboard_time": 1683853471,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -3153,6 +3161,14 @@
       "onboard_time": 1683705453,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 421608,
+      "num": 198459,
+      "word": "维金斯肋骨骨折",
+      "onboard_time": 1683854671,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 420489,
@@ -4867,14 +4883,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 293226,
-      "num": 293226,
-      "word": "知情人称列车命案凶器或藏在下腹部",
-      "onboard_time": 1683853471,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 292487,
       "num": 292487,
       "word": "庆余年2召集令",
@@ -5971,6 +5979,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 237864,
+      "num": 237864,
+      "word": "YG又来这套",
+      "onboard_time": 1683852813,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237481,
       "num": 237481,
       "word": "计算机二级",
@@ -6403,14 +6419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 220960,
-      "num": 220960,
-      "word": "YG又来这套",
-      "onboard_time": 1683852813,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 220564,
       "num": 220564,
       "word": "五月天",
@@ -6801,6 +6809,14 @@
       "onboard_time": 1683515488,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 207020,
+      "num": 176941,
+      "word": "塔图姆 拉",
+      "onboard_time": 1683855447,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 206880,
@@ -7899,12 +7915,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163556,
+      "num": 163556,
+      "word": "灵隐寺千年七叶树开花",
+      "onboard_time": 1683855570,
+      "rank": 35,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 163452,
       "num": 163452,
       "word": "王心凌唱歌吃到彩带",
       "onboard_time": 1683518189,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 162164,
+      "num": 162164,
+      "word": "NBA季后赛",
+      "onboard_time": 1683854133,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 162045,
@@ -8019,6 +8051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155472,
+      "num": 155472,
+      "word": "四川泸定接连发生四次地震",
+      "onboard_time": 1683850231,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154759,
       "num": 154759,
       "word": "蒋依依打卡淄博烧烤",
@@ -8041,14 +8081,6 @@
       "onboard_time": 1683620425,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 153737,
-      "num": 153737,
-      "word": "NBA季后赛",
-      "onboard_time": 1683854133,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 153589,
@@ -8344,14 +8376,6 @@
       "word": "男子地铁里晕倒军校学员暖心救助",
       "onboard_time": 1683765389,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140049,
-      "num": 140049,
-      "word": "四川泸定接连发生四次地震",
-      "onboard_time": 1683850231,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -8665,6 +8689,14 @@
       "onboard_time": 1683562587,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123133,
+      "num": 123133,
+      "word": "过劳肥是如何导致的",
+      "onboard_time": 1683855628,
+      "rank": 45,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 122579,
