@@ -1,6 +1,6 @@
 {
   "startTime": 1683822124198,
-  "endTime": 1683859310119,
+  "endTime": 1683861473978,
   "band_list": [
     {
       "raw_hot": 3648870,
@@ -16,6 +16,14 @@
       "word": "5121428",
       "onboard_time": 1683847525,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3010268,
+      "num": 3010268,
+      "word": "李大钊孙女",
+      "onboard_time": 1683858327,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -67,12 +75,12 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 1467295,
-      "num": 419506,
-      "word": "李大钊孙女",
-      "onboard_time": 1683858327,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 1314985,
+      "num": 1314985,
+      "word": "看老照片 停更",
+      "onboard_time": 1683856408,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 1048858,
@@ -139,14 +147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 721142,
-      "num": 416572,
-      "word": "看老照片 停更",
-      "onboard_time": 1683856408,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
       "raw_hot": 716885,
       "num": 716885,
       "word": "塔图姆 拉",
@@ -171,12 +171,36 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 658039,
+      "num": 614959,
+      "word": "不显瘦阿姨都不卖你",
+      "onboard_time": 1683859828,
+      "rank": 11,
+      "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 657061,
+      "num": 657061,
+      "word": "长月烬明原作者辟谣",
+      "onboard_time": 1683860066,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 652787,
       "num": 652787,
       "word": "BABYMONSTER出道名单",
       "onboard_time": 1683817652,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 625647,
+      "num": 625647,
+      "word": "周杰伦演唱会外男子被抢两张门票",
+      "onboard_time": 1683859467,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 577728,
@@ -227,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 467048,
+      "num": 467048,
+      "word": "男生和女生买房的区别",
+      "onboard_time": 1683852154,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 457940,
       "num": 457940,
       "word": "突然爆更很可能是他失业了",
@@ -236,19 +268,19 @@
     },
     {
       "raw_hot": 439414,
-      "num": 207693,
+      "num": 283022,
       "word": "灵隐寺千年七叶树开花",
       "onboard_time": 1683855570,
       "rank": 35,
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 422041,
-      "num": 422041,
-      "word": "男生和女生买房的区别",
-      "onboard_time": 1683852154,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 417075,
+      "num": 417075,
+      "word": "HYBE新男团鼻子",
+      "onboard_time": 1683859828,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 412994,
@@ -257,6 +289,14 @@
       "onboard_time": 1683815798,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 409513,
+      "num": 409513,
+      "word": "二阳",
+      "onboard_time": 1683859409,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407882,
@@ -299,12 +339,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 321962,
+      "num": 321962,
+      "word": "6岁娃指出狗主人错误被打成脑震荡",
+      "onboard_time": 1683857968,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320486,
       "num": 242585,
       "word": "人真的可以删除自己的记忆",
       "onboard_time": 1683815553,
       "rank": 20,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 314025,
+      "num": 314025,
+      "word": "斗罗大陆2",
+      "onboard_time": 1683859708,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 302271,
@@ -340,7 +396,7 @@
     },
     {
       "raw_hot": 279814,
-      "num": 205371,
+      "num": 231655,
       "word": "美国上百名童工在屠宰厂上夜班",
       "onboard_time": 1683856110,
       "rank": 25,
@@ -387,6 +443,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 242287,
+      "num": 242287,
+      "word": "为什么说散步是约会的开始",
+      "onboard_time": 1683859169,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 237864,
       "num": 237864,
       "word": "YG又来这套",
@@ -417,14 +481,6 @@
       "onboard_time": 1683850772,
       "rank": 25,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 234564,
-      "num": 204333,
-      "word": "6岁娃指出狗主人错误被打成脑震荡",
-      "onboard_time": 1683857968,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231266,
@@ -475,12 +531,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214094,
+      "num": 214094,
+      "word": "Steam禁止开小号欺凌初级玩家",
+      "onboard_time": 1683857551,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 212702,
       "num": 212702,
       "word": "白敬亭汉堡酱撒裤子上了",
       "onboard_time": 1683816751,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205746,
+      "num": 205746,
+      "word": "掘金vs太阳",
+      "onboard_time": 1683860730,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 205205,
@@ -497,6 +569,14 @@
       "onboard_time": 1683857492,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 201015,
+      "num": 201015,
+      "word": "为什么年轻人都不想卷了",
+      "onboard_time": 1683861149,
+      "rank": 31,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 198460,
@@ -555,6 +635,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 190584,
+      "num": 190584,
+      "word": "陶勇重新拿起手术刀",
+      "onboard_time": 1683861268,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186610,
       "num": 186610,
       "word": "无人机航拍时被鹰叼走",
@@ -571,12 +659,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 185361,
-      "num": 185361,
-      "word": "Steam禁止开小号欺凌初级玩家",
-      "onboard_time": 1683857551,
-      "rank": 37,
-      "category": "游戏"
+      "raw_hot": 183661,
+      "num": 183661,
+      "word": "王一博脱鞋也要插兜",
+      "onboard_time": 1683858987,
+      "rank": 34,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 179605,
@@ -585,6 +673,14 @@
       "onboard_time": 1683817830,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 178133,
+      "num": 178133,
+      "word": "刘宇宁是怎么火起来的",
+      "onboard_time": 1683861330,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 175550,
@@ -619,14 +715,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 166145,
-      "num": 166145,
-      "word": "王一博脱鞋也要插兜",
-      "onboard_time": 1683858987,
-      "rank": 34,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 164795,
       "num": 164795,
       "word": "为啥有的人坚持运动却不见瘦",
@@ -656,6 +744,14 @@
       "word": "狗狗失踪7年后回家主人煮饺子庆团圆",
       "onboard_time": 1683807927,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155998,
+      "num": 155998,
+      "word": "男子欲轻生谎称找朋友被的哥识破救下",
+      "onboard_time": 1683860969,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -689,14 +785,6 @@
       "onboard_time": 1683850411,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135861,
-      "num": 135861,
-      "word": "为什么说散步是约会的开始",
-      "onboard_time": 1683859169,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 135608,
@@ -777,6 +865,14 @@
       "onboard_time": 1683824719,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124146,
+      "num": 124146,
+      "word": "塔图姆自我救赎",
+      "onboard_time": 1683859828,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 122648,
