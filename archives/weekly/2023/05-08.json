@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683900902895,
+  "endTime": 1683902013641,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 2469874,
-      "num": 444129,
+      "num": 456510,
       "word": "王一博删照片",
       "onboard_time": 1683899130,
       "rank": 10,
@@ -753,6 +753,14 @@
       "onboard_time": 1683851971,
       "rank": 5,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 1541324,
+      "num": 1541324,
+      "word": "很体面但是工资不高的工作",
+      "onboard_time": 1683898890,
+      "rank": 3,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 1540589,
@@ -1915,14 +1923,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 806159,
-      "num": 806159,
-      "word": "很体面但是工资不高的工作",
-      "onboard_time": 1683898890,
-      "rank": 3,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 803185,
       "num": 803185,
       "word": "女子车位被邻居霸停数月直接焊死",
@@ -2457,6 +2457,14 @@
       "onboard_time": 1683807927,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 620616,
+      "num": 456341,
+      "word": "恒大公告许家印成被执行人",
+      "onboard_time": 1683901652,
+      "rank": 11,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 619076,
@@ -3203,6 +3211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 487270,
+      "num": 487270,
+      "word": "爸爸年轻时的工资是2000",
+      "onboard_time": 1683898411,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 485721,
       "num": 485721,
       "word": "日本地震",
@@ -3315,6 +3331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 462029,
+      "num": 462029,
+      "word": "跑男",
+      "onboard_time": 1683896489,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 459892,
       "num": 459892,
       "word": "巴厘岛情侣",
@@ -3337,14 +3361,6 @@
       "onboard_time": 1683804148,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 458310,
-      "num": 458310,
-      "word": "爸爸年轻时的工资是2000",
-      "onboard_time": 1683898411,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 456304,
@@ -3673,14 +3689,6 @@
       "onboard_time": 1683705453,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 421276,
-      "num": 421276,
-      "word": "跑男",
-      "onboard_time": 1683896489,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 420489,
@@ -4715,6 +4723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 346304,
+      "num": 346304,
+      "word": "INTO1首次撕名牌问题好多",
+      "onboard_time": 1683891507,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 346012,
       "num": 346012,
       "word": "泫雅武汉音乐节海报是P的",
@@ -5139,14 +5155,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 321119,
-      "num": 321119,
-      "word": "INTO1首次撕名牌问题好多",
-      "onboard_time": 1683891507,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 319198,
       "num": 236887,
       "word": "莱茵生物实控人被立案",
@@ -5201,6 +5209,14 @@
       "onboard_time": 1683673760,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 314844,
+      "num": 275965,
+      "word": "星汉灿烂开播前不被看好",
+      "onboard_time": 1683898829,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 314703,
@@ -5329,14 +5345,6 @@
       "onboard_time": 1683816694,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 307905,
-      "num": 275965,
-      "word": "星汉灿烂开播前不被看好",
-      "onboard_time": 1683898829,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 307030,
@@ -5897,6 +5905,14 @@
       "onboard_time": 1683889827,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 283114,
+      "num": 252275,
+      "word": "母亲节要送婆婆礼物吗",
+      "onboard_time": 1683900452,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 283048,
@@ -7027,6 +7043,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 236060,
+      "num": 236060,
+      "word": "银河护卫队",
+      "onboard_time": 1683900992,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 235863,
       "num": 235863,
       "word": "重孙帮临终太爷爷摘槐花了心愿",
@@ -7209,6 +7233,14 @@
       "onboard_time": 1683782488,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231337,
+      "num": 231337,
+      "word": "你相信有天性很坏的孩子吗",
+      "onboard_time": 1683898051,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 231266,
@@ -8043,6 +8075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200794,
+      "num": 200794,
+      "word": "为什么很多漂亮女生却单身",
+      "onboard_time": 1683901893,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 200672,
       "num": 200672,
       "word": "孩子被异物卡喉众人接力救助",
@@ -8113,6 +8153,14 @@
       "onboard_time": 1683680311,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198611,
+      "num": 198611,
+      "word": "妈妈让我辞职了",
+      "onboard_time": 1683899670,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 198547,
@@ -8995,6 +9043,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 168643,
+      "num": 168643,
+      "word": "妈妈和听力障碍女儿当9年同桌",
+      "onboard_time": 1683900152,
+      "rank": 38,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 168616,
       "num": 169517,
       "word": "约基奇53分",
@@ -9083,14 +9139,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 166037,
-      "num": 166037,
-      "word": "你相信有天性很坏的孩子吗",
-      "onboard_time": 1683898051,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 165887,
       "num": 165887,
       "word": "哪一瞬间意识到妈妈很爱你",
@@ -9171,28 +9219,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163544,
-      "num": 163544,
-      "word": "母亲节要送婆婆礼物吗",
-      "onboard_time": 1683900452,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 163452,
       "num": 163452,
       "word": "王心凌唱歌吃到彩带",
       "onboard_time": 1683518189,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 162799,
-      "num": 162799,
-      "word": "妈妈和听力障碍女儿当9年同桌",
-      "onboard_time": 1683900152,
-      "rank": 38,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 162164,
@@ -9755,6 +9787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140812,
+      "num": 140812,
+      "word": "唱跳俱佳的爱豆",
+      "onboard_time": 1683901112,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 140582,
       "num": 140582,
       "word": "一个人应该有什么样的爱好",
@@ -9905,14 +9945,6 @@
       "onboard_time": 1683472951,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 133808,
-      "num": 133808,
-      "word": "妈妈让我辞职了",
-      "onboard_time": 1683899670,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 133756,
@@ -10716,7 +10748,7 @@
     },
     {
       "raw_hot": 55219,
-      "num": 1022918,
+      "num": 1089493,
       "word": "第一视角看航天员进入天舟六号",
       "onboard_time": 1683898109,
       "rank": 2,
