@@ -1,6 +1,6 @@
 {
   "startTime": 1683908490327,
-  "endTime": 1683930810762,
+  "endTime": 1683933355475,
   "band_list": [
     {
       "raw_hot": 1765860,
@@ -203,6 +203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 224944,
+      "num": 163660,
+      "word": "如果产检发现孩子有问题你会留下吗",
+      "onboard_time": 1683932657,
+      "rank": 12,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 220317,
       "num": 220317,
       "word": "九鹭非香的女主",
@@ -283,6 +291,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 157425,
+      "num": 157425,
+      "word": "比较好的两性关系里女方是主导",
+      "onboard_time": 1683932718,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152848,
       "num": 152848,
       "word": "硕士求职客服岗被拒HR教改简历",
@@ -304,6 +320,14 @@
       "word": "泫雅武汉音乐节海报是P的",
       "onboard_time": 1683896310,
       "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 150816,
+      "num": 150816,
+      "word": "小伙努力3年无人问凭一首神曲逆袭",
+      "onboard_time": 1683887308,
+      "rank": 47,
       "category": "音乐"
     },
     {
@@ -337,6 +361,14 @@
       "onboard_time": 1683899670,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131032,
+      "num": 131032,
+      "word": "张亮儿子张天天15岁近照",
+      "onboard_time": 1683933319,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 127815,
@@ -379,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105051,
+      "num": 105051,
+      "word": "官方通报辛巴致榴莲变贵不实",
+      "onboard_time": 1683910762,
+      "rank": 44,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 104569,
       "num": 104569,
       "word": "上海3人造谣幼师卖淫被刑拘",
@@ -395,20 +435,36 @@
       "category": "影视"
     },
     {
-      "raw_hot": 81240,
-      "num": 81240,
-      "word": "官方通报辛巴致榴莲变贵不实",
-      "onboard_time": 1683910762,
-      "rank": 44,
-      "category": "社会新闻,财经"
+      "raw_hot": 90386,
+      "num": 76064,
+      "word": "官方回应重庆爷孙坠桥",
+      "onboard_time": 1683932657,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 75364,
-      "num": 75364,
+      "raw_hot": 76888,
+      "num": 76888,
       "word": "外交部回应美拟取消中国发展中国家地位",
       "onboard_time": 1683916334,
       "rank": 43,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 67846,
+      "num": 67846,
+      "word": "老爸老妈今晚睡不着了",
+      "onboard_time": 1683932718,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 66576,
+      "num": 66576,
+      "word": "男童爬出窗外邻居狂吼劝回",
+      "onboard_time": 1683933200,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64547,
@@ -419,20 +475,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 59442,
-      "num": 59442,
-      "word": "小伙努力3年无人问凭一首神曲逆袭",
-      "onboard_time": 1683887308,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 53175,
       "num": 91446,
       "word": "朋友问我塞尔达怎么还没通关",
       "onboard_time": 1683891687,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 51538,
+      "num": 51538,
+      "word": "杨绛才是活得通透的女人",
+      "onboard_time": 1683932598,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 41837,
