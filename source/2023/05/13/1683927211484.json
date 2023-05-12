@@ -1,0 +1,410 @@
+{
+  "runTime": 1683927211484,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 184572,
+        "num": 184572,
+        "word": "为什么很多漂亮女生却单身",
+        "onboard_time": 1683901893,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149006,
+        "num": 149006,
+        "word": "学生摔伤无人报警但满屏都是警",
+        "onboard_time": 1683907110,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7309,
+        "num": 111677,
+        "word": "第一视角看航天员进入天舟六号",
+        "onboard_time": 1683898109,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111002,
+        "num": 111002,
+        "word": "可乐男孩现已成为可乐博物馆馆长",
+        "onboard_time": 1683908366,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107916,
+        "num": 107916,
+        "word": "原来小燕子真的穿的花衣",
+        "onboard_time": 1683907587,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62736,
+        "num": 62736,
+        "word": "很体面但是工资不高的工作",
+        "onboard_time": 1683898890,
+        "rank": 5,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 50652,
+        "num": 50652,
+        "word": "一日为师周深为父",
+        "onboard_time": 1683906867,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49346,
+        "num": 49346,
+        "word": "韩国低出生率结果",
+        "onboard_time": 1683894690,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42581,
+        "num": 42581,
+        "word": "淄博男子驾车昏厥幸好遇到他们",
+        "onboard_time": 1683912680,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39176,
+        "num": 39176,
+        "word": "你相信有天性很坏的孩子吗",
+        "onboard_time": 1683898051,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89569,
+        "num": 38921,
+        "word": "王一博删照片",
+        "onboard_time": 1683899130,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52520,
+        "num": 38629,
+        "word": "广州宝马撞人案判决书披露作案动机",
+        "onboard_time": 1683904111,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48519,
+        "num": 38545,
+        "word": "陶勇医生 手术刀在我心里从未放下",
+        "onboard_time": 1683907647,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38178,
+        "num": 38178,
+        "word": "罗成 梦女",
+        "onboard_time": 1683895351,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 35813,
+        "num": 35813,
+        "word": "恒大公告许家印成被执行人",
+        "onboard_time": 1683901652,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 34242,
+        "num": 34242,
+        "word": "外交部回应美拟取消中国发展中国家地位",
+        "onboard_time": 1683916334,
+        "rank": 15,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 33453,
+        "num": 33453,
+        "word": "对不起发达国家这顶帽子中国戴不了",
+        "onboard_time": 1683885210,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 33257,
+        "num": 33257,
+        "word": "华晨宇五专台湾销量",
+        "onboard_time": 1683907886,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 32479,
+        "num": 32479,
+        "word": "爸爸年轻时的工资是2000",
+        "onboard_time": 1683898411,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30254,
+        "num": 30254,
+        "word": "出差十五夜",
+        "onboard_time": 1683905009,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70876,
+        "num": 29060,
+        "word": "田馥甄",
+        "onboard_time": 1683885510,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26651,
+        "num": 26651,
+        "word": "母亲节要送婆婆礼物吗",
+        "onboard_time": 1683900452,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25367,
+        "num": 25367,
+        "word": "AI出来后第一个失业的是孙燕姿",
+        "onboard_time": 1683892108,
+        "rank": 22,
+        "category": "科技,艺人"
+      },
+      {
+        "raw_hot": 25263,
+        "num": 25263,
+        "word": "妈妈染指甲被儿子说",
+        "onboard_time": 1683891449,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25176,
+        "num": 25176,
+        "word": "官方通报辛巴致榴莲变贵不实",
+        "onboard_time": 1683910762,
+        "rank": 24,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 24912,
+        "num": 24912,
+        "word": "盒马回应榴莲涨价",
+        "onboard_time": 1683905848,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22700,
+        "num": 22700,
+        "word": "原来两万块有这么厚",
+        "onboard_time": 1683883769,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22025,
+        "num": 22025,
+        "word": "向往的生活",
+        "onboard_time": 1683889889,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21912,
+        "num": 21912,
+        "word": "租的房子根本没必要买家具",
+        "onboard_time": 1683901535,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 21644,
+        "num": 21644,
+        "word": "X玖少年团成员前缀",
+        "onboard_time": 1683890427,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 69433,
+        "num": 21644,
+        "word": "五个女博士被立案调查",
+        "onboard_time": 1683897268,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21618,
+        "num": 21618,
+        "word": "九鹭非香的女主",
+        "onboard_time": 1683897389,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21600,
+        "num": 21600,
+        "word": "小伙努力3年无人问凭一首神曲逆袭",
+        "onboard_time": 1683887308,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21148,
+        "num": 21148,
+        "word": "星汉灿烂开播前不被看好",
+        "onboard_time": 1683898829,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20924,
+        "num": 20924,
+        "word": "恒大",
+        "onboard_time": 1683902369,
+        "rank": 34,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 19730,
+        "num": 19730,
+        "word": "上海3人造谣幼师卖淫被刑拘",
+        "onboard_time": 1683907826,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18782,
+        "num": 18782,
+        "word": "豆瓣评分人数TOP20电视剧",
+        "onboard_time": 1683902314,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18485,
+        "num": 18485,
+        "word": "硕士求职客服岗被拒HR教改简历",
+        "onboard_time": 1683883170,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 18285,
+        "num": 18285,
+        "word": "i love you guys",
+        "onboard_time": 1683903452,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17888,
+        "num": 17888,
+        "word": "其实我才是被照顾的那个",
+        "onboard_time": 1683906209,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17513,
+        "num": 17513,
+        "word": "手机后三位是你房子的面积",
+        "onboard_time": 1683891988,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16742,
+        "num": 16742,
+        "word": "妈妈让我辞职了",
+        "onboard_time": 1683899670,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16695,
+        "num": 16695,
+        "word": "一看就没有恋爱过的女生",
+        "onboard_time": 1683883890,
+        "rank": 42,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 15872,
+        "num": 15872,
+        "word": "泫雅武汉音乐节海报是P的",
+        "onboard_time": 1683896310,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 14454,
+        "num": 14454,
+        "word": "INTO1首次撕名牌问题好多",
+        "onboard_time": 1683891507,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14231,
+        "num": 14231,
+        "word": "JDG",
+        "onboard_time": 1683896008,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13248,
+        "num": 13248,
+        "word": "银河护卫队",
+        "onboard_time": 1683900992,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13047,
+        "num": 13047,
+        "word": "王子奇一种很新的撕漫男",
+        "onboard_time": 1683904171,
+        "rank": 47,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 11069,
+        "num": 13011,
+        "word": "夏日动漫版镰仓",
+        "onboard_time": 1683921732,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 8365,
+        "num": 12989,
+        "word": "奶香芋泥酱",
+        "onboard_time": 1683909204,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#4个维度打开未来之城#"
+    }
+  }
+}
