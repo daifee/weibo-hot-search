@@ -1,6 +1,6 @@
 {
   "startTime": 1683822124198,
-  "endTime": 1683866018953,
+  "endTime": 1683868533205,
   "band_list": [
     {
       "raw_hot": 3648870,
@@ -25,6 +25,14 @@
       "onboard_time": 1683858327,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2684191,
+      "num": 2684191,
+      "word": "孟羽童在格力月薪没过万",
+      "onboard_time": 1683865896,
+      "rank": 39,
+      "category": "财经,网红"
     },
     {
       "raw_hot": 2280760,
@@ -75,6 +83,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 1447789,
+      "num": 1447789,
+      "word": "韩国张凌赫",
+      "onboard_time": 1683866315,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1444496,
       "num": 1444496,
       "word": "庆余年海报疑似抄袭",
@@ -99,6 +115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1292404,
+      "num": 627347,
+      "word": "杨幂唐嫣赵丽颖的人生你想过谁的",
+      "onboard_time": 1683864569,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1270175,
       "num": 1270175,
       "word": "陶勇重新拿起手术刀",
@@ -113,14 +137,6 @@
       "onboard_time": 1683861330,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1179719,
-      "num": 627347,
-      "word": "杨幂唐嫣赵丽颖的人生你想过谁的",
-      "onboard_time": 1683864569,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1048858,
@@ -251,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 630629,
+      "num": 540359,
+      "word": "李国庆称签约孟羽童保底要400万",
+      "onboard_time": 1683867632,
+      "rank": 12,
+      "category": "财经,网红"
+    },
+    {
       "raw_hot": 577728,
       "num": 577728,
       "word": "维金斯肋骨骨折",
@@ -272,6 +296,22 @@
       "word": "二阳",
       "onboard_time": 1683859409,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 566914,
+      "num": 566914,
+      "word": "如何让领导知道你干了很多活",
+      "onboard_time": 1683864510,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 537176,
+      "num": 405081,
+      "word": "哪个部位的黑痣更易发生癌变成为黑色素瘤",
+      "onboard_time": 1683863190,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -323,14 +363,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 451308,
-      "num": 342785,
-      "word": "哪个部位的黑痣更易发生癌变成为黑色素瘤",
-      "onboard_time": 1683863190,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 441100,
       "num": 441100,
       "word": "护心导演点赞拉踩长月烬明内容",
@@ -345,6 +377,14 @@
       "onboard_time": 1683855570,
       "rank": 35,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 434612,
+      "num": 434612,
+      "word": "杜兰特老了",
+      "onboard_time": 1683867394,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 431937,
@@ -387,14 +427,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 372582,
-      "num": 372582,
-      "word": "如何让领导知道你干了很多活",
-      "onboard_time": 1683864510,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 372501,
       "num": 372501,
       "word": "韩国人有自己的台风蜕变之战",
@@ -403,12 +435,44 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 372188,
+      "num": 372188,
+      "word": "裸辞5年后面试第一家就入职了",
+      "onboard_time": 1683865355,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 370912,
+      "num": 370912,
+      "word": "掘金4比2淘汰太阳",
+      "onboard_time": 1683867095,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 363127,
+      "num": 363127,
+      "word": "第一次见液体大熊猫",
+      "onboard_time": 1683865652,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358677,
       "num": 358677,
       "word": "塞尔达",
       "onboard_time": 1683819271,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 355549,
+      "num": 355549,
+      "word": "斗罗大陆2演员全阵容",
+      "onboard_time": 1683868530,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 354164,
@@ -435,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321562,
+      "num": 321562,
+      "word": "汶川地震幸存女孩戴义肢玩滑板真美",
+      "onboard_time": 1683867155,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320486,
       "num": 242585,
       "word": "人真的可以删除自己的记忆",
@@ -443,20 +515,20 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 318336,
-      "num": 318336,
-      "word": "裸辞5年后面试第一家就入职了",
-      "onboard_time": 1683865355,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 314200,
       "num": 314200,
       "word": "当过一次伴娘就再也不想当了",
       "onboard_time": 1683862887,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 312884,
+      "num": 312884,
+      "word": "护心导演向长月烬明道歉",
+      "onboard_time": 1683867693,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 302271,
@@ -497,6 +569,14 @@
       "onboard_time": 1683808168,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285670,
+      "num": 285670,
+      "word": "塞尔达是天",
+      "onboard_time": 1683866254,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 279814,
@@ -587,6 +667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 241415,
+      "num": 241415,
+      "word": "乘风",
+      "onboard_time": 1683866614,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237864,
       "num": 237864,
       "word": "YG又来这套",
@@ -667,14 +755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 225026,
-      "num": 225026,
-      "word": "孟羽童在格力月薪没过万",
-      "onboard_time": 1683865896,
-      "rank": 39,
-      "category": "财经,网红"
-    },
-    {
       "raw_hot": 221810,
       "num": 221810,
       "word": "护士节",
@@ -713,6 +793,14 @@
       "onboard_time": 1683816751,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208224,
+      "num": 208224,
+      "word": "五月天武汉演唱会",
+      "onboard_time": 1683868471,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 205205,
@@ -865,14 +953,6 @@
       "onboard_time": 1683863249,
       "rank": 45,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 166537,
-      "num": 166537,
-      "word": "第一次见液体大熊猫",
-      "onboard_time": 1683865652,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164795,
@@ -1179,19 +1259,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 45162,
+      "num": 1582253,
+      "word": "高质量发展调研行",
+      "onboard_time": 1683864393,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44133,
       "num": 44133,
       "word": "室友记录下盲人博士学日语",
       "onboard_time": 1683820589,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39446,
-      "num": 1456338,
-      "word": "高质量发展调研行",
-      "onboard_time": 1683864393,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1236,6 +1316,9 @@
     },
     {
       "word": "#习近平回信勉励海军潜艇部队某艇员队#"
+    },
+    {
+      "word": "#4个维度打开未来之城#"
     }
   ]
 }
