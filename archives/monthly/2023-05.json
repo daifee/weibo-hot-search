@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683965968349,
+  "endTime": 1683966811724,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -2915,6 +2915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1196038,
+      "num": 481396,
+      "word": "浪姐一公分数 离谱",
+      "onboard_time": 1683962550,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1194913,
       "num": 1194913,
       "word": "肖战工作室是懂文案的",
@@ -3187,14 +3195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1119734,
-      "num": 481396,
-      "word": "浪姐一公分数 离谱",
-      "onboard_time": 1683962550,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1118927,
       "num": 1118927,
       "word": "南京女大学生被害案罪犯洪峤被执行死刑",
@@ -3323,6 +3323,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1086421,
+      "num": 1086421,
+      "word": "郑秀妍淘汰",
+      "onboard_time": 1683962248,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1086163,
       "num": 1086163,
       "word": "瘦了二十斤后手部的变化",
@@ -3448,14 +3456,6 @@
       "word": "娜扎 把恋爱脑摔碎",
       "onboard_time": 1683605249,
       "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1058843,
-      "num": 1058843,
-      "word": "郑秀妍淘汰",
-      "onboard_time": 1683962248,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -5091,6 +5091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 718690,
+      "num": 718690,
+      "word": "难怪徐志胜会有女朋友",
+      "onboard_time": 1683962068,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 718515,
       "num": 718515,
       "word": "五迷抵制黄牛",
@@ -5745,6 +5753,14 @@
       "onboard_time": 1683371190,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 633145,
+      "num": 222728,
+      "word": "难怪贾静雯生气",
+      "onboard_time": 1683962068,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 632654,
@@ -6643,14 +6659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 556655,
-      "num": 189826,
-      "word": "难怪贾静雯生气",
-      "onboard_time": 1683962068,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 556295,
       "num": 556295,
       "word": "游客手机掉西湖被要1500元打捞费",
@@ -7220,7 +7228,7 @@
     },
     {
       "raw_hot": 519265,
-      "num": 155136,
+      "num": 190451,
       "word": "林一ins人气",
       "onboard_time": 1683963571,
       "rank": 25,
@@ -7273,14 +7281,6 @@
       "onboard_time": 1683690512,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 516586,
-      "num": 516586,
-      "word": "难怪徐志胜会有女朋友",
-      "onboard_time": 1683962068,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 516332,
@@ -8540,7 +8540,7 @@
     },
     {
       "raw_hot": 437178,
-      "num": 126498,
+      "num": 137892,
       "word": "曾黎张嘉倪脸颊贴贴",
       "onboard_time": 1683964708,
       "rank": 32,
@@ -8561,6 +8561,14 @@
       "onboard_time": 1683789690,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 435694,
+      "num": 435694,
+      "word": "英国酒吧竟然放家有儿女主题曲",
+      "onboard_time": 1683963810,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 435239,
@@ -8747,6 +8755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 427722,
+      "num": 427722,
+      "word": "浙FD39915为你点赞",
+      "onboard_time": 1683963268,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 427266,
       "num": 172788,
       "word": "这个家没周深得禁",
@@ -8849,14 +8865,6 @@
       "onboard_time": 1683524610,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 424038,
-      "num": 424038,
-      "word": "英国酒吧竟然放家有儿女主题曲",
-      "onboard_time": 1683963810,
-      "rank": 8,
-      "category": "幽默"
     },
     {
       "raw_hot": 423748,
@@ -9025,14 +9033,6 @@
       "onboard_time": 1683378630,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 413943,
-      "num": 413943,
-      "word": "浙FD39915为你点赞",
-      "onboard_time": 1683963268,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 413853,
@@ -9801,6 +9801,14 @@
       "onboard_time": 1683540812,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 385071,
+      "num": 124591,
+      "word": "龚琳娜 我不是粉红色的女孩",
+      "onboard_time": 1683965370,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 384818,
@@ -12755,14 +12763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 302813,
-      "num": 124591,
-      "word": "龚琳娜 我不是粉红色的女孩",
-      "onboard_time": 1683965370,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 302806,
       "num": 302806,
       "word": "杨洋在KTV吃面",
@@ -14353,6 +14353,14 @@
       "onboard_time": 1682938169,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 269995,
+      "num": 119135,
+      "word": "洪欣在评论区的留言",
+      "onboard_time": 1683966628,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 269915,
@@ -16187,6 +16195,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 239995,
+      "num": 239995,
+      "word": "塞尔达传说 星穹铁道",
+      "onboard_time": 1683964050,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 239816,
       "num": 239816,
       "word": "情绪低落时的解压方式",
@@ -17795,6 +17811,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 217737,
+      "num": 209027,
+      "word": "长空之王",
+      "onboard_time": 1683015684,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217721,
       "num": 217721,
       "word": "官方通报哈尔滨一房屋私拆承重墙",
@@ -18147,14 +18171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212885,
-      "num": 212885,
-      "word": "塞尔达传说 星穹铁道",
-      "onboard_time": 1683964050,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 212878,
       "num": 212878,
       "word": "王子奇一种很新的撕漫男",
@@ -18449,14 +18465,6 @@
       "onboard_time": 1683599666,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209027,
-      "num": 209027,
-      "word": "长空之王",
-      "onboard_time": 1683015684,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 208923,
@@ -22835,6 +22843,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 154615,
+      "num": 135728,
+      "word": "婚宴结束新娘家人笑着说我们走啦",
+      "onboard_time": 1683965428,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154560,
       "num": 172773,
       "word": "cp29场照被炼进AI模型",
@@ -23601,6 +23617,14 @@
       "onboard_time": 1683682948,
       "rank": 45,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 142673,
+      "num": 142673,
+      "word": "高中英语教资面试",
+      "onboard_time": 1683965668,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 142481,
@@ -24483,6 +24507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128383,
+      "num": 128383,
+      "word": "频繁的聊天会有恋爱的错觉吗",
+      "onboard_time": 1683966628,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 128285,
       "num": 128285,
       "word": "山东景区霸气公告称看不到景观退款",
@@ -24563,14 +24595,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 126552,
-      "num": 126552,
-      "word": "高中英语教资面试",
-      "onboard_time": 1683965668,
-      "rank": 31,
-      "category": "教育"
-    },
-    {
       "raw_hot": 126416,
       "num": 126416,
       "word": "警方回应网传男子找16岁怀孕女友",
@@ -24609,6 +24633,14 @@
       "onboard_time": 1683859828,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125283,
+      "num": 125283,
+      "word": "官宣之后被老爸说哭了",
+      "onboard_time": 1683963449,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 125186,
@@ -24785,6 +24817,14 @@
       "onboard_time": 1683087990,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 122040,
+      "num": 123896,
+      "word": "申花",
+      "onboard_time": 1683965790,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 122027,
@@ -25363,14 +25403,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 105869,
-      "num": 124610,
-      "word": "官宣之后被老爸说哭了",
-      "onboard_time": 1683963449,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 105792,
       "num": 105792,
       "word": "热火3比2尼克斯",
@@ -25417,14 +25449,6 @@
       "onboard_time": 1682866411,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 104447,
-      "num": 124517,
-      "word": "婚宴结束新娘家人笑着说我们走啦",
-      "onboard_time": 1683965428,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104394,
@@ -25497,14 +25521,6 @@
       "onboard_time": 1682897240,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 102113,
-      "num": 123896,
-      "word": "申花",
-      "onboard_time": 1683965790,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 102038,
@@ -27185,6 +27201,14 @@
       "onboard_time": 1683367229,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 16915,
+      "num": 1284409,
+      "word": "关注2023中国中亚五国峰会",
+      "onboard_time": 1683966509,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15606,
