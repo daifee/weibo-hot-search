@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683954921478,
+  "endTime": 1683956019733,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3337298,
+      "num": 3337298,
+      "word": "龙拳 尬",
+      "onboard_time": 1683953129,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3328802,
       "num": 2412372,
       "word": "妺女",
@@ -273,14 +281,6 @@
       "onboard_time": 1683865896,
       "rank": 39,
       "category": "财经,网红"
-    },
-    {
-      "raw_hot": 2908797,
-      "num": 2908797,
-      "word": "龙拳 尬",
-      "onboard_time": 1683953129,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 2904035,
@@ -955,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2066844,
+      "num": 2066844,
+      "word": "花海 神仙舞台",
+      "onboard_time": 1683952590,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2064776,
       "num": 669778,
       "word": "徐娇泳装",
@@ -1121,6 +1129,14 @@
       "onboard_time": 1683011906,
       "rank": 20,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 1940239,
+      "num": 1940239,
+      "word": "花海居然输了",
+      "onboard_time": 1683955349,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1937119,
@@ -1417,6 +1433,14 @@
       "onboard_time": 1683503487,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1765436,
+      "num": 1765436,
+      "word": "problem怎么会输给龙拳",
+      "onboard_time": 1683953493,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1762220,
@@ -1737,14 +1761,6 @@
       "onboard_time": 1683550350,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1589742,
-      "num": 1589742,
-      "word": "花海 神仙舞台",
-      "onboard_time": 1683952590,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1588567,
@@ -2211,14 +2227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1417714,
-      "num": 1417714,
-      "word": "problem怎么会输给龙拳",
-      "onboard_time": 1683953493,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1416556,
       "num": 1416556,
       "word": "挖呀挖走红的桃子老师称很焦虑",
@@ -2369,6 +2377,14 @@
       "onboard_time": 1683157886,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1351103,
+      "num": 1351103,
+      "word": "朱珠绝美",
+      "onboard_time": 1683954690,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 1350820,
@@ -3489,6 +3505,14 @@
       "onboard_time": 1683371791,
       "rank": 11,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1040248,
+      "num": 400382,
+      "word": "徐怀钰划水",
+      "onboard_time": 1683954868,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 1039827,
@@ -6731,6 +6755,14 @@
       "category": "财经,艺人"
     },
     {
+      "raw_hot": 542859,
+      "num": 295305,
+      "word": "王一博删照片原因",
+      "onboard_time": 1683954269,
+      "rank": 26,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 542836,
       "num": 542836,
       "word": "湖人晋级西部决赛",
@@ -7489,6 +7521,14 @@
       "onboard_time": 1683287789,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 487655,
+      "num": 487655,
+      "word": "詹姆斯被打",
+      "onboard_time": 1683954330,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 487270,
@@ -9235,6 +9275,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 398958,
+      "num": 398958,
+      "word": "西决",
+      "onboard_time": 1683955409,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 398917,
       "num": 398917,
       "word": "BLACKPINK出发新加坡",
@@ -10129,14 +10177,6 @@
       "onboard_time": 1682947890,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 365110,
-      "num": 266867,
-      "word": "朱珠绝美",
-      "onboard_time": 1683954690,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 364915,
@@ -11121,14 +11161,6 @@
       "onboard_time": 1683511647,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 339180,
-      "num": 265071,
-      "word": "王一博删照片原因",
-      "onboard_time": 1683954269,
-      "rank": 26,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 339177,
@@ -12227,6 +12259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 310676,
+      "num": 310676,
+      "word": "湖人场边全是明星",
+      "onboard_time": 1683953851,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 310666,
       "num": 310666,
       "word": "为了考上编制可以有多努力",
@@ -12771,14 +12811,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 297596,
-      "num": 297596,
-      "word": "詹姆斯被打",
-      "onboard_time": 1683954330,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 297560,
       "num": 297560,
       "word": "奔跑吧全员晒团队合照",
@@ -12833,14 +12865,6 @@
       "onboard_time": 1683502884,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 296382,
-      "num": 247644,
-      "word": "湖人场边全是明星",
-      "onboard_time": 1683953851,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 296221,
@@ -13665,6 +13689,14 @@
       "onboard_time": 1683116968,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 279833,
+      "num": 248145,
+      "word": "张杰巡演沈阳郑州加场",
+      "onboard_time": 1683955048,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 279830,
@@ -16523,6 +16555,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 232694,
+      "num": 232694,
+      "word": "problem好女团",
+      "onboard_time": 1683955829,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232650,
       "num": 319185,
       "word": "大叔8年进山捡垃圾13900余斤",
@@ -17729,6 +17769,14 @@
       "onboard_time": 1683356009,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215035,
+      "num": 215035,
+      "word": "闺蜜和男友同时约你你会选谁",
+      "onboard_time": 1683954993,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 214923,
@@ -21179,6 +21227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173347,
+      "num": 173347,
+      "word": "多地婚姻登记处520正常上班",
+      "onboard_time": 1683955769,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173094,
       "num": 173094,
       "word": "漫长的季节豆瓣涨分9.3",
@@ -21452,7 +21508,7 @@
     },
     {
       "raw_hot": 169300,
-      "num": 169300,
+      "num": 172036,
       "word": "时空中的绘旅人",
       "onboard_time": 1683954451,
       "rank": 46,
@@ -21689,14 +21745,6 @@
       "onboard_time": 1683035498,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 166772,
-      "num": 166772,
-      "word": "徐怀钰划水",
-      "onboard_time": 1683954868,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 166534,
@@ -22908,7 +22956,7 @@
     },
     {
       "raw_hot": 150111,
-      "num": 166691,
+      "num": 170943,
       "word": "九尾清清对话国家级非遗传承人",
       "onboard_time": 1683952226,
       "rank": 44,
@@ -24081,6 +24129,14 @@
       "onboard_time": 1683377069,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129343,
+      "num": 172485,
+      "word": "星穹铁道景元",
+      "onboard_time": 1683956010,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 129153,
@@ -26156,7 +26212,7 @@
     },
     {
       "raw_hot": 55219,
-      "num": 1767962,
+      "num": 1974032,
       "word": "第一视角看航天员进入天舟六号",
       "onboard_time": 1683898109,
       "rank": 2,
@@ -26966,6 +27022,9 @@
     },
     {
       "word": "#京津冀发展有了新目标#"
+    },
+    {
+      "word": "#深入推进京津冀协同发展#"
     }
   ]
 }
