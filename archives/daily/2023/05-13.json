@@ -1,6 +1,6 @@
 {
   "startTime": 1683908490327,
-  "endTime": 1683959605973,
+  "endTime": 1683962092198,
   "band_list": [
     {
       "raw_hot": 4066324,
@@ -35,20 +35,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2873099,
+      "num": 2873099,
+      "word": "花海居然输了",
+      "onboard_time": 1683955349,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2851068,
       "num": 2851068,
       "word": "武汉太阳",
       "onboard_time": 1683949648,
       "rank": 0,
       "category": "自然,社会新闻"
-    },
-    {
-      "raw_hot": 2601797,
-      "num": 2601797,
-      "word": "花海居然输了",
-      "onboard_time": 1683955349,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 2550022,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1656100,
+      "num": 1656100,
+      "word": "徐怀钰 贾静雯",
+      "onboard_time": 1683960209,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1608119,
       "num": 1608119,
       "word": "浪姐4出场费",
@@ -179,6 +187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1167926,
+      "num": 1167926,
+      "word": "男子淄博吃烧烤吐槽扇贝肉指甲大",
+      "onboard_time": 1683958350,
+      "rank": 17,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1085505,
       "num": 1085505,
       "word": "学生摔伤无人报警但满屏都是警",
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 1021436,
-      "num": 381153,
+      "num": 457790,
       "word": "贾静雯表情管理满分",
       "onboard_time": 1683957150,
       "rank": 12,
@@ -387,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 501203,
+      "num": 501203,
+      "word": "当代三大合法赌博",
+      "onboard_time": 1683959070,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 491619,
       "num": 218115,
       "word": "田馥甄",
@@ -411,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 482612,
+      "num": 197429,
+      "word": "向往的生活没有下期预告",
+      "onboard_time": 1683959787,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 480725,
       "num": 232694,
       "word": "problem好女团",
@@ -423,6 +455,14 @@
       "num": 193531,
       "word": "瞿颖高音",
       "onboard_time": 1683958169,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 475491,
+      "num": 183209,
+      "word": "芝芙跺脚",
+      "onboard_time": 1683960149,
       "rank": 25,
       "category": "综艺"
     },
@@ -803,14 +843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 250404,
-      "num": 250404,
-      "word": "男子淄博吃烧烤吐槽扇贝肉指甲大",
-      "onboard_time": 1683958350,
-      "rank": 17,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 243556,
       "num": 243556,
       "word": "热火vs尼克斯",
@@ -915,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209380,
+      "num": 136385,
+      "word": "江珊说赵露思像自己女儿",
+      "onboard_time": 1683959968,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205875,
       "num": 205875,
       "word": "四版桑延",
@@ -937,6 +977,14 @@
       "onboard_time": 1683936746,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201356,
+      "num": 201356,
+      "word": "谷爱凌林孝埈等获冬运中心表彰",
+      "onboard_time": 1683961408,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 201042,
@@ -979,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193627,
+      "num": 134903,
+      "word": "浪姐4今日排名变化",
+      "onboard_time": 1683961707,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191135,
       "num": 171082,
       "word": "老爸老妈今晚睡不着了",
@@ -995,12 +1051,28 @@
       "category": "其它"
     },
     {
+      "raw_hot": 189390,
+      "num": 189390,
+      "word": "国内首条城市空轨建成试跑",
+      "onboard_time": 1683960327,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186624,
       "num": 186624,
       "word": "曾经看不起现在却离不开的东西",
       "onboard_time": 1683937948,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 185681,
+      "num": 134580,
+      "word": "期待叮叮当当",
+      "onboard_time": 1683960748,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 185154,
@@ -1211,14 +1283,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 145856,
-      "num": 145856,
-      "word": "当代三大合法赌博",
-      "onboard_time": 1683959070,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 143337,
       "num": 143337,
       "word": "陶勇回应上热搜",
@@ -1297,6 +1361,22 @@
       "onboard_time": 1683942810,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 132297,
+      "num": 132297,
+      "word": "难怪徐志胜会有女朋友",
+      "onboard_time": 1683962068,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 129629,
+      "num": 129629,
+      "word": "难怪贾静雯生气",
+      "onboard_time": 1683962068,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 129343,
@@ -1387,6 +1467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 95175,
+      "num": 128490,
+      "word": "椒麻低脂口水鸡",
+      "onboard_time": 1683960448,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 93646,
       "num": 129643,
       "word": "2023KPL春季赛总决赛",
@@ -1401,6 +1489,14 @@
       "onboard_time": 1683916334,
       "rank": 43,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 75990,
+      "num": 127347,
+      "word": "王泪玩家开始造高达了",
+      "onboard_time": 1683961048,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 69833,
