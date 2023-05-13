@@ -1,0 +1,410 @@
+{
+  "runTime": 1683963217040,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2873986,
+        "num": 2873986,
+        "word": "花海居然输了",
+        "onboard_time": 1683955349,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1266318,
+        "num": 1266318,
+        "word": "男子淄博吃烧烤吐槽扇贝肉指甲大",
+        "onboard_time": 1683958350,
+        "rank": 1,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 6974,
+        "num": 963430,
+        "word": "第一视角看航天员进入天舟六号",
+        "onboard_time": 1683898109,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2188018,
+        "num": 961273,
+        "word": "谢娜 用力过猛",
+        "onboard_time": 1683956190,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 952945,
+        "num": 952945,
+        "word": "武汉太阳",
+        "onboard_time": 1683949648,
+        "rank": 4,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 570776,
+        "num": 570776,
+        "word": "当代三大合法赌博",
+        "onboard_time": 1683959070,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1546305,
+        "num": 570378,
+        "word": "徐怀钰 贾静雯",
+        "onboard_time": 1683960209,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 545860,
+        "num": 545860,
+        "word": "被婆婆压身下数落女子丈夫出国读博",
+        "onboard_time": 1683940529,
+        "rank": 7,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 481396,
+        "num": 481396,
+        "word": "浪姐一公分数 离谱",
+        "onboard_time": 1683962550,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445692,
+        "num": 445692,
+        "word": "向往的生活没有下期预告",
+        "onboard_time": 1683959787,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 680856,
+        "num": 413327,
+        "word": "美依礼芽男粉呐喊惊到黄晓明",
+        "onboard_time": 1683958049,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1050825,
+        "num": 406315,
+        "word": "洪欣的致歉信不是繁体字",
+        "onboard_time": 1683951507,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371514,
+        "num": 371514,
+        "word": "谷爱凌林孝埈等获冬运中心表彰",
+        "onboard_time": 1683961408,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1276305,
+        "num": 324582,
+        "word": "徐怀钰划水",
+        "onboard_time": 1683954868,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273857,
+        "num": 273857,
+        "word": "原来十斤肉有这么多",
+        "onboard_time": 1683947426,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235015,
+        "num": 235015,
+        "word": "湖人淘汰勇士",
+        "onboard_time": 1683953311,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1104495,
+        "num": 233087,
+        "word": "朱珠绝美",
+        "onboard_time": 1683954690,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219205,
+        "num": 219205,
+        "word": "詹姆斯被打",
+        "onboard_time": 1683954330,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195855,
+        "num": 195855,
+        "word": "疑似上海雇主14万月薪请保姆",
+        "onboard_time": 1683941789,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1009669,
+        "num": 195120,
+        "word": "龙拳 尬",
+        "onboard_time": 1683953129,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 607596,
+        "num": 186514,
+        "word": "洪欣张丹峰道歉",
+        "onboard_time": 1683941127,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294364,
+        "num": 182682,
+        "word": "月薪1万和5万的差别",
+        "onboard_time": 1683956130,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 700381,
+        "num": 180096,
+        "word": "贾静雯表情管理满分",
+        "onboard_time": 1683957150,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 543226,
+        "num": 172682,
+        "word": "花海 神仙舞台",
+        "onboard_time": 1683952590,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170466,
+        "num": 170466,
+        "word": "母亲节送什么",
+        "onboard_time": 1683943889,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 445452,
+        "num": 163209,
+        "word": "五月天门票没和黄牛勾结",
+        "onboard_time": 1683957990,
+        "rank": 25,
+        "category": "艺人,音乐"
+      },
+      {
+        "raw_hot": 438785,
+        "num": 162181,
+        "word": "郑秀妍淘汰",
+        "onboard_time": 1683962248,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147961,
+        "num": 147961,
+        "word": "国内首条城市空轨建成试跑",
+        "onboard_time": 1683960327,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137145,
+        "num": 137145,
+        "word": "游客深夜堵车文旅局冒雪上山送物资",
+        "onboard_time": 1683962489,
+        "rank": 28,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 133830,
+        "num": 133830,
+        "word": "前任发微信说明天要结婚了",
+        "onboard_time": 1683944429,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 433214,
+        "num": 132753,
+        "word": "难怪贾静雯生气",
+        "onboard_time": 1683962068,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374591,
+        "num": 130954,
+        "word": "内娱明星ins人气",
+        "onboard_time": 1683956851,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 373688,
+        "num": 130130,
+        "word": "成毅南京",
+        "onboard_time": 1683963026,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 370132,
+        "num": 128722,
+        "word": "芝芙跺脚",
+        "onboard_time": 1683960149,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370170,
+        "num": 125643,
+        "word": "problem怎么会输给龙拳",
+        "onboard_time": 1683953493,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125493,
+        "num": 125493,
+        "word": "男童酒店客房误食用过的安全套",
+        "onboard_time": 1683943467,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106732,
+        "num": 106732,
+        "word": "孕妇羊水破裂怕弄脏出租主动加钱",
+        "onboard_time": 1683941489,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104342,
+        "num": 104342,
+        "word": "里夫斯压哨三分",
+        "onboard_time": 1683962189,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103574,
+        "num": 103574,
+        "word": "湖人场边全是明星",
+        "onboard_time": 1683953851,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102470,
+        "num": 102470,
+        "word": "某考研机构欲花百万请孟羽童代言",
+        "onboard_time": 1683947369,
+        "rank": 39,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 363410,
+        "num": 102327,
+        "word": "颜九 温精灵",
+        "onboard_time": 1683933921,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 262387,
+        "num": 102064,
+        "word": "浪姐4今日排名变化",
+        "onboard_time": 1683961707,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228172,
+        "num": 101733,
+        "word": "这个家没周深得禁",
+        "onboard_time": 1683956369,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227983,
+        "num": 101472,
+        "word": "王一博删照片原因",
+        "onboard_time": 1683954269,
+        "rank": 43,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 188919,
+        "num": 101353,
+        "word": "江珊说赵露思像自己女儿",
+        "onboard_time": 1683959968,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34674,
+        "num": 101050,
+        "word": "曾黎分享武汉的日晕",
+        "onboard_time": 1683963026,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184394,
+        "num": 100575,
+        "word": "难怪徐志胜会有女朋友",
+        "onboard_time": 1683962068,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100557,
+        "num": 100557,
+        "word": "教资面试",
+        "onboard_time": 1683935305,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 57020,
+        "num": 100349,
+        "word": "星穹铁道景元",
+        "onboard_time": 1683956010,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 54986,
+        "num": 100128,
+        "word": "王泪玩家开始造高达了",
+        "onboard_time": 1683961048,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入推进京津冀协同发展#"
+    }
+  }
+}
