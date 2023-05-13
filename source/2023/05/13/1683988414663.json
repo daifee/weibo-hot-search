@@ -1,0 +1,410 @@
+{
+  "runTime": 1683988414663,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2158493,
+        "num": 2158493,
+        "word": "浪姐 79分21秒",
+        "onboard_time": 1683975569,
+        "rank": 0,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 3077672,
+        "num": 2046539,
+        "word": "和博士约会接吻后当晚被删了",
+        "onboard_time": 1683984990,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214600,
+        "num": 1752755,
+        "word": "KPL总决赛",
+        "onboard_time": 1683973587,
+        "rank": 2,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1730528,
+        "num": 1730528,
+        "word": "王源看到了穿婚纱来的粉丝",
+        "onboard_time": 1683984030,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1549967,
+        "num": 1549967,
+        "word": "王俊凯去香港看周杰伦",
+        "onboard_time": 1683986013,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1279415,
+        "num": 1279415,
+        "word": "颜九再回应",
+        "onboard_time": 1683983428,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 479282,
+        "num": 1270629,
+        "word": "杨鸣",
+        "onboard_time": 1683986855,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 454072,
+        "num": 1141480,
+        "word": "淄博八大局知名麻辣串疑被房东赶走",
+        "onboard_time": 1683980668,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351206,
+        "num": 1075326,
+        "word": "2儿童随防护窗坠落家人发声",
+        "onboard_time": 1683987092,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212587,
+        "num": 981571,
+        "word": "医院回应男子倒提婴儿",
+        "onboard_time": 1683973046,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1548666,
+        "num": 925748,
+        "word": "木子洋的CK内裤是假的",
+        "onboard_time": 1683985230,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 885189,
+        "num": 885189,
+        "word": "赵露思 瘦而不柴",
+        "onboard_time": 1683975149,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 856146,
+        "num": 856146,
+        "word": "疑似美依礼芽翻译炒CP",
+        "onboard_time": 1683987031,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 743380,
+        "num": 743380,
+        "word": "拿到拆迁款前几天人去世了",
+        "onboard_time": 1683977367,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698534,
+        "num": 698534,
+        "word": "狼队八冠王",
+        "onboard_time": 1683985290,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 587351,
+        "num": 587351,
+        "word": "花海居然输了",
+        "onboard_time": 1683955349,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441930,
+        "num": 441930,
+        "word": "Fly FMVP",
+        "onboard_time": 1683985173,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 286728,
+        "num": 286728,
+        "word": "科颜氏 原神",
+        "onboard_time": 1683981511,
+        "rank": 17,
+        "category": "游戏,美妆"
+      },
+      {
+        "raw_hot": 560658,
+        "num": 286621,
+        "word": "陈意涵问修杰楷你在哪儿",
+        "onboard_time": 1683971247,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282454,
+        "num": 282454,
+        "word": "花楼",
+        "onboard_time": 1683982471,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 504406,
+        "num": 280711,
+        "word": "娜扎生图",
+        "onboard_time": 1683982169,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540801,
+        "num": 259468,
+        "word": "怪不得美依礼芽努力学中文",
+        "onboard_time": 1683982409,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440715,
+        "num": 250080,
+        "word": "庆余年2是懂防路透的",
+        "onboard_time": 1683984575,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236574,
+        "num": 236574,
+        "word": "辽宁男篮vs浙江男篮",
+        "onboard_time": 1683979650,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226803,
+        "num": 226803,
+        "word": "男友变心姑娘把他送的黄金卖了14万",
+        "onboard_time": 1683981028,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376722,
+        "num": 224071,
+        "word": "虞书欣帮爷爷拍照",
+        "onboard_time": 1683983310,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370148,
+        "num": 214267,
+        "word": "侯明昊回应裤子透光",
+        "onboard_time": 1683987392,
+        "rank": 26,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 361653,
+        "num": 208212,
+        "word": "难怪贾静雯生气",
+        "onboard_time": 1683962068,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190510,
+        "num": 190510,
+        "word": "KPL冠军教练再添一员",
+        "onboard_time": 1683986314,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181294,
+        "num": 181294,
+        "word": "北京开展黄牛非法倒票专项整治",
+        "onboard_time": 1683987272,
+        "rank": 29,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 345366,
+        "num": 179401,
+        "word": "谢娜 用力过猛",
+        "onboard_time": 1683956190,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339441,
+        "num": 178429,
+        "word": "李荣浩第一次吃乌梅子酱",
+        "onboard_time": 1683968487,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177184,
+        "num": 177184,
+        "word": "好喜欢这个助学金的名字",
+        "onboard_time": 1683978626,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 298744,
+        "num": 170985,
+        "word": "浪姐一公分数 离谱",
+        "onboard_time": 1683962550,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163673,
+        "num": 163673,
+        "word": "对抗路还得看Fly",
+        "onboard_time": 1683984271,
+        "rank": 34,
+        "category": "游戏,科技"
+      },
+      {
+        "raw_hot": 270091,
+        "num": 163019,
+        "word": "天官赐福",
+        "onboard_time": 1683971369,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 264386,
+        "num": 162955,
+        "word": "王源粉色双辫",
+        "onboard_time": 1683983250,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162146,
+        "num": 162146,
+        "word": "WB对战狼队",
+        "onboard_time": 1683971191,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157162,
+        "num": 157162,
+        "word": "GEN对战T1",
+        "onboard_time": 1683984931,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154536,
+        "num": 154536,
+        "word": "Fly没有求婚",
+        "onboard_time": 1683988113,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 256373,
+        "num": 151781,
+        "word": "刘雅瑟 油",
+        "onboard_time": 1683967109,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209974,
+        "num": 148807,
+        "word": "周杰伦倒影MV",
+        "onboard_time": 1683983790,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204292,
+        "num": 145059,
+        "word": "NCT澳门",
+        "onboard_time": 1683983129,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217744,
+        "num": 139854,
+        "word": "瞿颖气场",
+        "onboard_time": 1683980308,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188298,
+        "num": 137121,
+        "word": "护心你别太离谱",
+        "onboard_time": 1683982769,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134666,
+        "num": 134666,
+        "word": "詹姆斯",
+        "onboard_time": 1683981690,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132118,
+        "num": 132118,
+        "word": "吕成林哭了",
+        "onboard_time": 1683986013,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130933,
+        "num": 130933,
+        "word": "西游记演员程伟兵病逝",
+        "onboard_time": 1683976886,
+        "rank": 47,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 129470,
+        "num": 129470,
+        "word": "原神",
+        "onboard_time": 1683975749,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126478,
+        "num": 126478,
+        "word": "郭艾伦 大名单",
+        "onboard_time": 1683976707,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入推进京津冀协同发展#"
+    }
+  }
+}
