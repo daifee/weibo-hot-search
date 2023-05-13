@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683952418243,
+  "endTime": 1683954921478,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -131,8 +131,16 @@
       "category": "财经,网红"
     },
     {
+      "raw_hot": 2908797,
+      "num": 2908797,
+      "word": "龙拳 尬",
+      "onboard_time": 1683953129,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2902780,
-      "num": 609012,
+      "num": 689035,
       "word": "洪欣张丹峰道歉",
       "onboard_time": 1683941127,
       "rank": 10,
@@ -233,6 +241,14 @@
       "onboard_time": 1683545129,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2550022,
+      "num": 735111,
+      "word": "洪欣的致歉信不是繁体字",
+      "onboard_time": 1683951507,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 2519414,
@@ -443,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2159040,
+      "num": 2159040,
+      "word": "湖人淘汰勇士",
+      "onboard_time": 1683953311,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2151427,
       "num": 2151427,
       "word": "杨紫申请强执拉夏贝尔网店25万元",
@@ -505,14 +529,6 @@
       "onboard_time": 1683690811,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2016129,
-      "num": 488575,
-      "word": "洪欣的致歉信不是繁体字",
-      "onboard_time": 1683951507,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 1977097,
@@ -769,6 +785,14 @@
       "onboard_time": 1683550350,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1589742,
+      "num": 1589742,
+      "word": "花海 神仙舞台",
+      "onboard_time": 1683952590,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1588567,
@@ -1081,6 +1105,14 @@
       "onboard_time": 1683862350,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1417714,
+      "num": 1417714,
+      "word": "problem怎么会输给龙拳",
+      "onboard_time": 1683953493,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1390966,
@@ -2347,6 +2379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 716724,
+      "num": 716724,
+      "word": "美依礼芽唱忐忑",
+      "onboard_time": 1683953010,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 709161,
       "num": 709161,
       "word": "累死库里",
@@ -3097,6 +3137,14 @@
       "onboard_time": 1683637411,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 542836,
+      "num": 542836,
+      "word": "湖人晋级西部决赛",
+      "onboard_time": 1683953493,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 541678,
@@ -4675,6 +4723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 365110,
+      "num": 266867,
+      "word": "朱珠绝美",
+      "onboard_time": 1683954690,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 364915,
       "num": 322395,
       "word": "千万不要和领导走太近",
@@ -5219,6 +5275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 339180,
+      "num": 265071,
+      "word": "王一博删照片原因",
+      "onboard_time": 1683954269,
+      "rank": 26,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 338765,
       "num": 338765,
       "word": "母亲节礼物",
@@ -5755,6 +5819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 307033,
+      "num": 307033,
+      "word": "格林",
+      "onboard_time": 1683602068,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 307030,
       "num": 307030,
       "word": "五月天演唱会",
@@ -5987,6 +6059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 297596,
+      "num": 297596,
+      "word": "詹姆斯被打",
+      "onboard_time": 1683954330,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 297472,
       "num": 297472,
       "word": "奶茶店员工歧视骑手买不起奶茶",
@@ -6009,6 +6089,14 @@
       "onboard_time": 1683502884,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296382,
+      "num": 247644,
+      "word": "湖人场边全是明星",
+      "onboard_time": 1683953851,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 296019,
@@ -7681,14 +7769,6 @@
       "onboard_time": 1683940888,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 234443,
-      "num": 234443,
-      "word": "格林",
-      "onboard_time": 1683602068,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 234397,
@@ -9723,6 +9803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 169300,
+      "num": 169300,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1683954451,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168834,
       "num": 168834,
       "word": "地震空降兵回忆当年惊天一跳",
@@ -9809,6 +9897,14 @@
       "onboard_time": 1683788908,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166772,
+      "num": 166772,
+      "word": "徐怀钰划水",
+      "onboard_time": 1683954868,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 166534,
@@ -10300,7 +10396,7 @@
     },
     {
       "raw_hot": 150111,
-      "num": 150111,
+      "num": 166691,
       "word": "九尾清清对话国家级非遗传承人",
       "onboard_time": 1683952226,
       "rank": 44,
@@ -11180,7 +11276,7 @@
     },
     {
       "raw_hot": 105698,
-      "num": 164798,
+      "num": 166623,
       "word": "菠萝油条虾",
       "onboard_time": 1683946710,
       "rank": 49,
@@ -11628,7 +11724,7 @@
     },
     {
       "raw_hot": 55219,
-      "num": 1467096,
+      "num": 1767962,
       "word": "第一视角看航天员进入天舟六号",
       "onboard_time": 1683898109,
       "rank": 2,

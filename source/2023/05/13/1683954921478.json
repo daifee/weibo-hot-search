@@ -1,0 +1,410 @@
+{
+  "runTime": 1683954921478,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2908797,
+        "num": 2908797,
+        "word": "龙拳 尬",
+        "onboard_time": 1683953129,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2159040,
+        "num": 2159040,
+        "word": "湖人淘汰勇士",
+        "onboard_time": 1683953311,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8194,
+        "num": 1767962,
+        "word": "第一视角看航天员进入天舟六号",
+        "onboard_time": 1683898109,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1589742,
+        "num": 1589742,
+        "word": "花海 神仙舞台",
+        "onboard_time": 1683952590,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1417714,
+        "num": 1417714,
+        "word": "problem怎么会输给龙拳",
+        "onboard_time": 1683953493,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1403656,
+        "num": 1403656,
+        "word": "浪姐4出场费",
+        "onboard_time": 1683946588,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1353619,
+        "num": 1353619,
+        "word": "武汉太阳",
+        "onboard_time": 1683949648,
+        "rank": 6,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 1235156,
+        "num": 1235156,
+        "word": "被婆婆压身下数落女子丈夫出国读博",
+        "onboard_time": 1683940529,
+        "rank": 7,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 977156,
+        "num": 977156,
+        "word": "颜九 温精灵",
+        "onboard_time": 1683933921,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 735697,
+        "num": 735697,
+        "word": "原来十斤肉有这么多",
+        "onboard_time": 1683947426,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2550022,
+        "num": 735111,
+        "word": "洪欣的致歉信不是繁体字",
+        "onboard_time": 1683951507,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 716724,
+        "num": 716724,
+        "word": "美依礼芽唱忐忑",
+        "onboard_time": 1683953010,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 696207,
+        "num": 696207,
+        "word": "勇士vs湖人",
+        "onboard_time": 1683939928,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2096779,
+        "num": 689035,
+        "word": "洪欣张丹峰道歉",
+        "onboard_time": 1683941127,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 672096,
+        "num": 672096,
+        "word": "累死库里",
+        "onboard_time": 1683948506,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 658471,
+        "num": 658471,
+        "word": "五月天深圳抢票",
+        "onboard_time": 1683949530,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 542836,
+        "num": 542836,
+        "word": "湖人晋级西部决赛",
+        "onboard_time": 1683953493,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 500690,
+        "num": 500690,
+        "word": "那英问我儿子19了吗",
+        "onboard_time": 1683942930,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307033,
+        "num": 307033,
+        "word": "格林",
+        "onboard_time": 1683953670,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305107,
+        "num": 305107,
+        "word": "某考研机构欲花百万请孟羽童代言",
+        "onboard_time": 1683947369,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 391622,
+        "num": 302138,
+        "word": "乘风2023一公",
+        "onboard_time": 1683950068,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370909,
+        "num": 300299,
+        "word": "曾黎饭量",
+        "onboard_time": 1683949771,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297596,
+        "num": 297596,
+        "word": "詹姆斯被打",
+        "onboard_time": 1683954330,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284542,
+        "num": 284542,
+        "word": "初级会计",
+        "onboard_time": 1683936866,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 271891,
+        "num": 271891,
+        "word": "疑似上海雇主14万月薪请保姆",
+        "onboard_time": 1683941789,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365110,
+        "num": 266867,
+        "word": "朱珠绝美",
+        "onboard_time": 1683954690,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339180,
+        "num": 265071,
+        "word": "王一博删照片原因",
+        "onboard_time": 1683954269,
+        "rank": 26,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 280942,
+        "num": 264336,
+        "word": "跑男收视率",
+        "onboard_time": 1683935906,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260565,
+        "num": 260565,
+        "word": "母亲节送什么",
+        "onboard_time": 1683943889,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247652,
+        "num": 247652,
+        "word": "男童酒店客房误食用过的安全套",
+        "onboard_time": 1683943467,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296382,
+        "num": 247644,
+        "word": "湖人场边全是明星",
+        "onboard_time": 1683953851,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268317,
+        "num": 247637,
+        "word": "温精灵颜九聊天记录",
+        "onboard_time": 1683935484,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 247615,
+        "num": 247615,
+        "word": "51岁已被喊了十多年谭爷爷",
+        "onboard_time": 1683934945,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235022,
+        "num": 235022,
+        "word": "你会和闺蜜AA看演唱会吗",
+        "onboard_time": 1683951150,
+        "rank": 33,
+        "category": "情感,音乐"
+      },
+      {
+        "raw_hot": 228766,
+        "num": 228766,
+        "word": "教资面试",
+        "onboard_time": 1683935305,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 227373,
+        "num": 227373,
+        "word": "大麦",
+        "onboard_time": 1683954151,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 220856,
+        "num": 220856,
+        "word": "女子小区内放生五盒蟑螂被制止",
+        "onboard_time": 1683939749,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217884,
+        "num": 217884,
+        "word": "施罗德被驱逐",
+        "onboard_time": 1683950974,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215998,
+        "num": 215998,
+        "word": "洪欣张丹峰没离婚",
+        "onboard_time": 1683941551,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207502,
+        "num": 207502,
+        "word": "前任发微信说明天要结婚了",
+        "onboard_time": 1683944429,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205955,
+        "num": 205955,
+        "word": "刘耀文把摄影师跑丢了",
+        "onboard_time": 1683950249,
+        "rank": 40,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 203729,
+        "num": 203729,
+        "word": "张亮儿子张天天15岁近照",
+        "onboard_time": 1683933319,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201177,
+        "num": 201177,
+        "word": "日晕",
+        "onboard_time": 1683948148,
+        "rank": 42,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 196796,
+        "num": 196796,
+        "word": "孕妇羊水破裂怕弄脏出租主动加钱",
+        "onboard_time": 1683941489,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183042,
+        "num": 183042,
+        "word": "九鹭非香的剧改命真好",
+        "onboard_time": 1683947907,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170321,
+        "num": 170321,
+        "word": "女子辞年薪50万工作照顾瘫痪奶奶",
+        "onboard_time": 1683945628,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169300,
+        "num": 169300,
+        "word": "时空中的绘旅人",
+        "onboard_time": 1683954451,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166772,
+        "num": 166772,
+        "word": "徐怀钰划水",
+        "onboard_time": 1683954868,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74326,
+        "num": 166691,
+        "word": "九尾清清对话国家级非遗传承人",
+        "onboard_time": 1683952226,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 48366,
+        "num": 166623,
+        "word": "菠萝油条虾",
+        "onboard_time": 1683946710,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#京津冀发展有了新目标#"
+    }
+  }
+}
