@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683958824015,
+  "endTime": 1683959605973,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -5147,6 +5147,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 705300,
+      "num": 215983,
+      "word": "美依礼芽男粉呐喊惊到黄晓明",
+      "onboard_time": 1683958049,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 705104,
       "num": 705104,
       "word": "他从火光中走来",
@@ -7091,6 +7099,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 523191,
+      "num": 208652,
+      "word": "内娱明星ins人气",
+      "onboard_time": 1683956851,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 523011,
       "num": 387440,
       "word": "温州一男子用小刀割断看门猫尾巴",
@@ -7217,14 +7233,6 @@
       "onboard_time": 1683625527,
       "rank": 12,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 513448,
-      "num": 208652,
-      "word": "内娱明星ins人气",
-      "onboard_time": 1683956851,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 512921,
@@ -7825,6 +7833,14 @@
       "onboard_time": 1683936866,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 470027,
+      "num": 190073,
+      "word": "五月天门票没和黄牛勾结",
+      "onboard_time": 1683957990,
+      "rank": 35,
+      "category": "艺人,音乐"
     },
     {
       "raw_hot": 470003,
@@ -8595,14 +8611,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 430888,
-      "num": 165884,
-      "word": "美依礼芽男粉呐喊惊到黄晓明",
-      "onboard_time": 1683958049,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 429620,
       "num": 429620,
       "word": "多名男子搭讪邻桌女孩店员劝阻起冲突",
@@ -8644,7 +8652,7 @@
     },
     {
       "raw_hot": 427266,
-      "num": 164434,
+      "num": 172788,
       "word": "这个家没周深得禁",
       "onboard_time": 1683956369,
       "rank": 31,
@@ -9251,6 +9259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 401279,
+      "num": 215589,
+      "word": "月薪1万和5万的差别",
+      "onboard_time": 1683956130,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 401262,
       "num": 161851,
       "word": "Amber好帅",
@@ -9497,14 +9513,6 @@
       "onboard_time": 1683008667,
       "rank": 24,
       "category": "网红"
-    },
-    {
-      "raw_hot": 394009,
-      "num": 199099,
-      "word": "月薪1万和5万的差别",
-      "onboard_time": 1683956130,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 393928,
@@ -9809,14 +9817,6 @@
       "onboard_time": 1683164309,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 382004,
-      "num": 159595,
-      "word": "五月天门票没和黄牛勾结",
-      "onboard_time": 1683957990,
-      "rank": 35,
-      "category": "艺人,音乐"
     },
     {
       "raw_hot": 381869,
@@ -15353,6 +15353,14 @@
       "onboard_time": 1683864991,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250404,
+      "num": 250404,
+      "word": "男子淄博吃烧烤吐槽扇贝肉指甲大",
+      "onboard_time": 1683958350,
+      "rank": 17,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 250326,
@@ -23265,6 +23273,14 @@
       "onboard_time": 1683782367,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 145856,
+      "num": 145856,
+      "word": "当代三大合法赌博",
+      "onboard_time": 1683959070,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 145686,
