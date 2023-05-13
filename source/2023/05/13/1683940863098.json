@@ -1,0 +1,410 @@
+{
+  "runTime": 1683940863098,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2230037,
+        "num": 2230037,
+        "word": "颜九 温精灵",
+        "onboard_time": 1683933921,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1264934,
+        "num": 1264934,
+        "word": "51岁已被喊了十多年谭爷爷",
+        "onboard_time": 1683934945,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33856,
+        "num": 1093797,
+        "word": "第一视角看航天员进入天舟六号",
+        "onboard_time": 1683898109,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1085505,
+        "num": 1085505,
+        "word": "学生摔伤无人报警但满屏都是警",
+        "onboard_time": 1683907110,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 921947,
+        "num": 921947,
+        "word": "温精灵颜九聊天记录",
+        "onboard_time": 1683935484,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 892218,
+        "num": 892218,
+        "word": "跑男收视率",
+        "onboard_time": 1683935906,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 721093,
+        "num": 721093,
+        "word": "教资面试",
+        "onboard_time": 1683935305,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 682176,
+        "num": 682176,
+        "word": "如果产检发现孩子有问题你会留下吗",
+        "onboard_time": 1683932657,
+        "rank": 7,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 676097,
+        "num": 676097,
+        "word": "为什么很多漂亮女生却单身",
+        "onboard_time": 1683901893,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 619367,
+        "num": 619367,
+        "word": "原来小燕子真的穿的花衣",
+        "onboard_time": 1683907587,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1509899,
+        "num": 616239,
+        "word": "张亮儿子张天天15岁近照",
+        "onboard_time": 1683933319,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 591038,
+        "num": 591038,
+        "word": "赵丽颖说孙千是恋爱脑",
+        "onboard_time": 1683934461,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 573412,
+        "num": 573412,
+        "word": "男子花1700买下价值70多万奶粉",
+        "onboard_time": 1683933921,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470204,
+        "num": 470204,
+        "word": "沈小婷韩国宿舍",
+        "onboard_time": 1683936866,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 467275,
+        "num": 467275,
+        "word": "美国警察处理家暴时连开四枪击毙主妇",
+        "onboard_time": 1683936026,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355542,
+        "num": 355542,
+        "word": "宁静说我是姐姐冠军怎么不会跳舞",
+        "onboard_time": 1683937528,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330555,
+        "num": 330555,
+        "word": "王一博删照片",
+        "onboard_time": 1683899130,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291419,
+        "num": 291419,
+        "word": "比较好的两性关系里女方是主导",
+        "onboard_time": 1683932718,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275069,
+        "num": 275069,
+        "word": "勇士vs湖人",
+        "onboard_time": 1683939928,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265067,
+        "num": 265067,
+        "word": "男子无证酒驾撞人后抛尸江中",
+        "onboard_time": 1683937887,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338024,
+        "num": 253923,
+        "word": "女子小区内放生五盒蟑螂被制止",
+        "onboard_time": 1683939749,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240079,
+        "num": 240079,
+        "word": "电视剧写错重庆一高校办学层次",
+        "onboard_time": 1683933802,
+        "rank": 21,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 230357,
+        "num": 230357,
+        "word": "高中语文",
+        "onboard_time": 1683939388,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 216466,
+        "num": 216466,
+        "word": "杭州一套房比去年跌价近百万",
+        "onboard_time": 1683935726,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 205875,
+        "num": 205875,
+        "word": "四版桑延",
+        "onboard_time": 1683933620,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203214,
+        "num": 203214,
+        "word": "孩子后车吃串男子善意提醒",
+        "onboard_time": 1683936746,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188632,
+        "num": 188632,
+        "word": "初级会计",
+        "onboard_time": 1683936866,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 186624,
+        "num": 186624,
+        "word": "曾经看不起现在却离不开的东西",
+        "onboard_time": 1683937948,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185154,
+        "num": 185154,
+        "word": "杨洋出发威尼斯机场视频",
+        "onboard_time": 1683937827,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175485,
+        "num": 175485,
+        "word": "刘宪华回向往的生活了",
+        "onboard_time": 1683934823,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249784,
+        "num": 173679,
+        "word": "被婆婆压身下数落女子丈夫出国读博",
+        "onboard_time": 1683940529,
+        "rank": 30,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 180531,
+        "num": 171082,
+        "word": "老爸老妈今晚睡不着了",
+        "onboard_time": 1683932718,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 166878,
+        "num": 166878,
+        "word": "很体面但是工资不高的工作",
+        "onboard_time": 1683898890,
+        "rank": 32,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 159392,
+        "num": 159392,
+        "word": "狗头萝莉回应穿旗袍卖煎饼",
+        "onboard_time": 1683940468,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 157966,
+        "num": 157966,
+        "word": "不要把醉倒的鸟扔进垃圾桶",
+        "onboard_time": 1683936448,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135239,
+        "num": 135239,
+        "word": "米兰冬奥会倒计时1000天",
+        "onboard_time": 1683940409,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135056,
+        "num": 135056,
+        "word": "官方通报辛巴致榴莲变贵不实",
+        "onboard_time": 1683910762,
+        "rank": 36,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 133281,
+        "num": 133281,
+        "word": "徐州天降大量抵制虐猫传单",
+        "onboard_time": 1683938667,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133111,
+        "num": 133111,
+        "word": "我也有同款妈妈",
+        "onboard_time": 1683939867,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133111,
+        "num": 133111,
+        "word": "杭州一小区打造4000平方米屋顶晾晒场",
+        "onboard_time": 1683934582,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124107,
+        "num": 124107,
+        "word": "90花生头部艺人",
+        "onboard_time": 1683939567,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121760,
+        "num": 121760,
+        "word": "可乐男孩现已成为可乐博物馆馆长",
+        "onboard_time": 1683908366,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118517,
+        "num": 118517,
+        "word": "陶勇医生 手术刀在我心里从未放下",
+        "onboard_time": 1683907647,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117425,
+        "num": 117425,
+        "word": "上海3人造谣幼师卖淫被刑拘",
+        "onboard_time": 1683907826,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111152,
+        "num": 111152,
+        "word": "MSI",
+        "onboard_time": 1683933499,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109330,
+        "num": 109330,
+        "word": "一日为师周深为父",
+        "onboard_time": 1683906867,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104467,
+        "num": 104467,
+        "word": "广州宝马撞人案判决书披露作案动机",
+        "onboard_time": 1683904111,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102987,
+        "num": 102987,
+        "word": "母亲节要送婆婆礼物吗",
+        "onboard_time": 1683900452,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44712,
+        "num": 102831,
+        "word": "呀哈哈做错了什么",
+        "onboard_time": 1683936326,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 29304,
+        "num": 102774,
+        "word": "JDG",
+        "onboard_time": 1683896008,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在石家庄市考察调研#"
+    }
+  }
+}
