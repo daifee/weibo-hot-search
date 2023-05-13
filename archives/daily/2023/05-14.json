@@ -1,6 +1,6 @@
 {
   "startTime": 1683994827629,
-  "endTime": 1684012432318,
+  "endTime": 1684013619376,
   "band_list": [
     {
       "raw_hot": 1598965,
@@ -523,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29461,
+      "num": 28171,
+      "word": "医生因倒提模型被批评教育冤不冤",
+      "onboard_time": 1684009814,
+      "rank": 27,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 28426,
       "num": 29886,
       "word": "救命和crush恋爱了",
@@ -537,14 +545,6 @@
       "onboard_time": 1684003213,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23889,
-      "num": 23443,
-      "word": "医生因倒提模型被批评教育冤不冤",
-      "onboard_time": 1684009814,
-      "rank": 27,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 18695,

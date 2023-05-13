@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/05/14 00:20:27 ~ 2023/05/14 05:13:52
+本榜单时间：2023/05/14 00:20:27 ~ 2023/05/14 05:33:39
 </p>
 </blockquote>
 <p>
@@ -405,6 +405,12 @@ vava奔跑女孩（热度：102908）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%9B%A0%E5%80%92%E6%8F%90%E6%A8%A1%E5%9E%8B%E8%A2%AB%E6%89%B9%E8%AF%84%E6%95%99%E8%82%B2%E5%86%A4%E4%B8%8D%E5%86%A4%23" target="weibo">
+医生因倒提模型被批评教育冤不冤（热度：29461）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%91%E5%91%BD%E5%92%8Ccrush%E6%81%8B%E7%88%B1%E4%BA%86%23" target="weibo">
 救命和crush恋爱了（热度：28426）
 </a>
@@ -413,12 +419,6 @@ vava奔跑女孩（热度：102908）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%80%92%E6%8F%90%E7%9A%84%E5%A9%B4%E5%84%BF%E4%B8%BA%E6%A8%A1%E5%9E%8B%23" target="weibo">
 男子倒提的婴儿为模型（热度：27159）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%9B%A0%E5%80%92%E6%8F%90%E6%A8%A1%E5%9E%8B%E8%A2%AB%E6%89%B9%E8%AF%84%E6%95%99%E8%82%B2%E5%86%A4%E4%B8%8D%E5%86%A4%23" target="weibo">
-医生因倒提模型被批评教育冤不冤（热度：23889）
 </a>
 </li>
 
