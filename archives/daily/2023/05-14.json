@@ -1,6 +1,6 @@
 {
   "startTime": 1683994827629,
-  "endTime": 1683995752605,
+  "endTime": 1683998204018,
   "band_list": [
     {
       "raw_hot": 1598965,
@@ -219,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232169,
+      "num": 142646,
+      "word": "墨西哥平民窟天才少女",
+      "onboard_time": 1683994049,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231634,
       "num": 231634,
       "word": "王源让大家正经一点",
@@ -251,14 +259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 204239,
-      "num": 142646,
-      "word": "墨西哥平民窟天才少女",
-      "onboard_time": 1683994049,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200736,
       "num": 152526,
       "word": "战至巅峰",
@@ -280,6 +280,14 @@
       "word": "还得是赵兆",
       "onboard_time": 1683994468,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 183108,
+      "num": 96560,
+      "word": "小白赢了谢可寅烧了项链",
+      "onboard_time": 1683996745,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -379,6 +387,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121485,
+      "num": 85995,
+      "word": "王源预告过了一个城市一个发色",
+      "onboard_time": 1683991952,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 118096,
+      "num": 85889,
+      "word": "花为爱凤",
+      "onboard_time": 1683997702,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 114173,
+      "num": 85830,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1683997404,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 113974,
       "num": 113974,
       "word": "杨鸣",
@@ -395,6 +427,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102908,
+      "num": 85007,
+      "word": "vava奔跑女孩",
+      "onboard_time": 1683992731,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 97740,
+      "num": 97740,
+      "word": "CBA总决赛辽宁vs浙江",
+      "onboard_time": 1683995906,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94985,
       "num": 118241,
       "word": "女子因感情问题想跳桥民警一把抱回",
@@ -409,6 +457,14 @@
       "onboard_time": 1683985290,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 83653,
+      "num": 83653,
+      "word": "男友变心姑娘把他送的黄金卖了14万",
+      "onboard_time": 1683981028,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7979,
