@@ -1,6 +1,6 @@
 {
   "startTime": 1683908490327,
-  "endTime": 1683980995079,
+  "endTime": 1683981935217,
   "band_list": [
     {
       "raw_hot": 4066324,
@@ -203,8 +203,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1336877,
-      "num": 1112787,
+      "raw_hot": 1407336,
+      "num": 1129137,
       "word": "陈意涵问修杰楷你在哪儿",
       "onboard_time": 1683971247,
       "rank": 41,
@@ -217,6 +217,14 @@
       "onboard_time": 1683975149,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1278325,
+      "num": 1278325,
+      "word": "拿到拆迁款前几天人去世了",
+      "onboard_time": 1683977367,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 1264934,
@@ -249,14 +257,6 @@
       "onboard_time": 1683976886,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1102488,
-      "num": 1102488,
-      "word": "拿到拆迁款前几天人去世了",
-      "onboard_time": 1683977367,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 1086421,
@@ -307,7 +307,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 915142,
+      "raw_hot": 923868,
       "num": 603583,
       "word": "李荣浩第一次吃乌梅子酱",
       "onboard_time": 1683968487,
@@ -643,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 472884,
+      "num": 472884,
+      "word": "好喜欢这个助学金的名字",
+      "onboard_time": 1683978626,
+      "rank": 18,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 470204,
       "num": 470204,
       "word": "沈小婷韩国宿舍",
@@ -691,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 457142,
+      "num": 457142,
+      "word": "原神",
+      "onboard_time": 1683975749,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 451540,
       "num": 451540,
       "word": "不间断的熬夜 人生变坏的开始",
@@ -700,7 +716,7 @@
     },
     {
       "raw_hot": 451382,
-      "num": 321243,
+      "num": 400565,
       "word": "黄子韬DRG",
       "onboard_time": 1683980251,
       "rank": 17,
@@ -771,28 +787,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 421705,
-      "num": 316803,
-      "word": "好喜欢这个助学金的名字",
-      "onboard_time": 1683978626,
-      "rank": 18,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 418545,
-      "num": 418545,
+      "raw_hot": 422720,
+      "num": 658266,
       "word": "西游记演员程伟兵病逝",
       "onboard_time": 1683976886,
       "rank": 33,
       "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 403612,
-      "num": 403612,
-      "word": "原神",
-      "onboard_time": 1683975749,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 401279,
@@ -819,6 +819,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 398849,
+      "num": 204744,
+      "word": "韩国人对章昊Ricky红色护照的反应",
+      "onboard_time": 1683977428,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 397257,
+      "num": 202200,
+      "word": "瞿颖气场",
+      "onboard_time": 1683980308,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 393928,
       "num": 219821,
       "word": "陶勇医生 手术刀在我心里从未放下",
@@ -836,19 +852,11 @@
     },
     {
       "raw_hot": 384060,
-      "num": 384060,
+      "num": 410332,
       "word": "医院回应男子倒提婴儿",
       "onboard_time": 1683973046,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 382855,
-      "num": 204744,
-      "word": "韩国人对章昊Ricky红色护照的反应",
-      "onboard_time": 1683977428,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 380420,
@@ -889,6 +897,14 @@
       "onboard_time": 1683943409,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 365586,
+      "num": 455842,
+      "word": "淄博八大局知名麻辣串疑被房东赶走",
+      "onboard_time": 1683980668,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 363654,
@@ -932,7 +948,7 @@
     },
     {
       "raw_hot": 346159,
-      "num": 172057,
+      "num": 176041,
       "word": "吉娜好漂亮",
       "onboard_time": 1683959727,
       "rank": 31,
@@ -945,6 +961,14 @@
       "onboard_time": 1683971969,
       "rank": 29,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 338672,
+      "num": 338672,
+      "word": "科颜氏 原神",
+      "onboard_time": 1683981511,
+      "rank": 22,
+      "category": "游戏,美妆"
     },
     {
       "raw_hot": 337063,
@@ -996,7 +1020,7 @@
     },
     {
       "raw_hot": 317476,
-      "num": 177984,
+      "num": 188356,
       "word": "小清欢",
       "onboard_time": 1683977727,
       "rank": 30,
@@ -1009,14 +1033,6 @@
       "onboard_time": 1683897268,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 313266,
-      "num": 175738,
-      "word": "瞿颖气场",
-      "onboard_time": 1683980308,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 310676,
@@ -1244,7 +1260,7 @@
     },
     {
       "raw_hot": 242694,
-      "num": 149710,
+      "num": 178337,
       "word": "problem舞台太炸了",
       "onboard_time": 1683978749,
       "rank": 41,
@@ -1299,6 +1315,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 232890,
+      "num": 187978,
+      "word": "男友变心姑娘把他送的黄金卖了14万",
+      "onboard_time": 1683981028,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231294,
       "num": 231294,
       "word": "高中语文",
@@ -1329,6 +1353,14 @@
       "onboard_time": 1683971668,
       "rank": 24,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 223828,
+      "num": 223828,
+      "word": "CBA",
+      "onboard_time": 1683978207,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 220317,
@@ -1419,14 +1451,6 @@
       "category": "科技,艺人"
     },
     {
-      "raw_hot": 203601,
-      "num": 203601,
-      "word": "CBA",
-      "onboard_time": 1683978207,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 203214,
       "num": 203214,
       "word": "孩子后车吃串男子善意提醒",
@@ -1483,6 +1507,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 197309,
+      "num": 144953,
+      "word": "小精灵舞台",
+      "onboard_time": 1683981392,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195320,
       "num": 195320,
       "word": "你的手机设置了多少个闹钟",
@@ -1529,6 +1561,14 @@
       "onboard_time": 1683979650,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187913,
+      "num": 187913,
+      "word": "男子车流中一把拉回2岁幼童",
+      "onboard_time": 1683980128,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186624,
@@ -1803,12 +1843,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 144200,
-      "num": 149796,
-      "word": "男子车流中一把拉回2岁幼童",
-      "onboard_time": 1683980128,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 144460,
+      "num": 463407,
+      "word": "原神3.7版本直播",
+      "onboard_time": 1683979228,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 143337,
@@ -1995,12 +2035,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112688,
-      "num": 149597,
-      "word": "淄博八大局知名麻辣串疑被房东赶走",
-      "onboard_time": 1683980668,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 111690,
+      "num": 125003,
+      "word": "詹姆斯",
+      "onboard_time": 1683981690,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 111377,
@@ -2049,14 +2089,6 @@
       "onboard_time": 1683977367,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105292,
-      "num": 357910,
-      "word": "原神3.7版本直播",
-      "onboard_time": 1683979228,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 104342,

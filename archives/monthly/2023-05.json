@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683980995079,
+  "endTime": 1683981935217,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -2315,6 +2315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1407336,
+      "num": 1129137,
+      "word": "陈意涵问修杰楷你在哪儿",
+      "onboard_time": 1683971247,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1406483,
       "num": 1406483,
       "word": "谢娜综艺代表作没写快乐大本营",
@@ -2481,14 +2489,6 @@
       "onboard_time": 1683761544,
       "rank": 36,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 1336877,
-      "num": 1112787,
-      "word": "陈意涵问修杰楷你在哪儿",
-      "onboard_time": 1683971247,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 1334706,
@@ -2705,6 +2705,14 @@
       "onboard_time": 1683105630,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1278325,
+      "num": 1278325,
+      "word": "拿到拆迁款前几天人去世了",
+      "onboard_time": 1683977367,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 1276868,
@@ -3305,14 +3313,6 @@
       "onboard_time": 1683545428,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1102488,
-      "num": 1102488,
-      "word": "拿到拆迁款前几天人去世了",
-      "onboard_time": 1683977367,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 1102278,
@@ -4035,6 +4035,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 923868,
+      "num": 603583,
+      "word": "李荣浩第一次吃乌梅子酱",
+      "onboard_time": 1683968487,
+      "rank": 31,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 923281,
       "num": 923281,
       "word": "因为结婚才联系要随份子吗",
@@ -4097,14 +4105,6 @@
       "onboard_time": 1682919508,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 915142,
-      "num": 603583,
-      "word": "李荣浩第一次吃乌梅子酱",
-      "onboard_time": 1683968487,
-      "rank": 31,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 914395,
@@ -7995,6 +7995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 472884,
+      "num": 472884,
+      "word": "好喜欢这个助学金的名字",
+      "onboard_time": 1683978626,
+      "rank": 18,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 472414,
       "num": 472414,
       "word": "四川大学再回应部分男厕改女厕",
@@ -8291,6 +8299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 457142,
+      "num": 457142,
+      "word": "原神",
+      "onboard_time": 1683302369,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 456304,
       "num": 443932,
       "word": "庆余年",
@@ -8380,7 +8396,7 @@
     },
     {
       "raw_hot": 451382,
-      "num": 321243,
+      "num": 400565,
       "word": "黄子韬DRG",
       "onboard_time": 1683980251,
       "rank": 17,
@@ -9035,6 +9051,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 422720,
+      "num": 658266,
+      "word": "西游记演员程伟兵病逝",
+      "onboard_time": 1683976886,
+      "rank": 33,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 422319,
       "num": 422319,
       "word": "男子吐槽在景区停车场一路捡到26个螺丝钉",
@@ -9067,14 +9091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 421705,
-      "num": 316803,
-      "word": "好喜欢这个助学金的名字",
-      "onboard_time": 1683978626,
-      "rank": 18,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 421140,
       "num": 253876,
       "word": "长月烬明玥烬情苏番外",
@@ -9105,14 +9121,6 @@
       "onboard_time": 1683471216,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 418545,
-      "num": 418545,
-      "word": "西游记演员程伟兵病逝",
-      "onboard_time": 1683976886,
-      "rank": 33,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 418358,
@@ -9467,14 +9475,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 403612,
-      "num": 403612,
-      "word": "原神",
-      "onboard_time": 1683302369,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 402657,
       "num": 389145,
       "word": "张靓颖嗓子",
@@ -9651,6 +9651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 398849,
+      "num": 204744,
+      "word": "韩国人对章昊Ricky红色护照的反应",
+      "onboard_time": 1683977428,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 398732,
       "num": 398732,
       "word": "男子满手痛风石参加酒局",
@@ -9688,6 +9696,14 @@
       "word": "白鹿奔跑吧嫦娥造型",
       "onboard_time": 1683613046,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 397257,
+      "num": 202200,
+      "word": "瞿颖气场",
+      "onboard_time": 1683980308,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -9996,7 +10012,7 @@
     },
     {
       "raw_hot": 384060,
-      "num": 384060,
+      "num": 410332,
       "word": "医院回应男子倒提婴儿",
       "onboard_time": 1683973046,
       "rank": 36,
@@ -10065,14 +10081,6 @@
       "onboard_time": 1683229632,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 382855,
-      "num": 204744,
-      "word": "韩国人对章昊Ricky红色护照的反应",
-      "onboard_time": 1683977428,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 382624,
@@ -10561,6 +10569,14 @@
       "onboard_time": 1683016588,
       "rank": 17,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 365586,
+      "num": 455842,
+      "word": "淄博八大局知名麻辣串疑被房东赶走",
+      "onboard_time": 1683980668,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 365224,
@@ -11340,7 +11356,7 @@
     },
     {
       "raw_hot": 346159,
-      "num": 172057,
+      "num": 176041,
       "word": "吉娜好漂亮",
       "onboard_time": 1683959727,
       "rank": 31,
@@ -11617,6 +11633,14 @@
       "onboard_time": 1683373170,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 338672,
+      "num": 338672,
+      "word": "科颜氏 原神",
+      "onboard_time": 1683981511,
+      "rank": 22,
+      "category": "游戏,美妆"
     },
     {
       "raw_hot": 338339,
@@ -12412,7 +12436,7 @@
     },
     {
       "raw_hot": 317476,
-      "num": 177984,
+      "num": 188356,
       "word": "小清欢",
       "onboard_time": 1683977727,
       "rank": 30,
@@ -12649,14 +12673,6 @@
       "onboard_time": 1683761905,
       "rank": 16,
       "category": "体育,游戏"
-    },
-    {
-      "raw_hot": 313266,
-      "num": 175738,
-      "word": "瞿颖气场",
-      "onboard_time": 1683980308,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 313034,
@@ -16292,7 +16308,7 @@
     },
     {
       "raw_hot": 242694,
-      "num": 149710,
+      "num": 178337,
       "word": "problem舞台太炸了",
       "onboard_time": 1683978749,
       "rank": 41,
@@ -17073,6 +17089,14 @@
       "onboard_time": 1683771624,
       "rank": 35,
       "category": "科技"
+    },
+    {
+      "raw_hot": 232890,
+      "num": 187978,
+      "word": "男友变心姑娘把他送的黄金卖了14万",
+      "onboard_time": 1683981028,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232845,
@@ -19771,6 +19795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197309,
+      "num": 144953,
+      "word": "小精灵舞台",
+      "onboard_time": 1683981392,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197206,
       "num": 159009,
       "word": "还得是二次元",
@@ -20601,6 +20633,14 @@
       "onboard_time": 1683507211,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187913,
+      "num": 187913,
+      "word": "男子车流中一把拉回2岁幼童",
+      "onboard_time": 1683980128,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187182,
@@ -23867,20 +23907,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 144460,
+      "num": 463407,
+      "word": "原神3.7版本直播",
+      "onboard_time": 1683979228,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 144312,
       "num": 144312,
       "word": "seventeen将推出官方表情包",
       "onboard_time": 1683733649,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 144200,
-      "num": 149796,
-      "word": "男子车流中一把拉回2岁幼童",
-      "onboard_time": 1683980128,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144164,
@@ -25579,14 +25619,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 112688,
-      "num": 149597,
-      "word": "淄博八大局知名麻辣串疑被房东赶走",
-      "onboard_time": 1683980668,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112016,
       "num": 165498,
       "word": "TTG和WB全员入围亚运集训",
@@ -25793,14 +25825,6 @@
       "onboard_time": 1683176434,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 105292,
-      "num": 357910,
-      "word": "原神3.7版本直播",
-      "onboard_time": 1683979228,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 105190,
