@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683951596985,
+  "endTime": 1683952418243,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -131,20 +131,20 @@
       "category": "财经,网红"
     },
     {
+      "raw_hot": 2902780,
+      "num": 609012,
+      "word": "洪欣张丹峰道歉",
+      "onboard_time": 1683941127,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2851068,
       "num": 2851068,
       "word": "武汉太阳",
       "onboard_time": 1683949648,
       "rank": 0,
       "category": "自然,社会新闻"
-    },
-    {
-      "raw_hot": 2822440,
-      "num": 609012,
-      "word": "洪欣张丹峰道歉",
-      "onboard_time": 1683941127,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2753617,
@@ -507,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2016129,
+      "num": 488575,
+      "word": "洪欣的致歉信不是繁体字",
+      "onboard_time": 1683951507,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1977097,
       "num": 1977097,
       "word": "白鹿新剧演恶女",
@@ -721,6 +729,14 @@
       "onboard_time": 1683649945,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1608119,
+      "num": 1608119,
+      "word": "浪姐4出场费",
+      "onboard_time": 1683946588,
+      "rank": 8,
+      "category": "艺人,影视"
     },
     {
       "raw_hot": 1601940,
@@ -953,14 +969,6 @@
       "onboard_time": 1683621809,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1476537,
-      "num": 1476537,
-      "word": "浪姐4出场费",
-      "onboard_time": 1683946588,
-      "rank": 8,
-      "category": "艺人,影视"
     },
     {
       "raw_hot": 1474768,
@@ -1859,6 +1867,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 900065,
+      "num": 900065,
+      "word": "勇士vs湖人",
+      "onboard_time": 1683593368,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 899737,
       "num": 899737,
       "word": "稻香",
@@ -2331,6 +2347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 709161,
+      "num": 709161,
+      "word": "累死库里",
+      "onboard_time": 1683948506,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 705104,
       "num": 705104,
       "word": "他从火光中走来",
@@ -2371,14 +2395,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 699274,
-      "num": 699274,
-      "word": "勇士vs湖人",
-      "onboard_time": 1683593368,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 696549,
       "num": 696549,
       "word": "ASA出道",
@@ -2393,14 +2409,6 @@
       "onboard_time": 1683853471,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 695486,
-      "num": 695486,
-      "word": "累死库里",
-      "onboard_time": 1683948506,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 692289,
@@ -3417,6 +3425,14 @@
       "onboard_time": 1683872729,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 490705,
+      "num": 490705,
+      "word": "乘风2023一公",
+      "onboard_time": 1683950068,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 490447,
@@ -4571,14 +4587,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 371883,
-      "num": 371883,
-      "word": "乘风2023一公",
-      "onboard_time": 1683950068,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 370912,
       "num": 370912,
       "word": "掘金4比2淘汰太阳",
@@ -5547,6 +5555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 317645,
+      "num": 317645,
+      "word": "施罗德被驱逐",
+      "onboard_time": 1683950974,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 317052,
       "num": 317052,
       "word": "美依礼芽投票",
@@ -5881,14 +5897,6 @@
       "onboard_time": 1683620307,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 301132,
-      "num": 301132,
-      "word": "洪欣的致歉信不是繁体字",
-      "onboard_time": 1683951507,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 301074,
@@ -6403,14 +6411,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 280332,
-      "num": 280332,
-      "word": "施罗德被驱逐",
-      "onboard_time": 1683950974,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 280094,
       "num": 280094,
       "word": "睡眠时长决定我对人生的态度",
@@ -6481,6 +6481,14 @@
       "onboard_time": 1683546089,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277166,
+      "num": 277166,
+      "word": "你会和闺蜜AA看演唱会吗",
+      "onboard_time": 1683951150,
+      "rank": 38,
+      "category": "情感,音乐"
     },
     {
       "raw_hot": 276373,
@@ -7011,8 +7019,8 @@
       "category": "科技,国内要闻"
     },
     {
-      "raw_hot": 256356,
-      "num": 256356,
+      "raw_hot": 256707,
+      "num": 256707,
       "word": "汶川钢腿女孩重回获救地",
       "onboard_time": 1683950790,
       "rank": 31,
@@ -8291,6 +8299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 211981,
+      "num": 211981,
+      "word": "乘风2023",
+      "onboard_time": 1683951690,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211847,
       "num": 211847,
       "word": "后浪",
@@ -8889,14 +8905,6 @@
       "onboard_time": 1683695800,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 194388,
-      "num": 194388,
-      "word": "你会和闺蜜AA看演唱会吗",
-      "onboard_time": 1683951150,
-      "rank": 38,
-      "category": "情感,音乐"
     },
     {
       "raw_hot": 194299,
@@ -10291,6 +10299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150111,
+      "num": 150111,
+      "word": "九尾清清对话国家级非遗传承人",
+      "onboard_time": 1683952226,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150078,
       "num": 150078,
       "word": "T1战胜MAD",
@@ -10633,6 +10649,14 @@
       "onboard_time": 1683594509,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136557,
+      "num": 164849,
+      "word": "塞学家研究所",
+      "onboard_time": 1683951268,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 136072,
@@ -11049,14 +11073,6 @@
       "onboard_time": 1683772287,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 114833,
-      "num": 164849,
-      "word": "塞学家研究所",
-      "onboard_time": 1683951268,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 113853,
@@ -11979,6 +11995,9 @@
     },
     {
       "word": "#习近平在石家庄市考察调研#"
+    },
+    {
+      "word": "#京津冀发展有了新目标#"
     }
   ]
 }

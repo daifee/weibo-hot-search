@@ -1,6 +1,6 @@
 {
   "startTime": 1683908490327,
-  "endTime": 1683951596985,
+  "endTime": 1683952418243,
   "band_list": [
     {
       "raw_hot": 4066324,
@@ -19,6 +19,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2902780,
+      "num": 609012,
+      "word": "洪欣张丹峰道歉",
+      "onboard_time": 1683941127,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2851068,
       "num": 2851068,
       "word": "武汉太阳",
@@ -27,20 +35,20 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 2822440,
-      "num": 609012,
-      "word": "洪欣张丹峰道歉",
-      "onboard_time": 1683941127,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 2096344,
       "num": 1466705,
       "word": "被婆婆压身下数落女子丈夫出国读博",
       "onboard_time": 1683940529,
       "rank": 30,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 2016129,
+      "num": 488575,
+      "word": "洪欣的致歉信不是繁体字",
+      "onboard_time": 1683951507,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 1815274,
@@ -59,6 +67,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1608119,
+      "num": 1608119,
+      "word": "浪姐4出场费",
+      "onboard_time": 1683946588,
+      "rank": 8,
+      "category": "艺人,影视"
+    },
+    {
       "raw_hot": 1587015,
       "num": 1587015,
       "word": "很体面但是工资不高的工作",
@@ -73,14 +89,6 @@
       "onboard_time": 1683933319,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1476537,
-      "num": 1476537,
-      "word": "浪姐4出场费",
-      "onboard_time": 1683946588,
-      "rank": 8,
-      "category": "艺人,影视"
     },
     {
       "raw_hot": 1463945,
@@ -123,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 900065,
+      "num": 900065,
+      "word": "勇士vs湖人",
+      "onboard_time": 1683939928,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 892218,
       "num": 892218,
       "word": "跑男收视率",
@@ -163,6 +179,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 709161,
+      "num": 709161,
+      "word": "累死库里",
+      "onboard_time": 1683948506,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 703996,
       "num": 564794,
       "word": "广州宝马撞人案判决书披露作案动机",
@@ -179,14 +203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 695486,
-      "num": 695486,
-      "word": "累死库里",
-      "onboard_time": 1683948506,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 682176,
       "num": 682176,
       "word": "如果产检发现孩子有问题你会留下吗",
@@ -201,14 +217,6 @@
       "onboard_time": 1683943889,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 643004,
-      "num": 643004,
-      "word": "勇士vs湖人",
-      "onboard_time": 1683939928,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 638286,
@@ -273,6 +281,14 @@
       "onboard_time": 1683885510,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 490705,
+      "num": 490705,
+      "word": "乘风2023一公",
+      "onboard_time": 1683950068,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 470204,
@@ -363,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 371883,
-      "num": 371883,
-      "word": "乘风2023一公",
-      "onboard_time": 1683950068,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 366749,
       "num": 366749,
       "word": "对不起发达国家这顶帽子中国戴不了",
@@ -443,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317645,
+      "num": 317645,
+      "word": "施罗德被驱逐",
+      "onboard_time": 1683950974,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315589,
       "num": 171662,
       "word": "五个女博士被立案调查",
@@ -465,14 +481,6 @@
       "onboard_time": 1683932718,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 301132,
-      "num": 301132,
-      "word": "洪欣的致歉信不是繁体字",
-      "onboard_time": 1683951507,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 300762,
@@ -531,20 +539,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 280332,
-      "num": 280332,
-      "word": "施罗德被驱逐",
-      "onboard_time": 1683950974,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 277556,
       "num": 277556,
       "word": "疑似上海雇主14万月薪请保姆",
       "onboard_time": 1683941789,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277166,
+      "num": 277166,
+      "word": "你会和闺蜜AA看演唱会吗",
+      "onboard_time": 1683951150,
+      "rank": 38,
+      "category": "情感,音乐"
     },
     {
       "raw_hot": 267671,
@@ -571,8 +579,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256356,
-      "num": 256356,
+      "raw_hot": 256707,
+      "num": 256707,
       "word": "汶川钢腿女孩重回获救地",
       "onboard_time": 1683950790,
       "rank": 31,
@@ -659,6 +667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 211981,
+      "num": 211981,
+      "word": "乘风2023",
+      "onboard_time": 1683951690,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211386,
       "num": 211386,
       "word": "盒马回应榴莲涨价",
@@ -729,14 +745,6 @@
       "onboard_time": 1683948090,
       "rank": 38,
       "category": "幽默,科技"
-    },
-    {
-      "raw_hot": 194388,
-      "num": 194388,
-      "word": "你会和闺蜜AA看演唱会吗",
-      "onboard_time": 1683951150,
-      "rank": 38,
-      "category": "情感,音乐"
     },
     {
       "raw_hot": 191135,
@@ -939,6 +947,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 150111,
+      "num": 150111,
+      "word": "九尾清清对话国家级非遗传承人",
+      "onboard_time": 1683952226,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 149538,
       "num": 149538,
       "word": "手机后三位是你房子的面积",
@@ -961,6 +977,14 @@
       "onboard_time": 1683942866,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136557,
+      "num": 164849,
+      "word": "塞学家研究所",
+      "onboard_time": 1683951268,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 136481,
@@ -1057,14 +1081,6 @@
       "onboard_time": 1683897209,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114833,
-      "num": 164849,
-      "word": "塞学家研究所",
-      "onboard_time": 1683951268,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 111377,
@@ -1225,6 +1241,9 @@
     },
     {
       "word": "#习近平在石家庄市考察调研#"
+    },
+    {
+      "word": "#京津冀发展有了新目标#"
     }
   ]
 }
