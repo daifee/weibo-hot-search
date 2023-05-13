@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683945653353,
+  "endTime": 1683947839304,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 4066324,
-      "num": 534011,
+      "num": 543914,
       "word": "洪欣张丹峰没离婚",
       "onboard_time": 1683941551,
       "rank": 13,
@@ -899,6 +899,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2096344,
+      "num": 941805,
+      "word": "被婆婆压身下数落女子丈夫出国读博",
+      "onboard_time": 1683940529,
+      "rank": 30,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 2092927,
       "num": 2092927,
       "word": "调休",
@@ -993,14 +1001,6 @@
       "onboard_time": 1683260915,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2007715,
-      "num": 941805,
-      "word": "被婆婆压身下数落女子丈夫出国读博",
-      "onboard_time": 1683940529,
-      "rank": 30,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 2005249,
@@ -1243,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1815274,
+      "num": 1712602,
+      "word": "温精灵颜九聊天记录",
+      "onboard_time": 1683935484,
+      "rank": 4,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1812486,
       "num": 1812486,
       "word": "漫长的季节 封神",
@@ -1433,14 +1441,6 @@
       "onboard_time": 1683847585,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1712602,
-      "num": 1712602,
-      "word": "温精灵颜九聊天记录",
-      "onboard_time": 1683935484,
-      "rank": 4,
-      "category": "网红"
     },
     {
       "raw_hot": 1708893,
@@ -4475,6 +4475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 798651,
+      "num": 798651,
+      "word": "那英问我儿子19了吗",
+      "onboard_time": 1683942930,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 796097,
       "num": 796097,
       "word": "周也早几年干嘛去了",
@@ -4684,7 +4692,7 @@
     },
     {
       "raw_hot": 755928,
-      "num": 479363,
+      "num": 755582,
       "word": "男童酒店客房误食用过的安全套",
       "onboard_time": 1683943467,
       "rank": 12,
@@ -5489,6 +5497,14 @@
       "onboard_time": 1683867693,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 642758,
+      "num": 642758,
+      "word": "浪姐4出场费",
+      "onboard_time": 1683946588,
+      "rank": 8,
+      "category": "艺人,影视"
     },
     {
       "raw_hot": 641820,
@@ -6667,14 +6683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 540835,
-      "num": 540835,
-      "word": "那英问我儿子19了吗",
-      "onboard_time": 1683942930,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 540832,
       "num": 284039,
       "word": "射雕英雄传侠之大者",
@@ -7027,6 +7035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 515178,
+      "num": 515178,
+      "word": "女子辞年薪50万工作照顾瘫痪奶奶",
+      "onboard_time": 1683945628,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 515154,
       "num": 515154,
       "word": "洛阳规划局",
@@ -7185,6 +7201,14 @@
       "onboard_time": 1683286351,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 502836,
+      "num": 502836,
+      "word": "初级会计",
+      "onboard_time": 1683936866,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 502702,
@@ -8433,6 +8457,14 @@
       "onboard_time": 1683895229,
       "rank": 16,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 426628,
+      "num": 426628,
+      "word": "AI孙燕姿",
+      "onboard_time": 1683945748,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 426439,
@@ -10811,6 +10843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 342679,
+      "num": 342679,
+      "word": "日本男子阳台蹲守7小时杀害前女友",
+      "onboard_time": 1683946170,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342643,
       "num": 301296,
       "word": "接我担解约",
@@ -11233,14 +11273,6 @@
       "onboard_time": 1683345394,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 332527,
-      "num": 332527,
-      "word": "初级会计",
-      "onboard_time": 1683936866,
-      "rank": 26,
-      "category": "教育"
     },
     {
       "raw_hot": 331818,
@@ -13243,6 +13275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284706,
+      "num": 284706,
+      "word": "出席戛纳红毯的明星",
+      "onboard_time": 1683945330,
+      "rank": 40,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 284575,
       "num": 252060,
       "word": "长期运动和学习大脑更灵活",
@@ -14003,6 +14043,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 267671,
+      "num": 267671,
+      "word": "天天瘦版王宝强",
+      "onboard_time": 1683945208,
+      "rank": 30,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 267524,
       "num": 267524,
       "word": "秦霄贤报平安",
@@ -14209,6 +14257,14 @@
       "onboard_time": 1682949030,
       "rank": 27,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 263724,
+      "num": 263724,
+      "word": "原来十斤肉有这么多",
+      "onboard_time": 1683947426,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 263612,
@@ -14777,6 +14833,14 @@
       "onboard_time": 1683594749,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252961,
+      "num": 252961,
+      "word": "某考研机构欲花百万请孟羽童代言",
+      "onboard_time": 1683947369,
+      "rank": 31,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 252825,
@@ -15729,14 +15793,6 @@
       "onboard_time": 1683083492,
       "rank": 31,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 239179,
-      "num": 239179,
-      "word": "天天瘦版王宝强",
-      "onboard_time": 1683945208,
-      "rank": 30,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 239084,
@@ -19707,6 +19763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187322,
+      "num": 187322,
+      "word": "乘风2023一公歌单",
+      "onboard_time": 1683947667,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187182,
       "num": 187182,
       "word": "白敬亭身边好多鞋",
@@ -20097,6 +20161,14 @@
       "onboard_time": 1683257732,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181739,
+      "num": 181739,
+      "word": "成毅到达南京",
+      "onboard_time": 1683946887,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 181549,
@@ -21027,14 +21099,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 171878,
-      "num": 171878,
-      "word": "出席戛纳红毯的明星",
-      "onboard_time": 1683945330,
-      "rank": 40,
-      "category": "影视,时尚"
-    },
-    {
       "raw_hot": 171751,
       "num": 173166,
       "word": "KPL总决赛",
@@ -21737,6 +21801,14 @@
       "onboard_time": 1683436949,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 161513,
+      "num": 161513,
+      "word": "退役警犬离世战友们赶来送别",
+      "onboard_time": 1683947129,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161304,
@@ -22875,6 +22947,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 144320,
+      "num": 144320,
+      "word": "周也给一百个包子画表情包",
+      "onboard_time": 1683946410,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144312,
       "num": 144312,
       "word": "seventeen将推出官方表情包",
@@ -22897,14 +22977,6 @@
       "onboard_time": 1683357151,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 143492,
-      "num": 143492,
-      "word": "女子辞年薪50万工作照顾瘫痪奶奶",
-      "onboard_time": 1683945628,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143330,
@@ -25665,6 +25737,14 @@
       "onboard_time": 1683933680,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65210,
+      "num": 128766,
+      "word": "菠萝油条虾",
+      "onboard_time": 1683946710,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 64742,
