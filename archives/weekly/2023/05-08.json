@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1684005159032,
+  "endTime": 1684006409414,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -11835,6 +11835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142987,
+      "num": 142987,
+      "word": "美依礼芽投票依旧断层",
+      "onboard_time": 1684002136,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142951,
       "num": 142951,
       "word": "请假被要求带电脑",
@@ -12209,14 +12217,6 @@
       "onboard_time": 1683856949,
       "rank": 45,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 131925,
-      "num": 102559,
-      "word": "美依礼芽投票依旧断层",
-      "onboard_time": 1684002136,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 130855,
@@ -13411,6 +13411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 28426,
+      "num": 29886,
+      "word": "救命和crush恋爱了",
+      "onboard_time": 1684004055,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 26638,
       "num": 26638,
       "word": "挖呀挖",
@@ -13472,6 +13480,14 @@
       "word": "食客起冲突见民警后气氛瞬间缓和",
       "onboard_time": 1683757093,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20356,
+      "num": 29876,
+      "word": "男子倒提的婴儿为模型",
+      "onboard_time": 1684003213,
+      "rank": 48,
       "category": "社会新闻"
     },
     {

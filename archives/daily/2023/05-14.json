@@ -1,6 +1,6 @@
 {
   "startTime": 1683994827629,
-  "endTime": 1684005159032,
+  "endTime": 1684006409414,
   "band_list": [
     {
       "raw_hot": 1598965,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142987,
+      "num": 142987,
+      "word": "美依礼芽投票依旧断层",
+      "onboard_time": 1684002136,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140623,
       "num": 140623,
       "word": "Fly FMVP",
@@ -377,14 +385,6 @@
       "onboard_time": 1683980668,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131925,
-      "num": 102559,
-      "word": "美依礼芽投票依旧断层",
-      "onboard_time": 1684002136,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 126177,
@@ -521,6 +521,22 @@
       "onboard_time": 1684003515,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 28426,
+      "num": 29886,
+      "word": "救命和crush恋爱了",
+      "onboard_time": 1684004055,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 20356,
+      "num": 29876,
+      "word": "男子倒提的婴儿为模型",
+      "onboard_time": 1684003213,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7979,
