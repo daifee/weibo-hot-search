@@ -1,6 +1,6 @@
 {
   "startTime": 1683908490327,
-  "endTime": 1683970419103,
+  "endTime": 1683973006704,
   "band_list": [
     {
       "raw_hot": 4066324,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1825187,
+      "num": 1825187,
+      "word": "难怪贾静雯生气",
+      "onboard_time": 1683962068,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1815274,
       "num": 1712602,
       "word": "温精灵颜九聊天记录",
@@ -171,14 +179,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 1464808,
-      "num": 1067835,
-      "word": "难怪贾静雯生气",
-      "onboard_time": 1683962068,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1463945,
       "num": 1463945,
       "word": "五月天深圳抢票",
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 1354471,
-      "num": 1298021,
+      "num": 1352373,
       "word": "浪姐一公分数 离谱",
       "onboard_time": 1683962550,
       "rank": 8,
@@ -201,6 +201,14 @@
       "onboard_time": 1683934945,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1208451,
+      "num": 872424,
+      "word": "刘雅瑟 油",
+      "onboard_time": 1683967109,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 1172789,
@@ -225,6 +233,14 @@
       "onboard_time": 1683907110,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1045460,
+      "num": 1045460,
+      "word": "赵露思吊带露背裙",
+      "onboard_time": 1683968909,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1033933,
@@ -267,14 +283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 835289,
-      "num": 835289,
-      "word": "赵露思吊带露背裙",
-      "onboard_time": 1683968909,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 803799,
       "num": 803799,
       "word": "原来小燕子真的穿的花衣",
@@ -305,14 +313,6 @@
       "onboard_time": 1683943467,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 738983,
-      "num": 210454,
-      "word": "刘雅瑟 油",
-      "onboard_time": 1683967109,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 721093,
@@ -371,6 +371,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 670343,
+      "num": 305141,
+      "word": "王俊凯香港",
+      "onboard_time": 1683969989,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 656988,
       "num": 656988,
       "word": "母亲节送什么",
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 643150,
-      "num": 222127,
+      "num": 241515,
       "word": "洪欣在评论区的留言",
       "onboard_time": 1683966628,
       "rank": 42,
@@ -523,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 482454,
+      "num": 1457180,
+      "word": "产科医生给女儿手绘妊娠纹科普画",
+      "onboard_time": 1683970890,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480725,
       "num": 232694,
       "word": "problem好女团",
@@ -545,6 +561,14 @@
       "onboard_time": 1683960149,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 472115,
+      "num": 279115,
+      "word": "李荣浩第一次吃乌梅子酱",
+      "onboard_time": 1683968487,
+      "rank": 31,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 470204,
@@ -627,8 +651,16 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 428344,
+      "num": 203427,
+      "word": "天官赐福",
+      "onboard_time": 1683971369,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 427722,
-      "num": 427722,
+      "num": 1183673,
       "word": "浙FD39915为你点赞",
       "onboard_time": 1683963268,
       "rank": 9,
@@ -660,7 +692,7 @@
     },
     {
       "raw_hot": 401279,
-      "num": 215589,
+      "num": 229359,
       "word": "月薪1万和5万的差别",
       "onboard_time": 1683956130,
       "rank": 23,
@@ -699,28 +731,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 380673,
-      "num": 163627,
-      "word": "王俊凯香港",
-      "onboard_time": 1683969989,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 380420,
       "num": 380420,
       "word": "女子小区内放生五盒蟑螂被制止",
       "onboard_time": 1683939749,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 375723,
-      "num": 190251,
-      "word": "李荣浩第一次吃乌梅子酱",
-      "onboard_time": 1683968487,
-      "rank": 31,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 373688,
@@ -732,7 +748,7 @@
     },
     {
       "raw_hot": 371514,
-      "num": 371514,
+      "num": 880899,
       "word": "谷爱凌林孝埈等获冬运中心表彰",
       "onboard_time": 1683961408,
       "rank": 19,
@@ -753,6 +769,14 @@
       "onboard_time": 1683943409,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 363654,
+      "num": 363654,
+      "word": "TES官宣dian加入",
+      "onboard_time": 1683970890,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 359059,
@@ -785,6 +809,14 @@
       "onboard_time": 1683894690,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337063,
+      "num": 337063,
+      "word": "水瓶座非常相信自己的直觉判断",
+      "onboard_time": 1683967648,
+      "rank": 38,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 328015,
@@ -867,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 306332,
+      "num": 160591,
+      "word": "陈妍希儿子说不想长得帅又好看",
+      "onboard_time": 1683971247,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300762,
       "num": 300762,
       "word": "你相信有天性很坏的孩子吗",
@@ -939,6 +979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 278497,
+      "num": 135754,
+      "word": "陈意涵问修杰楷你在哪儿",
+      "onboard_time": 1683971247,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277166,
       "num": 277166,
       "word": "你会和闺蜜AA看演唱会吗",
@@ -969,6 +1017,14 @@
       "onboard_time": 1683937887,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263950,
+      "num": 157062,
+      "word": "唐嫣线下活动",
+      "onboard_time": 1683970228,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 262387,
@@ -1083,6 +1139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 226777,
+      "num": 226777,
+      "word": "00后女生旅游不忘给新手机开光",
+      "onboard_time": 1683971668,
+      "rank": 24,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 220317,
       "num": 220317,
       "word": "九鹭非香的女主",
@@ -1145,14 +1209,6 @@
       "onboard_time": 1683968190,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 206278,
-      "num": 157062,
-      "word": "唐嫣线下活动",
-      "onboard_time": 1683970228,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 205875,
@@ -1355,6 +1411,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171381,
+      "num": 171381,
+      "word": "男生真的会有喜欢却不主动的吗",
+      "onboard_time": 1683970292,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 171252,
+      "num": 171252,
+      "word": "老师用见义勇为奖金买1200支笔送高考生",
+      "onboard_time": 1683971969,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 170752,
       "num": 170752,
       "word": "NBA",
@@ -1393,14 +1465,6 @@
       "onboard_time": 1683968246,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164698,
-      "num": 185051,
-      "word": "水瓶座非常相信自己的直觉判断",
-      "onboard_time": 1683967648,
-      "rank": 38,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 163330,
@@ -1497,6 +1561,22 @@
       "onboard_time": 1683891988,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 149411,
+      "num": 155731,
+      "word": "普尔0分4犯规",
+      "onboard_time": 1683969688,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 144165,
+      "num": 144165,
+      "word": "不间断的熬夜 人生变坏的开始",
+      "onboard_time": 1683972327,
+      "rank": 36,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 143337,
@@ -1707,14 +1787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110571,
-      "num": 158613,
-      "word": "男生真的会有喜欢却不主动的吗",
-      "onboard_time": 1683970292,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 105698,
       "num": 166623,
       "word": "菠萝油条虾",
@@ -1728,14 +1800,6 @@
       "word": "里夫斯压哨三分",
       "onboard_time": 1683962189,
       "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 103751,
-      "num": 155731,
-      "word": "普尔0分4犯规",
-      "onboard_time": 1683969688,
-      "rank": 46,
       "category": "体育"
     },
     {
@@ -1760,6 +1824,22 @@
       "word": "2023KPL春季赛总决赛",
       "onboard_time": 1683957028,
       "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 88490,
+      "num": 132713,
+      "word": "小伙开餐馆给老人环卫工长期免费",
+      "onboard_time": 1683972687,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85438,
+      "num": 131644,
+      "word": "WB对战狼队",
+      "onboard_time": 1683971191,
+      "rank": 49,
       "category": "游戏"
     },
     {
@@ -1891,8 +1971,8 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 30992,
-      "num": 1328167,
+      "raw_hot": 32352,
+      "num": 1374690,
       "word": "关注2023中国中亚五国峰会",
       "onboard_time": 1683966509,
       "rank": 2,
