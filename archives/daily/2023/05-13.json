@@ -1,10 +1,10 @@
 {
   "startTime": 1683908490327,
-  "endTime": 1683947839304,
+  "endTime": 1683948816926,
   "band_list": [
     {
       "raw_hot": 4066324,
-      "num": 543914,
+      "num": 621096,
       "word": "洪欣张丹峰没离婚",
       "onboard_time": 1683941551,
       "rank": 13,
@@ -65,6 +65,14 @@
       "onboard_time": 1683933319,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1344615,
+      "num": 745875,
+      "word": "浪姐4出场费",
+      "onboard_time": 1683946588,
+      "rank": 8,
+      "category": "艺人,影视"
     },
     {
       "raw_hot": 1264934,
@@ -163,20 +171,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 642758,
-      "num": 642758,
-      "word": "浪姐4出场费",
-      "onboard_time": 1683946588,
-      "rank": 8,
-      "category": "艺人,影视"
-    },
-    {
       "raw_hot": 638286,
       "num": 638286,
       "word": "出差十五夜",
       "onboard_time": 1683905009,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 627387,
+      "num": 627387,
+      "word": "勇士vs湖人",
+      "onboard_time": 1683939928,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 604219,
+      "num": 604219,
+      "word": "原来十斤肉有这么多",
+      "onboard_time": 1683947426,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 573412,
@@ -187,12 +203,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 515178,
-      "num": 515178,
+      "raw_hot": 540987,
+      "num": 540987,
       "word": "女子辞年薪50万工作照顾瘫痪奶奶",
       "onboard_time": 1683945628,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 527185,
+      "num": 527185,
+      "word": "初级会计",
+      "onboard_time": 1683936866,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 509119,
@@ -203,20 +227,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 502836,
-      "num": 502836,
-      "word": "初级会计",
-      "onboard_time": 1683936866,
-      "rank": 26,
-      "category": "教育"
-    },
-    {
       "raw_hot": 491619,
       "num": 218115,
       "word": "田馥甄",
       "onboard_time": 1683885510,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 482119,
+      "num": 482119,
+      "word": "某考研机构欲花百万请孟羽童代言",
+      "onboard_time": 1683947369,
+      "rank": 31,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 470204,
@@ -251,8 +275,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 461389,
+      "num": 461389,
+      "word": "日晕",
+      "onboard_time": 1683948148,
+      "rank": 16,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 447971,
-      "num": 390684,
+      "num": 393043,
       "word": "前任发微信说明天要结婚了",
       "onboard_time": 1683944429,
       "rank": 20,
@@ -299,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 375468,
-      "num": 375468,
-      "word": "勇士vs湖人",
-      "onboard_time": 1683939928,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 366749,
       "num": 366749,
       "word": "对不起发达国家这顶帽子中国戴不了",
@@ -321,6 +345,14 @@
       "onboard_time": 1683943409,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 359059,
+      "num": 359059,
+      "word": "日本男子阳台蹲守7小时杀害前女友",
+      "onboard_time": 1683946170,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 356396,
@@ -344,14 +376,6 @@
       "word": "韩国低出生率结果",
       "onboard_time": 1683894690,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 342679,
-      "num": 342679,
-      "word": "日本男子阳台蹲守7小时杀害前女友",
-      "onboard_time": 1683946170,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -475,28 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 263724,
-      "num": 263724,
-      "word": "原来十斤肉有这么多",
-      "onboard_time": 1683947426,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 255034,
       "num": 255034,
       "word": "跑男弹幕",
       "onboard_time": 1683941669,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 252961,
-      "num": 252961,
-      "word": "某考研机构欲花百万请孟羽童代言",
-      "onboard_time": 1683947369,
-      "rank": 31,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 251824,
@@ -539,6 +547,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 237997,
+      "num": 237997,
+      "word": "累死库里",
+      "onboard_time": 1683948506,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234599,
       "num": 234599,
       "word": "今年教资面试难吗",
@@ -561,6 +577,14 @@
       "onboard_time": 1683890427,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 220882,
+      "num": 220882,
+      "word": "九鹭非香的剧改命真好",
+      "onboard_time": 1683947907,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 220317,
@@ -619,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198586,
+      "num": 198586,
+      "word": "乘风2023一公歌单",
+      "onboard_time": 1683947667,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198299,
       "num": 198299,
       "word": "王子奇一种很新的撕漫男",
@@ -627,20 +659,20 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 195320,
+      "num": 195320,
+      "word": "你的手机设置了多少个闹钟",
+      "onboard_time": 1683948090,
+      "rank": 38,
+      "category": "幽默,科技"
+    },
+    {
       "raw_hot": 191135,
       "num": 171082,
       "word": "老爸老妈今晚睡不着了",
       "onboard_time": 1683932718,
       "rank": 34,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 187322,
-      "num": 187322,
-      "word": "乘风2023一公歌单",
-      "onboard_time": 1683947667,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 186624,
@@ -705,6 +737,14 @@
       "onboard_time": 1683945089,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170752,
+      "num": 170752,
+      "word": "NBA",
+      "onboard_time": 1683948748,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 169507,
@@ -779,6 +819,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 151012,
+      "num": 151012,
+      "word": "周也给一百个包子画表情包",
+      "onboard_time": 1683946410,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150816,
       "num": 150816,
       "word": "小伙努力3年无人问凭一首神曲逆袭",
@@ -793,14 +841,6 @@
       "onboard_time": 1683891988,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 144320,
-      "num": 144320,
-      "word": "周也给一百个包子画表情包",
-      "onboard_time": 1683946410,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 143337,
@@ -924,7 +964,7 @@
     },
     {
       "raw_hot": 111152,
-      "num": 129006,
+      "num": 147938,
       "word": "MSI",
       "onboard_time": 1683933499,
       "rank": 40,
@@ -980,7 +1020,7 @@
     },
     {
       "raw_hot": 65210,
-      "num": 128766,
+      "num": 146460,
       "word": "菠萝油条虾",
       "onboard_time": 1683946710,
       "rank": 49,
@@ -1041,6 +1081,14 @@
       "onboard_time": 1683898109,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38287,
+      "num": 144833,
+      "word": "太空视角看喜马拉雅山",
+      "onboard_time": 1683947846,
+      "rank": 49,
+      "category": "旅游,自然"
     },
     {
       "raw_hot": 32694,
