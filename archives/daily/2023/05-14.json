@@ -1,6 +1,6 @@
 {
   "startTime": 1683994827629,
-  "endTime": 1683994827629,
+  "endTime": 1683995752605,
   "band_list": [
     {
       "raw_hot": 1598965,
@@ -123,12 +123,20 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 376002,
+      "raw_hot": 381315,
       "num": 689289,
       "word": "自称长相比较可爱女副教授回应",
       "onboard_time": 1683990332,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 351584,
+      "num": 249012,
+      "word": "她有种不在国内的自信",
+      "onboard_time": 1683991534,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 350774,
@@ -145,14 +153,6 @@
       "onboard_time": 1683991112,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 328858,
-      "num": 249012,
-      "word": "她有种不在国内的自信",
-      "onboard_time": 1683991534,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 326616,
@@ -179,6 +179,14 @@
       "category": "教育,情感"
     },
     {
+      "raw_hot": 279954,
+      "num": 279954,
+      "word": "蔡天凤家属拟用3D技术修复其遗体",
+      "onboard_time": 1683990572,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271032,
       "num": 271032,
       "word": "拿到拆迁款前几天人去世了",
@@ -193,14 +201,6 @@
       "onboard_time": 1683955349,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 250759,
-      "num": 250759,
-      "word": "蔡天凤家属拟用3D技术修复其遗体",
-      "onboard_time": 1683990572,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248134,
@@ -251,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204239,
+      "num": 142646,
+      "word": "墨西哥平民窟天才少女",
+      "onboard_time": 1683994049,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200736,
       "num": 152526,
       "word": "战至巅峰",
@@ -267,8 +275,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196253,
+      "num": 137996,
+      "word": "还得是赵兆",
+      "onboard_time": 1683994468,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181391,
-      "num": 181391,
+      "num": 225193,
       "word": "Fly没有求婚",
       "onboard_time": 1683988113,
       "rank": 33,
@@ -288,14 +304,6 @@
       "word": "徐明浩照顾高叶的方式",
       "onboard_time": 1683993509,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 168473,
-      "num": 137996,
-      "word": "还得是赵兆",
-      "onboard_time": 1683994468,
-      "rank": 42,
       "category": "综艺"
     },
     {
@@ -339,14 +347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142646,
-      "num": 142646,
-      "word": "墨西哥平民窟天才少女",
-      "onboard_time": 1683994049,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140623,
       "num": 140623,
       "word": "Fly FMVP",
@@ -371,20 +371,20 @@
       "category": "游戏,美妆"
     },
     {
+      "raw_hot": 123551,
+      "num": 123551,
+      "word": "原来在北京还能这么过母亲节",
+      "onboard_time": 1683994049,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113974,
       "num": 113974,
       "word": "杨鸣",
       "onboard_time": 1683986855,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108431,
-      "num": 108431,
-      "word": "原来在北京还能这么过母亲节",
-      "onboard_time": 1683994049,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106310,
@@ -395,7 +395,23 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7345,
+      "raw_hot": 94985,
+      "num": 118241,
+      "word": "女子因感情问题想跳桥民警一把抱回",
+      "onboard_time": 1683995667,
+      "rank": 39,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 94308,
+      "num": 94308,
+      "word": "狼队八冠王",
+      "onboard_time": 1683985290,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 7979,
       "num": 1082573,
       "word": "关注2023中国中亚五国峰会",
       "onboard_time": 1683966509,
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#深入推进京津冀协同发展#"
+    },
+    {
+      "word": "#京津冀发展有了新目标#"
     }
   ]
 }
