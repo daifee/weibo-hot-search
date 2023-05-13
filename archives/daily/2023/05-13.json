@@ -1,6 +1,6 @@
 {
   "startTime": 1683908490327,
-  "endTime": 1683948816926,
+  "endTime": 1683951596985,
   "band_list": [
     {
       "raw_hot": 4066324,
@@ -19,8 +19,16 @@
       "category": "网红"
     },
     {
-      "raw_hot": 2735381,
-      "num": 538342,
+      "raw_hot": 2851068,
+      "num": 2851068,
+      "word": "武汉太阳",
+      "onboard_time": 1683949648,
+      "rank": 0,
+      "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 2822440,
+      "num": 609012,
       "word": "洪欣张丹峰道歉",
       "onboard_time": 1683941127,
       "rank": 10,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 2096344,
-      "num": 941805,
+      "num": 1466705,
       "word": "被婆婆压身下数落女子丈夫出国读博",
       "onboard_time": 1683940529,
       "rank": 30,
@@ -67,12 +75,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1344615,
-      "num": 745875,
+      "raw_hot": 1476537,
+      "num": 1476537,
       "word": "浪姐4出场费",
       "onboard_time": 1683946588,
       "rank": 8,
       "category": "艺人,影视"
+    },
+    {
+      "raw_hot": 1463945,
+      "num": 1463945,
+      "word": "五月天深圳抢票",
+      "onboard_time": 1683949530,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 1264934,
@@ -81,6 +97,14 @@
       "onboard_time": 1683934945,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1172789,
+      "num": 1172789,
+      "word": "原来十斤肉有这么多",
+      "onboard_time": 1683947426,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 1085505,
@@ -155,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 695486,
+      "num": 695486,
+      "word": "累死库里",
+      "onboard_time": 1683948506,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 682176,
       "num": 682176,
       "word": "如果产检发现孩子有问题你会留下吗",
@@ -171,28 +203,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 638286,
-      "num": 638286,
-      "word": "出差十五夜",
-      "onboard_time": 1683905009,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 627387,
-      "num": 627387,
+      "raw_hot": 643004,
+      "num": 643004,
       "word": "勇士vs湖人",
       "onboard_time": 1683939928,
       "rank": 18,
       "category": "体育"
     },
     {
-      "raw_hot": 604219,
-      "num": 604219,
-      "word": "原来十斤肉有这么多",
-      "onboard_time": 1683947426,
-      "rank": 29,
-      "category": "幽默"
+      "raw_hot": 638286,
+      "num": 638286,
+      "word": "出差十五夜",
+      "onboard_time": 1683905009,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 573412,
@@ -209,6 +233,22 @@
       "onboard_time": 1683945628,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 540881,
+      "num": 540881,
+      "word": "某考研机构欲花百万请孟羽童代言",
+      "onboard_time": 1683947369,
+      "rank": 31,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 529956,
+      "num": 529956,
+      "word": "曾黎饭量",
+      "onboard_time": 1683949771,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 527185,
@@ -235,14 +275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 482119,
-      "num": 482119,
-      "word": "某考研机构欲花百万请孟羽童代言",
-      "onboard_time": 1683947369,
-      "rank": 31,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 470204,
       "num": 470204,
       "word": "沈小婷韩国宿舍",
@@ -259,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 468000,
+      "num": 468000,
+      "word": "日晕",
+      "onboard_time": 1683948148,
+      "rank": 16,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 467275,
       "num": 467275,
       "word": "美国警察处理家暴时连开四枪击毙主妇",
@@ -273,14 +313,6 @@
       "onboard_time": 1683941489,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 461389,
-      "num": 461389,
-      "word": "日晕",
-      "onboard_time": 1683948148,
-      "rank": 16,
-      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 447971,
@@ -329,6 +361,14 @@
       "onboard_time": 1683939749,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371883,
+      "num": 371883,
+      "word": "乘风2023一公",
+      "onboard_time": 1683950068,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 366749,
@@ -427,6 +467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 301132,
+      "num": 301132,
+      "word": "洪欣的致歉信不是繁体字",
+      "onboard_time": 1683951507,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300762,
       "num": 300762,
       "word": "你相信有天性很坏的孩子吗",
@@ -441,6 +489,14 @@
       "onboard_time": 1683883769,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 295983,
+      "num": 295983,
+      "word": "刘耀文把摄影师跑丢了",
+      "onboard_time": 1683950249,
+      "rank": 27,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 292744,
@@ -465,6 +521,22 @@
       "onboard_time": 1683945330,
       "rank": 40,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 282404,
+      "num": 282404,
+      "word": "九鹭非香的剧改命真好",
+      "onboard_time": 1683947907,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 280332,
+      "num": 280332,
+      "word": "施罗德被驱逐",
+      "onboard_time": 1683950974,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 277556,
@@ -496,6 +568,14 @@
       "word": "男子无证酒驾撞人后抛尸江中",
       "onboard_time": 1683937887,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256356,
+      "num": 256356,
+      "word": "汶川钢腿女孩重回获救地",
+      "onboard_time": 1683950790,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -547,14 +627,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 237997,
-      "num": 237997,
-      "word": "累死库里",
-      "onboard_time": 1683948506,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 234599,
       "num": 234599,
       "word": "今年教资面试难吗",
@@ -577,14 +649,6 @@
       "onboard_time": 1683890427,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 220882,
-      "num": 220882,
-      "word": "九鹭非香的剧改命真好",
-      "onboard_time": 1683947907,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 220317,
@@ -667,12 +731,28 @@
       "category": "幽默,科技"
     },
     {
+      "raw_hot": 194388,
+      "num": 194388,
+      "word": "你会和闺蜜AA看演唱会吗",
+      "onboard_time": 1683951150,
+      "rank": 38,
+      "category": "情感,音乐"
+    },
+    {
       "raw_hot": 191135,
       "num": 171082,
       "word": "老爸老妈今晚睡不着了",
       "onboard_time": 1683932718,
       "rank": 34,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 189613,
+      "num": 189613,
+      "word": "十个勤天",
+      "onboard_time": 1683950667,
+      "rank": 39,
+      "category": "其它"
     },
     {
       "raw_hot": 186624,
@@ -707,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175894,
+      "num": 175894,
+      "word": "你好星期六",
+      "onboard_time": 1683950429,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175652,
       "num": 175652,
       "word": "妈妈染指甲被儿子说",
@@ -731,6 +819,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 174111,
+      "num": 174111,
+      "word": "100岁新四军老战士捐60万助学",
+      "onboard_time": 1683950487,
+      "rank": 43,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 173625,
       "num": 173625,
       "word": "狼来了",
@@ -745,6 +841,14 @@
       "onboard_time": 1683948748,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169637,
+      "num": 169637,
+      "word": "ZB1机场生图",
+      "onboard_time": 1683951448,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 169507,
@@ -955,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114833,
+      "num": 164849,
+      "word": "塞学家研究所",
+      "onboard_time": 1683951268,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 111377,
       "num": 111377,
       "word": "看老照片",
@@ -964,7 +1076,7 @@
     },
     {
       "raw_hot": 111152,
-      "num": 147938,
+      "num": 164769,
       "word": "MSI",
       "onboard_time": 1683933499,
       "rank": 40,
@@ -977,6 +1089,14 @@
       "onboard_time": 1683881368,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105698,
+      "num": 164798,
+      "word": "菠萝油条虾",
+      "onboard_time": 1683946710,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 101101,
@@ -1017,14 +1137,6 @@
       "onboard_time": 1683933680,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65210,
-      "num": 146460,
-      "word": "菠萝油条虾",
-      "onboard_time": 1683946710,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 64547,
@@ -1076,7 +1188,7 @@
     },
     {
       "raw_hot": 39090,
-      "num": 1093797,
+      "num": 1467096,
       "word": "第一视角看航天员进入天舟六号",
       "onboard_time": 1683898109,
       "rank": 2,
