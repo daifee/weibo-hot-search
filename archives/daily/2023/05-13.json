@@ -1,6 +1,6 @@
 {
   "startTime": 1683908490327,
-  "endTime": 1683990951012,
+  "endTime": 1683992012557,
   "band_list": [
     {
       "raw_hot": 4066324,
@@ -307,6 +307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1120308,
+      "num": 1120308,
+      "word": "浪姐4回应",
+      "onboard_time": 1683991174,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1086421,
       "num": 1086421,
       "word": "郑秀妍淘汰",
@@ -371,6 +379,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 919889,
+      "num": 919889,
+      "word": "如何看待月薪14万但需提供跪地服务",
+      "onboard_time": 1683989493,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 900100,
       "num": 900100,
       "word": "狼队八冠王",
@@ -419,6 +435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 790340,
+      "num": 592957,
+      "word": "温精灵",
+      "onboard_time": 1683989913,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 788075,
       "num": 788075,
       "word": "难怪徐志胜会有女朋友",
@@ -449,6 +473,14 @@
       "onboard_time": 1683943467,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 735543,
+      "num": 735543,
+      "word": "e人沉默 i人落泪",
+      "onboard_time": 1683989673,
+      "rank": 7,
+      "category": "情感,影视"
     },
     {
       "raw_hot": 726678,
@@ -515,14 +547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 689017,
-      "num": 535578,
-      "word": "温精灵",
-      "onboard_time": 1683989913,
-      "rank": 15,
-      "category": "网红"
-    },
-    {
       "raw_hot": 682176,
       "num": 682176,
       "word": "如果产检发现孩子有问题你会留下吗",
@@ -545,14 +569,6 @@
       "onboard_time": 1683969989,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 658785,
-      "num": 658785,
-      "word": "e人沉默 i人落泪",
-      "onboard_time": 1683989673,
-      "rank": 7,
-      "category": "情感,影视"
     },
     {
       "raw_hot": 656988,
@@ -579,12 +595,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 637043,
+      "num": 637043,
+      "word": "母亲节",
+      "onboard_time": 1683991712,
+      "rank": 9,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 621967,
       "num": 204234,
       "word": "王俊凯去哪",
       "onboard_time": 1683976527,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 610146,
+      "num": 319339,
+      "word": "王俊凯周杰伦合唱雨下一整晚",
+      "onboard_time": 1683990272,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 580777,
@@ -617,6 +649,14 @@
       "onboard_time": 1683963930,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 564608,
+      "num": 564608,
+      "word": "曹淑敏任国家广播电视总局局长",
+      "onboard_time": 1683990993,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 542859,
@@ -657,14 +697,6 @@
       "onboard_time": 1683947369,
       "rank": 31,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 536407,
-      "num": 536407,
-      "word": "如何看待月薪14万但需提供跪地服务",
-      "onboard_time": 1683989493,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 529956,
@@ -971,6 +1003,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 419989,
+      "num": 256501,
+      "word": "墨香铜臭",
+      "onboard_time": 1683991112,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 415903,
       "num": 2095097,
       "word": "KPL总决赛",
@@ -1203,6 +1243,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 328287,
+      "num": 328287,
+      "word": "自称长相比较可爱女副教授回应",
+      "onboard_time": 1683990332,
+      "rank": 33,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 328015,
       "num": 216316,
       "word": "一日为师周深为父",
@@ -1233,6 +1281,14 @@
       "onboard_time": 1683965428,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320868,
+      "num": 255708,
+      "word": "Amber滑跪",
+      "onboard_time": 1683990756,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 317645,
@@ -1347,6 +1403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 290965,
+      "num": 242694,
+      "word": "王源让大家正经一点",
+      "onboard_time": 1683990756,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 290355,
       "num": 290355,
       "word": "对抗路还得看Fly",
@@ -1377,14 +1441,6 @@
       "onboard_time": 1683944848,
       "rank": 32,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 284714,
-      "num": 230438,
-      "word": "王俊凯周杰伦合唱雨下一整晚",
-      "onboard_time": 1683990272,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 284706,
@@ -1507,8 +1563,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 255771,
-      "num": 255771,
+      "raw_hot": 256512,
+      "num": 256512,
       "word": "女顾客称因不想续卡遭三名店员围殴",
       "onboard_time": 1683989913,
       "rank": 22,
@@ -1531,6 +1587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248724,
+      "num": 248724,
+      "word": "蔡天凤家属拟用3D技术修复其遗体",
+      "onboard_time": 1683990572,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245930,
       "num": 149716,
       "word": "薛之谦济南",
@@ -1547,6 +1611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243024,
+      "num": 184030,
+      "word": "王源预告过了一个城市一个发色",
+      "onboard_time": 1683991952,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 242694,
       "num": 178337,
       "word": "problem舞台太炸了",
@@ -1561,14 +1633,6 @@
       "onboard_time": 1683990272,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 240219,
-      "num": 167631,
-      "word": "王源让大家正经一点",
-      "onboard_time": 1683990756,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 240079,
@@ -1635,20 +1699,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 233414,
+      "num": 233414,
+      "word": "今天沈阳沸腾了",
+      "onboard_time": 1683990874,
+      "rank": 48,
+      "category": "体育,音乐"
+    },
+    {
       "raw_hot": 231294,
       "num": 231294,
       "word": "高中语文",
       "onboard_time": 1683939388,
       "rank": 22,
       "category": "教育"
-    },
-    {
-      "raw_hot": 230531,
-      "num": 162513,
-      "word": "Amber滑跪",
-      "onboard_time": 1683990756,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 230360,
@@ -1691,14 +1755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 221454,
-      "num": 221454,
-      "word": "自称长相比较可爱女副教授回应",
-      "onboard_time": 1683990332,
-      "rank": 33,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 220317,
       "num": 220317,
       "word": "九鹭非香的女主",
@@ -1729,6 +1785,14 @@
       "onboard_time": 1683954993,
       "rank": 36,
       "category": "网红"
+    },
+    {
+      "raw_hot": 214025,
+      "num": 214025,
+      "word": "她有种不在国内的自信",
+      "onboard_time": 1683991534,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 213794,
@@ -1971,14 +2035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185186,
-      "num": 185186,
-      "word": "蔡天凤家属拟用3D技术修复其遗体",
-      "onboard_time": 1683990572,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185154,
       "num": 185154,
       "word": "杨洋出发威尼斯机场视频",
@@ -2009,6 +2065,14 @@
       "onboard_time": 1683970292,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 179131,
+      "num": 179131,
+      "word": "切尔西",
+      "onboard_time": 1683991473,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 176294,
@@ -2132,7 +2196,7 @@
     },
     {
       "raw_hot": 163734,
-      "num": 163734,
+      "num": 248098,
       "word": "法国救援人员拆墙救391公斤老太太",
       "onboard_time": 1683990093,
       "rank": 45,
@@ -2273,14 +2337,6 @@
       "onboard_time": 1683965668,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 139716,
-      "num": 155601,
-      "word": "今天沈阳沸腾了",
-      "onboard_time": 1683990874,
-      "rank": 48,
-      "category": "体育,音乐"
     },
     {
       "raw_hot": 138876,
@@ -2687,6 +2743,9 @@
     },
     {
       "word": "#深入推进京津冀协同发展#"
+    },
+    {
+      "word": "#努力使京津冀成为中国式现代化建设的先行区示范区#"
     }
   ]
 }
