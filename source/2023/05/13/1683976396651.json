@@ -1,0 +1,410 @@
+{
+  "runTime": 1683976396651,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2778177,
+        "num": 2778177,
+        "word": "浪姐 79分21秒",
+        "onboard_time": 1683975569,
+        "rank": 0,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 404117,
+        "num": 1782568,
+        "word": "产科医生给女儿手绘妊娠纹科普画",
+        "onboard_time": 1683970890,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21084,
+        "num": 1559604,
+        "word": "关注2023中国中亚五国峰会",
+        "onboard_time": 1683966509,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1374723,
+        "num": 1374723,
+        "word": "浪姐一公分数 离谱",
+        "onboard_time": 1683962550,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337717,
+        "num": 1172570,
+        "word": "老师用见义勇为奖金买1200支笔送高考生",
+        "onboard_time": 1683971969,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 755856,
+        "num": 1169555,
+        "word": "赵露思吊带露背裙",
+        "onboard_time": 1683968909,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174022,
+        "num": 1169095,
+        "word": "浙FD39915为你点赞",
+        "onboard_time": 1683963268,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1169016,
+        "num": 1169016,
+        "word": "刘雅瑟 油",
+        "onboard_time": 1683967109,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 793573,
+        "num": 793573,
+        "word": "天官赐福",
+        "onboard_time": 1683971369,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 492999,
+        "num": 492999,
+        "word": "男子淄博吃烧烤吐槽扇贝肉指甲大",
+        "onboard_time": 1683958350,
+        "rank": 9,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 1073732,
+        "num": 477852,
+        "word": "难怪贾静雯生气",
+        "onboard_time": 1683962068,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 863790,
+        "num": 475017,
+        "word": "李荣浩第一次吃乌梅子酱",
+        "onboard_time": 1683968487,
+        "rank": 11,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 451540,
+        "num": 451540,
+        "word": "不间断的熬夜 人生变坏的开始",
+        "onboard_time": 1683972327,
+        "rank": 12,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 852255,
+        "num": 447740,
+        "word": "花海居然输了",
+        "onboard_time": 1683955349,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383901,
+        "num": 383901,
+        "word": "因为买榴莲和男友吵了一架",
+        "onboard_time": 1683973529,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 741942,
+        "num": 380107,
+        "word": "赵露思 瘦而不柴",
+        "onboard_time": 1683975149,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 821515,
+        "num": 379695,
+        "word": "陈意涵问修杰楷你在哪儿",
+        "onboard_time": 1683971247,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360604,
+        "num": 360604,
+        "word": "医院回应男子倒提婴儿",
+        "onboard_time": 1683973046,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285756,
+        "num": 285756,
+        "word": "频繁的聊天会有恋爱的错觉吗",
+        "onboard_time": 1683966628,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214632,
+        "num": 214632,
+        "word": "TES官宣dian加入",
+        "onboard_time": 1683970890,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 679729,
+        "num": 214044,
+        "word": "难怪徐志胜会有女朋友",
+        "onboard_time": 1683962068,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 583014,
+        "num": 202248,
+        "word": "谢娜 用力过猛",
+        "onboard_time": 1683956190,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187613,
+        "num": 187613,
+        "word": "KPL总决赛",
+        "onboard_time": 1683973587,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170904,
+        "num": 170904,
+        "word": "月薪1万和5万的差别",
+        "onboard_time": 1683956130,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168244,
+        "num": 168244,
+        "word": "水瓶座非常相信自己的直觉判断",
+        "onboard_time": 1683967648,
+        "rank": 24,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 435312,
+        "num": 167845,
+        "word": "王俊凯香港",
+        "onboard_time": 1683969989,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424776,
+        "num": 167690,
+        "word": "朱珠绝美",
+        "onboard_time": 1683954690,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346159,
+        "num": 167562,
+        "word": "吉娜好漂亮",
+        "onboard_time": 1683959727,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167328,
+        "num": 167328,
+        "word": "男生真的会有喜欢却不主动的吗",
+        "onboard_time": 1683970292,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135093,
+        "num": 135093,
+        "word": "普尔0分4犯规",
+        "onboard_time": 1683969688,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330437,
+        "num": 134974,
+        "word": "徐怀钰划水",
+        "onboard_time": 1683954868,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285941,
+        "num": 134776,
+        "word": "郑秀妍淘汰",
+        "onboard_time": 1683962248,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135185,
+        "num": 134500,
+        "word": "王国之泪玩家竞选弱智吧吧主",
+        "onboard_time": 1683973768,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 292032,
+        "num": 133959,
+        "word": "花海 神仙舞台",
+        "onboard_time": 1683952590,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133935,
+        "num": 133935,
+        "word": "00后女生旅游不忘给新手机开光",
+        "onboard_time": 1683971668,
+        "rank": 34,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 262045,
+        "num": 132083,
+        "word": "侯明昊裤子",
+        "onboard_time": 1683974849,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257078,
+        "num": 131807,
+        "word": "洪欣张丹峰道歉",
+        "onboard_time": 1683941127,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116910,
+        "num": 116910,
+        "word": "原神",
+        "onboard_time": 1683975749,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112894,
+        "num": 112894,
+        "word": "英国酒吧竟然放家有儿女主题曲",
+        "onboard_time": 1683963810,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92755,
+        "num": 112847,
+        "word": "被婆婆压身下数落女子丈夫出国读博",
+        "onboard_time": 1683940529,
+        "rank": 39,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 250777,
+        "num": 112273,
+        "word": "徐怀钰 贾静雯",
+        "onboard_time": 1683960209,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248681,
+        "num": 112102,
+        "word": "陈妍希儿子说不想长得帅又好看",
+        "onboard_time": 1683971247,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206422,
+        "num": 111736,
+        "word": "洪欣在评论区的留言",
+        "onboard_time": 1683966628,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242882,
+        "num": 111131,
+        "word": "problem好女团",
+        "onboard_time": 1683955829,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201451,
+        "num": 110706,
+        "word": "瘦子 满舒克",
+        "onboard_time": 1683975988,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201213,
+        "num": 110565,
+        "word": "中国说唱巅峰对决",
+        "onboard_time": 1683976167,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110271,
+        "num": 110271,
+        "word": "WB对战狼队",
+        "onboard_time": 1683971191,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 91093,
+        "num": 110154,
+        "word": "谷爱凌林孝埈等获冬运中心表彰",
+        "onboard_time": 1683961408,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76776,
+        "num": 109844,
+        "word": "母亲节送什么",
+        "onboard_time": 1683943889,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76716,
+        "num": 109664,
+        "word": "婚宴结束新娘家人笑着说我们走啦",
+        "onboard_time": 1683965428,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#京津冀发展有了新目标#"
+    }
+  }
+}
