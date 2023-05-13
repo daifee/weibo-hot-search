@@ -1,6 +1,6 @@
 {
   "startTime": 1683994827629,
-  "endTime": 1684001997078,
+  "endTime": 1684002809024,
   "band_list": [
     {
       "raw_hot": 1598965,
@@ -355,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144242,
+      "num": 165767,
+      "word": "9旬老头因家庭矛盾砍死8旬老太",
+      "onboard_time": 1683998960,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140623,
       "num": 140623,
       "word": "Fly FMVP",
@@ -368,14 +376,6 @@
       "word": "淄博八大局知名麻辣串疑被房东赶走",
       "onboard_time": 1683980668,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130578,
-      "num": 130578,
-      "word": "9旬老头因家庭矛盾砍死8旬老太",
-      "onboard_time": 1683998960,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -481,6 +481,22 @@
       "onboard_time": 1683981028,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64627,
+      "num": 51115,
+      "word": "美依礼芽投票依旧断层",
+      "onboard_time": 1684002136,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 51438,
+      "num": 50673,
+      "word": "浪姐一公舞台哪组赢了",
+      "onboard_time": 1684002495,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 49248,
