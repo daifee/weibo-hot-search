@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683977599789,
+  "endTime": 1683980995079,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -2483,6 +2483,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 1336877,
+      "num": 1112787,
+      "word": "陈意涵问修杰楷你在哪儿",
+      "onboard_time": 1683971247,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1334706,
       "num": 1282537,
       "word": "情侣产子后分手老人帮带娃8年",
@@ -2521,6 +2529,14 @@
       "onboard_time": 1683463893,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1326375,
+      "num": 630056,
+      "word": "赵露思 瘦而不柴",
+      "onboard_time": 1683975149,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1324202,
@@ -2769,14 +2785,6 @@
       "onboard_time": 1683083071,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1253359,
-      "num": 630056,
-      "word": "赵露思 瘦而不柴",
-      "onboard_time": 1683975149,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1252981,
@@ -3123,6 +3131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1148161,
+      "num": 1148161,
+      "word": "西西弗",
+      "onboard_time": 1683976886,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1147131,
       "num": 1147131,
       "word": "这是在攻打重庆吗",
@@ -3289,6 +3305,14 @@
       "onboard_time": 1683545428,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1102488,
+      "num": 1102488,
+      "word": "拿到拆迁款前几天人去世了",
+      "onboard_time": 1683977367,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 1102278,
@@ -3769,14 +3793,6 @@
       "onboard_time": 1683607355,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 991419,
-      "num": 760146,
-      "word": "陈意涵问修杰楷你在哪儿",
-      "onboard_time": 1683971247,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 987242,
@@ -5940,7 +5956,7 @@
     },
     {
       "raw_hot": 621967,
-      "num": 199040,
+      "num": 204234,
       "word": "王俊凯去哪",
       "onboard_time": 1683976527,
       "rank": 20,
@@ -6673,14 +6689,6 @@
       "onboard_time": 1683199649,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 560122,
-      "num": 157443,
-      "word": "西西弗",
-      "onboard_time": 1683976886,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 560101,
@@ -8371,6 +8379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 451382,
+      "num": 321243,
+      "word": "黄子韬DRG",
+      "onboard_time": 1683980251,
+      "rank": 17,
+      "category": "综艺,游戏"
+    },
+    {
       "raw_hot": 449968,
       "num": 449968,
       "word": "一觉醒来咽喉炎了",
@@ -9051,6 +9067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 421705,
+      "num": 316803,
+      "word": "好喜欢这个助学金的名字",
+      "onboard_time": 1683978626,
+      "rank": 18,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 421140,
       "num": 253876,
       "word": "长月烬明玥烬情苏番外",
@@ -9081,6 +9105,14 @@
       "onboard_time": 1683471216,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 418545,
+      "num": 418545,
+      "word": "西游记演员程伟兵病逝",
+      "onboard_time": 1683976886,
+      "rank": 33,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 418358,
@@ -9432,6 +9464,14 @@
       "word": "WB对战DRG",
       "onboard_time": 1683459269,
       "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 403612,
+      "num": 403612,
+      "word": "原神",
+      "onboard_time": 1683302369,
+      "rank": 47,
       "category": "游戏"
     },
     {
@@ -10025,6 +10065,14 @@
       "onboard_time": 1683229632,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382855,
+      "num": 204744,
+      "word": "韩国人对章昊Ricky红色护照的反应",
+      "onboard_time": 1683977428,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 382624,
@@ -11292,7 +11340,7 @@
     },
     {
       "raw_hot": 346159,
-      "num": 167562,
+      "num": 172057,
       "word": "吉娜好漂亮",
       "onboard_time": 1683959727,
       "rank": 31,
@@ -12363,6 +12411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317476,
+      "num": 177984,
+      "word": "小清欢",
+      "onboard_time": 1683977727,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 317372,
       "num": 317372,
       "word": "王一博让卜钰拉自己进试飞小队群",
@@ -12593,6 +12649,14 @@
       "onboard_time": 1683761905,
       "rank": 16,
       "category": "体育,游戏"
+    },
+    {
+      "raw_hot": 313266,
+      "num": 175738,
+      "word": "瞿颖气场",
+      "onboard_time": 1683980308,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 313034,
@@ -13633,6 +13697,14 @@
       "onboard_time": 1683514169,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 289852,
+      "num": 289852,
+      "word": "万物不及妖刀",
+      "onboard_time": 1683977609,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 289546,
@@ -14996,7 +15068,7 @@
     },
     {
       "raw_hot": 262045,
-      "num": 143264,
+      "num": 149648,
       "word": "侯明昊裤子",
       "onboard_time": 1683974849,
       "rank": 35,
@@ -16027,6 +16099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 245930,
+      "num": 149716,
+      "word": "薛之谦济南",
+      "onboard_time": 1683980010,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 245915,
       "num": 245915,
       "word": "曹操盖饭是什么梗",
@@ -16209,6 +16289,14 @@
       "onboard_time": 1683022586,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 242694,
+      "num": 149710,
+      "word": "problem舞台太炸了",
+      "onboard_time": 1683978749,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 242693,
@@ -18171,14 +18259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215604,
-      "num": 139208,
-      "word": "韩国人对章昊Ricky红色护照的反应",
-      "onboard_time": 1683977428,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 215551,
       "num": 215551,
       "word": "张镇麟三双",
@@ -18785,6 +18865,14 @@
       "onboard_time": 1682897240,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207658,
+      "num": 207658,
+      "word": "喜欢送",
+      "onboard_time": 1683977248,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 207637,
@@ -20483,6 +20571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 188379,
+      "num": 188379,
+      "word": "辽宁男篮vs浙江男篮",
+      "onboard_time": 1683979650,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188086,
       "num": 166296,
       "word": "腾讯综艺剧集自产自销了",
@@ -20851,14 +20947,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 182770,
-      "num": 182770,
-      "word": "原神",
-      "onboard_time": 1683302369,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 182653,
       "num": 182653,
       "word": "哈利彪特",
@@ -20881,14 +20969,6 @@
       "onboard_time": 1683676347,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182404,
-      "num": 152423,
-      "word": "拿到拆迁款前几天人去世了",
-      "onboard_time": 1683977367,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 182000,
@@ -22683,14 +22763,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 160733,
-      "num": 160733,
-      "word": "喜欢送",
-      "onboard_time": 1683977248,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 160723,
       "num": 160723,
       "word": "宋亚轩斗舞",
@@ -23467,14 +23539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150545,
-      "num": 150545,
-      "word": "西游记演员程伟兵病逝",
-      "onboard_time": 1683976886,
-      "rank": 33,
-      "category": "社会新闻,影视"
-    },
-    {
       "raw_hot": 150492,
       "num": 219918,
       "word": "外卖能买房了",
@@ -23809,6 +23873,14 @@
       "onboard_time": 1683733649,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 144200,
+      "num": 149796,
+      "word": "男子车流中一把拉回2岁幼童",
+      "onboard_time": 1683980128,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144164,
@@ -25507,6 +25579,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 112688,
+      "num": 149597,
+      "word": "淄博八大局知名麻辣串疑被房东赶走",
+      "onboard_time": 1683980668,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112016,
       "num": 165498,
       "word": "TTG和WB全员入围亚运集训",
@@ -25713,6 +25793,14 @@
       "onboard_time": 1683176434,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105292,
+      "num": 357910,
+      "word": "原神3.7版本直播",
+      "onboard_time": 1683979228,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 105190,
