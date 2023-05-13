@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1684010018193,
+  "endTime": 1684012432318,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -13481,6 +13481,14 @@
       "onboard_time": 1683756734,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 23889,
+      "num": 23443,
+      "word": "医生因倒提模型被批评教育冤不冤",
+      "onboard_time": 1684009814,
+      "rank": 27,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 21888,
