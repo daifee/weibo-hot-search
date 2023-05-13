@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683969298349,
+  "endTime": 1683970419103,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -2147,6 +2147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1464808,
+      "num": 1067835,
+      "word": "难怪贾静雯生气",
+      "onboard_time": 1683962068,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1463945,
       "num": 1463945,
       "word": "五月天深圳抢票",
@@ -2411,6 +2419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1354471,
+      "num": 1298021,
+      "word": "浪姐一公分数 离谱",
+      "onboard_time": 1683962550,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1352435,
       "num": 1352435,
       "word": "旅行七天和老公吵了五次",
@@ -2584,14 +2600,6 @@
       "word": "黄子韬给鹿晗打电话",
       "onboard_time": 1683258331,
       "rank": 5,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1298021,
-      "num": 1298021,
-      "word": "浪姐一公分数 离谱",
-      "onboard_time": 1683962550,
-      "rank": 8,
       "category": "综艺"
     },
     {
@@ -2953,14 +2961,6 @@
       "onboard_time": 1683186750,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1188642,
-      "num": 350088,
-      "word": "难怪贾静雯生气",
-      "onboard_time": 1683962068,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 1187493,
@@ -3931,6 +3931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 935313,
+      "num": 935313,
+      "word": "频繁的聊天会有恋爱的错觉吗",
+      "onboard_time": 1683966628,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 933025,
       "num": 933025,
       "word": "总而言之 快睡",
@@ -4451,6 +4459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 835289,
+      "num": 835289,
+      "word": "赵露思吊带露背裙",
+      "onboard_time": 1683968909,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 834895,
       "num": 834895,
       "word": "克里姆林宫",
@@ -4715,14 +4731,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 786147,
-      "num": 786147,
-      "word": "频繁的聊天会有恋爱的错觉吗",
-      "onboard_time": 1683966628,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 778638,
       "num": 778638,
       "word": "白敬亭新剧人设是妻管严",
@@ -4977,6 +4985,14 @@
       "onboard_time": 1683370471,
       "rank": 30,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 738983,
+      "num": 210454,
+      "word": "刘雅瑟 油",
+      "onboard_time": 1683967109,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 738388,
@@ -5691,6 +5707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 643150,
+      "num": 222127,
+      "word": "洪欣在评论区的留言",
+      "onboard_time": 1683966628,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 641820,
       "num": 641820,
       "word": "杭州不定价咖啡馆试营业首日亏3500元",
@@ -6049,14 +6073,6 @@
       "onboard_time": 1683608134,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 603837,
-      "num": 207195,
-      "word": "刘雅瑟 油",
-      "onboard_time": 1683967109,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 603547,
@@ -7497,14 +7513,6 @@
       "onboard_time": 1683698673,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 500665,
-      "num": 202797,
-      "word": "洪欣在评论区的留言",
-      "onboard_time": 1683966628,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 500150,
@@ -10003,6 +10011,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 380673,
+      "num": 163627,
+      "word": "王俊凯香港",
+      "onboard_time": 1683969989,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 380420,
       "num": 380420,
       "word": "女子小区内放生五盒蟑螂被制止",
@@ -10161,6 +10177,14 @@
       "onboard_time": 1683872129,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 375723,
+      "num": 190251,
+      "word": "李荣浩第一次吃乌梅子酱",
+      "onboard_time": 1683968487,
+      "rank": 31,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 375682,
@@ -12011,6 +12035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324331,
+      "num": 274120,
+      "word": "婚宴结束新娘家人笑着说我们走啦",
+      "onboard_time": 1683965428,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324219,
       "num": 324219,
       "word": "湖人2比1勇士",
@@ -12769,14 +12801,6 @@
       "onboard_time": 1683869428,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 304466,
-      "num": 190251,
-      "word": "李荣浩第一次吃乌梅子酱",
-      "onboard_time": 1683968487,
-      "rank": 31,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 304221,
@@ -14265,14 +14289,6 @@
       "onboard_time": 1683708870,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 272785,
-      "num": 272785,
-      "word": "婚宴结束新娘家人笑着说我们走啦",
-      "onboard_time": 1683965428,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 272679,
@@ -16001,14 +16017,6 @@
       "onboard_time": 1683261452,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 243826,
-      "num": 186926,
-      "word": "赵露思吊带露背裙",
-      "onboard_time": 1683968909,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 243812,
@@ -18707,6 +18715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206278,
+      "num": 157062,
+      "word": "唐嫣线下活动",
+      "onboard_time": 1683970228,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206161,
       "num": 206161,
       "word": "Hero对战LGD",
@@ -19297,6 +19313,14 @@
       "onboard_time": 1683201088,
       "rank": 28,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 199475,
+      "num": 181542,
+      "word": "王一博长空之王票房破7亿海报",
+      "onboard_time": 1683967170,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 199461,
@@ -20737,14 +20761,6 @@
       "onboard_time": 1683046345,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181542,
-      "num": 181542,
-      "word": "王一博长空之王票房破7亿海报",
-      "onboard_time": 1683967170,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 181311,
@@ -22209,6 +22225,14 @@
       "onboard_time": 1682922748,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164698,
+      "num": 185051,
+      "word": "水瓶座非常相信自己的直觉判断",
+      "onboard_time": 1683967648,
+      "rank": 38,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 164257,
@@ -24611,6 +24635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127554,
+      "num": 163227,
+      "word": "詹姆斯30分",
+      "onboard_time": 1683969629,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127528,
       "num": 127528,
       "word": "mbti",
@@ -24947,6 +24979,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 120868,
+      "num": 189507,
+      "word": "除了钱你现在最缺什么",
+      "onboard_time": 1683966088,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120793,
       "num": 98554,
       "word": "健康的羞耻感",
@@ -25129,14 +25169,6 @@
       "onboard_time": 1683268408,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 116372,
-      "num": 189507,
-      "word": "除了钱你现在最缺什么",
-      "onboard_time": 1683966088,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 116287,
@@ -25339,20 +25371,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110571,
+      "num": 158613,
+      "word": "男生真的会有喜欢却不主动的吗",
+      "onboard_time": 1683970292,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110417,
       "num": 110417,
       "word": "女子拍视频宣传家乡因高颜值走红",
       "onboard_time": 1683578172,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110264,
-      "num": 185051,
-      "word": "水瓶座非常相信自己的直觉判断",
-      "onboard_time": 1683967648,
-      "rank": 38,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 110084,
@@ -25537,6 +25569,14 @@
       "onboard_time": 1683041672,
       "rank": 39,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 103751,
+      "num": 155731,
+      "word": "普尔0分4犯规",
+      "onboard_time": 1683969688,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 103359,
