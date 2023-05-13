@@ -1,6 +1,6 @@
 {
   "startTime": 1683994827629,
-  "endTime": 1684016125766,
+  "endTime": 1684017210193,
   "band_list": [
     {
       "raw_hot": 1598965,
@@ -331,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156079,
+      "num": 165767,
+      "word": "9旬老头因家庭矛盾砍死8旬老太",
+      "onboard_time": 1683998960,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153521,
       "num": 153521,
       "word": "女顾客称因不想续卡遭三名店员围殴",
@@ -353,14 +361,6 @@
       "onboard_time": 1683990756,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 144242,
-      "num": 165767,
-      "word": "9旬老头因家庭矛盾砍死8旬老太",
-      "onboard_time": 1683998960,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142987,
@@ -409,6 +409,14 @@
       "onboard_time": 1683991952,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 119806,
+      "num": 119806,
+      "word": "男友变心姑娘把他送的黄金卖了14万",
+      "onboard_time": 1683981028,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118096,
@@ -483,12 +491,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 93755,
-      "num": 93755,
-      "word": "男友变心姑娘把他送的黄金卖了14万",
-      "onboard_time": 1683981028,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 55853,
+      "num": 55853,
+      "word": "医生因倒提模型被批评教育冤不冤",
+      "onboard_time": 1684009814,
+      "rank": 27,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 51438,
@@ -515,20 +523,36 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 46043,
-      "num": 37279,
-      "word": "医生因倒提模型被批评教育冤不冤",
-      "onboard_time": 1684009814,
-      "rank": 27,
-      "category": "社会新闻,教育"
+      "raw_hot": 43996,
+      "num": 43996,
+      "word": "路灯下的小姑娘",
+      "onboard_time": 1684014613,
+      "rank": 41,
+      "category": "综艺"
     },
     {
-      "raw_hot": 36148,
+      "raw_hot": 38612,
       "num": 47841,
       "word": "朱珠看花海的表情",
       "onboard_time": 1684003515,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31938,
+      "num": 31938,
+      "word": "辽宁男篮赢下冠军点",
+      "onboard_time": 1684015273,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 29407,
+      "num": 29407,
+      "word": "和认识17年的网友竟然住同小区",
+      "onboard_time": 1684003035,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 28426,
@@ -545,30 +569,6 @@
       "onboard_time": 1684003213,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26870,
-      "num": 26870,
-      "word": "路灯下的小姑娘",
-      "onboard_time": 1684014613,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 22344,
-      "num": 26933,
-      "word": "和认识17年的网友竟然住同小区",
-      "onboard_time": 1684003035,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 20814,
-      "num": 26861,
-      "word": "辽宁男篮赢下冠军点",
-      "onboard_time": 1684015273,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 7979,
