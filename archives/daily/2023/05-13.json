@@ -1,14 +1,30 @@
 {
   "startTime": 1683908490327,
-  "endTime": 1683940863098,
+  "endTime": 1683942291408,
   "band_list": [
     {
-      "raw_hot": 2230037,
-      "num": 2230037,
+      "raw_hot": 2735381,
+      "num": 538342,
+      "word": "洪欣张丹峰道歉",
+      "onboard_time": 1683941127,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2537604,
+      "num": 2537604,
       "word": "颜九 温精灵",
       "onboard_time": 1683933921,
       "rank": 7,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2439408,
+      "num": 534011,
+      "word": "洪欣张丹峰没离婚",
+      "onboard_time": 1683941551,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1765860,
@@ -17,6 +33,14 @@
       "onboard_time": 1683901893,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1686796,
+      "num": 901523,
+      "word": "被婆婆压身下数落女子丈夫出国读博",
+      "onboard_time": 1683940529,
+      "rank": 30,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1587015,
@@ -33,6 +57,14 @@
       "onboard_time": 1683933319,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1292633,
+      "num": 921947,
+      "word": "温精灵颜九聊天记录",
+      "onboard_time": 1683935484,
+      "rank": 4,
+      "category": "网红"
     },
     {
       "raw_hot": 1264934,
@@ -57,14 +89,6 @@
       "onboard_time": 1683899130,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 921947,
-      "num": 921947,
-      "word": "温精灵颜九聊天记录",
-      "onboard_time": 1683935484,
-      "rank": 4,
-      "category": "网红"
     },
     {
       "raw_hot": 892218,
@@ -99,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 703765,
+      "num": 703765,
+      "word": "赵丽颖说孙千是恋爱脑",
+      "onboard_time": 1683934461,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 682176,
       "num": 682176,
       "word": "如果产检发现孩子有问题你会留下吗",
@@ -112,14 +144,6 @@
       "word": "出差十五夜",
       "onboard_time": 1683905009,
       "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 591038,
-      "num": 591038,
-      "word": "赵丽颖说孙千是恋爱脑",
-      "onboard_time": 1683934461,
-      "rank": 11,
       "category": "综艺"
     },
     {
@@ -187,6 +211,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 361447,
+      "num": 323359,
+      "word": "女子小区内放生五盒蟑螂被制止",
+      "onboard_time": 1683939749,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356396,
       "num": 356396,
       "word": "可乐男孩现已成为可乐博物馆馆长",
@@ -211,12 +243,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 338024,
-      "num": 253923,
-      "word": "女子小区内放生五盒蟑螂被制止",
-      "onboard_time": 1683939749,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 340239,
+      "num": 340239,
+      "word": "勇士vs湖人",
+      "onboard_time": 1683939928,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 331943,
+      "num": 331943,
+      "word": "洪欣说和张丹峰的矛盾与毕滢无关",
+      "onboard_time": 1683941908,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 328015,
@@ -251,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308742,
+      "num": 308742,
+      "word": "狗头萝莉回应穿旗袍卖煎饼",
+      "onboard_time": 1683940468,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 308194,
       "num": 291419,
       "word": "比较好的两性关系里女方是主导",
@@ -283,12 +331,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 275069,
-      "num": 275069,
-      "word": "勇士vs湖人",
-      "onboard_time": 1683939928,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 272293,
+      "num": 272293,
+      "word": "全员加速中",
+      "onboard_time": 1683941369,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 266545,
@@ -307,20 +355,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260752,
+      "num": 260752,
+      "word": "孕妇羊水破裂怕弄脏出租主动加钱",
+      "onboard_time": 1683941489,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255034,
+      "num": 255034,
+      "word": "跑男弹幕",
+      "onboard_time": 1683941669,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251824,
       "num": 251824,
       "word": "INTO1首次撕名牌问题好多",
       "onboard_time": 1683891507,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 249784,
-      "num": 173679,
-      "word": "被婆婆压身下数落女子丈夫出国读博",
-      "onboard_time": 1683940529,
-      "rank": 30,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 240079,
@@ -339,8 +395,24 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 230357,
-      "num": 230357,
+      "raw_hot": 238453,
+      "num": 238453,
+      "word": "杭州一套房比去年跌价近百万",
+      "onboard_time": 1683935726,
+      "rank": 23,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 234599,
+      "num": 234599,
+      "word": "今年教资面试难吗",
+      "onboard_time": 1683940888,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 231294,
+      "num": 231294,
       "word": "高中语文",
       "onboard_time": 1683939388,
       "rank": 22,
@@ -361,14 +433,6 @@
       "onboard_time": 1683897389,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 216466,
-      "num": 216466,
-      "word": "杭州一套房比去年跌价近百万",
-      "onboard_time": 1683935726,
-      "rank": 23,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 211386,
@@ -411,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201481,
+      "num": 201481,
+      "word": "初级会计",
+      "onboard_time": 1683936866,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 201042,
       "num": 201042,
       "word": "豆瓣评分人数TOP20电视剧",
@@ -435,14 +507,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 188632,
-      "num": 188632,
-      "word": "初级会计",
-      "onboard_time": 1683936866,
-      "rank": 26,
-      "category": "教育"
-    },
-    {
       "raw_hot": 186624,
       "num": 186624,
       "word": "曾经看不起现在却离不开的东西",
@@ -465,6 +529,14 @@
       "onboard_time": 1683906209,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 177733,
+      "num": 177733,
+      "word": "疑似上海雇主14万月薪请保姆",
+      "onboard_time": 1683941789,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175652,
@@ -499,12 +571,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 159392,
-      "num": 159392,
-      "word": "狗头萝莉回应穿旗袍卖煎饼",
-      "onboard_time": 1683940468,
-      "rank": 33,
-      "category": "网红"
+      "raw_hot": 163330,
+      "num": 163330,
+      "word": "80后白发校长带学生帮捡散落粮食",
+      "onboard_time": 1683942029,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 157966,
@@ -529,6 +601,14 @@
       "onboard_time": 1683900452,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 152474,
+      "num": 152474,
+      "word": "90花生头部艺人",
+      "onboard_time": 1683939567,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 151632,
@@ -559,6 +639,14 @@
       "num": 143337,
       "word": "陶勇回应上热搜",
       "onboard_time": 1683902253,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136500,
+      "num": 136500,
+      "word": "徐州天降大量抵制虐猫传单",
+      "onboard_time": 1683938667,
       "rank": 37,
       "category": "社会新闻"
     },
@@ -595,14 +683,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 133281,
-      "num": 133281,
-      "word": "徐州天降大量抵制虐猫传单",
-      "onboard_time": 1683938667,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133111,
       "num": 133111,
       "word": "我也有同款妈妈",
@@ -633,14 +713,6 @@
       "onboard_time": 1683896008,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 124107,
-      "num": 124107,
-      "word": "90花生头部艺人",
-      "onboard_time": 1683939567,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 120105,
@@ -676,7 +748,7 @@
     },
     {
       "raw_hot": 111152,
-      "num": 111152,
+      "num": 118425,
       "word": "MSI",
       "onboard_time": 1683933499,
       "rank": 40,
@@ -747,20 +819,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 52769,
+      "num": 115119,
+      "word": "呀哈哈做错了什么",
+      "onboard_time": 1683936326,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 51538,
       "num": 51538,
       "word": "杨绛才是活得通透的女人",
       "onboard_time": 1683932598,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 44712,
-      "num": 102831,
-      "word": "呀哈哈做错了什么",
-      "onboard_time": 1683936326,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 41837,
@@ -779,7 +851,7 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 33856,
+      "raw_hot": 39090,
       "num": 1093797,
       "word": "第一视角看航天员进入天舟六号",
       "onboard_time": 1683898109,

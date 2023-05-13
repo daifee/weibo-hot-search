@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683940863098,
+  "endTime": 1683942291408,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2735381,
+      "num": 538342,
+      "word": "洪欣张丹峰道歉",
+      "onboard_time": 1683941127,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2701709,
       "num": 2701709,
       "word": "IU被告发涉嫌剽窃6首歌曲",
@@ -203,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2537604,
+      "num": 2537604,
+      "word": "颜九 温精灵",
+      "onboard_time": 1683933921,
+      "rank": 7,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2519414,
       "num": 837962,
       "word": "张子萱终于不给陈赫打码了",
@@ -265,6 +281,14 @@
       "onboard_time": 1683512663,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2439408,
+      "num": 534011,
+      "word": "洪欣张丹峰没离婚",
+      "onboard_time": 1683941551,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 2412327,
@@ -361,14 +385,6 @@
       "onboard_time": 1683783508,
       "rank": 10,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 2230037,
-      "num": 2230037,
-      "word": "颜九 温精灵",
-      "onboard_time": 1683933921,
-      "rank": 7,
-      "category": "网红"
     },
     {
       "raw_hot": 2228363,
@@ -625,6 +641,14 @@
       "onboard_time": 1683763770,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1686796,
+      "num": 901523,
+      "word": "被婆婆压身下数落女子丈夫出国读博",
+      "onboard_time": 1683940529,
+      "rank": 30,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1676861,
@@ -1145,6 +1169,14 @@
       "onboard_time": 1683632308,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1292633,
+      "num": 921947,
+      "word": "温精灵颜九聊天记录",
+      "onboard_time": 1683935484,
+      "rank": 4,
+      "category": "网红"
     },
     {
       "raw_hot": 1292529,
@@ -1739,14 +1771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 921947,
-      "num": 921947,
-      "word": "温精灵颜九聊天记录",
-      "onboard_time": 1683935484,
-      "rank": 4,
-      "category": "网红"
-    },
-    {
       "raw_hot": 919662,
       "num": 919662,
       "word": "Angelababy定制礼服腰围改小11.5厘米",
@@ -2275,6 +2299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 703765,
+      "num": 703765,
+      "word": "赵丽颖说孙千是恋爱脑",
+      "onboard_time": 1683934461,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 703360,
       "num": 703360,
       "word": "邓紫棋周杰伦演唱会点歌黑色毛衣",
@@ -2745,14 +2777,6 @@
       "onboard_time": 1683554911,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 591038,
-      "num": 591038,
-      "word": "赵丽颖说孙千是恋爱脑",
-      "onboard_time": 1683934461,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 588874,
@@ -4507,6 +4531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361447,
+      "num": 323359,
+      "word": "女子小区内放生五盒蟑螂被制止",
+      "onboard_time": 1683939749,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361009,
       "num": 361009,
       "word": "肖战的女主运",
@@ -5035,14 +5067,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 338024,
-      "num": 253923,
-      "word": "女子小区内放生五盒蟑螂被制止",
-      "onboard_time": 1683939749,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 337106,
       "num": 307905,
       "word": "蒋雯丽明道你们图啥",
@@ -5113,6 +5137,14 @@
       "onboard_time": 1683878427,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331943,
+      "num": 331943,
+      "word": "洪欣说和张丹峰的矛盾与毕滢无关",
+      "onboard_time": 1683941908,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 331818,
@@ -5521,6 +5553,14 @@
       "onboard_time": 1683724833,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 308742,
+      "num": 308742,
+      "word": "狗头萝莉回应穿旗袍卖煎饼",
+      "onboard_time": 1683940468,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 308359,
@@ -6579,6 +6619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 260752,
+      "num": 260752,
+      "word": "孕妇羊水破裂怕弄脏出租主动加钱",
+      "onboard_time": 1683941489,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260578,
       "num": 260578,
       "word": "spicy",
@@ -6779,6 +6827,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 255034,
+      "num": 255034,
+      "word": "跑男弹幕",
+      "onboard_time": 1683941669,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254793,
       "num": 253995,
       "word": "孩子掉地上了来自婆婆的安慰",
@@ -6929,14 +6985,6 @@
       "onboard_time": 1683759861,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249784,
-      "num": 173679,
-      "word": "被婆婆压身下数落女子丈夫出国读博",
-      "onboard_time": 1683940529,
-      "rank": 30,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 249590,
@@ -7219,6 +7267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 238453,
+      "num": 238453,
+      "word": "杭州一套房比去年跌价近百万",
+      "onboard_time": 1683935726,
+      "rank": 23,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 237881,
       "num": 237881,
       "word": "我的论文致谢有你的名字",
@@ -7387,6 +7443,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 234599,
+      "num": 234599,
+      "word": "今年教资面试难吗",
+      "onboard_time": 1683940888,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 234443,
       "num": 234443,
       "word": "格林",
@@ -7483,6 +7547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231294,
+      "num": 231294,
+      "word": "高中语文",
+      "onboard_time": 1683939388,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 231266,
       "num": 231266,
       "word": "重庆市原副市长熊雪被查",
@@ -7521,14 +7593,6 @@
       "onboard_time": 1683588382,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230357,
-      "num": 230357,
-      "word": "高中语文",
-      "onboard_time": 1683939388,
-      "rank": 22,
-      "category": "教育"
     },
     {
       "raw_hot": 230187,
@@ -7857,14 +7921,6 @@
       "onboard_time": 1683598768,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 216466,
-      "num": 216466,
-      "word": "杭州一套房比去年跌价近百万",
-      "onboard_time": 1683935726,
-      "rank": 23,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 216239,
@@ -8355,6 +8411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201481,
+      "num": 201481,
+      "word": "初级会计",
+      "onboard_time": 1683936866,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 200933,
       "num": 200933,
       "word": "被十年前的自己催婚了",
@@ -8819,14 +8883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188632,
-      "num": 188632,
-      "word": "初级会计",
-      "onboard_time": 1683936866,
-      "rank": 26,
-      "category": "教育"
-    },
-    {
       "raw_hot": 188001,
       "num": 188001,
       "word": "有一个对媳妇百依百顺的婆婆是什么感觉",
@@ -9105,6 +9161,14 @@
       "onboard_time": 1683524010,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 177733,
+      "num": 177733,
+      "word": "疑似上海雇主14万月薪请保姆",
+      "onboard_time": 1683941789,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177094,
@@ -9563,6 +9627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 163330,
+      "num": 163330,
+      "word": "80后白发校长带学生帮捡散落粮食",
+      "onboard_time": 1683942029,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 162164,
       "num": 162164,
       "word": "NBA季后赛",
@@ -9649,14 +9721,6 @@
       "onboard_time": 1683448291,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 159392,
-      "num": 159392,
-      "word": "狗头萝莉回应穿旗袍卖煎饼",
-      "onboard_time": 1683940468,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 159124,
@@ -9849,6 +9913,14 @@
       "onboard_time": 1683698014,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152474,
+      "num": 152474,
+      "word": "90花生头部艺人",
+      "onboard_time": 1683939567,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 152090,
@@ -10251,6 +10323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136500,
+      "num": 136500,
+      "word": "徐州天降大量抵制虐猫传单",
+      "onboard_time": 1683938667,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136072,
       "num": 194394,
       "word": "张艺兴时装男士五月封面",
@@ -10337,14 +10417,6 @@
       "onboard_time": 1683631709,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 133281,
-      "num": 133281,
-      "word": "徐州天降大量抵制虐猫传单",
-      "onboard_time": 1683938667,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133166,
@@ -10537,14 +10609,6 @@
       "onboard_time": 1683702871,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 124107,
-      "num": 124107,
-      "word": "90花生头部艺人",
-      "onboard_time": 1683939567,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 123629,
@@ -11227,6 +11291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52769,
+      "num": 115119,
+      "word": "呀哈哈做错了什么",
+      "onboard_time": 1683936326,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 51815,
       "num": 51815,
       "word": "王源说等待广州见",
@@ -11281,14 +11353,6 @@
       "onboard_time": 1683657314,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 44712,
-      "num": 102831,
-      "word": "呀哈哈做错了什么",
-      "onboard_time": 1683936326,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 44133,
