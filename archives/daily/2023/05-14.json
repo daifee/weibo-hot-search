@@ -1,6 +1,6 @@
 {
   "startTime": 1683994827629,
-  "endTime": 1684002809024,
+  "endTime": 1684005159032,
   "band_list": [
     {
       "raw_hot": 1598965,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131925,
+      "num": 102559,
+      "word": "美依礼芽投票依旧断层",
+      "onboard_time": 1684002136,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126177,
       "num": 126177,
       "word": "科颜氏 原神",
@@ -483,19 +491,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 64627,
-      "num": 51115,
-      "word": "美依礼芽投票依旧断层",
-      "onboard_time": 1684002136,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 51438,
       "num": 50673,
       "word": "浪姐一公舞台哪组赢了",
       "onboard_time": 1684002495,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 50421,
+      "num": 48623,
+      "word": "浪姐运镜稀碎",
+      "onboard_time": 1684003035,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -505,6 +513,14 @@
       "onboard_time": 1684001836,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 36148,
+      "num": 47841,
+      "word": "朱珠看花海的表情",
+      "onboard_time": 1684003515,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 7979,

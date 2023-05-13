@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1684002809024,
+  "endTime": 1684005159032,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -12211,6 +12211,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 131925,
+      "num": 102559,
+      "word": "美依礼芽投票依旧断层",
+      "onboard_time": 1684002136,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130855,
       "num": 130855,
       "word": "折腰剧组探班直播",
@@ -13115,14 +13123,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 64627,
-      "num": 51115,
-      "word": "美依礼芽投票依旧断层",
-      "onboard_time": 1684002136,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 64547,
       "num": 64547,
       "word": "当给周杰伦配上勇气大爆发",
@@ -13192,6 +13192,14 @@
       "word": "浪姐一公舞台哪组赢了",
       "onboard_time": 1684002495,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 50421,
+      "num": 48623,
+      "word": "浪姐运镜稀碎",
+      "onboard_time": 1684003035,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -13329,6 +13337,14 @@
       "onboard_time": 1683878908,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36148,
+      "num": 47841,
+      "word": "朱珠看花海的表情",
+      "onboard_time": 1684003515,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 35499,
