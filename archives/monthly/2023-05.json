@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683963217040,
+  "endTime": 1683965968349,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -2027,6 +2027,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1502487,
+      "num": 1502487,
+      "word": "男子淄博吃烧烤吐槽扇贝肉指甲大",
+      "onboard_time": 1683958350,
+      "rank": 17,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1502186,
       "num": 1502186,
       "word": "蚀骨危情",
@@ -2699,14 +2707,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1266318,
-      "num": 1266318,
-      "word": "男子淄博吃烧烤吐槽扇贝肉指甲大",
-      "onboard_time": 1683958350,
-      "rank": 17,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 1264934,
       "num": 1264934,
       "word": "51岁已被喊了十多年谭爷爷",
@@ -3187,6 +3187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1119734,
+      "num": 481396,
+      "word": "浪姐一公分数 离谱",
+      "onboard_time": 1683962550,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1118927,
       "num": 1118927,
       "word": "南京女大学生被害案罪犯洪峤被执行死刑",
@@ -3440,6 +3448,14 @@
       "word": "娜扎 把恋爱脑摔碎",
       "onboard_time": 1683605249,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1058843,
+      "num": 1058843,
+      "word": "郑秀妍淘汰",
+      "onboard_time": 1683962248,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -6499,6 +6515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 567491,
+      "num": 207187,
+      "word": "美依礼芽瘦了",
+      "onboard_time": 1683963930,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 565772,
       "num": 565772,
       "word": "特斯拉",
@@ -6617,6 +6641,14 @@
       "onboard_time": 1683382297,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 556655,
+      "num": 189826,
+      "word": "难怪贾静雯生气",
+      "onboard_time": 1683962068,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 556295,
@@ -7187,6 +7219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 519265,
+      "num": 155136,
+      "word": "林一ins人气",
+      "onboard_time": 1683963571,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 519021,
       "num": 519021,
       "word": "华晨宇的音乐是挑观众的",
@@ -7233,6 +7273,14 @@
       "onboard_time": 1683690512,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 516586,
+      "num": 516586,
+      "word": "难怪徐志胜会有女朋友",
+      "onboard_time": 1683962068,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 516332,
@@ -7681,14 +7729,6 @@
       "onboard_time": 1682992528,
       "rank": 14,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 481396,
-      "num": 481396,
-      "word": "浪姐一公分数 离谱",
-      "onboard_time": 1683962550,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 481113,
@@ -8467,14 +8507,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 438785,
-      "num": 162181,
-      "word": "郑秀妍淘汰",
-      "onboard_time": 1683962248,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 438703,
       "num": 438703,
       "word": "朱珠让给她文学",
@@ -8505,6 +8537,14 @@
       "onboard_time": 1682989406,
       "rank": 22,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 437178,
+      "num": 126498,
+      "word": "曾黎张嘉倪脸颊贴贴",
+      "onboard_time": 1683964708,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 435937,
@@ -8601,14 +8641,6 @@
       "onboard_time": 1682861010,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 433214,
-      "num": 132753,
-      "word": "难怪贾静雯生气",
-      "onboard_time": 1683962068,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 433099,
@@ -8819,6 +8851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 424038,
+      "num": 424038,
+      "word": "英国酒吧竟然放家有儿女主题曲",
+      "onboard_time": 1683963810,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 423748,
       "num": 423748,
       "word": "周杰伦厦门",
@@ -8985,6 +9025,14 @@
       "onboard_time": 1683378630,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 413943,
+      "num": 413943,
+      "word": "浙FD39915为你点赞",
+      "onboard_time": 1683963268,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 413853,
@@ -12707,6 +12755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 302813,
+      "num": 124591,
+      "word": "龚琳娜 我不是粉红色的女孩",
+      "onboard_time": 1683965370,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302806,
       "num": 302806,
       "word": "杨洋在KTV吃面",
@@ -16387,6 +16443,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 236444,
+      "num": 124253,
+      "word": "张真源录制综艺受伤",
+      "onboard_time": 1683964829,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236244,
       "num": 236244,
       "word": "李莎旻子语速",
@@ -18081,6 +18145,14 @@
       "onboard_time": 1683594570,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212885,
+      "num": 212885,
+      "word": "塞尔达传说 星穹铁道",
+      "onboard_time": 1683964050,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 212878,
@@ -20449,14 +20521,6 @@
       "onboard_time": 1683784768,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 184394,
-      "num": 132297,
-      "word": "难怪徐志胜会有女朋友",
-      "onboard_time": 1683962068,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 184190,
@@ -24499,6 +24563,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 126552,
+      "num": 126552,
+      "word": "高中英语教资面试",
+      "onboard_time": 1683965668,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 126416,
       "num": 126416,
       "word": "警方回应网传男子找16岁怀孕女友",
@@ -24513,6 +24585,14 @@
       "onboard_time": 1683069621,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126054,
+      "num": 126054,
+      "word": "原来红配绿可以这么好看",
+      "onboard_time": 1683963571,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126051,
@@ -25283,6 +25363,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 105869,
+      "num": 124610,
+      "word": "官宣之后被老爸说哭了",
+      "onboard_time": 1683963449,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105792,
       "num": 105792,
       "word": "热火3比2尼克斯",
@@ -25329,6 +25417,14 @@
       "onboard_time": 1682866411,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 104447,
+      "num": 124517,
+      "word": "婚宴结束新娘家人笑着说我们走啦",
+      "onboard_time": 1683965428,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104394,
@@ -25401,6 +25497,14 @@
       "onboard_time": 1682897240,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 102113,
+      "num": 123896,
+      "word": "申花",
+      "onboard_time": 1683965790,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 102038,

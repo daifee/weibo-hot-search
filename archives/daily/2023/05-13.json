@@ -1,6 +1,6 @@
 {
   "startTime": 1683908490327,
-  "endTime": 1683963217040,
+  "endTime": 1683965968349,
   "band_list": [
     {
       "raw_hot": 4066324,
@@ -163,20 +163,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1502487,
+      "num": 1502487,
+      "word": "男子淄博吃烧烤吐槽扇贝肉指甲大",
+      "onboard_time": 1683958350,
+      "rank": 17,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1463945,
       "num": 1463945,
       "word": "五月天深圳抢票",
       "onboard_time": 1683949530,
       "rank": 4,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1266318,
-      "num": 1266318,
-      "word": "男子淄博吃烧烤吐槽扇贝肉指甲大",
-      "onboard_time": 1683958350,
-      "rank": 17,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1264934,
@@ -195,12 +195,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1119734,
+      "num": 481396,
+      "word": "浪姐一公分数 离谱",
+      "onboard_time": 1683962550,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1085505,
       "num": 1085505,
       "word": "学生摔伤无人报警但满屏都是警",
       "onboard_time": 1683907110,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1058843,
+      "num": 1058843,
+      "word": "郑秀妍淘汰",
+      "onboard_time": 1683962248,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 1033933,
@@ -347,6 +363,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 567491,
+      "num": 207187,
+      "word": "美依礼芽瘦了",
+      "onboard_time": 1683963930,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 556655,
+      "num": 189826,
+      "word": "难怪贾静雯生气",
+      "onboard_time": 1683962068,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 542859,
       "num": 295305,
       "word": "王一博删照片原因",
@@ -403,6 +435,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 519265,
+      "num": 155136,
+      "word": "林一ins人气",
+      "onboard_time": 1683963571,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 516586,
+      "num": 516586,
+      "word": "难怪徐志胜会有女朋友",
+      "onboard_time": 1683962068,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 509119,
       "num": 460563,
       "word": "洪欣说和张丹峰的矛盾与毕滢无关",
@@ -440,14 +488,6 @@
       "word": "向往的生活没有下期预告",
       "onboard_time": 1683959787,
       "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 481396,
-      "num": 481396,
-      "word": "浪姐一公分数 离谱",
-      "onboard_time": 1683962550,
-      "rank": 8,
       "category": "综艺"
     },
     {
@@ -531,20 +571,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 438785,
-      "num": 162181,
-      "word": "郑秀妍淘汰",
-      "onboard_time": 1683962248,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 433214,
-      "num": 132753,
-      "word": "难怪贾静雯生气",
-      "onboard_time": 1683962068,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 437178,
+      "num": 126498,
+      "word": "曾黎张嘉倪脸颊贴贴",
+      "onboard_time": 1683964708,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 430168,
@@ -577,6 +609,22 @@
       "onboard_time": 1683903452,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 424038,
+      "num": 424038,
+      "word": "英国酒吧竟然放家有儿女主题曲",
+      "onboard_time": 1683963810,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 413943,
+      "num": 413943,
+      "word": "浙FD39915为你点赞",
+      "onboard_time": 1683963268,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 401279,
@@ -755,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 302813,
+      "num": 124591,
+      "word": "龚琳娜 我不是粉红色的女孩",
+      "onboard_time": 1683965370,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 300762,
       "num": 300762,
       "word": "你相信有天性很坏的孩子吗",
@@ -923,6 +979,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 236444,
+      "num": 124253,
+      "word": "张真源录制综艺受伤",
+      "onboard_time": 1683964829,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234599,
       "num": 234599,
       "word": "今年教资面试难吗",
@@ -969,6 +1033,14 @@
       "onboard_time": 1683954993,
       "rank": 36,
       "category": "网红"
+    },
+    {
+      "raw_hot": 212885,
+      "num": 212885,
+      "word": "塞尔达传说 星穹铁道",
+      "onboard_time": 1683964050,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 211981,
@@ -1115,12 +1187,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184394,
-      "num": 132297,
-      "word": "难怪徐志胜会有女朋友",
-      "onboard_time": 1683962068,
+      "raw_hot": 184421,
+      "num": 124044,
+      "word": "长空之王",
+      "onboard_time": 1683965489,
       "rank": 44,
-      "category": "作品衍生"
+      "category": "影视"
     },
     {
       "raw_hot": 184168,
@@ -1137,6 +1209,14 @@
       "onboard_time": 1683946887,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176294,
+      "num": 123965,
+      "word": "种地吧",
+      "onboard_time": 1683962610,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 175894,
@@ -1427,6 +1507,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 126552,
+      "num": 126552,
+      "word": "高中英语教资面试",
+      "onboard_time": 1683965668,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 126054,
+      "num": 126054,
+      "word": "原来红配绿可以这么好看",
+      "onboard_time": 1683963571,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124516,
       "num": 126838,
       "word": "JDG",
@@ -1483,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105869,
+      "num": 124610,
+      "word": "官宣之后被老爸说哭了",
+      "onboard_time": 1683963449,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105698,
       "num": 166623,
       "word": "菠萝油条虾",
@@ -1491,11 +1595,27 @@
       "category": "美食"
     },
     {
+      "raw_hot": 104447,
+      "num": 124517,
+      "word": "婚宴结束新娘家人笑着说我们走啦",
+      "onboard_time": 1683965428,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104342,
       "num": 104342,
       "word": "里夫斯压哨三分",
       "onboard_time": 1683962189,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 102113,
+      "num": 123896,
+      "word": "申花",
+      "onboard_time": 1683965790,
+      "rank": 46,
       "category": "体育"
     },
     {
