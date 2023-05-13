@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684013619376,
+  "endTime": 1684016125766,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -27723,6 +27723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 46043,
+      "num": 37279,
+      "word": "医生因倒提模型被批评教育冤不冤",
+      "onboard_time": 1684009814,
+      "rank": 27,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 45965,
       "num": 49673,
       "word": "深圳马可波罗",
@@ -28035,14 +28043,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 29461,
-      "num": 28171,
-      "word": "医生因倒提模型被批评教育冤不冤",
-      "onboard_time": 1684009814,
-      "rank": 27,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 28921,
       "num": 30480,
       "word": "戛纳展映排片",
@@ -28087,6 +28087,14 @@
       "num": 25826,
       "word": "龚琳娜妈宝女",
       "onboard_time": 1683312913,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 26870,
+      "num": 26870,
+      "word": "路灯下的小姑娘",
+      "onboard_time": 1684014613,
       "rank": 41,
       "category": "综艺"
     },
@@ -28179,12 +28187,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 22344,
+      "num": 26933,
+      "word": "和认识17年的网友竟然住同小区",
+      "onboard_time": 1684003035,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 21888,
       "num": 30235,
       "word": "食客起冲突见民警后气氛瞬间缓和",
       "onboard_time": 1683757093,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20814,
+      "num": 26861,
+      "word": "辽宁男篮赢下冠军点",
+      "onboard_time": 1684015273,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 20291,
@@ -28225,14 +28249,6 @@
       "onboard_time": 1683638309,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 18695,
-      "num": 26933,
-      "word": "和认识17年的网友竟然住同小区",
-      "onboard_time": 1684003035,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 18370,
