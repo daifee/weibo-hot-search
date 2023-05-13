@@ -1,6 +1,6 @@
 {
   "startTime": 1683994827629,
-  "endTime": 1683998204018,
+  "endTime": 1683999208410,
   "band_list": [
     {
       "raw_hot": 1598965,
@@ -219,8 +219,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 232169,
-      "num": 142646,
+      "raw_hot": 233283,
+      "num": 233283,
       "word": "墨西哥平民窟天才少女",
       "onboard_time": 1683994049,
       "rank": 38,
@@ -259,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205907,
+      "num": 205907,
+      "word": "小白赢了谢可寅烧了项链",
+      "onboard_time": 1683996745,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200736,
       "num": 152526,
       "word": "战至巅峰",
@@ -280,14 +288,6 @@
       "word": "还得是赵兆",
       "onboard_time": 1683994468,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 183108,
-      "num": 96560,
-      "word": "小白赢了谢可寅烧了项链",
-      "onboard_time": 1683996745,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -403,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 115309,
+      "num": 115309,
+      "word": "CBA总决赛辽宁vs浙江",
+      "onboard_time": 1683995906,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114173,
       "num": 85830,
       "word": "薛之谦演唱会",
@@ -435,12 +443,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 97740,
-      "num": 97740,
-      "word": "CBA总决赛辽宁vs浙江",
-      "onboard_time": 1683995906,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 100186,
+      "num": 74556,
+      "word": "那吾克热巅峰舞台浴火重生",
+      "onboard_time": 1683998422,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 94985,
@@ -459,8 +467,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 83653,
-      "num": 83653,
+      "raw_hot": 85458,
+      "num": 85458,
       "word": "男友变心姑娘把他送的黄金卖了14万",
       "onboard_time": 1683981028,
       "rank": 46,

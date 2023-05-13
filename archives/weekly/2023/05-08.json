@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683998204018,
+  "endTime": 1683999208410,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -8779,6 +8779,14 @@
       "category": "体育,音乐"
     },
     {
+      "raw_hot": 233283,
+      "num": 233283,
+      "word": "墨西哥平民窟天才少女",
+      "onboard_time": 1683994049,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232959,
       "num": 232959,
       "word": "iOS17内部爆料者被苹果抓获",
@@ -8801,14 +8809,6 @@
       "onboard_time": 1683896008,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 232169,
-      "num": 142646,
-      "word": "墨西哥平民窟天才少女",
-      "onboard_time": 1683994049,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232002,
@@ -9657,6 +9657,14 @@
       "onboard_time": 1683968190,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 205907,
+      "num": 205907,
+      "word": "小白赢了谢可寅烧了项链",
+      "onboard_time": 1683996745,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 205902,
@@ -10513,14 +10521,6 @@
       "onboard_time": 1683892466,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 183108,
-      "num": 96560,
-      "word": "小白赢了谢可寅烧了项链",
-      "onboard_time": 1683996745,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 182882,
@@ -12507,6 +12507,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 115309,
+      "num": 115309,
+      "word": "CBA总决赛辽宁vs浙江",
+      "onboard_time": 1683995906,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113853,
       "num": 113853,
       "word": "陆虎杭州巡演",
@@ -12675,6 +12683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100186,
+      "num": 74556,
+      "word": "那吾克热巅峰舞台浴火重生",
+      "onboard_time": 1683998422,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100074,
       "num": 100074,
       "word": "小猫为自己选了名字",
@@ -12697,14 +12713,6 @@
       "onboard_time": 1683674119,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 97740,
-      "num": 97740,
-      "word": "CBA总决赛辽宁vs浙江",
-      "onboard_time": 1683995906,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 97523,
