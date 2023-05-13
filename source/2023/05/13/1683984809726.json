@@ -1,0 +1,410 @@
+{
+  "runTime": 1683984809726,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2853097,
+        "num": 2853097,
+        "word": "浪姐 79分21秒",
+        "onboard_time": 1683975569,
+        "rank": 0,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 1355110,
+        "num": 1355110,
+        "word": "淄博八大局知名麻辣串疑被房东赶走",
+        "onboard_time": 1683980668,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415903,
+        "num": 1153286,
+        "word": "KPL总决赛",
+        "onboard_time": 1683973587,
+        "rank": 2,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1046203,
+        "num": 1046203,
+        "word": "陈意涵问修杰楷你在哪儿",
+        "onboard_time": 1683971247,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1090841,
+        "num": 908439,
+        "word": "拿到拆迁款前几天人去世了",
+        "onboard_time": 1683977367,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726678,
+        "num": 726678,
+        "word": "娜扎生图",
+        "onboard_time": 1683982169,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1027616,
+        "num": 716488,
+        "word": "花海居然输了",
+        "onboard_time": 1683955349,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 679759,
+        "num": 679759,
+        "word": "颜九再回应",
+        "onboard_time": 1683983428,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 616208,
+        "num": 616208,
+        "word": "科颜氏 原神",
+        "onboard_time": 1683981511,
+        "rank": 8,
+        "category": "游戏,美妆"
+      },
+      {
+        "raw_hot": 317635,
+        "num": 406640,
+        "word": "医院回应男子倒提婴儿",
+        "onboard_time": 1683973046,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1254113,
+        "num": 404334,
+        "word": "赵露思 瘦而不柴",
+        "onboard_time": 1683975149,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 780604,
+        "num": 402685,
+        "word": "怪不得美依礼芽努力学中文",
+        "onboard_time": 1683982409,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396330,
+        "num": 396330,
+        "word": "好喜欢这个助学金的名字",
+        "onboard_time": 1683978626,
+        "rank": 12,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 372133,
+        "num": 372133,
+        "word": "王者荣耀",
+        "onboard_time": 1683982951,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 576486,
+        "num": 365743,
+        "word": "难怪贾静雯生气",
+        "onboard_time": 1683962068,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 554422,
+        "num": 364345,
+        "word": "李荣浩第一次吃乌梅子酱",
+        "onboard_time": 1683968487,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 528105,
+        "num": 362366,
+        "word": "王源看到了穿婚纱来的粉丝",
+        "onboard_time": 1683984030,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 358944,
+        "num": 358944,
+        "word": "WB对战狼队",
+        "onboard_time": 1683971191,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 295986,
+        "num": 358565,
+        "word": "西游记演员程伟兵病逝",
+        "onboard_time": 1683976886,
+        "rank": 18,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 284256,
+        "num": 354957,
+        "word": "辽宁男篮vs浙江男篮",
+        "onboard_time": 1683979650,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 515483,
+        "num": 351658,
+        "word": "天官赐福",
+        "onboard_time": 1683971369,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 480302,
+        "num": 349703,
+        "word": "王源粉色双辫",
+        "onboard_time": 1683983250,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 414605,
+        "num": 344956,
+        "word": "虞书欣帮爷爷拍照",
+        "onboard_time": 1683983310,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405707,
+        "num": 343560,
+        "word": "NCT澳门",
+        "onboard_time": 1683983129,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 341255,
+        "num": 341255,
+        "word": "因为买榴莲和男友吵了一架",
+        "onboard_time": 1683973529,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 404609,
+        "num": 340931,
+        "word": "刘雅瑟 油",
+        "onboard_time": 1683967109,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338626,
+        "num": 338626,
+        "word": "男友变心姑娘把他送的黄金卖了14万",
+        "onboard_time": 1683981028,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263843,
+        "num": 263843,
+        "word": "和闺蜜闹掰还有必要和好吗",
+        "onboard_time": 1683983912,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219165,
+        "num": 253567,
+        "word": "詹姆斯",
+        "onboard_time": 1683981690,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142706,
+        "num": 252561,
+        "word": "男子车流中一把拉回2岁幼童",
+        "onboard_time": 1683980128,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251562,
+        "num": 251562,
+        "word": "花楼",
+        "onboard_time": 1683982471,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 381498,
+        "num": 244341,
+        "word": "浪姐一公分数 离谱",
+        "onboard_time": 1683962550,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221076,
+        "num": 221076,
+        "word": "原神",
+        "onboard_time": 1683975749,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209385,
+        "num": 209385,
+        "word": "原神3.7",
+        "onboard_time": 1683983611,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 362842,
+        "num": 209009,
+        "word": "谢娜 用力过猛",
+        "onboard_time": 1683956190,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352336,
+        "num": 207844,
+        "word": "西西弗",
+        "onboard_time": 1683976886,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 349835,
+        "num": 206593,
+        "word": "王俊凯香港",
+        "onboard_time": 1683969989,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360436,
+        "num": 205366,
+        "word": "瞿颖气场",
+        "onboard_time": 1683980308,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204672,
+        "num": 204672,
+        "word": "对抗路还得看Fly",
+        "onboard_time": 1683984271,
+        "rank": 38,
+        "category": "游戏,科技"
+      },
+      {
+        "raw_hot": 164324,
+        "num": 164324,
+        "word": "梓墨好能抗",
+        "onboard_time": 1683982409,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 288975,
+        "num": 163988,
+        "word": "王源演唱会人气",
+        "onboard_time": 1683983250,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 281488,
+        "num": 162218,
+        "word": "周杰伦倒影MV",
+        "onboard_time": 1683983790,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 262769,
+        "num": 158358,
+        "word": "黄子韬DRG",
+        "onboard_time": 1683980251,
+        "rank": 42,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 255958,
+        "num": 156116,
+        "word": "庆余年2是懂防路透的",
+        "onboard_time": 1683984575,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235518,
+        "num": 154433,
+        "word": "王俊凯去哪",
+        "onboard_time": 1683976527,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219757,
+        "num": 153505,
+        "word": "护心你别太离谱",
+        "onboard_time": 1683982769,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151872,
+        "num": 151872,
+        "word": "小胖露娜MVP",
+        "onboard_time": 1683984092,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149195,
+        "num": 149195,
+        "word": "CBA",
+        "onboard_time": 1683978207,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129389,
+        "num": 148941,
+        "word": "男子淄博吃烧烤吐槽扇贝肉指甲大",
+        "onboard_time": 1683958350,
+        "rank": 48,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 125147,
+        "num": 148527,
+        "word": "不间断的熬夜 人生变坏的开始",
+        "onboard_time": 1683972327,
+        "rank": 49,
+        "category": "情感,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#京津冀发展有了新目标#"
+    }
+  }
+}

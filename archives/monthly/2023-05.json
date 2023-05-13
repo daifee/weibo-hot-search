@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683983884242,
+  "endTime": 1683984809726,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -2443,6 +2443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1355110,
+      "num": 1355110,
+      "word": "淄博八大局知名麻辣串疑被房东赶走",
+      "onboard_time": 1683980668,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1352435,
       "num": 1352435,
       "word": "旅行七天和老公吵了五次",
@@ -4371,14 +4379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 861263,
-      "num": 861263,
-      "word": "淄博八大局知名麻辣串疑被房东赶走",
-      "onboard_time": 1683980668,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 860962,
       "num": 860962,
       "word": "不显瘦阿姨都不卖你",
@@ -4795,6 +4795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 780604,
+      "num": 648596,
+      "word": "怪不得美依礼芽努力学中文",
+      "onboard_time": 1683982409,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 778638,
       "num": 778638,
       "word": "白敬亭新剧人设是妻管严",
@@ -5163,6 +5171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 726678,
+      "num": 726678,
+      "word": "娜扎生图",
+      "onboard_time": 1683982169,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 725796,
       "num": 725796,
       "word": "上海打雷",
@@ -5249,14 +5265,6 @@
       "onboard_time": 1682857466,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 709189,
-      "num": 648596,
-      "word": "怪不得美依礼芽努力学中文",
-      "onboard_time": 1683982409,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 709161,
@@ -5563,6 +5571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 679759,
+      "num": 679759,
+      "word": "颜九再回应",
+      "onboard_time": 1683983428,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 676550,
       "num": 676550,
       "word": "有仙无侠 有情无义",
@@ -5800,14 +5816,6 @@
       "word": "洪欣在评论区的留言",
       "onboard_time": 1683966628,
       "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 641829,
-      "num": 641829,
-      "word": "娜扎生图",
-      "onboard_time": 1683982169,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -7219,6 +7227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 528105,
+      "num": 362366,
+      "word": "王源看到了穿婚纱来的粉丝",
+      "onboard_time": 1683984030,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 527793,
       "num": 527793,
       "word": "湖南男子在西湖捞手机日入约一万",
@@ -7897,6 +7913,14 @@
       "onboard_time": 1683955829,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 480302,
+      "num": 349703,
+      "word": "王源粉色双辫",
+      "onboard_time": 1683983250,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 480182,
@@ -9219,12 +9243,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 415903,
+      "num": 1153286,
+      "word": "KPL总决赛",
+      "onboard_time": 1683530376,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 415385,
       "num": 324629,
       "word": "金晨给朱珠送平凡暖心包",
       "onboard_time": 1683378630,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 414605,
+      "num": 344956,
+      "word": "虞书欣帮爷爷拍照",
+      "onboard_time": 1683983310,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 413853,
@@ -9441,6 +9481,14 @@
       "onboard_time": 1683345514,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 405707,
+      "num": 343560,
+      "word": "NCT澳门",
+      "onboard_time": 1683983129,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 405554,
@@ -10067,14 +10115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 383414,
-      "num": 234832,
-      "word": "王源粉色双辫",
-      "onboard_time": 1683983250,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 383364,
       "num": 383364,
       "word": "大麦",
@@ -10449,6 +10489,14 @@
       "onboard_time": 1683865355,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 372133,
+      "num": 372133,
+      "word": "王者荣耀",
+      "onboard_time": 1683982951,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 371855,
@@ -10881,6 +10929,14 @@
       "onboard_time": 1683946170,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358944,
+      "num": 358944,
+      "word": "WB对战狼队",
+      "onboard_time": 1683286709,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 358704,
@@ -11675,6 +11731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 338626,
+      "num": 338626,
+      "word": "男友变心姑娘把他送的黄金卖了14万",
+      "onboard_time": 1683981028,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338339,
       "num": 299578,
       "word": "女生称30岁相亲被介绍待离婚男士",
@@ -11857,14 +11921,6 @@
       "onboard_time": 1683353429,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 334133,
-      "num": 216590,
-      "word": "颜九再回应",
-      "onboard_time": 1683983428,
-      "rank": 32,
-      "category": "网红"
     },
     {
       "raw_hot": 334101,
@@ -12425,14 +12481,6 @@
       "onboard_time": 1683104789,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 318837,
-      "num": 318837,
-      "word": "男友变心姑娘把他送的黄金卖了14万",
-      "onboard_time": 1683981028,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 318302,
@@ -13803,6 +13851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 288975,
+      "num": 163988,
+      "word": "王源演唱会人气",
+      "onboard_time": 1683983250,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 288889,
       "num": 243228,
       "word": "周也到底买了多少盲盒",
@@ -14027,6 +14083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 284256,
+      "num": 354957,
+      "word": "辽宁男篮vs浙江男篮",
+      "onboard_time": 1683979650,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 284168,
       "num": 284168,
       "word": "曹县汉服订单做不完根本做不完",
@@ -14153,6 +14217,14 @@
       "onboard_time": 1683816751,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281488,
+      "num": 202558,
+      "word": "周杰伦倒影MV",
+      "onboard_time": 1683983790,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 281486,
@@ -14507,14 +14579,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 273516,
-      "num": 212427,
-      "word": "NCT澳门",
-      "onboard_time": 1683983129,
-      "rank": 33,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 273511,
       "num": 273511,
       "word": "闹钟没响",
@@ -14787,14 +14851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268253,
-      "num": 202558,
-      "word": "周杰伦倒影MV",
-      "onboard_time": 1683983790,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 268109,
       "num": 268109,
       "word": "王子奇 斯诺克",
@@ -15019,6 +15075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263843,
+      "num": 263843,
+      "word": "和闺蜜闹掰还有必要和好吗",
+      "onboard_time": 1683983912,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 263798,
       "num": 263798,
       "word": "被粒子水墨画震撼到了",
@@ -15057,14 +15121,6 @@
       "onboard_time": 1682987966,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 263429,
-      "num": 963823,
-      "word": "KPL总决赛",
-      "onboard_time": 1683530376,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 263386,
@@ -15435,14 +15491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 257245,
-      "num": 175510,
-      "word": "虞书欣帮爷爷拍照",
-      "onboard_time": 1683983310,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 257121,
       "num": 257121,
       "word": "BABYMONSTER真的是五个人",
@@ -15497,6 +15545,14 @@
       "onboard_time": 1683033093,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255958,
+      "num": 156116,
+      "word": "庆余年2是懂防路透的",
+      "onboard_time": 1683984575,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 255832,
@@ -15745,6 +15801,14 @@
       "onboard_time": 1683255809,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 251562,
+      "num": 251562,
+      "word": "花楼",
+      "onboard_time": 1683982471,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 251548,
@@ -16225,14 +16289,6 @@
       "onboard_time": 1683442826,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245479,
-      "num": 245479,
-      "word": "王者荣耀",
-      "onboard_time": 1683982951,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 245468,
@@ -17251,14 +17307,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 231925,
-      "num": 151512,
-      "word": "王源演唱会人气",
-      "onboard_time": 1683983250,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 231856,
       "num": 231856,
       "word": "武汉音乐节",
@@ -18075,20 +18123,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 219165,
+      "num": 253567,
+      "word": "詹姆斯",
+      "onboard_time": 1683604651,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219043,
       "num": 219043,
       "word": "男子头疼自己在家针灸扎破心脏",
       "onboard_time": 1683235092,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 219038,
-      "num": 232641,
-      "word": "詹姆斯",
-      "onboard_time": 1683604651,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 219024,
@@ -18419,14 +18467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 215073,
-      "num": 331766,
-      "word": "辽宁男篮vs浙江男篮",
-      "onboard_time": 1683979650,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 215035,
       "num": 215035,
       "word": "闺蜜和男友同时约你你会选谁",
@@ -18753,14 +18793,6 @@
       "onboard_time": 1683451770,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210559,
-      "num": 210559,
-      "word": "花楼",
-      "onboard_time": 1683982471,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 210452,
@@ -19281,6 +19313,14 @@
       "onboard_time": 1683005068,
       "rank": 37,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 204672,
+      "num": 204672,
+      "word": "对抗路还得看Fly",
+      "onboard_time": 1683984271,
+      "rank": 38,
+      "category": "游戏,科技"
     },
     {
       "raw_hot": 204648,
@@ -19953,14 +19993,6 @@
       "onboard_time": 1683120693,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196565,
-      "num": 196565,
-      "word": "WB对战狼队",
-      "onboard_time": 1683286709,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 196441,
@@ -20732,7 +20764,7 @@
     },
     {
       "raw_hot": 187913,
-      "num": 228332,
+      "num": 252561,
       "word": "男子车流中一把拉回2岁幼童",
       "onboard_time": 1683980128,
       "rank": 37,
@@ -23521,6 +23553,14 @@
       "onboard_time": 1683170549,
       "rank": 39,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 151872,
+      "num": 151872,
+      "word": "小胖露娜MVP",
+      "onboard_time": 1683984092,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 151842,
