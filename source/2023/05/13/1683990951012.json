@@ -1,0 +1,410 @@
+{
+  "runTime": 1683990951012,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2461122,
+        "num": 2461122,
+        "word": "浪姐 79分21秒",
+        "onboard_time": 1683975569,
+        "rank": 0,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 1990954,
+        "num": 1990954,
+        "word": "王源看到了穿婚纱来的粉丝",
+        "onboard_time": 1683984030,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 9331,
+        "num": 1390739,
+        "word": "关注2023中国中亚五国峰会",
+        "onboard_time": 1683966509,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2399765,
+        "num": 1388824,
+        "word": "和博士约会接吻后当晚被删了",
+        "onboard_time": 1683984990,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1249375,
+        "num": 1249375,
+        "word": "王俊凯去香港看周杰伦",
+        "onboard_time": 1683986013,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1228535,
+        "num": 1228535,
+        "word": "颜九再回应",
+        "onboard_time": 1683983428,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1006281,
+        "num": 1006281,
+        "word": "疑似美依礼芽翻译炒CP",
+        "onboard_time": 1683987031,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 658785,
+        "num": 658785,
+        "word": "e人沉默 i人落泪",
+        "onboard_time": 1683989673,
+        "rank": 7,
+        "category": "情感,影视"
+      },
+      {
+        "raw_hot": 433912,
+        "num": 654644,
+        "word": "杨鸣",
+        "onboard_time": 1683986855,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333658,
+        "num": 631543,
+        "word": "淄博八大局知名麻辣串疑被房东赶走",
+        "onboard_time": 1683980668,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1590393,
+        "num": 602077,
+        "word": "木子洋的CK内裤是假的",
+        "onboard_time": 1683985230,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 721921,
+        "num": 583049,
+        "word": "侯明昊回应裤子透光",
+        "onboard_time": 1683987392,
+        "rank": 11,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 713877,
+        "num": 553168,
+        "word": "赵露思 瘦而不柴",
+        "onboard_time": 1683975149,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 540955,
+        "num": 540955,
+        "word": "Fly没有求婚",
+        "onboard_time": 1683988113,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 536407,
+        "num": 536407,
+        "word": "如何看待月薪14万但需提供跪地服务",
+        "onboard_time": 1683989493,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 689017,
+        "num": 535578,
+        "word": "温精灵",
+        "onboard_time": 1683989913,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 529773,
+        "num": 529773,
+        "word": "梦中的那片海",
+        "onboard_time": 1683989372,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 463003,
+        "num": 463003,
+        "word": "拿到拆迁款前几天人去世了",
+        "onboard_time": 1683977367,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347941,
+        "num": 347941,
+        "word": "2儿童随防护窗坠落家人发声",
+        "onboard_time": 1683987092,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285440,
+        "num": 285440,
+        "word": "Fly FMVP",
+        "onboard_time": 1683985173,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 464812,
+        "num": 285380,
+        "word": "花海居然输了",
+        "onboard_time": 1683955349,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449219,
+        "num": 273945,
+        "word": "为什么本科生的就业处境最尴尬",
+        "onboard_time": 1683988535,
+        "rank": 21,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 255771,
+        "num": 255771,
+        "word": "女顾客称因不想续卡遭三名店员围殴",
+        "onboard_time": 1683989913,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352866,
+        "num": 255622,
+        "word": "陈意涵问修杰楷你在哪儿",
+        "onboard_time": 1683971247,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240889,
+        "num": 240889,
+        "word": "狼队金色的雨",
+        "onboard_time": 1683990272,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 341812,
+        "num": 237067,
+        "word": "庆余年2是懂防路透的",
+        "onboard_time": 1683984575,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322958,
+        "num": 234383,
+        "word": "李荣浩第一次吃乌梅子酱",
+        "onboard_time": 1683968487,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 316287,
+        "num": 234085,
+        "word": "娜扎生图",
+        "onboard_time": 1683982169,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230731,
+        "num": 230731,
+        "word": "狼队八冠王",
+        "onboard_time": 1683985290,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212494,
+        "num": 230456,
+        "word": "北京开展黄牛非法倒票专项整治",
+        "onboard_time": 1683987272,
+        "rank": 29,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 284714,
+        "num": 230438,
+        "word": "王俊凯周杰伦合唱雨下一整晚",
+        "onboard_time": 1683990272,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 266412,
+        "num": 230402,
+        "word": "怪不得美依礼芽努力学中文",
+        "onboard_time": 1683982409,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230360,
+        "num": 230360,
+        "word": "监狱开烘焙中心教犯人做奶茶蛋糕",
+        "onboard_time": 1683989012,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221454,
+        "num": 221454,
+        "word": "自称长相比较可爱女副教授回应",
+        "onboard_time": 1683990332,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 257761,
+        "num": 220663,
+        "word": "谢娜 用力过猛",
+        "onboard_time": 1683956190,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218658,
+        "num": 218658,
+        "word": "科颜氏 原神",
+        "onboard_time": 1683981511,
+        "rank": 35,
+        "category": "游戏,美妆"
+      },
+      {
+        "raw_hot": 201235,
+        "num": 201235,
+        "word": "GEN对战T1",
+        "onboard_time": 1683984931,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 248118,
+        "num": 199310,
+        "word": "浪姐一公分数 离谱",
+        "onboard_time": 1683962550,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185186,
+        "num": 185186,
+        "word": "蔡天凤家属拟用3D技术修复其遗体",
+        "onboard_time": 1683990572,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170816,
+        "num": 170816,
+        "word": "男友变心姑娘把他送的黄金卖了14万",
+        "onboard_time": 1683981028,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247136,
+        "num": 170303,
+        "word": "难怪贾静雯生气",
+        "onboard_time": 1683962068,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239026,
+        "num": 168970,
+        "word": "虞书欣帮爷爷拍照",
+        "onboard_time": 1683983310,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240219,
+        "num": 167631,
+        "word": "王源让大家正经一点",
+        "onboard_time": 1683990756,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 236499,
+        "num": 166220,
+        "word": "problem原地出道",
+        "onboard_time": 1683988831,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213794,
+        "num": 164042,
+        "word": "莫文蔚窦靖童合唱天黑黑",
+        "onboard_time": 1683989313,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163734,
+        "num": 163734,
+        "word": "法国救援人员拆墙救391公斤老太太",
+        "onboard_time": 1683990093,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230531,
+        "num": 162513,
+        "word": "Amber滑跪",
+        "onboard_time": 1683990756,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156415,
+        "num": 156415,
+        "word": "花楼",
+        "onboard_time": 1683982471,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139716,
+        "num": 155601,
+        "word": "今天沈阳沸腾了",
+        "onboard_time": 1683990874,
+        "rank": 48,
+        "category": "体育,音乐"
+      },
+      {
+        "raw_hot": 224004,
+        "num": 154536,
+        "word": "刘雅瑟 油",
+        "onboard_time": 1683967109,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#京津冀发展有了新目标#"
+    }
+  }
+}
