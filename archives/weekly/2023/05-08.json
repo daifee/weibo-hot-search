@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683945097027,
+  "endTime": 1683945653353,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -491,20 +491,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2007715,
+      "num": 941805,
+      "word": "被婆婆压身下数落女子丈夫出国读博",
+      "onboard_time": 1683940529,
+      "rank": 30,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1977097,
       "num": 1977097,
       "word": "白鹿新剧演恶女",
       "onboard_time": 1683691174,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1963945,
-      "num": 941805,
-      "word": "被婆婆压身下数落女子丈夫出国读博",
-      "onboard_time": 1683940529,
-      "rank": 30,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1963886,
@@ -2139,6 +2139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 755928,
+      "num": 479363,
+      "word": "男童酒店客房误食用过的安全套",
+      "onboard_time": 1683943467,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 754265,
       "num": 754265,
       "word": "韩国低出生率结果",
@@ -2481,14 +2489,6 @@
       "onboard_time": 1683684628,
       "rank": 15,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 657802,
-      "num": 466974,
-      "word": "男童酒店客房误食用过的安全套",
-      "onboard_time": 1683943467,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 656988,
@@ -3067,6 +3067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 540835,
+      "num": 540835,
+      "word": "那英问我儿子19了吗",
+      "onboard_time": 1683942930,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 540491,
       "num": 540491,
       "word": "泄曲",
@@ -3467,7 +3475,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 467794,
+      "raw_hot": 468241,
       "num": 461297,
       "word": "全员加速中",
       "onboard_time": 1683725250,
@@ -3563,14 +3571,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 455389,
-      "num": 455389,
-      "word": "那英问我儿子19了吗",
-      "onboard_time": 1683942930,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 453393,
       "num": 453393,
       "word": "8旬老人为女销户民警含泪帮拍户籍照",
@@ -3617,6 +3617,14 @@
       "onboard_time": 1683813811,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 447971,
+      "num": 390684,
+      "word": "前任发微信说明天要结婚了",
+      "onboard_time": 1683944429,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 447814,
@@ -4201,14 +4209,6 @@
       "onboard_time": 1683859708,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 390684,
-      "num": 390684,
-      "word": "前任发微信说明天要结婚了",
-      "onboard_time": 1683944429,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 389520,
@@ -5195,6 +5195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332527,
+      "num": 332527,
+      "word": "初级会计",
+      "onboard_time": 1683936866,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 331818,
       "num": 255210,
       "word": "青簪行",
@@ -5715,14 +5723,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 304149,
-      "num": 304149,
-      "word": "初级会计",
-      "onboard_time": 1683936866,
-      "rank": 26,
-      "category": "教育"
-    },
-    {
       "raw_hot": 303251,
       "num": 303251,
       "word": "王鹤棣说好看的人也要好好演戏",
@@ -6089,6 +6089,14 @@
       "onboard_time": 1683813931,
       "rank": 27,
       "category": "情感,影视"
+    },
+    {
+      "raw_hot": 288739,
+      "num": 288739,
+      "word": "章昊wink",
+      "onboard_time": 1683944848,
+      "rank": 32,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 288701,
@@ -7227,6 +7235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 243556,
+      "num": 243556,
+      "word": "热火vs尼克斯",
+      "onboard_time": 1683944131,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242693,
       "num": 217861,
       "word": "金钟仁今日入伍",
@@ -7313,6 +7329,14 @@
       "onboard_time": 1683802408,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 239179,
+      "num": 239179,
+      "word": "天天瘦版王宝强",
+      "onboard_time": 1683945208,
+      "rank": 30,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 238613,
@@ -7835,14 +7859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 222622,
-      "num": 222622,
-      "word": "热火vs尼克斯",
-      "onboard_time": 1683944131,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 221810,
       "num": 221810,
       "word": "护士节",
@@ -7857,14 +7873,6 @@
       "onboard_time": 1683768329,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 220955,
-      "num": 220955,
-      "word": "章昊wink",
-      "onboard_time": 1683944848,
-      "rank": 32,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 220564,
@@ -9371,6 +9379,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 173625,
+      "num": 173625,
+      "word": "狼来了",
+      "onboard_time": 1683945089,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173523,
       "num": 173523,
       "word": "过劳肥是如何导致的",
@@ -9449,6 +9465,14 @@
       "onboard_time": 1683813330,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 171878,
+      "num": 171878,
+      "word": "出席戛纳红毯的明星",
+      "onboard_time": 1683945330,
+      "rank": 40,
+      "category": "影视,时尚"
     },
     {
       "raw_hot": 171751,
@@ -10195,6 +10219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 143492,
+      "num": 143492,
+      "word": "女子辞年薪50万工作照顾瘫痪奶奶",
+      "onboard_time": 1683945628,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143330,
       "num": 143330,
       "word": "汶川地震中的催泪瞬间",
@@ -10753,14 +10785,6 @@
       "onboard_time": 1683932657,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120086,
-      "num": 120086,
-      "word": "狼来了",
-      "onboard_time": 1683945089,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 118753,
@@ -11372,7 +11396,7 @@
     },
     {
       "raw_hot": 52769,
-      "num": 119848,
+      "num": 127123,
       "word": "呀哈哈做错了什么",
       "onboard_time": 1683936326,
       "rank": 48,

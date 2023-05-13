@@ -1,0 +1,410 @@
+{
+  "runTime": 1683945653353,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2981693,
+        "num": 2981693,
+        "word": "颜九 温精灵",
+        "onboard_time": 1683933921,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 948605,
+        "num": 948605,
+        "word": "51岁已被喊了十多年谭爷爷",
+        "onboard_time": 1683934945,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19711,
+        "num": 652755,
+        "word": "第一视角看航天员进入天舟六号",
+        "onboard_time": 1683898109,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2007715,
+        "num": 643886,
+        "word": "被婆婆压身下数落女子丈夫出国读博",
+        "onboard_time": 1683940529,
+        "rank": 3,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 1638773,
+        "num": 638627,
+        "word": "温精灵颜九聊天记录",
+        "onboard_time": 1683935484,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 616051,
+        "num": 616051,
+        "word": "母亲节送什么",
+        "onboard_time": 1683943889,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 596544,
+        "num": 596544,
+        "word": "赵丽颖说孙千是恋爱脑",
+        "onboard_time": 1683934461,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 540835,
+        "num": 540835,
+        "word": "那英问我儿子19了吗",
+        "onboard_time": 1683942930,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 534624,
+        "num": 534624,
+        "word": "教资面试",
+        "onboard_time": 1683935305,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 508218,
+        "num": 508218,
+        "word": "跑男收视率",
+        "onboard_time": 1683935906,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3919534,
+        "num": 504078,
+        "word": "洪欣张丹峰没离婚",
+        "onboard_time": 1683941551,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 774890,
+        "num": 484148,
+        "word": "张亮儿子张天天15岁近照",
+        "onboard_time": 1683933319,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 755928,
+        "num": 479363,
+        "word": "男童酒店客房误食用过的安全套",
+        "onboard_time": 1683943467,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1005443,
+        "num": 461558,
+        "word": "洪欣张丹峰道歉",
+        "onboard_time": 1683941127,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456877,
+        "num": 456877,
+        "word": "孕妇羊水破裂怕弄脏出租主动加钱",
+        "onboard_time": 1683941489,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468241,
+        "num": 456628,
+        "word": "全员加速中",
+        "onboard_time": 1683941369,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 509054,
+        "num": 442406,
+        "word": "洪欣说和张丹峰的矛盾与毕滢无关",
+        "onboard_time": 1683941908,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421102,
+        "num": 421102,
+        "word": "为什么很多漂亮女生却单身",
+        "onboard_time": 1683901893,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 409731,
+        "num": 409731,
+        "word": "原来小燕子真的穿的花衣",
+        "onboard_time": 1683907587,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 383913,
+        "num": 383913,
+        "word": "学生摔伤无人报警但满屏都是警",
+        "onboard_time": 1683907110,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447971,
+        "num": 383016,
+        "word": "前任发微信说明天要结婚了",
+        "onboard_time": 1683944429,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 375468,
+        "num": 375468,
+        "word": "勇士vs湖人",
+        "onboard_time": 1683939928,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356173,
+        "num": 356173,
+        "word": "黄磊何炅跑着接刘宪华",
+        "onboard_time": 1683943409,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339766,
+        "num": 339766,
+        "word": "女子小区内放生五盒蟑螂被制止",
+        "onboard_time": 1683939749,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332527,
+        "num": 332527,
+        "word": "初级会计",
+        "onboard_time": 1683936866,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 288739,
+        "num": 288739,
+        "word": "章昊wink",
+        "onboard_time": 1683944848,
+        "rank": 25,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 286138,
+        "num": 286138,
+        "word": "沈小婷韩国宿舍",
+        "onboard_time": 1683936866,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 280618,
+        "num": 280618,
+        "word": "狗头萝莉回应穿旗袍卖煎饼",
+        "onboard_time": 1683940468,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 257117,
+        "num": 257117,
+        "word": "疑似上海雇主14万月薪请保姆",
+        "onboard_time": 1683941789,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243556,
+        "num": 243556,
+        "word": "热火vs尼克斯",
+        "onboard_time": 1683944131,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239179,
+        "num": 239179,
+        "word": "天天瘦版王宝强",
+        "onboard_time": 1683945208,
+        "rank": 30,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 221525,
+        "num": 221525,
+        "word": "跑男弹幕",
+        "onboard_time": 1683941669,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212357,
+        "num": 212357,
+        "word": "男子花1700买下价值70多万奶粉",
+        "onboard_time": 1683933921,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204997,
+        "num": 204997,
+        "word": "杭州一套房比去年跌价近百万",
+        "onboard_time": 1683935726,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 198928,
+        "num": 198928,
+        "word": "美国警察处理家暴时连开四枪击毙主妇",
+        "onboard_time": 1683936026,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197555,
+        "num": 197555,
+        "word": "王一博删照片",
+        "onboard_time": 1683899130,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194349,
+        "num": 194349,
+        "word": "如果产检发现孩子有问题你会留下吗",
+        "onboard_time": 1683932657,
+        "rank": 36,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 188959,
+        "num": 188959,
+        "word": "高中语文",
+        "onboard_time": 1683939388,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 183781,
+        "num": 183781,
+        "word": "今年教资面试难吗",
+        "onboard_time": 1683940888,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 173625,
+        "num": 173625,
+        "word": "狼来了",
+        "onboard_time": 1683945089,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171878,
+        "num": 171878,
+        "word": "出席戛纳红毯的明星",
+        "onboard_time": 1683945330,
+        "rank": 40,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 151300,
+        "num": 151300,
+        "word": "宁静说我是姐姐冠军怎么不会跳舞",
+        "onboard_time": 1683937528,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147205,
+        "num": 147205,
+        "word": "比较好的两性关系里女方是主导",
+        "onboard_time": 1683932718,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143492,
+        "num": 143492,
+        "word": "女子辞年薪50万工作照顾瘫痪奶奶",
+        "onboard_time": 1683945628,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139255,
+        "num": 139255,
+        "word": "徐州天降大量抵制虐猫传单",
+        "onboard_time": 1683938667,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137004,
+        "num": 137004,
+        "word": "90花生头部艺人",
+        "onboard_time": 1683939567,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127587,
+        "num": 127587,
+        "word": "男子无证酒驾撞人后抛尸江中",
+        "onboard_time": 1683937887,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73608,
+        "num": 127397,
+        "word": "MSI",
+        "onboard_time": 1683933499,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 43512,
+        "num": 127123,
+        "word": "呀哈哈做错了什么",
+        "onboard_time": 1683936326,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 29149,
+        "num": 126838,
+        "word": "JDG",
+        "onboard_time": 1683896008,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#4个维度打开未来之城#"
+    }
+  }
+}
