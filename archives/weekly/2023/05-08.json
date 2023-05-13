@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683956019733,
+  "endTime": 1683958824015,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -211,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2601797,
+      "num": 2601797,
+      "word": "花海居然输了",
+      "onboard_time": 1683955349,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2598662,
       "num": 2598662,
       "word": "中了五亿",
@@ -329,6 +337,14 @@
       "onboard_time": 1683587001,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2375228,
+      "num": 2375228,
+      "word": "谢娜 用力过猛",
+      "onboard_time": 1683956190,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 2350730,
@@ -555,14 +571,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1940239,
-      "num": 1940239,
-      "word": "花海居然输了",
-      "onboard_time": 1683955349,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1937119,
       "num": 1513687,
       "word": "杰克辣条 虐猫",
@@ -603,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1874727,
+      "num": 1874727,
+      "word": "徐怀钰划水",
+      "onboard_time": 1683954868,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1863741,
       "num": 1202575,
       "word": "谁抢到了五月天门票",
@@ -641,6 +657,14 @@
       "onboard_time": 1683519390,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1775819,
+      "num": 1775819,
+      "word": "朱珠绝美",
+      "onboard_time": 1683954690,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 1774488,
@@ -1171,14 +1195,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1351103,
-      "num": 1351103,
-      "word": "朱珠绝美",
-      "onboard_time": 1683954690,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1350616,
       "num": 1350616,
       "word": "孟羽童曾连续工作21小时",
@@ -1643,14 +1659,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1040248,
-      "num": 400382,
-      "word": "徐怀钰划水",
-      "onboard_time": 1683954868,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1039827,
       "num": 1039827,
       "word": "专家建议给生孩子的人发薪水",
@@ -1705,6 +1713,14 @@
       "onboard_time": 1683590606,
       "rank": 6,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1021436,
+      "num": 381153,
+      "word": "贾静雯表情管理满分",
+      "onboard_time": 1683957150,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 1020209,
@@ -3387,6 +3403,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 513448,
+      "num": 208652,
+      "word": "内娱明星ins人气",
+      "onboard_time": 1683956851,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 512921,
       "num": 431853,
       "word": "权志龙ins",
@@ -3577,6 +3601,22 @@
       "onboard_time": 1683696994,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 480725,
+      "num": 232694,
+      "word": "problem好女团",
+      "onboard_time": 1683955829,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 480064,
+      "num": 193531,
+      "word": "瞿颖高音",
+      "onboard_time": 1683958169,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 479429,
@@ -3963,6 +4003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 430888,
+      "num": 165884,
+      "word": "美依礼芽男粉呐喊惊到黄晓明",
+      "onboard_time": 1683958049,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 429620,
       "num": 429620,
       "word": "多名男子搭讪邻桌女孩店员劝阻起冲突",
@@ -3985,6 +4033,14 @@
       "onboard_time": 1683467914,
       "rank": 13,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 427266,
+      "num": 164434,
+      "word": "这个家没周深得禁",
+      "onboard_time": 1683956369,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 426736,
@@ -4267,6 +4323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 401262,
+      "num": 161851,
+      "word": "Amber好帅",
+      "onboard_time": 1683958527,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 401192,
       "num": 401192,
       "word": "梅西当选2023年劳伦斯最佳男运动员奖",
@@ -4361,6 +4425,14 @@
       "onboard_time": 1683544050,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 394009,
+      "num": 199099,
+      "word": "月薪1万和5万的差别",
+      "onboard_time": 1683956130,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 393928,
@@ -4513,6 +4585,14 @@
       "onboard_time": 1683876210,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 382004,
+      "num": 159595,
+      "word": "五月天门票没和黄牛勾结",
+      "onboard_time": 1683957990,
+      "rank": 35,
+      "category": "艺人,音乐"
     },
     {
       "raw_hot": 381683,
@@ -6211,6 +6291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293336,
+      "num": 293336,
+      "word": "疑似上海雇主14万月薪请保姆",
+      "onboard_time": 1683941789,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293266,
       "num": 1317395,
       "word": "店员冒暴风雨开门喊母女进屋躲避",
@@ -6585,14 +6673,6 @@
       "onboard_time": 1683611966,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 277556,
-      "num": 277556,
-      "word": "疑似上海雇主14万月薪请保姆",
-      "onboard_time": 1683941789,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277351,
@@ -7835,14 +7915,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 232694,
-      "num": 232694,
-      "word": "problem好女团",
-      "onboard_time": 1683955829,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 232650,
       "num": 319185,
       "word": "大叔8年进山捡垃圾13900余斤",
@@ -9001,6 +9073,14 @@
       "onboard_time": 1683605428,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194775,
+      "num": 134838,
+      "word": "小美和老龚",
+      "onboard_time": 1683958409,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 194753,
@@ -11443,6 +11523,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 93646,
+      "num": 129643,
+      "word": "2023KPL春季赛总决赛",
+      "onboard_time": 1683957028,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 92108,
       "num": 92108,
       "word": "每个女孩童年都有的一件衣服",
@@ -11780,7 +11868,7 @@
     },
     {
       "raw_hot": 55219,
-      "num": 1974032,
+      "num": 2452555,
       "word": "第一视角看航天员进入天舟六号",
       "onboard_time": 1683898109,
       "rank": 2,

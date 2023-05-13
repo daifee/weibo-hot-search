@@ -1,6 +1,6 @@
 {
   "startTime": 1683908490327,
-  "endTime": 1683956019733,
+  "endTime": 1683958824015,
   "band_list": [
     {
       "raw_hot": 4066324,
@@ -43,12 +43,28 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 2601797,
+      "num": 2601797,
+      "word": "花海居然输了",
+      "onboard_time": 1683955349,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2550022,
       "num": 735111,
       "word": "洪欣的致歉信不是繁体字",
       "onboard_time": 1683951507,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2375228,
+      "num": 2375228,
+      "word": "谢娜 用力过猛",
+      "onboard_time": 1683956190,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 2159040,
@@ -75,11 +91,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1940239,
-      "num": 1940239,
-      "word": "花海居然输了",
-      "onboard_time": 1683955349,
-      "rank": 3,
+      "raw_hot": 1874727,
+      "num": 1874727,
+      "word": "徐怀钰划水",
+      "onboard_time": 1683954868,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -89,6 +105,14 @@
       "onboard_time": 1683935484,
       "rank": 4,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1775819,
+      "num": 1775819,
+      "word": "朱珠绝美",
+      "onboard_time": 1683954690,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 1765860,
@@ -139,14 +163,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1351103,
-      "num": 1351103,
-      "word": "朱珠绝美",
-      "onboard_time": 1683954690,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1264934,
       "num": 1264934,
       "word": "51岁已被喊了十多年谭爷爷",
@@ -171,20 +187,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1040248,
-      "num": 400382,
-      "word": "徐怀钰划水",
-      "onboard_time": 1683954868,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1033933,
       "num": 348803,
       "word": "王一博删照片",
       "onboard_time": 1683899130,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1021436,
+      "num": 381153,
+      "word": "贾静雯表情管理满分",
+      "onboard_time": 1683957150,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 900065,
@@ -347,6 +363,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 513448,
+      "num": 208652,
+      "word": "内娱明星ins人气",
+      "onboard_time": 1683956851,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 509119,
       "num": 460563,
       "word": "洪欣说和张丹峰的矛盾与毕滢无关",
@@ -377,6 +401,22 @@
       "onboard_time": 1683954330,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 480725,
+      "num": 232694,
+      "word": "problem好女团",
+      "onboard_time": 1683955829,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 480064,
+      "num": 193531,
+      "word": "瞿颖高音",
+      "onboard_time": 1683958169,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 470204,
@@ -427,12 +467,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 430888,
+      "num": 165884,
+      "word": "美依礼芽男粉呐喊惊到黄晓明",
+      "onboard_time": 1683958049,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 430168,
       "num": 430168,
       "word": "恒大公告许家印成被执行人",
       "onboard_time": 1683901652,
       "rank": 6,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 427266,
+      "num": 164434,
+      "word": "这个家没周深得禁",
+      "onboard_time": 1683956369,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 426628,
@@ -451,6 +507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 401262,
+      "num": 161851,
+      "word": "Amber好帅",
+      "onboard_time": 1683958527,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 398958,
       "num": 398958,
       "word": "西决",
@@ -459,12 +523,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 394009,
+      "num": 199099,
+      "word": "月薪1万和5万的差别",
+      "onboard_time": 1683956130,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 393928,
       "num": 219821,
       "word": "陶勇医生 手术刀在我心里从未放下",
       "onboard_time": 1683907647,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382004,
+      "num": 159595,
+      "word": "五月天门票没和黄牛勾结",
+      "onboard_time": 1683957990,
+      "rank": 35,
+      "category": "艺人,音乐"
     },
     {
       "raw_hot": 380420,
@@ -619,6 +699,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 293336,
+      "num": 293336,
+      "word": "疑似上海雇主14万月薪请保姆",
+      "onboard_time": 1683941789,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292744,
       "num": 292744,
       "word": "华晨宇五专台湾销量",
@@ -657,14 +745,6 @@
       "onboard_time": 1683955048,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 277556,
-      "num": 277556,
-      "word": "疑似上海雇主14万月薪请保姆",
-      "onboard_time": 1683941789,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277166,
@@ -761,14 +841,6 @@
       "onboard_time": 1683940888,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 232694,
-      "num": 232694,
-      "word": "problem好女团",
-      "onboard_time": 1683955829,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 231294,
@@ -889,6 +961,14 @@
       "onboard_time": 1683948090,
       "rank": 38,
       "category": "幽默,科技"
+    },
+    {
+      "raw_hot": 194775,
+      "num": 134838,
+      "word": "小美和老龚",
+      "onboard_time": 1683958409,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 191135,
@@ -1291,6 +1371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 93646,
+      "num": 129643,
+      "word": "2023KPL春季赛总决赛",
+      "onboard_time": 1683957028,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 76888,
       "num": 76888,
       "word": "外交部回应美拟取消中国发展中国家地位",
@@ -1372,7 +1460,7 @@
     },
     {
       "raw_hot": 39090,
-      "num": 1974032,
+      "num": 2452555,
       "word": "第一视角看航天员进入天舟六号",
       "onboard_time": 1683898109,
       "rank": 2,
