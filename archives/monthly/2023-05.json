@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683942291408,
+  "endTime": 1683945097027,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -72,6 +72,14 @@
       "word": "杨幂 名字的顺序都该为角色让位",
       "onboard_time": 1683694599,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4066324,
+      "num": 534011,
+      "word": "洪欣张丹峰没离婚",
+      "onboard_time": 1683941551,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -209,6 +217,14 @@
       "onboard_time": 1683368189,
       "rank": 47,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 3012200,
+      "num": 3012200,
+      "word": "颜九 温精灵",
+      "onboard_time": 1683933921,
+      "rank": 7,
+      "category": "网红"
     },
     {
       "raw_hot": 3000781,
@@ -459,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2537604,
-      "num": 2537604,
-      "word": "颜九 温精灵",
-      "onboard_time": 1683933921,
-      "rank": 7,
-      "category": "网红"
-    },
-    {
       "raw_hot": 2519414,
       "num": 837962,
       "word": "张子萱终于不给陈赫打码了",
@@ -537,14 +545,6 @@
       "onboard_time": 1683512663,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2439408,
-      "num": 534011,
-      "word": "洪欣张丹峰没离婚",
-      "onboard_time": 1683941551,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 2412327,
@@ -1043,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1963945,
+      "num": 941805,
+      "word": "被婆婆压身下数落女子丈夫出国读博",
+      "onboard_time": 1683940529,
+      "rank": 30,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1963886,
       "num": 1963886,
       "word": "老师意外发现13岁学生已是公司老板",
@@ -1427,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1712602,
+      "num": 1712602,
+      "word": "温精灵颜九聊天记录",
+      "onboard_time": 1683935484,
+      "rank": 4,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1708893,
       "num": 1708893,
       "word": "热带鱼 把水煮开了以后再养",
@@ -1473,14 +1489,6 @@
       "onboard_time": 1682899587,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1686796,
-      "num": 901523,
-      "word": "被婆婆压身下数落女子丈夫出国读博",
-      "onboard_time": 1683940529,
-      "rank": 30,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1685404,
@@ -2489,14 +2497,6 @@
       "onboard_time": 1683632308,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1292633,
-      "num": 921947,
-      "word": "温精灵颜九聊天记录",
-      "onboard_time": 1683935484,
-      "rank": 4,
-      "category": "网红"
     },
     {
       "raw_hot": 1292529,
@@ -5419,12 +5419,28 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 657802,
+      "num": 466974,
+      "word": "男童酒店客房误食用过的安全套",
+      "onboard_time": 1683943467,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 657744,
       "num": 657744,
       "word": "杭州高空扔狗事件",
       "onboard_time": 1683341371,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 656988,
+      "num": 656988,
+      "word": "母亲节送什么",
+      "onboard_time": 1683943889,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 655296,
@@ -7083,6 +7099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 509119,
+      "num": 460563,
+      "word": "洪欣说和张丹峰的矛盾与毕滢无关",
+      "onboard_time": 1683941908,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 509086,
       "num": 654309,
       "word": "心疼孙铭徽",
@@ -7707,6 +7731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 461626,
+      "num": 461626,
+      "word": "孕妇羊水破裂怕弄脏出租主动加钱",
+      "onboard_time": 1683941489,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 461026,
       "num": 461026,
       "word": "才知道基围不是虾的品种",
@@ -7817,6 +7849,14 @@
       "onboard_time": 1683267447,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 455389,
+      "num": 455389,
+      "word": "那英问我儿子19了吗",
+      "onboard_time": 1683942930,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 455014,
@@ -9259,6 +9299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 390684,
+      "num": 390684,
+      "word": "前任发微信说明天要结婚了",
+      "onboard_time": 1683944429,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 389520,
       "num": 322278,
       "word": "iPhone15ProMax边框更窄",
@@ -9529,6 +9577,14 @@
       "onboard_time": 1683688292,
       "rank": 44,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 380420,
+      "num": 380420,
+      "word": "女子小区内放生五盒蟑螂被制止",
+      "onboard_time": 1683939749,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 380208,
@@ -9851,6 +9907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 366399,
+      "num": 366399,
+      "word": "黄磊何炅跑着接刘宪华",
+      "onboard_time": 1683943409,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 366368,
       "num": 361413,
       "word": "庆余年2再相逢版海报",
@@ -10025,14 +10089,6 @@
       "onboard_time": 1683101131,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 361447,
-      "num": 323359,
-      "word": "女子小区内放生五盒蟑螂被制止",
-      "onboard_time": 1683939749,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 361351,
@@ -11179,14 +11235,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 331943,
-      "num": 331943,
-      "word": "洪欣说和张丹峰的矛盾与毕滢无关",
-      "onboard_time": 1683941908,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 331818,
       "num": 255210,
       "word": "青簪行",
@@ -12257,6 +12305,14 @@
       "onboard_time": 1683389369,
       "rank": 33,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 304149,
+      "num": 304149,
+      "word": "初级会计",
+      "onboard_time": 1683936866,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 303251,
@@ -13491,6 +13547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 277556,
+      "num": 277556,
+      "word": "疑似上海雇主14万月薪请保姆",
+      "onboard_time": 1683941789,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277430,
       "num": 277430,
       "word": "恩比德 G2",
@@ -14264,14 +14328,6 @@
       "word": "承重墙",
       "onboard_time": 1683297814,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260752,
-      "num": 260752,
-      "word": "孕妇羊水破裂怕弄脏出租主动加钱",
-      "onboard_time": 1683941489,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -16843,6 +16899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222622,
+      "num": 222622,
+      "word": "热火vs尼克斯",
+      "onboard_time": 1683078089,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222617,
       "num": 222617,
       "word": "时代少年团演唱会回放",
@@ -16921,6 +16985,14 @@
       "onboard_time": 1683446847,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220955,
+      "num": 220955,
+      "word": "章昊wink",
+      "onboard_time": 1683944848,
+      "rank": 32,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 220907,
@@ -18497,14 +18569,6 @@
       "onboard_time": 1682995649,
       "rank": 37,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 201481,
-      "num": 201481,
-      "word": "初级会计",
-      "onboard_time": 1683936866,
-      "rank": 26,
-      "category": "教育"
     },
     {
       "raw_hot": 201240,
@@ -20395,14 +20459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177733,
-      "num": 177733,
-      "word": "疑似上海雇主14万月薪请保姆",
-      "onboard_time": 1683941789,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177687,
       "num": 177687,
       "word": "杨洋蒋梦婕宝黛cp同框",
@@ -21595,6 +21651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162306,
+      "num": 162306,
+      "word": "90花生头部艺人",
+      "onboard_time": 1683939567,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 162273,
       "num": 162273,
       "word": "Jennie朴彩英确认出席Metgala",
@@ -22283,12 +22347,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 152474,
-      "num": 152474,
-      "word": "90花生头部艺人",
-      "onboard_time": 1683939567,
-      "rank": 40,
-      "category": "作品衍生"
+      "raw_hot": 152323,
+      "num": 152323,
+      "word": "徐州天降大量抵制虐猫传单",
+      "onboard_time": 1683938667,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152143,
@@ -23067,6 +23131,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 138876,
+      "num": 138876,
+      "word": "转正的前一天被辞退了",
+      "onboard_time": 1683942866,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138790,
       "num": 138790,
       "word": "终于知道面试怎么谈薪了",
@@ -23161,14 +23233,6 @@
       "onboard_time": 1682935589,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 136500,
-      "num": 136500,
-      "word": "徐州天降大量抵制虐猫传单",
-      "onboard_time": 1683938667,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136196,
@@ -23425,6 +23489,14 @@
       "onboard_time": 1683636692,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 132526,
+      "num": 132526,
+      "word": "高中英语",
+      "onboard_time": 1683942810,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 132466,
@@ -24131,6 +24203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120086,
+      "num": 120086,
+      "word": "狼来了",
+      "onboard_time": 1683945089,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119787,
       "num": 119787,
       "word": "NBA春晚",
@@ -24273,14 +24353,6 @@
       "onboard_time": 1683268408,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 116805,
-      "num": 116805,
-      "word": "热火vs尼克斯",
-      "onboard_time": 1683078089,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 116287,
@@ -25748,7 +25820,7 @@
     },
     {
       "raw_hot": 52769,
-      "num": 115119,
+      "num": 119848,
       "word": "呀哈哈做错了什么",
       "onboard_time": 1683936326,
       "rank": 48,
