@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683976396651,
+  "endTime": 1683977599789,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -65,6 +65,14 @@
       "onboard_time": 1683819510,
       "rank": 0,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 3483240,
+      "num": 3483240,
+      "word": "浪姐 79分21秒",
+      "onboard_time": 1683975569,
+      "rank": 0,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 3398233,
@@ -161,14 +169,6 @@
       "onboard_time": 1683949648,
       "rank": 0,
       "category": "自然,社会新闻"
-    },
-    {
-      "raw_hot": 2778177,
-      "num": 2778177,
-      "word": "浪姐 79分21秒",
-      "onboard_time": 1683975569,
-      "rank": 0,
-      "category": "综艺,体育"
     },
     {
       "raw_hot": 2753617,
@@ -1379,6 +1379,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1259727,
+      "num": 1259727,
+      "word": "刘雅瑟 油",
+      "onboard_time": 1683967109,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1253359,
+      "num": 630056,
+      "word": "赵露思 瘦而不柴",
+      "onboard_time": 1683975149,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1252259,
       "num": 1201858,
       "word": "李国庆称签约孟羽童保底要400万",
@@ -1433,14 +1449,6 @@
       "onboard_time": 1683628293,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1208451,
-      "num": 1169016,
-      "word": "刘雅瑟 油",
-      "onboard_time": 1683967109,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 1199608,
@@ -1819,6 +1827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 991419,
+      "num": 760146,
+      "word": "陈意涵问修杰楷你在哪儿",
+      "onboard_time": 1683971247,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 984630,
       "num": 984630,
       "word": "于正 射雕就是要流量带新人",
@@ -1971,6 +1987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 915142,
+      "num": 603583,
+      "word": "李荣浩第一次吃乌梅子酱",
+      "onboard_time": 1683968487,
+      "rank": 31,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 913542,
       "num": 913542,
       "word": "罗翔谈女子遭掌掴还手被判定互殴",
@@ -2091,14 +2115,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 863790,
-      "num": 485899,
-      "word": "李荣浩第一次吃乌梅子酱",
-      "onboard_time": 1683968487,
-      "rank": 31,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 863262,
       "num": 863262,
       "word": "时代峰峻回应马嘉祺宋亚轩缓考",
@@ -2177,14 +2193,6 @@
       "onboard_time": 1683677428,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 821515,
-      "num": 379695,
-      "word": "陈意涵问修杰楷你在哪儿",
-      "onboard_time": 1683971247,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 821398,
@@ -2315,6 +2323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 771511,
+      "num": 771511,
+      "word": "因为买榴莲和男友吵了一架",
+      "onboard_time": 1683973529,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 767295,
       "num": 767295,
       "word": "东北大哥称不想再管吵架事件",
@@ -2393,14 +2409,6 @@
       "onboard_time": 1683860066,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 741942,
-      "num": 380107,
-      "word": "赵露思 瘦而不柴",
-      "onboard_time": 1683975149,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 740571,
@@ -2867,6 +2875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 621967,
+      "num": 199040,
+      "word": "王俊凯去哪",
+      "onboard_time": 1683976527,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 621084,
       "num": 621084,
       "word": "狗狗失踪7年后回家主人煮饺子庆团圆",
@@ -3265,6 +3281,14 @@
       "onboard_time": 1683680789,
       "rank": 16,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 560122,
+      "num": 157443,
+      "word": "西西弗",
+      "onboard_time": 1683976886,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 559398,
@@ -3776,6 +3800,14 @@
       "word": "problem好女团",
       "onboard_time": 1683955829,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 480182,
+      "num": 480182,
+      "word": "瘦子 满舒克",
+      "onboard_time": 1683975988,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -4763,12 +4795,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 383901,
-      "num": 383901,
-      "word": "因为买榴莲和男友吵了一架",
-      "onboard_time": 1683973529,
-      "rank": 14,
-      "category": "幽默"
+      "raw_hot": 384060,
+      "num": 384060,
+      "word": "医院回应男子倒提婴儿",
+      "onboard_time": 1683973046,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 383364,
@@ -5155,14 +5187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 360604,
-      "num": 360604,
-      "word": "医院回应男子倒提婴儿",
-      "onboard_time": 1683973046,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 360082,
       "num": 360082,
       "word": "三井寿 湘北的公主",
@@ -5539,6 +5563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 343602,
+      "num": 1526488,
+      "word": "老师用见义勇为奖金买1200支笔送高考生",
+      "onboard_time": 1683971969,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 343352,
       "num": 343352,
       "word": "女子因琐事太多从体制内裸辞",
@@ -5665,14 +5697,6 @@
       "onboard_time": 1683799896,
       "rank": 46,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 337717,
-      "num": 1172570,
-      "word": "老师用见义勇为奖金买1200支笔送高考生",
-      "onboard_time": 1683971969,
-      "rank": 29,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 337106,
@@ -7340,7 +7364,7 @@
     },
     {
       "raw_hot": 262045,
-      "num": 132083,
+      "num": 143264,
       "word": "侯明昊裤子",
       "onboard_time": 1683974849,
       "rank": 35,
@@ -8723,6 +8747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215604,
+      "num": 139208,
+      "word": "韩国人对章昊Ricky红色护照的反应",
+      "onboard_time": 1683977428,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 215551,
       "num": 215551,
       "word": "张镇麟三双",
@@ -9211,20 +9243,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202041,
+      "num": 134968,
+      "word": "声生不息",
+      "onboard_time": 1683977548,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201583,
       "num": 201583,
       "word": "湖人2比1勇士",
       "onboard_time": 1683598226,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201451,
-      "num": 110706,
-      "word": "瘦子 满舒克",
-      "onboard_time": 1683975988,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 201213,
@@ -9923,6 +9955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182404,
+      "num": 152423,
+      "word": "拿到拆迁款前几天人去世了",
+      "onboard_time": 1683977367,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181739,
       "num": 181739,
       "word": "成毅到达南京",
@@ -10443,6 +10483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167584,
+      "num": 167584,
+      "word": "郭艾伦 大名单",
+      "onboard_time": 1683976707,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166903,
       "num": 166903,
       "word": "美国编剧罢工",
@@ -10633,6 +10681,14 @@
       "onboard_time": 1683503247,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 160733,
+      "num": 160733,
+      "word": "喜欢送",
+      "onboard_time": 1683977248,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 160673,
@@ -10937,6 +10993,14 @@
       "onboard_time": 1683874467,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150545,
+      "num": 150545,
+      "word": "西游记演员程伟兵病逝",
+      "onboard_time": 1683976886,
+      "rank": 33,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 150454,
