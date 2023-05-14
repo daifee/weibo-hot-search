@@ -1,0 +1,410 @@
+{
+  "runTime": 1684067428481,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1344733,
+        "num": 1344733,
+        "word": "爱奇艺5月6月待播剧",
+        "onboard_time": 1684062926,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1159377,
+        "num": 1159377,
+        "word": "刘维说徐怀钰不是划水是不自信",
+        "onboard_time": 1684055966,
+        "rank": 1,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 35174,
+        "num": 1040532,
+        "word": "农忙时节的田野铺开了生机勃勃的画卷",
+        "onboard_time": 1684054285,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1007859,
+        "num": 1007859,
+        "word": "一万的票隔壁唱了九千八",
+        "onboard_time": 1684059146,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 919877,
+        "num": 919877,
+        "word": "女儿偷偷买票帮60岁妈妈追星",
+        "onboard_time": 1684055064,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754853,
+        "num": 754853,
+        "word": "大爷买二等座票带孙女坐一等座被赶",
+        "onboard_time": 1684059805,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 747851,
+        "num": 747851,
+        "word": "秋瓷炫像是在跳我的人生",
+        "onboard_time": 1684064007,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 741171,
+        "num": 741171,
+        "word": "侯明昊早几年干嘛去了",
+        "onboard_time": 1684060525,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 582723,
+        "num": 582723,
+        "word": "网红卖崽青蛙上海落网",
+        "onboard_time": 1684039110,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453504,
+        "num": 453504,
+        "word": "塞尔达 原神",
+        "onboard_time": 1684062265,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1071843,
+        "num": 453275,
+        "word": "二阳",
+        "onboard_time": 1684058486,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640199,
+        "num": 452770,
+        "word": "王艳儿子近照",
+        "onboard_time": 1684052064,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 472306,
+        "num": 451712,
+        "word": "浪姐一公淘汰名单",
+        "onboard_time": 1684047387,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417599,
+        "num": 451457,
+        "word": "催生催育 女性选择",
+        "onboard_time": 1684061965,
+        "rank": 13,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 17438,
+        "num": 450808,
+        "word": "王源后台花絮",
+        "onboard_time": 1684044026,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 450372,
+        "num": 450372,
+        "word": "汪小敏 淘汰",
+        "onboard_time": 1684064246,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448710,
+        "num": 448710,
+        "word": "张馨予 有个牌子衣服大号都穿不上",
+        "onboard_time": 1684046067,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443507,
+        "num": 443507,
+        "word": "林允儿跳了Ditto",
+        "onboard_time": 1684062746,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 338807,
+        "num": 338807,
+        "word": "南开大学母亲节配图",
+        "onboard_time": 1684062926,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 309007,
+        "num": 309007,
+        "word": "莫兰特",
+        "onboard_time": 1684066284,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331602,
+        "num": 308844,
+        "word": "吴倩不会wink",
+        "onboard_time": 1684041867,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307106,
+        "num": 307106,
+        "word": "跟男朋友偷偷领证后很焦虑",
+        "onboard_time": 1684057047,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 301764,
+        "num": 301764,
+        "word": "希望每一位妈妈自由快乐 不只在今天",
+        "onboard_time": 1684058066,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216052,
+        "num": 216052,
+        "word": "6岁娃用3000元压岁钱给妈妈买金项链",
+        "onboard_time": 1684058968,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195525,
+        "num": 195525,
+        "word": "和闸机击了个掌就进站了",
+        "onboard_time": 1684064547,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293792,
+        "num": 195398,
+        "word": "马嘉祺丁程鑫张真源体验分娩阵痛",
+        "onboard_time": 1684063527,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268611,
+        "num": 194558,
+        "word": "王鹤棣坐直升机空降",
+        "onboard_time": 1684060406,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266630,
+        "num": 194508,
+        "word": "天黑黑",
+        "onboard_time": 1684065027,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193510,
+        "num": 193510,
+        "word": "24岁一个朋友都没有正常吗",
+        "onboard_time": 1684067125,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43256,
+        "num": 193423,
+        "word": "不可爱的天气里遇见可爱的人",
+        "onboard_time": 1684064246,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219161,
+        "num": 193051,
+        "word": "刘维 徐怀钰团队划水",
+        "onboard_time": 1684056566,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206708,
+        "num": 192554,
+        "word": "ZB1红毯",
+        "onboard_time": 1684066225,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195384,
+        "num": 192259,
+        "word": "徐怀钰 回忆杀",
+        "onboard_time": 1684042827,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198681,
+        "num": 192081,
+        "word": "卢靖姗太强了",
+        "onboard_time": 1684041989,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191744,
+        "num": 191744,
+        "word": "猫咪出生1个月确诊是无性别",
+        "onboard_time": 1684059327,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180086,
+        "num": 180086,
+        "word": "杨幂龚俊吻戏路透",
+        "onboard_time": 1684055906,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175310,
+        "num": 175310,
+        "word": "最毁你三观的一件事是什么",
+        "onboard_time": 1684065746,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170013,
+        "num": 170013,
+        "word": "朋友未经允许把我的榴莲开了",
+        "onboard_time": 1684066885,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 144576,
+        "num": 144576,
+        "word": "毕业后很少听到自己全名了",
+        "onboard_time": 1684054285,
+        "rank": 38,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 142626,
+        "num": 142626,
+        "word": "母亲得知儿子回家穿新衣奔跑迎接",
+        "onboard_time": 1684066826,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179671,
+        "num": 142226,
+        "word": "芝芙和叮叮当当原唱的关系",
+        "onboard_time": 1684059446,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178742,
+        "num": 141600,
+        "word": "看中医就没有隐私吗",
+        "onboard_time": 1684067068,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171669,
+        "num": 140523,
+        "word": "胡歌走走停停或将5月底开机",
+        "onboard_time": 1684062805,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158883,
+        "num": 139397,
+        "word": "窦靖童声音好像王菲",
+        "onboard_time": 1684053266,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157412,
+        "num": 138253,
+        "word": "粉丝滤镜",
+        "onboard_time": 1684062146,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138250,
+        "num": 138250,
+        "word": "两男子不约而同跳河救落水小孩",
+        "onboard_time": 1684065087,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138034,
+        "num": 138034,
+        "word": "你坐高铁一般选择什么座位",
+        "onboard_time": 1684063946,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126569,
+        "num": 126569,
+        "word": "胡锡进发文评卖崽青蛙上海落网",
+        "onboard_time": 1684059926,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118843,
+        "num": 118843,
+        "word": "摊主买彩票中2千多万激动砸摊位",
+        "onboard_time": 1684038687,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95095,
+        "num": 118841,
+        "word": "BLG对战JDG",
+        "onboard_time": 1684061546,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国与中亚在此相会#"
+    }
+  }
+}
