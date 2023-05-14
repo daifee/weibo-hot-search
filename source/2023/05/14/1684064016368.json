@@ -1,0 +1,410 @@
+{
+  "runTime": 1684064016368,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1488996,
+        "num": 1488996,
+        "word": "刘维说徐怀钰不是划水是不自信",
+        "onboard_time": 1684055966,
+        "rank": 0,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 1182220,
+        "num": 1182220,
+        "word": "女儿偷偷买票帮60岁妈妈追星",
+        "onboard_time": 1684055064,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37046,
+        "num": 1134104,
+        "word": "农忙时节的田野铺开了生机勃勃的画卷",
+        "onboard_time": 1684054285,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1105435,
+        "num": 1105435,
+        "word": "一万的票隔壁唱了九千八",
+        "onboard_time": 1684059146,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 420465,
+        "num": 1004019,
+        "word": "6岁娃用3000元压岁钱给妈妈买金项链",
+        "onboard_time": 1684058968,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 999175,
+        "num": 999175,
+        "word": "大爷买二等座票带孙女坐一等座被赶",
+        "onboard_time": 1684059805,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286215,
+        "num": 834775,
+        "word": "她是孤儿也是1000多个孩子的妈妈",
+        "onboard_time": 1684063706,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 743933,
+        "num": 743933,
+        "word": "吴倩不会wink",
+        "onboard_time": 1684041867,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 670613,
+        "num": 670613,
+        "word": "侯明昊早几年干嘛去了",
+        "onboard_time": 1684060525,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 491834,
+        "num": 491834,
+        "word": "网红卖崽青蛙上海落网",
+        "onboard_time": 1684039110,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1222589,
+        "num": 490140,
+        "word": "二阳",
+        "onboard_time": 1684058486,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787415,
+        "num": 468155,
+        "word": "王艳儿子近照",
+        "onboard_time": 1684052064,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624155,
+        "num": 447254,
+        "word": "浪姐一公淘汰名单",
+        "onboard_time": 1684047387,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 561239,
+        "num": 425628,
+        "word": "张馨予 有个牌子衣服大号都穿不上",
+        "onboard_time": 1684046067,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551625,
+        "num": 409163,
+        "word": "王鹤棣坐直升机空降",
+        "onboard_time": 1684060406,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394985,
+        "num": 394985,
+        "word": "塞尔达 原神",
+        "onboard_time": 1684062265,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 351400,
+        "num": 351400,
+        "word": "刘维 徐怀钰团队划水",
+        "onboard_time": 1684056566,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336285,
+        "num": 336285,
+        "word": "爱奇艺5月6月待播剧",
+        "onboard_time": 1684062926,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318014,
+        "num": 318014,
+        "word": "希望每一位妈妈自由快乐 不只在今天",
+        "onboard_time": 1684058066,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264170,
+        "num": 264170,
+        "word": "催生催育 女性选择",
+        "onboard_time": 1684061965,
+        "rank": 19,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 332460,
+        "num": 262473,
+        "word": "跟男朋友偷偷领证后很焦虑",
+        "onboard_time": 1684057047,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 330017,
+        "num": 261788,
+        "word": "卢靖姗太强了",
+        "onboard_time": 1684041989,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319736,
+        "num": 261358,
+        "word": "林允儿跳了Ditto",
+        "onboard_time": 1684062746,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 254847,
+        "num": 254847,
+        "word": "猫咪出生1个月确诊是无性别",
+        "onboard_time": 1684059327,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245258,
+        "num": 245258,
+        "word": "南开大学母亲节配图",
+        "onboard_time": 1684062926,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 303311,
+        "num": 240811,
+        "word": "杨幂龚俊吻戏路透",
+        "onboard_time": 1684055906,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263379,
+        "num": 237769,
+        "word": "徐怀钰 回忆杀",
+        "onboard_time": 1684042827,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255715,
+        "num": 233403,
+        "word": "芝芙和叮叮当当原唱的关系",
+        "onboard_time": 1684059446,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220788,
+        "num": 220788,
+        "word": "胡锡进发文评卖崽青蛙上海落网",
+        "onboard_time": 1684059926,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99529,
+        "num": 219705,
+        "word": "山西发生重大刑案已致7死11伤",
+        "onboard_time": 1684028727,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 252641,
+        "num": 218645,
+        "word": "叮叮当当甜死我了",
+        "onboard_time": 1684039828,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227824,
+        "num": 216475,
+        "word": "马嘉祺丁程鑫张真源体验分娩阵痛",
+        "onboard_time": 1684063527,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179628,
+        "num": 213501,
+        "word": "男子开车60公里瞒着母亲突然回家",
+        "onboard_time": 1684049665,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223744,
+        "num": 212392,
+        "word": "KCON",
+        "onboard_time": 1684063407,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210735,
+        "num": 210735,
+        "word": "摊主买彩票中2千多万激动砸摊位",
+        "onboard_time": 1684038687,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208321,
+        "num": 208321,
+        "word": "粉丝滤镜",
+        "onboard_time": 1684062146,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157488,
+        "num": 157488,
+        "word": "毕业后很少听到自己全名了",
+        "onboard_time": 1684054285,
+        "rank": 36,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 149269,
+        "num": 149269,
+        "word": "张颂文来了都得害怕",
+        "onboard_time": 1684057407,
+        "rank": 37,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 192807,
+        "num": 149038,
+        "word": "原来花海输给了吻别",
+        "onboard_time": 1684038808,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139692,
+        "num": 139692,
+        "word": "母亲节发现被妈妈拉黑了",
+        "onboard_time": 1684051526,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165948,
+        "num": 139246,
+        "word": "胡歌走走停停或将5月底开机",
+        "onboard_time": 1684062805,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165849,
+        "num": 138712,
+        "word": "秋瓷炫像是在跳我的人生",
+        "onboard_time": 1684064007,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163376,
+        "num": 138234,
+        "word": "窦靖童声音好像王菲",
+        "onboard_time": 1684053266,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163112,
+        "num": 137825,
+        "word": "黄子韬徐艺洋同款微博打卡",
+        "onboard_time": 1684047984,
+        "rank": 43,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 158034,
+        "num": 137342,
+        "word": "queencard",
+        "onboard_time": 1684061246,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137085,
+        "num": 137085,
+        "word": "韦世豪",
+        "onboard_time": 1684047627,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135550,
+        "num": 135550,
+        "word": "你坐高铁一般选择什么座位",
+        "onboard_time": 1684063946,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111382,
+        "num": 135043,
+        "word": "无辜的大学生突然受到暴击",
+        "onboard_time": 1684060165,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93753,
+        "num": 134750,
+        "word": "BLG对战JDG",
+        "onboard_time": 1684061546,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 31722,
+        "num": 134417,
+        "word": "海拉鲁军备竞赛",
+        "onboard_time": 1684049186,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#母亲的爱涵养家风#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1684062787735,
+  "endTime": 1684064016368,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1643,6 +1643,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1222589,
+      "num": 1190500,
+      "word": "二阳",
+      "onboard_time": 1683508648,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1220883,
       "num": 2426491,
       "word": "19岁小伙自首偷车被失主安排工作",
@@ -1697,14 +1705,6 @@
       "onboard_time": 1683624870,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1190500,
-      "num": 1190500,
-      "word": "二阳",
-      "onboard_time": 1683508648,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1183713,
@@ -1841,6 +1841,14 @@
       "onboard_time": 1683782790,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1105435,
+      "num": 1105435,
+      "word": "一万的票隔壁唱了九千八",
+      "onboard_time": 1684059146,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 1104845,
@@ -2003,14 +2011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1035339,
-      "num": 1035339,
-      "word": "一万的票隔壁唱了九千八",
-      "onboard_time": 1684059146,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1032047,
       "num": 1032047,
       "word": "鹿晗张艺兴同杂志封面",
@@ -2097,6 +2097,14 @@
       "onboard_time": 1683987031,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 999175,
+      "num": 999175,
+      "word": "大爷买二等座票带孙女坐一等座被赶",
+      "onboard_time": 1684059805,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 994273,
@@ -2915,14 +2923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 712586,
-      "num": 712586,
-      "word": "大爷买二等座票带孙女坐一等座被赶",
-      "onboard_time": 1684059805,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 709161,
       "num": 709161,
       "word": "累死库里",
@@ -3097,6 +3097,14 @@
       "onboard_time": 1683981511,
       "rank": 22,
       "category": "游戏,美妆"
+    },
+    {
+      "raw_hot": 670613,
+      "num": 670613,
+      "word": "侯明昊早几年干嘛去了",
+      "onboard_time": 1684060525,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 670343,
@@ -3787,6 +3795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 551625,
+      "num": 531551,
+      "word": "王鹤棣坐直升机空降",
+      "onboard_time": 1684060406,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 549768,
       "num": 515533,
       "word": "屈楚萧演张万森吗",
@@ -3929,14 +3945,6 @@
       "onboard_time": 1683521019,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 531551,
-      "num": 531551,
-      "word": "王鹤棣坐直升机空降",
-      "onboard_time": 1684060406,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 530606,
@@ -4963,14 +4971,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 426236,
-      "num": 426236,
-      "word": "侯明昊早几年干嘛去了",
-      "onboard_time": 1684060525,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 426231,
       "num": 426231,
       "word": "i love you guys",
@@ -5417,6 +5417,14 @@
       "onboard_time": 1683685946,
       "rank": 22,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 394985,
+      "num": 394985,
+      "word": "塞尔达 原神",
+      "onboard_time": 1684062265,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 394849,
@@ -6643,6 +6651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 336285,
+      "num": 336285,
+      "word": "爱奇艺5月6月待播剧",
+      "onboard_time": 1684062926,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 335992,
       "num": 335992,
       "word": "宝宝摔下沙发奶奶一下冲过去接住",
@@ -6961,6 +6977,14 @@
       "onboard_time": 1683990756,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 319736,
+      "num": 261358,
+      "word": "林允儿跳了Ditto",
+      "onboard_time": 1684062746,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 319198,
@@ -7859,6 +7883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286215,
+      "num": 834775,
+      "word": "她是孤儿也是1000多个孩子的妈妈",
+      "onboard_time": 1684063706,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286056,
       "num": 286056,
       "word": "老板把拆迁款转到我账户上了",
@@ -8452,7 +8484,7 @@
     },
     {
       "raw_hot": 264428,
-      "num": 176814,
+      "num": 233403,
       "word": "芝芙和叮叮当当原唱的关系",
       "onboard_time": 1684059446,
       "rank": 32,
@@ -8465,6 +8497,14 @@
       "onboard_time": 1683730411,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264170,
+      "num": 264170,
+      "word": "催生催育 女性选择",
+      "onboard_time": 1684061965,
+      "rank": 39,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 263950,
@@ -8732,7 +8772,7 @@
     },
     {
       "raw_hot": 257269,
-      "num": 213073,
+      "num": 254847,
       "word": "猫咪出生1个月确诊是无性别",
       "onboard_time": 1684059327,
       "rank": 45,
@@ -9153,6 +9193,14 @@
       "onboard_time": 1683618445,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245258,
+      "num": 245258,
+      "word": "南开大学母亲节配图",
+      "onboard_time": 1684062926,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 244306,
@@ -9779,6 +9827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227824,
+      "num": 216475,
+      "word": "马嘉祺丁程鑫张真源体验分娩阵痛",
+      "onboard_time": 1684063527,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227558,
       "num": 227558,
       "word": "长相思",
@@ -9915,6 +9971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223744,
+      "num": 212392,
+      "word": "KCON",
+      "onboard_time": 1684063407,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223634,
       "num": 223634,
       "word": "看老照片",
@@ -9937,6 +10001,14 @@
       "onboard_time": 1683768329,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220788,
+      "num": 220788,
+      "word": "胡锡进发文评卖崽青蛙上海落网",
+      "onboard_time": 1684059926,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220564,
@@ -10483,6 +10555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 208321,
+      "num": 208321,
+      "word": "粉丝滤镜",
+      "onboard_time": 1684062146,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 207979,
       "num": 207979,
       "word": "武汉创造宇宙音乐节",
@@ -10529,14 +10609,6 @@
       "onboard_time": 1683786209,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 207302,
-      "num": 207302,
-      "word": "胡锡进发文评卖崽青蛙上海落网",
-      "onboard_time": 1684059926,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207075,
@@ -11363,14 +11435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187903,
-      "num": 146865,
-      "word": "粉丝滤镜",
-      "onboard_time": 1684062146,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 187182,
       "num": 187182,
       "word": "白敬亭身边好多鞋",
@@ -12187,12 +12251,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 165948,
+      "num": 139246,
+      "word": "胡歌走走停停或将5月底开机",
+      "onboard_time": 1684062805,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 165887,
       "num": 165887,
       "word": "哪一瞬间意识到妈妈很爱你",
       "onboard_time": 1683601467,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 165849,
+      "num": 138712,
+      "word": "秋瓷炫像是在跳我的人生",
+      "onboard_time": 1684064007,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 165618,
@@ -13107,14 +13187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141062,
-      "num": 123485,
-      "word": "林允儿跳了Ditto",
-      "onboard_time": 1684062746,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 140812,
       "num": 140812,
       "word": "唱跳俱佳的爱豆",
@@ -13299,6 +13371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 135550,
+      "num": 135550,
+      "word": "你坐高铁一般选择什么座位",
+      "onboard_time": 1684063946,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135491,
       "num": 143582,
       "word": "电竞少年益起守护花开",
@@ -13468,7 +13548,7 @@
     },
     {
       "raw_hot": 131458,
-      "num": 131458,
+      "num": 134750,
       "word": "BLG对战JDG",
       "onboard_time": 1684061546,
       "rank": 38,
@@ -13643,14 +13723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124058,
-      "num": 124058,
-      "word": "催生催育 女性选择",
-      "onboard_time": 1684061965,
-      "rank": 39,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 123629,
       "num": 123629,
       "word": "护心 太空上放烟花",
@@ -13668,7 +13740,7 @@
     },
     {
       "raw_hot": 122901,
-      "num": 122901,
+      "num": 135043,
       "word": "无辜的大学生突然受到暴击",
       "onboard_time": 1684060165,
       "rank": 42,
@@ -13737,14 +13809,6 @@
       "onboard_time": 1683966088,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 120622,
-      "num": 120622,
-      "word": "塞尔达 原神",
-      "onboard_time": 1684062265,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 120486,
@@ -14588,7 +14652,7 @@
     },
     {
       "raw_hot": 61375,
-      "num": 118750,
+      "num": 134417,
       "word": "海拉鲁军备竞赛",
       "onboard_time": 1684049186,
       "rank": 47,
