@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684078407040,
+  "endTime": 1684081230245,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -2073,6 +2073,14 @@
       "onboard_time": 1683530376,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1545860,
+      "num": 307673,
+      "word": "陈楚河",
+      "onboard_time": 1684078408,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1545584,
@@ -6835,6 +6843,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 588454,
+      "num": 588454,
+      "word": "后浪扔外卖 离谱",
+      "onboard_time": 1684079068,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 587748,
       "num": 463116,
       "word": "Jennie的肤色好辣",
@@ -9033,6 +9049,14 @@
       "onboard_time": 1683380193,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 454376,
+      "num": 306109,
+      "word": "吴镇宇带费曼去看周杰伦演唱会了",
+      "onboard_time": 1684078228,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 453960,
@@ -12105,6 +12129,14 @@
       "onboard_time": 1684043609,
       "rank": 17,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 352409,
+      "num": 352409,
+      "word": "鬼灭之刃",
+      "onboard_time": 1683506428,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 352407,
@@ -18707,14 +18739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231784,
-      "num": 231784,
-      "word": "鬼灭之刃",
-      "onboard_time": 1683506428,
-      "rank": 35,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 231618,
       "num": 231618,
       "word": "战至巅峰",
@@ -24595,14 +24619,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 163360,
-      "num": 147218,
-      "word": "吴镇宇带费曼去看周杰伦演唱会了",
-      "onboard_time": 1684078228,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 163330,
       "num": 163330,
       "word": "80后白发校长带学生帮捡散落粮食",
@@ -25729,6 +25745,14 @@
       "onboard_time": 1683527500,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 149773,
+      "num": 149773,
+      "word": "洗碗机比你孝顺",
+      "onboard_time": 1684078709,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 149691,
@@ -26865,6 +26889,14 @@
       "onboard_time": 1683338972,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 131896,
+      "num": 131896,
+      "word": "没有边界感的狗狗",
+      "onboard_time": 1684079909,
+      "rank": 34,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 131648,
