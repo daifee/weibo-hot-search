@@ -1,6 +1,6 @@
 {
   "startTime": 1683994827629,
-  "endTime": 1684070275808,
+  "endTime": 1684071208909,
   "band_list": [
     {
       "raw_hot": 2836350,
@@ -33,6 +33,14 @@
       "onboard_time": 1684020799,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1741040,
+      "num": 1741040,
+      "word": "挖呀挖黄老师关闭直播间打赏",
+      "onboard_time": 1684069466,
+      "rank": 10,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1739629,
@@ -97,6 +105,14 @@
       "onboard_time": 1684039828,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1486779,
+      "num": 1486779,
+      "word": "妻子举报高校丈夫出轨多位女学生",
+      "onboard_time": 1684068687,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1479611,
@@ -227,14 +243,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1054940,
-      "num": 1054940,
-      "word": "妻子举报高校丈夫出轨多位女学生",
-      "onboard_time": 1684068687,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 999175,
       "num": 999175,
       "word": "大爷买二等座票带孙女坐一等座被赶",
@@ -275,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 939443,
+      "num": 939443,
+      "word": "看中医就没有隐私吗",
+      "onboard_time": 1684067068,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 938846,
       "num": 938846,
       "word": "黄子韬徐艺洋同款微博打卡",
@@ -289,14 +305,6 @@
       "onboard_time": 1683984030,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 906753,
-      "num": 906753,
-      "word": "看中医就没有隐私吗",
-      "onboard_time": 1684067068,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 901674,
@@ -361,14 +369,6 @@
       "onboard_time": 1683989673,
       "rank": 7,
       "category": "情感,影视"
-    },
-    {
-      "raw_hot": 762122,
-      "num": 379892,
-      "word": "挖呀挖黄老师关闭直播间打赏",
-      "onboard_time": 1684069466,
-      "rank": 10,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 741171,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 517991,
-      "num": 365536,
+      "num": 440653,
       "word": "后浪开播",
       "onboard_time": 1684070008,
       "rank": 13,
@@ -595,12 +595,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 448765,
+      "num": 302570,
+      "word": "后浪收视率",
+      "onboard_time": 1684069948,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 443947,
       "num": 299502,
       "word": "花海舞台",
       "onboard_time": 1684026746,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 430289,
+      "num": 430289,
+      "word": "猫咪出生1个月确诊是无性别",
+      "onboard_time": 1684059327,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 426096,
@@ -715,14 +731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 382806,
-      "num": 382806,
-      "word": "猫咪出生1个月确诊是无性别",
-      "onboard_time": 1684059327,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 381315,
       "num": 689289,
       "word": "自称长相比较可爱女副教授回应",
@@ -760,6 +768,14 @@
       "word": "因为下大雨给客户撑伞转正了",
       "onboard_time": 1684039768,
       "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 365397,
+      "num": 289801,
+      "word": "24岁一个朋友都没有正常吗",
+      "onboard_time": 1684067125,
+      "rank": 28,
       "category": "情感"
     },
     {
@@ -819,14 +835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 343097,
-      "num": 289801,
-      "word": "24岁一个朋友都没有正常吗",
-      "onboard_time": 1684067125,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 341273,
       "num": 249801,
       "word": "墨香铜臭",
@@ -841,6 +849,14 @@
       "onboard_time": 1684055547,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337817,
+      "num": 265189,
+      "word": "浪姐4一公观众告诉你为什么花海会输",
+      "onboard_time": 1684069227,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 332235,
@@ -1019,20 +1035,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 286182,
-      "num": 265189,
-      "word": "浪姐4一公观众告诉你为什么花海会输",
-      "onboard_time": 1684069227,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 282916,
       "num": 265402,
       "word": "追你的人突然有对象了",
       "onboard_time": 1684068625,
       "rank": 24,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 281880,
+      "num": 265071,
+      "word": "记者卧底南京夫子庙暗访竹筒奶茶市场",
+      "onboard_time": 1684068086,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279954,
@@ -1097,14 +1113,6 @@
       "onboard_time": 1684051407,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 266073,
-      "num": 265071,
-      "word": "记者卧底南京夫子庙暗访竹筒奶茶市场",
-      "onboard_time": 1684068086,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 264428,
@@ -1219,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234876,
+      "num": 234876,
+      "word": "杰尼斯",
+      "onboard_time": 1684070969,
+      "rank": 30,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 233631,
       "num": 233631,
       "word": "原来你才是妈妈最好的礼物",
@@ -1257,14 +1273,6 @@
       "onboard_time": 1684022724,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 226119,
-      "num": 226119,
-      "word": "后浪收视率",
-      "onboard_time": 1684069948,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 223856,
@@ -1708,7 +1716,7 @@
     },
     {
       "raw_hot": 163188,
-      "num": 126789,
+      "num": 132660,
       "word": "胡可说要做职场妈妈不做全职妈妈",
       "onboard_time": 1684069527,
       "rank": 46,
@@ -1907,6 +1915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 140738,
+      "num": 140738,
+      "word": "青蛙人偶打扰到你了吗",
+      "onboard_time": 1684070969,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140623,
       "num": 140623,
       "word": "Fly FMVP",
@@ -2075,6 +2091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 115909,
+      "num": 127093,
+      "word": "捡到100块结果面试没通过",
+      "onboard_time": 1684071147,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115309,
       "num": 115309,
       "word": "CBA总决赛辽宁vs浙江",
@@ -2203,6 +2227,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 82382,
+      "num": 262786,
+      "word": "不可爱的天气里遇见可爱的人",
+      "onboard_time": 1684064246,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80030,
       "num": 110677,
       "word": "王嘉尔新加坡时装五月刊封面",
@@ -2217,14 +2249,6 @@
       "onboard_time": 1684052486,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 69257,
-      "num": 262786,
-      "word": "不可爱的天气里遇见可爱的人",
-      "onboard_time": 1684064246,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 68530,
