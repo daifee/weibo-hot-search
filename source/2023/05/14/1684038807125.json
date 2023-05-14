@@ -1,0 +1,410 @@
+{
+  "runTime": 1684038807125,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1441432,
+        "num": 1441432,
+        "word": "徐怀钰经纪人发文回应",
+        "onboard_time": 1684028787,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1241460,
+        "num": 1241460,
+        "word": "女子旅游后高烧不退确诊不死癌症",
+        "onboard_time": 1684027587,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36243,
+        "num": 1013577,
+        "word": "数字化小而美里的发展活力",
+        "onboard_time": 1684034847,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1606827,
+        "num": 1000925,
+        "word": "山西发生重大刑案已致7死11伤",
+        "onboard_time": 1684028727,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 987330,
+        "num": 987330,
+        "word": "金钟大帮助被霸凌女孩",
+        "onboard_time": 1684034247,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 814484,
+        "num": 814484,
+        "word": "徐怀钰 三公",
+        "onboard_time": 1684020799,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 746836,
+        "num": 746836,
+        "word": "瞿颖说李莎旻子做人太紧张了",
+        "onboard_time": 1684032207,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 508730,
+        "num": 508730,
+        "word": "易烊千玺实体专辑预售预告",
+        "onboard_time": 1684032388,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 454882,
+        "num": 454882,
+        "word": "加班的同事 叫你上班别玩手机",
+        "onboard_time": 1684032928,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 439747,
+        "num": 439747,
+        "word": "母亲节",
+        "onboard_time": 1683991712,
+        "rank": 9,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 673140,
+        "num": 438026,
+        "word": "赵丽颖的腰臀比",
+        "onboard_time": 1684023864,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 521491,
+        "num": 415413,
+        "word": "李楷灿 海底捞",
+        "onboard_time": 1684028246,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384098,
+        "num": 384098,
+        "word": "更心疼刘美含了",
+        "onboard_time": 1684019117,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370556,
+        "num": 370556,
+        "word": "山西吕梁市突发车祸致多人被撞",
+        "onboard_time": 1684024464,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314419,
+        "num": 314419,
+        "word": "浪姐4回应",
+        "onboard_time": 1683991174,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305391,
+        "num": 305391,
+        "word": "初级会计",
+        "onboard_time": 1684036707,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 279105,
+        "num": 279105,
+        "word": "室友拍下盲人女博士努力学习的模样",
+        "onboard_time": 1684031065,
+        "rank": 16,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 286945,
+        "num": 275871,
+        "word": "吻别",
+        "onboard_time": 1684038149,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271424,
+        "num": 271424,
+        "word": "和博士约会接吻后当晚被删了",
+        "onboard_time": 1683984990,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252958,
+        "num": 252958,
+        "word": "王源巡演重庆站官宣",
+        "onboard_time": 1684035927,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 424383,
+        "num": 251570,
+        "word": "近视的人不能吃太多甜品",
+        "onboard_time": 1684036227,
+        "rank": 20,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 406724,
+        "num": 251438,
+        "word": "00后女孩离职旅行存款却越变越多",
+        "onboard_time": 1684018877,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 400817,
+        "num": 248530,
+        "word": "母亲节送咱妈的蛋糕有多离谱",
+        "onboard_time": 1684036886,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 327080,
+        "num": 248328,
+        "word": "Amber当曾可妮的面说烦死她了",
+        "onboard_time": 1684030947,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325769,
+        "num": 245607,
+        "word": "战至巅峰2全员打卡杭州电竞中心",
+        "onboard_time": 1684037608,
+        "rank": 24,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 278555,
+        "num": 244564,
+        "word": "吃榴莲大姨妈提前了",
+        "onboard_time": 1684031969,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244025,
+        "num": 244025,
+        "word": "考个科目三把我考穷了",
+        "onboard_time": 1684031969,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206722,
+        "num": 206722,
+        "word": "王鹤棣侯明昊周也一起拍过广告",
+        "onboard_time": 1684029986,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205320,
+        "num": 205320,
+        "word": "疑似美依礼芽翻译炒CP",
+        "onboard_time": 1683987031,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199288,
+        "num": 199288,
+        "word": "花海舞台",
+        "onboard_time": 1684026746,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228272,
+        "num": 196961,
+        "word": "唾液含剧毒的五爪金龙现身云南",
+        "onboard_time": 1684038268,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193330,
+        "num": 193330,
+        "word": "江苏人真的没有夜生活吗",
+        "onboard_time": 1684028907,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191134,
+        "num": 191134,
+        "word": "花海舞台和杰尼斯舞台对比",
+        "onboard_time": 1684038025,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188687,
+        "num": 188687,
+        "word": "战至巅峰路透",
+        "onboard_time": 1684034666,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179535,
+        "num": 179535,
+        "word": "母亲节红包",
+        "onboard_time": 1684030166,
+        "rank": 34,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 177250,
+        "num": 177250,
+        "word": "郎朗说吉娜已经跳舞跳魔怔了",
+        "onboard_time": 1684038625,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173423,
+        "num": 173423,
+        "word": "汪小敏唱功",
+        "onboard_time": 1684035865,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147245,
+        "num": 147245,
+        "word": "8岁男孩用近500魔方拼画表白妈妈",
+        "onboard_time": 1684038446,
+        "rank": 37,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 144650,
+        "num": 144650,
+        "word": "谢谢你爱我",
+        "onboard_time": 1684035326,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144499,
+        "num": 144499,
+        "word": "伊戈达拉退役",
+        "onboard_time": 1684026626,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143727,
+        "num": 143727,
+        "word": "男子随防盗窗一起从6楼坠落身亡",
+        "onboard_time": 1684022002,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141690,
+        "num": 141690,
+        "word": "摊主买彩票中2千多万激动砸摊位",
+        "onboard_time": 1684038687,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140484,
+        "num": 140484,
+        "word": "模仿妈妈语气发条朋友圈",
+        "onboard_time": 1684034728,
+        "rank": 42,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 137829,
+        "num": 137829,
+        "word": "原来芭莎也没有错过侯明昊周也",
+        "onboard_time": 1684029266,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 134142,
+        "num": 134142,
+        "word": "温精灵",
+        "onboard_time": 1683989913,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 132157,
+        "num": 132157,
+        "word": "吻别真的好",
+        "onboard_time": 1684038746,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130974,
+        "num": 130974,
+        "word": "母亲节文案",
+        "onboard_time": 1684019117,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39100,
+        "num": 130334,
+        "word": "麻辣冷吃猪肉片",
+        "onboard_time": 1684029806,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 35805,
+        "num": 129720,
+        "word": "G2战胜MAD",
+        "onboard_time": 1684021761,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 33831,
+        "num": 128953,
+        "word": "动物园回应私自打印游客照售卖",
+        "onboard_time": 1684018336,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#母亲的爱涵养家风#"
+    }
+  }
+}

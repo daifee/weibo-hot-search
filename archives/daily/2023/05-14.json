@@ -1,6 +1,6 @@
 {
   "startTime": 1683994827629,
-  "endTime": 1684037982864,
+  "endTime": 1684038807125,
   "band_list": [
     {
       "raw_hot": 2836350,
@@ -51,20 +51,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1441432,
+      "num": 1441432,
+      "word": "徐怀钰经纪人发文回应",
+      "onboard_time": 1684028787,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1352656,
       "num": 1352656,
       "word": "王俊凯去香港看周杰伦",
       "onboard_time": 1683986013,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1318836,
-      "num": 1318836,
-      "word": "徐怀钰经纪人发文回应",
-      "onboard_time": 1684028787,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 1304241,
@@ -211,6 +211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 508730,
+      "num": 508730,
+      "word": "易烊千玺实体专辑预售预告",
+      "onboard_time": 1684032388,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 502968,
       "num": 502968,
       "word": "母亲节红包",
@@ -235,14 +243,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 471537,
-      "num": 471537,
-      "word": "易烊千玺实体专辑预售预告",
-      "onboard_time": 1684032388,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 452023,
       "num": 392226,
       "word": "高碧吐了 一字马是常见的舞蹈动作",
@@ -257,6 +257,14 @@
       "onboard_time": 1684022181,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 424383,
+      "num": 251570,
+      "word": "近视的人不能吃太多甜品",
+      "onboard_time": 1684036227,
+      "rank": 21,
+      "category": "其它"
     },
     {
       "raw_hot": 422857,
@@ -283,20 +291,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 409079,
-      "num": 239454,
-      "word": "近视的人不能吃太多甜品",
-      "onboard_time": 1684036227,
-      "rank": 21,
-      "category": "其它"
-    },
-    {
       "raw_hot": 402351,
       "num": 324495,
       "word": "侯明昊回应裤子透光",
       "onboard_time": 1683987392,
       "rank": 16,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 400817,
+      "num": 248530,
+      "word": "母亲节送咱妈的蛋糕有多离谱",
+      "onboard_time": 1684036886,
+      "rank": 22,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 389376,
@@ -355,14 +363,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 341036,
-      "num": 232823,
-      "word": "母亲节送咱妈的蛋糕有多离谱",
-      "onboard_time": 1684036886,
-      "rank": 22,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 327953,
       "num": 327953,
       "word": "给妈妈的备注是什么",
@@ -377,6 +377,14 @@
       "onboard_time": 1683994468,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 325769,
+      "num": 245607,
+      "word": "战至巅峰2全员打卡杭州电竞中心",
+      "onboard_time": 1684037608,
+      "rank": 24,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 324083,
@@ -411,14 +419,6 @@
       "category": "体育,音乐"
     },
     {
-      "raw_hot": 301662,
-      "num": 226179,
-      "word": "战至巅峰2全员打卡杭州电竞中心",
-      "onboard_time": 1684037608,
-      "rank": 24,
-      "category": "综艺,游戏"
-    },
-    {
       "raw_hot": 301237,
       "num": 301237,
       "word": "后浪今日开播",
@@ -447,6 +447,14 @@
       "num": 299502,
       "word": "花海舞台",
       "onboard_time": 1684026746,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 286945,
+      "num": 275871,
+      "word": "吻别",
+      "onboard_time": 1684038149,
       "rank": 17,
       "category": "综艺"
     },
@@ -577,6 +585,14 @@
       "onboard_time": 1683990756,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 228272,
+      "num": 196961,
+      "word": "唾液含剧毒的五爪金龙现身云南",
+      "onboard_time": 1684038268,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227469,
@@ -715,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191134,
+      "num": 191134,
+      "word": "花海舞台和杰尼斯舞台对比",
+      "onboard_time": 1684038025,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181391,
       "num": 225193,
       "word": "Fly没有求婚",
@@ -737,6 +761,14 @@
       "onboard_time": 1684029686,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 177250,
+      "num": 177250,
+      "word": "郎朗说吉娜已经跳舞跳魔怔了",
+      "onboard_time": 1684038625,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 176127,
@@ -867,6 +899,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 147245,
+      "num": 147245,
+      "word": "8岁男孩用近500魔方拼画表白妈妈",
+      "onboard_time": 1684038446,
+      "rank": 37,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 145944,
       "num": 125186,
       "word": "Amber滑跪",
@@ -883,6 +923,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 144650,
+      "num": 144650,
+      "word": "谢谢你爱我",
+      "onboard_time": 1684035326,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142987,
       "num": 142987,
       "word": "美依礼芽投票依旧断层",
@@ -897,6 +945,14 @@
       "onboard_time": 1684022300,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 141690,
+      "num": 141690,
+      "word": "摊主买彩票中2千多万激动砸摊位",
+      "onboard_time": 1684038687,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140623,
@@ -931,19 +987,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132157,
+      "num": 132157,
+      "word": "吻别真的好",
+      "onboard_time": 1684038746,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131936,
       "num": 131936,
       "word": "母亲节表情包",
       "onboard_time": 1684027408,
       "rank": 45,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 128016,
-      "num": 128016,
-      "word": "谢谢你爱我",
-      "onboard_time": 1684035326,
-      "rank": 42,
       "category": "情感"
     },
     {
