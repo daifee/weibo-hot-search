@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684085618659,
+  "endTime": 1684088368972,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -29897,6 +29897,14 @@
       "onboard_time": 1683169227,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40611,
+      "num": 33593,
+      "word": "aespa新歌Spicy音中舞台",
+      "onboard_time": 1684086076,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 40049,

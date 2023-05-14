@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/05/15 00:20:30 ~ 2023/05/15 01:33:38
+本榜单时间：2023/05/15 00:20:30 ~ 2023/05/15 02:19:28
 </p>
 </blockquote>
 <p>
@@ -347,6 +347,12 @@ elk状态（热度：89343）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E7%B2%BE%E7%A5%9E%23" target="weibo">
 浪姐精神（热度：48967）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23aespa%E6%96%B0%E6%AD%8CSpicy%E9%9F%B3%E4%B8%AD%E8%88%9E%E5%8F%B0%23" target="weibo">
+aespa新歌Spicy音中舞台（热度：40611）
 </a>
 </li>
 
