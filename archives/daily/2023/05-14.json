@@ -1,6 +1,6 @@
 {
   "startTime": 1683994827629,
-  "endTime": 1684035211660,
+  "endTime": 1684037982864,
   "band_list": [
     {
       "raw_hot": 2836350,
@@ -59,20 +59,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1318836,
+      "num": 1318836,
+      "word": "徐怀钰经纪人发文回应",
+      "onboard_time": 1684028787,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1304241,
       "num": 1284113,
       "word": "赵丽颖的腰臀比",
       "onboard_time": 1684023864,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1247833,
-      "num": 1247833,
-      "word": "徐怀钰经纪人发文回应",
-      "onboard_time": 1684028787,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 1139109,
@@ -97,6 +97,14 @@
       "onboard_time": 1684022482,
       "rank": 6,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1056997,
+      "num": 1056997,
+      "word": "金钟大帮助被霸凌女孩",
+      "onboard_time": 1684034247,
+      "rank": 9,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 987160,
@@ -211,6 +219,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 487134,
+      "num": 487134,
+      "word": "加班的同事 叫你上班别玩手机",
+      "onboard_time": 1684032928,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 480069,
       "num": 324769,
       "word": "赵露思 瘦而不柴",
@@ -219,12 +235,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 454787,
-      "num": 454787,
-      "word": "金钟大帮助被霸凌女孩",
-      "onboard_time": 1684034247,
-      "rank": 9,
-      "category": "社会新闻,艺人"
+      "raw_hot": 471537,
+      "num": 471537,
+      "word": "易烊千玺实体专辑预售预告",
+      "onboard_time": 1684032388,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 452023,
@@ -233,14 +249,6 @@
       "onboard_time": 1684026866,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 447323,
-      "num": 447323,
-      "word": "易烊千玺实体专辑预售预告",
-      "onboard_time": 1684032388,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 424996,
@@ -273,6 +281,14 @@
       "onboard_time": 1684029266,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 409079,
+      "num": 239454,
+      "word": "近视的人不能吃太多甜品",
+      "onboard_time": 1684036227,
+      "rank": 21,
+      "category": "其它"
     },
     {
       "raw_hot": 402351,
@@ -339,6 +355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 341036,
+      "num": 232823,
+      "word": "母亲节送咱妈的蛋糕有多离谱",
+      "onboard_time": 1684036886,
+      "rank": 22,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 327953,
       "num": 327953,
       "word": "给妈妈的备注是什么",
@@ -353,6 +377,14 @@
       "onboard_time": 1683994468,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 324083,
+      "num": 324083,
+      "word": "初级会计",
+      "onboard_time": 1684036707,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 321434,
@@ -377,6 +409,14 @@
       "onboard_time": 1683990874,
       "rank": 27,
       "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 301662,
+      "num": 226179,
+      "word": "战至巅峰2全员打卡杭州电竞中心",
+      "onboard_time": 1684037608,
+      "rank": 24,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 301237,
@@ -435,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266415,
-      "num": 266415,
-      "word": "加班的同事 叫你上班别玩手机",
-      "onboard_time": 1684032928,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 261146,
       "num": 261146,
       "word": "还妈妈一个清净",
@@ -473,6 +505,14 @@
       "onboard_time": 1684030886,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254476,
+      "num": 254476,
+      "word": "王源巡演重庆站官宣",
+      "onboard_time": 1684035927,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 254475,
@@ -595,20 +635,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 215234,
+      "num": 215234,
+      "word": "战至巅峰路透",
+      "onboard_time": 1684034666,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 212811,
+      "num": 212811,
+      "word": "王鹤棣侯明昊周也一起拍过广告",
+      "onboard_time": 1684029986,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 210848,
       "num": 210848,
       "word": "庆余年2是懂防路透的",
       "onboard_time": 1683984575,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 208164,
-      "num": 208164,
-      "word": "王鹤棣侯明昊周也一起拍过广告",
-      "onboard_time": 1684029986,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 205939,
@@ -673,6 +721,14 @@
       "onboard_time": 1683988113,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 181168,
+      "num": 181168,
+      "word": "汪小敏唱功",
+      "onboard_time": 1684035865,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 180166,
@@ -787,14 +843,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 155488,
-      "num": 155488,
-      "word": "战至巅峰路透",
-      "onboard_time": 1684034666,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 153521,
       "num": 153521,
       "word": "女顾客称因不想续卡遭三名店员围殴",
@@ -888,6 +936,14 @@
       "word": "母亲节表情包",
       "onboard_time": 1684027408,
       "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 128016,
+      "num": 128016,
+      "word": "谢谢你爱我",
+      "onboard_time": 1684035326,
+      "rank": 42,
       "category": "情感"
     },
     {
@@ -1099,6 +1155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 39832,
+      "num": 1120330,
+      "word": "数字化小而美里的发展活力",
+      "onboard_time": 1684034847,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38612,
       "num": 47841,
       "word": "朱珠看花海的表情",
@@ -1121,14 +1185,6 @@
       "onboard_time": 1684004055,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 14369,
-      "num": 1120330,
-      "word": "数字化小而美里的发展活力",
-      "onboard_time": 1684034847,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 7979,
