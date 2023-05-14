@@ -1,0 +1,410 @@
+{
+  "runTime": 1684074813921,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2443100,
+        "num": 2443100,
+        "word": "挖呀挖黄老师关闭直播间打赏",
+        "onboard_time": 1684069466,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1312913,
+        "num": 1312913,
+        "word": "凤凰传奇是美依礼芽的榜一",
+        "onboard_time": 1684073009,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21596,
+        "num": 1117891,
+        "word": "农忙时节的田野铺开了生机勃勃的画卷",
+        "onboard_time": 1684054285,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1672154,
+        "num": 1106962,
+        "word": "妻子举报高校丈夫出轨多位女学生",
+        "onboard_time": 1684068687,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1090701,
+        "num": 1090701,
+        "word": "大爷买二等座票带孙女坐一等座被赶",
+        "onboard_time": 1684059805,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1081073,
+        "num": 1081073,
+        "word": "秋瓷炫像是在跳我的人生",
+        "onboard_time": 1684064007,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 930171,
+        "num": 930171,
+        "word": "看中医就没有隐私吗",
+        "onboard_time": 1684067068,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 854308,
+        "num": 854308,
+        "word": "芭莎拍的白鹿王鹤棣",
+        "onboard_time": 1684073131,
+        "rank": 7,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 680377,
+        "num": 680377,
+        "word": "周杰伦演唱会以七里香结尾的原因",
+        "onboard_time": 1684072231,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 396296,
+        "num": 396296,
+        "word": "猫咪出生1个月确诊是无性别",
+        "onboard_time": 1684059327,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570661,
+        "num": 383679,
+        "word": "爱奇艺5月6月待播剧",
+        "onboard_time": 1684062926,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 508640,
+        "num": 375522,
+        "word": "刘维说徐怀钰不是划水是不自信",
+        "onboard_time": 1684055966,
+        "rank": 11,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 492544,
+        "num": 371755,
+        "word": "朱珠内核稳定的大女主",
+        "onboard_time": 1684072409,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361911,
+        "num": 361911,
+        "word": "捡到100块结果面试没通过",
+        "onboard_time": 1684071147,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30249,
+        "num": 328818,
+        "word": "王源后台花絮",
+        "onboard_time": 1684044026,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 488279,
+        "num": 320219,
+        "word": "一万的票隔壁唱了九千八",
+        "onboard_time": 1684059146,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 309514,
+        "num": 309514,
+        "word": "杰尼斯",
+        "onboard_time": 1684070969,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 298364,
+        "num": 298364,
+        "word": "杰尼斯社长道歉",
+        "onboard_time": 1684073428,
+        "rank": 17,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 278536,
+        "num": 278536,
+        "word": "网红卖崽青蛙上海落网",
+        "onboard_time": 1684039110,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265646,
+        "num": 265646,
+        "word": "JDG战胜BLG",
+        "onboard_time": 1684073428,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 485218,
+        "num": 265617,
+        "word": "侯明昊早几年干嘛去了",
+        "onboard_time": 1684060525,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 421295,
+        "num": 264682,
+        "word": "后浪收视率",
+        "onboard_time": 1684069948,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 413436,
+        "num": 263594,
+        "word": "杨洋mai同框",
+        "onboard_time": 1684073369,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 277023,
+        "num": 262317,
+        "word": "24岁一个朋友都没有正常吗",
+        "onboard_time": 1684067125,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262085,
+        "num": 262085,
+        "word": "追你的人突然有对象了",
+        "onboard_time": 1684068625,
+        "rank": 24,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 402118,
+        "num": 258897,
+        "word": "王艳儿子近照",
+        "onboard_time": 1684052064,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395752,
+        "num": 255184,
+        "word": "浪姐4一公观众告诉你为什么花海会输",
+        "onboard_time": 1684069227,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330854,
+        "num": 251979,
+        "word": "莫文蔚看窦靖童的时候会不会想起王菲",
+        "onboard_time": 1684071450,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247888,
+        "num": 247888,
+        "word": "女儿偷偷买票帮60岁妈妈追星",
+        "onboard_time": 1684055064,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105680,
+        "num": 245688,
+        "word": "熊猫妈妈用肚皮当摇篮哄娃",
+        "onboard_time": 1684074451,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649663,
+        "num": 245515,
+        "word": "王俊凯 扯",
+        "onboard_time": 1684074753,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 312802,
+        "num": 245355,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1684074152,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 245176,
+        "num": 245176,
+        "word": "希望每一位妈妈自由快乐 不只在今天",
+        "onboard_time": 1684058066,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242236,
+        "num": 242236,
+        "word": "elk状态",
+        "onboard_time": 1684073669,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213243,
+        "num": 213243,
+        "word": "男子花10万块买了8套房",
+        "onboard_time": 1684074511,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274750,
+        "num": 211238,
+        "word": "浪姐一公淘汰名单",
+        "onboard_time": 1684047387,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232628,
+        "num": 209767,
+        "word": "张馨予 有个牌子衣服大号都穿不上",
+        "onboard_time": 1684046067,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208217,
+        "num": 208217,
+        "word": "朋友未经允许把我的榴莲开了",
+        "onboard_time": 1684066885,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 265976,
+        "num": 207628,
+        "word": "汪小敏 淘汰",
+        "onboard_time": 1684064246,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205955,
+        "num": 205955,
+        "word": "记者卧底南京夫子庙暗访竹筒奶茶市场",
+        "onboard_time": 1684068086,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213916,
+        "num": 203107,
+        "word": "林允儿跳了Ditto",
+        "onboard_time": 1684062746,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200022,
+        "num": 200022,
+        "word": "后浪开播",
+        "onboard_time": 1684070008,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187076,
+        "num": 187076,
+        "word": "跟男朋友偷偷领证后很焦虑",
+        "onboard_time": 1684057047,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181378,
+        "num": 181378,
+        "word": "蔡徐坤直播",
+        "onboard_time": 1684072051,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166619,
+        "num": 166619,
+        "word": "塞尔达 原神",
+        "onboard_time": 1684062265,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161823,
+        "num": 161823,
+        "word": "极限挑战",
+        "onboard_time": 1684068687,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161306,
+        "num": 161306,
+        "word": "回浦中学全国总冠军",
+        "onboard_time": 1684071991,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159880,
+        "num": 159880,
+        "word": "刘维 徐怀钰团队划水",
+        "onboard_time": 1684056566,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153758,
+        "num": 153758,
+        "word": "红莲冠军",
+        "onboard_time": 1684074753,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152909,
+        "num": 152909,
+        "word": "催生催育 女性选择",
+        "onboard_time": 1684061965,
+        "rank": 49,
+        "category": "社会新闻,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#母亲的爱涵养家风#"
+    }
+  }
+}

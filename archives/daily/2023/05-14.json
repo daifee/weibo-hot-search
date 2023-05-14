@@ -1,6 +1,6 @@
 {
   "startTime": 1683994827629,
-  "endTime": 1684073653369,
+  "endTime": 1684074813921,
   "band_list": [
     {
       "raw_hot": 2836350,
@@ -49,6 +49,14 @@
       "onboard_time": 1684047387,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1672154,
+      "num": 1486779,
+      "word": "妻子举报高校丈夫出轨多位女学生",
+      "onboard_time": 1684068687,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1664302,
@@ -107,14 +115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1532978,
-      "num": 1486779,
-      "word": "妻子举报高校丈夫出轨多位女学生",
-      "onboard_time": 1684068687,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1479611,
       "num": 627705,
       "word": "王艳儿子近照",
@@ -171,6 +171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1312913,
+      "num": 1312913,
+      "word": "凤凰传奇是美依礼芽的榜一",
+      "onboard_time": 1684073009,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1304241,
       "num": 1284113,
       "word": "赵丽颖的腰臀比",
@@ -219,12 +227,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1090701,
+      "num": 1090701,
+      "word": "大爷买二等座票带孙女坐一等座被赶",
+      "onboard_time": 1684059805,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1088988,
       "num": 250567,
       "word": "如何看待月薪14万但需提供跪地服务",
       "onboard_time": 1683989493,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1081073,
+      "num": 1081073,
+      "word": "秋瓷炫像是在跳我的人生",
+      "onboard_time": 1684064007,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 1058854,
@@ -241,14 +265,6 @@
       "onboard_time": 1684034247,
       "rank": 9,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1037584,
-      "num": 1037584,
-      "word": "大爷买二等座票带孙女坐一等座被赶",
-      "onboard_time": 1684059805,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 987160,
@@ -272,14 +288,6 @@
       "word": "疑似美依礼芽翻译炒CP",
       "onboard_time": 1683987031,
       "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 966106,
-      "num": 966106,
-      "word": "秋瓷炫像是在跳我的人生",
-      "onboard_time": 1684064007,
-      "rank": 41,
       "category": "综艺"
     },
     {
@@ -321,6 +329,14 @@
       "onboard_time": 1684046367,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 854308,
+      "num": 854308,
+      "word": "芭莎拍的白鹿王鹤棣",
+      "onboard_time": 1684073131,
+      "rank": 26,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 832216,
@@ -387,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 680377,
+      "num": 680377,
+      "word": "周杰伦演唱会以七里香结尾的原因",
+      "onboard_time": 1684072231,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 672574,
       "num": 672574,
       "word": "温精灵",
@@ -395,20 +419,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 649663,
+      "num": 245515,
+      "word": "王俊凯 扯",
+      "onboard_time": 1684074753,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 629779,
       "num": 629779,
       "word": "希望每一位妈妈自由快乐 不只在今天",
       "onboard_time": 1684058066,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 614147,
-      "num": 614147,
-      "word": "周杰伦演唱会以七里香结尾的原因",
-      "onboard_time": 1684072231,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 612246,
@@ -521,6 +545,14 @@
       "onboard_time": 1684030166,
       "rank": 17,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 492544,
+      "num": 371755,
+      "word": "朱珠内核稳定的大女主",
+      "onboard_time": 1684072409,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 492112,
@@ -683,20 +715,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 415541,
-      "num": 319903,
-      "word": "朱珠内核稳定的大女主",
-      "onboard_time": 1684072409,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 413699,
       "num": 435368,
       "word": "儿子开公交7旬父亲连续8年送饭",
       "onboard_time": 1684042648,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 413436,
+      "num": 263594,
+      "word": "杨洋mai同框",
+      "onboard_time": 1684073369,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 412695,
@@ -713,14 +745,6 @@
       "onboard_time": 1684071450,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 407755,
-      "num": 235268,
-      "word": "凤凰传奇是美依礼芽的榜一",
-      "onboard_time": 1684073009,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 402351,
@@ -747,15 +771,7 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 398035,
-      "num": 233345,
-      "word": "芭莎拍的白鹿王鹤棣",
-      "onboard_time": 1684073131,
-      "rank": 26,
-      "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 395254,
+      "raw_hot": 395752,
       "num": 265189,
       "word": "浪姐4一公观众告诉你为什么花海会输",
       "onboard_time": 1684069227,
@@ -841,6 +857,14 @@
       "onboard_time": 1684057407,
       "rank": 15,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 361911,
+      "num": 361911,
+      "word": "捡到100块结果面试没通过",
+      "onboard_time": 1684071147,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 360435,
@@ -971,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 312802,
+      "num": 245355,
+      "word": "林俊杰演唱会",
+      "onboard_time": 1684074152,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 307593,
       "num": 307593,
       "word": "今天沈阳沸腾了",
@@ -1017,6 +1049,14 @@
       "onboard_time": 1684024345,
       "rank": 19,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 298364,
+      "num": 298364,
+      "word": "杰尼斯社长道歉",
+      "onboard_time": 1684073428,
+      "rank": 23,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 296750,
@@ -1163,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265646,
+      "num": 265646,
+      "word": "JDG战胜BLG",
+      "onboard_time": 1684073428,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 264428,
       "num": 233403,
       "word": "芝芙和叮叮当当原唱的关系",
@@ -1267,20 +1315,20 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 242236,
+      "num": 242236,
+      "word": "elk状态",
+      "onboard_time": 1684073669,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 240204,
       "num": 240204,
       "word": "母亲节文案",
       "onboard_time": 1684019117,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 238523,
-      "num": 238523,
-      "word": "杰尼斯社长道歉",
-      "onboard_time": 1684073428,
-      "rank": 23,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 236815,
@@ -1321,14 +1369,6 @@
       "onboard_time": 1683990756,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 229403,
-      "num": 229403,
-      "word": "JDG战胜BLG",
-      "onboard_time": 1684073428,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 227681,
@@ -1451,6 +1491,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 213243,
+      "num": 213243,
+      "word": "男子花10万块买了8套房",
+      "onboard_time": 1684074511,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212811,
       "num": 212811,
       "word": "王鹤棣侯明昊周也一起拍过广告",
@@ -1465,14 +1513,6 @@
       "onboard_time": 1684071991,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 211831,
-      "num": 204560,
-      "word": "杨洋mai同框",
-      "onboard_time": 1684073369,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 210848,
@@ -1497,14 +1537,6 @@
       "onboard_time": 1684040547,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 207116,
-      "num": 207116,
-      "word": "捡到100块结果面试没通过",
-      "onboard_time": 1684071147,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 206708,
@@ -1907,6 +1939,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 153758,
+      "num": 153758,
+      "word": "红莲冠军",
+      "onboard_time": 1684074753,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153521,
       "num": 153521,
       "word": "女顾客称因不想续卡遭三名店员围殴",
@@ -2259,6 +2299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105680,
+      "num": 245688,
+      "word": "熊猫妈妈用肚皮当摇篮哄娃",
+      "onboard_time": 1684074451,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104831,
       "num": 117124,
       "word": "埃弗顿vs曼城",
@@ -2499,6 +2547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 30249,
+      "num": 450808,
+      "word": "王源后台花絮",
+      "onboard_time": 1684044026,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 28426,
       "num": 29886,
       "word": "救命和crush恋爱了",
@@ -2513,14 +2569,6 @@
       "onboard_time": 1684044026,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27111,
-      "num": 450808,
-      "word": "王源后台花絮",
-      "onboard_time": 1684044026,
-      "rank": 14,
-      "category": "音乐"
     },
     {
       "raw_hot": 25613,
