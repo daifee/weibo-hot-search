@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684060398588,
+  "endTime": 1684062787735,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1684,7 +1684,7 @@
     },
     {
       "raw_hot": 1664302,
-      "num": 509604,
+      "num": 614238,
       "word": "张馨予 有个牌子衣服大号都穿不上",
       "onboard_time": 1684046067,
       "rank": 10,
@@ -2236,7 +2236,7 @@
     },
     {
       "raw_hot": 1479611,
-      "num": 530720,
+      "num": 627705,
       "word": "王艳儿子近照",
       "onboard_time": 1684052064,
       "rank": 36,
@@ -3187,6 +3187,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1190500,
+      "num": 1190500,
+      "word": "二阳",
+      "onboard_time": 1683508648,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1188795,
       "num": 407882,
       "word": "唐嫣中戏同学聚会",
@@ -3857,6 +3865,14 @@
       "onboard_time": 1683812427,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1035339,
+      "num": 1035339,
+      "word": "一万的票隔壁唱了九千八",
+      "onboard_time": 1684059146,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 1032685,
@@ -5027,14 +5043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 793596,
-      "num": 793596,
-      "word": "二阳",
-      "onboard_time": 1683508648,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 793392,
       "num": 793392,
       "word": "唐伯虎 淘汰",
@@ -5585,6 +5593,14 @@
       "onboard_time": 1683027270,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 712586,
+      "num": 712586,
+      "word": "大爷买二等座票带孙女坐一等座被赶",
+      "onboard_time": 1684059805,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 709367,
@@ -7595,6 +7611,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 531551,
+      "num": 531551,
+      "word": "王鹤棣坐直升机空降",
+      "onboard_time": 1684060406,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 530683,
       "num": 530683,
       "word": "听过领导最没水平的一句话",
@@ -8883,6 +8907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452983,
+      "num": 1095410,
+      "word": "6岁娃用3000元压岁钱给妈妈买金项链",
+      "onboard_time": 1684058968,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 452980,
       "num": 352145,
       "word": "王一博一条裤子穿了四年",
@@ -9529,6 +9561,14 @@
       "onboard_time": 1683608430,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 426236,
+      "num": 426236,
+      "word": "侯明昊早几年干嘛去了",
+      "onboard_time": 1684060525,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 426231,
@@ -11835,14 +11875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 352427,
-      "num": 812382,
-      "word": "6岁娃用3000元压岁钱给妈妈买金项链",
-      "onboard_time": 1684058968,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 352425,
       "num": 346812,
       "word": "娜扎cos赫本",
@@ -13089,14 +13121,6 @@
       "onboard_time": 1683688891,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 322480,
-      "num": 241312,
-      "word": "一万的票隔壁唱了九千八",
-      "onboard_time": 1684059146,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 322166,
@@ -15748,7 +15772,7 @@
     },
     {
       "raw_hot": 268004,
-      "num": 720482,
+      "num": 923965,
       "word": "男子开车60公里瞒着母亲突然回家",
       "onboard_time": 1684049665,
       "rank": 18,
@@ -15959,6 +15983,14 @@
       "num": 230862,
       "word": "徐怀钰唱功",
       "onboard_time": 1683446312,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 264428,
+      "num": 176814,
+      "word": "芝芙和叮叮当当原唱的关系",
+      "onboard_time": 1684059446,
       "rank": 32,
       "category": "综艺"
     },
@@ -16433,6 +16465,14 @@
       "onboard_time": 1683619466,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257269,
+      "num": 213073,
+      "word": "猫咪出生1个月确诊是无性别",
+      "onboard_time": 1684059327,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257121,
@@ -20227,6 +20267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207302,
+      "num": 207302,
+      "word": "胡锡进发文评卖崽青蛙上海落网",
+      "onboard_time": 1684059926,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207192,
       "num": 207192,
       "word": "时代少年团五四歌会官宣",
@@ -21555,14 +21603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192505,
-      "num": 153150,
-      "word": "猫咪出生1个月确诊是无性别",
-      "onboard_time": 1684059327,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192498,
       "num": 192498,
       "word": "Angelababy猫女造型",
@@ -22019,6 +22059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187903,
+      "num": 146865,
+      "word": "粉丝滤镜",
+      "onboard_time": 1684062146,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 187182,
       "num": 187182,
       "word": "白敬亭身边好多鞋",
@@ -22056,6 +22104,14 @@
       "word": "国外网友偶遇蔡徐坤",
       "onboard_time": 1682917347,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 186899,
+      "num": 150411,
+      "word": "queencard",
+      "onboard_time": 1684061246,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -22345,14 +22401,6 @@
       "onboard_time": 1683002371,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 183207,
-      "num": 152631,
-      "word": "芝芙和叮叮当当原唱的关系",
-      "onboard_time": 1684059446,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 183109,
@@ -23081,14 +23129,6 @@
       "onboard_time": 1683934823,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175313,
-      "num": 152111,
-      "word": "大爷买二等座票带孙女坐一等座被赶",
-      "onboard_time": 1684059805,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175252,
@@ -25763,6 +25803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141062,
+      "num": 123485,
+      "word": "林允儿跳了Ditto",
+      "onboard_time": 1684062746,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 140867,
       "num": 140867,
       "word": "伊能静回应和秦昊不互动",
@@ -25952,14 +26000,6 @@
       "word": "爸妈的种草和我们的种草",
       "onboard_time": 1683167668,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138180,
-      "num": 138180,
-      "word": "胡锡进发文评卖崽青蛙上海落网",
-      "onboard_time": 1684059926,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -26377,6 +26417,14 @@
       "onboard_time": 1683431068,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131458,
+      "num": 131458,
+      "word": "BLG对战JDG",
+      "onboard_time": 1684061546,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 130884,
@@ -26875,6 +26923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124058,
+      "num": 124058,
+      "word": "催生催育 女性选择",
+      "onboard_time": 1684061965,
+      "rank": 39,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 123629,
       "num": 123629,
       "word": "护心 太空上放烟花",
@@ -26889,6 +26945,14 @@
       "onboard_time": 1683562587,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122901,
+      "num": 122901,
+      "word": "无辜的大学生突然受到暴击",
+      "onboard_time": 1684060165,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 122885,
@@ -27049,6 +27113,14 @@
       "onboard_time": 1683216866,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120622,
+      "num": 120622,
+      "word": "塞尔达 原神",
+      "onboard_time": 1684062265,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 120486,
@@ -27601,6 +27673,14 @@
       "onboard_time": 1683358348,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 106749,
+      "num": 106749,
+      "word": "郑州一商场现应急康乃馨",
+      "onboard_time": 1684062746,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106242,
