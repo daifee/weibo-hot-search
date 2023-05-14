@@ -1,6 +1,6 @@
 {
   "startTime": 1683994827629,
-  "endTime": 1684049605041,
+  "endTime": 1684052352918,
   "band_list": [
     {
       "raw_hot": 2836350,
@@ -41,6 +41,14 @@
       "onboard_time": 1684046067,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1662163,
+      "num": 1662163,
+      "word": "浪姐一公淘汰名单",
+      "onboard_time": 1684047387,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 1638942,
@@ -123,8 +131,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1184301,
-      "num": 1184301,
+      "raw_hot": 1224528,
+      "num": 1224528,
       "word": "卢靖姗太强了",
       "onboard_time": 1684041989,
       "rank": 36,
@@ -179,14 +187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 983376,
-      "num": 983376,
-      "word": "浪姐一公淘汰名单",
-      "onboard_time": 1684047387,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 974021,
       "num": 974021,
       "word": "00后女孩离职旅行存款却越变越多",
@@ -201,6 +201,14 @@
       "onboard_time": 1683987031,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 938846,
+      "num": 938846,
+      "word": "黄子韬徐艺洋同款微博打卡",
+      "onboard_time": 1684047984,
+      "rank": 17,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 922523,
@@ -275,14 +283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 692405,
-      "num": 474727,
-      "word": "黄子韬徐艺洋同款微博打卡",
-      "onboard_time": 1684047984,
-      "rank": 17,
-      "category": "综艺,游戏"
-    },
-    {
       "raw_hot": 672574,
       "num": 672574,
       "word": "温精灵",
@@ -313,6 +313,14 @@
       "onboard_time": 1684041028,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 594851,
+      "num": 594851,
+      "word": "韦世豪",
+      "onboard_time": 1684047627,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 583561,
@@ -363,14 +371,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 499319,
-      "num": 499319,
-      "word": "韦世豪",
-      "onboard_time": 1684047627,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 492112,
       "num": 471967,
       "word": "目击者讲述7死11伤刑案嫌犯抓获画面",
@@ -393,6 +393,14 @@
       "onboard_time": 1683975149,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 470610,
+      "num": 470610,
+      "word": "泄曲",
+      "onboard_time": 1684048287,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 452023,
@@ -507,6 +515,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 379311,
+      "num": 379311,
+      "word": "唾液含剧毒的五爪金龙现身云南",
+      "onboard_time": 1684038268,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 378462,
       "num": 302369,
       "word": "Lisa无刘海中分造型",
@@ -571,14 +587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 346095,
-      "num": 346095,
-      "word": "唾液含剧毒的五爪金龙现身云南",
-      "onboard_time": 1684038268,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 341273,
       "num": 249801,
       "word": "墨香铜臭",
@@ -611,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 326222,
+      "num": 197953,
+      "word": "徐怀钰 回忆杀",
+      "onboard_time": 1684042827,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 325769,
       "num": 245607,
       "word": "战至巅峰2全员打卡杭州电竞中心",
@@ -641,14 +657,6 @@
       "onboard_time": 1683988535,
       "rank": 24,
       "category": "教育,情感"
-    },
-    {
-      "raw_hot": 308003,
-      "num": 248302,
-      "word": "泄曲",
-      "onboard_time": 1684048287,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 307593,
@@ -723,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286453,
+      "num": 193053,
+      "word": "张靓颖母亲节偶遇张杰",
+      "onboard_time": 1684048768,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279954,
       "num": 279954,
       "word": "蔡天凤家属拟用3D技术修复其遗体",
@@ -737,6 +753,14 @@
       "onboard_time": 1683977367,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266989,
+      "num": 189873,
+      "word": "抓住妈妈就是抓住了世界",
+      "onboard_time": 1684052009,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 262189,
@@ -771,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257598,
+      "num": 174595,
+      "word": "这句得亏是芝芙唱",
+      "onboard_time": 1684051407,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257494,
       "num": 257494,
       "word": "韩庚晒照祝妈妈老婆母亲节快乐",
@@ -795,6 +827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 253928,
+      "num": 175656,
+      "word": "漫长的季节 重配",
+      "onboard_time": 1684048348,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 248134,
       "num": 248134,
       "word": "梦中的那片海",
@@ -803,20 +843,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 245144,
-      "num": 182362,
-      "word": "徐怀钰 回忆杀",
-      "onboard_time": 1684042827,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 242707,
       "num": 242707,
       "word": "母亲节需要给未来的岳母送礼物吗",
       "onboard_time": 1684025847,
       "rank": 24,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 240266,
+      "num": 184135,
+      "word": "母亲节发现被妈妈拉黑了",
+      "onboard_time": 1684051526,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 240204,
@@ -859,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231770,
+      "num": 231770,
+      "word": "男子开车60公里瞒着母亲突然回家",
+      "onboard_time": 1684049665,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231634,
       "num": 231634,
       "word": "王源让大家正经一点",
@@ -881,14 +929,6 @@
       "onboard_time": 1684026085,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223253,
-      "num": 175842,
-      "word": "张靓颖母亲节偶遇张杰",
-      "onboard_time": 1684048768,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 219861,
@@ -955,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212954,
+      "num": 164504,
+      "word": "吴磊赵今麦机场拥抱路透",
+      "onboard_time": 1684050867,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 212811,
       "num": 212811,
       "word": "王鹤棣侯明昊周也一起拍过广告",
@@ -979,6 +1027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206325,
+      "num": 206325,
+      "word": "山西重大刑案一出警人员被撞成重伤",
+      "onboard_time": 1684047329,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 205939,
       "num": 205939,
       "word": "模仿妈妈语气发条朋友圈",
@@ -993,14 +1049,6 @@
       "onboard_time": 1683996745,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203858,
-      "num": 175656,
-      "word": "漫长的季节 重配",
-      "onboard_time": 1684048348,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 202026,
@@ -1083,6 +1131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 185516,
+      "num": 158474,
+      "word": "王艳儿子近照",
+      "onboard_time": 1684052064,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181391,
       "num": 225193,
       "word": "Fly没有求婚",
@@ -1105,14 +1161,6 @@
       "onboard_time": 1684029686,
       "rank": 36,
       "category": "教育"
-    },
-    {
-      "raw_hot": 179182,
-      "num": 179182,
-      "word": "山西重大刑案一出警人员被撞成重伤",
-      "onboard_time": 1684047329,
-      "rank": 35,
-      "category": "社会负面"
     },
     {
       "raw_hot": 176127,
@@ -1195,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164461,
+      "num": 164461,
+      "word": "小伙为父母补办迟到30年的婚礼",
+      "onboard_time": 1684052188,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163811,
       "num": 163811,
       "word": "太阳解雇蒙蒂",
@@ -1232,6 +1288,22 @@
       "word": "当妈后变怂的一件事",
       "onboard_time": 1684041627,
       "rank": 42,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 157309,
+      "num": 144528,
+      "word": "gidle新专预售破110万张",
+      "onboard_time": 1684050087,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 156075,
+      "num": 156075,
+      "word": "男子抛米成字表白妈妈",
+      "onboard_time": 1684049610,
+      "rank": 37,
       "category": "社会新闻,情感"
     },
     {
@@ -1451,6 +1523,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 121279,
+      "num": 121279,
+      "word": "男子流浪20年母亲节与母亲相认",
+      "onboard_time": 1684051167,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120486,
+      "num": 120486,
+      "word": "潜艇护卫舰直升机接力送战士就医",
+      "onboard_time": 1684052188,
+      "rank": 46,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 119279,
       "num": 450141,
       "word": "买SUV要不要四驱",
@@ -1555,6 +1643,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 80030,
+      "num": 110677,
+      "word": "王嘉尔新加坡时装五月刊封面",
+      "onboard_time": 1684050149,
+      "rank": 48,
+      "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 74205,
+      "num": 379800,
+      "word": "马斯克说什么是最好的母爱",
+      "onboard_time": 1684050446,
+      "rank": 13,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 68530,
       "num": 68530,
       "word": "刘宇新歌春晖上线",
@@ -1612,7 +1716,7 @@
     },
     {
       "raw_hot": 61375,
-      "num": 106936,
+      "num": 110570,
       "word": "海拉鲁军备竞赛",
       "onboard_time": 1684049186,
       "rank": 47,
