@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1684027652832,
+  "endTime": 1684029059938,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -867,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1595761,
+      "num": 1595761,
+      "word": "徐怀钰 三公",
+      "onboard_time": 1684020799,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1595219,
       "num": 1595219,
       "word": "中方要求甄逸慧5月13日前离华",
@@ -1091,14 +1099,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1499199,
-      "num": 1499199,
-      "word": "徐怀钰 三公",
-      "onboard_time": 1684020799,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1491139,
       "num": 1491139,
       "word": "高铁上被掌掴女孩坚决不和解",
@@ -1281,6 +1281,14 @@
       "onboard_time": 1683693158,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1380446,
+      "num": 385315,
+      "word": "女子旅游后高烧不退确诊不死癌症",
+      "onboard_time": 1684027587,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1377324,
@@ -3811,6 +3819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 515466,
+      "num": 300490,
+      "word": "徐怀钰经纪人发文回应",
+      "onboard_time": 1684028787,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 515154,
       "num": 515154,
       "word": "洛阳规划局",
@@ -3880,6 +3896,14 @@
       "word": "唐嫣起诉B站侵权",
       "onboard_time": 1683532414,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 507167,
+      "num": 311380,
+      "word": "李楷灿 海底捞",
+      "onboard_time": 1684028246,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -4289,6 +4313,14 @@
       "onboard_time": 1683769828,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452023,
+      "num": 293708,
+      "word": "高碧吐了 一字马是常见的舞蹈动作",
+      "onboard_time": 1684026866,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 451540,
@@ -5083,6 +5115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 389376,
+      "num": 389376,
+      "word": "梅西被嘘",
+      "onboard_time": 1684026205,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 388421,
       "num": 388421,
       "word": "北京 震感",
@@ -5377,14 +5417,6 @@
       "onboard_time": 1683982951,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 371961,
-      "num": 371961,
-      "word": "梅西被嘘",
-      "onboard_time": 1684026205,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 371514,
@@ -6867,12 +6899,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300816,
+      "num": 300816,
+      "word": "伊戈达拉退役",
+      "onboard_time": 1684026626,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 300524,
       "num": 300524,
       "word": "杭州不定价咖啡馆试营业首日亏3500元",
       "onboard_time": 1683468096,
       "rank": 19,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 300120,
+      "num": 300120,
+      "word": "赵本山宋小宝观战辽篮总决赛",
+      "onboard_time": 1684024345,
+      "rank": 19,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 299831,
@@ -7059,14 +7107,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 293708,
-      "num": 293708,
-      "word": "高碧吐了 一字马是常见的舞蹈动作",
-      "onboard_time": 1684026866,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 293458,
       "num": 280323,
       "word": "Ella亲吴倩",
@@ -7249,14 +7289,6 @@
       "onboard_time": 1683883109,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 288144,
-      "num": 288144,
-      "word": "赵本山宋小宝观战辽篮总决赛",
-      "onboard_time": 1684024345,
-      "rank": 19,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 287510,
@@ -7971,6 +8003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259642,
+      "num": 259642,
+      "word": "男子随防盗窗一起从6楼坠落身亡",
+      "onboard_time": 1684022002,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259579,
       "num": 259579,
       "word": "李佳琦 直播",
@@ -8113,14 +8153,6 @@
       "onboard_time": 1683509847,
       "rank": 25,
       "category": "科技,国内要闻"
-    },
-    {
-      "raw_hot": 256749,
-      "num": 256749,
-      "word": "男子随防盗窗一起从6楼坠落身亡",
-      "onboard_time": 1684022002,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 256707,
@@ -8363,14 +8395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 248798,
-      "num": 248798,
-      "word": "伊戈达拉退役",
-      "onboard_time": 1684026626,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 248793,
       "num": 248793,
       "word": "周一",
@@ -8499,6 +8523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244562,
+      "num": 244562,
+      "word": "山西发生重大刑案已致7死11伤",
+      "onboard_time": 1684028727,
+      "rank": 27,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 244306,
       "num": 244306,
       "word": "白敬亭撒娇不像演的",
@@ -8617,6 +8649,14 @@
       "onboard_time": 1683600929,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 240204,
+      "num": 240204,
+      "word": "母亲节文案",
+      "onboard_time": 1684019117,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 240079,
@@ -9115,6 +9155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 227469,
+      "num": 227469,
+      "word": "瘦子现场",
+      "onboard_time": 1684022724,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227375,
       "num": 227375,
       "word": "湖人拿到赛点",
@@ -9299,14 +9347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 219732,
-      "num": 219732,
-      "word": "瘦子现场",
-      "onboard_time": 1684022724,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 219712,
       "num": 219712,
       "word": "母亲节快乐",
@@ -9369,14 +9409,6 @@
       "onboard_time": 1683793709,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 218093,
-      "num": 218093,
-      "word": "母亲节文案",
-      "onboard_time": 1684019117,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 218074,
@@ -9601,6 +9633,14 @@
       "onboard_time": 1683777627,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 212010,
+      "num": 212010,
+      "word": "江苏人真的没有夜生活吗",
+      "onboard_time": 1684028907,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 211999,
@@ -10371,6 +10411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193096,
+      "num": 193096,
+      "word": "杨幂早期洋装旧照",
+      "onboard_time": 1684027649,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 192992,
       "num": 192992,
       "word": "谁来四川都得笑着回去",
@@ -10417,6 +10465,14 @@
       "onboard_time": 1683603087,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191569,
+      "num": 191569,
+      "word": "乘风声明微博评论区",
+      "onboard_time": 1684023803,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 191135,
@@ -10915,12 +10971,12 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 176031,
-      "num": 176031,
-      "word": "乘风声明微博评论区",
-      "onboard_time": 1684023803,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 175993,
+      "num": 175993,
+      "word": "天大地大我妈最大",
+      "onboard_time": 1684028545,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175894,
@@ -11505,14 +11561,6 @@
       "onboard_time": 1683891687,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 160252,
-      "num": 160252,
-      "word": "女子旅游后高烧不退确诊不死癌症",
-      "onboard_time": 1684027587,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160092,
@@ -12764,7 +12812,7 @@
     },
     {
       "raw_hot": 112095,
-      "num": 131645,
+      "num": 140102,
       "word": "动物园回应私自打印游客照售卖",
       "onboard_time": 1684018336,
       "rank": 34,
@@ -13380,7 +13428,7 @@
     },
     {
       "raw_hot": 63133,
-      "num": 129765,
+      "num": 139801,
       "word": "G2战胜MAD",
       "onboard_time": 1684021761,
       "rank": 48,
