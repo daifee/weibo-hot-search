@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1684053210361,
+  "endTime": 1684055696422,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1241,6 +1241,14 @@
       "onboard_time": 1683877166,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1448626,
+      "num": 411948,
+      "word": "王艳儿子近照",
+      "onboard_time": 1684052064,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 1446609,
@@ -3171,14 +3179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 639494,
-      "num": 411948,
-      "word": "王艳儿子近照",
-      "onboard_time": 1684052064,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 638286,
       "num": 638286,
       "word": "出差十五夜",
@@ -3393,6 +3393,14 @@
       "onboard_time": 1683867394,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 600478,
+      "num": 600478,
+      "word": "窦靖童声音好像王菲",
+      "onboard_time": 1684053266,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 599135,
@@ -6035,6 +6043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 357522,
+      "num": 271730,
+      "word": "徐怀钰 回忆杀",
+      "onboard_time": 1684042827,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357057,
       "num": 357057,
       "word": "巨齿鲨2",
@@ -6185,14 +6201,6 @@
       "onboard_time": 1683623368,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 352203,
-      "num": 213402,
-      "word": "徐怀钰 回忆杀",
-      "onboard_time": 1684042827,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 351674,
@@ -7883,6 +7891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281229,
+      "num": 281229,
+      "word": "女儿偷偷买票帮60岁妈妈追星",
+      "onboard_time": 1684055064,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281101,
       "num": 281101,
       "word": "时代少年团演唱会应变能力挑战",
@@ -7947,6 +7963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278594,
+      "num": 211260,
+      "word": "母亲节发现被妈妈拉黑了",
+      "onboard_time": 1684051526,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 278512,
       "num": 278512,
       "word": "RNG",
@@ -7992,14 +8016,6 @@
       "word": "HR听了都心疼的离职原因",
       "onboard_time": 1683804987,
       "rank": 22,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 276066,
-      "num": 211260,
-      "word": "母亲节发现被妈妈拉黑了",
-      "onboard_time": 1684051526,
-      "rank": 24,
       "category": "情感"
     },
     {
@@ -8705,6 +8721,14 @@
       "onboard_time": 1684048348,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 253600,
+      "num": 199280,
+      "word": "毕业后很少听到自己全名了",
+      "onboard_time": 1684054285,
+      "rank": 23,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 252825,
@@ -12923,6 +12947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140115,
+      "num": 128343,
+      "word": "学士服搭配汉服参加毕业典礼",
+      "onboard_time": 1684053747,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 139742,
       "num": 139742,
       "word": "接心仪offer",
@@ -13235,6 +13267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131533,
+      "num": 124339,
+      "word": "陈意涵倒立洗头",
+      "onboard_time": 1684055608,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 130855,
       "num": 130855,
       "word": "折腰剧组探班直播",
@@ -13297,6 +13337,14 @@
       "onboard_time": 1683969629,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127075,
+      "num": 127075,
+      "word": "喜欢和爱有什么区别",
+      "onboard_time": 1684054827,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 126907,
@@ -14571,6 +14619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32743,
+      "num": 763603,
+      "word": "农忙时节的田野铺开了生机勃勃的画卷",
+      "onboard_time": 1684054285,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32694,
       "num": 32694,
       "word": "真的很容易对这样的人有好感",
@@ -14807,6 +14863,9 @@
     },
     {
       "word": "#母亲的爱涵养家风#"
+    },
+    {
+      "word": "#中国与中亚在此相会#"
     }
   ]
 }

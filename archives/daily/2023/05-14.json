@@ -1,6 +1,6 @@
 {
   "startTime": 1683994827629,
-  "endTime": 1684053210361,
+  "endTime": 1684055696422,
   "band_list": [
     {
       "raw_hot": 2836350,
@@ -89,6 +89,14 @@
       "onboard_time": 1684039828,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1448626,
+      "num": 411948,
+      "word": "王艳儿子近照",
+      "onboard_time": 1684052064,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 1441432,
@@ -291,19 +299,19 @@
       "category": "网红"
     },
     {
-      "raw_hot": 639494,
-      "num": 411948,
-      "word": "王艳儿子近照",
-      "onboard_time": 1684052064,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 612246,
       "num": 349674,
       "word": "浪姐一公排名",
       "onboard_time": 1684042710,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 600478,
+      "num": 600478,
+      "word": "窦靖童声音好像王菲",
+      "onboard_time": 1684053266,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -563,20 +571,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 357522,
+      "num": 271730,
+      "word": "徐怀钰 回忆杀",
+      "onboard_time": 1684042827,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 352422,
       "num": 352422,
       "word": "淄博八大局 网红街",
       "onboard_time": 1684043609,
       "rank": 17,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 352203,
-      "num": 213402,
-      "word": "徐怀钰 回忆杀",
-      "onboard_time": 1684042827,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 350774,
@@ -747,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281229,
+      "num": 281229,
+      "word": "女儿偷偷买票帮60岁妈妈追星",
+      "onboard_time": 1684055064,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279954,
       "num": 279954,
       "word": "蔡天凤家属拟用3D技术修复其遗体",
@@ -755,7 +771,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 276066,
+      "raw_hot": 278594,
       "num": 211260,
       "word": "母亲节发现被妈妈拉黑了",
       "onboard_time": 1684051526,
@@ -857,6 +873,14 @@
       "onboard_time": 1684048348,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 253600,
+      "num": 199280,
+      "word": "毕业后很少听到自己全名了",
+      "onboard_time": 1684054285,
+      "rank": 23,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 248134,
@@ -1097,6 +1121,14 @@
       "onboard_time": 1684047148,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193434,
+      "num": 131524,
+      "word": "不良执念清除师",
+      "onboard_time": 1684053447,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 193096,
@@ -1435,6 +1467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140115,
+      "num": 128343,
+      "word": "学士服搭配汉服参加毕业典礼",
+      "onboard_time": 1684053747,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 139676,
       "num": 139676,
       "word": "护心",
@@ -1483,12 +1523,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131533,
+      "num": 124339,
+      "word": "陈意涵倒立洗头",
+      "onboard_time": 1684055608,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 128983,
       "num": 128983,
       "word": "苏迪曼杯",
       "onboard_time": 1684042349,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127075,
+      "num": 127075,
+      "word": "喜欢和爱有什么区别",
+      "onboard_time": 1684054827,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 126177,
@@ -1803,6 +1859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32743,
+      "num": 763603,
+      "word": "农忙时节的田野铺开了生机勃勃的画卷",
+      "onboard_time": 1684054285,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30363,
       "num": 60960,
       "word": "WB对战狼队",
@@ -1863,6 +1927,9 @@
     },
     {
       "word": "#母亲的爱涵养家风#"
+    },
+    {
+      "word": "#中国与中亚在此相会#"
     }
   ]
 }

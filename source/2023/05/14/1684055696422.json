@@ -1,0 +1,410 @@
+{
+  "runTime": 1684055696422,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1575773,
+        "num": 1575773,
+        "word": "浪姐一公淘汰名单",
+        "onboard_time": 1684047387,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 872072,
+        "num": 872072,
+        "word": "摊主买彩票中2千多万激动砸摊位",
+        "onboard_time": 1684038687,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32743,
+        "num": 763603,
+        "word": "农忙时节的田野铺开了生机勃勃的画卷",
+        "onboard_time": 1684054285,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 948563,
+        "num": 750100,
+        "word": "叮叮当当甜死我了",
+        "onboard_time": 1684039828,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 712567,
+        "num": 712567,
+        "word": "网红卖崽青蛙上海落网",
+        "onboard_time": 1684039110,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682803,
+        "num": 682803,
+        "word": "黄子韬徐艺洋同款微博打卡",
+        "onboard_time": 1684047984,
+        "rank": 5,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 824023,
+        "num": 646676,
+        "word": "卢靖姗太强了",
+        "onboard_time": 1684041989,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 600478,
+        "num": 600478,
+        "word": "窦靖童声音好像王菲",
+        "onboard_time": 1684053266,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341784,
+        "num": 341784,
+        "word": "韦世豪",
+        "onboard_time": 1684047627,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 337305,
+        "num": 337305,
+        "word": "唾液含剧毒的五爪金龙现身云南",
+        "onboard_time": 1684038268,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1448807,
+        "num": 335603,
+        "word": "张馨予 有个牌子衣服大号都穿不上",
+        "onboard_time": 1684046067,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1448626,
+        "num": 330377,
+        "word": "王艳儿子近照",
+        "onboard_time": 1684052064,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 618240,
+        "num": 327358,
+        "word": "吴倩不会wink",
+        "onboard_time": 1684041867,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317905,
+        "num": 317905,
+        "word": "山西发生重大刑案已致7死11伤",
+        "onboard_time": 1684028727,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 281229,
+        "num": 281229,
+        "word": "女儿偷偷买票帮60岁妈妈追星",
+        "onboard_time": 1684055064,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489745,
+        "num": 272420,
+        "word": "原来花海输给了吻别",
+        "onboard_time": 1684038808,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357522,
+        "num": 271730,
+        "word": "徐怀钰 回忆杀",
+        "onboard_time": 1684042827,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261273,
+        "num": 261273,
+        "word": "男子开车60公里瞒着母亲突然回家",
+        "onboard_time": 1684049665,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220765,
+        "num": 220765,
+        "word": "初级会计",
+        "onboard_time": 1684036707,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 210427,
+        "num": 210427,
+        "word": "山西重大刑案一出警人员被撞成重伤",
+        "onboard_time": 1684047329,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 281219,
+        "num": 208719,
+        "word": "蔡少芬 生孩子都没有这么苦",
+        "onboard_time": 1684039708,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278594,
+        "num": 206254,
+        "word": "母亲节发现被妈妈拉黑了",
+        "onboard_time": 1684051526,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267627,
+        "num": 201955,
+        "word": "泄曲",
+        "onboard_time": 1684048287,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 253600,
+        "num": 199280,
+        "word": "毕业后很少听到自己全名了",
+        "onboard_time": 1684054285,
+        "rank": 23,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 197334,
+        "num": 197334,
+        "word": "巴厘岛",
+        "onboard_time": 1684046367,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238106,
+        "num": 195296,
+        "word": "秋瓷炫好真诚",
+        "onboard_time": 1684041028,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217060,
+        "num": 179316,
+        "word": "Lisa无刘海中分造型",
+        "onboard_time": 1684042468,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145008,
+        "num": 145008,
+        "word": "女子旅游后高烧不退确诊不死癌症",
+        "onboard_time": 1684027587,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218152,
+        "num": 143107,
+        "word": "这句得亏是芝芙唱",
+        "onboard_time": 1684051407,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139964,
+        "num": 139964,
+        "word": "儿子开公交7旬父亲连续8年送饭",
+        "onboard_time": 1684042648,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213952,
+        "num": 139261,
+        "word": "张靓颖母亲节偶遇张杰",
+        "onboard_time": 1684048768,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200883,
+        "num": 134900,
+        "word": "吴磊赵今麦机场拥抱路透",
+        "onboard_time": 1684050867,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193434,
+        "num": 131524,
+        "word": "不良执念清除师",
+        "onboard_time": 1684053447,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140115,
+        "num": 128343,
+        "word": "学士服搭配汉服参加毕业典礼",
+        "onboard_time": 1684053747,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127075,
+        "num": 127075,
+        "word": "喜欢和爱有什么区别",
+        "onboard_time": 1684054827,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163518,
+        "num": 126855,
+        "word": "漫长的季节 重配",
+        "onboard_time": 1684048348,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148879,
+        "num": 126572,
+        "word": "徐怀钰经纪人发文回应",
+        "onboard_time": 1684028787,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141827,
+        "num": 126126,
+        "word": "易烊千玺实体专辑预售预告",
+        "onboard_time": 1684032388,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125574,
+        "num": 125574,
+        "word": "目击者讲述7死11伤刑案嫌犯抓获画面",
+        "onboard_time": 1684042405,
+        "rank": 38,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 124763,
+        "num": 124763,
+        "word": "淄博八大局 网红街",
+        "onboard_time": 1684043609,
+        "rank": 39,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 131948,
+        "num": 124350,
+        "word": "gidle新专预售破110万张",
+        "onboard_time": 1684050087,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131533,
+        "num": 124339,
+        "word": "陈意涵倒立洗头",
+        "onboard_time": 1684055608,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130671,
+        "num": 123544,
+        "word": "范丞丞 音乐节门票",
+        "onboard_time": 1684040849,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129503,
+        "num": 123336,
+        "word": "许光汉LESSERAFIM舞蹈挑战",
+        "onboard_time": 1684046426,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123097,
+        "num": 123097,
+        "word": "因为下大雨给客户撑伞转正了",
+        "onboard_time": 1684039768,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114548,
+        "num": 114548,
+        "word": "小伙为父母补办迟到30年的婚礼",
+        "onboard_time": 1684052188,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111187,
+        "num": 111187,
+        "word": "八旬母亲每天教47岁脑瘫儿子洗衣做饭",
+        "onboard_time": 1684047148,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71878,
+        "num": 111138,
+        "word": "台芒冰淇淋",
+        "onboard_time": 1684052486,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 43315,
+        "num": 110948,
+        "word": "海拉鲁军备竞赛",
+        "onboard_time": 1684049186,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 41965,
+        "num": 110819,
+        "word": "白夜极光定档",
+        "onboard_time": 1684049007,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国与中亚在此相会#"
+    }
+  }
+}
