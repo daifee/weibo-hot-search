@@ -1,6 +1,6 @@
 {
   "startTime": 1683994827629,
-  "endTime": 1684038807125,
+  "endTime": 1684041324146,
   "band_list": [
     {
       "raw_hot": 2836350,
@@ -9,6 +9,14 @@
       "onboard_time": 1684028727,
       "rank": 27,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 2136597,
+      "num": 2136597,
+      "word": "原来花海输给了吻别",
+      "onboard_time": 1684038808,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1848081,
@@ -24,6 +32,14 @@
       "word": "女子旅游后高烧不退确诊不死癌症",
       "onboard_time": 1684027587,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1599221,
+      "num": 1599221,
+      "word": "网红卖崽青蛙上海落网",
+      "onboard_time": 1684039110,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -65,6 +81,14 @@
       "onboard_time": 1683986013,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1347075,
+      "num": 1347075,
+      "word": "叮叮当当甜死我了",
+      "onboard_time": 1684039828,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1304241,
@@ -139,6 +163,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 901674,
+      "num": 901674,
+      "word": "吻别真的好",
+      "onboard_time": 1684038746,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 885756,
+      "num": 885756,
+      "word": "摊主买彩票中2千多万激动砸摊位",
+      "onboard_time": 1684038687,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 832216,
       "num": 832216,
       "word": "瞿颖说李莎旻子做人太紧张了",
@@ -153,6 +193,14 @@
       "onboard_time": 1684028246,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 826603,
+      "num": 826603,
+      "word": "蔡少芬 生孩子都没有这么苦",
+      "onboard_time": 1684039708,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 822704,
@@ -185,6 +233,22 @@
       "onboard_time": 1683989913,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 598963,
+      "num": 222270,
+      "word": "郎朗说吉娜已经跳舞跳魔怔了",
+      "onboard_time": 1684038625,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 583561,
+      "num": 583561,
+      "word": "佳人可惜了",
+      "onboard_time": 1684039528,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 565771,
@@ -243,11 +307,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 457267,
+      "num": 256078,
+      "word": "张嘉倪wink",
+      "onboard_time": 1684040368,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 452023,
       "num": 392226,
       "word": "高碧吐了 一字马是常见的舞蹈动作",
       "onboard_time": 1684026866,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 443947,
+      "num": 299502,
+      "word": "花海舞台",
+      "onboard_time": 1684026746,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -291,6 +371,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 412695,
+      "num": 214502,
+      "word": "范丞丞 音乐节门票",
+      "onboard_time": 1684040849,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 402351,
       "num": 324495,
       "word": "侯明昊回应裤子透光",
@@ -331,6 +419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 369249,
+      "num": 218987,
+      "word": "因为下大雨给客户撑伞转正了",
+      "onboard_time": 1684039768,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 360435,
       "num": 278616,
       "word": "她有种不在国内的自信",
@@ -363,6 +459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 332235,
+      "num": 213077,
+      "word": "张杰演唱会",
+      "onboard_time": 1684039708,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 327953,
       "num": 327953,
       "word": "给妈妈的备注是什么",
@@ -393,6 +497,14 @@
       "onboard_time": 1684036707,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 322573,
+      "num": 216551,
+      "word": "唾液含剧毒的五爪金龙现身云南",
+      "onboard_time": 1684038268,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321434,
@@ -441,14 +553,6 @@
       "onboard_time": 1684024345,
       "rank": 19,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 299502,
-      "num": 299502,
-      "word": "花海舞台",
-      "onboard_time": 1684026746,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 286945,
@@ -587,19 +691,19 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 228272,
-      "num": 196961,
-      "word": "唾液含剧毒的五爪金龙现身云南",
-      "onboard_time": 1684038268,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 227469,
       "num": 227469,
       "word": "瘦子现场",
       "onboard_time": 1684022724,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 224926,
+      "num": 208880,
+      "word": "秋瓷炫好真诚",
+      "onboard_time": 1684041028,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -675,6 +779,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207979,
+      "num": 207979,
+      "word": "武汉创造宇宙音乐节",
+      "onboard_time": 1684040547,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 207198,
+      "num": 207198,
+      "word": "妈妈收到母亲节礼物哭着说不要",
+      "onboard_time": 1684039950,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205939,
       "num": 205939,
       "word": "模仿妈妈语气发条朋友圈",
@@ -688,6 +808,14 @@
       "word": "小白赢了谢可寅烧了项链",
       "onboard_time": 1683996745,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 202026,
+      "num": 166283,
+      "word": "孤单芭蕾",
+      "onboard_time": 1684040849,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -763,14 +891,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 177250,
-      "num": 177250,
-      "word": "郎朗说吉娜已经跳舞跳魔怔了",
-      "onboard_time": 1684038625,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 176127,
       "num": 140495,
       "word": "莫文蔚窦靖童合唱天黑黑",
@@ -817,6 +937,14 @@
       "onboard_time": 1683943889,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 171586,
+      "num": 129745,
+      "word": "汪小敏好美",
+      "onboard_time": 1684040666,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 168891,
@@ -873,6 +1001,14 @@
       "onboard_time": 1684026386,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 154254,
+      "num": 140901,
+      "word": "王鹤棣无袖墨镜造型",
+      "onboard_time": 1684039768,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 153521,
@@ -947,11 +1083,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 141690,
-      "num": 141690,
-      "word": "摊主买彩票中2千多万激动砸摊位",
-      "onboard_time": 1684038687,
-      "rank": 41,
+      "raw_hot": 141164,
+      "num": 141164,
+      "word": "驻村书记烧小龙虾为留守老人过母亲节",
+      "onboard_time": 1684041149,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -985,14 +1121,6 @@
       "onboard_time": 1683980668,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132157,
-      "num": 132157,
-      "word": "吻别真的好",
-      "onboard_time": 1684038746,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 131936,
@@ -1212,7 +1340,7 @@
     },
     {
       "raw_hot": 39832,
-      "num": 1120330,
+      "num": 1459778,
       "word": "数字化小而美里的发展活力",
       "onboard_time": 1684034847,
       "rank": 2,
@@ -1225,6 +1353,14 @@
       "onboard_time": 1684003515,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37164,
+      "num": 123140,
+      "word": "王者荣耀",
+      "onboard_time": 1683982951,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 30363,

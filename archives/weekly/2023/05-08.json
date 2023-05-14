@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1684038807125,
+  "endTime": 1684041324146,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -523,6 +523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2136597,
+      "num": 2136597,
+      "word": "原来花海输给了吻别",
+      "onboard_time": 1684038808,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2126803,
       "num": 2126803,
       "word": "刘亦菲曾被韩国女生霸凌",
@@ -881,6 +889,14 @@
       "onboard_time": 1683817652,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1599221,
+      "num": 1599221,
+      "word": "网红卖崽青蛙上海落网",
+      "onboard_time": 1684039110,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1598965,
@@ -1345,6 +1361,14 @@
       "onboard_time": 1683607115,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1347075,
+      "num": 1347075,
+      "word": "叮叮当当甜死我了",
+      "onboard_time": 1684039828,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1341896,
@@ -2203,6 +2227,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 901674,
+      "num": 901674,
+      "word": "吻别真的好",
+      "onboard_time": 1684038746,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 900100,
       "num": 900100,
       "word": "狼队八冠王",
@@ -2233,6 +2265,14 @@
       "onboard_time": 1683935906,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 885756,
+      "num": 885756,
+      "word": "摊主买彩票中2千多万激动砸摊位",
+      "onboard_time": 1684038687,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 882197,
@@ -2385,6 +2425,14 @@
       "onboard_time": 1684028246,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 826603,
+      "num": 826603,
+      "word": "蔡少芬 生孩子都没有这么苦",
+      "onboard_time": 1684039708,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 821398,
@@ -3283,6 +3331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 598963,
+      "num": 222270,
+      "word": "郎朗说吉娜已经跳舞跳魔怔了",
+      "onboard_time": 1684038625,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 596669,
       "num": 596669,
       "word": "云之羽一看就是郭敬明拍的",
@@ -3359,6 +3415,14 @@
       "num": 583926,
       "word": "宋茜为Amber打call",
       "onboard_time": 1683502823,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 583561,
+      "num": 583561,
+      "word": "佳人可惜了",
+      "onboard_time": 1684039528,
       "rank": 11,
       "category": "综艺"
     },
@@ -4347,6 +4411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 457267,
+      "num": 256078,
+      "word": "张嘉倪wink",
+      "onboard_time": 1684040368,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 457142,
       "num": 457142,
       "word": "原神",
@@ -4481,6 +4553,14 @@
       "onboard_time": 1683540629,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 443947,
+      "num": 299502,
+      "word": "花海舞台",
+      "onboard_time": 1684026746,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 443593,
@@ -4865,6 +4945,14 @@
       "onboard_time": 1683512969,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 412695,
+      "num": 214502,
+      "word": "范丞丞 音乐节门票",
+      "onboard_time": 1684040849,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 412516,
@@ -5553,6 +5641,14 @@
       "onboard_time": 1683816273,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369249,
+      "num": 218987,
+      "word": "因为下大雨给客户撑伞转正了",
+      "onboard_time": 1684039768,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 367795,
@@ -6339,6 +6435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332235,
+      "num": 213077,
+      "word": "张杰演唱会",
+      "onboard_time": 1684039708,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 331818,
       "num": 255210,
       "word": "青簪行",
@@ -6544,6 +6648,14 @@
       "word": "巴厘岛",
       "onboard_time": 1683593492,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322573,
+      "num": 216551,
+      "word": "唾液含剧毒的五爪金龙现身云南",
+      "onboard_time": 1684038268,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -7089,14 +7201,6 @@
       "onboard_time": 1683685228,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 299502,
-      "num": 299502,
-      "word": "花海舞台",
-      "onboard_time": 1684026746,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 299031,
@@ -9307,14 +9411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 228272,
-      "num": 196961,
-      "word": "唾液含剧毒的五爪金龙现身云南",
-      "onboard_time": 1684038268,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 227558,
       "num": 227558,
       "word": "长相思",
@@ -9401,6 +9497,14 @@
       "onboard_time": 1683685168,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 224926,
+      "num": 208880,
+      "word": "秋瓷炫好真诚",
+      "onboard_time": 1684041028,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 224779,
@@ -9987,6 +10091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 207979,
+      "num": 207979,
+      "word": "武汉创造宇宙音乐节",
+      "onboard_time": 1684040547,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 207953,
       "num": 207953,
       "word": "是谁亲了美依礼芽",
@@ -10025,6 +10137,14 @@
       "onboard_time": 1683786209,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 207198,
+      "num": 207198,
+      "word": "妈妈收到母亲节礼物哭着说不要",
+      "onboard_time": 1684039950,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207075,
@@ -10232,6 +10352,14 @@
       "word": "声生不息",
       "onboard_time": 1683977548,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 202026,
+      "num": 166283,
+      "word": "孤单芭蕾",
+      "onboard_time": 1684040849,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -11131,14 +11259,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 177250,
-      "num": 177250,
-      "word": "郎朗说吉娜已经跳舞跳魔怔了",
-      "onboard_time": 1684038625,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 177094,
       "num": 177094,
       "word": "黑龙江男子到剑门关旅游被免门票",
@@ -11425,6 +11545,14 @@
       "onboard_time": 1683813330,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 171586,
+      "num": 129745,
+      "word": "汪小敏好美",
+      "onboard_time": 1684040666,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 171482,
@@ -11987,6 +12115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 154254,
+      "num": 140901,
+      "word": "王鹤棣无袖墨镜造型",
+      "onboard_time": 1684039768,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 154012,
       "num": 154012,
       "word": "需要多少钱才能解决你的烦恼",
@@ -12427,11 +12563,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 141690,
-      "num": 141690,
-      "word": "摊主买彩票中2千多万激动砸摊位",
-      "onboard_time": 1684038687,
-      "rank": 41,
+      "raw_hot": 141164,
+      "num": 141164,
+      "word": "驻村书记烧小龙虾为留守老人过母亲节",
+      "onboard_time": 1684041149,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -12753,14 +12889,6 @@
       "onboard_time": 1683856949,
       "rank": 45,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 132157,
-      "num": 132157,
-      "word": "吻别真的好",
-      "onboard_time": 1684038746,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 131936,
@@ -13924,7 +14052,7 @@
     },
     {
       "raw_hot": 39832,
-      "num": 1120330,
+      "num": 1459778,
       "word": "数字化小而美里的发展活力",
       "onboard_time": 1684034847,
       "rank": 2,
