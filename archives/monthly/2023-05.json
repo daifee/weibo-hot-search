@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684071208909,
+  "endTime": 1684073653369,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -369,6 +369,14 @@
       "onboard_time": 1682949099,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2811348,
+      "num": 2811348,
+      "word": "挖呀挖黄老师关闭直播间打赏",
+      "onboard_time": 1684069466,
+      "rank": 10,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2784653,
@@ -1571,14 +1579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1741040,
-      "num": 1741040,
-      "word": "挖呀挖黄老师关闭直播间打赏",
-      "onboard_time": 1684069466,
-      "rank": 10,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 1739629,
       "num": 1739629,
       "word": "浪姐一公淘汰名单",
@@ -2115,6 +2115,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1532978,
+      "num": 1486779,
+      "word": "妻子举报高校丈夫出轨多位女学生",
+      "onboard_time": 1684068687,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1524867,
       "num": 1524867,
       "word": "罗成 梦女",
@@ -2225,14 +2233,6 @@
       "onboard_time": 1683635669,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1486779,
-      "num": 1486779,
-      "word": "妻子举报高校丈夫出轨多位女学生",
-      "onboard_time": 1684068687,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1485190,
@@ -3899,6 +3899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1037584,
+      "num": 1037584,
+      "word": "大爷买二等座票带孙女坐一等座被赶",
+      "onboard_time": 1684059805,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1032685,
       "num": 1032685,
       "word": "胡锡进 把普通人这样发到网上太不应该",
@@ -4048,14 +4056,6 @@
       "word": "同事辟谣挖呀挖黄老师辞职",
       "onboard_time": 1683294871,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 999175,
-      "num": 999175,
-      "word": "大爷买二等座票带孙女坐一等座被赶",
-      "onboard_time": 1684059805,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -6491,6 +6491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 614147,
+      "num": 614147,
+      "word": "周杰伦演唱会以七里香结尾的原因",
+      "onboard_time": 1684072231,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 613428,
       "num": 613428,
       "word": "苏群 湖人演过头",
@@ -7803,6 +7811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 523631,
+      "num": 403615,
+      "word": "后浪收视率",
+      "onboard_time": 1684069948,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 523364,
       "num": 523364,
       "word": "苹果 钓鱼",
@@ -9107,14 +9123,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 448765,
-      "num": 302570,
-      "word": "后浪收视率",
-      "onboard_time": 1684069948,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 448706,
       "num": 448706,
       "word": "吕梁",
@@ -9939,6 +9947,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 415541,
+      "num": 319903,
+      "word": "朱珠内核稳定的大女主",
+      "onboard_time": 1684072409,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 415385,
       "num": 324629,
       "word": "金晨给朱珠送平凡暖心包",
@@ -10083,6 +10099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 409014,
+      "num": 255760,
+      "word": "莫文蔚看窦靖童的时候会不会想起王菲",
+      "onboard_time": 1684071450,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 408922,
       "num": 243898,
       "word": "NCT",
@@ -10121,6 +10145,14 @@
       "onboard_time": 1683589589,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 407755,
+      "num": 235268,
+      "word": "凤凰传奇是美依礼芽的榜一",
+      "onboard_time": 1684073009,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 407386,
@@ -10289,6 +10321,14 @@
       "onboard_time": 1683193167,
       "rank": 16,
       "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 402062,
+      "num": 402062,
+      "word": "杰尼斯",
+      "onboard_time": 1684070969,
+      "rank": 30,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 401589,
@@ -10467,6 +10507,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 398035,
+      "num": 233345,
+      "word": "芭莎拍的白鹿王鹤棣",
+      "onboard_time": 1684073131,
+      "rank": 26,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 398011,
       "num": 308402,
       "word": "aespa确认会有正规一辑",
@@ -10545,6 +10593,14 @@
       "onboard_time": 1683346894,
       "rank": 30,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 395254,
+      "num": 265189,
+      "word": "浪姐4一公观众告诉你为什么花海会输",
+      "onboard_time": 1684069227,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 395072,
@@ -12601,14 +12657,6 @@
       "onboard_time": 1683172531,
       "rank": 24,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 337817,
-      "num": 265189,
-      "word": "浪姐4一公观众告诉你为什么花海会输",
-      "onboard_time": 1684069227,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 337106,
@@ -17539,6 +17587,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 244493,
+      "num": 210490,
+      "word": "蔡徐坤直播",
+      "onboard_time": 1684072051,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244476,
       "num": 244476,
       "word": "破事精英",
@@ -17939,6 +17995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238523,
+      "num": 238523,
+      "word": "杰尼斯社长道歉",
+      "onboard_time": 1684073428,
+      "rank": 23,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 238453,
       "num": 238453,
       "word": "杭州一套房比去年跌价近百万",
@@ -18273,14 +18337,6 @@
       "onboard_time": 1683865232,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 234876,
-      "num": 234876,
-      "word": "杰尼斯",
-      "onboard_time": 1684070969,
-      "rank": 30,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 234840,
@@ -18731,6 +18787,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 229403,
+      "num": 229403,
+      "word": "JDG战胜BLG",
+      "onboard_time": 1684073428,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 229190,
       "num": 224927,
       "word": "洪世贤来助个兴",
@@ -18849,6 +18913,14 @@
       "onboard_time": 1683246574,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227681,
+      "num": 227681,
+      "word": "BLG对战JDG",
+      "onboard_time": 1684061546,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 227558,
@@ -20019,6 +20091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212744,
+      "num": 212744,
+      "word": "回浦中学全国总冠军",
+      "onboard_time": 1684071991,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212494,
       "num": 230456,
       "word": "北京开展黄牛非法倒票专项整治",
@@ -20089,6 +20169,14 @@
       "onboard_time": 1683110909,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 211831,
+      "num": 204560,
+      "word": "杨洋mai同框",
+      "onboard_time": 1684073369,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 211803,
@@ -20489,6 +20577,14 @@
       "onboard_time": 1683447331,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207116,
+      "num": 207116,
+      "word": "捡到100块结果面试没通过",
+      "onboard_time": 1684071147,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 207075,
@@ -22377,6 +22473,14 @@
       "onboard_time": 1683446790,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186637,
+      "num": 207923,
+      "word": "周日傍晚伤心综合症",
+      "onboard_time": 1684072112,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 186634,
@@ -25707,14 +25811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146644,
-      "num": 146644,
-      "word": "BLG对战JDG",
-      "onboard_time": 1684061546,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 146640,
       "num": 146640,
       "word": "cp29 汉末",
@@ -27585,14 +27681,6 @@
       "onboard_time": 1683170009,
       "rank": 48,
       "category": "国外要闻,军事"
-    },
-    {
-      "raw_hot": 115909,
-      "num": 127093,
-      "word": "捡到100块结果面试没通过",
-      "onboard_time": 1684071147,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 115767,

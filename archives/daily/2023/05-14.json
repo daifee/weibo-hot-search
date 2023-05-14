@@ -1,6 +1,6 @@
 {
   "startTime": 1683994827629,
-  "endTime": 1684071208909,
+  "endTime": 1684073653369,
   "band_list": [
     {
       "raw_hot": 2836350,
@@ -9,6 +9,14 @@
       "onboard_time": 1684028727,
       "rank": 27,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 2811348,
+      "num": 2811348,
+      "word": "挖呀挖黄老师关闭直播间打赏",
+      "onboard_time": 1684069466,
+      "rank": 10,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2524852,
@@ -33,14 +41,6 @@
       "onboard_time": 1684020799,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1741040,
-      "num": 1741040,
-      "word": "挖呀挖黄老师关闭直播间打赏",
-      "onboard_time": 1684069466,
-      "rank": 10,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1739629,
@@ -107,7 +107,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1486779,
+      "raw_hot": 1532978,
       "num": 1486779,
       "word": "妻子举报高校丈夫出轨多位女学生",
       "onboard_time": 1684068687,
@@ -243,8 +243,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 999175,
-      "num": 999175,
+      "raw_hot": 1037584,
+      "num": 1037584,
       "word": "大爷买二等座票带孙女坐一等座被赶",
       "onboard_time": 1684059805,
       "rank": 34,
@@ -403,6 +403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 614147,
+      "num": 614147,
+      "word": "周杰伦演唱会以七里香结尾的原因",
+      "onboard_time": 1684072231,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 612246,
       "num": 349674,
       "word": "浪姐一公排名",
@@ -473,6 +481,14 @@
       "onboard_time": 1684028907,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 523631,
+      "num": 403615,
+      "word": "后浪收视率",
+      "onboard_time": 1684069948,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 517991,
@@ -595,14 +611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 448765,
-      "num": 302570,
-      "word": "后浪收视率",
-      "onboard_time": 1684069948,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 443947,
       "num": 299502,
       "word": "花海舞台",
@@ -675,6 +683,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 415541,
+      "num": 319903,
+      "word": "朱珠内核稳定的大女主",
+      "onboard_time": 1684072409,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 413699,
       "num": 435368,
       "word": "儿子开公交7旬父亲连续8年送饭",
@@ -691,6 +707,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 409014,
+      "num": 255760,
+      "word": "莫文蔚看窦靖童的时候会不会想起王菲",
+      "onboard_time": 1684071450,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 407755,
+      "num": 235268,
+      "word": "凤凰传奇是美依礼芽的榜一",
+      "onboard_time": 1684073009,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 402351,
       "num": 324495,
       "word": "侯明昊回应裤子透光",
@@ -699,12 +731,36 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 402062,
+      "num": 402062,
+      "word": "杰尼斯",
+      "onboard_time": 1684070969,
+      "rank": 30,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 400817,
       "num": 248530,
       "word": "母亲节送咱妈的蛋糕有多离谱",
       "onboard_time": 1684036886,
       "rank": 22,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 398035,
+      "num": 233345,
+      "word": "芭莎拍的白鹿王鹤棣",
+      "onboard_time": 1684073131,
+      "rank": 26,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 395254,
+      "num": 265189,
+      "word": "浪姐4一公观众告诉你为什么花海会输",
+      "onboard_time": 1684069227,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 392588,
@@ -849,14 +905,6 @@
       "onboard_time": 1684055547,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 337817,
-      "num": 265189,
-      "word": "浪姐4一公观众告诉你为什么花海会输",
-      "onboard_time": 1684069227,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 332235,
@@ -1203,6 +1251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 244493,
+      "num": 210490,
+      "word": "蔡徐坤直播",
+      "onboard_time": 1684072051,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242707,
       "num": 242707,
       "word": "母亲节需要给未来的岳母送礼物吗",
@@ -1219,20 +1275,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 238523,
+      "num": 238523,
+      "word": "杰尼斯社长道歉",
+      "onboard_time": 1684073428,
+      "rank": 23,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 236815,
       "num": 236815,
       "word": "陈意涵问修杰楷你在哪儿",
       "onboard_time": 1683971247,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234876,
-      "num": 234876,
-      "word": "杰尼斯",
-      "onboard_time": 1684070969,
-      "rank": 30,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 233631,
@@ -1265,6 +1321,22 @@
       "onboard_time": 1683990756,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 229403,
+      "num": 229403,
+      "word": "JDG战胜BLG",
+      "onboard_time": 1684073428,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 227681,
+      "num": 227681,
+      "word": "BLG对战JDG",
+      "onboard_time": 1684061546,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 227469,
@@ -1387,6 +1459,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 212744,
+      "num": 212744,
+      "word": "回浦中学全国总冠军",
+      "onboard_time": 1684071991,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 211831,
+      "num": 204560,
+      "word": "杨洋mai同框",
+      "onboard_time": 1684073369,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 210848,
       "num": 210848,
       "word": "庆余年2是懂防路透的",
@@ -1409,6 +1497,14 @@
       "onboard_time": 1684040547,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 207116,
+      "num": 207116,
+      "word": "捡到100块结果面试没通过",
+      "onboard_time": 1684071147,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 206708,
@@ -1553,6 +1649,14 @@
       "onboard_time": 1684061246,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186637,
+      "num": 207923,
+      "word": "周日傍晚伤心综合症",
+      "onboard_time": 1684072112,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 185516,
@@ -1851,14 +1955,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 146644,
-      "num": 146644,
-      "word": "BLG对战JDG",
-      "onboard_time": 1684061546,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 146485,
       "num": 146485,
       "word": "广州一8旬老人卖房捐60万助学",
@@ -2089,14 +2185,6 @@
       "onboard_time": 1683997702,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 115909,
-      "num": 127093,
-      "word": "捡到100块结果面试没通过",
-      "onboard_time": 1684071147,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 115309,

@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1684071208909,
+  "endTime": 1684073653369,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -185,6 +185,14 @@
       "onboard_time": 1684028727,
       "rank": 27,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 2811348,
+      "num": 2811348,
+      "word": "挖呀挖黄老师关闭直播间打赏",
+      "onboard_time": 1684069466,
+      "rank": 10,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2753617,
@@ -779,14 +787,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1741040,
-      "num": 1741040,
-      "word": "挖呀挖黄老师关闭直播间打赏",
-      "onboard_time": 1684069466,
-      "rank": 10,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 1739629,
       "num": 1739629,
       "word": "浪姐一公淘汰名单",
@@ -1091,6 +1091,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1532978,
+      "num": 1486779,
+      "word": "妻子举报高校丈夫出轨多位女学生",
+      "onboard_time": 1684068687,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1524867,
       "num": 1524867,
       "word": "罗成 梦女",
@@ -1193,14 +1201,6 @@
       "onboard_time": 1683635669,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1486779,
-      "num": 1486779,
-      "word": "妻子举报高校丈夫出轨多位女学生",
-      "onboard_time": 1684068687,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1479611,
@@ -2035,6 +2035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1037584,
+      "num": 1037584,
+      "word": "大爷买二等座票带孙女坐一等座被赶",
+      "onboard_time": 1684059805,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1032047,
       "num": 1032047,
       "word": "鹿晗张艺兴同杂志封面",
@@ -2121,14 +2129,6 @@
       "onboard_time": 1683987031,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 999175,
-      "num": 999175,
-      "word": "大爷买二等座票带孙女坐一等座被赶",
-      "onboard_time": 1684059805,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 994273,
@@ -3403,6 +3403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 614147,
+      "num": 614147,
+      "word": "周杰伦演唱会以七里香结尾的原因",
+      "onboard_time": 1684072231,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 612246,
       "num": 349674,
       "word": "浪姐一公排名",
@@ -4049,6 +4057,14 @@
       "onboard_time": 1683608073,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 523631,
+      "num": 403615,
+      "word": "后浪收视率",
+      "onboard_time": 1684069948,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 523364,
@@ -4755,14 +4771,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 448765,
-      "num": 302570,
-      "word": "后浪收视率",
-      "onboard_time": 1684069948,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 448706,
       "num": 448706,
       "word": "吕梁",
@@ -5219,6 +5227,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 415541,
+      "num": 319903,
+      "word": "朱珠内核稳定的大女主",
+      "onboard_time": 1684072409,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 414605,
       "num": 344956,
       "word": "虞书欣帮爷爷拍照",
@@ -5283,6 +5299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 409014,
+      "num": 255760,
+      "word": "莫文蔚看窦靖童的时候会不会想起王菲",
+      "onboard_time": 1684071450,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 408922,
       "num": 243898,
       "word": "NCT",
@@ -5313,6 +5337,14 @@
       "onboard_time": 1683589589,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 407755,
+      "num": 235268,
+      "word": "凤凰传奇是美依礼芽的榜一",
+      "onboard_time": 1684073009,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 407386,
@@ -5385,6 +5417,14 @@
       "onboard_time": 1683779911,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 402062,
+      "num": 402062,
+      "word": "杰尼斯",
+      "onboard_time": 1684070969,
+      "rank": 30,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 401560,
@@ -5491,6 +5531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 398035,
+      "num": 233345,
+      "word": "芭莎拍的白鹿王鹤棣",
+      "onboard_time": 1684073131,
+      "rank": 26,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 398011,
       "num": 308402,
       "word": "aespa确认会有正规一辑",
@@ -5512,6 +5560,14 @@
       "word": "瞿颖气场",
       "onboard_time": 1683980308,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 395254,
+      "num": 265189,
+      "word": "浪姐4一公观众告诉你为什么花海会输",
+      "onboard_time": 1684069227,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -6729,14 +6785,6 @@
       "onboard_time": 1683799896,
       "rank": 46,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 337817,
-      "num": 265189,
-      "word": "浪姐4一公观众告诉你为什么花海会输",
-      "onboard_time": 1684069227,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 337106,
@@ -9331,6 +9379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244493,
+      "num": 210490,
+      "word": "蔡徐坤直播",
+      "onboard_time": 1684072051,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244306,
       "num": 244306,
       "word": "白敬亭撒娇不像演的",
@@ -9507,6 +9563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 238523,
+      "num": 238523,
+      "word": "杰尼斯社长道歉",
+      "onboard_time": 1684073428,
+      "rank": 23,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 238453,
       "num": 238453,
       "word": "杭州一套房比去年跌价近百万",
@@ -9681,14 +9745,6 @@
       "onboard_time": 1683865232,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 234876,
-      "num": 234876,
-      "word": "杰尼斯",
-      "onboard_time": 1684070969,
-      "rank": 30,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 234840,
@@ -9947,6 +10003,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 229403,
+      "num": 229403,
+      "word": "JDG战胜BLG",
+      "onboard_time": 1684073428,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 228653,
       "num": 646727,
       "word": "一梦2",
@@ -9961,6 +10025,14 @@
       "onboard_time": 1683633510,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227681,
+      "num": 227681,
+      "word": "BLG对战JDG",
+      "onboard_time": 1684061546,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 227558,
@@ -10499,6 +10571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212744,
+      "num": 212744,
+      "word": "回浦中学全国总冠军",
+      "onboard_time": 1684071991,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212494,
       "num": 230456,
       "word": "北京开展黄牛非法倒票专项整治",
@@ -10545,6 +10625,14 @@
       "onboard_time": 1683770908,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 211831,
+      "num": 204560,
+      "word": "杨洋mai同框",
+      "onboard_time": 1684073369,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 211588,
@@ -10737,6 +10825,14 @@
       "onboard_time": 1683786209,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 207116,
+      "num": 207116,
+      "word": "捡到100块结果面试没通过",
+      "onboard_time": 1684071147,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 207075,
@@ -11625,6 +11721,14 @@
       "onboard_time": 1684061246,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186637,
+      "num": 207923,
+      "word": "周日傍晚伤心综合症",
+      "onboard_time": 1684072112,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 186624,
@@ -13147,14 +13251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146644,
-      "num": 146644,
-      "word": "BLG对战JDG",
-      "onboard_time": 1684061546,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 146619,
       "num": 146619,
       "word": "九号发布会",
@@ -14089,14 +14185,6 @@
       "onboard_time": 1683907826,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115909,
-      "num": 127093,
-      "word": "捡到100块结果面试没通过",
-      "onboard_time": 1684071147,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 115767,
