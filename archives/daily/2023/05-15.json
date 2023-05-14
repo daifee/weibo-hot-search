@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684095405714,
+  "endTime": 1684096407927,
   "band_list": [
     {
       "raw_hot": 1933885,
@@ -467,16 +467,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 23855,
-      "num": 19882,
+      "raw_hot": 28543,
+      "num": 23179,
       "word": "乌总统拒绝教皇调停俄乌冲突",
       "onboard_time": 1684093573,
       "rank": 30,
       "category": "国外要闻"
     },
     {
-      "raw_hot": 16524,
-      "num": 17651,
+      "raw_hot": 19624,
+      "num": 19624,
       "word": "ZB1初舞台",
       "onboard_time": 1684093093,
       "rank": 42,

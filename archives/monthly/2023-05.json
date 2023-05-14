@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684095405714,
+  "endTime": 1684096407927,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -30123,6 +30123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 28543,
+      "num": 23179,
+      "word": "乌总统拒绝教皇调停俄乌冲突",
+      "onboard_time": 1684093573,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 28426,
       "num": 29886,
       "word": "救命和crush恋爱了",
@@ -30227,14 +30235,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 23855,
-      "num": 19882,
-      "word": "乌总统拒绝教皇调停俄乌冲突",
-      "onboard_time": 1684093573,
-      "rank": 30,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 23317,
       "num": 28468,
       "word": "自助跳楼机",
@@ -30291,6 +30291,14 @@
       "category": "体育,教育"
     },
     {
+      "raw_hot": 19624,
+      "num": 19624,
+      "word": "ZB1初舞台",
+      "onboard_time": 1684093093,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 19618,
       "num": 36272,
       "word": "眼睛和耳朵直接想清福了",
@@ -30313,14 +30321,6 @@
       "onboard_time": 1683367229,
       "rank": 39,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 16524,
-      "num": 17651,
-      "word": "ZB1初舞台",
-      "onboard_time": 1684093093,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 15606,
