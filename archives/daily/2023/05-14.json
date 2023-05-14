@@ -1,6 +1,6 @@
 {
   "startTime": 1683994827629,
-  "endTime": 1684046015326,
+  "endTime": 1684048550480,
   "band_list": [
     {
       "raw_hot": 2836350,
@@ -11,8 +11,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 2476910,
-      "num": 2476910,
+      "raw_hot": 2524852,
+      "num": 2524852,
       "word": "网红卖崽青蛙上海落网",
       "onboard_time": 1684039110,
       "rank": 1,
@@ -41,6 +41,14 @@
       "onboard_time": 1684027587,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1615684,
+      "num": 369040,
+      "word": "张馨予 有个牌子衣服大号都穿不上",
+      "onboard_time": 1684046067,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1598965,
@@ -211,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 829910,
+      "num": 829910,
+      "word": "巴厘岛",
+      "onboard_time": 1684046367,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 826702,
       "num": 490987,
       "word": "李楷灿 海底捞",
@@ -259,6 +275,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 612246,
+      "num": 349674,
+      "word": "浪姐一公排名",
+      "onboard_time": 1684042710,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 598963,
       "num": 291659,
       "word": "郎朗说吉娜已经跳舞跳魔怔了",
@@ -280,14 +304,6 @@
       "word": "佳人可惜了",
       "onboard_time": 1684039528,
       "rank": 11,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 568348,
-      "num": 298899,
-      "word": "浪姐一公排名",
-      "onboard_time": 1684042710,
-      "rank": 21,
       "category": "综艺"
     },
     {
@@ -353,6 +369,14 @@
       "onboard_time": 1683975149,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 473841,
+      "num": 319713,
+      "word": "浪姐一公淘汰名单",
+      "onboard_time": 1684047387,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 452023,
@@ -468,7 +492,7 @@
     },
     {
       "raw_hot": 378462,
-      "num": 285782,
+      "num": 302369,
       "word": "Lisa无刘海中分造型",
       "onboard_time": 1684042468,
       "rank": 22,
@@ -580,7 +604,7 @@
     },
     {
       "raw_hot": 322573,
-      "num": 274439,
+      "num": 320361,
       "word": "唾液含剧毒的五爪金龙现身云南",
       "onboard_time": 1684038268,
       "rank": 30,
@@ -609,6 +633,14 @@
       "onboard_time": 1683990874,
       "rank": 27,
       "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 306721,
+      "num": 306721,
+      "word": "黄子韬徐艺洋同款微博打卡",
+      "onboard_time": 1684047984,
+      "rank": 17,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 302137,
@@ -683,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262189,
+      "num": 262189,
+      "word": "妈妈长寿身体健康",
+      "onboard_time": 1684047929,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 261146,
       "num": 261146,
       "word": "还妈妈一个清净",
@@ -705,6 +745,14 @@
       "onboard_time": 1684022002,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258925,
+      "num": 258925,
+      "word": "韦世豪",
+      "onboard_time": 1684047627,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 257494,
@@ -745,6 +793,14 @@
       "onboard_time": 1684025847,
       "rank": 24,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 241749,
+      "num": 241749,
+      "word": "许光汉LESSERAFIM舞蹈挑战",
+      "onboard_time": 1684046426,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 240204,
@@ -939,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194139,
+      "num": 194139,
+      "word": "八旬母亲每天教47岁脑瘫儿子洗衣做饭",
+      "onboard_time": 1684047148,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193096,
       "num": 193096,
       "word": "杨幂早期洋装旧照",
@@ -1123,6 +1187,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 157545,
+      "num": 157545,
+      "word": "山西重大刑案一出警人员被撞成重伤",
+      "onboard_time": 1684047329,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 155377,
       "num": 155377,
       "word": "驻村书记烧小龙虾为留守老人过母亲节",
@@ -1275,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132988,
+      "num": 132988,
+      "word": "小伙免费为十几位化疗病人送假发",
+      "onboard_time": 1684045889,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131936,
       "num": 131936,
       "word": "母亲节表情包",
@@ -1307,20 +1387,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125258,
-      "num": 125258,
-      "word": "小伙免费为十几位化疗病人送假发",
-      "onboard_time": 1684045889,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125086,
       "num": 371379,
       "word": "时光偷不走妈妈的美",
       "onboard_time": 1684044149,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124977,
+      "num": 124977,
+      "word": "泄曲",
+      "onboard_time": 1684048287,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 121485,
@@ -1377,6 +1457,14 @@
       "onboard_time": 1684018336,
       "rank": 34,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 109340,
+      "num": 109340,
+      "word": "漫长的季节 重配",
+      "onboard_time": 1684048348,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 106310,
@@ -1577,6 +1665,14 @@
       "onboard_time": 1684044026,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 25613,
+      "num": 83669,
+      "word": "原神",
+      "onboard_time": 1683975749,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 7979,

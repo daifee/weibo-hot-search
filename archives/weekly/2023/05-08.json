@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1684046015326,
+  "endTime": 1684048550480,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -283,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2524852,
+      "num": 2524852,
+      "word": "网红卖崽青蛙上海落网",
+      "onboard_time": 1684039110,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2519414,
       "num": 837962,
       "word": "张子萱终于不给陈赫打码了",
@@ -312,14 +320,6 @@
       "word": "情侣吵架从8楼将萨摩耶扔下",
       "onboard_time": 1683537453,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2476910,
-      "num": 2476910,
-      "word": "网红卖崽青蛙上海落网",
-      "onboard_time": 1684039110,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -865,6 +865,14 @@
       "onboard_time": 1683677428,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1615684,
+      "num": 369040,
+      "word": "张馨予 有个牌子衣服大号都穿不上",
+      "onboard_time": 1684046067,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1614504,
@@ -2443,6 +2451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 829910,
+      "num": 829910,
+      "word": "巴厘岛",
+      "onboard_time": 1683593492,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 826702,
       "num": 490987,
       "word": "李楷灿 海底捞",
@@ -3267,6 +3283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 612246,
+      "num": 349674,
+      "word": "浪姐一公排名",
+      "onboard_time": 1684042710,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 612168,
       "num": 612168,
       "word": "一看就没有恋爱过的女生",
@@ -3593,14 +3617,6 @@
       "onboard_time": 1683702332,
       "rank": 36,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 568348,
-      "num": 298899,
-      "word": "浪姐一公排名",
-      "onboard_time": 1684042710,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 567963,
@@ -4321,6 +4337,14 @@
       "onboard_time": 1683855928,
       "rank": 9,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 473841,
+      "num": 319713,
+      "word": "浪姐一公淘汰名单",
+      "onboard_time": 1684047387,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 472414,
@@ -5516,7 +5540,7 @@
     },
     {
       "raw_hot": 378462,
-      "num": 285782,
+      "num": 302369,
       "word": "Lisa无刘海中分造型",
       "onboard_time": 1684042468,
       "rank": 22,
@@ -6723,16 +6747,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 323756,
-      "num": 323756,
-      "word": "巴厘岛",
-      "onboard_time": 1683593492,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 322573,
-      "num": 274439,
+      "num": 320361,
       "word": "唾液含剧毒的五爪金龙现身云南",
       "onboard_time": 1684038268,
       "rank": 30,
@@ -7065,6 +7081,14 @@
       "onboard_time": 1683608015,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306721,
+      "num": 306721,
+      "word": "黄子韬徐艺洋同款微博打卡",
+      "onboard_time": 1684047984,
+      "rank": 17,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 306693,
@@ -8291,6 +8315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262189,
+      "num": 262189,
+      "word": "妈妈长寿身体健康",
+      "onboard_time": 1684047929,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 262045,
       "num": 149648,
       "word": "侯明昊裤子",
@@ -8417,6 +8449,14 @@
       "onboard_time": 1683688350,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 258925,
+      "num": 258925,
+      "word": "韦世豪",
+      "onboard_time": 1684047627,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 258587,
@@ -8969,6 +9009,14 @@
       "onboard_time": 1683859169,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 241749,
+      "num": 241749,
+      "word": "许光汉LESSERAFIM舞蹈挑战",
+      "onboard_time": 1684046426,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 241415,
@@ -10787,6 +10835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194139,
+      "num": 194139,
+      "word": "八旬母亲每天教47岁脑瘫儿子洗衣做饭",
+      "onboard_time": 1684047148,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193845,
       "num": 193845,
       "word": "男子非礼酒吧女歌手不成气急败坏",
@@ -12139,6 +12195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157545,
+      "num": 157545,
+      "word": "山西重大刑案一出警人员被撞成重伤",
+      "onboard_time": 1684047329,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 157389,
       "num": 157389,
       "word": "奔跑吧下周谁是贵阳推荐官",
@@ -13003,6 +13067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132988,
+      "num": 132988,
+      "word": "小伙免费为十几位化疗病人送假发",
+      "onboard_time": 1684045889,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132702,
       "num": 132702,
       "word": "警号055308封存",
@@ -13177,14 +13249,6 @@
       "onboard_time": 1683468513,
       "rank": 29,
       "category": "科技,情感"
-    },
-    {
-      "raw_hot": 125258,
-      "num": 125258,
-      "word": "小伙免费为十几位化疗病人送假发",
-      "onboard_time": 1684045889,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125086,
@@ -13473,6 +13537,14 @@
       "onboard_time": 1683657613,
       "rank": 44,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 109340,
+      "num": 109340,
+      "word": "漫长的季节 重配",
+      "onboard_time": 1684048348,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 108264,
