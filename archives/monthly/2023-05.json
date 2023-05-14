@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684096407927,
+  "endTime": 1684098901308,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -30115,20 +30115,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 29186,
+      "num": 23179,
+      "word": "乌总统拒绝教皇调停俄乌冲突",
+      "onboard_time": 1684093573,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 28921,
       "num": 30480,
       "word": "戛纳展映排片",
       "onboard_time": 1683737959,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 28543,
-      "num": 23179,
-      "word": "乌总统拒绝教皇调停俄乌冲突",
-      "onboard_time": 1684093573,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 28426,
