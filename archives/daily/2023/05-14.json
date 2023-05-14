@@ -1,6 +1,6 @@
 {
   "startTime": 1683994827629,
-  "endTime": 1684059404160,
+  "endTime": 1684060398588,
   "band_list": [
     {
       "raw_hot": 2836350,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1664302,
-      "num": 486841,
+      "num": 509604,
       "word": "张馨予 有个牌子衣服大号都穿不上",
       "onboard_time": 1684046067,
       "rank": 10,
@@ -57,6 +57,14 @@
       "onboard_time": 1684027587,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1632110,
+      "num": 1632110,
+      "word": "刘维说徐怀钰不是划水是不自信",
+      "onboard_time": 1684055966,
+      "rank": 6,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 1598965,
@@ -91,16 +99,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1528936,
-      "num": 1528936,
-      "word": "刘维说徐怀钰不是划水是不自信",
-      "onboard_time": 1684055966,
-      "rank": 6,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 1479611,
-      "num": 442001,
+      "num": 530720,
       "word": "王艳儿子近照",
       "onboard_time": 1684052064,
       "rank": 36,
@@ -283,6 +283,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 793596,
+      "num": 793596,
+      "word": "二阳",
+      "onboard_time": 1684058486,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 780554,
       "num": 450833,
       "word": "山西吕梁市突发车祸致多人被撞",
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 779100,
-      "num": 361980,
+      "num": 496121,
       "word": "刘维 徐怀钰团队划水",
       "onboard_time": 1684056566,
       "rank": 28,
@@ -451,6 +459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 462492,
+      "num": 462492,
+      "word": "杨幂龚俊吻戏路透",
+      "onboard_time": 1684055906,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 452023,
       "num": 392226,
       "word": "高碧吐了 一字马是常见的舞蹈动作",
@@ -459,20 +475,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 449377,
-      "num": 449377,
-      "word": "杨幂龚俊吻戏路透",
-      "onboard_time": 1684055906,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 443947,
       "num": 299502,
       "word": "花海舞台",
       "onboard_time": 1684026746,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 426096,
+      "num": 311271,
+      "word": "跟男朋友偷偷领证后很焦虑",
+      "onboard_time": 1684057047,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 424996,
@@ -545,14 +561,6 @@
       "onboard_time": 1684036886,
       "rank": 22,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 395382,
-      "num": 311271,
-      "word": "跟男朋友偷偷领证后很焦虑",
-      "onboard_time": 1684057047,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 392588,
@@ -633,6 +641,14 @@
       "onboard_time": 1683991534,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 352427,
+      "num": 812382,
+      "word": "6岁娃用3000元压岁钱给妈妈买金项链",
+      "onboard_time": 1684058968,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352422,
@@ -721,6 +737,14 @@
       "onboard_time": 1684036707,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 322480,
+      "num": 241312,
+      "word": "一万的票隔壁唱了九千八",
+      "onboard_time": 1684059146,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 321434,
@@ -825,14 +849,6 @@
       "onboard_time": 1684048768,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 280275,
-      "num": 280275,
-      "word": "二阳",
-      "onboard_time": 1684058486,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 279954,
@@ -1219,6 +1235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 192505,
+      "num": 153150,
+      "word": "猫咪出生1个月确诊是无性别",
+      "onboard_time": 1684059327,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192498,
       "num": 192498,
       "word": "Angelababy猫女造型",
@@ -1249,6 +1273,22 @@
       "onboard_time": 1684041330,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183207,
+      "num": 152631,
+      "word": "芝芙和叮叮当当原唱的关系",
+      "onboard_time": 1684059446,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 182226,
+      "num": 164929,
+      "word": "那英说张杰演唱会太炸了",
+      "onboard_time": 1684058783,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 181391,
@@ -1288,6 +1328,14 @@
       "word": "天大地大我妈最大",
       "onboard_time": 1684028545,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175313,
+      "num": 152111,
+      "word": "大爷买二等座票带孙女坐一等座被赶",
+      "onboard_time": 1684059805,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1339,14 +1387,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 169690,
-      "num": 190083,
-      "word": "6岁娃用3000元压岁钱给妈妈买金项链",
-      "onboard_time": 1684058968,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168891,
       "num": 168891,
       "word": "男友变心姑娘把他送的黄金卖了14万",
@@ -1361,14 +1401,6 @@
       "onboard_time": 1684029868,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 164929,
-      "num": 164929,
-      "word": "那英说张杰演唱会太炸了",
-      "onboard_time": 1684058783,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 164634,
@@ -1547,14 +1579,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 145377,
-      "num": 145377,
-      "word": "一万的票隔壁唱了九千八",
-      "onboard_time": 1684059146,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 144650,
       "num": 144650,
       "word": "谢谢你爱我",
@@ -1603,6 +1627,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 139913,
+      "num": 139913,
+      "word": "13分钟的隔空接生",
+      "onboard_time": 1684060225,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139676,
       "num": 139676,
       "word": "护心",
@@ -1616,6 +1648,14 @@
       "word": "小伙免费为十几位化疗病人送假发",
       "onboard_time": 1684045889,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138180,
+      "num": 138180,
+      "word": "胡锡进发文评卖崽青蛙上海落网",
+      "onboard_time": 1684059926,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1795,14 +1835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 101920,
-      "num": 101920,
-      "word": "猫咪出生1个月确诊是无性别",
-      "onboard_time": 1684059327,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101744,
       "num": 101744,
       "word": "被马天宇的这个回答暖到了",
@@ -1852,7 +1884,7 @@
     },
     {
       "raw_hot": 75870,
-      "num": 115092,
+      "num": 117756,
       "word": "台芒冰淇淋",
       "onboard_time": 1684052486,
       "rank": 47,
@@ -1916,7 +1948,7 @@
     },
     {
       "raw_hot": 61375,
-      "num": 112775,
+      "num": 118750,
       "word": "海拉鲁军备竞赛",
       "onboard_time": 1684049186,
       "rank": 47,
@@ -1932,11 +1964,19 @@
     },
     {
       "raw_hot": 52559,
-      "num": 114411,
+      "num": 119186,
       "word": "白夜极光定档",
       "onboard_time": 1684049007,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 51630,
+      "num": 1248136,
+      "word": "农忙时节的田野铺开了生机勃勃的画卷",
+      "onboard_time": 1684054285,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51438,
@@ -1963,12 +2003,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 47874,
-      "num": 1248136,
-      "word": "农忙时节的田野铺开了生机勃勃的画卷",
-      "onboard_time": 1684054285,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 49040,
+      "num": 147597,
+      "word": "我和妈妈有多像",
+      "onboard_time": 1684058665,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 46891,
@@ -2033,14 +2073,6 @@
       "onboard_time": 1684044026,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 26256,
-      "num": 147597,
-      "word": "我和妈妈有多像",
-      "onboard_time": 1684058665,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 25613,
