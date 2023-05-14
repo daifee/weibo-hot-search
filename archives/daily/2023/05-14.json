@@ -1,6 +1,6 @@
 {
   "startTime": 1683994827629,
-  "endTime": 1684068364628,
+  "endTime": 1684070275808,
   "band_list": [
     {
       "raw_hot": 2836350,
@@ -227,6 +227,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1054940,
+      "num": 1054940,
+      "word": "妻子举报高校丈夫出轨多位女学生",
+      "onboard_time": 1684068687,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 999175,
       "num": 999175,
       "word": "大爷买二等座票带孙女坐一等座被赶",
@@ -259,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 966106,
+      "num": 966106,
+      "word": "秋瓷炫像是在跳我的人生",
+      "onboard_time": 1684064007,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 938846,
       "num": 938846,
       "word": "黄子韬徐艺洋同款微博打卡",
@@ -275,19 +291,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 906753,
+      "num": 906753,
+      "word": "看中医就没有隐私吗",
+      "onboard_time": 1684067068,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 901674,
       "num": 901674,
       "word": "吻别真的好",
       "onboard_time": 1684038746,
       "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 857873,
-      "num": 747851,
-      "word": "秋瓷炫像是在跳我的人生",
-      "onboard_time": 1684064007,
-      "rank": 41,
       "category": "综艺"
     },
     {
@@ -345,6 +361,14 @@
       "onboard_time": 1683989673,
       "rank": 7,
       "category": "情感,影视"
+    },
+    {
+      "raw_hot": 762122,
+      "num": 379892,
+      "word": "挖呀挖黄老师关闭直播间打赏",
+      "onboard_time": 1684069466,
+      "rank": 10,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 741171,
@@ -451,6 +475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 517991,
+      "num": 365536,
+      "word": "后浪开播",
+      "onboard_time": 1684070008,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 511879,
       "num": 511879,
       "word": "王俊凯周杰伦合唱雨下一整晚",
@@ -489,14 +521,6 @@
       "onboard_time": 1684032928,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 486343,
-      "num": 406852,
-      "word": "看中医就没有隐私吗",
-      "onboard_time": 1684067068,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 480069,
@@ -691,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 382806,
+      "num": 382806,
+      "word": "猫咪出生1个月确诊是无性别",
+      "onboard_time": 1684059327,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381315,
       "num": 689289,
       "word": "自称长相比较可爱女副教授回应",
@@ -867,6 +899,14 @@
       "category": "教育,情感"
     },
     {
+      "raw_hot": 314125,
+      "num": 267696,
+      "word": "极限挑战",
+      "onboard_time": 1684068687,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307593,
       "num": 307593,
       "word": "今天沈阳沸腾了",
@@ -979,6 +1019,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286182,
+      "num": 265189,
+      "word": "浪姐4一公观众告诉你为什么花海会输",
+      "onboard_time": 1684069227,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 282916,
+      "num": 265402,
+      "word": "追你的人突然有对象了",
+      "onboard_time": 1684068625,
+      "rank": 24,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 279954,
       "num": 279954,
       "word": "蔡天凤家属拟用3D技术修复其遗体",
@@ -1028,7 +1084,7 @@
     },
     {
       "raw_hot": 266630,
-      "num": 198350,
+      "num": 264990,
       "word": "天黑黑",
       "onboard_time": 1684065027,
       "rank": 27,
@@ -1041,6 +1097,14 @@
       "onboard_time": 1684051407,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266073,
+      "num": 265071,
+      "word": "记者卧底南京夫子庙暗访竹筒奶茶市场",
+      "onboard_time": 1684068086,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264428,
@@ -1089,14 +1153,6 @@
       "onboard_time": 1684030886,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 257269,
-      "num": 254847,
-      "word": "猫咪出生1个月确诊是无性别",
-      "onboard_time": 1684059327,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 254476,
@@ -1201,6 +1257,14 @@
       "onboard_time": 1684022724,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226119,
+      "num": 226119,
+      "word": "后浪收视率",
+      "onboard_time": 1684069948,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 223856,
@@ -1393,6 +1457,14 @@
       "onboard_time": 1683982169,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200112,
+      "num": 200112,
+      "word": "你认为网红卖崽青蛙该罚吗",
+      "onboard_time": 1684069649,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196253,
@@ -1633,6 +1705,14 @@
       "onboard_time": 1684030347,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163188,
+      "num": 126789,
+      "word": "胡可说要做职场妈妈不做全职妈妈",
+      "onboard_time": 1684069527,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 162815,
@@ -1923,14 +2003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128727,
-      "num": 128727,
-      "word": "记者卧底南京夫子庙暗访竹筒奶茶市场",
-      "onboard_time": 1684068086,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126177,
       "num": 126177,
       "word": "科颜氏 原神",
@@ -2075,6 +2147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104831,
+      "num": 117124,
+      "word": "埃弗顿vs曼城",
+      "onboard_time": 1684070186,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102908,
       "num": 85007,
       "word": "vava奔跑女孩",
@@ -2139,6 +2219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 69257,
+      "num": 262786,
+      "word": "不可爱的天气里遇见可爱的人",
+      "onboard_time": 1684064246,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68530,
       "num": 68530,
       "word": "刘宇新歌春晖上线",
@@ -2167,14 +2255,6 @@
       "num": 113141,
       "word": "萌娃认出消防员爸爸后满眼骄傲",
       "onboard_time": 1684020620,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66287,
-      "num": 193423,
-      "word": "不可爱的天气里遇见可爱的人",
-      "onboard_time": 1684064246,
       "rank": 29,
       "category": "社会新闻"
     },
