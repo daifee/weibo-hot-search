@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684106218326,
+  "endTime": 1684107214239,
   "band_list": [
     {
       "raw_hot": 1933885,
@@ -27,6 +27,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1086768,
+      "num": 729093,
+      "word": "女子怀孕后发现男友已婚",
+      "onboard_time": 1684105399,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 972751,
       "num": 972751,
       "word": "男子花10万块买了8套房",
@@ -51,6 +59,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 680168,
+      "num": 680168,
+      "word": "浪姐4一公观众告诉你为什么花海会输",
+      "onboard_time": 1684069227,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 648257,
       "num": 648257,
       "word": "后浪扔外卖 离谱",
@@ -67,20 +83,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 582375,
-      "num": 582375,
-      "word": "浪姐4一公观众告诉你为什么花海会输",
-      "onboard_time": 1684069227,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 560953,
       "num": 560953,
       "word": "凤凰传奇是美依礼芽的榜一",
       "onboard_time": 1684073009,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 542166,
+      "num": 272415,
+      "word": "丈夫去世获赔142万公婆拒认遗腹子",
+      "onboard_time": 1684105399,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 481585,
@@ -107,16 +123,16 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 404114,
-      "num": 206906,
-      "word": "女子怀孕后发现男友已婚",
-      "onboard_time": 1684105399,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 416128,
+      "num": 416128,
+      "word": "凯尔特人淘汰76人",
+      "onboard_time": 1684105640,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 400288,
-      "num": 317618,
+      "num": 341211,
       "word": "周杰伦演唱会以七里香结尾的原因",
       "onboard_time": 1684072231,
       "rank": 20,
@@ -129,6 +145,14 @@
       "onboard_time": 1684077988,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 347293,
+      "num": 267494,
+      "word": "黄老师否认一场直播收入百万元",
+      "onboard_time": 1684106062,
+      "rank": 36,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 307860,
@@ -163,28 +187,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 236115,
-      "num": 105240,
-      "word": "丈夫去世获赔142万公婆拒认遗腹子",
-      "onboard_time": 1684105399,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 231941,
       "num": 164627,
       "word": "朱珠内核稳定的大女主",
       "onboard_time": 1684072409,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 225194,
-      "num": 225194,
-      "word": "凯尔特人淘汰76人",
-      "onboard_time": 1684105640,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 223470,
@@ -201,6 +209,14 @@
       "onboard_time": 1684062926,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 222592,
+      "num": 201238,
+      "word": "于晓光陪秋瓷炫上班",
+      "onboard_time": 1684105880,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 212493,
@@ -227,6 +243,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 198691,
+      "num": 189721,
+      "word": "演唱会为啥都在闹退票",
+      "onboard_time": 1684105399,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 191225,
       "num": 138345,
       "word": "侯明昊早几年干嘛去了",
@@ -235,12 +259,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188447,
+      "num": 188447,
+      "word": "哈登",
+      "onboard_time": 1684106723,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188401,
       "num": 188401,
       "word": "乌总统拒绝教皇调停俄乌冲突",
       "onboard_time": 1684093573,
       "rank": 30,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 185099,
+      "num": 185099,
+      "word": "恩比德",
+      "onboard_time": 1684106484,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 183344,
@@ -275,6 +315,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167532,
+      "num": 167532,
+      "word": "巴萨夺得西甲冠军",
+      "onboard_time": 1684105640,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 155907,
+      "num": 155907,
+      "word": "塔图姆51分",
+      "onboard_time": 1684106000,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149773,
       "num": 149773,
       "word": "洗碗机比你孝顺",
@@ -299,6 +355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 144574,
+      "num": 144574,
+      "word": "薛之谦演唱会蹲台上听歌迷清唱",
+      "onboard_time": 1684105701,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 139643,
       "num": 139643,
       "word": "没有边界感的狗狗",
@@ -308,7 +372,7 @@
     },
     {
       "raw_hot": 135720,
-      "num": 140881,
+      "num": 144850,
       "word": "熊猫妈妈用肚皮当摇篮哄娃",
       "onboard_time": 1684074451,
       "rank": 29,
@@ -331,11 +395,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 127725,
-      "num": 127725,
-      "word": "塔图姆51分",
-      "onboard_time": 1684106000,
-      "rank": 24,
+      "raw_hot": 127227,
+      "num": 127227,
+      "word": "阿森纳",
+      "onboard_time": 1684106242,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -355,28 +419,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122939,
-      "num": 122939,
-      "word": "巴萨夺得西甲冠军",
-      "onboard_time": 1684105640,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 119911,
       "num": 106319,
       "word": "莫文蔚看窦靖童的时候会不会想起王菲",
       "onboard_time": 1684071450,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115928,
-      "num": 115928,
-      "word": "薛之谦演唱会蹲台上听歌迷清唱",
-      "onboard_time": 1684105701,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 113691,
@@ -401,6 +449,14 @@
       "onboard_time": 1684039110,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105953,
+      "num": 105953,
+      "word": "这种验榴莲的方式还是头一次见",
+      "onboard_time": 1684105640,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 105833,
@@ -467,22 +523,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 88719,
-      "num": 88719,
-      "word": "演唱会为啥都在闹退票",
-      "onboard_time": 1684105399,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 86240,
-      "num": 86240,
-      "word": "黄老师否认一场直播收入百万元",
-      "onboard_time": 1684106062,
-      "rank": 36,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 83482,
       "num": 83014,
       "word": "黄景瑜一个眼神黄明昊就收敛",
@@ -491,12 +531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 65172,
-      "num": 65172,
-      "word": "于晓光陪秋瓷炫上班",
-      "onboard_time": 1684105880,
-      "rank": 43,
-      "category": "作品衍生"
+      "raw_hot": 64400,
+      "num": 64400,
+      "word": "林允儿13年前vs13年后",
+      "onboard_time": 1684107143,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 63849,
@@ -521,14 +561,6 @@
       "onboard_time": 1684082184,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57117,
-      "num": 57117,
-      "word": "这种验榴莲的方式还是头一次见",
-      "onboard_time": 1684105640,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 50631,
@@ -603,7 +635,7 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 6555,
+      "raw_hot": 8728,
       "num": 786745,
       "word": "农忙时节的田野铺开了生机勃勃的画卷",
       "onboard_time": 1684054285,

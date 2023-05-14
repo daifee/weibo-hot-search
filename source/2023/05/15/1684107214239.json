@@ -1,0 +1,410 @@
+{
+  "runTime": 1684107214239,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1154298,
+        "num": 1154298,
+        "word": "挖呀挖黄老师关闭直播间打赏",
+        "onboard_time": 1684069466,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 947661,
+        "num": 947661,
+        "word": "男子花10万块买了8套房",
+        "onboard_time": 1684074511,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8728,
+        "num": 760468,
+        "word": "农忙时节的田野铺开了生机勃勃的画卷",
+        "onboard_time": 1684054285,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1086768,
+        "num": 729093,
+        "word": "女子怀孕后发现男友已婚",
+        "onboard_time": 1684105399,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680168,
+        "num": 680168,
+        "word": "浪姐4一公观众告诉你为什么花海会输",
+        "onboard_time": 1684069227,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416128,
+        "num": 416128,
+        "word": "凯尔特人淘汰76人",
+        "onboard_time": 1684105640,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357855,
+        "num": 357855,
+        "word": "后浪扔外卖 离谱",
+        "onboard_time": 1684079068,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341211,
+        "num": 341211,
+        "word": "周杰伦演唱会以七里香结尾的原因",
+        "onboard_time": 1684072231,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 299570,
+        "num": 299570,
+        "word": "凤凰传奇是美依礼芽的榜一",
+        "onboard_time": 1684073009,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284543,
+        "num": 284543,
+        "word": "白玉兰最佳女主",
+        "onboard_time": 1684075293,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1251160,
+        "num": 281437,
+        "word": "王俊凯 扯",
+        "onboard_time": 1684074753,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1078920,
+        "num": 279697,
+        "word": "陈楚河",
+        "onboard_time": 1684078408,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 542166,
+        "num": 272415,
+        "word": "丈夫去世获赔142万公婆拒认遗腹子",
+        "onboard_time": 1684105399,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468344,
+        "num": 269231,
+        "word": "妻子举报高校丈夫出轨多位女学生",
+        "onboard_time": 1684068687,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347293,
+        "num": 267494,
+        "word": "黄老师否认一场直播收入百万元",
+        "onboard_time": 1684106062,
+        "rank": 14,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 263392,
+        "num": 263392,
+        "word": "大爷买二等座票带孙女坐一等座被赶",
+        "onboard_time": 1684059805,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238612,
+        "num": 238612,
+        "word": "秋瓷炫像是在跳我的人生",
+        "onboard_time": 1684064007,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201339,
+        "num": 201339,
+        "word": "装了个80厘米高的床",
+        "onboard_time": 1684076249,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222592,
+        "num": 201238,
+        "word": "于晓光陪秋瓷炫上班",
+        "onboard_time": 1684105880,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190029,
+        "num": 190029,
+        "word": "芭莎拍的白鹿王鹤棣",
+        "onboard_time": 1684073131,
+        "rank": 19,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 198691,
+        "num": 189721,
+        "word": "演唱会为啥都在闹退票",
+        "onboard_time": 1684105399,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188447,
+        "num": 188447,
+        "word": "哈登",
+        "onboard_time": 1684106723,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185099,
+        "num": 185099,
+        "word": "恩比德",
+        "onboard_time": 1684106484,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184699,
+        "num": 184699,
+        "word": "乌总统拒绝教皇调停俄乌冲突",
+        "onboard_time": 1684093573,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 170183,
+        "num": 170183,
+        "word": "看中医就没有隐私吗",
+        "onboard_time": 1684067068,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167532,
+        "num": 167532,
+        "word": "巴萨夺得西甲冠军",
+        "onboard_time": 1684105640,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166194,
+        "num": 166194,
+        "word": "捡到100块结果面试没通过",
+        "onboard_time": 1684071147,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155907,
+        "num": 155907,
+        "word": "塔图姆51分",
+        "onboard_time": 1684106000,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151381,
+        "num": 151381,
+        "word": "90后总裁追星蔡徐坤",
+        "onboard_time": 1684075950,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83419,
+        "num": 144850,
+        "word": "熊猫妈妈用肚皮当摇篮哄娃",
+        "onboard_time": 1684074451,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144574,
+        "num": 144574,
+        "word": "薛之谦演唱会蹲台上听歌迷清唱",
+        "onboard_time": 1684105701,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143058,
+        "num": 143058,
+        "word": "追你的人突然有对象了",
+        "onboard_time": 1684068625,
+        "rank": 31,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 140011,
+        "num": 140011,
+        "word": "吴镇宇带费曼去看周杰伦演唱会了",
+        "onboard_time": 1684078228,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135348,
+        "num": 135348,
+        "word": "一万的票隔壁唱了九千八",
+        "onboard_time": 1684059146,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127227,
+        "num": 127227,
+        "word": "阿森纳",
+        "onboard_time": 1684106242,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117367,
+        "num": 117367,
+        "word": "让孩子情绪稳定的四种物质",
+        "onboard_time": 1684080864,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113420,
+        "num": 113420,
+        "word": "记者卧底南京夫子庙暗访竹筒奶茶市场",
+        "onboard_time": 1684068086,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105953,
+        "num": 105953,
+        "word": "这种验榴莲的方式还是头一次见",
+        "onboard_time": 1684105640,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 104832,
+        "num": 104832,
+        "word": "朋友未经允许把我的榴莲开了",
+        "onboard_time": 1684066885,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 97066,
+        "num": 97066,
+        "word": "爱奇艺5月6月待播剧",
+        "onboard_time": 1684062926,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94556,
+        "num": 94556,
+        "word": "朱珠内核稳定的大女主",
+        "onboard_time": 1684072409,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82937,
+        "num": 82937,
+        "word": "网红卖崽青蛙上海落网",
+        "onboard_time": 1684039110,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82582,
+        "num": 82582,
+        "word": "莫文蔚看窦靖童的时候会不会想起王菲",
+        "onboard_time": 1684071450,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80143,
+        "num": 80143,
+        "word": "莫兰特",
+        "onboard_time": 1684066284,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77789,
+        "num": 77789,
+        "word": "白桃星座",
+        "onboard_time": 1684075590,
+        "rank": 44,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 76205,
+        "num": 76205,
+        "word": "24岁一个朋友都没有正常吗",
+        "onboard_time": 1684067125,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 71585,
+        "num": 71585,
+        "word": "杨洋mai同框",
+        "onboard_time": 1684073369,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 64400,
+        "num": 64400,
+        "word": "林允儿13年前vs13年后",
+        "onboard_time": 1684107143,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 63699,
+        "num": 63699,
+        "word": "鬼灭之刃",
+        "onboard_time": 1684077988,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 60103,
+        "num": 60103,
+        "word": "猫咪出生1个月确诊是无性别",
+        "onboard_time": 1684059327,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#母亲的爱涵养家风#"
+    }
+  }
+}
