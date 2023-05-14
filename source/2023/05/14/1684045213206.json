@@ -1,0 +1,410 @@
+{
+  "runTime": 1684045213206,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2476910,
+        "num": 2476910,
+        "word": "网红卖崽青蛙上海落网",
+        "onboard_time": 1684039110,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1816784,
+        "num": 1816784,
+        "word": "原来花海输给了吻别",
+        "onboard_time": 1684038808,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22255,
+        "num": 1539516,
+        "word": "数字化小而美里的发展活力",
+        "onboard_time": 1684034847,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1418593,
+        "num": 1418593,
+        "word": "叮叮当当甜死我了",
+        "onboard_time": 1684039828,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1343130,
+        "num": 1343130,
+        "word": "蔡少芬 生孩子都没有这么苦",
+        "onboard_time": 1684039708,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1128450,
+        "num": 1128450,
+        "word": "摊主买彩票中2千多万激动砸摊位",
+        "onboard_time": 1684038687,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1107688,
+        "num": 1107688,
+        "word": "吴倩不会wink",
+        "onboard_time": 1684041867,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 803164,
+        "num": 803164,
+        "word": "山西发生重大刑案已致7死11伤",
+        "onboard_time": 1684028727,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 522056,
+        "num": 522056,
+        "word": "女子旅游后高烧不退确诊不死癌症",
+        "onboard_time": 1684027587,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1035548,
+        "num": 520175,
+        "word": "卢靖姗太强了",
+        "onboard_time": 1684041989,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 471967,
+        "num": 471967,
+        "word": "目击者讲述7死11伤刑案嫌犯抓获画面",
+        "onboard_time": 1684042405,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 377666,
+        "num": 377666,
+        "word": "儿子开公交7旬父亲连续8年送饭",
+        "onboard_time": 1684042648,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582214,
+        "num": 376382,
+        "word": "秋瓷炫好真诚",
+        "onboard_time": 1684041028,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125086,
+        "num": 362908,
+        "word": "时光偷不走妈妈的美",
+        "onboard_time": 1684044149,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24200,
+        "num": 355939,
+        "word": "王源后台花絮",
+        "onboard_time": 1684044026,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 529351,
+        "num": 352515,
+        "word": "张嘉倪wink",
+        "onboard_time": 1684040368,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347580,
+        "num": 347580,
+        "word": "妈妈收到母亲节礼物哭着说不要",
+        "onboard_time": 1684039950,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326321,
+        "num": 326321,
+        "word": "淄博八大局 网红街",
+        "onboard_time": 1684043609,
+        "rank": 17,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 481403,
+        "num": 318770,
+        "word": "徐怀钰经纪人发文回应",
+        "onboard_time": 1684028787,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302137,
+        "num": 302137,
+        "word": "终于再见面了 海参崴港口",
+        "onboard_time": 1684041508,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398054,
+        "num": 291659,
+        "word": "郎朗说吉娜已经跳舞跳魔怔了",
+        "onboard_time": 1684038625,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480118,
+        "num": 291429,
+        "word": "浪姐一公排名",
+        "onboard_time": 1684042710,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355356,
+        "num": 285782,
+        "word": "Lisa无刘海中分造型",
+        "onboard_time": 1684042468,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 274439,
+        "num": 274439,
+        "word": "唾液含剧毒的五爪金龙现身云南",
+        "onboard_time": 1684038268,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237895,
+        "num": 237895,
+        "word": "金钟大帮助被霸凌女孩",
+        "onboard_time": 1684034247,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 348047,
+        "num": 235786,
+        "word": "范丞丞 音乐节门票",
+        "onboard_time": 1684040849,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 325249,
+        "num": 235699,
+        "word": "赵丽颖的腰臀比",
+        "onboard_time": 1684023864,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 313060,
+        "num": 235051,
+        "word": "瞿颖说李莎旻子做人太紧张了",
+        "onboard_time": 1684032207,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229480,
+        "num": 229480,
+        "word": "因为下大雨给客户撑伞转正了",
+        "onboard_time": 1684039768,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223738,
+        "num": 223738,
+        "word": "母亲节要跟后妈说节日快乐吗",
+        "onboard_time": 1684044687,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223129,
+        "num": 223129,
+        "word": "易烊千玺实体专辑预售预告",
+        "onboard_time": 1684032388,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218506,
+        "num": 218506,
+        "word": "近视的人不能吃太多甜品",
+        "onboard_time": 1684036227,
+        "rank": 31,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 201587,
+        "num": 201587,
+        "word": "李楷灿 海底捞",
+        "onboard_time": 1684028246,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185045,
+        "num": 185045,
+        "word": "张杰以为落头上的鹦鹉是蝴蝶",
+        "onboard_time": 1684041388,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174655,
+        "num": 174655,
+        "word": "母亲节",
+        "onboard_time": 1683991712,
+        "rank": 34,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 183906,
+        "num": 174630,
+        "word": "Angelababy猫女造型",
+        "onboard_time": 1684042710,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158465,
+        "num": 158465,
+        "word": "当妈后变怂的一件事",
+        "onboard_time": 1684041627,
+        "rank": 36,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 149582,
+        "num": 149582,
+        "word": "赵丽娜汪小敏双人舞 斯哈斯哈",
+        "onboard_time": 1684044867,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149060,
+        "num": 149060,
+        "word": "母亲节你会回家陪妈妈吃饭吗",
+        "onboard_time": 1684045168,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24813,
+        "num": 148092,
+        "word": "杭州街头现母亲节染发服务",
+        "onboard_time": 1684044026,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147420,
+        "num": 147420,
+        "word": "张杰演唱会",
+        "onboard_time": 1684039708,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146485,
+        "num": 146485,
+        "word": "广州一8旬老人卖房捐60万助学",
+        "onboard_time": 1684039110,
+        "rank": 41,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 142620,
+        "num": 142620,
+        "word": "初级会计",
+        "onboard_time": 1684036707,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 144371,
+        "num": 141013,
+        "word": "考个科目三把我考穷了",
+        "onboard_time": 1684031969,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135222,
+        "num": 135222,
+        "word": "吃榴莲大姨妈提前了",
+        "onboard_time": 1684031969,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135121,
+        "num": 135121,
+        "word": "吻别",
+        "onboard_time": 1684038149,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126568,
+        "num": 126568,
+        "word": "王鹤棣侯明昊周也一起拍过广告",
+        "onboard_time": 1684029986,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33355,
+        "num": 125588,
+        "word": "王者荣耀",
+        "onboard_time": 1683982951,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24011,
+        "num": 125453,
+        "word": "麻辣冷吃猪肉片",
+        "onboard_time": 1684029806,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 20365,
+        "num": 125396,
+        "word": "G2战胜MAD",
+        "onboard_time": 1684021761,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力使京津冀成为中国式现代化建设的先行区示范区#"
+    }
+  }
+}
