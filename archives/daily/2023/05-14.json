@@ -1,6 +1,6 @@
 {
   "startTime": 1683994827629,
-  "endTime": 1684077364934,
+  "endTime": 1684078407040,
   "band_list": [
     {
       "raw_hot": 3150646,
@@ -267,6 +267,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1057769,
+      "num": 1057769,
+      "word": "男子花10万块买了8套房",
+      "onboard_time": 1684074511,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1056997,
       "num": 1056997,
       "word": "金钟大帮助被霸凌女孩",
@@ -305,14 +313,6 @@
       "onboard_time": 1683987031,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 950532,
-      "num": 950532,
-      "word": "男子花10万块买了8套房",
-      "onboard_time": 1684074511,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 939443,
@@ -603,6 +603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 476871,
+      "num": 476871,
+      "word": "浪姐4一公观众告诉你为什么花海会输",
+      "onboard_time": 1684069227,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 470610,
       "num": 470610,
       "word": "泄曲",
@@ -795,14 +803,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 400511,
-      "num": 400511,
-      "word": "浪姐4一公观众告诉你为什么花海会输",
-      "onboard_time": 1684069227,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 392588,
       "num": 222618,
       "word": "芝芙可爱",
@@ -899,6 +899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 360282,
+      "num": 247786,
+      "word": "90后总裁追星蔡徐坤",
+      "onboard_time": 1684075950,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 352422,
       "num": 352422,
       "word": "淄博八大局 网红街",
@@ -937,6 +945,14 @@
       "onboard_time": 1684039950,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346852,
+      "num": 346852,
+      "word": "装了个80厘米高的床",
+      "onboard_time": 1684076249,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 342259,
@@ -1017,14 +1033,6 @@
       "onboard_time": 1683988535,
       "rank": 24,
       "category": "教育,情感"
-    },
-    {
-      "raw_hot": 320964,
-      "num": 222312,
-      "word": "90后总裁追星蔡徐坤",
-      "onboard_time": 1684075950,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 314125,
@@ -1209,14 +1217,6 @@
       "onboard_time": 1684049665,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 267237,
-      "num": 204318,
-      "word": "装了个80厘米高的床",
-      "onboard_time": 1684076249,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 266989,
@@ -1451,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220655,
+      "num": 245688,
+      "word": "熊猫妈妈用肚皮当摇篮哄娃",
+      "onboard_time": 1684074451,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219861,
       "num": 219861,
       "word": "张杰以为落头上的鹦鹉是蝴蝶",
@@ -1555,14 +1563,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 208434,
-      "num": 245688,
-      "word": "熊猫妈妈用肚皮当摇篮哄娃",
-      "onboard_time": 1684074451,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208321,
       "num": 208321,
       "word": "粉丝滤镜",
@@ -1649,6 +1649,14 @@
       "onboard_time": 1683994468,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195921,
+      "num": 195921,
+      "word": "鬼灭之刃",
+      "onboard_time": 1684077988,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 195525,
@@ -1897,6 +1905,14 @@
       "onboard_time": 1684030347,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163360,
+      "num": 147218,
+      "word": "吴镇宇带费曼去看周杰伦演唱会了",
+      "onboard_time": 1684078228,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 163188,
@@ -2328,6 +2344,14 @@
       "word": "未来10年最赚钱的7大风口",
       "onboard_time": 1684056266,
       "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 109241,
+      "num": 122924,
+      "word": "到一定年龄就会觉醒的特质",
+      "onboard_time": 1684074934,
+      "rank": 49,
       "category": "情感"
     },
     {
