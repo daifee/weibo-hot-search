@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684082134850,
+  "endTime": 1684084429002,
   "band_list": [
     {
       "raw_hot": 1933885,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 400288,
-      "num": 243010,
+      "num": 317618,
       "word": "周杰伦演唱会以七里香结尾的原因",
       "onboard_time": 1684072231,
       "rank": 20,
@@ -267,6 +267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 139643,
+      "num": 139643,
+      "word": "没有边界感的狗狗",
+      "onboard_time": 1684079909,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 135720,
       "num": 140881,
       "word": "熊猫妈妈用肚皮当摇篮哄娃",
@@ -275,20 +283,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135068,
-      "num": 135068,
-      "word": "没有边界感的狗狗",
-      "onboard_time": 1684079909,
-      "rank": 34,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 134993,
       "num": 112854,
       "word": "林允儿跳了Ditto",
       "onboard_time": 1684062746,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 127017,
+      "num": 127017,
+      "word": "阿森纳vs布莱顿",
+      "onboard_time": 1684083082,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 126877,
@@ -355,6 +363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 101239,
+      "num": 101239,
+      "word": "让孩子情绪稳定的四种物质",
+      "onboard_time": 1684080864,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 96915,
       "num": 96915,
       "word": "杰尼斯社长道歉",
@@ -371,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 92079,
+      "num": 92079,
+      "word": "杨幂的打戏",
+      "onboard_time": 1684082542,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 89343,
       "num": 95424,
       "word": "elk状态",
@@ -379,12 +403,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 70085,
-      "num": 86617,
-      "word": "让孩子情绪稳定的四种物质",
-      "onboard_time": 1684080864,
-      "rank": 48,
-      "category": "情感"
+      "raw_hot": 83482,
+      "num": 71317,
+      "word": "黄景瑜一个眼神黄明昊就收敛",
+      "onboard_time": 1684083380,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 63849,
@@ -400,6 +424,14 @@
       "word": "女儿偷偷买票帮60岁妈妈追星",
       "onboard_time": 1684055064,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59642,
+      "num": 59642,
+      "word": "7岁内蒙古女孩一牵缰绳眼神都变了",
+      "onboard_time": 1684082184,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
