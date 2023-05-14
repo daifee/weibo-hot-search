@@ -1,6 +1,6 @@
 {
   "startTime": 1683994827629,
-  "endTime": 1684052352918,
+  "endTime": 1684053210361,
   "band_list": [
     {
       "raw_hot": 2836350,
@@ -35,20 +35,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1705154,
+      "num": 1705154,
+      "word": "浪姐一公淘汰名单",
+      "onboard_time": 1684047387,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1664302,
       "num": 486841,
       "word": "张馨予 有个牌子衣服大号都穿不上",
       "onboard_time": 1684046067,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1662163,
-      "num": 1662163,
-      "word": "浪姐一公淘汰名单",
-      "onboard_time": 1684047387,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 1638942,
@@ -131,7 +131,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1224528,
+      "raw_hot": 1262126,
       "num": 1224528,
       "word": "卢靖姗太强了",
       "onboard_time": 1684041989,
@@ -289,6 +289,14 @@
       "onboard_time": 1683989913,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 639494,
+      "num": 411948,
+      "word": "王艳儿子近照",
+      "onboard_time": 1684052064,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 612246,
@@ -563,6 +571,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 352203,
+      "num": 213402,
+      "word": "徐怀钰 回忆杀",
+      "onboard_time": 1684042827,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350774,
       "num": 350774,
       "word": "林孝埈",
@@ -617,14 +633,6 @@
       "onboard_time": 1683994468,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 326222,
-      "num": 197953,
-      "word": "徐怀钰 回忆杀",
-      "onboard_time": 1684042827,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 325769,
@@ -747,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276066,
+      "num": 211260,
+      "word": "母亲节发现被妈妈拉黑了",
+      "onboard_time": 1684051526,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 271032,
       "num": 271032,
       "word": "拿到拆迁款前几天人去世了",
@@ -755,12 +771,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268004,
+      "num": 268004,
+      "word": "男子开车60公里瞒着母亲突然回家",
+      "onboard_time": 1684049665,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266989,
-      "num": 189873,
+      "num": 204510,
       "word": "抓住妈妈就是抓住了世界",
       "onboard_time": 1684052009,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 266088,
+      "num": 174595,
+      "word": "这句得亏是芝芙唱",
+      "onboard_time": 1684051407,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 262189,
@@ -793,14 +825,6 @@
       "onboard_time": 1684022002,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257598,
-      "num": 174595,
-      "word": "这句得亏是芝芙唱",
-      "onboard_time": 1684051407,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 257494,
@@ -851,14 +875,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 240266,
-      "num": 184135,
-      "word": "母亲节发现被妈妈拉黑了",
-      "onboard_time": 1684051526,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 240204,
       "num": 240204,
       "word": "母亲节文案",
@@ -899,14 +915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231770,
-      "num": 231770,
-      "word": "男子开车60公里瞒着母亲突然回家",
-      "onboard_time": 1684049665,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 231634,
       "num": 231634,
       "word": "王源让大家正经一点",
@@ -945,6 +953,14 @@
       "onboard_time": 1684019657,
       "rank": 7,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 218318,
+      "num": 164504,
+      "word": "吴磊赵今麦机场拥抱路透",
+      "onboard_time": 1684050867,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 217861,
@@ -995,12 +1011,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212954,
-      "num": 164504,
-      "word": "吴磊赵今麦机场拥抱路透",
-      "onboard_time": 1684050867,
-      "rank": 32,
-      "category": "作品衍生"
+      "raw_hot": 214486,
+      "num": 214486,
+      "word": "山西重大刑案一出警人员被撞成重伤",
+      "onboard_time": 1684047329,
+      "rank": 35,
+      "category": "社会负面"
     },
     {
       "raw_hot": 212811,
@@ -1025,14 +1041,6 @@
       "onboard_time": 1684040547,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 206325,
-      "num": 206325,
-      "word": "山西重大刑案一出警人员被撞成重伤",
-      "onboard_time": 1684047329,
-      "rank": 35,
-      "category": "社会负面"
     },
     {
       "raw_hot": 205939,
@@ -1129,14 +1137,6 @@
       "onboard_time": 1684041330,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 185516,
-      "num": 158474,
-      "word": "王艳儿子近照",
-      "onboard_time": 1684052064,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 181391,
@@ -1643,6 +1643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 86580,
+      "num": 379800,
+      "word": "马斯克说什么是最好的母爱",
+      "onboard_time": 1684050446,
+      "rank": 13,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 80030,
       "num": 110677,
       "word": "王嘉尔新加坡时装五月刊封面",
@@ -1651,12 +1659,12 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 74205,
-      "num": 379800,
-      "word": "马斯克说什么是最好的母爱",
-      "onboard_time": 1684050446,
-      "rank": 13,
-      "category": "社会新闻,科技"
+      "raw_hot": 75870,
+      "num": 115092,
+      "word": "台芒冰淇淋",
+      "onboard_time": 1684052486,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 68530,
@@ -1716,7 +1724,7 @@
     },
     {
       "raw_hot": 61375,
-      "num": 110570,
+      "num": 112775,
       "word": "海拉鲁军备竞赛",
       "onboard_time": 1684049186,
       "rank": 47,
@@ -1729,6 +1737,14 @@
       "onboard_time": 1684029806,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 52559,
+      "num": 114411,
+      "word": "白夜极光定档",
+      "onboard_time": 1684049007,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 51438,
@@ -1753,14 +1769,6 @@
       "onboard_time": 1684001836,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 48964,
-      "num": 106825,
-      "word": "白夜极光定档",
-      "onboard_time": 1684049007,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 46891,

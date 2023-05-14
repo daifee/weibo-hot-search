@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1684052352918,
+  "endTime": 1684053210361,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -795,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1705154,
+      "num": 1705154,
+      "word": "浪姐一公淘汰名单",
+      "onboard_time": 1684047387,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1700400,
       "num": 472699,
       "word": "被曝性侵郑大教授否认性侵和PUA",
@@ -825,14 +833,6 @@
       "onboard_time": 1684046067,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1662163,
-      "num": 1662163,
-      "word": "浪姐一公淘汰名单",
-      "onboard_time": 1684047387,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 1656100,
@@ -1563,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1262126,
+      "num": 1224528,
+      "word": "卢靖姗太强了",
+      "onboard_time": 1684041989,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1259727,
       "num": 1259727,
       "word": "刘雅瑟 油",
@@ -1609,14 +1617,6 @@
       "onboard_time": 1683530312,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1224528,
-      "num": 1224528,
-      "word": "卢靖姗太强了",
-      "onboard_time": 1684041989,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 1220883,
@@ -3168,6 +3168,14 @@
       "word": "洪欣在评论区的留言",
       "onboard_time": 1683966628,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 639494,
+      "num": 411948,
+      "word": "王艳儿子近照",
+      "onboard_time": 1684052064,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -6179,6 +6187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 352203,
+      "num": 213402,
+      "word": "徐怀钰 回忆杀",
+      "onboard_time": 1684042827,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351674,
       "num": 351674,
       "word": "成都一运渣车将一老人碾压身亡",
@@ -6720,14 +6736,6 @@
       "word": "向往的生活",
       "onboard_time": 1683889889,
       "rank": 19,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 326222,
-      "num": 197953,
-      "word": "徐怀钰 回忆杀",
-      "onboard_time": 1684042827,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -7987,6 +7995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 276066,
+      "num": 211260,
+      "word": "母亲节发现被妈妈拉黑了",
+      "onboard_time": 1684051526,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 275963,
       "num": 275963,
       "word": "淄博一小区为外卖员配专用单车",
@@ -8211,6 +8227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268004,
+      "num": 268004,
+      "word": "男子开车60公里瞒着母亲突然回家",
+      "onboard_time": 1684049665,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267721,
       "num": 267721,
       "word": "苹果客服回应女生手机隔空收到不雅照",
@@ -8236,7 +8260,7 @@
     },
     {
       "raw_hot": 266989,
-      "num": 189873,
+      "num": 204510,
       "word": "抓住妈妈就是抓住了世界",
       "onboard_time": 1684052009,
       "rank": 23,
@@ -8248,6 +8272,14 @@
       "word": "琳芽之旅 龚美呐赛",
       "onboard_time": 1683509609,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 266088,
+      "num": 174595,
+      "word": "这句得亏是芝芙唱",
+      "onboard_time": 1684051407,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -8529,14 +8561,6 @@
       "onboard_time": 1683864207,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 257598,
-      "num": 174595,
-      "word": "这句得亏是芝芙唱",
-      "onboard_time": 1684051407,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 257525,
@@ -9099,14 +9123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 240266,
-      "num": 184135,
-      "word": "母亲节发现被妈妈拉黑了",
-      "onboard_time": 1684051526,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 240204,
       "num": 240204,
       "word": "母亲节文案",
@@ -9473,14 +9489,6 @@
       "onboard_time": 1683506428,
       "rank": 35,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 231770,
-      "num": 231770,
-      "word": "男子开车60公里瞒着母亲突然回家",
-      "onboard_time": 1684049665,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231618,
@@ -9891,6 +9899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218318,
+      "num": 164504,
+      "word": "吴磊赵今麦机场拥抱路透",
+      "onboard_time": 1684050867,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 218074,
       "num": 218074,
       "word": "一念关山首支预告",
@@ -10059,6 +10075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 214486,
+      "num": 214486,
+      "word": "山西重大刑案一出警人员被撞成重伤",
+      "onboard_time": 1684047329,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 214094,
       "num": 214094,
       "word": "Steam禁止开小号欺凌初级玩家",
@@ -10097,14 +10121,6 @@
       "onboard_time": 1683594570,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212954,
-      "num": 164504,
-      "word": "吴磊赵今麦机场拥抱路透",
-      "onboard_time": 1684050867,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 212878,
@@ -10393,14 +10409,6 @@
       "onboard_time": 1683968190,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 206325,
-      "num": 206325,
-      "word": "山西重大刑案一出警人员被撞成重伤",
-      "onboard_time": 1684047329,
-      "rank": 35,
-      "category": "社会负面"
     },
     {
       "raw_hot": 205939,
@@ -11281,14 +11289,6 @@
       "onboard_time": 1683710369,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 185516,
-      "num": 158474,
-      "word": "王艳儿子近照",
-      "onboard_time": 1684052064,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 185154,
@@ -13923,6 +13923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 86580,
+      "num": 379800,
+      "word": "马斯克说什么是最好的母爱",
+      "onboard_time": 1684050446,
+      "rank": 13,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 86517,
       "num": 86517,
       "word": "白鹿片场唱我结婚了",
@@ -14075,6 +14083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 75870,
+      "num": 115092,
+      "word": "台芒冰淇淋",
+      "onboard_time": 1684052486,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 75057,
       "num": 75057,
       "word": "赵露思后浪剧组氛围大师",
@@ -14089,14 +14105,6 @@
       "onboard_time": 1683878608,
       "rank": 48,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 74205,
-      "num": 379800,
-      "word": "马斯克说什么是最好的母爱",
-      "onboard_time": 1684050446,
-      "rank": 13,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 73272,
@@ -14292,7 +14300,7 @@
     },
     {
       "raw_hot": 61375,
-      "num": 110570,
+      "num": 112775,
       "word": "海拉鲁军备竞赛",
       "onboard_time": 1684049186,
       "rank": 47,
@@ -14335,6 +14343,14 @@
       "num": 127123,
       "word": "呀哈哈做错了什么",
       "onboard_time": 1683936326,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 52559,
+      "num": 114411,
+      "word": "白夜极光定档",
+      "onboard_time": 1684049007,
       "rank": 48,
       "category": "游戏"
     },
@@ -14385,14 +14401,6 @@
       "onboard_time": 1684001836,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 48964,
-      "num": 106825,
-      "word": "白夜极光定档",
-      "onboard_time": 1684049007,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 47716,
