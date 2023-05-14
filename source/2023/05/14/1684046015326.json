@@ -1,0 +1,410 @@
+{
+  "runTime": 1684046015326,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2365685,
+        "num": 2365685,
+        "word": "网红卖崽青蛙上海落网",
+        "onboard_time": 1684039110,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1755836,
+        "num": 1755836,
+        "word": "原来花海输给了吻别",
+        "onboard_time": 1684038808,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21836,
+        "num": 1428506,
+        "word": "数字化小而美里的发展活力",
+        "onboard_time": 1684034847,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1419655,
+        "num": 1419655,
+        "word": "蔡少芬 生孩子都没有这么苦",
+        "onboard_time": 1684039708,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1184301,
+        "num": 1184301,
+        "word": "卢靖姗太强了",
+        "onboard_time": 1684041989,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 969487,
+        "num": 969487,
+        "word": "摊主买彩票中2千多万激动砸摊位",
+        "onboard_time": 1684038687,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 838711,
+        "num": 838711,
+        "word": "山西发生重大刑案已致7死11伤",
+        "onboard_time": 1684028727,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1124807,
+        "num": 749908,
+        "word": "吴倩不会wink",
+        "onboard_time": 1684041867,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 507370,
+        "num": 507370,
+        "word": "女子旅游后高烧不退确诊不死癌症",
+        "onboard_time": 1684027587,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413699,
+        "num": 413699,
+        "word": "儿子开公交7旬父亲连续8年送饭",
+        "onboard_time": 1684042648,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48443,
+        "num": 371379,
+        "word": "时光偷不走妈妈的美",
+        "onboard_time": 1684044149,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1114670,
+        "num": 365377,
+        "word": "叮叮当当甜死我了",
+        "onboard_time": 1684039828,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 492112,
+        "num": 360180,
+        "word": "目击者讲述7死11伤刑案嫌犯抓获画面",
+        "onboard_time": 1684042405,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 352422,
+        "num": 352422,
+        "word": "淄博八大局 网红街",
+        "onboard_time": 1684043609,
+        "rank": 13,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 27111,
+        "num": 332579,
+        "word": "王源后台花絮",
+        "onboard_time": 1684044026,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 598028,
+        "num": 332478,
+        "word": "秋瓷炫好真诚",
+        "onboard_time": 1684041028,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330131,
+        "num": 330131,
+        "word": "妈妈收到母亲节礼物哭着说不要",
+        "onboard_time": 1684039950,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300615,
+        "num": 300615,
+        "word": "终于再见面了 海参崴港口",
+        "onboard_time": 1684041508,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568348,
+        "num": 298899,
+        "word": "浪姐一公排名",
+        "onboard_time": 1684042710,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290123,
+        "num": 290123,
+        "word": "母亲节要跟后妈说节日快乐吗",
+        "onboard_time": 1684044687,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 378462,
+        "num": 281891,
+        "word": "Lisa无刘海中分造型",
+        "onboard_time": 1684042468,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 428367,
+        "num": 279756,
+        "word": "张嘉倪wink",
+        "onboard_time": 1684040368,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359928,
+        "num": 275104,
+        "word": "花海舞台",
+        "onboard_time": 1684026746,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268091,
+        "num": 268091,
+        "word": "唾液含剧毒的五爪金龙现身云南",
+        "onboard_time": 1684038268,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413391,
+        "num": 259015,
+        "word": "徐怀钰经纪人发文回应",
+        "onboard_time": 1684028787,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325306,
+        "num": 251188,
+        "word": "范丞丞 音乐节门票",
+        "onboard_time": 1684040849,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 290672,
+        "num": 243452,
+        "word": "赵丽颖的腰臀比",
+        "onboard_time": 1684023864,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 270667,
+        "num": 228281,
+        "word": "瞿颖说李莎旻子做人太紧张了",
+        "onboard_time": 1684032207,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225452,
+        "num": 225452,
+        "word": "近视的人不能吃太多甜品",
+        "onboard_time": 1684036227,
+        "rank": 28,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 208545,
+        "num": 208545,
+        "word": "因为下大雨给客户撑伞转正了",
+        "onboard_time": 1684039768,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202066,
+        "num": 202066,
+        "word": "易烊千玺实体专辑预售预告",
+        "onboard_time": 1684032388,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192498,
+        "num": 192498,
+        "word": "Angelababy猫女造型",
+        "onboard_time": 1684042710,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189247,
+        "num": 189247,
+        "word": "张杰以为落头上的鹦鹉是蝴蝶",
+        "onboard_time": 1684041388,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161275,
+        "num": 161275,
+        "word": "金钟大帮助被霸凌女孩",
+        "onboard_time": 1684034247,
+        "rank": 33,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 147938,
+        "num": 147938,
+        "word": "母亲节",
+        "onboard_time": 1683991712,
+        "rank": 34,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 149771,
+        "num": 146235,
+        "word": "李楷灿 海底捞",
+        "onboard_time": 1684028246,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139945,
+        "num": 139945,
+        "word": "当妈后变怂的一件事",
+        "onboard_time": 1684041627,
+        "rank": 36,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 133928,
+        "num": 133928,
+        "word": "好怕Ella亲上去",
+        "onboard_time": 1684045708,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129950,
+        "num": 129950,
+        "word": "考个科目三把我考穷了",
+        "onboard_time": 1684031969,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27923,
+        "num": 128692,
+        "word": "杭州街头现母亲节染发服务",
+        "onboard_time": 1684044026,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128592,
+        "num": 128592,
+        "word": "母亲节送咱妈的蛋糕有多离谱",
+        "onboard_time": 1684036886,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 126876,
+        "num": 126876,
+        "word": "王鹤棣侯明昊周也一起拍过广告",
+        "onboard_time": 1684029986,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126520,
+        "num": 126520,
+        "word": "吃榴莲大姨妈提前了",
+        "onboard_time": 1684031969,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126047,
+        "num": 126047,
+        "word": "孙悦好稳",
+        "onboard_time": 1684045646,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125258,
+        "num": 125258,
+        "word": "小伙免费为十几位化疗病人送假发",
+        "onboard_time": 1684045889,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123423,
+        "num": 123423,
+        "word": "初级会计",
+        "onboard_time": 1684036707,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 118651,
+        "num": 118651,
+        "word": "母亲节你会回家陪妈妈吃饭吗",
+        "onboard_time": 1684045168,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36775,
+        "num": 118060,
+        "word": "王者荣耀",
+        "onboard_time": 1683982951,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27589,
+        "num": 117318,
+        "word": "麻辣冷吃猪肉片",
+        "onboard_time": 1684029806,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 19570,
+        "num": 116823,
+        "word": "G2战胜MAD",
+        "onboard_time": 1684021761,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#母亲的爱涵养家风#"
+    }
+  }
+}

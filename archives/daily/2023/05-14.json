@@ -1,6 +1,6 @@
 {
   "startTime": 1683994827629,
-  "endTime": 1684045213206,
+  "endTime": 1684046015326,
   "band_list": [
     {
       "raw_hot": 2836350,
@@ -83,20 +83,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1419655,
+      "num": 1419655,
+      "word": "蔡少芬 生孩子都没有这么苦",
+      "onboard_time": 1684039708,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1352656,
       "num": 1352656,
       "word": "王俊凯去香港看周杰伦",
       "onboard_time": 1683986013,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1343130,
-      "num": 1343130,
-      "word": "蔡少芬 生孩子都没有这么苦",
-      "onboard_time": 1684039708,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 1304241,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1184301,
+      "num": 1184301,
+      "word": "卢靖姗太强了",
+      "onboard_time": 1684041989,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1139109,
       "num": 1139109,
       "word": "母亲节",
@@ -123,7 +131,7 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 1107688,
+      "raw_hot": 1124807,
       "num": 1107688,
       "word": "吴倩不会wink",
       "onboard_time": 1684041867,
@@ -153,14 +161,6 @@
       "onboard_time": 1684034247,
       "rank": 9,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1035548,
-      "num": 520175,
-      "word": "卢靖姗太强了",
-      "onboard_time": 1684041989,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 987160,
@@ -267,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 598028,
+      "num": 376382,
+      "word": "秋瓷炫好真诚",
+      "onboard_time": 1684041028,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 583561,
       "num": 583561,
       "word": "佳人可惜了",
@@ -275,11 +283,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 582214,
-      "num": 376382,
-      "word": "秋瓷炫好真诚",
-      "onboard_time": 1684041028,
-      "rank": 30,
+      "raw_hot": 568348,
+      "num": 298899,
+      "word": "浪姐一公排名",
+      "onboard_time": 1684042710,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -323,6 +331,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 492112,
+      "num": 471967,
+      "word": "目击者讲述7死11伤刑案嫌犯抓获画面",
+      "onboard_time": 1684042405,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 487134,
       "num": 487134,
       "word": "加班的同事 叫你上班别玩手机",
@@ -331,28 +347,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 480118,
-      "num": 291429,
-      "word": "浪姐一公排名",
-      "onboard_time": 1684042710,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 480069,
       "num": 324769,
       "word": "赵露思 瘦而不柴",
       "onboard_time": 1683975149,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 471967,
-      "num": 471967,
-      "word": "目击者讲述7死11伤刑案嫌犯抓获画面",
-      "onboard_time": 1684042405,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 452023,
@@ -411,8 +411,16 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 413699,
+      "num": 413699,
+      "word": "儿子开公交7旬父亲连续8年送饭",
+      "onboard_time": 1684042648,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412695,
-      "num": 235786,
+      "num": 251188,
       "word": "范丞丞 音乐节门票",
       "onboard_time": 1684040849,
       "rank": 26,
@@ -459,12 +467,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 377666,
-      "num": 377666,
-      "word": "儿子开公交7旬父亲连续8年送饭",
-      "onboard_time": 1684042648,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 378462,
+      "num": 285782,
+      "word": "Lisa无刘海中分造型",
+      "onboard_time": 1684042468,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 377187,
@@ -491,12 +499,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 355356,
-      "num": 285782,
-      "word": "Lisa无刘海中分造型",
-      "onboard_time": 1684042468,
-      "rank": 22,
-      "category": "音乐"
+      "raw_hot": 352422,
+      "num": 352422,
+      "word": "淄博八大局 网红街",
+      "onboard_time": 1684043609,
+      "rank": 17,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 350774,
@@ -553,14 +561,6 @@
       "onboard_time": 1683994468,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 326321,
-      "num": 326321,
-      "word": "淄博八大局 网红街",
-      "onboard_time": 1684043609,
-      "rank": 17,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 325769,
@@ -641,6 +641,14 @@
       "onboard_time": 1684024345,
       "rank": 19,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 290123,
+      "num": 290123,
+      "word": "母亲节要跟后妈说节日快乐吗",
+      "onboard_time": 1684044687,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 286945,
@@ -795,14 +803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223738,
-      "num": 223738,
-      "word": "母亲节要跟后妈说节日快乐吗",
-      "onboard_time": 1684044687,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 219861,
       "num": 219861,
       "word": "张杰以为落头上的鹦鹉是蝴蝶",
@@ -947,6 +947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 192498,
+      "num": 192498,
+      "word": "Angelababy猫女造型",
+      "onboard_time": 1684042710,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191569,
       "num": 191569,
       "word": "乘风声明微博评论区",
@@ -969,14 +977,6 @@
       "onboard_time": 1684041330,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 183906,
-      "num": 174630,
-      "word": "Angelababy猫女造型",
-      "onboard_time": 1684042710,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 181391,
@@ -1267,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133928,
+      "num": 133928,
+      "word": "好怕Ella亲上去",
+      "onboard_time": 1684045708,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131936,
       "num": 131936,
       "word": "母亲节表情包",
@@ -1291,8 +1299,24 @@
       "category": "游戏,美妆"
     },
     {
+      "raw_hot": 126047,
+      "num": 126047,
+      "word": "孙悦好稳",
+      "onboard_time": 1684045646,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 125258,
+      "num": 125258,
+      "word": "小伙免费为十几位化疗病人送假发",
+      "onboard_time": 1684045889,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125086,
-      "num": 362908,
+      "num": 371379,
       "word": "时光偷不走妈妈的美",
       "onboard_time": 1684044149,
       "rank": 13,
@@ -1539,7 +1563,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 24813,
+      "raw_hot": 27923,
       "num": 148092,
       "word": "杭州街头现母亲节染发服务",
       "onboard_time": 1684044026,
@@ -1547,7 +1571,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24200,
+      "raw_hot": 27111,
       "num": 355939,
       "word": "王源后台花絮",
       "onboard_time": 1684044026,
