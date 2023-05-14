@@ -1,21 +1,37 @@
 {
   "startTime": 1683994827629,
-  "endTime": 1684029059938,
+  "endTime": 1684031681219,
   "band_list": [
+    {
+      "raw_hot": 1974274,
+      "num": 1974274,
+      "word": "山西发生重大刑案已致7死11伤",
+      "onboard_time": 1684028727,
+      "rank": 27,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 1848081,
+      "num": 1848081,
+      "word": "徐怀钰 三公",
+      "onboard_time": 1684020799,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1638942,
+      "num": 1638942,
+      "word": "女子旅游后高烧不退确诊不死癌症",
+      "onboard_time": 1684027587,
+      "rank": 39,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1598965,
       "num": 1598965,
       "word": "浪姐4回应",
       "onboard_time": 1683991174,
       "rank": 0,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1595761,
-      "num": 1595761,
-      "word": "徐怀钰 三公",
-      "onboard_time": 1684020799,
-      "rank": 46,
       "category": "综艺"
     },
     {
@@ -35,14 +51,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1380446,
-      "num": 385315,
-      "word": "女子旅游后高烧不退确诊不死癌症",
-      "onboard_time": 1684027587,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1352656,
       "num": 1352656,
       "word": "王俊凯去香港看周杰伦",
@@ -57,6 +65,14 @@
       "onboard_time": 1684023864,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1220762,
+      "num": 1220762,
+      "word": "徐怀钰经纪人发文回应",
+      "onboard_time": 1684028787,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 1139109,
@@ -115,6 +131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 826702,
+      "num": 490987,
+      "word": "李楷灿 海底捞",
+      "onboard_time": 1684028246,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 822704,
       "num": 822704,
       "word": "颜九再回应",
@@ -124,7 +148,7 @@
     },
     {
       "raw_hot": 780554,
-      "num": 369021,
+      "num": 442819,
       "word": "山西吕梁市突发车祸致多人被撞",
       "onboard_time": 1684024464,
       "rank": 10,
@@ -155,28 +179,12 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 515466,
-      "num": 300490,
-      "word": "徐怀钰经纪人发文回应",
-      "onboard_time": 1684028787,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 511879,
       "num": 511879,
       "word": "王俊凯周杰伦合唱雨下一整晚",
       "onboard_time": 1683990272,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 507167,
-      "num": 311380,
-      "word": "李楷灿 海底捞",
-      "onboard_time": 1684028246,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 480069,
@@ -188,11 +196,19 @@
     },
     {
       "raw_hot": 452023,
-      "num": 293708,
+      "num": 392131,
       "word": "高碧吐了 一字马是常见的舞蹈动作",
       "onboard_time": 1684026866,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 446196,
+      "num": 446196,
+      "word": "江苏人真的没有夜生活吗",
+      "onboard_time": 1684028907,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 424996,
@@ -203,12 +219,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 406453,
+      "num": 406453,
+      "word": "原来芭莎也没有错过侯明昊周也",
+      "onboard_time": 1684029266,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 402351,
       "num": 324495,
       "word": "侯明昊回应裤子透光",
       "onboard_time": 1683987392,
       "rank": 16,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 391619,
+      "num": 391619,
+      "word": "母亲节红包",
+      "onboard_time": 1684030166,
+      "rank": 17,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 389376,
@@ -283,6 +315,22 @@
       "category": "体育,音乐"
     },
     {
+      "raw_hot": 306456,
+      "num": 306456,
+      "word": "给妈妈的备注是什么",
+      "onboard_time": 1684029986,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 301237,
+      "num": 301237,
+      "word": "后浪今日开播",
+      "onboard_time": 1684030227,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 300816,
       "num": 300816,
       "word": "伊戈达拉退役",
@@ -307,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286820,
+      "num": 286820,
+      "word": "原来在北京还能这么过母亲节",
+      "onboard_time": 1683994049,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279954,
       "num": 279954,
       "word": "蔡天凤家属拟用3D技术修复其遗体",
@@ -320,14 +376,6 @@
       "word": "拿到拆迁款前几天人去世了",
       "onboard_time": 1683977367,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 267837,
-      "num": 267837,
-      "word": "原来在北京还能这么过母亲节",
-      "onboard_time": 1683994049,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -363,12 +411,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 244562,
-      "num": 244562,
-      "word": "山西发生重大刑案已致7死11伤",
-      "onboard_time": 1684028727,
+      "raw_hot": 247497,
+      "num": 247497,
+      "word": "还妈妈一个清净",
+      "onboard_time": 1684031065,
       "rank": 27,
-      "category": "社会负面"
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244795,
+      "num": 244795,
+      "word": "韩庚晒照祝妈妈老婆母亲节快乐",
+      "onboard_time": 1684030886,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 242707,
@@ -467,12 +523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212010,
-      "num": 212010,
-      "word": "江苏人真的没有夜生活吗",
-      "onboard_time": 1684028907,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 213950,
+      "num": 213950,
+      "word": "Amber当曾可妮的面说烦死她了",
+      "onboard_time": 1684030947,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 210848,
@@ -489,6 +545,14 @@
       "onboard_time": 1683996745,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205302,
+      "num": 205302,
+      "word": "母亲节没送礼物就是不孝顺吗",
+      "onboard_time": 1684029507,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 200736,
@@ -531,12 +595,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191320,
+      "num": 191320,
+      "word": "室友拍下盲人女博士努力学习的模样",
+      "onboard_time": 1684031065,
+      "rank": 34,
+      "category": "社会正能量,教育"
+    },
+    {
       "raw_hot": 181391,
       "num": 225193,
       "word": "Fly没有求婚",
       "onboard_time": 1683988113,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 177346,
+      "num": 177346,
+      "word": "教资面试",
+      "onboard_time": 1684029686,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 176127,
@@ -563,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173573,
+      "num": 173573,
+      "word": "王鹤棣侯明昊周也一起拍过广告",
+      "onboard_time": 1684029986,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 173112,
       "num": 173112,
       "word": "母亲节送什么",
@@ -579,12 +667,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166220,
+      "num": 166220,
+      "word": "分手后再遇到前任你会说什么",
+      "onboard_time": 1684029868,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 164634,
       "num": 135473,
       "word": "谢娜 用力过猛",
       "onboard_time": 1683956190,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163811,
+      "num": 163811,
+      "word": "太阳解雇蒙蒂",
+      "onboard_time": 1684030347,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 162815,
@@ -603,6 +707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 159772,
+      "num": 159772,
+      "word": "漫长的季节",
+      "onboard_time": 1684028848,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 153521,
       "num": 153521,
       "word": "女顾客称因不想续卡遭三名店员围殴",
@@ -611,20 +723,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151254,
-      "num": 151254,
-      "word": "漫长的季节",
-      "onboard_time": 1684028848,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 148263,
       "num": 148263,
       "word": "拜仁vs沙尔克",
       "onboard_time": 1683994289,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148006,
+      "num": 148006,
+      "word": "吴宗宪的第四个女儿",
+      "onboard_time": 1684029926,
+      "rank": 45,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 145944,
@@ -732,7 +844,7 @@
     },
     {
       "raw_hot": 112095,
-      "num": 140102,
+      "num": 144342,
       "word": "动物园回应私自打印游客照售卖",
       "onboard_time": 1684018336,
       "rank": 34,
@@ -811,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65234,
+      "num": 391739,
+      "word": "怎样才算真正的解放双手",
+      "onboard_time": 1684029926,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64840,
       "num": 64840,
       "word": "辽宁男篮赢下冠军点",
@@ -820,7 +940,7 @@
     },
     {
       "raw_hot": 63133,
-      "num": 139801,
+      "num": 143531,
       "word": "G2战胜MAD",
       "onboard_time": 1684021761,
       "rank": 48,
@@ -833,6 +953,14 @@
       "onboard_time": 1684003213,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53265,
+      "num": 143208,
+      "word": "麻辣冷吃猪肉片",
+      "onboard_time": 1684029806,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 51438,
@@ -892,7 +1020,7 @@
     },
     {
       "raw_hot": 7979,
-      "num": 1379002,
+      "num": 1730301,
       "word": "关注2023中国中亚五国峰会",
       "onboard_time": 1683966509,
       "rank": 2,

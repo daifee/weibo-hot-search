@@ -1,0 +1,410 @@
+{
+  "runTime": 1684031681219,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1974274,
+        "num": 1974274,
+        "word": "山西发生重大刑案已致7死11伤",
+        "onboard_time": 1684028727,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1848081,
+        "num": 1848081,
+        "word": "徐怀钰 三公",
+        "onboard_time": 1684020799,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 5517,
+        "num": 1730301,
+        "word": "关注2023中国中亚五国峰会",
+        "onboard_time": 1683966509,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1638942,
+        "num": 1638942,
+        "word": "女子旅游后高烧不退确诊不死癌症",
+        "onboard_time": 1684027587,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1220762,
+        "num": 1220762,
+        "word": "徐怀钰经纪人发文回应",
+        "onboard_time": 1684028787,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 872953,
+        "num": 872953,
+        "word": "母亲节",
+        "onboard_time": 1683991712,
+        "rank": 5,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 855932,
+        "num": 855932,
+        "word": "更心疼刘美含了",
+        "onboard_time": 1684019117,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1259261,
+        "num": 810962,
+        "word": "赵丽颖的腰臀比",
+        "onboard_time": 1684023864,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 678608,
+        "num": 678608,
+        "word": "和博士约会接吻后当晚被删了",
+        "onboard_time": 1683984990,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 515343,
+        "num": 515343,
+        "word": "疑似美依礼芽翻译炒CP",
+        "onboard_time": 1683987031,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 826702,
+        "num": 490987,
+        "word": "李楷灿 海底捞",
+        "onboard_time": 1684028246,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446196,
+        "num": 446196,
+        "word": "江苏人真的没有夜生活吗",
+        "onboard_time": 1684028907,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 458287,
+        "num": 445536,
+        "word": "浪姐4回应",
+        "onboard_time": 1683991174,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442819,
+        "num": 442819,
+        "word": "山西吕梁市突发车祸致多人被撞",
+        "onboard_time": 1684024464,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406453,
+        "num": 406453,
+        "word": "原来芭莎也没有错过侯明昊周也",
+        "onboard_time": 1684029266,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 392131,
+        "num": 392131,
+        "word": "高碧吐了 一字马是常见的舞蹈动作",
+        "onboard_time": 1684026866,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65234,
+        "num": 391739,
+        "word": "怎样才算真正的解放双手",
+        "onboard_time": 1684029926,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391619,
+        "num": 391619,
+        "word": "母亲节红包",
+        "onboard_time": 1684030166,
+        "rank": 17,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 607553,
+        "num": 385986,
+        "word": "00后女孩离职旅行存款却越变越多",
+        "onboard_time": 1684018877,
+        "rank": 18,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 374221,
+        "num": 374221,
+        "word": "官方通报山西兴县重大刑案",
+        "onboard_time": 1684022482,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 319321,
+        "num": 319321,
+        "word": "梅西被嘘",
+        "onboard_time": 1684026205,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306456,
+        "num": 306456,
+        "word": "给妈妈的备注是什么",
+        "onboard_time": 1684029986,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 301237,
+        "num": 301237,
+        "word": "后浪今日开播",
+        "onboard_time": 1684030227,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299281,
+        "num": 299281,
+        "word": "温精灵",
+        "onboard_time": 1683989913,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 286820,
+        "num": 286820,
+        "word": "原来在北京还能这么过母亲节",
+        "onboard_time": 1683994049,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256407,
+        "num": 256407,
+        "word": "她有种不在国内的自信",
+        "onboard_time": 1683991534,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252535,
+        "num": 252535,
+        "word": "伊戈达拉退役",
+        "onboard_time": 1684026626,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247497,
+        "num": 247497,
+        "word": "还妈妈一个清净",
+        "onboard_time": 1684031065,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244795,
+        "num": 244795,
+        "word": "韩庚晒照祝妈妈老婆母亲节快乐",
+        "onboard_time": 1684030886,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225944,
+        "num": 225944,
+        "word": "男子随防盗窗一起从6楼坠落身亡",
+        "onboard_time": 1684022002,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213950,
+        "num": 213950,
+        "word": "Amber当曾可妮的面说烦死她了",
+        "onboard_time": 1684030947,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211330,
+        "num": 211330,
+        "word": "母亲节文案",
+        "onboard_time": 1684019117,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205302,
+        "num": 205302,
+        "word": "母亲节没送礼物就是不孝顺吗",
+        "onboard_time": 1684029507,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203735,
+        "num": 203735,
+        "word": "花海舞台",
+        "onboard_time": 1684026746,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191320,
+        "num": 191320,
+        "word": "室友拍下盲人女博士努力学习的模样",
+        "onboard_time": 1684031065,
+        "rank": 34,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 180916,
+        "num": 180916,
+        "word": "杨幂早期洋装旧照",
+        "onboard_time": 1684027649,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177346,
+        "num": 177346,
+        "word": "教资面试",
+        "onboard_time": 1684029686,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 173573,
+        "num": 173573,
+        "word": "王鹤棣侯明昊周也一起拍过广告",
+        "onboard_time": 1684029986,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168392,
+        "num": 168392,
+        "word": "赵本山宋小宝观战辽篮总决赛",
+        "onboard_time": 1684024345,
+        "rank": 38,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 166220,
+        "num": 166220,
+        "word": "分手后再遇到前任你会说什么",
+        "onboard_time": 1684029868,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163811,
+        "num": 163811,
+        "word": "太阳解雇蒙蒂",
+        "onboard_time": 1684030347,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161621,
+        "num": 161621,
+        "word": "王俊凯周杰伦合唱雨下一整晚",
+        "onboard_time": 1683990272,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159772,
+        "num": 159772,
+        "word": "漫长的季节",
+        "onboard_time": 1684028848,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159624,
+        "num": 159624,
+        "word": "瘦子现场",
+        "onboard_time": 1684022724,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152203,
+        "num": 152203,
+        "word": "吐槽浪姐4的UP主回应",
+        "onboard_time": 1684022181,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148006,
+        "num": 148006,
+        "word": "吴宗宪的第四个女儿",
+        "onboard_time": 1684029926,
+        "rank": 45,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 144411,
+        "num": 144411,
+        "word": "母亲节送什么",
+        "onboard_time": 1683943889,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83220,
+        "num": 144342,
+        "word": "动物园回应私自打印游客照售卖",
+        "onboard_time": 1684018336,
+        "rank": 47,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 57265,
+        "num": 143531,
+        "word": "G2战胜MAD",
+        "onboard_time": 1684021761,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 53265,
+        "num": 143208,
+        "word": "麻辣冷吃猪肉片",
+        "onboard_time": 1684029806,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入推进京津冀协同发展#"
+    }
+  }
+}
