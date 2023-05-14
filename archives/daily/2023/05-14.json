@@ -1,7 +1,15 @@
 {
   "startTime": 1683994827629,
-  "endTime": 1684074813921,
+  "endTime": 1684077364934,
   "band_list": [
+    {
+      "raw_hot": 3150646,
+      "num": 668827,
+      "word": "王俊凯 扯",
+      "onboard_time": 1684074753,
+      "rank": 30,
+      "category": "音乐"
+    },
     {
       "raw_hot": 2836350,
       "num": 2836350,
@@ -203,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1229028,
+      "num": 1229028,
+      "word": "秋瓷炫像是在跳我的人生",
+      "onboard_time": 1684064007,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1222991,
       "num": 1190500,
       "word": "二阳",
@@ -243,14 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1081073,
-      "num": 1081073,
-      "word": "秋瓷炫像是在跳我的人生",
-      "onboard_time": 1684064007,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1058854,
       "num": 1058854,
       "word": "官方通报山西兴县重大刑案",
@@ -265,6 +273,14 @@
       "onboard_time": 1684034247,
       "rank": 9,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1047747,
+      "num": 1047747,
+      "word": "白玉兰最佳女主",
+      "onboard_time": 1684075293,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 987160,
@@ -289,6 +305,14 @@
       "onboard_time": 1683987031,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 950532,
+      "num": 950532,
+      "word": "男子花10万块买了8套房",
+      "onboard_time": 1684074511,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 939443,
@@ -323,20 +347,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 900013,
+      "num": 900013,
+      "word": "芭莎拍的白鹿王鹤棣",
+      "onboard_time": 1684073131,
+      "rank": 26,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 857706,
       "num": 857706,
       "word": "巴厘岛",
       "onboard_time": 1684046367,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 854308,
-      "num": 854308,
-      "word": "芭莎拍的白鹿王鹤棣",
-      "onboard_time": 1684073131,
-      "rank": 26,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 832216,
@@ -419,14 +443,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 649663,
-      "num": 245515,
-      "word": "王俊凯 扯",
-      "onboard_time": 1684074753,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 629779,
       "num": 629779,
       "word": "希望每一位妈妈自由快乐 不只在今天",
@@ -481,6 +497,14 @@
       "onboard_time": 1684039528,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 571236,
+      "num": 571236,
+      "word": "白桃星座",
+      "onboard_time": 1684075590,
+      "rank": 11,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 565771,
@@ -548,7 +572,7 @@
     },
     {
       "raw_hot": 492544,
-      "num": 371755,
+      "num": 490976,
       "word": "朱珠内核稳定的大女主",
       "onboard_time": 1684072409,
       "rank": 16,
@@ -617,6 +641,14 @@
       "onboard_time": 1684066284,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 453960,
+      "num": 453960,
+      "word": "杨洋mai同框",
+      "onboard_time": 1684073369,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 453504,
@@ -723,14 +755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 413436,
-      "num": 263594,
-      "word": "杨洋mai同框",
-      "onboard_time": 1684073369,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 412695,
       "num": 251188,
       "word": "范丞丞 音乐节门票",
@@ -771,8 +795,8 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 395752,
-      "num": 265189,
+      "raw_hot": 400511,
+      "num": 400511,
       "word": "浪姐4一公观众告诉你为什么花海会输",
       "onboard_time": 1684069227,
       "rank": 26,
@@ -859,8 +883,8 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 361911,
-      "num": 361911,
+      "raw_hot": 362489,
+      "num": 362489,
       "word": "捡到100块结果面试没通过",
       "onboard_time": 1684071147,
       "rank": 49,
@@ -913,6 +937,14 @@
       "onboard_time": 1684039950,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342259,
+      "num": 245355,
+      "word": "林俊杰演唱会",
+      "onboard_time": 1684074152,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 341273,
@@ -987,20 +1019,20 @@
       "category": "教育,情感"
     },
     {
+      "raw_hot": 320964,
+      "num": 222312,
+      "word": "90后总裁追星蔡徐坤",
+      "onboard_time": 1684075950,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314125,
       "num": 267696,
       "word": "极限挑战",
       "onboard_time": 1684068687,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 312802,
-      "num": 245355,
-      "word": "林俊杰演唱会",
-      "onboard_time": 1684074152,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 307593,
@@ -1177,6 +1209,14 @@
       "onboard_time": 1684049665,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267237,
+      "num": 204318,
+      "word": "装了个80厘米高的床",
+      "onboard_time": 1684076249,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 266989,
@@ -1491,14 +1531,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 213243,
-      "num": 213243,
-      "word": "男子花10万块买了8套房",
-      "onboard_time": 1684074511,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212811,
       "num": 212811,
       "word": "王鹤棣侯明昊周也一起拍过广告",
@@ -1521,6 +1553,14 @@
       "onboard_time": 1683984575,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 208434,
+      "num": 245688,
+      "word": "熊猫妈妈用肚皮当摇篮哄娃",
+      "onboard_time": 1684074451,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208321,
@@ -1779,6 +1819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 173139,
+      "num": 173139,
+      "word": "K甲",
+      "onboard_time": 1684075532,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 173112,
       "num": 173112,
       "word": "母亲节送什么",
@@ -1961,6 +2009,14 @@
       "onboard_time": 1684044867,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149178,
+      "num": 149178,
+      "word": "Fly让老林再哭一个",
+      "onboard_time": 1684076249,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 149060,
@@ -2172,7 +2228,7 @@
     },
     {
       "raw_hot": 125086,
-      "num": 371379,
+      "num": 458331,
       "word": "时光偷不走妈妈的美",
       "onboard_time": 1684044149,
       "rank": 13,
@@ -2295,14 +2351,6 @@
       "num": 233327,
       "word": "法国救援人员拆墙救391公斤老太太",
       "onboard_time": 1683990093,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105680,
-      "num": 245688,
-      "word": "熊猫妈妈用肚皮当摇篮哄娃",
-      "onboard_time": 1684074451,
       "rank": 29,
       "category": "社会新闻"
     },

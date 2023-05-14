@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684074813921,
+  "endTime": 1684077364934,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -201,6 +201,14 @@
       "onboard_time": 1683448291,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3150646,
+      "num": 668827,
+      "word": "王俊凯 扯",
+      "onboard_time": 1684074753,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 3078595,
@@ -3107,6 +3115,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 1229028,
+      "num": 1229028,
+      "word": "秋瓷炫像是在跳我的人生",
+      "onboard_time": 1684064007,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1228705,
       "num": 1228705,
       "word": "媒体评插队婆孙被做成恶搞表情包",
@@ -3691,14 +3707,6 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 1081073,
-      "num": 1081073,
-      "word": "秋瓷炫像是在跳我的人生",
-      "onboard_time": 1684064007,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1079555,
       "num": 1079555,
       "word": "王子奇王玉雯",
@@ -3857,6 +3865,14 @@
       "onboard_time": 1683851012,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1047747,
+      "num": 1047747,
+      "word": "白玉兰最佳女主",
+      "onboard_time": 1684075293,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1047003,
@@ -4235,6 +4251,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 950532,
+      "num": 950532,
+      "word": "男子花10万块买了8套房",
+      "onboard_time": 1684074511,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 949837,
       "num": 949837,
       "word": "36岁常青藤毕业确诊癌症后反而很开心",
@@ -4539,6 +4563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 900013,
+      "num": 900013,
+      "word": "芭莎拍的白鹿王鹤棣",
+      "onboard_time": 1684073131,
+      "rank": 26,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 899737,
       "num": 899737,
       "word": "稻香",
@@ -4761,14 +4793,6 @@
       "onboard_time": 1683385771,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 854308,
-      "num": 854308,
-      "word": "芭莎拍的白鹿王鹤棣",
-      "onboard_time": 1684073131,
-      "rank": 26,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 852555,
@@ -6211,14 +6235,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 649663,
-      "num": 245515,
-      "word": "王俊凯 扯",
-      "onboard_time": 1684074753,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 648282,
       "num": 648282,
       "word": "谁还敢在朋友圈玩梗",
@@ -7097,6 +7113,14 @@
       "onboard_time": 1683557133,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 571236,
+      "num": 571236,
+      "word": "白桃星座",
+      "onboard_time": 1683470495,
+      "rank": 19,
+      "category": "网红,情感"
     },
     {
       "raw_hot": 570776,
@@ -8276,7 +8300,7 @@
     },
     {
       "raw_hot": 492544,
-      "num": 371755,
+      "num": 490976,
       "word": "朱珠内核稳定的大女主",
       "onboard_time": 1684072409,
       "rank": 16,
@@ -8827,14 +8851,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 464189,
-      "num": 464189,
-      "word": "白桃星座",
-      "onboard_time": 1683470495,
-      "rank": 19,
-      "category": "网红,情感"
-    },
-    {
       "raw_hot": 462492,
       "num": 462492,
       "word": "杨幂龚俊吻戏路透",
@@ -9009,6 +9025,14 @@
       "onboard_time": 1683380193,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453960,
+      "num": 453960,
+      "word": "杨洋mai同框",
+      "onboard_time": 1684073369,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 453905,
@@ -10019,14 +10043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 413436,
-      "num": 263594,
-      "word": "杨洋mai同框",
-      "onboard_time": 1684073369,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 413111,
       "num": 206361,
       "word": "青年节",
@@ -10411,6 +10427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 400511,
+      "num": 400511,
+      "word": "浪姐4一公观众告诉你为什么花海会输",
+      "onboard_time": 1684069227,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 400003,
       "num": 291073,
       "word": "手机后三位是你房子的面积",
@@ -10593,14 +10617,6 @@
       "onboard_time": 1683154941,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 395752,
-      "num": 265189,
-      "word": "浪姐4一公观众告诉你为什么花海会输",
-      "onboard_time": 1684069227,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 395432,
@@ -11635,20 +11651,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362489,
+      "num": 362489,
+      "word": "捡到100块结果面试没通过",
+      "onboard_time": 1684071147,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 362237,
       "num": 888738,
       "word": "90后姑娘帮上万名村民喝上安全的水",
       "onboard_time": 1683193827,
       "rank": 4,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 361911,
-      "num": 361911,
-      "word": "捡到100块结果面试没通过",
-      "onboard_time": 1684071147,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 361568,
@@ -12481,6 +12497,14 @@
       "onboard_time": 1682991027,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 342259,
+      "num": 245355,
+      "word": "林俊杰演唱会",
+      "onboard_time": 1684074152,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 342209,
@@ -13395,6 +13419,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 320964,
+      "num": 222312,
+      "word": "90后总裁追星蔡徐坤",
+      "onboard_time": 1684075950,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320868,
       "num": 255708,
       "word": "Amber滑跪",
@@ -13761,14 +13793,6 @@
       "onboard_time": 1683270448,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 312802,
-      "num": 245355,
-      "word": "林俊杰演唱会",
-      "onboard_time": 1684074152,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 312650,
@@ -16097,6 +16121,14 @@
       "onboard_time": 1683164666,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267237,
+      "num": 204318,
+      "word": "装了个80厘米高的床",
+      "onboard_time": 1684076249,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 267032,
@@ -20091,14 +20123,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 213243,
-      "num": 213243,
-      "word": "男子花10万块买了8套房",
-      "onboard_time": 1684074511,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213196,
       "num": 213196,
       "word": "我明天的精神状态",
@@ -20465,6 +20489,14 @@
       "onboard_time": 1683501801,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 208434,
+      "num": 245688,
+      "word": "熊猫妈妈用肚皮当摇篮哄娃",
+      "onboard_time": 1684074451,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208328,
@@ -23747,6 +23779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173139,
+      "num": 173139,
+      "word": "K甲",
+      "onboard_time": 1684075532,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 173094,
       "num": 173094,
       "word": "漫长的季节豆瓣涨分9.3",
@@ -25715,6 +25755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149178,
+      "num": 149178,
+      "word": "Fly让老林再哭一个",
+      "onboard_time": 1684076249,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 149173,
       "num": 149173,
       "word": "护心OST阵容",
@@ -27244,7 +27292,7 @@
     },
     {
       "raw_hot": 125086,
-      "num": 371379,
+      "num": 458331,
       "word": "时光偷不走妈妈的美",
       "onboard_time": 1684044149,
       "rank": 13,
@@ -28097,14 +28145,6 @@
       "onboard_time": 1683946710,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 105680,
-      "num": 245688,
-      "word": "熊猫妈妈用肚皮当摇篮哄娃",
-      "onboard_time": 1684074451,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105414,
