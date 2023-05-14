@@ -1,6 +1,6 @@
 {
   "startTime": 1683994827629,
-  "endTime": 1684020814941,
+  "endTime": 1684027652832,
   "band_list": [
     {
       "raw_hot": 1598965,
@@ -12,11 +12,27 @@
     },
     {
       "raw_hot": 1587236,
-      "num": 1049962,
+      "num": 1102819,
       "word": "和博士约会接吻后当晚被删了",
       "onboard_time": 1683984990,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1560785,
+      "num": 1560785,
+      "word": "更心疼刘美含了",
+      "onboard_time": 1684019117,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1499199,
+      "num": 1499199,
+      "word": "徐怀钰 三公",
+      "onboard_time": 1684020799,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 1352656,
@@ -27,6 +43,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1284113,
+      "num": 1284113,
+      "word": "赵丽颖的腰臀比",
+      "onboard_time": 1684023864,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1139109,
+      "num": 1139109,
+      "word": "母亲节",
+      "onboard_time": 1683991712,
+      "rank": 8,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1088988,
       "num": 250567,
       "word": "如何看待月薪14万但需提供跪地服务",
@@ -35,12 +67,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1027196,
-      "num": 1027196,
-      "word": "母亲节",
-      "onboard_time": 1683991712,
-      "rank": 8,
-      "category": "社会新闻,情感"
+      "raw_hot": 1058854,
+      "num": 1058854,
+      "word": "官方通报山西兴县重大刑案",
+      "onboard_time": 1684022482,
+      "rank": 6,
+      "category": "社会负面"
     },
     {
       "raw_hot": 987160,
@@ -49,6 +81,14 @@
       "onboard_time": 1683985230,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 974021,
+      "num": 974021,
+      "word": "00后女孩离职旅行存款却越变越多",
+      "onboard_time": 1684018877,
+      "rank": 11,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 970689,
@@ -75,20 +115,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 780554,
+      "num": 369021,
+      "word": "山西吕梁市突发车祸致多人被撞",
+      "onboard_time": 1684024464,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 764799,
       "num": 764799,
       "word": "e人沉默 i人落泪",
       "onboard_time": 1683989673,
       "rank": 7,
       "category": "情感,影视"
-    },
-    {
-      "raw_hot": 713188,
-      "num": 713188,
-      "word": "更心疼刘美含了",
-      "onboard_time": 1684019117,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 672574,
@@ -123,12 +163,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 412722,
-      "num": 192881,
-      "word": "00后女孩离职旅行存款却越变越多",
-      "onboard_time": 1684018877,
-      "rank": 11,
-      "category": "社会新闻,财经"
+      "raw_hot": 424996,
+      "num": 320915,
+      "word": "吐槽浪姐4的UP主回应",
+      "onboard_time": 1684022181,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 402351,
@@ -147,8 +187,16 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 351584,
-      "num": 249012,
+      "raw_hot": 371961,
+      "num": 371961,
+      "word": "梅西被嘘",
+      "onboard_time": 1684026205,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 360435,
+      "num": 278616,
       "word": "她有种不在国内的自信",
       "onboard_time": 1683991534,
       "rank": 23,
@@ -187,12 +235,44 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 294860,
-      "num": 281168,
+      "raw_hot": 321194,
+      "num": 321194,
       "word": "为什么本科生的就业处境最尴尬",
       "onboard_time": 1683988535,
       "rank": 24,
       "category": "教育,情感"
+    },
+    {
+      "raw_hot": 307593,
+      "num": 307593,
+      "word": "今天沈阳沸腾了",
+      "onboard_time": 1683990874,
+      "rank": 27,
+      "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 299502,
+      "num": 299502,
+      "word": "花海舞台",
+      "onboard_time": 1684026746,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 293708,
+      "num": 293708,
+      "word": "高碧吐了 一字马是常见的舞蹈动作",
+      "onboard_time": 1684026866,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 288144,
+      "num": 288144,
+      "word": "赵本山宋小宝观战辽篮总决赛",
+      "onboard_time": 1684024345,
+      "rank": 19,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 279954,
@@ -211,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267837,
+      "num": 267837,
+      "word": "原来在北京还能这么过母亲节",
+      "onboard_time": 1683994049,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259835,
       "num": 248181,
       "word": "花海居然输了",
@@ -219,12 +307,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256749,
+      "num": 256749,
+      "word": "男子随防盗窗一起从6楼坠落身亡",
+      "onboard_time": 1684022002,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248798,
+      "num": 248798,
+      "word": "伊戈达拉退役",
+      "onboard_time": 1684026626,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248134,
       "num": 248134,
       "word": "梦中的那片海",
       "onboard_time": 1683989372,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 242707,
+      "num": 242707,
+      "word": "母亲节需要给未来的岳母送礼物吗",
+      "onboard_time": 1684025847,
+      "rank": 24,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 236815,
@@ -243,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231835,
+      "num": 231835,
+      "word": "花海投票环节有人喊不要给票",
+      "onboard_time": 1684019899,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231634,
       "num": 231634,
       "word": "王源让大家正经一点",
@@ -251,12 +371,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 223770,
-      "num": 241417,
-      "word": "今天沈阳沸腾了",
-      "onboard_time": 1683990874,
+      "raw_hot": 223856,
+      "num": 223856,
+      "word": "妈妈20年前后对比照大赛",
+      "onboard_time": 1684026085,
       "rank": 27,
-      "category": "体育,音乐"
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219732,
+      "num": 219732,
+      "word": "瘦子现场",
+      "onboard_time": 1684022724,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 219712,
@@ -267,12 +395,28 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 218093,
+      "num": 218093,
+      "word": "母亲节文案",
+      "onboard_time": 1684019117,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 217192,
       "num": 217192,
       "word": "彭千祐曾敬骅",
       "onboard_time": 1683994289,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217192,
+      "num": 217192,
+      "word": "problem",
+      "onboard_time": 1684022361,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 216148,
@@ -339,12 +483,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176031,
+      "num": 176031,
+      "word": "乘风声明微博评论区",
+      "onboard_time": 1684023803,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174487,
       "num": 139434,
       "word": "徐明浩照顾高叶的方式",
       "onboard_time": 1683993509,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173112,
+      "num": 173112,
+      "word": "母亲节送什么",
+      "onboard_time": 1683943889,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 168891,
+      "num": 168891,
+      "word": "男友变心姑娘把他送的黄金卖了14万",
+      "onboard_time": 1683981028,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164634,
@@ -363,12 +531,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160229,
-      "num": 160229,
-      "word": "男友变心姑娘把他送的黄金卖了14万",
-      "onboard_time": 1683981028,
-      "rank": 46,
+      "raw_hot": 160252,
+      "num": 160252,
+      "word": "女子旅游后高烧不退确诊不死癌症",
+      "onboard_time": 1684027587,
+      "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160043,
+      "num": 160043,
+      "word": "邓佳鑫舞台",
+      "onboard_time": 1684026386,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 153521,
@@ -395,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145639,
+      "num": 145639,
+      "word": "医生因倒提模型被批评教育冤不冤",
+      "onboard_time": 1684009814,
+      "rank": 27,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 142987,
       "num": 142987,
       "word": "美依礼芽投票依旧断层",
@@ -411,14 +595,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 140508,
-      "num": 140508,
-      "word": "花海投票环节有人喊不要给票",
-      "onboard_time": 1684019899,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 135045,
       "num": 135045,
       "word": "淄博八大局知名麻辣串疑被房东赶走",
@@ -427,12 +603,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 133510,
-      "num": 133510,
-      "word": "原来在北京还能这么过母亲节",
-      "onboard_time": 1683994049,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 131936,
+      "num": 131936,
+      "word": "母亲节表情包",
+      "onboard_time": 1684027408,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 126177,
@@ -441,14 +617,6 @@
       "onboard_time": 1683981511,
       "rank": 46,
       "category": "游戏,美妆"
-    },
-    {
-      "raw_hot": 123865,
-      "num": 123865,
-      "word": "医生因倒提模型被批评教育冤不冤",
-      "onboard_time": 1684009814,
-      "rank": 27,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 121485,
@@ -491,16 +659,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112974,
-      "num": 112974,
-      "word": "母亲节文案",
-      "onboard_time": 1684019117,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 112095,
-      "num": 112095,
+      "num": 131645,
       "word": "动物园回应私自打印游客照售卖",
       "onboard_time": 1684018336,
       "rank": 34,
@@ -587,28 +747,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63133,
+      "num": 129765,
+      "word": "G2战胜MAD",
+      "onboard_time": 1684021761,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 62893,
       "num": 86593,
       "word": "男子倒提的婴儿为模型",
       "onboard_time": 1684003213,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62631,
-      "num": 62631,
-      "word": "徐怀钰 三公",
-      "onboard_time": 1684020799,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 58828,
-      "num": 58828,
-      "word": "母亲节送什么",
-      "onboard_time": 1683943889,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 51438,
@@ -668,7 +820,7 @@
     },
     {
       "raw_hot": 7979,
-      "num": 1082573,
+      "num": 1379002,
       "word": "关注2023中国中亚五国峰会",
       "onboard_time": 1683966509,
       "rank": 2,
