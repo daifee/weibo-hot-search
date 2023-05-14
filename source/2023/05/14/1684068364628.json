@@ -1,0 +1,410 @@
+{
+  "runTime": 1684068364628,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1467231,
+        "num": 1467231,
+        "word": "一万的票隔壁唱了九千八",
+        "onboard_time": 1684059146,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1283543,
+        "num": 1283543,
+        "word": "爱奇艺5月6月待播剧",
+        "onboard_time": 1684062926,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36795,
+        "num": 1092312,
+        "word": "农忙时节的田野铺开了生机勃勃的画卷",
+        "onboard_time": 1684054285,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 966403,
+        "num": 966403,
+        "word": "刘维说徐怀钰不是划水是不自信",
+        "onboard_time": 1684055966,
+        "rank": 3,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 741396,
+        "num": 741396,
+        "word": "大爷买二等座票带孙女坐一等座被赶",
+        "onboard_time": 1684059805,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 733899,
+        "num": 733899,
+        "word": "侯明昊早几年干嘛去了",
+        "onboard_time": 1684060525,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 857873,
+        "num": 726103,
+        "word": "秋瓷炫像是在跳我的人生",
+        "onboard_time": 1684064007,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 642004,
+        "num": 642004,
+        "word": "女儿偷偷买票帮60岁妈妈追星",
+        "onboard_time": 1684055064,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574648,
+        "num": 574648,
+        "word": "网红卖崽青蛙上海落网",
+        "onboard_time": 1684039110,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458059,
+        "num": 458059,
+        "word": "莫兰特",
+        "onboard_time": 1684066284,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 614601,
+        "num": 429786,
+        "word": "王艳儿子近照",
+        "onboard_time": 1684052064,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486343,
+        "num": 406852,
+        "word": "看中医就没有隐私吗",
+        "onboard_time": 1684067068,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 468815,
+        "num": 404956,
+        "word": "汪小敏 淘汰",
+        "onboard_time": 1684064246,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381907,
+        "num": 381907,
+        "word": "塞尔达 原神",
+        "onboard_time": 1684062265,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24720,
+        "num": 376052,
+        "word": "王源后台花絮",
+        "onboard_time": 1684044026,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 464574,
+        "num": 375704,
+        "word": "林允儿跳了Ditto",
+        "onboard_time": 1684062746,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 446986,
+        "num": 375267,
+        "word": "浪姐一公淘汰名单",
+        "onboard_time": 1684047387,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372465,
+        "num": 372465,
+        "word": "催生催育 女性选择",
+        "onboard_time": 1684061965,
+        "rank": 17,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 350627,
+        "num": 350627,
+        "word": "南开大学母亲节配图",
+        "onboard_time": 1684062926,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 292823,
+        "num": 292823,
+        "word": "希望每一位妈妈自由快乐 不只在今天",
+        "onboard_time": 1684058066,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 441082,
+        "num": 290964,
+        "word": "张馨予 有个牌子衣服大号都穿不上",
+        "onboard_time": 1684046067,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343097,
+        "num": 289801,
+        "word": "24岁一个朋友都没有正常吗",
+        "onboard_time": 1684067125,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 296750,
+        "num": 288743,
+        "word": "朋友未经允许把我的榴莲开了",
+        "onboard_time": 1684066885,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 286272,
+        "num": 286272,
+        "word": "跟男朋友偷偷领证后很焦虑",
+        "onboard_time": 1684057047,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218192,
+        "num": 218192,
+        "word": "猫咪出生1个月确诊是无性别",
+        "onboard_time": 1684059327,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269646,
+        "num": 203931,
+        "word": "马嘉祺丁程鑫张真源体验分娩阵痛",
+        "onboard_time": 1684063527,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265083,
+        "num": 198565,
+        "word": "吴倩不会wink",
+        "onboard_time": 1684041867,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259148,
+        "num": 198350,
+        "word": "天黑黑",
+        "onboard_time": 1684065027,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185516,
+        "num": 185516,
+        "word": "母亲得知儿子回家穿新衣奔跑迎接",
+        "onboard_time": 1684066826,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66287,
+        "num": 181397,
+        "word": "不可爱的天气里遇见可爱的人",
+        "onboard_time": 1684064246,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208336,
+        "num": 180809,
+        "word": "刘维 徐怀钰团队划水",
+        "onboard_time": 1684056566,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207505,
+        "num": 180608,
+        "word": "王鹤棣坐直升机空降",
+        "onboard_time": 1684060406,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179817,
+        "num": 179817,
+        "word": "6岁娃用3000元压岁钱给妈妈买金项链",
+        "onboard_time": 1684058968,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205081,
+        "num": 174865,
+        "word": "卢靖姗太强了",
+        "onboard_time": 1684041989,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157079,
+        "num": 157079,
+        "word": "和闸机击了个掌就进站了",
+        "onboard_time": 1684064547,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203106,
+        "num": 156802,
+        "word": "侯明昊周也体型差",
+        "onboard_time": 1684068328,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1222991,
+        "num": 155931,
+        "word": "二阳",
+        "onboard_time": 1684058486,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188471,
+        "num": 155466,
+        "word": "芝芙和叮叮当当原唱的关系",
+        "onboard_time": 1684059446,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153633,
+        "num": 153633,
+        "word": "最毁你三观的一件事是什么",
+        "onboard_time": 1684065746,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146644,
+        "num": 146644,
+        "word": "BLG对战JDG",
+        "onboard_time": 1684061546,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180453,
+        "num": 145204,
+        "word": "徐怀钰 回忆杀",
+        "onboard_time": 1684042827,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168841,
+        "num": 144078,
+        "word": "窦靖童声音好像王菲",
+        "onboard_time": 1684053266,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167563,
+        "num": 143969,
+        "word": "杨幂龚俊吻戏路透",
+        "onboard_time": 1684055906,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142897,
+        "num": 142897,
+        "word": "KCON",
+        "onboard_time": 1684063407,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138343,
+        "num": 138343,
+        "word": "毕业后很少听到自己全名了",
+        "onboard_time": 1684054285,
+        "rank": 44,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 135274,
+        "num": 135274,
+        "word": "胡锡进发文评卖崽青蛙上海落网",
+        "onboard_time": 1684059926,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134707,
+        "num": 134707,
+        "word": "胡歌走走停停或将5月底开机",
+        "onboard_time": 1684062805,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128727,
+        "num": 128727,
+        "word": "记者卧底南京夫子庙暗访竹筒奶茶市场",
+        "onboard_time": 1684068086,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124235,
+        "num": 124235,
+        "word": "两男子不约而同跳河救落水小孩",
+        "onboard_time": 1684065087,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115527,
+        "num": 115527,
+        "word": "粉丝滤镜",
+        "onboard_time": 1684062146,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国与中亚在此相会#"
+    }
+  }
+}

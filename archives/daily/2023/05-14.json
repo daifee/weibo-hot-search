@@ -1,6 +1,6 @@
 {
   "startTime": 1683994827629,
-  "endTime": 1684067428481,
+  "endTime": 1684068364628,
   "band_list": [
     {
       "raw_hot": 2836350,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1467231,
+      "num": 1467231,
+      "word": "一万的票隔壁唱了九千八",
+      "onboard_time": 1684059146,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1441432,
       "num": 1441432,
       "word": "徐怀钰经纪人发文回应",
@@ -171,7 +179,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1222589,
+      "raw_hot": 1222991,
       "num": 1190500,
       "word": "二阳",
       "onboard_time": 1684058486,
@@ -193,14 +201,6 @@
       "onboard_time": 1684041867,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1105435,
-      "num": 1105435,
-      "word": "一万的票隔壁唱了九千八",
-      "onboard_time": 1684059146,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 1088988,
@@ -283,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 857873,
+      "num": 747851,
+      "word": "秋瓷炫像是在跳我的人生",
+      "onboard_time": 1684064007,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 857706,
       "num": 857706,
       "word": "巴厘岛",
@@ -337,14 +345,6 @@
       "onboard_time": 1683989673,
       "rank": 7,
       "category": "情感,影视"
-    },
-    {
-      "raw_hot": 747851,
-      "num": 747851,
-      "word": "秋瓷炫像是在跳我的人生",
-      "onboard_time": 1684064007,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 741171,
@@ -491,6 +491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 486343,
+      "num": 406852,
+      "word": "看中医就没有隐私吗",
+      "onboard_time": 1684067068,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 480069,
       "num": 324769,
       "word": "赵露思 瘦而不柴",
@@ -507,12 +515,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 468815,
+      "num": 450372,
+      "word": "汪小敏 淘汰",
+      "onboard_time": 1684064246,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 464574,
+      "num": 443507,
+      "word": "林允儿跳了Ditto",
+      "onboard_time": 1684062746,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 462492,
       "num": 462492,
       "word": "杨幂龚俊吻戏路透",
       "onboard_time": 1684055906,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 458059,
+      "num": 458059,
+      "word": "莫兰特",
+      "onboard_time": 1684066284,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 453504,
@@ -539,28 +571,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 450372,
-      "num": 450372,
-      "word": "汪小敏 淘汰",
-      "onboard_time": 1684064246,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 443947,
       "num": 299502,
       "word": "花海舞台",
       "onboard_time": 1684026746,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 443507,
-      "num": 443507,
-      "word": "林允儿跳了Ditto",
-      "onboard_time": 1684062746,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 426096,
@@ -747,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 350627,
+      "num": 350627,
+      "word": "南开大学母亲节配图",
+      "onboard_time": 1684062926,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 348260,
       "num": 301677,
       "word": "考个科目三把我考穷了",
@@ -763,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 343097,
+      "num": 289801,
+      "word": "24岁一个朋友都没有正常吗",
+      "onboard_time": 1684067125,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 341273,
       "num": 249801,
       "word": "墨香铜臭",
@@ -777,14 +809,6 @@
       "onboard_time": 1684055547,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 338807,
-      "num": 338807,
-      "word": "南开大学母亲节配图",
-      "onboard_time": 1684062926,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 332235,
@@ -843,14 +867,6 @@
       "category": "教育,情感"
     },
     {
-      "raw_hot": 309007,
-      "num": 309007,
-      "word": "莫兰特",
-      "onboard_time": 1684066284,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 307593,
       "num": 307593,
       "word": "今天沈阳沸腾了",
@@ -897,6 +913,14 @@
       "onboard_time": 1684024345,
       "rank": 19,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 296750,
+      "num": 288743,
+      "word": "朋友未经允许把我的榴莲开了",
+      "onboard_time": 1684066885,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 294022,
@@ -1004,7 +1028,7 @@
     },
     {
       "raw_hot": 266630,
-      "num": 194508,
+      "num": 198350,
       "word": "天黑黑",
       "onboard_time": 1684065027,
       "rank": 27,
@@ -1339,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203106,
+      "num": 156802,
+      "word": "侯明昊周也体型差",
+      "onboard_time": 1684068328,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202026,
       "num": 166283,
       "word": "孤单芭蕾",
@@ -1385,14 +1417,6 @@
       "onboard_time": 1684047148,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193510,
-      "num": 193510,
-      "word": "24岁一个朋友都没有正常吗",
-      "onboard_time": 1684067125,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 193434,
@@ -1451,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185516,
+      "num": 185516,
+      "word": "母亲得知儿子回家穿新衣奔跑迎接",
+      "onboard_time": 1684066826,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182226,
       "num": 164929,
       "word": "那英说张杰演唱会太炸了",
@@ -1481,14 +1513,6 @@
       "onboard_time": 1684029686,
       "rank": 36,
       "category": "教育"
-    },
-    {
-      "raw_hot": 178742,
-      "num": 141600,
-      "word": "看中医就没有隐私吗",
-      "onboard_time": 1684067068,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 176127,
@@ -1569,14 +1593,6 @@
       "onboard_time": 1684058247,
       "rank": 32,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 170013,
-      "num": 170013,
-      "word": "朋友未经允许把我的榴莲开了",
-      "onboard_time": 1684066885,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 168891,
@@ -1747,6 +1763,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 146644,
+      "num": 146644,
+      "word": "BLG对战JDG",
+      "onboard_time": 1684061546,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 146485,
       "num": 146485,
       "word": "广州一8旬老人卖房捐60万助学",
@@ -1792,14 +1816,6 @@
       "word": "大货车起火司机冒险驶出大桥",
       "onboard_time": 1684048949,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142626,
-      "num": 142626,
-      "word": "母亲得知儿子回家穿新衣奔跑迎接",
-      "onboard_time": 1684066826,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1899,20 +1915,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 131458,
-      "num": 134750,
-      "word": "BLG对战JDG",
-      "onboard_time": 1684061546,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 128983,
       "num": 128983,
       "word": "苏迪曼杯",
       "onboard_time": 1684042349,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128727,
+      "num": 128727,
+      "word": "记者卧底南京夫子庙暗访竹筒奶茶市场",
+      "onboard_time": 1684068086,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126177,
@@ -2155,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66287,
+      "num": 193423,
+      "word": "不可爱的天气里遇见可爱的人",
+      "onboard_time": 1684064246,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64840,
       "num": 64840,
       "word": "辽宁男篮赢下冠军点",
@@ -2257,14 +2281,6 @@
       "onboard_time": 1683982951,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 43256,
-      "num": 193423,
-      "word": "不可爱的天气里遇见可爱的人",
-      "onboard_time": 1684064246,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39832,

@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1684067428481,
+  "endTime": 1684068364628,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1227,6 +1227,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1467231,
+      "num": 1467231,
+      "word": "一万的票隔壁唱了九千八",
+      "onboard_time": 1684059146,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1463945,
       "num": 1463945,
       "word": "五月天深圳抢票",
@@ -1651,7 +1659,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1222589,
+      "raw_hot": 1222991,
       "num": 1190500,
       "word": "二阳",
       "onboard_time": 1683508648,
@@ -1849,14 +1857,6 @@
       "onboard_time": 1683782790,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1105435,
-      "num": 1105435,
-      "word": "一万的票隔壁唱了九千八",
-      "onboard_time": 1684059146,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 1104845,
@@ -2451,6 +2451,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 857873,
+      "num": 747851,
+      "word": "秋瓷炫像是在跳我的人生",
+      "onboard_time": 1684064007,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 857706,
       "num": 857706,
       "word": "巴厘岛",
@@ -2777,14 +2785,6 @@
       "onboard_time": 1683894690,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 747851,
-      "num": 747851,
-      "word": "秋瓷炫像是在跳我的人生",
-      "onboard_time": 1684064007,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 746762,
@@ -4331,6 +4331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 486343,
+      "num": 406852,
+      "word": "看中医就没有隐私吗",
+      "onboard_time": 1684067068,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 485721,
       "num": 485721,
       "word": "日本地震",
@@ -4499,6 +4507,14 @@
       "category": "艺人,音乐"
     },
     {
+      "raw_hot": 468815,
+      "num": 450372,
+      "word": "汪小敏 淘汰",
+      "onboard_time": 1684064246,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 468241,
       "num": 461297,
       "word": "全员加速中",
@@ -4545,6 +4561,14 @@
       "onboard_time": 1683550469,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 464574,
+      "num": 443507,
+      "word": "林允儿跳了Ditto",
+      "onboard_time": 1684062746,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 462492,
@@ -4601,6 +4625,14 @@
       "onboard_time": 1683804148,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 458059,
+      "num": 458059,
+      "word": "莫兰特",
+      "onboard_time": 1684066284,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 457142,
@@ -4673,14 +4705,6 @@
       "onboard_time": 1683980251,
       "rank": 17,
       "category": "综艺,游戏"
-    },
-    {
-      "raw_hot": 450372,
-      "num": 450372,
-      "word": "汪小敏 淘汰",
-      "onboard_time": 1684064246,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 449968,
@@ -4777,14 +4801,6 @@
       "onboard_time": 1683624629,
       "rank": 1,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 443507,
-      "num": 443507,
-      "word": "林允儿跳了Ditto",
-      "onboard_time": 1684062746,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 443187,
@@ -6395,6 +6411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 350627,
+      "num": 350627,
+      "word": "南开大学母亲节配图",
+      "onboard_time": 1684062926,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 350276,
       "num": 350276,
       "word": "易烊千玺蚊子包",
@@ -6523,6 +6547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 343097,
+      "num": 289801,
+      "word": "24岁一个朋友都没有正常吗",
+      "onboard_time": 1684067125,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 342838,
       "num": 276723,
       "word": "上海北外滩偶遇刺猬头",
@@ -6633,14 +6665,6 @@
       "onboard_time": 1683511647,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 338807,
-      "num": 338807,
-      "word": "南开大学母亲节配图",
-      "onboard_time": 1684062926,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 338765,
@@ -7203,14 +7227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 309007,
-      "num": 309007,
-      "word": "莫兰特",
-      "onboard_time": 1684066284,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 308928,
       "num": 308928,
       "word": "王国之泪媒体评分解禁",
@@ -7569,6 +7585,14 @@
       "onboard_time": 1683521852,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296750,
+      "num": 288743,
+      "word": "朋友未经允许把我的榴莲开了",
+      "onboard_time": 1684066885,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 296570,
@@ -8476,7 +8500,7 @@
     },
     {
       "raw_hot": 266630,
-      "num": 194508,
+      "num": 198350,
       "word": "天黑黑",
       "onboard_time": 1684065027,
       "rank": 27,
@@ -10819,6 +10843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203106,
+      "num": 156802,
+      "word": "侯明昊周也体型差",
+      "onboard_time": 1684068328,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202919,
       "num": 202919,
       "word": "你见过最稀有的姓氏是什么",
@@ -11235,14 +11267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193510,
-      "num": 193510,
-      "word": "24岁一个朋友都没有正常吗",
-      "onboard_time": 1684067125,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 193475,
       "num": 193475,
       "word": "陈星旭用单手背章若楠",
@@ -11587,6 +11611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 185516,
+      "num": 185516,
+      "word": "母亲得知儿子回家穿新衣奔跑迎接",
+      "onboard_time": 1684066826,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185154,
       "num": 185154,
       "word": "杨洋出发威尼斯机场视频",
@@ -11785,14 +11817,6 @@
       "onboard_time": 1683889949,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178742,
-      "num": 141600,
-      "word": "看中医就没有隐私吗",
-      "onboard_time": 1684067068,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 178740,
@@ -12177,14 +12201,6 @@
       "onboard_time": 1683626729,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 170013,
-      "num": 170013,
-      "word": "朋友未经允许把我的榴莲开了",
-      "onboard_time": 1684066885,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 169637,
@@ -13043,6 +13059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146644,
+      "num": 146644,
+      "word": "BLG对战JDG",
+      "onboard_time": 1684061546,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 146619,
       "num": 146619,
       "word": "九号发布会",
@@ -13225,14 +13249,6 @@
       "onboard_time": 1683965668,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 142626,
-      "num": 142626,
-      "word": "母亲得知儿子回家穿新衣奔跑迎接",
-      "onboard_time": 1684066826,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142481,
@@ -13635,14 +13651,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 131458,
-      "num": 134750,
-      "word": "BLG对战JDG",
-      "onboard_time": 1684061546,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 130855,
       "num": 130855,
       "word": "折腰剧组探班直播",
@@ -13697,6 +13705,14 @@
       "onboard_time": 1684042349,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128727,
+      "num": 128727,
+      "word": "记者卧底南京夫子庙暗访竹筒奶茶市场",
+      "onboard_time": 1684068086,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127554,
@@ -14683,6 +14699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66287,
+      "num": 193423,
+      "word": "不可爱的天气里遇见可爱的人",
+      "onboard_time": 1684064246,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65561,
       "num": 65561,
       "word": "出镜吧妈妈",
@@ -14913,14 +14937,6 @@
       "onboard_time": 1683738918,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 43256,
-      "num": 193423,
-      "word": "不可爱的天气里遇见可爱的人",
-      "onboard_time": 1684064246,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42592,
