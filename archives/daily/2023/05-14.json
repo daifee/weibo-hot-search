@@ -1,10 +1,10 @@
 {
   "startTime": 1683994827629,
-  "endTime": 1684032201169,
+  "endTime": 1684034225963,
   "band_list": [
     {
-      "raw_hot": 2157626,
-      "num": 2157626,
+      "raw_hot": 2836350,
+      "num": 2836350,
       "word": "山西发生重大刑案已致7死11伤",
       "onboard_time": 1684028727,
       "rank": 27,
@@ -131,6 +131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 832216,
+      "num": 832216,
+      "word": "瞿颖说李莎旻子做人太紧张了",
+      "onboard_time": 1684032207,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 826702,
       "num": 490987,
       "word": "李楷灿 海底捞",
@@ -179,6 +187,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 547913,
+      "num": 547913,
+      "word": "江苏人真的没有夜生活吗",
+      "onboard_time": 1684028907,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 511879,
       "num": 511879,
       "word": "王俊凯周杰伦合唱雨下一整晚",
@@ -187,12 +203,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 487725,
-      "num": 487725,
-      "word": "江苏人真的没有夜生活吗",
-      "onboard_time": 1684028907,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 502968,
+      "num": 502968,
+      "word": "母亲节红包",
+      "onboard_time": 1684030166,
+      "rank": 17,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 480069,
@@ -201,14 +217,6 @@
       "onboard_time": 1683975149,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 463640,
-      "num": 463640,
-      "word": "母亲节红包",
-      "onboard_time": 1684030166,
-      "rank": 17,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 452023,
@@ -235,6 +243,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 403869,
+      "num": 286428,
+      "word": "Amber当曾可妮的面说烦死她了",
+      "onboard_time": 1684030947,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 402351,
       "num": 324495,
       "word": "侯明昊回应裤子透光",
@@ -251,20 +267,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 382575,
+      "num": 382575,
+      "word": "室友拍下盲人女博士努力学习的模样",
+      "onboard_time": 1684031065,
+      "rank": 34,
+      "category": "社会正能量,教育"
+    },
+    {
       "raw_hot": 381315,
       "num": 689289,
       "word": "自称长相比较可爱女副教授回应",
       "onboard_time": 1683990332,
       "rank": 9,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 368759,
-      "num": 286428,
-      "word": "Amber当曾可妮的面说烦死她了",
-      "onboard_time": 1684030947,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 360435,
@@ -283,12 +299,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 345569,
+      "num": 273050,
+      "word": "考个科目三把我考穷了",
+      "onboard_time": 1684031969,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 343400,
+      "num": 270342,
+      "word": "吃榴莲大姨妈提前了",
+      "onboard_time": 1684031969,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 341273,
       "num": 249801,
       "word": "墨香铜臭",
       "onboard_time": 1683991112,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 329660,
+      "num": 262839,
+      "word": "易烊千玺实体专辑预售预告",
+      "onboard_time": 1684032388,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 327953,
@@ -419,14 +459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 255823,
-      "num": 255823,
-      "word": "室友拍下盲人女博士努力学习的模样",
-      "onboard_time": 1684031065,
-      "rank": 34,
-      "category": "社会正能量,教育"
-    },
-    {
       "raw_hot": 254475,
       "num": 254475,
       "word": "母亲节礼物",
@@ -499,14 +531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 224316,
-      "num": 224316,
-      "word": "考个科目三把我考穷了",
-      "onboard_time": 1684031969,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 223856,
       "num": 223856,
       "word": "妈妈20年前后对比照大赛",
@@ -547,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215552,
+      "num": 205321,
+      "word": "加班的同事 叫你上班别玩手机",
+      "onboard_time": 1684032928,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 215452,
       "num": 215452,
       "word": "母亲节没送礼物就是不孝顺吗",
@@ -585,14 +617,6 @@
       "onboard_time": 1683982169,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198082,
-      "num": 198082,
-      "word": "吃榴莲大姨妈提前了",
-      "onboard_time": 1684031969,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 196253,
@@ -649,6 +673,14 @@
       "onboard_time": 1684028545,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175042,
+      "num": 175042,
+      "word": "8位妈妈讲述自己的孕期故事",
+      "onboard_time": 1684033827,
+      "rank": 35,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 174487,
@@ -771,6 +803,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 145621,
+      "num": 145621,
+      "word": "你可以永远相信妈妈的审美",
+      "onboard_time": 1684034065,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142987,
       "num": 142987,
       "word": "美依礼芽投票依旧断层",
@@ -793,6 +833,14 @@
       "onboard_time": 1683985173,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139676,
+      "num": 139676,
+      "word": "护心",
+      "onboard_time": 1684032988,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 135045,
@@ -828,7 +876,7 @@
     },
     {
       "raw_hot": 119279,
-      "num": 149328,
+      "num": 450141,
       "word": "买SUV要不要四驱",
       "onboard_time": 1684032027,
       "rank": 45,
