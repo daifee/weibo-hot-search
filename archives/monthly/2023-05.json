@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684139628172,
+  "endTime": 1684142235529,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -193,6 +193,14 @@
       "onboard_time": 1683431967,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3169697,
+      "num": 3169697,
+      "word": "你支持全面禁止老头乐吗",
+      "onboard_time": 1684138827,
+      "rank": 47,
+      "category": "社会议题"
     },
     {
       "raw_hot": 3156156,
@@ -481,6 +489,14 @@
       "onboard_time": 1683013465,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2612914,
+      "num": 2612914,
+      "word": "笑果无限期停止house演艺工作",
+      "onboard_time": 1684133490,
+      "rank": 0,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2612182,
@@ -841,14 +857,6 @@
       "onboard_time": 1683245009,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2245496,
-      "num": 2245496,
-      "word": "笑果无限期停止house演艺工作",
-      "onboard_time": 1684133490,
-      "rank": 0,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2239970,
@@ -3388,7 +3396,7 @@
     },
     {
       "raw_hot": 1189133,
-      "num": 422047,
+      "num": 746321,
       "word": "昆工虐猫",
       "onboard_time": 1684136491,
       "rank": 10,
@@ -3956,7 +3964,7 @@
     },
     {
       "raw_hot": 1063003,
-      "num": 602585,
+      "num": 745477,
       "word": "刘丹母亲节拒谈杨幂",
       "onboard_time": 1684130608,
       "rank": 11,
@@ -4329,6 +4337,14 @@
       "onboard_time": 1683257430,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 980348,
+      "num": 980348,
+      "word": "洞洞鞋",
+      "onboard_time": 1684138467,
+      "rank": 48,
+      "category": "时尚"
     },
     {
       "raw_hot": 977816,
@@ -4883,6 +4899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 875817,
+      "num": 875817,
+      "word": "gidle新歌Queencard",
+      "onboard_time": 1684141895,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 874275,
       "num": 874275,
       "word": "霉霉 有屁重录",
@@ -4945,6 +4969,14 @@
       "onboard_time": 1683546988,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 863131,
+      "num": 863131,
+      "word": "窦靖童和王菲是怎么认识的",
+      "onboard_time": 1684137508,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 862995,
@@ -5305,6 +5337,14 @@
       "onboard_time": 1683551972,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 803108,
+      "num": 803108,
+      "word": "gidle回归",
+      "onboard_time": 1684140269,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 802162,
@@ -8875,6 +8915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 479598,
+      "num": 479598,
+      "word": "老虎剃了毛依然有花纹",
+      "onboard_time": 1684137330,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 479429,
       "num": 479429,
       "word": "王者荣耀亚运版本国家集训队名单",
@@ -10601,14 +10649,6 @@
       "onboard_time": 1683806966,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 407299,
-      "num": 191717,
-      "word": "老虎剃了毛依然有花纹",
-      "onboard_time": 1684137330,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 407245,
@@ -13219,6 +13259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 337575,
+      "num": 272962,
+      "word": "下班在地铁上被公司辞退了",
+      "onboard_time": 1684141289,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 337106,
       "num": 307905,
       "word": "蒋雯丽明道你们图啥",
@@ -14371,14 +14419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 311253,
-      "num": 257935,
-      "word": "窦靖童和王菲是怎么认识的",
-      "onboard_time": 1684137508,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 310676,
       "num": 310676,
       "word": "湖人场边全是明星",
@@ -15145,6 +15185,14 @@
       "onboard_time": 1683792508,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294801,
+      "num": 272957,
+      "word": "年度最吸金本科专业出炉",
+      "onboard_time": 1684138709,
+      "rank": 46,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 294799,
@@ -17939,6 +17987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249067,
+      "num": 249067,
+      "word": "原来每个户外人都有阴间照片",
+      "onboard_time": 1684140990,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 249056,
       "num": 249056,
       "word": "黄晓明回应汶川地震夹缝男孩",
@@ -18033,14 +18089,6 @@
       "onboard_time": 1683020547,
       "rank": 6,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 248151,
-      "num": 248151,
-      "word": "你支持全面禁止老头乐吗",
-      "onboard_time": 1684138827,
-      "rank": 47,
-      "category": "社会议题"
     },
     {
       "raw_hot": 248114,
@@ -18697,14 +18745,6 @@
       "onboard_time": 1683563424,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 239513,
-      "num": 239513,
-      "word": "洞洞鞋",
-      "onboard_time": 1684138467,
-      "rank": 48,
-      "category": "时尚"
     },
     {
       "raw_hot": 239414,
@@ -20731,6 +20771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 215121,
+      "num": 215121,
+      "word": "bing崩了",
+      "onboard_time": 1684140931,
+      "rank": 25,
+      "category": "科技"
+    },
+    {
       "raw_hot": 215106,
       "num": 215106,
       "word": "王栎鑫屋里打伞",
@@ -20961,14 +21009,6 @@
       "onboard_time": 1683606030,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 212354,
-      "num": 212354,
-      "word": "年度最吸金本科专业出炉",
-      "onboard_time": 1684138709,
-      "rank": 46,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 212292,
@@ -22963,6 +23003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191481,
+      "num": 191481,
+      "word": "七个徐天召唤一个肖春生",
+      "onboard_time": 1684141589,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191474,
       "num": 192031,
       "word": "狼队晋级春季赛总决赛",
@@ -24243,6 +24291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177822,
+      "num": 177822,
+      "word": "谢娜主动给组员让词",
+      "onboard_time": 1684140810,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177748,
       "num": 177748,
       "word": "美依礼芽御姐音",
@@ -25123,6 +25179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168981,
+      "num": 168981,
+      "word": "考个驾照瘦了10斤了",
+      "onboard_time": 1684140089,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168958,
       "num": 168958,
       "word": "华晨宇实体专辑预告片上线",
@@ -25635,6 +25699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163527,
+      "num": 163527,
+      "word": "乘风的姐夫们",
+      "onboard_time": 1684138350,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163452,
       "num": 163452,
       "word": "王心凌唱歌吃到彩带",
@@ -25713,6 +25785,14 @@
       "onboard_time": 1682932168,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162645,
+      "num": 162645,
+      "word": "王鹤棣王传君看起来真的不聪明",
+      "onboard_time": 1684139308,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 162495,
@@ -26923,12 +27003,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148678,
-      "num": 148678,
-      "word": "乘风的姐夫们",
-      "onboard_time": 1684138350,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 148672,
+      "num": 148672,
+      "word": "被爸妈的聊天记录整破防了",
+      "onboard_time": 1684141048,
+      "rank": 39,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 148637,
@@ -27505,6 +27585,14 @@
       "onboard_time": 1684060225,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139890,
+      "num": 139890,
+      "word": "80岁奶奶3小时跑完半马",
+      "onboard_time": 1684140510,
+      "rank": 41,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 139742,
@@ -28171,6 +28259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 130636,
+      "num": 130636,
+      "word": "这到底是开榴莲还是剥香蕉",
+      "onboard_time": 1684138529,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130519,
       "num": 130519,
       "word": "祝绪丹给刘宇宁打电话",
@@ -28377,6 +28473,14 @@
       "onboard_time": 1682898265,
       "rank": 41,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 128225,
+      "num": 128225,
+      "word": "30岁前快解决的几个问题",
+      "onboard_time": 1684141707,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 128140,
@@ -28649,6 +28753,14 @@
       "onboard_time": 1683105871,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124178,
+      "num": 124178,
+      "word": "宋浩老师回应高数视频播放破亿",
+      "onboard_time": 1684142128,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 123629,
@@ -31339,6 +31451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 33854,
+      "num": 1775730,
+      "word": "关注2023中关村论坛",
+      "onboard_time": 1684137808,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33362,
       "num": 255193,
       "word": "五一高速充电依旧排队",
@@ -31409,14 +31529,6 @@
       "onboard_time": 1682887093,
       "rank": 35,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 30877,
-      "num": 1334549,
-      "word": "关注2023中关村论坛",
-      "onboard_time": 1684137808,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30249,
