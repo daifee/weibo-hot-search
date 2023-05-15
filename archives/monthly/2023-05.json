@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684155045520,
+  "endTime": 1684156849082,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -457,6 +457,14 @@
       "onboard_time": 1683674843,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2665337,
+      "num": 2665337,
+      "word": "睡觉 命重要",
+      "onboard_time": 1684153287,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 2661643,
@@ -1299,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1889486,
+      "num": 601718,
+      "word": "迪丽热巴未修原档生图",
+      "onboard_time": 1684153047,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1884914,
       "num": 1884914,
       "word": "要不要为了编制回小县城",
@@ -1564,7 +1580,7 @@
     },
     {
       "raw_hot": 1766315,
-      "num": 1334923,
+      "num": 1365676,
       "word": "新版四大甜妹",
       "onboard_time": 1684149989,
       "rank": 31,
@@ -1745,14 +1761,6 @@
       "onboard_time": 1682998288,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1676885,
-      "num": 601718,
-      "word": "迪丽热巴未修原档生图",
-      "onboard_time": 1684153047,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1676861,
@@ -2064,6 +2072,14 @@
       "word": "笑果",
       "onboard_time": 1684125575,
       "rank": 7,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1573770,
+      "num": 1461180,
+      "word": "文旅部门介入调查House不当言论",
+      "onboard_time": 1684143389,
+      "rank": 5,
       "category": "社会新闻,艺人"
     },
     {
@@ -2465,14 +2481,6 @@
       "onboard_time": 1683122072,
       "rank": 37,
       "category": "情感,美食"
-    },
-    {
-      "raw_hot": 1461180,
-      "num": 1461180,
-      "word": "文旅部门介入调查House不当言论",
-      "onboard_time": 1684143389,
-      "rank": 5,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1459992,
@@ -2939,14 +2947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1310911,
-      "num": 1310911,
-      "word": "睡觉 命重要",
-      "onboard_time": 1684153287,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1310863,
       "num": 1310863,
       "word": "年收入二十万是怎样的水平",
@@ -3281,6 +3281,14 @@
       "onboard_time": 1683554132,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1238185,
+      "num": 1238185,
+      "word": "5岁中法混血女孩遭父亲割喉身亡",
+      "onboard_time": 1684153409,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1236574,
@@ -6099,6 +6107,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 706990,
+      "num": 706990,
+      "word": "肖战李沁梦中的那片海播出时间",
+      "onboard_time": 1684152627,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 705300,
       "num": 413327,
       "word": "美依礼芽男粉呐喊惊到黄晓明",
@@ -6329,14 +6345,6 @@
       "onboard_time": 1683553351,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 685732,
-      "num": 685732,
-      "word": "肖战李沁梦中的那片海播出时间",
-      "onboard_time": 1684152627,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 685337,
@@ -6697,14 +6705,6 @@
       "onboard_time": 1684150409,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 638398,
-      "num": 594550,
-      "word": "5岁中法混血女孩遭父亲割喉身亡",
-      "onboard_time": 1684153409,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 638365,
@@ -7209,6 +7209,14 @@
       "onboard_time": 1683725794,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 595184,
+      "num": 595184,
+      "word": "广东情侣住酒店凌晨被人开门闯入",
+      "onboard_time": 1684152089,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 595131,
@@ -8507,14 +8515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 514150,
-      "num": 514150,
-      "word": "广东情侣住酒店凌晨被人开门闯入",
-      "onboard_time": 1684152089,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 513967,
       "num": 513967,
       "word": "2022年平均工资",
@@ -8625,6 +8625,14 @@
       "onboard_time": 1683532414,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 507093,
+      "num": 507093,
+      "word": "CBA总决赛",
+      "onboard_time": 1683543570,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 506429,
@@ -9955,14 +9963,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 440614,
-      "num": 440614,
-      "word": "CBA总决赛",
-      "onboard_time": 1683543570,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 439438,
       "num": 439438,
       "word": "特斯拉涨价",
@@ -11088,6 +11088,14 @@
       "word": "奔跑吧今晚和400位观众合唱",
       "onboard_time": 1683887908,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 400304,
+      "num": 400304,
+      "word": "怎么没有徐怀钰直拍",
+      "onboard_time": 1684154127,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -14667,6 +14675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 310343,
+      "num": 227480,
+      "word": "官方回应女子捆绑2女儿河中身亡",
+      "onboard_time": 1684155027,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310337,
       "num": 320439,
       "word": "卡米拉",
@@ -18243,14 +18259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 249013,
-      "num": 249013,
-      "word": "怎么没有徐怀钰直拍",
-      "onboard_time": 1684154127,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 248963,
       "num": 248963,
       "word": "19岁高职毕业生在清华当老师的体验",
@@ -18465,6 +18473,14 @@
       "onboard_time": 1682989648,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 246584,
+      "num": 246584,
+      "word": "辞职了还要被叫去加班",
+      "onboard_time": 1684154127,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 246562,
@@ -23379,6 +23395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191450,
+      "num": 191450,
+      "word": "脱口秀 冒犯的艺术",
+      "onboard_time": 1684156229,
+      "rank": 33,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 191313,
       "num": 191313,
       "word": "王子奇直播",
@@ -24211,6 +24235,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 182429,
+      "num": 182429,
+      "word": "为什么不要把友情变成爱情",
+      "onboard_time": 1684153709,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182226,
       "num": 164929,
       "word": "那英说张杰演唱会太炸了",
@@ -24323,12 +24355,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 180912,
+      "num": 180912,
+      "word": "王者敦煌皮肤第四季",
+      "onboard_time": 1684156411,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 180597,
       "num": 180597,
       "word": "周也男主运",
       "onboard_time": 1683192270,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180436,
+      "num": 180436,
+      "word": "华莎表演动作",
+      "onboard_time": 1684156171,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 180381,
@@ -24465,6 +24513,14 @@
       "onboard_time": 1682909908,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179245,
+      "num": 180490,
+      "word": "2023腾讯游戏发布会",
+      "onboard_time": 1684155509,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 179198,
@@ -25299,14 +25355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 172764,
-      "num": 172764,
-      "word": "为什么不要把友情变成爱情",
-      "onboard_time": 1684153709,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 172740,
       "num": 172740,
       "word": "乌鸦扯下以色列国旗",
@@ -25721,14 +25769,6 @@
       "onboard_time": 1683631289,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167624,
-      "num": 167624,
-      "word": "辞职了还要被叫去加班",
-      "onboard_time": 1684154127,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 167622,
@@ -27113,6 +27153,14 @@
       "onboard_time": 1683357929,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 151537,
+      "num": 151537,
+      "word": "Alin称体重数字被公放",
+      "onboard_time": 1684156349,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 151503,
@@ -29873,14 +29921,6 @@
       "onboard_time": 1684142491,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 108727,
-      "num": 108727,
-      "word": "官方回应女子捆绑2女儿河中身亡",
-      "onboard_time": 1684155027,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108667,

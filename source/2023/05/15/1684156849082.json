@@ -1,0 +1,410 @@
+{
+  "runTime": 1684156849082,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2665337,
+        "num": 2665337,
+        "word": "睡觉 命重要",
+        "onboard_time": 1684153287,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1432313,
+        "num": 1432313,
+        "word": "台媒说浪姐4职场霸凌徐怀钰",
+        "onboard_time": 1684151066,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11768,
+        "num": 1374691,
+        "word": "关注2023中关村论坛",
+        "onboard_time": 1684137808,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1365676,
+        "num": 1365676,
+        "word": "新版四大甜妹",
+        "onboard_time": 1684149989,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1238185,
+        "num": 1238185,
+        "word": "5岁中法混血女孩遭父亲割喉身亡",
+        "onboard_time": 1684153409,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1068901,
+        "num": 1068901,
+        "word": "韩国女性被献给美国大兵遭蹂躏数十年",
+        "onboard_time": 1684144588,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 931067,
+        "num": 931067,
+        "word": "陈玘",
+        "onboard_time": 1684152267,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 706990,
+        "num": 706990,
+        "word": "肖战李沁梦中的那片海播出时间",
+        "onboard_time": 1684152627,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 608134,
+        "num": 608134,
+        "word": "你支持全面禁止老头乐吗",
+        "onboard_time": 1684138827,
+        "rank": 8,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 595184,
+        "num": 595184,
+        "word": "广东情侣住酒店凌晨被人开门闯入",
+        "onboard_time": 1684152089,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1889486,
+        "num": 592706,
+        "word": "迪丽热巴未修原档生图",
+        "onboard_time": 1684153047,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1573770,
+        "num": 567412,
+        "word": "文旅部门介入调查House不当言论",
+        "onboard_time": 1684143389,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 725796,
+        "num": 551274,
+        "word": "释小龙给郝劭文当伴郎",
+        "onboard_time": 1684144889,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507093,
+        "num": 507093,
+        "word": "CBA总决赛",
+        "onboard_time": 1684150467,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 560965,
+        "num": 499697,
+        "word": "笑果无限期停止house演艺工作",
+        "onboard_time": 1684133490,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 468528,
+        "num": 468528,
+        "word": "夫妻结婚33年生下8女1儿",
+        "onboard_time": 1684147289,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441772,
+        "num": 441772,
+        "word": "点痣前的朱珠",
+        "onboard_time": 1684151787,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400304,
+        "num": 400304,
+        "word": "怎么没有徐怀钰直拍",
+        "onboard_time": 1684154127,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436399,
+        "num": 371727,
+        "word": "朱珠爷爷给她起的名字",
+        "onboard_time": 1684150409,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340526,
+        "num": 340526,
+        "word": "曲婉婷2套房产起拍价450万元",
+        "onboard_time": 1684148788,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 330447,
+        "num": 330447,
+        "word": "一不小心翻到董事长工资",
+        "onboard_time": 1684146749,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 308850,
+        "num": 308850,
+        "word": "house道歉",
+        "onboard_time": 1684133668,
+        "rank": 21,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 301835,
+        "num": 301835,
+        "word": "32岁女生相亲角因条件高被男子怼哭",
+        "onboard_time": 1684145851,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293697,
+        "num": 293697,
+        "word": "辽宁男篮vs浙江男篮",
+        "onboard_time": 1684151488,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284762,
+        "num": 284762,
+        "word": "北京市文化执法总队已对笑果立案调查",
+        "onboard_time": 1684149150,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 275673,
+        "num": 275673,
+        "word": "窦靖童和王菲是怎么认识的",
+        "onboard_time": 1684137508,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267305,
+        "num": 267305,
+        "word": "gidle 抄袭",
+        "onboard_time": 1684134690,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 256828,
+        "num": 256828,
+        "word": "别让郑秀妍看到浪姐4的伴舞",
+        "onboard_time": 1684151129,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246584,
+        "num": 246584,
+        "word": "辞职了还要被叫去加班",
+        "onboard_time": 1684154127,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59696,
+        "num": 231078,
+        "word": "母亲见牙医像已故女儿瞬间落泪",
+        "onboard_time": 1684133668,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310343,
+        "num": 227480,
+        "word": "官方回应女子捆绑2女儿河中身亡",
+        "onboard_time": 1684155027,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222830,
+        "num": 222830,
+        "word": "笑果旗下艺人多次违法被处罚",
+        "onboard_time": 1684145367,
+        "rank": 31,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 212948,
+        "num": 212948,
+        "word": "全国约有11至12亿人感染过新冠",
+        "onboard_time": 1684148428,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191450,
+        "num": 191450,
+        "word": "脱口秀 冒犯的艺术",
+        "onboard_time": 1684156229,
+        "rank": 33,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 186322,
+        "num": 186322,
+        "word": "刘耀文成都",
+        "onboard_time": 1684152508,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182429,
+        "num": 182429,
+        "word": "为什么不要把友情变成爱情",
+        "onboard_time": 1684153709,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180912,
+        "num": 180912,
+        "word": "王者敦煌皮肤第四季",
+        "onboard_time": 1684156411,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179245,
+        "num": 180490,
+        "word": "2023腾讯游戏发布会",
+        "onboard_time": 1684155509,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180436,
+        "num": 180436,
+        "word": "华莎表演动作",
+        "onboard_time": 1684156171,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179771,
+        "num": 179771,
+        "word": "加拿大模特在中国坐月子",
+        "onboard_time": 1684133608,
+        "rank": 39,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 151789,
+        "num": 151789,
+        "word": "gidle新歌Queencard",
+        "onboard_time": 1684141895,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151537,
+        "num": 151537,
+        "word": "Alin称体重数字被公放",
+        "onboard_time": 1684156349,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149309,
+        "num": 149309,
+        "word": "金素妍真的不是石矶娘娘吗",
+        "onboard_time": 1684147107,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146808,
+        "num": 146808,
+        "word": "广东人有钱的原因找到了",
+        "onboard_time": 1684150409,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146393,
+        "num": 146393,
+        "word": "后浪",
+        "onboard_time": 1684154791,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135075,
+        "num": 135075,
+        "word": "芭莎镜头下的张彬彬吴倩",
+        "onboard_time": 1684149627,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 132668,
+        "num": 132668,
+        "word": "秋瓷炫工地芭蕾直拍流出",
+        "onboard_time": 1684129526,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122498,
+        "num": 122498,
+        "word": "周冬雨刘昊然屈楚萧雪地躺平",
+        "onboard_time": 1684145310,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118470,
+        "num": 118470,
+        "word": "宋小宝 王嘉尔",
+        "onboard_time": 1684131147,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78344,
+        "num": 118276,
+        "word": "洞洞鞋",
+        "onboard_time": 1684138467,
+        "rank": 49,
+        "category": "时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国与中亚国家的友谊再谱新篇#"
+    }
+  }
+}
