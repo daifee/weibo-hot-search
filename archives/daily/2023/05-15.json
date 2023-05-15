@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684156849082,
+  "endTime": 1684157606704,
   "band_list": [
     {
       "raw_hot": 3904532,
@@ -11,8 +11,8 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 2665337,
-      "num": 2665337,
+      "raw_hot": 2998047,
+      "num": 2998047,
       "word": "睡觉 命重要",
       "onboard_time": 1684153287,
       "rank": 17,
@@ -51,7 +51,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1889486,
+      "raw_hot": 1923600,
       "num": 601718,
       "word": "迪丽热巴未修原档生图",
       "onboard_time": 1684153047,
@@ -139,20 +139,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1510315,
+      "num": 1434948,
+      "word": "台媒说浪姐4职场霸凌徐怀钰",
+      "onboard_time": 1684151066,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1505320,
       "num": 987943,
       "word": "女子怀孕后发现男友已婚",
       "onboard_time": 1684105399,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1434948,
-      "num": 1434948,
-      "word": "台媒说浪姐4职场霸凌徐怀钰",
-      "onboard_time": 1684151066,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1414087,
@@ -169,6 +169,14 @@
       "onboard_time": 1684133668,
       "rank": 4,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1359869,
+      "num": 1359869,
+      "word": "5岁中法混血女孩遭父亲割喉身亡",
+      "onboard_time": 1684153409,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1352022,
@@ -209,14 +217,6 @@
       "onboard_time": 1684107623,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1238185,
-      "num": 1238185,
-      "word": "5岁中法混血女孩遭父亲割喉身亡",
-      "onboard_time": 1684153409,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1216114,
@@ -483,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 637783,
+      "num": 637783,
+      "word": "广东情侣住酒店凌晨被人开门闯入",
+      "onboard_time": 1684152089,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 627997,
       "num": 627997,
       "word": "叉烧芬 你徒弟出师了",
@@ -505,14 +513,6 @@
       "onboard_time": 1684131988,
       "rank": 24,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 595184,
-      "num": 595184,
-      "word": "广东情侣住酒店凌晨被人开门闯入",
-      "onboard_time": 1684152089,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 560953,
@@ -547,8 +547,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 507093,
-      "num": 507093,
+      "raw_hot": 515890,
+      "num": 515890,
       "word": "CBA总决赛",
       "onboard_time": 1684150467,
       "rank": 20,
@@ -667,6 +667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 432991,
+      "num": 432991,
+      "word": "怎么没有徐怀钰直拍",
+      "onboard_time": 1684154127,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 430641,
       "num": 252305,
       "word": "雪鹰领主",
@@ -755,14 +763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 400304,
-      "num": 400304,
-      "word": "怎么没有徐怀钰直拍",
-      "onboard_time": 1684154127,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 400288,
       "num": 341211,
       "word": "周杰伦演唱会以七里香结尾的原因",
@@ -793,6 +793,22 @@
       "onboard_time": 1684125575,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 386619,
+      "num": 349819,
+      "word": "月薪5000真的很低吗",
+      "onboard_time": 1684156949,
+      "rank": 21,
+      "category": "社会议题"
+    },
+    {
+      "raw_hot": 371176,
+      "num": 371176,
+      "word": "颜九 温精灵",
+      "onboard_time": 1684157374,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 364907,
@@ -891,6 +907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 333485,
+      "num": 333485,
+      "word": "辽宁男篮vs浙江男篮",
+      "onboard_time": 1684151488,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 329528,
       "num": 329528,
       "word": "唐山警方回应农妇袭警案",
@@ -932,7 +956,7 @@
     },
     {
       "raw_hot": 310343,
-      "num": 227480,
+      "num": 264093,
       "word": "官方回应女子捆绑2女儿河中身亡",
       "onboard_time": 1684155027,
       "rank": 46,
@@ -985,14 +1009,6 @@
       "onboard_time": 1684154791,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 293697,
-      "num": 293697,
-      "word": "辽宁男篮vs浙江男篮",
-      "onboard_time": 1684151488,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 293234,
@@ -1067,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268642,
+      "num": 268642,
+      "word": "辞职了还要被叫去加班",
+      "onboard_time": 1684154127,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 267209,
       "num": 267209,
       "word": "虞书欣骑龙vs周也骑龙",
@@ -1129,14 +1153,6 @@
       "onboard_time": 1684116083,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 246584,
-      "num": 246584,
-      "word": "辞职了还要被叫去加班",
-      "onboard_time": 1684154127,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 244253,
@@ -1227,12 +1243,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228867,
+      "num": 228867,
+      "word": "王者敦煌皮肤第四季",
+      "onboard_time": 1684156411,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 228676,
       "num": 1497205,
       "word": "80岁奶奶3小时跑完半马",
       "onboard_time": 1684140510,
       "rank": 41,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 227877,
+      "num": 227877,
+      "word": "脱口秀 冒犯的艺术",
+      "onboard_time": 1684156229,
+      "rank": 33,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 224816,
+      "num": 224816,
+      "word": "Alin称体重数字被公放",
+      "onboard_time": 1684156349,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 224301,
@@ -1265,6 +1305,22 @@
       "onboard_time": 1684062926,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 222236,
+      "num": 222236,
+      "word": "华莎表演动作",
+      "onboard_time": 1684156171,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 221936,
+      "num": 221936,
+      "word": "刘耀文成都",
+      "onboard_time": 1684152508,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 221414,
@@ -1411,14 +1467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207934,
-      "num": 207934,
-      "word": "刘耀文成都",
-      "onboard_time": 1684152508,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206654,
       "num": 206654,
       "word": "华晨宇说马嘉祺是很大的惊喜",
@@ -1539,14 +1587,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191450,
-      "num": 191450,
-      "word": "脱口秀 冒犯的艺术",
-      "onboard_time": 1684156229,
-      "rank": 33,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 191225,
       "num": 138345,
       "word": "侯明昊早几年干嘛去了",
@@ -1649,22 +1689,6 @@
       "onboard_time": 1684123111,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 180912,
-      "num": 180912,
-      "word": "王者敦煌皮肤第四季",
-      "onboard_time": 1684156411,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 180436,
-      "num": 180436,
-      "word": "华莎表演动作",
-      "onboard_time": 1684156171,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 179977,
@@ -1907,14 +1931,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 151537,
-      "num": 151537,
-      "word": "Alin称体重数字被公放",
-      "onboard_time": 1684156349,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150347,
       "num": 150347,
       "word": "塞学家研究所",
@@ -2107,6 +2123,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 133057,
+      "num": 133057,
+      "word": "你能把遗憾写到什么程度",
+      "onboard_time": 1684157429,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132894,
       "num": 132894,
       "word": "杨颖相思令杀青plog",
@@ -2169,6 +2193,14 @@
       "onboard_time": 1684116865,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 126303,
+      "num": 126303,
+      "word": "爸爸买漂亮小裙子女儿激动尖叫",
+      "onboard_time": 1684157252,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124783,
