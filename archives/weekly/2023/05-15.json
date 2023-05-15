@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684146843077,
+  "endTime": 1684149256108,
   "band_list": [
     {
       "raw_hot": 3904532,
@@ -17,6 +17,14 @@
       "onboard_time": 1684133490,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2279135,
+      "num": 2279135,
+      "word": "韩国女性被献给美国大兵遭蹂躏数十年",
+      "onboard_time": 1684144588,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2012983,
@@ -89,14 +97,6 @@
       "onboard_time": 1684078408,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1530229,
-      "num": 1530229,
-      "word": "韩国女性被献给美国大兵遭蹂躏数十年",
-      "onboard_time": 1684144588,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1529435,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1013252,
+      "num": 869176,
+      "word": "释小龙给郝劭文当伴郎",
+      "onboard_time": 1684144889,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 972751,
       "num": 972751,
       "word": "男子花10万块买了8套房",
@@ -241,14 +249,6 @@
       "onboard_time": 1684141895,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 933553,
-      "num": 869176,
-      "word": "释小龙给郝劭文当伴郎",
-      "onboard_time": 1684144889,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 926211,
@@ -411,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 612388,
+      "num": 612388,
+      "word": "夫妻结婚33年生下8女1儿",
+      "onboard_time": 1684147289,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 606769,
       "num": 606769,
       "word": "秋瓷炫像是在跳我的人生",
@@ -435,20 +443,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 553527,
+      "num": 553527,
+      "word": "周冬雨刘昊然屈楚萧雪地躺平",
+      "onboard_time": 1684145310,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 550120,
       "num": 302491,
       "word": "你赞同演唱会实名制购票吗",
       "onboard_time": 1684123653,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 515866,
-      "num": 515866,
-      "word": "周冬雨刘昊然屈楚萧雪地躺平",
-      "onboard_time": 1684145310,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 491073,
@@ -507,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 460002,
+      "num": 329187,
+      "word": "一不小心翻到董事长工资",
+      "onboard_time": 1684146749,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 457176,
       "num": 457176,
       "word": "复阳",
@@ -521,6 +537,30 @@
       "onboard_time": 1684078228,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 446998,
+      "num": 446998,
+      "word": "笑果旗下艺人多次违法被处罚",
+      "onboard_time": 1684145367,
+      "rank": 33,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 445878,
+      "num": 445878,
+      "word": "我找王鹤棣捏",
+      "onboard_time": 1684146989,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 443320,
+      "num": 443320,
+      "word": "金素妍真的不是石矶娘娘吗",
+      "onboard_time": 1684147107,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 430641,
@@ -683,14 +723,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 342843,
-      "num": 342843,
-      "word": "笑果旗下艺人多次违法被处罚",
-      "onboard_time": 1684145367,
-      "rank": 33,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 340812,
       "num": 340812,
       "word": "原来每个户外人都有阴间照片",
@@ -737,6 +769,14 @@
       "onboard_time": 1684124070,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 329696,
+      "num": 329696,
+      "word": "32岁女生相亲角因条件高被男子怼哭",
+      "onboard_time": 1684145851,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 329528,
@@ -1011,6 +1051,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229052,
+      "num": 229052,
+      "word": "屈楚萧你另一条胳膊呢",
+      "onboard_time": 1684147467,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 228676,
+      "num": 1497205,
+      "word": "80岁奶奶3小时跑完半马",
+      "onboard_time": 1684140510,
+      "rank": 41,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 224301,
       "num": 224301,
       "word": "21岁了感觉自己还像个小孩",
@@ -1083,6 +1139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 214908,
+      "num": 214908,
+      "word": "gidle空降",
+      "onboard_time": 1684148726,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212985,
       "num": 212985,
       "word": "电影燃冬他她他海报",
@@ -1131,14 +1195,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 210691,
-      "num": 210691,
-      "word": "32岁女生相亲角因条件高被男子怼哭",
-      "onboard_time": 1684145851,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209807,
       "num": 171262,
       "word": "追你的人突然有对象了",
@@ -1171,12 +1227,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206338,
-      "num": 1484018,
-      "word": "80岁奶奶3小时跑完半马",
-      "onboard_time": 1684140510,
-      "rank": 41,
-      "category": "社会新闻,体育"
+      "raw_hot": 206632,
+      "num": 1422626,
+      "word": "阿尔兹海默症老人深山走失被警犬寻回",
+      "onboard_time": 1684146267,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206088,
+      "num": 206088,
+      "word": "曲婉婷2套房产起拍价450万元",
+      "onboard_time": 1684148788,
+      "rank": 30,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 204139,
@@ -1296,6 +1360,14 @@
       "word": "陈皓",
       "onboard_time": 1684126054,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189529,
+      "num": 189529,
+      "word": "全国约有11至12亿人感染过新冠",
+      "onboard_time": 1684148428,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1595,22 +1667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155662,
-      "num": 155662,
-      "word": "一不小心翻到董事长工资",
-      "onboard_time": 1684146749,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 154691,
-      "num": 1422626,
-      "word": "阿尔兹海默症老人深山走失被警犬寻回",
-      "onboard_time": 1684146267,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150347,
       "num": 150347,
       "word": "塞学家研究所",
@@ -1649,6 +1705,14 @@
       "onboard_time": 1684107745,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147807,
+      "num": 147807,
+      "word": "陈晓扎头发",
+      "onboard_time": 1684147827,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 147369,
@@ -1889,6 +1953,14 @@
       "onboard_time": 1684113266,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 111832,
+      "num": 111832,
+      "word": "北京市文化执法总队已对笑果立案调查",
+      "onboard_time": 1684149150,
+      "rank": 44,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 110942,
@@ -2132,7 +2204,7 @@
     },
     {
       "raw_hot": 35368,
-      "num": 1775730,
+      "num": 1804859,
       "word": "关注2023中关村论坛",
       "onboard_time": 1684137808,
       "rank": 2,
