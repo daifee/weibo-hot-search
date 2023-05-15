@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684115390555,
+  "endTime": 1684118194171,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -2507,6 +2507,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1410948,
+      "num": 1410948,
+      "word": "易烊千玺实体专辑",
+      "onboard_time": 1684115366,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1410753,
       "num": 1410753,
       "word": "吴倩小心翼翼的样子好心疼",
@@ -2987,6 +2995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1269859,
+      "num": 1269859,
+      "word": "和认识七年的好朋友在一起了",
+      "onboard_time": 1684112426,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1269767,
       "num": 1269767,
       "word": "云南保山5.2级地震",
@@ -3092,7 +3108,7 @@
     },
     {
       "raw_hot": 1246337,
-      "num": 237672,
+      "num": 643171,
       "word": "王俊凯15岁和23岁回应谣言对比",
       "onboard_time": 1684107623,
       "rank": 20,
@@ -4299,14 +4315,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 952028,
-      "num": 952028,
-      "word": "和认识七年的好朋友在一起了",
-      "onboard_time": 1684112426,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 949837,
       "num": 949837,
       "word": "36岁常青藤毕业确诊癌症后反而很开心",
@@ -4681,6 +4689,14 @@
       "onboard_time": 1683416663,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 885124,
+      "num": 885124,
+      "word": "办公室一天讲不了2句话",
+      "onboard_time": 1684113447,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 882197,
@@ -5323,6 +5339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 770435,
+      "num": 770435,
+      "word": "QQ音乐",
+      "onboard_time": 1684116506,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 767295,
       "num": 767295,
       "word": "东北大哥称不想再管吵架事件",
@@ -5345,6 +5369,14 @@
       "onboard_time": 1683161308,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 764819,
+      "num": 764819,
+      "word": "于晓光陪秋瓷炫上班",
+      "onboard_time": 1684105880,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 764799,
@@ -6235,6 +6267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 661042,
+      "num": 661042,
+      "word": "刘艳芬",
+      "onboard_time": 1684116506,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 660976,
       "num": 660976,
       "word": "两头婚可以减少夫妻矛盾吗",
@@ -6257,14 +6297,6 @@
       "onboard_time": 1683036104,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 657879,
-      "num": 657879,
-      "word": "于晓光陪秋瓷炫上班",
-      "onboard_time": 1684105880,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 657804,
@@ -6473,6 +6505,14 @@
       "onboard_time": 1684058066,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 627997,
+      "num": 627997,
+      "word": "叉烧芬 你徒弟出师了",
+      "onboard_time": 1684113086,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 627136,
@@ -6827,14 +6867,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 596509,
-      "num": 153608,
-      "word": "易烊千玺实体专辑",
-      "onboard_time": 1684115366,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 596398,
       "num": 596398,
       "word": "周深都有时间秒回",
@@ -7137,14 +7169,6 @@
       "onboard_time": 1683725131,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 578522,
-      "num": 578522,
-      "word": "叉烧芬 你徒弟出师了",
-      "onboard_time": 1684113086,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 578287,
@@ -7473,14 +7497,6 @@
       "onboard_time": 1683781470,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 552824,
-      "num": 538169,
-      "word": "办公室一天讲不了2句话",
-      "onboard_time": 1684113447,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 551625,
@@ -8507,6 +8523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 488350,
+      "num": 488350,
+      "word": "演唱会为啥都在闹退票",
+      "onboard_time": 1684105399,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 487655,
       "num": 487655,
       "word": "詹姆斯被打",
@@ -8825,6 +8849,14 @@
       "onboard_time": 1683024387,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 471790,
+      "num": 471790,
+      "word": "民警代办5元取款哄九旬老人回家",
+      "onboard_time": 1684115486,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 471755,
@@ -9168,6 +9200,14 @@
       "word": "女子称在NIKE试衣间4分钟被偷拍3次",
       "onboard_time": 1683462510,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453730,
+      "num": 453730,
+      "word": "复阳",
+      "onboard_time": 1683337950,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -9736,6 +9776,14 @@
       "word": "小日子阵容官宣",
       "onboard_time": 1683254128,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 430641,
+      "num": 252305,
+      "word": "雪鹰领主",
+      "onboard_time": 1684116985,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -11756,7 +11804,7 @@
     },
     {
       "raw_hot": 362768,
-      "num": 191630,
+      "num": 221589,
       "word": "王俊凯在回应哪个",
       "onboard_time": 1684107684,
       "rank": 23,
@@ -13201,14 +13249,6 @@
       "onboard_time": 1683787529,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 329109,
-      "num": 329109,
-      "word": "演唱会为啥都在闹退票",
-      "onboard_time": 1684105399,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 329087,
@@ -15235,14 +15275,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 287008,
-      "num": 287008,
-      "word": "复阳",
-      "onboard_time": 1683337950,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 287002,
       "num": 243844,
       "word": "品如 战歌起",
@@ -15385,6 +15417,14 @@
       "onboard_time": 1683691052,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 284207,
+      "num": 250217,
+      "word": "儿子母亲节送花被妈妈拒收",
+      "onboard_time": 1684115065,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284168,
@@ -16225,6 +16265,14 @@
       "onboard_time": 1684049665,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267850,
+      "num": 267850,
+      "word": "20230520心形纪念币",
+      "onboard_time": 1684116746,
+      "rank": 19,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 267721,
@@ -17579,6 +17627,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 247871,
+      "num": 247871,
+      "word": "街舞新领队或将是Lisa和RAIN",
+      "onboard_time": 1684116083,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247860,
       "num": 247860,
       "word": "种地吧十个勤天直播卖花",
@@ -18835,6 +18891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 232096,
+      "num": 232096,
+      "word": "易烊千玺实体专辑6斤重",
+      "onboard_time": 1684117405,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 232002,
       "num": 248530,
       "word": "BLG战胜C9",
@@ -19251,6 +19315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 226459,
+      "num": 226459,
+      "word": "iPhone15将搭堆叠式摄像头",
+      "onboard_time": 1684117587,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 226443,
       "num": 226443,
       "word": "郭麒麟说别把我逼急了",
@@ -19520,6 +19592,14 @@
       "word": "护士节",
       "onboard_time": 1683847645,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221763,
+      "num": 221763,
+      "word": "男子猝死万幸倒在医生面前",
+      "onboard_time": 1684117887,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -20345,6 +20425,14 @@
       "onboard_time": 1684071991,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212629,
+      "num": 212629,
+      "word": "剑网3",
+      "onboard_time": 1684117826,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 212494,
@@ -22387,6 +22475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 190153,
+      "num": 190153,
+      "word": "王俊凯侧拍",
+      "onboard_time": 1684117467,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190100,
       "num": 190100,
       "word": "无畏直播",
@@ -23931,6 +24027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 173682,
+      "num": 173682,
+      "word": "持证救人快递小哥获奖了",
+      "onboard_time": 1684116985,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173626,
       "num": 173626,
       "word": "卜钰问刘晓世自己跟王一博撞型吗",
@@ -24739,6 +24843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 163986,
+      "num": 163986,
+      "word": "别让祖传的手法失传了",
+      "onboard_time": 1684117046,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163859,
       "num": 163859,
       "word": "宋茜直播",
@@ -24889,14 +25001,6 @@
       "onboard_time": 1682844087,
       "rank": 28,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 162257,
-      "num": 152168,
-      "word": "儿子母亲节送花被妈妈拒收",
-      "onboard_time": 1684115065,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162117,
@@ -26963,6 +27067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 134162,
+      "num": 134162,
+      "word": "多地呼吁避免520扎堆结婚登记",
+      "onboard_time": 1684118006,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134003,
       "num": 130926,
       "word": "郑秀妍巅峰音乐节",
@@ -27129,6 +27241,14 @@
       "onboard_time": 1683856949,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 132089,
+      "num": 132089,
+      "word": "给美依礼芽的应援被剪进了正片",
+      "onboard_time": 1684118065,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 131936,
@@ -27529,6 +27649,14 @@
       "onboard_time": 1682940328,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 126672,
+      "num": 126672,
+      "word": "叶舒华凌乱风",
+      "onboard_time": 1684116865,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 126416,
@@ -29611,6 +29739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65587,
+      "num": 252782,
+      "word": "什么能影响消费者的购车决策",
+      "onboard_time": 1684115245,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65561,
       "num": 65561,
       "word": "出镜吧妈妈",
@@ -29721,14 +29857,6 @@
       "onboard_time": 1684049186,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 61373,
-      "num": 103463,
-      "word": "什么能影响消费者的购车决策",
-      "onboard_time": 1684115245,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61298,
