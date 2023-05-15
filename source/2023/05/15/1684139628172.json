@@ -1,0 +1,410 @@
+{
+  "runTime": 1684139628172,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2243112,
+        "num": 2243112,
+        "word": "笑果无限期停止house演艺工作",
+        "onboard_time": 1684133490,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1211609,
+        "num": 1211609,
+        "word": "gidle 抄袭",
+        "onboard_time": 1684134690,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 30877,
+        "num": 1194149,
+        "word": "关注2023中关村论坛",
+        "onboard_time": 1684137808,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1177288,
+        "num": 1177288,
+        "word": "加拿大模特在中国坐月子",
+        "onboard_time": 1684133608,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1175863,
+        "num": 1175863,
+        "word": "宋小宝 王嘉尔",
+        "onboard_time": 1684131147,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1142660,
+        "num": 1142660,
+        "word": "house道歉",
+        "onboard_time": 1684133668,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 756049,
+        "num": 756049,
+        "word": "张嘉倪为叮叮当当组设计项链",
+        "onboard_time": 1684126775,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 679579,
+        "num": 679579,
+        "word": "杨紫阔腿工装裤",
+        "onboard_time": 1684134028,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 426890,
+        "num": 426890,
+        "word": "江西失踪5岁双胞胎均已身亡",
+        "onboard_time": 1684120589,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581193,
+        "num": 417100,
+        "word": "秋瓷炫工地芭蕾直拍流出",
+        "onboard_time": 1684129526,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1189133,
+        "num": 413503,
+        "word": "昆工虐猫",
+        "onboard_time": 1684136491,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 843702,
+        "num": 410531,
+        "word": "刘丹母亲节拒谈杨幂",
+        "onboard_time": 1684130608,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406391,
+        "num": 406391,
+        "word": "王源的戒断日记",
+        "onboard_time": 1684136308,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 386464,
+        "num": 386464,
+        "word": "母亲见牙医像已故女儿瞬间落泪",
+        "onboard_time": 1684133668,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364907,
+        "num": 364907,
+        "word": "易烊千玺新专辑售价198元",
+        "onboard_time": 1684135047,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 319280,
+        "num": 319280,
+        "word": "吴谨言再现魏璎珞",
+        "onboard_time": 1684136909,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282545,
+        "num": 282545,
+        "word": "男子猝死万幸倒在医生面前",
+        "onboard_time": 1684117887,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271330,
+        "num": 271330,
+        "word": "面试时HR让我写一百个一",
+        "onboard_time": 1684130968,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 267209,
+        "num": 267209,
+        "word": "虞书欣骑龙vs周也骑龙",
+        "onboard_time": 1684134628,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268488,
+        "num": 264810,
+        "word": "唐山警方回应农妇袭警案",
+        "onboard_time": 1684133490,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311253,
+        "num": 257935,
+        "word": "窦靖童和王菲是怎么认识的",
+        "onboard_time": 1684137508,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 287969,
+        "num": 253370,
+        "word": "初中同学成我导师了",
+        "onboard_time": 1684135169,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 278594,
+        "num": 248346,
+        "word": "杨幂宋祖儿裙子穿反了",
+        "onboard_time": 1684136429,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 248151,
+        "num": 248151,
+        "word": "你支持全面禁止老头乐吗",
+        "onboard_time": 1684138827,
+        "rank": 23,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 239513,
+        "num": 239513,
+        "word": "洞洞鞋",
+        "onboard_time": 1684138467,
+        "rank": 24,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 221792,
+        "num": 221792,
+        "word": "张雨绮 去法国看看我的队排到哪儿了",
+        "onboard_time": 1684121370,
+        "rank": 25,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 212354,
+        "num": 212354,
+        "word": "年度最吸金本科专业出炉",
+        "onboard_time": 1684138709,
+        "rank": 26,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 196967,
+        "num": 196967,
+        "word": "足浴技师称被灌醉遭性侵获立案",
+        "onboard_time": 1684129829,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193704,
+        "num": 193704,
+        "word": "办公室一天讲不了2句话",
+        "onboard_time": 1684113447,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192079,
+        "num": 192079,
+        "word": "宋茜好像洋娃娃",
+        "onboard_time": 1684135649,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 407299,
+        "num": 191717,
+        "word": "老虎剃了毛依然有花纹",
+        "onboard_time": 1684137330,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191219,
+        "num": 191219,
+        "word": "辞职后去旅游发朋友圈被说了",
+        "onboard_time": 1684120709,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185923,
+        "num": 185923,
+        "word": "被相处半年的相亲对象分手了",
+        "onboard_time": 1684136429,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178002,
+        "num": 178002,
+        "word": "朴树报平安",
+        "onboard_time": 1684121670,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171035,
+        "num": 171035,
+        "word": "吉克隽逸卡戴珊撞衫",
+        "onboard_time": 1684134267,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158416,
+        "num": 158416,
+        "word": "发朋友圈被亲戚同学说腿粗",
+        "onboard_time": 1684134149,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153246,
+        "num": 153246,
+        "word": "笑果",
+        "onboard_time": 1684125575,
+        "rank": 36,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 152296,
+        "num": 152296,
+        "word": "迪丽热巴冰淇淋侧颜",
+        "onboard_time": 1684126775,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148678,
+        "num": 148678,
+        "word": "乘风的姐夫们",
+        "onboard_time": 1684138350,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147369,
+        "num": 147369,
+        "word": "穿青蛙服的老奶奶",
+        "onboard_time": 1684138047,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147049,
+        "num": 147049,
+        "word": "iPhone15将搭堆叠式摄像头",
+        "onboard_time": 1684117587,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 145525,
+        "num": 145525,
+        "word": "小龙虾价格",
+        "onboard_time": 1684131806,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140354,
+        "num": 140354,
+        "word": "李宇春穿了三条裤子",
+        "onboard_time": 1684132289,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 135158,
+        "num": 135158,
+        "word": "王者荣耀女装",
+        "onboard_time": 1684125695,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134223,
+        "num": 134223,
+        "word": "老人主动住养老院写下80万字日记",
+        "onboard_time": 1684136068,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133102,
+        "num": 133102,
+        "word": "盘点笑果文化商业版图",
+        "onboard_time": 1684139371,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 132476,
+        "num": 132476,
+        "word": "张翰方否认恋情",
+        "onboard_time": 1684125395,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125260,
+        "num": 125260,
+        "word": "这条裤子是不是救过王子奇的命",
+        "onboard_time": 1684133008,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123317,
+        "num": 123317,
+        "word": "左耳朵耗子 心梗",
+        "onboard_time": 1684131448,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78942,
+        "num": 121266,
+        "word": "排球少年",
+        "onboard_time": 1684133065,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023春季中国元首外交纪实#"
+    }
+  }
+}
