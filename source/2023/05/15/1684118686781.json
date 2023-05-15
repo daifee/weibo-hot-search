@@ -1,0 +1,410 @@
+{
+  "runTime": 1684118686781,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1529435,
+        "num": 1529435,
+        "word": "易烊千玺实体专辑",
+        "onboard_time": 1684115366,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1283119,
+        "num": 1283119,
+        "word": "和认识七年的好朋友在一起了",
+        "onboard_time": 1684112426,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 10576,
+        "num": 1055927,
+        "word": "农忙时节的田野铺开了生机勃勃的画卷",
+        "onboard_time": 1684054285,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 904275,
+        "num": 904275,
+        "word": "办公室一天讲不了2句话",
+        "onboard_time": 1684113447,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874434,
+        "num": 874434,
+        "word": "女子怀孕后发现男友已婚",
+        "onboard_time": 1684105399,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 828154,
+        "num": 828154,
+        "word": "于晓光陪秋瓷炫上班",
+        "onboard_time": 1684105880,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 806840,
+        "num": 806840,
+        "word": "黄老师否认一场直播收入百万元",
+        "onboard_time": 1684106062,
+        "rank": 6,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 727229,
+        "num": 727229,
+        "word": "丈夫去世获赔142万公婆拒认遗腹子",
+        "onboard_time": 1684105399,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705148,
+        "num": 705148,
+        "word": "刘艳芬",
+        "onboard_time": 1684116506,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 646368,
+        "num": 646368,
+        "word": "QQ音乐",
+        "onboard_time": 1684116506,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1065472,
+        "num": 617724,
+        "word": "王俊凯15岁和23岁回应谣言对比",
+        "onboard_time": 1684107623,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568974,
+        "num": 568974,
+        "word": "刘雅瑟 姐姐的样子不是你以为的样子",
+        "onboard_time": 1684111288,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 566728,
+        "num": 566728,
+        "word": "叉烧芬 你徒弟出师了",
+        "onboard_time": 1684113086,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 464482,
+        "num": 464482,
+        "word": "演唱会为啥都在闹退票",
+        "onboard_time": 1684105399,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 459440,
+        "num": 459440,
+        "word": "民警代办5元取款哄九旬老人回家",
+        "onboard_time": 1684115486,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457176,
+        "num": 457176,
+        "word": "复阳",
+        "onboard_time": 1684115908,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454747,
+        "num": 454747,
+        "word": "凤凰传奇是美依礼芽的榜一",
+        "onboard_time": 1684073009,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425785,
+        "num": 425785,
+        "word": "男子猝死万幸倒在医生面前",
+        "onboard_time": 1684117887,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348518,
+        "num": 348518,
+        "word": "易烊千玺实体专辑6斤重",
+        "onboard_time": 1684117405,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 339002,
+        "num": 339002,
+        "word": "听见过三观最不正的话",
+        "onboard_time": 1684107445,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 324159,
+        "num": 324159,
+        "word": "男子花10万块买了8套房",
+        "onboard_time": 1684074511,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296450,
+        "num": 296450,
+        "word": "iPhone15将搭堆叠式摄像头",
+        "onboard_time": 1684117587,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 286625,
+        "num": 286625,
+        "word": "20230520心形纪念币",
+        "onboard_time": 1684116746,
+        "rank": 22,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 259236,
+        "num": 259236,
+        "word": "儿子母亲节送花被妈妈拒收",
+        "onboard_time": 1684115065,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257721,
+        "num": 257721,
+        "word": "剑网3",
+        "onboard_time": 1684117826,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 246691,
+        "num": 246691,
+        "word": "街舞新领队或将是Lisa和RAIN",
+        "onboard_time": 1684116083,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225108,
+        "num": 225108,
+        "word": "陈楚河",
+        "onboard_time": 1684078408,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 223597,
+        "num": 223597,
+        "word": "雪鹰领主",
+        "onboard_time": 1684116985,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214048,
+        "num": 214048,
+        "word": "浪姐4一公观众告诉你为什么花海会输",
+        "onboard_time": 1684069227,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208882,
+        "num": 208882,
+        "word": "给美依礼芽的应援被剪进了正片",
+        "onboard_time": 1684118065,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204032,
+        "num": 204032,
+        "word": "王俊凯在回应哪个",
+        "onboard_time": 1684107684,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202103,
+        "num": 202103,
+        "word": "妻子举报高校丈夫出轨多位女学生",
+        "onboard_time": 1684068687,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201521,
+        "num": 201521,
+        "word": "王俊凯侧拍",
+        "onboard_time": 1684117467,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199977,
+        "num": 199977,
+        "word": "梁成运间谍案一审宣判",
+        "onboard_time": 1684118307,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188688,
+        "num": 188688,
+        "word": "后浪扔外卖 离谱",
+        "onboard_time": 1684079068,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158642,
+        "num": 158642,
+        "word": "持证救人快递小哥获奖了",
+        "onboard_time": 1684116985,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144813,
+        "num": 144813,
+        "word": "芭莎拍的白鹿王鹤棣",
+        "onboard_time": 1684073131,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 144104,
+        "num": 144104,
+        "word": "多地呼吁避免520扎堆结婚登记",
+        "onboard_time": 1684118006,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134595,
+        "num": 134595,
+        "word": "电影院里最让人反感的行为",
+        "onboard_time": 1684113147,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134186,
+        "num": 134186,
+        "word": "哈登",
+        "onboard_time": 1684106723,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131865,
+        "num": 131865,
+        "word": "别让祖传的手法失传了",
+        "onboard_time": 1684117046,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126103,
+        "num": 126103,
+        "word": "叶舒华凌乱风",
+        "onboard_time": 1684116865,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124165,
+        "num": 124165,
+        "word": "刘雅瑟微博含姐量",
+        "onboard_time": 1684111348,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121117,
+        "num": 121117,
+        "word": "林允儿13年前vs13年后",
+        "onboard_time": 1684107143,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 117715,
+        "num": 117715,
+        "word": "光与夜之恋",
+        "onboard_time": 1684117706,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117331,
+        "num": 117331,
+        "word": "挖呀挖黄老师关闭直播间打赏",
+        "onboard_time": 1684069466,
+        "rank": 45,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 114758,
+        "num": 114758,
+        "word": "猫咪吵架上头把自己气晕了",
+        "onboard_time": 1684118608,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106696,
+        "num": 106696,
+        "word": "汶川95后小伙回乡卖光村里的滞销果",
+        "onboard_time": 1684113086,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105754,
+        "num": 105754,
+        "word": "员工带娃去上班合适吗",
+        "onboard_time": 1684118608,
+        "rank": 48,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 92434,
+        "num": 105159,
+        "word": "这种验榴莲的方式还是头一次见",
+        "onboard_time": 1684105640,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国与中亚国家的友谊再谱新篇#"
+    }
+  }
+}

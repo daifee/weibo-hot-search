@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684118194171,
+  "endTime": 1684118686781,
   "band_list": [
     {
       "raw_hot": 1933885,
@@ -27,6 +27,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1529435,
+      "num": 1529435,
+      "word": "易烊千玺实体专辑",
+      "onboard_time": 1684115366,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1505320,
       "num": 987943,
       "word": "女子怀孕后发现男友已婚",
@@ -43,16 +51,8 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 1410948,
-      "num": 1410948,
-      "word": "易烊千玺实体专辑",
-      "onboard_time": 1684115366,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 1269859,
-      "num": 1269859,
+      "raw_hot": 1283119,
+      "num": 1283119,
       "word": "和认识七年的好朋友在一起了",
       "onboard_time": 1684112426,
       "rank": 9,
@@ -91,12 +91,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 885124,
-      "num": 885124,
+      "raw_hot": 904275,
+      "num": 904275,
       "word": "办公室一天讲不了2句话",
       "onboard_time": 1684113447,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 828154,
+      "num": 828154,
+      "word": "于晓光陪秋瓷炫上班",
+      "onboard_time": 1684105880,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 770435,
@@ -105,14 +113,6 @@
       "onboard_time": 1684116506,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 764819,
-      "num": 764819,
-      "word": "于晓光陪秋瓷炫上班",
-      "onboard_time": 1684105880,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 751648,
@@ -131,6 +131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 727229,
+      "num": 727229,
+      "word": "丈夫去世获赔142万公婆拒认遗腹子",
+      "onboard_time": 1684105399,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 706619,
       "num": 706619,
       "word": "白玉兰最佳女主",
@@ -139,12 +147,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 701905,
-      "num": 701905,
-      "word": "丈夫去世获赔142万公婆拒认遗腹子",
-      "onboard_time": 1684105399,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 705148,
+      "num": 705148,
+      "word": "刘艳芬",
+      "onboard_time": 1684116506,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 680168,
@@ -153,14 +161,6 @@
       "onboard_time": 1684069227,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 661042,
-      "num": 661042,
-      "word": "刘艳芬",
-      "onboard_time": 1684116506,
-      "rank": 8,
-      "category": "音乐"
     },
     {
       "raw_hot": 648257,
@@ -227,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 457176,
+      "num": 457176,
+      "word": "复阳",
+      "onboard_time": 1684115908,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 454376,
       "num": 447767,
       "word": "吴镇宇带费曼去看周杰伦演唱会了",
@@ -235,20 +243,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 453730,
-      "num": 453730,
-      "word": "复阳",
-      "onboard_time": 1684115908,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 430641,
       "num": 252305,
       "word": "雪鹰领主",
       "onboard_time": 1684116985,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 425785,
+      "num": 425785,
+      "word": "男子猝死万幸倒在医生面前",
+      "onboard_time": 1684117887,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 416128,
@@ -283,6 +291,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 348518,
+      "num": 348518,
+      "word": "易烊千玺实体专辑6斤重",
+      "onboard_time": 1684117405,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 307860,
       "num": 307860,
       "word": "装了个80厘米高的床",
@@ -299,6 +315,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 296450,
+      "num": 296450,
+      "word": "iPhone15将搭堆叠式摄像头",
+      "onboard_time": 1684117587,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 293234,
       "num": 293234,
       "word": "大爷买二等座票带孙女坐一等座被赶",
@@ -307,8 +331,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286625,
+      "num": 286625,
+      "word": "20230520心形纪念币",
+      "onboard_time": 1684116746,
+      "rank": 19,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 284207,
-      "num": 250217,
+      "num": 259236,
       "word": "儿子母亲节送花被妈妈拒收",
       "onboard_time": 1684115065,
       "rank": 32,
@@ -331,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 267850,
-      "num": 267850,
-      "word": "20230520心形纪念币",
-      "onboard_time": 1684116746,
-      "rank": 19,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 258626,
       "num": 258626,
       "word": "汶川95后小伙回乡卖光村里的滞销果",
@@ -347,20 +371,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257721,
+      "num": 257721,
+      "word": "剑网3",
+      "onboard_time": 1684117826,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 247871,
       "num": 247871,
       "word": "街舞新领队或将是Lisa和RAIN",
       "onboard_time": 1684116083,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232096,
-      "num": 232096,
-      "word": "易烊千玺实体专辑6斤重",
-      "onboard_time": 1684117405,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 231941,
@@ -379,14 +403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 226459,
-      "num": 226459,
-      "word": "iPhone15将搭堆叠式摄像头",
-      "onboard_time": 1684117587,
-      "rank": 27,
-      "category": "科技"
-    },
-    {
       "raw_hot": 223470,
       "num": 223470,
       "word": "捡到100块结果面试没通过",
@@ -403,28 +419,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 221763,
-      "num": 221763,
-      "word": "男子猝死万幸倒在医生面前",
-      "onboard_time": 1684117887,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215936,
       "num": 215936,
       "word": "林允儿13年前vs13年后",
       "onboard_time": 1684107143,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 212629,
-      "num": 212629,
-      "word": "剑网3",
-      "onboard_time": 1684117826,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 212493,
@@ -451,6 +451,30 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 208882,
+      "num": 208882,
+      "word": "给美依礼芽的应援被剪进了正片",
+      "onboard_time": 1684118065,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201521,
+      "num": 201521,
+      "word": "王俊凯侧拍",
+      "onboard_time": 1684117467,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 199977,
+      "num": 199977,
+      "word": "梁成运间谍案一审宣判",
+      "onboard_time": 1684118307,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191925,
       "num": 191925,
       "word": "AI歌手翻唱或涉多项侵权行为",
@@ -465,14 +489,6 @@
       "onboard_time": 1684060525,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 190153,
-      "num": 190153,
-      "word": "王俊凯侧拍",
-      "onboard_time": 1684117467,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 188401,
@@ -635,6 +651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 144104,
+      "num": 144104,
+      "word": "多地呼吁避免520扎堆结婚登记",
+      "onboard_time": 1684118006,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142928,
       "num": 142928,
       "word": "胡可无论直播多晚沙溢都会煮爱心面",
@@ -689,22 +713,6 @@
       "onboard_time": 1684080864,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 134162,
-      "num": 134162,
-      "word": "多地呼吁避免520扎堆结婚登记",
-      "onboard_time": 1684118006,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132089,
-      "num": 132089,
-      "word": "给美依礼芽的应援被剪进了正片",
-      "onboard_time": 1684118065,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 128140,
@@ -771,6 +779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 114758,
+      "num": 114758,
+      "word": "猫咪吵架上头把自己气晕了",
+      "onboard_time": 1684118608,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110942,
       "num": 110942,
       "word": "跟男朋友偷偷领证后很焦虑",
@@ -793,6 +809,14 @@
       "onboard_time": 1684059446,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105754,
+      "num": 105754,
+      "word": "员工带娃去上班合适吗",
+      "onboard_time": 1684118608,
+      "rank": 48,
+      "category": "社会议题"
     },
     {
       "raw_hot": 105751,
@@ -972,7 +996,7 @@
     },
     {
       "raw_hot": 15785,
-      "num": 1043657,
+      "num": 1055927,
       "word": "农忙时节的田野铺开了生机勃勃的画卷",
       "onboard_time": 1684054285,
       "rank": 2,
@@ -993,6 +1017,9 @@
     },
     {
       "word": "#母亲的爱涵养家风#"
+    },
+    {
+      "word": "#中国与中亚国家的友谊再谱新篇#"
     }
   ]
 }
