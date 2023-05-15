@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684113906702,
+  "endTime": 1684115390555,
   "band_list": [
     {
       "raw_hot": 1933885,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1505320,
-      "num": 928711,
+      "num": 987943,
       "word": "女子怀孕后发现男友已婚",
       "onboard_time": 1684105399,
       "rank": 13,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1246337,
-      "num": 207075,
+      "num": 237672,
       "word": "王俊凯15岁和23岁回应谣言对比",
       "onboard_time": 1684107623,
       "rank": 20,
@@ -65,6 +65,14 @@
       "onboard_time": 1684074511,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 952028,
+      "num": 952028,
+      "word": "和认识七年的好朋友在一起了",
+      "onboard_time": 1684112426,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 926211,
@@ -115,8 +123,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 651489,
-      "num": 651489,
+      "raw_hot": 657879,
+      "num": 657879,
       "word": "于晓光陪秋瓷炫上班",
       "onboard_time": 1684105880,
       "rank": 43,
@@ -131,14 +139,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 625202,
-      "num": 625202,
-      "word": "和认识七年的好朋友在一起了",
-      "onboard_time": 1684112426,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 606769,
       "num": 606769,
       "word": "秋瓷炫像是在跳我的人生",
@@ -147,12 +147,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 596509,
+      "num": 153608,
+      "word": "易烊千玺实体专辑",
+      "onboard_time": 1684115366,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 578522,
+      "num": 578522,
+      "word": "叉烧芬 你徒弟出师了",
+      "onboard_time": 1684113086,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 560953,
       "num": 560953,
       "word": "凤凰传奇是美依礼芽的榜一",
       "onboard_time": 1684073009,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 552824,
+      "num": 538169,
+      "word": "办公室一天讲不了2句话",
+      "onboard_time": 1684113447,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 481585,
@@ -211,6 +235,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 329109,
+      "num": 329109,
+      "word": "演唱会为啥都在闹退票",
+      "onboard_time": 1684105399,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 307860,
       "num": 307860,
       "word": "装了个80厘米高的床",
@@ -225,14 +257,6 @@
       "onboard_time": 1684075590,
       "rank": 13,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 298250,
-      "num": 189721,
-      "word": "演唱会为啥都在闹退票",
-      "onboard_time": 1684105399,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 293234,
@@ -251,14 +275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 274144,
-      "num": 274144,
-      "word": "叉烧芬 你徒弟出师了",
-      "onboard_time": 1684113086,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 268753,
       "num": 173977,
       "word": "90后总裁追星蔡徐坤",
@@ -267,11 +283,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 238641,
-      "num": 238641,
-      "word": "办公室一天讲不了2句话",
-      "onboard_time": 1684113447,
-      "rank": 17,
+      "raw_hot": 258626,
+      "num": 258626,
+      "word": "汶川95后小伙回乡卖光村里的滞销果",
+      "onboard_time": 1684113086,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -371,14 +387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183896,
-      "num": 183896,
-      "word": "汶川95后小伙回乡卖光村里的滞销果",
-      "onboard_time": 1684113086,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183344,
       "num": 168373,
       "word": "朋友未经允许把我的榴莲开了",
@@ -393,6 +401,14 @@
       "onboard_time": 1684105640,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 176823,
+      "num": 176823,
+      "word": "电影院里最让人反感的行为",
+      "onboard_time": 1684113147,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 175599,
@@ -435,16 +451,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163627,
-      "num": 163627,
-      "word": "电影院里最让人反感的行为",
-      "onboard_time": 1684113147,
+      "raw_hot": 162257,
+      "num": 152168,
+      "word": "儿子母亲节送花被妈妈拒收",
+      "onboard_time": 1684115065,
       "rank": 32,
-      "category": "情感"
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 159127,
-      "num": 159127,
+      "raw_hot": 160425,
+      "num": 160425,
       "word": "周一",
       "onboard_time": 1684112067,
       "rank": 33,
@@ -489,6 +505,14 @@
       "onboard_time": 1684074152,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 144747,
+      "num": 144747,
+      "word": "NBA季后赛",
+      "onboard_time": 1684111949,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 144574,
@@ -555,6 +579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128140,
+      "num": 128140,
+      "word": "药师寺宽邦",
+      "onboard_time": 1684115186,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 127227,
       "num": 127227,
       "word": "阿森纳",
@@ -587,14 +619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119172,
-      "num": 119172,
-      "word": "NBA季后赛",
-      "onboard_time": 1684111949,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 115071,
       "num": 115071,
       "word": "魏如萱演唱会连线那英华晨宇马嘉祺",
@@ -625,6 +649,14 @@
       "onboard_time": 1684059446,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105751,
+      "num": 105751,
+      "word": "司机改造大货车重现乡村影院",
+      "onboard_time": 1684115366,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105744,
@@ -723,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61373,
+      "num": 103463,
+      "word": "什么能影响消费者的购车决策",
+      "onboard_time": 1684115245,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50631,
       "num": 85799,
       "word": "汶川敬礼娃娃郎铮今年高考",
@@ -788,7 +828,7 @@
     },
     {
       "raw_hot": 15785,
-      "num": 985997,
+      "num": 1001932,
       "word": "农忙时节的田野铺开了生机勃勃的画卷",
       "onboard_time": 1684054285,
       "rank": 2,
