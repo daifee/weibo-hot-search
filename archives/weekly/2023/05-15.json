@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684170898875,
+  "endTime": 1684172014029,
   "band_list": [
     {
       "raw_hot": 3904532,
@@ -1843,6 +1843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 187627,
+      "num": 187627,
+      "word": "现在年轻人流行断亲",
+      "onboard_time": 1684166607,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186762,
       "num": 186762,
       "word": "吉克隽逸卡戴珊撞衫",
@@ -1960,14 +1968,6 @@
       "word": "电影院里最让人反感的行为",
       "onboard_time": 1684113147,
       "rank": 32,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 176311,
-      "num": 176311,
-      "word": "现在年轻人流行断亲",
-      "onboard_time": 1684166607,
-      "rank": 37,
       "category": "情感"
     },
     {
@@ -2713,6 +2713,14 @@
       "onboard_time": 1684082184,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59320,
+      "num": 59320,
+      "word": "seventeen出发日本",
+      "onboard_time": 1684171757,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 57378,
