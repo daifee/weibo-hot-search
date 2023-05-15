@@ -1,0 +1,410 @@
+{
+  "runTime": 1684163879693,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3837048,
+        "num": 3837048,
+        "word": "月薪5000真的很低吗",
+        "onboard_time": 1684156949,
+        "rank": 0,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 1196154,
+        "num": 1196154,
+        "word": "姚明的脸",
+        "onboard_time": 1684161030,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145464,
+        "num": 819320,
+        "word": "出入境政策再优化",
+        "onboard_time": 1684159050,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 815097,
+        "num": 815097,
+        "word": "朱珠直拍 有种不顾我死活的美",
+        "onboard_time": 1684160790,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 750561,
+        "num": 750561,
+        "word": "一不小心翻到董事长工资",
+        "onboard_time": 1684146749,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 627114,
+        "num": 627114,
+        "word": "韩国女性被献给美国大兵遭蹂躏数十年",
+        "onboard_time": 1684144588,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594675,
+        "num": 594675,
+        "word": "新版四大甜妹",
+        "onboard_time": 1684149989,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 544404,
+        "num": 544404,
+        "word": "辽宁总冠军",
+        "onboard_time": 1684158151,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 513737,
+        "num": 513737,
+        "word": "郭艾伦",
+        "onboard_time": 1684159110,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 448843,
+        "num": 448843,
+        "word": "你支持全面禁止老头乐吗",
+        "onboard_time": 1684138827,
+        "rank": 9,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 3140635,
+        "num": 447511,
+        "word": "颜九 温精灵",
+        "onboard_time": 1684157374,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1532431,
+        "num": 447376,
+        "word": "迪丽热巴未修原档生图",
+        "onboard_time": 1684153047,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1340280,
+        "num": 445647,
+        "word": "睡觉 命重要",
+        "onboard_time": 1684153287,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2262079,
+        "num": 444382,
+        "word": "颜九要求温精灵公开道歉",
+        "onboard_time": 1684158512,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 846014,
+        "num": 442836,
+        "word": "5岁中法混血女孩遭父亲割喉身亡",
+        "onboard_time": 1684153409,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669736,
+        "num": 440788,
+        "word": "文旅部门介入调查House不当言论",
+        "onboard_time": 1684143389,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 560881,
+        "num": 439876,
+        "word": "任权直播还钱",
+        "onboard_time": 1684158755,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 461075,
+        "num": 438327,
+        "word": "当你胖了四斤肉而已",
+        "onboard_time": 1684162352,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 437423,
+        "num": 437423,
+        "word": "赵继伟亲郭艾伦",
+        "onboard_time": 1684161511,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 426011,
+        "num": 426011,
+        "word": "广东情侣住酒店凌晨被人开门闯入",
+        "onboard_time": 1684152089,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 801389,
+        "num": 413271,
+        "word": "台媒说浪姐4职场霸凌徐怀钰",
+        "onboard_time": 1684151066,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359555,
+        "num": 359555,
+        "word": "许凯晒一次腹肌奖励自己两个汉堡",
+        "onboard_time": 1684161453,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356202,
+        "num": 356202,
+        "word": "一年半年才发一次朋友圈",
+        "onboard_time": 1684160671,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 341198,
+        "num": 341198,
+        "word": "笑果无限期停止house演艺工作",
+        "onboard_time": 1684133490,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 333264,
+        "num": 333264,
+        "word": "女明星未修原档生图",
+        "onboard_time": 1684162830,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 327049,
+        "num": 327049,
+        "word": "内娱百分之百的原生脸",
+        "onboard_time": 1684162771,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 309388,
+        "num": 309388,
+        "word": "释小龙给郝劭文当伴郎",
+        "onboard_time": 1684144889,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300251,
+        "num": 300251,
+        "word": "朱珠爷爷给她起的名字",
+        "onboard_time": 1684150409,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256772,
+        "num": 256772,
+        "word": "肖战李沁梦中的那片海播出时间",
+        "onboard_time": 1684152627,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166908,
+        "num": 252161,
+        "word": "武大为2020届毕业生补办毕业典礼",
+        "onboard_time": 1684159590,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 250410,
+        "num": 250410,
+        "word": "北京市文化执法总队已对笑果立案调查",
+        "onboard_time": 1684149150,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 228119,
+        "num": 228119,
+        "word": "港妹能不能吃点好的",
+        "onboard_time": 1684158512,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225690,
+        "num": 225690,
+        "word": "怎么没有徐怀钰直拍",
+        "onboard_time": 1684154127,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213027,
+        "num": 213027,
+        "word": "爸爸买漂亮小裙子女儿激动尖叫",
+        "onboard_time": 1684157252,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208834,
+        "num": 208834,
+        "word": "夫妻结婚33年生下8女1儿",
+        "onboard_time": 1684147289,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206694,
+        "num": 206694,
+        "word": "点痣前的朱珠",
+        "onboard_time": 1684151787,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204966,
+        "num": 204966,
+        "word": "官方回应女子捆绑2女儿河中身亡",
+        "onboard_time": 1684155027,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197567,
+        "num": 197567,
+        "word": "别让郑秀妍看到浪姐4的伴舞",
+        "onboard_time": 1684151129,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193428,
+        "num": 193428,
+        "word": "苏醒再不回国活就被别人抢完了",
+        "onboard_time": 1684163489,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191617,
+        "num": 191617,
+        "word": "32岁女生相亲角因条件高被男子怼哭",
+        "onboard_time": 1684145851,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187753,
+        "num": 187753,
+        "word": "gidle 抄袭",
+        "onboard_time": 1684134690,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180780,
+        "num": 180780,
+        "word": "谈恋爱一周亏了几千块钱",
+        "onboard_time": 1684157910,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177784,
+        "num": 177784,
+        "word": "笑果旗下艺人多次违法被处罚",
+        "onboard_time": 1684145367,
+        "rank": 42,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 176063,
+        "num": 176063,
+        "word": "赵继伟蝉联FMVP",
+        "onboard_time": 1684159529,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174571,
+        "num": 174571,
+        "word": "赵本山宋小宝观战辽篮总决赛",
+        "onboard_time": 1684162232,
+        "rank": 44,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 156143,
+        "num": 156143,
+        "word": "希望今年吃的西瓜都这样",
+        "onboard_time": 1684162411,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146126,
+        "num": 146126,
+        "word": "陈玘",
+        "onboard_time": 1684152267,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145713,
+        "num": 145713,
+        "word": "Alin称体重数字被公放",
+        "onboard_time": 1684156349,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124084,
+        "num": 145095,
+        "word": "王者敦煌皮肤第四季",
+        "onboard_time": 1684156411,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 62419,
+        "num": 141194,
+        "word": "2023腾讯游戏发布会",
+        "onboard_time": 1684155509,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同厄立特里亚总统举行会谈#"
+    }
+  }
+}

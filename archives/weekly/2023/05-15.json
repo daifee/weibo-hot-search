@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684161210806,
+  "endTime": 1684163879693,
   "band_list": [
     {
       "raw_hot": 3904532,
@@ -8,6 +8,14 @@
       "word": "你支持全面禁止老头乐吗",
       "onboard_time": 1684138827,
       "rank": 47,
+      "category": "社会议题"
+    },
+    {
+      "raw_hot": 3837048,
+      "num": 3837048,
+      "word": "月薪5000真的很低吗",
+      "onboard_time": 1684156949,
+      "rank": 21,
       "category": "社会议题"
     },
     {
@@ -195,14 +203,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1403822,
-      "num": 1403822,
-      "word": "月薪5000真的很低吗",
-      "onboard_time": 1684156949,
-      "rank": 21,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 1362649,
       "num": 1362649,
       "word": "郭艾伦",
@@ -265,6 +265,14 @@
       "onboard_time": 1684147289,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1196154,
+      "num": 1196154,
+      "word": "姚明的脸",
+      "onboard_time": 1684161030,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 1189133,
@@ -411,6 +419,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 815097,
+      "num": 815097,
+      "word": "朱珠直拍 有种不顾我死活的美",
+      "onboard_time": 1684160790,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 803108,
       "num": 803108,
       "word": "gidle回归",
@@ -449,6 +465,14 @@
       "onboard_time": 1684068687,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 750561,
+      "num": 750561,
+      "word": "一不小心翻到董事长工资",
+      "onboard_time": 1684146749,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 731205,
@@ -611,14 +635,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 514229,
-      "num": 402503,
-      "word": "一不小心翻到董事长工资",
-      "onboard_time": 1684146749,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 491073,
       "num": 491073,
       "word": "难听",
@@ -691,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 461075,
+      "num": 438327,
+      "word": "当你胖了四斤肉而已",
+      "onboard_time": 1684162352,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 457176,
       "num": 457176,
       "word": "复阳",
@@ -721,6 +745,14 @@
       "onboard_time": 1684147107,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 437423,
+      "num": 437423,
+      "word": "赵继伟亲郭艾伦",
+      "onboard_time": 1684161511,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 432991,
@@ -883,12 +915,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 359555,
+      "num": 359555,
+      "word": "许凯晒一次腹肌奖励自己两个汉堡",
+      "onboard_time": 1684161453,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 358322,
       "num": 271604,
       "word": "初中同学成我导师了",
       "onboard_time": 1684135169,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 356202,
+      "num": 356202,
+      "word": "一年半年才发一次朋友圈",
+      "onboard_time": 1684160671,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 355662,
@@ -971,12 +1019,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 333264,
+      "num": 333264,
+      "word": "女明星未修原档生图",
+      "onboard_time": 1684162830,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 329528,
       "num": 329528,
       "word": "唐山警方回应农妇袭警案",
       "onboard_time": 1684133490,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327049,
+      "num": 327049,
+      "word": "内娱百分之百的原生脸",
+      "onboard_time": 1684162771,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 324912,
@@ -993,14 +1057,6 @@
       "onboard_time": 1684136909,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 318358,
-      "num": 318358,
-      "word": "朱珠直拍 有种不顾我死活的美",
-      "onboard_time": 1684160790,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 313390,
@@ -1248,14 +1304,6 @@
       "word": "姚明现场观看总决赛",
       "onboard_time": 1684158029,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 250576,
-      "num": 250576,
-      "word": "姚明的脸",
-      "onboard_time": 1684161030,
-      "rank": 34,
       "category": "体育"
     },
     {
@@ -1667,14 +1715,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 196081,
-      "num": 196081,
-      "word": "一年半年才发一次朋友圈",
-      "onboard_time": 1684160671,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 195658,
       "num": 195658,
       "word": "宋浩老师回应高数视频播放破亿",
@@ -1689,6 +1729,14 @@
       "onboard_time": 1684130548,
       "rank": 24,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 193428,
+      "num": 193428,
+      "word": "苏醒再不回国活就被别人抢完了",
+      "onboard_time": 1684163489,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 191925,
@@ -1899,6 +1947,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 174571,
+      "num": 174571,
+      "word": "赵本山宋小宝观战辽篮总决赛",
+      "onboard_time": 1684162232,
+      "rank": 44,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 173682,
       "num": 173682,
       "word": "持证救人快递小哥获奖了",
@@ -1969,6 +2025,14 @@
       "onboard_time": 1684105640,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166908,
+      "num": 293644,
+      "word": "武大为2020届毕业生补办毕业典礼",
+      "onboard_time": 1684159590,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 166114,
@@ -2049,6 +2113,14 @@
       "onboard_time": 1684128628,
       "rank": 42,
       "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 156143,
+      "num": 156143,
+      "word": "希望今年吃的西瓜都这样",
+      "onboard_time": 1684162411,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 155907,
@@ -2387,14 +2459,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 109558,
-      "num": 293644,
-      "word": "武大为2020届毕业生补办毕业典礼",
-      "onboard_time": 1684159590,
-      "rank": 29,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 108758,
       "num": 189903,
       "word": "你的紧急联系人是谁",
@@ -2695,6 +2759,9 @@
     },
     {
       "word": "#2023春季中国元首外交纪实#"
+    },
+    {
+      "word": "#习近平同厄立特里亚总统举行会谈#"
     }
   ]
 }
