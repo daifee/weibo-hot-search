@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684125224112,
+  "endTime": 1684127780322,
   "band_list": [
     {
       "raw_hot": 1933885,
@@ -91,6 +91,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1321795,
+      "num": 585606,
+      "word": "张翰方否认恋情",
+      "onboard_time": 1684125395,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1246337,
       "num": 643171,
       "word": "王俊凯15岁和23岁回应谣言对比",
@@ -155,12 +163,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 799607,
+      "num": 799607,
+      "word": "演唱会为啥都在闹退票",
+      "onboard_time": 1684105399,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 770435,
       "num": 770435,
       "word": "QQ音乐",
       "onboard_time": 1684116506,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 765182,
+      "num": 765182,
+      "word": "笑果",
+      "onboard_time": 1684125575,
+      "rank": 7,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 751648,
@@ -235,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 581785,
+      "num": 581785,
+      "word": "迪丽热巴冰淇淋侧颜",
+      "onboard_time": 1684126775,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 560953,
       "num": 560953,
       "word": "凤凰传奇是美依礼芽的榜一",
@@ -248,14 +280,6 @@
       "word": "你赞同演唱会实名制购票吗",
       "onboard_time": 1684123653,
       "rank": 21,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 488350,
-      "num": 488350,
-      "word": "演唱会为啥都在闹退票",
-      "onboard_time": 1684105399,
-      "rank": 35,
       "category": "音乐"
     },
     {
@@ -299,12 +323,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 442941,
+      "num": 442941,
+      "word": "张嘉倪为叮叮当当组设计项链",
+      "onboard_time": 1684126775,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 430641,
       "num": 252305,
       "word": "雪鹰领主",
       "onboard_time": 1684116985,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 429445,
+      "num": 429445,
+      "word": "找到秋瓷炫不会跳舞的原因",
+      "onboard_time": 1684123531,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 418562,
@@ -347,6 +387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 369346,
+      "num": 369346,
+      "word": "原来面试可以当场有结果",
+      "onboard_time": 1684125575,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 362768,
       "num": 221589,
       "word": "王俊凯在回应哪个",
@@ -363,8 +411,8 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 348518,
-      "num": 348518,
+      "raw_hot": 352276,
+      "num": 352276,
       "word": "易烊千玺实体专辑6斤重",
       "onboard_time": 1684117405,
       "rank": 26,
@@ -403,14 +451,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 333431,
-      "num": 333431,
-      "word": "找到秋瓷炫不会跳舞的原因",
-      "onboard_time": 1684123531,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 313390,
       "num": 313390,
       "word": "戛纳",
@@ -443,20 +483,20 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 298082,
+      "num": 298082,
+      "word": "桃花坞",
+      "onboard_time": 1684124495,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293234,
       "num": 293234,
       "word": "大爷买二等座票带孙女坐一等座被赶",
       "onboard_time": 1684059805,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 288094,
-      "num": 288094,
-      "word": "桃花坞",
-      "onboard_time": 1684124495,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 286625,
@@ -483,12 +523,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 276617,
+      "num": 276617,
+      "word": "王者荣耀女装",
+      "onboard_time": 1684125695,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 276150,
       "num": 267645,
       "word": "杨颖新剧女扮男装双重身份",
       "onboard_time": 1684119990,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 271285,
+      "num": 271285,
+      "word": "陈冰 淘汰",
+      "onboard_time": 1684127133,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 268753,
@@ -547,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231565,
+      "num": 231565,
+      "word": "认识多年的兄弟好像被骗婚了",
+      "onboard_time": 1684126775,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 231278,
       "num": 231278,
       "word": "哈登",
@@ -593,6 +657,14 @@
       "onboard_time": 1684123831,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 217381,
+      "num": 217381,
+      "word": "爸别着急下个月就父亲节",
+      "onboard_time": 1684125695,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 216102,
@@ -651,12 +723,28 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 208952,
+      "num": 208952,
+      "word": "高三女生受伤成团宠被抬着上下课",
+      "onboard_time": 1684124856,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 208882,
       "num": 208882,
       "word": "给美依礼芽的应援被剪进了正片",
       "onboard_time": 1684118065,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202422,
+      "num": 202422,
+      "word": "李小璐持股公司成老赖",
+      "onboard_time": 1684127369,
+      "rank": 32,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 201521,
@@ -691,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194671,
+      "num": 194671,
+      "word": "吃自助偷打包补交44543元餐费",
+      "onboard_time": 1684127312,
+      "rank": 34,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 191925,
       "num": 191925,
       "word": "AI歌手翻唱或涉多项侵权行为",
@@ -707,12 +803,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189554,
+      "num": 189554,
+      "word": "陈皓",
+      "onboard_time": 1684126054,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188401,
       "num": 188401,
       "word": "乌总统拒绝教皇调停俄乌冲突",
       "onboard_time": 1684093573,
       "rank": 30,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 188347,
+      "num": 188347,
+      "word": "不知不觉到了拍花的年龄",
+      "onboard_time": 1684125635,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 187380,
+      "num": 187380,
+      "word": "租房时前租客留下过什么宝藏",
+      "onboard_time": 1684124193,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 185099,
@@ -753,6 +873,14 @@
       "onboard_time": 1684123111,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177430,
+      "num": 177430,
+      "word": "易烊千玺新专辑销量",
+      "onboard_time": 1684122574,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 176823,
@@ -859,6 +987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148637,
+      "num": 148637,
+      "word": "科目二比高考还紧张",
+      "onboard_time": 1684127550,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148351,
       "num": 148351,
       "word": "网友用气球扎制醒狮狮头",
@@ -961,14 +1097,6 @@
       "onboard_time": 1684080864,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 134075,
-      "num": 152002,
-      "word": "高三女生受伤成团宠被抬着上下课",
-      "onboard_time": 1684124856,
-      "rank": 46,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 128140,
