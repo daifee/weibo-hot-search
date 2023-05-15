@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684168629534,
+  "endTime": 1684170898875,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -12876,7 +12876,7 @@
     },
     {
       "raw_hot": 354216,
-      "num": 288610,
+      "num": 314017,
       "word": "老爸给我晾的百褶裙",
       "onboard_time": 1684165291,
       "rank": 16,
@@ -16883,6 +16883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 273543,
+      "num": 273543,
+      "word": "章昊杂志",
+      "onboard_time": 1684167325,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 273511,
       "num": 273511,
       "word": "闹钟没响",
@@ -19169,6 +19177,14 @@
       "onboard_time": 1684019117,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 240109,
+      "num": 240109,
+      "word": "Lisa让工作人员给粉丝发水",
+      "onboard_time": 1684167687,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 240079,
@@ -24539,14 +24555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 181309,
-      "num": 181309,
-      "word": "章昊杂志",
-      "onboard_time": 1684167325,
-      "rank": 34,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 181168,
       "num": 181168,
       "word": "汪小敏唱功",
@@ -25097,6 +25105,14 @@
       "onboard_time": 1683444150,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 176311,
+      "num": 176311,
+      "word": "现在年轻人流行断亲",
+      "onboard_time": 1684166607,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 176305,
@@ -26267,14 +26283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164263,
-      "num": 161123,
-      "word": "Lisa让工作人员给粉丝发水",
-      "onboard_time": 1684167687,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 164257,
       "num": 164257,
       "word": "淄博市烧烤协会声明",
@@ -26697,14 +26705,6 @@
       "onboard_time": 1683264627,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159974,
-      "num": 159974,
-      "word": "现在年轻人流行断亲",
-      "onboard_time": 1684166607,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 159973,
@@ -30617,6 +30617,14 @@
       "onboard_time": 1683525630,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95053,
+      "num": 95053,
+      "word": "分手后多久开始下一段感情",
+      "onboard_time": 1684169121,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 94985,
