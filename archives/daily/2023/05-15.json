@@ -1,10 +1,10 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684143217232,
+  "endTime": 1684145912652,
   "band_list": [
     {
-      "raw_hot": 3629057,
-      "num": 3629057,
+      "raw_hot": 3904532,
+      "num": 3904532,
       "word": "你支持全面禁止老头乐吗",
       "onboard_time": 1684138827,
       "rank": 47,
@@ -123,6 +123,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1353080,
+      "num": 1353080,
+      "word": "文旅部门介入调查House不当言论",
+      "onboard_time": 1684143389,
+      "rank": 5,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1352022,
       "num": 1352022,
       "word": "和认识七年的好朋友在一起了",
@@ -235,8 +243,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 904646,
-      "num": 904646,
+      "raw_hot": 925558,
+      "num": 925558,
       "word": "窦靖童和王菲是怎么认识的",
       "onboard_time": 1684137508,
       "rank": 22,
@@ -257,6 +265,14 @@
       "onboard_time": 1684123892,
       "rank": 13,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 887217,
+      "num": 868088,
+      "word": "韩国女性被献给美国大兵遭蹂躏数十年",
+      "onboard_time": 1684144588,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 882543,
@@ -419,6 +435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 491073,
+      "num": 491073,
+      "word": "难听",
+      "onboard_time": 1684143268,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 481585,
       "num": 481585,
       "word": "芭莎拍的白鹿王鹤棣",
@@ -449,6 +473,14 @@
       "onboard_time": 1684127133,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 468057,
+      "num": 468057,
+      "word": "释小龙给郝劭文当伴郎",
+      "onboard_time": 1684144889,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 467849,
@@ -483,6 +515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 438060,
+      "num": 438060,
+      "word": "周冬雨刘昊然屈楚萧雪地躺平",
+      "onboard_time": 1684145310,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 430641,
       "num": 252305,
       "word": "雪鹰领主",
@@ -492,7 +532,7 @@
     },
     {
       "raw_hot": 430441,
-      "num": 430441,
+      "num": 2238987,
       "word": "母亲见牙医像已故女儿瞬间落泪",
       "onboard_time": 1684133668,
       "rank": 22,
@@ -516,7 +556,7 @@
     },
     {
       "raw_hot": 423727,
-      "num": 272962,
+      "num": 376879,
       "word": "下班在地铁上被公司辞退了",
       "onboard_time": 1684141289,
       "rank": 20,
@@ -579,6 +619,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 397492,
+      "num": 397492,
+      "word": "宋雨琦叶舒华贴贴",
+      "onboard_time": 1684145070,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 395909,
       "num": 395909,
       "word": "原来面试可以当场有结果",
@@ -609,6 +657,14 @@
       "onboard_time": 1684135169,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 355662,
+      "num": 355662,
+      "word": "建议蔡少芬再多点直拍",
+      "onboard_time": 1684143688,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 352409,
@@ -843,6 +899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 249099,
+      "num": 249099,
+      "word": "30岁前快解决的几个问题",
+      "onboard_time": 1684141707,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 247871,
       "num": 247871,
       "word": "街舞新领队或将是Lisa和RAIN",
@@ -889,6 +953,22 @@
       "onboard_time": 1684140931,
       "rank": 25,
       "category": "科技"
+    },
+    {
+      "raw_hot": 233688,
+      "num": 233688,
+      "word": "晚上睡觉时千万不要戴耳机",
+      "onboard_time": 1684142427,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 232962,
+      "num": 232962,
+      "word": "笑果旗下艺人多次违法被处罚",
+      "onboard_time": 1684145367,
+      "rank": 33,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 232735,
@@ -961,14 +1041,6 @@
       "onboard_time": 1684123831,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 220031,
-      "num": 220031,
-      "word": "晚上睡觉时千万不要戴耳机",
-      "onboard_time": 1684142427,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 218714,
@@ -1057,6 +1129,14 @@
       "onboard_time": 1684068625,
       "rank": 22,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 209541,
+      "num": 209541,
+      "word": "燃冬",
+      "onboard_time": 1684144351,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 208952,
@@ -1187,6 +1267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190577,
+      "num": 1045474,
+      "word": "80岁奶奶3小时跑完半马",
+      "onboard_time": 1684140510,
+      "rank": 41,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 189554,
       "num": 189554,
       "word": "陈皓",
@@ -1225,14 +1313,6 @@
       "onboard_time": 1684134267,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 186642,
-      "num": 186642,
-      "word": "30岁前快解决的几个问题",
-      "onboard_time": 1684141707,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 185923,
@@ -1611,14 +1691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139890,
-      "num": 139890,
-      "word": "80岁奶奶3小时跑完半马",
-      "onboard_time": 1684140510,
-      "rank": 41,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 139643,
       "num": 139643,
       "word": "没有边界感的狗狗",
@@ -1753,6 +1825,22 @@
       "onboard_time": 1684117706,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 121811,
+      "num": 121811,
+      "word": "男朋友送的生日礼物是个钥匙扣",
+      "onboard_time": 1684145611,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 120280,
+      "num": 120280,
+      "word": "32岁女生相亲角因条件高被男子怼哭",
+      "onboard_time": 1684145851,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119911,
@@ -1923,6 +2011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78668,
+      "num": 460870,
+      "word": "出行路上有哪些温暖时刻",
+      "onboard_time": 1684144050,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 65587,
       "num": 252782,
       "word": "什么能影响消费者的购车决策",
@@ -1953,6 +2049,14 @@
       "onboard_time": 1684082184,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57914,
+      "num": 119296,
+      "word": "榴莲盲盒",
+      "onboard_time": 1684144467,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 57378,
