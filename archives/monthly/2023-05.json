@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684179219987,
+  "endTime": 1684181847867,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -32323,6 +32323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 29778,
+      "num": 27468,
+      "word": "只要不欠他的 没必要唯唯诺诺",
+      "onboard_time": 1684177512,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 28921,
       "num": 30480,
       "word": "戛纳展映排片",
@@ -32529,6 +32537,14 @@
       "onboard_time": 1683059473,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 19615,
+      "num": 19615,
+      "word": "英超联赛",
+      "onboard_time": 1684179851,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 19262,
