@@ -1,0 +1,410 @@
+{
+  "runTime": 1684150411488,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2461167,
+        "num": 2461167,
+        "word": "韩国女性被献给美国大兵遭蹂躏数十年",
+        "onboard_time": 1684144588,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310265,
+        "num": 1467274,
+        "word": "母亲见牙医像已故女儿瞬间落泪",
+        "onboard_time": 1684133668,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15462,
+        "num": 1429552,
+        "word": "关注2023中关村论坛",
+        "onboard_time": 1684137808,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1417442,
+        "num": 1417442,
+        "word": "你支持全面禁止老头乐吗",
+        "onboard_time": 1684138827,
+        "rank": 3,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 215592,
+        "num": 1231410,
+        "word": "80岁奶奶3小时跑完半马",
+        "onboard_time": 1684140510,
+        "rank": 4,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1216114,
+        "num": 1216114,
+        "word": "夫妻结婚33年生下8女1儿",
+        "onboard_time": 1684147289,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185239,
+        "num": 1033934,
+        "word": "阿尔兹海默症老人深山走失被警犬寻回",
+        "onboard_time": 1684146267,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1303181,
+        "num": 1003218,
+        "word": "文旅部门介入调查House不当言论",
+        "onboard_time": 1684143389,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1237961,
+        "num": 977814,
+        "word": "笑果无限期停止house演艺工作",
+        "onboard_time": 1684133490,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 951281,
+        "num": 951281,
+        "word": "窦靖童和王菲是怎么认识的",
+        "onboard_time": 1684137508,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 885875,
+        "num": 885875,
+        "word": "释小龙给郝劭文当伴郎",
+        "onboard_time": 1684144889,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535433,
+        "num": 535433,
+        "word": "周冬雨刘昊然屈楚萧雪地躺平",
+        "onboard_time": 1684145310,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 516087,
+        "num": 516087,
+        "word": "笑果旗下艺人多次违法被处罚",
+        "onboard_time": 1684145367,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 501129,
+        "num": 501129,
+        "word": "gidle 抄袭",
+        "onboard_time": 1684134690,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 475421,
+        "num": 475421,
+        "word": "32岁女生相亲角因条件高被男子怼哭",
+        "onboard_time": 1684145851,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463527,
+        "num": 463527,
+        "word": "house道歉",
+        "onboard_time": 1684133668,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 450662,
+        "num": 450662,
+        "word": "加拿大模特在中国坐月子",
+        "onboard_time": 1684133608,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 417535,
+        "num": 417535,
+        "word": "秋瓷炫工地芭蕾直拍流出",
+        "onboard_time": 1684129526,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408507,
+        "num": 408507,
+        "word": "金素妍真的不是石矶娘娘吗",
+        "onboard_time": 1684147107,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 402680,
+        "num": 402680,
+        "word": "我找王鹤棣捏",
+        "onboard_time": 1684146989,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409759,
+        "num": 402503,
+        "word": "一不小心翻到董事长工资",
+        "onboard_time": 1684146749,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 402279,
+        "num": 402279,
+        "word": "北京市文化执法总队已对笑果立案调查",
+        "onboard_time": 1684149150,
+        "rank": 21,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 261096,
+        "num": 261096,
+        "word": "全国约有11至12亿人感染过新冠",
+        "onboard_time": 1684148428,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253331,
+        "num": 253331,
+        "word": "曾可妮腰上挂着公司的logo",
+        "onboard_time": 1684149926,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246277,
+        "num": 246277,
+        "word": "宋小宝 王嘉尔",
+        "onboard_time": 1684131147,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240597,
+        "num": 240597,
+        "word": "gidle新歌Queencard",
+        "onboard_time": 1684141895,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231688,
+        "num": 231688,
+        "word": "屈楚萧你另一条胳膊呢",
+        "onboard_time": 1684147467,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211521,
+        "num": 211521,
+        "word": "gidle空降",
+        "onboard_time": 1684148726,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204434,
+        "num": 204434,
+        "word": "老虎剃了毛依然有花纹",
+        "onboard_time": 1684137330,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202948,
+        "num": 202948,
+        "word": "刘丹母亲节拒谈杨幂",
+        "onboard_time": 1684130608,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476764,
+        "num": 201736,
+        "word": "曲婉婷2套房产起拍价450万元",
+        "onboard_time": 1684148788,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 249689,
+        "num": 201066,
+        "word": "新版四大甜妹",
+        "onboard_time": 1684149989,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192677,
+        "num": 192677,
+        "word": "华晨宇说马嘉祺是很大的惊喜",
+        "onboard_time": 1684149268,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180890,
+        "num": 180890,
+        "word": "易烊千玺新专辑售价198元",
+        "onboard_time": 1684135047,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170791,
+        "num": 170791,
+        "word": "芭莎镜头下的张彬彬吴倩",
+        "onboard_time": 1684149627,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 166930,
+        "num": 166930,
+        "word": "难听",
+        "onboard_time": 1684143268,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164658,
+        "num": 164658,
+        "word": "年度最吸金本科专业出炉",
+        "onboard_time": 1684138709,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 163995,
+        "num": 163995,
+        "word": "建议蔡少芬再多点直拍",
+        "onboard_time": 1684143688,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163165,
+        "num": 163165,
+        "word": "下班在地铁上被公司辞退了",
+        "onboard_time": 1684141289,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158002,
+        "num": 158002,
+        "word": "杨紫阔腿工装裤",
+        "onboard_time": 1684134028,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155867,
+        "num": 155867,
+        "word": "陈晓扎头发",
+        "onboard_time": 1684147827,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154197,
+        "num": 154197,
+        "word": "宋雨琦叶舒华贴贴",
+        "onboard_time": 1684145070,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153309,
+        "num": 153309,
+        "word": "王源的戒断日记",
+        "onboard_time": 1684136308,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148278,
+        "num": 148278,
+        "word": "洞洞鞋",
+        "onboard_time": 1684138467,
+        "rank": 43,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 147278,
+        "num": 147278,
+        "word": "2023KPL夏季转会期",
+        "onboard_time": 1684150048,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144221,
+        "num": 144221,
+        "word": "昆工虐猫",
+        "onboard_time": 1684136491,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133335,
+        "num": 133335,
+        "word": "晚上睡觉时千万不要戴耳机",
+        "onboard_time": 1684142427,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125253,
+        "num": 125253,
+        "word": "初中同学成我导师了",
+        "onboard_time": 1684135169,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125228,
+        "num": 125228,
+        "word": "30岁前快解决的几个问题",
+        "onboard_time": 1684141707,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64482,
+        "num": 118556,
+        "word": "榴莲盲盒",
+        "onboard_time": 1684144467,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023春季中国元首外交纪实#"
+    }
+  }
+}
