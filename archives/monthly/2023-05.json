@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684135030892,
+  "endTime": 1684136014550,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -843,6 +843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2245496,
+      "num": 2245496,
+      "word": "笑果无限期停止house演艺工作",
+      "onboard_time": 1684133490,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 2239970,
       "num": 759534,
       "word": "刘亦菲露腰了",
@@ -1097,14 +1105,6 @@
       "onboard_time": 1683279570,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2015125,
-      "num": 2015125,
-      "word": "笑果无限期停止house演艺工作",
-      "onboard_time": 1684133490,
-      "rank": 0,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2012983,
@@ -3179,6 +3179,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1246898,
+      "num": 1246898,
+      "word": "house道歉",
+      "onboard_time": 1684133668,
+      "rank": 4,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1246337,
       "num": 643171,
       "word": "王俊凯15岁和23岁回应谣言对比",
@@ -3481,6 +3489,14 @@
       "onboard_time": 1683551551,
       "rank": 24,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 1161832,
+      "num": 1161832,
+      "word": "gidle 抄袭",
+      "onboard_time": 1684134690,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 1160855,
@@ -4747,14 +4763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 895832,
-      "num": 895832,
-      "word": "house道歉",
-      "onboard_time": 1684133668,
-      "rank": 4,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 895424,
       "num": 895424,
       "word": "事业编和公务员哪个更难考",
@@ -5537,6 +5545,14 @@
       "onboard_time": 1683156984,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 761809,
+      "num": 761809,
+      "word": "杨紫阔腿工装裤",
+      "onboard_time": 1684134028,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 759072,
@@ -7915,6 +7931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 539115,
+      "num": 474633,
+      "word": "加拿大模特在中国坐月子",
+      "onboard_time": 1684133608,
+      "rank": 30,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 537949,
       "num": 495363,
       "word": "演什么都在演自己的演员",
@@ -8579,14 +8603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 493455,
-      "num": 188051,
-      "word": "加拿大模特在中国坐月子",
-      "onboard_time": 1684133608,
-      "rank": 30,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 492964,
       "num": 492964,
       "word": "小县城下班后有多美好",
@@ -8625,14 +8641,6 @@
       "onboard_time": 1683120511,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 491772,
-      "num": 491772,
-      "word": "杨紫阔腿工装裤",
-      "onboard_time": 1684134028,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 491157,
@@ -12259,6 +12267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 358322,
+      "num": 271604,
+      "word": "初中同学成我导师了",
+      "onboard_time": 1684135169,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 357694,
       "num": 357694,
       "word": "CBA总决赛",
@@ -13065,6 +13081,14 @@
       "onboard_time": 1683550711,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 339569,
+      "num": 339569,
+      "word": "母亲见牙医像已故女儿瞬间落泪",
+      "onboard_time": 1684133668,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 339243,
@@ -15763,14 +15787,6 @@
       "category": "游戏,综艺"
     },
     {
-      "raw_hot": 283246,
-      "num": 283246,
-      "word": "gidle 抄袭",
-      "onboard_time": 1684134690,
-      "rank": 19,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 283215,
       "num": 228774,
       "word": "易烊千玺手臂肌肉",
@@ -16403,6 +16419,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 271617,
+      "num": 271617,
+      "word": "唐山警方回应农妇袭警案",
+      "onboard_time": 1684133490,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271540,
       "num": 271540,
       "word": "女孩困得东倒西歪还坚持让座",
@@ -16881,6 +16905,14 @@
       "onboard_time": 1682949030,
       "rank": 27,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 263636,
+      "num": 263636,
+      "word": "易烊千玺新专辑售价198元",
+      "onboard_time": 1684135047,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 263612,
@@ -17371,14 +17403,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 256857,
-      "num": 256857,
-      "word": "唐山警方回应农妇袭警案",
-      "onboard_time": 1684133490,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 256707,
       "num": 256707,
       "word": "汶川钢腿女孩重回获救地",
@@ -17657,14 +17681,6 @@
       "onboard_time": 1683730713,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 251725,
-      "num": 251725,
-      "word": "母亲见牙医像已故女儿瞬间落泪",
-      "onboard_time": 1684133668,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 251719,
@@ -18457,6 +18473,14 @@
       "onboard_time": 1683205830,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241794,
+      "num": 241794,
+      "word": "发朋友圈被亲戚同学说腿粗",
+      "onboard_time": 1684134149,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 241652,
@@ -19457,6 +19481,14 @@
       "onboard_time": 1683715768,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 229525,
+      "num": 229525,
+      "word": "小龙虾价格",
+      "onboard_time": 1684131806,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229492,
@@ -22091,6 +22123,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 199489,
+      "num": 199489,
+      "word": "左耳朵耗子 心梗",
+      "onboard_time": 1684131448,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199475,
       "num": 181542,
       "word": "王一博长空之王票房破7亿海报",
@@ -22225,14 +22265,6 @@
       "onboard_time": 1683107671,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 198218,
-      "num": 198218,
-      "word": "小龙虾价格",
-      "onboard_time": 1684131806,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198216,
@@ -23123,14 +23155,6 @@
       "category": "社会正能量,教育"
     },
     {
-      "raw_hot": 188912,
-      "num": 188912,
-      "word": "左耳朵耗子 心梗",
-      "onboard_time": 1684131448,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188822,
       "num": 188822,
       "word": "刘耀文说太激动了谢谢大家",
@@ -23393,14 +23417,6 @@
       "onboard_time": 1683212496,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186363,
-      "num": 186363,
-      "word": "发朋友圈被亲戚同学说腿粗",
-      "onboard_time": 1684134149,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 186320,
@@ -25587,6 +25603,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 162832,
+      "num": 162832,
+      "word": "宋茜好像洋娃娃",
+      "onboard_time": 1684135649,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 162815,
       "num": 136438,
       "word": "张晚意孟子义是同学",
@@ -26081,6 +26105,14 @@
       "onboard_time": 1682956165,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156549,
+      "num": 156549,
+      "word": "虞书欣骑龙vs周也骑龙",
+      "onboard_time": 1684134628,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 156446,
@@ -27803,14 +27835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133437,
-      "num": 133437,
-      "word": "虞书欣骑龙vs周也骑龙",
-      "onboard_time": 1684134628,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 133336,
       "num": 133336,
       "word": "阿信",
@@ -27865,6 +27889,14 @@
       "onboard_time": 1683165328,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132894,
+      "num": 132894,
+      "word": "杨颖相思令杀青plog",
+      "onboard_time": 1684135827,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 132702,
@@ -29283,6 +29315,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 105810,
+      "num": 105810,
+      "word": "幽门螺杆菌到底要不要治",
+      "onboard_time": 1684136008,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105792,
       "num": 105792,
       "word": "热火3比2尼克斯",
@@ -30643,6 +30683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57378,
+      "num": 1406096,
+      "word": "寻路古都长安遇见多彩西安",
+      "onboard_time": 1684133848,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56786,
       "num": 56786,
       "word": "魏大勋在最不该做好人的时候做好人",
@@ -31137,14 +31185,6 @@
       "onboard_time": 1683414139,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 37239,
-      "num": 1406096,
-      "word": "寻路古都长安遇见多彩西安",
-      "onboard_time": 1684133848,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36946,

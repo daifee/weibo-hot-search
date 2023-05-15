@@ -1,10 +1,10 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684135030892,
+  "endTime": 1684136014550,
   "band_list": [
     {
-      "raw_hot": 2015125,
-      "num": 2015125,
+      "raw_hot": 2245496,
+      "num": 2245496,
       "word": "笑果无限期停止house演艺工作",
       "onboard_time": 1684133490,
       "rank": 0,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1246898,
+      "num": 1246898,
+      "word": "house道歉",
+      "onboard_time": 1684133668,
+      "rank": 4,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1246337,
       "num": 643171,
       "word": "王俊凯15岁和23岁回应谣言对比",
@@ -145,6 +153,14 @@
       "onboard_time": 1684111288,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1161832,
+      "num": 1161832,
+      "word": "gidle 抄袭",
+      "onboard_time": 1684134690,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 1063003,
@@ -187,14 +203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 895832,
-      "num": 895832,
-      "word": "house道歉",
-      "onboard_time": 1684133668,
-      "rank": 4,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 892779,
       "num": 892779,
       "word": "左耳朵耗子",
@@ -233,6 +241,14 @@
       "onboard_time": 1684116506,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 761809,
+      "num": 761809,
+      "word": "杨紫阔腿工装裤",
+      "onboard_time": 1684134028,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 751648,
@@ -347,20 +363,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 493455,
-      "num": 188051,
+      "raw_hot": 539115,
+      "num": 474633,
       "word": "加拿大模特在中国坐月子",
       "onboard_time": 1684133608,
       "rank": 30,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 491772,
-      "num": 491772,
-      "word": "杨紫阔腿工装裤",
-      "onboard_time": 1684134028,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 481585,
@@ -507,6 +515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 358322,
+      "num": 271604,
+      "word": "初中同学成我导师了",
+      "onboard_time": 1684135169,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 352409,
       "num": 352409,
       "word": "鬼灭之刃",
@@ -529,6 +545,14 @@
       "onboard_time": 1684117587,
       "rank": 27,
       "category": "科技"
+    },
+    {
+      "raw_hot": 339569,
+      "num": 339569,
+      "word": "母亲见牙医像已故女儿瞬间落泪",
+      "onboard_time": 1684133668,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338576,
@@ -619,14 +643,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 283246,
-      "num": 283246,
-      "word": "gidle 抄袭",
-      "onboard_time": 1684134690,
-      "rank": 19,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 283188,
       "num": 283188,
       "word": "刘雅瑟微博含姐量",
@@ -667,12 +683,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 271617,
+      "num": 271617,
+      "word": "唐山警方回应农妇袭警案",
+      "onboard_time": 1684133490,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268753,
       "num": 173977,
       "word": "90后总裁追星蔡徐坤",
       "onboard_time": 1684075950,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 263636,
+      "num": 263636,
+      "word": "易烊千玺新专辑售价198元",
+      "onboard_time": 1684135047,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 261090,
@@ -699,22 +731,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 256857,
-      "num": 256857,
-      "word": "唐山警方回应农妇袭警案",
-      "onboard_time": 1684133490,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251725,
-      "num": 251725,
-      "word": "母亲见牙医像已故女儿瞬间落泪",
-      "onboard_time": 1684133668,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247871,
       "num": 247871,
       "word": "街舞新领队或将是Lisa和RAIN",
@@ -739,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241794,
+      "num": 241794,
+      "word": "发朋友圈被亲戚同学说腿粗",
+      "onboard_time": 1684134149,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 232735,
       "num": 232735,
       "word": "任泽平建议推出五年内燃油车禁售时间表",
@@ -761,6 +785,14 @@
       "onboard_time": 1684106723,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 229525,
+      "num": 229525,
+      "word": "小龙虾价格",
+      "onboard_time": 1684131806,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224301,
@@ -931,20 +963,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199489,
+      "num": 199489,
+      "word": "左耳朵耗子 心梗",
+      "onboard_time": 1684131448,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198332,
       "num": 190959,
       "word": "为什么人打电话猫在旁边喵喵叫",
       "onboard_time": 1684129468,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 198218,
-      "num": 198218,
-      "word": "小龙虾价格",
-      "onboard_time": 1684131806,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195318,
@@ -979,14 +1011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188912,
-      "num": 188912,
-      "word": "左耳朵耗子 心梗",
-      "onboard_time": 1684131448,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188401,
       "num": 188401,
       "word": "乌总统拒绝教皇调停俄乌冲突",
@@ -1009,14 +1033,6 @@
       "onboard_time": 1684134267,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 186363,
-      "num": 186363,
-      "word": "发朋友圈被亲戚同学说腿粗",
-      "onboard_time": 1684134149,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 185099,
@@ -1203,6 +1219,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 162832,
+      "num": 162832,
+      "word": "宋茜好像洋娃娃",
+      "onboard_time": 1684135649,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 161975,
       "num": 161975,
       "word": "女装尺码",
@@ -1233,6 +1257,14 @@
       "onboard_time": 1684128628,
       "rank": 42,
       "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 156549,
+      "num": 156549,
+      "word": "虞书欣骑龙vs周也骑龙",
+      "onboard_time": 1684134628,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 155907,
@@ -1395,11 +1427,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 133437,
-      "num": 133437,
-      "word": "虞书欣骑龙vs周也骑龙",
-      "onboard_time": 1684134628,
-      "rank": 44,
+      "raw_hot": 132894,
+      "num": 132894,
+      "word": "杨颖相思令杀青plog",
+      "onboard_time": 1684135827,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -1497,6 +1529,14 @@
       "onboard_time": 1684059446,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105810,
+      "num": 105810,
+      "word": "幽门螺杆菌到底要不要治",
+      "onboard_time": 1684136008,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105754,
@@ -1635,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57378,
+      "num": 1406096,
+      "word": "寻路古都长安遇见多彩西安",
+      "onboard_time": 1684133848,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50631,
       "num": 85799,
       "word": "汶川敬礼娃娃郎铮今年高考",
@@ -1673,14 +1721,6 @@
       "onboard_time": 1684086076,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 37239,
-      "num": 1406096,
-      "word": "寻路古都长安遇见多彩西安",
-      "onboard_time": 1684133848,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32400,
