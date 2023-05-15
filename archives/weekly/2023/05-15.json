@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684175603130,
+  "endTime": 1684177989957,
   "band_list": [
     {
       "raw_hot": 3904532,
@@ -2811,20 +2811,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 24491,
+      "num": 28854,
+      "word": "阴阳师官方设定集",
+      "onboard_time": 1684172357,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 22349,
       "num": 31638,
       "word": "ZB1初舞台",
       "onboard_time": 1684093093,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21515,
-      "num": 28854,
-      "word": "阴阳师官方设定集",
-      "onboard_time": 1684172357,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 20345,

@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684175603130,
+  "endTime": 1684177989957,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -32435,6 +32435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 24491,
+      "num": 28854,
+      "word": "阴阳师官方设定集",
+      "onboard_time": 1684172357,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 24272,
       "num": 30334,
       "word": "电视剧平凡之路",
@@ -32481,14 +32489,6 @@
       "onboard_time": 1683757093,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21515,
-      "num": 28854,
-      "word": "阴阳师官方设定集",
-      "onboard_time": 1684172357,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 20345,
