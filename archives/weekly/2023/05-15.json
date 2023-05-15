@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684124410975,
+  "endTime": 1684125224112,
   "band_list": [
     {
       "raw_hot": 1933885,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1697599,
-      "num": 1429037,
+      "num": 1610686,
       "word": "张雨绮 去法国看看我的队排到哪儿了",
       "onboard_time": 1684121370,
       "rank": 25,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1571693,
-      "num": 1571693,
+      "raw_hot": 1634184,
+      "num": 1634184,
       "word": "朴树报平安",
       "onboard_time": 1684121670,
       "rank": 1,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 892779,
+      "num": 892779,
+      "word": "左耳朵耗子",
+      "onboard_time": 1684123892,
+      "rank": 13,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 828154,
       "num": 828154,
       "word": "于晓光陪秋瓷炫上班",
@@ -195,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 651227,
+      "num": 307034,
+      "word": "辞职后去旅游发朋友圈被说了",
+      "onboard_time": 1684120709,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 648257,
       "num": 648257,
       "word": "后浪扔外卖 离谱",
@@ -219,14 +235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 590295,
-      "num": 277588,
-      "word": "辞职后去旅游发朋友圈被说了",
-      "onboard_time": 1684120709,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 560953,
       "num": 560953,
       "word": "凤凰传奇是美依礼芽的榜一",
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 550120,
-      "num": 276669,
+      "num": 302491,
       "word": "你赞同演唱会实名制购票吗",
       "onboard_time": 1684123653,
       "rank": 21,
@@ -299,12 +307,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 418562,
+      "num": 418562,
+      "word": "A股",
+      "onboard_time": 1684123174,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 416128,
       "num": 416128,
       "word": "凯尔特人淘汰76人",
       "onboard_time": 1684105640,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 415730,
+      "num": 298314,
+      "word": "孙怡线下状态",
+      "onboard_time": 1684120291,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 400837,
@@ -321,22 +345,6 @@
       "onboard_time": 1684072231,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 394952,
-      "num": 276183,
-      "word": "孙怡线下状态",
-      "onboard_time": 1684120291,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 367761,
-      "num": 367761,
-      "word": "左耳朵耗子",
-      "onboard_time": 1684123892,
-      "rank": 13,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 362768,
@@ -371,12 +379,36 @@
       "category": "科技"
     },
     {
-      "raw_hot": 334860,
-      "num": 334860,
-      "word": "A股",
-      "onboard_time": 1684123174,
-      "rank": 14,
-      "category": "财经"
+      "raw_hot": 338576,
+      "num": 338576,
+      "word": "儿子母亲节送花被妈妈拒收",
+      "onboard_time": 1684115065,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335690,
+      "num": 335690,
+      "word": "艾莉先点痣了",
+      "onboard_time": 1684124672,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 333715,
+      "num": 292302,
+      "word": "易烊千玺将去戛纳",
+      "onboard_time": 1684124070,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 333431,
+      "num": 333431,
+      "word": "找到秋瓷炫不会跳舞的原因",
+      "onboard_time": 1684123531,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 313390,
@@ -385,6 +417,14 @@
       "onboard_time": 1684119388,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 308612,
+      "num": 308612,
+      "word": "刘耀文又在复盘了",
+      "onboard_time": 1684122992,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 307860,
@@ -403,14 +443,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 306352,
-      "num": 306352,
-      "word": "刘耀文又在复盘了",
-      "onboard_time": 1684122992,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 293234,
       "num": 293234,
       "word": "大爷买二等座票带孙女坐一等座被赶",
@@ -419,20 +451,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288094,
+      "num": 288094,
+      "word": "桃花坞",
+      "onboard_time": 1684124495,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286625,
       "num": 286625,
       "word": "20230520心形纪念币",
       "onboard_time": 1684116746,
       "rank": 19,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 284207,
-      "num": 281576,
-      "word": "儿子母亲节送花被妈妈拒收",
-      "onboard_time": 1684115065,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 283188,
@@ -459,20 +491,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 270896,
-      "num": 270896,
-      "word": "易烊千玺将去戛纳",
-      "onboard_time": 1684124070,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 268753,
       "num": 173977,
       "word": "90后总裁追星蔡徐坤",
       "onboard_time": 1684075950,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261090,
+      "num": 225507,
+      "word": "桃花坞3集体搬家海南",
+      "onboard_time": 1684124734,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 258626,
@@ -523,20 +555,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224301,
+      "num": 224301,
+      "word": "21岁了感觉自己还像个小孩",
+      "onboard_time": 1684120709,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 224186,
+      "num": 224186,
+      "word": "少年白马醉春风",
+      "onboard_time": 1684122031,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223470,
       "num": 223470,
       "word": "捡到100块结果面试没通过",
       "onboard_time": 1684071147,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 223258,
-      "num": 223258,
-      "word": "21岁了感觉自己还像个小孩",
-      "onboard_time": 1684120709,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 223050,
@@ -547,12 +587,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 222720,
-      "num": 222720,
-      "word": "少年白马醉春风",
-      "onboard_time": 1684122031,
-      "rank": 28,
+      "raw_hot": 221414,
+      "num": 221414,
+      "word": "龚俊新剧",
+      "onboard_time": 1684123831,
+      "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 216102,
+      "num": 216102,
+      "word": "当小猫误入大猫打架现场",
+      "onboard_time": 1684120770,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 215936,
@@ -569,6 +617,22 @@
       "onboard_time": 1684055966,
       "rank": 27,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 210804,
+      "num": 210804,
+      "word": "来自天堂的两万元结婚礼金",
+      "onboard_time": 1684119983,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 210772,
+      "num": 210772,
+      "word": "被这项奖助学金的名字暖到了",
+      "onboard_time": 1684121791,
+      "rank": 35,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 210753,
@@ -593,38 +657,6 @@
       "onboard_time": 1684118065,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208699,
-      "num": 208699,
-      "word": "找到秋瓷炫不会跳舞的原因",
-      "onboard_time": 1684123531,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 206976,
-      "num": 206976,
-      "word": "来自天堂的两万元结婚礼金",
-      "onboard_time": 1684119983,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 203835,
-      "num": 203835,
-      "word": "当小猫误入大猫打架现场",
-      "onboard_time": 1684120770,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 201844,
-      "num": 201844,
-      "word": "龚俊新剧",
-      "onboard_time": 1684123831,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 201521,
@@ -683,14 +715,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 186687,
-      "num": 186687,
-      "word": "被这项奖助学金的名字暖到了",
-      "onboard_time": 1684121791,
-      "rank": 35,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 185099,
       "num": 185099,
       "word": "恩比德",
@@ -721,6 +745,14 @@
       "onboard_time": 1684105640,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 182005,
+      "num": 178273,
+      "word": "浪姐4好热闹啊",
+      "onboard_time": 1684123111,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 176823,
@@ -755,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173382,
+      "num": 168673,
+      "word": "秋瓷炫好招人心疼",
+      "onboard_time": 1684122751,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173281,
       "num": 173281,
       "word": "MSI",
@@ -763,16 +803,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 170261,
-      "num": 170261,
-      "word": "浪姐4好热闹啊",
-      "onboard_time": 1684123111,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 169811,
-      "num": 163960,
+      "num": 169768,
       "word": "李莎旻子带瞿颖Amber吃长沙小龙虾",
       "onboard_time": 1684121249,
       "rank": 41,
@@ -801,14 +833,6 @@
       "onboard_time": 1684117046,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 161297,
-      "num": 161297,
-      "word": "秋瓷炫好招人心疼",
-      "onboard_time": 1684122751,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 160425,
@@ -937,6 +961,14 @@
       "onboard_time": 1684080864,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134075,
+      "num": 152002,
+      "word": "高三女生受伤成团宠被抬着上下课",
+      "onboard_time": 1684124856,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 128140,
@@ -1220,7 +1252,7 @@
     },
     {
       "raw_hot": 15785,
-      "num": 1440222,
+      "num": 1614544,
       "word": "农忙时节的田野铺开了生机勃勃的画卷",
       "onboard_time": 1684054285,
       "rank": 2,
