@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684131731135,
+  "endTime": 1684132496433,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -2875,6 +2875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1310649,
+      "num": 1310649,
+      "word": "秋瓷炫工地芭蕾直拍流出",
+      "onboard_time": 1684129526,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1304241,
       "num": 1284113,
       "word": "赵丽颖的腰臀比",
@@ -3707,14 +3715,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1097561,
-      "num": 1097561,
-      "word": "秋瓷炫工地芭蕾直拍流出",
-      "onboard_time": 1684129526,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1097270,
       "num": 1097270,
       "word": "胡歌 镖人",
@@ -3943,6 +3943,14 @@
       "num": 661697,
       "word": "黄子韬一年瘦了40多斤",
       "onboard_time": 1683034420,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1055981,
+      "num": 602585,
+      "word": "刘丹母亲节拒谈杨幂",
+      "onboard_time": 1684130608,
       "rank": 11,
       "category": "艺人"
     },
@@ -4337,6 +4345,14 @@
       "onboard_time": 1684105399,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 962001,
+      "num": 962001,
+      "word": "宋小宝 王嘉尔",
+      "onboard_time": 1684131147,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 959798,
@@ -4772,7 +4788,7 @@
     },
     {
       "raw_hot": 882543,
-      "num": 817763,
+      "num": 827221,
       "word": "张嘉倪为叮叮当当组设计项链",
       "onboard_time": 1684126775,
       "rank": 12,
@@ -6427,6 +6443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 654225,
+      "num": 654225,
+      "word": "李小璐持股公司成老赖",
+      "onboard_time": 1684127369,
+      "rank": 32,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 653534,
       "num": 653534,
       "word": "aespa回归",
@@ -6681,14 +6705,6 @@
       "onboard_time": 1683976527,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 621131,
-      "num": 621131,
-      "word": "李小璐持股公司成老赖",
-      "onboard_time": 1684127369,
-      "rank": 32,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 621084,
@@ -7793,14 +7809,6 @@
       "onboard_time": 1683953493,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 542416,
-      "num": 542416,
-      "word": "刘丹母亲节拒谈杨幂",
-      "onboard_time": 1684130608,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 541678,
@@ -11547,14 +11555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 377191,
-      "num": 336943,
-      "word": "宋小宝 王嘉尔",
-      "onboard_time": 1684131147,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 377187,
       "num": 303543,
       "word": "吃榴莲大姨妈提前了",
@@ -12305,6 +12305,14 @@
       "onboard_time": 1683937528,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 355415,
+      "num": 355415,
+      "word": "足浴技师称被灌醉遭性侵获立案",
+      "onboard_time": 1684129829,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 355379,
@@ -15987,6 +15995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278910,
+      "num": 278910,
+      "word": "面试时HR让我写一百个一",
+      "onboard_time": 1684130968,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 278802,
       "num": 278802,
       "word": "瑞幸咖啡一季度营业利润达6.78亿元",
@@ -16089,14 +16105,6 @@
       "onboard_time": 1683951150,
       "rank": 38,
       "category": "情感,音乐"
-    },
-    {
-      "raw_hot": 276677,
-      "num": 276677,
-      "word": "足浴技师称被灌醉遭性侵获立案",
-      "onboard_time": 1684129829,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 276531,
@@ -21211,6 +21219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207673,
+      "num": 207673,
+      "word": "house 笑果",
+      "onboard_time": 1684131988,
+      "rank": 24,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 207658,
       "num": 207658,
       "word": "喜欢送",
@@ -22132,7 +22148,7 @@
     },
     {
       "raw_hot": 198332,
-      "num": 175696,
+      "num": 190959,
       "word": "为什么人打电话猫在旁边喵喵叫",
       "onboard_time": 1684129468,
       "rank": 30,
@@ -23625,14 +23641,6 @@
       "onboard_time": 1683046345,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181377,
-      "num": 181377,
-      "word": "面试时HR让我写一百个一",
-      "onboard_time": 1684130968,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 181311,
@@ -25339,6 +25347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163964,
+      "num": 163964,
+      "word": "当我打开2015年的朋友圈",
+      "onboard_time": 1684132289,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163859,
       "num": 163859,
       "word": "宋茜直播",
@@ -25441,6 +25457,14 @@
       "onboard_time": 1684069527,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163050,
+      "num": 163050,
+      "word": "李宇春穿了三条裤子",
+      "onboard_time": 1684132289,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 162981,
@@ -25891,6 +25915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157531,
+      "num": 157531,
+      "word": "任泽平建议推出五年内燃油车禁售时间表",
+      "onboard_time": 1684132107,
+      "rank": 33,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 157389,
       "num": 157389,
       "word": "奔跑吧下周谁是贵阳推荐官",
@@ -26193,6 +26225,14 @@
       "onboard_time": 1684074753,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153747,
+      "num": 153747,
+      "word": "天津的猪热中暑了",
+      "onboard_time": 1684130908,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153589,
@@ -26851,6 +26891,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 145782,
+      "num": 145782,
+      "word": "小龙虾价格",
+      "onboard_time": 1684131806,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145686,
       "num": 145686,
       "word": "詹姆斯三分",
@@ -26888,6 +26936,14 @@
       "word": "校方回应男生被老师丈夫刺伤",
       "onboard_time": 1683491591,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145281,
+      "num": 145281,
+      "word": "左耳朵耗子 心梗",
+      "onboard_time": 1684131448,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -27041,6 +27097,14 @@
       "onboard_time": 1684048949,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142866,
+      "num": 142866,
+      "word": "Lisa卷毛造型",
+      "onboard_time": 1684130007,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 142717,
@@ -27963,14 +28027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129522,
-      "num": 129522,
-      "word": "Lisa卷毛造型",
-      "onboard_time": 1684130007,
-      "rank": 40,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 129390,
       "num": 129390,
       "word": "不良人一盘棋下了两年",
@@ -28273,14 +28329,6 @@
       "onboard_time": 1684044149,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 124864,
-      "num": 124864,
-      "word": "左耳朵耗子 心梗",
-      "onboard_time": 1684131448,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124810,
@@ -28816,14 +28864,6 @@
       "word": "西直门三太子",
       "onboard_time": 1682825366,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114250,
-      "num": 114250,
-      "word": "天津的猪热中暑了",
-      "onboard_time": 1684130908,
-      "rank": 46,
       "category": "社会新闻"
     },
     {

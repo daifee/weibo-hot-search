@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684131731135,
+  "endTime": 1684132496433,
   "band_list": [
     {
       "raw_hot": 1933885,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1310649,
+      "num": 1310649,
+      "word": "秋瓷炫工地芭蕾直拍流出",
+      "onboard_time": 1684129526,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1246337,
       "num": 643171,
       "word": "王俊凯15岁和23岁回应谣言对比",
@@ -123,12 +131,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1097561,
-      "num": 1097561,
-      "word": "秋瓷炫工地芭蕾直拍流出",
-      "onboard_time": 1684129526,
-      "rank": 3,
-      "category": "综艺"
+      "raw_hot": 1055981,
+      "num": 602585,
+      "word": "刘丹母亲节拒谈杨幂",
+      "onboard_time": 1684130608,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 972751,
@@ -145,6 +153,14 @@
       "onboard_time": 1684105399,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 962001,
+      "num": 962001,
+      "word": "宋小宝 王嘉尔",
+      "onboard_time": 1684131147,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 926211,
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 882543,
-      "num": 817763,
+      "num": 827221,
       "word": "张嘉倪为叮叮当当组设计项链",
       "onboard_time": 1684126775,
       "rank": 12,
@@ -251,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 654225,
+      "num": 654225,
+      "word": "李小璐持股公司成老赖",
+      "onboard_time": 1684127369,
+      "rank": 32,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 651227,
       "num": 314802,
       "word": "辞职后去旅游发朋友圈被说了",
@@ -275,14 +299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 621131,
-      "num": 621131,
-      "word": "李小璐持股公司成老赖",
-      "onboard_time": 1684127369,
-      "rank": 32,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 606769,
       "num": 606769,
       "word": "秋瓷炫像是在跳我的人生",
@@ -305,14 +321,6 @@
       "onboard_time": 1684123653,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 542416,
-      "num": 542416,
-      "word": "刘丹母亲节拒谈杨幂",
-      "onboard_time": 1684130608,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 481585,
@@ -435,20 +443,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 377191,
-      "num": 336943,
-      "word": "宋小宝 王嘉尔",
-      "onboard_time": 1684131147,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 362768,
       "num": 221589,
       "word": "王俊凯在回应哪个",
       "onboard_time": 1684107684,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 355415,
+      "num": 355415,
+      "word": "足浴技师称被灌醉遭性侵获立案",
+      "onboard_time": 1684129829,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352409,
@@ -587,12 +595,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 276677,
-      "num": 276677,
-      "word": "足浴技师称被灌醉遭性侵获立案",
-      "onboard_time": 1684129829,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 278910,
+      "num": 278910,
+      "word": "面试时HR让我写一百个一",
+      "onboard_time": 1684130968,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 276150,
@@ -811,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207673,
+      "num": 207673,
+      "word": "house 笑果",
+      "onboard_time": 1684131988,
+      "rank": 24,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 201521,
       "num": 201521,
       "word": "王俊凯侧拍",
@@ -852,7 +868,7 @@
     },
     {
       "raw_hot": 198332,
-      "num": 175696,
+      "num": 190959,
       "word": "为什么人打电话猫在旁边喵喵叫",
       "onboard_time": 1684129468,
       "rank": 30,
@@ -945,14 +961,6 @@
       "onboard_time": 1684123111,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 181377,
-      "num": 181377,
-      "word": "面试时HR让我写一百个一",
-      "onboard_time": 1684130968,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 179854,
@@ -1067,6 +1075,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163964,
+      "num": 163964,
+      "word": "当我打开2015年的朋友圈",
+      "onboard_time": 1684132289,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 163050,
+      "num": 163050,
+      "word": "李宇春穿了三条裤子",
+      "onboard_time": 1684132289,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 162632,
       "num": 162632,
       "word": "女子见小孩玩水多留意一眼救下3人",
@@ -1099,6 +1123,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 157531,
+      "num": 157531,
+      "word": "任泽平建议推出五年内燃油车禁售时间表",
+      "onboard_time": 1684132107,
+      "rank": 33,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 155907,
       "num": 155907,
       "word": "塔图姆51分",
@@ -1113,6 +1145,14 @@
       "onboard_time": 1684130127,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153747,
+      "num": 153747,
+      "word": "天津的猪热中暑了",
+      "onboard_time": 1684130908,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149773,
@@ -1155,6 +1195,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 145782,
+      "num": 145782,
+      "word": "小龙虾价格",
+      "onboard_time": 1684131806,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145281,
+      "num": 145281,
+      "word": "左耳朵耗子 心梗",
+      "onboard_time": 1684131448,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144747,
       "num": 144747,
       "word": "NBA季后赛",
@@ -1185,6 +1241,14 @@
       "onboard_time": 1684109308,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142866,
+      "num": 142866,
+      "word": "Lisa卷毛造型",
+      "onboard_time": 1684130007,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 140285,
@@ -1243,14 +1307,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 129522,
-      "num": 129522,
-      "word": "Lisa卷毛造型",
-      "onboard_time": 1684130007,
-      "rank": 40,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 128140,
       "num": 128140,
       "word": "药师寺宽邦",
@@ -1291,14 +1347,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 124864,
-      "num": 124864,
-      "word": "左耳朵耗子 心梗",
-      "onboard_time": 1684131448,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124783,
       "num": 150441,
       "word": "光与夜之恋",
@@ -1321,14 +1369,6 @@
       "onboard_time": 1684113266,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 114250,
-      "num": 114250,
-      "word": "天津的猪热中暑了",
-      "onboard_time": 1684130908,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110942,

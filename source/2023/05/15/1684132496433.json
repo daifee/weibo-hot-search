@@ -1,0 +1,410 @@
+{
+  "runTime": 1684132496433,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1310649,
+        "num": 1310649,
+        "word": "秋瓷炫工地芭蕾直拍流出",
+        "onboard_time": 1684129526,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 962001,
+        "num": 962001,
+        "word": "宋小宝 王嘉尔",
+        "onboard_time": 1684131147,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10709,
+        "num": 881588,
+        "word": "农忙时节的田野铺开了生机勃勃的画卷",
+        "onboard_time": 1684054285,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1530671,
+        "num": 872521,
+        "word": "笑果",
+        "onboard_time": 1684125575,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 859391,
+        "num": 859391,
+        "word": "张雨绮 去法国看看我的队排到哪儿了",
+        "onboard_time": 1684121370,
+        "rank": 4,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 827221,
+        "num": 827221,
+        "word": "张嘉倪为叮叮当当组设计项链",
+        "onboard_time": 1684126775,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 790332,
+        "num": 790332,
+        "word": "朴树报平安",
+        "onboard_time": 1684121670,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 719145,
+        "num": 719145,
+        "word": "男子猝死万幸倒在医生面前",
+        "onboard_time": 1684117887,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654225,
+        "num": 654225,
+        "word": "李小璐持股公司成老赖",
+        "onboard_time": 1684127369,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 605968,
+        "num": 605968,
+        "word": "江西失踪5岁双胞胎均已身亡",
+        "onboard_time": 1684120589,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1055981,
+        "num": 602585,
+        "word": "刘丹母亲节拒谈杨幂",
+        "onboard_time": 1684130608,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 587610,
+        "num": 587610,
+        "word": "演唱会为啥都在闹退票",
+        "onboard_time": 1684105399,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 495956,
+        "num": 495956,
+        "word": "办公室一天讲不了2句话",
+        "onboard_time": 1684113447,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472752,
+        "num": 472752,
+        "word": "张翰方否认恋情",
+        "onboard_time": 1684125395,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363144,
+        "num": 363144,
+        "word": "吃自助偷打包补交44543元餐费",
+        "onboard_time": 1684127312,
+        "rank": 14,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 390239,
+        "num": 359443,
+        "word": "迪丽热巴冰淇淋侧颜",
+        "onboard_time": 1684126775,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355415,
+        "num": 355415,
+        "word": "足浴技师称被灌醉遭性侵获立案",
+        "onboard_time": 1684129829,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296310,
+        "num": 296310,
+        "word": "陈冰 淘汰",
+        "onboard_time": 1684127133,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278910,
+        "num": 278910,
+        "word": "面试时HR让我写一百个一",
+        "onboard_time": 1684130968,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237961,
+        "num": 237961,
+        "word": "原来面试可以当场有结果",
+        "onboard_time": 1684125575,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286268,
+        "num": 235420,
+        "word": "辞职后去旅游发朋友圈被说了",
+        "onboard_time": 1684120709,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228367,
+        "num": 228367,
+        "word": "朱一龙 戛纳",
+        "onboard_time": 1684128569,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225707,
+        "num": 225707,
+        "word": "王者荣耀女装",
+        "onboard_time": 1684125695,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215947,
+        "num": 215947,
+        "word": "艾莉先点痣了",
+        "onboard_time": 1684124672,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207673,
+        "num": 207673,
+        "word": "house 笑果",
+        "onboard_time": 1684131988,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 190959,
+        "num": 190959,
+        "word": "为什么人打电话猫在旁边喵喵叫",
+        "onboard_time": 1684129468,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189583,
+        "num": 189583,
+        "word": "左耳朵耗子",
+        "onboard_time": 1684123892,
+        "rank": 26,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 186591,
+        "num": 186591,
+        "word": "首例利用直播洗钱犯罪案被侦破",
+        "onboard_time": 1684130548,
+        "rank": 27,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 177485,
+        "num": 177485,
+        "word": "和认识七年的好朋友在一起了",
+        "onboard_time": 1684112426,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176937,
+        "num": 176937,
+        "word": "易烊千玺新专辑销量",
+        "onboard_time": 1684122574,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163964,
+        "num": 163964,
+        "word": "当我打开2015年的朋友圈",
+        "onboard_time": 1684132289,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163050,
+        "num": 163050,
+        "word": "李宇春穿了三条裤子",
+        "onboard_time": 1684132289,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 162997,
+        "num": 162997,
+        "word": "iPhone15将搭堆叠式摄像头",
+        "onboard_time": 1684117587,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 157531,
+        "num": 157531,
+        "word": "任泽平建议推出五年内燃油车禁售时间表",
+        "onboard_time": 1684132107,
+        "rank": 33,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 155052,
+        "num": 155052,
+        "word": "认识多年的兄弟好像被骗婚了",
+        "onboard_time": 1684126775,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153747,
+        "num": 153747,
+        "word": "天津的猪热中暑了",
+        "onboard_time": 1684130908,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151745,
+        "num": 151745,
+        "word": "王俊凯15岁和23岁回应谣言对比",
+        "onboard_time": 1684107623,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150596,
+        "num": 150596,
+        "word": "中国人有自己的李钟硕",
+        "onboard_time": 1684127668,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150082,
+        "num": 150082,
+        "word": "二代滔搏也be了",
+        "onboard_time": 1684129709,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145782,
+        "num": 145782,
+        "word": "小龙虾价格",
+        "onboard_time": 1684131806,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145281,
+        "num": 145281,
+        "word": "左耳朵耗子 心梗",
+        "onboard_time": 1684131448,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142866,
+        "num": 142866,
+        "word": "Lisa卷毛造型",
+        "onboard_time": 1684130007,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 141828,
+        "num": 141828,
+        "word": "找到秋瓷炫不会跳舞的原因",
+        "onboard_time": 1684123531,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141620,
+        "num": 141620,
+        "word": "女子见小孩玩水多留意一眼救下3人",
+        "onboard_time": 1684129526,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139996,
+        "num": 139996,
+        "word": "孙准浩",
+        "onboard_time": 1684130127,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138769,
+        "num": 138769,
+        "word": "女装尺码",
+        "onboard_time": 1684128811,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129086,
+        "num": 129086,
+        "word": "法老证件照片vs现场照片",
+        "onboard_time": 1684130369,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129057,
+        "num": 129057,
+        "word": "租房时前租客留下过什么宝藏",
+        "onboard_time": 1684124193,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118242,
+        "num": 118242,
+        "word": "叮叮当当",
+        "onboard_time": 1684128148,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50127,
+        "num": 115268,
+        "word": "剑网3",
+        "onboard_time": 1684117826,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国与中亚在此相会#"
+    }
+  }
+}
