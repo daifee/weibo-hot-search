@@ -1,0 +1,410 @@
+{
+  "runTime": 1684193603352,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 905770,
+        "num": 905770,
+        "word": "老爸给我晾的百褶裙",
+        "onboard_time": 1684165291,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 638251,
+        "num": 638251,
+        "word": "韩国女性被献给美国大兵遭蹂躏数十年",
+        "onboard_time": 1684144588,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69675,
+        "num": 636539,
+        "word": "出入境政策再优化",
+        "onboard_time": 1684159050,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636476,
+        "num": 636476,
+        "word": "月薪5000真的很低吗",
+        "onboard_time": 1684156949,
+        "rank": 3,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 591868,
+        "num": 591868,
+        "word": "女子武汉坐高铁遇满车人都在啃鸭脖",
+        "onboard_time": 1684188794,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466330,
+        "num": 466330,
+        "word": "内娱百分之百的原生脸",
+        "onboard_time": 1684162771,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 424947,
+        "num": 424947,
+        "word": "一不小心翻到董事长工资",
+        "onboard_time": 1684146749,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 489981,
+        "num": 417950,
+        "word": "广东情侣住酒店凌晨被人开门闯入",
+        "onboard_time": 1684152089,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363981,
+        "num": 363981,
+        "word": "house",
+        "onboard_time": 1684193063,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353962,
+        "num": 353962,
+        "word": "当你胖了四斤肉而已",
+        "onboard_time": 1684162352,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1286947,
+        "num": 351307,
+        "word": "颜九要求温精灵公开道歉",
+        "onboard_time": 1684158512,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1018430,
+        "num": 346484,
+        "word": "王力宏李靓蕾现身法庭",
+        "onboard_time": 1684164152,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 759597,
+        "num": 342801,
+        "word": "沈月在闺蜜婚礼上哭了",
+        "onboard_time": 1684163911,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409637,
+        "num": 340109,
+        "word": "颜九 温精灵",
+        "onboard_time": 1684157374,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 375364,
+        "num": 338627,
+        "word": "迪丽热巴未修原档生图",
+        "onboard_time": 1684153047,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 335019,
+        "num": 335019,
+        "word": "姚明的脸",
+        "onboard_time": 1684161030,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309991,
+        "num": 309991,
+        "word": "笑果旗下艺人多次违法被处罚",
+        "onboard_time": 1684145367,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 222457,
+        "num": 222457,
+        "word": "朱珠直拍 有种不顾我死活的美",
+        "onboard_time": 1684160790,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192466,
+        "num": 192466,
+        "word": "G2淘汰",
+        "onboard_time": 1684192341,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 303188,
+        "num": 188960,
+        "word": "人民日报评House冒犯人民子弟兵",
+        "onboard_time": 1684192760,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 367979,
+        "num": 186212,
+        "word": "台媒说浪姐4职场霸凌徐怀钰",
+        "onboard_time": 1684151066,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183434,
+        "num": 183434,
+        "word": "Lisa让工作人员给粉丝发水",
+        "onboard_time": 1684167687,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 267168,
+        "num": 179609,
+        "word": "笑果文化称不当言论是HOUSE临时加的",
+        "onboard_time": 1684192883,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175254,
+        "num": 175254,
+        "word": "一年半年才发一次朋友圈",
+        "onboard_time": 1684160671,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172996,
+        "num": 172996,
+        "word": "32岁女生相亲角因条件高被男子怼哭",
+        "onboard_time": 1684145851,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161692,
+        "num": 161692,
+        "word": "新版四大甜妹",
+        "onboard_time": 1684149989,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157435,
+        "num": 157435,
+        "word": "文旅部门介入调查House不当言论",
+        "onboard_time": 1684143389,
+        "rank": 26,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 156508,
+        "num": 156508,
+        "word": "夫妻结婚33年生下8女1儿",
+        "onboard_time": 1684147289,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114166,
+        "num": 114166,
+        "word": "肖战李沁梦中的那片海播出时间",
+        "onboard_time": 1684152627,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91892,
+        "num": 111922,
+        "word": "为哥哥当眼睛60余年",
+        "onboard_time": 1684191801,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136114,
+        "num": 111843,
+        "word": "北京市文化执法总队已对笑果立案调查",
+        "onboard_time": 1684149150,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 111631,
+        "num": 111631,
+        "word": "现在年轻人流行断亲",
+        "onboard_time": 1684166607,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109038,
+        "num": 109038,
+        "word": "郭艾伦",
+        "onboard_time": 1684159110,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107081,
+        "num": 107081,
+        "word": "只要不欠他的 没必要唯唯诺诺",
+        "onboard_time": 1684177512,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103378,
+        "num": 103378,
+        "word": "你支持全面禁止老头乐吗",
+        "onboard_time": 1684138827,
+        "rank": 34,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 99939,
+        "num": 99939,
+        "word": "任权直播还钱",
+        "onboard_time": 1684158755,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 99482,
+        "num": 99482,
+        "word": "许凯晒一次腹肌奖励自己两个汉堡",
+        "onboard_time": 1684161453,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98118,
+        "num": 98118,
+        "word": "谈恋爱一周亏了几千块钱",
+        "onboard_time": 1684157910,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88719,
+        "num": 88719,
+        "word": "99元5斤小龙虾外卖净重仅2.9斤",
+        "onboard_time": 1684193063,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87337,
+        "num": 87337,
+        "word": "办公室除了我们都是贵又脆弱的东西",
+        "onboard_time": 1684182852,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86353,
+        "num": 86353,
+        "word": "辽宁总冠军",
+        "onboard_time": 1684158151,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85691,
+        "num": 85691,
+        "word": "武大为2020届毕业生补办毕业典礼",
+        "onboard_time": 1684159590,
+        "rank": 41,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 76621,
+        "num": 76621,
+        "word": "点痣前的朱珠",
+        "onboard_time": 1684151787,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76601,
+        "num": 76601,
+        "word": "苏醒再不回国活就被别人抢完了",
+        "onboard_time": 1684163489,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62487,
+        "num": 62487,
+        "word": "女明星未修原档生图",
+        "onboard_time": 1684162830,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 61246,
+        "num": 61246,
+        "word": "港妹能不能吃点好的",
+        "onboard_time": 1684158512,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58694,
+        "num": 58694,
+        "word": "王者敦煌皮肤第四季",
+        "onboard_time": 1684156411,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 58415,
+        "num": 58415,
+        "word": "怎么没有徐怀钰直拍",
+        "onboard_time": 1684154127,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54441,
+        "num": 54441,
+        "word": "过了时效性的事情怎么发朋友圈",
+        "onboard_time": 1684172177,
+        "rank": 48,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 41287,
+        "num": 49960,
+        "word": "2023腾讯游戏发布会",
+        "onboard_time": 1684155509,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国与中亚国家的友谊再谱新篇#"
+    }
+  }
+}

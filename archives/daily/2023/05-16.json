@@ -1,10 +1,10 @@
 {
   "startTime": 1684167725625,
-  "endTime": 1684192596689,
+  "endTime": 1684193603352,
   "band_list": [
     {
       "raw_hot": 2734536,
-      "num": 326012,
+      "num": 340109,
       "word": "颜九 温精灵",
       "onboard_time": 1684157374,
       "rank": 10,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2669259,
-      "num": 302514,
+      "num": 351307,
       "word": "颜九要求温精灵公开道歉",
       "onboard_time": 1684158512,
       "rank": 13,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1187286,
-      "num": 318781,
+      "num": 346484,
       "word": "王力宏李靓蕾现身法庭",
       "onboard_time": 1684164152,
       "rank": 11,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1104744,
-      "num": 310641,
+      "num": 342801,
       "word": "沈月在闺蜜婚礼上哭了",
       "onboard_time": 1684163911,
       "rank": 12,
@@ -51,20 +51,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 878290,
-      "num": 297255,
-      "word": "迪丽热巴未修原档生图",
-      "onboard_time": 1684153047,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 737878,
-      "num": 737878,
+      "raw_hot": 905770,
+      "num": 905770,
       "word": "老爸给我晾的百褶裙",
       "onboard_time": 1684165291,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 878290,
+      "num": 338627,
+      "word": "迪丽热巴未修原档生图",
+      "onboard_time": 1684153047,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 729726,
@@ -88,6 +88,14 @@
       "word": "韩国女性被献给美国大兵遭蹂躏数十年",
       "onboard_time": 1684144588,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 591868,
+      "num": 591868,
+      "word": "女子武汉坐高铁遇满车人都在啃鸭脖",
+      "onboard_time": 1684188794,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -115,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 489981,
+      "num": 420074,
+      "word": "广东情侣住酒店凌晨被人开门闯入",
+      "onboard_time": 1684152089,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 483057,
       "num": 212353,
       "word": "5岁中法混血女孩遭父亲割喉身亡",
@@ -131,28 +147,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 435405,
-      "num": 208042,
-      "word": "女子武汉坐高铁遇满车人都在啃鸭脖",
-      "onboard_time": 1684188794,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 422206,
       "num": 294252,
       "word": "文旅部门介入调查House不当言论",
       "onboard_time": 1684143389,
       "rank": 15,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 420074,
-      "num": 420074,
-      "word": "广东情侣住酒店凌晨被人开门闯入",
-      "onboard_time": 1684152089,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 374686,
@@ -163,11 +163,27 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 308545,
-      "num": 201421,
+      "raw_hot": 363981,
+      "num": 363981,
+      "word": "house",
+      "onboard_time": 1684193063,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 309991,
+      "num": 309991,
       "word": "笑果旗下艺人多次违法被处罚",
       "onboard_time": 1684145367,
       "rank": 31,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 303188,
+      "num": 188960,
+      "word": "人民日报评House冒犯人民子弟兵",
+      "onboard_time": 1684192760,
+      "rank": 19,
       "category": "社会新闻,艺人"
     },
     {
@@ -185,6 +201,14 @@
       "onboard_time": 1684167325,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 267168,
+      "num": 179609,
+      "word": "笑果文化称不当言论是HOUSE临时加的",
+      "onboard_time": 1684192883,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 257329,
@@ -259,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192466,
+      "num": 192466,
+      "word": "G2淘汰",
+      "onboard_time": 1684192341,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 191849,
       "num": 191849,
       "word": "苏醒再不回国活就被别人抢完了",
@@ -299,8 +331,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152743,
-      "num": 152743,
+      "raw_hot": 156508,
+      "num": 156508,
       "word": "夫妻结婚33年生下8女1儿",
       "onboard_time": 1684147289,
       "rank": 43,
@@ -379,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107081,
+      "num": 107081,
+      "word": "只要不欠他的 没必要唯唯诺诺",
+      "onboard_time": 1684177512,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 104941,
       "num": 104941,
       "word": "点痣前的朱珠",
@@ -395,12 +435,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 92284,
-      "num": 92284,
-      "word": "只要不欠他的 没必要唯唯诺诺",
-      "onboard_time": 1684177512,
-      "rank": 19,
-      "category": "情感"
+      "raw_hot": 91892,
+      "num": 111922,
+      "word": "为哥哥当眼睛60余年",
+      "onboard_time": 1684191801,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88719,
+      "num": 88719,
+      "word": "99元5斤小龙虾外卖净重仅2.9斤",
+      "onboard_time": 1684193063,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88614,
@@ -409,6 +457,14 @@
       "onboard_time": 1684156411,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 87337,
+      "num": 87337,
+      "word": "办公室除了我们都是贵又脆弱的东西",
+      "onboard_time": 1684182852,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 86385,
@@ -425,14 +481,6 @@
       "onboard_time": 1684159050,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74007,
-      "num": 74007,
-      "word": "办公室除了我们都是贵又脆弱的东西",
-      "onboard_time": 1684182852,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 60169,
@@ -467,14 +515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 55635,
-      "num": 55635,
-      "word": "为哥哥当眼睛60余年",
-      "onboard_time": 1684191801,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 55374,
       "num": 99872,
       "word": "2023腾讯游戏发布会",
@@ -483,16 +523,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 46996,
-      "num": 46996,
-      "word": "G2淘汰",
-      "onboard_time": 1684192341,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 45921,
-      "num": 50105,
+      "raw_hot": 54441,
+      "num": 54441,
       "word": "过了时效性的事情怎么发朋友圈",
       "onboard_time": 1684172177,
       "rank": 33,

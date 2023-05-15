@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684192596689,
+  "endTime": 1684193603352,
   "band_list": [
     {
       "raw_hot": 3904532,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 905770,
+      "num": 905770,
+      "word": "老爸给我晾的百褶裙",
+      "onboard_time": 1684165291,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 904275,
       "num": 904275,
       "word": "办公室一天讲不了2句话",
@@ -488,14 +496,6 @@
       "word": "一不小心翻到董事长工资",
       "onboard_time": 1684146749,
       "rank": 40,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 737878,
-      "num": 737878,
-      "word": "老爸给我晾的百褶裙",
-      "onboard_time": 1684165291,
-      "rank": 16,
       "category": "幽默"
     },
     {
@@ -633,6 +633,14 @@
       "onboard_time": 1684131988,
       "rank": 24,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 591868,
+      "num": 591868,
+      "word": "女子武汉坐高铁遇满车人都在啃鸭脖",
+      "onboard_time": 1684188794,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 576095,
@@ -785,14 +793,6 @@
       "onboard_time": 1684161511,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 435405,
-      "num": 208042,
-      "word": "女子武汉坐高铁遇满车人都在啃鸭脖",
-      "onboard_time": 1684188794,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 432991,
@@ -953,6 +953,14 @@
       "onboard_time": 1684135047,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 363981,
+      "num": 363981,
+      "word": "house",
+      "onboard_time": 1684193063,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 362768,
@@ -1147,6 +1155,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 303188,
+      "num": 188960,
+      "word": "人民日报评House冒犯人民子弟兵",
+      "onboard_time": 1684192760,
+      "rank": 19,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 302690,
       "num": 272957,
       "word": "年度最吸金本科专业出炉",
@@ -1305,6 +1321,14 @@
       "onboard_time": 1684134628,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 267168,
+      "num": 179609,
+      "word": "笑果文化称不当言论是HOUSE临时加的",
+      "onboard_time": 1684192883,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 261096,
@@ -1785,6 +1809,14 @@
       "onboard_time": 1684130548,
       "rank": 24,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 192466,
+      "num": 192466,
+      "word": "G2淘汰",
+      "onboard_time": 1684192341,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 191925,
@@ -2523,6 +2555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107081,
+      "num": 107081,
+      "word": "只要不欠他的 没必要唯唯诺诺",
+      "onboard_time": 1684177512,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106895,
       "num": 106895,
       "word": "网红卖崽青蛙上海落网",
@@ -2619,20 +2659,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 92284,
-      "num": 92284,
-      "word": "只要不欠他的 没必要唯唯诺诺",
-      "onboard_time": 1684177512,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 92079,
       "num": 92079,
       "word": "杨幂的打戏",
       "onboard_time": 1684082542,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 91892,
+      "num": 111922,
+      "word": "为哥哥当眼睛60余年",
+      "onboard_time": 1684191801,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90456,
@@ -2649,6 +2689,22 @@
       "onboard_time": 1684073669,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 88719,
+      "num": 88719,
+      "word": "99元5斤小龙虾外卖净重仅2.9斤",
+      "onboard_time": 1684193063,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87337,
+      "num": 87337,
+      "word": "办公室除了我们都是贵又脆弱的东西",
+      "onboard_time": 1684182852,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 86385,
@@ -2697,14 +2753,6 @@
       "onboard_time": 1684144467,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 74007,
-      "num": 74007,
-      "word": "办公室除了我们都是贵又脆弱的东西",
-      "onboard_time": 1684182852,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 65587,
@@ -2763,12 +2811,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 55635,
-      "num": 55635,
-      "word": "为哥哥当眼睛60余年",
-      "onboard_time": 1684191801,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 54441,
+      "num": 54441,
+      "word": "过了时效性的事情怎么发朋友圈",
+      "onboard_time": 1684172177,
+      "rank": 33,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 50631,
@@ -2785,22 +2833,6 @@
       "onboard_time": 1684085479,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 46996,
-      "num": 46996,
-      "word": "G2淘汰",
-      "onboard_time": 1684192341,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 45921,
-      "num": 50105,
-      "word": "过了时效性的事情怎么发朋友圈",
-      "onboard_time": 1684172177,
-      "rank": 33,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 43171,
