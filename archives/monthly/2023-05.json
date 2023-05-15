@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684142235529,
+  "endTime": 1684143217232,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -115,6 +115,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 3629057,
+      "num": 3629057,
+      "word": "你支持全面禁止老头乐吗",
+      "onboard_time": 1684138827,
+      "rank": 47,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 3483240,
       "num": 3483240,
       "word": "浪姐 79分21秒",
@@ -193,14 +201,6 @@
       "onboard_time": 1683431967,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3169697,
-      "num": 3169697,
-      "word": "你支持全面禁止老头乐吗",
-      "onboard_time": 1684138827,
-      "rank": 47,
-      "category": "社会议题"
     },
     {
       "raw_hot": 3156156,
@@ -3547,6 +3547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1151953,
+      "num": 1151953,
+      "word": "洞洞鞋",
+      "onboard_time": 1684138467,
+      "rank": 48,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 1149948,
       "num": 1149948,
       "word": "江阴枪击案两嫌犯已身亡",
@@ -4339,14 +4347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 980348,
-      "num": 980348,
-      "word": "洞洞鞋",
-      "onboard_time": 1684138467,
-      "rank": 48,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 977816,
       "num": 977816,
       "word": "关晓彤玩游戏不敢提鹿晗",
@@ -4529,6 +4529,14 @@
       "onboard_time": 1683761183,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 938118,
+      "num": 938118,
+      "word": "gidle新歌Queencard",
+      "onboard_time": 1684141895,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 935313,
@@ -4739,6 +4747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 904646,
+      "num": 904646,
+      "word": "窦靖童和王菲是怎么认识的",
+      "onboard_time": 1684137508,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 904275,
       "num": 904275,
       "word": "办公室一天讲不了2句话",
@@ -4899,14 +4915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 875817,
-      "num": 875817,
-      "word": "gidle新歌Queencard",
-      "onboard_time": 1684141895,
-      "rank": 6,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 874275,
       "num": 874275,
       "word": "霉霉 有屁重录",
@@ -4969,14 +4977,6 @@
       "onboard_time": 1683546988,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 863131,
-      "num": 863131,
-      "word": "窦靖童和王菲是怎么认识的",
-      "onboard_time": 1684137508,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 862995,
@@ -10235,6 +10235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 423727,
+      "num": 272962,
+      "word": "下班在地铁上被公司辞退了",
+      "onboard_time": 1684141289,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 423668,
       "num": 423668,
       "word": "张杰带女儿探班谢娜",
@@ -13131,6 +13139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 340812,
+      "num": 340812,
+      "word": "原来每个户外人都有阴间照片",
+      "onboard_time": 1684140990,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 340782,
       "num": 296450,
       "word": "iPhone15将搭堆叠式摄像头",
@@ -13257,14 +13273,6 @@
       "onboard_time": 1684125695,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 337575,
-      "num": 272962,
-      "word": "下班在地铁上被公司辞退了",
-      "onboard_time": 1684141289,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 337106,
@@ -14747,6 +14755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 302690,
+      "num": 272957,
+      "word": "年度最吸金本科专业出炉",
+      "onboard_time": 1684138709,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 302670,
       "num": 270836,
       "word": "如何翻译no one but you",
@@ -15185,14 +15201,6 @@
       "onboard_time": 1683792508,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 294801,
-      "num": 272957,
-      "word": "年度最吸金本科专业出炉",
-      "onboard_time": 1684138709,
-      "rank": 46,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 294799,
@@ -17987,14 +17995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 249067,
-      "num": 249067,
-      "word": "原来每个户外人都有阴间照片",
-      "onboard_time": 1684140990,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 249056,
       "num": 249056,
       "word": "黄晓明回应汶川地震夹缝男孩",
@@ -18739,6 +18739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 239596,
+      "num": 200172,
+      "word": "钧正平评笑果文化House言论事件",
+      "onboard_time": 1684142669,
+      "rank": 30,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 239561,
       "num": 239561,
       "word": "地铁上被陌生人塞了奶茶",
@@ -19113,6 +19121,14 @@
       "onboard_time": 1683819929,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 235156,
+      "num": 235156,
+      "word": "bing崩了",
+      "onboard_time": 1684140931,
+      "rank": 25,
+      "category": "科技"
     },
     {
       "raw_hot": 235103,
@@ -20243,6 +20259,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 220031,
+      "num": 220031,
+      "word": "晚上睡觉时千万不要戴耳机",
+      "onboard_time": 1684142427,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219996,
       "num": 219996,
       "word": "金钟仁入伍剪寸头",
@@ -20771,14 +20795,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 215121,
-      "num": 215121,
-      "word": "bing崩了",
-      "onboard_time": 1684140931,
-      "rank": 25,
-      "category": "科技"
-    },
-    {
       "raw_hot": 215106,
       "num": 215106,
       "word": "王栎鑫屋里打伞",
@@ -20953,6 +20969,14 @@
       "onboard_time": 1683594570,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212985,
+      "num": 212985,
+      "word": "电影燃冬他她他海报",
+      "onboard_time": 1684142909,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 212878,
@@ -21827,6 +21851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204139,
+      "num": 204139,
+      "word": "带你入小说坑的高燃场面",
+      "onboard_time": 1684142611,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204061,
       "num": 204061,
       "word": "李飞听完王浩唱歌后的反应",
@@ -22579,6 +22611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195658,
+      "num": 195658,
+      "word": "宋浩老师回应高数视频播放破亿",
+      "onboard_time": 1684142128,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 195654,
       "num": 195654,
       "word": "蔡卓妍云南随拍",
@@ -22979,6 +23019,14 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 191621,
+      "num": 191621,
+      "word": "考个驾照瘦了10斤了",
+      "onboard_time": 1684140089,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191605,
       "num": 191605,
       "word": "郎君不如意",
@@ -23323,6 +23371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188609,
+      "num": 188609,
+      "word": "好朋狗见面要抱抱",
+      "onboard_time": 1684142909,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 188603,
       "num": 188603,
       "word": "花戎",
@@ -23497,6 +23553,14 @@
       "onboard_time": 1683446790,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186642,
+      "num": 186642,
+      "word": "30岁前快解决的几个问题",
+      "onboard_time": 1684141707,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 186637,
@@ -23995,6 +24059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179977,
+      "num": 179977,
+      "word": "谢娜主动给组员让词",
+      "onboard_time": 1684140810,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179898,
       "num": 179898,
       "word": "浙江深圳G5吹罚",
@@ -24288,14 +24360,6 @@
       "word": "何与cos后羿",
       "onboard_time": 1683450391,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 177822,
-      "num": 177822,
-      "word": "谢娜主动给组员让词",
-      "onboard_time": 1684140810,
-      "rank": 33,
       "category": "综艺"
     },
     {
@@ -25139,6 +25203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169684,
+      "num": 169684,
+      "word": "王鹤棣王传君看起来真的不聪明",
+      "onboard_time": 1684139308,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169637,
       "num": 169637,
       "word": "ZB1机场生图",
@@ -25177,14 +25249,6 @@
       "onboard_time": 1683008128,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 168981,
-      "num": 168981,
-      "word": "考个驾照瘦了10斤了",
-      "onboard_time": 1684140089,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 168958,
@@ -25785,14 +25849,6 @@
       "onboard_time": 1682932168,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 162645,
-      "num": 162645,
-      "word": "王鹤棣王传君看起来真的不聪明",
-      "onboard_time": 1684139308,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 162495,
@@ -26851,6 +26907,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 150347,
+      "num": 164849,
+      "word": "塞学家研究所",
+      "onboard_time": 1683951268,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150227,
       "num": 1273223,
       "word": "属于中国人的宇宙级浪漫",
@@ -27827,14 +27891,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 136557,
-      "num": 164849,
-      "word": "塞学家研究所",
-      "onboard_time": 1683951268,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 136346,
       "num": 136346,
       "word": "外婆遇到疯驴子遭老罪了",
@@ -28475,14 +28531,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 128225,
-      "num": 128225,
-      "word": "30岁前快解决的几个问题",
-      "onboard_time": 1684141707,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 128140,
       "num": 128140,
       "word": "药师寺宽邦",
@@ -28753,14 +28801,6 @@
       "onboard_time": 1683105871,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 124178,
-      "num": 124178,
-      "word": "宋浩老师回应高数视频播放破亿",
-      "onboard_time": 1684142128,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 123629,
@@ -29473,6 +29513,14 @@
       "onboard_time": 1683389070,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108758,
+      "num": 189903,
+      "word": "你的紧急联系人是谁",
+      "onboard_time": 1684142491,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 108667,
@@ -31435,6 +31483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 35368,
+      "num": 1775730,
+      "word": "关注2023中关村论坛",
+      "onboard_time": 1684137808,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34674,
       "num": 101050,
       "word": "曾黎分享武汉的日晕",
@@ -31449,14 +31505,6 @@
       "onboard_time": 1683498256,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 33854,
-      "num": 1775730,
-      "word": "关注2023中关村论坛",
-      "onboard_time": 1684137808,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33362,
