@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684163879693,
+  "endTime": 1684164825592,
   "band_list": [
     {
       "raw_hot": 3904532,
@@ -395,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 849799,
+      "num": 849799,
+      "word": "朱珠直拍 有种不顾我死活的美",
+      "onboard_time": 1684160790,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 828154,
       "num": 828154,
       "word": "于晓光陪秋瓷炫上班",
@@ -419,12 +427,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 815097,
-      "num": 815097,
-      "word": "朱珠直拍 有种不顾我死活的美",
-      "onboard_time": 1684160790,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 816578,
+      "num": 383103,
+      "word": "王力宏李靓蕾现身法庭",
+      "onboard_time": 1684164152,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 803108,
@@ -505,6 +513,14 @@
       "onboard_time": 1684116506,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 683248,
+      "num": 683248,
+      "word": "当你胖了四斤肉而已",
+      "onboard_time": 1684162352,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 680168,
@@ -627,6 +643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 532332,
+      "num": 374489,
+      "word": "沈月在闺蜜婚礼上哭了",
+      "onboard_time": 1684163911,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 516087,
       "num": 516087,
       "word": "笑果旗下艺人多次违法被处罚",
@@ -705,14 +729,6 @@
       "onboard_time": 1684129829,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 461075,
-      "num": 438327,
-      "word": "当你胖了四斤肉而已",
-      "onboard_time": 1684162352,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 457176,
@@ -851,6 +867,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 401673,
+      "num": 368944,
+      "word": "内娱百分之百的原生脸",
+      "onboard_time": 1684162771,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 400837,
       "num": 400837,
       "word": "相思令",
@@ -899,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 374743,
+      "num": 368716,
+      "word": "一年半年才发一次朋友圈",
+      "onboard_time": 1684160671,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 364907,
       "num": 364907,
       "word": "易烊千玺新专辑售价198元",
@@ -931,20 +963,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 356202,
-      "num": 356202,
-      "word": "一年半年才发一次朋友圈",
-      "onboard_time": 1684160671,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 355662,
       "num": 355662,
       "word": "建议蔡少芬再多点直拍",
       "onboard_time": 1684143688,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 352696,
+      "num": 352696,
+      "word": "女明星未修原档生图",
+      "onboard_time": 1684162830,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 352409,
@@ -1019,28 +1051,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 333264,
-      "num": 333264,
-      "word": "女明星未修原档生图",
-      "onboard_time": 1684162830,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 329528,
       "num": 329528,
       "word": "唐山警方回应农妇袭警案",
       "onboard_time": 1684133490,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 327049,
-      "num": 327049,
-      "word": "内娱百分之百的原生脸",
-      "onboard_time": 1684162771,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 324912,
@@ -1209,6 +1225,14 @@
       "onboard_time": 1684136429,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 278338,
+      "num": 278338,
+      "word": "苏醒再不回国活就被别人抢完了",
+      "onboard_time": 1684163489,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 276150,
@@ -1731,14 +1755,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 193428,
-      "num": 193428,
-      "word": "苏醒再不回国活就被别人抢完了",
-      "onboard_time": 1684163489,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191925,
       "num": 191925,
       "word": "AI歌手翻唱或涉多项侵权行为",
@@ -2011,6 +2027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169360,
+      "num": 169360,
+      "word": "希望今年吃的西瓜都这样",
+      "onboard_time": 1684162411,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 167846,
       "num": 167846,
       "word": "24岁一个朋友都没有正常吗",
@@ -2113,14 +2137,6 @@
       "onboard_time": 1684128628,
       "rank": 42,
       "category": "情感,艺人"
-    },
-    {
-      "raw_hot": 156143,
-      "num": 156143,
-      "word": "希望今年吃的西瓜都这样",
-      "onboard_time": 1684162411,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 155907,
