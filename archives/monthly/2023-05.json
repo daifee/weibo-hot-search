@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684185277576,
+  "endTime": 1684186402324,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -31843,6 +31843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50219,
+      "num": 50219,
+      "word": "只要不欠他的 没必要唯唯诺诺",
+      "onboard_time": 1684177512,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 49625,
       "num": 126072,
       "word": "DRG晋级败者组决赛",
@@ -32105,14 +32113,6 @@
       "onboard_time": 1684086076,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 40372,
-      "num": 40372,
-      "word": "只要不欠他的 没必要唯唯诺诺",
-      "onboard_time": 1684177512,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 40049,
@@ -32609,6 +32609,14 @@
       "onboard_time": 1683141673,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 13659,
+      "num": 20760,
+      "word": "办公室除了我们都是贵又脆弱的东西",
+      "onboard_time": 1684182852,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 13215,

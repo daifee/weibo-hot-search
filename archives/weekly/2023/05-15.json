@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684185277576,
+  "endTime": 1684186402324,
   "band_list": [
     {
       "raw_hot": 3904532,
@@ -2747,6 +2747,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 50219,
+      "num": 50219,
+      "word": "只要不欠他的 没必要唯唯诺诺",
+      "onboard_time": 1684177512,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 48967,
       "num": 61937,
       "word": "浪姐精神",
@@ -2785,14 +2793,6 @@
       "onboard_time": 1684086076,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 40372,
-      "num": 40372,
-      "word": "只要不欠他的 没必要唯唯诺诺",
-      "onboard_time": 1684177512,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 35368,
@@ -2857,6 +2857,14 @@
       "onboard_time": 1684054285,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13659,
+      "num": 20760,
+      "word": "办公室除了我们都是贵又脆弱的东西",
+      "onboard_time": 1684182852,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 13215,
