@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684167725625,
+  "endTime": 1684168629534,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2669259,
+      "num": 519877,
+      "word": "颜九要求温精灵公开道歉",
+      "onboard_time": 1684158512,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2661643,
       "num": 2661643,
       "word": "言冰云谁演",
@@ -633,14 +641,6 @@
       "onboard_time": 1683537453,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2477347,
-      "num": 519877,
-      "word": "颜九要求温精灵公开道歉",
-      "onboard_time": 1684158512,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 2469874,
@@ -12875,6 +12875,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 354216,
+      "num": 288610,
+      "word": "老爸给我晾的百褶裙",
+      "onboard_time": 1684165291,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 354164,
       "num": 354164,
       "word": "泰山爬完不得瘦死",
@@ -16025,14 +16033,6 @@
       "onboard_time": 1683388351,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 288610,
-      "num": 288610,
-      "word": "老爸给我晾的百褶裙",
-      "onboard_time": 1684165291,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 288533,
@@ -24539,6 +24539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181309,
+      "num": 181309,
+      "word": "章昊杂志",
+      "onboard_time": 1684167325,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 181168,
       "num": 181168,
       "word": "汪小敏唱功",
@@ -26259,6 +26267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164263,
+      "num": 161123,
+      "word": "Lisa让工作人员给粉丝发水",
+      "onboard_time": 1684167687,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 164257,
       "num": 164257,
       "word": "淄博市烧烤协会声明",
@@ -26683,6 +26699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159974,
+      "num": 159974,
+      "word": "现在年轻人流行断亲",
+      "onboard_time": 1684166607,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 159973,
       "num": 159973,
       "word": "程晓玥分享生产日记",
@@ -26881,14 +26905,6 @@
       "onboard_time": 1683336808,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157496,
-      "num": 157496,
-      "word": "章昊杂志",
-      "onboard_time": 1684167325,
-      "rank": 34,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 157389,
@@ -28553,14 +28569,6 @@
       "onboard_time": 1683703831,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 135679,
-      "num": 135679,
-      "word": "现在年轻人流行断亲",
-      "onboard_time": 1684166607,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 135661,
@@ -30467,14 +30475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 100219,
-      "num": 100219,
-      "word": "Lisa让工作人员给粉丝发水",
-      "onboard_time": 1684167687,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 100186,
       "num": 74556,
       "word": "那吾克热巅峰舞台浴火重生",
@@ -30849,6 +30849,14 @@
       "onboard_time": 1683562945,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 86385,
+      "num": 86385,
+      "word": "问薪无愧",
+      "onboard_time": 1684165647,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 85937,

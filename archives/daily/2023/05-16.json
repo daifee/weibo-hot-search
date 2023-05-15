@@ -1,6 +1,6 @@
 {
   "startTime": 1684167725625,
-  "endTime": 1684167725625,
+  "endTime": 1684168629534,
   "band_list": [
     {
       "raw_hot": 2734536,
@@ -11,7 +11,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 2477347,
+      "raw_hot": 2669259,
       "num": 302514,
       "word": "颜九要求温精灵公开道歉",
       "onboard_time": 1684158512,
@@ -139,20 +139,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 354216,
+      "num": 288610,
+      "word": "老爸给我晾的百褶裙",
+      "onboard_time": 1684165291,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 328297,
       "num": 328297,
       "word": "广东情侣住酒店凌晨被人开门闯入",
       "onboard_time": 1684152089,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 288610,
-      "num": 288610,
-      "word": "老爸给我晾的百褶裙",
-      "onboard_time": 1684165291,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 281790,
@@ -235,8 +235,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 164928,
-      "num": 164928,
+      "raw_hot": 181309,
+      "num": 181309,
+      "word": "章昊杂志",
+      "onboard_time": 1684167325,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 171805,
+      "num": 171805,
       "word": "笑果旗下艺人多次违法被处罚",
       "onboard_time": 1684145367,
       "rank": 31,
@@ -251,6 +259,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 164263,
+      "num": 161123,
+      "word": "Lisa让工作人员给粉丝发水",
+      "onboard_time": 1684167687,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 161602,
       "num": 161602,
       "word": "赵继伟亲郭艾伦",
@@ -259,16 +275,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157496,
-      "num": 157496,
-      "word": "章昊杂志",
-      "onboard_time": 1684167325,
-      "rank": 34,
-      "category": "作品衍生,时尚"
+      "raw_hot": 159974,
+      "num": 159974,
+      "word": "现在年轻人流行断亲",
+      "onboard_time": 1684166607,
+      "rank": 37,
+      "category": "情感"
     },
     {
-      "raw_hot": 146944,
-      "num": 146944,
+      "raw_hot": 147460,
+      "num": 147460,
       "word": "怎么没有徐怀钰直拍",
       "onboard_time": 1684154127,
       "rank": 35,
@@ -289,14 +305,6 @@
       "onboard_time": 1684152627,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 135679,
-      "num": 135679,
-      "word": "现在年轻人流行断亲",
-      "onboard_time": 1684166607,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 132618,
@@ -323,8 +331,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 118998,
-      "num": 118998,
+      "raw_hot": 120458,
+      "num": 120458,
       "word": "港妹能不能吃点好的",
       "onboard_time": 1684158512,
       "rank": 41,
@@ -371,20 +379,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100219,
-      "num": 100219,
-      "word": "Lisa让工作人员给粉丝发水",
-      "onboard_time": 1684167687,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 88301,
+      "raw_hot": 88614,
       "num": 100009,
       "word": "王者敦煌皮肤第四季",
       "onboard_time": 1684156411,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 86385,
+      "num": 86385,
+      "word": "问薪无愧",
+      "onboard_time": 1684165647,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 75299,
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#习近平同厄立特里亚总统举行会谈#"
+    },
+    {
+      "word": "#中国与中亚国家的友谊再谱新篇#"
     }
   ]
 }

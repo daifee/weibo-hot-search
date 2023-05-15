@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684167725625,
+  "endTime": 1684168629534,
   "band_list": [
     {
       "raw_hot": 3904532,
@@ -43,20 +43,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2669259,
+      "num": 519877,
+      "word": "颜九要求温精灵公开道歉",
+      "onboard_time": 1684158512,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2612914,
       "num": 2612914,
       "word": "笑果无限期停止house演艺工作",
       "onboard_time": 1684133490,
       "rank": 0,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 2477347,
-      "num": 519877,
-      "word": "颜九要求温精灵公开道歉",
-      "onboard_time": 1684158512,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 2461167,
@@ -971,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354216,
+      "num": 288610,
+      "word": "老爸给我晾的百褶裙",
+      "onboard_time": 1684165291,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 352696,
       "num": 352696,
       "word": "女明星未修原档生图",
@@ -1161,14 +1169,6 @@
       "onboard_time": 1684059805,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 288610,
-      "num": 288610,
-      "word": "老爸给我晾的百褶裙",
-      "onboard_time": 1684165291,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 286625,
@@ -1891,6 +1891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181309,
+      "num": 181309,
+      "word": "章昊杂志",
+      "onboard_time": 1684167325,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 180804,
       "num": 180804,
       "word": "我为奶牛猫发声",
@@ -2083,6 +2091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164263,
+      "num": 161123,
+      "word": "Lisa让工作人员给粉丝发水",
+      "onboard_time": 1684167687,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 163986,
       "num": 163986,
       "word": "别让祖传的手法失传了",
@@ -2131,6 +2147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159974,
+      "num": 159974,
+      "word": "现在年轻人流行断亲",
+      "onboard_time": 1684166607,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158466,
       "num": 158466,
       "word": "天津的猪热中暑了",
@@ -2145,14 +2169,6 @@
       "onboard_time": 1684128628,
       "rank": 42,
       "category": "情感,艺人"
-    },
-    {
-      "raw_hot": 157496,
-      "num": 157496,
-      "word": "章昊杂志",
-      "onboard_time": 1684167325,
-      "rank": 34,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 155907,
@@ -2345,14 +2361,6 @@
       "onboard_time": 1684074451,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135679,
-      "num": 135679,
-      "word": "现在年轻人流行断亲",
-      "onboard_time": 1684166607,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 134993,
@@ -2579,14 +2587,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 100219,
-      "num": 100219,
-      "word": "Lisa让工作人员给粉丝发水",
-      "onboard_time": 1684167687,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 96915,
       "num": 96915,
       "word": "杰尼斯社长道歉",
@@ -2625,6 +2625,14 @@
       "onboard_time": 1684073669,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 86385,
+      "num": 86385,
+      "word": "问薪无愧",
+      "onboard_time": 1684165647,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 84586,

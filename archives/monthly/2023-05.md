@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/05/01 00:20:43 ~ 2023/05/16 00:22:05
+本榜单时间：2023/05/01 00:20:43 ~ 2023/05/16 00:37:09
 </p>
 </blockquote>
 <p>
@@ -375,6 +375,12 @@ IU被告发涉嫌剽窃6首歌曲（热度：2701709）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A2%9C%E4%B9%9D%E8%A6%81%E6%B1%82%E6%B8%A9%E7%B2%BE%E7%81%B5%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89%23" target="weibo">
+颜九要求温精灵公开道歉（热度：2669259）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A8%80%E5%86%B0%E4%BA%91%E8%B0%81%E6%BC%94%23" target="weibo">
 言冰云谁演（热度：2661643）
 </a>
@@ -485,12 +491,6 @@ IU被告发涉嫌剽窃6首歌曲（热度：2701709）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E5%90%B5%E6%9E%B6%E4%BB%8E8%E6%A5%BC%E5%B0%86%E8%90%A8%E6%91%A9%E8%80%B6%E6%89%94%E4%B8%8B%23" target="weibo">
 情侣吵架从8楼将萨摩耶扔下（热度：2498011）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A2%9C%E4%B9%9D%E8%A6%81%E6%B1%82%E6%B8%A9%E7%B2%BE%E7%81%B5%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89%23" target="weibo">
-颜九要求温精灵公开道歉（热度：2477347）
 </a>
 </li>
 
