@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684136014550,
+  "endTime": 1684138863563,
   "band_list": [
     {
       "raw_hot": 2245496,
@@ -107,6 +107,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1406063,
+      "num": 1315099,
+      "word": "house道歉",
+      "onboard_time": 1684133668,
+      "rank": 4,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1352022,
       "num": 1352022,
       "word": "和认识七年的好朋友在一起了",
@@ -131,12 +139,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1246898,
-      "num": 1246898,
-      "word": "house道歉",
-      "onboard_time": 1684133668,
-      "rank": 4,
-      "category": "社会新闻,艺人"
+      "raw_hot": 1283776,
+      "num": 1283776,
+      "word": "gidle 抄袭",
+      "onboard_time": 1684134690,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 1246337,
@@ -155,12 +163,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1161832,
-      "num": 1161832,
-      "word": "gidle 抄袭",
-      "onboard_time": 1684134690,
-      "rank": 19,
-      "category": "音乐"
+      "raw_hot": 1109440,
+      "num": 422047,
+      "word": "昆工虐猫",
+      "onboard_time": 1684136491,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1101743,
+      "num": 1101743,
+      "word": "加拿大模特在中国坐月子",
+      "onboard_time": 1684133608,
+      "rank": 30,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1063003,
@@ -363,14 +379,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 539115,
-      "num": 474633,
-      "word": "加拿大模特在中国坐月子",
-      "onboard_time": 1684133608,
-      "rank": 30,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 481585,
       "num": 481585,
       "word": "芭莎拍的白鹿王鹤棣",
@@ -433,6 +441,14 @@
       "onboard_time": 1684116985,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 430441,
+      "num": 430441,
+      "word": "母亲见牙医像已故女儿瞬间落泪",
+      "onboard_time": 1684133668,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429445,
@@ -507,6 +523,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 378793,
+      "num": 183767,
+      "word": "老虎剃了毛依然有花纹",
+      "onboard_time": 1684137330,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363568,
+      "num": 363568,
+      "word": "王源的戒断日记",
+      "onboard_time": 1684136308,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 362768,
       "num": 221589,
       "word": "王俊凯在回应哪个",
@@ -539,20 +571,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 348854,
+      "num": 348854,
+      "word": "易烊千玺新专辑售价198元",
+      "onboard_time": 1684135047,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 340782,
       "num": 296450,
       "word": "iPhone15将搭堆叠式摄像头",
       "onboard_time": 1684117587,
       "rank": 27,
       "category": "科技"
-    },
-    {
-      "raw_hot": 339569,
-      "num": 339569,
-      "word": "母亲见牙医像已故女儿瞬间落泪",
-      "onboard_time": 1684133668,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 338576,
@@ -585,6 +617,14 @@
       "onboard_time": 1684124070,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 329528,
+      "num": 329528,
+      "word": "唐山警方回应农妇袭警案",
+      "onboard_time": 1684133490,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313390,
@@ -667,6 +707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 277444,
+      "num": 245445,
+      "word": "杨幂宋祖儿裙子穿反了",
+      "onboard_time": 1684136429,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 276150,
       "num": 267645,
       "word": "杨颖新剧女扮男装双重身份",
@@ -683,14 +731,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 271617,
-      "num": 271617,
-      "word": "唐山警方回应农妇袭警案",
-      "onboard_time": 1684133490,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 268753,
       "num": 173977,
       "word": "90后总裁追星蔡徐坤",
@@ -699,20 +739,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 263636,
-      "num": 263636,
-      "word": "易烊千玺新专辑售价198元",
-      "onboard_time": 1684135047,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 261090,
       "num": 225507,
       "word": "桃花坞3集体搬家海南",
       "onboard_time": 1684124734,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260902,
+      "num": 244128,
+      "word": "窦靖童和王菲是怎么认识的",
+      "onboard_time": 1684137508,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 258626,
@@ -729,6 +769,14 @@
       "onboard_time": 1684117826,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 248395,
+      "num": 248395,
+      "word": "虞书欣骑龙vs周也骑龙",
+      "onboard_time": 1684134628,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 247871,
@@ -761,6 +809,14 @@
       "onboard_time": 1684134149,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 236953,
+      "num": 223869,
+      "word": "吴谨言再现魏璎珞",
+      "onboard_time": 1684136909,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 232735,
@@ -873,6 +929,14 @@
       "onboard_time": 1684055966,
       "rank": 27,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 211321,
+      "num": 211321,
+      "word": "宋茜好像洋娃娃",
+      "onboard_time": 1684135649,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 210804,
@@ -1075,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180058,
+      "num": 180058,
+      "word": "被相处半年的相亲对象分手了",
+      "onboard_time": 1684136429,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179854,
       "num": 179854,
       "word": "二代滔搏也be了",
@@ -1219,14 +1291,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 162832,
-      "num": 162832,
-      "word": "宋茜好像洋娃娃",
-      "onboard_time": 1684135649,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 161975,
       "num": 161975,
       "word": "女装尺码",
@@ -1257,14 +1321,6 @@
       "onboard_time": 1684128628,
       "rank": 42,
       "category": "情感,艺人"
-    },
-    {
-      "raw_hot": 156549,
-      "num": 156549,
-      "word": "虞书欣骑龙vs周也骑龙",
-      "onboard_time": 1684134628,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 155907,
@@ -1379,6 +1435,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 138974,
+      "num": 138974,
+      "word": "老人主动住养老院写下80万字日记",
+      "onboard_time": 1684136068,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138882,
       "num": 138882,
       "word": "5岁女孩挑战4600米高空跳伞",
@@ -1435,6 +1499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 130968,
+      "num": 130968,
+      "word": "穿青蛙服的老奶奶",
+      "onboard_time": 1684138047,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 128140,
       "num": 128140,
       "word": "药师寺宽邦",
@@ -1467,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126802,
+      "num": 126802,
+      "word": "乘风的姐夫们",
+      "onboard_time": 1684138350,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126672,
       "num": 126672,
       "word": "叶舒华凌乱风",
@@ -1491,6 +1571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119808,
+      "num": 119808,
+      "word": "年度最吸金本科专业出炉",
+      "onboard_time": 1684138709,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 117459,
       "num": 117459,
       "word": "今年戛纳好热闹",
@@ -1507,12 +1595,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 112472,
+      "num": 112472,
+      "word": "你支持全面禁止老头乐吗",
+      "onboard_time": 1684138827,
+      "rank": 47,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 110942,
       "num": 110942,
       "word": "跟男朋友偷偷领证后很焦虑",
       "onboard_time": 1684057047,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107662,
+      "num": 112432,
+      "word": "洞洞鞋",
+      "onboard_time": 1684138467,
+      "rank": 48,
+      "category": "时尚"
     },
     {
       "raw_hot": 106895,
@@ -1737,6 +1841,14 @@
       "onboard_time": 1684093093,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 22122,
+      "num": 1334549,
+      "word": "关注2023中关村论坛",
+      "onboard_time": 1684137808,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20345,

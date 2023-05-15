@@ -1,0 +1,410 @@
+{
+  "runTime": 1684138863563,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2169859,
+        "num": 2169859,
+        "word": "笑果无限期停止house演艺工作",
+        "onboard_time": 1684133490,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1405779,
+        "num": 1405779,
+        "word": "宋小宝 王嘉尔",
+        "onboard_time": 1684131147,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22122,
+        "num": 1334549,
+        "word": "关注2023中关村论坛",
+        "onboard_time": 1684137808,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1406063,
+        "num": 1315099,
+        "word": "house道歉",
+        "onboard_time": 1684133668,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1283776,
+        "num": 1283776,
+        "word": "gidle 抄袭",
+        "onboard_time": 1684134690,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1101743,
+        "num": 1101743,
+        "word": "加拿大模特在中国坐月子",
+        "onboard_time": 1684133608,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 721916,
+        "num": 721916,
+        "word": "杨紫阔腿工装裤",
+        "onboard_time": 1684134028,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 663910,
+        "num": 663910,
+        "word": "张嘉倪为叮叮当当组设计项链",
+        "onboard_time": 1684126775,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481005,
+        "num": 481005,
+        "word": "江西失踪5岁双胞胎均已身亡",
+        "onboard_time": 1684120589,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430441,
+        "num": 430441,
+        "word": "母亲见牙医像已故女儿瞬间落泪",
+        "onboard_time": 1684133668,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1109440,
+        "num": 422047,
+        "word": "昆工虐猫",
+        "onboard_time": 1684136491,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 830417,
+        "num": 420201,
+        "word": "刘丹母亲节拒谈杨幂",
+        "onboard_time": 1684130608,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 595015,
+        "num": 404261,
+        "word": "秋瓷炫工地芭蕾直拍流出",
+        "onboard_time": 1684129526,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363568,
+        "num": 363568,
+        "word": "王源的戒断日记",
+        "onboard_time": 1684136308,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 348854,
+        "num": 348854,
+        "word": "易烊千玺新专辑售价198元",
+        "onboard_time": 1684135047,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 329528,
+        "num": 329528,
+        "word": "唐山警方回应农妇袭警案",
+        "onboard_time": 1684133490,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324000,
+        "num": 324000,
+        "word": "男子猝死万幸倒在医生面前",
+        "onboard_time": 1684117887,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292364,
+        "num": 292364,
+        "word": "面试时HR让我写一百个一",
+        "onboard_time": 1684130968,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251427,
+        "num": 251427,
+        "word": "张雨绮 去法国看看我的队排到哪儿了",
+        "onboard_time": 1684121370,
+        "rank": 18,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 248395,
+        "num": 248395,
+        "word": "虞书欣骑龙vs周也骑龙",
+        "onboard_time": 1684134628,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297375,
+        "num": 247625,
+        "word": "初中同学成我导师了",
+        "onboard_time": 1684135169,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277444,
+        "num": 245445,
+        "word": "杨幂宋祖儿裙子穿反了",
+        "onboard_time": 1684136429,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 260902,
+        "num": 244128,
+        "word": "窦靖童和王菲是怎么认识的",
+        "onboard_time": 1684137508,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242643,
+        "num": 242643,
+        "word": "办公室一天讲不了2句话",
+        "onboard_time": 1684113447,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224817,
+        "num": 224817,
+        "word": "足浴技师称被灌醉遭性侵获立案",
+        "onboard_time": 1684129829,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236953,
+        "num": 223869,
+        "word": "吴谨言再现魏璎珞",
+        "onboard_time": 1684136909,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211655,
+        "num": 211655,
+        "word": "笑果",
+        "onboard_time": 1684125575,
+        "rank": 26,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 211321,
+        "num": 211321,
+        "word": "宋茜好像洋娃娃",
+        "onboard_time": 1684135649,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209093,
+        "num": 209093,
+        "word": "辞职后去旅游发朋友圈被说了",
+        "onboard_time": 1684120709,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184882,
+        "num": 184882,
+        "word": "朴树报平安",
+        "onboard_time": 1684121670,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378793,
+        "num": 183767,
+        "word": "老虎剃了毛依然有花纹",
+        "onboard_time": 1684137330,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180058,
+        "num": 180058,
+        "word": "被相处半年的相亲对象分手了",
+        "onboard_time": 1684136429,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177659,
+        "num": 177659,
+        "word": "发朋友圈被亲戚同学说腿粗",
+        "onboard_time": 1684134149,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163750,
+        "num": 163750,
+        "word": "吉克隽逸卡戴珊撞衫",
+        "onboard_time": 1684134267,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 163466,
+        "num": 163466,
+        "word": "小龙虾价格",
+        "onboard_time": 1684131806,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159933,
+        "num": 159933,
+        "word": "迪丽热巴冰淇淋侧颜",
+        "onboard_time": 1684126775,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144319,
+        "num": 144319,
+        "word": "左耳朵耗子 心梗",
+        "onboard_time": 1684131448,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144253,
+        "num": 144253,
+        "word": "王者荣耀女装",
+        "onboard_time": 1684125695,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142921,
+        "num": 142921,
+        "word": "张翰方否认恋情",
+        "onboard_time": 1684125395,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138974,
+        "num": 138974,
+        "word": "老人主动住养老院写下80万字日记",
+        "onboard_time": 1684136068,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138516,
+        "num": 138516,
+        "word": "iPhone15将搭堆叠式摄像头",
+        "onboard_time": 1684117587,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 130968,
+        "num": 130968,
+        "word": "穿青蛙服的老奶奶",
+        "onboard_time": 1684138047,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130356,
+        "num": 130356,
+        "word": "李宇春穿了三条裤子",
+        "onboard_time": 1684132289,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 126802,
+        "num": 126802,
+        "word": "乘风的姐夫们",
+        "onboard_time": 1684138350,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124886,
+        "num": 124886,
+        "word": "为什么人打电话猫在旁边喵喵叫",
+        "onboard_time": 1684129468,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122657,
+        "num": 122657,
+        "word": "这条裤子是不是救过王子奇的命",
+        "onboard_time": 1684133008,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119808,
+        "num": 119808,
+        "word": "年度最吸金本科专业出炉",
+        "onboard_time": 1684138709,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 112472,
+        "num": 112472,
+        "word": "你支持全面禁止老头乐吗",
+        "onboard_time": 1684138827,
+        "rank": 47,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 107662,
+        "num": 112432,
+        "word": "洞洞鞋",
+        "onboard_time": 1684138467,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 97981,
+        "num": 112390,
+        "word": "排球少年",
+        "onboard_time": 1684133065,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国与中亚在此相会#"
+    }
+  }
+}
