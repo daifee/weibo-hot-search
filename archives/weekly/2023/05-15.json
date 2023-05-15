@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684127780322,
+  "endTime": 1684128821035,
   "band_list": [
     {
       "raw_hot": 1933885,
@@ -27,6 +27,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1719861,
+      "num": 1719861,
+      "word": "朴树报平安",
+      "onboard_time": 1684121670,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1697599,
       "num": 1610686,
       "word": "张雨绮 去法国看看我的队排到哪儿了",
@@ -41,14 +49,6 @@
       "onboard_time": 1684117887,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1634184,
-      "num": 1634184,
-      "word": "朴树报平安",
-      "onboard_time": 1684121670,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1545860,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1321795,
-      "num": 585606,
+      "num": 586200,
       "word": "张翰方否认恋情",
       "onboard_time": 1684125395,
       "rank": 10,
@@ -113,6 +113,14 @@
       "onboard_time": 1684111288,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1105026,
+      "num": 1105026,
+      "word": "笑果",
+      "onboard_time": 1684125575,
+      "rank": 7,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 972751,
@@ -179,14 +187,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 765182,
-      "num": 765182,
-      "word": "笑果",
-      "onboard_time": 1684125575,
-      "rank": 7,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 751648,
       "num": 337971,
       "word": "妻子举报高校丈夫出轨多位女学生",
@@ -227,8 +227,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 659513,
+      "num": 659513,
+      "word": "迪丽热巴冰淇淋侧颜",
+      "onboard_time": 1684126775,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 651227,
-      "num": 307034,
+      "num": 314802,
       "word": "辞职后去旅游发朋友圈被说了",
       "onboard_time": 1684120709,
       "rank": 21,
@@ -259,12 +267,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 581785,
-      "num": 581785,
-      "word": "迪丽热巴冰淇淋侧颜",
+      "raw_hot": 574158,
+      "num": 574158,
+      "word": "张嘉倪为叮叮当当组设计项链",
       "onboard_time": 1684126775,
-      "rank": 11,
-      "category": "艺人"
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 560953,
@@ -299,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 469871,
+      "num": 390807,
+      "word": "陈冰 淘汰",
+      "onboard_time": 1684127133,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 467849,
       "num": 306162,
       "word": "看中医就没有隐私吗",
@@ -321,14 +337,6 @@
       "onboard_time": 1684078228,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 442941,
-      "num": 442941,
-      "word": "张嘉倪为叮叮当当组设计项链",
-      "onboard_time": 1684126775,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 430641,
@@ -387,12 +395,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 369346,
-      "num": 369346,
+      "raw_hot": 395909,
+      "num": 395909,
       "word": "原来面试可以当场有结果",
       "onboard_time": 1684125575,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 367785,
+      "num": 367785,
+      "word": "李小璐持股公司成老赖",
+      "onboard_time": 1684127369,
+      "rank": 32,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 362768,
@@ -401,6 +417,14 @@
       "onboard_time": 1684107684,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 357491,
+      "num": 357491,
+      "word": "吃自助偷打包补交44543元餐费",
+      "onboard_time": 1684127312,
+      "rank": 34,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 352409,
@@ -433,6 +457,14 @@
       "onboard_time": 1684115065,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337995,
+      "num": 337995,
+      "word": "王者荣耀女装",
+      "onboard_time": 1684125695,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 335690,
@@ -523,12 +555,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 276617,
-      "num": 276617,
-      "word": "王者荣耀女装",
-      "onboard_time": 1684125695,
-      "rank": 22,
-      "category": "游戏"
+      "raw_hot": 279927,
+      "num": 279927,
+      "word": "认识多年的兄弟好像被骗婚了",
+      "onboard_time": 1684126775,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 276150,
@@ -539,12 +571,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 271285,
-      "num": 271285,
-      "word": "陈冰 淘汰",
-      "onboard_time": 1684127133,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 271110,
+      "num": 271110,
+      "word": "朱一龙 戛纳",
+      "onboard_time": 1684128569,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 268753,
@@ -587,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244253,
+      "num": 244253,
+      "word": "叮叮当当",
+      "onboard_time": 1684128148,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242016,
       "num": 242016,
       "word": "3闺蜜连续9年带娃合照定格时光",
@@ -601,14 +641,6 @@
       "onboard_time": 1684072409,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231565,
-      "num": 231565,
-      "word": "认识多年的兄弟好像被骗婚了",
-      "onboard_time": 1684126775,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 231278,
@@ -657,6 +689,14 @@
       "onboard_time": 1684123831,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218714,
+      "num": 218714,
+      "word": "租房时前租客留下过什么宝藏",
+      "onboard_time": 1684124193,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 217381,
@@ -739,20 +779,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202422,
-      "num": 202422,
-      "word": "李小璐持股公司成老赖",
-      "onboard_time": 1684127369,
-      "rank": 32,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 201521,
       "num": 201521,
       "word": "王俊凯侧拍",
       "onboard_time": 1684117467,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201447,
+      "num": 201447,
+      "word": "杨幂T锦绣五月刊封面",
+      "onboard_time": 1684128507,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 201343,
@@ -777,14 +817,6 @@
       "onboard_time": 1684118307,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194671,
-      "num": 194671,
-      "word": "吃自助偷打包补交44543元餐费",
-      "onboard_time": 1684127312,
-      "rank": 34,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 191925,
@@ -824,14 +856,6 @@
       "word": "不知不觉到了拍花的年龄",
       "onboard_time": 1684125635,
       "rank": 37,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 187380,
-      "num": 187380,
-      "word": "租房时前租客留下过什么宝藏",
-      "onboard_time": 1684124193,
-      "rank": 39,
       "category": "幽默"
     },
     {
@@ -907,6 +931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174839,
+      "num": 174839,
+      "word": "中国人有自己的李钟硕",
+      "onboard_time": 1684127668,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 173682,
       "num": 173682,
       "word": "持证救人快递小哥获奖了",
@@ -955,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166114,
+      "num": 166114,
+      "word": "舞蹈总监眼中的鹿晗",
+      "onboard_time": 1684128628,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 163986,
       "num": 163986,
       "word": "别让祖传的手法失传了",
@@ -969,6 +1009,14 @@
       "onboard_time": 1684112067,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 158255,
+      "num": 158255,
+      "word": "16岁喜欢的爱豆会影响一生",
+      "onboard_time": 1684128628,
+      "rank": 42,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 155907,
@@ -1049,6 +1097,14 @@
       "onboard_time": 1684109308,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141567,
+      "num": 141567,
+      "word": "女装尺码",
+      "onboard_time": 1684128811,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140285,

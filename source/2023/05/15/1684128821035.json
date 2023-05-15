@@ -1,0 +1,410 @@
+{
+  "runTime": 1684128821035,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1719861,
+        "num": 1719861,
+        "word": "朴树报平安",
+        "onboard_time": 1684121670,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1393006,
+        "num": 1393006,
+        "word": "江西失踪5岁双胞胎均已身亡",
+        "onboard_time": 1684120589,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8404,
+        "num": 1228110,
+        "word": "农忙时节的田野铺开了生机勃勃的画卷",
+        "onboard_time": 1684054285,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1223691,
+        "num": 1223691,
+        "word": "张雨绮 去法国看看我的队排到哪儿了",
+        "onboard_time": 1684121370,
+        "rank": 3,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 1105026,
+        "num": 1105026,
+        "word": "笑果",
+        "onboard_time": 1684125575,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1083693,
+        "num": 1083693,
+        "word": "男子猝死万幸倒在医生面前",
+        "onboard_time": 1684117887,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709931,
+        "num": 709931,
+        "word": "演唱会为啥都在闹退票",
+        "onboard_time": 1684105399,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 659513,
+        "num": 659513,
+        "word": "迪丽热巴冰淇淋侧颜",
+        "onboard_time": 1684126775,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 598918,
+        "num": 598918,
+        "word": "和认识七年的好朋友在一起了",
+        "onboard_time": 1684112426,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 595906,
+        "num": 595906,
+        "word": "左耳朵耗子",
+        "onboard_time": 1684123892,
+        "rank": 9,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1147128,
+        "num": 586200,
+        "word": "张翰方否认恋情",
+        "onboard_time": 1684125395,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 574158,
+        "num": 574158,
+        "word": "张嘉倪为叮叮当当组设计项链",
+        "onboard_time": 1684126775,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 450503,
+        "num": 450503,
+        "word": "办公室一天讲不了2句话",
+        "onboard_time": 1684113447,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395909,
+        "num": 395909,
+        "word": "原来面试可以当场有结果",
+        "onboard_time": 1684125575,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 469871,
+        "num": 390807,
+        "word": "陈冰 淘汰",
+        "onboard_time": 1684127133,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367785,
+        "num": 367785,
+        "word": "李小璐持股公司成老赖",
+        "onboard_time": 1684127369,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 357491,
+        "num": 357491,
+        "word": "吃自助偷打包补交44543元餐费",
+        "onboard_time": 1684127312,
+        "rank": 16,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 355591,
+        "num": 355591,
+        "word": "王俊凯15岁和23岁回应谣言对比",
+        "onboard_time": 1684107623,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354439,
+        "num": 354439,
+        "word": "找到秋瓷炫不会跳舞的原因",
+        "onboard_time": 1684123531,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337995,
+        "num": 337995,
+        "word": "王者荣耀女装",
+        "onboard_time": 1684125695,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 423948,
+        "num": 314802,
+        "word": "辞职后去旅游发朋友圈被说了",
+        "onboard_time": 1684120709,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 279927,
+        "num": 279927,
+        "word": "认识多年的兄弟好像被骗婚了",
+        "onboard_time": 1684126775,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271110,
+        "num": 271110,
+        "word": "朱一龙 戛纳",
+        "onboard_time": 1684128569,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 264975,
+        "num": 264975,
+        "word": "易烊千玺实体专辑6斤重",
+        "onboard_time": 1684117405,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 251642,
+        "num": 251642,
+        "word": "孙怡线下状态",
+        "onboard_time": 1684120291,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244253,
+        "num": 244253,
+        "word": "叮叮当当",
+        "onboard_time": 1684128148,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240463,
+        "num": 240463,
+        "word": "iPhone15将搭堆叠式摄像头",
+        "onboard_time": 1684117587,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 229329,
+        "num": 229329,
+        "word": "桃花坞",
+        "onboard_time": 1684124495,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218714,
+        "num": 218714,
+        "word": "租房时前租客留下过什么宝藏",
+        "onboard_time": 1684124193,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216269,
+        "num": 216269,
+        "word": "A股",
+        "onboard_time": 1684123174,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 212331,
+        "num": 212331,
+        "word": "女子怀孕后发现男友已婚",
+        "onboard_time": 1684105399,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201447,
+        "num": 201447,
+        "word": "杨幂T锦绣五月刊封面",
+        "onboard_time": 1684128507,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 199497,
+        "num": 199497,
+        "word": "艾莉先点痣了",
+        "onboard_time": 1684124672,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198315,
+        "num": 198315,
+        "word": "易烊千玺将去戛纳",
+        "onboard_time": 1684124070,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187668,
+        "num": 187668,
+        "word": "高三女生受伤成团宠被抬着上下课",
+        "onboard_time": 1684124856,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 185979,
+        "num": 185979,
+        "word": "丈夫去世获赔142万公婆拒认遗腹子",
+        "onboard_time": 1684105399,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174839,
+        "num": 174839,
+        "word": "中国人有自己的李钟硕",
+        "onboard_time": 1684127668,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169239,
+        "num": 169239,
+        "word": "听见过三观最不正的话",
+        "onboard_time": 1684107445,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166114,
+        "num": 166114,
+        "word": "舞蹈总监眼中的鹿晗",
+        "onboard_time": 1684128628,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165722,
+        "num": 165722,
+        "word": "易烊千玺新专辑销量",
+        "onboard_time": 1684122574,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165259,
+        "num": 165259,
+        "word": "爸别着急下个月就父亲节",
+        "onboard_time": 1684125695,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162334,
+        "num": 162334,
+        "word": "不知不觉到了拍花的年龄",
+        "onboard_time": 1684125635,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158255,
+        "num": 158255,
+        "word": "16岁喜欢的爱豆会影响一生",
+        "onboard_time": 1684128628,
+        "rank": 42,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 149017,
+        "num": 149017,
+        "word": "儿子母亲节送花被妈妈拒收",
+        "onboard_time": 1684115065,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148207,
+        "num": 148207,
+        "word": "陈皓",
+        "onboard_time": 1684126054,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142222,
+        "num": 142222,
+        "word": "你赞同演唱会实名制购票吗",
+        "onboard_time": 1684123653,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141567,
+        "num": 141567,
+        "word": "女装尺码",
+        "onboard_time": 1684128811,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140610,
+        "num": 140610,
+        "word": "龚俊新剧",
+        "onboard_time": 1684123831,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55604,
+        "num": 135524,
+        "word": "剑网3",
+        "onboard_time": 1684117826,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 54328,
+        "num": 134821,
+        "word": "光与夜之恋",
+        "onboard_time": 1684117706,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国与中亚国家的友谊再谱新篇#"
+    }
+  }
+}
