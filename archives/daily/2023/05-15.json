@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684107214239,
+  "endTime": 1684113906702,
   "band_list": [
     {
       "raw_hot": 1933885,
@@ -11,12 +11,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1800785,
+      "num": 1800785,
+      "word": "黄老师否认一场直播收入百万元",
+      "onboard_time": 1684106062,
+      "rank": 36,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1545860,
-      "num": 307673,
+      "num": 560341,
       "word": "陈楚河",
       "onboard_time": 1684078408,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1505320,
+      "num": 928711,
+      "word": "女子怀孕后发现男友已婚",
+      "onboard_time": 1684105399,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1414087,
@@ -27,12 +43,20 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 1086768,
-      "num": 729093,
-      "word": "女子怀孕后发现男友已婚",
-      "onboard_time": 1684105399,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 1246337,
+      "num": 207075,
+      "word": "王俊凯15岁和23岁回应谣言对比",
+      "onboard_time": 1684107623,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1174536,
+      "num": 1174536,
+      "word": "刘雅瑟 姐姐的样子不是你以为的样子",
+      "onboard_time": 1684111288,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 972751,
@@ -43,12 +67,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 926211,
+      "num": 204719,
+      "word": "高铁掌掴事件车厢画面公布",
+      "onboard_time": 1684108407,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 751648,
-      "num": 307326,
+      "num": 337971,
       "word": "妻子举报高校丈夫出轨多位女学生",
       "onboard_time": 1684068687,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 731205,
+      "num": 731205,
+      "word": "听见过三观最不正的话",
+      "onboard_time": 1684107445,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 706619,
@@ -59,6 +99,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 701905,
+      "num": 701905,
+      "word": "丈夫去世获赔142万公婆拒认遗腹子",
+      "onboard_time": 1684105399,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 680168,
       "num": 680168,
       "word": "浪姐4一公观众告诉你为什么花海会输",
@@ -67,12 +115,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 651489,
+      "num": 651489,
+      "word": "于晓光陪秋瓷炫上班",
+      "onboard_time": 1684105880,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 648257,
       "num": 648257,
       "word": "后浪扔外卖 离谱",
       "onboard_time": 1684079068,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 625202,
+      "num": 625202,
+      "word": "和认识七年的好朋友在一起了",
+      "onboard_time": 1684112426,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 606769,
@@ -89,14 +153,6 @@
       "onboard_time": 1684073009,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 542166,
-      "num": 272415,
-      "word": "丈夫去世获赔142万公婆拒认遗腹子",
-      "onboard_time": 1684105399,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 481585,
@@ -139,20 +195,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 362768,
+      "num": 191630,
+      "word": "王俊凯在回应哪个",
+      "onboard_time": 1684107684,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 352409,
       "num": 352409,
       "word": "鬼灭之刃",
       "onboard_time": 1684077988,
       "rank": 8,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 347293,
-      "num": 267494,
-      "word": "黄老师否认一场直播收入百万元",
-      "onboard_time": 1684106062,
-      "rank": 36,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 307860,
@@ -171,6 +227,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 298250,
+      "num": 189721,
+      "word": "演唱会为啥都在闹退票",
+      "onboard_time": 1684105399,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 293234,
       "num": 293234,
       "word": "大爷买二等座票带孙女坐一等座被赶",
@@ -179,12 +243,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283188,
+      "num": 283188,
+      "word": "刘雅瑟微博含姐量",
+      "onboard_time": 1684111348,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 274144,
+      "num": 274144,
+      "word": "叉烧芬 你徒弟出师了",
+      "onboard_time": 1684113086,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268753,
-      "num": 172594,
+      "num": 173977,
       "word": "90后总裁追星蔡徐坤",
       "onboard_time": 1684075950,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238641,
+      "num": 238641,
+      "word": "办公室一天讲不了2句话",
+      "onboard_time": 1684113447,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231941,
@@ -193,6 +281,14 @@
       "onboard_time": 1684072409,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231278,
+      "num": 231278,
+      "word": "哈登",
+      "onboard_time": 1684106723,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 223470,
@@ -211,12 +307,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 222592,
-      "num": 201238,
-      "word": "于晓光陪秋瓷炫上班",
-      "onboard_time": 1684105880,
-      "rank": 43,
-      "category": "作品衍生"
+      "raw_hot": 215936,
+      "num": 215936,
+      "word": "林允儿13年前vs13年后",
+      "onboard_time": 1684107143,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 212493,
@@ -243,12 +339,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 198691,
-      "num": 189721,
-      "word": "演唱会为啥都在闹退票",
-      "onboard_time": 1684105399,
-      "rank": 35,
-      "category": "音乐"
+      "raw_hot": 191925,
+      "num": 191925,
+      "word": "AI歌手翻唱或涉多项侵权行为",
+      "onboard_time": 1684111107,
+      "rank": 22,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 191225,
@@ -257,14 +353,6 @@
       "onboard_time": 1684060525,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 188447,
-      "num": 188447,
-      "word": "哈登",
-      "onboard_time": 1684106723,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 188401,
@@ -283,11 +371,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183896,
+      "num": 183896,
+      "word": "汶川95后小伙回乡卖光村里的滞销果",
+      "onboard_time": 1684113086,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183344,
       "num": 168373,
       "word": "朋友未经允许把我的榴莲开了",
       "onboard_time": 1684066885,
       "rank": 23,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 182479,
+      "num": 182479,
+      "word": "这种验榴莲的方式还是头一次见",
+      "onboard_time": 1684105640,
+      "rank": 48,
       "category": "美食"
     },
     {
@@ -307,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173281,
+      "num": 173281,
+      "word": "MSI",
+      "onboard_time": 1684108407,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 167846,
       "num": 167846,
       "word": "24岁一个朋友都没有正常吗",
@@ -323,6 +435,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163627,
+      "num": 163627,
+      "word": "电影院里最让人反感的行为",
+      "onboard_time": 1684113147,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 159127,
+      "num": 159127,
+      "word": "周一",
+      "onboard_time": 1684112067,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155907,
       "num": 155907,
       "word": "塔图姆51分",
@@ -337,6 +465,14 @@
       "onboard_time": 1684078709,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 148351,
+      "num": 148351,
+      "word": "网友用气球扎制醒狮狮头",
+      "onboard_time": 1684107745,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146256,
@@ -363,12 +499,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 142928,
+      "num": 142928,
+      "word": "胡可无论直播多晚沙溢都会煮爱心面",
+      "onboard_time": 1684109308,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 140285,
+      "num": 140285,
+      "word": "记者卧底南京夫子庙暗访竹筒奶茶市场",
+      "onboard_time": 1684068086,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139643,
       "num": 139643,
       "word": "没有边界感的狗狗",
       "onboard_time": 1684079909,
       "rank": 34,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 137498,
+      "num": 137498,
+      "word": "TF三代全员晒照祝母亲节快乐",
+      "onboard_time": 1684112547,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 135720,
@@ -427,12 +587,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113691,
-      "num": 113691,
-      "word": "记者卧底南京夫子庙暗访竹筒奶茶市场",
-      "onboard_time": 1684068086,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 119172,
+      "num": 119172,
+      "word": "NBA季后赛",
+      "onboard_time": 1684111949,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 115071,
+      "num": 115071,
+      "word": "魏如萱演唱会连线那英华晨宇马嘉祺",
+      "onboard_time": 1684113266,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 110942,
@@ -451,20 +619,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 105953,
-      "num": 105953,
-      "word": "这种验榴莲的方式还是头一次见",
-      "onboard_time": 1684105640,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 105833,
       "num": 105833,
       "word": "芝芙和叮叮当当原唱的关系",
       "onboard_time": 1684059446,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105744,
+      "num": 105744,
+      "word": "原来约会是从散步开始的",
+      "onboard_time": 1684106362,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 104944,
@@ -529,14 +697,6 @@
       "onboard_time": 1684083380,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 64400,
-      "num": 64400,
-      "word": "林允儿13年前vs13年后",
-      "onboard_time": 1684107143,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 63849,
@@ -627,20 +787,20 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 15785,
+      "num": 985997,
+      "word": "农忙时节的田野铺开了生机勃勃的画卷",
+      "onboard_time": 1684054285,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13215,
       "num": 17592,
       "word": "每个妈妈都喜欢自己的宝宝",
       "onboard_time": 1684089433,
       "rank": 49,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 8728,
-      "num": 786745,
-      "word": "农忙时节的田野铺开了生机勃勃的画卷",
-      "onboard_time": 1684054285,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
