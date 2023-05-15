@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684120652432,
+  "endTime": 1684121612988,
   "band_list": [
     {
       "raw_hot": 1933885,
@@ -65,6 +65,14 @@
       "onboard_time": 1684112426,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1246610,
+      "num": 1246610,
+      "word": "江西失踪5岁双胞胎均已身亡",
+      "onboard_time": 1684120589,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1246337,
@@ -235,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 460550,
+      "num": 269211,
+      "word": "辞职后去旅游发朋友圈被说了",
+      "onboard_time": 1684120709,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 457176,
       "num": 457176,
       "word": "复阳",
@@ -283,6 +299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 394952,
+      "num": 268440,
+      "word": "孙怡线下状态",
+      "onboard_time": 1684120291,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 362768,
       "num": 221589,
       "word": "王俊凯在回应哪个",
@@ -307,7 +331,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 338555,
+      "raw_hot": 340782,
       "num": 296450,
       "word": "iPhone15将搭堆叠式摄像头",
       "onboard_time": 1684117587,
@@ -329,6 +353,14 @@
       "onboard_time": 1684075590,
       "rank": 13,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 293902,
+      "num": 293902,
+      "word": "戛纳",
+      "onboard_time": 1684119388,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 293234,
@@ -372,7 +404,7 @@
     },
     {
       "raw_hot": 276150,
-      "num": 232112,
+      "num": 267645,
       "word": "杨颖新剧女扮男装双重身份",
       "onboard_time": 1684119990,
       "rank": 25,
@@ -403,12 +435,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 248669,
+      "num": 248669,
+      "word": "张雨绮 去法国看看我的队排到哪儿了",
+      "onboard_time": 1684121370,
+      "rank": 25,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 247871,
       "num": 247871,
       "word": "街舞新领队或将是Lisa和RAIN",
       "onboard_time": 1684116083,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242016,
+      "num": 242016,
+      "word": "3闺蜜连续9年带娃合照定格时光",
+      "onboard_time": 1684119688,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231941,
@@ -427,14 +475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 226757,
-      "num": 226757,
-      "word": "戛纳",
-      "onboard_time": 1684119388,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 223470,
       "num": 223470,
       "word": "捡到100块结果面试没通过",
@@ -451,12 +491,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 217111,
-      "num": 217111,
-      "word": "3闺蜜连续9年带娃合照定格时光",
-      "onboard_time": 1684119688,
+      "raw_hot": 221629,
+      "num": 221629,
+      "word": "21岁了感觉自己还像个小孩",
+      "onboard_time": 1684120709,
       "rank": 28,
-      "category": "社会新闻"
+      "category": "情感"
     },
     {
       "raw_hot": 215936,
@@ -499,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206976,
+      "num": 206976,
+      "word": "来自天堂的两万元结婚礼金",
+      "onboard_time": 1684119983,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 201521,
       "num": 201521,
       "word": "王俊凯侧拍",
@@ -531,14 +579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196621,
-      "num": 196621,
-      "word": "孙怡线下状态",
-      "onboard_time": 1684120291,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 191925,
       "num": 191925,
       "word": "AI歌手翻唱或涉多项侵权行为",
@@ -569,6 +609,14 @@
       "onboard_time": 1684106484,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183842,
+      "num": 183842,
+      "word": "如果你是挖呀挖黄老师会怎么做",
+      "onboard_time": 1684120529,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183344,
@@ -643,14 +691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165225,
-      "num": 165225,
-      "word": "如果你是挖呀挖黄老师会怎么做",
-      "onboard_time": 1684120529,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163986,
       "num": 163986,
       "word": "别让祖传的手法失传了",
@@ -667,20 +707,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 159476,
-      "num": 159476,
-      "word": "来自天堂的两万元结婚礼金",
-      "onboard_time": 1684119983,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 155907,
       "num": 155907,
       "word": "塔图姆51分",
       "onboard_time": 1684106000,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151026,
+      "num": 151026,
+      "word": "李莎旻子带瞿颖Amber吃长沙小龙虾",
+      "onboard_time": 1684121249,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 149773,
@@ -795,14 +835,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 131865,
-      "num": 131865,
-      "word": "江西失踪5岁双胞胎均已身亡",
-      "onboard_time": 1684120589,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 128140,
       "num": 128140,
       "word": "药师寺宽邦",
@@ -843,8 +875,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 126038,
+      "num": 126038,
+      "word": "当小猫误入大猫打架现场",
+      "onboard_time": 1684120770,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124783,
-      "num": 124857,
+      "num": 125849,
       "word": "光与夜之恋",
       "onboard_time": 1684117706,
       "rank": 46,
@@ -971,6 +1011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 84586,
+      "num": 270031,
+      "word": "免疫力是越高越好吗",
+      "onboard_time": 1684119928,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83482,
       "num": 83014,
       "word": "黄景瑜一个眼神黄明昊就收敛",
@@ -1008,14 +1056,6 @@
       "word": "7岁内蒙古女孩一牵缰绳眼神都变了",
       "onboard_time": 1684082184,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55008,
-      "num": 181346,
-      "word": "免疫力是越高越好吗",
-      "onboard_time": 1684119928,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1084,7 +1124,7 @@
     },
     {
       "raw_hot": 15785,
-      "num": 1083107,
+      "num": 1185623,
       "word": "农忙时节的田野铺开了生机勃勃的画卷",
       "onboard_time": 1684054285,
       "rank": 2,
