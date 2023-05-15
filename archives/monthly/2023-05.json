@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684132496433,
+  "endTime": 1684135030892,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1096,6 +1096,22 @@
       "word": "蔡徐坤被判支付前东家300万违约金",
       "onboard_time": 1683279570,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2015125,
+      "num": 2015125,
+      "word": "笑果无限期停止house演艺工作",
+      "onboard_time": 1684133490,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2012983,
+      "num": 2012983,
+      "word": "宋小宝 王嘉尔",
+      "onboard_time": 1684131147,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -3907,6 +3923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1063003,
+      "num": 602585,
+      "word": "刘丹母亲节拒谈杨幂",
+      "onboard_time": 1684130608,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1059947,
       "num": 1059947,
       "word": "娜扎 把恋爱脑摔碎",
@@ -3943,14 +3967,6 @@
       "num": 661697,
       "word": "黄子韬一年瘦了40多斤",
       "onboard_time": 1683034420,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1055981,
-      "num": 602585,
-      "word": "刘丹母亲节拒谈杨幂",
-      "onboard_time": 1684130608,
       "rank": 11,
       "category": "艺人"
     },
@@ -4347,14 +4363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 962001,
-      "num": 962001,
-      "word": "宋小宝 王嘉尔",
-      "onboard_time": 1684131147,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 959798,
       "num": 483141,
       "word": "于正说我捧的人都火了",
@@ -4737,6 +4745,14 @@
       "onboard_time": 1683462272,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 895832,
+      "num": 895832,
+      "word": "house道歉",
+      "onboard_time": 1684133668,
+      "rank": 4,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 895424,
@@ -6955,6 +6971,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 599917,
+      "num": 599917,
+      "word": "house 笑果",
+      "onboard_time": 1684131988,
+      "rank": 24,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 599135,
       "num": 599135,
       "word": "张婧仪古装",
@@ -8555,6 +8579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 493455,
+      "num": 188051,
+      "word": "加拿大模特在中国坐月子",
+      "onboard_time": 1684133608,
+      "rank": 30,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 492964,
       "num": 492964,
       "word": "小县城下班后有多美好",
@@ -8593,6 +8625,14 @@
       "onboard_time": 1683120511,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 491772,
+      "num": 491772,
+      "word": "杨紫阔腿工装裤",
+      "onboard_time": 1684134028,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 491157,
@@ -9129,6 +9169,14 @@
       "onboard_time": 1684062746,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 463302,
+      "num": 463302,
+      "word": "足浴技师称被灌醉遭性侵获立案",
+      "onboard_time": 1684129829,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 462492,
@@ -9977,6 +10025,14 @@
       "onboard_time": 1683956369,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 427225,
+      "num": 427225,
+      "word": "面试时HR让我写一百个一",
+      "onboard_time": 1684130968,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 426736,
@@ -12305,14 +12361,6 @@
       "onboard_time": 1683937528,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 355415,
-      "num": 355415,
-      "word": "足浴技师称被灌醉遭性侵获立案",
-      "onboard_time": 1684129829,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 355379,
@@ -15715,6 +15763,14 @@
       "category": "游戏,综艺"
     },
     {
+      "raw_hot": 283246,
+      "num": 283246,
+      "word": "gidle 抄袭",
+      "onboard_time": 1684134690,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 283215,
       "num": 228774,
       "word": "易烊千玺手臂肌肉",
@@ -15993,14 +16049,6 @@
       "onboard_time": 1683381214,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 278910,
-      "num": 278910,
-      "word": "面试时HR让我写一百个一",
-      "onboard_time": 1684130968,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 278802,
@@ -17323,6 +17371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 256857,
+      "num": 256857,
+      "word": "唐山警方回应农妇袭警案",
+      "onboard_time": 1684133490,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256707,
       "num": 256707,
       "word": "汶川钢腿女孩重回获救地",
@@ -17601,6 +17657,14 @@
       "onboard_time": 1683730713,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 251725,
+      "num": 251725,
+      "word": "母亲见牙医像已故女儿瞬间落泪",
+      "onboard_time": 1684133668,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251719,
@@ -19145,6 +19209,14 @@
       "onboard_time": 1682860410,
       "rank": 15,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 232735,
+      "num": 232735,
+      "word": "任泽平建议推出五年内燃油车禁售时间表",
+      "onboard_time": 1684132107,
+      "rank": 33,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 232650,
@@ -21219,14 +21291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207673,
-      "num": 207673,
-      "word": "house 笑果",
-      "onboard_time": 1684131988,
-      "rank": 24,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 207658,
       "num": 207658,
       "word": "喜欢送",
@@ -22163,6 +22227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198218,
+      "num": 198218,
+      "word": "小龙虾价格",
+      "onboard_time": 1684131806,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198216,
       "num": 198216,
       "word": "长月烬明全员告别",
@@ -23051,6 +23123,14 @@
       "category": "社会正能量,教育"
     },
     {
+      "raw_hot": 188912,
+      "num": 188912,
+      "word": "左耳朵耗子 心梗",
+      "onboard_time": 1684131448,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188822,
       "num": 188822,
       "word": "刘耀文说太激动了谢谢大家",
@@ -23227,6 +23307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186762,
+      "num": 186762,
+      "word": "吉克隽逸卡戴珊撞衫",
+      "onboard_time": 1684134267,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 186739,
       "num": 186739,
       "word": "李健太湖湾音乐节",
@@ -23305,6 +23393,14 @@
       "onboard_time": 1683212496,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186363,
+      "num": 186363,
+      "word": "发朋友圈被亲戚同学说腿粗",
+      "onboard_time": 1684134149,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 186320,
@@ -23849,6 +23945,14 @@
       "onboard_time": 1682908708,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 179139,
+      "num": 179139,
+      "word": "这条裤子是不是救过王子奇的命",
+      "onboard_time": 1684133008,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 179131,
@@ -25227,6 +25331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165506,
+      "num": 165506,
+      "word": "女子见小孩玩水多留意一眼救下3人",
+      "onboard_time": 1684129526,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165387,
       "num": 165387,
       "word": "象山摩托车表演重摔车手不幸身亡",
@@ -25489,14 +25601,6 @@
       "onboard_time": 1682932168,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 162632,
-      "num": 162632,
-      "word": "女子见小孩玩水多留意一眼救下3人",
-      "onboard_time": 1684129526,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162495,
@@ -25835,6 +25939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158466,
+      "num": 158466,
+      "word": "天津的猪热中暑了",
+      "onboard_time": 1684130908,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158465,
       "num": 158465,
       "word": "当妈后变怂的一件事",
@@ -25913,14 +26025,6 @@
       "onboard_time": 1683336808,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157531,
-      "num": 157531,
-      "word": "任泽平建议推出五年内燃油车禁售时间表",
-      "onboard_time": 1684132107,
-      "rank": 33,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 157389,
@@ -26225,14 +26329,6 @@
       "onboard_time": 1684074753,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 153747,
-      "num": 153747,
-      "word": "天津的猪热中暑了",
-      "onboard_time": 1684130908,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153589,
@@ -26795,6 +26891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147292,
+      "num": 147292,
+      "word": "Lisa卷毛造型",
+      "onboard_time": 1684130007,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 147245,
       "num": 147245,
       "word": "8岁男孩用近500魔方拼画表白妈妈",
@@ -26891,14 +26995,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 145782,
-      "num": 145782,
-      "word": "小龙虾价格",
-      "onboard_time": 1684131806,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145686,
       "num": 145686,
       "word": "詹姆斯三分",
@@ -26936,14 +27032,6 @@
       "word": "校方回应男生被老师丈夫刺伤",
       "onboard_time": 1683491591,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145281,
-      "num": 145281,
-      "word": "左耳朵耗子 心梗",
-      "onboard_time": 1684131448,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -27097,14 +27185,6 @@
       "onboard_time": 1684048949,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142866,
-      "num": 142866,
-      "word": "Lisa卷毛造型",
-      "onboard_time": 1684130007,
-      "rank": 40,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 142717,
@@ -27353,6 +27433,14 @@
       "onboard_time": 1682985805,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 138882,
+      "num": 138882,
+      "word": "5岁女孩挑战4600米高空跳伞",
+      "onboard_time": 1684134450,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138876,
@@ -27713,6 +27801,14 @@
       "onboard_time": 1683271949,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133437,
+      "num": 133437,
+      "word": "虞书欣骑龙vs周也骑龙",
+      "onboard_time": 1684134628,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 133336,
@@ -28779,6 +28875,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 117459,
+      "num": 117459,
+      "word": "今年戛纳好热闹",
+      "onboard_time": 1684133725,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 117425,
       "num": 117425,
       "word": "上海3人造谣幼师卖淫被刑拘",
@@ -29257,6 +29361,14 @@
       "onboard_time": 1684070186,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104519,
+      "num": 114151,
+      "word": "排球少年",
+      "onboard_time": 1684133065,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 104394,
@@ -31025,6 +31137,14 @@
       "onboard_time": 1683414139,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37239,
+      "num": 1406096,
+      "word": "寻路古都长安遇见多彩西安",
+      "onboard_time": 1684133848,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36946,

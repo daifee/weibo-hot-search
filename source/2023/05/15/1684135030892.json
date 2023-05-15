@@ -1,0 +1,410 @@
+{
+  "runTime": 1684135030892,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2015125,
+        "num": 2015125,
+        "word": "笑果无限期停止house演艺工作",
+        "onboard_time": 1684133490,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 2012983,
+        "num": 2012983,
+        "word": "宋小宝 王嘉尔",
+        "onboard_time": 1684131147,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37239,
+        "num": 1406096,
+        "word": "寻路古都长安遇见多彩西安",
+        "onboard_time": 1684133848,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 908682,
+        "num": 908682,
+        "word": "秋瓷炫工地芭蕾直拍流出",
+        "onboard_time": 1684129526,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 895832,
+        "num": 895832,
+        "word": "house道歉",
+        "onboard_time": 1684133668,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 674537,
+        "num": 674537,
+        "word": "办公室一天讲不了2句话",
+        "onboard_time": 1684113447,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680022,
+        "num": 648778,
+        "word": "张嘉倪为叮叮当当组设计项链",
+        "onboard_time": 1684126775,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 599917,
+        "num": 599917,
+        "word": "house 笑果",
+        "onboard_time": 1684131988,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 549132,
+        "num": 549132,
+        "word": "张雨绮 去法国看看我的队排到哪儿了",
+        "onboard_time": 1684121370,
+        "rank": 8,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 512741,
+        "num": 512741,
+        "word": "江西失踪5岁双胞胎均已身亡",
+        "onboard_time": 1684120589,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1063003,
+        "num": 504069,
+        "word": "刘丹母亲节拒谈杨幂",
+        "onboard_time": 1684130608,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 825128,
+        "num": 500642,
+        "word": "笑果",
+        "onboard_time": 1684125575,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 491772,
+        "num": 491772,
+        "word": "杨紫阔腿工装裤",
+        "onboard_time": 1684134028,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 463302,
+        "num": 463302,
+        "word": "足浴技师称被灌醉遭性侵获立案",
+        "onboard_time": 1684129829,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451552,
+        "num": 451552,
+        "word": "男子猝死万幸倒在医生面前",
+        "onboard_time": 1684117887,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427225,
+        "num": 427225,
+        "word": "面试时HR让我写一百个一",
+        "onboard_time": 1684130968,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 338701,
+        "num": 338701,
+        "word": "李小璐持股公司成老赖",
+        "onboard_time": 1684127369,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 335846,
+        "num": 335846,
+        "word": "朴树报平安",
+        "onboard_time": 1684121670,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296957,
+        "num": 296957,
+        "word": "张翰方否认恋情",
+        "onboard_time": 1684125395,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283246,
+        "num": 283246,
+        "word": "gidle 抄袭",
+        "onboard_time": 1684134690,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 268994,
+        "num": 268994,
+        "word": "迪丽热巴冰淇淋侧颜",
+        "onboard_time": 1684126775,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256857,
+        "num": 256857,
+        "word": "唐山警方回应农妇袭警案",
+        "onboard_time": 1684133490,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251725,
+        "num": 251725,
+        "word": "母亲见牙医像已故女儿瞬间落泪",
+        "onboard_time": 1684133668,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232735,
+        "num": 232735,
+        "word": "任泽平建议推出五年内燃油车禁售时间表",
+        "onboard_time": 1684132107,
+        "rank": 23,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 219867,
+        "num": 219867,
+        "word": "辞职后去旅游发朋友圈被说了",
+        "onboard_time": 1684120709,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208414,
+        "num": 208414,
+        "word": "吃自助偷打包补交44543元餐费",
+        "onboard_time": 1684127312,
+        "rank": 25,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 200850,
+        "num": 200850,
+        "word": "演唱会为啥都在闹退票",
+        "onboard_time": 1684105399,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198218,
+        "num": 198218,
+        "word": "小龙虾价格",
+        "onboard_time": 1684131806,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188912,
+        "num": 188912,
+        "word": "左耳朵耗子 心梗",
+        "onboard_time": 1684131448,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188305,
+        "num": 188305,
+        "word": "艾莉先点痣了",
+        "onboard_time": 1684124672,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 493455,
+        "num": 188051,
+        "word": "加拿大模特在中国坐月子",
+        "onboard_time": 1684133608,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 186762,
+        "num": 186762,
+        "word": "吉克隽逸卡戴珊撞衫",
+        "onboard_time": 1684134267,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 186363,
+        "num": 186363,
+        "word": "发朋友圈被亲戚同学说腿粗",
+        "onboard_time": 1684134149,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182591,
+        "num": 182591,
+        "word": "iPhone15将搭堆叠式摄像头",
+        "onboard_time": 1684117587,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 179139,
+        "num": 179139,
+        "word": "这条裤子是不是救过王子奇的命",
+        "onboard_time": 1684133008,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177113,
+        "num": 177113,
+        "word": "易烊千玺新专辑销量",
+        "onboard_time": 1684122574,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171060,
+        "num": 171060,
+        "word": "王者荣耀女装",
+        "onboard_time": 1684125695,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165506,
+        "num": 165506,
+        "word": "女子见小孩玩水多留意一眼救下3人",
+        "onboard_time": 1684129526,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158466,
+        "num": 158466,
+        "word": "天津的猪热中暑了",
+        "onboard_time": 1684130908,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157260,
+        "num": 157260,
+        "word": "陈冰 淘汰",
+        "onboard_time": 1684127133,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154868,
+        "num": 154868,
+        "word": "为什么人打电话猫在旁边喵喵叫",
+        "onboard_time": 1684129468,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152259,
+        "num": 152259,
+        "word": "朱一龙 戛纳",
+        "onboard_time": 1684128569,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147292,
+        "num": 147292,
+        "word": "Lisa卷毛造型",
+        "onboard_time": 1684130007,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 138882,
+        "num": 138882,
+        "word": "5岁女孩挑战4600米高空跳伞",
+        "onboard_time": 1684134450,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133437,
+        "num": 133437,
+        "word": "虞书欣骑龙vs周也骑龙",
+        "onboard_time": 1684134628,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133367,
+        "num": 133367,
+        "word": "当我打开2015年的朋友圈",
+        "onboard_time": 1684132289,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127626,
+        "num": 127626,
+        "word": "李宇春穿了三条裤子",
+        "onboard_time": 1684132289,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 124930,
+        "num": 124930,
+        "word": "二代滔搏也be了",
+        "onboard_time": 1684129709,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117459,
+        "num": 117459,
+        "word": "今年戛纳好热闹",
+        "onboard_time": 1684133725,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104519,
+        "num": 114151,
+        "word": "排球少年",
+        "onboard_time": 1684133065,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国与中亚在此相会#"
+    }
+  }
+}
