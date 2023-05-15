@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684164825592,
+  "endTime": 1684167725625,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -635,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2477347,
+      "num": 519877,
+      "word": "颜九要求温精灵公开道歉",
+      "onboard_time": 1684158512,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2469874,
       "num": 456510,
       "word": "王一博删照片",
@@ -809,14 +817,6 @@
       "onboard_time": 1683848666,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2278374,
-      "num": 519877,
-      "word": "颜九要求温精灵公开道歉",
-      "onboard_time": 1684158512,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 2272926,
@@ -3531,6 +3531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1187286,
+      "num": 383103,
+      "word": "王力宏李靓蕾现身法庭",
+      "onboard_time": 1684164152,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1183713,
       "num": 1183713,
       "word": "虐猫群以爱猫做群名打掩护",
@@ -3865,6 +3873,14 @@
       "onboard_time": 1683545428,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1104744,
+      "num": 374489,
+      "word": "沈月在闺蜜婚礼上哭了",
+      "onboard_time": 1684163911,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 1102278,
@@ -5419,14 +5435,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 816578,
-      "num": 383103,
-      "word": "王力宏李靓蕾现身法庭",
-      "onboard_time": 1684164152,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 814266,
       "num": 814266,
       "word": "中新网评刘亦菲曾被霸凌",
@@ -6025,6 +6033,14 @@
       "onboard_time": 1683790050,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 729726,
+      "num": 715721,
+      "word": "内娱百分之百的原生脸",
+      "onboard_time": 1684162771,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 729071,
@@ -8289,14 +8305,6 @@
       "onboard_time": 1683279269,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 532332,
-      "num": 374489,
-      "word": "沈月在闺蜜婚礼上哭了",
-      "onboard_time": 1684163911,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 531871,
@@ -11137,14 +11145,6 @@
       "onboard_time": 1684070969,
       "rank": 30,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 401673,
-      "num": 368944,
-      "word": "内娱百分之百的原生脸",
-      "onboard_time": 1684162771,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 401589,
@@ -16025,6 +16025,14 @@
       "onboard_time": 1683388351,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288610,
+      "num": 288610,
+      "word": "老爸给我晾的百褶裙",
+      "onboard_time": 1684165291,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 288533,
@@ -26875,6 +26883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157496,
+      "num": 157496,
+      "word": "章昊杂志",
+      "onboard_time": 1684167325,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 157389,
       "num": 157389,
       "word": "奔跑吧下周谁是贵阳推荐官",
@@ -28537,6 +28553,14 @@
       "onboard_time": 1683703831,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 135679,
+      "num": 135679,
+      "word": "现在年轻人流行断亲",
+      "onboard_time": 1684166607,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 135661,
@@ -30441,6 +30465,14 @@
       "onboard_time": 1683168687,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100219,
+      "num": 100219,
+      "word": "Lisa让工作人员给粉丝发水",
+      "onboard_time": 1684167687,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 100186,

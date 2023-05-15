@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684164825592,
+  "endTime": 1684167725625,
   "band_list": [
     {
       "raw_hot": 3904532,
@@ -51,20 +51,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2477347,
+      "num": 519877,
+      "word": "颜九要求温精灵公开道歉",
+      "onboard_time": 1684158512,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2461167,
       "num": 2461167,
       "word": "韩国女性被献给美国大兵遭蹂躏数十年",
       "onboard_time": 1684144588,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2278374,
-      "num": 519877,
-      "word": "颜九要求温精灵公开道歉",
-      "onboard_time": 1684158512,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 2012983,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1187286,
+      "num": 383103,
+      "word": "王力宏李靓蕾现身法庭",
+      "onboard_time": 1684164152,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1177288,
       "num": 1177288,
       "word": "加拿大模特在中国坐月子",
@@ -305,6 +313,14 @@
       "onboard_time": 1684138467,
       "rank": 48,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 1104744,
+      "num": 374489,
+      "word": "沈月在闺蜜婚礼上哭了",
+      "onboard_time": 1684163911,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 1063003,
@@ -427,14 +443,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 816578,
-      "num": 383103,
-      "word": "王力宏李靓蕾现身法庭",
-      "onboard_time": 1684164152,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 803108,
       "num": 803108,
       "word": "gidle回归",
@@ -489,6 +497,14 @@
       "onboard_time": 1684107445,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 729726,
+      "num": 715721,
+      "word": "内娱百分之百的原生脸",
+      "onboard_time": 1684162771,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 706990,
@@ -641,14 +657,6 @@
       "onboard_time": 1684123653,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 532332,
-      "num": 374489,
-      "word": "沈月在闺蜜婚礼上哭了",
-      "onboard_time": 1684163911,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 516087,
@@ -865,14 +873,6 @@
       "onboard_time": 1684149150,
       "rank": 44,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 401673,
-      "num": 368944,
-      "word": "内娱百分之百的原生脸",
-      "onboard_time": 1684162771,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 400837,
@@ -1161,6 +1161,14 @@
       "onboard_time": 1684059805,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288610,
+      "num": 288610,
+      "word": "老爸给我晾的百褶裙",
+      "onboard_time": 1684165291,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 286625,
@@ -2139,6 +2147,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 157496,
+      "num": 157496,
+      "word": "章昊杂志",
+      "onboard_time": 1684167325,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 155907,
       "num": 155907,
       "word": "塔图姆51分",
@@ -2329,6 +2345,14 @@
       "onboard_time": 1684074451,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135679,
+      "num": 135679,
+      "word": "现在年轻人流行断亲",
+      "onboard_time": 1684166607,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 134993,
@@ -2553,6 +2577,14 @@
       "onboard_time": 1684074934,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 100219,
+      "num": 100219,
+      "word": "Lisa让工作人员给粉丝发水",
+      "onboard_time": 1684167687,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 96915,
