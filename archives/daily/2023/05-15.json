@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684150411488,
+  "endTime": 1684154090778,
   "band_list": [
     {
       "raw_hot": 3904532,
@@ -57,6 +57,14 @@
       "onboard_time": 1684106062,
       "rank": 36,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1733394,
+      "num": 1004206,
+      "word": "新版四大甜妹",
+      "onboard_time": 1684149989,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1719861,
@@ -145,6 +153,14 @@
       "onboard_time": 1684112426,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1348922,
+      "num": 1348922,
+      "word": "台媒说浪姐4职场霸凌徐怀钰",
+      "onboard_time": 1684151066,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1321795,
@@ -299,12 +315,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 837861,
+      "num": 837861,
+      "word": "陈玘",
+      "onboard_time": 1684152267,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 828154,
       "num": 828154,
       "word": "于晓光陪秋瓷炫上班",
       "onboard_time": 1684105880,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 819604,
+      "num": 819604,
+      "word": "曲婉婷2套房产起拍价450万元",
+      "onboard_time": 1684148788,
+      "rank": 30,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 803108,
@@ -379,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 660802,
+      "num": 529674,
+      "word": "迪丽热巴未修原档生图",
+      "onboard_time": 1684153047,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 659513,
       "num": 659513,
       "word": "迪丽热巴冰淇淋侧颜",
@@ -411,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 640086,
+      "num": 640086,
+      "word": "朱珠爷爷给她起的名字",
+      "onboard_time": 1684150409,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 627997,
       "num": 627997,
       "word": "叉烧芬 你徒弟出师了",
@@ -425,6 +473,14 @@
       "onboard_time": 1684064007,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 603388,
+      "num": 603388,
+      "word": "肖战李沁梦中的那片海播出时间",
+      "onboard_time": 1684152627,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 599917,
@@ -467,6 +523,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 491501,
+      "num": 491501,
+      "word": "广东情侣住酒店凌晨被人开门闯入",
+      "onboard_time": 1684152089,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491073,
       "num": 491073,
       "word": "难听",
@@ -483,20 +547,20 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 481347,
+      "num": 481347,
+      "word": "点痣前的朱珠",
+      "onboard_time": 1684151787,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 479598,
       "num": 479598,
       "word": "老虎剃了毛依然有花纹",
       "onboard_time": 1684137330,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 476764,
-      "num": 206088,
-      "word": "曲婉婷2套房产起拍价450万元",
-      "onboard_time": 1684148788,
-      "rank": 30,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 475421,
@@ -619,6 +683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 418736,
+      "num": 418736,
+      "word": "睡觉 命重要",
+      "onboard_time": 1684153287,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 418562,
       "num": 418562,
       "word": "A股",
@@ -691,12 +763,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 397293,
+      "num": 397293,
+      "word": "CBA总决赛",
+      "onboard_time": 1684150467,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 395909,
       "num": 395909,
       "word": "原来面试可以当场有结果",
       "onboard_time": 1684125575,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 379356,
+      "num": 216118,
+      "word": "5岁中法混血女孩遭父亲割喉身亡",
+      "onboard_time": 1684153409,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 364907,
@@ -817,6 +905,14 @@
       "onboard_time": 1684119388,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 313259,
+      "num": 313259,
+      "word": "别让郑秀妍看到浪姐4的伴舞",
+      "onboard_time": 1684151129,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 312368,
@@ -985,14 +1081,6 @@
       "onboard_time": 1684149926,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 249689,
-      "num": 201066,
-      "word": "新版四大甜妹",
-      "onboard_time": 1684149989,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 249099,
@@ -1187,6 +1275,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214135,
+      "num": 214135,
+      "word": "广东人有钱的原因找到了",
+      "onboard_time": 1684150409,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 213853,
+      "num": 213853,
+      "word": "520礼物",
+      "onboard_time": 1684153167,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 212985,
       "num": 212985,
       "word": "电影燃冬他她他海报",
@@ -1264,6 +1368,22 @@
       "word": "给美依礼芽的应援被剪进了正片",
       "onboard_time": 1684118065,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 207934,
+      "num": 207934,
+      "word": "刘耀文成都",
+      "onboard_time": 1684152508,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 206654,
+      "num": 206654,
+      "word": "华晨宇说马嘉祺是很大的惊喜",
+      "onboard_time": 1684149268,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -1355,14 +1475,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 192677,
-      "num": 192677,
-      "word": "华晨宇说马嘉祺是很大的惊喜",
-      "onboard_time": 1684149268,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191925,
       "num": 191925,
       "word": "AI歌手翻唱或涉多项侵权行为",
@@ -1448,6 +1560,14 @@
       "word": "恩比德",
       "onboard_time": 1684106484,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 183854,
+      "num": 183854,
+      "word": "辽宁男篮vs浙江男篮",
+      "onboard_time": 1684151488,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -1795,6 +1915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 145713,
+      "num": 145713,
+      "word": "为什么不要把友情变成爱情",
+      "onboard_time": 1684153709,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144747,
       "num": 144747,
       "word": "NBA季后赛",
@@ -1913,6 +2041,14 @@
       "onboard_time": 1684135827,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 132554,
+      "num": 132554,
+      "word": "北京国安",
+      "onboard_time": 1684153167,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 130636,
@@ -2153,6 +2289,14 @@
       "onboard_time": 1684144050,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 82312,
+      "num": 121449,
+      "word": "Hero东方挂牌",
+      "onboard_time": 1684150950,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 77635,

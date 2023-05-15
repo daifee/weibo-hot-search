@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684150411488,
+  "endTime": 1684154090778,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1643,6 +1643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1733394,
+      "num": 1004206,
+      "word": "新版四大甜妹",
+      "onboard_time": 1684149989,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1730139,
       "num": 1730139,
       "word": "恒大公告许家印成被执行人",
@@ -2785,6 +2793,14 @@
       "onboard_time": 1683765510,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1348922,
+      "num": 1348922,
+      "word": "台媒说浪姐4职场霸凌徐怀钰",
+      "onboard_time": 1684151066,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1348201,
@@ -5179,6 +5195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 837861,
+      "num": 837861,
+      "word": "陈玘",
+      "onboard_time": 1684152267,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 834895,
       "num": 834895,
       "word": "克里姆林宫",
@@ -5280,6 +5304,14 @@
       "word": "与周立波互骂的唐爽被司法拘留十五日",
       "onboard_time": 1683248015,
       "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 819604,
+      "num": 819604,
+      "word": "曲婉婷2套房产起拍价450万元",
+      "onboard_time": 1684148788,
+      "rank": 30,
       "category": "社会新闻,艺人"
     },
     {
@@ -6499,6 +6531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 660802,
+      "num": 529674,
+      "word": "迪丽热巴未修原档生图",
+      "onboard_time": 1684153047,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 660702,
       "num": 507845,
       "word": "巴厘岛案",
@@ -6633,6 +6673,14 @@
       "onboard_time": 1683468096,
       "rank": 31,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 640086,
+      "num": 640086,
+      "word": "朱珠爷爷给她起的名字",
+      "onboard_time": 1684150409,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 638365,
@@ -7033,6 +7081,14 @@
       "onboard_time": 1683867394,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 603388,
+      "num": 603388,
+      "word": "肖战李沁梦中的那片海播出时间",
+      "onboard_time": 1684152627,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 602431,
@@ -8739,6 +8795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 491501,
+      "num": 491501,
+      "word": "广东情侣住酒店凌晨被人开门闯入",
+      "onboard_time": 1684152089,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491157,
       "num": 491157,
       "word": "巴厘岛女性死者生前可能曾遭勒颈",
@@ -8923,6 +8987,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 481347,
+      "num": 481347,
+      "word": "点痣前的朱珠",
+      "onboard_time": 1684151787,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 481113,
       "num": 390171,
       "word": "黄晓明今天好累",
@@ -9025,14 +9097,6 @@
       "onboard_time": 1683165449,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 476764,
-      "num": 206088,
-      "word": "曲婉婷2套房产起拍价450万元",
-      "onboard_time": 1684148788,
-      "rank": 30,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 476282,
@@ -10451,6 +10515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 418736,
+      "num": 418736,
+      "word": "睡觉 命重要",
+      "onboard_time": 1684153287,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 418358,
       "num": 418358,
       "word": "一个宿舍各过各的",
@@ -11155,6 +11227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 397293,
+      "num": 397293,
+      "word": "CBA总决赛",
+      "onboard_time": 1683543570,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 397257,
       "num": 225683,
       "word": "瞿颖气场",
@@ -11697,6 +11777,14 @@
       "onboard_time": 1683543091,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 379356,
+      "num": 216118,
+      "word": "5岁中法混血女孩遭父亲割喉身亡",
+      "onboard_time": 1684153409,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 379311,
@@ -12473,14 +12561,6 @@
       "onboard_time": 1684135169,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 357694,
-      "num": 357694,
-      "word": "CBA总决赛",
-      "onboard_time": 1683543570,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 357554,
@@ -14497,6 +14577,14 @@
       "onboard_time": 1684119388,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 313259,
+      "num": 313259,
+      "word": "别让郑秀妍看到浪姐4的伴舞",
+      "onboard_time": 1684151129,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 313034,
@@ -18099,14 +18187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 249689,
-      "num": 201066,
-      "word": "新版四大甜妹",
-      "onboard_time": 1684149989,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 249590,
       "num": 249590,
       "word": "午睡过久会长胖吗",
@@ -21051,6 +21131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214135,
+      "num": 214135,
+      "word": "广东人有钱的原因找到了",
+      "onboard_time": 1684150409,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 214094,
       "num": 214094,
       "word": "Steam禁止开小号欺凌初级玩家",
@@ -21065,6 +21153,14 @@
       "onboard_time": 1683725913,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213853,
+      "num": 213853,
+      "word": "520礼物",
+      "onboard_time": 1684153167,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 213795,
@@ -21627,6 +21723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207934,
+      "num": 207934,
+      "word": "刘耀文成都",
+      "onboard_time": 1684152508,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207858,
       "num": 207858,
       "word": "妈妈年轻时候的日记",
@@ -21737,6 +21841,14 @@
       "onboard_time": 1684066225,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206654,
+      "num": 206654,
+      "word": "华晨宇说马嘉祺是很大的惊喜",
+      "onboard_time": 1684149268,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 206632,
@@ -23121,14 +23233,6 @@
       "onboard_time": 1683699212,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192677,
-      "num": 192677,
-      "word": "华晨宇说马嘉祺是很大的惊喜",
-      "onboard_time": 1684149268,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 192606,
@@ -27483,6 +27587,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 145713,
+      "num": 145713,
+      "word": "为什么不要把友情变成爱情",
+      "onboard_time": 1684153709,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145686,
       "num": 145686,
       "word": "詹姆斯三分",
@@ -28377,6 +28489,14 @@
       "onboard_time": 1683041196,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132554,
+      "num": 132554,
+      "word": "北京国安",
+      "onboard_time": 1684153167,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 132533,
@@ -30545,6 +30665,14 @@
       "onboard_time": 1684064246,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82312,
+      "num": 121449,
+      "word": "Hero东方挂牌",
+      "onboard_time": 1684150950,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 81691,
