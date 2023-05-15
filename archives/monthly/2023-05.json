@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684157606704,
+  "endTime": 1684160176342,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -321,6 +321,14 @@
       "onboard_time": 1683865896,
       "rank": 39,
       "category": "财经,网红"
+    },
+    {
+      "raw_hot": 2911046,
+      "num": 2911046,
+      "word": "辽宁总冠军",
+      "onboard_time": 1684158151,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2904035,
@@ -1313,6 +1321,14 @@
       "onboard_time": 1683763770,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1893340,
+      "num": 519877,
+      "word": "颜九要求温精灵公开道歉",
+      "onboard_time": 1684158512,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 1884914,
@@ -4683,6 +4699,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 925032,
+      "num": 925032,
+      "word": "郭艾伦",
+      "onboard_time": 1684159110,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 923868,
       "num": 647043,
       "word": "李荣浩第一次吃乌梅子酱",
@@ -5307,6 +5331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 825082,
+      "num": 825082,
+      "word": "赵继伟蝉联FMVP",
+      "onboard_time": 1684159529,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 821953,
       "num": 471255,
       "word": "low",
@@ -5457,6 +5489,14 @@
       "onboard_time": 1684105399,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 799139,
+      "num": 403141,
+      "word": "月薪5000真的很低吗",
+      "onboard_time": 1684156949,
+      "rank": 21,
+      "category": "社会议题"
     },
     {
       "raw_hot": 798651,
@@ -6673,6 +6713,14 @@
       "onboard_time": 1684079068,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 644941,
+      "num": 644941,
+      "word": "CBA总决赛",
+      "onboard_time": 1683543570,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 643495,
@@ -8507,20 +8555,20 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 515890,
-      "num": 515890,
-      "word": "CBA总决赛",
-      "onboard_time": 1683543570,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 515154,
       "num": 515154,
       "word": "洛阳规划局",
       "onboard_time": 1683592469,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 514229,
+      "num": 402503,
+      "word": "一不小心翻到董事长工资",
+      "onboard_time": 1684146749,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 513967,
@@ -9387,6 +9435,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 464824,
+      "num": 464824,
+      "word": "任权直播还钱",
+      "onboard_time": 1684158755,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 464574,
       "num": 443507,
       "word": "林允儿跳了Ditto",
@@ -9457,14 +9513,6 @@
       "onboard_time": 1683341310,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 460002,
-      "num": 402503,
-      "word": "一不小心翻到董事长工资",
-      "onboard_time": 1684146749,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 459892,
@@ -11531,20 +11579,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 387314,
+      "num": 387314,
+      "word": "辽宁队史第三冠",
+      "onboard_time": 1684159770,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 386853,
       "num": 386853,
       "word": "性骚扰事件 不用考虑直接告",
       "onboard_time": 1683002550,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 386619,
-      "num": 349819,
-      "word": "月薪5000真的很低吗",
-      "onboard_time": 1684156949,
-      "rank": 21,
-      "category": "社会议题"
     },
     {
       "raw_hot": 385908,
@@ -13147,6 +13195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 346107,
+      "num": 346107,
+      "word": "林彦俊深夜唱歌扰民",
+      "onboard_time": 1684158991,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 346017,
       "num": 346017,
       "word": "8名内地赌客在澳门赌场抡椅打斗被捕",
@@ -14091,6 +14147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 324912,
+      "num": 324912,
+      "word": "辽宁男篮抛起杨鸣",
+      "onboard_time": 1684159468,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 324746,
       "num": 324746,
       "word": "高中生打碎水银温度计报警求助",
@@ -14692,7 +14756,7 @@
     },
     {
       "raw_hot": 310343,
-      "num": 264093,
+      "num": 271030,
       "word": "官方回应女子捆绑2女儿河中身亡",
       "onboard_time": 1684155027,
       "rank": 46,
@@ -16315,6 +16379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 280214,
+      "num": 280214,
+      "word": "谈恋爱一周亏了几千块钱",
+      "onboard_time": 1684157910,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 280094,
       "num": 280094,
       "word": "睡眠时长决定我对人生的态度",
@@ -16689,6 +16761,14 @@
       "onboard_time": 1683587541,
       "rank": 39,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 273617,
+      "num": 273617,
+      "word": "莫兰德疯狂抢断",
+      "onboard_time": 1684158451,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 273511,
@@ -17715,6 +17795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257470,
+      "num": 257470,
+      "word": "爸爸买漂亮小裙子女儿激动尖叫",
+      "onboard_time": 1684157252,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257401,
       "num": 257401,
       "word": "住户竟在小区花园放生蟑螂",
@@ -18003,6 +18091,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 252363,
+      "num": 252363,
+      "word": "港妹能不能吃点好的",
+      "onboard_time": 1684158512,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252266,
       "num": 216672,
       "word": "潍坊文旅派人来杭州揽客",
@@ -18145,6 +18241,14 @@
       "onboard_time": 1683788908,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 251142,
+      "num": 251142,
+      "word": "姚明现场观看总决赛",
+      "onboard_time": 1684158029,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 251015,
@@ -24532,7 +24636,7 @@
     },
     {
       "raw_hot": 179245,
-      "num": 180490,
+      "num": 182869,
       "word": "2023腾讯游戏发布会",
       "onboard_time": 1684155509,
       "rank": 37,
@@ -29059,14 +29163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 126303,
-      "num": 126303,
-      "word": "爸爸买漂亮小裙子女儿激动尖叫",
-      "onboard_time": 1684157252,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126061,
       "num": 126061,
       "word": "黄景瑜回东北了",
@@ -30227,6 +30323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100268,
+      "num": 913795,
+      "word": "出入境政策再优化",
+      "onboard_time": 1684159050,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100235,
       "num": 1589283,
       "word": "激扬青春",
@@ -31137,6 +31241,14 @@
       "onboard_time": 1683617487,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67680,
+      "num": 293644,
+      "word": "武大为2020届毕业生补办毕业典礼",
+      "onboard_time": 1684159590,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 67664,

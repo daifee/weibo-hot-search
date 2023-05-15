@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684157606704,
+  "endTime": 1684160176342,
   "band_list": [
     {
       "raw_hot": 3904532,
@@ -17,6 +17,22 @@
       "onboard_time": 1684153287,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2911046,
+      "num": 2911046,
+      "word": "辽宁总冠军",
+      "onboard_time": 1684158151,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2780806,
+      "num": 544891,
+      "word": "颜九 温精灵",
+      "onboard_time": 1684157374,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 2612914,
@@ -57,6 +73,14 @@
       "onboard_time": 1684153047,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1893340,
+      "num": 519877,
+      "word": "颜九要求温精灵公开道歉",
+      "onboard_time": 1684158512,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 1805448,
@@ -323,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 925032,
+      "num": 925032,
+      "word": "郭艾伦",
+      "onboard_time": 1684159110,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 904275,
       "num": 904275,
       "word": "办公室一天讲不了2句话",
@@ -355,6 +387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 825082,
+      "num": 825082,
+      "word": "赵继伟蝉联FMVP",
+      "onboard_time": 1684159529,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 819604,
       "num": 819604,
       "word": "曲婉婷2套房产起拍价450万元",
@@ -377,6 +417,14 @@
       "onboard_time": 1684105399,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 799139,
+      "num": 403141,
+      "word": "月薪5000真的很低吗",
+      "onboard_time": 1684156949,
+      "rank": 21,
+      "category": "社会议题"
     },
     {
       "raw_hot": 770435,
@@ -475,6 +523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 644941,
+      "num": 644941,
+      "word": "CBA总决赛",
+      "onboard_time": 1684150467,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 640086,
       "num": 640086,
       "word": "朱珠爷爷给她起的名字",
@@ -547,12 +603,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 515890,
-      "num": 515890,
-      "word": "CBA总决赛",
-      "onboard_time": 1684150467,
-      "rank": 20,
-      "category": "体育"
+      "raw_hot": 514229,
+      "num": 402503,
+      "word": "一不小心翻到董事长工资",
+      "onboard_time": 1684146749,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 491073,
@@ -619,20 +675,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 464824,
+      "num": 464824,
+      "word": "任权直播还钱",
+      "onboard_time": 1684158755,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 463302,
       "num": 463302,
       "word": "足浴技师称被灌醉遭性侵获立案",
       "onboard_time": 1684129829,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 460002,
-      "num": 402503,
-      "word": "一不小心翻到董事长工资",
-      "onboard_time": 1684146749,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 457176,
@@ -795,20 +851,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 386619,
-      "num": 349819,
-      "word": "月薪5000真的很低吗",
-      "onboard_time": 1684156949,
-      "rank": 21,
-      "category": "社会议题"
-    },
-    {
-      "raw_hot": 371176,
-      "num": 371176,
-      "word": "颜九 温精灵",
-      "onboard_time": 1684157374,
-      "rank": 19,
-      "category": "网红"
+      "raw_hot": 387314,
+      "num": 387314,
+      "word": "辽宁队史第三冠",
+      "onboard_time": 1684159770,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 364907,
@@ -856,6 +904,14 @@
       "word": "易烊千玺实体专辑6斤重",
       "onboard_time": 1684117405,
       "rank": 26,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 346107,
+      "num": 346107,
+      "word": "林彦俊深夜唱歌扰民",
+      "onboard_time": 1684158991,
+      "rank": 25,
       "category": "音乐"
     },
     {
@@ -923,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324912,
+      "num": 324912,
+      "word": "辽宁男篮抛起杨鸣",
+      "onboard_time": 1684159468,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 319280,
       "num": 319280,
       "word": "吴谨言再现魏璎珞",
@@ -956,7 +1020,7 @@
     },
     {
       "raw_hot": 310343,
-      "num": 264093,
+      "num": 271030,
       "word": "官方回应女子捆绑2女儿河中身亡",
       "onboard_time": 1684155027,
       "rank": 46,
@@ -1035,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 280214,
+      "num": 280214,
+      "word": "谈恋爱一周亏了几千块钱",
+      "onboard_time": 1684157910,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 279958,
       "num": 279958,
       "word": "梁静茹新歌",
@@ -1073,6 +1145,14 @@
       "onboard_time": 1684128569,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 273617,
+      "num": 273617,
+      "word": "莫兰德疯狂抢断",
+      "onboard_time": 1684158451,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 268753,
@@ -1131,12 +1211,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 257470,
+      "num": 257470,
+      "word": "爸爸买漂亮小裙子女儿激动尖叫",
+      "onboard_time": 1684157252,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253331,
       "num": 253331,
       "word": "曾可妮腰上挂着公司的logo",
       "onboard_time": 1684149926,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252363,
+      "num": 252363,
+      "word": "港妹能不能吃点好的",
+      "onboard_time": 1684158512,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 251142,
+      "num": 251142,
+      "word": "姚明现场观看总决赛",
+      "onboard_time": 1684158029,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 249099,
@@ -1708,7 +1812,7 @@
     },
     {
       "raw_hot": 179245,
-      "num": 180490,
+      "num": 182869,
       "word": "2023腾讯游戏发布会",
       "onboard_time": 1684155509,
       "rank": 37,
@@ -2195,14 +2299,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 126303,
-      "num": 126303,
-      "word": "爸爸买漂亮小裙子女儿激动尖叫",
-      "onboard_time": 1684157252,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124783,
       "num": 150441,
       "word": "光与夜之恋",
@@ -2331,6 +2427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 100268,
+      "num": 913795,
+      "word": "出入境政策再优化",
+      "onboard_time": 1684159050,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96915,
       "num": 96915,
       "word": "杰尼斯社长道歉",
@@ -2409,6 +2513,14 @@
       "onboard_time": 1684144467,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 67680,
+      "num": 293644,
+      "word": "武大为2020届毕业生补办毕业典礼",
+      "onboard_time": 1684159590,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 65587,
