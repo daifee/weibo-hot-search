@@ -1,0 +1,410 @@
+{
+  "runTime": 1684146843077,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3042877,
+        "num": 3042877,
+        "word": "你支持全面禁止老头乐吗",
+        "onboard_time": 1684138827,
+        "rank": 0,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 387697,
+        "num": 2052939,
+        "word": "母亲见牙医像已故女儿瞬间落泪",
+        "onboard_time": 1684133668,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23313,
+        "num": 1604436,
+        "word": "关注2023中关村论坛",
+        "onboard_time": 1684137808,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1530229,
+        "num": 1530229,
+        "word": "韩国女性被献给美国大兵遭蹂躏数十年",
+        "onboard_time": 1684144588,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206338,
+        "num": 1484018,
+        "word": "80岁奶奶3小时跑完半马",
+        "onboard_time": 1684140510,
+        "rank": 4,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1461180,
+        "num": 1461180,
+        "word": "文旅部门介入调查House不当言论",
+        "onboard_time": 1684143389,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 154691,
+        "num": 1422626,
+        "word": "阿尔兹海默症老人深山走失被警犬寻回",
+        "onboard_time": 1684146267,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1392162,
+        "num": 1392162,
+        "word": "笑果无限期停止house演艺工作",
+        "onboard_time": 1684133490,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 907536,
+        "num": 907536,
+        "word": "窦靖童和王菲是怎么认识的",
+        "onboard_time": 1684137508,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 873271,
+        "num": 873271,
+        "word": "gidle 抄袭",
+        "onboard_time": 1684134690,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 933553,
+        "num": 869176,
+        "word": "释小龙给郝劭文当伴郎",
+        "onboard_time": 1684144889,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 828463,
+        "num": 828463,
+        "word": "加拿大模特在中国坐月子",
+        "onboard_time": 1684133608,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 610016,
+        "num": 610016,
+        "word": "洞洞鞋",
+        "onboard_time": 1684138467,
+        "rank": 12,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 576239,
+        "num": 576239,
+        "word": "秋瓷炫工地芭蕾直拍流出",
+        "onboard_time": 1684129526,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 561080,
+        "num": 561080,
+        "word": "house道歉",
+        "onboard_time": 1684133668,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 515866,
+        "num": 515866,
+        "word": "周冬雨刘昊然屈楚萧雪地躺平",
+        "onboard_time": 1684145310,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 467150,
+        "num": 467150,
+        "word": "gidle新歌Queencard",
+        "onboard_time": 1684141895,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 83108,
+        "num": 427141,
+        "word": "出行路上有哪些温暖时刻",
+        "onboard_time": 1684144050,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 423855,
+        "num": 423855,
+        "word": "难听",
+        "onboard_time": 1684143268,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 389821,
+        "num": 389821,
+        "word": "刘丹母亲节拒谈杨幂",
+        "onboard_time": 1684130608,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342843,
+        "num": 342843,
+        "word": "笑果旗下艺人多次违法被处罚",
+        "onboard_time": 1684145367,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 330576,
+        "num": 330576,
+        "word": "宋小宝 王嘉尔",
+        "onboard_time": 1684131147,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326554,
+        "num": 326554,
+        "word": "下班在地铁上被公司辞退了",
+        "onboard_time": 1684141289,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312368,
+        "num": 312368,
+        "word": "老头乐",
+        "onboard_time": 1684146389,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288835,
+        "num": 288835,
+        "word": "建议蔡少芬再多点直拍",
+        "onboard_time": 1684143688,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285682,
+        "num": 285682,
+        "word": "老虎剃了毛依然有花纹",
+        "onboard_time": 1684137330,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257584,
+        "num": 257584,
+        "word": "gidle回归",
+        "onboard_time": 1684140269,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243243,
+        "num": 243243,
+        "word": "杨紫阔腿工装裤",
+        "onboard_time": 1684134028,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238576,
+        "num": 238576,
+        "word": "王源的戒断日记",
+        "onboard_time": 1684136308,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 232302,
+        "num": 232302,
+        "word": "30岁前快解决的几个问题",
+        "onboard_time": 1684141707,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229911,
+        "num": 229911,
+        "word": "易烊千玺新专辑售价198元",
+        "onboard_time": 1684135047,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 228060,
+        "num": 228060,
+        "word": "昆工虐猫",
+        "onboard_time": 1684136491,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210691,
+        "num": 210691,
+        "word": "32岁女生相亲角因条件高被男子怼哭",
+        "onboard_time": 1684145851,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208966,
+        "num": 208966,
+        "word": "晚上睡觉时千万不要戴耳机",
+        "onboard_time": 1684142427,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201695,
+        "num": 201695,
+        "word": "原来每个户外人都有阴间照片",
+        "onboard_time": 1684140990,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195112,
+        "num": 195112,
+        "word": "宋雨琦叶舒华贴贴",
+        "onboard_time": 1684145070,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183591,
+        "num": 183591,
+        "word": "男子猝死万幸倒在医生面前",
+        "onboard_time": 1684117887,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179349,
+        "num": 179349,
+        "word": "年度最吸金本科专业出炉",
+        "onboard_time": 1684138709,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 164948,
+        "num": 164948,
+        "word": "初中同学成我导师了",
+        "onboard_time": 1684135169,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161178,
+        "num": 161178,
+        "word": "杨幂宋祖儿裙子穿反了",
+        "onboard_time": 1684136429,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 155662,
+        "num": 155662,
+        "word": "一不小心翻到董事长工资",
+        "onboard_time": 1684146749,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147843,
+        "num": 147843,
+        "word": "这条裤子是不是救过王子奇的命",
+        "onboard_time": 1684133008,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146343,
+        "num": 146343,
+        "word": "江西失踪5岁双胞胎均已身亡",
+        "onboard_time": 1684120589,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143865,
+        "num": 143865,
+        "word": "被相处半年的相亲对象分手了",
+        "onboard_time": 1684136429,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138787,
+        "num": 138787,
+        "word": "张嘉倪为叮叮当当组设计项链",
+        "onboard_time": 1684126775,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133409,
+        "num": 133409,
+        "word": "谢娜主动给组员让词",
+        "onboard_time": 1684140810,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121220,
+        "num": 121220,
+        "word": "考个驾照瘦了10斤了",
+        "onboard_time": 1684140089,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116355,
+        "num": 116355,
+        "word": "张雨绮 去法国看看我的队排到哪儿了",
+        "onboard_time": 1684121370,
+        "rank": 47,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 87033,
+        "num": 115118,
+        "word": "王者荣耀女装",
+        "onboard_time": 1684125695,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 77635,
+        "num": 114487,
+        "word": "榴莲盲盒",
+        "onboard_time": 1684144467,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023春季中国元首外交纪实#"
+    }
+  }
+}
