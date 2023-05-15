@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684160176342,
+  "endTime": 1684161210806,
   "band_list": [
     {
       "raw_hot": 3904532,
@@ -9,6 +9,14 @@
       "onboard_time": 1684138827,
       "rank": 47,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 3236048,
+      "num": 564861,
+      "word": "颜九 温精灵",
+      "onboard_time": 1684157374,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 2998047,
@@ -27,14 +35,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2780806,
-      "num": 544891,
-      "word": "颜九 温精灵",
-      "onboard_time": 1684157374,
-      "rank": 19,
-      "category": "网红"
-    },
-    {
       "raw_hot": 2612914,
       "num": 2612914,
       "word": "笑果无限期停止house演艺工作",
@@ -49,6 +49,14 @@
       "onboard_time": 1684144588,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2278374,
+      "num": 519877,
+      "word": "颜九要求温精灵公开道歉",
+      "onboard_time": 1684158512,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 2012983,
@@ -73,14 +81,6 @@
       "onboard_time": 1684153047,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1893340,
-      "num": 519877,
-      "word": "颜九要求温精灵公开道歉",
-      "onboard_time": 1684158512,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 1805448,
@@ -193,6 +193,22 @@
       "onboard_time": 1684133668,
       "rank": 4,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1403822,
+      "num": 1403822,
+      "word": "月薪5000真的很低吗",
+      "onboard_time": 1684156949,
+      "rank": 21,
+      "category": "社会议题"
+    },
+    {
+      "raw_hot": 1362649,
+      "num": 1362649,
+      "word": "郭艾伦",
+      "onboard_time": 1684159110,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1359869,
@@ -347,14 +363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 925032,
-      "num": 925032,
-      "word": "郭艾伦",
-      "onboard_time": 1684159110,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 904275,
       "num": 904275,
       "word": "办公室一天讲不了2句话",
@@ -417,14 +425,6 @@
       "onboard_time": 1684105399,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 799139,
-      "num": 403141,
-      "word": "月薪5000真的很低吗",
-      "onboard_time": 1684156949,
-      "rank": 21,
-      "category": "社会议题"
     },
     {
       "raw_hot": 770435,
@@ -571,6 +571,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 576095,
+      "num": 469887,
+      "word": "任权直播还钱",
+      "onboard_time": 1684158755,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 560953,
       "num": 560953,
       "word": "凤凰传奇是美依礼芽的榜一",
@@ -675,14 +683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 464824,
-      "num": 464824,
-      "word": "任权直播还钱",
-      "onboard_time": 1684158755,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 463302,
       "num": 463302,
       "word": "足浴技师称被灌醉遭性侵获立案",
@@ -769,6 +769,14 @@
       "onboard_time": 1684141289,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 419124,
+      "num": 419124,
+      "word": "林彦俊深夜唱歌扰民",
+      "onboard_time": 1684158991,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 418562,
@@ -907,14 +915,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 346107,
-      "num": 346107,
-      "word": "林彦俊深夜唱歌扰民",
-      "onboard_time": 1684158991,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 340812,
       "num": 340812,
       "word": "原来每个户外人都有阴间照片",
@@ -993,6 +993,14 @@
       "onboard_time": 1684136909,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318358,
+      "num": 318358,
+      "word": "朱珠直拍 有种不顾我死活的美",
+      "onboard_time": 1684160790,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 313390,
@@ -1099,12 +1107,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 281213,
+      "num": 281213,
+      "word": "爸爸买漂亮小裙子女儿激动尖叫",
+      "onboard_time": 1684157252,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280214,
       "num": 280214,
       "word": "谈恋爱一周亏了几千块钱",
       "onboard_time": 1684157910,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 280064,
+      "num": 280064,
+      "word": "港妹能不能吃点好的",
+      "onboard_time": 1684158512,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 279958,
@@ -1211,14 +1235,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 257470,
-      "num": 257470,
-      "word": "爸爸买漂亮小裙子女儿激动尖叫",
-      "onboard_time": 1684157252,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 253331,
       "num": 253331,
       "word": "曾可妮腰上挂着公司的logo",
@@ -1227,19 +1243,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 252363,
-      "num": 252363,
-      "word": "港妹能不能吃点好的",
-      "onboard_time": 1684158512,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 251142,
       "num": 251142,
       "word": "姚明现场观看总决赛",
       "onboard_time": 1684158029,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 250576,
+      "num": 250576,
+      "word": "姚明的脸",
+      "onboard_time": 1684161030,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -1651,6 +1667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 196081,
+      "num": 196081,
+      "word": "一年半年才发一次朋友圈",
+      "onboard_time": 1684160671,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195658,
       "num": 195658,
       "word": "宋浩老师回应高数视频播放破亿",
@@ -1795,6 +1819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180804,
+      "num": 180804,
+      "word": "我为奶牛猫发声",
+      "onboard_time": 1684160491,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179977,
       "num": 179977,
       "word": "谢娜主动给组员让词",
@@ -1889,6 +1921,14 @@
       "onboard_time": 1684108407,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 172224,
+      "num": 1379542,
+      "word": "出入境政策再优化",
+      "onboard_time": 1684159050,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170791,
@@ -2347,6 +2387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 109558,
+      "num": 293644,
+      "word": "武大为2020届毕业生补办毕业典礼",
+      "onboard_time": 1684159590,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 108758,
       "num": 189903,
       "word": "你的紧急联系人是谁",
@@ -2427,14 +2475,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 100268,
-      "num": 913795,
-      "word": "出入境政策再优化",
-      "onboard_time": 1684159050,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 96915,
       "num": 96915,
       "word": "杰尼斯社长道歉",
@@ -2513,14 +2553,6 @@
       "onboard_time": 1684144467,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 67680,
-      "num": 293644,
-      "word": "武大为2020届毕业生补办毕业典礼",
-      "onboard_time": 1684159590,
-      "rank": 29,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 65587,
