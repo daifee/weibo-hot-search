@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684121612988,
+  "endTime": 1684124410975,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1403,6 +1403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1805448,
+      "num": 1805448,
+      "word": "江西失踪5岁双胞胎均已身亡",
+      "onboard_time": 1684120589,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1804705,
       "num": 1804705,
       "word": "杨紫琼王嘉尔牵手",
@@ -1657,6 +1665,14 @@
       "onboard_time": 1683349955,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1697599,
+      "num": 1429037,
+      "word": "张雨绮 去法国看看我的队排到哪儿了",
+      "onboard_time": 1684121370,
+      "rank": 25,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 1695709,
@@ -1985,6 +2001,14 @@
       "onboard_time": 1683817473,
       "rank": 19,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 1571693,
+      "num": 1571693,
+      "word": "朴树报平安",
+      "onboard_time": 1684121670,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1568968,
@@ -3113,14 +3137,6 @@
       "onboard_time": 1683883170,
       "rank": 20,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1246610,
-      "num": 1246610,
-      "word": "江西失踪5岁双胞胎均已身亡",
-      "onboard_time": 1684120589,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1246337,
@@ -6979,6 +6995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 590295,
+      "num": 277588,
+      "word": "辞职后去旅游发朋友圈被说了",
+      "onboard_time": 1684120709,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 588874,
       "num": 588874,
       "word": "不良人",
@@ -7561,6 +7585,14 @@
       "onboard_time": 1683250107,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 550120,
+      "num": 276669,
+      "word": "你赞同演唱会实名制购票吗",
+      "onboard_time": 1684123653,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 549927,
@@ -9065,14 +9097,6 @@
       "onboard_time": 1682928807,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 460550,
-      "num": 269211,
-      "word": "辞职后去旅游发朋友圈被说了",
-      "onboard_time": 1684120709,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 460025,
@@ -10852,7 +10876,7 @@
     },
     {
       "raw_hot": 394952,
-      "num": 268440,
+      "num": 276183,
       "word": "孙怡线下状态",
       "onboard_time": 1684120291,
       "rank": 32,
@@ -11633,6 +11657,14 @@
       "onboard_time": 1683535771,
       "rank": 23,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 367761,
+      "num": 367761,
+      "word": "左耳朵耗子",
+      "onboard_time": 1684123892,
+      "rank": 13,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 367557,
@@ -14027,6 +14059,14 @@
       "category": "体育,游戏"
     },
     {
+      "raw_hot": 313390,
+      "num": 313390,
+      "word": "戛纳",
+      "onboard_time": 1684119388,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 313034,
       "num": 313034,
       "word": "杭州西湖捞哥是免费的",
@@ -14273,6 +14313,14 @@
       "onboard_time": 1683813390,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 306352,
+      "num": 306352,
+      "word": "刘耀文又在复盘了",
+      "onboard_time": 1684122992,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 306332,
@@ -14913,14 +14961,6 @@
       "onboard_time": 1684055608,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 293902,
-      "num": 293902,
-      "word": "戛纳",
-      "onboard_time": 1684119388,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 293792,
@@ -16177,6 +16217,14 @@
       "onboard_time": 1683363092,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270896,
+      "num": 270896,
+      "word": "易烊千玺将去戛纳",
+      "onboard_time": 1684124070,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 270844,
@@ -17649,14 +17697,6 @@
       "onboard_time": 1683376228,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 248669,
-      "num": 248669,
-      "word": "张雨绮 去法国看看我的队排到哪儿了",
-      "onboard_time": 1684121370,
-      "rank": 25,
-      "category": "艺人,综艺"
     },
     {
       "raw_hot": 248596,
@@ -19619,12 +19659,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223258,
+      "num": 223258,
+      "word": "21岁了感觉自己还像个小孩",
+      "onboard_time": 1684120709,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 223163,
       "num": 223163,
       "word": "姆巴佩偷袭门将",
       "onboard_time": 1682899047,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222720,
+      "num": 222720,
+      "word": "少年白马醉春风",
+      "onboard_time": 1684122031,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 222617,
@@ -19681,14 +19737,6 @@
       "onboard_time": 1683847645,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221629,
-      "num": 221629,
-      "word": "21岁了感觉自己还像个小孩",
-      "onboard_time": 1684120709,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 221376,
@@ -20819,6 +20867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208699,
+      "num": 208699,
+      "word": "找到秋瓷炫不会跳舞的原因",
+      "onboard_time": 1684123531,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208642,
       "num": 208642,
       "word": "江豚妈妈顶托幼崽长江学游泳",
@@ -21355,6 +21411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 203835,
+      "num": 203835,
+      "word": "当小猫误入大猫打架现场",
+      "onboard_time": 1684120770,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203614,
       "num": 203614,
       "word": "狐妖小红娘竹业篇剧版vs原版",
@@ -21521,6 +21585,14 @@
       "onboard_time": 1683467556,
       "rank": 40,
       "category": "自然"
+    },
+    {
+      "raw_hot": 201844,
+      "num": 201844,
+      "word": "龚俊新剧",
+      "onboard_time": 1684123831,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 201723,
@@ -22929,6 +23001,14 @@
       "onboard_time": 1683328039,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186687,
+      "num": 186687,
+      "word": "被这项奖助学金的名字暖到了",
+      "onboard_time": 1684121791,
+      "rank": 35,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 186642,
@@ -24467,6 +24547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 170261,
+      "num": 170261,
+      "word": "浪姐4好热闹啊",
+      "onboard_time": 1684123111,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170257,
       "num": 170257,
       "word": "宇宙探索编辑部",
@@ -24489,6 +24577,14 @@
       "onboard_time": 1682999368,
       "rank": 43,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 169811,
+      "num": 163960,
+      "word": "李莎旻子带瞿颖Amber吃长沙小龙虾",
+      "onboard_time": 1684121249,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 169792,
@@ -25193,6 +25289,14 @@
       "onboard_time": 1683732511,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161297,
+      "num": 161297,
+      "word": "秋瓷炫好招人心疼",
+      "onboard_time": 1684122751,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 161288,
@@ -26047,14 +26151,6 @@
       "num": 151050,
       "word": "王鹤棣潜意识里的尊重和保护",
       "onboard_time": 1683632789,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 151026,
-      "num": 151026,
-      "word": "李莎旻子带瞿颖Amber吃长沙小龙虾",
-      "onboard_time": 1684121249,
       "rank": 41,
       "category": "综艺"
     },
@@ -27825,14 +27921,6 @@
       "onboard_time": 1684045646,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126038,
-      "num": 126038,
-      "word": "当小猫误入大猫打架现场",
-      "onboard_time": 1684120770,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 125736,
@@ -30180,7 +30268,7 @@
     },
     {
       "raw_hot": 51630,
-      "num": 1248136,
+      "num": 1440222,
       "word": "农忙时节的田野铺开了生机勃勃的画卷",
       "onboard_time": 1684054285,
       "rank": 2,

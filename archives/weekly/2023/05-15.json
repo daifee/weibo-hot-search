@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684121612988,
+  "endTime": 1684124410975,
   "band_list": [
     {
       "raw_hot": 1933885,
@@ -11,6 +11,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1805448,
+      "num": 1805448,
+      "word": "江西失踪5岁双胞胎均已身亡",
+      "onboard_time": 1684120589,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1800785,
       "num": 1800785,
       "word": "黄老师否认一场直播收入百万元",
@@ -19,12 +27,28 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1697599,
+      "num": 1429037,
+      "word": "张雨绮 去法国看看我的队排到哪儿了",
+      "onboard_time": 1684121370,
+      "rank": 25,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 1689828,
       "num": 1689828,
       "word": "男子猝死万幸倒在医生面前",
       "onboard_time": 1684117887,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1571693,
+      "num": 1571693,
+      "word": "朴树报平安",
+      "onboard_time": 1684121670,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1545860,
@@ -65,14 +89,6 @@
       "onboard_time": 1684112426,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1246610,
-      "num": 1246610,
-      "word": "江西失踪5岁双胞胎均已身亡",
-      "onboard_time": 1684120589,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1246337,
@@ -203,12 +219,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 590295,
+      "num": 277588,
+      "word": "辞职后去旅游发朋友圈被说了",
+      "onboard_time": 1684120709,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 560953,
       "num": 560953,
       "word": "凤凰传奇是美依礼芽的榜一",
       "onboard_time": 1684073009,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 550120,
+      "num": 276669,
+      "word": "你赞同演唱会实名制购票吗",
+      "onboard_time": 1684123653,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 488350,
@@ -241,14 +273,6 @@
       "onboard_time": 1684067068,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 460550,
-      "num": 269211,
-      "word": "辞职后去旅游发朋友圈被说了",
-      "onboard_time": 1684120709,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 457176,
@@ -300,11 +324,19 @@
     },
     {
       "raw_hot": 394952,
-      "num": 268440,
+      "num": 276183,
       "word": "孙怡线下状态",
       "onboard_time": 1684120291,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 367761,
+      "num": 367761,
+      "word": "左耳朵耗子",
+      "onboard_time": 1684123892,
+      "rank": 13,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 362768,
@@ -339,6 +371,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 334860,
+      "num": 334860,
+      "word": "A股",
+      "onboard_time": 1684123174,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 313390,
+      "num": 313390,
+      "word": "戛纳",
+      "onboard_time": 1684119388,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 307860,
       "num": 307860,
       "word": "装了个80厘米高的床",
@@ -355,12 +403,12 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 293902,
-      "num": 293902,
-      "word": "戛纳",
-      "onboard_time": 1684119388,
-      "rank": 27,
-      "category": "影视"
+      "raw_hot": 306352,
+      "num": 306352,
+      "word": "刘耀文又在复盘了",
+      "onboard_time": 1684122992,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 293234,
@@ -411,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 270896,
+      "num": 270896,
+      "word": "易烊千玺将去戛纳",
+      "onboard_time": 1684124070,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 268753,
       "num": 173977,
       "word": "90后总裁追星蔡徐坤",
@@ -433,14 +489,6 @@
       "onboard_time": 1684117826,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 248669,
-      "num": 248669,
-      "word": "张雨绮 去法国看看我的队排到哪儿了",
-      "onboard_time": 1684121370,
-      "rank": 25,
-      "category": "艺人,综艺"
     },
     {
       "raw_hot": 247871,
@@ -483,6 +531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 223258,
+      "num": 223258,
+      "word": "21岁了感觉自己还像个小孩",
+      "onboard_time": 1684120709,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 223050,
       "num": 167091,
       "word": "爱奇艺5月6月待播剧",
@@ -491,12 +547,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 221629,
-      "num": 221629,
-      "word": "21岁了感觉自己还像个小孩",
-      "onboard_time": 1684120709,
+      "raw_hot": 222720,
+      "num": 222720,
+      "word": "少年白马醉春风",
+      "onboard_time": 1684122031,
       "rank": 28,
-      "category": "情感"
+      "category": "影视"
     },
     {
       "raw_hot": 215936,
@@ -539,12 +595,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208699,
+      "num": 208699,
+      "word": "找到秋瓷炫不会跳舞的原因",
+      "onboard_time": 1684123531,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206976,
       "num": 206976,
       "word": "来自天堂的两万元结婚礼金",
       "onboard_time": 1684119983,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 203835,
+      "num": 203835,
+      "word": "当小猫误入大猫打架现场",
+      "onboard_time": 1684120770,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 201844,
+      "num": 201844,
+      "word": "龚俊新剧",
+      "onboard_time": 1684123831,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 201521,
@@ -601,6 +681,14 @@
       "onboard_time": 1684093573,
       "rank": 30,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 186687,
+      "num": 186687,
+      "word": "被这项奖助学金的名字暖到了",
+      "onboard_time": 1684121791,
+      "rank": 35,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 185099,
@@ -675,6 +763,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 170261,
+      "num": 170261,
+      "word": "浪姐4好热闹啊",
+      "onboard_time": 1684123111,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 169811,
+      "num": 163960,
+      "word": "李莎旻子带瞿颖Amber吃长沙小龙虾",
+      "onboard_time": 1684121249,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167846,
       "num": 167846,
       "word": "24岁一个朋友都没有正常吗",
@@ -699,6 +803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161297,
+      "num": 161297,
+      "word": "秋瓷炫好招人心疼",
+      "onboard_time": 1684122751,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160425,
       "num": 160425,
       "word": "周一",
@@ -713,14 +825,6 @@
       "onboard_time": 1684106000,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151026,
-      "num": 151026,
-      "word": "李莎旻子带瞿颖Amber吃长沙小龙虾",
-      "onboard_time": 1684121249,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 149773,
@@ -875,16 +979,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 126038,
-      "num": 126038,
-      "word": "当小猫误入大猫打架现场",
-      "onboard_time": 1684120770,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 124783,
-      "num": 125849,
+      "num": 150441,
       "word": "光与夜之恋",
       "onboard_time": 1684117706,
       "rank": 46,
@@ -1124,7 +1220,7 @@
     },
     {
       "raw_hot": 15785,
-      "num": 1185623,
+      "num": 1440222,
       "word": "农忙时节的田野铺开了生机勃勃的画卷",
       "onboard_time": 1684054285,
       "rank": 2,
