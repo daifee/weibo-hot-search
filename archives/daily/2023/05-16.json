@@ -1,6 +1,6 @@
 {
   "startTime": 1684167725625,
-  "endTime": 1684190005533,
+  "endTime": 1684192596689,
   "band_list": [
     {
       "raw_hot": 2734536,
@@ -57,6 +57,14 @@
       "onboard_time": 1684153047,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 737878,
+      "num": 737878,
+      "word": "老爸给我晾的百褶裙",
+      "onboard_time": 1684165291,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 729726,
@@ -123,12 +131,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 435405,
+      "num": 208042,
+      "word": "女子武汉坐高铁遇满车人都在啃鸭脖",
+      "onboard_time": 1684188794,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422206,
       "num": 294252,
       "word": "文旅部门介入调查House不当言论",
       "onboard_time": 1684143389,
       "rank": 15,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 420074,
+      "num": 420074,
+      "word": "广东情侣住酒店凌晨被人开门闯入",
+      "onboard_time": 1684152089,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 374686,
@@ -139,20 +163,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 354216,
-      "num": 314017,
-      "word": "老爸给我晾的百褶裙",
-      "onboard_time": 1684165291,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 328297,
-      "num": 328297,
-      "word": "广东情侣住酒店凌晨被人开门闯入",
-      "onboard_time": 1684152089,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 308545,
+      "num": 201421,
+      "word": "笑果旗下艺人多次违法被处罚",
+      "onboard_time": 1684145367,
+      "rank": 31,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 281790,
@@ -235,12 +251,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193749,
-      "num": 171805,
-      "word": "笑果旗下艺人多次违法被处罚",
-      "onboard_time": 1684145367,
-      "rank": 31,
-      "category": "社会新闻,艺人"
+      "raw_hot": 194947,
+      "num": 194947,
+      "word": "32岁女生相亲角因条件高被男子怼哭",
+      "onboard_time": 1684145851,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191849,
@@ -283,6 +299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152743,
+      "num": 152743,
+      "word": "夫妻结婚33年生下8女1儿",
+      "onboard_time": 1684147289,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147460,
       "num": 147460,
       "word": "怎么没有徐怀钰直拍",
@@ -323,28 +347,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 128710,
-      "num": 128710,
-      "word": "32岁女生相亲角因条件高被男子怼哭",
-      "onboard_time": 1684145851,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120458,
       "num": 120458,
       "word": "港妹能不能吃点好的",
       "onboard_time": 1684158512,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 118216,
-      "num": 118216,
-      "word": "夫妻结婚33年生下8女1儿",
-      "onboard_time": 1684147289,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114102,
@@ -387,12 +395,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 91478,
-      "num": 54436,
-      "word": "女子武汉坐高铁遇满车人都在啃鸭脖",
-      "onboard_time": 1684188794,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 92284,
+      "num": 92284,
+      "word": "只要不欠他的 没必要唯唯诺诺",
+      "onboard_time": 1684177512,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 88614,
@@ -419,12 +427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 66839,
-      "num": 66839,
-      "word": "只要不欠他的 没必要唯唯诺诺",
-      "onboard_time": 1684177512,
-      "rank": 19,
-      "category": "情感"
+      "raw_hot": 74007,
+      "num": 74007,
+      "word": "办公室除了我们都是贵又脆弱的东西",
+      "onboard_time": 1684182852,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 60169,
@@ -459,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 55635,
+      "num": 55635,
+      "word": "为哥哥当眼睛60余年",
+      "onboard_time": 1684191801,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55374,
       "num": 99872,
       "word": "2023腾讯游戏发布会",
@@ -467,15 +483,15 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 53312,
-      "num": 53312,
-      "word": "办公室除了我们都是贵又脆弱的东西",
-      "onboard_time": 1684182852,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 46996,
+      "num": 46996,
+      "word": "G2淘汰",
+      "onboard_time": 1684192341,
+      "rank": 45,
+      "category": "游戏"
     },
     {
-      "raw_hot": 44639,
+      "raw_hot": 45921,
       "num": 50105,
       "word": "过了时效性的事情怎么发朋友圈",
       "onboard_time": 1684172177,
