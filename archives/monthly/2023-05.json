@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684118686781,
+  "endTime": 1684120652432,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1667,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1689828,
+      "num": 1689828,
+      "word": "男子猝死万幸倒在医生面前",
+      "onboard_time": 1684117887,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1685404,
       "num": 1685404,
       "word": "VOGUE官方把蔡徐坤认成王嘉尔",
@@ -2675,6 +2683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1352022,
+      "num": 1352022,
+      "word": "和认识七年的好朋友在一起了",
+      "onboard_time": 1684112426,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1350820,
       "num": 938244,
       "word": "直升机坠落西安白鹿仓景区致3人亡",
@@ -2953,14 +2969,6 @@
       "onboard_time": 1683517108,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1283119,
-      "num": 1283119,
-      "word": "和认识七年的好朋友在一起了",
-      "onboard_time": 1684112426,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 1281127,
@@ -4273,6 +4281,14 @@
       "onboard_time": 1683307097,
       "rank": 1,
       "category": "自然"
+    },
+    {
+      "raw_hot": 967069,
+      "num": 967069,
+      "word": "丈夫去世获赔142万公婆拒认遗腹子",
+      "onboard_time": 1684105399,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 959798,
@@ -5689,14 +5705,6 @@
       "onboard_time": 1683554791,
       "rank": 40,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 727229,
-      "num": 727229,
-      "word": "丈夫去世获赔142万公婆拒认遗腹子",
-      "onboard_time": 1684105399,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 726678,
@@ -9923,14 +9931,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 425785,
-      "num": 425785,
-      "word": "男子猝死万幸倒在医生面前",
-      "onboard_time": 1684117887,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 425784,
       "num": 245652,
       "word": "五个女博士被立案调查",
@@ -10593,6 +10593,14 @@
       "onboard_time": 1683515187,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 400837,
+      "num": 400837,
+      "word": "相思令",
+      "onboard_time": 1684119630,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 400817,
@@ -12907,6 +12915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338555,
+      "num": 296450,
+      "word": "iPhone15将搭堆叠式摄像头",
+      "onboard_time": 1684117587,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 338339,
       "num": 299578,
       "word": "女生称30岁相亲被介绍待离婚男士",
@@ -14723,14 +14739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 296450,
-      "num": 296450,
-      "word": "iPhone15将搭堆叠式摄像头",
-      "onboard_time": 1684117587,
-      "rank": 27,
-      "category": "科技"
-    },
-    {
       "raw_hot": 296221,
       "num": 296221,
       "word": "大英赛",
@@ -15452,7 +15460,7 @@
     },
     {
       "raw_hot": 284207,
-      "num": 259236,
+      "num": 281576,
       "word": "儿子母亲节送花被妈妈拒收",
       "onboard_time": 1684115065,
       "rank": 32,
@@ -15691,6 +15699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279958,
+      "num": 279958,
+      "word": "梁静茹新歌",
+      "onboard_time": 1684119208,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 279954,
       "num": 279954,
       "word": "蔡天凤家属拟用3D技术修复其遗体",
@@ -15889,6 +15905,14 @@
       "onboard_time": 1683804987,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 276150,
+      "num": 232112,
+      "word": "杨颖新剧女扮男装双重身份",
+      "onboard_time": 1684119990,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 276105,
@@ -19307,6 +19331,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 226757,
+      "num": 226757,
+      "word": "戛纳",
+      "onboard_time": 1684119388,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226748,
       "num": 175854,
       "word": "易烊千玺新歌动画预告",
@@ -20041,6 +20073,14 @@
       "onboard_time": 1684022361,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217111,
+      "num": 217111,
+      "word": "3闺蜜连续9年带娃合照定格时光",
+      "onboard_time": 1684119688,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217024,
@@ -21467,6 +21507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201343,
+      "num": 201343,
+      "word": "猫咪吵架上头把自己气晕了",
+      "onboard_time": 1684118608,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 201240,
       "num": 201240,
       "word": "库里 无情的三分机器",
@@ -21513,6 +21561,14 @@
       "onboard_time": 1682953709,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 200863,
+      "num": 200863,
+      "word": "后浪扔外卖剧情是真的",
+      "onboard_time": 1684118729,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 200777,
@@ -21897,6 +21953,14 @@
       "onboard_time": 1683120693,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196621,
+      "num": 196621,
+      "word": "孙怡线下状态",
+      "onboard_time": 1684120291,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 196441,
@@ -24779,6 +24843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 165225,
+      "num": 165225,
+      "word": "如果你是挖呀挖黄老师会怎么做",
+      "onboard_time": 1684120529,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164991,
       "num": 164991,
       "word": "aespa新歌ImUnhappy",
@@ -25233,6 +25305,14 @@
       "onboard_time": 1682862509,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 159476,
+      "num": 159476,
+      "word": "来自天堂的两万元结婚礼金",
+      "onboard_time": 1684119983,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 159332,
@@ -27275,6 +27355,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 131865,
+      "num": 131865,
+      "word": "江西失踪5岁双胞胎均已身亡",
+      "onboard_time": 1684120589,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131648,
       "num": 131648,
       "word": "跑遍34个省区市收集了春天",
@@ -28273,14 +28361,6 @@
       "onboard_time": 1682986224,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 114758,
-      "num": 114758,
-      "word": "猫咪吵架上头把自己气晕了",
-      "onboard_time": 1684118608,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 114430,
@@ -29984,6 +30064,14 @@
       "word": "第一视角看航天员进入天舟六号",
       "onboard_time": 1683898109,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55008,
+      "num": 181346,
+      "word": "免疫力是越高越好吗",
+      "onboard_time": 1684119928,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
