@@ -1,6 +1,6 @@
 {
   "startTime": 1684167725625,
-  "endTime": 1684236812091,
+  "endTime": 1684240554137,
   "band_list": [
     {
       "raw_hot": 3766911,
@@ -123,11 +123,27 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 1674689,
+      "num": 981283,
+      "word": "上海一研究生清晨从宿舍6楼坠亡",
+      "onboard_time": 1684235070,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1672307,
       "num": 567864,
       "word": "章泽天疑怀三胎",
       "onboard_time": 1684215690,
       "rank": 10,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 1590906,
+      "num": 1590906,
+      "word": "程十安澄清",
+      "onboard_time": 1684238549,
+      "rank": 0,
       "category": "网红"
     },
     {
@@ -243,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1139213,
+      "num": 927100,
+      "word": "孟羽童IP属地显示新加坡",
+      "onboard_time": 1684236812,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1104744,
       "num": 504096,
       "word": "沈月在闺蜜婚礼上哭了",
@@ -273,6 +297,14 @@
       "onboard_time": 1684229310,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1029698,
+      "num": 1029698,
+      "word": "TFBOYS恭喜易烊千玺",
+      "onboard_time": 1684230450,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 957366,
@@ -307,28 +339,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 876803,
-      "num": 876803,
-      "word": "TFBOYS恭喜易烊千玺",
-      "onboard_time": 1684230450,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 824974,
       "num": 824974,
       "word": "九尾 剃头",
       "onboard_time": 1684213357,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 820535,
-      "num": 587762,
-      "word": "上海一研究生清晨从宿舍6楼坠亡",
-      "onboard_time": 1684235070,
-      "rank": 30,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 810527,
@@ -384,6 +400,14 @@
       "word": "韩国女性被献给美国大兵遭蹂躏数十年",
       "onboard_time": 1684144588,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 714120,
+      "num": 320337,
+      "word": "家属称事发前大女儿喊爸爸救命",
+      "onboard_time": 1684238549,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -457,6 +481,14 @@
       "onboard_time": 1684221209,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 585744,
+      "num": 361485,
+      "word": "倪妮GUCCI",
+      "onboard_time": 1684236029,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 580477,
@@ -603,6 +635,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 457417,
+      "num": 457417,
+      "word": "人民军队不容冒犯必须敬畏",
+      "onboard_time": 1684235490,
+      "rank": 33,
+      "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 450578,
+      "num": 319757,
+      "word": "唐嫣说今年一定要学会化妆",
+      "onboard_time": 1684235251,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 447213,
       "num": 447213,
       "word": "金曲奖",
@@ -651,6 +699,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 427111,
+      "num": 319555,
+      "word": "杨洋胸针",
+      "onboard_time": 1684238910,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 422206,
       "num": 294252,
       "word": "文旅部门介入调查House不当言论",
@@ -667,12 +723,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 404769,
-      "num": 235573,
-      "word": "唐嫣说今年一定要学会化妆",
-      "onboard_time": 1684235251,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 404394,
+      "num": 319435,
+      "word": "秦昊减肥法第3天差点把自己送走",
+      "onboard_time": 1684239452,
+      "rank": 18,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 400523,
@@ -755,14 +811,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 361485,
-      "num": 361485,
-      "word": "倪妮GUCCI",
-      "onboard_time": 1684236029,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 360107,
       "num": 360107,
       "word": "背调后被降薪降岗",
@@ -785,6 +833,14 @@
       "onboard_time": 1684214430,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 351576,
+      "num": 319121,
+      "word": "没有男的坐过李一桐的副驾",
+      "onboard_time": 1684237592,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 343367,
@@ -849,6 +905,14 @@
       "onboard_time": 1684212394,
       "rank": 23,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 320490,
+      "num": 320490,
+      "word": "每个i人都会有的文件夹名",
+      "onboard_time": 1684236211,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 320456,
@@ -1075,6 +1139,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255737,
+      "num": 319797,
+      "word": "奶奶踩倒梯子悬吊半空3岁娃扶正获亲亲",
+      "onboard_time": 1684238609,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255120,
+      "num": 255120,
+      "word": "刘雯红色薄纱上衣",
+      "onboard_time": 1684238310,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254919,
       "num": 254919,
       "word": "美依礼芽小时候",
@@ -1147,12 +1227,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 233588,
+      "num": 233588,
+      "word": "迪丽热巴佟大为公诉或将下周上线",
+      "onboard_time": 1684239690,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 233212,
+      "num": 263284,
+      "word": "终于把公司熬成双休了",
+      "onboard_time": 1684237828,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 230554,
       "num": 230554,
       "word": "折腰杀青全员盼开播",
       "onboard_time": 1684203505,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 227708,
+      "num": 188603,
+      "word": "易梦玲直播体态",
+      "onboard_time": 1684238549,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 226443,
@@ -1193,6 +1297,14 @@
       "onboard_time": 1684208070,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 220837,
+      "num": 188562,
+      "word": "5月追剧人好忙",
+      "onboard_time": 1684239509,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 220323,
@@ -1259,6 +1371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 213078,
+      "num": 188006,
+      "word": "白鹿晒玲娜贝儿一家",
+      "onboard_time": 1684239989,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210821,
       "num": 210821,
       "word": "种地吧",
@@ -1267,20 +1387,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207857,
-      "num": 203762,
-      "word": "人民军队不容冒犯必须敬畏",
-      "onboard_time": 1684235490,
-      "rank": 33,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 206141,
       "num": 206141,
       "word": "北京市文化执法总队已对笑果立案调查",
       "onboard_time": 1684149150,
       "rank": 24,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 204362,
+      "num": 204362,
+      "word": "只有文科生才知道的梗",
+      "onboard_time": 1684238910,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 202957,
@@ -1387,6 +1507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190118,
+      "num": 190118,
+      "word": "游戏还原老年痴呆患者眼中的世界",
+      "onboard_time": 1684238973,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188858,
       "num": 188858,
       "word": "海底捞被质疑推荐饮料不提费用",
@@ -1448,6 +1576,14 @@
       "word": "刘诗诗狐妖小红娘竹业篇新造型",
       "onboard_time": 1684227930,
       "rank": 43,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 183158,
+      "num": 172837,
+      "word": "hanni新闻图",
+      "onboard_time": 1684240350,
+      "rank": 35,
       "category": "作品衍生"
     },
     {
@@ -1537,6 +1673,14 @@
       "onboard_time": 1684214672,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170123,
+      "num": 131599,
+      "word": "蒋奇明FENDI",
+      "onboard_time": 1684237651,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 165161,
@@ -1683,6 +1827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147225,
+      "num": 131229,
+      "word": "白鹿范丞丞同框跳舞视频",
+      "onboard_time": 1684239268,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 144498,
       "num": 144498,
       "word": "上海广场舞跳极乐净土",
@@ -1691,12 +1843,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144102,
-      "num": 144102,
-      "word": "每个i人都会有的文件夹名",
-      "onboard_time": 1684236211,
-      "rank": 40,
-      "category": "情感"
+      "raw_hot": 144155,
+      "num": 131209,
+      "word": "乔欣身材曲线",
+      "onboard_time": 1684240229,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 143659,
@@ -1819,8 +1971,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132015,
-      "num": 132015,
+      "raw_hot": 132213,
+      "num": 132213,
       "word": "cp29周严",
       "onboard_time": 1684236450,
       "rank": 44,
@@ -1851,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127383,
+      "num": 127383,
+      "word": "宋雨琦菜花头",
+      "onboard_time": 1684240532,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126966,
       "num": 126966,
       "word": "鞋子坏了你还会修吗",
@@ -1875,12 +2035,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121135,
+      "num": 121135,
+      "word": "小蝴蝶和小狗",
+      "onboard_time": 1684236331,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120458,
       "num": 120458,
       "word": "港妹能不能吃点好的",
       "onboard_time": 1684158512,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119485,
+      "num": 119485,
+      "word": "普通人一生大概能赚多少钱",
+      "onboard_time": 1684239631,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 119017,
@@ -1923,6 +2099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 109134,
+      "num": 109134,
+      "word": "新华社",
+      "onboard_time": 1684239811,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107081,
       "num": 107081,
       "word": "只要不欠他的 没必要唯唯诺诺",
@@ -1947,12 +2131,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102122,
-      "num": 102122,
-      "word": "小蝴蝶和小狗",
-      "onboard_time": 1684236331,
+      "raw_hot": 104201,
+      "num": 104201,
+      "word": "苏迪曼杯",
+      "onboard_time": 1684240229,
       "rank": 49,
-      "category": "情感"
+      "category": "体育"
     },
     {
       "raw_hot": 102028,
@@ -1985,6 +2169,14 @@
       "onboard_time": 1684159050,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90706,
+      "num": 319969,
+      "word": "法棍包",
+      "onboard_time": 1684238430,
+      "rank": 14,
+      "category": "时尚"
     },
     {
       "raw_hot": 88614,
