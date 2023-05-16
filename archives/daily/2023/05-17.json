@@ -1,6 +1,6 @@
 {
   "startTime": 1684254143599,
-  "endTime": 1684275357134,
+  "endTime": 1684276402292,
   "band_list": [
     {
       "raw_hot": 2021463,
@@ -331,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148772,
+      "num": 62629,
+      "word": "第一甲第一名状元卷有多强大",
+      "onboard_time": 1684259835,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148524,
       "num": 120437,
       "word": "hanni新闻图",
@@ -387,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122799,
+      "num": 122799,
+      "word": "因为臭脸躲过了一次抢劫",
+      "onboard_time": 1684241013,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120996,
       "num": 122025,
       "word": "人民军队不容冒犯必须敬畏",
@@ -427,28 +443,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 108758,
-      "num": 55486,
-      "word": "第一甲第一名状元卷有多强大",
-      "onboard_time": 1684259835,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105288,
       "num": 105288,
       "word": "以前抗拒后来真香的食物",
       "onboard_time": 1684250555,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 101629,
-      "num": 101629,
-      "word": "因为臭脸躲过了一次抢劫",
-      "onboard_time": 1684241013,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 100760,
@@ -465,6 +465,14 @@
       "onboard_time": 1684256361,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86275,
+      "num": 58025,
+      "word": "线下脱口秀为什么不让录音录像",
+      "onboard_time": 1684272972,
+      "rank": 22,
+      "category": "社会新闻,社会新闻"
     },
     {
       "raw_hot": 79113,
@@ -491,24 +499,24 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 60447,
-      "num": 53877,
-      "word": "线下脱口秀为什么不让录音录像",
-      "onboard_time": 1684272972,
-      "rank": 22,
-      "category": "社会新闻,社会新闻"
-    },
-    {
-      "raw_hot": 46426,
-      "num": 46426,
+      "raw_hot": 66100,
+      "num": 54021,
       "word": "平凡之路父亲出轨道德绑架女儿",
       "onboard_time": 1684272674,
       "rank": 47,
       "category": "影视"
     },
     {
-      "raw_hot": 40198,
-      "num": 40198,
+      "raw_hot": 54901,
+      "num": 45795,
+      "word": "恩施网红浮桥车辆落水施救者发声",
+      "onboard_time": 1684274415,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44241,
+      "num": 44241,
       "word": "国际米兰vsAC米兰",
       "onboard_time": 1684262894,
       "rank": 46,
@@ -516,19 +524,11 @@
     },
     {
       "raw_hot": 29237,
-      "num": 29237,
+      "num": 31315,
       "word": "朱一龙 戛纳",
       "onboard_time": 1684128569,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 26101,
-      "num": 26101,
-      "word": "恩施网红浮桥车辆落水施救者发声",
-      "onboard_time": 1684274415,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11830,
