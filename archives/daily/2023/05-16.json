@@ -1,6 +1,6 @@
 {
   "startTime": 1684167725625,
-  "endTime": 1684218090901,
+  "endTime": 1684218852623,
   "band_list": [
     {
       "raw_hot": 3766911,
@@ -123,6 +123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1274941,
+      "num": 1274941,
+      "word": "浪姐4 成团名单",
+      "onboard_time": 1684216050,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1248034,
       "num": 881385,
       "word": "胧月公主扮演者近照",
@@ -137,14 +145,6 @@
       "onboard_time": 1684200628,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1194864,
-      "num": 1194864,
-      "word": "浪姐4 成团名单",
-      "onboard_time": 1684216050,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1187286,
@@ -275,19 +275,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 682537,
+      "num": 601943,
+      "word": "二阳",
+      "onboard_time": 1684214312,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 610075,
       "num": 377332,
       "word": "胡锡进",
       "onboard_time": 1684204048,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 593856,
-      "num": 593856,
-      "word": "二阳",
-      "onboard_time": 1684214312,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -353,6 +353,14 @@
       "onboard_time": 1684162352,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 513163,
+      "num": 513163,
+      "word": "ofo创始人戴威再次创业",
+      "onboard_time": 1684216590,
+      "rank": 17,
+      "category": "科技"
     },
     {
       "raw_hot": 509140,
@@ -465,14 +473,6 @@
       "onboard_time": 1684210713,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 380416,
-      "num": 380416,
-      "word": "ofo创始人戴威再次创业",
-      "onboard_time": 1684216590,
-      "rank": 17,
-      "category": "科技"
     },
     {
       "raw_hot": 374686,
@@ -641,6 +641,22 @@
       "onboard_time": 1684162830,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 281618,
+      "num": 281618,
+      "word": "9岁女童持续流血2个月确诊患癌",
+      "onboard_time": 1684217429,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279574,
+      "num": 279574,
+      "word": "徐佳莹领跑入围金曲奖",
+      "onboard_time": 1684217549,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 279562,
@@ -859,22 +875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200832,
-      "num": 200832,
-      "word": "徐佳莹领跑入围金曲奖",
-      "onboard_time": 1684217549,
-      "rank": 32,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 199237,
-      "num": 199237,
-      "word": "9岁女童持续流血2个月确诊患癌",
-      "onboard_time": 1684217429,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197846,
       "num": 197846,
       "word": "郭艾伦",
@@ -955,20 +955,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 187276,
+      "num": 187276,
+      "word": "傅菁线下状态",
+      "onboard_time": 1684216531,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185668,
       "num": 185668,
       "word": "梦中的那片海",
       "onboard_time": 1684193844,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 183656,
-      "num": 183656,
-      "word": "傅菁线下状态",
-      "onboard_time": 1684216531,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 182696,
@@ -1019,6 +1019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172773,
+      "num": 172773,
+      "word": "刘柏辛提名最佳女歌手",
+      "onboard_time": 1684218689,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 171227,
       "num": 171227,
       "word": "朱珠曾是MTV天籁村主持人",
@@ -1035,6 +1043,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 161952,
+      "num": 161952,
+      "word": "惜花芷",
+      "onboard_time": 1684217308,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 161827,
       "num": 161827,
       "word": "Amber敬礼梦回fx",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1684161511,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157348,
+      "num": 157348,
+      "word": "毛不易演唱会",
+      "onboard_time": 1684218567,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 156508,
@@ -1179,20 +1203,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119017,
+      "num": 119017,
+      "word": "宋祖儿折腰的妆造",
+      "onboard_time": 1684216171,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 118382,
       "num": 118382,
       "word": "老人幼童反坐扶梯遇险男子回身救人",
       "onboard_time": 1684215931,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115604,
-      "num": 110469,
-      "word": "宋祖儿折腰的妆造",
-      "onboard_time": 1684216171,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 114102,

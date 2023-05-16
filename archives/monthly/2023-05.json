@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684218090901,
+  "endTime": 1684218852623,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -3267,6 +3267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1274941,
+      "num": 1274941,
+      "word": "浪姐4 成团名单",
+      "onboard_time": 1684216050,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1271264,
       "num": 1271264,
       "word": "小说里刀削般的面容找到了",
@@ -3593,14 +3601,6 @@
       "onboard_time": 1683516568,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1194864,
-      "num": 1194864,
-      "word": "浪姐4 成团名单",
-      "onboard_time": 1684216050,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1194485,
@@ -8883,6 +8883,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 513163,
+      "num": 513163,
+      "word": "ofo创始人戴威再次创业",
+      "onboard_time": 1684216590,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 512921,
       "num": 431853,
       "word": "权志龙ins",
@@ -12201,14 +12209,6 @@
       "onboard_time": 1683939749,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 380416,
-      "num": 380416,
-      "word": "ofo创始人戴威再次创业",
-      "onboard_time": 1684216590,
-      "rank": 17,
-      "category": "科技"
     },
     {
       "raw_hot": 380208,
@@ -16875,6 +16875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281618,
+      "num": 281618,
+      "word": "9岁女童持续流血2个月确诊患癌",
+      "onboard_time": 1684217429,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281488,
       "num": 202558,
       "word": "周杰伦倒影MV",
@@ -17025,6 +17033,14 @@
       "onboard_time": 1683856110,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279574,
+      "num": 279574,
+      "word": "徐佳莹领跑入围金曲奖",
+      "onboard_time": 1684217549,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 279562,
@@ -23347,14 +23363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 200832,
-      "num": 200832,
-      "word": "徐佳莹领跑入围金曲奖",
-      "onboard_time": 1684217549,
-      "rank": 32,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 200777,
       "num": 200777,
       "word": "周深的刘海还好吗",
@@ -23505,14 +23513,6 @@
       "onboard_time": 1682931510,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 199237,
-      "num": 199237,
-      "word": "9岁女童持续流血2个月确诊患癌",
-      "onboard_time": 1684217429,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199077,
@@ -24715,6 +24715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 187276,
+      "num": 187276,
+      "word": "傅菁线下状态",
+      "onboard_time": 1684216531,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187182,
       "num": 187182,
       "word": "白敬亭身边好多鞋",
@@ -25065,14 +25073,6 @@
       "onboard_time": 1683858987,
       "rank": 34,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 183656,
-      "num": 183656,
-      "word": "傅菁线下状态",
-      "onboard_time": 1684216531,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 183495,
@@ -26305,6 +26305,14 @@
       "onboard_time": 1683212794,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 172773,
+      "num": 172773,
+      "word": "刘柏辛提名最佳女歌手",
+      "onboard_time": 1684218689,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 172740,
@@ -27641,6 +27649,14 @@
       "onboard_time": 1683905071,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157348,
+      "num": 157348,
+      "word": "毛不易演唱会",
+      "onboard_time": 1684218567,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 157309,
@@ -30539,6 +30555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119017,
+      "num": 119017,
+      "word": "宋祖儿折腰的妆造",
+      "onboard_time": 1684216171,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 118994,
       "num": 114295,
       "word": "马嘉祺假哭",
@@ -30681,14 +30705,6 @@
       "onboard_time": 1683772287,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 115604,
-      "num": 110469,
-      "word": "宋祖儿折腰的妆造",
-      "onboard_time": 1684216171,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 115590,
