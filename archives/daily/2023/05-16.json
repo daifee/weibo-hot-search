@@ -1,6 +1,6 @@
 {
   "startTime": 1684167725625,
-  "endTime": 1684229620507,
+  "endTime": 1684232276228,
   "band_list": [
     {
       "raw_hot": 3766911,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 2045307,
-      "num": 427305,
+      "num": 442670,
       "word": "张根硕肿么了",
       "onboard_time": 1684226851,
       "rank": 10,
@@ -89,6 +89,14 @@
       "onboard_time": 1684194748,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1847879,
+      "num": 1847879,
+      "word": "程十安",
+      "onboard_time": 1684230810,
+      "rank": 0,
+      "category": "网红"
     },
     {
       "raw_hot": 1846343,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 1315085,
-      "num": 786643,
+      "num": 1221278,
       "word": "沈月给闺蜜的证婚词",
       "onboard_time": 1684222949,
       "rank": 6,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 1312456,
-      "num": 426813,
+      "num": 434586,
       "word": "女友穿的太暴露怎么办",
       "onboard_time": 1684223788,
       "rank": 12,
@@ -243,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 995579,
+      "num": 995579,
+      "word": "恩施网红浮桥游览车坠河已有5人身亡",
+      "onboard_time": 1684229310,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 957366,
       "num": 957366,
       "word": "发工资时间看公司",
@@ -299,6 +315,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 775695,
+      "num": 273730,
+      "word": "TFBOYS恭喜易烊千玺",
+      "onboard_time": 1684230450,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 745179,
       "num": 731894,
       "word": "house",
@@ -329,6 +353,14 @@
       "onboard_time": 1684144588,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 707049,
+      "num": 707049,
+      "word": "张雨绮担任法国尼斯旅游文化大使",
+      "onboard_time": 1684227450,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 693807,
@@ -467,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 506196,
+      "num": 1406360,
+      "word": "幼儿断手指的哥闯红灯跑赢12分钟",
+      "onboard_time": 1684227272,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 502709,
       "num": 502709,
       "word": "恩施",
@@ -515,6 +555,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 465955,
+      "num": 430582,
+      "word": "佟丽娅晒和董璇的合照",
+      "onboard_time": 1684229193,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 463575,
       "num": 463575,
       "word": "闲鱼开收软件服务费",
@@ -556,19 +604,11 @@
     },
     {
       "raw_hot": 438736,
-      "num": 268373,
+      "num": 272979,
       "word": "Angelababy的身材比例",
       "onboard_time": 1684228169,
       "rank": 29,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 433570,
-      "num": 285367,
-      "word": "张雨绮担任法国尼斯旅游文化大使",
-      "onboard_time": 1684227450,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 422206,
@@ -649,14 +689,6 @@
       "onboard_time": 1684210713,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 372224,
-      "num": 429123,
-      "word": "幼儿断手指的哥闯红灯跑赢12分钟",
-      "onboard_time": 1684227272,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 370453,
@@ -779,6 +811,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 311409,
+      "num": 311409,
+      "word": "吉娜 大家别笑我了再听一下我的rap",
+      "onboard_time": 1684231530,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 309991,
       "num": 309991,
       "word": "笑果旗下艺人多次违法被处罚",
@@ -803,12 +843,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 292800,
+      "num": 212116,
+      "word": "FENDI红毯",
+      "onboard_time": 1684230090,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 290472,
       "num": 262519,
       "word": "赵丽颖雷佳音或将演清明上河图密码",
       "onboard_time": 1684228049,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 290133,
+      "num": 290133,
+      "word": "这可是五个闺蜜啊",
+      "onboard_time": 1684230090,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 285138,
@@ -875,12 +931,28 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 274225,
+      "num": 274225,
+      "word": "在淄博当烧烤师傅是啥体验",
+      "onboard_time": 1684228468,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 273543,
       "num": 273543,
       "word": "章昊杂志",
       "onboard_time": 1684167325,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 272085,
+      "num": 272085,
+      "word": "笑果文化三年内已有6人被罚",
+      "onboard_time": 1684231168,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271260,
@@ -897,14 +969,6 @@
       "onboard_time": 1684208369,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 265749,
-      "num": 265749,
-      "word": "在淄博当烧烤师傅是啥体验",
-      "onboard_time": 1684228468,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 265180,
@@ -1075,6 +1139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 215516,
+      "num": 193587,
+      "word": "笑果",
+      "onboard_time": 1684230150,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215507,
       "num": 215507,
       "word": "原来周也参加过选秀",
@@ -1123,6 +1195,22 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 204461,
+      "num": 204461,
+      "word": "狗狗跟牛舌吻",
+      "onboard_time": 1684231829,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 203436,
+      "num": 191188,
+      "word": "孙怡身材好辣",
+      "onboard_time": 1684231168,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202957,
       "num": 202957,
       "word": "郁可唯入围金曲奖最佳华语女歌手",
@@ -1145,14 +1233,6 @@
       "onboard_time": 1684221630,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201203,
-      "num": 168576,
-      "word": "佟丽娅晒和董璇的合照",
-      "onboard_time": 1684229193,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 197846,
@@ -1347,20 +1427,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168725,
-      "num": 141588,
+      "raw_hot": 170141,
+      "num": 170141,
       "word": "刘诗诗狐妖小红娘竹业篇新造型",
       "onboard_time": 1684227930,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 166366,
-      "num": 166366,
-      "word": "恩施网红浮桥游览车坠河已有5人身亡",
-      "onboard_time": 1684229310,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164946,
@@ -1401,6 +1473,22 @@
       "onboard_time": 1684161511,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160063,
+      "num": 160063,
+      "word": "宋祖儿一滴泪的演技",
+      "onboard_time": 1684230870,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 159063,
+      "num": 159063,
+      "word": "华表奖两届一起颁",
+      "onboard_time": 1684230509,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 157348,
@@ -1475,6 +1563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147441,
+      "num": 160268,
+      "word": "董明珠曾称赞孟羽童不为外物所动",
+      "onboard_time": 1684230870,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144498,
       "num": 144498,
       "word": "上海广场舞跳极乐净土",
@@ -1532,7 +1628,7 @@
     },
     {
       "raw_hot": 135613,
-      "num": 135613,
+      "num": 339793,
       "word": "男童扶梯跌倒特警飞奔救下",
       "onboard_time": 1684224989,
       "rank": 44,
@@ -1640,6 +1736,14 @@
       "word": "老人幼童反坐扶梯遇险男子回身救人",
       "onboard_time": 1684215931,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117307,
+      "num": 206863,
+      "word": "志愿者自掏腰包陪盲人情侣游扬州",
+      "onboard_time": 1684231649,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
