@@ -1,6 +1,6 @@
 {
   "startTime": 1684167725625,
-  "endTime": 1684204505522,
+  "endTime": 1684205009633,
   "band_list": [
     {
       "raw_hot": 3766911,
@@ -67,6 +67,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1221403,
+      "num": 1221403,
+      "word": "有退休金与没退休金的直观展示",
+      "onboard_time": 1684200628,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1187286,
       "num": 508986,
       "word": "王力宏李靓蕾现身法庭",
@@ -81,14 +89,6 @@
       "onboard_time": 1684194625,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1149570,
-      "num": 1149570,
-      "word": "有退休金与没退休金的直观展示",
-      "onboard_time": 1684200628,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 1104744,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 604331,
+      "num": 604331,
+      "word": "摄影师回应迪丽热巴未修原档生图",
+      "onboard_time": 1684198649,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 591868,
       "num": 591868,
       "word": "女子武汉坐高铁遇满车人都在啃鸭脖",
@@ -177,14 +185,6 @@
       "onboard_time": 1684193844,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 551381,
-      "num": 540311,
-      "word": "摄影师回应迪丽热巴未修原档生图",
-      "onboard_time": 1684198649,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 537809,
@@ -267,6 +267,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 370912,
+      "num": 370912,
+      "word": "村民院子里挖出102枚手榴弹",
+      "onboard_time": 1684202607,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369633,
+      "num": 369633,
+      "word": "油价",
+      "onboard_time": 1684199906,
+      "rank": 42,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 363981,
       "num": 363981,
       "word": "house",
@@ -275,12 +291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 362494,
-      "num": 362494,
-      "word": "油价",
-      "onboard_time": 1684199906,
-      "rank": 42,
-      "category": "财经,社会新闻"
+      "raw_hot": 359476,
+      "num": 359476,
+      "word": "折腰",
+      "onboard_time": 1684203748,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 358497,
@@ -289,14 +305,6 @@
       "onboard_time": 1684195288,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 329376,
-      "num": 329376,
-      "word": "村民院子里挖出102枚手榴弹",
-      "onboard_time": 1684202607,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 326578,
@@ -323,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 319033,
+      "num": 319033,
+      "word": "胡锡进",
+      "onboard_time": 1684204048,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313372,
       "num": 313372,
       "word": "4岁男童在游乐园内遭男子连续暴摔",
@@ -345,14 +361,6 @@
       "onboard_time": 1684195167,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 287632,
-      "num": 287632,
-      "word": "折腰",
-      "onboard_time": 1684203748,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 281790,
@@ -435,14 +443,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 231571,
-      "num": 231571,
-      "word": "胡锡进",
-      "onboard_time": 1684204048,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 230554,
       "num": 230554,
       "word": "折腰杀青全员盼开播",
@@ -459,8 +459,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 218549,
-      "num": 218549,
+      "raw_hot": 220323,
+      "num": 220323,
       "word": "女童落水被冲走两小伙飞奔救人",
       "onboard_time": 1684202607,
       "rank": 32,
@@ -499,6 +499,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 198313,
+      "num": 198313,
+      "word": "饭局上客户说菜点多了",
+      "onboard_time": 1684204646,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 197846,
       "num": 197846,
       "word": "郭艾伦",
@@ -521,6 +529,14 @@
       "onboard_time": 1684145851,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193923,
+      "num": 193923,
+      "word": "杀我别用毕业刀",
+      "onboard_time": 1684204646,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 192466,
@@ -569,6 +585,14 @@
       "onboard_time": 1684161453,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177344,
+      "num": 177344,
+      "word": "最受青年观众欢迎十年十部优秀影片",
+      "onboard_time": 1684204407,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 164596,
@@ -624,14 +648,6 @@
       "word": "肖战李沁梦中的那片海播出时间",
       "onboard_time": 1684152627,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 135274,
-      "num": 135274,
-      "word": "最受青年观众欢迎十年十部优秀影片",
-      "onboard_time": 1684204407,
-      "rank": 43,
       "category": "影视"
     },
     {
@@ -771,7 +787,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 61303,
+      "raw_hot": 61811,
       "num": 129214,
       "word": "浙江名小吃十佳榜单出炉",
       "onboard_time": 1684196010,
