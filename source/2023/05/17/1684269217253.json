@@ -1,0 +1,410 @@
+{
+  "runTime": 1684269217253,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 153638,
+        "num": 153638,
+        "word": "温精灵道歉",
+        "onboard_time": 1684242336,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 128825,
+        "num": 128825,
+        "word": "戛纳红毯",
+        "onboard_time": 1684256481,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2399,
+        "num": 120294,
+        "word": "经济运行延续恢复向好态势",
+        "onboard_time": 1684224210,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 114788,
+        "num": 114788,
+        "word": "香港碎尸名媛蔡天凤丈夫发声",
+        "onboard_time": 1684250615,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80171,
+        "num": 80171,
+        "word": "唐艺昕脚腕纹身",
+        "onboard_time": 1684249174,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79110,
+        "num": 79110,
+        "word": "苗苗称与郑恺住的房子是租的",
+        "onboard_time": 1684240592,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68931,
+        "num": 68931,
+        "word": "关晓彤戛纳",
+        "onboard_time": 1684256303,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 56931,
+        "num": 56931,
+        "word": "因为臭脸躲过了一次抢劫",
+        "onboard_time": 1684241013,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 51947,
+        "num": 51947,
+        "word": "病人被医生遗忘在磁共振舱近三小时",
+        "onboard_time": 1684245813,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38692,
+        "num": 38692,
+        "word": "秦昊减肥法第3天差点把自己送走",
+        "onboard_time": 1684239452,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 42248,
+        "num": 38508,
+        "word": "巩俐戛纳生图",
+        "onboard_time": 1684257438,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41694,
+        "num": 38434,
+        "word": "五月天演唱会黄牛票价格跌近万元",
+        "onboard_time": 1684248275,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 38124,
+        "num": 38124,
+        "word": "董明珠曾称孟羽童拒绝两年内加薪",
+        "onboard_time": 1684243055,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37834,
+        "num": 37834,
+        "word": "他选择了评论最多的调头方式",
+        "onboard_time": 1684253489,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37107,
+        "num": 37107,
+        "word": "徐娇",
+        "onboard_time": 1684251333,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35150,
+        "num": 35150,
+        "word": "月初和月底发工资有什么区别",
+        "onboard_time": 1684248218,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29319,
+        "num": 29319,
+        "word": "戛纳红毯还得看女明星",
+        "onboard_time": 1684251272,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29259,
+        "num": 29259,
+        "word": "上海一研究生清晨从宿舍6楼坠亡",
+        "onboard_time": 1684235070,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 27852,
+        "num": 27852,
+        "word": "戛纳",
+        "onboard_time": 1684255943,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26651,
+        "num": 26651,
+        "word": "何同学 视频封面点击率测试",
+        "onboard_time": 1684251755,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 36575,
+        "num": 26609,
+        "word": "速度与激情10",
+        "onboard_time": 1684252110,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30352,
+        "num": 26604,
+        "word": "广东妈妈岗工资开到12000元",
+        "onboard_time": 1684256361,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27165,
+        "num": 26569,
+        "word": "孟羽童IP属地显示新加坡",
+        "onboard_time": 1684236812,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26526,
+        "num": 26526,
+        "word": "Angelababy红毯生图状态",
+        "onboard_time": 1684243899,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 24753,
+        "num": 24753,
+        "word": "临盆孕妇遇早高峰铁骑怒吼开道",
+        "onboard_time": 1684253727,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26202,
+        "num": 24614,
+        "word": "张歆艺太瘦了",
+        "onboard_time": 1684248036,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 26081,
+        "num": 24513,
+        "word": "李莎旻子都快抡出火星子了",
+        "onboard_time": 1684255044,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24135,
+        "num": 24135,
+        "word": "女子用秦昊减肥法拉吐7天瘦5斤",
+        "onboard_time": 1684244435,
+        "rank": 27,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 23905,
+        "num": 23905,
+        "word": "国际米兰vsAC米兰",
+        "onboard_time": 1684262894,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20702,
+        "num": 20702,
+        "word": "欧冠半决赛",
+        "onboard_time": 1684250854,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38367,
+        "num": 20702,
+        "word": "带两女儿投河溺亡女子父亲发声",
+        "onboard_time": 1684241614,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36518,
+        "num": 20699,
+        "word": "第一甲第一名状元卷有多强大",
+        "onboard_time": 1684259835,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25957,
+        "num": 20693,
+        "word": "朱一龙亮相戛纳红毯",
+        "onboard_time": 1684256123,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25202,
+        "num": 20690,
+        "word": "何超莲婚后首亮相",
+        "onboard_time": 1684254087,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21771,
+        "num": 20687,
+        "word": "程十安澄清",
+        "onboard_time": 1684238549,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 21436,
+        "num": 20685,
+        "word": "颜九 温精灵",
+        "onboard_time": 1684157374,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 20889,
+        "num": 20681,
+        "word": "王一博赛车图",
+        "onboard_time": 1684247135,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20681,
+        "num": 20680,
+        "word": "人民军队不容冒犯必须敬畏",
+        "onboard_time": 1684235490,
+        "rank": 37,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 20054,
+        "num": 20054,
+        "word": "G2翻盘BLG",
+        "onboard_time": 1684244736,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19263,
+        "num": 20054,
+        "word": "谁给金子涵做的妆造",
+        "onboard_time": 1684245514,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18314,
+        "num": 20045,
+        "word": "孔雪儿风格",
+        "onboard_time": 1684243114,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19322,
+        "num": 20041,
+        "word": "朱一龙 戛纳",
+        "onboard_time": 1684128569,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16674,
+        "num": 20037,
+        "word": "沈月给闺蜜的证婚词",
+        "onboard_time": 1684222949,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16570,
+        "num": 20031,
+        "word": "男子偷偷用打火机点燃女子的裙边",
+        "onboard_time": 1684246297,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16542,
+        "num": 20026,
+        "word": "我现在的情绪真的很稳定",
+        "onboard_time": 1684244856,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16163,
+        "num": 20023,
+        "word": "赵露思陈哲远偷偷藏不住集数变更",
+        "onboard_time": 1684249596,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15661,
+        "num": 20022,
+        "word": "也没有男生考得比我好呀",
+        "onboard_time": 1684242213,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 13303,
+        "num": 20016,
+        "word": "以前抗拒后来真香的食物",
+        "onboard_time": 1684250555,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 11499,
+        "num": 20012,
+        "word": "只有文科生才知道的梗",
+        "onboard_time": 1684238910,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 10101,
+        "num": 20008,
+        "word": "G2对战BLG",
+        "onboard_time": 1684242272,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国元首外交热度不减又攀新峰#"
+    }
+  }
+}
