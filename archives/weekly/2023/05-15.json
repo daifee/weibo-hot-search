@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684201764405,
+  "endTime": 1684204505522,
   "band_list": [
     {
       "raw_hot": 3904532,
@@ -19,7 +19,7 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 3450068,
+      "raw_hot": 3766911,
       "num": 3450068,
       "word": "是否该永久封杀house",
       "onboard_time": 1684199969,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1663346,
+      "num": 1663346,
+      "word": "以为吴京和郭帆结婚了",
+      "onboard_time": 1684202427,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1574227,
       "num": 1574227,
       "word": "笑果",
@@ -225,6 +233,14 @@
       "onboard_time": 1684133668,
       "rank": 4,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1374267,
+      "num": 1374267,
+      "word": "Ella改文案",
+      "onboard_time": 1684198889,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1362649,
@@ -347,6 +363,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1149570,
+      "num": 1149570,
+      "word": "有退休金与没退休金的直观展示",
+      "onboard_time": 1684200628,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1104744,
       "num": 504096,
       "word": "沈月在闺蜜婚礼上哭了",
@@ -361,14 +385,6 @@
       "onboard_time": 1684130608,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1046009,
-      "num": 1046009,
-      "word": "Ella改文案",
-      "onboard_time": 1684198889,
-      "rank": 8,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1013252,
@@ -732,7 +748,7 @@
     },
     {
       "raw_hot": 551381,
-      "num": 340863,
+      "num": 540311,
       "word": "摄影师回应迪丽热巴未修原档生图",
       "onboard_time": 1684198649,
       "rank": 21,
@@ -955,14 +971,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 407030,
-      "num": 243441,
-      "word": "有退休金与没退休金的直观展示",
-      "onboard_time": 1684200628,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 406391,
       "num": 406391,
       "word": "王源的戒断日记",
@@ -1067,6 +1075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 362494,
+      "num": 362494,
+      "word": "油价",
+      "onboard_time": 1684199906,
+      "rank": 42,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 359555,
       "num": 359555,
       "word": "许凯晒一次腹肌奖励自己两个汉堡",
@@ -1089,14 +1105,6 @@
       "onboard_time": 1684135169,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 356761,
-      "num": 356761,
-      "word": "油价",
-      "onboard_time": 1684199906,
-      "rank": 42,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 355662,
@@ -1195,6 +1203,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 329376,
+      "num": 329376,
+      "word": "村民院子里挖出102枚手榴弹",
+      "onboard_time": 1684202607,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326578,
+      "num": 326578,
+      "word": "选结婚对象什么条件最重要",
+      "onboard_time": 1684201948,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 324912,
       "num": 324912,
       "word": "辽宁男篮抛起杨鸣",
@@ -1208,6 +1232,14 @@
       "word": "笑果刚签署崇德尚艺承诺书",
       "onboard_time": 1684195712,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 320176,
+      "num": 320176,
+      "word": "陈乔恩为奶牛猫发声",
+      "onboard_time": 1684200450,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -1321,6 +1353,14 @@
       "onboard_time": 1684059805,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287632,
+      "num": 287632,
+      "word": "折腰",
+      "onboard_time": 1684203748,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 286625,
@@ -1483,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259112,
+      "num": 259112,
+      "word": "闲鱼开收软件服务费",
+      "onboard_time": 1684202188,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 258626,
       "num": 258626,
       "word": "汶川95后小伙回乡卖光村里的滞销果",
@@ -1619,14 +1667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231815,
-      "num": 231815,
-      "word": "陈乔恩为奶牛猫发声",
-      "onboard_time": 1684200450,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 231688,
       "num": 231688,
       "word": "屈楚萧你另一条胳膊呢",
@@ -1635,12 +1675,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231571,
+      "num": 231571,
+      "word": "胡锡进",
+      "onboard_time": 1684204048,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231278,
       "num": 231278,
       "word": "哈登",
       "onboard_time": 1684106723,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230554,
+      "num": 230554,
+      "word": "折腰杀青全员盼开播",
+      "onboard_time": 1684203505,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 229525,
@@ -1753,6 +1809,14 @@
       "onboard_time": 1684124193,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 218549,
+      "num": 218549,
+      "word": "女童落水被冲走两小伙飞奔救人",
+      "onboard_time": 1684202607,
+      "rank": 32,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 217381,
@@ -2260,7 +2324,7 @@
     },
     {
       "raw_hot": 172224,
-      "num": 1379542,
+      "num": 1396049,
       "word": "出入境政策再优化",
       "onboard_time": 1684159050,
       "rank": 2,
@@ -2603,6 +2667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135274,
+      "num": 135274,
+      "word": "最受青年观众欢迎十年十部优秀影片",
+      "onboard_time": 1684204407,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 134993,
       "num": 112854,
       "word": "林允儿跳了Ditto",
@@ -2665,6 +2737,14 @@
       "onboard_time": 1684138529,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 129292,
+      "num": 129292,
+      "word": "汪小敏一公直拍",
+      "onboard_time": 1684204407,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 128140,
@@ -2996,7 +3076,7 @@
     },
     {
       "raw_hot": 61303,
-      "num": 123287,
+      "num": 129214,
       "word": "浙江名小吃十佳榜单出炉",
       "onboard_time": 1684196010,
       "rank": 49,

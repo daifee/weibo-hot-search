@@ -1,9 +1,9 @@
 {
   "startTime": 1684167725625,
-  "endTime": 1684201764405,
+  "endTime": 1684204505522,
   "band_list": [
     {
-      "raw_hot": 3450068,
+      "raw_hot": 3766911,
       "num": 3450068,
       "word": "是否该永久封杀house",
       "onboard_time": 1684199969,
@@ -51,6 +51,22 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 1663346,
+      "num": 1663346,
+      "word": "以为吴京和郭帆结婚了",
+      "onboard_time": 1684202427,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1374267,
+      "num": 1374267,
+      "word": "Ella改文案",
+      "onboard_time": 1684198889,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1187286,
       "num": 508986,
       "word": "王力宏李靓蕾现身法庭",
@@ -67,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1149570,
+      "num": 1149570,
+      "word": "有退休金与没退休金的直观展示",
+      "onboard_time": 1684200628,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1104744,
       "num": 504096,
       "word": "沈月在闺蜜婚礼上哭了",
@@ -81,14 +105,6 @@
       "onboard_time": 1684153287,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1046009,
-      "num": 1046009,
-      "word": "Ella改文案",
-      "onboard_time": 1684198889,
-      "rank": 8,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 940151,
@@ -164,7 +180,7 @@
     },
     {
       "raw_hot": 551381,
-      "num": 340863,
+      "num": 540311,
       "word": "摄影师回应迪丽热巴未修原档生图",
       "onboard_time": 1684198649,
       "rank": 21,
@@ -235,14 +251,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 407030,
-      "num": 243441,
-      "word": "有退休金与没退休金的直观展示",
-      "onboard_time": 1684200628,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 374686,
       "num": 374686,
       "word": "新版四大甜妹",
@@ -267,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 362494,
+      "num": 362494,
+      "word": "油价",
+      "onboard_time": 1684199906,
+      "rank": 42,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 358497,
       "num": 358497,
       "word": "宁安如梦",
@@ -275,12 +291,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 356761,
-      "num": 356761,
-      "word": "油价",
-      "onboard_time": 1684199906,
-      "rank": 42,
-      "category": "财经,社会新闻"
+      "raw_hot": 329376,
+      "num": 329376,
+      "word": "村民院子里挖出102枚手榴弹",
+      "onboard_time": 1684202607,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326578,
+      "num": 326578,
+      "word": "选结婚对象什么条件最重要",
+      "onboard_time": 1684201948,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 323211,
@@ -288,6 +312,14 @@
       "word": "笑果刚签署崇德尚艺承诺书",
       "onboard_time": 1684195712,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 320176,
+      "num": 320176,
+      "word": "陈乔恩为奶牛猫发声",
+      "onboard_time": 1684200450,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -313,6 +345,14 @@
       "onboard_time": 1684195167,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 287632,
+      "num": 287632,
+      "word": "折腰",
+      "onboard_time": 1684203748,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 281790,
@@ -345,6 +385,14 @@
       "onboard_time": 1684192883,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259112,
+      "num": 259112,
+      "word": "闲鱼开收软件服务费",
+      "onboard_time": 1684202188,
+      "rank": 26,
+      "category": "科技"
     },
     {
       "raw_hot": 257329,
@@ -387,12 +435,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 231815,
-      "num": 231815,
-      "word": "陈乔恩为奶牛猫发声",
-      "onboard_time": 1684200450,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 231571,
+      "num": 231571,
+      "word": "胡锡进",
+      "onboard_time": 1684204048,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230554,
+      "num": 230554,
+      "word": "折腰杀青全员盼开播",
+      "onboard_time": 1684203505,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 225717,
@@ -401,6 +457,14 @@
       "onboard_time": 1684194446,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 218549,
+      "num": 218549,
+      "word": "女童落水被冲走两小伙飞奔救人",
+      "onboard_time": 1684202607,
+      "rank": 32,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 214160,
@@ -563,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 135274,
+      "num": 135274,
+      "word": "最受青年观众欢迎十年十部优秀影片",
+      "onboard_time": 1684204407,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 132618,
       "num": 132618,
       "word": "别让郑秀妍看到浪姐4的伴舞",
@@ -585,6 +657,14 @@
       "onboard_time": 1684162411,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 129292,
+      "num": 129292,
+      "word": "汪小敏一公直拍",
+      "onboard_time": 1684204407,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 127548,
@@ -660,7 +740,7 @@
     },
     {
       "raw_hot": 91393,
-      "num": 1160616,
+      "num": 1396049,
       "word": "出入境政策再优化",
       "onboard_time": 1684159050,
       "rank": 2,
@@ -668,7 +748,7 @@
     },
     {
       "raw_hot": 88614,
-      "num": 125362,
+      "num": 128006,
       "word": "王者敦煌皮肤第四季",
       "onboard_time": 1684156411,
       "rank": 48,
@@ -692,7 +772,7 @@
     },
     {
       "raw_hot": 61303,
-      "num": 123287,
+      "num": 129214,
       "word": "浙江名小吃十佳榜单出炉",
       "onboard_time": 1684196010,
       "rank": 49,
