@@ -1,6 +1,6 @@
 {
   "startTime": 1684167725625,
-  "endTime": 1684210849777,
+  "endTime": 1684211645627,
   "band_list": [
     {
       "raw_hot": 3766911,
@@ -19,6 +19,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2768257,
+      "num": 473037,
+      "word": "李诞",
+      "onboard_time": 1684207349,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2734536,
       "num": 501751,
       "word": "颜九 温精灵",
@@ -35,12 +43,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 2602023,
-      "num": 473037,
-      "word": "李诞",
-      "onboard_time": 1684207349,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 1947777,
+      "num": 1947777,
+      "word": "成都 迪士尼",
+      "onboard_time": 1684208611,
+      "rank": 0,
+      "category": "旅游"
     },
     {
       "raw_hot": 1944796,
@@ -49,14 +57,6 @@
       "onboard_time": 1684194748,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1912910,
-      "num": 1912910,
-      "word": "成都 迪士尼",
-      "onboard_time": 1684208611,
-      "rank": 0,
-      "category": "旅游"
     },
     {
       "raw_hot": 1846343,
@@ -179,8 +179,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 775181,
-      "num": 775181,
+      "raw_hot": 807344,
+      "num": 807344,
       "word": "OPPO德国官网几乎清空",
       "onboard_time": 1684208491,
       "rank": 8,
@@ -227,8 +227,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 651498,
-      "num": 288897,
+      "raw_hot": 687969,
+      "num": 310925,
       "word": "这高铁怎么蛇里蛇气的",
       "onboard_time": 1684208307,
       "rank": 21,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476018,
+      "num": 476018,
+      "word": "上海文旅部门实地调查笑果文化总部",
+      "onboard_time": 1684208307,
+      "rank": 17,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 463575,
       "num": 463575,
       "word": "闲鱼开收软件服务费",
@@ -345,6 +353,14 @@
       "onboard_time": 1684143389,
       "rank": 15,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 406462,
+      "num": 307571,
+      "word": "回领导消息多打了一个字",
+      "onboard_time": 1684210593,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 374686,
@@ -379,6 +395,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 359068,
+      "num": 359068,
+      "word": "3年前救的野猪带3娃回来了",
+      "onboard_time": 1684210472,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358497,
       "num": 358497,
       "word": "宁安如梦",
@@ -387,12 +411,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 346752,
-      "num": 346752,
-      "word": "上海文旅部门实地调查笑果文化总部",
-      "onboard_time": 1684208307,
-      "rank": 17,
-      "category": "社会新闻,艺人"
+      "raw_hot": 342830,
+      "num": 342830,
+      "word": "橘子海",
+      "onboard_time": 1684210713,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 338647,
@@ -427,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 320456,
+      "num": 303688,
+      "word": "矮个子女生才能懂的社死现场",
+      "onboard_time": 1684208130,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 320176,
       "num": 320176,
       "word": "陈乔恩为奶牛猫发声",
@@ -459,6 +491,30 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 305508,
+      "num": 302856,
+      "word": "背调后被降薪降岗",
+      "onboard_time": 1684210291,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 301883,
+      "num": 301883,
+      "word": "当我消费只要超过500时",
+      "onboard_time": 1684209931,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 282702,
+      "num": 282702,
+      "word": "延吉局长回应深夜直播间举牌",
+      "onboard_time": 1684210772,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281790,
       "num": 281790,
       "word": "女明星未修原档生图",
@@ -483,14 +539,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 273509,
-      "num": 273509,
-      "word": "矮个子女生才能懂的社死现场",
-      "onboard_time": 1684208130,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 271260,
       "num": 271260,
       "word": "女生为81岁外婆拍百张治愈系照片",
@@ -505,6 +553,14 @@
       "onboard_time": 1684208369,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264406,
+      "num": 264406,
+      "word": "金曲奖",
+      "onboard_time": 1684210893,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 263270,
@@ -529,22 +585,6 @@
       "onboard_time": 1684197148,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 251184,
-      "num": 251184,
-      "word": "当我消费只要超过500时",
-      "onboard_time": 1684209931,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 249165,
-      "num": 249165,
-      "word": "回领导消息多打了一个字",
-      "onboard_time": 1684210593,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 245708,
@@ -587,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 226289,
+      "num": 226289,
+      "word": "全国首例心脏不停跳人工心脏植入",
+      "onboard_time": 1684211257,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225717,
       "num": 225717,
       "word": "千万不要去熟人公司工作",
@@ -617,6 +665,14 @@
       "onboard_time": 1684133490,
       "rank": 19,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 213922,
+      "num": 213922,
+      "word": "段奕宏终究是错付了",
+      "onboard_time": 1684210593,
+      "rank": 36,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 213571,
@@ -723,28 +779,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 184019,
-      "num": 184019,
-      "word": "延吉局长回应深夜直播间举牌",
-      "onboard_time": 1684210772,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 182696,
       "num": 182696,
       "word": "许凯晒一次腹肌奖励自己两个汉堡",
       "onboard_time": 1684161453,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 179527,
-      "num": 179527,
-      "word": "橘子海",
-      "onboard_time": 1684210713,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 177344,
@@ -755,36 +795,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 175701,
-      "num": 175701,
-      "word": "3年前救的野猪带3娃回来了",
-      "onboard_time": 1684210472,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171962,
-      "num": 171962,
-      "word": "高叶出发戛纳",
-      "onboard_time": 1684206867,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 171397,
-      "num": 171397,
+      "raw_hot": 176177,
+      "num": 176177,
       "word": "原来周也参加过选秀",
       "onboard_time": 1684209870,
       "rank": 43,
       "category": "综艺"
     },
     {
-      "raw_hot": 170323,
-      "num": 170323,
-      "word": "背调后被降薪降岗",
-      "onboard_time": 1684210291,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 175871,
+      "num": 175871,
+      "word": "高叶出发戛纳",
+      "onboard_time": 1684206867,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 164596,

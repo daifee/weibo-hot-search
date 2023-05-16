@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684210849777,
+  "endTime": 1684211645627,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2768257,
+      "num": 473037,
+      "word": "李诞",
+      "onboard_time": 1684207349,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2753617,
       "num": 2753617,
       "word": "26岁我的真实存款",
@@ -561,14 +569,6 @@
       "onboard_time": 1683110071,
       "rank": 5,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 2602023,
-      "num": 473037,
-      "word": "李诞",
-      "onboard_time": 1684207349,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 2598662,
@@ -1283,6 +1283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1947777,
+      "num": 1947777,
+      "word": "成都 迪士尼",
+      "onboard_time": 1684208611,
+      "rank": 0,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1944796,
       "num": 356958,
       "word": "house录音",
@@ -1353,14 +1361,6 @@
       "onboard_time": 1684153047,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1912910,
-      "num": 1912910,
-      "word": "成都 迪士尼",
-      "onboard_time": 1684208611,
-      "rank": 0,
-      "category": "旅游"
     },
     {
       "raw_hot": 1897707,
@@ -5595,6 +5595,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 807344,
+      "num": 807344,
+      "word": "OPPO德国官网几乎清空",
+      "onboard_time": 1684208491,
+      "rank": 8,
+      "category": "科技"
+    },
+    {
       "raw_hot": 806695,
       "num": 806695,
       "word": "男子火车上被陌生人持刀杀害",
@@ -5793,14 +5801,6 @@
       "onboard_time": 1683780692,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 775181,
-      "num": 775181,
-      "word": "OPPO德国官网几乎清空",
-      "onboard_time": 1684208491,
-      "rank": 8,
-      "category": "科技"
     },
     {
       "raw_hot": 771511,
@@ -6571,6 +6571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 687969,
+      "num": 310925,
+      "word": "这高铁怎么蛇里蛇气的",
+      "onboard_time": 1684208307,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 687702,
       "num": 687702,
       "word": "赵继伟三分杀疯了",
@@ -6881,14 +6889,6 @@
       "onboard_time": 1683026368,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 651498,
-      "num": 288897,
-      "word": "这高铁怎么蛇里蛇气的",
-      "onboard_time": 1684208307,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 651227,
@@ -9427,6 +9427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 476018,
+      "num": 476018,
+      "word": "上海文旅部门实地调查笑果文化总部",
+      "onboard_time": 1684208307,
+      "rank": 17,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 475828,
       "num": 310718,
       "word": "论文查重率0%是种什么体验",
@@ -11195,6 +11203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406462,
+      "num": 307571,
+      "word": "回领导消息多打了一个字",
+      "onboard_time": 1684210593,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 406426,
       "num": 300005,
       "word": "易梦玲美黑",
@@ -12891,6 +12907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 359068,
+      "num": 359068,
+      "word": "3年前救的野猪带3娃回来了",
+      "onboard_time": 1684210472,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359059,
       "num": 359059,
       "word": "日本男子阳台蹲守7小时杀害前女友",
@@ -13483,14 +13507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 346752,
-      "num": 346752,
-      "word": "上海文旅部门实地调查笑果文化总部",
-      "onboard_time": 1684208307,
-      "rank": 17,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 346707,
       "num": 286612,
       "word": "乘风4最新人气排名",
@@ -13601,6 +13617,14 @@
       "onboard_time": 1683897808,
       "rank": 29,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 342830,
+      "num": 342830,
+      "word": "橘子海",
+      "onboard_time": 1684210713,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 342719,
@@ -14659,6 +14683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 320456,
+      "num": 303688,
+      "word": "矮个子女生才能懂的社死现场",
+      "onboard_time": 1684208130,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 320244,
       "num": 320244,
       "word": "困困困",
@@ -15379,6 +15411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305508,
+      "num": 302856,
+      "word": "背调后被降薪降岗",
+      "onboard_time": 1684210291,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 305351,
       "num": 298755,
       "word": "今天奔跑吧好多人啊",
@@ -15505,6 +15545,14 @@
       "onboard_time": 1683643050,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 301883,
+      "num": 301883,
+      "word": "当我消费只要超过500时",
+      "onboard_time": 1684209931,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 301788,
@@ -16635,6 +16683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 282702,
+      "num": 282702,
+      "word": "延吉局长回应深夜直播间举牌",
+      "onboard_time": 1684210772,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282701,
       "num": 282701,
       "word": "加拿大",
@@ -17195,14 +17251,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 273509,
-      "num": 273509,
-      "word": "矮个子女生才能懂的社死现场",
-      "onboard_time": 1684208130,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 273388,
       "num": 273388,
       "word": "LGD巅峰对决Hero",
@@ -17761,6 +17809,14 @@
       "onboard_time": 1683730411,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264406,
+      "num": 264406,
+      "word": "金曲奖",
+      "onboard_time": 1684210893,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 263950,
@@ -18675,14 +18731,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 251184,
-      "num": 251184,
-      "word": "当我消费只要超过500时",
-      "onboard_time": 1684209931,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 251179,
       "num": 251179,
       "word": "爱你就要大声说出来",
@@ -18809,14 +18857,6 @@
       "onboard_time": 1683716130,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249165,
-      "num": 249165,
-      "word": "回领导消息多打了一个字",
-      "onboard_time": 1684210593,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 249099,
@@ -20787,6 +20827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226289,
+      "num": 226289,
+      "word": "全国首例心脏不停跳人工心脏植入",
+      "onboard_time": 1684211257,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225717,
       "num": 225717,
       "word": "千万不要去熟人公司工作",
@@ -21849,6 +21897,14 @@
       "onboard_time": 1683725913,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213922,
+      "num": 213922,
+      "word": "段奕宏终究是错付了",
+      "onboard_time": 1684210593,
+      "rank": 36,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 213853,
@@ -24811,14 +24867,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 184019,
-      "num": 184019,
-      "word": "延吉局长回应深夜直播间举牌",
-      "onboard_time": 1684210772,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183842,
       "num": 183842,
       "word": "如果你是挖呀挖黄老师会怎么做",
@@ -25169,14 +25217,6 @@
       "onboard_time": 1683970292,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 179527,
-      "num": 179527,
-      "word": "橘子海",
-      "onboard_time": 1684210713,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 179354,
@@ -25587,6 +25627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 176177,
+      "num": 176177,
+      "word": "原来周也参加过选秀",
+      "onboard_time": 1684209870,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176148,
       "num": 176148,
       "word": "承欢记组讯",
@@ -25643,6 +25691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175871,
+      "num": 175871,
+      "word": "高叶出发戛纳",
+      "onboard_time": 1684206867,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 175866,
       "num": 175866,
       "word": "Uzi直播",
@@ -25665,14 +25721,6 @@
       "onboard_time": 1682991327,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 175701,
-      "num": 175701,
-      "word": "3年前救的野猪带3娃回来了",
-      "onboard_time": 1684210472,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175641,
@@ -26115,14 +26163,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 171962,
-      "num": 171962,
-      "word": "高叶出发戛纳",
-      "onboard_time": 1684206867,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 171669,
       "num": 140523,
       "word": "胡歌走走停停或将5月底开机",
@@ -26145,14 +26185,6 @@
       "onboard_time": 1683676105,
       "rank": 37,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 171397,
-      "num": 171397,
-      "word": "原来周也参加过选秀",
-      "onboard_time": 1684209870,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 171340,
@@ -26249,14 +26281,6 @@
       "onboard_time": 1683418524,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 170323,
-      "num": 170323,
-      "word": "背调后被降薪降岗",
-      "onboard_time": 1684210291,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 170257,
