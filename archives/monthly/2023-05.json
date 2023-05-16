@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684251229704,
+  "endTime": 1684254143599,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -4043,12 +4043,28 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 1128973,
+      "num": 1128973,
+      "word": "唐艺昕脚腕纹身",
+      "onboard_time": 1684249174,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1126440,
       "num": 565571,
       "word": "李承铉说不生三胎是因为妈妈很辛苦",
       "onboard_time": 1683614009,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1125615,
+      "num": 335712,
+      "word": "香港碎尸名媛蔡天凤丈夫发声",
+      "onboard_time": 1684250615,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1124807,
@@ -7123,14 +7139,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 655472,
-      "num": 315852,
-      "word": "唐艺昕脚腕纹身",
-      "onboard_time": 1684249174,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 655296,
       "num": 655296,
       "word": "京东集团CEO徐雷退休",
@@ -7193,6 +7201,14 @@
       "onboard_time": 1684079068,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 645862,
+      "num": 329407,
+      "word": "徐娇",
+      "onboard_time": 1684251333,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 644941,
@@ -11483,6 +11499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 414183,
+      "num": 265583,
+      "word": "戛纳红毯还得看女明星",
+      "onboard_time": 1684251272,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 413853,
       "num": 413853,
       "word": "约基奇 太阳老板",
@@ -11657,6 +11681,14 @@
       "onboard_time": 1683589589,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 407456,
+      "num": 320816,
+      "word": "何同学 视频封面点击率测试",
+      "onboard_time": 1684251755,
+      "rank": 13,
+      "category": "科技"
     },
     {
       "raw_hot": 407386,
@@ -14355,14 +14387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 339557,
-      "num": 185662,
-      "word": "香港碎尸名媛蔡天凤丈夫发声",
-      "onboard_time": 1684250615,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 339243,
       "num": 339243,
       "word": "五月天吧",
@@ -14996,7 +15020,7 @@
     },
     {
       "raw_hot": 327092,
-      "num": 266725,
+      "num": 316643,
       "word": "赵露思陈哲远偷偷藏不住集数变更",
       "onboard_time": 1684249596,
       "rank": 31,
@@ -28579,6 +28603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157607,
+      "num": 157607,
+      "word": "临盆孕妇遇早高峰铁骑怒吼开道",
+      "onboard_time": 1684253727,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157579,
       "num": 157579,
       "word": "宋丹丹叫黄磊爸爸",
@@ -29265,6 +29297,14 @@
       "onboard_time": 1683439228,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150457,
+      "num": 150457,
+      "word": "原来小猫咪在农村是这样洗澡的",
+      "onboard_time": 1684249897,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 150454,
@@ -30795,6 +30835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130971,
+      "num": 130971,
+      "word": "欧冠半决赛",
+      "onboard_time": 1684250854,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130884,
       "num": 130884,
       "word": "8岁男孩爱啃手被妈妈带去做美甲",
@@ -30873,6 +30921,14 @@
       "onboard_time": 1683187649,
       "rank": 46,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 130355,
+      "num": 119862,
+      "word": "速度与激情10",
+      "onboard_time": 1684252110,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 130290,
@@ -31483,14 +31539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121978,
-      "num": 121978,
-      "word": "欧冠半决赛",
-      "onboard_time": 1684250854,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 121811,
       "num": 121811,
       "word": "男朋友送的生日礼物是个钥匙扣",
@@ -31721,6 +31769,14 @@
       "onboard_time": 1683075088,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118553,
+      "num": 118553,
+      "word": "何超莲婚后首亮相",
+      "onboard_time": 1684254087,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 118501,
@@ -32289,6 +32345,14 @@
       "onboard_time": 1683176434,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105288,
+      "num": 121421,
+      "word": "以前抗拒后来真香的食物",
+      "onboard_time": 1684250555,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 105190,
@@ -33105,14 +33169,6 @@
       "onboard_time": 1682941768,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 78743,
-      "num": 121421,
-      "word": "以前抗拒后来真香的食物",
-      "onboard_time": 1684250555,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 77880,
