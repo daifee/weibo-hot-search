@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684200269874,
+  "endTime": 1684201764405,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -145,6 +145,14 @@
       "onboard_time": 1683208174,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3450068,
+      "num": 3450068,
+      "word": "是否该永久封杀house",
+      "onboard_time": 1684199969,
+      "rank": 3,
+      "category": "社会议题,艺人"
     },
     {
       "raw_hot": 3398233,
@@ -811,14 +819,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 2283254,
-      "num": 1113027,
-      "word": "是否该永久封杀house",
-      "onboard_time": 1684199969,
-      "rank": 3,
-      "category": "社会议题,艺人"
-    },
-    {
       "raw_hot": 2282543,
       "num": 2282543,
       "word": "朋友圈发什么最让人反感",
@@ -1275,6 +1275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1944796,
+      "num": 356958,
+      "word": "house录音",
+      "onboard_time": 1684194748,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1941746,
       "num": 679399,
       "word": "王诗龄被吐槽炫富",
@@ -1617,14 +1625,6 @@
       "onboard_time": 1683353789,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1771255,
-      "num": 356958,
-      "word": "house录音",
-      "onboard_time": 1684194748,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1766315,
@@ -4233,6 +4233,14 @@
       "onboard_time": 1683209196,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1046009,
+      "num": 1046009,
+      "word": "Ella改文案",
+      "onboard_time": 1684198889,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1045638,
@@ -8027,6 +8035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 551381,
+      "num": 340863,
+      "word": "摄影师回应迪丽热巴未修原档生图",
+      "onboard_time": 1684198649,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 551306,
       "num": 287472,
       "word": "射雕英雄传侠之大者官宣海报",
@@ -8113,14 +8129,6 @@
       "onboard_time": 1683276747,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 548861,
-      "num": 340863,
-      "word": "摄影师回应迪丽热巴未修原档生图",
-      "onboard_time": 1684198649,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 548129,
@@ -8281,14 +8289,6 @@
       "onboard_time": 1683443729,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 540501,
-      "num": 540501,
-      "word": "Ella改文案",
-      "onboard_time": 1684198889,
-      "rank": 8,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 540491,
@@ -10027,6 +10027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 445344,
+      "num": 445344,
+      "word": "秦昊说自己和伊能静是独立的灵魂",
+      "onboard_time": 1684197210,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 445030,
       "num": 445030,
       "word": "女友去世男子照顾其父母20年",
@@ -11059,6 +11067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 407030,
+      "num": 243441,
+      "word": "有退休金与没退休金的直观展示",
+      "onboard_time": 1684200628,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 406998,
       "num": 356945,
       "word": "粉丝说迪丽热巴不参加芭莎慈善晚会",
@@ -11297,14 +11313,6 @@
       "onboard_time": 1683887908,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 400551,
-      "num": 400551,
-      "word": "秦昊说自己和伊能静是独立的灵魂",
-      "onboard_time": 1684197210,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 400003,
@@ -12841,6 +12849,14 @@
       "onboard_time": 1683604110,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356761,
+      "num": 356761,
+      "word": "油价",
+      "onboard_time": 1684199906,
+      "rank": 42,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 356567,
@@ -14867,6 +14883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 313372,
+      "num": 313372,
+      "word": "4岁男童在游乐园内遭男子连续暴摔",
+      "onboard_time": 1684196128,
+      "rank": 27,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 313259,
       "num": 313259,
       "word": "别让郑秀妍看到浪姐4的伴舞",
@@ -16691,6 +16715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279562,
+      "num": 279562,
+      "word": "麦当劳外卖可乐杯壁内布满霉点",
+      "onboard_time": 1684196069,
+      "rank": 32,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 279549,
       "num": 279549,
       "word": "奔跑吧明晚来听青春歌会",
@@ -17145,14 +17177,6 @@
       "onboard_time": 1683127052,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 270694,
-      "num": 270694,
-      "word": "4岁男童在游乐园内遭男子连续暴摔",
-      "onboard_time": 1684196128,
-      "rank": 27,
-      "category": "社会负面"
     },
     {
       "raw_hot": 270549,
@@ -20099,6 +20123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231815,
+      "num": 231815,
+      "word": "陈乔恩为奶牛猫发声",
+      "onboard_time": 1684200450,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231788,
       "num": 231788,
       "word": "李莎旻子教美依礼芽说长沙话",
@@ -20777,14 +20809,6 @@
       "onboard_time": 1682899047,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 222808,
-      "num": 222808,
-      "word": "麦当劳外卖可乐杯壁内布满霉点",
-      "onboard_time": 1684196069,
-      "rank": 32,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 222617,
@@ -28259,14 +28283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 143102,
-      "num": 143102,
-      "word": "油价",
-      "onboard_time": 1684199906,
-      "rank": 42,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 143066,
       "num": 132269,
       "word": "原来高手真的在民间",
@@ -29025,6 +29041,14 @@
       "onboard_time": 1684153167,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132548,
+      "num": 132548,
+      "word": "粉丝向是枝裕和介绍朱一龙",
+      "onboard_time": 1684201709,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 132533,
@@ -31828,7 +31852,7 @@
     },
     {
       "raw_hot": 61303,
-      "num": 121583,
+      "num": 123287,
       "word": "浙江名小吃十佳榜单出炉",
       "onboard_time": 1684196010,
       "rank": 49,

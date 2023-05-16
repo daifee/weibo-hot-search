@@ -1,7 +1,15 @@
 {
   "startTime": 1684167725625,
-  "endTime": 1684200269874,
+  "endTime": 1684201764405,
   "band_list": [
+    {
+      "raw_hot": 3450068,
+      "num": 3450068,
+      "word": "是否该永久封杀house",
+      "onboard_time": 1684199969,
+      "rank": 3,
+      "category": "社会议题,艺人"
+    },
     {
       "raw_hot": 2786707,
       "num": 2786707,
@@ -27,15 +35,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 2283254,
-      "num": 1113027,
-      "word": "是否该永久封杀house",
-      "onboard_time": 1684199969,
-      "rank": 3,
-      "category": "社会议题,艺人"
-    },
-    {
-      "raw_hot": 1771255,
+      "raw_hot": 1944796,
       "num": 356958,
       "word": "house录音",
       "onboard_time": 1684194748,
@@ -81,6 +81,14 @@
       "onboard_time": 1684153287,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1046009,
+      "num": 1046009,
+      "word": "Ella改文案",
+      "onboard_time": 1684198889,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 940151,
@@ -155,20 +163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 548861,
+      "raw_hot": 551381,
       "num": 340863,
       "word": "摄影师回应迪丽热巴未修原档生图",
       "onboard_time": 1684198649,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 540501,
-      "num": 540501,
-      "word": "Ella改文案",
-      "onboard_time": 1684198889,
-      "rank": 8,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 537809,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445344,
+      "num": 445344,
+      "word": "秦昊说自己和伊能静是独立的灵魂",
+      "onboard_time": 1684197210,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 422206,
       "num": 294252,
       "word": "文旅部门介入调查House不当言论",
@@ -227,12 +235,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 400551,
-      "num": 400551,
-      "word": "秦昊说自己和伊能静是独立的灵魂",
-      "onboard_time": 1684197210,
-      "rank": 17,
-      "category": "作品衍生"
+      "raw_hot": 407030,
+      "num": 243441,
+      "word": "有退休金与没退休金的直观展示",
+      "onboard_time": 1684200628,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 374686,
@@ -267,12 +275,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 356761,
+      "num": 356761,
+      "word": "油价",
+      "onboard_time": 1684199906,
+      "rank": 42,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 323211,
       "num": 323211,
       "word": "笑果刚签署崇德尚艺承诺书",
       "onboard_time": 1684195712,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 313372,
+      "num": 313372,
+      "word": "4岁男童在游乐园内遭男子连续暴摔",
+      "onboard_time": 1684196128,
+      "rank": 27,
+      "category": "社会负面"
     },
     {
       "raw_hot": 309991,
@@ -299,20 +323,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 279562,
+      "num": 279562,
+      "word": "麦当劳外卖可乐杯壁内布满霉点",
+      "onboard_time": 1684196069,
+      "rank": 32,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 273543,
       "num": 273543,
       "word": "章昊杂志",
       "onboard_time": 1684167325,
       "rank": 34,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 270694,
-      "num": 270694,
-      "word": "4岁男童在游乐园内遭男子连续暴摔",
-      "onboard_time": 1684196128,
-      "rank": 27,
-      "category": "社会负面"
     },
     {
       "raw_hot": 267168,
@@ -363,20 +387,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 231815,
+      "num": 231815,
+      "word": "陈乔恩为奶牛猫发声",
+      "onboard_time": 1684200450,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225717,
       "num": 225717,
       "word": "千万不要去熟人公司工作",
       "onboard_time": 1684194446,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 222808,
-      "num": 222808,
-      "word": "麦当劳外卖可乐杯壁内布满霉点",
-      "onboard_time": 1684196069,
-      "rank": 32,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 214160,
@@ -393,6 +417,14 @@
       "onboard_time": 1684160671,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 210821,
+      "num": 210821,
+      "word": "种地吧",
+      "onboard_time": 1684197452,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 206141,
@@ -475,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 174911,
-      "num": 174911,
-      "word": "种地吧",
-      "onboard_time": 1684197452,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 164596,
       "num": 164596,
       "word": "你支持全面禁止老头乐吗",
@@ -531,14 +555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143102,
-      "num": 143102,
-      "word": "油价",
-      "onboard_time": 1684199906,
-      "rank": 42,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 142236,
       "num": 142236,
       "word": "肖战李沁梦中的那片海播出时间",
@@ -553,6 +569,14 @@
       "onboard_time": 1684151129,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132548,
+      "num": 132548,
+      "word": "粉丝向是枝裕和介绍朱一龙",
+      "onboard_time": 1684201709,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 132366,
@@ -644,7 +668,7 @@
     },
     {
       "raw_hot": 88614,
-      "num": 121862,
+      "num": 125362,
       "word": "王者敦煌皮肤第四季",
       "onboard_time": 1684156411,
       "rank": 48,
@@ -668,7 +692,7 @@
     },
     {
       "raw_hot": 61303,
-      "num": 121583,
+      "num": 123287,
       "word": "浙江名小吃十佳榜单出炉",
       "onboard_time": 1684196010,
       "rank": 49,
