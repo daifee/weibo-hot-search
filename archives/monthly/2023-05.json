@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684235647317,
+  "endTime": 1684236812091,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -2491,6 +2491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1502590,
+      "num": 1502590,
+      "word": "女子在海底捞拍摄不雅视频",
+      "onboard_time": 1684232313,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1502487,
       "num": 1502487,
       "word": "男子淄博吃烧烤吐槽扇贝肉指甲大",
@@ -2760,14 +2768,6 @@
       "word": "现实版高启兰",
       "onboard_time": 1683588984,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1426255,
-      "num": 1426255,
-      "word": "女子在海底捞拍摄不雅视频",
-      "onboard_time": 1684232313,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -3665,6 +3665,14 @@
       "onboard_time": 1684161030,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1195174,
+      "num": 1195174,
+      "word": "笑果文化三年内已有6人被罚",
+      "onboard_time": 1684231168,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1194913,
@@ -5651,6 +5659,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 820535,
+      "num": 587762,
+      "word": "上海一研究生清晨从宿舍6楼坠亡",
+      "onboard_time": 1684235070,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 820260,
       "num": 820260,
       "word": "与周立波互骂的唐爽被司法拘留十五日",
@@ -5833,14 +5849,6 @@
       "onboard_time": 1683300334,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 791256,
-      "num": 791256,
-      "word": "笑果文化三年内已有6人被罚",
-      "onboard_time": 1684231168,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 790881,
@@ -11571,6 +11579,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 404769,
+      "num": 235573,
+      "word": "唐嫣说今年一定要学会化妆",
+      "onboard_time": 1684235251,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 404677,
       "num": 373542,
       "word": "射雕英雄传",
@@ -13091,6 +13107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361485,
+      "num": 361485,
+      "word": "倪妮GUCCI",
+      "onboard_time": 1684236029,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 361351,
       "num": 361351,
       "word": "长月烬明",
@@ -13945,6 +13969,14 @@
       "onboard_time": 1683375750,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 343367,
+      "num": 343367,
+      "word": "福建农村的房子",
+      "onboard_time": 1684233451,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 343352,
@@ -14819,14 +14851,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 325961,
-      "num": 204815,
-      "word": "上海一研究生清晨从宿舍6楼坠亡",
-      "onboard_time": 1684235070,
-      "rank": 30,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 325957,
       "num": 1485992,
       "word": "深圳男子暴雨天救助流浪猫是野生动物",
@@ -15681,14 +15705,6 @@
       "onboard_time": 1683004051,
       "rank": 39,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 307400,
-      "num": 307400,
-      "word": "福建农村的房子",
-      "onboard_time": 1684233451,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 307033,
@@ -21579,14 +21595,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 222381,
-      "num": 222381,
-      "word": "唐嫣说今年一定要学会化妆",
-      "onboard_time": 1684235251,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 222303,
       "num": 222303,
       "word": "你的存款属于什么级别",
@@ -23011,6 +23019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 207857,
+      "num": 203762,
+      "word": "人民军队不容冒犯必须敬畏",
+      "onboard_time": 1684235490,
+      "rank": 33,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 207852,
       "num": 207852,
       "word": "真的不是不给萌兰种大树",
@@ -23457,14 +23473,6 @@
       "onboard_time": 1683762145,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 203762,
-      "num": 203762,
-      "word": "人民军队不容冒犯必须敬畏",
-      "onboard_time": 1684235490,
-      "rank": 33,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 203614,
@@ -24187,20 +24195,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 196290,
+      "num": 196290,
+      "word": "平底锅文学",
+      "onboard_time": 1684232851,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 196253,
       "num": 137996,
       "word": "还得是赵兆",
       "onboard_time": 1683994468,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 196241,
-      "num": 196241,
-      "word": "平底锅文学",
-      "onboard_time": 1684232851,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 196153,
@@ -27435,6 +27443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 165161,
+      "num": 165161,
+      "word": "吉克隽逸裙子穿反了",
+      "onboard_time": 1684235490,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164991,
       "num": 164991,
       "word": "aespa新歌ImUnhappy",
@@ -28563,6 +28579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152564,
+      "num": 152564,
+      "word": "WBG夏季赛阵容集结",
+      "onboard_time": 1684234950,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 152546,
       "num": 152546,
       "word": "田耕纪",
@@ -29329,6 +29353,14 @@
       "onboard_time": 1684118006,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144102,
+      "num": 144102,
+      "word": "每个i人都会有的文件夹名",
+      "onboard_time": 1684236211,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 143659,
@@ -30236,7 +30268,7 @@
     },
     {
       "raw_hot": 132290,
-      "num": 1031694,
+      "num": 1192637,
       "word": "志愿者自掏腰包陪盲人情侣游扬州",
       "onboard_time": 1684231649,
       "rank": 26,
@@ -30257,6 +30289,14 @@
       "onboard_time": 1683856949,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 132015,
+      "num": 132015,
+      "word": "cp29周严",
+      "onboard_time": 1684236450,
+      "rank": 44,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 131936,
@@ -30296,14 +30336,6 @@
       "word": "王源绿发怼脸镜头",
       "onboard_time": 1683431068,
       "rank": 45,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 130960,
-      "num": 130960,
-      "word": "吉克隽逸裙子穿反了",
-      "onboard_time": 1684235490,
-      "rank": 43,
       "category": "艺人"
     },
     {
@@ -30769,14 +30801,6 @@
       "onboard_time": 1683859828,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125364,
-      "num": 125364,
-      "word": "WBG夏季赛阵容集结",
-      "onboard_time": 1684234950,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 125186,
@@ -31899,6 +31923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 102122,
+      "num": 102122,
+      "word": "小蝴蝶和小狗",
+      "onboard_time": 1684236331,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102038,
       "num": 102038,
       "word": "周深唱向光而行又暖又燃",
@@ -31908,7 +31940,7 @@
     },
     {
       "raw_hot": 102028,
-      "num": 1518007,
+      "num": 1526687,
       "word": "经济运行延续恢复向好态势",
       "onboard_time": 1684224210,
       "rank": 2,

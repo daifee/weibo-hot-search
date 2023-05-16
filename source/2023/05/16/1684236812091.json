@@ -1,0 +1,410 @@
+{
+  "runTime": 1684236812091,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2497991,
+        "num": 2497991,
+        "word": "程十安",
+        "onboard_time": 1684230810,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 334095,
+        "num": 1556557,
+        "word": "幼儿断手指的哥闯红灯跑赢12分钟",
+        "onboard_time": 1684227272,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53936,
+        "num": 1526687,
+        "word": "经济运行延续恢复向好态势",
+        "onboard_time": 1684224210,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1502590,
+        "num": 1502590,
+        "word": "女子在海底捞拍摄不雅视频",
+        "onboard_time": 1684232313,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167421,
+        "num": 1216643,
+        "word": "全国首例心脏不停跳人工心脏植入",
+        "onboard_time": 1684211257,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1195174,
+        "num": 1195174,
+        "word": "笑果文化三年内已有6人被罚",
+        "onboard_time": 1684231168,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128608,
+        "num": 1192637,
+        "word": "志愿者自掏腰包陪盲人情侣游扬州",
+        "onboard_time": 1684231649,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1192538,
+        "num": 1192538,
+        "word": "沈月给闺蜜的证婚词",
+        "onboard_time": 1684222949,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 785405,
+        "num": 785405,
+        "word": "TFBOYS恭喜易烊千玺",
+        "onboard_time": 1684230450,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 674975,
+        "num": 674975,
+        "word": "徐娇回应泳装照争议",
+        "onboard_time": 1684220551,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1049316,
+        "num": 656089,
+        "word": "张根硕肿么了",
+        "onboard_time": 1684226851,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1047796,
+        "num": 621232,
+        "word": "女友穿的太暴露怎么办",
+        "onboard_time": 1684223788,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 820535,
+        "num": 587762,
+        "word": "上海一研究生清晨从宿舍6楼坠亡",
+        "onboard_time": 1684235070,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 527567,
+        "num": 527567,
+        "word": "吉娜 大家别笑我了再听一下我的rap",
+        "onboard_time": 1684231530,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 418014,
+        "num": 418014,
+        "word": "恩施网红浮桥游览车坠河已有5人身亡",
+        "onboard_time": 1684229310,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361485,
+        "num": 361485,
+        "word": "倪妮GUCCI",
+        "onboard_time": 1684236029,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 343367,
+        "num": 343367,
+        "word": "福建农村的房子",
+        "onboard_time": 1684233451,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 309761,
+        "num": 309761,
+        "word": "Angelababy的身材比例",
+        "onboard_time": 1684228169,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 272181,
+        "num": 272181,
+        "word": "护心",
+        "onboard_time": 1684235251,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239254,
+        "num": 239254,
+        "word": "章泽天疑怀三胎",
+        "onboard_time": 1684215690,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 404769,
+        "num": 235573,
+        "word": "唐嫣说今年一定要学会化妆",
+        "onboard_time": 1684235251,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279460,
+        "num": 234910,
+        "word": "狗狗跟牛舌吻",
+        "onboard_time": 1684231829,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 264429,
+        "num": 234523,
+        "word": "感受不到发工资时的快乐了",
+        "onboard_time": 1684233211,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231208,
+        "num": 231208,
+        "word": "发工资时间看公司",
+        "onboard_time": 1684224508,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225602,
+        "num": 225602,
+        "word": "FENDI红毯",
+        "onboard_time": 1684230090,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203191,
+        "num": 203191,
+        "word": "GUCCI早春",
+        "onboard_time": 1684233570,
+        "rank": 25,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 196290,
+        "num": 196290,
+        "word": "平底锅文学",
+        "onboard_time": 1684232851,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192661,
+        "num": 192661,
+        "word": "蔡依林 北京",
+        "onboard_time": 1684222889,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191075,
+        "num": 191075,
+        "word": "侯明昊回应周也",
+        "onboard_time": 1684226550,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91756,
+        "num": 182081,
+        "word": "这高铁怎么蛇里蛇气的",
+        "onboard_time": 1684208307,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207857,
+        "num": 182073,
+        "word": "人民军队不容冒犯必须敬畏",
+        "onboard_time": 1684235490,
+        "rank": 30,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 181069,
+        "num": 181069,
+        "word": "佟丽娅晒和董璇的合照",
+        "onboard_time": 1684229193,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173457,
+        "num": 173457,
+        "word": "孙怡身材好辣",
+        "onboard_time": 1684231168,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170261,
+        "num": 170261,
+        "word": "这可是五个闺蜜啊",
+        "onboard_time": 1684230090,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165161,
+        "num": 165161,
+        "word": "吉克隽逸裙子穿反了",
+        "onboard_time": 1684235490,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157409,
+        "num": 157409,
+        "word": "宋祖儿一滴泪的演技",
+        "onboard_time": 1684230870,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156419,
+        "num": 156419,
+        "word": "笑果",
+        "onboard_time": 1684230150,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152564,
+        "num": 152564,
+        "word": "WBG夏季赛阵容集结",
+        "onboard_time": 1684234950,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151793,
+        "num": 151793,
+        "word": "网友问他手机为啥五枚摄像头",
+        "onboard_time": 1684233630,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148397,
+        "num": 148397,
+        "word": "浪姐4 成团名单",
+        "onboard_time": 1684216050,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144102,
+        "num": 144102,
+        "word": "每个i人都会有的文件夹名",
+        "onboard_time": 1684236211,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142679,
+        "num": 142679,
+        "word": "平凡之路",
+        "onboard_time": 1684236271,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139643,
+        "num": 139643,
+        "word": "起底颜九温精灵背后MCN机构",
+        "onboard_time": 1684223552,
+        "rank": 42,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 137448,
+        "num": 137448,
+        "word": "公诉",
+        "onboard_time": 1684234950,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132015,
+        "num": 132015,
+        "word": "cp29周严",
+        "onboard_time": 1684236450,
+        "rank": 44,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 129459,
+        "num": 129459,
+        "word": "张雨绮担任法国尼斯旅游文化大使",
+        "onboard_time": 1684227450,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120865,
+        "num": 120865,
+        "word": "王俊凯重庆",
+        "onboard_time": 1684219349,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120072,
+        "num": 120072,
+        "word": "为了顶替我老板招了两个人",
+        "onboard_time": 1684222648,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110715,
+        "num": 110715,
+        "word": "崔康熙 主教练",
+        "onboard_time": 1684234049,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102122,
+        "num": 102122,
+        "word": "小蝴蝶和小狗",
+        "onboard_time": 1684236331,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国元首外交热度不减又攀新峰#"
+    }
+  }
+}

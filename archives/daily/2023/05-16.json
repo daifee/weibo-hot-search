@@ -1,6 +1,6 @@
 {
   "startTime": 1684167725625,
-  "endTime": 1684235647317,
+  "endTime": 1684236812091,
   "band_list": [
     {
       "raw_hot": 3766911,
@@ -155,19 +155,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1502590,
+      "num": 1502590,
+      "word": "女子在海底捞拍摄不雅视频",
+      "onboard_time": 1684232313,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1437409,
       "num": 553208,
       "word": "警方通报母女3人手绑一起河中身亡",
       "onboard_time": 1684194625,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1426255,
-      "num": 1426255,
-      "word": "女子在海底捞拍摄不雅视频",
-      "onboard_time": 1684232313,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -217,6 +217,14 @@
       "onboard_time": 1684200628,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1195174,
+      "num": 1195174,
+      "word": "笑果文化三年内已有6人被罚",
+      "onboard_time": 1684231168,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1187286,
@@ -315,6 +323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 820535,
+      "num": 587762,
+      "word": "上海一研究生清晨从宿舍6楼坠亡",
+      "onboard_time": 1684235070,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 810527,
       "num": 810527,
       "word": "中2574万彩票摊主转让摊位",
@@ -329,14 +345,6 @@
       "onboard_time": 1684208491,
       "rank": 8,
       "category": "科技"
-    },
-    {
-      "raw_hot": 791256,
-      "num": 791256,
-      "word": "笑果文化三年内已有6人被罚",
-      "onboard_time": 1684231168,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 745179,
@@ -659,6 +667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 404769,
+      "num": 235573,
+      "word": "唐嫣说今年一定要学会化妆",
+      "onboard_time": 1684235251,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 400523,
       "num": 400523,
       "word": "3年前救的野猪带3娃回来了",
@@ -739,6 +755,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 361485,
+      "num": 361485,
+      "word": "倪妮GUCCI",
+      "onboard_time": 1684236029,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 360107,
       "num": 360107,
       "word": "背调后被降薪降岗",
@@ -761,6 +785,14 @@
       "onboard_time": 1684214430,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 343367,
+      "num": 343367,
+      "word": "福建农村的房子",
+      "onboard_time": 1684233451,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 338647,
@@ -801,14 +833,6 @@
       "onboard_time": 1684201948,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 325961,
-      "num": 204815,
-      "word": "上海一研究生清晨从宿舍6楼坠亡",
-      "onboard_time": 1684235070,
-      "rank": 30,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 323211,
@@ -873,14 +897,6 @@
       "onboard_time": 1684195167,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 307400,
-      "num": 307400,
-      "word": "福建农村的房子",
-      "onboard_time": 1684233451,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 301883,
@@ -993,6 +1009,14 @@
       "onboard_time": 1684167325,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 272181,
+      "num": 272181,
+      "word": "护心",
+      "onboard_time": 1684235251,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 271260,
@@ -1171,14 +1195,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 222381,
-      "num": 222381,
-      "word": "唐嫣说今年一定要学会化妆",
-      "onboard_time": 1684235251,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 220323,
       "num": 220323,
       "word": "女童落水被冲走两小伙飞奔救人",
@@ -1251,12 +1267,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209711,
-      "num": 204203,
-      "word": "护心",
-      "onboard_time": 1684235251,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 207857,
+      "num": 203762,
+      "word": "人民军队不容冒犯必须敬畏",
+      "onboard_time": 1684235490,
+      "rank": 33,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 206141,
@@ -1265,14 +1281,6 @@
       "onboard_time": 1684149150,
       "rank": 24,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 203762,
-      "num": 203762,
-      "word": "人民军队不容冒犯必须敬畏",
-      "onboard_time": 1684235490,
-      "rank": 33,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 202957,
@@ -1323,8 +1331,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 196241,
-      "num": 196241,
+      "raw_hot": 196290,
+      "num": 196290,
       "word": "平底锅文学",
       "onboard_time": 1684232851,
       "rank": 46,
@@ -1531,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165161,
+      "num": 165161,
+      "word": "吉克隽逸裙子穿反了",
+      "onboard_time": 1684235490,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164946,
       "num": 164946,
       "word": "陈绮贞 草莓音乐节",
@@ -1619,6 +1635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152564,
+      "num": 152564,
+      "word": "WBG夏季赛阵容集结",
+      "onboard_time": 1684234950,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 151061,
       "num": 151061,
       "word": "安琪拉追逃游戏新皮肤",
@@ -1667,6 +1691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144102,
+      "num": 144102,
+      "word": "每个i人都会有的文件夹名",
+      "onboard_time": 1684236211,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143659,
       "num": 143659,
       "word": "鹿晗的衣服到底有多小",
@@ -1681,6 +1713,14 @@
       "onboard_time": 1684155027,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142679,
+      "num": 142679,
+      "word": "平凡之路",
+      "onboard_time": 1684236271,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 142477,
@@ -1772,19 +1812,19 @@
     },
     {
       "raw_hot": 132290,
-      "num": 1031694,
+      "num": 1192637,
       "word": "志愿者自掏腰包陪盲人情侣游扬州",
       "onboard_time": 1684231649,
       "rank": 26,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130960,
-      "num": 130960,
-      "word": "吉克隽逸裙子穿反了",
-      "onboard_time": 1684235490,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 132015,
+      "num": 132015,
+      "word": "cp29周严",
+      "onboard_time": 1684236450,
+      "rank": 44,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 129523,
@@ -1825,14 +1865,6 @@
       "onboard_time": 1684227869,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125364,
-      "num": 125364,
-      "word": "WBG夏季赛阵容集结",
-      "onboard_time": 1684234950,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 121204,
@@ -1915,8 +1947,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102122,
+      "num": 102122,
+      "word": "小蝴蝶和小狗",
+      "onboard_time": 1684236331,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102028,
-      "num": 1518007,
+      "num": 1526687,
       "word": "经济运行延续恢复向好态势",
       "onboard_time": 1684224210,
       "rank": 2,
