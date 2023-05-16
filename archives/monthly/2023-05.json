@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684243220330,
+  "endTime": 1684244007643,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -113,6 +113,14 @@
       "onboard_time": 1683540690,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3794042,
+      "num": 3794042,
+      "word": "温精灵道歉",
+      "onboard_time": 1684242336,
+      "rank": 1,
+      "category": "网红"
     },
     {
       "raw_hot": 3766911,
@@ -1371,6 +1379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1934220,
+      "num": 1059924,
+      "word": "苗苗称与郑恺住的房子是租的",
+      "onboard_time": 1684240592,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1931132,
       "num": 1931132,
       "word": "友人称巴厘岛身亡两人已恋爱多年",
@@ -1921,14 +1937,6 @@
       "onboard_time": 1684068687,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1668883,
-      "num": 1059924,
-      "word": "苗苗称与郑恺住的房子是租的",
-      "onboard_time": 1684240592,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 1666718,
@@ -3193,14 +3201,6 @@
       "onboard_time": 1684129526,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1310339,
-      "num": 1310339,
-      "word": "温精灵道歉",
-      "onboard_time": 1684242336,
-      "rank": 1,
-      "category": "网红"
     },
     {
       "raw_hot": 1304241,
@@ -5379,6 +5379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 870813,
+      "num": 870813,
+      "word": "秦昊减肥法第3天差点把自己送走",
+      "onboard_time": 1684239452,
+      "rank": 18,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 867730,
       "num": 974989,
       "word": "新娘互换手捧花发现是高中同学",
@@ -5417,14 +5425,6 @@
       "onboard_time": 1683546988,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 862996,
-      "num": 862996,
-      "word": "秦昊减肥法第3天差点把自己送走",
-      "onboard_time": 1684239452,
-      "rank": 18,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 862995,
@@ -8355,6 +8355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 556635,
+      "num": 556635,
+      "word": "只有文科生才知道的梗",
+      "onboard_time": 1684238910,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 556295,
       "num": 556295,
       "word": "游客手机掉西湖被要1500元打捞费",
@@ -9843,14 +9851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 472135,
-      "num": 472135,
-      "word": "只有文科生才知道的梗",
-      "onboard_time": 1684238910,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 471898,
       "num": 471898,
       "word": "长月烬明第37集预告",
@@ -10977,6 +10977,14 @@
       "onboard_time": 1683018929,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 427735,
+      "num": 360822,
+      "word": "带两女儿投河溺亡女子父亲发声",
+      "onboard_time": 1684241614,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 427722,
@@ -13211,14 +13219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 360822,
-      "num": 360822,
-      "word": "带两女儿投河溺亡女子父亲发声",
-      "onboard_time": 1684241614,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 360805,
       "num": 360805,
       "word": "谢娜陈乔恩同框",
@@ -14595,6 +14595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 333085,
+      "num": 263229,
+      "word": "hanni新闻图",
+      "onboard_time": 1684240350,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 332824,
       "num": 332824,
       "word": "景区回应轨道缆车将孔雀碾压致死",
@@ -14793,6 +14801,14 @@
       "onboard_time": 1683227292,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328403,
+      "num": 254937,
+      "word": "孔雪儿风格",
+      "onboard_time": 1684243114,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 328368,
@@ -15003,14 +15019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 324692,
-      "num": 227309,
-      "word": "hanni新闻图",
-      "onboard_time": 1684240350,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 324624,
       "num": 324624,
       "word": "刘美含 努力争取不丢人",
@@ -15073,6 +15081,14 @@
       "onboard_time": 1683448591,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 322800,
+      "num": 250791,
+      "word": "吴磊戴眼镜",
+      "onboard_time": 1684243295,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 322507,
@@ -17123,6 +17139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284337,
+      "num": 284337,
+      "word": "新华社",
+      "onboard_time": 1684239811,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284327,
       "num": 284327,
       "word": "2官员工作群发不雅信息均被双开",
@@ -18027,6 +18051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269435,
+      "num": 215921,
+      "word": "战损是男人最好的嫁妆",
+      "onboard_time": 1684240891,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 269265,
       "num": 233850,
       "word": "豆瓣评分人数TOP20电视剧",
@@ -18100,7 +18132,7 @@
     },
     {
       "raw_hot": 268296,
-      "num": 192388,
+      "num": 208710,
       "word": "乔欣身材曲线",
       "onboard_time": 1684240229,
       "rank": 42,
@@ -19195,14 +19227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 252994,
-      "num": 175373,
-      "word": "战损是男人最好的嫁妆",
-      "onboard_time": 1684240891,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 252825,
       "num": 252825,
       "word": "在公司上班需要装穷吗",
@@ -20099,6 +20123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 242139,
+      "num": 242139,
+      "word": "因为臭脸躲过了一次抢劫",
+      "onboard_time": 1684241013,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 242096,
       "num": 242096,
       "word": "徐克作品",
@@ -20811,6 +20843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234209,
+      "num": 166672,
+      "word": "也没有男生考得比我好呀",
+      "onboard_time": 1684242213,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 234198,
       "num": 190032,
       "word": "seventeen街头录综艺",
@@ -20889,14 +20929,6 @@
       "onboard_time": 1683288149,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 233289,
-      "num": 212845,
-      "word": "因为臭脸躲过了一次抢劫",
-      "onboard_time": 1684241013,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 233283,
@@ -23315,14 +23347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206819,
-      "num": 206819,
-      "word": "新华社",
-      "onboard_time": 1684239811,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206708,
       "num": 192554,
       "word": "ZB1红毯",
@@ -23721,14 +23745,6 @@
       "onboard_time": 1684068328,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 203045,
-      "num": 159262,
-      "word": "孔雪儿风格",
-      "onboard_time": 1684243114,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 202963,
@@ -24643,6 +24659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 194511,
+      "num": 146477,
+      "word": "李佳琦直播",
+      "onboard_time": 1684243833,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 194457,
       "num": 184124,
       "word": "王一栩说刘诗诗是我们的天选淮竹",
@@ -25369,6 +25393,14 @@
       "onboard_time": 1683980128,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187750,
+      "num": 142498,
+      "word": "Angelababy红毯生图状态",
+      "onboard_time": 1684243899,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 187627,
@@ -26739,6 +26771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 174741,
+      "num": 174741,
+      "word": "普通人一生大概能赚多少钱",
+      "onboard_time": 1684239631,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174630,
       "num": 178184,
       "word": "DRG巅峰对决eStar",
@@ -27483,14 +27523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167561,
-      "num": 167561,
-      "word": "普通人一生大概能赚多少钱",
-      "onboard_time": 1684239631,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 167532,
       "num": 167532,
       "word": "巴萨夺得西甲冠军",
@@ -27561,14 +27593,6 @@
       "onboard_time": 1683035498,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 166672,
-      "num": 166672,
-      "word": "也没有男生考得比我好呀",
-      "onboard_time": 1684242213,
-      "rank": 39,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 166534,

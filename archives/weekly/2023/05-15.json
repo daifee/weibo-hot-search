@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684243220330,
+  "endTime": 1684244007643,
   "band_list": [
     {
       "raw_hot": 3904532,
@@ -17,6 +17,14 @@
       "onboard_time": 1684156949,
       "rank": 21,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 3794042,
+      "num": 3794042,
+      "word": "温精灵道歉",
+      "onboard_time": 1684242336,
+      "rank": 1,
+      "category": "网红"
     },
     {
       "raw_hot": 3766911,
@@ -155,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1934220,
+      "num": 1059924,
+      "word": "苗苗称与郑恺住的房子是租的",
+      "onboard_time": 1684240592,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1933885,
       "num": 307710,
       "word": "王俊凯 扯",
@@ -249,14 +265,6 @@
       "onboard_time": 1684215690,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1668883,
-      "num": 1059924,
-      "word": "苗苗称与郑恺住的房子是租的",
-      "onboard_time": 1684240592,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 1590906,
@@ -433,14 +441,6 @@
       "onboard_time": 1684129526,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1310339,
-      "num": 1310339,
-      "word": "温精灵道歉",
-      "onboard_time": 1684242336,
-      "rank": 1,
-      "category": "网红"
     },
     {
       "raw_hot": 1283776,
@@ -715,8 +715,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 862996,
-      "num": 862996,
+      "raw_hot": 870813,
+      "num": 870813,
       "word": "秦昊减肥法第3天差点把自己送走",
       "onboard_time": 1684239452,
       "rank": 18,
@@ -1099,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 556635,
+      "num": 556635,
+      "word": "只有文科生才知道的梗",
+      "onboard_time": 1684238910,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 553527,
       "num": 553527,
       "word": "周冬雨刘昊然屈楚萧雪地躺平",
@@ -1225,14 +1233,6 @@
       "onboard_time": 1684145851,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 472135,
-      "num": 472135,
-      "word": "只有文科生才知道的梗",
-      "onboard_time": 1684238910,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 471790,
@@ -1417,6 +1417,14 @@
       "onboard_time": 1684123531,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 427735,
+      "num": 360822,
+      "word": "带两女儿投河溺亡女子父亲发声",
+      "onboard_time": 1684241614,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 427225,
@@ -1635,14 +1643,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 360822,
-      "num": 360822,
-      "word": "带两女儿投河溺亡女子父亲发声",
-      "onboard_time": 1684241614,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 360107,
       "num": 360107,
       "word": "背调后被降薪降岗",
@@ -1811,6 +1811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 333085,
+      "num": 263229,
+      "word": "hanni新闻图",
+      "onboard_time": 1684240350,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 332201,
       "num": 270667,
       "word": "范丞丞地垄沟发型",
@@ -1825,6 +1833,14 @@
       "onboard_time": 1684133490,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328403,
+      "num": 254937,
+      "word": "孔雪儿风格",
+      "onboard_time": 1684243114,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 326578,
@@ -1843,19 +1859,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 324692,
-      "num": 227309,
-      "word": "hanni新闻图",
-      "onboard_time": 1684240350,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 323211,
       "num": 323211,
       "word": "笑果刚签署崇德尚艺承诺书",
       "onboard_time": 1684195712,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 322800,
+      "num": 250791,
+      "word": "吴磊戴眼镜",
+      "onboard_time": 1684243295,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -2059,6 +2075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284337,
+      "num": 284337,
+      "word": "新华社",
+      "onboard_time": 1684239811,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284327,
       "num": 284327,
       "word": "2官员工作群发不雅信息均被双开",
@@ -2227,6 +2251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269435,
+      "num": 215921,
+      "word": "战损是男人最好的嫁妆",
+      "onboard_time": 1684240891,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 268753,
       "num": 173977,
       "word": "90后总裁追星蔡徐坤",
@@ -2244,7 +2276,7 @@
     },
     {
       "raw_hot": 268296,
-      "num": 192388,
+      "num": 208710,
       "word": "乔欣身材曲线",
       "onboard_time": 1684240229,
       "rank": 42,
@@ -2387,14 +2419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 252994,
-      "num": 175373,
-      "word": "战损是男人最好的嫁妆",
-      "onboard_time": 1684240891,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 252027,
       "num": 252027,
       "word": "王栎鑫说只有张远一个人没有新郎经验",
@@ -2459,6 +2483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242139,
+      "num": 242139,
+      "word": "因为臭脸躲过了一次抢劫",
+      "onboard_time": 1684241013,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 242016,
       "num": 242016,
       "word": "3闺蜜连续9年带娃合照定格时光",
@@ -2515,19 +2547,19 @@
       "category": "科技"
     },
     {
+      "raw_hot": 234209,
+      "num": 166672,
+      "word": "也没有男生考得比我好呀",
+      "onboard_time": 1684242213,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 233688,
       "num": 233688,
       "word": "晚上睡觉时千万不要戴耳机",
       "onboard_time": 1684142427,
       "rank": 26,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 233289,
-      "num": 212845,
-      "word": "因为臭脸躲过了一次抢劫",
-      "onboard_time": 1684241013,
-      "rank": 36,
       "category": "情感"
     },
     {
@@ -2923,14 +2955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206819,
-      "num": 206819,
-      "word": "新华社",
-      "onboard_time": 1684239811,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206654,
       "num": 206654,
       "word": "华晨宇说马嘉祺是很大的惊喜",
@@ -2953,14 +2977,6 @@
       "onboard_time": 1684142611,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 203045,
-      "num": 159262,
-      "word": "孔雪儿风格",
-      "onboard_time": 1684243114,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 202957,
@@ -3091,6 +3107,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 194511,
+      "num": 146477,
+      "word": "李佳琦直播",
+      "onboard_time": 1684243833,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 193923,
       "num": 193923,
       "word": "杀我别用毕业刀",
@@ -3209,6 +3233,14 @@
       "onboard_time": 1684222349,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 187750,
+      "num": 142498,
+      "word": "Angelababy红毯生图状态",
+      "onboard_time": 1684243899,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 187627,
@@ -3459,6 +3491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 174741,
+      "num": 174741,
+      "word": "普通人一生大概能赚多少钱",
+      "onboard_time": 1684239631,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174571,
       "num": 174571,
       "word": "赵本山宋小宝观战辽篮总决赛",
@@ -3563,14 +3603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 167561,
-      "num": 167561,
-      "word": "普通人一生大概能赚多少钱",
-      "onboard_time": 1684239631,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 167532,
       "num": 167532,
       "word": "巴萨夺得西甲冠军",
@@ -3585,14 +3617,6 @@
       "onboard_time": 1684159590,
       "rank": 29,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 166672,
-      "num": 166672,
-      "word": "也没有男生考得比我好呀",
-      "onboard_time": 1684242213,
-      "rank": 39,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 166114,

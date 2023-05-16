@@ -1,0 +1,410 @@
+{
+  "runTime": 1684244007643,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3794042,
+        "num": 3794042,
+        "word": "温精灵道歉",
+        "onboard_time": 1684242336,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1229832,
+        "num": 1229832,
+        "word": "程十安澄清",
+        "onboard_time": 1684238549,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 48847,
+        "num": 1009728,
+        "word": "经济运行延续恢复向好态势",
+        "onboard_time": 1684224210,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1934220,
+        "num": 984012,
+        "word": "苗苗称与郑恺住的房子是租的",
+        "onboard_time": 1684240592,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1387533,
+        "num": 941144,
+        "word": "上海一研究生清晨从宿舍6楼坠亡",
+        "onboard_time": 1684235070,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 886226,
+        "num": 886226,
+        "word": "孟羽童IP属地显示新加坡",
+        "onboard_time": 1684236812,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 870813,
+        "num": 870813,
+        "word": "秦昊减肥法第3天差点把自己送走",
+        "onboard_time": 1684239452,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 692918,
+        "num": 692918,
+        "word": "TFBOYS恭喜易烊千玺",
+        "onboard_time": 1684230450,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 556635,
+        "num": 556635,
+        "word": "只有文科生才知道的梗",
+        "onboard_time": 1684238910,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 284337,
+        "num": 284337,
+        "word": "新华社",
+        "onboard_time": 1684239811,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786102,
+        "num": 281907,
+        "word": "笑果文化三年内已有6人被罚",
+        "onboard_time": 1684231168,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697497,
+        "num": 278721,
+        "word": "家属称事发前大女儿喊爸爸救命",
+        "onboard_time": 1684238549,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542136,
+        "num": 276955,
+        "word": "杨洋胸针",
+        "onboard_time": 1684238910,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 528569,
+        "num": 274326,
+        "word": "沈月给闺蜜的证婚词",
+        "onboard_time": 1684222949,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525401,
+        "num": 270155,
+        "word": "张根硕肿么了",
+        "onboard_time": 1684226851,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427735,
+        "num": 269702,
+        "word": "带两女儿投河溺亡女子父亲发声",
+        "onboard_time": 1684241614,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359339,
+        "num": 265994,
+        "word": "吉娜 大家别笑我了再听一下我的rap",
+        "onboard_time": 1684231530,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 333085,
+        "num": 263229,
+        "word": "hanni新闻图",
+        "onboard_time": 1684240350,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 285757,
+        "num": 259219,
+        "word": "恩施网红浮桥游览车坠河已有5人身亡",
+        "onboard_time": 1684229310,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258641,
+        "num": 258641,
+        "word": "女友穿的太暴露怎么办",
+        "onboard_time": 1684223788,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 328403,
+        "num": 254937,
+        "word": "孔雪儿风格",
+        "onboard_time": 1684243114,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327008,
+        "num": 254224,
+        "word": "倪妮GUCCI",
+        "onboard_time": 1684236029,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 322800,
+        "num": 250791,
+        "word": "吴磊戴眼镜",
+        "onboard_time": 1684243295,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242139,
+        "num": 242139,
+        "word": "因为臭脸躲过了一次抢劫",
+        "onboard_time": 1684241013,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219010,
+        "num": 219010,
+        "word": "人民军队不容冒犯必须敬畏",
+        "onboard_time": 1684235490,
+        "rank": 24,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 269435,
+        "num": 215921,
+        "word": "战损是男人最好的嫁妆",
+        "onboard_time": 1684240891,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 264735,
+        "num": 208710,
+        "word": "乔欣身材曲线",
+        "onboard_time": 1684240229,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183055,
+        "num": 183055,
+        "word": "终于把公司熬成双休了",
+        "onboard_time": 1684237828,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174741,
+        "num": 174741,
+        "word": "普通人一生大概能赚多少钱",
+        "onboard_time": 1684239631,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174013,
+        "num": 174013,
+        "word": "秦昊减肥法",
+        "onboard_time": 1684240711,
+        "rank": 29,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1021185,
+        "num": 172584,
+        "word": "女子在海底捞拍摄不雅视频",
+        "onboard_time": 1684232313,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262287,
+        "num": 169511,
+        "word": "徐娇回应泳装照争议",
+        "onboard_time": 1684220551,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248480,
+        "num": 166764,
+        "word": "唐嫣说今年一定要学会化妆",
+        "onboard_time": 1684235251,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237315,
+        "num": 164248,
+        "word": "程十安",
+        "onboard_time": 1684230810,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 234209,
+        "num": 159562,
+        "word": "也没有男生考得比我好呀",
+        "onboard_time": 1684242213,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 222144,
+        "num": 156976,
+        "word": "金玟庭的韩式水光肌",
+        "onboard_time": 1684241553,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216453,
+        "num": 155303,
+        "word": "迪丽热巴佟大为公诉或将下周上线",
+        "onboard_time": 1684239690,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153335,
+        "num": 153335,
+        "word": "狗狗跟牛舌吻",
+        "onboard_time": 1684231829,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150416,
+        "num": 150416,
+        "word": "每个i人都会有的文件夹名",
+        "onboard_time": 1684236211,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149948,
+        "num": 149948,
+        "word": "奶奶踩倒梯子悬吊半空3岁娃扶正获亲亲",
+        "onboard_time": 1684238609,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212419,
+        "num": 149611,
+        "word": "白鹿晒玲娜贝儿一家",
+        "onboard_time": 1684239989,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194511,
+        "num": 146477,
+        "word": "李佳琦直播",
+        "onboard_time": 1684243833,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 189461,
+        "num": 145922,
+        "word": "蒋奇明FENDI",
+        "onboard_time": 1684237651,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189168,
+        "num": 143313,
+        "word": "没有男的坐过李一桐的副驾",
+        "onboard_time": 1684237592,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187750,
+        "num": 142498,
+        "word": "Angelababy红毯生图状态",
+        "onboard_time": 1684243899,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 166829,
+        "num": 140693,
+        "word": "刘雯红色薄纱上衣",
+        "onboard_time": 1684238310,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139185,
+        "num": 139185,
+        "word": "感受不到发工资时的快乐了",
+        "onboard_time": 1684233211,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112240,
+        "num": 112240,
+        "word": "游戏还原老年痴呆患者眼中的世界",
+        "onboard_time": 1684238973,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84894,
+        "num": 112159,
+        "word": "cp29周严",
+        "onboard_time": 1684236450,
+        "rank": 48,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 67352,
+        "num": 112032,
+        "word": "G2对战BLG",
+        "onboard_time": 1684242272,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国元首外交热度不减又攀新峰#"
+    }
+  }
+}
