@@ -1,0 +1,410 @@
+{
+  "runTime": 1684214147015,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1345252,
+        "num": 1345252,
+        "word": "以为吴京和郭帆结婚了",
+        "onboard_time": 1684202427,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1158921,
+        "num": 1158921,
+        "word": "全国首例心脏不停跳人工心脏植入",
+        "onboard_time": 1684211257,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26283,
+        "num": 1149434,
+        "word": "中国与中亚在此相会",
+        "onboard_time": 1684212695,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1416697,
+        "num": 1148279,
+        "word": "向佐给经纪人10天时间学妆发",
+        "onboard_time": 1684207228,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1146586,
+        "num": 1146586,
+        "word": "摄影师回应迪丽热巴未修原档生图",
+        "onboard_time": 1684198649,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 974800,
+        "num": 974800,
+        "word": "人民日报评House冒犯人民子弟兵",
+        "onboard_time": 1684192760,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 609366,
+        "num": 609366,
+        "word": "中2574万彩票摊主转让摊位",
+        "onboard_time": 1684195648,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522503,
+        "num": 522503,
+        "word": "Ella改文案",
+        "onboard_time": 1684198889,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 469487,
+        "num": 469487,
+        "word": "上海文旅部门实地调查笑果文化总部",
+        "onboard_time": 1684208307,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 408098,
+        "num": 408098,
+        "word": "九尾 剃头",
+        "onboard_time": 1684213357,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1696487,
+        "num": 407741,
+        "word": "成都 迪士尼",
+        "onboard_time": 1684208611,
+        "rank": 10,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 761505,
+        "num": 405591,
+        "word": "颜九要求温精灵公开道歉",
+        "onboard_time": 1684158512,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 760835,
+        "num": 403542,
+        "word": "胧月公主扮演者近照",
+        "onboard_time": 1684212216,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 424542,
+        "num": 401073,
+        "word": "警方通报母女3人手绑一起河中身亡",
+        "onboard_time": 1684194625,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400523,
+        "num": 400523,
+        "word": "3年前救的野猪带3娃回来了",
+        "onboard_time": 1684210472,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388283,
+        "num": 388283,
+        "word": "橘子海",
+        "onboard_time": 1684210713,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 369011,
+        "num": 369011,
+        "word": "大爷撞进饭店没赔钱一夜没睡着",
+        "onboard_time": 1684209091,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358734,
+        "num": 358734,
+        "word": "颜九 温精灵",
+        "onboard_time": 1684157374,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 347746,
+        "num": 347746,
+        "word": "女子武汉坐高铁遇满车人都在啃鸭脖",
+        "onboard_time": 1684188794,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338500,
+        "num": 338500,
+        "word": "金曲奖",
+        "onboard_time": 1684210893,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 575358,
+        "num": 338498,
+        "word": "这高铁怎么蛇里蛇气的",
+        "onboard_time": 1684208307,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338460,
+        "num": 338460,
+        "word": "背调后被降薪降岗",
+        "onboard_time": 1684210291,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 326713,
+        "num": 326713,
+        "word": "回领导消息多打了一个字",
+        "onboard_time": 1684210593,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 320590,
+        "num": 320590,
+        "word": "胡锡进 笑果文化同样要反省",
+        "onboard_time": 1684212394,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 304266,
+        "num": 304266,
+        "word": "马来西亚男子猥琐发言被群殴致死",
+        "onboard_time": 1684193904,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259222,
+        "num": 259222,
+        "word": "段奕宏终究是错付了",
+        "onboard_time": 1684210593,
+        "rank": 25,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 249702,
+        "num": 249702,
+        "word": "选结婚对象什么条件最重要",
+        "onboard_time": 1684201948,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229365,
+        "num": 229365,
+        "word": "矮个子女生才能懂的社死现场",
+        "onboard_time": 1684208130,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224342,
+        "num": 224342,
+        "word": "辅导员式爱豆",
+        "onboard_time": 1684213416,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220394,
+        "num": 220394,
+        "word": "周也对侯明昊的网络印象是张起灵",
+        "onboard_time": 1684213654,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 415164,
+        "num": 218229,
+        "word": "收到110元现金外卖小哥果断报警",
+        "onboard_time": 1684212514,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215507,
+        "num": 215507,
+        "word": "原来周也参加过选秀",
+        "onboard_time": 1684209870,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210826,
+        "num": 210826,
+        "word": "官方回应迪士尼落户成都",
+        "onboard_time": 1684213534,
+        "rank": 32,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 209008,
+        "num": 209008,
+        "word": "秦昊说自己和伊能静是独立的灵魂",
+        "onboard_time": 1684197210,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201921,
+        "num": 201921,
+        "word": "大爷纯手工修两双鞋仅收4元",
+        "onboard_time": 1684212932,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198588,
+        "num": 198588,
+        "word": "当我消费只要超过500时",
+        "onboard_time": 1684209931,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195070,
+        "num": 195070,
+        "word": "折腰",
+        "onboard_time": 1684203748,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189757,
+        "num": 189757,
+        "word": "KPL春季赛最佳阵容候选人",
+        "onboard_time": 1684213834,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178155,
+        "num": 178155,
+        "word": "教小鸭子玩滑滑梯的小朋友",
+        "onboard_time": 1684212872,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174827,
+        "num": 174827,
+        "word": "唛恩音乐节",
+        "onboard_time": 1684213236,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174294,
+        "num": 174294,
+        "word": "胡一天惜花芷开机路透",
+        "onboard_time": 1684213892,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167670,
+        "num": 167670,
+        "word": "王力宏李靓蕾现身法庭",
+        "onboard_time": 1684164152,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159663,
+        "num": 159663,
+        "word": "老爸给我晾的百褶裙",
+        "onboard_time": 1684165291,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147983,
+        "num": 147983,
+        "word": "沈月在闺蜜婚礼上哭了",
+        "onboard_time": 1684163911,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144924,
+        "num": 144924,
+        "word": "村民院子里挖出102枚手榴弹",
+        "onboard_time": 1684202607,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144498,
+        "num": 144498,
+        "word": "上海广场舞跳极乐净土",
+        "onboard_time": 1684212814,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143713,
+        "num": 143713,
+        "word": "闲鱼开收软件服务费",
+        "onboard_time": 1684202188,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 131650,
+        "num": 131650,
+        "word": "吉克隽逸彝族证件照",
+        "onboard_time": 1684206087,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122973,
+        "num": 122973,
+        "word": "2官员工作群发不雅信息均被双开",
+        "onboard_time": 1684214070,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121204,
+        "num": 121204,
+        "word": "高圆圆的外套穿了六七年",
+        "onboard_time": 1684214131,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同厄立特里亚总统举行会谈#"
+    }
+  }
+}
