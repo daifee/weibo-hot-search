@@ -1,6 +1,6 @@
 {
   "startTime": 1684167725625,
-  "endTime": 1684214147015,
+  "endTime": 1684215217590,
   "band_list": [
     {
       "raw_hot": 3766911,
@@ -83,6 +83,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 1538506,
+      "num": 1538506,
+      "word": "全国首例心脏不停跳人工心脏植入",
+      "onboard_time": 1684211257,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1529474,
       "num": 399528,
       "word": "笑果文化称不当言论是HOUSE临时加的",
@@ -131,14 +139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1158921,
-      "num": 1158921,
-      "word": "全国首例心脏不停跳人工心脏植入",
-      "onboard_time": 1684211257,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1104744,
       "num": 504096,
       "word": "沈月在闺蜜婚礼上哭了",
@@ -153,6 +153,14 @@
       "onboard_time": 1684153287,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1079023,
+      "num": 881385,
+      "word": "胧月公主扮演者近照",
+      "onboard_time": 1684212216,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 940151,
@@ -179,6 +187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 824974,
+      "num": 824974,
+      "word": "九尾 剃头",
+      "onboard_time": 1684213357,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 810527,
       "num": 810527,
       "word": "中2574万彩票摊主转让摊位",
@@ -193,14 +209,6 @@
       "onboard_time": 1684208491,
       "rank": 8,
       "category": "科技"
-    },
-    {
-      "raw_hot": 760835,
-      "num": 403542,
-      "word": "胧月公主扮演者近照",
-      "onboard_time": 1684212216,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 745179,
@@ -355,6 +363,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 447213,
+      "num": 447213,
+      "word": "金曲奖",
+      "onboard_time": 1684210893,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 445344,
       "num": 445344,
       "word": "秦昊说自己和伊能静是独立的灵魂",
@@ -371,20 +387,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 419308,
+      "num": 419308,
+      "word": "辅导员式爱豆",
+      "onboard_time": 1684213416,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 415164,
-      "num": 218229,
+      "num": 386819,
       "word": "收到110元现金外卖小哥果断报警",
       "onboard_time": 1684212514,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 408098,
-      "num": 408098,
-      "word": "九尾 剃头",
-      "onboard_time": 1684213357,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 406462,
@@ -443,6 +459,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 360107,
+      "num": 360107,
+      "word": "背调后被降薪降岗",
+      "onboard_time": 1684210291,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 358497,
       "num": 358497,
       "word": "宁安如梦",
@@ -456,22 +480,6 @@
       "word": "饭局上客户说菜点多了",
       "onboard_time": 1684204646,
       "rank": 33,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 338500,
-      "num": 338500,
-      "word": "金曲奖",
-      "onboard_time": 1684210893,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 338460,
-      "num": 338460,
-      "word": "背调后被降薪降岗",
-      "onboard_time": 1684210291,
-      "rank": 44,
       "category": "情感"
     },
     {
@@ -595,12 +603,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268582,
+      "num": 268582,
+      "word": "二阳",
+      "onboard_time": 1684214312,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266004,
       "num": 258096,
       "word": "笑果官方演员名单中已无House",
       "onboard_time": 1684208369,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 265180,
+      "num": 265180,
+      "word": "官方回应迪士尼落户成都",
+      "onboard_time": 1684213534,
+      "rank": 32,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 263270,
@@ -675,6 +699,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 227449,
+      "num": 227449,
+      "word": "WBG官宣主教练",
+      "onboard_time": 1684214430,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 225894,
+      "num": 225894,
+      "word": "周也对侯明昊的网络印象是张起灵",
+      "onboard_time": 1684213654,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 225717,
       "num": 225717,
       "word": "千万不要去熟人公司工作",
@@ -683,12 +723,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 224342,
-      "num": 224342,
-      "word": "辅导员式爱豆",
-      "onboard_time": 1684213416,
-      "rank": 28,
-      "category": "作品衍生"
+      "raw_hot": 224534,
+      "num": 224534,
+      "word": "KPL春季赛最佳阵容候选人",
+      "onboard_time": 1684213834,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 222855,
@@ -697,14 +737,6 @@
       "onboard_time": 1684208070,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 220394,
-      "num": 220394,
-      "word": "周也对侯明昊的网络印象是张起灵",
-      "onboard_time": 1684213654,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 220323,
@@ -737,14 +769,6 @@
       "onboard_time": 1684160671,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 210826,
-      "num": 210826,
-      "word": "官方回应迪士尼落户成都",
-      "onboard_time": 1684213534,
-      "rank": 32,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 210821,
@@ -817,14 +841,6 @@
       "onboard_time": 1684163489,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 189757,
-      "num": 189757,
-      "word": "KPL春季赛最佳阵容候选人",
-      "onboard_time": 1684213834,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 188858,
@@ -907,6 +923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 165017,
+      "num": 165017,
+      "word": "2官员工作群发不雅信息均被双开",
+      "onboard_time": 1684214070,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164596,
       "num": 164596,
       "word": "你支持全面禁止老头乐吗",
@@ -963,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143952,
+      "num": 143952,
+      "word": "朱珠曾是MTV天籁村主持人",
+      "onboard_time": 1684214672,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143149,
       "num": 118879,
       "word": "官方回应女子捆绑2女儿河中身亡",
@@ -977,6 +1009,22 @@
       "onboard_time": 1684152627,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 140239,
+      "num": 140239,
+      "word": "杨洋威尼斯活动生图",
+      "onboard_time": 1684214850,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 135852,
+      "num": 135852,
+      "word": "知乎",
+      "onboard_time": 1684215031,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 132618,
@@ -1016,14 +1064,6 @@
       "word": "上海这家咖啡馆请退休老人当店员",
       "onboard_time": 1684196549,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122973,
-      "num": 122973,
-      "word": "2官员工作群发不雅信息均被双开",
-      "onboard_time": 1684214070,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1187,7 +1227,7 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 26283,
+      "raw_hot": 42196,
       "num": 1149434,
       "word": "中国与中亚在此相会",
       "onboard_time": 1684212695,
@@ -1228,6 +1268,9 @@
     },
     {
       "word": "#2023春季中国元首外交纪实#"
+    },
+    {
+      "word": "#中国元首外交热度不减又攀新峰#"
     }
   ]
 }

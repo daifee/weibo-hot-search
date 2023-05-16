@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684214147015,
+  "endTime": 1684215217590,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -2315,6 +2315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1538506,
+      "num": 1538506,
+      "word": "全国首例心脏不停跳人工心脏植入",
+      "onboard_time": 1684211257,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1538498,
       "num": 1538498,
       "word": "巴西一医生接生时扯断婴儿头部",
@@ -3739,14 +3747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1158921,
-      "num": 1158921,
-      "word": "全国首例心脏不停跳人工心脏植入",
-      "onboard_time": 1684211257,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1156444,
       "num": 1156444,
       "word": "四岁男童颅脑损伤监控显示曾被老师扔摔",
@@ -4113,6 +4113,14 @@
       "onboard_time": 1682986045,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1079023,
+      "num": 881385,
+      "word": "胧月公主扮演者近照",
+      "onboard_time": 1684212216,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1077776,
@@ -5499,6 +5507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 824974,
+      "num": 824974,
+      "word": "九尾 剃头",
+      "onboard_time": 1684213357,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 821953,
       "num": 471255,
       "word": "low",
@@ -5903,14 +5919,6 @@
       "num": 761809,
       "word": "杨紫阔腿工装裤",
       "onboard_time": 1684134028,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 760835,
-      "num": 403542,
-      "word": "胧月公主扮演者近照",
-      "onboard_time": 1684212216,
       "rank": 12,
       "category": "作品衍生"
     },
@@ -10123,6 +10131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 447213,
+      "num": 447213,
+      "word": "金曲奖",
+      "onboard_time": 1684210893,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 447205,
       "num": 447205,
       "word": "最高检挂牌督办长峰医院火灾事故案",
@@ -10875,6 +10891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 419308,
+      "num": 419308,
+      "word": "辅导员式爱豆",
+      "onboard_time": 1684213416,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 419124,
       "num": 419124,
       "word": "林彦俊深夜唱歌扰民",
@@ -11004,7 +11028,7 @@
     },
     {
       "raw_hot": 415164,
-      "num": 218229,
+      "num": 386819,
       "word": "收到110元现金外卖小哥果断报警",
       "onboard_time": 1684212514,
       "rank": 30,
@@ -11161,14 +11185,6 @@
       "onboard_time": 1683699990,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 408098,
-      "num": 408098,
-      "word": "九尾 剃头",
-      "onboard_time": 1684213357,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 407882,
@@ -12867,6 +12883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 360107,
+      "num": 360107,
+      "word": "背调后被降薪降岗",
+      "onboard_time": 1684210291,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 360082,
       "num": 360082,
       "word": "三井寿 湘北的公主",
@@ -13905,22 +13929,6 @@
       "onboard_time": 1684115065,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 338500,
-      "num": 338500,
-      "word": "金曲奖",
-      "onboard_time": 1684210893,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 338460,
-      "num": 338460,
-      "word": "背调后被降薪降岗",
-      "onboard_time": 1684210291,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 338339,
@@ -17795,6 +17803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 265180,
+      "num": 265180,
+      "word": "官方回应迪士尼落户成都",
+      "onboard_time": 1684213534,
+      "rank": 32,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 265099,
       "num": 328378,
       "word": "你多长时间换一次新手机",
@@ -20779,6 +20795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227449,
+      "num": 227449,
+      "word": "WBG官宣主教练",
+      "onboard_time": 1684214430,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 227375,
       "num": 227375,
       "word": "湖人拿到赛点",
@@ -20873,6 +20897,14 @@
       "onboard_time": 1683864269,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225894,
+      "num": 225894,
+      "word": "周也对侯明昊的网络印象是张起灵",
+      "onboard_time": 1684213654,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 225717,
@@ -20979,6 +21011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224534,
+      "num": 224534,
+      "word": "KPL春季赛最佳阵容候选人",
+      "onboard_time": 1684213834,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 224513,
       "num": 224513,
       "word": "江阴枪击案受害人家属发声",
@@ -20993,14 +21033,6 @@
       "onboard_time": 1682917708,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 224342,
-      "num": 224342,
-      "word": "辅导员式爱豆",
-      "onboard_time": 1684213416,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 224323,
@@ -21289,14 +21321,6 @@
       "onboard_time": 1683181887,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 220394,
-      "num": 220394,
-      "word": "周也对侯明昊的网络印象是张起灵",
-      "onboard_time": 1684213654,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 220323,
@@ -22233,14 +22257,6 @@
       "onboard_time": 1683175472,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210826,
-      "num": 210826,
-      "word": "官方回应迪士尼落户成都",
-      "onboard_time": 1684213534,
-      "rank": 32,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 210814,
@@ -24329,14 +24345,6 @@
       "onboard_time": 1683022045,
       "rank": 32,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 189757,
-      "num": 189757,
-      "word": "KPL春季赛最佳阵容候选人",
-      "onboard_time": 1684213834,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 189743,
@@ -26851,6 +26859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 165017,
+      "num": 165017,
+      "word": "2官员工作群发不雅信息均被双开",
+      "onboard_time": 1684214070,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164991,
       "num": 164991,
       "word": "aespa新歌ImUnhappy",
@@ -28667,6 +28683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143952,
+      "num": 143952,
+      "word": "朱珠曾是MTV天籁村主持人",
+      "onboard_time": 1684214672,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143330,
       "num": 143330,
       "word": "汶川地震中的催泪瞬间",
@@ -28905,6 +28929,14 @@
       "onboard_time": 1683162568,
       "rank": 38,
       "category": "社会新闻,音乐"
+    },
+    {
+      "raw_hot": 140239,
+      "num": 140239,
+      "word": "杨洋威尼斯活动生图",
+      "onboard_time": 1684214850,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 140115,
@@ -29193,6 +29225,14 @@
       "onboard_time": 1683604651,
       "rank": 48,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 135852,
+      "num": 135852,
+      "word": "知乎",
+      "onboard_time": 1684215031,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 135808,
@@ -30129,14 +30169,6 @@
       "onboard_time": 1683562587,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122973,
-      "num": 122973,
-      "word": "2官员工作群发不雅信息均被双开",
-      "onboard_time": 1684214070,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122901,
@@ -32755,6 +32787,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 42196,
+      "num": 1149434,
+      "word": "中国与中亚在此相会",
+      "onboard_time": 1684212695,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42009,
       "num": 42009,
       "word": "SEVENTEEN演我生活状态",
@@ -33073,14 +33113,6 @@
       "onboard_time": 1683312913,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26283,
-      "num": 1149434,
-      "word": "中国与中亚在此相会",
-      "onboard_time": 1684212695,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26169,
@@ -33483,6 +33515,9 @@
     },
     {
       "word": "#习近平同厄立特里亚总统举行会谈#"
+    },
+    {
+      "word": "#中国元首外交热度不减又攀新峰#"
     }
   ]
 }
