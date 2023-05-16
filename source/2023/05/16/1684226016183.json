@@ -1,0 +1,410 @@
+{
+  "runTime": 1684226016183,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2248101,
+        "num": 2248101,
+        "word": "徐娇回应泳装照争议",
+        "onboard_time": 1684220551,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1614534,
+        "num": 1614534,
+        "word": "孟羽童被曝考勤异常率超80%",
+        "onboard_time": 1684224508,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 84231,
+        "num": 1379151,
+        "word": "经济运行延续恢复向好态势",
+        "onboard_time": 1684224210,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1292234,
+        "num": 1292234,
+        "word": "43岁女子被撞流产无法再育获赔3万7",
+        "onboard_time": 1684220188,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1034238,
+        "num": 1034238,
+        "word": "蔡依林 北京",
+        "onboard_time": 1684222889,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 847769,
+        "num": 847769,
+        "word": "浪姐4 成团名单",
+        "onboard_time": 1684216050,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 786643,
+        "num": 786643,
+        "word": "沈月给闺蜜的证婚词",
+        "onboard_time": 1684222949,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 630793,
+        "num": 630793,
+        "word": "全国首例心脏不停跳人工心脏植入",
+        "onboard_time": 1684211257,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575888,
+        "num": 575888,
+        "word": "家长 头一次跟孩子这么生疏",
+        "onboard_time": 1684221209,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 319959,
+        "num": 319959,
+        "word": "外交部回应孙准浩被中国警方刑拘",
+        "onboard_time": 1684221809,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2140978,
+        "num": 318731,
+        "word": "格力员工称孟羽童是被公司开除",
+        "onboard_time": 1684219048,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1222757,
+        "num": 316505,
+        "word": "女友穿的太暴露怎么办",
+        "onboard_time": 1684223788,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 653198,
+        "num": 314530,
+        "word": "吉娜跳舞 吉娜玩水",
+        "onboard_time": 1684221569,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 636505,
+        "num": 314090,
+        "word": "章泽天疑怀三胎",
+        "onboard_time": 1684215690,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 378004,
+        "num": 311609,
+        "word": "发工资时间看公司",
+        "onboard_time": 1684224508,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 365602,
+        "num": 309629,
+        "word": "胧月公主扮演者近照",
+        "onboard_time": 1684212216,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 338817,
+        "num": 308415,
+        "word": "易烊千玺金爵奖亚洲新人单元评委",
+        "onboard_time": 1684221869,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326769,
+        "num": 305690,
+        "word": "起底颜九温精灵背后MCN机构",
+        "onboard_time": 1684223552,
+        "rank": 17,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 304598,
+        "num": 304598,
+        "word": "上甘岭 松鼠",
+        "onboard_time": 1684220790,
+        "rank": 18,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 265257,
+        "num": 282974,
+        "word": "二阳",
+        "onboard_time": 1684214312,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337429,
+        "num": 282620,
+        "word": "这高铁怎么蛇里蛇气的",
+        "onboard_time": 1684208307,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305418,
+        "num": 282003,
+        "word": "颜九要求温精灵公开道歉",
+        "onboard_time": 1684158512,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 278493,
+        "num": 278493,
+        "word": "人民日报评House冒犯人民子弟兵",
+        "onboard_time": 1684192760,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 272009,
+        "num": 272009,
+        "word": "为了顶替我老板招了两个人",
+        "onboard_time": 1684222648,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 267996,
+        "num": 267996,
+        "word": "王俊凯重庆",
+        "onboard_time": 1684219349,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252027,
+        "num": 252027,
+        "word": "王栎鑫说只有张远一个人没有新郎经验",
+        "onboard_time": 1684224210,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248446,
+        "num": 248446,
+        "word": "王一博开赛车路透",
+        "onboard_time": 1684221209,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220123,
+        "num": 220123,
+        "word": "成都 迪士尼",
+        "onboard_time": 1684208611,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 215325,
+        "num": 215325,
+        "word": "贾静雯恭喜Alin",
+        "onboard_time": 1684224328,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182263,
+        "num": 191262,
+        "word": "恩施",
+        "onboard_time": 1684225709,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359473,
+        "num": 191226,
+        "word": "陈乔恩老花了",
+        "onboard_time": 1684224029,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190960,
+        "num": 190960,
+        "word": "张艺凡帮晕倒的NPC挡腿",
+        "onboard_time": 1684225287,
+        "rank": 31,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 185701,
+        "num": 185701,
+        "word": "沈月翁小雯 女孩子的友谊",
+        "onboard_time": 1684225650,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181830,
+        "num": 181830,
+        "word": "收到110元现金外卖小哥果断报警",
+        "onboard_time": 1684212514,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177375,
+        "num": 177375,
+        "word": "ofo创始人戴威再次创业",
+        "onboard_time": 1684216590,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 169677,
+        "num": 169677,
+        "word": "吴青峰名副其实吴七封",
+        "onboard_time": 1684222349,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164316,
+        "num": 164316,
+        "word": "浪姐 水舞台",
+        "onboard_time": 1684225528,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158823,
+        "num": 158823,
+        "word": "孙准浩涉嫌非国家工作人员受贿罪",
+        "onboard_time": 1684221630,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148803,
+        "num": 148803,
+        "word": "他的研究让每棵树少掉3亿根毛",
+        "onboard_time": 1684222770,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144676,
+        "num": 147463,
+        "word": "9岁女童持续流血2个月确诊患癌",
+        "onboard_time": 1684217429,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152031,
+        "num": 147346,
+        "word": "中新网评House事件",
+        "onboard_time": 1684219109,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146712,
+        "num": 146712,
+        "word": "陈绮贞 草莓音乐节",
+        "onboard_time": 1684222229,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171450,
+        "num": 146550,
+        "word": "男友说想吃了我养的狗",
+        "onboard_time": 1684225468,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145653,
+        "num": 145653,
+        "word": "向佐给经纪人10天时间学妆发",
+        "onboard_time": 1684207228,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138619,
+        "num": 138619,
+        "word": "九尾 剃头",
+        "onboard_time": 1684213357,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132696,
+        "num": 132696,
+        "word": "WBG官宣主教练",
+        "onboard_time": 1684214430,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130707,
+        "num": 130707,
+        "word": "摄影师回应迪丽热巴未修原档生图",
+        "onboard_time": 1684198649,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129523,
+        "num": 129523,
+        "word": "金华收费员徒手拦车救人",
+        "onboard_time": 1684224750,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 128924,
+        "num": 128924,
+        "word": "男童扶梯跌倒特警飞奔救下",
+        "onboard_time": 1684224989,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 124595,
+        "num": 124595,
+        "word": "刘柏辛提名最佳女歌手",
+        "onboard_time": 1684218689,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国元首外交热度不减又攀新峰#"
+    }
+  }
+}
