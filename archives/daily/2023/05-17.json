@@ -1,6 +1,6 @@
 {
   "startTime": 1684254143599,
-  "endTime": 1684255055154,
+  "endTime": 1684257292713,
   "band_list": [
     {
       "raw_hot": 2021463,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1125615,
-      "num": 335712,
+      "num": 655118,
       "word": "香港碎尸名媛蔡天凤丈夫发声",
       "onboard_time": 1684250615,
       "rank": 10,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 414183,
-      "num": 265583,
+      "num": 350363,
       "word": "戛纳红毯还得看女明星",
       "onboard_time": 1684251272,
       "rank": 20,
@@ -115,11 +115,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320535,
+      "num": 320535,
+      "word": "戛纳",
+      "onboard_time": 1684255943,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 316643,
       "num": 316643,
       "word": "赵露思陈哲远偷偷藏不住集数变更",
       "onboard_time": 1684249596,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 298009,
+      "num": 177287,
+      "word": "戛纳红毯",
+      "onboard_time": 1684256481,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -177,6 +193,30 @@
       "onboard_time": 1684248036,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 254927,
+      "num": 176208,
+      "word": "李莎旻子都快抡出火星子了",
+      "onboard_time": 1684255044,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 253359,
+      "num": 122469,
+      "word": "关晓彤戛纳",
+      "onboard_time": 1684256303,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 237595,
+      "num": 109904,
+      "word": "朱一龙亮相戛纳红毯",
+      "onboard_time": 1684256123,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 205802,
@@ -259,7 +299,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150667,
+      "raw_hot": 151982,
       "num": 150667,
       "word": "何超莲婚后首亮相",
       "onboard_time": 1684254087,
@@ -387,14 +427,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 103294,
-      "num": 100545,
-      "word": "李莎旻子都快抡出火星子了",
-      "onboard_time": 1684255044,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 100760,
       "num": 100760,
       "word": "G2对战BLG",
@@ -403,12 +435,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 81705,
+      "num": 75454,
+      "word": "广东妈妈岗工资开到12000元",
+      "onboard_time": 1684256361,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74435,
       "num": 100501,
       "word": "他选择了评论最多的调头方式",
       "onboard_time": 1684253489,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 73828,
+      "num": 73828,
+      "word": "再热血的动漫也不及现实里的青春",
+      "onboard_time": 1684256661,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 11328,

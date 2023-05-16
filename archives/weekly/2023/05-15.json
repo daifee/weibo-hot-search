@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684255055154,
+  "endTime": 1684257292713,
   "band_list": [
     {
       "raw_hot": 5388172,
@@ -580,7 +580,7 @@
     },
     {
       "raw_hot": 1125615,
-      "num": 335712,
+      "num": 655118,
       "word": "香港碎尸名媛蔡天凤丈夫发声",
       "onboard_time": 1684250615,
       "rank": 31,
@@ -1596,7 +1596,7 @@
     },
     {
       "raw_hot": 414183,
-      "num": 265583,
+      "num": 350363,
       "word": "戛纳红毯还得看女明星",
       "onboard_time": 1684251272,
       "rank": 20,
@@ -2019,6 +2019,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 320535,
+      "num": 320535,
+      "word": "戛纳",
+      "onboard_time": 1684119388,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 320490,
       "num": 320490,
       "word": "每个i人都会有的文件夹名",
@@ -2049,14 +2057,6 @@
       "onboard_time": 1684136909,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 313390,
-      "num": 313390,
-      "word": "戛纳",
-      "onboard_time": 1684119388,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 313372,
@@ -2169,6 +2169,14 @@
       "onboard_time": 1684124495,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 298009,
+      "num": 177287,
+      "word": "戛纳红毯",
+      "onboard_time": 1684256481,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 295076,
@@ -2539,6 +2547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254927,
+      "num": 176208,
+      "word": "李莎旻子都快抡出火星子了",
+      "onboard_time": 1684255044,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254919,
       "num": 254919,
       "word": "美依礼芽小时候",
@@ -2561,6 +2577,14 @@
       "onboard_time": 1684225650,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253359,
+      "num": 122469,
+      "word": "关晓彤戛纳",
+      "onboard_time": 1684256303,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 253331,
@@ -2697,6 +2721,14 @@
       "onboard_time": 1684142669,
       "rank": 30,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 237595,
+      "num": 109904,
+      "word": "朱一龙亮相戛纳红毯",
+      "onboard_time": 1684256123,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 235156,
@@ -4011,20 +4043,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151982,
+      "num": 150667,
+      "word": "何超莲婚后首亮相",
+      "onboard_time": 1684254087,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151061,
       "num": 151061,
       "word": "安琪拉追逃游戏新皮肤",
       "onboard_time": 1684226851,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 150667,
-      "num": 150667,
-      "word": "何超莲婚后首亮相",
-      "onboard_time": 1684254087,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 150457,
@@ -4707,14 +4739,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 103294,
-      "num": 100545,
-      "word": "李莎旻子都快抡出火星子了",
-      "onboard_time": 1684255044,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 102028,
       "num": 1699294,
       "word": "经济运行延续恢复向好态势",
@@ -4835,6 +4859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 81705,
+      "num": 75454,
+      "word": "广东妈妈岗工资开到12000元",
+      "onboard_time": 1684256361,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77635,
       "num": 119296,
       "word": "榴莲盲盒",
@@ -4849,6 +4881,14 @@
       "onboard_time": 1684253489,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 73828,
+      "num": 73828,
+      "word": "再热血的动漫也不及现实里的青春",
+      "onboard_time": 1684256661,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 65587,
