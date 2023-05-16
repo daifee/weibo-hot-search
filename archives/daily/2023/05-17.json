@@ -1,6 +1,6 @@
 {
   "startTime": 1684254143599,
-  "endTime": 1684269217253,
+  "endTime": 1684272808615,
   "band_list": [
     {
       "raw_hot": 2021463,
@@ -491,6 +491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 36369,
+      "num": 36369,
+      "word": "国际米兰vsAC米兰",
+      "onboard_time": 1684262894,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29237,
       "num": 29237,
       "word": "朱一龙 戛纳",
@@ -499,12 +507,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 25758,
-      "num": 25758,
-      "word": "国际米兰vsAC米兰",
-      "onboard_time": 1684262894,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 13725,
+      "num": 19563,
+      "word": "平凡之路父亲出轨道德绑架女儿",
+      "onboard_time": 1684272674,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 11830,
+      "num": 19549,
+      "word": "navi faze",
+      "onboard_time": 1684271292,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 11328,

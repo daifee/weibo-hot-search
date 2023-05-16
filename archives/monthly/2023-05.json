@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684269217253,
+  "endTime": 1684272808615,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -34379,6 +34379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36369,
+      "num": 36369,
+      "word": "国际米兰vsAC米兰",
+      "onboard_time": 1684262894,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35499,
       "num": 35499,
       "word": "张云雷听云见心演唱会官宣重启",
@@ -34579,14 +34587,6 @@
       "category": "游戏,音乐"
     },
     {
-      "raw_hot": 25758,
-      "num": 25758,
-      "word": "国际米兰vsAC米兰",
-      "onboard_time": 1684262894,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 25615,
       "num": 30259,
       "word": "天舟六号发射现场",
@@ -34779,6 +34779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13725,
+      "num": 19563,
+      "word": "平凡之路父亲出轨道德绑架女儿",
+      "onboard_time": 1684272674,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 13676,
       "num": 18020,
       "word": "漫长的季节后劲",
@@ -34793,6 +34801,14 @@
       "onboard_time": 1684089433,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 11830,
+      "num": 19549,
+      "word": "navi faze",
+      "onboard_time": 1684271292,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 11069,
