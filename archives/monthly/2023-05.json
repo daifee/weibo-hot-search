@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684221381979,
+  "endTime": 1684222406176,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -2379,6 +2379,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1520278,
+      "num": 1520278,
+      "word": "43岁女子被撞流产无法再育获赔3万7",
+      "onboard_time": 1684220188,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1520173,
       "num": 1087325,
       "word": "向佐的工作人员叫王一博",
@@ -2561,6 +2569,14 @@
       "onboard_time": 1683488592,
       "rank": 30,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1469325,
+      "num": 1469325,
+      "word": "徐娇回应泳装照争议",
+      "onboard_time": 1684220551,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1467422,
@@ -5097,14 +5113,6 @@
       "onboard_time": 1683467914,
       "rank": 28,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 893691,
-      "num": 893691,
-      "word": "43岁女子被撞流产无法再育获赔3万7",
-      "onboard_time": 1684220188,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 892779,
@@ -8241,14 +8249,6 @@
       "onboard_time": 1683250107,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 550428,
-      "num": 550428,
-      "word": "徐娇回应泳装照争议",
-      "onboard_time": 1684220551,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 550120,
@@ -12060,7 +12060,7 @@
     },
     {
       "raw_hot": 384532,
-      "num": 207424,
+      "num": 342049,
       "word": "王俊凯重庆",
       "onboard_time": 1684219349,
       "rank": 23,
@@ -12587,6 +12587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370453,
+      "num": 353026,
+      "word": "上甘岭 松鼠",
+      "onboard_time": 1684220790,
+      "rank": 26,
+      "category": "影视,艺人"
+    },
+    {
       "raw_hot": 369633,
       "num": 369633,
       "word": "油价",
@@ -13057,6 +13065,14 @@
       "onboard_time": 1683729394,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 359191,
+      "num": 359191,
+      "word": "吉娜跳舞 吉娜玩水",
+      "onboard_time": 1684221569,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 359059,
@@ -15875,6 +15891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 298782,
+      "num": 187570,
+      "word": "家长 头一次跟孩子这么生疏",
+      "onboard_time": 1684221209,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 298747,
       "num": 285831,
       "word": "人丑真的连细节都是丑的",
@@ -16737,6 +16761,14 @@
       "onboard_time": 1683691052,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 284383,
+      "num": 208356,
+      "word": "王一博开赛车路透",
+      "onboard_time": 1684221209,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 284327,
@@ -18835,6 +18867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 251669,
+      "num": 207446,
+      "word": "易烊千玺金爵奖亚洲新人单元评委",
+      "onboard_time": 1684221869,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251627,
       "num": 251627,
       "word": "特斯拉中国上调ModelS全系车型售价",
@@ -19468,7 +19508,7 @@
     },
     {
       "raw_hot": 244059,
-      "num": 162554,
+      "num": 178214,
       "word": "中新网评House事件",
       "onboard_time": 1684219109,
       "rank": 30,
@@ -19537,14 +19577,6 @@
       "onboard_time": 1683991952,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 242752,
-      "num": 160759,
-      "word": "王一博开赛车路透",
-      "onboard_time": 1684221209,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 242707,
@@ -20049,14 +20081,6 @@
       "onboard_time": 1683681690,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 236664,
-      "num": 205373,
-      "word": "上甘岭 松鼠",
-      "onboard_time": 1684220790,
-      "rank": 26,
-      "category": "影视,艺人"
     },
     {
       "raw_hot": 236597,
@@ -23312,6 +23336,14 @@
       "word": "大爷纯手工修两双鞋仅收4元",
       "onboard_time": 1684212932,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201862,
+      "num": 201862,
+      "word": "孙准浩涉嫌非国家工作人员受贿罪",
+      "onboard_time": 1684221630,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -27027,6 +27059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 165089,
+      "num": 165089,
+      "word": "外交部回应孙准浩被中国警方刑拘",
+      "onboard_time": 1684221809,
+      "rank": 36,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 164991,
       "num": 164991,
       "word": "aespa新歌ImUnhappy",
@@ -27979,6 +28019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 154361,
+      "num": 154361,
+      "word": "虞书欣配音蜘蛛侠",
+      "onboard_time": 1684219588,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 154348,
       "num": 154348,
       "word": "东北文学",
@@ -28425,6 +28473,14 @@
       "onboard_time": 1684078709,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 149706,
+      "num": 149706,
+      "word": "交警帮助双腿残疾的小伙过马路",
+      "onboard_time": 1684221928,
+      "rank": 38,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 149691,
@@ -28969,6 +29025,14 @@
       "onboard_time": 1683529898,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142477,
+      "num": 142477,
+      "word": "湖北教师招聘",
+      "onboard_time": 1684221449,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 142365,
@@ -29547,14 +29611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133848,
-      "num": 127259,
-      "word": "虞书欣配音蜘蛛侠",
-      "onboard_time": 1684219588,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 133756,
       "num": 135973,
       "word": "不快乐女孩听听宋佳说的吧",
@@ -29729,6 +29785,14 @@
       "onboard_time": 1682982680,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132313,
+      "num": 132313,
+      "word": "阴阳师",
+      "onboard_time": 1683546210,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 132280,
@@ -30067,6 +30131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 128126,
+      "num": 128126,
+      "word": "陈绮贞 草莓音乐节",
+      "onboard_time": 1684222229,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 128071,
       "num": 128071,
       "word": "当燃青春五四开播",
@@ -30392,6 +30464,14 @@
       "word": "柳智敏贝雷帽造型直拍",
       "onboard_time": 1683821487,
       "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 122543,
+      "num": 122543,
+      "word": "吴青峰名副其实吴七封",
+      "onboard_time": 1684222349,
+      "rank": 48,
       "category": "音乐"
     },
     {
@@ -31059,14 +31139,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 109310,
-      "num": 109310,
-      "word": "家长 头一次跟孩子这么生疏",
-      "onboard_time": 1684221209,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 109241,
       "num": 122924,
       "word": "到一定年龄就会觉醒的特质",
@@ -31457,14 +31529,6 @@
       "onboard_time": 1683674119,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 97523,
-      "num": 108526,
-      "word": "阴阳师",
-      "onboard_time": 1683546210,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 97398,
@@ -32683,6 +32747,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 53912,
+      "num": 366414,
+      "word": "戛纳红毯上的出圈妆容",
+      "onboard_time": 1684220429,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 53686,
       "num": 63719,
       "word": "洪知秀给未来妻子的话",
@@ -33004,7 +33076,7 @@
     },
     {
       "raw_hot": 42196,
-      "num": 1149434,
+      "num": 1238603,
       "word": "中国与中亚在此相会",
       "onboard_time": 1684212695,
       "rank": 2,
@@ -33265,14 +33337,6 @@
       "onboard_time": 1682887093,
       "rank": 35,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 30536,
-      "num": 366414,
-      "word": "戛纳红毯上的出圈妆容",
-      "onboard_time": 1684220429,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 30249,
