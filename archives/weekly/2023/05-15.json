@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684272808615,
+  "endTime": 1684275357134,
   "band_list": [
     {
       "raw_hot": 5388172,
@@ -4643,6 +4643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108758,
+      "num": 55486,
+      "word": "第一甲第一名状元卷有多强大",
+      "onboard_time": 1684259835,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107081,
       "num": 107081,
       "word": "只要不欠他的 没必要唯唯诺诺",
@@ -4705,14 +4713,6 @@
       "onboard_time": 1684250555,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 105256,
-      "num": 45552,
-      "word": "第一甲第一名状元卷有多强大",
-      "onboard_time": 1684259835,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104944,
@@ -4883,20 +4883,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 79113,
+      "num": 100501,
+      "word": "他选择了评论最多的调头方式",
+      "onboard_time": 1684253489,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 77635,
       "num": 119296,
       "word": "榴莲盲盒",
       "onboard_time": 1684144467,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 74435,
-      "num": 100501,
-      "word": "他选择了评论最多的调头方式",
-      "onboard_time": 1684253489,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 73828,
@@ -4955,6 +4955,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 60447,
+      "num": 53877,
+      "word": "线下脱口秀为什么不让录音录像",
+      "onboard_time": 1684272972,
+      "rank": 22,
+      "category": "社会新闻,社会新闻"
+    },
+    {
       "raw_hot": 59320,
       "num": 59320,
       "word": "seventeen出发日本",
@@ -5011,6 +5019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46426,
+      "num": 46426,
+      "word": "平凡之路父亲出轨道德绑架女儿",
+      "onboard_time": 1684272674,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 43171,
       "num": 43171,
       "word": "这家里高低得摆两台共享单车吧",
@@ -5043,8 +5059,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 36369,
-      "num": 36369,
+      "raw_hot": 40198,
+      "num": 40198,
       "word": "国际米兰vsAC米兰",
       "onboard_time": 1684262894,
       "rank": 46,
@@ -5073,6 +5089,14 @@
       "onboard_time": 1684172114,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 26101,
+      "num": 26101,
+      "word": "恩施网红浮桥车辆落水施救者发声",
+      "onboard_time": 1684274415,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25348,
@@ -5115,14 +5139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13725,
-      "num": 19563,
-      "word": "平凡之路父亲出轨道德绑架女儿",
-      "onboard_time": 1684272674,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 13215,
       "num": 17592,
       "word": "每个妈妈都喜欢自己的宝宝",
@@ -5132,7 +5148,7 @@
     },
     {
       "raw_hot": 11830,
-      "num": 19549,
+      "num": 26099,
       "word": "navi faze",
       "onboard_time": 1684271292,
       "rank": 49,

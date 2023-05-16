@@ -1,6 +1,6 @@
 {
   "startTime": 1684254143599,
-  "endTime": 1684272808615,
+  "endTime": 1684275357134,
   "band_list": [
     {
       "raw_hot": 2021463,
@@ -427,6 +427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108758,
+      "num": 55486,
+      "word": "第一甲第一名状元卷有多强大",
+      "onboard_time": 1684259835,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105288,
       "num": 105288,
       "word": "以前抗拒后来真香的食物",
@@ -435,12 +443,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 105256,
-      "num": 45552,
-      "word": "第一甲第一名状元卷有多强大",
-      "onboard_time": 1684259835,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 101629,
+      "num": 101629,
+      "word": "因为臭脸躲过了一次抢劫",
+      "onboard_time": 1684241013,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 100760,
@@ -459,7 +467,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74435,
+      "raw_hot": 79113,
       "num": 100501,
       "word": "他选择了评论最多的调头方式",
       "onboard_time": 1684253489,
@@ -483,16 +491,24 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 63596,
-      "num": 63596,
-      "word": "因为臭脸躲过了一次抢劫",
-      "onboard_time": 1684241013,
-      "rank": 39,
-      "category": "情感"
+      "raw_hot": 60447,
+      "num": 53877,
+      "word": "线下脱口秀为什么不让录音录像",
+      "onboard_time": 1684272972,
+      "rank": 22,
+      "category": "社会新闻,社会新闻"
     },
     {
-      "raw_hot": 36369,
-      "num": 36369,
+      "raw_hot": 46426,
+      "num": 46426,
+      "word": "平凡之路父亲出轨道德绑架女儿",
+      "onboard_time": 1684272674,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 40198,
+      "num": 40198,
       "word": "国际米兰vsAC米兰",
       "onboard_time": 1684262894,
       "rank": 46,
@@ -507,16 +523,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 13725,
-      "num": 19563,
-      "word": "平凡之路父亲出轨道德绑架女儿",
-      "onboard_time": 1684272674,
-      "rank": 47,
-      "category": "影视"
+      "raw_hot": 26101,
+      "num": 26101,
+      "word": "恩施网红浮桥车辆落水施救者发声",
+      "onboard_time": 1684274415,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11830,
-      "num": 19549,
+      "num": 26099,
       "word": "navi faze",
       "onboard_time": 1684271292,
       "rank": 49,
