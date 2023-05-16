@@ -1,6 +1,6 @@
 {
   "startTime": 1684254143599,
-  "endTime": 1684258404573,
+  "endTime": 1684261241040,
   "band_list": [
     {
       "raw_hot": 2021463,
@@ -443,6 +443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 99433,
+      "num": 42986,
+      "word": "第一甲第一名状元卷有多强大",
+      "onboard_time": 1684259835,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95365,
       "num": 75454,
       "word": "广东妈妈岗工资开到12000元",
@@ -473,6 +481,14 @@
       "onboard_time": 1684253009,
       "rank": 28,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 39483,
+      "num": 39483,
+      "word": "因为臭脸躲过了一次抢劫",
+      "onboard_time": 1684241013,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 11328,

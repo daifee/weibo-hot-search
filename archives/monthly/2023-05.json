@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684258404573,
+  "endTime": 1684261241040,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -32593,6 +32593,14 @@
       "onboard_time": 1683415880,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 99433,
+      "num": 42986,
+      "word": "第一甲第一名状元卷有多强大",
+      "onboard_time": 1684259835,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98376,
