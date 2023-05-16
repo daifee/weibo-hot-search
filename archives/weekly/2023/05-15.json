@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684205009633,
+  "endTime": 1684207084682,
   "band_list": [
     {
       "raw_hot": 3904532,
@@ -115,6 +115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1846343,
+      "num": 1846343,
+      "word": "以为吴京和郭帆结婚了",
+      "onboard_time": 1684202427,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1805448,
       "num": 1805448,
       "word": "江西失踪5岁双胞胎均已身亡",
@@ -163,14 +171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1663346,
-      "num": 1663346,
-      "word": "以为吴京和郭帆结婚了",
-      "onboard_time": 1684202427,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1574227,
       "num": 1574227,
       "word": "笑果",
@@ -193,6 +193,14 @@
       "onboard_time": 1684078408,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1529474,
+      "num": 399528,
+      "word": "笑果文化称不当言论是HOUSE临时加的",
+      "onboard_time": 1684192883,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 1529435,
@@ -299,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1224592,
+      "num": 510861,
+      "word": "警方通报母女3人手绑一起河中身亡",
+      "onboard_time": 1684194625,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1221403,
       "num": 1221403,
       "word": "有退休金与没退休金的直观展示",
@@ -339,14 +355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1181607,
-      "num": 510861,
-      "word": "警方通报母女3人手绑一起河中身亡",
-      "onboard_time": 1684194625,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1177288,
       "num": 1177288,
       "word": "加拿大模特在中国坐月子",
@@ -369,6 +377,14 @@
       "onboard_time": 1684138467,
       "rank": 48,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 1131313,
+      "num": 1131313,
+      "word": "摄影师回应迪丽热巴未修原档生图",
+      "onboard_time": 1684198649,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1104744,
@@ -611,6 +627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 693807,
+      "num": 693807,
+      "word": "折腰",
+      "onboard_time": 1684203748,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 683248,
       "num": 683248,
       "word": "当你胖了四斤肉而已",
@@ -691,20 +715,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 610075,
+      "num": 377332,
+      "word": "胡锡进",
+      "onboard_time": 1684204048,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 606769,
       "num": 606769,
       "word": "秋瓷炫像是在跳我的人生",
       "onboard_time": 1684064007,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 604331,
-      "num": 604331,
-      "word": "摄影师回应迪丽热巴未修原档生图",
-      "onboard_time": 1684198649,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 599917,
@@ -769,6 +793,14 @@
       "onboard_time": 1684145367,
       "rank": 33,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 509140,
+      "num": 509140,
+      "word": "村民院子里挖出102枚手榴弹",
+      "onboard_time": 1684202607,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 491073,
@@ -971,6 +1003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 410335,
+      "num": 410335,
+      "word": "闲鱼开收软件服务费",
+      "onboard_time": 1684202188,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 406391,
       "num": 406391,
       "word": "王源的戒断日记",
@@ -1051,14 +1091,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 370912,
-      "num": 370912,
-      "word": "村民院子里挖出102枚手榴弹",
-      "onboard_time": 1684202607,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 369633,
       "num": 369633,
       "word": "油价",
@@ -1097,14 +1129,6 @@
       "onboard_time": 1684161453,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 359476,
-      "num": 359476,
-      "word": "折腰",
-      "onboard_time": 1684203748,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 358497,
@@ -1211,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 332201,
+      "num": 270667,
+      "word": "范丞丞地垄沟发型",
+      "onboard_time": 1684206029,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 329528,
       "num": 329528,
       "word": "唐山警方回应农妇袭警案",
@@ -1251,20 +1283,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 319662,
+      "num": 270289,
+      "word": "饭局上客户说菜点多了",
+      "onboard_time": 1684204646,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 319280,
       "num": 319280,
       "word": "吴谨言再现魏璎珞",
       "onboard_time": 1684136909,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 319033,
-      "num": 319033,
-      "word": "胡锡进",
-      "onboard_time": 1684204048,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 313390,
@@ -1483,6 +1515,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 271260,
+      "num": 271260,
+      "word": "女生为81岁外婆拍百张治愈系照片",
+      "onboard_time": 1684205188,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268753,
       "num": 173977,
       "word": "90后总裁追星蔡徐坤",
@@ -1507,14 +1547,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 267168,
-      "num": 179609,
-      "word": "笑果文化称不当言论是HOUSE临时加的",
-      "onboard_time": 1684192883,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 261096,
       "num": 261096,
       "word": "全国约有11至12亿人感染过新冠",
@@ -1529,14 +1561,6 @@
       "onboard_time": 1684124734,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 259112,
-      "num": 259112,
-      "word": "闲鱼开收软件服务费",
-      "onboard_time": 1684202188,
-      "rank": 26,
-      "category": "科技"
     },
     {
       "raw_hot": 258626,
@@ -2035,14 +2059,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 198313,
-      "num": 198313,
-      "word": "饭局上客户说菜点多了",
-      "onboard_time": 1684204646,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 195658,
       "num": 195658,
       "word": "宋浩老师回应高数视频播放破亿",
@@ -2121,6 +2137,14 @@
       "onboard_time": 1684142909,
       "rank": 34,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 188577,
+      "num": 188577,
+      "word": "韩警方或提请批捕刘亚仁",
+      "onboard_time": 1684206510,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 188553,
@@ -2225,6 +2249,14 @@
       "onboard_time": 1684123111,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180948,
+      "num": 180948,
+      "word": "吉克隽逸彝族证件照",
+      "onboard_time": 1684206087,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 180804,
@@ -2651,6 +2683,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 139460,
+      "num": 139460,
+      "word": "狗狗大战边牧觉得好丢狗",
+      "onboard_time": 1684205727,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138974,
       "num": 138974,
       "word": "老人主动住养老院写下80万字日记",
@@ -2817,6 +2857,14 @@
       "onboard_time": 1684117706,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123521,
+      "num": 123521,
+      "word": "高叶出发戛纳",
+      "onboard_time": 1684206867,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 121811,
