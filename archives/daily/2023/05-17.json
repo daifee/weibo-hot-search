@@ -1,6 +1,6 @@
 {
   "startTime": 1684254143599,
-  "endTime": 1684262009979,
+  "endTime": 1684264447469,
   "band_list": [
     {
       "raw_hot": 2021463,
@@ -483,12 +483,28 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 45152,
-      "num": 45152,
+      "raw_hot": 57596,
+      "num": 57596,
       "word": "因为臭脸躲过了一次抢劫",
       "onboard_time": 1684241013,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 29237,
+      "num": 29237,
+      "word": "朱一龙 戛纳",
+      "onboard_time": 1684128569,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 23125,
+      "num": 23125,
+      "word": "国际米兰vsAC米兰",
+      "onboard_time": 1684262894,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 11328,

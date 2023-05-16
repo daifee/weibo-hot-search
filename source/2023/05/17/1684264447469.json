@@ -1,0 +1,410 @@
+{
+  "runTime": 1684264447469,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 272873,
+        "num": 272873,
+        "word": "温精灵道歉",
+        "onboard_time": 1684242336,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 195593,
+        "num": 195593,
+        "word": "戛纳红毯",
+        "onboard_time": 1684256481,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 3038,
+        "num": 178625,
+        "word": "经济运行延续恢复向好态势",
+        "onboard_time": 1684224210,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 174112,
+        "num": 174112,
+        "word": "关晓彤戛纳",
+        "onboard_time": 1684256303,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172214,
+        "num": 172214,
+        "word": "香港碎尸名媛蔡天凤丈夫发声",
+        "onboard_time": 1684250615,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130620,
+        "num": 130620,
+        "word": "唐艺昕脚腕纹身",
+        "onboard_time": 1684249174,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122656,
+        "num": 122656,
+        "word": "苗苗称与郑恺住的房子是租的",
+        "onboard_time": 1684240592,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75139,
+        "num": 75139,
+        "word": "病人被医生遗忘在磁共振舱近三小时",
+        "onboard_time": 1684245813,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68065,
+        "num": 68065,
+        "word": "秦昊减肥法第3天差点把自己送走",
+        "onboard_time": 1684239452,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 58688,
+        "num": 58688,
+        "word": "月初和月底发工资有什么区别",
+        "onboard_time": 1684248218,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95773,
+        "num": 58295,
+        "word": "巩俐戛纳生图",
+        "onboard_time": 1684257438,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 66790,
+        "num": 58163,
+        "word": "五月天演唱会黄牛票价格跌近万元",
+        "onboard_time": 1684248275,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 60487,
+        "num": 57914,
+        "word": "他选择了评论最多的调头方式",
+        "onboard_time": 1684253489,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57596,
+        "num": 57596,
+        "word": "因为臭脸躲过了一次抢劫",
+        "onboard_time": 1684241013,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56633,
+        "num": 56633,
+        "word": "董明珠曾称孟羽童拒绝两年内加薪",
+        "onboard_time": 1684243055,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50658,
+        "num": 50658,
+        "word": "戛纳红毯还得看女明星",
+        "onboard_time": 1684251272,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 47622,
+        "num": 47622,
+        "word": "何同学 视频封面点击率测试",
+        "onboard_time": 1684251755,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 45635,
+        "num": 45635,
+        "word": "程十安澄清",
+        "onboard_time": 1684238549,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 43208,
+        "num": 43208,
+        "word": "上海一研究生清晨从宿舍6楼坠亡",
+        "onboard_time": 1684235070,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 41728,
+        "num": 41728,
+        "word": "李莎旻子都快抡出火星子了",
+        "onboard_time": 1684255044,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111294,
+        "num": 41609,
+        "word": "速度与激情10",
+        "onboard_time": 1684252110,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41480,
+        "num": 41480,
+        "word": "女子用秦昊减肥法拉吐7天瘦5斤",
+        "onboard_time": 1684244435,
+        "rank": 21,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 38404,
+        "num": 38404,
+        "word": "广东妈妈岗工资开到12000元",
+        "onboard_time": 1684256361,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38316,
+        "num": 38316,
+        "word": "徐娇",
+        "onboard_time": 1684251333,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31501,
+        "num": 31501,
+        "word": "人民军队不容冒犯必须敬畏",
+        "onboard_time": 1684235490,
+        "rank": 24,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 38136,
+        "num": 31202,
+        "word": "张歆艺太瘦了",
+        "onboard_time": 1684248036,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36914,
+        "num": 31100,
+        "word": "孟羽童IP属地显示新加坡",
+        "onboard_time": 1684236812,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35631,
+        "num": 31000,
+        "word": "朱一龙亮相戛纳红毯",
+        "onboard_time": 1684256123,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30686,
+        "num": 30686,
+        "word": "也没有男生考得比我好呀",
+        "onboard_time": 1684242213,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 30371,
+        "num": 30371,
+        "word": "G2翻盘BLG",
+        "onboard_time": 1684244736,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79153,
+        "num": 30264,
+        "word": "第一甲第一名状元卷有多强大",
+        "onboard_time": 1684259835,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48269,
+        "num": 30204,
+        "word": "带两女儿投河溺亡女子父亲发声",
+        "onboard_time": 1684241614,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29557,
+        "num": 29557,
+        "word": "Angelababy红毯生图状态",
+        "onboard_time": 1684243899,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 29237,
+        "num": 29237,
+        "word": "朱一龙 戛纳",
+        "onboard_time": 1684128569,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29071,
+        "num": 29071,
+        "word": "谁给金子涵做的妆造",
+        "onboard_time": 1684245514,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28873,
+        "num": 28873,
+        "word": "何超莲婚后首亮相",
+        "onboard_time": 1684254087,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27771,
+        "num": 27771,
+        "word": "颜九 温精灵",
+        "onboard_time": 1684157374,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 27467,
+        "num": 27467,
+        "word": "欧冠半决赛",
+        "onboard_time": 1684250854,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26498,
+        "num": 26498,
+        "word": "临盆孕妇遇早高峰铁骑怒吼开道",
+        "onboard_time": 1684253727,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25969,
+        "num": 25969,
+        "word": "我现在的情绪真的很稳定",
+        "onboard_time": 1684244856,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27000,
+        "num": 25828,
+        "word": "战损是男人最好的嫁妆",
+        "onboard_time": 1684240891,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 26290,
+        "num": 25765,
+        "word": "hanni新闻图",
+        "onboard_time": 1684240350,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25552,
+        "num": 25552,
+        "word": "孔雪儿风格",
+        "onboard_time": 1684243114,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24831,
+        "num": 24831,
+        "word": "倪妮GUCCI",
+        "onboard_time": 1684236029,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24383,
+        "num": 24383,
+        "word": "赵露思陈哲远偷偷藏不住集数变更",
+        "onboard_time": 1684249596,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23811,
+        "num": 23811,
+        "word": "男子偷偷用打火机点燃女子的裙边",
+        "onboard_time": 1684246297,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23125,
+        "num": 23125,
+        "word": "国际米兰vsAC米兰",
+        "onboard_time": 1684262894,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21692,
+        "num": 23121,
+        "word": "只有文科生才知道的梗",
+        "onboard_time": 1684238910,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14919,
+        "num": 23119,
+        "word": "以前抗拒后来真香的食物",
+        "onboard_time": 1684250555,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 12993,
+        "num": 23117,
+        "word": "G2对战BLG",
+        "onboard_time": 1684242272,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#四组关键词看中国—中亚峰会#"
+    }
+  }
+}
