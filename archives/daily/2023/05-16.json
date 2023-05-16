@@ -1,10 +1,18 @@
 {
   "startTime": 1684167725625,
-  "endTime": 1684193603352,
+  "endTime": 1684200269874,
   "band_list": [
     {
+      "raw_hot": 2786707,
+      "num": 2786707,
+      "word": "人民日报评House冒犯人民子弟兵",
+      "onboard_time": 1684192760,
+      "rank": 19,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 2734536,
-      "num": 340109,
+      "num": 501751,
       "word": "颜九 温精灵",
       "onboard_time": 1684157374,
       "rank": 10,
@@ -12,15 +20,31 @@
     },
     {
       "raw_hot": 2669259,
-      "num": 351307,
+      "num": 516059,
       "word": "颜九要求温精灵公开道歉",
       "onboard_time": 1684158512,
       "rank": 13,
       "category": "网红"
     },
     {
-      "raw_hot": 1471434,
-      "num": 1471434,
+      "raw_hot": 2283254,
+      "num": 1113027,
+      "word": "是否该永久封杀house",
+      "onboard_time": 1684199969,
+      "rank": 3,
+      "category": "社会议题,艺人"
+    },
+    {
+      "raw_hot": 1771255,
+      "num": 356958,
+      "word": "house录音",
+      "onboard_time": 1684194748,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1679283,
+      "num": 1679283,
       "word": "月薪5000真的很低吗",
       "onboard_time": 1684156949,
       "rank": 0,
@@ -28,15 +52,23 @@
     },
     {
       "raw_hot": 1187286,
-      "num": 346484,
+      "num": 508986,
       "word": "王力宏李靓蕾现身法庭",
       "onboard_time": 1684164152,
       "rank": 11,
       "category": "艺人"
     },
     {
+      "raw_hot": 1181607,
+      "num": 510861,
+      "word": "警方通报母女3人手绑一起河中身亡",
+      "onboard_time": 1684194625,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1104744,
-      "num": 342801,
+      "num": 504096,
       "word": "沈月在闺蜜婚礼上哭了",
       "onboard_time": 1684163911,
       "rank": 12,
@@ -51,12 +83,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 905770,
-      "num": 905770,
+      "raw_hot": 940151,
+      "num": 940151,
       "word": "老爸给我晾的百褶裙",
       "onboard_time": 1684165291,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 880742,
+      "num": 880742,
+      "word": "马来西亚男子猥琐发言被群殴致死",
+      "onboard_time": 1684193904,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 878290,
@@ -65,6 +105,14 @@
       "onboard_time": 1684153047,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 810527,
+      "num": 810527,
+      "word": "中2574万彩票摊主转让摊位",
+      "onboard_time": 1684195648,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 729726,
@@ -99,6 +147,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 591135,
+      "num": 591135,
+      "word": "客轮1女子携离婚协议坠海身亡",
+      "onboard_time": 1684193844,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548861,
+      "num": 340863,
+      "word": "摄影师回应迪丽热巴未修原档生图",
+      "onboard_time": 1684198649,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 540501,
+      "num": 540501,
+      "word": "Ella改文案",
+      "onboard_time": 1684198889,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 537809,
       "num": 537809,
       "word": "朱珠直拍 有种不顾我死活的美",
@@ -112,6 +184,14 @@
       "word": "当你胖了四斤肉而已",
       "onboard_time": 1684162352,
       "rank": 6,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 499469,
+      "num": 499469,
+      "word": "一不小心翻到董事长工资",
+      "onboard_time": 1684146749,
+      "rank": 7,
       "category": "幽默"
     },
     {
@@ -139,20 +219,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 466878,
-      "num": 466878,
-      "word": "一不小心翻到董事长工资",
-      "onboard_time": 1684146749,
-      "rank": 7,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 422206,
       "num": 294252,
       "word": "文旅部门介入调查House不当言论",
       "onboard_time": 1684143389,
       "rank": 15,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 400551,
+      "num": 400551,
+      "word": "秦昊说自己和伊能静是独立的灵魂",
+      "onboard_time": 1684197210,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 374686,
@@ -163,11 +243,35 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 372469,
+      "num": 326996,
+      "word": "女儿工作后不跟家里联系了",
+      "onboard_time": 1684193785,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 363981,
       "num": 363981,
       "word": "house",
       "onboard_time": 1684193063,
       "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 358497,
+      "num": 358497,
+      "word": "宁安如梦",
+      "onboard_time": 1684195288,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 323211,
+      "num": 323211,
+      "word": "笑果刚签署崇德尚艺承诺书",
+      "onboard_time": 1684195712,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -179,12 +283,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 303188,
-      "num": 188960,
-      "word": "人民日报评House冒犯人民子弟兵",
-      "onboard_time": 1684192760,
-      "rank": 19,
-      "category": "社会新闻,艺人"
+      "raw_hot": 308398,
+      "num": 308398,
+      "word": "赵丽颖的身材",
+      "onboard_time": 1684195167,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 281790,
@@ -203,6 +307,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 270694,
+      "num": 270694,
+      "word": "4岁男童在游乐园内遭男子连续暴摔",
+      "onboard_time": 1684196128,
+      "rank": 27,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 267168,
       "num": 179609,
       "word": "笑果文化称不当言论是HOUSE临时加的",
@@ -219,11 +331,27 @@
       "category": "网红"
     },
     {
+      "raw_hot": 254919,
+      "num": 254919,
+      "word": "美依礼芽小时候",
+      "onboard_time": 1684197148,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 241736,
       "num": 213895,
       "word": "朱珠爷爷给她起的名字",
       "onboard_time": 1684150409,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 241722,
+      "num": 241722,
+      "word": "王鹤棣帮孟子义调汽车座椅",
+      "onboard_time": 1684194685,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -233,6 +361,22 @@
       "onboard_time": 1684167687,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 225717,
+      "num": 225717,
+      "word": "千万不要去熟人公司工作",
+      "onboard_time": 1684194446,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 222808,
+      "num": 222808,
+      "word": "麦当劳外卖可乐杯壁内布满霉点",
+      "onboard_time": 1684196069,
+      "rank": 32,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 214160,
@@ -299,12 +443,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188553,
+      "num": 188553,
+      "word": "99元5斤小龙虾外卖净重仅2.9斤",
+      "onboard_time": 1684193063,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187627,
       "num": 187627,
       "word": "现在年轻人流行断亲",
       "onboard_time": 1684166607,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 185668,
+      "num": 185668,
+      "word": "梦中的那片海",
+      "onboard_time": 1684193844,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 182696,
@@ -315,12 +475,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174911,
+      "num": 174911,
+      "word": "种地吧",
+      "onboard_time": 1684197452,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164596,
       "num": 164596,
       "word": "你支持全面禁止老头乐吗",
       "onboard_time": 1684138827,
       "rank": 32,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 161827,
+      "num": 161827,
+      "word": "Amber敬礼梦回fx",
+      "onboard_time": 1684195167,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 161602,
@@ -355,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143102,
+      "num": 143102,
+      "word": "油价",
+      "onboard_time": 1684199906,
+      "rank": 42,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 142236,
       "num": 142236,
       "word": "肖战李沁梦中的那片海播出时间",
@@ -377,6 +561,14 @@
       "onboard_time": 1684162411,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 127548,
+      "num": 127548,
+      "word": "上海这家咖啡馆请退休老人当店员",
+      "onboard_time": 1684196549,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120458,
@@ -435,24 +627,24 @@
       "category": "影视"
     },
     {
-      "raw_hot": 91892,
-      "num": 111922,
+      "raw_hot": 93626,
+      "num": 245245,
       "word": "为哥哥当眼睛60余年",
       "onboard_time": 1684191801,
       "rank": 40,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88719,
-      "num": 88719,
-      "word": "99元5斤小龙虾外卖净重仅2.9斤",
-      "onboard_time": 1684193063,
-      "rank": 38,
+      "raw_hot": 91393,
+      "num": 1160616,
+      "word": "出入境政策再优化",
+      "onboard_time": 1684159050,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
       "raw_hot": 88614,
-      "num": 100009,
+      "num": 121862,
       "word": "王者敦煌皮肤第四季",
       "onboard_time": 1684156411,
       "rank": 48,
@@ -475,12 +667,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 75299,
-      "num": 715725,
-      "word": "出入境政策再优化",
-      "onboard_time": 1684159050,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 61303,
+      "num": 121583,
+      "word": "浙江名小吃十佳榜单出炉",
+      "onboard_time": 1684196010,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 60169,
