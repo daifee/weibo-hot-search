@@ -1,0 +1,410 @@
+{
+  "runTime": 1684208041214,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1638841,
+        "num": 1638841,
+        "word": "以为吴京和郭帆结婚了",
+        "onboard_time": 1684202427,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1543825,
+        "num": 1543825,
+        "word": "人民日报评House冒犯人民子弟兵",
+        "onboard_time": 1684192760,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 53297,
+        "num": 1347180,
+        "word": "出入境政策再优化",
+        "onboard_time": 1684159050,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1173205,
+        "num": 1173205,
+        "word": "摄影师回应迪丽热巴未修原档生图",
+        "onboard_time": 1684198649,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1038250,
+        "num": 1038250,
+        "word": "Ella改文案",
+        "onboard_time": 1684198889,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 783737,
+        "num": 783737,
+        "word": "马来西亚男子猥琐发言被群殴致死",
+        "onboard_time": 1684193904,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731894,
+        "num": 731894,
+        "word": "house",
+        "onboard_time": 1684193063,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 712631,
+        "num": 712631,
+        "word": "向佐给经纪人10天时间学妆发",
+        "onboard_time": 1684207228,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 558188,
+        "num": 558188,
+        "word": "中2574万彩票摊主转让摊位",
+        "onboard_time": 1684195648,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488664,
+        "num": 488664,
+        "word": "村民院子里挖出102枚手榴弹",
+        "onboard_time": 1684202607,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1437409,
+        "num": 483650,
+        "word": "警方通报母女3人手绑一起河中身亡",
+        "onboard_time": 1684194625,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1163486,
+        "num": 479082,
+        "word": "颜九要求温精灵公开道歉",
+        "onboard_time": 1684158512,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 682491,
+        "num": 476796,
+        "word": "折腰",
+        "onboard_time": 1684203748,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 626968,
+        "num": 473037,
+        "word": "李诞",
+        "onboard_time": 1684207349,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542727,
+        "num": 463971,
+        "word": "颜九 温精灵",
+        "onboard_time": 1684157374,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 463575,
+        "num": 463575,
+        "word": "闲鱼开收软件服务费",
+        "onboard_time": 1684202188,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 359347,
+        "num": 359347,
+        "word": "老爸给我晾的百褶裙",
+        "onboard_time": 1684165291,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 342683,
+        "num": 342683,
+        "word": "女子武汉坐高铁遇满车人都在啃鸭脖",
+        "onboard_time": 1684188794,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308208,
+        "num": 308208,
+        "word": "朱珠直拍 有种不顾我死活的美",
+        "onboard_time": 1684160790,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268515,
+        "num": 268515,
+        "word": "女生为81岁外婆拍百张治愈系照片",
+        "onboard_time": 1684205188,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338647,
+        "num": 267210,
+        "word": "饭局上客户说菜点多了",
+        "onboard_time": 1684204646,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271409,
+        "num": 267099,
+        "word": "选结婚对象什么条件最重要",
+        "onboard_time": 1684201948,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263270,
+        "num": 263270,
+        "word": "吉克隽逸彝族证件照",
+        "onboard_time": 1684206087,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262828,
+        "num": 262828,
+        "word": "王力宏李靓蕾现身法庭",
+        "onboard_time": 1684164152,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176615,
+        "num": 176615,
+        "word": "女童落水被冲走两小伙飞奔救人",
+        "onboard_time": 1684202607,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 245708,
+        "num": 176167,
+        "word": "韩警方或提请批捕刘亚仁",
+        "onboard_time": 1684206510,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240102,
+        "num": 173528,
+        "word": "沈月在闺蜜婚礼上哭了",
+        "onboard_time": 1684163911,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235278,
+        "num": 169739,
+        "word": "范丞丞地垄沟发型",
+        "onboard_time": 1684206029,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163513,
+        "num": 163513,
+        "word": "麦当劳外卖可乐杯壁内布满霉点",
+        "onboard_time": 1684196069,
+        "rank": 28,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 152292,
+        "num": 152292,
+        "word": "狗狗大战边牧觉得好丢狗",
+        "onboard_time": 1684205727,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222617,
+        "num": 151667,
+        "word": "秦昊说自己和伊能静是独立的灵魂",
+        "onboard_time": 1684197210,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212527,
+        "num": 148934,
+        "word": "陈乔恩为奶牛猫发声",
+        "onboard_time": 1684200450,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186325,
+        "num": 148423,
+        "word": "美依礼芽小时候",
+        "onboard_time": 1684197148,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180994,
+        "num": 146694,
+        "word": "客轮1女子携离婚协议坠海身亡",
+        "onboard_time": 1684193844,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145217,
+        "num": 145217,
+        "word": "当你胖了四斤肉而已",
+        "onboard_time": 1684162352,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162684,
+        "num": 144225,
+        "word": "高叶出发戛纳",
+        "onboard_time": 1684206867,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151714,
+        "num": 143150,
+        "word": "赵丽颖的身材",
+        "onboard_time": 1684195167,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 471112,
+        "num": 140691,
+        "word": "胡锡进",
+        "onboard_time": 1684204048,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146462,
+        "num": 139255,
+        "word": "折腰杀青全员盼开播",
+        "onboard_time": 1684203505,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138876,
+        "num": 138876,
+        "word": "油价",
+        "onboard_time": 1684199906,
+        "rank": 39,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 930777,
+        "num": 136903,
+        "word": "house录音",
+        "onboard_time": 1684194748,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143856,
+        "num": 136531,
+        "word": "王鹤棣帮孟子义调汽车座椅",
+        "onboard_time": 1684194685,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134147,
+        "num": 134147,
+        "word": "杀我别用毕业刀",
+        "onboard_time": 1684204646,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130908,
+        "num": 130908,
+        "word": "梦中的那片海",
+        "onboard_time": 1684193844,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129382,
+        "num": 129382,
+        "word": "女儿工作后不跟家里联系了",
+        "onboard_time": 1684193785,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127970,
+        "num": 127970,
+        "word": "汪小敏一公直拍",
+        "onboard_time": 1684204407,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111441,
+        "num": 127763,
+        "word": "海底捞被质疑推荐饮料不提费用",
+        "onboard_time": 1684207767,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104460,
+        "num": 127572,
+        "word": "G2淘汰",
+        "onboard_time": 1684192341,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102027,
+        "num": 127191,
+        "word": "文旅部门介入调查House不当言论",
+        "onboard_time": 1684143389,
+        "rank": 48,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 52600,
+        "num": 126894,
+        "word": "浙江名小吃十佳榜单出炉",
+        "onboard_time": 1684196010,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023春季中国元首外交纪实#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1684167725625,
-  "endTime": 1684207084682,
+  "endTime": 1684208041214,
   "band_list": [
     {
       "raw_hot": 3766911,
@@ -67,20 +67,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1437409,
+      "num": 510861,
+      "word": "警方通报母女3人手绑一起河中身亡",
+      "onboard_time": 1684194625,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1374267,
       "num": 1374267,
       "word": "Ella改文案",
       "onboard_time": 1684198889,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1224592,
-      "num": 510861,
-      "word": "警方通报母女3人手绑一起河中身亡",
-      "onboard_time": 1684194625,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1221403,
@@ -99,8 +99,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1131313,
-      "num": 1131313,
+      "raw_hot": 1173205,
+      "num": 1173205,
       "word": "摄影师回应迪丽热巴未修原档生图",
       "onboard_time": 1684198649,
       "rank": 21,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 731894,
+      "num": 731894,
+      "word": "house",
+      "onboard_time": 1684193063,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 729726,
       "num": 715721,
       "word": "内娱百分之百的原生脸",
@@ -179,12 +187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 712631,
+      "num": 712631,
+      "word": "向佐给经纪人10天时间学妆发",
+      "onboard_time": 1684207228,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 693807,
       "num": 693807,
       "word": "折腰",
       "onboard_time": 1684203748,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 626968,
+      "num": 473037,
+      "word": "李诞",
+      "onboard_time": 1684207349,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 610075,
@@ -267,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 463575,
+      "num": 463575,
+      "word": "闲鱼开收软件服务费",
+      "onboard_time": 1684202188,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 445344,
       "num": 445344,
       "word": "秦昊说自己和伊能静是独立的灵魂",
@@ -281,14 +313,6 @@
       "onboard_time": 1684143389,
       "rank": 15,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 410335,
-      "num": 410335,
-      "word": "闲鱼开收软件服务费",
-      "onboard_time": 1684202188,
-      "rank": 26,
-      "category": "科技"
     },
     {
       "raw_hot": 374686,
@@ -315,20 +339,20 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 363981,
-      "num": 363981,
-      "word": "house",
-      "onboard_time": 1684193063,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 358497,
       "num": 358497,
       "word": "宁安如梦",
       "onboard_time": 1684195288,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 338647,
+      "num": 270289,
+      "word": "饭局上客户说菜点多了",
+      "onboard_time": 1684204646,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 332201,
@@ -361,14 +385,6 @@
       "onboard_time": 1684200450,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 319662,
-      "num": 270289,
-      "word": "饭局上客户说菜点多了",
-      "onboard_time": 1684204646,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 313372,
@@ -427,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263270,
+      "num": 263270,
+      "word": "吉克隽逸彝族证件照",
+      "onboard_time": 1684206087,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257329,
       "num": 257329,
       "word": "任权直播还钱",
@@ -441,6 +465,14 @@
       "onboard_time": 1684197148,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 245708,
+      "num": 188577,
+      "word": "韩警方或提请批捕刘亚仁",
+      "onboard_time": 1684206510,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 241736,
@@ -571,14 +603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188577,
-      "num": 188577,
-      "word": "韩警方或提请批捕刘亚仁",
-      "onboard_time": 1684206510,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 188553,
       "num": 188553,
       "word": "99元5斤小龙虾外卖净重仅2.9斤",
@@ -611,14 +635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 180948,
-      "num": 180948,
-      "word": "吉克隽逸彝族证件照",
-      "onboard_time": 1684206087,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 177344,
       "num": 177344,
       "word": "最受青年观众欢迎十年十部优秀影片",
@@ -633,6 +649,14 @@
       "onboard_time": 1684138827,
       "rank": 32,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 162684,
+      "num": 144225,
+      "word": "高叶出发戛纳",
+      "onboard_time": 1684206867,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 161827,
@@ -659,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152292,
+      "num": 152292,
+      "word": "狗狗大战边牧觉得好丢狗",
+      "onboard_time": 1684205727,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147460,
       "num": 147460,
       "word": "怎么没有徐怀钰直拍",
@@ -681,14 +713,6 @@
       "onboard_time": 1684152627,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 139460,
-      "num": 139460,
-      "word": "狗狗大战边牧觉得好丢狗",
-      "onboard_time": 1684205727,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 132618,
@@ -731,14 +755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123521,
-      "num": 123521,
-      "word": "高叶出发戛纳",
-      "onboard_time": 1684206867,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 120458,
       "num": 120458,
       "word": "港妹能不能吃点好的",
@@ -769,6 +785,14 @@
       "onboard_time": 1684157910,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111441,
+      "num": 127763,
+      "word": "海底捞被质疑推荐饮料不提费用",
+      "onboard_time": 1684207767,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107081,

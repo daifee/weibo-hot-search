@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684207084682,
+  "endTime": 1684208041214,
   "band_list": [
     {
       "raw_hot": 3904532,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1437409,
+      "num": 510861,
+      "word": "警方通报母女3人手绑一起河中身亡",
+      "onboard_time": 1684194625,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1414087,
       "num": 1414087,
       "word": "挖呀挖黄老师关闭直播间打赏",
@@ -307,14 +315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1224592,
-      "num": 510861,
-      "word": "警方通报母女3人手绑一起河中身亡",
-      "onboard_time": 1684194625,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1221403,
       "num": 1221403,
       "word": "有退休金与没退休金的直观展示",
@@ -371,20 +371,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1173205,
+      "num": 1173205,
+      "word": "摄影师回应迪丽热巴未修原档生图",
+      "onboard_time": 1684198649,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1151953,
       "num": 1151953,
       "word": "洞洞鞋",
       "onboard_time": 1684138467,
       "rank": 48,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 1131313,
-      "num": 1131313,
-      "word": "摄影师回应迪丽热巴未修原档生图",
-      "onboard_time": 1684198649,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 1104744,
@@ -587,6 +587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 731894,
+      "num": 731894,
+      "word": "house",
+      "onboard_time": 1684193063,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 731205,
       "num": 731205,
       "word": "听见过三观最不正的话",
@@ -601,6 +609,14 @@
       "onboard_time": 1684162771,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 712631,
+      "num": 712631,
+      "word": "向佐给经纪人10天时间学妆发",
+      "onboard_time": 1684207228,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 706990,
@@ -712,6 +728,14 @@
       "word": "叉烧芬 你徒弟出师了",
       "onboard_time": 1684113086,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 626968,
+      "num": 473037,
+      "word": "李诞",
+      "onboard_time": 1684207349,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -867,6 +891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 463575,
+      "num": 463575,
+      "word": "闲鱼开收软件服务费",
+      "onboard_time": 1684202188,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 463302,
       "num": 463302,
       "word": "足浴技师称被灌醉遭性侵获立案",
@@ -1003,14 +1035,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 410335,
-      "num": 410335,
-      "word": "闲鱼开收软件服务费",
-      "onboard_time": 1684202188,
-      "rank": 26,
-      "category": "科技"
-    },
-    {
       "raw_hot": 406391,
       "num": 406391,
       "word": "王源的戒断日记",
@@ -1107,14 +1131,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 363981,
-      "num": 363981,
-      "word": "house",
-      "onboard_time": 1684193063,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 362768,
       "num": 221589,
       "word": "王俊凯在回应哪个",
@@ -1193,6 +1209,14 @@
       "onboard_time": 1684117587,
       "rank": 27,
       "category": "科技"
+    },
+    {
+      "raw_hot": 338647,
+      "num": 270289,
+      "word": "饭局上客户说菜点多了",
+      "onboard_time": 1684204646,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 338576,
@@ -1281,14 +1305,6 @@
       "onboard_time": 1684200450,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 319662,
-      "num": 270289,
-      "word": "饭局上客户说菜点多了",
-      "onboard_time": 1684204646,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 319280,
@@ -1547,6 +1563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 263270,
+      "num": 263270,
+      "word": "吉克隽逸彝族证件照",
+      "onboard_time": 1684206087,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261096,
       "num": 261096,
       "word": "全国约有11至12亿人感染过新冠",
@@ -1617,6 +1641,14 @@
       "onboard_time": 1684116083,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245708,
+      "num": 188577,
+      "word": "韩警方或提请批捕刘亚仁",
+      "onboard_time": 1684206510,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 244253,
@@ -2139,14 +2171,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 188577,
-      "num": 188577,
-      "word": "韩警方或提请批捕刘亚仁",
-      "onboard_time": 1684206510,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 188553,
       "num": 188553,
       "word": "99元5斤小龙虾外卖净重仅2.9斤",
@@ -2249,14 +2273,6 @@
       "onboard_time": 1684123111,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 180948,
-      "num": 180948,
-      "word": "吉克隽逸彝族证件照",
-      "onboard_time": 1684206087,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 180804,
@@ -2491,6 +2507,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 162684,
+      "num": 144225,
+      "word": "高叶出发戛纳",
+      "onboard_time": 1684206867,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 161975,
       "num": 161975,
       "word": "女装尺码",
@@ -2553,6 +2577,14 @@
       "onboard_time": 1684147827,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152292,
+      "num": 152292,
+      "word": "狗狗大战边牧觉得好丢狗",
+      "onboard_time": 1684205727,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 150347,
@@ -2681,14 +2713,6 @@
       "onboard_time": 1684079909,
       "rank": 34,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 139460,
-      "num": 139460,
-      "word": "狗狗大战边牧觉得好丢狗",
-      "onboard_time": 1684205727,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 138974,
@@ -2859,14 +2883,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 123521,
-      "num": 123521,
-      "word": "高叶出发戛纳",
-      "onboard_time": 1684206867,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 121811,
       "num": 121811,
       "word": "男朋友送的生日礼物是个钥匙扣",
@@ -2897,6 +2913,14 @@
       "onboard_time": 1684113266,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 111441,
+      "num": 127763,
+      "word": "海底捞被质疑推荐饮料不提费用",
+      "onboard_time": 1684207767,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110942,

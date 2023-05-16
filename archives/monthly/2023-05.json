@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684207084682,
+  "endTime": 1684208041214,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -2635,6 +2635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1437409,
+      "num": 510861,
+      "word": "警方通报母女3人手绑一起河中身亡",
+      "onboard_time": 1684194625,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1437237,
       "num": 1437237,
       "word": "破音",
@@ -3419,14 +3427,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1224592,
-      "num": 510861,
-      "word": "警方通报母女3人手绑一起河中身亡",
-      "onboard_time": 1684194625,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1223952,
       "num": 1223952,
       "word": "长月烬明就演到这吧",
@@ -3683,6 +3683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1173205,
+      "num": 1173205,
+      "word": "摄影师回应迪丽热巴未修原档生图",
+      "onboard_time": 1684198649,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1172789,
       "num": 1172789,
       "word": "原来十斤肉有这么多",
@@ -3833,14 +3841,6 @@
       "onboard_time": 1683077670,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1131313,
-      "num": 1131313,
-      "word": "摄影师回应迪丽热巴未修原档生图",
-      "onboard_time": 1684198649,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 1131243,
@@ -6107,6 +6107,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 731894,
+      "num": 731894,
+      "word": "house",
+      "onboard_time": 1684193063,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 731825,
       "num": 731825,
       "word": "杨洋刘诗诗赵露思的古装仪态",
@@ -6249,6 +6257,14 @@
       "onboard_time": 1683027270,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 712631,
+      "num": 712631,
+      "word": "向佐给经纪人10天时间学妆发",
+      "onboard_time": 1684207228,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 709367,
@@ -7048,6 +7064,14 @@
       "word": "杨洋组织同学会",
       "onboard_time": 1683091590,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 626968,
+      "num": 473037,
+      "word": "李诞",
+      "onboard_time": 1684207349,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -9635,6 +9659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 463575,
+      "num": 463575,
+      "word": "闲鱼开收软件服务费",
+      "onboard_time": 1684202188,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 463302,
       "num": 463302,
       "word": "足浴技师称被灌醉遭性侵获立案",
@@ -11009,14 +11041,6 @@
       "onboard_time": 1682855067,
       "rank": 7,
       "category": "作品衍生,情感"
-    },
-    {
-      "raw_hot": 410335,
-      "num": 410335,
-      "word": "闲鱼开收软件服务费",
-      "onboard_time": 1684202188,
-      "rank": 26,
-      "category": "科技"
     },
     {
       "raw_hot": 410121,
@@ -12571,14 +12595,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 363981,
-      "num": 363981,
-      "word": "house",
-      "onboard_time": 1684193063,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 363654,
       "num": 363654,
       "word": "TES官宣dian加入",
@@ -13763,6 +13779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 338647,
+      "num": 270289,
+      "word": "饭局上客户说菜点多了",
+      "onboard_time": 1684204646,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 338626,
       "num": 338626,
       "word": "男友变心姑娘把他送的黄金卖了14万",
@@ -14617,14 +14641,6 @@
       "onboard_time": 1683041139,
       "rank": 15,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 319662,
-      "num": 270289,
-      "word": "饭局上客户说菜点多了",
-      "onboard_time": 1684204646,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 319280,
@@ -17763,6 +17779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 263270,
+      "num": 263270,
+      "word": "吉克隽逸彝族证件照",
+      "onboard_time": 1684206087,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263195,
       "num": 263195,
       "word": "乘风破浪",
@@ -19025,6 +19049,14 @@
       "onboard_time": 1683442826,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245708,
+      "num": 188577,
+      "word": "韩警方或提请批捕刘亚仁",
+      "onboard_time": 1684206510,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 245468,
@@ -24267,14 +24299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 188577,
-      "num": 188577,
-      "word": "韩警方或提请批捕刘亚仁",
-      "onboard_time": 1684206510,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 188553,
       "num": 188553,
       "word": "99元5斤小龙虾外卖净重仅2.9斤",
@@ -24913,14 +24937,6 @@
       "onboard_time": 1683032372,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 180948,
-      "num": 180948,
-      "word": "吉克隽逸彝族证件照",
-      "onboard_time": 1684206087,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 180931,
@@ -26803,6 +26819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162684,
+      "num": 144225,
+      "word": "高叶出发戛纳",
+      "onboard_time": 1684206867,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 162648,
       "num": 162648,
       "word": "旅行回来把10年的朋友拉黑了",
@@ -27665,6 +27689,14 @@
       "onboard_time": 1683938667,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152292,
+      "num": 152292,
+      "word": "狗狗大战边牧觉得好丢狗",
+      "onboard_time": 1684205727,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 152143,
@@ -28665,14 +28697,6 @@
       "onboard_time": 1683721950,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139460,
-      "num": 139460,
-      "word": "狗狗大战边牧觉得好丢狗",
-      "onboard_time": 1684205727,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 139213,
@@ -29835,14 +29859,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 123521,
-      "num": 123521,
-      "word": "高叶出发戛纳",
-      "onboard_time": 1684206867,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 123462,
       "num": 123462,
       "word": "赵丽颖cos哈利波特特里劳妮",
@@ -30433,6 +30449,14 @@
       "onboard_time": 1684056266,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111441,
+      "num": 127763,
+      "word": "海底捞被质疑推荐饮料不提费用",
+      "onboard_time": 1684207767,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111388,
