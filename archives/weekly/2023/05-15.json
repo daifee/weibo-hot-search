@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684226016183,
+  "endTime": 1684228596638,
   "band_list": [
     {
       "raw_hot": 3904532,
@@ -32,6 +32,14 @@
       "word": "颜九 温精灵",
       "onboard_time": 1684157374,
       "rank": 19,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 3139936,
+      "num": 1614534,
+      "word": "孟羽童被曝考勤异常率超80%",
+      "onboard_time": 1684224508,
+      "rank": 30,
       "category": "网红"
     },
     {
@@ -104,6 +112,14 @@
       "word": "徐娇回应泳装照争议",
       "onboard_time": 1684220551,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2045307,
+      "num": 427305,
+      "word": "张根硕肿么了",
+      "onboard_time": 1684226851,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -216,14 +232,6 @@
       "word": "章泽天疑怀三胎",
       "onboard_time": 1684215690,
       "rank": 10,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 1614534,
-      "num": 1614534,
-      "word": "孟羽童被曝考勤异常率超80%",
-      "onboard_time": 1684224508,
-      "rank": 30,
       "category": "网红"
     },
     {
@@ -363,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1312456,
+      "num": 426813,
+      "word": "女友穿的太暴露怎么办",
+      "onboard_time": 1684223788,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1310649,
       "num": 1310649,
       "word": "秋瓷炫工地芭蕾直拍流出",
@@ -403,14 +419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1222757,
-      "num": 336273,
-      "word": "女友穿的太暴露怎么办",
-      "onboard_time": 1684223788,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1221403,
       "num": 1221403,
       "word": "有退休金与没退休金的直观展示",
@@ -425,6 +433,14 @@
       "onboard_time": 1684147289,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1206956,
+      "num": 786643,
+      "word": "沈月给闺蜜的证婚词",
+      "onboard_time": 1684222949,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1196154,
@@ -675,14 +691,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 786643,
-      "num": 786643,
-      "word": "沈月给闺蜜的证婚词",
-      "onboard_time": 1684222949,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 770435,
       "num": 770435,
       "word": "QQ音乐",
@@ -721,6 +729,14 @@
       "onboard_time": 1684193063,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 738122,
+      "num": 738122,
+      "word": "发工资时间看公司",
+      "onboard_time": 1684224508,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 731205,
@@ -1195,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 430370,
+      "num": 430370,
+      "word": "恩施",
+      "onboard_time": 1684225709,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 429445,
       "num": 429445,
       "word": "找到秋瓷炫不会跳舞的原因",
@@ -1209,6 +1233,14 @@
       "onboard_time": 1684130968,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 425055,
+      "num": 425055,
+      "word": "侯明昊回应周也",
+      "onboard_time": 1684226550,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 423727,
@@ -1355,20 +1387,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 378004,
-      "num": 311609,
-      "word": "发工资时间看公司",
-      "onboard_time": 1684224508,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 374743,
       "num": 368716,
       "word": "一年半年才发一次朋友圈",
       "onboard_time": 1684160671,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 374378,
+      "num": 374378,
+      "word": "陈乔恩老花了",
+      "onboard_time": 1684224029,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 372469,
@@ -1388,7 +1420,7 @@
     },
     {
       "raw_hot": 370453,
-      "num": 353026,
+      "num": 377421,
       "word": "上甘岭 松鼠",
       "onboard_time": 1684220790,
       "rank": 26,
@@ -1417,14 +1449,6 @@
       "onboard_time": 1684107684,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 361553,
-      "num": 191226,
-      "word": "陈乔恩老花了",
-      "onboard_time": 1684224029,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 360107,
@@ -2003,6 +2027,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 258700,
+      "num": 258700,
+      "word": "赵丽颖雷佳音或将演清明上河图密码",
+      "onboard_time": 1684228049,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 258626,
       "num": 258626,
       "word": "汶川95后小伙回乡卖光村里的滞销果",
@@ -2051,6 +2083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249294,
+      "num": 243527,
+      "word": "张雨绮担任法国尼斯旅游文化大使",
+      "onboard_time": 1684227450,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249099,
       "num": 249099,
       "word": "30岁前快解决的几个问题",
@@ -2089,6 +2129,14 @@
       "onboard_time": 1684219109,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242349,
+      "num": 242349,
+      "word": "罗云熙澹台烬猫眼角色热度榜登顶",
+      "onboard_time": 1684226308,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 242016,
@@ -2131,12 +2179,28 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 239058,
+      "num": 239058,
+      "word": "Angelababy的身材比例",
+      "onboard_time": 1684228169,
+      "rank": 29,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 235156,
       "num": 235156,
       "word": "bing崩了",
       "onboard_time": 1684140931,
       "rank": 25,
       "category": "科技"
+    },
+    {
+      "raw_hot": 235137,
+      "num": 235137,
+      "word": "沈月翁小雯 女孩子的友谊",
+      "onboard_time": 1684225650,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 233688,
@@ -2369,6 +2433,14 @@
       "onboard_time": 1684107143,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 215664,
+      "num": 429123,
+      "word": "幼儿断手指的哥闯红灯跑赢12分钟",
+      "onboard_time": 1684227272,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215507,
@@ -2635,6 +2707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 192846,
+      "num": 192846,
+      "word": "张艺凡帮晕倒的NPC挡腿",
+      "onboard_time": 1684225287,
+      "rank": 31,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 192466,
       "num": 192466,
       "word": "G2淘汰",
@@ -2673,14 +2753,6 @@
       "onboard_time": 1684060525,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 190960,
-      "num": 190960,
-      "word": "张艺凡帮晕倒的NPC挡腿",
-      "onboard_time": 1684225287,
-      "rank": 31,
-      "category": "综艺,综艺"
     },
     {
       "raw_hot": 189554,
@@ -2771,14 +2843,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 185701,
-      "num": 185701,
-      "word": "沈月翁小雯 女孩子的友谊",
-      "onboard_time": 1684225650,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 185668,
       "num": 185668,
       "word": "梦中的那片海",
@@ -2793,6 +2857,14 @@
       "onboard_time": 1684106484,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184626,
+      "num": 184626,
+      "word": "在淄博当烧烤师傅是啥体验",
+      "onboard_time": 1684228468,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 183842,
@@ -2825,14 +2897,6 @@
       "onboard_time": 1684153709,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 182263,
-      "num": 191262,
-      "word": "恩施",
-      "onboard_time": 1684225709,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182005,
@@ -2905,6 +2969,14 @@
       "onboard_time": 1684204407,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 177044,
+      "num": 162512,
+      "word": "金曲奖 遗珠",
+      "onboard_time": 1684227029,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 176823,
@@ -3137,6 +3209,14 @@
       "onboard_time": 1684132289,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 162822,
+      "num": 162822,
+      "word": "王者荣耀",
+      "onboard_time": 1684227509,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 161975,
@@ -3379,6 +3459,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 141588,
+      "num": 141588,
+      "word": "刘诗诗狐妖小红娘竹业篇新造型",
+      "onboard_time": 1684227930,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 141360,
       "num": 127942,
       "word": "浪姐4冠军预测",
@@ -3459,6 +3547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135613,
+      "num": 135613,
+      "word": "男童扶梯跌倒特警飞奔救下",
+      "onboard_time": 1684224989,
+      "rank": 44,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 134993,
       "num": 112854,
       "word": "林允儿跳了Ditto",
@@ -3481,6 +3577,14 @@
       "onboard_time": 1684139371,
       "rank": 45,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 133064,
+      "num": 133064,
+      "word": "安琪拉追逃游戏新皮肤",
+      "onboard_time": 1684226851,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 133057,
@@ -3521,14 +3625,6 @@
       "onboard_time": 1684222349,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 132148,
-      "num": 132148,
-      "word": "男童扶梯跌倒特警飞奔救下",
-      "onboard_time": 1684224989,
-      "rank": 44,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 130636,
@@ -3592,6 +3688,14 @@
       "word": "鞋子坏了你还会修吗",
       "onboard_time": 1684217608,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126882,
+      "num": 126882,
+      "word": "民工大叔躺地休息店主暖心递上枕头",
+      "onboard_time": 1684227869,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -3771,6 +3875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102028,
+      "num": 1379151,
+      "word": "经济运行延续恢复向好态势",
+      "onboard_time": 1684224210,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 96915,
       "num": 96915,
       "word": "杰尼斯社长道歉",
@@ -3849,14 +3961,6 @@
       "onboard_time": 1684119928,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 84231,
-      "num": 1379151,
-      "word": "经济运行延续恢复向好态势",
-      "onboard_time": 1684224210,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 83482,
