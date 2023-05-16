@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684254143599,
+  "endTime": 1684255055154,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -7171,6 +7171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 651526,
+      "num": 329407,
+      "word": "徐娇",
+      "onboard_time": 1684251333,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 651227,
       "num": 314802,
       "word": "辞职后去旅游发朋友圈被说了",
@@ -7201,14 +7209,6 @@
       "onboard_time": 1684079068,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 645862,
-      "num": 329407,
-      "word": "徐娇",
-      "onboard_time": 1684251333,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 644941,
@@ -9313,6 +9313,14 @@
       "onboard_time": 1683532414,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 507411,
+      "num": 320816,
+      "word": "何同学 视频封面点击率测试",
+      "onboard_time": 1684251755,
+      "rank": 13,
+      "category": "科技"
     },
     {
       "raw_hot": 507130,
@@ -11681,14 +11689,6 @@
       "onboard_time": 1683589589,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 407456,
-      "num": 320816,
-      "word": "何同学 视频封面点击率测试",
-      "onboard_time": 1684251755,
-      "rank": 13,
-      "category": "科技"
     },
     {
       "raw_hot": 407386,
@@ -29283,6 +29283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150667,
+      "num": 150667,
+      "word": "何超莲婚后首亮相",
+      "onboard_time": 1684254087,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150626,
       "num": 1510125,
       "word": "河南一退役军人勇救落水女孩",
@@ -29300,7 +29308,7 @@
     },
     {
       "raw_hot": 150457,
-      "num": 150457,
+      "num": 153992,
       "word": "原来小猫咪在农村是这样洗澡的",
       "onboard_time": 1684249897,
       "rank": 28,
@@ -29969,6 +29977,14 @@
       "onboard_time": 1683965668,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 142571,
+      "num": 119862,
+      "word": "速度与激情10",
+      "onboard_time": 1684252110,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 142481,
@@ -30923,14 +30939,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 130355,
-      "num": 119862,
-      "word": "速度与激情10",
-      "onboard_time": 1684252110,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 130290,
       "num": 195399,
       "word": "久酱转场好可爱",
@@ -31771,14 +31779,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 118553,
-      "num": 118553,
-      "word": "何超莲婚后首亮相",
-      "onboard_time": 1684254087,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 118501,
       "num": 118501,
       "word": "当年512亲历者们如今怎么样",
@@ -32433,6 +32433,14 @@
       "onboard_time": 1683389188,
       "rank": 39,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 103294,
+      "num": 100545,
+      "word": "李莎旻子都快抡出火星子了",
+      "onboard_time": 1684255044,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 102908,
@@ -33313,6 +33321,14 @@
       "onboard_time": 1683878608,
       "rank": 48,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 74435,
+      "num": 100501,
+      "word": "他选择了评论最多的调头方式",
+      "onboard_time": 1684253489,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 73341,

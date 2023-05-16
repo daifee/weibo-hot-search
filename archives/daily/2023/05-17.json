@@ -1,6 +1,6 @@
 {
   "startTime": 1684254143599,
-  "endTime": 1684254143599,
+  "endTime": 1684255055154,
   "band_list": [
     {
       "raw_hot": 2021463,
@@ -35,7 +35,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 645862,
+      "raw_hot": 651526,
       "num": 329407,
       "word": "徐娇",
       "onboard_time": 1684251333,
@@ -57,6 +57,14 @@
       "onboard_time": 1684239452,
       "rank": 5,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 507411,
+      "num": 320816,
+      "word": "何同学 视频封面点击率测试",
+      "onboard_time": 1684251755,
+      "rank": 13,
+      "category": "科技"
     },
     {
       "raw_hot": 460193,
@@ -89,14 +97,6 @@
       "onboard_time": 1684251272,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 407456,
-      "num": 320816,
-      "word": "何同学 视频封面点击率测试",
-      "onboard_time": 1684251755,
-      "rank": 13,
-      "category": "科技"
     },
     {
       "raw_hot": 385707,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 187386,
-      "num": 153324,
+      "num": 153937,
       "word": "孔雪儿风格",
       "onboard_time": 1684243114,
       "rank": 27,
@@ -259,8 +259,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150667,
+      "num": 150667,
+      "word": "何超莲婚后首亮相",
+      "onboard_time": 1684254087,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150457,
-      "num": 150457,
+      "num": 153992,
       "word": "原来小猫咪在农村是这样洗澡的",
       "onboard_time": 1684249897,
       "rank": 28,
@@ -283,6 +291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 142571,
+      "num": 119862,
+      "word": "速度与激情10",
+      "onboard_time": 1684252110,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 137868,
       "num": 120133,
       "word": "战损是男人最好的嫁妆",
@@ -299,11 +315,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130355,
-      "num": 119862,
-      "word": "速度与激情10",
-      "onboard_time": 1684252110,
-      "rank": 42,
+      "raw_hot": 130343,
+      "num": 119739,
+      "word": "护心",
+      "onboard_time": 1684235251,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -324,27 +340,11 @@
     },
     {
       "raw_hot": 120996,
-      "num": 120996,
+      "num": 122025,
       "word": "人民军队不容冒犯必须敬畏",
       "onboard_time": 1684235490,
       "rank": 38,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 119739,
-      "num": 119739,
-      "word": "护心",
-      "onboard_time": 1684235251,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 118553,
-      "num": 118553,
-      "word": "何超莲婚后首亮相",
-      "onboard_time": 1684254087,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 118136,
@@ -387,12 +387,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 103294,
+      "num": 100545,
+      "word": "李莎旻子都快抡出火星子了",
+      "onboard_time": 1684255044,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100760,
       "num": 100760,
       "word": "G2对战BLG",
       "onboard_time": 1684242272,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 74435,
+      "num": 100501,
+      "word": "他选择了评论最多的调头方式",
+      "onboard_time": 1684253489,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 11328,
