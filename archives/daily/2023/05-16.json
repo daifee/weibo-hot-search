@@ -1,6 +1,6 @@
 {
   "startTime": 1684167725625,
-  "endTime": 1684228596638,
+  "endTime": 1684229620507,
   "band_list": [
     {
       "raw_hot": 3766911,
@@ -163,6 +163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1315085,
+      "num": 786643,
+      "word": "沈月给闺蜜的证婚词",
+      "onboard_time": 1684222949,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1312456,
       "num": 426813,
       "word": "女友穿的太暴露怎么办",
@@ -193,14 +201,6 @@
       "onboard_time": 1684200628,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1206956,
-      "num": 786643,
-      "word": "沈月给闺蜜的证婚词",
-      "onboard_time": 1684222949,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 1187286,
@@ -241,6 +241,14 @@
       "onboard_time": 1684222889,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 957366,
+      "num": 957366,
+      "word": "发工资时间看公司",
+      "onboard_time": 1684224508,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 940151,
@@ -297,14 +305,6 @@
       "onboard_time": 1684193063,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 738122,
-      "num": 738122,
-      "word": "发工资时间看公司",
-      "onboard_time": 1684224508,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 729726,
@@ -443,6 +443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 525449,
+      "num": 525449,
+      "word": "侯明昊回应周也",
+      "onboard_time": 1684226550,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 513163,
       "num": 513163,
       "word": "ofo创始人戴威再次创业",
@@ -456,6 +464,14 @@
       "word": "村民院子里挖出102枚手榴弹",
       "onboard_time": 1684202607,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 502709,
+      "num": 502709,
+      "word": "恩施",
+      "onboard_time": 1684225709,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -539,20 +555,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 430370,
-      "num": 430370,
-      "word": "恩施",
-      "onboard_time": 1684225709,
+      "raw_hot": 438736,
+      "num": 268373,
+      "word": "Angelababy的身材比例",
+      "onboard_time": 1684228169,
       "rank": 29,
-      "category": "社会新闻"
+      "category": "艺人,时尚"
     },
     {
-      "raw_hot": 425055,
-      "num": 425055,
-      "word": "侯明昊回应周也",
-      "onboard_time": 1684226550,
-      "rank": 13,
-      "category": "作品衍生"
+      "raw_hot": 433570,
+      "num": 285367,
+      "word": "张雨绮担任法国尼斯旅游文化大使",
+      "onboard_time": 1684227450,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 422206,
@@ -633,6 +649,14 @@
       "onboard_time": 1684210713,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 372224,
+      "num": 429123,
+      "word": "幼儿断手指的哥闯红灯跑赢12分钟",
+      "onboard_time": 1684227272,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 370453,
@@ -779,6 +803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 290472,
+      "num": 262519,
+      "word": "赵丽颖雷佳音或将演清明上河图密码",
+      "onboard_time": 1684228049,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 285138,
       "num": 285138,
       "word": "为了顶替我老板招了两个人",
@@ -867,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265749,
+      "num": 265749,
+      "word": "在淄博当烧烤师傅是啥体验",
+      "onboard_time": 1684228468,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 265180,
       "num": 265180,
       "word": "官方回应迪士尼落户成都",
@@ -891,14 +931,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 258700,
-      "num": 258700,
-      "word": "赵丽颖雷佳音或将演清明上河图密码",
-      "onboard_time": 1684228049,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 257329,
       "num": 257329,
       "word": "任权直播还钱",
@@ -915,6 +947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 253432,
+      "num": 253432,
+      "word": "沈月翁小雯 女孩子的友谊",
+      "onboard_time": 1684225650,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252027,
       "num": 252027,
       "word": "王栎鑫说只有张远一个人没有新郎经验",
@@ -923,12 +963,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 249294,
-      "num": 243527,
-      "word": "张雨绮担任法国尼斯旅游文化大使",
-      "onboard_time": 1684227450,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 247119,
+      "num": 242349,
+      "word": "罗云熙澹台烬猫眼角色热度榜登顶",
+      "onboard_time": 1684226308,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 245708,
@@ -945,14 +985,6 @@
       "onboard_time": 1684219109,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 242349,
-      "num": 242349,
-      "word": "罗云熙澹台烬猫眼角色热度榜登顶",
-      "onboard_time": 1684226308,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 241736,
@@ -977,22 +1009,6 @@
       "onboard_time": 1684167687,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 239058,
-      "num": 239058,
-      "word": "Angelababy的身材比例",
-      "onboard_time": 1684228169,
-      "rank": 29,
-      "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 235137,
-      "num": 235137,
-      "word": "沈月翁小雯 女孩子的友谊",
-      "onboard_time": 1684225650,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 230554,
@@ -1057,14 +1073,6 @@
       "onboard_time": 1684224328,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 215664,
-      "num": 429123,
-      "word": "幼儿断手指的哥闯红灯跑赢12分钟",
-      "onboard_time": 1684227272,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215507,
@@ -1137,6 +1145,14 @@
       "onboard_time": 1684221630,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201203,
+      "num": 168576,
+      "word": "佟丽娅晒和董璇的合照",
+      "onboard_time": 1684229193,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 197846,
@@ -1251,20 +1267,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 184626,
-      "num": 184626,
-      "word": "在淄博当烧烤师傅是啥体验",
-      "onboard_time": 1684228468,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 182696,
       "num": 182696,
       "word": "许凯晒一次腹肌奖励自己两个汉堡",
       "onboard_time": 1684161453,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179829,
+      "num": 273940,
+      "word": "王者荣耀",
+      "onboard_time": 1684227509,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 178155,
@@ -1331,6 +1347,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168725,
+      "num": 141588,
+      "word": "刘诗诗狐妖小红娘竹业篇新造型",
+      "onboard_time": 1684227930,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 166366,
+      "num": 166366,
+      "word": "恩施网红浮桥游览车坠河已有5人身亡",
+      "onboard_time": 1684229310,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164946,
       "num": 164946,
       "word": "陈绮贞 草莓音乐节",
@@ -1353,14 +1385,6 @@
       "onboard_time": 1684225528,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162822,
-      "num": 162822,
-      "word": "王者荣耀",
-      "onboard_time": 1684227509,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 161827,
@@ -1419,6 +1443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151061,
+      "num": 151061,
+      "word": "安琪拉追逃游戏新皮肤",
+      "onboard_time": 1684226851,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 149706,
       "num": 149706,
       "word": "交警帮助双腿残疾的小伙过马路",
@@ -1475,14 +1507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 141588,
-      "num": 141588,
-      "word": "刘诗诗狐妖小红娘竹业篇新造型",
-      "onboard_time": 1684227930,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 141360,
       "num": 127942,
       "word": "浪姐4冠军预测",
@@ -1513,14 +1537,6 @@
       "onboard_time": 1684224989,
       "rank": 44,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 133064,
-      "num": 133064,
-      "word": "安琪拉追逃游戏新皮肤",
-      "onboard_time": 1684226851,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 132618,
@@ -1665,6 +1681,14 @@
       "onboard_time": 1684151787,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104544,
+      "num": 104544,
+      "word": "如何看待职场人接私活",
+      "onboard_time": 1684229551,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102028,
