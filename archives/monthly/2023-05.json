@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684244007643,
+  "endTime": 1684246551191,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -33,6 +33,14 @@
       "onboard_time": 1683688050,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5388172,
+      "num": 5388172,
+      "word": "温精灵道歉",
+      "onboard_time": 1684242336,
+      "rank": 1,
+      "category": "网红"
     },
     {
       "raw_hot": 5078061,
@@ -113,14 +121,6 @@
       "onboard_time": 1683540690,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3794042,
-      "num": 3794042,
-      "word": "温精灵道歉",
-      "onboard_time": 1684242336,
-      "rank": 1,
-      "category": "网红"
     },
     {
       "raw_hot": 3766911,
@@ -955,6 +955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2250796,
+      "num": 1219206,
+      "word": "苗苗称与郑恺住的房子是租的",
+      "onboard_time": 1684240592,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2248101,
       "num": 2248101,
       "word": "徐娇回应泳装照争议",
@@ -1377,14 +1385,6 @@
       "onboard_time": 1683626309,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1934220,
-      "num": 1059924,
-      "word": "苗苗称与郑恺住的房子是租的",
-      "onboard_time": 1684240592,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 1931132,
@@ -2953,6 +2953,14 @@
       "onboard_time": 1682898746,
       "rank": 1,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 1374595,
+      "num": 1374595,
+      "word": "秦昊减肥法第3天差点把自己送走",
+      "onboard_time": 1684239452,
+      "rank": 18,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1374267,
@@ -5379,14 +5387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 870813,
-      "num": 870813,
-      "word": "秦昊减肥法第3天差点把自己送走",
-      "onboard_time": 1684239452,
-      "rank": 18,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 867730,
       "num": 974989,
       "word": "新娘互换手捧花发现是高中同学",
@@ -6169,6 +6169,14 @@
       "onboard_time": 1683426447,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 754593,
+      "num": 754593,
+      "word": "带两女儿投河溺亡女子父亲发声",
+      "onboard_time": 1684241614,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 754265,
@@ -8523,6 +8531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 546190,
+      "num": 546190,
+      "word": "Angelababy红毯生图状态",
+      "onboard_time": 1684243899,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 545353,
       "num": 545353,
       "word": "举报郑大教授女子称有两段流产后录音",
@@ -9617,6 +9633,14 @@
       "onboard_time": 1683959787,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 482051,
+      "num": 443372,
+      "word": "孔雪儿风格",
+      "onboard_time": 1684243114,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 481507,
@@ -10947,6 +10971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429547,
+      "num": 429547,
+      "word": "女子用秦昊减肥法拉吐7天瘦5斤",
+      "onboard_time": 1684244435,
+      "rank": 13,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 429445,
       "num": 429445,
       "word": "找到秋瓷炫不会跳舞的原因",
@@ -10977,14 +11009,6 @@
       "onboard_time": 1683018929,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 427735,
-      "num": 360822,
-      "word": "带两女儿投河溺亡女子父亲发声",
-      "onboard_time": 1684241614,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 427722,
@@ -11979,6 +12003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 397781,
+      "num": 397781,
+      "word": "董明珠曾称孟羽童拒绝两年内加薪",
+      "onboard_time": 1684243055,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397492,
       "num": 397492,
       "word": "宋雨琦叶舒华贴贴",
@@ -12699,6 +12731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376040,
+      "num": 369944,
+      "word": "也没有男生考得比我好呀",
+      "onboard_time": 1684242213,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 375981,
       "num": 356835,
       "word": "你肉体上最疼的一次经历是什么",
@@ -13185,6 +13225,14 @@
       "onboard_time": 1683193827,
       "rank": 4,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 362211,
+      "num": 362211,
+      "word": "我现在的情绪真的很稳定",
+      "onboard_time": 1684244856,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 361568,
@@ -13713,6 +13761,14 @@
       "onboard_time": 1683129986,
       "rank": 30,
       "category": "旅游,幽默"
+    },
+    {
+      "raw_hot": 351834,
+      "num": 247395,
+      "word": "病人被医生遗忘在磁共振舱近三小时",
+      "onboard_time": 1684245813,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351674,
@@ -14596,7 +14652,7 @@
     },
     {
       "raw_hot": 333085,
-      "num": 263229,
+      "num": 276447,
       "word": "hanni新闻图",
       "onboard_time": 1684240350,
       "rank": 35,
@@ -14803,14 +14859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 328403,
-      "num": 254937,
-      "word": "孔雪儿风格",
-      "onboard_time": 1684243114,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 328368,
       "num": 328368,
       "word": "五月天演唱会",
@@ -14873,6 +14921,14 @@
       "onboard_time": 1683886889,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 327175,
+      "num": 327175,
+      "word": "G2翻盘BLG",
+      "onboard_time": 1684244736,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 327169,
@@ -16099,6 +16155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 301291,
+      "num": 301291,
+      "word": "谁给金子涵做的妆造",
+      "onboard_time": 1684245514,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 301237,
       "num": 301237,
       "word": "后浪今日开播",
@@ -16945,6 +17009,14 @@
       "onboard_time": 1683032610,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 287689,
+      "num": 287689,
+      "word": "战损是男人最好的嫁妆",
+      "onboard_time": 1684240891,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 287510,
@@ -18049,14 +18121,6 @@
       "onboard_time": 1683210336,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 269435,
-      "num": 215921,
-      "word": "战损是男人最好的嫁妆",
-      "onboard_time": 1684240891,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 269265,
@@ -20164,7 +20228,7 @@
     },
     {
       "raw_hot": 241818,
-      "num": 175135,
+      "num": 235461,
       "word": "金玟庭的韩式水光肌",
       "onboard_time": 1684241553,
       "rank": 32,
@@ -20841,14 +20905,6 @@
       "onboard_time": 1683259229,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234209,
-      "num": 166672,
-      "word": "也没有男生考得比我好呀",
-      "onboard_time": 1684242213,
-      "rank": 39,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 234198,
@@ -24091,6 +24147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199770,
+      "num": 199770,
+      "word": "赵露思cos蜂蜜狗造型花絮",
+      "onboard_time": 1684244736,
+      "rank": 36,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 199640,
       "num": 199640,
       "word": "厦门防空警报",
@@ -25395,14 +25459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187750,
-      "num": 142498,
-      "word": "Angelababy红毯生图状态",
-      "onboard_time": 1684243899,
-      "rank": 44,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 187627,
       "num": 187627,
       "word": "现在年轻人流行断亲",
@@ -26001,6 +26057,14 @@
       "onboard_time": 1683192270,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180454,
+      "num": 180454,
+      "word": "很难说是一天内发生的事",
+      "onboard_time": 1684246175,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 180381,
@@ -28843,6 +28907,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 152678,
+      "num": 152678,
+      "word": "Elk MVP",
+      "onboard_time": 1684244856,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 152651,
       "num": 152651,
       "word": "狗狗大战边牧觉得好丢狗",
@@ -30171,6 +30243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 136443,
+      "num": 141676,
+      "word": "男子偷偷用打火机点燃女子的裙边",
+      "onboard_time": 1684246297,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136346,
       "num": 136346,
       "word": "外婆遇到疯驴子遭老罪了",
@@ -30556,7 +30636,7 @@
     },
     {
       "raw_hot": 132213,
-      "num": 132213,
+      "num": 140645,
       "word": "cp29周严",
       "onboard_time": 1684236450,
       "rank": 44,
@@ -31720,14 +31800,6 @@
       "word": "劳动最光荣",
       "onboard_time": 1682896642,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114172,
-      "num": 114172,
-      "word": "董明珠曾称孟羽童拒绝两年内加薪",
-      "onboard_time": 1684243055,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
