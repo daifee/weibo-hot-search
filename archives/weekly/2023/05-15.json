@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684208041214,
+  "endTime": 1684210849777,
   "band_list": [
     {
       "raw_hot": 3904532,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 2669259,
-      "num": 519877,
+      "num": 556523,
       "word": "颜九要求温精灵公开道歉",
       "onboard_time": 1684158512,
       "rank": 13,
@@ -73,6 +73,14 @@
       "onboard_time": 1684133490,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2602023,
+      "num": 473037,
+      "word": "李诞",
+      "onboard_time": 1684207349,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 2461167,
@@ -115,6 +123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1912910,
+      "num": 1912910,
+      "word": "成都 迪士尼",
+      "onboard_time": 1684208611,
+      "rank": 0,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1846343,
       "num": 1846343,
       "word": "以为吴京和郭帆结婚了",
@@ -145,6 +161,14 @@
       "onboard_time": 1684149989,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1732465,
+      "num": 1347558,
+      "word": "向佐给经纪人10天时间学妆发",
+      "onboard_time": 1684207228,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 1719861,
@@ -228,7 +252,7 @@
     },
     {
       "raw_hot": 1437409,
-      "num": 510861,
+      "num": 553208,
       "word": "警方通报母女3人手绑一起河中身亡",
       "onboard_time": 1684194625,
       "rank": 11,
@@ -555,6 +579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 775181,
+      "num": 775181,
+      "word": "OPPO德国官网几乎清空",
+      "onboard_time": 1684208491,
+      "rank": 8,
+      "category": "科技"
+    },
+    {
       "raw_hot": 770435,
       "num": 770435,
       "word": "QQ音乐",
@@ -587,7 +619,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 731894,
+      "raw_hot": 745179,
       "num": 731894,
       "word": "house",
       "onboard_time": 1684193063,
@@ -609,14 +641,6 @@
       "onboard_time": 1684162771,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 712631,
-      "num": 712631,
-      "word": "向佐给经纪人10天时间学妆发",
-      "onboard_time": 1684207228,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 706990,
@@ -683,6 +707,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 651498,
+      "num": 288897,
+      "word": "这高铁怎么蛇里蛇气的",
+      "onboard_time": 1684208307,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 651227,
       "num": 314802,
       "word": "辞职后去旅游发朋友圈被说了",
@@ -728,14 +760,6 @@
       "word": "叉烧芬 你徒弟出师了",
       "onboard_time": 1684113086,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 626968,
-      "num": 473037,
-      "word": "李诞",
-      "onboard_time": 1684207349,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -809,6 +833,14 @@
       "onboard_time": 1684123653,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 537570,
+      "num": 537570,
+      "word": "大爷撞进饭店没赔钱一夜没睡着",
+      "onboard_time": 1684209091,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 516087,
@@ -1115,6 +1147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 372293,
+      "num": 372293,
+      "word": "光遇 复刻",
+      "onboard_time": 1684210713,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 369633,
       "num": 369633,
       "word": "油价",
@@ -1193,6 +1233,14 @@
       "onboard_time": 1684117405,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 346752,
+      "num": 346752,
+      "word": "上海文旅部门实地调查笑果文化总部",
+      "onboard_time": 1684208307,
+      "rank": 17,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 340812,
@@ -1531,6 +1579,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 273509,
+      "num": 273509,
+      "word": "矮个子女生才能懂的社死现场",
+      "onboard_time": 1684208130,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 271260,
       "num": 271260,
       "word": "女生为81岁外婆拍百张治愈系照片",
@@ -1561,6 +1617,14 @@
       "onboard_time": 1684134628,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 266004,
+      "num": 258096,
+      "word": "笑果官方演员名单中已无House",
+      "onboard_time": 1684208369,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 263270,
@@ -1619,12 +1683,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251184,
+      "num": 251184,
+      "word": "当我消费只要超过500时",
+      "onboard_time": 1684209931,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 251142,
       "num": 251142,
       "word": "姚明现场观看总决赛",
       "onboard_time": 1684158029,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 249165,
+      "num": 249165,
+      "word": "回领导消息多打了一个字",
+      "onboard_time": 1684210593,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 249099,
@@ -1833,6 +1913,14 @@
       "onboard_time": 1684062926,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 222855,
+      "num": 222855,
+      "word": "久酷 ttg傲寒",
+      "onboard_time": 1684208070,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 222236,
@@ -2163,6 +2251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188858,
+      "num": 188858,
+      "word": "海底捞被质疑推荐饮料不提费用",
+      "onboard_time": 1684207767,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188609,
       "num": 188609,
       "word": "好朋狗见面要抱抱",
@@ -2235,6 +2331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184019,
+      "num": 184019,
+      "word": "延吉局长回应深夜直播间举牌",
+      "onboard_time": 1684210772,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183842,
       "num": 183842,
       "word": "如果你是挖呀挖黄老师会怎么做",
@@ -2299,6 +2403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 179527,
+      "num": 179527,
+      "word": "橘子海",
+      "onboard_time": 1684210713,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 179245,
       "num": 182869,
       "word": "2023腾讯游戏发布会",
@@ -2337,6 +2449,14 @@
       "onboard_time": 1684113147,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 175701,
+      "num": 175701,
+      "word": "3年前救的野猪带3娃回来了",
+      "onboard_time": 1684210472,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175599,
@@ -2403,12 +2523,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171962,
+      "num": 171962,
+      "word": "高叶出发戛纳",
+      "onboard_time": 1684206867,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 171397,
+      "num": 171397,
+      "word": "原来周也参加过选秀",
+      "onboard_time": 1684209870,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170791,
       "num": 170791,
       "word": "芭莎镜头下的张彬彬吴倩",
       "onboard_time": 1684149627,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 170323,
+      "num": 170323,
+      "word": "背调后被降薪降岗",
+      "onboard_time": 1684210291,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 169811,
@@ -2507,14 +2651,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 162684,
-      "num": 144225,
-      "word": "高叶出发戛纳",
-      "onboard_time": 1684206867,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 161975,
       "num": 161975,
       "word": "女装尺码",
@@ -2579,8 +2715,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 152292,
-      "num": 152292,
+      "raw_hot": 152651,
+      "num": 152651,
       "word": "狗狗大战边牧觉得好丢狗",
       "onboard_time": 1684205727,
       "rank": 41,
@@ -2913,14 +3049,6 @@
       "onboard_time": 1684113266,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 111441,
-      "num": 127763,
-      "word": "海底捞被质疑推荐饮料不提费用",
-      "onboard_time": 1684207767,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110942,

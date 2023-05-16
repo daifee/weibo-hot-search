@@ -1,0 +1,410 @@
+{
+  "runTime": 1684210849777,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1912910,
+        "num": 1912910,
+        "word": "成都 迪士尼",
+        "onboard_time": 1684208611,
+        "rank": 0,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1548978,
+        "num": 1548978,
+        "word": "以为吴京和郭帆结婚了",
+        "onboard_time": 1684202427,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55554,
+        "num": 1382434,
+        "word": "出入境政策再优化",
+        "onboard_time": 1684159050,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1732465,
+        "num": 1347558,
+        "word": "向佐给经纪人10天时间学妆发",
+        "onboard_time": 1684207228,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1283486,
+        "num": 1283486,
+        "word": "人民日报评House冒犯人民子弟兵",
+        "onboard_time": 1684192760,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1133858,
+        "num": 1133858,
+        "word": "摄影师回应迪丽热巴未修原档生图",
+        "onboard_time": 1684198649,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 950073,
+        "num": 950073,
+        "word": "Ella改文案",
+        "onboard_time": 1684198889,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 787815,
+        "num": 787815,
+        "word": "马来西亚男子猥琐发言被群殴致死",
+        "onboard_time": 1684193904,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 775181,
+        "num": 775181,
+        "word": "OPPO德国官网几乎清空",
+        "onboard_time": 1684208491,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 573184,
+        "num": 573184,
+        "word": "中2574万彩票摊主转让摊位",
+        "onboard_time": 1684195648,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 849253,
+        "num": 556523,
+        "word": "颜九要求温精灵公开道歉",
+        "onboard_time": 1684158512,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 670830,
+        "num": 553208,
+        "word": "警方通报母女3人手绑一起河中身亡",
+        "onboard_time": 1684194625,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537570,
+        "num": 537570,
+        "word": "大爷撞进饭店没赔钱一夜没睡着",
+        "onboard_time": 1684209091,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470885,
+        "num": 470885,
+        "word": "女子武汉坐高铁遇满车人都在啃鸭脖",
+        "onboard_time": 1684188794,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427254,
+        "num": 427254,
+        "word": "颜九 温精灵",
+        "onboard_time": 1684157374,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 405833,
+        "num": 405833,
+        "word": "折腰",
+        "onboard_time": 1684203748,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 372293,
+        "num": 372293,
+        "word": "光遇 复刻",
+        "onboard_time": 1684210713,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 346752,
+        "num": 346752,
+        "word": "上海文旅部门实地调查笑果文化总部",
+        "onboard_time": 1684208307,
+        "rank": 17,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 331318,
+        "num": 331318,
+        "word": "村民院子里挖出102枚手榴弹",
+        "onboard_time": 1684202607,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301236,
+        "num": 301236,
+        "word": "闲鱼开收软件服务费",
+        "onboard_time": 1684202188,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2602023,
+        "num": 293477,
+        "word": "李诞",
+        "onboard_time": 1684207349,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 651498,
+        "num": 288897,
+        "word": "这高铁怎么蛇里蛇气的",
+        "onboard_time": 1684208307,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284227,
+        "num": 284227,
+        "word": "选结婚对象什么条件最重要",
+        "onboard_time": 1684201948,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 745179,
+        "num": 283812,
+        "word": "house",
+        "onboard_time": 1684193063,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273509,
+        "num": 273509,
+        "word": "矮个子女生才能懂的社死现场",
+        "onboard_time": 1684208130,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 260307,
+        "num": 260307,
+        "word": "老爸给我晾的百褶裙",
+        "onboard_time": 1684165291,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266004,
+        "num": 258096,
+        "word": "笑果官方演员名单中已无House",
+        "onboard_time": 1684208369,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251869,
+        "num": 251869,
+        "word": "秦昊说自己和伊能静是独立的灵魂",
+        "onboard_time": 1684197210,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 251184,
+        "num": 251184,
+        "word": "当我消费只要超过500时",
+        "onboard_time": 1684209931,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249165,
+        "num": 249165,
+        "word": "回领导消息多打了一个字",
+        "onboard_time": 1684210593,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232712,
+        "num": 232712,
+        "word": "吉克隽逸彝族证件照",
+        "onboard_time": 1684206087,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227383,
+        "num": 227383,
+        "word": "饭局上客户说菜点多了",
+        "onboard_time": 1684204646,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222855,
+        "num": 222855,
+        "word": "久酷 ttg傲寒",
+        "onboard_time": 1684208070,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212708,
+        "num": 212708,
+        "word": "王力宏李靓蕾现身法庭",
+        "onboard_time": 1684164152,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195064,
+        "num": 195064,
+        "word": "沈月在闺蜜婚礼上哭了",
+        "onboard_time": 1684163911,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188858,
+        "num": 188858,
+        "word": "海底捞被质疑推荐饮料不提费用",
+        "onboard_time": 1684207767,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185437,
+        "num": 185437,
+        "word": "女生为81岁外婆拍百张治愈系照片",
+        "onboard_time": 1684205188,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184019,
+        "num": 184019,
+        "word": "延吉局长回应深夜直播间举牌",
+        "onboard_time": 1684210772,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179527,
+        "num": 179527,
+        "word": "橘子海",
+        "onboard_time": 1684210713,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178562,
+        "num": 178562,
+        "word": "朱珠直拍 有种不顾我死活的美",
+        "onboard_time": 1684160790,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176722,
+        "num": 176722,
+        "word": "陈乔恩为奶牛猫发声",
+        "onboard_time": 1684200450,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175701,
+        "num": 175701,
+        "word": "3年前救的野猪带3娃回来了",
+        "onboard_time": 1684210472,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171962,
+        "num": 171962,
+        "word": "高叶出发戛纳",
+        "onboard_time": 1684206867,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171397,
+        "num": 171397,
+        "word": "原来周也参加过选秀",
+        "onboard_time": 1684209870,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170323,
+        "num": 170323,
+        "word": "背调后被降薪降岗",
+        "onboard_time": 1684210291,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165943,
+        "num": 165943,
+        "word": "麦当劳外卖可乐杯壁内布满霉点",
+        "onboard_time": 1684196069,
+        "rank": 45,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 153578,
+        "num": 153578,
+        "word": "赵丽颖的身材",
+        "onboard_time": 1684195167,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153075,
+        "num": 153075,
+        "word": "韩警方或提请批捕刘亚仁",
+        "onboard_time": 1684206510,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152651,
+        "num": 152651,
+        "word": "狗狗大战边牧觉得好丢狗",
+        "onboard_time": 1684205727,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151831,
+        "num": 151831,
+        "word": "客轮1女子携离婚协议坠海身亡",
+        "onboard_time": 1684193844,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同厄立特里亚总统举行会谈#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684208041214,
+  "endTime": 1684210849777,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 2669259,
-      "num": 519877,
+      "num": 556523,
       "word": "颜九要求温精灵公开道歉",
       "onboard_time": 1684158512,
       "rank": 13,
@@ -561,6 +561,14 @@
       "onboard_time": 1683110071,
       "rank": 5,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 2602023,
+      "num": 473037,
+      "word": "李诞",
+      "onboard_time": 1684207349,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 2598662,
@@ -1347,6 +1355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1912910,
+      "num": 1912910,
+      "word": "成都 迪士尼",
+      "onboard_time": 1684208611,
+      "rank": 0,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1897707,
       "num": 612012,
       "word": "秦昊瘦身食谱",
@@ -1721,6 +1737,14 @@
       "onboard_time": 1684047387,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1732465,
+      "num": 1347558,
+      "word": "向佐给经纪人10天时间学妆发",
+      "onboard_time": 1684207228,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 1730139,
@@ -2636,7 +2660,7 @@
     },
     {
       "raw_hot": 1437409,
-      "num": 510861,
+      "num": 553208,
       "word": "警方通报母女3人手绑一起河中身亡",
       "onboard_time": 1684194625,
       "rank": 11,
@@ -5771,6 +5795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 775181,
+      "num": 775181,
+      "word": "OPPO德国官网几乎清空",
+      "onboard_time": 1684208491,
+      "rank": 8,
+      "category": "科技"
+    },
+    {
       "raw_hot": 771511,
       "num": 771511,
       "word": "因为买榴莲和男友吵了一架",
@@ -5979,6 +6011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 745179,
+      "num": 731894,
+      "word": "house",
+      "onboard_time": 1684193063,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 743526,
       "num": 417293,
       "word": "吴建豪在郑秀妍面前提少女时代成员",
@@ -6105,14 +6145,6 @@
       "onboard_time": 1682985262,
       "rank": 7,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 731894,
-      "num": 731894,
-      "word": "house",
-      "onboard_time": 1684193063,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 731825,
@@ -6257,14 +6289,6 @@
       "onboard_time": 1683027270,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 712631,
-      "num": 712631,
-      "word": "向佐给经纪人10天时间学妆发",
-      "onboard_time": 1684207228,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 709367,
@@ -6859,6 +6883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 651498,
+      "num": 288897,
+      "word": "这高铁怎么蛇里蛇气的",
+      "onboard_time": 1684208307,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 651227,
       "num": 314802,
       "word": "辞职后去旅游发朋友圈被说了",
@@ -7064,14 +7096,6 @@
       "word": "杨洋组织同学会",
       "onboard_time": 1683091590,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 626968,
-      "num": 473037,
-      "word": "李诞",
-      "onboard_time": 1684207349,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -8385,6 +8409,14 @@
       "onboard_time": 1683202589,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 537570,
+      "num": 537570,
+      "word": "大爷撞进饭店没赔钱一夜没睡着",
+      "onboard_time": 1684209091,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 537176,
@@ -12331,6 +12363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 372293,
+      "num": 372293,
+      "word": "光遇 复刻",
+      "onboard_time": 1684210713,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 372188,
       "num": 372188,
       "word": "裸辞5年后面试第一家就入职了",
@@ -13441,6 +13481,14 @@
       "onboard_time": 1683445348,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 346752,
+      "num": 346752,
+      "word": "上海文旅部门实地调查笑果文化总部",
+      "onboard_time": 1684208307,
+      "rank": 17,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 346707,
@@ -17147,6 +17195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 273509,
+      "num": 273509,
+      "word": "矮个子女生才能懂的社死现场",
+      "onboard_time": 1684208130,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 273388,
       "num": 273388,
       "word": "LGD巅峰对决Hero",
@@ -17585,6 +17641,14 @@
       "onboard_time": 1684051407,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266004,
+      "num": 258096,
+      "word": "笑果官方演员名单中已无House",
+      "onboard_time": 1684208369,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 265952,
@@ -18611,6 +18675,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 251184,
+      "num": 251184,
+      "word": "当我消费只要超过500时",
+      "onboard_time": 1684209931,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 251179,
       "num": 251179,
       "word": "爱你就要大声说出来",
@@ -18737,6 +18809,14 @@
       "onboard_time": 1683716130,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249165,
+      "num": 249165,
+      "word": "回领导消息多打了一个字",
+      "onboard_time": 1684210593,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 249099,
@@ -20921,6 +21001,14 @@
       "onboard_time": 1682899047,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222855,
+      "num": 222855,
+      "word": "久酷 ttg傲寒",
+      "onboard_time": 1684208070,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 222617,
@@ -24251,6 +24339,14 @@
       "category": "社会正能量,教育"
     },
     {
+      "raw_hot": 188858,
+      "num": 188858,
+      "word": "海底捞被质疑推荐饮料不提费用",
+      "onboard_time": 1684207767,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188822,
       "num": 188822,
       "word": "刘耀文说太激动了谢谢大家",
@@ -24715,6 +24811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 184019,
+      "num": 184019,
+      "word": "延吉局长回应深夜直播间举牌",
+      "onboard_time": 1684210772,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183842,
       "num": 183842,
       "word": "如果你是挖呀挖黄老师会怎么做",
@@ -25065,6 +25169,14 @@
       "onboard_time": 1683970292,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 179527,
+      "num": 179527,
+      "word": "橘子海",
+      "onboard_time": 1684210713,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 179354,
@@ -25555,6 +25667,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 175701,
+      "num": 175701,
+      "word": "3年前救的野猪带3娃回来了",
+      "onboard_time": 1684210472,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175641,
       "num": 175641,
       "word": "广州动物园",
@@ -25995,6 +26115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 171962,
+      "num": 171962,
+      "word": "高叶出发戛纳",
+      "onboard_time": 1684206867,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 171669,
       "num": 140523,
       "word": "胡歌走走停停或将5月底开机",
@@ -26017,6 +26145,14 @@
       "onboard_time": 1683676105,
       "rank": 37,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 171397,
+      "num": 171397,
+      "word": "原来周也参加过选秀",
+      "onboard_time": 1684209870,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 171340,
@@ -26113,6 +26249,14 @@
       "onboard_time": 1683418524,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 170323,
+      "num": 170323,
+      "word": "背调后被降薪降岗",
+      "onboard_time": 1684210291,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 170257,
@@ -26817,14 +26961,6 @@
       "onboard_time": 1683993993,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162684,
-      "num": 144225,
-      "word": "高叶出发戛纳",
-      "onboard_time": 1684206867,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 162648,
@@ -27667,6 +27803,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 152651,
+      "num": 152651,
+      "word": "狗狗大战边牧觉得好丢狗",
+      "onboard_time": 1684205727,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152546,
       "num": 152546,
       "word": "田耕纪",
@@ -27689,14 +27833,6 @@
       "onboard_time": 1683938667,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152292,
-      "num": 152292,
-      "word": "狗狗大战边牧觉得好丢狗",
-      "onboard_time": 1684205727,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 152143,
@@ -30449,14 +30585,6 @@
       "onboard_time": 1684056266,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 111441,
-      "num": 127763,
-      "word": "海底捞被质疑推荐饮料不提费用",
-      "onboard_time": 1684207767,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111388,
