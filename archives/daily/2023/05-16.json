@@ -1,6 +1,6 @@
 {
   "startTime": 1684167725625,
-  "endTime": 1684250273898,
+  "endTime": 1684251229704,
   "band_list": [
     {
       "raw_hot": 5388172,
@@ -507,6 +507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 655472,
+      "num": 315852,
+      "word": "唐艺昕脚腕纹身",
+      "onboard_time": 1684249174,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 630899,
       "num": 630899,
       "word": "Angelababy红毯生图状态",
@@ -528,6 +536,14 @@
       "word": "胡锡进",
       "onboard_time": 1684204048,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 605639,
+      "num": 605639,
+      "word": "月初和月底发工资有什么区别",
+      "onboard_time": 1684248218,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -616,14 +632,6 @@
       "word": "大爷撞进饭店没赔钱一夜没睡着",
       "onboard_time": 1684209091,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 534674,
-      "num": 534674,
-      "word": "月初和月底发工资有什么区别",
-      "onboard_time": 1684248218,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -721,6 +729,14 @@
       "onboard_time": 1684243114,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 479211,
+      "num": 479211,
+      "word": "G2翻盘BLG",
+      "onboard_time": 1684244736,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 476018,
@@ -825,14 +841,6 @@
       "onboard_time": 1684244435,
       "rank": 13,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 428207,
-      "num": 315852,
-      "word": "唐艺昕脚腕纹身",
-      "onboard_time": 1684249174,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 422206,
@@ -971,20 +979,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 344953,
-      "num": 344953,
-      "word": "G2翻盘BLG",
-      "onboard_time": 1684244736,
-      "rank": 21,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 343367,
       "num": 343367,
       "word": "福建农村的房子",
       "onboard_time": 1684233451,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 339557,
+      "num": 185662,
+      "word": "香港碎尸名媛蔡天凤丈夫发声",
+      "onboard_time": 1684250615,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338647,
@@ -1025,6 +1033,14 @@
       "onboard_time": 1684206029,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 327092,
+      "num": 266725,
+      "word": "赵露思陈哲远偷偷藏不住集数变更",
+      "onboard_time": 1684249596,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 326578,
@@ -1283,14 +1299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 266725,
-      "num": 266725,
-      "word": "赵露思陈哲远偷偷藏不住集数变更",
-      "onboard_time": 1684249596,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 266004,
       "num": 258096,
       "word": "笑果官方演员名单中已无House",
@@ -1393,6 +1401,14 @@
       "onboard_time": 1684224210,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247844,
+      "num": 247844,
+      "word": "G2对战BLG",
+      "onboard_time": 1684242272,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 247119,
@@ -2315,6 +2331,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 121978,
+      "num": 121978,
+      "word": "欧冠半决赛",
+      "onboard_time": 1684250854,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121204,
       "num": 121204,
       "word": "高圆圆的外套穿了六七年",
@@ -2361,14 +2385,6 @@
       "onboard_time": 1684240830,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115013,
-      "num": 115013,
-      "word": "G2对战BLG",
-      "onboard_time": 1684242272,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 114102,
@@ -2489,6 +2505,14 @@
       "onboard_time": 1684165647,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 78743,
+      "num": 121421,
+      "word": "以前抗拒后来真香的食物",
+      "onboard_time": 1684250555,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 61811,

@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684250273898,
+  "endTime": 1684251229704,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -7123,6 +7123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 655472,
+      "num": 315852,
+      "word": "唐艺昕脚腕纹身",
+      "onboard_time": 1684249174,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 655296,
       "num": 655296,
       "word": "京东集团CEO徐雷退休",
@@ -7641,6 +7649,14 @@
       "onboard_time": 1683006328,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 605639,
+      "num": 605639,
+      "word": "月初和月底发工资有什么区别",
+      "onboard_time": 1684248218,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 604780,
@@ -8795,14 +8811,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 534674,
-      "num": 534674,
-      "word": "月初和月底发工资有什么区别",
-      "onboard_time": 1684248218,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 534211,
       "num": 534211,
       "word": "谢娜跳了XG",
@@ -9777,6 +9785,14 @@
       "onboard_time": 1683986855,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 479211,
+      "num": 479211,
+      "word": "G2翻盘BLG",
+      "onboard_time": 1684244736,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 479170,
@@ -11049,14 +11065,6 @@
       "onboard_time": 1683119553,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 428207,
-      "num": 315852,
-      "word": "唐艺昕脚腕纹身",
-      "onboard_time": 1684249174,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 428105,
@@ -14115,14 +14123,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 344953,
-      "num": 344953,
-      "word": "G2翻盘BLG",
-      "onboard_time": 1684244736,
-      "rank": 21,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 344509,
       "num": 344509,
       "word": "易烊千玺新歌",
@@ -14353,6 +14353,14 @@
       "onboard_time": 1683550711,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 339557,
+      "num": 185662,
+      "word": "香港碎尸名媛蔡天凤丈夫发声",
+      "onboard_time": 1684250615,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 339243,
@@ -14985,6 +14993,14 @@
       "onboard_time": 1683439049,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 327092,
+      "num": 266725,
+      "word": "赵露思陈哲远偷偷藏不住集数变更",
+      "onboard_time": 1684249596,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 326626,
@@ -18363,14 +18379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266725,
-      "num": 266725,
-      "word": "赵露思陈哲远偷偷藏不住集数变更",
-      "onboard_time": 1684249596,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 266699,
       "num": 178792,
       "word": "月收入四万是什么体验",
@@ -19793,6 +19801,14 @@
       "onboard_time": 1683026188,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247844,
+      "num": 247844,
+      "word": "G2对战BLG",
+      "onboard_time": 1684242272,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 247615,
@@ -31467,6 +31483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121978,
+      "num": 121978,
+      "word": "欧冠半决赛",
+      "onboard_time": 1684250854,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121811,
       "num": 121811,
       "word": "男朋友送的生日礼物是个钥匙扣",
@@ -31857,14 +31881,6 @@
       "onboard_time": 1683069379,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115013,
-      "num": 115013,
-      "word": "G2对战BLG",
-      "onboard_time": 1684242272,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 114856,
@@ -33089,6 +33105,14 @@
       "onboard_time": 1682941768,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 78743,
+      "num": 121421,
+      "word": "以前抗拒后来真香的食物",
+      "onboard_time": 1684250555,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 77880,
