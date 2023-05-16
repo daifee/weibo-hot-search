@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684257292713,
+  "endTime": 1684258404573,
   "band_list": [
     {
       "raw_hot": 5388172,
@@ -1291,6 +1291,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 489155,
+      "num": 489155,
+      "word": "戛纳红毯",
+      "onboard_time": 1684256481,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 482051,
       "num": 443372,
       "word": "孔雪儿风格",
@@ -1553,6 +1561,14 @@
       "onboard_time": 1684130968,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 424621,
+      "num": 336215,
+      "word": "关晓彤戛纳",
+      "onboard_time": 1684256303,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 423727,
@@ -2171,14 +2187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 298009,
-      "num": 177287,
-      "word": "戛纳红毯",
-      "onboard_time": 1684256481,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 295076,
       "num": 295076,
       "word": "后浪",
@@ -2443,6 +2451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267393,
+      "num": 133489,
+      "word": "巩俐戛纳生图",
+      "onboard_time": 1684257438,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 267209,
       "num": 267209,
       "word": "虞书欣骑龙vs周也骑龙",
@@ -2577,14 +2593,6 @@
       "onboard_time": 1684225650,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 253359,
-      "num": 122469,
-      "word": "关晓彤戛纳",
-      "onboard_time": 1684256303,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 253331,
@@ -4763,6 +4771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 95365,
+      "num": 75454,
+      "word": "广东妈妈岗工资开到12000元",
+      "onboard_time": 1684256361,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95053,
       "num": 95053,
       "word": "分手后多久开始下一段感情",
@@ -4859,14 +4875,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 81705,
-      "num": 75454,
-      "word": "广东妈妈岗工资开到12000元",
-      "onboard_time": 1684256361,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77635,
       "num": 119296,
       "word": "榴莲盲盒",
@@ -4889,6 +4897,14 @@
       "onboard_time": 1684256661,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68516,
+      "num": 68516,
+      "word": "清澈的爱一直为中国",
+      "onboard_time": 1684253009,
+      "rank": 28,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 65587,
