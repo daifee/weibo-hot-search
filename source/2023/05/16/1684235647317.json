@@ -1,0 +1,410 @@
+{
+  "runTime": 1684235647317,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2556094,
+        "num": 2556094,
+        "word": "程十安",
+        "onboard_time": 1684230810,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 366205,
+        "num": 1442843,
+        "word": "幼儿断手指的哥闯红灯跑赢12分钟",
+        "onboard_time": 1684227272,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63652,
+        "num": 1430775,
+        "word": "经济运行延续恢复向好态势",
+        "onboard_time": 1684224210,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1426255,
+        "num": 1426255,
+        "word": "女子在海底捞拍摄不雅视频",
+        "onboard_time": 1684232313,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210688,
+        "num": 1337098,
+        "word": "全国首例心脏不停跳人工心脏植入",
+        "onboard_time": 1684211257,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1309741,
+        "num": 1309741,
+        "word": "沈月给闺蜜的证婚词",
+        "onboard_time": 1684222949,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125943,
+        "num": 1031694,
+        "word": "志愿者自掏腰包陪盲人情侣游扬州",
+        "onboard_time": 1684231649,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 876803,
+        "num": 876803,
+        "word": "TFBOYS恭喜易烊千玺",
+        "onboard_time": 1684230450,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 791256,
+        "num": 791256,
+        "word": "笑果文化三年内已有6人被罚",
+        "onboard_time": 1684231168,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715641,
+        "num": 715641,
+        "word": "吉娜 大家别笑我了再听一下我的rap",
+        "onboard_time": 1684231530,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1224648,
+        "num": 707201,
+        "word": "张根硕肿么了",
+        "onboard_time": 1684226851,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1090793,
+        "num": 701978,
+        "word": "女友穿的太暴露怎么办",
+        "onboard_time": 1684223788,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 693374,
+        "num": 693374,
+        "word": "徐娇回应泳装照争议",
+        "onboard_time": 1684220551,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 553715,
+        "num": 553715,
+        "word": "恩施网红浮桥游览车坠河已有5人身亡",
+        "onboard_time": 1684229310,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341252,
+        "num": 341252,
+        "word": "Angelababy的身材比例",
+        "onboard_time": 1684228169,
+        "rank": 14,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 307400,
+        "num": 307400,
+        "word": "福建农村的房子",
+        "onboard_time": 1684233451,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 307372,
+        "num": 307372,
+        "word": "发工资时间看公司",
+        "onboard_time": 1684224508,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 292842,
+        "num": 292842,
+        "word": "FENDI红毯",
+        "onboard_time": 1684230090,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 287339,
+        "num": 287339,
+        "word": "章泽天疑怀三胎",
+        "onboard_time": 1684215690,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 278667,
+        "num": 278667,
+        "word": "佟丽娅晒和董璇的合照",
+        "onboard_time": 1684229193,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357728,
+        "num": 278410,
+        "word": "狗狗跟牛舌吻",
+        "onboard_time": 1684231829,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277990,
+        "num": 277990,
+        "word": "感受不到发工资时的快乐了",
+        "onboard_time": 1684233211,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237340,
+        "num": 237340,
+        "word": "蔡依林 北京",
+        "onboard_time": 1684222889,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227626,
+        "num": 227626,
+        "word": "这可是五个闺蜜啊",
+        "onboard_time": 1684230090,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226443,
+        "num": 226443,
+        "word": "GUCCI早春",
+        "onboard_time": 1684233570,
+        "rank": 24,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 222381,
+        "num": 222381,
+        "word": "唐嫣说今年一定要学会化妆",
+        "onboard_time": 1684235251,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214805,
+        "num": 214805,
+        "word": "侯明昊回应周也",
+        "onboard_time": 1684226550,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210921,
+        "num": 210921,
+        "word": "孙怡身材好辣",
+        "onboard_time": 1684231168,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136789,
+        "num": 205676,
+        "word": "崔康熙 主教练",
+        "onboard_time": 1684234049,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111841,
+        "num": 204852,
+        "word": "这高铁怎么蛇里蛇气的",
+        "onboard_time": 1684208307,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325961,
+        "num": 204815,
+        "word": "上海一研究生清晨从宿舍6楼坠亡",
+        "onboard_time": 1684235070,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 204480,
+        "num": 204480,
+        "word": "张雨绮担任法国尼斯旅游文化大使",
+        "onboard_time": 1684227450,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209711,
+        "num": 204203,
+        "word": "护心",
+        "onboard_time": 1684235251,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203762,
+        "num": 203762,
+        "word": "人民军队不容冒犯必须敬畏",
+        "onboard_time": 1684235490,
+        "rank": 33,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 198310,
+        "num": 198310,
+        "word": "网友问他手机为啥五枚摄像头",
+        "onboard_time": 1684233630,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196241,
+        "num": 196241,
+        "word": "平底锅文学",
+        "onboard_time": 1684232851,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186042,
+        "num": 186042,
+        "word": "公诉",
+        "onboard_time": 1684234950,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186146,
+        "num": 185373,
+        "word": "浪姐4 成团名单",
+        "onboard_time": 1684216050,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173448,
+        "num": 173448,
+        "word": "笑果",
+        "onboard_time": 1684230150,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167156,
+        "num": 167156,
+        "word": "宋祖儿一滴泪的演技",
+        "onboard_time": 1684230870,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152546,
+        "num": 152546,
+        "word": "为了顶替我老板招了两个人",
+        "onboard_time": 1684222648,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151079,
+        "num": 151079,
+        "word": "起底颜九温精灵背后MCN机构",
+        "onboard_time": 1684223552,
+        "rank": 41,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 143659,
+        "num": 143659,
+        "word": "鹿晗的衣服到底有多小",
+        "onboard_time": 1684234652,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130960,
+        "num": 130960,
+        "word": "吉克隽逸裙子穿反了",
+        "onboard_time": 1684235490,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130777,
+        "num": 130777,
+        "word": "王俊凯重庆",
+        "onboard_time": 1684219349,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128111,
+        "num": 128111,
+        "word": "胧月公主扮演者近照",
+        "onboard_time": 1684212216,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125364,
+        "num": 125364,
+        "word": "WBG夏季赛阵容集结",
+        "onboard_time": 1684234950,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125221,
+        "num": 125221,
+        "word": "在淄博当烧烤师傅是啥体验",
+        "onboard_time": 1684228468,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124906,
+        "num": 124906,
+        "word": "人民日报评House冒犯人民子弟兵",
+        "onboard_time": 1684192760,
+        "rank": 48,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 95374,
+        "num": 124238,
+        "word": "王者荣耀",
+        "onboard_time": 1684227509,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国元首外交热度不减又攀新峰#"
+    }
+  }
+}

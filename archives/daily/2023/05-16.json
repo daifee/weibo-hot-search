@@ -1,6 +1,6 @@
 {
   "startTime": 1684167725625,
-  "endTime": 1684233200605,
+  "endTime": 1684235647317,
   "band_list": [
     {
       "raw_hot": 3766911,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 2045307,
-      "num": 564442,
+      "num": 707201,
       "word": "张根硕肿么了",
       "onboard_time": 1684226851,
       "rank": 10,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1426255,
+      "num": 1426255,
+      "word": "女子在海底捞拍摄不雅视频",
+      "onboard_time": 1684232313,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1374267,
       "num": 1374267,
       "word": "Ella改文案",
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 1315085,
-      "num": 1302287,
+      "num": 1309741,
       "word": "沈月给闺蜜的证婚词",
       "onboard_time": 1684222949,
       "rank": 6,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 1312456,
-      "num": 559703,
+      "num": 701978,
       "word": "女友穿的太暴露怎么办",
       "onboard_time": 1684223788,
       "rank": 12,
@@ -291,6 +299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 876803,
+      "num": 876803,
+      "word": "TFBOYS恭喜易烊千玺",
+      "onboard_time": 1684230450,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 824974,
       "num": 824974,
       "word": "九尾 剃头",
@@ -315,12 +331,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 775695,
-      "num": 273730,
-      "word": "TFBOYS恭喜易烊千玺",
-      "onboard_time": 1684230450,
-      "rank": 20,
-      "category": "影视"
+      "raw_hot": 791256,
+      "num": 791256,
+      "word": "笑果文化三年内已有6人被罚",
+      "onboard_time": 1684231168,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 745179,
@@ -345,6 +361,14 @@
       "onboard_time": 1684161030,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 715641,
+      "num": 715641,
+      "word": "吉娜 大家别笑我了再听一下我的rap",
+      "onboard_time": 1684231530,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 714358,
@@ -443,14 +467,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 544429,
-      "num": 544429,
-      "word": "吉娜 大家别笑我了再听一下我的rap",
-      "onboard_time": 1684231530,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 540410,
       "num": 540410,
       "word": "邓紫棋 没入女歌",
@@ -489,14 +505,6 @@
       "onboard_time": 1684226550,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 517487,
-      "num": 517487,
-      "word": "女子在海底捞拍摄不雅视频",
-      "onboard_time": 1684232313,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 513163,
@@ -628,7 +636,7 @@
     },
     {
       "raw_hot": 438736,
-      "num": 272979,
+      "num": 341252,
       "word": "Angelababy的身材比例",
       "onboard_time": 1684228169,
       "rank": 29,
@@ -665,14 +673,6 @@
       "onboard_time": 1684210713,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 385772,
-      "num": 272085,
-      "word": "笑果文化三年内已有6人被罚",
-      "onboard_time": 1684231168,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 384570,
@@ -803,6 +803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 325961,
+      "num": 204815,
+      "word": "上海一研究生清晨从宿舍6楼坠亡",
+      "onboard_time": 1684235070,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 323211,
       "num": 323211,
       "word": "笑果刚签署崇德尚艺承诺书",
@@ -844,7 +852,7 @@
     },
     {
       "raw_hot": 310789,
-      "num": 212116,
+      "num": 292842,
       "word": "FENDI红毯",
       "onboard_time": 1684230090,
       "rank": 25,
@@ -865,6 +873,14 @@
       "onboard_time": 1684195167,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 307400,
+      "num": 307400,
+      "word": "福建农村的房子",
+      "onboard_time": 1684233451,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 301883,
@@ -955,6 +971,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 277990,
+      "num": 277990,
+      "word": "感受不到发工资时的快乐了",
+      "onboard_time": 1684233211,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 274225,
       "num": 274225,
       "word": "在淄博当烧烤师傅是啥体验",
@@ -1020,7 +1044,7 @@
     },
     {
       "raw_hot": 257114,
-      "num": 205442,
+      "num": 210921,
       "word": "孙怡身材好辣",
       "onboard_time": 1684231168,
       "rank": 31,
@@ -1107,6 +1131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 226443,
+      "num": 226443,
+      "word": "GUCCI早春",
+      "onboard_time": 1684233570,
+      "rank": 24,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 225894,
       "num": 225894,
       "word": "周也对侯明昊的网络印象是张起灵",
@@ -1137,6 +1169,14 @@
       "onboard_time": 1684208070,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 222381,
+      "num": 222381,
+      "word": "唐嫣说今年一定要学会化妆",
+      "onboard_time": 1684235251,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 220323,
@@ -1211,12 +1251,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209711,
+      "num": 204203,
+      "word": "护心",
+      "onboard_time": 1684235251,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206141,
       "num": 206141,
       "word": "北京市文化执法总队已对笑果立案调查",
       "onboard_time": 1684149150,
       "rank": 24,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 203762,
+      "num": 203762,
+      "word": "人民军队不容冒犯必须敬畏",
+      "onboard_time": 1684235490,
+      "rank": 33,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 202957,
@@ -1243,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198310,
+      "num": 198310,
+      "word": "网友问他手机为啥五枚摄像头",
+      "onboard_time": 1684233630,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197846,
       "num": 197846,
       "word": "郭艾伦",
@@ -1257,6 +1321,14 @@
       "onboard_time": 1684217250,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196241,
+      "num": 196241,
+      "word": "平底锅文学",
+      "onboard_time": 1684232851,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 195645,
@@ -1347,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186042,
+      "num": 186042,
+      "word": "公诉",
+      "onboard_time": 1684234950,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185668,
       "num": 185668,
       "word": "梦中的那片海",
@@ -1404,7 +1484,7 @@
     },
     {
       "raw_hot": 176864,
-      "num": 160063,
+      "num": 167156,
       "word": "宋祖儿一滴泪的演技",
       "onboard_time": 1684230870,
       "rank": 42,
@@ -1587,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143659,
+      "num": 143659,
+      "word": "鹿晗的衣服到底有多小",
+      "onboard_time": 1684234652,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143149,
       "num": 118879,
       "word": "官方回应女子捆绑2女儿河中身亡",
@@ -1625,6 +1713,14 @@
       "onboard_time": 1684214850,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136789,
+      "num": 205676,
+      "word": "崔康熙 主教练",
+      "onboard_time": 1684234049,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 135852,
@@ -1676,11 +1772,19 @@
     },
     {
       "raw_hot": 132290,
-      "num": 815121,
+      "num": 1031694,
       "word": "志愿者自掏腰包陪盲人情侣游扬州",
       "onboard_time": 1684231649,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130960,
+      "num": 130960,
+      "word": "吉克隽逸裙子穿反了",
+      "onboard_time": 1684235490,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 129523,
@@ -1723,12 +1827,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122610,
-      "num": 122610,
-      "word": "平底锅文学",
-      "onboard_time": 1684232851,
+      "raw_hot": 125364,
+      "num": 125364,
+      "word": "WBG夏季赛阵容集结",
+      "onboard_time": 1684234950,
       "rank": 46,
-      "category": "情感"
+      "category": "游戏"
     },
     {
       "raw_hot": 121204,
