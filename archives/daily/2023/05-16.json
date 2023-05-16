@@ -1,6 +1,6 @@
 {
   "startTime": 1684167725625,
-  "endTime": 1684218852623,
+  "endTime": 1684221381979,
   "band_list": [
     {
       "raw_hot": 3766911,
@@ -9,6 +9,14 @@
       "onboard_time": 1684199969,
       "rank": 3,
       "category": "社会议题,艺人"
+    },
+    {
+      "raw_hot": 2870503,
+      "num": 2870503,
+      "word": "格力员工称孟羽童是被公司开除",
+      "onboard_time": 1684219048,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2786707,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 1248034,
-      "num": 881385,
+      "num": 967586,
       "word": "胧月公主扮演者近照",
       "onboard_time": 1684212216,
       "rank": 12,
@@ -185,6 +193,14 @@
       "onboard_time": 1684165291,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 893691,
+      "num": 893691,
+      "word": "43岁女子被撞流产无法再育获赔3万7",
+      "onboard_time": 1684220188,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 880742,
@@ -323,6 +339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 550428,
+      "num": 550428,
+      "word": "徐娇回应泳装照争议",
+      "onboard_time": 1684220551,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 540410,
       "num": 540410,
       "word": "邓紫棋 没入女歌",
@@ -443,6 +467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 439745,
+      "num": 439745,
+      "word": "刘柏辛提名最佳女歌手",
+      "onboard_time": 1684218689,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 422206,
       "num": 294252,
       "word": "文旅部门介入调查House不当言论",
@@ -473,6 +505,14 @@
       "onboard_time": 1684210713,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 384532,
+      "num": 207424,
+      "word": "王俊凯重庆",
+      "onboard_time": 1684219349,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 374686,
@@ -739,6 +779,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244059,
+      "num": 162554,
+      "word": "中新网评House事件",
+      "onboard_time": 1684219109,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 242752,
+      "num": 160759,
+      "word": "王一博开赛车路透",
+      "onboard_time": 1684221209,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241736,
       "num": 213895,
       "word": "朱珠爷爷给她起的名字",
@@ -761,6 +817,14 @@
       "onboard_time": 1684167687,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 236664,
+      "num": 205373,
+      "word": "上甘岭 松鼠",
+      "onboard_time": 1684220790,
+      "rank": 26,
+      "category": "影视,艺人"
     },
     {
       "raw_hot": 230554,
@@ -825,6 +889,14 @@
       "onboard_time": 1684209870,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214861,
+      "num": 204925,
+      "word": "惜花芷",
+      "onboard_time": 1684217308,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 214160,
@@ -1019,14 +1091,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 172773,
-      "num": 172773,
-      "word": "刘柏辛提名最佳女歌手",
-      "onboard_time": 1684218689,
-      "rank": 33,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 171227,
       "num": 171227,
       "word": "朱珠曾是MTV天籁村主持人",
@@ -1041,14 +1105,6 @@
       "onboard_time": 1684138827,
       "rank": 32,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 161952,
-      "num": 161952,
-      "word": "惜花芷",
-      "onboard_time": 1684217308,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 161827,
@@ -1091,6 +1147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147683,
+      "num": 129128,
+      "word": "折腰全员杀青照",
+      "onboard_time": 1684219349,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 147460,
       "num": 147460,
       "word": "怎么没有徐怀钰直拍",
@@ -1123,6 +1187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 141360,
+      "num": 127942,
+      "word": "浪姐4冠军预测",
+      "onboard_time": 1684219048,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140239,
       "num": 140239,
       "word": "杨洋威尼斯活动生图",
@@ -1137,6 +1209,14 @@
       "onboard_time": 1684215031,
       "rank": 45,
       "category": "科技"
+    },
+    {
+      "raw_hot": 133848,
+      "num": 127259,
+      "word": "虞书欣配音蜘蛛侠",
+      "onboard_time": 1684219588,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 132618,
@@ -1241,6 +1321,14 @@
       "onboard_time": 1684157910,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109310,
+      "num": 109310,
+      "word": "家长 头一次跟孩子这么生疏",
+      "onboard_time": 1684221209,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 107081,
@@ -1369,6 +1457,14 @@
       "onboard_time": 1684212695,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30536,
+      "num": 366414,
+      "word": "戛纳红毯上的出圈妆容",
+      "onboard_time": 1684220429,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 26169,

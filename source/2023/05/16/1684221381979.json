@@ -1,0 +1,410 @@
+{
+  "runTime": 1684221381979,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2870503,
+        "num": 2870503,
+        "word": "格力员工称孟羽童是被公司开除",
+        "onboard_time": 1684219048,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1177561,
+        "num": 1177561,
+        "word": "浪姐4 成团名单",
+        "onboard_time": 1684216050,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27974,
+        "num": 1072256,
+        "word": "中国与中亚在此相会",
+        "onboard_time": 1684212695,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 967586,
+        "num": 967586,
+        "word": "胧月公主扮演者近照",
+        "onboard_time": 1684212216,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 893691,
+        "num": 893691,
+        "word": "43岁女子被撞流产无法再育获赔3万7",
+        "onboard_time": 1684220188,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 725244,
+        "num": 725244,
+        "word": "全国首例心脏不停跳人工心脏植入",
+        "onboard_time": 1684211257,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550428,
+        "num": 550428,
+        "word": "徐娇回应泳装照争议",
+        "onboard_time": 1684220551,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469695,
+        "num": 469695,
+        "word": "人民日报评House冒犯人民子弟兵",
+        "onboard_time": 1684192760,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 439745,
+        "num": 439745,
+        "word": "刘柏辛提名最佳女歌手",
+        "onboard_time": 1684218689,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 417748,
+        "num": 417748,
+        "word": "收到110元现金外卖小哥果断报警",
+        "onboard_time": 1684212514,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1426128,
+        "num": 409243,
+        "word": "章泽天疑怀三胎",
+        "onboard_time": 1684215690,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 560904,
+        "num": 404640,
+        "word": "成都 迪士尼",
+        "onboard_time": 1684208611,
+        "rank": 11,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 390705,
+        "num": 390705,
+        "word": "颜九要求温精灵公开道歉",
+        "onboard_time": 1684158512,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 379571,
+        "num": 379571,
+        "word": "邓紫棋 没入女歌",
+        "onboard_time": 1684216349,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 30536,
+        "num": 366414,
+        "word": "戛纳红毯上的出圈妆容",
+        "onboard_time": 1684220429,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 362254,
+        "num": 362254,
+        "word": "向佐给经纪人10天时间学妆发",
+        "onboard_time": 1684207228,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357344,
+        "num": 357344,
+        "word": "二阳",
+        "onboard_time": 1684214312,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301454,
+        "num": 301454,
+        "word": "金曲奖入围名单",
+        "onboard_time": 1684215212,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 243039,
+        "num": 243039,
+        "word": "九尾 剃头",
+        "onboard_time": 1684213357,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209779,
+        "num": 209779,
+        "word": "2官员工作群发不雅信息均被双开",
+        "onboard_time": 1684214070,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475193,
+        "num": 209268,
+        "word": "ofo创始人戴威再次创业",
+        "onboard_time": 1684216590,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 426103,
+        "num": 208577,
+        "word": "这高铁怎么蛇里蛇气的",
+        "onboard_time": 1684208307,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264984,
+        "num": 208274,
+        "word": "以为吴京和郭帆结婚了",
+        "onboard_time": 1684202427,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384532,
+        "num": 207424,
+        "word": "王俊凯重庆",
+        "onboard_time": 1684219349,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249493,
+        "num": 207044,
+        "word": "摄影师回应迪丽热巴未修原档生图",
+        "onboard_time": 1684198649,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238515,
+        "num": 206292,
+        "word": "9岁女童持续流血2个月确诊患癌",
+        "onboard_time": 1684217429,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236664,
+        "num": 205373,
+        "word": "上甘岭 松鼠",
+        "onboard_time": 1684220790,
+        "rank": 26,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 214861,
+        "num": 204925,
+        "word": "惜花芷",
+        "onboard_time": 1684217308,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204563,
+        "num": 204563,
+        "word": "WBG官宣主教练",
+        "onboard_time": 1684214430,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171557,
+        "num": 171557,
+        "word": "回领导消息多打了一个字",
+        "onboard_time": 1684210593,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244059,
+        "num": 162554,
+        "word": "中新网评House事件",
+        "onboard_time": 1684219109,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242752,
+        "num": 160759,
+        "word": "王一博开赛车路透",
+        "onboard_time": 1684221209,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182542,
+        "num": 154460,
+        "word": "辅导员式爱豆",
+        "onboard_time": 1684213416,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144480,
+        "num": 144480,
+        "word": "警方通报母女3人手绑一起河中身亡",
+        "onboard_time": 1684194625,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141912,
+        "num": 141912,
+        "word": "背调后被降薪降岗",
+        "onboard_time": 1684210291,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181882,
+        "num": 141379,
+        "word": "徐佳莹领跑入围金曲奖",
+        "onboard_time": 1684217549,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170486,
+        "num": 141360,
+        "word": "颜九 温精灵",
+        "onboard_time": 1684157374,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 148099,
+        "num": 141056,
+        "word": "赵雷入围最佳华语男歌手",
+        "onboard_time": 1684217910,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140484,
+        "num": 140484,
+        "word": "上海文旅部门实地调查笑果文化总部",
+        "onboard_time": 1684208307,
+        "rank": 38,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 130405,
+        "num": 130405,
+        "word": "官方回应迪士尼落户成都",
+        "onboard_time": 1684213534,
+        "rank": 39,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 147683,
+        "num": 129128,
+        "word": "折腰全员杀青照",
+        "onboard_time": 1684219349,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142011,
+        "num": 128405,
+        "word": "毛不易演唱会",
+        "onboard_time": 1684218567,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141360,
+        "num": 127942,
+        "word": "浪姐4冠军预测",
+        "onboard_time": 1684219048,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127348,
+        "num": 127348,
+        "word": "3年前救的野猪带3娃回来了",
+        "onboard_time": 1684210472,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133848,
+        "num": 127259,
+        "word": "虞书欣配音蜘蛛侠",
+        "onboard_time": 1684219588,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119735,
+        "num": 119735,
+        "word": "大爷撞进饭店没赔钱一夜没睡着",
+        "onboard_time": 1684209091,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119260,
+        "num": 119260,
+        "word": "胡锡进 笑果文化同样要反省",
+        "onboard_time": 1684212394,
+        "rank": 46,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 115113,
+        "num": 115113,
+        "word": "当我消费只要超过500时",
+        "onboard_time": 1684209931,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109310,
+        "num": 109310,
+        "word": "家长 头一次跟孩子这么生疏",
+        "onboard_time": 1684221209,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109137,
+        "num": 109137,
+        "word": "中2574万彩票摊主转让摊位",
+        "onboard_time": 1684195648,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同厄立特里亚总统举行会谈#"
+    }
+  }
+}
