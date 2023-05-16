@@ -1,6 +1,6 @@
 {
   "startTime": 1684167725625,
-  "endTime": 1684240554137,
+  "endTime": 1684241496962,
   "band_list": [
     {
       "raw_hot": 3766911,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1674689,
-      "num": 981283,
+      "num": 1073308,
       "word": "上海一研究生清晨从宿舍6楼坠亡",
       "onboard_time": 1684235070,
       "rank": 30,
@@ -211,6 +211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1275743,
+      "num": 1275743,
+      "word": "孟羽童IP属地显示新加坡",
+      "onboard_time": 1684236812,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1274941,
       "num": 1274941,
       "word": "浪姐4 成团名单",
@@ -256,14 +264,6 @@
       "word": "摄影师回应迪丽热巴未修原档生图",
       "onboard_time": 1684198649,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1139213,
-      "num": 927100,
-      "word": "孟羽童IP属地显示新加坡",
-      "onboard_time": 1684236812,
-      "rank": 5,
       "category": "艺人"
     },
     {
@@ -339,6 +339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 847623,
+      "num": 847623,
+      "word": "家属称事发前大女儿喊爸爸救命",
+      "onboard_time": 1684238549,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 824974,
       "num": 824974,
       "word": "九尾 剃头",
@@ -403,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 714120,
-      "num": 320337,
-      "word": "家属称事发前大女儿喊爸爸救命",
-      "onboard_time": 1684238549,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 707049,
       "num": 707049,
       "word": "张雨绮担任法国尼斯旅游文化大使",
@@ -449,6 +449,14 @@
       "onboard_time": 1684221569,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 616101,
+      "num": 216846,
+      "word": "苗苗称与郑恺住的房子是租的",
+      "onboard_time": 1684240592,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 610075,
@@ -507,6 +515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 556169,
+      "num": 333192,
+      "word": "杨洋胸针",
+      "onboard_time": 1684238910,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 540410,
       "num": 540410,
       "word": "邓紫棋 没入女歌",
@@ -529,6 +545,14 @@
       "onboard_time": 1684209091,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 536374,
+      "num": 536374,
+      "word": "秦昊减肥法第3天差点把自己送走",
+      "onboard_time": 1684239452,
+      "rank": 18,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 533269,
@@ -699,14 +723,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 427111,
-      "num": 319555,
-      "word": "杨洋胸针",
-      "onboard_time": 1684238910,
-      "rank": 17,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 422206,
       "num": 294252,
       "word": "文旅部门介入调查House不当言论",
@@ -721,14 +737,6 @@
       "onboard_time": 1684210593,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 404394,
-      "num": 319435,
-      "word": "秦昊减肥法第3天差点把自己送走",
-      "onboard_time": 1684239452,
-      "rank": 18,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 400523,
@@ -1035,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280880,
+      "num": 280880,
+      "word": "只有文科生才知道的梗",
+      "onboard_time": 1684238910,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 279574,
       "num": 279574,
       "word": "徐佳莹领跑入围金曲奖",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1684196069,
       "rank": 32,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 279391,
+      "num": 227309,
+      "word": "hanni新闻图",
+      "onboard_time": 1684240350,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 277990,
@@ -1115,6 +1139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262252,
+      "num": 226537,
+      "word": "白鹿晒玲娜贝儿一家",
+      "onboard_time": 1684239989,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259222,
       "num": 259222,
       "word": "段奕宏终究是错付了",
@@ -1161,6 +1193,14 @@
       "onboard_time": 1684197148,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 253757,
+      "num": 233588,
+      "word": "迪丽热巴佟大为公诉或将下周上线",
+      "onboard_time": 1684239690,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 253432,
@@ -1227,14 +1267,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 233588,
-      "num": 233588,
-      "word": "迪丽热巴佟大为公诉或将下周上线",
-      "onboard_time": 1684239690,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 233212,
       "num": 263284,
       "word": "终于把公司熬成双休了",
@@ -1243,20 +1275,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 232394,
+      "num": 214697,
+      "word": "易梦玲直播体态",
+      "onboard_time": 1684238549,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 230554,
       "num": 230554,
       "word": "折腰杀青全员盼开播",
       "onboard_time": 1684203505,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 227708,
-      "num": 188603,
-      "word": "易梦玲直播体态",
-      "onboard_time": 1684238549,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 226443,
@@ -1371,14 +1403,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 213078,
-      "num": 188006,
-      "word": "白鹿晒玲娜贝儿一家",
-      "onboard_time": 1684239989,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 210821,
       "num": 210821,
       "word": "种地吧",
@@ -1393,14 +1417,6 @@
       "onboard_time": 1684149150,
       "rank": 24,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 204362,
-      "num": 204362,
-      "word": "只有文科生才知道的梗",
-      "onboard_time": 1684238910,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 202957,
@@ -1508,7 +1524,7 @@
     },
     {
       "raw_hot": 190118,
-      "num": 190118,
+      "num": 220886,
       "word": "游戏还原老年痴呆患者眼中的世界",
       "onboard_time": 1684238973,
       "rank": 29,
@@ -1579,20 +1595,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 183158,
-      "num": 172837,
-      "word": "hanni新闻图",
-      "onboard_time": 1684240350,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 182696,
       "num": 182696,
       "word": "许凯晒一次腹肌奖励自己两个汉堡",
       "onboard_time": 1684161453,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182452,
+      "num": 182452,
+      "word": "乔欣身材曲线",
+      "onboard_time": 1684240229,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 181291,
+      "num": 221941,
+      "word": "秦昊减肥法",
+      "onboard_time": 1684240711,
+      "rank": 28,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 179829,
@@ -1643,6 +1667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 175391,
+      "num": 136567,
+      "word": "宋雨琦菜花头",
+      "onboard_time": 1684240532,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174827,
       "num": 174827,
       "word": "唛恩音乐节",
@@ -1676,7 +1708,7 @@
     },
     {
       "raw_hot": 170123,
-      "num": 131599,
+      "num": 135946,
       "word": "蒋奇明FENDI",
       "onboard_time": 1684237651,
       "rank": 40,
@@ -1713,6 +1745,22 @@
       "onboard_time": 1684225528,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162968,
+      "num": 135353,
+      "word": "战损是男人最好的嫁妆",
+      "onboard_time": 1684240891,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 162017,
+      "num": 162017,
+      "word": "因为臭脸躲过了一次抢劫",
+      "onboard_time": 1684241013,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 161827,
@@ -1835,20 +1883,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 145644,
+      "num": 145644,
+      "word": "普通人一生大概能赚多少钱",
+      "onboard_time": 1684239631,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144498,
       "num": 144498,
       "word": "上海广场舞跳极乐净土",
       "onboard_time": 1684212814,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144155,
-      "num": 131209,
-      "word": "乔欣身材曲线",
-      "onboard_time": 1684240229,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 143659,
@@ -1905,6 +1953,14 @@
       "onboard_time": 1684214850,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136943,
+      "num": 136943,
+      "word": "新华社",
+      "onboard_time": 1684239811,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136789,
@@ -2003,14 +2059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127383,
-      "num": 127383,
-      "word": "宋雨琦菜花头",
-      "onboard_time": 1684240532,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 126966,
       "num": 126966,
       "word": "鞋子坏了你还会修吗",
@@ -2025,6 +2073,14 @@
       "onboard_time": 1684227869,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123441,
+      "num": 325961,
+      "word": "法棍包",
+      "onboard_time": 1684238430,
+      "rank": 14,
+      "category": "时尚"
     },
     {
       "raw_hot": 121204,
@@ -2051,14 +2107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119485,
-      "num": 119485,
-      "word": "普通人一生大概能赚多少钱",
-      "onboard_time": 1684239631,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 119017,
       "num": 119017,
       "word": "宋祖儿折腰的妆造",
@@ -2072,6 +2120,14 @@
       "word": "老人幼童反坐扶梯遇险男子回身救人",
       "onboard_time": 1684215931,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116846,
+      "num": 116846,
+      "word": "小伙跳河救人后又淡定回河边钓鱼",
+      "onboard_time": 1684240830,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2097,14 +2153,6 @@
       "onboard_time": 1684157910,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 109134,
-      "num": 109134,
-      "word": "新华社",
-      "onboard_time": 1684239811,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107081,
@@ -2169,14 +2217,6 @@
       "onboard_time": 1684159050,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 90706,
-      "num": 319969,
-      "word": "法棍包",
-      "onboard_time": 1684238430,
-      "rank": 14,
-      "category": "时尚"
     },
     {
       "raw_hot": 88614,

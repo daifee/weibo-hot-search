@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684240554137,
+  "endTime": 1684241496962,
   "band_list": [
     {
       "raw_hot": 3904532,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 1674689,
-      "num": 981283,
+      "num": 1073308,
       "word": "上海一研究生清晨从宿舍6楼坠亡",
       "onboard_time": 1684235070,
       "rank": 30,
@@ -435,6 +435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1275743,
+      "num": 1275743,
+      "word": "孟羽童IP属地显示新加坡",
+      "onboard_time": 1684236812,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1274941,
       "num": 1274941,
       "word": "浪姐4 成团名单",
@@ -537,14 +545,6 @@
       "onboard_time": 1684138467,
       "rank": 48,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 1139213,
-      "num": 927100,
-      "word": "孟羽童IP属地显示新加坡",
-      "onboard_time": 1684236812,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 1104744,
@@ -699,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 847623,
+      "num": 847623,
+      "word": "家属称事发前大女儿喊爸爸救命",
+      "onboard_time": 1684238549,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 828154,
       "num": 828154,
       "word": "于晓光陪秋瓷炫上班",
@@ -825,14 +833,6 @@
       "onboard_time": 1684231530,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 714120,
-      "num": 320337,
-      "word": "家属称事发前大女儿喊爸爸救命",
-      "onboard_time": 1684238549,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 707049,
@@ -979,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 616101,
+      "num": 216846,
+      "word": "苗苗称与郑恺住的房子是租的",
+      "onboard_time": 1684240592,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 610075,
       "num": 377332,
       "word": "胡锡进",
@@ -1067,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 556169,
+      "num": 333192,
+      "word": "杨洋胸针",
+      "onboard_time": 1684238910,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 553527,
       "num": 553527,
       "word": "周冬雨刘昊然屈楚萧雪地躺平",
@@ -1097,6 +1113,14 @@
       "onboard_time": 1684209091,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 536374,
+      "num": 536374,
+      "word": "秦昊减肥法第3天差点把自己送走",
+      "onboard_time": 1684239452,
+      "rank": 18,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 525449,
@@ -1387,14 +1411,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 427111,
-      "num": 319555,
-      "word": "杨洋胸针",
-      "onboard_time": 1684238910,
-      "rank": 17,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 423727,
       "num": 376879,
       "word": "下班在地铁上被公司辞退了",
@@ -1449,14 +1465,6 @@
       "onboard_time": 1684136308,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 404394,
-      "num": 319435,
-      "word": "秦昊减肥法第3天差点把自己送走",
-      "onboard_time": 1684239452,
-      "rank": 18,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 402279,
@@ -2059,6 +2067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280880,
+      "num": 280880,
+      "word": "只有文科生才知道的梗",
+      "onboard_time": 1684238910,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 280214,
       "num": 280214,
       "word": "谈恋爱一周亏了几千块钱",
@@ -2105,6 +2121,14 @@
       "onboard_time": 1684196069,
       "rank": 32,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 279391,
+      "num": 227309,
+      "word": "hanni新闻图",
+      "onboard_time": 1684240350,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 278594,
@@ -2235,6 +2259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262252,
+      "num": 226537,
+      "word": "白鹿晒玲娜贝儿一家",
+      "onboard_time": 1684239989,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261096,
       "num": 261096,
       "word": "全国约有11至12亿人感染过新冠",
@@ -2305,6 +2337,14 @@
       "onboard_time": 1684197148,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 253757,
+      "num": 233588,
+      "word": "迪丽热巴佟大为公诉或将下周上线",
+      "onboard_time": 1684239690,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 253432,
@@ -2443,14 +2483,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 233588,
-      "num": 233588,
-      "word": "迪丽热巴佟大为公诉或将下周上线",
-      "onboard_time": 1684239690,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 233212,
       "num": 263284,
       "word": "终于把公司熬成双休了",
@@ -2465,6 +2497,14 @@
       "onboard_time": 1684132107,
       "rank": 33,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 232394,
+      "num": 214697,
+      "word": "易梦玲直播体态",
+      "onboard_time": 1684238549,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 231941,
@@ -2529,14 +2569,6 @@
       "onboard_time": 1684156229,
       "rank": 33,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 227708,
-      "num": 188603,
-      "word": "易梦玲直播体态",
-      "onboard_time": 1684238549,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 226443,
@@ -2747,14 +2779,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 213078,
-      "num": 188006,
-      "word": "白鹿晒玲娜贝儿一家",
-      "onboard_time": 1684239989,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 212985,
       "num": 212985,
       "word": "电影燃冬他她他海报",
@@ -2857,14 +2881,6 @@
       "onboard_time": 1684146267,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204362,
-      "num": 204362,
-      "word": "只有文科生才知道的梗",
-      "onboard_time": 1684238910,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 204139,
@@ -3052,7 +3068,7 @@
     },
     {
       "raw_hot": 190118,
-      "num": 190118,
+      "num": 220886,
       "word": "游戏还原老年痴呆患者眼中的世界",
       "onboard_time": 1684238973,
       "rank": 29,
@@ -3195,20 +3211,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 183158,
-      "num": 172837,
-      "word": "hanni新闻图",
-      "onboard_time": 1684240350,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 182479,
       "num": 182479,
       "word": "这种验榴莲的方式还是头一次见",
       "onboard_time": 1684105640,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 182452,
+      "num": 182452,
+      "word": "乔欣身材曲线",
+      "onboard_time": 1684240229,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 182429,
@@ -3225,6 +3241,14 @@
       "onboard_time": 1684123111,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181291,
+      "num": 221941,
+      "word": "秦昊减肥法",
+      "onboard_time": 1684240711,
+      "rank": 28,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 180804,
@@ -3339,6 +3363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 175391,
+      "num": 136567,
+      "word": "宋雨琦菜花头",
+      "onboard_time": 1684240532,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175154,
       "num": 175154,
       "word": "莫兰特",
@@ -3436,7 +3468,7 @@
     },
     {
       "raw_hot": 170123,
-      "num": 131599,
+      "num": 135946,
       "word": "蒋奇明FENDI",
       "onboard_time": 1684237651,
       "rank": 40,
@@ -3561,6 +3593,22 @@
       "onboard_time": 1684132289,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 162968,
+      "num": 135353,
+      "word": "战损是男人最好的嫁妆",
+      "onboard_time": 1684240891,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 162017,
+      "num": 162017,
+      "word": "因为臭脸躲过了一次抢劫",
+      "onboard_time": 1684241013,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 161975,
@@ -3795,6 +3843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 145644,
+      "num": 145644,
+      "word": "普通人一生大概能赚多少钱",
+      "onboard_time": 1684239631,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144747,
       "num": 144747,
       "word": "NBA季后赛",
@@ -3817,14 +3873,6 @@
       "onboard_time": 1684212814,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144155,
-      "num": 131209,
-      "word": "乔欣身材曲线",
-      "onboard_time": 1684240229,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 144104,
@@ -3929,6 +3977,14 @@
       "onboard_time": 1684130369,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136943,
+      "num": 136943,
+      "word": "新华社",
+      "onboard_time": 1684239811,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136789,
@@ -4083,14 +4139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127383,
-      "num": 127383,
-      "word": "宋雨琦菜花头",
-      "onboard_time": 1684240532,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127227,
       "num": 127227,
       "word": "阿森纳",
@@ -4147,6 +4195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123441,
+      "num": 325961,
+      "word": "法棍包",
+      "onboard_time": 1684238430,
+      "rank": 14,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 121811,
       "num": 121811,
       "word": "男朋友送的生日礼物是个钥匙扣",
@@ -4179,14 +4235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119485,
-      "num": 119485,
-      "word": "普通人一生大概能赚多少钱",
-      "onboard_time": 1684239631,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 119017,
       "num": 119017,
       "word": "宋祖儿折腰的妆造",
@@ -4211,6 +4259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 116846,
+      "num": 116846,
+      "word": "小伙跳河救人后又淡定回河边钓鱼",
+      "onboard_time": 1684240830,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115071,
       "num": 115071,
       "word": "魏如萱演唱会连线那英华晨宇马嘉祺",
@@ -4225,14 +4281,6 @@
       "onboard_time": 1684057047,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 109134,
-      "num": 109134,
-      "word": "新华社",
-      "onboard_time": 1684239811,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108758,
@@ -4385,14 +4433,6 @@
       "onboard_time": 1684082542,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 90706,
-      "num": 319969,
-      "word": "法棍包",
-      "onboard_time": 1684238430,
-      "rank": 14,
-      "category": "时尚"
     },
     {
       "raw_hot": 90456,
