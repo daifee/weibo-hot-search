@@ -1,0 +1,410 @@
+{
+  "runTime": 1684218090901,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1194864,
+        "num": 1194864,
+        "word": "浪姐4 成团名单",
+        "onboard_time": 1684216050,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1134308,
+        "num": 1134308,
+        "word": "全国首例心脏不停跳人工心脏植入",
+        "onboard_time": 1684211257,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38404,
+        "num": 824735,
+        "word": "中国与中亚在此相会",
+        "onboard_time": 1684212695,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1248034,
+        "num": 758710,
+        "word": "胧月公主扮演者近照",
+        "onboard_time": 1684212216,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 691308,
+        "num": 691308,
+        "word": "向佐给经纪人10天时间学妆发",
+        "onboard_time": 1684207228,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 670312,
+        "num": 670312,
+        "word": "人民日报评House冒犯人民子弟兵",
+        "onboard_time": 1684192760,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 593856,
+        "num": 593856,
+        "word": "二阳",
+        "onboard_time": 1684214312,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592126,
+        "num": 592126,
+        "word": "以为吴京和郭帆结婚了",
+        "onboard_time": 1684202427,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580477,
+        "num": 580477,
+        "word": "收到110元现金外卖小哥果断报警",
+        "onboard_time": 1684212514,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577969,
+        "num": 577969,
+        "word": "金曲奖入围名单",
+        "onboard_time": 1684215212,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1672307,
+        "num": 567864,
+        "word": "章泽天疑怀三胎",
+        "onboard_time": 1684215690,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 875637,
+        "num": 564333,
+        "word": "成都 迪士尼",
+        "onboard_time": 1684208611,
+        "rank": 11,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 540410,
+        "num": 540410,
+        "word": "邓紫棋 没入女歌",
+        "onboard_time": 1684216349,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 475533,
+        "num": 475533,
+        "word": "颜九要求温精灵公开道歉",
+        "onboard_time": 1684158512,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 460598,
+        "num": 460598,
+        "word": "九尾 剃头",
+        "onboard_time": 1684213357,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 440492,
+        "num": 440492,
+        "word": "辅导员式爱豆",
+        "onboard_time": 1684213416,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 422296,
+        "num": 422296,
+        "word": "中2574万彩票摊主转让摊位",
+        "onboard_time": 1684195648,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380416,
+        "num": 380416,
+        "word": "ofo创始人戴威再次创业",
+        "onboard_time": 1684216590,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 354458,
+        "num": 354458,
+        "word": "WBG官宣主教练",
+        "onboard_time": 1684214430,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 322700,
+        "num": 322700,
+        "word": "摄影师回应迪丽热巴未修原档生图",
+        "onboard_time": 1684198649,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366144,
+        "num": 308025,
+        "word": "这高铁怎么蛇里蛇气的",
+        "onboard_time": 1684208307,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284327,
+        "num": 284327,
+        "word": "2官员工作群发不雅信息均被双开",
+        "onboard_time": 1684214070,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276274,
+        "num": 276274,
+        "word": "警方通报母女3人手绑一起河中身亡",
+        "onboard_time": 1684194625,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224155,
+        "num": 224155,
+        "word": "背调后被降薪降岗",
+        "onboard_time": 1684210291,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218635,
+        "num": 218635,
+        "word": "赵雷入围最佳华语男歌手",
+        "onboard_time": 1684217910,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209100,
+        "num": 209100,
+        "word": "上海文旅部门实地调查笑果文化总部",
+        "onboard_time": 1684208307,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 207302,
+        "num": 207302,
+        "word": "官方回应迪士尼落户成都",
+        "onboard_time": 1684213534,
+        "rank": 26,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 204004,
+        "num": 204004,
+        "word": "金曲奖",
+        "onboard_time": 1684210893,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 205965,
+        "num": 203949,
+        "word": "胡锡进 笑果文化同样要反省",
+        "onboard_time": 1684212394,
+        "rank": 28,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 202957,
+        "num": 202957,
+        "word": "郁可唯入围金曲奖最佳华语女歌手",
+        "onboard_time": 1684216889,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200848,
+        "num": 200848,
+        "word": "颜九 温精灵",
+        "onboard_time": 1684157374,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 196440,
+        "num": 200838,
+        "word": "吴青峰的星期二",
+        "onboard_time": 1684217250,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200832,
+        "num": 200832,
+        "word": "徐佳莹领跑入围金曲奖",
+        "onboard_time": 1684217549,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199237,
+        "num": 199237,
+        "word": "9岁女童持续流血2个月确诊患癌",
+        "onboard_time": 1684217429,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188545,
+        "num": 188545,
+        "word": "周也对侯明昊的网络印象是张起灵",
+        "onboard_time": 1684213654,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184141,
+        "num": 184141,
+        "word": "3年前救的野猪带3娃回来了",
+        "onboard_time": 1684210472,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183656,
+        "num": 183656,
+        "word": "傅菁线下状态",
+        "onboard_time": 1684216531,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175580,
+        "num": 175580,
+        "word": "回领导消息多打了一个字",
+        "onboard_time": 1684210593,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171227,
+        "num": 171227,
+        "word": "朱珠曾是MTV天籁村主持人",
+        "onboard_time": 1684214672,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168592,
+        "num": 168592,
+        "word": "Ella改文案",
+        "onboard_time": 1684198889,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146753,
+        "num": 146753,
+        "word": "大爷撞进饭店没赔钱一夜没睡着",
+        "onboard_time": 1684209091,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134794,
+        "num": 134794,
+        "word": "选结婚对象什么条件最重要",
+        "onboard_time": 1684201948,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132788,
+        "num": 132788,
+        "word": "当我消费只要超过500时",
+        "onboard_time": 1684209931,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131282,
+        "num": 131282,
+        "word": "段奕宏终究是错付了",
+        "onboard_time": 1684210593,
+        "rank": 43,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 126966,
+        "num": 126966,
+        "word": "鞋子坏了你还会修吗",
+        "onboard_time": 1684217608,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118382,
+        "num": 118382,
+        "word": "老人幼童反坐扶梯遇险男子回身救人",
+        "onboard_time": 1684215931,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117321,
+        "num": 117321,
+        "word": "折腰",
+        "onboard_time": 1684203748,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111574,
+        "num": 111574,
+        "word": "马来西亚男子猥琐发言被群殴致死",
+        "onboard_time": 1684193904,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115604,
+        "num": 110469,
+        "word": "宋祖儿折腰的妆造",
+        "onboard_time": 1684216171,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108694,
+        "num": 108694,
+        "word": "矮个子女生才能懂的社死现场",
+        "onboard_time": 1684208130,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国元首外交热度不减又攀新峰#"
+    }
+  }
+}

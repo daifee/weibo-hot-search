@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684215217590,
+  "endTime": 1684218090901,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1859,6 +1859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1672307,
+      "num": 567864,
+      "word": "章泽天疑怀三胎",
+      "onboard_time": 1684215690,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1672154,
       "num": 1486779,
       "word": "妻子举报高校丈夫出轨多位女学生",
@@ -3371,6 +3379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1248034,
+      "num": 881385,
+      "word": "胧月公主扮演者近照",
+      "onboard_time": 1684212216,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1247931,
       "num": 1577912,
       "word": "硕士求职客服岗被拒HR教改简历",
@@ -3577,6 +3593,14 @@
       "onboard_time": 1683516568,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1194864,
+      "num": 1194864,
+      "word": "浪姐4 成团名单",
+      "onboard_time": 1684216050,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1194485,
@@ -4113,14 +4137,6 @@
       "onboard_time": 1682986045,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1079023,
-      "num": 881385,
-      "word": "胧月公主扮演者近照",
-      "onboard_time": 1684212216,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1077776,
@@ -7771,6 +7787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 580477,
+      "num": 580477,
+      "word": "收到110元现金外卖小哥果断报警",
+      "onboard_time": 1684212514,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 580246,
       "num": 580246,
       "word": "如何让领导知道你干了很多活",
@@ -7817,6 +7841,14 @@
       "onboard_time": 1683180207,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 577969,
+      "num": 577969,
+      "word": "金曲奖入围名单",
+      "onboard_time": 1684215212,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 577857,
@@ -8408,6 +8440,14 @@
       "word": "泄曲",
       "onboard_time": 1683520712,
       "rank": 14,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 540410,
+      "num": 540410,
+      "word": "邓紫棋 没入女歌",
+      "onboard_time": 1684216349,
+      "rank": 12,
       "category": "音乐"
     },
     {
@@ -10307,6 +10347,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 440492,
+      "num": 440492,
+      "word": "辅导员式爱豆",
+      "onboard_time": 1684213416,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 439438,
       "num": 439438,
       "word": "特斯拉涨价",
@@ -10891,14 +10939,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 419308,
-      "num": 419308,
-      "word": "辅导员式爱豆",
-      "onboard_time": 1684213416,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 419124,
       "num": 419124,
       "word": "林彦俊深夜唱歌扰民",
@@ -11025,14 +11065,6 @@
       "onboard_time": 1683378630,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 415164,
-      "num": 386819,
-      "word": "收到110元现金外卖小哥果断报警",
-      "onboard_time": 1684212514,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 414605,
@@ -12171,6 +12203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380416,
+      "num": 380416,
+      "word": "ofo创始人戴威再次创业",
+      "onboard_time": 1684216590,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 380208,
       "num": 299060,
       "word": "Ella演唱出道曲恋人未满",
@@ -13169,6 +13209,14 @@
       "onboard_time": 1683204332,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 354458,
+      "num": 354458,
+      "word": "WBG官宣主教练",
+      "onboard_time": 1684214430,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 354406,
@@ -16649,6 +16697,14 @@
       "onboard_time": 1683691052,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 284327,
+      "num": 284327,
+      "word": "2官员工作群发不雅信息均被双开",
+      "onboard_time": 1684214070,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284168,
@@ -20795,14 +20851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 227449,
-      "num": 227449,
-      "word": "WBG官宣主教练",
-      "onboard_time": 1684214430,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 227375,
       "num": 227375,
       "word": "湖人拿到赛点",
@@ -21521,6 +21569,14 @@
       "onboard_time": 1683691471,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 218635,
+      "num": 218635,
+      "word": "赵雷入围最佳华语男歌手",
+      "onboard_time": 1684217910,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 218586,
@@ -23059,6 +23115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202957,
+      "num": 202957,
+      "word": "郁可唯入围金曲奖最佳华语女歌手",
+      "onboard_time": 1684216889,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 202919,
       "num": 202919,
       "word": "你见过最稀有的姓氏是什么",
@@ -23283,6 +23347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200832,
+      "num": 200832,
+      "word": "徐佳莹领跑入围金曲奖",
+      "onboard_time": 1684217549,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200777,
       "num": 200777,
       "word": "周深的刘海还好吗",
@@ -23433,6 +23505,14 @@
       "onboard_time": 1682931510,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199237,
+      "num": 199237,
+      "word": "9岁女童持续流血2个月确诊患癌",
+      "onboard_time": 1684217429,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199077,
@@ -23689,6 +23769,14 @@
       "onboard_time": 1683170188,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 196440,
+      "num": 200838,
+      "word": "吴青峰的星期二",
+      "onboard_time": 1684217250,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 196253,
@@ -24977,6 +25065,14 @@
       "onboard_time": 1683858987,
       "rank": 34,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 183656,
+      "num": 183656,
+      "word": "傅菁线下状态",
+      "onboard_time": 1684216531,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 183495,
@@ -26307,6 +26403,14 @@
       "category": "财经,艺人"
     },
     {
+      "raw_hot": 171227,
+      "num": 171227,
+      "word": "朱珠曾是MTV天籁村主持人",
+      "onboard_time": 1684214672,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171215,
       "num": 171215,
       "word": "老师用塞尔达讲物理成公招考试题",
@@ -26857,14 +26961,6 @@
       "onboard_time": 1683387869,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 165017,
-      "num": 165017,
-      "word": "2官员工作群发不雅信息均被双开",
-      "onboard_time": 1684214070,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164991,
@@ -28683,14 +28779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143952,
-      "num": 143952,
-      "word": "朱珠曾是MTV天籁村主持人",
-      "onboard_time": 1684214672,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 143330,
       "num": 143330,
       "word": "汶川地震中的催泪瞬间",
@@ -29963,6 +30051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126966,
+      "num": 126966,
+      "word": "鞋子坏了你还会修吗",
+      "onboard_time": 1684217608,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126907,
       "num": 126907,
       "word": "男子醉驾致妻子死亡判6个月缓1年",
@@ -30507,6 +30603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118382,
+      "num": 118382,
+      "word": "老人幼童反坐扶梯遇险男子回身救人",
+      "onboard_time": 1684215931,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118250,
       "num": 118250,
       "word": "国宝表达喜欢都快把对方头皮薅秃了",
@@ -30577,6 +30681,14 @@
       "onboard_time": 1683772287,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 115604,
+      "num": 110469,
+      "word": "宋祖儿折腰的妆造",
+      "onboard_time": 1684216171,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 115590,
