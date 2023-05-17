@@ -1,6 +1,6 @@
 {
   "startTime": 1684254143599,
-  "endTime": 1684297209717,
+  "endTime": 1684298012106,
   "band_list": [
     {
       "raw_hot": 2401627,
@@ -11,20 +11,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2332331,
+      "num": 599606,
+      "word": "张卫健回应私生女传闻",
+      "onboard_time": 1684292370,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2021463,
       "num": 2021463,
       "word": "温精灵道歉",
       "onboard_time": 1684242336,
       "rank": 0,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1977028,
-      "num": 530554,
-      "word": "张卫健回应私生女传闻",
-      "onboard_time": 1684292370,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1951512,
@@ -51,20 +51,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1658865,
+      "num": 580832,
+      "word": "霍尊父亲称儿子结婚时间将近",
+      "onboard_time": 1684295134,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1641832,
       "num": 1641832,
       "word": "关晓彤戛纳",
       "onboard_time": 1684256303,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1490449,
-      "num": 481685,
-      "word": "霍尊父亲称儿子结婚时间将近",
-      "onboard_time": 1684295134,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1437724,
@@ -91,6 +91,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1189256,
+      "num": 1189256,
+      "word": "刘亦菲和安妮海瑟薇合影",
+      "onboard_time": 1684294652,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1159603,
       "num": 1159603,
       "word": "高中女生自发厕所内放卫生巾互助",
@@ -104,14 +112,6 @@
       "word": "唐艺昕脚腕纹身",
       "onboard_time": 1684249174,
       "rank": 1,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1128346,
-      "num": 1128346,
-      "word": "刘亦菲和安妮海瑟薇合影",
-      "onboard_time": 1684294652,
-      "rank": 3,
       "category": "作品衍生"
     },
     {
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 813748,
+      "num": 813748,
+      "word": "易烊千玺法国晚宴侧拍",
+      "onboard_time": 1684293393,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 804899,
       "num": 390654,
       "word": "我把公公的退休金搞没了",
@@ -211,14 +219,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 754772,
-      "num": 754772,
-      "word": "易烊千玺法国晚宴侧拍",
-      "onboard_time": 1684293393,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 738729,
       "num": 738729,
       "word": "孟羽童图文广告报价至少15万一条",
@@ -232,6 +232,14 @@
       "word": "地铁上最让人反感的行为",
       "onboard_time": 1684281267,
       "rank": 7,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 701817,
+      "num": 293521,
+      "word": "月薪7000但学不到东西要离职吗",
+      "onboard_time": 1684295672,
+      "rank": 22,
       "category": "情感"
     },
     {
@@ -251,20 +259,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 646359,
-      "num": 293521,
-      "word": "月薪7000但学不到东西要离职吗",
-      "onboard_time": 1684295672,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 628854,
       "num": 581378,
       "word": "杨洋刘亦菲威尼斯同框",
       "onboard_time": 1684284755,
       "rank": 13,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 615610,
+      "num": 615610,
+      "word": "格力官方回应孟羽童离职",
+      "onboard_time": 1684294832,
+      "rank": 14,
+      "category": "科技,艺人"
     },
     {
       "raw_hot": 593469,
@@ -289,14 +297,6 @@
       "onboard_time": 1684279764,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 541590,
-      "num": 473614,
-      "word": "格力官方回应孟羽童离职",
-      "onboard_time": 1684294832,
-      "rank": 14,
-      "category": "科技,艺人"
     },
     {
       "raw_hot": 541047,
@@ -387,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 392715,
+      "num": 392715,
+      "word": "直播带货525万其中495万为刷单",
+      "onboard_time": 1684290928,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 390639,
       "num": 390639,
       "word": "提完离职后公司突然倒闭了",
@@ -440,14 +448,6 @@
       "word": "第一甲第一名状元卷有多强大",
       "onboard_time": 1684259835,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 342980,
-      "num": 342980,
-      "word": "直播带货525万其中495万为刷单",
-      "onboard_time": 1684290928,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -595,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258236,
+      "num": 258236,
+      "word": "蔡徐坤澳门演唱会定档",
+      "onboard_time": 1684294714,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 254927,
       "num": 188495,
       "word": "李莎旻子都快抡出火星子了",
@@ -617,6 +625,14 @@
       "onboard_time": 1684291711,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 241461,
+      "num": 241461,
+      "word": "易烊千玺新歌同乘MV",
+      "onboard_time": 1684296874,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 237595,
@@ -643,12 +659,20 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 228142,
-      "num": 228142,
-      "word": "易烊千玺新歌同乘MV",
-      "onboard_time": 1684296874,
-      "rank": 30,
-      "category": "音乐"
+      "raw_hot": 229362,
+      "num": 229362,
+      "word": "王玉雯王子奇你给我的喜欢收官海报",
+      "onboard_time": 1684297536,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 223797,
+      "num": 223797,
+      "word": "大学宿舍让多少人迷失自我",
+      "onboard_time": 1684294954,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 221280,
@@ -680,14 +704,6 @@
       "word": "只有文科生才知道的梗",
       "onboard_time": 1684238910,
       "rank": 22,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 204243,
-      "num": 204243,
-      "word": "大学宿舍让多少人迷失自我",
-      "onboard_time": 1684294954,
-      "rank": 37,
       "category": "情感"
     },
     {
@@ -745,14 +761,6 @@
       "onboard_time": 1684243899,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 185781,
-      "num": 185781,
-      "word": "蔡徐坤澳门演唱会定档",
-      "onboard_time": 1684294714,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 181986,
@@ -819,12 +827,28 @@
       "category": "网红"
     },
     {
-      "raw_hot": 163456,
-      "num": 163456,
+      "raw_hot": 165378,
+      "num": 165378,
       "word": "塞尔达 人和马都陷入了沉默",
       "onboard_time": 1684292010,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 164833,
+      "num": 164833,
+      "word": "因为穿凉拖鞋上班被辞退了",
+      "onboard_time": 1684294893,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 163615,
+      "num": 163615,
+      "word": "女子吐槽裙子比打底裤还短",
+      "onboard_time": 1684297656,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161915,
@@ -875,6 +899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150398,
+      "num": 150398,
+      "word": "文班亚马要去马刺了",
+      "onboard_time": 1684296815,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149031,
       "num": 128772,
       "word": "沈月给闺蜜的证婚词",
@@ -913,22 +945,6 @@
       "onboard_time": 1684288048,
       "rank": 47,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 140531,
-      "num": 140531,
-      "word": "因为穿凉拖鞋上班被辞退了",
-      "onboard_time": 1684294893,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 140294,
-      "num": 140294,
-      "word": "文班亚马要去马刺了",
-      "onboard_time": 1684296815,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 137868,
@@ -1099,7 +1115,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 74570,
+      "raw_hot": 76557,
       "num": 1285530,
       "word": "中国有约",
       "onboard_time": 1684293571,

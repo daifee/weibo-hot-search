@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684297209717,
+  "endTime": 1684298012106,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -827,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2332331,
+      "num": 599606,
+      "word": "张卫健回应私生女传闻",
+      "onboard_time": 1684292370,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2324403,
       "num": 711990,
       "word": "还以为杨幂是嘉行老板",
@@ -1305,14 +1313,6 @@
       "onboard_time": 1683691174,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1977028,
-      "num": 530554,
-      "word": "张卫健回应私生女传闻",
-      "onboard_time": 1684292370,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1972656,
@@ -2019,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1658865,
+      "num": 580832,
+      "word": "霍尊父亲称儿子结婚时间将近",
+      "onboard_time": 1684295134,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1656100,
       "num": 1656100,
       "word": "徐怀钰 贾静雯",
@@ -2633,14 +2641,6 @@
       "onboard_time": 1683635669,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1490449,
-      "num": 481685,
-      "word": "霍尊父亲称儿子结婚时间将近",
-      "onboard_time": 1684295134,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1485190,
@@ -3827,6 +3827,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1189256,
+      "num": 1189256,
+      "word": "刘亦菲和安妮海瑟薇合影",
+      "onboard_time": 1684294652,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1189133,
       "num": 746321,
       "word": "昆工虐猫",
@@ -4136,14 +4144,6 @@
       "word": "唐艺昕脚腕纹身",
       "onboard_time": 1684249174,
       "rank": 22,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1128346,
-      "num": 1128346,
-      "word": "刘亦菲和安妮海瑟薇合影",
-      "onboard_time": 1684294652,
-      "rank": 3,
       "category": "作品衍生"
     },
     {
@@ -5955,6 +5955,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 813748,
+      "num": 813748,
+      "word": "易烊千玺法国晚宴侧拍",
+      "onboard_time": 1684293393,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 810527,
       "num": 810527,
       "word": "中2574万彩票摊主转让摊位",
@@ -6361,14 +6369,6 @@
       "onboard_time": 1683426447,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 754772,
-      "num": 754772,
-      "word": "易烊千玺法国晚宴侧拍",
-      "onboard_time": 1684293393,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 754593,
@@ -6873,6 +6873,14 @@
       "onboard_time": 1682904570,
       "rank": 12,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 701817,
+      "num": 293521,
+      "word": "月薪7000但学不到东西要离职吗",
+      "onboard_time": 1684295672,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 701545,
@@ -7403,14 +7411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 646359,
-      "num": 293521,
-      "word": "月薪7000但学不到东西要离职吗",
-      "onboard_time": 1684295672,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 644941,
       "num": 644941,
       "word": "CBA总决赛",
@@ -7745,6 +7745,14 @@
       "onboard_time": 1683502408,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 615610,
+      "num": 615610,
+      "word": "格力官方回应孟羽童离职",
+      "onboard_time": 1684294832,
+      "rank": 14,
+      "category": "科技,艺人"
     },
     {
       "raw_hot": 614384,
@@ -8905,14 +8913,6 @@
       "onboard_time": 1683717145,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 541590,
-      "num": 473614,
-      "word": "格力官方回应孟羽童离职",
-      "onboard_time": 1684294832,
-      "rank": 14,
-      "category": "科技,艺人"
     },
     {
       "raw_hot": 541156,
@@ -12547,6 +12547,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 392715,
+      "num": 392715,
+      "word": "直播带货525万其中495万为刷单",
+      "onboard_time": 1684290928,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392588,
       "num": 222618,
       "word": "芝芙可爱",
@@ -14536,14 +14544,6 @@
       "word": "女子因琐事太多从体制内裸辞",
       "onboard_time": 1683549931,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 342980,
-      "num": 342980,
-      "word": "直播带货525万其中495万为刷单",
-      "onboard_time": 1684290928,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -19395,6 +19395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 258236,
+      "num": 258236,
+      "word": "蔡徐坤澳门演唱会定档",
+      "onboard_time": 1684294714,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 258183,
       "num": 215251,
       "word": "2023古偶仙侠元年",
@@ -20787,6 +20795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241461,
+      "num": 241461,
+      "word": "易烊千玺新歌同乘MV",
+      "onboard_time": 1684296874,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 241415,
       "num": 241415,
       "word": "乘风",
@@ -21867,6 +21883,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 229362,
+      "num": 229362,
+      "word": "王玉雯王子奇你给我的喜欢收官海报",
+      "onboard_time": 1684297536,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 229190,
       "num": 224927,
       "word": "洪世贤来助个兴",
@@ -21985,14 +22009,6 @@
       "onboard_time": 1683257732,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228142,
-      "num": 228142,
-      "word": "易烊千玺新歌同乘MV",
-      "onboard_time": 1684296874,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 228069,
@@ -22361,6 +22377,14 @@
       "onboard_time": 1684026085,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223797,
+      "num": 223797,
+      "word": "大学宿舍让多少人迷失自我",
+      "onboard_time": 1684294954,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 223744,
@@ -24281,14 +24305,6 @@
       "onboard_time": 1683701914,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204243,
-      "num": 204243,
-      "word": "大学宿舍让多少人迷失自我",
-      "onboard_time": 1684294954,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 204182,
@@ -26329,14 +26345,6 @@
       "onboard_time": 1683197847,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 185781,
-      "num": 185781,
-      "word": "蔡徐坤澳门演唱会定档",
-      "onboard_time": 1684294714,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 185740,
@@ -28467,6 +28475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165378,
+      "num": 165378,
+      "word": "塞尔达 人和马都陷入了沉默",
+      "onboard_time": 1684292010,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 165341,
       "num": 165341,
       "word": "周传雄演唱会",
@@ -28505,6 +28521,14 @@
       "onboard_time": 1684222229,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 164833,
+      "num": 164833,
+      "word": "因为穿凉拖鞋上班被辞退了",
+      "onboard_time": 1684294893,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 164795,
@@ -28635,6 +28659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 163615,
+      "num": 163615,
+      "word": "女子吐槽裙子比打底裤还短",
+      "onboard_time": 1684297656,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163577,
       "num": 163577,
       "word": "月薪三万你会不会裸辞",
@@ -28657,14 +28689,6 @@
       "onboard_time": 1684138350,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163456,
-      "num": 163456,
-      "word": "塞尔达 人和马都陷入了沉默",
-      "onboard_time": 1684292010,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 163452,
@@ -29915,6 +29939,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 150398,
+      "num": 150398,
+      "word": "文班亚马要去马刺了",
+      "onboard_time": 1684296815,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150347,
       "num": 164849,
       "word": "塞学家研究所",
@@ -30723,28 +30755,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140531,
-      "num": 140531,
-      "word": "因为穿凉拖鞋上班被辞退了",
-      "onboard_time": 1684294893,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 140448,
       "num": 140448,
       "word": "温暖的甜蜜的今日开播",
       "onboard_time": 1683083011,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 140294,
-      "num": 140294,
-      "word": "文班亚马要去马刺了",
-      "onboard_time": 1684296815,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 140264,
@@ -33923,6 +33939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76557,
+      "num": 1285530,
+      "word": "中国有约",
+      "onboard_time": 1684293571,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76377,
       "num": 76377,
       "word": "美赛",
@@ -34001,14 +34025,6 @@
       "onboard_time": 1683878608,
       "rank": 48,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 74570,
-      "num": 1285530,
-      "word": "中国有约",
-      "onboard_time": 1684293571,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73828,
