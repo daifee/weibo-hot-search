@@ -1,6 +1,6 @@
 {
   "startTime": 1684340516423,
-  "endTime": 1684341438342,
+  "endTime": 1684343678944,
   "band_list": [
     {
       "raw_hot": 2541497,
@@ -155,6 +155,14 @@
       "category": "社会新闻,作品衍生"
     },
     {
+      "raw_hot": 286377,
+      "num": 183428,
+      "word": "巴厘岛命案调查公布仍有疑点待解",
+      "onboard_time": 1684338990,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284138,
       "num": 260825,
       "word": "笑果被罚",
@@ -200,14 +208,6 @@
       "word": "脱口秀行业会凉凉吗",
       "onboard_time": 1684338808,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 218837,
-      "num": 177378,
-      "word": "巴厘岛命案调查公布仍有疑点待解",
-      "onboard_time": 1684338990,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -409,6 +409,22 @@
       "onboard_time": 1684340906,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 61318,
+      "num": 61318,
+      "word": "3岁女孩走失民警全城动员找父母",
+      "onboard_time": 1684342161,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56012,
+      "num": 56012,
+      "word": "house是谁",
+      "onboard_time": 1684332512,
+      "rank": 46,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 31147,
