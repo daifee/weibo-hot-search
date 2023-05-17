@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684316019252,
+  "endTime": 1684318716007,
   "band_list": [
     {
       "raw_hot": 9904433,
@@ -163,6 +163,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2463531,
+      "num": 2463531,
+      "word": "上海暂停笑果文化在沪全部演出",
+      "onboard_time": 1684315050,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2461167,
       "num": 2461167,
       "word": "韩国女性被献给美国大兵遭蹂躏数十年",
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 2386641,
-      "num": 444061,
+      "num": 561618,
       "word": "笑果和李昊石肆意篡改演出申报内容",
       "onboard_time": 1684307610,
       "rank": 31,
@@ -267,20 +275,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1931383,
+      "num": 577699,
+      "word": "张柏芝三胎儿子正脸",
+      "onboard_time": 1684315714,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1923600,
       "num": 601718,
       "word": "迪丽热巴未修原档生图",
       "onboard_time": 1684153047,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1866432,
-      "num": 1866432,
-      "word": "上海暂停笑果文化在沪全部演出",
-      "onboard_time": 1684315050,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1846343,
@@ -443,6 +451,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1558883,
+      "num": 570330,
+      "word": "今年出生的孩子 上学会非常宽松",
+      "onboard_time": 1684313312,
+      "rank": 10,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1545860,
       "num": 560341,
       "word": "陈楚河",
@@ -505,14 +521,6 @@
       "onboard_time": 1684232313,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1476278,
-      "num": 439888,
-      "word": "今年出生的孩子 上学会非常宽松",
-      "onboard_time": 1684313312,
-      "rank": 10,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1437724,
@@ -657,6 +665,14 @@
       "onboard_time": 1684216050,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1248990,
+      "num": 1248990,
+      "word": "刘亦菲Lisa撑伞神图",
+      "onboard_time": 1684307610,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1248034,
@@ -907,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 984006,
+      "num": 984006,
+      "word": "史某发布涉军人不当言论被行拘",
+      "onboard_time": 1684315772,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 972751,
       "num": 972751,
       "word": "男子花10万块买了8套房",
@@ -939,14 +963,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 950054,
-      "num": 950054,
-      "word": "刘亦菲Lisa撑伞神图",
-      "onboard_time": 1684307610,
-      "rank": 46,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 948303,
       "num": 544155,
       "word": "向佐现身夜店",
@@ -977,6 +993,14 @@
       "onboard_time": 1684141895,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 929270,
+      "num": 1859387,
+      "word": "研究生被诈骗洗脑民警苦劝2小时",
+      "onboard_time": 1684316430,
+      "rank": 1,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 926211,
@@ -1284,7 +1308,7 @@
     },
     {
       "raw_hot": 691581,
-      "num": 437025,
+      "num": 558010,
       "word": "霍尊想拉黑火风",
       "onboard_time": 1684312053,
       "rank": 32,
@@ -1537,6 +1561,14 @@
       "onboard_time": 1684236029,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 584651,
+      "num": 240402,
+      "word": "kid",
+      "onboard_time": 1684316067,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 580477,
@@ -1881,6 +1913,14 @@
       "onboard_time": 1684298197,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465103,
+      "num": 465103,
+      "word": "侯明昊谢谢你啊张婧仪",
+      "onboard_time": 1684315412,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 463575,
@@ -2241,6 +2281,14 @@
       "onboard_time": 1684125575,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 393501,
+      "num": 393501,
+      "word": "戛纳为巩俐清场",
+      "onboard_time": 1684316971,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 392715,
@@ -2667,14 +2715,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 326244,
-      "num": 326244,
-      "word": "侯明昊谢谢你啊张婧仪",
-      "onboard_time": 1684315412,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 324912,
       "num": 324912,
       "word": "辽宁男篮抛起杨鸣",
@@ -2769,14 +2809,6 @@
       "onboard_time": 1684151129,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 313137,
-      "num": 313137,
-      "word": "张柏芝三胎儿子正脸",
-      "onboard_time": 1684315714,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 312656,
@@ -2931,6 +2963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292218,
+      "num": 292218,
+      "word": "身边人二阳了我怎么办",
+      "onboard_time": 1684316492,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290686,
       "num": 290686,
       "word": "为什么有的人不接受单休",
@@ -2953,6 +2993,14 @@
       "onboard_time": 1684230090,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 289617,
+      "num": 1256375,
+      "word": "她带着奶奶29年的爱离世捐出遗体",
+      "onboard_time": 1684317033,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287758,
@@ -3328,6 +3376,14 @@
       "word": "奶奶踩倒梯子悬吊半空3岁娃扶正获亲亲",
       "onboard_time": 1684238609,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255711,
+      "num": 1245230,
+      "word": "汽车自燃10分钟内来了一群灭火侠",
+      "onboard_time": 1684317033,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -4017,14 +4073,6 @@
       "onboard_time": 1684300957,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 209075,
-      "num": 209075,
-      "word": "史某发布涉军人不当言论被行拘",
-      "onboard_time": 1684315772,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208952,

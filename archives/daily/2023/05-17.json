@@ -1,6 +1,6 @@
 {
   "startTime": 1684254143599,
-  "endTime": 1684316019252,
+  "endTime": 1684318716007,
   "band_list": [
     {
       "raw_hot": 9904433,
@@ -51,6 +51,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2463531,
+      "num": 2463531,
+      "word": "上海暂停笑果文化在沪全部演出",
+      "onboard_time": 1684315050,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2437902,
       "num": 2437902,
       "word": "house连续两场演出侮辱人民军队",
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 2386641,
-      "num": 444061,
+      "num": 561618,
       "word": "笑果和李昊石肆意篡改演出申报内容",
       "onboard_time": 1684307610,
       "rank": 31,
@@ -99,12 +107,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1866432,
-      "num": 1866432,
-      "word": "上海暂停笑果文化在沪全部演出",
-      "onboard_time": 1684315050,
-      "rank": 1,
-      "category": "社会新闻"
+      "raw_hot": 1931383,
+      "num": 577699,
+      "word": "张柏芝三胎儿子正脸",
+      "onboard_time": 1684315714,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 1816631,
@@ -163,8 +171,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1476278,
-      "num": 439888,
+      "raw_hot": 1558883,
+      "num": 570330,
       "word": "今年出生的孩子 上学会非常宽松",
       "onboard_time": 1684313312,
       "rank": 10,
@@ -201,6 +209,14 @@
       "onboard_time": 1684250615,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1248990,
+      "num": 1248990,
+      "word": "刘亦菲Lisa撑伞神图",
+      "onboard_time": 1684307610,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1244626,
@@ -307,12 +323,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 950054,
-      "num": 950054,
-      "word": "刘亦菲Lisa撑伞神图",
-      "onboard_time": 1684307610,
-      "rank": 46,
-      "category": "作品衍生,时尚"
+      "raw_hot": 984006,
+      "num": 984006,
+      "word": "史某发布涉军人不当言论被行拘",
+      "onboard_time": 1684315772,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 948303,
@@ -329,6 +345,14 @@
       "onboard_time": 1684303170,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 929270,
+      "num": 1859387,
+      "word": "研究生被诈骗洗脑民警苦劝2小时",
+      "onboard_time": 1684316430,
+      "rank": 1,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 894256,
@@ -412,7 +436,7 @@
     },
     {
       "raw_hot": 691581,
-      "num": 437025,
+      "num": 558010,
       "word": "霍尊想拉黑火风",
       "onboard_time": 1684312053,
       "rank": 32,
@@ -465,6 +489,14 @@
       "onboard_time": 1684290447,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 584651,
+      "num": 240402,
+      "word": "kid",
+      "onboard_time": 1684316067,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 580388,
@@ -595,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465103,
+      "num": 465103,
+      "word": "侯明昊谢谢你啊张婧仪",
+      "onboard_time": 1684315412,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 460193,
       "num": 460193,
       "word": "月初和月底发工资有什么区别",
@@ -689,6 +729,14 @@
       "onboard_time": 1684305812,
       "rank": 28,
       "category": "社会新闻,综艺"
+    },
+    {
+      "raw_hot": 393501,
+      "num": 393501,
+      "word": "戛纳为巩俐清场",
+      "onboard_time": 1684316971,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 392715,
@@ -811,14 +859,6 @@
       "category": "科技,旅游"
     },
     {
-      "raw_hot": 326244,
-      "num": 326244,
-      "word": "侯明昊谢谢你啊张婧仪",
-      "onboard_time": 1684315412,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 320535,
       "num": 320535,
       "word": "戛纳",
@@ -841,14 +881,6 @@
       "onboard_time": 1684249596,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 313137,
-      "num": 313137,
-      "word": "张柏芝三胎儿子正脸",
-      "onboard_time": 1684315714,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 312656,
@@ -907,12 +939,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292218,
+      "num": 292218,
+      "word": "身边人二阳了我怎么办",
+      "onboard_time": 1684316492,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290686,
       "num": 290686,
       "word": "为什么有的人不接受单休",
       "onboard_time": 1684281992,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 289617,
+      "num": 1256375,
+      "word": "她带着奶奶29年的爱离世捐出遗体",
+      "onboard_time": 1684317033,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287758,
@@ -1001,6 +1049,14 @@
       "onboard_time": 1684294714,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 255711,
+      "num": 1245230,
+      "word": "汽车自燃10分钟内来了一群灭火侠",
+      "onboard_time": 1684317033,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254927,
@@ -1137,14 +1193,6 @@
       "onboard_time": 1684300957,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 209075,
-      "num": 209075,
-      "word": "史某发布涉军人不当言论被行拘",
-      "onboard_time": 1684315772,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207152,
