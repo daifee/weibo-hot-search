@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684322043236,
+  "endTime": 1684323214803,
   "band_list": [
     {
       "raw_hot": 9904433,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 1931383,
-      "num": 715655,
+      "num": 741218,
       "word": "张柏芝三胎儿子正脸",
       "onboard_time": 1684315714,
       "rank": 22,
@@ -323,20 +323,20 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1791051,
+      "num": 781286,
+      "word": "今年出生的孩子 上学会非常宽松",
+      "onboard_time": 1684313312,
+      "rank": 10,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1766315,
       "num": 1365676,
       "word": "新版四大甜妹",
       "onboard_time": 1684149989,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1766167,
-      "num": 781286,
-      "word": "今年出生的孩子 上学会非常宽松",
-      "onboard_time": 1684313312,
-      "rank": 10,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1752320,
@@ -883,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1058393,
+      "num": 1058393,
+      "word": "戛纳为巩俐清场",
+      "onboard_time": 1684316971,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1057276,
       "num": 1057276,
       "word": "印尼警方通报中国游客巴厘岛遇害案",
@@ -1171,14 +1179,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 788588,
-      "num": 788588,
-      "word": "戛纳为巩俐清场",
-      "onboard_time": 1684316971,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 770435,
       "num": 770435,
       "word": "QQ音乐",
@@ -1459,8 +1459,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 631286,
-      "num": 631286,
+      "raw_hot": 635181,
+      "num": 635181,
       "word": "景元",
       "onboard_time": 1684319669,
       "rank": 14,
@@ -1788,7 +1788,7 @@
     },
     {
       "raw_hot": 495815,
-      "num": 334248,
+      "num": 353908,
       "word": "这不是TFBOYS你们别看错了好吗",
       "onboard_time": 1684320509,
       "rank": 20,
@@ -2091,6 +2091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 435427,
+      "num": 435427,
+      "word": "护心",
+      "onboard_time": 1684235251,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 432991,
       "num": 432991,
       "word": "怎么没有徐怀钰直拍",
@@ -2193,14 +2201,6 @@
       "onboard_time": 1684120291,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 415518,
-      "num": 415518,
-      "word": "护心",
-      "onboard_time": 1684235251,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 414183,
@@ -2587,6 +2587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 345608,
+      "num": 345608,
+      "word": "杨洋刘亦菲合照2015年VS2023年",
+      "onboard_time": 1684319374,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 343367,
       "num": 343367,
       "word": "福建农村的房子",
@@ -2889,14 +2897,6 @@
       "onboard_time": 1684155027,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 309715,
-      "num": 309715,
-      "word": "杨洋刘亦菲合照2015年VS2023年",
-      "onboard_time": 1684319374,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 308971,
@@ -3307,6 +3307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 266187,
+      "num": 266187,
+      "word": "文俊辉黑发造型",
+      "onboard_time": 1684322065,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 266004,
       "num": 258096,
       "word": "笑果官方演员名单中已无House",
@@ -3329,6 +3337,14 @@
       "onboard_time": 1684206087,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 262788,
+      "num": 262788,
+      "word": "张若昀左手拿汉堡右手牵唐艺昕",
+      "onboard_time": 1684321949,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 262252,
@@ -3497,6 +3513,14 @@
       "onboard_time": 1684318952,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251280,
+      "num": 251280,
+      "word": "简历不小心投到自己公司",
+      "onboard_time": 1684319909,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 251142,
@@ -4009,14 +4033,6 @@
       "onboard_time": 1684217308,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 214662,
-      "num": 214662,
-      "word": "简历不小心投到自己公司",
-      "onboard_time": 1684319909,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 214351,
@@ -4883,6 +4899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173474,
+      "num": 173474,
+      "word": "星穹铁道被氪爆了",
+      "onboard_time": 1684322786,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 173382,
       "num": 168673,
       "word": "秋瓷炫好招人心疼",
@@ -5201,14 +5225,6 @@
       "onboard_time": 1684219588,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 153393,
-      "num": 153393,
-      "word": "张若昀左手拿汉堡右手牵唐艺昕",
-      "onboard_time": 1684321949,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 153221,

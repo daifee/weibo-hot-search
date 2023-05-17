@@ -1,0 +1,410 @@
+{
+  "runTime": 1684323214803,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1711152,
+        "num": 1711152,
+        "word": "笑果停止全国线下演出",
+        "onboard_time": 1684305991,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 777449,
+        "num": 1140159,
+        "word": "研究生被诈骗洗脑民警苦劝2小时",
+        "onboard_time": 1684316430,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 37128,
+        "num": 1102693,
+        "word": "一张长图了解中国—中亚峰会",
+        "onboard_time": 1684312053,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1075131,
+        "num": 1075131,
+        "word": "刘亦菲Lisa撑伞神图",
+        "onboard_time": 1684307610,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 285622,
+        "num": 1063538,
+        "word": "她带着奶奶29年的爱离世捐出遗体",
+        "onboard_time": 1684317033,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1058393,
+        "num": 1058393,
+        "word": "戛纳为巩俐清场",
+        "onboard_time": 1684316971,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206808,
+        "num": 1041050,
+        "word": "汽车自燃10分钟内来了一群灭火侠",
+        "onboard_time": 1684317033,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1026834,
+        "num": 1026834,
+        "word": "笑果和李昊石肆意篡改演出申报内容",
+        "onboard_time": 1684307610,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 851475,
+        "num": 851475,
+        "word": "宋智孝被公司拖欠9亿工资",
+        "onboard_time": 1684313611,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 780976,
+        "num": 780976,
+        "word": "史某发布涉军人不当言论被行拘",
+        "onboard_time": 1684315772,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1791051,
+        "num": 774408,
+        "word": "今年出生的孩子 上学会非常宽松",
+        "onboard_time": 1684313312,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1281922,
+        "num": 741218,
+        "word": "张柏芝三胎儿子正脸",
+        "onboard_time": 1684315714,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1202559,
+        "num": 672853,
+        "word": "巴厘岛命案疑男子杀害女友后自杀",
+        "onboard_time": 1684309591,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 915458,
+        "num": 654854,
+        "word": "上海暂停笑果文化在沪全部演出",
+        "onboard_time": 1684315050,
+        "rank": 13,
+        "category": "社会新闻,作品衍生"
+      },
+      {
+        "raw_hot": 635181,
+        "num": 635181,
+        "word": "景元",
+        "onboard_time": 1684319669,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 522116,
+        "num": 522116,
+        "word": "四川一副镇长胁迫他人妻子发生关系",
+        "onboard_time": 1684308329,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 798570,
+        "num": 520504,
+        "word": "house连续两场演出侮辱人民军队",
+        "onboard_time": 1684303952,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 435427,
+        "num": 435427,
+        "word": "护心",
+        "onboard_time": 1684320509,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 362121,
+        "num": 362121,
+        "word": "二阳症状比较轻",
+        "onboard_time": 1684314271,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702408,
+        "num": 360080,
+        "word": "笑果被罚",
+        "onboard_time": 1684298498,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 492039,
+        "num": 353908,
+        "word": "这不是TFBOYS你们别看错了好吗",
+        "onboard_time": 1684320509,
+        "rank": 20,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 345608,
+        "num": 345608,
+        "word": "杨洋刘亦菲合照2015年VS2023年",
+        "onboard_time": 1684319374,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 488954,
+        "num": 317874,
+        "word": "童漠男",
+        "onboard_time": 1684303410,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277456,
+        "num": 277456,
+        "word": "侯明昊谢谢你啊张婧仪",
+        "onboard_time": 1684315412,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 266187,
+        "num": 266187,
+        "word": "文俊辉黑发造型",
+        "onboard_time": 1684322065,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 367952,
+        "num": 265104,
+        "word": "笑果在京所有演出活动无限期暂停",
+        "onboard_time": 1684298673,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 262788,
+        "num": 262788,
+        "word": "张若昀左手拿汉堡右手牵唐艺昕",
+        "onboard_time": 1684321949,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 251853,
+        "num": 251853,
+        "word": "朱一龙是枝裕和聊天",
+        "onboard_time": 1684318952,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357710,
+        "num": 251836,
+        "word": "笑果解除HOUSE合同",
+        "onboard_time": 1684301015,
+        "rank": 28,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 251280,
+        "num": 251280,
+        "word": "简历不小心投到自己公司",
+        "onboard_time": 1684319909,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239150,
+        "num": 239150,
+        "word": "印尼警方通报中国游客巴厘岛遇害案",
+        "onboard_time": 1684310370,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345265,
+        "num": 238852,
+        "word": "笑果被罚对脱口秀行业影响大吗",
+        "onboard_time": 1684311396,
+        "rank": 31,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 238184,
+        "num": 238184,
+        "word": "霍尊想拉黑火风",
+        "onboard_time": 1684312053,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232293,
+        "num": 232293,
+        "word": "印尼警方称巴厘岛命案不存在第三人",
+        "onboard_time": 1684310851,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340377,
+        "num": 228424,
+        "word": "kid",
+        "onboard_time": 1684316067,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222100,
+        "num": 222100,
+        "word": "知音漫客休刊",
+        "onboard_time": 1684311996,
+        "rank": 35,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 214992,
+        "num": 214992,
+        "word": "爱吃榴莲和包子的都沉默了",
+        "onboard_time": 1684319498,
+        "rank": 36,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 264481,
+        "num": 214320,
+        "word": "house",
+        "onboard_time": 1684299759,
+        "rank": 37,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 210600,
+        "num": 210600,
+        "word": "身边人二阳了我怎么办",
+        "onboard_time": 1684316492,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183721,
+        "num": 183721,
+        "word": "虞书欣白天鹅公主",
+        "onboard_time": 1684312714,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249259,
+        "num": 183364,
+        "word": "上海责令笑果深刻反省整改",
+        "onboard_time": 1684321590,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181801,
+        "num": 181801,
+        "word": "杨紫红裙高颅顶盘发造型",
+        "onboard_time": 1684313372,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176367,
+        "num": 176367,
+        "word": "巴厘岛",
+        "onboard_time": 1684309651,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175214,
+        "num": 175214,
+        "word": "街舞6拟邀队长",
+        "onboard_time": 1684311158,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173474,
+        "num": 173474,
+        "word": "星穹铁道被氪爆了",
+        "onboard_time": 1684322786,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166951,
+        "num": 166951,
+        "word": "夫妻20元刮刮乐中40万激动到尖叫",
+        "onboard_time": 1684307068,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163035,
+        "num": 163035,
+        "word": "脱口秀大会",
+        "onboard_time": 1684305812,
+        "rank": 46,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 156489,
+        "num": 156489,
+        "word": "韩国人有自己的Ella",
+        "onboard_time": 1684310428,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153593,
+        "num": 153593,
+        "word": "德善他爹 爸爸也是头一次当爸爸",
+        "onboard_time": 1684302811,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146416,
+        "num": 146416,
+        "word": "笑果被罚1335余万元",
+        "onboard_time": 1684298917,
+        "rank": 49,
+        "category": "社会新闻,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同谱写中国-中亚关系美好明天#"
+    }
+  }
+}
