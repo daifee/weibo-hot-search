@@ -1,0 +1,410 @@
+{
+  "runTime": 1684297209717,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1714112,
+        "num": 1714112,
+        "word": "李国庆向孟羽童道歉",
+        "onboard_time": 1684289789,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1628039,
+        "num": 1628039,
+        "word": "宋慧乔韩素希不合作了",
+        "onboard_time": 1684291530,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74570,
+        "num": 1285530,
+        "word": "中国有约",
+        "onboard_time": 1684293571,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1128346,
+        "num": 1128346,
+        "word": "刘亦菲和安妮海瑟薇合影",
+        "onboard_time": 1684294652,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1951512,
+        "num": 1119453,
+        "word": "北京警方通报一起校内学生伤人案",
+        "onboard_time": 1684294113,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1076551,
+        "num": 1076551,
+        "word": "南太铉涉嫌吸毒被逮捕",
+        "onboard_time": 1684293873,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 843759,
+        "num": 843759,
+        "word": "高中女生自发厕所内放卫生巾互助",
+        "onboard_time": 1684290867,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 754772,
+        "num": 754772,
+        "word": "易烊千玺法国晚宴侧拍",
+        "onboard_time": 1684293393,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 666676,
+        "num": 666676,
+        "word": "程十安去戛纳红毯了",
+        "onboard_time": 1684290028,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 485976,
+        "num": 485976,
+        "word": "普通人裸辞后的真实状态",
+        "onboard_time": 1684291049,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1977028,
+        "num": 484288,
+        "word": "张卫健回应私生女传闻",
+        "onboard_time": 1684292370,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1490449,
+        "num": 481685,
+        "word": "霍尊父亲称儿子结婚时间将近",
+        "onboard_time": 1684295134,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1030011,
+        "num": 480096,
+        "word": "张雨绮脖子上戴了朵花",
+        "onboard_time": 1684283914,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 723264,
+        "num": 476403,
+        "word": "Lisa刘亦菲赞达亚同框",
+        "onboard_time": 1684280726,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 541590,
+        "num": 473614,
+        "word": "格力官方回应孟羽童离职",
+        "onboard_time": 1684294832,
+        "rank": 14,
+        "category": "科技,艺人"
+      },
+      {
+        "raw_hot": 573075,
+        "num": 471188,
+        "word": "向佐现身夜店",
+        "onboard_time": 1684288652,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470934,
+        "num": 470934,
+        "word": "喜茶FENDI联名",
+        "onboard_time": 1684288652,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 382793,
+        "num": 382793,
+        "word": "戛纳 Kpop艺人",
+        "onboard_time": 1684295373,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342980,
+        "num": 342980,
+        "word": "直播带货525万其中495万为刷单",
+        "onboard_time": 1684290928,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299904,
+        "num": 299904,
+        "word": "掘金1比0湖人",
+        "onboard_time": 1684294714,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 875504,
+        "num": 298895,
+        "word": "中国商人在泰被刺20余刀身亡",
+        "onboard_time": 1684291530,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 764129,
+        "num": 295294,
+        "word": "我把公公的退休金搞没了",
+        "onboard_time": 1684291410,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 646359,
+        "num": 293521,
+        "word": "月薪7000但学不到东西要离职吗",
+        "onboard_time": 1684295672,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 336265,
+        "num": 291148,
+        "word": "蒋梦婕回应戛纳红毯造型",
+        "onboard_time": 1684290447,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307101,
+        "num": 289081,
+        "word": "提完离职后公司突然倒闭了",
+        "onboard_time": 1684292551,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 313400,
+        "num": 286197,
+        "word": "关晓彤戛纳",
+        "onboard_time": 1684256303,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285768,
+        "num": 285768,
+        "word": "李莎旻子说改名李莎抡子了",
+        "onboard_time": 1684295554,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285091,
+        "num": 285091,
+        "word": "温精灵道歉",
+        "onboard_time": 1684242336,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 240803,
+        "num": 240803,
+        "word": "王鹤棣在海上干嘛",
+        "onboard_time": 1684290991,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236952,
+        "num": 236952,
+        "word": "五旬男子将妻子奔驰车送小17岁情人",
+        "onboard_time": 1684292912,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228142,
+        "num": 228142,
+        "word": "易烊千玺新歌同乘MV",
+        "onboard_time": 1684296874,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215167,
+        "num": 215167,
+        "word": "Lisa在逃公主",
+        "onboard_time": 1684289071,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 210720,
+        "num": 210720,
+        "word": "孟羽童图文广告报价至少15万一条",
+        "onboard_time": 1684285115,
+        "rank": 32,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 207384,
+        "num": 207384,
+        "word": "湖人vs掘金",
+        "onboard_time": 1684285231,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206790,
+        "num": 206790,
+        "word": "小女孩用仅有的1元钱买食物送拾荒老人",
+        "onboard_time": 1684292309,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206456,
+        "num": 206456,
+        "word": "aespa跳了生命之树",
+        "onboard_time": 1684291711,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204931,
+        "num": 204931,
+        "word": "香港碎尸名媛蔡天凤丈夫发声",
+        "onboard_time": 1684250615,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204243,
+        "num": 204243,
+        "word": "大学宿舍让多少人迷失自我",
+        "onboard_time": 1684294954,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185781,
+        "num": 185781,
+        "word": "蔡徐坤澳门演唱会定档",
+        "onboard_time": 1684294714,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170589,
+        "num": 170589,
+        "word": "秦昊减肥法第3天差点把自己送走",
+        "onboard_time": 1684239452,
+        "rank": 39,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 170559,
+        "num": 170559,
+        "word": "五月天演唱会黄牛票价格跌近万元",
+        "onboard_time": 1684248275,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167989,
+        "num": 167989,
+        "word": "杨洋刘亦菲威尼斯同框",
+        "onboard_time": 1684284755,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 163456,
+        "num": 163456,
+        "word": "塞尔达 人和马都陷入了沉默",
+        "onboard_time": 1684292010,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159476,
+        "num": 159476,
+        "word": "第一甲第一名状元卷有多强大",
+        "onboard_time": 1684259835,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150600,
+        "num": 150600,
+        "word": "唐艺昕脚腕纹身",
+        "onboard_time": 1684249174,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140531,
+        "num": 140531,
+        "word": "因为穿凉拖鞋上班被辞退了",
+        "onboard_time": 1684294893,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140294,
+        "num": 140294,
+        "word": "文班亚马要去马刺了",
+        "onboard_time": 1684296815,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133638,
+        "num": 133638,
+        "word": "病人被医生遗忘在磁共振舱近三小时",
+        "onboard_time": 1684245813,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132699,
+        "num": 132699,
+        "word": "Deft女警回城逆风前行",
+        "onboard_time": 1684283431,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125276,
+        "num": 125276,
+        "word": "两少年路遇摔倒老人一路护送回家",
+        "onboard_time": 1684296995,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#关注2023中国中亚五国峰会#"
+    }
+  }
+}
