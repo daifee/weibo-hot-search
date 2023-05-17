@@ -1,6 +1,6 @@
 {
   "startTime": 1684340516423,
-  "endTime": 1684358074815,
+  "endTime": 1684359204879,
   "band_list": [
     {
       "raw_hot": 2541497,
@@ -419,8 +419,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 64583,
-      "num": 64583,
+      "raw_hot": 65873,
+      "num": 65873,
       "word": "西安",
       "onboard_time": 1684353792,
       "rank": 8,
@@ -451,12 +451,20 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 47432,
-      "num": 47432,
+      "raw_hot": 47885,
+      "num": 47885,
       "word": "劳塔罗破门",
       "onboard_time": 1684357032,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44541,
+      "num": 44541,
+      "word": "孩子被迫成为家里的精神支柱",
+      "onboard_time": 1684354151,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 37609,
@@ -465,6 +473,14 @@
       "onboard_time": 1684345276,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32796,
+      "num": 28725,
+      "word": "house",
+      "onboard_time": 1684299759,
+      "rank": 37,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 31333,
@@ -491,24 +507,8 @@
       "category": "社会新闻,作品衍生"
     },
     {
-      "raw_hot": 27056,
-      "num": 27056,
-      "word": "孩子被迫成为家里的精神支柱",
-      "onboard_time": 1684354151,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 26687,
-      "num": 24590,
-      "word": "house",
-      "onboard_time": 1684299759,
-      "rank": 37,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 18314,
-      "num": 18314,
+      "raw_hot": 19184,
+      "num": 20204,
       "word": "吉娜说数数看Amber抡了多少圈",
       "onboard_time": 1684354871,
       "rank": 43,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 17537,
-      "num": 17537,
+      "num": 20193,
       "word": "绞肉机打出来的牛肉丸子",
       "onboard_time": 1684351693,
       "rank": 49,

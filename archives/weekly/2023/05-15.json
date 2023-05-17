@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684358074815,
+  "endTime": 1684359204879,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -6643,19 +6643,19 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 65873,
+      "num": 65873,
+      "word": "西安",
+      "onboard_time": 1684353792,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65587,
       "num": 252782,
       "word": "什么能影响消费者的购车决策",
       "onboard_time": 1684115245,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 64583,
-      "num": 64583,
-      "word": "西安",
-      "onboard_time": 1684353792,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -6763,12 +6763,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 47432,
-      "num": 47432,
+      "raw_hot": 47885,
+      "num": 47885,
       "word": "劳塔罗破门",
       "onboard_time": 1684357032,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44541,
+      "num": 44541,
+      "word": "孩子被迫成为家里的精神支柱",
+      "onboard_time": 1684354151,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 43171,
@@ -6835,14 +6843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27056,
-      "num": 27056,
-      "word": "孩子被迫成为家里的精神支柱",
-      "onboard_time": 1684354151,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 26169,
       "num": 26169,
       "word": "喝牛奶的角色",
@@ -6883,8 +6883,8 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 18314,
-      "num": 18314,
+      "raw_hot": 19184,
+      "num": 20204,
       "word": "吉娜说数数看Amber抡了多少圈",
       "onboard_time": 1684354871,
       "rank": 43,
@@ -6892,7 +6892,7 @@
     },
     {
       "raw_hot": 17537,
-      "num": 17537,
+      "num": 20193,
       "word": "绞肉机打出来的牛肉丸子",
       "onboard_time": 1684351693,
       "rank": 49,
