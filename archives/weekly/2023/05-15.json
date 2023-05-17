@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684305249761,
+  "endTime": 1684307742199,
   "band_list": [
     {
       "raw_hot": 9904433,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2702213,
+      "num": 2702213,
+      "word": "童漠男",
+      "onboard_time": 1684303410,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2669259,
       "num": 556523,
       "word": "颜九要求温精灵公开道歉",
@@ -155,12 +163,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2437902,
+      "num": 2437902,
+      "word": "house连续两场演出侮辱人民军队",
+      "onboard_time": 1684303952,
+      "rank": 16,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 2401627,
       "num": 2401627,
       "word": "宋慧乔韩素希不合作了",
       "onboard_time": 1684291530,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2386641,
+      "num": 238880,
+      "word": "笑果和李昊石肆意篡改演出申报内容",
+      "onboard_time": 1684307610,
+      "rank": 31,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2332331,
@@ -241,14 +265,6 @@
       "onboard_time": 1684153047,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1913646,
-      "num": 1913646,
-      "word": "童漠男",
-      "onboard_time": 1684303410,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 1846343,
@@ -395,14 +411,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1554989,
-      "num": 457682,
-      "word": "house连续两场演出侮辱人民军队",
-      "onboard_time": 1684303952,
-      "rank": 16,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 1545860,
       "num": 560341,
       "word": "陈楚河",
@@ -496,6 +504,14 @@
       "word": "house道歉",
       "onboard_time": 1684133668,
       "rank": 4,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1382950,
+      "num": 350686,
+      "word": "笑果停止全国线下演出",
+      "onboard_time": 1684305991,
+      "rank": 10,
       "category": "社会新闻,艺人"
     },
     {
@@ -819,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 996062,
+      "num": 996062,
+      "word": "德善他爹 爸爸也是头一次当爸爸",
+      "onboard_time": 1684302811,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 994373,
       "num": 928307,
       "word": "程十安去戛纳红毯了",
@@ -883,20 +907,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 939897,
+      "num": 813671,
+      "word": "终于有宫斗剧要上了",
+      "onboard_time": 1684303170,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 938118,
       "num": 938118,
       "word": "gidle新歌Queencard",
       "onboard_time": 1684141895,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 930441,
-      "num": 930441,
-      "word": "德善他爹 爸爸也是头一次当爸爸",
-      "onboard_time": 1684302811,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 926211,
@@ -1025,14 +1049,6 @@
       "onboard_time": 1684293393,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 813671,
-      "num": 813671,
-      "word": "终于有宫斗剧要上了",
-      "onboard_time": 1684303170,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 810527,
@@ -1627,6 +1643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 493379,
+      "num": 305705,
+      "word": "杨紫最近风格",
+      "onboard_time": 1684306111,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 491073,
       "num": 491073,
       "word": "难听",
@@ -2147,6 +2171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 383644,
+      "num": 276509,
+      "word": "脱口秀大会",
+      "onboard_time": 1684305812,
+      "rank": 28,
+      "category": "社会新闻,综艺"
+    },
+    {
       "raw_hot": 382793,
       "num": 382793,
       "word": "戛纳 Kpop艺人",
@@ -2280,6 +2312,14 @@
       "word": "WBG官宣主教练",
       "onboard_time": 1684214430,
       "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 353840,
+      "num": 353840,
+      "word": "仙剑单机制作组 解散",
+      "onboard_time": 1684306111,
+      "rank": 9,
       "category": "游戏"
     },
     {
@@ -2436,7 +2476,7 @@
     },
     {
       "raw_hot": 328539,
-      "num": 261914,
+      "num": 276878,
       "word": "向佐回应夜店照片",
       "onboard_time": 1684303535,
       "rank": 32,
@@ -2641,6 +2681,14 @@
       "onboard_time": 1684280247,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 303489,
+      "num": 303489,
+      "word": "夫妻20元刮刮乐中40万激动到尖叫",
+      "onboard_time": 1684307068,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302690,
@@ -3281,6 +3329,14 @@
       "onboard_time": 1684296874,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 240377,
+      "num": 240377,
+      "word": "韩素希对于合作泡汤并不知情",
+      "onboard_time": 1684307490,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 240109,
@@ -4195,6 +4251,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 182577,
+      "num": 182577,
+      "word": "巩俐气场",
+      "onboard_time": 1684306652,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182479,
       "num": 182479,
       "word": "这种验榴莲的方式还是头一次见",
@@ -4249,6 +4313,14 @@
       "onboard_time": 1684160491,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 180507,
+      "num": 180507,
+      "word": "芝芙不会亚洲蹲",
+      "onboard_time": 1684306351,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 180489,
@@ -4763,6 +4835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153384,
+      "num": 153384,
+      "word": "刘亦菲Lisa撑伞神图",
+      "onboard_time": 1684307610,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 153221,
       "num": 153221,
       "word": "NBA选秀抽签",
@@ -4881,6 +4961,14 @@
       "onboard_time": 1684107745,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148249,
+      "num": 148249,
+      "word": "屋顶着火出圈宋茜懵圈",
+      "onboard_time": 1684307729,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 147683,
@@ -5601,6 +5689,14 @@
       "onboard_time": 1684224210,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 100693,
+      "num": 145938,
+      "word": "第五人格",
+      "onboard_time": 1684307068,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 96915,

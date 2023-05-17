@@ -1,0 +1,410 @@
+{
+  "runTime": 1684307742199,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3613975,
+        "num": 3613975,
+        "word": "笑果被罚",
+        "onboard_time": 1684298498,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 2702213,
+        "num": 2702213,
+        "word": "童漠男",
+        "onboard_time": 1684303410,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62293,
+        "num": 2446879,
+        "word": "中国有约",
+        "onboard_time": 1684293571,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2437902,
+        "num": 2437902,
+        "word": "house连续两场演出侮辱人民军队",
+        "onboard_time": 1684303952,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 996062,
+        "num": 996062,
+        "word": "德善他爹 爸爸也是头一次当爸爸",
+        "onboard_time": 1684302811,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 919493,
+        "num": 919493,
+        "word": "格力官方回应孟羽童离职",
+        "onboard_time": 1684294832,
+        "rank": 5,
+        "category": "科技,艺人"
+      },
+      {
+        "raw_hot": 787712,
+        "num": 787712,
+        "word": "刘亦菲和安妮海瑟薇合影",
+        "onboard_time": 1684294652,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 495680,
+        "num": 495680,
+        "word": "宋慧乔韩素希不合作了",
+        "onboard_time": 1684291530,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 362156,
+        "num": 362156,
+        "word": "海底捞回应女子拍不雅视频",
+        "onboard_time": 1684298197,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353840,
+        "num": 353840,
+        "word": "仙剑单机制作组 解散",
+        "onboard_time": 1684306111,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1382950,
+        "num": 350686,
+        "word": "笑果停止全国线下演出",
+        "onboard_time": 1684305991,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 770300,
+        "num": 349406,
+        "word": "霍尊父亲称儿子结婚时间将近",
+        "onboard_time": 1684295134,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 675646,
+        "num": 344991,
+        "word": "上海顶级豪宅中一套暴赚千万",
+        "onboard_time": 1684300058,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1308004,
+        "num": 342764,
+        "word": "笑果解除HOUSE合同",
+        "onboard_time": 1684301015,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 405309,
+        "num": 338042,
+        "word": "张卫健回应私生女传闻",
+        "onboard_time": 1684292370,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336306,
+        "num": 336306,
+        "word": "程十安去戛纳红毯了",
+        "onboard_time": 1684290028,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1228747,
+        "num": 329684,
+        "word": "李诞",
+        "onboard_time": 1684301494,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 307779,
+        "num": 307779,
+        "word": "高中女生自发厕所内放卫生巾互助",
+        "onboard_time": 1684290867,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 939897,
+        "num": 307638,
+        "word": "终于有宫斗剧要上了",
+        "onboard_time": 1684303170,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1038804,
+        "num": 306729,
+        "word": "笑果在京所有演出活动无限期暂停",
+        "onboard_time": 1684298673,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 493379,
+        "num": 305705,
+        "word": "杨紫最近风格",
+        "onboard_time": 1684306111,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 377251,
+        "num": 305158,
+        "word": "我把公公的退休金搞没了",
+        "onboard_time": 1684291410,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 520280,
+        "num": 304690,
+        "word": "house",
+        "onboard_time": 1684299759,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 344843,
+        "num": 304134,
+        "word": "月薪7000但学不到东西要离职吗",
+        "onboard_time": 1684295672,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 303489,
+        "num": 303489,
+        "word": "夫妻20元刮刮乐中40万激动到尖叫",
+        "onboard_time": 1684307068,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470800,
+        "num": 301001,
+        "word": "笑果被罚1335余万元",
+        "onboard_time": 1684298917,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 295508,
+        "num": 295508,
+        "word": "白鹿给助理打伞",
+        "onboard_time": 1684301793,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276878,
+        "num": 276878,
+        "word": "向佐回应夜店照片",
+        "onboard_time": 1684303535,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383644,
+        "num": 276509,
+        "word": "脱口秀大会",
+        "onboard_time": 1684305812,
+        "rank": 28,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 264281,
+        "num": 264281,
+        "word": "卖崽青蛙设计者是位宝妈",
+        "onboard_time": 1684298074,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240377,
+        "num": 240377,
+        "word": "韩素希对于合作泡汤并不知情",
+        "onboard_time": 1684307490,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2386641,
+        "num": 238880,
+        "word": "笑果和李昊石肆意篡改演出申报内容",
+        "onboard_time": 1684307610,
+        "rank": 31,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 233464,
+        "num": 233464,
+        "word": "喜茶FENDI联名",
+        "onboard_time": 1684288652,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 220016,
+        "num": 220016,
+        "word": "南太铉涉嫌吸毒被逮捕",
+        "onboard_time": 1684293873,
+        "rank": 33,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 252394,
+        "num": 217632,
+        "word": "笑果回应处罚",
+        "onboard_time": 1684301913,
+        "rank": 34,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 192749,
+        "num": 192749,
+        "word": "向佐现身夜店",
+        "onboard_time": 1684288652,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184016,
+        "num": 184016,
+        "word": "Lisa刘亦菲赞达亚同框",
+        "onboard_time": 1684280726,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 182577,
+        "num": 182577,
+        "word": "巩俐气场",
+        "onboard_time": 1684306652,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180507,
+        "num": 180507,
+        "word": "芝芙不会亚洲蹲",
+        "onboard_time": 1684306351,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178704,
+        "num": 178704,
+        "word": "女子吐槽裙子比打底裤还短",
+        "onboard_time": 1684297656,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169042,
+        "num": 169042,
+        "word": "孟羽童接私活收入需要分给格力吗",
+        "onboard_time": 1684298137,
+        "rank": 40,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 167413,
+        "num": 167413,
+        "word": "李国庆向孟羽童道歉",
+        "onboard_time": 1684289789,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 162794,
+        "num": 162794,
+        "word": "张杰演唱会门票",
+        "onboard_time": 1684298315,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159864,
+        "num": 159864,
+        "word": "易烊千玺法国晚宴侧拍",
+        "onboard_time": 1684293393,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157220,
+        "num": 157220,
+        "word": "张雨绮脖子上戴了朵花",
+        "onboard_time": 1684283914,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155136,
+        "num": 155136,
+        "word": "AI不能替你坐牢",
+        "onboard_time": 1684300834,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 153384,
+        "num": 153384,
+        "word": "刘亦菲Lisa撑伞神图",
+        "onboard_time": 1684307610,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 148249,
+        "num": 148249,
+        "word": "屋顶着火出圈宋茜懵圈",
+        "onboard_time": 1684307729,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146072,
+        "num": 146072,
+        "word": "喜欢你我也是",
+        "onboard_time": 1684304671,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100693,
+        "num": 145938,
+        "word": "第五人格",
+        "onboard_time": 1684307068,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#关注2023中国中亚五国峰会#"
+    }
+  }
+}

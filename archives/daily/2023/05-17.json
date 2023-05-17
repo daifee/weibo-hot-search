@@ -1,6 +1,6 @@
 {
   "startTime": 1684254143599,
-  "endTime": 1684305249761,
+  "endTime": 1684307742199,
   "band_list": [
     {
       "raw_hot": 9904433,
@@ -27,11 +27,27 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2702213,
+      "num": 2702213,
+      "word": "童漠男",
+      "onboard_time": 1684303410,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2603588,
       "num": 2603588,
       "word": "笑果被罚1335余万元",
       "onboard_time": 1684298917,
       "rank": 3,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2437902,
+      "num": 2437902,
+      "word": "house连续两场演出侮辱人民军队",
+      "onboard_time": 1684303952,
+      "rank": 16,
       "category": "社会新闻,艺人"
     },
     {
@@ -41,6 +57,14 @@
       "onboard_time": 1684291530,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2386641,
+      "num": 238880,
+      "word": "笑果和李昊石肆意篡改演出申报内容",
+      "onboard_time": 1684307610,
+      "rank": 31,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2332331,
@@ -65,14 +89,6 @@
       "onboard_time": 1684294113,
       "rank": 12,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1913646,
-      "num": 1913646,
-      "word": "童漠男",
-      "onboard_time": 1684303410,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 1816631,
@@ -115,20 +131,20 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1554989,
-      "num": 457682,
-      "word": "house连续两场演出侮辱人民军队",
-      "onboard_time": 1684303952,
-      "rank": 16,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 1437724,
       "num": 1437724,
       "word": "王一博赵丽颖 二搭",
       "onboard_time": 1684286370,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1382950,
+      "num": 350686,
+      "word": "笑果停止全国线下演出",
+      "onboard_time": 1684305991,
+      "rank": 10,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1372668,
@@ -227,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 996062,
+      "num": 996062,
+      "word": "德善他爹 爸爸也是头一次当爸爸",
+      "onboard_time": 1684302811,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 994373,
       "num": 928307,
       "word": "程十安去戛纳红毯了",
@@ -243,11 +267,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 930441,
-      "num": 930441,
-      "word": "德善他爹 爸爸也是头一次当爸爸",
-      "onboard_time": 1684302811,
-      "rank": 7,
+      "raw_hot": 939897,
+      "num": 813671,
+      "word": "终于有宫斗剧要上了",
+      "onboard_time": 1684303170,
+      "rank": 14,
       "category": "影视"
     },
     {
@@ -289,14 +313,6 @@
       "onboard_time": 1684293393,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 813671,
-      "num": 813671,
-      "word": "终于有宫斗剧要上了",
-      "onboard_time": 1684303170,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 804899,
@@ -435,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 493379,
+      "num": 305705,
+      "word": "杨紫最近风格",
+      "onboard_time": 1684306111,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 473270,
       "num": 473270,
       "word": "一艘中国籍远洋渔船在印度洋中部海域倾覆",
@@ -571,6 +595,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 383644,
+      "num": 276509,
+      "word": "脱口秀大会",
+      "onboard_time": 1684305812,
+      "rank": 28,
+      "category": "社会新闻,综艺"
+    },
+    {
       "raw_hot": 382793,
       "num": 382793,
       "word": "戛纳 Kpop艺人",
@@ -587,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353840,
+      "num": 353840,
+      "word": "仙剑单机制作组 解散",
+      "onboard_time": 1684306111,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 353453,
       "num": 353453,
       "word": "第一甲第一名状元卷有多强大",
@@ -596,7 +636,7 @@
     },
     {
       "raw_hot": 328539,
-      "num": 261914,
+      "num": 276878,
       "word": "向佐回应夜店照片",
       "onboard_time": 1684303535,
       "rank": 32,
@@ -649,6 +689,14 @@
       "onboard_time": 1684280247,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 303489,
+      "num": 303489,
+      "word": "夫妻20元刮刮乐中40万激动到尖叫",
+      "onboard_time": 1684307068,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299904,
@@ -811,6 +859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 240377,
+      "num": 240377,
+      "word": "韩素希对于合作泡汤并不知情",
+      "onboard_time": 1684307490,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 237595,
       "num": 109904,
       "word": "朱一龙亮相戛纳红毯",
@@ -955,12 +1011,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 182577,
+      "num": 182577,
+      "word": "巩俐气场",
+      "onboard_time": 1684306652,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 181986,
       "num": 181986,
       "word": "银河护卫队3片尾大合照",
       "onboard_time": 1684289071,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180507,
+      "num": 180507,
+      "word": "芝芙不会亚洲蹲",
+      "onboard_time": 1684306351,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 180489,
@@ -1059,6 +1131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 153384,
+      "num": 153384,
+      "word": "刘亦菲Lisa撑伞神图",
+      "onboard_time": 1684307610,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 153221,
       "num": 153221,
       "word": "NBA选秀抽签",
@@ -1112,6 +1192,14 @@
       "word": "hanni新闻图",
       "onboard_time": 1684240350,
       "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 148249,
+      "num": 148249,
+      "word": "屋顶着火出圈宋茜懵圈",
+      "onboard_time": 1684307729,
+      "rank": 47,
       "category": "作品衍生"
     },
     {
@@ -1311,6 +1399,14 @@
       "num": 100760,
       "word": "G2对战BLG",
       "onboard_time": 1684242272,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 100693,
+      "num": 145938,
+      "word": "第五人格",
+      "onboard_time": 1684307068,
       "rank": 49,
       "category": "游戏"
     },
