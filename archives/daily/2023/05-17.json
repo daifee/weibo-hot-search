@@ -1,10 +1,10 @@
 {
   "startTime": 1684254143599,
-  "endTime": 1684300543527,
+  "endTime": 1684301621860,
   "band_list": [
     {
-      "raw_hot": 9106328,
-      "num": 9106328,
+      "raw_hot": 9904433,
+      "num": 9904433,
       "word": "笑果被罚",
       "onboard_time": 1684298498,
       "rank": 0,
@@ -16,6 +16,14 @@
       "word": "笑果在京所有演出活动无限期暂停",
       "onboard_time": 1684298673,
       "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2911577,
+      "num": 2911577,
+      "word": "笑果解除HOUSE合同",
+      "onboard_time": 1684301015,
+      "rank": 3,
       "category": "社会新闻,艺人"
     },
     {
@@ -99,6 +107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1372668,
+      "num": 1372668,
+      "word": "house",
+      "onboard_time": 1684299759,
+      "rank": 5,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1292451,
       "num": 1292451,
       "word": "格力官方回应孟羽童离职",
@@ -113,14 +129,6 @@
       "onboard_time": 1684250615,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1244899,
-      "num": 1244899,
-      "word": "house",
-      "onboard_time": 1684299759,
-      "rank": 5,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1201558,
@@ -339,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 537038,
+      "num": 696308,
+      "word": "微信 原神",
+      "onboard_time": 1684299638,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 518231,
       "num": 518231,
       "word": "马刺抽中状元签",
@@ -363,8 +379,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 473540,
-      "num": 473540,
+      "raw_hot": 496165,
+      "num": 496165,
       "word": "卖崽青蛙设计者是位宝妈",
       "onboard_time": 1684298074,
       "rank": 23,
@@ -417,6 +433,14 @@
       "onboard_time": 1684298315,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 447285,
+      "num": 447285,
+      "word": "上海顶级豪宅中一套暴赚千万",
+      "onboard_time": 1684300058,
+      "rank": 41,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 427260,
@@ -507,12 +531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 363862,
-      "num": 696308,
-      "word": "微信 原神",
-      "onboard_time": 1684299638,
-      "rank": 14,
-      "category": "游戏"
+      "raw_hot": 364826,
+      "num": 364826,
+      "word": "李诞",
+      "onboard_time": 1684301494,
+      "rank": 28,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 353453,
@@ -521,6 +545,14 @@
       "onboard_time": 1684259835,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327328,
+      "num": 776036,
+      "word": "迪士尼和小米官宣了",
+      "onboard_time": 1684298560,
+      "rank": 11,
+      "category": "科技,旅游"
     },
     {
       "raw_hot": 320535,
@@ -771,12 +803,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207770,
-      "num": 776036,
-      "word": "迪士尼和小米官宣了",
-      "onboard_time": 1684298560,
-      "rank": 11,
-      "category": "科技,旅游"
+      "raw_hot": 209452,
+      "num": 209452,
+      "word": "朱一龙新预告连说8遍她想杀我",
+      "onboard_time": 1684300957,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 206273,
@@ -849,14 +881,6 @@
       "onboard_time": 1684243899,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 184687,
-      "num": 184687,
-      "word": "上海顶级豪宅中一套暴赚千万",
-      "onboard_time": 1684300058,
-      "rank": 41,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 181986,
@@ -947,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160411,
+      "num": 160411,
+      "word": "莫言说余华根本不是我的对手",
+      "onboard_time": 1684300957,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154980,
       "num": 129444,
       "word": "倪妮GUCCI",
@@ -1033,6 +1065,14 @@
       "onboard_time": 1684288048,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 141323,
+      "num": 141323,
+      "word": "AI不能替你坐牢",
+      "onboard_time": 1684300834,
+      "rank": 46,
+      "category": "科技"
     },
     {
       "raw_hot": 137868,
@@ -1204,7 +1244,7 @@
     },
     {
       "raw_hot": 76557,
-      "num": 2940968,
+      "num": 2986839,
       "word": "中国有约",
       "onboard_time": 1684293571,
       "rank": 2,
