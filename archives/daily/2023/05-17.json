@@ -1,6 +1,6 @@
 {
   "startTime": 1684254143599,
-  "endTime": 1684334002912,
+  "endTime": 1684336659610,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -147,6 +147,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1794096,
+      "num": 1794096,
+      "word": "48岁交警被拖行700余米牺牲",
+      "onboard_time": 1684329994,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1791051,
       "num": 781286,
       "word": "今年出生的孩子 上学会非常宽松",
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1218570,
+      "num": 1218570,
+      "word": "韩流真的来了吗",
+      "onboard_time": 1684335391,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1201558,
       "num": 1201558,
       "word": "因为臭脸躲过了一次抢劫",
@@ -297,14 +313,6 @@
       "onboard_time": 1684290867,
       "rank": 47,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1146221,
-      "num": 1146221,
-      "word": "48岁交警被拖行700余米牺牲",
-      "onboard_time": 1684329994,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1139373,
@@ -571,6 +579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 639417,
+      "num": 639417,
+      "word": "马嘉祺 声生不息总决赛",
+      "onboard_time": 1684334012,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 635181,
       "num": 635181,
       "word": "景元",
@@ -625,6 +641,14 @@
       "onboard_time": 1684239452,
       "rank": 5,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 576986,
+      "num": 576986,
+      "word": "周也直播",
+      "onboard_time": 1684334432,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 556660,
@@ -803,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 450049,
+      "num": 450049,
+      "word": "流浪猫用最后一口气跑宠物医院求助",
+      "onboard_time": 1684333958,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447815,
       "num": 447815,
       "word": "张杰演唱会门票",
@@ -947,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 386519,
+      "num": 386519,
+      "word": "笑果承认存在侥幸心理",
+      "onboard_time": 1684336112,
+      "rank": 23,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 385707,
       "num": 385707,
       "word": "程十安澄清",
@@ -968,6 +1008,14 @@
       "word": "戛纳 Kpop艺人",
       "onboard_time": 1684295373,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 380009,
+      "num": 380009,
+      "word": "坏妈妈",
+      "onboard_time": 1684335391,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -1001,6 +1049,14 @@
       "onboard_time": 1684259835,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352904,
+      "num": 352904,
+      "word": "侯明昊直播连麦周也",
+      "onboard_time": 1684335514,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 350773,
@@ -1259,6 +1315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 271628,
+      "num": 271628,
+      "word": "速度与激情11",
+      "onboard_time": 1684334074,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 269860,
       "num": 1333911,
       "word": "汽车自燃10分钟内来了一群灭火侠",
@@ -1289,6 +1353,14 @@
       "onboard_time": 1684244736,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 265675,
+      "num": 265675,
+      "word": "曼城vs皇马",
+      "onboard_time": 1684312232,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 264587,
@@ -1377,6 +1449,14 @@
       "onboard_time": 1684329813,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 244353,
+      "num": 244353,
+      "word": "文俊辉直播",
+      "onboard_time": 1684335754,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 243000,
@@ -1691,14 +1771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178972,
-      "num": 178972,
-      "word": "流浪猫用最后一口气跑宠物医院求助",
-      "onboard_time": 1684333958,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177555,
       "num": 177555,
       "word": "孙俪瑜伽第一次自主起来了",
@@ -1737,14 +1809,6 @@
       "onboard_time": 1684157374,
       "rank": 32,
       "category": "网红"
-    },
-    {
-      "raw_hot": 171792,
-      "num": 171792,
-      "word": "曼城vs皇马",
-      "onboard_time": 1684312232,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 165911,
