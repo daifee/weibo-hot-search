@@ -1,6 +1,6 @@
 {
   "startTime": 1684340516423,
-  "endTime": 1684340516423,
+  "endTime": 1684341438342,
   "band_list": [
     {
       "raw_hot": 2541497,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 915253,
-      "num": 915253,
+      "raw_hot": 1020784,
+      "num": 1020784,
       "word": "笑果承认存在侥幸心理",
       "onboard_time": 1684336112,
       "rank": 5,
@@ -83,8 +83,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 430490,
-      "num": 430490,
+      "raw_hot": 435302,
+      "num": 435302,
       "word": "过了二十岁血脉就开始觉醒了",
       "onboard_time": 1684330413,
       "rank": 8,
@@ -195,11 +195,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228695,
+      "raw_hot": 231748,
       "num": 228695,
       "word": "脱口秀行业会凉凉吗",
       "onboard_time": 1684338808,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218837,
+      "num": 177378,
+      "word": "巴厘岛命案调查公布仍有疑点待解",
+      "onboard_time": 1684338990,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -208,14 +216,6 @@
       "word": "史某发布涉军人不当言论被行拘",
       "onboard_time": 1684315772,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204380,
-      "num": 177378,
-      "word": "巴厘岛命案调查公布仍有疑点待解",
-      "onboard_time": 1684338990,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -393,6 +393,22 @@
       "onboard_time": 1684328131,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 84744,
+      "num": 84744,
+      "word": "文俊辉直播",
+      "onboard_time": 1684335754,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 83088,
+      "num": 83088,
+      "word": "你的找到了 我的又丢了",
+      "onboard_time": 1684340906,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 31147,
