@@ -1,6 +1,6 @@
 {
   "startTime": 1684340516423,
-  "endTime": 1684365382395,
+  "endTime": 1684366416932,
   "band_list": [
     {
       "raw_hot": 2541497,
@@ -19,20 +19,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1622978,
+      "num": 1622978,
+      "word": "笑果承认存在侥幸心理",
+      "onboard_time": 1684336112,
+      "rank": 5,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1571367,
       "num": 1571367,
       "word": "48岁交警被拖行700余米牺牲",
       "onboard_time": 1684329994,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1471617,
-      "num": 1471617,
-      "word": "笑果承认存在侥幸心理",
-      "onboard_time": 1684336112,
-      "rank": 5,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1107175,
@@ -57,6 +57,14 @@
       "onboard_time": 1684321949,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 581353,
+      "num": 176558,
+      "word": "巴西男子性侵未成年女儿遭妻子勒死",
+      "onboard_time": 1684364902,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 514437,
@@ -91,6 +99,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 457382,
+      "num": 457382,
+      "word": "戛纳",
+      "onboard_time": 1684365562,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 441331,
+      "num": 319097,
+      "word": "今年出生的孩子 上学会非常宽松",
+      "onboard_time": 1684313312,
+      "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 435302,
       "num": 435302,
       "word": "过了二十岁血脉就开始觉醒了",
@@ -107,12 +131,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 368426,
-      "num": 319097,
-      "word": "今年出生的孩子 上学会非常宽松",
-      "onboard_time": 1684313312,
+      "raw_hot": 359435,
+      "num": 359435,
+      "word": "曼城4比0皇马",
+      "onboard_time": 1684365203,
       "rank": 14,
-      "category": "社会新闻,教育"
+      "category": "体育"
     },
     {
       "raw_hot": 354911,
@@ -121,6 +145,22 @@
       "onboard_time": 1684336355,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 347139,
+      "num": 179648,
+      "word": "女子帮闺蜜调解家庭矛盾出轨其丈夫",
+      "onboard_time": 1684364780,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345414,
+      "num": 198872,
+      "word": "泰迪绝育3年仍跑宠物店门口叫嚣",
+      "onboard_time": 1684362617,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344022,
@@ -195,14 +235,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 241629,
-      "num": 198872,
-      "word": "泰迪绝育3年仍跑宠物店门口叫嚣",
-      "onboard_time": 1684362617,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238051,
       "num": 238051,
       "word": "情绪稳定 就是烦死了",
@@ -227,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212081,
+      "num": 178040,
+      "word": "霍尊否认结婚时间将近",
+      "onboard_time": 1684365983,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205632,
       "num": 205632,
       "word": "史某发布涉军人不当言论被行拘",
@@ -235,20 +275,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 197649,
-      "num": 197649,
-      "word": "曼城4比0皇马",
-      "onboard_time": 1684365203,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 188886,
       "num": 188886,
       "word": "这不是TFBOYS你们别看错了好吗",
       "onboard_time": 1684320509,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 186488,
+      "num": 127467,
+      "word": "保洁阿姨偷师10年成版画家",
+      "onboard_time": 1684364659,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186134,
@@ -299,14 +339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 160418,
-      "num": 160418,
-      "word": "女子帮闺蜜调解家庭矛盾出轨其丈夫",
-      "onboard_time": 1684364780,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148530,
       "num": 148530,
       "word": "武汉音乐节",
@@ -323,20 +355,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 147611,
-      "num": 88707,
-      "word": "巴西男子性侵未成年女儿遭妻子勒死",
-      "onboard_time": 1684364902,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146399,
       "num": 146399,
       "word": "二阳症状比较轻",
       "onboard_time": 1684314271,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144675,
+      "num": 144675,
+      "word": "建不建议一毕业就进体制",
+      "onboard_time": 1684366406,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 141614,
+      "num": 141614,
+      "word": "萌兰小时候差点没把亲妈啃掉色",
+      "onboard_time": 1684364719,
+      "rank": 37,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 139830,
@@ -403,6 +443,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 104715,
+      "num": 104715,
+      "word": "西安",
+      "onboard_time": 1684353792,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104449,
       "num": 104449,
       "word": "文俊辉教朴综星中文",
@@ -419,12 +467,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 101098,
-      "num": 88381,
-      "word": "保洁阿姨偷师10年成版画家",
-      "onboard_time": 1684364659,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 100391,
+      "num": 100391,
+      "word": "95生一番男主剧豆瓣评分",
+      "onboard_time": 1684362016,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 99525,
+      "num": 99525,
+      "word": "提升夏天幸福感的18件小事",
+      "onboard_time": 1684365983,
+      "rank": 35,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 99340,
@@ -451,20 +507,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 88743,
-      "num": 88743,
-      "word": "西安",
-      "onboard_time": 1684353792,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87279,
       "num": 87279,
       "word": "曼城晋级欧冠决赛",
       "onboard_time": 1684364962,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85751,
+      "num": 85751,
+      "word": "浪姐矿工大赛",
+      "onboard_time": 1684345337,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 84747,
+      "num": 84747,
+      "word": "江豚宝宝为了跃出江面有多努力",
+      "onboard_time": 1684345276,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84744,
@@ -475,6 +539,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84126,
+      "num": 84126,
+      "word": "从业者称脱口秀行业需要沉淀",
+      "onboard_time": 1684366406,
+      "rank": 42,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 83716,
+      "num": 83340,
+      "word": "易烊千玺戛纳生图",
+      "onboard_time": 1684366406,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 83088,
       "num": 83088,
       "word": "你的找到了 我的又丢了",
@@ -483,36 +563,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 81802,
-      "num": 81802,
-      "word": "江豚宝宝为了跃出江面有多努力",
-      "onboard_time": 1684345276,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78005,
-      "num": 78005,
-      "word": "95生一番男主剧豆瓣评分",
-      "onboard_time": 1684362016,
-      "rank": 33,
+      "raw_hot": 82758,
+      "num": 82758,
+      "word": "周也侯明昊好嗑",
+      "onboard_time": 1684366221,
+      "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 71327,
-      "num": 71327,
-      "word": "浪姐矿工大赛",
-      "onboard_time": 1684345337,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 70146,
-      "num": 70146,
-      "word": "萌兰小时候差点没把亲妈啃掉色",
-      "onboard_time": 1684364719,
-      "rank": 37,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 69974,
@@ -555,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 49549,
+      "num": 82441,
+      "word": "绞肉机打出来的牛肉丸子",
+      "onboard_time": 1684351693,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 47885,
       "num": 47885,
       "word": "劳塔罗破门",
@@ -563,20 +627,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39695,
+      "num": 1596130,
+      "word": "北斗为梦想导航",
+      "onboard_time": 1684327828,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 38591,
       "num": 38591,
       "word": "吉娜说数数看Amber抡了多少圈",
       "onboard_time": 1684354871,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 36389,
-      "num": 53403,
-      "word": "绞肉机打出来的牛肉丸子",
-      "onboard_time": 1684351693,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 34155,
@@ -593,14 +657,6 @@
       "onboard_time": 1684345337,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31168,
-      "num": 1596130,
-      "word": "北斗为梦想导航",
-      "onboard_time": 1684327828,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 30425,

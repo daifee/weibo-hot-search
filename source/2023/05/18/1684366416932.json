@@ -1,0 +1,410 @@
+{
+  "runTime": 1684366416932,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1622978,
+        "num": 1622978,
+        "word": "笑果承认存在侥幸心理",
+        "onboard_time": 1684336112,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1192717,
+        "num": 1192717,
+        "word": "韩流真的来了吗",
+        "onboard_time": 1684335391,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39695,
+        "num": 1003934,
+        "word": "北斗为梦想导航",
+        "onboard_time": 1684327828,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 905213,
+        "num": 905213,
+        "word": "男子被女友怀疑出轨竟从12楼跳下",
+        "onboard_time": 1684336829,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 872622,
+        "num": 872622,
+        "word": "48岁交警被拖行700余米牺牲",
+        "onboard_time": 1684329994,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469881,
+        "num": 469881,
+        "word": "house录音",
+        "onboard_time": 1684331915,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 457382,
+        "num": 457382,
+        "word": "戛纳",
+        "onboard_time": 1684365562,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368374,
+        "num": 368374,
+        "word": "过了二十岁血脉就开始觉醒了",
+        "onboard_time": 1684330413,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 359435,
+        "num": 359435,
+        "word": "曼城4比0皇马",
+        "onboard_time": 1684365203,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181533,
+        "num": 181533,
+        "word": "史某发布涉军人不当言论被行拘",
+        "onboard_time": 1684315772,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441331,
+        "num": 181449,
+        "word": "今年出生的孩子 上学会非常宽松",
+        "onboard_time": 1684313312,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 380015,
+        "num": 180912,
+        "word": "house被警方立案调查",
+        "onboard_time": 1684327348,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 359993,
+        "num": 180114,
+        "word": "张若昀左手拿汉堡右手牵唐艺昕",
+        "onboard_time": 1684321949,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 347139,
+        "num": 179648,
+        "word": "女子帮闺蜜调解家庭矛盾出轨其丈夫",
+        "onboard_time": 1684364780,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345414,
+        "num": 178698,
+        "word": "泰迪绝育3年仍跑宠物店门口叫嚣",
+        "onboard_time": 1684362617,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274475,
+        "num": 178274,
+        "word": "笑果和李昊石肆意篡改演出申报内容",
+        "onboard_time": 1684307610,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 212081,
+        "num": 178040,
+        "word": "霍尊否认结婚时间将近",
+        "onboard_time": 1684365983,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211344,
+        "num": 177372,
+        "word": "曼城vs皇马",
+        "onboard_time": 1684336355,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 581353,
+        "num": 176558,
+        "word": "巴西男子性侵未成年女儿遭妻子勒死",
+        "onboard_time": 1684364902,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234262,
+        "num": 176131,
+        "word": "中演协要求对house进行从业抵制",
+        "onboard_time": 1684323988,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 269875,
+        "num": 175694,
+        "word": "最近四川人的手指甲都是黄的",
+        "onboard_time": 1684338750,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212117,
+        "num": 174806,
+        "word": "巴厘岛命案调查公布仍有疑点待解",
+        "onboard_time": 1684338990,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174604,
+        "num": 174604,
+        "word": "韩素希说宋慧乔还是我的",
+        "onboard_time": 1684331793,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160127,
+        "num": 160127,
+        "word": "杨紫大波浪怼脸拍",
+        "onboard_time": 1684329756,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154431,
+        "num": 154431,
+        "word": "张柏芝三胎儿子正脸",
+        "onboard_time": 1684315714,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150062,
+        "num": 150062,
+        "word": "孩子被迫成为家里的精神支柱",
+        "onboard_time": 1684354151,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144859,
+        "num": 144859,
+        "word": "脱口秀行业会凉凉吗",
+        "onboard_time": 1684338808,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144675,
+        "num": 144675,
+        "word": "建不建议一毕业就进体制",
+        "onboard_time": 1684366406,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 141614,
+        "num": 141614,
+        "word": "萌兰小时候差点没把亲妈啃掉色",
+        "onboard_time": 1684364719,
+        "rank": 28,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 135707,
+        "num": 135707,
+        "word": "二阳症状比较轻",
+        "onboard_time": 1684314271,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186488,
+        "num": 127467,
+        "word": "保洁阿姨偷师10年成版画家",
+        "onboard_time": 1684364659,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118016,
+        "num": 118016,
+        "word": "马嘉祺 声生不息总决赛",
+        "onboard_time": 1684334012,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106339,
+        "num": 106339,
+        "word": "周柯宇今晚鲨疯了",
+        "onboard_time": 1684337130,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 104715,
+        "num": 104715,
+        "word": "西安",
+        "onboard_time": 1684353792,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100391,
+        "num": 100391,
+        "word": "95生一番男主剧豆瓣评分",
+        "onboard_time": 1684362016,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99525,
+        "num": 99525,
+        "word": "提升夏天幸福感的18件小事",
+        "onboard_time": 1684365983,
+        "rank": 35,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 96042,
+        "num": 96042,
+        "word": "方灿道歉",
+        "onboard_time": 1684324829,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95212,
+        "num": 95212,
+        "word": "笑果被罚",
+        "onboard_time": 1684298498,
+        "rank": 37,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 90900,
+        "num": 90900,
+        "word": "泫雅说会来武汉音乐节",
+        "onboard_time": 1684331374,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 85751,
+        "num": 85751,
+        "word": "浪姐矿工大赛",
+        "onboard_time": 1684345337,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91658,
+        "num": 85415,
+        "word": "上海暂停笑果文化在沪全部演出",
+        "onboard_time": 1684315050,
+        "rank": 40,
+        "category": "社会新闻,作品衍生"
+      },
+      {
+        "raw_hot": 84747,
+        "num": 84747,
+        "word": "江豚宝宝为了跃出江面有多努力",
+        "onboard_time": 1684345276,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84126,
+        "num": 84126,
+        "word": "从业者称脱口秀行业需要沉淀",
+        "onboard_time": 1684366406,
+        "rank": 42,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 83469,
+        "num": 83469,
+        "word": "曼城晋级欧冠决赛",
+        "onboard_time": 1684364962,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83716,
+        "num": 83340,
+        "word": "易烊千玺戛纳生图",
+        "onboard_time": 1684366406,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 82758,
+        "num": 82758,
+        "word": "周也侯明昊好嗑",
+        "onboard_time": 1684366221,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 82707,
+        "num": 82707,
+        "word": "3岁女孩走失民警全城动员找父母",
+        "onboard_time": 1684342161,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59765,
+        "num": 82597,
+        "word": "清清 挂牌",
+        "onboard_time": 1684331672,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 49549,
+        "num": 82441,
+        "word": "绞肉机打出来的牛肉丸子",
+        "onboard_time": 1684351693,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 46743,
+        "num": 81977,
+        "word": "AG挂牌8人",
+        "onboard_time": 1684327828,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同托卡耶夫会谈#"
+    }
+  }
+}

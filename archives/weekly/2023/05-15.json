@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684365382395,
+  "endTime": 1684366416932,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -467,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1622978,
+      "num": 1622978,
+      "word": "笑果承认存在侥幸心理",
+      "onboard_time": 1684336112,
+      "rank": 23,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1606902,
       "num": 1606902,
       "word": "宋智孝被公司拖欠9亿工资",
@@ -561,14 +569,6 @@
       "onboard_time": 1684232313,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1471617,
-      "num": 1471617,
-      "word": "笑果承认存在侥幸心理",
-      "onboard_time": 1684336112,
-      "rank": 23,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1463938,
@@ -1715,6 +1715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 581353,
+      "num": 176558,
+      "word": "巴西男子性侵未成年女儿遭妻子勒死",
+      "onboard_time": 1684364902,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 580477,
       "num": 580477,
       "word": "收到110元现金外卖小哥果断报警",
@@ -2129,6 +2137,14 @@
       "onboard_time": 1684235490,
       "rank": 33,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 457382,
+      "num": 457382,
+      "word": "戛纳",
+      "onboard_time": 1684119388,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 457176,
@@ -2715,6 +2731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 359435,
+      "num": 359435,
+      "word": "曼城4比0皇马",
+      "onboard_time": 1684365203,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 358497,
       "num": 358497,
       "word": "宁安如梦",
@@ -2811,6 +2835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 347139,
+      "num": 179648,
+      "word": "女子帮闺蜜调解家庭矛盾出轨其丈夫",
+      "onboard_time": 1684364780,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346630,
       "num": 346630,
       "word": "成毅直播",
@@ -2825,6 +2857,14 @@
       "onboard_time": 1684319374,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 345414,
+      "num": 198872,
+      "word": "泰迪绝育3年仍跑宠物店门口叫嚣",
+      "onboard_time": 1684362617,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 343367,
@@ -3033,14 +3073,6 @@
       "onboard_time": 1684212394,
       "rank": 23,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 320535,
-      "num": 320535,
-      "word": "戛纳",
-      "onboard_time": 1684119388,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 320490,
@@ -3947,14 +3979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 241629,
-      "num": 198872,
-      "word": "泰迪绝育3年仍跑宠物店门口叫嚣",
-      "onboard_time": 1684362617,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241461,
       "num": 241461,
       "word": "易烊千玺新歌同乘MV",
@@ -4419,6 +4443,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 212081,
+      "num": 178040,
+      "word": "霍尊否认结婚时间将近",
+      "onboard_time": 1684365983,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211321,
       "num": 211321,
       "word": "宋茜好像洋娃娃",
@@ -4675,14 +4707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 197649,
-      "num": 197649,
-      "word": "曼城4比0皇马",
-      "onboard_time": 1684365203,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 196789,
       "num": 221941,
       "word": "秦昊减肥法",
@@ -4929,6 +4953,14 @@
       "onboard_time": 1684288110,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 186488,
+      "num": 127467,
+      "word": "保洁阿姨偷师10年成版画家",
+      "onboard_time": 1684364659,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186134,
@@ -5515,14 +5547,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 160418,
-      "num": 160418,
-      "word": "女子帮闺蜜调解家庭矛盾出轨其丈夫",
-      "onboard_time": 1684364780,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159063,
       "num": 159063,
       "word": "华表奖两届一起颁",
@@ -5763,14 +5787,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 147611,
-      "num": 88707,
-      "word": "巴西男子性侵未成年女儿遭妻子勒死",
-      "onboard_time": 1684364902,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147369,
       "num": 147369,
       "word": "穿青蛙服的老奶奶",
@@ -5843,6 +5859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144675,
+      "num": 144675,
+      "word": "建不建议一毕业就进体制",
+      "onboard_time": 1684366406,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 144574,
       "num": 144574,
       "word": "薛之谦演唱会蹲台上听歌迷清唱",
@@ -5905,6 +5929,14 @@
       "onboard_time": 1684288048,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 141614,
+      "num": 141614,
+      "word": "萌兰小时候差点没把亲妈啃掉色",
+      "onboard_time": 1684364719,
+      "rank": 37,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 141360,
@@ -6435,6 +6467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104715,
+      "num": 104715,
+      "word": "西安",
+      "onboard_time": 1684353792,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104544,
       "num": 104544,
       "word": "如何看待职场人接私活",
@@ -6475,20 +6515,28 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 101098,
-      "num": 88381,
-      "word": "保洁阿姨偷师10年成版画家",
-      "onboard_time": 1684364659,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 100693,
       "num": 147810,
       "word": "第五人格",
       "onboard_time": 1684307068,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 100391,
+      "num": 100391,
+      "word": "95生一番男主剧豆瓣评分",
+      "onboard_time": 1684362016,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 99525,
+      "num": 99525,
+      "word": "提升夏天幸福感的18件小事",
+      "onboard_time": 1684365983,
+      "rank": 35,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 99340,
@@ -6563,14 +6611,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 88743,
-      "num": 88743,
-      "word": "西安",
-      "onboard_time": 1684353792,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87337,
       "num": 87337,
       "word": "办公室除了我们都是贵又脆弱的东西",
@@ -6595,12 +6635,44 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 85751,
+      "num": 85751,
+      "word": "浪姐矿工大赛",
+      "onboard_time": 1684345337,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 84747,
+      "num": 84747,
+      "word": "江豚宝宝为了跃出江面有多努力",
+      "onboard_time": 1684345276,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84586,
       "num": 270031,
       "word": "免疫力是越高越好吗",
       "onboard_time": 1684119928,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84126,
+      "num": 84126,
+      "word": "从业者称脱口秀行业需要沉淀",
+      "onboard_time": 1684366406,
+      "rank": 42,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 83716,
+      "num": 83340,
+      "word": "易烊千玺戛纳生图",
+      "onboard_time": 1684366406,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 83482,
@@ -6627,20 +6699,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 82758,
+      "num": 82758,
+      "word": "周也侯明昊好嗑",
+      "onboard_time": 1684366221,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 82312,
       "num": 121449,
       "word": "Hero东方挂牌",
       "onboard_time": 1684150950,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 81802,
-      "num": 81802,
-      "word": "江豚宝宝为了跃出江面有多努力",
-      "onboard_time": 1684345276,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 81656,
@@ -6657,14 +6729,6 @@
       "onboard_time": 1684253489,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 78005,
-      "num": 78005,
-      "word": "95生一番男主剧豆瓣评分",
-      "onboard_time": 1684362016,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 77635,
@@ -6705,22 +6769,6 @@
       "onboard_time": 1684262894,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71327,
-      "num": 71327,
-      "word": "浪姐矿工大赛",
-      "onboard_time": 1684345337,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 70146,
-      "num": 70146,
-      "word": "萌兰小时候差点没把亲妈啃掉色",
-      "onboard_time": 1684364719,
-      "rank": 37,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 69974,
@@ -6851,6 +6899,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 49549,
+      "num": 82441,
+      "word": "绞肉机打出来的牛肉丸子",
+      "onboard_time": 1684351693,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 48967,
       "num": 61937,
       "word": "浪姐精神",
@@ -6905,14 +6961,6 @@
       "onboard_time": 1684354871,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 36389,
-      "num": 53403,
-      "word": "绞肉机打出来的牛肉丸子",
-      "onboard_time": 1684351693,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 35368,
