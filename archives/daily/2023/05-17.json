@@ -1,6 +1,6 @@
 {
   "startTime": 1684254143599,
-  "endTime": 1684288185458,
+  "endTime": 1684290893560,
   "band_list": [
     {
       "raw_hot": 2021463,
@@ -67,20 +67,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1106607,
+      "num": 1106607,
+      "word": "张雨绮脖子上戴了朵花",
+      "onboard_time": 1684283914,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1082299,
+      "num": 554686,
+      "word": "在中国月入5000元是什么水平",
+      "onboard_time": 1684284214,
+      "rank": 17,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 948303,
+      "num": 473165,
+      "word": "向佐现身夜店",
+      "onboard_time": 1684288652,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 894256,
       "num": 894256,
       "word": "戛纳红毯",
       "onboard_time": 1684256481,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 893787,
-      "num": 554686,
-      "word": "在中国月入5000元是什么水平",
-      "onboard_time": 1684284214,
-      "rank": 17,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 883222,
@@ -123,12 +139,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 727798,
-      "num": 727798,
-      "word": "张雨绮脖子上戴了朵花",
-      "onboard_time": 1684283914,
-      "rank": 12,
-      "category": "影视"
+      "raw_hot": 705326,
+      "num": 472998,
+      "word": "李国庆向孟羽童道歉",
+      "onboard_time": 1684289789,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 677063,
+      "num": 677063,
+      "word": "喜茶FENDI联名",
+      "onboard_time": 1684288652,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 651526,
@@ -179,6 +203,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 473270,
+      "num": 473270,
+      "word": "一艘中国籍远洋渔船在印度洋中部海域倾覆",
+      "onboard_time": 1684288351,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 472584,
+      "num": 472584,
+      "word": "程十安去戛纳红毯了",
+      "onboard_time": 1684290028,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 460193,
       "num": 460193,
       "word": "月初和月底发工资有什么区别",
@@ -201,6 +241,14 @@
       "onboard_time": 1684235070,
       "rank": 12,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 416188,
+      "num": 416188,
+      "word": "笑果文化估值超40亿元",
+      "onboard_time": 1684287330,
+      "rank": 32,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 414183,
@@ -241,6 +289,14 @@
       "onboard_time": 1684276397,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 362133,
+      "num": 362133,
+      "word": "Lisa在逃公主",
+      "onboard_time": 1684289071,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 353453,
@@ -363,6 +419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 258541,
+      "num": 258541,
+      "word": "蒋梦婕回应戛纳红毯造型",
+      "onboard_time": 1684290447,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 258427,
       "num": 258427,
       "word": "主人误以为金毛把小鸡吃了",
@@ -379,20 +443,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253552,
+      "num": 253552,
+      "word": "演唱会实名制是好事吗",
+      "onboard_time": 1684287269,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 237595,
       "num": 109904,
       "word": "朱一龙亮相戛纳红毯",
       "onboard_time": 1684256123,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 236883,
-      "num": 236883,
-      "word": "演唱会实名制是好事吗",
-      "onboard_time": 1684287269,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 236661,
@@ -419,11 +483,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 208575,
-      "num": 208575,
-      "word": "笑果文化估值超40亿元",
-      "onboard_time": 1684287330,
-      "rank": 32,
+      "raw_hot": 206273,
+      "num": 206273,
+      "word": "孟羽童曾说主业总裁秘书副业博主",
+      "onboard_time": 1684287509,
+      "rank": 33,
       "category": "社会新闻,艺人"
     },
     {
@@ -441,14 +505,6 @@
       "onboard_time": 1684226851,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202681,
-      "num": 202681,
-      "word": "孟羽童曾说主业总裁秘书副业博主",
-      "onboard_time": 1684287509,
-      "rank": 33,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 202469,
@@ -483,12 +539,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186702,
+      "num": 186702,
+      "word": "朋友中最罕见的姓氏是什么",
+      "onboard_time": 1684288110,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186185,
       "num": 130429,
       "word": "Angelababy红毯生图状态",
       "onboard_time": 1684243899,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 181956,
+      "num": 181956,
+      "word": "银河护卫队3片尾大合照",
+      "onboard_time": 1684289071,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 180424,
@@ -603,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142345,
+      "num": 142345,
+      "word": "学长拿奶茶到军训场炫耀遭围攻",
+      "onboard_time": 1684288048,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 137868,
       "num": 120133,
       "word": "战损是男人最好的嫁妆",
@@ -627,14 +707,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 129746,
-      "num": 129746,
-      "word": "朋友中最罕见的姓氏是什么",
-      "onboard_time": 1684288110,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 128518,
       "num": 128518,
       "word": "女童睡过站急哭司机安抚送回家",
@@ -648,6 +720,14 @@
       "word": "男子偷偷用打火机点燃女子的裙边",
       "onboard_time": 1684246297,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121041,
+      "num": 121041,
+      "word": "地铁站内爷爷奶奶默契牵手前行",
+      "onboard_time": 1684288710,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -691,12 +771,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 115404,
-      "num": 115404,
-      "word": "学长拿奶茶到军训场炫耀遭围攻",
-      "onboard_time": 1684288048,
-      "rank": 47,
-      "category": "社会新闻,教育"
+      "raw_hot": 116250,
+      "num": 116250,
+      "word": "这会计真的非学不可吗",
+      "onboard_time": 1684290328,
+      "rank": 46,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 114253,
@@ -705,6 +785,14 @@
       "onboard_time": 1684249174,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 108799,
+      "num": 108799,
+      "word": "高中女生自发厕所内放卫生巾互助",
+      "onboard_time": 1684290867,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 106582,

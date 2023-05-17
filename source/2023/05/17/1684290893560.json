@@ -1,0 +1,410 @@
+{
+  "runTime": 1684290893560,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1348296,
+        "num": 1348296,
+        "word": "Lisa刘亦菲赞达亚同框",
+        "onboard_time": 1684280726,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1106607,
+        "num": 1106607,
+        "word": "张雨绮脖子上戴了朵花",
+        "onboard_time": 1684283914,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17658,
+        "num": 801375,
+        "word": "经济运行延续恢复向好态势",
+        "onboard_time": 1684224210,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 718898,
+        "num": 718898,
+        "word": "孟羽童图文广告报价至少15万一条",
+        "onboard_time": 1684285115,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 717441,
+        "num": 717441,
+        "word": "五月天演唱会黄牛票价格跌近万元",
+        "onboard_time": 1684248275,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 677063,
+        "num": 677063,
+        "word": "喜茶FENDI联名",
+        "onboard_time": 1684288652,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 646052,
+        "num": 646052,
+        "word": "关晓彤戛纳",
+        "onboard_time": 1684256303,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 608608,
+        "num": 608608,
+        "word": "温精灵道歉",
+        "onboard_time": 1684242336,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 582207,
+        "num": 582207,
+        "word": "病人被医生遗忘在磁共振舱近三小时",
+        "onboard_time": 1684245813,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473270,
+        "num": 473270,
+        "word": "一艘中国籍远洋渔船在印度洋中部海域倾覆",
+        "onboard_time": 1684288351,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 948303,
+        "num": 473165,
+        "word": "向佐现身夜店",
+        "onboard_time": 1684288652,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 705326,
+        "num": 472998,
+        "word": "李国庆向孟羽童道歉",
+        "onboard_time": 1684289789,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 518731,
+        "num": 472925,
+        "word": "王冕",
+        "onboard_time": 1684280366,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 472584,
+        "num": 472584,
+        "word": "程十安去戛纳红毯了",
+        "onboard_time": 1684290028,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 417340,
+        "num": 417340,
+        "word": "杨洋刘亦菲威尼斯同框",
+        "onboard_time": 1684284755,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 416188,
+        "num": 416188,
+        "word": "笑果文化估值超40亿元",
+        "onboard_time": 1684287330,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 404139,
+        "num": 404139,
+        "word": "因为臭脸躲过了一次抢劫",
+        "onboard_time": 1684241013,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 382364,
+        "num": 382364,
+        "word": "唐艺昕脚腕纹身",
+        "onboard_time": 1684249174,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 362133,
+        "num": 362133,
+        "word": "Lisa在逃公主",
+        "onboard_time": 1684289071,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 359291,
+        "num": 359291,
+        "word": "秦昊减肥法第3天差点把自己送走",
+        "onboard_time": 1684239452,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 367026,
+        "num": 358070,
+        "word": "香港碎尸名媛蔡天凤丈夫发声",
+        "onboard_time": 1684250615,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335403,
+        "num": 335403,
+        "word": "第一甲第一名状元卷有多强大",
+        "onboard_time": 1684259835,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309309,
+        "num": 309309,
+        "word": "湖人vs掘金",
+        "onboard_time": 1684285231,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275059,
+        "num": 275059,
+        "word": "苗苗称与郑恺住的房子是租的",
+        "onboard_time": 1684240592,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258541,
+        "num": 258541,
+        "word": "蒋梦婕回应戛纳红毯造型",
+        "onboard_time": 1684290447,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253552,
+        "num": 253552,
+        "word": "演唱会实名制是好事吗",
+        "onboard_time": 1684287269,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257893,
+        "num": 253226,
+        "word": "戛纳红毯的中国明星生图",
+        "onboard_time": 1684284632,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250804,
+        "num": 250804,
+        "word": "刘亦菲仙品侧颜",
+        "onboard_time": 1684279103,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 206273,
+        "num": 206273,
+        "word": "孟羽童曾说主业总裁秘书副业博主",
+        "onboard_time": 1684287509,
+        "rank": 28,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 189281,
+        "num": 189281,
+        "word": "吴刚夸赵露思是特别有天赋的演员",
+        "onboard_time": 1684286551,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186702,
+        "num": 186702,
+        "word": "朋友中最罕见的姓氏是什么",
+        "onboard_time": 1684288110,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182181,
+        "num": 182181,
+        "word": "马刺抽中状元签",
+        "onboard_time": 1684283734,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181956,
+        "num": 181956,
+        "word": "银河护卫队3片尾大合照",
+        "onboard_time": 1684289071,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166910,
+        "num": 166910,
+        "word": "主人误以为金毛把小鸡吃了",
+        "onboard_time": 1684278141,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157333,
+        "num": 157333,
+        "word": "地铁上最让人反感的行为",
+        "onboard_time": 1684281267,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157239,
+        "num": 157239,
+        "word": "Deft女警回城逆风前行",
+        "onboard_time": 1684283431,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151145,
+        "num": 151145,
+        "word": "张若昀唐艺昕好嗑",
+        "onboard_time": 1684280247,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143893,
+        "num": 143893,
+        "word": "戛纳红毯还得看女明星",
+        "onboard_time": 1684251272,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142345,
+        "num": 142345,
+        "word": "学长拿奶茶到军训场炫耀遭围攻",
+        "onboard_time": 1684288048,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 135338,
+        "num": 135338,
+        "word": "张歆艺太瘦了",
+        "onboard_time": 1684248036,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208718,
+        "num": 134755,
+        "word": "凶手与女被害人网络相识遭拒绝后疯狂杀人",
+        "onboard_time": 1684279764,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198387,
+        "num": 134577,
+        "word": "戛纳红毯",
+        "onboard_time": 1684256481,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1082299,
+        "num": 134493,
+        "word": "在中国月入5000元是什么水平",
+        "onboard_time": 1684284214,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 134052,
+        "num": 134052,
+        "word": "小学生上学途中顺手扶起倒地单车",
+        "onboard_time": 1684285171,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132182,
+        "num": 132182,
+        "word": "月初和月底发工资有什么区别",
+        "onboard_time": 1684248218,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121041,
+        "num": 121041,
+        "word": "地铁站内爷爷奶奶默契牵手前行",
+        "onboard_time": 1684288710,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116250,
+        "num": 116250,
+        "word": "这会计真的非学不可吗",
+        "onboard_time": 1684290328,
+        "rank": 46,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 108799,
+        "num": 108799,
+        "word": "高中女生自发厕所内放卫生巾互助",
+        "onboard_time": 1684290867,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 106498,
+        "num": 106498,
+        "word": "为什么有的人不接受单休",
+        "onboard_time": 1684281992,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82684,
+        "num": 106064,
+        "word": "BLG晋级MSI四强",
+        "onboard_time": 1684279164,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国元首外交热度不减又攀新峰#"
+    }
+  }
+}
