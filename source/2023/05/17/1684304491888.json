@@ -1,0 +1,410 @@
+{
+  "runTime": 1684304491888,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7520245,
+        "num": 7520245,
+        "word": "笑果被罚",
+        "onboard_time": 1684298498,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1114861,
+        "num": 1114861,
+        "word": "格力官方回应孟羽童离职",
+        "onboard_time": 1684294832,
+        "rank": 1,
+        "category": "科技,艺人"
+      },
+      {
+        "raw_hot": 41170,
+        "num": 947960,
+        "word": "中国有约",
+        "onboard_time": 1684293571,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2428494,
+        "num": 925291,
+        "word": "笑果解除HOUSE合同",
+        "onboard_time": 1684301015,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 840038,
+        "num": 840038,
+        "word": "上海顶级豪宅中一套暴赚千万",
+        "onboard_time": 1684300058,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 782817,
+        "num": 782817,
+        "word": "刘亦菲和安妮海瑟薇合影",
+        "onboard_time": 1684294652,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 771095,
+        "num": 771095,
+        "word": "童漠男",
+        "onboard_time": 1684303410,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 616617,
+        "num": 616617,
+        "word": "德善他爹 爸爸也是头一次当爸爸",
+        "onboard_time": 1684302811,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 604569,
+        "num": 604569,
+        "word": "宋慧乔韩素希不合作了",
+        "onboard_time": 1684291530,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 571376,
+        "num": 571376,
+        "word": "程十安去戛纳红毯了",
+        "onboard_time": 1684290028,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1966125,
+        "num": 568859,
+        "word": "笑果在京所有演出活动无限期暂停",
+        "onboard_time": 1684298673,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1024513,
+        "num": 565199,
+        "word": "霍尊父亲称儿子结婚时间将近",
+        "onboard_time": 1684295134,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 672254,
+        "num": 559911,
+        "word": "张卫健回应私生女传闻",
+        "onboard_time": 1684292370,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1625068,
+        "num": 553855,
+        "word": "李诞",
+        "onboard_time": 1684301494,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 553672,
+        "num": 553672,
+        "word": "终于有宫斗剧要上了",
+        "onboard_time": 1684303170,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 460459,
+        "num": 460459,
+        "word": "南太铉涉嫌吸毒被逮捕",
+        "onboard_time": 1684293873,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1165681,
+        "num": 457682,
+        "word": "house连续两场演出侮辱人民军队",
+        "onboard_time": 1684303952,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 443153,
+        "num": 443153,
+        "word": "卖崽青蛙设计者是位宝妈",
+        "onboard_time": 1684298074,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401070,
+        "num": 401070,
+        "word": "海底捞回应女子拍不雅视频",
+        "onboard_time": 1684298197,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 960643,
+        "num": 400354,
+        "word": "笑果被罚1335余万元",
+        "onboard_time": 1684298917,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 450551,
+        "num": 395324,
+        "word": "我把公公的退休金搞没了",
+        "onboard_time": 1684291410,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 373922,
+        "num": 373922,
+        "word": "月薪7000但学不到东西要离职吗",
+        "onboard_time": 1684295672,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 862213,
+        "num": 370951,
+        "word": "house",
+        "onboard_time": 1684299759,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 362685,
+        "num": 362685,
+        "word": "高中女生自发厕所内放卫生巾互助",
+        "onboard_time": 1684290867,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 349108,
+        "num": 349108,
+        "word": "白鹿给助理打伞",
+        "onboard_time": 1684301793,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410388,
+        "num": 337695,
+        "word": "笑果回应处罚",
+        "onboard_time": 1684301913,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 323450,
+        "num": 323450,
+        "word": "微信 原神",
+        "onboard_time": 1684299638,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 290671,
+        "num": 290671,
+        "word": "喜茶FENDI联名",
+        "onboard_time": 1684288652,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 283009,
+        "num": 283009,
+        "word": "Lisa刘亦菲赞达亚同框",
+        "onboard_time": 1684280726,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 282162,
+        "num": 282162,
+        "word": "向佐现身夜店",
+        "onboard_time": 1684288652,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268146,
+        "num": 268146,
+        "word": "张雨绮脖子上戴了朵花",
+        "onboard_time": 1684283914,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 450266,
+        "num": 265493,
+        "word": "北京警方通报一起校内学生伤人案",
+        "onboard_time": 1684294113,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 291608,
+        "num": 261914,
+        "word": "向佐回应夜店照片",
+        "onboard_time": 1684303535,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255189,
+        "num": 255189,
+        "word": "女子吐槽裙子比打底裤还短",
+        "onboard_time": 1684297656,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250093,
+        "num": 250093,
+        "word": "张杰演唱会门票",
+        "onboard_time": 1684298315,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 247029,
+        "num": 247029,
+        "word": "李国庆向孟羽童道歉",
+        "onboard_time": 1684289789,
+        "rank": 35,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 234221,
+        "num": 234221,
+        "word": "孟羽童接私活收入需要分给格力吗",
+        "onboard_time": 1684298137,
+        "rank": 36,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 218332,
+        "num": 218332,
+        "word": "易烊千玺法国晚宴侧拍",
+        "onboard_time": 1684293393,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195165,
+        "num": 195165,
+        "word": "AI不能替你坐牢",
+        "onboard_time": 1684300834,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 180375,
+        "num": 180375,
+        "word": "莫言说余华根本不是我的对手",
+        "onboard_time": 1684300957,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176195,
+        "num": 176195,
+        "word": "蒋梦婕回应戛纳红毯造型",
+        "onboard_time": 1684290447,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172372,
+        "num": 172372,
+        "word": "中国商人在泰被刺20余刀身亡",
+        "onboard_time": 1684291530,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166940,
+        "num": 166940,
+        "word": "普通人裸辞后的真实状态",
+        "onboard_time": 1684291049,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158632,
+        "num": 158632,
+        "word": "王玉雯王子奇你给我的喜欢收官海报",
+        "onboard_time": 1684297536,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156503,
+        "num": 156503,
+        "word": "直播带货525万其中495万为刷单",
+        "onboard_time": 1684290928,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138782,
+        "num": 138782,
+        "word": "朱一龙新预告连说8遍她想杀我",
+        "onboard_time": 1684300957,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138713,
+        "num": 138713,
+        "word": "戛纳 Kpop艺人",
+        "onboard_time": 1684295373,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134737,
+        "num": 134737,
+        "word": "提完离职后公司突然倒闭了",
+        "onboard_time": 1684292551,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120716,
+        "num": 120716,
+        "word": "迪士尼和小米官宣了",
+        "onboard_time": 1684298560,
+        "rank": 48,
+        "category": "科技,旅游"
+      },
+      {
+        "raw_hot": 97641,
+        "num": 120485,
+        "word": "塞尔达 人和马都陷入了沉默",
+        "onboard_time": 1684292010,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#四组关键词看中国—中亚峰会#"
+    }
+  }
+}
