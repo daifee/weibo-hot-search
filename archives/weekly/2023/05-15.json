@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684290893560,
+  "endTime": 1684291400074,
   "band_list": [
     {
       "raw_hot": 5388172,
@@ -611,6 +611,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1150980,
+      "num": 472998,
+      "word": "李国庆向孟羽童道歉",
+      "onboard_time": 1684289789,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1128973,
       "num": 1128973,
       "word": "唐艺昕脚腕纹身",
@@ -915,6 +923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 760832,
+      "num": 760832,
+      "word": "程十安去戛纳红毯了",
+      "onboard_time": 1684290028,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 754593,
       "num": 754593,
       "word": "带两女儿投河溺亡女子父亲发声",
@@ -1009,14 +1025,6 @@
       "onboard_time": 1684075293,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 705326,
-      "num": 472998,
-      "word": "李国庆向孟羽童道歉",
-      "onboard_time": 1684289789,
-      "rank": 11,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 705148,
@@ -1483,20 +1491,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 472584,
-      "num": 472584,
-      "word": "程十安去戛纳红毯了",
-      "onboard_time": 1684290028,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 471790,
       "num": 471790,
       "word": "民警代办5元取款哄九旬老人回家",
       "onboard_time": 1684115486,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 471653,
+      "num": 471653,
+      "word": "笑果文化估值超40亿元",
+      "onboard_time": 1684287330,
+      "rank": 32,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 469871,
@@ -1723,12 +1731,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 416188,
-      "num": 416188,
-      "word": "笑果文化估值超40亿元",
-      "onboard_time": 1684287330,
-      "rank": 32,
-      "category": "社会新闻,艺人"
+      "raw_hot": 417809,
+      "num": 417809,
+      "word": "蒋梦婕回应戛纳红毯造型",
+      "onboard_time": 1684290447,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 416128,
@@ -1859,6 +1867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 385157,
+      "num": 385157,
+      "word": "Lisa在逃公主",
+      "onboard_time": 1684289071,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 384570,
       "num": 335398,
       "word": "易烊千玺金爵奖亚洲新人单元评委",
@@ -1953,14 +1969,6 @@
       "onboard_time": 1684107684,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 362133,
-      "num": 362133,
-      "word": "Lisa在逃公主",
-      "onboard_time": 1684289071,
-      "rank": 18,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 360107,
@@ -2291,20 +2299,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 310607,
+      "num": 310607,
+      "word": "湖人vs掘金",
+      "onboard_time": 1684285231,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 310343,
       "num": 271030,
       "word": "官方回应女子捆绑2女儿河中身亡",
       "onboard_time": 1684155027,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 310324,
-      "num": 310324,
-      "word": "湖人vs掘金",
-      "onboard_time": 1684285231,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 308971,
@@ -2739,14 +2747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 258541,
-      "num": 258541,
-      "word": "蒋梦婕回应戛纳红毯造型",
-      "onboard_time": 1684290447,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 258427,
       "num": 258427,
       "word": "主人误以为金毛把小鸡吃了",
@@ -3097,6 +3097,14 @@
       "onboard_time": 1684194446,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 225211,
+      "num": 225211,
+      "word": "高中女生自发厕所内放卫生巾互助",
+      "onboard_time": 1684290867,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 224816,
@@ -3843,8 +3851,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181956,
-      "num": 181956,
+      "raw_hot": 181986,
+      "num": 181986,
       "word": "银河护卫队3片尾大合照",
       "onboard_time": 1684289071,
       "rank": 32,
@@ -3921,6 +3929,14 @@
       "onboard_time": 1684133008,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 178649,
+      "num": 178649,
+      "word": "王鹤棣在海上干嘛",
+      "onboard_time": 1684290991,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 178155,
@@ -4139,6 +4155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167646,
+      "num": 167646,
+      "word": "直播带货525万其中495万为刷单",
+      "onboard_time": 1684290928,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167532,
       "num": 167532,
       "word": "巴萨夺得西甲冠军",
@@ -4153,6 +4177,14 @@
       "onboard_time": 1684159590,
       "rank": 29,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 166781,
+      "num": 166781,
+      "word": "普通人裸辞后的真实状态",
+      "onboard_time": 1684291049,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 166114,
@@ -4883,6 +4915,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 123143,
+      "num": 123143,
+      "word": "地铁站内爷爷奶奶默契牵手前行",
+      "onboard_time": 1684288710,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121811,
       "num": 121811,
       "word": "男朋友送的生日礼物是个钥匙扣",
@@ -4907,12 +4947,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 121041,
-      "num": 121041,
-      "word": "地铁站内爷爷奶奶默契牵手前行",
-      "onboard_time": 1684288710,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 120475,
+      "num": 120475,
+      "word": "这会计真的非学不可吗",
+      "onboard_time": 1684290328,
+      "rank": 46,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 119911,
@@ -4947,6 +4987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118296,
+      "num": 118296,
+      "word": "孙俪瑜伽第一次自主起来了",
+      "onboard_time": 1684291227,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117459,
       "num": 117459,
       "word": "今年戛纳好热闹",
@@ -4963,14 +5011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 116250,
-      "num": 116250,
-      "word": "这会计真的非学不可吗",
-      "onboard_time": 1684290328,
-      "rank": 46,
-      "category": "教育,幽默"
-    },
-    {
       "raw_hot": 115071,
       "num": 115071,
       "word": "魏如萱演唱会连线那英华晨宇马嘉祺",
@@ -4985,14 +5025,6 @@
       "onboard_time": 1684057047,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 108799,
-      "num": 108799,
-      "word": "高中女生自发厕所内放卫生巾互助",
-      "onboard_time": 1684290867,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 108758,
