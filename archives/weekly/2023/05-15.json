@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684359204879,
+  "endTime": 1684361749948,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -6571,6 +6571,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 80278,
+      "num": 58079,
+      "word": "孩子被迫成为家里的精神支柱",
+      "onboard_time": 1684354151,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 79113,
       "num": 100501,
       "word": "他选择了评论最多的调头方式",
@@ -6771,14 +6779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44541,
-      "num": 44541,
-      "word": "孩子被迫成为家里的精神支柱",
-      "onboard_time": 1684354151,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 43171,
       "num": 43171,
       "word": "这家里高低得摆两台共享单车吧",
@@ -6843,6 +6843,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27064,
+      "num": 27064,
+      "word": "金晨新剧里有王勉",
+      "onboard_time": 1684359433,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 26172,
+      "num": 26172,
+      "word": "吉娜说数数看Amber抡了多少圈",
+      "onboard_time": 1684354871,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 26169,
       "num": 26169,
       "word": "喝牛奶的角色",
@@ -6857,6 +6873,14 @@
       "onboard_time": 1684172357,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 25310,
+      "num": 25310,
+      "word": "绞肉机打出来的牛肉丸子",
+      "onboard_time": 1684351693,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 22632,
@@ -6881,22 +6905,6 @@
       "onboard_time": 1684097592,
       "rank": 47,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 19184,
-      "num": 20204,
-      "word": "吉娜说数数看Amber抡了多少圈",
-      "onboard_time": 1684354871,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 17537,
-      "num": 20193,
-      "word": "绞肉机打出来的牛肉丸子",
-      "onboard_time": 1684351693,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 15785,

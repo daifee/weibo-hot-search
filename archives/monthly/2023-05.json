@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684359204879,
+  "endTime": 1684361749948,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -34811,6 +34811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80278,
+      "num": 58079,
+      "word": "孩子被迫成为家里的精神支柱",
+      "onboard_time": 1684354151,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 80235,
       "num": 80235,
       "word": "是上班更苦还是上学更苦",
@@ -35859,14 +35867,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 44541,
-      "num": 44541,
-      "word": "孩子被迫成为家里的精神支柱",
-      "onboard_time": 1684354151,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 44133,
       "num": 44133,
       "word": "室友记录下盲人博士学日语",
@@ -36267,6 +36267,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27064,
+      "num": 27064,
+      "word": "金晨新剧里有王勉",
+      "onboard_time": 1684359433,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 26172,
+      "num": 26172,
+      "word": "吉娜说数数看Amber抡了多少圈",
+      "onboard_time": 1684354871,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 26169,
       "num": 26169,
       "word": "喝牛奶的角色",
@@ -36329,6 +36345,14 @@
       "onboard_time": 1684172357,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 25310,
+      "num": 25310,
+      "word": "绞肉机打出来的牛肉丸子",
+      "onboard_time": 1684351693,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 24674,
@@ -36435,28 +36459,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 19184,
-      "num": 20204,
-      "word": "吉娜说数数看Amber抡了多少圈",
-      "onboard_time": 1684354871,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 18370,
       "num": 189511,
       "word": "换季如何护肤",
       "onboard_time": 1683367229,
       "rank": 39,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 17537,
-      "num": 20193,
-      "word": "绞肉机打出来的牛肉丸子",
-      "onboard_time": 1684351693,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 15606,
