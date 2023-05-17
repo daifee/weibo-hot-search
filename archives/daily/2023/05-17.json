@@ -1,6 +1,6 @@
 {
   "startTime": 1684254143599,
-  "endTime": 1684336659610,
+  "endTime": 1684337628138,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2045756,
+      "num": 2045756,
+      "word": "48岁交警被拖行700余米牺牲",
+      "onboard_time": 1684329994,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2021463,
       "num": 2021463,
       "word": "温精灵道歉",
@@ -139,20 +147,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1890053,
+      "num": 1890053,
+      "word": "韩流真的来了吗",
+      "onboard_time": 1684335391,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1816631,
       "num": 1816631,
       "word": "Lisa刘亦菲赞达亚同框",
       "onboard_time": 1684280726,
       "rank": 0,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1794096,
-      "num": 1794096,
-      "word": "48岁交警被拖行700余米牺牲",
-      "onboard_time": 1684329994,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1791051,
@@ -265,14 +273,6 @@
       "onboard_time": 1684308329,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1218570,
-      "num": 1218570,
-      "word": "韩流真的来了吗",
-      "onboard_time": 1684335391,
-      "rank": 3,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1201558,
@@ -627,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 591435,
+      "num": 386519,
+      "word": "笑果承认存在侥幸心理",
+      "onboard_time": 1684336112,
+      "rank": 23,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 584651,
       "num": 240402,
       "word": "kid",
@@ -704,6 +712,14 @@
       "word": "夫妻20元刮刮乐中40万激动到尖叫",
       "onboard_time": 1684307068,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 514278,
+      "num": 449078,
+      "word": "男子被女友怀疑出轨竟从12楼跳下",
+      "onboard_time": 1684336829,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -979,14 +995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 386519,
-      "num": 386519,
-      "word": "笑果承认存在侥幸心理",
-      "onboard_time": 1684336112,
-      "rank": 23,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 385707,
       "num": 385707,
       "word": "程十安澄清",
@@ -1193,6 +1201,14 @@
       "onboard_time": 1684280247,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 302785,
+      "num": 302785,
+      "word": "周柯宇今晚鲨疯了",
+      "onboard_time": 1684337130,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 299904,
@@ -2164,7 +2180,7 @@
     },
     {
       "raw_hot": 74650,
-      "num": 1627601,
+      "num": 1927871,
       "word": "北斗为梦想导航",
       "onboard_time": 1684327828,
       "rank": 2,
