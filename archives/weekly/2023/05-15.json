@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684315019515,
+  "endTime": 1684316019252,
   "band_list": [
     {
       "raw_hot": 9904433,
@@ -275,6 +275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1866432,
+      "num": 1866432,
+      "word": "上海暂停笑果文化在沪全部演出",
+      "onboard_time": 1684315050,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1846343,
       "num": 1846343,
       "word": "以为吴京和郭帆结婚了",
@@ -499,7 +507,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1439458,
+      "raw_hot": 1476278,
       "num": 439888,
       "word": "今年出生的孩子 上学会非常宽松",
       "onboard_time": 1684313312,
@@ -931,6 +939,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 950054,
+      "num": 950054,
+      "word": "刘亦菲Lisa撑伞神图",
+      "onboard_time": 1684307610,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 948303,
       "num": 544155,
       "word": "向佐现身夜店",
@@ -1323,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 666982,
+      "num": 666982,
+      "word": "二阳症状比较轻",
+      "onboard_time": 1684314271,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 659513,
       "num": 659513,
       "word": "迪丽热巴冰淇淋侧颜",
@@ -1473,14 +1497,6 @@
       "onboard_time": 1684131988,
       "rank": 24,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 595981,
-      "num": 595981,
-      "word": "刘亦菲Lisa撑伞神图",
-      "onboard_time": 1684307610,
-      "rank": 46,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 593469,
@@ -2339,6 +2355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 373596,
+      "num": 244026,
+      "word": "笑果被罚对脱口秀行业影响大吗",
+      "onboard_time": 1684311396,
+      "rank": 42,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 372469,
       "num": 326996,
       "word": "女儿工作后不跟家里联系了",
@@ -2643,12 +2667,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 325548,
-      "num": 371834,
-      "word": "二阳症状比较轻",
-      "onboard_time": 1684314271,
+      "raw_hot": 326244,
+      "num": 326244,
+      "word": "侯明昊谢谢你啊张婧仪",
+      "onboard_time": 1684315412,
       "rank": 19,
-      "category": "社会新闻"
+      "category": "作品衍生"
     },
     {
       "raw_hot": 324912,
@@ -2745,6 +2769,14 @@
       "onboard_time": 1684151129,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 313137,
+      "num": 313137,
+      "word": "张柏芝三胎儿子正脸",
+      "onboard_time": 1684315714,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 312656,
@@ -2889,14 +2921,6 @@
       "onboard_time": 1684154791,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 294150,
-      "num": 244026,
-      "word": "笑果被罚对脱口秀行业影响大吗",
-      "onboard_time": 1684311396,
-      "rank": 42,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 293234,
@@ -3515,6 +3539,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 237705,
+      "num": 237705,
+      "word": "这些征兆预示着你该辞职了",
+      "onboard_time": 1684312831,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 237595,
       "num": 109904,
       "word": "朱一龙亮相戛纳红毯",
@@ -3529,6 +3561,14 @@
       "onboard_time": 1684285171,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235831,
+      "num": 235831,
+      "word": "谢娜唱的rap好像蜡笔小新",
+      "onboard_time": 1684315295,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 235156,
@@ -3601,14 +3641,6 @@
       "onboard_time": 1684106723,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 230780,
-      "num": 230780,
-      "word": "这些征兆预示着你该辞职了",
-      "onboard_time": 1684312831,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 230554,
@@ -3985,6 +4017,14 @@
       "onboard_time": 1684300957,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 209075,
+      "num": 209075,
+      "word": "史某发布涉军人不当言论被行拘",
+      "onboard_time": 1684315772,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208952,
@@ -5067,6 +5107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153188,
+      "num": 153188,
+      "word": "双子座无处安放的分享欲",
+      "onboard_time": 1684315714,
+      "rank": 48,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 152678,
       "num": 152678,
       "word": "Elk MVP",
@@ -5137,6 +5185,14 @@
       "onboard_time": 1684142068,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 149790,
+      "num": 149790,
+      "word": "有一种幸福叫活在西安",
+      "onboard_time": 1684315956,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149773,
