@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684332932938,
+  "endTime": 1684334002912,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1468,7 +1468,7 @@
     },
     {
       "raw_hot": 1944796,
-      "num": 356958,
+      "num": 396827,
       "word": "house录音",
       "onboard_time": 1684194748,
       "rank": 20,
@@ -2867,6 +2867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1463938,
+      "num": 606892,
+      "word": "张若昀左手拿汉堡右手牵唐艺昕",
+      "onboard_time": 1684321949,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1463595,
       "num": 1463595,
       "word": "常年不吃碳水的人怎么样了",
@@ -4235,6 +4243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1146221,
+      "num": 1146221,
+      "word": "48岁交警被拖行700余米牺牲",
+      "onboard_time": 1684329994,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1145568,
       "num": 1145568,
       "word": "5岁女孩认出罂粟花报警铲除",
@@ -4257,6 +4273,14 @@
       "onboard_time": 1682862627,
       "rank": 4,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1139373,
+      "num": 1139373,
+      "word": "泫雅说会来武汉音乐节",
+      "onboard_time": 1684331374,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 1139109,
@@ -4627,14 +4651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1074367,
-      "num": 1074367,
-      "word": "泫雅说会来武汉音乐节",
-      "onboard_time": 1684331374,
-      "rank": 4,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1074147,
       "num": 1074147,
       "word": "Jiejie女友",
@@ -4801,14 +4817,6 @@
       "onboard_time": 1683094530,
       "rank": 41,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 1046816,
-      "num": 601786,
-      "word": "张若昀左手拿汉堡右手牵唐艺昕",
-      "onboard_time": 1684321949,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1046536,
@@ -5377,6 +5385,14 @@
       "onboard_time": 1683966628,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 933902,
+      "num": 933902,
+      "word": "韩素希说宋慧乔还是我的",
+      "onboard_time": 1684331793,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 933025,
@@ -6475,6 +6491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 769454,
+      "num": 769454,
+      "word": "过了二十岁血脉就开始觉醒了",
+      "onboard_time": 1684330413,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 767295,
       "num": 767295,
       "word": "东北大哥称不想再管吵架事件",
@@ -6673,14 +6697,6 @@
       "onboard_time": 1683860066,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 744801,
-      "num": 744801,
-      "word": "韩素希说宋慧乔还是我的",
-      "onboard_time": 1684331793,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 743526,
@@ -7153,14 +7169,6 @@
       "onboard_time": 1683872729,
       "rank": 30,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 700486,
-      "num": 700486,
-      "word": "48岁交警被拖行700余米牺牲",
-      "onboard_time": 1684329994,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 700223,
@@ -8185,14 +8193,6 @@
       "onboard_time": 1684248218,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 605256,
-      "num": 605256,
-      "word": "过了二十岁血脉就开始觉醒了",
-      "onboard_time": 1684330413,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 604780,
@@ -9352,6 +9352,14 @@
       "word": "微信 原神",
       "onboard_time": 1684299638,
       "rank": 14,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 536923,
+      "num": 536923,
+      "word": "清清 挂牌",
+      "onboard_time": 1684331672,
+      "rank": 23,
       "category": "游戏"
     },
     {
@@ -11435,6 +11443,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 440889,
+      "num": 437797,
+      "word": "脱口秀",
+      "onboard_time": 1684331556,
+      "rank": 22,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 440492,
       "num": 440492,
       "word": "辅导员式爱豆",
@@ -11529,14 +11545,6 @@
       "onboard_time": 1682989406,
       "rank": 22,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 437797,
-      "num": 437797,
-      "word": "脱口秀",
-      "onboard_time": 1684331556,
-      "rank": 22,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 437423,
@@ -12089,14 +12097,6 @@
       "onboard_time": 1683205894,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 419755,
-      "num": 419755,
-      "word": "清清 挂牌",
-      "onboard_time": 1684331672,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 419124,
@@ -13841,6 +13841,14 @@
       "onboard_time": 1683630389,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370799,
+      "num": 370799,
+      "word": "声生不息金曲盛典歌单",
+      "onboard_time": 1684333470,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 370453,
@@ -15867,6 +15875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 327998,
+      "num": 327998,
+      "word": "你给我的喜欢",
+      "onboard_time": 1683110850,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 327996,
       "num": 327996,
       "word": "孩子出生时vs孩子上学后",
@@ -17537,14 +17553,6 @@
       "onboard_time": 1683950249,
       "rank": 27,
       "category": "综艺,幽默"
-    },
-    {
-      "raw_hot": 295934,
-      "num": 295934,
-      "word": "你给我的喜欢",
-      "onboard_time": 1683110850,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 295812,
@@ -19763,6 +19771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 262466,
+      "num": 262466,
+      "word": "速度与激情10",
+      "onboard_time": 1684252110,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 262387,
       "num": 134903,
       "word": "浪姐4今日排名变化",
@@ -20945,14 +20961,6 @@
       "onboard_time": 1683026188,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 247853,
-      "num": 247853,
-      "word": "速度与激情10",
-      "onboard_time": 1684252110,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 247844,
@@ -22553,6 +22561,14 @@
       "onboard_time": 1683503487,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 229809,
+      "num": 190468,
+      "word": "house是谁",
+      "onboard_time": 1684332512,
+      "rank": 41,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 229779,
@@ -27753,6 +27769,14 @@
       "onboard_time": 1683648326,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 178972,
+      "num": 178972,
+      "word": "流浪猫用最后一口气跑宠物医院求助",
+      "onboard_time": 1684333958,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178880,

@@ -1,6 +1,6 @@
 {
   "startTime": 1684254143599,
-  "endTime": 1684332932938,
+  "endTime": 1684334002912,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1463938,
+      "num": 606892,
+      "word": "张若昀左手拿汉堡右手牵唐艺昕",
+      "onboard_time": 1684321949,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1437724,
       "num": 1437724,
       "word": "王一博赵丽颖 二搭",
@@ -291,6 +299,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1146221,
+      "num": 1146221,
+      "word": "48岁交警被拖行700余米牺牲",
+      "onboard_time": 1684329994,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1139373,
+      "num": 1139373,
+      "word": "泫雅说会来武汉音乐节",
+      "onboard_time": 1684331374,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1128973,
       "num": 1128973,
       "word": "唐艺昕脚腕纹身",
@@ -347,28 +371,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1074367,
-      "num": 1074367,
-      "word": "泫雅说会来武汉音乐节",
-      "onboard_time": 1684331374,
-      "rank": 4,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1057276,
       "num": 1057276,
       "word": "印尼警方通报中国游客巴厘岛遇害案",
       "onboard_time": 1684310370,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1046816,
-      "num": 601786,
-      "word": "张若昀左手拿汉堡右手牵唐艺昕",
-      "onboard_time": 1684321949,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1027202,
@@ -419,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 933902,
+      "num": 933902,
+      "word": "韩素希说宋慧乔还是我的",
+      "onboard_time": 1684331793,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 894256,
       "num": 894256,
       "word": "戛纳红毯",
@@ -467,20 +483,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 769454,
+      "num": 769454,
+      "word": "过了二十岁血脉就开始觉醒了",
+      "onboard_time": 1684330413,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 763720,
       "num": 763720,
       "word": "五月天演唱会黄牛票价格跌近万元",
       "onboard_time": 1684248275,
       "rank": 4,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 744801,
-      "num": 744801,
-      "word": "韩素希说宋慧乔还是我的",
-      "onboard_time": 1684331793,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 738729,
@@ -513,14 +529,6 @@
       "onboard_time": 1684295672,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 700486,
-      "num": 700486,
-      "word": "48岁交警被拖行700余米牺牲",
-      "onboard_time": 1684329994,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 691581,
@@ -595,14 +603,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 605256,
-      "num": 605256,
-      "word": "过了二十岁血脉就开始觉醒了",
-      "onboard_time": 1684330413,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 593469,
       "num": 546019,
       "word": "蒋梦婕回应戛纳红毯造型",
@@ -648,6 +648,14 @@
       "word": "微信 原神",
       "onboard_time": 1684299638,
       "rank": 14,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 536923,
+      "num": 536923,
+      "word": "清清 挂牌",
+      "onboard_time": 1684331672,
+      "rank": 23,
       "category": "游戏"
     },
     {
@@ -779,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 458358,
+      "num": 396827,
+      "word": "house录音",
+      "onboard_time": 1684331915,
+      "rank": 35,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 455164,
       "num": 455164,
       "word": "董明珠曾称孟羽童拒绝两年内加薪",
@@ -803,7 +819,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 437797,
+      "raw_hot": 440889,
       "num": 437797,
       "word": "脱口秀",
       "onboard_time": 1684331556,
@@ -841,14 +857,6 @@
       "onboard_time": 1684310851,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 419755,
-      "num": 419755,
-      "word": "清清 挂牌",
-      "onboard_time": 1684331672,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 414183,
@@ -971,6 +979,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 370799,
+      "num": 370799,
+      "word": "声生不息金曲盛典歌单",
+      "onboard_time": 1684333470,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 368124,
       "num": 368124,
       "word": "男孩晚9点前练钢琴爸爸加棉被隔音",
@@ -1035,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327998,
+      "num": 327998,
+      "word": "你给我的喜欢",
+      "onboard_time": 1684331194,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 327328,
       "num": 776036,
       "word": "迪士尼和小米官宣了",
@@ -1049,14 +1073,6 @@
       "onboard_time": 1684321590,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 323669,
-      "num": 274936,
-      "word": "house录音",
-      "onboard_time": 1684331915,
-      "rank": 35,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 320535,
@@ -1153,14 +1169,6 @@
       "onboard_time": 1684330176,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 295934,
-      "num": 295934,
-      "word": "你给我的喜欢",
-      "onboard_time": 1684331194,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 292599,
@@ -1291,6 +1299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 262466,
+      "num": 262466,
+      "word": "速度与激情10",
+      "onboard_time": 1684252110,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 258716,
       "num": 258716,
       "word": "五旬男子将妻子奔驰车送小17岁情人",
@@ -1353,14 +1369,6 @@
       "onboard_time": 1684319909,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 247853,
-      "num": 247853,
-      "word": "速度与激情10",
-      "onboard_time": 1684252110,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 245331,
@@ -1440,6 +1448,14 @@
       "word": "女子用秦昊减肥法拉吐7天瘦5斤",
       "onboard_time": 1684244435,
       "rank": 23,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 229809,
+      "num": 190468,
+      "word": "house是谁",
+      "onboard_time": 1684332512,
+      "rank": 41,
       "category": "社会新闻,艺人"
     },
     {
@@ -1673,6 +1689,14 @@
       "onboard_time": 1684279042,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178972,
+      "num": 178972,
+      "word": "流浪猫用最后一口气跑宠物医院求助",
+      "onboard_time": 1684333958,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177555,
