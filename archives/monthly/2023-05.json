@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684311678531,
+  "endTime": 1684312420971,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -19,20 +19,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 8107680,
+      "num": 8107680,
+      "word": "巴厘岛命案疑男子杀害女友后自杀",
+      "onboard_time": 1684309591,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 7993540,
       "num": 7993540,
       "word": "五四放假通知",
       "onboard_time": 1682998108,
       "rank": 31,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 7902810,
-      "num": 7902810,
-      "word": "巴厘岛命案疑男子杀害女友后自杀",
-      "onboard_time": 1684309591,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 6528594,
@@ -4467,6 +4467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1084868,
+      "num": 1084868,
+      "word": "德善他爹 爸爸也是头一次当爸爸",
+      "onboard_time": 1684302811,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1083093,
       "num": 1083093,
       "word": "品如的苹果手机怎么是翻盖的",
@@ -4849,14 +4857,6 @@
       "onboard_time": 1683622289,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1015475,
-      "num": 1015475,
-      "word": "德善他爹 爸爸也是头一次当爸爸",
-      "onboard_time": 1684302811,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 1015051,
@@ -10059,6 +10059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 485479,
+      "num": 392046,
+      "word": "北京警方通报学校内伤人案",
+      "onboard_time": 1684310070,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 485070,
       "num": 485070,
       "word": "流水线公主",
@@ -10337,14 +10345,6 @@
       "onboard_time": 1683415458,
       "rank": 35,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 474182,
-      "num": 392046,
-      "word": "北京警方通报学校内伤人案",
-      "onboard_time": 1684310070,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 474099,
@@ -16347,6 +16347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312656,
+      "num": 312656,
+      "word": "三太子精致生活的日常",
+      "onboard_time": 1684309290,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312650,
       "num": 312650,
       "word": "向往的生活下期预告",
@@ -17611,6 +17619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 289981,
+      "num": 289981,
+      "word": "霍尊想拉黑火风",
+      "onboard_time": 1684312053,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289880,
       "num": 289880,
       "word": "劳伦斯",
@@ -18827,14 +18843,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 269868,
-      "num": 269868,
-      "word": "三太子精致生活的日常",
-      "onboard_time": 1684309290,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 269801,
       "num": 269801,
       "word": "宋丹丹问孟子义喜欢谁",
@@ -19249,6 +19257,14 @@
       "onboard_time": 1683730411,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264133,
+      "num": 264133,
+      "word": "知音漫客休刊",
+      "onboard_time": 1684311996,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 263950,
@@ -19705,6 +19721,14 @@
       "onboard_time": 1683267207,
       "rank": 38,
       "category": "体育,游戏"
+    },
+    {
+      "raw_hot": 257926,
+      "num": 257926,
+      "word": "李晟敏因认知度低而流泪",
+      "onboard_time": 1684311818,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 257872,
@@ -22147,6 +22171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229631,
+      "num": 229631,
+      "word": "笑果被罚对脱口秀行业影响大吗",
+      "onboard_time": 1684311396,
+      "rank": 42,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 229562,
       "num": 229562,
       "word": "素全法师 见死不救才是最大的忌讳",
@@ -23505,6 +23537,14 @@
       "onboard_time": 1683954993,
       "rank": 36,
       "category": "网红"
+    },
+    {
+      "raw_hot": 214957,
+      "num": 214957,
+      "word": "UP官宣Baolan离队",
+      "onboard_time": 1684311099,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 214923,
@@ -26755,14 +26795,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 184988,
-      "num": 184988,
-      "word": "笑果被罚对脱口秀行业影响大吗",
-      "onboard_time": 1684311396,
-      "rank": 42,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 184904,
       "num": 184904,
       "word": "谢娜说我们组互相都不熟",
@@ -27065,14 +27097,6 @@
       "onboard_time": 1683192270,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 180593,
-      "num": 180593,
-      "word": "UP官宣Baolan离队",
-      "onboard_time": 1684311099,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 180489,
@@ -27659,6 +27683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176272,
+      "num": 176272,
+      "word": "把BLACKPINK的solo连起来看",
+      "onboard_time": 1684311274,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176210,
       "num": 176210,
       "word": "你心目中的内娱第一爱豆",
@@ -27769,14 +27801,6 @@
       "onboard_time": 1682917347,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 175562,
-      "num": 175562,
-      "word": "把BLACKPINK的solo连起来看",
-      "onboard_time": 1684311274,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 175485,
@@ -28241,6 +28265,14 @@
       "onboard_time": 1683813330,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 171792,
+      "num": 171792,
+      "word": "曼城vs皇马",
+      "onboard_time": 1684312232,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 171669,
@@ -35417,6 +35449,14 @@
       "onboard_time": 1683414139,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37540,
+      "num": 1249654,
+      "word": "一张长图了解中国—中亚峰会",
+      "onboard_time": 1684312053,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 36946,

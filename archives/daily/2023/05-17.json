@@ -1,6 +1,6 @@
 {
   "startTime": 1684254143599,
-  "endTime": 1684311678531,
+  "endTime": 1684312420971,
   "band_list": [
     {
       "raw_hot": 9904433,
@@ -11,8 +11,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 7902810,
-      "num": 7902810,
+      "raw_hot": 8107680,
+      "num": 8107680,
       "word": "巴厘岛命案疑男子杀害女友后自杀",
       "onboard_time": 1684309591,
       "rank": 0,
@@ -235,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1084868,
+      "num": 1084868,
+      "word": "德善他爹 爸爸也是头一次当爸爸",
+      "onboard_time": 1684302811,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1082299,
       "num": 554686,
       "word": "在中国月入5000元是什么水平",
@@ -257,14 +265,6 @@
       "onboard_time": 1684310370,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1015475,
-      "num": 1015475,
-      "word": "德善他爹 爸爸也是头一次当爸爸",
-      "onboard_time": 1684302811,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 1014252,
@@ -507,20 +507,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 485479,
+      "num": 392046,
+      "word": "北京警方通报学校内伤人案",
+      "onboard_time": 1684310070,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480134,
       "num": 480134,
       "word": "仙剑单机制作组 解散",
       "onboard_time": 1684306111,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 474182,
-      "num": 392046,
-      "word": "北京警方通报学校内伤人案",
-      "onboard_time": 1684310070,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 473270,
@@ -763,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 312656,
+      "num": 312656,
+      "word": "三太子精致生活的日常",
+      "onboard_time": 1684309290,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308971,
       "num": 308971,
       "word": "Deft女警回城逆风前行",
@@ -819,6 +827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 289981,
+      "num": 289981,
+      "word": "霍尊想拉黑火风",
+      "onboard_time": 1684312053,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286489,
       "num": 286489,
       "word": "TFBOYS恭喜易烊千玺",
@@ -851,14 +867,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 269868,
-      "num": 269868,
-      "word": "三太子精致生活的日常",
-      "onboard_time": 1684309290,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267393,
       "num": 265739,
       "word": "巩俐戛纳生图",
@@ -883,6 +891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 264133,
+      "num": 264133,
+      "word": "知音漫客休刊",
+      "onboard_time": 1684311996,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 258716,
       "num": 258716,
       "word": "五旬男子将妻子奔驰车送小17岁情人",
@@ -905,6 +921,14 @@
       "onboard_time": 1684294714,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 257926,
+      "num": 257926,
+      "word": "李晟敏因认知度低而流泪",
+      "onboard_time": 1684311818,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 254927,
@@ -979,6 +1003,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 229631,
+      "num": 229631,
+      "word": "笑果被罚对脱口秀行业影响大吗",
+      "onboard_time": 1684311396,
+      "rank": 42,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 223797,
       "num": 223797,
       "word": "大学宿舍让多少人迷失自我",
@@ -993,6 +1025,14 @@
       "onboard_time": 1684286551,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 214957,
+      "num": 214957,
+      "word": "UP官宣Baolan离队",
+      "onboard_time": 1684311099,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 212934,
@@ -1115,14 +1155,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 184988,
-      "num": 184988,
-      "word": "笑果被罚对脱口秀行业影响大吗",
-      "onboard_time": 1684311396,
-      "rank": 42,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 182891,
       "num": 182891,
       "word": "芝芙不会亚洲蹲",
@@ -1137,14 +1169,6 @@
       "onboard_time": 1684289071,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 180593,
-      "num": 180593,
-      "word": "UP官宣Baolan离队",
-      "onboard_time": 1684311099,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 180489,
@@ -1195,8 +1219,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175562,
-      "num": 175562,
+      "raw_hot": 176272,
+      "num": 176272,
       "word": "把BLACKPINK的solo连起来看",
       "onboard_time": 1684311274,
       "rank": 47,
@@ -1217,6 +1241,14 @@
       "onboard_time": 1684157374,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 171792,
+      "num": 171792,
+      "word": "曼城vs皇马",
+      "onboard_time": 1684312232,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 165911,
@@ -1584,6 +1616,14 @@
       "word": "清澈的爱一直为中国",
       "onboard_time": 1684253009,
       "rank": 28,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 37540,
+      "num": 1249654,
+      "word": "一张长图了解中国—中亚峰会",
+      "onboard_time": 1684312053,
+      "rank": 2,
       "category": "国内要闻"
     },
     {
