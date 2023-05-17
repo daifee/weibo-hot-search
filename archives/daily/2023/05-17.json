@@ -1,6 +1,6 @@
 {
   "startTime": 1684254143599,
-  "endTime": 1684326807762,
+  "endTime": 1684327770166,
   "band_list": [
     {
       "raw_hot": 9904433,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2619440,
+      "num": 1179019,
+      "word": "house被警方立案调查",
+      "onboard_time": 1684327348,
+      "rank": 3,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 2603588,
       "num": 2603588,
       "word": "笑果被罚1335余万元",
@@ -99,8 +107,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2136201,
-      "num": 2136201,
+      "raw_hot": 2283969,
+      "num": 2283969,
       "word": "方灿道歉",
       "onboard_time": 1684324829,
       "rank": 1,
@@ -427,6 +435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 787686,
+      "num": 787686,
+      "word": "情绪稳定 就是烦死了",
+      "onboard_time": 1684326027,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 763720,
       "num": 763720,
       "word": "五月天演唱会黄牛票价格跌近万元",
@@ -563,6 +579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 526455,
+      "num": 526455,
+      "word": "宁安如梦或将空降",
+      "onboard_time": 1684325729,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 518231,
       "num": 518231,
       "word": "马刺抽中状元签",
@@ -689,14 +713,6 @@
       "onboard_time": 1684243055,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 448840,
-      "num": 448840,
-      "word": "宁安如梦或将空降",
-      "onboard_time": 1684325729,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 447815,
@@ -851,20 +867,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 375766,
+      "num": 310796,
+      "word": "张若昀左手拿汉堡右手牵唐艺昕",
+      "onboard_time": 1684321949,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 373596,
       "num": 249276,
       "word": "笑果被罚对脱口秀行业影响大吗",
       "onboard_time": 1684311396,
       "rank": 42,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 372652,
-      "num": 288914,
-      "word": "张若昀左手拿汉堡右手牵唐艺昕",
-      "onboard_time": 1684321949,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 368124,
@@ -955,6 +971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 316108,
+      "num": 316108,
+      "word": "久酷受伤",
+      "onboard_time": 1684325909,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 314361,
       "num": 1489526,
       "word": "她带着奶奶29年的爱离世捐出遗体",
@@ -979,20 +1003,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 306296,
+      "num": 306296,
+      "word": "成毅直播",
+      "onboard_time": 1684325309,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 304131,
       "num": 304131,
       "word": "张若昀唐艺昕好嗑",
       "onboard_time": 1684280247,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 303385,
-      "num": 303385,
-      "word": "情绪稳定 就是烦死了",
-      "onboard_time": 1684326027,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 299904,
@@ -1081,6 +1105,14 @@
       "onboard_time": 1684245514,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 276786,
+      "num": 276786,
+      "word": "星穹铁道被氪爆了",
+      "onboard_time": 1684322786,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 274170,
@@ -1195,12 +1227,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 248194,
-      "num": 248194,
-      "word": "星穹铁道被氪爆了",
-      "onboard_time": 1684322786,
-      "rank": 44,
-      "category": "游戏"
+      "raw_hot": 246756,
+      "num": 246756,
+      "word": "王子奇告别你给我的喜欢",
+      "onboard_time": 1684325789,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 243000,
@@ -1273,22 +1305,6 @@
       "onboard_time": 1684244435,
       "rank": 23,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 232464,
-      "num": 232464,
-      "word": "成毅直播",
-      "onboard_time": 1684325309,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 226381,
-      "num": 226381,
-      "word": "久酷受伤",
-      "onboard_time": 1684325909,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 224032,
@@ -1427,6 +1443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188500,
+      "num": 188500,
+      "word": "星穹铁道景元",
+      "onboard_time": 1684326689,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187386,
       "num": 153937,
       "word": "孔雪儿风格",
@@ -1441,14 +1465,6 @@
       "onboard_time": 1684288110,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 186359,
-      "num": 186359,
-      "word": "王子奇告别你给我的喜欢",
-      "onboard_time": 1684325789,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 186185,
@@ -1739,14 +1755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129408,
-      "num": 129408,
-      "word": "星穹铁道景元",
-      "onboard_time": 1684326689,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 128518,
       "num": 128518,
       "word": "女童睡过站急哭司机安抚送回家",
@@ -1986,6 +1994,9 @@
     },
     {
       "word": "#共同谱写中国-中亚关系美好明天#"
+    },
+    {
+      "word": "#习近平同托卡耶夫会谈#"
     }
   ]
 }
