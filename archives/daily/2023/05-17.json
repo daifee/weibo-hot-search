@@ -1,6 +1,6 @@
 {
   "startTime": 1684254143599,
-  "endTime": 1684293499220,
+  "endTime": 1684294435503,
   "band_list": [
     {
       "raw_hot": 2401627,
@@ -27,12 +27,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1760821,
+      "num": 530554,
+      "word": "张卫健回应私生女传闻",
+      "onboard_time": 1684292370,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1641832,
       "num": 1641832,
       "word": "关晓彤戛纳",
       "onboard_time": 1684256303,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1512294,
+      "num": 1512294,
+      "word": "李国庆向孟羽童道歉",
+      "onboard_time": 1684289789,
+      "rank": 11,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1437724,
@@ -43,14 +59,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1403560,
-      "num": 1403560,
-      "word": "李国庆向孟羽童道歉",
-      "onboard_time": 1684289789,
-      "rank": 11,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 1281357,
       "num": 1281357,
       "word": "香港碎尸名媛蔡天凤丈夫发声",
@@ -59,20 +67,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1236299,
-      "num": 435440,
-      "word": "张卫健回应私生女传闻",
-      "onboard_time": 1684292370,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1201558,
       "num": 1201558,
       "word": "因为臭脸躲过了一次抢劫",
       "onboard_time": 1684241013,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1159603,
+      "num": 1159603,
+      "word": "高中女生自发厕所内放卫生巾互助",
+      "onboard_time": 1684290867,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1128973,
@@ -107,6 +115,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1014252,
+      "num": 1014252,
+      "word": "中国商人在泰被刺20余刀身亡",
+      "onboard_time": 1684291530,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 994373,
       "num": 928307,
       "word": "程十安去戛纳红毯了",
@@ -115,16 +131,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 971131,
-      "num": 971131,
-      "word": "高中女生自发厕所内放卫生巾互助",
-      "onboard_time": 1684290867,
-      "rank": 47,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 948303,
-      "num": 473165,
+      "num": 509972,
       "word": "向佐现身夜店",
       "onboard_time": 1684288652,
       "rank": 10,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 804899,
-      "num": 328887,
+      "num": 390654,
       "word": "我把公公的退休金搞没了",
       "onboard_time": 1684291410,
       "rank": 20,
@@ -169,6 +177,14 @@
       "onboard_time": 1684248275,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 751011,
+      "num": 517732,
+      "word": "北京警方通报一起校内学生伤人案",
+      "onboard_time": 1684294113,
+      "rank": 12,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 738729,
@@ -193,14 +209,6 @@
       "onboard_time": 1684288652,
       "rank": 5,
       "category": "美食"
-    },
-    {
-      "raw_hot": 661615,
-      "num": 435031,
-      "word": "中国商人在泰被刺20余刀身亡",
-      "onboard_time": 1684291530,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 651526,
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 541047,
+      "num": 541047,
+      "word": "湖人vs掘金",
+      "onboard_time": 1684285231,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 518231,
       "num": 518231,
       "word": "马刺抽中状元签",
@@ -257,6 +273,14 @@
       "onboard_time": 1684251755,
       "rank": 13,
       "category": "科技"
+    },
+    {
+      "raw_hot": 502097,
+      "num": 502097,
+      "word": "普通人裸辞后的真实状态",
+      "onboard_time": 1684291049,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 473270,
@@ -275,6 +299,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 466648,
+      "num": 466648,
+      "word": "南太铉涉嫌吸毒被逮捕",
+      "onboard_time": 1684293873,
+      "rank": 16,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 460193,
       "num": 460193,
       "word": "月初和月底发工资有什么区别",
@@ -289,14 +321,6 @@
       "onboard_time": 1684243055,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 435586,
-      "num": 435586,
-      "word": "普通人裸辞后的真实状态",
-      "onboard_time": 1684291049,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 427260,
@@ -321,6 +345,22 @@
       "onboard_time": 1684284632,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 390798,
+      "num": 390798,
+      "word": "易烊千玺法国晚宴侧拍",
+      "onboard_time": 1684293393,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 390639,
+      "num": 390639,
+      "word": "提完离职后公司突然倒闭了",
+      "onboard_time": 1684292551,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 390501,
@@ -353,14 +393,6 @@
       "onboard_time": 1684276397,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 360921,
-      "num": 360921,
-      "word": "湖人vs掘金",
-      "onboard_time": 1684285231,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 353453,
@@ -443,12 +475,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 284667,
-      "num": 284667,
-      "word": "提完离职后公司突然倒闭了",
-      "onboard_time": 1684292551,
-      "rank": 26,
-      "category": "情感"
+      "raw_hot": 283060,
+      "num": 283060,
+      "word": "直播带货525万其中495万为刷单",
+      "onboard_time": 1684290928,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281472,
@@ -491,11 +523,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 259739,
-      "num": 259739,
-      "word": "直播带货525万其中495万为刷单",
-      "onboard_time": 1684290928,
-      "rank": 34,
+      "raw_hot": 258716,
+      "num": 258716,
+      "word": "五旬男子将妻子奔驰车送小17岁情人",
+      "onboard_time": 1684292912,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -563,6 +595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212934,
+      "num": 212934,
+      "word": "小女孩用仅有的1元钱买食物送拾荒老人",
+      "onboard_time": 1684292309,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206273,
       "num": 206273,
       "word": "孟羽童曾说主业总裁秘书副业博主",
@@ -577,14 +617,6 @@
       "onboard_time": 1684238910,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 203359,
-      "num": 203359,
-      "word": "小女孩用仅有的1元钱买食物送拾荒老人",
-      "onboard_time": 1684292309,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202921,
@@ -683,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176524,
+      "num": 176524,
+      "word": "寻找跪地救人的最美妈妈",
+      "onboard_time": 1684293752,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172614,
       "num": 172614,
       "word": "线下脱口秀为什么不让录音录像",
@@ -697,14 +737,6 @@
       "onboard_time": 1684157374,
       "rank": 32,
       "category": "网红"
-    },
-    {
-      "raw_hot": 166656,
-      "num": 166656,
-      "word": "五旬男子将妻子奔驰车送小17岁情人",
-      "onboard_time": 1684292912,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161915,
@@ -723,6 +755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 153776,
+      "num": 153776,
+      "word": "塞尔达 人和马都陷入了沉默",
+      "onboard_time": 1684292010,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153221,
       "num": 153221,
       "word": "NBA选秀抽签",
@@ -737,14 +777,6 @@
       "onboard_time": 1684247135,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151989,
-      "num": 151989,
-      "word": "易烊千玺法国晚宴侧拍",
-      "onboard_time": 1684293393,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 151982,
@@ -811,12 +843,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 134933,
-      "num": 134933,
-      "word": "塞尔达 人和马都陷入了沉默",
-      "onboard_time": 1684292010,
-      "rank": 47,
-      "category": "游戏"
+      "raw_hot": 131635,
+      "num": 503869,
+      "word": "你被谁的戛纳造型美到",
+      "onboard_time": 1684292431,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 130971,
@@ -849,6 +881,14 @@
       "onboard_time": 1684246297,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125007,
+      "num": 390655,
+      "word": "女足精神激励了多少国人",
+      "onboard_time": 1684293270,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 123143,
@@ -915,14 +955,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 114187,
-      "num": 175613,
-      "word": "女足精神激励了多少国人",
-      "onboard_time": 1684293270,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 106582,
       "num": 113167,
       "word": "DRX冠军皮肤",
@@ -953,14 +985,6 @@
       "onboard_time": 1684242272,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 86402,
-      "num": 434707,
-      "word": "你被谁的戛纳造型美到",
-      "onboard_time": 1684292431,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 79113,
@@ -1001,6 +1025,14 @@
       "onboard_time": 1684253009,
       "rank": 28,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 51536,
+      "num": 1281809,
+      "word": "中国有约",
+      "onboard_time": 1684293571,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29237,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1684294435503,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2214711,
+        "num": 2214711,
+        "word": "宋慧乔韩素希不合作了",
+        "onboard_time": 1684291530,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1512294,
+        "num": 1512294,
+        "word": "李国庆向孟羽童道歉",
+        "onboard_time": 1684289789,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 51536,
+        "num": 1281809,
+        "word": "中国有约",
+        "onboard_time": 1684293571,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1159603,
+        "num": 1159603,
+        "word": "高中女生自发厕所内放卫生巾互助",
+        "onboard_time": 1684290867,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1014252,
+        "num": 1014252,
+        "word": "中国商人在泰被刺20余刀身亡",
+        "onboard_time": 1684291530,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 977303,
+        "num": 977303,
+        "word": "张雨绮脖子上戴了朵花",
+        "onboard_time": 1684283914,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 628352,
+        "num": 628352,
+        "word": "喜茶FENDI联名",
+        "onboard_time": 1684288652,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 945810,
+        "num": 625948,
+        "word": "程十安去戛纳红毯了",
+        "onboard_time": 1684290028,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 541047,
+        "num": 541047,
+        "word": "湖人vs掘金",
+        "onboard_time": 1684285231,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 534407,
+        "num": 534407,
+        "word": "蒋梦婕回应戛纳红毯造型",
+        "onboard_time": 1684290447,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1760821,
+        "num": 530554,
+        "word": "张卫健回应私生女传闻",
+        "onboard_time": 1684292370,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 855838,
+        "num": 525203,
+        "word": "Lisa刘亦菲赞达亚同框",
+        "onboard_time": 1684280726,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 751011,
+        "num": 517732,
+        "word": "北京警方通报一起校内学生伤人案",
+        "onboard_time": 1684294113,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 722953,
+        "num": 509972,
+        "word": "向佐现身夜店",
+        "onboard_time": 1684288652,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131635,
+        "num": 503869,
+        "word": "你被谁的戛纳造型美到",
+        "onboard_time": 1684292431,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 502097,
+        "num": 502097,
+        "word": "普通人裸辞后的真实状态",
+        "onboard_time": 1684291049,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 466648,
+        "num": 466648,
+        "word": "南太铉涉嫌吸毒被逮捕",
+        "onboard_time": 1684293873,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 411771,
+        "num": 411771,
+        "word": "温精灵道歉",
+        "onboard_time": 1684242336,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 390798,
+        "num": 390798,
+        "word": "易烊千玺法国晚宴侧拍",
+        "onboard_time": 1684293393,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125007,
+        "num": 390655,
+        "word": "女足精神激励了多少国人",
+        "onboard_time": 1684293270,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 777308,
+        "num": 390654,
+        "word": "我把公公的退休金搞没了",
+        "onboard_time": 1684291410,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 390639,
+        "num": 390639,
+        "word": "提完离职后公司突然倒闭了",
+        "onboard_time": 1684292551,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 383253,
+        "num": 383253,
+        "word": "笑果文化估值超40亿元",
+        "onboard_time": 1684287330,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 360674,
+        "num": 360674,
+        "word": "五月天演唱会黄牛票价格跌近万元",
+        "onboard_time": 1684248275,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 359714,
+        "num": 359714,
+        "word": "孟羽童图文广告报价至少15万一条",
+        "onboard_time": 1684285115,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 348671,
+        "num": 348671,
+        "word": "秦昊减肥法第3天差点把自己送走",
+        "onboard_time": 1684239452,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 314662,
+        "num": 314662,
+        "word": "关晓彤戛纳",
+        "onboard_time": 1684256303,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307859,
+        "num": 307859,
+        "word": "Lisa在逃公主",
+        "onboard_time": 1684289071,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 286801,
+        "num": 286801,
+        "word": "王鹤棣在海上干嘛",
+        "onboard_time": 1684290991,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283060,
+        "num": 283060,
+        "word": "直播带货525万其中495万为刷单",
+        "onboard_time": 1684290928,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263996,
+        "num": 263996,
+        "word": "王冕",
+        "onboard_time": 1684280366,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 259509,
+        "num": 259509,
+        "word": "香港碎尸名媛蔡天凤丈夫发声",
+        "onboard_time": 1684250615,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258716,
+        "num": 258716,
+        "word": "五旬男子将妻子奔驰车送小17岁情人",
+        "onboard_time": 1684292912,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258115,
+        "num": 258115,
+        "word": "唐艺昕脚腕纹身",
+        "onboard_time": 1684249174,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237450,
+        "num": 237450,
+        "word": "一艘中国籍远洋渔船在印度洋中部海域倾覆",
+        "onboard_time": 1684288351,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232865,
+        "num": 232865,
+        "word": "杨洋刘亦菲威尼斯同框",
+        "onboard_time": 1684284755,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 220017,
+        "num": 220017,
+        "word": "aespa跳了生命之树",
+        "onboard_time": 1684291711,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227421,
+        "num": 219176,
+        "word": "刘亦菲仙品侧颜",
+        "onboard_time": 1684279103,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 215449,
+        "num": 215449,
+        "word": "病人被医生遗忘在磁共振舱近三小时",
+        "onboard_time": 1684245813,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212934,
+        "num": 212934,
+        "word": "小女孩用仅有的1元钱买食物送拾荒老人",
+        "onboard_time": 1684292309,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205062,
+        "num": 205062,
+        "word": "戛纳红毯",
+        "onboard_time": 1684256481,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193621,
+        "num": 193621,
+        "word": "第一甲第一名状元卷有多强大",
+        "onboard_time": 1684259835,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176524,
+        "num": 176524,
+        "word": "寻找跪地救人的最美妈妈",
+        "onboard_time": 1684293752,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175022,
+        "num": 175022,
+        "word": "因为臭脸躲过了一次抢劫",
+        "onboard_time": 1684241013,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169292,
+        "num": 169292,
+        "word": "戛纳红毯还得看女明星",
+        "onboard_time": 1684251272,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159113,
+        "num": 159113,
+        "word": "苗苗称与郑恺住的房子是租的",
+        "onboard_time": 1684240592,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153776,
+        "num": 153776,
+        "word": "塞尔达 人和马都陷入了沉默",
+        "onboard_time": 1684292010,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148572,
+        "num": 148572,
+        "word": "孙俪瑜伽第一次自主起来了",
+        "onboard_time": 1684291227,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137377,
+        "num": 137377,
+        "word": "演唱会实名制是好事吗",
+        "onboard_time": 1684287269,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116767,
+        "num": 133530,
+        "word": "Deft女警回城逆风前行",
+        "onboard_time": 1684283431,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#四组关键词看中国—中亚峰会#"
+    }
+  }
+}
