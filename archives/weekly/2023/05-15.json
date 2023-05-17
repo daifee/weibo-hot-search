@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684319621544,
+  "endTime": 1684322043236,
   "band_list": [
     {
       "raw_hot": 9904433,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 1931383,
-      "num": 577699,
+      "num": 715655,
       "word": "张柏芝三胎儿子正脸",
       "onboard_time": 1684315714,
       "rank": 22,
@@ -331,6 +331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1766167,
+      "num": 781286,
+      "word": "今年出生的孩子 上学会非常宽松",
+      "onboard_time": 1684313312,
+      "rank": 10,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1752320,
       "num": 1752320,
       "word": "秦昊减肥法第3天差点把自己送走",
@@ -345,6 +353,14 @@
       "onboard_time": 1684207228,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1723651,
+      "num": 1723651,
+      "word": "笑果停止全国线下演出",
+      "onboard_time": 1684305991,
+      "rank": 10,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1719861,
@@ -377,14 +393,6 @@
       "onboard_time": 1684117887,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1676143,
-      "num": 570330,
-      "word": "今年出生的孩子 上学会非常宽松",
-      "onboard_time": 1684313312,
-      "rank": 10,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1674689,
@@ -433,14 +441,6 @@
       "onboard_time": 1684238549,
       "rank": 0,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1577316,
-      "num": 492713,
-      "word": "笑果停止全国线下演出",
-      "onboard_time": 1684305991,
-      "rank": 10,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1574227,
@@ -595,8 +595,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1324362,
-      "num": 1324362,
+      "raw_hot": 1334373,
+      "num": 1334373,
       "word": "刘亦菲Lisa撑伞神图",
       "onboard_time": 1684307610,
       "rank": 46,
@@ -1171,6 +1171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 788588,
+      "num": 788588,
+      "word": "戛纳为巩俐清场",
+      "onboard_time": 1684316971,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 770435,
       "num": 770435,
       "word": "QQ音乐",
@@ -1449,6 +1457,14 @@
       "onboard_time": 1684152089,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 631286,
+      "num": 631286,
+      "word": "景元",
+      "onboard_time": 1684319669,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 630899,
@@ -1771,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 495815,
+      "num": 334248,
+      "word": "这不是TFBOYS你们别看错了好吗",
+      "onboard_time": 1684320509,
+      "rank": 20,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 493379,
       "num": 377178,
       "word": "杨紫最近风格",
@@ -1896,14 +1920,6 @@
       "word": "看中医就没有隐私吗",
       "onboard_time": 1684067068,
       "rank": 14,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 466298,
-      "num": 466298,
-      "word": "戛纳为巩俐清场",
-      "onboard_time": 1684316971,
-      "rank": 20,
       "category": "影视"
     },
     {
@@ -2177,6 +2193,14 @@
       "onboard_time": 1684120291,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 415518,
+      "num": 415518,
+      "word": "护心",
+      "onboard_time": 1684235251,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 414183,
@@ -2715,6 +2739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 325596,
+      "num": 204686,
+      "word": "上海责令笑果深刻反省整改",
+      "onboard_time": 1684321590,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324912,
       "num": 324912,
       "word": "辽宁男篮抛起杨鸣",
@@ -2795,6 +2827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 314361,
+      "num": 1489526,
+      "word": "她带着奶奶29年的爱离世捐出遗体",
+      "onboard_time": 1684317033,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313372,
       "num": 313372,
       "word": "4岁男童在游乐园内遭男子连续暴摔",
@@ -2851,6 +2891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309715,
+      "num": 309715,
+      "word": "杨洋刘亦菲合照2015年VS2023年",
+      "onboard_time": 1684319374,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 308971,
       "num": 308971,
       "word": "Deft女警回城逆风前行",
@@ -2889,14 +2937,6 @@
       "onboard_time": 1684075590,
       "rank": 13,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 304830,
-      "num": 1489526,
-      "word": "她带着奶奶29年的爱离世捐出遗体",
-      "onboard_time": 1684317033,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 304131,
@@ -3211,19 +3251,19 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 272181,
-      "num": 272181,
-      "word": "护心",
-      "onboard_time": 1684235251,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 271260,
       "num": 271260,
       "word": "女生为81岁外婆拍百张治愈系照片",
       "onboard_time": 1684205188,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269860,
+      "num": 1333911,
+      "word": "汽车自燃10分钟内来了一群灭火侠",
+      "onboard_time": 1684317033,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -3379,14 +3419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 255711,
-      "num": 1333911,
-      "word": "汽车自燃10分钟内来了一群灭火侠",
-      "onboard_time": 1684317033,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 255120,
       "num": 255120,
       "word": "刘雯红色薄纱上衣",
@@ -3457,6 +3489,14 @@
       "onboard_time": 1684224210,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 251997,
+      "num": 251997,
+      "word": "朱一龙是枝裕和聊天",
+      "onboard_time": 1684318952,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 251142,
@@ -3795,6 +3835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224032,
+      "num": 224032,
+      "word": "爱吃榴莲和包子的都沉默了",
+      "onboard_time": 1684319498,
+      "rank": 47,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 223797,
       "num": 223797,
       "word": "大学宿舍让多少人迷失自我",
@@ -3963,6 +4011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214662,
+      "num": 214662,
+      "word": "简历不小心投到自己公司",
+      "onboard_time": 1684319909,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 214351,
       "num": 170086,
       "word": "蒋奇明FENDI",
@@ -4009,14 +4065,6 @@
       "onboard_time": 1684055966,
       "rank": 27,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 211825,
-      "num": 211825,
-      "word": "杨洋刘亦菲合照2015年VS2023年",
-      "onboard_time": 1684319374,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 211321,
@@ -4129,14 +4177,6 @@
       "onboard_time": 1684287509,
       "rank": 33,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 204636,
-      "num": 204636,
-      "word": "朱一龙是枝裕和聊天",
-      "onboard_time": 1684318952,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 204352,
@@ -5163,6 +5203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153393,
+      "num": 153393,
+      "word": "张若昀左手拿汉堡右手牵唐艺昕",
+      "onboard_time": 1684321949,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 153221,
       "num": 153221,
       "word": "NBA选秀抽签",
@@ -5449,14 +5497,6 @@
       "onboard_time": 1684252110,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 142497,
-      "num": 142497,
-      "word": "爱吃榴莲和包子的都沉默了",
-      "onboard_time": 1684319498,
-      "rank": 47,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 142477,

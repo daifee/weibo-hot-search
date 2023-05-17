@@ -1,6 +1,6 @@
 {
   "startTime": 1684254143599,
-  "endTime": 1684319621544,
+  "endTime": 1684322043236,
   "band_list": [
     {
       "raw_hot": 9904433,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1931383,
-      "num": 577699,
+      "num": 715655,
       "word": "张柏芝三胎儿子正脸",
       "onboard_time": 1684315714,
       "rank": 22,
@@ -123,20 +123,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1766167,
+      "num": 781286,
+      "word": "今年出生的孩子 上学会非常宽松",
+      "onboard_time": 1684313312,
+      "rank": 10,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1723651,
+      "num": 1723651,
+      "word": "笑果停止全国线下演出",
+      "onboard_time": 1684305991,
+      "rank": 10,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1714112,
       "num": 1714112,
       "word": "李国庆向孟羽童道歉",
       "onboard_time": 1684289789,
       "rank": 11,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1676143,
-      "num": 570330,
-      "word": "今年出生的孩子 上学会非常宽松",
-      "onboard_time": 1684313312,
-      "rank": 10,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1658865,
@@ -171,14 +179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1577316,
-      "num": 492713,
-      "word": "笑果停止全国线下演出",
-      "onboard_time": 1684305991,
-      "rank": 10,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 1437724,
       "num": 1437724,
       "word": "王一博赵丽颖 二搭",
@@ -195,8 +195,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1324362,
-      "num": 1324362,
+      "raw_hot": 1334373,
+      "num": 1334373,
       "word": "刘亦菲Lisa撑伞神图",
       "onboard_time": 1684307610,
       "rank": 46,
@@ -403,6 +403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 788588,
+      "num": 788588,
+      "word": "戛纳为巩俐清场",
+      "onboard_time": 1684316971,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 763720,
       "num": 763720,
       "word": "五月天演唱会黄牛票价格跌近万元",
@@ -473,6 +481,14 @@
       "onboard_time": 1684307729,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 631286,
+      "num": 631286,
+      "word": "景元",
+      "onboard_time": 1684319669,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 628854,
@@ -579,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 495815,
+      "num": 334248,
+      "word": "这不是TFBOYS你们别看错了好吗",
+      "onboard_time": 1684320509,
+      "rank": 20,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 493379,
       "num": 377178,
       "word": "杨紫最近风格",
@@ -617,14 +641,6 @@
       "onboard_time": 1684287330,
       "rank": 32,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 466298,
-      "num": 466298,
-      "word": "戛纳为巩俐清场",
-      "onboard_time": 1684316971,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 465739,
@@ -697,6 +713,14 @@
       "onboard_time": 1684310851,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415518,
+      "num": 415518,
+      "word": "护心",
+      "onboard_time": 1684235251,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 414183,
@@ -859,6 +883,14 @@
       "category": "科技,旅游"
     },
     {
+      "raw_hot": 325596,
+      "num": 204686,
+      "word": "上海责令笑果深刻反省整改",
+      "onboard_time": 1684321590,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320535,
       "num": 320535,
       "word": "戛纳",
@@ -883,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 314361,
+      "num": 1489526,
+      "word": "她带着奶奶29年的爱离世捐出遗体",
+      "onboard_time": 1684317033,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312656,
       "num": 312656,
       "word": "三太子精致生活的日常",
@@ -891,20 +931,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309715,
+      "num": 309715,
+      "word": "杨洋刘亦菲合照2015年VS2023年",
+      "onboard_time": 1684319374,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 308971,
       "num": 308971,
       "word": "Deft女警回城逆风前行",
       "onboard_time": 1684283431,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 304830,
-      "num": 1489526,
-      "word": "她带着奶奶29年的爱离世捐出遗体",
-      "onboard_time": 1684317033,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 304131,
@@ -1003,6 +1043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 269860,
+      "num": 1333911,
+      "word": "汽车自燃10分钟内来了一群灭火侠",
+      "onboard_time": 1684317033,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267393,
       "num": 265739,
       "word": "巩俐戛纳生图",
@@ -1051,14 +1099,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 255711,
-      "num": 1333911,
-      "word": "汽车自燃10分钟内来了一群灭火侠",
-      "onboard_time": 1684317033,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254927,
       "num": 188495,
       "word": "李莎旻子都快抡出火星子了",
@@ -1081,6 +1121,14 @@
       "onboard_time": 1684287269,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 251997,
+      "num": 251997,
+      "word": "朱一龙是枝裕和聊天",
+      "onboard_time": 1684318952,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 243000,
@@ -1155,6 +1203,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 224032,
+      "num": 224032,
+      "word": "爱吃榴莲和包子的都沉默了",
+      "onboard_time": 1684319498,
+      "rank": 47,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 223797,
       "num": 223797,
       "word": "大学宿舍让多少人迷失自我",
@@ -1179,20 +1235,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 214662,
+      "num": 214662,
+      "word": "简历不小心投到自己公司",
+      "onboard_time": 1684319909,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 212934,
       "num": 212934,
       "word": "小女孩用仅有的1元钱买食物送拾荒老人",
       "onboard_time": 1684292309,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211825,
-      "num": 211825,
-      "word": "杨洋刘亦菲合照2015年VS2023年",
-      "onboard_time": 1684319374,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 209452,
@@ -1225,14 +1281,6 @@
       "onboard_time": 1684238910,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 204636,
-      "num": 204636,
-      "word": "朱一龙是枝裕和聊天",
-      "onboard_time": 1684318952,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 202921,
@@ -1459,6 +1507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 153393,
+      "num": 153393,
+      "word": "张若昀左手拿汉堡右手牵唐艺昕",
+      "onboard_time": 1684321949,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 153221,
       "num": 153221,
       "word": "NBA选秀抽签",
@@ -1563,14 +1619,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 142497,
-      "num": 142497,
-      "word": "爱吃榴莲和包子的都沉默了",
-      "onboard_time": 1684319498,
-      "rank": 47,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 142345,
       "num": 142345,
       "word": "学长拿奶茶到军训场炫耀遭围攻",
@@ -1609,14 +1657,6 @@
       "onboard_time": 1684250854,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 130343,
-      "num": 119739,
-      "word": "护心",
-      "onboard_time": 1684235251,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 128518,
