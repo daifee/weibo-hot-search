@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684307742199,
+  "endTime": 1684308822502,
   "band_list": [
     {
       "raw_hot": 9904433,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 2386641,
-      "num": 238880,
+      "num": 256942,
       "word": "笑果和李昊石肆意篡改演出申报内容",
       "onboard_time": 1684307610,
       "rank": 31,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 1382950,
-      "num": 350686,
+      "num": 382011,
       "word": "笑果停止全国线下演出",
       "onboard_time": 1684305991,
       "rank": 10,
@@ -819,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1015475,
+      "num": 1015475,
+      "word": "德善他爹 爸爸也是头一次当爸爸",
+      "onboard_time": 1684302811,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1014252,
       "num": 1014252,
       "word": "中国商人在泰被刺20余刀身亡",
@@ -833,14 +841,6 @@
       "onboard_time": 1684144889,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 996062,
-      "num": 996062,
-      "word": "德善他爹 爸爸也是头一次当爸爸",
-      "onboard_time": 1684302811,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 994373,
@@ -1579,6 +1579,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 515457,
+      "num": 338137,
+      "word": "夫妻20元刮刮乐中40万激动到尖叫",
+      "onboard_time": 1684307068,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 513163,
       "num": 513163,
       "word": "ofo创始人戴威再次创业",
@@ -1644,7 +1652,7 @@
     },
     {
       "raw_hot": 493379,
-      "num": 305705,
+      "num": 335790,
       "word": "杨紫最近风格",
       "onboard_time": 1684306111,
       "rank": 20,
@@ -1681,6 +1689,14 @@
       "onboard_time": 1684151787,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 480134,
+      "num": 480134,
+      "word": "仙剑单机制作组 解散",
+      "onboard_time": 1684306111,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 479598,
@@ -1857,6 +1873,14 @@
       "onboard_time": 1684197210,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 444172,
+      "num": 372267,
+      "word": "韩素希对于合作泡汤并不知情",
+      "onboard_time": 1684307490,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 443320,
@@ -2075,6 +2099,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 398265,
+      "num": 322551,
+      "word": "脱口秀大会",
+      "onboard_time": 1684305812,
+      "rank": 28,
+      "category": "社会新闻,综艺"
+    },
+    {
       "raw_hot": 397492,
       "num": 397492,
       "word": "宋雨琦叶舒华贴贴",
@@ -2171,20 +2203,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 383644,
-      "num": 276509,
-      "word": "脱口秀大会",
-      "onboard_time": 1684305812,
-      "rank": 28,
-      "category": "社会新闻,综艺"
-    },
-    {
       "raw_hot": 382793,
       "num": 382793,
       "word": "戛纳 Kpop艺人",
       "onboard_time": 1684295373,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 377522,
+      "num": 329349,
+      "word": "刘亦菲Lisa撑伞神图",
+      "onboard_time": 1684307610,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 376040,
@@ -2259,6 +2291,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 364725,
+      "num": 364725,
+      "word": "屋顶着火出圈宋茜懵圈",
+      "onboard_time": 1684307729,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 362768,
       "num": 221589,
       "word": "王俊凯在回应哪个",
@@ -2312,14 +2352,6 @@
       "word": "WBG官宣主教练",
       "onboard_time": 1684214430,
       "rank": 27,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 353840,
-      "num": 353840,
-      "word": "仙剑单机制作组 解散",
-      "onboard_time": 1684306111,
-      "rank": 9,
       "category": "游戏"
     },
     {
@@ -2683,14 +2715,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 303489,
-      "num": 303489,
-      "word": "夫妻20元刮刮乐中40万激动到尖叫",
-      "onboard_time": 1684307068,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 302690,
       "num": 272957,
       "word": "年度最吸金本科专业出炉",
@@ -2832,6 +2856,14 @@
       "word": "2官员工作群发不雅信息均被双开",
       "onboard_time": 1684214070,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283446,
+      "num": 256008,
+      "word": "四川一副镇长胁迫他人妻子发生关系",
+      "onboard_time": 1684308329,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -3329,14 +3361,6 @@
       "onboard_time": 1684296874,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 240377,
-      "num": 240377,
-      "word": "韩素希对于合作泡汤并不知情",
-      "onboard_time": 1684307490,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 240109,
@@ -4099,6 +4123,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191149,
+      "num": 191149,
+      "word": "喊队友别哭的男孩今年夺冠了",
+      "onboard_time": 1684308750,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 191035,
+      "num": 191035,
+      "word": "巩俐气场",
+      "onboard_time": 1684306652,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190118,
       "num": 220886,
       "word": "游戏还原老年痴呆患者眼中的世界",
@@ -4251,12 +4291,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 182577,
-      "num": 182577,
-      "word": "巩俐气场",
-      "onboard_time": 1684306652,
-      "rank": 37,
-      "category": "影视"
+      "raw_hot": 182891,
+      "num": 182891,
+      "word": "芝芙不会亚洲蹲",
+      "onboard_time": 1684306351,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 182479,
@@ -4313,14 +4353,6 @@
       "onboard_time": 1684160491,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 180507,
-      "num": 180507,
-      "word": "芝芙不会亚洲蹲",
-      "onboard_time": 1684306351,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 180489,
@@ -4779,6 +4811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158398,
+      "num": 158398,
+      "word": "笑果被罚公司刚获北京演出许可",
+      "onboard_time": 1684308750,
+      "rank": 44,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 158255,
       "num": 158255,
       "word": "16岁喜欢的爱豆会影响一生",
@@ -4833,14 +4873,6 @@
       "onboard_time": 1684219588,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 153384,
-      "num": 153384,
-      "word": "刘亦菲Lisa撑伞神图",
-      "onboard_time": 1684307610,
-      "rank": 46,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 153221,
@@ -4961,14 +4993,6 @@
       "onboard_time": 1684107745,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148249,
-      "num": 148249,
-      "word": "屋顶着火出圈宋茜懵圈",
-      "onboard_time": 1684307729,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 147683,
@@ -5692,7 +5716,7 @@
     },
     {
       "raw_hot": 100693,
-      "num": 145938,
+      "num": 147810,
       "word": "第五人格",
       "onboard_time": 1684307068,
       "rank": 49,
