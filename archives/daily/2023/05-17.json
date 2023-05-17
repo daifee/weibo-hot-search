@@ -1,6 +1,6 @@
 {
   "startTime": 1684254143599,
-  "endTime": 1684327770166,
+  "endTime": 1684329608962,
   "band_list": [
     {
       "raw_hot": 9904433,
@@ -8,6 +8,14 @@
       "word": "笑果被罚",
       "onboard_time": 1684298498,
       "rank": 0,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 8813891,
+      "num": 8813891,
+      "word": "house被警方立案调查",
+      "onboard_time": 1684327348,
+      "rank": 3,
       "category": "社会新闻,艺人"
     },
     {
@@ -49,14 +57,6 @@
       "onboard_time": 1684303410,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2619440,
-      "num": 1179019,
-      "word": "house被警方立案调查",
-      "onboard_time": 1684327348,
-      "rank": 3,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2603588,
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1182574,
+      "num": 1182574,
+      "word": "情绪稳定 就是烦死了",
+      "onboard_time": 1684326027,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1159603,
       "num": 1159603,
       "word": "高中女生自发厕所内放卫生巾互助",
@@ -435,14 +443,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 787686,
-      "num": 787686,
-      "word": "情绪稳定 就是烦死了",
-      "onboard_time": 1684326027,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 763720,
       "num": 763720,
       "word": "五月天演唱会黄牛票价格跌近万元",
@@ -529,6 +529,14 @@
       "onboard_time": 1684284755,
       "rank": 13,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 619958,
+      "num": 619958,
+      "word": "AG挂牌8人",
+      "onboard_time": 1684327828,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 593469,
@@ -636,7 +644,7 @@
     },
     {
       "raw_hot": 495815,
-      "num": 353908,
+      "num": 363115,
       "word": "这不是TFBOYS你们别看错了好吗",
       "onboard_time": 1684320509,
       "rank": 20,
@@ -827,6 +835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 390559,
+      "num": 356638,
+      "word": "张若昀左手拿汉堡右手牵唐艺昕",
+      "onboard_time": 1684321949,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 390501,
       "num": 390501,
       "word": "刘亦菲仙品侧颜",
@@ -867,20 +883,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 375766,
-      "num": 310796,
-      "word": "张若昀左手拿汉堡右手牵唐艺昕",
-      "onboard_time": 1684321949,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 373596,
       "num": 249276,
       "word": "笑果被罚对脱口秀行业影响大吗",
       "onboard_time": 1684311396,
       "rank": 42,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 368716,
+      "num": 368716,
+      "word": "郑容和现身首都机场",
+      "onboard_time": 1684328131,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 368124,
@@ -905,6 +921,14 @@
       "onboard_time": 1684311818,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 346630,
+      "num": 346630,
+      "word": "成毅直播",
+      "onboard_time": 1684325309,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 345608,
@@ -1003,14 +1027,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 306296,
-      "num": 306296,
-      "word": "成毅直播",
-      "onboard_time": 1684325309,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 304131,
       "num": 304131,
       "word": "张若昀唐艺昕好嗑",
@@ -1033,6 +1049,14 @@
       "onboard_time": 1684290991,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296401,
+      "num": 296401,
+      "word": "王子奇告别你给我的喜欢",
+      "onboard_time": 1684325789,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 292599,
@@ -1227,14 +1251,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 246756,
-      "num": 246756,
-      "word": "王子奇告别你给我的喜欢",
-      "onboard_time": 1684325789,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 243000,
       "num": 243000,
       "word": "杨紫红裙高颅顶盘发造型",
@@ -1353,6 +1369,14 @@
       "onboard_time": 1684300957,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207304,
+      "num": 207304,
+      "word": "文俊辉教朴综星中文",
+      "onboard_time": 1684329155,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 207152,
@@ -1608,6 +1632,14 @@
       "word": "倪妮GUCCI",
       "onboard_time": 1684236029,
       "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 154019,
+      "num": 154019,
+      "word": "龚俊到达戛纳",
+      "onboard_time": 1684329271,
+      "rank": 49,
       "category": "作品衍生"
     },
     {
@@ -1921,6 +1953,14 @@
       "onboard_time": 1684293571,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74536,
+      "num": 1363437,
+      "word": "北斗为梦想导航",
+      "onboard_time": 1684327828,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 73828,
