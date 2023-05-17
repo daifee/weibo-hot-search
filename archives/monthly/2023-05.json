@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684329608962,
+  "endTime": 1684330421790,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -11,19 +11,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 10046058,
+      "num": 10046058,
+      "word": "house被警方立案调查",
+      "onboard_time": 1684327348,
+      "rank": 3,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 9904433,
       "num": 9904433,
       "word": "笑果被罚",
       "onboard_time": 1684298498,
       "rank": 0,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 8813891,
-      "num": 8813891,
-      "word": "house被警方立案调查",
-      "onboard_time": 1684327348,
-      "rank": 3,
       "category": "社会新闻,艺人"
     },
     {
@@ -4043,6 +4043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1183942,
+      "num": 1183942,
+      "word": "情绪稳定 就是烦死了",
+      "onboard_time": 1684326027,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1183713,
       "num": 1183713,
       "word": "虐猫群以爱猫做群名打掩护",
@@ -4073,14 +4081,6 @@
       "onboard_time": 1683381752,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1182574,
-      "num": 1182574,
-      "word": "情绪稳定 就是烦死了",
-      "onboard_time": 1684326027,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 1181137,
@@ -7923,6 +7923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 621228,
+      "num": 403410,
+      "word": "胡锡进",
+      "onboard_time": 1684204048,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 621084,
       "num": 621084,
       "word": "狗狗失踪7年后回家主人煮饺子庆团圆",
@@ -8057,14 +8065,6 @@
       "onboard_time": 1683990272,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 610075,
-      "num": 377332,
-      "word": "胡锡进",
-      "onboard_time": 1684204048,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 609808,
@@ -10036,7 +10036,7 @@
     },
     {
       "raw_hot": 495815,
-      "num": 363115,
+      "num": 376108,
       "word": "这不是TFBOYS你们别看错了好吗",
       "onboard_time": 1684320509,
       "rank": 20,
@@ -12851,6 +12851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 395819,
+      "num": 395819,
+      "word": "郑容和现身首都机场",
+      "onboard_time": 1684328131,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 395752,
       "num": 395752,
       "word": "原来44岁以下都是青年",
@@ -13020,7 +13028,7 @@
     },
     {
       "raw_hot": 390559,
-      "num": 356638,
+      "num": 369367,
       "word": "张若昀左手拿汉堡右手牵唐艺昕",
       "onboard_time": 1684321949,
       "rank": 49,
@@ -13817,14 +13825,6 @@
       "onboard_time": 1683261994,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 368716,
-      "num": 368716,
-      "word": "郑容和现身首都机场",
-      "onboard_time": 1684328131,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 368124,
@@ -15521,6 +15521,14 @@
       "onboard_time": 1684124070,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 333559,
+      "num": 333559,
+      "word": "TTG 挂牌",
+      "onboard_time": 1684329994,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 333531,
@@ -17441,6 +17449,14 @@
       "onboard_time": 1683429627,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 296185,
+      "num": 296185,
+      "word": "KPL 转会",
+      "onboard_time": 1684330176,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 296019,
@@ -23131,6 +23147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221435,
+      "num": 221435,
+      "word": "48岁交警被拖行700余米牺牲",
+      "onboard_time": 1684329994,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221414,
       "num": 221414,
       "word": "龚俊新剧",
@@ -24097,6 +24121,14 @@
       "onboard_time": 1684071991,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212630,
+      "num": 212630,
+      "word": "杨紫大波浪怼脸拍",
+      "onboard_time": 1684329756,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 212494,
@@ -25073,6 +25105,14 @@
       "onboard_time": 1684068328,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 202989,
+      "num": 202989,
+      "word": "龚俊到达戛纳",
+      "onboard_time": 1684329271,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202963,
@@ -27152,6 +27192,14 @@
       "word": "其实我才是被照顾的那个",
       "onboard_time": 1683906209,
       "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 184014,
+      "num": 184014,
+      "word": "过了二十岁血脉就开始觉醒了",
+      "onboard_time": 1684330413,
+      "rank": 45,
       "category": "情感"
     },
     {
@@ -30264,14 +30312,6 @@
       "word": "全圆佑肩宽58厘米",
       "onboard_time": 1683304464,
       "rank": 40,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 154019,
-      "num": 154019,
-      "word": "龚俊到达戛纳",
-      "onboard_time": 1684329271,
-      "rank": 49,
       "category": "作品衍生"
     },
     {
@@ -34811,8 +34851,8 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 74536,
-      "num": 1363437,
+      "raw_hot": 74650,
+      "num": 1500238,
       "word": "北斗为梦想导航",
       "onboard_time": 1684327828,
       "rank": 2,

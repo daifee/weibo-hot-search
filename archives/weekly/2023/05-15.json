@@ -1,21 +1,21 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684329608962,
+  "endTime": 1684330421790,
   "band_list": [
+    {
+      "raw_hot": 10046058,
+      "num": 10046058,
+      "word": "house被警方立案调查",
+      "onboard_time": 1684327348,
+      "rank": 3,
+      "category": "社会新闻,艺人"
+    },
     {
       "raw_hot": 9904433,
       "num": 9904433,
       "word": "笑果被罚",
       "onboard_time": 1684298498,
       "rank": 0,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 8813891,
-      "num": 8813891,
-      "word": "house被警方立案调查",
-      "onboard_time": 1684327348,
-      "rank": 3,
       "category": "社会新闻,艺人"
     },
     {
@@ -795,8 +795,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1182574,
-      "num": 1182574,
+      "raw_hot": 1183942,
+      "num": 1183942,
       "word": "情绪稳定 就是烦死了",
       "onboard_time": 1684326027,
       "rank": 19,
@@ -1531,20 +1531,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 621228,
+      "num": 403410,
+      "word": "胡锡进",
+      "onboard_time": 1684204048,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 619958,
       "num": 619958,
       "word": "AG挂牌8人",
       "onboard_time": 1684327828,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 610075,
-      "num": 377332,
-      "word": "胡锡进",
-      "onboard_time": 1684204048,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 606769,
@@ -1836,7 +1836,7 @@
     },
     {
       "raw_hot": 495815,
-      "num": 363115,
+      "num": 376108,
       "word": "这不是TFBOYS你们别看错了好吗",
       "onboard_time": 1684320509,
       "rank": 20,
@@ -2363,6 +2363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 395819,
+      "num": 395819,
+      "word": "郑容和现身首都机场",
+      "onboard_time": 1684328131,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 392715,
       "num": 392715,
       "word": "直播带货525万其中495万为刷单",
@@ -2388,7 +2396,7 @@
     },
     {
       "raw_hot": 390559,
-      "num": 356638,
+      "num": 369367,
       "word": "张若昀左手拿汉堡右手牵唐艺昕",
       "onboard_time": 1684321949,
       "rank": 49,
@@ -2521,14 +2529,6 @@
       "onboard_time": 1684199906,
       "rank": 42,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 368716,
-      "num": 368716,
-      "word": "郑容和现身首都机场",
-      "onboard_time": 1684328131,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 368124,
@@ -2753,6 +2753,14 @@
       "onboard_time": 1684124070,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 333559,
+      "num": 333559,
+      "word": "TTG 挂牌",
+      "onboard_time": 1684329994,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 333485,
@@ -3081,6 +3089,14 @@
       "onboard_time": 1684325789,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 296185,
+      "num": 296185,
+      "word": "KPL 转会",
+      "onboard_time": 1684330176,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 295076,
@@ -4011,6 +4027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221435,
+      "num": 221435,
+      "word": "48岁交警被拖行700余米牺牲",
+      "onboard_time": 1684329994,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221414,
       "num": 221414,
       "word": "龚俊新剧",
@@ -4171,6 +4195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212630,
+      "num": 212630,
+      "word": "杨紫大波浪怼脸拍",
+      "onboard_time": 1684329756,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 212493,
       "num": 158341,
       "word": "刘维说徐怀钰不是划水是不自信",
@@ -4313,6 +4345,14 @@
       "onboard_time": 1684142611,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202989,
+      "num": 202989,
+      "word": "龚俊到达戛纳",
+      "onboard_time": 1684329271,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202957,
@@ -4705,6 +4745,14 @@
       "onboard_time": 1684106484,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184014,
+      "num": 184014,
+      "word": "过了二十岁血脉就开始觉醒了",
+      "onboard_time": 1684330413,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 183842,
@@ -5329,14 +5377,6 @@
       "onboard_time": 1684219588,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 154019,
-      "num": 154019,
-      "word": "龚俊到达戛纳",
-      "onboard_time": 1684329271,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 153221,
@@ -6363,8 +6403,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74536,
-      "num": 1363437,
+      "raw_hot": 74650,
+      "num": 1500238,
       "word": "北斗为梦想导航",
       "onboard_time": 1684327828,
       "rank": 2,
