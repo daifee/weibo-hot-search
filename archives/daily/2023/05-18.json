@@ -1,6 +1,6 @@
 {
   "startTime": 1684340516423,
-  "endTime": 1684362806393,
+  "endTime": 1684365382395,
   "band_list": [
     {
       "raw_hot": 2541497,
@@ -27,20 +27,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1471617,
+      "num": 1471617,
+      "word": "笑果承认存在侥幸心理",
+      "onboard_time": 1684336112,
+      "rank": 5,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1107175,
       "num": 1107175,
       "word": "男子被女友怀疑出轨竟从12楼跳下",
       "onboard_time": 1684336829,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1020784,
-      "num": 1020784,
-      "word": "笑果承认存在侥幸心理",
-      "onboard_time": 1684336112,
-      "rank": 5,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 721804,
@@ -75,6 +75,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 481302,
+      "num": 481302,
+      "word": "house录音",
+      "onboard_time": 1684331915,
+      "rank": 16,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 461443,
       "num": 461443,
       "word": "韩素希说宋慧乔还是我的",
@@ -91,20 +99,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 427519,
-      "num": 309550,
-      "word": "house录音",
-      "onboard_time": 1684331915,
-      "rank": 16,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 372606,
       "num": 280118,
       "word": "最近四川人的手指甲都是黄的",
       "onboard_time": 1684338750,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 368426,
+      "num": 319097,
+      "word": "今年出生的孩子 上学会非常宽松",
+      "onboard_time": 1684313312,
+      "rank": 14,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 354911,
@@ -129,14 +137,6 @@
       "onboard_time": 1684331374,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 319097,
-      "num": 319097,
-      "word": "今年出生的孩子 上学会非常宽松",
-      "onboard_time": 1684313312,
-      "rank": 14,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 315789,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 286377,
-      "num": 183428,
+      "num": 246779,
       "word": "巴厘岛命案调查公布仍有疑点待解",
       "onboard_time": 1684338990,
       "rank": 30,
@@ -193,6 +193,14 @@
       "onboard_time": 1684329756,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 241629,
+      "num": 198872,
+      "word": "泰迪绝育3年仍跑宠物店门口叫嚣",
+      "onboard_time": 1684362617,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238051,
@@ -227,12 +235,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197649,
+      "num": 197649,
+      "word": "曼城4比0皇马",
+      "onboard_time": 1684365203,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188886,
       "num": 188886,
       "word": "这不是TFBOYS你们别看错了好吗",
       "onboard_time": 1684320509,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 186134,
+      "num": 186134,
+      "word": "孩子被迫成为家里的精神支柱",
+      "onboard_time": 1684354151,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 182482,
@@ -275,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160418,
+      "num": 160418,
+      "word": "女子帮闺蜜调解家庭矛盾出轨其丈夫",
+      "onboard_time": 1684364780,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148530,
       "num": 148530,
       "word": "武汉音乐节",
@@ -291,8 +323,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 141041,
-      "num": 141041,
+      "raw_hot": 147611,
+      "num": 88707,
+      "word": "巴西男子性侵未成年女儿遭妻子勒死",
+      "onboard_time": 1684364902,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146399,
+      "num": 146399,
       "word": "二阳症状比较轻",
       "onboard_time": 1684314271,
       "rank": 36,
@@ -379,6 +419,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 101098,
+      "num": 88381,
+      "word": "保洁阿姨偷师10年成版画家",
+      "onboard_time": 1684364659,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99340,
+      "num": 99340,
+      "word": "3岁女孩走失民警全城动员找父母",
+      "onboard_time": 1684342161,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96764,
       "num": 96764,
       "word": "宋智孝被公司拖欠9亿工资",
@@ -395,12 +451,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 91999,
-      "num": 91366,
-      "word": "孩子被迫成为家里的精神支柱",
-      "onboard_time": 1684354151,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 88743,
+      "num": 88743,
+      "word": "西安",
+      "onboard_time": 1684353792,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87279,
+      "num": 87279,
+      "word": "曼城晋级欧冠决赛",
+      "onboard_time": 1684364962,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 84744,
@@ -419,6 +483,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 81802,
+      "num": 81802,
+      "word": "江豚宝宝为了跃出江面有多努力",
+      "onboard_time": 1684345276,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78005,
+      "num": 78005,
+      "word": "95生一番男主剧豆瓣评分",
+      "onboard_time": 1684362016,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 71327,
       "num": 71327,
       "word": "浪姐矿工大赛",
@@ -427,44 +507,52 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 65873,
-      "num": 65873,
-      "word": "西安",
-      "onboard_time": 1684353792,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 70146,
+      "num": 70146,
+      "word": "萌兰小时候差点没把亲妈啃掉色",
+      "onboard_time": 1684364719,
+      "rank": 37,
+      "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 61656,
-      "num": 61656,
-      "word": "3岁女孩走失民警全城动员找父母",
-      "onboard_time": 1684342161,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60124,
-      "num": 60124,
+      "raw_hot": 69974,
+      "num": 69974,
       "word": "永远要保密的三件事",
       "onboard_time": 1684342462,
       "rank": 24,
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 56012,
-      "num": 56012,
+      "raw_hot": 67771,
+      "num": 67771,
+      "word": "热衷公益19岁小伙捐器官救5名患者",
+      "onboard_time": 1684365203,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63699,
+      "num": 63699,
+      "word": "金晨新剧里有王勉",
+      "onboard_time": 1684359433,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 61242,
+      "num": 61242,
       "word": "house是谁",
       "onboard_time": 1684332512,
       "rank": 46,
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 48591,
-      "num": 48591,
-      "word": "江豚宝宝为了跃出江面有多努力",
-      "onboard_time": 1684345276,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 59563,
+      "num": 59563,
+      "word": "戛纳红毯",
+      "onboard_time": 1684323748,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 47885,
@@ -483,24 +571,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 38186,
-      "num": 38186,
-      "word": "95生一番男主剧豆瓣评分",
-      "onboard_time": 1684362016,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 37565,
-      "num": 37565,
-      "word": "金晨新剧里有王勉",
-      "onboard_time": 1684359433,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 34193,
-      "num": 34193,
+      "raw_hot": 36389,
+      "num": 53403,
       "word": "绞肉机打出来的牛肉丸子",
       "onboard_time": 1684351693,
       "rank": 49,
@@ -523,7 +595,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31147,
+      "raw_hot": 31168,
       "num": 1596130,
       "word": "北斗为梦想导航",
       "onboard_time": 1684327828,
