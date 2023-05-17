@@ -1,6 +1,6 @@
 {
   "startTime": 1684254143599,
-  "endTime": 1684330421790,
+  "endTime": 1684332932938,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 2386641,
-      "num": 1469788,
+      "num": 1610035,
       "word": "笑果和李昊石肆意篡改演出申报内容",
       "onboard_time": 1684307610,
       "rank": 31,
@@ -347,12 +347,28 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1074367,
+      "num": 1074367,
+      "word": "泫雅说会来武汉音乐节",
+      "onboard_time": 1684331374,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1057276,
       "num": 1057276,
       "word": "印尼警方通报中国游客巴厘岛遇害案",
       "onboard_time": 1684310370,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1046816,
+      "num": 601786,
+      "word": "张若昀左手拿汉堡右手牵唐艺昕",
+      "onboard_time": 1684321949,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1027202,
@@ -377,6 +393,14 @@
       "onboard_time": 1684290028,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 956452,
+      "num": 595243,
+      "word": "胡锡进",
+      "onboard_time": 1684329697,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 948303,
@@ -451,6 +475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 744801,
+      "num": 744801,
+      "word": "韩素希说宋慧乔还是我的",
+      "onboard_time": 1684331793,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 738729,
       "num": 738729,
       "word": "孟羽童图文广告报价至少15万一条",
@@ -467,12 +499,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 729985,
+      "num": 729985,
+      "word": "武汉音乐节",
+      "onboard_time": 1684332036,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 701817,
       "num": 473779,
       "word": "月薪7000但学不到东西要离职吗",
       "onboard_time": 1684295672,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 700486,
+      "num": 700486,
+      "word": "48岁交警被拖行700余米牺牲",
+      "onboard_time": 1684329994,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 691581,
@@ -531,20 +579,28 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 621228,
-      "num": 403410,
-      "word": "胡锡进",
-      "onboard_time": 1684329697,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 619958,
       "num": 619958,
       "word": "AG挂牌8人",
       "onboard_time": 1684327828,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 605752,
+      "num": 469004,
+      "word": "杨紫大波浪怼脸拍",
+      "onboard_time": 1684329756,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 605256,
+      "num": 605256,
+      "word": "过了二十岁血脉就开始觉醒了",
+      "onboard_time": 1684330413,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 593469,
@@ -652,7 +708,7 @@
     },
     {
       "raw_hot": 495815,
-      "num": 376108,
+      "num": 393067,
       "word": "这不是TFBOYS你们别看错了好吗",
       "onboard_time": 1684320509,
       "rank": 20,
@@ -747,6 +803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 437797,
+      "num": 437797,
+      "word": "脱口秀",
+      "onboard_time": 1684331556,
+      "rank": 22,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 435427,
       "num": 435427,
       "word": "护心",
@@ -777,6 +841,14 @@
       "onboard_time": 1684310851,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419755,
+      "num": 419755,
+      "word": "清清 挂牌",
+      "onboard_time": 1684331672,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 414183,
@@ -851,14 +923,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 390559,
-      "num": 369367,
-      "word": "张若昀左手拿汉堡右手牵唐艺昕",
-      "onboard_time": 1684321949,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 390501,
       "num": 390501,
       "word": "刘亦菲仙品侧颜",
@@ -900,7 +964,7 @@
     },
     {
       "raw_hot": 373596,
-      "num": 249276,
+      "num": 358335,
       "word": "笑果被罚对脱口秀行业影响大吗",
       "onboard_time": 1684311396,
       "rank": 42,
@@ -955,8 +1019,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 333559,
-      "num": 333559,
+      "raw_hot": 334937,
+      "num": 334937,
       "word": "TTG 挂牌",
       "onboard_time": 1684329994,
       "rank": 24,
@@ -985,6 +1049,14 @@
       "onboard_time": 1684321590,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323669,
+      "num": 274936,
+      "word": "house录音",
+      "onboard_time": 1684331915,
+      "rank": 35,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 320535,
@@ -1081,6 +1153,14 @@
       "onboard_time": 1684330176,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 295934,
+      "num": 295934,
+      "word": "你给我的喜欢",
+      "onboard_time": 1684331194,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 292599,
@@ -1275,6 +1355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 247853,
+      "num": 247853,
+      "word": "速度与激情10",
+      "onboard_time": 1684252110,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 245331,
       "num": 245331,
       "word": "后浪",
@@ -1371,14 +1459,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 221435,
-      "num": 221435,
-      "word": "48岁交警被拖行700余米牺牲",
-      "onboard_time": 1684329994,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221280,
       "num": 221280,
       "word": "吴刚夸赵露思是特别有天赋的演员",
@@ -1401,14 +1481,6 @@
       "onboard_time": 1684292309,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212630,
-      "num": 212630,
-      "word": "杨紫大波浪怼脸拍",
-      "onboard_time": 1684329756,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 209452,
@@ -1555,12 +1627,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 184014,
-      "num": 184014,
-      "word": "过了二十岁血脉就开始觉醒了",
-      "onboard_time": 1684330413,
-      "rank": 45,
-      "category": "情感"
+      "raw_hot": 184163,
+      "num": 184163,
+      "word": "瓶子瓜田靠谱吗",
+      "onboard_time": 1684331915,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 182891,
@@ -1795,14 +1867,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 142571,
-      "num": 119862,
-      "word": "速度与激情10",
-      "onboard_time": 1684252110,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 142345,
       "num": 142345,
       "word": "学长拿奶茶到军训场炫耀遭围攻",
@@ -2012,7 +2076,7 @@
     },
     {
       "raw_hot": 74650,
-      "num": 1500238,
+      "num": 1627601,
       "word": "北斗为梦想导航",
       "onboard_time": 1684327828,
       "rank": 2,
@@ -2093,6 +2157,9 @@
     },
     {
       "word": "#习近平同托卡耶夫会谈#"
+    },
+    {
+      "word": "#中国—中亚峰会时光#"
     }
   ]
 }
