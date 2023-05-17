@@ -1,6 +1,6 @@
 {
   "startTime": 1684340516423,
-  "endTime": 1684354657764,
+  "endTime": 1684355631157,
   "band_list": [
     {
       "raw_hot": 2541497,
@@ -419,6 +419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 64583,
+      "num": 64583,
+      "word": "西安",
+      "onboard_time": 1684353792,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61656,
       "num": 61656,
       "word": "3岁女孩走失民警全城动员找父母",
@@ -441,14 +449,6 @@
       "onboard_time": 1684332512,
       "rank": 46,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 47832,
-      "num": 47832,
-      "word": "西安",
-      "onboard_time": 1684353792,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37609,
@@ -491,7 +491,15 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 13414,
+      "raw_hot": 15727,
+      "num": 15727,
+      "word": "吉娜说数数看Amber抡了多少圈",
+      "onboard_time": 1684354871,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 14733,
       "num": 17049,
       "word": "绞肉机打出来的牛肉丸子",
       "onboard_time": 1684351693,

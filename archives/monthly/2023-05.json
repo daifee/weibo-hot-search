@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684354657764,
+  "endTime": 1684355631157,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -35331,6 +35331,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 64583,
+      "num": 64583,
+      "word": "西安",
+      "onboard_time": 1684353792,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64547,
       "num": 64547,
       "word": "当给周杰伦配上勇气大爆发",
@@ -35752,14 +35760,6 @@
       "word": "光荣属于劳动者",
       "onboard_time": 1682948790,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47832,
-      "num": 47832,
-      "word": "西安",
-      "onboard_time": 1684353792,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -36427,6 +36427,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 15727,
+      "num": 15727,
+      "word": "吉娜说数数看Amber抡了多少圈",
+      "onboard_time": 1684354871,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 15606,
       "num": 20952,
       "word": "漫长的季节彩蛋",
@@ -36459,6 +36467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14733,
+      "num": 17049,
+      "word": "绞肉机打出来的牛肉丸子",
+      "onboard_time": 1684351693,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 14520,
       "num": 1043584,
       "word": "卫星视角下的花开中国太美了",
@@ -36473,14 +36489,6 @@
       "onboard_time": 1683141673,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 13414,
-      "num": 17049,
-      "word": "绞肉机打出来的牛肉丸子",
-      "onboard_time": 1684351693,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 13215,
