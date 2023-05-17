@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684355631157,
+  "endTime": 1684358074815,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -2739,6 +2739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354911,
+      "num": 354911,
+      "word": "曼城vs皇马",
+      "onboard_time": 1684312232,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 354458,
       "num": 354458,
       "word": "WBG官宣主教练",
@@ -3617,14 +3625,6 @@
       "onboard_time": 1684208369,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 265675,
-      "num": 265675,
-      "word": "曼城vs皇马",
-      "onboard_time": 1684312232,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 265180,
@@ -6763,6 +6763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47432,
+      "num": 47432,
+      "word": "劳塔罗破门",
+      "onboard_time": 1684357032,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43171,
       "num": 43171,
       "word": "这家里高低得摆两台共享单车吧",
@@ -6827,6 +6835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27056,
+      "num": 27056,
+      "word": "孩子被迫成为家里的精神支柱",
+      "onboard_time": 1684354151,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 26169,
       "num": 26169,
       "word": "喝牛奶的角色",
@@ -6867,28 +6883,28 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 15785,
-      "num": 1614544,
-      "word": "农忙时节的田野铺开了生机勃勃的画卷",
-      "onboard_time": 1684054285,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15727,
-      "num": 15727,
+      "raw_hot": 18314,
+      "num": 18314,
       "word": "吉娜说数数看Amber抡了多少圈",
       "onboard_time": 1684354871,
       "rank": 43,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 14733,
-      "num": 17049,
+      "raw_hot": 17537,
+      "num": 17537,
       "word": "绞肉机打出来的牛肉丸子",
       "onboard_time": 1684351693,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 15785,
+      "num": 1614544,
+      "word": "农忙时节的田野铺开了生机勃勃的画卷",
+      "onboard_time": 1684054285,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13215,

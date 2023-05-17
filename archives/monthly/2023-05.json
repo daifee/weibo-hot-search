@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684355631157,
+  "endTime": 1684358074815,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -14587,6 +14587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 354911,
+      "num": 354911,
+      "word": "曼城vs皇马",
+      "onboard_time": 1684312232,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 354581,
       "num": 354581,
       "word": "男孩在外吃饭主动打包三片土豆片",
@@ -19633,14 +19641,6 @@
       "onboard_time": 1683707312,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 265675,
-      "num": 265675,
-      "word": "曼城vs皇马",
-      "onboard_time": 1684312232,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 265646,
@@ -35771,6 +35771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47432,
+      "num": 47432,
+      "word": "劳塔罗破门",
+      "onboard_time": 1684357032,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47209,
       "num": 47209,
       "word": "早安没吃饱",
@@ -36251,6 +36259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27056,
+      "num": 27056,
+      "word": "孩子被迫成为家里的精神支柱",
+      "onboard_time": 1684354151,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 26169,
       "num": 26169,
       "word": "喝牛奶的角色",
@@ -36427,12 +36443,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 15727,
-      "num": 15727,
+      "raw_hot": 18314,
+      "num": 18314,
       "word": "吉娜说数数看Amber抡了多少圈",
       "onboard_time": 1684354871,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 17537,
+      "num": 17537,
+      "word": "绞肉机打出来的牛肉丸子",
+      "onboard_time": 1684351693,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 15606,
@@ -36465,14 +36489,6 @@
       "onboard_time": 1683060672,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 14733,
-      "num": 17049,
-      "word": "绞肉机打出来的牛肉丸子",
-      "onboard_time": 1684351693,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 14520,

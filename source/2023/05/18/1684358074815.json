@@ -1,0 +1,410 @@
+{
+  "runTime": 1684358074815,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 354911,
+        "num": 354911,
+        "word": "曼城vs皇马",
+        "onboard_time": 1684336355,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189024,
+        "num": 189024,
+        "word": "韩流真的来了吗",
+        "onboard_time": 1684335391,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 8654,
+        "num": 182611,
+        "word": "北斗为梦想导航",
+        "onboard_time": 1684327828,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 178798,
+        "num": 178798,
+        "word": "笑果承认存在侥幸心理",
+        "onboard_time": 1684336112,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 104737,
+        "num": 104737,
+        "word": "男子被女友怀疑出轨竟从12楼跳下",
+        "onboard_time": 1684336829,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81835,
+        "num": 81835,
+        "word": "48岁交警被拖行700余米牺牲",
+        "onboard_time": 1684329994,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88134,
+        "num": 79926,
+        "word": "house被警方立案调查",
+        "onboard_time": 1684327348,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 56441,
+        "num": 56441,
+        "word": "西安",
+        "onboard_time": 1684353792,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49249,
+        "num": 49249,
+        "word": "巴厘岛命案调查公布仍有疑点待解",
+        "onboard_time": 1684338990,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47432,
+        "num": 47432,
+        "word": "劳塔罗破门",
+        "onboard_time": 1684357032,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81535,
+        "num": 47371,
+        "word": "house录音",
+        "onboard_time": 1684331915,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 53253,
+        "num": 41628,
+        "word": "张若昀左手拿汉堡右手牵唐艺昕",
+        "onboard_time": 1684321949,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33707,
+        "num": 33707,
+        "word": "今年出生的孩子 上学会非常宽松",
+        "onboard_time": 1684313312,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 55562,
+        "num": 33608,
+        "word": "中演协要求对house进行从业抵制",
+        "onboard_time": 1684323988,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 32414,
+        "num": 32414,
+        "word": "韩素希说宋慧乔还是我的",
+        "onboard_time": 1684331793,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31450,
+        "num": 31450,
+        "word": "史某发布涉军人不当言论被行拘",
+        "onboard_time": 1684315772,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50936,
+        "num": 30602,
+        "word": "笑果和李昊石肆意篡改演出申报内容",
+        "onboard_time": 1684307610,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 27979,
+        "num": 27979,
+        "word": "郑容和现身首都机场",
+        "onboard_time": 1684328131,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27817,
+        "num": 27817,
+        "word": "张柏芝三胎儿子正脸",
+        "onboard_time": 1684315714,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29827,
+        "num": 27755,
+        "word": "上海暂停笑果文化在沪全部演出",
+        "onboard_time": 1684315050,
+        "rank": 19,
+        "category": "社会新闻,作品衍生"
+      },
+      {
+        "raw_hot": 38614,
+        "num": 27688,
+        "word": "最近四川人的手指甲都是黄的",
+        "onboard_time": 1684338750,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27056,
+        "num": 27056,
+        "word": "孩子被迫成为家里的精神支柱",
+        "onboard_time": 1684354151,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45581,
+        "num": 27024,
+        "word": "脱口秀行业会凉凉吗",
+        "onboard_time": 1684338808,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26771,
+        "num": 26771,
+        "word": "过了二十岁血脉就开始觉醒了",
+        "onboard_time": 1684330413,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29440,
+        "num": 26647,
+        "word": "笑果被罚",
+        "onboard_time": 1684298498,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 25824,
+        "num": 25824,
+        "word": "永远要保密的三件事",
+        "onboard_time": 1684342462,
+        "rank": 25,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 23317,
+        "num": 23317,
+        "word": "巴厘岛命案疑男子杀害女友后自杀",
+        "onboard_time": 1684309591,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27132,
+        "num": 23234,
+        "word": "笑果被罚对脱口秀行业影响大吗",
+        "onboard_time": 1684311396,
+        "rank": 27,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 23133,
+        "num": 23133,
+        "word": "武汉音乐节",
+        "onboard_time": 1684332036,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 23023,
+        "num": 23023,
+        "word": "二阳症状比较轻",
+        "onboard_time": 1684314271,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22096,
+        "num": 22096,
+        "word": "马嘉祺 声生不息总决赛",
+        "onboard_time": 1684334012,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21954,
+        "num": 21954,
+        "word": "house",
+        "onboard_time": 1684299759,
+        "rank": 31,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 21708,
+        "num": 21708,
+        "word": "浪姐矿工大赛",
+        "onboard_time": 1684345337,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21144,
+        "num": 21144,
+        "word": "杨紫大波浪怼脸拍",
+        "onboard_time": 1684329756,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20836,
+        "num": 20836,
+        "word": "侯明昊直播连麦周也",
+        "onboard_time": 1684335514,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20274,
+        "num": 20274,
+        "word": "house连续两场演出侮辱人民军队",
+        "onboard_time": 1684303952,
+        "rank": 35,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 19879,
+        "num": 19879,
+        "word": "3岁女孩走失民警全城动员找父母",
+        "onboard_time": 1684342161,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18314,
+        "num": 18314,
+        "word": "吉娜说数数看Amber抡了多少圈",
+        "onboard_time": 1684354871,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17912,
+        "num": 17912,
+        "word": "江豚宝宝为了跃出江面有多努力",
+        "onboard_time": 1684345276,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17755,
+        "num": 17755,
+        "word": "周柯宇今晚鲨疯了",
+        "onboard_time": 1684337130,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 17537,
+        "num": 17537,
+        "word": "绞肉机打出来的牛肉丸子",
+        "onboard_time": 1684351693,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 16983,
+        "num": 16983,
+        "word": "AG挂牌8人",
+        "onboard_time": 1684327828,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16839,
+        "num": 16839,
+        "word": "house是谁",
+        "onboard_time": 1684332512,
+        "rank": 42,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 16044,
+        "num": 16834,
+        "word": "泫雅说会来武汉音乐节",
+        "onboard_time": 1684331374,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 15395,
+        "num": 16820,
+        "word": "清清 挂牌",
+        "onboard_time": 1684331672,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15340,
+        "num": 16815,
+        "word": "周也直播",
+        "onboard_time": 1684334432,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15139,
+        "num": 16810,
+        "word": "方灿道歉",
+        "onboard_time": 1684324829,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15081,
+        "num": 16793,
+        "word": "上海责令笑果深刻反省整改",
+        "onboard_time": 1684321590,
+        "rank": 47,
+        "category": "社会新闻,作品衍生"
+      },
+      {
+        "raw_hot": 13460,
+        "num": 16789,
+        "word": "情绪稳定 就是烦死了",
+        "onboard_time": 1684326027,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12589,
+        "num": 16773,
+        "word": "护心",
+        "onboard_time": 1684320509,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同托卡耶夫会谈#"
+    }
+  }
+}

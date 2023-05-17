@@ -1,6 +1,6 @@
 {
   "startTime": 1684340516423,
-  "endTime": 1684355631157,
+  "endTime": 1684358074815,
   "band_list": [
     {
       "raw_hot": 2541497,
@@ -105,6 +105,14 @@
       "onboard_time": 1684338750,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354911,
+      "num": 354911,
+      "word": "曼城vs皇马",
+      "onboard_time": 1684336355,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 344022,
@@ -233,14 +241,6 @@
       "onboard_time": 1684334432,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 181150,
-      "num": 181150,
-      "word": "曼城vs皇马",
-      "onboard_time": 1684336355,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 178039,
@@ -451,6 +451,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 47432,
+      "num": 47432,
+      "word": "劳塔罗破门",
+      "onboard_time": 1684357032,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37609,
       "num": 37609,
       "word": "江豚宝宝为了跃出江面有多努力",
@@ -483,6 +491,14 @@
       "category": "社会新闻,作品衍生"
     },
     {
+      "raw_hot": 27056,
+      "num": 27056,
+      "word": "孩子被迫成为家里的精神支柱",
+      "onboard_time": 1684354151,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 26687,
       "num": 24590,
       "word": "house",
@@ -491,16 +507,16 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 15727,
-      "num": 15727,
+      "raw_hot": 18314,
+      "num": 18314,
       "word": "吉娜说数数看Amber抡了多少圈",
       "onboard_time": 1684354871,
       "rank": 43,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 14733,
-      "num": 17049,
+      "raw_hot": 17537,
+      "num": 17537,
       "word": "绞肉机打出来的牛肉丸子",
       "onboard_time": 1684351693,
       "rank": 49,
