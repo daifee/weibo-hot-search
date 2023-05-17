@@ -1,6 +1,6 @@
 {
   "startTime": 1684254143599,
-  "endTime": 1684308822502,
+  "endTime": 1684311678531,
   "band_list": [
     {
       "raw_hot": 9904433,
@@ -9,6 +9,14 @@
       "onboard_time": 1684298498,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 7902810,
+      "num": 7902810,
+      "word": "巴厘岛命案疑男子杀害女友后自杀",
+      "onboard_time": 1684309591,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3969690,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 2386641,
-      "num": 256942,
+      "num": 444061,
       "word": "笑果和李昊石肆意篡改演出申报内容",
       "onboard_time": 1684307610,
       "rank": 31,
@@ -131,20 +139,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1577316,
+      "num": 492713,
+      "word": "笑果停止全国线下演出",
+      "onboard_time": 1684305991,
+      "rank": 10,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1437724,
       "num": 1437724,
       "word": "王一博赵丽颖 二搭",
       "onboard_time": 1684286370,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1382950,
-      "num": 382011,
-      "word": "笑果停止全国线下演出",
-      "onboard_time": 1684305991,
-      "rank": 10,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1372668,
@@ -168,6 +176,14 @@
       "word": "香港碎尸名媛蔡天凤丈夫发声",
       "onboard_time": 1684250615,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1244626,
+      "num": 1244626,
+      "word": "四川一副镇长胁迫他人妻子发生关系",
+      "onboard_time": 1684308329,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -233,6 +249,14 @@
       "onboard_time": 1684293873,
       "rank": 16,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1057276,
+      "num": 1057276,
+      "word": "印尼警方通报中国游客巴厘岛遇害案",
+      "onboard_time": 1684310370,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1015475,
@@ -371,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 649696,
+      "num": 649696,
+      "word": "屋顶着火出圈宋茜懵圈",
+      "onboard_time": 1684307729,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 628854,
       "num": 581378,
       "word": "杨洋刘亦菲威尼斯同框",
@@ -403,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 541547,
+      "num": 385119,
+      "word": "刘亦菲Lisa撑伞神图",
+      "onboard_time": 1684307610,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 541047,
       "num": 541047,
       "word": "湖人vs掘金",
@@ -428,7 +468,7 @@
     },
     {
       "raw_hot": 515457,
-      "num": 338137,
+      "num": 382540,
       "word": "夫妻20元刮刮乐中40万激动到尖叫",
       "onboard_time": 1684307068,
       "rank": 24,
@@ -460,7 +500,7 @@
     },
     {
       "raw_hot": 493379,
-      "num": 335790,
+      "num": 377178,
       "word": "杨紫最近风格",
       "onboard_time": 1684306111,
       "rank": 20,
@@ -473,6 +513,14 @@
       "onboard_time": 1684306111,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 474182,
+      "num": 392046,
+      "word": "北京警方通报学校内伤人案",
+      "onboard_time": 1684310070,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 473270,
@@ -524,7 +572,7 @@
     },
     {
       "raw_hot": 444172,
-      "num": 372267,
+      "num": 431536,
       "word": "韩素希对于合作泡汤并不知情",
       "onboard_time": 1684307490,
       "rank": 30,
@@ -539,12 +587,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 424997,
+      "num": 424997,
+      "word": "印尼警方称巴厘岛命案不存在第三人",
+      "onboard_time": 1684310851,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414183,
       "num": 350363,
       "word": "戛纳红毯还得看女明星",
       "onboard_time": 1684251272,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 411122,
+      "num": 376966,
+      "word": "韩国人有自己的Ella",
+      "onboard_time": 1684310428,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 410388,
@@ -635,14 +699,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 377522,
-      "num": 329349,
-      "word": "刘亦菲Lisa撑伞神图",
-      "onboard_time": 1684307610,
-      "rank": 46,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 368124,
       "num": 368124,
       "word": "男孩晚9点前练钢琴爸爸加棉被隔音",
@@ -651,19 +707,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 364725,
-      "num": 364725,
-      "word": "屋顶着火出圈宋茜懵圈",
-      "onboard_time": 1684307729,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 353453,
       "num": 353453,
       "word": "第一甲第一名状元卷有多强大",
       "onboard_time": 1684259835,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340033,
+      "num": 340033,
+      "word": "巴厘岛",
+      "onboard_time": 1684309651,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -779,14 +835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 283446,
-      "num": 256008,
-      "word": "四川一副镇长胁迫他人妻子发生关系",
-      "onboard_time": 1684308329,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 281472,
       "num": 281472,
       "word": "谁给金子涵做的妆造",
@@ -801,6 +849,14 @@
       "onboard_time": 1684244856,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 269868,
+      "num": 269868,
+      "word": "三太子精致生活的日常",
+      "onboard_time": 1684309290,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267393,
@@ -905,6 +961,14 @@
       "onboard_time": 1684285171,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234464,
+      "num": 234464,
+      "word": "朱一龙麦斯米科尔森同框",
+      "onboard_time": 1684310733,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 234188,
@@ -1051,6 +1115,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 184988,
+      "num": 184988,
+      "word": "笑果被罚对脱口秀行业影响大吗",
+      "onboard_time": 1684311396,
+      "rank": 42,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 182891,
       "num": 182891,
       "word": "芝芙不会亚洲蹲",
@@ -1065,6 +1137,14 @@
       "onboard_time": 1684289071,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180593,
+      "num": 180593,
+      "word": "UP官宣Baolan离队",
+      "onboard_time": 1684311099,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 180489,
@@ -1091,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178228,
+      "num": 178228,
+      "word": "街舞6拟邀队长",
+      "onboard_time": 1684311158,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177555,
       "num": 177555,
       "word": "孙俪瑜伽第一次自主起来了",
@@ -1105,6 +1193,14 @@
       "onboard_time": 1684293752,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175562,
+      "num": 175562,
+      "word": "把BLACKPINK的solo连起来看",
+      "onboard_time": 1684311274,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 172614,
@@ -1179,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152290,
+      "num": 152290,
+      "word": "反诈民警一句话帮女子保住200万",
+      "onboard_time": 1684310428,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152169,
       "num": 129327,
       "word": "王一博赛车图",
@@ -1225,6 +1329,14 @@
       "onboard_time": 1684240350,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 147925,
+      "num": 147925,
+      "word": "三大平台暑期档电视剧",
+      "onboard_time": 1684305091,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 145619,
@@ -1361,14 +1473,6 @@
       "onboard_time": 1684235251,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 118053,
-      "num": 118053,
-      "word": "三大平台暑期档电视剧",
-      "onboard_time": 1684305091,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 117653,
@@ -1516,6 +1620,9 @@
     },
     {
       "word": "#关注2023中国中亚五国峰会#"
+    },
+    {
+      "word": "#北斗为梦想导航#"
     }
   ]
 }
