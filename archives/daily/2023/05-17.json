@@ -1,6 +1,6 @@
 {
   "startTime": 1684254143599,
-  "endTime": 1684280008614,
+  "endTime": 1684286717309,
   "band_list": [
     {
       "raw_hot": 2021463,
@@ -11,12 +11,36 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1816631,
+      "num": 1816631,
+      "word": "Lisa刘亦菲赞达亚同框",
+      "onboard_time": 1684280726,
+      "rank": 0,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1641832,
+      "num": 1641832,
+      "word": "关晓彤戛纳",
+      "onboard_time": 1684256303,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1281357,
       "num": 1281357,
       "word": "香港碎尸名媛蔡天凤丈夫发声",
       "onboard_time": 1684250615,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1201558,
+      "num": 1201558,
+      "word": "因为臭脸躲过了一次抢劫",
+      "onboard_time": 1684241013,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 1128973,
@@ -43,12 +67,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 883222,
+      "num": 883222,
+      "word": "王冕",
+      "onboard_time": 1684280366,
+      "rank": 5,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 823033,
       "num": 823033,
       "word": "病人被医生遗忘在磁共振舱近三小时",
       "onboard_time": 1684245813,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 763720,
+      "num": 763720,
+      "word": "五月天演唱会黄牛票价格跌近万元",
+      "onboard_time": 1684248275,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 734347,
+      "num": 734347,
+      "word": "地铁上最让人反感的行为",
+      "onboard_time": 1684281267,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 651526,
@@ -59,20 +107,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 616161,
-      "num": 616161,
-      "word": "五月天演唱会黄牛票价格跌近万元",
-      "onboard_time": 1684248275,
-      "rank": 4,
-      "category": "音乐"
+      "raw_hot": 591689,
+      "num": 591689,
+      "word": "张雨绮脖子上戴了朵花",
+      "onboard_time": 1684283914,
+      "rank": 12,
+      "category": "影视"
     },
     {
-      "raw_hot": 615104,
-      "num": 615104,
-      "word": "关晓彤戛纳",
-      "onboard_time": 1684256303,
-      "rank": 20,
-      "category": "影视"
+      "raw_hot": 581378,
+      "num": 581378,
+      "word": "杨洋刘亦菲威尼斯同框",
+      "onboard_time": 1684284755,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 580388,
@@ -81,6 +129,38 @@
       "onboard_time": 1684239452,
       "rank": 5,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 556660,
+      "num": 556660,
+      "word": "凶手与女被害人网络相识遭拒绝后疯狂杀人",
+      "onboard_time": 1684279764,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 531831,
+      "num": 531831,
+      "word": "孟羽童图文广告报价至少15万一条",
+      "onboard_time": 1684285115,
+      "rank": 16,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 521631,
+      "num": 521631,
+      "word": "在中国月入5000元是什么水平",
+      "onboard_time": 1684284214,
+      "rank": 17,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 518231,
+      "num": 518231,
+      "word": "马刺抽中状元签",
+      "onboard_time": 1684283734,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 507411,
@@ -96,6 +176,14 @@
       "word": "月初和月底发工资有什么区别",
       "onboard_time": 1684248218,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 455164,
+      "num": 455164,
+      "word": "董明珠曾称孟羽童拒绝两年内加薪",
+      "onboard_time": 1684243055,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -115,6 +203,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 407829,
+      "num": 407829,
+      "word": "戛纳红毯的中国明星生图",
+      "onboard_time": 1684284632,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 390501,
+      "num": 390501,
+      "word": "刘亦菲仙品侧颜",
+      "onboard_time": 1684279103,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 385707,
       "num": 385707,
       "word": "程十安澄清",
@@ -131,11 +235,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 339872,
-      "num": 339872,
-      "word": "董明珠曾称孟羽童拒绝两年内加薪",
-      "onboard_time": 1684243055,
-      "rank": 9,
+      "raw_hot": 353453,
+      "num": 353453,
+      "word": "第一甲第一名状元卷有多强大",
+      "onboard_time": 1684259835,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -155,12 +259,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 297680,
-      "num": 187935,
-      "word": "第一甲第一名状元卷有多强大",
-      "onboard_time": 1684259835,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 310324,
+      "num": 310324,
+      "word": "湖人vs掘金",
+      "onboard_time": 1684285231,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 308971,
+      "num": 308971,
+      "word": "Deft女警回城逆风前行",
+      "onboard_time": 1684283431,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 304131,
+      "num": 304131,
+      "word": "张若昀唐艺昕好嗑",
+      "onboard_time": 1684280247,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 292599,
@@ -179,20 +299,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290686,
+      "num": 290686,
+      "word": "为什么有的人不接受单休",
+      "onboard_time": 1684281992,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 286489,
       "num": 286489,
       "word": "TFBOYS恭喜易烊千玺",
       "onboard_time": 1684230450,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 285613,
-      "num": 285613,
-      "word": "因为臭脸躲过了一次抢劫",
-      "onboard_time": 1684241013,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 281472,
@@ -209,14 +329,6 @@
       "onboard_time": 1684244856,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 268037,
-      "num": 268037,
-      "word": "刘亦菲仙品侧颜",
-      "onboard_time": 1684279103,
-      "rank": 14,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 267393,
@@ -243,6 +355,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 258427,
+      "num": 258427,
+      "word": "主人误以为金毛把小鸡吃了",
+      "onboard_time": 1684278141,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257321,
+      "num": 257321,
+      "word": "王一博赵丽颖 二搭",
+      "onboard_time": 1684286370,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254927,
       "num": 188495,
       "word": "李莎旻子都快抡出火星子了",
@@ -251,20 +379,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 244039,
-      "num": 187443,
-      "word": "主人误以为金毛把小鸡吃了",
-      "onboard_time": 1684278141,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237595,
       "num": 109904,
       "word": "朱一龙亮相戛纳红毯",
       "onboard_time": 1684256123,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 236661,
+      "num": 236661,
+      "word": "小学生上学途中顺手扶起倒地单车",
+      "onboard_time": 1684285171,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234188,
@@ -299,6 +427,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 198668,
+      "num": 198668,
+      "word": "吴刚夸赵露思是特别有天赋的演员",
+      "onboard_time": 1684286551,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 197968,
+      "num": 197968,
+      "word": "恩施网红浮桥车辆落水施救者发声",
+      "onboard_time": 1684274415,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192518,
       "num": 186833,
       "word": "欧冠",
@@ -321,6 +465,14 @@
       "onboard_time": 1684243899,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 180424,
+      "num": 180424,
+      "word": "临盆孕妇遇早高峰铁骑怒吼开道",
+      "onboard_time": 1684253727,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179228,
@@ -347,11 +499,11 @@
       "category": "网红"
     },
     {
-      "raw_hot": 157607,
-      "num": 157607,
-      "word": "临盆孕妇遇早高峰铁骑怒吼开道",
-      "onboard_time": 1684253727,
-      "rank": 24,
+      "raw_hot": 161915,
+      "num": 161915,
+      "word": "广东妈妈岗工资开到12000元",
+      "onboard_time": 1684256361,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -363,12 +515,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 153253,
-      "num": 153253,
-      "word": "恩施网红浮桥车辆落水施救者发声",
-      "onboard_time": 1684274415,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 153221,
+      "num": 153221,
+      "word": "NBA选秀抽签",
+      "onboard_time": 1684283672,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 152169,
@@ -411,12 +563,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 146600,
-      "num": 144462,
-      "word": "广东妈妈岗工资开到12000元",
-      "onboard_time": 1684256361,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 145619,
+      "num": 145619,
+      "word": "宝格丽活动",
+      "onboard_time": 1684281691,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 142571,
@@ -515,6 +667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106582,
+      "num": 106582,
+      "word": "DRX冠军皮肤",
+      "onboard_time": 1684281627,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 105314,
       "num": 105314,
       "word": "平凡之路父亲出轨道德绑架女儿",
@@ -537,14 +697,6 @@
       "onboard_time": 1684242272,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 80831,
-      "num": 80831,
-      "word": "凶手与女被害人网络相识遭拒绝后疯狂杀人",
-      "onboard_time": 1684279764,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79113,
@@ -595,8 +747,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 15512,
-      "num": 1052861,
+      "raw_hot": 22479,
+      "num": 1318697,
       "word": "经济运行延续恢复向好态势",
       "onboard_time": 1684224210,
       "rank": 2,
