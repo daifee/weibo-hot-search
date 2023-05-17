@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684323214803,
+  "endTime": 1684326807762,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -97,6 +97,14 @@
       "onboard_time": 1683694599,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4216826,
+      "num": 4216826,
+      "word": "中演协要求对house进行从业抵制",
+      "onboard_time": 1684323988,
+      "rank": 0,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 4066324,
@@ -1185,6 +1193,14 @@
       "onboard_time": 1683101370,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2136201,
+      "num": 2136201,
+      "word": "方灿道歉",
+      "onboard_time": 1684324829,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2126803,
@@ -4539,6 +4555,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1079896,
+      "num": 1079896,
+      "word": "戛纳为巩俐清场",
+      "onboard_time": 1684316971,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1079555,
       "num": 1079555,
       "word": "王子奇王玉雯",
@@ -4665,14 +4689,6 @@
       "onboard_time": 1684022482,
       "rank": 6,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1058393,
-      "num": 1058393,
-      "word": "戛纳为巩俐清场",
-      "onboard_time": 1684316971,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 1057769,
@@ -11091,6 +11107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 448840,
+      "num": 448840,
+      "word": "宁安如梦或将空降",
+      "onboard_time": 1684325729,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 448706,
       "num": 448706,
       "word": "吕梁",
@@ -13588,7 +13612,7 @@
     },
     {
       "raw_hot": 373596,
-      "num": 244026,
+      "num": 249276,
       "word": "笑果被罚对脱口秀行业影响大吗",
       "onboard_time": 1684311396,
       "rank": 42,
@@ -13633,6 +13657,14 @@
       "onboard_time": 1683129689,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 372652,
+      "num": 288914,
+      "word": "张若昀左手拿汉堡右手牵唐艺昕",
+      "onboard_time": 1684321949,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 372501,
@@ -16915,6 +16947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 303385,
+      "num": 303385,
+      "word": "情绪稳定 就是烦死了",
+      "onboard_time": 1684326027,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 303251,
       "num": 303251,
       "word": "王鹤棣说好看的人也要好好演戏",
@@ -18113,6 +18153,14 @@
       "onboard_time": 1683169168,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284764,
+      "num": 284764,
+      "word": "你给我的喜欢收官",
+      "onboard_time": 1684325368,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 284719,
@@ -19555,14 +19603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 262788,
-      "num": 262788,
-      "word": "张若昀左手拿汉堡右手牵唐艺昕",
-      "onboard_time": 1684321949,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 262491,
       "num": 262491,
       "word": "范伟是张起灵的可能性",
@@ -20721,6 +20761,14 @@
       "onboard_time": 1683020547,
       "rank": 6,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 248194,
+      "num": 248194,
+      "word": "星穹铁道被氪爆了",
+      "onboard_time": 1684322786,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 248114,
@@ -22171,6 +22219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 232464,
+      "num": 232464,
+      "word": "成毅直播",
+      "onboard_time": 1684325309,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232394,
       "num": 214697,
       "word": "易梦玲直播体态",
@@ -22697,6 +22753,14 @@
       "onboard_time": 1682935408,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 226381,
+      "num": 226381,
+      "word": "久酷受伤",
+      "onboard_time": 1684325909,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 226324,
@@ -26859,6 +26923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186359,
+      "num": 186359,
+      "word": "王子奇告别你给我的喜欢",
+      "onboard_time": 1684325789,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186320,
       "num": 187072,
       "word": "强制报告",
@@ -28313,14 +28385,6 @@
       "onboard_time": 1683536191,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 173474,
-      "num": 173474,
-      "word": "星穹铁道被氪爆了",
-      "onboard_time": 1684322786,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 173382,
@@ -32323,6 +32387,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 129408,
+      "num": 172485,
+      "word": "星穹铁道景元",
+      "onboard_time": 1683956010,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129390,
       "num": 129390,
       "word": "不良人一盘棋下了两年",
@@ -32337,14 +32409,6 @@
       "onboard_time": 1683377069,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129343,
-      "num": 172485,
-      "word": "星穹铁道景元",
-      "onboard_time": 1683956010,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 129292,

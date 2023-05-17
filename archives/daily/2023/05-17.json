@@ -1,6 +1,6 @@
 {
   "startTime": 1684254143599,
-  "endTime": 1684323214803,
+  "endTime": 1684326807762,
   "band_list": [
     {
       "raw_hot": 9904433,
@@ -17,6 +17,14 @@
       "onboard_time": 1684309591,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4216826,
+      "num": 4216826,
+      "word": "中演协要求对house进行从业抵制",
+      "onboard_time": 1684323988,
+      "rank": 0,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 3969690,
@@ -88,6 +96,14 @@
       "word": "张卫健回应私生女传闻",
       "onboard_time": 1684292370,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2136201,
+      "num": 2136201,
+      "word": "方灿道歉",
+      "onboard_time": 1684324829,
+      "rank": 1,
       "category": "艺人"
     },
     {
@@ -299,20 +315,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1079896,
+      "num": 1079896,
+      "word": "戛纳为巩俐清场",
+      "onboard_time": 1684316971,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1076551,
       "num": 1076551,
       "word": "南太铉涉嫌吸毒被逮捕",
       "onboard_time": 1684293873,
       "rank": 16,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1058393,
-      "num": 1058393,
-      "word": "戛纳为巩俐清场",
-      "onboard_time": 1684316971,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 1057276,
@@ -675,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 448840,
+      "num": 448840,
+      "word": "宁安如梦或将空降",
+      "onboard_time": 1684325729,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 447815,
       "num": 447815,
       "word": "张杰演唱会门票",
@@ -828,11 +852,19 @@
     },
     {
       "raw_hot": 373596,
-      "num": 244026,
+      "num": 249276,
       "word": "笑果被罚对脱口秀行业影响大吗",
       "onboard_time": 1684311396,
       "rank": 42,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 372652,
+      "num": 288914,
+      "word": "张若昀左手拿汉堡右手牵唐艺昕",
+      "onboard_time": 1684321949,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 368124,
@@ -955,6 +987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 303385,
+      "num": 303385,
+      "word": "情绪稳定 就是烦死了",
+      "onboard_time": 1684326027,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 299904,
       "num": 299904,
       "word": "掘金1比0湖人",
@@ -1027,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284764,
+      "num": 284764,
+      "word": "你给我的喜欢收官",
+      "onboard_time": 1684325368,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 281472,
       "num": 281472,
       "word": "谁给金子涵做的妆造",
@@ -1080,14 +1128,6 @@
       "word": "张歆艺太瘦了",
       "onboard_time": 1684248036,
       "rank": 21,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 262788,
-      "num": 262788,
-      "word": "张若昀左手拿汉堡右手牵唐艺昕",
-      "onboard_time": 1684321949,
-      "rank": 49,
       "category": "作品衍生"
     },
     {
@@ -1153,6 +1193,14 @@
       "onboard_time": 1684319909,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 248194,
+      "num": 248194,
+      "word": "星穹铁道被氪爆了",
+      "onboard_time": 1684322786,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 243000,
@@ -1225,6 +1273,22 @@
       "onboard_time": 1684244435,
       "rank": 23,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 232464,
+      "num": 232464,
+      "word": "成毅直播",
+      "onboard_time": 1684325309,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 226381,
+      "num": 226381,
+      "word": "久酷受伤",
+      "onboard_time": 1684325909,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 224032,
@@ -1379,6 +1443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 186359,
+      "num": 186359,
+      "word": "王子奇告别你给我的喜欢",
+      "onboard_time": 1684325789,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186185,
       "num": 130429,
       "word": "Angelababy红毯生图状态",
@@ -1449,14 +1521,6 @@
       "onboard_time": 1684311274,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173474,
-      "num": 173474,
-      "word": "星穹铁道被氪爆了",
-      "onboard_time": 1684322786,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 172614,
@@ -1673,6 +1737,14 @@
       "onboard_time": 1684250854,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129408,
+      "num": 129408,
+      "word": "星穹铁道景元",
+      "onboard_time": 1684326689,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 128518,
