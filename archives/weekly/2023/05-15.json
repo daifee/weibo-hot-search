@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684401379168,
+  "endTime": 1684402406405,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -139,20 +139,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2819082,
+      "num": 2819082,
+      "word": "微信 吃内存",
+      "onboard_time": 1684396171,
+      "rank": 1,
+      "category": "科技"
+    },
+    {
       "raw_hot": 2786707,
       "num": 2786707,
       "word": "人民日报评House冒犯人民子弟兵",
       "onboard_time": 1684192760,
       "rank": 19,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 2785323,
-      "num": 2785323,
-      "word": "微信 吃内存",
-      "onboard_time": 1684396171,
-      "rank": 1,
-      "category": "科技"
     },
     {
       "raw_hot": 2768257,
@@ -915,6 +915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1218161,
+      "num": 1218161,
+      "word": "张馨予 如果不救基本没命",
+      "onboard_time": 1684400430,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1216114,
       "num": 1216114,
       "word": "夫妻结婚33年生下8女1儿",
@@ -1211,6 +1219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 986290,
+      "num": 986290,
+      "word": "张雨绮回应戛纳礼服丢了",
+      "onboard_time": 1684399530,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 972751,
       "num": 972751,
       "word": "男子花10万块买了8套房",
@@ -1387,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 879411,
+      "num": 546224,
+      "word": "笑果前副总裁评House事件",
+      "onboard_time": 1684399350,
+      "rank": 12,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 855863,
       "num": 855863,
       "word": "上海顶级豪宅中一套暴赚千万",
@@ -1395,20 +1419,20 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 850282,
-      "num": 549830,
-      "word": "张雨绮回应戛纳礼服丢了",
-      "onboard_time": 1684399530,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 849799,
       "num": 849799,
       "word": "朱珠直拍 有种不顾我死活的美",
       "onboard_time": 1684160790,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 847643,
+      "num": 847643,
+      "word": "飞机失事超两周后找到4名幸存儿童",
+      "onboard_time": 1684394189,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 828154,
@@ -1449,14 +1473,6 @@
       "onboard_time": 1684148788,
       "rank": 30,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 817473,
-      "num": 817473,
-      "word": "飞机失事超两周后找到4名幸存儿童",
-      "onboard_time": 1684394189,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 813748,
@@ -1899,14 +1915,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 619056,
-      "num": 546224,
-      "word": "笑果前副总裁评House事件",
-      "onboard_time": 1684399350,
-      "rank": 12,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 606769,
       "num": 606769,
       "word": "秋瓷炫像是在跳我的人生",
@@ -2121,14 +2129,6 @@
       "onboard_time": 1684123653,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 542068,
-      "num": 542068,
-      "word": "张馨予 如果不救基本没命",
-      "onboard_time": 1684400430,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 541047,
@@ -3124,7 +3124,7 @@
     },
     {
       "raw_hot": 379812,
-      "num": 379812,
+      "num": 489389,
       "word": "十年一品温如言金扫帚奖大满贯",
       "onboard_time": 1684397789,
       "rank": 36,
@@ -3252,7 +3252,7 @@
     },
     {
       "raw_hot": 363782,
-      "num": 280600,
+      "num": 290175,
       "word": "肖战顾一野",
       "onboard_time": 1684399171,
       "rank": 21,
@@ -3417,6 +3417,14 @@
       "onboard_time": 1684373612,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 348052,
+      "num": 348052,
+      "word": "金扫帚奖",
+      "onboard_time": 1684401810,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 346630,
@@ -4900,7 +4908,7 @@
     },
     {
       "raw_hot": 230240,
-      "num": 199979,
+      "num": 204070,
       "word": "咬一下尾巴被扇八个巴掌",
       "onboard_time": 1684399051,
       "rank": 30,
@@ -4969,6 +4977,14 @@
       "onboard_time": 1684233570,
       "rank": 24,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 226243,
+      "num": 226243,
+      "word": "她为了坐上这趟车几乎走了一辈子",
+      "onboard_time": 1684400251,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 225894,
@@ -5451,6 +5467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206616,
+      "num": 273940,
+      "word": "王者荣耀",
+      "onboard_time": 1684227509,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 206273,
       "num": 206273,
       "word": "孟羽童曾说主业总裁秘书副业博主",
@@ -5673,14 +5697,6 @@
       "onboard_time": 1684368629,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 195180,
-      "num": 273940,
-      "word": "王者荣耀",
-      "onboard_time": 1684227509,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 194511,
@@ -5961,6 +5977,14 @@
       "onboard_time": 1684106484,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184456,
+      "num": 184456,
+      "word": "美依礼芽Amber撞脸",
+      "onboard_time": 1684401449,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 184163,
@@ -6595,6 +6619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159143,
+      "num": 159143,
+      "word": "陈少熙救狗不成反掉粪池",
+      "onboard_time": 1684401029,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159063,
       "num": 159063,
       "word": "华表奖两届一起颁",
@@ -6753,14 +6785,6 @@
       "onboard_time": 1684244856,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 152665,
-      "num": 152665,
-      "word": "她为了坐上这趟车几乎走了一辈子",
-      "onboard_time": 1684400251,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 152651,
@@ -7227,14 +7251,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 134575,
-      "num": 134575,
-      "word": "陈少熙救狗不成反掉粪池",
-      "onboard_time": 1684401029,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 134555,
       "num": 134555,
       "word": "让孩子情绪稳定的四种物质",
@@ -7377,6 +7393,14 @@
       "onboard_time": 1684196549,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127390,
+      "num": 127390,
+      "word": "kns",
+      "onboard_time": 1684402290,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 127227,
@@ -7545,6 +7569,14 @@
       "onboard_time": 1684133725,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 117132,
+      "num": 117132,
+      "word": "银行回应7旬老人被抬到现场取款",
+      "onboard_time": 1684401512,
+      "rank": 45,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 116846,
