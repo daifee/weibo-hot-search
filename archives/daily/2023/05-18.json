@@ -1,6 +1,6 @@
 {
   "startTime": 1684340516423,
-  "endTime": 1684419313459,
+  "endTime": 1684420412500,
   "band_list": [
     {
       "raw_hot": 3289723,
@@ -11,8 +11,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 3157468,
-      "num": 3157468,
+      "raw_hot": 3219863,
+      "num": 3219863,
       "word": "包文婧回应谢娜三万梗",
       "onboard_time": 1684417829,
       "rank": 0,
@@ -307,6 +307,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 943616,
+      "num": 943616,
+      "word": "华为",
+      "onboard_time": 1684415428,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
       "raw_hot": 925892,
       "num": 925892,
       "word": "高叶礼服是自己缝的",
@@ -329,14 +337,6 @@
       "onboard_time": 1684395571,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 792374,
-      "num": 792374,
-      "word": "华为",
-      "onboard_time": 1684415428,
-      "rank": 18,
-      "category": "科技"
     },
     {
       "raw_hot": 775629,
@@ -539,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 499829,
+      "num": 499829,
+      "word": "叶舒华好可爱",
+      "onboard_time": 1684416089,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 494155,
       "num": 494155,
       "word": "应届毕业生该要多少薪资合适",
@@ -555,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484703,
+      "num": 484703,
+      "word": "T1不ban安妮",
+      "onboard_time": 1684419271,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 482153,
       "num": 1862941,
       "word": "宝宝昏迷叫不到120交警连说3个管",
@@ -569,6 +585,14 @@
       "onboard_time": 1684382733,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 477119,
+      "num": 259513,
+      "word": "蔡晓蕾孩子胎停",
+      "onboard_time": 1684417889,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 475080,
@@ -643,14 +667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 447201,
-      "num": 395957,
-      "word": "叶舒华好可爱",
-      "onboard_time": 1684416089,
-      "rank": 32,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 446959,
       "num": 393796,
       "word": "曾经最差的学生回来了",
@@ -665,6 +681,14 @@
       "onboard_time": 1684410748,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 446208,
+      "num": 257699,
+      "word": "说一个十年都没有涨过价的东西",
+      "onboard_time": 1684418608,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 442556,
@@ -697,6 +721,14 @@
       "onboard_time": 1684330413,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 426096,
+      "num": 251147,
+      "word": "范丞丞在脖子上挂了个嘴巴",
+      "onboard_time": 1684417889,
+      "rank": 27,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 425627,
@@ -787,6 +819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 388308,
+      "num": 256310,
+      "word": "为什么谈恋爱一定要多见面",
+      "onboard_time": 1684415908,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 388017,
       "num": 388017,
       "word": "宋丹丹张国立王鹤棣像一家三口",
@@ -819,14 +859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 376865,
-      "num": 236527,
-      "word": "为什么谈恋爱一定要多见面",
-      "onboard_time": 1684415908,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 376647,
       "num": 376647,
       "word": "31岁小伙脑干出血离世捐献器官至少救5人",
@@ -843,28 +875,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 371862,
-      "num": 229494,
-      "word": "蔡晓蕾孩子胎停",
-      "onboard_time": 1684417889,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 370971,
       "num": 370971,
       "word": "网友问何超莲什么时候备孕",
       "onboard_time": 1684392268,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 369951,
-      "num": 227877,
-      "word": "范丞丞在脖子上挂了个嘴巴",
-      "onboard_time": 1684417889,
-      "rank": 27,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 366298,
@@ -963,6 +979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 339095,
+      "num": 222080,
+      "word": "赵丽颖含泪和粉丝挥手",
+      "onboard_time": 1684419691,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336743,
       "num": 336743,
       "word": "你的QQ号码几位数",
@@ -1017,6 +1041,14 @@
       "onboard_time": 1684374209,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320792,
+      "num": 320792,
+      "word": "管泽元",
+      "onboard_time": 1684417290,
+      "rank": 17,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 317356,
@@ -1179,14 +1211,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 274579,
-      "num": 274579,
-      "word": "管泽元",
-      "onboard_time": 1684417290,
-      "rank": 17,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 272112,
       "num": 272112,
       "word": "A股",
@@ -1201,6 +1225,14 @@
       "onboard_time": 1684378229,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 267039,
+      "num": 234102,
+      "word": "西安大唐芙蓉园迎宾表演画面",
+      "onboard_time": 1684416210,
+      "rank": 38,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 266497,
@@ -1227,6 +1259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 262858,
+      "num": 262858,
+      "word": "优酷6至8月备播剧",
+      "onboard_time": 1684419936,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 260424,
       "num": 259481,
       "word": "平底锅文学",
@@ -1235,20 +1275,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 259595,
-      "num": 234102,
-      "word": "西安大唐芙蓉园迎宾表演画面",
-      "onboard_time": 1684416210,
-      "rank": 38,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 258849,
       "num": 258849,
       "word": "哈文参加女儿哥大毕业典礼",
       "onboard_time": 1684390410,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 258579,
+      "num": 221191,
+      "word": "密室大逃脱第五季录制路透",
+      "onboard_time": 1684418068,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 255982,
+      "num": 255982,
+      "word": "平凡之路结局",
+      "onboard_time": 1684417652,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 251660,
@@ -1283,28 +1331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 244546,
-      "num": 224799,
-      "word": "平凡之路结局",
-      "onboard_time": 1684417652,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 243972,
       "num": 243972,
       "word": "热火1比0凯尔特人",
       "onboard_time": 1684380212,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 243802,
-      "num": 225513,
-      "word": "说一个十年都没有涨过价的东西",
-      "onboard_time": 1684418608,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 241750,
@@ -1443,20 +1475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224573,
-      "num": 221191,
-      "word": "密室大逃脱第五季录制路透",
-      "onboard_time": 1684418068,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 224474,
-      "num": 224474,
-      "word": "T1不ban安妮",
-      "onboard_time": 1684419271,
-      "rank": 34,
-      "category": "游戏"
+      "raw_hot": 225173,
+      "num": 225173,
+      "word": "纳达尔退出2023法网",
+      "onboard_time": 1684419511,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 223672,
@@ -1667,6 +1691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193245,
+      "num": 193245,
+      "word": "梁静茹新专上线",
+      "onboard_time": 1684420291,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 191664,
       "num": 191664,
       "word": "拥有多少存款你才会选择结婚",
@@ -1795,6 +1827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 176186,
+      "num": 203609,
+      "word": "藏狐 随便长长得了",
+      "onboard_time": 1684419630,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 176101,
       "num": 176101,
       "word": "萌兰小时候差点没把亲妈啃掉色",
@@ -1833,6 +1873,14 @@
       "onboard_time": 1684413507,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 170415,
+      "num": 170415,
+      "word": "情侣生女后分手保姆代养孩子6年",
+      "onboard_time": 1684419990,
+      "rank": 44,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 169472,
@@ -2467,6 +2515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 80039,
+      "num": 202736,
+      "word": "阿里云将彻底分拆",
+      "onboard_time": 1684418429,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73214,
       "num": 140161,
       "word": "欢迎中国小伙伴来我的国家做客",
@@ -2537,14 +2593,6 @@
       "onboard_time": 1684382431,
       "rank": 14,
       "category": "其它"
-    },
-    {
-      "raw_hot": 53384,
-      "num": 146794,
-      "word": "阿里云将彻底分拆",
-      "onboard_time": 1684418429,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48001,
