@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684408437346,
+  "endTime": 1684409616746,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -643,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1512309,
+      "num": 1512309,
+      "word": "飞机失事超两周后找到4名幸存儿童",
+      "onboard_time": 1684394189,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1510315,
       "num": 1434948,
       "word": "台媒说浪姐4职场霸凌徐怀钰",
@@ -897,14 +905,6 @@
       "onboard_time": 1684216050,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1263114,
-      "num": 1263114,
-      "word": "飞机失事超两周后找到4名幸存儿童",
-      "onboard_time": 1684394189,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1248034,
@@ -1427,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 870883,
+      "num": 870883,
+      "word": "胡兵工作室回应结婚",
+      "onboard_time": 1684408169,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 855863,
       "num": 855863,
       "word": "上海顶级豪宅中一套暴赚千万",
@@ -1769,6 +1777,14 @@
       "onboard_time": 1684385855,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 669038,
+      "num": 430405,
+      "word": "宁安如梦演员删评论",
+      "onboard_time": 1684407269,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 666982,
@@ -2171,6 +2187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 539705,
+      "num": 414583,
+      "word": "专家称笑果文化至少3年内不能上市",
+      "onboard_time": 1684407868,
+      "rank": 30,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 537570,
       "num": 537570,
       "word": "大爷撞进饭店没赔钱一夜没睡着",
@@ -2217,6 +2241,14 @@
       "onboard_time": 1684370430,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 519156,
+      "num": 412328,
+      "word": "李兰迪的妆是自己化的",
+      "onboard_time": 1684404330,
+      "rank": 32,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 518231,
@@ -2795,14 +2827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 430405,
-      "num": 430405,
-      "word": "宁安如梦演员删评论",
-      "onboard_time": 1684407269,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 429547,
       "num": 429547,
       "word": "女子用秦昊减肥法拉吐7天瘦5斤",
@@ -3065,14 +3089,6 @@
       "onboard_time": 1684297656,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 391538,
-      "num": 391538,
-      "word": "李兰迪的妆是自己化的",
-      "onboard_time": 1684404330,
-      "rank": 32,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 390639,
@@ -3571,14 +3587,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 336073,
-      "num": 217577,
-      "word": "专家称笑果文化至少3年内不能上市",
-      "onboard_time": 1684407868,
-      "rank": 30,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 335690,
       "num": 335690,
       "word": "艾莉先点痣了",
@@ -4043,6 +4051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 293262,
+      "num": 293262,
+      "word": "gidle新歌MCD回归舞台",
+      "onboard_time": 1684409189,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 293238,
       "num": 293238,
       "word": "aespa新歌MCD一位",
@@ -4491,6 +4507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260424,
+      "num": 230439,
+      "word": "平底锅文学",
+      "onboard_time": 1684232851,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 259222,
       "num": 259222,
       "word": "段奕宏终究是错付了",
@@ -4792,14 +4816,6 @@
       "word": "发朋友圈被亲戚同学说腿粗",
       "onboard_time": 1684134149,
       "rank": 32,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 241778,
-      "num": 230439,
-      "word": "平底锅文学",
-      "onboard_time": 1684232851,
-      "rank": 46,
       "category": "情感"
     },
     {
@@ -5379,14 +5395,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 214857,
-      "num": 214857,
-      "word": "胡兵工作室回应结婚",
-      "onboard_time": 1684408169,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 214351,
       "num": 170086,
       "word": "蒋奇明FENDI",
@@ -5937,6 +5945,14 @@
       "onboard_time": 1684306652,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190811,
+      "num": 190811,
+      "word": "被不喜欢的人喜欢是什么感受",
+      "onboard_time": 1684408891,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 190118,
@@ -6539,6 +6555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169472,
+      "num": 169472,
+      "word": "德班世乒赛抽签",
+      "onboard_time": 1684409549,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169360,
       "num": 169360,
       "word": "希望今年吃的西瓜都这样",
@@ -6889,6 +6913,14 @@
       "onboard_time": 1684219588,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 153997,
+      "num": 153997,
+      "word": "种地吧后陡门518",
+      "onboard_time": 1684409249,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 153638,
@@ -7499,6 +7531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 131044,
+      "num": 131044,
+      "word": "他好像真的想教会我离职",
+      "onboard_time": 1684406548,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130971,
       "num": 130971,
       "word": "欧冠半决赛",
@@ -7529,14 +7569,6 @@
       "onboard_time": 1684407209,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 129338,
-      "num": 129338,
-      "word": "他好像真的想教会我离职",
-      "onboard_time": 1684406548,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 129292,
