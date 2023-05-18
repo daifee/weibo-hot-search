@@ -1,0 +1,410 @@
+{
+  "runTime": 1684377758924,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1525551,
+        "num": 1525551,
+        "word": "普通人一万块需要存多久",
+        "onboard_time": 1684370430,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1226007,
+        "num": 1226007,
+        "word": "高叶戛纳 大气",
+        "onboard_time": 1684368990,
+        "rank": 1,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 22927,
+        "num": 1030864,
+        "word": "北斗为梦想导航",
+        "onboard_time": 1684327828,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1431017,
+        "num": 987562,
+        "word": "因为考研失败女朋友要跟我分手",
+        "onboard_time": 1684373012,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 854061,
+        "num": 854061,
+        "word": "罗翔神预言",
+        "onboard_time": 1684366946,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 753303,
+        "num": 753303,
+        "word": "穿对衣服的张雨绮",
+        "onboard_time": 1684372053,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 548835,
+        "num": 548835,
+        "word": "顾客点100元外卖后打赏10元骑手报警",
+        "onboard_time": 1684374689,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513720,
+        "num": 513720,
+        "word": "张雨绮3D打印长裙",
+        "onboard_time": 1684370430,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 460004,
+        "num": 460004,
+        "word": "易烊千玺戛纳生图",
+        "onboard_time": 1684366406,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 442703,
+        "num": 442703,
+        "word": "怪物",
+        "onboard_time": 1684373489,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1449119,
+        "num": 441745,
+        "word": "刘维好刚",
+        "onboard_time": 1684375408,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1323168,
+        "num": 433693,
+        "word": "女生遭两闺蜜PUA长达8年被骗百万",
+        "onboard_time": 1684370491,
+        "rank": 11,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 1124504,
+        "num": 429803,
+        "word": "巴厘岛遇害女生家属发文",
+        "onboard_time": 1684367908,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 978163,
+        "num": 425069,
+        "word": "建不建议一毕业就进体制",
+        "onboard_time": 1684366406,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 600074,
+        "num": 415898,
+        "word": "笑果承认存在侥幸心理",
+        "onboard_time": 1684336112,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 534231,
+        "num": 411748,
+        "word": "高叶礼服开线了",
+        "onboard_time": 1684376187,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 493466,
+        "num": 407729,
+        "word": "年轻女子穿着干净时尚当街跪地乞讨",
+        "onboard_time": 1684375350,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486356,
+        "num": 402030,
+        "word": "韩流真的来了吗",
+        "onboard_time": 1684335391,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 397282,
+        "num": 397282,
+        "word": "张柏芝晒的是姐姐的女儿",
+        "onboard_time": 1684374689,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388612,
+        "num": 388612,
+        "word": "谁给蒋梦婕选的衣服",
+        "onboard_time": 1684366824,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322500,
+        "num": 322500,
+        "word": "鼻炎 源于肝郁",
+        "onboard_time": 1684374209,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318884,
+        "num": 318884,
+        "word": "最近四川人的手指甲都是黄的",
+        "onboard_time": 1684338750,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315921,
+        "num": 315921,
+        "word": "周也直播读错字",
+        "onboard_time": 1684373612,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298645,
+        "num": 298645,
+        "word": "宁安如梦",
+        "onboard_time": 1684372651,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288440,
+        "num": 288440,
+        "word": "house录音",
+        "onboard_time": 1684331915,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 282338,
+        "num": 282338,
+        "word": "男子被女友怀疑出轨竟从12楼跳下",
+        "onboard_time": 1684336829,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265050,
+        "num": 265050,
+        "word": "博物馆为什么周一闭馆",
+        "onboard_time": 1684373012,
+        "rank": 26,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 264240,
+        "num": 264240,
+        "word": "王子奇回复评论",
+        "onboard_time": 1684371931,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262319,
+        "num": 262319,
+        "word": "员工拒绝加班回怼后遭光速开除",
+        "onboard_time": 1684376427,
+        "rank": 28,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 238564,
+        "num": 238564,
+        "word": "house被警方立案调查",
+        "onboard_time": 1684327348,
+        "rank": 29,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 240415,
+        "num": 233151,
+        "word": "山东发现国内最大单体金矿床",
+        "onboard_time": 1684374449,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224298,
+        "num": 224298,
+        "word": "48岁交警被拖行700余米牺牲",
+        "onboard_time": 1684329994,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229570,
+        "num": 221474,
+        "word": "house",
+        "onboard_time": 1684367849,
+        "rank": 32,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 211102,
+        "num": 211102,
+        "word": "热火",
+        "onboard_time": 1684376548,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209890,
+        "num": 209890,
+        "word": "侯明昊编辑记录",
+        "onboard_time": 1684376666,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195028,
+        "num": 195028,
+        "word": "你的QQ号码几位数",
+        "onboard_time": 1684366465,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187853,
+        "num": 187853,
+        "word": "雨中的赵丽颖",
+        "onboard_time": 1684373191,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186680,
+        "num": 186680,
+        "word": "女子首次养猫倒猫砂致马桶堵塞",
+        "onboard_time": 1684373731,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180256,
+        "num": 180256,
+        "word": "陈晓的字好好看",
+        "onboard_time": 1684372591,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178369,
+        "num": 178369,
+        "word": "这些蔬菜不要生吃",
+        "onboard_time": 1684377329,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174471,
+        "num": 174471,
+        "word": "保洁阿姨偷师10年成版画家",
+        "onboard_time": 1684364659,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163903,
+        "num": 163903,
+        "word": "小猫根本拦不住大狗的巨口",
+        "onboard_time": 1684375782,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147389,
+        "num": 147389,
+        "word": "迪丽热巴高清怼脸图",
+        "onboard_time": 1684367126,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 140876,
+        "num": 140876,
+        "word": "宠物入殓师送别每只宠物都会听心跳",
+        "onboard_time": 1684374808,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136555,
+        "num": 136555,
+        "word": "中演协要求对house进行从业抵制",
+        "onboard_time": 1684323988,
+        "rank": 44,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 128819,
+        "num": 128819,
+        "word": "巴西男子性侵未成年女儿遭妻子勒死",
+        "onboard_time": 1684364902,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122711,
+        "num": 122711,
+        "word": "洛杉矶火花裁掉杨力维",
+        "onboard_time": 1684372351,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118788,
+        "num": 118788,
+        "word": "家暴受害者母亲手撕谅解书",
+        "onboard_time": 1684370251,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103962,
+        "num": 117404,
+        "word": "代号鸢",
+        "onboard_time": 1684370852,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 61447,
+        "num": 117280,
+        "word": "李白玉鸾吟星传说",
+        "onboard_time": 1684375168,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同托卡耶夫会谈#"
+    }
+  }
+}
