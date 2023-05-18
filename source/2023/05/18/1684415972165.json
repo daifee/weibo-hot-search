@@ -1,0 +1,410 @@
+{
+  "runTime": 1684415972165,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 999213,
+        "num": 999213,
+        "word": "港媒曝植物人听姜涛歌曲有反应",
+        "onboard_time": 1684404211,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1273497,
+        "num": 975869,
+        "word": "护心男二 加戏",
+        "onboard_time": 1684410210,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44366,
+        "num": 861709,
+        "word": "神十六本月发射",
+        "onboard_time": 1684398868,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2220079,
+        "num": 746578,
+        "word": "李诞去年卸任笑果董事",
+        "onboard_time": 1684411588,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1180984,
+        "num": 692340,
+        "word": "胡兵工作室回应结婚",
+        "onboard_time": 1684408169,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 620615,
+        "num": 620615,
+        "word": "张雨绮回应戛纳礼服丢了",
+        "onboard_time": 1684399530,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 589465,
+        "num": 589465,
+        "word": "山东一派出所长被举报戴名表开豪车",
+        "onboard_time": 1684412609,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464591,
+        "num": 464591,
+        "word": "微信 吃内存",
+        "onboard_time": 1684396171,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 458999,
+        "num": 458999,
+        "word": "宋雨琦多巴胺甜妹",
+        "onboard_time": 1684413209,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417665,
+        "num": 417665,
+        "word": "川传出轨多位女学生老师被辞退",
+        "onboard_time": 1684402467,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 397883,
+        "num": 397883,
+        "word": "80斤女生试穿XS码裙子拉不上拉链",
+        "onboard_time": 1684397068,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343204,
+        "num": 343204,
+        "word": "领导让我们三个怀孕错开",
+        "onboard_time": 1684391189,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 329016,
+        "num": 329016,
+        "word": "飞机失事超两周后找到4名幸存儿童",
+        "onboard_time": 1684394189,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414079,
+        "num": 319035,
+        "word": "笑果前副总裁评House事件",
+        "onboard_time": 1684399350,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 308280,
+        "num": 308280,
+        "word": "31岁小伙脑干出血离世捐献器官至少救5人",
+        "onboard_time": 1684410388,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303691,
+        "num": 303691,
+        "word": "樊振东德班",
+        "onboard_time": 1684411948,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277165,
+        "num": 277165,
+        "word": "谢娜说当时就已经还包文婧钱了",
+        "onboard_time": 1684392327,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261903,
+        "num": 261903,
+        "word": "丁禹兮任敏获金扫帚最令人失望男女主",
+        "onboard_time": 1684396530,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260552,
+        "num": 260552,
+        "word": "华为",
+        "onboard_time": 1684415428,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 244307,
+        "num": 244307,
+        "word": "护心",
+        "onboard_time": 1684405892,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 609294,
+        "num": 243738,
+        "word": "张馨予 如果不救基本没命",
+        "onboard_time": 1684400430,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456027,
+        "num": 243317,
+        "word": "赵丽颖丸子头簪发",
+        "onboard_time": 1684397490,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 414283,
+        "num": 242756,
+        "word": "肖战被西安美食辣到",
+        "onboard_time": 1684410748,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242135,
+        "num": 242135,
+        "word": "李兰迪的妆是自己化的",
+        "onboard_time": 1684404330,
+        "rank": 23,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 339330,
+        "num": 239729,
+        "word": "这酒店和直接睡大街有什么区别",
+        "onboard_time": 1684412066,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 323562,
+        "num": 239225,
+        "word": "蔡依林扫码支付反应",
+        "onboard_time": 1684415190,
+        "rank": 25,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 253520,
+        "num": 238662,
+        "word": "易烊千玺与汉斯季默合影",
+        "onboard_time": 1684412849,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 230121,
+        "num": 230121,
+        "word": "戛纳",
+        "onboard_time": 1684413568,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228375,
+        "num": 228375,
+        "word": "宁安如梦演员删评论",
+        "onboard_time": 1684407269,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 47545,
+        "num": 210890,
+        "word": "婚姻登记跨省通办试点扩大至21省份",
+        "onboard_time": 1684415308,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210506,
+        "num": 210506,
+        "word": "T1对战JDG",
+        "onboard_time": 1684412849,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203252,
+        "num": 203252,
+        "word": "平凡之路",
+        "onboard_time": 1684414947,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202857,
+        "num": 202857,
+        "word": "九鹭非香护心剧情小作文",
+        "onboard_time": 1684411467,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193582,
+        "num": 193582,
+        "word": "久诚澄清",
+        "onboard_time": 1684410867,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190297,
+        "num": 190297,
+        "word": "Knight说到做到",
+        "onboard_time": 1684415668,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183625,
+        "num": 183625,
+        "word": "专家称笑果文化至少3年内不能上市",
+        "onboard_time": 1684407868,
+        "rank": 35,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 175584,
+        "num": 175584,
+        "word": "平底锅文学",
+        "onboard_time": 1684407026,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171834,
+        "num": 171834,
+        "word": "四川一男子持双刀砍人",
+        "onboard_time": 1684410268,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166160,
+        "num": 166160,
+        "word": "宁安如梦没有空降",
+        "onboard_time": 1684413507,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159825,
+        "num": 159825,
+        "word": "花钱也吃不到的几百人盛大村宴",
+        "onboard_time": 1684414947,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164056,
+        "num": 159797,
+        "word": "王鹤棣你让王传君歇会儿吧",
+        "onboard_time": 1684407209,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152320,
+        "num": 152320,
+        "word": "云襄传",
+        "onboard_time": 1684415068,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150683,
+        "num": 150683,
+        "word": "LOL暂时禁用四个英雄",
+        "onboard_time": 1684404990,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147234,
+        "num": 147234,
+        "word": "五百元对普通家庭是什么概念",
+        "onboard_time": 1684396831,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143330,
+        "num": 143330,
+        "word": "被不喜欢的人喜欢是什么感受",
+        "onboard_time": 1684408891,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141307,
+        "num": 141307,
+        "word": "王以纶直播",
+        "onboard_time": 1684415908,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134552,
+        "num": 134552,
+        "word": "夏日的西安大唐芙蓉园有多美",
+        "onboard_time": 1684415908,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 58355,
+        "num": 132144,
+        "word": "为什么坚持健身反而胖了",
+        "onboard_time": 1684415668,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130333,
+        "num": 130333,
+        "word": "种地吧直播",
+        "onboard_time": 1684413147,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125261,
+        "num": 125261,
+        "word": "为什么谈恋爱一定要多见面",
+        "onboard_time": 1684415908,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平与中亚五国的丝路情缘#"
+    }
+  }
+}

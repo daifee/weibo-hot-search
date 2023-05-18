@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684414175809,
+  "endTime": 1684415972165,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -291,7 +291,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 2073604,
+      "raw_hot": 2220079,
       "num": 863932,
       "word": "李诞去年卸任笑果董事",
       "onboard_time": 1684411588,
@@ -1243,6 +1243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 999213,
+      "num": 1013504,
+      "word": "港媒曝植物人听姜涛歌曲有反应",
+      "onboard_time": 1684404211,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 994373,
       "num": 928307,
       "word": "程十安去戛纳红毯了",
@@ -1409,14 +1417,6 @@
       "onboard_time": 1684245813,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 885394,
-      "num": 1013504,
-      "word": "港媒曝植物人听姜涛歌曲有反应",
-      "onboard_time": 1684404211,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 883222,
@@ -2051,6 +2051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 589465,
+      "num": 589465,
+      "word": "山东一派出所长被举报戴名表开豪车",
+      "onboard_time": 1684412609,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 585744,
       "num": 362025,
       "word": "倪妮GUCCI",
@@ -2611,6 +2619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 458999,
+      "num": 458999,
+      "word": "宋雨琦多巴胺甜妹",
+      "onboard_time": 1684413209,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 457417,
       "num": 457417,
       "word": "人民军队不容冒犯必须敬畏",
@@ -2947,6 +2963,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 417665,
+      "num": 417665,
+      "word": "川传出轨多位女学生老师被辞退",
+      "onboard_time": 1684402467,
+      "rank": 21,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 416128,
       "num": 416128,
       "word": "凯尔特人淘汰76人",
@@ -2993,14 +3017,6 @@
       "onboard_time": 1684301913,
       "rank": 25,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 408225,
-      "num": 408225,
-      "word": "川传出轨多位女学生老师被辞退",
-      "onboard_time": 1684402467,
-      "rank": 21,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 407829,
@@ -3603,6 +3619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339330,
+      "num": 304495,
+      "word": "这酒店和直接睡大街有什么区别",
+      "onboard_time": 1684412066,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 338647,
       "num": 270289,
       "word": "饭局上客户说菜点多了",
@@ -3715,14 +3739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 331477,
-      "num": 304495,
-      "word": "这酒店和直接睡大街有什么区别",
-      "onboard_time": 1684412066,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 329528,
       "num": 329528,
       "word": "唐山警方回应农妇袭警案",
@@ -3793,6 +3809,14 @@
       "onboard_time": 1684159468,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 323562,
+      "num": 239225,
+      "word": "蔡依林扫码支付反应",
+      "onboard_time": 1684415190,
+      "rank": 25,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 323211,
@@ -4547,14 +4571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 262580,
-      "num": 262580,
-      "word": "山东一派出所长被举报戴名表开豪车",
-      "onboard_time": 1684412609,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 262466,
       "num": 262466,
       "word": "速度与激情10",
@@ -4585,6 +4601,14 @@
       "onboard_time": 1684124734,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260552,
+      "num": 260552,
+      "word": "华为",
+      "onboard_time": 1684415428,
+      "rank": 18,
+      "category": "科技"
     },
     {
       "raw_hot": 260424,
@@ -4641,14 +4665,6 @@
       "onboard_time": 1684294714,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 257852,
-      "num": 257852,
-      "word": "宋雨琦多巴胺甜妹",
-      "onboard_time": 1684413209,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 257721,
@@ -5747,6 +5763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203252,
+      "num": 203252,
+      "word": "平凡之路",
+      "onboard_time": 1684236271,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202989,
       "num": 202989,
       "word": "龚俊到达戛纳",
@@ -6065,6 +6089,14 @@
       "onboard_time": 1684408891,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190297,
+      "num": 190297,
+      "word": "Knight说到做到",
+      "onboard_time": 1684415668,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 190118,
@@ -6915,6 +6947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159825,
+      "num": 159825,
+      "word": "花钱也吃不到的几百人盛大村宴",
+      "onboard_time": 1684414947,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 159143,
       "num": 159143,
       "word": "陈少熙救狗不成反掉粪池",
@@ -7121,6 +7161,14 @@
       "onboard_time": 1684234950,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 152320,
+      "num": 152320,
+      "word": "云襄传",
+      "onboard_time": 1684415068,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 152290,
@@ -7427,14 +7475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142679,
-      "num": 142679,
-      "word": "平凡之路",
-      "onboard_time": 1684236271,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 142477,
       "num": 142477,
       "word": "湖北教师招聘",
@@ -7465,6 +7505,14 @@
       "onboard_time": 1684219048,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141307,
+      "num": 141307,
+      "word": "王以纶直播",
+      "onboard_time": 1684415908,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 140285,
@@ -7601,6 +7649,14 @@
       "onboard_time": 1684080864,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134552,
+      "num": 134552,
+      "word": "夏日的西安大唐芙蓉园有多美",
+      "onboard_time": 1684415908,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 133470,
@@ -7801,6 +7857,14 @@
       "onboard_time": 1684296995,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125261,
+      "num": 125261,
+      "word": "为什么谈恋爱一定要多见面",
+      "onboard_time": 1684415908,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 125007,
@@ -8507,6 +8571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58355,
+      "num": 132144,
+      "word": "为什么坚持健身反而胖了",
+      "onboard_time": 1684415668,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57826,
       "num": 57826,
       "word": "当室友们以为你不在",
@@ -8579,20 +8651,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 47545,
+      "num": 210890,
+      "word": "婚姻登记跨省通办试点扩大至21省份",
+      "onboard_time": 1684415308,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44366,
+      "num": 919652,
+      "word": "神十六本月发射",
+      "onboard_time": 1684398868,
+      "rank": 2,
+      "category": "科技"
+    },
+    {
       "raw_hot": 43171,
       "num": 43171,
       "word": "这家里高低得摆两台共享单车吧",
       "onboard_time": 1684090513,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 43160,
-      "num": 919652,
-      "word": "神十六本月发射",
-      "onboard_time": 1684398868,
-      "rank": 2,
-      "category": "科技"
     },
     {
       "raw_hot": 42196,
