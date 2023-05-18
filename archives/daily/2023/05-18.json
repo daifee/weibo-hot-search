@@ -1,7 +1,15 @@
 {
   "startTime": 1684340516423,
-  "endTime": 1684380835946,
+  "endTime": 1684383613816,
   "band_list": [
+    {
+      "raw_hot": 3289723,
+      "num": 3289723,
+      "word": "周也道歉",
+      "onboard_time": 1684379371,
+      "rank": 16,
+      "category": "作品衍生"
+    },
     {
       "raw_hot": 2541497,
       "num": 2062012,
@@ -43,14 +51,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1826011,
-      "num": 1826011,
-      "word": "周也道歉",
-      "onboard_time": 1684379371,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1667496,
       "num": 517686,
       "word": "刘维好刚",
@@ -72,6 +72,14 @@
       "word": "48岁交警被拖行700余米牺牲",
       "onboard_time": 1684329994,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1549973,
+      "num": 1549973,
+      "word": "25岁中国男子惨死巴黎公寓中",
+      "onboard_time": 1684379489,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -123,20 +131,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1088459,
+      "num": 1088459,
+      "word": "杨幂把丝巾系腰上",
+      "onboard_time": 1684381352,
+      "rank": 3,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1033032,
+      "num": 453364,
+      "word": "胡兵说与陪伴30年的TA结婚了",
+      "onboard_time": 1684377810,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 987736,
       "num": 987736,
       "word": "高叶礼服开线了",
       "onboard_time": 1684376187,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 933202,
-      "num": 416832,
-      "word": "胡兵说与陪伴30年的TA结婚了",
-      "onboard_time": 1684377810,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 775629,
@@ -155,12 +171,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 726498,
+      "num": 726498,
+      "word": "员工拒绝加班回怼后遭光速开除",
+      "onboard_time": 1684376427,
+      "rank": 34,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 724720,
+      "num": 452358,
+      "word": "巴厘岛遇害女生",
+      "onboard_time": 1684378409,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 721804,
       "num": 341647,
       "word": "中演协要求对house进行从业抵制",
       "onboard_time": 1684323988,
       "rank": 10,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 661480,
+      "num": 661480,
+      "word": "得知四级真题被学校丢了后",
+      "onboard_time": 1684379794,
+      "rank": 48,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 600857,
@@ -211,22 +251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 535451,
-      "num": 407351,
-      "word": "25岁中国男子惨死巴黎公寓中",
-      "onboard_time": 1684379489,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 526778,
-      "num": 526778,
-      "word": "员工拒绝加班回怼后遭光速开除",
-      "onboard_time": 1684376427,
-      "rank": 34,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 522681,
       "num": 522681,
       "word": "张雨绮3D打印长裙",
@@ -259,20 +283,20 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 499108,
-      "num": 399078,
-      "word": "巴厘岛遇害女生",
-      "onboard_time": 1684378409,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 461443,
       "num": 461443,
       "word": "韩素希说宋慧乔还是我的",
       "onboard_time": 1684331793,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 458903,
+      "num": 458903,
+      "word": "吃了一碗三十五块钱的麻辣烫",
+      "onboard_time": 1684379794,
+      "rank": 39,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 457382,
@@ -289,6 +313,14 @@
       "onboard_time": 1684373489,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 447272,
+      "num": 447272,
+      "word": "张柏芝晒的是姐姐的女儿",
+      "onboard_time": 1684374689,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 441331,
@@ -323,12 +355,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 397282,
-      "num": 397282,
-      "word": "张柏芝晒的是姐姐的女儿",
-      "onboard_time": 1684374689,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 421382,
+      "num": 421382,
+      "word": "巴特勒真硬",
+      "onboard_time": 1684379972,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 414554,
+      "num": 414554,
+      "word": "在上海税前7000的真实生活",
+      "onboard_time": 1684378049,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 411606,
+      "num": 411606,
+      "word": "偶遇杨颖张大大逛超市",
+      "onboard_time": 1684378530,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 383308,
@@ -337,22 +385,6 @@
       "onboard_time": 1684376548,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 381299,
-      "num": 354033,
-      "word": "在上海税前7000的真实生活",
-      "onboard_time": 1684378049,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 378867,
-      "num": 327760,
-      "word": "吃了一碗三十五块钱的麻辣烫",
-      "onboard_time": 1684379794,
-      "rank": 39,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 377845,
@@ -419,14 +451,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 335966,
-      "num": 335966,
-      "word": "偶遇杨颖张大大逛超市",
-      "onboard_time": 1684378530,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 332952,
       "num": 332952,
       "word": "朴彩英的发型是蝴蝶结",
@@ -483,6 +507,22 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 302479,
+      "num": 302479,
+      "word": "密室大逃脱",
+      "onboard_time": 1684382733,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 295133,
+      "num": 295133,
+      "word": "这些蔬菜不要生吃",
+      "onboard_time": 1684377329,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294367,
       "num": 294367,
       "word": "流浪猫用最后一口气跑宠物医院求助",
@@ -523,12 +563,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 282944,
-      "num": 282944,
-      "word": "这些蔬菜不要生吃",
-      "onboard_time": 1684377329,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 277371,
+      "num": 277371,
+      "word": "爱豆什么时候可以谈恋爱",
+      "onboard_time": 1684382254,
+      "rank": 33,
+      "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 276776,
+      "num": 276776,
+      "word": "娱乐圈天选古代人",
+      "onboard_time": 1684382674,
+      "rank": 34,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 269647,
@@ -539,20 +587,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 267865,
+      "num": 267865,
+      "word": "丁程鑫说只要是七个人就好",
+      "onboard_time": 1684382857,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 266497,
       "num": 266497,
       "word": "红楼梦",
       "onboard_time": 1684379671,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 265600,
-      "num": 251150,
-      "word": "得知四级真题被学校丢了后",
-      "onboard_time": 1684379794,
-      "rank": 48,
-      "category": "教育,幽默"
     },
     {
       "raw_hot": 263281,
@@ -563,12 +611,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 256912,
-      "num": 256912,
-      "word": "巴特勒真硬",
-      "onboard_time": 1684379972,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 261467,
+      "num": 261467,
+      "word": "刘亦菲水中倒影封面预告",
+      "onboard_time": 1684382133,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 251660,
@@ -577,6 +625,14 @@
       "onboard_time": 1684367126,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 247119,
+      "num": 247119,
+      "word": "男朋友爸妈建议我去考编制",
+      "onboard_time": 1684383214,
+      "rank": 39,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 243972,
@@ -611,6 +667,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 235622,
+      "num": 235622,
+      "word": "蔡徐坤演唱会",
+      "onboard_time": 1684382972,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 234262,
+      "num": 234262,
+      "word": "谁能管管上海动物园的这两只天鹅",
+      "onboard_time": 1684382794,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233478,
       "num": 233478,
       "word": "巴厘岛命案疑男子杀害女友后自杀",
@@ -641,6 +713,14 @@
       "onboard_time": 1684379249,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 219424,
+      "num": 219424,
+      "word": "鲁A0M59H你做的好事藏不住了",
+      "onboard_time": 1684380870,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216426,
@@ -680,6 +760,14 @@
       "word": "侯明昊编辑记录",
       "onboard_time": 1684376666,
       "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 208896,
+      "num": 208896,
+      "word": "朴彩英胎毛刘海",
+      "onboard_time": 1684381774,
+      "rank": 45,
       "category": "作品衍生"
     },
     {
@@ -745,6 +833,14 @@
       "onboard_time": 1684354151,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183733,
+      "num": 319008,
+      "word": "遇见喵克斯",
+      "onboard_time": 1684382314,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 182482,
@@ -939,6 +1035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 136362,
+      "num": 320676,
+      "word": "厕所是打工人的避风港吧",
+      "onboard_time": 1684382314,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136068,
       "num": 136068,
       "word": "小樱花收到塞尔达王国之泪",
@@ -1067,6 +1171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 94066,
+      "num": 322392,
+      "word": "养宠又养娃是什么神仙体验",
+      "onboard_time": 1684381711,
+      "rank": 24,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 87279,
       "num": 87279,
       "word": "曼城晋级欧冠决赛",
@@ -1121,6 +1233,22 @@
       "onboard_time": 1684366221,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 82320,
+      "num": 286238,
+      "word": "电子宠物能否成为精神寄托",
+      "onboard_time": 1684382610,
+      "rank": 30,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 73987,
+      "num": 327068,
+      "word": "你家猫住什么窝",
+      "onboard_time": 1684382610,
+      "rank": 23,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 70688,
@@ -1203,6 +1331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 33813,
+      "num": 447471,
+      "word": "直播产品是怎么被选上的",
+      "onboard_time": 1684382431,
+      "rank": 14,
+      "category": "其它"
+    },
+    {
       "raw_hot": 31333,
       "num": 34022,
       "word": "警察叔叔的看图能力果然一流",
@@ -1217,6 +1353,14 @@
       "onboard_time": 1684321590,
       "rank": 49,
       "category": "社会新闻,作品衍生"
+    },
+    {
+      "raw_hot": 28654,
+      "num": 194826,
+      "word": "云养猫的快乐谁懂啊",
+      "onboard_time": 1684383273,
+      "rank": 46,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [

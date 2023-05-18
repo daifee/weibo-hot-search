@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684380835946,
+  "endTime": 1684383613816,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -233,6 +233,14 @@
       "onboard_time": 1683029489,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3289723,
+      "num": 3289723,
+      "word": "周也道歉",
+      "onboard_time": 1684379371,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 3271649,
@@ -1715,14 +1723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1826011,
-      "num": 1826011,
-      "word": "周也道歉",
-      "onboard_time": 1684379371,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1825187,
       "num": 1825187,
       "word": "难怪贾静雯生气",
@@ -2585,6 +2585,14 @@
       "onboard_time": 1683796887,
       "rank": 3,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1549973,
+      "num": 1549973,
+      "word": "25岁中国男子惨死巴黎公寓中",
+      "onboard_time": 1684379489,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1549967,
@@ -4619,6 +4627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1088459,
+      "num": 1088459,
+      "word": "杨幂把丝巾系腰上",
+      "onboard_time": 1684381352,
+      "rank": 3,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1088435,
       "num": 1088435,
       "word": "白鹿片场行为",
@@ -4977,6 +4993,14 @@
       "onboard_time": 1683812427,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1033032,
+      "num": 453364,
+      "word": "胡兵说与陪伴30年的TA结婚了",
+      "onboard_time": 1684377810,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1032685,
@@ -5504,14 +5528,6 @@
       "word": "韩素希说宋慧乔还是我的",
       "onboard_time": 1684331793,
       "rank": 6,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 933202,
-      "num": 416832,
-      "word": "胡兵说与陪伴30年的TA结婚了",
-      "onboard_time": 1684377810,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -7043,11 +7059,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 726498,
+      "num": 726498,
+      "word": "员工拒绝加班回怼后遭光速开除",
+      "onboard_time": 1684376427,
+      "rank": 34,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 725796,
       "num": 725796,
       "word": "上海打雷",
       "onboard_time": 1683154941,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 724720,
+      "num": 452358,
+      "word": "巴厘岛遇害女生",
+      "onboard_time": 1684378409,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -7689,6 +7721,14 @@
       "onboard_time": 1683159869,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 661480,
+      "num": 661480,
+      "word": "得知四级真题被学校丢了后",
+      "onboard_time": 1684379794,
+      "rank": 48,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 661362,
@@ -9579,14 +9619,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 535451,
-      "num": 407351,
-      "word": "25岁中国男子惨死巴黎公寓中",
-      "onboard_time": 1684379489,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 535128,
       "num": 396287,
       "word": "白敬亭你的开心真不像演的",
@@ -9713,14 +9745,6 @@
       "onboard_time": 1683936866,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 526778,
-      "num": 526778,
-      "word": "员工拒绝加班回怼后遭光速开除",
-      "onboard_time": 1684376427,
-      "rank": 34,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 526455,
@@ -10273,14 +10297,6 @@
       "onboard_time": 1683374010,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 499108,
-      "num": 399078,
-      "word": "巴厘岛遇害女生",
-      "onboard_time": 1684378409,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 498692,
@@ -11155,6 +11171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 458903,
+      "num": 458903,
+      "word": "吃了一碗三十五块钱的麻辣烫",
+      "onboard_time": 1684379794,
+      "rank": 39,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 458758,
       "num": 458758,
       "word": "伊能静好会写",
@@ -11513,6 +11537,14 @@
       "onboard_time": 1683334771,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 447272,
+      "num": 447272,
+      "word": "张柏芝晒的是姐姐的女儿",
+      "onboard_time": 1684374689,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 447213,
@@ -12339,6 +12371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 421382,
+      "num": 421382,
+      "word": "巴特勒真硬",
+      "onboard_time": 1684379972,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 421140,
       "num": 253876,
       "word": "长月烬明玥烬情苏番外",
@@ -12507,6 +12547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 414554,
+      "num": 414554,
+      "word": "在上海税前7000的真实生活",
+      "onboard_time": 1684378049,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 414183,
       "num": 350363,
       "word": "戛纳红毯还得看女明星",
@@ -12569,6 +12617,14 @@
       "onboard_time": 1683677368,
       "rank": 21,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 411606,
+      "num": 411606,
+      "word": "偶遇杨颖张大大逛超市",
+      "onboard_time": 1684378530,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 411302,
@@ -13145,14 +13201,6 @@
       "onboard_time": 1684145070,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 397282,
-      "num": 397282,
-      "word": "张柏芝晒的是姐姐的女儿",
-      "onboard_time": 1684374689,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 397257,
@@ -13755,14 +13803,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 381299,
-      "num": 354033,
-      "word": "在上海税前7000的真实生活",
-      "onboard_time": 1684378049,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 380804,
       "num": 380804,
       "word": "这不得迷死王俊凯",
@@ -13833,14 +13873,6 @@
       "onboard_time": 1683126571,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 378867,
-      "num": 327760,
-      "word": "吃了一碗三十五块钱的麻辣烫",
-      "onboard_time": 1684379794,
-      "rank": 39,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 378605,
@@ -15819,14 +15851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 335966,
-      "num": 335966,
-      "word": "偶遇杨颖张大大逛超市",
-      "onboard_time": 1684378530,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 335723,
       "num": 331456,
       "word": "小区业主群的聊天记录",
@@ -17531,6 +17555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 302479,
+      "num": 302479,
+      "word": "密室大逃脱",
+      "onboard_time": 1684382733,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302383,
       "num": 200364,
       "word": "毛晓彤居然是88年的",
@@ -17985,6 +18017,14 @@
       "onboard_time": 1683004531,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 295133,
+      "num": 295133,
+      "word": "这些蔬菜不要生吃",
+      "onboard_time": 1684377329,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295076,
@@ -18835,14 +18875,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 282944,
-      "num": 282944,
-      "word": "这些蔬菜不要生吃",
-      "onboard_time": 1684377329,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 282916,
       "num": 265402,
       "word": "追你的人突然有对象了",
@@ -19243,6 +19275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277371,
+      "num": 277371,
+      "word": "爱豆什么时候可以谈恋爱",
+      "onboard_time": 1684382254,
+      "rank": 33,
+      "category": "情感,艺人"
+    },
+    {
       "raw_hot": 277351,
       "num": 277351,
       "word": "美依礼芽人气票数破千万",
@@ -19273,6 +19313,14 @@
       "onboard_time": 1684322786,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 276776,
+      "num": 276776,
+      "word": "娱乐圈天选古代人",
+      "onboard_time": 1684382674,
+      "rank": 34,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 276531,
@@ -19795,6 +19843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267865,
+      "num": 267865,
+      "word": "丁程鑫说只要是七个人就好",
+      "onboard_time": 1684382857,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 267721,
       "num": 267721,
       "word": "苹果客服回应女生手机隔空收到不雅照",
@@ -19993,14 +20049,6 @@
       "onboard_time": 1683213454,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 265600,
-      "num": 251150,
-      "word": "得知四级真题被学校丢了后",
-      "onboard_time": 1684379794,
-      "rank": 48,
-      "category": "教育,幽默"
     },
     {
       "raw_hot": 265499,
@@ -20273,6 +20321,14 @@
       "onboard_time": 1683974849,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261467,
+      "num": 261467,
+      "word": "刘亦菲水中倒影封面预告",
+      "onboard_time": 1684382133,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 261301,
@@ -20689,14 +20745,6 @@
       "onboard_time": 1683471096,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 256912,
-      "num": 256912,
-      "word": "巴特勒真硬",
-      "onboard_time": 1684379972,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 256707,
@@ -21473,6 +21521,14 @@
       "onboard_time": 1684226308,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 247119,
+      "num": 247119,
+      "word": "男朋友爸妈建议我去考编制",
+      "onboard_time": 1684383214,
+      "rank": 39,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 247110,
@@ -22499,6 +22555,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 235622,
+      "num": 235622,
+      "word": "蔡徐坤演唱会",
+      "onboard_time": 1684382972,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 235618,
       "num": 235618,
       "word": "刘耀文 帅",
@@ -22680,6 +22744,14 @@
       "word": "货车司机深夜护送骑行小伙遭误会",
       "onboard_time": 1683259229,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234262,
+      "num": 234262,
+      "word": "谁能管管上海动物园的这两只天鹅",
+      "onboard_time": 1684382794,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -23979,6 +24051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219424,
+      "num": 219424,
+      "word": "鲁A0M59H你做的好事藏不住了",
+      "onboard_time": 1684380870,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219403,
       "num": 216684,
       "word": "澹台烬黎苏苏又要结婚了",
@@ -25089,6 +25169,14 @@
       "onboard_time": 1683419605,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208896,
+      "num": 208896,
+      "word": "朴彩英胎毛刘海",
+      "onboard_time": 1684381774,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 208882,
@@ -27873,6 +27961,14 @@
       "onboard_time": 1683130407,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183733,
+      "num": 319008,
+      "word": "遇见喵克斯",
+      "onboard_time": 1684382314,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 183661,
@@ -32603,6 +32699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 136362,
+      "num": 320676,
+      "word": "厕所是打工人的避风港吧",
+      "onboard_time": 1684382314,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136346,
       "num": 136346,
       "word": "外婆遇到疯驴子遭老罪了",
@@ -35003,6 +35107,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 94066,
+      "num": 322392,
+      "word": "养宠又养娃是什么神仙体验",
+      "onboard_time": 1684381711,
+      "rank": 24,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 93646,
       "num": 129643,
       "word": "2023KPL春季赛总决赛",
@@ -35427,6 +35539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82320,
+      "num": 286238,
+      "word": "电子宠物能否成为精神寄托",
+      "onboard_time": 1684382610,
+      "rank": 30,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 82312,
       "num": 121449,
       "word": "Hero东方挂牌",
@@ -35689,6 +35809,14 @@
       "onboard_time": 1684327828,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 73987,
+      "num": 327068,
+      "word": "你家猫住什么窝",
+      "onboard_time": 1684382610,
+      "rank": 23,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 73828,
@@ -36795,6 +36923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 33813,
+      "num": 447471,
+      "word": "直播产品是怎么被选上的",
+      "onboard_time": 1684382431,
+      "rank": 14,
+      "category": "其它"
+    },
+    {
       "raw_hot": 33362,
       "num": 255193,
       "word": "五一高速充电依旧排队",
@@ -36897,6 +37033,14 @@
       "onboard_time": 1683737959,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 28654,
+      "num": 194826,
+      "word": "云养猫的快乐谁懂啊",
+      "onboard_time": 1684383273,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 28426,
