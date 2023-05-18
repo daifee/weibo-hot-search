@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/05/01 00:20:43 ~ 2023/05/19 07:17:12
+本榜单时间：2023/05/01 00:20:43 ~ 2023/05/19 07:33:39
 </p>
 </blockquote>
 <p>
@@ -5529,6 +5529,12 @@ K435（热度：741494）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E6%89%AB%E7%A0%81%E6%94%AF%E4%BB%98%E5%8F%8D%E5%BA%94%23" target="weibo">
+蔡依林扫码支付反应（热度：716778）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E5%94%B1%E5%BF%90%E5%BF%91%23" target="weibo">
 美依礼芽唱忐忑（热度：716724）
 </a>
@@ -6005,12 +6011,6 @@ T1和JDG决胜局（热度：686731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%A4%B4%E5%A9%9A%E5%8F%AF%E4%BB%A5%E5%87%8F%E5%B0%91%E5%A4%AB%E5%A6%BB%E7%9F%9B%E7%9B%BE%E5%90%97%23" target="weibo">
 两头婚可以减少夫妻矛盾吗（热度：660976）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%8E%98%E5%B2%9B%E6%A1%88%23" target="weibo">
-巴厘岛案（热度：660702）
 </a>
 </li>
 
