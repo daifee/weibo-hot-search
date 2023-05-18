@@ -1,6 +1,6 @@
 {
   "startTime": 1684340516423,
-  "endTime": 1684406021138,
+  "endTime": 1684408437346,
   "band_list": [
     {
       "raw_hot": 3289723,
@@ -203,6 +203,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1263114,
+      "num": 1263114,
+      "word": "飞机失事超两周后找到4名幸存儿童",
+      "onboard_time": 1684394189,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1154523,
       "num": 1154523,
       "word": "杨幂把丝巾系腰上",
@@ -211,8 +219,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 1107907,
-      "num": 1107907,
+      "raw_hot": 1111503,
+      "num": 1111503,
       "word": "张雨绮回应戛纳礼服丢了",
       "onboard_time": 1684399530,
       "rank": 11,
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 943978,
-      "num": 330762,
+      "num": 367393,
       "word": "赵丽颖丸子头簪发",
       "onboard_time": 1684397490,
       "rank": 20,
@@ -267,12 +275,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 921929,
-      "num": 921929,
-      "word": "飞机失事超两周后找到4名幸存儿童",
-      "onboard_time": 1684394189,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 885394,
+      "num": 885394,
+      "word": "港媒曝植物人听姜涛歌曲有反应",
+      "onboard_time": 1684404211,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 882217,
@@ -297,14 +305,6 @@
       "onboard_time": 1684372053,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 749200,
-      "num": 749200,
-      "word": "港媒曝植物人听姜涛歌曲有反应",
-      "onboard_time": 1684404211,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 737559,
@@ -507,6 +507,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 468956,
+      "num": 468956,
+      "word": "女装越做越小是商家在制造身材焦虑吗",
+      "onboard_time": 1684403370,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463834,
+      "num": 463834,
+      "word": "LOL暂时禁用四个英雄",
+      "onboard_time": 1684404990,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 461443,
       "num": 461443,
       "word": "韩素希说宋慧乔还是我的",
@@ -579,6 +595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 430405,
+      "num": 430405,
+      "word": "宁安如梦演员删评论",
+      "onboard_time": 1684407269,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 425627,
       "num": 425627,
       "word": "杜华李飞龙丹妮有一个群",
@@ -619,6 +643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 403052,
+      "num": 403052,
+      "word": "护心",
+      "onboard_time": 1684320509,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 398483,
       "num": 398483,
       "word": "王牌部队",
@@ -633,6 +665,14 @@
       "onboard_time": 1684383696,
       "rank": 44,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 391538,
+      "num": 391538,
+      "word": "李兰迪的妆是自己化的",
+      "onboard_time": 1684404330,
+      "rank": 32,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 389368,
@@ -657,14 +697,6 @@
       "onboard_time": 1684376548,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 381347,
-      "num": 381347,
-      "word": "女装越做越小是商家在制造身材焦虑吗",
-      "onboard_time": 1684403370,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 379812,
@@ -787,6 +819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 336073,
+      "num": 217577,
+      "word": "专家称笑果文化至少3年内不能上市",
+      "onboard_time": 1684407868,
+      "rank": 30,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 335003,
       "num": 299408,
       "word": "不小心看到了保洁大妈的账户",
@@ -867,14 +907,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 307351,
-      "num": 307351,
-      "word": "LOL暂时禁用四个英雄",
-      "onboard_time": 1684404990,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 306735,
       "num": 306735,
       "word": "刘亦菲水中倒影封面预告",
@@ -923,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293238,
+      "num": 293238,
+      "word": "aespa新歌MCD一位",
+      "onboard_time": 1684406729,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293177,
       "num": 280271,
       "word": "上海暂停笑果文化在沪全部演出",
@@ -939,20 +979,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 289242,
+      "raw_hot": 290546,
       "num": 1596830,
       "word": "跪着上课考上大学的00后折叠男孩",
       "onboard_time": 1684403429,
       "rank": 4,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 287988,
-      "num": 287988,
-      "word": "李兰迪的妆是自己化的",
-      "onboard_time": 1684404330,
-      "rank": 32,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 286377,
@@ -1065,6 +1097,14 @@
       "onboard_time": 1684380212,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 241778,
+      "num": 230439,
+      "word": "平底锅文学",
+      "onboard_time": 1684407026,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 241750,
@@ -1219,6 +1259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 216696,
+      "num": 216696,
+      "word": "Ella点人",
+      "onboard_time": 1684406970,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216426,
       "num": 216426,
       "word": "雨中的赵丽颖",
@@ -1233,6 +1281,14 @@
       "onboard_time": 1684367187,
       "rank": 29,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 214857,
+      "num": 214857,
+      "word": "胡兵工作室回应结婚",
+      "onboard_time": 1684408169,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 214034,
@@ -1387,14 +1443,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 186868,
-      "num": 186868,
-      "word": "护心",
-      "onboard_time": 1684320509,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 186134,
       "num": 186134,
       "word": "孩子被迫成为家里的精神支柱",
@@ -1473,6 +1521,14 @@
       "onboard_time": 1684402290,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 173053,
+      "num": 173053,
+      "word": "种地吧",
+      "onboard_time": 1684405048,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 172242,
@@ -1587,6 +1643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 156551,
+      "num": 156551,
+      "word": "沙一汀 我是未来rap spa",
+      "onboard_time": 1684406608,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155926,
       "num": 155926,
       "word": "钟欣潼蔡卓妍纪念Twins22周年",
@@ -1699,19 +1763,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 146004,
+      "num": 146004,
+      "word": "混双 签表",
+      "onboard_time": 1684406250,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145840,
       "num": 402089,
       "word": "厕所是打工人的避风港吧",
       "onboard_time": 1684382314,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 142840,
-      "num": 142840,
-      "word": "种地吧",
-      "onboard_time": 1684405048,
-      "rank": 45,
       "category": "综艺"
     },
     {
@@ -1761,6 +1825,22 @@
       "onboard_time": 1684400849,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 129414,
+      "num": 129414,
+      "word": "王鹤棣你让王传君歇会儿吧",
+      "onboard_time": 1684407209,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 129338,
+      "num": 129338,
+      "word": "他好像真的想教会我离职",
+      "onboard_time": 1684406548,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 128525,
@@ -2130,6 +2210,9 @@
     },
     {
       "word": "#习近平与中亚五国的丝路情缘#"
+    },
+    {
+      "word": "#习近平同塔吉克斯坦总统会谈#"
     }
   ]
 }
