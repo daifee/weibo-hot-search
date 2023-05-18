@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684386945120,
+  "endTime": 1684388010767,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -443,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1719072,
+      "num": 1549973,
+      "word": "25岁中国男子惨死巴黎公寓中",
+      "onboard_time": 1684379489,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1714112,
       "num": 1714112,
       "word": "李国庆向孟羽童道歉",
@@ -497,14 +505,6 @@
       "onboard_time": 1684295134,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1654339,
-      "num": 1549973,
-      "word": "25岁中国男子惨死巴黎公寓中",
-      "onboard_time": 1684379489,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1641832,
@@ -979,6 +979,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1144271,
+      "num": 1144271,
+      "word": "吃了一碗三十五块钱的麻辣烫",
+      "onboard_time": 1684379794,
+      "rank": 39,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 1139373,
       "num": 1139373,
       "word": "泫雅说会来武汉音乐节",
@@ -1185,14 +1193,6 @@
       "onboard_time": 1684137508,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 951169,
-      "num": 951169,
-      "word": "吃了一碗三十五块钱的麻辣烫",
-      "onboard_time": 1684379794,
-      "rank": 39,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 948303,
@@ -1715,6 +1715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 645529,
+      "num": 645529,
+      "word": "24岁以下青年失业率首破20%",
+      "onboard_time": 1684384354,
+      "rank": 49,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 644941,
       "num": 644941,
       "word": "CBA总决赛",
@@ -1913,6 +1921,14 @@
       "onboard_time": 1684212514,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 579786,
+      "num": 579786,
+      "word": "凤求凰",
+      "onboard_time": 1684386331,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 577969,
@@ -2275,14 +2291,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 475616,
-      "num": 565616,
-      "word": "24岁以下青年失业率首破20%",
-      "onboard_time": 1684384354,
-      "rank": 49,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 475421,
       "num": 475421,
       "word": "32岁女生相亲角因条件高被男子怼哭",
@@ -2489,6 +2497,14 @@
       "onboard_time": 1684147107,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 442556,
+      "num": 442556,
+      "word": "男朋友爸妈建议我去考编制",
+      "onboard_time": 1684383214,
+      "rank": 39,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 440889,
@@ -2777,14 +2793,6 @@
       "onboard_time": 1684127312,
       "rank": 34,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 399083,
-      "num": 399083,
-      "word": "男朋友爸妈建议我去考编制",
-      "onboard_time": 1684383214,
-      "rank": 39,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 398265,
@@ -3363,6 +3371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 326812,
+      "num": 326812,
+      "word": "央广网评笑果被罚",
+      "onboard_time": 1684383696,
+      "rank": 44,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 326578,
       "num": 326578,
       "word": "选结婚对象什么条件最重要",
@@ -3449,6 +3465,14 @@
       "onboard_time": 1684200450,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 319805,
+      "num": 319805,
+      "word": "虞书欣黑色发带好长",
+      "onboard_time": 1684386931,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 319392,
@@ -3747,14 +3771,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 289226,
-      "num": 289226,
-      "word": "央广网评笑果被罚",
-      "onboard_time": 1684383696,
-      "rank": 44,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 287758,
       "num": 287758,
       "word": "街舞6拟邀队长",
@@ -3929,14 +3945,6 @@
       "onboard_time": 1684163489,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 278055,
-      "num": 278055,
-      "word": "凤求凰",
-      "onboard_time": 1684386331,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 277990,
@@ -4331,12 +4339,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 247197,
+      "num": 247197,
+      "word": "应届毕业生该要多少薪资合适",
+      "onboard_time": 1684385734,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 247119,
       "num": 242349,
       "word": "罗云熙澹台烬猫眼角色热度榜登顶",
       "onboard_time": 1684226308,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 245906,
+      "num": 245906,
+      "word": "关晓彤海边跑步",
+      "onboard_time": 1684384777,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 245708,
@@ -4475,12 +4499,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 237965,
-      "num": 237965,
-      "word": "关晓彤海边跑步",
-      "onboard_time": 1684384777,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 237729,
+      "num": 237729,
+      "word": "拉布拉多香香",
+      "onboard_time": 1684386512,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237705,
@@ -4569,6 +4593,14 @@
       "onboard_time": 1684132107,
       "rank": 33,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 232522,
+      "num": 232522,
+      "word": "女生已婚未孕找工作有多难",
+      "onboard_time": 1684387949,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 232394,
@@ -5019,6 +5051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 211121,
+      "num": 211121,
+      "word": "孙千素颜live图",
+      "onboard_time": 1684387350,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210821,
       "num": 210821,
       "word": "种地吧",
@@ -5049,14 +5089,6 @@
       "onboard_time": 1684073369,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 210102,
-      "num": 210102,
-      "word": "应届毕业生该要多少薪资合适",
-      "onboard_time": 1684385734,
-      "rank": 41,
-      "category": "教育"
     },
     {
       "raw_hot": 209807,
@@ -5105,14 +5137,6 @@
       "onboard_time": 1684118065,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207480,
-      "num": 207480,
-      "word": "拉布拉多香香",
-      "onboard_time": 1684386512,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207304,
@@ -5417,6 +5441,14 @@
       "onboard_time": 1684111107,
       "rank": 22,
       "category": "社会新闻,音乐"
+    },
+    {
+      "raw_hot": 191664,
+      "num": 191664,
+      "word": "拥有多少存款你才会选择结婚",
+      "onboard_time": 1684387469,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 191621,
@@ -5819,14 +5851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178614,
-      "num": 178614,
-      "word": "虞书欣黑色发带好长",
-      "onboard_time": 1684386931,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 178155,
       "num": 178155,
       "word": "教小鸭子玩滑滑梯的小朋友",
@@ -6097,6 +6121,14 @@
       "onboard_time": 1684159590,
       "rank": 29,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 166134,
+      "num": 166134,
+      "word": "王源巡演重庆站售票日历",
+      "onboard_time": 1684387949,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 166114,
@@ -7655,6 +7687,14 @@
       "num": 1406096,
       "word": "寻路古都长安遇见多彩西安",
       "onboard_time": 1684133848,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54753,
+      "num": 844301,
+      "word": "藏在雪糕里的国家宝藏",
+      "onboard_time": 1684387290,
       "rank": 2,
       "category": "社会新闻"
     },
