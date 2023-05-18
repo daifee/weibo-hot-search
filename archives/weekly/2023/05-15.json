@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684430075817,
+  "endTime": 1684431231040,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -8993,6 +8993,14 @@
       "onboard_time": 1684404029,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 47451,
+      "num": 47451,
+      "word": "Ella美依礼芽她追她逃",
+      "onboard_time": 1684430297,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 43171,
