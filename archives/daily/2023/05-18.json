@@ -1,6 +1,6 @@
 {
   "startTime": 1684340516423,
-  "endTime": 1684423020586,
+  "endTime": 1684424027567,
   "band_list": [
     {
       "raw_hot": 3289723,
@@ -107,6 +107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1633269,
+      "num": 1633269,
+      "word": "下个月你工资卡里或将多一笔钱",
+      "onboard_time": 1684420412,
+      "rank": 1,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1625835,
       "num": 1625835,
       "word": "80斤女生试穿XS码裙子拉不上拉链",
@@ -121,14 +129,6 @@
       "onboard_time": 1684336112,
       "rank": 5,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1604575,
-      "num": 1604575,
-      "word": "下个月你工资卡里或将多一笔钱",
-      "onboard_time": 1684420412,
-      "rank": 1,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1593264,
@@ -395,6 +395,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 702315,
+      "num": 702315,
+      "word": "情侣生女后分手保姆代养孩子6年",
+      "onboard_time": 1684419990,
+      "rank": 44,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 673113,
       "num": 673113,
       "word": "易烊千玺最新撸猫视频",
@@ -457,14 +465,6 @@
       "onboard_time": 1684321949,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 582035,
-      "num": 359072,
-      "word": "情侣生女后分手保姆代养孩子6年",
-      "onboard_time": 1684419990,
-      "rank": 44,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 581353,
@@ -756,7 +756,7 @@
     },
     {
       "raw_hot": 426096,
-      "num": 251147,
+      "num": 326380,
       "word": "范丞丞在脖子上挂了个嘴巴",
       "onboard_time": 1684417889,
       "rank": 27,
@@ -833,6 +833,14 @@
       "onboard_time": 1684394851,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 395658,
+      "num": 238025,
+      "word": "妹妹患癌前后1年全家人对比",
+      "onboard_time": 1684422451,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 395094,
@@ -1049,6 +1057,14 @@
       "onboard_time": 1684299759,
       "rank": 37,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 327728,
+      "num": 327728,
+      "word": "黄觉等了易烊千玺四年头发都白了",
+      "onboard_time": 1684422393,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 326857,
@@ -1315,14 +1331,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 255049,
-      "num": 238025,
-      "word": "妹妹患癌前后1年全家人对比",
-      "onboard_time": 1684422451,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251660,
       "num": 251660,
       "word": "迪丽热巴高清怼脸图",
@@ -1547,6 +1555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 217464,
+      "num": 217464,
+      "word": "孙颖莎说和王楚钦沟通信任更多了",
+      "onboard_time": 1684422092,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217414,
       "num": 229533,
       "word": "DRG公布挂牌选手",
@@ -1627,6 +1643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210155,
+      "num": 210155,
+      "word": "1818黄金眼改编成电视剧",
+      "onboard_time": 1684423111,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208896,
       "num": 208896,
       "word": "朴彩英胎毛刘海",
@@ -1657,14 +1681,6 @@
       "onboard_time": 1684315772,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204612,
-      "num": 204612,
-      "word": "孙颖莎说和王楚钦沟通信任更多了",
-      "onboard_time": 1684422092,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 203919,
@@ -1723,14 +1739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197409,
-      "num": 197409,
-      "word": "黄觉等了易烊千玺四年头发都白了",
-      "onboard_time": 1684422393,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 195211,
       "num": 195211,
       "word": "邢昭林晒弟弟舞台照",
@@ -1745,6 +1753,14 @@
       "onboard_time": 1684420291,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 191667,
+      "num": 191667,
+      "word": "Faker",
+      "onboard_time": 1684423111,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 191664,
@@ -1867,6 +1883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177992,
+      "num": 177992,
+      "word": "大唐芙蓉园",
+      "onboard_time": 1684421133,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176695,
       "num": 176695,
       "word": "坏妈妈",
@@ -1987,14 +2011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 164865,
-      "num": 164865,
-      "word": "大唐芙蓉园",
-      "onboard_time": 1684421133,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163903,
       "num": 163903,
       "word": "小猫根本拦不住大狗的巨口",
@@ -2113,6 +2129,14 @@
       "onboard_time": 1684378829,
       "rank": 14,
       "category": "教育,科技"
+    },
+    {
+      "raw_hot": 151162,
+      "num": 151162,
+      "word": "T1和JDG决胜局",
+      "onboard_time": 1684423528,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 151128,
@@ -2305,6 +2329,14 @@
       "onboard_time": 1684418191,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 129036,
+      "num": 287062,
+      "word": "为什么坚持健身反而胖了",
+      "onboard_time": 1684415668,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 128525,
@@ -2504,14 +2536,6 @@
       "word": "曼城晋级欧冠决赛",
       "onboard_time": 1684364962,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 86947,
-      "num": 278296,
-      "word": "为什么坚持健身反而胖了",
-      "onboard_time": 1684415668,
-      "rank": 47,
       "category": "体育"
     },
     {
