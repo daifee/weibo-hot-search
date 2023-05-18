@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684424027567,
+  "endTime": 1684426913140,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -2811,6 +2811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1517943,
+      "num": 1517943,
+      "word": "JDG战胜T1",
+      "onboard_time": 1684425509,
+      "rank": 0,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1515573,
       "num": 1515573,
       "word": "佳能 黄旭熙",
@@ -3233,6 +3241,14 @@
       "onboard_time": 1684039708,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1418107,
+      "num": 1418107,
+      "word": "Faker",
+      "onboard_time": 1684423111,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 1416556,
@@ -7699,6 +7715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 686731,
+      "num": 686731,
+      "word": "T1和JDG决胜局",
+      "onboard_time": 1684423528,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 685337,
       "num": 409840,
       "word": "蔡少芬曾说张丹峰坏坏的",
@@ -9683,6 +9707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 543753,
+      "num": 543753,
+      "word": "黄觉等了易烊千玺四年头发都白了",
+      "onboard_time": 1684422393,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 543100,
       "num": 543100,
       "word": "王石 田朴珺",
@@ -10513,6 +10545,14 @@
       "onboard_time": 1683802227,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 503706,
+      "num": 503706,
+      "word": "JDG团战",
+      "onboard_time": 1684425448,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 503175,
@@ -12163,6 +12203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 439811,
+      "num": 439811,
+      "word": "印尼警方发布巴厘岛命案调查细节",
+      "onboard_time": 1684424489,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439745,
       "num": 439745,
       "word": "刘柏辛提名最佳女歌手",
@@ -12419,6 +12467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 432276,
+      "num": 432276,
+      "word": "T1对战JDG",
+      "onboard_time": 1684412849,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 432256,
       "num": 432256,
       "word": "宋慧乔的发量",
@@ -12628,7 +12684,7 @@
     },
     {
       "raw_hot": 426096,
-      "num": 326380,
+      "num": 330118,
       "word": "范丞丞在脖子上挂了个嘴巴",
       "onboard_time": 1684417889,
       "rank": 27,
@@ -15667,14 +15723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 351524,
-      "num": 351524,
-      "word": "T1对战JDG",
-      "onboard_time": 1684412849,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 351408,
       "num": 351408,
       "word": "睡眠不足的九大表现",
@@ -16899,14 +16947,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 327728,
-      "num": 327728,
-      "word": "黄觉等了易烊千玺四年头发都白了",
-      "onboard_time": 1684422393,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 327328,
       "num": 776036,
       "word": "迪士尼和小米官宣了",
@@ -18017,6 +18057,14 @@
       "onboard_time": 1683971247,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 306190,
+      "num": 306190,
+      "word": "1818黄金眼改编成电视剧",
+      "onboard_time": 1684423111,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 306084,
@@ -20721,6 +20769,14 @@
       "onboard_time": 1683427166,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 265377,
+      "num": 265377,
+      "word": "徐静蕾方辟谣",
+      "onboard_time": 1684424426,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 265289,
@@ -25923,14 +25979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 210155,
-      "num": 210155,
-      "word": "1818黄金眼改编成电视剧",
-      "onboard_time": 1684423111,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 210022,
       "num": 210022,
       "word": "孟羽童曾称董明珠不可复制",
@@ -27955,14 +28003,6 @@
       "category": "社会新闻,音乐"
     },
     {
-      "raw_hot": 191667,
-      "num": 191667,
-      "word": "Faker",
-      "onboard_time": 1684423111,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 191664,
       "num": 191664,
       "word": "拥有多少存款你才会选择结婚",
@@ -29897,6 +29937,14 @@
       "onboard_time": 1682991327,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 175695,
+      "num": 171758,
+      "word": "印尼警方称巴厘岛命案男方多次自残",
+      "onboard_time": 1684426106,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175641,
@@ -32529,14 +32577,6 @@
       "onboard_time": 1682941411,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151162,
-      "num": 151162,
-      "word": "T1和JDG决胜局",
-      "onboard_time": 1684423528,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 151146,
@@ -36235,6 +36275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99033,
+      "num": 99033,
+      "word": "2023MSI胜者组决赛",
+      "onboard_time": 1684426823,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 98376,
       "num": 98376,
       "word": "收1500捞手机者非西湖景区工作人员",
@@ -37884,7 +37932,7 @@
     },
     {
       "raw_hot": 48001,
-      "num": 1056906,
+      "num": 1328768,
       "word": "神十六本月发射",
       "onboard_time": 1684398868,
       "rank": 2,

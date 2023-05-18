@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684424027567,
+  "endTime": 1684426913140,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -675,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1517943,
+      "num": 1517943,
+      "word": "JDG战胜T1",
+      "onboard_time": 1684425509,
+      "rank": 0,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1512309,
       "num": 1512309,
       "word": "飞机失事超两周后找到4名幸存儿童",
@@ -777,6 +785,14 @@
       "onboard_time": 1684368990,
       "rank": 4,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 1418107,
+      "num": 1418107,
+      "word": "Faker",
+      "onboard_time": 1684423111,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 1414087,
@@ -1795,6 +1811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 686731,
+      "num": 686731,
+      "word": "T1和JDG决胜局",
+      "onboard_time": 1684423528,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 683248,
       "num": 683248,
       "word": "当你胖了四斤肉而已",
@@ -2235,6 +2259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 543753,
+      "num": 543753,
+      "word": "黄觉等了易烊千玺四年头发都白了",
+      "onboard_time": 1684422393,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 541047,
       "num": 541047,
       "word": "湖人vs掘金",
@@ -2409,6 +2441,14 @@
       "onboard_time": 1684227272,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 503706,
+      "num": 503706,
+      "word": "JDG团战",
+      "onboard_time": 1684425448,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 502709,
@@ -2883,6 +2923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 439811,
+      "num": 439811,
+      "word": "印尼警方发布巴厘岛命案调查细节",
+      "onboard_time": 1684424489,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439745,
       "num": 439745,
       "word": "刘柏辛提名最佳女歌手",
@@ -2929,6 +2977,14 @@
       "onboard_time": 1684154127,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 432276,
+      "num": 432276,
+      "word": "T1对战JDG",
+      "onboard_time": 1684412849,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 431306,
@@ -2980,7 +3036,7 @@
     },
     {
       "raw_hot": 426096,
-      "num": 326380,
+      "num": 330118,
       "word": "范丞丞在脖子上挂了个嘴巴",
       "onboard_time": 1684417889,
       "rank": 27,
@@ -3651,14 +3707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 351524,
-      "num": 351524,
-      "word": "T1对战JDG",
-      "onboard_time": 1684412849,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 350773,
       "num": 350773,
       "word": "李晟敏因认知度低而流泪",
@@ -3873,14 +3921,6 @@
       "onboard_time": 1684331194,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 327728,
-      "num": 327728,
-      "word": "黄觉等了易烊千玺四年头发都白了",
-      "onboard_time": 1684422393,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 327328,
@@ -4137,6 +4177,14 @@
       "onboard_time": 1684382133,
       "rank": 38,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 306190,
+      "num": 306190,
+      "word": "1818黄金眼改编成电视剧",
+      "onboard_time": 1684423111,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 305163,
@@ -4680,6 +4728,14 @@
       "word": "笑果官方演员名单中已无House",
       "onboard_time": 1684208369,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 265377,
+      "num": 265377,
+      "word": "徐静蕾方辟谣",
+      "onboard_time": 1684424426,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -5827,14 +5883,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 210155,
-      "num": 210155,
-      "word": "1818黄金眼改编成电视剧",
-      "onboard_time": 1684423111,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 209807,
       "num": 171262,
       "word": "追你的人突然有对象了",
@@ -6233,14 +6281,6 @@
       "onboard_time": 1684111107,
       "rank": 22,
       "category": "社会新闻,音乐"
-    },
-    {
-      "raw_hot": 191667,
-      "num": 191667,
-      "word": "Faker",
-      "onboard_time": 1684423111,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 191664,
@@ -6769,6 +6809,14 @@
       "onboard_time": 1684206867,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 175695,
+      "num": 171758,
+      "word": "印尼警方称巴厘岛命案男方多次自残",
+      "onboard_time": 1684426106,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175599,
@@ -7401,14 +7449,6 @@
       "onboard_time": 1684254087,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151162,
-      "num": 151162,
-      "word": "T1和JDG决胜局",
-      "onboard_time": 1684423528,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 151128,
@@ -8467,6 +8507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99033,
+      "num": 99033,
+      "word": "2023MSI胜者组决赛",
+      "onboard_time": 1684426823,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 98321,
       "num": 133550,
       "word": "小学师生冒雨降旗",
@@ -8892,7 +8940,7 @@
     },
     {
       "raw_hot": 48001,
-      "num": 1056906,
+      "num": 1328768,
       "word": "神十六本月发射",
       "onboard_time": 1684398868,
       "rank": 2,
