@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684427846011,
+  "endTime": 1684430075817,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -3052,7 +3052,7 @@
     },
     {
       "raw_hot": 425207,
-      "num": 239225,
+      "num": 305124,
       "word": "蔡依林扫码支付反应",
       "onboard_time": 1684415190,
       "rank": 25,
@@ -8795,6 +8795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72041,
+      "num": 72041,
+      "word": "郭晓婷参加农场婚礼随拍",
+      "onboard_time": 1684427904,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70688,
       "num": 117280,
       "word": "李白玉鸾吟星传说",
@@ -8937,6 +8945,14 @@
       "onboard_time": 1684220429,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 52430,
+      "num": 52430,
+      "word": "原来是一碗丝路味道的biangbiang面",
+      "onboard_time": 1684427004,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50631,
