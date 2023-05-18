@@ -1,0 +1,410 @@
+{
+  "runTime": 1684427846011,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1295011,
+        "num": 1295011,
+        "word": "JDG战胜T1",
+        "onboard_time": 1684425509,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1305281,
+        "num": 1221612,
+        "word": "Faker",
+        "onboard_time": 1684423111,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13717,
+        "num": 1116304,
+        "word": "神十六本月发射",
+        "onboard_time": 1684398868,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1110138,
+        "num": 1110138,
+        "word": "下个月你工资卡里或将多一笔钱",
+        "onboard_time": 1684420412,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1008126,
+        "num": 1008126,
+        "word": "包文婧回应谢娜三万梗",
+        "onboard_time": 1684417829,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 685753,
+        "num": 685753,
+        "word": "李诞去年卸任笑果董事",
+        "onboard_time": 1684411588,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 458913,
+        "num": 458913,
+        "word": "印尼警方发布巴厘岛命案调查细节",
+        "onboard_time": 1684424489,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455944,
+        "num": 455944,
+        "word": "T1和JDG决胜局",
+        "onboard_time": 1684423528,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 438856,
+        "num": 438856,
+        "word": "黄觉等了易烊千玺四年头发都白了",
+        "onboard_time": 1684422393,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 418251,
+        "num": 418251,
+        "word": "情侣生女后分手保姆代养孩子6年",
+        "onboard_time": 1684419990,
+        "rank": 9,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 371888,
+        "num": 371888,
+        "word": "JDG团战",
+        "onboard_time": 1684425448,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 293994,
+        "num": 293994,
+        "word": "T1对战JDG",
+        "onboard_time": 1684412849,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 291551,
+        "num": 291551,
+        "word": "优酷6至8月备播剧",
+        "onboard_time": 1684419936,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271934,
+        "num": 271934,
+        "word": "范丞丞在脖子上挂了个嘴巴",
+        "onboard_time": 1684417889,
+        "rank": 13,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 263983,
+        "num": 263983,
+        "word": "护心男二 加戏",
+        "onboard_time": 1684410210,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233918,
+        "num": 233918,
+        "word": "1818黄金眼改编成电视剧",
+        "onboard_time": 1684423111,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223160,
+        "num": 223160,
+        "word": "胡兵工作室回应结婚",
+        "onboard_time": 1684408169,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219284,
+        "num": 219284,
+        "word": "徐静蕾方辟谣",
+        "onboard_time": 1684424426,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199493,
+        "num": 199493,
+        "word": "T1不ban安妮",
+        "onboard_time": 1684419271,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197431,
+        "num": 197431,
+        "word": "蔡依林扫码支付反应",
+        "onboard_time": 1684415190,
+        "rank": 19,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 360722,
+        "num": 196058,
+        "word": "赵丽颖含泪和粉丝挥手",
+        "onboard_time": 1684419691,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323517,
+        "num": 195565,
+        "word": "妹妹患癌前后1年全家人对比",
+        "onboard_time": 1684422451,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252582,
+        "num": 194218,
+        "word": "蔡晓蕾孩子胎停",
+        "onboard_time": 1684417889,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199217,
+        "num": 192676,
+        "word": "为什么谈恋爱一定要多见面",
+        "onboard_time": 1684415908,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191533,
+        "num": 191533,
+        "word": "微信 吃内存",
+        "onboard_time": 1684396171,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 173997,
+        "num": 173997,
+        "word": "说一个十年都没有涨过价的东西",
+        "onboard_time": 1684418608,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171866,
+        "num": 171866,
+        "word": "宋雨琦多巴胺甜妹",
+        "onboard_time": 1684413209,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164057,
+        "num": 164057,
+        "word": "叶舒华好可爱",
+        "onboard_time": 1684416089,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157867,
+        "num": 157867,
+        "word": "华为",
+        "onboard_time": 1684415428,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 153566,
+        "num": 153566,
+        "word": "管泽元",
+        "onboard_time": 1684417290,
+        "rank": 29,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 237695,
+        "num": 151422,
+        "word": "印尼警方称巴厘岛命案男方多次自残",
+        "onboard_time": 1684426106,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209893,
+        "num": 147473,
+        "word": "张馨予 如果不救基本没命",
+        "onboard_time": 1684400430,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173737,
+        "num": 144925,
+        "word": "张雨绮回应戛纳礼服丢了",
+        "onboard_time": 1684399530,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142307,
+        "num": 142307,
+        "word": "这酒店和直接睡大街有什么区别",
+        "onboard_time": 1684412066,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132688,
+        "num": 132688,
+        "word": "孙颖莎说和王楚钦沟通信任更多了",
+        "onboard_time": 1684422092,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132560,
+        "num": 132560,
+        "word": "肖战被西安美食辣到",
+        "onboard_time": 1684410748,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131623,
+        "num": 131623,
+        "word": "川传出轨多位女学生老师被辞退",
+        "onboard_time": 1684402467,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 127282,
+        "num": 127282,
+        "word": "2023MSI胜者组决赛",
+        "onboard_time": 1684426823,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120366,
+        "num": 120366,
+        "word": "护心",
+        "onboard_time": 1684405892,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115952,
+        "num": 115952,
+        "word": "大唐芙蓉园",
+        "onboard_time": 1684421133,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108181,
+        "num": 108181,
+        "word": "藏狐 随便长长得了",
+        "onboard_time": 1684419630,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107340,
+        "num": 107340,
+        "word": "山东一派出所长被举报戴名表开豪车",
+        "onboard_time": 1684412609,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105812,
+        "num": 105812,
+        "word": "赵丽颖丸子头簪发",
+        "onboard_time": 1684397490,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 97544,
+        "num": 97544,
+        "word": "的哥路遇男孩说想看飞机",
+        "onboard_time": 1684427364,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97307,
+        "num": 97307,
+        "word": "专家称笑果文化至少3年内不能上市",
+        "onboard_time": 1684407868,
+        "rank": 44,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 97201,
+        "num": 97201,
+        "word": "戛纳",
+        "onboard_time": 1684413568,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91887,
+        "num": 91887,
+        "word": "港媒曝植物人听姜涛歌曲有反应",
+        "onboard_time": 1684404211,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90664,
+        "num": 90664,
+        "word": "法网2023",
+        "onboard_time": 1684427243,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89812,
+        "num": 89812,
+        "word": "李兰迪的妆是自己化的",
+        "onboard_time": 1684404330,
+        "rank": 48,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 89393,
+        "num": 89393,
+        "word": "80斤女生试穿XS码裙子拉不上拉链",
+        "onboard_time": 1684397068,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国—中亚峰会#"
+    }
+  }
+}
