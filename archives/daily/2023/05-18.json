@@ -1,6 +1,6 @@
 {
   "startTime": 1684340516423,
-  "endTime": 1684391664407,
+  "endTime": 1684394113883,
   "band_list": [
     {
       "raw_hot": 3289723,
@@ -99,12 +99,28 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 1505047,
+      "num": 1354188,
+      "word": "谢娜说当时就已经还包文婧钱了",
+      "onboard_time": 1684392327,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1496561,
       "num": 1199629,
       "word": "女生遭两闺蜜PUA长达8年被骗百万",
       "onboard_time": 1684370491,
       "rank": 7,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 1489564,
+      "num": 1308947,
+      "word": "女生已婚未孕找工作有多难",
+      "onboard_time": 1684387949,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 1461873,
@@ -147,6 +163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1369472,
+      "num": 1369472,
+      "word": "领导让我们三个怀孕错开",
+      "onboard_time": 1684391189,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1154523,
       "num": 1154523,
       "word": "杨幂把丝巾系腰上",
@@ -177,6 +201,14 @@
       "onboard_time": 1684376187,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 925892,
+      "num": 925892,
+      "word": "高叶礼服是自己缝的",
+      "onboard_time": 1684389687,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 882217,
@@ -225,14 +257,6 @@
       "onboard_time": 1684385855,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 650260,
-      "num": 650260,
-      "word": "高叶礼服是自己缝的",
-      "onboard_time": 1684389687,
-      "rank": 15,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 645529,
@@ -297,14 +321,6 @@
       "onboard_time": 1684375350,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 543351,
-      "num": 543351,
-      "word": "女生已婚未孕找工作有多难",
-      "onboard_time": 1684387949,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 540104,
@@ -435,6 +451,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 440622,
+      "num": 393796,
+      "word": "曾经最差的学生回来了",
+      "onboard_time": 1684390591,
+      "rank": 46,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 438853,
       "num": 438853,
       "word": "于正有点人脉",
@@ -513,6 +537,22 @@
       "onboard_time": 1684364780,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370878,
+      "num": 370878,
+      "word": "于正选的新人颜值",
+      "onboard_time": 1684388069,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 366298,
+      "num": 366298,
+      "word": "那英说谢霆锋只会唱王菲的歌",
+      "onboard_time": 1684392089,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 359435,
@@ -619,14 +659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 313957,
-      "num": 213249,
-      "word": "领导让我们三个怀孕错开",
-      "onboard_time": 1684391189,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 308824,
       "num": 308824,
       "word": "宁安如梦",
@@ -675,14 +707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 294645,
-      "num": 294645,
-      "word": "于正选的新人颜值",
-      "onboard_time": 1684388069,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 294367,
       "num": 294367,
       "word": "流浪猫用最后一口气跑宠物医院求助",
@@ -697,6 +721,14 @@
       "onboard_time": 1684315050,
       "rank": 19,
       "category": "社会新闻,作品衍生"
+    },
+    {
+      "raw_hot": 287538,
+      "num": 287538,
+      "word": "网友问何超莲什么时候备孕",
+      "onboard_time": 1684392268,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 286377,
@@ -739,14 +771,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 267816,
-      "num": 212827,
-      "word": "曾经最差的学生回来了",
-      "onboard_time": 1684390591,
-      "rank": 46,
-      "category": "幽默,教育"
-    },
-    {
       "raw_hot": 266497,
       "num": 266497,
       "word": "红楼梦",
@@ -771,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254060,
+      "num": 254060,
+      "word": "宋丹丹张国立王鹤棣像一家三口",
+      "onboard_time": 1684392627,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251660,
       "num": 251660,
       "word": "迪丽热巴高清怼脸图",
@@ -785,6 +817,14 @@
       "onboard_time": 1684384777,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245278,
+      "num": 245278,
+      "word": "二阳",
+      "onboard_time": 1684388850,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243972,
@@ -891,14 +931,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 218063,
-      "num": 218063,
-      "word": "二阳",
-      "onboard_time": 1684388850,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216813,
       "num": 216813,
       "word": "时代少年团群聊改名了",
@@ -961,6 +993,14 @@
       "onboard_time": 1684387350,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209339,
+      "num": 209339,
+      "word": "A股",
+      "onboard_time": 1684392929,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 208896,
@@ -1115,6 +1155,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 174044,
+      "num": 174044,
+      "word": "秦始皇拉回不想上班的兵马俑",
+      "onboard_time": 1684391250,
+      "rank": 47,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 172242,
       "num": 172242,
       "word": "巴特勒35分",
@@ -1148,7 +1196,7 @@
     },
     {
       "raw_hot": 165190,
-      "num": 1047949,
+      "num": 1313587,
       "word": "藏在雪糕里的国家宝藏",
       "onboard_time": 1684387290,
       "rank": 2,
@@ -1283,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142439,
+      "num": 142439,
+      "word": "张新成向往的生活预告",
+      "onboard_time": 1684393408,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141825,
       "num": 141825,
       "word": "宠物入殓师送别每只宠物都会听心跳",
@@ -1313,14 +1369,6 @@
       "onboard_time": 1684311396,
       "rank": 38,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 128899,
-      "num": 128899,
-      "word": "秦始皇拉回不想上班的兵马俑",
-      "onboard_time": 1684391250,
-      "rank": 47,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 128448,
@@ -1355,11 +1403,35 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 112661,
+      "num": 112661,
+      "word": "上海一公司为庆祝Twins出道放假1天",
+      "onboard_time": 1684393528,
+      "rank": 43,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 112556,
       "num": 112556,
       "word": "声生不息金曲盛典歌单",
       "onboard_time": 1684333470,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 107506,
+      "num": 107506,
+      "word": "鹿晗二巡演唱会重映",
+      "onboard_time": 1684388669,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 107164,
+      "num": 107164,
+      "word": "徐明浩孙悟空造型骑马好帅",
+      "onboard_time": 1684394010,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -1441,6 +1513,14 @@
       "onboard_time": 1684381711,
       "rank": 24,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 89157,
+      "num": 325340,
+      "word": "戛纳红毯的中国面孔",
+      "onboard_time": 1684393465,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 87279,
