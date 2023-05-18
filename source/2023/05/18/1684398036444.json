@@ -1,0 +1,410 @@
+{
+  "runTime": 1684398036444,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1917335,
+        "num": 1917335,
+        "word": "谢娜说当时就已经还包文婧钱了",
+        "onboard_time": 1684392327,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1476582,
+        "num": 1476582,
+        "word": "微信 吃内存",
+        "onboard_time": 1684396171,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 99828,
+        "num": 1402492,
+        "word": "藏在雪糕里的国家宝藏",
+        "onboard_time": 1684387290,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1379419,
+        "num": 1379419,
+        "word": "女生已婚未孕找工作有多难",
+        "onboard_time": 1684387949,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 824916,
+        "num": 824916,
+        "word": "网友侵权赵丽颖被限制消费",
+        "onboard_time": 1684395571,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 773088,
+        "num": 773088,
+        "word": "吃了一碗三十五块钱的麻辣烫",
+        "onboard_time": 1684379794,
+        "rank": 5,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 1153813,
+        "num": 767790,
+        "word": "领导让我们三个怀孕错开",
+        "onboard_time": 1684391189,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 733876,
+        "num": 733876,
+        "word": "高叶礼服是自己缝的",
+        "onboard_time": 1684389687,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 557525,
+        "num": 557525,
+        "word": "丁禹兮任敏获金扫帚最令人失望男女主",
+        "onboard_time": 1684396530,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 525486,
+        "num": 546162,
+        "word": "得知四级真题被学校丢了后",
+        "onboard_time": 1684379794,
+        "rank": 9,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 543152,
+        "num": 543152,
+        "word": "凤求凰",
+        "onboard_time": 1684386331,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 398483,
+        "num": 398483,
+        "word": "王牌部队",
+        "onboard_time": 1684394851,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373211,
+        "num": 373211,
+        "word": "巴厘岛遇害女生",
+        "onboard_time": 1684378409,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370971,
+        "num": 370971,
+        "word": "网友问何超莲什么时候备孕",
+        "onboard_time": 1684392268,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 360891,
+        "num": 360891,
+        "word": "比亚迪",
+        "onboard_time": 1684396049,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353374,
+        "num": 353374,
+        "word": "曾经最差的学生回来了",
+        "onboard_time": 1684390591,
+        "rank": 15,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 339932,
+        "num": 339932,
+        "word": "宋丹丹张国立王鹤棣像一家三口",
+        "onboard_time": 1684392627,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332123,
+        "num": 332123,
+        "word": "杜华李飞龙丹妮有一个群",
+        "onboard_time": 1684395508,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305411,
+        "num": 305411,
+        "word": "于正选的新人颜值",
+        "onboard_time": 1684388069,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291994,
+        "num": 291994,
+        "word": "张新成向往的生活预告",
+        "onboard_time": 1684393408,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 654317,
+        "num": 283749,
+        "word": "赵丽颖丸子头簪发",
+        "onboard_time": 1684397490,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 356783,
+        "num": 280275,
+        "word": "飞机失事超两周后找到4名幸存儿童",
+        "onboard_time": 1684394189,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258396,
+        "num": 258396,
+        "word": "那英说谢霆锋只会唱王菲的歌",
+        "onboard_time": 1684392089,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245373,
+        "num": 245373,
+        "word": "25岁中国男子惨死巴黎公寓中",
+        "onboard_time": 1684379489,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107886,
+        "num": 243795,
+        "word": "职场中的崩溃就在一瞬间",
+        "onboard_time": 1684397131,
+        "rank": 24,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 249267,
+        "num": 243573,
+        "word": "杨幂把丝巾系腰上",
+        "onboard_time": 1684381352,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 243185,
+        "num": 243185,
+        "word": "五百元对普通家庭是什么概念",
+        "onboard_time": 1684396831,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216956,
+        "num": 216956,
+        "word": "宝宝昏迷叫不到120交警连说3个管",
+        "onboard_time": 1684388728,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216791,
+        "num": 216791,
+        "word": "A股",
+        "onboard_time": 1684392929,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 157786,
+        "num": 198523,
+        "word": "央广网评笑果被罚",
+        "onboard_time": 1684383696,
+        "rank": 29,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 343649,
+        "num": 196210,
+        "word": "80斤女生试穿XS码裙子拉不上拉链",
+        "onboard_time": 1684397068,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193033,
+        "num": 193033,
+        "word": "胡兵说与陪伴30年的TA结婚了",
+        "onboard_time": 1684377810,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301499,
+        "num": 192496,
+        "word": "笑果被罚1335万是如何算出来的",
+        "onboard_time": 1684396709,
+        "rank": 32,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 183345,
+        "num": 183345,
+        "word": "不小心看到了保洁大妈的账户",
+        "onboard_time": 1684397669,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163657,
+        "num": 163657,
+        "word": "男朋友爸妈建议我去考编制",
+        "onboard_time": 1684383214,
+        "rank": 34,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 161020,
+        "num": 161020,
+        "word": "两个人聊天四个人笑",
+        "onboard_time": 1684396111,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160752,
+        "num": 160752,
+        "word": "十年一品温如言金扫帚奖大满贯",
+        "onboard_time": 1684397789,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158453,
+        "num": 158453,
+        "word": "徐明浩孙悟空造型骑马好帅",
+        "onboard_time": 1684394010,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151378,
+        "num": 151378,
+        "word": "普通人一万块需要存多久",
+        "onboard_time": 1684370430,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148029,
+        "num": 148029,
+        "word": "张韶涵巡演",
+        "onboard_time": 1684397789,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142389,
+        "num": 142389,
+        "word": "虞书欣黑色发带好长",
+        "onboard_time": 1684386931,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137753,
+        "num": 137753,
+        "word": "孙悦51岁运动状态",
+        "onboard_time": 1684395091,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135805,
+        "num": 135805,
+        "word": "声生不息五公上半场舞台剧照",
+        "onboard_time": 1684395869,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132661,
+        "num": 132661,
+        "word": "密室大逃脱",
+        "onboard_time": 1684382733,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132596,
+        "num": 132596,
+        "word": "24岁以下青年失业率首破20%",
+        "onboard_time": 1684384354,
+        "rank": 44,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 132192,
+        "num": 132192,
+        "word": "高叶礼服开线了",
+        "onboard_time": 1684376187,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131067,
+        "num": 131067,
+        "word": "秦始皇拉回不想上班的兵马俑",
+        "onboard_time": 1684391250,
+        "rank": 46,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 123687,
+        "num": 123687,
+        "word": "二阳",
+        "onboard_time": 1684388850,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121605,
+        "num": 121605,
+        "word": "在上海税前7000的真实生活",
+        "onboard_time": 1684378049,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111211,
+        "num": 111211,
+        "word": "穿对衣服的张雨绮",
+        "onboard_time": 1684372053,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平与中亚五国的丝路情缘#"
+    }
+  }
+}

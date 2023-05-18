@@ -1,6 +1,6 @@
 {
   "startTime": 1684340516423,
-  "endTime": 1684395205382,
+  "endTime": 1684398036444,
   "band_list": [
     {
       "raw_hot": 3289723,
@@ -43,20 +43,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1917335,
+      "num": 1917335,
+      "word": "谢娜说当时就已经还包文婧钱了",
+      "onboard_time": 1684392327,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1890922,
       "num": 1525551,
       "word": "普通人一万块需要存多久",
       "onboard_time": 1684370430,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1762987,
-      "num": 1762987,
-      "word": "谢娜说当时就已经还包文婧钱了",
-      "onboard_time": 1684392327,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1719072,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1593264,
-      "num": 1308947,
+      "num": 1379419,
       "word": "女生已婚未孕找工作有多难",
       "onboard_time": 1684387949,
       "rank": 34,
@@ -121,6 +121,14 @@
       "onboard_time": 1684370491,
       "rank": 7,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 1476582,
+      "num": 1476582,
+      "word": "微信 吃内存",
+      "onboard_time": 1684396171,
+      "rank": 1,
+      "category": "科技"
     },
     {
       "raw_hot": 1461873,
@@ -219,6 +227,14 @@
       "category": "教育,幽默"
     },
     {
+      "raw_hot": 824916,
+      "num": 824916,
+      "word": "网友侵权赵丽颖被限制消费",
+      "onboard_time": 1684395571,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 775629,
       "num": 775629,
       "word": "穿对衣服的张雨绮",
@@ -257,6 +273,14 @@
       "onboard_time": 1684385855,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 654317,
+      "num": 283749,
+      "word": "赵丽颖丸子头簪发",
+      "onboard_time": 1684397490,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 645529,
@@ -321,6 +345,14 @@
       "onboard_time": 1684375350,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 557525,
+      "num": 557525,
+      "word": "丁禹兮任敏获金扫帚最令人失望男女主",
+      "onboard_time": 1684396530,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 540104,
@@ -507,6 +539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 398483,
+      "num": 398483,
+      "word": "王牌部队",
+      "onboard_time": 1684394851,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 395094,
       "num": 395094,
       "word": "央广网评笑果被罚",
@@ -555,12 +595,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 370971,
+      "num": 370971,
+      "word": "网友问何超莲什么时候备孕",
+      "onboard_time": 1684392268,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 366298,
       "num": 366298,
       "word": "那英说谢霆锋只会唱王菲的歌",
       "onboard_time": 1684392089,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 360891,
+      "num": 360891,
+      "word": "比亚迪",
+      "onboard_time": 1684396049,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 359435,
@@ -577,6 +633,14 @@
       "onboard_time": 1684373012,
       "rank": 22,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 356783,
+      "num": 280275,
+      "word": "飞机失事超两周后找到4名幸存儿童",
+      "onboard_time": 1684394189,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354911,
@@ -611,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 343649,
+      "num": 196210,
+      "word": "80斤女生试穿XS码裙子拉不上拉链",
+      "onboard_time": 1684397068,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336743,
       "num": 336743,
       "word": "你的QQ号码几位数",
@@ -625,6 +697,14 @@
       "onboard_time": 1684378650,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 332123,
+      "num": 332123,
+      "word": "杜华李飞龙丹妮有一个群",
+      "onboard_time": 1684395508,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 331559,
@@ -649,14 +729,6 @@
       "onboard_time": 1684374209,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 319471,
-      "num": 319471,
-      "word": "网友问何超莲什么时候备孕",
-      "onboard_time": 1684392268,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 317356,
@@ -699,6 +771,14 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 301499,
+      "num": 192496,
+      "word": "笑果被罚1335万是如何算出来的",
+      "onboard_time": 1684396709,
+      "rank": 32,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 300464,
       "num": 300464,
       "word": "谁能管管上海动物园的这两只天鹅",
@@ -739,20 +819,20 @@
       "category": "社会新闻,作品衍生"
     },
     {
+      "raw_hot": 291994,
+      "num": 291994,
+      "word": "张新成向往的生活预告",
+      "onboard_time": 1684393408,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286377,
       "num": 246779,
       "word": "巴厘岛命案调查公布仍有疑点待解",
       "onboard_time": 1684338990,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 285251,
-      "num": 285251,
-      "word": "张新成向往的生活预告",
-      "onboard_time": 1684393408,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 284138,
@@ -811,14 +891,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 261619,
-      "num": 170753,
-      "word": "飞机失事超两周后找到4名幸存儿童",
-      "onboard_time": 1684394189,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 258849,
       "num": 258849,
       "word": "哈文参加女儿哥大毕业典礼",
@@ -857,6 +929,14 @@
       "onboard_time": 1684380212,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 243185,
+      "num": 243185,
+      "word": "五百元对普通家庭是什么概念",
+      "onboard_time": 1684396831,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 241750,
@@ -1115,6 +1195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183345,
+      "num": 183345,
+      "word": "不小心看到了保洁大妈的账户",
+      "onboard_time": 1684397669,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182482,
       "num": 182482,
       "word": "周也直播",
@@ -1212,7 +1300,7 @@
     },
     {
       "raw_hot": 165190,
-      "num": 1313587,
+      "num": 1402492,
       "word": "藏在雪糕里的国家宝藏",
       "onboard_time": 1684387290,
       "rank": 2,
@@ -1249,6 +1337,30 @@
       "onboard_time": 1684368811,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 161020,
+      "num": 161020,
+      "word": "两个人聊天四个人笑",
+      "onboard_time": 1684396111,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 160752,
+      "num": 160752,
+      "word": "十年一品温如言金扫帚奖大满贯",
+      "onboard_time": 1684397789,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 158453,
+      "num": 158453,
+      "word": "徐明浩孙悟空造型骑马好帅",
+      "onboard_time": 1684394010,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 157137,
@@ -1312,6 +1424,14 @@
       "word": "武汉音乐节",
       "onboard_time": 1684332036,
       "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 148029,
+      "num": 148029,
+      "word": "张韶涵巡演",
+      "onboard_time": 1684397789,
+      "rank": 39,
       "category": "音乐"
     },
     {
@@ -1379,6 +1499,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 135805,
+      "num": 135805,
+      "word": "声生不息五公上半场舞台剧照",
+      "onboard_time": 1684395869,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134666,
       "num": 361004,
       "word": "戛纳红毯的中国面孔",
@@ -1393,14 +1521,6 @@
       "onboard_time": 1684311396,
       "rank": 38,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 131534,
-      "num": 131534,
-      "word": "徐明浩孙悟空造型骑马好帅",
-      "onboard_time": 1684394010,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 128525,
@@ -1435,14 +1555,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 117829,
-      "num": 117829,
-      "word": "王牌部队",
-      "onboard_time": 1684394851,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 113588,
       "num": 111231,
       "word": "笑果在京所有演出活动无限期暂停",
@@ -1465,6 +1577,14 @@
       "onboard_time": 1684333470,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107886,
+      "num": 243795,
+      "word": "职场中的崩溃就在一瞬间",
+      "onboard_time": 1684397131,
+      "rank": 24,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 107506,
@@ -1743,6 +1863,9 @@
     },
     {
       "word": "#北斗为梦想导航#"
+    },
+    {
+      "word": "#习近平与中亚五国的丝路情缘#"
     }
   ]
 }
