@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684374471671,
+  "endTime": 1684377244720,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -595,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1496561,
+      "num": 1199629,
+      "word": "女生遭两闺蜜PUA长达8年被骗百万",
+      "onboard_time": 1684370491,
+      "rank": 7,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1463938,
       "num": 606892,
       "word": "张若昀左手拿汉堡右手牵唐艺昕",
@@ -795,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1234475,
+      "num": 1234475,
+      "word": "因为考研失败女朋友要跟我分手",
+      "onboard_time": 1684373012,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1221403,
       "num": 1221403,
       "word": "有退休金与没退休金的直观展示",
@@ -915,14 +931,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 1139485,
-      "num": 1139485,
-      "word": "女生遭两闺蜜PUA长达8年被骗百万",
-      "onboard_time": 1684370491,
-      "rank": 7,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 1139373,
       "num": 1139373,
       "word": "泫雅说会来武汉音乐节",
@@ -1025,6 +1033,14 @@
       "onboard_time": 1684310370,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1052414,
+      "num": 517686,
+      "word": "刘维好刚",
+      "onboard_time": 1684375408,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1029698,
@@ -1323,6 +1339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 775629,
+      "num": 775629,
+      "word": "穿对衣服的张雨绮",
+      "onboard_time": 1684372053,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 770435,
       "num": 770435,
       "word": "QQ音乐",
@@ -1609,14 +1633,6 @@
       "onboard_time": 1684150467,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 641254,
-      "num": 641254,
-      "word": "穿对衣服的张雨绮",
-      "onboard_time": 1684372053,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 640086,
@@ -1937,6 +1953,14 @@
       "onboard_time": 1684370430,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 519803,
+      "num": 519803,
+      "word": "顾客点100元外卖后打赏10元骑手报警",
+      "onboard_time": 1684374689,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 518231,
@@ -2275,6 +2299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 448224,
+      "num": 448224,
+      "word": "怪物",
+      "onboard_time": 1684373489,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 447815,
       "num": 447815,
       "word": "张杰演唱会门票",
@@ -2321,6 +2353,14 @@
       "onboard_time": 1684147107,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 442266,
+      "num": 442266,
+      "word": "年轻女子穿着干净时尚当街跪地乞讨",
+      "onboard_time": 1684375350,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 440889,
@@ -2385,6 +2425,14 @@
       "onboard_time": 1684154127,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 432577,
+      "num": 222725,
+      "word": "高叶礼服开线了",
+      "onboard_time": 1684376187,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 431306,
@@ -2699,14 +2747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 383853,
-      "num": 383853,
-      "word": "因为考研失败女朋友要跟我分手",
-      "onboard_time": 1684373012,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 382793,
       "num": 382793,
       "word": "戛纳 Kpop艺人",
@@ -2801,6 +2841,14 @@
       "onboard_time": 1684199906,
       "rank": 42,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 369474,
+      "num": 369474,
+      "word": "张柏芝晒的是姐姐的女儿",
+      "onboard_time": 1684374689,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 368124,
@@ -2953,6 +3001,14 @@
       "onboard_time": 1684311818,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 348425,
+      "num": 348425,
+      "word": "周也直播读错字",
+      "onboard_time": 1684373612,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 346630,
@@ -3243,14 +3299,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 315221,
-      "num": 315221,
-      "word": "怪物",
-      "onboard_time": 1684373489,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 314361,
       "num": 1489526,
       "word": "她带着奶奶29年的爱离世捐出遗体",
@@ -3312,6 +3360,14 @@
       "word": "官方回应女子捆绑2女儿河中身亡",
       "onboard_time": 1684155027,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309232,
+      "num": 309232,
+      "word": "鼻炎 源于肝郁",
+      "onboard_time": 1684374209,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -3729,14 +3785,6 @@
       "onboard_time": 1684205188,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 270301,
-      "num": 270301,
-      "word": "周也直播读错字",
-      "onboard_time": 1684373612,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 269860,
@@ -4451,6 +4499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221086,
+      "num": 220422,
+      "word": "山东发现国内最大单体金矿床",
+      "onboard_time": 1684374449,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220837,
       "num": 188562,
       "word": "5月追剧人好忙",
@@ -4459,12 +4515,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220438,
+      "num": 220438,
+      "word": "热火",
+      "onboard_time": 1684376548,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220323,
       "num": 220323,
       "word": "女童落水被冲走两小伙飞奔救人",
       "onboard_time": 1684202607,
       "rank": 32,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 220312,
+      "num": 220312,
+      "word": "员工拒绝加班回怼后遭光速开除",
+      "onboard_time": 1684376427,
+      "rank": 34,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 218714,
@@ -4625,6 +4697,14 @@
       "onboard_time": 1684365983,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211734,
+      "num": 211734,
+      "word": "侯明昊编辑记录",
+      "onboard_time": 1684376666,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 211321,
@@ -5064,6 +5144,14 @@
       "word": "陈皓",
       "onboard_time": 1684126054,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189257,
+      "num": 189257,
+      "word": "女子首次养猫倒猫砂致马桶堵塞",
+      "onboard_time": 1684373731,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -5611,14 +5699,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 168633,
-      "num": 168633,
-      "word": "女子首次养猫倒猫砂致马桶堵塞",
-      "onboard_time": 1684373731,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167846,
       "num": 167846,
       "word": "24岁一个朋友都没有正常吗",
@@ -5721,6 +5801,14 @@
       "onboard_time": 1684132289,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163782,
+      "num": 163782,
+      "word": "小猫根本拦不住大狗的巨口",
+      "onboard_time": 1684375782,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 163527,
@@ -5867,14 +5955,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 154205,
-      "num": 154205,
-      "word": "鼻炎 源于肝郁",
-      "onboard_time": 1684374209,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153638,
       "num": 153638,
       "word": "29岁女子因脑积水头大如外星人",
@@ -5953,6 +6033,14 @@
       "onboard_time": 1684249897,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 150400,
+      "num": 150400,
+      "word": "雨中的赵丽颖",
+      "onboard_time": 1684373191,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 150398,
@@ -6187,6 +6275,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 141825,
+      "num": 141825,
+      "word": "宠物入殓师送别每只宠物都会听心跳",
+      "onboard_time": 1684374808,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141360,
       "num": 127942,
       "word": "浪姐4冠军预测",
@@ -6315,14 +6411,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 134125,
-      "num": 134125,
-      "word": "雨中的赵丽颖",
-      "onboard_time": 1684373191,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 133102,
       "num": 133102,
       "word": "盘点笑果文化商业版图",
@@ -6393,14 +6481,6 @@
       "onboard_time": 1684292431,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 131176,
-      "num": 131176,
-      "word": "山东发现国内最大单体金矿床",
-      "onboard_time": 1684374449,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130971,
@@ -7033,6 +7113,14 @@
       "onboard_time": 1684262894,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70688,
+      "num": 103330,
+      "word": "李白玉鸾吟星传说",
+      "onboard_time": 1684375168,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 69974,

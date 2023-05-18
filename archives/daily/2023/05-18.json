@@ -1,6 +1,6 @@
 {
   "startTime": 1684340516423,
-  "endTime": 1684374471671,
+  "endTime": 1684377244720,
   "band_list": [
     {
       "raw_hot": 2541497,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1496561,
+      "num": 1199629,
+      "word": "女生遭两闺蜜PUA长达8年被骗百万",
+      "onboard_time": 1684370491,
+      "rank": 7,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1429711,
       "num": 1429711,
       "word": "高叶戛纳 大气",
@@ -75,12 +83,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1139485,
-      "num": 1139485,
-      "word": "女生遭两闺蜜PUA长达8年被骗百万",
-      "onboard_time": 1684370491,
-      "rank": 7,
-      "category": "社会新闻,情感"
+      "raw_hot": 1234475,
+      "num": 1234475,
+      "word": "因为考研失败女朋友要跟我分手",
+      "onboard_time": 1684373012,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 1107175,
@@ -89,6 +97,22 @@
       "onboard_time": 1684336829,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1052414,
+      "num": 517686,
+      "word": "刘维好刚",
+      "onboard_time": 1684375408,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 775629,
+      "num": 775629,
+      "word": "穿对衣服的张雨绮",
+      "onboard_time": 1684372053,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 737559,
@@ -105,14 +129,6 @@
       "onboard_time": 1684323988,
       "rank": 10,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 641254,
-      "num": 641254,
-      "word": "穿对衣服的张雨绮",
-      "onboard_time": 1684372053,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 585434,
@@ -155,6 +171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 519803,
+      "num": 519803,
+      "word": "顾客点100元外卖后打赏10元骑手报警",
+      "onboard_time": 1684374689,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 514437,
       "num": 328489,
       "word": "笑果和李昊石肆意篡改演出申报内容",
@@ -195,6 +219,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 448224,
+      "num": 448224,
+      "word": "怪物",
+      "onboard_time": 1684373489,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 442266,
+      "num": 442266,
+      "word": "年轻女子穿着干净时尚当街跪地乞讨",
+      "onboard_time": 1684375350,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441331,
       "num": 319097,
       "word": "今年出生的孩子 上学会非常宽松",
@@ -209,6 +249,14 @@
       "onboard_time": 1684330413,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 432577,
+      "num": 222725,
+      "word": "高叶礼服开线了",
+      "onboard_time": 1684376187,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 423555,
@@ -227,20 +275,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 383853,
-      "num": 383853,
-      "word": "因为考研失败女朋友要跟我分手",
-      "onboard_time": 1684373012,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 377845,
       "num": 377845,
       "word": "女子帮闺蜜调解家庭矛盾出轨其丈夫",
       "onboard_time": 1684364780,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369474,
+      "num": 369474,
+      "word": "张柏芝晒的是姐姐的女儿",
+      "onboard_time": 1684374689,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 359435,
@@ -265,6 +313,14 @@
       "onboard_time": 1684336355,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 348425,
+      "num": 348425,
+      "word": "周也直播读错字",
+      "onboard_time": 1684373612,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 345414,
@@ -315,12 +371,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 315221,
-      "num": 315221,
-      "word": "怪物",
-      "onboard_time": 1684373489,
-      "rank": 23,
-      "category": "影视"
+      "raw_hot": 309232,
+      "num": 309232,
+      "word": "鼻炎 源于肝郁",
+      "onboard_time": 1684374209,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 308824,
@@ -379,14 +435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 270301,
-      "num": 270301,
-      "word": "周也直播读错字",
-      "onboard_time": 1684373612,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 263281,
       "num": 263281,
       "word": "杨紫大波浪怼脸拍",
@@ -435,6 +483,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221086,
+      "num": 220422,
+      "word": "山东发现国内最大单体金矿床",
+      "onboard_time": 1684374449,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220438,
+      "num": 220438,
+      "word": "热火",
+      "onboard_time": 1684376548,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 220312,
+      "num": 220312,
+      "word": "员工拒绝加班回怼后遭光速开除",
+      "onboard_time": 1684376427,
+      "rank": 34,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 214903,
       "num": 214903,
       "word": "男友妈妈让我换头像怎么办",
@@ -457,6 +529,14 @@
       "onboard_time": 1684365983,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211734,
+      "num": 211734,
+      "word": "侯明昊编辑记录",
+      "onboard_time": 1684376666,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205632,
@@ -489,6 +569,14 @@
       "onboard_time": 1684368629,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189257,
+      "num": 189257,
+      "word": "女子首次养猫倒猫砂致马桶堵塞",
+      "onboard_time": 1684373731,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188886,
@@ -555,14 +643,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 168633,
-      "num": 168633,
-      "word": "女子首次养猫倒猫砂致马桶堵塞",
-      "onboard_time": 1684373731,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166734,
       "num": 166734,
       "word": "巴厘岛",
@@ -587,6 +667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 163782,
+      "num": 163782,
+      "word": "小猫根本拦不住大狗的巨口",
+      "onboard_time": 1684375782,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163426,
       "num": 163426,
       "word": "赵丽颖到达天津",
@@ -603,20 +691,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154205,
-      "num": 154205,
-      "word": "鼻炎 源于肝郁",
-      "onboard_time": 1684374209,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153638,
       "num": 153638,
       "word": "29岁女子因脑积水头大如外星人",
       "onboard_time": 1684367065,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150400,
+      "num": 150400,
+      "word": "雨中的赵丽颖",
+      "onboard_time": 1684373191,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 150005,
@@ -651,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141825,
+      "num": 141825,
+      "word": "宠物入殓师送别每只宠物都会听心跳",
+      "onboard_time": 1684374808,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139830,
       "num": 139830,
       "word": "戛纳为巩俐清场",
@@ -673,22 +769,6 @@
       "onboard_time": 1684311396,
       "rank": 38,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 134125,
-      "num": 134125,
-      "word": "雨中的赵丽颖",
-      "onboard_time": 1684373191,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 131176,
-      "num": 131176,
-      "word": "山东发现国内最大单体金矿床",
-      "onboard_time": 1684374449,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 128448,
@@ -857,6 +937,14 @@
       "onboard_time": 1684366221,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 70688,
+      "num": 103330,
+      "word": "李白玉鸾吟星传说",
+      "onboard_time": 1684375168,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 69974,
