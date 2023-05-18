@@ -1,6 +1,6 @@
 {
   "startTime": 1684340516423,
-  "endTime": 1684394113883,
+  "endTime": 1684395205382,
   "band_list": [
     {
       "raw_hot": 3289723,
@@ -51,6 +51,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1762987,
+      "num": 1762987,
+      "word": "谢娜说当时就已经还包文婧钱了",
+      "onboard_time": 1684392327,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1719072,
       "num": 1549973,
       "word": "25岁中国男子惨死巴黎公寓中",
@@ -75,6 +83,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1593264,
+      "num": 1308947,
+      "word": "女生已婚未孕找工作有多难",
+      "onboard_time": 1684387949,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1571367,
       "num": 1571367,
       "word": "48岁交警被拖行700余米牺牲",
@@ -92,19 +108,11 @@
     },
     {
       "raw_hot": 1510289,
-      "num": 1321477,
+      "num": 1391165,
       "word": "吃了一碗三十五块钱的麻辣烫",
       "onboard_time": 1684379794,
       "rank": 39,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 1505047,
-      "num": 1354188,
-      "word": "谢娜说当时就已经还包文婧钱了",
-      "onboard_time": 1684392327,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1496561,
@@ -113,14 +121,6 @@
       "onboard_time": 1684370491,
       "rank": 7,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 1489564,
-      "num": 1308947,
-      "word": "女生已婚未孕找工作有多难",
-      "onboard_time": 1684387949,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 1461873,
@@ -155,20 +155,20 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 1398950,
+      "num": 1369472,
+      "word": "领导让我们三个怀孕错开",
+      "onboard_time": 1684391189,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1385427,
       "num": 1385427,
       "word": "凤求凰",
       "onboard_time": 1684386331,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1369472,
-      "num": 1369472,
-      "word": "领导让我们三个怀孕错开",
-      "onboard_time": 1684391189,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 1154523,
@@ -435,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 446959,
+      "num": 393796,
+      "word": "曾经最差的学生回来了",
+      "onboard_time": 1684390591,
+      "rank": 46,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 442556,
       "num": 442556,
       "word": "男朋友爸妈建议我去考编制",
@@ -449,14 +457,6 @@
       "onboard_time": 1684313312,
       "rank": 14,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 440622,
-      "num": 393796,
-      "word": "曾经最差的学生回来了",
-      "onboard_time": 1684390591,
-      "rank": 46,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 438853,
@@ -523,6 +523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 388017,
+      "num": 388017,
+      "word": "宋丹丹张国立王鹤棣像一家三口",
+      "onboard_time": 1684392627,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 383308,
       "num": 383308,
       "word": "热火",
@@ -539,8 +547,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 370878,
-      "num": 370878,
+      "raw_hot": 375081,
+      "num": 375081,
       "word": "于正选的新人颜值",
       "onboard_time": 1684388069,
       "rank": 23,
@@ -643,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319471,
+      "num": 319471,
+      "word": "网友问何超莲什么时候备孕",
+      "onboard_time": 1684392268,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 317356,
       "num": 317356,
       "word": "爱豆什么时候可以谈恋爱",
@@ -723,20 +739,20 @@
       "category": "社会新闻,作品衍生"
     },
     {
-      "raw_hot": 287538,
-      "num": 287538,
-      "word": "网友问何超莲什么时候备孕",
-      "onboard_time": 1684392268,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 286377,
       "num": 246779,
       "word": "巴厘岛命案调查公布仍有疑点待解",
       "onboard_time": 1684338990,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285251,
+      "num": 285251,
+      "word": "张新成向往的生活预告",
+      "onboard_time": 1684393408,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 284138,
@@ -763,6 +779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 272112,
+      "num": 272112,
+      "word": "A股",
+      "onboard_time": 1684392929,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 269647,
       "num": 269647,
       "word": "张萌说讨厌不起来赵露思",
@@ -787,20 +811,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 261619,
+      "num": 170753,
+      "word": "飞机失事超两周后找到4名幸存儿童",
+      "onboard_time": 1684394189,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258849,
       "num": 258849,
       "word": "哈文参加女儿哥大毕业典礼",
       "onboard_time": 1684390410,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 254060,
-      "num": 254060,
-      "word": "宋丹丹张国立王鹤棣像一家三口",
-      "onboard_time": 1684392627,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 251660,
@@ -995,14 +1019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 209339,
-      "num": 209339,
-      "word": "A股",
-      "onboard_time": 1684392929,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 208896,
       "num": 208896,
       "word": "朴彩英胎毛刘海",
@@ -1065,6 +1081,14 @@
       "onboard_time": 1684378772,
       "rank": 43,
       "category": "财经,国内要闻"
+    },
+    {
+      "raw_hot": 189429,
+      "num": 189429,
+      "word": "秦始皇拉回不想上班的兵马俑",
+      "onboard_time": 1684391250,
+      "rank": 47,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 189257,
@@ -1155,14 +1179,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 174044,
-      "num": 174044,
-      "word": "秦始皇拉回不想上班的兵马俑",
-      "onboard_time": 1684391250,
-      "rank": 47,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 172242,
       "num": 172242,
       "word": "巴特勒35分",
@@ -1209,6 +1225,14 @@
       "onboard_time": 1684335514,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 164875,
+      "num": 164875,
+      "word": "孙悦51岁运动状态",
+      "onboard_time": 1684395091,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 163903,
@@ -1331,14 +1355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142439,
-      "num": 142439,
-      "word": "张新成向往的生活预告",
-      "onboard_time": 1684393408,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 141825,
       "num": 141825,
       "word": "宠物入殓师送别每只宠物都会听心跳",
@@ -1363,11 +1379,35 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 134666,
+      "num": 361004,
+      "word": "戛纳红毯的中国面孔",
+      "onboard_time": 1684393465,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 134514,
       "num": 134514,
       "word": "笑果被罚对脱口秀行业影响大吗",
       "onboard_time": 1684311396,
       "rank": 38,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 131534,
+      "num": 131534,
+      "word": "徐明浩孙悟空造型骑马好帅",
+      "onboard_time": 1684394010,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 128525,
+      "num": 128525,
+      "word": "上海一公司为庆祝Twins出道放假1天",
+      "onboard_time": 1684393528,
+      "rank": 43,
       "category": "社会新闻,艺人"
     },
     {
@@ -1395,6 +1435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 117829,
+      "num": 117829,
+      "word": "王牌部队",
+      "onboard_time": 1684394851,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 113588,
       "num": 111231,
       "word": "笑果在京所有演出活动无限期暂停",
@@ -1403,12 +1451,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 112661,
-      "num": 112661,
-      "word": "上海一公司为庆祝Twins出道放假1天",
-      "onboard_time": 1684393528,
-      "rank": 43,
-      "category": "社会新闻,艺人"
+      "raw_hot": 112813,
+      "num": 112813,
+      "word": "公交司机跪地背腿脚不便老人上车",
+      "onboard_time": 1684394670,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112556,
@@ -1425,14 +1473,6 @@
       "onboard_time": 1684388669,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 107164,
-      "num": 107164,
-      "word": "徐明浩孙悟空造型骑马好帅",
-      "onboard_time": 1684394010,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 107102,
@@ -1513,14 +1553,6 @@
       "onboard_time": 1684381711,
       "rank": 24,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 89157,
-      "num": 325340,
-      "word": "戛纳红毯的中国面孔",
-      "onboard_time": 1684393465,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 87279,
