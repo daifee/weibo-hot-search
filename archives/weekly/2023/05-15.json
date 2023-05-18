@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684449203403,
+  "endTime": 1684451832080,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -2035,6 +2035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 616911,
+      "num": 616911,
+      "word": "蔡依林扫码支付反应",
+      "onboard_time": 1684415190,
+      "rank": 25,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 610993,
       "num": 610993,
       "word": "金扫帚奖",
@@ -2683,6 +2691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 468736,
+      "num": 468736,
+      "word": "网约车拒违停2乘客赖车上超24小时",
+      "onboard_time": 1684443972,
+      "rank": 38,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 467849,
       "num": 306162,
       "word": "看中医就没有隐私吗",
@@ -3049,14 +3065,6 @@
       "onboard_time": 1684395508,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 425207,
-      "num": 305124,
-      "word": "蔡依林扫码支付反应",
-      "onboard_time": 1684415190,
-      "rank": 25,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 424997,
@@ -5579,14 +5587,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 221201,
-      "num": 100495,
-      "word": "网约车拒违停2乘客赖车上超24小时",
-      "onboard_time": 1684443972,
-      "rank": 38,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 220837,
       "num": 188562,
       "word": "5月追剧人好忙",
@@ -7075,6 +7075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165784,
+      "num": 165784,
+      "word": "汪小敏ins唯一关注是赵丽娜",
+      "onboard_time": 1684431677,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165506,
       "num": 165506,
       "word": "女子见小孩玩水多留意一眼救下3人",
@@ -7219,6 +7227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161007,
+      "num": 161007,
+      "word": "男子开门杀致超速者死亡被判10个月",
+      "onboard_time": 1684437012,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160425,
       "num": 160425,
       "word": "周一",
@@ -7281,6 +7297,14 @@
       "onboard_time": 1684128628,
       "rank": 42,
       "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 157670,
+      "num": 157670,
+      "word": "西湖边82岁奶奶和旗袍高跟鞋好配",
+      "onboard_time": 1684438872,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157348,
@@ -7633,6 +7657,14 @@
       "onboard_time": 1684405892,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 147003,
+      "num": 147003,
+      "word": "拜登携核按钮抵达广岛",
+      "onboard_time": 1684450819,
+      "rank": 18,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 146845,
@@ -8059,6 +8091,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 129425,
+      "num": 129425,
+      "word": "男朋友毕业一年不肯上班",
+      "onboard_time": 1684451781,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129292,
       "num": 129292,
       "word": "汪小敏一公直拍",
@@ -8475,6 +8515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103889,
+      "num": 103889,
+      "word": "JDG晋级MSI决赛",
+      "onboard_time": 1684451781,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 103530,
       "num": 103530,
       "word": "到一定年龄就会觉醒的特质",
@@ -8539,12 +8587,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97126,
+      "num": 97126,
+      "word": "张雨绮女儿情商",
+      "onboard_time": 1684450880,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96915,
       "num": 96915,
       "word": "杰尼斯社长道歉",
       "onboard_time": 1684073428,
       "rank": 44,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 96208,
+      "num": 96208,
+      "word": "豹子偷偷潜入叼走熟睡狗子",
+      "onboard_time": 1684450819,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95531,
@@ -8603,6 +8667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92666,
+      "num": 92666,
+      "word": "70后大叔报小饭桌和10后萌娃就餐",
+      "onboard_time": 1684445653,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92079,
       "num": 92079,
       "word": "杨幂的打戏",
@@ -8635,6 +8707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 88530,
+      "num": 88530,
+      "word": "戛纳红毯不能没有山东女人",
+      "onboard_time": 1684451661,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 87337,
       "num": 87337,
       "word": "办公室除了我们都是贵又脆弱的东西",
@@ -8657,6 +8737,14 @@
       "onboard_time": 1684165647,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 85790,
+      "num": 85790,
+      "word": "在一线城市月薪多少才够花",
+      "onboard_time": 1684450819,
+      "rank": 37,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 85751,
@@ -8739,27 +8827,11 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 80247,
-      "num": 71675,
-      "word": "汪小敏ins唯一关注是赵丽娜",
-      "onboard_time": 1684431677,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 80039,
       "num": 202736,
       "word": "阿里云将彻底分拆",
       "onboard_time": 1684418429,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79634,
-      "num": 79634,
-      "word": "西湖边82岁奶奶和旗袍高跟鞋好配",
-      "onboard_time": 1684438872,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -8851,6 +8923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69028,
+      "num": 69028,
+      "word": "结婚买钻戒不如买黄金吗",
+      "onboard_time": 1684451661,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68516,
       "num": 68516,
       "word": "清澈的爱一直为中国",
@@ -8931,12 +9011,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 59158,
-      "num": 59158,
-      "word": "70后大叔报小饭桌和10后萌娃就餐",
-      "onboard_time": 1684445653,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 58083,
+      "num": 58083,
+      "word": "黄晓明跳刘畊宏健身操演我",
+      "onboard_time": 1684451661,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 57826,
@@ -8955,6 +9035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56018,
+      "num": 56018,
+      "word": "宁静说姐姐们太苦了没时间勾心斗角",
+      "onboard_time": 1684439951,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 54735,
       "num": 479776,
       "word": "直播产品是怎么被选上的",
@@ -8969,14 +9057,6 @@
       "onboard_time": 1684172177,
       "rank": 33,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 53992,
-      "num": 53992,
-      "word": "男子开门杀致超速者死亡被判10个月",
-      "onboard_time": 1684437012,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53912,
@@ -9113,14 +9193,6 @@
       "onboard_time": 1684345337,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31207,
-      "num": 31207,
-      "word": "宁静说姐姐们太苦了没时间勾心斗角",
-      "onboard_time": 1684439951,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 28654,

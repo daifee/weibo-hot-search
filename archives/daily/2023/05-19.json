@@ -1,6 +1,6 @@
 {
   "startTime": 1684426913140,
-  "endTime": 1684449203403,
+  "endTime": 1684451832080,
   "band_list": [
     {
       "raw_hot": 1517943,
@@ -51,6 +51,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 616911,
+      "num": 616911,
+      "word": "蔡依林扫码支付反应",
+      "onboard_time": 1684415190,
+      "rank": 26,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 543753,
       "num": 543753,
       "word": "黄觉等了易烊千玺四年头发都白了",
@@ -73,6 +81,14 @@
       "onboard_time": 1684419990,
       "rank": 9,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 468736,
+      "num": 468736,
+      "word": "网约车拒违停2乘客赖车上超24小时",
+      "onboard_time": 1684443972,
+      "rank": 38,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 458913,
@@ -139,14 +155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 305124,
-      "num": 305124,
-      "word": "蔡依林扫码支付反应",
-      "onboard_time": 1684415190,
-      "rank": 26,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 290283,
       "num": 290283,
       "word": "胡兵工作室回应结婚",
@@ -201,14 +209,6 @@
       "onboard_time": 1684396171,
       "rank": 19,
       "category": "科技"
-    },
-    {
-      "raw_hot": 221201,
-      "num": 100495,
-      "word": "网约车拒违停2乘客赖车上超24小时",
-      "onboard_time": 1684443972,
-      "rank": 38,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 215235,
@@ -283,12 +283,44 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166271,
+      "num": 166271,
+      "word": "山东一派出所长被举报戴名表开豪车",
+      "onboard_time": 1684412609,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165784,
+      "num": 165784,
+      "word": "汪小敏ins唯一关注是赵丽娜",
+      "onboard_time": 1684431677,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165715,
       "num": 165715,
       "word": "肖战被西安美食辣到",
       "onboard_time": 1684410748,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161007,
+      "num": 161007,
+      "word": "男子开门杀致超速者死亡被判10个月",
+      "onboard_time": 1684437012,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157670,
+      "num": 157670,
+      "word": "西湖边82岁奶奶和旗袍高跟鞋好配",
+      "onboard_time": 1684438872,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151476,
@@ -307,6 +339,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 147003,
+      "num": 147003,
+      "word": "拜登携核按钮抵达广岛",
+      "onboard_time": 1684450819,
+      "rank": 18,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 142552,
       "num": 142552,
       "word": "护心",
@@ -323,12 +363,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 132573,
-      "num": 132573,
-      "word": "山东一派出所长被举报戴名表开豪车",
-      "onboard_time": 1684412609,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 129425,
+      "num": 129425,
+      "word": "男朋友毕业一年不肯上班",
+      "onboard_time": 1684451781,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 129345,
+      "num": 133365,
+      "word": "专家称笑果文化至少3年内不能上市",
+      "onboard_time": 1684407868,
+      "rank": 44,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 127282,
@@ -363,14 +411,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 117821,
-      "num": 117821,
-      "word": "专家称笑果文化至少3年内不能上市",
-      "onboard_time": 1684407868,
-      "rank": 44,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 114709,
       "num": 114709,
       "word": "戛纳",
@@ -395,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103889,
+      "num": 103889,
+      "word": "JDG晋级MSI决赛",
+      "onboard_time": 1684451781,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 100135,
       "num": 115136,
       "word": "飞机失事超两周后找到4名幸存儿童",
@@ -411,6 +459,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97126,
+      "num": 97126,
+      "word": "张雨绮女儿情商",
+      "onboard_time": 1684450880,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 96208,
+      "num": 96208,
+      "word": "豹子偷偷潜入叼走熟睡狗子",
+      "onboard_time": 1684450819,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92666,
+      "num": 92666,
+      "word": "70后大叔报小饭桌和10后萌娃就餐",
+      "onboard_time": 1684445653,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90664,
       "num": 90664,
       "word": "法网2023",
@@ -419,20 +491,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80247,
-      "num": 71675,
-      "word": "汪小敏ins唯一关注是赵丽娜",
-      "onboard_time": 1684431677,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 88530,
+      "num": 88530,
+      "word": "戛纳红毯不能没有山东女人",
+      "onboard_time": 1684451661,
+      "rank": 35,
+      "category": "影视"
     },
     {
-      "raw_hot": 79634,
-      "num": 79634,
-      "word": "西湖边82岁奶奶和旗袍高跟鞋好配",
-      "onboard_time": 1684438872,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 85790,
+      "num": 85790,
+      "word": "在一线城市月薪多少才够花",
+      "onboard_time": 1684450819,
+      "rank": 37,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 72041,
@@ -443,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69028,
+      "num": 69028,
+      "word": "结婚买钻戒不如买黄金吗",
+      "onboard_time": 1684451661,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68770,
       "num": 68770,
       "word": "密室大逃脱第五季录制路透",
@@ -451,20 +531,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 59158,
-      "num": 59158,
-      "word": "70后大叔报小饭桌和10后萌娃就餐",
-      "onboard_time": 1684445653,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 58083,
+      "num": 58083,
+      "word": "黄晓明跳刘畊宏健身操演我",
+      "onboard_time": 1684451661,
+      "rank": 45,
+      "category": "艺人"
     },
     {
-      "raw_hot": 53992,
-      "num": 53992,
-      "word": "男子开门杀致超速者死亡被判10个月",
-      "onboard_time": 1684437012,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 56018,
+      "num": 56018,
+      "word": "宁静说姐姐们太苦了没时间勾心斗角",
+      "onboard_time": 1684439951,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 52430,
@@ -497,14 +577,6 @@
       "onboard_time": 1684432095,
       "rank": 37,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 31207,
-      "num": 31207,
-      "word": "宁静说姐姐们太苦了没时间勾心斗角",
-      "onboard_time": 1684439951,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 28352,
