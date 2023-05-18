@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684434800826,
+  "endTime": 1684437226250,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -36963,6 +36963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80247,
+      "num": 48591,
+      "word": "汪小敏ins唯一关注是赵丽娜",
+      "onboard_time": 1684431677,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80235,
       "num": 80235,
       "word": "是上班更苦还是上学更苦",
@@ -37369,14 +37377,6 @@
       "onboard_time": 1683502224,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 68237,
-      "num": 36958,
-      "word": "汪小敏ins唯一关注是赵丽娜",
-      "onboard_time": 1684431677,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 67949,
@@ -38696,6 +38696,14 @@
       "word": "中亚五国在西安的打开方式",
       "onboard_time": 1684390768,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16744,
+      "num": 18551,
+      "word": "男子开门杀致超速者死亡被判10个月",
+      "onboard_time": 1684437012,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
