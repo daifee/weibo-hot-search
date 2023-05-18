@@ -1,0 +1,410 @@
+{
+  "runTime": 1684380835946,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1826011,
+        "num": 1826011,
+        "word": "周也道歉",
+        "onboard_time": 1684379371,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1370652,
+        "num": 1370652,
+        "word": "杭州女童电梯坠亡案一审宣判",
+        "onboard_time": 1684378289,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14532,
+        "num": 939721,
+        "word": "北斗为梦想导航",
+        "onboard_time": 1684327828,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564379,
+        "num": 564379,
+        "word": "顾客点100元外卖后打赏10元骑手报警",
+        "onboard_time": 1684374689,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 929891,
+        "num": 559730,
+        "word": "高叶礼服开线了",
+        "onboard_time": 1684376187,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 526778,
+        "num": 526778,
+        "word": "员工拒绝加班回怼后遭光速开除",
+        "onboard_time": 1684376427,
+        "rank": 5,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 530624,
+        "num": 525581,
+        "word": "穿对衣服的张雨绮",
+        "onboard_time": 1684372053,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 522362,
+        "num": 522362,
+        "word": "年轻女子穿着干净时尚当街跪地乞讨",
+        "onboard_time": 1684375350,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 887347,
+        "num": 483332,
+        "word": "高叶戛纳 大气",
+        "onboard_time": 1684368990,
+        "rank": 8,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 422181,
+        "num": 422181,
+        "word": "罗翔神预言",
+        "onboard_time": 1684366946,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1456952,
+        "num": 420532,
+        "word": "刘维好刚",
+        "onboard_time": 1684375408,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 933202,
+        "num": 416832,
+        "word": "胡兵说与陪伴30年的TA结婚了",
+        "onboard_time": 1684377810,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1397939,
+        "num": 410027,
+        "word": "普通人一万块需要存多久",
+        "onboard_time": 1684370430,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 535451,
+        "num": 407351,
+        "word": "25岁中国男子惨死巴黎公寓中",
+        "onboard_time": 1684379489,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152758,
+        "num": 402092,
+        "word": "史上第一套高考AI模拟卷",
+        "onboard_time": 1684378829,
+        "rank": 14,
+        "category": "教育,科技"
+      },
+      {
+        "raw_hot": 499108,
+        "num": 399078,
+        "word": "巴厘岛遇害女生",
+        "onboard_time": 1684378409,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1286277,
+        "num": 393260,
+        "word": "因为考研失败女朋友要跟我分手",
+        "onboard_time": 1684373012,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 390623,
+        "num": 390623,
+        "word": "韩流真的来了吗",
+        "onboard_time": 1684335391,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 366702,
+        "num": 366702,
+        "word": "热火",
+        "onboard_time": 1684376548,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332952,
+        "num": 332952,
+        "word": "朴彩英的发型是蝴蝶结",
+        "onboard_time": 1684378650,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 704928,
+        "num": 332207,
+        "word": "女生遭两闺蜜PUA长达8年被骗百万",
+        "onboard_time": 1684370491,
+        "rank": 20,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 378867,
+        "num": 327760,
+        "word": "吃了一碗三十五块钱的麻辣烫",
+        "onboard_time": 1684379794,
+        "rank": 21,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 364861,
+        "num": 327346,
+        "word": "在上海税前7000的真实生活",
+        "onboard_time": 1684378049,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 322944,
+        "num": 322944,
+        "word": "偶遇杨颖张大大逛超市",
+        "onboard_time": 1684378530,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 317362,
+        "num": 317362,
+        "word": "笑果承认存在侥幸心理",
+        "onboard_time": 1684336112,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 301088,
+        "num": 301088,
+        "word": "怪物",
+        "onboard_time": 1684373489,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300408,
+        "num": 300408,
+        "word": "张柏芝晒的是姐姐的女儿",
+        "onboard_time": 1684374689,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280092,
+        "num": 280092,
+        "word": "这些蔬菜不要生吃",
+        "onboard_time": 1684377329,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263857,
+        "num": 263857,
+        "word": "张雨绮3D打印长裙",
+        "onboard_time": 1684370430,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256912,
+        "num": 256912,
+        "word": "巴特勒真硬",
+        "onboard_time": 1684379972,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265600,
+        "num": 251150,
+        "word": "得知四级真题被学校丢了后",
+        "onboard_time": 1684379794,
+        "rank": 30,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 261804,
+        "num": 249661,
+        "word": "谁给蒋梦婕选的衣服",
+        "onboard_time": 1684366824,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243972,
+        "num": 243972,
+        "word": "热火1比0凯尔特人",
+        "onboard_time": 1684380212,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242728,
+        "num": 242728,
+        "word": "张萌说讨厌不起来赵露思",
+        "onboard_time": 1684378229,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235930,
+        "num": 235930,
+        "word": "红楼梦",
+        "onboard_time": 1684379671,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233515,
+        "num": 233515,
+        "word": "最近四川人的手指甲都是黄的",
+        "onboard_time": 1684338750,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219647,
+        "num": 219647,
+        "word": "微博电影之夜",
+        "onboard_time": 1684379249,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213078,
+        "num": 213078,
+        "word": "house",
+        "onboard_time": 1684367849,
+        "rank": 37,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 204663,
+        "num": 204663,
+        "word": "男子被女友怀疑出轨竟从12楼跳下",
+        "onboard_time": 1684336829,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203276,
+        "num": 203276,
+        "word": "鼻炎 源于肝郁",
+        "onboard_time": 1684374209,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198004,
+        "num": 198004,
+        "word": "金晨分享测试适合长短发方法",
+        "onboard_time": 1684377988,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192094,
+        "num": 192094,
+        "word": "雨中的赵丽颖",
+        "onboard_time": 1684373191,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179091,
+        "num": 179091,
+        "word": "文俊辉知道专辑价格的反应",
+        "onboard_time": 1684379911,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172242,
+        "num": 172242,
+        "word": "巴特勒35分",
+        "onboard_time": 1684380150,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167163,
+        "num": 167163,
+        "word": "宁安如梦",
+        "onboard_time": 1684372651,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161857,
+        "num": 161857,
+        "word": "博物馆为什么周一闭馆",
+        "onboard_time": 1684373012,
+        "rank": 45,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 157137,
+        "num": 157137,
+        "word": "正好遇见你定档520",
+        "onboard_time": 1684377810,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150953,
+        "num": 150953,
+        "word": "house被警方立案调查",
+        "onboard_time": 1684327348,
+        "rank": 47,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 149348,
+        "num": 149348,
+        "word": "周星驰担任网飞版美猴王执行制作",
+        "onboard_time": 1684377869,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 70215,
+        "num": 149332,
+        "word": "代号鸢",
+        "onboard_time": 1684370852,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同托卡耶夫会谈#"
+    }
+  }
+}

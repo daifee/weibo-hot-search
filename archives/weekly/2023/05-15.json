@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684379847369,
+  "endTime": 1684380835946,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -361,6 +361,14 @@
       "onboard_time": 1684202427,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1826011,
+      "num": 1826011,
+      "word": "周也道歉",
+      "onboard_time": 1684379371,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1816631,
@@ -1187,6 +1195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 933202,
+      "num": 416832,
+      "word": "胡兵说与陪伴30年的TA结婚了",
+      "onboard_time": 1684377810,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 926211,
       "num": 221346,
       "word": "高铁掌掴事件车厢画面公布",
@@ -1393,14 +1409,6 @@
       "onboard_time": 1684134028,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 761115,
-      "num": 379560,
-      "word": "胡兵说与陪伴30年的TA结婚了",
-      "onboard_time": 1684377810,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 754593,
@@ -1971,6 +1979,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 535451,
+      "num": 407351,
+      "word": "25岁中国男子惨死巴黎公寓中",
+      "onboard_time": 1684379489,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 526778,
+      "num": 526778,
+      "word": "员工拒绝加班回怼后遭光速开除",
+      "onboard_time": 1684376427,
+      "rank": 34,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 526455,
       "num": 526455,
       "word": "宁安如梦或将空降",
@@ -2089,6 +2113,14 @@
       "onboard_time": 1684291049,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 499108,
+      "num": 399078,
+      "word": "巴厘岛遇害女生",
+      "onboard_time": 1684378409,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 496165,
@@ -2433,14 +2465,6 @@
       "onboard_time": 1684161511,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 435817,
-      "num": 364391,
-      "word": "周也道歉",
-      "onboard_time": 1684379371,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 435427,
@@ -2811,6 +2835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 378867,
+      "num": 327760,
+      "word": "吃了一碗三十五块钱的麻辣烫",
+      "onboard_time": 1684379794,
+      "rank": 39,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 377845,
       "num": 377845,
       "word": "女子帮闺蜜调解家庭矛盾出轨其丈夫",
@@ -2961,14 +2993,6 @@
       "onboard_time": 1684135169,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 356021,
-      "num": 356021,
-      "word": "员工拒绝加班回怼后遭光速开除",
-      "onboard_time": 1684376427,
-      "rank": 34,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 355662,
@@ -3211,6 +3235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 332952,
+      "num": 332952,
+      "word": "朴彩英的发型是蝴蝶结",
+      "onboard_time": 1684378650,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 332201,
       "num": 270667,
       "word": "范丞丞地垄沟发型",
@@ -3224,14 +3256,6 @@
       "word": "唐山警方回应农妇袭警案",
       "onboard_time": 1684133490,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 328958,
-      "num": 328958,
-      "word": "巴厘岛遇害女生",
-      "onboard_time": 1684378409,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -3377,14 +3401,6 @@
       "onboard_time": 1684317033,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 313590,
-      "num": 313590,
-      "word": "朴彩英的发型是蝴蝶结",
-      "onboard_time": 1684378650,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 313372,
@@ -3947,6 +3963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265600,
+      "num": 251150,
+      "word": "得知四级真题被学校丢了后",
+      "onboard_time": 1684379794,
+      "rank": 48,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 265180,
       "num": 265180,
       "word": "官方回应迪士尼落户成都",
@@ -4049,6 +4073,14 @@
       "onboard_time": 1684231168,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256912,
+      "num": 256912,
+      "word": "巴特勒真硬",
+      "onboard_time": 1684379972,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 255737,
@@ -4225,6 +4257,14 @@
       "onboard_time": 1684219109,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243972,
+      "num": 243972,
+      "word": "热火1比0凯尔特人",
+      "onboard_time": 1684380212,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 243000,
@@ -4611,14 +4651,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 220874,
-      "num": 220874,
-      "word": "25岁中国男子惨死巴黎公寓中",
-      "onboard_time": 1684379489,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 220837,
       "num": 188562,
       "word": "5月追剧人好忙",
@@ -4633,6 +4665,14 @@
       "onboard_time": 1684202607,
       "rank": 32,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 219647,
+      "num": 219647,
+      "word": "微博电影之夜",
+      "onboard_time": 1684379249,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 218714,
@@ -4931,14 +4971,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 204636,
-      "num": 204636,
-      "word": "吃了一碗三十五块钱的麻辣烫",
-      "onboard_time": 1684379794,
-      "rank": 39,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 204352,
       "num": 204352,
       "word": "赵露思cos蜂蜜狗造型花絮",
@@ -5073,14 +5105,6 @@
       "onboard_time": 1684233630,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 198085,
-      "num": 198085,
-      "word": "微博电影之夜",
-      "onboard_time": 1684379249,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 198039,
@@ -5595,6 +5619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 179091,
+      "num": 179091,
+      "word": "文俊辉知道专辑价格的反应",
+      "onboard_time": 1684379911,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178155,
       "num": 178155,
       "word": "教小鸭子玩滑滑梯的小朋友",
@@ -5779,6 +5811,14 @@
       "category": "社会新闻,社会新闻"
     },
     {
+      "raw_hot": 172242,
+      "num": 172242,
+      "word": "巴特勒35分",
+      "onboard_time": 1684380150,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172224,
       "num": 1396049,
       "word": "出入境政策再优化",
@@ -5865,14 +5905,6 @@
       "onboard_time": 1684128628,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 166078,
-      "num": 166078,
-      "word": "得知四级真题被学校丢了后",
-      "onboard_time": 1684379794,
-      "rank": 48,
-      "category": "教育,幽默"
     },
     {
       "raw_hot": 165911,
@@ -6051,6 +6083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 157137,
+      "num": 157137,
+      "word": "正好遇见你定档520",
+      "onboard_time": 1684377810,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 155926,
       "num": 155926,
       "word": "钟欣潼蔡卓妍纪念Twins22周年",
@@ -6121,6 +6161,14 @@
       "onboard_time": 1684315714,
       "rank": 48,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 152758,
+      "num": 402092,
+      "word": "史上第一套高考AI模拟卷",
+      "onboard_time": 1684378829,
+      "rank": 14,
+      "category": "教育,科技"
     },
     {
       "raw_hot": 152678,
@@ -6425,14 +6473,6 @@
       "onboard_time": 1684219048,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141158,
-      "num": 375340,
-      "word": "史上第一套高考AI模拟卷",
-      "onboard_time": 1684378829,
-      "rank": 14,
-      "category": "教育,科技"
     },
     {
       "raw_hot": 140285,
