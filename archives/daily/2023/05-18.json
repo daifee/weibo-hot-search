@@ -1,6 +1,6 @@
 {
   "startTime": 1684340516423,
-  "endTime": 1684398036444,
+  "endTime": 1684398817596,
   "band_list": [
     {
       "raw_hot": 3289723,
@@ -57,6 +57,14 @@
       "onboard_time": 1684370430,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1879660,
+      "num": 1879660,
+      "word": "微信 吃内存",
+      "onboard_time": 1684396171,
+      "rank": 1,
+      "category": "科技"
     },
     {
       "raw_hot": 1719072,
@@ -121,14 +129,6 @@
       "onboard_time": 1684370491,
       "rank": 7,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 1476582,
-      "num": 1476582,
-      "word": "微信 吃内存",
-      "onboard_time": 1684396171,
-      "rank": 1,
-      "category": "科技"
     },
     {
       "raw_hot": 1461873,
@@ -211,12 +211,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 943978,
+      "num": 305787,
+      "word": "赵丽颖丸子头簪发",
+      "onboard_time": 1684397490,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 925892,
       "num": 925892,
       "word": "高叶礼服是自己缝的",
       "onboard_time": 1684389687,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 897905,
+      "num": 897905,
+      "word": "丁禹兮任敏获金扫帚最令人失望男女主",
+      "onboard_time": 1684396530,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 882217,
@@ -267,20 +283,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 696582,
+      "num": 480883,
+      "word": "80斤女生试穿XS码裙子拉不上拉链",
+      "onboard_time": 1684397068,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 673113,
       "num": 673113,
       "word": "易烊千玺最新撸猫视频",
       "onboard_time": 1684385855,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 654317,
-      "num": 283749,
-      "word": "赵丽颖丸子头簪发",
-      "onboard_time": 1684397490,
-      "rank": 20,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 645529,
@@ -345,14 +361,6 @@
       "onboard_time": 1684375350,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 557525,
-      "num": 557525,
-      "word": "丁禹兮任敏获金扫帚最令人失望男女主",
-      "onboard_time": 1684396530,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 540104,
@@ -507,6 +515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 425627,
+      "num": 425627,
+      "word": "杜华李飞龙丹妮有一个群",
+      "onboard_time": 1684395508,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 423555,
       "num": 423555,
       "word": "王子奇回复评论",
@@ -587,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375652,
+      "num": 375652,
+      "word": "飞机失事超两周后找到4名幸存儿童",
+      "onboard_time": 1684394189,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 375081,
       "num": 375081,
       "word": "于正选的新人颜值",
@@ -635,14 +659,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 356783,
-      "num": 280275,
-      "word": "飞机失事超两周后找到4名幸存儿童",
-      "onboard_time": 1684394189,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 354911,
       "num": 354911,
       "word": "曼城vs皇马",
@@ -675,14 +691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 343649,
-      "num": 196210,
-      "word": "80斤女生试穿XS码裙子拉不上拉链",
-      "onboard_time": 1684397068,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 336743,
       "num": 336743,
       "word": "你的QQ号码几位数",
@@ -699,14 +707,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 332123,
-      "num": 332123,
-      "word": "杜华李飞龙丹妮有一个群",
-      "onboard_time": 1684395508,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 331559,
       "num": 331559,
       "word": "泫雅说会来武汉音乐节",
@@ -721,6 +721,14 @@
       "onboard_time": 1684299759,
       "rank": 37,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 326857,
+      "num": 304590,
+      "word": "五百元对普通家庭是什么概念",
+      "onboard_time": 1684396831,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 322500,
@@ -747,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 315104,
+      "num": 192496,
+      "word": "笑果被罚1335万是如何算出来的",
+      "onboard_time": 1684396709,
+      "rank": 32,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 308824,
       "num": 308824,
       "word": "宁安如梦",
@@ -771,20 +787,20 @@
       "category": "影视,时尚"
     },
     {
-      "raw_hot": 301499,
-      "num": 192496,
-      "word": "笑果被罚1335万是如何算出来的",
-      "onboard_time": 1684396709,
-      "rank": 32,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 300464,
       "num": 300464,
       "word": "谁能管管上海动物园的这两只天鹅",
       "onboard_time": 1684382794,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299408,
+      "num": 299408,
+      "word": "不小心看到了保洁大妈的账户",
+      "onboard_time": 1684397669,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 295374,
@@ -825,6 +841,14 @@
       "onboard_time": 1684393408,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 290010,
+      "num": 290010,
+      "word": "十年一品温如言金扫帚奖大满贯",
+      "onboard_time": 1684397789,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 286377,
@@ -929,14 +953,6 @@
       "onboard_time": 1684380212,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 243185,
-      "num": 243185,
-      "word": "五百元对普通家庭是什么概念",
-      "onboard_time": 1684396831,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 241750,
@@ -1187,20 +1203,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 188010,
+      "num": 188010,
+      "word": "薛之谦 抢票",
+      "onboard_time": 1684398091,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 186134,
       "num": 186134,
       "word": "孩子被迫成为家里的精神支柱",
       "onboard_time": 1684354151,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 183345,
-      "num": 183345,
-      "word": "不小心看到了保洁大妈的账户",
-      "onboard_time": 1684397669,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 182482,
@@ -1347,14 +1363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 160752,
-      "num": 160752,
-      "word": "十年一品温如言金扫帚奖大满贯",
-      "onboard_time": 1684397789,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 158453,
       "num": 158453,
       "word": "徐明浩孙悟空造型骑马好帅",
@@ -1377,6 +1385,14 @@
       "onboard_time": 1684368872,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155050,
+      "num": 155050,
+      "word": "声生不息五公上半场舞台剧照",
+      "onboard_time": 1684395869,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 153638,
@@ -1499,14 +1515,6 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 135805,
-      "num": 135805,
-      "word": "声生不息五公上半场舞台剧照",
-      "onboard_time": 1684395869,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 134666,
       "num": 361004,
       "word": "戛纳红毯的中国面孔",
@@ -1580,7 +1588,7 @@
     },
     {
       "raw_hot": 107886,
-      "num": 243795,
+      "num": 346960,
       "word": "职场中的崩溃就在一瞬间",
       "onboard_time": 1684397131,
       "rank": 24,
@@ -1625,6 +1633,14 @@
       "onboard_time": 1684327828,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 103454,
+      "num": 103454,
+      "word": "宝格丽CEO刘亦菲合照",
+      "onboard_time": 1684398692,
+      "rank": 48,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 100391,
