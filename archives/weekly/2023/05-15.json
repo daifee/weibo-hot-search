@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684373003725,
+  "endTime": 1684374471671,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -259,8 +259,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2212000,
-      "num": 2212000,
+      "raw_hot": 2240042,
+      "num": 2240042,
       "word": "建不建议一毕业就进体制",
       "onboard_time": 1684366406,
       "rank": 27,
@@ -289,6 +289,14 @@
       "onboard_time": 1684131147,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1968455,
+      "num": 1968455,
+      "word": "罗翔神预言",
+      "onboard_time": 1684366946,
+      "rank": 1,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1951512,
@@ -337,14 +345,6 @@
       "onboard_time": 1684153047,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1877436,
-      "num": 1877436,
-      "word": "罗翔神预言",
-      "onboard_time": 1684366946,
-      "rank": 1,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1846343,
@@ -667,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1361531,
+      "num": 1361531,
+      "word": "普通人一万块需要存多久",
+      "onboard_time": 1684370430,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1359869,
       "num": 1359869,
       "word": "5岁中法混血女孩遭父亲割喉身亡",
@@ -787,14 +795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1223067,
-      "num": 1223067,
-      "word": "普通人一万块需要存多久",
-      "onboard_time": 1684370430,
-      "rank": 5,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1221403,
       "num": 1221403,
       "word": "有退休金与没退休金的直观展示",
@@ -913,6 +913,14 @@
       "onboard_time": 1684138467,
       "rank": 48,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 1139485,
+      "num": 1139485,
+      "word": "女生遭两闺蜜PUA长达8年被骗百万",
+      "onboard_time": 1684370491,
+      "rank": 7,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1139373,
@@ -1315,14 +1323,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 783117,
-      "num": 783117,
-      "word": "女生遭两闺蜜PUA长达8年被骗百万",
-      "onboard_time": 1684370491,
-      "rank": 7,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 770435,
       "num": 770435,
       "word": "QQ音乐",
@@ -1611,6 +1611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 641254,
+      "num": 641254,
+      "word": "穿对衣服的张雨绮",
+      "onboard_time": 1684372053,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 640086,
       "num": 640086,
       "word": "朱珠爷爷给她起的名字",
@@ -1772,7 +1780,7 @@
     },
     {
       "raw_hot": 581353,
-      "num": 363590,
+      "num": 369587,
       "word": "巴西男子性侵未成年女儿遭妻子勒死",
       "onboard_time": 1684364902,
       "rank": 30,
@@ -1875,6 +1883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 540104,
+      "num": 540104,
+      "word": "保洁阿姨偷师10年成版画家",
+      "onboard_time": 1684364659,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 537570,
       "num": 537570,
       "word": "大爷撞进饭店没赔钱一夜没睡着",
@@ -1915,12 +1931,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 524301,
-      "num": 524301,
-      "word": "保洁阿姨偷师10年成版画家",
-      "onboard_time": 1684364659,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 522681,
+      "num": 522681,
+      "word": "张雨绮3D打印长裙",
+      "onboard_time": 1684370430,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 518231,
@@ -1961,14 +1977,6 @@
       "onboard_time": 1684216590,
       "rank": 17,
       "category": "科技"
-    },
-    {
-      "raw_hot": 511142,
-      "num": 511142,
-      "word": "张雨绮3D打印长裙",
-      "onboard_time": 1684370430,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 509140,
@@ -2347,14 +2355,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 438943,
-      "num": 438943,
-      "word": "穿对衣服的张雨绮",
-      "onboard_time": 1684372053,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 438736,
       "num": 341252,
       "word": "Angelababy的身材比例",
@@ -2451,8 +2451,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 423555,
+      "num": 423555,
+      "word": "王子奇回复评论",
+      "onboard_time": 1684371931,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 422702,
-      "num": 355467,
+      "num": 380148,
       "word": "最近四川人的手指甲都是黄的",
       "onboard_time": 1684338750,
       "rank": 20,
@@ -2691,6 +2699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 383853,
+      "num": 383853,
+      "word": "因为考研失败女朋友要跟我分手",
+      "onboard_time": 1684373012,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 382793,
       "num": 382793,
       "word": "戛纳 Kpop艺人",
@@ -2833,6 +2849,14 @@
       "onboard_time": 1684365203,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 359022,
+      "num": 359022,
+      "word": "博物馆为什么周一闭馆",
+      "onboard_time": 1684373012,
+      "rank": 22,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 358497,
@@ -3083,14 +3107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 331659,
-      "num": 331659,
-      "word": "王子奇回复评论",
-      "onboard_time": 1684371931,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 329528,
       "num": 329528,
       "word": "唐山警方回应农妇袭警案",
@@ -3225,6 +3241,14 @@
       "onboard_time": 1684325909,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 315221,
+      "num": 315221,
+      "word": "怪物",
+      "onboard_time": 1684373489,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 314361,
@@ -3705,6 +3729,14 @@
       "onboard_time": 1684205188,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270301,
+      "num": 270301,
+      "word": "周也直播读错字",
+      "onboard_time": 1684373612,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 269860,
@@ -4283,6 +4315,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 227447,
+      "num": 227447,
+      "word": "陈晓的字好好看",
+      "onboard_time": 1684372591,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226443,
       "num": 226443,
       "word": "GUCCI早春",
@@ -4817,6 +4857,14 @@
       "onboard_time": 1684131448,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199142,
+      "num": 199142,
+      "word": "洛杉矶火花裁掉杨力维",
+      "onboard_time": 1684372351,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 198332,
@@ -5563,6 +5611,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 168633,
+      "num": 168633,
+      "word": "女子首次养猫倒猫砂致马桶堵塞",
+      "onboard_time": 1684373731,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167846,
       "num": 167846,
       "word": "24岁一个朋友都没有正常吗",
@@ -5665,14 +5721,6 @@
       "onboard_time": 1684132289,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 163884,
-      "num": 163884,
-      "word": "陈晓的字好好看",
-      "onboard_time": 1684372591,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 163527,
@@ -5819,6 +5867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154205,
+      "num": 154205,
+      "word": "鼻炎 源于肝郁",
+      "onboard_time": 1684374209,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153638,
       "num": 153638,
       "word": "29岁女子因脑积水头大如外星人",
@@ -5873,14 +5929,6 @@
       "onboard_time": 1684310428,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152056,
-      "num": 152056,
-      "word": "洛杉矶火花裁掉杨力维",
-      "onboard_time": 1684372351,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 151982,
@@ -6267,6 +6315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134125,
+      "num": 134125,
+      "word": "雨中的赵丽颖",
+      "onboard_time": 1684373191,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 133102,
       "num": 133102,
       "word": "盘点笑果文化商业版图",
@@ -6337,6 +6393,14 @@
       "onboard_time": 1684292431,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 131176,
+      "num": 131176,
+      "word": "山东发现国内最大单体金矿床",
+      "onboard_time": 1684374449,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130971,
