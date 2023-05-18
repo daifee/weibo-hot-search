@@ -1,6 +1,6 @@
 {
   "startTime": 1684340516423,
-  "endTime": 1684405054913,
+  "endTime": 1684406021138,
   "band_list": [
     {
       "raw_hot": 3289723,
@@ -27,6 +27,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2265396,
+      "num": 2265396,
+      "word": "张馨予 如果不救基本没命",
+      "onboard_time": 1684400430,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2240042,
       "num": 2240042,
       "word": "建不建议一毕业就进体制",
@@ -49,14 +57,6 @@
       "onboard_time": 1684366946,
       "rank": 1,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1936927,
-      "num": 1936927,
-      "word": "张馨予 如果不救基本没命",
-      "onboard_time": 1684400430,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 1917335,
@@ -267,20 +267,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 921929,
+      "num": 921929,
+      "word": "飞机失事超两周后找到4名幸存儿童",
+      "onboard_time": 1684394189,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 882217,
       "num": 882217,
       "word": "得知四级真题被学校丢了后",
       "onboard_time": 1684379794,
       "rank": 48,
       "category": "教育,幽默"
-    },
-    {
-      "raw_hot": 847643,
-      "num": 847643,
-      "word": "飞机失事超两周后找到4名幸存儿童",
-      "onboard_time": 1684394189,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 824916,
@@ -297,6 +297,14 @@
       "onboard_time": 1684372053,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 749200,
+      "num": 749200,
+      "word": "港媒曝植物人听姜涛歌曲有反应",
+      "onboard_time": 1684404211,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 737559,
@@ -651,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 381347,
+      "num": 381347,
+      "word": "女装越做越小是商家在制造身材焦虑吗",
+      "onboard_time": 1684403370,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 379812,
       "num": 489389,
       "word": "十年一品温如言金扫帚奖大满贯",
@@ -689,14 +705,6 @@
       "onboard_time": 1684392089,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 365220,
-      "num": 365220,
-      "word": "港媒曝植物人听姜涛歌曲有反应",
-      "onboard_time": 1684404211,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 363782,
@@ -859,6 +867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 307351,
+      "num": 307351,
+      "word": "LOL暂时禁用四个英雄",
+      "onboard_time": 1684404990,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 306735,
       "num": 306735,
       "word": "刘亦菲水中倒影封面预告",
@@ -921,6 +937,22 @@
       "onboard_time": 1684393408,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 289242,
+      "num": 1596830,
+      "word": "跪着上课考上大学的00后折叠男孩",
+      "onboard_time": 1684403429,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 287988,
+      "num": 287988,
+      "word": "李兰迪的妆是自己化的",
+      "onboard_time": 1684404330,
+      "rank": 32,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 286377,
@@ -995,20 +1027,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 254620,
-      "num": 254620,
-      "word": "女装越做越小是商家在制造身材焦虑吗",
-      "onboard_time": 1684403370,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251660,
       "num": 251660,
       "word": "迪丽热巴高清怼脸图",
       "onboard_time": 1684367126,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 246498,
+      "num": 246498,
+      "word": "她为了坐上这趟车几乎走了一辈子",
+      "onboard_time": 1684400251,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 245906,
@@ -1075,28 +1107,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 236980,
-      "num": 236980,
-      "word": "她为了坐上这趟车几乎走了一辈子",
-      "onboard_time": 1684400251,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 235622,
       "num": 235622,
       "word": "蔡徐坤演唱会",
       "onboard_time": 1684382972,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 235191,
-      "num": 1596830,
-      "word": "跪着上课考上大学的00后折叠男孩",
-      "onboard_time": 1684403429,
-      "rank": 4,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 233670,
@@ -1123,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231268,
+      "num": 231268,
+      "word": "银行回应7旬老人被抬到现场取款",
+      "onboard_time": 1684401512,
+      "rank": 45,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 230240,
       "num": 204070,
       "word": "咬一下尾巴被扇八个巴掌",
@@ -1147,6 +1171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 226929,
+      "num": 226929,
+      "word": "郑容和综艺",
+      "onboard_time": 1684404570,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225834,
       "num": 225834,
       "word": "薛之谦 抢票",
@@ -1161,14 +1193,6 @@
       "onboard_time": 1684401449,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223522,
-      "num": 223522,
-      "word": "银行回应7旬老人被抬到现场取款",
-      "onboard_time": 1684401512,
-      "rank": 45,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 220400,
@@ -1283,20 +1307,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 202899,
-      "num": 202899,
-      "word": "李兰迪的妆是自己化的",
-      "onboard_time": 1684404330,
-      "rank": 32,
-      "category": "艺人,美妆"
-    },
-    {
       "raw_hot": 201301,
       "num": 201301,
       "word": "代号鸢",
       "onboard_time": 1684370852,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 199908,
+      "num": 199908,
+      "word": "黄子华的脱口秀",
+      "onboard_time": 1684403068,
+      "rank": 34,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 199142,
@@ -1363,6 +1387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186868,
+      "num": 186868,
+      "word": "护心",
+      "onboard_time": 1684320509,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186134,
       "num": 186134,
       "word": "孩子被迫成为家里的精神支柱",
@@ -1371,28 +1403,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 185209,
-      "num": 185209,
-      "word": "黄子华的脱口秀",
-      "onboard_time": 1684403068,
-      "rank": 34,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 182482,
       "num": 182482,
       "word": "周也直播",
       "onboard_time": 1684334432,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 182452,
-      "num": 182452,
-      "word": "郑容和综艺",
-      "onboard_time": 1684404570,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 182302,
@@ -1651,12 +1667,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 147879,
-      "num": 147879,
-      "word": "护心",
-      "onboard_time": 1684320509,
-      "rank": 35,
-      "category": "影视"
+      "raw_hot": 147162,
+      "num": 147162,
+      "word": "原神哥喜提爱莉的冠军皮肤",
+      "onboard_time": 1684405892,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 146399,
@@ -1688,6 +1704,14 @@
       "word": "厕所是打工人的避风港吧",
       "onboard_time": 1684382314,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 142840,
+      "num": 142840,
+      "word": "种地吧",
+      "onboard_time": 1684405048,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -1760,14 +1784,6 @@
       "word": "清清 挂牌",
       "onboard_time": 1684331672,
       "rank": 39,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 121974,
-      "num": 121974,
-      "word": "LOL暂时禁用四个英雄",
-      "onboard_time": 1684404990,
-      "rank": 49,
       "category": "游戏"
     },
     {
@@ -1883,6 +1899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94677,
+      "num": 1295095,
+      "word": "中亚峰会展示的6件文物都是国宝",
+      "onboard_time": 1684403429,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94392,
       "num": 101842,
       "word": "工厂老板回应不收纹身员工",
@@ -1963,14 +1987,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 82683,
-      "num": 1295095,
-      "word": "中亚峰会展示的6件文物都是国宝",
-      "onboard_time": 1684403429,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 70688,
       "num": 117280,
       "word": "李白玉鸾吟星传说",
@@ -2043,6 +2059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47669,
+      "num": 574983,
+      "word": "520约会穿什么",
+      "onboard_time": 1684404029,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 39695,
       "num": 1596130,
       "word": "北斗为梦想导航",
@@ -2080,14 +2104,6 @@
       "word": "云养猫的快乐谁懂啊",
       "onboard_time": 1684383273,
       "rank": 46,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 28441,
-      "num": 574983,
-      "word": "520约会穿什么",
-      "onboard_time": 1684404029,
-      "rank": 14,
       "category": "游戏"
     },
     {
