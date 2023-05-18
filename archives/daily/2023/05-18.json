@@ -1,6 +1,6 @@
 {
   "startTime": 1684340516423,
-  "endTime": 1684415972165,
+  "endTime": 1684416809255,
   "band_list": [
     {
       "raw_hot": 3289723,
@@ -35,20 +35,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2242073,
+      "num": 1056906,
+      "word": "李诞去年卸任笑果董事",
+      "onboard_time": 1684411588,
+      "rank": 3,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 2240042,
       "num": 2240042,
       "word": "建不建议一毕业就进体制",
       "onboard_time": 1684366406,
       "rank": 27,
       "category": "教育"
-    },
-    {
-      "raw_hot": 2220079,
-      "num": 863932,
-      "word": "李诞去年卸任笑果董事",
-      "onboard_time": 1684411588,
-      "rank": 3,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2203942,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 1562197,
-      "num": 870883,
+      "num": 1055676,
       "word": "胡兵工作室回应结婚",
       "onboard_time": 1684408169,
       "rank": 32,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 1365243,
-      "num": 1002905,
+      "num": 1058159,
       "word": "护心男二 加戏",
       "onboard_time": 1684410210,
       "rank": 1,
@@ -267,20 +267,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1059447,
+      "num": 1059447,
+      "word": "港媒曝植物人听姜涛歌曲有反应",
+      "onboard_time": 1684404211,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1025234,
       "num": 1025234,
       "word": "丁禹兮任敏获金扫帚最令人失望男女主",
       "onboard_time": 1684396530,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 999213,
-      "num": 1013504,
-      "word": "港媒曝植物人听姜涛歌曲有反应",
-      "onboard_time": 1684404211,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 987736,
@@ -347,6 +347,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 722220,
+      "num": 722220,
+      "word": "山东一派出所长被举报戴名表开豪车",
+      "onboard_time": 1684412609,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 721804,
       "num": 341647,
       "word": "中演协要求对house进行从业抵制",
@@ -369,6 +377,14 @@
       "onboard_time": 1684407269,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 655483,
+      "num": 655483,
+      "word": "华为",
+      "onboard_time": 1684415428,
+      "rank": 18,
+      "category": "科技"
     },
     {
       "raw_hot": 645529,
@@ -400,14 +416,6 @@
       "word": "顾客点100元外卖后打赏10元骑手报警",
       "onboard_time": 1684374689,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 589465,
-      "num": 589465,
-      "word": "山东一派出所长被举报戴名表开豪车",
-      "onboard_time": 1684412609,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -555,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 475080,
+      "num": 475080,
+      "word": "宋雨琦多巴胺甜妹",
+      "onboard_time": 1684413209,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 474871,
       "num": 474871,
       "word": "张柏芝晒的是姐姐的女儿",
@@ -585,14 +601,6 @@
       "onboard_time": 1684331793,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 458999,
-      "num": 458999,
-      "word": "宋雨琦多巴胺甜妹",
-      "onboard_time": 1684413209,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 457382,
@@ -683,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 425207,
+      "num": 239225,
+      "word": "蔡依林扫码支付反应",
+      "onboard_time": 1684415190,
+      "rank": 25,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 423555,
       "num": 423555,
       "word": "王子奇回复评论",
@@ -707,8 +723,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 417665,
-      "num": 417665,
+      "raw_hot": 419879,
+      "num": 419879,
       "word": "川传出轨多位女学生老师被辞退",
       "onboard_time": 1684402467,
       "rank": 21,
@@ -955,14 +971,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 323562,
-      "num": 239225,
-      "word": "蔡依林扫码支付反应",
-      "onboard_time": 1684415190,
-      "rank": 25,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 322500,
       "num": 322500,
       "word": "鼻炎 源于肝郁",
@@ -1115,19 +1123,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 280224,
+      "num": 272702,
+      "word": "易烊千玺与汉斯季默合影",
+      "onboard_time": 1684412849,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 278697,
       "num": 278697,
       "word": "毛晓彤把物料提前发了",
       "onboard_time": 1684388252,
       "rank": 24,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 272702,
-      "num": 272702,
-      "word": "易烊千玺与汉斯季默合影",
-      "onboard_time": 1684412849,
-      "rank": 28,
       "category": "作品衍生"
     },
     {
@@ -1161,14 +1169,6 @@
       "onboard_time": 1684329756,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 260552,
-      "num": 260552,
-      "word": "华为",
-      "onboard_time": 1684415428,
-      "rank": 18,
-      "category": "科技"
     },
     {
       "raw_hot": 260424,
@@ -1323,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228822,
+      "num": 228822,
+      "word": "王以纶直播",
+      "onboard_time": 1684415908,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 227447,
       "num": 227447,
       "word": "陈晓的字好好看",
@@ -1347,12 +1355,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 225461,
+      "num": 225461,
+      "word": "刘耀文棒球帽随拍",
+      "onboard_time": 1684416026,
+      "rank": 31,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 225396,
       "num": 225396,
       "word": "四川一男子持双刀砍人",
       "onboard_time": 1684410268,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224796,
+      "num": 224796,
+      "word": "叶舒华好可爱",
+      "onboard_time": 1684416089,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 223672,
@@ -1371,12 +1395,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 219688,
+      "num": 219688,
+      "word": "Knight说到做到",
+      "onboard_time": 1684415668,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 219647,
       "num": 219647,
       "word": "微博电影之夜",
       "onboard_time": 1684379249,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 217414,
+      "num": 229533,
+      "word": "DRG公布挂牌选手",
+      "onboard_time": 1684416570,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 216813,
@@ -1457,6 +1497,22 @@
       "onboard_time": 1684381774,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207781,
+      "num": 207781,
+      "word": "云襄传",
+      "onboard_time": 1684415068,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 207576,
+      "num": 207576,
+      "word": "为什么谈恋爱一定要多见面",
+      "onboard_time": 1684415908,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 206616,
@@ -1561,14 +1617,6 @@
       "onboard_time": 1684408891,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 190297,
-      "num": 190297,
-      "word": "Knight说到做到",
-      "onboard_time": 1684415668,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 189476,
@@ -1681,6 +1729,14 @@
       "onboard_time": 1684364719,
       "rank": 37,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 175345,
+      "num": 175345,
+      "word": "西安大唐芙蓉园迎宾表演画面",
+      "onboard_time": 1684416210,
+      "rank": 38,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 173114,
@@ -1907,14 +1963,6 @@
       "category": "教育,科技"
     },
     {
-      "raw_hot": 152320,
-      "num": 152320,
-      "word": "云襄传",
-      "onboard_time": 1684415068,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 151128,
       "num": 548967,
       "word": "电子宠物能否成为精神寄托",
@@ -1961,6 +2009,14 @@
       "onboard_time": 1684405892,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 146845,
+      "num": 146845,
+      "word": "夏日的西安大唐芙蓉园有多美",
+      "onboard_time": 1684415908,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 146399,
@@ -2011,12 +2067,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141307,
-      "num": 141307,
-      "word": "王以纶直播",
-      "onboard_time": 1684415908,
-      "rank": 45,
-      "category": "影视"
+      "raw_hot": 141781,
+      "num": 141781,
+      "word": "老教授临终前将100万积蓄捐给学校",
+      "onboard_time": 1684416748,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139830,
@@ -2049,14 +2105,6 @@
       "onboard_time": 1684393465,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 134552,
-      "num": 134552,
-      "word": "夏日的西安大唐芙蓉园有多美",
-      "onboard_time": 1684415908,
-      "rank": 46,
-      "category": "旅游"
     },
     {
       "raw_hot": 134514,
@@ -2105,14 +2153,6 @@
       "onboard_time": 1684331672,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 125261,
-      "num": 125261,
-      "word": "为什么谈恋爱一定要多见面",
-      "onboard_time": 1684415908,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 124011,
@@ -2275,11 +2315,27 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 89022,
+      "num": 226503,
+      "word": "婚姻登记跨省通办试点扩大至21省份",
+      "onboard_time": 1684415308,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87279,
       "num": 87279,
       "word": "曼城晋级欧冠决赛",
       "onboard_time": 1684364962,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 86947,
+      "num": 152292,
+      "word": "为什么坚持健身反而胖了",
+      "onboard_time": 1684415668,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -2395,20 +2451,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 58355,
-      "num": 132144,
-      "word": "为什么坚持健身反而胖了",
-      "onboard_time": 1684415668,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 54735,
       "num": 479776,
       "word": "直播产品是怎么被选上的",
       "onboard_time": 1684382431,
       "rank": 14,
       "category": "其它"
+    },
+    {
+      "raw_hot": 48001,
+      "num": 1056906,
+      "word": "神十六本月发射",
+      "onboard_time": 1684398868,
+      "rank": 2,
+      "category": "科技"
     },
     {
       "raw_hot": 47885,
@@ -2425,22 +2481,6 @@
       "onboard_time": 1684404029,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 47545,
-      "num": 210890,
-      "word": "婚姻登记跨省通办试点扩大至21省份",
-      "onboard_time": 1684415308,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44366,
-      "num": 919652,
-      "word": "神十六本月发射",
-      "onboard_time": 1684398868,
-      "rank": 2,
-      "category": "科技"
     },
     {
       "raw_hot": 39695,
