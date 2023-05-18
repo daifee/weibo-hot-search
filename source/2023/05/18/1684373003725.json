@@ -1,0 +1,410 @@
+{
+  "runTime": 1684373003725,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2212000,
+        "num": 2212000,
+        "word": "建不建议一毕业就进体制",
+        "onboard_time": 1684366406,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1877436,
+        "num": 1877436,
+        "word": "罗翔神预言",
+        "onboard_time": 1684366946,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 37830,
+        "num": 1560687,
+        "word": "北斗为梦想导航",
+        "onboard_time": 1684327828,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1520932,
+        "num": 1520932,
+        "word": "巴厘岛遇害女生家属发文",
+        "onboard_time": 1684367908,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1429711,
+        "num": 1429711,
+        "word": "高叶戛纳 大气",
+        "onboard_time": 1684368990,
+        "rank": 4,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 1223067,
+        "num": 1223067,
+        "word": "普通人一万块需要存多久",
+        "onboard_time": 1684370430,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1196883,
+        "num": 1196883,
+        "word": "笑果承认存在侥幸心理",
+        "onboard_time": 1684336112,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 783117,
+        "num": 783117,
+        "word": "女生遭两闺蜜PUA长达8年被骗百万",
+        "onboard_time": 1684370491,
+        "rank": 7,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 737559,
+        "num": 737559,
+        "word": "易烊千玺戛纳生图",
+        "onboard_time": 1684366406,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 630692,
+        "num": 630692,
+        "word": "48岁交警被拖行700余米牺牲",
+        "onboard_time": 1684329994,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 952238,
+        "num": 629389,
+        "word": "韩流真的来了吗",
+        "onboard_time": 1684335391,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 569842,
+        "num": 569842,
+        "word": "谁给蒋梦婕选的衣服",
+        "onboard_time": 1684366824,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 560149,
+        "num": 560149,
+        "word": "张若昀左手拿汉堡右手牵唐艺昕",
+        "onboard_time": 1684321949,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 538603,
+        "num": 538603,
+        "word": "男子被女友怀疑出轨竟从12楼跳下",
+        "onboard_time": 1684336829,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524301,
+        "num": 524301,
+        "word": "保洁阿姨偷师10年成版画家",
+        "onboard_time": 1684364659,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511142,
+        "num": 511142,
+        "word": "张雨绮3D打印长裙",
+        "onboard_time": 1684370430,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 507756,
+        "num": 507756,
+        "word": "house录音",
+        "onboard_time": 1684331915,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 438943,
+        "num": 438943,
+        "word": "穿对衣服的张雨绮",
+        "onboard_time": 1684372053,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 377845,
+        "num": 377845,
+        "word": "女子帮闺蜜调解家庭矛盾出轨其丈夫",
+        "onboard_time": 1684364780,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403489,
+        "num": 372551,
+        "word": "house被警方立案调查",
+        "onboard_time": 1684327348,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 474010,
+        "num": 363590,
+        "word": "巴西男子性侵未成年女儿遭妻子勒死",
+        "onboard_time": 1684364902,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422702,
+        "num": 355467,
+        "word": "最近四川人的手指甲都是黄的",
+        "onboard_time": 1684338750,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336743,
+        "num": 336743,
+        "word": "你的QQ号码几位数",
+        "onboard_time": 1684366465,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 331659,
+        "num": 331659,
+        "word": "王子奇回复评论",
+        "onboard_time": 1684371931,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328550,
+        "num": 328550,
+        "word": "house",
+        "onboard_time": 1684367849,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 305163,
+        "num": 305163,
+        "word": "朱一龙入选法国GQ戛纳红毯最时尚的男人",
+        "onboard_time": 1684370251,
+        "rank": 25,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 293103,
+        "num": 293103,
+        "word": "今年出生的孩子 上学会非常宽松",
+        "onboard_time": 1684313312,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 251660,
+        "num": 251660,
+        "word": "迪丽热巴高清怼脸图",
+        "onboard_time": 1684367126,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 244514,
+        "num": 244514,
+        "word": "中演协要求对house进行从业抵制",
+        "onboard_time": 1684323988,
+        "rank": 28,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 214903,
+        "num": 214903,
+        "word": "男友妈妈让我换头像怎么办",
+        "onboard_time": 1684367187,
+        "rank": 29,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 214034,
+        "num": 214034,
+        "word": "家暴受害者母亲手撕谅解书",
+        "onboard_time": 1684370251,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201301,
+        "num": 201301,
+        "word": "代号鸢",
+        "onboard_time": 1684370852,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196215,
+        "num": 196215,
+        "word": "宁安如梦",
+        "onboard_time": 1684372651,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195211,
+        "num": 195211,
+        "word": "邢昭林晒弟弟舞台照",
+        "onboard_time": 1684368629,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182302,
+        "num": 182302,
+        "word": "民警救援受伤大灰狼双方都很慌",
+        "onboard_time": 1684366647,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179937,
+        "num": 179937,
+        "word": "曼城4比0皇马",
+        "onboard_time": 1684365203,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179635,
+        "num": 179635,
+        "word": "博物馆里的兔兔兔",
+        "onboard_time": 1684371029,
+        "rank": 36,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 176101,
+        "num": 176101,
+        "word": "萌兰小时候差点没把亲妈啃掉色",
+        "onboard_time": 1684364719,
+        "rank": 37,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 165658,
+        "num": 165658,
+        "word": "巴厘岛",
+        "onboard_time": 1684368931,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163884,
+        "num": 163884,
+        "word": "陈晓的字好好看",
+        "onboard_time": 1684372591,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163426,
+        "num": 163426,
+        "word": "赵丽颖到达天津",
+        "onboard_time": 1684368811,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155926,
+        "num": 155926,
+        "word": "钟欣潼蔡卓妍纪念Twins22周年",
+        "onboard_time": 1684368872,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153638,
+        "num": 153638,
+        "word": "29岁女子因脑积水头大如外星人",
+        "onboard_time": 1684367065,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152056,
+        "num": 152056,
+        "word": "洛杉矶火花裁掉杨力维",
+        "onboard_time": 1684372351,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150045,
+        "num": 150045,
+        "word": "杨紫大波浪怼脸拍",
+        "onboard_time": 1684329756,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150005,
+        "num": 150005,
+        "word": "资深法医回应巴厘岛案调查结果公布",
+        "onboard_time": 1684366884,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136068,
+        "num": 136068,
+        "word": "小樱花收到塞尔达王国之泪",
+        "onboard_time": 1684370971,
+        "rank": 46,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 135450,
+        "num": 135450,
+        "word": "泰迪绝育3年仍跑宠物店门口叫嚣",
+        "onboard_time": 1684362617,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81451,
+        "num": 134469,
+        "word": "清清 挂牌",
+        "onboard_time": 1684331672,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 67267,
+        "num": 134468,
+        "word": "绞肉机打出来的牛肉丸子",
+        "onboard_time": 1684351693,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国—中亚峰会时光#"
+    }
+  }
+}
