@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684384417591,
+  "endTime": 1684386945120,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 1667496,
-      "num": 517686,
+      "num": 556326,
       "word": "刘维好刚",
       "onboard_time": 1684375408,
       "rank": 10,
@@ -499,20 +499,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1654339,
+      "num": 1549973,
+      "word": "25岁中国男子惨死巴黎公寓中",
+      "onboard_time": 1684379489,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1641832,
       "num": 1641832,
       "word": "关晓彤戛纳",
       "onboard_time": 1684256303,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1635563,
-      "num": 1549973,
-      "word": "25岁中国男子惨死巴黎公寓中",
-      "onboard_time": 1684379489,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1622978,
@@ -843,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1234144,
+      "num": 560671,
+      "word": "巴厘岛遇害女生",
+      "onboard_time": 1684378409,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1221403,
       "num": 1221403,
       "word": "有退休金与没退休金的直观展示",
@@ -1067,20 +1075,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1059877,
+      "num": 558733,
+      "word": "胡兵说与陪伴30年的TA结婚了",
+      "onboard_time": 1684377810,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1057276,
       "num": 1057276,
       "word": "印尼警方通报中国游客巴厘岛遇害案",
       "onboard_time": 1684310370,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1047937,
-      "num": 521107,
-      "word": "胡兵说与陪伴30年的TA结婚了",
-      "onboard_time": 1684377810,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1029698,
@@ -1139,14 +1147,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 978925,
-      "num": 510196,
-      "word": "巴厘岛遇害女生",
-      "onboard_time": 1684378409,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 972751,
       "num": 972751,
       "word": "男子花10万块买了8套房",
@@ -1185,6 +1185,14 @@
       "onboard_time": 1684137508,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 951169,
+      "num": 951169,
+      "word": "吃了一碗三十五块钱的麻辣烫",
+      "onboard_time": 1684379794,
+      "rank": 39,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 948303,
@@ -1289,6 +1297,14 @@
       "onboard_time": 1684126775,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 882217,
+      "num": 882217,
+      "word": "得知四级真题被学校丢了后",
+      "onboard_time": 1684379794,
+      "rank": 48,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 880742,
@@ -1459,14 +1475,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 742461,
-      "num": 742461,
-      "word": "得知四级真题被学校丢了后",
-      "onboard_time": 1684379794,
-      "rank": 48,
-      "category": "教育,幽默"
-    },
-    {
       "raw_hot": 738729,
       "num": 738729,
       "word": "孟羽童图文广告报价至少15万一条",
@@ -1635,6 +1643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 673113,
+      "num": 673113,
+      "word": "易烊千玺最新撸猫视频",
+      "onboard_time": 1684385855,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 666982,
       "num": 666982,
       "word": "二阳症状比较轻",
@@ -1787,14 +1803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 606123,
-      "num": 606123,
-      "word": "吃了一碗三十五块钱的麻辣烫",
-      "onboard_time": 1684379794,
-      "rank": 39,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 605752,
       "num": 469004,
       "word": "杨紫大波浪怼脸拍",
@@ -1817,6 +1825,14 @@
       "onboard_time": 1684238910,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 602734,
+      "num": 602734,
+      "word": "在上海税前7000的真实生活",
+      "onboard_time": 1684378049,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 600857,
@@ -1931,6 +1947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 566284,
+      "num": 566284,
+      "word": "娱乐圈天选古代人",
+      "onboard_time": 1684382674,
+      "rank": 34,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 560953,
       "num": 560953,
       "word": "凤凰传奇是美依礼芽的榜一",
@@ -2025,14 +2049,6 @@
       "onboard_time": 1684331672,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 533588,
-      "num": 533588,
-      "word": "在上海税前7000的真实生活",
-      "onboard_time": 1684378049,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 526455,
@@ -2257,6 +2273,14 @@
       "onboard_time": 1684208307,
       "rank": 17,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 475616,
+      "num": 565616,
+      "word": "24岁以下青年失业率首破20%",
+      "onboard_time": 1684384354,
+      "rank": 49,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 475421,
@@ -2497,6 +2521,14 @@
       "onboard_time": 1684218689,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 438853,
+      "num": 438853,
+      "word": "于正有点人脉",
+      "onboard_time": 1684384054,
+      "rank": 38,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 438736,
@@ -3163,14 +3195,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 342825,
-      "num": 342825,
-      "word": "娱乐圈天选古代人",
-      "onboard_time": 1684382674,
-      "rank": 34,
-      "category": "作品衍生,幽默"
-    },
-    {
       "raw_hot": 340812,
       "num": 340812,
       "word": "原来每个户外人都有阴间照片",
@@ -3345,6 +3369,14 @@
       "onboard_time": 1684201948,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 326576,
+      "num": 326576,
+      "word": "龚俊跪在水中",
+      "onboard_time": 1684385855,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 325596,
@@ -3715,6 +3747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 289226,
+      "num": 289226,
+      "word": "央广网评笑果被罚",
+      "onboard_time": 1684383696,
+      "rank": 44,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 287758,
       "num": 287758,
       "word": "街舞6拟邀队长",
@@ -3891,6 +3931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278055,
+      "num": 278055,
+      "word": "凤求凰",
+      "onboard_time": 1684386331,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 277990,
       "num": 277990,
       "word": "感受不到发工资时的快乐了",
@@ -4041,14 +4089,6 @@
       "onboard_time": 1684208369,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 265840,
-      "num": 265840,
-      "word": "于正有点人脉",
-      "onboard_time": 1684384054,
-      "rank": 38,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 265180,
@@ -4379,6 +4419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 241750,
+      "num": 241750,
+      "word": "唐嫣腿好细",
+      "onboard_time": 1684385016,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 241722,
       "num": 241722,
       "word": "王鹤棣帮孟子义调汽车座椅",
@@ -4425,6 +4473,14 @@
       "onboard_time": 1684142669,
       "rank": 30,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 237965,
+      "num": 237965,
+      "word": "关晓彤海边跑步",
+      "onboard_time": 1684384777,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 237705,
@@ -4489,6 +4545,14 @@
       "onboard_time": 1684142427,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 233670,
+      "num": 233670,
+      "word": "熊猫趴着趴着就长大",
+      "onboard_time": 1684385073,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 233212,
@@ -4683,14 +4747,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 223694,
-      "num": 223694,
-      "word": "央广网评笑果被罚",
-      "onboard_time": 1684383696,
-      "rank": 44,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 223470,
       "num": 223470,
       "word": "捡到100块结果面试没通过",
@@ -4817,6 +4873,14 @@
       "onboard_time": 1684311099,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 216813,
+      "num": 216813,
+      "word": "时代少年团群聊改名了",
+      "onboard_time": 1684386273,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 216426,
@@ -4987,6 +5051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 210102,
+      "num": 210102,
+      "word": "应届毕业生该要多少薪资合适",
+      "onboard_time": 1684385734,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 209807,
       "num": 171262,
       "word": "追你的人突然有对象了",
@@ -5033,6 +5105,14 @@
       "onboard_time": 1684118065,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207480,
+      "num": 207480,
+      "word": "拉布拉多香香",
+      "onboard_time": 1684386512,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207304,
@@ -5739,6 +5819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178614,
+      "num": 178614,
+      "word": "虞书欣黑色发带好长",
+      "onboard_time": 1684386931,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 178155,
       "num": 178155,
       "word": "教小鸭子玩滑滑梯的小朋友",
@@ -5961,14 +6049,6 @@
       "onboard_time": 1684149627,
       "rank": 34,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 169958,
-      "num": 169958,
-      "word": "24岁以下青年失业率首破20%",
-      "onboard_time": 1684384354,
-      "rank": 49,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 169811,
@@ -6331,6 +6411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151128,
+      "num": 548967,
+      "word": "电子宠物能否成为精神寄托",
+      "onboard_time": 1684382610,
+      "rank": 30,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 151061,
       "num": 151061,
       "word": "安琪拉追逃游戏新皮肤",
@@ -6475,12 +6563,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 146321,
+      "num": 556945,
+      "word": "你家猫住什么窝",
+      "onboard_time": 1684382610,
+      "rank": 23,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 146282,
       "num": 146282,
       "word": "济南一连续坡道走出电梯即视感",
       "onboard_time": 1684248098,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146271,
+      "num": 178462,
+      "word": "凤凰于飞",
+      "onboard_time": 1684386394,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 146256,
@@ -7299,14 +7403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86606,
-      "num": 479380,
-      "word": "你家猫住什么窝",
-      "onboard_time": 1684382610,
-      "rank": 23,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 86385,
       "num": 86385,
       "word": "问薪无愧",
@@ -7377,14 +7473,6 @@
       "onboard_time": 1684366221,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 82320,
-      "num": 421442,
-      "word": "电子宠物能否成为精神寄托",
-      "onboard_time": 1684382610,
-      "rank": 30,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 82312,
