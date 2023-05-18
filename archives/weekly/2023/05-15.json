@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684438403264,
+  "endTime": 1684441072363,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -9115,7 +9115,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 22930,
+      "raw_hot": 24913,
       "num": 22930,
       "word": "男子开门杀致超速者死亡被判10个月",
       "onboard_time": 1684437012,
@@ -9163,6 +9163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15044,
+      "num": 15044,
+      "word": "宁静说姐姐们太苦了没时间勾心斗角",
+      "onboard_time": 1684439951,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 13215,
       "num": 17592,
       "word": "每个妈妈都喜欢自己的宝宝",
@@ -9177,6 +9185,14 @@
       "onboard_time": 1684271292,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 11794,
+      "num": 14108,
+      "word": "想在大哥头上歇脚的海鸥",
+      "onboard_time": 1684441032,
+      "rank": 49,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [

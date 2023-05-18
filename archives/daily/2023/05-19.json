@@ -1,6 +1,6 @@
 {
   "startTime": 1684426913140,
-  "endTime": 1684438403264,
+  "endTime": 1684441072363,
   "band_list": [
     {
       "raw_hot": 1517943,
@@ -475,12 +475,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 22930,
+      "raw_hot": 24913,
       "num": 22930,
       "word": "男子开门杀致超速者死亡被判10个月",
       "onboard_time": 1684437012,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15044,
+      "num": 15044,
+      "word": "宁静说姐姐们太苦了没时间勾心斗角",
+      "onboard_time": 1684439951,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 15030,
@@ -489,6 +497,14 @@
       "onboard_time": 1684398868,
       "rank": 2,
       "category": "科技"
+    },
+    {
+      "raw_hot": 11794,
+      "num": 14108,
+      "word": "想在大哥头上歇脚的海鸥",
+      "onboard_time": 1684441032,
+      "rank": 49,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
