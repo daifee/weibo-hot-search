@@ -1,0 +1,410 @@
+{
+  "runTime": 1684391664407,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1371341,
+        "num": 1371341,
+        "word": "凤求凰",
+        "onboard_time": 1684386331,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1510289,
+        "num": 1321477,
+        "word": "吃了一碗三十五块钱的麻辣烫",
+        "onboard_time": 1684379794,
+        "rank": 1,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 157959,
+        "num": 1047949,
+        "word": "藏在雪糕里的国家宝藏",
+        "onboard_time": 1684387290,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804200,
+        "num": 804200,
+        "word": "得知四级真题被学校丢了后",
+        "onboard_time": 1684379794,
+        "rank": 3,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 650260,
+        "num": 650260,
+        "word": "高叶礼服是自己缝的",
+        "onboard_time": 1684389687,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 591094,
+        "num": 591094,
+        "word": "杨幂把丝巾系腰上",
+        "onboard_time": 1684381352,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 543351,
+        "num": 543351,
+        "word": "女生已婚未孕找工作有多难",
+        "onboard_time": 1684387949,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 485274,
+        "num": 485274,
+        "word": "拉布拉多香香",
+        "onboard_time": 1684386512,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482153,
+        "num": 482153,
+        "word": "宝宝昏迷叫不到120交警连说3个管",
+        "onboard_time": 1684388728,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451110,
+        "num": 451110,
+        "word": "虞书欣黑色发带好长",
+        "onboard_time": 1684386931,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1379185,
+        "num": 450989,
+        "word": "巴厘岛遇害女生",
+        "onboard_time": 1684378409,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517617,
+        "num": 450915,
+        "word": "胡兵说与陪伴30年的TA结婚了",
+        "onboard_time": 1684377810,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450534,
+        "num": 450534,
+        "word": "高叶礼服开线了",
+        "onboard_time": 1684376187,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 411509,
+        "num": 411509,
+        "word": "应届毕业生该要多少薪资合适",
+        "onboard_time": 1684385734,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 17565,
+        "num": 392127,
+        "word": "中亚五国在西安的打开方式",
+        "onboard_time": 1684390768,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388976,
+        "num": 388976,
+        "word": "龚俊跪在水中",
+        "onboard_time": 1684385855,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 388669,
+        "num": 388669,
+        "word": "央广网评笑果被罚",
+        "onboard_time": 1684383696,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 352102,
+        "num": 352102,
+        "word": "24岁以下青年失业率首破20%",
+        "onboard_time": 1684384354,
+        "rank": 17,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 316940,
+        "num": 316940,
+        "word": "在上海税前7000的真实生活",
+        "onboard_time": 1684378049,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 313025,
+        "num": 313025,
+        "word": "男朋友爸妈建议我去考编制",
+        "onboard_time": 1684383214,
+        "rank": 19,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 451774,
+        "num": 311297,
+        "word": "25岁中国男子惨死巴黎公寓中",
+        "onboard_time": 1684379489,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324876,
+        "num": 306599,
+        "word": "普通人一万块需要存多久",
+        "onboard_time": 1684370430,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 294645,
+        "num": 294645,
+        "word": "于正选的新人颜值",
+        "onboard_time": 1684388069,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258849,
+        "num": 258849,
+        "word": "哈文参加女儿哥大毕业典礼",
+        "onboard_time": 1684390410,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257237,
+        "num": 257237,
+        "word": "穿对衣服的张雨绮",
+        "onboard_time": 1684372053,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 250996,
+        "num": 250996,
+        "word": "毛晓彤把物料提前发了",
+        "onboard_time": 1684388252,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242968,
+        "num": 242968,
+        "word": "密室大逃脱",
+        "onboard_time": 1684382733,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238419,
+        "num": 238419,
+        "word": "杨幂说以后改名四小花衫",
+        "onboard_time": 1684389209,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221979,
+        "num": 221979,
+        "word": "女生遭两闺蜜PUA长达8年被骗百万",
+        "onboard_time": 1684370491,
+        "rank": 28,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 218063,
+        "num": 218063,
+        "word": "二阳",
+        "onboard_time": 1684388850,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313957,
+        "num": 213249,
+        "word": "领导让我们三个怀孕错开",
+        "onboard_time": 1684391189,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267816,
+        "num": 212827,
+        "word": "曾经最差的学生回来了",
+        "onboard_time": 1684390591,
+        "rank": 31,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 207467,
+        "num": 207467,
+        "word": "王俊凯杭州",
+        "onboard_time": 1684388909,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185155,
+        "num": 185155,
+        "word": "谁能管管上海动物园的这两只天鹅",
+        "onboard_time": 1684382794,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182294,
+        "num": 182294,
+        "word": "易烊千玺最新撸猫视频",
+        "onboard_time": 1684385855,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180986,
+        "num": 180986,
+        "word": "刘维好刚",
+        "onboard_time": 1684375408,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172831,
+        "num": 172831,
+        "word": "娱乐圈天选古代人",
+        "onboard_time": 1684382674,
+        "rank": 36,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 146592,
+        "num": 146592,
+        "word": "时代少年团群聊改名了",
+        "onboard_time": 1684386273,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144315,
+        "num": 144315,
+        "word": "关晓彤海边跑步",
+        "onboard_time": 1684384777,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137996,
+        "num": 137996,
+        "word": "孙千素颜live图",
+        "onboard_time": 1684387350,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137908,
+        "num": 137908,
+        "word": "高叶戛纳 大气",
+        "onboard_time": 1684368990,
+        "rank": 40,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 137738,
+        "num": 137738,
+        "word": "house",
+        "onboard_time": 1684367849,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 136866,
+        "num": 136866,
+        "word": "张柏芝晒的是姐姐的女儿",
+        "onboard_time": 1684374689,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132569,
+        "num": 132569,
+        "word": "市川猿之助",
+        "onboard_time": 1684389090,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132427,
+        "num": 132427,
+        "word": "员工拒绝加班回怼后遭光速开除",
+        "onboard_time": 1684376427,
+        "rank": 44,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 132048,
+        "num": 132048,
+        "word": "唐嫣腿好细",
+        "onboard_time": 1684385016,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131868,
+        "num": 131868,
+        "word": "顾客点100元外卖后打赏10元骑手报警",
+        "onboard_time": 1684374689,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128899,
+        "num": 128899,
+        "word": "秦始皇拉回不想上班的兵马俑",
+        "onboard_time": 1684391250,
+        "rank": 47,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 121573,
+        "num": 121573,
+        "word": "于正有点人脉",
+        "onboard_time": 1684384054,
+        "rank": 48,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 108672,
+        "num": 108672,
+        "word": "王源巡演重庆站售票日历",
+        "onboard_time": 1684387949,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#北斗为梦想导航#"
+    }
+  }
+}
