@@ -1,0 +1,410 @@
+{
+  "runTime": 1684384417591,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1154523,
+        "num": 1154523,
+        "word": "杨幂把丝巾系腰上",
+        "onboard_time": 1684381352,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 742461,
+        "num": 742461,
+        "word": "得知四级真题被学校丢了后",
+        "onboard_time": 1684379794,
+        "rank": 1,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 11720,
+        "num": 706905,
+        "word": "北斗为梦想导航",
+        "onboard_time": 1684327828,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2801808,
+        "num": 706493,
+        "word": "周也道歉",
+        "onboard_time": 1684379371,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1635563,
+        "num": 706133,
+        "word": "25岁中国男子惨死巴黎公寓中",
+        "onboard_time": 1684379489,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705594,
+        "num": 705594,
+        "word": "高叶礼服开线了",
+        "onboard_time": 1684376187,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 671290,
+        "num": 671290,
+        "word": "杭州女童电梯坠亡案一审宣判",
+        "onboard_time": 1684378289,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630118,
+        "num": 630118,
+        "word": "员工拒绝加班回怼后遭光速开除",
+        "onboard_time": 1684376427,
+        "rank": 7,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 606123,
+        "num": 606123,
+        "word": "吃了一碗三十五块钱的麻辣烫",
+        "onboard_time": 1684379794,
+        "rank": 8,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 533588,
+        "num": 533588,
+        "word": "在上海税前7000的真实生活",
+        "onboard_time": 1684378049,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1047937,
+        "num": 521107,
+        "word": "胡兵说与陪伴30年的TA结婚了",
+        "onboard_time": 1684377810,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 978925,
+        "num": 510196,
+        "word": "巴厘岛遇害女生",
+        "onboard_time": 1684378409,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 944904,
+        "num": 508538,
+        "word": "刘维好刚",
+        "onboard_time": 1684375408,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 497412,
+        "num": 497412,
+        "word": "穿对衣服的张雨绮",
+        "onboard_time": 1684372053,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 54735,
+        "num": 479776,
+        "word": "直播产品是怎么被选上的",
+        "onboard_time": 1684382431,
+        "rank": 14,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 86606,
+        "num": 479380,
+        "word": "你家猫住什么窝",
+        "onboard_time": 1684382610,
+        "rank": 15,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 479219,
+        "num": 479219,
+        "word": "密室大逃脱",
+        "onboard_time": 1684382733,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 474871,
+        "num": 474871,
+        "word": "张柏芝晒的是姐姐的女儿",
+        "onboard_time": 1684374689,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76619,
+        "num": 421442,
+        "word": "电子宠物能否成为精神寄托",
+        "onboard_time": 1684382610,
+        "rank": 18,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 410374,
+        "num": 410374,
+        "word": "高叶戛纳 大气",
+        "onboard_time": 1684368990,
+        "rank": 19,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 203919,
+        "num": 409151,
+        "word": "遇见喵克斯",
+        "onboard_time": 1684382314,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1035602,
+        "num": 406754,
+        "word": "女生遭两闺蜜PUA长达8年被骗百万",
+        "onboard_time": 1684370491,
+        "rank": 21,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 735096,
+        "num": 406399,
+        "word": "普通人一万块需要存多久",
+        "onboard_time": 1684370430,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81739,
+        "num": 404688,
+        "word": "养宠又养娃是什么神仙体验",
+        "onboard_time": 1684381711,
+        "rank": 23,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 145840,
+        "num": 402089,
+        "word": "厕所是打工人的避风港吧",
+        "onboard_time": 1684382314,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27092,
+        "num": 400503,
+        "word": "云养猫的快乐谁懂啊",
+        "onboard_time": 1684383273,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 399083,
+        "num": 399083,
+        "word": "男朋友爸妈建议我去考编制",
+        "onboard_time": 1684383214,
+        "rank": 26,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 384948,
+        "num": 384948,
+        "word": "偶遇杨颖张大大逛超市",
+        "onboard_time": 1684378530,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 381667,
+        "num": 381667,
+        "word": "巴特勒真硬",
+        "onboard_time": 1684379972,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358214,
+        "num": 358214,
+        "word": "顾客点100元外卖后打赏10元骑手报警",
+        "onboard_time": 1684374689,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342825,
+        "num": 342825,
+        "word": "娱乐圈天选古代人",
+        "onboard_time": 1684382674,
+        "rank": 30,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 318782,
+        "num": 318782,
+        "word": "house",
+        "onboard_time": 1684367849,
+        "rank": 31,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 317356,
+        "num": 317356,
+        "word": "爱豆什么时候可以谈恋爱",
+        "onboard_time": 1684382254,
+        "rank": 32,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 306735,
+        "num": 306735,
+        "word": "刘亦菲水中倒影封面预告",
+        "onboard_time": 1684382133,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 300464,
+        "num": 300464,
+        "word": "谁能管管上海动物园的这两只天鹅",
+        "onboard_time": 1684382794,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299830,
+        "num": 299830,
+        "word": "罗翔神预言",
+        "onboard_time": 1684366946,
+        "rank": 35,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 295374,
+        "num": 295374,
+        "word": "丁程鑫说只要是七个人就好",
+        "onboard_time": 1684382857,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 268064,
+        "num": 268064,
+        "word": "这些蔬菜不要生吃",
+        "onboard_time": 1684377329,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265840,
+        "num": 265840,
+        "word": "于正有点人脉",
+        "onboard_time": 1684384054,
+        "rank": 38,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 262585,
+        "num": 262585,
+        "word": "韩流真的来了吗",
+        "onboard_time": 1684335391,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252065,
+        "num": 252065,
+        "word": "最近四川人的手指甲都是黄的",
+        "onboard_time": 1684338750,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249511,
+        "num": 249511,
+        "word": "笑果承认存在侥幸心理",
+        "onboard_time": 1684336112,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 241790,
+        "num": 241790,
+        "word": "年轻女子穿着干净时尚当街跪地乞讨",
+        "onboard_time": 1684375350,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230115,
+        "num": 230115,
+        "word": "鲁A0M59H你做的好事藏不住了",
+        "onboard_time": 1684380870,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223694,
+        "num": 223694,
+        "word": "央广网评笑果被罚",
+        "onboard_time": 1684383696,
+        "rank": 44,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 209199,
+        "num": 209199,
+        "word": "朴彩英的发型是蝴蝶结",
+        "onboard_time": 1684378650,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197167,
+        "num": 197167,
+        "word": "雨中的赵丽颖",
+        "onboard_time": 1684373191,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191685,
+        "num": 191685,
+        "word": "张萌说讨厌不起来赵露思",
+        "onboard_time": 1684378229,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186583,
+        "num": 186583,
+        "word": "谁给蒋梦婕选的衣服",
+        "onboard_time": 1684366824,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169958,
+        "num": 169958,
+        "word": "24岁以下青年失业率首破20%",
+        "onboard_time": 1684384354,
+        "rank": 49,
+        "category": "社会新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同托卡耶夫会谈#"
+    }
+  }
+}
