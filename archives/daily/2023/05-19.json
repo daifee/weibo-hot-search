@@ -1,6 +1,6 @@
 {
   "startTime": 1684426913140,
-  "endTime": 1684444478875,
+  "endTime": 1684445612040,
   "band_list": [
     {
       "raw_hot": 1517943,
@@ -459,20 +459,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40091,
+      "num": 22252,
+      "word": "网约车拒违停2乘客赖车上超24小时",
+      "onboard_time": 1684443972,
+      "rank": 38,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 35372,
+      "num": 35372,
+      "word": "西湖边82岁奶奶和旗袍高跟鞋好配",
+      "onboard_time": 1684438872,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34849,
       "num": 34849,
       "word": "刘雨昕上海看秀",
       "onboard_time": 1684432095,
       "rank": 37,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 28408,
-      "num": 28408,
-      "word": "西湖边82岁奶奶和旗袍高跟鞋好配",
-      "onboard_time": 1684438872,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28352,
@@ -491,20 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18119,
-      "num": 18119,
+      "raw_hot": 20981,
+      "num": 20981,
       "word": "宁静说姐姐们太苦了没时间勾心斗角",
       "onboard_time": 1684439951,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 16661,
-      "num": 16661,
-      "word": "网约车拒违停2乘客赖车上超24小时",
-      "onboard_time": 1684443972,
-      "rank": 38,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 15030,
