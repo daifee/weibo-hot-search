@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684470810501,
+  "endTime": 1684473343594,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1081,6 +1081,14 @@
       "onboard_time": 1683340052,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2266930,
+      "num": 2266930,
+      "word": "同事一年存50万我失眠了",
+      "onboard_time": 1684469732,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 2265396,
@@ -5251,6 +5259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1031613,
+      "num": 1031613,
+      "word": "恢复台湾居民来大陆团队游",
+      "onboard_time": 1684470033,
+      "rank": 12,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 1030066,
       "num": 1030066,
       "word": "王博",
@@ -5657,6 +5673,14 @@
       "onboard_time": 1684288652,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 946900,
+      "num": 946900,
+      "word": "谢娜一公个人喜爱度第三",
+      "onboard_time": 1684471473,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 946069,
@@ -7379,14 +7403,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 731381,
-      "num": 718917,
-      "word": "同事一年存50万我失眠了",
-      "onboard_time": 1684469732,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 731205,
       "num": 731205,
       "word": "听见过三观最不正的话",
@@ -7729,14 +7745,6 @@
       "onboard_time": 1683872729,
       "rank": 30,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 700698,
-      "num": 700698,
-      "word": "恢复台湾居民来大陆团队游",
-      "onboard_time": 1684470033,
-      "rank": 12,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 700223,
@@ -9875,6 +9883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 544765,
+      "num": 544765,
+      "word": "终于拒绝了爱蹭车的同事",
+      "onboard_time": 1684468712,
+      "rank": 16,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 544712,
       "num": 314559,
       "word": "罗云熙说长月烬明虽有憾愿人生圆满",
@@ -10531,14 +10547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 514947,
-      "num": 514947,
-      "word": "终于拒绝了爱蹭车的同事",
-      "onboard_time": 1684468712,
-      "rank": 16,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 513967,
       "num": 513967,
       "word": "2022年平均工资",
@@ -11123,6 +11131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 484549,
+      "num": 484549,
+      "word": "浙江",
+      "onboard_time": 1684471595,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484512,
       "num": 484512,
       "word": "这个五一山东景区杀疯了",
@@ -11592,6 +11608,14 @@
       "word": "肖战抹眼泪",
       "onboard_time": 1683246273,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 469441,
+      "num": 469441,
+      "word": "优酷你看你在干什么",
+      "onboard_time": 1684471713,
+      "rank": 14,
       "category": "影视"
     },
     {
@@ -13083,6 +13107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 423448,
+      "num": 423448,
+      "word": "这么多人都想生龙宝宝吗",
+      "onboard_time": 1684471055,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 423055,
       "num": 423055,
       "word": "丁真诉网友侵权胜诉获赔6.1万",
@@ -13481,6 +13513,14 @@
       "onboard_time": 1683548610,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 409294,
+      "num": 321609,
+      "word": "Amber第一",
+      "onboard_time": 1684472914,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 409160,
@@ -15099,6 +15139,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 369555,
+      "num": 279196,
+      "word": "坐地铁千万别靠这块玻璃",
+      "onboard_time": 1684471772,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 369296,
       "num": 369296,
       "word": "九街",
@@ -15129,6 +15177,14 @@
       "onboard_time": 1683261994,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 368999,
+      "num": 277338,
+      "word": "谢娜评论包文婧微博",
+      "onboard_time": 1684472195,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 368124,
@@ -16105,6 +16161,14 @@
       "onboard_time": 1684062926,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 350329,
+      "num": 350329,
+      "word": "詹姆斯老了",
+      "onboard_time": 1684469010,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 350276,
@@ -17499,14 +17563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 323194,
-      "num": 323194,
-      "word": "詹姆斯老了",
-      "onboard_time": 1684469010,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 323097,
       "num": 1294719,
       "word": "游客给淄博一线工作人员送鲜花",
@@ -18531,6 +18587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 303499,
+      "num": 303499,
+      "word": "任嘉伦精修vs生图",
+      "onboard_time": 1684469975,
+      "rank": 38,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 303251,
       "num": 303251,
       "word": "王鹤棣说好看的人也要好好演戏",
@@ -19291,6 +19355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 292782,
+      "num": 292782,
+      "word": "张嘉倪乘风喜提队长",
+      "onboard_time": 1684470394,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292744,
       "num": 292744,
       "word": "华晨宇五专台湾销量",
@@ -19976,6 +20048,14 @@
       "word": "追你的人突然有对象了",
       "onboard_time": 1684068625,
       "rank": 24,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 282889,
+      "num": 282889,
+      "word": "三十能解决的事忍了十年",
+      "onboard_time": 1684471835,
+      "rank": 28,
       "category": "情感,幽默"
     },
     {
@@ -22675,6 +22755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 247958,
+      "num": 247958,
+      "word": "嫡嫁千金改名墨雨云间",
+      "onboard_time": 1684472135,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 247920,
       "num": 247920,
       "word": "巴基斯坦前总理被捕",
@@ -22817,6 +22905,14 @@
       "onboard_time": 1684400251,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 246435,
+      "num": 246435,
+      "word": "重庆居然还有折耳根千层",
+      "onboard_time": 1684469913,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 246287,
@@ -23531,12 +23627,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238352,
+      "num": 238352,
+      "word": "夏鸣星",
+      "onboard_time": 1684471055,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 238297,
       "num": 238297,
       "word": "花楼是不是被夺舍了",
       "onboard_time": 1683463530,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 238031,
+      "num": 238031,
+      "word": "Ella闺女这么大了",
+      "onboard_time": 1684456171,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 237944,
@@ -23737,6 +23849,14 @@
       "onboard_time": 1683964829,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236392,
+      "num": 236392,
+      "word": "惜花芷官宣 张婧仪胡一天平番",
+      "onboard_time": 1684473033,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 236244,
@@ -24939,14 +25059,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 224664,
-      "num": 224664,
-      "word": "任嘉伦精修vs生图",
-      "onboard_time": 1684469975,
-      "rank": 38,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 224590,
       "num": 224590,
       "word": "王玉雯王子奇眼神",
@@ -25137,14 +25249,6 @@
       "onboard_time": 1683081331,
       "rank": 31,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 222160,
-      "num": 222160,
-      "word": "Ella闺女这么大了",
-      "onboard_time": 1684456171,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 222064,
@@ -25793,6 +25897,14 @@
       "onboard_time": 1684406970,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216634,
+      "num": 216634,
+      "word": "迪丽热巴佟大为公诉将在浙江卫视播出",
+      "onboard_time": 1684472795,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 216601,
@@ -29355,6 +29467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 186098,
+      "num": 186098,
+      "word": "侯明昊周也护心豆瓣7.5",
+      "onboard_time": 1684472015,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186042,
       "num": 186042,
       "word": "公诉",
@@ -29393,14 +29513,6 @@
       "onboard_time": 1683549331,
       "rank": 37,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 185867,
-      "num": 185867,
-      "word": "重庆居然还有折耳根千层",
-      "onboard_time": 1684469913,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 185800,
@@ -31155,12 +31267,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 171091,
-      "num": 171091,
-      "word": "张嘉倪乘风喜提队长",
-      "onboard_time": 1684470394,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 171162,
+      "num": 171162,
+      "word": "周润发朱一龙领衔的端午档有多强",
+      "onboard_time": 1684473272,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 171044,
