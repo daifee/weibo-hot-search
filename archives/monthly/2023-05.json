@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684516489271,
+  "endTime": 1684517627790,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -12563,6 +12563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 450032,
+      "num": 231572,
+      "word": "他在海上就这么飘了14天",
+      "onboard_time": 1684513106,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 449968,
       "num": 449968,
       "word": "一觉醒来咽喉炎了",
@@ -13123,6 +13131,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 434314,
+      "num": 434314,
+      "word": "你才不是没人要的小猫咪",
+      "onboard_time": 1684513344,
+      "rank": 31,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 433741,
       "num": 433741,
       "word": "买个青蛙人偶去发疯",
@@ -13329,14 +13345,6 @@
       "onboard_time": 1684504592,
       "rank": 23,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 427379,
-      "num": 231572,
-      "word": "他在海上就这么飘了14天",
-      "onboard_time": 1684513106,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 427266,
@@ -14811,6 +14819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 389352,
+      "num": 389352,
+      "word": "亲属自述2岁男童被外婆打成重伤",
+      "onboard_time": 1684513644,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 389258,
       "num": 338606,
       "word": "徐怀钰 回忆杀",
@@ -15193,14 +15209,6 @@
       "onboard_time": 1683990332,
       "rank": 33,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 381175,
-      "num": 381175,
-      "word": "你才不是没人要的小猫咪",
-      "onboard_time": 1684513344,
-      "rank": 31,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 380804,
@@ -17689,14 +17697,6 @@
       "onboard_time": 1683345394,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 332395,
-      "num": 222301,
-      "word": "亲属自述2岁男童被外婆打成重伤",
-      "onboard_time": 1684513644,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 332235,
@@ -34275,6 +34275,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 152693,
+      "num": 152693,
+      "word": "塞尔达 使用木板和长矛就能原地起飞",
+      "onboard_time": 1684514604,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 152678,
       "num": 152678,
       "word": "Elk MVP",
@@ -35281,14 +35289,6 @@
       "onboard_time": 1684118006,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144052,
-      "num": 109652,
-      "word": "塞尔达 使用木板和长矛就能原地起飞",
-      "onboard_time": 1684514604,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 143659,
@@ -40057,6 +40057,14 @@
       "onboard_time": 1683885690,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49380,
+      "num": 55662,
+      "word": "LPL二号种子 LCK一号种子",
+      "onboard_time": 1684517599,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 49248,

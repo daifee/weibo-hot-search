@@ -1,6 +1,6 @@
 {
   "startTime": 1684513305148,
-  "endTime": 1684516489271,
+  "endTime": 1684517627790,
   "band_list": [
     {
       "raw_hot": 1956208,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 450032,
+      "num": 231572,
+      "word": "他在海上就这么飘了14天",
+      "onboard_time": 1684513106,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 436497,
       "num": 436497,
       "word": "LPL时隔3147天再次零封LCK队伍",
@@ -91,12 +99,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 427379,
-      "num": 231572,
-      "word": "他在海上就这么飘了14天",
-      "onboard_time": 1684513106,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 434314,
+      "num": 434314,
+      "word": "你才不是没人要的小猫咪",
+      "onboard_time": 1684513344,
+      "rank": 31,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 404119,
@@ -107,12 +115,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 381175,
-      "num": 381175,
-      "word": "你才不是没人要的小猫咪",
-      "onboard_time": 1684513344,
-      "rank": 31,
-      "category": "幽默,情感"
+      "raw_hot": 389352,
+      "num": 389352,
+      "word": "亲属自述2岁男童被外婆打成重伤",
+      "onboard_time": 1684513644,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 372690,
@@ -121,14 +129,6 @@
       "onboard_time": 1684510411,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 332395,
-      "num": 222301,
-      "word": "亲属自述2岁男童被外婆打成重伤",
-      "onboard_time": 1684513644,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 309343,
@@ -283,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152693,
+      "num": 152693,
+      "word": "塞尔达 使用木板和长矛就能原地起飞",
+      "onboard_time": 1684514604,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150681,
       "num": 127953,
       "word": "济南服务区一轿车高速行驶撞飞路人",
@@ -313,14 +321,6 @@
       "onboard_time": 1684508252,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144052,
-      "num": 109652,
-      "word": "塞尔达 使用木板和长矛就能原地起飞",
-      "onboard_time": 1684514604,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 139147,
@@ -459,12 +459,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57416,
+      "raw_hot": 60642,
       "num": 67013,
       "word": "华晨宇直播打游戏",
       "onboard_time": 1684504592,
       "rank": 49,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 49380,
+      "num": 55662,
+      "word": "LPL二号种子 LCK一号种子",
+      "onboard_time": 1684517599,
+      "rank": 49,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [

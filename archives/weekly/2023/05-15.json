@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684516489271,
+  "endTime": 1684517627790,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -3531,6 +3531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 450032,
+      "num": 231572,
+      "word": "他在海上就这么飘了14天",
+      "onboard_time": 1684513106,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 449927,
       "num": 317870,
       "word": "张歆艺太瘦了",
@@ -3699,6 +3707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 434314,
+      "num": 434314,
+      "word": "你才不是没人要的小猫咪",
+      "onboard_time": 1684513344,
+      "rank": 31,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 432991,
       "num": 432991,
       "word": "怎么没有徐怀钰直拍",
@@ -3769,14 +3785,6 @@
       "onboard_time": 1684504592,
       "rank": 23,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 427379,
-      "num": 231572,
-      "word": "他在海上就这么飘了14天",
-      "onboard_time": 1684513106,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 427225,
@@ -4163,6 +4171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 389352,
+      "num": 389352,
+      "word": "亲属自述2岁男童被外婆打成重伤",
+      "onboard_time": 1684513644,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 388308,
       "num": 256310,
       "word": "为什么谈恋爱一定要多见面",
@@ -4273,14 +4289,6 @@
       "onboard_time": 1684482211,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 381175,
-      "num": 381175,
-      "word": "你才不是没人要的小猫咪",
-      "onboard_time": 1684513344,
-      "rank": 31,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 380162,
@@ -4889,14 +4897,6 @@
       "onboard_time": 1684378650,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 332395,
-      "num": 222301,
-      "word": "亲属自述2岁男童被外婆打成重伤",
-      "onboard_time": 1684513644,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 332201,
@@ -9355,6 +9355,14 @@
       "category": "教育,科技"
     },
     {
+      "raw_hot": 152693,
+      "num": 152693,
+      "word": "塞尔达 使用木板和长矛就能原地起飞",
+      "onboard_time": 1684514604,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 152678,
       "num": 152678,
       "word": "Elk MVP",
@@ -9737,14 +9745,6 @@
       "onboard_time": 1684118006,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144052,
-      "num": 109652,
-      "word": "塞尔达 使用木板和长矛就能原地起飞",
-      "onboard_time": 1684514604,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 143659,
@@ -11169,6 +11169,14 @@
       "onboard_time": 1684085418,
       "rank": 29,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 49380,
+      "num": 55662,
+      "word": "LPL二号种子 LCK一号种子",
+      "onboard_time": 1684517599,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 48967,
