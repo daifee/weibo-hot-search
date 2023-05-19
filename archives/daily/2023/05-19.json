@@ -1,6 +1,6 @@
 {
   "startTime": 1684426913140,
-  "endTime": 1684473343594,
+  "endTime": 1684474406064,
   "band_list": [
     {
       "raw_hot": 3283995,
@@ -75,6 +75,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1299856,
+      "num": 592587,
+      "word": "浙江",
+      "onboard_time": 1684471595,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1289982,
       "num": 1289982,
       "word": "下个月你工资卡里或将多一笔钱",
@@ -115,20 +123,20 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 1039760,
+      "num": 1039760,
+      "word": "谢娜一公个人喜爱度第三",
+      "onboard_time": 1684471473,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1031613,
       "num": 1031613,
       "word": "恢复台湾居民来大陆团队游",
       "onboard_time": 1684470033,
       "rank": 12,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 946900,
-      "num": 946900,
-      "word": "谢娜一公个人喜爱度第三",
-      "onboard_time": 1684471473,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 944784,
@@ -227,12 +235,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 698665,
+      "num": 337529,
+      "word": "Amber第一",
+      "onboard_time": 1684472914,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 686731,
       "num": 686731,
       "word": "T1和JDG决胜局",
       "onboard_time": 1684423528,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 586300,
+      "num": 586300,
+      "word": "谢娜评论包文婧微博",
+      "onboard_time": 1684472195,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 550499,
@@ -305,14 +329,6 @@
       "onboard_time": 1684452502,
       "rank": 40,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 484549,
-      "num": 484549,
-      "word": "浙江",
-      "onboard_time": 1684471595,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 480148,
@@ -427,14 +443,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 409294,
-      "num": 321609,
-      "word": "Amber第一",
-      "onboard_time": 1684472914,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 395401,
       "num": 395401,
       "word": "吴谢宇",
@@ -468,19 +476,11 @@
     },
     {
       "raw_hot": 369555,
-      "num": 279196,
+      "num": 339800,
       "word": "坐地铁千万别靠这块玻璃",
       "onboard_time": 1684471772,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 368999,
-      "num": 277338,
-      "word": "谢娜评论包文婧微博",
-      "onboard_time": 1684472195,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 365834,
@@ -523,6 +523,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 342480,
+      "num": 342480,
+      "word": "一公排名",
+      "onboard_time": 1684473873,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 331865,
+      "num": 331865,
+      "word": "惜花芷官宣 张婧仪胡一天平番",
+      "onboard_time": 1684473033,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 330118,
       "num": 330118,
       "word": "范丞丞在脖子上挂了个嘴巴",
@@ -537,6 +553,14 @@
       "onboard_time": 1684464687,
       "rank": 18,
       "category": "幽默,时尚"
+    },
+    {
+      "raw_hot": 318546,
+      "num": 318546,
+      "word": "嫡嫁千金改名墨雨云间",
+      "onboard_time": 1684472135,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 314358,
@@ -715,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258202,
+      "num": 258202,
+      "word": "迪丽热巴佟大为公诉将在浙江卫视播出",
+      "onboard_time": 1684472795,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 256953,
       "num": 256953,
       "word": "想把驾校里的教练车买下来",
@@ -752,14 +784,6 @@
       "word": "墨雨云间",
       "onboard_time": 1684469372,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 247958,
-      "num": 247958,
-      "word": "嫡嫁千金改名墨雨云间",
-      "onboard_time": 1684472135,
-      "rank": 34,
       "category": "影视"
     },
     {
@@ -808,14 +832,6 @@
       "word": "檀健次王楚然拥抱路透",
       "onboard_time": 1684460787,
       "rank": 42,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 236392,
-      "num": 236392,
-      "word": "惜花芷官宣 张婧仪胡一天平番",
-      "onboard_time": 1684473033,
-      "rank": 38,
       "category": "影视"
     },
     {
@@ -873,14 +889,6 @@
       "onboard_time": 1684464987,
       "rank": 28,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 216634,
-      "num": 216634,
-      "word": "迪丽热巴佟大为公诉将在浙江卫视播出",
-      "onboard_time": 1684472795,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 216400,
@@ -945,6 +953,14 @@
       "onboard_time": 1684399530,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194550,
+      "num": 194550,
+      "word": "周润发朱一龙领衔的端午档有多强",
+      "onboard_time": 1684473272,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 192387,
@@ -1083,12 +1099,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171162,
-      "num": 171162,
-      "word": "周润发朱一龙领衔的端午档有多强",
-      "onboard_time": 1684473272,
-      "rank": 47,
-      "category": "影视"
+      "raw_hot": 171496,
+      "num": 171496,
+      "word": "李光洙宁艺卓双向奔赴的不熟",
+      "onboard_time": 1684473692,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 170897,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1684474406064,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2217085,
+        "num": 2217085,
+        "word": "同事一年存50万我失眠了",
+        "onboard_time": 1684469732,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1039760,
+        "num": 1039760,
+        "word": "谢娜一公个人喜爱度第三",
+        "onboard_time": 1684471473,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35346,
+        "num": 925959,
+        "word": "夏收夏种丰收图景徐徐展开",
+        "onboard_time": 1684467569,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 890545,
+        "num": 890545,
+        "word": "总算知道黄晓明有多高了",
+        "onboard_time": 1684463007,
+        "rank": 3,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 846397,
+        "num": 846397,
+        "word": "恢复台湾居民来大陆团队游",
+        "onboard_time": 1684470033,
+        "rank": 4,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 786603,
+        "num": 786603,
+        "word": "越野网红戳伤妻子眼睛后自杀身亡",
+        "onboard_time": 1684467089,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683813,
+        "num": 683813,
+        "word": "刘亦菲红裙雕刻感大片",
+        "onboard_time": 1684467988,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 645057,
+        "num": 645057,
+        "word": "宁安如梦真来了",
+        "onboard_time": 1684464090,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 628393,
+        "num": 628393,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1684467448,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 472555,
+        "num": 592839,
+        "word": "广西一车辆翻下路边悬崖11人遇难",
+        "onboard_time": 1684469613,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1299856,
+        "num": 592587,
+        "word": "浙江",
+        "onboard_time": 1684471595,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 820880,
+        "num": 590540,
+        "word": "张新成 李兰迪",
+        "onboard_time": 1684459348,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 586300,
+        "num": 586300,
+        "word": "谢娜评论包文婧微博",
+        "onboard_time": 1684472195,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 508095,
+        "num": 508095,
+        "word": "终于拒绝了爱蹭车的同事",
+        "onboard_time": 1684468712,
+        "rank": 13,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 451323,
+        "num": 451323,
+        "word": "优酷你看你在干什么",
+        "onboard_time": 1684471713,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 414095,
+        "num": 414095,
+        "word": "这么多人都想生龙宝宝吗",
+        "onboard_time": 1684471055,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1891003,
+        "num": 412486,
+        "word": "浙江通报6男子参加同性淫乱聚会",
+        "onboard_time": 1684464508,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397754,
+        "num": 397754,
+        "word": "劝大家不要去尝试群演行业",
+        "onboard_time": 1684460548,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 342480,
+        "num": 342480,
+        "word": "一公排名",
+        "onboard_time": 1684473873,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339800,
+        "num": 339800,
+        "word": "坐地铁千万别靠这块玻璃",
+        "onboard_time": 1684471772,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1352160,
+        "num": 338161,
+        "word": "男子强奸大嫂出狱后还想报复",
+        "onboard_time": 1684467869,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698665,
+        "num": 337529,
+        "word": "Amber第一",
+        "onboard_time": 1684472914,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331865,
+        "num": 331865,
+        "word": "惜花芷官宣 张婧仪胡一天平番",
+        "onboard_time": 1684473033,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318546,
+        "num": 318546,
+        "word": "嫡嫁千金改名墨雨云间",
+        "onboard_time": 1684472135,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299840,
+        "num": 299840,
+        "word": "放太久的鞋子就别穿了",
+        "onboard_time": 1684454849,
+        "rank": 24,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 281673,
+        "num": 281673,
+        "word": "三十能解决的事忍了十年",
+        "onboard_time": 1684471835,
+        "rank": 25,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 279873,
+        "num": 279873,
+        "word": "詹姆斯老了",
+        "onboard_time": 1684469010,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269682,
+        "num": 269682,
+        "word": "张嘉倪乘风喜提队长",
+        "onboard_time": 1684470394,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264249,
+        "num": 264249,
+        "word": "任嘉伦精修vs生图",
+        "onboard_time": 1684469975,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 259751,
+        "num": 259751,
+        "word": "因为拉肚子直接瘦了6斤",
+        "onboard_time": 1684463368,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258202,
+        "num": 258202,
+        "word": "迪丽热巴佟大为公诉将在浙江卫视播出",
+        "onboard_time": 1684472795,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244297,
+        "num": 244297,
+        "word": "钟楚曦戛纳红毯东方美人",
+        "onboard_time": 1684452623,
+        "rank": 31,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 236433,
+        "num": 236433,
+        "word": "重庆居然还有折耳根千层",
+        "onboard_time": 1684469913,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 232060,
+        "num": 232060,
+        "word": "夏鸣星",
+        "onboard_time": 1684471055,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 229802,
+        "num": 229802,
+        "word": "蔡徐坤澳门演唱会开票",
+        "onboard_time": 1684469673,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212777,
+        "num": 212777,
+        "word": "吴谢宇狱友称其大部分时间在写东西",
+        "onboard_time": 1684466669,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212557,
+        "num": 212557,
+        "word": "孟美岐北京演唱会官宣",
+        "onboard_time": 1684467569,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201564,
+        "num": 201564,
+        "word": "欢迎台湾同胞来大陆旅游",
+        "onboard_time": 1684469312,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 194550,
+        "num": 194550,
+        "word": "周润发朱一龙领衔的端午档有多强",
+        "onboard_time": 1684473272,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192703,
+        "num": 192703,
+        "word": "杨幂戴头花",
+        "onboard_time": 1684458028,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184972,
+        "num": 184972,
+        "word": "付国豪",
+        "onboard_time": 1684463307,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182748,
+        "num": 182748,
+        "word": "Ella闺女这么大了",
+        "onboard_time": 1684456171,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178398,
+        "num": 178398,
+        "word": "Angelababy张大大压马路",
+        "onboard_time": 1684467930,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171496,
+        "num": 171496,
+        "word": "李光洙宁艺卓双向奔赴的不熟",
+        "onboard_time": 1684473692,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170807,
+        "num": 170807,
+        "word": "G社拍的龚俊",
+        "onboard_time": 1684454969,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154932,
+        "num": 154932,
+        "word": "医生用一根针帮患癌老人冻死肿瘤",
+        "onboard_time": 1684452743,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148531,
+        "num": 148531,
+        "word": "现在的童装和女装",
+        "onboard_time": 1684464687,
+        "rank": 46,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 146352,
+        "num": 146352,
+        "word": "惜花芷",
+        "onboard_time": 1684468829,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145810,
+        "num": 145810,
+        "word": "00后男生保送清华不做数学题就难受",
+        "onboard_time": 1684467206,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 133361,
+        "num": 144128,
+        "word": "李诞仍是笑果文化股东",
+        "onboard_time": 1684464568,
+        "rank": 49,
+        "category": "社会新闻,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国—中亚峰会时光#"
+    }
+  }
+}
