@@ -1,0 +1,410 @@
+{
+  "runTime": 1684459442505,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1615105,
+        "num": 1615105,
+        "word": "放太久的鞋子就别穿了",
+        "onboard_time": 1684454849,
+        "rank": 0,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 1167767,
+        "num": 1167767,
+        "word": "下个月你工资卡里或将多一笔钱",
+        "onboard_time": 1684420412,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 17559,
+        "num": 1077173,
+        "word": "神十六本月发射",
+        "onboard_time": 1684398868,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1062215,
+        "num": 1062215,
+        "word": "钟楚曦戛纳红毯东方美人",
+        "onboard_time": 1684452623,
+        "rank": 3,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 928388,
+        "num": 928388,
+        "word": "医生用一根针帮患癌老人冻死肿瘤",
+        "onboard_time": 1684452743,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 800650,
+        "num": 800650,
+        "word": "蔡依林扫码支付反应",
+        "onboard_time": 1684415190,
+        "rank": 5,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 797637,
+        "num": 797637,
+        "word": "G社拍的龚俊",
+        "onboard_time": 1684454969,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 694734,
+        "num": 694734,
+        "word": "妹妹患癌前后1年全家人对比",
+        "onboard_time": 1684422451,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642929,
+        "num": 642929,
+        "word": "包文婧回应谢娜三万梗",
+        "onboard_time": 1684417829,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 548849,
+        "num": 548849,
+        "word": "李诞去年卸任笑果董事",
+        "onboard_time": 1684411588,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 489377,
+        "num": 489377,
+        "word": "吴谢宇弑母案二审今开庭",
+        "onboard_time": 1684456652,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488469,
+        "num": 488469,
+        "word": "你知道盲人举起盲杖代表什么吗",
+        "onboard_time": 1684452502,
+        "rank": 11,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 472677,
+        "num": 472677,
+        "word": "李兰迪空降粉丝群",
+        "onboard_time": 1684453524,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414459,
+        "num": 414459,
+        "word": "情侣生女后分手保姆代养孩子6年",
+        "onboard_time": 1684419990,
+        "rank": 13,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 365834,
+        "num": 365834,
+        "word": "刘畊宏说王婉霏是我的天菜",
+        "onboard_time": 1684453648,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334118,
+        "num": 334118,
+        "word": "拜登携核按钮抵达广岛",
+        "onboard_time": 1684450819,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 333094,
+        "num": 333094,
+        "word": "杨幂戴头花",
+        "onboard_time": 1684458028,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330188,
+        "num": 330188,
+        "word": "ChatGPT官方APP登录美国苹果商店",
+        "onboard_time": 1684455449,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 323921,
+        "num": 323921,
+        "word": "川传出轨多位女学生老师被辞退",
+        "onboard_time": 1684402467,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 311557,
+        "num": 311557,
+        "word": "山西10名大学生因寻找兼职而误入歧途",
+        "onboard_time": 1684451962,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 308528,
+        "num": 308528,
+        "word": "黄晓明跳刘畊宏健身操演我",
+        "onboard_time": 1684451661,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285235,
+        "num": 285235,
+        "word": "结婚买钻戒不如买黄金吗",
+        "onboard_time": 1684451661,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281602,
+        "num": 281602,
+        "word": "男朋友毕业一年不肯上班",
+        "onboard_time": 1684451781,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265036,
+        "num": 265036,
+        "word": "网约车拒违停2乘客赖车上超24小时",
+        "onboard_time": 1684443972,
+        "rank": 23,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 260372,
+        "num": 260372,
+        "word": "95岁老师病床上跟医生讨价还价",
+        "onboard_time": 1684456349,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 256888,
+        "num": 256888,
+        "word": "张雨绮女儿情商",
+        "onboard_time": 1684450880,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256056,
+        "num": 256056,
+        "word": "山东姑娘连续2天捐干细胞救活男子",
+        "onboard_time": 1684457309,
+        "rank": 26,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 248209,
+        "num": 248209,
+        "word": "汪小敏ins唯一关注是赵丽娜",
+        "onboard_time": 1684431677,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244222,
+        "num": 244222,
+        "word": "张新成 李兰迪",
+        "onboard_time": 1684459348,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233085,
+        "num": 233085,
+        "word": "湖人vs掘金",
+        "onboard_time": 1684453885,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216400,
+        "num": 216400,
+        "word": "戛纳红毯不能没有山东女人",
+        "onboard_time": 1684451661,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214805,
+        "num": 214805,
+        "word": "赵丽颖含泪和粉丝挥手",
+        "onboard_time": 1684419691,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213496,
+        "num": 213496,
+        "word": "吴谢宇",
+        "onboard_time": 1684457849,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201506,
+        "num": 201506,
+        "word": "Ella闺女这么大了",
+        "onboard_time": 1684456171,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198380,
+        "num": 198380,
+        "word": "巩俐戛纳红色裤装",
+        "onboard_time": 1684458508,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 195171,
+        "num": 195171,
+        "word": "说一个十年都没有涨过价的东西",
+        "onboard_time": 1684418608,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192387,
+        "num": 192387,
+        "word": "豹子偷偷潜入叼走熟睡狗子",
+        "onboard_time": 1684450819,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179878,
+        "num": 179878,
+        "word": "流水线公主",
+        "onboard_time": 1684455388,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178408,
+        "num": 178408,
+        "word": "在一线城市月薪多少才够花",
+        "onboard_time": 1684450819,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 163673,
+        "num": 163673,
+        "word": "龚俊扶钟楚曦上楼梯",
+        "onboard_time": 1684455449,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162053,
+        "num": 162053,
+        "word": "藏狐 随便长长得了",
+        "onboard_time": 1684419630,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161840,
+        "num": 161840,
+        "word": "男子开门杀致超速者死亡被判10个月",
+        "onboard_time": 1684437012,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161519,
+        "num": 161519,
+        "word": "王子奇说打了四次文案算了看图吧",
+        "onboard_time": 1684453226,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156974,
+        "num": 156974,
+        "word": "阿根廷北京行",
+        "onboard_time": 1684454007,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144605,
+        "num": 144605,
+        "word": "那英马嘉祺一起回北京",
+        "onboard_time": 1684455750,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137514,
+        "num": 137514,
+        "word": "Faker",
+        "onboard_time": 1684423111,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128576,
+        "num": 128576,
+        "word": "范丞丞在脖子上挂了个嘴巴",
+        "onboard_time": 1684417889,
+        "rank": 46,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 128514,
+        "num": 128514,
+        "word": "蔡晓蕾孩子胎停",
+        "onboard_time": 1684417889,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104397,
+        "num": 128196,
+        "word": "JDG战胜T1",
+        "onboard_time": 1684425509,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96084,
+        "num": 127863,
+        "word": "JDG晋级MSI决赛",
+        "onboard_time": 1684451781,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同塔吉克斯坦总统会谈#"
+    }
+  }
+}

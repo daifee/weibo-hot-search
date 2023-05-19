@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684452819182,
+  "endTime": 1684459442505,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -577,6 +577,14 @@
       "onboard_time": 1684336112,
       "rank": 23,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1615105,
+      "num": 1615105,
+      "word": "放太久的鞋子就别穿了",
+      "onboard_time": 1684454849,
+      "rank": 0,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 1606902,
@@ -1211,6 +1219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1062215,
+      "num": 1062215,
+      "word": "钟楚曦戛纳红毯东方美人",
+      "onboard_time": 1684452623,
+      "rank": 39,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 1060105,
       "num": 995579,
       "word": "恩施网红浮桥游览车坠河已有5人身亡",
@@ -1401,6 +1417,14 @@
       "onboard_time": 1684331793,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 928388,
+      "num": 928388,
+      "word": "医生用一根针帮患癌老人冻死肿瘤",
+      "onboard_time": 1684452743,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 926211,
@@ -1595,12 +1619,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 800650,
+      "num": 800650,
+      "word": "蔡依林扫码支付反应",
+      "onboard_time": 1684415190,
+      "rank": 25,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 799607,
       "num": 799607,
       "word": "演唱会为啥都在闹退票",
       "onboard_time": 1684105399,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 797637,
+      "num": 797637,
+      "word": "G社拍的龚俊",
+      "onboard_time": 1684454969,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 775629,
@@ -1731,14 +1771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 716778,
-      "num": 716778,
-      "word": "蔡依林扫码支付反应",
-      "onboard_time": 1684415190,
-      "rank": 25,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 715641,
       "num": 715641,
       "word": "吉娜 大家别笑我了再听一下我的rap",
@@ -1793,6 +1825,14 @@
       "onboard_time": 1684295672,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 694734,
+      "num": 694734,
+      "word": "妹妹患癌前后1年全家人对比",
+      "onboard_time": 1684422451,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 693807,
@@ -2531,6 +2571,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 489377,
+      "num": 489377,
+      "word": "吴谢宇弑母案二审今开庭",
+      "onboard_time": 1684456652,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488469,
+      "num": 488469,
+      "word": "你知道盲人举起盲杖代表什么吗",
+      "onboard_time": 1684452502,
+      "rank": 40,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 487251,
       "num": 487251,
       "word": "拉布拉多香香",
@@ -2665,6 +2721,14 @@
       "onboard_time": 1684288351,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 472677,
+      "num": 472677,
+      "word": "李兰迪空降粉丝群",
+      "onboard_time": 1684453524,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 471790,
@@ -3283,14 +3347,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 395658,
-      "num": 325459,
-      "word": "妹妹患癌前后1年全家人对比",
-      "onboard_time": 1684422451,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 395094,
       "num": 395094,
       "word": "央广网评笑果被罚",
@@ -3444,7 +3500,7 @@
     },
     {
       "raw_hot": 377108,
-      "num": 230948,
+      "num": 334118,
       "word": "拜登携核按钮抵达广岛",
       "onboard_time": 1684450819,
       "rank": 18,
@@ -3561,6 +3617,14 @@
       "onboard_time": 1684392089,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 365834,
+      "num": 365834,
+      "word": "刘畊宏说王婉霏是我的天菜",
+      "onboard_time": 1684453648,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 364907,
@@ -3891,6 +3955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 333094,
+      "num": 333094,
+      "word": "杨幂戴头花",
+      "onboard_time": 1684458028,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333085,
       "num": 276447,
       "word": "hanni新闻图",
@@ -3913,6 +3985,14 @@
       "onboard_time": 1684206029,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 330188,
+      "num": 330188,
+      "word": "ChatGPT官方APP登录美国苹果商店",
+      "onboard_time": 1684455449,
+      "rank": 17,
+      "category": "科技"
     },
     {
       "raw_hot": 329528,
@@ -4123,6 +4203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311557,
+      "num": 311557,
+      "word": "山西10名大学生因寻找兼职而误入歧途",
+      "onboard_time": 1684451962,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 311362,
       "num": 311362,
       "word": "戛纳电影节",
@@ -4161,6 +4249,14 @@
       "onboard_time": 1684122992,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 308528,
+      "num": 308528,
+      "word": "黄晓明跳刘畊宏健身操演我",
+      "onboard_time": 1684451661,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 308398,
@@ -4427,6 +4523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285235,
+      "num": 285235,
+      "word": "结婚买钻戒不如买黄金吗",
+      "onboard_time": 1684451661,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285138,
       "num": 285138,
       "word": "为了顶替我老板招了两个人",
@@ -4489,6 +4593,14 @@
       "onboard_time": 1684217429,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281602,
+      "num": 281602,
+      "word": "男朋友毕业一年不肯上班",
+      "onboard_time": 1684451781,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 281213,
@@ -4819,6 +4931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 260372,
+      "num": 260372,
+      "word": "95岁老师病床上跟医生讨价还价",
+      "onboard_time": 1684456349,
+      "rank": 24,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 259222,
       "num": 259222,
       "word": "段奕宏终究是错付了",
@@ -4889,6 +5009,22 @@
       "onboard_time": 1684231168,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256888,
+      "num": 256888,
+      "word": "张雨绮女儿情商",
+      "onboard_time": 1684450880,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 256056,
+      "num": 256056,
+      "word": "山东姑娘连续2天捐干细胞救活男子",
+      "onboard_time": 1684457309,
+      "rank": 26,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 255982,
@@ -5019,6 +5155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 248209,
+      "num": 248209,
+      "word": "汪小敏ins唯一关注是赵丽娜",
+      "onboard_time": 1684431677,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247871,
       "num": 247871,
       "word": "街舞新领队或将是Lisa和RAIN",
@@ -5081,6 +5225,14 @@
       "onboard_time": 1684128148,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244222,
+      "num": 244222,
+      "word": "张新成 李兰迪",
+      "onboard_time": 1684459348,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 244059,
@@ -5707,14 +5859,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 216861,
-      "num": 216861,
-      "word": "汪小敏ins唯一关注是赵丽娜",
-      "onboard_time": 1684431677,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 216813,
       "num": 216813,
       "word": "时代少年团群聊改名了",
@@ -5737,6 +5881,14 @@
       "onboard_time": 1684373191,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 216400,
+      "num": 216400,
+      "word": "戛纳红毯不能没有山东女人",
+      "onboard_time": 1684451661,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 216102,
@@ -5825,6 +5977,14 @@
       "onboard_time": 1684153167,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213496,
+      "num": 213496,
+      "word": "吴谢宇",
+      "onboard_time": 1684457849,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213482,
@@ -6115,6 +6275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201506,
+      "num": 201506,
+      "word": "Ella闺女这么大了",
+      "onboard_time": 1684456171,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201447,
       "num": 201447,
       "word": "杨幂T锦绣五月刊封面",
@@ -6187,12 +6355,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199139,
-      "num": 131544,
-      "word": "山西10名大学生因寻找兼职而误入歧途",
-      "onboard_time": 1684451962,
-      "rank": 30,
-      "category": "社会新闻,教育"
+      "raw_hot": 198380,
+      "num": 198380,
+      "word": "巩俐戛纳红色裤装",
+      "onboard_time": 1684458508,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 198332,
@@ -6321,6 +6489,14 @@
       "onboard_time": 1684192341,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 192387,
+      "num": 192387,
+      "word": "豹子偷偷潜入叼走熟睡狗子",
+      "onboard_time": 1684450819,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191925,
@@ -6675,14 +6851,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 181669,
-      "num": 153678,
-      "word": "男朋友毕业一年不肯上班",
-      "onboard_time": 1684451781,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 181434,
       "num": 181434,
       "word": "宋祖儿拽姐look",
@@ -6731,20 +6899,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179878,
+      "num": 179878,
+      "word": "流水线公主",
+      "onboard_time": 1684455388,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179854,
       "num": 179854,
       "word": "二代滔搏也be了",
       "onboard_time": 1684129709,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 179691,
-      "num": 131148,
-      "word": "结婚买钻戒不如买黄金吗",
-      "onboard_time": 1684451661,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179635,
@@ -6785,6 +6953,14 @@
       "onboard_time": 1684379911,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178408,
+      "num": 178408,
+      "word": "在一线城市月薪多少才够花",
+      "onboard_time": 1684450819,
+      "rank": 37,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 178155,
@@ -7131,14 +7307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165872,
-      "num": 150631,
-      "word": "戛纳红毯不能没有山东女人",
-      "onboard_time": 1684451661,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 165506,
       "num": 165506,
       "word": "女子见小孩玩水多留意一眼救下3人",
@@ -7227,6 +7395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163673,
+      "num": 163673,
+      "word": "龚俊扶钟楚曦上楼梯",
+      "onboard_time": 1684455449,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 163527,
       "num": 163527,
       "word": "乘风的姐夫们",
@@ -7259,14 +7435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161932,
-      "num": 131070,
-      "word": "黄晓明跳刘畊宏健身操演我",
-      "onboard_time": 1684451661,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 161915,
       "num": 161915,
       "word": "广东妈妈岗工资开到12000元",
@@ -7281,6 +7449,14 @@
       "onboard_time": 1684195167,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161519,
+      "num": 161519,
+      "word": "王子奇说打了四次文案算了看图吧",
+      "onboard_time": 1684453226,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 161020,
@@ -7377,6 +7553,14 @@
       "onboard_time": 1684377810,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 156974,
+      "num": 156974,
+      "word": "阿根廷北京行",
+      "onboard_time": 1684454007,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 156664,
@@ -7795,6 +7979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144605,
+      "num": 144605,
+      "word": "那英马嘉祺一起回北京",
+      "onboard_time": 1684455750,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144574,
       "num": 144574,
       "word": "薛之谦演唱会蹲台上听歌迷清唱",
@@ -7833,14 +8025,6 @@
       "onboard_time": 1684109308,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 142587,
-      "num": 142587,
-      "word": "张雨绮女儿情商",
-      "onboard_time": 1684450880,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 142477,
@@ -7929,14 +8113,6 @@
       "onboard_time": 1684410809,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 139130,
-      "num": 130767,
-      "word": "豹子偷偷潜入叼走熟睡狗子",
-      "onboard_time": 1684450819,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138974,
@@ -8169,14 +8345,6 @@
       "onboard_time": 1684224750,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 129485,
-      "num": 129485,
-      "word": "在一线城市月薪多少才够花",
-      "onboard_time": 1684450819,
-      "rank": 37,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 129292,
@@ -8427,14 +8595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115718,
-      "num": 115718,
-      "word": "钟楚曦戛纳红毯东方美人",
-      "onboard_time": 1684452623,
-      "rank": 39,
-      "category": "影视,时尚"
-    },
-    {
       "raw_hot": 115071,
       "num": 115071,
       "word": "魏如萱演唱会连线那英华晨宇马嘉祺",
@@ -8481,14 +8641,6 @@
       "onboard_time": 1684388669,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 107400,
-      "num": 107400,
-      "word": "你知道盲人举起盲杖代表什么吗",
-      "onboard_time": 1684452502,
-      "rank": 40,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 107081,
@@ -8801,14 +8953,6 @@
       "onboard_time": 1684165647,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 85881,
-      "num": 85881,
-      "word": "医生用一根针帮患癌老人冻死肿瘤",
-      "onboard_time": 1684452743,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85751,
