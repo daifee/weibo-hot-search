@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684481611925,
+  "endTime": 1684484435610,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -659,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1603187,
+      "num": 494163,
+      "word": "唐嫣父亲接唐嫣女儿放学",
+      "onboard_time": 1684482026,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1593264,
       "num": 1379419,
       "word": "女生已婚未孕找工作有多难",
@@ -995,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1298900,
+      "num": 1298900,
+      "word": "胡锡进 我永远都为此自责",
+      "onboard_time": 1684478908,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1292451,
       "num": 1292451,
       "word": "格力官方回应孟羽童离职",
@@ -1049,14 +1065,6 @@
       "onboard_time": 1684216050,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1259238,
-      "num": 1259238,
-      "word": "胡锡进 我永远都为此自责",
-      "onboard_time": 1684478908,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1248034,
@@ -2147,6 +2155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 661614,
+      "num": 661614,
+      "word": "上班以后情绪真的稳定了",
+      "onboard_time": 1684480590,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 659513,
       "num": 659513,
       "word": "迪丽热巴冰淇淋侧颜",
@@ -2200,6 +2216,14 @@
       "word": "后浪扔外卖 离谱",
       "onboard_time": 1684079068,
       "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 646653,
+      "num": 646653,
+      "word": "宁安如梦",
+      "onboard_time": 1684195288,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -2323,14 +2347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 605210,
-      "num": 358497,
-      "word": "宁安如梦",
-      "onboard_time": 1684195288,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 603594,
       "num": 387922,
       "word": "杨洋胸针",
@@ -2345,6 +2361,14 @@
       "onboard_time": 1684378049,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 601490,
+      "num": 601490,
+      "word": "卡琳娜cos李泽言",
+      "onboard_time": 1684479809,
+      "rank": 31,
+      "category": "网红,游戏"
     },
     {
       "raw_hot": 600857,
@@ -2433,14 +2457,6 @@
       "onboard_time": 1684215212,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 577045,
-      "num": 577045,
-      "word": "卡琳娜cos李泽言",
-      "onboard_time": 1684479809,
-      "rank": 31,
-      "category": "网红,游戏"
     },
     {
       "raw_hot": 576986,
@@ -3523,6 +3539,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 418464,
+      "num": 418464,
+      "word": "Ella再选吴倩",
+      "onboard_time": 1684476149,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 416128,
       "num": 416128,
       "word": "凯尔特人淘汰76人",
@@ -3545,14 +3569,6 @@
       "onboard_time": 1684251272,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 412670,
-      "num": 312672,
-      "word": "Ella再选吴倩",
-      "onboard_time": 1684476149,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 411606,
@@ -3996,7 +4012,7 @@
     },
     {
       "raw_hot": 366725,
-      "num": 227548,
+      "num": 252524,
       "word": "RA官宣Baolan加入",
       "onboard_time": 1684480771,
       "rank": 30,
@@ -4033,6 +4049,14 @@
       "onboard_time": 1684399171,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 362947,
+      "num": 362947,
+      "word": "王建国程璐等均持股笑果文化",
+      "onboard_time": 1684482148,
+      "rank": 15,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 362768,
@@ -4571,6 +4595,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 316163,
+      "num": 197274,
+      "word": "杨贵妃体重",
+      "onboard_time": 1684483950,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 316108,
       "num": 316108,
       "word": "久酷受伤",
@@ -4761,6 +4793,14 @@
       "onboard_time": 1684469975,
       "rank": 38,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 302798,
+      "num": 302798,
+      "word": "乘风四大舞担",
+      "onboard_time": 1684478668,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 302690,
@@ -4969,6 +5009,14 @@
       "onboard_time": 1684230090,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 289378,
+      "num": 195989,
+      "word": "宁安如梦苦果亦求版预告",
+      "onboard_time": 1684482211,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 287758,
@@ -5795,14 +5843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 245837,
-      "num": 245837,
-      "word": "乘风四大舞担",
-      "onboard_time": 1684478668,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 245708,
       "num": 188577,
       "word": "韩警方或提请批捕刘亚仁",
@@ -6067,6 +6107,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 233318,
+      "num": 195520,
+      "word": "刘雅瑟两票都给了刘惜君",
+      "onboard_time": 1684482570,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233212,
       "num": 263284,
       "word": "终于把公司熬成双休了",
@@ -6193,6 +6241,14 @@
       "onboard_time": 1684156229,
       "rank": 33,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 227610,
+      "num": 196408,
+      "word": "妻子输液还抱娃丈夫一旁玩手机",
+      "onboard_time": 1684482510,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227447,
@@ -6745,14 +6801,6 @@
       "onboard_time": 1684073369,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 210549,
-      "num": 210549,
-      "word": "上班以后情绪真的稳定了",
-      "onboard_time": 1684480590,
-      "rank": 33,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 209807,
@@ -7963,6 +8011,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 170222,
+      "num": 170222,
+      "word": "原来天上宫阙真实存在",
+      "onboard_time": 1684479207,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169811,
       "num": 169768,
       "word": "李莎旻子带瞿颖Amber吃长沙小龙虾",
@@ -8291,14 +8347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158404,
-      "num": 158404,
-      "word": "原来天上宫阙真实存在",
-      "onboard_time": 1684479207,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158398,
       "num": 158398,
       "word": "笑果被罚公司刚获北京演出许可",
@@ -8361,6 +8409,22 @@
       "onboard_time": 1684470092,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156710,
+      "num": 171161,
+      "word": "被爸爸尊重是什么体验",
+      "onboard_time": 1684480827,
+      "rank": 39,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 156666,
+      "num": 156666,
+      "word": "车辆坠河众人义无反顾跳河救人",
+      "onboard_time": 1684483470,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156664,
@@ -8513,14 +8577,6 @@
       "onboard_time": 1684310428,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152210,
-      "num": 171161,
-      "word": "被爸爸尊重是什么体验",
-      "onboard_time": 1684480827,
-      "rank": 39,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 151982,
@@ -9459,6 +9515,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 111631,
+      "num": 111631,
+      "word": "狼队包揽春季赛最佳一阵",
+      "onboard_time": 1684483649,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 110942,
       "num": 110942,
       "word": "跟男朋友偷偷领证后很焦虑",
@@ -9489,6 +9553,14 @@
       "onboard_time": 1684388669,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 107232,
+      "num": 111560,
+      "word": "Cat入选春季赛第二阵容",
+      "onboard_time": 1684482868,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 107081,
@@ -9577,6 +9649,14 @@
       "onboard_time": 1684056566,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104803,
+      "num": 933729,
+      "word": "今天是中国旅游日",
+      "onboard_time": 1684483587,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104715,
@@ -9689,6 +9769,14 @@
       "onboard_time": 1684475248,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 95992,
+      "num": 111518,
+      "word": "日本民众高呼七国集团是战争元凶",
+      "onboard_time": 1684484309,
+      "rank": 49,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 95531,
@@ -10415,6 +10503,9 @@
     },
     {
       "word": "#习近平主持中国—中亚峰会圆桌峰会#"
+    },
+    {
+      "word": "#中国旅游日#"
     }
   ]
 }
