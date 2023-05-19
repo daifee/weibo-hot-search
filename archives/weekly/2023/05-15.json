@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684470012044,
+  "endTime": 1684470810501,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -123,6 +123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2928566,
+      "num": 1284724,
+      "word": "浙江通报6男子参加同性淫乱聚会",
+      "onboard_time": 1684464508,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2911577,
       "num": 2911577,
       "word": "笑果解除HOUSE合同",
@@ -177,14 +185,6 @@
       "onboard_time": 1684207349,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2718260,
-      "num": 1206089,
-      "word": "浙江通报6男子参加同性淫乱聚会",
-      "onboard_time": 1684464508,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2702213,
@@ -321,6 +321,14 @@
       "onboard_time": 1684366406,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2059071,
+      "num": 1283522,
+      "word": "笑果公开招聘多个岗位",
+      "onboard_time": 1684467089,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2045756,
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 1785114,
-      "num": 560969,
+      "num": 720497,
       "word": "张新成 李兰迪",
       "onboard_time": 1684459348,
       "rank": 28,
@@ -601,14 +609,6 @@
       "onboard_time": 1684420412,
       "rank": 1,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1628613,
-      "num": 1105477,
-      "word": "笑果公开招聘多个岗位",
-      "onboard_time": 1684467089,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1625835,
@@ -987,6 +987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1281891,
+      "num": 1281891,
+      "word": "总算知道黄晓明有多高了",
+      "onboard_time": 1684463007,
+      "rank": 30,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 1281357,
       "num": 1281357,
       "word": "香港碎尸名媛蔡天凤丈夫发声",
@@ -1017,14 +1025,6 @@
       "onboard_time": 1684212216,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1247782,
-      "num": 1093352,
-      "word": "总算知道黄晓明有多高了",
-      "onboard_time": 1684463007,
-      "rank": 30,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 1246337,
@@ -1172,7 +1172,7 @@
     },
     {
       "raw_hot": 1151533,
-      "num": 1346442,
+      "num": 1434349,
       "word": "宁安如梦真来了",
       "onboard_time": 1684464090,
       "rank": 42,
@@ -1427,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 944784,
+      "num": 944784,
+      "word": "越野网红戳伤妻子眼睛后自杀身亡",
+      "onboard_time": 1684467089,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 943978,
       "num": 367393,
       "word": "赵丽颖丸子头簪发",
@@ -1512,14 +1520,6 @@
       "word": "办公室一天讲不了2句话",
       "onboard_time": 1684113447,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 901801,
-      "num": 524891,
-      "word": "越野网红戳伤妻子眼睛后自杀身亡",
-      "onboard_time": 1684467089,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1763,6 +1763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 770380,
+      "num": 770380,
+      "word": "广西一车辆翻下路边悬崖11人遇难",
+      "onboard_time": 1684469613,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 770247,
       "num": 770247,
       "word": "杨幂戴头花",
@@ -1841,6 +1849,14 @@
       "onboard_time": 1684281267,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 731381,
+      "num": 718917,
+      "word": "同事一年存50万我失眠了",
+      "onboard_time": 1684469732,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 731205,
@@ -1937,6 +1953,14 @@
       "onboard_time": 1684295672,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 700698,
+      "num": 700698,
+      "word": "恢复台湾居民来大陆团队游",
+      "onboard_time": 1684470033,
+      "rank": 12,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 693807,
@@ -2555,6 +2579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 514947,
+      "num": 514947,
+      "word": "终于拒绝了爱蹭车的同事",
+      "onboard_time": 1684468712,
+      "rank": 16,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 513505,
       "num": 513505,
       "word": "周柯宇今晚鲨疯了",
@@ -2841,6 +2873,14 @@
       "onboard_time": 1684374689,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 473572,
+      "num": 473572,
+      "word": "欢迎台湾同胞来大陆旅游",
+      "onboard_time": 1684469312,
+      "rank": 28,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 473270,
@@ -3539,14 +3579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 392012,
-      "num": 392012,
-      "word": "终于拒绝了爱蹭车的同事",
-      "onboard_time": 1684468712,
-      "rank": 16,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 391957,
       "num": 391957,
       "word": "女子吐槽裙子比打底裤还短",
@@ -3651,6 +3683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 384025,
+      "num": 384025,
+      "word": "孟美岐北京演唱会官宣",
+      "onboard_time": 1684467569,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 383308,
       "num": 383308,
       "word": "热火",
@@ -3683,14 +3723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 378376,
-      "num": 378376,
-      "word": "广西一车辆翻下路边悬崖11人遇难",
-      "onboard_time": 1684469613,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 377845,
       "num": 377845,
       "word": "女子帮闺蜜调解家庭矛盾出轨其丈夫",
@@ -3721,14 +3753,6 @@
       "onboard_time": 1684242213,
       "rank": 39,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 375647,
-      "num": 375647,
-      "word": "孟美岐北京演唱会官宣",
-      "onboard_time": 1684467569,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 375081,
@@ -4281,6 +4305,14 @@
       "onboard_time": 1684195712,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 323194,
+      "num": 323194,
+      "word": "詹姆斯老了",
+      "onboard_time": 1684469010,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 322800,
@@ -4995,6 +5027,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 272386,
+      "num": 272386,
+      "word": "光与夜之恋",
+      "onboard_time": 1684117706,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 271628,
       "num": 271628,
       "word": "速度与激情11",
@@ -5017,14 +5057,6 @@
       "onboard_time": 1684467930,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 270155,
-      "num": 270155,
-      "word": "欢迎台湾同胞来大陆旅游",
-      "onboard_time": 1684469312,
-      "rank": 28,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 269860,
@@ -5499,14 +5531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 245361,
-      "num": 245361,
-      "word": "同事一年存50万我失眠了",
-      "onboard_time": 1684469732,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 244353,
       "num": 244353,
       "word": "文俊辉直播",
@@ -5536,14 +5560,6 @@
       "word": "热火1比0凯尔特人",
       "onboard_time": 1684380212,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 243367,
-      "num": 243367,
-      "word": "詹姆斯老了",
-      "onboard_time": 1684469010,
-      "rank": 34,
       "category": "体育"
     },
     {
@@ -5969,6 +5985,14 @@
       "onboard_time": 1684156349,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224664,
+      "num": 224664,
+      "word": "任嘉伦精修vs生图",
+      "onboard_time": 1684469975,
+      "rank": 38,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 224534,
@@ -6563,14 +6587,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 203599,
-      "num": 203599,
-      "word": "光与夜之恋",
-      "onboard_time": 1684117706,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 203320,
       "num": 203320,
       "word": "九鹭非香护心剧情小作文",
@@ -6609,14 +6625,6 @@
       "onboard_time": 1684249174,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 202363,
-      "num": 202363,
-      "word": "任嘉伦精修vs生图",
-      "onboard_time": 1684469975,
-      "rank": 38,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 201921,
@@ -7115,6 +7123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 185867,
+      "num": 185867,
+      "word": "重庆居然还有折耳根千层",
+      "onboard_time": 1684469913,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 185668,
       "num": 185668,
       "word": "梦中的那片海",
@@ -7337,6 +7353,14 @@
       "onboard_time": 1684379911,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178491,
+      "num": 178491,
+      "word": "管泽元你还敢给别人当伴郎",
+      "onboard_time": 1684466609,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 178408,
@@ -7619,6 +7643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171091,
+      "num": 171091,
+      "word": "张嘉倪乘风喜提队长",
+      "onboard_time": 1684470394,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170791,
       "num": 170791,
       "word": "芭莎镜头下的张彬彬吴倩",
@@ -7641,14 +7673,6 @@
       "onboard_time": 1684139308,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169551,
-      "num": 169551,
-      "word": "重庆居然还有折耳根千层",
-      "onboard_time": 1684469913,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 169472,
@@ -7681,6 +7705,14 @@
       "onboard_time": 1684067125,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167698,
+      "num": 167698,
+      "word": "当男朋友问你520要什么礼物",
+      "onboard_time": 1684466848,
+      "rank": 43,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 167532,
@@ -7785,14 +7817,6 @@
       "onboard_time": 1684294893,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 164633,
-      "num": 164633,
-      "word": "管泽元你还敢给别人当伴郎",
-      "onboard_time": 1684466609,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 164316,
@@ -7995,6 +8019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156962,
+      "num": 156962,
+      "word": "约基奇",
+      "onboard_time": 1684470092,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156664,
       "num": 156664,
       "word": "甄子丹戛纳官宣三部新片",
@@ -8049,14 +8081,6 @@
       "onboard_time": 1684222770,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155200,
-      "num": 155200,
-      "word": "当男朋友问你520要什么礼物",
-      "onboard_time": 1684466848,
-      "rank": 43,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 155050,
@@ -8227,6 +8251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 149758,
+      "num": 318477,
+      "word": "像极了我在团队中的样子",
+      "onboard_time": 1684468829,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 149706,
       "num": 149706,
       "word": "交警帮助双腿残疾的小伙过马路",
@@ -8337,14 +8369,6 @@
       "onboard_time": 1684405892,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 147151,
-      "num": 272697,
-      "word": "像极了我在团队中的样子",
-      "onboard_time": 1684468829,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 146845,
@@ -9771,6 +9795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 47646,
+      "num": 1286650,
+      "word": "夏收夏种丰收图景徐徐展开",
+      "onboard_time": 1684467569,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47451,
       "num": 47451,
       "word": "Ella美依礼芽她追她逃",
@@ -9801,14 +9833,6 @@
       "onboard_time": 1684099092,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 41136,
-      "num": 1223138,
-      "word": "夏收夏种丰收图景徐徐展开",
-      "onboard_time": 1684467569,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40611,
