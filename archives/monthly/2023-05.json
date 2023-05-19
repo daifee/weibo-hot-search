@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684505714984,
+  "endTime": 1684506816071,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1379,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2073967,
+      "num": 371049,
+      "word": "印度夫妻在恒河中秀恩爱被网暴",
+      "onboard_time": 1684503571,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2067150,
       "num": 417330,
       "word": "毕滢",
@@ -1699,14 +1707,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1923961,
-      "num": 371049,
-      "word": "印度夫妻在恒河中秀恩爱被网暴",
-      "onboard_time": 1684503571,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1923600,
       "num": 601718,
       "word": "迪丽热巴未修原档生图",
@@ -1769,6 +1769,14 @@
       "onboard_time": 1683422425,
       "rank": 30,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1876868,
+      "num": 366858,
+      "word": "飞行员在女厕所偷拍乘务",
+      "onboard_time": 1684504953,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1874727,
@@ -2459,6 +2467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1638182,
+      "num": 1638182,
+      "word": "广西11死车祸9人系越南籍",
+      "onboard_time": 1684501830,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1633269,
       "num": 1633269,
       "word": "下个月你工资卡里或将多一笔钱",
@@ -2841,14 +2857,6 @@
       "onboard_time": 1683530376,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1548785,
-      "num": 1548785,
-      "word": "广西11死车祸9人系越南籍",
-      "onboard_time": 1684501830,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1545860,
@@ -3411,6 +3419,14 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 1427305,
+      "num": 293996,
+      "word": "原来子宫比鸡蛋还要小",
+      "onboard_time": 1684495831,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1421879,
       "num": 1421879,
       "word": "张颂文悼念李大钊孙女",
@@ -3657,14 +3673,6 @@
       "onboard_time": 1683980668,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1353075,
-      "num": 293996,
-      "word": "原来子宫比鸡蛋还要小",
-      "onboard_time": 1684495831,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 1352435,
@@ -5659,6 +5667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 990891,
+      "num": 990891,
+      "word": "浪姐4二公结果",
+      "onboard_time": 1684501530,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 990761,
       "num": 990761,
       "word": "陈玘",
@@ -5793,14 +5809,6 @@
       "onboard_time": 1683465994,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 958151,
-      "num": 958151,
-      "word": "浪姐4二公结果",
-      "onboard_time": 1684501530,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 958020,
@@ -9043,14 +9051,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 605847,
-      "num": 366858,
-      "word": "飞行员在女厕所偷拍乘务",
-      "onboard_time": 1684504953,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 605752,
       "num": 469004,
       "word": "杨紫大波浪怼脸拍",
@@ -11187,6 +11187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 496425,
+      "num": 246111,
+      "word": "王源他急了",
+      "onboard_time": 1684504471,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 496237,
       "num": 496237,
       "word": "五四不放假要发加班费吗",
@@ -11705,14 +11713,6 @@
       "onboard_time": 1684208307,
       "rank": 17,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 475947,
-      "num": 246111,
-      "word": "王源他急了",
-      "onboard_time": 1684504471,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 475828,
@@ -24283,6 +24283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 238057,
+      "num": 238057,
+      "word": "罗翔谈自律",
+      "onboard_time": 1684503511,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 238031,
       "num": 238031,
       "word": "Ella闺女这么大了",
@@ -27467,6 +27475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208591,
+      "num": 208591,
+      "word": "张杰彩排",
+      "onboard_time": 1684503030,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 208583,
       "num": 208583,
       "word": "周杰伦说华流才是最屌的",
@@ -28297,14 +28313,6 @@
       "onboard_time": 1683090929,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 201667,
-      "num": 194183,
-      "word": "张杰彩排",
-      "onboard_time": 1684503030,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 201608,
@@ -29697,14 +29705,6 @@
       "onboard_time": 1683950667,
       "rank": 39,
       "category": "其它"
-    },
-    {
-      "raw_hot": 189573,
-      "num": 194227,
-      "word": "罗翔谈自律",
-      "onboard_time": 1684503511,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 189554,
@@ -33451,6 +33451,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 157772,
+      "num": 185979,
+      "word": "Bin哥厉害",
+      "onboard_time": 1684506692,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157715,
       "num": 157715,
       "word": "苏醒说情况就是这么个情况",
@@ -33889,6 +33897,14 @@
       "onboard_time": 1684409249,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153903,
+      "num": 848519,
+      "word": "语文课本里的中国有多美",
+      "onboard_time": 1684502791,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153758,
@@ -34665,6 +34681,14 @@
       "onboard_time": 1684219349,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 147658,
+      "num": 140037,
+      "word": "穿对衣服的蒋梦婕",
+      "onboard_time": 1684505971,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 147369,
@@ -36731,14 +36755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124770,
-      "num": 848519,
-      "word": "语文课本里的中国有多美",
-      "onboard_time": 1684502791,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124656,
       "num": 124656,
       "word": "用手机接打电话影响血压吗",
@@ -37761,6 +37777,14 @@
       "onboard_time": 1684281627,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 106267,
+      "num": 135004,
+      "word": "婚礼可以推迟但人命一刻都不能耽误",
+      "onboard_time": 1684506091,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106242,
