@@ -1,6 +1,6 @@
 {
   "startTime": 1684426913140,
-  "endTime": 1684477288476,
+  "endTime": 1684478058346,
   "band_list": [
     {
       "raw_hot": 3283995,
@@ -115,8 +115,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1108256,
-      "num": 1108256,
+      "raw_hot": 1116376,
+      "num": 1116376,
       "word": "谢娜一公个人喜爱度第三",
       "onboard_time": 1684471473,
       "rank": 4,
@@ -195,20 +195,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 813793,
+      "num": 813793,
+      "word": "谢娜评论包文婧微博",
+      "onboard_time": 1684472195,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 808326,
       "num": 808326,
       "word": "刘亦菲红裙雕刻感大片",
       "onboard_time": 1684467988,
       "rank": 8,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 805976,
-      "num": 805976,
-      "word": "谢娜评论包文婧微博",
-      "onboard_time": 1684472195,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 800650,
@@ -227,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 792164,
+      "num": 792164,
+      "word": "Amber第一",
+      "onboard_time": 1684472914,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 770380,
       "num": 770380,
       "word": "广西一车辆翻下路边悬崖11人遇难",
@@ -240,14 +248,6 @@
       "word": "杨幂戴头花",
       "onboard_time": 1684458028,
       "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 698665,
-      "num": 509194,
-      "word": "Amber第一",
-      "onboard_time": 1684472914,
-      "rank": 21,
       "category": "综艺"
     },
     {
@@ -265,6 +265,14 @@
       "onboard_time": 1684473873,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 576750,
+      "num": 576750,
+      "word": "坐地铁千万别靠这块玻璃",
+      "onboard_time": 1684471772,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 550499,
@@ -304,14 +312,6 @@
       "word": "因为拉肚子直接瘦了6斤",
       "onboard_time": 1684463368,
       "rank": 31,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 519848,
-      "num": 519848,
-      "word": "坐地铁千万别靠这块玻璃",
-      "onboard_time": 1684471772,
-      "rank": 30,
       "category": "幽默"
     },
     {
@@ -459,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 412670,
+      "num": 246397,
+      "word": "Ella再选吴倩",
+      "onboard_time": 1684476149,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 395401,
       "num": 395401,
       "word": "吴谢宇",
@@ -483,6 +491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 380162,
+      "num": 238400,
+      "word": "聚会剩的蛋糕打包后被父母砸了",
+      "onboard_time": 1684474409,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 377108,
       "num": 334118,
       "word": "拜登携核按钮抵达广岛",
@@ -492,19 +508,11 @@
     },
     {
       "raw_hot": 373646,
-      "num": 331865,
+      "num": 360536,
       "word": "惜花芷官宣 张婧仪胡一天平番",
       "onboard_time": 1684473033,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 368776,
-      "num": 246397,
-      "word": "Ella再选吴倩",
-      "onboard_time": 1684476149,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 365834,
@@ -529,14 +537,6 @@
       "onboard_time": 1684466490,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 357039,
-      "num": 238400,
-      "word": "聚会剩的蛋糕打包后被父母砸了",
-      "onboard_time": 1684474409,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 350329,
@@ -577,6 +577,14 @@
       "onboard_time": 1684472135,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 314942,
+      "num": 228651,
+      "word": "大四女生边上学边带娃成绩全班第一",
+      "onboard_time": 1684475969,
+      "rank": 28,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 314358,
@@ -627,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 305996,
+      "num": 231076,
+      "word": "吴谨言终于拍戏了",
+      "onboard_time": 1684476272,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 303499,
       "num": 303499,
       "word": "任嘉伦精修vs生图",
@@ -641,6 +657,14 @@
       "onboard_time": 1684476028,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 300512,
+      "num": 329570,
+      "word": "妈妈偷喝饮料后倒上醋被儿子一口喝下",
+      "onboard_time": 1684476475,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300360,
@@ -683,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 285430,
+      "num": 220158,
+      "word": "徐怀钰说自己有愧疚感",
+      "onboard_time": 1684477048,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285235,
       "num": 285235,
       "word": "结婚买钻戒不如买黄金吗",
@@ -707,12 +739,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 272625,
-      "num": 231076,
-      "word": "吴谨言终于拍戏了",
-      "onboard_time": 1684476272,
-      "rank": 27,
-      "category": "影视"
+      "raw_hot": 278495,
+      "num": 551402,
+      "word": "山东专升本",
+      "onboard_time": 1684476348,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 272386,
@@ -867,14 +899,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 234780,
-      "num": 265386,
-      "word": "山东专升本",
-      "onboard_time": 1684476348,
-      "rank": 19,
-      "category": "教育"
-    },
-    {
       "raw_hot": 234688,
       "num": 234688,
       "word": "巩俐戛纳红色裤装",
@@ -913,14 +937,6 @@
       "onboard_time": 1684462466,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 223960,
-      "num": 223960,
-      "word": "大四女生边上学边带娃成绩全班第一",
-      "onboard_time": 1684475969,
-      "rank": 28,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 219878,
@@ -969,14 +985,6 @@
       "onboard_time": 1684462947,
       "rank": 33,
       "category": "音乐,情感"
-    },
-    {
-      "raw_hot": 207869,
-      "num": 207869,
-      "word": "妈妈偷喝饮料后倒上醋被儿子一口喝下",
-      "onboard_time": 1684476475,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205918,
@@ -1155,8 +1163,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171496,
-      "num": 171496,
+      "raw_hot": 172404,
+      "num": 172404,
       "word": "李光洙宁艺卓双向奔赴的不熟",
       "onboard_time": 1684473692,
       "rank": 43,
@@ -1267,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156714,
+      "num": 152929,
+      "word": "美依礼芽赵丽娜的身高差",
+      "onboard_time": 1684477707,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151476,
       "num": 151476,
       "word": "大唐芙蓉园",
@@ -1281,6 +1297,14 @@
       "onboard_time": 1684468829,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 146792,
+      "num": 146792,
+      "word": "上过最尴尬的厕所",
+      "onboard_time": 1684478008,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 144605,
@@ -1299,6 +1323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143038,
+      "num": 143038,
+      "word": "中国旅游日",
+      "onboard_time": 1684477226,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 142552,
       "num": 142552,
       "word": "护心",
@@ -1307,12 +1339,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 141361,
-      "num": 141361,
-      "word": "徐怀钰说自己有愧疚感",
-      "onboard_time": 1684477048,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 142360,
+      "num": 142360,
+      "word": "和男爱豆结婚条件",
+      "onboard_time": 1684477529,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 139132,
@@ -1409,14 +1441,6 @@
       "onboard_time": 1684404211,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 105631,
-      "num": 105631,
-      "word": "中国旅游日",
-      "onboard_time": 1684477226,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 100135,
@@ -1565,6 +1589,9 @@
     },
     {
       "word": "#北京冬奥会官方电影北京2022#"
+    },
+    {
+      "word": "#首届中国—中亚峰会领导人拍全家福#"
     }
   ]
 }

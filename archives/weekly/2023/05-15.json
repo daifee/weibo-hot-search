@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684477288476,
+  "endTime": 1684478058346,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -1211,20 +1211,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1116376,
+      "num": 1116376,
+      "word": "谢娜一公个人喜爱度第三",
+      "onboard_time": 1684471473,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1111503,
       "num": 1111503,
       "word": "张雨绮回应戛纳礼服丢了",
       "onboard_time": 1684399530,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1108256,
-      "num": 1108256,
-      "word": "谢娜一公个人喜爱度第三",
-      "onboard_time": 1684471473,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1107175,
@@ -1707,6 +1707,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 813793,
+      "num": 813793,
+      "word": "谢娜评论包文婧微博",
+      "onboard_time": 1684472195,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 813748,
       "num": 813748,
       "word": "易烊千玺法国晚宴侧拍",
@@ -1737,14 +1745,6 @@
       "onboard_time": 1684208491,
       "rank": 8,
       "category": "科技"
-    },
-    {
-      "raw_hot": 805976,
-      "num": 805976,
-      "word": "谢娜评论包文婧微博",
-      "onboard_time": 1684472195,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 804899,
@@ -1785,6 +1785,14 @@
       "onboard_time": 1684454969,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 792164,
+      "num": 792164,
+      "word": "Amber第一",
+      "onboard_time": 1684472914,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 775629,
@@ -1985,14 +1993,6 @@
       "onboard_time": 1684295672,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 698665,
-      "num": 509194,
-      "word": "Amber第一",
-      "onboard_time": 1684472914,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 693807,
@@ -2395,6 +2395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 576750,
+      "num": 576750,
+      "word": "坐地铁千万别靠这块玻璃",
+      "onboard_time": 1684471772,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 576095,
       "num": 469887,
       "word": "任权直播还钱",
@@ -2593,14 +2601,6 @@
       "onboard_time": 1684370430,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 519848,
-      "num": 519848,
-      "word": "坐地铁千万别靠这块玻璃",
-      "onboard_time": 1684471772,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 519156,
@@ -3491,6 +3491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 412670,
+      "num": 246397,
+      "word": "Ella再选吴倩",
+      "onboard_time": 1684476149,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 411606,
       "num": 411606,
       "word": "偶遇杨颖张大大逛超市",
@@ -3771,6 +3779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 380162,
+      "num": 238400,
+      "word": "聚会剩的蛋糕打包后被父母砸了",
+      "onboard_time": 1684474409,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 380009,
       "num": 380009,
       "word": "坏妈妈",
@@ -3844,7 +3860,7 @@
     },
     {
       "raw_hot": 373646,
-      "num": 331865,
+      "num": 360536,
       "word": "惜花芷官宣 张婧仪胡一天平番",
       "onboard_time": 1684473033,
       "rank": 38,
@@ -3905,14 +3921,6 @@
       "onboard_time": 1684199906,
       "rank": 42,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 368776,
-      "num": 246397,
-      "word": "Ella再选吴倩",
-      "onboard_time": 1684476149,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 368124,
@@ -4033,14 +4041,6 @@
       "onboard_time": 1684135169,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 357039,
-      "num": 238400,
-      "word": "聚会剩的蛋糕打包后被父母砸了",
-      "onboard_time": 1684474409,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 355662,
@@ -4499,6 +4499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 314942,
+      "num": 228651,
+      "word": "大四女生边上学边带娃成绩全班第一",
+      "onboard_time": 1684475969,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 314361,
       "num": 1489526,
       "word": "她带着奶奶29年的爱离世捐出遗体",
@@ -4651,6 +4659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 305996,
+      "num": 231076,
+      "word": "吴谨言终于拍戏了",
+      "onboard_time": 1684476272,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 305163,
       "num": 305163,
       "word": "朱一龙入选法国GQ戛纳红毯最时尚的男人",
@@ -4705,6 +4721,14 @@
       "onboard_time": 1684209931,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 300512,
+      "num": 329570,
+      "word": "妈妈偷喝饮料后倒上醋被儿子一口喝下",
+      "onboard_time": 1684476475,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300464,
@@ -4923,6 +4947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285430,
+      "num": 220158,
+      "word": "徐怀钰说自己有愧疚感",
+      "onboard_time": 1684477048,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285235,
       "num": 285235,
       "word": "结婚买钻戒不如买黄金吗",
@@ -5099,6 +5131,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 278495,
+      "num": 551402,
+      "word": "山东专升本",
+      "onboard_time": 1684476348,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 278338,
       "num": 278338,
       "word": "苏醒再不回国活就被别人抢完了",
@@ -5161,14 +5201,6 @@
       "onboard_time": 1684167325,
       "rank": 34,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 272625,
-      "num": 231076,
-      "word": "吴谨言终于拍戏了",
-      "onboard_time": 1684476272,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 272386,
@@ -5907,14 +5939,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 234780,
-      "num": 265386,
-      "word": "山东专升本",
-      "onboard_time": 1684476348,
-      "rank": 19,
-      "category": "教育"
-    },
-    {
       "raw_hot": 234688,
       "num": 234688,
       "word": "巩俐戛纳红色裤装",
@@ -6201,14 +6225,6 @@
       "onboard_time": 1684319498,
       "rank": 47,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 223960,
-      "num": 223960,
-      "word": "大四女生边上学边带娃成绩全班第一",
-      "onboard_time": 1684475969,
-      "rank": 28,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 223797,
@@ -6681,14 +6697,6 @@
       "onboard_time": 1684462947,
       "rank": 33,
       "category": "音乐,情感"
-    },
-    {
-      "raw_hot": 207869,
-      "num": 207869,
-      "word": "妈妈偷喝饮料后倒上醋被儿子一口喝下",
-      "onboard_time": 1684476475,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207781,
@@ -7795,6 +7803,14 @@
       "category": "社会新闻,社会新闻"
     },
     {
+      "raw_hot": 172404,
+      "num": 172404,
+      "word": "李光洙宁艺卓双向奔赴的不熟",
+      "onboard_time": 1684473692,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 172242,
       "num": 172242,
       "word": "巴特勒35分",
@@ -7817,14 +7833,6 @@
       "onboard_time": 1684413507,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 171496,
-      "num": 171496,
-      "word": "李光洙宁艺卓双向奔赴的不熟",
-      "onboard_time": 1684473692,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 171450,
@@ -8227,6 +8235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156714,
+      "num": 152929,
+      "word": "美依礼芽赵丽娜的身高差",
+      "onboard_time": 1684477707,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156664,
       "num": 156664,
       "word": "甄子丹戛纳官宣三部新片",
@@ -8579,6 +8595,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 146792,
+      "num": 146792,
+      "word": "上过最尴尬的厕所",
+      "onboard_time": 1684478008,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 146321,
       "num": 556945,
       "word": "你家猫住什么窝",
@@ -8699,6 +8723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143038,
+      "num": 143038,
+      "word": "中国旅游日",
+      "onboard_time": 1684477226,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 142928,
       "num": 142928,
       "word": "胡可无论直播多晚沙溢都会煮爱心面",
@@ -8713,6 +8745,14 @@
       "onboard_time": 1684221449,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 142360,
+      "num": 142360,
+      "word": "和男爱豆结婚条件",
+      "onboard_time": 1684477529,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 142345,
@@ -8737,14 +8777,6 @@
       "onboard_time": 1684416748,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141361,
-      "num": 141361,
-      "word": "徐怀钰说自己有愧疚感",
-      "onboard_time": 1684477048,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 141360,
@@ -9401,14 +9433,6 @@
       "onboard_time": 1684106362,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 105631,
-      "num": 105631,
-      "word": "中国旅游日",
-      "onboard_time": 1684477226,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 105314,
@@ -10257,6 +10281,9 @@
     },
     {
       "word": "#北京冬奥会官方电影北京2022#"
+    },
+    {
+      "word": "#首届中国—中亚峰会领导人拍全家福#"
     }
   ]
 }
