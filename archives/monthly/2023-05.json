@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684517627790,
+  "endTime": 1684520431758,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -38547,6 +38547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94612,
+      "num": 94612,
+      "word": "LPL二号种子 LCK一号种子",
+      "onboard_time": 1684517599,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 94506,
       "num": 170746,
       "word": "用奶茶救人的消防员又立功了",
@@ -40057,14 +40065,6 @@
       "onboard_time": 1683885690,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49380,
-      "num": 55662,
-      "word": "LPL二号种子 LCK一号种子",
-      "onboard_time": 1684517599,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 49248,

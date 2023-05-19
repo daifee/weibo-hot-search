@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/05/20 00:21:45 ~ 2023/05/20 01:33:47
+本榜单时间：2023/05/20 00:21:45 ~ 2023/05/20 02:20:31
 </p>
 </blockquote>
 <p>
@@ -345,6 +345,12 @@ YG新女团生图（热度：113083）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23LPL%E4%BA%8C%E5%8F%B7%E7%A7%8D%E5%AD%90%20LCK%E4%B8%80%E5%8F%B7%E7%A7%8D%E5%AD%90%23" target="weibo">
+LPL二号种子 LCK一号种子（热度：94612）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%91%E6%9E%9C%23" target="weibo">
 笑果（热度：75536）
 </a>
@@ -359,12 +365,6 @@ YG新女团生图（热度：113083）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E7%9B%B4%E6%92%AD%E6%89%93%E6%B8%B8%E6%88%8F%23" target="weibo">
 华晨宇直播打游戏（热度：60642）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23LPL%E4%BA%8C%E5%8F%B7%E7%A7%8D%E5%AD%90%20LCK%E4%B8%80%E5%8F%B7%E7%A7%8D%E5%AD%90%23" target="weibo">
-LPL二号种子 LCK一号种子（热度：49380）
 </a>
 </li>
 

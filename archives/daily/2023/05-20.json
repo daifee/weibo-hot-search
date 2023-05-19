@@ -1,6 +1,6 @@
 {
   "startTime": 1684513305148,
-  "endTime": 1684517627790,
+  "endTime": 1684520431758,
   "band_list": [
     {
       "raw_hot": 1956208,
@@ -443,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94612,
+      "num": 94612,
+      "word": "LPL二号种子 LCK一号种子",
+      "onboard_time": 1684517599,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 75536,
       "num": 75536,
       "word": "笑果",
@@ -465,14 +473,6 @@
       "onboard_time": 1684504592,
       "rank": 49,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 49380,
-      "num": 55662,
-      "word": "LPL二号种子 LCK一号种子",
-      "onboard_time": 1684517599,
-      "rank": 49,
-      "category": "游戏"
     }
   ],
   "hotgov_list": [

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/05/15 00:20:30 ~ 2023/05/20 01:33:47
+本榜单时间：2023/05/15 00:20:30 ~ 2023/05/20 02:20:31
 </p>
 </blockquote>
 <p>
@@ -8073,6 +8073,12 @@ KPL（热度：94754）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23LPL%E4%BA%8C%E5%8F%B7%E7%A7%8D%E5%AD%90%20LCK%E4%B8%80%E5%8F%B7%E7%A7%8D%E5%AD%90%23" target="weibo">
+LPL二号种子 LCK一号种子（热度：94612）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E5%A5%B6%E8%8C%B6%E6%95%91%E4%BA%BA%E7%9A%84%E6%B6%88%E9%98%B2%E5%91%98%E5%8F%88%E7%AB%8B%E5%8A%9F%E4%BA%86%23" target="weibo">
 用奶茶救人的消防员又立功了（热度：94506）
 </a>
@@ -8387,12 +8393,6 @@ seventeen出发日本（热度：59320）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%B6%E5%B7%9D%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E9%83%8E%E9%93%AE%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%23" target="weibo">
 汶川敬礼娃娃郎铮今年高考（热度：50631）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23LPL%E4%BA%8C%E5%8F%B7%E7%A7%8D%E5%AD%90%20LCK%E4%B8%80%E5%8F%B7%E7%A7%8D%E5%AD%90%23" target="weibo">
-LPL二号种子 LCK一号种子（热度：49380）
 </a>
 </li>
 
