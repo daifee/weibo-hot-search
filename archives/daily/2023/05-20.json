@@ -1,6 +1,6 @@
 {
   "startTime": 1684513305148,
-  "endTime": 1684530863274,
+  "endTime": 1684532002762,
   "band_list": [
     {
       "raw_hot": 1956208,
@@ -475,19 +475,19 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 30878,
-      "num": 26408,
-      "word": "便利店女店员遭男子多次殴打",
-      "onboard_time": 1684523653,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20120,
-      "num": 20120,
+      "raw_hot": 32127,
+      "num": 25726,
       "word": "老人保护孙子砍伤闹事者判正当防卫",
       "onboard_time": 1684529891,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30878,
+      "num": 27066,
+      "word": "便利店女店员遭男子多次殴打",
+      "onboard_time": 1684523653,
+      "rank": 25,
       "category": "社会新闻"
     }
   ],
