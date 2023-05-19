@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684524806601,
+  "endTime": 1684527442945,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -40601,6 +40601,14 @@
       "onboard_time": 1683737959,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 28763,
+      "num": 25408,
+      "word": "便利店女店员遭男子多次殴打",
+      "onboard_time": 1684523653,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28654,
