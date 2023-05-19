@@ -1,6 +1,6 @@
 {
   "startTime": 1684426913140,
-  "endTime": 1684500474865,
+  "endTime": 1684502372302,
   "band_list": [
     {
       "raw_hot": 5109861,
@@ -163,12 +163,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1430650,
+      "num": 1143140,
+      "word": "巴厘岛男子割颈后为何还能挣扎20分钟",
+      "onboard_time": 1684492829,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1418107,
       "num": 1418107,
       "word": "Faker",
       "onboard_time": 1684423111,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1396658,
+      "num": 1396658,
+      "word": "刘诗诗Angelababy同框",
+      "onboard_time": 1684500990,
+      "rank": 0,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1350151,
@@ -201,14 +217,6 @@
       "onboard_time": 1684463007,
       "rank": 30,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 1250746,
-      "num": 1143140,
-      "word": "巴厘岛男子割颈后为何还能挣扎20分钟",
-      "onboard_time": 1684492829,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1201977,
@@ -329,6 +337,14 @@
       "onboard_time": 1684469673,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 841098,
+      "num": 723911,
+      "word": "郑容和回韩国了",
+      "onboard_time": 1684499668,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 818912,
@@ -483,14 +499,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 536180,
-      "num": 536180,
-      "word": "郑容和回韩国了",
-      "onboard_time": 1684499668,
-      "rank": 4,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 531149,
       "num": 236811,
       "word": "杨贵妃体重",
@@ -499,12 +507,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 529920,
+      "num": 529920,
+      "word": "花戎",
+      "onboard_time": 1684499971,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 529366,
       "num": 529366,
       "word": "网约车拒违停2乘客赖车上超24小时",
       "onboard_time": 1684443972,
       "rank": 38,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 526315,
+      "num": 205594,
+      "word": "你减不减肥其实没什么区别",
+      "onboard_time": 1684500630,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 524562,
@@ -577,6 +601,14 @@
       "onboard_time": 1684453885,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 478905,
+      "num": 478905,
+      "word": "一年存多少钱才有安全感",
+      "onboard_time": 1684496371,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 476581,
@@ -729,6 +761,14 @@
       "onboard_time": 1684494992,
       "rank": 20,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 408444,
+      "num": 288946,
+      "word": "浪姐4二公结果",
+      "onboard_time": 1684501530,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 397371,
@@ -915,6 +955,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 329653,
+      "num": 281814,
+      "word": "喝杯奶茶能有多矫情",
+      "onboard_time": 1684498952,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 323967,
       "num": 323967,
       "word": "现在的童装和女装",
@@ -944,6 +992,14 @@
       "word": "嫡嫁千金改名墨雨云间",
       "onboard_time": 1684472135,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 314876,
+      "num": 195413,
+      "word": "光渊",
+      "onboard_time": 1684499790,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -1059,6 +1115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 298557,
+      "num": 298557,
+      "word": "哈工大回应为学生结婚开绿灯",
+      "onboard_time": 1684492651,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 297533,
       "num": 297533,
       "word": "00后男生保送清华不做数学题就难受",
@@ -1145,14 +1209,6 @@
       "onboard_time": 1684476348,
       "rank": 19,
       "category": "教育"
-    },
-    {
-      "raw_hot": 276562,
-      "num": 195413,
-      "word": "光渊",
-      "onboard_time": 1684499790,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 272386,
@@ -1395,14 +1451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 229840,
-      "num": 236474,
-      "word": "哈工大回应为学生结婚开绿灯",
-      "onboard_time": 1684492651,
-      "rank": 29,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 229123,
       "num": 229123,
       "word": "微信 吃内存",
@@ -1451,14 +1499,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 222077,
-      "num": 195277,
-      "word": "喝杯奶茶能有多矫情",
-      "onboard_time": 1684498952,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 219878,
       "num": 219878,
       "word": "别对我动心杀青",
@@ -1473,14 +1513,6 @@
       "onboard_time": 1684473692,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 217869,
-      "num": 269639,
-      "word": "一年存多少钱才有安全感",
-      "onboard_time": 1684496371,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216739,
@@ -1529,6 +1561,14 @@
       "onboard_time": 1684462947,
       "rank": 33,
       "category": "音乐,情感"
+    },
+    {
+      "raw_hot": 206637,
+      "num": 175042,
+      "word": "广西11死车祸9人系越南籍",
+      "onboard_time": 1684501830,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206164,
@@ -1635,14 +1675,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 189868,
-      "num": 189868,
-      "word": "花戎",
-      "onboard_time": 1684499971,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 189351,
       "num": 189351,
       "word": "华为",
@@ -1688,6 +1720,14 @@
       "word": "玩游戏时骂人违法吗",
       "onboard_time": 1684460486,
       "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 181960,
+      "num": 181960,
+      "word": "DYG挂牌名单",
+      "onboard_time": 1684501467,
+      "rank": 28,
       "category": "游戏"
     },
     {
@@ -1995,6 +2035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 140736,
+      "num": 140736,
+      "word": "32岁救援队员离世捐器官再救人",
+      "onboard_time": 1684499188,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139250,
       "num": 139250,
       "word": "Cat入选春季赛第二阵容",
@@ -2032,14 +2080,6 @@
       "word": "女子深山迷路警民6天5夜不懈搜救",
       "onboard_time": 1684488088,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131137,
-      "num": 131137,
-      "word": "32岁救援队员离世捐器官再救人",
-      "onboard_time": 1684499188,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -2097,6 +2137,14 @@
       "onboard_time": 1684404330,
       "rank": 42,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 121468,
+      "num": 134182,
+      "word": "济南服务区一轿车高速行驶撞飞路人",
+      "onboard_time": 1684502190,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119447,

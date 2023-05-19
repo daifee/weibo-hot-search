@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684500474865,
+  "endTime": 1684502372302,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -931,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1430650,
+      "num": 1143140,
+      "word": "巴厘岛男子割颈后为何还能挣扎20分钟",
+      "onboard_time": 1684492829,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1429711,
       "num": 1429711,
       "word": "高叶戛纳 大气",
@@ -969,6 +977,14 @@
       "onboard_time": 1684391189,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1396658,
+      "num": 1396658,
+      "word": "刘诗诗Angelababy同框",
+      "onboard_time": 1684500990,
+      "rank": 0,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1385427,
@@ -1137,14 +1153,6 @@
       "onboard_time": 1684216050,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1250746,
-      "num": 1143140,
-      "word": "巴厘岛男子割颈后为何还能挣扎20分钟",
-      "onboard_time": 1684492829,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1248034,
@@ -1801,6 +1809,14 @@
       "onboard_time": 1684160790,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 841098,
+      "num": 723911,
+      "word": "郑容和回韩国了",
+      "onboard_time": 1684499668,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 830229,
@@ -2747,20 +2763,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 536180,
-      "num": 536180,
-      "word": "郑容和回韩国了",
-      "onboard_time": 1684499668,
-      "rank": 4,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 531149,
       "num": 236811,
       "word": "杨贵妃体重",
       "onboard_time": 1684483950,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 529920,
+      "num": 529920,
+      "word": "花戎",
+      "onboard_time": 1684499971,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 529366,
@@ -2777,6 +2793,14 @@
       "onboard_time": 1684325729,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 526315,
+      "num": 205594,
+      "word": "你减不减肥其实没什么区别",
+      "onboard_time": 1684500630,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 525449,
@@ -3089,6 +3113,14 @@
       "onboard_time": 1684244736,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 478905,
+      "num": 478905,
+      "word": "一年存多少钱才有安全感",
+      "onboard_time": 1684496371,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 477119,
@@ -3777,6 +3809,14 @@
       "onboard_time": 1684494992,
       "rank": 20,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 408444,
+      "num": 288946,
+      "word": "浪姐4二公结果",
+      "onboard_time": 1684501530,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 407829,
@@ -4651,6 +4691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329653,
+      "num": 281814,
+      "word": "喝杯奶茶能有多矫情",
+      "onboard_time": 1684498952,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 329528,
       "num": 329528,
       "word": "唐山警方回应农妇袭警案",
@@ -4849,6 +4897,14 @@
       "onboard_time": 1684325909,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 314876,
+      "num": 195413,
+      "word": "光渊",
+      "onboard_time": 1684499790,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 314361,
@@ -5121,6 +5177,14 @@
       "onboard_time": 1684462168,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 298557,
+      "num": 298557,
+      "word": "哈工大回应为学生结婚开绿灯",
+      "onboard_time": 1684492651,
+      "rank": 29,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 298082,
@@ -5545,14 +5609,6 @@
       "onboard_time": 1684322786,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 276562,
-      "num": 195413,
-      "word": "光渊",
-      "onboard_time": 1684499790,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 276150,
@@ -6523,14 +6579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 229840,
-      "num": 236474,
-      "word": "哈工大回应为学生结婚开绿灯",
-      "onboard_time": 1684492651,
-      "rank": 29,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 229809,
       "num": 190468,
       "word": "house是谁",
@@ -6771,14 +6819,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 222077,
-      "num": 195277,
-      "word": "喝杯奶茶能有多矫情",
-      "onboard_time": 1684498952,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 221936,
       "num": 221936,
       "word": "刘耀文成都",
@@ -6889,14 +6929,6 @@
       "onboard_time": 1684224328,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 217869,
-      "num": 269639,
-      "word": "一年存多少钱才有安全感",
-      "onboard_time": 1684496371,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217837,
@@ -7257,6 +7289,14 @@
       "onboard_time": 1684149268,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206637,
+      "num": 175042,
+      "word": "广西11死车祸9人系越南籍",
+      "onboard_time": 1684501830,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206632,
@@ -7731,14 +7771,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 189868,
-      "num": 189868,
-      "word": "花戎",
-      "onboard_time": 1684499971,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 189554,
       "num": 189554,
       "word": "陈皓",
@@ -8033,6 +8065,14 @@
       "onboard_time": 1684289071,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181960,
+      "num": 181960,
+      "word": "DYG挂牌名单",
+      "onboard_time": 1684501467,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 181434,
@@ -9419,6 +9459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140736,
+      "num": 140736,
+      "word": "32岁救援队员离世捐器官再救人",
+      "onboard_time": 1684499188,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140285,
       "num": 140285,
       "word": "记者卧底南京夫子庙暗访竹筒奶茶市场",
@@ -9691,14 +9739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 131137,
-      "num": 131137,
-      "word": "32岁救援队员离世捐器官再救人",
-      "onboard_time": 1684499188,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131044,
       "num": 131044,
       "word": "他好像真的想教会我离职",
@@ -9913,6 +9953,14 @@
       "onboard_time": 1684145611,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121468,
+      "num": 134182,
+      "word": "济南服务区一轿车高速行驶撞飞路人",
+      "onboard_time": 1684502190,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121204,
