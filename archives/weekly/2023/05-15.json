@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684491479224,
+  "endTime": 1684492411370,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 1743089,
-      "num": 1041232,
+      "num": 1054143,
       "word": "唐嫣父亲接唐嫣女儿放学",
       "onboard_time": 1684482026,
       "rank": 10,
@@ -632,6 +632,14 @@
       "word": "刘维好刚",
       "onboard_time": 1684375408,
       "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1659100,
+      "num": 1659100,
+      "word": "李秀满来北京了",
+      "onboard_time": 1684490666,
+      "rank": 14,
       "category": "作品衍生"
     },
     {
@@ -833,6 +841,14 @@
       "onboard_time": 1684370491,
       "rank": 7,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 1479937,
+      "num": 1479937,
+      "word": "宁安如梦",
+      "onboard_time": 1684195288,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 1463938,
@@ -1091,14 +1107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1264585,
-      "num": 1264585,
-      "word": "宁安如梦",
-      "onboard_time": 1684195288,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1248034,
       "num": 967586,
       "word": "胧月公主扮演者近照",
@@ -1347,6 +1355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1078706,
+      "num": 1078706,
+      "word": "澳洲钉子户拒绝2.3亿拆迁款",
+      "onboard_time": 1684488208,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1076551,
       "num": 1076551,
       "word": "南太铉涉嫌吸毒被逮捕",
@@ -1419,14 +1435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1041002,
-      "num": 1041002,
-      "word": "澳洲钉子户拒绝2.3亿拆迁款",
-      "onboard_time": 1684488208,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1031613,
       "num": 1031613,
       "word": "恢复台湾居民来大陆团队游",
@@ -1449,6 +1457,14 @@
       "onboard_time": 1684316430,
       "rank": 1,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1026442,
+      "num": 1026442,
+      "word": "庾澄庆方否认心脏病恶化",
+      "onboard_time": 1684489829,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1025234,
@@ -1747,14 +1763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 843565,
-      "num": 843565,
-      "word": "庾澄庆方否认心脏病恶化",
-      "onboard_time": 1684489829,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 830229,
       "num": 255541,
       "word": "赵丽颖含泪和粉丝挥手",
@@ -1944,14 +1952,6 @@
       "word": "杨紫阔腿工装裤",
       "onboard_time": 1684134028,
       "rank": 12,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 755918,
-      "num": 755918,
-      "word": "李秀满来北京了",
-      "onboard_time": 1684490666,
-      "rank": 14,
       "category": "作品衍生"
     },
     {
@@ -2555,6 +2555,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 563586,
+      "num": 374250,
+      "word": "宁安如梦宁有福了直播派对",
+      "onboard_time": 1684491448,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 560953,
       "num": 560953,
       "word": "凤凰传奇是美依礼芽的榜一",
@@ -2633,6 +2641,14 @@
       "onboard_time": 1684285231,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 540518,
+      "num": 540518,
+      "word": "服务区",
+      "onboard_time": 1684488508,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 540410,
@@ -2787,6 +2803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 508034,
+      "num": 508034,
+      "word": "张雨绮戛纳晚宴",
+      "onboard_time": 1684489650,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 507664,
       "num": 507664,
       "word": "知音漫客休刊",
@@ -2825,14 +2849,6 @@
       "onboard_time": 1684227272,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 503874,
-      "num": 503874,
-      "word": "张雨绮戛纳晚宴",
-      "onboard_time": 1684489650,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 503706,
@@ -2985,14 +3001,6 @@
       "onboard_time": 1684306111,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 479923,
-      "num": 374250,
-      "word": "宁安如梦宁有福了直播派对",
-      "onboard_time": 1684491448,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 479598,
@@ -3923,6 +3931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 384284,
+      "num": 384284,
+      "word": "雅思组合大逆转扳平",
+      "onboard_time": 1684491751,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 384025,
       "num": 384025,
       "word": "孟美岐北京演唱会官宣",
@@ -4017,14 +4033,6 @@
       "onboard_time": 1684388069,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 374929,
-      "num": 374929,
-      "word": "服务区",
-      "onboard_time": 1684488508,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 374743,
@@ -4156,7 +4164,7 @@
     },
     {
       "raw_hot": 365351,
-      "num": 279334,
+      "num": 304565,
       "word": "网友把TFBOYS头像文身上",
       "onboard_time": 1684486168,
       "rank": 23,
@@ -4313,6 +4321,14 @@
       "onboard_time": 1684117405,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 351755,
+      "num": 240870,
+      "word": "文俊辉回国机场图",
+      "onboard_time": 1684492348,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 351576,
@@ -6099,6 +6115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 239745,
+      "num": 1699172,
+      "word": "日照这家无声面馆真的太治愈了",
+      "onboard_time": 1684486709,
+      "rank": 4,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 239596,
       "num": 200172,
       "word": "钧正平评笑果文化House言论事件",
@@ -6289,6 +6313,14 @@
       "onboard_time": 1684147467,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 231432,
+      "num": 231432,
+      "word": "同事让我给他看工资条后悔了",
+      "onboard_time": 1684491331,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 231278,
@@ -6875,6 +6907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212609,
+      "num": 212609,
+      "word": "朱珠好魅",
+      "onboard_time": 1684489349,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212493,
       "num": 158341,
       "word": "刘维说徐怀钰不是划水是不自信",
@@ -7331,14 +7371,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 193891,
-      "num": 144267,
-      "word": "朱珠好魅",
-      "onboard_time": 1684489349,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 193245,
       "num": 193245,
       "word": "梁静茹新专上线",
@@ -7465,6 +7497,14 @@
       "onboard_time": 1684408891,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190451,
+      "num": 1524137,
+      "word": "25岁小伙反串表演21年女角",
+      "onboard_time": 1684491631,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190118,
@@ -7873,14 +7913,6 @@
       "onboard_time": 1684379911,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 178930,
-      "num": 1699172,
-      "word": "日照这家无声面馆真的太治愈了",
-      "onboard_time": 1684486709,
-      "rank": 4,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 178491,
@@ -8947,6 +8979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 146905,
+      "num": 146905,
+      "word": "有爱就有520",
+      "onboard_time": 1684492169,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146845,
       "num": 146845,
       "word": "夏日的西安大唐芙蓉园有多美",
@@ -9275,6 +9315,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 135787,
+      "num": 1453701,
+      "word": "女子深山迷路警民6天5夜不懈搜救",
+      "onboard_time": 1684488088,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135720,
       "num": 144850,
       "word": "熊猫妈妈用肚皮当摇篮哄娃",
@@ -9321,14 +9369,6 @@
       "onboard_time": 1684400849,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 133321,
-      "num": 1453701,
-      "word": "女子深山迷路警民6天5夜不懈搜救",
-      "onboard_time": 1684488088,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133102,
@@ -9473,6 +9513,14 @@
       "onboard_time": 1684393528,
       "rank": 43,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 128367,
+      "num": 128367,
+      "word": "吴宣仪吊带白裙",
+      "onboard_time": 1684492291,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 128140,
@@ -9697,14 +9745,6 @@
       "onboard_time": 1684240830,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115517,
-      "num": 115517,
-      "word": "同事让我给他看工资条后悔了",
-      "onboard_time": 1684491331,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 115071,

@@ -1,6 +1,6 @@
 {
   "startTime": 1684426913140,
-  "endTime": 1684491479224,
+  "endTime": 1684492411370,
   "band_list": [
     {
       "raw_hot": 3283995,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1743089,
-      "num": 1041232,
+      "num": 1054143,
       "word": "唐嫣父亲接唐嫣女儿放学",
       "onboard_time": 1684482026,
       "rank": 10,
@@ -97,6 +97,14 @@
       "onboard_time": 1684460548,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1659100,
+      "num": 1659100,
+      "word": "李秀满来北京了",
+      "onboard_time": 1684490666,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1657437,
@@ -113,6 +121,14 @@
       "onboard_time": 1684425509,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1479937,
+      "num": 1479937,
+      "word": "宁安如梦",
+      "onboard_time": 1684481548,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 1430738,
@@ -155,14 +171,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 1264585,
-      "num": 1264585,
-      "word": "宁安如梦",
-      "onboard_time": 1684481548,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1201977,
       "num": 1201977,
       "word": "包文婧回应谢娜三万梗",
@@ -185,6 +193,14 @@
       "onboard_time": 1684471473,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1078706,
+      "num": 1078706,
+      "word": "澳洲钉子户拒绝2.3亿拆迁款",
+      "onboard_time": 1684488208,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1068539,
@@ -211,20 +227,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1041002,
-      "num": 1041002,
-      "word": "澳洲钉子户拒绝2.3亿拆迁款",
-      "onboard_time": 1684488208,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1031613,
       "num": 1031613,
       "word": "恢复台湾居民来大陆团队游",
       "onboard_time": 1684470033,
       "rank": 12,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 1026442,
+      "num": 1026442,
+      "word": "庾澄庆方否认心脏病恶化",
+      "onboard_time": 1684489829,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 944784,
@@ -273,14 +289,6 @@
       "onboard_time": 1684469673,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 843565,
-      "num": 843565,
-      "word": "庾澄庆方否认心脏病恶化",
-      "onboard_time": 1684489829,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 818912,
@@ -347,14 +355,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 755918,
-      "num": 755918,
-      "word": "李秀满来北京了",
-      "onboard_time": 1684490666,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 714107,
       "num": 714107,
       "word": "徐怀钰说自己有愧疚感",
@@ -395,6 +395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 563586,
+      "num": 374250,
+      "word": "宁安如梦宁有福了直播派对",
+      "onboard_time": 1684491448,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 550499,
       "num": 301392,
       "word": "付国豪",
@@ -417,6 +425,14 @@
       "onboard_time": 1684422393,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 540518,
+      "num": 540518,
+      "word": "服务区",
+      "onboard_time": 1684488508,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 531149,
@@ -443,8 +459,16 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 503874,
-      "num": 503874,
+      "raw_hot": 509461,
+      "num": 1041248,
+      "word": "笑果",
+      "onboard_time": 1684487368,
+      "rank": 29,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 508034,
+      "num": 508034,
       "word": "张雨绮戛纳晚宴",
       "onboard_time": 1684489650,
       "rank": 16,
@@ -457,14 +481,6 @@
       "onboard_time": 1684425448,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 501964,
-      "num": 1041248,
-      "word": "笑果",
-      "onboard_time": 1684487368,
-      "rank": 29,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 492355,
@@ -497,14 +513,6 @@
       "onboard_time": 1684453885,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 479923,
-      "num": 374250,
-      "word": "宁安如梦宁有福了直播派对",
-      "onboard_time": 1684491448,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 476581,
@@ -659,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 384284,
+      "num": 384284,
+      "word": "雅思组合大逆转扳平",
+      "onboard_time": 1684491751,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 384025,
       "num": 384025,
       "word": "孟美岐北京演唱会官宣",
@@ -689,14 +705,6 @@
       "onboard_time": 1684450819,
       "rank": 18,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 374929,
-      "num": 374929,
-      "word": "服务区",
-      "onboard_time": 1684488508,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 374484,
@@ -740,7 +748,7 @@
     },
     {
       "raw_hot": 365351,
-      "num": 279334,
+      "num": 304565,
       "word": "网友把TFBOYS头像文身上",
       "onboard_time": 1684486168,
       "rank": 23,
@@ -761,6 +769,14 @@
       "onboard_time": 1684466490,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 351755,
+      "num": 240870,
+      "word": "文俊辉回国机场图",
+      "onboard_time": 1684492348,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 350499,
@@ -1139,6 +1155,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 239745,
+      "num": 1699172,
+      "word": "日照这家无声面馆真的太治愈了",
+      "onboard_time": 1684486709,
+      "rank": 4,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 238352,
       "num": 238352,
       "word": "夏鸣星",
@@ -1193,6 +1217,14 @@
       "onboard_time": 1684482570,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231432,
+      "num": 231432,
+      "word": "同事让我给他看工资条后悔了",
+      "onboard_time": 1684491331,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 231251,
@@ -1299,6 +1331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 212609,
+      "num": 212609,
+      "word": "朱珠好魅",
+      "onboard_time": 1684489349,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208687,
       "num": 208687,
       "word": "毕业之前来看演唱会",
@@ -1347,14 +1387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 193891,
-      "num": 144267,
-      "word": "朱珠好魅",
-      "onboard_time": 1684489349,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192387,
       "num": 192387,
       "word": "豹子偷偷潜入叼走熟睡狗子",
@@ -1368,6 +1400,14 @@
       "word": "小学生吵架后举高高和好",
       "onboard_time": 1684459888,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190451,
+      "num": 1524137,
+      "word": "25岁小伙反串表演21年女角",
+      "onboard_time": 1684491631,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -1433,14 +1473,6 @@
       "onboard_time": 1684416089,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 178930,
-      "num": 1699172,
-      "word": "日照这家无声面馆真的太治愈了",
-      "onboard_time": 1684486709,
-      "rank": 4,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 178491,
@@ -1675,6 +1707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 146905,
+      "num": 146905,
+      "word": "有爱就有520",
+      "onboard_time": 1684492169,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144605,
       "num": 144605,
       "word": "那英马嘉祺一起回北京",
@@ -1739,7 +1779,7 @@
       "category": "影视,时尚"
     },
     {
-      "raw_hot": 133321,
+      "raw_hot": 135787,
       "num": 1453701,
       "word": "女子深山迷路警民6天5夜不懈搜救",
       "onboard_time": 1684488088,
@@ -1761,6 +1801,14 @@
       "onboard_time": 1684407868,
       "rank": 44,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 128367,
+      "num": 128367,
+      "word": "吴宣仪吊带白裙",
+      "onboard_time": 1684492291,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 127282,
@@ -1809,14 +1857,6 @@
       "onboard_time": 1684397490,
       "rank": 43,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 115517,
-      "num": 115517,
-      "word": "同事让我给他看工资条后悔了",
-      "onboard_time": 1684491331,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 114709,
