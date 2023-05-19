@@ -1,7 +1,15 @@
 {
   "startTime": 1684426913140,
-  "endTime": 1684464197541,
+  "endTime": 1684466270875,
   "band_list": [
+    {
+      "raw_hot": 2192729,
+      "num": 842545,
+      "word": "浙江通报6男子参加同性淫乱聚会",
+      "onboard_time": 1684464508,
+      "rank": 3,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1863623,
       "num": 1863623,
@@ -12,15 +20,15 @@
     },
     {
       "raw_hot": 1785114,
-      "num": 502416,
+      "num": 560969,
       "word": "张新成 李兰迪",
       "onboard_time": 1684459348,
       "rank": 28,
       "category": "艺人"
     },
     {
-      "raw_hot": 1612992,
-      "num": 1612992,
+      "raw_hot": 1726540,
+      "num": 1726540,
       "word": "劝大家不要去尝试群演行业",
       "onboard_time": 1684460548,
       "rank": 30,
@@ -59,12 +67,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1188289,
+      "num": 841134,
+      "word": "总算知道黄晓明有多高了",
+      "onboard_time": 1684463007,
+      "rank": 30,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 1062215,
       "num": 1062215,
       "word": "钟楚曦戛纳红毯东方美人",
       "onboard_time": 1684452623,
       "rank": 39,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 996720,
+      "num": 996720,
+      "word": "宁安如梦真来了",
+      "onboard_time": 1684464090,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 928388,
@@ -81,6 +105,14 @@
       "onboard_time": 1684422451,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 836691,
+      "num": 836691,
+      "word": "德云社",
+      "onboard_time": 1684462406,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 818912,
@@ -123,20 +155,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 585203,
-      "num": 408464,
-      "word": "总算知道黄晓明有多高了",
-      "onboard_time": 1684463007,
-      "rank": 30,
-      "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 582472,
-      "num": 582472,
-      "word": "德云社",
-      "onboard_time": 1684462406,
-      "rank": 9,
-      "category": "综艺"
+      "raw_hot": 550499,
+      "num": 284173,
+      "word": "付国豪",
+      "onboard_time": 1684463307,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 543753,
@@ -155,7 +179,7 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 519386,
+      "raw_hot": 524562,
       "num": 293777,
       "word": "因为拉肚子直接瘦了6斤",
       "onboard_time": 1684463368,
@@ -193,6 +217,14 @@
       "onboard_time": 1684452502,
       "rank": 40,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 480148,
+      "num": 480148,
+      "word": "湖人vs掘金",
+      "onboard_time": 1684453885,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 472677,
@@ -235,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 436051,
+      "num": 436051,
+      "word": "李诞仍是笑果文化股东",
+      "onboard_time": 1684464568,
+      "rank": 12,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 432276,
       "num": 432276,
       "word": "T1对战JDG",
@@ -243,8 +283,16 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 400864,
-      "num": 400864,
+      "raw_hot": 428982,
+      "num": 428982,
+      "word": "公司空调打消了我离职的念头",
+      "onboard_time": 1684460367,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 426887,
+      "num": 426887,
       "word": "詹姆斯 脱手",
       "onboard_time": 1684460310,
       "rank": 17,
@@ -265,14 +313,6 @@
       "onboard_time": 1684450819,
       "rank": 18,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 371637,
-      "num": 371637,
-      "word": "公司空调打消了我离职的念头",
-      "onboard_time": 1684460367,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 365834,
@@ -347,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 300360,
+      "num": 268027,
+      "word": "工资翻倍你会离开体制吗",
+      "onboard_time": 1684463246,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299810,
       "num": 299810,
       "word": "五月天",
@@ -368,14 +416,6 @@
       "word": "结婚买钻戒不如买黄金吗",
       "onboard_time": 1684451661,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284173,
-      "num": 284173,
-      "word": "付国豪",
-      "onboard_time": 1684463307,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -401,14 +441,6 @@
       "onboard_time": 1684431677,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 268027,
-      "num": 268027,
-      "word": "工资翻倍你会离开体制吗",
-      "onboard_time": 1684463246,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 265377,
@@ -451,6 +483,22 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 251327,
+      "num": 251327,
+      "word": "现在的童装和女装",
+      "onboard_time": 1684464687,
+      "rank": 18,
+      "category": "幽默,时尚"
+    },
+    {
+      "raw_hot": 249563,
+      "num": 249563,
+      "word": "王源在演唱会间隙录了个综艺",
+      "onboard_time": 1684463307,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 246658,
       "num": 246658,
       "word": "T1不ban安妮",
@@ -481,14 +529,6 @@
       "onboard_time": 1684458508,
       "rank": 34,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 233085,
-      "num": 233085,
-      "word": "湖人vs掘金",
-      "onboard_time": 1684453885,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 231251,
@@ -523,14 +563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 219627,
-      "num": 219627,
-      "word": "王源在演唱会间隙录了个综艺",
-      "onboard_time": 1684463307,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 216400,
       "num": 216400,
       "word": "戛纳红毯不能没有山东女人",
@@ -563,6 +595,14 @@
       "category": "音乐,情感"
     },
     {
+      "raw_hot": 208135,
+      "num": 208135,
+      "word": "四斤的小猫却有五斤的脾气",
+      "onboard_time": 1684465048,
+      "rank": 26,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 205918,
       "num": 205918,
       "word": "说一个十年都没有涨过价的东西",
@@ -577,6 +617,22 @@
       "onboard_time": 1684413209,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202452,
+      "num": 202452,
+      "word": "芭莎拍的胡一天张婧仪",
+      "onboard_time": 1684464987,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 201608,
+      "num": 201608,
+      "word": "没点本领都不好意思卖假发",
+      "onboard_time": 1684465048,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 197871,
@@ -617,6 +673,14 @@
       "onboard_time": 1684437012,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187228,
+      "num": 187228,
+      "word": "奔跑吧今晚带你游贵州",
+      "onboard_time": 1684466009,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 182347,
@@ -665,6 +729,14 @@
       "onboard_time": 1684461989,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176624,
+      "num": 176624,
+      "word": "萧敬腾一来北京就下雨",
+      "onboard_time": 1684465048,
+      "rank": 33,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 172896,
@@ -755,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150669,
+      "num": 150669,
+      "word": "NBA",
+      "onboard_time": 1684466190,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144605,
       "num": 144605,
       "word": "那英马嘉祺一起回北京",
@@ -771,20 +851,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 144191,
-      "num": 144191,
-      "word": "宁安如梦真来了",
-      "onboard_time": 1684464090,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 142552,
       "num": 142552,
       "word": "护心",
       "onboard_time": 1684405892,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 139132,
+      "num": 139132,
+      "word": "男子遇学生晚归用车灯照亮回家路",
+      "onboard_time": 1684465466,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138438,
@@ -961,6 +1041,14 @@
       "onboard_time": 1684434015,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27456,
+      "num": 427181,
+      "word": "戛纳红毯上的最佳妆容",
+      "onboard_time": 1684465287,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 17559,

@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684464197541,
+  "endTime": 1684466270875,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -307,6 +307,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2192729,
+      "num": 842545,
+      "word": "浙江通报6男子参加同性淫乱聚会",
+      "onboard_time": 1684464508,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2045756,
       "num": 2045756,
       "word": "48岁交警被拖行700余米牺牲",
@@ -452,7 +460,7 @@
     },
     {
       "raw_hot": 1785114,
-      "num": 502416,
+      "num": 560969,
       "word": "张新成 李兰迪",
       "onboard_time": 1684459348,
       "rank": 28,
@@ -481,6 +489,14 @@
       "onboard_time": 1684207228,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1726540,
+      "num": 1726540,
+      "word": "劝大家不要去尝试群演行业",
+      "onboard_time": 1684460548,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 1723651,
@@ -593,14 +609,6 @@
       "onboard_time": 1684336112,
       "rank": 23,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1612992,
-      "num": 1612992,
-      "word": "劝大家不要去尝试群演行业",
-      "onboard_time": 1684460548,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 1606902,
@@ -1067,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1188289,
+      "num": 841134,
+      "word": "总算知道黄晓明有多高了",
+      "onboard_time": 1684463007,
+      "rank": 30,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 1188212,
       "num": 1188212,
       "word": "史某发布涉军人不当言论被行拘",
@@ -1315,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 996720,
+      "num": 996720,
+      "word": "宁安如梦真来了",
+      "onboard_time": 1684464090,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 994373,
       "num": 928307,
       "word": "程十安去戛纳红毯了",
@@ -1552,6 +1576,14 @@
       "word": "朱珠直拍 有种不顾我死活的美",
       "onboard_time": 1684160790,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 836691,
+      "num": 836691,
+      "word": "德云社",
+      "onboard_time": 1684462406,
+      "rank": 9,
       "category": "综艺"
     },
     {
@@ -2211,28 +2243,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 585203,
-      "num": 408464,
-      "word": "总算知道黄晓明有多高了",
-      "onboard_time": 1684463007,
-      "rank": 30,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 584651,
       "num": 240402,
       "word": "kid",
       "onboard_time": 1684316067,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 582472,
-      "num": 582472,
-      "word": "德云社",
-      "onboard_time": 1684462406,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 581353,
@@ -2339,6 +2355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 550499,
+      "num": 284173,
+      "word": "付国豪",
+      "onboard_time": 1684463307,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 550120,
       "num": 302491,
       "word": "你赞同演唱会实名制购票吗",
@@ -2435,20 +2459,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 524562,
+      "num": 293777,
+      "word": "因为拉肚子直接瘦了6斤",
+      "onboard_time": 1684463368,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 522681,
       "num": 522681,
       "word": "张雨绮3D打印长裙",
       "onboard_time": 1684370430,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 519386,
-      "num": 293777,
-      "word": "因为拉肚子直接瘦了6斤",
-      "onboard_time": 1684463368,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 519156,
@@ -3107,6 +3131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 436051,
+      "num": 436051,
+      "word": "李诞仍是笑果文化股东",
+      "onboard_time": 1684464568,
+      "rank": 12,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 435427,
       "num": 435427,
       "word": "护心",
@@ -3171,12 +3203,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 428982,
+      "num": 428982,
+      "word": "公司空调打消了我离职的念头",
+      "onboard_time": 1684460367,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 427225,
       "num": 427225,
       "word": "面试时HR让我写一百个一",
       "onboard_time": 1684130968,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 426887,
+      "num": 426887,
+      "word": "詹姆斯 脱手",
+      "onboard_time": 1684460310,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 426096,
@@ -3337,14 +3385,6 @@
       "onboard_time": 1684149150,
       "rank": 44,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 400864,
-      "num": 400864,
-      "word": "詹姆斯 脱手",
-      "onboard_time": 1684460310,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 400837,
@@ -3649,14 +3689,6 @@
       "onboard_time": 1684210713,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 371637,
-      "num": 371637,
-      "word": "公司空调打消了我离职的念头",
-      "onboard_time": 1684460367,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 370971,
@@ -4427,6 +4459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300360,
+      "num": 268027,
+      "word": "工资翻倍你会离开体制吗",
+      "onboard_time": 1684463246,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299904,
       "num": 299904,
       "word": "掘金1比0湖人",
@@ -4656,14 +4696,6 @@
       "word": "2官员工作群发不雅信息均被双开",
       "onboard_time": 1684214070,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284173,
-      "num": 284173,
-      "word": "付国豪",
-      "onboard_time": 1684463307,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -4913,14 +4945,6 @@
       "onboard_time": 1684240229,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 268027,
-      "num": 268027,
-      "word": "工资翻倍你会离开体制吗",
-      "onboard_time": 1684463246,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 267393,
@@ -5251,6 +5275,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 251327,
+      "num": 251327,
+      "word": "现在的童装和女装",
+      "onboard_time": 1684464687,
+      "rank": 18,
+      "category": "幽默,时尚"
+    },
+    {
       "raw_hot": 251280,
       "num": 251280,
       "word": "简历不小心投到自己公司",
@@ -5265,6 +5297,14 @@
       "onboard_time": 1684158029,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 249563,
+      "num": 249563,
+      "word": "王源在演唱会间隙录了个综艺",
+      "onboard_time": 1684463307,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 249099,
@@ -5931,14 +5971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 219627,
-      "num": 219627,
-      "word": "王源在演唱会间隙录了个综艺",
-      "onboard_time": 1684463307,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 218714,
       "num": 218714,
       "word": "租房时前租客留下过什么宝藏",
@@ -6275,6 +6307,14 @@
       "category": "音乐,情感"
     },
     {
+      "raw_hot": 208135,
+      "num": 208135,
+      "word": "四斤的小猫却有五斤的脾气",
+      "onboard_time": 1684465048,
+      "rank": 26,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 207781,
       "num": 207781,
       "word": "云襄传",
@@ -6395,6 +6435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202452,
+      "num": 202452,
+      "word": "芭莎拍的胡一天张婧仪",
+      "onboard_time": 1684464987,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 201921,
       "num": 201921,
       "word": "大爷纯手工修两双鞋仅收4元",
@@ -6409,6 +6457,14 @@
       "onboard_time": 1684221630,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201608,
+      "num": 201608,
+      "word": "没点本领都不好意思卖假发",
+      "onboard_time": 1684465048,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 201521,
@@ -6835,6 +6891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187228,
+      "num": 187228,
+      "word": "奔跑吧今晚带你游贵州",
+      "onboard_time": 1684466009,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186770,
       "num": 186770,
       "word": "王鹤棣你让王传君歇会儿吧",
@@ -7185,6 +7249,14 @@
       "onboard_time": 1684113147,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 176624,
+      "num": 176624,
+      "word": "萧敬腾一来北京就下雨",
+      "onboard_time": 1684465048,
+      "rank": 33,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 176524,
@@ -7899,6 +7971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150669,
+      "num": 150669,
+      "word": "NBA",
+      "onboard_time": 1684466190,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150457,
       "num": 153992,
       "word": "原来小猫咪在农村是这样洗澡的",
@@ -8171,14 +8251,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 144191,
-      "num": 144191,
-      "word": "宁安如梦真来了",
-      "onboard_time": 1684464090,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 144104,
       "num": 144104,
       "word": "多地呼吁避免520扎堆结婚登记",
@@ -8289,6 +8361,14 @@
       "onboard_time": 1684410809,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139132,
+      "num": 139132,
+      "word": "男子遇学生晚归用车灯照亮回家路",
+      "onboard_time": 1684465466,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138974,
@@ -9577,6 +9657,14 @@
       "onboard_time": 1684434015,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27456,
+      "num": 427181,
+      "word": "戛纳红毯上的最佳妆容",
+      "onboard_time": 1684465287,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 26169,
