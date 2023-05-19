@@ -1,0 +1,410 @@
+{
+  "runTime": 1684503213973,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 775136,
+        "num": 775136,
+        "word": "澳洲钉子户拒绝2.3亿拆迁款",
+        "onboard_time": 1684488208,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715621,
+        "num": 715621,
+        "word": "徐怀钰一个人坐在角落里",
+        "onboard_time": 1684487310,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31742,
+        "num": 584585,
+        "word": "语文课本里的中国有多美",
+        "onboard_time": 1684502791,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1888767,
+        "num": 583838,
+        "word": "刘诗诗Angelababy同框",
+        "onboard_time": 1684500990,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 578522,
+        "num": 578522,
+        "word": "浪姐4二公结果",
+        "onboard_time": 1684501530,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 815847,
+        "num": 564102,
+        "word": "郑容和回韩国了",
+        "onboard_time": 1684499668,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 543997,
+        "num": 543997,
+        "word": "上班以后情绪真的稳定了",
+        "onboard_time": 1684480590,
+        "rank": 6,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 525256,
+        "num": 525256,
+        "word": "花戎",
+        "onboard_time": 1684499971,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 397550,
+        "num": 397550,
+        "word": "一年存多少钱才有安全感",
+        "onboard_time": 1684496371,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376062,
+        "num": 376062,
+        "word": "喝杯奶茶能有多矫情",
+        "onboard_time": 1684498952,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1173015,
+        "num": 371199,
+        "word": "宁安如梦没播",
+        "onboard_time": 1684494930,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 435432,
+        "num": 368864,
+        "word": "张雨绮戛纳晚宴",
+        "onboard_time": 1684489650,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 358884,
+        "num": 358884,
+        "word": "哈工大回应为学生结婚开绿灯",
+        "onboard_time": 1684492651,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 327757,
+        "num": 327757,
+        "word": "庾澄庆方否认心脏病恶化",
+        "onboard_time": 1684489829,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302857,
+        "num": 318104,
+        "word": "济南服务区一轿车高速行驶撞飞路人",
+        "onboard_time": 1684502190,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312743,
+        "num": 312743,
+        "word": "李秀满来北京了",
+        "onboard_time": 1684490666,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 310348,
+        "num": 310348,
+        "word": "唐嫣父亲接唐嫣女儿放学",
+        "onboard_time": 1684482026,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298735,
+        "num": 298735,
+        "word": "登珠峰遇难者在最后时刻扔掉氧气罐",
+        "onboard_time": 1684485028,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247307,
+        "num": 297593,
+        "word": "服务区",
+        "onboard_time": 1684488508,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188408,
+        "num": 296926,
+        "word": "葫芦鸡是峰会国宴的主菜",
+        "onboard_time": 1684494992,
+        "rank": 19,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 1301785,
+        "num": 293996,
+        "word": "原来子宫比鸡蛋还要小",
+        "onboard_time": 1684495831,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 576601,
+        "num": 293293,
+        "word": "宁安如梦",
+        "onboard_time": 1684481548,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1292968,
+        "num": 291700,
+        "word": "巴厘岛男子割颈后为何还能挣扎20分钟",
+        "onboard_time": 1684492829,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546604,
+        "num": 289502,
+        "word": "你减不减肥其实没什么区别",
+        "onboard_time": 1684500630,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 457672,
+        "num": 289012,
+        "word": "张凌赫说的改天是哪天",
+        "onboard_time": 1684498771,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429065,
+        "num": 287202,
+        "word": "洪晃",
+        "onboard_time": 1684486767,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311010,
+        "num": 285669,
+        "word": "光渊",
+        "onboard_time": 1684499790,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284333,
+        "num": 284333,
+        "word": "郑元畅说和林依晨拍吻戏要开两个口",
+        "onboard_time": 1684497810,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262473,
+        "num": 262473,
+        "word": "同事让我给他看工资条后悔了",
+        "onboard_time": 1684491331,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161287,
+        "num": 231409,
+        "word": "笑果",
+        "onboard_time": 1684487368,
+        "rank": 29,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 549851,
+        "num": 228766,
+        "word": "广西11死车祸9人系越南籍",
+        "onboard_time": 1684501830,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262850,
+        "num": 226799,
+        "word": "龚俊和洪晃合照闭眼了",
+        "onboard_time": 1684488328,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217659,
+        "num": 217659,
+        "word": "奔跑吧",
+        "onboard_time": 1684498771,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214610,
+        "num": 214610,
+        "word": "护心杨蓉下线",
+        "onboard_time": 1684499248,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157849,
+        "num": 157849,
+        "word": "DYG挂牌名单",
+        "onboard_time": 1684501467,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207040,
+        "num": 152487,
+        "word": "宁安如梦直播呢",
+        "onboard_time": 1684492410,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201667,
+        "num": 150419,
+        "word": "张杰彩排",
+        "onboard_time": 1684503030,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186516,
+        "num": 149610,
+        "word": "曾黎穿了一个红灯笼",
+        "onboard_time": 1684498469,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146362,
+        "num": 146362,
+        "word": "妈妈没有处理好课题分离",
+        "onboard_time": 1684492651,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133236,
+        "num": 133236,
+        "word": "精心打扮不如大爷随便一穿",
+        "onboard_time": 1684494330,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181203,
+        "num": 133054,
+        "word": "网友把TFBOYS头像文身上",
+        "onboard_time": 1684486168,
+        "rank": 40,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 180301,
+        "num": 130853,
+        "word": "YG新女团生图",
+        "onboard_time": 1684496072,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34922,
+        "num": 130095,
+        "word": "今天是中国旅游日",
+        "onboard_time": 1684483587,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163064,
+        "num": 128185,
+        "word": "YG在调查Jennie金泰亨照片散布者",
+        "onboard_time": 1684479026,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162636,
+        "num": 126692,
+        "word": "知名形象指导张学润烧炭自杀",
+        "onboard_time": 1684494209,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126645,
+        "num": 126645,
+        "word": "32岁救援队员离世捐器官再救人",
+        "onboard_time": 1684499188,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126069,
+        "num": 126069,
+        "word": "你经常穿同一双鞋吗",
+        "onboard_time": 1684486108,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123118,
+        "num": 123118,
+        "word": "BLG对战GEN",
+        "onboard_time": 1684496610,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104206,
+        "num": 122138,
+        "word": "石宇奇",
+        "onboard_time": 1684496849,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96680,
+        "num": 122102,
+        "word": "居居吃瓜大会",
+        "onboard_time": 1684499371,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平就如何建设中国—中亚命运共同体提出四个坚持#"
+    }
+  }
+}
