@@ -1,10 +1,10 @@
 {
   "startTime": 1684426913140,
-  "endTime": 1684459442505,
+  "endTime": 1684460905466,
   "band_list": [
     {
-      "raw_hot": 1615105,
-      "num": 1615105,
+      "raw_hot": 1863623,
+      "num": 1863623,
       "word": "放太久的鞋子就别穿了",
       "onboard_time": 1684454849,
       "rank": 0,
@@ -33,6 +33,14 @@
       "onboard_time": 1684420412,
       "rank": 3,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1209908,
+      "num": 502416,
+      "word": "张新成 李兰迪",
+      "onboard_time": 1684459348,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 1201977,
@@ -115,6 +123,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 508967,
+      "num": 508967,
+      "word": "杨幂戴头花",
+      "onboard_time": 1684458028,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 503706,
       "num": 503706,
       "word": "JDG团战",
@@ -123,20 +139,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 492355,
+      "num": 492355,
+      "word": "吴谢宇弑母案二审今开庭",
+      "onboard_time": 1684456652,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491900,
       "num": 491900,
       "word": "情侣生女后分手保姆代养孩子6年",
       "onboard_time": 1684419990,
       "rank": 9,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 489377,
-      "num": 489377,
-      "word": "吴谢宇弑母案二审今开庭",
-      "onboard_time": 1684456652,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 488469,
@@ -163,8 +179,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 456210,
+      "num": 456210,
+      "word": "ChatGPT官方APP登录美国苹果商店",
+      "onboard_time": 1684455449,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 447559,
-      "num": 225622,
+      "num": 227193,
       "word": "赵丽颖含泪和粉丝挥手",
       "onboard_time": 1684419691,
       "rank": 20,
@@ -177,6 +201,14 @@
       "onboard_time": 1684412849,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 384561,
+      "num": 384561,
+      "word": "女孩特爱哭被送去唱戏拿了金奖",
+      "onboard_time": 1684459527,
+      "rank": 15,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 377108,
@@ -201,22 +233,6 @@
       "onboard_time": 1684419936,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 333094,
-      "num": 333094,
-      "word": "杨幂戴头花",
-      "onboard_time": 1684458028,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 330188,
-      "num": 330188,
-      "word": "ChatGPT官方APP登录美国苹果商店",
-      "onboard_time": 1684455449,
-      "rank": 17,
-      "category": "科技"
     },
     {
       "raw_hot": 330118,
@@ -251,6 +267,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 308579,
+      "num": 308579,
+      "word": "詹姆斯 脱手",
+      "onboard_time": 1684460310,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 308528,
       "num": 308528,
       "word": "黄晓明跳刘畊宏健身操演我",
@@ -265,6 +289,22 @@
       "onboard_time": 1684423111,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 305624,
+      "num": 305624,
+      "word": "吴谢宇",
+      "onboard_time": 1684457849,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294307,
+      "num": 218322,
+      "word": "劝大家不要去尝试群演行业",
+      "onboard_time": 1684460548,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 290283,
@@ -289,6 +329,14 @@
       "onboard_time": 1684451781,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 272212,
+      "num": 272212,
+      "word": "公司空调打消了我离职的念头",
+      "onboard_time": 1684460367,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 270551,
@@ -347,14 +395,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 244222,
-      "num": 244222,
-      "word": "张新成 李兰迪",
-      "onboard_time": 1684459348,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 237695,
       "num": 171758,
       "word": "印尼警方称巴厘岛命案男方多次自残",
@@ -387,6 +427,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 222160,
+      "num": 222160,
+      "word": "Ella闺女这么大了",
+      "onboard_time": 1684456171,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216400,
       "num": 216400,
       "word": "戛纳红毯不能没有山东女人",
@@ -411,14 +459,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 213496,
-      "num": 213496,
-      "word": "吴谢宇",
-      "onboard_time": 1684457849,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205918,
       "num": 205918,
       "word": "说一个十年都没有涨过价的东西",
@@ -435,12 +475,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201506,
-      "num": 201506,
-      "word": "Ella闺女这么大了",
-      "onboard_time": 1684456171,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 202177,
+      "num": 202177,
+      "word": "想把驾校里的教练车买下来",
+      "onboard_time": 1684460426,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 198380,
@@ -464,6 +504,14 @@
       "word": "豹子偷偷潜入叼走熟睡狗子",
       "onboard_time": 1684450819,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191730,
+      "num": 191730,
+      "word": "小学生吵架后举高高和好",
+      "onboard_time": 1684459888,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -587,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153256,
+      "num": 153256,
+      "word": "檀健次王楚然拥抱路透",
+      "onboard_time": 1684460787,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 151476,
       "num": 151476,
       "word": "大唐芙蓉园",
@@ -601,6 +657,14 @@
       "onboard_time": 1684455750,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144308,
+      "num": 144308,
+      "word": "当代人钓鱼主打一个勤快",
+      "onboard_time": 1684460848,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 142552,
@@ -689,6 +753,14 @@
       "onboard_time": 1684404211,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100590,
+      "num": 141242,
+      "word": "玩游戏时骂人违法吗",
+      "onboard_time": 1684460486,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 100135,

@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684459442505,
+  "endTime": 1684460905466,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -403,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1863623,
+      "num": 1863623,
+      "word": "放太久的鞋子就别穿了",
+      "onboard_time": 1684454849,
+      "rank": 0,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 1846343,
       "num": 1846343,
       "word": "以为吴京和郭帆结婚了",
@@ -577,14 +585,6 @@
       "onboard_time": 1684336112,
       "rank": 23,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1615105,
-      "num": 1615105,
-      "word": "放太久的鞋子就别穿了",
-      "onboard_time": 1684454849,
-      "rank": 0,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 1606902,
@@ -1009,6 +1009,14 @@
       "onboard_time": 1684147289,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1209908,
+      "num": 502416,
+      "word": "张新成 李兰迪",
+      "onboard_time": 1684459348,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 1201558,
@@ -2459,6 +2467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 508967,
+      "num": 508967,
+      "word": "杨幂戴头花",
+      "onboard_time": 1684458028,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 507664,
       "num": 507664,
       "word": "知音漫客休刊",
@@ -2563,20 +2579,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 492355,
+      "num": 492355,
+      "word": "吴谢宇弑母案二审今开庭",
+      "onboard_time": 1684456652,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491073,
       "num": 491073,
       "word": "难听",
       "onboard_time": 1684143268,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 489377,
-      "num": 489377,
-      "word": "吴谢宇弑母案二审今开庭",
-      "onboard_time": 1684456652,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 488469,
@@ -2849,6 +2865,14 @@
       "onboard_time": 1684115908,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456210,
+      "num": 456210,
+      "word": "ChatGPT官方APP登录美国苹果商店",
+      "onboard_time": 1684455449,
+      "rank": 17,
+      "category": "科技"
     },
     {
       "raw_hot": 454376,
@@ -3451,6 +3475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 384561,
+      "num": 384561,
+      "word": "女孩特爱哭被送去唱戏拿了金奖",
+      "onboard_time": 1684459527,
+      "rank": 15,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 384532,
       "num": 342049,
       "word": "王俊凯重庆",
@@ -3955,14 +3987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 333094,
-      "num": 333094,
-      "word": "杨幂戴头花",
-      "onboard_time": 1684458028,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 333085,
       "num": 276447,
       "word": "hanni新闻图",
@@ -3985,14 +4009,6 @@
       "onboard_time": 1684206029,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 330188,
-      "num": 330188,
-      "word": "ChatGPT官方APP登录美国苹果商店",
-      "onboard_time": 1684455449,
-      "rank": 17,
-      "category": "科技"
     },
     {
       "raw_hot": 329528,
@@ -4251,6 +4267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308579,
+      "num": 308579,
+      "word": "詹姆斯 脱手",
+      "onboard_time": 1684460310,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 308528,
       "num": 308528,
       "word": "黄晓明跳刘畊宏健身操演我",
@@ -4297,6 +4321,14 @@
       "onboard_time": 1684423111,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 305624,
+      "num": 305624,
+      "word": "吴谢宇",
+      "onboard_time": 1684457849,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305163,
@@ -4409,6 +4441,14 @@
       "onboard_time": 1684154791,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 294307,
+      "num": 218322,
+      "word": "劝大家不要去尝试群演行业",
+      "onboard_time": 1684460548,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 293262,
@@ -4753,6 +4793,14 @@
       "onboard_time": 1684167325,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 272212,
+      "num": 272212,
+      "word": "公司空调打消了我离职的念头",
+      "onboard_time": 1684460367,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 271628,
@@ -5225,14 +5273,6 @@
       "onboard_time": 1684128148,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 244222,
-      "num": 244222,
-      "word": "张新成 李兰迪",
-      "onboard_time": 1684459348,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 244059,
@@ -5723,6 +5763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 222160,
+      "num": 222160,
+      "word": "Ella闺女这么大了",
+      "onboard_time": 1684456171,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221936,
       "num": 221936,
       "word": "刘耀文成都",
@@ -5977,14 +6025,6 @@
       "onboard_time": 1684153167,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 213496,
-      "num": 213496,
-      "word": "吴谢宇",
-      "onboard_time": 1684457849,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213482,
@@ -6251,6 +6291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202177,
+      "num": 202177,
+      "word": "想把驾校里的教练车买下来",
+      "onboard_time": 1684460426,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 201921,
       "num": 201921,
       "word": "大爷纯手工修两双鞋仅收4元",
@@ -6273,14 +6321,6 @@
       "onboard_time": 1684117467,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201506,
-      "num": 201506,
-      "word": "Ella闺女这么大了",
-      "onboard_time": 1684456171,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 201447,
@@ -6505,6 +6545,14 @@
       "onboard_time": 1684111107,
       "rank": 22,
       "category": "社会新闻,音乐"
+    },
+    {
+      "raw_hot": 191730,
+      "num": 191730,
+      "word": "小学生吵架后举高高和好",
+      "onboard_time": 1684459888,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191664,
@@ -7659,6 +7707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153256,
+      "num": 153256,
+      "word": "檀健次王楚然拥抱路透",
+      "onboard_time": 1684460787,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 153221,
       "num": 153221,
       "word": "NBA选秀抽签",
@@ -8001,6 +8057,14 @@
       "onboard_time": 1684212814,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144308,
+      "num": 144308,
+      "word": "当代人钓鱼主打一个勤快",
+      "onboard_time": 1684460848,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 144104,
@@ -8784,6 +8848,14 @@
       "word": "第五人格",
       "onboard_time": 1684307068,
       "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 100590,
+      "num": 141242,
+      "word": "玩游戏时骂人违法吗",
+      "onboard_time": 1684460486,
+      "rank": 48,
       "category": "游戏"
     },
     {
