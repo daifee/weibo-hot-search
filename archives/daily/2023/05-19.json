@@ -1,7 +1,15 @@
 {
   "startTime": 1684426913140,
-  "endTime": 1684494834189,
+  "endTime": 1684496016218,
   "band_list": [
+    {
+      "raw_hot": 5109861,
+      "num": 5109861,
+      "word": "宁安如梦没播",
+      "onboard_time": 1684494930,
+      "rank": 0,
+      "category": "影视"
+    },
     {
       "raw_hot": 4092571,
       "num": 4092571,
@@ -89,6 +97,14 @@
       "onboard_time": 1684454849,
       "rank": 0,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 1807864,
+      "num": 1807864,
+      "word": "爱奇艺",
+      "onboard_time": 1684493908,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1785114,
@@ -179,14 +195,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 1228132,
-      "num": 1228132,
-      "word": "爱奇艺",
-      "onboard_time": 1684493908,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1201977,
       "num": 1201977,
       "word": "包文婧回应谢娜三万梗",
@@ -201,6 +209,14 @@
       "onboard_time": 1684464090,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1143140,
+      "num": 1143140,
+      "word": "巴厘岛男子割颈后为何还能挣扎20分钟",
+      "onboard_time": 1684492829,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1116376,
@@ -233,14 +249,6 @@
       "onboard_time": 1684452623,
       "rank": 39,
       "category": "影视,时尚"
-    },
-    {
-      "raw_hot": 1051688,
-      "num": 1051688,
-      "word": "巴厘岛男子割颈后为何还能挣扎20分钟",
-      "onboard_time": 1684492829,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1041741,
@@ -748,7 +756,7 @@
     },
     {
       "raw_hot": 374484,
-      "num": 1982957,
+      "num": 4279131,
       "word": "车辆坠河众人义无反顾跳河救人",
       "onboard_time": 1684483470,
       "rank": 38,
@@ -1107,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264783,
+      "num": 229820,
+      "word": "知名形象指导张学润烧炭自杀",
+      "onboard_time": 1684494209,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260372,
       "num": 260372,
       "word": "95岁老师病床上跟医生讨价还价",
@@ -1187,6 +1203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 246489,
+      "num": 246489,
+      "word": "妈妈没有处理好课题分离",
+      "onboard_time": 1684492651,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 246435,
       "num": 246435,
       "word": "重庆居然还有折耳根千层",
@@ -1196,7 +1220,7 @@
     },
     {
       "raw_hot": 239745,
-      "num": 1699172,
+      "num": 1980735,
       "word": "日照这家无声面馆真的太治愈了",
       "onboard_time": 1684486709,
       "rank": 4,
@@ -1273,6 +1297,14 @@
       "onboard_time": 1684400430,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229840,
+      "num": 236474,
+      "word": "哈工大回应为学生结婚开绿灯",
+      "onboard_time": 1684492651,
+      "rank": 29,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 229123,
@@ -1355,14 +1387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 215371,
-      "num": 215371,
-      "word": "妈妈没有处理好课题分离",
-      "onboard_time": 1684492651,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 215235,
       "num": 215235,
       "word": "为什么谈恋爱一定要多见面",
@@ -1395,12 +1419,12 @@
       "category": "音乐,情感"
     },
     {
-      "raw_hot": 206861,
-      "num": 236474,
-      "word": "哈工大回应为学生结婚开绿灯",
-      "onboard_time": 1684492651,
-      "rank": 29,
-      "category": "社会新闻,教育"
+      "raw_hot": 206164,
+      "num": 206164,
+      "word": "精心打扮不如大爷随便一穿",
+      "onboard_time": 1684494330,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205918,
@@ -1427,12 +1451,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 199760,
-      "num": 177843,
-      "word": "知名形象指导张学润烧炭自杀",
-      "onboard_time": 1684494209,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 198990,
+      "num": 198990,
+      "word": "护心",
+      "onboard_time": 1684405892,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 197871,
@@ -1465,6 +1489,14 @@
       "onboard_time": 1684459888,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190903,
+      "num": 190902,
+      "word": "吴宣仪吊带白裙",
+      "onboard_time": 1684492291,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 189351,
@@ -1513,14 +1545,6 @@
       "onboard_time": 1684460486,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 180516,
-      "num": 128367,
-      "word": "吴宣仪吊带白裙",
-      "onboard_time": 1684492291,
-      "rank": 44,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 179878,
@@ -1625,14 +1649,6 @@
       "onboard_time": 1684475669,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 168120,
-      "num": 142552,
-      "word": "护心",
-      "onboard_time": 1684405892,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 167698,
@@ -1851,12 +1867,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132335,
-      "num": 132335,
-      "word": "精心打扮不如大爷随便一穿",
-      "onboard_time": 1684494330,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 133019,
+      "num": 271873,
+      "word": "葫芦鸡是峰会国宴的主菜",
+      "onboard_time": 1684494992,
+      "rank": 20,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 130457,
@@ -1873,6 +1889,14 @@
       "onboard_time": 1684407868,
       "rank": 44,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 127850,
+      "num": 749884,
+      "word": "毕业季告白",
+      "onboard_time": 1684494028,
+      "rank": 14,
+      "category": "教育,情感"
     },
     {
       "raw_hot": 127282,
@@ -1964,7 +1988,7 @@
     },
     {
       "raw_hot": 104803,
-      "num": 2403389,
+      "num": 3507105,
       "word": "今天是中国旅游日",
       "onboard_time": 1684483587,
       "rank": 2,
@@ -1996,7 +2020,7 @@
     },
     {
       "raw_hot": 94754,
-      "num": 116537,
+      "num": 133843,
       "word": "KPL",
       "onboard_time": 1684492949,
       "rank": 46,
@@ -2019,12 +2043,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88004,
-      "num": 749884,
-      "word": "毕业季告白",
-      "onboard_time": 1684494028,
-      "rank": 14,
-      "category": "教育,情感"
+      "raw_hot": 82220,
+      "num": 133778,
+      "word": "原来子宫比鸡蛋还要小",
+      "onboard_time": 1684495831,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 72041,
