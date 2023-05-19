@@ -1,0 +1,410 @@
+{
+  "runTime": 1684467219896,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1151533,
+        "num": 1151533,
+        "word": "宁安如梦真来了",
+        "onboard_time": 1684464090,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1709151,
+        "num": 1090659,
+        "word": "劝大家不要去尝试群演行业",
+        "onboard_time": 1684460548,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12543,
+        "num": 1044801,
+        "word": "神十六本月发射",
+        "onboard_time": 1684398868,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2556867,
+        "num": 969270,
+        "word": "浙江通报6男子参加同性淫乱聚会",
+        "onboard_time": 1684464508,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1247782,
+        "num": 872123,
+        "word": "总算知道黄晓明有多高了",
+        "onboard_time": 1684463007,
+        "rank": 4,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 860342,
+        "num": 860342,
+        "word": "德云社",
+        "onboard_time": 1684462406,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 612603,
+        "num": 612603,
+        "word": "放太久的鞋子就别穿了",
+        "onboard_time": 1684454849,
+        "rank": 6,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 583286,
+        "num": 583286,
+        "word": "妹妹患癌前后1年全家人对比",
+        "onboard_time": 1684422451,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505193,
+        "num": 505193,
+        "word": "杨幂戴头花",
+        "onboard_time": 1684458028,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 493729,
+        "num": 493729,
+        "word": "钟楚曦戛纳红毯东方美人",
+        "onboard_time": 1684452623,
+        "rank": 9,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 1643625,
+        "num": 491373,
+        "word": "张新成 李兰迪",
+        "onboard_time": 1684459348,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476581,
+        "num": 476581,
+        "word": "李诞仍是笑果文化股东",
+        "onboard_time": 1684464568,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 424758,
+        "num": 424758,
+        "word": "医生用一根针帮患癌老人冻死肿瘤",
+        "onboard_time": 1684452743,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423193,
+        "num": 423193,
+        "word": "湖人vs掘金",
+        "onboard_time": 1684453885,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55650,
+        "num": 379203,
+        "word": "戛纳红毯上的最佳妆容",
+        "onboard_time": 1684465287,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359356,
+        "num": 359356,
+        "word": "公司空调打消了我离职的念头",
+        "onboard_time": 1684460367,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 350998,
+        "num": 350998,
+        "word": "下个月你工资卡里或将多一笔钱",
+        "onboard_time": 1684420412,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 348647,
+        "num": 348647,
+        "word": "掘金2比0湖人",
+        "onboard_time": 1684466490,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333717,
+        "num": 333717,
+        "word": "詹姆斯 脱手",
+        "onboard_time": 1684460310,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323967,
+        "num": 323967,
+        "word": "现在的童装和女装",
+        "onboard_time": 1684464687,
+        "rank": 19,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 516113,
+        "num": 306661,
+        "word": "因为拉肚子直接瘦了6斤",
+        "onboard_time": 1684463368,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 447295,
+        "num": 301392,
+        "word": "付国豪",
+        "onboard_time": 1684463307,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387393,
+        "num": 289776,
+        "word": "奔跑吧今晚带你游贵州",
+        "onboard_time": 1684466009,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266893,
+        "num": 266893,
+        "word": "工资翻倍你会离开体制吗",
+        "onboard_time": 1684463246,
+        "rank": 23,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 258411,
+        "num": 258411,
+        "word": "NBA",
+        "onboard_time": 1684466190,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252767,
+        "num": 252767,
+        "word": "王源在演唱会间隙录了个综艺",
+        "onboard_time": 1684463307,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233401,
+        "num": 233401,
+        "word": "四斤的小猫却有五斤的脾气",
+        "onboard_time": 1684465048,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 219878,
+        "num": 219878,
+        "word": "别对我动心杀青",
+        "onboard_time": 1684466730,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216739,
+        "num": 216739,
+        "word": "芭莎拍的胡一天张婧仪",
+        "onboard_time": 1684464987,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 214221,
+        "num": 214221,
+        "word": "吴谢宇狱友称其大部分时间在写东西",
+        "onboard_time": 1684466669,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205137,
+        "num": 205137,
+        "word": "G社拍的龚俊",
+        "onboard_time": 1684454969,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198662,
+        "num": 198662,
+        "word": "女孩特爱哭被送去唱戏拿了金奖",
+        "onboard_time": 1684459527,
+        "rank": 31,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 196801,
+        "num": 196801,
+        "word": "ChatGPT官方APP登录美国苹果商店",
+        "onboard_time": 1684455449,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 177856,
+        "num": 177856,
+        "word": "包文婧回应谢娜三万梗",
+        "onboard_time": 1684417829,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177165,
+        "num": 177165,
+        "word": "没点本领都不好意思卖假发",
+        "onboard_time": 1684465048,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176236,
+        "num": 176236,
+        "word": "小太阳",
+        "onboard_time": 1684466429,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175003,
+        "num": 175003,
+        "word": "笑果公开招聘多个岗位",
+        "onboard_time": 1684467089,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157135,
+        "num": 157135,
+        "word": "戛纳官方拍的龚俊粉丝",
+        "onboard_time": 1684462466,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152815,
+        "num": 152815,
+        "word": "蔡依林扫码支付反应",
+        "onboard_time": 1684415190,
+        "rank": 38,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 150821,
+        "num": 150821,
+        "word": "越野网红戳伤妻子眼睛后自杀身亡",
+        "onboard_time": 1684467089,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145297,
+        "num": 145297,
+        "word": "五月天",
+        "onboard_time": 1684462168,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143415,
+        "num": 143415,
+        "word": "陈清华包着你睡是什么意思",
+        "onboard_time": 1684463426,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142675,
+        "num": 142675,
+        "word": "你知道盲人举起盲杖代表什么吗",
+        "onboard_time": 1684452502,
+        "rank": 42,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 141926,
+        "num": 141926,
+        "word": "当男朋友问你520要什么礼物",
+        "onboard_time": 1684466848,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 140776,
+        "num": 140776,
+        "word": "巩俐戛纳红色裤装",
+        "onboard_time": 1684458508,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 133547,
+        "num": 133547,
+        "word": "95岁老师病床上跟医生讨价还价",
+        "onboard_time": 1684456349,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 132603,
+        "num": 132603,
+        "word": "00后男生保送清华不做数学题就难受",
+        "onboard_time": 1684467206,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 123054,
+        "num": 123054,
+        "word": "玩游戏时骂人违法吗",
+        "onboard_time": 1684460486,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113117,
+        "num": 122925,
+        "word": "管泽元你还敢给别人当伴郎",
+        "onboard_time": 1684466609,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 86885,
+        "num": 122802,
+        "word": "Faker",
+        "onboard_time": 1684423111,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国—中亚峰会#"
+    }
+  }
+}

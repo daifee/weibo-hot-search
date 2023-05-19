@@ -1,10 +1,10 @@
 {
   "startTime": 1684426913140,
-  "endTime": 1684466270875,
+  "endTime": 1684467219896,
   "band_list": [
     {
-      "raw_hot": 2192729,
-      "num": 842545,
+      "raw_hot": 2556867,
+      "num": 969270,
       "word": "浙江通报6男子参加同性淫乱聚会",
       "onboard_time": 1684464508,
       "rank": 3,
@@ -59,6 +59,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1247782,
+      "num": 872123,
+      "word": "总算知道黄晓明有多高了",
+      "onboard_time": 1684463007,
+      "rank": 30,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 1201977,
       "num": 1201977,
       "word": "包文婧回应谢娜三万梗",
@@ -67,12 +75,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1188289,
-      "num": 841134,
-      "word": "总算知道黄晓明有多高了",
-      "onboard_time": 1684463007,
-      "rank": 30,
-      "category": "艺人,幽默"
+      "raw_hot": 1151533,
+      "num": 1151533,
+      "word": "宁安如梦真来了",
+      "onboard_time": 1684464090,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 1062215,
@@ -81,14 +89,6 @@
       "onboard_time": 1684452623,
       "rank": 39,
       "category": "影视,时尚"
-    },
-    {
-      "raw_hot": 996720,
-      "num": 996720,
-      "word": "宁安如梦真来了",
-      "onboard_time": 1684464090,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 928388,
@@ -107,8 +107,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 836691,
-      "num": 836691,
+      "raw_hot": 860342,
+      "num": 860342,
       "word": "德云社",
       "onboard_time": 1684462406,
       "rank": 9,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 550499,
-      "num": 284173,
+      "num": 301392,
       "word": "付国豪",
       "onboard_time": 1684463307,
       "rank": 32,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 524562,
-      "num": 293777,
+      "num": 306661,
       "word": "因为拉肚子直接瘦了6斤",
       "onboard_time": 1684463368,
       "rank": 31,
@@ -227,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 476581,
+      "num": 476581,
+      "word": "李诞仍是笑果文化股东",
+      "onboard_time": 1684464568,
+      "rank": 12,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 472677,
       "num": 472677,
       "word": "李兰迪空降粉丝群",
@@ -267,14 +275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 436051,
-      "num": 436051,
-      "word": "李诞仍是笑果文化股东",
-      "onboard_time": 1684464568,
-      "rank": 12,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 432276,
       "num": 432276,
       "word": "T1对战JDG",
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387393,
+      "num": 289776,
+      "word": "奔跑吧今晚带你游贵州",
+      "onboard_time": 1684466009,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 377108,
       "num": 334118,
       "word": "拜登携核按钮抵达广岛",
@@ -331,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 348647,
+      "num": 348647,
+      "word": "掘金2比0湖人",
+      "onboard_time": 1684466490,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 343438,
       "num": 343438,
       "word": "川传出轨多位女学生老师被辞退",
@@ -345,6 +361,14 @@
       "onboard_time": 1684417889,
       "rank": 13,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 323967,
+      "num": 323967,
+      "word": "现在的童装和女装",
+      "onboard_time": 1684464687,
+      "rank": 18,
+      "category": "幽默,时尚"
     },
     {
       "raw_hot": 314358,
@@ -459,6 +483,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 258411,
+      "num": 258411,
+      "word": "NBA",
+      "onboard_time": 1684466190,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 256953,
       "num": 256953,
       "word": "想把驾校里的教练车买下来",
@@ -483,16 +515,8 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 251327,
-      "num": 251327,
-      "word": "现在的童装和女装",
-      "onboard_time": 1684464687,
-      "rank": 18,
-      "category": "幽默,时尚"
-    },
-    {
-      "raw_hot": 249563,
-      "num": 249563,
+      "raw_hot": 252767,
+      "num": 252767,
       "word": "王源在演唱会间隙录了个综艺",
       "onboard_time": 1684463307,
       "rank": 36,
@@ -531,6 +555,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 233401,
+      "num": 233401,
+      "word": "四斤的小猫却有五斤的脾气",
+      "onboard_time": 1684465048,
+      "rank": 26,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 231251,
       "num": 172371,
       "word": "张馨予 如果不救基本没命",
@@ -563,6 +595,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219878,
+      "num": 219878,
+      "word": "别对我动心杀青",
+      "onboard_time": 1684466730,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 216739,
+      "num": 216739,
+      "word": "芭莎拍的胡一天张婧仪",
+      "onboard_time": 1684464987,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 216400,
       "num": 216400,
       "word": "戛纳红毯不能没有山东女人",
@@ -587,20 +635,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 214221,
+      "num": 214221,
+      "word": "吴谢宇狱友称其大部分时间在写东西",
+      "onboard_time": 1684466669,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208687,
       "num": 208687,
       "word": "毕业之前来看演唱会",
       "onboard_time": 1684462947,
       "rank": 33,
       "category": "音乐,情感"
-    },
-    {
-      "raw_hot": 208135,
-      "num": 208135,
-      "word": "四斤的小猫却有五斤的脾气",
-      "onboard_time": 1684465048,
-      "rank": 26,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 205918,
@@ -617,14 +665,6 @@
       "onboard_time": 1684413209,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202452,
-      "num": 202452,
-      "word": "芭莎拍的胡一天张婧仪",
-      "onboard_time": 1684464987,
-      "rank": 28,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 201608,
@@ -673,14 +713,6 @@
       "onboard_time": 1684437012,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187228,
-      "num": 187228,
-      "word": "奔跑吧今晚带你游贵州",
-      "onboard_time": 1684466009,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 182347,
@@ -737,6 +769,22 @@
       "onboard_time": 1684465048,
       "rank": 33,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 176236,
+      "num": 176236,
+      "word": "小太阳",
+      "onboard_time": 1684466429,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 175003,
+      "num": 175003,
+      "word": "笑果公开招聘多个岗位",
+      "onboard_time": 1684467089,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172896,
@@ -827,12 +875,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150669,
-      "num": 150669,
-      "word": "NBA",
-      "onboard_time": 1684466190,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 150821,
+      "num": 150821,
+      "word": "越野网红戳伤妻子眼睛后自杀身亡",
+      "onboard_time": 1684467089,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144605,
@@ -859,6 +907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 141926,
+      "num": 141926,
+      "word": "当男朋友问你520要什么礼物",
+      "onboard_time": 1684466848,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 139132,
       "num": 139132,
       "word": "男子遇学生晚归用车灯照亮回家路",
@@ -873,6 +929,14 @@
       "onboard_time": 1684452444,
       "rank": 34,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 132603,
+      "num": 132603,
+      "word": "00后男生保送清华不做数学题就难受",
+      "onboard_time": 1684467206,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 130457,
@@ -929,6 +993,14 @@
       "onboard_time": 1684413568,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 113117,
+      "num": 122925,
+      "word": "管泽元你还敢给别人当伴郎",
+      "onboard_time": 1684466609,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 111730,
@@ -1003,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 55650,
+      "num": 427181,
+      "word": "戛纳红毯上的最佳妆容",
+      "onboard_time": 1684465287,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 52430,
       "num": 52430,
       "word": "原来是一碗丝路味道的biangbiang面",
@@ -1041,14 +1121,6 @@
       "onboard_time": 1684434015,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 27456,
-      "num": 427181,
-      "word": "戛纳红毯上的最佳妆容",
-      "onboard_time": 1684465287,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 17559,
