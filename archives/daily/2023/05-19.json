@@ -1,7 +1,15 @@
 {
   "startTime": 1684426913140,
-  "endTime": 1684492411370,
+  "endTime": 1684494834189,
   "band_list": [
+    {
+      "raw_hot": 4092571,
+      "num": 4092571,
+      "word": "宁安如梦",
+      "onboard_time": 1684481548,
+      "rank": 21,
+      "category": "影视"
+    },
     {
       "raw_hot": 3283995,
       "num": 413739,
@@ -67,6 +75,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1949951,
+      "num": 1949951,
+      "word": "宁安如梦直播呢",
+      "onboard_time": 1684492410,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1863623,
       "num": 1863623,
       "word": "放太久的鞋子就别穿了",
@@ -123,14 +139,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1479937,
-      "num": 1479937,
-      "word": "宁安如梦",
-      "onboard_time": 1684481548,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1430738,
       "num": 624794,
       "word": "YG在调查Jennie金泰亨照片散布者",
@@ -171,6 +179,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 1228132,
+      "num": 1228132,
+      "word": "爱奇艺",
+      "onboard_time": 1684493908,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1201977,
       "num": 1201977,
       "word": "包文婧回应谢娜三万梗",
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 1078706,
-      "num": 1078706,
+      "num": 1235646,
       "word": "澳洲钉子户拒绝2.3亿拆迁款",
       "onboard_time": 1684488208,
       "rank": 30,
@@ -217,6 +233,14 @@
       "onboard_time": 1684452623,
       "rank": 39,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 1051688,
+      "num": 1051688,
+      "word": "巴厘岛男子割颈后为何还能挣扎20分钟",
+      "onboard_time": 1684492829,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1041741,
@@ -379,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 609239,
+      "num": 609239,
+      "word": "服务区",
+      "onboard_time": 1684488508,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 601490,
       "num": 601490,
       "word": "卡琳娜cos李泽言",
@@ -427,14 +459,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 540518,
-      "num": 540518,
-      "word": "服务区",
-      "onboard_time": 1684488508,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 531149,
       "num": 236811,
       "word": "杨贵妃体重",
@@ -465,6 +489,14 @@
       "onboard_time": 1684487368,
       "rank": 29,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 508180,
+      "num": 2871532,
+      "word": "25岁小伙反串表演21年女角",
+      "onboard_time": 1684491631,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 508034,
@@ -561,6 +593,14 @@
       "onboard_time": 1684424489,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 458866,
+      "num": 458866,
+      "word": "同事让我给他看工资条后悔了",
+      "onboard_time": 1684491331,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 456210,
@@ -1195,6 +1235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235536,
+      "num": 235536,
+      "word": "王鹤棣范丞丞黄明昊三大显眼包",
+      "onboard_time": 1684492829,
+      "rank": 32,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 234688,
       "num": 234688,
       "word": "巩俐戛纳红色裤装",
@@ -1217,14 +1265,6 @@
       "onboard_time": 1684482570,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231432,
-      "num": 231432,
-      "word": "同事让我给他看工资条后悔了",
-      "onboard_time": 1684491331,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 231251,
@@ -1315,6 +1355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 215371,
+      "num": 215371,
+      "word": "妈妈没有处理好课题分离",
+      "onboard_time": 1684492651,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 215235,
       "num": 215235,
       "word": "为什么谈恋爱一定要多见面",
@@ -1347,6 +1395,14 @@
       "category": "音乐,情感"
     },
     {
+      "raw_hot": 206861,
+      "num": 236474,
+      "word": "哈工大回应为学生结婚开绿灯",
+      "onboard_time": 1684492651,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 205918,
       "num": 205918,
       "word": "说一个十年都没有涨过价的东西",
@@ -1369,6 +1425,14 @@
       "onboard_time": 1684465048,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 199760,
+      "num": 177843,
+      "word": "知名形象指导张学润烧炭自杀",
+      "onboard_time": 1684494209,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 197871,
@@ -1400,14 +1464,6 @@
       "word": "小学生吵架后举高高和好",
       "onboard_time": 1684459888,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190451,
-      "num": 1524137,
-      "word": "25岁小伙反串表演21年女角",
-      "onboard_time": 1684491631,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -1457,6 +1513,14 @@
       "onboard_time": 1684460486,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 180516,
+      "num": 128367,
+      "word": "吴宣仪吊带白裙",
+      "onboard_time": 1684492291,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 179878,
@@ -1561,6 +1625,14 @@
       "onboard_time": 1684475669,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168120,
+      "num": 142552,
+      "word": "护心",
+      "onboard_time": 1684405892,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 167698,
@@ -1739,14 +1811,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 142552,
-      "num": 142552,
-      "word": "护心",
-      "onboard_time": 1684405892,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 142360,
       "num": 142360,
       "word": "和男爱豆结婚条件",
@@ -1787,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132335,
+      "num": 132335,
+      "word": "精心打扮不如大爷随便一穿",
+      "onboard_time": 1684494330,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130457,
       "num": 130457,
       "word": "罗马晋级欧联决赛",
@@ -1801,14 +1873,6 @@
       "onboard_time": 1684407868,
       "rank": 44,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 128367,
-      "num": 128367,
-      "word": "吴宣仪吊带白裙",
-      "onboard_time": 1684492291,
-      "rank": 44,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 127282,
@@ -1900,7 +1964,7 @@
     },
     {
       "raw_hot": 104803,
-      "num": 1930988,
+      "num": 2403389,
       "word": "今天是中国旅游日",
       "onboard_time": 1684483587,
       "rank": 2,
@@ -1931,6 +1995,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 94754,
+      "num": 116537,
+      "word": "KPL",
+      "onboard_time": 1684492949,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 92666,
       "num": 92666,
       "word": "70后大叔报小饭桌和10后萌娃就餐",
@@ -1945,6 +2017,14 @@
       "onboard_time": 1684427243,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88004,
+      "num": 749884,
+      "word": "毕业季告白",
+      "onboard_time": 1684494028,
+      "rank": 14,
+      "category": "教育,情感"
     },
     {
       "raw_hot": 72041,
