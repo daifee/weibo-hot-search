@@ -1,6 +1,6 @@
 {
   "startTime": 1684513305148,
-  "endTime": 1684532002762,
+  "endTime": 1684534547046,
   "band_list": [
     {
       "raw_hot": 1956208,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 450032,
-      "num": 284732,
+      "num": 344908,
       "word": "他在海上就这么飘了14天",
       "onboard_time": 1684513106,
       "rank": 46,
@@ -475,8 +475,8 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 32127,
-      "num": 25726,
+      "raw_hot": 54337,
+      "num": 44592,
       "word": "老人保护孙子砍伤闹事者判正当防卫",
       "onboard_time": 1684529891,
       "rank": 37,
@@ -484,11 +484,19 @@
     },
     {
       "raw_hot": 30878,
-      "num": 27066,
+      "num": 30871,
       "word": "便利店女店员遭男子多次殴打",
       "onboard_time": 1684523653,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28306,
+      "num": 28306,
+      "word": "ALin抢到了朱珠",
+      "onboard_time": 1684532293,
+      "rank": 38,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
