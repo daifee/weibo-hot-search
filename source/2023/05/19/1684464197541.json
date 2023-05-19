@@ -1,0 +1,410 @@
+{
+  "runTime": 1684464197541,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1612992,
+        "num": 1612992,
+        "word": "劝大家不要去尝试群演行业",
+        "onboard_time": 1684460548,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1069893,
+        "num": 1069893,
+        "word": "放太久的鞋子就别穿了",
+        "onboard_time": 1684454849,
+        "rank": 1,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 11612,
+        "num": 993686,
+        "word": "神十六本月发射",
+        "onboard_time": 1684398868,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 923604,
+        "num": 923604,
+        "word": "妹妹患癌前后1年全家人对比",
+        "onboard_time": 1684422451,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 884280,
+        "num": 884280,
+        "word": "钟楚曦戛纳红毯东方美人",
+        "onboard_time": 1684452623,
+        "rank": 4,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 770247,
+        "num": 770247,
+        "word": "杨幂戴头花",
+        "onboard_time": 1684458028,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 582472,
+        "num": 582472,
+        "word": "德云社",
+        "onboard_time": 1684462406,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 544429,
+        "num": 544429,
+        "word": "下个月你工资卡里或将多一笔钱",
+        "onboard_time": 1684420412,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 473009,
+        "num": 473009,
+        "word": "医生用一根针帮患癌老人冻死肿瘤",
+        "onboard_time": 1684452743,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412915,
+        "num": 412915,
+        "word": "女孩特爱哭被送去唱戏拿了金奖",
+        "onboard_time": 1684459527,
+        "rank": 9,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 1760214,
+        "num": 408654,
+        "word": "张新成 李兰迪",
+        "onboard_time": 1684459348,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 585203,
+        "num": 408464,
+        "word": "总算知道黄晓明有多高了",
+        "onboard_time": 1684463007,
+        "rank": 11,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 390643,
+        "num": 390643,
+        "word": "詹姆斯 脱手",
+        "onboard_time": 1684460310,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 371637,
+        "num": 371637,
+        "word": "公司空调打消了我离职的念头",
+        "onboard_time": 1684460367,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 343064,
+        "num": 343064,
+        "word": "G社拍的龚俊",
+        "onboard_time": 1684454969,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324804,
+        "num": 324804,
+        "word": "吴谢宇",
+        "onboard_time": 1684457849,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324018,
+        "num": 324018,
+        "word": "包文婧回应谢娜三万梗",
+        "onboard_time": 1684417829,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323720,
+        "num": 323720,
+        "word": "川传出轨多位女学生老师被辞退",
+        "onboard_time": 1684402467,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 312828,
+        "num": 312828,
+        "word": "ChatGPT官方APP登录美国苹果商店",
+        "onboard_time": 1684455449,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 294053,
+        "num": 294053,
+        "word": "蔡依林扫码支付反应",
+        "onboard_time": 1684415190,
+        "rank": 19,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 519386,
+        "num": 293777,
+        "word": "因为拉肚子直接瘦了6斤",
+        "onboard_time": 1684463368,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 314358,
+        "num": 293486,
+        "word": "陈清华包着你睡是什么意思",
+        "onboard_time": 1684463426,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289565,
+        "num": 289565,
+        "word": "五月天",
+        "onboard_time": 1684462168,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 284173,
+        "num": 284173,
+        "word": "付国豪",
+        "onboard_time": 1684463307,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268027,
+        "num": 268027,
+        "word": "工资翻倍你会离开体制吗",
+        "onboard_time": 1684463246,
+        "rank": 24,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 257952,
+        "num": 257952,
+        "word": "李诞去年卸任笑果董事",
+        "onboard_time": 1684411588,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 243314,
+        "num": 243314,
+        "word": "你知道盲人举起盲杖代表什么吗",
+        "onboard_time": 1684452502,
+        "rank": 26,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 242476,
+        "num": 242476,
+        "word": "汪小敏ins唯一关注是赵丽娜",
+        "onboard_time": 1684431677,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234688,
+        "num": 234688,
+        "word": "巩俐戛纳红色裤装",
+        "onboard_time": 1684458508,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 229317,
+        "num": 229317,
+        "word": "想把驾校里的教练车买下来",
+        "onboard_time": 1684460426,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225806,
+        "num": 225806,
+        "word": "戛纳官方拍的龚俊粉丝",
+        "onboard_time": 1684462466,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219627,
+        "num": 219627,
+        "word": "王源在演唱会间隙录了个综艺",
+        "onboard_time": 1684463307,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218005,
+        "num": 218005,
+        "word": "檀健次王楚然拥抱路透",
+        "onboard_time": 1684460787,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208687,
+        "num": 208687,
+        "word": "毕业之前来看演唱会",
+        "onboard_time": 1684462947,
+        "rank": 33,
+        "category": "音乐,情感"
+      },
+      {
+        "raw_hot": 198976,
+        "num": 198976,
+        "word": "湖人vs掘金",
+        "onboard_time": 1684453885,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179269,
+        "num": 179269,
+        "word": "95岁老师病床上跟医生讨价还价",
+        "onboard_time": 1684456349,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 178343,
+        "num": 178343,
+        "word": "金大川晒九宫格为雎晓雯庆生",
+        "onboard_time": 1684461989,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176915,
+        "num": 176915,
+        "word": "吴谢宇弑母案二审今开庭",
+        "onboard_time": 1684456652,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173636,
+        "num": 173636,
+        "word": "玩游戏时骂人违法吗",
+        "onboard_time": 1684460486,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169016,
+        "num": 169016,
+        "word": "我要逆风去剧组赢很大",
+        "onboard_time": 1684462287,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161780,
+        "num": 161780,
+        "word": "赵丽颖含泪和粉丝挥手",
+        "onboard_time": 1684419691,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145768,
+        "num": 145768,
+        "word": "Ella闺女这么大了",
+        "onboard_time": 1684456171,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144191,
+        "num": 144191,
+        "word": "宁安如梦真来了",
+        "onboard_time": 1684464090,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143683,
+        "num": 143683,
+        "word": "戛纳红毯不能没有山东女人",
+        "onboard_time": 1684451661,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142687,
+        "num": 142687,
+        "word": "刘畊宏说王婉霏是我的天菜",
+        "onboard_time": 1684453648,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141795,
+        "num": 141795,
+        "word": "山东姑娘连续2天捐干细胞救活男子",
+        "onboard_time": 1684457309,
+        "rank": 45,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 141414,
+        "num": 141414,
+        "word": "结婚买钻戒不如买黄金吗",
+        "onboard_time": 1684451661,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135181,
+        "num": 135181,
+        "word": "拜登携核按钮抵达广岛",
+        "onboard_time": 1684450819,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 102198,
+        "num": 129475,
+        "word": "Faker",
+        "onboard_time": 1684423111,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 63422,
+        "num": 128954,
+        "word": "JDG战胜T1",
+        "onboard_time": 1684425509,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国—中亚峰会#"
+    }
+  }
+}

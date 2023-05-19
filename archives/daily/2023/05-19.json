@@ -1,6 +1,6 @@
 {
   "startTime": 1684426913140,
-  "endTime": 1684463675323,
+  "endTime": 1684464197541,
   "band_list": [
     {
       "raw_hot": 1863623,
@@ -19,20 +19,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1612992,
+      "num": 1612992,
+      "word": "劝大家不要去尝试群演行业",
+      "onboard_time": 1684460548,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1517943,
       "num": 1517943,
       "word": "JDG战胜T1",
       "onboard_time": 1684425509,
       "rank": 0,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1494449,
-      "num": 1494449,
-      "word": "劝大家不要去尝试群演行业",
-      "onboard_time": 1684460548,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 1418107,
@@ -75,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 908496,
-      "num": 908496,
+      "raw_hot": 923604,
+      "num": 923604,
       "word": "妹妹患癌前后1年全家人对比",
       "onboard_time": 1684422451,
       "rank": 21,
@@ -107,8 +107,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 741886,
-      "num": 741886,
+      "raw_hot": 770247,
+      "num": 770247,
       "word": "杨幂戴头花",
       "onboard_time": 1684458028,
       "rank": 16,
@@ -121,6 +121,22 @@
       "onboard_time": 1684423528,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 585203,
+      "num": 408464,
+      "word": "总算知道黄晓明有多高了",
+      "onboard_time": 1684463007,
+      "rank": 30,
+      "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 582472,
+      "num": 582472,
+      "word": "德云社",
+      "onboard_time": 1684462406,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 543753,
@@ -137,6 +153,14 @@
       "onboard_time": 1684443972,
       "rank": 38,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 519386,
+      "num": 293777,
+      "word": "因为拉肚子直接瘦了6斤",
+      "onboard_time": 1684463368,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 503706,
@@ -211,14 +235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 438048,
-      "num": 438048,
-      "word": "德云社",
-      "onboard_time": 1684462406,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 432276,
       "num": 432276,
       "word": "T1对战JDG",
@@ -235,14 +251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 398682,
-      "num": 199536,
-      "word": "总算知道黄晓明有多高了",
-      "onboard_time": 1684463007,
-      "rank": 30,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 395401,
       "num": 395401,
       "word": "吴谢宇",
@@ -257,6 +265,14 @@
       "onboard_time": 1684450819,
       "rank": 18,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 371637,
+      "num": 371637,
+      "word": "公司空调打消了我离职的念头",
+      "onboard_time": 1684460367,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 365834,
@@ -291,12 +307,12 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 318475,
-      "num": 318475,
-      "word": "公司空调打消了我离职的念头",
-      "onboard_time": 1684460367,
-      "rank": 22,
-      "category": "幽默"
+      "raw_hot": 314358,
+      "num": 294763,
+      "word": "陈清华包着你睡是什么意思",
+      "onboard_time": 1684463426,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 311612,
@@ -339,14 +355,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 294763,
-      "num": 294763,
-      "word": "陈清华包着你睡是什么意思",
-      "onboard_time": 1684463426,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 290283,
       "num": 290283,
       "word": "胡兵工作室回应结婚",
@@ -363,20 +371,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284173,
+      "num": 284173,
+      "word": "付国豪",
+      "onboard_time": 1684463307,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281602,
       "num": 281602,
       "word": "男朋友毕业一年不肯上班",
       "onboard_time": 1684451781,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 279699,
-      "num": 195174,
-      "word": "因为拉肚子直接瘦了6斤",
-      "onboard_time": 1684463368,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 270551,
@@ -393,6 +401,14 @@
       "onboard_time": 1684431677,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268027,
+      "num": 268027,
+      "word": "工资翻倍你会离开体制吗",
+      "onboard_time": 1684463246,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265377,
@@ -459,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 234688,
+      "num": 234688,
+      "word": "巩俐戛纳红色裤装",
+      "onboard_time": 1684458508,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 233085,
       "num": 233085,
       "word": "湖人vs掘金",
@@ -483,12 +507,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 223773,
-      "num": 223773,
-      "word": "巩俐戛纳红色裤装",
-      "onboard_time": 1684458508,
-      "rank": 34,
-      "category": "作品衍生,时尚"
+      "raw_hot": 225806,
+      "num": 225806,
+      "word": "戛纳官方拍的龚俊粉丝",
+      "onboard_time": 1684462466,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 222160,
@@ -497,6 +521,14 @@
       "onboard_time": 1684456171,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219627,
+      "num": 219627,
+      "word": "王源在演唱会间隙录了个综艺",
+      "onboard_time": 1684463307,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 216400,
@@ -523,6 +555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 208687,
+      "num": 208687,
+      "word": "毕业之前来看演唱会",
+      "onboard_time": 1684462947,
+      "rank": 33,
+      "category": "音乐,情感"
+    },
+    {
       "raw_hot": 205918,
       "num": 205918,
       "word": "说一个十年都没有涨过价的东西",
@@ -531,28 +571,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 203116,
-      "num": 203116,
-      "word": "工资翻倍你会离开体制吗",
-      "onboard_time": 1684463246,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202827,
       "num": 202827,
       "word": "宋雨琦多巴胺甜妹",
       "onboard_time": 1684413209,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201612,
-      "num": 201612,
-      "word": "戛纳官方拍的龚俊粉丝",
-      "onboard_time": 1684462466,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 197871,
@@ -579,22 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190705,
-      "num": 190705,
-      "word": "付国豪",
-      "onboard_time": 1684463307,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190156,
-      "num": 190156,
-      "word": "毕业之前来看演唱会",
-      "onboard_time": 1684462947,
-      "rank": 33,
-      "category": "音乐,情感"
-    },
-    {
       "raw_hot": 189351,
       "num": 189351,
       "word": "华为",
@@ -609,14 +617,6 @@
       "onboard_time": 1684437012,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187352,
-      "num": 187352,
-      "word": "王源在演唱会间隙录了个综艺",
-      "onboard_time": 1684463307,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 182347,
@@ -659,8 +659,8 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 175903,
-      "num": 175903,
+      "raw_hot": 178343,
+      "num": 178343,
       "word": "金大川晒九宫格为雎晓雯庆生",
       "onboard_time": 1684461989,
       "rank": 39,
@@ -769,6 +769,14 @@
       "onboard_time": 1684460848,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144191,
+      "num": 144191,
+      "word": "宁安如梦真来了",
+      "onboard_time": 1684464090,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 142552,
