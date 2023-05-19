@@ -1,6 +1,6 @@
 {
   "startTime": 1684513305148,
-  "endTime": 1684520431758,
+  "endTime": 1684521243515,
   "band_list": [
     {
       "raw_hot": 1956208,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 450032,
-      "num": 231572,
+      "num": 284732,
       "word": "他在海上就这么飘了14天",
       "onboard_time": 1684513106,
       "rank": 46,
@@ -435,20 +435,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100262,
+      "num": 100262,
+      "word": "LPL二号种子 LCK一号种子",
+      "onboard_time": 1684517599,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 99694,
       "num": 99694,
       "word": "周深惨叫还有转音",
       "onboard_time": 1684510949,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 94612,
-      "num": 94612,
-      "word": "LPL二号种子 LCK一号种子",
-      "onboard_time": 1684517599,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 75536,

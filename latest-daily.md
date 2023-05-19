@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/05/20 00:21:45 ~ 2023/05/20 02:20:31
+本榜单时间：2023/05/20 00:21:45 ~ 2023/05/20 02:34:03
 </p>
 </blockquote>
 <p>
@@ -339,14 +339,14 @@ YG新女团生图（热度：113083）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%83%A8%E5%8F%AB%E8%BF%98%E6%9C%89%E8%BD%AC%E9%9F%B3%23" target="weibo">
-周深惨叫还有转音（热度：99694）
+<a href="https://s.weibo.com/weibo?q=%23LPL%E4%BA%8C%E5%8F%B7%E7%A7%8D%E5%AD%90%20LCK%E4%B8%80%E5%8F%B7%E7%A7%8D%E5%AD%90%23" target="weibo">
+LPL二号种子 LCK一号种子（热度：100262）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23LPL%E4%BA%8C%E5%8F%B7%E7%A7%8D%E5%AD%90%20LCK%E4%B8%80%E5%8F%B7%E7%A7%8D%E5%AD%90%23" target="weibo">
-LPL二号种子 LCK一号种子（热度：94612）
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%83%A8%E5%8F%AB%E8%BF%98%E6%9C%89%E8%BD%AC%E9%9F%B3%23" target="weibo">
+周深惨叫还有转音（热度：99694）
 </a>
 </li>
 
