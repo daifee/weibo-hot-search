@@ -1,6 +1,6 @@
 {
   "startTime": 1684426913140,
-  "endTime": 1684506816071,
+  "endTime": 1684509428168,
   "band_list": [
     {
       "raw_hot": 5109861,
@@ -59,6 +59,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2167394,
+      "num": 366858,
+      "word": "飞行员在女厕所偷拍乘务",
+      "onboard_time": 1684504953,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2148095,
       "num": 2148095,
       "word": "湿厕纸用多了原来会得病",
@@ -67,7 +75,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 2073967,
+      "raw_hot": 2093912,
       "num": 371049,
       "word": "印度夫妻在恒河中秀恩爱被网暴",
       "onboard_time": 1684503571,
@@ -105,14 +113,6 @@
       "onboard_time": 1684500990,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1876868,
-      "num": 366858,
-      "word": "飞行员在女厕所偷拍乘务",
-      "onboard_time": 1684504953,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1863623,
@@ -265,6 +265,14 @@
       "onboard_time": 1684471473,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1111754,
+      "num": 1111754,
+      "word": "BLG战胜GEN",
+      "onboard_time": 1684507421,
+      "rank": 0,
+      "category": "游戏"
     },
     {
       "raw_hot": 1078706,
@@ -499,6 +507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 564672,
+      "num": 351822,
+      "word": "米勒 中国人有自己的相公",
+      "onboard_time": 1684507775,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 563586,
       "num": 374250,
       "word": "宁安如梦宁有福了直播派对",
@@ -612,7 +628,7 @@
     },
     {
       "raw_hot": 496425,
-      "num": 246111,
+      "num": 276732,
       "word": "王源他急了",
       "onboard_time": 1684504471,
       "rank": 22,
@@ -851,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388121,
+      "num": 388121,
+      "word": "婚礼可以推迟但人命一刻都不能耽误",
+      "onboard_time": 1684506091,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 387393,
       "num": 289776,
       "word": "奔跑吧今晚带你游贵州",
@@ -875,6 +899,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 383124,
+      "num": 383124,
+      "word": "罗翔谈自律",
+      "onboard_time": 1684503511,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 382061,
       "num": 382061,
       "word": "宁安如梦苦果亦求版预告",
@@ -897,6 +929,14 @@
       "onboard_time": 1684450819,
       "rank": 18,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 377032,
+      "num": 377032,
+      "word": "Bin哥厉害",
+      "onboard_time": 1684506692,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 376062,
@@ -956,7 +996,7 @@
     },
     {
       "raw_hot": 364760,
-      "num": 240405,
+      "num": 272918,
       "word": "向往的生活",
       "onboard_time": 1684504831,
       "rank": 29,
@@ -1025,6 +1065,14 @@
       "onboard_time": 1684477707,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 340460,
+      "num": 246085,
+      "word": "Tabe跑错选手席庆祝",
+      "onboard_time": 1684508913,
+      "rank": 30,
+      "category": "游戏,游戏"
     },
     {
       "raw_hot": 330118,
@@ -1124,7 +1172,7 @@
     },
     {
       "raw_hot": 308273,
-      "num": 242506,
+      "num": 264628,
       "word": "白敬亭直播",
       "onboard_time": 1684504051,
       "rank": 26,
@@ -1187,6 +1235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 298094,
+      "num": 245907,
+      "word": "警方通报男子在高速服务区被撞身亡",
+      "onboard_time": 1684509031,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297533,
       "num": 297533,
       "word": "00后男生保送清华不做数学题就难受",
@@ -1244,7 +1300,7 @@
     },
     {
       "raw_hot": 284421,
-      "num": 241844,
+      "num": 269341,
       "word": "宁静上两次浪姐有点不情愿",
       "onboard_time": 1684503631,
       "rank": 27,
@@ -1427,6 +1483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 247456,
+      "num": 247456,
+      "word": "恒河",
+      "onboard_time": 1684508252,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246658,
       "num": 246658,
       "word": "T1不ban安妮",
@@ -1443,6 +1507,30 @@
       "category": "美食"
     },
     {
+      "raw_hot": 243942,
+      "num": 243942,
+      "word": "我对公司到底有多重要",
+      "onboard_time": 1684508612,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 243035,
+      "num": 243035,
+      "word": "这菜的公摊面积咋这么大",
+      "onboard_time": 1684507111,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 240295,
+      "num": 281994,
+      "word": "BLG对战GEN",
+      "onboard_time": 1684496610,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 239745,
       "num": 1980735,
       "word": "日照这家无声面馆真的太治愈了",
@@ -1457,14 +1545,6 @@
       "onboard_time": 1684471055,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 238057,
-      "num": 238057,
-      "word": "罗翔谈自律",
-      "onboard_time": 1684503511,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 238031,
@@ -1488,6 +1568,14 @@
       "word": "檀健次王楚然拥抱路透",
       "onboard_time": 1684460787,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 236761,
+      "num": 281460,
+      "word": "朱一龙靠上班解压",
+      "onboard_time": 1684508312,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -1619,6 +1707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 215221,
+      "num": 215221,
+      "word": "京城大师赛",
+      "onboard_time": 1684507894,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 214853,
       "num": 214853,
       "word": "JDG晋级MSI决赛",
@@ -1665,14 +1761,6 @@
       "onboard_time": 1684418608,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 204943,
-      "num": 204943,
-      "word": "BLG对战GEN",
-      "onboard_time": 1684496610,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 202827,
@@ -1737,6 +1825,22 @@
       "onboard_time": 1684450819,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191853,
+      "num": 191853,
+      "word": "BLG晋级败者组决赛",
+      "onboard_time": 1684508852,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 191775,
+      "num": 191775,
+      "word": "花样青春",
+      "onboard_time": 1684508733,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 191730,
@@ -1891,6 +1995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171659,
+      "num": 171659,
+      "word": "穿对衣服的蒋梦婕",
+      "onboard_time": 1684505971,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 170897,
       "num": 170897,
       "word": "管泽元",
@@ -1995,6 +2107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159436,
+      "num": 159436,
+      "word": "LPL时隔3147天再次零封LCK队伍",
+      "onboard_time": 1684509270,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158819,
       "num": 158819,
       "word": "公诉",
@@ -2009,14 +2129,6 @@
       "onboard_time": 1684481069,
       "rank": 38,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 157772,
-      "num": 185979,
-      "word": "Bin哥厉害",
-      "onboard_time": 1684506692,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 157670,
@@ -2088,14 +2200,6 @@
       "word": "假如外星人登陆地球",
       "onboard_time": 1684484429,
       "rank": 43,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 147658,
-      "num": 140037,
-      "word": "穿对衣服的蒋梦婕",
-      "onboard_time": 1684505971,
-      "rank": 42,
       "category": "作品衍生"
     },
     {
@@ -2315,14 +2419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 106267,
-      "num": 135004,
-      "word": "婚礼可以推迟但人命一刻都不能耽误",
-      "onboard_time": 1684506091,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104803,
       "num": 3507105,
       "word": "今天是中国旅游日",
@@ -2505,6 +2601,9 @@
     },
     {
       "word": "#习近平就如何建设中国—中亚命运共同体提出四个坚持#"
+    },
+    {
+      "word": "#习近平寄语中国—中亚六国美好明天#"
     }
   ]
 }
