@@ -1,6 +1,6 @@
 {
   "startTime": 1684426913140,
-  "endTime": 1684485200612,
+  "endTime": 1684487772561,
   "band_list": [
     {
       "raw_hot": 3283995,
@@ -107,6 +107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1352933,
+      "num": 894988,
+      "word": "洪晃",
+      "onboard_time": 1684486767,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1298900,
       "num": 1298900,
       "word": "胡锡进 我永远都为此自责",
@@ -203,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 888320,
+      "num": 888320,
+      "word": "上班以后情绪真的稳定了",
+      "onboard_time": 1684480590,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 885073,
       "num": 885073,
       "word": "鹿晗演唱会",
@@ -225,14 +241,6 @@
       "onboard_time": 1684469673,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 820330,
-      "num": 820330,
-      "word": "上班以后情绪真的稳定了",
-      "onboard_time": 1684480590,
-      "rank": 33,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 818912,
@@ -307,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 713242,
+      "num": 713242,
+      "word": "宁安如梦",
+      "onboard_time": 1684481548,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 686731,
       "num": 686731,
       "word": "T1和JDG决胜局",
@@ -321,14 +337,6 @@
       "onboard_time": 1684473873,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 646653,
-      "num": 646653,
-      "word": "宁安如梦",
-      "onboard_time": 1684481548,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 601490,
@@ -372,7 +380,7 @@
     },
     {
       "raw_hot": 531149,
-      "num": 200429,
+      "num": 236811,
       "word": "杨贵妃体重",
       "onboard_time": 1684483950,
       "rank": 21,
@@ -547,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 413540,
+      "num": 454251,
+      "word": "王建国程璐等均持股笑果文化",
+      "onboard_time": 1684482148,
+      "rank": 15,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 395401,
       "num": 395401,
       "word": "吴谢宇",
@@ -579,12 +595,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 383589,
-      "num": 454251,
-      "word": "王建国程璐等均持股笑果文化",
-      "onboard_time": 1684482148,
-      "rank": 15,
-      "category": "社会新闻,艺人"
+      "raw_hot": 382061,
+      "num": 382061,
+      "word": "宁安如梦苦果亦求版预告",
+      "onboard_time": 1684482211,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 380162,
@@ -601,6 +617,22 @@
       "onboard_time": 1684450819,
       "rank": 18,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 375174,
+      "num": 234386,
+      "word": "你经常穿同一双鞋吗",
+      "onboard_time": 1684486108,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 374484,
+      "num": 374484,
+      "word": "车辆坠河众人义无反顾跳河救人",
+      "onboard_time": 1684483470,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 373646,
@@ -795,12 +827,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 298587,
+      "num": 233201,
+      "word": "网友把TFBOYS头像文身上",
+      "onboard_time": 1684486168,
+      "rank": 23,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 297533,
       "num": 297533,
       "word": "00后男生保送清华不做数学题就难受",
       "onboard_time": 1684467206,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 295355,
+      "num": 230551,
+      "word": "登珠峰遇难者在最后时刻扔掉氧气罐",
+      "onboard_time": 1684485028,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292782,
@@ -817,14 +865,6 @@
       "onboard_time": 1684408169,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 289378,
-      "num": 258926,
-      "word": "宁安如梦苦果亦求版预告",
-      "onboard_time": 1684482211,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 285235,
@@ -971,6 +1011,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 255010,
+      "num": 255010,
+      "word": "被爸爸尊重是什么体验",
+      "onboard_time": 1684480827,
+      "rank": 39,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 252767,
       "num": 252767,
       "word": "王源在演唱会间隙录了个综艺",
@@ -1001,6 +1049,14 @@
       "onboard_time": 1684469913,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 239018,
+      "num": 189673,
+      "word": "徐怀钰一个人坐在角落里",
+      "onboard_time": 1684487310,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 238352,
@@ -1091,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226521,
+      "num": 226521,
+      "word": "张韶涵回应奔四还不结婚",
+      "onboard_time": 1684484488,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225806,
       "num": 225806,
       "word": "戛纳官方拍的龚俊粉丝",
@@ -1147,6 +1211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 211272,
+      "num": 211272,
+      "word": "日本民众高呼七国集团是战争元凶",
+      "onboard_time": 1684484309,
+      "rank": 49,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 208687,
       "num": 208687,
       "word": "毕业之前来看演唱会",
@@ -1179,14 +1251,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 201201,
-      "num": 201201,
-      "word": "车辆坠河众人义无反顾跳河救人",
-      "onboard_time": 1684483470,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197871,
       "num": 171910,
       "word": "张雨绮回应戛纳礼服丢了",
@@ -1195,20 +1259,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 196878,
-      "num": 196878,
-      "word": "被爸爸尊重是什么体验",
-      "onboard_time": 1684480827,
-      "rank": 39,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 194550,
       "num": 194550,
       "word": "周润发朱一龙领衔的端午档有多强",
       "onboard_time": 1684473272,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192941,
+      "num": 192941,
+      "word": "笑果",
+      "onboard_time": 1684487368,
+      "rank": 29,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 192387,
@@ -1313,14 +1377,6 @@
       "onboard_time": 1684461989,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 178269,
-      "num": 178269,
-      "word": "张韶涵回应奔四还不结婚",
-      "onboard_time": 1684484488,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 176778,
@@ -1507,6 +1563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 148444,
+      "num": 148444,
+      "word": "一句话教你工作犯错不挨骂",
+      "onboard_time": 1684486168,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148400,
       "num": 138058,
       "word": "假如外星人登陆地球",
@@ -1579,14 +1643,6 @@
       "category": "影视,时尚"
     },
     {
-      "raw_hot": 133101,
-      "num": 133101,
-      "word": "登珠峰遇难者在最后时刻扔掉氧气罐",
-      "onboard_time": 1684485028,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130457,
       "num": 130457,
       "word": "罗马晋级欧联决赛",
@@ -1627,12 +1683,12 @@
       "category": "艺人,美妆"
     },
     {
-      "raw_hot": 122311,
-      "num": 122311,
-      "word": "日本民众高呼七国集团是战争元凶",
-      "onboard_time": 1684484309,
-      "rank": 49,
-      "category": "社会新闻,军事"
+      "raw_hot": 119447,
+      "num": 119447,
+      "word": "见过世界上最小的鹿",
+      "onboard_time": 1684486049,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 118476,

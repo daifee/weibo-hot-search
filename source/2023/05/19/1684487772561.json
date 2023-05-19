@@ -1,0 +1,410 @@
+{
+  "runTime": 1684487772561,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1433020,
+        "num": 1433020,
+        "word": "湿厕纸用多了原来会得病",
+        "onboard_time": 1684478729,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 943193,
+        "num": 943193,
+        "word": "Amber第一",
+        "onboard_time": 1684472914,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79923,
+        "num": 897412,
+        "word": "今天是中国旅游日",
+        "onboard_time": 1684483587,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1352933,
+        "num": 894988,
+        "word": "洪晃",
+        "onboard_time": 1684486767,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 888320,
+        "num": 888320,
+        "word": "上班以后情绪真的稳定了",
+        "onboard_time": 1684480590,
+        "rank": 4,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 713242,
+        "num": 713242,
+        "word": "宁安如梦",
+        "onboard_time": 1684481548,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 580533,
+        "num": 580533,
+        "word": "同事一年存50万我失眠了",
+        "onboard_time": 1684469732,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 574204,
+        "num": 574204,
+        "word": "大四女生边上学边带娃成绩全班第一",
+        "onboard_time": 1684475969,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 491290,
+        "num": 491290,
+        "word": "谢娜评论包文婧微博",
+        "onboard_time": 1684472195,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413540,
+        "num": 413540,
+        "word": "王建国程璐等均持股笑果文化",
+        "onboard_time": 1684482148,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1498301,
+        "num": 412470,
+        "word": "唐嫣父亲接唐嫣女儿放学",
+        "onboard_time": 1684482026,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 948367,
+        "num": 409206,
+        "word": "YG在调查Jennie金泰亨照片散布者",
+        "onboard_time": 1684479026,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405500,
+        "num": 405500,
+        "word": "卡琳娜cos李泽言",
+        "onboard_time": 1684479809,
+        "rank": 12,
+        "category": "网红,游戏"
+      },
+      {
+        "raw_hot": 382061,
+        "num": 382061,
+        "word": "宁安如梦苦果亦求版预告",
+        "onboard_time": 1684482211,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 374484,
+        "num": 374484,
+        "word": "车辆坠河众人义无反顾跳河救人",
+        "onboard_time": 1684483470,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360581,
+        "num": 360581,
+        "word": "Ella再选吴倩",
+        "onboard_time": 1684476149,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286568,
+        "num": 286568,
+        "word": "徐怀钰说自己有愧疚感",
+        "onboard_time": 1684477048,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255010,
+        "num": 255010,
+        "word": "被爸爸尊重是什么体验",
+        "onboard_time": 1684480827,
+        "rank": 17,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 243132,
+        "num": 243132,
+        "word": "越野网红戳伤妻子眼睛后自杀身亡",
+        "onboard_time": 1684467089,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170307,
+        "num": 240911,
+        "word": "RA官宣Baolan加入",
+        "onboard_time": 1684480771,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 685833,
+        "num": 240428,
+        "word": "男子强奸大嫂出狱后还想报复",
+        "onboard_time": 1684467869,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524149,
+        "num": 236811,
+        "word": "杨贵妃体重",
+        "onboard_time": 1684483950,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375174,
+        "num": 234386,
+        "word": "你经常穿同一双鞋吗",
+        "onboard_time": 1684486108,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 298587,
+        "num": 233201,
+        "word": "网友把TFBOYS头像文身上",
+        "onboard_time": 1684486168,
+        "rank": 23,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 295355,
+        "num": 230551,
+        "word": "登珠峰遇难者在最后时刻扔掉氧气罐",
+        "onboard_time": 1684485028,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265173,
+        "num": 228786,
+        "word": "聚会剩的蛋糕打包后被父母砸了",
+        "onboard_time": 1684474409,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226521,
+        "num": 226521,
+        "word": "张韶涵回应奔四还不结婚",
+        "onboard_time": 1684484488,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219136,
+        "num": 219136,
+        "word": "张杰谢娜各忙各的",
+        "onboard_time": 1684480348,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211272,
+        "num": 211272,
+        "word": "日本民众高呼七国集团是战争元凶",
+        "onboard_time": 1684484309,
+        "rank": 28,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 192941,
+        "num": 192941,
+        "word": "笑果",
+        "onboard_time": 1684487368,
+        "rank": 29,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 239018,
+        "num": 189673,
+        "word": "徐怀钰一个人坐在角落里",
+        "onboard_time": 1684487310,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185575,
+        "num": 185575,
+        "word": "妻子输液还抱娃丈夫一旁玩手机",
+        "onboard_time": 1684482510,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175299,
+        "num": 175299,
+        "word": "张新成 李兰迪",
+        "onboard_time": 1684459348,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174710,
+        "num": 174710,
+        "word": "总算知道黄晓明有多高了",
+        "onboard_time": 1684463007,
+        "rank": 33,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 169499,
+        "num": 169499,
+        "word": "谢娜一公个人喜爱度第三",
+        "onboard_time": 1684471473,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160018,
+        "num": 160018,
+        "word": "吴谨言终于拍戏了",
+        "onboard_time": 1684476272,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153081,
+        "num": 153081,
+        "word": "乘风四大舞担",
+        "onboard_time": 1684478668,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151722,
+        "num": 151722,
+        "word": "坐地铁千万别靠这块玻璃",
+        "onboard_time": 1684471772,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148444,
+        "num": 148444,
+        "word": "一句话教你工作犯错不挨骂",
+        "onboard_time": 1684486168,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139503,
+        "num": 139503,
+        "word": "终于拒绝了爱蹭车的同事",
+        "onboard_time": 1684468712,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 152975,
+        "num": 139322,
+        "word": "宁安如梦真来了",
+        "onboard_time": 1684464090,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147162,
+        "num": 138756,
+        "word": "任嘉伦精修vs生图",
+        "onboard_time": 1684469975,
+        "rank": 41,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 143433,
+        "num": 138299,
+        "word": "刘亦菲红裙雕刻感大片",
+        "onboard_time": 1684467988,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 135302,
+        "num": 135302,
+        "word": "刘雅瑟两票都给了刘惜君",
+        "onboard_time": 1684482570,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132981,
+        "num": 132981,
+        "word": "Cat入选春季赛第二阵容",
+        "onboard_time": 1684482868,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120824,
+        "num": 120824,
+        "word": "美依礼芽赵丽娜的身高差",
+        "onboard_time": 1684477707,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119447,
+        "num": 119447,
+        "word": "见过世界上最小的鹿",
+        "onboard_time": 1684486049,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111273,
+        "num": 111273,
+        "word": "这么多人都想生龙宝宝吗",
+        "onboard_time": 1684471055,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110159,
+        "num": 110159,
+        "word": "恢复台湾居民来大陆团队游",
+        "onboard_time": 1684470033,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 99607,
+        "num": 110152,
+        "word": "吴谢宇弑母案二审择期宣判",
+        "onboard_time": 1684479448,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#北京冬奥会官方电影北京2022#"
+    }
+  }
+}
