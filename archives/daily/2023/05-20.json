@@ -1,6 +1,6 @@
 {
   "startTime": 1684513305148,
-  "endTime": 1684535604896,
+  "endTime": 1684538210662,
   "band_list": [
     {
       "raw_hot": 1956208,
@@ -35,6 +35,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 1060315,
+      "num": 1060315,
+      "word": "520",
+      "onboard_time": 1684514363,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 858490,
       "num": 802677,
       "word": "刘诗诗Angelababy同框",
@@ -59,11 +67,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 600929,
-      "num": 600929,
-      "word": "520",
-      "onboard_time": 1684514363,
-      "rank": 1,
+      "raw_hot": 776149,
+      "num": 776149,
+      "word": "他在海上就这么飘了14天",
+      "onboard_time": 1684513106,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -83,14 +91,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 454196,
-      "num": 454196,
-      "word": "他在海上就这么飘了14天",
-      "onboard_time": 1684513106,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 436497,
       "num": 436497,
       "word": "LPL时隔3147天再次零封LCK队伍",
@@ -107,6 +107,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 433043,
+      "num": 433043,
+      "word": "亲属自述2岁男童被外婆打成重伤",
+      "onboard_time": 1684513644,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 404119,
       "num": 334692,
       "word": "Amber没有选芝芙",
@@ -115,20 +123,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 389352,
-      "num": 389352,
-      "word": "亲属自述2岁男童被外婆打成重伤",
-      "onboard_time": 1684513644,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 372690,
       "num": 372690,
       "word": "张雨绮看到凯特布兰切特的反应",
       "onboard_time": 1684510411,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 349800,
+      "num": 349800,
+      "word": "520和521哪个更能代表我爱你",
+      "onboard_time": 1684536677,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309343,
@@ -379,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120793,
+      "num": 120793,
+      "word": "情侣之间有必要过520吗",
+      "onboard_time": 1684536857,
+      "rank": 18,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 120757,
       "num": 120757,
       "word": "白敬亭直播",
@@ -435,12 +451,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 100262,
-      "num": 100262,
+      "raw_hot": 107002,
+      "num": 107002,
       "word": "LPL二号种子 LCK一号种子",
       "onboard_time": 1684517599,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 102306,
+      "num": 86266,
+      "word": "目击者讲述济南服务区撞人事故",
+      "onboard_time": 1684537217,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99694,
@@ -451,12 +475,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91298,
+      "num": 91298,
+      "word": "老人保护孙子砍伤闹事者判正当防卫",
+      "onboard_time": 1684529891,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90995,
+      "num": 90995,
+      "word": "SEVENTEEN将出演花样青春",
+      "onboard_time": 1684536857,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 86557,
+      "num": 86557,
+      "word": "哪个瞬间你觉得自己该离职了",
+      "onboard_time": 1684537759,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 75536,
       "num": 75536,
       "word": "笑果",
       "onboard_time": 1684487368,
       "rank": 41,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 72369,
+      "num": 72369,
+      "word": "便利店女店员遭男子多次殴打",
+      "onboard_time": 1684523653,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65766,
@@ -467,11 +523,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 65293,
-      "num": 58002,
-      "word": "老人保护孙子砍伤闹事者判正当防卫",
-      "onboard_time": 1684529891,
-      "rank": 37,
+      "raw_hot": 62170,
+      "num": 62170,
+      "word": "谁家大熊猫吃笋只吃笋尖尖",
+      "onboard_time": 1684538122,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -483,16 +539,24 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 40742,
-      "num": 40742,
-      "word": "便利店女店员遭男子多次殴打",
-      "onboard_time": 1684523653,
-      "rank": 25,
+      "raw_hot": 51018,
+      "num": 51018,
+      "word": "病人咬舌民警将手放其嘴里数十秒",
+      "onboard_time": 1684537878,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35946,
-      "num": 35946,
+      "raw_hot": 48950,
+      "num": 48950,
+      "word": "原来减脂餐可以这么好吃",
+      "onboard_time": 1684536798,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 48595,
+      "num": 48595,
       "word": "ALin抢到了朱珠",
       "onboard_time": 1684532293,
       "rank": 38,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1684538210662,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1060315,
+        "num": 1060315,
+        "word": "520",
+        "onboard_time": 1684514363,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 776149,
+        "num": 776149,
+        "word": "他在海上就这么飘了14天",
+        "onboard_time": 1684513106,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41365,
+        "num": 581897,
+        "word": "语文课本里的中国有多美",
+        "onboard_time": 1684502791,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433043,
+        "num": 433043,
+        "word": "亲属自述2岁男童被外婆打成重伤",
+        "onboard_time": 1684513644,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361320,
+        "num": 361320,
+        "word": "明日最幸运的星座",
+        "onboard_time": 1684511848,
+        "rank": 4,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 349800,
+        "num": 349800,
+        "word": "520和521哪个更能代表我爱你",
+        "onboard_time": 1684536677,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328307,
+        "num": 328307,
+        "word": "警方通报外卖员当街猥亵外国女子",
+        "onboard_time": 1684510051,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300069,
+        "num": 300069,
+        "word": "张雨绮看到凯特布兰切特的反应",
+        "onboard_time": 1684510411,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246340,
+        "num": 246340,
+        "word": "米勒 中国人有自己的相公",
+        "onboard_time": 1684507775,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183695,
+        "num": 183695,
+        "word": "刘诗诗Angelababy同框",
+        "onboard_time": 1684500990,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1167009,
+        "num": 176323,
+        "word": "飞行员在女厕所偷拍乘务",
+        "onboard_time": 1684504953,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 686945,
+        "num": 171787,
+        "word": "厦门航空",
+        "onboard_time": 1684510469,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610970,
+        "num": 171045,
+        "word": "警方通报男子在高速服务区被撞身亡",
+        "onboard_time": 1684509031,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165815,
+        "num": 165815,
+        "word": "浪姐4二公结果",
+        "onboard_time": 1684501530,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165715,
+        "num": 165715,
+        "word": "Amber没有选芝芙",
+        "onboard_time": 1684512509,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156092,
+        "num": 156092,
+        "word": "婚礼可以推迟但人命一刻都不能耽误",
+        "onboard_time": 1684506091,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122751,
+        "num": 122751,
+        "word": "你才不是没人要的小猫咪",
+        "onboard_time": 1684513344,
+        "rank": 16,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 122474,
+        "num": 122474,
+        "word": "张雨绮戛纳晚宴",
+        "onboard_time": 1684489650,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120793,
+        "num": 120793,
+        "word": "情侣之间有必要过520吗",
+        "onboard_time": 1684536857,
+        "rank": 18,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 107002,
+        "num": 107002,
+        "word": "LPL二号种子 LCK一号种子",
+        "onboard_time": 1684517599,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 275543,
+        "num": 105760,
+        "word": "原来子宫比鸡蛋还要小",
+        "onboard_time": 1684495831,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117176,
+        "num": 105299,
+        "word": "你减不减肥其实没什么区别",
+        "onboard_time": 1684500630,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115164,
+        "num": 102981,
+        "word": "郑元畅说和林依晨拍吻戏要开两个口",
+        "onboard_time": 1684497810,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111786,
+        "num": 102234,
+        "word": "这菜的公摊面积咋这么大",
+        "onboard_time": 1684507111,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101124,
+        "num": 101124,
+        "word": "男朋友送了束假花给我",
+        "onboard_time": 1684510650,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93180,
+        "num": 93180,
+        "word": "郑容和回韩国了",
+        "onboard_time": 1684499668,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91298,
+        "num": 91298,
+        "word": "老人保护孙子砍伤闹事者判正当防卫",
+        "onboard_time": 1684529891,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90995,
+        "num": 90995,
+        "word": "SEVENTEEN将出演花样青春",
+        "onboard_time": 1684536857,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89790,
+        "num": 89790,
+        "word": "一年存多少钱才有安全感",
+        "onboard_time": 1684496371,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86557,
+        "num": 86557,
+        "word": "哪个瞬间你觉得自己该离职了",
+        "onboard_time": 1684537759,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102306,
+        "num": 86266,
+        "word": "目击者讲述济南服务区撞人事故",
+        "onboard_time": 1684537217,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72369,
+        "num": 72369,
+        "word": "便利店女店员遭男子多次殴打",
+        "onboard_time": 1684523653,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69356,
+        "num": 69356,
+        "word": "Tabe跑错选手席庆祝",
+        "onboard_time": 1684508913,
+        "rank": 32,
+        "category": "游戏,游戏"
+      },
+      {
+        "raw_hot": 67760,
+        "num": 67760,
+        "word": "王源他急了",
+        "onboard_time": 1684504471,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67331,
+        "num": 67331,
+        "word": "澳洲钉子户拒绝2.3亿拆迁款",
+        "onboard_time": 1684488208,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66272,
+        "num": 66272,
+        "word": "哈工大回应为学生结婚开绿灯",
+        "onboard_time": 1684492651,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 62170,
+        "num": 62170,
+        "word": "谁家大熊猫吃笋只吃笋尖尖",
+        "onboard_time": 1684538122,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61342,
+        "num": 61342,
+        "word": "向往的生活",
+        "onboard_time": 1684504831,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60749,
+        "num": 60749,
+        "word": "全网都在寻找的张嘉倪化妆师",
+        "onboard_time": 1684510351,
+        "rank": 38,
+        "category": "美妆,作品衍生"
+      },
+      {
+        "raw_hot": 58251,
+        "num": 58251,
+        "word": "LPL时隔3147天再次零封LCK队伍",
+        "onboard_time": 1684509270,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 55188,
+        "num": 55188,
+        "word": "宁静上两次浪姐有点不情愿",
+        "onboard_time": 1684503631,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54441,
+        "num": 54441,
+        "word": "与凤行",
+        "onboard_time": 1684513047,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53167,
+        "num": 53167,
+        "word": "张杰彩排",
+        "onboard_time": 1684503030,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 51713,
+        "num": 51713,
+        "word": "你比G2还好打",
+        "onboard_time": 1684510769,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 51018,
+        "num": 51018,
+        "word": "病人咬舌民警将手放其嘴里数十秒",
+        "onboard_time": 1684537878,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50722,
+        "num": 50722,
+        "word": "白敬亭直播",
+        "onboard_time": 1684504051,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49780,
+        "num": 49780,
+        "word": "徐怀钰一个人坐在角落里",
+        "onboard_time": 1684487310,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48950,
+        "num": 48950,
+        "word": "原来减脂餐可以这么好吃",
+        "onboard_time": 1684536798,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 48595,
+        "num": 48595,
+        "word": "ALin抢到了朱珠",
+        "onboard_time": 1684532293,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47324,
+        "num": 47324,
+        "word": "柳智敏戴了粉丝送的项链",
+        "onboard_time": 1684512749,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平寄语中国—中亚六国美好明天#"
+    }
+  }
+}
