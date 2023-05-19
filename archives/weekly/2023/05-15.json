@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684503213973,
+  "endTime": 1684505714984,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1923961,
+      "num": 371049,
+      "word": "印度夫妻在恒河中秀恩爱被网暴",
+      "onboard_time": 1684503571,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1923600,
       "num": 601718,
       "word": "迪丽热巴未修原档生图",
@@ -779,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1548785,
+      "num": 1548785,
+      "word": "广西11死车祸9人系越南籍",
+      "onboard_time": 1684501830,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1545860,
       "num": 560341,
       "word": "陈楚河",
@@ -1035,19 +1051,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1353075,
+      "num": 293996,
+      "word": "原来子宫比鸡蛋还要小",
+      "onboard_time": 1684495831,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1352022,
       "num": 1352022,
       "word": "和认识七年的好朋友在一起了",
       "onboard_time": 1684112426,
       "rank": 9,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 1350151,
-      "num": 293996,
-      "word": "原来子宫比鸡蛋还要小",
-      "onboard_time": 1684495831,
-      "rank": 48,
       "category": "情感"
     },
     {
@@ -1577,6 +1593,14 @@
       "onboard_time": 1684105399,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 958151,
+      "num": 958151,
+      "word": "浪姐4二公结果",
+      "onboard_time": 1684501530,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 957366,
@@ -2443,6 +2467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 605847,
+      "num": 366858,
+      "word": "飞行员在女厕所偷拍乘务",
+      "onboard_time": 1684504953,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 605752,
       "num": 469004,
       "word": "杨紫大波浪怼脸拍",
@@ -2563,12 +2595,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 578522,
-      "num": 578522,
-      "word": "浪姐4二公结果",
-      "onboard_time": 1684501530,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 580438,
+      "num": 289502,
+      "word": "你减不减肥其实没什么区别",
+      "onboard_time": 1684500630,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 577969,
@@ -2667,6 +2699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 555825,
+      "num": 359562,
+      "word": "济南服务区一轿车高速行驶撞飞路人",
+      "onboard_time": 1684502190,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 553527,
       "num": 553527,
       "word": "周冬雨刘昊然屈楚萧雪地躺平",
@@ -2691,28 +2731,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 549851,
-      "num": 228766,
-      "word": "广西11死车祸9人系越南籍",
-      "onboard_time": 1684501830,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 547276,
       "num": 289012,
       "word": "张凌赫说的改天是哪天",
       "onboard_time": 1684498771,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 546604,
-      "num": 289502,
-      "word": "你减不减肥其实没什么区别",
-      "onboard_time": 1684500630,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 544765,
@@ -3161,6 +3185,14 @@
       "onboard_time": 1684208307,
       "rank": 17,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 475947,
+      "num": 246111,
+      "word": "王源他急了",
+      "onboard_time": 1684504471,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 475421,
@@ -3651,6 +3683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 427621,
+      "num": 245190,
+      "word": "华晨宇直播打游戏",
+      "onboard_time": 1684504592,
+      "rank": 23,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 427225,
       "num": 427225,
       "word": "面试时HR让我写一百个一",
@@ -3817,6 +3857,14 @@
       "onboard_time": 1684301913,
       "rank": 25,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 409784,
+      "num": 409784,
+      "word": "哈工大回应为学生结婚开绿灯",
+      "onboard_time": 1684492651,
+      "rank": 29,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 409382,
@@ -4403,14 +4451,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 358884,
-      "num": 358884,
-      "word": "哈工大回应为学生结婚开绿灯",
-      "onboard_time": 1684492651,
-      "rank": 29,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 358322,
       "num": 271604,
       "word": "初中同学成我导师了",
@@ -4441,6 +4481,14 @@
       "onboard_time": 1684214430,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 354127,
+      "num": 354127,
+      "word": "登珠峰遇难者在最后时刻扔掉氧气罐",
+      "onboard_time": 1684485028,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 353453,
@@ -4827,14 +4875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 320957,
-      "num": 298735,
-      "word": "登珠峰遇难者在最后时刻扔掉氧气罐",
-      "onboard_time": 1684485028,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 320792,
       "num": 320792,
       "word": "管泽元",
@@ -5059,6 +5099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 308273,
+      "num": 242506,
+      "word": "白敬亭直播",
+      "onboard_time": 1684504051,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 307860,
       "num": 307860,
       "word": "装了个80厘米高的床",
@@ -5121,14 +5169,6 @@
       "onboard_time": 1684469975,
       "rank": 38,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 302857,
-      "num": 318104,
-      "word": "济南服务区一轿车高速行驶撞飞路人",
-      "onboard_time": 1684502190,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 302798,
@@ -5435,6 +5475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284421,
+      "num": 241844,
+      "word": "宁静上两次浪姐有点不情愿",
+      "onboard_time": 1684503631,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284383,
       "num": 272787,
       "word": "王一博开赛车路透",
@@ -5696,6 +5744,14 @@
       "word": "Angelababy张大大压马路",
       "onboard_time": 1684467930,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 269980,
+      "num": 240405,
+      "word": "向往的生活",
+      "onboard_time": 1684504831,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -7339,6 +7395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204943,
+      "num": 204943,
+      "word": "BLG对战GEN",
+      "onboard_time": 1684496610,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204352,
       "num": 204352,
       "word": "赵露思cos蜂蜜狗造型花絮",
@@ -7420,7 +7484,7 @@
     },
     {
       "raw_hot": 201667,
-      "num": 150419,
+      "num": 194183,
       "word": "张杰彩排",
       "onboard_time": 1684503030,
       "rank": 36,
@@ -7561,14 +7625,6 @@
       "onboard_time": 1684217250,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 195880,
-      "num": 195880,
-      "word": "BLG对战GEN",
-      "onboard_time": 1684496610,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 195658,
@@ -7785,6 +7841,14 @@
       "onboard_time": 1684238973,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189573,
+      "num": 194227,
+      "word": "罗翔谈自律",
+      "onboard_time": 1684503511,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 189554,
@@ -8793,6 +8857,14 @@
       "onboard_time": 1684112067,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 160026,
+      "num": 160026,
+      "word": "上海申花1比1北京国安",
+      "onboard_time": 1684505010,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 159825,
@@ -9931,6 +10003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124770,
+      "num": 848519,
+      "word": "语文课本里的中国有多美",
+      "onboard_time": 1684502791,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124011,
       "num": 169501,
       "word": "华为手表60s做10项健康微体检",
@@ -10905,14 +10985,6 @@
       "onboard_time": 1684058066,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 31742,
-      "num": 584585,
-      "word": "语文课本里的中国有多美",
-      "onboard_time": 1684502791,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31333,
