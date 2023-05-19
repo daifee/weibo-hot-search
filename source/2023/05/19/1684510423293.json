@@ -1,0 +1,410 @@
+{
+  "runTime": 1684510423293,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1208734,
+        "num": 1208734,
+        "word": "警方通报男子在高速服务区被撞身亡",
+        "onboard_time": 1684509031,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 907038,
+        "num": 907038,
+        "word": "浪姐4二公结果",
+        "onboard_time": 1684501530,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113785,
+        "num": 826590,
+        "word": "语文课本里的中国有多美",
+        "onboard_time": 1684502791,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1289939,
+        "num": 816618,
+        "word": "刘诗诗Angelababy同框",
+        "onboard_time": 1684500990,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 797150,
+        "num": 797150,
+        "word": "米勒 中国人有自己的相公",
+        "onboard_time": 1684507775,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 733005,
+        "num": 733005,
+        "word": "BLG战胜GEN",
+        "onboard_time": 1684507421,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 465496,
+        "num": 465496,
+        "word": "Tabe跑错选手席庆祝",
+        "onboard_time": 1684508913,
+        "rank": 6,
+        "category": "游戏,游戏"
+      },
+      {
+        "raw_hot": 460375,
+        "num": 460375,
+        "word": "婚礼可以推迟但人命一刻都不能耽误",
+        "onboard_time": 1684506091,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381449,
+        "num": 381449,
+        "word": "澳洲钉子户拒绝2.3亿拆迁款",
+        "onboard_time": 1684488208,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337199,
+        "num": 337199,
+        "word": "上班以后情绪真的稳定了",
+        "onboard_time": 1684480590,
+        "rank": 9,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 2038564,
+        "num": 335531,
+        "word": "飞行员在女厕所偷拍乘务",
+        "onboard_time": 1684504953,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1886697,
+        "num": 330333,
+        "word": "印度夫妻在恒河中秀恩爱被网暴",
+        "onboard_time": 1684503571,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1070606,
+        "num": 328741,
+        "word": "广西11死车祸9人系越南籍",
+        "onboard_time": 1684501830,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358607,
+        "num": 323078,
+        "word": "济南服务区一轿车高速行驶撞飞路人",
+        "onboard_time": 1684502190,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320410,
+        "num": 320410,
+        "word": "张雨绮戛纳晚宴",
+        "onboard_time": 1684489650,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299740,
+        "num": 299740,
+        "word": "Bin哥厉害",
+        "onboard_time": 1684506692,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 295704,
+        "num": 295704,
+        "word": "罗翔谈自律",
+        "onboard_time": 1684503511,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281405,
+        "num": 281405,
+        "word": "郑容和回韩国了",
+        "onboard_time": 1684499668,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 279241,
+        "num": 279241,
+        "word": "徐怀钰一个人坐在角落里",
+        "onboard_time": 1684487310,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244244,
+        "num": 244244,
+        "word": "LPL时隔3147天再次零封LCK队伍",
+        "onboard_time": 1684509270,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1201901,
+        "num": 243562,
+        "word": "原来子宫比鸡蛋还要小",
+        "onboard_time": 1684495831,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 391083,
+        "num": 241402,
+        "word": "向往的生活",
+        "onboard_time": 1684504831,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376279,
+        "num": 239362,
+        "word": "王源他急了",
+        "onboard_time": 1684504471,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374433,
+        "num": 236949,
+        "word": "你减不减肥其实没什么区别",
+        "onboard_time": 1684500630,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 331154,
+        "num": 234665,
+        "word": "洪晃",
+        "onboard_time": 1684486767,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 251427,
+        "num": 232559,
+        "word": "这菜的公摊面积咋这么大",
+        "onboard_time": 1684507111,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 245970,
+        "num": 230164,
+        "word": "我对公司到底有多重要",
+        "onboard_time": 1684508612,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229419,
+        "num": 229419,
+        "word": "宁静上两次浪姐有点不情愿",
+        "onboard_time": 1684503631,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227414,
+        "num": 227414,
+        "word": "哈工大回应为学生结婚开绿灯",
+        "onboard_time": 1684492651,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 226255,
+        "num": 226255,
+        "word": "张凌赫说的改天是哪天",
+        "onboard_time": 1684498771,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208121,
+        "num": 208121,
+        "word": "郑元畅说和林依晨拍吻戏要开两个口",
+        "onboard_time": 1684497810,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200692,
+        "num": 200692,
+        "word": "白敬亭直播",
+        "onboard_time": 1684504051,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198319,
+        "num": 198319,
+        "word": "恒河",
+        "onboard_time": 1684508252,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184043,
+        "num": 195191,
+        "word": "恭喜BLG",
+        "onboard_time": 1684509697,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194271,
+        "num": 194271,
+        "word": "张杰彩排",
+        "onboard_time": 1684503030,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194080,
+        "num": 194080,
+        "word": "同事让我给他看工资条后悔了",
+        "onboard_time": 1684491331,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185293,
+        "num": 185293,
+        "word": "庾澄庆方否认心脏病恶化",
+        "onboard_time": 1684489829,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183873,
+        "num": 183873,
+        "word": "警方通报外卖员当街猥亵外国女子",
+        "onboard_time": 1684510051,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180598,
+        "num": 180598,
+        "word": "李秀满来北京了",
+        "onboard_time": 1684490666,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173674,
+        "num": 173674,
+        "word": "YG新女团生图",
+        "onboard_time": 1684496072,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167280,
+        "num": 167280,
+        "word": "登珠峰遇难者在最后时刻扔掉氧气罐",
+        "onboard_time": 1684485028,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165909,
+        "num": 165909,
+        "word": "唐嫣父亲接唐嫣女儿放学",
+        "onboard_time": 1684482026,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164632,
+        "num": 164632,
+        "word": "一年存多少钱才有安全感",
+        "onboard_time": 1684496371,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155307,
+        "num": 155307,
+        "word": "华晨宇直播打游戏",
+        "onboard_time": 1684504592,
+        "rank": 43,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 150923,
+        "num": 150923,
+        "word": "穿对衣服的蒋梦婕",
+        "onboard_time": 1684505971,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146010,
+        "num": 146010,
+        "word": "全网都在寻找的张嘉倪化妆师",
+        "onboard_time": 1684510351,
+        "rank": 45,
+        "category": "美妆,作品衍生"
+      },
+      {
+        "raw_hot": 143744,
+        "num": 143744,
+        "word": "奔跑吧",
+        "onboard_time": 1684498771,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143131,
+        "num": 143131,
+        "word": "BLG晋级败者组决赛",
+        "onboard_time": 1684508852,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137820,
+        "num": 137820,
+        "word": "花样青春",
+        "onboard_time": 1684508733,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136625,
+        "num": 136625,
+        "word": "张雨绮看到凯特布兰切特的反应",
+        "onboard_time": 1684510411,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主持中国—中亚峰会圆桌峰会#"
+    }
+  }
+}

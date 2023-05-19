@@ -1,6 +1,6 @@
 {
   "startTime": 1684426913140,
-  "endTime": 1684509428168,
+  "endTime": 1684510423293,
   "band_list": [
     {
       "raw_hot": 5109861,
@@ -243,6 +243,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 1208734,
+      "num": 1208734,
+      "word": "警方通报男子在高速服务区被撞身亡",
+      "onboard_time": 1684509031,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1201977,
       "num": 1201977,
       "word": "包文婧回应谢娜三万梗",
@@ -427,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 797150,
+      "num": 797150,
+      "word": "米勒 中国人有自己的相公",
+      "onboard_time": 1684507775,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 770380,
       "num": 770380,
       "word": "广西一车辆翻下路边悬崖11人遇难",
@@ -505,14 +521,6 @@
       "onboard_time": 1684471772,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 564672,
-      "num": 351822,
-      "word": "米勒 中国人有自己的相公",
-      "onboard_time": 1684507775,
-      "rank": 12,
-      "category": "游戏"
     },
     {
       "raw_hot": 563586,
@@ -715,6 +723,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465496,
+      "num": 465496,
+      "word": "Tabe跑错选手席庆祝",
+      "onboard_time": 1684508913,
+      "rank": 30,
+      "category": "游戏,游戏"
+    },
+    {
+      "raw_hot": 460375,
+      "num": 460375,
+      "word": "婚礼可以推迟但人命一刻都不能耽误",
+      "onboard_time": 1684506091,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 458913,
       "num": 458913,
       "word": "印尼警方发布巴厘岛命案调查细节",
@@ -867,12 +891,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 388121,
-      "num": 388121,
-      "word": "婚礼可以推迟但人命一刻都不能耽误",
-      "onboard_time": 1684506091,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 391083,
+      "num": 272918,
+      "word": "向往的生活",
+      "onboard_time": 1684504831,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 387393,
@@ -995,14 +1019,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 364760,
-      "num": 272918,
-      "word": "向往的生活",
-      "onboard_time": 1684504831,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 363226,
       "num": 363226,
       "word": "优酷6至8月备播剧",
@@ -1065,14 +1081,6 @@
       "onboard_time": 1684477707,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 340460,
-      "num": 246085,
-      "word": "Tabe跑错选手席庆祝",
-      "onboard_time": 1684508913,
-      "rank": 30,
-      "category": "游戏,游戏"
     },
     {
       "raw_hot": 330118,
@@ -1233,14 +1241,6 @@
       "onboard_time": 1684462168,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 298094,
-      "num": 245907,
-      "word": "警方通报男子在高速服务区被撞身亡",
-      "onboard_time": 1684509031,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297533,
@@ -1475,6 +1475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 251427,
+      "num": 243035,
+      "word": "这菜的公摊面积咋这么大",
+      "onboard_time": 1684507111,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 251182,
       "num": 210625,
       "word": "曾黎穿了一个红灯笼",
@@ -1507,7 +1515,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 243942,
+      "raw_hot": 245970,
       "num": 243942,
       "word": "我对公司到底有多重要",
       "onboard_time": 1684508612,
@@ -1515,12 +1523,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 243035,
-      "num": 243035,
-      "word": "这菜的公摊面积咋这么大",
-      "onboard_time": 1684507111,
-      "rank": 33,
-      "category": "幽默"
+      "raw_hot": 244244,
+      "num": 244244,
+      "word": "LPL时隔3147天再次零封LCK队伍",
+      "onboard_time": 1684509270,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 240295,
@@ -1883,6 +1891,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184043,
+      "num": 195191,
+      "word": "恭喜BLG",
+      "onboard_time": 1684509697,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 183873,
+      "num": 183873,
+      "word": "警方通报外卖员当街猥亵外国女子",
+      "onboard_time": 1684510051,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183362,
       "num": 183362,
       "word": "最近演唱会好多啊",
@@ -2107,14 +2131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159436,
-      "num": 159436,
-      "word": "LPL时隔3147天再次零封LCK队伍",
-      "onboard_time": 1684509270,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 158819,
       "num": 158819,
       "word": "公诉",
@@ -2211,6 +2227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146010,
+      "num": 146010,
+      "word": "全网都在寻找的张嘉倪化妆师",
+      "onboard_time": 1684510351,
+      "rank": 45,
+      "category": "美妆,作品衍生"
+    },
+    {
       "raw_hot": 144605,
       "num": 144605,
       "word": "那英马嘉祺一起回北京",
@@ -2289,6 +2313,14 @@
       "onboard_time": 1684498169,
       "rank": 46,
       "category": "科技"
+    },
+    {
+      "raw_hot": 136625,
+      "num": 136625,
+      "word": "张雨绮看到凯特布兰切特的反应",
+      "onboard_time": 1684510411,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 135787,
