@@ -1,6 +1,6 @@
 {
   "startTime": 1684426913140,
-  "endTime": 1684487772561,
+  "endTime": 1684488811906,
   "band_list": [
     {
       "raw_hot": 3283995,
@@ -9,6 +9,14 @@
       "onboard_time": 1684467869,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2953371,
+      "num": 991036,
+      "word": "洪晃",
+      "onboard_time": 1684486767,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2928566,
@@ -107,14 +115,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1352933,
-      "num": 894988,
-      "word": "洪晃",
-      "onboard_time": 1684486767,
-      "rank": 3,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1298900,
       "num": 1298900,
       "word": "胡锡进 我永远都为此自责",
@@ -145,6 +145,14 @@
       "onboard_time": 1684417829,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1179543,
+      "num": 1179543,
+      "word": "上班以后情绪真的稳定了",
+      "onboard_time": 1684480590,
+      "rank": 33,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 1151533,
@@ -211,14 +219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 888320,
-      "num": 888320,
-      "word": "上班以后情绪真的稳定了",
-      "onboard_time": 1684480590,
-      "rank": 33,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 885073,
       "num": 885073,
       "word": "鹿晗演唱会",
@@ -283,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 797438,
+      "num": 797438,
+      "word": "宁安如梦",
+      "onboard_time": 1684481548,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 770380,
       "num": 770380,
       "word": "广西一车辆翻下路边悬崖11人遇难",
@@ -313,14 +321,6 @@
       "onboard_time": 1684477048,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 713242,
-      "num": 713242,
-      "word": "宁安如梦",
-      "onboard_time": 1684481548,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 686731,
@@ -377,6 +377,14 @@
       "onboard_time": 1684422393,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 538038,
+      "num": 367383,
+      "word": "徐怀钰一个人坐在角落里",
+      "onboard_time": 1684487310,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 531149,
@@ -507,6 +515,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 451703,
+      "num": 234386,
+      "word": "你经常穿同一双鞋吗",
+      "onboard_time": 1684486108,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 447559,
       "num": 227193,
       "word": "赵丽颖含泪和粉丝挥手",
@@ -619,14 +635,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 375174,
-      "num": 234386,
-      "word": "你经常穿同一双鞋吗",
-      "onboard_time": 1684486108,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 374484,
       "num": 374484,
       "word": "车辆坠河众人义无反顾跳河救人",
@@ -657,6 +665,14 @@
       "onboard_time": 1684453648,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 365351,
+      "num": 233201,
+      "word": "网友把TFBOYS头像文身上",
+      "onboard_time": 1684486168,
+      "rank": 23,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 363226,
@@ -721,6 +737,14 @@
       "onboard_time": 1684464687,
       "rank": 18,
       "category": "幽默,时尚"
+    },
+    {
+      "raw_hot": 320957,
+      "num": 230551,
+      "word": "登珠峰遇难者在最后时刻扔掉氧气罐",
+      "onboard_time": 1684485028,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 320307,
@@ -827,14 +851,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 298587,
-      "num": 233201,
-      "word": "网友把TFBOYS头像文身上",
-      "onboard_time": 1684486168,
-      "rank": 23,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 297533,
       "num": 297533,
       "word": "00后男生保送清华不做数学题就难受",
@@ -843,12 +859,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 295355,
-      "num": 230551,
-      "word": "登珠峰遇难者在最后时刻扔掉氧气罐",
-      "onboard_time": 1684485028,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 296155,
+      "num": 188978,
+      "word": "龚俊和洪晃合照闭眼了",
+      "onboard_time": 1684488328,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 292782,
@@ -963,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263183,
+      "num": 192941,
+      "word": "笑果",
+      "onboard_time": 1684487368,
+      "rank": 29,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 260372,
       "num": 260372,
       "word": "95岁老师病床上跟医生讨价还价",
@@ -1035,6 +1059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 252265,
+      "num": 185861,
+      "word": "澳洲钉子户拒绝2.3亿拆迁款",
+      "onboard_time": 1684488208,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246658,
       "num": 246658,
       "word": "T1不ban安妮",
@@ -1049,14 +1081,6 @@
       "onboard_time": 1684469913,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 239018,
-      "num": 189673,
-      "word": "徐怀钰一个人坐在角落里",
-      "onboard_time": 1684487310,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 238352,
@@ -1163,6 +1187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 223069,
+      "num": 211272,
+      "word": "日本民众高呼七国集团是战争元凶",
+      "onboard_time": 1684484309,
+      "rank": 49,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 219878,
       "num": 219878,
       "word": "别对我动心杀青",
@@ -1211,14 +1243,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 211272,
-      "num": 211272,
-      "word": "日本民众高呼七国集团是战争元凶",
-      "onboard_time": 1684484309,
-      "rank": 49,
-      "category": "社会新闻,军事"
-    },
-    {
       "raw_hot": 208687,
       "num": 208687,
       "word": "毕业之前来看演唱会",
@@ -1265,14 +1289,6 @@
       "onboard_time": 1684473272,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 192941,
-      "num": 192941,
-      "word": "笑果",
-      "onboard_time": 1684487368,
-      "rank": 29,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 192387,
@@ -1547,6 +1563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156716,
+      "num": 156716,
+      "word": "五哈团送惊喜没一个成功的",
+      "onboard_time": 1684488149,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151476,
       "num": 151476,
       "word": "大唐芙蓉园",
@@ -1659,12 +1683,28 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 128169,
+      "num": 128169,
+      "word": "宁安如梦定档即开播",
+      "onboard_time": 1684488687,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 127282,
       "num": 127282,
       "word": "2023MSI胜者组决赛",
       "onboard_time": 1684426823,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 126132,
+      "num": 126132,
+      "word": "服务区",
+      "onboard_time": 1684488508,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125441,
@@ -1740,7 +1780,7 @@
     },
     {
       "raw_hot": 104803,
-      "num": 933729,
+      "num": 994877,
       "word": "今天是中国旅游日",
       "onboard_time": 1684483587,
       "rank": 2,
