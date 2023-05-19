@@ -1,10 +1,10 @@
 {
   "startTime": 1684513305148,
-  "endTime": 1684513305148,
+  "endTime": 1684514218203,
   "band_list": [
     {
-      "raw_hot": 1893171,
-      "num": 305578,
+      "raw_hot": 1956208,
+      "num": 312404,
       "word": "飞行员在女厕所偷拍乘务",
       "onboard_time": 1684504953,
       "rank": 10,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1236146,
+      "num": 1236146,
+      "word": "明日最幸运的星座",
+      "onboard_time": 1684511848,
+      "rank": 5,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 858490,
       "num": 802677,
       "word": "刘诗诗Angelababy同框",
@@ -41,14 +49,6 @@
       "onboard_time": 1684507775,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 787587,
-      "num": 787587,
-      "word": "明日最幸运的星座",
-      "onboard_time": 1684511848,
-      "rank": 5,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 776344,
@@ -67,8 +67,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 446093,
-      "num": 299707,
+      "raw_hot": 473773,
+      "num": 473773,
       "word": "警方通报外卖员当街猥亵外国女子",
       "onboard_time": 1684510051,
       "rank": 11,
@@ -81,6 +81,14 @@
       "onboard_time": 1684509270,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 404119,
+      "num": 310184,
+      "word": "Amber没有选芝芙",
+      "onboard_time": 1684512509,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 372690,
@@ -107,12 +115,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 283738,
-      "num": 283738,
-      "word": "Amber没有选芝芙",
-      "onboard_time": 1684512509,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 279214,
+      "num": 160854,
+      "word": "与凤行",
+      "onboard_time": 1684513047,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 276877,
@@ -123,20 +131,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 271873,
-      "num": 184327,
-      "word": "你减不减肥其实没什么区别",
-      "onboard_time": 1684500630,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 268470,
+      "raw_hot": 273144,
       "num": 183561,
       "word": "全网都在寻找的张嘉倪化妆师",
       "onboard_time": 1684510351,
       "rank": 22,
       "category": "美妆,作品衍生"
+    },
+    {
+      "raw_hot": 272412,
+      "num": 184327,
+      "word": "你减不减肥其实没什么区别",
+      "onboard_time": 1684500630,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 260335,
@@ -153,6 +161,14 @@
       "onboard_time": 1684499668,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 243704,
+      "num": 181966,
+      "word": "男朋友送了束假花给我",
+      "onboard_time": 1684510650,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 231058,
@@ -187,12 +203,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 214598,
-      "num": 181966,
-      "word": "男朋友送了束假花给我",
-      "onboard_time": 1684510650,
-      "rank": 25,
-      "category": "幽默"
+      "raw_hot": 190427,
+      "num": 154769,
+      "word": "他在海上就这么飘了14天",
+      "onboard_time": 1684513106,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186121,
@@ -243,12 +259,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152089,
-      "num": 152089,
-      "word": "与凤行",
-      "onboard_time": 1684513047,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 152246,
+      "num": 152246,
+      "word": "你才不是没人要的小猫咪",
+      "onboard_time": 1684513344,
+      "rank": 31,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 150681,
@@ -265,6 +281,14 @@
       "onboard_time": 1684503631,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144342,
+      "num": 160911,
+      "word": "恒河",
+      "onboard_time": 1684508252,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139147,
@@ -291,6 +315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131506,
+      "num": 131506,
+      "word": "亲属自述2岁男童被外婆打成重伤",
+      "onboard_time": 1684513644,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129697,
       "num": 129697,
       "word": "Bin哥厉害",
@@ -313,14 +345,6 @@
       "onboard_time": 1684512323,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 124748,
-      "num": 124748,
-      "word": "恒河",
-      "onboard_time": 1684508252,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120837,
@@ -347,12 +371,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 119415,
+      "num": 119415,
+      "word": "穿对衣服的蒋梦婕",
+      "onboard_time": 1684505971,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 115730,
       "num": 115730,
       "word": "同事让我给他看工资条后悔了",
       "onboard_time": 1684491331,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113322,
+      "num": 113322,
+      "word": "薛之谦郑州",
+      "onboard_time": 1684513706,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 113083,
@@ -363,12 +403,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 108345,
-      "num": 108345,
-      "word": "他在海上就这么飘了14天",
-      "onboard_time": 1684513106,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 107921,
+      "num": 107921,
+      "word": "你比G2还好打",
+      "onboard_time": 1684510769,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 107765,
@@ -377,14 +417,6 @@
       "onboard_time": 1684513047,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105684,
-      "num": 105684,
-      "word": "穿对衣服的蒋梦婕",
-      "onboard_time": 1684505971,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 99694,
@@ -396,7 +428,7 @@
     },
     {
       "raw_hot": 65766,
-      "num": 809644,
+      "num": 817907,
       "word": "语文课本里的中国有多美",
       "onboard_time": 1684502791,
       "rank": 2,
@@ -406,6 +438,9 @@
   "hotgov_list": [
     {
       "word": "#习近平主持中国—中亚峰会圆桌峰会#"
+    },
+    {
+      "word": "#习近平寄语中国—中亚六国美好明天#"
     }
   ]
 }

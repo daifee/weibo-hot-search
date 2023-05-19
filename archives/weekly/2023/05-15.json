@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684513305148,
+  "endTime": 1684514218203,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -1219,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1236146,
+      "num": 1236146,
+      "word": "明日最幸运的星座",
+      "onboard_time": 1684511848,
+      "rank": 5,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 1221403,
       "num": 1221403,
       "word": "有退休金与没退休金的直观展示",
@@ -2009,14 +2017,6 @@
       "onboard_time": 1684454969,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 787587,
-      "num": 787587,
-      "word": "明日最幸运的星座",
-      "onboard_time": 1684511848,
-      "rank": 5,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 775629,
@@ -3259,6 +3259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 473773,
+      "num": 473773,
+      "word": "警方通报外卖员当街猥亵外国女子",
+      "onboard_time": 1684510051,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 473572,
       "num": 473572,
       "word": "欢迎台湾同胞来大陆旅游",
@@ -3569,14 +3577,6 @@
       "onboard_time": 1684410748,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 446093,
-      "num": 299707,
-      "word": "警方通报外卖员当街猥亵外国女子",
-      "onboard_time": 1684510051,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 445878,
@@ -3969,6 +3969,14 @@
       "onboard_time": 1684136308,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 404119,
+      "num": 310184,
+      "word": "Amber没有选芝芙",
+      "onboard_time": 1684512509,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 402279,
@@ -5627,14 +5635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 283738,
-      "num": 283738,
-      "word": "Amber没有选芝芙",
-      "onboard_time": 1684512509,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 283188,
       "num": 283188,
       "word": "刘雅瑟微博含姐量",
@@ -5747,6 +5747,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 279214,
+      "num": 160854,
+      "word": "与凤行",
+      "onboard_time": 1684513047,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 278697,
       "num": 278697,
       "word": "毛晓彤把物料提前发了",
@@ -5835,6 +5843,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 273144,
+      "num": 183561,
+      "word": "全网都在寻找的张嘉倪化妆师",
+      "onboard_time": 1684510351,
+      "rank": 45,
+      "category": "美妆,作品衍生"
+    },
+    {
       "raw_hot": 272386,
       "num": 272386,
       "word": "光与夜之恋",
@@ -5905,14 +5921,6 @@
       "onboard_time": 1684154127,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 268470,
-      "num": 183561,
-      "word": "全网都在寻找的张嘉倪化妆师",
-      "onboard_time": 1684510351,
-      "rank": 45,
-      "category": "美妆,作品衍生"
     },
     {
       "raw_hot": 268296,
@@ -6457,6 +6465,14 @@
       "onboard_time": 1684380212,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 243704,
+      "num": 181966,
+      "word": "男朋友送了束假花给我",
+      "onboard_time": 1684510650,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 243000,
@@ -7307,14 +7323,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 214598,
-      "num": 181966,
-      "word": "男朋友送了束假花给我",
-      "onboard_time": 1684510650,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 214351,
       "num": 170086,
       "word": "蒋奇明FENDI",
@@ -8017,6 +8025,14 @@
       "onboard_time": 1684408891,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190427,
+      "num": 154769,
+      "word": "他在海上就这么飘了14天",
+      "onboard_time": 1684513106,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190118,
@@ -9347,12 +9363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 152089,
-      "num": 152089,
-      "word": "与凤行",
-      "onboard_time": 1684513047,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 152246,
+      "num": 152246,
+      "word": "你才不是没人要的小猫咪",
+      "onboard_time": 1684513344,
+      "rank": 31,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 151982,
@@ -10051,6 +10067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 131506,
+      "num": 131506,
+      "word": "亲属自述2岁男童被外婆打成重伤",
+      "onboard_time": 1684513644,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131044,
       "num": 131044,
       "word": "他好像真的想教会我离职",
@@ -10371,6 +10395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 113322,
+      "num": 113322,
+      "word": "薛之谦郑州",
+      "onboard_time": 1684513706,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 112813,
       "num": 112813,
       "word": "公交司机跪地背腿脚不便老人上车",
@@ -10419,12 +10451,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 108345,
-      "num": 108345,
-      "word": "他在海上就这么飘了14天",
-      "onboard_time": 1684513106,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 107921,
+      "num": 107921,
+      "word": "你比G2还好打",
+      "onboard_time": 1684510769,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 107886,
