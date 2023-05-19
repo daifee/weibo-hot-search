@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684460905466,
+  "endTime": 1684463675323,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -451,6 +451,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1785114,
+      "num": 502416,
+      "word": "张新成 李兰迪",
+      "onboard_time": 1684459348,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1766315,
       "num": 1365676,
       "word": "新版四大甜妹",
@@ -739,6 +747,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1494449,
+      "num": 1494449,
+      "word": "劝大家不要去尝试群演行业",
+      "onboard_time": 1684460548,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1463938,
       "num": 606892,
       "word": "张若昀左手拿汉堡右手牵唐艺昕",
@@ -1009,14 +1025,6 @@
       "onboard_time": 1684147289,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1209908,
-      "num": 502416,
-      "word": "张新成 李兰迪",
-      "onboard_time": 1684459348,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 1201558,
@@ -1451,6 +1459,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 908496,
+      "num": 908496,
+      "word": "妹妹患癌前后1年全家人对比",
+      "onboard_time": 1684422451,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 904275,
       "num": 904275,
       "word": "办公室一天讲不了2句话",
@@ -1715,6 +1731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 741886,
+      "num": 741886,
+      "word": "杨幂戴头花",
+      "onboard_time": 1684458028,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 738729,
       "num": 738729,
       "word": "孟羽童图文广告报价至少15万一条",
@@ -1833,14 +1857,6 @@
       "onboard_time": 1684295672,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 694734,
-      "num": 694734,
-      "word": "妹妹患癌前后1年全家人对比",
-      "onboard_time": 1684422451,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 693807,
@@ -2467,14 +2483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 508967,
-      "num": 508967,
-      "word": "杨幂戴头花",
-      "onboard_time": 1684458028,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 507664,
       "num": 507664,
       "word": "知音漫客休刊",
@@ -2883,6 +2891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 454275,
+      "num": 454275,
+      "word": "女孩特爱哭被送去唱戏拿了金奖",
+      "onboard_time": 1684459527,
+      "rank": 15,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 451223,
       "num": 257699,
       "word": "说一个十年都没有涨过价的东西",
@@ -3057,6 +3073,14 @@
       "onboard_time": 1684228169,
       "rank": 29,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 438048,
+      "num": 438048,
+      "word": "德云社",
+      "onboard_time": 1684462406,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 437423,
@@ -3299,6 +3323,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 400864,
+      "num": 400864,
+      "word": "詹姆斯 脱手",
+      "onboard_time": 1684460310,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 400837,
       "num": 400837,
       "word": "相思令",
@@ -3329,6 +3361,14 @@
       "onboard_time": 1684127312,
       "rank": 34,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 398682,
+      "num": 199536,
+      "word": "总算知道黄晓明有多高了",
+      "onboard_time": 1684463007,
+      "rank": 30,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 398483,
@@ -3369,6 +3409,14 @@
       "onboard_time": 1684328131,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 395401,
+      "num": 395401,
+      "word": "吴谢宇",
+      "onboard_time": 1684457849,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 395094,
@@ -3473,14 +3521,6 @@
       "onboard_time": 1684221869,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 384561,
-      "num": 384561,
-      "word": "女孩特爱哭被送去唱戏拿了金奖",
-      "onboard_time": 1684459527,
-      "rank": 15,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 384532,
@@ -4163,6 +4203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 318475,
+      "num": 318475,
+      "word": "公司空调打消了我离职的念头",
+      "onboard_time": 1684460367,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 317356,
       "num": 317356,
       "word": "爱豆什么时候可以谈恋爱",
@@ -4267,14 +4315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 308579,
-      "num": 308579,
-      "word": "詹姆斯 脱手",
-      "onboard_time": 1684460310,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 308528,
       "num": 308528,
       "word": "黄晓明跳刘畊宏健身操演我",
@@ -4321,14 +4361,6 @@
       "onboard_time": 1684423111,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 305624,
-      "num": 305624,
-      "word": "吴谢宇",
-      "onboard_time": 1684457849,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 305163,
@@ -4387,6 +4419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299810,
+      "num": 299810,
+      "word": "五月天",
+      "onboard_time": 1684462168,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 298082,
       "num": 298082,
       "word": "桃花坞",
@@ -4443,12 +4483,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 294307,
-      "num": 218322,
-      "word": "劝大家不要去尝试群演行业",
-      "onboard_time": 1684460548,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 294763,
+      "num": 294763,
+      "word": "陈清华包着你睡是什么意思",
+      "onboard_time": 1684463426,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 293262,
@@ -4699,6 +4739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 279699,
+      "num": 195174,
+      "word": "因为拉肚子直接瘦了6斤",
+      "onboard_time": 1684463368,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 279574,
       "num": 279574,
       "word": "徐佳莹领跑入围金曲奖",
@@ -4795,14 +4843,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 272212,
-      "num": 272212,
-      "word": "公司空调打消了我离职的念头",
-      "onboard_time": 1684460367,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 271628,
       "num": 271628,
       "word": "速度与激情11",
@@ -4833,6 +4873,14 @@
       "onboard_time": 1684378229,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 269118,
+      "num": 269118,
+      "word": "汪小敏ins唯一关注是赵丽娜",
+      "onboard_time": 1684431677,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 268753,
@@ -5059,6 +5107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256953,
+      "num": 256953,
+      "word": "想把驾校里的教练车买下来",
+      "onboard_time": 1684460426,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 256888,
       "num": 256888,
       "word": "张雨绮女儿情商",
@@ -5201,14 +5257,6 @@
       "onboard_time": 1684141707,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 248209,
-      "num": 248209,
-      "word": "汪小敏ins唯一关注是赵丽娜",
-      "onboard_time": 1684431677,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 247871,
@@ -5416,6 +5464,14 @@
       "word": "朱一龙亮相戛纳红毯",
       "onboard_time": 1684256123,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 236770,
+      "num": 236770,
+      "word": "檀健次王楚然拥抱路透",
+      "onboard_time": 1684460787,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -5721,6 +5777,14 @@
       "onboard_time": 1684294954,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 223773,
+      "num": 223773,
+      "word": "巩俐戛纳红色裤装",
+      "onboard_time": 1684458508,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 223672,
@@ -6267,6 +6331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203116,
+      "num": 203116,
+      "word": "工资翻倍你会离开体制吗",
+      "onboard_time": 1684463246,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202989,
       "num": 202989,
       "word": "龚俊到达戛纳",
@@ -6291,14 +6363,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 202177,
-      "num": 202177,
-      "word": "想把驾校里的教练车买下来",
-      "onboard_time": 1684460426,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 201921,
       "num": 201921,
       "word": "大爷纯手工修两双鞋仅收4元",
@@ -6313,6 +6377,14 @@
       "onboard_time": 1684221630,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201612,
+      "num": 201612,
+      "word": "戛纳官方拍的龚俊粉丝",
+      "onboard_time": 1684462466,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 201521,
@@ -6393,14 +6465,6 @@
       "onboard_time": 1684372351,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198380,
-      "num": 198380,
-      "word": "巩俐戛纳红色裤装",
-      "onboard_time": 1684458508,
-      "rank": 34,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 198332,
@@ -6627,6 +6691,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190705,
+      "num": 190705,
+      "word": "付国豪",
+      "onboard_time": 1684463307,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190156,
+      "num": 190156,
+      "word": "毕业之前来看演唱会",
+      "onboard_time": 1684462947,
+      "rank": 33,
+      "category": "音乐,情感"
+    },
+    {
       "raw_hot": 190118,
       "num": 220886,
       "word": "游戏还原老年痴呆患者眼中的世界",
@@ -6737,6 +6817,14 @@
       "onboard_time": 1684166607,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 187352,
+      "num": 187352,
+      "word": "王源在演唱会间隙录了个综艺",
+      "onboard_time": 1684463307,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 187276,
@@ -6867,12 +6955,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 182347,
+      "num": 182347,
+      "word": "我要逆风去剧组赢很大",
+      "onboard_time": 1684462287,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182302,
       "num": 182302,
       "word": "民警救援受伤大灰狼双方都很慌",
       "onboard_time": 1684366647,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182218,
+      "num": 182218,
+      "word": "玩游戏时骂人违法吗",
+      "onboard_time": 1684460486,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 182005,
@@ -7097,6 +7201,14 @@
       "onboard_time": 1684364719,
       "rank": 37,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 175903,
+      "num": 175903,
+      "word": "金大川晒九宫格为雎晓雯庆生",
+      "onboard_time": 1684461989,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 175871,
@@ -7705,14 +7817,6 @@
       "onboard_time": 1684367065,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153256,
-      "num": 153256,
-      "word": "檀健次王楚然拥抱路透",
-      "onboard_time": 1684460787,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 153221,
@@ -8848,14 +8952,6 @@
       "word": "第五人格",
       "onboard_time": 1684307068,
       "rank": 49,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 100590,
-      "num": 141242,
-      "word": "玩游戏时骂人违法吗",
-      "onboard_time": 1684460486,
-      "rank": 48,
       "category": "游戏"
     },
     {
