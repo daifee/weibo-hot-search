@@ -1,0 +1,410 @@
+{
+  "runTime": 1684470012044,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1071319,
+        "num": 1346442,
+        "word": "宁安如梦真来了",
+        "onboard_time": 1684464090,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1588261,
+        "num": 1340508,
+        "word": "劝大家不要去尝试群演行业",
+        "onboard_time": 1684460548,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41136,
+        "num": 1223138,
+        "word": "夏收夏种丰收图景徐徐展开",
+        "onboard_time": 1684467569,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2718260,
+        "num": 1206089,
+        "word": "浙江通报6男子参加同性淫乱聚会",
+        "onboard_time": 1684464508,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1628613,
+        "num": 1105477,
+        "word": "笑果公开招聘多个岗位",
+        "onboard_time": 1684467089,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1093352,
+        "num": 1093352,
+        "word": "总算知道黄晓明有多高了",
+        "onboard_time": 1684463007,
+        "rank": 5,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 885073,
+        "num": 885073,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1684467448,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 855430,
+        "num": 855430,
+        "word": "蔡徐坤澳门演唱会开票",
+        "onboard_time": 1684469673,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 808326,
+        "num": 808326,
+        "word": "刘亦菲红裙雕刻感大片",
+        "onboard_time": 1684467988,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 530583,
+        "num": 530583,
+        "word": "放太久的鞋子就别穿了",
+        "onboard_time": 1684454849,
+        "rank": 9,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 1319036,
+        "num": 529782,
+        "word": "张新成 李兰迪",
+        "onboard_time": 1684459348,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 901801,
+        "num": 524891,
+        "word": "越野网红戳伤妻子眼睛后自杀身亡",
+        "onboard_time": 1684467089,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518990,
+        "num": 518990,
+        "word": "钟楚曦戛纳红毯东方美人",
+        "onboard_time": 1684452623,
+        "rank": 12,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 469242,
+        "num": 469242,
+        "word": "吴谢宇狱友称其大部分时间在写东西",
+        "onboard_time": 1684466669,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425498,
+        "num": 425498,
+        "word": "杨幂戴头花",
+        "onboard_time": 1684458028,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3283995,
+        "num": 413739,
+        "word": "男子强奸大嫂出狱后还想报复",
+        "onboard_time": 1684467869,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392012,
+        "num": 392012,
+        "word": "终于拒绝了爱蹭车的同事",
+        "onboard_time": 1684468712,
+        "rank": 16,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 391362,
+        "num": 391362,
+        "word": "医生用一根针帮患癌老人冻死肿瘤",
+        "onboard_time": 1684452743,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385868,
+        "num": 385868,
+        "word": "李诞仍是笑果文化股东",
+        "onboard_time": 1684464568,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 378376,
+        "num": 378376,
+        "word": "广西一车辆翻下路边悬崖11人遇难",
+        "onboard_time": 1684469613,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379599,
+        "num": 377983,
+        "word": "因为拉肚子直接瘦了6斤",
+        "onboard_time": 1684463368,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 375647,
+        "num": 375647,
+        "word": "孟美岐北京演唱会官宣",
+        "onboard_time": 1684467569,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 372293,
+        "num": 372293,
+        "word": "德云社",
+        "onboard_time": 1684462406,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359857,
+        "num": 359857,
+        "word": "掘金2比0湖人",
+        "onboard_time": 1684466490,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297533,
+        "num": 297533,
+        "word": "00后男生保送清华不做数学题就难受",
+        "onboard_time": 1684467206,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 277573,
+        "num": 277573,
+        "word": "现在的童装和女装",
+        "onboard_time": 1684464687,
+        "rank": 25,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 147151,
+        "num": 272697,
+        "word": "像极了我在团队中的样子",
+        "onboard_time": 1684468829,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 270904,
+        "num": 270904,
+        "word": "Angelababy张大大压马路",
+        "onboard_time": 1684467930,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270155,
+        "num": 270155,
+        "word": "欢迎台湾同胞来大陆旅游",
+        "onboard_time": 1684469312,
+        "rank": 28,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 264520,
+        "num": 264520,
+        "word": "下个月你工资卡里或将多一笔钱",
+        "onboard_time": 1684420412,
+        "rank": 29,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 252876,
+        "num": 252876,
+        "word": "妹妹患癌前后1年全家人对比",
+        "onboard_time": 1684422451,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252717,
+        "num": 252717,
+        "word": "墨雨云间",
+        "onboard_time": 1684469372,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246369,
+        "num": 246369,
+        "word": "付国豪",
+        "onboard_time": 1684463307,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245361,
+        "num": 245361,
+        "word": "同事一年存50万我失眠了",
+        "onboard_time": 1684469732,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243367,
+        "num": 243367,
+        "word": "詹姆斯老了",
+        "onboard_time": 1684469010,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222442,
+        "num": 222442,
+        "word": "公司空调打消了我离职的念头",
+        "onboard_time": 1684460367,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214590,
+        "num": 214590,
+        "word": "四斤的小猫却有五斤的脾气",
+        "onboard_time": 1684465048,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 203599,
+        "num": 203599,
+        "word": "光与夜之恋",
+        "onboard_time": 1684469853,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202363,
+        "num": 202363,
+        "word": "任嘉伦精修vs生图",
+        "onboard_time": 1684469975,
+        "rank": 38,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 201874,
+        "num": 201874,
+        "word": "工资翻倍你会离开体制吗",
+        "onboard_time": 1684463246,
+        "rank": 39,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 193207,
+        "num": 193207,
+        "word": "芭莎拍的胡一天张婧仪",
+        "onboard_time": 1684464987,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 191598,
+        "num": 191598,
+        "word": "G社拍的龚俊",
+        "onboard_time": 1684454969,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186702,
+        "num": 186702,
+        "word": "王源在演唱会间隙录了个综艺",
+        "onboard_time": 1684463307,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176778,
+        "num": 176778,
+        "word": "2023德班世乒赛",
+        "onboard_time": 1684468890,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175440,
+        "num": 175440,
+        "word": "惜花芷",
+        "onboard_time": 1684468829,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169551,
+        "num": 169551,
+        "word": "重庆居然还有折耳根千层",
+        "onboard_time": 1684469913,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164633,
+        "num": 164633,
+        "word": "管泽元你还敢给别人当伴郎",
+        "onboard_time": 1684466609,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158819,
+        "num": 158819,
+        "word": "公诉",
+        "onboard_time": 1684467869,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155200,
+        "num": 155200,
+        "word": "当男朋友问你520要什么礼物",
+        "onboard_time": 1684466848,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 148675,
+        "num": 148675,
+        "word": "小太阳",
+        "onboard_time": 1684466429,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国—中亚峰会时光#"
+    }
+  }
+}
