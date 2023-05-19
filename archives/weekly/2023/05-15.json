@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684474406064,
+  "endTime": 1684477288476,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -273,6 +273,14 @@
       "onboard_time": 1684292370,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2293807,
+      "num": 592587,
+      "word": "浙江",
+      "onboard_time": 1684471595,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2283969,
@@ -971,14 +979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1299856,
-      "num": 592587,
-      "word": "浙江",
-      "onboard_time": 1684471595,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1292451,
       "num": 1292451,
       "word": "格力官方回应孟羽童离职",
@@ -1219,6 +1219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1108256,
+      "num": 1108256,
+      "word": "谢娜一公个人喜爱度第三",
+      "onboard_time": 1684471473,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1107175,
       "num": 1107175,
       "word": "男子被女友怀疑出轨竟从12楼跳下",
@@ -1329,14 +1337,6 @@
       "onboard_time": 1684310370,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1039760,
-      "num": 1039760,
-      "word": "谢娜一公个人喜爱度第三",
-      "onboard_time": 1684471473,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1031613,
@@ -1739,6 +1739,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 805976,
+      "num": 805976,
+      "word": "谢娜评论包文婧微博",
+      "onboard_time": 1684472195,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 804899,
       "num": 473827,
       "word": "我把公公的退休金搞没了",
@@ -1980,7 +1988,7 @@
     },
     {
       "raw_hot": 698665,
-      "num": 337529,
+      "num": 509194,
       "word": "Amber第一",
       "onboard_time": 1684472914,
       "rank": 21,
@@ -2017,6 +2025,14 @@
       "onboard_time": 1684423528,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 684100,
+      "num": 684100,
+      "word": "一公排名",
+      "onboard_time": 1684473873,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 683248,
@@ -2331,14 +2347,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 586300,
-      "num": 586300,
-      "word": "谢娜评论包文婧微博",
-      "onboard_time": 1684472195,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 585744,
       "num": 362025,
       "word": "倪妮GUCCI",
@@ -2585,6 +2593,14 @@
       "onboard_time": 1684370430,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 519848,
+      "num": 519848,
+      "word": "坐地铁千万别靠这块玻璃",
+      "onboard_time": 1684471772,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 519156,
@@ -3827,6 +3843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 373646,
+      "num": 331865,
+      "word": "惜花芷官宣 张婧仪胡一天平番",
+      "onboard_time": 1684473033,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 373596,
       "num": 358335,
       "word": "笑果被罚对脱口秀行业影响大吗",
@@ -3883,12 +3907,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 369555,
-      "num": 339800,
-      "word": "坐地铁千万别靠这块玻璃",
-      "onboard_time": 1684471772,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 368776,
+      "num": 246397,
+      "word": "Ella再选吴倩",
+      "onboard_time": 1684476149,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 368124,
@@ -4009,6 +4033,14 @@
       "onboard_time": 1684135169,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 357039,
+      "num": 238400,
+      "word": "聚会剩的蛋糕打包后被父母砸了",
+      "onboard_time": 1684474409,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 355662,
@@ -4137,14 +4169,6 @@
       "onboard_time": 1684233451,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 342480,
-      "num": 342480,
-      "word": "一公排名",
-      "onboard_time": 1684473873,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 340812,
@@ -4291,14 +4315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 331865,
-      "num": 331865,
-      "word": "惜花芷官宣 张婧仪胡一天平番",
-      "onboard_time": 1684473033,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 329528,
       "num": 329528,
       "word": "唐山警方回应农妇袭警案",
@@ -4435,6 +4451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 320307,
+      "num": 318546,
+      "word": "嫡嫁千金改名墨雨云间",
+      "onboard_time": 1684472135,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 320176,
       "num": 320176,
       "word": "陈乔恩为奶牛猫发声",
@@ -4457,14 +4481,6 @@
       "onboard_time": 1684136909,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 318546,
-      "num": 318546,
-      "word": "嫡嫁千金改名墨雨云间",
-      "onboard_time": 1684472135,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 317356,
@@ -4673,6 +4689,14 @@
       "onboard_time": 1684247135,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 302223,
+      "num": 234485,
+      "word": "乘风二公选曲组队",
+      "onboard_time": 1684476028,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 301883,
@@ -5137,6 +5161,14 @@
       "onboard_time": 1684167325,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 272625,
+      "num": 231076,
+      "word": "吴谨言终于拍戏了",
+      "onboard_time": 1684476272,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 272386,
@@ -5875,6 +5907,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 234780,
+      "num": 265386,
+      "word": "山东专升本",
+      "onboard_time": 1684476348,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 234688,
       "num": 234688,
       "word": "巩俐戛纳红色裤装",
@@ -6161,6 +6201,14 @@
       "onboard_time": 1684319498,
       "rank": 47,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 223960,
+      "num": 223960,
+      "word": "大四女生边上学边带娃成绩全班第一",
+      "onboard_time": 1684475969,
+      "rank": 28,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 223797,
@@ -6633,6 +6681,14 @@
       "onboard_time": 1684462947,
       "rank": 33,
       "category": "音乐,情感"
+    },
+    {
+      "raw_hot": 207869,
+      "num": 207869,
+      "word": "妈妈偷喝饮料后倒上醋被儿子一口喝下",
+      "onboard_time": 1684476475,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207781,
@@ -7803,6 +7859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169794,
+      "num": 169794,
+      "word": "谢娜二公唱面纱",
+      "onboard_time": 1684475669,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169684,
       "num": 169684,
       "word": "王鹤棣王传君看起来真的不聪明",
@@ -8675,6 +8739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141361,
+      "num": 141361,
+      "word": "徐怀钰说自己有愧疚感",
+      "onboard_time": 1684477048,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141360,
       "num": 127942,
       "word": "浪姐4冠军预测",
@@ -9227,6 +9299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111865,
+      "num": 111865,
+      "word": "朱一龙躺在枯木上",
+      "onboard_time": 1684474713,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 110942,
       "num": 110942,
       "word": "跟男朋友偷偷领证后很焦虑",
@@ -9321,6 +9401,14 @@
       "onboard_time": 1684106362,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105631,
+      "num": 105631,
+      "word": "中国旅游日",
+      "onboard_time": 1684477226,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 105314,
@@ -10166,6 +10254,9 @@
     },
     {
       "word": "#中国—中亚峰会#"
+    },
+    {
+      "word": "#北京冬奥会官方电影北京2022#"
     }
   ]
 }
