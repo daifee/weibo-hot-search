@@ -1,6 +1,6 @@
 {
   "startTime": 1684426913140,
-  "endTime": 1684480528408,
+  "endTime": 1684481611925,
   "band_list": [
     {
       "raw_hot": 3283995,
@@ -35,20 +35,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2148095,
+      "num": 2148095,
+      "word": "湿厕纸用多了原来会得病",
+      "onboard_time": 1684478729,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2059071,
       "num": 1283522,
       "word": "笑果公开招聘多个岗位",
       "onboard_time": 1684467089,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1959525,
-      "num": 1959525,
-      "word": "湿厕纸用多了原来会得病",
-      "onboard_time": 1684478729,
-      "rank": 0,
-      "category": "情感"
     },
     {
       "raw_hot": 1863623,
@@ -83,6 +83,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1430738,
+      "num": 560385,
+      "word": "YG在调查Jennie金泰亨照片散布者",
+      "onboard_time": 1684479026,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1418107,
       "num": 1418107,
       "word": "Faker",
@@ -107,12 +115,12 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 1211558,
-      "num": 507103,
-      "word": "YG在调查Jennie金泰亨照片散布者",
-      "onboard_time": 1684479026,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 1259238,
+      "num": 1259238,
+      "word": "胡锡进 我永远都为此自责",
+      "onboard_time": 1684478908,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1201977,
@@ -267,12 +275,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 717006,
-      "num": 717006,
-      "word": "胡锡进 我永远都为此自责",
-      "onboard_time": 1684478908,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 764936,
+      "num": 764936,
+      "word": "大四女生边上学边带娃成绩全班第一",
+      "onboard_time": 1684475969,
+      "rank": 28,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 714107,
@@ -299,12 +307,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 617255,
-      "num": 617255,
-      "word": "大四女生边上学边带娃成绩全班第一",
-      "onboard_time": 1684475969,
-      "rank": 28,
-      "category": "社会新闻,教育"
+      "raw_hot": 605210,
+      "num": 313801,
+      "word": "宁安如梦",
+      "onboard_time": 1684481548,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 577045,
+      "num": 577045,
+      "word": "卡琳娜cos李泽言",
+      "onboard_time": 1684479809,
+      "rank": 31,
+      "category": "网红,游戏"
     },
     {
       "raw_hot": 576750,
@@ -500,7 +516,7 @@
     },
     {
       "raw_hot": 412670,
-      "num": 254988,
+      "num": 312672,
       "word": "Ella再选吴倩",
       "onboard_time": 1684476149,
       "rank": 22,
@@ -540,7 +556,7 @@
     },
     {
       "raw_hot": 380162,
-      "num": 252423,
+      "num": 311366,
       "word": "聚会剩的蛋糕打包后被父母砸了",
       "onboard_time": 1684474409,
       "rank": 23,
@@ -561,6 +577,14 @@
       "onboard_time": 1684473033,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 366725,
+      "num": 227548,
+      "word": "RA官宣Baolan加入",
+      "onboard_time": 1684480771,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 365834,
@@ -585,6 +609,14 @@
       "onboard_time": 1684466490,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 350499,
+      "num": 350499,
+      "word": "吴谢宇弑母案二审择期宣判",
+      "onboard_time": 1684479448,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350329,
@@ -763,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283785,
+      "num": 283785,
+      "word": "张杰谢娜各忙各的",
+      "onboard_time": 1684480348,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282889,
       "num": 282889,
       "word": "三十能解决的事忍了十年",
@@ -819,28 +859,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 265377,
-      "num": 265377,
-      "word": "徐静蕾方辟谣",
-      "onboard_time": 1684424426,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 264674,
-      "num": 249160,
+      "raw_hot": 267400,
+      "num": 267400,
       "word": "朱珠带头唱千千阙歌",
       "onboard_time": 1684478128,
       "rank": 24,
       "category": "综艺"
     },
     {
-      "raw_hot": 264115,
-      "num": 264115,
-      "word": "吴谢宇弑母案二审择期宣判",
-      "onboard_time": 1684479448,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 265377,
+      "num": 265377,
+      "word": "徐静蕾方辟谣",
+      "onboard_time": 1684424426,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 260372,
@@ -923,6 +955,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 245837,
+      "num": 245837,
+      "word": "乘风四大舞担",
+      "onboard_time": 1684478668,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238352,
       "num": 238352,
       "word": "夏鸣星",
@@ -963,14 +1003,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 234449,
-      "num": 212946,
-      "word": "卡琳娜cos李泽言",
-      "onboard_time": 1684479809,
-      "rank": 31,
-      "category": "网红,游戏"
-    },
-    {
       "raw_hot": 233401,
       "num": 233401,
       "word": "四斤的小猫却有五斤的脾气",
@@ -993,6 +1025,14 @@
       "onboard_time": 1684396171,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 226683,
+      "num": 226683,
+      "word": "陈冰淘汰带走秋瓷炫名牌",
+      "onboard_time": 1684480953,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 225806,
@@ -1051,6 +1091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 210549,
+      "num": 210549,
+      "word": "上班以后情绪真的稳定了",
+      "onboard_time": 1684480590,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 208687,
       "num": 208687,
       "word": "毕业之前来看演唱会",
@@ -1065,14 +1113,6 @@
       "onboard_time": 1684418608,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 205413,
-      "num": 205413,
-      "word": "乘风四大舞担",
-      "onboard_time": 1684478668,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 202827,
@@ -1339,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157912,
+      "num": 175204,
+      "word": "判断另一半的决定性因素",
+      "onboard_time": 1684481069,
+      "rank": 38,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 157670,
       "num": 157670,
       "word": "西湖边82岁奶奶和旗袍高跟鞋好配",
@@ -1363,12 +1411,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152658,
-      "num": 152658,
-      "word": "张杰谢娜各忙各的",
-      "onboard_time": 1684480348,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 152210,
+      "num": 171161,
+      "word": "被爸爸尊重是什么体验",
+      "onboard_time": 1684480827,
+      "rank": 39,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 151476,
@@ -1539,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96364,
+      "num": 334630,
+      "word": "懒人菜的美味秘籍",
+      "onboard_time": 1684475248,
+      "rank": 14,
+      "category": "美食"
+    },
+    {
       "raw_hot": 92666,
       "num": 92666,
       "word": "70后大叔报小饭桌和10后萌娃就餐",
@@ -1585,14 +1641,6 @@
       "onboard_time": 1684465287,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 55338,
-      "num": 329193,
-      "word": "懒人菜的美味秘籍",
-      "onboard_time": 1684475248,
-      "rank": 14,
-      "category": "美食"
     },
     {
       "raw_hot": 52430,
