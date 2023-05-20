@@ -1,0 +1,410 @@
+{
+  "runTime": 1684577800185,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 883110,
+        "num": 883110,
+        "word": "为和男友结婚伪造深度美颜身份证",
+        "onboard_time": 1684559308,
+        "rank": 0,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 371641,
+        "num": 883096,
+        "word": "女子独自输液外卖小哥帮插奶茶吸管",
+        "onboard_time": 1684567048,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30260,
+        "num": 869196,
+        "word": "中国有约",
+        "onboard_time": 1684565367,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1403150,
+        "num": 854924,
+        "word": "易梦玲晒手打渣男咖啡",
+        "onboard_time": 1684574005,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294882,
+        "num": 850172,
+        "word": "00后女生合伙点竹笋花给花花过节",
+        "onboard_time": 1684571847,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1360781,
+        "num": 834844,
+        "word": "高叶回复网友吐槽",
+        "onboard_time": 1684572805,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204843,
+        "num": 817556,
+        "word": "警嫂在抗癌日记中对丈夫说我应该离开你",
+        "onboard_time": 1684561407,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 817257,
+        "num": 817257,
+        "word": "安踏 欧文",
+        "onboard_time": 1684574727,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 550259,
+        "num": 550259,
+        "word": "王菲李嫣法国同框照",
+        "onboard_time": 1684563446,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 505992,
+        "num": 505992,
+        "word": "玉桂狗",
+        "onboard_time": 1684556365,
+        "rank": 9,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 654251,
+        "num": 488941,
+        "word": "赵露思的腿好白",
+        "onboard_time": 1684562606,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428675,
+        "num": 428675,
+        "word": "BLACKPINK澳门演唱会",
+        "onboard_time": 1684575626,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 405333,
+        "num": 405333,
+        "word": "汤唯迪士尼在逃公主",
+        "onboard_time": 1684564826,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 398631,
+        "num": 398631,
+        "word": "赵琦君成功求婚杨凯雯",
+        "onboard_time": 1684577668,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348419,
+        "num": 348419,
+        "word": "你们是在哪看的宁安如梦",
+        "onboard_time": 1684573165,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324045,
+        "num": 324045,
+        "word": "迪丽热巴张婧仪穿了同款",
+        "onboard_time": 1684571006,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 305794,
+        "num": 305794,
+        "word": "Ella听到许靖韵淘汰的反应",
+        "onboard_time": 1684562910,
+        "rank": 16,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 194878,
+        "num": 194878,
+        "word": "XYG对战TCG",
+        "onboard_time": 1684571726,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176728,
+        "num": 176728,
+        "word": "微信开放520元红包",
+        "onboard_time": 1684550847,
+        "rank": 18,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 146332,
+        "num": 176483,
+        "word": "18岁男生继承30套房产后坠亡",
+        "onboard_time": 1684542145,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367548,
+        "num": 175797,
+        "word": "异地恋接吻神器被曝擦边",
+        "onboard_time": 1684576346,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300802,
+        "num": 175112,
+        "word": "春楠拍的杨紫",
+        "onboard_time": 1684575448,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294182,
+        "num": 174382,
+        "word": "向佐的人脉",
+        "onboard_time": 1684574608,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241608,
+        "num": 172932,
+        "word": "雅阁",
+        "onboard_time": 1684575807,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 238442,
+        "num": 172379,
+        "word": "调查显示8成以上年轻人有生育意愿",
+        "onboard_time": 1684570825,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279282,
+        "num": 171608,
+        "word": "易烊千玺戛纳名利场",
+        "onboard_time": 1684566684,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 265512,
+        "num": 170529,
+        "word": "陈意涵小考",
+        "onboard_time": 1684558588,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240830,
+        "num": 169813,
+        "word": "刘亦菲的素颜状态",
+        "onboard_time": 1684557866,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 237216,
+        "num": 169118,
+        "word": "朱一龙戛纳photocall",
+        "onboard_time": 1684576586,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223528,
+        "num": 168851,
+        "word": "沙溢儿子近照",
+        "onboard_time": 1684569625,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216897,
+        "num": 167622,
+        "word": "六一放假通知",
+        "onboard_time": 1684565367,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207970,
+        "num": 167123,
+        "word": "劝退了频繁请假的7岁琴童",
+        "onboard_time": 1684564227,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201137,
+        "num": 166290,
+        "word": "王传君给王鹤棣打伞",
+        "onboard_time": 1684577426,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165813,
+        "num": 165813,
+        "word": "张大仙",
+        "onboard_time": 1684571547,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161265,
+        "num": 161265,
+        "word": "520",
+        "onboard_time": 1684575387,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186715,
+        "num": 159789,
+        "word": "小慧君",
+        "onboard_time": 1684566447,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 176530,
+        "num": 158519,
+        "word": "宋雨琦520音中造型",
+        "onboard_time": 1684574069,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164146,
+        "num": 157432,
+        "word": "周杰伦歌词得到科学印证",
+        "onboard_time": 1684572088,
+        "rank": 37,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 155873,
+        "num": 155873,
+        "word": "超8成985211学生是B站用户",
+        "onboard_time": 1684567585,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132277,
+        "num": 132277,
+        "word": "厦航偷拍飞行员被行政拘留",
+        "onboard_time": 1684554506,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155308,
+        "num": 131826,
+        "word": "虞书欣孟美岐格子套装",
+        "onboard_time": 1684577007,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144569,
+        "num": 130997,
+        "word": "赵露思分享一句话给所有女孩子",
+        "onboard_time": 1684576225,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137921,
+        "num": 129643,
+        "word": "Jini活动新闻图",
+        "onboard_time": 1684577126,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133387,
+        "num": 128373,
+        "word": "朱珠追着去跟许靖韵道别",
+        "onboard_time": 1684562426,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127467,
+        "num": 127467,
+        "word": "塞尔达 很有节奏感的战斗",
+        "onboard_time": 1684574488,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122322,
+        "num": 127463,
+        "word": "长大后感觉夏天的味道变了",
+        "onboard_time": 1684575567,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117323,
+        "num": 127433,
+        "word": "泽连斯基抵达广岛",
+        "onboard_time": 1684574968,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 110913,
+        "num": 127400,
+        "word": "杭州警方已对两名赖车乘客行政拘留7日",
+        "onboard_time": 1684558588,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94393,
+        "num": 127381,
+        "word": "520给对象转了250",
+        "onboard_time": 1684577306,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74498,
+        "num": 127366,
+        "word": "阴阳师美依礼芽联动",
+        "onboard_time": 1684558947,
+        "rank": 49,
+        "category": "游戏,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国—中亚峰会成果清单#"
+    }
+  }
+}
