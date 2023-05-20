@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684595745563,
+  "endTime": 1684596833357,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -2467,6 +2467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 721909,
+      "num": 561514,
+      "word": "Bin 下一位受害者JDG",
+      "onboard_time": 1684595792,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 715641,
       "num": 715641,
       "word": "吉娜 大家别笑我了再听一下我的rap",
@@ -3107,6 +3115,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 563989,
+      "num": 315849,
+      "word": "Angelababy怎么美成这样啊",
+      "onboard_time": 1684595730,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 563586,
       "num": 374250,
       "word": "宁安如梦宁有福了直播派对",
@@ -3659,6 +3675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 480842,
+      "num": 480842,
+      "word": "LPL历史首次会师国际赛决赛",
+      "onboard_time": 1684594533,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 480134,
       "num": 480134,
       "word": "仙剑单机制作组 解散",
@@ -3833,14 +3857,6 @@
       "onboard_time": 1684403370,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 468202,
-      "num": 468202,
-      "word": "LPL历史首次会师国际赛决赛",
-      "onboard_time": 1684594533,
-      "rank": 12,
-      "category": "游戏"
     },
     {
       "raw_hot": 467849,
@@ -4339,6 +4355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 429012,
+      "num": 429012,
+      "word": "tabe二段跑",
+      "onboard_time": 1684596152,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 428982,
       "num": 428982,
       "word": "公司空调打消了我离职的念头",
@@ -4769,6 +4793,14 @@
       "onboard_time": 1684552826,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 392952,
+      "num": 392952,
+      "word": "苏杯中国2比2日本",
+      "onboard_time": 1684596687,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 392875,
@@ -5771,6 +5803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 327586,
+      "num": 327586,
+      "word": "欧阳娜娜去了BLACKPINK演唱会",
+      "onboard_time": 1684589008,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 327328,
       "num": 776036,
       "word": "迪士尼和小米官宣了",
@@ -6179,6 +6219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 306979,
+      "num": 302481,
+      "word": "陈鑫海用梅子熟了告白卢洋洋",
+      "onboard_time": 1684592795,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306883,
       "num": 306883,
       "word": "白桃星座",
@@ -6363,14 +6411,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 295833,
-      "num": 295833,
-      "word": "欧阳娜娜去了BLACKPINK演唱会",
-      "onboard_time": 1684589008,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 295374,
       "num": 295374,
       "word": "丁程鑫说只要是七个人就好",
@@ -6459,14 +6499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 291294,
-      "num": 291294,
-      "word": "陈鑫海用梅子熟了告白卢洋洋",
-      "onboard_time": 1684592795,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 290686,
       "num": 290686,
       "word": "为什么有的人不接受单休",
@@ -6505,6 +6537,14 @@
       "onboard_time": 1684550486,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 289460,
+      "num": 289460,
+      "word": "oner",
+      "onboard_time": 1684595490,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 287937,
@@ -7001,6 +7041,14 @@
       "onboard_time": 1684416210,
       "rank": 38,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 266918,
+      "num": 299312,
+      "word": "刘雨辰欧烜屹太燃了",
+      "onboard_time": 1684596687,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 266497,
@@ -8899,6 +8947,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 207075,
+      "num": 207075,
+      "word": "女双",
+      "onboard_time": 1684596810,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206733,
       "num": 206733,
       "word": "哪个瞬间你觉得自己该离职了",
@@ -9537,14 +9593,6 @@
       "onboard_time": 1684238973,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 189765,
-      "num": 187075,
-      "word": "Angelababy怎么美成这样啊",
-      "onboard_time": 1684595730,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 189574,
@@ -10187,20 +10235,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 176942,
+      "num": 176942,
+      "word": "李宇春演唱会",
+      "onboard_time": 1684582828,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 176864,
       "num": 167156,
       "word": "宋祖儿一滴泪的演技",
       "onboard_time": 1684230870,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 176837,
-      "num": 176837,
-      "word": "李宇春演唱会",
-      "onboard_time": 1684582828,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 176823,
@@ -10441,6 +10489,14 @@
       "onboard_time": 1684413507,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 171972,
+      "num": 171972,
+      "word": "天津音乐节",
+      "onboard_time": 1684594470,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 171850,
@@ -11361,14 +11417,6 @@
       "onboard_time": 1684397789,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 147948,
-      "num": 147948,
-      "word": "oner",
-      "onboard_time": 1684595490,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 147925,
@@ -13155,6 +13203,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 74333,
+      "num": 1682775,
+      "word": "谢谢温暖过我们的陌生人",
+      "onboard_time": 1684595010,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73828,
       "num": 73828,
       "word": "再热血的动漫也不及现实里的青春",
@@ -13376,14 +13432,6 @@
       "word": "原来是一碗丝路味道的biangbiang面",
       "onboard_time": 1684427004,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52172,
-      "num": 1682775,
-      "word": "谢谢温暖过我们的陌生人",
-      "onboard_time": 1684595010,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
