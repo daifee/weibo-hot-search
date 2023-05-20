@@ -1,0 +1,410 @@
+{
+  "runTime": 1684557214736,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2301243,
+        "num": 2301243,
+        "word": "肯德基玩具",
+        "onboard_time": 1684549825,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1160742,
+        "num": 1160742,
+        "word": "微信开放520元红包",
+        "onboard_time": 1684550847,
+        "rank": 1,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 10929,
+        "num": 1110333,
+        "word": "语文课本里的中国有多美",
+        "onboard_time": 1684502791,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1069434,
+        "num": 1069434,
+        "word": "18岁男生继承30套房产后坠亡",
+        "onboard_time": 1684542145,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 948754,
+        "num": 948754,
+        "word": "厦航偷拍飞行员被行政拘留",
+        "onboard_time": 1684554506,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 941907,
+        "num": 941907,
+        "word": "王俊凯去录向往的生活了吗",
+        "onboard_time": 1684552168,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 707806,
+        "num": 707806,
+        "word": "徐志胜娜扎 微笑pasta",
+        "onboard_time": 1684542568,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 695031,
+        "num": 695031,
+        "word": "刘昊然周冬雨戛纳海边同框",
+        "onboard_time": 1684543529,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 591808,
+        "num": 591808,
+        "word": "四个人拍出四部剧",
+        "onboard_time": 1684552467,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 568534,
+        "num": 568534,
+        "word": "王源巡演",
+        "onboard_time": 1684556247,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 790905,
+        "num": 560097,
+        "word": "弑母案吴谢宇自称考试机器值得警醒",
+        "onboard_time": 1684541365,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498824,
+        "num": 498824,
+        "word": "布丁狗",
+        "onboard_time": 1684551566,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 399086,
+        "num": 399086,
+        "word": "明道回应与蒋雯丽拍戏争议",
+        "onboard_time": 1684542445,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372085,
+        "num": 372085,
+        "word": "许凯虞书欣仙剑六祈今朝牵手海报",
+        "onboard_time": 1684552826,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 369597,
+        "num": 369597,
+        "word": "鹅厂bg之光",
+        "onboard_time": 1684549766,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 352005,
+        "num": 352005,
+        "word": "汤唯 戛纳",
+        "onboard_time": 1684538599,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 342872,
+        "num": 342872,
+        "word": "玉桂狗",
+        "onboard_time": 1684556365,
+        "rank": 16,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 317370,
+        "num": 317370,
+        "word": "G7",
+        "onboard_time": 1684551086,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313353,
+        "num": 313353,
+        "word": "演出经纪人",
+        "onboard_time": 1684556308,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 289343,
+        "num": 289343,
+        "word": "巴特勒格威冲突",
+        "onboard_time": 1684551987,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 499414,
+        "num": 288840,
+        "word": "三千万把年龄倒过来你愿意吗",
+        "onboard_time": 1684543349,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287753,
+        "num": 287753,
+        "word": "520和521哪个更能代表我爱你",
+        "onboard_time": 1684536677,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245769,
+        "num": 245769,
+        "word": "斗罗大陆",
+        "onboard_time": 1684555046,
+        "rank": 22,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 268639,
+        "num": 242420,
+        "word": "肖战龚俊王鹤棣吴磊520开屏",
+        "onboard_time": 1684556426,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230390,
+        "num": 230390,
+        "word": "梁源",
+        "onboard_time": 1684554026,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249151,
+        "num": 230138,
+        "word": "仪式感很强但有点丢人",
+        "onboard_time": 1684555347,
+        "rank": 25,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 226064,
+        "num": 226064,
+        "word": "赵丽颖对镜比心六连拍",
+        "onboard_time": 1684552826,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216532,
+        "num": 216532,
+        "word": "警方通报男子在高速服务区被撞身亡",
+        "onboard_time": 1684509031,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54277,
+        "num": 207050,
+        "word": "520最意想不到的约会",
+        "onboard_time": 1684555947,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95937,
+        "num": 200906,
+        "word": "谭爷爷给金宵偷递小苹果",
+        "onboard_time": 1684539443,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199058,
+        "num": 199058,
+        "word": "长相思",
+        "onboard_time": 1684551445,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198952,
+        "num": 198952,
+        "word": "种地吧",
+        "onboard_time": 1684556247,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187111,
+        "num": 187111,
+        "word": "花间令",
+        "onboard_time": 1684550486,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180840,
+        "num": 180840,
+        "word": "永远可以相信古人的顶级审美",
+        "onboard_time": 1684540884,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174064,
+        "num": 174064,
+        "word": "出差十五夜",
+        "onboard_time": 1684554268,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173060,
+        "num": 173060,
+        "word": "今天有好多演唱会",
+        "onboard_time": 1684554087,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171813,
+        "num": 171813,
+        "word": "护心双休",
+        "onboard_time": 1684556065,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152115,
+        "num": 152115,
+        "word": "钟丽缇体态",
+        "onboard_time": 1684539741,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145802,
+        "num": 145802,
+        "word": "河南长葛2.9级地震",
+        "onboard_time": 1684545686,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86104,
+        "num": 140091,
+        "word": "我的cp天下第一",
+        "onboard_time": 1684555226,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 137300,
+        "num": 137300,
+        "word": "退回家的全职儿女们",
+        "onboard_time": 1684548626,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135931,
+        "num": 135931,
+        "word": "黄磊吴越都没考上徐峥的班",
+        "onboard_time": 1684541485,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135162,
+        "num": 135162,
+        "word": "李佳临",
+        "onboard_time": 1684557086,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134707,
+        "num": 134707,
+        "word": "热火vs凯尔特人",
+        "onboard_time": 1684550906,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81057,
+        "num": 129732,
+        "word": "你会因为KPI不达标焦虑吗",
+        "onboard_time": 1684553907,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124830,
+        "num": 124830,
+        "word": "演员谈恋爱需要公开吗",
+        "onboard_time": 1684539443,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122229,
+        "num": 122229,
+        "word": "为什么相亲都喜欢约在公园",
+        "onboard_time": 1684549168,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119816,
+        "num": 119816,
+        "word": "宝宝地铁上一直哭安保端热水帮宝妈一起照顾",
+        "onboard_time": 1684541964,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114595,
+        "num": 114595,
+        "word": "SEVENTEEN将出演花样青春",
+        "onboard_time": 1684536857,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109995,
+        "num": 109995,
+        "word": "米勒 中国人有自己的相公",
+        "onboard_time": 1684507775,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主持中国—中亚峰会圆桌峰会#"
+    }
+  }
+}
