@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684578803192,
+  "endTime": 1684581189502,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -2299,6 +2299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 750531,
+      "num": 240819,
+      "word": "对避孕羞耻说不",
+      "onboard_time": 1684578388,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 738729,
       "num": 738729,
       "word": "孟羽童图文广告报价至少15万一条",
@@ -2344,6 +2352,14 @@
       "word": "内娱百分之百的原生脸",
       "onboard_time": 1684162771,
       "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 729308,
+      "num": 729308,
+      "word": "迪丽热巴张婧仪穿了同款",
+      "onboard_time": 1684571006,
+      "rank": 23,
       "category": "作品衍生"
     },
     {
@@ -2995,6 +3011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 560038,
+      "num": 560038,
+      "word": "520给对象转了250",
+      "onboard_time": 1684577306,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 559412,
       "num": 559412,
       "word": "年轻女子穿着干净时尚当街跪地乞讨",
@@ -3161,6 +3185,14 @@
       "onboard_time": 1684483950,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 531030,
+      "num": 531030,
+      "word": "台湾选手领奖时展示五星红旗",
+      "onboard_time": 1684578147,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 529920,
@@ -3955,6 +3987,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 440891,
+      "num": 440891,
+      "word": "雅阁",
+      "onboard_time": 1684575807,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 440889,
       "num": 437797,
       "word": "脱口秀",
@@ -4025,14 +4065,6 @@
       "onboard_time": 1684569625,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 436047,
-      "num": 391175,
-      "word": "迪丽热巴张婧仪穿了同款",
-      "onboard_time": 1684571006,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 435427,
@@ -4940,7 +4972,7 @@
     },
     {
       "raw_hot": 367548,
-      "num": 193170,
+      "num": 237765,
       "word": "异地恋接吻神器被曝擦边",
       "onboard_time": 1684576346,
       "rank": 20,
@@ -4977,6 +5009,14 @@
       "onboard_time": 1684453648,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 365819,
+      "num": 365819,
+      "word": "王传君给王鹤棣打伞",
+      "onboard_time": 1684577426,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 365351,
@@ -5217,6 +5257,14 @@
       "onboard_time": 1684469010,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 349538,
+      "num": 349538,
+      "word": "T1对战BLG",
+      "onboard_time": 1684580007,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 348425,
@@ -5473,14 +5521,6 @@
       "onboard_time": 1684396831,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 326755,
-      "num": 326755,
-      "word": "雅阁",
-      "onboard_time": 1684575807,
-      "rank": 23,
-      "category": "科技"
     },
     {
       "raw_hot": 326578,
@@ -5772,7 +5812,7 @@
     },
     {
       "raw_hot": 311219,
-      "num": 193137,
+      "num": 224653,
       "word": "春楠拍的杨紫",
       "onboard_time": 1684575448,
       "rank": 21,
@@ -5873,14 +5913,6 @@
       "onboard_time": 1684476272,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 305293,
-      "num": 305293,
-      "word": "王传君给王鹤棣打伞",
-      "onboard_time": 1684577426,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 305163,
@@ -7067,14 +7099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 250670,
-      "num": 193046,
-      "word": "对避孕羞耻说不",
-      "onboard_time": 1684578388,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 249151,
       "num": 242670,
       "word": "仪式感很强但有点丢人",
@@ -7168,6 +7192,14 @@
       "word": "韩警方或提请批捕刘亚仁",
       "onboard_time": 1684206510,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 244846,
+      "num": 244846,
+      "word": "陈小春应采儿520合照",
+      "onboard_time": 1684577967,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -7491,6 +7523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 233626,
+      "num": 233626,
+      "word": "声生不息",
+      "onboard_time": 1684580609,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233401,
       "num": 233401,
       "word": "四斤的小猫却有五斤的脾气",
@@ -7681,14 +7721,6 @@
       "onboard_time": 1684372591,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 227222,
-      "num": 227222,
-      "word": "台湾选手领奖时展示五星红旗",
-      "onboard_time": 1684578147,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 226929,
@@ -7883,6 +7915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 222105,
+      "num": 191249,
+      "word": "死缓犯狱中患癌离世家属索赔700余万",
+      "onboard_time": 1684580189,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222013,
       "num": 173690,
       "word": "宋亚轩和鼠标的vlog",
@@ -7916,7 +7956,7 @@
     },
     {
       "raw_hot": 220951,
-      "num": 204692,
+      "num": 213032,
       "word": "小慧君",
       "onboard_time": 1684566447,
       "rank": 40,
@@ -8065,6 +8105,14 @@
       "onboard_time": 1684311099,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 216956,
+      "num": 216956,
+      "word": "卢靖姗米卡相似度",
+      "onboard_time": 1684578809,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 216922,
@@ -8891,6 +8939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191942,
+      "num": 191942,
+      "word": "冯彦哲",
+      "onboard_time": 1684578749,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191925,
       "num": 191925,
       "word": "AI歌手翻唱或涉多项侵权行为",
@@ -9193,6 +9249,14 @@
       "onboard_time": 1684234950,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186035,
+      "num": 186035,
+      "word": "2023年苏迪曼杯",
+      "onboard_time": 1684580909,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 185989,
@@ -9729,14 +9793,6 @@
       "onboard_time": 1684162232,
       "rank": 44,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 174360,
-      "num": 145105,
-      "word": "陈小春应采儿520合照",
-      "onboard_time": 1684577967,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 174294,
@@ -10563,6 +10619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152320,
+      "num": 144979,
+      "word": "银河护卫队3",
+      "onboard_time": 1684577547,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 152290,
       "num": 152290,
       "word": "反诈民警一句话帮女子保住200万",
@@ -10713,14 +10777,6 @@
       "onboard_time": 1684107745,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148066,
-      "num": 144979,
-      "word": "银河护卫队3",
-      "onboard_time": 1684577547,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 148029,
@@ -11184,14 +11240,6 @@
       "word": "崔康熙 主教练",
       "onboard_time": 1684234049,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 136079,
-      "num": 136079,
-      "word": "冯彦哲",
-      "onboard_time": 1684578749,
-      "rank": 45,
       "category": "体育"
     },
     {
@@ -11835,6 +11883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112121,
+      "num": 112121,
+      "word": "塞尔达传说王国之泪",
+      "onboard_time": 1684580666,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 111865,
       "num": 111865,
       "word": "朱一龙躺在枯木上",
@@ -12059,6 +12115,14 @@
       "category": "游戏,社会新闻"
     },
     {
+      "raw_hot": 103575,
+      "num": 103575,
+      "word": "超市情侣筷卖22元单身筷卖1元",
+      "onboard_time": 1684581148,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103530,
       "num": 103530,
       "word": "到一定年龄就会觉醒的特质",
@@ -12201,14 +12265,6 @@
       "onboard_time": 1684246959,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94393,
-      "num": 127381,
-      "word": "520给对象转了250",
-      "onboard_time": 1684577306,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 94392,
@@ -12857,6 +12913,14 @@
       "onboard_time": 1684345337,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31023,
+      "num": 103570,
+      "word": "向佐今晚在淘宝直播首秀",
+      "onboard_time": 1684580968,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 28654,
