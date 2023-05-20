@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684545730131,
+  "endTime": 1684547139295,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -291,6 +291,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2374635,
+      "num": 2374635,
+      "word": "18岁男生继承30套房产后坠亡",
+      "onboard_time": 1684542145,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2332331,
       "num": 775776,
       "word": "张卫健回应私生女传闻",
@@ -313,14 +321,6 @@
       "onboard_time": 1684324829,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2276781,
-      "num": 2276781,
-      "word": "18岁男生继承30套房产后坠亡",
-      "onboard_time": 1684542145,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2266930,
@@ -1035,6 +1035,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1401989,
+      "num": 1401989,
+      "word": "刘昊然周冬雨戛纳海边同框",
+      "onboard_time": 1684543529,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1398950,
       "num": 1369472,
       "word": "领导让我们三个怀孕错开",
@@ -1161,14 +1169,6 @@
       "onboard_time": 1684399350,
       "rank": 12,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1284733,
-      "num": 1284733,
-      "word": "刘昊然周冬雨戛纳海边同框",
-      "onboard_time": 1684543529,
-      "rank": 3,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1283776,
@@ -2563,6 +2563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 615132,
+      "num": 615132,
+      "word": "徐志胜娜扎 微笑pasta",
+      "onboard_time": 1684542568,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 610993,
       "num": 610993,
       "word": "金扫帚奖",
@@ -2923,19 +2931,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 532246,
+      "num": 222305,
+      "word": "三千万把年龄倒过来你愿意吗",
+      "onboard_time": 1684543349,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 531149,
       "num": 236811,
       "word": "杨贵妃体重",
       "onboard_time": 1684483950,
       "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 530129,
-      "num": 530129,
-      "word": "徐志胜娜扎 微笑pasta",
-      "onboard_time": 1684542568,
-      "rank": 8,
       "category": "综艺"
     },
     {
@@ -3428,7 +3436,7 @@
     },
     {
       "raw_hot": 466316,
-      "num": 206285,
+      "num": 221217,
       "word": "钟丽缇体态",
       "onboard_time": 1684539741,
       "rank": 20,
@@ -3489,14 +3497,6 @@
       "onboard_time": 1684129829,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 461396,
-      "num": 205791,
-      "word": "三千万把年龄倒过来你愿意吗",
-      "onboard_time": 1684543349,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 460375,
@@ -3912,6 +3912,14 @@
       "word": "印尼警方称巴厘岛命案不存在第三人",
       "onboard_time": 1684310851,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424351,
+      "num": 424351,
+      "word": "河南长葛2.9级地震",
+      "onboard_time": 1684545686,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -4611,6 +4619,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 363791,
+      "num": 363791,
+      "word": "宝宝地铁上一直哭安保端热水帮宝妈一起照顾",
+      "onboard_time": 1684541964,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 363782,
       "num": 321182,
       "word": "肖战顾一野",
@@ -4628,7 +4644,7 @@
     },
     {
       "raw_hot": 361124,
-      "num": 205342,
+      "num": 220864,
       "word": "教授用ChatGPT查重结果全班学生0分",
       "onboard_time": 1684540042,
       "rank": 22,
@@ -5203,6 +5219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 315336,
+      "num": 219482,
+      "word": "终于轮到我脱单了",
+      "onboard_time": 1684545807,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 314876,
       "num": 285669,
       "word": "光渊",
@@ -5459,6 +5483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 300480,
+      "num": 300480,
+      "word": "情侣之间有必要过520吗",
+      "onboard_time": 1684536857,
+      "rank": 18,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 300464,
       "num": 300464,
       "word": "谁能管管上海动物园的这两只天鹅",
@@ -5489,6 +5521,14 @@
       "onboard_time": 1684462168,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 298413,
+      "num": 298413,
+      "word": "厦航客服回应网传飞行员偷拍被抓现行",
+      "onboard_time": 1684510469,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298082,
@@ -5723,14 +5763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 284512,
-      "num": 181634,
-      "word": "河南长葛2.9级地震",
-      "onboard_time": 1684545686,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 284421,
       "num": 269341,
       "word": "宁静上两次浪姐有点不情愿",
@@ -5865,14 +5897,6 @@
       "onboard_time": 1684119208,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 279937,
-      "num": 279937,
-      "word": "厦航客服回应网传飞行员偷拍被抓现行",
-      "onboard_time": 1684510469,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 279927,
@@ -6041,14 +6065,6 @@
       "onboard_time": 1684467930,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 270097,
-      "num": 270097,
-      "word": "情侣之间有必要过520吗",
-      "onboard_time": 1684536857,
-      "rank": 18,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 269860,
@@ -6331,6 +6347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257001,
+      "num": 257001,
+      "word": "chatGPT APP使用感受",
+      "onboard_time": 1684539624,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
       "raw_hot": 256953,
       "num": 256953,
       "word": "想把驾校里的教练车买下来",
@@ -6491,6 +6515,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 251536,
+      "num": 251536,
+      "word": "24岁热心小伙卖电瓶车意外收获爱情",
+      "onboard_time": 1684546228,
+      "rank": 18,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 251427,
       "num": 243035,
       "word": "这菜的公摊面积咋这么大",
@@ -6577,14 +6609,6 @@
       "onboard_time": 1684469913,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 246027,
-      "num": 246027,
-      "word": "宝宝地铁上一直哭安保端热水帮宝妈一起照顾",
-      "onboard_time": 1684541964,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 245970,
@@ -6763,14 +6787,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 239535,
-      "num": 239535,
-      "word": "chatGPT APP使用感受",
-      "onboard_time": 1684539624,
-      "rank": 16,
-      "category": "科技"
-    },
-    {
       "raw_hot": 238419,
       "num": 238419,
       "word": "杨幂说以后改名四小花衫",
@@ -6940,7 +6956,7 @@
     },
     {
       "raw_hot": 232423,
-      "num": 204990,
+      "num": 218329,
       "word": "黄磊吴越都没考上徐峥的班",
       "onboard_time": 1684541485,
       "rank": 23,
@@ -7049,6 +7065,14 @@
       "onboard_time": 1684140510,
       "rank": 41,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 228428,
+      "num": 218714,
+      "word": "白鹿姜雪宁重启人生",
+      "onboard_time": 1684544007,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 227877,
@@ -7248,6 +7272,14 @@
       "word": "久酷 ttg傲寒",
       "onboard_time": 1684208070,
       "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 222629,
+      "num": 222629,
+      "word": "Bin哥",
+      "onboard_time": 1684544306,
+      "rank": 36,
       "category": "游戏"
     },
     {
@@ -7931,14 +7963,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 199980,
-      "num": 199980,
-      "word": "白鹿姜雪宁重启人生",
-      "onboard_time": 1684544007,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 199977,
       "num": 199977,
       "word": "梁成运间谍案一审宣判",
@@ -8083,6 +8107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193937,
+      "num": 193937,
+      "word": "SEVENTEEN将出演花样青春",
+      "onboard_time": 1684536857,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193923,
       "num": 193923,
       "word": "杀我别用毕业刀",
@@ -8107,6 +8139,22 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 192819,
+      "num": 192819,
+      "word": "Angelababy何超莲同框",
+      "onboard_time": 1684542445,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192564,
+      "num": 181577,
+      "word": "女孩似躺非趴一身反骨",
+      "onboard_time": 1684544426,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192518,
       "num": 186833,
       "word": "欧冠",
@@ -8121,14 +8169,6 @@
       "onboard_time": 1684192341,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 192405,
-      "num": 192405,
-      "word": "SEVENTEEN将出演花样青春",
-      "onboard_time": 1684536857,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 192387,
@@ -8587,14 +8627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 181577,
-      "num": 181577,
-      "word": "女孩似躺非趴一身反骨",
-      "onboard_time": 1684544426,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181434,
       "num": 181434,
       "word": "宋祖儿拽姐look",
@@ -8745,6 +8777,14 @@
       "onboard_time": 1684291227,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177499,
+      "num": 177499,
+      "word": "医生看熊猫花花路上救了个人",
+      "onboard_time": 1684543165,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177430,
@@ -8993,14 +9033,6 @@
       "onboard_time": 1684214672,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171065,
-      "num": 171065,
-      "word": "医生看熊猫花花路上救了个人",
-      "onboard_time": 1684543165,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170791,
@@ -9283,14 +9315,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 162407,
-      "num": 162407,
-      "word": "Angelababy何超莲同框",
-      "onboard_time": 1684542445,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 162126,
       "num": 181736,
       "word": "谭爷爷给金宵偷递小苹果",
@@ -9339,12 +9363,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160806,
+      "num": 160806,
+      "word": "劝分组",
+      "onboard_time": 1684546408,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160425,
       "num": 160425,
       "word": "周一",
       "onboard_time": 1684112067,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 160223,
+      "num": 160223,
+      "word": "汤唯戛纳渐变彩色长裙",
+      "onboard_time": 1684547127,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 160026,
@@ -9547,6 +9587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154212,
+      "num": 154212,
+      "word": "便利店女店员遭男子多次殴打",
+      "onboard_time": 1684523653,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153997,
       "num": 153997,
       "word": "种地吧后陡门518",
@@ -9556,19 +9604,11 @@
     },
     {
       "raw_hot": 153903,
-      "num": 1359061,
+      "num": 1428225,
       "word": "语文课本里的中国有多美",
       "onboard_time": 1684502791,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153793,
-      "num": 153793,
-      "word": "Bin哥",
-      "onboard_time": 1684544306,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 153638,
@@ -9784,14 +9824,6 @@
       "word": "网友用气球扎制醒狮狮头",
       "onboard_time": 1684107745,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148049,
-      "num": 148049,
-      "word": "便利店女店员遭男子多次殴打",
-      "onboard_time": 1684523653,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -10075,6 +10107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140931,
+      "num": 140931,
+      "word": "LPL二号种子 LCK一号种子",
+      "onboard_time": 1684517599,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 140736,
       "num": 140736,
       "word": "32岁救援队员离世捐器官再救人",
@@ -10281,14 +10321,6 @@
       "onboard_time": 1684080864,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 133700,
-      "num": 133700,
-      "word": "LPL二号种子 LCK一号种子",
-      "onboard_time": 1684517599,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 133470,
@@ -10531,6 +10563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126379,
+      "num": 126379,
+      "word": "这是我爱你的方式",
+      "onboard_time": 1684545748,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125950,
       "num": 226503,
       "word": "婚姻登记跨省通办试点扩大至21省份",
@@ -10665,6 +10705,14 @@
       "onboard_time": 1684304913,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 118612,
+      "num": 118612,
+      "word": "听障小伙创业11年成全村理发师",
+      "onboard_time": 1684546350,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118382,
