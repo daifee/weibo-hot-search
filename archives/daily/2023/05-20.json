@@ -1,6 +1,6 @@
 {
   "startTime": 1684513305148,
-  "endTime": 1684592090828,
+  "endTime": 1684593205673,
   "band_list": [
     {
       "raw_hot": 3007037,
@@ -43,6 +43,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 1849385,
+      "num": 1849385,
+      "word": "网红三千哥直播pk喝酒后去世",
+      "onboard_time": 1684589128,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1751563,
       "num": 1751563,
       "word": "死缓犯狱中患癌离世家属索赔700余万",
@@ -75,14 +83,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1518660,
-      "num": 1518660,
-      "word": "网红三千哥直播pk喝酒后去世",
-      "onboard_time": 1684589128,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1508643,
       "num": 1508643,
       "word": "陈意涵小考",
@@ -105,6 +105,14 @@
       "onboard_time": 1684574005,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1377904,
+      "num": 1377904,
+      "word": "美依礼芽二郎腿",
+      "onboard_time": 1684590389,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1360781,
@@ -211,20 +219,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 977881,
+      "num": 977881,
+      "word": "洪世贤艾莉瞒着品如二搭了",
+      "onboard_time": 1684588168,
+      "rank": 28,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 948754,
       "num": 948754,
       "word": "厦航偷拍飞行员被行政拘留",
       "onboard_time": 1684554506,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 875958,
-      "num": 875958,
-      "word": "美依礼芽二郎腿",
-      "onboard_time": 1684590389,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 858490,
@@ -257,14 +265,6 @@
       "onboard_time": 1684507775,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 831414,
-      "num": 831414,
-      "word": "洪世贤艾莉瞒着品如二搭了",
-      "onboard_time": 1684588168,
-      "rank": 28,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 817257,
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 530566,
+      "num": 227620,
+      "word": "杨颖又去看BLACKPINK演唱会",
+      "onboard_time": 1684593089,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 518167,
       "num": 518167,
       "word": "巴特勒格威冲突",
@@ -491,8 +499,8 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 492512,
-      "num": 213557,
+      "raw_hot": 499268,
+      "num": 227404,
       "word": "秦霄贤说喜欢的人在现场",
       "onboard_time": 1684589188,
       "rank": 33,
@@ -537,6 +545,14 @@
       "onboard_time": 1684575807,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 437470,
+      "num": 402331,
+      "word": "张杰唱三生三世回忆杀",
+      "onboard_time": 1684590332,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 436497,
@@ -619,6 +635,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 411504,
+      "num": 411504,
+      "word": "幼儿园毕业男孩戴墨镜偷偷流泪",
+      "onboard_time": 1684589068,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 408064,
       "num": 408064,
       "word": "范迪塞尔",
@@ -633,14 +657,6 @@
       "onboard_time": 1684512509,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 402331,
-      "num": 402331,
-      "word": "张杰唱三生三世回忆杀",
-      "onboard_time": 1684590332,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 398453,
@@ -705,6 +721,14 @@
       "onboard_time": 1684561407,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384803,
+      "num": 384803,
+      "word": "陈意涵不需要小考",
+      "onboard_time": 1684591709,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 382707,
@@ -825,14 +849,6 @@
       "onboard_time": 1684585824,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 348004,
-      "num": 348004,
-      "word": "幼儿园毕业男孩戴墨镜偷偷流泪",
-      "onboard_time": 1684589068,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 347477,
@@ -964,7 +980,7 @@
     },
     {
       "raw_hot": 298861,
-      "num": 212273,
+      "num": 226601,
       "word": "叶舒华一秒变脸",
       "onboard_time": 1684589188,
       "rank": 31,
@@ -1059,12 +1075,28 @@
       "category": "美妆,作品衍生"
     },
     {
+      "raw_hot": 272467,
+      "num": 226822,
+      "word": "男朋友在520给我发了5块2",
+      "onboard_time": 1684590090,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 272412,
       "num": 184327,
       "word": "你减不减肥其实没什么区别",
       "onboard_time": 1684500630,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 272056,
+      "num": 226787,
+      "word": "欧阳靖没人选",
+      "onboard_time": 1684592552,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 270917,
@@ -1129,14 +1161,6 @@
       "onboard_time": 1684577967,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 257225,
-      "num": 210652,
-      "word": "男朋友在520给我发了5块2",
-      "onboard_time": 1684590090,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 257001,
@@ -1268,7 +1292,7 @@
     },
     {
       "raw_hot": 233033,
-      "num": 210326,
+      "num": 211985,
       "word": "欧阳娜娜去了BLACKPINK演唱会",
       "onboard_time": 1684589008,
       "rank": 35,
@@ -1296,6 +1320,14 @@
       "word": "杨丞琳祝福赵琦君杨凯雯",
       "onboard_time": 1684587089,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 231355,
+      "num": 226346,
+      "word": "陈鑫海用梅子熟了告白卢洋洋",
+      "onboard_time": 1684592795,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -1348,11 +1380,19 @@
     },
     {
       "raw_hot": 228400,
-      "num": 208634,
+      "num": 214650,
       "word": "黄磊向往的生活想办长桌宴",
       "onboard_time": 1684589368,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227685,
+      "num": 227685,
+      "word": "男双",
+      "onboard_time": 1684591830,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 224903,
@@ -1435,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214223,
+      "num": 226221,
+      "word": "苏杯中国1比2日本",
+      "onboard_time": 1684591229,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211460,
       "num": 211460,
       "word": "阴阳师",
@@ -1449,14 +1497,6 @@
       "onboard_time": 1684540463,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 210349,
-      "num": 199729,
-      "word": "陈意涵不需要小考",
-      "onboard_time": 1684591709,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 210073,
@@ -1699,14 +1739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 182626,
-      "num": 182626,
-      "word": "苏杯中国1比2日本",
-      "onboard_time": 1684591229,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 181839,
       "num": 181839,
       "word": "为什么我们不擅长表达爱",
@@ -1737,6 +1769,14 @@
       "onboard_time": 1684581866,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179697,
+      "num": 179697,
+      "word": "不考虑面子和薪水最想做的工作",
+      "onboard_time": 1684592795,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 178949,
@@ -1851,6 +1891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169448,
+      "num": 169448,
+      "word": "周冬雨戛纳雨中排队看电影",
+      "onboard_time": 1684592192,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 168530,
       "num": 122138,
       "word": "目击者讲述济南服务区撞人事故",
@@ -1889,6 +1937,14 @@
       "onboard_time": 1684497810,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163715,
+      "num": 163715,
+      "word": "梁博现场好稳",
+      "onboard_time": 1684592671,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 162126,
@@ -1969,14 +2025,6 @@
       "onboard_time": 1684563507,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 155057,
-      "num": 155057,
-      "word": "男双",
-      "onboard_time": 1684591830,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 154908,
@@ -2249,6 +2297,14 @@
       "onboard_time": 1684575567,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 122822,
+      "num": 122822,
+      "word": "第五人格 三丽鸥",
+      "onboard_time": 1684592490,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 122240,

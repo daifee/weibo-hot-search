@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684592090828,
+  "endTime": 1684593205673,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -555,6 +555,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 1849385,
+      "num": 1849385,
+      "word": "网红三千哥直播pk喝酒后去世",
+      "onboard_time": 1684589128,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1846343,
       "num": 1846343,
       "word": "以为吴京和郭帆结婚了",
@@ -915,14 +923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1518660,
-      "num": 1518660,
-      "word": "网红三千哥直播pk喝酒后去世",
-      "onboard_time": 1684589128,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1517943,
       "num": 1517943,
       "word": "JDG战胜T1",
@@ -1121,6 +1121,14 @@
       "onboard_time": 1684386331,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1377904,
+      "num": 1377904,
+      "word": "美依礼芽二郎腿",
+      "onboard_time": 1684590389,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1374267,
@@ -1803,6 +1811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 977881,
+      "num": 977881,
+      "word": "洪世贤艾莉瞒着品如二搭了",
+      "onboard_time": 1684588168,
+      "rank": 28,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 972751,
       "num": 972751,
       "word": "男子花10万块买了8套房",
@@ -2027,14 +2043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 875958,
-      "num": 875958,
-      "word": "美依礼芽二郎腿",
-      "onboard_time": 1684590389,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 860342,
       "num": 860342,
       "word": "德云社",
@@ -2097,14 +2105,6 @@
       "onboard_time": 1684507775,
       "rank": 12,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 831414,
-      "num": 831414,
-      "word": "洪世贤艾莉瞒着品如二搭了",
-      "onboard_time": 1684588168,
-      "rank": 28,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 830229,
@@ -3267,6 +3267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 530566,
+      "num": 227620,
+      "word": "杨颖又去看BLACKPINK演唱会",
+      "onboard_time": 1684593089,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 529920,
       "num": 529920,
       "word": "花戎",
@@ -3475,6 +3483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 499268,
+      "num": 227404,
+      "word": "秦霄贤说喜欢的人在现场",
+      "onboard_time": 1684589188,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 496425,
       "num": 276732,
       "word": "王源他急了",
@@ -3513,14 +3529,6 @@
       "onboard_time": 1684306111,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 492512,
-      "num": 213557,
-      "word": "秦霄贤说喜欢的人在现场",
-      "onboard_time": 1684589188,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 492355,
@@ -4131,6 +4139,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 437470,
+      "num": 402331,
+      "word": "张杰唱三生三世回忆杀",
+      "onboard_time": 1684590332,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 437423,
       "num": 437423,
       "word": "赵继伟亲郭艾伦",
@@ -4451,6 +4467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 411504,
+      "num": 411504,
+      "word": "幼儿园毕业男孩戴墨镜偷偷流泪",
+      "onboard_time": 1684589068,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 411122,
       "num": 376966,
       "word": "韩国人有自己的Ella",
@@ -4521,14 +4545,6 @@
       "onboard_time": 1684512509,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 402331,
-      "num": 402331,
-      "word": "张杰唱三生三世回忆杀",
-      "onboard_time": 1684590332,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 402279,
@@ -4809,6 +4825,14 @@
       "onboard_time": 1684289071,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 384803,
+      "num": 384803,
+      "word": "陈意涵不需要小考",
+      "onboard_time": 1684591709,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 384570,
@@ -5409,14 +5433,6 @@
       "onboard_time": 1684373612,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 348004,
-      "num": 348004,
-      "word": "幼儿园毕业男孩戴墨镜偷偷流泪",
-      "onboard_time": 1684589068,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 347477,
@@ -6204,7 +6220,7 @@
     },
     {
       "raw_hot": 298861,
-      "num": 212273,
+      "num": 226601,
       "word": "叶舒华一秒变脸",
       "onboard_time": 1684589188,
       "rank": 31,
@@ -6763,12 +6779,28 @@
       "category": "美妆,作品衍生"
     },
     {
+      "raw_hot": 272467,
+      "num": 226822,
+      "word": "男朋友在520给我发了5块2",
+      "onboard_time": 1684590090,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 272386,
       "num": 272386,
       "word": "光与夜之恋",
       "onboard_time": 1684117706,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 272056,
+      "num": 226787,
+      "word": "欧阳靖没人选",
+      "onboard_time": 1684592552,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 271628,
@@ -7121,14 +7153,6 @@
       "onboard_time": 1684577967,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 257225,
-      "num": 210652,
-      "word": "男朋友在520给我发了5块2",
-      "onboard_time": 1684590090,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 257114,
@@ -7828,7 +7852,7 @@
     },
     {
       "raw_hot": 233033,
-      "num": 210326,
+      "num": 211985,
       "word": "欧阳娜娜去了BLACKPINK演唱会",
       "onboard_time": 1684589008,
       "rank": 35,
@@ -7896,6 +7920,14 @@
       "word": "杨丞琳祝福赵琦君杨凯雯",
       "onboard_time": 1684587089,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 231355,
+      "num": 226346,
+      "word": "陈鑫海用梅子熟了告白卢洋洋",
+      "onboard_time": 1684592795,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -7996,7 +8028,7 @@
     },
     {
       "raw_hot": 228400,
-      "num": 208634,
+      "num": 214650,
       "word": "黄磊向往的生活想办长桌宴",
       "onboard_time": 1684589368,
       "rank": 40,
@@ -8009,6 +8041,14 @@
       "onboard_time": 1684156229,
       "rank": 33,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 227685,
+      "num": 227685,
+      "word": "男双",
+      "onboard_time": 1684591830,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 227610,
@@ -8547,6 +8587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 214223,
+      "num": 226221,
+      "word": "苏杯中国1比2日本",
+      "onboard_time": 1684591229,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 214135,
       "num": 214135,
       "word": "广东人有钱的原因找到了",
@@ -8689,14 +8737,6 @@
       "onboard_time": 1684073369,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 210349,
-      "num": 199729,
-      "word": "陈意涵不需要小考",
-      "onboard_time": 1684591709,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 210073,
@@ -9739,14 +9779,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 182626,
-      "num": 182626,
-      "word": "苏杯中国1比2日本",
-      "onboard_time": 1684591229,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 182479,
       "num": 182479,
       "word": "这种验榴莲的方式还是头一次见",
@@ -9913,6 +9945,14 @@
       "onboard_time": 1684129709,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 179697,
+      "num": 179697,
+      "word": "不考虑面子和薪水最想做的工作",
+      "onboard_time": 1684592795,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 179635,
@@ -10403,6 +10443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169448,
+      "num": 169448,
+      "word": "周冬雨戛纳雨中排队看电影",
+      "onboard_time": 1684592192,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 169360,
       "num": 169360,
       "word": "希望今年吃的西瓜都这样",
@@ -10609,6 +10657,14 @@
       "onboard_time": 1684375782,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 163715,
+      "num": 163715,
+      "word": "梁博现场好稳",
+      "onboard_time": 1684592671,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 163673,
@@ -10929,14 +10985,6 @@
       "onboard_time": 1684563507,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 155057,
-      "num": 155057,
-      "word": "男双",
-      "onboard_time": 1684591830,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 155050,
@@ -12137,6 +12185,14 @@
       "onboard_time": 1684288710,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122822,
+      "num": 122822,
+      "word": "第五人格 三丽鸥",
+      "onboard_time": 1684592490,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 122240,
