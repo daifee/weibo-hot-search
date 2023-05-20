@@ -1,0 +1,410 @@
+{
+  "runTime": 1684588683833,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1740529,
+        "num": 1740529,
+        "word": "死缓犯狱中患癌离世家属索赔700余万",
+        "onboard_time": 1684580189,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1188225,
+        "num": 1188225,
+        "word": "于文文嘲笑GAI歪嘴",
+        "onboard_time": 1684585888,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73196,
+        "num": 893291,
+        "word": "今天一起表白祖国",
+        "onboard_time": 1684584149,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1386783,
+        "num": 891436,
+        "word": "赵琦君成功求婚杨凯雯",
+        "onboard_time": 1684577668,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 786093,
+        "num": 786093,
+        "word": "你是一个不落啊 一个都没过上",
+        "onboard_time": 1684583907,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 777066,
+        "num": 777066,
+        "word": "迪丽热巴张婧仪穿了同款",
+        "onboard_time": 1684571006,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 765880,
+        "num": 765880,
+        "word": "T1对战BLG",
+        "onboard_time": 1684580007,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 524721,
+        "num": 524721,
+        "word": "高叶回复网友吐槽",
+        "onboard_time": 1684572805,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 448835,
+        "num": 448835,
+        "word": "张杰演唱会",
+        "onboard_time": 1684586548,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 354714,
+        "num": 423844,
+        "word": "安踏 欧文",
+        "onboard_time": 1684574727,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 609128,
+        "num": 423811,
+        "word": "警方回应多名小学儿童疑遭校长侵犯",
+        "onboard_time": 1684584086,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 414842,
+        "num": 414842,
+        "word": "许嵩 薛之谦演唱会嘉宾",
+        "onboard_time": 1684587748,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 400421,
+        "num": 400421,
+        "word": "BLACKPINK澳门演唱会",
+        "onboard_time": 1684575626,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 373341,
+        "num": 373341,
+        "word": "易梦玲晒手打渣男咖啡",
+        "onboard_time": 1684574005,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321635,
+        "num": 321635,
+        "word": "520给对象转了250",
+        "onboard_time": 1684577306,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 315617,
+        "num": 315617,
+        "word": "马龙第八次世乒赛开门红",
+        "onboard_time": 1684585824,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306130,
+        "num": 306130,
+        "word": "台湾选手领奖时展示五星红旗",
+        "onboard_time": 1684578147,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297801,
+        "num": 297801,
+        "word": "老舅拷打说唱",
+        "onboard_time": 1684584571,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270747,
+        "num": 270747,
+        "word": "范迪塞尔",
+        "onboard_time": 1684581389,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249257,
+        "num": 249257,
+        "word": "超8成985211学生是B站用户",
+        "onboard_time": 1684567585,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395031,
+        "num": 247528,
+        "word": "对避孕羞耻说不",
+        "onboard_time": 1684578388,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355536,
+        "num": 246525,
+        "word": "吵架到一半发现男朋友是对的",
+        "onboard_time": 1684587089,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 312111,
+        "num": 243647,
+        "word": "2023网易游戏发布会",
+        "onboard_time": 1684587626,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 309041,
+        "num": 240347,
+        "word": "苏杯定海神针石宇奇",
+        "onboard_time": 1684587151,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251493,
+        "num": 238303,
+        "word": "商家剥壳开榴莲趁机偷偷藏肉",
+        "onboard_time": 1684582107,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237054,
+        "num": 237054,
+        "word": "恋爱瘾在这一刻达到了顶峰",
+        "onboard_time": 1684587690,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234718,
+        "num": 234718,
+        "word": "孕妈提议用心形护患者隐私全院采纳",
+        "onboard_time": 1684587391,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234470,
+        "num": 234470,
+        "word": "心动的信号",
+        "onboard_time": 1684583667,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234101,
+        "num": 234101,
+        "word": "洪世贤艾莉瞒着品如二搭了",
+        "onboard_time": 1684588168,
+        "rank": 28,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 229263,
+        "num": 229263,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1684584208,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 223692,
+        "num": 223692,
+        "word": "520怎么过",
+        "onboard_time": 1684587626,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231408,
+        "num": 223536,
+        "word": "杨丞琳祝福赵琦君杨凯雯",
+        "onboard_time": 1684587089,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222414,
+        "num": 222414,
+        "word": "打听同事工资被辞退了",
+        "onboard_time": 1684583368,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220504,
+        "num": 220504,
+        "word": "时代少年团理肤泉直播",
+        "onboard_time": 1684586128,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211313,
+        "num": 211313,
+        "word": "异地恋接吻神器被曝擦边",
+        "onboard_time": 1684576346,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208775,
+        "num": 208775,
+        "word": "Faker",
+        "onboard_time": 1684588529,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178134,
+        "num": 178134,
+        "word": "刘诗诗到达戛纳",
+        "onboard_time": 1684582526,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 177565,
+        "num": 177565,
+        "word": "陈梦4比0赫尔米",
+        "onboard_time": 1684587568,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177200,
+        "num": 177200,
+        "word": "王传君给王鹤棣打伞",
+        "onboard_time": 1684577426,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1717,
+        "num": 174068,
+        "word": "向佐今晚在淘宝直播首秀",
+        "onboard_time": 1684580968,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171773,
+        "num": 171773,
+        "word": "张云雷音乐节",
+        "onboard_time": 1684586729,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167528,
+        "num": 167528,
+        "word": "毛不易长沙演唱会",
+        "onboard_time": 1684587869,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160458,
+        "num": 160458,
+        "word": "白敬亭潮牌店排队有多长",
+        "onboard_time": 1684580729,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147111,
+        "num": 147111,
+        "word": "你们是在哪看的宁安如梦",
+        "onboard_time": 1684573165,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146526,
+        "num": 146526,
+        "word": "曾可妮回应被谢娜搂头",
+        "onboard_time": 1684585888,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145206,
+        "num": 145206,
+        "word": "沙溢儿子近照",
+        "onboard_time": 1684569625,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131367,
+        "num": 131367,
+        "word": "李宇春演唱会",
+        "onboard_time": 1684582828,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128868,
+        "num": 128868,
+        "word": "调查显示8成以上年轻人有生育意愿",
+        "onboard_time": 1684570825,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112805,
+        "num": 128615,
+        "word": "超市情侣筷卖22元单身筷卖1元",
+        "onboard_time": 1684581148,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106940,
+        "num": 128557,
+        "word": "第五人格",
+        "onboard_time": 1684586248,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国—中亚峰会西安宣言全文#"
+    }
+  }
+}

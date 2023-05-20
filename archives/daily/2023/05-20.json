@@ -1,6 +1,6 @@
 {
   "startTime": 1684513305148,
-  "endTime": 1684586753682,
+  "endTime": 1684588683833,
   "band_list": [
     {
       "raw_hot": 3007037,
@@ -129,6 +129,14 @@
       "onboard_time": 1684550847,
       "rank": 5,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 1188225,
+      "num": 1188225,
+      "word": "于文文嘲笑GAI歪嘴",
+      "onboard_time": 1684585888,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1090443,
@@ -275,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 765880,
+      "num": 765880,
+      "word": "T1对战BLG",
+      "onboard_time": 1684580007,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 750531,
       "num": 250858,
       "word": "对避孕羞耻说不",
@@ -288,14 +304,6 @@
       "word": "徐志胜娜扎 微笑pasta",
       "onboard_time": 1684542568,
       "rank": 8,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 704540,
-      "num": 704540,
-      "word": "于文文嘲笑GAI歪嘴",
-      "onboard_time": 1684585888,
-      "rank": 5,
       "category": "综艺"
     },
     {
@@ -355,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 609128,
+      "num": 555428,
+      "word": "警方回应多名小学儿童疑遭校长侵犯",
+      "onboard_time": 1684584086,
+      "rank": 7,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 606382,
       "num": 606382,
       "word": "热火",
@@ -395,14 +411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 555428,
-      "num": 555428,
-      "word": "警方回应多名小学儿童疑遭校长侵犯",
-      "onboard_time": 1684584086,
-      "rank": 7,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 543916,
       "num": 543916,
       "word": "劝分组",
@@ -433,14 +441,6 @@
       "onboard_time": 1684578147,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 518506,
-      "num": 518506,
-      "word": "T1对战BLG",
-      "onboard_time": 1684580007,
-      "rank": 15,
-      "category": "游戏"
     },
     {
       "raw_hot": 518167,
@@ -481,6 +481,14 @@
       "onboard_time": 1684539741,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 448835,
+      "num": 448835,
+      "word": "张杰演唱会",
+      "onboard_time": 1684586548,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 440891,
@@ -555,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 414842,
+      "num": 414842,
+      "word": "许嵩 薛之谦演唱会嘉宾",
+      "onboard_time": 1684587748,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 413504,
       "num": 413504,
       "word": "演出经纪人",
@@ -577,14 +593,6 @@
       "onboard_time": 1684512509,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 402329,
-      "num": 402329,
-      "word": "张杰演唱会",
-      "onboard_time": 1684586548,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 398453,
@@ -755,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 355536,
+      "num": 246525,
+      "word": "吵架到一半发现男朋友是对的",
+      "onboard_time": 1684587089,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 354357,
       "num": 354357,
       "word": "马龙第八次世乒赛开门红",
@@ -851,6 +867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 312111,
+      "num": 243647,
+      "word": "2023网易游戏发布会",
+      "onboard_time": 1684587626,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 311219,
       "num": 224653,
       "word": "春楠拍的杨紫",
@@ -865,6 +889,14 @@
       "onboard_time": 1684508913,
       "rank": 9,
       "category": "游戏,游戏"
+    },
+    {
+      "raw_hot": 309041,
+      "num": 240347,
+      "word": "苏杯定海神针石宇奇",
+      "onboard_time": 1684587151,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 296224,
@@ -1115,6 +1147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 237054,
+      "num": 237054,
+      "word": "恋爱瘾在这一刻达到了顶峰",
+      "onboard_time": 1684587690,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 236256,
       "num": 228755,
       "word": "为什么相亲都喜欢约在公园",
@@ -1129,6 +1169,22 @@
       "onboard_time": 1684581148,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234718,
+      "num": 234718,
+      "word": "孕妈提议用心形护患者隐私全院采纳",
+      "onboard_time": 1684587391,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234101,
+      "num": 234101,
+      "word": "洪世贤艾莉瞒着品如二搭了",
+      "onboard_time": 1684588168,
+      "rank": 28,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 233626,
@@ -1153,6 +1209,14 @@
       "onboard_time": 1684560747,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 231408,
+      "num": 223536,
+      "word": "杨丞琳祝福赵琦君杨凯雯",
+      "onboard_time": 1684587089,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 231058,
@@ -1201,6 +1265,14 @@
       "onboard_time": 1684507421,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 223692,
+      "num": 223692,
+      "word": "520怎么过",
+      "onboard_time": 1684587626,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 222501,
@@ -1289,6 +1361,14 @@
       "onboard_time": 1684564527,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208775,
+      "num": 208775,
+      "word": "Faker",
+      "onboard_time": 1684588529,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 206733,
@@ -1563,6 +1643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 177565,
+      "num": 177565,
+      "word": "陈梦4比0赫尔米",
+      "onboard_time": 1684587568,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177499,
       "num": 177499,
       "word": "医生看熊猫花花路上救了个人",
@@ -1649,6 +1737,14 @@
       "onboard_time": 1684537217,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167528,
+      "num": 167528,
+      "word": "毛不易长沙演唱会",
+      "onboard_time": 1684587869,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 166705,
@@ -1921,6 +2017,14 @@
       "onboard_time": 1684547548,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131367,
+      "num": 131367,
+      "word": "李宇春演唱会",
+      "onboard_time": 1684582828,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 130653,
@@ -2284,7 +2388,7 @@
     },
     {
       "raw_hot": 81061,
-      "num": 747396,
+      "num": 893291,
       "word": "今天一起表白祖国",
       "onboard_time": 1684584149,
       "rank": 2,
@@ -2404,7 +2508,7 @@
     },
     {
       "raw_hot": 31023,
-      "num": 103570,
+      "num": 174068,
       "word": "向佐今晚在淘宝直播首秀",
       "onboard_time": 1684580968,
       "rank": 49,
