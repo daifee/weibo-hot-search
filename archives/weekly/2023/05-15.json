@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684613784145,
+  "endTime": 1684614824207,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -13475,6 +13475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 63495,
+      "num": 63495,
+      "word": "米勒解说",
+      "onboard_time": 1684610953,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 62865,
       "num": 95271,
       "word": "女儿偷偷买票帮60岁妈妈追星",
@@ -13497,14 +13505,6 @@
       "onboard_time": 1684196010,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 60742,
-      "num": 60742,
-      "word": "米勒解说",
-      "onboard_time": 1684610953,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 59320,

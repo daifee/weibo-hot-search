@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684613784145,
+  "endTime": 1684614824207,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -42003,6 +42003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 63495,
+      "num": 63495,
+      "word": "米勒解说",
+      "onboard_time": 1684610953,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 63133,
       "num": 147252,
       "word": "G2战胜MAD",
@@ -42089,14 +42097,6 @@
       "onboard_time": 1683149712,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 60742,
-      "num": 60742,
-      "word": "米勒解说",
-      "onboard_time": 1684610953,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 59983,
