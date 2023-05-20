@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684577800185,
+  "endTime": 1684578803192,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -129,6 +129,14 @@
       "onboard_time": 1684224508,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 3007037,
+      "num": 894451,
+      "word": "赵琦君成功求婚杨凯雯",
+      "onboard_time": 1684577668,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 2998047,
@@ -2236,7 +2244,7 @@
     },
     {
       "raw_hot": 768235,
-      "num": 883096,
+      "num": 978359,
       "word": "女子独自输液外卖小哥帮插奶茶吸管",
       "onboard_time": 1684567048,
       "rank": 31,
@@ -2857,6 +2865,14 @@
       "onboard_time": 1684193844,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 590457,
+      "num": 590457,
+      "word": "BLACKPINK澳门演唱会",
+      "onboard_time": 1684575626,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 590248,
@@ -4012,7 +4028,7 @@
     },
     {
       "raw_hot": 436047,
-      "num": 324045,
+      "num": 391175,
       "word": "迪丽热巴张婧仪穿了同款",
       "onboard_time": 1684571006,
       "rank": 23,
@@ -4113,14 +4129,6 @@
       "onboard_time": 1684460367,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 428675,
-      "num": 428675,
-      "word": "BLACKPINK澳门演唱会",
-      "onboard_time": 1684575626,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 427621,
@@ -4409,14 +4417,6 @@
       "onboard_time": 1684127312,
       "rank": 34,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 398631,
-      "num": 398631,
-      "word": "赵琦君成功求婚杨凯雯",
-      "onboard_time": 1684577668,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 398483,
@@ -4940,7 +4940,7 @@
     },
     {
       "raw_hot": 367548,
-      "num": 175797,
+      "num": 193170,
       "word": "异地恋接吻神器被曝擦边",
       "onboard_time": 1684576346,
       "rank": 20,
@@ -4985,6 +4985,14 @@
       "onboard_time": 1684486168,
       "rank": 23,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 365319,
+      "num": 365319,
+      "word": "你们是在哪看的宁安如梦",
+      "onboard_time": 1684573165,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 364907,
@@ -5217,14 +5225,6 @@
       "onboard_time": 1684373612,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 348419,
-      "num": 348419,
-      "word": "你们是在哪看的宁安如梦",
-      "onboard_time": 1684573165,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 347162,
@@ -5475,6 +5475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 326755,
+      "num": 326755,
+      "word": "雅阁",
+      "onboard_time": 1684575807,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 326578,
       "num": 326578,
       "word": "选结婚对象什么条件最重要",
@@ -5508,7 +5516,7 @@
     },
     {
       "raw_hot": 324590,
-      "num": 850172,
+      "num": 868837,
       "word": "00后女生合伙点竹笋花给花花过节",
       "onboard_time": 1684571847,
       "rank": 9,
@@ -5763,6 +5771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 311219,
+      "num": 193137,
+      "word": "春楠拍的杨紫",
+      "onboard_time": 1684575448,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310789,
       "num": 292842,
       "word": "FENDI红毯",
@@ -5859,6 +5875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 305293,
+      "num": 305293,
+      "word": "王传君给王鹤棣打伞",
+      "onboard_time": 1684577426,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 305163,
       "num": 305163,
       "word": "朱一龙入选法国GQ戛纳红毯最时尚的男人",
@@ -5921,14 +5945,6 @@
       "onboard_time": 1684209931,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 300802,
-      "num": 175112,
-      "word": "春楠拍的杨紫",
-      "onboard_time": 1684575448,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 300464,
@@ -6028,7 +6044,7 @@
     },
     {
       "raw_hot": 294182,
-      "num": 174382,
+      "num": 193094,
       "word": "向佐的人脉",
       "onboard_time": 1684574608,
       "rank": 36,
@@ -7051,6 +7067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250670,
+      "num": 193046,
+      "word": "对避孕羞耻说不",
+      "onboard_time": 1684578388,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249151,
       "num": 242670,
       "word": "仪式感很强但有点丢人",
@@ -7243,14 +7267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 241608,
-      "num": 172932,
-      "word": "雅阁",
-      "onboard_time": 1684575807,
-      "rank": 23,
-      "category": "科技"
-    },
-    {
       "raw_hot": 241461,
       "num": 241461,
       "word": "易烊千玺新歌同乘MV",
@@ -7372,7 +7388,7 @@
     },
     {
       "raw_hot": 237216,
-      "num": 169118,
+      "num": 177477,
       "word": "朱一龙戛纳photocall",
       "onboard_time": 1684576586,
       "rank": 28,
@@ -7665,6 +7681,14 @@
       "onboard_time": 1684372591,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 227222,
+      "num": 227222,
+      "word": "台湾选手领奖时展示五星红旗",
+      "onboard_time": 1684578147,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226929,
@@ -7985,6 +8009,14 @@
       "onboard_time": 1684224328,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 218438,
+      "num": 192886,
+      "word": "虞书欣孟美岐格子套装",
+      "onboard_time": 1684577007,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 217837,
@@ -8587,14 +8619,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 201137,
-      "num": 166290,
-      "word": "王传君给王鹤棣打伞",
-      "onboard_time": 1684577426,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 200863,
       "num": 200863,
       "word": "后浪扔外卖剧情是真的",
@@ -8809,6 +8833,14 @@
       "onboard_time": 1684420291,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193189,
+      "num": 193189,
+      "word": "德班世乒赛",
+      "onboard_time": 1684578026,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 192846,
@@ -9651,6 +9683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175390,
+      "num": 175390,
+      "word": "泽连斯基抵达广岛",
+      "onboard_time": 1684574968,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 175154,
       "num": 175154,
       "word": "莫兰特",
@@ -9689,6 +9729,14 @@
       "onboard_time": 1684162232,
       "rank": 44,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 174360,
+      "num": 145105,
+      "word": "陈小春应采儿520合照",
+      "onboard_time": 1684577967,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 174294,
@@ -9793,6 +9841,14 @@
       "onboard_time": 1684413507,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 171850,
+      "num": 171850,
+      "word": "XYG资格赛开门红",
+      "onboard_time": 1684577907,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 171813,
@@ -10379,14 +10435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 155308,
-      "num": 131826,
-      "word": "虞书欣孟美岐格子套装",
-      "onboard_time": 1684577007,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 155050,
       "num": 155050,
       "word": "声生不息五公上半场舞台剧照",
@@ -10667,6 +10715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148066,
+      "num": 144979,
+      "word": "银河护卫队3",
+      "onboard_time": 1684577547,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148029,
       "num": 148029,
       "word": "张韶涵巡演",
@@ -10852,7 +10908,7 @@
     },
     {
       "raw_hot": 144569,
-      "num": 130997,
+      "num": 144361,
       "word": "赵露思分享一句话给所有女孩子",
       "onboard_time": 1684576225,
       "rank": 41,
@@ -11128,6 +11184,14 @@
       "word": "崔康熙 主教练",
       "onboard_time": 1684234049,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 136079,
+      "num": 136079,
+      "word": "冯彦哲",
+      "onboard_time": 1684578749,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -11515,6 +11579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124233,
+      "num": 127463,
+      "word": "长大后感觉夏天的味道变了",
+      "onboard_time": 1684575567,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124011,
       "num": 169501,
       "word": "华为手表60s做10项健康微体检",
@@ -11545,14 +11617,6 @@
       "onboard_time": 1684288710,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122322,
-      "num": 127463,
-      "word": "长大后感觉夏天的味道变了",
-      "onboard_time": 1684575567,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 122240,
@@ -11713,14 +11777,6 @@
       "onboard_time": 1684133725,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 117323,
-      "num": 127433,
-      "word": "泽连斯基抵达广岛",
-      "onboard_time": 1684574968,
-      "rank": 49,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 116846,
