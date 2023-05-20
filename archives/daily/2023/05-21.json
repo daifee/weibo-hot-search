@@ -1,7 +1,15 @@
 {
   "startTime": 1684599621121,
-  "endTime": 1684600526733,
+  "endTime": 1684602842143,
   "band_list": [
+    {
+      "raw_hot": 2214555,
+      "num": 2214555,
+      "word": "韩网",
+      "onboard_time": 1684598309,
+      "rank": 6,
+      "category": "游戏"
+    },
     {
       "raw_hot": 1822815,
       "num": 1822815,
@@ -9,14 +17,6 @@
       "onboard_time": 1684598188,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1812875,
-      "num": 1812875,
-      "word": "韩网",
-      "onboard_time": 1684598309,
-      "rank": 6,
-      "category": "游戏"
     },
     {
       "raw_hot": 1388211,
@@ -123,8 +123,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 390888,
-      "num": 318484,
+      "raw_hot": 430296,
+      "num": 430296,
       "word": "好多艺人去看了BLACKPINK演唱会",
       "onboard_time": 1684597351,
       "rank": 21,
@@ -203,8 +203,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 286260,
-      "num": 286260,
+      "raw_hot": 301538,
+      "num": 301538,
       "word": "T1超话",
       "onboard_time": 1684598729,
       "rank": 33,
@@ -249,6 +249,14 @@
       "onboard_time": 1684598609,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225827,
+      "num": 176104,
+      "word": "满江红",
+      "onboard_time": 1684601424,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 217482,
@@ -339,6 +347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 166560,
+      "num": 166560,
+      "word": "众人从死神手中抢救回孩子",
+      "onboard_time": 1684600589,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160628,
       "num": 160628,
       "word": "许嵩 薛之谦演唱会嘉宾",
@@ -408,6 +424,14 @@
       "word": "谢谢温暖过我们的陌生人",
       "onboard_time": 1684595010,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76037,
+      "num": 76037,
+      "word": "男子悄悄为妻子准备惊喜",
+      "onboard_time": 1684602563,
+      "rank": 49,
       "category": "社会新闻"
     }
   ],
