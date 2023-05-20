@@ -1,6 +1,6 @@
 {
   "startTime": 1684513305148,
-  "endTime": 1684553618943,
+  "endTime": 1684556388514,
   "band_list": [
     {
       "raw_hot": 2374635,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2302380,
-      "num": 2302380,
+      "raw_hot": 2307477,
+      "num": 2307477,
       "word": "肯德基玩具",
       "onboard_time": 1684549825,
       "rank": 30,
@@ -67,8 +67,8 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 1166833,
-      "num": 1166833,
+      "raw_hot": 1182221,
+      "num": 1182221,
       "word": "微信开放520元红包",
       "onboard_time": 1684550847,
       "rank": 5,
@@ -99,12 +99,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 955920,
-      "num": 955920,
+      "raw_hot": 1007565,
+      "num": 1007565,
       "word": "王俊凯去录向往的生活了吗",
       "onboard_time": 1684552168,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 994653,
+      "num": 994653,
+      "word": "王源巡演",
+      "onboard_time": 1684556247,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 858490,
@@ -163,12 +171,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 614233,
+      "num": 614233,
+      "word": "厦航偷拍飞行员被行政拘留",
+      "onboard_time": 1684554506,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 606382,
       "num": 606382,
       "word": "热火",
       "onboard_time": 1684549766,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 605939,
+      "num": 605939,
+      "word": "四个人拍出四部剧",
+      "onboard_time": 1684552467,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 604055,
@@ -267,20 +291,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 419060,
-      "num": 419060,
-      "word": "四个人拍出四部剧",
-      "onboard_time": 1684552467,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 404119,
       "num": 334692,
       "word": "Amber没有选芝芙",
       "onboard_time": 1684512509,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 394302,
+      "num": 394302,
+      "word": "许凯虞书欣仙剑六祈今朝牵手海报",
+      "onboard_time": 1684552826,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 392478,
@@ -299,20 +323,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 382382,
-      "num": 382382,
-      "word": "许凯虞书欣仙剑六祈今朝牵手海报",
-      "onboard_time": 1684552826,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 379260,
       "num": 379260,
       "word": "热火vs凯尔特人",
       "onboard_time": 1684550906,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 375378,
+      "num": 375378,
+      "word": "G7",
+      "onboard_time": 1684551086,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 374098,
@@ -328,6 +352,14 @@
       "word": "张雨绮看到凯特布兰切特的反应",
       "onboard_time": 1684510411,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 369806,
+      "num": 369806,
+      "word": "鹅厂bg之光",
+      "onboard_time": 1684549766,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -395,14 +427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 288214,
-      "num": 262697,
-      "word": "鹅厂bg之光",
-      "onboard_time": 1684549766,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 284144,
       "num": 164325,
       "word": "柳智敏戴了粉丝送的项链",
@@ -451,14 +475,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 268003,
-      "num": 268003,
-      "word": "G7",
-      "onboard_time": 1684551086,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 264330,
       "num": 264330,
       "word": "Bin哥",
@@ -473,6 +489,14 @@
       "onboard_time": 1684544007,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 261415,
+      "num": 248838,
+      "word": "斗罗大陆",
+      "onboard_time": 1684555046,
+      "rank": 21,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 260335,
@@ -505,6 +529,22 @@
       "onboard_time": 1684510650,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 242670,
+      "num": 242670,
+      "word": "仪式感很强但有点丢人",
+      "onboard_time": 1684555347,
+      "rank": 22,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 240436,
+      "num": 240436,
+      "word": "赵丽颖对镜比心六连拍",
+      "onboard_time": 1684552826,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 236256,
@@ -571,12 +611,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 214925,
-      "num": 214925,
-      "word": "赵丽颖对镜比心六连拍",
-      "onboard_time": 1684552826,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 215205,
+      "num": 215205,
+      "word": "梁源",
+      "onboard_time": 1684554026,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 211364,
@@ -667,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180828,
+      "num": 180828,
+      "word": "今天有好多演唱会",
+      "onboard_time": 1684554087,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 177499,
       "num": 177499,
       "word": "医生看熊猫花花路上救了个人",
@@ -681,6 +729,22 @@
       "onboard_time": 1684498771,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 170306,
+      "num": 170306,
+      "word": "演出经纪人",
+      "onboard_time": 1684556308,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 168608,
+      "num": 168608,
+      "word": "出差十五夜",
+      "onboard_time": 1684554268,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 168530,
@@ -721,6 +785,14 @@
       "onboard_time": 1684539443,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154594,
+      "num": 154594,
+      "word": "种地吧",
+      "onboard_time": 1684556247,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 154212,
@@ -811,6 +883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132185,
+      "num": 132185,
+      "word": "护心双休",
+      "onboard_time": 1684556065,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 131843,
       "num": 131843,
       "word": "周深知道真相后范丞丞的反应",
@@ -865,6 +945,14 @@
       "onboard_time": 1684545748,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123461,
+      "num": 123461,
+      "word": "玉桂狗",
+      "onboard_time": 1684556365,
+      "rank": 46,
+      "category": "其它"
     },
     {
       "raw_hot": 120837,
@@ -1003,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92178,
+      "num": 218161,
+      "word": "你会因为KPI不达标焦虑吗",
+      "onboard_time": 1684553907,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75870,
       "num": 75870,
       "word": "原来减脂餐可以这么好吃",
@@ -1017,6 +1113,14 @@
       "onboard_time": 1684487368,
       "rank": 41,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 72118,
+      "num": 146858,
+      "word": "我的cp天下第一",
+      "onboard_time": 1684555226,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 66155,
@@ -1049,6 +1153,14 @@
       "onboard_time": 1684537878,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50624,
+      "num": 177851,
+      "word": "520最意想不到的约会",
+      "onboard_time": 1684555947,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 48595,
