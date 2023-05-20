@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684552638602,
+  "endTime": 1684553618943,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -307,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2302380,
+      "num": 2302380,
+      "word": "肯德基玩具",
+      "onboard_time": 1684549825,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 2293807,
       "num": 592587,
       "word": "浙江",
@@ -377,14 +385,6 @@
       "onboard_time": 1684504953,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2166601,
-      "num": 2166601,
-      "word": "肯德基玩具",
-      "onboard_time": 1684549825,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 2148095,
@@ -1363,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1166833,
+      "num": 1166833,
+      "word": "微信开放520元红包",
+      "onboard_time": 1684550847,
+      "rank": 5,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1159603,
       "num": 1159603,
       "word": "高中女生自发厕所内放卫生巾互助",
@@ -1715,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 955920,
+      "num": 955920,
+      "word": "王俊凯去录向往的生活了吗",
+      "onboard_time": 1684552168,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 951281,
       "num": 951281,
       "word": "窦靖童和王菲是怎么认识的",
@@ -1897,14 +1913,6 @@
       "onboard_time": 1684193904,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 876684,
-      "num": 876684,
-      "word": "微信开放520元红包",
-      "onboard_time": 1684550847,
-      "rank": 5,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 860342,
@@ -2635,6 +2643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 604055,
+      "num": 604055,
+      "word": "布丁狗",
+      "onboard_time": 1684551566,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 603594,
       "num": 387922,
       "word": "杨洋胸针",
@@ -2964,7 +2980,7 @@
     },
     {
       "raw_hot": 532246,
-      "num": 245093,
+      "num": 267728,
       "word": "三千万把年龄倒过来你愿意吗",
       "onboard_time": 1684543349,
       "rank": 21,
@@ -3040,6 +3056,14 @@
       "word": "马刺抽中状元签",
       "onboard_time": 1684283734,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 518167,
+      "num": 518167,
+      "word": "巴特勒格威冲突",
+      "onboard_time": 1684551987,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -4019,6 +4043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 419060,
+      "num": 419060,
+      "word": "四个人拍出四部剧",
+      "onboard_time": 1684552467,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 418562,
       "num": 418562,
       "word": "A股",
@@ -4416,6 +4448,14 @@
       "word": "戛纳 Kpop艺人",
       "onboard_time": 1684295373,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 382382,
+      "num": 382382,
+      "word": "许凯虞书欣仙剑六祈今朝牵手海报",
+      "onboard_time": 1684552826,
+      "rank": 14,
       "category": "影视"
     },
     {
@@ -4971,14 +5011,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 339009,
-      "num": 339009,
-      "word": "布丁狗",
-      "onboard_time": 1684551566,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 338647,
       "num": 270289,
       "word": "饭局上客户说菜点多了",
@@ -5347,14 +5379,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 313345,
-      "num": 313345,
-      "word": "巴特勒格威冲突",
-      "onboard_time": 1684551987,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 313259,
       "num": 313259,
       "word": "别让郑秀妍看到浪姐4的伴舞",
@@ -5571,14 +5595,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 301753,
-      "num": 301753,
-      "word": "王俊凯去录向往的生活了吗",
-      "onboard_time": 1684552168,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 300464,
       "num": 300464,
       "word": "谁能管管上海动物园的这两只天鹅",
@@ -5764,10 +5780,18 @@
     },
     {
       "raw_hot": 289943,
-      "num": 224908,
+      "num": 254804,
       "word": "花间令",
       "onboard_time": 1684550486,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 288214,
+      "num": 262697,
+      "word": "鹅厂bg之光",
+      "onboard_time": 1684549766,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -5809,14 +5833,6 @@
       "onboard_time": 1684338990,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 285984,
-      "num": 228653,
-      "word": "鹅厂bg之光",
-      "onboard_time": 1684549766,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 285768,
@@ -6209,6 +6225,14 @@
       "onboard_time": 1684240229,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268003,
+      "num": 268003,
+      "word": "G7",
+      "onboard_time": 1684551086,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267400,
@@ -7379,6 +7403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 222501,
+      "num": 222501,
+      "word": "退回家的全职儿女们",
+      "onboard_time": 1684548626,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222236,
       "num": 222236,
       "word": "华莎表演动作",
@@ -7619,6 +7651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 214925,
+      "num": 214925,
+      "word": "赵丽颖对镜比心六连拍",
+      "onboard_time": 1684552826,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214908,
       "num": 214908,
       "word": "gidle空降",
@@ -7857,14 +7897,6 @@
       "onboard_time": 1684503030,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 208191,
-      "num": 208191,
-      "word": "退回家的全职儿女们",
-      "onboard_time": 1684548626,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207781,
@@ -8777,14 +8809,6 @@
       "onboard_time": 1684377869,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 181234,
-      "num": 181234,
-      "word": "G7",
-      "onboard_time": 1684551086,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180804,
@@ -10307,14 +10331,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 139458,
-      "num": 139458,
-      "word": "四个人拍出四部剧",
-      "onboard_time": 1684552467,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 139250,
       "num": 139250,
       "word": "Cat入选春季赛第二阵容",
@@ -11587,20 +11603,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 66155,
+      "num": 116746,
+      "word": "520为TA送什么礼物好",
+      "onboard_time": 1684551086,
+      "rank": 48,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 65587,
       "num": 252782,
       "word": "什么能影响消费者的购车决策",
       "onboard_time": 1684115245,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 64461,
-      "num": 116746,
-      "word": "520为TA送什么礼物好",
-      "onboard_time": 1684551086,
-      "rank": 48,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 63849,
@@ -11913,6 +11929,14 @@
       "onboard_time": 1684097592,
       "rank": 47,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 17772,
+      "num": 123277,
+      "word": "金晨跳舞松弛感",
+      "onboard_time": 1684553069,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 17565,

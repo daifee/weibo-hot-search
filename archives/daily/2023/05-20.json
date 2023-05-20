@@ -1,6 +1,6 @@
 {
   "startTime": 1684513305148,
-  "endTime": 1684552638602,
+  "endTime": 1684553618943,
   "band_list": [
     {
       "raw_hot": 2374635,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2166601,
-      "num": 2166601,
+      "raw_hot": 2302380,
+      "num": 2302380,
       "word": "肯德基玩具",
       "onboard_time": 1684549825,
       "rank": 30,
@@ -67,6 +67,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 1166833,
+      "num": 1166833,
+      "word": "微信开放520元红包",
+      "onboard_time": 1684550847,
+      "rank": 5,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1060315,
       "num": 1060315,
       "word": "520",
@@ -91,12 +99,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 876684,
-      "num": 876684,
-      "word": "微信开放520元红包",
-      "onboard_time": 1684550847,
-      "rank": 5,
-      "category": "科技,社会新闻"
+      "raw_hot": 955920,
+      "num": 955920,
+      "word": "王俊凯去录向往的生活了吗",
+      "onboard_time": 1684552168,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 858490,
@@ -163,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 604055,
+      "num": 604055,
+      "word": "布丁狗",
+      "onboard_time": 1684551566,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 572712,
       "num": 572712,
       "word": "浪姐4二公结果",
@@ -180,11 +196,19 @@
     },
     {
       "raw_hot": 532246,
-      "num": 245093,
+      "num": 267728,
       "word": "三千万把年龄倒过来你愿意吗",
       "onboard_time": 1684543349,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 518167,
+      "num": 518167,
+      "word": "巴特勒格威冲突",
+      "onboard_time": 1684551987,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 508057,
@@ -243,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419060,
+      "num": 419060,
+      "word": "四个人拍出四部剧",
+      "onboard_time": 1684552467,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 404119,
       "num": 334692,
       "word": "Amber没有选芝芙",
@@ -264,6 +296,14 @@
       "word": "长相思",
       "onboard_time": 1684551445,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 382382,
+      "num": 382382,
+      "word": "许凯虞书欣仙剑六祈今朝牵手海报",
+      "onboard_time": 1684552826,
+      "rank": 14,
       "category": "影视"
     },
     {
@@ -315,14 +355,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 339009,
-      "num": 339009,
-      "word": "布丁狗",
-      "onboard_time": 1684551566,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 324679,
       "num": 324679,
       "word": "演员谈恋爱需要公开吗",
@@ -347,14 +379,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 313345,
-      "num": 313345,
-      "word": "巴特勒格威冲突",
-      "onboard_time": 1684551987,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 309343,
       "num": 309343,
       "word": "Tabe跑错选手席庆祝",
@@ -363,24 +387,16 @@
       "category": "游戏,游戏"
     },
     {
-      "raw_hot": 301753,
-      "num": 301753,
-      "word": "王俊凯去录向往的生活了吗",
-      "onboard_time": 1684552168,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 289943,
-      "num": 224908,
+      "num": 254804,
       "word": "花间令",
       "onboard_time": 1684550486,
       "rank": 34,
       "category": "影视"
     },
     {
-      "raw_hot": 285984,
-      "num": 228653,
+      "raw_hot": 288214,
+      "num": 262697,
       "word": "鹅厂bg之光",
       "onboard_time": 1684549766,
       "rank": 27,
@@ -433,6 +449,14 @@
       "onboard_time": 1684538661,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 268003,
+      "num": 268003,
+      "word": "G7",
+      "onboard_time": 1684551086,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264330,
@@ -531,6 +555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 222501,
+      "num": 222501,
+      "word": "退回家的全职儿女们",
+      "onboard_time": 1684548626,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216922,
       "num": 216922,
       "word": "别低估减肥给你带来的变化",
@@ -539,20 +571,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214925,
+      "num": 214925,
+      "word": "赵丽颖对镜比心六连拍",
+      "onboard_time": 1684552826,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211364,
       "num": 211364,
       "word": "哈登 火箭",
       "onboard_time": 1684540463,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208191,
-      "num": 208191,
-      "word": "退回家的全职儿女们",
-      "onboard_time": 1684548626,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206733,
@@ -633,14 +665,6 @@
       "onboard_time": 1684509513,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181234,
-      "num": 181234,
-      "word": "G7",
-      "onboard_time": 1684551086,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177499,
@@ -761,14 +785,6 @@
       "onboard_time": 1684544187,
       "rank": 39,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 139458,
-      "num": 139458,
-      "word": "四个人拍出四部剧",
-      "onboard_time": 1684552467,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 139147,
@@ -1003,20 +1019,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 66155,
+      "num": 116746,
+      "word": "520为TA送什么礼物好",
+      "onboard_time": 1684551086,
+      "rank": 48,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 65766,
       "num": 1428225,
       "word": "语文课本里的中国有多美",
       "onboard_time": 1684502791,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 64461,
-      "num": 116746,
-      "word": "520为TA送什么礼物好",
-      "onboard_time": 1684551086,
-      "rank": 48,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 60642,
@@ -1040,6 +1056,14 @@
       "word": "ALin抢到了朱珠",
       "onboard_time": 1684532293,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 17772,
+      "num": 123277,
+      "word": "金晨跳舞松弛感",
+      "onboard_time": 1684553069,
+      "rank": 42,
       "category": "综艺"
     }
   ],
