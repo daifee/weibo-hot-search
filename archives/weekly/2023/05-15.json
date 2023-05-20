@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684588683833,
+  "endTime": 1684589605060,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -1323,6 +1323,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 1234052,
+      "num": 1234052,
+      "word": "于文文嘲笑GAI歪嘴",
+      "onboard_time": 1684585888,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1221403,
       "num": 1221403,
       "word": "有退休金与没退休金的直观展示",
@@ -1377,14 +1385,6 @@
       "onboard_time": 1684136491,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1188225,
-      "num": 1188225,
-      "word": "于文文嘲笑GAI歪嘴",
-      "onboard_time": 1684585888,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 1188212,
@@ -2340,7 +2340,7 @@
     },
     {
       "raw_hot": 750531,
-      "num": 250858,
+      "num": 271303,
       "word": "对避孕羞耻说不",
       "onboard_time": 1684578388,
       "rank": 23,
@@ -2817,6 +2817,14 @@
       "onboard_time": 1684584086,
       "rank": 7,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 608234,
+      "num": 608234,
+      "word": "许嵩 薛之谦演唱会嘉宾",
+      "onboard_time": 1684587748,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 606769,
@@ -4371,14 +4379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 414842,
-      "num": 414842,
-      "word": "许嵩 薛之谦演唱会嘉宾",
-      "onboard_time": 1684587748,
-      "rank": 11,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 414183,
       "num": 350363,
       "word": "戛纳红毯还得看女明星",
@@ -4795,6 +4795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 383737,
+      "num": 383737,
+      "word": "洪世贤艾莉瞒着品如二搭了",
+      "onboard_time": 1684588168,
+      "rank": 28,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 383124,
       "num": 383124,
       "word": "罗翔谈自律",
@@ -5139,6 +5147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 362486,
+      "num": 269457,
+      "word": "吵架到一半发现男朋友是对的",
+      "onboard_time": 1684587089,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 361131,
       "num": 361131,
       "word": "24岁热心小伙卖电瓶车意外收获爱情",
@@ -5233,14 +5249,6 @@
       "onboard_time": 1684143688,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 355536,
-      "num": 246525,
-      "word": "吵架到一半发现男朋友是对的",
-      "onboard_time": 1684587089,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 354911,
@@ -5363,6 +5371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 347477,
+      "num": 420212,
+      "word": "孕妈提议用心形护患者隐私全院采纳",
+      "onboard_time": 1684587391,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347162,
       "num": 324204,
       "word": "Ella听到许靖韵淘汰的反应",
@@ -5449,6 +5465,14 @@
       "onboard_time": 1684309651,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340020,
+      "num": 340020,
+      "word": "陈雨菲",
+      "onboard_time": 1684589068,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 339330,
@@ -6651,6 +6675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 273990,
+      "num": 268240,
+      "word": "恋爱瘾在这一刻达到了顶峰",
+      "onboard_time": 1684587690,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 273617,
       "num": 273617,
       "word": "莫兰德疯狂抢断",
@@ -7603,14 +7635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 237054,
-      "num": 237054,
-      "word": "恋爱瘾在这一刻达到了顶峰",
-      "onboard_time": 1684587690,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 236770,
       "num": 236770,
       "word": "檀健次王楚然拥抱路透",
@@ -7683,14 +7707,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 234718,
-      "num": 234718,
-      "word": "孕妈提议用心形护患者隐私全院采纳",
-      "onboard_time": 1684587391,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 234688,
       "num": 234688,
       "word": "巩俐戛纳红色裤装",
@@ -7705,14 +7721,6 @@
       "onboard_time": 1684310733,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 234101,
-      "num": 234101,
-      "word": "洪世贤艾莉瞒着品如二搭了",
-      "onboard_time": 1684588168,
-      "rank": 28,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 233688,
@@ -8523,6 +8531,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 212273,
+      "num": 212273,
+      "word": "叶舒华一秒变脸",
+      "onboard_time": 1684589188,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212081,
       "num": 178040,
       "word": "霍尊否认结婚时间将近",
@@ -8755,6 +8771,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 204774,
+      "num": 204774,
+      "word": "网红三千哥直播pk喝酒后去世",
+      "onboard_time": 1684589128,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204352,
       "num": 204352,
       "word": "赵露思cos蜂蜜狗造型花絮",
@@ -8907,6 +8931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200861,
+      "num": 200861,
+      "word": "秦霄贤说喜欢的人在现场",
+      "onboard_time": 1684589188,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199977,
       "num": 199977,
       "word": "梁成运间谍案一审宣判",
@@ -8953,6 +8985,14 @@
       "onboard_time": 1684372351,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198652,
+      "num": 198652,
+      "word": "欧阳娜娜去了BLACKPINK演唱会",
+      "onboard_time": 1684589008,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 198332,
@@ -9576,6 +9616,14 @@
       "word": "恭喜BLG",
       "onboard_time": 1684509697,
       "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 183946,
+      "num": 183946,
+      "word": "阴阳师520新式神爆料",
+      "onboard_time": 1684589368,
+      "rank": 36,
       "category": "游戏"
     },
     {
@@ -10251,6 +10299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170176,
+      "num": 170176,
+      "word": "黄磊向往的生活想办长桌宴",
+      "onboard_time": 1684589368,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169811,
       "num": 169768,
       "word": "李莎旻子带瞿颖Amber吃长沙小龙虾",
@@ -10489,6 +10545,14 @@
       "onboard_time": 1684375782,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 163681,
+      "num": 163681,
+      "word": "幼儿园毕业男孩戴墨镜偷偷流泪",
+      "onboard_time": 1684589068,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163673,
@@ -12153,6 +12217,14 @@
       "onboard_time": 1684538781,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117921,
+      "num": 117921,
+      "word": "苏杯中国1比1日本",
+      "onboard_time": 1684589489,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 117699,
