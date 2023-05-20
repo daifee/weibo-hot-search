@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684609968251,
+  "endTime": 1684611220290,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -13707,6 +13707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 40377,
+      "num": 40377,
+      "word": "孩子18岁成人礼爸妈偷偷化老年妆",
+      "onboard_time": 1684605558,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38591,
       "num": 38591,
       "word": "吉娜说数数看Amber抡了多少圈",
@@ -13737,14 +13745,6 @@
       "onboard_time": 1684058066,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 32088,
-      "num": 32088,
-      "word": "孩子18岁成人礼爸妈偷偷化老年妆",
-      "onboard_time": 1684605558,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31333,
@@ -13793,6 +13793,14 @@
       "onboard_time": 1684172114,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 25862,
+      "num": 25862,
+      "word": "米勒解说",
+      "onboard_time": 1684610953,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 25348,
