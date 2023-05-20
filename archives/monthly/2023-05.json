@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684611220290,
+  "endTime": 1684613784145,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -42091,6 +42091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 60742,
+      "num": 60742,
+      "word": "米勒解说",
+      "onboard_time": 1684610953,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 59983,
       "num": 59983,
       "word": "点赞新时代青春力量",
@@ -43049,14 +43057,6 @@
       "onboard_time": 1683654916,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 25862,
-      "num": 25862,
-      "word": "米勒解说",
-      "onboard_time": 1684610953,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 25851,

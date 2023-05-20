@@ -1,6 +1,6 @@
 {
   "startTime": 1684599621121,
-  "endTime": 1684611220290,
+  "endTime": 1684613784145,
   "band_list": [
     {
       "raw_hot": 2214555,
@@ -475,6 +475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 60742,
+      "num": 60742,
+      "word": "米勒解说",
+      "onboard_time": 1684610953,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 40377,
       "num": 40377,
       "word": "孩子18岁成人礼爸妈偷偷化老年妆",
@@ -489,14 +497,6 @@
       "onboard_time": 1684609094,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 25862,
-      "num": 25862,
-      "word": "米勒解说",
-      "onboard_time": 1684610953,
-      "rank": 43,
-      "category": "游戏"
     }
   ],
   "hotgov_list": [
