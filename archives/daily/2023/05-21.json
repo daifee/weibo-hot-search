@@ -1,6 +1,6 @@
 {
   "startTime": 1684599621121,
-  "endTime": 1684614824207,
+  "endTime": 1684617236735,
   "band_list": [
     {
       "raw_hot": 2214555,
@@ -483,8 +483,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 40377,
-      "num": 40377,
+      "raw_hot": 46811,
+      "num": 46811,
       "word": "孩子18岁成人礼爸妈偷偷化老年妆",
       "onboard_time": 1684605558,
       "rank": 41,
@@ -497,6 +497,14 @@
       "onboard_time": 1684609094,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13854,
+      "num": 19897,
+      "word": "巴赫穆特",
+      "onboard_time": 1684615932,
+      "rank": 49,
+      "category": "国外要闻"
     }
   ],
   "hotgov_list": [
