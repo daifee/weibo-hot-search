@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684557214736,
+  "endTime": 1684559714669,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -1025,6 +1025,14 @@
       "onboard_time": 1684495831,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1421266,
+      "num": 1421266,
+      "word": "玉桂狗",
+      "onboard_time": 1684556365,
+      "rank": 46,
+      "category": "其它"
     },
     {
       "raw_hot": 1418107,
@@ -2267,6 +2275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 720545,
+      "num": 720545,
+      "word": "刘亦菲的素颜状态",
+      "onboard_time": 1684557866,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 715641,
       "num": 715641,
       "word": "吉娜 大家别笑我了再听一下我的rap",
@@ -2915,6 +2931,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 547464,
+      "num": 547464,
+      "word": "陈意涵小考",
+      "onboard_time": 1684558588,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 547276,
       "num": 289012,
       "word": "张凌赫说的改天是哪天",
@@ -3121,6 +3145,14 @@
       "onboard_time": 1684216590,
       "rank": 17,
       "category": "科技"
+    },
+    {
+      "raw_hot": 511221,
+      "num": 511221,
+      "word": "许靖韵 淘汰",
+      "onboard_time": 1684559066,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 509140,
@@ -4059,6 +4091,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 419775,
+      "num": 419775,
+      "word": "杭州警方已对两名赖车乘客行政拘留7日",
+      "onboard_time": 1684558588,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 419124,
       "num": 419124,
       "word": "林彦俊深夜唱歌扰民",
@@ -4113,6 +4153,14 @@
       "onboard_time": 1684482148,
       "rank": 15,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 413504,
+      "num": 413504,
+      "word": "演出经纪人",
+      "onboard_time": 1684556308,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 411606,
@@ -4339,6 +4387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 390705,
+      "num": 245330,
+      "word": "肖战龚俊王鹤棣吴磊520开屏",
+      "onboard_time": 1684556426,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 390639,
       "num": 390639,
       "word": "提完离职后公司突然倒闭了",
@@ -4513,6 +4569,14 @@
       "onboard_time": 1684550906,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 378746,
+      "num": 378746,
+      "word": "杨丞琳回应质疑",
+      "onboard_time": 1684557505,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 377845,
@@ -5011,14 +5075,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 342872,
-      "num": 342872,
-      "word": "玉桂狗",
-      "onboard_time": 1684556365,
-      "rank": 46,
-      "category": "其它"
-    },
-    {
       "raw_hot": 340812,
       "num": 340812,
       "word": "原来每个户外人都有阴间照片",
@@ -5371,6 +5427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 315616,
+      "num": 315616,
+      "word": "阴阳师美依礼芽联动",
+      "onboard_time": 1684558947,
+      "rank": 17,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 315336,
       "num": 219482,
       "word": "终于轮到我脱单了",
@@ -5417,14 +5481,6 @@
       "onboard_time": 1684196128,
       "rank": 27,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 313353,
-      "num": 313353,
-      "word": "演出经纪人",
-      "onboard_time": 1684556308,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 313259,
@@ -6257,14 +6313,6 @@
       "onboard_time": 1684154127,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 268639,
-      "num": 242420,
-      "word": "肖战龚俊王鹤棣吴磊520开屏",
-      "onboard_time": 1684556426,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 268296,
@@ -7259,6 +7307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229312,
+      "num": 188677,
+      "word": "安乐传",
+      "onboard_time": 1684558110,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228867,
       "num": 228867,
       "word": "王者敦煌皮肤第四季",
@@ -7545,6 +7601,14 @@
       "onboard_time": 1684202607,
       "rank": 32,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 220052,
+      "num": 176177,
+      "word": "鞠婧祎刘学义牵手对视",
+      "onboard_time": 1684558708,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 219878,
@@ -8083,6 +8147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202960,
+      "num": 176121,
+      "word": "学中医的堂姐激情发言",
+      "onboard_time": 1684558708,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202957,
       "num": 202957,
       "word": "郁可唯入围金曲奖最佳华语女歌手",
@@ -8209,6 +8281,14 @@
       "onboard_time": 1684372351,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198598,
+      "num": 198598,
+      "word": "阴阳师",
+      "onboard_time": 1684222349,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 198332,
@@ -9131,6 +9211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 175463,
+      "num": 175463,
+      "word": "七旬爷爷买奶茶领情侣证送老伴",
+      "onboard_time": 1684558648,
+      "rank": 32,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 175391,
       "num": 136567,
       "word": "宋雨琦菜花头",
@@ -9233,6 +9321,14 @@
       "onboard_time": 1684272972,
       "rank": 22,
       "category": "社会新闻,社会新闻"
+    },
+    {
+      "raw_hot": 172476,
+      "num": 154575,
+      "word": "李佳临",
+      "onboard_time": 1684557086,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 172242,
@@ -9425,6 +9521,14 @@
       "onboard_time": 1684304671,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165600,
+      "num": 165600,
+      "word": "为和男友结婚伪造深度美颜身份证",
+      "onboard_time": 1684559308,
+      "rank": 33,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 165506,
@@ -9659,6 +9763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 158557,
+      "num": 120737,
+      "word": "业绩垫底对情绪影响有多大",
+      "onboard_time": 1684558287,
+      "rank": 48,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 158466,
       "num": 158466,
       "word": "天津的猪热中暑了",
@@ -9761,6 +9873,14 @@
       "onboard_time": 1684406608,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156099,
+      "num": 147778,
+      "word": "应采儿童年照撞脸Angelababy",
+      "onboard_time": 1684559367,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 155926,
@@ -10331,6 +10451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141822,
+      "num": 141822,
+      "word": "吴千语戛纳生图状态",
+      "onboard_time": 1684557749,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 141781,
       "num": 141781,
       "word": "老教授临终前将100万积蓄捐给学校",
@@ -10539,14 +10667,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 135162,
-      "num": 135162,
-      "word": "李佳临",
-      "onboard_time": 1684557086,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 134993,
       "num": 112854,
       "word": "林允儿跳了Ditto",
@@ -10617,14 +10737,6 @@
       "onboard_time": 1684201709,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132313,
-      "num": 132313,
-      "word": "阴阳师",
-      "onboard_time": 1684222349,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 132290,
@@ -10923,6 +11035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120534,
+      "num": 120534,
+      "word": "李泽言时间的折皱",
+      "onboard_time": 1684558947,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120475,
       "num": 120475,
       "word": "这会计真的非学不可吗",
@@ -11049,6 +11169,14 @@
       "onboard_time": 1684543827,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113571,
+      "num": 132906,
+      "word": "库洛米",
+      "onboard_time": 1684557268,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 113322,
@@ -11329,6 +11457,14 @@
       "onboard_time": 1684342161,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98419,
+      "num": 126887,
+      "word": "520那些浪漫又社死的瞬间",
+      "onboard_time": 1684559667,
+      "rank": 47,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 98321,
