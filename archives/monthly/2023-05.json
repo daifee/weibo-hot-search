@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684550496617,
+  "endTime": 1684552638602,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1267,6 +1267,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2166601,
+      "num": 2166601,
+      "word": "肯德基玩具",
+      "onboard_time": 1684549825,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 2166523,
       "num": 2166523,
       "word": "一夜醒来欠了地铁600多万",
@@ -2305,6 +2313,14 @@
       "onboard_time": 1682899587,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1691667,
+      "num": 1401989,
+      "word": "刘昊然周冬雨戛纳海边同框",
+      "onboard_time": 1684543529,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1689828,
@@ -3481,14 +3497,6 @@
       "onboard_time": 1683301651,
       "rank": 14,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1413358,
-      "num": 1401989,
-      "word": "刘昊然周冬雨戛纳海边同框",
-      "onboard_time": 1684543529,
-      "rank": 3,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1410753,
@@ -6531,6 +6539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 876684,
+      "num": 876684,
+      "word": "微信开放520元红包",
+      "onboard_time": 1684550847,
+      "rank": 5,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 874275,
       "num": 874275,
       "word": "霉霉 有屁重录",
@@ -9051,14 +9067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 613670,
-      "num": 613670,
-      "word": "肯德基玩具",
-      "onboard_time": 1684549825,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 613428,
       "num": 613428,
       "word": "苏群 湖人演过头",
@@ -9177,6 +9185,14 @@
       "onboard_time": 1683006328,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 606382,
+      "num": 606382,
+      "word": "热火",
+      "onboard_time": 1684376548,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 605752,
@@ -14899,6 +14915,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 390447,
+      "num": 390447,
+      "word": "长相思",
+      "onboard_time": 1683587963,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 389901,
       "num": 349108,
       "word": "白鹿给助理打伞",
@@ -15187,14 +15211,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 383308,
-      "num": 383308,
-      "word": "热火",
-      "onboard_time": 1684376548,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 383235,
       "num": 383235,
       "word": "我突然发现了赚钱的意义",
@@ -15409,6 +15425,14 @@
       "onboard_time": 1684038268,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379260,
+      "num": 379260,
+      "word": "热火vs凯尔特人",
+      "onboard_time": 1684550906,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 379153,
@@ -17459,6 +17483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 339009,
+      "num": 339009,
+      "word": "布丁狗",
+      "onboard_time": 1684551566,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 338856,
       "num": 338856,
       "word": "凉哈皮",
@@ -18947,6 +18979,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 313345,
+      "num": 313345,
+      "word": "巴特勒格威冲突",
+      "onboard_time": 1684551987,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 313259,
       "num": 313259,
       "word": "别让郑秀妍看到浪姐4的伴舞",
@@ -19569,6 +19609,14 @@
       "onboard_time": 1683663612,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301753,
+      "num": 301753,
+      "word": "王俊凯去录向往的生活了吗",
+      "onboard_time": 1684552168,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 301574,
@@ -20451,6 +20499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 289943,
+      "num": 224908,
+      "word": "花间令",
+      "onboard_time": 1684550486,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289880,
       "num": 289880,
       "word": "劳伦斯",
@@ -20721,6 +20777,14 @@
       "onboard_time": 1683714153,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 285984,
+      "num": 228653,
+      "word": "鹅厂bg之光",
+      "onboard_time": 1684549766,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 285768,
@@ -25747,14 +25811,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 228653,
-      "num": 228653,
-      "word": "鹅厂bg之光",
-      "onboard_time": 1684549766,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 228603,
       "num": 228603,
       "word": "游客强行翻越重庆千厮门大桥",
@@ -25857,14 +25913,6 @@
       "onboard_time": 1684482510,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227558,
-      "num": 227558,
-      "word": "长相思",
-      "onboard_time": 1683587963,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 227519,
@@ -29291,6 +29339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197300,
+      "num": 197300,
+      "word": "当代年轻人网购新趋势",
+      "onboard_time": 1684551386,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197206,
       "num": 159009,
       "word": "还得是二次元",
@@ -30947,14 +31003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183447,
-      "num": 183447,
-      "word": "花间令",
-      "onboard_time": 1684550486,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 183425,
       "num": 183425,
       "word": "奔跑吧今晚谁是镜中人",
@@ -31201,6 +31249,14 @@
       "onboard_time": 1684377869,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181234,
+      "num": 181234,
+      "word": "G7",
+      "onboard_time": 1684551086,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181168,
@@ -36051,6 +36107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 139458,
+      "num": 139458,
+      "word": "四个人拍出四部剧",
+      "onboard_time": 1684552467,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 139250,
       "num": 139250,
       "word": "Cat入选春季赛第二阵容",
@@ -40121,6 +40185,14 @@
       "onboard_time": 1683911419,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 64461,
+      "num": 116746,
+      "word": "520为TA送什么礼物好",
+      "onboard_time": 1684551086,
+      "rank": 48,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 64424,

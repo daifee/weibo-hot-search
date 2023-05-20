@@ -1,0 +1,410 @@
+{
+  "runTime": 1684552638602,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2166601,
+        "num": 2166601,
+        "word": "肯德基玩具",
+        "onboard_time": 1684549825,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1029247,
+        "num": 1029247,
+        "word": "明道回应与蒋雯丽拍戏争议",
+        "onboard_time": 1684542445,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21517,
+        "num": 889113,
+        "word": "语文课本里的中国有多美",
+        "onboard_time": 1684502791,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1691667,
+        "num": 886093,
+        "word": "刘昊然周冬雨戛纳海边同框",
+        "onboard_time": 1684543529,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1496521,
+        "num": 881739,
+        "word": "18岁男生继承30套房产后坠亡",
+        "onboard_time": 1684542145,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 876684,
+        "num": 876684,
+        "word": "微信开放520元红包",
+        "onboard_time": 1684550847,
+        "rank": 5,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 606382,
+        "num": 606382,
+        "word": "热火",
+        "onboard_time": 1684549766,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 592254,
+        "num": 592254,
+        "word": "徐志胜娜扎 微笑pasta",
+        "onboard_time": 1684542568,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 588391,
+        "num": 588391,
+        "word": "汤唯 戛纳",
+        "onboard_time": 1684538599,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 390447,
+        "num": 390447,
+        "word": "长相思",
+        "onboard_time": 1684551445,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 801252,
+        "num": 389373,
+        "word": "弑母案吴谢宇自称考试机器值得警醒",
+        "onboard_time": 1684541365,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379260,
+        "num": 379260,
+        "word": "热火vs凯尔特人",
+        "onboard_time": 1684550906,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376089,
+        "num": 376089,
+        "word": "520和521哪个更能代表我爱你",
+        "onboard_time": 1684536677,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339009,
+        "num": 339009,
+        "word": "布丁狗",
+        "onboard_time": 1684551566,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 369452,
+        "num": 334269,
+        "word": "劝分组",
+        "onboard_time": 1684546408,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 314036,
+        "num": 314036,
+        "word": "警方通报男子在高速服务区被撞身亡",
+        "onboard_time": 1684509031,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313345,
+        "num": 313345,
+        "word": "巴特勒格威冲突",
+        "onboard_time": 1684551987,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301753,
+        "num": 301753,
+        "word": "王俊凯去录向往的生活了吗",
+        "onboard_time": 1684552168,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260285,
+        "num": 260285,
+        "word": "永远可以相信古人的顶级审美",
+        "onboard_time": 1684540884,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225119,
+        "num": 225119,
+        "word": "情侣之间有必要过520吗",
+        "onboard_time": 1684536857,
+        "rank": 19,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 459496,
+        "num": 225071,
+        "word": "三千万把年龄倒过来你愿意吗",
+        "onboard_time": 1684543349,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289943,
+        "num": 224908,
+        "word": "花间令",
+        "onboard_time": 1684550486,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285984,
+        "num": 224701,
+        "word": "鹅厂bg之光",
+        "onboard_time": 1684549766,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222140,
+        "num": 222140,
+        "word": "24岁热心小伙卖电瓶车意外收获爱情",
+        "onboard_time": 1684546228,
+        "rank": 23,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 216432,
+        "num": 216432,
+        "word": "演员谈恋爱需要公开吗",
+        "onboard_time": 1684539443,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210969,
+        "num": 210969,
+        "word": "米勒 中国人有自己的相公",
+        "onboard_time": 1684507775,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205342,
+        "num": 205342,
+        "word": "退回家的全职儿女们",
+        "onboard_time": 1684548626,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200518,
+        "num": 200518,
+        "word": "白鹿姜雪宁重启人生",
+        "onboard_time": 1684544007,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197300,
+        "num": 197300,
+        "word": "当代年轻人网购新趋势",
+        "onboard_time": 1684551386,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128532,
+        "num": 196139,
+        "word": "谭爷爷给金宵偷递小苹果",
+        "onboard_time": 1684539443,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195409,
+        "num": 195409,
+        "word": "别低估减肥给你带来的变化",
+        "onboard_time": 1684547548,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193107,
+        "num": 193107,
+        "word": "宝宝地铁上一直哭安保端热水帮宝妈一起照顾",
+        "onboard_time": 1684541964,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186813,
+        "num": 186813,
+        "word": "为什么相亲都喜欢约在公园",
+        "onboard_time": 1684549168,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181234,
+        "num": 181234,
+        "word": "G7",
+        "onboard_time": 1684551086,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179351,
+        "num": 179351,
+        "word": "要久久爱",
+        "onboard_time": 1684549708,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178663,
+        "num": 178663,
+        "word": "钟丽缇体态",
+        "onboard_time": 1684539741,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167789,
+        "num": 167789,
+        "word": "河南长葛2.9级地震",
+        "onboard_time": 1684545686,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154322,
+        "num": 154322,
+        "word": "小伙为救人每天背AED上下班",
+        "onboard_time": 1684548986,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153714,
+        "num": 153714,
+        "word": "黄磊吴越都没考上徐峥的班",
+        "onboard_time": 1684541485,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146698,
+        "num": 146698,
+        "word": "汤唯戛纳渐变彩色长裙",
+        "onboard_time": 1684547127,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 140506,
+        "num": 140506,
+        "word": "Bin哥",
+        "onboard_time": 1684544306,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140387,
+        "num": 140387,
+        "word": "SEVENTEEN将出演花样青春",
+        "onboard_time": 1684536857,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139458,
+        "num": 139458,
+        "word": "四个人拍出四部剧",
+        "onboard_time": 1684552467,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129191,
+        "num": 129191,
+        "word": "终于轮到我脱单了",
+        "onboard_time": 1684545807,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123936,
+        "num": 123936,
+        "word": "Angelababy何超莲同框",
+        "onboard_time": 1684542445,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123872,
+        "num": 123872,
+        "word": "便利店女店员遭男子多次殴打",
+        "onboard_time": 1684523653,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118112,
+        "num": 118112,
+        "word": "Amber没有选芝芙",
+        "onboard_time": 1684512509,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117219,
+        "num": 117219,
+        "word": "周深知道真相后范丞丞的反应",
+        "onboard_time": 1684547548,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64461,
+        "num": 116746,
+        "word": "520为TA送什么礼物好",
+        "onboard_time": 1684551086,
+        "rank": 48,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 113578,
+        "num": 113795,
+        "word": "张雨绮看到凯特布兰切特的反应",
+        "onboard_time": 1684510411,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平寄语中国—中亚六国美好明天#"
+    }
+  }
+}
