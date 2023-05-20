@@ -1,7 +1,15 @@
 {
   "startTime": 1684513305148,
-  "endTime": 1684539214913,
+  "endTime": 1684545730131,
   "band_list": [
+    {
+      "raw_hot": 2276781,
+      "num": 2276781,
+      "word": "18岁男生继承30套房产后坠亡",
+      "onboard_time": 1684542145,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1956208,
       "num": 312404,
@@ -17,6 +25,22 @@
       "onboard_time": 1684510469,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1478108,
+      "num": 1478108,
+      "word": "明道回应与蒋雯丽拍戏争议",
+      "onboard_time": 1684542445,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1284733,
+      "num": 1284733,
+      "word": "刘昊然周冬雨戛纳海边同框",
+      "onboard_time": 1684543529,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1265180,
@@ -41,6 +65,22 @@
       "onboard_time": 1684514363,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1055993,
+      "num": 1055993,
+      "word": "弑母案吴谢宇自称考试机器值得警醒",
+      "onboard_time": 1684541365,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1041569,
+      "num": 1041569,
+      "word": "汤唯 戛纳",
+      "onboard_time": 1684538599,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 858490,
@@ -68,11 +108,27 @@
     },
     {
       "raw_hot": 776344,
-      "num": 184999,
+      "num": 204668,
       "word": "原来子宫比鸡蛋还要小",
       "onboard_time": 1684495831,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 671913,
+      "num": 671913,
+      "word": "易烊千玺520用代码放烟花",
+      "onboard_time": 1684542327,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 621628,
+      "num": 621628,
+      "word": "520和521哪个更能代表我爱你",
+      "onboard_time": 1684536677,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 572712,
@@ -83,12 +139,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 562422,
-      "num": 562422,
-      "word": "520和521哪个更能代表我爱你",
-      "onboard_time": 1684536677,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 530129,
+      "num": 530129,
+      "word": "徐志胜娜扎 微笑pasta",
+      "onboard_time": 1684542568,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 473773,
@@ -97,6 +153,22 @@
       "onboard_time": 1684510051,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 466316,
+      "num": 206285,
+      "word": "钟丽缇体态",
+      "onboard_time": 1684539741,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 461396,
+      "num": 205791,
+      "word": "三千万把年龄倒过来你愿意吗",
+      "onboard_time": 1684543349,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 436497,
@@ -131,12 +203,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 374098,
+      "num": 374098,
+      "word": "永远可以相信古人的顶级审美",
+      "onboard_time": 1684540884,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 372690,
       "num": 372690,
       "word": "张雨绮看到凯特布兰切特的反应",
       "onboard_time": 1684510411,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 361124,
+      "num": 205342,
+      "word": "教授用ChatGPT查重结果全班学生0分",
+      "onboard_time": 1684540042,
+      "rank": 22,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 324679,
+      "num": 324679,
+      "word": "演员谈恋爱需要公开吗",
+      "onboard_time": 1684539443,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 309343,
@@ -147,12 +243,12 @@
       "category": "游戏,游戏"
     },
     {
-      "raw_hot": 297228,
-      "num": 297228,
-      "word": "汤唯 戛纳",
-      "onboard_time": 1684538599,
-      "rank": 8,
-      "category": "作品衍生"
+      "raw_hot": 284512,
+      "num": 181634,
+      "word": "河南长葛2.9级地震",
+      "onboard_time": 1684545686,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284144,
@@ -161,6 +257,14 @@
       "onboard_time": 1684512749,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279937,
+      "num": 279937,
+      "word": "厦航客服回应网传飞行员偷拍被抓现行",
+      "onboard_time": 1684510469,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279214,
@@ -196,11 +300,19 @@
     },
     {
       "raw_hot": 270917,
-      "num": 102917,
+      "num": 212860,
       "word": "朱一龙刘昊然戛纳海边合影",
       "onboard_time": 1684538661,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 270097,
+      "num": 270097,
+      "word": "情侣之间有必要过520吗",
+      "onboard_time": 1684536857,
+      "rank": 18,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 260335,
@@ -219,12 +331,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 246027,
+      "num": 246027,
+      "word": "宝宝地铁上一直哭安保端热水帮宝妈一起照顾",
+      "onboard_time": 1684541964,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243704,
       "num": 181966,
       "word": "男朋友送了束假花给我",
       "onboard_time": 1684510650,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 239535,
+      "num": 239535,
+      "word": "chatGPT APP使用感受",
+      "onboard_time": 1684539624,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 232423,
+      "num": 204990,
+      "word": "黄磊吴越都没考上徐峥的班",
+      "onboard_time": 1684541485,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 231058,
@@ -251,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225588,
-      "num": 225588,
-      "word": "情侣之间有必要过520吗",
-      "onboard_time": 1684536857,
-      "rank": 18,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 224903,
       "num": 224903,
       "word": "BLG战胜GEN",
@@ -267,12 +395,44 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 187940,
-      "num": 187940,
+      "raw_hot": 211364,
+      "num": 211364,
+      "word": "哈登 火箭",
+      "onboard_time": 1684540463,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 206733,
+      "num": 206733,
       "word": "哪个瞬间你觉得自己该离职了",
       "onboard_time": 1684537759,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 199980,
+      "num": 199980,
+      "word": "白鹿姜雪宁重启人生",
+      "onboard_time": 1684544007,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 192405,
+      "num": 192405,
+      "word": "SEVENTEEN将出演花样青春",
+      "onboard_time": 1684536857,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 188045,
+      "num": 188045,
+      "word": "谁家大熊猫吃笋只吃笋尖尖",
+      "onboard_time": 1684538122,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186121,
@@ -291,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181577,
+      "num": 181577,
+      "word": "女孩似躺非趴一身反骨",
+      "onboard_time": 1684544426,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177050,
       "num": 177050,
       "word": "张凌赫说的改天是哪天",
@@ -299,8 +467,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 171065,
+      "num": 171065,
+      "word": "医生看熊猫花花路上救了个人",
+      "onboard_time": 1684543165,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168530,
-      "num": 102532,
+      "num": 122138,
       "word": "目击者讲述济南服务区撞人事故",
       "onboard_time": 1684537217,
       "rank": 30,
@@ -331,6 +507,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162407,
+      "num": 162407,
+      "word": "Angelababy何超莲同框",
+      "onboard_time": 1684542445,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 162126,
+      "num": 181736,
+      "word": "谭爷爷给金宵偷递小苹果",
+      "onboard_time": 1684539443,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153793,
+      "num": 153793,
+      "word": "Bin哥",
+      "onboard_time": 1684544306,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 152693,
       "num": 152693,
       "word": "塞尔达 使用木板和长矛就能原地起飞",
@@ -355,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148049,
+      "num": 148049,
+      "word": "便利店女店员遭男子多次殴打",
+      "onboard_time": 1684523653,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145859,
       "num": 145859,
       "word": "你比G2还好打",
@@ -371,12 +579,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139646,
-      "num": 132649,
-      "word": "谁家大熊猫吃笋只吃笋尖尖",
-      "onboard_time": 1684538122,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 139663,
+      "num": 139663,
+      "word": "今天520",
+      "onboard_time": 1684544187,
+      "rank": 39,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 139147,
@@ -393,6 +601,14 @@
       "onboard_time": 1684492651,
       "rank": 34,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 133700,
+      "num": 133700,
+      "word": "LPL二号种子 LCK一号种子",
+      "onboard_time": 1684517599,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 132957,
@@ -459,12 +675,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 119031,
+      "num": 119031,
+      "word": "澳洲最牛钉子户",
+      "onboard_time": 1684545567,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118287,
+      "num": 118287,
+      "word": "520文案",
+      "onboard_time": 1684538781,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115730,
       "num": 115730,
       "word": "同事让我给他看工资条后悔了",
       "onboard_time": 1684491331,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115018,
+      "num": 115018,
+      "word": "李秀满来北京的原因",
+      "onboard_time": 1684543827,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 113322,
@@ -481,22 +721,6 @@
       "onboard_time": 1684496072,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 110846,
-      "num": 110846,
-      "word": "LPL二号种子 LCK一号种子",
-      "onboard_time": 1684517599,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 109799,
-      "num": 109799,
-      "word": "SEVENTEEN将出演花样青春",
-      "onboard_time": 1684536857,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 107765,
@@ -531,22 +755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 83980,
-      "num": 83980,
-      "word": "520文案",
-      "onboard_time": 1684538781,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 80790,
-      "num": 80790,
-      "word": "便利店女店员遭男子多次殴打",
-      "onboard_time": 1684523653,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75870,
       "num": 75870,
       "word": "原来减脂餐可以这么好吃",
@@ -564,7 +772,7 @@
     },
     {
       "raw_hot": 65766,
-      "num": 817907,
+      "num": 1359061,
       "word": "语文课本里的中国有多美",
       "onboard_time": 1684502791,
       "rank": 2,
