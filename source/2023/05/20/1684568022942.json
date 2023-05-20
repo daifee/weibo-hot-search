@@ -1,0 +1,410 @@
+{
+  "runTime": 1684568022942,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1359706,
+        "num": 1359706,
+        "word": "玉桂狗",
+        "onboard_time": 1684556365,
+        "rank": 0,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 1010647,
+        "num": 1010647,
+        "word": "陈意涵小考",
+        "onboard_time": 1684558588,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54746,
+        "num": 844089,
+        "word": "中国有约",
+        "onboard_time": 1684565367,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 823560,
+        "num": 823560,
+        "word": "为和男友结婚伪造深度美颜身份证",
+        "onboard_time": 1684559308,
+        "rank": 3,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 741319,
+        "num": 741319,
+        "word": "厦航偷拍飞行员被行政拘留",
+        "onboard_time": 1684554506,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692091,
+        "num": 692091,
+        "word": "王菲李嫣法国同框照",
+        "onboard_time": 1684563446,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 659513,
+        "num": 659513,
+        "word": "汤唯迪士尼在逃公主",
+        "onboard_time": 1684564826,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 577685,
+        "num": 577685,
+        "word": "刘亦菲的素颜状态",
+        "onboard_time": 1684557866,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 534794,
+        "num": 534794,
+        "word": "微信开放520元红包",
+        "onboard_time": 1684550847,
+        "rank": 8,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 504947,
+        "num": 504947,
+        "word": "杭州警方已对两名赖车乘客行政拘留7日",
+        "onboard_time": 1684558588,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 908427,
+        "num": 504707,
+        "word": "赵露思的腿好白",
+        "onboard_time": 1684562606,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542874,
+        "num": 504172,
+        "word": "红毯四美",
+        "onboard_time": 1684564045,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 483276,
+        "num": 483276,
+        "word": "朱珠追着去跟许靖韵道别",
+        "onboard_time": 1684562426,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 459018,
+        "num": 459018,
+        "word": "惊封",
+        "onboard_time": 1684566564,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 384644,
+        "num": 384644,
+        "word": "18岁男生继承30套房产后坠亡",
+        "onboard_time": 1684542145,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345956,
+        "num": 345956,
+        "word": "肯德基玩具",
+        "onboard_time": 1684549825,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 315483,
+        "num": 315483,
+        "word": "Amber谢欣跳入观众席",
+        "onboard_time": 1684562246,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314187,
+        "num": 314187,
+        "word": "易烊千玺戛纳名利场",
+        "onboard_time": 1684566684,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 216950,
+        "num": 216950,
+        "word": "警嫂在抗癌日记中对丈夫说我应该离开你",
+        "onboard_time": 1684561407,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192698,
+        "num": 192698,
+        "word": "打工小伙请10天年假参加音乐比赛",
+        "onboard_time": 1684566085,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396041,
+        "num": 192160,
+        "word": "劝退了频繁请假的7岁琴童",
+        "onboard_time": 1684564227,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 330938,
+        "num": 191980,
+        "word": "六一放假通知",
+        "onboard_time": 1684565367,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270561,
+        "num": 190963,
+        "word": "王俊凯去录向往的生活了吗",
+        "onboard_time": 1684552168,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230944,
+        "num": 190080,
+        "word": "浪姐请Ella赚了",
+        "onboard_time": 1684561946,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190072,
+        "num": 190072,
+        "word": "男子为520领证准备半年",
+        "onboard_time": 1684559725,
+        "rank": 24,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 210073,
+        "num": 189891,
+        "word": "小鬼你管得着吗",
+        "onboard_time": 1684564527,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215281,
+        "num": 189041,
+        "word": "肖战龚俊王鹤棣吴磊520开屏",
+        "onboard_time": 1684556426,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175726,
+        "num": 175726,
+        "word": "三千万把年龄倒过来你愿意吗",
+        "onboard_time": 1684543349,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202839,
+        "num": 175234,
+        "word": "杨紫520营业照",
+        "onboard_time": 1684560747,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172187,
+        "num": 172187,
+        "word": "杭州亚运会",
+        "onboard_time": 1684565306,
+        "rank": 29,
+        "category": "体育,游戏"
+      },
+      {
+        "raw_hot": 182810,
+        "num": 172075,
+        "word": "秦岚回复钟汉良转身吃火锅去了",
+        "onboard_time": 1684567226,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168963,
+        "num": 168963,
+        "word": "女子独自输液外卖小哥帮插奶茶吸管",
+        "onboard_time": 1684567048,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168136,
+        "num": 168136,
+        "word": "阴阳师美依礼芽联动",
+        "onboard_time": 1684558947,
+        "rank": 32,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 161589,
+        "num": 161589,
+        "word": "王源重庆演唱会门票秒没",
+        "onboard_time": 1684565485,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157479,
+        "num": 157479,
+        "word": "Ella听到许靖韵淘汰的反应",
+        "onboard_time": 1684562910,
+        "rank": 34,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 157107,
+        "num": 157107,
+        "word": "网友解析孟羽童高分简历",
+        "onboard_time": 1684558409,
+        "rank": 35,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 155354,
+        "num": 155354,
+        "word": "超8成985211学生是B站用户",
+        "onboard_time": 1684567585,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152367,
+        "num": 152367,
+        "word": "24岁小伙带着一群年轻人干保洁",
+        "onboard_time": 1684565126,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144997,
+        "num": 144997,
+        "word": "华晨宇武汉",
+        "onboard_time": 1684564285,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143949,
+        "num": 143949,
+        "word": "结石姐生子",
+        "onboard_time": 1684567768,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143829,
+        "num": 143829,
+        "word": "小慧君",
+        "onboard_time": 1684566447,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 140651,
+        "num": 140651,
+        "word": "汤唯戛纳晚宴发言",
+        "onboard_time": 1684563507,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134660,
+        "num": 134660,
+        "word": "网友逛街擦肩鹿晗",
+        "onboard_time": 1684567585,
+        "rank": 42,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 133444,
+        "num": 133444,
+        "word": "刘昊然周冬雨戛纳海边同框",
+        "onboard_time": 1684543529,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128922,
+        "num": 128922,
+        "word": "桃花坞",
+        "onboard_time": 1684564585,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120561,
+        "num": 120561,
+        "word": "女子当全职主妇20余年离婚获5万劳补",
+        "onboard_time": 1684563386,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118988,
+        "num": 118988,
+        "word": "许靖韵 淘汰",
+        "onboard_time": 1684559066,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102989,
+        "num": 102989,
+        "word": "弑母案吴谢宇自称考试机器值得警醒",
+        "onboard_time": 1684541365,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100163,
+        "num": 100163,
+        "word": "雨天私家车为被困摩托挡激流",
+        "onboard_time": 1684567886,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33416,
+        "num": 100026,
+        "word": "钎城白衬衫好清新",
+        "onboard_time": 1684566085,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国—中亚峰会成果清单#"
+    }
+  }
+}
