@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684599621121,
+  "endTime": 1684600526733,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -579,12 +579,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1822815,
+      "num": 1822815,
+      "word": "雪莉的电影要播了",
+      "onboard_time": 1684598188,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1816631,
       "num": 1816631,
       "word": "Lisa刘亦菲赞达亚同框",
       "onboard_time": 1684280726,
       "rank": 0,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1812875,
+      "num": 1812875,
+      "word": "韩网",
+      "onboard_time": 1684598309,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 1807864,
@@ -1097,14 +1113,6 @@
       "onboard_time": 1684495831,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1418846,
-      "num": 1418846,
-      "word": "雪莉的电影要播了",
-      "onboard_time": 1684598188,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 1418107,
@@ -2411,14 +2419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 744621,
-      "num": 744621,
-      "word": "韩网",
-      "onboard_time": 1684598309,
-      "rank": 6,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 738729,
       "num": 738729,
       "word": "孟羽童图文广告报价至少15万一条",
@@ -2699,6 +2699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 671873,
+      "num": 671873,
+      "word": "张军",
+      "onboard_time": 1684597289,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 669038,
       "num": 445958,
       "word": "宁安如梦演员删评论",
@@ -2761,14 +2769,6 @@
       "onboard_time": 1684120709,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 650417,
-      "num": 650417,
-      "word": "张军",
-      "onboard_time": 1684597289,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 649696,
@@ -3843,6 +3843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 471973,
+      "num": 471973,
+      "word": "为妮钟秦",
+      "onboard_time": 1684593389,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 471790,
       "num": 471790,
       "word": "民警代办5元取款哄九旬老人回家",
@@ -4227,14 +4235,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 439892,
-      "num": 438244,
-      "word": "为妮钟秦",
-      "onboard_time": 1684593389,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 439815,
       "num": 439815,
       "word": "狗狗跟牛舌吻",
@@ -4281,6 +4281,14 @@
       "onboard_time": 1684161511,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 437380,
+      "num": 437380,
+      "word": "广州演唱会",
+      "onboard_time": 1684597528,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 436497,
@@ -4651,14 +4659,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 409755,
-      "num": 409755,
-      "word": "广州演唱会",
-      "onboard_time": 1684597528,
-      "rank": 13,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 409382,
       "num": 409382,
       "word": "葫芦鸡是峰会国宴的主菜",
@@ -4881,6 +4881,14 @@
       "onboard_time": 1684504831,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 390888,
+      "num": 318484,
+      "word": "好多艺人去看了BLACKPINK演唱会",
+      "onboard_time": 1684597351,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 390705,
@@ -5281,14 +5289,6 @@
       "onboard_time": 1684576346,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 367024,
-      "num": 318484,
-      "word": "好多艺人去看了BLACKPINK演唱会",
-      "onboard_time": 1684597351,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 366725,
@@ -6635,6 +6635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286260,
+      "num": 286260,
+      "word": "T1超话",
+      "onboard_time": 1684598729,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 285768,
       "num": 285768,
       "word": "李莎旻子说改名李莎抡子了",
@@ -7675,6 +7683,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 244544,
+      "num": 244544,
+      "word": "苏迪曼杯半决赛",
+      "onboard_time": 1684598609,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 244353,
       "num": 244353,
       "word": "文俊辉直播",
@@ -8467,14 +8483,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 221152,
-      "num": 221152,
-      "word": "苏迪曼杯半决赛",
-      "onboard_time": 1684598609,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 220951,
       "num": 213032,
       "word": "小慧君",
@@ -8713,14 +8721,6 @@
       "onboard_time": 1684209870,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 215281,
-      "num": 215281,
-      "word": "T1超话",
-      "onboard_time": 1684598729,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 215221,
@@ -8993,6 +8993,14 @@
       "onboard_time": 1684503030,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 208502,
+      "num": 208502,
+      "word": "柯基侧躺上面的腿沾不到地",
+      "onboard_time": 1684598067,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 207781,
@@ -9417,6 +9425,14 @@
       "onboard_time": 1684571726,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 194716,
+      "num": 194716,
+      "word": "秦霄贤备注王鹤棣最有安全感的男人",
+      "onboard_time": 1684599209,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 194550,
@@ -9985,14 +10001,6 @@
       "onboard_time": 1684567226,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 182538,
-      "num": 182538,
-      "word": "柯基侧躺上面的腿沾不到地",
-      "onboard_time": 1684598067,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 182479,
@@ -10611,14 +10619,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 171310,
-      "num": 171310,
-      "word": "秦霄贤备注王鹤棣最有安全感的男人",
-      "onboard_time": 1684599209,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 171227,
       "num": 171227,
       "word": "朱珠曾是MTV天籁村主持人",
@@ -10633,6 +10633,14 @@
       "onboard_time": 1684149627,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 170360,
+      "num": 170360,
+      "word": "李荣浩太原",
+      "onboard_time": 1684598910,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 170222,
@@ -11353,14 +11361,6 @@
       "onboard_time": 1684310428,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152030,
-      "num": 152030,
-      "word": "李荣浩太原",
-      "onboard_time": 1684598910,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 151982,
@@ -12307,6 +12307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126955,
+      "num": 126955,
+      "word": "海鸥是这么搞笑的一种鸟啊",
+      "onboard_time": 1684597108,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126882,
       "num": 126882,
       "word": "民工大叔躺地休息店主暖心递上枕头",
@@ -13123,6 +13131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 88359,
+      "num": 1682775,
+      "word": "谢谢温暖过我们的陌生人",
+      "onboard_time": 1684595010,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87337,
       "num": 87337,
       "word": "办公室除了我们都是贵又脆弱的东西",
@@ -13209,14 +13225,6 @@
       "onboard_time": 1684340906,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 82998,
-      "num": 1682775,
-      "word": "谢谢温暖过我们的陌生人",
-      "onboard_time": 1684595010,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82758,

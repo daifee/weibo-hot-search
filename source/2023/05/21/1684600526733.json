@@ -1,0 +1,410 @@
+{
+  "runTime": 1684600526733,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1822815,
+        "num": 1822815,
+        "word": "雪莉的电影要播了",
+        "onboard_time": 1684598188,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1812875,
+        "num": 1812875,
+        "word": "韩网",
+        "onboard_time": 1684598309,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 88359,
+        "num": 1202485,
+        "word": "谢谢温暖过我们的陌生人",
+        "onboard_time": 1684595010,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1018909,
+        "num": 1018909,
+        "word": "网红三千哥直播pk喝酒后去世",
+        "onboard_time": 1684589128,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 795745,
+        "num": 795745,
+        "word": "男双",
+        "onboard_time": 1684591830,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 752418,
+        "num": 752418,
+        "word": "美依礼芽二郎腿",
+        "onboard_time": 1684590389,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 750760,
+        "num": 750760,
+        "word": "赵琦君成功求婚杨凯雯",
+        "onboard_time": 1684577668,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 671873,
+        "num": 671873,
+        "word": "张军",
+        "onboard_time": 1684597289,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 585965,
+        "num": 585965,
+        "word": "BLG战胜T1",
+        "onboard_time": 1684593814,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 492276,
+        "num": 492276,
+        "word": "欧阳靖没人选",
+        "onboard_time": 1684592552,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 471973,
+        "num": 471973,
+        "word": "为妮钟秦",
+        "onboard_time": 1684593389,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449987,
+        "num": 449987,
+        "word": "苏杯中国2比2日本",
+        "onboard_time": 1684596687,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 437380,
+        "num": 437380,
+        "word": "广州演唱会",
+        "onboard_time": 1684597528,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 354164,
+        "num": 354164,
+        "word": "Bin 下一位受害者JDG",
+        "onboard_time": 1684595792,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 333455,
+        "num": 333455,
+        "word": "女双",
+        "onboard_time": 1684596810,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329355,
+        "num": 329355,
+        "word": "死缓犯狱中患癌离世家属索赔700余万",
+        "onboard_time": 1684580189,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286260,
+        "num": 286260,
+        "word": "T1超话",
+        "onboard_time": 1684598729,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 281114,
+        "num": 281114,
+        "word": "Faker",
+        "onboard_time": 1684588529,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 280205,
+        "num": 280205,
+        "word": "欧阳娜娜去了BLACKPINK演唱会",
+        "onboard_time": 1684589008,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 265078,
+        "num": 265078,
+        "word": "洪世贤艾莉瞒着品如二搭了",
+        "onboard_time": 1684588168,
+        "rank": 19,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 800538,
+        "num": 265059,
+        "word": "Angelababy怎么美成这样啊",
+        "onboard_time": 1684595730,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 390888,
+        "num": 264902,
+        "word": "好多艺人去看了BLACKPINK演唱会",
+        "onboard_time": 1684597351,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 307779,
+        "num": 264796,
+        "word": "秦霄贤说喜欢的人在现场",
+        "onboard_time": 1684589188,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285894,
+        "num": 264719,
+        "word": "对避孕羞耻说不",
+        "onboard_time": 1684578388,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264624,
+        "num": 264624,
+        "word": "黄磊向往的生活想办长桌宴",
+        "onboard_time": 1684589368,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251762,
+        "num": 251762,
+        "word": "男朋友在520给我发了5块2",
+        "onboard_time": 1684590090,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244544,
+        "num": 244544,
+        "word": "苏迪曼杯半决赛",
+        "onboard_time": 1684598609,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244015,
+        "num": 244015,
+        "word": "tabe二段跑",
+        "onboard_time": 1684596152,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237698,
+        "num": 237698,
+        "word": "张雨绮复刻十年前戛纳红毯pose",
+        "onboard_time": 1684597650,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131284,
+        "num": 218699,
+        "word": "幼儿园毕业男孩戴墨镜偷偷流泪",
+        "onboard_time": 1684589068,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527419,
+        "num": 218640,
+        "word": "于文文嘲笑GAI歪嘴",
+        "onboard_time": 1684585888,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218511,
+        "num": 218511,
+        "word": "oner",
+        "onboard_time": 1684595490,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 214952,
+        "num": 214952,
+        "word": "陈意涵不需要小考",
+        "onboard_time": 1684591709,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208502,
+        "num": 208502,
+        "word": "柯基侧躺上面的腿沾不到地",
+        "onboard_time": 1684598067,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194716,
+        "num": 194716,
+        "word": "秦霄贤备注王鹤棣最有安全感的男人",
+        "onboard_time": 1684599209,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187371,
+        "num": 187371,
+        "word": "吵架到一半发现男朋友是对的",
+        "onboard_time": 1684587089,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170360,
+        "num": 170360,
+        "word": "李荣浩太原",
+        "onboard_time": 1684598910,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162408,
+        "num": 162408,
+        "word": "张杰唱三生三世回忆杀",
+        "onboard_time": 1684590332,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160578,
+        "num": 160578,
+        "word": "许嵩 薛之谦演唱会嘉宾",
+        "onboard_time": 1684587748,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159024,
+        "num": 159024,
+        "word": "陈鑫海用梅子熟了告白卢洋洋",
+        "onboard_time": 1684592795,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157466,
+        "num": 157466,
+        "word": "你是一个不落啊 一个都没过上",
+        "onboard_time": 1684583907,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152861,
+        "num": 152861,
+        "word": "张杰演唱会",
+        "onboard_time": 1684586548,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148996,
+        "num": 148996,
+        "word": "LPL历史首次会师国际赛决赛",
+        "onboard_time": 1684594533,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144914,
+        "num": 144914,
+        "word": "杨颖又去看BLACKPINK演唱会",
+        "onboard_time": 1684593089,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131324,
+        "num": 131324,
+        "word": "异地恋接吻神器被曝擦边",
+        "onboard_time": 1684576346,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129891,
+        "num": 129891,
+        "word": "BLG晋级MSI决赛",
+        "onboard_time": 1684594054,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126955,
+        "num": 126955,
+        "word": "海鸥是这么搞笑的一种鸟啊",
+        "onboard_time": 1684597108,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124485,
+        "num": 124485,
+        "word": "叶舒华一秒变脸",
+        "onboard_time": 1684589188,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118575,
+        "num": 118575,
+        "word": "刘恋巡演",
+        "onboard_time": 1684598729,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113784,
+        "num": 113784,
+        "word": "BLACKPINK澳门演唱会",
+        "onboard_time": 1684575626,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国—中亚峰会成果清单#"
+    }
+  }
+}
