@@ -1,0 +1,410 @@
+{
+  "runTime": 1684560827684,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1646309,
+        "num": 1646309,
+        "word": "肯德基玩具",
+        "onboard_time": 1684549825,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1571171,
+        "num": 1571171,
+        "word": "玉桂狗",
+        "onboard_time": 1684556365,
+        "rank": 1,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 14323,
+        "num": 1398235,
+        "word": "语文课本里的中国有多美",
+        "onboard_time": 1684502791,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1234405,
+        "num": 1234405,
+        "word": "微信开放520元红包",
+        "onboard_time": 1684550847,
+        "rank": 3,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 1070693,
+        "num": 1070693,
+        "word": "陈意涵小考",
+        "onboard_time": 1684558588,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 854453,
+        "num": 854453,
+        "word": "杭州警方已对两名赖车乘客行政拘留7日",
+        "onboard_time": 1684558588,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 853273,
+        "num": 853273,
+        "word": "18岁男生继承30套房产后坠亡",
+        "onboard_time": 1684542145,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 799740,
+        "num": 799740,
+        "word": "刘亦菲的素颜状态",
+        "onboard_time": 1684557866,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 759287,
+        "num": 759287,
+        "word": "厦航偷拍飞行员被行政拘留",
+        "onboard_time": 1684554506,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719643,
+        "num": 719643,
+        "word": "王俊凯去录向往的生活了吗",
+        "onboard_time": 1684552168,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 695181,
+        "num": 695181,
+        "word": "许靖韵 淘汰",
+        "onboard_time": 1684559066,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432527,
+        "num": 432527,
+        "word": "刘昊然周冬雨戛纳海边同框",
+        "onboard_time": 1684543529,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 398508,
+        "num": 398508,
+        "word": "阴阳师美依礼芽联动",
+        "onboard_time": 1684558947,
+        "rank": 12,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 346201,
+        "num": 346201,
+        "word": "弑母案吴谢宇自称考试机器值得警醒",
+        "onboard_time": 1684541365,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333579,
+        "num": 333579,
+        "word": "演出经纪人",
+        "onboard_time": 1684556308,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 287043,
+        "num": 287043,
+        "word": "杨丞琳回应质疑",
+        "onboard_time": 1684557505,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285192,
+        "num": 285192,
+        "word": "汤唯 戛纳",
+        "onboard_time": 1684538599,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 283942,
+        "num": 283942,
+        "word": "徐志胜娜扎 微笑pasta",
+        "onboard_time": 1684542568,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259883,
+        "num": 259883,
+        "word": "四个人拍出四部剧",
+        "onboard_time": 1684552467,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227447,
+        "num": 227447,
+        "word": "明道回应与蒋雯丽拍戏争议",
+        "onboard_time": 1684542445,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392327,
+        "num": 227009,
+        "word": "三千万把年龄倒过来你愿意吗",
+        "onboard_time": 1684543349,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 303079,
+        "num": 224597,
+        "word": "肖战龚俊王鹤棣吴磊520开屏",
+        "onboard_time": 1684556426,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255344,
+        "num": 218084,
+        "word": "鞠婧祎刘学义牵手对视",
+        "onboard_time": 1684558708,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211460,
+        "num": 211460,
+        "word": "阴阳师",
+        "onboard_time": 1684559607,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206098,
+        "num": 206098,
+        "word": "七旬爷爷买奶茶领情侣证送老伴",
+        "onboard_time": 1684558648,
+        "rank": 24,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 203256,
+        "num": 203256,
+        "word": "赵丽颖对镜比心六连拍",
+        "onboard_time": 1684552826,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231628,
+        "num": 199828,
+        "word": "杨紫520营业照",
+        "onboard_time": 1684560747,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174322,
+        "num": 174322,
+        "word": "网友解析孟羽童高分简历",
+        "onboard_time": 1684558409,
+        "rank": 27,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 203610,
+        "num": 168454,
+        "word": "鹅厂bg之光",
+        "onboard_time": 1684549766,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153203,
+        "num": 153203,
+        "word": "布丁狗",
+        "onboard_time": 1684551566,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 300726,
+        "num": 152729,
+        "word": "为和男友结婚伪造深度美颜身份证",
+        "onboard_time": 1684559308,
+        "rank": 30,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 196352,
+        "num": 152386,
+        "word": "应采儿童年照撞脸Angelababy",
+        "onboard_time": 1684559367,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188272,
+        "num": 152043,
+        "word": "乘风二公",
+        "onboard_time": 1684560688,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178337,
+        "num": 151086,
+        "word": "学中医的堂姐激情发言",
+        "onboard_time": 1684558708,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151032,
+        "num": 151032,
+        "word": "G7",
+        "onboard_time": 1684551086,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176677,
+        "num": 146229,
+        "word": "王源巡演",
+        "onboard_time": 1684556247,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172957,
+        "num": 143543,
+        "word": "安乐传",
+        "onboard_time": 1684558110,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189562,
+        "num": 139848,
+        "word": "男子为520领证准备半年",
+        "onboard_time": 1684559725,
+        "rank": 37,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 159555,
+        "num": 133283,
+        "word": "许凯虞书欣仙剑六祈今朝牵手海报",
+        "onboard_time": 1684552826,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131445,
+        "num": 131445,
+        "word": "巴特勒格威冲突",
+        "onboard_time": 1684551987,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158515,
+        "num": 127751,
+        "word": "张嘉倪徐怀钰赵丽娜合作",
+        "onboard_time": 1684560266,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140266,
+        "num": 126330,
+        "word": "李佳临",
+        "onboard_time": 1684557086,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123241,
+        "num": 123241,
+        "word": "出差十五夜",
+        "onboard_time": 1684554268,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123059,
+        "num": 123059,
+        "word": "警方通报男子在高速服务区被撞身亡",
+        "onboard_time": 1684509031,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114776,
+        "num": 114776,
+        "word": "梁源",
+        "onboard_time": 1684554026,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114397,
+        "num": 114397,
+        "word": "西安一婚姻登记处520绕圈排长龙",
+        "onboard_time": 1684560624,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119625,
+        "num": 114074,
+        "word": "业绩垫底对情绪影响有多大",
+        "onboard_time": 1684558287,
+        "rank": 46,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 112931,
+        "num": 112931,
+        "word": "永远可以相信古人的顶级审美",
+        "onboard_time": 1684540884,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110833,
+        "num": 112886,
+        "word": "18岁盲人女孩自学8种乐器被老师夸赞",
+        "onboard_time": 1684559969,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 91519,
+        "num": 112799,
+        "word": "你会反复爱上同一种人吗",
+        "onboard_time": 1684560807,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平寄语中国—中亚六国美好明天#"
+    }
+  }
+}

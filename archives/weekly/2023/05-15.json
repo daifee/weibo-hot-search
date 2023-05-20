@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684559714669,
+  "endTime": 1684560827684,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -827,6 +827,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1571171,
+      "num": 1571171,
+      "word": "玉桂狗",
+      "onboard_time": 1684556365,
+      "rank": 46,
+      "category": "其它"
+    },
+    {
       "raw_hot": 1562197,
       "num": 1055676,
       "word": "胡兵工作室回应结婚",
@@ -1025,14 +1033,6 @@
       "onboard_time": 1684495831,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1421266,
-      "num": 1421266,
-      "word": "玉桂狗",
-      "onboard_time": 1684556365,
-      "rank": 46,
-      "category": "其它"
     },
     {
       "raw_hot": 1418107,
@@ -1267,6 +1267,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 1234405,
+      "num": 1234405,
+      "word": "微信开放520元红包",
+      "onboard_time": 1684550847,
+      "rank": 5,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1221403,
       "num": 1221403,
       "word": "有退休金与没退休金的直观展示",
@@ -1345,14 +1353,6 @@
       "onboard_time": 1684326027,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1182221,
-      "num": 1182221,
-      "word": "微信开放520元红包",
-      "onboard_time": 1684550847,
-      "rank": 5,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 1177288,
@@ -1521,6 +1521,14 @@
       "onboard_time": 1684293873,
       "rank": 16,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1070693,
+      "num": 1070693,
+      "word": "陈意涵小考",
+      "onboard_time": 1684558588,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 1068539,
@@ -1963,6 +1971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 854453,
+      "num": 854453,
+      "word": "杭州警方已对两名赖车乘客行政拘留7日",
+      "onboard_time": 1684558588,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 849799,
       "num": 849799,
       "word": "朱珠直拍 有种不顾我死活的美",
@@ -2105,6 +2121,14 @@
       "onboard_time": 1684415190,
       "rank": 25,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 799740,
+      "num": 799740,
+      "word": "刘亦菲的素颜状态",
+      "onboard_time": 1684557866,
+      "rank": 7,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 799607,
@@ -2275,14 +2299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 720545,
-      "num": 720545,
-      "word": "刘亦菲的素颜状态",
-      "onboard_time": 1684557866,
-      "rank": 7,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 715641,
       "num": 715641,
       "word": "吉娜 大家别笑我了再听一下我的rap",
@@ -2353,6 +2369,14 @@
       "onboard_time": 1684295672,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 695181,
+      "num": 695181,
+      "word": "许靖韵 淘汰",
+      "onboard_time": 1684559066,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 693807,
@@ -2931,14 +2955,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 547464,
-      "num": 547464,
-      "word": "陈意涵小考",
-      "onboard_time": 1684558588,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 547276,
       "num": 289012,
       "word": "张凌赫说的改天是哪天",
@@ -3145,14 +3161,6 @@
       "onboard_time": 1684216590,
       "rank": 17,
       "category": "科技"
-    },
-    {
-      "raw_hot": 511221,
-      "num": 511221,
-      "word": "许靖韵 淘汰",
-      "onboard_time": 1684559066,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 509140,
@@ -4091,14 +4099,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 419775,
-      "num": 419775,
-      "word": "杭州警方已对两名赖车乘客行政拘留7日",
-      "onboard_time": 1684558588,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 419124,
       "num": 419124,
       "word": "林彦俊深夜唱歌扰民",
@@ -4273,6 +4273,14 @@
       "onboard_time": 1684127312,
       "rank": 34,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 398508,
+      "num": 398508,
+      "word": "阴阳师美依礼芽联动",
+      "onboard_time": 1684558947,
+      "rank": 17,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 398483,
@@ -5427,14 +5435,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 315616,
-      "num": 315616,
-      "word": "阴阳师美依礼芽联动",
-      "onboard_time": 1684558947,
-      "rank": 17,
-      "category": "游戏,艺人"
-    },
-    {
       "raw_hot": 315336,
       "num": 219482,
       "word": "终于轮到我脱单了",
@@ -5697,6 +5697,14 @@
       "onboard_time": 1684209931,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 300726,
+      "num": 165600,
+      "word": "为和男友结婚伪造深度美颜身份证",
+      "onboard_time": 1684559308,
+      "rank": 33,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 300464,
@@ -6627,6 +6635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255344,
+      "num": 218084,
+      "word": "鞠婧祎刘学义牵手对视",
+      "onboard_time": 1684558708,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 255120,
       "num": 255120,
       "word": "刘雯红色薄纱上衣",
@@ -7243,6 +7259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231628,
+      "num": 199828,
+      "word": "杨紫520营业照",
+      "onboard_time": 1684560747,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231278,
       "num": 231278,
       "word": "哈登",
@@ -7603,14 +7627,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 220052,
-      "num": 176177,
-      "word": "鞠婧祎刘学义牵手对视",
-      "onboard_time": 1684558708,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 219878,
       "num": 219878,
       "word": "别对我动心杀青",
@@ -7907,6 +7923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 211460,
+      "num": 211460,
+      "word": "阴阳师",
+      "onboard_time": 1684222349,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 211364,
       "num": 211364,
       "word": "哈登 火箭",
@@ -8099,6 +8123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206098,
+      "num": 206098,
+      "word": "七旬爷爷买奶茶领情侣证送老伴",
+      "onboard_time": 1684558648,
+      "rank": 32,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 204352,
       "num": 204352,
       "word": "赵露思cos蜂蜜狗造型花絮",
@@ -8283,14 +8315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198598,
-      "num": 198598,
-      "word": "阴阳师",
-      "onboard_time": 1684222349,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 198332,
       "num": 190959,
       "word": "为什么人打电话猫在旁边喵喵叫",
@@ -8345,6 +8369,14 @@
       "onboard_time": 1684217250,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196352,
+      "num": 152386,
+      "word": "应采儿童年照撞脸Angelababy",
+      "onboard_time": 1684559367,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 195658,
@@ -8603,6 +8635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189562,
+      "num": 139848,
+      "word": "男子为520领证准备半年",
+      "onboard_time": 1684559725,
+      "rank": 37,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 189554,
       "num": 189554,
       "word": "陈皓",
@@ -8689,6 +8729,14 @@
       "onboard_time": 1684125635,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188272,
+      "num": 152043,
+      "word": "乘风二公",
+      "onboard_time": 1684560688,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 188051,
@@ -9211,14 +9259,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 175463,
-      "num": 175463,
-      "word": "七旬爷爷买奶茶领情侣证送老伴",
-      "onboard_time": 1684558648,
-      "rank": 32,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 175391,
       "num": 136567,
       "word": "宋雨琦菜花头",
@@ -9265,6 +9305,14 @@
       "onboard_time": 1684162232,
       "rank": 44,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 174322,
+      "num": 174322,
+      "word": "网友解析孟羽童高分简历",
+      "onboard_time": 1684558409,
+      "rank": 27,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 174294,
@@ -9523,14 +9571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165600,
-      "num": 165600,
-      "word": "为和男友结婚伪造深度美颜身份证",
-      "onboard_time": 1684559308,
-      "rank": 33,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 165506,
       "num": 165506,
       "word": "女子见小孩玩水多留意一眼救下3人",
@@ -9771,6 +9811,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 158515,
+      "num": 127751,
+      "word": "张嘉倪徐怀钰赵丽娜合作",
+      "onboard_time": 1684560266,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158466,
       "num": 158466,
       "word": "天津的猪热中暑了",
@@ -9873,14 +9921,6 @@
       "onboard_time": 1684406608,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156099,
-      "num": 147778,
-      "word": "应采儿童年照撞脸Angelababy",
-      "onboard_time": 1684559367,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 155926,
@@ -11171,6 +11211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114397,
+      "num": 114397,
+      "word": "西安一婚姻登记处520绕圈排长龙",
+      "onboard_time": 1684560624,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113571,
       "num": 132906,
       "word": "库洛米",
@@ -11217,6 +11265,14 @@
       "onboard_time": 1684057047,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 110833,
+      "num": 112886,
+      "word": "18岁盲人女孩自学8种乐器被老师夸赞",
+      "onboard_time": 1684559969,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 110685,
@@ -11585,6 +11641,14 @@
       "onboard_time": 1684082542,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 91519,
+      "num": 112799,
+      "word": "你会反复爱上同一种人吗",
+      "onboard_time": 1684560807,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 90664,
