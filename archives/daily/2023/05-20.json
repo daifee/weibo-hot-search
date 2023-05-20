@@ -1,6 +1,6 @@
 {
   "startTime": 1684513305148,
-  "endTime": 1684570755913,
+  "endTime": 1684571625936,
   "band_list": [
     {
       "raw_hot": 2374635,
@@ -91,6 +91,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 1168957,
+      "num": 1168957,
+      "word": "为和男友结婚伪造深度美颜身份证",
+      "onboard_time": 1684559308,
+      "rank": 33,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1090443,
       "num": 1090443,
       "word": "杭州警方已对两名赖车乘客行政拘留7日",
@@ -123,14 +131,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1021186,
-      "num": 1021186,
-      "word": "为和男友结婚伪造深度美颜身份证",
-      "onboard_time": 1684559308,
-      "rank": 33,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 1007565,
       "num": 1007565,
       "word": "王俊凯去录向往的生活了吗",
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 984823,
-      "num": 544725,
+      "num": 549167,
       "word": "赵露思的腿好白",
       "onboard_time": 1684562606,
       "rank": 10,
@@ -209,6 +209,14 @@
       "onboard_time": 1684495831,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 768235,
+      "num": 768235,
+      "word": "女子独自输液外卖小哥帮插奶茶吸管",
+      "onboard_time": 1684567048,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 707806,
@@ -299,14 +307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 559168,
-      "num": 559168,
-      "word": "女子独自输液外卖小哥帮插奶茶吸管",
-      "onboard_time": 1684567048,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 543916,
       "num": 543916,
       "word": "劝分组",
@@ -377,6 +377,14 @@
       "onboard_time": 1684509270,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 436155,
+      "num": 242795,
+      "word": "沙溢儿子近照",
+      "onboard_time": 1684569625,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 434314,
@@ -571,14 +579,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 354691,
-      "num": 242795,
-      "word": "沙溢儿子近照",
-      "onboard_time": 1684569625,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 343127,
       "num": 316711,
       "word": "浪姐请Ella赚了",
@@ -603,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318189,
+      "num": 209483,
+      "word": "超8成985211学生是B站用户",
+      "onboard_time": 1684567585,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315336,
       "num": 219482,
       "word": "终于轮到我脱单了",
@@ -619,20 +627,28 @@
       "category": "游戏,游戏"
     },
     {
-      "raw_hot": 308089,
-      "num": 209483,
-      "word": "超8成985211学生是B站用户",
-      "onboard_time": 1684567585,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 289943,
       "num": 254804,
       "word": "花间令",
       "onboard_time": 1684550486,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 286463,
+      "num": 170848,
+      "word": "迪丽热巴张婧仪穿了同款",
+      "onboard_time": 1684571006,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 284418,
+      "num": 170584,
+      "word": "金智秀韩丹桐同款黑色礼服",
+      "onboard_time": 1684570586,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 284144,
@@ -883,6 +899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 211798,
+      "num": 153829,
+      "word": "调查显示8成以上年轻人有生育意愿",
+      "onboard_time": 1684570825,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211460,
       "num": 211460,
       "word": "阴阳师",
@@ -897,6 +921,14 @@
       "onboard_time": 1684540463,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210300,
+      "num": 204692,
+      "word": "小慧君",
+      "onboard_time": 1684566447,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 210073,
@@ -921,14 +953,6 @@
       "onboard_time": 1684558648,
       "rank": 32,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 204692,
-      "num": 204692,
-      "word": "小慧君",
-      "onboard_time": 1684566447,
-      "rank": 40,
-      "category": "网红"
     },
     {
       "raw_hot": 202960,
@@ -1001,6 +1025,22 @@
       "onboard_time": 1684544426,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191488,
+      "num": 139926,
+      "word": "张杰哈尔滨",
+      "onboard_time": 1684571307,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 188591,
+      "num": 171334,
+      "word": "请别相信她",
+      "onboard_time": 1684569866,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 188272,
@@ -1129,22 +1169,6 @@
       "onboard_time": 1684556065,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 171334,
-      "num": 171334,
-      "word": "请别相信她",
-      "onboard_time": 1684569866,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 170584,
-      "num": 170584,
-      "word": "金智秀韩丹桐同款黑色礼服",
-      "onboard_time": 1684570586,
-      "rank": 32,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 168530,
@@ -1283,6 +1307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146476,
+      "num": 120495,
+      "word": "梁洁你好星期六女友感出发图",
+      "onboard_time": 1684570527,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145859,
       "num": 145859,
       "word": "你比G2还好打",
@@ -1331,6 +1363,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 135383,
+      "num": 135383,
+      "word": "18种小鸟说了18句520",
+      "onboard_time": 1684569866,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134660,
       "num": 134660,
       "word": "网友逛街擦肩鹿晗",
@@ -1353,14 +1393,6 @@
       "onboard_time": 1684503511,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 132812,
-      "num": 132812,
-      "word": "18种小鸟说了18句520",
-      "onboard_time": 1684569866,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131843,
@@ -1473,14 +1505,6 @@
       "onboard_time": 1684558947,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 120495,
-      "num": 120495,
-      "word": "梁洁你好星期六女友感出发图",
-      "onboard_time": 1684570527,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 120247,
@@ -1667,20 +1691,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 89589,
+      "num": 106863,
+      "word": "男子在120远程指导下哭着救回妻子",
+      "onboard_time": 1684570527,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86104,
       "num": 146858,
       "word": "我的cp天下第一",
       "onboard_time": 1684555226,
       "rank": 39,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 84965,
-      "num": 103537,
-      "word": "男子在120远程指导下哭着救回妻子",
-      "onboard_time": 1684570527,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78756,
@@ -1705,6 +1729,14 @@
       "onboard_time": 1684487368,
       "rank": 41,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 67992,
+      "num": 106675,
+      "word": "天津119和120劝人就像说相声",
+      "onboard_time": 1684571065,
+      "rank": 48,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 66155,
@@ -1732,7 +1764,7 @@
     },
     {
       "raw_hot": 54746,
-      "num": 900811,
+      "num": 911425,
       "word": "中国有约",
       "onboard_time": 1684565367,
       "rank": 2,
@@ -1753,6 +1785,14 @@
       "onboard_time": 1684562426,
       "rank": 39,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 51021,
+      "num": 106083,
+      "word": "张大仙",
+      "onboard_time": 1684571547,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 51018,
