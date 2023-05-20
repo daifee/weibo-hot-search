@@ -1,10 +1,10 @@
 {
   "startTime": 1684513305148,
-  "endTime": 1684589605060,
+  "endTime": 1684592090828,
   "band_list": [
     {
       "raw_hot": 3007037,
-      "num": 894451,
+      "num": 1130129,
       "word": "赵琦君成功求婚杨凯雯",
       "onboard_time": 1684577668,
       "rank": 13,
@@ -73,6 +73,14 @@
       "onboard_time": 1684542445,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1518660,
+      "num": 1518660,
+      "word": "网红三千哥直播pk喝酒后去世",
+      "onboard_time": 1684589128,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1508643,
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 875958,
+      "num": 875958,
+      "word": "美依礼芽二郎腿",
+      "onboard_time": 1684590389,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 858490,
       "num": 802677,
       "word": "刘诗诗Angelababy同框",
@@ -241,6 +257,14 @@
       "onboard_time": 1684507775,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 831414,
+      "num": 831414,
+      "word": "洪世贤艾莉瞒着品如二搭了",
+      "onboard_time": 1684588168,
+      "rank": 28,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 817257,
@@ -467,6 +491,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 492512,
+      "num": 213557,
+      "word": "秦霄贤说喜欢的人在现场",
+      "onboard_time": 1684589188,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 483276,
       "num": 483276,
       "word": "朱珠追着去跟许靖韵道别",
@@ -563,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 417729,
+      "num": 417729,
+      "word": "陈雨菲",
+      "onboard_time": 1684589068,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 415570,
       "num": 258605,
       "word": "六一放假通知",
@@ -593,6 +633,14 @@
       "onboard_time": 1684512509,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 402331,
+      "num": 402331,
+      "word": "张杰唱三生三世回忆杀",
+      "onboard_time": 1684590332,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 398453,
@@ -657,14 +705,6 @@
       "onboard_time": 1684561407,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 383737,
-      "num": 383737,
-      "word": "洪世贤艾莉瞒着品如二搭了",
-      "onboard_time": 1684588168,
-      "rank": 28,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 382707,
@@ -787,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 348004,
+      "num": 348004,
+      "word": "幼儿园毕业男孩戴墨镜偷偷流泪",
+      "onboard_time": 1684589068,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347477,
       "num": 420212,
       "word": "孕妈提议用心形护患者隐私全院采纳",
@@ -817,14 +865,6 @@
       "onboard_time": 1684561946,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 340020,
-      "num": 340020,
-      "word": "陈雨菲",
-      "onboard_time": 1684589068,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 331358,
@@ -921,6 +961,14 @@
       "onboard_time": 1684587151,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 298861,
+      "num": 212273,
+      "word": "叶舒华一秒变脸",
+      "onboard_time": 1684589188,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 296224,
@@ -1083,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257225,
+      "num": 210652,
+      "word": "男朋友在520给我发了5块2",
+      "onboard_time": 1684590090,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 257001,
       "num": 257001,
       "word": "chatGPT APP使用感受",
@@ -1105,6 +1161,14 @@
       "onboard_time": 1684499668,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 250626,
+      "num": 250626,
+      "word": "Faker",
+      "onboard_time": 1684588529,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 249151,
@@ -1163,14 +1227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 239957,
-      "num": 239957,
-      "word": "Faker",
-      "onboard_time": 1684588529,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 237622,
       "num": 202019,
       "word": "河边的错误戛纳首映",
@@ -1209,6 +1265,14 @@
       "onboard_time": 1684580609,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233033,
+      "num": 210326,
+      "word": "欧阳娜娜去了BLACKPINK演唱会",
+      "onboard_time": 1684589008,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 232423,
@@ -1273,6 +1337,22 @@
       "onboard_time": 1684488208,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228672,
+      "num": 209475,
+      "word": "戛纳ins关注朱一龙",
+      "onboard_time": 1684590270,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 228400,
+      "num": 208634,
+      "word": "黄磊向往的生活想办长桌宴",
+      "onboard_time": 1684589368,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 224903,
@@ -1355,14 +1435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212273,
-      "num": 212273,
-      "word": "叶舒华一秒变脸",
-      "onboard_time": 1684589188,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 211460,
       "num": 211460,
       "word": "阴阳师",
@@ -1377,6 +1449,14 @@
       "onboard_time": 1684540463,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210349,
+      "num": 199729,
+      "word": "陈意涵不需要小考",
+      "onboard_time": 1684591709,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 210073,
@@ -1403,14 +1483,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 204774,
-      "num": 204774,
-      "word": "网红三千哥直播pk喝酒后去世",
-      "onboard_time": 1684589128,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202960,
       "num": 176121,
       "word": "学中医的堂姐激情发言",
@@ -1425,14 +1497,6 @@
       "onboard_time": 1684586128,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 200861,
-      "num": 200861,
-      "word": "秦霄贤说喜欢的人在现场",
-      "onboard_time": 1684589188,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 199941,
@@ -1457,14 +1521,6 @@
       "onboard_time": 1684556247,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 198652,
-      "num": 198652,
-      "word": "欧阳娜娜去了BLACKPINK演唱会",
-      "onboard_time": 1684589008,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 197330,
@@ -1643,6 +1699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 182626,
+      "num": 182626,
+      "word": "苏杯中国1比2日本",
+      "onboard_time": 1684591229,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181839,
       "num": 181839,
       "word": "为什么我们不擅长表达爱",
@@ -1715,6 +1779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 176837,
+      "num": 176837,
+      "word": "李宇春演唱会",
+      "onboard_time": 1684582828,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 175390,
       "num": 175390,
       "word": "泽连斯基抵达广岛",
@@ -1779,14 +1851,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 170176,
-      "num": 170176,
-      "word": "黄磊向往的生活想办长桌宴",
-      "onboard_time": 1684589368,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 168530,
       "num": 122138,
       "word": "目击者讲述济南服务区撞人事故",
@@ -1825,14 +1889,6 @@
       "onboard_time": 1684497810,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163681,
-      "num": 163681,
-      "word": "幼儿园毕业男孩戴墨镜偷偷流泪",
-      "onboard_time": 1684589068,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162126,
@@ -1875,6 +1931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157932,
+      "num": 157932,
+      "word": "天津津门虎vs山东泰山",
+      "onboard_time": 1684590869,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157894,
       "num": 157894,
       "word": "津门虎",
@@ -1905,6 +1969,14 @@
       "onboard_time": 1684563507,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 155057,
+      "num": 155057,
+      "word": "男双",
+      "onboard_time": 1684591830,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 154908,
@@ -2075,20 +2147,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132388,
+      "num": 132388,
+      "word": "中超",
+      "onboard_time": 1684591530,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131843,
       "num": 131843,
       "word": "周深知道真相后范丞丞的反应",
       "onboard_time": 1684547548,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131367,
-      "num": 131367,
-      "word": "李宇春演唱会",
-      "onboard_time": 1684582828,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 130653,
@@ -2460,7 +2532,7 @@
     },
     {
       "raw_hot": 81061,
-      "num": 893291,
+      "num": 1175073,
       "word": "今天一起表白祖国",
       "onboard_time": 1684584149,
       "rank": 2,

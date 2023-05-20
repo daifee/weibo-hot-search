@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684589605060,
+  "endTime": 1684592090828,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 3007037,
-      "num": 894451,
+      "num": 1130129,
       "word": "赵琦君成功求婚杨凯雯",
       "onboard_time": 1684577668,
       "rank": 13,
@@ -3041,6 +3041,14 @@
       "onboard_time": 1683812849,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1518660,
+      "num": 1518660,
+      "word": "网红三千哥直播pk喝酒后去世",
+      "onboard_time": 1684589128,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1517967,
@@ -6659,6 +6667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 875958,
+      "num": 875958,
+      "word": "美依礼芽二郎腿",
+      "onboard_time": 1684590389,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 874275,
       "num": 874275,
       "word": "霉霉 有屁重录",
@@ -7001,6 +7017,14 @@
       "onboard_time": 1683170370,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 831414,
+      "num": 831414,
+      "word": "洪世贤艾莉瞒着品如二搭了",
+      "onboard_time": 1684588168,
+      "rank": 28,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 830229,
@@ -11715,6 +11739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 492512,
+      "num": 213557,
+      "word": "秦霄贤说喜欢的人在现场",
+      "onboard_time": 1684589188,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 492478,
       "num": 492478,
       "word": "蔡徐坤朱梓骁同框旧照",
@@ -14195,6 +14227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 417729,
+      "num": 417729,
+      "word": "陈雨菲",
+      "onboard_time": 1684589068,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 417599,
       "num": 451457,
       "word": "催生催育 女性选择",
@@ -14713,6 +14753,14 @@
       "onboard_time": 1683779911,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 402331,
+      "num": 402331,
+      "word": "张杰唱三生三世回忆杀",
+      "onboard_time": 1684590332,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 402279,
@@ -15569,14 +15617,6 @@
       "onboard_time": 1684467569,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 383737,
-      "num": 383737,
-      "word": "洪世贤艾莉瞒着品如二搭了",
-      "onboard_time": 1684588168,
-      "rank": 28,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 383517,
@@ -17507,6 +17547,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 348004,
+      "num": 348004,
+      "word": "幼儿园毕业男孩戴墨镜偷偷流泪",
+      "onboard_time": 1684589068,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347768,
       "num": 347768,
       "word": "蔡徐坤和碧梨MetGala合影",
@@ -17945,14 +17993,6 @@
       "onboard_time": 1683251128,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 340020,
-      "num": 340020,
-      "word": "陈雨菲",
-      "onboard_time": 1684589068,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 339600,
@@ -20353,6 +20393,14 @@
       "onboard_time": 1683775228,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 298861,
+      "num": 212273,
+      "word": "叶舒华一秒变脸",
+      "onboard_time": 1684589188,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 298747,
@@ -23603,6 +23651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257225,
+      "num": 210652,
+      "word": "男朋友在520给我发了5块2",
+      "onboard_time": 1684590090,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 257121,
       "num": 257121,
       "word": "BABYMONSTER真的是五个人",
@@ -26099,6 +26155,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 233033,
+      "num": 210326,
+      "word": "欧阳娜娜去了BLACKPINK演唱会",
+      "onboard_time": 1684589008,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 233018,
       "num": 233018,
       "word": "乘风投票",
@@ -26523,6 +26587,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 228672,
+      "num": 209475,
+      "word": "戛纳ins关注朱一龙",
+      "onboard_time": 1684590270,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228653,
       "num": 646727,
       "word": "一梦2",
@@ -26553,6 +26625,14 @@
       "onboard_time": 1683258269,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 228400,
+      "num": 208634,
+      "word": "黄磊向往的生活想办长桌宴",
+      "onboard_time": 1684589368,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 228358,
@@ -28387,14 +28467,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 212273,
-      "num": 212273,
-      "word": "叶舒华一秒变脸",
-      "onboard_time": 1684589188,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 212125,
       "num": 212125,
       "word": "给麻将镶钻是什么体验",
@@ -28609,6 +28681,14 @@
       "onboard_time": 1683503125,
       "rank": 29,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 210349,
+      "num": 199729,
+      "word": "陈意涵不需要小考",
+      "onboard_time": 1684591709,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 210303,
@@ -29275,14 +29355,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 204774,
-      "num": 204774,
-      "word": "网红三千哥直播pk喝酒后去世",
-      "onboard_time": 1684589128,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204763,
       "num": 204763,
       "word": "五天爬五岳小伙晒打卡计划表",
@@ -29763,14 +29835,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 200861,
-      "num": 200861,
-      "word": "秦霄贤说喜欢的人在现场",
-      "onboard_time": 1684589188,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 200777,
       "num": 200777,
       "word": "周深的刘海还好吗",
@@ -29993,14 +30057,6 @@
       "onboard_time": 1683680311,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198652,
-      "num": 198652,
-      "word": "欧阳娜娜去了BLACKPINK演唱会",
-      "onboard_time": 1684589008,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 198648,
@@ -32051,6 +32107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182626,
+      "num": 182626,
+      "word": "苏杯中国1比2日本",
+      "onboard_time": 1684591229,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182479,
       "num": 182479,
       "word": "这种验榴莲的方式还是头一次见",
@@ -32849,6 +32913,14 @@
       "onboard_time": 1684230870,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 176837,
+      "num": 176837,
+      "word": "李宇春演唱会",
+      "onboard_time": 1684582828,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 176832,
@@ -33771,14 +33843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170176,
-      "num": 170176,
-      "word": "黄磊向往的生活想办长桌宴",
-      "onboard_time": 1684589368,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 170162,
       "num": 157829,
       "word": "第一次给朋友暖房时的幸福感",
@@ -34531,14 +34595,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 163681,
-      "num": 163681,
-      "word": "幼儿园毕业男孩戴墨镜偷偷流泪",
-      "onboard_time": 1684589068,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163673,
       "num": 163673,
       "word": "龚俊扶钟楚曦上楼梯",
@@ -35171,6 +35227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157932,
+      "num": 157932,
+      "word": "天津津门虎vs山东泰山",
+      "onboard_time": 1684590869,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157914,
       "num": 150658,
       "word": "声生不息为时代少年团演唱会送花篮",
@@ -35513,6 +35577,14 @@
       "onboard_time": 1683864811,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155057,
+      "num": 155057,
+      "word": "男双",
+      "onboard_time": 1684591830,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 155050,
@@ -37923,6 +37995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132388,
+      "num": 132388,
+      "word": "中超",
+      "onboard_time": 1684591530,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132290,
       "num": 1192637,
       "word": "志愿者自掏腰包陪盲人情侣游扬州",
@@ -38009,14 +38089,6 @@
       "onboard_time": 1683431068,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 131367,
-      "num": 131367,
-      "word": "李宇春演唱会",
-      "onboard_time": 1684582828,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 131044,
@@ -40932,7 +41004,7 @@
     },
     {
       "raw_hot": 81061,
-      "num": 893291,
+      "num": 1175073,
       "word": "今天一起表白祖国",
       "onboard_time": 1684584149,
       "rank": 2,
