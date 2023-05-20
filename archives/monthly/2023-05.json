@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684617236735,
+  "endTime": 1684618407628,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -42235,6 +42235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 53977,
+      "num": 53977,
+      "word": "孩子18岁成人礼爸妈偷偷化老年妆",
+      "onboard_time": 1684605558,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53912,
       "num": 366414,
       "word": "戛纳红毯上的出圈妆容",
@@ -42537,14 +42545,6 @@
       "onboard_time": 1684003035,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 46811,
-      "num": 46811,
-      "word": "孩子18岁成人礼爸妈偷偷化老年妆",
-      "onboard_time": 1684605558,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46418,
@@ -43179,6 +43179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19901,
+      "num": 19901,
+      "word": "巴赫穆特",
+      "onboard_time": 1684615932,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 19747,
       "num": 19820,
       "word": "曾舜晞孤舟回眸",
@@ -43265,14 +43273,6 @@
       "onboard_time": 1682839286,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13854,
-      "num": 19897,
-      "word": "巴赫穆特",
-      "onboard_time": 1684615932,
-      "rank": 49,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 13676,
