@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684593205673,
+  "endTime": 1684595745563,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -129,6 +129,14 @@
       "onboard_time": 1684224508,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 3045843,
+      "num": 3045843,
+      "word": "BLG战胜T1",
+      "onboard_time": 1684593814,
+      "rank": 0,
+      "category": "游戏"
     },
     {
       "raw_hot": 3007037,
@@ -771,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1653217,
+      "num": 1653217,
+      "word": "美依礼芽二郎腿",
+      "onboard_time": 1684590389,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1641832,
       "num": 1641832,
       "word": "关晓彤戛纳",
@@ -1019,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1442563,
+      "num": 1442563,
+      "word": "BLG晋级MSI决赛",
+      "onboard_time": 1684594054,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1437724,
       "num": 1437724,
       "word": "王一博赵丽颖 二搭",
@@ -1121,14 +1145,6 @@
       "onboard_time": 1684386331,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1377904,
-      "num": 1377904,
-      "word": "美依礼芽二郎腿",
-      "onboard_time": 1684590389,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 1374267,
@@ -1755,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1004374,
+      "num": 1004374,
+      "word": "男双",
+      "onboard_time": 1684591830,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 998153,
       "num": 796918,
       "word": "迪丽热巴张婧仪穿了同款",
@@ -2364,7 +2388,7 @@
     },
     {
       "raw_hot": 750531,
-      "num": 271303,
+      "num": 335389,
       "word": "对避孕羞耻说不",
       "onboard_time": 1684578388,
       "rank": 23,
@@ -2425,6 +2449,14 @@
       "onboard_time": 1684376427,
       "rank": 34,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 723619,
+      "num": 723619,
+      "word": "欧阳靖没人选",
+      "onboard_time": 1684592552,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 722220,
@@ -3268,7 +3300,7 @@
     },
     {
       "raw_hot": 530566,
-      "num": 227620,
+      "num": 340625,
       "word": "杨颖又去看BLACKPINK演唱会",
       "onboard_time": 1684593089,
       "rank": 20,
@@ -3313,6 +3345,14 @@
       "onboard_time": 1684463368,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 524364,
+      "num": 524364,
+      "word": "张杰唱三生三世回忆杀",
+      "onboard_time": 1684590332,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 522681,
@@ -3484,7 +3524,7 @@
     },
     {
       "raw_hot": 499268,
-      "num": 227404,
+      "num": 338244,
       "word": "秦霄贤说喜欢的人在现场",
       "onboard_time": 1684589188,
       "rank": 33,
@@ -3633,6 +3673,14 @@
       "onboard_time": 1684137330,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 479395,
+      "num": 338594,
+      "word": "BLG赢麻了",
+      "onboard_time": 1684593636,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 479219,
@@ -3785,6 +3833,14 @@
       "onboard_time": 1684403370,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 468202,
+      "num": 468202,
+      "word": "LPL历史首次会师国际赛决赛",
+      "onboard_time": 1684594533,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 467849,
@@ -4083,6 +4139,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 442280,
+      "num": 442280,
+      "word": "Bin哥说到做到",
+      "onboard_time": 1684594594,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 440891,
       "num": 440891,
       "word": "雅阁",
@@ -4107,6 +4171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 439892,
+      "num": 334562,
+      "word": "为妮钟秦",
+      "onboard_time": 1684593389,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 439815,
       "num": 439815,
       "word": "狗狗跟牛舌吻",
@@ -4123,6 +4195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 439410,
+      "num": 439410,
+      "word": "陈意涵不需要小考",
+      "onboard_time": 1684591709,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 438853,
       "num": 438853,
       "word": "于正有点人脉",
@@ -4137,14 +4217,6 @@
       "onboard_time": 1684228169,
       "rank": 29,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 437470,
-      "num": 402331,
-      "word": "张杰唱三生三世回忆杀",
-      "onboard_time": 1684590332,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 437423,
@@ -4408,6 +4480,22 @@
       "word": "陈雨菲",
       "onboard_time": 1684589068,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 417662,
+      "num": 417662,
+      "word": "黄磊向往的生活想办长桌宴",
+      "onboard_time": 1684589368,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 416231,
+      "num": 416231,
+      "word": "苏杯中国1比2日本",
+      "onboard_time": 1684591229,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -4825,14 +4913,6 @@
       "onboard_time": 1684289071,
       "rank": 18,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 384803,
-      "num": 384803,
-      "word": "陈意涵不需要小考",
-      "onboard_time": 1684591709,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 384570,
@@ -5651,6 +5731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331522,
+      "num": 331522,
+      "word": "男朋友在520给我发了5块2",
+      "onboard_time": 1684590090,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 331358,
       "num": 248474,
       "word": "第五人格",
@@ -6275,6 +6363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 295833,
+      "num": 295833,
+      "word": "欧阳娜娜去了BLACKPINK演唱会",
+      "onboard_time": 1684589008,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 295374,
       "num": 295374,
       "word": "丁程鑫说只要是七个人就好",
@@ -6360,6 +6456,14 @@
       "word": "张新成向往的生活预告",
       "onboard_time": 1684393408,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 291294,
+      "num": 291294,
+      "word": "陈鑫海用梅子熟了告白卢洋洋",
+      "onboard_time": 1684592795,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -6779,28 +6883,12 @@
       "category": "美妆,作品衍生"
     },
     {
-      "raw_hot": 272467,
-      "num": 226822,
-      "word": "男朋友在520给我发了5块2",
-      "onboard_time": 1684590090,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 272386,
       "num": 272386,
       "word": "光与夜之恋",
       "onboard_time": 1684117706,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 272056,
-      "num": 226787,
-      "word": "欧阳靖没人选",
-      "onboard_time": 1684592552,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 271628,
@@ -7475,6 +7563,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 244631,
+      "num": 244631,
+      "word": "周冬雨戛纳雨中排队看电影",
+      "onboard_time": 1684592192,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 244353,
       "num": 244353,
       "word": "文俊辉直播",
@@ -7851,14 +7947,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 233033,
-      "num": 211985,
-      "word": "欧阳娜娜去了BLACKPINK演唱会",
-      "onboard_time": 1684589008,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 232735,
       "num": 232735,
       "word": "任泽平建议推出五年内燃油车禁售时间表",
@@ -7920,14 +8008,6 @@
       "word": "杨丞琳祝福赵琦君杨凯雯",
       "onboard_time": 1684587089,
       "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 231355,
-      "num": 226346,
-      "word": "陈鑫海用梅子熟了告白卢洋洋",
-      "onboard_time": 1684592795,
-      "rank": 27,
       "category": "综艺"
     },
     {
@@ -8027,28 +8107,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 228400,
-      "num": 214650,
-      "word": "黄磊向往的生活想办长桌宴",
-      "onboard_time": 1684589368,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 227877,
       "num": 227877,
       "word": "脱口秀 冒犯的艺术",
       "onboard_time": 1684156229,
       "rank": 33,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 227685,
-      "num": 227685,
-      "word": "男双",
-      "onboard_time": 1684591830,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 227610,
@@ -8587,14 +8651,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 214223,
-      "num": 226221,
-      "word": "苏杯中国1比2日本",
-      "onboard_time": 1684591229,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 214135,
       "num": 214135,
       "word": "广东人有钱的原因找到了",
@@ -8795,6 +8851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208824,
+      "num": 208824,
+      "word": "INTO1线上毕业典礼",
+      "onboard_time": 1684595071,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208687,
       "num": 208687,
       "word": "毕业之前来看演唱会",
@@ -8897,6 +8961,14 @@
       "onboard_time": 1684244736,
       "rank": 36,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 204270,
+      "num": 204270,
+      "word": "是我本人过520的方式",
+      "onboard_time": 1684595552,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 204139,
@@ -9161,6 +9233,14 @@
       "onboard_time": 1684559367,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 196038,
+      "num": 196038,
+      "word": "梁博现场好稳",
+      "onboard_time": 1684592671,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 195658,
@@ -9457,6 +9537,14 @@
       "onboard_time": 1684238973,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189765,
+      "num": 187075,
+      "word": "Angelababy怎么美成这样啊",
+      "onboard_time": 1684595730,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 189574,
@@ -10443,14 +10531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169448,
-      "num": 169448,
-      "word": "周冬雨戛纳雨中排队看电影",
-      "onboard_time": 1684592192,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 169360,
       "num": 169360,
       "word": "希望今年吃的西瓜都这样",
@@ -10659,14 +10739,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 163715,
-      "num": 163715,
-      "word": "梁博现场好稳",
-      "onboard_time": 1684592671,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 163673,
       "num": 163673,
       "word": "龚俊扶钟楚曦上楼梯",
@@ -10753,6 +10825,14 @@
       "onboard_time": 1684396111,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160748,
+      "num": 160748,
+      "word": "英雄联盟",
+      "onboard_time": 1684594175,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 160425,
@@ -11281,6 +11361,14 @@
       "onboard_time": 1684397789,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 147948,
+      "num": 147948,
+      "word": "oner",
+      "onboard_time": 1684595490,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 147925,
@@ -13288,6 +13376,14 @@
       "word": "原来是一碗丝路味道的biangbiang面",
       "onboard_time": 1684427004,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52172,
+      "num": 1682775,
+      "word": "谢谢温暖过我们的陌生人",
+      "onboard_time": 1684595010,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
