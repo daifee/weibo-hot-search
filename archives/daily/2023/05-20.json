@@ -1,6 +1,6 @@
 {
   "startTime": 1684513305148,
-  "endTime": 1684582423334,
+  "endTime": 1684585820292,
   "band_list": [
     {
       "raw_hot": 3007037,
@@ -73,6 +73,14 @@
       "onboard_time": 1684558588,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1500736,
+      "num": 1500736,
+      "word": "死缓犯狱中患癌离世家属索赔700余万",
+      "onboard_time": 1684580189,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1470238,
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 881059,
+      "num": 796918,
+      "word": "迪丽热巴张婧仪穿了同款",
+      "onboard_time": 1684571006,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 858490,
       "num": 802677,
       "word": "刘诗诗Angelababy同框",
@@ -233,14 +249,6 @@
       "onboard_time": 1684557866,
       "rank": 7,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 796918,
-      "num": 796918,
-      "word": "迪丽热巴张婧仪穿了同款",
-      "onboard_time": 1684571006,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 776344,
@@ -419,6 +427,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 492769,
+      "num": 492769,
+      "word": "警方回应多名小学儿童疑遭校长侵犯",
+      "onboard_time": 1684584086,
+      "rank": 7,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 483276,
       "num": 483276,
       "word": "朱珠追着去跟许靖韵道别",
@@ -443,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 459654,
+      "num": 459654,
+      "word": "你是一个不落啊 一个都没过上",
+      "onboard_time": 1684583907,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 440891,
       "num": 440891,
       "word": "雅阁",
@@ -465,6 +489,14 @@
       "onboard_time": 1684569625,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 435723,
+      "num": 435723,
+      "word": "张信哲南京演唱会",
+      "onboard_time": 1684585105,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 434314,
@@ -513,6 +545,14 @@
       "onboard_time": 1684556308,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 408064,
+      "num": 408064,
+      "word": "范迪塞尔",
+      "onboard_time": 1684581389,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 404119,
@@ -593,14 +633,6 @@
       "onboard_time": 1684562246,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 381927,
-      "num": 381927,
-      "word": "范迪塞尔",
-      "onboard_time": 1684581389,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 379260,
@@ -739,8 +771,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321079,
+      "num": 210832,
+      "word": "商家剥壳开榴莲趁机偷偷藏肉",
+      "onboard_time": 1684582107,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318189,
-      "num": 209483,
+      "num": 282031,
       "word": "超8成985211学生是B站用户",
       "onboard_time": 1684567585,
       "rank": 36,
@@ -752,14 +792,6 @@
       "word": "调查显示8成以上年轻人有生育意愿",
       "onboard_time": 1684570825,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 316418,
-      "num": 191249,
-      "word": "死缓犯狱中患癌离世家属索赔700余万",
-      "onboard_time": 1684580189,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -785,6 +817,14 @@
       "onboard_time": 1684508913,
       "rank": 9,
       "category": "游戏,游戏"
+    },
+    {
+      "raw_hot": 296224,
+      "num": 296224,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1684584208,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 294182,
@@ -816,6 +856,14 @@
       "word": "柳智敏戴了粉丝送的项链",
       "onboard_time": 1684512749,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 284012,
+      "num": 208296,
+      "word": "心动的信号",
+      "onboard_time": 1684583667,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -955,6 +1003,22 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 245625,
+      "num": 206809,
+      "word": "刘诗诗到达戛纳",
+      "onboard_time": 1684582526,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 244923,
+      "num": 244923,
+      "word": "老舅拷打说唱",
+      "onboard_time": 1684584571,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243704,
       "num": 181966,
       "word": "男朋友送了束假花给我",
@@ -996,7 +1060,7 @@
     },
     {
       "raw_hot": 235593,
-      "num": 180634,
+      "num": 187017,
       "word": "超市情侣筷卖22元单身筷卖1元",
       "onboard_time": 1684581148,
       "rank": 47,
@@ -1009,6 +1073,14 @@
       "onboard_time": 1684580609,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232656,
+      "num": 201439,
+      "word": "罗云熙直播",
+      "onboard_time": 1684585766,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 232423,
@@ -1075,6 +1147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 223434,
+      "num": 204083,
+      "word": "打听同事工资被辞退了",
+      "onboard_time": 1684583368,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 222501,
       "num": 222501,
       "word": "退回家的全职儿女们",
@@ -1129,6 +1209,14 @@
       "onboard_time": 1684547548,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 215861,
+      "num": 215861,
+      "word": "苏杯中国0比1日本",
+      "onboard_time": 1684582526,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 211460,
@@ -1203,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197330,
+      "num": 197330,
+      "word": "白敬亭潮牌店排队有多长",
+      "onboard_time": 1684580729,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197300,
       "num": 197300,
       "word": "当代年轻人网购新趋势",
@@ -1259,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192346,
+      "num": 192346,
+      "word": "中国说唱巅峰对决",
+      "onboard_time": 1684584688,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191942,
       "num": 191942,
       "word": "冯彦哲",
@@ -1291,16 +1395,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187948,
-      "num": 176616,
-      "word": "白敬亭潮牌店排队有多长",
-      "onboard_time": 1684580729,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186265,
-      "num": 175758,
+      "num": 183057,
       "word": "罗云熙苑琼丹极乐净土手势舞",
       "onboard_time": 1684581748,
       "rank": 30,
@@ -1379,12 +1475,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 180227,
+      "num": 180227,
+      "word": "周柯宇长了五个麦粒肿",
+      "onboard_time": 1684581866,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178949,
       "num": 178949,
       "word": "女子当全职主妇20余年离婚获5万劳补",
       "onboard_time": 1684563386,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178252,
+      "num": 178252,
+      "word": "张韶涵长沙演唱会",
+      "onboard_time": 1684584386,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 177499,
@@ -1416,6 +1528,14 @@
       "word": "出差十五夜",
       "onboard_time": 1684554268,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 173686,
+      "num": 146267,
+      "word": "派克特 牛",
+      "onboard_time": 1684584327,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -1547,14 +1667,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 154940,
-      "num": 137652,
-      "word": "周柯宇长了五个麦粒肿",
-      "onboard_time": 1684581866,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 154908,
       "num": 133580,
       "word": "桃花坞",
@@ -1585,14 +1697,6 @@
       "onboard_time": 1684514604,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 152553,
-      "num": 152553,
-      "word": "商家剥壳开榴莲趁机偷偷藏肉",
-      "onboard_time": 1684582107,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152367,
@@ -1739,6 +1843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131180,
+      "num": 131180,
+      "word": "津门虎",
+      "onboard_time": 1684585766,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130653,
       "num": 130653,
       "word": "张泽禹翻唱的问风",
@@ -1809,6 +1921,14 @@
       "onboard_time": 1684512323,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 126419,
+      "num": 126419,
+      "word": "方言版520你最pick哪一个",
+      "onboard_time": 1684584927,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126379,
@@ -1955,6 +2075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114912,
+      "num": 126262,
+      "word": "祝贺李东宪",
+      "onboard_time": 1684585348,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114397,
       "num": 114397,
       "word": "西安一婚姻登记处520绕圈排长龙",
@@ -1988,7 +2116,7 @@
     },
     {
       "raw_hot": 112121,
-      "num": 118315,
+      "num": 125470,
       "word": "塞尔达传说王国之泪",
       "onboard_time": 1684580666,
       "rank": 46,
@@ -2121,6 +2249,14 @@
       "onboard_time": 1684571065,
       "rank": 48,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 66193,
+      "num": 631223,
+      "word": "今天一起表白祖国",
+      "onboard_time": 1684584149,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66155,
