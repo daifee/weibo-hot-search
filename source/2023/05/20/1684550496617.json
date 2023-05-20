@@ -1,0 +1,410 @@
+{
+  "runTime": 1684550496617,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1428337,
+        "num": 1428337,
+        "word": "明道回应与蒋雯丽拍戏争议",
+        "onboard_time": 1684542445,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 818530,
+        "num": 818530,
+        "word": "汤唯 戛纳",
+        "onboard_time": 1684538599,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36538,
+        "num": 748257,
+        "word": "语文课本里的中国有多美",
+        "onboard_time": 1684502791,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1990404,
+        "num": 733580,
+        "word": "18岁男生继承30套房产后坠亡",
+        "onboard_time": 1684542145,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1413358,
+        "num": 723916,
+        "word": "刘昊然周冬雨戛纳海边同框",
+        "onboard_time": 1684543529,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 686766,
+        "num": 686766,
+        "word": "徐志胜娜扎 微笑pasta",
+        "onboard_time": 1684542568,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 812126,
+        "num": 660054,
+        "word": "弑母案吴谢宇自称考试机器值得警醒",
+        "onboard_time": 1684541365,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613670,
+        "num": 613670,
+        "word": "肯德基玩具",
+        "onboard_time": 1684549825,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 531804,
+        "num": 531804,
+        "word": "劝分组",
+        "onboard_time": 1684546408,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 411863,
+        "num": 411863,
+        "word": "米勒 中国人有自己的相公",
+        "onboard_time": 1684507775,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 487894,
+        "num": 381660,
+        "word": "易烊千玺520用代码放烟花",
+        "onboard_time": 1684542327,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426798,
+        "num": 376553,
+        "word": "情侣之间有必要过520吗",
+        "onboard_time": 1684536857,
+        "rank": 11,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 349767,
+        "num": 349767,
+        "word": "警方通报男子在高速服务区被撞身亡",
+        "onboard_time": 1684509031,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422136,
+        "num": 349268,
+        "word": "520和521哪个更能代表我爱你",
+        "onboard_time": 1684536677,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341837,
+        "num": 341837,
+        "word": "24岁热心小伙卖电瓶车意外收获爱情",
+        "onboard_time": 1684546228,
+        "rank": 14,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 322204,
+        "num": 322204,
+        "word": "厦航客服回应网传飞行员偷拍被抓现行",
+        "onboard_time": 1684510469,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286633,
+        "num": 286633,
+        "word": "宝宝地铁上一直哭安保端热水帮宝妈一起照顾",
+        "onboard_time": 1684541964,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253673,
+        "num": 253673,
+        "word": "永远可以相信古人的顶级审美",
+        "onboard_time": 1684540884,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234866,
+        "num": 234866,
+        "word": "演员谈恋爱需要公开吗",
+        "onboard_time": 1684539443,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230367,
+        "num": 230367,
+        "word": "Bin哥",
+        "onboard_time": 1684544306,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 497533,
+        "num": 230072,
+        "word": "三千万把年龄倒过来你愿意吗",
+        "onboard_time": 1684543349,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 392478,
+        "num": 229568,
+        "word": "要久久爱",
+        "onboard_time": 1684549708,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257966,
+        "num": 229475,
+        "word": "白鹿姜雪宁重启人生",
+        "onboard_time": 1684544007,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236256,
+        "num": 228724,
+        "word": "为什么相亲都喜欢约在公园",
+        "onboard_time": 1684549168,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228653,
+        "num": 228653,
+        "word": "鹅厂bg之光",
+        "onboard_time": 1684549766,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264072,
+        "num": 227459,
+        "word": "教授用ChatGPT查重结果全班学生0分",
+        "onboard_time": 1684540042,
+        "rank": 25,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 221531,
+        "num": 221531,
+        "word": "钟丽缇体态",
+        "onboard_time": 1684539741,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213025,
+        "num": 213025,
+        "word": "热火",
+        "onboard_time": 1684549766,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211396,
+        "num": 211396,
+        "word": "别低估减肥给你带来的变化",
+        "onboard_time": 1684547548,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131723,
+        "num": 208990,
+        "word": "谭爷爷给金宵偷递小苹果",
+        "onboard_time": 1684539443,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208191,
+        "num": 208191,
+        "word": "退回家的全职儿女们",
+        "onboard_time": 1684548626,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197761,
+        "num": 197761,
+        "word": "汤唯戛纳渐变彩色长裙",
+        "onboard_time": 1684547127,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187328,
+        "num": 187328,
+        "word": "河南长葛2.9级地震",
+        "onboard_time": 1684545686,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185703,
+        "num": 185703,
+        "word": "终于轮到我脱单了",
+        "onboard_time": 1684545807,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183447,
+        "num": 183447,
+        "word": "花间令",
+        "onboard_time": 1684550486,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183243,
+        "num": 183243,
+        "word": "小伙为救人每天背AED上下班",
+        "onboard_time": 1684548986,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170891,
+        "num": 170891,
+        "word": "SEVENTEEN将出演花样青春",
+        "onboard_time": 1684536857,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170138,
+        "num": 170138,
+        "word": "chatGPT APP使用感受",
+        "onboard_time": 1684539624,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 156385,
+        "num": 156385,
+        "word": "黄磊吴越都没考上徐峥的班",
+        "onboard_time": 1684541485,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137118,
+        "num": 137118,
+        "word": "张雨绮看到凯特布兰切特的反应",
+        "onboard_time": 1684510411,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134265,
+        "num": 134265,
+        "word": "Amber没有选芝芙",
+        "onboard_time": 1684512509,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136250,
+        "num": 133460,
+        "word": "Angelababy何超莲同框",
+        "onboard_time": 1684542445,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131958,
+        "num": 131958,
+        "word": "女孩似躺非趴一身反骨",
+        "onboard_time": 1684544426,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131843,
+        "num": 131843,
+        "word": "周深知道真相后范丞丞的反应",
+        "onboard_time": 1684547548,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129751,
+        "num": 129751,
+        "word": "陈晓说我手是瘦的",
+        "onboard_time": 1684548147,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128238,
+        "num": 128238,
+        "word": "这番话看似严厉实则温柔细语",
+        "onboard_time": 1684550368,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123206,
+        "num": 123206,
+        "word": "医生看熊猫花花路上救了个人",
+        "onboard_time": 1684543165,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121678,
+        "num": 121678,
+        "word": "便利店女店员遭男子多次殴打",
+        "onboard_time": 1684523653,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120893,
+        "num": 120893,
+        "word": "谁家大熊猫吃笋只吃笋尖尖",
+        "onboard_time": 1684538122,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115829,
+        "num": 115829,
+        "word": "中华白海豚驮幼崽遗体游泳看到泪目",
+        "onboard_time": 1684548449,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平寄语中国—中亚六国美好明天#"
+    }
+  }
+}

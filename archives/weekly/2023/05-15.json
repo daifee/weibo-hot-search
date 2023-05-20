@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684549934277,
+  "endTime": 1684550496617,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -1027,20 +1027,20 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1413358,
+      "num": 1401989,
+      "word": "刘昊然周冬雨戛纳海边同框",
+      "onboard_time": 1684543529,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1406063,
       "num": 1315099,
       "word": "house道歉",
       "onboard_time": 1684133668,
       "rank": 4,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1401989,
-      "num": 1401989,
-      "word": "刘昊然周冬雨戛纳海边同框",
-      "onboard_time": 1684543529,
-      "rank": 3,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1398950,
@@ -2315,6 +2315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 686766,
+      "num": 686766,
+      "word": "徐志胜娜扎 微笑pasta",
+      "onboard_time": 1684542568,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 686731,
       "num": 686731,
       "word": "T1和JDG决胜局",
@@ -2401,14 +2409,6 @@
       "onboard_time": 1684314271,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 663862,
-      "num": 663862,
-      "word": "徐志胜娜扎 微笑pasta",
-      "onboard_time": 1684542568,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 663338,
@@ -2569,6 +2569,14 @@
       "onboard_time": 1684327828,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 613670,
+      "num": 613670,
+      "word": "肯德基玩具",
+      "onboard_time": 1684549825,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 610993,
@@ -4235,6 +4243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392478,
+      "num": 229568,
+      "word": "要久久爱",
+      "onboard_time": 1684549708,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 391957,
       "num": 391957,
       "word": "女子吐槽裙子比打底裤还短",
@@ -4668,7 +4684,7 @@
     },
     {
       "raw_hot": 361124,
-      "num": 220864,
+      "num": 227459,
       "word": "教授用ChatGPT查重结果全班学生0分",
       "onboard_time": 1684540042,
       "rank": 22,
@@ -5155,6 +5171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 322204,
+      "num": 322204,
+      "word": "厦航客服回应网传飞行员偷拍被抓现行",
+      "onboard_time": 1684510469,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322094,
       "num": 322094,
       "word": "石宇奇",
@@ -5323,14 +5347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 311782,
-      "num": 311782,
-      "word": "厦航客服回应网传飞行员偷拍被抓现行",
-      "onboard_time": 1684510469,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 311557,
       "num": 311557,
       "word": "山西10名大学生因寻找兼职而误入歧途",
@@ -5457,14 +5473,6 @@
       "onboard_time": 1684370251,
       "rank": 25,
       "category": "影视,时尚"
-    },
-    {
-      "raw_hot": 304430,
-      "num": 183853,
-      "word": "肯德基玩具",
-      "onboard_time": 1684549825,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 304131,
@@ -6891,6 +6899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236256,
+      "num": 228755,
+      "word": "为什么相亲都喜欢约在公园",
+      "onboard_time": 1684549168,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 235831,
       "num": 235831,
       "word": "谢娜唱的rap好像蜡笔小新",
@@ -7091,20 +7107,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 228755,
-      "num": 228755,
-      "word": "为什么相亲都喜欢约在公园",
-      "onboard_time": 1684549168,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 228676,
       "num": 1497205,
       "word": "80岁奶奶3小时跑完半马",
       "onboard_time": 1684140510,
       "rank": 41,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 228653,
+      "num": 228653,
+      "word": "鹅厂bg之光",
+      "onboard_time": 1684549766,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 227877,
@@ -7787,6 +7803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 208191,
+      "num": 208191,
+      "word": "退回家的全职儿女们",
+      "onboard_time": 1684548626,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207781,
       "num": 207781,
       "word": "云襄传",
@@ -8004,7 +8028,7 @@
     },
     {
       "raw_hot": 199941,
-      "num": 183789,
+      "num": 197761,
       "word": "汤唯戛纳渐变彩色长裙",
       "onboard_time": 1684547127,
       "rank": 35,
@@ -8137,14 +8161,6 @@
       "onboard_time": 1684243833,
       "rank": 41,
       "category": "网红"
-    },
-    {
-      "raw_hot": 194320,
-      "num": 194320,
-      "word": "鹅厂bg之光",
-      "onboard_time": 1684549766,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 193999,
@@ -8571,6 +8587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 183447,
+      "num": 183447,
+      "word": "花间令",
+      "onboard_time": 1684550486,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 183362,
       "num": 183362,
       "word": "最近演唱会好多啊",
@@ -8585,6 +8609,14 @@
       "onboard_time": 1684066885,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 183243,
+      "num": 183243,
+      "word": "小伙为救人每天背AED上下班",
+      "onboard_time": 1684548986,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182891,
@@ -9099,14 +9131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170068,
-      "num": 170068,
-      "word": "要久久爱",
-      "onboard_time": 1684549708,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 169811,
       "num": 169768,
       "word": "李莎旻子带瞿颖Amber吃长沙小龙虾",
@@ -9201,14 +9225,6 @@
       "onboard_time": 1684413147,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166262,
-      "num": 166262,
-      "word": "小伙为救人每天背AED上下班",
-      "onboard_time": 1684548986,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166134,
@@ -9379,16 +9395,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 162266,
-      "num": 162266,
-      "word": "退回家的全职儿女们",
-      "onboard_time": 1684548626,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162126,
-      "num": 185436,
+      "num": 208990,
       "word": "谭爷爷给金宵偷递小苹果",
       "onboard_time": 1684539443,
       "rank": 29,
@@ -10451,6 +10459,14 @@
       "category": "动漫,艺人"
     },
     {
+      "raw_hot": 131843,
+      "num": 131843,
+      "word": "周深知道真相后范丞丞的反应",
+      "onboard_time": 1684547548,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131635,
       "num": 503869,
       "word": "你被谁的戛纳造型美到",
@@ -10491,6 +10507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129751,
+      "num": 129751,
+      "word": "陈晓说我手是瘦的",
+      "onboard_time": 1684548147,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129523,
       "num": 129523,
       "word": "金华收费员徒手拦车救人",
@@ -10529,6 +10553,14 @@
       "onboard_time": 1684393528,
       "rank": 43,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 128238,
+      "num": 128238,
+      "word": "这番话看似严厉实则温柔细语",
+      "onboard_time": 1684550368,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128140,
@@ -10651,14 +10683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124949,
-      "num": 124949,
-      "word": "陈晓说我手是瘦的",
-      "onboard_time": 1684548147,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 124011,
       "num": 169501,
       "word": "华为手表60s做10项健康微体检",
@@ -10689,14 +10713,6 @@
       "onboard_time": 1684288710,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122212,
-      "num": 122212,
-      "word": "周深知道真相后范丞丞的反应",
-      "onboard_time": 1684547548,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 121811,
