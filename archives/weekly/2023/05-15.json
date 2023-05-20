@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684620900138,
+  "endTime": 1684622018993,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -13035,6 +13035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 95467,
+      "num": 95467,
+      "word": "孩子18岁成人礼爸妈偷偷化老年妆",
+      "onboard_time": 1684605558,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95053,
       "num": 95053,
       "word": "分手后多久开始下一段感情",
@@ -13377,14 +13385,6 @@
       "onboard_time": 1684427904,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 71851,
-      "num": 71851,
-      "word": "孩子18岁成人礼爸妈偷偷化老年妆",
-      "onboard_time": 1684605558,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70688,
@@ -13731,6 +13731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 38077,
+      "num": 38077,
+      "word": "巴赫穆特",
+      "onboard_time": 1684615932,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 35368,
       "num": 1804859,
       "word": "关注2023中关村论坛",
@@ -13753,14 +13761,6 @@
       "onboard_time": 1684058066,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 32107,
-      "num": 32107,
-      "word": "巴赫穆特",
-      "onboard_time": 1684615932,
-      "rank": 49,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 31333,
