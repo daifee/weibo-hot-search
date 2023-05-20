@@ -1,6 +1,6 @@
 {
   "startTime": 1684513305148,
-  "endTime": 1684563623034,
+  "endTime": 1684564416843,
   "band_list": [
     {
       "raw_hot": 2374635,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1787346,
-      "num": 1787346,
+      "raw_hot": 1921494,
+      "num": 1921494,
       "word": "玉桂狗",
       "onboard_time": 1684556365,
       "rank": 46,
@@ -139,6 +139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 984823,
+      "num": 442244,
+      "word": "赵露思的腿好白",
+      "onboard_time": 1684562606,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 948754,
       "num": 948754,
       "word": "厦航偷拍飞行员被行政拘留",
@@ -185,14 +193,6 @@
       "onboard_time": 1684495831,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 729359,
-      "num": 442244,
-      "word": "赵露思的腿好白",
-      "onboard_time": 1684562606,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 707806,
@@ -288,6 +288,14 @@
       "word": "情侣之间有必要过520吗",
       "onboard_time": 1684536857,
       "rank": 18,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 474472,
+      "num": 408627,
+      "word": "为和男友结婚伪造深度美颜身份证",
+      "onboard_time": 1684559308,
+      "rank": 33,
       "category": "社会新闻,情感"
     },
     {
@@ -411,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382707,
+      "num": 382707,
+      "word": "Amber谢欣跳入观众席",
+      "onboard_time": 1684562246,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 379260,
       "num": 379260,
       "word": "热火vs凯尔特人",
@@ -483,19 +499,11 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 351481,
-      "num": 351481,
-      "word": "为和男友结婚伪造深度美颜身份证",
-      "onboard_time": 1684559308,
-      "rank": 33,
-      "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 335033,
-      "num": 335033,
-      "word": "Amber谢欣跳入观众席",
-      "onboard_time": 1684562246,
-      "rank": 17,
+      "raw_hot": 343127,
+      "num": 316711,
+      "word": "浪姐请Ella赚了",
+      "onboard_time": 1684561946,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -515,20 +523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 316711,
-      "num": 316711,
-      "word": "浪姐请Ella赚了",
-      "onboard_time": 1684561946,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 315336,
       "num": 219482,
       "word": "终于轮到我脱单了",
       "onboard_time": 1684545807,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 309890,
+      "num": 309890,
+      "word": "王菲李嫣法国同框照",
+      "onboard_time": 1684563446,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 309343,
@@ -635,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259481,
+      "num": 318857,
+      "word": "网友解析孟羽童高分简历",
+      "onboard_time": 1684558409,
+      "rank": 27,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 257001,
       "num": 257001,
       "word": "chatGPT APP使用感受",
@@ -649,14 +665,6 @@
       "onboard_time": 1684558708,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 253810,
-      "num": 318857,
-      "word": "网友解析孟羽童高分简历",
-      "onboard_time": 1684558409,
-      "rank": 27,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 251340,
@@ -771,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222017,
+      "num": 222017,
+      "word": "Ella听到许靖韵淘汰的反应",
+      "onboard_time": 1684562910,
+      "rank": 24,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 222013,
       "num": 173690,
       "word": "宋亚轩和鼠标的vlog",
@@ -827,20 +843,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 200857,
-      "num": 200857,
-      "word": "Ella听到许靖韵淘汰的反应",
-      "onboard_time": 1684562910,
-      "rank": 24,
-      "category": "综艺,综艺"
-    },
-    {
       "raw_hot": 199941,
       "num": 197761,
       "word": "汤唯戛纳渐变彩色长裙",
       "onboard_time": 1684547127,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 199855,
+      "num": 199855,
+      "word": "华晨宇武汉",
+      "onboard_time": 1684564285,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 198952,
@@ -915,14 +931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183599,
-      "num": 173114,
-      "word": "王菲李嫣法国同框照",
-      "onboard_time": 1684563446,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 183243,
       "num": 183243,
       "word": "小伙为救人每天背AED上下班",
@@ -953,6 +961,14 @@
       "onboard_time": 1684554087,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 178949,
+      "num": 178949,
+      "word": "女子当全职主妇20余年离婚获5万劳补",
+      "onboard_time": 1684563386,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177499,
@@ -1035,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158877,
+      "num": 158877,
+      "word": "文俊辉录制青环",
+      "onboard_time": 1684560925,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158557,
       "num": 120737,
       "word": "业绩垫底对情绪影响有多大",
@@ -1051,12 +1075,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155768,
-      "num": 155768,
-      "word": "文俊辉录制青环",
-      "onboard_time": 1684560925,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 155464,
+      "num": 155464,
+      "word": "汤唯戛纳晚宴发言",
+      "onboard_time": 1684563507,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 154212,
@@ -1068,7 +1092,7 @@
     },
     {
       "raw_hot": 153942,
-      "num": 131569,
+      "num": 140541,
       "word": "伯远给种地吧买了半头猪",
       "onboard_time": 1684561467,
       "rank": 36,
@@ -1081,6 +1105,14 @@
       "onboard_time": 1684514604,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 152663,
+      "num": 152663,
+      "word": "红毯四美",
+      "onboard_time": 1684564045,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 150681,
@@ -1171,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130020,
+      "num": 130020,
+      "word": "劝退了频繁请假的7岁琴童",
+      "onboard_time": 1684564227,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129751,
       "num": 129751,
       "word": "陈晓说我手是瘦的",
@@ -1187,16 +1227,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 129103,
-      "num": 129103,
-      "word": "女子当全职主妇20余年离婚获5万劳补",
-      "onboard_time": 1684563386,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 128628,
-      "num": 188277,
+      "num": 199247,
       "word": "爱情里力不从心的时刻",
       "onboard_time": 1684562964,
       "rank": 26,
@@ -1347,14 +1379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 113871,
-      "num": 113871,
-      "word": "汤唯戛纳晚宴发言",
-      "onboard_time": 1684563507,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 113571,
       "num": 132906,
       "word": "库洛米",
@@ -1401,6 +1425,14 @@
       "onboard_time": 1684538421,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 103679,
+      "num": 103679,
+      "word": "钎城粤绣非遗守护官",
+      "onboard_time": 1684563687,
+      "rank": 46,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 101907,
@@ -1499,6 +1531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 52020,
+      "num": 129749,
+      "word": "结婚后你还在意礼物吗",
+      "onboard_time": 1684562426,
+      "rank": 39,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 51018,
       "num": 51018,
       "word": "病人咬舌民警将手放其嘴里数十秒",
@@ -1521,14 +1561,6 @@
       "onboard_time": 1684532293,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 37890,
-      "num": 129749,
-      "word": "结婚后你还在意礼物吗",
-      "onboard_time": 1684562426,
-      "rank": 39,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 17772,
