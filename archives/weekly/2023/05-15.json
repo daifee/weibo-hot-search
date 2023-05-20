@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684622018993,
+  "endTime": 1684624554041,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -3019,6 +3019,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 596238,
+      "num": 596238,
+      "word": "好多艺人去看了BLACKPINK演唱会",
+      "onboard_time": 1684597351,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 593469,
       "num": 546019,
       "word": "蒋梦婕回应戛纳红毯造型",
@@ -3899,14 +3907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 468329,
-      "num": 468329,
-      "word": "好多艺人去看了BLACKPINK演唱会",
-      "onboard_time": 1684597351,
-      "rank": 21,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 467849,
       "num": 306162,
       "word": "看中医就没有隐私吗",
@@ -4033,6 +4033,14 @@
       "onboard_time": 1684455449,
       "rank": 17,
       "category": "科技"
+    },
+    {
+      "raw_hot": 454714,
+      "num": 454714,
+      "word": "小满",
+      "onboard_time": 1684624398,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 454376,
@@ -9691,6 +9699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190481,
+      "num": 80593,
+      "word": "高三六班微信群牵出1.6亿赌博案",
+      "onboard_time": 1684623795,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 190118,
       "num": 220886,
       "word": "游戏还原老年痴呆患者眼中的世界",
@@ -9721,6 +9737,14 @@
       "onboard_time": 1684400550,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189436,
+      "num": 189436,
+      "word": "四川第一个自闭症大学生找到工作",
+      "onboard_time": 1684604358,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 189429,
@@ -10641,6 +10665,14 @@
       "onboard_time": 1684214672,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170889,
+      "num": 170889,
+      "word": "孩子18岁成人礼爸妈偷偷化老年妆",
+      "onboard_time": 1684605558,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170791,
@@ -11931,6 +11963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138852,
+      "num": 138852,
+      "word": "苏迪曼杯",
+      "onboard_time": 1684240229,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138438,
       "num": 130643,
       "word": "龚俊粉色西装亮相戛纳红毯",
@@ -12235,6 +12275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128802,
+      "num": 128802,
+      "word": "曼城英超三连冠",
+      "onboard_time": 1684624398,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128628,
       "num": 340526,
       "word": "爱情里力不从心的时刻",
@@ -12401,6 +12449,14 @@
       "onboard_time": 1684293270,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124281,
+      "num": 94249,
+      "word": "今日小满",
+      "onboard_time": 1684624277,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124233,
@@ -12691,14 +12747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 112801,
-      "num": 112801,
-      "word": "四川第一个自闭症大学生找到工作",
-      "onboard_time": 1684604358,
-      "rank": 38,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 112121,
       "num": 125470,
       "word": "塞尔达传说王国之泪",
@@ -12907,14 +12955,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 104201,
-      "num": 104201,
-      "word": "苏迪曼杯",
-      "onboard_time": 1684240229,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 104178,
       "num": 67863,
       "word": "凯特布兰切特 戛纳",
@@ -13033,14 +13073,6 @@
       "onboard_time": 1684069948,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 95467,
-      "num": 95467,
-      "word": "孩子18岁成人礼爸妈偷偷化老年妆",
-      "onboard_time": 1684605558,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95053,
@@ -13283,6 +13315,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 81195,
+      "num": 81195,
+      "word": "米勒解说",
+      "onboard_time": 1684610953,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 81061,
       "num": 1175073,
       "word": "今天一起表白祖国",
@@ -13467,6 +13507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64471,
+      "num": 64471,
+      "word": "胡歌新片驯鹿首张剧照",
+      "onboard_time": 1684622053,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 63849,
       "num": 95336,
       "word": "红莲冠军",
@@ -13481,14 +13529,6 @@
       "onboard_time": 1684359433,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 63495,
-      "num": 63495,
-      "word": "米勒解说",
-      "onboard_time": 1684610953,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 62865,
@@ -13513,6 +13553,14 @@
       "onboard_time": 1684196010,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 61201,
+      "num": 61201,
+      "word": "张杰晒照告别哈尔滨演唱会",
+      "onboard_time": 1684624516,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 59320,
@@ -13665,6 +13713,14 @@
       "onboard_time": 1684357032,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47688,
+      "num": 47688,
+      "word": "她不出声我也知道她善良可爱",
+      "onboard_time": 1684623917,
+      "rank": 44,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 47669,

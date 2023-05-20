@@ -1,6 +1,6 @@
 {
   "startTime": 1684599621121,
-  "endTime": 1684622018993,
+  "endTime": 1684624554041,
   "band_list": [
     {
       "raw_hot": 2214555,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 596238,
+      "num": 596238,
+      "word": "好多艺人去看了BLACKPINK演唱会",
+      "onboard_time": 1684597351,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 560793,
       "num": 560793,
       "word": "欧阳靖没人选",
@@ -107,12 +115,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 468329,
-      "num": 468329,
-      "word": "好多艺人去看了BLACKPINK演唱会",
-      "onboard_time": 1684597351,
-      "rank": 21,
-      "category": "音乐"
+      "raw_hot": 454714,
+      "num": 454714,
+      "word": "小满",
+      "onboard_time": 1684624398,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 446027,
@@ -315,6 +323,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 190481,
+      "num": 80593,
+      "word": "高三六班微信群牵出1.6亿赌博案",
+      "onboard_time": 1684623795,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 189436,
+      "num": 189436,
+      "word": "四川第一个自闭症大学生找到工作",
+      "onboard_time": 1684604358,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 187363,
       "num": 187363,
       "word": "陈鑫海用梅子熟了告白卢洋洋",
@@ -345,6 +369,14 @@
       "onboard_time": 1684586548,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 170889,
+      "num": 170889,
+      "word": "孩子18岁成人礼爸妈偷偷化老年妆",
+      "onboard_time": 1684605558,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170360,
@@ -395,12 +427,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138852,
+      "num": 138852,
+      "word": "苏迪曼杯",
+      "onboard_time": 1684624038,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135807,
       "num": 135807,
       "word": "异地恋接吻神器被曝擦边",
       "onboard_time": 1684576346,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128802,
+      "num": 128802,
+      "word": "曼城英超三连冠",
+      "onboard_time": 1684624398,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 126955,
@@ -411,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124281,
+      "num": 94249,
+      "word": "今日小满",
+      "onboard_time": 1684624277,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122384,
       "num": 135803,
       "word": "是我本人过520的方式",
@@ -419,12 +475,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 112801,
-      "num": 112801,
-      "word": "四川第一个自闭症大学生找到工作",
-      "onboard_time": 1684604358,
-      "rank": 38,
-      "category": "社会新闻,教育"
+      "raw_hot": 119070,
+      "num": 119070,
+      "word": "周冬雨戛纳雨中排队看电影",
+      "onboard_time": 1684592192,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 110379,
@@ -435,20 +491,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 95467,
-      "num": 95467,
-      "word": "孩子18岁成人礼爸妈偷偷化老年妆",
-      "onboard_time": 1684605558,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 88359,
       "num": 1361329,
       "word": "谢谢温暖过我们的陌生人",
       "onboard_time": 1684595010,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81195,
+      "num": 81195,
+      "word": "米勒解说",
+      "onboard_time": 1684610953,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 79664,
@@ -467,14 +523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 71728,
-      "num": 71728,
-      "word": "周冬雨戛纳雨中排队看电影",
-      "onboard_time": 1684592192,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 68548,
       "num": 68548,
       "word": "关晓彤微笑模仿大赛",
@@ -483,12 +531,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 63495,
-      "num": 63495,
-      "word": "米勒解说",
-      "onboard_time": 1684610953,
-      "rank": 43,
-      "category": "游戏"
+      "raw_hot": 64471,
+      "num": 64471,
+      "word": "胡歌新片驯鹿首张剧照",
+      "onboard_time": 1684622053,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 61201,
+      "num": 61201,
+      "word": "张杰晒照告别哈尔滨演唱会",
+      "onboard_time": 1684624516,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 47688,
+      "num": 47688,
+      "word": "她不出声我也知道她善良可爱",
+      "onboard_time": 1684623917,
+      "rank": 44,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 38077,
