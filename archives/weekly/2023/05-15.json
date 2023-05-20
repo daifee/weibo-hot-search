@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684606762954,
+  "endTime": 1684607610908,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -13099,6 +13099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92191,
+      "num": 92191,
+      "word": "四川第一个自闭症大学生找到工作",
+      "onboard_time": 1684604358,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 92178,
       "num": 218161,
       "word": "你会因为KPI不达标焦虑吗",
@@ -13395,20 +13403,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68548,
+      "num": 68548,
+      "word": "关晓彤微笑模仿大赛",
+      "onboard_time": 1684605258,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 68516,
       "num": 68516,
       "word": "清澈的爱一直为中国",
       "onboard_time": 1684253009,
       "rank": 28,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 68481,
-      "num": 68481,
-      "word": "关晓彤微笑模仿大赛",
-      "onboard_time": 1684605258,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 67992,
@@ -13449,14 +13457,6 @@
       "onboard_time": 1684115245,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65202,
-      "num": 65202,
-      "word": "四川第一个自闭症大学生找到工作",
-      "onboard_time": 1684604358,
-      "rank": 38,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 63849,

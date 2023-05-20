@@ -1,6 +1,6 @@
 {
   "startTime": 1684599621121,
-  "endTime": 1684606762954,
+  "endTime": 1684607610908,
   "band_list": [
     {
       "raw_hot": 2214555,
@@ -419,20 +419,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110379,
+      "num": 110379,
+      "word": "代号鸢",
+      "onboard_time": 1684604059,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 92191,
+      "num": 92191,
+      "word": "四川第一个自闭症大学生找到工作",
+      "onboard_time": 1684604358,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 88359,
       "num": 1361329,
       "word": "谢谢温暖过我们的陌生人",
       "onboard_time": 1684595010,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80695,
-      "num": 80695,
-      "word": "代号鸢",
-      "onboard_time": 1684604059,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 79664,
@@ -459,20 +467,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 68481,
-      "num": 68481,
+      "raw_hot": 68548,
+      "num": 68548,
       "word": "关晓彤微笑模仿大赛",
       "onboard_time": 1684605258,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 65202,
-      "num": 65202,
-      "word": "四川第一个自闭症大学生找到工作",
-      "onboard_time": 1684604358,
-      "rank": 38,
-      "category": "社会新闻,教育"
     }
   ],
   "hotgov_list": [
