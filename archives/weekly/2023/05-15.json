@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684650021528,
+  "endTime": 1684650816163,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -3867,6 +3867,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 487847,
+      "num": 487847,
+      "word": "何赛飞怒批戏曲行业现状",
+      "onboard_time": 1684645951,
+      "rank": 26,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 487251,
       "num": 487251,
       "word": "拉布拉多香香",
@@ -5779,6 +5787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 355690,
+      "num": 231809,
+      "word": "12块钱被叫了7声宝贝",
+      "onboard_time": 1684646848,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 355662,
       "num": 355662,
       "word": "建议蔡少芬再多点直拍",
@@ -6155,14 +6171,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 329915,
-      "num": 231809,
-      "word": "12块钱被叫了7声宝贝",
-      "onboard_time": 1684646848,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 329528,
       "num": 329528,
       "word": "唐山警方回应农妇袭警案",
@@ -6297,14 +6305,6 @@
       "onboard_time": 1684243295,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 322649,
-      "num": 322649,
-      "word": "何赛飞怒批戏曲行业现状",
-      "onboard_time": 1684645951,
-      "rank": 26,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 322500,
@@ -6465,6 +6465,14 @@
       "onboard_time": 1684463426,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 314159,
+      "num": 300101,
+      "word": "临时抱佛脚",
+      "onboard_time": 1684649127,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 313892,
@@ -8649,14 +8657,6 @@
       "onboard_time": 1684131806,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229368,
-      "num": 229368,
-      "word": "临时抱佛脚",
-      "onboard_time": 1684649127,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 229312,
@@ -12435,6 +12435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144298,
+      "num": 144298,
+      "word": "女儿一句话让爸爸瞬间凉快",
+      "onboard_time": 1684650207,
+      "rank": 37,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 144257,
       "num": 137121,
       "word": "吴磊头掉名场面旁边是侯明昊",
@@ -12833,6 +12841,14 @@
       "onboard_time": 1684157429,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132914,
+      "num": 132914,
+      "word": "Alin帮女儿追星马嘉祺",
+      "onboard_time": 1684650507,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 132898,
@@ -13505,6 +13521,14 @@
       "onboard_time": 1684513706,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 112931,
+      "num": 112931,
+      "word": "淄博大爷边遛狗边捡路边烟头",
+      "onboard_time": 1684650689,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112813,
