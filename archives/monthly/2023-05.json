@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684665211480,
+  "endTime": 1684667586885,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -2020,7 +2020,7 @@
     },
     {
       "raw_hot": 1817211,
-      "num": 874879,
+      "num": 925394,
       "word": "没认出这是刘诗诗",
       "onboard_time": 1684656687,
       "rank": 11,
@@ -3491,6 +3491,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 1457857,
+      "num": 1457857,
+      "word": "刘恋",
+      "onboard_time": 1684665328,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1456869,
       "num": 1456869,
       "word": "徐梦洁 两台手机两个鸟巢也容不下一个我",
@@ -4553,6 +4561,14 @@
       "onboard_time": 1683554132,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1238586,
+      "num": 1238586,
+      "word": "香港发生谋杀案现场留有电锯",
+      "onboard_time": 1684662031,
+      "rank": 8,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1236574,
@@ -5707,14 +5723,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 1053352,
-      "num": 1053352,
-      "word": "香港发生谋杀案现场留有电锯",
-      "onboard_time": 1684662031,
-      "rank": 8,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 1052653,
       "num": 1052653,
       "word": "湖人1比0勇士",
@@ -6344,6 +6352,14 @@
       "word": "越野网红戳伤妻子眼睛后自杀身亡",
       "onboard_time": 1684467089,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 944745,
+      "num": 944745,
+      "word": "长沙市市长郑建新被免职",
+      "onboard_time": 1684664189,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -11444,7 +11460,7 @@
     },
     {
       "raw_hot": 525319,
-      "num": 352938,
+      "num": 369490,
       "word": "冲出内娱的美貌",
       "onboard_time": 1684659930,
       "rank": 24,
@@ -11712,14 +11728,6 @@
       "word": "洛阳规划局",
       "onboard_time": 1683592469,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 514533,
-      "num": 514533,
-      "word": "长沙市市长郑建新被免职",
-      "onboard_time": 1684664189,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -12340,7 +12348,7 @@
     },
     {
       "raw_hot": 487170,
-      "num": 1252814,
+      "num": 1278824,
       "word": "夫妻捡到脑瘫女婴照顾28年",
       "onboard_time": 1684653147,
       "rank": 46,
@@ -13353,6 +13361,14 @@
       "onboard_time": 1683267447,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 455020,
+      "num": 455020,
+      "word": "Angelababy何猷君何超欣同框",
+      "onboard_time": 1684664489,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 455014,
@@ -15867,6 +15883,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 393337,
+      "num": 209638,
+      "word": "那为啥要排这种戏颁这种奖",
+      "onboard_time": 1684666053,
+      "rank": 30,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 393242,
       "num": 370640,
       "word": "网剧唐人街探案2首支预告",
@@ -15912,6 +15936,14 @@
       "word": "要久久爱",
       "onboard_time": 1683340590,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 392110,
+      "num": 369688,
+      "word": "李一桐说这个奖属于狂飙每一位演员",
+      "onboard_time": 1684665988,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -16048,6 +16080,14 @@
       "word": "止庵 史航",
       "onboard_time": 1682955507,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 388884,
+      "num": 388884,
+      "word": "宋雨琦Y2K造型",
+      "onboard_time": 1684663228,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -18481,6 +18521,14 @@
       "onboard_time": 1683420146,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 343773,
+      "num": 343773,
+      "word": "清华大学女生获选美冠军",
+      "onboard_time": 1684664189,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 343771,
@@ -21436,7 +21484,7 @@
     },
     {
       "raw_hot": 295714,
-      "num": 295714,
+      "num": 369752,
       "word": "权顺荣对mbti是认真的",
       "onboard_time": 1684663048,
       "rank": 28,
@@ -21593,14 +21641,6 @@
       "onboard_time": 1684055608,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 293851,
-      "num": 293851,
-      "word": "宋雨琦Y2K造型",
-      "onboard_time": 1684663228,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 293792,
@@ -23875,6 +23915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264498,
+      "num": 264498,
+      "word": "王冰冰 中传",
+      "onboard_time": 1684667368,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264428,
       "num": 233403,
       "word": "芝芙和叮叮当当原唱的关系",
@@ -25619,6 +25667,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 246395,
+      "num": 246395,
+      "word": "一到周日下午就心情不好",
+      "onboard_time": 1684664968,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 246287,
       "num": 246287,
       "word": "杨迪差点在苍兰诀播后加王鹤棣好友",
@@ -26201,14 +26257,6 @@
       "onboard_time": 1683110968,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 241313,
-      "num": 241313,
-      "word": "Angelababy何猷君何超欣同框",
-      "onboard_time": 1684664489,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 241273,
@@ -28875,6 +28923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217474,
+      "num": 217474,
+      "word": "汪卓成编辑记录",
+      "onboard_time": 1684657709,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217464,
       "num": 217464,
       "word": "孙颖莎说和王楚钦沟通信任更多了",
@@ -30137,14 +30193,6 @@
       "onboard_time": 1684329155,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 207226,
-      "num": 207226,
-      "word": "一到周日下午就心情不好",
-      "onboard_time": 1684664968,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 207192,
@@ -32491,6 +32539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189446,
+      "num": 189446,
+      "word": "中国队3比0横扫韩国队",
+      "onboard_time": 1684664789,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189429,
       "num": 189429,
       "word": "秦始皇拉回不想上班的兵马俑",
@@ -32787,14 +32843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187904,
-      "num": 187904,
-      "word": "清华大学女生获选美冠军",
-      "onboard_time": 1684664189,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187820,
       "num": 187820,
       "word": "吴谢宇求生辩护公开",
@@ -33008,14 +33056,6 @@
       "word": "刘耀文贺峻霖到达长沙视频",
       "onboard_time": 1683085770,
       "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 186212,
-      "num": 186212,
-      "word": "汪卓成编辑记录",
-      "onboard_time": 1684657709,
-      "rank": 36,
       "category": "艺人"
     },
     {
@@ -33788,7 +33828,7 @@
     },
     {
       "raw_hot": 179600,
-      "num": 1117821,
+      "num": 1159154,
       "word": "53岁大妈坚持8年为游客提供热水",
       "onboard_time": 1684656987,
       "rank": 41,
@@ -34715,6 +34755,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 174015,
+      "num": 174015,
+      "word": "要不要为了男友放弃编制",
+      "onboard_time": 1684667008,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 174005,
       "num": 174005,
       "word": "鲁滨逊 两个星期五",
@@ -35345,6 +35393,14 @@
       "onboard_time": 1683269608,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 168927,
+      "num": 168927,
+      "word": "GALA LNG",
+      "onboard_time": 1684667189,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 168905,
@@ -36073,14 +36129,6 @@
       "onboard_time": 1684069527,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163175,
-      "num": 163175,
-      "word": "中国队3比0横扫韩国队",
-      "onboard_time": 1684664789,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 163096,
@@ -37347,6 +37395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152648,
+      "num": 152648,
+      "word": "幸福到万家最新评分",
+      "onboard_time": 1684667429,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 152564,
       "num": 152564,
       "word": "WBG夏季赛阵容集结",
@@ -38315,6 +38371,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144687,
+      "num": 144687,
+      "word": "JDG对战BLG",
+      "onboard_time": 1684665450,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 144673,
+      "num": 144673,
+      "word": "你认为戏曲凋敝的原因是什么",
+      "onboard_time": 1684667488,
+      "rank": 43,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 144650,
       "num": 144650,
       "word": "谢谢你爱我",
@@ -38481,6 +38553,14 @@
       "onboard_time": 1683838572,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 143072,
+      "num": 143072,
+      "word": "越剧",
+      "onboard_time": 1684665749,
+      "rank": 45,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 143066,
@@ -40441,6 +40521,14 @@
       "onboard_time": 1684633168,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124060,
+      "num": 131681,
+      "word": "蛋仔派对",
+      "onboard_time": 1684666708,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 124011,

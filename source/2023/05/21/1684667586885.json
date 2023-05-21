@@ -1,0 +1,410 @@
+{
+  "runTime": 1684667586885,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1701890,
+        "num": 1701890,
+        "word": "霍建华 北京",
+        "onboard_time": 1684658969,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 434625,
+        "num": 1499963,
+        "word": "男子心脏2支架1搭桥跑赢全马",
+        "onboard_time": 1684662627,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53797,
+        "num": 1469520,
+        "word": "小满节气里的中国智慧",
+        "onboard_time": 1684658491,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1457857,
+        "num": 1457857,
+        "word": "刘恋",
+        "onboard_time": 1684665328,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279054,
+        "num": 1278824,
+        "word": "夫妻捡到脑瘫女婴照顾28年",
+        "onboard_time": 1684653147,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1238586,
+        "num": 1238586,
+        "word": "香港发生谋杀案现场留有电锯",
+        "onboard_time": 1684662031,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 164630,
+        "num": 1159154,
+        "word": "53岁大妈坚持8年为游客提供热水",
+        "onboard_time": 1684656987,
+        "rank": 6,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1123661,
+        "num": 1123661,
+        "word": "硕士答辩看到一篇非常惊喜的论文",
+        "onboard_time": 1684657347,
+        "rank": 7,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 1042335,
+        "num": 1042335,
+        "word": "好利来二公子也去演戏了",
+        "onboard_time": 1684653087,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 944745,
+        "num": 944745,
+        "word": "长沙市市长郑建新被免职",
+        "onboard_time": 1684664189,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 925394,
+        "num": 925394,
+        "word": "没认出这是刘诗诗",
+        "onboard_time": 1684656687,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 635375,
+        "num": 635375,
+        "word": "我女儿是个了不起的人 我好像从未向她说过",
+        "onboard_time": 1684660291,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 616763,
+        "num": 616763,
+        "word": "广东13岁女孩疑被邻居性侵",
+        "onboard_time": 1684659749,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615394,
+        "num": 615394,
+        "word": "杨笠 七时吉祥",
+        "onboard_time": 1684651767,
+        "rank": 13,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 577320,
+        "num": 577320,
+        "word": "B站为什么1年91亿不够养UP主",
+        "onboard_time": 1684654108,
+        "rank": 14,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 482488,
+        "num": 482488,
+        "word": "长沙自建房倒塌事故调查报告公布",
+        "onboard_time": 1684660411,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479390,
+        "num": 479390,
+        "word": "华表奖阵容官宣",
+        "onboard_time": 1684661249,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 455020,
+        "num": 455020,
+        "word": "Angelababy何猷君何超欣同框",
+        "onboard_time": 1684664489,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388884,
+        "num": 388884,
+        "word": "宋雨琦Y2K造型",
+        "onboard_time": 1684663228,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293544,
+        "num": 369752,
+        "word": "权顺荣对mbti是认真的",
+        "onboard_time": 1684663048,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392110,
+        "num": 369688,
+        "word": "李一桐说这个奖属于狂飙每一位演员",
+        "onboard_time": 1684665988,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 369490,
+        "num": 369490,
+        "word": "冲出内娱的美貌",
+        "onboard_time": 1684659930,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343773,
+        "num": 343773,
+        "word": "清华大学女生获选美冠军",
+        "onboard_time": 1684664189,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281571,
+        "num": 281571,
+        "word": "把灭火器看成薛之谦",
+        "onboard_time": 1684660467,
+        "rank": 23,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 264498,
+        "num": 264498,
+        "word": "王冰冰 中传",
+        "onboard_time": 1684667368,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246395,
+        "num": 246395,
+        "word": "一到周日下午就心情不好",
+        "onboard_time": 1684664968,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235646,
+        "num": 235646,
+        "word": "好利来",
+        "onboard_time": 1684656628,
+        "rank": 26,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 234846,
+        "num": 234846,
+        "word": "你不会知道 她花了多久确认你们不爱她",
+        "onboard_time": 1684652066,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217474,
+        "num": 217474,
+        "word": "汪卓成编辑记录",
+        "onboard_time": 1684657709,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215939,
+        "num": 215939,
+        "word": "何赛飞怒批戏曲行业现状",
+        "onboard_time": 1684645951,
+        "rank": 29,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 393337,
+        "num": 209638,
+        "word": "那为啥要排这种戏颁这种奖",
+        "onboard_time": 1684666053,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 198753,
+        "num": 198753,
+        "word": "林丹",
+        "onboard_time": 1684653509,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195546,
+        "num": 195546,
+        "word": "Lisa比中指后的反应",
+        "onboard_time": 1684641208,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189446,
+        "num": 189446,
+        "word": "中国队3比0横扫韩国队",
+        "onboard_time": 1684664789,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178139,
+        "num": 178139,
+        "word": "沈梦辰晒杜海涛520送花照",
+        "onboard_time": 1684643370,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177660,
+        "num": 177660,
+        "word": "石宇奇贾一凡",
+        "onboard_time": 1684663108,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174015,
+        "num": 174015,
+        "word": "要不要为了男友放弃编制",
+        "onboard_time": 1684667008,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170666,
+        "num": 170666,
+        "word": "羽毛球",
+        "onboard_time": 1684664968,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168927,
+        "num": 168927,
+        "word": "GALA LNG",
+        "onboard_time": 1684667189,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 664513,
+        "num": 167568,
+        "word": "曝笑果引发综艺电视剧延期",
+        "onboard_time": 1684658790,
+        "rank": 39,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 152648,
+        "num": 152648,
+        "word": "幸福到万家最新评分",
+        "onboard_time": 1684667429,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147658,
+        "num": 147658,
+        "word": "为什么最近都想当老八",
+        "onboard_time": 1684662208,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144687,
+        "num": 144687,
+        "word": "JDG对战BLG",
+        "onboard_time": 1684665450,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144673,
+        "num": 144673,
+        "word": "你认为戏曲凋敝的原因是什么",
+        "onboard_time": 1684667488,
+        "rank": 43,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 143371,
+        "num": 143371,
+        "word": "湖人",
+        "onboard_time": 1684663948,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143072,
+        "num": 143072,
+        "word": "越剧",
+        "onboard_time": 1684665749,
+        "rank": 45,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 142498,
+        "num": 142498,
+        "word": "叶舒华Queencard直拍",
+        "onboard_time": 1684662869,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133479,
+        "num": 133479,
+        "word": "黄老师",
+        "onboard_time": 1684644448,
+        "rank": 47,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 132272,
+        "num": 132272,
+        "word": "何赛飞",
+        "onboard_time": 1684632987,
+        "rank": 48,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 124060,
+        "num": 131681,
+        "word": "蛋仔派对",
+        "onboard_time": 1684666708,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国同中亚国家常来常往长旺长安#"
+    }
+  }
+}
