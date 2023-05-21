@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684632983822,
+  "endTime": 1684634034341,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2289295,
+      "num": 2289295,
+      "word": "高三六班微信群牵出1.6亿赌博案",
+      "onboard_time": 1684623795,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 2283969,
       "num": 2283969,
       "word": "方灿道歉",
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 1961358,
-      "num": 675853,
+      "num": 828929,
       "word": "台湾坠亡男生身世被起底",
       "onboard_time": 1684626261,
       "rank": 5,
@@ -977,14 +985,6 @@
       "onboard_time": 1684394189,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1511465,
-      "num": 1511465,
-      "word": "高三六班微信群牵出1.6亿赌博案",
-      "onboard_time": 1684623795,
-      "rank": 30,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1510315,
@@ -1731,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1056876,
+      "num": 1056876,
+      "word": "周冬雨刘昊然红毯",
+      "onboard_time": 1684628965,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1055993,
       "num": 1055993,
       "word": "弑母案吴谢宇自称考试机器值得警醒",
@@ -1768,14 +1776,6 @@
       "word": "TFBOYS恭喜易烊千玺",
       "onboard_time": 1684230450,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1027663,
-      "num": 1027663,
-      "word": "周冬雨刘昊然红毯",
-      "onboard_time": 1684628965,
-      "rank": 3,
       "category": "影视"
     },
     {
@@ -2187,6 +2187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 832254,
+      "num": 832254,
+      "word": "何赛飞",
+      "onboard_time": 1684632987,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 830229,
       "num": 255541,
       "word": "赵丽颖含泪和粉丝挥手",
@@ -2268,7 +2276,7 @@
     },
     {
       "raw_hot": 809580,
-      "num": 712785,
+      "num": 756053,
       "word": "好多艺人去看了BLACKPINK演唱会",
       "onboard_time": 1684597351,
       "rank": 21,
@@ -2345,6 +2353,14 @@
       "onboard_time": 1684454969,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 795192,
+      "num": 795192,
+      "word": "莫言 告诉你一个残忍的人际关系",
+      "onboard_time": 1684629925,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 775629,
@@ -2865,6 +2881,14 @@
       "onboard_time": 1684334012,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 639145,
+      "num": 163101,
+      "word": "总统亲自来提车",
+      "onboard_time": 1684631607,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 638357,
@@ -3409,14 +3433,6 @@
       "onboard_time": 1684443972,
       "rank": 38,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 528226,
-      "num": 528226,
-      "word": "莫言 告诉你一个残忍的人际关系",
-      "onboard_time": 1684629925,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 526455,
@@ -4491,6 +4507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 426959,
+      "num": 163125,
+      "word": "店员称衣服掉地上摔个洞需赔款",
+      "onboard_time": 1684630525,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 426887,
       "num": 426887,
       "word": "詹姆斯 脱手",
@@ -4707,14 +4731,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 411075,
-      "num": 148105,
-      "word": "总统亲自来提车",
-      "onboard_time": 1684631607,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 410388,
       "num": 337695,
       "word": "笑果回应处罚",
@@ -4771,14 +4787,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 405380,
-      "num": 157548,
-      "word": "店员称衣服掉地上摔个洞需赔款",
-      "onboard_time": 1684630525,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 404119,
       "num": 334692,
       "word": "Amber没有选芝芙",
@@ -4793,6 +4801,14 @@
       "onboard_time": 1684149150,
       "rank": 44,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 401264,
+      "num": 401264,
+      "word": "雷佳音也追女团",
+      "onboard_time": 1684631548,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 400837,
@@ -5316,7 +5332,7 @@
     },
     {
       "raw_hot": 370935,
-      "num": 156605,
+      "num": 163121,
       "word": "赵丽颖工作室审美",
       "onboard_time": 1684627163,
       "rank": 21,
@@ -5553,14 +5569,6 @@
       "onboard_time": 1684143688,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 355135,
-      "num": 355135,
-      "word": "雷佳音也追女团",
-      "onboard_time": 1684631548,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 354911,
@@ -5889,6 +5897,14 @@
       "onboard_time": 1684378650,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 332224,
+      "num": 332224,
+      "word": "掘金vs湖人",
+      "onboard_time": 1684630525,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 332201,
@@ -6553,14 +6569,6 @@
       "onboard_time": 1684330176,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 295757,
-      "num": 295757,
-      "word": "掘金vs湖人",
-      "onboard_time": 1684630525,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 295374,
@@ -7548,7 +7556,7 @@
     },
     {
       "raw_hot": 254364,
-      "num": 154319,
+      "num": 163113,
       "word": "李荣浩520演唱会求婚高峰",
       "onboard_time": 1684631247,
       "rank": 23,
@@ -7737,6 +7745,14 @@
       "onboard_time": 1684469913,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 246130,
+      "num": 163119,
+      "word": "千万别告诉杨迪沈月在自拍",
+      "onboard_time": 1684631906,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 245970,
@@ -8115,6 +8131,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 235126,
+      "num": 163115,
+      "word": "朱一龙看海随拍",
+      "onboard_time": 1684633108,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 234688,
       "num": 234688,
       "word": "巩俐戛纳红色裤装",
@@ -8260,7 +8284,7 @@
     },
     {
       "raw_hot": 230778,
-      "num": 154017,
+      "num": 163111,
       "word": "复旦大学5月20日起对公众开放",
       "onboard_time": 1684626319,
       "rank": 24,
@@ -8675,14 +8699,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 219829,
-      "num": 152580,
-      "word": "千万别告诉杨迪沈月在自拍",
-      "onboard_time": 1684631906,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 219688,
       "num": 219688,
       "word": "Knight说到做到",
@@ -8947,6 +8963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 213540,
+      "num": 213540,
+      "word": "妈妈为传承稀有剧种收女儿为徒",
+      "onboard_time": 1684633292,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213482,
       "num": 213482,
       "word": "王俊凯杭州",
@@ -8985,6 +9009,14 @@
       "onboard_time": 1684055966,
       "rank": 27,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 212096,
+      "num": 163100,
+      "word": "欧阳靖发博回应没人选",
+      "onboard_time": 1684631906,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 212081,
@@ -9404,7 +9436,7 @@
     },
     {
       "raw_hot": 200464,
-      "num": 152050,
+      "num": 163099,
       "word": "今年的小满恰逢521",
       "onboard_time": 1684626019,
       "rank": 26,
@@ -9529,6 +9561,14 @@
       "onboard_time": 1684559367,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 196322,
+      "num": 163109,
+      "word": "苹果对花花有多重要",
+      "onboard_time": 1684630166,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196038,
@@ -9908,7 +9948,7 @@
     },
     {
       "raw_hot": 188775,
-      "num": 149756,
+      "num": 163103,
       "word": "毕滢否认与金晨游玩",
       "onboard_time": 1684628423,
       "rank": 28,
@@ -10827,14 +10867,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 170629,
-      "num": 146972,
-      "word": "苹果对花花有多重要",
-      "onboard_time": 1684630166,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170360,
       "num": 170360,
       "word": "李荣浩太原",
@@ -11115,6 +11147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 163096,
+      "num": 163096,
+      "word": "蜡像版袁爷爷的眼睛里有光",
+      "onboard_time": 1684632267,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163050,
       "num": 163050,
       "word": "李宇春穿了三条裤子",
@@ -11201,14 +11241,6 @@
       "onboard_time": 1684505010,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 159910,
-      "num": 145544,
-      "word": "欧阳靖发博回应没人选",
-      "onboard_time": 1684631906,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 159825,
@@ -11385,6 +11417,14 @@
       "onboard_time": 1684406608,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156185,
+      "num": 156185,
+      "word": "日本牛郎 审美降级",
+      "onboard_time": 1684633108,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 155926,
@@ -11689,6 +11729,14 @@
       "onboard_time": 1684127550,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 148545,
+      "num": 148545,
+      "word": "李克勤尾场嘉宾刘德华",
+      "onboard_time": 1684632026,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 148444,
@@ -12059,14 +12107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 140495,
-      "num": 140495,
-      "word": "李克勤尾场嘉宾刘德华",
-      "onboard_time": 1684632026,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 140285,
       "num": 140285,
       "word": "记者卧底南京夫子庙暗访竹筒奶茶市场",
@@ -12403,6 +12443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130857,
+      "num": 130857,
+      "word": "穆雷投疯了",
+      "onboard_time": 1684633768,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130653,
       "num": 130653,
       "word": "张泽禹翻唱的问风",
@@ -12417,6 +12465,14 @@
       "onboard_time": 1684138529,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130581,
+      "num": 130581,
+      "word": "米勒解说",
+      "onboard_time": 1684610953,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 130457,
@@ -12651,6 +12707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124164,
+      "num": 124164,
+      "word": "今天全国助残日",
+      "onboard_time": 1684633168,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124011,
       "num": 169501,
       "word": "华为手表60s做10项健康微体检",
@@ -12713,14 +12777,6 @@
       "onboard_time": 1684145611,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 121218,
-      "num": 121218,
-      "word": "蜡像版袁爷爷的眼睛里有光",
-      "onboard_time": 1684632267,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121204,
@@ -12849,14 +12905,6 @@
       "onboard_time": 1684538781,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 118246,
-      "num": 118246,
-      "word": "米勒解说",
-      "onboard_time": 1684610953,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 117921,
@@ -13008,6 +13056,14 @@
       "word": "你的紧急联系人是谁",
       "onboard_time": 1684142491,
       "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 108026,
+      "num": 108026,
+      "word": "小满文案",
+      "onboard_time": 1684633948,
+      "rank": 49,
       "category": "情感"
     },
     {
@@ -13443,20 +13499,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 85875,
+      "num": 302966,
+      "word": "曼城11年7冠",
+      "onboard_time": 1684630824,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85751,
       "num": 85751,
       "word": "浪姐矿工大赛",
       "onboard_time": 1684345337,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 85034,
-      "num": 294171,
-      "word": "曼城11年7冠",
-      "onboard_time": 1684630824,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 84747,
