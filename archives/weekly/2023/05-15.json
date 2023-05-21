@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684664184196,
+  "endTime": 1684665211480,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -611,6 +611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1877351,
+      "num": 1877351,
+      "word": "霍建华 北京",
+      "onboard_time": 1684658969,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1863623,
       "num": 1863623,
       "word": "放太久的鞋子就别穿了",
@@ -644,7 +652,7 @@
     },
     {
       "raw_hot": 1817211,
-      "num": 826842,
+      "num": 874879,
       "word": "没认出这是刘诗诗",
       "onboard_time": 1684656687,
       "rank": 11,
@@ -705,14 +713,6 @@
       "onboard_time": 1684149989,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1757844,
-      "num": 1757844,
-      "word": "霍建华 北京",
-      "onboard_time": 1684658969,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1756102,
@@ -1899,6 +1899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1053352,
+      "num": 1053352,
+      "word": "香港发生谋杀案现场留有电锯",
+      "onboard_time": 1684662031,
+      "rank": 8,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1041741,
       "num": 1041741,
       "word": "徐怀钰一个人坐在角落里",
@@ -2283,14 +2291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 869193,
-      "num": 869193,
-      "word": "香港发生谋杀案现场留有电锯",
-      "onboard_time": 1684662031,
-      "rank": 8,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 860342,
       "num": 860342,
       "word": "德云社",
@@ -2345,6 +2345,14 @@
       "onboard_time": 1684499668,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 840183,
+      "num": 840183,
+      "word": "我女儿是个了不起的人 我好像从未向她说过",
+      "onboard_time": 1684660291,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 833547,
@@ -2528,14 +2536,6 @@
       "word": "莫言 告诉你一个残忍的人际关系",
       "onboard_time": 1684629925,
       "rank": 9,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 787689,
-      "num": 787689,
-      "word": "我女儿是个了不起的人 我好像从未向她说过",
-      "onboard_time": 1684660291,
-      "rank": 38,
       "category": "情感"
     },
     {
@@ -3699,6 +3699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 525620,
+      "num": 525620,
+      "word": "华表奖阵容官宣",
+      "onboard_time": 1684661249,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 525449,
       "num": 525449,
       "word": "侯明昊回应周也",
@@ -3776,6 +3784,14 @@
       "word": "夫妻20元刮刮乐中40万激动到尖叫",
       "onboard_time": 1684307068,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 514533,
+      "num": 514533,
+      "word": "长沙市市长郑建新被免职",
+      "onboard_time": 1684664189,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -3872,14 +3888,6 @@
       "word": "叶璇",
       "onboard_time": 1684402890,
       "rank": 16,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 506535,
-      "num": 506535,
-      "word": "华表奖阵容官宣",
-      "onboard_time": 1684661249,
-      "rank": 37,
       "category": "影视"
     },
     {
@@ -4377,6 +4385,14 @@
       "onboard_time": 1684645351,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 460916,
+      "num": 1601152,
+      "word": "男子心脏2支架1搭桥跑赢全马",
+      "onboard_time": 1684662627,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 460375,
@@ -5129,14 +5145,6 @@
       "onboard_time": 1684284632,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 406531,
-      "num": 1601152,
-      "word": "男子心脏2支架1搭桥跑赢全马",
-      "onboard_time": 1684662627,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 406462,
@@ -6003,6 +6011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 355063,
+      "num": 355063,
+      "word": "把灭火器看成薛之谦",
+      "onboard_time": 1684660467,
+      "rank": 39,
+      "category": "音乐,幽默"
+    },
+    {
       "raw_hot": 354911,
       "num": 354911,
       "word": "曼城vs皇马",
@@ -6529,14 +6545,6 @@
       "onboard_time": 1684464687,
       "rank": 18,
       "category": "幽默,时尚"
-    },
-    {
-      "raw_hot": 323309,
-      "num": 323309,
-      "word": "把灭火器看成薛之谦",
-      "onboard_time": 1684660467,
-      "rank": 39,
-      "category": "音乐,幽默"
     },
     {
       "raw_hot": 323211,
@@ -7107,6 +7115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 295714,
+      "num": 295714,
+      "word": "权顺荣对mbti是认真的",
+      "onboard_time": 1684663048,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 295374,
       "num": 295374,
       "word": "丁程鑫说只要是七个人就好",
@@ -7136,6 +7152,14 @@
       "word": "向佐的人脉",
       "onboard_time": 1684574608,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 293851,
+      "num": 293851,
+      "word": "宋雨琦Y2K造型",
+      "onboard_time": 1684663228,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -7561,6 +7585,14 @@
       "onboard_time": 1684233211,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 277875,
+      "num": 277875,
+      "word": "石宇奇贾一凡",
+      "onboard_time": 1684663108,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 276786,
@@ -8571,6 +8603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 241313,
+      "num": 241313,
+      "word": "Angelababy何猷君何超欣同框",
+      "onboard_time": 1684664489,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240436,
       "num": 240436,
       "word": "赵丽颖对镜比心六连拍",
@@ -9419,14 +9459,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 218524,
-      "num": 218524,
-      "word": "宋雨琦Y2K造型",
-      "onboard_time": 1684663228,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 218493,
       "num": 218493,
       "word": "贾静雯恭喜Alin",
@@ -9699,14 +9731,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 212254,
-      "num": 212254,
-      "word": "权顺荣对mbti是认真的",
-      "onboard_time": 1684663048,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 212096,
       "num": 195696,
       "word": "欧阳靖发博回应没人选",
@@ -9907,6 +9931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207226,
+      "num": 207226,
+      "word": "一到周日下午就心情不好",
+      "onboard_time": 1684664968,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207152,
       "num": 207152,
       "word": "AI不能替你坐牢",
@@ -9979,6 +10011,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 205037,
+      "num": 205037,
+      "word": "羽毛球",
+      "onboard_time": 1684664968,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204352,
       "num": 204352,
       "word": "赵露思cos蜂蜜狗造型花絮",
@@ -9993,14 +10033,6 @@
       "onboard_time": 1684595552,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 204145,
-      "num": 204145,
-      "word": "石宇奇贾一凡",
-      "onboard_time": 1684663108,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 204139,
@@ -10811,6 +10843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187904,
+      "num": 187904,
+      "word": "清华大学女生获选美冠军",
+      "onboard_time": 1684664189,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187820,
       "num": 187820,
       "word": "吴谢宇求生辩护公开",
@@ -11209,6 +11249,14 @@
       "onboard_time": 1684140810,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179881,
+      "num": 179881,
+      "word": "湖人",
+      "onboard_time": 1684663948,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 179878,
@@ -12019,6 +12067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 163175,
+      "num": 163175,
+      "word": "中国队3比0横扫韩国队",
+      "onboard_time": 1684664789,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163096,
       "num": 163096,
       "word": "蜡像版袁爷爷的眼睛里有光",
@@ -12625,14 +12681,6 @@
       "onboard_time": 1684468829,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 149736,
-      "num": 149736,
-      "word": "湖人",
-      "onboard_time": 1684663948,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 149706,
@@ -13321,6 +13369,14 @@
       "onboard_time": 1684080864,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134155,
+      "num": 134155,
+      "word": "为什么会喜欢日落呢",
+      "onboard_time": 1684665091,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 133470,
@@ -15123,6 +15179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47239,
+      "num": 751585,
+      "word": "真诚在职场中有多重要",
+      "onboard_time": 1684659209,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 43171,
       "num": 43171,
       "word": "这家里高低得摆两台共享单车吧",
@@ -15233,14 +15297,6 @@
       "onboard_time": 1684434015,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 28016,
-      "num": 751585,
-      "word": "真诚在职场中有多重要",
-      "onboard_time": 1684659209,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 26169,

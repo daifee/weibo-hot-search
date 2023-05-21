@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684664184196,
+  "endTime": 1684665211480,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1875,6 +1875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1877351,
+      "num": 1877351,
+      "word": "霍建华 北京",
+      "onboard_time": 1684658969,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1874727,
       "num": 1874727,
       "word": "徐怀钰划水",
@@ -2012,7 +2020,7 @@
     },
     {
       "raw_hot": 1817211,
-      "num": 826842,
+      "num": 874879,
       "word": "没认出这是刘诗诗",
       "onboard_time": 1684656687,
       "rank": 11,
@@ -2249,14 +2257,6 @@
       "onboard_time": 1683461910,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1757844,
-      "num": 1757844,
-      "word": "霍建华 北京",
-      "onboard_time": 1684658969,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1756102,
@@ -5707,6 +5707,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 1053352,
+      "num": 1053352,
+      "word": "香港发生谋杀案现场留有电锯",
+      "onboard_time": 1684662031,
+      "rank": 8,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1052653,
       "num": 1052653,
       "word": "湖人1比0勇士",
@@ -6931,14 +6939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 869193,
-      "num": 869193,
-      "word": "香港发生谋杀案现场留有电锯",
-      "onboard_time": 1684662031,
-      "rank": 8,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 867730,
       "num": 974989,
       "word": "新娘互换手捧花发现是高中同学",
@@ -7161,6 +7161,14 @@
       "onboard_time": 1684499668,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 840183,
+      "num": 840183,
+      "word": "我女儿是个了不起的人 我好像从未向她说过",
+      "onboard_time": 1684660291,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 839372,
@@ -7657,14 +7665,6 @@
       "onboard_time": 1683530496,
       "rank": 33,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 787689,
-      "num": 787689,
-      "word": "我女儿是个了不起的人 我好像从未向她说过",
-      "onboard_time": 1684660291,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 787185,
@@ -11419,6 +11419,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 525620,
+      "num": 525620,
+      "word": "华表奖阵容官宣",
+      "onboard_time": 1684661249,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 525569,
       "num": 478521,
       "word": "Ella恋人未满听哭了",
@@ -11707,6 +11715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 514533,
+      "num": 514533,
+      "word": "长沙市市长郑建新被免职",
+      "onboard_time": 1684664189,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 513967,
       "num": 513967,
       "word": "2022年平均工资",
@@ -11912,14 +11928,6 @@
       "word": "叶璇",
       "onboard_time": 1684402890,
       "rank": 16,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 506535,
-      "num": 506535,
-      "word": "华表奖阵容官宣",
-      "onboard_time": 1684661249,
-      "rank": 37,
       "category": "影视"
     },
     {
@@ -13161,6 +13169,14 @@
       "onboard_time": 1682928807,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 460916,
+      "num": 1601152,
+      "word": "男子心脏2支架1搭桥跑赢全马",
+      "onboard_time": 1684662627,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 460375,
@@ -15224,14 +15240,6 @@
       "word": "巴厘岛华人身亡案发酒店仍在营业",
       "onboard_time": 1683271648,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 406531,
-      "num": 1601152,
-      "word": "男子心脏2支架1搭桥跑赢全马",
-      "onboard_time": 1684662627,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -17819,6 +17827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 355063,
+      "num": 355063,
+      "word": "把灭火器看成薛之谦",
+      "onboard_time": 1684660467,
+      "rank": 39,
+      "category": "音乐,幽默"
+    },
+    {
       "raw_hot": 354911,
       "num": 354911,
       "word": "曼城vs皇马",
@@ -19683,14 +19699,6 @@
       "category": "幽默,时尚"
     },
     {
-      "raw_hot": 323309,
-      "num": 323309,
-      "word": "把灭火器看成薛之谦",
-      "onboard_time": 1684660467,
-      "rank": 39,
-      "category": "音乐,幽默"
-    },
-    {
       "raw_hot": 323211,
       "num": 323211,
       "word": "笑果刚签署崇德尚艺承诺书",
@@ -21427,6 +21435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 295714,
+      "num": 295714,
+      "word": "权顺荣对mbti是认真的",
+      "onboard_time": 1684663048,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 295567,
       "num": 295567,
       "word": "勇士晋级西部半决赛",
@@ -21577,6 +21593,14 @@
       "onboard_time": 1684055608,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 293851,
+      "num": 293851,
+      "word": "宋雨琦Y2K造型",
+      "onboard_time": 1684663228,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 293792,
@@ -22905,6 +22929,14 @@
       "onboard_time": 1683427407,
       "rank": 34,
       "category": "幽默,综艺"
+    },
+    {
+      "raw_hot": 277875,
+      "num": 277875,
+      "word": "石宇奇贾一凡",
+      "onboard_time": 1684663108,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 277565,
@@ -26171,6 +26203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 241313,
+      "num": 241313,
+      "word": "Angelababy何猷君何超欣同框",
+      "onboard_time": 1684664489,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241273,
       "num": 241273,
       "word": "bin说到做到",
@@ -28699,14 +28739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218524,
-      "num": 218524,
-      "word": "宋雨琦Y2K造型",
-      "onboard_time": 1684663228,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 218493,
       "num": 218493,
       "word": "贾静雯恭喜Alin",
@@ -29515,14 +29547,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 212254,
-      "num": 212254,
-      "word": "权顺荣对mbti是认真的",
-      "onboard_time": 1684663048,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 212125,
       "num": 212125,
       "word": "给麻将镶钻是什么体验",
@@ -30115,6 +30139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207226,
+      "num": 207226,
+      "word": "一到周日下午就心情不好",
+      "onboard_time": 1684664968,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207192,
       "num": 207192,
       "word": "时代少年团五四歌会官宣",
@@ -30403,6 +30435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205037,
+      "num": 205037,
+      "word": "羽毛球",
+      "onboard_time": 1684664968,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205035,
       "num": 205035,
       "word": "嘴像开了光一样是种什么体验",
@@ -30537,14 +30577,6 @@
       "onboard_time": 1682947051,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 204145,
-      "num": 204145,
-      "word": "石宇奇贾一凡",
-      "onboard_time": 1684663108,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 204139,
@@ -32755,6 +32787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187904,
+      "num": 187904,
+      "word": "清华大学女生获选美冠军",
+      "onboard_time": 1684664189,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187820,
       "num": 187820,
       "word": "吴谢宇求生辩护公开",
@@ -33680,6 +33720,14 @@
       "word": "浙江深圳G5吹罚",
       "onboard_time": 1683211056,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 179881,
+      "num": 179881,
+      "word": "湖人",
+      "onboard_time": 1684663948,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -36027,6 +36075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163175,
+      "num": 163175,
+      "word": "中国队3比0横扫韩国队",
+      "onboard_time": 1684664789,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163096,
       "num": 163096,
       "word": "蜡像版袁爷爷的眼睛里有光",
@@ -37715,14 +37771,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 149736,
-      "num": 149736,
-      "word": "湖人",
-      "onboard_time": 1684663948,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 149706,
       "num": 149706,
       "word": "交警帮助双腿残疾的小伙过马路",
@@ -39305,6 +39353,14 @@
       "onboard_time": 1683081871,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 134155,
+      "num": 134155,
+      "word": "为什么会喜欢日落呢",
+      "onboard_time": 1684665091,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 134003,
@@ -43891,6 +43947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47239,
+      "num": 751585,
+      "word": "真诚在职场中有多重要",
+      "onboard_time": 1684659209,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 47209,
       "num": 47209,
       "word": "早安没吃饱",
@@ -44393,14 +44457,6 @@
       "onboard_time": 1682969413,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28016,
-      "num": 751585,
-      "word": "真诚在职场中有多重要",
-      "onboard_time": 1684659209,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 27923,

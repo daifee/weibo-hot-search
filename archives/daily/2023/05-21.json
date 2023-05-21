@@ -1,6 +1,6 @@
 {
   "startTime": 1684599621121,
-  "endTime": 1684664184196,
+  "endTime": 1684665211480,
   "band_list": [
     {
       "raw_hot": 2927414,
@@ -59,6 +59,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1877351,
+      "num": 1877351,
+      "word": "霍建华 北京",
+      "onboard_time": 1684658969,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1822815,
       "num": 1822815,
       "word": "雪莉的电影要播了",
@@ -68,19 +76,11 @@
     },
     {
       "raw_hot": 1817211,
-      "num": 826842,
+      "num": 874879,
       "word": "没认出这是刘诗诗",
       "onboard_time": 1684656687,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1757844,
-      "num": 1757844,
-      "word": "霍建华 北京",
-      "onboard_time": 1684658969,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1756102,
@@ -219,6 +219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1053352,
+      "num": 1053352,
+      "word": "香港发生谋杀案现场留有电锯",
+      "onboard_time": 1684662031,
+      "rank": 8,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1017232,
       "num": 1017232,
       "word": "广东13岁女孩疑被邻居性侵",
@@ -243,20 +251,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 869193,
-      "num": 869193,
-      "word": "香港发生谋杀案现场留有电锯",
-      "onboard_time": 1684662031,
-      "rank": 8,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 843900,
       "num": 843900,
       "word": "赵琦君成功求婚杨凯雯",
       "onboard_time": 1684577668,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 840183,
+      "num": 840183,
+      "word": "我女儿是个了不起的人 我好像从未向她说过",
+      "onboard_time": 1684660291,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 809580,
@@ -280,14 +288,6 @@
       "word": "莫言 告诉你一个残忍的人际关系",
       "onboard_time": 1684629925,
       "rank": 9,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 787689,
-      "num": 787689,
-      "word": "我女儿是个了不起的人 我好像从未向她说过",
-      "onboard_time": 1684660291,
-      "rank": 38,
       "category": "情感"
     },
     {
@@ -419,12 +419,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 525620,
+      "num": 525620,
+      "word": "华表奖阵容官宣",
+      "onboard_time": 1684661249,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 525319,
       "num": 352938,
       "word": "冲出内娱的美貌",
       "onboard_time": 1684659930,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 514533,
+      "num": 514533,
+      "word": "长沙市市长郑建新被免职",
+      "onboard_time": 1684664189,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 513748,
@@ -441,14 +457,6 @@
       "onboard_time": 1684634607,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 506535,
-      "num": 506535,
-      "word": "华表奖阵容官宣",
-      "onboard_time": 1684661249,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 495565,
@@ -515,6 +523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 460916,
+      "num": 1601152,
+      "word": "男子心脏2支架1搭桥跑赢全马",
+      "onboard_time": 1684662627,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 446027,
       "num": 446027,
       "word": "女双",
@@ -569,14 +585,6 @@
       "onboard_time": 1684642468,
       "rank": 38,
       "category": "社会议题,艺人"
-    },
-    {
-      "raw_hot": 406531,
-      "num": 1601152,
-      "word": "男子心脏2支架1搭桥跑赢全马",
-      "onboard_time": 1684662627,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 401264,
@@ -691,6 +699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 355063,
+      "num": 355063,
+      "word": "把灭火器看成薛之谦",
+      "onboard_time": 1684660467,
+      "rank": 39,
+      "category": "音乐,幽默"
+    },
+    {
       "raw_hot": 350079,
       "num": 350079,
       "word": "苏迪曼杯决赛",
@@ -771,14 +787,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 323309,
-      "num": 323309,
-      "word": "把灭火器看成薛之谦",
-      "onboard_time": 1684660467,
-      "rank": 39,
-      "category": "音乐,幽默"
-    },
-    {
       "raw_hot": 319638,
       "num": 319638,
       "word": "黄磊向往的生活想办长桌宴",
@@ -851,6 +859,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 295714,
+      "num": 295714,
+      "word": "权顺荣对mbti是认真的",
+      "onboard_time": 1684663048,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 293851,
+      "num": 293851,
+      "word": "宋雨琦Y2K造型",
+      "onboard_time": 1684663228,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284097,
       "num": 284097,
       "word": "郑思维黄雅琼",
@@ -865,6 +889,14 @@
       "onboard_time": 1684633292,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277875,
+      "num": 277875,
+      "word": "石宇奇贾一凡",
+      "onboard_time": 1684663108,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 277564,
@@ -1011,6 +1043,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 241313,
+      "num": 241313,
+      "word": "Angelababy何猷君何超欣同框",
+      "onboard_time": 1684664489,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235126,
       "num": 163115,
       "word": "朱一龙看海随拍",
@@ -1099,14 +1139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218524,
-      "num": 218524,
-      "word": "宋雨琦Y2K造型",
-      "onboard_time": 1684663228,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 217482,
       "num": 217482,
       "word": "LPL历史首次会师国际赛决赛",
@@ -1121,14 +1153,6 @@
       "onboard_time": 1684651169,
       "rank": 33,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 212254,
-      "num": 212254,
-      "word": "权顺荣对mbti是认真的",
-      "onboard_time": 1684663048,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 212096,
@@ -1155,6 +1179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 207226,
+      "num": 207226,
+      "word": "一到周日下午就心情不好",
+      "onboard_time": 1684664968,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 205628,
       "num": 205628,
       "word": "95后女老师自费为学生送520玫瑰",
@@ -1163,11 +1195,11 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 204145,
-      "num": 204145,
-      "word": "石宇奇贾一凡",
-      "onboard_time": 1684663108,
-      "rank": 30,
+      "raw_hot": 205037,
+      "num": 205037,
+      "word": "羽毛球",
+      "onboard_time": 1684664968,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -1307,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187904,
+      "num": 187904,
+      "word": "清华大学女生获选美冠军",
+      "onboard_time": 1684664189,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187820,
       "num": 187820,
       "word": "吴谢宇求生辩护公开",
@@ -1369,6 +1409,14 @@
       "onboard_time": 1684583907,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179881,
+      "num": 179881,
+      "word": "湖人",
+      "onboard_time": 1684663948,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 179600,
@@ -1441,6 +1489,14 @@
       "onboard_time": 1684650927,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 163175,
+      "num": 163175,
+      "word": "中国队3比0横扫韩国队",
+      "onboard_time": 1684664789,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 163096,
@@ -1545,14 +1601,6 @@
       "onboard_time": 1684589188,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149736,
-      "num": 149736,
-      "word": "湖人",
-      "onboard_time": 1684663948,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 149436,
@@ -1665,6 +1713,14 @@
       "onboard_time": 1684576346,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134155,
+      "num": 134155,
+      "word": "为什么会喜欢日落呢",
+      "onboard_time": 1684665091,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 133902,
@@ -1939,6 +1995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47239,
+      "num": 751585,
+      "word": "真诚在职场中有多重要",
+      "onboard_time": 1684659209,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 38077,
       "num": 38077,
       "word": "巴赫穆特",
@@ -1953,14 +2017,6 @@
       "onboard_time": 1684609094,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 28016,
-      "num": 751585,
-      "word": "真诚在职场中有多重要",
-      "onboard_time": 1684659209,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 8215,
