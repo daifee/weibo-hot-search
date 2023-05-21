@@ -1,6 +1,6 @@
 {
   "startTime": 1684599621121,
-  "endTime": 1684676006612,
+  "endTime": 1684678463297,
   "band_list": [
     {
       "raw_hot": 2927414,
@@ -136,6 +136,14 @@
       "word": "长沙自建房倒塌事故调查报告公布",
       "onboard_time": 1684660411,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1484543,
+      "num": 1484543,
+      "word": "女子因掉毛严重将宠物猫遗弃绿化带",
+      "onboard_time": 1684673430,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -363,6 +371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 774040,
+      "num": 400723,
+      "word": "水电工人被射钉枪击中头部身亡",
+      "onboard_time": 1684676252,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 738593,
       "num": 738593,
       "word": "好利来",
@@ -449,6 +465,14 @@
       "onboard_time": 1684672591,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 620043,
+      "num": 398450,
+      "word": "王诗龄520收到巨型玫瑰熊",
+      "onboard_time": 1684677868,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 608745,
@@ -545,14 +569,6 @@
       "onboard_time": 1684670491,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 515285,
-      "num": 515285,
-      "word": "女子因掉毛严重将宠物猫遗弃绿化带",
-      "onboard_time": 1684673430,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 513748,
@@ -739,6 +755,14 @@
       "category": "社会议题,艺人"
     },
     {
+      "raw_hot": 402016,
+      "num": 402016,
+      "word": "JDG对战BLG",
+      "onboard_time": 1684665450,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 401264,
       "num": 401264,
       "word": "雷佳音也追女团",
@@ -753,6 +777,14 @@
       "onboard_time": 1684666053,
       "rank": 30,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 391043,
+      "num": 391043,
+      "word": "清华大学女生获选美冠军",
+      "onboard_time": 1684664189,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389679,
@@ -899,14 +931,6 @@
       "category": "音乐,幽默"
     },
     {
-      "raw_hot": 350683,
-      "num": 350683,
-      "word": "JDG对战BLG",
-      "onboard_time": 1684665450,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 350079,
       "num": 350079,
       "word": "苏迪曼杯决赛",
@@ -921,14 +945,6 @@
       "onboard_time": 1684640066,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 343773,
-      "num": 343773,
-      "word": "清华大学女生获选美冠军",
-      "onboard_time": 1684664189,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 342489,
@@ -1155,6 +1171,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 263000,
+      "num": 209905,
+      "word": "华表奖官宣了280个艺人",
+      "onboard_time": 1684678111,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 262191,
       "num": 262191,
       "word": "明星521营业照",
@@ -1307,12 +1331,28 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 239246,
+      "num": 194314,
+      "word": "柯以敏7年后对16超女说请你原谅我",
+      "onboard_time": 1684677212,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237762,
       "num": 237762,
       "word": "陈晓说毛晓彤智商120",
       "onboard_time": 1684670252,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 236082,
+      "num": 196507,
+      "word": "李宇春粉丝又带麻袋来接纸花了",
+      "onboard_time": 1684677389,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 235890,
@@ -1931,6 +1971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150402,
+      "num": 150402,
+      "word": "年轻人需要的不是一句话而是一笔钱",
+      "onboard_time": 1684672531,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149786,
       "num": 149786,
       "word": "叶舒华一秒变脸",
@@ -2259,6 +2307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107249,
+      "num": 133054,
+      "word": "曼城vs切尔西",
+      "onboard_time": 1684678172,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106469,
       "num": 106469,
       "word": "国家级最新深海探秘开启",
@@ -2275,6 +2331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97282,
+      "num": 132713,
+      "word": "蛙蛙我啊也会遇到老六",
+      "onboard_time": 1684676970,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97171,
       "num": 138295,
       "word": "男子爬进污水井救出6岁男童",
@@ -2289,6 +2353,14 @@
       "onboard_time": 1684631426,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 93678,
+      "num": 132262,
+      "word": "真的不用弹儿歌过渡一下吗",
+      "onboard_time": 1684672710,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 89852,
@@ -2396,7 +2468,7 @@
     },
     {
       "raw_hot": 49891,
-      "num": 1460034,
+      "num": 1485700,
       "word": "用立体书打开国际茶日",
       "onboard_time": 1684671991,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1684678463297,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2220110,
+        "num": 2220110,
+        "word": "陈晓连麦到赵丽颖头像的人",
+        "onboard_time": 1684671152,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1494918,
+        "num": 1494918,
+        "word": "何赛飞回应痛斥梅花奖",
+        "onboard_time": 1684674149,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 41786,
+        "num": 1485700,
+        "word": "用立体书打开国际茶日",
+        "onboard_time": 1684671991,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1484543,
+        "num": 1484543,
+        "word": "女子因掉毛严重将宠物猫遗弃绿化带",
+        "onboard_time": 1684673430,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 887007,
+        "num": 887007,
+        "word": "刘恋",
+        "onboard_time": 1684665328,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 832988,
+        "num": 832988,
+        "word": "奥莉 BLACKPINK演唱会",
+        "onboard_time": 1684670012,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 819531,
+        "num": 819531,
+        "word": "王冰冰 中传",
+        "onboard_time": 1684667368,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 662212,
+        "num": 662212,
+        "word": "贝克汉姆Angelababy拍广告",
+        "onboard_time": 1684671331,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 550844,
+        "num": 550844,
+        "word": "网上很火但你却不懂的梗",
+        "onboard_time": 1684668809,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 402016,
+        "num": 402016,
+        "word": "JDG对战BLG",
+        "onboard_time": 1684665450,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 774040,
+        "num": 400723,
+        "word": "水电工人被射钉枪击中头部身亡",
+        "onboard_time": 1684676252,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620043,
+        "num": 398450,
+        "word": "王诗龄520收到巨型玫瑰熊",
+        "onboard_time": 1684677868,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 609408,
+        "num": 394479,
+        "word": "广东13岁女孩疑被邻居性侵",
+        "onboard_time": 1684659749,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452142,
+        "num": 391155,
+        "word": "Angelababy何猷君何超欣同框",
+        "onboard_time": 1684664489,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391043,
+        "num": 391043,
+        "word": "清华大学女生获选美冠军",
+        "onboard_time": 1684664189,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424646,
+        "num": 390895,
+        "word": "哇唧唧哇",
+        "onboard_time": 1684669830,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378146,
+        "num": 378146,
+        "word": "宁安如梦",
+        "onboard_time": 1684672591,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364408,
+        "num": 364408,
+        "word": "长沙市市长郑建新被免职",
+        "onboard_time": 1684664189,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342131,
+        "num": 342131,
+        "word": "最食人间烟火色",
+        "onboard_time": 1684671029,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320857,
+        "num": 320857,
+        "word": "Elk和MISSING亮WE队标",
+        "onboard_time": 1684674750,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 365944,
+        "num": 320188,
+        "word": "最食人间烟火色取关了卢洋洋",
+        "onboard_time": 1684671390,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319213,
+        "num": 319213,
+        "word": "没认出这是刘诗诗",
+        "onboard_time": 1684656687,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 276857,
+        "num": 276857,
+        "word": "香港发生谋杀案现场留有电锯",
+        "onboard_time": 1684662031,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 247138,
+        "num": 247138,
+        "word": "B站为什么1年91亿不够养UP主",
+        "onboard_time": 1684654108,
+        "rank": 23,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 225149,
+        "num": 225149,
+        "word": "要不要为了男友放弃编制",
+        "onboard_time": 1684667008,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 290068,
+        "num": 214454,
+        "word": "吴京出走半生归来仍是这张图",
+        "onboard_time": 1684672892,
+        "rank": 25,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 286795,
+        "num": 214013,
+        "word": "王楚然和檀健次搭戏vs和杨洋搭戏",
+        "onboard_time": 1684672053,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263000,
+        "num": 209905,
+        "word": "华表奖官宣了280个艺人",
+        "onboard_time": 1684678111,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202337,
+        "num": 202337,
+        "word": "硕士答辩看到一篇非常惊喜的论文",
+        "onboard_time": 1684657347,
+        "rank": 28,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 167718,
+        "num": 202031,
+        "word": "中国队3比0横扫韩国队",
+        "onboard_time": 1684664789,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254265,
+        "num": 199554,
+        "word": "张译 华表奖",
+        "onboard_time": 1684670491,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249625,
+        "num": 198495,
+        "word": "赵露思吃玉米",
+        "onboard_time": 1684674570,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236082,
+        "num": 196507,
+        "word": "李宇春粉丝又带麻袋来接纸花了",
+        "onboard_time": 1684677389,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 239246,
+        "num": 194314,
+        "word": "柯以敏7年后对16超女说请你原谅我",
+        "onboard_time": 1684677212,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193364,
+        "num": 193364,
+        "word": "GALA LNG",
+        "onboard_time": 1684667189,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 231823,
+        "num": 192486,
+        "word": "王源来看李宇春演唱会",
+        "onboard_time": 1684672229,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190163,
+        "num": 190163,
+        "word": "林高远",
+        "onboard_time": 1684673193,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182116,
+        "num": 182116,
+        "word": "那为啥要排这种戏颁这种奖",
+        "onboard_time": 1684666053,
+        "rank": 37,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 154085,
+        "num": 154085,
+        "word": "美光",
+        "onboard_time": 1684674453,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150402,
+        "num": 150402,
+        "word": "年轻人需要的不是一句话而是一笔钱",
+        "onboard_time": 1684672531,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231770,
+        "num": 148009,
+        "word": "霍建华 北京",
+        "onboard_time": 1684658969,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219837,
+        "num": 146604,
+        "word": "周震南 运营官博",
+        "onboard_time": 1684674930,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216958,
+        "num": 143003,
+        "word": "BLACKPINK演唱会",
+        "onboard_time": 1684672470,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210494,
+        "num": 140645,
+        "word": "冲出内娱的美貌",
+        "onboard_time": 1684659930,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195565,
+        "num": 137411,
+        "word": "尤长靖现场",
+        "onboard_time": 1684673670,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178035,
+        "num": 133900,
+        "word": "好利来二公子也去演戏了",
+        "onboard_time": 1684653087,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133144,
+        "num": 133144,
+        "word": "美光产品影响我国国家安全",
+        "onboard_time": 1684672351,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107249,
+        "num": 133054,
+        "word": "曼城vs切尔西",
+        "onboard_time": 1684678172,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97282,
+        "num": 132713,
+        "word": "蛙蛙我啊也会遇到老六",
+        "onboard_time": 1684676970,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93678,
+        "num": 132262,
+        "word": "真的不用弹儿歌过渡一下吗",
+        "onboard_time": 1684672710,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#关注2023中国中亚五国峰会#"
+    }
+  }
+}
