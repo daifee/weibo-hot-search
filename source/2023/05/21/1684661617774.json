@@ -1,0 +1,410 @@
+{
+  "runTime": 1684661617774,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1849393,
+        "num": 1849393,
+        "word": "好利来二公子也去演戏了",
+        "onboard_time": 1684653087,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1569957,
+        "num": 1569957,
+        "word": "长沙自建房倒塌事故调查报告公布",
+        "onboard_time": 1684660411,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60158,
+        "num": 1418459,
+        "word": "小满节气里的中国智慧",
+        "onboard_time": 1684658491,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1620602,
+        "num": 1414833,
+        "word": "曝笑果引发综艺电视剧延期",
+        "onboard_time": 1684658790,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1410539,
+        "num": 1410539,
+        "word": "霍建华 北京",
+        "onboard_time": 1684658969,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1314067,
+        "num": 1314067,
+        "word": "B站为什么1年91亿不够养UP主",
+        "onboard_time": 1684654108,
+        "rank": 5,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 1182426,
+        "num": 1182426,
+        "word": "硕士答辩看到一篇非常惊喜的论文",
+        "onboard_time": 1684657347,
+        "rank": 6,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 1017232,
+        "num": 1017232,
+        "word": "广东13岁女孩疑被邻居性侵",
+        "onboard_time": 1684659749,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759711,
+        "num": 759711,
+        "word": "杨笠 七时吉祥",
+        "onboard_time": 1684651767,
+        "rank": 8,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 698944,
+        "num": 698944,
+        "word": "陈雨菲vs安洗莹",
+        "onboard_time": 1684659628,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1766255,
+        "num": 681438,
+        "word": "没认出这是刘诗诗",
+        "onboard_time": 1684656687,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 661183,
+        "num": 661183,
+        "word": "好利来",
+        "onboard_time": 1684656628,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 449316,
+        "num": 449316,
+        "word": "林丹",
+        "onboard_time": 1684653509,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 411778,
+        "num": 411778,
+        "word": "晋剧演员张军波回应",
+        "onboard_time": 1684657829,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 375891,
+        "num": 375891,
+        "word": "沈梦辰晒杜海涛520送花照",
+        "onboard_time": 1684643370,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350079,
+        "num": 350079,
+        "word": "苏迪曼杯决赛",
+        "onboard_time": 1684651888,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339936,
+        "num": 339936,
+        "word": "苏杯决赛中国队vs韩国队",
+        "onboard_time": 1684651708,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339588,
+        "num": 339588,
+        "word": "苏杯决赛中国1比0韩国",
+        "onboard_time": 1684654529,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334295,
+        "num": 334295,
+        "word": "苏迪曼杯",
+        "onboard_time": 1684653627,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334243,
+        "num": 334243,
+        "word": "国羽苏杯三连冠",
+        "onboard_time": 1684661430,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 440445,
+        "num": 332425,
+        "word": "Lisa比中指后的反应",
+        "onboard_time": 1684641208,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 395330,
+        "num": 332014,
+        "word": "冲出内娱的美貌",
+        "onboard_time": 1684659930,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330539,
+        "num": 330539,
+        "word": "黄老师",
+        "onboard_time": 1684644448,
+        "rank": 22,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 345798,
+        "num": 327052,
+        "word": "你不会知道 她花了多久确认你们不爱她",
+        "onboard_time": 1684652066,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 314593,
+        "num": 314593,
+        "word": "何赛飞怒批戏曲行业现状",
+        "onboard_time": 1684645951,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 284768,
+        "num": 284768,
+        "word": "刘昊然戛纳看周冬雨的眼神",
+        "onboard_time": 1684636468,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267547,
+        "num": 267547,
+        "word": "何赛飞",
+        "onboard_time": 1684632987,
+        "rank": 26,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 264308,
+        "num": 264308,
+        "word": "事业单位",
+        "onboard_time": 1684641867,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 246906,
+        "num": 246906,
+        "word": "把灭火器看成薛之谦",
+        "onboard_time": 1684660467,
+        "rank": 28,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 246177,
+        "num": 246177,
+        "word": "女子入职1个月查出怀孕被辞退",
+        "onboard_time": 1684636529,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333713,
+        "num": 245268,
+        "word": "我女儿是个了不起的人 我好像从未向她说过",
+        "onboard_time": 1684660291,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243181,
+        "num": 243181,
+        "word": "谢娜戴的耳返是张杰的",
+        "onboard_time": 1684647929,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242733,
+        "num": 242733,
+        "word": "好利来二公子回应演戏",
+        "onboard_time": 1684660828,
+        "rank": 32,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 240332,
+        "num": 240332,
+        "word": "小樱花垂耳兔造型",
+        "onboard_time": 1684656808,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227467,
+        "num": 227467,
+        "word": "周也纹身贴",
+        "onboard_time": 1684658250,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209608,
+        "num": 209608,
+        "word": "华表奖嘉宾",
+        "onboard_time": 1684656628,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196635,
+        "num": 196635,
+        "word": "长沙自建房",
+        "onboard_time": 1684661310,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195667,
+        "num": 195667,
+        "word": "华表奖阵容官宣",
+        "onboard_time": 1684661249,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182945,
+        "num": 182945,
+        "word": "李莎旻子的发言水平",
+        "onboard_time": 1684655251,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168653,
+        "num": 168653,
+        "word": "张婧仪白色花朵编发",
+        "onboard_time": 1684656147,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 168212,
+        "num": 168212,
+        "word": "夫妻捡到脑瘫女婴照顾28年",
+        "onboard_time": 1684653147,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166109,
+        "num": 166109,
+        "word": "汪卓成编辑记录",
+        "onboard_time": 1684657709,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158581,
+        "num": 158581,
+        "word": "王俊凯易烊千玺或将参加这就是街舞6",
+        "onboard_time": 1684636529,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155309,
+        "num": 155309,
+        "word": "53岁大妈坚持8年为游客提供热水",
+        "onboard_time": 1684656987,
+        "rank": 43,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 153149,
+        "num": 153149,
+        "word": "周柯宇见证粉丝被求婚",
+        "onboard_time": 1684655788,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149436,
+        "num": 149436,
+        "word": "Uzi带水晶哥打八角笼",
+        "onboard_time": 1684661249,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144634,
+        "num": 144634,
+        "word": "我在惊悚游戏里封神",
+        "onboard_time": 1684652424,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141918,
+        "num": 141918,
+        "word": "尹净汉卷毛",
+        "onboard_time": 1684661491,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127049,
+        "num": 140870,
+        "word": "欧美女星为什么集体回春",
+        "onboard_time": 1684651169,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 56547,
+        "num": 140525,
+        "word": "杭州现鸭屎香冰淇淋",
+        "onboard_time": 1684643370,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国—中亚峰会西安宣言全文#"
+    }
+  }
+}

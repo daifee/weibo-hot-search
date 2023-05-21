@@ -1,6 +1,6 @@
 {
   "startTime": 1684599621121,
-  "endTime": 1684660495689,
+  "endTime": 1684661617774,
   "band_list": [
     {
       "raw_hot": 2927414,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1817211,
-      "num": 484362,
+      "num": 681438,
       "word": "没认出这是刘诗诗",
       "onboard_time": 1684656687,
       "rank": 11,
@@ -91,12 +91,20 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 1448697,
+      "raw_hot": 1620602,
       "num": 1448697,
       "word": "曝笑果引发综艺电视剧延期",
       "onboard_time": 1684658790,
       "rank": 3,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1569957,
+      "num": 1569957,
+      "word": "长沙自建房倒塌事故调查报告公布",
+      "onboard_time": 1684660411,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1420671,
@@ -107,20 +115,20 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 1410539,
+      "num": 1410539,
+      "word": "霍建华 北京",
+      "onboard_time": 1684658969,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1402800,
       "num": 988143,
       "word": "孕妇遭陌生男子猥亵后被打致耳聋",
       "onboard_time": 1684640006,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1390665,
-      "num": 1390665,
-      "word": "霍建华 北京",
-      "onboard_time": 1684658969,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1388211,
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1182426,
+      "num": 1182426,
+      "word": "硕士答辩看到一篇非常惊喜的论文",
+      "onboard_time": 1684657347,
+      "rank": 30,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 1151709,
       "num": 1151709,
       "word": "女子入职1个月查出怀孕被辞退",
@@ -187,14 +203,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1110982,
-      "num": 1110982,
-      "word": "硕士答辩看到一篇非常惊喜的论文",
-      "onboard_time": 1684657347,
-      "rank": 30,
-      "category": "教育,情感"
-    },
-    {
       "raw_hot": 1101878,
       "num": 1101878,
       "word": "王俊凯易烊千玺或将参加这就是街舞6",
@@ -209,6 +217,14 @@
       "onboard_time": 1684628965,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1017232,
+      "num": 1017232,
+      "word": "广东13岁女孩疑被邻居性侵",
+      "onboard_time": 1684659749,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 923291,
@@ -272,6 +288,14 @@
       "word": "苏杯中国2比2日本",
       "onboard_time": 1684596687,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 698944,
+      "num": 698944,
+      "word": "陈雨菲vs安洗莹",
+      "onboard_time": 1684659628,
+      "rank": 11,
       "category": "体育"
     },
     {
@@ -420,7 +444,7 @@
     },
     {
       "raw_hot": 483603,
-      "num": 321852,
+      "num": 327052,
       "word": "你不会知道 她花了多久确认你们不爱她",
       "onboard_time": 1684652066,
       "rank": 31,
@@ -491,16 +515,8 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 415198,
-      "num": 415198,
-      "word": "陈雨菲vs安洗莹",
-      "onboard_time": 1684659628,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 410650,
-      "num": 410650,
+      "raw_hot": 411778,
+      "num": 411778,
       "word": "晋剧演员张军波回应",
       "onboard_time": 1684657829,
       "rank": 34,
@@ -515,20 +531,20 @@
       "category": "社会议题,艺人"
     },
     {
-      "raw_hot": 405251,
-      "num": 405251,
-      "word": "广东13岁女孩疑被邻居性侵",
-      "onboard_time": 1684659749,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 401264,
       "num": 401264,
       "word": "雷佳音也追女团",
       "onboard_time": 1684631548,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 395330,
+      "num": 332014,
+      "word": "冲出内娱的美貌",
+      "onboard_time": 1684659930,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 389349,
@@ -635,6 +651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 350079,
+      "num": 350079,
+      "word": "苏迪曼杯决赛",
+      "onboard_time": 1684651888,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 349618,
       "num": 292613,
       "word": "赵丽颖一字锁骨",
@@ -651,6 +675,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 339588,
+      "num": 339588,
+      "word": "苏杯决赛中国1比0韩国",
+      "onboard_time": 1684654529,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 338454,
       "num": 338454,
       "word": "周柯宇见证粉丝被求婚",
@@ -659,12 +691,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 333728,
-      "num": 333728,
-      "word": "苏杯决赛中国1比0韩国",
-      "onboard_time": 1684654529,
-      "rank": 16,
+      "raw_hot": 334295,
+      "num": 334295,
+      "word": "苏迪曼杯",
+      "onboard_time": 1684624038,
+      "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 334243,
+      "num": 334243,
+      "word": "国羽苏杯三连冠",
+      "onboard_time": 1684661430,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 333713,
+      "num": 245268,
+      "word": "我女儿是个了不起的人 我好像从未向她说过",
+      "onboard_time": 1684660291,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 331726,
@@ -697,14 +745,6 @@
       "onboard_time": 1684647387,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 325233,
-      "num": 325233,
-      "word": "苏迪曼杯决赛",
-      "onboard_time": 1684651888,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 319638,
@@ -843,14 +883,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 256380,
-      "num": 256380,
-      "word": "苏迪曼杯",
-      "onboard_time": 1684624038,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 255660,
       "num": 255660,
       "word": "小樱花垂耳兔造型",
@@ -865,14 +897,6 @@
       "onboard_time": 1684631247,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 254059,
-      "num": 254059,
-      "word": "冲出内娱的美貌",
-      "onboard_time": 1684659930,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 253702,
@@ -897,6 +921,14 @@
       "onboard_time": 1684654948,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246906,
+      "num": 246906,
+      "word": "把灭火器看成薛之谦",
+      "onboard_time": 1684660467,
+      "rank": 39,
+      "category": "音乐,幽默"
     },
     {
       "raw_hot": 246130,
@@ -937,6 +969,14 @@
       "onboard_time": 1684650507,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 242733,
+      "num": 242733,
+      "word": "好利来二公子回应演戏",
+      "onboard_time": 1684660828,
+      "rank": 32,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 235126,
@@ -1051,20 +1091,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209608,
+      "num": 209608,
+      "word": "华表奖嘉宾",
+      "onboard_time": 1684656628,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208502,
       "num": 208502,
       "word": "柯基侧躺上面的腿沾不到地",
       "onboard_time": 1684598067,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 207062,
-      "num": 207062,
-      "word": "华表奖嘉宾",
-      "onboard_time": 1684656628,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 205628,
@@ -1099,6 +1139,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 196635,
+      "num": 196635,
+      "word": "长沙自建房",
+      "onboard_time": 1684661310,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196559,
       "num": 196559,
       "word": "护心芭莎宿命感大片",
@@ -1115,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195667,
+      "num": 195667,
+      "word": "华表奖阵容官宣",
+      "onboard_time": 1684661249,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194985,
       "num": 194985,
       "word": "刘恋巡演",
@@ -1129,14 +1185,6 @@
       "onboard_time": 1684599209,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193548,
-      "num": 193548,
-      "word": "长沙自建房倒塌事故调查报告公布",
-      "onboard_time": 1684660411,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193097,
@@ -1323,14 +1371,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 167673,
-      "num": 167673,
-      "word": "我女儿是个了不起的人 我好像从未向她说过",
-      "onboard_time": 1684660291,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 164185,
       "num": 164185,
       "word": "Natalie 花瓣裙",
@@ -1361,14 +1401,6 @@
       "onboard_time": 1684642350,
       "rank": 35,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 161114,
-      "num": 161114,
-      "word": "把灭火器看成薛之谦",
-      "onboard_time": 1684660467,
-      "rank": 39,
-      "category": "音乐,幽默"
     },
     {
       "raw_hot": 160628,
@@ -1443,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149436,
+      "num": 149436,
+      "word": "Uzi带水晶哥打八角笼",
+      "onboard_time": 1684661249,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148856,
       "num": 231519,
       "word": "幼儿园毕业男孩戴墨镜偷偷流泪",
@@ -1505,6 +1545,14 @@
       "onboard_time": 1684575626,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 141918,
+      "num": 141918,
+      "word": "尹净汉卷毛",
+      "onboard_time": 1684661491,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 140677,
@@ -1779,6 +1827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60158,
+      "num": 1476284,
+      "word": "小满节气里的中国智慧",
+      "onboard_time": 1684658491,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57986,
       "num": 57986,
       "word": "李宇春腹肌马甲线",
@@ -1801,14 +1857,6 @@
       "onboard_time": 1684625178,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 52528,
-      "num": 1476284,
-      "word": "小满节气里的中国智慧",
-      "onboard_time": 1684658491,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38077,
