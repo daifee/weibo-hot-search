@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684668796723,
+  "endTime": 1684672214916,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -427,6 +427,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2221482,
+      "num": 2221482,
+      "word": "王冰冰 中传",
+      "onboard_time": 1684667368,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2214555,
       "num": 2214555,
       "word": "韩网",
@@ -481,6 +489,14 @@
       "onboard_time": 1684226851,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2031574,
+      "num": 2031574,
+      "word": "陈晓连麦到赵丽颖头像的人",
+      "onboard_time": 1684671152,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 2030161,
@@ -1275,14 +1291,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1385467,
-      "num": 1385467,
-      "word": "王冰冰 中传",
-      "onboard_time": 1684667368,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1385427,
       "num": 1385427,
       "word": "凤求凰",
@@ -1707,6 +1715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1138598,
+      "num": 1138598,
+      "word": "Angelababy何猷君何超欣同框",
+      "onboard_time": 1684664489,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1128973,
       "num": 1128973,
       "word": "唐艺昕脚腕纹身",
@@ -1899,6 +1915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1057360,
+      "num": 1057360,
+      "word": "哇唧唧哇",
+      "onboard_time": 1684669830,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1057276,
       "num": 1057276,
       "word": "印尼警方通报中国游客巴厘岛遇害案",
@@ -2081,6 +2105,14 @@
       "onboard_time": 1684074511,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 971047,
+      "num": 971047,
+      "word": "奥莉 BLACKPINK演唱会",
+      "onboard_time": 1684670012,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 967069,
@@ -2352,14 +2384,6 @@
       "word": "王菲李嫣法国同框照",
       "onboard_time": 1684563446,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 846600,
-      "num": 846600,
-      "word": "Angelababy何猷君何超欣同框",
-      "onboard_time": 1684664489,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -2777,6 +2801,14 @@
       "onboard_time": 1684231530,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 714828,
+      "num": 568029,
+      "word": "贝克汉姆Angelababy拍广告",
+      "onboard_time": 1684671331,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 714107,
@@ -3379,6 +3411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 589372,
+      "num": 589372,
+      "word": "要不要为了男友放弃编制",
+      "onboard_time": 1684667008,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 588097,
       "num": 588097,
       "word": "我国南海发现两处古代沉船",
@@ -3611,6 +3651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 542317,
+      "num": 542317,
+      "word": "网上很火但你却不懂的梗",
+      "onboard_time": 1684668809,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 541047,
       "num": 541047,
       "word": "湖人vs掘金",
@@ -3803,6 +3851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 517078,
+      "num": 517078,
+      "word": "张译 华表奖",
+      "onboard_time": 1684670491,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 516087,
       "num": 516087,
       "word": "笑果旗下艺人多次违法被处罚",
@@ -3921,6 +3977,14 @@
       "onboard_time": 1684227272,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 505160,
+      "num": 571618,
+      "word": "王楚钦",
+      "onboard_time": 1684667790,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 503706,
@@ -4667,6 +4731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 441055,
+      "num": 313242,
+      "word": "最食人间烟火色",
+      "onboard_time": 1684671029,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 440891,
       "num": 440891,
       "word": "雅阁",
@@ -5348,7 +5420,7 @@
     },
     {
       "raw_hot": 393337,
-      "num": 317658,
+      "num": 317867,
       "word": "那为啥要排这种戏颁这种奖",
       "onboard_time": 1684666053,
       "rank": 30,
@@ -5883,20 +5955,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365756,
+      "num": 253556,
+      "word": "最食人间烟火色取关了卢洋洋",
+      "onboard_time": 1684671390,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 365351,
       "num": 304565,
       "word": "网友把TFBOYS头像文身上",
       "onboard_time": 1684486168,
       "rank": 23,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 365340,
-      "num": 365340,
-      "word": "王楚钦",
-      "onboard_time": 1684667790,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 365319,
@@ -6513,14 +6585,6 @@
       "onboard_time": 1684133490,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 328663,
-      "num": 328663,
-      "word": "要不要为了男友放弃编制",
-      "onboard_time": 1684667008,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 328641,
@@ -7907,6 +7971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265559,
+      "num": 252616,
+      "word": "奚梦瑶又在上课吗",
+      "onboard_time": 1684668450,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265377,
       "num": 265377,
       "word": "徐静蕾方辟谣",
@@ -8779,6 +8851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237762,
+      "num": 237762,
+      "word": "陈晓说毛晓彤智商120",
+      "onboard_time": 1684670252,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 237705,
       "num": 237705,
       "word": "这些征兆预示着你该辞职了",
@@ -9180,7 +9260,7 @@
     },
     {
       "raw_hot": 227571,
-      "num": 227571,
+      "num": 252899,
       "word": "中国队3比0横扫韩国队",
       "onboard_time": 1684664789,
       "rank": 39,
@@ -9193,6 +9273,14 @@
       "onboard_time": 1684372591,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 227223,
+      "num": 227223,
+      "word": "时代少年团直播",
+      "onboard_time": 1684671871,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 226929,
@@ -10547,6 +10635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 194349,
+      "num": 240477,
+      "word": "青蛇在大学餐厅里闲逛",
+      "onboard_time": 1684668090,
+      "rank": 34,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 193999,
       "num": 193999,
       "word": "陈赫问邓超最近脸上动过了吗",
@@ -11321,6 +11417,14 @@
       "onboard_time": 1684253727,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180247,
+      "num": 151306,
+      "word": "张雨绮重现2013戛纳经典造型",
+      "onboard_time": 1684670789,
+      "rank": 41,
+      "category": "影视,时尚"
     },
     {
       "raw_hot": 180227,
@@ -12739,6 +12843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150364,
+      "num": 150364,
+      "word": "王楚然和檀健次搭戏vs和杨洋搭戏",
+      "onboard_time": 1684672053,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 150347,
       "num": 150347,
       "word": "塞学家研究所",
@@ -12825,6 +12937,22 @@
       "onboard_time": 1684632026,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 148540,
+      "num": 148540,
+      "word": "极限挑战",
+      "onboard_time": 1684669951,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 148486,
+      "num": 148486,
+      "word": "社牛萨摩耶搭顺风车离家出走",
+      "onboard_time": 1684670371,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148444,
@@ -13353,14 +13481,6 @@
       "onboard_time": 1684452444,
       "rank": 34,
       "category": "影视,时尚"
-    },
-    {
-      "raw_hot": 138220,
-      "num": 138220,
-      "word": "奚梦瑶又在上课吗",
-      "onboard_time": 1684668450,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 137921,
@@ -14147,6 +14267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117767,
+      "num": 130423,
+      "word": "灵梦弈星MVP",
+      "onboard_time": 1684671991,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 117699,
       "num": 117699,
       "word": "中华白海豚驮幼崽遗体游泳看到泪目",
@@ -14560,6 +14688,14 @@
       "word": "的哥路遇男孩说想看飞机",
       "onboard_time": 1684427364,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97171,
+      "num": 138295,
+      "word": "男子爬进污水井救出6岁男童",
+      "onboard_time": 1684671991,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -15513,6 +15649,14 @@
       "onboard_time": 1684441032,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 10986,
+      "num": 1240192,
+      "word": "用立体书打开国际茶日",
+      "onboard_time": 1684671991,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

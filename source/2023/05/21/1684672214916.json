@@ -1,0 +1,410 @@
+{
+  "runTime": 1684672214916,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2221482,
+        "num": 2221482,
+        "word": "王冰冰 中传",
+        "onboard_time": 1684667368,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2031574,
+        "num": 2031574,
+        "word": "陈晓连麦到赵丽颖头像的人",
+        "onboard_time": 1684671152,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 10986,
+        "num": 1240192,
+        "word": "用立体书打开国际茶日",
+        "onboard_time": 1684671991,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1138598,
+        "num": 1138598,
+        "word": "Angelababy何猷君何超欣同框",
+        "onboard_time": 1684664489,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1057360,
+        "num": 1057360,
+        "word": "哇唧唧哇",
+        "onboard_time": 1684669830,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 971047,
+        "num": 971047,
+        "word": "奥莉 BLACKPINK演唱会",
+        "onboard_time": 1684670012,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 956613,
+        "num": 956613,
+        "word": "香港发生谋杀案现场留有电锯",
+        "onboard_time": 1684662031,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 729176,
+        "num": 729176,
+        "word": "硕士答辩看到一篇非常惊喜的论文",
+        "onboard_time": 1684657347,
+        "rank": 7,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 589372,
+        "num": 589372,
+        "word": "要不要为了男友放弃编制",
+        "onboard_time": 1684667008,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 505160,
+        "num": 571618,
+        "word": "王楚钦",
+        "onboard_time": 1684667790,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 737568,
+        "num": 568380,
+        "word": "广东13岁女孩疑被邻居性侵",
+        "onboard_time": 1684659749,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 714828,
+        "num": 568029,
+        "word": "贝克汉姆Angelababy拍广告",
+        "onboard_time": 1684671331,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 559693,
+        "num": 559693,
+        "word": "没认出这是刘诗诗",
+        "onboard_time": 1684656687,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 558872,
+        "num": 558872,
+        "word": "刘恋",
+        "onboard_time": 1684665328,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542317,
+        "num": 542317,
+        "word": "网上很火但你却不懂的梗",
+        "onboard_time": 1684668809,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 517078,
+        "num": 517078,
+        "word": "张译 华表奖",
+        "onboard_time": 1684670491,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 484910,
+        "num": 484910,
+        "word": "霍建华 北京",
+        "onboard_time": 1684658969,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403208,
+        "num": 403208,
+        "word": "长沙市市长郑建新被免职",
+        "onboard_time": 1684664189,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336405,
+        "num": 336405,
+        "word": "B站为什么1年91亿不够养UP主",
+        "onboard_time": 1684654108,
+        "rank": 18,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 317867,
+        "num": 317867,
+        "word": "那为啥要排这种戏颁这种奖",
+        "onboard_time": 1684666053,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 441055,
+        "num": 313242,
+        "word": "最食人间烟火色",
+        "onboard_time": 1684671029,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 401050,
+        "num": 308148,
+        "word": "好利来二公子也去演戏了",
+        "onboard_time": 1684653087,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300214,
+        "num": 300214,
+        "word": "GALA LNG",
+        "onboard_time": 1684667189,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 253918,
+        "num": 253918,
+        "word": "我女儿是个了不起的人 我好像从未向她说过",
+        "onboard_time": 1684660291,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209624,
+        "num": 253848,
+        "word": "清华大学女生获选美冠军",
+        "onboard_time": 1684664189,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365756,
+        "num": 253556,
+        "word": "最食人间烟火色取关了卢洋洋",
+        "onboard_time": 1684671390,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277148,
+        "num": 253387,
+        "word": "华表奖阵容官宣",
+        "onboard_time": 1684661249,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269774,
+        "num": 253234,
+        "word": "李一桐说这个奖属于狂飙每一位演员",
+        "onboard_time": 1684665988,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43566,
+        "num": 253149,
+        "word": "小满节气里的中国智慧",
+        "onboard_time": 1684658491,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200339,
+        "num": 252899,
+        "word": "中国队3比0横扫韩国队",
+        "onboard_time": 1684664789,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265559,
+        "num": 252616,
+        "word": "奚梦瑶又在上课吗",
+        "onboard_time": 1684668450,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256586,
+        "num": 252455,
+        "word": "幸福到万家最新评分",
+        "onboard_time": 1684667429,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252409,
+        "num": 252409,
+        "word": "冲出内娱的美貌",
+        "onboard_time": 1684659930,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243440,
+        "num": 243440,
+        "word": "杨笠 七时吉祥",
+        "onboard_time": 1684651767,
+        "rank": 33,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 194349,
+        "num": 240477,
+        "word": "青蛇在大学餐厅里闲逛",
+        "onboard_time": 1684668090,
+        "rank": 34,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 237762,
+        "num": 237762,
+        "word": "陈晓说毛晓彤智商120",
+        "onboard_time": 1684670252,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227223,
+        "num": 227223,
+        "word": "时代少年团直播",
+        "onboard_time": 1684671871,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167695,
+        "num": 167695,
+        "word": "你不会知道 她花了多久确认你们不爱她",
+        "onboard_time": 1684652066,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165539,
+        "num": 165539,
+        "word": "JDG对战BLG",
+        "onboard_time": 1684665450,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151553,
+        "num": 151553,
+        "word": "男子心脏2支架1搭桥跑赢全马",
+        "onboard_time": 1684662627,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211902,
+        "num": 151413,
+        "word": "宋雨琦Y2K造型",
+        "onboard_time": 1684663228,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180247,
+        "num": 151306,
+        "word": "张雨绮重现2013戛纳经典造型",
+        "onboard_time": 1684670789,
+        "rank": 41,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 150364,
+        "num": 150364,
+        "word": "王楚然和檀健次搭戏vs和杨洋搭戏",
+        "onboard_time": 1684672053,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148540,
+        "num": 148540,
+        "word": "极限挑战",
+        "onboard_time": 1684669951,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148486,
+        "num": 148486,
+        "word": "社牛萨摩耶搭顺风车离家出走",
+        "onboard_time": 1684670371,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143695,
+        "num": 143695,
+        "word": "何赛飞怒批戏曲行业现状",
+        "onboard_time": 1684645951,
+        "rank": 45,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 140845,
+        "num": 140845,
+        "word": "第一次为螃蟹感到害怕",
+        "onboard_time": 1684668150,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97171,
+        "num": 138295,
+        "word": "男子爬进污水井救出6岁男童",
+        "onboard_time": 1684671991,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137969,
+        "num": 137969,
+        "word": "汪卓成编辑记录",
+        "onboard_time": 1684657709,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117767,
+        "num": 130423,
+        "word": "灵梦弈星MVP",
+        "onboard_time": 1684671991,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#关注2023中国中亚五国峰会#"
+    }
+  }
+}
