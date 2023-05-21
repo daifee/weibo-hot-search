@@ -1,6 +1,6 @@
 {
   "startTime": 1684599621121,
-  "endTime": 1684657184675,
+  "endTime": 1684658016537,
   "band_list": [
     {
       "raw_hot": 2927414,
@@ -75,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1461466,
-      "num": 1461466,
+      "raw_hot": 1671794,
+      "num": 1671794,
       "word": "B站为什么1年91亿不够养UP主",
       "onboard_time": 1684654108,
       "rank": 36,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1244238,
+      "num": 484362,
+      "word": "没认出这是刘诗诗",
+      "onboard_time": 1684656687,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1151709,
       "num": 1151709,
       "word": "女子入职1个月查出怀孕被辞退",
@@ -179,6 +187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 923291,
+      "num": 923291,
+      "word": "林丹",
+      "onboard_time": 1684653509,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 918886,
       "num": 918886,
       "word": "美依礼芽二郎腿",
@@ -219,12 +235,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 778415,
-      "num": 778415,
-      "word": "林丹",
-      "onboard_time": 1684653509,
-      "rank": 8,
-      "category": "体育"
+      "raw_hot": 738593,
+      "num": 738593,
+      "word": "好利来",
+      "onboard_time": 1684656628,
+      "rank": 9,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 709861,
@@ -364,11 +380,19 @@
     },
     {
       "raw_hot": 492164,
-      "num": 426689,
+      "num": 478256,
       "word": "刘昊然戛纳看周冬雨的眼神",
       "onboard_time": 1684636468,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 487170,
+      "num": 487170,
+      "word": "夫妻捡到脑瘫女婴照顾28年",
+      "onboard_time": 1684653147,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 483603,
@@ -385,14 +409,6 @@
       "onboard_time": 1684593389,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 466476,
-      "num": 466476,
-      "word": "夫妻捡到脑瘫女婴照顾28年",
-      "onboard_time": 1684653147,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 464902,
@@ -419,12 +435,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 440268,
-      "num": 426105,
-      "word": "没认出这是刘诗诗",
-      "onboard_time": 1684656687,
-      "rank": 11,
-      "category": "作品衍生"
+      "raw_hot": 445395,
+      "num": 445395,
+      "word": "石宇奇 李宥奎",
+      "onboard_time": 1684655251,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 437380,
@@ -433,14 +449,6 @@
       "onboard_time": 1684597528,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 427106,
-      "num": 427106,
-      "word": "好利来",
-      "onboard_time": 1684656628,
-      "rank": 9,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 426959,
@@ -457,14 +465,6 @@
       "onboard_time": 1684623917,
       "rank": 44,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 424490,
-      "num": 424490,
-      "word": "石宇奇 李宥奎",
-      "onboard_time": 1684655251,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 408075,
@@ -603,6 +603,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 338454,
+      "num": 338454,
+      "word": "周柯宇见证粉丝被求婚",
+      "onboard_time": 1684655788,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333728,
       "num": 333728,
       "word": "苏杯决赛中国1比0韩国",
@@ -683,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316108,
+      "num": 204182,
+      "word": "硕士答辩看到一篇非常惊喜的论文",
+      "onboard_time": 1684657347,
+      "rank": 30,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 315212,
       "num": 315212,
       "word": "我在惊悚游戏里封神",
@@ -697,14 +713,6 @@
       "onboard_time": 1684596152,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 304695,
-      "num": 304695,
-      "word": "周柯宇见证粉丝被求婚",
-      "onboard_time": 1684655788,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 301538,
@@ -755,6 +763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 264059,
+      "num": 264059,
+      "word": "张婧仪白色花朵编发",
+      "onboard_time": 1684656147,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 262191,
       "num": 262191,
       "word": "明星521营业照",
@@ -785,6 +801,14 @@
       "onboard_time": 1684624038,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255660,
+      "num": 255660,
+      "word": "小樱花垂耳兔造型",
+      "onboard_time": 1684656808,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 254364,
@@ -851,14 +875,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 243353,
-      "num": 243353,
-      "word": "张婧仪白色花朵编发",
-      "onboard_time": 1684656147,
-      "rank": 25,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 242741,
       "num": 242741,
       "word": "Alin帮女儿追星马嘉祺",
@@ -873,6 +889,14 @@
       "onboard_time": 1684633108,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 234533,
+      "num": 234533,
+      "word": "五月天演唱会",
+      "onboard_time": 1684654169,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 230778,
@@ -897,14 +921,6 @@
       "onboard_time": 1684624398,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 229522,
-      "num": 229522,
-      "word": "五月天演唱会",
-      "onboard_time": 1684654169,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 228945,
@@ -987,6 +1003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 207062,
+      "num": 207062,
+      "word": "华表奖嘉宾",
+      "onboard_time": 1684656628,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205628,
       "num": 205628,
       "word": "95后女老师自费为学生送520玫瑰",
@@ -1011,14 +1035,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 198295,
-      "num": 198295,
-      "word": "小樱花垂耳兔造型",
-      "onboard_time": 1684656808,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 196772,
       "num": 196772,
       "word": "护心521芭莎全员合体",
@@ -1041,14 +1057,6 @@
       "onboard_time": 1684630166,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194988,
-      "num": 194988,
-      "word": "华表奖嘉宾",
-      "onboard_time": 1684656628,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 194985,
@@ -1115,6 +1123,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 188391,
+      "num": 188391,
+      "word": "带薪rua熊猫真有那么爽吗",
+      "onboard_time": 1684657469,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187820,
       "num": 187820,
       "word": "吴谢宇求生辩护公开",
@@ -1147,12 +1163,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182398,
+      "num": 182398,
+      "word": "晋剧演员张军波回应",
+      "onboard_time": 1684657829,
+      "rank": 34,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 182386,
       "num": 262210,
       "word": "生活哪个瞬间让你有同感",
       "onboard_time": 1684637667,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 181532,
+      "num": 181532,
+      "word": "汪卓成编辑记录",
+      "onboard_time": 1684657709,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 181434,
@@ -1193,6 +1225,14 @@
       "onboard_time": 1684645469,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 171069,
+      "num": 171069,
+      "word": "53岁大妈坚持8年为游客提供热水",
+      "onboard_time": 1684656987,
+      "rank": 41,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 171024,
@@ -1299,14 +1339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152793,
-      "num": 152793,
-      "word": "53岁大妈坚持8年为游客提供热水",
-      "onboard_time": 1684656987,
-      "rank": 41,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 152086,
       "num": 152086,
       "word": "北京一居民家中起火好心邻居报警",
@@ -1361,6 +1393,14 @@
       "onboard_time": 1684628065,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 144073,
+      "num": 144073,
+      "word": "何赛飞演过影视剧",
+      "onboard_time": 1684657951,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 143789,
@@ -1468,7 +1508,7 @@
     },
     {
       "raw_hot": 128906,
-      "num": 128906,
+      "num": 143664,
       "word": "学霸给KPL学长上了一课",
       "onboard_time": 1684656088,
       "rank": 47,
