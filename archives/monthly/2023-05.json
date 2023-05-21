@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684694025720,
+  "endTime": 1684696369015,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -45273,6 +45273,14 @@
       "onboard_time": 1683312913,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26326,
+      "num": 26326,
+      "word": "MTG对战HI",
+      "onboard_time": 1684690516,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 26169,

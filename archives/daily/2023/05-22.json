@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684694025720,
+  "endTime": 1684696369015,
   "band_list": [
     {
       "raw_hot": 1364630,
@@ -483,12 +483,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26326,
+      "num": 26326,
+      "word": "MTG对战HI",
+      "onboard_time": 1684690516,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 23325,
       "num": 844669,
       "word": "用立体书打开国际茶日",
       "onboard_time": 1684671991,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21399,
+      "num": 23651,
+      "word": "最食人间烟火色",
+      "onboard_time": 1684671029,
+      "rank": 46,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
