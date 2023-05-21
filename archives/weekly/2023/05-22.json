@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684704809958,
+  "endTime": 1684707323768,
   "band_list": [
     {
       "raw_hot": 1364630,
@@ -299,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162267,
+      "num": 75559,
+      "word": "拜登宣称美中关系会在短时间内缓和",
+      "onboard_time": 1684703350,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 160119,
       "num": 160119,
       "word": "切尔西",
@@ -475,14 +483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44536,
-      "num": 26818,
-      "word": "拜登宣称美中关系会在短时间内缓和",
-      "onboard_time": 1684703350,
-      "rank": 49,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 42428,
       "num": 42428,
       "word": "恭喜曼城",
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 26326,
-      "num": 26763,
+      "num": 29048,
       "word": "MTG对战HI",
       "onboard_time": 1684690516,
       "rank": 36,
@@ -507,20 +507,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21565,
+      "num": 29027,
+      "word": "谢娜想语音输入结果发了语音",
+      "onboard_time": 1684698072,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21399,
       "num": 23651,
       "word": "最食人间烟火色",
       "onboard_time": 1684671029,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 19802,
-      "num": 26654,
-      "word": "谢娜想语音输入结果发了语音",
-      "onboard_time": 1684698072,
-      "rank": 34,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
