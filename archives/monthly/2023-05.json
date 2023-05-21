@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684673161664,
+  "endTime": 1684675078109,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -6083,6 +6083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1007889,
+      "num": 1007889,
+      "word": "何赛飞回应痛斥梅花奖",
+      "onboard_time": 1684674149,
+      "rank": 3,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1007565,
       "num": 1007565,
       "word": "王俊凯去录向往的生活了吗",
@@ -8435,6 +8443,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 715162,
+      "num": 715162,
+      "word": "网上很火但你却不懂的梗",
+      "onboard_time": 1684668809,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 714107,
       "num": 714107,
       "word": "徐怀钰说自己有愧疚感",
@@ -9121,14 +9137,6 @@
       "onboard_time": 1683159869,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 661804,
-      "num": 661804,
-      "word": "网上很火但你却不懂的梗",
-      "onboard_time": 1684668809,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 661362,
@@ -17123,6 +17131,14 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 370267,
+      "num": 233254,
+      "word": "吴京出走半生归来仍是这张图",
+      "onboard_time": 1684672892,
+      "rank": 44,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 369806,
       "num": 369806,
       "word": "鹅厂bg之光",
@@ -19097,6 +19113,14 @@
       "onboard_time": 1683650782,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335835,
+      "num": 232242,
+      "word": "王源来看李宇春演唱会",
+      "onboard_time": 1684672229,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 335723,
@@ -21673,14 +21697,6 @@
       "onboard_time": 1683460890,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 294673,
-      "num": 221264,
-      "word": "王源来看李宇春演唱会",
-      "onboard_time": 1684672229,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 294655,
@@ -25747,6 +25763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246984,
+      "num": 246984,
+      "word": "林高远",
+      "onboard_time": 1684673193,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246963,
       "num": 246963,
       "word": "梁静茹 门票",
@@ -25976,6 +26000,14 @@
       "word": "拉萨客栈杀人案嫌犯抓捕现场",
       "onboard_time": 1682939727,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245045,
+      "num": 245045,
+      "word": "女子因掉毛严重将宠物猫遗弃绿化带",
+      "onboard_time": 1684673430,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -27507,6 +27539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231774,
+      "num": 206627,
+      "word": "尤长靖现场",
+      "onboard_time": 1684673670,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 231748,
       "num": 228695,
       "word": "脱口秀行业会凉凉吗",
@@ -28843,14 +28883,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 219354,
-      "num": 141907,
-      "word": "吴京出走半生归来仍是这张图",
-      "onboard_time": 1684672892,
-      "rank": 44,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 219305,
       "num": 207325,
       "word": "李光洙宁艺卓双向奔赴的不熟",
@@ -28963,6 +28995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218561,
+      "num": 218561,
+      "word": "Elk和MISSING亮WE队标",
+      "onboard_time": 1684674750,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 218493,
       "num": 218493,
       "word": "贾静雯恭喜Alin",
@@ -29024,6 +29064,14 @@
       "word": "一念关山首支预告",
       "onboard_time": 1683687750,
       "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 217938,
+      "num": 172570,
+      "word": "赵露思吃玉米",
+      "onboard_time": 1684674570,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -29545,6 +29593,14 @@
       "onboard_time": 1684237651,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 214227,
+      "num": 172781,
+      "word": "周震南 运营官博",
+      "onboard_time": 1684674930,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 214177,
@@ -31787,6 +31843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195933,
+      "num": 195933,
+      "word": "郭艾伦跳操",
+      "onboard_time": 1684672951,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195832,
       "num": 195832,
       "word": "为什么相爱还会分手",
@@ -31913,6 +31977,14 @@
       "onboard_time": 1684368629,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195203,
+      "num": 195203,
+      "word": "美光",
+      "onboard_time": 1684674453,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195162,
@@ -37435,14 +37507,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 153716,
-      "num": 153716,
-      "word": "郭艾伦跳操",
-      "onboard_time": 1684672951,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 153638,
       "num": 153638,
       "word": "29岁女子因脑积水头大如外星人",
@@ -38439,6 +38503,14 @@
       "num": 178462,
       "word": "凤凰于飞",
       "onboard_time": 1684386394,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 146251,
+      "num": 146251,
+      "word": "XYG对战MTG",
+      "onboard_time": 1684674991,
       "rank": 49,
       "category": "游戏"
     },
@@ -44115,6 +44187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49891,
+      "num": 1460034,
+      "word": "用立体书打开国际茶日",
+      "onboard_time": 1684671991,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49625,
       "num": 126072,
       "word": "DRG晋级败者组决赛",
@@ -44336,14 +44416,6 @@
       "word": "五一的最终归宿还是快餐店",
       "onboard_time": 1682920829,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43732,
-      "num": 1460034,
-      "word": "用立体书打开国际茶日",
-      "onboard_time": 1684671991,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
