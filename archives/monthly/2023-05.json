@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684679603961,
+  "endTime": 1684682139421,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -5531,6 +5531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1084368,
+      "num": 1084368,
+      "word": "周冬雨刘昊然在燃冬里有床戏",
+      "onboard_time": 1684678711,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1083093,
       "num": 1083093,
       "word": "品如的苹果手机怎么是翻盖的",
@@ -8371,6 +8379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 724043,
+      "num": 724043,
+      "word": "牙膏 菜",
+      "onboard_time": 1684680335,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 723619,
       "num": 723619,
       "word": "欧阳靖没人选",
@@ -8779,6 +8795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 694069,
+      "num": 694069,
+      "word": "京东",
+      "onboard_time": 1684679853,
+      "rank": 9,
+      "category": "游戏,科技"
+    },
+    {
       "raw_hot": 693807,
       "num": 693807,
       "word": "折腰",
@@ -9145,14 +9169,6 @@
       "onboard_time": 1683709229,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 663766,
-      "num": 663766,
-      "word": "周冬雨刘昊然在燃冬里有床戏",
-      "onboard_time": 1684678711,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 663338,
@@ -9755,6 +9771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 613772,
+      "num": 613772,
+      "word": "华表奖官宣了280个艺人",
+      "onboard_time": 1684678111,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 613428,
       "num": 613428,
       "word": "苏群 湖人演过头",
@@ -9977,6 +10001,14 @@
       "onboard_time": 1683394281,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 602203,
+      "num": 602203,
+      "word": "Bin哥厉害",
+      "onboard_time": 1684506692,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 601890,
@@ -10784,14 +10816,6 @@
       "word": "蒋奇明 丑帅",
       "onboard_time": 1682948790,
       "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 559745,
-      "num": 559745,
-      "word": "华表奖官宣了280个艺人",
-      "onboard_time": 1684678111,
-      "rank": 27,
       "category": "影视"
     },
     {
@@ -12555,6 +12579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485313,
+      "num": 485313,
+      "word": "水果摊无人看守30箱香蕉被抢光",
+      "onboard_time": 1684679673,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 485070,
       "num": 485070,
       "word": "流水线公主",
@@ -14185,6 +14217,14 @@
       "onboard_time": 1683362071,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 438536,
+      "num": 438536,
+      "word": "妻子去世10年男子仍帮老丈人插秧",
+      "onboard_time": 1684678595,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 438489,
@@ -16875,14 +16915,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 377032,
-      "num": 377032,
-      "word": "Bin哥厉害",
-      "onboard_time": 1684506692,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 376777,
       "num": 376777,
       "word": "长空之王告王一博代言的眼镜",
@@ -17961,6 +17993,14 @@
       "onboard_time": 1683908366,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356360,
+      "num": 356360,
+      "word": "世上再无公子襄",
+      "onboard_time": 1684679493,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 356046,
@@ -23331,6 +23371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 274620,
+      "num": 274620,
+      "word": "三十岁是花园里刚刚盛开的花朵",
+      "onboard_time": 1684680514,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 274300,
       "num": 274300,
       "word": "王一博说吾辈当自强",
@@ -23521,6 +23569,14 @@
       "onboard_time": 1683263071,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272192,
+      "num": 272192,
+      "word": "Ruler大满贯",
+      "onboard_time": 1684681052,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 272117,
@@ -24505,6 +24561,14 @@
       "onboard_time": 1684022002,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259625,
+      "num": 259625,
+      "word": "Knight获得FMVP",
+      "onboard_time": 1684679673,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 259579,
@@ -26515,14 +26579,6 @@
       "category": "作品衍生,影视"
     },
     {
-      "raw_hot": 241103,
-      "num": 241103,
-      "word": "妻子去世10年男子仍帮老丈人插秧",
-      "onboard_time": 1684678595,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 240889,
       "num": 240889,
       "word": "狼队金色的雨",
@@ -27505,6 +27561,14 @@
       "onboard_time": 1683455370,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 233113,
+      "num": 233113,
+      "word": "书里走出来的毛晓彤",
+      "onboard_time": 1684680514,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 233082,
@@ -28905,6 +28969,14 @@
       "onboard_time": 1683382233,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 219779,
+      "num": 219779,
+      "word": "跑男是知道怎么留住观众的",
+      "onboard_time": 1684681172,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 219765,
@@ -30763,6 +30835,14 @@
       "category": "动漫,幽默"
     },
     {
+      "raw_hot": 205229,
+      "num": 205229,
+      "word": "BLG也是LPL的骄傲",
+      "onboard_time": 1684681472,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205222,
       "num": 205222,
       "word": "女子偷卖闺蜜金手镯给男友买手机",
@@ -31161,6 +31241,14 @@
       "onboard_time": 1683808107,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202055,
+      "num": 202055,
+      "word": "XYG获得KPL夏季赛席位",
+      "onboard_time": 1684681894,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 202049,
@@ -32939,6 +33027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189243,
+      "num": 189243,
+      "word": "陈飞宇没去BLACKPINK演唱会",
+      "onboard_time": 1684680754,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189152,
       "num": 186032,
       "word": "打个响指吧",
@@ -33329,6 +33425,14 @@
       "onboard_time": 1683937948,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 186620,
+      "num": 186620,
+      "word": "切尔西",
+      "onboard_time": 1683991473,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 186610,
@@ -34027,14 +34131,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 180803,
-      "num": 151993,
-      "word": "世上再无公子襄",
-      "onboard_time": 1684679493,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 180597,
       "num": 180597,
       "word": "周也男主运",
@@ -34283,14 +34379,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 179131,
-      "num": 179131,
-      "word": "切尔西",
-      "onboard_time": 1683991473,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 179118,
       "num": 179118,
       "word": "朱雀 低保治好了我的精神内耗",
@@ -34473,6 +34561,14 @@
       "onboard_time": 1682846126,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 178047,
+      "num": 178047,
+      "word": "全红婵水花 物理学不存在了",
+      "onboard_time": 1684682013,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 177992,
@@ -36083,6 +36179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 166036,
+      "num": 166036,
+      "word": "有哪些坚持了多年的小习惯",
+      "onboard_time": 1684681231,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 165887,
       "num": 165887,
       "word": "哪一瞬间意识到妈妈很爱你",
@@ -37459,6 +37563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154981,
+      "num": 154981,
+      "word": "许嵩 天津",
+      "onboard_time": 1684682071,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 154759,
       "num": 154759,
       "word": "蒋依依打卡淄博烧烤",
@@ -37601,6 +37713,14 @@
       "onboard_time": 1684074753,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153756,
+      "num": 153756,
+      "word": "还没毕业就把室友全部删除了",
+      "onboard_time": 1684681531,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 153638,
@@ -37833,6 +37953,14 @@
       "onboard_time": 1684254087,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151932,
+      "num": 151932,
+      "word": "梁静茹521再分手一次",
+      "onboard_time": 1684681772,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 151919,

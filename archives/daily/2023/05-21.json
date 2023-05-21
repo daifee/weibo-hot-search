@@ -1,6 +1,6 @@
 {
   "startTime": 1684599621121,
-  "endTime": 1684679603961,
+  "endTime": 1684682139421,
   "band_list": [
     {
       "raw_hot": 2927414,
@@ -291,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1084368,
+      "num": 1084368,
+      "word": "周冬雨刘昊然在燃冬里有床戏",
+      "onboard_time": 1684678711,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1064965,
       "num": 1064965,
       "word": "贝克汉姆Angelababy拍广告",
@@ -403,6 +411,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 724043,
+      "num": 724043,
+      "word": "牙膏 菜",
+      "onboard_time": 1684680335,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 715162,
       "num": 715162,
       "word": "网上很火但你却不懂的梗",
@@ -427,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 694069,
+      "num": 694069,
+      "word": "京东",
+      "onboard_time": 1684679853,
+      "rank": 9,
+      "category": "游戏,科技"
+    },
+    {
       "raw_hot": 674958,
       "num": 674958,
       "word": "BLG战胜T1",
@@ -449,14 +473,6 @@
       "onboard_time": 1684597289,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 663766,
-      "num": 663766,
-      "word": "周冬雨刘昊然在燃冬里有床戏",
-      "onboard_time": 1684678711,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 643706,
@@ -491,12 +507,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 613772,
+      "num": 613772,
+      "word": "华表奖官宣了280个艺人",
+      "onboard_time": 1684678111,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 608745,
       "num": 608745,
       "word": "掘金vs湖人",
       "onboard_time": 1684630525,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 602203,
+      "num": 602203,
+      "word": "Bin哥厉害",
+      "onboard_time": 1684680154,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 595562,
@@ -537,14 +569,6 @@
       "onboard_time": 1684592552,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 559745,
-      "num": 559745,
-      "word": "华表奖官宣了280个艺人",
-      "onboard_time": 1684678111,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 545683,
@@ -675,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485313,
+      "num": 485313,
+      "word": "水果摊无人看守30箱香蕉被抢光",
+      "onboard_time": 1684679673,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 483603,
       "num": 327052,
       "word": "你不会知道 她花了多久确认你们不爱她",
@@ -737,6 +769,14 @@
       "onboard_time": 1684655251,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 438536,
+      "num": 438536,
+      "word": "妻子去世10年男子仍帮老丈人插秧",
+      "onboard_time": 1684678595,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 437380,
@@ -931,6 +971,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 356360,
+      "num": 356360,
+      "word": "世上再无公子襄",
+      "onboard_time": 1684679493,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 356034,
       "num": 356034,
       "word": "那吾克热 淘汰",
@@ -969,6 +1017,14 @@
       "onboard_time": 1684640066,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 342789,
+      "num": 342789,
+      "word": "白桃星座",
+      "onboard_time": 1684680213,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 342489,
@@ -1163,6 +1219,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 274620,
+      "num": 274620,
+      "word": "三十岁是花园里刚刚盛开的花朵",
+      "onboard_time": 1684680514,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 272192,
+      "num": 272192,
+      "word": "Ruler大满贯",
+      "onboard_time": 1684681052,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 268253,
       "num": 268253,
       "word": "李莎旻子的发言水平",
@@ -1208,6 +1280,14 @@
       "word": "以闪亮之名",
       "onboard_time": 1684642888,
       "rank": 25,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 259625,
+      "num": 259625,
+      "word": "Knight获得FMVP",
+      "onboard_time": 1684679673,
+      "rank": 26,
       "category": "游戏"
     },
     {
@@ -1347,14 +1427,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 241103,
-      "num": 241103,
-      "word": "妻子去世10年男子仍帮老丈人插秧",
-      "onboard_time": 1684678595,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 239246,
       "num": 212918,
       "word": "柯以敏7年后对16超女说请你原谅我",
@@ -1416,6 +1488,14 @@
       "word": "时代少年团直播",
       "onboard_time": 1684671871,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 233113,
+      "num": 233113,
+      "word": "书里走出来的毛晓彤",
+      "onboard_time": 1684680514,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -1499,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219779,
+      "num": 219779,
+      "word": "跑男是知道怎么留住观众的",
+      "onboard_time": 1684681172,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219117,
       "num": 219117,
       "word": "JDG战胜BLG",
@@ -1579,12 +1667,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 205229,
+      "num": 205229,
+      "word": "BLG也是LPL的骄傲",
+      "onboard_time": 1684681472,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205037,
       "num": 205037,
       "word": "羽毛球",
       "onboard_time": 1684664968,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202055,
+      "num": 202055,
+      "word": "XYG获得KPL夏季赛席位",
+      "onboard_time": 1684681894,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 201456,
@@ -1707,6 +1811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189243,
+      "num": 189243,
+      "word": "陈飞宇没去BLACKPINK演唱会",
+      "onboard_time": 1684680754,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188983,
       "num": 188983,
       "word": "杭州现鸭屎香冰淇淋",
@@ -1753,6 +1865,14 @@
       "onboard_time": 1684592795,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186620,
+      "num": 186620,
+      "word": "切尔西",
+      "onboard_time": 1684681953,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 186208,
@@ -1803,14 +1923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180803,
-      "num": 151993,
-      "word": "世上再无公子襄",
-      "onboard_time": 1684679493,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 180312,
       "num": 180312,
       "word": "你是一个不落啊 一个都没过上",
@@ -1841,6 +1953,14 @@
       "onboard_time": 1684656987,
       "rank": 41,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 178047,
+      "num": 178047,
+      "word": "全红婵水花 物理学不存在了",
+      "onboard_time": 1684682013,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 177899,
@@ -1905,6 +2025,14 @@
       "onboard_time": 1684667488,
       "rank": 43,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 166036,
+      "num": 166036,
+      "word": "有哪些坚持了多年的小习惯",
+      "onboard_time": 1684681231,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 164185,
@@ -1995,12 +2123,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154981,
+      "num": 154981,
+      "word": "许嵩 天津",
+      "onboard_time": 1684682071,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 153756,
+      "num": 153756,
+      "word": "还没毕业就把室友全部删除了",
+      "onboard_time": 1684681531,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152086,
       "num": 152086,
       "word": "北京一居民家中起火好心邻居报警",
       "onboard_time": 1684638148,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151932,
+      "num": 151932,
+      "word": "梁静茹521再分手一次",
+      "onboard_time": 1684681772,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 151919,
