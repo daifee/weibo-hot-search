@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684642795330,
+  "endTime": 1684643613905,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -875,6 +875,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1615960,
+      "num": 991776,
+      "word": "Lisa比中指后的反应",
+      "onboard_time": 1684641208,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1606902,
       "num": 1606902,
       "word": "宋智孝被公司拖欠9亿工资",
@@ -1179,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1402800,
+      "num": 988143,
+      "word": "孕妇遭陌生男子猥亵后被打致耳聋",
+      "onboard_time": 1684640006,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1398950,
       "num": 1369472,
       "word": "领导让我们三个怀孕错开",
@@ -1321,22 +1337,6 @@
       "onboard_time": 1684399350,
       "rank": 12,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1289066,
-      "num": 991776,
-      "word": "Lisa比中指后的反应",
-      "onboard_time": 1684641208,
-      "rank": 3,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1286198,
-      "num": 988143,
-      "word": "孕妇遭陌生男子猥亵后被打致耳聋",
-      "onboard_time": 1684640006,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1283776,
@@ -1585,6 +1585,14 @@
       "onboard_time": 1684464090,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1141545,
+      "num": 987104,
+      "word": "Angelababy怎么美成这样啊",
+      "onboard_time": 1684595730,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 1139373,
@@ -1931,14 +1939,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 987104,
-      "num": 987104,
-      "word": "Angelababy怎么美成这样啊",
-      "onboard_time": 1684595730,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 984823,
       "num": 549167,
       "word": "赵露思的腿好白",
@@ -2137,6 +2137,14 @@
       "onboard_time": 1684245813,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 886520,
+      "num": 886520,
+      "word": "事业单位",
+      "onboard_time": 1684641867,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 885073,
@@ -3195,6 +3203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 588097,
+      "num": 588097,
+      "word": "我国南海发现两处古代沉船",
+      "onboard_time": 1684639649,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 585744,
       "num": 362025,
       "word": "倪妮GUCCI",
@@ -3297,14 +3313,6 @@
       "onboard_time": 1684396709,
       "rank": 32,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 564453,
-      "num": 564453,
-      "word": "我国南海发现两处古代沉船",
-      "onboard_time": 1684639649,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 563586,
@@ -3947,14 +3955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 478605,
-      "num": 478605,
-      "word": "事业单位",
-      "onboard_time": 1684641867,
-      "rank": 12,
-      "category": "教育"
-    },
-    {
       "raw_hot": 477119,
       "num": 259513,
       "word": "蔡晓蕾孩子胎停",
@@ -4137,6 +4137,14 @@
       "onboard_time": 1684315412,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 464902,
+      "num": 464902,
+      "word": "王源巡演 抢票",
+      "onboard_time": 1684643312,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 463834,
@@ -5460,7 +5468,7 @@
     },
     {
       "raw_hot": 370935,
-      "num": 296895,
+      "num": 302592,
       "word": "赵丽颖工作室审美",
       "onboard_time": 1684627163,
       "rank": 21,
@@ -6811,6 +6819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291842,
+      "num": 280646,
+      "word": "梁源喊话于文文粉丝",
+      "onboard_time": 1684639469,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 290686,
       "num": 290686,
       "word": "为什么有的人不接受单休",
@@ -7067,14 +7083,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 280646,
-      "num": 280646,
-      "word": "梁源喊话于文文粉丝",
-      "onboard_time": 1684639469,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 280224,
       "num": 272702,
       "word": "易烊千玺与汉斯季默合影",
@@ -7193,6 +7201,14 @@
       "onboard_time": 1684119990,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 275999,
+      "num": 275999,
+      "word": "你怎么看何赛飞为基层戏剧演员发声",
+      "onboard_time": 1684642468,
+      "rank": 38,
+      "category": "社会议题,艺人"
     },
     {
       "raw_hot": 274225,
@@ -7483,6 +7499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 261600,
+      "num": 208730,
+      "word": "朱一龙戛纳拍照站C位",
+      "onboard_time": 1684643069,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 261415,
       "num": 248838,
       "word": "斗罗大陆",
@@ -7521,6 +7545,14 @@
       "onboard_time": 1684456349,
       "rank": 24,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 259931,
+      "num": 259931,
+      "word": "以闪亮之名",
+      "onboard_time": 1684642888,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 259481,
@@ -8011,6 +8043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244232,
+      "num": 244232,
+      "word": "虐猫组织的魔爪伸向宠物店",
+      "onboard_time": 1684640966,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244059,
       "num": 178214,
       "word": "中新网评House事件",
@@ -8305,14 +8345,6 @@
       "onboard_time": 1684492829,
       "rank": 32,
       "category": "作品衍生,幽默"
-    },
-    {
-      "raw_hot": 235481,
-      "num": 235481,
-      "word": "虐猫组织的魔爪伸向宠物店",
-      "onboard_time": 1684640966,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235156,
@@ -9675,6 +9707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199018,
+      "num": 199018,
+      "word": "沈梦辰晒杜海涛520送花照",
+      "onboard_time": 1684643370,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198332,
       "num": 190959,
       "word": "为什么人打电话猫在旁边喵喵叫",
@@ -10539,6 +10579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 181434,
+      "num": 181434,
+      "word": "为出席女儿成人礼盲人妈妈花500元改造",
+      "onboard_time": 1684639888,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181260,
       "num": 181260,
       "word": "周星驰担任网飞版美猴王执行制作",
@@ -11057,14 +11105,6 @@
       "onboard_time": 1684505971,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 171479,
-      "num": 171479,
-      "word": "为出席女儿成人礼盲人妈妈花500元改造",
-      "onboard_time": 1684639888,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171450,
@@ -11619,14 +11659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157683,
-      "num": 157683,
-      "word": "你怎么看何赛飞为基层戏剧演员发声",
-      "onboard_time": 1684642468,
-      "rank": 38,
-      "category": "社会议题,艺人"
-    },
-    {
       "raw_hot": 157670,
       "num": 157670,
       "word": "西湖边82岁奶奶和旗袍高跟鞋好配",
@@ -11817,6 +11849,14 @@
       "onboard_time": 1684315714,
       "rank": 48,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 152909,
+      "num": 152909,
+      "word": "人脉说唱",
+      "onboard_time": 1684642888,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 152758,
@@ -12539,6 +12579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136756,
+      "num": 136756,
+      "word": "杭州现鸭屎香冰淇淋",
+      "onboard_time": 1684643370,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 136068,
       "num": 136068,
       "word": "小樱花收到塞尔达王国之泪",
@@ -12705,6 +12753,14 @@
       "onboard_time": 1684292431,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 131339,
+      "num": 131339,
+      "word": "让1.3亿空巢老人不再孤独",
+      "onboard_time": 1684643188,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131044,
