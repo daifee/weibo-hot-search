@@ -1,6 +1,6 @@
 {
   "startTime": 1684599621121,
-  "endTime": 1684634034341,
+  "endTime": 1684636700229,
   "band_list": [
     {
       "raw_hot": 2289295,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1961358,
-      "num": 828929,
+      "num": 879494,
       "word": "台湾坠亡男生身世被起底",
       "onboard_time": 1684626261,
       "rank": 5,
@@ -33,6 +33,14 @@
       "onboard_time": 1684598188,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1767994,
+      "num": 1767994,
+      "word": "何赛飞",
+      "onboard_time": 1684632987,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1388211,
@@ -57,6 +65,22 @@
       "onboard_time": 1684626200,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1258337,
+      "num": 471974,
+      "word": "婴儿被亲友轮番亲吻高烧近40度",
+      "onboard_time": 1684634786,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1115793,
+      "num": 1115793,
+      "word": "黄渤倪妮新片拍摄现场发生事故",
+      "onboard_time": 1684634427,
+      "rank": 3,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1056876,
@@ -91,20 +115,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 832254,
-      "num": 832254,
-      "word": "何赛飞",
-      "onboard_time": 1684632987,
-      "rank": 4,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 809580,
       "num": 756053,
       "word": "好多艺人去看了BLACKPINK演唱会",
       "onboard_time": 1684597351,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 806080,
+      "num": 240266,
+      "word": "日本牛郎 审美降级",
+      "onboard_time": 1684633108,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 795192,
@@ -140,7 +164,7 @@
     },
     {
       "raw_hot": 639145,
-      "num": 163101,
+      "num": 429138,
       "word": "总统亲自来提车",
       "onboard_time": 1684631607,
       "rank": 30,
@@ -163,12 +187,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 524403,
+      "num": 524403,
+      "word": "女子被打用高跟鞋反击判3年赔20万",
+      "onboard_time": 1684634308,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 513748,
       "num": 513748,
       "word": "小满",
       "onboard_time": 1684624398,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 507240,
+      "num": 507240,
+      "word": "拉塞尔又拉了",
+      "onboard_time": 1684634607,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 471973,
@@ -196,7 +236,7 @@
     },
     {
       "raw_hot": 426959,
-      "num": 163125,
+      "num": 267830,
       "word": "店员称衣服掉地上摔个洞需赔款",
       "onboard_time": 1684630525,
       "rank": 20,
@@ -236,7 +276,7 @@
     },
     {
       "raw_hot": 370935,
-      "num": 163121,
+      "num": 278953,
       "word": "赵丽颖工作室审美",
       "onboard_time": 1684627163,
       "rank": 21,
@@ -315,6 +355,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 299932,
+      "num": 299932,
+      "word": "ruler",
+      "onboard_time": 1684635027,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 282713,
+      "num": 282713,
+      "word": "妈妈为传承稀有剧种收女儿为徒",
+      "onboard_time": 1684633292,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277564,
       "num": 277564,
       "word": "oner",
@@ -356,7 +412,7 @@
     },
     {
       "raw_hot": 246130,
-      "num": 163119,
+      "num": 196011,
       "word": "千万别告诉杨迪沈月在自拍",
       "onboard_time": 1684631906,
       "rank": 25,
@@ -387,8 +443,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 234488,
+      "num": 166067,
+      "word": "千里背母上大学的贵州孝子14年后现状",
+      "onboard_time": 1684635326,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230778,
-      "num": 163111,
+      "num": 166951,
       "word": "复旦大学5月20日起对公众开放",
       "onboard_time": 1684626319,
       "rank": 24,
@@ -427,16 +491,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 213540,
-      "num": 213540,
-      "word": "妈妈为传承稀有剧种收女儿为徒",
-      "onboard_time": 1684633292,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212096,
-      "num": 163100,
+      "num": 193977,
       "word": "欧阳靖发博回应没人选",
       "onboard_time": 1684631906,
       "rank": 33,
@@ -468,7 +524,7 @@
     },
     {
       "raw_hot": 196322,
-      "num": 163109,
+      "num": 165098,
       "word": "苹果对花花有多重要",
       "onboard_time": 1684630166,
       "rank": 31,
@@ -579,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160887,
+      "num": 160887,
+      "word": "国际茶日",
+      "onboard_time": 1684636410,
+      "rank": 32,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 160628,
       "num": 160628,
       "word": "许嵩 薛之谦演唱会嘉宾",
@@ -587,20 +651,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 158810,
+      "num": 158810,
+      "word": "苏杯决赛中国vs韩国",
+      "onboard_time": 1684635507,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157918,
       "num": 157918,
       "word": "苏迪曼杯中国进决赛",
       "onboard_time": 1684625117,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 156185,
-      "num": 156185,
-      "word": "日本牛郎 审美降级",
-      "onboard_time": 1684633108,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 149786,
@@ -683,6 +747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 132683,
+      "num": 132683,
+      "word": "王俊凯易烊千玺或将参加这就是街舞6",
+      "onboard_time": 1684636529,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130857,
       "num": 130857,
       "word": "穆雷投疯了",
@@ -723,12 +795,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123498,
+      "num": 123498,
+      "word": "女子入职1个月查出怀孕被辞退",
+      "onboard_time": 1684636529,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122384,
       "num": 135803,
       "word": "是我本人过520的方式",
       "onboard_time": 1684595552,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118436,
+      "num": 118436,
+      "word": "刘昊然戛纳看周冬雨的眼神",
+      "onboard_time": 1684636468,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 110379,
@@ -747,12 +835,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106469,
+      "num": 106469,
+      "word": "国家级最新深海探秘开启",
+      "onboard_time": 1684635869,
+      "rank": 46,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 93837,
       "num": 93837,
       "word": "张云雷杭州音乐节舞台照",
       "onboard_time": 1684631426,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 89852,
+      "num": 89852,
+      "word": "背负18颗钢钉重庆小伙成功登顶珠峰",
+      "onboard_time": 1684634667,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88359,

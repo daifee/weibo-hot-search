@@ -1,0 +1,410 @@
+{
+  "runTime": 1684636700229,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1815432,
+        "num": 1815432,
+        "word": "高三六班微信群牵出1.6亿赌博案",
+        "onboard_time": 1684623795,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1767994,
+        "num": 1767994,
+        "word": "何赛飞",
+        "onboard_time": 1684632987,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 66179,
+        "num": 1216754,
+        "word": "谢谢温暖过我们的陌生人",
+        "onboard_time": 1684595010,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1115793,
+        "num": 1115793,
+        "word": "黄渤倪妮新片拍摄现场发生事故",
+        "onboard_time": 1684634427,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 888784,
+        "num": 888784,
+        "word": "北京一小区半夜神秘敲墙声持续2年",
+        "onboard_time": 1684626200,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1254197,
+        "num": 879494,
+        "word": "台湾坠亡男生身世被起底",
+        "onboard_time": 1684626261,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 829340,
+        "num": 829340,
+        "word": "周冬雨刘昊然红毯",
+        "onboard_time": 1684628965,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 736624,
+        "num": 736624,
+        "word": "莫言 告诉你一个残忍的人际关系",
+        "onboard_time": 1684629925,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 524403,
+        "num": 524403,
+        "word": "女子被打用高跟鞋反击判3年赔20万",
+        "onboard_time": 1684634308,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507240,
+        "num": 507240,
+        "word": "拉塞尔又拉了",
+        "onboard_time": 1684634607,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1258337,
+        "num": 471974,
+        "word": "婴儿被亲友轮番亲吻高烧近40度",
+        "onboard_time": 1684634786,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 714889,
+        "num": 464369,
+        "word": "好多艺人去看了BLACKPINK演唱会",
+        "onboard_time": 1684597351,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 614993,
+        "num": 429138,
+        "word": "总统亲自来提车",
+        "onboard_time": 1684631607,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367264,
+        "num": 367264,
+        "word": "韩网",
+        "onboard_time": 1684598309,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 337887,
+        "num": 337887,
+        "word": "雪莉的电影要播了",
+        "onboard_time": 1684598188,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299932,
+        "num": 299932,
+        "word": "ruler",
+        "onboard_time": 1684635027,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 288481,
+        "num": 288481,
+        "word": "雷佳音也追女团",
+        "onboard_time": 1684631548,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 286862,
+        "num": 286862,
+        "word": "掘金vs湖人",
+        "onboard_time": 1684630525,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282713,
+        "num": 282713,
+        "word": "妈妈为传承稀有剧种收女儿为徒",
+        "onboard_time": 1684633292,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279855,
+        "num": 279855,
+        "word": "网红三千哥直播pk喝酒后去世",
+        "onboard_time": 1684589128,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344746,
+        "num": 279709,
+        "word": "Angelababy怎么美成这样啊",
+        "onboard_time": 1684595730,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 278953,
+        "num": 278953,
+        "word": "赵丽颖工作室审美",
+        "onboard_time": 1684627163,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267830,
+        "num": 267830,
+        "word": "店员称衣服掉地上摔个洞需赔款",
+        "onboard_time": 1684630525,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243189,
+        "num": 243189,
+        "word": "小满",
+        "onboard_time": 1684624398,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 806080,
+        "num": 240266,
+        "word": "日本牛郎 审美降级",
+        "onboard_time": 1684633108,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220957,
+        "num": 220957,
+        "word": "为妮钟秦",
+        "onboard_time": 1684593389,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196011,
+        "num": 196011,
+        "word": "千万别告诉杨迪沈月在自拍",
+        "onboard_time": 1684631906,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193977,
+        "num": 193977,
+        "word": "欧阳靖发博回应没人选",
+        "onboard_time": 1684631906,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179269,
+        "num": 179269,
+        "word": "她不出声我也知道她善良可爱",
+        "onboard_time": 1684623917,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 166951,
+        "num": 166951,
+        "word": "复旦大学5月20日起对公众开放",
+        "onboard_time": 1684626319,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 234488,
+        "num": 166067,
+        "word": "千里背母上大学的贵州孝子14年后现状",
+        "onboard_time": 1684635326,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165098,
+        "num": 165098,
+        "word": "苹果对花花有多重要",
+        "onboard_time": 1684630166,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160887,
+        "num": 160887,
+        "word": "国际茶日",
+        "onboard_time": 1684636410,
+        "rank": 32,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 158810,
+        "num": 158810,
+        "word": "苏杯决赛中国vs韩国",
+        "onboard_time": 1684635507,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150788,
+        "num": 150788,
+        "word": "李荣浩520演唱会求婚高峰",
+        "onboard_time": 1684631247,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147971,
+        "num": 147971,
+        "word": "今年的小满恰逢521",
+        "onboard_time": 1684626019,
+        "rank": 35,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 139189,
+        "num": 139189,
+        "word": "蜡像版袁爷爷的眼睛里有光",
+        "onboard_time": 1684632267,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134808,
+        "num": 134808,
+        "word": "毕滢否认与金晨游玩",
+        "onboard_time": 1684628423,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132683,
+        "num": 132683,
+        "word": "王俊凯易烊千玺或将参加这就是街舞6",
+        "onboard_time": 1684636529,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130037,
+        "num": 130037,
+        "word": "李克勤尾场嘉宾刘德华",
+        "onboard_time": 1684632026,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130031,
+        "num": 130031,
+        "word": "男朋友在520给我发了5块2",
+        "onboard_time": 1684590090,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126652,
+        "num": 126652,
+        "word": "穆雷投疯了",
+        "onboard_time": 1684633768,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125229,
+        "num": 125229,
+        "word": "洪世贤艾莉瞒着品如二搭了",
+        "onboard_time": 1684588168,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123498,
+        "num": 123498,
+        "word": "女子入职1个月查出怀孕被辞退",
+        "onboard_time": 1684636529,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118436,
+        "num": 118436,
+        "word": "刘昊然戛纳看周冬雨的眼神",
+        "onboard_time": 1684636468,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112070,
+        "num": 112070,
+        "word": "苏迪曼杯中国进决赛",
+        "onboard_time": 1684625117,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106469,
+        "num": 106469,
+        "word": "国家级最新深海探秘开启",
+        "onboard_time": 1684635869,
+        "rank": 46,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 103762,
+        "num": 103762,
+        "word": "四川第一个自闭症大学生找到工作",
+        "onboard_time": 1684604358,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 89852,
+        "num": 89852,
+        "word": "背负18颗钢钉重庆小伙成功登顶珠峰",
+        "onboard_time": 1684634667,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87914,
+        "num": 87914,
+        "word": "米勒解说",
+        "onboard_time": 1684610953,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国—中亚峰会成果清单#"
+    }
+  }
+}
