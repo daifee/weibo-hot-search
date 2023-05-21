@@ -1,0 +1,410 @@
+{
+  "runTime": 1684632983822,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1511465,
+        "num": 1511465,
+        "word": "高三六班微信群牵出1.6亿赌博案",
+        "onboard_time": 1684623795,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1271164,
+        "num": 1271164,
+        "word": "北京一小区半夜神秘敲墙声持续2年",
+        "onboard_time": 1684626200,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73802,
+        "num": 1036868,
+        "word": "谢谢温暖过我们的陌生人",
+        "onboard_time": 1684595010,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1027663,
+        "num": 1027663,
+        "word": "周冬雨刘昊然红毯",
+        "onboard_time": 1684628965,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 691780,
+        "num": 691780,
+        "word": "韩网",
+        "onboard_time": 1684598309,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1961358,
+        "num": 675853,
+        "word": "台湾坠亡男生身世被起底",
+        "onboard_time": 1684626261,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 809580,
+        "num": 672231,
+        "word": "好多艺人去看了BLACKPINK演唱会",
+        "onboard_time": 1684597351,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 650831,
+        "num": 650831,
+        "word": "网红三千哥直播pk喝酒后去世",
+        "onboard_time": 1684589128,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529807,
+        "num": 529807,
+        "word": "雪莉的电影要播了",
+        "onboard_time": 1684598188,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 528226,
+        "num": 528226,
+        "word": "莫言 告诉你一个残忍的人际关系",
+        "onboard_time": 1684629925,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 426388,
+        "num": 426388,
+        "word": "她不出声我也知道她善良可爱",
+        "onboard_time": 1684623917,
+        "rank": 10,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 355135,
+        "num": 355135,
+        "word": "雷佳音也追女团",
+        "onboard_time": 1684631548,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 328503,
+        "num": 328503,
+        "word": "小满",
+        "onboard_time": 1684624398,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295757,
+        "num": 295757,
+        "word": "掘金vs湖人",
+        "onboard_time": 1684630525,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85034,
+        "num": 294171,
+        "word": "曼城11年7冠",
+        "onboard_time": 1684630824,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292883,
+        "num": 292883,
+        "word": "为妮钟秦",
+        "onboard_time": 1684593389,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205628,
+        "num": 205628,
+        "word": "95后女老师自费为学生送520玫瑰",
+        "onboard_time": 1684625359,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 190368,
+        "num": 190368,
+        "word": "四川第一个自闭症大学生找到工作",
+        "onboard_time": 1684604358,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 170513,
+        "num": 170513,
+        "word": "洪世贤艾莉瞒着品如二搭了",
+        "onboard_time": 1684588168,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157918,
+        "num": 157918,
+        "word": "苏迪曼杯中国进决赛",
+        "onboard_time": 1684625117,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405380,
+        "num": 157548,
+        "word": "店员称衣服掉地上摔个洞需赔款",
+        "onboard_time": 1684630525,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370935,
+        "num": 156605,
+        "word": "赵丽颖工作室审美",
+        "onboard_time": 1684627163,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357777,
+        "num": 155477,
+        "word": "Angelababy怎么美成这样啊",
+        "onboard_time": 1684595730,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 254364,
+        "num": 154319,
+        "word": "李荣浩520演唱会求婚高峰",
+        "onboard_time": 1684631247,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 230778,
+        "num": 154017,
+        "word": "复旦大学5月20日起对公众开放",
+        "onboard_time": 1684626319,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 219829,
+        "num": 152580,
+        "word": "千万别告诉杨迪沈月在自拍",
+        "onboard_time": 1684631906,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200464,
+        "num": 152050,
+        "word": "今年的小满恰逢521",
+        "onboard_time": 1684626019,
+        "rank": 26,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 194895,
+        "num": 150998,
+        "word": "男朋友在520给我发了5块2",
+        "onboard_time": 1684590090,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188775,
+        "num": 149756,
+        "word": "毕滢否认与金晨游玩",
+        "onboard_time": 1684628423,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176792,
+        "num": 149103,
+        "word": "坐着有大床房的双层列车去大理",
+        "onboard_time": 1684628065,
+        "rank": 29,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 411075,
+        "num": 148105,
+        "word": "总统亲自来提车",
+        "onboard_time": 1684631607,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170629,
+        "num": 146972,
+        "word": "苹果对花花有多重要",
+        "onboard_time": 1684630166,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168994,
+        "num": 145845,
+        "word": "于文文嘲笑GAI歪嘴",
+        "onboard_time": 1684585888,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159910,
+        "num": 145544,
+        "word": "欧阳靖发博回应没人选",
+        "onboard_time": 1684631906,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144877,
+        "num": 144877,
+        "word": "LPL",
+        "onboard_time": 1684628065,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140677,
+        "num": 140677,
+        "word": "浪漫医生金师傅",
+        "onboard_time": 1684626862,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140495,
+        "num": 140495,
+        "word": "李克勤尾场嘉宾刘德华",
+        "onboard_time": 1684632026,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140006,
+        "num": 140006,
+        "word": "吵架到一半发现男朋友是对的",
+        "onboard_time": 1684587089,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137156,
+        "num": 137156,
+        "word": "孩子18岁成人礼爸妈偷偷化老年妆",
+        "onboard_time": 1684605558,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130891,
+        "num": 130891,
+        "word": "秦霄贤说喜欢的人在现场",
+        "onboard_time": 1684589188,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128691,
+        "num": 128691,
+        "word": "欧阳靖没人选",
+        "onboard_time": 1684592552,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121218,
+        "num": 121218,
+        "word": "蜡像版袁爷爷的眼睛里有光",
+        "onboard_time": 1684632267,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118246,
+        "num": 118246,
+        "word": "米勒解说",
+        "onboard_time": 1684610953,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117272,
+        "num": 117272,
+        "word": "柯基侧躺上面的腿沾不到地",
+        "onboard_time": 1684598067,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108812,
+        "num": 108812,
+        "word": "陈意涵不需要小考",
+        "onboard_time": 1684591709,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102968,
+        "num": 102968,
+        "word": "黄磊向往的生活想办长桌宴",
+        "onboard_time": 1684589368,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100362,
+        "num": 100362,
+        "word": "BLG战胜T1",
+        "onboard_time": 1684593814,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 93837,
+        "num": 93837,
+        "word": "张云雷杭州音乐节舞台照",
+        "onboard_time": 1684631426,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 91239,
+        "num": 91239,
+        "word": "死缓犯狱中患癌离世家属索赔700余万",
+        "onboard_time": 1684580189,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91098,
+        "num": 91098,
+        "word": "曼城英超三连冠",
+        "onboard_time": 1684624398,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国—中亚峰会成果清单#"
+    }
+  }
+}

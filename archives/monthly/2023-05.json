@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684625632683,
+  "endTime": 1684632983822,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1643,6 +1643,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1961358,
+      "num": 675853,
+      "word": "台湾坠亡男生身世被起底",
+      "onboard_time": 1684626261,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1955423,
       "num": 1955423,
       "word": "新冠疫情不再构成国际关注的突发公共卫生事件",
@@ -3123,6 +3131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1511465,
+      "num": 1511465,
+      "word": "高三六班微信群牵出1.6亿赌博案",
+      "onboard_time": 1684623795,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1511440,
       "num": 1511440,
       "word": "韩国张凌赫",
@@ -4257,6 +4273,14 @@
       "onboard_time": 1683193226,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1271164,
+      "num": 1271164,
+      "word": "北京一小区半夜神秘敲墙声持续2年",
+      "onboard_time": 1684626200,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1270175,
@@ -5688,6 +5712,14 @@
       "word": "TFBOYS恭喜易烊千玺",
       "onboard_time": 1684230450,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1027663,
+      "num": 1027663,
+      "word": "周冬雨刘昊然红毯",
+      "onboard_time": 1684628965,
+      "rank": 3,
       "category": "影视"
     },
     {
@@ -7251,6 +7283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 809580,
+      "num": 712785,
+      "word": "好多艺人去看了BLACKPINK演唱会",
+      "onboard_time": 1684597351,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 808326,
       "num": 808326,
       "word": "刘亦菲红裙雕刻感大片",
@@ -8161,14 +8201,6 @@
       "onboard_time": 1683027270,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 712785,
-      "num": 712785,
-      "word": "好多艺人去看了BLACKPINK演唱会",
-      "onboard_time": 1684597351,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 709861,
@@ -11088,6 +11120,14 @@
       "word": "姐姐知道我偷偷买房后",
       "onboard_time": 1683811766,
       "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 528226,
+      "num": 528226,
+      "word": "莫言 告诉你一个残忍的人际关系",
+      "onboard_time": 1684629925,
+      "rank": 9,
       "category": "情感"
     },
     {
@@ -14067,6 +14107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 426388,
+      "num": 426388,
+      "word": "她不出声我也知道她善良可爱",
+      "onboard_time": 1684623917,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 426274,
       "num": 369444,
       "word": "白夜追凶2",
@@ -14627,6 +14675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 411075,
+      "num": 148105,
+      "word": "总统亲自来提车",
+      "onboard_time": 1684631607,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410497,
       "num": 410497,
       "word": "伴娘要随份子钱吗",
@@ -14873,6 +14929,14 @@
       "onboard_time": 1683100469,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 405380,
+      "num": 157548,
+      "word": "店员称衣服掉地上摔个洞需赔款",
+      "onboard_time": 1684630525,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 405363,
@@ -16219,14 +16283,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 376847,
-      "num": 105050,
-      "word": "高三六班微信群牵出1.6亿赌博案",
-      "onboard_time": 1684623795,
-      "rank": 30,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 376777,
       "num": 376777,
       "word": "长空之王告王一博代言的眼镜",
@@ -16489,6 +16545,14 @@
       "onboard_time": 1684392268,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 370935,
+      "num": 156605,
+      "word": "赵丽颖工作室审美",
+      "onboard_time": 1684627163,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 370912,
@@ -17329,6 +17393,14 @@
       "onboard_time": 1683259894,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 355135,
+      "num": 355135,
+      "word": "雷佳音也追女团",
+      "onboard_time": 1684631548,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 354911,
@@ -20835,6 +20907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 295757,
+      "num": 295757,
+      "word": "掘金vs湖人",
+      "onboard_time": 1684630525,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 295567,
       "num": 295567,
       "word": "勇士晋级西部半决赛",
@@ -24171,6 +24251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254364,
+      "num": 154319,
+      "word": "李荣浩520演唱会求婚高峰",
+      "onboard_time": 1684631247,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 254349,
       "num": 254349,
       "word": "徐若晗官宣签约和颂传媒",
@@ -26651,6 +26739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 230778,
+      "num": 154017,
+      "word": "复旦大学5月20日起对公众开放",
+      "onboard_time": 1684626319,
+      "rank": 24,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 230667,
       "num": 230667,
       "word": "王楚钦愿人生没有极限",
@@ -27753,6 +27849,14 @@
       "onboard_time": 1683382233,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 219829,
+      "num": 152580,
+      "word": "千万别告诉杨迪沈月在自拍",
+      "onboard_time": 1684631906,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 219765,
@@ -29523,6 +29627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 205628,
+      "num": 205628,
+      "word": "95后女老师自费为学生送520玫瑰",
+      "onboard_time": 1684625359,
+      "rank": 40,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 205425,
       "num": 205425,
       "word": "6A级风景区猪妖洞",
@@ -30153,6 +30265,14 @@
       "onboard_time": 1682958086,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200464,
+      "num": 152050,
+      "word": "今年的小满恰逢521",
+      "onboard_time": 1684626019,
+      "rank": 26,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 200438,
@@ -31697,6 +31817,14 @@
       "onboard_time": 1684437012,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188775,
+      "num": 149756,
+      "word": "毕滢否认与金晨游玩",
+      "onboard_time": 1684628423,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 188749,
@@ -33251,6 +33379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 176792,
+      "num": 149103,
+      "word": "坐着有大床房的双层列车去大理",
+      "onboard_time": 1684628065,
+      "rank": 29,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 176778,
       "num": 176778,
       "word": "2023德班世乒赛",
@@ -34137,6 +34273,14 @@
       "onboard_time": 1682944829,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 170629,
+      "num": 146972,
+      "word": "苹果对花花有多重要",
+      "onboard_time": 1684630166,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170518,
@@ -35347,6 +35491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159910,
+      "num": 145544,
+      "word": "欧阳靖发博回应没人选",
+      "onboard_time": 1684631906,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159895,
       "num": 159895,
       "word": "皮皮限",
@@ -35576,6 +35728,14 @@
       "word": "天津津门虎vs山东泰山",
       "onboard_time": 1684590869,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 157918,
+      "num": 157918,
+      "word": "苏迪曼杯中国进决赛",
+      "onboard_time": 1684625117,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -37139,6 +37299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144877,
+      "num": 144877,
+      "word": "LPL",
+      "onboard_time": 1684628065,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 144650,
       "num": 144650,
       "word": "谢谢你爱我",
@@ -37539,6 +37707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140677,
+      "num": 140677,
+      "word": "浪漫医生金师傅",
+      "onboard_time": 1683415160,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 140582,
       "num": 140582,
       "word": "一个人应该有什么样的爱好",
@@ -37553,6 +37729,14 @@
       "onboard_time": 1683765389,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140495,
+      "num": 140495,
+      "word": "李克勤尾场嘉宾刘德华",
+      "onboard_time": 1684632026,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 140448,
@@ -39371,6 +39555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121218,
+      "num": 121218,
+      "word": "蜡像版袁爷爷的眼睛里有光",
+      "onboard_time": 1684632267,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121204,
       "num": 121204,
       "word": "高圆圆的外套穿了六七年",
@@ -39689,6 +39881,14 @@
       "onboard_time": 1683160348,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118246,
+      "num": 118246,
+      "word": "米勒解说",
+      "onboard_time": 1684610953,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 118137,
@@ -40283,14 +40483,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 106083,
-      "num": 106083,
-      "word": "她不出声我也知道她善良可爱",
-      "onboard_time": 1684623917,
-      "rank": 44,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 105810,
       "num": 105810,
       "word": "幽门螺杆菌到底要不要治",
@@ -40763,14 +40955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 95239,
-      "num": 95239,
-      "word": "浪漫医生金师傅",
-      "onboard_time": 1683415160,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 95175,
       "num": 128490,
       "word": "椒麻低脂口水鸡",
@@ -40849,6 +41033,14 @@
       "onboard_time": 1684381711,
       "rank": 24,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 93837,
+      "num": 93837,
+      "word": "张云雷杭州音乐节舞台照",
+      "onboard_time": 1684631426,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 93646,
@@ -41019,14 +41211,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 90108,
-      "num": 90108,
-      "word": "苏迪曼杯中国进决赛",
-      "onboard_time": 1684625117,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 89709,
       "num": 89709,
       "word": "原来我的小说是被闺蜜买走了",
@@ -41193,6 +41377,14 @@
       "onboard_time": 1683821665,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85034,
+      "num": 294171,
+      "word": "曼城11年7冠",
+      "onboard_time": 1684630824,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 84761,
@@ -41385,14 +41577,6 @@
       "onboard_time": 1683145032,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81195,
-      "num": 81195,
-      "word": "米勒解说",
-      "onboard_time": 1684610953,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 81061,
@@ -41953,14 +42137,6 @@
       "onboard_time": 1683525691,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 66913,
-      "num": 66913,
-      "word": "95后女老师自费为学生送520玫瑰",
-      "onboard_time": 1684625359,
-      "rank": 40,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 66769,
