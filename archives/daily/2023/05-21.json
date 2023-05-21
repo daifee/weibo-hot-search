@@ -1,6 +1,6 @@
 {
   "startTime": 1684599621121,
-  "endTime": 1684653274191,
+  "endTime": 1684654413975,
   "band_list": [
     {
       "raw_hot": 2927414,
@@ -59,12 +59,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1797026,
+      "num": 1797026,
+      "word": "好利来二公子也去演戏了",
+      "onboard_time": 1684653087,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1756102,
       "num": 1756102,
       "word": "婴儿被亲友轮番亲吻高烧近40度",
       "onboard_time": 1684634786,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1420671,
+      "num": 653700,
+      "word": "杨笠 七时吉祥",
+      "onboard_time": 1684651767,
+      "rank": 4,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 1402800,
@@ -81,14 +97,6 @@
       "onboard_time": 1684589128,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1364911,
-      "num": 529947,
-      "word": "杨笠 七时吉祥",
-      "onboard_time": 1684651767,
-      "rank": 4,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 1337917,
@@ -339,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 473374,
+      "num": 244991,
+      "word": "你不会知道 她花了多久确认你们不爱她",
+      "onboard_time": 1684652066,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 471973,
       "num": 471973,
       "word": "为妮钟秦",
@@ -379,6 +395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 433171,
+      "num": 433171,
+      "word": "林丹",
+      "onboard_time": 1684653509,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 426959,
       "num": 267830,
       "word": "店员称衣服掉地上摔个洞需赔款",
@@ -403,6 +427,14 @@
       "category": "社会议题,艺人"
     },
     {
+      "raw_hot": 406268,
+      "num": 356215,
+      "word": "刘昊然戛纳看周冬雨的眼神",
+      "onboard_time": 1684636468,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 401264,
       "num": 401264,
       "word": "雷佳音也追女团",
@@ -425,6 +457,14 @@
       "onboard_time": 1684580189,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377780,
+      "num": 377780,
+      "word": "苏杯决赛中国队vs韩国队",
+      "onboard_time": 1684651708,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 373859,
@@ -475,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 363460,
-      "num": 197290,
-      "word": "你不会知道 她花了多久确认你们不爱她",
-      "onboard_time": 1684652066,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 358715,
       "num": 318466,
       "word": "秦霄贤说喜欢的人在现场",
@@ -523,12 +555,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 338592,
-      "num": 325286,
-      "word": "刘昊然戛纳看周冬雨的眼神",
-      "onboard_time": 1684636468,
-      "rank": 44,
-      "category": "作品衍生"
+      "raw_hot": 342489,
+      "num": 342489,
+      "word": "女儿一句话让爸爸瞬间凉快",
+      "onboard_time": 1684650207,
+      "rank": 37,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 331726,
@@ -545,14 +577,6 @@
       "onboard_time": 1684639469,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 331339,
-      "num": 325275,
-      "word": "女儿一句话让爸爸瞬间凉快",
-      "onboard_time": 1684650207,
-      "rank": 37,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 330557,
@@ -627,6 +651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 284097,
+      "num": 284097,
+      "word": "郑思维黄雅琼",
+      "onboard_time": 1684653327,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 282713,
       "num": 282713,
       "word": "妈妈为传承稀有剧种收女儿为徒",
@@ -675,6 +707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 256380,
+      "num": 256380,
+      "word": "苏迪曼杯",
+      "onboard_time": 1684624038,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254364,
       "num": 163113,
       "word": "李荣浩520演唱会求婚高峰",
@@ -699,12 +739,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 250048,
-      "num": 250048,
-      "word": "苏杯决赛中国队vs韩国队",
-      "onboard_time": 1684651708,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 247361,
+      "num": 247361,
+      "word": "夫妻捡到脑瘫女婴照顾28年",
+      "onboard_time": 1684653147,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246130,
@@ -737,6 +777,14 @@
       "onboard_time": 1684601424,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 242741,
+      "num": 242741,
+      "word": "Alin帮女儿追星马嘉祺",
+      "onboard_time": 1684650507,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 235126,
@@ -779,14 +827,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 225721,
-      "num": 225721,
-      "word": "Alin帮女儿追星马嘉祺",
-      "onboard_time": 1684650507,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 224438,
       "num": 224438,
       "word": "傅菁回应穿婚纱的粉丝",
@@ -795,12 +835,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 224259,
+      "num": 208339,
+      "word": "医学伦理课就像大型吃瓜现场",
+      "onboard_time": 1684652424,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 221835,
       "num": 221835,
       "word": "小鬼新歌是写给去世狗狗的",
       "onboard_time": 1684646790,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 220350,
+      "num": 220350,
+      "word": "混双",
+      "onboard_time": 1684652851,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 220120,
@@ -851,28 +907,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 200464,
-      "num": 163099,
-      "word": "今年的小满恰逢521",
-      "onboard_time": 1684626019,
-      "rank": 26,
-      "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 197438,
-      "num": 197438,
+      "raw_hot": 201908,
+      "num": 201908,
       "word": "我在惊悚游戏里封神",
       "onboard_time": 1684652424,
       "rank": 29,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 196872,
-      "num": 196871,
-      "word": "混双",
-      "onboard_time": 1684652851,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 200464,
+      "num": 163099,
+      "word": "今年的小满恰逢521",
+      "onboard_time": 1684626019,
+      "rank": 26,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 196772,
@@ -937,6 +985,14 @@
       "onboard_time": 1684587089,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 190106,
+      "num": 190106,
+      "word": "B站为什么1年91亿不够养UP主",
+      "onboard_time": 1684654108,
+      "rank": 36,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 188983,
@@ -1019,28 +1075,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 177681,
-      "num": 177681,
-      "word": "医学伦理课就像大型吃瓜现场",
-      "onboard_time": 1684652424,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 176792,
       "num": 149103,
       "word": "坐着有大床房的双层列车去大理",
       "onboard_time": 1684628065,
       "rank": 29,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 175785,
-      "num": 175785,
-      "word": "好利来二公子也去演戏了",
-      "onboard_time": 1684653087,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 173753,
@@ -1227,14 +1267,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 142860,
-      "num": 142860,
-      "word": "夫妻捡到脑瘫女婴照顾28年",
-      "onboard_time": 1684653147,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142120,
       "num": 142120,
       "word": "BLACKPINK澳门演唱会",
@@ -1259,14 +1291,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 138860,
-      "num": 138860,
-      "word": "苏迪曼杯",
-      "onboard_time": 1684624038,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 138636,
       "num": 138636,
       "word": "湖南43岁民警被嫌疑人刺伤不幸牺牲",
@@ -1281,6 +1305,14 @@
       "onboard_time": 1684576346,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134288,
+      "num": 134288,
+      "word": "五月天演唱会",
+      "onboard_time": 1684654169,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 133902,
