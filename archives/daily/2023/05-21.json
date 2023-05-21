@@ -1,6 +1,6 @@
 {
   "startTime": 1684599621121,
-  "endTime": 1684650816163,
+  "endTime": 1684653274191,
   "band_list": [
     {
       "raw_hot": 2927414,
@@ -81,6 +81,14 @@
       "onboard_time": 1684589128,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1364911,
+      "num": 529947,
+      "word": "杨笠 七时吉祥",
+      "onboard_time": 1684651767,
+      "rank": 4,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 1337917,
@@ -283,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 543908,
+      "num": 487847,
+      "word": "何赛飞怒批戏曲行业现状",
+      "onboard_time": 1684645951,
+      "rank": 26,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 537192,
       "num": 537192,
       "word": "掘金3比0湖人",
@@ -308,7 +324,7 @@
     },
     {
       "raw_hot": 495565,
-      "num": 232857,
+      "num": 247594,
       "word": "谢娜戴的耳返是张杰的",
       "onboard_time": 1684647929,
       "rank": 21,
@@ -321,14 +337,6 @@
       "onboard_time": 1684637308,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 487847,
-      "num": 487847,
-      "word": "何赛飞怒批戏曲行业现状",
-      "onboard_time": 1684645951,
-      "rank": 26,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 471973,
@@ -443,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 368353,
+      "num": 368353,
+      "word": "雅思加油",
+      "onboard_time": 1684652547,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 367183,
       "num": 367183,
       "word": "詹姆斯把裁判撞出血",
@@ -457,6 +473,14 @@
       "onboard_time": 1684635326,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363460,
+      "num": 197290,
+      "word": "你不会知道 她花了多久确认你们不爱她",
+      "onboard_time": 1684652066,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 358715,
@@ -484,7 +508,7 @@
     },
     {
       "raw_hot": 355690,
-      "num": 231809,
+      "num": 245211,
       "word": "12块钱被叫了7声宝贝",
       "onboard_time": 1684646848,
       "rank": 22,
@@ -496,6 +520,14 @@
       "word": "赵丽颖一字锁骨",
       "onboard_time": 1684640066,
       "rank": 21,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 338592,
+      "num": 325286,
+      "word": "刘昊然戛纳看周冬雨的眼神",
+      "onboard_time": 1684636468,
+      "rank": 44,
       "category": "作品衍生"
     },
     {
@@ -515,20 +547,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 331339,
+      "num": 325275,
+      "word": "女儿一句话让爸爸瞬间凉快",
+      "onboard_time": 1684650207,
+      "rank": 37,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 330557,
+      "num": 246732,
+      "word": "七时吉祥",
+      "onboard_time": 1684652366,
+      "rank": 22,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 328641,
-      "num": 230667,
+      "num": 245479,
       "word": "青云志主演出场时长",
       "onboard_time": 1684647387,
       "rank": 23,
       "category": "影视"
     },
     {
-      "raw_hot": 323208,
-      "num": 323208,
-      "word": "刘昊然戛纳看周冬雨的眼神",
-      "onboard_time": 1684636468,
-      "rank": 44,
-      "category": "作品衍生"
+      "raw_hot": 325233,
+      "num": 325233,
+      "word": "苏迪曼杯决赛",
+      "onboard_time": 1684651888,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 319638,
@@ -555,8 +603,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 314159,
-      "num": 300101,
+      "raw_hot": 317351,
+      "num": 317351,
       "word": "临时抱佛脚",
       "onboard_time": 1684649127,
       "rank": 25,
@@ -651,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250048,
+      "num": 250048,
+      "word": "苏杯决赛中国队vs韩国队",
+      "onboard_time": 1684651708,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246130,
       "num": 238739,
       "word": "千万别告诉杨迪沈月在自拍",
@@ -723,6 +779,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 225721,
+      "num": 225721,
+      "word": "Alin帮女儿追星马嘉祺",
+      "onboard_time": 1684650507,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 224438,
       "num": 224438,
       "word": "傅菁回应穿婚纱的粉丝",
@@ -755,6 +819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 212767,
+      "num": 197053,
+      "word": "欧美女星为什么集体回春",
+      "onboard_time": 1684651169,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 212096,
       "num": 195696,
       "word": "欧阳靖发博回应没人选",
@@ -785,6 +857,22 @@
       "onboard_time": 1684626019,
       "rank": 26,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 197438,
+      "num": 197438,
+      "word": "我在惊悚游戏里封神",
+      "onboard_time": 1684652424,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 196872,
+      "num": 196871,
+      "word": "混双",
+      "onboard_time": 1684652851,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 196772,
@@ -931,12 +1019,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 177681,
+      "num": 177681,
+      "word": "医学伦理课就像大型吃瓜现场",
+      "onboard_time": 1684652424,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 176792,
       "num": 149103,
       "word": "坐着有大床房的双层列车去大理",
       "onboard_time": 1684628065,
       "rank": 29,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 175785,
+      "num": 175785,
+      "word": "好利来二公子也去演戏了",
+      "onboard_time": 1684653087,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 173753,
@@ -979,12 +1083,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 164185,
+      "num": 164185,
+      "word": "Natalie 花瓣裙",
+      "onboard_time": 1684650927,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 163096,
       "num": 163096,
       "word": "蜡像版袁爷爷的眼睛里有光",
       "onboard_time": 1684632267,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162518,
+      "num": 145806,
+      "word": "莱昂纳多亮相戛纳",
+      "onboard_time": 1684646312,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 161626,
@@ -1075,6 +1195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 146968,
+      "num": 146968,
+      "word": "淄博大爷边遛狗边捡路边烟头",
+      "onboard_time": 1684650689,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144877,
       "num": 144877,
       "word": "LPL",
@@ -1083,12 +1211,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 144298,
-      "num": 144298,
-      "word": "女儿一句话让爸爸瞬间凉快",
-      "onboard_time": 1684650207,
-      "rank": 37,
-      "category": "社会新闻,幽默"
+      "raw_hot": 143789,
+      "num": 143789,
+      "word": "男子8岁学艺30年沉浮终成角儿",
+      "onboard_time": 1684653147,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143245,
@@ -1097,6 +1225,14 @@
       "onboard_time": 1684647090,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 142860,
+      "num": 142860,
+      "word": "夫妻捡到脑瘫女婴照顾28年",
+      "onboard_time": 1684653147,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142120,
@@ -1139,14 +1275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136780,
-      "num": 136780,
-      "word": "莱昂纳多亮相戛纳",
-      "onboard_time": 1684646312,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 135807,
       "num": 135807,
       "word": "异地恋接吻神器被曝擦边",
@@ -1160,14 +1288,6 @@
       "word": "周冬雨戛纳雨中排队看电影",
       "onboard_time": 1684592192,
       "rank": 46,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 132914,
-      "num": 132914,
-      "word": "Alin帮女儿追星马嘉祺",
-      "onboard_time": 1684650507,
-      "rank": 40,
       "category": "作品衍生"
     },
     {
@@ -1264,14 +1384,6 @@
       "word": "公交司机开私家车送回睡过站女孩",
       "onboard_time": 1684641267,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112931,
-      "num": 112931,
-      "word": "淄博大爷边遛狗边捡路边烟头",
-      "onboard_time": 1684650689,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
