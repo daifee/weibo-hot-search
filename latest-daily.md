@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/05/22 00:21:02 ~ 2023/05/22 04:33:37
+本榜单时间：2023/05/22 00:21:02 ~ 2023/05/22 05:14:07
 </p>
 </blockquote>
 <p>
@@ -395,6 +395,12 @@ MTG对战HI（热度：26326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%83%B3%E8%AF%AD%E9%9F%B3%E8%BE%93%E5%85%A5%E7%BB%93%E6%9E%9C%E5%8F%91%E4%BA%86%E8%AF%AD%E9%9F%B3%23" target="weibo">
 谢娜想语音输入结果发了语音（热度：19802）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%AE%A3%E7%A7%B0%E7%BE%8E%E4%B8%AD%E5%85%B3%E7%B3%BB%E4%BC%9A%E5%9C%A8%E7%9F%AD%E6%97%B6%E9%97%B4%E5%86%85%E7%BC%93%E5%92%8C%23" target="weibo">
+拜登宣称美中关系会在短时间内缓和（热度：12821）
 </a>
 </li>
 
