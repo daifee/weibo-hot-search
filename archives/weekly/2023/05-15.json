@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684682139421,
+  "endTime": 1684683212442,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -2467,6 +2467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 838460,
+      "num": 838460,
+      "word": "全红婵水花 物理学不存在了",
+      "onboard_time": 1684682013,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 833547,
       "num": 833547,
       "word": "米勒 中国人有自己的相公",
@@ -2795,6 +2803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 731554,
+      "num": 731554,
+      "word": "牙膏 菜",
+      "onboard_time": 1684680335,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 731205,
       "num": 731205,
       "word": "听见过三观最不正的话",
@@ -2825,14 +2841,6 @@
       "onboard_time": 1684376427,
       "rank": 34,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 724043,
-      "num": 724043,
-      "word": "牙膏 菜",
-      "onboard_time": 1684680335,
-      "rank": 8,
-      "category": "游戏"
     },
     {
       "raw_hot": 723619,
@@ -3747,6 +3755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 541062,
+      "num": 541062,
+      "word": "水果摊无人看守30箱香蕉被抢光",
+      "onboard_time": 1684679673,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 541047,
       "num": 541047,
       "word": "湖人vs掘金",
@@ -4248,14 +4264,6 @@
       "word": "北京警方通报学校内伤人案",
       "onboard_time": 1684310070,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 485313,
-      "num": 485313,
-      "word": "水果摊无人看守30箱香蕉被抢光",
-      "onboard_time": 1684679673,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -4977,6 +4985,14 @@
       "onboard_time": 1684235251,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 434961,
+      "num": 434961,
+      "word": "切尔西",
+      "onboard_time": 1684681953,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 434314,
@@ -6115,6 +6131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 365258,
+      "num": 365258,
+      "word": "世上再无公子襄",
+      "onboard_time": 1684679493,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 364907,
       "num": 364907,
       "word": "易烊千玺新专辑售价198元",
@@ -6257,14 +6281,6 @@
       "onboard_time": 1684135169,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 356360,
-      "num": 356360,
-      "word": "世上再无公子襄",
-      "onboard_time": 1684679493,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 356034,
@@ -6427,6 +6443,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 349082,
+      "num": 349082,
+      "word": "白桃星座",
+      "onboard_time": 1684075590,
+      "rank": 13,
+      "category": "情感,网红"
+    },
+    {
+      "raw_hot": 349071,
+      "num": 349071,
+      "word": "XYG获得KPL夏季赛席位",
+      "onboard_time": 1684681894,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 348425,
       "num": 348425,
       "word": "周也直播读错字",
@@ -6507,14 +6539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 342789,
-      "num": 342789,
-      "word": "白桃星座",
-      "onboard_time": 1684075590,
-      "rank": 13,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 342489,
       "num": 342489,
       "word": "女儿一句话让爸爸瞬间凉快",
@@ -6592,6 +6616,14 @@
       "word": "王者荣耀女装",
       "onboard_time": 1684125695,
       "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 337217,
+      "num": 337217,
+      "word": "KPL",
+      "onboard_time": 1684492949,
+      "rank": 46,
       "category": "游戏"
     },
     {
@@ -7579,6 +7611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 287092,
+      "num": 287092,
+      "word": "Ruler大满贯",
+      "onboard_time": 1684681052,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 286625,
       "num": 286625,
       "word": "20230520心形纪念币",
@@ -7835,6 +7875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 278985,
+      "num": 278985,
+      "word": "跑男是知道怎么留住观众的",
+      "onboard_time": 1684681172,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278697,
       "num": 278697,
       "word": "毛晓彤把物料提前发了",
@@ -7971,14 +8019,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 272192,
-      "num": 272192,
-      "word": "Ruler大满贯",
-      "onboard_time": 1684681052,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 271628,
       "num": 271628,
       "word": "速度与激情11",
@@ -8105,6 +8145,14 @@
       "onboard_time": 1684596687,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 266586,
+      "num": 266586,
+      "word": "许嵩 天津",
+      "onboard_time": 1684682071,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 266497,
@@ -8585,6 +8633,14 @@
       "onboard_time": 1684469372,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 252533,
+      "num": 252533,
+      "word": "还没毕业就把室友全部删除了",
+      "onboard_time": 1684681531,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 252027,
@@ -9835,14 +9891,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 219779,
-      "num": 219779,
-      "word": "跑男是知道怎么留住观众的",
-      "onboard_time": 1684681172,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 219688,
       "num": 219688,
       "word": "Knight说到做到",
@@ -10387,6 +10435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207195,
+      "num": 200067,
+      "word": "2023李宇春周末愉快演唱会",
+      "onboard_time": 1684682672,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 207152,
       "num": 207152,
       "word": "AI不能替你坐牢",
@@ -10563,14 +10619,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 202055,
-      "num": 202055,
-      "word": "XYG获得KPL夏季赛席位",
-      "onboard_time": 1684681894,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 201921,
       "num": 201921,
       "word": "大爷纯手工修两双鞋仅收4元",
@@ -10641,6 +10689,14 @@
       "onboard_time": 1684412309,
       "rank": 16,
       "category": "科技"
+    },
+    {
+      "raw_hot": 201072,
+      "num": 201072,
+      "word": "刘宇宁冒雨打卡粉丝应援",
+      "onboard_time": 1684682132,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 200975,
@@ -11379,14 +11435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 186620,
-      "num": 186620,
-      "word": "切尔西",
-      "onboard_time": 1684681953,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 186265,
       "num": 183057,
       "word": "罗云熙苑琼丹极乐净土手势舞",
@@ -11883,14 +11931,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 178047,
-      "num": 178047,
-      "word": "全红婵水花 物理学不存在了",
-      "onboard_time": 1684682013,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 177992,
       "num": 177992,
       "word": "大唐芙蓉园",
@@ -12363,6 +12403,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 168283,
+      "num": 168283,
+      "word": "Rose看到自己表情包的反应",
+      "onboard_time": 1684682371,
+      "rank": 44,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 167846,
       "num": 167846,
       "word": "24岁一个朋友都没有正常吗",
@@ -12441,6 +12489,14 @@
       "onboard_time": 1684681231,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165920,
+      "num": 165920,
+      "word": "CSGO",
+      "onboard_time": 1684683028,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 165911,
@@ -12689,6 +12745,14 @@
       "onboard_time": 1684594175,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 160543,
+      "num": 160543,
+      "word": "九寨沟对浙江7地市免票原因太暖了",
+      "onboard_time": 1684682672,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160525,
@@ -12971,14 +13035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154981,
-      "num": 154981,
-      "word": "许嵩 天津",
-      "onboard_time": 1684682071,
-      "rank": 46,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 154474,
       "num": 154474,
       "word": "西安WE挂牌名单",
@@ -13025,14 +13081,6 @@
       "onboard_time": 1684502791,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153756,
-      "num": 153756,
-      "word": "还没毕业就把室友全部删除了",
-      "onboard_time": 1684681531,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 153638,
@@ -15105,14 +15153,6 @@
       "onboard_time": 1684169121,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 94754,
-      "num": 133843,
-      "word": "KPL",
-      "onboard_time": 1684492949,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 94677,

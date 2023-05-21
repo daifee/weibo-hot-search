@@ -1,6 +1,6 @@
 {
   "startTime": 1684599621121,
-  "endTime": 1684682139421,
+  "endTime": 1684683212442,
   "band_list": [
     {
       "raw_hot": 2927414,
@@ -379,6 +379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 838460,
+      "num": 838460,
+      "word": "全红婵水花 物理学不存在了",
+      "onboard_time": 1684682013,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 809580,
       "num": 756053,
       "word": "好多艺人去看了BLACKPINK演唱会",
@@ -411,8 +419,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 724043,
-      "num": 724043,
+      "raw_hot": 731554,
+      "num": 731554,
       "word": "牙膏 菜",
       "onboard_time": 1684680335,
       "rank": 8,
@@ -587,6 +595,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 541062,
+      "num": 541062,
+      "word": "水果摊无人看守30箱香蕉被抢光",
+      "onboard_time": 1684679673,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 537192,
       "num": 537192,
       "word": "掘金3比0湖人",
@@ -699,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 485313,
-      "num": 485313,
-      "word": "水果摊无人看守30箱香蕉被抢光",
-      "onboard_time": 1684679673,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 483603,
       "num": 327052,
       "word": "你不会知道 她花了多久确认你们不爱她",
@@ -785,6 +793,14 @@
       "onboard_time": 1684597528,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 434961,
+      "num": 434961,
+      "word": "切尔西",
+      "onboard_time": 1684681953,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 426959,
@@ -939,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 365258,
+      "num": 365258,
+      "word": "世上再无公子襄",
+      "onboard_time": 1684679493,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 364590,
       "num": 364590,
       "word": "千里背母上大学的贵州孝子14年后现状",
@@ -969,14 +993,6 @@
       "onboard_time": 1684588168,
       "rank": 16,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 356360,
-      "num": 356360,
-      "word": "世上再无公子襄",
-      "onboard_time": 1684679493,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 356034,
@@ -1019,12 +1035,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 342789,
-      "num": 342789,
+      "raw_hot": 349082,
+      "num": 349082,
       "word": "白桃星座",
       "onboard_time": 1684680213,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 349071,
+      "num": 349071,
+      "word": "XYG获得KPL夏季赛席位",
+      "onboard_time": 1684681894,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 342489,
@@ -1049,6 +1073,14 @@
       "onboard_time": 1684655788,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 337217,
+      "num": 337217,
+      "word": "KPL",
+      "onboard_time": 1684682553,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 335835,
@@ -1187,6 +1219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 287092,
+      "num": 287092,
+      "word": "Ruler大满贯",
+      "onboard_time": 1684681052,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 284097,
       "num": 284097,
       "word": "郑思维黄雅琼",
@@ -1201,6 +1241,14 @@
       "onboard_time": 1684633292,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278985,
+      "num": 278985,
+      "word": "跑男是知道怎么留住观众的",
+      "onboard_time": 1684681172,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 277875,
@@ -1227,14 +1275,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 272192,
-      "num": 272192,
-      "word": "Ruler大满贯",
-      "onboard_time": 1684681052,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 268253,
       "num": 268253,
       "word": "李莎旻子的发言水平",
@@ -1249,6 +1289,14 @@
       "onboard_time": 1684590090,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 266586,
+      "num": 266586,
+      "word": "许嵩 天津",
+      "onboard_time": 1684682071,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 265559,
@@ -1329,6 +1377,14 @@
       "onboard_time": 1684638749,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 252533,
+      "num": 252533,
+      "word": "还没毕业就把室友全部删除了",
+      "onboard_time": 1684681531,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 251252,
@@ -1579,14 +1635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219779,
-      "num": 219779,
-      "word": "跑男是知道怎么留住观众的",
-      "onboard_time": 1684681172,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 219117,
       "num": 219117,
       "word": "JDG战胜BLG",
@@ -1659,6 +1707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 207195,
+      "num": 200067,
+      "word": "2023李宇春周末愉快演唱会",
+      "onboard_time": 1684682672,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205628,
       "num": 205628,
       "word": "95后女老师自费为学生送520玫瑰",
@@ -1683,20 +1739,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202055,
-      "num": 202055,
-      "word": "XYG获得KPL夏季赛席位",
-      "onboard_time": 1684681894,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 201456,
       "num": 240477,
       "word": "青蛇在大学餐厅里闲逛",
       "onboard_time": 1684668090,
       "rank": 34,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 201072,
+      "num": 201072,
+      "word": "刘宇宁冒雨打卡粉丝应援",
+      "onboard_time": 1684682132,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 200975,
@@ -1713,6 +1769,14 @@
       "onboard_time": 1684626019,
       "rank": 26,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 197683,
+      "num": 197683,
+      "word": "鬼灭之刃",
+      "onboard_time": 1684682909,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 196772,
@@ -1867,14 +1931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186620,
-      "num": 186620,
-      "word": "切尔西",
-      "onboard_time": 1684681953,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 186208,
       "num": 186208,
       "word": "袁爷爷我们会记得好好吃饭",
@@ -1955,14 +2011,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 178047,
-      "num": 178047,
-      "word": "全红婵水花 物理学不存在了",
-      "onboard_time": 1684682013,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 177899,
       "num": 177899,
       "word": "杨颖又去看BLACKPINK演唱会",
@@ -2019,6 +2067,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 168283,
+      "num": 168283,
+      "word": "Rose看到自己表情包的反应",
+      "onboard_time": 1684682371,
+      "rank": 44,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 167222,
       "num": 167222,
       "word": "你认为戏曲凋敝的原因是什么",
@@ -2033,6 +2089,14 @@
       "onboard_time": 1684681231,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165920,
+      "num": 165920,
+      "word": "CSGO",
+      "onboard_time": 1684683028,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 164185,
@@ -2073,6 +2137,14 @@
       "onboard_time": 1684587748,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 160543,
+      "num": 160543,
+      "word": "九寨沟对浙江7地市免票原因太暖了",
+      "onboard_time": 1684682672,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160525,
@@ -2121,22 +2193,6 @@
       "onboard_time": 1684659749,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 154981,
-      "num": 154981,
-      "word": "许嵩 天津",
-      "onboard_time": 1684682071,
-      "rank": 46,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 153756,
-      "num": 153756,
-      "word": "还没毕业就把室友全部删除了",
-      "onboard_time": 1684681531,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 152086,
