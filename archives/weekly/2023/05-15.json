@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684640010583,
+  "endTime": 1684642795330,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -1323,6 +1323,22 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1289066,
+      "num": 991776,
+      "word": "Lisa比中指后的反应",
+      "onboard_time": 1684641208,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1286198,
+      "num": 988143,
+      "word": "孕妇遭陌生男子猥亵后被打致耳聋",
+      "onboard_time": 1684640006,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1283776,
       "num": 1283776,
       "word": "gidle 抄袭",
@@ -1915,6 +1931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 987104,
+      "num": 987104,
+      "word": "Angelababy怎么美成这样啊",
+      "onboard_time": 1684595730,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 984823,
       "num": 549167,
       "word": "赵露思的腿好白",
@@ -2217,14 +2241,6 @@
       "onboard_time": 1684507775,
       "rank": 12,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 832365,
-      "num": 319113,
-      "word": "Angelababy怎么美成这样啊",
-      "onboard_time": 1684595730,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 830229,
@@ -3283,6 +3299,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 564453,
+      "num": 564453,
+      "word": "我国南海发现两处古代沉船",
+      "onboard_time": 1684639649,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 563586,
       "num": 374250,
       "word": "宁安如梦宁有福了直播派对",
@@ -3921,6 +3945,14 @@
       "onboard_time": 1684496371,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478605,
+      "num": 478605,
+      "word": "事业单位",
+      "onboard_time": 1684641867,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 477119,
@@ -5428,7 +5460,7 @@
     },
     {
       "raw_hot": 370935,
-      "num": 293434,
+      "num": 296895,
       "word": "赵丽颖工作室审美",
       "onboard_time": 1684627163,
       "rank": 21,
@@ -5793,6 +5825,14 @@
       "onboard_time": 1684469010,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 349618,
+      "num": 292613,
+      "word": "赵丽颖一字锁骨",
+      "onboard_time": 1684640066,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 348425,
@@ -7027,6 +7067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 280646,
+      "num": 280646,
+      "word": "梁源喊话于文文粉丝",
+      "onboard_time": 1684639469,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 280224,
       "num": 272702,
       "word": "易烊千玺与汉斯季默合影",
@@ -8257,6 +8305,14 @@
       "onboard_time": 1684492829,
       "rank": 32,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 235481,
+      "num": 235481,
+      "word": "虐猫组织的魔爪伸向宠物店",
+      "onboard_time": 1684640966,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235156,
@@ -9635,14 +9691,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 198069,
-      "num": 198069,
-      "word": "我国南海发现两处古代沉船",
-      "onboard_time": 1684639649,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198039,
       "num": 198039,
       "word": "莫言说余华根本不是我的对手",
@@ -9688,6 +9736,14 @@
       "word": "护心521芭莎全员合体",
       "onboard_time": 1684639349,
       "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 196559,
+      "num": 196559,
+      "word": "护心芭莎宿命感大片",
+      "onboard_time": 1684641629,
+      "rank": 29,
       "category": "作品衍生,时尚"
     },
     {
@@ -11003,6 +11059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 171479,
+      "num": 171479,
+      "word": "为出席女儿成人礼盲人妈妈花500元改造",
+      "onboard_time": 1684639888,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171450,
       "num": 146550,
       "word": "男友说想吃了我养的狗",
@@ -11363,6 +11427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161626,
+      "num": 161626,
+      "word": "张军波",
+      "onboard_time": 1684642350,
+      "rank": 35,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 161589,
       "num": 161589,
       "word": "王源重庆演唱会门票秒没",
@@ -11441,6 +11513,14 @@
       "onboard_time": 1684230509,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 158944,
+      "num": 158944,
+      "word": "酒席上爷爷给奶奶不停夹菜剥虾",
+      "onboard_time": 1684640066,
+      "rank": 37,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 158877,
@@ -11537,6 +11617,14 @@
       "onboard_time": 1684585766,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157683,
+      "num": 157683,
+      "word": "你怎么看何赛飞为基层戏剧演员发声",
+      "onboard_time": 1684642468,
+      "rank": 38,
+      "category": "社会议题,艺人"
     },
     {
       "raw_hot": 157670,
@@ -11691,14 +11779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153944,
-      "num": 153944,
-      "word": "梁源喊话于文文粉丝",
-      "onboard_time": 1684639469,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 153942,
       "num": 140541,
       "word": "伯远给种地吧买了半头猪",
@@ -11817,14 +11897,6 @@
       "onboard_time": 1684254087,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151271,
-      "num": 151271,
-      "word": "为出席女儿成人礼盲人妈妈花500元改造",
-      "onboard_time": 1684639888,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151128,
@@ -13065,6 +13137,14 @@
       "onboard_time": 1684216171,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 118990,
+      "num": 118990,
+      "word": "公交司机开私家车送回睡过站女孩",
+      "onboard_time": 1684641267,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118880,
