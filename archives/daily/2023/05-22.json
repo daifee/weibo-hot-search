@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684708406229,
+  "endTime": 1684710997634,
   "band_list": [
     {
       "raw_hot": 1364630,
@@ -25,6 +25,14 @@
       "onboard_time": 1684671152,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 827692,
+      "num": 827692,
+      "word": "水果摊无人看守30箱香蕉被抢光",
+      "onboard_time": 1684679673,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 767564,
@@ -64,14 +72,6 @@
       "word": "水电工人被射钉枪击中头部身亡",
       "onboard_time": 1684676252,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 398462,
-      "num": 398462,
-      "word": "水果摊无人看守30箱香蕉被抢光",
-      "onboard_time": 1684679673,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -147,6 +147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 279062,
+      "num": 279062,
+      "word": "拜登宣称美中关系会在短时间内缓和",
+      "onboard_time": 1684703350,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 259633,
       "num": 259633,
       "word": "许嵩 天津",
@@ -187,14 +195,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 238023,
-      "num": 103761,
-      "word": "拜登宣称美中关系会在短时间内缓和",
-      "onboard_time": 1684703350,
-      "rank": 49,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 234313,
       "num": 234313,
       "word": "跑男是知道怎么留住观众的",
@@ -219,6 +219,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218770,
+      "num": 218770,
+      "word": "妻子去世10年男子仍帮老丈人插秧",
+      "onboard_time": 1684678595,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214702,
+      "num": 128090,
+      "word": "越早进体制内越好吗",
+      "onboard_time": 1684710018,
+      "rank": 20,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 213730,
       "num": 213730,
       "word": "Rose看到自己表情包的反应",
@@ -235,12 +251,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 198203,
-      "num": 198203,
-      "word": "妻子去世10年男子仍帮老丈人插秧",
-      "onboard_time": 1684678595,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 199848,
+      "num": 199848,
+      "word": "三十岁是花园里刚刚盛开的花朵",
+      "onboard_time": 1684680514,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 197328,
@@ -265,14 +281,6 @@
       "onboard_time": 1684684649,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188789,
-      "num": 188789,
-      "word": "三十岁是花园里刚刚盛开的花朵",
-      "onboard_time": 1684680514,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 181225,
@@ -307,6 +315,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162979,
+      "num": 162979,
+      "word": "女孩带农药到丛林退役军人果断报警",
+      "onboard_time": 1684689018,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162308,
+      "num": 87156,
+      "word": "四川宜宾地震",
+      "onboard_time": 1684710319,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160119,
       "num": 160119,
       "word": "切尔西",
@@ -323,8 +347,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148387,
-      "num": 107281,
+      "raw_hot": 155661,
+      "num": 87042,
+      "word": "四川珙县4.5级地震",
+      "onboard_time": 1684710679,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150680,
+      "num": 150680,
       "word": "外交部副部长召见日本驻华大使",
       "onboard_time": 1684688300,
       "rank": 30,
@@ -355,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128729,
+      "num": 128729,
+      "word": "吴京出走半生归来仍是这张图",
+      "onboard_time": 1684672892,
+      "rank": 47,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 126187,
       "num": 126187,
       "word": "XYG获得KPL夏季赛席位",
@@ -369,6 +409,14 @@
       "onboard_time": 1684664189,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120816,
+      "num": 87001,
+      "word": "当你叫了个外卖被同事问",
+      "onboard_time": 1684710080,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 117199,
@@ -435,14 +483,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 94497,
-      "num": 94497,
-      "word": "吴京出走半生归来仍是这张图",
-      "onboard_time": 1684672892,
-      "rank": 47,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 87945,
       "num": 87945,
       "word": "陈雨菲说不要看轻我的信念决心",
@@ -451,12 +491,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82428,
-      "num": 82428,
-      "word": "女孩带农药到丛林退役军人果断报警",
-      "onboard_time": 1684689018,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 87621,
+      "num": 87621,
+      "word": "周扬青一天换3种发型拍100张照片",
+      "onboard_time": 1684689259,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 79939,
+      "num": 79939,
+      "word": "不适应社会的人一天只能行动一次",
+      "onboard_time": 1684710080,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 74350,
+      "num": 74350,
+      "word": "张雨绮重现2013戛纳经典造型",
+      "onboard_time": 1684670789,
+      "rank": 39,
+      "category": "影视,时尚"
     },
     {
       "raw_hot": 64426,
@@ -467,19 +523,27 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 61382,
-      "num": 55797,
-      "word": "周扬青一天换3种发型拍100张照片",
-      "onboard_time": 1684689259,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 57230,
       "num": 57230,
       "word": "8岁社牛男孩生日宴秒变脱口秀",
       "onboard_time": 1684685426,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54319,
+      "num": 54319,
+      "word": "霸占鸭宝宝的猫",
+      "onboard_time": 1684710080,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 52191,
+      "num": 52191,
+      "word": "重生流网文作家让4人重获新生",
+      "onboard_time": 1684710620,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
