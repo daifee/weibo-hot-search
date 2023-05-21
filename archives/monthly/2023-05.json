@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684697617128,
+  "endTime": 1684700204041,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -45424,6 +45424,14 @@
       "word": "中国好声音将新增直播赛道",
       "onboard_time": 1683288027,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 19802,
+      "num": 19802,
+      "word": "谢娜想语音输入结果发了语音",
+      "onboard_time": 1684698072,
+      "rank": 34,
       "category": "综艺"
     },
     {

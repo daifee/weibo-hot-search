@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684697617128,
+  "endTime": 1684700204041,
   "band_list": [
     {
       "raw_hot": 1364630,
@@ -505,6 +505,14 @@
       "onboard_time": 1684671029,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 19802,
+      "num": 19802,
+      "word": "谢娜想语音输入结果发了语音",
+      "onboard_time": 1684698072,
+      "rank": 34,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [

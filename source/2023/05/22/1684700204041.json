@@ -1,0 +1,410 @@
+{
+  "runTime": 1684700204041,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 84189,
+        "num": 84189,
+        "word": "全红婵水花 物理学不存在了",
+        "onboard_time": 1684682013,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76915,
+        "num": 76915,
+        "word": "水果摊无人看守30箱香蕉被抢光",
+        "onboard_time": 1684679673,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6425,
+        "num": 76729,
+        "word": "用立体书打开国际茶日",
+        "onboard_time": 1684671991,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147167,
+        "num": 76727,
+        "word": "王诗龄520收到巨型玫瑰熊",
+        "onboard_time": 1684677868,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76677,
+        "num": 76677,
+        "word": "周冬雨刘昊然在燃冬里有床戏",
+        "onboard_time": 1684678711,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 54250,
+        "num": 54250,
+        "word": "陈晓连麦到赵丽颖头像的人",
+        "onboard_time": 1684671152,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43688,
+        "num": 43688,
+        "word": "水电工人被射钉枪击中头部身亡",
+        "onboard_time": 1684676252,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40508,
+        "num": 40508,
+        "word": "何赛飞回应痛斥梅花奖",
+        "onboard_time": 1684674149,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 40447,
+        "num": 40447,
+        "word": "奥莉 BLACKPINK演唱会",
+        "onboard_time": 1684670012,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37924,
+        "num": 37924,
+        "word": "三十岁是花园里刚刚盛开的花朵",
+        "onboard_time": 1684680514,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37403,
+        "num": 37403,
+        "word": "女孩带农药到丛林退役军人果断报警",
+        "onboard_time": 1684689018,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34570,
+        "num": 34570,
+        "word": "女子因掉毛严重将宠物猫遗弃绿化带",
+        "onboard_time": 1684673430,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33145,
+        "num": 33145,
+        "word": "网上很火但你却不懂的梗",
+        "onboard_time": 1684668809,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32620,
+        "num": 32620,
+        "word": "JDG夺冠",
+        "onboard_time": 1684678472,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 29634,
+        "num": 29634,
+        "word": "许嵩 天津",
+        "onboard_time": 1684682071,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 28474,
+        "num": 28474,
+        "word": "妻子去世10年男子仍帮老丈人插秧",
+        "onboard_time": 1684678595,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23827,
+        "num": 23827,
+        "word": "华表奖官宣了280个艺人",
+        "onboard_time": 1684678111,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22933,
+        "num": 22933,
+        "word": "宁安如梦",
+        "onboard_time": 1684672591,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21769,
+        "num": 21769,
+        "word": "鬼灭之刃",
+        "onboard_time": 1684682909,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 21217,
+        "num": 21217,
+        "word": "CSGO",
+        "onboard_time": 1684683028,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 55341,
+        "num": 21189,
+        "word": "黄晓明说自己能生下黄明昊",
+        "onboard_time": 1684683211,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42311,
+        "num": 21140,
+        "word": "牙膏 菜",
+        "onboard_time": 1684680335,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 36508,
+        "num": 21046,
+        "word": "还没毕业就把室友全部删除了",
+        "onboard_time": 1684681531,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22722,
+        "num": 20977,
+        "word": "跑男是知道怎么留住观众的",
+        "onboard_time": 1684681172,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20937,
+        "num": 20937,
+        "word": "刘昊然超话签到率",
+        "onboard_time": 1684685127,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20645,
+        "num": 20645,
+        "word": "Bin哥厉害",
+        "onboard_time": 1684680154,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20580,
+        "num": 20580,
+        "word": "瘦子选了谁",
+        "onboard_time": 1684684649,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20263,
+        "num": 20263,
+        "word": "BLACKPINK演唱会",
+        "onboard_time": 1684672470,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20189,
+        "num": 20189,
+        "word": "孙头头下跪",
+        "onboard_time": 1684687941,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20166,
+        "num": 20166,
+        "word": "王冰冰 中传",
+        "onboard_time": 1684667368,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31898,
+        "num": 20126,
+        "word": "外交部副部长召见日本驻华大使",
+        "onboard_time": 1684688300,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 20035,
+        "num": 20035,
+        "word": "贝克汉姆Angelababy拍广告",
+        "onboard_time": 1684671331,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19887,
+        "num": 19887,
+        "word": "没想到高叶倪妮关系这么好",
+        "onboard_time": 1684685786,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19846,
+        "num": 19846,
+        "word": "XYG获得KPL夏季赛席位",
+        "onboard_time": 1684681894,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19802,
+        "num": 19802,
+        "word": "谢娜想语音输入结果发了语音",
+        "onboard_time": 1684698072,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19693,
+        "num": 19693,
+        "word": "最食人间烟火色取关了卢洋洋",
+        "onboard_time": 1684671390,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19218,
+        "num": 19692,
+        "word": "MTG对战HI",
+        "onboard_time": 1684690516,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18694,
+        "num": 19668,
+        "word": "周扬青一天换3种发型拍100张照片",
+        "onboard_time": 1684689259,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18271,
+        "num": 19659,
+        "word": "Ruler大满贯",
+        "onboard_time": 1684681052,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18198,
+        "num": 19652,
+        "word": "吴京出走半生归来仍是这张图",
+        "onboard_time": 1684672892,
+        "rank": 39,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 17687,
+        "num": 19633,
+        "word": "九寨沟对浙江7地市免票原因太暖了",
+        "onboard_time": 1684682672,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16498,
+        "num": 19625,
+        "word": "长沙市市长郑建新被免职",
+        "onboard_time": 1684664189,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16399,
+        "num": 19609,
+        "word": "Angelababy何猷君何超欣同框",
+        "onboard_time": 1684664489,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16075,
+        "num": 19594,
+        "word": "清华大学女生获选美冠军",
+        "onboard_time": 1684664189,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15475,
+        "num": 19579,
+        "word": "朱一龙说上次来戛纳后下决心拍电影",
+        "onboard_time": 1684685426,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15067,
+        "num": 19570,
+        "word": "世上再无公子襄",
+        "onboard_time": 1684679493,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15042,
+        "num": 19553,
+        "word": "GALA LNG",
+        "onboard_time": 1684667189,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13406,
+        "num": 19545,
+        "word": "Rose看到自己表情包的反应",
+        "onboard_time": 1684682371,
+        "rank": 47,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 13106,
+        "num": 19535,
+        "word": "切尔西",
+        "onboard_time": 1684681953,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12132,
+        "num": 19517,
+        "word": "梁静茹521再分手一次",
+        "onboard_time": 1684681772,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国同中亚国家常来常往长旺长安#"
+    }
+  }
+}
