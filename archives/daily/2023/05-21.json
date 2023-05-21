@@ -1,6 +1,6 @@
 {
   "startTime": 1684599621121,
-  "endTime": 1684678463297,
+  "endTime": 1684679603961,
   "band_list": [
     {
       "raw_hot": 2927414,
@@ -17,6 +17,14 @@
       "onboard_time": 1684671152,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2758015,
+      "num": 2758015,
+      "word": "JDG夺冠",
+      "onboard_time": 1684678472,
+      "rank": 0,
+      "category": "游戏"
     },
     {
       "raw_hot": 2660970,
@@ -83,6 +91,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1857184,
+      "num": 1857184,
+      "word": "王诗龄520收到巨型玫瑰熊",
+      "onboard_time": 1684677868,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1822815,
       "num": 1822815,
       "word": "雪莉的电影要播了",
@@ -139,8 +155,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1484543,
-      "num": 1484543,
+      "raw_hot": 1550117,
+      "num": 1550117,
       "word": "女子因掉毛严重将宠物猫遗弃绿化带",
       "onboard_time": 1684673430,
       "rank": 23,
@@ -331,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 862622,
+      "num": 862622,
+      "word": "水电工人被射钉枪击中头部身亡",
+      "onboard_time": 1684676252,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 843900,
       "num": 843900,
       "word": "赵琦君成功求婚杨凯雯",
@@ -369,14 +393,6 @@
       "onboard_time": 1684629925,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 774040,
-      "num": 400723,
-      "word": "水电工人被射钉枪击中头部身亡",
-      "onboard_time": 1684676252,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 738593,
@@ -435,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 663766,
+      "num": 663766,
+      "word": "周冬雨刘昊然在燃冬里有床戏",
+      "onboard_time": 1684678711,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 643706,
       "num": 643706,
       "word": "黄老师520挖呀挖",
@@ -465,14 +489,6 @@
       "onboard_time": 1684672591,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 620043,
-      "num": 398450,
-      "word": "王诗龄520收到巨型玫瑰熊",
-      "onboard_time": 1684677868,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 608745,
@@ -523,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 559745,
+      "num": 559745,
+      "word": "华表奖官宣了280个艺人",
+      "onboard_time": 1684678111,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 545683,
       "num": 545683,
       "word": "BLACKPINK演唱会",
@@ -571,6 +595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 515588,
+      "num": 515588,
+      "word": "JDG对战BLG",
+      "onboard_time": 1684665450,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 513748,
       "num": 513748,
       "word": "小满",
@@ -604,7 +636,7 @@
     },
     {
       "raw_hot": 503755,
-      "num": 332228,
+      "num": 343379,
       "word": "最食人间烟火色取关了卢洋洋",
       "onboard_time": 1684671390,
       "rank": 25,
@@ -755,12 +787,12 @@
       "category": "社会议题,艺人"
     },
     {
-      "raw_hot": 402016,
-      "num": 402016,
-      "word": "JDG对战BLG",
-      "onboard_time": 1684665450,
-      "rank": 42,
-      "category": "游戏"
+      "raw_hot": 403165,
+      "num": 403165,
+      "word": "清华大学女生获选美冠军",
+      "onboard_time": 1684664189,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 401264,
@@ -777,14 +809,6 @@
       "onboard_time": 1684666053,
       "rank": 30,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 391043,
-      "num": 391043,
-      "word": "清华大学女生获选美冠军",
-      "onboard_time": 1684664189,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 389679,
@@ -1171,14 +1195,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 263000,
-      "num": 209905,
-      "word": "华表奖官宣了280个艺人",
-      "onboard_time": 1684678111,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 262191,
       "num": 262191,
       "word": "明星521营业照",
@@ -1331,8 +1347,16 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 241103,
+      "num": 241103,
+      "word": "妻子去世10年男子仍帮老丈人插秧",
+      "onboard_time": 1684678595,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239246,
-      "num": 194314,
+      "num": 212918,
       "word": "柯以敏7年后对16超女说请你原谅我",
       "onboard_time": 1684677212,
       "rank": 33,
@@ -1475,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219117,
+      "num": 219117,
+      "word": "JDG战胜BLG",
+      "onboard_time": 1684679132,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 217482,
       "num": 217482,
       "word": "LPL历史首次会师国际赛决赛",
@@ -1497,6 +1529,14 @@
       "onboard_time": 1684651169,
       "rank": 33,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 212591,
+      "num": 212591,
+      "word": "周震南音乐节",
+      "onboard_time": 1684678895,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 212178,
@@ -1763,6 +1803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180803,
+      "num": 151993,
+      "word": "世上再无公子襄",
+      "onboard_time": 1684679493,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 180312,
       "num": 180312,
       "word": "你是一个不落啊 一个都没过上",
@@ -1955,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151919,
+      "num": 151919,
+      "word": "年轻人需要的不是一句话而是一笔钱",
+      "onboard_time": 1684672531,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151842,
       "num": 151842,
       "word": "国羽第13次捧起苏迪曼杯",
@@ -1969,14 +2025,6 @@
       "onboard_time": 1684637548,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 150402,
-      "num": 150402,
-      "word": "年轻人需要的不是一句话而是一笔钱",
-      "onboard_time": 1684672531,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 149786,
@@ -2203,6 +2251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 128396,
+      "num": 133054,
+      "word": "曼城vs切尔西",
+      "onboard_time": 1684678172,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126955,
       "num": 126955,
       "word": "海鸥是这么搞笑的一种鸟啊",
@@ -2305,14 +2361,6 @@
       "onboard_time": 1684648768,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 107249,
-      "num": 133054,
-      "word": "曼城vs切尔西",
-      "onboard_time": 1684678172,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 106469,
@@ -2467,8 +2515,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 49891,
-      "num": 1485700,
+      "raw_hot": 50616,
+      "num": 1873365,
       "word": "用立体书打开国际茶日",
       "onboard_time": 1684671991,
       "rank": 2,
