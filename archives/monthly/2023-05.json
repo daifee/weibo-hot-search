@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684661617774,
+  "endTime": 1684664184196,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -2012,7 +2012,7 @@
     },
     {
       "raw_hot": 1817211,
-      "num": 681438,
+      "num": 826842,
       "word": "没认出这是刘诗诗",
       "onboard_time": 1684656687,
       "rank": 11,
@@ -2249,6 +2249,14 @@
       "onboard_time": 1683461910,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1757844,
+      "num": 1757844,
+      "word": "霍建华 北京",
+      "onboard_time": 1684658969,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1756102,
@@ -3689,14 +3697,6 @@
       "onboard_time": 1683338730,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1410539,
-      "num": 1410539,
-      "word": "霍建华 北京",
-      "onboard_time": 1684658969,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1408208,
@@ -6931,6 +6931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 869193,
+      "num": 869193,
+      "word": "香港发生谋杀案现场留有电锯",
+      "onboard_time": 1684662031,
+      "rank": 8,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 867730,
       "num": 974989,
       "word": "新娘互换手捧花发现是高中同学",
@@ -7649,6 +7657,14 @@
       "onboard_time": 1683530496,
       "rank": 33,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 787689,
+      "num": 787689,
+      "word": "我女儿是个了不起的人 我好像从未向她说过",
+      "onboard_time": 1684660291,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 787185,
@@ -8905,6 +8921,14 @@
       "onboard_time": 1684385855,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 672906,
+      "num": 672906,
+      "word": "国羽苏杯三连冠",
+      "onboard_time": 1684661430,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 671913,
@@ -11411,6 +11435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 525319,
+      "num": 352938,
+      "word": "冲出内娱的美貌",
+      "onboard_time": 1684659930,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 524921,
       "num": 721790,
       "word": "兴文地震",
@@ -11883,6 +11915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 506535,
+      "num": 506535,
+      "word": "华表奖阵容官宣",
+      "onboard_time": 1684661249,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 506429,
       "num": 506429,
       "word": "日本地震",
@@ -12292,7 +12332,7 @@
     },
     {
       "raw_hot": 487170,
-      "num": 487170,
+      "num": 1252814,
       "word": "夫妻捡到脑瘫女婴照顾28年",
       "onboard_time": 1684653147,
       "rank": 46,
@@ -15187,6 +15227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406531,
+      "num": 1601152,
+      "word": "男子心脏2支架1搭桥跑赢全马",
+      "onboard_time": 1684662627,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406462,
       "num": 326713,
       "word": "回领导消息多打了一个字",
@@ -15721,14 +15769,6 @@
       "onboard_time": 1683346894,
       "rank": 30,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 395330,
-      "num": 332014,
-      "word": "冲出内娱的美貌",
-      "onboard_time": 1684659930,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 395094,
@@ -19019,14 +19059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 334243,
-      "num": 334243,
-      "word": "国羽苏杯三连冠",
-      "onboard_time": 1684661430,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 334101,
       "num": 334101,
       "word": "蔡徐坤的扇子",
@@ -19057,14 +19089,6 @@
       "onboard_time": 1684124070,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 333713,
-      "num": 245268,
-      "word": "我女儿是个了不起的人 我好像从未向她说过",
-      "onboard_time": 1684660291,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 333531,
@@ -19657,6 +19681,14 @@
       "onboard_time": 1684464687,
       "rank": 18,
       "category": "幽默,时尚"
+    },
+    {
+      "raw_hot": 323309,
+      "num": 323309,
+      "word": "把灭火器看成薛之谦",
+      "onboard_time": 1684660467,
+      "rank": 39,
+      "category": "音乐,幽默"
     },
     {
       "raw_hot": 323211,
@@ -21233,6 +21265,14 @@
       "onboard_time": 1683374968,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 297728,
+      "num": 297728,
+      "word": "为什么最近都想当老八",
+      "onboard_time": 1684662208,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 297623,
@@ -25499,14 +25539,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 246906,
-      "num": 246906,
-      "word": "把灭火器看成薛之谦",
-      "onboard_time": 1684660467,
-      "rank": 39,
-      "category": "音乐,幽默"
-    },
-    {
       "raw_hot": 246782,
       "num": 246782,
       "word": "487",
@@ -28667,6 +28699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218524,
+      "num": 218524,
+      "word": "宋雨琦Y2K造型",
+      "onboard_time": 1684663228,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218493,
       "num": 218493,
       "word": "贾静雯恭喜Alin",
@@ -29473,6 +29513,14 @@
       "onboard_time": 1683777627,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 212254,
+      "num": 212254,
+      "word": "权顺荣对mbti是认真的",
+      "onboard_time": 1684663048,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 212125,
@@ -30491,6 +30539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204145,
+      "num": 204145,
+      "word": "石宇奇贾一凡",
+      "onboard_time": 1684663108,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204139,
       "num": 204139,
       "word": "带你入小说坑的高燃场面",
@@ -31483,14 +31539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195667,
-      "num": 195667,
-      "word": "华表奖阵容官宣",
-      "onboard_time": 1684661249,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 195658,
       "num": 195658,
       "word": "宋浩老师回应高数视频播放破亿",
@@ -31537,6 +31585,14 @@
       "onboard_time": 1682905770,
       "rank": 29,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 195374,
+      "num": 195374,
+      "word": "长沙自建房倒塌事故4名干部被问责",
+      "onboard_time": 1684662268,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195320,
@@ -31729,6 +31785,14 @@
       "onboard_time": 1683695800,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194360,
+      "num": 194360,
+      "word": "叶舒华Queencard直拍",
+      "onboard_time": 1684662869,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 194335,
@@ -33676,7 +33740,7 @@
     },
     {
       "raw_hot": 179600,
-      "num": 179600,
+      "num": 1117821,
       "word": "53岁大妈坚持8年为游客提供热水",
       "onboard_time": 1684656987,
       "rank": 41,
@@ -37339,6 +37403,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 151842,
+      "num": 151842,
+      "word": "国羽第13次捧起苏迪曼杯",
+      "onboard_time": 1684661849,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151839,
       "num": 224009,
       "word": "102岁高祖母抱起7个月玄孙女",
@@ -37641,6 +37713,14 @@
       "onboard_time": 1684468829,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 149736,
+      "num": 149736,
+      "word": "湖人",
+      "onboard_time": 1684663948,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 149706,
@@ -43323,6 +43403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61390,
+      "num": 1500514,
+      "word": "小满节气里的中国智慧",
+      "onboard_time": 1684658491,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61375,
       "num": 134417,
       "word": "海拉鲁军备竞赛",
@@ -43369,14 +43457,6 @@
       "onboard_time": 1684624817,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60158,
-      "num": 1476284,
-      "word": "小满节气里的中国智慧",
-      "onboard_time": 1684658491,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59983,
@@ -44313,6 +44393,14 @@
       "onboard_time": 1682969413,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28016,
+      "num": 751585,
+      "word": "真诚在职场中有多重要",
+      "onboard_time": 1684659209,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 27923,
