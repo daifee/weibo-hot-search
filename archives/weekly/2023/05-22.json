@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684707323768,
+  "endTime": 1684708406229,
   "band_list": [
     {
       "raw_hot": 1364630,
@@ -187,6 +187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 238023,
+      "num": 103761,
+      "word": "拜登宣称美中关系会在短时间内缓和",
+      "onboard_time": 1684703350,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 234313,
       "num": 234313,
       "word": "跑男是知道怎么留住观众的",
@@ -297,14 +305,6 @@
       "onboard_time": 1684672591,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 162267,
-      "num": 75559,
-      "word": "拜登宣称美中关系会在短时间内缓和",
-      "onboard_time": 1684703350,
-      "rank": 49,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 160119,
@@ -491,8 +491,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28838,
+      "num": 29946,
+      "word": "谢娜想语音输入结果发了语音",
+      "onboard_time": 1684698072,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 26326,
-      "num": 29048,
+      "num": 29910,
       "word": "MTG对战HI",
       "onboard_time": 1684690516,
       "rank": 36,
@@ -505,14 +513,6 @@
       "onboard_time": 1684671991,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21565,
-      "num": 29027,
-      "word": "谢娜想语音输入结果发了语音",
-      "onboard_time": 1684698072,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 21399,
