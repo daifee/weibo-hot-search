@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684690415613,
+  "endTime": 1684693185443,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -44227,6 +44227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61382,
+      "num": 55797,
+      "word": "周扬青一天换3种发型拍100张照片",
+      "onboard_time": 1684689259,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 61375,
       "num": 134417,
       "word": "海拉鲁军备竞赛",
@@ -44865,6 +44873,14 @@
       "onboard_time": 1683555871,
       "rank": 2,
       "category": "科技"
+    },
+    {
+      "raw_hot": 42428,
+      "num": 42428,
+      "word": "恭喜曼城",
+      "onboard_time": 1684692375,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 42196,
