@@ -1,6 +1,6 @@
 {
   "startTime": 1684599621121,
-  "endTime": 1684647213246,
+  "endTime": 1684650021528,
   "band_list": [
     {
       "raw_hot": 2927414,
@@ -91,20 +91,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1281469,
+      "num": 1084382,
+      "word": "沈梦辰晒杜海涛520送花照",
+      "onboard_time": 1684643370,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1271164,
       "num": 1271164,
       "word": "北京一小区半夜神秘敲墙声持续2年",
       "onboard_time": 1684626200,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1227170,
-      "num": 1084382,
-      "word": "沈梦辰晒杜海涛520送花照",
-      "onboard_time": 1684643370,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 1151709,
@@ -307,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 495565,
+      "num": 232857,
+      "word": "谢娜戴的耳返是张杰的",
+      "onboard_time": 1684647929,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 494325,
       "num": 494325,
       "word": "前男友跳楼女子被判补偿2万",
@@ -459,6 +467,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 356034,
+      "num": 356034,
+      "word": "那吾克热 淘汰",
+      "onboard_time": 1684645112,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 349618,
       "num": 292613,
       "word": "赵丽颖一字锁骨",
@@ -483,12 +499,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 331402,
-      "num": 331402,
-      "word": "那吾克热 淘汰",
-      "onboard_time": 1684645112,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 329915,
+      "num": 231809,
+      "word": "12块钱被叫了7声宝贝",
+      "onboard_time": 1684646848,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 328641,
+      "num": 230667,
+      "word": "青云志主演出场时长",
+      "onboard_time": 1684647387,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 323208,
@@ -497,6 +521,14 @@
       "onboard_time": 1684636468,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 322649,
+      "num": 322649,
+      "word": "何赛飞怒批戏曲行业现状",
+      "onboard_time": 1684645951,
+      "rank": 26,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 319638,
@@ -537,14 +569,6 @@
       "onboard_time": 1684598729,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 296329,
-      "num": 296329,
-      "word": "何赛飞怒批戏曲行业现状",
-      "onboard_time": 1684645951,
-      "rank": 26,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 282713,
@@ -667,12 +691,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 230572,
+      "num": 230572,
+      "word": "什么人不适合多吃西瓜",
+      "onboard_time": 1684646131,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229726,
       "num": 229726,
       "word": "曼城英超三连冠",
       "onboard_time": 1684624398,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 229368,
+      "num": 229368,
+      "word": "临时抱佛脚",
+      "onboard_time": 1684649127,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 228945,
@@ -688,6 +728,14 @@
       "word": "傅菁回应穿婚纱的粉丝",
       "onboard_time": 1684643729,
       "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 221835,
+      "num": 221835,
+      "word": "小鬼新歌是写给去世狗狗的",
+      "onboard_time": 1684646790,
+      "rank": 40,
       "category": "音乐"
     },
     {
@@ -819,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188733,
+      "num": 188733,
+      "word": "中国女性创业者占比全球最高",
+      "onboard_time": 1684648708,
+      "rank": 35,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 187820,
       "num": 187820,
       "word": "吴谢宇求生辩护公开",
@@ -883,14 +939,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 176253,
-      "num": 176253,
-      "word": "什么人不适合多吃西瓜",
-      "onboard_time": 1684646131,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173753,
       "num": 173753,
       "word": "浙江事业单位",
@@ -913,6 +961,14 @@
       "onboard_time": 1684605558,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170849,
+      "num": 170849,
+      "word": "绘旅人瑰梦奇境",
+      "onboard_time": 1684648827,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 170360,
@@ -1019,14 +1075,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 147299,
-      "num": 147299,
-      "word": "小鬼新歌是写给去世狗狗的",
-      "onboard_time": 1684646790,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 144877,
       "num": 144877,
       "word": "LPL",
@@ -1075,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138636,
+      "num": 138636,
+      "word": "湖南43岁民警被嫌疑人刺伤不幸牺牲",
+      "onboard_time": 1684647809,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136780,
       "num": 136780,
       "word": "莱昂纳多亮相戛纳",
@@ -1097,6 +1153,14 @@
       "onboard_time": 1684592192,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 132898,
+      "num": 132898,
+      "word": "中国说唱巅峰对决赛制",
+      "onboard_time": 1684649487,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 131339,
@@ -1163,6 +1227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122193,
+      "num": 122193,
+      "word": "汶川地震幸存者截肢后完美演绎鼓舞",
+      "onboard_time": 1684649787,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121358,
       "num": 121358,
       "word": "货车爆胎翻车路过吊车侠果断出手",
@@ -1192,6 +1264,14 @@
       "word": "小满文案",
       "onboard_time": 1684633948,
       "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 107456,
+      "num": 214834,
+      "word": "收到心仪offer有多激动",
+      "onboard_time": 1684648768,
+      "rank": 29,
       "category": "情感"
     },
     {
