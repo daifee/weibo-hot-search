@@ -1,6 +1,6 @@
 {
   "startTime": 1684599621121,
-  "endTime": 1684654413975,
+  "endTime": 1684657184675,
   "band_list": [
     {
       "raw_hot": 2927414,
@@ -9,6 +9,14 @@
       "onboard_time": 1684632987,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2660970,
+      "num": 2660970,
+      "word": "好利来二公子也去演戏了",
+      "onboard_time": 1684653087,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 2336283,
@@ -59,14 +67,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1797026,
-      "num": 1797026,
-      "word": "好利来二公子也去演戏了",
-      "onboard_time": 1684653087,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1756102,
       "num": 1756102,
       "word": "婴儿被亲友轮番亲吻高烧近40度",
@@ -75,8 +75,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1461466,
+      "num": 1461466,
+      "word": "B站为什么1年91亿不够养UP主",
+      "onboard_time": 1684654108,
+      "rank": 36,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 1420671,
-      "num": 653700,
+      "num": 1127959,
       "word": "杨笠 七时吉祥",
       "onboard_time": 1684651767,
       "rank": 4,
@@ -211,6 +219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 778415,
+      "num": 778415,
+      "word": "林丹",
+      "onboard_time": 1684653509,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 709861,
       "num": 709861,
       "word": "苏杯中国2比2日本",
@@ -332,7 +348,7 @@
     },
     {
       "raw_hot": 495565,
-      "num": 247594,
+      "num": 286422,
       "word": "谢娜戴的耳返是张杰的",
       "onboard_time": 1684647929,
       "rank": 21,
@@ -347,8 +363,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 473374,
-      "num": 244991,
+      "raw_hot": 492164,
+      "num": 426689,
+      "word": "刘昊然戛纳看周冬雨的眼神",
+      "onboard_time": 1684636468,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 483603,
+      "num": 295756,
       "word": "你不会知道 她花了多久确认你们不爱她",
       "onboard_time": 1684652066,
       "rank": 31,
@@ -361,6 +385,14 @@
       "onboard_time": 1684593389,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 466476,
+      "num": 466476,
+      "word": "夫妻捡到脑瘫女婴照顾28年",
+      "onboard_time": 1684653147,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 464902,
@@ -387,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 440268,
+      "num": 426105,
+      "word": "没认出这是刘诗诗",
+      "onboard_time": 1684656687,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 437380,
       "num": 437380,
       "word": "广州演唱会",
@@ -395,12 +435,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 433171,
-      "num": 433171,
-      "word": "林丹",
-      "onboard_time": 1684653509,
-      "rank": 8,
-      "category": "体育"
+      "raw_hot": 427106,
+      "num": 427106,
+      "word": "好利来",
+      "onboard_time": 1684656628,
+      "rank": 9,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 426959,
@@ -419,20 +459,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 424490,
+      "num": 424490,
+      "word": "石宇奇 李宥奎",
+      "onboard_time": 1684655251,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 408075,
       "num": 408075,
       "word": "你怎么看何赛飞为基层戏剧演员发声",
       "onboard_time": 1684642468,
       "rank": 38,
       "category": "社会议题,艺人"
-    },
-    {
-      "raw_hot": 406268,
-      "num": 356215,
-      "word": "刘昊然戛纳看周冬雨的眼神",
-      "onboard_time": 1684636468,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 401264,
@@ -563,6 +603,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 333728,
+      "num": 333728,
+      "word": "苏杯决赛中国1比0韩国",
+      "onboard_time": 1684654529,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 331726,
       "num": 331726,
       "word": "Faker",
@@ -635,12 +683,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 315212,
+      "num": 315212,
+      "word": "我在惊悚游戏里封神",
+      "onboard_time": 1684652424,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 305377,
       "num": 305377,
       "word": "tabe二段跑",
       "onboard_time": 1684596152,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 304695,
+      "num": 304695,
+      "word": "周柯宇见证粉丝被求婚",
+      "onboard_time": 1684655788,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 301538,
@@ -673,6 +737,14 @@
       "onboard_time": 1684595490,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 268253,
+      "num": 268253,
+      "word": "李莎旻子的发言水平",
+      "onboard_time": 1684655251,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 267270,
@@ -739,12 +811,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 247361,
-      "num": 247361,
-      "word": "夫妻捡到脑瘫女婴照顾28年",
-      "onboard_time": 1684653147,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 250533,
+      "num": 250533,
+      "word": "徐明浩带to签给青环家族",
+      "onboard_time": 1684654948,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 246130,
@@ -777,6 +849,14 @@
       "onboard_time": 1684601424,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 243353,
+      "num": 243353,
+      "word": "张婧仪白色花朵编发",
+      "onboard_time": 1684656147,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 242741,
@@ -817,6 +897,14 @@
       "onboard_time": 1684624398,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 229522,
+      "num": 229522,
+      "word": "五月天演唱会",
+      "onboard_time": 1684654169,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 228945,
@@ -907,12 +995,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 201908,
-      "num": 201908,
-      "word": "我在惊悚游戏里封神",
-      "onboard_time": 1684652424,
-      "rank": 29,
-      "category": "作品衍生"
+      "raw_hot": 200975,
+      "num": 200975,
+      "word": "罗成",
+      "onboard_time": 1684655010,
+      "rank": 31,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 200464,
@@ -921,6 +1009,14 @@
       "onboard_time": 1684626019,
       "rank": 26,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 198295,
+      "num": 198295,
+      "word": "小樱花垂耳兔造型",
+      "onboard_time": 1684656808,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 196772,
@@ -945,6 +1041,14 @@
       "onboard_time": 1684630166,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194988,
+      "num": 194988,
+      "word": "华表奖嘉宾",
+      "onboard_time": 1684656628,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 194985,
@@ -987,14 +1091,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 190106,
-      "num": 190106,
-      "word": "B站为什么1年91亿不够养UP主",
-      "onboard_time": 1684654108,
-      "rank": 36,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 188983,
       "num": 188983,
       "word": "杭州现鸭屎香冰淇淋",
@@ -1033,6 +1129,14 @@
       "onboard_time": 1684592795,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186208,
+      "num": 186208,
+      "word": "袁爷爷我们会记得好好吃饭",
+      "onboard_time": 1684655427,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183293,
@@ -1195,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152793,
+      "num": 152793,
+      "word": "53岁大妈坚持8年为游客提供热水",
+      "onboard_time": 1684656987,
+      "rank": 41,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 152086,
       "num": 152086,
       "word": "北京一居民家中起火好心邻居报警",
@@ -1307,14 +1419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134288,
-      "num": 134288,
-      "word": "五月天演唱会",
-      "onboard_time": 1684654169,
-      "rank": 46,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 133902,
       "num": 133902,
       "word": "周冬雨戛纳雨中排队看电影",
@@ -1329,6 +1433,14 @@
       "onboard_time": 1684649487,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132748,
+      "num": 132748,
+      "word": "盲人大叔用舌头测电流成修车奇人",
+      "onboard_time": 1684657048,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131339,
@@ -1352,6 +1464,14 @@
       "word": "米勒解说",
       "onboard_time": 1684610953,
       "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 128906,
+      "num": 128906,
+      "word": "学霸给KPL学长上了一课",
+      "onboard_time": 1684656088,
+      "rank": 47,
       "category": "游戏"
     },
     {
@@ -1580,7 +1700,7 @@
     },
     {
       "raw_hot": 8215,
-      "num": 1104655,
+      "num": 1149469,
       "word": "中国有约",
       "onboard_time": 1684565367,
       "rank": 2,
