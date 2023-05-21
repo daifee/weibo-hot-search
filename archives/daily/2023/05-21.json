@@ -1,6 +1,6 @@
 {
   "startTime": 1684599621121,
-  "endTime": 1684658016537,
+  "endTime": 1684660495689,
   "band_list": [
     {
       "raw_hot": 2927414,
@@ -67,6 +67,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1817211,
+      "num": 484362,
+      "word": "没认出这是刘诗诗",
+      "onboard_time": 1684656687,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1756102,
       "num": 1756102,
       "word": "婴儿被亲友轮番亲吻高烧近40度",
@@ -83,6 +91,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 1448697,
+      "num": 1448697,
+      "word": "曝笑果引发综艺电视剧延期",
+      "onboard_time": 1684658790,
+      "rank": 3,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1420671,
       "num": 1127959,
       "word": "杨笠 七时吉祥",
@@ -97,6 +113,14 @@
       "onboard_time": 1684640006,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1390665,
+      "num": 1390665,
+      "word": "霍建华 北京",
+      "onboard_time": 1684658969,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1388211,
@@ -131,14 +155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1244238,
-      "num": 484362,
-      "word": "没认出这是刘诗诗",
-      "onboard_time": 1684656687,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1151709,
       "num": 1151709,
       "word": "女子入职1个月查出怀孕被辞退",
@@ -169,6 +185,14 @@
       "onboard_time": 1684634427,
       "rank": 3,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1110982,
+      "num": 1110982,
+      "word": "硕士答辩看到一篇非常惊喜的论文",
+      "onboard_time": 1684657347,
+      "rank": 30,
+      "category": "教育,情感"
     },
     {
       "raw_hot": 1101878,
@@ -396,7 +420,7 @@
     },
     {
       "raw_hot": 483603,
-      "num": 295756,
+      "num": 321852,
       "word": "你不会知道 她花了多久确认你们不爱她",
       "onboard_time": 1684652066,
       "rank": 31,
@@ -467,12 +491,36 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 415198,
+      "num": 415198,
+      "word": "陈雨菲vs安洗莹",
+      "onboard_time": 1684659628,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 410650,
+      "num": 410650,
+      "word": "晋剧演员张军波回应",
+      "onboard_time": 1684657829,
+      "rank": 34,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 408075,
       "num": 408075,
       "word": "你怎么看何赛飞为基层戏剧演员发声",
       "onboard_time": 1684642468,
       "rank": 38,
       "category": "社会议题,艺人"
+    },
+    {
+      "raw_hot": 405251,
+      "num": 405251,
+      "word": "广东13岁女孩疑被邻居性侵",
+      "onboard_time": 1684659749,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 401264,
@@ -691,12 +739,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 316108,
-      "num": 204182,
-      "word": "硕士答辩看到一篇非常惊喜的论文",
-      "onboard_time": 1684657347,
-      "rank": 30,
-      "category": "教育,情感"
+      "raw_hot": 316436,
+      "num": 316436,
+      "word": "周也纹身贴",
+      "onboard_time": 1684658250,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 315212,
@@ -817,6 +865,14 @@
       "onboard_time": 1684631247,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 254059,
+      "num": 254059,
+      "word": "冲出内娱的美貌",
+      "onboard_time": 1684659930,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 253702,
@@ -1075,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193548,
+      "num": 193548,
+      "word": "长沙自建房倒塌事故调查报告公布",
+      "onboard_time": 1684660411,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193097,
       "num": 193097,
       "word": "国际茶日",
@@ -1147,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186212,
+      "num": 186212,
+      "word": "汪卓成编辑记录",
+      "onboard_time": 1684657709,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186208,
       "num": 186208,
       "word": "袁爷爷我们会记得好好吃饭",
@@ -1163,28 +1235,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182398,
-      "num": 182398,
-      "word": "晋剧演员张军波回应",
-      "onboard_time": 1684657829,
-      "rank": 34,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 182386,
       "num": 262210,
       "word": "生活哪个瞬间让你有同感",
       "onboard_time": 1684637667,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 181532,
-      "num": 181532,
-      "word": "汪卓成编辑记录",
-      "onboard_time": 1684657709,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 181434,
@@ -1201,6 +1257,14 @@
       "onboard_time": 1684583907,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179600,
+      "num": 179600,
+      "word": "53岁大妈坚持8年为游客提供热水",
+      "onboard_time": 1684656987,
+      "rank": 41,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 177899,
@@ -1225,14 +1289,6 @@
       "onboard_time": 1684645469,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 171069,
-      "num": 171069,
-      "word": "53岁大妈坚持8年为游客提供热水",
-      "onboard_time": 1684656987,
-      "rank": 41,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 171024,
@@ -1267,6 +1323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 167673,
+      "num": 167673,
+      "word": "我女儿是个了不起的人 我好像从未向她说过",
+      "onboard_time": 1684660291,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 164185,
       "num": 164185,
       "word": "Natalie 花瓣裙",
@@ -1297,6 +1361,14 @@
       "onboard_time": 1684642350,
       "rank": 35,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 161114,
+      "num": 161114,
+      "word": "把灭火器看成薛之谦",
+      "onboard_time": 1684660467,
+      "rank": 39,
+      "category": "音乐,幽默"
     },
     {
       "raw_hot": 160628,
@@ -1337,6 +1409,14 @@
       "onboard_time": 1684625117,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155067,
+      "num": 155067,
+      "word": "燃冬",
+      "onboard_time": 1684659749,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 152086,
@@ -1508,7 +1588,7 @@
     },
     {
       "raw_hot": 128906,
-      "num": 143664,
+      "num": 150173,
       "word": "学霸给KPL学长上了一课",
       "onboard_time": 1684656088,
       "rank": 47,
@@ -1721,6 +1801,14 @@
       "onboard_time": 1684625178,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52528,
+      "num": 1476284,
+      "word": "小满节气里的中国智慧",
+      "onboard_time": 1684658491,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38077,

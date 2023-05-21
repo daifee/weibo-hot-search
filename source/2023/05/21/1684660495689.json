@@ -1,0 +1,410 @@
+{
+  "runTime": 1684660495689,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2062029,
+        "num": 2062029,
+        "word": "好利来二公子也去演戏了",
+        "onboard_time": 1684653087,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1521291,
+        "num": 1521291,
+        "word": "B站为什么1年91亿不够养UP主",
+        "onboard_time": 1684654108,
+        "rank": 1,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 52528,
+        "num": 1476284,
+        "word": "小满节气里的中国智慧",
+        "onboard_time": 1684658491,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1448697,
+        "num": 1448697,
+        "word": "曝笑果引发综艺电视剧延期",
+        "onboard_time": 1684658790,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1390665,
+        "num": 1390665,
+        "word": "霍建华 北京",
+        "onboard_time": 1684658969,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1110982,
+        "num": 1110982,
+        "word": "硕士答辩看到一篇非常惊喜的论文",
+        "onboard_time": 1684657347,
+        "rank": 5,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 789530,
+        "num": 789530,
+        "word": "杨笠 七时吉祥",
+        "onboard_time": 1684651767,
+        "rank": 6,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 714836,
+        "num": 714836,
+        "word": "好利来",
+        "onboard_time": 1684656628,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 644857,
+        "num": 644857,
+        "word": "林丹",
+        "onboard_time": 1684653509,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430737,
+        "num": 430737,
+        "word": "沈梦辰晒杜海涛520送花照",
+        "onboard_time": 1684643370,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1817211,
+        "num": 428527,
+        "word": "没认出这是刘诗诗",
+        "onboard_time": 1684656687,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 415198,
+        "num": 415198,
+        "word": "陈雨菲vs安洗莹",
+        "onboard_time": 1684659628,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 410650,
+        "num": 410650,
+        "word": "晋剧演员张军波回应",
+        "onboard_time": 1684657829,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 405251,
+        "num": 405251,
+        "word": "广东13岁女孩疑被邻居性侵",
+        "onboard_time": 1684659749,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356287,
+        "num": 356287,
+        "word": "黄老师",
+        "onboard_time": 1684644448,
+        "rank": 14,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 333941,
+        "num": 333941,
+        "word": "事业单位",
+        "onboard_time": 1684641867,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 330251,
+        "num": 330251,
+        "word": "刘昊然戛纳看周冬雨的眼神",
+        "onboard_time": 1684636468,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 325838,
+        "num": 325838,
+        "word": "何赛飞怒批戏曲行业现状",
+        "onboard_time": 1684645951,
+        "rank": 17,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 325238,
+        "num": 325238,
+        "word": "女子入职1个月查出怀孕被辞退",
+        "onboard_time": 1684636529,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322366,
+        "num": 322366,
+        "word": "何赛飞",
+        "onboard_time": 1684632987,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 497432,
+        "num": 322197,
+        "word": "Lisa比中指后的反应",
+        "onboard_time": 1684641208,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 375804,
+        "num": 321852,
+        "word": "你不会知道 她花了多久确认你们不爱她",
+        "onboard_time": 1684652066,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 316436,
+        "num": 316436,
+        "word": "周也纹身贴",
+        "onboard_time": 1684658250,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260987,
+        "num": 260987,
+        "word": "夫妻捡到脑瘫女婴照顾28年",
+        "onboard_time": 1684653147,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254059,
+        "num": 254059,
+        "word": "冲出内娱的美貌",
+        "onboard_time": 1684659930,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253431,
+        "num": 253431,
+        "word": "谢娜戴的耳返是张杰的",
+        "onboard_time": 1684647929,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251359,
+        "num": 251359,
+        "word": "小樱花垂耳兔造型",
+        "onboard_time": 1684656808,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209534,
+        "num": 209534,
+        "word": "李莎旻子的发言水平",
+        "onboard_time": 1684655251,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200977,
+        "num": 200977,
+        "word": "张婧仪白色花朵编发",
+        "onboard_time": 1684656147,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 200514,
+        "num": 200514,
+        "word": "华表奖嘉宾",
+        "onboard_time": 1684656628,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196794,
+        "num": 196794,
+        "word": "周柯宇见证粉丝被求婚",
+        "onboard_time": 1684655788,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193548,
+        "num": 193548,
+        "word": "长沙自建房倒塌事故调查报告公布",
+        "onboard_time": 1684660411,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188809,
+        "num": 188809,
+        "word": "王俊凯易烊千玺或将参加这就是街舞6",
+        "onboard_time": 1684636529,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186212,
+        "num": 186212,
+        "word": "汪卓成编辑记录",
+        "onboard_time": 1684657709,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183876,
+        "num": 185752,
+        "word": "婴儿被亲友轮番亲吻高烧近40度",
+        "onboard_time": 1684634786,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185448,
+        "num": 185448,
+        "word": "苏杯决赛中国1比0韩国",
+        "onboard_time": 1684654529,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179600,
+        "num": 179600,
+        "word": "53岁大妈坚持8年为游客提供热水",
+        "onboard_time": 1684656987,
+        "rank": 36,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 178114,
+        "num": 178114,
+        "word": "我在惊悚游戏里封神",
+        "onboard_time": 1684652424,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167673,
+        "num": 167673,
+        "word": "我女儿是个了不起的人 我好像从未向她说过",
+        "onboard_time": 1684660291,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161114,
+        "num": 161114,
+        "word": "把灭火器看成薛之谦",
+        "onboard_time": 1684660467,
+        "rank": 39,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 158865,
+        "num": 158865,
+        "word": "罗成",
+        "onboard_time": 1684655010,
+        "rank": 40,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 155872,
+        "num": 155872,
+        "word": "徐明浩带to签给青环家族",
+        "onboard_time": 1684654948,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155067,
+        "num": 155067,
+        "word": "燃冬",
+        "onboard_time": 1684659749,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154992,
+        "num": 154992,
+        "word": "五月天演唱会",
+        "onboard_time": 1684654169,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153930,
+        "num": 153930,
+        "word": "苏杯决赛中国队vs韩国队",
+        "onboard_time": 1684651708,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151947,
+        "num": 151947,
+        "word": "带薪rua熊猫真有那么爽吗",
+        "onboard_time": 1684657469,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151729,
+        "num": 151729,
+        "word": "12块钱被叫了7声宝贝",
+        "onboard_time": 1684646848,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95771,
+        "num": 150325,
+        "word": "欧美女星为什么集体回春",
+        "onboard_time": 1684651169,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 54775,
+        "num": 150209,
+        "word": "杭州现鸭屎香冰淇淋",
+        "onboard_time": 1684643370,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 44822,
+        "num": 150173,
+        "word": "学霸给KPL学长上了一课",
+        "onboard_time": 1684656088,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国同中亚国家常来常往长旺长安#"
+    }
+  }
+}
