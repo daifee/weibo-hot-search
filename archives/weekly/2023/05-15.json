@@ -1,6 +1,6 @@
 {
   "startTime": 1684081230245,
-  "endTime": 1684637215732,
+  "endTime": 1684639050093,
   "band_list": [
     {
       "raw_hot": 10046058,
@@ -169,6 +169,14 @@
       "onboard_time": 1684464508,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2927414,
+      "num": 2927414,
+      "word": "何赛飞",
+      "onboard_time": 1684632987,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2911577,
@@ -355,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2280819,
-      "num": 2280819,
-      "word": "何赛飞",
-      "onboard_time": 1684632987,
-      "rank": 4,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 2266930,
       "num": 2266930,
       "word": "同事一年存50万我失眠了",
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 1961358,
-      "num": 960229,
+      "num": 989714,
       "word": "台湾坠亡男生身世被起底",
       "onboard_time": 1684626261,
       "rank": 5,
@@ -673,6 +673,14 @@
       "onboard_time": 1684149989,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1756102,
+      "num": 1756102,
+      "word": "婴儿被亲友轮番亲吻高烧近40度",
+      "onboard_time": 1684634786,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1752320,
@@ -1169,14 +1177,6 @@
       "onboard_time": 1684574005,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1399816,
-      "num": 1399816,
-      "word": "婴儿被亲友轮番亲吻高烧近40度",
-      "onboard_time": 1684634786,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1398950,
@@ -1931,6 +1931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 963162,
+      "num": 963162,
+      "word": "王俊凯易烊千玺或将参加这就是街舞6",
+      "onboard_time": 1684636529,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 957366,
       "num": 957366,
       "word": "发工资时间看公司",
@@ -1969,6 +1977,14 @@
       "onboard_time": 1684288652,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 946120,
+      "num": 946120,
+      "word": "女子入职1个月查出怀孕被辞退",
+      "onboard_time": 1684636529,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 944784,
@@ -3011,6 +3027,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 608745,
+      "num": 608745,
+      "word": "掘金vs湖人",
+      "onboard_time": 1684630525,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 608234,
       "num": 608234,
       "word": "许嵩 薛之谦演唱会嘉宾",
@@ -3187,6 +3211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 580055,
+      "num": 580055,
+      "word": "女子被打用高跟鞋反击判3年赔20万",
+      "onboard_time": 1684634308,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577969,
       "num": 577969,
       "word": "金曲奖入围名单",
@@ -3225,14 +3257,6 @@
       "onboard_time": 1684366824,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 566599,
-      "num": 566599,
-      "word": "女子被打用高跟鞋反击判3年赔20万",
-      "onboard_time": 1684634308,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 566284,
@@ -5323,6 +5347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 373859,
+      "num": 373859,
+      "word": "ruler",
+      "onboard_time": 1684635027,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 373646,
       "num": 360536,
       "word": "惜花芷官宣 张婧仪胡一天平番",
@@ -5372,7 +5404,7 @@
     },
     {
       "raw_hot": 370935,
-      "num": 278953,
+      "num": 293434,
       "word": "赵丽颖工作室审美",
       "onboard_time": 1684627163,
       "rank": 21,
@@ -5425,6 +5457,14 @@
       "onboard_time": 1684576346,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367183,
+      "num": 367183,
+      "word": "詹姆斯把裁判撞出血",
+      "onboard_time": 1684637188,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 366725,
@@ -5939,14 +5979,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 332224,
-      "num": 332224,
-      "word": "掘金vs湖人",
-      "onboard_time": 1684630525,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 332201,
       "num": 270667,
       "word": "范丞丞地垄沟发型",
@@ -6195,20 +6227,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317435,
+      "num": 317435,
+      "word": "千里背母上大学的贵州孝子14年后现状",
+      "onboard_time": 1684635326,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317356,
       "num": 317356,
       "word": "爱豆什么时候可以谈恋爱",
       "onboard_time": 1684382254,
       "rank": 33,
       "category": "情感,艺人"
-    },
-    {
-      "raw_hot": 316797,
-      "num": 316797,
-      "word": "ruler",
-      "onboard_time": 1684635027,
-      "rank": 15,
-      "category": "游戏"
     },
     {
       "raw_hot": 316715,
@@ -6363,6 +6395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309357,
+      "num": 309357,
+      "word": "刘昊然戛纳看周冬雨的眼神",
+      "onboard_time": 1684636468,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 309041,
       "num": 240347,
       "word": "苏杯定海神针石宇奇",
@@ -6449,6 +6489,14 @@
       "onboard_time": 1684423111,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 306029,
+      "num": 306029,
+      "word": "前男友跳楼女子被判补偿2万",
+      "onboard_time": 1684637308,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305996,
@@ -6649,14 +6697,6 @@
       "onboard_time": 1684574608,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 294139,
-      "num": 294139,
-      "word": "王俊凯易烊千玺或将参加这就是街舞6",
-      "onboard_time": 1684636529,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 293262,
@@ -7299,14 +7339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 265881,
-      "num": 265881,
-      "word": "女子入职1个月查出怀孕被辞退",
-      "onboard_time": 1684636529,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 265377,
       "num": 265377,
       "word": "徐静蕾方辟谣",
@@ -7369,6 +7401,14 @@
       "onboard_time": 1684239989,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 262191,
+      "num": 262191,
+      "word": "明星521营业照",
+      "onboard_time": 1684637789,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 262084,
@@ -7771,14 +7811,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 248865,
-      "num": 191013,
-      "word": "千里背母上大学的贵州孝子14年后现状",
-      "onboard_time": 1684635326,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247871,
       "num": 247871,
       "word": "街舞新领队或将是Lisa和RAIN",
@@ -7828,7 +7860,7 @@
     },
     {
       "raw_hot": 246130,
-      "num": 196011,
+      "num": 222566,
       "word": "千万别告诉杨迪沈月在自拍",
       "onboard_time": 1684631906,
       "rank": 25,
@@ -8369,6 +8401,14 @@
       "onboard_time": 1684626319,
       "rank": 24,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 230709,
+      "num": 209317,
+      "word": "掘金3比0湖人",
+      "onboard_time": 1684638869,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 230554,
@@ -9499,14 +9539,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 201132,
-      "num": 190564,
-      "word": "刘昊然戛纳看周冬雨的眼神",
-      "onboard_time": 1684636468,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 200863,
       "num": 200863,
       "word": "后浪扔外卖剧情是真的",
@@ -10113,6 +10145,14 @@
       "onboard_time": 1684166607,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 187432,
+      "num": 187432,
+      "word": "吴谢宇求生辩护公开",
+      "onboard_time": 1684637548,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187276,
@@ -11315,6 +11355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 160578,
+      "num": 216072,
+      "word": "生活哪个瞬间让你有同感",
+      "onboard_time": 1684637667,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160425,
       "num": 160425,
       "word": "周一",
@@ -11707,6 +11755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152086,
+      "num": 152086,
+      "word": "北京一居民家中起火好心邻居报警",
+      "onboard_time": 1684638148,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151982,
       "num": 150667,
       "word": "何超莲婚后首亮相",
@@ -11729,6 +11785,14 @@
       "onboard_time": 1684226851,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 150604,
+      "num": 150604,
+      "word": "刘惜君组五个人四种普通话",
+      "onboard_time": 1684637548,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 150457,
@@ -12627,6 +12691,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 128240,
+      "num": 128240,
+      "word": "给大熊猫当月嫂是什么体验",
+      "onboard_time": 1684638329,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128238,
       "num": 128238,
       "word": "这番话看似严厉实则温柔细语",
@@ -13139,6 +13211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 110226,
+      "num": 110226,
+      "word": "NBA西部决赛",
+      "onboard_time": 1684638749,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108758,
       "num": 189903,
       "word": "你的紧急联系人是谁",
@@ -13561,14 +13641,6 @@
       "onboard_time": 1684634667,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89421,
-      "num": 89421,
-      "word": "詹姆斯把裁判撞出血",
-      "onboard_time": 1684637188,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 89343,
