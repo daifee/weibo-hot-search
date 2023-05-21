@@ -1,0 +1,410 @@
+{
+  "runTime": 1684646111261,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1764738,
+        "num": 1764738,
+        "word": "黄老师",
+        "onboard_time": 1684644448,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1125722,
+        "num": 1125722,
+        "word": "事业单位",
+        "onboard_time": 1684641867,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 8215,
+        "num": 1104655,
+        "word": "中国有约",
+        "onboard_time": 1684565367,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1880349,
+        "num": 1098369,
+        "word": "Lisa比中指后的反应",
+        "onboard_time": 1684641208,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1084382,
+        "num": 1084382,
+        "word": "沈梦辰晒杜海涛520送花照",
+        "onboard_time": 1684643370,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1473483,
+        "num": 994706,
+        "word": "何赛飞",
+        "onboard_time": 1684632987,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 877330,
+        "num": 877330,
+        "word": "婴儿被亲友轮番亲吻高烧近40度",
+        "onboard_time": 1684634786,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 841094,
+        "num": 841094,
+        "word": "女子入职1个月查出怀孕被辞退",
+        "onboard_time": 1684636529,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 748496,
+        "num": 748496,
+        "word": "Angelababy怎么美成这样啊",
+        "onboard_time": 1684595730,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 748445,
+        "num": 748445,
+        "word": "王俊凯易烊千玺或将参加这就是街舞6",
+        "onboard_time": 1684636529,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478817,
+        "num": 478817,
+        "word": "黄老师520挖呀挖",
+        "onboard_time": 1684645051,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 424364,
+        "num": 424364,
+        "word": "女子被打用高跟鞋反击判3年赔20万",
+        "onboard_time": 1684634308,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416395,
+        "num": 416395,
+        "word": "我国南海发现两处古代沉船",
+        "onboard_time": 1684639649,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408075,
+        "num": 408075,
+        "word": "你怎么看何赛飞为基层戏剧演员发声",
+        "onboard_time": 1684642468,
+        "rank": 13,
+        "category": "社会议题,艺人"
+      },
+      {
+        "raw_hot": 407219,
+        "num": 407219,
+        "word": "高三六班微信群牵出1.6亿赌博案",
+        "onboard_time": 1684623795,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 396529,
+        "num": 396529,
+        "word": "莫言 告诉你一个残忍的人际关系",
+        "onboard_time": 1684629925,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 392320,
+        "num": 392320,
+        "word": "大麦",
+        "onboard_time": 1684645351,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 381660,
+        "num": 381660,
+        "word": "黄渤倪妮新片拍摄现场发生事故",
+        "onboard_time": 1684634427,
+        "rank": 17,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 373091,
+        "num": 373091,
+        "word": "朱一龙戛纳拍照站C位",
+        "onboard_time": 1684643069,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 336060,
+        "num": 336060,
+        "word": "台湾坠亡男生身世被起底",
+        "onboard_time": 1684626261,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331547,
+        "num": 331547,
+        "word": "梁源喊话于文文粉丝",
+        "onboard_time": 1684639469,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1167257,
+        "num": 327596,
+        "word": "孕妇遭陌生男子猥亵后被打致耳聋",
+        "onboard_time": 1684640006,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323274,
+        "num": 323274,
+        "word": "周冬雨刘昊然红毯",
+        "onboard_time": 1684628965,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269540,
+        "num": 269540,
+        "word": "好多艺人去看了BLACKPINK演唱会",
+        "onboard_time": 1684597351,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 280603,
+        "num": 267398,
+        "word": "刘昊然戛纳看周冬雨的眼神",
+        "onboard_time": 1684636468,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 262762,
+        "num": 262762,
+        "word": "那吾克热 淘汰",
+        "onboard_time": 1684645112,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247878,
+        "num": 247878,
+        "word": "何赛飞怒批戏曲行业现状",
+        "onboard_time": 1684645951,
+        "rank": 26,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 241950,
+        "num": 241950,
+        "word": "赵丽颖工作室审美",
+        "onboard_time": 1684627163,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229310,
+        "num": 229310,
+        "word": "虐猫组织的魔爪伸向宠物店",
+        "onboard_time": 1684640966,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226729,
+        "num": 226729,
+        "word": "赵丽颖一字锁骨",
+        "onboard_time": 1684640066,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 423016,
+        "num": 226316,
+        "word": "日本牛郎 审美降级",
+        "onboard_time": 1684633108,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222945,
+        "num": 222945,
+        "word": "前男友跳楼女子被判补偿2万",
+        "onboard_time": 1684637308,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214484,
+        "num": 214484,
+        "word": "千里背母上大学的贵州孝子14年后现状",
+        "onboard_time": 1684635326,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213438,
+        "num": 213438,
+        "word": "傅菁回应穿婚纱的粉丝",
+        "onboard_time": 1684643729,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 213075,
+        "num": 213075,
+        "word": "王源巡演 抢票",
+        "onboard_time": 1684643312,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188983,
+        "num": 188983,
+        "word": "杭州现鸭屎香冰淇淋",
+        "onboard_time": 1684643370,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 186820,
+        "num": 186820,
+        "word": "ruler",
+        "onboard_time": 1684635027,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183293,
+        "num": 183293,
+        "word": "人脉说唱",
+        "onboard_time": 1684642888,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173753,
+        "num": 173753,
+        "word": "浙江事业单位",
+        "onboard_time": 1684645469,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 167565,
+        "num": 167565,
+        "word": "北京一小区半夜神秘敲墙声持续2年",
+        "onboard_time": 1684626200,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160977,
+        "num": 160977,
+        "word": "掘金3比0湖人",
+        "onboard_time": 1684638869,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155125,
+        "num": 155125,
+        "word": "雪莉的电影要播了",
+        "onboard_time": 1684598188,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133158,
+        "num": 133158,
+        "word": "詹姆斯把裁判撞出血",
+        "onboard_time": 1684637188,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129377,
+        "num": 129377,
+        "word": "张军波",
+        "onboard_time": 1684642350,
+        "rank": 43,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 127346,
+        "num": 127346,
+        "word": "千万别告诉杨迪沈月在自拍",
+        "onboard_time": 1684631906,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121358,
+        "num": 121358,
+        "word": "货车爆胎翻车路过吊车侠果断出手",
+        "onboard_time": 1684645531,
+        "rank": 45,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 116231,
+        "num": 116231,
+        "word": "吴谢宇求生辩护公开",
+        "onboard_time": 1684637548,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115981,
+        "num": 115981,
+        "word": "韩网",
+        "onboard_time": 1684598309,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113405,
+        "num": 113405,
+        "word": "为出席女儿成人礼盲人妈妈花500元改造",
+        "onboard_time": 1684639888,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109173,
+        "num": 109173,
+        "word": "酒席上爷爷给奶奶不停夹菜剥虾",
+        "onboard_time": 1684640066,
+        "rank": 49,
+        "category": "社会新闻,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国同中亚国家常来常往长旺长安#"
+    }
+  }
+}
