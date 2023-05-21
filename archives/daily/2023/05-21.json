@@ -1,6 +1,6 @@
 {
   "startTime": 1684599621121,
-  "endTime": 1684636700229,
+  "endTime": 1684637215732,
   "band_list": [
     {
       "raw_hot": 2289295,
@@ -9,6 +9,14 @@
       "onboard_time": 1684623795,
       "rank": 30,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2280819,
+      "num": 2280819,
+      "word": "何赛飞",
+      "onboard_time": 1684632987,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2214555,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1961358,
-      "num": 879494,
+      "num": 960229,
       "word": "台湾坠亡男生身世被起底",
       "onboard_time": 1684626261,
       "rank": 5,
@@ -35,12 +43,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1767994,
-      "num": 1767994,
-      "word": "何赛飞",
-      "onboard_time": 1684632987,
-      "rank": 4,
-      "category": "作品衍生"
+      "raw_hot": 1399816,
+      "num": 1399816,
+      "word": "婴儿被亲友轮番亲吻高烧近40度",
+      "onboard_time": 1684634786,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1388211,
@@ -64,14 +72,6 @@
       "word": "北京一小区半夜神秘敲墙声持续2年",
       "onboard_time": 1684626200,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1258337,
-      "num": 471974,
-      "word": "婴儿被亲友轮番亲吻高烧近40度",
-      "onboard_time": 1684634786,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 639145,
-      "num": 429138,
+      "num": 537560,
       "word": "总统亲自来提车",
       "onboard_time": 1684631607,
       "rank": 30,
@@ -179,20 +179,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 566599,
+      "num": 566599,
+      "word": "女子被打用高跟鞋反击判3年赔20万",
+      "onboard_time": 1684634308,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 560793,
       "num": 560793,
       "word": "欧阳靖没人选",
       "onboard_time": 1684592552,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 524403,
-      "num": 524403,
-      "word": "女子被打用高跟鞋反击判3年赔20万",
-      "onboard_time": 1684634308,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 513748,
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316797,
+      "num": 316797,
+      "word": "ruler",
+      "onboard_time": 1684635027,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 305377,
       "num": 305377,
       "word": "tabe二段跑",
@@ -355,12 +363,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 299932,
-      "num": 299932,
-      "word": "ruler",
-      "onboard_time": 1684635027,
-      "rank": 15,
-      "category": "游戏"
+      "raw_hot": 294139,
+      "num": 294139,
+      "word": "王俊凯易烊千玺或将参加这就是街舞6",
+      "onboard_time": 1684636529,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 282713,
@@ -387,6 +395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 265881,
+      "num": 265881,
+      "word": "女子入职1个月查出怀孕被辞退",
+      "onboard_time": 1684636529,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256707,
       "num": 256707,
       "word": "张雨绮复刻十年前戛纳红毯pose",
@@ -409,6 +425,14 @@
       "onboard_time": 1684591709,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248865,
+      "num": 191013,
+      "word": "千里背母上大学的贵州孝子14年后现状",
+      "onboard_time": 1684635326,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246130,
@@ -441,14 +465,6 @@
       "onboard_time": 1684633108,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 234488,
-      "num": 166067,
-      "word": "千里背母上大学的贵州孝子14年后现状",
-      "onboard_time": 1684635326,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 230778,
@@ -492,7 +508,7 @@
     },
     {
       "raw_hot": 212096,
-      "num": 193977,
+      "num": 195696,
       "word": "欧阳靖发博回应没人选",
       "onboard_time": 1684631906,
       "rank": 33,
@@ -513,6 +529,14 @@
       "onboard_time": 1684625359,
       "rank": 40,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 201132,
+      "num": 190564,
+      "word": "刘昊然戛纳看周冬雨的眼神",
+      "onboard_time": 1684636468,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200464,
@@ -545,6 +569,14 @@
       "onboard_time": 1684599209,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193097,
+      "num": 193097,
+      "word": "国际茶日",
+      "onboard_time": 1684636410,
+      "rank": 32,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 192356,
@@ -633,14 +665,6 @@
       "onboard_time": 1684632267,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160887,
-      "num": 160887,
-      "word": "国际茶日",
-      "onboard_time": 1684636410,
-      "rank": 32,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 160628,
@@ -747,14 +771,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 132683,
-      "num": 132683,
-      "word": "王俊凯易烊千玺或将参加这就是街舞6",
-      "onboard_time": 1684636529,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 130857,
       "num": 130857,
       "word": "穆雷投疯了",
@@ -795,28 +811,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123498,
-      "num": 123498,
-      "word": "女子入职1个月查出怀孕被辞退",
-      "onboard_time": 1684636529,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122384,
       "num": 135803,
       "word": "是我本人过520的方式",
       "onboard_time": 1684595552,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 118436,
-      "num": 118436,
-      "word": "刘昊然戛纳看周冬雨的眼神",
-      "onboard_time": 1684636468,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 110379,
@@ -843,6 +843,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 103193,
+      "num": 103193,
+      "word": "约基奇犯规",
+      "onboard_time": 1684636708,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93837,
       "num": 93837,
       "word": "张云雷杭州音乐节舞台照",
@@ -859,8 +867,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89421,
+      "num": 89421,
+      "word": "詹姆斯把裁判撞出血",
+      "onboard_time": 1684637188,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88359,
-      "num": 1361329,
+      "num": 1505188,
       "word": "谢谢温暖过我们的陌生人",
       "onboard_time": 1684595010,
       "rank": 2,
