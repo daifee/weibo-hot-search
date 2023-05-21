@@ -1,6 +1,6 @@
 {
   "startTime": 1684599621121,
-  "endTime": 1684672214916,
+  "endTime": 1684673161664,
   "band_list": [
     {
       "raw_hot": 2927414,
@@ -9,6 +9,14 @@
       "onboard_time": 1684632987,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2893317,
+      "num": 2893317,
+      "word": "陈晓连麦到赵丽颖头像的人",
+      "onboard_time": 1684671152,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 2660970,
@@ -49,14 +57,6 @@
       "onboard_time": 1684598309,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 2031574,
-      "num": 2031574,
-      "word": "陈晓连麦到赵丽颖头像的人",
-      "onboard_time": 1684671152,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1961358,
@@ -195,6 +195,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1188034,
+      "num": 1188034,
+      "word": "Angelababy何猷君何超欣同框",
+      "onboard_time": 1684664489,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1182426,
       "num": 1182426,
       "word": "硕士答辩看到一篇非常惊喜的论文",
@@ -211,20 +219,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1144059,
+      "num": 1144059,
+      "word": "奥莉 BLACKPINK演唱会",
+      "onboard_time": 1684670012,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1141545,
       "num": 987104,
       "word": "Angelababy怎么美成这样啊",
       "onboard_time": 1684595730,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1138598,
-      "num": 1138598,
-      "word": "Angelababy何猷君何超欣同框",
-      "onboard_time": 1684664489,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 1125722,
@@ -251,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1064965,
+      "num": 1064965,
+      "word": "贝克汉姆Angelababy拍广告",
+      "onboard_time": 1684671331,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1057360,
       "num": 1057360,
       "word": "哇唧唧哇",
@@ -273,14 +289,6 @@
       "onboard_time": 1684659749,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 971047,
-      "num": 971047,
-      "word": "奥莉 BLACKPINK演唱会",
-      "onboard_time": 1684670012,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 944745,
@@ -355,14 +363,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 714828,
-      "num": 568029,
-      "word": "贝克汉姆Angelababy拍广告",
-      "onboard_time": 1684671331,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 709861,
       "num": 709861,
       "word": "苏杯中国2比2日本",
@@ -401,6 +401,14 @@
       "onboard_time": 1684597289,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 661804,
+      "num": 661804,
+      "word": "网上很火但你却不懂的梗",
+      "onboard_time": 1684668809,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 643706,
@@ -475,20 +483,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 545683,
+      "num": 545683,
+      "word": "BLACKPINK演唱会",
+      "onboard_time": 1684672470,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 543908,
       "num": 487847,
       "word": "何赛飞怒批戏曲行业现状",
       "onboard_time": 1684645951,
       "rank": 26,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 542317,
-      "num": 542317,
-      "word": "网上很火但你却不懂的梗",
-      "onboard_time": 1684668809,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 537192,
@@ -515,8 +523,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 517078,
-      "num": 517078,
+      "raw_hot": 524407,
+      "num": 524407,
       "word": "张译 华表奖",
       "onboard_time": 1684670491,
       "rank": 15,
@@ -529,6 +537,14 @@
       "onboard_time": 1684624398,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 512205,
+      "num": 352201,
+      "word": "最食人间烟火色",
+      "onboard_time": 1684671029,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 507240,
@@ -545,6 +561,14 @@
       "onboard_time": 1684667790,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 503755,
+      "num": 331889,
+      "word": "最食人间烟火色取关了卢洋洋",
+      "onboard_time": 1684671390,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 495565,
@@ -635,14 +659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 441055,
-      "num": 313242,
-      "word": "最食人间烟火色",
-      "onboard_time": 1684671029,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 437380,
       "num": 437380,
       "word": "广州演唱会",
@@ -699,12 +715,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 397804,
+      "num": 320820,
+      "word": "宁安如梦",
+      "onboard_time": 1684672591,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 393337,
       "num": 317867,
       "word": "那为啥要排这种戏颁这种奖",
       "onboard_time": 1684666053,
       "rank": 30,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 389679,
+      "num": 241405,
+      "word": "王楚然和檀健次搭戏vs和杨洋搭戏",
+      "onboard_time": 1684672053,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 389349,
@@ -779,20 +811,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 365756,
-      "num": 253556,
-      "word": "最食人间烟火色取关了卢洋洋",
-      "onboard_time": 1684671390,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 364590,
       "num": 364590,
       "word": "千里背母上大学的贵州孝子14年后现状",
       "onboard_time": 1684635326,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 362024,
+      "num": 362024,
+      "word": "GALA LNG",
+      "onboard_time": 1684667189,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 358715,
@@ -931,14 +963,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 328391,
-      "num": 328391,
-      "word": "GALA LNG",
-      "onboard_time": 1684667189,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 319638,
       "num": 319638,
       "word": "黄磊向往的生活想办长桌宴",
@@ -1017,6 +1041,14 @@
       "onboard_time": 1684663048,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 294673,
+      "num": 221264,
+      "word": "王源来看李宇春演唱会",
+      "onboard_time": 1684672229,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 284097,
@@ -1235,6 +1267,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 233939,
+      "num": 227223,
+      "word": "时代少年团直播",
+      "onboard_time": 1684671871,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 233836,
+      "num": 233836,
+      "word": "美光产品影响我国国家安全",
+      "onboard_time": 1684672351,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230778,
       "num": 166951,
       "word": "复旦大学5月20日起对公众开放",
@@ -1275,14 +1323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 227223,
-      "num": 227223,
-      "word": "时代少年团直播",
-      "onboard_time": 1684671871,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 224438,
       "num": 224438,
       "word": "傅菁回应穿婚纱的粉丝",
@@ -1321,6 +1361,14 @@
       "onboard_time": 1684600589,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219354,
+      "num": 141907,
+      "word": "吴京出走半生归来仍是这张图",
+      "onboard_time": 1684672892,
+      "rank": 44,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 217482,
@@ -1385,6 +1433,14 @@
       "onboard_time": 1684664968,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201456,
+      "num": 240477,
+      "word": "青蛇在大学餐厅里闲逛",
+      "onboard_time": 1684668090,
+      "rank": 34,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 200975,
@@ -1465,14 +1521,6 @@
       "onboard_time": 1684662869,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 194349,
-      "num": 240477,
-      "word": "青蛇在大学餐厅里闲逛",
-      "onboard_time": 1684668090,
-      "rank": 34,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 193097,
@@ -1771,6 +1819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153716,
+      "num": 153716,
+      "word": "郭艾伦跳操",
+      "onboard_time": 1684672951,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152086,
       "num": 152086,
       "word": "北京一居民家中起火好心邻居报警",
@@ -1793,14 +1849,6 @@
       "onboard_time": 1684637548,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 150364,
-      "num": 150364,
-      "word": "王楚然和檀健次搭戏vs和杨洋搭戏",
-      "onboard_time": 1684672053,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 149786,
@@ -2267,6 +2315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 43732,
+      "num": 1460034,
+      "word": "用立体书打开国际茶日",
+      "onboard_time": 1684671991,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38077,
       "num": 38077,
       "word": "巴赫穆特",
@@ -2281,14 +2337,6 @@
       "onboard_time": 1684609094,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 10986,
-      "num": 1240192,
-      "word": "用立体书打开国际茶日",
-      "onboard_time": 1684671991,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8215,

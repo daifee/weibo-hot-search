@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684672214916,
+  "endTime": 1684673161664,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -505,6 +505,14 @@
       "onboard_time": 1683941127,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2893317,
+      "num": 2893317,
+      "word": "陈晓连麦到赵丽颖头像的人",
+      "onboard_time": 1684671152,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 2878992,
@@ -1545,14 +1553,6 @@
       "onboard_time": 1684226851,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2031574,
-      "num": 2031574,
-      "word": "陈晓连麦到赵丽颖头像的人",
-      "onboard_time": 1684671152,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 2031529,
@@ -4843,6 +4843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1188034,
+      "num": 1188034,
+      "word": "Angelababy何猷君何超欣同框",
+      "onboard_time": 1684664489,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1187493,
       "num": 1187493,
       "word": "易烊千玺这么热还穿内搭",
@@ -5099,6 +5107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1144059,
+      "num": 1144059,
+      "word": "奥莉 BLACKPINK演唱会",
+      "onboard_time": 1684670012,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1141545,
       "num": 987104,
       "word": "Angelababy怎么美成这样啊",
@@ -5145,14 +5161,6 @@
       "onboard_time": 1683602788,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1138598,
-      "num": 1138598,
-      "word": "Angelababy何猷君何超欣同框",
-      "onboard_time": 1684664489,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 1138226,
@@ -5617,6 +5625,14 @@
       "onboard_time": 1683794069,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1064965,
+      "num": 1064965,
+      "word": "贝克汉姆Angelababy拍广告",
+      "onboard_time": 1684671331,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1064088,
@@ -6273,14 +6289,6 @@
       "onboard_time": 1683256830,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 971047,
-      "num": 971047,
-      "word": "奥莉 BLACKPINK演唱会",
-      "onboard_time": 1684670012,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 968772,
@@ -8427,14 +8435,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 714828,
-      "num": 568029,
-      "word": "贝克汉姆Angelababy拍广告",
-      "onboard_time": 1684671331,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 714107,
       "num": 714107,
       "word": "徐怀钰说自己有愧疚感",
@@ -9121,6 +9121,14 @@
       "onboard_time": 1683159869,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 661804,
+      "num": 661804,
+      "word": "网上很火但你却不懂的梗",
+      "onboard_time": 1684668809,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 661362,
@@ -10995,6 +11003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 545683,
+      "num": 545683,
+      "word": "BLACKPINK演唱会",
+      "onboard_time": 1684672470,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 545353,
       "num": 545353,
       "word": "举报郑大教授女子称有两段流产后录音",
@@ -11105,14 +11121,6 @@
       "onboard_time": 1683953493,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 542317,
-      "num": 542317,
-      "word": "网上很火但你却不懂的梗",
-      "onboard_time": 1684668809,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 541678,
@@ -11547,6 +11555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 524407,
+      "num": 524407,
+      "word": "张译 华表奖",
+      "onboard_time": 1684670491,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 524364,
       "num": 524364,
       "word": "张杰唱三生三世回忆杀",
@@ -11755,14 +11771,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 517078,
-      "num": 517078,
-      "word": "张译 华表奖",
-      "onboard_time": 1684670491,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 516652,
       "num": 393056,
       "word": "肖战庄达菲版射雕为何值得期待",
@@ -11857,6 +11865,14 @@
       "onboard_time": 1682863651,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 512205,
+      "num": 352201,
+      "word": "最食人间烟火色",
+      "onboard_time": 1683418524,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 511979,
@@ -12064,6 +12080,14 @@
       "word": "护心排播咋想的",
       "onboard_time": 1683802227,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 503755,
+      "num": 331889,
+      "word": "最食人间烟火色取关了卢洋洋",
+      "onboard_time": 1684671390,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -13976,14 +14000,6 @@
       "word": "护心导演点赞拉踩长月烬明内容",
       "onboard_time": 1683862409,
       "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 441055,
-      "num": 313242,
-      "word": "最食人间烟火色",
-      "onboard_time": 1683418524,
-      "rank": 36,
       "category": "影视"
     },
     {
@@ -16107,6 +16123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 389679,
+      "num": 241405,
+      "word": "王楚然和檀健次搭戏vs和杨洋搭戏",
+      "onboard_time": 1684672053,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 389520,
       "num": 322278,
       "word": "iPhone15ProMax边框更窄",
@@ -17307,14 +17331,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 365756,
-      "num": 253556,
-      "word": "最食人间烟火色取关了卢洋洋",
-      "onboard_time": 1684671390,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 365483,
       "num": 365483,
       "word": "梓墨好能抗",
@@ -17529,6 +17545,14 @@
       "onboard_time": 1683193827,
       "rank": 4,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 362024,
+      "num": 362024,
+      "word": "GALA LNG",
+      "onboard_time": 1684667189,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 361568,
@@ -19521,14 +19545,6 @@
       "onboard_time": 1684303535,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 328391,
-      "num": 328391,
-      "word": "GALA LNG",
-      "onboard_time": 1684667189,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 328368,
@@ -21657,6 +21673,14 @@
       "onboard_time": 1683460890,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 294673,
+      "num": 221264,
+      "word": "王源来看李宇春演唱会",
+      "onboard_time": 1684672229,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 294655,
@@ -27211,12 +27235,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 233939,
+      "num": 227223,
+      "word": "时代少年团直播",
+      "onboard_time": 1684671871,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233930,
       "num": 233930,
       "word": "鞠婧祎wink自拍照",
       "onboard_time": 1683007108,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 233836,
+      "num": 233836,
+      "word": "美光产品影响我国国家安全",
+      "onboard_time": 1684672351,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233688,
@@ -27977,14 +28017,6 @@
       "onboard_time": 1683269733,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227223,
-      "num": 227223,
-      "word": "时代少年团直播",
-      "onboard_time": 1684671871,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 226929,
@@ -28809,6 +28841,14 @@
       "onboard_time": 1683200009,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 219354,
+      "num": 141907,
+      "word": "吴京出走半生归来仍是这张图",
+      "onboard_time": 1684672892,
+      "rank": 44,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 219305,
@@ -31067,6 +31107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201456,
+      "num": 240477,
+      "word": "青蛇在大学餐厅里闲逛",
+      "onboard_time": 1684668090,
+      "rank": 34,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 201447,
       "num": 201447,
       "word": "杨幂T锦绣五月刊封面",
@@ -32009,14 +32057,6 @@
       "onboard_time": 1684662869,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 194349,
-      "num": 240477,
-      "word": "青蛇在大学餐厅里闲逛",
-      "onboard_time": 1684668090,
-      "rank": 34,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 194335,
@@ -37395,6 +37435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153716,
+      "num": 153716,
+      "word": "郭艾伦跳操",
+      "onboard_time": 1684672951,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153638,
       "num": 153638,
       "word": "29岁女子因脑积水头大如外星人",
@@ -37865,14 +37913,6 @@
       "onboard_time": 1684296815,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 150364,
-      "num": 150364,
-      "word": "王楚然和檀健次搭戏vs和杨洋搭戏",
-      "onboard_time": 1684672053,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 150347,
@@ -44299,6 +44339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43732,
+      "num": 1460034,
+      "word": "用立体书打开国际茶日",
+      "onboard_time": 1684671991,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43683,
       "num": 47764,
       "word": "日本人到底在学些什么",
@@ -45001,14 +45049,6 @@
       "onboard_time": 1683921732,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 10986,
-      "num": 1240192,
-      "word": "用立体书打开国际茶日",
-      "onboard_time": 1684671991,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10792,
