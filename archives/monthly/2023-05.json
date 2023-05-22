@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684748028090,
+  "endTime": 1684750711236,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -2699,6 +2699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1645944,
+      "num": 1645944,
+      "word": "刘亚仁男友潜逃海外失败",
+      "onboard_time": 1684746570,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1645310,
       "num": 1645310,
       "word": "上淄博公厕配肠炎宁片和卫生巾",
@@ -2929,14 +2937,6 @@
       "onboard_time": 1683093867,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1595634,
-      "num": 1595634,
-      "word": "刘亚仁男友潜逃海外失败",
-      "onboard_time": 1684746570,
-      "rank": 11,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1595258,
@@ -3321,6 +3321,14 @@
       "onboard_time": 1684425509,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1517023,
+      "num": 1517023,
+      "word": "我爸突然告诉了我家中存款",
+      "onboard_time": 1684748548,
+      "rank": 3,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 1515573,
@@ -5145,6 +5153,14 @@
       "onboard_time": 1683947426,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1167337,
+      "num": 1167337,
+      "word": "宋佳的手套竟然是个包",
+      "onboard_time": 1684746630,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1166639,
@@ -7196,7 +7212,7 @@
     },
     {
       "raw_hot": 876175,
-      "num": 645271,
+      "num": 738837,
       "word": "过期糖",
       "onboard_time": 1684738823,
       "rank": 14,
@@ -7385,14 +7401,6 @@
       "onboard_time": 1684563446,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 847019,
-      "num": 635217,
-      "word": "宋佳的手套竟然是个包",
-      "onboard_time": 1684746630,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 845822,
@@ -11299,6 +11307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 552488,
+      "num": 552488,
+      "word": "胡锡进称百度应正视网友意见",
+      "onboard_time": 1684749748,
+      "rank": 14,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 551625,
       "num": 531551,
       "word": "王鹤棣坐直升机空降",
@@ -12859,6 +12875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 490702,
+      "num": 334315,
+      "word": "顶级东方美貌",
+      "onboard_time": 1684747470,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 490447,
       "num": 490447,
       "word": "亦卷古月 停更",
@@ -13561,6 +13585,14 @@
       "onboard_time": 1682950952,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 468244,
+      "num": 332021,
+      "word": "20岁我妈给我生了个弟弟",
+      "onboard_time": 1684748489,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 468000,
@@ -17667,6 +17699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 372596,
+      "num": 372596,
+      "word": "小慧君巧乐兹夫妇已成被执行人",
+      "onboard_time": 1684749209,
+      "rank": 18,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 372501,
       "num": 372501,
       "word": "韩国人有自己的台风蜕变之战",
@@ -19977,6 +20017,14 @@
       "onboard_time": 1684329994,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 334416,
+      "num": 334416,
+      "word": "适合离职用的头像",
+      "onboard_time": 1684748972,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 334295,
@@ -24267,6 +24315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 273353,
+      "num": 1529083,
+      "word": "山东脑瘫诗人每天创作8小时以上",
+      "onboard_time": 1684749029,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273308,
       "num": 273308,
       "word": "cp30",
@@ -27235,6 +27291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242589,
+      "num": 242589,
+      "word": "李显龙感染新冠",
+      "onboard_time": 1684747890,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242542,
       "num": 242542,
       "word": "易烊千玺多部作品提名华表奖",
@@ -28555,6 +28619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 232300,
+      "num": 232300,
+      "word": "外交部回应G7指责中国快速扩张核武库",
+      "onboard_time": 1684745670,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232296,
       "num": 232296,
       "word": "安九",
@@ -28713,6 +28785,14 @@
       "onboard_time": 1683840972,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231185,
+      "num": 231185,
+      "word": "Angelababy澳门与路人合照",
+      "onboard_time": 1684746151,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 231040,
@@ -29625,14 +29705,6 @@
       "onboard_time": 1683076049,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 222601,
-      "num": 222601,
-      "word": "Angelababy澳门与路人合照",
-      "onboard_time": 1684746151,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 222501,
@@ -32179,6 +32251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202943,
+      "num": 202943,
+      "word": "柬埔寨女演员拄拐走戛纳红毯",
+      "onboard_time": 1684749929,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202919,
       "num": 202919,
       "word": "你见过最稀有的姓氏是什么",
@@ -32193,6 +32273,14 @@
       "onboard_time": 1684586128,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 202895,
+      "num": 202895,
+      "word": "bills",
+      "onboard_time": 1684750413,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 202887,
@@ -32579,14 +32667,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 199940,
-      "num": 199940,
-      "word": "顶级东方美貌",
-      "onboard_time": 1684747470,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 199908,
       "num": 199908,
       "word": "黄子华的脱口秀",
@@ -32689,6 +32769,14 @@
       "onboard_time": 1682984422,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198898,
+      "num": 198898,
+      "word": "韩媒为造谣吴世勋道歉",
+      "onboard_time": 1684750229,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 198879,
@@ -33353,14 +33441,6 @@
       "onboard_time": 1684473272,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 194533,
-      "num": 194533,
-      "word": "李显龙感染新冠",
-      "onboard_time": 1684747890,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194521,
@@ -40827,6 +40907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139339,
+      "num": 139339,
+      "word": "找到了拿捏男友最简单的方式",
+      "onboard_time": 1684748910,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139250,
       "num": 139250,
       "word": "Cat入选春季赛第二阵容",
@@ -41001,6 +41089,14 @@
       "onboard_time": 1684577126,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137874,
+      "num": 1355606,
+      "word": "58岁民警徒手爬楼救下悬立窗外老人",
+      "onboard_time": 1684749029,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137575,
@@ -41433,6 +41529,14 @@
       "onboard_time": 1683165328,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132931,
+      "num": 132931,
+      "word": "世界卫生大会拒绝涉台提案",
+      "onboard_time": 1684749628,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132898,
@@ -42737,6 +42841,14 @@
       "onboard_time": 1684558947,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 120509,
+      "num": 1193681,
+      "word": "谢谢你刘素琴",
+      "onboard_time": 1684744529,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120486,
@@ -45929,6 +46041,14 @@
       "onboard_time": 1682916449,
       "rank": 27,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 51343,
+      "num": 124499,
+      "word": "EDGM和WB一起点亮星星",
+      "onboard_time": 1684748489,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 51061,
