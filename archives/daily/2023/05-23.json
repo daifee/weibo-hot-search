@@ -1,6 +1,6 @@
 {
   "startTime": 1684772522563,
-  "endTime": 1684794829759,
+  "endTime": 1684797414416,
   "band_list": [
     {
       "raw_hot": 2585058,
@@ -19,8 +19,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 878787,
-      "num": 878787,
+      "raw_hot": 990454,
+      "num": 990454,
       "word": "俄方证实乌军攻入俄境内",
       "onboard_time": 1684767150,
       "rank": 0,
@@ -163,20 +163,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290111,
+      "num": 290111,
+      "word": "8年间多次猥亵幼女男子登报道歉",
+      "onboard_time": 1684779254,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281462,
       "num": 281462,
       "word": "你猜这花为什么不发朋友圈",
       "onboard_time": 1684762051,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 261565,
-      "num": 261565,
-      "word": "8年间多次猥亵幼女男子登报道歉",
-      "onboard_time": 1684779254,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 250500,
@@ -211,6 +211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 201683,
+      "num": 201683,
+      "word": "宠物猫被邻居高空扔下活活摔死",
+      "onboard_time": 1684773263,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187354,
       "num": 153440,
       "word": "招摇2.0",
@@ -243,6 +251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171180,
+      "num": 145819,
+      "word": "AI换脸用杨幂等明星卖货或涉侵权",
+      "onboard_time": 1684764031,
+      "rank": 29,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 169239,
       "num": 143676,
       "word": "朴彩英生图",
@@ -259,20 +275,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162077,
-      "num": 91911,
-      "word": "宠物猫被邻居高空扔下活活摔死",
-      "onboard_time": 1684773263,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 153114,
+      "num": 134926,
+      "word": "十年前的婚纱照不要太离谱",
+      "onboard_time": 1684768051,
+      "rank": 37,
+      "category": "情感,幽默"
     },
     {
-      "raw_hot": 145819,
-      "num": 145819,
-      "word": "AI换脸用杨幂等明星卖货或涉侵权",
-      "onboard_time": 1684764031,
-      "rank": 29,
-      "category": "社会新闻,艺人"
+      "raw_hot": 151818,
+      "num": 151818,
+      "word": "起猛了看到婴儿会飞",
+      "onboard_time": 1684763310,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 143116,
@@ -307,28 +323,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 134926,
-      "num": 134926,
-      "word": "十年前的婚纱照不要太离谱",
-      "onboard_time": 1684768051,
-      "rank": 37,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 133852,
       "num": 133852,
       "word": "中国科学家养的牛在海底打231米钻孔",
       "onboard_time": 1684769552,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126332,
-      "num": 117972,
-      "word": "起猛了看到婴儿会飞",
-      "onboard_time": 1684763310,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 119121,
@@ -347,6 +347,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 112717,
+      "num": 112717,
+      "word": "湛江当街杀人男子判死刑当庭上诉",
+      "onboard_time": 1684788732,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111729,
+      "num": 111729,
+      "word": "男子回应高速上拿矿泉水帮货车灭火",
+      "onboard_time": 1684796597,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109068,
       "num": 109068,
       "word": "这婚纱照新娘有点多余了",
@@ -361,6 +377,14 @@
       "onboard_time": 1684758927,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99314,
+      "num": 99314,
+      "word": "深圳暴雨",
+      "onboard_time": 1684796961,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98734,
@@ -395,12 +419,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 89901,
-      "num": 51816,
-      "word": "湛江当街杀人男子判死刑当庭上诉",
-      "onboard_time": 1684788732,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 94928,
+      "num": 94928,
+      "word": "东野圭吾比喻明知不可能的爱",
+      "onboard_time": 1684786992,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 88967,
@@ -411,6 +435,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 86343,
+      "num": 86343,
+      "word": "国泰航空致歉",
+      "onboard_time": 1684797020,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82711,
       "num": 94022,
       "word": "TTG",
@@ -419,12 +451,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 79378,
-      "num": 79378,
-      "word": "东野圭吾比喻明知不可能的爱",
-      "onboard_time": 1684786992,
-      "rank": 33,
-      "category": "情感"
+      "raw_hot": 80437,
+      "num": 80437,
+      "word": "马思纯说今天没我戏出门找乐子",
+      "onboard_time": 1684796297,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 70779,
@@ -443,6 +475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 61040,
+      "num": 61040,
+      "word": "娜扎回家乡live图",
+      "onboard_time": 1684795036,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 54469,
       "num": 93779,
       "word": "KPL抽签",
@@ -459,12 +499,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 36647,
-      "num": 36647,
+      "raw_hot": 45426,
+      "num": 45426,
       "word": "汪苏泷在大王婚礼唱歌又忘词了",
       "onboard_time": 1684787232,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 32308,
+      "num": 671817,
+      "word": "我国启动2023年珠峰综合科学考察",
+      "onboard_time": 1684760549,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31647,
+      "num": 37361,
+      "word": "牛奶大馒头做法",
+      "onboard_time": 1684796660,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 28290,
@@ -481,14 +537,6 @@
       "onboard_time": 1684656628,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 25309,
-      "num": 671817,
-      "word": "我国启动2023年珠峰综合科学考察",
-      "onboard_time": 1684760549,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21546,
