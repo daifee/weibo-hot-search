@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684797414416,
+  "endTime": 1684798422488,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -227,6 +227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1143736,
+      "num": 1143736,
+      "word": "俄方证实乌军攻入俄境内",
+      "onboard_time": 1684767150,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1098545,
       "num": 738837,
       "word": "过期糖",
@@ -257,14 +265,6 @@
       "onboard_time": 1684671152,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 990454,
-      "num": 990454,
-      "word": "俄方证实乌军攻入俄境内",
-      "onboard_time": 1684767150,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 974200,
@@ -1083,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 332064,
+      "num": 332064,
+      "word": "国泰航空致歉",
+      "onboard_time": 1684797020,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327089,
       "num": 292200,
       "word": "小县城相亲有多难",
@@ -1299,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284600,
+      "num": 284600,
+      "word": "你猜这花为什么不发朋友圈",
+      "onboard_time": 1684762051,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 283128,
       "num": 283128,
       "word": "母胎单身很难开始一段恋情吗",
@@ -1320,14 +1336,6 @@
       "word": "白桃星座",
       "onboard_time": 1684680213,
       "rank": 15,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 281462,
-      "num": 281462,
-      "word": "你猜这花为什么不发朋友圈",
-      "onboard_time": 1684762051,
-      "rank": 46,
       "category": "情感"
     },
     {
@@ -1665,6 +1673,14 @@
       "onboard_time": 1684729413,
       "rank": 34,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 231970,
+      "num": 231970,
+      "word": "深圳暴雨",
+      "onboard_time": 1684796961,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231419,
@@ -2371,6 +2387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 153455,
+      "num": 153455,
+      "word": "男子回应高速上拿矿泉水帮货车灭火",
+      "onboard_time": 1684796597,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153158,
       "num": 256932,
       "word": "一群人在悬崖绝壁保护植物界大熊猫",
@@ -2425,6 +2449,22 @@
       "onboard_time": 1684735947,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146777,
+      "num": 119796,
+      "word": "教育局回应下雨天学校不到点不开门",
+      "onboard_time": 1684798042,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 142321,
+      "num": 119730,
+      "word": "丰田再次呼吁不要过早放弃燃油车",
+      "onboard_time": 1684797802,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141491,
@@ -2531,6 +2571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130112,
+      "num": 130112,
+      "word": "马思纯说今天没我戏出门找乐子",
+      "onboard_time": 1684796297,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128005,
       "num": 128005,
       "word": "Jennie出发戛纳",
@@ -2579,12 +2627,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120105,
+      "num": 120105,
+      "word": "合肥20万个岗位供您选",
+      "onboard_time": 1684798042,
+      "rank": 29,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 119925,
       "num": 119925,
       "word": "钟意挂牌",
       "onboard_time": 1684752807,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 119661,
+      "num": 119661,
+      "word": "湛江当街杀人男子判死刑当庭上诉",
+      "onboard_time": 1684788732,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117199,
@@ -2619,28 +2683,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112717,
-      "num": 112717,
-      "word": "湛江当街杀人男子判死刑当庭上诉",
-      "onboard_time": 1684788732,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112244,
       "num": 112244,
       "word": "梁静茹521再分手一次",
       "onboard_time": 1684681772,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 111729,
-      "num": 111729,
-      "word": "男子回应高速上拿矿泉水帮货车灭火",
-      "onboard_time": 1684796597,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109324,
@@ -2675,14 +2723,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 99314,
-      "num": 99314,
-      "word": "深圳暴雨",
-      "onboard_time": 1684796961,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98734,
       "num": 57414,
       "word": "男子猥亵幼女因超时效不负刑责",
@@ -2697,6 +2737,14 @@
       "onboard_time": 1684720109,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 96774,
+      "num": 96774,
+      "word": "如何正确看待断崖式分手",
+      "onboard_time": 1684797923,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 96681,
@@ -2755,28 +2803,12 @@
       "category": "美妆,音乐"
     },
     {
-      "raw_hot": 86343,
-      "num": 86343,
-      "word": "国泰航空致歉",
-      "onboard_time": 1684797020,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 82475,
       "num": 1562085,
       "word": "今天国际生物多样性日",
       "onboard_time": 1684726647,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80437,
-      "num": 80437,
-      "word": "马思纯说今天没我戏出门找乐子",
-      "onboard_time": 1684796297,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 74350,
@@ -2883,6 +2915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47000,
+      "num": 69698,
+      "word": "牛奶大馒头做法",
+      "onboard_time": 1684796660,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 45426,
       "num": 45426,
       "word": "汪苏泷在大王婚礼唱歌又忘词了",
@@ -2905,14 +2945,6 @@
       "onboard_time": 1684692375,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 31647,
-      "num": 37361,
-      "word": "牛奶大馒头做法",
-      "onboard_time": 1684796660,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 28838,

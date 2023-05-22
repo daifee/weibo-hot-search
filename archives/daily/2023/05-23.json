@@ -1,6 +1,6 @@
 {
   "startTime": 1684772522563,
-  "endTime": 1684797414416,
+  "endTime": 1684798422488,
   "band_list": [
     {
       "raw_hot": 2585058,
@@ -19,8 +19,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 990454,
-      "num": 990454,
+      "raw_hot": 1143736,
+      "num": 1143736,
       "word": "俄方证实乌军攻入俄境内",
       "onboard_time": 1684767150,
       "rank": 0,
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 332064,
+      "num": 332064,
+      "word": "国泰航空致歉",
+      "onboard_time": 1684797020,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328497,
       "num": 328497,
       "word": "陈乔恩说听说全国观众都知道我喝大了",
@@ -129,6 +137,14 @@
       "onboard_time": 1684769488,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 316851,
+      "num": 320793,
+      "word": "戛纳电影节 假血",
+      "onboard_time": 1684763012,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 311027,
@@ -155,14 +171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 296508,
-      "num": 320793,
-      "word": "戛纳电影节 假血",
-      "onboard_time": 1684763012,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 290111,
       "num": 290111,
       "word": "8年间多次猥亵幼女男子登报道歉",
@@ -171,8 +179,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 281462,
-      "num": 281462,
+      "raw_hot": 284600,
+      "num": 284600,
       "word": "你猜这花为什么不发朋友圈",
       "onboard_time": 1684762051,
       "rank": 17,
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231970,
+      "num": 231970,
+      "word": "深圳暴雨",
+      "onboard_time": 1684796961,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224720,
       "num": 156810,
       "word": "张雨绮也有撑伞神图了",
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 213830,
-      "num": 155529,
+      "num": 156744,
       "word": "你可以接受婚前同居吗",
       "onboard_time": 1684761929,
       "rank": 24,
@@ -217,6 +233,14 @@
       "onboard_time": 1684773263,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191114,
+      "num": 155173,
+      "word": "AI换脸用杨幂等明星卖货或涉侵权",
+      "onboard_time": 1684764031,
+      "rank": 29,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 187354,
@@ -251,12 +275,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 171180,
-      "num": 145819,
-      "word": "AI换脸用杨幂等明星卖货或涉侵权",
-      "onboard_time": 1684764031,
-      "rank": 29,
-      "category": "社会新闻,艺人"
+      "raw_hot": 169634,
+      "num": 169634,
+      "word": "起猛了看到婴儿会飞",
+      "onboard_time": 1684763310,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 169239,
@@ -267,6 +291,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 165273,
+      "num": 154193,
+      "word": "十年前的婚纱照不要太离谱",
+      "onboard_time": 1684768051,
+      "rank": 37,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 162520,
       "num": 162520,
       "word": "徐州一餐厅被吐槽优先安排外国人",
@@ -275,20 +307,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153114,
-      "num": 134926,
-      "word": "十年前的婚纱照不要太离谱",
-      "onboard_time": 1684768051,
-      "rank": 37,
-      "category": "情感,幽默"
+      "raw_hot": 153455,
+      "num": 153455,
+      "word": "男子回应高速上拿矿泉水帮货车灭火",
+      "onboard_time": 1684796597,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 151818,
-      "num": 151818,
-      "word": "起猛了看到婴儿会飞",
-      "onboard_time": 1684763310,
-      "rank": 40,
-      "category": "作品衍生"
+      "raw_hot": 146777,
+      "num": 119796,
+      "word": "教育局回应下雨天学校不到点不开门",
+      "onboard_time": 1684798042,
+      "rank": 31,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 143116,
@@ -297,6 +329,14 @@
       "onboard_time": 1684749209,
       "rank": 33,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 142321,
+      "num": 119730,
+      "word": "丰田再次呼吁不要过早放弃燃油车",
+      "onboard_time": 1684797802,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139439,
@@ -331,6 +371,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130112,
+      "num": 130112,
+      "word": "马思纯说今天没我戏出门找乐子",
+      "onboard_time": 1684796297,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 120105,
+      "num": 120105,
+      "word": "合肥20万个岗位供您选",
+      "onboard_time": 1684798042,
+      "rank": 29,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 119661,
+      "num": 119661,
+      "word": "湛江当街杀人男子判死刑当庭上诉",
+      "onboard_time": 1684788732,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119121,
       "num": 119121,
       "word": "母胎单身很难开始一段恋情吗",
@@ -347,22 +411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 112717,
-      "num": 112717,
-      "word": "湛江当街杀人男子判死刑当庭上诉",
-      "onboard_time": 1684788732,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111729,
-      "num": 111729,
-      "word": "男子回应高速上拿矿泉水帮货车灭火",
-      "onboard_time": 1684796597,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109068,
       "num": 109068,
       "word": "这婚纱照新娘有点多余了",
@@ -377,14 +425,6 @@
       "onboard_time": 1684758927,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 99314,
-      "num": 99314,
-      "word": "深圳暴雨",
-      "onboard_time": 1684796961,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98734,
@@ -411,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 96774,
+      "num": 96774,
+      "word": "如何正确看待断崖式分手",
+      "onboard_time": 1684797923,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 96681,
       "num": 96681,
       "word": "中国最美木棉王就在广州",
@@ -435,28 +483,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 86343,
-      "num": 86343,
-      "word": "国泰航空致歉",
-      "onboard_time": 1684797020,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 82711,
       "num": 94022,
       "word": "TTG",
       "onboard_time": 1684767451,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 80437,
-      "num": 80437,
-      "word": "马思纯说今天没我戏出门找乐子",
-      "onboard_time": 1684796297,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 70779,
@@ -499,6 +531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 47000,
+      "num": 69698,
+      "word": "牛奶大馒头做法",
+      "onboard_time": 1684796660,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 45426,
       "num": 45426,
       "word": "汪苏泷在大王婚礼唱歌又忘词了",
@@ -507,20 +547,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32308,
+      "raw_hot": 40523,
       "num": 671817,
       "word": "我国启动2023年珠峰综合科学考察",
       "onboard_time": 1684760549,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31647,
-      "num": 37361,
-      "word": "牛奶大馒头做法",
-      "onboard_time": 1684796660,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 28290,
