@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684729225147,
+  "endTime": 1684730050820,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -27,24 +27,32 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2298365,
-      "num": 577652,
+      "raw_hot": 2771367,
+      "num": 614936,
       "word": "陈大事",
       "onboard_time": 1684722387,
       "rank": 27,
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1788200,
+      "num": 1788200,
+      "word": "钟南山称6月底或是今年疫情高峰",
+      "onboard_time": 1684727970,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1765440,
-      "num": 546470,
+      "num": 610982,
       "word": "英首相宣称中国是全球最大安全挑战",
       "onboard_time": 1684723108,
       "rank": 48,
       "category": "国内要闻"
     },
     {
-      "raw_hot": 1428990,
-      "num": 1428990,
+      "raw_hot": 1617302,
+      "num": 1617302,
       "word": "AI诈骗正在全国爆发",
       "onboard_time": 1684726949,
       "rank": 0,
@@ -75,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1271062,
+      "num": 1271062,
+      "word": "程潇腿骨折也去看了BLACKPINK演唱会",
+      "onboard_time": 1684728330,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1179784,
       "num": 1179784,
       "word": "盖茨再爆婚外情",
@@ -89,14 +105,6 @@
       "onboard_time": 1684671152,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 996530,
-      "num": 518389,
-      "word": "钟南山称6月底或是今年疫情高峰",
-      "onboard_time": 1684727970,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 974200,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 883616,
-      "num": 830600,
+      "num": 875004,
       "word": "谁给海清做的妆造",
       "onboard_time": 1684724308,
       "rank": 17,
@@ -155,8 +163,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 754307,
+      "num": 605110,
+      "word": "没睡过8个小时的人",
+      "onboard_time": 1684728690,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 710156,
-      "num": 502754,
+      "num": 603245,
       "word": "孙吧",
       "onboard_time": 1684726589,
       "rank": 16,
@@ -219,15 +235,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 580052,
-      "num": 580052,
-      "word": "程潇腿骨折也去看了BLACKPINK演唱会",
-      "onboard_time": 1684728330,
-      "rank": 9,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 573855,
+      "raw_hot": 576894,
       "num": 393933,
       "word": "小学同学因为结婚连加我5次",
       "onboard_time": 1684724787,
@@ -265,6 +273,14 @@
       "onboard_time": 1684676252,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453240,
+      "num": 453240,
+      "word": "悄悄拍了同学1000多张照片",
+      "onboard_time": 1684726827,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 449764,
@@ -307,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391984,
+      "num": 273068,
+      "word": "陈大事称舆论的背后也许是资本",
+      "onboard_time": 1684728812,
+      "rank": 33,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 390606,
       "num": 390606,
       "word": "JDG夺冠",
@@ -321,6 +345,22 @@
       "onboard_time": 1684710018,
       "rank": 20,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 382354,
+      "num": 382354,
+      "word": "手机真的会偷听吗",
+      "onboard_time": 1684727850,
+      "rank": 22,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 379005,
+      "num": 379005,
+      "word": "迪丽热巴的肩颈线",
+      "onboard_time": 1684729294,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 375953,
@@ -339,12 +379,12 @@
       "category": "幽默,音乐"
     },
     {
-      "raw_hot": 368779,
-      "num": 368779,
-      "word": "手机真的会偷听吗",
-      "onboard_time": 1684727850,
-      "rank": 22,
-      "category": "科技"
+      "raw_hot": 374637,
+      "num": 273039,
+      "word": "屈楚萧没去戛纳又好像去了",
+      "onboard_time": 1684728391,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 366525,
@@ -371,20 +411,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 346472,
-      "num": 231632,
-      "word": "屈楚萧没去戛纳又好像去了",
-      "onboard_time": 1684728391,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 342938,
-      "num": 394104,
-      "word": "悄悄拍了同学1000多张照片",
-      "onboard_time": 1684726827,
-      "rank": 19,
-      "category": "情感"
+      "raw_hot": 346123,
+      "num": 346123,
+      "word": "13岁少女被邻居性侵4名嫌疑人被抓",
+      "onboard_time": 1684728930,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336063,
@@ -427,6 +459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 322583,
+      "num": 322583,
+      "word": "刘诗诗何超莲合照",
+      "onboard_time": 1684729052,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321022,
       "num": 321022,
       "word": "孙灏羽将继续起诉小慧君巧乐兹夫妇",
@@ -441,6 +481,14 @@
       "onboard_time": 1684710319,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312617,
+      "num": 272979,
+      "word": "杨幂谈演员的打碎与重组",
+      "onboard_time": 1684729531,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 310394,
@@ -499,14 +547,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 286025,
-      "num": 229117,
-      "word": "没睡过8个小时的人",
-      "onboard_time": 1684728690,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 281573,
       "num": 281573,
       "word": "白桃星座",
@@ -521,6 +561,14 @@
       "onboard_time": 1684681531,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 267779,
+      "num": 267779,
+      "word": "高圆圆赵又廷带女儿现身机场",
+      "onboard_time": 1684729653,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 260673,
@@ -555,6 +603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 258033,
+      "num": 258033,
+      "word": "你离职时公司有挽留你吗",
+      "onboard_time": 1684728450,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 245421,
       "num": 245421,
       "word": "袁隆平离世2周年",
@@ -563,20 +619,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 244930,
-      "num": 224504,
-      "word": "陈大事称舆论的背后也许是资本",
-      "onboard_time": 1684728812,
-      "rank": 33,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 242674,
       "num": 242674,
       "word": "刘恋",
       "onboard_time": 1684665328,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242542,
+      "num": 242542,
+      "word": "易烊千玺多部作品提名华表奖",
+      "onboard_time": 1684729894,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 240356,
@@ -651,6 +707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 232122,
+      "num": 267924,
+      "word": "桂林371所学校因暴雨停课",
+      "onboard_time": 1684729413,
+      "rank": 34,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 231419,
       "num": 231419,
       "word": "这个周一看熊猫",
@@ -699,14 +763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223333,
-      "num": 223333,
-      "word": "你离职时公司有挽留你吗",
-      "onboard_time": 1684728450,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 220406,
       "num": 220406,
       "word": "LPL夏季赛",
@@ -715,28 +771,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 220329,
-      "num": 220329,
-      "word": "13岁少女被邻居性侵4名嫌疑人被抓",
-      "onboard_time": 1684728930,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 218469,
       "num": 218469,
       "word": "这届90后是懂带娃的",
       "onboard_time": 1684721727,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 218236,
-      "num": 218236,
-      "word": "刘诗诗何超莲合照",
-      "onboard_time": 1684729052,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 214620,
@@ -755,19 +795,27 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 213271,
+      "num": 213271,
+      "word": "618",
+      "onboard_time": 1684729171,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208182,
+      "num": 208182,
+      "word": "莫名其妙被朋友删除好友了",
+      "onboard_time": 1684728990,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207519,
       "num": 207519,
       "word": "大学毕业后还会和室友联系吗",
       "onboard_time": 1684717468,
       "rank": 33,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 206804,
-      "num": 206804,
-      "word": "莫名其妙被朋友删除好友了",
-      "onboard_time": 1684728990,
-      "rank": 42,
       "category": "情感"
     },
     {
@@ -843,14 +891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191378,
-      "num": 191378,
-      "word": "618",
-      "onboard_time": 1684729171,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190163,
       "num": 190163,
       "word": "海清戛纳红毯",
@@ -915,6 +955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179116,
+      "num": 608434,
+      "word": "2023流行趋势是双生双色",
+      "onboard_time": 1684728213,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178312,
       "num": 178312,
       "word": "高速上冒险救人的原来是00后",
@@ -960,14 +1008,6 @@
       "word": "袁隆平罕见哽咽画面首次曝光",
       "onboard_time": 1684714467,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171796,
-      "num": 226776,
-      "word": "2023流行趋势是双生双色",
-      "onboard_time": 1684728213,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1212,7 +1252,7 @@
     },
     {
       "raw_hot": 82475,
-      "num": 833453,
+      "num": 1562085,
       "word": "今天国际生物多样性日",
       "onboard_time": 1684726647,
       "rank": 2,
@@ -1313,6 +1353,9 @@
     },
     {
       "word": "#关注2023中国中亚五国峰会#"
+    },
+    {
+      "word": "#既要无障碍也要更有爱#"
     }
   ]
 }
