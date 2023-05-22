@@ -1,0 +1,410 @@
+{
+  "runTime": 1684718854057,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3295424,
+        "num": 3295424,
+        "word": "文殊菩萨",
+        "onboard_time": 1684717170,
+        "rank": 0,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 3185749,
+        "num": 3185749,
+        "word": "法院认定小慧君虚构性骚扰",
+        "onboard_time": 1684714107,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 48757,
+        "num": 1760764,
+        "word": "用立体书打开国际茶日",
+        "onboard_time": 1684671991,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1313388,
+        "num": 1313388,
+        "word": "水果摊无人看守30箱香蕉被抢光",
+        "onboard_time": 1684679673,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 826136,
+        "num": 826136,
+        "word": "王诗龄520收到巨型玫瑰熊",
+        "onboard_time": 1684677868,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 797438,
+        "num": 797438,
+        "word": "当你叫了个外卖被同事问",
+        "onboard_time": 1684710080,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 786165,
+        "num": 786165,
+        "word": "苏醒说希望半夜不要再有人来接机了",
+        "onboard_time": 1684715425,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 766268,
+        "num": 766268,
+        "word": "刘诗诗东方美貌",
+        "onboard_time": 1684711520,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 668322,
+        "num": 668322,
+        "word": "全红婵水花 物理学不存在了",
+        "onboard_time": 1684682013,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 608804,
+        "num": 608804,
+        "word": "周冬雨刘昊然在燃冬里有床戏",
+        "onboard_time": 1684678711,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 902643,
+        "num": 590482,
+        "word": "恩静",
+        "onboard_time": 1684714647,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 529153,
+        "num": 529153,
+        "word": "陈晓连麦到赵丽颖头像的人",
+        "onboard_time": 1684671152,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416489,
+        "num": 416489,
+        "word": "水电工人被射钉枪击中头部身亡",
+        "onboard_time": 1684676252,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442375,
+        "num": 395066,
+        "word": "2013的赵丽颖VS2023的赵丽颖",
+        "onboard_time": 1684714647,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322607,
+        "num": 322607,
+        "word": "Tabe 对不起大家今天BP绑臭",
+        "onboard_time": 1684712482,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 312803,
+        "num": 312803,
+        "word": "周一",
+        "onboard_time": 1684716147,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 310394,
+        "num": 310394,
+        "word": "刘诗诗刘昊然同框",
+        "onboard_time": 1684714588,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 299174,
+        "num": 299174,
+        "word": "后浪 中医",
+        "onboard_time": 1684718009,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294353,
+        "num": 294353,
+        "word": "四川宜宾地震",
+        "onboard_time": 1684710319,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260673,
+        "num": 260673,
+        "word": "妻子去世10年男子仍帮老丈人插秧",
+        "onboard_time": 1684678595,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447424,
+        "num": 260297,
+        "word": "不懂倒水的礼仪被领导批评了",
+        "onboard_time": 1684712303,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 375953,
+        "num": 253577,
+        "word": "虞书欣看了BLACKPINK演唱会",
+        "onboard_time": 1684712604,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 315954,
+        "num": 249549,
+        "word": "越早进体制内越好吗",
+        "onboard_time": 1684710018,
+        "rank": 22,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 245421,
+        "num": 245421,
+        "word": "袁隆平离世2周年",
+        "onboard_time": 1684717649,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240284,
+        "num": 240284,
+        "word": "性格很单纯怎么在社会上生存",
+        "onboard_time": 1684713747,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236437,
+        "num": 236437,
+        "word": "你用多久攒到人生第一个10万元",
+        "onboard_time": 1684712845,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232703,
+        "num": 232703,
+        "word": "王俊凯进组了吗",
+        "onboard_time": 1684715308,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231281,
+        "num": 231281,
+        "word": "不适应社会的人一天只能行动一次",
+        "onboard_time": 1684710080,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228950,
+        "num": 228950,
+        "word": "原来憋尿的危害这么大",
+        "onboard_time": 1684711520,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224202,
+        "num": 224202,
+        "word": "不会哄女朋友的有福了",
+        "onboard_time": 1684718368,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 221925,
+        "num": 221925,
+        "word": "福建才是南方隐藏的吃面大省",
+        "onboard_time": 1684716451,
+        "rank": 30,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 214620,
+        "num": 214620,
+        "word": "去年广州人均存款14.3万元",
+        "onboard_time": 1684713865,
+        "rank": 31,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 210079,
+        "num": 210079,
+        "word": "黄晓明说自己能生下黄明昊",
+        "onboard_time": 1684683211,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207519,
+        "num": 207519,
+        "word": "大学毕业后还会和室友联系吗",
+        "onboard_time": 1684717468,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201629,
+        "num": 201629,
+        "word": "网红造谣性骚扰伤害了谁",
+        "onboard_time": 1684718368,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197020,
+        "num": 197020,
+        "word": "为什么去音乐节要带黄瓜",
+        "onboard_time": 1684718549,
+        "rank": 35,
+        "category": "幽默,音乐"
+      },
+      {
+        "raw_hot": 190163,
+        "num": 190163,
+        "word": "海清戛纳红毯",
+        "onboard_time": 1684714950,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184730,
+        "num": 184730,
+        "word": "30年前妈妈的月薪才67块钱",
+        "onboard_time": 1684717946,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175614,
+        "num": 175614,
+        "word": "何赛飞回应痛斥梅花奖",
+        "onboard_time": 1684674149,
+        "rank": 38,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 171888,
+        "num": 171888,
+        "word": "袁隆平罕见哽咽画面首次曝光",
+        "onboard_time": 1684714467,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163609,
+        "num": 163609,
+        "word": "牙膏 菜",
+        "onboard_time": 1684680335,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162813,
+        "num": 162813,
+        "word": "拜登宣称美中关系会在短时间内缓和",
+        "onboard_time": 1684703350,
+        "rank": 41,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 162463,
+        "num": 162463,
+        "word": "重生流网文作家让4人重获新生",
+        "onboard_time": 1684710620,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162084,
+        "num": 162084,
+        "word": "跑男是知道怎么留住观众的",
+        "onboard_time": 1684681172,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161529,
+        "num": 161529,
+        "word": "还没毕业就把室友全部删除了",
+        "onboard_time": 1684681531,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154880,
+        "num": 154880,
+        "word": "女子因掉毛严重将宠物猫遗弃绿化带",
+        "onboard_time": 1684673430,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152558,
+        "num": 152558,
+        "word": "奥莉 BLACKPINK演唱会",
+        "onboard_time": 1684670012,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150483,
+        "num": 150483,
+        "word": "一稻济天下大医佑苍生",
+        "onboard_time": 1684711641,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145537,
+        "num": 145537,
+        "word": "巧乐兹夫妇",
+        "onboard_time": 1684718788,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103107,
+        "num": 143078,
+        "word": "JDG夺冠",
+        "onboard_time": 1684678472,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#关注2023中国中亚五国峰会#"
+    }
+  }
+}
