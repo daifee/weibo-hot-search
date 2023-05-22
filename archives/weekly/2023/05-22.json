@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684790088819,
+  "endTime": 1684791227627,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -2636,7 +2636,7 @@
     },
     {
       "raw_hot": 107547,
-      "num": 83757,
+      "num": 100414,
       "word": "8年间多次猥亵幼女男子登报道歉",
       "onboard_time": 1684779254,
       "rank": 32,
@@ -2827,6 +2827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42765,
+      "num": 19529,
+      "word": "湛江当街杀人男子判死刑当庭上诉",
+      "onboard_time": 1684788732,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42571,
       "num": 975743,
       "word": "构建京津冀协同发展的高水平开放平台",
@@ -2843,12 +2851,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 31174,
-      "num": 17601,
-      "word": "湛江当街杀人男子判死刑当庭上诉",
-      "onboard_time": 1684788732,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 31596,
+      "num": 20631,
+      "word": "汪苏泷在大王婚礼唱歌又忘词了",
+      "onboard_time": 1684787232,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 28838,
@@ -2865,14 +2873,6 @@
       "onboard_time": 1684778773,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26534,
-      "num": 18551,
-      "word": "汪苏泷在大王婚礼唱歌又忘词了",
-      "onboard_time": 1684787232,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 26326,
@@ -2897,6 +2897,14 @@
       "onboard_time": 1684671029,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 19305,
+      "num": 19305,
+      "word": "东野圭吾比喻明知不可能的爱",
+      "onboard_time": 1684786992,
+      "rank": 33,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
