@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684723654949,
+  "endTime": 1684725542323,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1583882,
+      "num": 503811,
+      "word": "陈大事",
+      "onboard_time": 1684722387,
+      "rank": 27,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1364630,
       "num": 1364630,
       "word": "全红婵水花 物理学不存在了",
@@ -51,8 +59,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1015532,
-      "num": 1015532,
+      "raw_hot": 1179784,
+      "num": 1179784,
       "word": "盖茨再爆婚外情",
       "onboard_time": 1684720349,
       "rank": 46,
@@ -107,6 +115,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 660336,
+      "num": 660336,
+      "word": "华表奖提名",
+      "onboard_time": 1684723528,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 655426,
+      "num": 495497,
+      "word": "英首相宣称中国是全球最大安全挑战",
+      "onboard_time": 1684723108,
+      "rank": 48,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 646198,
       "num": 646198,
       "word": "何赛飞回应痛斥梅花奖",
@@ -147,6 +171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 532049,
+      "num": 532049,
+      "word": "有人跟韩素希抢宋慧乔了",
+      "onboard_time": 1684723949,
+      "rank": 8,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 503131,
       "num": 503131,
       "word": "后浪 中医",
@@ -161,6 +193,14 @@
       "onboard_time": 1684673430,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465480,
+      "num": 465480,
+      "word": "王嘉尔说不要把自己改变成不是自己",
+      "onboard_time": 1684722266,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 456358,
@@ -195,14 +235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 393046,
-      "num": 393046,
-      "word": "王嘉尔说不要把自己改变成不是自己",
-      "onboard_time": 1684722266,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 390606,
       "num": 390606,
       "word": "JDG夺冠",
@@ -217,6 +249,14 @@
       "onboard_time": 1684710018,
       "rank": 20,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 378694,
+      "num": 378694,
+      "word": "谁给海清做的妆造",
+      "onboard_time": 1684724308,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 375953,
@@ -235,12 +275,28 @@
       "category": "幽默,音乐"
     },
     {
+      "raw_hot": 371736,
+      "num": 339831,
+      "word": "小学同学因为结婚连加我5次",
+      "onboard_time": 1684724787,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 366525,
       "num": 237807,
       "word": "黄晓明说自己能生下黄明昊",
       "onboard_time": 1684683211,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 364762,
+      "num": 364762,
+      "word": "热火3比0凯尔特人",
+      "onboard_time": 1684724910,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 356626,
@@ -259,20 +315,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336063,
+      "num": 336063,
+      "word": "朱一龙河边的错误外网开分8.7",
+      "onboard_time": 1684724486,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 336044,
       "num": 336044,
       "word": "阿根廷足协官宣中国行",
       "onboard_time": 1684721308,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 333773,
-      "num": 333773,
-      "word": "陈大事",
-      "onboard_time": 1684722387,
-      "rank": 27,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 324779,
@@ -475,6 +531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 233164,
+      "num": 233164,
+      "word": "这就是街舞直播阵容官宣",
+      "onboard_time": 1684724727,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232703,
       "num": 232703,
       "word": "王俊凯进组了吗",
@@ -523,6 +587,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 222023,
+      "num": 222023,
+      "word": "孙灏羽将继续起诉小慧君巧乐兹夫妇",
+      "onboard_time": 1684724727,
+      "rank": 30,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 218469,
       "num": 218469,
       "word": "这届90后是懂带娃的",
@@ -539,14 +611,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 214400,
-      "num": 214400,
-      "word": "华表奖提名",
-      "onboard_time": 1684723528,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 213730,
       "num": 213730,
       "word": "Rose看到自己表情包的反应",
@@ -555,12 +619,12 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 212173,
-      "num": 212173,
-      "word": "英首相宣称中国是全球最大安全挑战",
-      "onboard_time": 1684723108,
-      "rank": 48,
-      "category": "国内要闻"
+      "raw_hot": 209827,
+      "num": 209827,
+      "word": "LPL夏季赛",
+      "onboard_time": 1684722508,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 207519,
@@ -587,12 +651,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 197971,
+      "num": 197971,
+      "word": "这个周一看熊猫",
+      "onboard_time": 1684724608,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197634,
       "num": 197634,
       "word": "刘昊然开云晚宴",
       "onboard_time": 1684722448,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197573,
+      "num": 197573,
+      "word": "谁缺席了动物大会",
+      "onboard_time": 1684724365,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197328,
@@ -691,12 +771,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 173478,
-      "num": 173478,
-      "word": "LPL夏季赛",
-      "onboard_time": 1684722508,
-      "rank": 47,
-      "category": "游戏"
+      "raw_hot": 176191,
+      "num": 176191,
+      "word": "金玟庭宁艺卓许允真曾是舍友",
+      "onboard_time": 1684723827,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 174313,
+      "num": 174313,
+      "word": "杨紫琼晚宴跳舞",
+      "onboard_time": 1684723348,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 172176,
@@ -763,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160271,
+      "num": 160271,
+      "word": "Jennie个人综艺",
+      "onboard_time": 1684725448,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160119,
       "num": 160119,
       "word": "切尔西",
@@ -785,14 +881,6 @@
       "onboard_time": 1684680514,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154179,
-      "num": 154179,
-      "word": "杨紫琼晚宴跳舞",
-      "onboard_time": 1684723348,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 150680,

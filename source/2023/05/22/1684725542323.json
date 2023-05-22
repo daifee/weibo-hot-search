@@ -1,0 +1,410 @@
+{
+  "runTime": 1684725542323,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1179784,
+        "num": 1179784,
+        "word": "盖茨再爆婚外情",
+        "onboard_time": 1684720349,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705189,
+        "num": 705189,
+        "word": "当你叫了个外卖被同事问",
+        "onboard_time": 1684710080,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18254,
+        "num": 696677,
+        "word": "用立体书打开国际茶日",
+        "onboard_time": 1684671991,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1824183,
+        "num": 683090,
+        "word": "文殊菩萨",
+        "onboard_time": 1684717170,
+        "rank": 3,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 1363105,
+        "num": 680547,
+        "word": "法院认定小慧君虚构性骚扰",
+        "onboard_time": 1684714107,
+        "rank": 4,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 2691890,
+        "num": 666791,
+        "word": "巧乐兹夫妇",
+        "onboard_time": 1684718788,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 660336,
+        "num": 660336,
+        "word": "华表奖提名",
+        "onboard_time": 1684723528,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 613892,
+        "num": 613892,
+        "word": "苏醒说希望半夜不要再有人来接机了",
+        "onboard_time": 1684715425,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532049,
+        "num": 532049,
+        "word": "有人跟韩素希抢宋慧乔了",
+        "onboard_time": 1684723949,
+        "rank": 8,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 522473,
+        "num": 522473,
+        "word": "猥亵殴打孕妇男子被刑拘",
+        "onboard_time": 1684720166,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1583882,
+        "num": 503811,
+        "word": "陈大事",
+        "onboard_time": 1684722387,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 655426,
+        "num": 495497,
+        "word": "英首相宣称中国是全球最大安全挑战",
+        "onboard_time": 1684723108,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 534301,
+        "num": 495473,
+        "word": "赵露思live图",
+        "onboard_time": 1684721246,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465480,
+        "num": 465480,
+        "word": "王嘉尔说不要把自己改变成不是自己",
+        "onboard_time": 1684722266,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438413,
+        "num": 438413,
+        "word": "陈晓连麦到赵丽颖头像的人",
+        "onboard_time": 1684671152,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 436467,
+        "num": 436467,
+        "word": "孩子被救出后哭喊还有我爷爷",
+        "onboard_time": 1684721366,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398148,
+        "num": 398148,
+        "word": "刘诗诗东方美貌",
+        "onboard_time": 1684711520,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 378694,
+        "num": 378694,
+        "word": "谁给海清做的妆造",
+        "onboard_time": 1684724308,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364762,
+        "num": 364762,
+        "word": "热火3比0凯尔特人",
+        "onboard_time": 1684724910,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345385,
+        "num": 345385,
+        "word": "凯尔特人vs热火",
+        "onboard_time": 1684720109,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 508057,
+        "num": 340927,
+        "word": "加了三年班的同事裸辞了",
+        "onboard_time": 1684720948,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 371736,
+        "num": 339831,
+        "word": "小学同学因为结婚连加我5次",
+        "onboard_time": 1684724787,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 336063,
+        "num": 336063,
+        "word": "朱一龙河边的错误外网开分8.7",
+        "onboard_time": 1684724486,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319779,
+        "num": 319779,
+        "word": "恩静",
+        "onboard_time": 1684714647,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 314204,
+        "num": 314204,
+        "word": "全红婵水花 物理学不存在了",
+        "onboard_time": 1684682013,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301676,
+        "num": 301676,
+        "word": "周冬雨刘昊然在燃冬里有床戏",
+        "onboard_time": 1684678711,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290959,
+        "num": 290959,
+        "word": "阿根廷足协官宣中国行",
+        "onboard_time": 1684721308,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285478,
+        "num": 285478,
+        "word": "后浪 中医",
+        "onboard_time": 1684718009,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233164,
+        "num": 233164,
+        "word": "这就是街舞直播阵容官宣",
+        "onboard_time": 1684724727,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228566,
+        "num": 228566,
+        "word": "水果摊无人看守30箱香蕉被抢光",
+        "onboard_time": 1684679673,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222023,
+        "num": 222023,
+        "word": "孙灏羽将继续起诉小慧君巧乐兹夫妇",
+        "onboard_time": 1684724727,
+        "rank": 30,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 218290,
+        "num": 218290,
+        "word": "不懂倒水的礼仪被领导批评了",
+        "onboard_time": 1684712303,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210478,
+        "num": 210478,
+        "word": "梅西要来中国比赛了",
+        "onboard_time": 1684722387,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209827,
+        "num": 209827,
+        "word": "LPL夏季赛",
+        "onboard_time": 1684722508,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204585,
+        "num": 204585,
+        "word": "虞书欣看了BLACKPINK演唱会",
+        "onboard_time": 1684712604,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197971,
+        "num": 197971,
+        "word": "这个周一看熊猫",
+        "onboard_time": 1684724608,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197573,
+        "num": 197573,
+        "word": "谁缺席了动物大会",
+        "onboard_time": 1684724365,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193616,
+        "num": 193616,
+        "word": "不会哄女朋友的有福了",
+        "onboard_time": 1684718368,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 179293,
+        "num": 179293,
+        "word": "身边初中毕业但很厉害的人",
+        "onboard_time": 1684722627,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178288,
+        "num": 178288,
+        "word": "2013的赵丽颖VS2023的赵丽颖",
+        "onboard_time": 1684714647,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176990,
+        "num": 176990,
+        "word": "为什么去音乐节要带黄瓜",
+        "onboard_time": 1684718549,
+        "rank": 40,
+        "category": "幽默,音乐"
+      },
+      {
+        "raw_hot": 176191,
+        "num": 176191,
+        "word": "金玟庭宁艺卓许允真曾是舍友",
+        "onboard_time": 1684723827,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174313,
+        "num": 174313,
+        "word": "杨紫琼晚宴跳舞",
+        "onboard_time": 1684723348,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160271,
+        "num": 160271,
+        "word": "Jennie个人综艺",
+        "onboard_time": 1684725448,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159014,
+        "num": 159014,
+        "word": "高速上冒险救人的原来是00后",
+        "onboard_time": 1684722925,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151853,
+        "num": 151853,
+        "word": "四川宜宾地震",
+        "onboard_time": 1684710319,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150590,
+        "num": 150590,
+        "word": "在工作群里艾特同事被教育",
+        "onboard_time": 1684722807,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142030,
+        "num": 142030,
+        "word": "NBA",
+        "onboard_time": 1684719987,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111449,
+        "num": 140598,
+        "word": "Tabe 对不起大家今天BP绑臭",
+        "onboard_time": 1684712482,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 74269,
+        "num": 137102,
+        "word": "牙膏 菜",
+        "onboard_time": 1684680335,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国同中亚国家常来常往长旺长安#"
+    }
+  }
+}
