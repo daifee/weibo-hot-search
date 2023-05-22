@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684737304019,
+  "endTime": 1684739775196,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -83,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1351791,
+      "num": 1274418,
+      "word": "巧乐兹夫妇停更",
+      "onboard_time": 1684735947,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1313388,
       "num": 1313388,
       "word": "水果摊无人看守30箱香蕉被抢光",
@@ -97,6 +105,14 @@
       "onboard_time": 1684677868,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1259303,
+      "num": 1259303,
+      "word": "百度已不是中国第一大桌面搜索引擎",
+      "onboard_time": 1684738347,
+      "rank": 4,
+      "category": "科技"
     },
     {
       "raw_hot": 1179784,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 883616,
-      "num": 875004,
+      "num": 875750,
       "word": "谁给海清做的妆造",
       "onboard_time": 1684724308,
       "rank": 17,
@@ -251,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 622923,
+      "num": 622923,
+      "word": "Jennie找工作人员维持秩序",
+      "onboard_time": 1684733248,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 597592,
       "num": 511494,
       "word": "赵露思live图",
@@ -315,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 465020,
-      "num": 465020,
-      "word": "Jennie找工作人员维持秩序",
-      "onboard_time": 1684733248,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 464920,
       "num": 340211,
       "word": "领导放了我涨薪的飞机",
@@ -369,14 +385,6 @@
       "onboard_time": 1684712303,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 447221,
-      "num": 447221,
-      "word": "巧乐兹夫妇停更",
-      "onboard_time": 1684735947,
-      "rank": 24,
-      "category": "网红"
     },
     {
       "raw_hot": 442375,
@@ -435,6 +443,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 379329,
+      "num": 379329,
+      "word": "过期糖",
+      "onboard_time": 1684738823,
+      "rank": 14,
+      "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 378600,
+      "num": 378600,
+      "word": "陈大事 洗耳恭听",
+      "onboard_time": 1684736967,
+      "rank": 32,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 375953,
       "num": 253577,
       "word": "虞书欣看了BLACKPINK演唱会",
@@ -457,6 +481,14 @@
       "onboard_time": 1684728391,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 367367,
+      "num": 367367,
+      "word": "乐华被冻结2390万财产",
+      "onboard_time": 1684739066,
+      "rank": 16,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 366815,
@@ -555,12 +587,28 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 316143,
+      "num": 299157,
+      "word": "二阳比首阳症状轻吗",
+      "onboard_time": 1684736007,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314419,
       "num": 294353,
       "word": "四川宜宾地震",
       "onboard_time": 1684710319,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313269,
+      "num": 313269,
+      "word": "乘风三公歌单",
+      "onboard_time": 1684737084,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 312934,
@@ -609,14 +657,6 @@
       "onboard_time": 1684678111,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 299157,
-      "num": 299157,
-      "word": "二阳比首阳症状轻吗",
-      "onboard_time": 1684736007,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 296940,
@@ -907,6 +947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 219606,
+      "num": 219606,
+      "word": "魏晨谈打庆大霉素过敏失温经历",
+      "onboard_time": 1684737026,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218469,
       "num": 218469,
       "word": "这届90后是懂带娃的",
@@ -961,6 +1009,22 @@
       "onboard_time": 1684680514,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 200937,
+      "num": 200937,
+      "word": "独居博主遭男子威胁推迟手术",
+      "onboard_time": 1684739005,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199264,
+      "num": 199264,
+      "word": "吴昕好久不见的短发",
+      "onboard_time": 1684739306,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 197634,
@@ -1083,20 +1147,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 180474,
+      "num": 180474,
+      "word": "小慧君已注册个人同名商标",
+      "onboard_time": 1684734508,
+      "rank": 42,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 179116,
       "num": 608434,
       "word": "2023流行趋势是双生双色",
       "onboard_time": 1684728213,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178315,
-      "num": 178315,
-      "word": "陈大事 洗耳恭听",
-      "onboard_time": 1684736967,
-      "rank": 32,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 178312,
@@ -1153,6 +1217,14 @@
       "onboard_time": 1684719328,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 167367,
+      "num": 167367,
+      "word": "三门峡34名讨薪教师目前全在岗",
+      "onboard_time": 1684737206,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167228,
@@ -1227,14 +1299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159594,
-      "num": 159594,
-      "word": "小慧君已注册个人同名商标",
-      "onboard_time": 1684734508,
-      "rank": 42,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 158737,
       "num": 158737,
       "word": "丁程鑫张真源文艺志愿者视频",
@@ -1267,14 +1331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154518,
-      "num": 154518,
-      "word": "乘风三公歌单",
-      "onboard_time": 1684737084,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150680,
       "num": 150680,
       "word": "外交部副部长召见日本驻华大使",
@@ -1291,8 +1347,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146016,
-      "num": 146016,
+      "raw_hot": 147048,
+      "num": 147048,
       "word": "这是个有理想但没教养的人",
       "onboard_time": 1684735947,
       "rank": 45,
@@ -1307,20 +1363,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 140153,
-      "num": 140153,
-      "word": "魏晨谈打庆大霉素过敏失温经历",
-      "onboard_time": 1684737026,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 139526,
       "num": 132575,
       "word": "一粥一饭间怀念袁爷爷",
       "onboard_time": 1684711220,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134864,
+      "num": 134864,
+      "word": "上影节官方宣传片发布",
+      "onboard_time": 1684739668,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 133905,
@@ -1483,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85256,
+      "num": 123402,
+      "word": "音乐节妆容",
+      "onboard_time": 1684737624,
+      "rank": 48,
+      "category": "美妆,音乐"
+    },
+    {
       "raw_hot": 82475,
       "num": 1562085,
       "word": "今天国际生物多样性日",
@@ -1521,6 +1585,14 @@
       "onboard_time": 1684672470,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 64233,
+      "num": 122336,
+      "word": "Gemini幸运杯S2",
+      "onboard_time": 1684737507,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 57230,
