@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684761635273,
+  "endTime": 1684762407591,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -4619,6 +4619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1266370,
+      "num": 1266370,
+      "word": "迪丽热巴阿娜尔罕评分降了",
+      "onboard_time": 1684760549,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1265180,
       "num": 1265180,
       "word": "警方通报男子在高速服务区被撞身亡",
@@ -8355,14 +8363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 756489,
-      "num": 756489,
-      "word": "迪丽热巴阿娜尔罕评分降了",
-      "onboard_time": 1684760549,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 755976,
       "num": 755976,
       "word": "龚俊 他坐第一排我坐第七排",
@@ -9411,6 +9411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 672805,
+      "num": 672805,
+      "word": "护心剧情 割裂",
+      "onboard_time": 1684759768,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 671913,
       "num": 671913,
       "word": "易烊千玺520用代码放烟花",
@@ -9801,14 +9809,6 @@
       "onboard_time": 1683286408,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 638084,
-      "num": 638084,
-      "word": "护心剧情 割裂",
-      "onboard_time": 1684759768,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 637804,
@@ -12817,6 +12817,14 @@
       "onboard_time": 1684754728,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 496874,
+      "num": 423313,
+      "word": "陈乔恩说听说全国观众都知道我喝大了",
+      "onboard_time": 1684759347,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 496425,
@@ -16635,6 +16643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 396156,
+      "num": 396156,
+      "word": "招摇2.0",
+      "onboard_time": 1684761748,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 396072,
       "num": 396072,
       "word": "宋慧乔状态",
@@ -18033,14 +18049,6 @@
       "onboard_time": 1683535771,
       "rank": 23,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 367571,
-      "num": 367571,
-      "word": "陈乔恩说听说全国观众都知道我喝大了",
-      "onboard_time": 1684759347,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 367557,
@@ -22163,6 +22171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302343,
+      "num": 302343,
+      "word": "当我问妈妈结婚有啥好处",
+      "onboard_time": 1684758927,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 302294,
       "num": 302294,
       "word": "五一",
@@ -23641,6 +23657,14 @@
       "onboard_time": 1683502526,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284166,
+      "num": 284166,
+      "word": "护心男主变小三",
+      "onboard_time": 1684761988,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 284144,
@@ -25891,6 +25915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 257603,
+      "num": 250132,
+      "word": "周扬青新造型",
+      "onboard_time": 1684760368,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 257525,
       "num": 257525,
       "word": "注视也是性骚扰的一种",
@@ -26929,6 +26961,14 @@
       "onboard_time": 1683556173,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 247251,
+      "num": 183248,
+      "word": "朴彩英生图",
+      "onboard_time": 1684761388,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 247136,
@@ -28449,14 +28489,6 @@
       "onboard_time": 1683850772,
       "rank": 25,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 235002,
-      "num": 215647,
-      "word": "周扬青新造型",
-      "onboard_time": 1684760368,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 234970,
@@ -35259,6 +35291,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 183357,
+      "num": 183357,
+      "word": "王者下一个新英雄是谁",
+      "onboard_time": 1684760608,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 183318,
       "num": 183318,
       "word": "古树名木保护计划",
@@ -37387,14 +37427,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 169252,
-      "num": 169252,
-      "word": "当我问妈妈结婚有啥好处",
-      "onboard_time": 1684758927,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 169206,
       "num": 169206,
       "word": "剧院魅影",
@@ -38536,14 +38568,6 @@
       "word": "朋友问我塞尔达怎么还没通关",
       "onboard_time": 1683891687,
       "rank": 38,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 160223,
-      "num": 160223,
-      "word": "王者下一个新英雄是谁",
-      "onboard_time": 1684760608,
-      "rank": 40,
       "category": "游戏"
     },
     {
@@ -39763,6 +39787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151263,
+      "num": 151263,
+      "word": "母胎单身很难开始一段恋情吗",
+      "onboard_time": 1684762051,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151222,
       "num": 151222,
       "word": "奶奶教宝宝说英语一股子血腥味",
@@ -40883,6 +40915,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 142460,
+      "num": 142460,
+      "word": "你可以接受婚前同居吗",
+      "onboard_time": 1684761929,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142365,
       "num": 190987,
       "word": "Hero直播",
@@ -41401,14 +41441,6 @@
       "onboard_time": 1684577126,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137801,
-      "num": 137801,
-      "word": "朴彩英生图",
-      "onboard_time": 1684761388,
-      "rank": 42,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 137575,
@@ -42017,6 +42049,14 @@
       "onboard_time": 1684547548,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131657,
+      "num": 131657,
+      "word": "你猜这花为什么不发朋友圈",
+      "onboard_time": 1684762051,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 131648,
@@ -42913,6 +42953,14 @@
       "onboard_time": 1684238430,
       "rank": 14,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 123176,
+      "num": 123176,
+      "word": "朱一龙2023戛纳行全记录",
+      "onboard_time": 1684762229,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 123143,
@@ -46451,6 +46499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49480,
+      "num": 1071336,
+      "word": "我国启动2023年珠峰综合科学考察",
+      "onboard_time": 1684760549,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49248,
       "num": 49248,
       "word": "薛之谦济南演唱会",
@@ -46873,14 +46929,6 @@
       "onboard_time": 1683414139,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 37818,
-      "num": 960635,
-      "word": "我国启动2023年珠峰综合科学考察",
-      "onboard_time": 1684760549,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36946,

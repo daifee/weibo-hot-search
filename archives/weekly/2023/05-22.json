@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684761635273,
+  "endTime": 1684762407591,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -153,6 +153,14 @@
       "onboard_time": 1684677868,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1266370,
+      "num": 1266370,
+      "word": "迪丽热巴阿娜尔罕评分降了",
+      "onboard_time": 1684760549,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1179784,
@@ -331,14 +339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 756489,
-      "num": 756489,
-      "word": "迪丽热巴阿娜尔罕评分降了",
-      "onboard_time": 1684760549,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 751023,
       "num": 751023,
       "word": "樊振东",
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 672805,
+      "num": 672805,
+      "word": "护心剧情 割裂",
+      "onboard_time": 1684759768,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 660336,
       "num": 660336,
       "word": "华表奖提名",
@@ -401,14 +409,6 @@
       "onboard_time": 1684680335,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 638084,
-      "num": 638084,
-      "word": "护心剧情 割裂",
-      "onboard_time": 1684759768,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 633449,
@@ -569,6 +569,14 @@
       "onboard_time": 1684754728,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 496874,
+      "num": 423313,
+      "word": "陈乔恩说听说全国观众都知道我喝大了",
+      "onboard_time": 1684759347,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 494593,
@@ -755,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 396156,
+      "num": 396156,
+      "word": "招摇2.0",
+      "onboard_time": 1684761748,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 390606,
       "num": 390606,
       "word": "JDG夺冠",
@@ -801,14 +817,6 @@
       "onboard_time": 1684728391,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 367571,
-      "num": 367571,
-      "word": "陈乔恩说听说全国观众都知道我喝大了",
-      "onboard_time": 1684759347,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 366922,
@@ -1027,6 +1035,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 302343,
+      "num": 302343,
+      "word": "当我问妈妈结婚有啥好处",
+      "onboard_time": 1684758927,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 302030,
       "num": 302030,
       "word": "华表奖官宣了280个艺人",
@@ -1073,6 +1089,14 @@
       "onboard_time": 1684703350,
       "rank": 49,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 284166,
+      "num": 284166,
+      "word": "护心男主变小三",
+      "onboard_time": 1684761988,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 282787,
@@ -1195,6 +1219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 257603,
+      "num": 250132,
+      "word": "周扬青新造型",
+      "onboard_time": 1684760368,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 254712,
       "num": 254712,
       "word": "LNG",
@@ -1209,6 +1241,14 @@
       "onboard_time": 1684731813,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 247251,
+      "num": 183248,
+      "word": "朴彩英生图",
+      "onboard_time": 1684761388,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 247136,
@@ -1305,14 +1345,6 @@
       "onboard_time": 1684712845,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235002,
-      "num": 215647,
-      "word": "周扬青新造型",
-      "onboard_time": 1684760368,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 234792,
@@ -1691,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183357,
+      "num": 183357,
+      "word": "王者下一个新英雄是谁",
+      "onboard_time": 1684760608,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 183318,
       "num": 183318,
       "word": "古树名木保护计划",
@@ -1827,14 +1867,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 169252,
-      "num": 169252,
-      "word": "当我问妈妈结婚有啥好处",
-      "onboard_time": 1684758927,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 167367,
       "num": 167367,
       "word": "三门峡34名讨薪教师目前全在岗",
@@ -1905,14 +1937,6 @@
       "onboard_time": 1684732410,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 160223,
-      "num": 160223,
-      "word": "王者下一个新英雄是谁",
-      "onboard_time": 1684760608,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 160119,
@@ -2003,6 +2027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151263,
+      "num": 151263,
+      "word": "母胎单身很难开始一段恋情吗",
+      "onboard_time": 1684762051,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150680,
       "num": 150680,
       "word": "外交部副部长召见日本驻华大使",
@@ -2043,6 +2075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142460,
+      "num": 142460,
+      "word": "你可以接受婚前同居吗",
+      "onboard_time": 1684761929,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141491,
       "num": 141491,
       "word": "朱一龙荒野作家",
@@ -2075,14 +2115,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 137801,
-      "num": 137801,
-      "word": "朴彩英生图",
-      "onboard_time": 1684761388,
-      "rank": 42,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 137575,
       "num": 137575,
       "word": "上影节官方宣传片发布",
@@ -2113,6 +2145,14 @@
       "onboard_time": 1684683689,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 131657,
+      "num": 131657,
+      "word": "你猜这花为什么不发朋友圈",
+      "onboard_time": 1684762051,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 131613,
@@ -2177,6 +2217,14 @@
       "onboard_time": 1684664189,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123176,
+      "num": 123176,
+      "word": "朱一龙2023戛纳行全记录",
+      "onboard_time": 1684762229,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 120509,
@@ -2371,6 +2419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 49480,
+      "num": 1071336,
+      "word": "我国启动2023年珠峰综合科学考察",
+      "onboard_time": 1684760549,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48757,
       "num": 1760764,
       "word": "用立体书打开国际茶日",
@@ -2393,14 +2449,6 @@
       "onboard_time": 1684692375,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 37818,
-      "num": 960635,
-      "word": "我国启动2023年珠峰综合科学考察",
-      "onboard_time": 1684760549,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28838,
