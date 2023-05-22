@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684740813369,
+  "endTime": 1684743712667,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -35,20 +35,20 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 2717790,
+      "num": 2717790,
+      "word": "百度已不是中国第一大桌面搜索引擎",
+      "onboard_time": 1684738347,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
       "raw_hot": 2528375,
       "num": 2528375,
       "word": "钟南山称6月底或是今年疫情高峰",
       "onboard_time": 1684727970,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2405990,
-      "num": 2405990,
-      "word": "百度已不是中国第一大桌面搜索引擎",
-      "onboard_time": 1684738347,
-      "rank": 4,
-      "category": "科技"
     },
     {
       "raw_hot": 2003473,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1307221,
+      "num": 1307221,
+      "word": "吴倩 三公",
+      "onboard_time": 1684740389,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1287198,
       "num": 826136,
       "word": "王诗龄520收到巨型玫瑰熊",
@@ -129,6 +137,14 @@
       "onboard_time": 1684671152,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1004172,
+      "num": 1004172,
+      "word": "杨幂说新戏请了表演老师",
+      "onboard_time": 1684739847,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 974200,
@@ -155,7 +171,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 847415,
+      "raw_hot": 876175,
       "num": 645271,
       "word": "过期糖",
       "onboard_time": 1684738823,
@@ -203,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 769847,
+      "num": 769847,
+      "word": "乐华被冻结2390万财产",
+      "onboard_time": 1684739066,
+      "rank": 16,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 767564,
       "num": 767564,
       "word": "周冬雨刘昊然在燃冬里有床戏",
@@ -217,14 +241,6 @@
       "onboard_time": 1684711520,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 763939,
-      "num": 763939,
-      "word": "乐华被冻结2390万财产",
-      "onboard_time": 1684739066,
-      "rank": 16,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 735582,
@@ -248,6 +264,22 @@
       "word": "孙吧",
       "onboard_time": 1684726589,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 673417,
+      "num": 673417,
+      "word": "2023年退休人员基本养老金上调3.8%",
+      "onboard_time": 1684740211,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 663981,
+      "num": 663981,
+      "word": "1岁半女婴离家30米处丢失",
+      "onboard_time": 1684742010,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -289,6 +321,14 @@
       "onboard_time": 1684733248,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 610505,
+      "num": 610505,
+      "word": "吴昕好久不见的短发",
+      "onboard_time": 1684739306,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 597592,
@@ -355,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465901,
+      "num": 465901,
+      "word": "去看BLACKPINK演唱会的明星",
+      "onboard_time": 1684742248,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 464920,
       "num": 340211,
       "word": "领导放了我涨薪的飞机",
@@ -368,6 +416,14 @@
       "word": "水电工人被射钉枪击中头部身亡",
       "onboard_time": 1684676252,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 454948,
+      "num": 454948,
+      "word": "独居博主遭男子威胁推迟手术",
+      "onboard_time": 1684739005,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -419,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 421605,
+      "num": 421605,
+      "word": "养老金",
+      "onboard_time": 1684742670,
+      "rank": 15,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 405696,
       "num": 405696,
       "word": "陈大事 洗耳恭听",
@@ -457,6 +521,14 @@
       "onboard_time": 1684710018,
       "rank": 20,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 384977,
+      "num": 384977,
+      "word": "RNG大名单移除GALA和Ming",
+      "onboard_time": 1684742912,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 382354,
@@ -539,20 +611,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 349394,
-      "num": 290145,
-      "word": "吴昕好久不见的短发",
-      "onboard_time": 1684739306,
-      "rank": 31,
-      "category": "作品衍生,时尚"
+      "raw_hot": 345700,
+      "num": 345700,
+      "word": "三分野空降不撤档",
+      "onboard_time": 1684741589,
+      "rank": 19,
+      "category": "影视"
     },
     {
-      "raw_hot": 346579,
-      "num": 346579,
-      "word": "吴倩 三公",
-      "onboard_time": 1684740389,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 342967,
+      "num": 342967,
+      "word": "易烊千玺中国电影三大奖全提",
+      "onboard_time": 1684740510,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 336063,
@@ -569,14 +641,6 @@
       "onboard_time": 1684721308,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 325043,
-      "num": 325043,
-      "word": "独居博主遭男子威胁推迟手术",
-      "onboard_time": 1684739005,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 324779,
@@ -715,6 +779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 277366,
+      "num": 277366,
+      "word": "张韶涵说周杰伦曾在最低谷挺她",
+      "onboard_time": 1684741709,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276279,
       "num": 276279,
       "word": "三分野今日开播",
@@ -785,22 +857,6 @@
       "onboard_time": 1684728450,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 257643,
-      "num": 257643,
-      "word": "2023年退休人员基本养老金上调3.8%",
-      "onboard_time": 1684740211,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257577,
-      "num": 257577,
-      "word": "杨幂说新戏请了表演老师",
-      "onboard_time": 1684739847,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 252848,
@@ -899,6 +955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 233766,
+      "num": 187402,
+      "word": "这婚纱照新娘有点多余了",
+      "onboard_time": 1684743393,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 232703,
       "num": 232703,
       "word": "王俊凯进组了吗",
@@ -913,6 +977,14 @@
       "onboard_time": 1684722627,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 232142,
+      "num": 232142,
+      "word": "龙族今日开播",
+      "onboard_time": 1684742489,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 232122,
@@ -1227,6 +1299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174206,
+      "num": 174206,
+      "word": "运瓜车高速着火被救送瓜感谢",
+      "onboard_time": 1684743393,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172176,
       "num": 172176,
       "word": "NBA",
@@ -1243,20 +1323,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171575,
-      "num": 171575,
-      "word": "易烊千玺中国电影三大奖全提",
-      "onboard_time": 1684740510,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171037,
       "num": 171037,
       "word": "落跑甜心",
       "onboard_time": 1684719328,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169932,
+      "num": 169932,
+      "word": "iPhone很富士",
+      "onboard_time": 1684743028,
+      "rank": 34,
+      "category": "科技"
     },
     {
       "raw_hot": 167367,
@@ -1281,6 +1361,14 @@
       "onboard_time": 1684730493,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 166047,
+      "num": 166047,
+      "word": "小慧君巧乐兹夫妇至今未公开道歉",
+      "onboard_time": 1684742190,
+      "rank": 35,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 165524,
@@ -1449,6 +1537,14 @@
       "onboard_time": 1684683989,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131156,
+      "num": 131156,
+      "word": "seventeen海报好像葫芦娃",
+      "onboard_time": 1684742967,
+      "rank": 41,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 131086,

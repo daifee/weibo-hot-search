@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684740813369,
+  "endTime": 1684743712667,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -691,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2717790,
+      "num": 2717790,
+      "word": "百度已不是中国第一大桌面搜索引擎",
+      "onboard_time": 1684738347,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
       "raw_hot": 2702213,
       "num": 2702213,
       "word": "童漠男",
@@ -985,14 +993,6 @@
       "onboard_time": 1683721650,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2405990,
-      "num": 2405990,
-      "word": "百度已不是中国第一大桌面搜索引擎",
-      "onboard_time": 1684738347,
-      "rank": 4,
-      "category": "科技"
     },
     {
       "raw_hot": 2404696,
@@ -4299,6 +4299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1307221,
+      "num": 1307221,
+      "word": "吴倩 三公",
+      "onboard_time": 1684740389,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1304241,
       "num": 1284113,
       "word": "赵丽颖的腰臀比",
@@ -6251,6 +6259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1004172,
+      "num": 1004172,
+      "word": "杨幂说新戏请了表演老师",
+      "onboard_time": 1684739847,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1002456,
       "num": 1002456,
       "word": "十年前迪丽热巴央视未播画面",
@@ -7155,6 +7171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 876175,
+      "num": 645271,
+      "word": "过期糖",
+      "onboard_time": 1684738823,
+      "rank": 14,
+      "category": "情感,艺人"
+    },
+    {
       "raw_hot": 874275,
       "num": 874275,
       "word": "霉霉 有屁重录",
@@ -7329,14 +7353,6 @@
       "onboard_time": 1683732693,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 847415,
-      "num": 645271,
-      "word": "过期糖",
-      "onboard_time": 1684738823,
-      "rank": 14,
-      "category": "情感,艺人"
     },
     {
       "raw_hot": 847409,
@@ -8083,6 +8099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 769847,
+      "num": 769847,
+      "word": "乐华被冻结2390万财产",
+      "onboard_time": 1684739066,
+      "rank": 16,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 769454,
       "num": 769454,
       "word": "过了二十岁血脉就开始觉醒了",
@@ -8169,14 +8193,6 @@
       "onboard_time": 1683384630,
       "rank": 23,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 763939,
-      "num": 763939,
-      "word": "乐华被冻结2390万财产",
-      "onboard_time": 1684739066,
-      "rank": 16,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 763815,
@@ -9259,6 +9275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 673417,
+      "num": 673417,
+      "word": "2023年退休人员基本养老金上调3.8%",
+      "onboard_time": 1684740211,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 673357,
       "num": 673357,
       "word": "护心小学生特效",
@@ -9376,6 +9400,14 @@
       "word": "身上5种疣可能是HPV感染",
       "onboard_time": 1683715409,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 663981,
+      "num": 663981,
+      "word": "1岁半女婴离家30米处丢失",
+      "onboard_time": 1684742010,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -10057,6 +10089,14 @@
       "onboard_time": 1683504207,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 610505,
+      "num": 610505,
+      "word": "吴昕好久不见的短发",
+      "onboard_time": 1684739306,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 610146,
@@ -13547,6 +13587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 465901,
+      "num": 465901,
+      "word": "去看BLACKPINK演唱会的明星",
+      "onboard_time": 1684742248,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 465739,
       "num": 465739,
       "word": "海底捞回应女子拍不雅视频",
@@ -13864,6 +13912,14 @@
       "word": "官方通报内蒙古一沙漠中埋有三角钉",
       "onboard_time": 1683380193,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 454948,
+      "num": 454948,
+      "word": "独居博主遭男子威胁推迟手术",
+      "onboard_time": 1684739005,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -15281,6 +15337,14 @@
       "onboard_time": 1683457353,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421605,
+      "num": 421605,
+      "word": "养老金",
+      "onboard_time": 1684742670,
+      "rank": 15,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 421382,
@@ -16833,6 +16897,14 @@
       "onboard_time": 1683965370,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 384977,
+      "num": 384977,
+      "word": "RNG大名单移除GALA和Ming",
+      "onboard_time": 1684742912,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 384818,
@@ -18947,14 +19019,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 349394,
-      "num": 290145,
-      "word": "吴昕好久不见的短发",
-      "onboard_time": 1684739306,
-      "rank": 31,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 349342,
       "num": 292465,
       "word": "曾嘉 嘉行",
@@ -19155,14 +19219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 346579,
-      "num": 346579,
-      "word": "吴倩 三公",
-      "onboard_time": 1684740389,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 346439,
       "num": 346439,
       "word": "TFBOYS庄达菲早期合影",
@@ -19193,6 +19249,14 @@
       "onboard_time": 1683896310,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 345700,
+      "num": 345700,
+      "word": "三分野空降不撤档",
+      "onboard_time": 1684741589,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 345608,
@@ -19297,6 +19361,14 @@
       "onboard_time": 1684561946,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 342967,
+      "num": 342967,
+      "word": "易烊千玺中国电影三大奖全提",
+      "onboard_time": 1684740510,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 342838,
@@ -20409,14 +20481,6 @@
       "onboard_time": 1682997267,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 325043,
-      "num": 325043,
-      "word": "独居博主遭男子威胁推迟手术",
-      "onboard_time": 1684739005,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 324912,
@@ -23859,6 +23923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277366,
+      "num": 277366,
+      "word": "张韶涵说周杰伦曾在最低谷挺她",
+      "onboard_time": 1684741709,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277351,
       "num": 277351,
       "word": "美依礼芽人气票数破千万",
@@ -25489,22 +25561,6 @@
       "onboard_time": 1683864207,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 257643,
-      "num": 257643,
-      "word": "2023年退休人员基本养老金上调3.8%",
-      "onboard_time": 1684740211,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257577,
-      "num": 257577,
-      "word": "杨幂说新戏请了表演老师",
-      "onboard_time": 1684739847,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 257525,
@@ -28179,6 +28235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233766,
+      "num": 187402,
+      "word": "这婚纱照新娘有点多余了",
+      "onboard_time": 1684743393,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 233688,
       "num": 233688,
       "word": "晚上睡觉时千万不要戴耳机",
@@ -28417,6 +28481,14 @@
       "onboard_time": 1683896008,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 232142,
+      "num": 232142,
+      "word": "龙族今日开播",
+      "onboard_time": 1684742489,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 232122,
@@ -36195,6 +36267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174206,
+      "num": 174206,
+      "word": "运瓜车高速着火被救送瓜感谢",
+      "onboard_time": 1684743393,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174199,
       "num": 174199,
       "word": "萌娃遇消防员婚车队集体挥手祝福",
@@ -36579,14 +36659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171575,
-      "num": 171575,
-      "word": "易烊千玺中国电影三大奖全提",
-      "onboard_time": 1684740510,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171482,
       "num": 171482,
       "word": "陈若琳驳斥谣言为全红婵正名",
@@ -36753,6 +36825,14 @@
       "onboard_time": 1683044132,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169932,
+      "num": 169932,
+      "word": "iPhone很富士",
+      "onboard_time": 1684743028,
+      "rank": 34,
+      "category": "科技"
     },
     {
       "raw_hot": 169910,
@@ -37225,6 +37305,14 @@
       "onboard_time": 1684128628,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 166047,
+      "num": 166047,
+      "word": "小慧君巧乐兹夫妇至今未公开道歉",
+      "onboard_time": 1684742190,
+      "rank": 35,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 166036,
@@ -41417,6 +41505,14 @@
       "onboard_time": 1684643188,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131156,
+      "num": 131156,
+      "word": "seventeen海报好像葫芦娃",
+      "onboard_time": 1684742967,
+      "rank": 41,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 131086,
