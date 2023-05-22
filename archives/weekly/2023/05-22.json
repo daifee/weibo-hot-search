@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684720415376,
+  "endTime": 1684723121225,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -19,8 +19,8 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 2179824,
-      "num": 2179824,
+      "raw_hot": 2819351,
+      "num": 2819351,
       "word": "巧乐兹夫妇",
       "onboard_time": 1684718788,
       "rank": 48,
@@ -57,6 +57,14 @@
       "onboard_time": 1684671152,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1008160,
+      "num": 1008160,
+      "word": "盖茨再爆婚外情",
+      "onboard_time": 1684720349,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 902643,
@@ -115,6 +123,38 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 567284,
+      "num": 508409,
+      "word": "赵露思live图",
+      "onboard_time": 1684721246,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 563300,
+      "num": 281974,
+      "word": "加了三年班的同事裸辞了",
+      "onboard_time": 1684720948,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 532201,
+      "num": 532201,
+      "word": "猥亵殴打孕妇男子被刑拘",
+      "onboard_time": 1684720166,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 503131,
+      "num": 503131,
+      "word": "后浪 中医",
+      "onboard_time": 1684718009,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 477618,
       "num": 477618,
       "word": "女子因掉毛严重将宠物猫遗弃绿化带",
@@ -132,7 +172,7 @@
     },
     {
       "raw_hot": 447424,
-      "num": 260297,
+      "num": 265344,
       "word": "不懂倒水的礼仪被领导批评了",
       "onboard_time": 1684712303,
       "rank": 20,
@@ -145,6 +185,14 @@
       "onboard_time": 1684714647,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 432043,
+      "num": 432043,
+      "word": "孩子被救出后哭喊还有我爷爷",
+      "onboard_time": 1684721366,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 390606,
@@ -172,7 +220,7 @@
     },
     {
       "raw_hot": 375552,
-      "num": 242521,
+      "num": 260754,
       "word": "为什么去音乐节要带黄瓜",
       "onboard_time": 1684718549,
       "rank": 35,
@@ -185,14 +233,6 @@
       "onboard_time": 1684683211,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 357308,
-      "num": 357308,
-      "word": "后浪 中医",
-      "onboard_time": 1684718009,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 349947,
@@ -241,6 +281,14 @@
       "onboard_time": 1684714588,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 308207,
+      "num": 308207,
+      "word": "凯尔特人vs热火",
+      "onboard_time": 1684720109,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 308109,
@@ -297,6 +345,22 @@
       "onboard_time": 1684681531,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 270499,
+      "num": 270499,
+      "word": "阿根廷足协官宣中国行",
+      "onboard_time": 1684721308,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 261022,
+      "num": 261022,
+      "word": "王嘉尔说不要把自己改变成不是自己",
+      "onboard_time": 1684722266,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 260673,
@@ -371,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235947,
+      "num": 235947,
+      "word": "陈大事",
+      "onboard_time": 1684722387,
+      "rank": 27,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 234792,
       "num": 234792,
       "word": "网红造谣性骚扰伤害了谁",
@@ -435,6 +507,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 218469,
+      "num": 218469,
+      "word": "这届90后是懂带娃的",
+      "onboard_time": 1684721727,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 214620,
       "num": 214620,
       "word": "去年广州人均存款14.3万元",
@@ -449,14 +529,6 @@
       "onboard_time": 1684682371,
       "rank": 26,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 212593,
-      "num": 212593,
-      "word": "凯尔特人vs热火",
-      "onboard_time": 1684720109,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 207519,
@@ -481,6 +553,22 @@
       "onboard_time": 1684680514,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 199150,
+      "num": 199150,
+      "word": "身边初中毕业但很厉害的人",
+      "onboard_time": 1684722627,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 198390,
+      "num": 198390,
+      "word": "梅西要来中国比赛了",
+      "onboard_time": 1684722387,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 197328,
@@ -571,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172203,
+      "num": 170110,
+      "word": "刘昊然开云晚宴",
+      "onboard_time": 1684722448,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 172176,
       "num": 172176,
       "word": "NBA",
@@ -609,6 +705,14 @@
       "onboard_time": 1684681052,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 163931,
+      "num": 163931,
+      "word": "高速上冒险救人的原来是00后",
+      "onboard_time": 1684722925,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162979,
@@ -651,14 +755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155344,
-      "num": 155344,
-      "word": "猥亵殴打孕妇男子被刑拘",
-      "onboard_time": 1684720166,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150680,
       "num": 150680,
       "word": "外交部副部长召见日本驻华大使",
@@ -667,20 +763,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 150606,
-      "num": 150606,
-      "word": "盖茨再爆婚外情",
-      "onboard_time": 1684720349,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150483,
       "num": 150483,
       "word": "一稻济天下大医佑苍生",
       "onboard_time": 1684711641,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144696,
+      "num": 144696,
+      "word": "在工作群里艾特同事被教育",
+      "onboard_time": 1684722807,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 139526,
@@ -721,6 +817,22 @@
       "onboard_time": 1684664189,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130203,
+      "num": 130203,
+      "word": "LPL夏季赛",
+      "onboard_time": 1684722508,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 127395,
+      "num": 127395,
+      "word": "英首相宣称中国是全球最大安全挑战",
+      "onboard_time": 1684723108,
+      "rank": 48,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 126187,
