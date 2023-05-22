@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684759758495,
+  "endTime": 1684761635273,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -4179,6 +4179,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 1340765,
+      "num": 1340765,
+      "word": "清蒸榴莲",
+      "onboard_time": 1684754848,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1337917,
       "num": 1337917,
       "word": "男双",
@@ -4745,14 +4753,6 @@
       "onboard_time": 1683554132,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1239083,
-      "num": 1239083,
-      "word": "清蒸榴莲",
-      "onboard_time": 1684754848,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 1238586,
@@ -7403,6 +7403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 849100,
+      "num": 849100,
+      "word": "求爱不成当街捅杀女子凶手被判死刑",
+      "onboard_time": 1684756405,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 848368,
       "num": 361923,
       "word": "郑州大学王国胜已报警",
@@ -8347,6 +8355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 756489,
+      "num": 756489,
+      "word": "迪丽热巴阿娜尔罕评分降了",
+      "onboard_time": 1684760549,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 755976,
       "num": 755976,
       "word": "龚俊 他坐第一排我坐第七排",
@@ -8385,6 +8401,14 @@
       "onboard_time": 1683894690,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 751023,
+      "num": 751023,
+      "word": "樊振东",
+      "onboard_time": 1684758209,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 750561,
@@ -9779,6 +9803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 638084,
+      "num": 638084,
+      "word": "护心剧情 割裂",
+      "onboard_time": 1684759768,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 637804,
       "num": 637804,
       "word": "张云龙 竹业篇",
@@ -11091,14 +11123,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 568045,
-      "num": 568045,
-      "word": "樊振东",
-      "onboard_time": 1684758209,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 567963,
       "num": 567963,
       "word": "肖战唐三vs周翊然唐三",
@@ -11185,14 +11209,6 @@
       "onboard_time": 1684491448,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 562633,
-      "num": 562633,
-      "word": "求爱不成当街捅杀女子凶手被判死刑",
-      "onboard_time": 1684756405,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 562427,
@@ -12795,6 +12811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 497333,
+      "num": 497333,
+      "word": "女子凌晨打结做绳子把自己挂16楼窗外",
+      "onboard_time": 1684754728,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 496425,
       "num": 276732,
       "word": "王源他急了",
@@ -13065,6 +13089,14 @@
       "onboard_time": 1684386512,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 487206,
+      "num": 487206,
+      "word": "大王 毛雪汪",
+      "onboard_time": 1684757248,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 487170,
@@ -13849,14 +13881,6 @@
       "onboard_time": 1684129829,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 463005,
-      "num": 463005,
-      "word": "大王 毛雪汪",
-      "onboard_time": 1684757248,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 462725,
@@ -15163,14 +15187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 430033,
-      "num": 430033,
-      "word": "女子凌晨打结做绳子把自己挂16楼窗外",
-      "onboard_time": 1684754728,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 429620,
       "num": 429620,
       "word": "多名男子搭讪邻桌女孩店员劝阻起冲突",
@@ -15568,6 +15584,14 @@
       "word": "长月烬明玥烬情苏番外",
       "onboard_time": 1683438988,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 421001,
+      "num": 286068,
+      "word": "周冬雨的卧蚕",
+      "onboard_time": 1684758327,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -16835,14 +16859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 391817,
-      "num": 286068,
-      "word": "周冬雨的卧蚕",
-      "onboard_time": 1684758327,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 391365,
       "num": 391365,
       "word": "向往的生活",
@@ -18017,6 +18033,14 @@
       "onboard_time": 1683535771,
       "rank": 23,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 367571,
+      "num": 367571,
+      "word": "陈乔恩说听说全国观众都知道我喝大了",
+      "onboard_time": 1684759347,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 367557,
@@ -22569,6 +22593,14 @@
       "onboard_time": 1683448351,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 296551,
+      "num": 199325,
+      "word": "人类最早啥时候开始性接吻的",
+      "onboard_time": 1684759528,
+      "rank": 38,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 296510,
@@ -28419,6 +28451,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 235002,
+      "num": 215647,
+      "word": "周扬青新造型",
+      "onboard_time": 1684760368,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 234970,
       "num": 234970,
       "word": "敬礼娃娃每年都给解放军叔叔发祝福短信",
@@ -34003,14 +34043,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 191783,
-      "num": 191783,
-      "word": "陈乔恩说听说全国观众都知道我喝大了",
-      "onboard_time": 1684759347,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191775,
       "num": 191775,
       "word": "花样青春",
@@ -34377,6 +34409,14 @@
       "onboard_time": 1683513986,
       "rank": 33,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 189352,
+      "num": 189352,
+      "word": "seventeen中饭对教爱豆整活是认真的",
+      "onboard_time": 1684759107,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 189324,
@@ -35113,6 +35153,14 @@
       "onboard_time": 1684717946,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 184633,
+      "num": 184633,
+      "word": "月亮",
+      "onboard_time": 1684759950,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184190,
@@ -37339,6 +37387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169252,
+      "num": 169252,
+      "word": "当我问妈妈结婚有啥好处",
+      "onboard_time": 1684758927,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 169206,
       "num": 169206,
       "word": "剧院魅影",
@@ -37529,14 +37585,6 @@
       "onboard_time": 1684466848,
       "rank": 43,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 167658,
-      "num": 167658,
-      "word": "人类最早啥时候开始性接吻的",
-      "onboard_time": 1684759528,
-      "rank": 38,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 167622,
@@ -38491,6 +38539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 160223,
+      "num": 160223,
+      "word": "王者下一个新英雄是谁",
+      "onboard_time": 1684760608,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 160092,
       "num": 160092,
       "word": "孔雪儿许佳琪开机同框",
@@ -39377,14 +39433,6 @@
       "onboard_time": 1683527735,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153552,
-      "num": 153552,
-      "word": "seventeen中饭对教爱豆整活是认真的",
-      "onboard_time": 1684759107,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 153510,
@@ -41353,6 +41401,14 @@
       "onboard_time": 1684577126,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137801,
+      "num": 137801,
+      "word": "朴彩英生图",
+      "onboard_time": 1684761388,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 137575,
@@ -46817,6 +46873,14 @@
       "onboard_time": 1683414139,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37818,
+      "num": 960635,
+      "word": "我国启动2023年珠峰综合科学考察",
+      "onboard_time": 1684760549,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36946,

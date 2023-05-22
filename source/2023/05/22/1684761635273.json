@@ -1,0 +1,410 @@
+{
+  "runTime": 1684761635273,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1340765,
+        "num": 1340765,
+        "word": "清蒸榴莲",
+        "onboard_time": 1684754848,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1177172,
+        "num": 1177172,
+        "word": "杭州女子捐款1000万",
+        "onboard_time": 1684750889,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37818,
+        "num": 960635,
+        "word": "我国启动2023年珠峰综合科学考察",
+        "onboard_time": 1684760549,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 849100,
+        "num": 849100,
+        "word": "求爱不成当街捅杀女子凶手被判死刑",
+        "onboard_time": 1684756405,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756489,
+        "num": 756489,
+        "word": "迪丽热巴阿娜尔罕评分降了",
+        "onboard_time": 1684760549,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 751023,
+        "num": 751023,
+        "word": "樊振东",
+        "onboard_time": 1684758209,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 738491,
+        "num": 738491,
+        "word": "这婚纱照新娘有点多余了",
+        "onboard_time": 1684743393,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 638084,
+        "num": 638084,
+        "word": "护心剧情 割裂",
+        "onboard_time": 1684759768,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 573621,
+        "num": 573621,
+        "word": "华表奖 二选一",
+        "onboard_time": 1684755929,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 578600,
+        "num": 569711,
+        "word": "九鹭非香",
+        "onboard_time": 1684754247,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 929006,
+        "num": 551947,
+        "word": "过期糖",
+        "onboard_time": 1684738823,
+        "rank": 10,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 497333,
+        "num": 497333,
+        "word": "女子凌晨打结做绳子把自己挂16楼窗外",
+        "onboard_time": 1684754728,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487206,
+        "num": 487206,
+        "word": "大王 毛雪汪",
+        "onboard_time": 1684757248,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399629,
+        "num": 399629,
+        "word": "易梦玲综艺首秀",
+        "onboard_time": 1684752627,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382555,
+        "num": 382555,
+        "word": "宋佳的手套竟然是个包",
+        "onboard_time": 1684746630,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 367571,
+        "num": 367571,
+        "word": "陈乔恩说听说全国观众都知道我喝大了",
+        "onboard_time": 1684759347,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292759,
+        "num": 292759,
+        "word": "成都飞呼和浩特航班紧急备降",
+        "onboard_time": 1684753826,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288548,
+        "num": 288548,
+        "word": "三分野",
+        "onboard_time": 1684755328,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271538,
+        "num": 271538,
+        "word": "吴倩 三公",
+        "onboard_time": 1684740389,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221614,
+        "num": 221614,
+        "word": "马龙 王臻",
+        "onboard_time": 1684754008,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 456250,
+        "num": 221425,
+        "word": "20岁我妈给我生了个弟弟",
+        "onboard_time": 1684748489,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 421001,
+        "num": 219898,
+        "word": "周冬雨的卧蚕",
+        "onboard_time": 1684758327,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 446522,
+        "num": 218371,
+        "word": "小慧君巧乐兹夫妇已成被执行人",
+        "onboard_time": 1684749209,
+        "rank": 22,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 291181,
+        "num": 217100,
+        "word": "顶级东方美貌",
+        "onboard_time": 1684747470,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254408,
+        "num": 216524,
+        "word": "我爸突然告诉了我家中存款",
+        "onboard_time": 1684748548,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 235002,
+        "num": 215647,
+        "word": "周扬青新造型",
+        "onboard_time": 1684760368,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214836,
+        "num": 214836,
+        "word": "适合离职用的头像",
+        "onboard_time": 1684748972,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211664,
+        "num": 211664,
+        "word": "我爸不让25岁的我考研",
+        "onboard_time": 1684744529,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204638,
+        "num": 204638,
+        "word": "怦然3官宣",
+        "onboard_time": 1684752989,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100875,
+        "num": 199824,
+        "word": "一群人在悬崖绝壁保护植物界大熊猫",
+        "onboard_time": 1684755328,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296551,
+        "num": 199325,
+        "word": "人类最早啥时候开始性接吻的",
+        "onboard_time": 1684759528,
+        "rank": 30,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 212740,
+        "num": 199308,
+        "word": "巧乐兹夫妇停更",
+        "onboard_time": 1684735947,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 198462,
+        "num": 198462,
+        "word": "塞尔达传说王国之泪",
+        "onboard_time": 1684760967,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189352,
+        "num": 189352,
+        "word": "seventeen中饭对教爱豆整活是认真的",
+        "onboard_time": 1684759107,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187068,
+        "num": 187068,
+        "word": "韩娱唱片销量全靠中输",
+        "onboard_time": 1684751968,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186003,
+        "num": 186003,
+        "word": "张韶涵说周杰伦曾在最低谷挺她",
+        "onboard_time": 1684741709,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184633,
+        "num": 184633,
+        "word": "月亮",
+        "onboard_time": 1684759950,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181367,
+        "num": 181367,
+        "word": "1岁半女婴离家30米处丢失",
+        "onboard_time": 1684742010,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169252,
+        "num": 169252,
+        "word": "当我问妈妈结婚有啥好处",
+        "onboard_time": 1684758927,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163839,
+        "num": 163839,
+        "word": "ENHYPEN 天棺赐符",
+        "onboard_time": 1684752389,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160223,
+        "num": 160223,
+        "word": "王者下一个新英雄是谁",
+        "onboard_time": 1684760608,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152951,
+        "num": 152951,
+        "word": "柬埔寨女演员拄拐走戛纳红毯",
+        "onboard_time": 1684749929,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137801,
+        "num": 137801,
+        "word": "朴彩英生图",
+        "onboard_time": 1684761388,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 136817,
+        "num": 136817,
+        "word": "not in",
+        "onboard_time": 1684754008,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135490,
+        "num": 135490,
+        "word": "柳智敏ins人气",
+        "onboard_time": 1684752866,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131140,
+        "num": 131140,
+        "word": "护心",
+        "onboard_time": 1684754488,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129054,
+        "num": 129054,
+        "word": "乘风三公取消水舞台",
+        "onboard_time": 1684744649,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113829,
+        "num": 113829,
+        "word": "iPhone很富士",
+        "onboard_time": 1684743028,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 112509,
+        "num": 112509,
+        "word": "这些东西到底是谁在卖",
+        "onboard_time": 1684757427,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112144,
+        "num": 112144,
+        "word": "RNG大名单移除GALA和Ming",
+        "onboard_time": 1684742912,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国生物物种名录2023版发布#"
+    }
+  }
+}
