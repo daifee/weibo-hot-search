@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684776797066,
+  "endTime": 1684779651451,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -2651,6 +2651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 98734,
+      "num": 57414,
+      "word": "男子猥亵幼女因超时效不负刑责",
+      "onboard_time": 1684777037,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97879,
       "num": 150522,
       "word": "巴黎major",
@@ -2833,6 +2841,14 @@
       "onboard_time": 1684698072,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27803,
+      "num": 27803,
+      "word": "被造谣性骚扰当事人呼吁不要打扰证人",
+      "onboard_time": 1684778773,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26326,
