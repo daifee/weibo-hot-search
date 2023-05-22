@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684733609219,
+  "endTime": 1684736527785,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -155,6 +155,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 823531,
+      "num": 823531,
+      "word": "男子400元存银行25年利息46元",
+      "onboard_time": 1684731454,
+      "rank": 24,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 811159,
       "num": 811159,
       "word": "迪丽热巴的肩颈线",
@@ -193,6 +201,14 @@
       "onboard_time": 1684728812,
       "rank": 33,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 712802,
+      "num": 712802,
+      "word": "二阳",
+      "onboard_time": 1684733608,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 710156,
@@ -299,14 +315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 469201,
-      "num": 469201,
-      "word": "男子400元存银行25年利息46元",
-      "onboard_time": 1684731454,
-      "rank": 24,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 464920,
       "num": 340211,
       "word": "领导放了我涨薪的飞机",
@@ -337,6 +345,14 @@
       "onboard_time": 1684721366,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 449063,
+      "num": 449063,
+      "word": "周冬雨的小名是娜娜",
+      "onboard_time": 1684732230,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 447424,
@@ -419,6 +435,14 @@
       "category": "幽默,音乐"
     },
     {
+      "raw_hot": 374818,
+      "num": 374818,
+      "word": "Jennie找工作人员维持秩序",
+      "onboard_time": 1684733248,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 374637,
       "num": 325927,
       "word": "屈楚萧没去戛纳又好像去了",
@@ -441,14 +465,6 @@
       "onboard_time": 1684683211,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 360375,
-      "num": 360375,
-      "word": "周冬雨的小名是娜娜",
-      "onboard_time": 1684732230,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 356626,
@@ -521,6 +537,14 @@
       "onboard_time": 1684724727,
       "rank": 30,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 317483,
+      "num": 287862,
+      "word": "朱一龙原来真的在模仿余华",
+      "onboard_time": 1684734268,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 314419,
@@ -603,6 +627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 276279,
+      "num": 276279,
+      "word": "三分野今日开播",
+      "onboard_time": 1684735589,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 270655,
       "num": 270655,
       "word": "合肥一男子520建私人花园送妻子",
@@ -611,12 +643,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267994,
+      "num": 267994,
+      "word": "薛小婉官宣与vcccc恋情",
+      "onboard_time": 1684735167,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 267779,
       "num": 267779,
       "word": "高圆圆赵又廷带女儿现身机场",
       "onboard_time": 1684729653,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 266778,
+      "num": 266778,
+      "word": "巧乐兹夫妇停更",
+      "onboard_time": 1684735947,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 262271,
@@ -835,6 +883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222769,
+      "num": 222769,
+      "word": "义务教育不得通过考试或变相考试选拔学生",
+      "onboard_time": 1684735108,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 220406,
       "num": 220406,
       "word": "LPL夏季赛",
@@ -947,20 +1003,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 192506,
+      "num": 192506,
+      "word": "二阳比首阳症状轻吗",
+      "onboard_time": 1684736007,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191968,
       "num": 191968,
       "word": "瘦子选了谁",
       "onboard_time": 1684684649,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190234,
-      "num": 190234,
-      "word": "Jennie找工作人员维持秩序",
-      "onboard_time": 1684733248,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 190163,
@@ -1155,6 +1211,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158737,
+      "num": 158737,
+      "word": "丁程鑫张真源文艺志愿者视频",
+      "onboard_time": 1684735469,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 158705,
+      "num": 158705,
+      "word": "失眠的人睡前看时间会怎样",
+      "onboard_time": 1684735410,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157958,
       "num": 157958,
       "word": "再听袁爷爷这些话湿了眼眶",
@@ -1227,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129069,
+      "num": 129069,
+      "word": "小慧君已注册个人同名商标",
+      "onboard_time": 1684734508,
+      "rank": 42,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 126483,
       "num": 159807,
       "word": "雪碧酷光灯",
@@ -1249,6 +1329,14 @@
       "onboard_time": 1684664189,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123632,
+      "num": 123632,
+      "word": "这是个有理想但没教养的人",
+      "onboard_time": 1684735947,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 117199,
@@ -1289,6 +1377,14 @@
       "onboard_time": 1684681772,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 108996,
+      "num": 108996,
+      "word": "蓝莓表面的白霜要洗掉吗",
+      "onboard_time": 1684736366,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107973,

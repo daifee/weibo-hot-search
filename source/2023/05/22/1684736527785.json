@@ -1,0 +1,410 @@
+{
+  "runTime": 1684736527785,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2073977,
+        "num": 2073977,
+        "word": "钟南山称6月底或是今年疫情高峰",
+        "onboard_time": 1684727970,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1699659,
+        "num": 1699659,
+        "word": "没睡过8个小时的人",
+        "onboard_time": 1684728690,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42459,
+        "num": 1305826,
+        "word": "今天国际生物多样性日",
+        "onboard_time": 1684726647,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1298013,
+        "num": 1298013,
+        "word": "程潇腿骨折也去看了BLACKPINK演唱会",
+        "onboard_time": 1684728330,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1138065,
+        "num": 1138065,
+        "word": "AI诈骗正在全国爆发",
+        "onboard_time": 1684726949,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 848653,
+        "num": 848653,
+        "word": "文殊菩萨",
+        "onboard_time": 1684717170,
+        "rank": 5,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 823531,
+        "num": 823531,
+        "word": "男子400元存银行25年利息46元",
+        "onboard_time": 1684731454,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 714201,
+        "num": 714201,
+        "word": "谁给海清做的妆造",
+        "onboard_time": 1684724308,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 712802,
+        "num": 712802,
+        "word": "二阳",
+        "onboard_time": 1684733608,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622507,
+        "num": 622507,
+        "word": "迪丽热巴的肩颈线",
+        "onboard_time": 1684729294,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1065800,
+        "num": 587455,
+        "word": "陈大事",
+        "onboard_time": 1684722387,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 695700,
+        "num": 551074,
+        "word": "巧乐兹夫妇",
+        "onboard_time": 1684718788,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 449063,
+        "num": 449063,
+        "word": "周冬雨的小名是娜娜",
+        "onboard_time": 1684732230,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 389951,
+        "num": 389951,
+        "word": "陈大事称舆论的背后也许是资本",
+        "onboard_time": 1684728812,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 374818,
+        "num": 374818,
+        "word": "Jennie找工作人员维持秩序",
+        "onboard_time": 1684733248,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 353889,
+        "num": 353889,
+        "word": "法院认定小慧君虚构性骚扰",
+        "onboard_time": 1684714107,
+        "rank": 15,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 341563,
+        "num": 341563,
+        "word": "杨幂谈演员的打碎与重组",
+        "onboard_time": 1684729531,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 324688,
+        "num": 324688,
+        "word": "13岁少女被邻居性侵4名嫌疑人被抓",
+        "onboard_time": 1684728930,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309155,
+        "num": 309155,
+        "word": "盖茨再爆婚外情",
+        "onboard_time": 1684720349,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296781,
+        "num": 296781,
+        "word": "有人跟韩素希抢宋慧乔了",
+        "onboard_time": 1684723949,
+        "rank": 19,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 363351,
+        "num": 291272,
+        "word": "领导放了我涨薪的飞机",
+        "onboard_time": 1684732532,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 317483,
+        "num": 287862,
+        "word": "朱一龙原来真的在模仿余华",
+        "onboard_time": 1684734268,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276279,
+        "num": 276279,
+        "word": "三分野今日开播",
+        "onboard_time": 1684735589,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267994,
+        "num": 267994,
+        "word": "薛小婉官宣与vcccc恋情",
+        "onboard_time": 1684735167,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 266778,
+        "num": 266778,
+        "word": "巧乐兹夫妇停更",
+        "onboard_time": 1684735947,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 264183,
+        "num": 264183,
+        "word": "小学同学因为结婚连加我5次",
+        "onboard_time": 1684724787,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227047,
+        "num": 227047,
+        "word": "桂林暴雨",
+        "onboard_time": 1684731933,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223023,
+        "num": 223023,
+        "word": "刘诗诗何超莲合照",
+        "onboard_time": 1684729052,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222769,
+        "num": 222769,
+        "word": "义务教育不得通过考试或变相考试选拔学生",
+        "onboard_time": 1684735108,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 211385,
+        "num": 211385,
+        "word": "华表奖提名没有吴京",
+        "onboard_time": 1684732467,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195467,
+        "num": 195467,
+        "word": "屈楚萧没去戛纳又好像去了",
+        "onboard_time": 1684728391,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192506,
+        "num": 192506,
+        "word": "二阳比首阳症状轻吗",
+        "onboard_time": 1684736007,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178409,
+        "num": 178409,
+        "word": "小慧君",
+        "onboard_time": 1684731813,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 177207,
+        "num": 177207,
+        "word": "悄悄拍了同学1000多张照片",
+        "onboard_time": 1684726827,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176155,
+        "num": 176155,
+        "word": "手机真的会偷听吗",
+        "onboard_time": 1684727850,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 173458,
+        "num": 173458,
+        "word": "高圆圆赵又廷带女儿现身机场",
+        "onboard_time": 1684729653,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168669,
+        "num": 168669,
+        "word": "赵露思live图",
+        "onboard_time": 1684721246,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168132,
+        "num": 168132,
+        "word": "加了三年班的同事裸辞了",
+        "onboard_time": 1684720948,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158737,
+        "num": 158737,
+        "word": "丁程鑫张真源文艺志愿者视频",
+        "onboard_time": 1684735469,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158705,
+        "num": 158705,
+        "word": "失眠的人睡前看时间会怎样",
+        "onboard_time": 1684735410,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153493,
+        "num": 153493,
+        "word": "合肥一男子520建私人花园送妻子",
+        "onboard_time": 1684732053,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150336,
+        "num": 150336,
+        "word": "桂林371所学校因暴雨停课",
+        "onboard_time": 1684729413,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 129069,
+        "num": 129069,
+        "word": "小慧君已注册个人同名商标",
+        "onboard_time": 1684734508,
+        "rank": 42,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 127404,
+        "num": 127404,
+        "word": "618",
+        "onboard_time": 1684729171,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124327,
+        "num": 124327,
+        "word": "刘烨易烊千玺入围华表奖优秀男演员",
+        "onboard_time": 1684726049,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123632,
+        "num": 123632,
+        "word": "这是个有理想但没教养的人",
+        "onboard_time": 1684735947,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117826,
+        "num": 117826,
+        "word": "孙灏羽将继续起诉小慧君巧乐兹夫妇",
+        "onboard_time": 1684724727,
+        "rank": 46,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 108996,
+        "num": 108996,
+        "word": "蓝莓表面的白霜要洗掉吗",
+        "onboard_time": 1684736366,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91495,
+        "num": 108721,
+        "word": "LPL夏季赛",
+        "onboard_time": 1684722508,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 35286,
+        "num": 108403,
+        "word": "Tabe 对不起大家今天BP绑臭",
+        "onboard_time": 1684712482,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#关注2023中国中亚五国峰会#"
+    }
+  }
+}

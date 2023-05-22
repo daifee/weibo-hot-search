@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684733609219,
+  "endTime": 1684736527785,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -7579,6 +7579,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 823531,
+      "num": 823531,
+      "word": "男子400元存银行25年利息46元",
+      "onboard_time": 1684731454,
+      "rank": 24,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 821953,
       "num": 471255,
       "word": "low",
@@ -13387,14 +13395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 469201,
-      "num": 469201,
-      "word": "男子400元存银行25年利息46元",
-      "onboard_time": 1684731454,
-      "rank": 24,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 469171,
       "num": 469171,
       "word": "Hero止步季后赛",
@@ -14065,6 +14065,14 @@
       "onboard_time": 1683988535,
       "rank": 21,
       "category": "教育,情感"
+    },
+    {
+      "raw_hot": 449063,
+      "num": 449063,
+      "word": "周冬雨的小名是娜娜",
+      "onboard_time": 1684732230,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 448911,
@@ -17347,6 +17355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 374818,
+      "num": 374818,
+      "word": "Jennie找工作人员维持秩序",
+      "onboard_time": 1684733248,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 374743,
       "num": 368716,
       "word": "一年半年才发一次朋友圈",
@@ -18145,14 +18161,6 @@
       "onboard_time": 1683385715,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 360375,
-      "num": 360375,
-      "word": "周冬雨的小名是娜娜",
-      "onboard_time": 1684732230,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 360282,
@@ -20753,6 +20761,14 @@
       "onboard_time": 1682922629,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 317483,
+      "num": 287862,
+      "word": "朱一龙原来真的在模仿余华",
+      "onboard_time": 1684734268,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 317476,
@@ -23811,6 +23827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 276279,
+      "num": 276279,
+      "word": "三分野今日开播",
+      "onboard_time": 1684735589,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 276150,
       "num": 267645,
       "word": "杨颖新剧女扮男装双重身份",
@@ -24379,6 +24403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267994,
+      "num": 267994,
+      "word": "薛小婉官宣与vcccc恋情",
+      "onboard_time": 1684735167,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 267779,
       "num": 267779,
       "word": "高圆圆赵又廷带女儿现身机场",
@@ -24505,6 +24537,14 @@
       "onboard_time": 1684596687,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 266778,
+      "num": 266778,
+      "word": "巧乐兹夫妇停更",
+      "onboard_time": 1684735947,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 266699,
@@ -29323,6 +29363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 222769,
+      "num": 222769,
+      "word": "义务教育不得通过考试或变相考试选拔学生",
+      "onboard_time": 1684735108,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 222617,
       "num": 222617,
       "word": "时代少年团演唱会回放",
@@ -33283,6 +33331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192506,
+      "num": 192506,
+      "word": "二阳比首阳症状轻吗",
+      "onboard_time": 1684736007,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192498,
       "num": 192498,
       "word": "Angelababy猫女造型",
@@ -33641,14 +33697,6 @@
       "onboard_time": 1683537453,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 190234,
-      "num": 190234,
-      "word": "Jennie找工作人员维持秩序",
-      "onboard_time": 1684733248,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 190163,
@@ -37971,12 +38019,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158737,
+      "num": 158737,
+      "word": "丁程鑫张真源文艺志愿者视频",
+      "onboard_time": 1684735469,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158726,
       "num": 158726,
       "word": "长沙YOLO",
       "onboard_time": 1682867910,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 158705,
+      "num": 158705,
+      "word": "失眠的人睡前看时间会怎样",
+      "onboard_time": 1684735410,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158596,
@@ -41459,6 +41523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 129069,
+      "num": 129069,
+      "word": "小慧君已注册个人同名商标",
+      "onboard_time": 1684734508,
+      "rank": 42,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 129036,
       "num": 287062,
       "word": "为什么坚持健身反而胖了",
@@ -41993,6 +42065,14 @@
       "onboard_time": 1684488929,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123632,
+      "num": 123632,
+      "word": "这是个有理想但没教养的人",
+      "onboard_time": 1684735947,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 123629,
@@ -43016,6 +43096,14 @@
       "word": "这就是彩虹制造机吗",
       "onboard_time": 1684054886,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108996,
+      "num": 108996,
+      "word": "蓝莓表面的白霜要洗掉吗",
+      "onboard_time": 1684736366,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
