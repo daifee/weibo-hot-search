@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684732605513,
+  "endTime": 1684733609219,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -163,6 +163,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 805331,
+      "num": 669910,
+      "word": "沈梦辰 幸福不一定用金钱来衡量吧",
+      "onboard_time": 1684730734,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 767564,
       "num": 767564,
       "word": "周冬雨刘昊然在燃冬里有床戏",
@@ -179,28 +187,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 710156,
-      "num": 603245,
-      "word": "孙吧",
-      "onboard_time": 1684726589,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 707281,
-      "num": 707281,
+      "raw_hot": 735582,
+      "num": 735582,
       "word": "陈大事称舆论的背后也许是资本",
       "onboard_time": 1684728812,
       "rank": 33,
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 669910,
-      "num": 669910,
-      "word": "沈梦辰 幸福不一定用金钱来衡量吧",
-      "onboard_time": 1684730734,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 710156,
+      "num": 603245,
+      "word": "孙吧",
+      "onboard_time": 1684726589,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 660336,
@@ -297,6 +297,22 @@
       "onboard_time": 1684673430,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 469201,
+      "num": 469201,
+      "word": "男子400元存银行25年利息46元",
+      "onboard_time": 1684731454,
+      "rank": 24,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 464920,
+      "num": 340211,
+      "word": "领导放了我涨薪的飞机",
+      "onboard_time": 1684732532,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 456358,
@@ -427,12 +443,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 360375,
+      "num": 360375,
+      "word": "周冬雨的小名是娜娜",
+      "onboard_time": 1684732230,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 356626,
       "num": 356626,
       "word": "凯尔特人vs热火",
       "onboard_time": 1684720109,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 351000,
+      "num": 351000,
+      "word": "杨幂谈演员的打碎与重组",
+      "onboard_time": 1684729531,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 349947,
@@ -491,28 +523,12 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 318820,
-      "num": 318820,
-      "word": "男子400元存银行25年利息46元",
-      "onboard_time": 1684731454,
-      "rank": 24,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 314419,
       "num": 294353,
       "word": "四川宜宾地震",
       "onboard_time": 1684710319,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 313413,
-      "num": 313413,
-      "word": "杨幂谈演员的打碎与重组",
-      "onboard_time": 1684729531,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 310394,
@@ -529,14 +545,6 @@
       "onboard_time": 1684682909,
       "rank": 14,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 307284,
-      "num": 307284,
-      "word": "领导放了我涨薪的飞机",
-      "onboard_time": 1684732532,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 306272,
@@ -595,6 +603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 270655,
+      "num": 270655,
+      "word": "合肥一男子520建私人花园送妻子",
+      "onboard_time": 1684732053,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267779,
       "num": 267779,
       "word": "高圆圆赵又廷带女儿现身机场",
@@ -603,12 +619,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 261805,
-      "num": 261805,
-      "word": "周冬雨的小名是娜娜",
-      "onboard_time": 1684732230,
-      "rank": 28,
-      "category": "影视"
+      "raw_hot": 262271,
+      "num": 262271,
+      "word": "618",
+      "onboard_time": 1684729171,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260673,
@@ -649,14 +665,6 @@
       "onboard_time": 1684728450,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 256338,
-      "num": 256338,
-      "word": "618",
-      "onboard_time": 1684729171,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 252848,
@@ -771,14 +779,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 232054,
-      "num": 232054,
-      "word": "合肥一男子520建私人花园送妻子",
-      "onboard_time": 1684732053,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 231419,
       "num": 231419,
       "word": "这个周一看熊猫",
@@ -825,6 +825,14 @@
       "onboard_time": 1684725626,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224222,
+      "num": 224222,
+      "word": "华表奖提名没有吴京",
+      "onboard_time": 1684732467,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 220406,
@@ -947,19 +955,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190234,
+      "num": 190234,
+      "word": "Jennie找工作人员维持秩序",
+      "onboard_time": 1684733248,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190163,
       "num": 190163,
       "word": "海清戛纳红毯",
       "onboard_time": 1684714950,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 189843,
-      "num": 189843,
-      "word": "华表奖提名没有吴京",
-      "onboard_time": 1684732467,
-      "rank": 38,
       "category": "影视"
     },
     {
