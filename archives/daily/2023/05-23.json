@@ -1,6 +1,6 @@
 {
   "startTime": 1684772522563,
-  "endTime": 1684773442437,
+  "endTime": 1684775695763,
   "band_list": [
     {
       "raw_hot": 2585058,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162077,
+      "num": 82570,
+      "word": "宠物猫被邻居高空扔下活活摔死",
+      "onboard_time": 1684773263,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145819,
       "num": 145819,
       "word": "AI换脸用杨幂等明星卖货或涉侵权",
@@ -387,14 +395,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 78741,
-      "num": 78741,
-      "word": "宠物猫被邻居高空扔下活活摔死",
-      "onboard_time": 1684773263,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 65358,
       "num": 93780,
       "word": "AG 三组",
@@ -409,6 +409,14 @@
       "onboard_time": 1684766731,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 52331,
+      "num": 52331,
+      "word": "啜妮的造型突破了",
+      "onboard_time": 1684775538,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 25309,
