@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684730050820,
+  "endTime": 1684732605513,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -28,23 +28,31 @@
     },
     {
       "raw_hot": 2771367,
-      "num": 614936,
+      "num": 703738,
       "word": "陈大事",
       "onboard_time": 1684722387,
       "rank": 27,
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 1788200,
-      "num": 1788200,
+      "raw_hot": 2528375,
+      "num": 2528375,
       "word": "钟南山称6月底或是今年疫情高峰",
       "onboard_time": 1684727970,
       "rank": 15,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1862609,
+      "num": 1862609,
+      "word": "没睡过8个小时的人",
+      "onboard_time": 1684728690,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1765440,
-      "num": 610982,
+      "num": 691093,
       "word": "英首相宣称中国是全球最大安全挑战",
       "onboard_time": 1684723108,
       "rank": 48,
@@ -57,6 +65,14 @@
       "onboard_time": 1684726949,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1474409,
+      "num": 1474409,
+      "word": "程潇腿骨折也去看了BLACKPINK演唱会",
+      "onboard_time": 1684728330,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 1364630,
@@ -81,14 +97,6 @@
       "onboard_time": 1684677868,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1271062,
-      "num": 1271062,
-      "word": "程潇腿骨折也去看了BLACKPINK演唱会",
-      "onboard_time": 1684728330,
-      "rank": 9,
-      "category": "音乐"
     },
     {
       "raw_hot": 1179784,
@@ -147,6 +155,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 811159,
+      "num": 811159,
+      "word": "迪丽热巴的肩颈线",
+      "onboard_time": 1684729294,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 767564,
       "num": 767564,
       "word": "周冬雨刘昊然在燃冬里有床戏",
@@ -163,20 +179,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 754307,
-      "num": 605110,
-      "word": "没睡过8个小时的人",
-      "onboard_time": 1684728690,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 710156,
       "num": 603245,
       "word": "孙吧",
       "onboard_time": 1684726589,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 707281,
+      "num": 707281,
+      "word": "陈大事称舆论的背后也许是资本",
+      "onboard_time": 1684728812,
+      "rank": 33,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 669910,
+      "num": 669910,
+      "word": "沈梦辰 幸福不一定用金钱来衡量吧",
+      "onboard_time": 1684730734,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 660336,
@@ -243,6 +267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 518450,
+      "num": 518450,
+      "word": "刘诗诗何超莲合照",
+      "onboard_time": 1684729052,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 518399,
       "num": 518399,
       "word": "王嘉尔说不要把自己改变成不是自己",
@@ -307,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 438439,
+      "num": 438439,
+      "word": "13岁少女被邻居性侵4名嫌疑人被抓",
+      "onboard_time": 1684728930,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402263,
       "num": 523737,
       "word": "热火3比0凯尔特人",
@@ -321,14 +361,6 @@
       "onboard_time": 1684725448,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 391984,
-      "num": 273068,
-      "word": "陈大事称舆论的背后也许是资本",
-      "onboard_time": 1684728812,
-      "rank": 33,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 390606,
@@ -355,14 +387,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 379005,
-      "num": 379005,
-      "word": "迪丽热巴的肩颈线",
-      "onboard_time": 1684729294,
-      "rank": 22,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 375953,
       "num": 253577,
       "word": "虞书欣看了BLACKPINK演唱会",
@@ -380,11 +404,19 @@
     },
     {
       "raw_hot": 374637,
-      "num": 273039,
+      "num": 325927,
       "word": "屈楚萧没去戛纳又好像去了",
       "onboard_time": 1684728391,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 366815,
+      "num": 366815,
+      "word": "桂林暴雨",
+      "onboard_time": 1684731933,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 366525,
@@ -409,14 +441,6 @@
       "onboard_time": 1684670012,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 346123,
-      "num": 346123,
-      "word": "13岁少女被邻居性侵4名嫌疑人被抓",
-      "onboard_time": 1684728930,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 336063,
@@ -459,20 +483,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 322583,
-      "num": 322583,
-      "word": "刘诗诗何超莲合照",
-      "onboard_time": 1684729052,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 321022,
       "num": 321022,
       "word": "孙灏羽将继续起诉小慧君巧乐兹夫妇",
       "onboard_time": 1684724727,
       "rank": 30,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 318820,
+      "num": 318820,
+      "word": "男子400元存银行25年利息46元",
+      "onboard_time": 1684731454,
+      "rank": 24,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 314419,
@@ -483,8 +507,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 312617,
-      "num": 272979,
+      "raw_hot": 313413,
+      "num": 313413,
       "word": "杨幂谈演员的打碎与重组",
       "onboard_time": 1684729531,
       "rank": 32,
@@ -505,6 +529,14 @@
       "onboard_time": 1684682909,
       "rank": 14,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 307284,
+      "num": 307284,
+      "word": "领导放了我涨薪的飞机",
+      "onboard_time": 1684732532,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 306272,
@@ -571,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261805,
+      "num": 261805,
+      "word": "周冬雨的小名是娜娜",
+      "onboard_time": 1684732230,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 260673,
       "num": 260673,
       "word": "妻子去世10年男子仍帮老丈人插秧",
@@ -609,6 +649,22 @@
       "onboard_time": 1684728450,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 256338,
+      "num": 256338,
+      "word": "618",
+      "onboard_time": 1684729171,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252848,
+      "num": 252848,
+      "word": "小慧君",
+      "onboard_time": 1684731813,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 245421,
@@ -715,6 +771,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 232054,
+      "num": 232054,
+      "word": "合肥一男子520建私人花园送妻子",
+      "onboard_time": 1684732053,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231419,
       "num": 231419,
       "word": "这个周一看熊猫",
@@ -793,14 +857,6 @@
       "onboard_time": 1684682371,
       "rank": 26,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 213271,
-      "num": 213271,
-      "word": "618",
-      "onboard_time": 1684729171,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208182,
@@ -896,6 +952,14 @@
       "word": "海清戛纳红毯",
       "onboard_time": 1684714950,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 189843,
+      "num": 189843,
+      "word": "华表奖提名没有吴京",
+      "onboard_time": 1684732467,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -1027,6 +1091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 166984,
+      "num": 166984,
+      "word": "aespa出发戛纳",
+      "onboard_time": 1684730493,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 165524,
       "num": 165524,
       "word": "Ruler大满贯",
@@ -1057,6 +1129,14 @@
       "onboard_time": 1684710620,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160690,
+      "num": 160690,
+      "word": "当同事说你谈过不少恋爱吧",
+      "onboard_time": 1684732410,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 160119,
@@ -1137,6 +1217,14 @@
       "onboard_time": 1684664189,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126483,
+      "num": 159807,
+      "word": "雪碧酷光灯",
+      "onboard_time": 1684731273,
+      "rank": 47,
+      "category": "时尚"
     },
     {
       "raw_hot": 126187,
