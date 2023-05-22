@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684726417685,
+  "endTime": 1684729225147,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1121,6 +1121,14 @@
       "onboard_time": 1683070041,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2298365,
+      "num": 577652,
+      "word": "陈大事",
+      "onboard_time": 1684722387,
+      "rank": 27,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2294577,
@@ -2291,6 +2299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1765440,
+      "num": 546470,
+      "word": "英首相宣称中国是全球最大安全挑战",
+      "onboard_time": 1684723108,
+      "rank": 48,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1765436,
       "num": 1765436,
       "word": "problem怎么会输给龙拳",
@@ -2481,14 +2497,6 @@
       "onboard_time": 1683349955,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1699304,
-      "num": 513645,
-      "word": "陈大事",
-      "onboard_time": 1684722387,
-      "rank": 27,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1697599,
@@ -3731,6 +3739,14 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 1428990,
+      "num": 1428990,
+      "word": "AI诈骗正在全国爆发",
+      "onboard_time": 1684726949,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1427305,
       "num": 293996,
       "word": "原来子宫比鸡蛋还要小",
@@ -4713,14 +4729,6 @@
       "onboard_time": 1683040833,
       "rank": 8,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 1229046,
-      "num": 495497,
-      "word": "英首相宣称中国是全球最大安全挑战",
-      "onboard_time": 1684723108,
-      "rank": 48,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1229028,
@@ -6243,6 +6251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 996530,
+      "num": 518389,
+      "word": "钟南山称6月底或是今年疫情高峰",
+      "onboard_time": 1684727970,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 994653,
       "num": 994653,
       "word": "王源巡演",
@@ -7019,6 +7035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 883616,
+      "num": 830600,
+      "word": "谁给海清做的妆造",
+      "onboard_time": 1684724308,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 883222,
       "num": 883222,
       "word": "王冕",
@@ -7531,6 +7555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 824612,
+      "num": 824612,
+      "word": "有人跟韩素希抢宋慧乔了",
+      "onboard_time": 1684723949,
+      "rank": 8,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 821953,
       "num": 471255,
       "word": "low",
@@ -7945,14 +7977,6 @@
       "onboard_time": 1684372053,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 774901,
-      "num": 774901,
-      "word": "有人跟韩素希抢宋慧乔了",
-      "onboard_time": 1684723949,
-      "rank": 8,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 771511,
@@ -8617,6 +8641,14 @@
       "onboard_time": 1683027270,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 710156,
+      "num": 502754,
+      "word": "孙吧",
+      "onboard_time": 1684726589,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 709861,
@@ -9627,6 +9659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 633449,
+      "num": 633449,
+      "word": "刘烨易烊千玺入围华表奖优秀男演员",
+      "onboard_time": 1684726049,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 633253,
       "num": 633253,
       "word": "张艺兴舒淇电影 停拍",
@@ -10588,7 +10628,7 @@
     },
     {
       "raw_hot": 580599,
-      "num": 342313,
+      "num": 393466,
       "word": "加了三年班的同事裸辞了",
       "onboard_time": 1684720948,
       "rank": 20,
@@ -10633,6 +10673,14 @@
       "onboard_time": 1684634308,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 580052,
+      "num": 580052,
+      "word": "程潇腿骨折也去看了BLACKPINK演唱会",
+      "onboard_time": 1684728330,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 579918,
@@ -10723,6 +10771,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 573855,
+      "num": 393933,
+      "word": "小学同学因为结婚连加我5次",
+      "onboard_time": 1684724787,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 573412,
       "num": 573412,
       "word": "男子花1700买下价值70多万奶粉",
@@ -10777,14 +10833,6 @@
       "onboard_time": 1683959070,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 570570,
-      "num": 339831,
-      "word": "小学同学因为结婚连加我5次",
-      "onboard_time": 1684724787,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 570243,
@@ -13451,14 +13499,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 464464,
-      "num": 464464,
-      "word": "谁给海清做的妆造",
-      "onboard_time": 1684724308,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 463834,
       "num": 463834,
       "word": "LOL暂时禁用四个英雄",
@@ -15828,7 +15868,7 @@
     },
     {
       "raw_hot": 402263,
-      "num": 402263,
+      "num": 523737,
       "word": "热火3比0凯尔特人",
       "onboard_time": 1684724910,
       "rank": 18,
@@ -15937,6 +15977,14 @@
       "onboard_time": 1684210472,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400308,
+      "num": 400308,
+      "word": "Jennie个人综艺",
+      "onboard_time": 1684725448,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 400003,
@@ -17515,6 +17563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 368779,
+      "num": 368779,
+      "word": "手机真的会偷听吗",
+      "onboard_time": 1684727850,
+      "rank": 22,
+      "category": "科技"
+    },
+    {
       "raw_hot": 368353,
       "num": 368353,
       "word": "雅思加油",
@@ -18851,14 +18907,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 347216,
-      "num": 347216,
-      "word": "Jennie个人综艺",
-      "onboard_time": 1684725448,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 347207,
       "num": 347207,
       "word": "徐明浩cos小狗造型",
@@ -18937,6 +18985,14 @@
       "onboard_time": 1684325309,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 346472,
+      "num": 231632,
+      "word": "屈楚萧没去戛纳又好像去了",
+      "onboard_time": 1684728391,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 346439,
@@ -19073,6 +19129,14 @@
       "onboard_time": 1684561946,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 342938,
+      "num": 394104,
+      "word": "悄悄拍了同学1000多张照片",
+      "onboard_time": 1684726827,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 342838,
@@ -20425,6 +20489,14 @@
       "onboard_time": 1684582107,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321022,
+      "num": 321022,
+      "word": "孙灏羽将继续起诉小慧君巧乐兹夫妇",
+      "onboard_time": 1684724727,
+      "rank": 30,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 320868,
@@ -22851,6 +22923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 286025,
+      "num": 229117,
+      "word": "没睡过8个小时的人",
+      "onboard_time": 1684728690,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 285768,
       "num": 285768,
       "word": "李莎旻子说改名李莎抡子了",
@@ -24291,14 +24371,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 267124,
-      "num": 267124,
-      "word": "孙灏羽将继续起诉小慧君巧乐兹夫妇",
-      "onboard_time": 1684724727,
-      "rank": 30,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 267039,
       "num": 234102,
       "word": "西安大唐芙蓉园迎宾表演画面",
@@ -25715,14 +25787,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 252245,
-      "num": 252245,
-      "word": "刘烨易烊千玺入围华表奖优秀男演员",
-      "onboard_time": 1684726049,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 252027,
       "num": 252027,
       "word": "王栎鑫说只有张远一个人没有新郎经验",
@@ -26521,6 +26585,14 @@
       "onboard_time": 1683436648,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244930,
+      "num": 224504,
+      "word": "陈大事称舆论的背后也许是资本",
+      "onboard_time": 1684728812,
+      "rank": 33,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 244905,
@@ -29091,6 +29163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223333,
+      "num": 223333,
+      "word": "你离职时公司有挽留你吗",
+      "onboard_time": 1684728450,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 223163,
       "num": 223163,
       "word": "姆巴佩偷袭门将",
@@ -29361,6 +29441,14 @@
       "onboard_time": 1684652851,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220329,
+      "num": 220329,
+      "word": "13岁少女被邻居性侵4名嫌疑人被抓",
+      "onboard_time": 1684728930,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220323,
@@ -29673,6 +29761,14 @@
       "onboard_time": 1683158068,
       "rank": 27,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 218236,
+      "num": 218236,
+      "word": "刘诗诗何超莲合照",
+      "onboard_time": 1684729052,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 218105,
@@ -31129,6 +31225,14 @@
       "onboard_time": 1683786567,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206804,
+      "num": 206804,
+      "word": "莫名其妙被朋友删除好友了",
+      "onboard_time": 1684728990,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 206733,
@@ -32635,6 +32739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195368,
+      "num": 195368,
+      "word": "叮咚买菜将撤城川渝",
+      "onboard_time": 1684727549,
+      "rank": 43,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 195320,
       "num": 195320,
       "word": "你的手机设置了多少个闹钟",
@@ -33265,6 +33377,14 @@
       "onboard_time": 1683297032,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 191378,
+      "num": 191378,
+      "word": "618",
+      "onboard_time": 1684729171,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191313,
@@ -34371,6 +34491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 183318,
+      "num": 183318,
+      "word": "古树名木保护计划",
+      "onboard_time": 1684728450,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183293,
       "num": 183293,
       "word": "人脉说唱",
@@ -34713,6 +34841,14 @@
       "onboard_time": 1684554087,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 180637,
+      "num": 180637,
+      "word": "Jennie将参与电视剧TheIdol世界首映式",
+      "onboard_time": 1684727850,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 180597,
@@ -36153,6 +36289,14 @@
       "onboard_time": 1684556065,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 171796,
+      "num": 226776,
+      "word": "2023流行趋势是双生双色",
+      "onboard_time": 1684728213,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171669,
@@ -44017,6 +44161,14 @@
       "onboard_time": 1682928025,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 82475,
+      "num": 833453,
+      "word": "今天国际生物多样性日",
+      "onboard_time": 1684726647,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82462,

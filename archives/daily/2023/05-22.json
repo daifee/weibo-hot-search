@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684726417685,
+  "endTime": 1684729225147,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -27,12 +27,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1699304,
-      "num": 513645,
+      "raw_hot": 2298365,
+      "num": 577652,
       "word": "陈大事",
       "onboard_time": 1684722387,
       "rank": 27,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1765440,
+      "num": 546470,
+      "word": "英首相宣称中国是全球最大安全挑战",
+      "onboard_time": 1684723108,
+      "rank": 48,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1428990,
+      "num": 1428990,
+      "word": "AI诈骗正在全国爆发",
+      "onboard_time": 1684726949,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1364630,
@@ -59,14 +75,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1229046,
-      "num": 495497,
-      "word": "英首相宣称中国是全球最大安全挑战",
-      "onboard_time": 1684723108,
-      "rank": 48,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 1179784,
       "num": 1179784,
       "word": "盖茨再爆婚外情",
@@ -81,6 +89,14 @@
       "onboard_time": 1684671152,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 996530,
+      "num": 518389,
+      "word": "钟南山称6月底或是今年疫情高峰",
+      "onboard_time": 1684727970,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 974200,
@@ -99,6 +115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 883616,
+      "num": 830600,
+      "word": "谁给海清做的妆造",
+      "onboard_time": 1684724308,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 834691,
       "num": 834691,
       "word": "苏醒说希望半夜不要再有人来接机了",
@@ -107,8 +131,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 774901,
-      "num": 774901,
+      "raw_hot": 824612,
+      "num": 824612,
       "word": "有人跟韩素希抢宋慧乔了",
       "onboard_time": 1684723949,
       "rank": 8,
@@ -129,6 +153,14 @@
       "onboard_time": 1684711520,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 710156,
+      "num": 502754,
+      "word": "孙吧",
+      "onboard_time": 1684726589,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 660336,
@@ -155,6 +187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 633449,
+      "num": 633449,
+      "word": "刘烨易烊千玺入围华表奖优秀男演员",
+      "onboard_time": 1684726049,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 597592,
       "num": 511494,
       "word": "赵露思live图",
@@ -172,15 +212,23 @@
     },
     {
       "raw_hot": 580599,
-      "num": 342313,
+      "num": 393466,
       "word": "加了三年班的同事裸辞了",
       "onboard_time": 1684720948,
       "rank": 20,
       "category": "情感"
     },
     {
-      "raw_hot": 570570,
-      "num": 339831,
+      "raw_hot": 580052,
+      "num": 580052,
+      "word": "程潇腿骨折也去看了BLACKPINK演唱会",
+      "onboard_time": 1684728330,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 573855,
+      "num": 393933,
       "word": "小学同学因为结婚连加我5次",
       "onboard_time": 1684724787,
       "rank": 21,
@@ -209,14 +257,6 @@
       "onboard_time": 1684673430,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 464464,
-      "num": 464464,
-      "word": "谁给海清做的妆造",
-      "onboard_time": 1684724308,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 456358,
@@ -252,11 +292,19 @@
     },
     {
       "raw_hot": 402263,
-      "num": 402263,
+      "num": 523737,
       "word": "热火3比0凯尔特人",
       "onboard_time": 1684724910,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 400308,
+      "num": 400308,
+      "word": "Jennie个人综艺",
+      "onboard_time": 1684725448,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 390606,
@@ -291,6 +339,14 @@
       "category": "幽默,音乐"
     },
     {
+      "raw_hot": 368779,
+      "num": 368779,
+      "word": "手机真的会偷听吗",
+      "onboard_time": 1684727850,
+      "rank": 22,
+      "category": "科技"
+    },
+    {
       "raw_hot": 366525,
       "num": 237807,
       "word": "黄晓明说自己能生下黄明昊",
@@ -315,12 +371,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 347216,
-      "num": 347216,
-      "word": "Jennie个人综艺",
-      "onboard_time": 1684725448,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 346472,
+      "num": 231632,
+      "word": "屈楚萧没去戛纳又好像去了",
+      "onboard_time": 1684728391,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 342938,
+      "num": 394104,
+      "word": "悄悄拍了同学1000多张照片",
+      "onboard_time": 1684726827,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 336063,
@@ -361,6 +425,14 @@
       "onboard_time": 1684712482,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 321022,
+      "num": 321022,
+      "word": "孙灏羽将继续起诉小慧君巧乐兹夫妇",
+      "onboard_time": 1684724727,
+      "rank": 30,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 314419,
@@ -427,6 +499,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 286025,
+      "num": 229117,
+      "word": "没睡过8个小时的人",
+      "onboard_time": 1684728690,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 281573,
       "num": 281573,
       "word": "白桃星座",
@@ -441,14 +521,6 @@
       "onboard_time": 1684681531,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 267124,
-      "num": 267124,
-      "word": "孙灏羽将继续起诉小慧君巧乐兹夫妇",
-      "onboard_time": 1684724727,
-      "rank": 30,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 260673,
@@ -483,20 +555,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 252245,
-      "num": 252245,
-      "word": "刘烨易烊千玺入围华表奖优秀男演员",
-      "onboard_time": 1684726049,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 245421,
       "num": 245421,
       "word": "袁隆平离世2周年",
       "onboard_time": 1684717649,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244930,
+      "num": 224504,
+      "word": "陈大事称舆论的背后也许是资本",
+      "onboard_time": 1684728812,
+      "rank": 33,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 242674,
@@ -627,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223333,
+      "num": 223333,
+      "word": "你离职时公司有挽留你吗",
+      "onboard_time": 1684728450,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 220406,
       "num": 220406,
       "word": "LPL夏季赛",
@@ -635,12 +715,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 220329,
+      "num": 220329,
+      "word": "13岁少女被邻居性侵4名嫌疑人被抓",
+      "onboard_time": 1684728930,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218469,
       "num": 218469,
       "word": "这届90后是懂带娃的",
       "onboard_time": 1684721727,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 218236,
+      "num": 218236,
+      "word": "刘诗诗何超莲合照",
+      "onboard_time": 1684729052,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 214620,
@@ -664,6 +760,14 @@
       "word": "大学毕业后还会和室友联系吗",
       "onboard_time": 1684717468,
       "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 206804,
+      "num": 206804,
+      "word": "莫名其妙被朋友删除好友了",
+      "onboard_time": 1684728990,
+      "rank": 42,
       "category": "情感"
     },
     {
@@ -715,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195368,
+      "num": 195368,
+      "word": "叮咚买菜将撤城川渝",
+      "onboard_time": 1684727549,
+      "rank": 43,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 193480,
       "num": 193480,
       "word": "小米Civi3",
@@ -729,6 +841,14 @@
       "onboard_time": 1684684649,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191378,
+      "num": 191378,
+      "word": "618",
+      "onboard_time": 1684729171,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190163,
@@ -763,6 +883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183318,
+      "num": 183318,
+      "word": "古树名木保护计划",
+      "onboard_time": 1684728450,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181436,
       "num": 181436,
       "word": "73岁老人说我是精神上的亿万富翁",
@@ -777,6 +905,14 @@
       "onboard_time": 1684659749,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180637,
+      "num": 180637,
+      "word": "Jennie将参与电视剧TheIdol世界首映式",
+      "onboard_time": 1684727850,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 178312,
@@ -824,6 +960,14 @@
       "word": "袁隆平罕见哽咽画面首次曝光",
       "onboard_time": 1684714467,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171796,
+      "num": 226776,
+      "word": "2023流行趋势是双生双色",
+      "onboard_time": 1684728213,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1065,6 +1209,14 @@
       "onboard_time": 1684689259,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82475,
+      "num": 833453,
+      "word": "今天国际生物多样性日",
+      "onboard_time": 1684726647,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74350,
