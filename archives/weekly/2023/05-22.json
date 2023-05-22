@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684751647644,
+  "endTime": 1684754055422,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -137,6 +137,14 @@
       "onboard_time": 1684677868,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1270097,
+      "num": 1270097,
+      "word": "杭州女子捐款1000万",
+      "onboard_time": 1684750889,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1179784,
@@ -363,6 +371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 620465,
+      "num": 620465,
+      "word": "小慧君巧乐兹夫妇已成被执行人",
+      "onboard_time": 1684749209,
+      "rank": 18,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 610505,
       "num": 610505,
       "word": "吴昕好久不见的短发",
@@ -377,6 +393,14 @@
       "onboard_time": 1684721246,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 597554,
+      "num": 597554,
+      "word": "易梦玲综艺首秀",
+      "onboard_time": 1684752627,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 594315,
@@ -411,6 +435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 554134,
+      "num": 554134,
+      "word": "韩媒为造谣吴世勋道歉",
+      "onboard_time": 1684750229,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 552488,
       "num": 552488,
       "word": "胡锡进称百度应正视网友意见",
@@ -425,14 +457,6 @@
       "onboard_time": 1684742248,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 521155,
-      "num": 521155,
-      "word": "韩媒为造谣吴世勋道歉",
-      "onboard_time": 1684750229,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 519987,
@@ -468,27 +492,27 @@
     },
     {
       "raw_hot": 491463,
-      "num": 332021,
+      "num": 353283,
       "word": "20岁我妈给我生了个弟弟",
       "onboard_time": 1684748489,
       "rank": 21,
       "category": "情感"
     },
     {
+      "raw_hot": 491145,
+      "num": 491145,
+      "word": "适合离职用的头像",
+      "onboard_time": 1684748972,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 490702,
-      "num": 334315,
+      "num": 350289,
       "word": "顶级东方美貌",
       "onboard_time": 1684747470,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 490657,
-      "num": 490657,
-      "word": "小慧君巧乐兹夫妇已成被执行人",
-      "onboard_time": 1684749209,
-      "rank": 18,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 477618,
@@ -521,14 +545,6 @@
       "onboard_time": 1684739005,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 454081,
-      "num": 454081,
-      "word": "适合离职用的头像",
-      "onboard_time": 1684748972,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 453240,
@@ -569,14 +585,6 @@
       "onboard_time": 1684742670,
       "rank": 15,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 444984,
-      "num": 1205188,
-      "word": "杭州女子捐款1000万",
-      "onboard_time": 1684750889,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 442375,
@@ -712,6 +720,14 @@
       "word": "朱一龙原来真的在模仿余华",
       "onboard_time": 1684734268,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 359709,
+      "num": 359709,
+      "word": "柬埔寨女演员拄拐走戛纳红毯",
+      "onboard_time": 1684749929,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -883,12 +899,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 303914,
-      "num": 303914,
-      "word": "柬埔寨女演员拄拐走戛纳红毯",
-      "onboard_time": 1684749929,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 302842,
+      "num": 206806,
+      "word": "怦然3官宣",
+      "onboard_time": 1684752989,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 302030,
@@ -1083,6 +1099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 242288,
+      "num": 242288,
+      "word": "韩娱唱片销量全靠中输",
+      "onboard_time": 1684751968,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 240356,
       "num": 240356,
       "word": "Bin哥厉害",
@@ -1251,6 +1275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222684,
+      "num": 222684,
+      "word": "第三者劝退专家",
+      "onboard_time": 1684751428,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 220406,
       "num": 220406,
       "word": "LPL夏季赛",
@@ -1291,6 +1323,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 210070,
+      "num": 210070,
+      "word": "ENHYPEN 天棺赐符",
+      "onboard_time": 1684752389,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 208182,
       "num": 208182,
       "word": "莫名其妙被朋友删除好友了",
@@ -1305,6 +1345,14 @@
       "onboard_time": 1684717468,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 207365,
+      "num": 207365,
+      "word": "柳智敏ins人气",
+      "onboard_time": 1684752866,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 204411,
@@ -1409,6 +1457,14 @@
       "onboard_time": 1684714950,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189538,
+      "num": 189538,
+      "word": "梁靖崑",
+      "onboard_time": 1684753466,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 187232,
@@ -1611,6 +1667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164459,
+      "num": 164459,
+      "word": "怦然心动20岁",
+      "onboard_time": 1684753888,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163845,
       "num": 163845,
       "word": "边伯贤泡泡",
@@ -1691,6 +1755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156288,
+      "num": 156288,
+      "word": "周冬雨金色露背上衣",
+      "onboard_time": 1684751187,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 155203,
       "num": 155203,
       "word": "怎么别人的爱情都这么好嗑",
@@ -1699,28 +1771,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 152563,
-      "num": 152563,
-      "word": "周冬雨金色露背上衣",
-      "onboard_time": 1684751187,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 150680,
       "num": 150680,
       "word": "外交部副部长召见日本驻华大使",
       "onboard_time": 1684688300,
       "rank": 30,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 150604,
-      "num": 150604,
-      "word": "第三者劝退专家",
-      "onboard_time": 1684751428,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 150483,
@@ -1875,12 +1931,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123204,
+      "num": 123204,
+      "word": "马龙 王臻",
+      "onboard_time": 1684754008,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120509,
       "num": 1193681,
       "word": "谢谢你刘素琴",
       "onboard_time": 1684744529,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119925,
+      "num": 119925,
+      "word": "钟意挂牌",
+      "onboard_time": 1684752807,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 119616,
+      "num": 119616,
+      "word": "not in",
+      "onboard_time": 1684754008,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 117199,
@@ -2067,6 +2147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32751,
+      "num": 975743,
+      "word": "构建京津冀协同发展的高水平开放平台",
+      "onboard_time": 1684753287,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28838,
       "num": 29946,
       "word": "谢娜想语音输入结果发了语音",
@@ -2111,6 +2199,9 @@
     },
     {
       "word": "#这些神奇动物是表情包的常客#"
+    },
+    {
+      "word": "#中国生物物种名录2023版发布#"
     }
   ]
 }
