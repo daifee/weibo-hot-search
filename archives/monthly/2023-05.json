@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684747050391,
+  "endTime": 1684748028090,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -2929,6 +2929,14 @@
       "onboard_time": 1683093867,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1595634,
+      "num": 1595634,
+      "word": "刘亚仁男友潜逃海外失败",
+      "onboard_time": 1684746570,
+      "rank": 11,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1595258,
@@ -6459,6 +6467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 973009,
+      "num": 973009,
+      "word": "iPhone很富士",
+      "onboard_time": 1684743028,
+      "rank": 34,
+      "category": "科技"
+    },
+    {
       "raw_hot": 971296,
       "num": 949880,
       "word": "秋瓷炫初舞台唱无法原谅",
@@ -6889,14 +6905,6 @@
       "onboard_time": 1683847824,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 909476,
-      "num": 909476,
-      "word": "iPhone很富士",
-      "onboard_time": 1684743028,
-      "rank": 34,
-      "category": "科技"
     },
     {
       "raw_hot": 908968,
@@ -7379,6 +7387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 847019,
+      "num": 635217,
+      "word": "宋佳的手套竟然是个包",
+      "onboard_time": 1684746630,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 845822,
       "num": 845822,
       "word": "查尔斯加冕典礼",
@@ -7769,6 +7785,14 @@
       "onboard_time": 1684195648,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 809607,
+      "num": 809607,
+      "word": "这婚纱照新娘有点多余了",
+      "onboard_time": 1684743393,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 809580,
@@ -8835,14 +8859,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 706634,
-      "num": 607986,
-      "word": "这婚纱照新娘有点多余了",
-      "onboard_time": 1684743393,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 705300,
       "num": 413327,
       "word": "美依礼芽男粉呐喊惊到黄晓明",
@@ -9153,14 +9169,6 @@
       "onboard_time": 1684423528,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 686013,
-      "num": 600408,
-      "word": "刘亚仁男友潜逃海外失败",
-      "onboard_time": 1684746570,
-      "rank": 11,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 685337,
@@ -12108,7 +12116,7 @@
     },
     {
       "raw_hot": 519987,
-      "num": 278476,
+      "num": 394763,
       "word": "我爸不让25岁的我考研",
       "onboard_time": 1684744529,
       "rank": 20,
@@ -14395,6 +14403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 445180,
+      "num": 445180,
+      "word": "养老金",
+      "onboard_time": 1684742670,
+      "rank": 15,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 445030,
       "num": 445030,
       "word": "女友去世男子照顾其父母20年",
@@ -14563,14 +14579,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 440628,
-      "num": 440628,
-      "word": "养老金",
-      "onboard_time": 1684742670,
-      "rank": 15,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 440492,
       "num": 440492,
       "word": "辅导员式爱豆",
@@ -14617,6 +14625,14 @@
       "onboard_time": 1684591709,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 439360,
+      "num": 439360,
+      "word": "G7",
+      "onboard_time": 1684551086,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 439163,
@@ -15611,6 +15627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 415378,
+      "num": 415378,
+      "word": "王源粉发小辫",
+      "onboard_time": 1684746989,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 414605,
       "num": 344956,
       "word": "虞书欣帮爷爷拍照",
@@ -16009,6 +16033,14 @@
       "onboard_time": 1683776249,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 405081,
+      "num": 405081,
+      "word": "G社拍的海清",
+      "onboard_time": 1684743809,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 404774,
@@ -17489,14 +17521,6 @@
       "onboard_time": 1683005726,
       "rank": 41,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 375378,
-      "num": 375378,
-      "word": "G7",
-      "onboard_time": 1684551086,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 375081,
@@ -19955,14 +19979,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 334763,
-      "num": 334763,
-      "word": "G社拍的海清",
-      "onboard_time": 1684743809,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 334295,
       "num": 334295,
       "word": "苏迪曼杯",
@@ -20396,7 +20412,7 @@
     },
     {
       "raw_hot": 327089,
-      "num": 277013,
+      "num": 292200,
       "word": "小县城相亲有多难",
       "onboard_time": 1684745068,
       "rank": 21,
@@ -20849,6 +20865,14 @@
       "onboard_time": 1684200450,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320051,
+      "num": 320051,
+      "word": "乘风三公取消水舞台",
+      "onboard_time": 1684744649,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 319941,
@@ -22211,14 +22235,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 298727,
-      "num": 298727,
-      "word": "乘风三公取消水舞台",
-      "onboard_time": 1684744649,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 298535,
       "num": 298535,
       "word": "萌探探探案晒团体合照",
@@ -23515,6 +23531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 282787,
+      "num": 282787,
+      "word": "ENHYPEN新歌上线",
+      "onboard_time": 1684746989,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 282713,
       "num": 282713,
       "word": "妈妈为传承稀有剧种收女儿为徒",
@@ -23817,14 +23841,6 @@
       "onboard_time": 1683198449,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 279247,
-      "num": 279247,
-      "word": "宋佳的手套竟然是个包",
-      "onboard_time": 1684746630,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 279214,
@@ -28459,14 +28475,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 232926,
-      "num": 232926,
-      "word": "ENHYPEN新歌上线",
-      "onboard_time": 1684746989,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 232845,
       "num": 232845,
       "word": "淄博八大局登顶全国景区热门第1",
@@ -29617,6 +29625,14 @@
       "onboard_time": 1683076049,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 222601,
+      "num": 222601,
+      "word": "Angelababy澳门与路人合照",
+      "onboard_time": 1684746151,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 222501,
@@ -32563,6 +32579,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 199940,
+      "num": 199940,
+      "word": "顶级东方美貌",
+      "onboard_time": 1684747470,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 199908,
       "num": 199908,
       "word": "黄子华的脱口秀",
@@ -33329,6 +33353,14 @@
       "onboard_time": 1684473272,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194533,
+      "num": 194533,
+      "word": "李显龙感染新冠",
+      "onboard_time": 1684747890,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194521,
@@ -36379,14 +36411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174204,
-      "num": 174204,
-      "word": "Angelababy澳门与路人合照",
-      "onboard_time": 1684746151,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 174199,
       "num": 174199,
       "word": "萌娃遇消防员婚车队集体挥手祝福",
@@ -37273,14 +37297,6 @@
       "onboard_time": 1682910328,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 167451,
-      "num": 167451,
-      "word": "王源粉发小辫",
-      "onboard_time": 1684746989,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 167367,
@@ -38249,6 +38265,14 @@
       "onboard_time": 1682862509,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 159466,
+      "num": 159466,
+      "word": "警方已申请刘亚仁拘捕令",
+      "onboard_time": 1684747711,
+      "rank": 38,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 159332,
@@ -39697,6 +39721,14 @@
       "onboard_time": 1683522933,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 149166,
+      "num": 149166,
+      "word": "seventeen海报好像葫芦娃",
+      "onboard_time": 1684742967,
+      "rank": 41,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 149157,
@@ -41201,14 +41233,6 @@
       "onboard_time": 1683820529,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135064,
-      "num": 135064,
-      "word": "seventeen海报好像葫芦娃",
-      "onboard_time": 1684742967,
-      "rank": 41,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 135056,
