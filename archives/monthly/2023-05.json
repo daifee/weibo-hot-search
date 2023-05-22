@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684736527785,
+  "endTime": 1684737304019,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1675,6 +1675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2003473,
+      "num": 2003473,
+      "word": "没睡过8个小时的人",
+      "onboard_time": 1684728690,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1999829,
       "num": 522367,
       "word": "网友自称曾霸凌刘亦菲",
@@ -1969,14 +1977,6 @@
       "onboard_time": 1684454849,
       "rank": 0,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 1862609,
-      "num": 1862609,
-      "word": "没睡过8个小时的人",
-      "onboard_time": 1684728690,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 1857184,
@@ -13531,6 +13531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 465020,
+      "num": 465020,
+      "word": "Jennie找工作人员维持秩序",
+      "onboard_time": 1684733248,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 464920,
       "num": 340211,
       "word": "领导放了我涨薪的飞机",
@@ -14169,6 +14177,14 @@
       "onboard_time": 1684411948,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 447221,
+      "num": 447221,
+      "word": "巧乐兹夫妇停更",
+      "onboard_time": 1684735947,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 447213,
@@ -17355,14 +17371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 374818,
-      "num": 374818,
-      "word": "Jennie找工作人员维持秩序",
-      "onboard_time": 1684733248,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 374743,
       "num": 368716,
       "word": "一年半年才发一次朋友圈",
@@ -18073,6 +18081,14 @@
       "onboard_time": 1684667189,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 361823,
+      "num": 313553,
+      "word": "朱一龙原来真的在模仿余华",
+      "onboard_time": 1684734268,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 361568,
@@ -20763,14 +20779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 317483,
-      "num": 287862,
-      "word": "朱一龙原来真的在模仿余华",
-      "onboard_time": 1684734268,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 317476,
       "num": 188356,
       "word": "小清欢",
@@ -21129,6 +21137,14 @@
       "onboard_time": 1683168205,
       "rank": 20,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 312934,
+      "num": 312934,
+      "word": "薛小婉官宣与vcccc恋情",
+      "onboard_time": 1684735167,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 312810,
@@ -21961,6 +21977,14 @@
       "onboard_time": 1683521311,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 299157,
+      "num": 299157,
+      "word": "二阳比首阳症状轻吗",
+      "onboard_time": 1684736007,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299118,
@@ -24403,14 +24427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267994,
-      "num": 267994,
-      "word": "薛小婉官宣与vcccc恋情",
-      "onboard_time": 1684735167,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
       "raw_hot": 267779,
       "num": 267779,
       "word": "高圆圆赵又廷带女儿现身机场",
@@ -24537,14 +24553,6 @@
       "onboard_time": 1684596687,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 266778,
-      "num": 266778,
-      "word": "巧乐兹夫妇停更",
-      "onboard_time": 1684735947,
-      "rank": 24,
-      "category": "网红"
     },
     {
       "raw_hot": 266699,
@@ -28795,6 +28803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228121,
+      "num": 228121,
+      "word": "义务教育不得通过考试或变相考试选拔学生",
+      "onboard_time": 1684735108,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 228069,
       "num": 228069,
       "word": "你会嫁给合适但不喜欢的人吗",
@@ -29361,14 +29377,6 @@
       "onboard_time": 1684208070,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 222769,
-      "num": 222769,
-      "word": "义务教育不得通过考试或变相考试选拔学生",
-      "onboard_time": 1684735108,
-      "rank": 28,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 222617,
@@ -33331,14 +33339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192506,
-      "num": 192506,
-      "word": "二阳比首阳症状轻吗",
-      "onboard_time": 1684736007,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192498,
       "num": 192498,
       "word": "Angelababy猫女造型",
@@ -35403,6 +35403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178315,
+      "num": 178315,
+      "word": "陈大事 洗耳恭听",
+      "onboard_time": 1684736967,
+      "rank": 32,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 178312,
       "num": 178312,
       "word": "高速上冒险救人的原来是00后",
@@ -37395,6 +37403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 163845,
+      "num": 163845,
+      "word": "边伯贤泡泡",
+      "onboard_time": 1684736668,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163811,
       "num": 163811,
       "word": "太阳解雇蒙蒂",
@@ -37913,6 +37929,14 @@
       "onboard_time": 1684414947,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 159594,
+      "num": 159594,
+      "word": "小慧君已注册个人同名商标",
+      "onboard_time": 1684734508,
+      "rank": 42,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 159591,
@@ -38601,6 +38625,14 @@
       "onboard_time": 1683620425,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 154518,
+      "num": 154518,
+      "word": "乘风三公歌单",
+      "onboard_time": 1684737084,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 154474,
@@ -39755,6 +39787,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 146016,
+      "num": 146016,
+      "word": "这是个有理想但没教养的人",
+      "onboard_time": 1684735947,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146004,
       "num": 146004,
       "word": "混双 签表",
@@ -40227,6 +40267,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 141491,
+      "num": 141491,
+      "word": "朱一龙荒野作家",
+      "onboard_time": 1684737265,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 141360,
       "num": 127942,
       "word": "浪姐4冠军预测",
@@ -40337,6 +40385,14 @@
       "onboard_time": 1684214850,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140153,
+      "num": 140153,
+      "word": "魏晨谈打庆大霉素过敏失温经历",
+      "onboard_time": 1684737026,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 140115,
@@ -41259,6 +41315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131086,
+      "num": 131086,
+      "word": "蓝莓表面的白霜要洗掉吗",
+      "onboard_time": 1684736366,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131044,
       "num": 131044,
       "word": "他好像真的想教会我离职",
@@ -41521,14 +41585,6 @@
       "onboard_time": 1684418191,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 129069,
-      "num": 129069,
-      "word": "小慧君已注册个人同名商标",
-      "onboard_time": 1684734508,
-      "rank": 42,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 129036,
@@ -42065,14 +42121,6 @@
       "onboard_time": 1684488929,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123632,
-      "num": 123632,
-      "word": "这是个有理想但没教养的人",
-      "onboard_time": 1684735947,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 123629,
@@ -43096,14 +43144,6 @@
       "word": "这就是彩虹制造机吗",
       "onboard_time": 1684054886,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108996,
-      "num": 108996,
-      "word": "蓝莓表面的白霜要洗掉吗",
-      "onboard_time": 1684736366,
-      "rank": 47,
       "category": "社会新闻"
     },
     {

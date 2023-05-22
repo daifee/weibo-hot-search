@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684736527785,
+  "endTime": 1684737304019,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1862609,
-      "num": 1862609,
+      "raw_hot": 2003473,
+      "num": 2003473,
       "word": "没睡过8个小时的人",
       "onboard_time": 1684728690,
       "rank": 31,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465020,
+      "num": 465020,
+      "word": "Jennie找工作人员维持秩序",
+      "onboard_time": 1684733248,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 464920,
       "num": 340211,
       "word": "领导放了我涨薪的飞机",
@@ -361,6 +369,14 @@
       "onboard_time": 1684712303,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 447221,
+      "num": 447221,
+      "word": "巧乐兹夫妇停更",
+      "onboard_time": 1684735947,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 442375,
@@ -435,14 +451,6 @@
       "category": "幽默,音乐"
     },
     {
-      "raw_hot": 374818,
-      "num": 374818,
-      "word": "Jennie找工作人员维持秩序",
-      "onboard_time": 1684733248,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 374637,
       "num": 325927,
       "word": "屈楚萧没去戛纳又好像去了",
@@ -465,6 +473,14 @@
       "onboard_time": 1684683211,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 361823,
+      "num": 313553,
+      "word": "朱一龙原来真的在模仿余华",
+      "onboard_time": 1684734268,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 356626,
@@ -539,20 +555,20 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 317483,
-      "num": 287862,
-      "word": "朱一龙原来真的在模仿余华",
-      "onboard_time": 1684734268,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 314419,
       "num": 294353,
       "word": "四川宜宾地震",
       "onboard_time": 1684710319,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312934,
+      "num": 312934,
+      "word": "薛小婉官宣与vcccc恋情",
+      "onboard_time": 1684735167,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 310394,
@@ -593,6 +609,14 @@
       "onboard_time": 1684678111,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 299157,
+      "num": 299157,
+      "word": "二阳比首阳症状轻吗",
+      "onboard_time": 1684736007,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296940,
@@ -643,28 +667,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267994,
-      "num": 267994,
-      "word": "薛小婉官宣与vcccc恋情",
-      "onboard_time": 1684735167,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
       "raw_hot": 267779,
       "num": 267779,
       "word": "高圆圆赵又廷带女儿现身机场",
       "onboard_time": 1684729653,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 266778,
-      "num": 266778,
-      "word": "巧乐兹夫妇停更",
-      "onboard_time": 1684735947,
-      "rank": 24,
-      "category": "网红"
     },
     {
       "raw_hot": 262271,
@@ -851,6 +859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 228121,
+      "num": 228121,
+      "word": "义务教育不得通过考试或变相考试选拔学生",
+      "onboard_time": 1684735108,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 226892,
       "num": 226892,
       "word": "世上再无公子襄",
@@ -881,14 +897,6 @@
       "onboard_time": 1684732467,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 222769,
-      "num": 222769,
-      "word": "义务教育不得通过考试或变相考试选拔学生",
-      "onboard_time": 1684735108,
-      "rank": 28,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 220406,
@@ -1003,14 +1011,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 192506,
-      "num": 192506,
-      "word": "二阳比首阳症状轻吗",
-      "onboard_time": 1684736007,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191968,
       "num": 191968,
       "word": "瘦子选了谁",
@@ -1089,6 +1089,14 @@
       "onboard_time": 1684728213,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178315,
+      "num": 178315,
+      "word": "陈大事 洗耳恭听",
+      "onboard_time": 1684736967,
+      "rank": 32,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 178312,
@@ -1179,6 +1187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163845,
+      "num": 163845,
+      "word": "边伯贤泡泡",
+      "onboard_time": 1684736668,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162979,
       "num": 162979,
       "word": "女孩带农药到丛林退役军人果断报警",
@@ -1209,6 +1225,14 @@
       "onboard_time": 1684681953,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159594,
+      "num": 159594,
+      "word": "小慧君已注册个人同名商标",
+      "onboard_time": 1684734508,
+      "rank": 42,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 158737,
@@ -1243,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154518,
+      "num": 154518,
+      "word": "乘风三公歌单",
+      "onboard_time": 1684737084,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150680,
       "num": 150680,
       "word": "外交部副部长召见日本驻华大使",
@@ -1257,6 +1289,30 @@
       "onboard_time": 1684711641,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146016,
+      "num": 146016,
+      "word": "这是个有理想但没教养的人",
+      "onboard_time": 1684735947,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 141491,
+      "num": 141491,
+      "word": "朱一龙荒野作家",
+      "onboard_time": 1684737265,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 140153,
+      "num": 140153,
+      "word": "魏晨谈打庆大霉素过敏失温经历",
+      "onboard_time": 1684737026,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 139526,
@@ -1291,20 +1347,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131086,
+      "num": 131086,
+      "word": "蓝莓表面的白霜要洗掉吗",
+      "onboard_time": 1684736366,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131053,
       "num": 131053,
       "word": "长沙市市长郑建新被免职",
       "onboard_time": 1684664189,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129069,
-      "num": 129069,
-      "word": "小慧君已注册个人同名商标",
-      "onboard_time": 1684734508,
-      "rank": 42,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 126483,
@@ -1329,14 +1385,6 @@
       "onboard_time": 1684664189,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123632,
-      "num": 123632,
-      "word": "这是个有理想但没教养的人",
-      "onboard_time": 1684735947,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 117199,
@@ -1377,14 +1425,6 @@
       "onboard_time": 1684681772,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 108996,
-      "num": 108996,
-      "word": "蓝莓表面的白霜要洗掉吗",
-      "onboard_time": 1684736366,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107973,
