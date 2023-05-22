@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684766012294,
+  "endTime": 1684768655543,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -179,8 +179,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1279176,
+      "num": 914192,
+      "word": "大哥大嫂BE了",
+      "onboard_time": 1684767871,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1248905,
-      "num": 572630,
+      "num": 584185,
       "word": "陈乔恩说听说全国观众都知道我喝大了",
       "onboard_time": 1684759347,
       "rank": 33,
@@ -203,6 +211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1145682,
+      "num": 654542,
+      "word": "四美四帅",
+      "onboard_time": 1684765590,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1098545,
       "num": 738837,
       "word": "过期糖",
@@ -217,6 +233,14 @@
       "onboard_time": 1684739847,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1062983,
+      "num": 654051,
+      "word": "黄瑞恩罗颖分手",
+      "onboard_time": 1684768051,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 1033852,
@@ -355,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 778457,
+      "num": 778457,
+      "word": "俄方证实乌军攻入俄境内",
+      "onboard_time": 1684767150,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 775560,
       "num": 775560,
       "word": "易梦玲综艺首秀",
@@ -396,7 +428,7 @@
     },
     {
       "raw_hot": 721765,
-      "num": 600248,
+      "num": 651266,
       "word": "小慧君回应被指封号",
       "onboard_time": 1684763491,
       "rank": 9,
@@ -457,6 +489,14 @@
       "onboard_time": 1684723528,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 657798,
+      "num": 657798,
+      "word": "俄罗斯",
+      "onboard_time": 1684767330,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 646198,
@@ -555,6 +595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 559301,
+      "num": 559301,
+      "word": "郑容和不参与哇唧唧哇新综艺录制",
+      "onboard_time": 1684767213,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 554134,
       "num": 554134,
       "word": "韩媒为造谣吴世勋道歉",
@@ -577,6 +625,14 @@
       "onboard_time": 1684742248,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 531959,
+      "num": 382856,
+      "word": "一个人突然发朋友圈的规律",
+      "onboard_time": 1684766731,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 519987,
@@ -691,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465232,
+      "num": 465232,
+      "word": "AI换脸用杨幂等明星卖货或涉侵权",
+      "onboard_time": 1684764031,
+      "rank": 31,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 464920,
       "num": 340211,
       "word": "领导放了我涨薪的飞机",
@@ -787,14 +851,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 419144,
-      "num": 419144,
-      "word": "AI换脸用杨幂等明星卖货或涉侵权",
-      "onboard_time": 1684764031,
-      "rank": 31,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 415378,
       "num": 415378,
       "word": "王源粉发小辫",
@@ -825,6 +881,14 @@
       "onboard_time": 1684743809,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 404424,
+      "num": 404424,
+      "word": "乌克兰",
+      "onboard_time": 1684767390,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 402263,
@@ -1009,6 +1073,14 @@
       "onboard_time": 1684745068,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 325919,
+      "num": 325919,
+      "word": "易烊千玺或将开三场演唱会",
+      "onboard_time": 1684768051,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 325220,
@@ -1259,14 +1331,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 270800,
-      "num": 270800,
-      "word": "四美四帅",
-      "onboard_time": 1684765590,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 270655,
       "num": 270655,
       "word": "合肥一男子520建私人花园送妻子",
@@ -1467,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235517,
+      "num": 235517,
+      "word": "毛晓彤眉心坠",
+      "onboard_time": 1684765530,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 234792,
       "num": 234792,
       "word": "网红造谣性骚扰伤害了谁",
@@ -1587,6 +1659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 226692,
+      "num": 226692,
+      "word": "AG 三组",
+      "onboard_time": 1684768173,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 225573,
       "num": 225573,
       "word": "福建才是南方隐藏的吃面大省",
@@ -1635,6 +1715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219652,
+      "num": 219652,
+      "word": "melo",
+      "onboard_time": 1684768591,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219606,
       "num": 219606,
       "word": "魏晨谈打庆大霉素过敏失温经历",
@@ -1656,6 +1744,14 @@
       "word": "王者下一个新英雄是谁",
       "onboard_time": 1684760608,
       "rank": 40,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 214789,
+      "num": 214789,
+      "word": "TTG",
+      "onboard_time": 1684767451,
+      "rank": 36,
       "category": "游戏"
     },
     {
@@ -1699,14 +1795,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 204048,
-      "num": 204048,
-      "word": "毛晓彤眉心坠",
-      "onboard_time": 1684765530,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 202934,
       "num": 202934,
       "word": "三十岁是花园里刚刚盛开的花朵",
@@ -1729,6 +1817,14 @@
       "onboard_time": 1684745248,
       "rank": 32,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 199579,
+      "num": 199579,
+      "word": "张彬彬吴倩三分野热度值破20000",
+      "onboard_time": 1684767451,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 198462,
@@ -1785,6 +1881,14 @@
       "onboard_time": 1684764272,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195631,
+      "num": 195631,
+      "word": "KPL锦鲤们集结太仓",
+      "onboard_time": 1684768231,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 195368,
@@ -1849,6 +1953,14 @@
       "onboard_time": 1684765831,
       "rank": 38,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 187457,
+      "num": 187457,
+      "word": "KPL抽签",
+      "onboard_time": 1684766731,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 187232,
@@ -1963,6 +2075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176881,
+      "num": 176881,
+      "word": "九尾狐1938",
+      "onboard_time": 1684766070,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 176191,
       "num": 176191,
       "word": "金玟庭宁艺卓许允真曾是舍友",
@@ -2025,6 +2145,14 @@
       "onboard_time": 1684764750,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167466,
+      "num": 165778,
+      "word": "华表奖主题推广曲光辉",
+      "onboard_time": 1684767511,
+      "rank": 47,
+      "category": "影视,音乐"
     },
     {
       "raw_hot": 167367,
@@ -2265,6 +2393,14 @@
       "onboard_time": 1684748910,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138723,
+      "num": 575361,
+      "word": "朱一龙为河边的错误增肥",
+      "onboard_time": 1684767630,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 137575,
