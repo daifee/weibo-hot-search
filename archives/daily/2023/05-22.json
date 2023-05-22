@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684743712667,
+  "endTime": 1684744472577,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -91,6 +91,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1383898,
+      "num": 1383898,
+      "word": "吴倩 三公",
+      "onboard_time": 1684740389,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1364630,
       "num": 1364630,
       "word": "全红婵水花 物理学不存在了",
@@ -105,14 +113,6 @@
       "onboard_time": 1684679673,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1307221,
-      "num": 1307221,
-      "word": "吴倩 三公",
-      "onboard_time": 1684740389,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 1287198,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1064909,
+      "num": 1064909,
+      "word": "杨幂说新戏请了表演老师",
+      "onboard_time": 1684739847,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1011071,
       "num": 1011071,
       "word": "陈晓连麦到赵丽颖头像的人",
@@ -139,20 +147,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1004172,
-      "num": 1004172,
-      "word": "杨幂说新戏请了表演老师",
-      "onboard_time": 1684739847,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 974200,
       "num": 974200,
       "word": "当你叫了个外卖被同事问",
       "onboard_time": 1684710080,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 927634,
+      "num": 927634,
+      "word": "1岁半女婴离家30米处丢失",
+      "onboard_time": 1684742010,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 902643,
@@ -187,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 825085,
+      "num": 825085,
+      "word": "乐华被冻结2390万财产",
+      "onboard_time": 1684739066,
+      "rank": 16,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 824612,
       "num": 824612,
       "word": "有人跟韩素希抢宋慧乔了",
@@ -217,14 +233,6 @@
       "onboard_time": 1684730734,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 769847,
-      "num": 769847,
-      "word": "乐华被冻结2390万财产",
-      "onboard_time": 1684739066,
-      "rank": 16,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 767564,
@@ -272,14 +280,6 @@
       "word": "2023年退休人员基本养老金上调3.8%",
       "onboard_time": 1684740211,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 663981,
-      "num": 663981,
-      "word": "1岁半女婴离家30米处丢失",
-      "onboard_time": 1684742010,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -363,6 +363,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 570411,
+      "num": 570411,
+      "word": "RNG大名单移除GALA和Ming",
+      "onboard_time": 1684742912,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 545342,
+      "num": 545342,
+      "word": "去看BLACKPINK演唱会的明星",
+      "onboard_time": 1684742248,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 518450,
       "num": 518450,
       "word": "刘诗诗何超莲合照",
@@ -393,14 +409,6 @@
       "onboard_time": 1684673430,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 465901,
-      "num": 465901,
-      "word": "去看BLACKPINK演唱会的明星",
-      "onboard_time": 1684742248,
-      "rank": 13,
-      "category": "音乐"
     },
     {
       "raw_hot": 464920,
@@ -475,6 +483,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 432174,
+      "num": 196406,
+      "word": "这婚纱照新娘有点多余了",
+      "onboard_time": 1684743393,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 425626,
+      "num": 425626,
+      "word": "iPhone很富士",
+      "onboard_time": 1684743028,
+      "rank": 34,
+      "category": "科技"
+    },
+    {
       "raw_hot": 421605,
       "num": 421605,
       "word": "养老金",
@@ -521,14 +545,6 @@
       "onboard_time": 1684710018,
       "rank": 20,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 384977,
-      "num": 384977,
-      "word": "RNG大名单移除GALA和Ming",
-      "onboard_time": 1684742912,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 382354,
@@ -587,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 359064,
+      "num": 359064,
+      "word": "三分野空降不撤档",
+      "onboard_time": 1684741589,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 356626,
       "num": 356626,
       "word": "凯尔特人vs热火",
@@ -609,14 +633,6 @@
       "onboard_time": 1684670012,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 345700,
-      "num": 345700,
-      "word": "三分野空降不撤档",
-      "onboard_time": 1684741589,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 342967,
@@ -955,14 +971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 233766,
-      "num": 187402,
-      "word": "这婚纱照新娘有点多余了",
-      "onboard_time": 1684743393,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 232703,
       "num": 232703,
       "word": "王俊凯进组了吗",
@@ -1083,6 +1091,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 214349,
+      "num": 214349,
+      "word": "G社拍的海清",
+      "onboard_time": 1684743809,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 213730,
       "num": 213730,
       "word": "Rose看到自己表情包的反应",
@@ -1121,6 +1137,14 @@
       "onboard_time": 1684680514,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 201030,
+      "num": 201030,
+      "word": "上届华表奖TFBOYS还合体走红毯",
+      "onboard_time": 1684743867,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 197634,
@@ -1307,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173861,
+      "num": 173861,
+      "word": "小慧君巧乐兹夫妇至今未公开道歉",
+      "onboard_time": 1684742190,
+      "rank": 35,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 172176,
       "num": 172176,
       "word": "NBA",
@@ -1331,14 +1363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 169932,
-      "num": 169932,
-      "word": "iPhone很富士",
-      "onboard_time": 1684743028,
-      "rank": 34,
-      "category": "科技"
-    },
-    {
       "raw_hot": 167367,
       "num": 167367,
       "word": "三门峡34名讨薪教师目前全在岗",
@@ -1361,14 +1385,6 @@
       "onboard_time": 1684730493,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 166047,
-      "num": 166047,
-      "word": "小慧君巧乐兹夫妇至今未公开道歉",
-      "onboard_time": 1684742190,
-      "rank": 35,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 165524,
@@ -1528,6 +1544,14 @@
       "word": "宋雨琦蔡亨源Queencard舞蹈挑战",
       "onboard_time": 1684683689,
       "rank": 38,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 132582,
+      "num": 132582,
+      "word": "电梯战神",
+      "onboard_time": 1684744348,
+      "rank": 40,
       "category": "音乐"
     },
     {
@@ -1804,6 +1828,9 @@
     },
     {
       "word": "#既要无障碍也要更有爱#"
+    },
+    {
+      "word": "#这些神奇动物是表情包的常客#"
     }
   ]
 }
