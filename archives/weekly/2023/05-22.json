@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684780422170,
+  "endTime": 1684782800304,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -2683,6 +2683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95837,
+      "num": 43648,
+      "word": "8年间多次猥亵幼女男子登报道歉",
+      "onboard_time": 1684779254,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88967,
       "num": 88967,
       "word": "来历历",
@@ -2833,14 +2841,6 @@
       "onboard_time": 1684692375,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 38747,
-      "num": 36361,
-      "word": "8年间多次猥亵幼女男子登报道歉",
-      "onboard_time": 1684779254,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28838,
