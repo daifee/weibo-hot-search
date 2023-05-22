@@ -1,6 +1,6 @@
 {
   "startTime": 1684772522563,
-  "endTime": 1684793747153,
+  "endTime": 1684794829759,
   "band_list": [
     {
       "raw_hot": 2585058,
@@ -171,6 +171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 261565,
+      "num": 261565,
+      "word": "8年间多次猥亵幼女男子登报道歉",
+      "onboard_time": 1684779254,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250500,
       "num": 250500,
       "word": "乌克兰",
@@ -193,14 +201,6 @@
       "onboard_time": 1684761929,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 204216,
-      "num": 204216,
-      "word": "8年间多次猥亵幼女男子登报道歉",
-      "onboard_time": 1684779254,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202265,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 162077,
-      "num": 82570,
+      "num": 91911,
       "word": "宠物猫被邻居高空扔下活活摔死",
       "onboard_time": 1684773263,
       "rank": 46,
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89901,
+      "num": 51816,
+      "word": "湛江当街杀人男子判死刑当庭上诉",
+      "onboard_time": 1684788732,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88967,
       "num": 88967,
       "word": "来历历",
@@ -411,12 +419,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 73963,
-      "num": 38856,
-      "word": "湛江当街杀人男子判死刑当庭上诉",
-      "onboard_time": 1684788732,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 79378,
+      "num": 79378,
+      "word": "东野圭吾比喻明知不可能的爱",
+      "onboard_time": 1684786992,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 70779,
@@ -435,14 +443,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 58404,
-      "num": 58404,
-      "word": "东野圭吾比喻明知不可能的爱",
-      "onboard_time": 1684786992,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 54469,
       "num": 93779,
       "word": "KPL抽签",
@@ -459,8 +459,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 31596,
-      "num": 28665,
+      "raw_hot": 36647,
+      "num": 36647,
       "word": "汪苏泷在大王婚礼唱歌又忘词了",
       "onboard_time": 1684787232,
       "rank": 45,
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25474,
+      "num": 35565,
+      "word": "华表奖嘉宾",
+      "onboard_time": 1684656628,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 25309,
       "num": 671817,
       "word": "我国启动2023年珠峰综合科学考察",
@@ -483,16 +491,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23040,
-      "num": 25158,
-      "word": "华表奖嘉宾",
-      "onboard_time": 1684656628,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 21546,
-      "num": 27333,
+      "num": 35454,
       "word": "KPL锦鲤们集结太仓",
       "onboard_time": 1684768231,
       "rank": 48,

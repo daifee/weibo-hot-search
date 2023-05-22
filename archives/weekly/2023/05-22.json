@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684793747153,
+  "endTime": 1684794829759,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -1403,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261565,
+      "num": 261565,
+      "word": "8年间多次猥亵幼女男子登报道歉",
+      "onboard_time": 1684779254,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260673,
       "num": 260673,
       "word": "妻子去世10年男子仍帮老丈人插秧",
@@ -1825,14 +1833,6 @@
       "onboard_time": 1684683028,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 204216,
-      "num": 204216,
-      "word": "8年间多次猥亵幼女男子登报道歉",
-      "onboard_time": 1684779254,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202934,
@@ -2268,7 +2268,7 @@
     },
     {
       "raw_hot": 162077,
-      "num": 82570,
+      "num": 91911,
       "word": "宠物猫被邻居高空扔下活活摔死",
       "onboard_time": 1684773263,
       "rank": 46,
@@ -2691,6 +2691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89901,
+      "num": 51816,
+      "word": "湛江当街杀人男子判死刑当庭上诉",
+      "onboard_time": 1684788732,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88967,
       "num": 88967,
       "word": "来历历",
@@ -2731,20 +2739,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79378,
+      "num": 79378,
+      "word": "东野圭吾比喻明知不可能的爱",
+      "onboard_time": 1684786992,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 74350,
       "num": 74350,
       "word": "张雨绮重现2013戛纳经典造型",
       "onboard_time": 1684670789,
       "rank": 39,
       "category": "影视,时尚"
-    },
-    {
-      "raw_hot": 73963,
-      "num": 38856,
-      "word": "湛江当街杀人男子判死刑当庭上诉",
-      "onboard_time": 1684788732,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72211,
@@ -2793,14 +2801,6 @@
       "onboard_time": 1684737507,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 58404,
-      "num": 58404,
-      "word": "东野圭吾比喻明知不可能的爱",
-      "onboard_time": 1684786992,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 58059,
@@ -2859,8 +2859,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 31596,
-      "num": 28665,
+      "raw_hot": 36647,
+      "num": 36647,
       "word": "汪苏泷在大王婚礼唱歌又忘词了",
       "onboard_time": 1684787232,
       "rank": 45,
@@ -2891,20 +2891,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 25474,
+      "num": 35565,
+      "word": "华表奖嘉宾",
+      "onboard_time": 1684656628,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 25128,
       "num": 152473,
       "word": "新能源大五座SUV怎么选",
       "onboard_time": 1684719388,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 23040,
-      "num": 25158,
-      "word": "华表奖嘉宾",
-      "onboard_time": 1684656628,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 21399,
