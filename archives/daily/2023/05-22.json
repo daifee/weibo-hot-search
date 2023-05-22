@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684739775196,
+  "endTime": 1684740813369,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2405990,
+      "num": 2405990,
+      "word": "百度已不是中国第一大桌面搜索引擎",
+      "onboard_time": 1684738347,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
       "raw_hot": 2003473,
       "num": 2003473,
       "word": "没睡过8个小时的人",
@@ -75,20 +83,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1439742,
+      "num": 1439742,
+      "word": "巧乐兹夫妇停更",
+      "onboard_time": 1684735947,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1364630,
       "num": 1364630,
       "word": "全红婵水花 物理学不存在了",
       "onboard_time": 1684682013,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1351791,
-      "num": 1274418,
-      "word": "巧乐兹夫妇停更",
-      "onboard_time": 1684735947,
-      "rank": 24,
-      "category": "网红"
     },
     {
       "raw_hot": 1313388,
@@ -105,14 +113,6 @@
       "onboard_time": 1684677868,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1259303,
-      "num": 1259303,
-      "word": "百度已不是中国第一大桌面搜索引擎",
-      "onboard_time": 1684738347,
-      "rank": 4,
-      "category": "科技"
     },
     {
       "raw_hot": 1179784,
@@ -153,6 +153,14 @@
       "onboard_time": 1684724308,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 847415,
+      "num": 645271,
+      "word": "过期糖",
+      "onboard_time": 1684738823,
+      "rank": 14,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 834691,
@@ -209,6 +217,14 @@
       "onboard_time": 1684711520,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 763939,
+      "num": 763939,
+      "word": "乐华被冻结2390万财产",
+      "onboard_time": 1684739066,
+      "rank": 16,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 735582,
@@ -403,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 405696,
+      "num": 405696,
+      "word": "陈大事 洗耳恭听",
+      "onboard_time": 1684736967,
+      "rank": 32,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 402263,
       "num": 523737,
       "word": "热火3比0凯尔特人",
@@ -443,22 +467,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 379329,
-      "num": 379329,
-      "word": "过期糖",
-      "onboard_time": 1684738823,
-      "rank": 14,
-      "category": "情感,艺人"
-    },
-    {
-      "raw_hot": 378600,
-      "num": 378600,
-      "word": "陈大事 洗耳恭听",
-      "onboard_time": 1684736967,
-      "rank": 32,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 375953,
       "num": 253577,
       "word": "虞书欣看了BLACKPINK演唱会",
@@ -481,14 +489,6 @@
       "onboard_time": 1684728391,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 367367,
-      "num": 367367,
-      "word": "乐华被冻结2390万财产",
-      "onboard_time": 1684739066,
-      "rank": 16,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 366815,
@@ -539,6 +539,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 349394,
+      "num": 290145,
+      "word": "吴昕好久不见的短发",
+      "onboard_time": 1684739306,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 346579,
+      "num": 346579,
+      "word": "吴倩 三公",
+      "onboard_time": 1684740389,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 336063,
       "num": 336063,
       "word": "朱一龙河边的错误外网开分8.7",
@@ -553,6 +569,14 @@
       "onboard_time": 1684721308,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 325043,
+      "num": 325043,
+      "word": "独居博主遭男子威胁推迟手术",
+      "onboard_time": 1684739005,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 324779,
@@ -763,6 +787,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 257643,
+      "num": 257643,
+      "word": "2023年退休人员基本养老金上调3.8%",
+      "onboard_time": 1684740211,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257577,
+      "num": 257577,
+      "word": "杨幂说新戏请了表演老师",
+      "onboard_time": 1684739847,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 252848,
       "num": 252848,
       "word": "小慧君",
@@ -817,6 +857,14 @@
       "onboard_time": 1684722387,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 237660,
+      "num": 237660,
+      "word": "义务教育不得通过考试或变相考试选拔学生",
+      "onboard_time": 1684735108,
+      "rank": 28,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 236437,
@@ -897,14 +945,6 @@
       "onboard_time": 1684711520,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 228121,
-      "num": 228121,
-      "word": "义务教育不得通过考试或变相考试选拔学生",
-      "onboard_time": 1684735108,
-      "rank": 28,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 226892,
@@ -1011,22 +1051,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 200937,
-      "num": 200937,
-      "word": "独居博主遭男子威胁推迟手术",
-      "onboard_time": 1684739005,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199264,
-      "num": 199264,
-      "word": "吴昕好久不见的短发",
-      "onboard_time": 1684739306,
-      "rank": 31,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 197634,
       "num": 197634,
       "word": "刘昊然开云晚宴",
@@ -1123,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181586,
+      "num": 181586,
+      "word": "节粮有我",
+      "onboard_time": 1684740628,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181436,
       "num": 181436,
       "word": "73岁老人说我是精神上的亿万富翁",
@@ -1209,6 +1241,14 @@
       "onboard_time": 1684714467,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171575,
+      "num": 171575,
+      "word": "易烊千玺中国电影三大奖全提",
+      "onboard_time": 1684740510,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 171037,
@@ -1331,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155203,
+      "num": 155203,
+      "word": "怎么别人的爱情都这么好嗑",
+      "onboard_time": 1684740571,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150680,
       "num": 150680,
       "word": "外交部副部长召见日本驻华大使",
@@ -1371,8 +1419,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134864,
-      "num": 134864,
+      "raw_hot": 137575,
+      "num": 137575,
       "word": "上影节官方宣传片发布",
       "onboard_time": 1684739668,
       "rank": 43,
@@ -1539,8 +1587,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 85256,
-      "num": 123402,
+      "raw_hot": 87590,
+      "num": 131998,
       "word": "音乐节妆容",
       "onboard_time": 1684737624,
       "rank": 48,
@@ -1588,7 +1636,7 @@
     },
     {
       "raw_hot": 64233,
-      "num": 122336,
+      "num": 130970,
       "word": "Gemini幸运杯S2",
       "onboard_time": 1684737507,
       "rank": 49,
