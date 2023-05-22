@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684787619449,
+  "endTime": 1684790088819,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -2636,7 +2636,7 @@
     },
     {
       "raw_hot": 107547,
-      "num": 80464,
+      "num": 83757,
       "word": "8年间多次猥亵幼女男子登报道歉",
       "onboard_time": 1684779254,
       "rank": 32,
@@ -2843,6 +2843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31174,
+      "num": 17601,
+      "word": "湛江当街杀人男子判死刑当庭上诉",
+      "onboard_time": 1684788732,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28838,
       "num": 29946,
       "word": "谢娜想语音输入结果发了语音",
@@ -2857,6 +2865,14 @@
       "onboard_time": 1684778773,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26534,
+      "num": 18551,
+      "word": "汪苏泷在大王婚礼唱歌又忘词了",
+      "onboard_time": 1684787232,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 26326,
@@ -2881,14 +2897,6 @@
       "onboard_time": 1684671029,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 13356,
-      "num": 13356,
-      "word": "汪苏泷在大王婚礼唱歌又忘词了",
-      "onboard_time": 1684787232,
-      "rank": 45,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
