@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684772522563,
+  "endTime": 1684773442437,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 695511,
+      "num": 695511,
+      "word": "俄罗斯",
+      "onboard_time": 1684767330,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 689404,
       "num": 689404,
       "word": "戛纳电影节 假血",
@@ -465,14 +473,6 @@
       "onboard_time": 1684761748,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 675988,
-      "num": 675988,
-      "word": "俄罗斯",
-      "onboard_time": 1684767330,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 673417,
@@ -1844,7 +1844,7 @@
     },
     {
       "raw_hot": 202265,
-      "num": 152166,
+      "num": 156151,
       "word": "王嘉尔的肩好宽",
       "onboard_time": 1684771287,
       "rank": 25,
@@ -2667,6 +2667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88967,
+      "num": 88967,
+      "word": "来历历",
+      "onboard_time": 1684772964,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 87945,
       "num": 87945,
       "word": "陈雨菲说不要看轻我的信念决心",
@@ -2696,6 +2704,14 @@
       "word": "今天国际生物多样性日",
       "onboard_time": 1684726647,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78741,
+      "num": 78741,
+      "word": "宠物猫被邻居高空扔下活活摔死",
+      "onboard_time": 1684773263,
+      "rank": 46,
       "category": "社会新闻"
     },
     {

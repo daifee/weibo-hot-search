@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684772522563,
+  "endTime": 1684773442437,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -9203,6 +9203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 695511,
+      "num": 695511,
+      "word": "俄罗斯",
+      "onboard_time": 1684767330,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 695181,
       "num": 695181,
       "word": "许靖韵 淘汰",
@@ -9465,14 +9473,6 @@
       "onboard_time": 1684221569,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 675988,
-      "num": 675988,
-      "word": "俄罗斯",
-      "onboard_time": 1684767330,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 675709,
@@ -32860,7 +32860,7 @@
     },
     {
       "raw_hot": 202265,
-      "num": 152166,
+      "num": 156151,
       "word": "王嘉尔的肩好宽",
       "onboard_time": 1684771287,
       "rank": 25,
@@ -45283,6 +45283,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 88967,
+      "num": 88967,
+      "word": "来历历",
+      "onboard_time": 1684772964,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 88882,
       "num": 88882,
       "word": "张之臻16强",
@@ -45745,6 +45753,14 @@
       "onboard_time": 1684566085,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 78741,
+      "num": 78741,
+      "word": "宠物猫被邻居高空扔下活活摔死",
+      "onboard_time": 1684773263,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77880,
