@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684725542323,
+  "endTime": 1684726417685,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1583882,
-      "num": 503811,
+      "raw_hot": 1699304,
+      "num": 513645,
       "word": "陈大事",
       "onboard_time": 1684722387,
       "rank": 27,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1229046,
+      "num": 495497,
+      "word": "英首相宣称中国是全球最大安全挑战",
+      "onboard_time": 1684723108,
+      "rank": 48,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1179784,
       "num": 1179784,
       "word": "盖茨再爆婚外情",
@@ -73,6 +81,14 @@
       "onboard_time": 1684671152,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 974200,
+      "num": 974200,
+      "word": "当你叫了个外卖被同事问",
+      "onboard_time": 1684710080,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 902643,
@@ -91,12 +107,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 803156,
-      "num": 803156,
-      "word": "当你叫了个外卖被同事问",
-      "onboard_time": 1684710080,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 774901,
+      "num": 774901,
+      "word": "有人跟韩素希抢宋慧乔了",
+      "onboard_time": 1684723949,
+      "rank": 8,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 767564,
@@ -121,14 +137,6 @@
       "onboard_time": 1684723528,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 655426,
-      "num": 495497,
-      "word": "英首相宣称中国是全球最大安全挑战",
-      "onboard_time": 1684723108,
-      "rank": 48,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 646198,
@@ -171,12 +179,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 532049,
-      "num": 532049,
-      "word": "有人跟韩素希抢宋慧乔了",
-      "onboard_time": 1684723949,
-      "rank": 8,
-      "category": "艺人,幽默"
+      "raw_hot": 570570,
+      "num": 339831,
+      "word": "小学同学因为结婚连加我5次",
+      "onboard_time": 1684724787,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 518399,
+      "num": 518399,
+      "word": "王嘉尔说不要把自己改变成不是自己",
+      "onboard_time": 1684722266,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 503131,
@@ -195,12 +211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 465480,
-      "num": 465480,
-      "word": "王嘉尔说不要把自己改变成不是自己",
-      "onboard_time": 1684722266,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 464464,
+      "num": 464464,
+      "word": "谁给海清做的妆造",
+      "onboard_time": 1684724308,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 456358,
@@ -235,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 402263,
+      "num": 402263,
+      "word": "热火3比0凯尔特人",
+      "onboard_time": 1684724910,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 390606,
       "num": 390606,
       "word": "JDG夺冠",
@@ -249,14 +273,6 @@
       "onboard_time": 1684710018,
       "rank": 20,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 378694,
-      "num": 378694,
-      "word": "谁给海清做的妆造",
-      "onboard_time": 1684724308,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 375953,
@@ -275,28 +291,12 @@
       "category": "幽默,音乐"
     },
     {
-      "raw_hot": 371736,
-      "num": 339831,
-      "word": "小学同学因为结婚连加我5次",
-      "onboard_time": 1684724787,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 366525,
       "num": 237807,
       "word": "黄晓明说自己能生下黄明昊",
       "onboard_time": 1684683211,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 364762,
-      "num": 364762,
-      "word": "热火3比0凯尔特人",
-      "onboard_time": 1684724910,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 356626,
@@ -313,6 +313,14 @@
       "onboard_time": 1684670012,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 347216,
+      "num": 347216,
+      "word": "Jennie个人综艺",
+      "onboard_time": 1684725448,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 336063,
@@ -379,6 +387,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 306272,
+      "num": 306272,
+      "word": "这就是街舞直播阵容官宣",
+      "onboard_time": 1684724727,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306104,
       "num": 237880,
       "word": "不会哄女朋友的有福了",
@@ -427,6 +443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 267124,
+      "num": 267124,
+      "word": "孙灏羽将继续起诉小慧君巧乐兹夫妇",
+      "onboard_time": 1684724727,
+      "rank": 30,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 260673,
       "num": 260673,
       "word": "妻子去世10年男子仍帮老丈人插秧",
@@ -457,6 +481,14 @@
       "onboard_time": 1684668809,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 252245,
+      "num": 252245,
+      "word": "刘烨易烊千玺入围华表奖优秀男演员",
+      "onboard_time": 1684726049,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 245421,
@@ -531,14 +563,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 233164,
-      "num": 233164,
-      "word": "这就是街舞直播阵容官宣",
-      "onboard_time": 1684724727,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 232703,
       "num": 232703,
       "word": "王俊凯进组了吗",
@@ -553,6 +577,14 @@
       "onboard_time": 1684722627,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 231419,
+      "num": 231419,
+      "word": "这个周一看熊猫",
+      "onboard_time": 1684724608,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231281,
@@ -587,12 +619,20 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 222023,
-      "num": 222023,
-      "word": "孙灏羽将继续起诉小慧君巧乐兹夫妇",
-      "onboard_time": 1684724727,
-      "rank": 30,
-      "category": "社会新闻,网红"
+      "raw_hot": 224356,
+      "num": 224356,
+      "word": "做自然的朋友",
+      "onboard_time": 1684725626,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220406,
+      "num": 220406,
+      "word": "LPL夏季赛",
+      "onboard_time": 1684722508,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 218469,
@@ -619,14 +659,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 209827,
-      "num": 209827,
-      "word": "LPL夏季赛",
-      "onboard_time": 1684722508,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 207519,
       "num": 207519,
       "word": "大学毕业后还会和室友联系吗",
@@ -649,14 +681,6 @@
       "onboard_time": 1684680514,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 197971,
-      "num": 197971,
-      "word": "这个周一看熊猫",
-      "onboard_time": 1684724608,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197634,
@@ -849,14 +873,6 @@
       "onboard_time": 1684710620,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160271,
-      "num": 160271,
-      "word": "Jennie个人综艺",
-      "onboard_time": 1684725448,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 160119,
