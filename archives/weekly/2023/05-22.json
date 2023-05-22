@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684768655543,
+  "endTime": 1684769639792,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -17,6 +17,14 @@
       "onboard_time": 1684714107,
       "rank": 1,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 3101486,
+      "num": 914192,
+      "word": "大哥大嫂BE了",
+      "onboard_time": 1684767871,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 2947646,
@@ -73,6 +81,14 @@
       "onboard_time": 1684723108,
       "rank": 48,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1687289,
+      "num": 654051,
+      "word": "黄瑞恩罗颖分手",
+      "onboard_time": 1684768051,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 1646686,
@@ -179,14 +195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1279176,
-      "num": 914192,
-      "word": "大哥大嫂BE了",
-      "onboard_time": 1684767871,
-      "rank": 3,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1248905,
       "num": 584185,
       "word": "陈乔恩说听说全国观众都知道我喝大了",
@@ -233,14 +241,6 @@
       "onboard_time": 1684739847,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1062983,
-      "num": 654051,
-      "word": "黄瑞恩罗颖分手",
-      "onboard_time": 1684768051,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 1033852,
@@ -323,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 833192,
+      "num": 833192,
+      "word": "俄方证实乌军攻入俄境内",
+      "onboard_time": 1684767150,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 825085,
       "num": 825085,
       "word": "乐华被冻结2390万财产",
@@ -377,14 +385,6 @@
       "onboard_time": 1684730734,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 778457,
-      "num": 778457,
-      "word": "俄方证实乌军攻入俄境内",
-      "onboard_time": 1684767150,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 775560,
@@ -467,6 +467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 675988,
+      "num": 675988,
+      "word": "俄罗斯",
+      "onboard_time": 1684767330,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 673417,
       "num": 673417,
       "word": "2023年退休人员基本养老金上调3.8%",
@@ -489,14 +497,6 @@
       "onboard_time": 1684723528,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 657798,
-      "num": 657798,
-      "word": "俄罗斯",
-      "onboard_time": 1684767330,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 646198,
@@ -763,6 +763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 457828,
+      "num": 457828,
+      "word": "乌克兰",
+      "onboard_time": 1684767390,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456358,
       "num": 456358,
       "word": "水电工人被射钉枪击中头部身亡",
@@ -817,6 +825,14 @@
       "onboard_time": 1684742670,
       "rank": 15,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 443780,
+      "num": 325919,
+      "word": "易烊千玺或将开三场演唱会",
+      "onboard_time": 1684768051,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 442375,
@@ -881,14 +897,6 @@
       "onboard_time": 1684743809,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 404424,
-      "num": 404424,
-      "word": "乌克兰",
-      "onboard_time": 1684767390,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 402263,
@@ -1075,14 +1083,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 325919,
-      "num": 325919,
-      "word": "易烊千玺或将开三场演唱会",
-      "onboard_time": 1684768051,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 325220,
       "num": 293786,
       "word": "朴彩英生图",
@@ -1140,7 +1140,7 @@
     },
     {
       "raw_hot": 315924,
-      "num": 292703,
+      "num": 310917,
       "word": "张雨绮也有撑伞神图了",
       "onboard_time": 1684764629,
       "rank": 43,
@@ -1307,12 +1307,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 276776,
+      "num": 276776,
+      "word": "melo",
+      "onboard_time": 1684768591,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 276279,
       "num": 276279,
       "word": "三分野今日开播",
       "onboard_time": 1684735589,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 273887,
+      "num": 321479,
+      "word": "AG 三组",
+      "onboard_time": 1684768173,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 273353,
@@ -1451,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244621,
+      "num": 575361,
+      "word": "朱一龙为河边的错误增肥",
+      "onboard_time": 1684767630,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 243318,
       "num": 243318,
       "word": "柳智敏ins人气",
@@ -1465,6 +1489,14 @@
       "onboard_time": 1684665328,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242620,
+      "num": 242620,
+      "word": "毛晓彤眉心坠",
+      "onboard_time": 1684765530,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 242589,
@@ -1531,14 +1563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235517,
-      "num": 235517,
-      "word": "毛晓彤眉心坠",
-      "onboard_time": 1684765530,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 234792,
       "num": 234792,
       "word": "网红造谣性骚扰伤害了谁",
@@ -1560,6 +1584,14 @@
       "word": "最食人间烟火色取关了卢洋洋",
       "onboard_time": 1684671390,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 233249,
+      "num": 233249,
+      "word": "张彬彬吴倩三分野热度值破20000",
+      "onboard_time": 1684767451,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -1659,14 +1691,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 226692,
-      "num": 226692,
-      "word": "AG 三组",
-      "onboard_time": 1684768173,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 225573,
       "num": 225573,
       "word": "福建才是南方隐藏的吃面大省",
@@ -1713,14 +1737,6 @@
       "onboard_time": 1684754488,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 219652,
-      "num": 219652,
-      "word": "melo",
-      "onboard_time": 1684768591,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 219606,
@@ -1817,14 +1833,6 @@
       "onboard_time": 1684745248,
       "rank": 32,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 199579,
-      "num": 199579,
-      "word": "张彬彬吴倩三分野热度值破20000",
-      "onboard_time": 1684767451,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 198462,
@@ -2051,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178972,
+      "num": 178972,
+      "word": "十年前的婚纱照不要太离谱",
+      "onboard_time": 1684768051,
+      "rank": 40,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 178312,
       "num": 178312,
       "word": "高速上冒险救人的原来是00后",
@@ -2113,6 +2129,14 @@
       "onboard_time": 1684742190,
       "rank": 35,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 173602,
+      "num": 173602,
+      "word": "宁艺卓瘦了",
+      "onboard_time": 1684769488,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 172176,
@@ -2339,6 +2363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149353,
+      "num": 149353,
+      "word": "白玉兰古装剧征片",
+      "onboard_time": 1684769309,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 149166,
       "num": 149166,
       "word": "seventeen海报好像葫芦娃",
@@ -2395,20 +2427,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 138723,
-      "num": 575361,
-      "word": "朱一龙为河边的错误增肥",
-      "onboard_time": 1684767630,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 137575,
       "num": 137575,
       "word": "上影节官方宣传片发布",
       "onboard_time": 1684739668,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 134390,
+      "num": 134390,
+      "word": "中国科学家养的牛在海底打231米钻孔",
+      "onboard_time": 1684769552,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133905,
@@ -2786,6 +2818,9 @@
     },
     {
       "word": "#中国生物物种名录2023版发布#"
+    },
+    {
+      "word": "#珍惜我们的共同家园#"
     }
   ]
 }
