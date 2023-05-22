@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684786653654,
+  "endTime": 1684787619449,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -2636,7 +2636,7 @@
     },
     {
       "raw_hot": 107547,
-      "num": 79907,
+      "num": 80464,
       "word": "8年间多次猥亵幼女男子登报道歉",
       "onboard_time": 1684779254,
       "rank": 32,
@@ -2881,6 +2881,14 @@
       "onboard_time": 1684671029,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 13356,
+      "num": 13356,
+      "word": "汪苏泷在大王婚礼唱歌又忘词了",
+      "onboard_time": 1684787232,
+      "rank": 45,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [

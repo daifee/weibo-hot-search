@@ -1,0 +1,410 @@
+{
+  "runTime": 1684787619449,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 100267,
+        "num": 100267,
+        "word": "俄方证实乌军攻入俄境内",
+        "onboard_time": 1684767150,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80464,
+        "num": 80464,
+        "word": "8年间多次猥亵幼女男子登报道歉",
+        "onboard_time": 1684779254,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6641,
+        "num": 73123,
+        "word": "我国启动2023年珠峰综合科学考察",
+        "onboard_time": 1684760549,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135387,
+        "num": 72222,
+        "word": "大哥大嫂BE了",
+        "onboard_time": 1684767871,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70967,
+        "num": 70967,
+        "word": "俄罗斯",
+        "onboard_time": 1684767330,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40345,
+        "num": 40345,
+        "word": "郑容和不参与哇唧唧哇新综艺录制",
+        "onboard_time": 1684767213,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38642,
+        "num": 38642,
+        "word": "陈乔恩以为龚俊30多了",
+        "onboard_time": 1684762709,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33883,
+        "num": 33883,
+        "word": "戛纳电影节 假血",
+        "onboard_time": 1684763012,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30532,
+        "num": 30532,
+        "word": "你猜这花为什么不发朋友圈",
+        "onboard_time": 1684762051,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29830,
+        "num": 29830,
+        "word": "杭州女子捐款1000万",
+        "onboard_time": 1684750889,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63999,
+        "num": 28922,
+        "word": "黄瑞恩罗颖分手",
+        "onboard_time": 1684768051,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 36578,
+        "num": 28299,
+        "word": "四美四帅",
+        "onboard_time": 1684765590,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33488,
+        "num": 28125,
+        "word": "陈乔恩说听说全国观众都知道我喝大了",
+        "onboard_time": 1684759347,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26421,
+        "num": 26421,
+        "word": "乌克兰",
+        "onboard_time": 1684767390,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26398,
+        "num": 26398,
+        "word": "徐州一餐厅被吐槽优先安排外国人",
+        "onboard_time": 1684763732,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26104,
+        "num": 26104,
+        "word": "安东尼宣布退役",
+        "onboard_time": 1684763491,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26035,
+        "num": 26035,
+        "word": "护心男主变小三",
+        "onboard_time": 1684761988,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22427,
+        "num": 22427,
+        "word": "迪丽热巴阿娜尔罕评分降了",
+        "onboard_time": 1684760549,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21398,
+        "num": 21398,
+        "word": "melo",
+        "onboard_time": 1684768591,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18905,
+        "num": 18905,
+        "word": "起猛了看到婴儿会飞",
+        "onboard_time": 1684763310,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 42093,
+        "num": 18827,
+        "word": "一个人突然发朋友圈的规律",
+        "onboard_time": 1684766731,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31705,
+        "num": 18669,
+        "word": "浙江一公司上4休3收到上千份简历",
+        "onboard_time": 1684769909,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31388,
+        "num": 18544,
+        "word": "你可以接受婚前同居吗",
+        "onboard_time": 1684761929,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30283,
+        "num": 18504,
+        "word": "AI换脸用杨幂等明星卖货或涉侵权",
+        "onboard_time": 1684764031,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 27214,
+        "num": 18333,
+        "word": "宠物猫被邻居高空扔下活活摔死",
+        "onboard_time": 1684773263,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23286,
+        "num": 18258,
+        "word": "20岁我妈给我生了个弟弟",
+        "onboard_time": 1684748489,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22518,
+        "num": 18097,
+        "word": "张雨绮也有撑伞神图了",
+        "onboard_time": 1684764629,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19917,
+        "num": 18014,
+        "word": "十年前的婚纱照不要太离谱",
+        "onboard_time": 1684768051,
+        "rank": 27,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 17926,
+        "num": 17926,
+        "word": "三分野",
+        "onboard_time": 1684755328,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17331,
+        "num": 17331,
+        "word": "毛晓彤眉心坠",
+        "onboard_time": 1684765530,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 68833,
+        "num": 17310,
+        "word": "小慧君回应被指封号",
+        "onboard_time": 1684763491,
+        "rank": 30,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 24033,
+        "num": 17131,
+        "word": "小慧君巧乐兹夫妇已成被执行人",
+        "onboard_time": 1684749209,
+        "rank": 31,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 16953,
+        "num": 16953,
+        "word": "王嘉尔的肩好宽",
+        "onboard_time": 1684771287,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16586,
+        "num": 16586,
+        "word": "周冬雨的卧蚕",
+        "onboard_time": 1684758327,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16309,
+        "num": 16309,
+        "word": "易梦玲综艺首秀",
+        "onboard_time": 1684752627,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15781,
+        "num": 15781,
+        "word": "招摇2.0",
+        "onboard_time": 1684761748,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15537,
+        "num": 15537,
+        "word": "丁程鑫和周也拉手不敢动",
+        "onboard_time": 1684764390,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14990,
+        "num": 14990,
+        "word": "护心剧情 割裂",
+        "onboard_time": 1684759768,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14813,
+        "num": 14813,
+        "word": "宁艺卓瘦了",
+        "onboard_time": 1684769488,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14778,
+        "num": 14778,
+        "word": "易烊千玺或将开三场演唱会",
+        "onboard_time": 1684768051,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 14314,
+        "num": 14314,
+        "word": "韩娱唱片销量全靠中输",
+        "onboard_time": 1684751968,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14048,
+        "num": 14048,
+        "word": "张彬彬吴倩三分野热度值破20000",
+        "onboard_time": 1684767451,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13811,
+        "num": 13811,
+        "word": "母胎单身很难开始一段恋情吗",
+        "onboard_time": 1684762051,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13783,
+        "num": 13783,
+        "word": "被造谣性骚扰当事人呼吁不要打扰证人",
+        "onboard_time": 1684778773,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13537,
+        "num": 13537,
+        "word": "朴彩英生图",
+        "onboard_time": 1684761388,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 13356,
+        "num": 13356,
+        "word": "汪苏泷在大王婚礼唱歌又忘词了",
+        "onboard_time": 1684787232,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11840,
+        "num": 11840,
+        "word": "啜妮的造型突破了",
+        "onboard_time": 1684775538,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 11723,
+        "num": 11723,
+        "word": "KPL抽签",
+        "onboard_time": 1684766731,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 10056,
+        "num": 11569,
+        "word": "KPL锦鲤们集结太仓",
+        "onboard_time": 1684768231,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 9584,
+        "num": 11530,
+        "word": "AG 三组",
+        "onboard_time": 1684768173,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍惜我们的共同家园#"
+    }
+  }
+}
