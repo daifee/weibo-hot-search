@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684775695763,
+  "endTime": 1684776797066,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -46041,6 +46041,14 @@
       "onboard_time": 1683219979,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 70779,
+      "num": 70779,
+      "word": "enhypen预告",
+      "onboard_time": 1684776196,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 70688,
