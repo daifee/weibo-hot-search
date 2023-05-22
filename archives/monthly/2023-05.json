@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684754055422,
+  "endTime": 1684755210899,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -3459,6 +3459,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1493704,
+      "num": 1493704,
+      "word": "杭州女子捐款1000万",
+      "onboard_time": 1684750889,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1490967,
       "num": 1490967,
       "word": "丈夫家中去世女子赶车路上崩溃大哭",
@@ -4576,14 +4584,6 @@
       "word": "陶勇重新拿起手术刀",
       "onboard_time": 1683861268,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1270097,
-      "num": 1270097,
-      "word": "杭州女子捐款1000万",
-      "onboard_time": 1684750889,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -8123,6 +8123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 775560,
+      "num": 775560,
+      "word": "易梦玲综艺首秀",
+      "onboard_time": 1684752627,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 771511,
       "num": 771511,
       "word": "因为买榴莲和男友吵了一架",
@@ -10435,14 +10443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 597554,
-      "num": 597554,
-      "word": "易梦玲综艺首秀",
-      "onboard_time": 1684752627,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 596669,
       "num": 596669,
       "word": "云之羽一看就是郭敬明拍的",
@@ -12275,6 +12275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 517843,
+      "num": 517843,
+      "word": "马龙 王臻",
+      "onboard_time": 1684754008,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 517253,
       "num": 517253,
       "word": "易烊千玺刘艳芬终章上线",
@@ -12795,6 +12803,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 494593,
+      "num": 494593,
+      "word": "怦然3官宣",
+      "onboard_time": 1684752989,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 494325,
       "num": 494325,
       "word": "前男友跳楼女子被判补偿2万",
@@ -12884,7 +12900,7 @@
     },
     {
       "raw_hot": 491463,
-      "num": 353283,
+      "num": 369827,
       "word": "20岁我妈给我生了个弟弟",
       "onboard_time": 1684748489,
       "rank": 21,
@@ -16515,6 +16531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 396583,
+      "num": 369288,
+      "word": "九鹭非香",
+      "onboard_time": 1684754247,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 396554,
       "num": 396554,
       "word": "基辅出动两架无人机袭击克宫未遂",
@@ -17969,6 +17993,14 @@
       "onboard_time": 1683085770,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 366922,
+      "num": 366922,
+      "word": "怦然心动20岁",
+      "onboard_time": 1684753888,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 366815,
@@ -20939,6 +20971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 320191,
+      "num": 737398,
+      "word": "成都飞呼和浩特航班紧急备降",
+      "onboard_time": 1684753826,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320176,
       "num": 320176,
       "word": "陈乔恩为奶牛猫发声",
@@ -21385,6 +21425,14 @@
       "onboard_time": 1683773607,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 313628,
+      "num": 313628,
+      "word": "not in",
+      "onboard_time": 1684754008,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 313462,
@@ -21977,14 +22025,6 @@
       "onboard_time": 1683781827,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 302842,
-      "num": 206806,
-      "word": "怦然3官宣",
-      "onboard_time": 1684752989,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 302806,
@@ -24739,6 +24779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267953,
+      "num": 267953,
+      "word": "韩娱唱片销量全靠中输",
+      "onboard_time": 1684751968,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 267779,
       "num": 267779,
       "word": "高圆圆赵又廷带女儿现身机场",
@@ -26059,6 +26107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 254618,
+      "num": 254618,
+      "word": "ENHYPEN 天棺赐符",
+      "onboard_time": 1684752389,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 254485,
       "num": 254485,
       "word": "刘昱晗林志颖仲天骐出场对比",
@@ -27243,6 +27299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243318,
+      "num": 243318,
+      "word": "柳智敏ins人气",
+      "onboard_time": 1684752866,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243274,
       "num": 228286,
       "word": "陈都灵看过杨幂的每部戏",
@@ -27385,14 +27449,6 @@
       "onboard_time": 1683258692,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 242288,
-      "num": 242288,
-      "word": "韩娱唱片销量全靠中输",
-      "onboard_time": 1684751968,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 242287,
@@ -29195,6 +29251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227944,
+      "num": 227944,
+      "word": "第三者劝退专家",
+      "onboard_time": 1684751428,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 227877,
       "num": 227877,
       "word": "脱口秀 冒犯的艺术",
@@ -29745,14 +29809,6 @@
       "onboard_time": 1684208070,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 222684,
-      "num": 222684,
-      "word": "第三者劝退专家",
-      "onboard_time": 1684751428,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 222617,
@@ -31371,14 +31427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210070,
-      "num": 210070,
-      "word": "ENHYPEN 天棺赐符",
-      "onboard_time": 1684752389,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 210022,
       "num": 210022,
       "word": "孟羽童曾称董明珠不可复制",
@@ -31721,14 +31769,6 @@
       "onboard_time": 1683786209,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 207365,
-      "num": 207365,
-      "word": "柳智敏ins人气",
-      "onboard_time": 1684752866,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 207304,
@@ -34497,6 +34537,14 @@
       "onboard_time": 1683122314,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188059,
+      "num": 188059,
+      "word": "孙灏羽回应",
+      "onboard_time": 1684754188,
+      "rank": 37,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 188051,
@@ -37323,6 +37371,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 168201,
+      "num": 168201,
+      "word": "女子凌晨打结做绳子把自己挂16楼窗外",
+      "onboard_time": 1684754728,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168145,
       "num": 168145,
       "word": "极乐净土 二次元最炫民族风",
@@ -37777,14 +37833,6 @@
       "onboard_time": 1684052188,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164459,
-      "num": 164459,
-      "word": "怦然心动20岁",
-      "onboard_time": 1684753888,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 164362,
@@ -38793,6 +38841,14 @@
       "onboard_time": 1684470092,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156890,
+      "num": 156890,
+      "word": "严惩造谣性骚扰才是对女性的保护",
+      "onboard_time": 1684754548,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156862,
@@ -42243,6 +42299,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 127868,
+      "num": 127868,
+      "word": "清蒸榴莲",
+      "onboard_time": 1684754848,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 127864,
       "num": 127864,
       "word": "罗云熙新剧打戏镜头",
@@ -42683,14 +42747,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 123204,
-      "num": 123204,
-      "word": "马龙 王臻",
-      "onboard_time": 1684754008,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 123143,
       "num": 123143,
       "word": "地铁站内爷爷奶奶默契牵手前行",
@@ -43041,14 +43097,6 @@
       "onboard_time": 1683069379,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119616,
-      "num": 119616,
-      "word": "not in",
-      "onboard_time": 1684754008,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 119574,
@@ -46539,6 +46587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 41053,
+      "num": 975743,
+      "word": "构建京津冀协同发展的高水平开放平台",
+      "onboard_time": 1684753287,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40611,
       "num": 33593,
       "word": "aespa新歌Spicy音中舞台",
@@ -46719,14 +46775,6 @@
       "num": 1972435,
       "word": "中国色彩闪耀太空",
       "onboard_time": 1682999010,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32751,
-      "num": 975743,
-      "word": "构建京津冀协同发展的高水平开放平台",
-      "onboard_time": 1684753287,
       "rank": 2,
       "category": "社会新闻"
     },

@@ -1,0 +1,410 @@
+{
+  "runTime": 1684755210899,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1493704,
+        "num": 1493704,
+        "word": "杭州女子捐款1000万",
+        "onboard_time": 1684750889,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 775560,
+        "num": 775560,
+        "word": "易梦玲综艺首秀",
+        "onboard_time": 1684752627,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41053,
+        "num": 752715,
+        "word": "构建京津冀协同发展的高水平开放平台",
+        "onboard_time": 1684753287,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1270336,
+        "num": 744828,
+        "word": "刘亚仁男友潜逃海外失败",
+        "onboard_time": 1684746570,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 320191,
+        "num": 737398,
+        "word": "成都飞呼和浩特航班紧急备降",
+        "onboard_time": 1684753826,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 733768,
+        "num": 733768,
+        "word": "宋佳的手套竟然是个包",
+        "onboard_time": 1684746630,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153715,
+        "num": 702349,
+        "word": "山东脑瘫诗人每天创作8小时以上",
+        "onboard_time": 1684749029,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702039,
+        "num": 702039,
+        "word": "百度已不是中国第一大桌面搜索引擎",
+        "onboard_time": 1684738347,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 655163,
+        "num": 655163,
+        "word": "这婚纱照新娘有点多余了",
+        "onboard_time": 1684743393,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 604975,
+        "num": 604975,
+        "word": "小慧君巧乐兹夫妇已成被执行人",
+        "onboard_time": 1684749209,
+        "rank": 9,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 734187,
+        "num": 586541,
+        "word": "过期糖",
+        "onboard_time": 1684738823,
+        "rank": 10,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 552628,
+        "num": 552628,
+        "word": "1岁半女婴离家30米处丢失",
+        "onboard_time": 1684742010,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517843,
+        "num": 517843,
+        "word": "马龙 王臻",
+        "onboard_time": 1684754008,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 494593,
+        "num": 494593,
+        "word": "怦然3官宣",
+        "onboard_time": 1684752989,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 454287,
+        "num": 454287,
+        "word": "韩媒为造谣吴世勋道歉",
+        "onboard_time": 1684750229,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452166,
+        "num": 452166,
+        "word": "iPhone很富士",
+        "onboard_time": 1684743028,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 403708,
+        "num": 403708,
+        "word": "吴倩 三公",
+        "onboard_time": 1684740389,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396945,
+        "num": 396945,
+        "word": "杨幂说新戏请了表演老师",
+        "onboard_time": 1684739847,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 389342,
+        "num": 389342,
+        "word": "巧乐兹夫妇停更",
+        "onboard_time": 1684735947,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 372659,
+        "num": 372659,
+        "word": "适合离职用的头像",
+        "onboard_time": 1684748972,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 554553,
+        "num": 372206,
+        "word": "我爸突然告诉了我家中存款",
+        "onboard_time": 1684748548,
+        "rank": 20,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 431779,
+        "num": 369827,
+        "word": "20岁我妈给我生了个弟弟",
+        "onboard_time": 1684748489,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 396583,
+        "num": 369288,
+        "word": "九鹭非香",
+        "onboard_time": 1684754247,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 366922,
+        "num": 366922,
+        "word": "怦然心动20岁",
+        "onboard_time": 1684753888,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333985,
+        "num": 333985,
+        "word": "顶级东方美貌",
+        "onboard_time": 1684747470,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 321832,
+        "num": 321832,
+        "word": "柬埔寨女演员拄拐走戛纳红毯",
+        "onboard_time": 1684749929,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313628,
+        "num": 313628,
+        "word": "not in",
+        "onboard_time": 1684754008,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 267953,
+        "num": 267953,
+        "word": "韩娱唱片销量全靠中输",
+        "onboard_time": 1684751968,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254618,
+        "num": 254618,
+        "word": "ENHYPEN 天棺赐符",
+        "onboard_time": 1684752389,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126991,
+        "num": 244417,
+        "word": "2023年退休人员基本养老金上调3.8%",
+        "onboard_time": 1684740211,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243318,
+        "num": 243318,
+        "word": "柳智敏ins人气",
+        "onboard_time": 1684752866,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240710,
+        "num": 240710,
+        "word": "我爸不让25岁的我考研",
+        "onboard_time": 1684744529,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230919,
+        "num": 230919,
+        "word": "胡锡进称百度应正视网友意见",
+        "onboard_time": 1684749748,
+        "rank": 32,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 230100,
+        "num": 230100,
+        "word": "乐华被冻结2390万财产",
+        "onboard_time": 1684739066,
+        "rank": 33,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 227944,
+        "num": 227944,
+        "word": "第三者劝退专家",
+        "onboard_time": 1684751428,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219993,
+        "num": 219993,
+        "word": "护心",
+        "onboard_time": 1684754488,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198763,
+        "num": 198763,
+        "word": "RNG大名单移除GALA和Ming",
+        "onboard_time": 1684742912,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188059,
+        "num": 188059,
+        "word": "孙灏羽回应",
+        "onboard_time": 1684754188,
+        "rank": 37,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 181449,
+        "num": 181449,
+        "word": "梁靖崑",
+        "onboard_time": 1684753466,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168201,
+        "num": 168201,
+        "word": "女子凌晨打结做绳子把自己挂16楼窗外",
+        "onboard_time": 1684754728,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158516,
+        "num": 158516,
+        "word": "乘风三公取消水舞台",
+        "onboard_time": 1684744649,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156890,
+        "num": 156890,
+        "word": "严惩造谣性骚扰才是对女性的保护",
+        "onboard_time": 1684754548,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148787,
+        "num": 148787,
+        "word": "周冬雨金色露背上衣",
+        "onboard_time": 1684751187,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145990,
+        "num": 145990,
+        "word": "上届华表奖TFBOYS还合体走红毯",
+        "onboard_time": 1684743867,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137435,
+        "num": 137435,
+        "word": "吴昕好久不见的短发",
+        "onboard_time": 1684739306,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 136500,
+        "num": 136500,
+        "word": "小县城相亲有多难",
+        "onboard_time": 1684745068,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136086,
+        "num": 136086,
+        "word": "没睡过8个小时的人",
+        "onboard_time": 1684728690,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127868,
+        "num": 127868,
+        "word": "清蒸榴莲",
+        "onboard_time": 1684754848,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 127836,
+        "num": 127836,
+        "word": "Angelababy澳门与路人合照",
+        "onboard_time": 1684746151,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116391,
+        "num": 127037,
+        "word": "LNG",
+        "onboard_time": 1684745368,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国生物物种名录2023版发布#"
+    }
+  }
+}
