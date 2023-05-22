@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684723121225,
+  "endTime": 1684723654949,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -435,6 +435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2947646,
+      "num": 2947646,
+      "word": "巧乐兹夫妇",
+      "onboard_time": 1684718788,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2937830,
       "num": 2937830,
       "word": "跑男收视率创新低",
@@ -593,14 +601,6 @@
       "onboard_time": 1683369452,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2819351,
-      "num": 2819351,
-      "word": "巧乐兹夫妇",
-      "onboard_time": 1684718788,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2819082,
@@ -6107,6 +6107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1015532,
+      "num": 1015532,
+      "word": "盖茨再爆婚外情",
+      "onboard_time": 1684720349,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1015051,
       "num": 1015051,
       "word": "小贝饿了带货因虚假宣传被罚46万",
@@ -6161,14 +6169,6 @@
       "onboard_time": 1683368429,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1008160,
-      "num": 1008160,
-      "word": "盖茨再爆婚外情",
-      "onboard_time": 1684720349,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1007565,
@@ -10171,6 +10171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 597592,
+      "num": 511494,
+      "word": "赵露思live图",
+      "onboard_time": 1684721246,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 596669,
       "num": 596669,
       "word": "云之羽一看就是郭敬明拍的",
@@ -10249,6 +10257,14 @@
       "onboard_time": 1683633092,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 594315,
+      "num": 594315,
+      "word": "猥亵殴打孕妇男子被刑拘",
+      "onboard_time": 1684720166,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 593897,
@@ -10539,6 +10555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 580599,
+      "num": 342313,
+      "word": "加了三年班的同事裸辞了",
+      "onboard_time": 1684720948,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 580477,
       "num": 580477,
       "word": "收到110元现金外卖小哥果断报警",
@@ -10803,14 +10827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 567284,
-      "num": 508409,
-      "word": "赵露思live图",
-      "onboard_time": 1684721246,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 566284,
       "num": 566284,
       "word": "娱乐圈天选古代人",
@@ -10857,14 +10873,6 @@
       "onboard_time": 1684491448,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 563300,
-      "num": 281974,
-      "word": "加了三年班的同事裸辞了",
-      "onboard_time": 1684720948,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 562427,
@@ -11537,14 +11545,6 @@
       "onboard_time": 1684543349,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 532201,
-      "num": 532201,
-      "word": "猥亵殴打孕妇男子被刑拘",
-      "onboard_time": 1684720166,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 531871,
@@ -13875,6 +13875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 449764,
+      "num": 449764,
+      "word": "孩子被救出后哭喊还有我爷爷",
+      "onboard_time": 1684721366,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 449748,
       "num": 449748,
       "word": "想开个上四休三的公司",
@@ -13972,7 +13980,7 @@
     },
     {
       "raw_hot": 447424,
-      "num": 265344,
+      "num": 272145,
       "word": "不懂倒水的礼仪被领导批评了",
       "onboard_time": 1684712303,
       "rank": 20,
@@ -14617,14 +14625,6 @@
       "onboard_time": 1683596666,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 432043,
-      "num": 432043,
-      "word": "孩子被救出后哭喊还有我爷爷",
-      "onboard_time": 1684721366,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 431937,
@@ -16257,6 +16257,14 @@
       "onboard_time": 1683686608,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 393046,
+      "num": 393046,
+      "word": "王嘉尔说不要把自己改变成不是自己",
+      "onboard_time": 1684722266,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 392875,
@@ -18155,6 +18163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356626,
+      "num": 356626,
+      "word": "凯尔特人vs热火",
+      "onboard_time": 1684720109,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 356567,
       "num": 356567,
       "word": "反正她会成功的",
@@ -19387,6 +19403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336044,
+      "num": 336044,
+      "word": "阿根廷足协官宣中国行",
+      "onboard_time": 1684721308,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 335992,
       "num": 335992,
       "word": "宝宝摔下沙发奶奶一下冲过去接住",
@@ -19569,6 +19593,14 @@
       "onboard_time": 1683220698,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333773,
+      "num": 333773,
+      "word": "陈大事",
+      "onboard_time": 1684722387,
+      "rank": 27,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 333715,
@@ -21145,14 +21177,6 @@
       "onboard_time": 1683816694,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 308207,
-      "num": 308207,
-      "word": "凯尔特人vs热火",
-      "onboard_time": 1684720109,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 308194,
@@ -23923,14 +23947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 270499,
-      "num": 270499,
-      "word": "阿根廷足协官宣中国行",
-      "onboard_time": 1684721308,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 270041,
       "num": 235264,
       "word": "澹台烬演魔神被识破",
@@ -24729,14 +24745,6 @@
       "onboard_time": 1684124734,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 261022,
-      "num": 261022,
-      "word": "王嘉尔说不要把自己改变成不是自己",
-      "onboard_time": 1684722266,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 260972,
@@ -27123,6 +27131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 238187,
+      "num": 238187,
+      "word": "梅西要来中国比赛了",
+      "onboard_time": 1684722387,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238031,
       "num": 238031,
       "word": "Ella闺女这么大了",
@@ -27409,14 +27425,6 @@
       "onboard_time": 1684677389,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 235947,
-      "num": 235947,
-      "word": "陈大事",
-      "onboard_time": 1684722387,
-      "rank": 27,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 235941,
@@ -27969,6 +27977,14 @@
       "onboard_time": 1684238549,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 232309,
+      "num": 232309,
+      "word": "身边初中毕业但很厉害的人",
+      "onboard_time": 1684722627,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 232296,
@@ -30083,6 +30099,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 214400,
+      "num": 214400,
+      "word": "华表奖提名",
+      "onboard_time": 1684723528,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214351,
       "num": 170086,
       "word": "蒋奇明FENDI",
@@ -30345,6 +30369,14 @@
       "onboard_time": 1684675169,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 212173,
+      "num": 212173,
+      "word": "英首相宣称中国是全球最大安全挑战",
+      "onboard_time": 1684723108,
+      "rank": 48,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 212125,
@@ -32003,14 +32035,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 199150,
-      "num": 199150,
-      "word": "身边初中毕业但很厉害的人",
-      "onboard_time": 1684722627,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 199142,
       "num": 199142,
       "word": "洛杉矶火花裁掉杨力维",
@@ -32105,14 +32129,6 @@
       "onboard_time": 1683588143,
       "rank": 31,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 198390,
-      "num": 198390,
-      "word": "梅西要来中国比赛了",
-      "onboard_time": 1684722387,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 198373,
@@ -32217,6 +32233,14 @@
       "onboard_time": 1683858928,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197634,
+      "num": 197634,
+      "word": "刘昊然开云晚宴",
+      "onboard_time": 1684722448,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 197497,
@@ -34979,6 +35003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178312,
+      "num": 178312,
+      "word": "高速上冒险救人的原来是00后",
+      "onboard_time": 1684722925,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178252,
       "num": 178252,
       "word": "张韶涵长沙演唱会",
@@ -35763,6 +35795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173478,
+      "num": 173478,
+      "word": "LPL夏季赛",
+      "onboard_time": 1684722508,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 173382,
       "num": 168673,
       "word": "秋瓷炫好招人心疼",
@@ -35937,14 +35977,6 @@
       "onboard_time": 1684159050,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172203,
-      "num": 170110,
-      "word": "刘昊然开云晚宴",
-      "onboard_time": 1684722448,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 172121,
@@ -36707,6 +36739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165471,
+      "num": 165471,
+      "word": "在工作群里艾特同事被教育",
+      "onboard_time": 1684722807,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165387,
       "num": 165387,
       "word": "象山摩托车表演重摔车手不幸身亡",
@@ -36921,14 +36961,6 @@
       "onboard_time": 1684132289,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 163931,
-      "num": 163931,
-      "word": "高速上冒险救人的原来是00后",
-      "onboard_time": 1684722925,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163903,
@@ -38179,6 +38211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 154179,
+      "num": 154179,
+      "word": "杨紫琼晚宴跳舞",
+      "onboard_time": 1684723348,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 154012,
       "num": 154012,
       "word": "需要多少钱才能解决你的烦恼",
@@ -39377,14 +39417,6 @@
       "onboard_time": 1684628065,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 144696,
-      "num": 144696,
-      "word": "在工作群里艾特同事被教育",
-      "onboard_time": 1684722807,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 144650,
@@ -40931,14 +40963,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 130203,
-      "num": 130203,
-      "word": "LPL夏季赛",
-      "onboard_time": 1684722508,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 130140,
       "num": 130140,
       "word": "小范大人好久不见",
@@ -41249,14 +41273,6 @@
       "onboard_time": 1684574488,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 127395,
-      "num": 127395,
-      "word": "英首相宣称中国是全球最大安全挑战",
-      "onboard_time": 1684723108,
-      "rank": 48,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 127282,
