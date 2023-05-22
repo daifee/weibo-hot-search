@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684744472577,
+  "endTime": 1684747050391,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -6627,6 +6627,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 943100,
+      "num": 943100,
+      "word": "1岁半女婴离家30米处丢失",
+      "onboard_time": 1684742010,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 940151,
       "num": 940151,
       "word": "老爸给我晾的百褶裙",
@@ -6728,14 +6736,6 @@
       "word": "医生用一根针帮患癌老人冻死肿瘤",
       "onboard_time": 1684452743,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 927634,
-      "num": 927634,
-      "word": "1岁半女婴离家30米处丢失",
-      "onboard_time": 1684742010,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -6889,6 +6889,14 @@
       "onboard_time": 1683847824,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 909476,
+      "num": 909476,
+      "word": "iPhone很富士",
+      "onboard_time": 1684743028,
+      "rank": 34,
+      "category": "科技"
     },
     {
       "raw_hot": 908968,
@@ -8827,6 +8835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 706634,
+      "num": 607986,
+      "word": "这婚纱照新娘有点多余了",
+      "onboard_time": 1684743393,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 705300,
       "num": 413327,
       "word": "美依礼芽男粉呐喊惊到黄晓明",
@@ -9137,6 +9153,14 @@
       "onboard_time": 1684423528,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 686013,
+      "num": 600408,
+      "word": "刘亚仁男友潜逃海外失败",
+      "onboard_time": 1684746570,
+      "rank": 11,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 685337,
@@ -12083,6 +12107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 519987,
+      "num": 278476,
+      "word": "我爸不让25岁的我考研",
+      "onboard_time": 1684744529,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 519977,
       "num": 383059,
       "word": "每天对着卡琳娜哇哇叫",
@@ -14531,6 +14563,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 440628,
+      "num": 440628,
+      "word": "养老金",
+      "onboard_time": 1684742670,
+      "rank": 15,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 440492,
       "num": 440492,
       "word": "辅导员式爱豆",
@@ -14899,14 +14939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 432174,
-      "num": 196406,
-      "word": "这婚纱照新娘有点多余了",
-      "onboard_time": 1684743393,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 432118,
       "num": 432118,
       "word": "aespa成第一个首日销售额破亿女团",
@@ -15195,14 +15227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 425626,
-      "num": 425626,
-      "word": "iPhone很富士",
-      "onboard_time": 1684743028,
-      "rank": 34,
-      "category": "科技"
-    },
-    {
       "raw_hot": 424997,
       "num": 424997,
       "word": "印尼警方称巴厘岛命案不存在第三人",
@@ -15361,14 +15385,6 @@
       "onboard_time": 1683457353,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 421605,
-      "num": 421605,
-      "word": "养老金",
-      "onboard_time": 1684742670,
-      "rank": 15,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 421382,
@@ -19939,6 +19955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 334763,
+      "num": 334763,
+      "word": "G社拍的海清",
+      "onboard_time": 1684743809,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 334295,
       "num": 334295,
       "word": "苏迪曼杯",
@@ -20369,6 +20393,14 @@
       "onboard_time": 1684249596,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 327089,
+      "num": 277013,
+      "word": "小县城相亲有多难",
+      "onboard_time": 1684745068,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 326857,
@@ -22179,6 +22211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 298727,
+      "num": 298727,
+      "word": "乘风三公取消水舞台",
+      "onboard_time": 1684744649,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 298535,
       "num": 298535,
       "word": "萌探探探案晒团体合照",
@@ -23777,6 +23817,14 @@
       "onboard_time": 1683198449,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279247,
+      "num": 279247,
+      "word": "宋佳的手套竟然是个包",
+      "onboard_time": 1684746630,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 279214,
@@ -25891,6 +25939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254712,
+      "num": 254712,
+      "word": "LNG",
+      "onboard_time": 1684745368,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 254485,
       "num": 254485,
       "word": "刘昱晗林志颖仲天骐出场对比",
@@ -26609,6 +26665,14 @@
       "onboard_time": 1683556173,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 247136,
+      "num": 247136,
+      "word": "上届华表奖TFBOYS还合体走红毯",
+      "onboard_time": 1684743867,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 247119,
@@ -28393,6 +28457,14 @@
       "onboard_time": 1683771624,
       "rank": 35,
       "category": "科技"
+    },
+    {
+      "raw_hot": 232926,
+      "num": 232926,
+      "word": "ENHYPEN新歌上线",
+      "onboard_time": 1684746989,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 232845,
@@ -30643,14 +30715,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 214349,
-      "num": 214349,
-      "word": "G社拍的海清",
-      "onboard_time": 1684743809,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 214177,
       "num": 214177,
       "word": "陈飞宇留胡子了",
@@ -32347,14 +32411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201030,
-      "num": 201030,
-      "word": "上届华表奖TFBOYS还合体走红毯",
-      "onboard_time": 1684743867,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 200975,
       "num": 200975,
       "word": "罗成",
@@ -32539,6 +32595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199592,
+      "num": 199592,
+      "word": "AI诈骗成功率接近100%",
+      "onboard_time": 1684745248,
+      "rank": 32,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 199536,
       "num": 199536,
       "word": "徐明浩自在随性大片",
@@ -32719,6 +32783,14 @@
       "num": 198216,
       "word": "长月烬明全员告别",
       "onboard_time": 1683630270,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 198211,
+      "num": 198211,
+      "word": "海清 眼睛瞪得像铜铃",
+      "onboard_time": 1684745789,
       "rank": 33,
       "category": "影视"
     },
@@ -35611,6 +35683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178295,
+      "num": 178295,
+      "word": "电梯战神",
+      "onboard_time": 1684744348,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 178252,
       "num": 178252,
       "word": "张韶涵长沙演唱会",
@@ -36297,6 +36377,14 @@
       "onboard_time": 1684743393,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174204,
+      "num": 174204,
+      "word": "Angelababy澳门与路人合照",
+      "onboard_time": 1684746151,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 174199,
@@ -37185,6 +37273,14 @@
       "onboard_time": 1682910328,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167451,
+      "num": 167451,
+      "word": "王源粉发小辫",
+      "onboard_time": 1684746989,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 167367,
@@ -41107,6 +41203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135064,
+      "num": 135064,
+      "word": "seventeen海报好像葫芦娃",
+      "onboard_time": 1684742967,
+      "rank": 41,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 135056,
       "num": 135056,
       "word": "官方通报辛巴致榴莲变贵不实",
@@ -41347,14 +41451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132582,
-      "num": 132582,
-      "word": "电梯战神",
-      "onboard_time": 1684744348,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 132555,
       "num": 132555,
       "word": "Hero晋级败者组第三轮",
@@ -41529,14 +41625,6 @@
       "onboard_time": 1684643188,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131156,
-      "num": 131156,
-      "word": "seventeen海报好像葫芦娃",
-      "onboard_time": 1684742967,
-      "rank": 41,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 131086,

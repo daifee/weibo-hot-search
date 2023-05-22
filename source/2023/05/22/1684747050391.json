@@ -1,0 +1,410 @@
+{
+  "runTime": 1684747050391,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2083872,
+        "num": 2083872,
+        "word": "百度已不是中国第一大桌面搜索引擎",
+        "onboard_time": 1684738347,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1363629,
+        "num": 1363629,
+        "word": "吴倩 三公",
+        "onboard_time": 1684740389,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39456,
+        "num": 1132343,
+        "word": "今天国际生物多样性日",
+        "onboard_time": 1684726647,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 943100,
+        "num": 943100,
+        "word": "1岁半女婴离家30米处丢失",
+        "onboard_time": 1684742010,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 909476,
+        "num": 909476,
+        "word": "iPhone很富士",
+        "onboard_time": 1684743028,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 836714,
+        "num": 836714,
+        "word": "巧乐兹夫妇停更",
+        "onboard_time": 1684735947,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 830330,
+        "num": 830330,
+        "word": "钟南山称6月底或是今年疫情高峰",
+        "onboard_time": 1684727970,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 771046,
+        "num": 771046,
+        "word": "杨幂说新戏请了表演老师",
+        "onboard_time": 1684739847,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 678833,
+        "num": 678833,
+        "word": "没睡过8个小时的人",
+        "onboard_time": 1684728690,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 618791,
+        "num": 618791,
+        "word": "乐华被冻结2390万财产",
+        "onboard_time": 1684739066,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 706634,
+        "num": 607986,
+        "word": "这婚纱照新娘有点多余了",
+        "onboard_time": 1684743393,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 686013,
+        "num": 600408,
+        "word": "刘亚仁男友潜逃海外失败",
+        "onboard_time": 1684746570,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 587618,
+        "num": 587618,
+        "word": "过期糖",
+        "onboard_time": 1684738823,
+        "rank": 12,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 494998,
+        "num": 494998,
+        "word": "RNG大名单移除GALA和Ming",
+        "onboard_time": 1684742912,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 458773,
+        "num": 458773,
+        "word": "吴昕好久不见的短发",
+        "onboard_time": 1684739306,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 440628,
+        "num": 440628,
+        "word": "养老金",
+        "onboard_time": 1684742670,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 359580,
+        "num": 359580,
+        "word": "2023年退休人员基本养老金上调3.8%",
+        "onboard_time": 1684740211,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334763,
+        "num": 334763,
+        "word": "G社拍的海清",
+        "onboard_time": 1684743809,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 298727,
+        "num": 298727,
+        "word": "乘风三公取消水舞台",
+        "onboard_time": 1684744649,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279247,
+        "num": 279247,
+        "word": "宋佳的手套竟然是个包",
+        "onboard_time": 1684746630,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 519987,
+        "num": 278476,
+        "word": "我爸不让25岁的我考研",
+        "onboard_time": 1684744529,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 327089,
+        "num": 277013,
+        "word": "小县城相亲有多难",
+        "onboard_time": 1684745068,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272741,
+        "num": 272741,
+        "word": "AI诈骗正在全国爆发",
+        "onboard_time": 1684726949,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262030,
+        "num": 262030,
+        "word": "G7",
+        "onboard_time": 1684745670,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254712,
+        "num": 254712,
+        "word": "LNG",
+        "onboard_time": 1684745368,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 247136,
+        "num": 247136,
+        "word": "上届华表奖TFBOYS还合体走红毯",
+        "onboard_time": 1684743867,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247025,
+        "num": 247025,
+        "word": "Jennie找工作人员维持秩序",
+        "onboard_time": 1684733248,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 245705,
+        "num": 245705,
+        "word": "独居博主遭男子威胁推迟手术",
+        "onboard_time": 1684739005,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220953,
+        "num": 239229,
+        "word": "陈大事",
+        "onboard_time": 1684722387,
+        "rank": 28,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 235730,
+        "num": 235730,
+        "word": "三分野空降不撤档",
+        "onboard_time": 1684741589,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232926,
+        "num": 232926,
+        "word": "ENHYPEN新歌上线",
+        "onboard_time": 1684746989,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208018,
+        "num": 208018,
+        "word": "文殊菩萨",
+        "onboard_time": 1684717170,
+        "rank": 31,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 199592,
+        "num": 199592,
+        "word": "AI诈骗成功率接近100%",
+        "onboard_time": 1684745248,
+        "rank": 32,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 198211,
+        "num": 198211,
+        "word": "海清 眼睛瞪得像铜铃",
+        "onboard_time": 1684745789,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184391,
+        "num": 184391,
+        "word": "张韶涵说周杰伦曾在最低谷挺她",
+        "onboard_time": 1684741709,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182593,
+        "num": 182593,
+        "word": "二阳比首阳症状轻吗",
+        "onboard_time": 1684736007,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180361,
+        "num": 180361,
+        "word": "谁给海清做的妆造",
+        "onboard_time": 1684724308,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179108,
+        "num": 179108,
+        "word": "龙族今日开播",
+        "onboard_time": 1684742489,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178295,
+        "num": 178295,
+        "word": "电梯战神",
+        "onboard_time": 1684744348,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174204,
+        "num": 174204,
+        "word": "Angelababy澳门与路人合照",
+        "onboard_time": 1684746151,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167451,
+        "num": 167451,
+        "word": "王源粉发小辫",
+        "onboard_time": 1684746989,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164029,
+        "num": 164029,
+        "word": "易烊千玺中国电影三大奖全提",
+        "onboard_time": 1684740510,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163674,
+        "num": 163674,
+        "word": "陈大事 洗耳恭听",
+        "onboard_time": 1684736967,
+        "rank": 42,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 153495,
+        "num": 153495,
+        "word": "小慧君巧乐兹夫妇至今未公开道歉",
+        "onboard_time": 1684742190,
+        "rank": 43,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 140784,
+        "num": 140784,
+        "word": "迪丽热巴的肩颈线",
+        "onboard_time": 1684729294,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 135064,
+        "num": 135064,
+        "word": "seventeen海报好像葫芦娃",
+        "onboard_time": 1684742967,
+        "rank": 45,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 132693,
+        "num": 132693,
+        "word": "有人跟韩素希抢宋慧乔了",
+        "onboard_time": 1684723949,
+        "rank": 46,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 129739,
+        "num": 129739,
+        "word": "陈大事称舆论的背后也许是资本",
+        "onboard_time": 1684728812,
+        "rank": 47,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 127463,
+        "num": 127463,
+        "word": "13岁少女被邻居性侵4名嫌疑人被抓",
+        "onboard_time": 1684728930,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33729,
+        "num": 115855,
+        "word": "LPL夏季赛",
+        "onboard_time": 1684722508,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#既要无障碍也要更有爱#"
+    }
+  }
+}

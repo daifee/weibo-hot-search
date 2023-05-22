@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684744472577,
+  "endTime": 1684747050391,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -155,12 +155,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 927634,
-      "num": 927634,
+      "raw_hot": 943100,
+      "num": 943100,
       "word": "1岁半女婴离家30米处丢失",
       "onboard_time": 1684742010,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 909476,
+      "num": 909476,
+      "word": "iPhone很富士",
+      "onboard_time": 1684743028,
+      "rank": 34,
+      "category": "科技"
     },
     {
       "raw_hot": 902643,
@@ -275,6 +283,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 706634,
+      "num": 607986,
+      "word": "这婚纱照新娘有点多余了",
+      "onboard_time": 1684743393,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 686013,
+      "num": 600408,
+      "word": "刘亚仁男友潜逃海外失败",
+      "onboard_time": 1684746570,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 673417,
       "num": 673417,
       "word": "2023年退休人员基本养老金上调3.8%",
@@ -379,6 +403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 519987,
+      "num": 278476,
+      "word": "我爸不让25岁的我考研",
+      "onboard_time": 1684744529,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 518450,
       "num": 518450,
       "word": "刘诗诗何超莲合照",
@@ -475,36 +507,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 440628,
+      "num": 440628,
+      "word": "养老金",
+      "onboard_time": 1684742670,
+      "rank": 15,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 438439,
       "num": 438439,
       "word": "13岁少女被邻居性侵4名嫌疑人被抓",
       "onboard_time": 1684728930,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 432174,
-      "num": 196406,
-      "word": "这婚纱照新娘有点多余了",
-      "onboard_time": 1684743393,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 425626,
-      "num": 425626,
-      "word": "iPhone很富士",
-      "onboard_time": 1684743028,
-      "rank": 34,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 421605,
-      "num": 421605,
-      "word": "养老金",
-      "onboard_time": 1684742670,
-      "rank": 15,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 405696,
@@ -659,6 +675,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 334763,
+      "num": 334763,
+      "word": "G社拍的海清",
+      "onboard_time": 1684743809,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 327089,
+      "num": 277013,
+      "word": "小县城相亲有多难",
+      "onboard_time": 1684745068,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 324779,
       "num": 324779,
       "word": "周一",
@@ -763,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 298727,
+      "num": 298727,
+      "word": "乘风三公取消水舞台",
+      "onboard_time": 1684744649,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 296940,
       "num": 296940,
       "word": "王冰冰 中传",
@@ -793,6 +833,14 @@
       "onboard_time": 1684681531,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 279247,
+      "num": 279247,
+      "word": "宋佳的手套竟然是个包",
+      "onboard_time": 1684746630,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 277366,
@@ -832,6 +880,14 @@
       "word": "618",
       "onboard_time": 1684729171,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262030,
+      "num": 262030,
+      "word": "G7",
+      "onboard_time": 1684745670,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -875,12 +931,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 254712,
+      "num": 254712,
+      "word": "LNG",
+      "onboard_time": 1684745368,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 252848,
       "num": 252848,
       "word": "小慧君",
       "onboard_time": 1684731813,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 247136,
+      "num": 247136,
+      "word": "上届华表奖TFBOYS还合体走红毯",
+      "onboard_time": 1684743867,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 245421,
@@ -969,6 +1041,14 @@
       "onboard_time": 1684671390,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 232926,
+      "num": 232926,
+      "word": "ENHYPEN新歌上线",
+      "onboard_time": 1684746989,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 232703,
@@ -1091,14 +1171,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 214349,
-      "num": 214349,
-      "word": "G社拍的海清",
-      "onboard_time": 1684743809,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 213730,
       "num": 213730,
       "word": "Rose看到自己表情包的反应",
@@ -1139,11 +1211,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 201030,
-      "num": 201030,
-      "word": "上届华表奖TFBOYS还合体走红毯",
-      "onboard_time": 1684743867,
-      "rank": 29,
+      "raw_hot": 199592,
+      "num": 199592,
+      "word": "AI诈骗成功率接近100%",
+      "onboard_time": 1684745248,
+      "rank": 32,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 198211,
+      "num": 198211,
+      "word": "海清 眼睛瞪得像铜铃",
+      "onboard_time": 1684745789,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -1299,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178295,
+      "num": 178295,
+      "word": "电梯战神",
+      "onboard_time": 1684744348,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 177560,
       "num": 177560,
       "word": "刘昊然超话签到率",
@@ -1331,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174204,
+      "num": 174204,
+      "word": "Angelababy澳门与路人合照",
+      "onboard_time": 1684746151,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173861,
       "num": 173861,
       "word": "小慧君巧乐兹夫妇至今未公开道歉",
@@ -1361,6 +1457,14 @@
       "onboard_time": 1684719328,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 167451,
+      "num": 167451,
+      "word": "王源粉发小辫",
+      "onboard_time": 1684746989,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 167367,
@@ -1531,6 +1635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 135064,
+      "num": 135064,
+      "word": "seventeen海报好像葫芦娃",
+      "onboard_time": 1684742967,
+      "rank": 41,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 133905,
       "num": 133905,
       "word": "吴京出走半生归来仍是这张图",
@@ -1547,28 +1659,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 132582,
-      "num": 132582,
-      "word": "电梯战神",
-      "onboard_time": 1684744348,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 131613,
       "num": 131613,
       "word": "黄景瑜劝黄明昊咱犯不上哈",
       "onboard_time": 1684683989,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131156,
-      "num": 131156,
-      "word": "seventeen海报好像葫芦娃",
-      "onboard_time": 1684742967,
-      "rank": 41,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 131086,
