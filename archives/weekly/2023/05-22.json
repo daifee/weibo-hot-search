@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684755210899,
+  "endTime": 1684758789746,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -163,6 +163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1071583,
+      "num": 1071583,
+      "word": "清蒸榴莲",
+      "onboard_time": 1684754848,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1064909,
       "num": 1064909,
       "word": "杨幂说新戏请了表演老师",
@@ -315,6 +323,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 729901,
+      "num": 729901,
+      "word": "九鹭非香",
+      "onboard_time": 1684754247,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 712802,
       "num": 712802,
       "word": "二阳",
@@ -435,6 +451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 568491,
+      "num": 568491,
+      "word": "华表奖 二选一",
+      "onboard_time": 1684755929,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 554134,
       "num": 554134,
       "word": "韩媒为造谣吴世勋道歉",
@@ -491,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 503738,
+      "num": 737398,
+      "word": "成都飞呼和浩特航班紧急备降",
+      "onboard_time": 1684753826,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 503131,
       "num": 503131,
       "word": "后浪 中医",
@@ -529,6 +561,14 @@
       "onboard_time": 1684747470,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 490078,
+      "num": 490078,
+      "word": "求爱不成当街捅杀女子凶手被判死刑",
+      "onboard_time": 1684756405,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 477618,
@@ -667,12 +707,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 396583,
-      "num": 369288,
-      "word": "九鹭非香",
-      "onboard_time": 1684754247,
-      "rank": 22,
-      "category": "作品衍生"
+      "raw_hot": 391013,
+      "num": 391013,
+      "word": "大王 毛雪汪",
+      "onboard_time": 1684757248,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 390606,
@@ -859,14 +899,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 320191,
-      "num": 737398,
-      "word": "成都飞呼和浩特航班紧急备降",
-      "onboard_time": 1684753826,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 320051,
       "num": 320051,
       "word": "乘风三公取消水舞台",
@@ -963,12 +995,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292993,
+      "num": 292993,
+      "word": "ENHYPEN 天棺赐符",
+      "onboard_time": 1684752389,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 292216,
       "num": 292216,
       "word": "拜登宣称美中关系会在短时间内缓和",
       "onboard_time": 1684703350,
       "rank": 49,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 289755,
+      "num": 289755,
+      "word": "女子凌晨打结做绳子把自己挂16楼窗外",
+      "onboard_time": 1684754728,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282787,
@@ -1099,14 +1147,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 254618,
-      "num": 254618,
-      "word": "ENHYPEN 天棺赐符",
-      "onboard_time": 1684752389,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 252848,
       "num": 252848,
       "word": "小慧君",
@@ -1161,6 +1201,14 @@
       "onboard_time": 1684729894,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 241783,
+      "num": 241783,
+      "word": "这些东西到底是谁在卖",
+      "onboard_time": 1684757427,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 240356,
@@ -1233,6 +1281,22 @@
       "onboard_time": 1684715308,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232651,
+      "num": 232651,
+      "word": "周冬雨的卧蚕",
+      "onboard_time": 1684758327,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 232633,
+      "num": 232633,
+      "word": "陈梦晋级",
+      "onboard_time": 1684757728,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 232309,
@@ -1371,12 +1435,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217819,
+      "num": 217819,
+      "word": "樊振东",
+      "onboard_time": 1684758209,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 214620,
       "num": 214620,
       "word": "去年广州人均存款14.3万元",
       "onboard_time": 1684713865,
       "rank": 31,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 214498,
+      "num": 214498,
+      "word": "三分野",
+      "onboard_time": 1684755328,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 213730,
@@ -1683,14 +1763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 168201,
-      "num": 168201,
-      "word": "女子凌晨打结做绳子把自己挂16楼窗外",
-      "onboard_time": 1684754728,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167367,
       "num": 167367,
       "word": "三门峡34名讨薪教师目前全在岗",
@@ -1835,6 +1907,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154814,
+      "num": 154814,
+      "word": "吸血鬼概念的一环",
+      "onboard_time": 1684755207,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 153158,
+      "num": 233194,
+      "word": "一群人在悬崖绝壁保护植物界大熊猫",
+      "onboard_time": 1684755328,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150680,
       "num": 150680,
       "word": "外交部副部长召见日本驻华大使",
@@ -1963,20 +2051,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130182,
+      "num": 373171,
+      "word": "手机知道你所有的秘密",
+      "onboard_time": 1684755746,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128005,
       "num": 128005,
       "word": "Jennie出发戛纳",
       "onboard_time": 1684748248,
       "rank": 47,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 127868,
-      "num": 127868,
-      "word": "清蒸榴莲",
-      "onboard_time": 1684754848,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 126483,
@@ -2195,20 +2283,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42571,
+      "num": 975743,
+      "word": "构建京津冀协同发展的高水平开放平台",
+      "onboard_time": 1684753287,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42428,
       "num": 42428,
       "word": "恭喜曼城",
       "onboard_time": 1684692375,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 41053,
-      "num": 975743,
-      "word": "构建京津冀协同发展的高水平开放平台",
-      "onboard_time": 1684753287,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28838,
