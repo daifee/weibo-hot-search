@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684769639792,
+  "endTime": 1684772522563,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -307,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 878787,
+      "num": 878787,
+      "word": "俄方证实乌军攻入俄境内",
+      "onboard_time": 1684767150,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 849100,
       "num": 849100,
       "word": "求爱不成当街捅杀女子凶手被判死刑",
@@ -321,14 +329,6 @@
       "onboard_time": 1684715425,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 833192,
-      "num": 833192,
-      "word": "俄方证实乌军攻入俄境内",
-      "onboard_time": 1684767150,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 825085,
@@ -1051,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347078,
+      "num": 347078,
+      "word": "melo",
+      "onboard_time": 1684768591,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 342967,
       "num": 342967,
       "word": "易烊千玺中国电影三大奖全提",
@@ -1129,6 +1137,14 @@
       "onboard_time": 1684744649,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 318118,
+      "num": 318118,
+      "word": "宁艺卓瘦了",
+      "onboard_time": 1684769488,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 316143,
@@ -1219,6 +1235,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 304546,
+      "num": 160279,
+      "word": "浙江一公司上4休3收到上千份简历",
+      "onboard_time": 1684769909,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302030,
       "num": 302030,
       "word": "华表奖官宣了280个艺人",
@@ -1291,6 +1315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 281462,
+      "num": 281462,
+      "word": "你猜这花为什么不发朋友圈",
+      "onboard_time": 1684762051,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 281311,
       "num": 237570,
       "word": "还没毕业就把室友全部删除了",
@@ -1305,14 +1337,6 @@
       "onboard_time": 1684741709,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 276776,
-      "num": 276776,
-      "word": "melo",
-      "onboard_time": 1684768591,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 276279,
@@ -1441,14 +1465,6 @@
       "onboard_time": 1684731813,
       "rank": 31,
       "category": "网红"
-    },
-    {
-      "raw_hot": 250338,
-      "num": 250338,
-      "word": "你猜这花为什么不发朋友圈",
-      "onboard_time": 1684762051,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 247136,
@@ -1827,6 +1843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202265,
+      "num": 152166,
+      "word": "王嘉尔的肩好宽",
+      "onboard_time": 1684771287,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 199592,
       "num": 199592,
       "word": "AI诈骗成功率接近100%",
@@ -2129,14 +2153,6 @@
       "onboard_time": 1684742190,
       "rank": 35,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 173602,
-      "num": 173602,
-      "word": "宁艺卓瘦了",
-      "onboard_time": 1684769488,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 172176,
@@ -2633,6 +2649,14 @@
       "onboard_time": 1684720109,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 96681,
+      "num": 96681,
+      "word": "中国最美木棉王就在广州",
+      "onboard_time": 1684770569,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96448,
