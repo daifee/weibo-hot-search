@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684758789746,
+  "endTime": 1684759758495,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -4747,6 +4747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1239083,
+      "num": 1239083,
+      "word": "清蒸榴莲",
+      "onboard_time": 1684754848,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1238586,
       "num": 1238586,
       "word": "香港发生谋杀案现场留有电锯",
@@ -5563,6 +5571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1098545,
+      "num": 738837,
+      "word": "过期糖",
+      "onboard_time": 1684738823,
+      "rank": 14,
+      "category": "情感,艺人"
+    },
+    {
       "raw_hot": 1097270,
       "num": 1097270,
       "word": "胡歌 镖人",
@@ -5785,14 +5801,6 @@
       "onboard_time": 1683561986,
       "rank": 34,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 1071583,
-      "num": 1071583,
-      "word": "清蒸榴莲",
-      "onboard_time": 1684754848,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 1068539,
@@ -7227,14 +7235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 876175,
-      "num": 738837,
-      "word": "过期糖",
-      "onboard_time": 1684738823,
-      "rank": 14,
-      "category": "情感,艺人"
-    },
-    {
       "raw_hot": 874275,
       "num": 874275,
       "word": "霉霉 有屁重录",
@@ -7753,6 +7753,14 @@
       "onboard_time": 1683214110,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 814441,
+      "num": 814441,
+      "word": "九鹭非香",
+      "onboard_time": 1684754247,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 814266,
@@ -8633,14 +8641,6 @@
       "onboard_time": 1683721830,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 729901,
-      "num": 729901,
-      "word": "九鹭非香",
-      "onboard_time": 1684754247,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 729726,
@@ -10667,6 +10667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 586665,
+      "num": 586665,
+      "word": "华表奖 二选一",
+      "onboard_time": 1684755929,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 586454,
       "num": 586454,
       "word": "长月烬明番外",
@@ -11083,12 +11091,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 568491,
-      "num": 568491,
-      "word": "华表奖 二选一",
-      "onboard_time": 1684755929,
-      "rank": 6,
-      "category": "影视"
+      "raw_hot": 568045,
+      "num": 568045,
+      "word": "樊振东",
+      "onboard_time": 1684758209,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 567963,
@@ -11177,6 +11185,14 @@
       "onboard_time": 1684491448,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 562633,
+      "num": 562633,
+      "word": "求爱不成当街捅杀女子凶手被判死刑",
+      "onboard_time": 1684756405,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 562427,
@@ -12995,14 +13011,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 490078,
-      "num": 490078,
-      "word": "求爱不成当街捅杀女子凶手被判死刑",
-      "onboard_time": 1684756405,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 489716,
       "num": 323662,
       "word": "易烊千玺演唱会",
@@ -13841,6 +13849,14 @@
       "onboard_time": 1684129829,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463005,
+      "num": 463005,
+      "word": "大王 毛雪汪",
+      "onboard_time": 1684757248,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 462725,
@@ -15144,6 +15160,14 @@
       "word": "猫咪出生1个月确诊是无性别",
       "onboard_time": 1684059327,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 430033,
+      "num": 430033,
+      "word": "女子凌晨打结做绳子把自己挂16楼窗外",
+      "onboard_time": 1684754728,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -16811,6 +16835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391817,
+      "num": 286068,
+      "word": "周冬雨的卧蚕",
+      "onboard_time": 1684758327,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 391365,
       "num": 391365,
       "word": "向往的生活",
@@ -16824,14 +16856,6 @@
       "word": "空耳的是宋茜丢脸的是蒋欣",
       "onboard_time": 1683635368,
       "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 391013,
-      "num": 391013,
-      "word": "大王 毛雪汪",
-      "onboard_time": 1684757248,
-      "rank": 13,
       "category": "综艺"
     },
     {
@@ -22899,6 +22923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 292525,
+      "num": 292525,
+      "word": "三分野",
+      "onboard_time": 1684755328,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 292487,
       "num": 292487,
       "word": "庆余年2召集令",
@@ -23145,14 +23177,6 @@
       "onboard_time": 1683977609,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 289755,
-      "num": 289755,
-      "word": "女子凌晨打结做绳子把自己挂16楼窗外",
-      "onboard_time": 1684754728,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289546,
@@ -28715,14 +28739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 232651,
-      "num": 232651,
-      "word": "周冬雨的卧蚕",
-      "onboard_time": 1684758327,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 232650,
       "num": 319185,
       "word": "大叔8年进山捡垃圾13900余斤",
@@ -30475,14 +30491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 217819,
-      "num": 217819,
-      "word": "樊振东",
-      "onboard_time": 1684758209,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 217740,
       "num": 217740,
       "word": "大唐不夜城公孙离热",
@@ -30969,14 +30977,6 @@
       "onboard_time": 1683083670,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 214498,
-      "num": 214498,
-      "word": "三分野",
-      "onboard_time": 1684755328,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 214486,
@@ -34001,6 +34001,14 @@
       "onboard_time": 1684571307,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 191783,
+      "num": 191783,
+      "word": "陈乔恩说听说全国观众都知道我喝大了",
+      "onboard_time": 1684759347,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 191775,
@@ -37523,6 +37531,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 167658,
+      "num": 167658,
+      "word": "人类最早啥时候开始性接吻的",
+      "onboard_time": 1684759528,
+      "rank": 38,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 167622,
       "num": 167622,
       "word": "火车持刀伤人嫌犯已刑拘",
@@ -39361,6 +39377,14 @@
       "onboard_time": 1683527735,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153552,
+      "num": 153552,
+      "word": "seventeen中饭对教爱豆整活是认真的",
+      "onboard_time": 1684759107,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 153510,
@@ -43833,6 +43857,14 @@
       "onboard_time": 1683046406,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 109324,
+      "num": 109324,
+      "word": "警花对摔伤女子说别哭有我们在",
+      "onboard_time": 1684759708,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109241,
