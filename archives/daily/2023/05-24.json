@@ -1,6 +1,6 @@
 {
   "startTime": 1684858934935,
-  "endTime": 1684863223240,
+  "endTime": 1684866027653,
   "band_list": [
     {
       "raw_hot": 1590457,
@@ -203,6 +203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 262441,
+      "num": 262441,
+      "word": "胸不应该成为嘲笑我的把柄",
+      "onboard_time": 1684861579,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 254271,
       "num": 176082,
       "word": "周深在100m内也能迷路",
@@ -273,14 +281,6 @@
       "onboard_time": 1684837771,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 210017,
-      "num": 210017,
-      "word": "胸不应该成为嘲笑我的把柄",
-      "onboard_time": 1684861579,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 195522,
@@ -435,6 +435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 62639,
+      "num": 48073,
+      "word": "导演回应向往的生活最后一季",
+      "onboard_time": 1684864156,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 59061,
       "num": 78211,
       "word": "丹顶鹤敲车门乘客邀请它吃早餐",
@@ -449,6 +457,14 @@
       "onboard_time": 1684860623,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29942,
+      "num": 40525,
+      "word": "毕业季哭得最惨的那个人",
+      "onboard_time": 1684858168,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 27461,

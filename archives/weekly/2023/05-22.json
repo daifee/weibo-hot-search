@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684863223240,
+  "endTime": 1684866027653,
   "band_list": [
     {
       "raw_hot": 3643134,
@@ -2851,6 +2851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 262441,
+      "num": 262441,
+      "word": "胸不应该成为嘲笑我的把柄",
+      "onboard_time": 1684861579,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 262271,
       "num": 262271,
       "word": "618",
@@ -3585,14 +3593,6 @@
       "onboard_time": 1684844071,
       "rank": 25,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 210017,
-      "num": 210017,
-      "word": "胸不应该成为嘲笑我的把柄",
-      "onboard_time": 1684861579,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 209476,
@@ -5179,6 +5179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62639,
+      "num": 48073,
+      "word": "导演回应向往的生活最后一季",
+      "onboard_time": 1684864156,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 61040,
       "num": 61040,
       "word": "娜扎回家乡live图",
@@ -5313,6 +5321,14 @@
       "onboard_time": 1684841071,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29942,
+      "num": 40525,
+      "word": "毕业季哭得最惨的那个人",
+      "onboard_time": 1684858168,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 28838,
