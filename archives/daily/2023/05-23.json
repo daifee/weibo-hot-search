@@ -1,6 +1,6 @@
 {
   "startTime": 1684772522563,
-  "endTime": 1684848810889,
+  "endTime": 1684851397120,
   "band_list": [
     {
       "raw_hot": 3287232,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1760684,
-      "num": 765195,
+      "num": 770558,
       "word": "工作人员说陈都灵比白鹿好看",
       "onboard_time": 1684842330,
       "rank": 10,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1310572,
+      "num": 1310572,
+      "word": "黄晓明一口气吃了四碗方便面",
+      "onboard_time": 1684840351,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1287644,
       "num": 1287644,
       "word": "沈腾瘦了好多",
@@ -283,6 +291,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1201918,
+      "num": 1201918,
+      "word": "张译 颂文哥呢",
+      "onboard_time": 1684843650,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1199528,
       "num": 1199528,
       "word": "华表奖颁奖典礼",
@@ -297,14 +313,6 @@
       "onboard_time": 1684827807,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1192015,
-      "num": 1192015,
-      "word": "黄晓明一口气吃了四碗方便面",
-      "onboard_time": 1684840351,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 1188389,
@@ -339,12 +347,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1096622,
-      "num": 759106,
-      "word": "张译 颂文哥呢",
-      "onboard_time": 1684843650,
-      "rank": 20,
-      "category": "作品衍生"
+      "raw_hot": 1087278,
+      "num": 1087278,
+      "word": "张婧仪Lisa金泰亨朴宝剑同框",
+      "onboard_time": 1684848454,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 1068222,
@@ -363,12 +371,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1060034,
+      "num": 785807,
+      "word": "张译大满贯",
+      "onboard_time": 1684847612,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1031509,
       "num": 1031509,
       "word": "教师体罚学生被开除44名家长挽留",
       "onboard_time": 1684822527,
       "rank": 31,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1006662,
+      "num": 691722,
+      "word": "华表奖获奖名单",
+      "onboard_time": 1684847251,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 1005321,
@@ -395,12 +419,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 891186,
-      "num": 616684,
-      "word": "华表奖获奖名单",
-      "onboard_time": 1684847251,
-      "rank": 31,
-      "category": "影视"
+      "raw_hot": 893321,
+      "num": 393665,
+      "word": "谁来救救江疏影",
+      "onboard_time": 1684849472,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 884091,
@@ -443,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 802759,
+      "num": 802759,
+      "word": "山西失联20天的11岁男孩已身亡",
+      "onboard_time": 1684847251,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 795143,
       "num": 795143,
       "word": "昊也",
@@ -459,14 +491,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 763216,
-      "num": 360076,
-      "word": "张译大满贯",
-      "onboard_time": 1684847612,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 740395,
       "num": 740395,
       "word": "国泰航空暂停有关空服员飞行任务",
@@ -475,11 +499,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 727247,
-      "num": 727247,
-      "word": "山西失联20天的11岁男孩已身亡",
-      "onboard_time": 1684847251,
-      "rank": 18,
+      "raw_hot": 732925,
+      "num": 732925,
+      "word": "国泰航空3名歧视乘客空乘被解聘",
+      "onboard_time": 1684850917,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -611,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 575734,
+      "num": 270791,
+      "word": "王一博刘浩存同框照",
+      "onboard_time": 1684847914,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 574380,
       "num": 348615,
       "word": "金泰亨Lisa合照",
@@ -649,6 +681,22 @@
       "onboard_time": 1684808067,
       "rank": 15,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 553132,
+      "num": 270247,
+      "word": "易烊千玺王俊凯同框",
+      "onboard_time": 1684850977,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 550266,
+      "num": 269237,
+      "word": "龚俊回复洪晃",
+      "onboard_time": 1684847793,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 529680,
@@ -713,14 +761,6 @@
       "onboard_time": 1684832247,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 508548,
-      "num": 186937,
-      "word": "龚俊回复洪晃",
-      "onboard_time": 1684847793,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 497925,
@@ -908,7 +948,7 @@
     },
     {
       "raw_hot": 401915,
-      "num": 187995,
+      "num": 218824,
       "word": "吴京介绍吴磊说是我儿子",
       "onboard_time": 1684846411,
       "rank": 35,
@@ -945,6 +985,14 @@
       "onboard_time": 1684813949,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 387584,
+      "num": 261802,
+      "word": "星星相伴月亮",
+      "onboard_time": 1684851337,
+      "rank": 36,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 387237,
@@ -1027,14 +1075,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 351368,
-      "num": 171902,
-      "word": "张婧仪Lisa金泰亨朴宝剑同框",
-      "onboard_time": 1684848454,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 349516,
       "num": 349516,
       "word": "考研失败改变了我的性格",
@@ -1049,14 +1089,6 @@
       "onboard_time": 1684828829,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 347480,
-      "num": 150627,
-      "word": "王一博刘浩存同框照",
-      "onboard_time": 1684847914,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 347199,
@@ -1105,6 +1137,14 @@
       "onboard_time": 1684803809,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 328341,
+      "num": 259249,
+      "word": "新娘婚礼当天被50斤苗服压哭",
+      "onboard_time": 1684850436,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 328028,
@@ -1251,6 +1291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 295298,
+      "num": 295298,
+      "word": "多名乘客讲述乘坐国泰航空经历",
+      "onboard_time": 1684847612,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295080,
       "num": 295080,
       "word": "阿里云被曝裁员",
@@ -1347,6 +1395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 275365,
+      "num": 275365,
+      "word": "多地妇产医院今年分娩量下降",
+      "onboard_time": 1684849177,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274835,
       "num": 240047,
       "word": "粉丝对winter竖中指的原因",
@@ -1376,6 +1432,14 @@
       "word": "G7",
       "onboard_time": 1684801890,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271493,
+      "num": 271493,
+      "word": "8岁儿子目睹父亲换戏装懵懂又心疼",
+      "onboard_time": 1684850135,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1475,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246034,
+      "num": 246034,
+      "word": "分手时什么话对女生伤害最大",
+      "onboard_time": 1684847014,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 244735,
       "num": 244735,
       "word": "林俊杰演唱会",
@@ -1537,14 +1609,6 @@
       "onboard_time": 1684826069,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 232159,
-      "num": 232159,
-      "word": "分手时什么话对女生伤害最大",
-      "onboard_time": 1684847014,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 228260,
@@ -1891,14 +1955,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 188709,
-      "num": 188709,
-      "word": "多名乘客讲述乘坐国泰航空经历",
-      "onboard_time": 1684847612,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187771,
       "num": 549791,
       "word": "全网寻找跪地救人兵哥哥",
@@ -1953,6 +2009,14 @@
       "onboard_time": 1684805848,
       "rank": 32,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 181507,
+      "num": 181507,
+      "word": "湘北猫德学院",
+      "onboard_time": 1684848573,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 179825,
@@ -2268,7 +2332,7 @@
     },
     {
       "raw_hot": 136765,
-      "num": 136765,
+      "num": 693329,
       "word": "非遗传承人用0.8毫米绳子作画",
       "onboard_time": 1684809686,
       "rank": 42,
@@ -2491,14 +2555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 97664,
-      "num": 169168,
-      "word": "湘北猫德学院",
-      "onboard_time": 1684848573,
-      "rank": 49,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 96681,
       "num": 96681,
       "word": "中国最美木棉王就在广州",
@@ -2659,6 +2715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30643,
+      "num": 2363978,
+      "word": "高质量发展调研行",
+      "onboard_time": 1684841071,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28590,
       "num": 244591,
       "word": "合资玩法向新势力看齐",
@@ -2672,14 +2736,6 @@
       "word": "被造谣性骚扰当事人呼吁不要打扰证人",
       "onboard_time": 1684778773,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27037,
-      "num": 2363978,
-      "word": "高质量发展调研行",
-      "onboard_time": 1684841071,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
