@@ -1,7 +1,15 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684852419068,
+  "endTime": 1684855105834,
   "band_list": [
+    {
+      "raw_hot": 3643134,
+      "num": 3643134,
+      "word": "华表奖获奖名单",
+      "onboard_time": 1684847251,
+      "rank": 31,
+      "category": "影视"
+    },
     {
       "raw_hot": 3295424,
       "num": 3295424,
@@ -75,6 +83,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 2728727,
+      "num": 2728727,
+      "word": "谁来救救江疏影",
+      "onboard_time": 1684849472,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2717790,
       "num": 2717790,
       "word": "百度已不是中国第一大桌面搜索引擎",
@@ -121,14 +137,6 @@
       "onboard_time": 1684805486,
       "rank": 6,
       "category": "教育,情感"
-    },
-    {
-      "raw_hot": 2060636,
-      "num": 2060636,
-      "word": "华表奖获奖名单",
-      "onboard_time": 1684847251,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 2045984,
@@ -315,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1496989,
+      "num": 1496989,
+      "word": "张译发言 陈凯歌表情",
+      "onboard_time": 1684853496,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1493704,
       "num": 1493704,
       "word": "杭州女子捐款1000万",
@@ -411,14 +427,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1332478,
-      "num": 1332478,
-      "word": "谁来救救江疏影",
-      "onboard_time": 1684849472,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1316289,
       "num": 1316289,
       "word": "国泰空乘歧视乘客录音曝光",
@@ -497,6 +505,14 @@
       "onboard_time": 1684810528,
       "rank": 6,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1208829,
+      "num": 1208829,
+      "word": "易烊千玺王俊凯同框",
+      "onboard_time": 1684850977,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 1201918,
@@ -603,6 +619,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1067422,
+      "num": 974309,
+      "word": "刘烨分了一把瓜子给易烊千玺",
+      "onboard_time": 1684853317,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1065585,
       "num": 1065585,
       "word": "韩媒称韩国加入G7后G8可替代联合国",
@@ -691,14 +715,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 951117,
-      "num": 731487,
-      "word": "易烊千玺王俊凯同框",
-      "onboard_time": 1684850977,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 943100,
       "num": 943100,
       "word": "1岁半女婴离家30米处丢失",
@@ -745,6 +761,14 @@
       "onboard_time": 1684843532,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 852999,
+      "num": 298500,
+      "word": "离职两个月了工资还一直在发",
+      "onboard_time": 1684853496,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 849100,
@@ -857,6 +881,14 @@
       "onboard_time": 1684828948,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 793473,
+      "num": 434427,
+      "word": "金珉奎签售",
+      "onboard_time": 1684853674,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 775560,
@@ -985,6 +1017,14 @@
       "onboard_time": 1684829427,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 684258,
+      "num": 281593,
+      "word": "张子枫华表奖最年轻影后",
+      "onboard_time": 1684853674,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 673417,
@@ -1635,6 +1675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 442992,
+      "num": 252202,
+      "word": "刘敏涛穿红色就有好笑的事发生",
+      "onboard_time": 1684854336,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 442375,
       "num": 427869,
       "word": "2013的赵丽颖VS2023的赵丽颖",
@@ -1723,6 +1771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 418459,
+      "num": 215604,
+      "word": "邓超 显眼包",
+      "onboard_time": 1684853795,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 415378,
       "num": 415378,
       "word": "王源粉发小辫",
@@ -1745,6 +1801,14 @@
       "onboard_time": 1684824989,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407096,
+      "num": 214094,
+      "word": "易烊千玺这个镜头很好欺负的样子",
+      "onboard_time": 1684854096,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 405696,
@@ -1857,6 +1921,14 @@
       "onboard_time": 1684846173,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 384831,
+      "num": 384831,
+      "word": "多地妇产医院今年分娩量下降",
+      "onboard_time": 1684849177,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 382354,
@@ -2131,6 +2203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 332459,
+      "num": 208374,
+      "word": "Jennie黑白抹胸公主裙",
+      "onboard_time": 1684852299,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 328028,
       "num": 328028,
       "word": "谢霆锋怎么保养的",
@@ -2161,6 +2241,14 @@
       "onboard_time": 1684716147,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 324248,
+      "num": 195951,
+      "word": "江疏影 罚自己在厕所默写",
+      "onboard_time": 1684854814,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 323687,
@@ -2233,14 +2321,6 @@
       "onboard_time": 1684754488,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 317095,
-      "num": 317095,
-      "word": "多地妇产医院今年分娩量下降",
-      "onboard_time": 1684849177,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 316143,
@@ -2769,14 +2849,6 @@
       "onboard_time": 1684728450,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 257994,
-      "num": 208374,
-      "word": "Jennie黑白抹胸公主裙",
-      "onboard_time": 1684852299,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 257603,
@@ -3353,6 +3425,14 @@
       "onboard_time": 1684819891,
       "rank": 38,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 215628,
+      "num": 215628,
+      "word": "我坚持买彩票的原因",
+      "onboard_time": 1684852418,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 215182,
@@ -4009,6 +4089,14 @@
       "onboard_time": 1684829188,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 172920,
+      "num": 172920,
+      "word": "食人族都吃不了打工人的苦",
+      "onboard_time": 1684854577,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 172751,
@@ -5099,6 +5187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42104,
+      "num": 439542,
+      "word": "小伙横渡70米宽河流救2男童被奖万元",
+      "onboard_time": 1684854035,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36302,
       "num": 169494,
       "word": "不越野还要买四驱吗",
@@ -5107,7 +5203,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30643,
+      "raw_hot": 33184,
       "num": 2363978,
       "word": "高质量发展调研行",
       "onboard_time": 1684841071,

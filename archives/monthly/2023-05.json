@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684852419068,
+  "endTime": 1684855105834,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -201,6 +201,14 @@
       "onboard_time": 1683819510,
       "rank": 0,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 3643134,
+      "num": 3643134,
+      "word": "华表奖获奖名单",
+      "onboard_time": 1684847251,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 3483240,
@@ -729,6 +737,14 @@
       "onboard_time": 1684808609,
       "rank": 25,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 2728727,
+      "num": 2728727,
+      "word": "谁来救救江疏影",
+      "onboard_time": 1684849472,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2717790,
@@ -1633,14 +1649,6 @@
       "onboard_time": 1683807388,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2060636,
-      "num": 2060636,
-      "word": "华表奖获奖名单",
-      "onboard_time": 1684847251,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 2060497,
@@ -3667,6 +3675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1496989,
+      "num": 1496989,
+      "word": "张译发言 陈凯歌表情",
+      "onboard_time": 1684853496,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1496561,
       "num": 1199629,
       "word": "女生遭两闺蜜PUA长达8年被骗百万",
@@ -4483,14 +4499,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1332478,
-      "num": 1332478,
-      "word": "谁来救救江疏影",
-      "onboard_time": 1684849472,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1329287,
       "num": 1329287,
       "word": "Lisa再破吉尼斯世界纪录",
@@ -5240,6 +5248,14 @@
       "word": "史上最挤五一档却没带火电影院",
       "onboard_time": 1682911468,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1208829,
+      "num": 1208829,
+      "word": "易烊千玺王俊凯同框",
+      "onboard_time": 1684850977,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -6227,6 +6243,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1067422,
+      "num": 974309,
+      "word": "刘烨分了一把瓜子给易烊千玺",
+      "onboard_time": 1684853317,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1066442,
       "num": 899683,
       "word": "姜思达下架史航事件播客",
@@ -7067,14 +7091,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 951117,
-      "num": 731487,
-      "word": "易烊千玺王俊凯同框",
-      "onboard_time": 1684850977,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 949837,
       "num": 949837,
       "word": "36岁常青藤毕业确诊癌症后反而很开心",
@@ -7891,6 +7907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 852999,
+      "num": 298500,
+      "word": "离职两个月了工资还一直在发",
+      "onboard_time": 1684853496,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 852555,
       "num": 852555,
       "word": "谢娜初舞台制作人是张杰",
@@ -8560,6 +8584,14 @@
       "word": "中戏同学鼓励郭珍霓拍戏",
       "onboard_time": 1683295411,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 793473,
+      "num": 434427,
+      "word": "金珉奎签售",
+      "onboard_time": 1684853674,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -9857,6 +9889,14 @@
       "onboard_time": 1683764671,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 684258,
+      "num": 281593,
+      "word": "张子枫华表奖最年轻影后",
+      "onboard_time": 1684853674,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 684100,
@@ -15563,6 +15603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 442992,
+      "num": 252202,
+      "word": "刘敏涛穿红色就有好笑的事发生",
+      "onboard_time": 1684854336,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 442692,
       "num": 1530069,
       "word": "翻车后大家不约而同的这个动作太暖心",
@@ -16635,6 +16683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 418459,
+      "num": 215604,
+      "word": "邓超 显眼包",
+      "onboard_time": 1684853795,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 418358,
       "num": 418358,
       "word": "一个宿舍各过各的",
@@ -17113,6 +17169,14 @@
       "onboard_time": 1683496093,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 407096,
+      "num": 214094,
+      "word": "易烊千玺这个镜头很好欺负的样子",
+      "onboard_time": 1684854096,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 406998,
@@ -18209,6 +18273,14 @@
       "onboard_time": 1683965370,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 384831,
+      "num": 384831,
+      "word": "多地妇产医院今年分娩量下降",
+      "onboard_time": 1684849177,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384818,
@@ -21491,6 +21563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 332459,
+      "num": 208374,
+      "word": "Jennie黑白抹胸公主裙",
+      "onboard_time": 1684852299,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 332201,
       "num": 270667,
       "word": "范丞丞地垄沟发型",
@@ -22027,6 +22107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324248,
+      "num": 195951,
+      "word": "江疏影 罚自己在厕所默写",
+      "onboard_time": 1684854814,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 324219,
       "num": 324219,
       "word": "湖人2比1勇士",
@@ -22449,14 +22537,6 @@
       "onboard_time": 1684649127,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 317095,
-      "num": 317095,
-      "word": "多地妇产医院今年分娩量下降",
-      "onboard_time": 1684849177,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 317088,
@@ -27369,14 +27449,6 @@
       "onboard_time": 1684728450,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 257994,
-      "num": 208374,
-      "word": "Jennie黑白抹胸公主裙",
-      "onboard_time": 1684852299,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 257944,
@@ -32633,6 +32705,14 @@
       "onboard_time": 1683210457,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215628,
+      "num": 215628,
+      "word": "我坚持买彩票的原因",
+      "onboard_time": 1684852418,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 215551,
@@ -39073,6 +39153,14 @@
       "onboard_time": 1683345094,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 172920,
+      "num": 172920,
+      "word": "食人族都吃不了打工人的苦",
+      "onboard_time": 1684854577,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 172918,
@@ -49328,6 +49416,14 @@
       "word": "中国与中亚在此相会",
       "onboard_time": 1684212695,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42104,
+      "num": 439542,
+      "word": "小伙横渡70米宽河流救2男童被奖万元",
+      "onboard_time": 1684854035,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
