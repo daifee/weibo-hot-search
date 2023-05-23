@@ -1,0 +1,410 @@
+{
+  "runTime": 1684820015107,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2501007,
+        "num": 2501007,
+        "word": "谢谢小狗",
+        "onboard_time": 1684808609,
+        "rank": 0,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 1250367,
+        "num": 1250367,
+        "word": "女子把离婚协议发网上遭前公婆毒打",
+        "onboard_time": 1684814910,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120278,
+        "num": 1248130,
+        "word": "我国科考队员登顶珠峰成功",
+        "onboard_time": 1684813831,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1246136,
+        "num": 1246136,
+        "word": "没认出来Lisa",
+        "onboard_time": 1684815932,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1181771,
+        "num": 1181771,
+        "word": "毕业一年论文被抽检不合格",
+        "onboard_time": 1684805486,
+        "rank": 4,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 1083909,
+        "num": 1083909,
+        "word": "马思纯瘦回来了",
+        "onboard_time": 1684806505,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1024549,
+        "num": 1024549,
+        "word": "刘宪华回应当初退出向往的生活",
+        "onboard_time": 1684818512,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 979571,
+        "num": 979571,
+        "word": "韩媒称韩国加入G7后G8可替代联合国",
+        "onboard_time": 1684814369,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 968062,
+        "num": 968062,
+        "word": "巴厘岛命案男子母亲首发声",
+        "onboard_time": 1684808549,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 859011,
+        "num": 859011,
+        "word": "陈楚河曾把脚放在朱珠腿上",
+        "onboard_time": 1684818213,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 828502,
+        "num": 828502,
+        "word": "巧乐兹夫妇再回应",
+        "onboard_time": 1684810528,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 823698,
+        "num": 823698,
+        "word": "外媒评张雨绮戛纳红毯最佳着装",
+        "onboard_time": 1684811489,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 818165,
+        "num": 818165,
+        "word": "范丞丞工作室为粉丝垫付了2000张门票",
+        "onboard_time": 1684818154,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 615747,
+        "num": 615747,
+        "word": "没想到杨紫大王关系这么好",
+        "onboard_time": 1684814191,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 498007,
+        "num": 498007,
+        "word": "一年不上班的真实感受",
+        "onboard_time": 1684810347,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 482263,
+        "num": 482263,
+        "word": "RNG官宣GALA离队",
+        "onboard_time": 1684813470,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 456400,
+        "num": 456400,
+        "word": "曾黎的厚底鞋有20厘米",
+        "onboard_time": 1684813228,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 455057,
+        "num": 455057,
+        "word": "孙燕姿回应AI孙燕姿",
+        "onboard_time": 1684815273,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372030,
+        "num": 372030,
+        "word": "鹿晗兑现三年前承诺",
+        "onboard_time": 1684799727,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 352648,
+        "num": 352648,
+        "word": "2元土豆加工成薯塔卖15元",
+        "onboard_time": 1684814668,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328347,
+        "num": 328347,
+        "word": "原来肠道细菌可以影响颜值",
+        "onboard_time": 1684815812,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 320015,
+        "num": 320015,
+        "word": "虞书欣多巴胺眼镜",
+        "onboard_time": 1684814850,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 313201,
+        "num": 313201,
+        "word": "杨超越把玫瑰穿在身上了",
+        "onboard_time": 1684817013,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 312254,
+        "num": 312254,
+        "word": "考研失败改变了我的性格",
+        "onboard_time": 1684816954,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275550,
+        "num": 275550,
+        "word": "RNG官宣Ming离队",
+        "onboard_time": 1684814730,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 260223,
+        "num": 260223,
+        "word": "女生在晚上一定要远离工地",
+        "onboard_time": 1684810347,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259228,
+        "num": 259228,
+        "word": "美依礼芽拍了很久的写真",
+        "onboard_time": 1684816231,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 252054,
+        "num": 252054,
+        "word": "詹姆斯 退役",
+        "onboard_time": 1684819469,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251531,
+        "num": 251531,
+        "word": "成都半月内4人误食这种野菜中毒",
+        "onboard_time": 1684817793,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248267,
+        "num": 248267,
+        "word": "Jennie戳爷同框合影",
+        "onboard_time": 1684815511,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247527,
+        "num": 247527,
+        "word": "掘金4比0淘汰湖人",
+        "onboard_time": 1684812149,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235633,
+        "num": 235633,
+        "word": "赵丽颖清唱知否知否",
+        "onboard_time": 1684813949,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234295,
+        "num": 234295,
+        "word": "大哥大嫂BE了",
+        "onboard_time": 1684767871,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222217,
+        "num": 222217,
+        "word": "魏哲鸣摇号9年都没成功",
+        "onboard_time": 1684816954,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209135,
+        "num": 209135,
+        "word": "国泰空乘歧视乘客录音曝光",
+        "onboard_time": 1684803629,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199769,
+        "num": 199769,
+        "word": "治疗内耗就是四个字",
+        "onboard_time": 1684812209,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196505,
+        "num": 196505,
+        "word": "文俊辉南京",
+        "onboard_time": 1684817914,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195585,
+        "num": 195585,
+        "word": "Irene出发巴黎机场图",
+        "onboard_time": 1684817672,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193668,
+        "num": 193668,
+        "word": "成都这栋三角梅大楼火了",
+        "onboard_time": 1684819891,
+        "rank": 38,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 186443,
+        "num": 186443,
+        "word": "白鹿北上短发路透",
+        "onboard_time": 1684812868,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181585,
+        "num": 181585,
+        "word": "宋仲基亮相戛纳",
+        "onboard_time": 1684808067,
+        "rank": 40,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 170565,
+        "num": 170565,
+        "word": "陈晓毛晓彤看过芙对手戏时的反应",
+        "onboard_time": 1684819350,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164997,
+        "num": 164997,
+        "word": "18年RNG全员离队",
+        "onboard_time": 1684817073,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163904,
+        "num": 163904,
+        "word": "三花成为猫中女神是有原因的",
+        "onboard_time": 1684814730,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162098,
+        "num": 162098,
+        "word": "咱东北也有地下偶像了",
+        "onboard_time": 1684806627,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161161,
+        "num": 161161,
+        "word": "沈月是来嗑cp的吧",
+        "onboard_time": 1684818751,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155742,
+        "num": 155742,
+        "word": "起底被曝歧视乘客国泰航空",
+        "onboard_time": 1684815211,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149089,
+        "num": 149089,
+        "word": "王者荣耀宝格丽互关",
+        "onboard_time": 1684811849,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143772,
+        "num": 143772,
+        "word": "李沁裸粉色轻纱披风长裙",
+        "onboard_time": 1684819831,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141194,
+        "num": 141194,
+        "word": "小狗 奶奶我听不进也看不见了",
+        "onboard_time": 1684819831,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#神舟十六号近日择机发射#"
+    }
+  }
+}

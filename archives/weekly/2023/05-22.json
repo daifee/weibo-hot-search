@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684818969203,
+  "endTime": 1684820015107,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -267,12 +267,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1250367,
+      "num": 1250367,
+      "word": "女子把离婚协议发网上遭前公婆毒打",
+      "onboard_time": 1684814910,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1248905,
       "num": 584185,
       "word": "陈乔恩说听说全国观众都知道我喝大了",
       "onboard_time": 1684759347,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1246136,
+      "num": 1246136,
+      "word": "没认出来Lisa",
+      "onboard_time": 1684815932,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1235231,
@@ -283,28 +299,12 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 1195623,
-      "num": 1195623,
-      "word": "女子把离婚协议发网上遭前公婆毒打",
-      "onboard_time": 1684814910,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1188389,
       "num": 1188389,
       "word": "一年不上班的真实感受",
       "onboard_time": 1684810347,
       "rank": 4,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1180836,
-      "num": 1180836,
-      "word": "没认出来Lisa",
-      "onboard_time": 1684815932,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1179784,
@@ -379,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1024549,
+      "num": 1024549,
+      "word": "刘宪华回应当初退出向往的生活",
+      "onboard_time": 1684818512,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1011071,
       "num": 1011071,
       "word": "陈晓连麦到赵丽颖头像的人",
@@ -451,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 859011,
+      "num": 859011,
+      "word": "陈楚河曾把脚放在朱珠腿上",
+      "onboard_time": 1684818213,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 849100,
       "num": 849100,
       "word": "求爱不成当街捅杀女子凶手被判死刑",
@@ -497,6 +513,14 @@
       "onboard_time": 1684731454,
       "rank": 24,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 818165,
+      "num": 818165,
+      "word": "范丞丞工作室为粉丝垫付了2000张门票",
+      "onboard_time": 1684818154,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 814441,
@@ -931,14 +955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 491621,
-      "num": 491621,
-      "word": "陈楚河曾把脚放在朱珠腿上",
-      "onboard_time": 1684818213,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 491594,
       "num": 491594,
       "word": "当我问妈妈结婚有啥好处",
@@ -1195,14 +1211,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 418021,
-      "num": 418021,
-      "word": "范丞丞工作室为粉丝垫付了2000张门票",
-      "onboard_time": 1684818154,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 415378,
       "num": 415378,
       "word": "王源粉发小辫",
@@ -1329,14 +1337,6 @@
       "onboard_time": 1684728391,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 368459,
-      "num": 368459,
-      "word": "刘宪华回应当初退出向往的生活",
-      "onboard_time": 1684818512,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 366922,
@@ -1963,6 +1963,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 252054,
+      "num": 252054,
+      "word": "詹姆斯 退役",
+      "onboard_time": 1684819469,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 251531,
+      "num": 251531,
+      "word": "成都半月内4人误食这种野菜中毒",
+      "onboard_time": 1684817793,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250504,
       "num": 250504,
       "word": "巴厘岛",
@@ -2009,14 +2025,6 @@
       "onboard_time": 1684767630,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 243666,
-      "num": 243666,
-      "word": "成都半月内4人误食这种野菜中毒",
-      "onboard_time": 1684817793,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243318,
@@ -2444,7 +2452,7 @@
     },
     {
       "raw_hot": 211980,
-      "num": 187026,
+      "num": 195585,
       "word": "Irene出发巴黎机场图",
       "onboard_time": 1684817672,
       "rank": 40,
@@ -2633,6 +2641,14 @@
       "onboard_time": 1684814730,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 193668,
+      "num": 193668,
+      "word": "成都这栋三角梅大楼火了",
+      "onboard_time": 1684819891,
+      "rank": 38,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 193480,
@@ -2963,6 +2979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170565,
+      "num": 170565,
+      "word": "陈晓毛晓彤看过芙对手戏时的反应",
+      "onboard_time": 1684819350,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 167466,
       "num": 165778,
       "word": "华表奖主题推广曲光辉",
@@ -3283,12 +3307,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143772,
+      "num": 143772,
+      "word": "李沁裸粉色轻纱披风长裙",
+      "onboard_time": 1684819831,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 141491,
       "num": 141491,
       "word": "朱一龙荒野作家",
       "onboard_time": 1684737265,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 141194,
+      "num": 141194,
+      "word": "小狗 奶奶我听不进也看不见了",
+      "onboard_time": 1684819831,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 140481,
