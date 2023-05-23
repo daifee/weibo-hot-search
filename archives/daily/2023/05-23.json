@@ -1,6 +1,6 @@
 {
   "startTime": 1684772522563,
-  "endTime": 1684841617085,
+  "endTime": 1684845185278,
   "band_list": [
     {
       "raw_hot": 3287232,
@@ -163,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1392411,
+      "num": 1392411,
+      "word": "华表奖",
+      "onboard_time": 1684842511,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1388762,
       "num": 1133423,
       "word": "网上的言论谢娜都知道",
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1192015,
+      "num": 1192015,
+      "word": "黄晓明一口气吃了四碗方便面",
+      "onboard_time": 1684840351,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1188389,
       "num": 1188389,
       "word": "一年不上班的真实感受",
@@ -291,6 +307,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1037181,
+      "num": 365444,
+      "word": "工作人员说陈都灵比白鹿好看",
+      "onboard_time": 1684842330,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1031509,
       "num": 1031509,
       "word": "教师体罚学生被开除44名家长挽留",
@@ -313,6 +337,14 @@
       "onboard_time": 1684818154,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 925231,
+      "num": 360253,
+      "word": "华表奖颁奖典礼",
+      "onboard_time": 1684844253,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 902292,
@@ -352,14 +384,6 @@
       "word": "马思纯晒视频回应瘦回来了",
       "onboard_time": 1684824207,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 808417,
-      "num": 808417,
-      "word": "黄晓明一口气吃了四碗方便面",
-      "onboard_time": 1684840351,
-      "rank": 43,
       "category": "艺人"
     },
     {
@@ -499,6 +523,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 583603,
+      "num": 252806,
+      "word": "张译 颂文哥呢",
+      "onboard_time": 1684843650,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 582773,
       "num": 582773,
       "word": "陈都灵黑白折扇裙",
@@ -545,6 +577,14 @@
       "onboard_time": 1684808067,
       "rank": 15,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 552713,
+      "num": 248887,
+      "word": "金泰亨Lisa合照",
+      "onboard_time": 1684842630,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 529680,
@@ -747,6 +787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 425841,
+      "num": 191160,
+      "word": "华表奖内场",
+      "onboard_time": 1684844430,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 422551,
       "num": 296640,
       "word": "夫妻吵架丈夫举报妻子吸毒",
@@ -849,6 +897,22 @@
       "onboard_time": 1684834171,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 373638,
+      "num": 347395,
+      "word": "宝妈产假后拒绝调岗至30公里外遭开除",
+      "onboard_time": 1684842210,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 365489,
+      "num": 365489,
+      "word": "金星伴月",
+      "onboard_time": 1684843532,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 363110,
@@ -1075,6 +1139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 295080,
+      "num": 295080,
+      "word": "阿里云被曝裁员",
+      "onboard_time": 1684840051,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 293744,
       "num": 261183,
       "word": "王一博不拒绝演喜剧",
@@ -1139,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279529,
+      "num": 171781,
+      "word": "王景春好像被红蓝灯笼绑架了",
+      "onboard_time": 1684842389,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 274835,
       "num": 240047,
       "word": "粉丝对winter竖中指的原因",
@@ -1171,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272738,
+      "num": 176222,
+      "word": "小偷听了都觉得好丟人",
+      "onboard_time": 1684843230,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 270427,
       "num": 270427,
       "word": "高铁上男子手机外放提醒后更嚣张",
@@ -1201,6 +1289,22 @@
       "onboard_time": 1684803926,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 261341,
+      "num": 157553,
+      "word": "徐娇红色马面裙",
+      "onboard_time": 1684842330,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 257011,
+      "num": 257011,
+      "word": "摊主关闭扫码提示音帮助有困难的人",
+      "onboard_time": 1684840711,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255137,
@@ -1339,14 +1443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225554,
-      "num": 225554,
-      "word": "阿里云被曝裁员",
-      "onboard_time": 1684840051,
-      "rank": 48,
-      "category": "科技"
-    },
-    {
       "raw_hot": 225433,
       "num": 225433,
       "word": "杨紫笑得好温柔",
@@ -1483,6 +1579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 213806,
+      "num": 213806,
+      "word": "淄博烧烤摊主开始卷横幅了",
+      "onboard_time": 1684841729,
+      "rank": 23,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 213778,
       "num": 213778,
       "word": "原来毛不易是纯爱战神",
@@ -1617,6 +1721,14 @@
       "onboard_time": 1684764031,
       "rank": 29,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 190077,
+      "num": 190077,
+      "word": "阿里判赔网易5000万",
+      "onboard_time": 1684841370,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 189512,
@@ -1851,14 +1963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161576,
-      "num": 185632,
-      "word": "阿里判赔网易5000万",
-      "onboard_time": 1684841370,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 159333,
       "num": 159333,
       "word": "原神",
@@ -1881,6 +1985,14 @@
       "onboard_time": 1684805848,
       "rank": 37,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 157603,
+      "num": 193791,
+      "word": "毕业生换机首选",
+      "onboard_time": 1684844071,
+      "rank": 25,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 157117,
@@ -2091,6 +2203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121213,
+      "num": 128012,
+      "word": "像极了我和我领导",
+      "onboard_time": 1684844668,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120105,
       "num": 120105,
       "word": "合肥20万个岗位供您选",
@@ -2113,14 +2233,6 @@
       "onboard_time": 1684762051,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 117020,
-      "num": 184383,
-      "word": "摊主关闭扫码提示音帮助有困难的人",
-      "onboard_time": 1684840711,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116551,
@@ -2163,12 +2275,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105236,
+      "num": 127475,
+      "word": "网友拍到现实版鲤鱼跃龙门",
+      "onboard_time": 1684845091,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102801,
       "num": 167406,
       "word": "自驾囧途时刻谁懂啊",
       "onboard_time": 1684834769,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 101469,
+      "num": 127050,
+      "word": "小心AI换脸技术",
+      "onboard_time": 1684841788,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 98734,
@@ -2371,20 +2499,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 24932,
+      "num": 2363978,
+      "word": "高质量发展调研行",
+      "onboard_time": 1684841071,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21546,
       "num": 35454,
       "word": "KPL锦鲤们集结太仓",
       "onboard_time": 1684768231,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 17345,
-      "num": 2363978,
-      "word": "高质量发展调研行",
-      "onboard_time": 1684841071,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
