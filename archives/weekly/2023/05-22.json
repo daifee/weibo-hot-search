@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684856013968,
+  "endTime": 1684858934935,
   "band_list": [
     {
       "raw_hot": 3643134,
@@ -427,6 +427,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1335403,
+      "num": 1335403,
+      "word": "刘浩存仪态",
+      "onboard_time": 1684855472,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1316289,
       "num": 1316289,
       "word": "国泰空乘歧视乘客录音曝光",
@@ -713,6 +721,14 @@
       "onboard_time": 1684818154,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 951561,
+      "num": 951561,
+      "word": "易烊千玺听到刘烨获奖的表情",
+      "onboard_time": 1684856132,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 943100,
@@ -1241,6 +1257,14 @@
       "onboard_time": 1684842630,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 572781,
+      "num": 234310,
+      "word": "陈赫憋笑",
+      "onboard_time": 1684856852,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 570411,
@@ -2091,14 +2115,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 357790,
-      "num": 218055,
-      "word": "刘浩存仪态",
-      "onboard_time": 1684855472,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 356626,
       "num": 356626,
       "word": "凯尔特人vs热火",
@@ -2819,6 +2835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261632,
+      "num": 189104,
+      "word": "华天",
+      "onboard_time": 1684857033,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260673,
       "num": 260673,
       "word": "妻子去世10年男子仍帮老丈人插秧",
@@ -2889,6 +2913,14 @@
       "onboard_time": 1684745368,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 254271,
+      "num": 176082,
+      "word": "周深在100m内也能迷路",
+      "onboard_time": 1684857331,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 254172,
@@ -3387,6 +3419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 219088,
+      "num": 217761,
+      "word": "食人族都吃不了打工人的苦",
+      "onboard_time": 1684854577,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 218469,
       "num": 218469,
       "word": "这届90后是懂带娃的",
@@ -3523,6 +3563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 209344,
+      "num": 129242,
+      "word": "李承铉真没把我们当外人",
+      "onboard_time": 1684857930,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208783,
       "num": 198102,
       "word": "环球人物评国泰航空致歉",
@@ -3635,6 +3683,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 198713,
+      "num": 198713,
+      "word": "巧乐兹夫妇商业版图盘点",
+      "onboard_time": 1684858349,
+      "rank": 16,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 198462,
       "num": 198462,
       "word": "塞尔达传说王国之泪",
@@ -3665,14 +3721,6 @@
       "onboard_time": 1684724365,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197372,
-      "num": 217761,
-      "word": "食人族都吃不了打工人的苦",
-      "onboard_time": 1684854577,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 197328,
@@ -4483,6 +4531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147426,
+      "num": 147426,
+      "word": "退钱哥吐槽国泰航空空乘听不懂中文",
+      "onboard_time": 1684854395,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147389,
       "num": 147389,
       "word": "特效前后的变化有多大",
@@ -4963,6 +5019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 94926,
+      "num": 102940,
+      "word": "老人报警丢失8000元民警找出1万8",
+      "onboard_time": 1684858888,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88967,
       "num": 88967,
       "word": "来历历",
@@ -5267,20 +5331,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 22587,
+      "num": 1914259,
+      "word": "五星红旗又一次在珠峰之巅飘扬",
+      "onboard_time": 1684847914,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21399,
       "num": 23651,
       "word": "最食人间烟火色",
       "onboard_time": 1684671029,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 8150,
-      "num": 1914259,
-      "word": "五星红旗又一次在珠峰之巅飘扬",
-      "onboard_time": 1684847914,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
