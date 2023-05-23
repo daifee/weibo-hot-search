@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684840460617,
+  "endTime": 1684841617085,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -73,6 +73,14 @@
       "onboard_time": 1684738347,
       "rank": 4,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2568914,
+      "num": 2355313,
+      "word": "王一博裤子到底怎么了",
+      "onboard_time": 1684840111,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2528375,
@@ -243,6 +251,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1535149,
+      "num": 1535149,
+      "word": "王俊凯易烊千玺隔了一个银河",
+      "onboard_time": 1684836930,
+      "rank": 27,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 1515199,
       "num": 1515199,
       "word": "刘宪华回应当初退出向往的生活",
@@ -355,8 +371,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1270803,
-      "num": 1270803,
+      "raw_hot": 1275170,
+      "num": 1275170,
       "word": "沈腾瘦了好多",
       "onboard_time": 1684837771,
       "rank": 7,
@@ -395,28 +411,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1244012,
-      "num": 1244012,
-      "word": "王俊凯易烊千玺隔了一个银河",
-      "onboard_time": 1684836930,
-      "rank": 27,
-      "category": "作品衍生,幽默"
-    },
-    {
       "raw_hot": 1235231,
       "num": 1235231,
       "word": "巧乐兹夫妇再回应",
       "onboard_time": 1684810528,
       "rank": 6,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1227943,
-      "num": 1227943,
-      "word": "王一博裤子到底怎么了",
-      "onboard_time": 1684840111,
-      "rank": 9,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1198559,
@@ -707,6 +707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 808417,
+      "num": 808417,
+      "word": "黄晓明一口气吃了四碗方便面",
+      "onboard_time": 1684840351,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 805331,
       "num": 669910,
       "word": "沈梦辰 幸福不一定用金钱来衡量吧",
@@ -867,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 670469,
+      "num": 633429,
+      "word": "易烊千玺X3",
+      "onboard_time": 1684839331,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 660336,
       "num": 660336,
       "word": "华表奖提名",
@@ -931,20 +947,20 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 620448,
+      "num": 620448,
+      "word": "华表奖怼脸生图",
+      "onboard_time": 1684837650,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 617784,
       "num": 617784,
       "word": "王鹤棣虞书欣同款滤镜",
       "onboard_time": 1684823069,
       "rank": 26,
       "category": "作品衍生,幽默"
-    },
-    {
-      "raw_hot": 613372,
-      "num": 613372,
-      "word": "华表奖怼脸生图",
-      "onboard_time": 1684837650,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 610505,
@@ -1065,6 +1081,14 @@
       "onboard_time": 1684766731,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 560402,
+      "num": 292025,
+      "word": "景甜 明艳大方",
+      "onboard_time": 1684839692,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 559301,
@@ -1347,14 +1371,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 460628,
-      "num": 296337,
-      "word": "易烊千玺X3",
-      "onboard_time": 1684839331,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 457828,
       "num": 457828,
       "word": "乌克兰",
@@ -1459,14 +1475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 440856,
-      "num": 292025,
-      "word": "景甜 明艳大方",
-      "onboard_time": 1684839692,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 439360,
       "num": 439360,
       "word": "G7",
@@ -1505,6 +1513,14 @@
       "onboard_time": 1684797802,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 426048,
+      "num": 226417,
+      "word": "张译又来指挥红毯了",
+      "onboard_time": 1684839331,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 422551,
@@ -2003,6 +2019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 315923,
+      "num": 188380,
+      "word": "孙燕姿文笔",
+      "onboard_time": 1684840590,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314419,
       "num": 294353,
       "word": "四川宜宾地震",
@@ -2089,6 +2113,14 @@
       "onboard_time": 1684718368,
       "rank": 29,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 305601,
+      "num": 2370944,
+      "word": "大宝羡慕爸爸和二宝举高高",
+      "onboard_time": 1684835489,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304546,
@@ -2195,14 +2227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 287460,
-      "num": 2244861,
-      "word": "大宝羡慕爸爸和二宝举高高",
-      "onboard_time": 1684835489,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 286841,
       "num": 286841,
       "word": "网传徐怀钰三公进步大",
@@ -2281,14 +2305,6 @@
       "onboard_time": 1684741709,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 276551,
-      "num": 204330,
-      "word": "张译又来指挥红毯了",
-      "onboard_time": 1684839331,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 276279,
@@ -2651,14 +2667,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 239071,
-      "num": 196434,
-      "word": "黄晓明一口气吃了四碗方便面",
-      "onboard_time": 1684840351,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 238187,
       "num": 238187,
       "word": "梅西要来中国比赛了",
@@ -2849,6 +2857,14 @@
       "onboard_time": 1684716451,
       "rank": 30,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 225554,
+      "num": 225554,
+      "word": "阿里云被曝裁员",
+      "onboard_time": 1684840051,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 225433,
@@ -3332,7 +3348,7 @@
     },
     {
       "raw_hot": 189512,
-      "num": 1573224,
+      "num": 1697499,
       "word": "女子晾晒满地麦子将遇暴雨邻居帮收",
       "onboard_time": 1684835430,
       "rank": 4,
@@ -3785,6 +3801,14 @@
       "onboard_time": 1684796597,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161576,
+      "num": 185632,
+      "word": "阿里判赔网易5000万",
+      "onboard_time": 1684841370,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 160690,
@@ -4315,6 +4339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117020,
+      "num": 184383,
+      "word": "摊主关闭扫码提示音帮助有困难的人",
+      "onboard_time": 1684840711,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115156,
       "num": 115156,
       "word": "GALA LNG",
@@ -4337,14 +4369,6 @@
       "onboard_time": 1684678172,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112448,
-      "num": 194012,
-      "word": "阿里云被曝裁员",
-      "onboard_time": 1684840051,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 112244,
@@ -4377,6 +4401,14 @@
       "onboard_time": 1684685786,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107928,
+      "num": 302358,
+      "word": "电车痛点被拿捏住了",
+      "onboard_time": 1684838312,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105813,
@@ -4457,14 +4489,6 @@
       "onboard_time": 1684688181,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87707,
-      "num": 302358,
-      "word": "电车痛点被拿捏住了",
-      "onboard_time": 1684838312,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87621,
@@ -4737,6 +4761,14 @@
       "onboard_time": 1684671029,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 17345,
+      "num": 2363978,
+      "word": "高质量发展调研行",
+      "onboard_time": 1684841071,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -4760,6 +4792,9 @@
     },
     {
       "word": "#神舟十六号近日择机发射#"
+    },
+    {
+      "word": "#努力打造国家级乃至世界级艺术殿堂#"
     }
   ]
 }
