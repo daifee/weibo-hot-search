@@ -1,0 +1,410 @@
+{
+  "runTime": 1684837096609,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2435480,
+        "num": 2435480,
+        "word": "南宁市市长鞠躬道歉",
+        "onboard_time": 1684832489,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292523,
+        "num": 2416715,
+        "word": "排队过马路的小鸭子好可爱",
+        "onboard_time": 1684835430,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37959,
+        "num": 2415074,
+        "word": "珍惜我们的共同家园",
+        "onboard_time": 1684825948,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2415060,
+        "num": 2415060,
+        "word": "3名强奸未成年人罪犯被执行死刑",
+        "onboard_time": 1684835068,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 189512,
+        "num": 1573224,
+        "word": "女子晾晒满地麦子将遇暴雨邻居帮收",
+        "onboard_time": 1684835430,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1499230,
+        "num": 1499230,
+        "word": "华表奖红毯",
+        "onboard_time": 1684832430,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198896,
+        "num": 1412331,
+        "word": "大宝羡慕爸爸和二宝举高高",
+        "onboard_time": 1684835489,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1410409,
+        "num": 1410409,
+        "word": "孙艺珍玄彬卖别墅赚了18亿",
+        "onboard_time": 1684830387,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1347438,
+        "num": 1347438,
+        "word": "杨洋baby 肖奈贝微微",
+        "onboard_time": 1684836030,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1115318,
+        "num": 1115318,
+        "word": "多位苹果用户收到涉黄短信",
+        "onboard_time": 1684832008,
+        "rank": 9,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 1031509,
+        "num": 1031509,
+        "word": "教师体罚学生被开除44名家长挽留",
+        "onboard_time": 1684822527,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 970228,
+        "num": 970228,
+        "word": "易烊千玺中山装",
+        "onboard_time": 1684835309,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 722922,
+        "num": 722922,
+        "word": "马思纯晒视频回应瘦回来了",
+        "onboard_time": 1684824207,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 720704,
+        "num": 720704,
+        "word": "黄奕带小燕子来华表奖",
+        "onboard_time": 1684834468,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 719631,
+        "num": 719631,
+        "word": "越南人打工不卷逼疯中国老板",
+        "onboard_time": 1684827807,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554295,
+        "num": 554295,
+        "word": "猫因生病被剃掉了身体中段的毛",
+        "onboard_time": 1684823669,
+        "rank": 15,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 522793,
+        "num": 522793,
+        "word": "网上的言论谢娜都知道",
+        "onboard_time": 1684822050,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 510118,
+        "num": 510118,
+        "word": "外媒评龚俊戛纳红毯为最佳着装",
+        "onboard_time": 1684832247,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 481090,
+        "num": 481090,
+        "word": "彭昱畅C位恐惧症",
+        "onboard_time": 1684835309,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 441392,
+        "num": 441392,
+        "word": "詹姆斯 退役",
+        "onboard_time": 1684819469,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 696000,
+        "num": 441164,
+        "word": "你接受上4休3收入降5分之1吗",
+        "onboard_time": 1684833990,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 440143,
+        "num": 440143,
+        "word": "陈都灵黑白折扇裙",
+        "onboard_time": 1684835669,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 406817,
+        "num": 406817,
+        "word": "昊也",
+        "onboard_time": 1684828948,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 380753,
+        "num": 380753,
+        "word": "邓超走红毯跟上春晚一样好笑",
+        "onboard_time": 1684835068,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 373729,
+        "num": 373729,
+        "word": "Uzi要去干什么",
+        "onboard_time": 1684834171,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 349544,
+        "num": 349544,
+        "word": "范丞丞工作室为粉丝垫付了2000张门票",
+        "onboard_time": 1684818154,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 297165,
+        "num": 297165,
+        "word": "王一博暗纹西装",
+        "onboard_time": 1684835910,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 268783,
+        "num": 268783,
+        "word": "一万块可以花多久",
+        "onboard_time": 1684836090,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 293744,
+        "num": 261183,
+        "word": "王一博不拒绝演喜剧",
+        "onboard_time": 1684836090,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242593,
+        "num": 242593,
+        "word": "国泰航空暂停有关空服员飞行任务",
+        "onboard_time": 1684825590,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285578,
+        "num": 241421,
+        "word": "明星华表奖出发图",
+        "onboard_time": 1684829008,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 274835,
+        "num": 240047,
+        "word": "粉丝对winter竖中指的原因",
+        "onboard_time": 1684833990,
+        "rank": 31,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 273111,
+        "num": 239059,
+        "word": "刘宪华回应当初退出向往的生活",
+        "onboard_time": 1684818512,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235925,
+        "num": 235925,
+        "word": "最不推荐选的大学专业",
+        "onboard_time": 1684834828,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223644,
+        "num": 223644,
+        "word": "德班世乒赛场馆停电了",
+        "onboard_time": 1684836751,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247998,
+        "num": 222276,
+        "word": "陈楚河曾把脚放在朱珠腿上",
+        "onboard_time": 1684818213,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230802,
+        "num": 222046,
+        "word": "张子枫戴了安然的手链",
+        "onboard_time": 1684836690,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220733,
+        "num": 220733,
+        "word": "HYBE与腾讯音乐签约",
+        "onboard_time": 1684834588,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192782,
+        "num": 192782,
+        "word": "武汉三镇",
+        "onboard_time": 1684831709,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172117,
+        "num": 172117,
+        "word": "好看到让我发疯的小说",
+        "onboard_time": 1684823547,
+        "rank": 39,
+        "category": "情感,作品衍生"
+      },
+      {
+        "raw_hot": 194005,
+        "num": 171892,
+        "word": "瘦了的彭昱畅好帅啊",
+        "onboard_time": 1684836870,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192547,
+        "num": 171811,
+        "word": "华表奖座位",
+        "onboard_time": 1684829427,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189407,
+        "num": 171407,
+        "word": "谢霆锋怎么保养的",
+        "onboard_time": 1684836813,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187720,
+        "num": 171209,
+        "word": "没认出来Lisa",
+        "onboard_time": 1684815932,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171059,
+        "num": 171059,
+        "word": "王楚钦4比1户上隼辅",
+        "onboard_time": 1684836990,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145802,
+        "num": 170402,
+        "word": "舍友写了半个月的论文",
+        "onboard_time": 1684829366,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115840,
+        "num": 169533,
+        "word": "A股",
+        "onboard_time": 1684824389,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113703,
+        "num": 168858,
+        "word": "巧乐兹夫妇再回应",
+        "onboard_time": 1684810528,
+        "rank": 47,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 102801,
+        "num": 167406,
+        "word": "自驾囧途时刻谁懂啊",
+        "onboard_time": 1684834769,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 32037,
+        "num": 166920,
+        "word": "RNG官宣Ming离队",
+        "onboard_time": 1684814730,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国生物物种名录2023版发布#"
+    }
+  }
+}
