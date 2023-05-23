@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684862099962,
+  "endTime": 1684863223240,
   "band_list": [
     {
       "raw_hot": 3643134,
@@ -3587,6 +3587,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 210017,
+      "num": 210017,
+      "word": "胸不应该成为嘲笑我的把柄",
+      "onboard_time": 1684861579,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 209476,
       "num": 209476,
       "word": "陈都灵高清怼脸拍",
@@ -5107,6 +5115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 71965,
+      "num": 71965,
+      "word": "警员将旧户口簿盖作废章留给孙女作纪念",
+      "onboard_time": 1684861224,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70779,
       "num": 70779,
       "word": "enhypen预告",
@@ -5161,14 +5177,6 @@
       "onboard_time": 1684830748,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62983,
-      "num": 78375,
-      "word": "胸不应该成为嘲笑我的把柄",
-      "onboard_time": 1684861579,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 61040,
