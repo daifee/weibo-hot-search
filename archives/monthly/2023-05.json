@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684866805032,
+  "endTime": 1684869278755,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -49456,6 +49456,14 @@
       "word": "室友记录下盲人博士学日语",
       "onboard_time": 1683820589,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44020,
+      "num": 28644,
+      "word": "国泰航空爆料人发声",
+      "onboard_time": 1684867333,
+      "rank": 31,
       "category": "社会新闻"
     },
     {

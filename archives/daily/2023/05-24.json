@@ -1,6 +1,6 @@
 {
   "startTime": 1684858934935,
-  "endTime": 1684866805032,
+  "endTime": 1684869278755,
   "band_list": [
     {
       "raw_hot": 1590457,
@@ -451,11 +451,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44020,
+      "num": 28644,
+      "word": "国泰航空爆料人发声",
+      "onboard_time": 1684867333,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41672,
       "num": 77107,
       "word": "民警520领结婚证后又去抓了3个人",
       "onboard_time": 1684860623,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34491,
+      "num": 36648,
+      "word": "国泰航空致歉",
+      "onboard_time": 1684797020,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
