@@ -1,6 +1,6 @@
 {
   "startTime": 1684772522563,
-  "endTime": 1684823669333,
+  "endTime": 1684826145579,
   "band_list": [
     {
       "raw_hot": 2735051,
@@ -83,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1463682,
+      "num": 1171026,
+      "word": "你的女儿其实不是你的女儿",
+      "onboard_time": 1684822829,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1379207,
       "num": 381740,
       "word": "黄瑞恩罗颖分手",
@@ -139,6 +147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1169317,
+      "num": 1169317,
+      "word": "兰州大学",
+      "onboard_time": 1684824029,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1143736,
       "num": 1143736,
       "word": "俄方证实乌军攻入俄境内",
@@ -169,6 +185,14 @@
       "onboard_time": 1684814369,
       "rank": 16,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 955667,
+      "num": 955667,
+      "word": "网上的言论谢娜都知道",
+      "onboard_time": 1684822050,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 955128,
@@ -219,20 +243,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 678802,
+      "num": 678802,
+      "word": "教师体罚学生被开除44名家长挽留",
+      "onboard_time": 1684822527,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 637277,
       "num": 637277,
       "word": "很难相信这是方文山作的词",
       "onboard_time": 1684799244,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 633738,
-      "num": 633738,
-      "word": "网上的言论谢娜都知道",
-      "onboard_time": 1684822050,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 622075,
@@ -259,12 +283,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 595765,
+      "num": 563717,
+      "word": "王鹤棣虞书欣同款滤镜",
+      "onboard_time": 1684823069,
+      "rank": 26,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 593694,
       "num": 593694,
       "word": "TFBOYS十周年演唱会或将在西安",
       "onboard_time": 1684798824,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 590982,
+      "num": 590982,
+      "word": "A股",
+      "onboard_time": 1684824389,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 577436,
@@ -491,14 +531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 381953,
-      "num": 182528,
-      "word": "你的女儿其实不是你的女儿",
-      "onboard_time": 1684822829,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 377798,
       "num": 377798,
       "word": "羊倌为救坠崖国保差点弄丢几百只羊",
@@ -531,12 +563,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 358978,
-      "num": 188311,
-      "word": "教师体罚学生被开除44名家长挽留",
-      "onboard_time": 1684822527,
-      "rank": 31,
-      "category": "社会新闻,教育"
+      "raw_hot": 352543,
+      "num": 352543,
+      "word": "iG官宣Cryin加入",
+      "onboard_time": 1684825228,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 349516,
@@ -585,6 +617,14 @@
       "onboard_time": 1684763491,
       "rank": 30,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 319859,
+      "num": 319859,
+      "word": "国泰航空",
+      "onboard_time": 1684824989,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 318118,
@@ -691,6 +731,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 281949,
+      "num": 281949,
+      "word": "马思纯晒视频回应瘦回来了",
+      "onboard_time": 1684824207,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 281765,
+      "num": 281765,
+      "word": "ALin加入谢娜队瘦了十斤",
+      "onboard_time": 1684822168,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272958,
       "num": 272958,
       "word": "G7",
@@ -715,8 +771,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 266130,
-      "num": 248085,
+      "raw_hot": 266656,
+      "num": 266656,
       "word": "爸爸当家2logo抄袭EXO",
       "onboard_time": 1684821690,
       "rank": 23,
@@ -784,6 +840,14 @@
       "word": "怦然3官宣了29位素人嘉宾",
       "onboard_time": 1684800028,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 240323,
+      "num": 240323,
+      "word": "爸爸当家2",
+      "onboard_time": 1684823309,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -867,14 +931,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 217847,
-      "num": 199349,
-      "word": "王鹤棣虞书欣同款滤镜",
-      "onboard_time": 1684823069,
-      "rank": 26,
-      "category": "作品衍生,幽默"
-    },
-    {
       "raw_hot": 217807,
       "num": 188642,
       "word": "小狗 奶奶我听不进也看不见了",
@@ -955,6 +1011,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 210333,
+      "num": 210333,
+      "word": "好看到让我发疯的小说",
+      "onboard_time": 1684823547,
+      "rank": 31,
+      "category": "情感,作品衍生"
+    },
+    {
       "raw_hot": 209476,
       "num": 209476,
       "word": "陈都灵高清怼脸拍",
@@ -963,20 +1027,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 209080,
-      "num": 184864,
-      "word": "ALin加入谢娜队瘦了十斤",
-      "onboard_time": 1684822168,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 205640,
       "num": 205640,
       "word": "18年RNG全员离队",
       "onboard_time": 1684817073,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205562,
+      "num": 205562,
+      "word": "兰州大学回应网传教师抹黑抗美援朝",
+      "onboard_time": 1684824087,
+      "rank": 32,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 202265,
@@ -995,12 +1059,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201358,
-      "num": 180957,
-      "word": "爸爸当家2",
-      "onboard_time": 1684823309,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 200932,
+      "num": 238590,
+      "word": "国泰航空暂停有关空服员飞行任务",
+      "onboard_time": 1684825590,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197044,
@@ -1107,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179756,
+      "num": 179756,
+      "word": "新冠感染情况问卷调查",
+      "onboard_time": 1684825109,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179452,
       "num": 179452,
       "word": "00后女生追星季羡林保送北大成校友",
@@ -1129,6 +1201,14 @@
       "onboard_time": 1684822050,
       "rank": 38,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 175349,
+      "num": 175349,
+      "word": "王者荣耀",
+      "onboard_time": 1684819891,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 174384,
@@ -1185,14 +1265,6 @@
       "onboard_time": 1684761388,
       "rank": 32,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 168488,
-      "num": 168488,
-      "word": "王者荣耀",
-      "onboard_time": 1684819891,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 165273,
@@ -1339,6 +1411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 139140,
+      "num": 139140,
+      "word": "Jennie黑纱白色蕾丝蓬蓬裙",
+      "onboard_time": 1684821632,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 138089,
       "num": 138089,
       "word": "易梦玲综艺首秀",
@@ -1369,6 +1449,14 @@
       "onboard_time": 1684801408,
       "rank": 46,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 135777,
+      "num": 135777,
+      "word": "谢可寅一眼认出虞书欣童年照",
+      "onboard_time": 1684826069,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 135702,
@@ -1531,6 +1619,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 88827,
+      "num": 267563,
+      "word": "李佳琦说主播不能一直吃老本",
+      "onboard_time": 1684823729,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 83587,
       "num": 135362,
       "word": "雨后西湖再现鱼跃龙门",
@@ -1649,6 +1745,14 @@
       "onboard_time": 1684768231,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 13819,
+      "num": 1171306,
+      "word": "珍惜我们的共同家园",
+      "onboard_time": 1684825948,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
