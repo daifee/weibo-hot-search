@@ -1,0 +1,410 @@
+{
+  "runTime": 1684806527489,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1731641,
+        "num": 1731641,
+        "word": "鹿晗兑现三年前承诺",
+        "onboard_time": 1684799727,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1407109,
+        "num": 1407109,
+        "word": "教育局回应下雨天学校不到点不开门",
+        "onboard_time": 1684798042,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 56821,
+        "num": 1299799,
+        "word": "神舟十六号近日择机发射",
+        "onboard_time": 1684803629,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1275594,
+        "num": 1275594,
+        "word": "国泰空乘歧视乘客录音曝光",
+        "onboard_time": 1684803629,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 975083,
+        "num": 975083,
+        "word": "大哥大嫂BE了",
+        "onboard_time": 1684767871,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 712429,
+        "num": 712429,
+        "word": "汤面4元一碗加面请比心",
+        "onboard_time": 1684802847,
+        "rank": 5,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 571487,
+        "num": 571487,
+        "word": "毕业一年论文被抽检不合格",
+        "onboard_time": 1684805486,
+        "rank": 6,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 510074,
+        "num": 510074,
+        "word": "很难相信这是方文山作的词",
+        "onboard_time": 1684799244,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 505588,
+        "num": 505588,
+        "word": "TFBOYS十周年演唱会或将在西安",
+        "onboard_time": 1684798824,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 453049,
+        "num": 453049,
+        "word": "林更新郑嘉颖九年没见了",
+        "onboard_time": 1684804287,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434215,
+        "num": 434215,
+        "word": "掘金vs湖人",
+        "onboard_time": 1684802608,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 369470,
+        "num": 369470,
+        "word": "朱一龙无法出席华表奖颁奖典礼",
+        "onboard_time": 1684801228,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 363532,
+        "num": 363532,
+        "word": "俄方证实乌军攻入俄境内",
+        "onboard_time": 1684767150,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339231,
+        "num": 339231,
+        "word": "丰田再次呼吁不要过早放弃燃油车",
+        "onboard_time": 1684797802,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333634,
+        "num": 333634,
+        "word": "孙颖莎",
+        "onboard_time": 1684803809,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319260,
+        "num": 319260,
+        "word": "陈乔恩以为龚俊30多了",
+        "onboard_time": 1684762709,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302517,
+        "num": 302517,
+        "word": "朱珠上妆全程",
+        "onboard_time": 1684798944,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296431,
+        "num": 296431,
+        "word": "近期到底一阳多还是二阳多",
+        "onboard_time": 1684805368,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267942,
+        "num": 267942,
+        "word": "詹姆斯单节21分",
+        "onboard_time": 1684805486,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266060,
+        "num": 266060,
+        "word": "俄罗斯",
+        "onboard_time": 1684767330,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452634,
+        "num": 264129,
+        "word": "一个人突然发朋友圈的规律",
+        "onboard_time": 1684766731,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 422551,
+        "num": 260960,
+        "word": "夫妻吵架丈夫举报妻子吸毒",
+        "onboard_time": 1684804107,
+        "rank": 21,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 252627,
+        "num": 252627,
+        "word": "浙江一公司上4休3收到上千份简历",
+        "onboard_time": 1684769909,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238714,
+        "num": 238714,
+        "word": "高铁上男子手机外放提醒后更嚣张",
+        "onboard_time": 1684804828,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236820,
+        "num": 236820,
+        "word": "陈乔恩说听说全国观众都知道我喝大了",
+        "onboard_time": 1684759347,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228792,
+        "num": 228792,
+        "word": "郑容和不参与哇唧唧哇新综艺录制",
+        "onboard_time": 1684767213,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227020,
+        "num": 227020,
+        "word": "二阳",
+        "onboard_time": 1684805550,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223229,
+        "num": 223229,
+        "word": "国泰航空致歉",
+        "onboard_time": 1684797020,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218750,
+        "num": 218750,
+        "word": "护心男主变小三",
+        "onboard_time": 1684761988,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214627,
+        "num": 214627,
+        "word": "戛纳电影节 假血",
+        "onboard_time": 1684763012,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245422,
+        "num": 211400,
+        "word": "小慧君回应被指封号",
+        "onboard_time": 1684763491,
+        "rank": 30,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 196340,
+        "num": 196340,
+        "word": "原来毛不易是纯爱战神",
+        "onboard_time": 1684802310,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182109,
+        "num": 182109,
+        "word": "学校管理制度化和人性化哪个更重要",
+        "onboard_time": 1684805848,
+        "rank": 32,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 169815,
+        "num": 169815,
+        "word": "怦然3官宣了29位素人嘉宾",
+        "onboard_time": 1684800028,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168195,
+        "num": 168195,
+        "word": "G7",
+        "onboard_time": 1684801890,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162988,
+        "num": 162988,
+        "word": "哪些话陪伴你拼过整个高三",
+        "onboard_time": 1684806025,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 160258,
+        "num": 160258,
+        "word": "深圳暴雨",
+        "onboard_time": 1684796961,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158445,
+        "num": 158445,
+        "word": "这就是我记忆里的高三",
+        "onboard_time": 1684805848,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 154663,
+        "num": 154663,
+        "word": "NBA西部决赛",
+        "onboard_time": 1684804228,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148799,
+        "num": 148799,
+        "word": "宠物猫被邻居高空扔下活活摔死",
+        "onboard_time": 1684773263,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147140,
+        "num": 147140,
+        "word": "马思纯瘦回来了",
+        "onboard_time": 1684806505,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146012,
+        "num": 146012,
+        "word": "刘昊然戛纳街头白背心",
+        "onboard_time": 1684799787,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 144090,
+        "num": 144090,
+        "word": "四美四帅",
+        "onboard_time": 1684765590,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134442,
+        "num": 134442,
+        "word": "迪丽热巴阿娜尔罕评分降了",
+        "onboard_time": 1684760549,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133334,
+        "num": 133334,
+        "word": "16超女梁馨予发长文回应柯以敏道歉",
+        "onboard_time": 1684806446,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130318,
+        "num": 130318,
+        "word": "你猜这花为什么不发朋友圈",
+        "onboard_time": 1684762051,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129860,
+        "num": 129860,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1684803926,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 78706,
+        "num": 129252,
+        "word": "雨后西湖再现鱼跃龙门",
+        "onboard_time": 1684804228,
+        "rank": 47,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 43977,
+        "num": 129136,
+        "word": "AG 三组",
+        "onboard_time": 1684768173,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30000,
+        "num": 129089,
+        "word": "牛奶大馒头做法",
+        "onboard_time": 1684796660,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国生物物种名录2023版发布#"
+    }
+  }
+}

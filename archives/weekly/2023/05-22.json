@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684805087448,
+  "endTime": 1684806527489,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -643,6 +643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 571487,
+      "num": 571487,
+      "word": "毕业一年论文被抽检不合格",
+      "onboard_time": 1684805486,
+      "rank": 6,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 570411,
       "num": 570411,
       "word": "RNG大名单移除GALA和Ming",
@@ -859,6 +867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 453049,
+      "num": 453049,
+      "word": "林更新郑嘉颖九年没见了",
+      "onboard_time": 1684804287,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 449764,
       "num": 449764,
       "word": "孩子被救出后哭喊还有我爷爷",
@@ -923,12 +939,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 434215,
+      "num": 434215,
+      "word": "掘金vs湖人",
+      "onboard_time": 1684802608,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 429045,
       "num": 429045,
       "word": "丰田再次呼吁不要过早放弃燃油车",
       "onboard_time": 1684797802,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 422551,
+      "num": 293459,
+      "word": "夫妻吵架丈夫举报妻子吸毒",
+      "onboard_time": 1684804107,
+      "rank": 21,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 421001,
@@ -953,14 +985,6 @@
       "onboard_time": 1684763310,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 408473,
-      "num": 293459,
-      "word": "夫妻吵架丈夫举报妻子吸毒",
-      "onboard_time": 1684804107,
-      "rank": 21,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 405696,
@@ -1049,14 +1073,6 @@
       "onboard_time": 1684728391,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 370847,
-      "num": 370847,
-      "word": "掘金vs湖人",
-      "onboard_time": 1684802608,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 366922,
@@ -1179,6 +1195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 333634,
+      "num": 333634,
+      "word": "孙颖莎",
+      "onboard_time": 1684803809,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 327089,
       "num": 292200,
       "word": "小县城相亲有多难",
@@ -1225,14 +1249,6 @@
       "onboard_time": 1684724727,
       "rank": 30,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 320543,
-      "num": 320543,
-      "word": "林更新郑嘉颖九年没见了",
-      "onboard_time": 1684804287,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 320051,
@@ -1371,12 +1387,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 293345,
-      "num": 293345,
-      "word": "孙颖莎",
-      "onboard_time": 1684803809,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 296431,
+      "num": 296431,
+      "word": "近期到底一阳多还是二阳多",
+      "onboard_time": 1684805368,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292993,
@@ -1505,6 +1521,14 @@
       "onboard_time": 1684751968,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 267942,
+      "num": 267942,
+      "word": "詹姆斯单节21分",
+      "onboard_time": 1684805486,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 267779,
@@ -1697,6 +1721,14 @@
       "onboard_time": 1684713747,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 238714,
+      "num": 238714,
+      "word": "高铁上男子手机外放提醒后更嚣张",
+      "onboard_time": 1684804828,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238187,
@@ -2211,6 +2243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182109,
+      "num": 182109,
+      "word": "学校管理制度化和人性化哪个更重要",
+      "onboard_time": 1684805848,
+      "rank": 32,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 181586,
       "num": 181586,
       "word": "节粮有我",
@@ -2427,6 +2467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162988,
+      "num": 162988,
+      "word": "哪些话陪伴你拼过整个高三",
+      "onboard_time": 1684806025,
+      "rank": 35,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 162979,
       "num": 162979,
       "word": "女孩带农药到丛林退役军人果断报警",
@@ -2467,14 +2515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159909,
-      "num": 159909,
-      "word": "高铁上男子手机外放提醒后更嚣张",
-      "onboard_time": 1684804828,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159466,
       "num": 159466,
       "word": "警方已申请刘亚仁拘捕令",
@@ -2505,6 +2545,14 @@
       "onboard_time": 1684735410,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158445,
+      "num": 158445,
+      "word": "这就是我记忆里的高三",
+      "onboard_time": 1684805848,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 157958,
@@ -2619,6 +2667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147140,
+      "num": 147140,
+      "word": "马思纯瘦回来了",
+      "onboard_time": 1684806505,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 147048,
       "num": 147048,
       "word": "这是个有理想但没教养的人",
@@ -2689,6 +2745,14 @@
       "onboard_time": 1684672892,
       "rank": 47,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 133334,
+      "num": 133334,
+      "word": "16超女梁馨予发长文回应柯以敏道歉",
+      "onboard_time": 1684806446,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 132931,
@@ -3059,6 +3123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56821,
+      "num": 1338535,
+      "word": "神舟十六号近日择机发射",
+      "onboard_time": 1684803629,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56663,
       "num": 124733,
       "word": "EDGM和WB一起点亮星星",
@@ -3073,14 +3145,6 @@
       "onboard_time": 1684775538,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 50581,
-      "num": 1338535,
-      "word": "神舟十六号近日择机发射",
-      "onboard_time": 1684803629,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48757,
