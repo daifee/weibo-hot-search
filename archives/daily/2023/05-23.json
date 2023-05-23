@@ -1,6 +1,6 @@
 {
   "startTime": 1684772522563,
-  "endTime": 1684830074288,
+  "endTime": 1684830822708,
   "band_list": [
     {
       "raw_hot": 2735051,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1388762,
+      "num": 1133423,
+      "word": "网上的言论谢娜都知道",
+      "onboard_time": 1684822050,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1379207,
       "num": 381740,
       "word": "黄瑞恩罗颖分手",
@@ -179,14 +187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1133423,
-      "num": 1133423,
-      "word": "网上的言论谢娜都知道",
-      "onboard_time": 1684822050,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1068222,
       "num": 1068222,
       "word": "外媒评张雨绮戛纳红毯最佳着装",
@@ -251,12 +251,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 725165,
+      "num": 725165,
+      "word": "越南人打工不卷逼疯中国老板",
+      "onboard_time": 1684827807,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 695511,
       "num": 695511,
       "word": "俄罗斯",
       "onboard_time": 1684767330,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 687064,
+      "num": 687064,
+      "word": "华表奖座位",
+      "onboard_time": 1684829427,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 680528,
@@ -353,6 +369,14 @@
       "onboard_time": 1684808067,
       "rank": 15,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 529680,
+      "num": 529680,
+      "word": "明星华表奖出发图",
+      "onboard_time": 1684829008,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 527250,
@@ -459,14 +483,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 464962,
-      "num": 464962,
-      "word": "明星华表奖出发图",
-      "onboard_time": 1684829008,
-      "rank": 11,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 463237,
       "num": 463237,
       "word": "iG官宣Cryin加入",
@@ -547,12 +563,20 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 416999,
-      "num": 416999,
-      "word": "越南人打工不卷逼疯中国老板",
-      "onboard_time": 1684827807,
+      "raw_hot": 413234,
+      "num": 413234,
+      "word": "孙艺珍玄彬卖别墅赚了18亿",
+      "onboard_time": 1684830387,
       "rank": 13,
-      "category": "社会新闻"
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 412639,
+      "num": 412639,
+      "word": "昊也",
+      "onboard_time": 1684828948,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 401137,
@@ -611,14 +635,6 @@
       "category": "情感,作品衍生"
     },
     {
-      "raw_hot": 373496,
-      "num": 373496,
-      "word": "华表奖座位",
-      "onboard_time": 1684829427,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 363110,
       "num": 363110,
       "word": "王者荣耀宝格丽互关",
@@ -643,6 +659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 347551,
+      "num": 338495,
+      "word": "泫雅不来武汉音乐节",
+      "onboard_time": 1684828829,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347199,
       "num": 347199,
       "word": "陈乔恩说听说全国观众都知道我喝大了",
@@ -651,28 +675,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 347179,
-      "num": 347179,
-      "word": "昊也",
-      "onboard_time": 1684828948,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 347078,
       "num": 347078,
       "word": "melo",
       "onboard_time": 1684768591,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 338495,
-      "num": 338495,
-      "word": "泫雅不来武汉音乐节",
-      "onboard_time": 1684828829,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 337606,
@@ -939,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232563,
+      "num": 192570,
+      "word": "王一博已完成热烈配音",
+      "onboard_time": 1684830208,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228260,
       "num": 228260,
       "word": "蒜蓉香蕉",
@@ -1043,6 +1059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 216860,
+      "num": 212686,
+      "word": "周深华表奖彩排现场",
+      "onboard_time": 1684816054,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216652,
       "num": 216652,
       "word": "周杰伦上海",
@@ -1091,20 +1115,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212686,
-      "num": 212686,
-      "word": "周深华表奖彩排现场",
-      "onboard_time": 1684816054,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 211980,
       "num": 195585,
       "word": "Irene出发巴黎机场图",
       "onboard_time": 1684817672,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 210451,
+      "num": 210451,
+      "word": "猫因生病被剃掉了身体中段的毛",
+      "onboard_time": 1684823669,
+      "rank": 44,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 209476,
@@ -1120,6 +1144,14 @@
       "word": "环球人物评国泰航空致歉",
       "onboard_time": 1684826429,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207694,
+      "num": 207694,
+      "word": "杭州东站停电",
+      "onboard_time": 1684829847,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1347,7 +1379,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 171872,
+      "raw_hot": 172059,
       "num": 267563,
       "word": "李佳琦说主播不能一直吃老本",
       "onboard_time": 1684823729,
@@ -1393,6 +1425,14 @@
       "onboard_time": 1684768051,
       "rank": 37,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 165125,
+      "num": 150097,
+      "word": "薛之谦演唱会吸阳气",
+      "onboard_time": 1684829909,
+      "rank": 42,
+      "category": "音乐,幽默"
     },
     {
       "raw_hot": 162988,
@@ -1491,36 +1531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150097,
-      "num": 150097,
-      "word": "薛之谦演唱会吸阳气",
-      "onboard_time": 1684829909,
-      "rank": 42,
-      "category": "音乐,幽默"
-    },
-    {
-      "raw_hot": 150073,
-      "num": 150073,
-      "word": "杭州东站停电",
-      "onboard_time": 1684829847,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149714,
       "num": 149714,
       "word": "网传浪姐4三公结果",
       "onboard_time": 1684799185,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147871,
-      "num": 147871,
-      "word": "猫因生病被剃掉了身体中段的毛",
-      "onboard_time": 1684823669,
-      "rank": 44,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 147581,
@@ -1809,6 +1825,14 @@
       "onboard_time": 1684768173,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 62992,
+      "num": 412903,
+      "word": "女孩感情受挫消防员撑伞守护",
+      "onboard_time": 1684830748,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61040,

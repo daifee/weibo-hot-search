@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684830074288,
+  "endTime": 1684830822708,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -243,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1388762,
+      "num": 1133423,
+      "word": "网上的言论谢娜都知道",
+      "onboard_time": 1684822050,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1383898,
       "num": 1383898,
       "word": "吴倩 三公",
@@ -385,14 +393,6 @@
       "onboard_time": 1684767150,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1133423,
-      "num": 1133423,
-      "word": "网上的言论谢娜都知道",
-      "onboard_time": 1684822050,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1098545,
@@ -651,6 +651,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 725165,
+      "num": 725165,
+      "word": "越南人打工不卷逼疯中国老板",
+      "onboard_time": 1684827807,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 721765,
       "num": 651266,
       "word": "小慧君回应被指封号",
@@ -696,6 +704,14 @@
       "word": "招摇2.0",
       "onboard_time": 1684761748,
       "rank": 14,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 687064,
+      "num": 687064,
+      "word": "华表奖座位",
+      "onboard_time": 1684829427,
+      "rank": 17,
       "category": "作品衍生"
     },
     {
@@ -939,6 +955,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 529680,
+      "num": 529680,
+      "word": "明星华表奖出发图",
+      "onboard_time": 1684829008,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 527250,
       "num": 527250,
       "word": "王俊凯华表奖出发图",
@@ -1129,14 +1153,6 @@
       "onboard_time": 1684764031,
       "rank": 31,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 464962,
-      "num": 464962,
-      "word": "明星华表奖出发图",
-      "onboard_time": 1684829008,
-      "rank": 11,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 464920,
@@ -1331,14 +1347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 416999,
-      "num": 416999,
-      "word": "越南人打工不卷逼疯中国老板",
-      "onboard_time": 1684827807,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 415378,
       "num": 415378,
       "word": "王源粉发小辫",
@@ -1347,11 +1355,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 413234,
+      "num": 413234,
+      "word": "孙艺珍玄彬卖别墅赚了18亿",
+      "onboard_time": 1684830387,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 413048,
       "num": 413048,
       "word": "起猛了看到婴儿会飞",
       "onboard_time": 1684763310,
       "rank": 13,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 412639,
+      "num": 412639,
+      "word": "昊也",
+      "onboard_time": 1684828948,
+      "rank": 20,
       "category": "作品衍生"
     },
     {
@@ -1475,14 +1499,6 @@
       "category": "情感,作品衍生"
     },
     {
-      "raw_hot": 373496,
-      "num": 373496,
-      "word": "华表奖座位",
-      "onboard_time": 1684829427,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 366922,
       "num": 366922,
       "word": "怦然心动20岁",
@@ -1595,12 +1611,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 347179,
-      "num": 347179,
-      "word": "昊也",
-      "onboard_time": 1684828948,
-      "rank": 20,
-      "category": "作品衍生"
+      "raw_hot": 347551,
+      "num": 338495,
+      "word": "泫雅不来武汉音乐节",
+      "onboard_time": 1684828829,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 347078,
@@ -1617,14 +1633,6 @@
       "onboard_time": 1684740510,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 338495,
-      "num": 338495,
-      "word": "泫雅不来武汉音乐节",
-      "onboard_time": 1684828829,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 337606,
@@ -2379,6 +2387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232563,
+      "num": 192570,
+      "word": "王一博已完成热烈配音",
+      "onboard_time": 1684830208,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 232309,
       "num": 232309,
       "word": "身边初中毕业但很厉害的人",
@@ -2611,6 +2627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 216860,
+      "num": 212686,
+      "word": "周深华表奖彩排现场",
+      "onboard_time": 1684816054,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216652,
       "num": 216652,
       "word": "周杰伦上海",
@@ -2683,20 +2707,20 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 212686,
-      "num": 212686,
-      "word": "周深华表奖彩排现场",
-      "onboard_time": 1684816054,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 211980,
       "num": 195585,
       "word": "Irene出发巴黎机场图",
       "onboard_time": 1684817672,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 210451,
+      "num": 210451,
+      "word": "猫因生病被剃掉了身体中段的毛",
+      "onboard_time": 1684823669,
+      "rank": 44,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 209476,
@@ -2721,6 +2745,14 @@
       "onboard_time": 1684728990,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 207694,
+      "num": 207694,
+      "word": "杭州东站停电",
+      "onboard_time": 1684829847,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207519,
@@ -3243,20 +3275,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 172059,
+      "num": 267563,
+      "word": "李佳琦说主播不能一直吃老本",
+      "onboard_time": 1684823729,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 171888,
       "num": 171888,
       "word": "袁隆平罕见哽咽画面首次曝光",
       "onboard_time": 1684714467,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171872,
-      "num": 267563,
-      "word": "李佳琦说主播不能一直吃老本",
-      "onboard_time": 1684823729,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 171669,
@@ -3337,6 +3369,14 @@
       "onboard_time": 1684722807,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 165125,
+      "num": 150097,
+      "word": "薛之谦演唱会吸阳气",
+      "onboard_time": 1684829909,
+      "rank": 42,
+      "category": "音乐,幽默"
     },
     {
       "raw_hot": 163845,
@@ -3571,22 +3611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150097,
-      "num": 150097,
-      "word": "薛之谦演唱会吸阳气",
-      "onboard_time": 1684829909,
-      "rank": 42,
-      "category": "音乐,幽默"
-    },
-    {
-      "raw_hot": 150073,
-      "num": 150073,
-      "word": "杭州东站停电",
-      "onboard_time": 1684829847,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149714,
       "num": 149714,
       "word": "网传浪姐4三公结果",
@@ -3609,14 +3633,6 @@
       "onboard_time": 1684742967,
       "rank": 41,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 147871,
-      "num": 147871,
-      "word": "猫因生病被剃掉了身体中段的毛",
-      "onboard_time": 1684823669,
-      "rank": 44,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 147581,
@@ -4145,6 +4161,14 @@
       "onboard_time": 1684737507,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 62992,
+      "num": 412903,
+      "word": "女孩感情受挫消防员撑伞守护",
+      "onboard_time": 1684830748,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61040,
