@@ -1,6 +1,6 @@
 {
   "startTime": 1684772522563,
-  "endTime": 1684815599952,
+  "endTime": 1684816410070,
   "band_list": [
     {
       "raw_hot": 2585058,
@@ -59,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1594588,
+      "num": 1594588,
+      "word": "谢谢小狗",
+      "onboard_time": 1684808609,
+      "rank": 25,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 1379207,
       "num": 381740,
       "word": "黄瑞恩罗颖分手",
@@ -107,14 +115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1119216,
-      "num": 1119216,
-      "word": "谢谢小狗",
-      "onboard_time": 1684808609,
-      "rank": 25,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 1068222,
       "num": 1068222,
       "word": "外媒评张雨绮戛纳红毯最佳着装",
@@ -131,12 +131,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 884091,
+      "num": 884091,
+      "word": "没想到杨紫大王关系这么好",
+      "onboard_time": 1684814191,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 841668,
       "num": 841668,
       "word": "掘金vs湖人",
       "onboard_time": 1684802608,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 738597,
+      "num": 738597,
+      "word": "韩媒称韩国加入G7后G8可替代联合国",
+      "onboard_time": 1684814369,
+      "rank": 16,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 695511,
@@ -152,14 +168,6 @@
       "word": "陈乔恩以为龚俊30多了",
       "onboard_time": 1684762709,
       "rank": 1,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 653891,
-      "num": 653891,
-      "word": "没想到杨紫大王关系这么好",
-      "onboard_time": 1684814191,
-      "rank": 10,
       "category": "综艺"
     },
     {
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 607372,
-      "num": 333074,
+      "num": 431588,
       "word": "女生在晚上一定要远离工地",
       "onboard_time": 1684810347,
       "rank": 20,
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 568294,
+      "num": 568294,
+      "word": "曾黎的厚底鞋有20厘米",
+      "onboard_time": 1684813228,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 561102,
       "num": 293478,
       "word": "一个人突然发朋友圈的规律",
@@ -227,12 +243,20 @@
       "category": "影视,时尚"
     },
     {
-      "raw_hot": 539885,
-      "num": 539885,
-      "word": "曾黎的厚底鞋有20厘米",
-      "onboard_time": 1684813228,
-      "rank": 12,
-      "category": "作品衍生"
+      "raw_hot": 543197,
+      "num": 543197,
+      "word": "女子把离婚协议发网上遭前公婆毒打",
+      "onboard_time": 1684814910,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 523584,
+      "num": 523584,
+      "word": "RNG官宣Ming离队",
+      "onboard_time": 1684814730,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 519644,
@@ -283,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 475199,
+      "num": 475199,
+      "word": "虞书欣多巴胺眼镜",
+      "onboard_time": 1684814850,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 469231,
       "num": 301270,
       "word": "六年没联系的朋友找我当伴娘",
@@ -312,6 +344,14 @@
       "word": "林更新郑嘉颖九年没见了",
       "onboard_time": 1684804287,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 444001,
+      "num": 444001,
+      "word": "孙燕姿回应AI孙燕姿",
+      "onboard_time": 1684815273,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -355,28 +395,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 387237,
-      "num": 387237,
-      "word": "安东尼宣布退役",
-      "onboard_time": 1684763491,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 381538,
-      "num": 321653,
+      "raw_hot": 390660,
+      "num": 390660,
       "word": "赵丽颖清唱知否知否",
       "onboard_time": 1684813949,
       "rank": 21,
       "category": "综艺"
     },
     {
-      "raw_hot": 378035,
-      "num": 378035,
-      "word": "韩媒称韩国加入G7后G8可替代联合国",
-      "onboard_time": 1684814369,
-      "rank": 16,
-      "category": "国外要闻"
+      "raw_hot": 387237,
+      "num": 387237,
+      "word": "安东尼宣布退役",
+      "onboard_time": 1684763491,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 377798,
@@ -403,14 +435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 347841,
-      "num": 347841,
-      "word": "RNG官宣Ming离队",
-      "onboard_time": 1684814730,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 347199,
       "num": 347199,
       "word": "陈乔恩说听说全国观众都知道我喝大了",
@@ -425,6 +449,14 @@
       "onboard_time": 1684768591,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 337606,
+      "num": 337606,
+      "word": "Jennie戳爷同框合影",
+      "onboard_time": 1684815511,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 333634,
@@ -443,12 +475,12 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 322572,
-      "num": 234296,
-      "word": "虞书欣多巴胺眼镜",
-      "onboard_time": 1684814850,
-      "rank": 30,
-      "category": "作品衍生,时尚"
+      "raw_hot": 322935,
+      "num": 322935,
+      "word": "原来肠道细菌可以影响颜值",
+      "onboard_time": 1684815812,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 318118,
@@ -539,6 +571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 281756,
+      "num": 281756,
+      "word": "没认出来Lisa",
+      "onboard_time": 1684815932,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 272958,
       "num": 272958,
       "word": "G7",
@@ -563,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 264124,
+      "num": 264124,
+      "word": "2元土豆加工成薯塔卖15元",
+      "onboard_time": 1684814668,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262661,
       "num": 262661,
       "word": "鹿晗演唱会",
@@ -584,14 +632,6 @@
       "word": "乌克兰",
       "onboard_time": 1684767390,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249526,
-      "num": 249526,
-      "word": "女子把离婚协议发网上遭前公婆毒打",
-      "onboard_time": 1684814910,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -625,14 +665,6 @@
       "onboard_time": 1684800028,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234301,
-      "num": 234301,
-      "word": "孙燕姿回应AI孙燕姿",
-      "onboard_time": 1684815273,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 228260,
@@ -739,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212686,
+      "num": 212686,
+      "word": "周深华表奖彩排现场",
+      "onboard_time": 1684816054,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209476,
       "num": 209476,
       "word": "陈都灵高清怼脸拍",
@@ -777,6 +817,22 @@
       "onboard_time": 1684808728,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 194811,
+      "num": 194811,
+      "word": "你会担心毕业论文被抽检吗",
+      "onboard_time": 1684816114,
+      "rank": 41,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 193843,
+      "num": 193843,
+      "word": "三花成为猫中女神是有原因的",
+      "onboard_time": 1684814730,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 191772,
@@ -835,12 +891,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173305,
-      "num": 173305,
-      "word": "2元土豆加工成薯塔卖15元",
-      "onboard_time": 1684814668,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 174384,
+      "num": 174384,
+      "word": "以为周杰伦参加了中国说唱巅峰对决",
+      "onboard_time": 1684816173,
+      "rank": 49,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 172522,
@@ -865,14 +921,6 @@
       "onboard_time": 1684797923,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 170054,
-      "num": 170054,
-      "word": "Jennie戳爷同框合影",
-      "onboard_time": 1684815511,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 169634,
@@ -1059,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134745,
+      "num": 1594802,
+      "word": "我国科考队员登顶珠峰成功",
+      "onboard_time": 1684813831,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133852,
       "num": 133852,
       "word": "中国科学家养的牛在海底打231米钻孔",
@@ -1068,7 +1124,7 @@
     },
     {
       "raw_hot": 132230,
-      "num": 238167,
+      "num": 327825,
       "word": "夏天为了美白有多拼",
       "onboard_time": 1684814131,
       "rank": 27,
@@ -1096,14 +1152,6 @@
       "word": "没有充电桩想买电驱车",
       "onboard_time": 1684808788,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123816,
-      "num": 1384069,
-      "word": "我国科考队员登顶珠峰成功",
-      "onboard_time": 1684813831,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1233,6 +1281,14 @@
       "onboard_time": 1684776196,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 68232,
+      "num": 549791,
+      "word": "全网寻找跪地救人兵哥哥",
+      "onboard_time": 1684815812,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66651,
