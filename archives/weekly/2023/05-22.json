@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684798422488,
+  "endTime": 1684805087448,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 3101486,
-      "num": 914192,
+      "num": 1226810,
       "word": "大哥大嫂BE了",
       "onboard_time": 1684767871,
       "rank": 3,
@@ -67,6 +67,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1992509,
+      "num": 1992509,
+      "word": "鹿晗兑现三年前承诺",
+      "onboard_time": 1684799727,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1910348,
       "num": 1910348,
       "word": "陈乔恩以为龚俊30多了",
@@ -89,6 +97,14 @@
       "onboard_time": 1684768051,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1671180,
+      "num": 1671180,
+      "word": "教育局回应下雨天学校不到点不开门",
+      "onboard_time": 1684798042,
+      "rank": 31,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1646686,
@@ -177,6 +193,14 @@
       "onboard_time": 1684754848,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1316289,
+      "num": 1316289,
+      "word": "国泰空乘歧视乘客录音曝光",
+      "onboard_time": 1684803629,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1313388,
@@ -305,6 +329,14 @@
       "onboard_time": 1684714647,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 902292,
+      "num": 902292,
+      "word": "汤面4元一碗加面请比心",
+      "onboard_time": 1684802847,
+      "rank": 5,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 883616,
@@ -515,6 +547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 637277,
+      "num": 637277,
+      "word": "很难相信这是方文山作的词",
+      "onboard_time": 1684799244,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 633449,
       "num": 633449,
       "word": "刘烨易烊千玺入围华表奖优秀男演员",
@@ -563,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 593694,
+      "num": 593694,
+      "word": "TFBOYS十周年演唱会或将在西安",
+      "onboard_time": 1684798824,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 586665,
       "num": 586665,
       "word": "华表奖 二选一",
@@ -579,6 +627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 577436,
+      "num": 577436,
+      "word": "国泰航空致歉",
+      "onboard_time": 1684797020,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 576894,
       "num": 393933,
       "word": "小学同学因为结婚连加我5次",
@@ -593,6 +649,14 @@
       "onboard_time": 1684742912,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 561102,
+      "num": 382856,
+      "word": "一个人突然发朋友圈的规律",
+      "onboard_time": 1684766731,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 559301,
@@ -625,14 +689,6 @@
       "onboard_time": 1684742248,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 531959,
-      "num": 382856,
-      "word": "一个人突然发朋友圈的规律",
-      "onboard_time": 1684766731,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 519987,
@@ -771,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 456552,
+      "num": 456552,
+      "word": "朱一龙无法出席华表奖颁奖典礼",
+      "onboard_time": 1684801228,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 456358,
       "num": 456358,
       "word": "水电工人被射钉枪击中头部身亡",
@@ -859,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429045,
+      "num": 429045,
+      "word": "丰田再次呼吁不要过早放弃燃油车",
+      "onboard_time": 1684797802,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421001,
       "num": 292267,
       "word": "周冬雨的卧蚕",
@@ -881,6 +953,14 @@
       "onboard_time": 1684763310,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 408473,
+      "num": 293459,
+      "word": "夫妻吵架丈夫举报妻子吸毒",
+      "onboard_time": 1684804107,
+      "rank": 21,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 405696,
@@ -912,6 +992,14 @@
       "word": "Jennie个人综艺",
       "onboard_time": 1684725448,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 395770,
+      "num": 395770,
+      "word": "朱珠上妆全程",
+      "onboard_time": 1684798944,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -961,6 +1049,14 @@
       "onboard_time": 1684728391,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 370847,
+      "num": 370847,
+      "word": "掘金vs湖人",
+      "onboard_time": 1684802608,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 366922,
@@ -1083,14 +1179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 332064,
-      "num": 332064,
-      "word": "国泰航空致歉",
-      "onboard_time": 1684797020,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 327089,
       "num": 292200,
       "word": "小县城相亲有多难",
@@ -1137,6 +1225,14 @@
       "onboard_time": 1684724727,
       "rank": 30,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 320543,
+      "num": 320543,
+      "word": "林更新郑嘉颖九年没见了",
+      "onboard_time": 1684804287,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 320051,
@@ -1244,7 +1340,7 @@
     },
     {
       "raw_hot": 304546,
-      "num": 160279,
+      "num": 293402,
       "word": "浙江一公司上4休3收到上千份简历",
       "onboard_time": 1684769909,
       "rank": 21,
@@ -1273,6 +1369,14 @@
       "onboard_time": 1684759528,
       "rank": 38,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 293345,
+      "num": 293345,
+      "word": "孙颖莎",
+      "onboard_time": 1684803809,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 292993,
@@ -1411,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262661,
+      "num": 262661,
+      "word": "鹿晗演唱会",
+      "onboard_time": 1684803926,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 262271,
       "num": 262271,
       "word": "618",
@@ -1483,6 +1595,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 248095,
+      "num": 248095,
+      "word": "深圳暴雨",
+      "onboard_time": 1684796961,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247136,
       "num": 247136,
       "word": "上届华表奖TFBOYS还合体走红毯",
@@ -1547,6 +1667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241844,
+      "num": 241844,
+      "word": "怦然3官宣了29位素人嘉宾",
+      "onboard_time": 1684800028,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241783,
       "num": 241783,
       "word": "这些东西到底是谁在卖",
@@ -1593,6 +1721,14 @@
       "onboard_time": 1684712845,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235433,
+      "num": 235433,
+      "word": "NBA西部决赛",
+      "onboard_time": 1684804228,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 234792,
@@ -1673,14 +1809,6 @@
       "onboard_time": 1684729413,
       "rank": 34,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 231970,
-      "num": 231970,
-      "word": "深圳暴雨",
-      "onboard_time": 1684796961,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231419,
@@ -1817,6 +1945,14 @@
       "onboard_time": 1684713865,
       "rank": 31,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 213778,
+      "num": 213778,
+      "word": "原来毛不易是纯爱战神",
+      "onboard_time": 1684802310,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 213730,
@@ -2035,6 +2171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187221,
+      "num": 187221,
+      "word": "刘昊然戛纳街头白背心",
+      "onboard_time": 1684799787,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 186299,
       "num": 152453,
       "word": "四川珙县4.5级地震",
@@ -2203,6 +2347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171669,
+      "num": 171669,
+      "word": "如何正确看待断崖式分手",
+      "onboard_time": 1684797923,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171037,
       "num": 171037,
       "word": "落跑甜心",
@@ -2291,6 +2443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162168,
+      "num": 162168,
+      "word": "男子回应高速上拿矿泉水帮货车灭火",
+      "onboard_time": 1684796597,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160690,
       "num": 160690,
       "word": "当同事说你谈过不少恋爱吧",
@@ -2305,6 +2465,14 @@
       "onboard_time": 1684681953,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159909,
+      "num": 159909,
+      "word": "高铁上男子手机外放提醒后更嚣张",
+      "onboard_time": 1684804828,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159466,
@@ -2387,19 +2555,19 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 153455,
-      "num": 153455,
-      "word": "男子回应高速上拿矿泉水帮货车灭火",
-      "onboard_time": 1684796597,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153158,
       "num": 256932,
       "word": "一群人在悬崖绝壁保护植物界大熊猫",
       "onboard_time": 1684755328,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151428,
+      "num": 151428,
+      "word": "男子43年专做点心成非遗传承人",
+      "onboard_time": 1684804166,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -2417,6 +2585,14 @@
       "onboard_time": 1684711641,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149714,
+      "num": 149714,
+      "word": "网传浪姐4三公结果",
+      "onboard_time": 1684799185,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 149353,
@@ -2449,22 +2625,6 @@
       "onboard_time": 1684735947,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 146777,
-      "num": 119796,
-      "word": "教育局回应下雨天学校不到点不开门",
-      "onboard_time": 1684798042,
-      "rank": 31,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 142321,
-      "num": 119730,
-      "word": "丰田再次呼吁不要过早放弃燃油车",
-      "onboard_time": 1684797802,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141491,
@@ -2505,6 +2665,14 @@
       "onboard_time": 1684739668,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 136306,
+      "num": 136306,
+      "word": "还有15天就高考了",
+      "onboard_time": 1684801408,
+      "rank": 46,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 134390,
@@ -2739,14 +2907,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 96774,
-      "num": 96774,
-      "word": "如何正确看待断崖式分手",
-      "onboard_time": 1684797923,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 96681,
       "num": 96681,
       "word": "中国最美木棉王就在广州",
@@ -2801,6 +2961,14 @@
       "onboard_time": 1684737624,
       "rank": 48,
       "category": "美妆,音乐"
+    },
+    {
+      "raw_hot": 83587,
+      "num": 135362,
+      "word": "雨后西湖再现鱼跃龙门",
+      "onboard_time": 1684804228,
+      "rank": 47,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 82475,
@@ -2907,6 +3075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 50581,
+      "num": 1338535,
+      "word": "神舟十六号近日择机发射",
+      "onboard_time": 1684803629,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48757,
       "num": 1760764,
       "word": "用立体书打开国际茶日",
@@ -2916,7 +3092,7 @@
     },
     {
       "raw_hot": 47000,
-      "num": 69698,
+      "num": 132203,
       "word": "牛奶大馒头做法",
       "onboard_time": 1684796660,
       "rank": 48,
