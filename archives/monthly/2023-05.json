@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684851397120,
+  "endTime": 1684852419068,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1633,6 +1633,14 @@
       "onboard_time": 1683807388,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2060636,
+      "num": 2060636,
+      "word": "华表奖获奖名单",
+      "onboard_time": 1684847251,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 2060497,
@@ -3827,6 +3835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1461131,
+      "num": 1461131,
+      "word": "国泰航空3名歧视乘客空乘被解聘",
+      "onboard_time": 1684850917,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1459992,
       "num": 507475,
       "word": "hybe",
@@ -4465,6 +4481,14 @@
       "onboard_time": 1682932168,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1332478,
+      "num": 1332478,
+      "word": "谁来救救江疏影",
+      "onboard_time": 1684849472,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1329287,
@@ -6731,14 +6755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1006662,
-      "num": 691722,
-      "word": "华表奖获奖名单",
-      "onboard_time": 1684847251,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1006281,
       "num": 1006281,
       "word": "疑似美依礼芽翻译炒CP",
@@ -7049,6 +7065,14 @@
       "onboard_time": 1684137508,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 951117,
+      "num": 731487,
+      "word": "易烊千玺王俊凯同框",
+      "onboard_time": 1684850977,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 949837,
@@ -7545,14 +7569,6 @@
       "onboard_time": 1684256481,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 893321,
-      "num": 393665,
-      "word": "谁来救救江疏影",
-      "onboard_time": 1684849472,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 892779,
@@ -9145,14 +9161,6 @@
       "onboard_time": 1683434488,
       "rank": 30,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 732925,
-      "num": 732925,
-      "word": "国泰航空3名歧视乘客空乘被解聘",
-      "onboard_time": 1684850917,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 732794,
@@ -11700,7 +11708,7 @@
     },
     {
       "raw_hot": 575734,
-      "num": 270791,
+      "num": 319351,
       "word": "王一博刘浩存同框照",
       "onboard_time": 1684847914,
       "rank": 43,
@@ -12128,14 +12136,6 @@
       "word": "一闪一闪亮星星",
       "onboard_time": 1683781470,
       "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 553132,
-      "num": 270247,
-      "word": "易烊千玺王俊凯同框",
-      "onboard_time": 1684850977,
-      "rank": 32,
       "category": "影视"
     },
     {
@@ -16891,6 +16891,14 @@
       "category": "游戏,社会新闻"
     },
     {
+      "raw_hot": 412186,
+      "num": 412186,
+      "word": "国泰航空",
+      "onboard_time": 1684824989,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 411778,
       "num": 411778,
       "word": "晋剧演员张军波回应",
@@ -17625,6 +17633,14 @@
       "onboard_time": 1683980308,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 397218,
+      "num": 259249,
+      "word": "新娘婚礼当天被50斤苗服压哭",
+      "onboard_time": 1684850436,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 396554,
@@ -18953,6 +18969,14 @@
       "onboard_time": 1684193785,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 372361,
+      "num": 216579,
+      "word": "贾玲",
+      "onboard_time": 1684851578,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 372293,
@@ -21691,14 +21715,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 328341,
-      "num": 259249,
-      "word": "新娘婚礼当天被50斤苗服压哭",
-      "onboard_time": 1684850436,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 328334,
       "num": 328334,
       "word": "孕妇羊水破裂司机一路闯红灯安全送至医院",
@@ -22107,6 +22123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 322405,
+      "num": 322405,
+      "word": "莎头",
+      "onboard_time": 1684851578,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 322204,
       "num": 322204,
       "word": "厦航客服回应网传飞行员偷拍被抓现行",
@@ -22299,14 +22323,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 319859,
-      "num": 319859,
-      "word": "国泰航空",
-      "onboard_time": 1684824989,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 319392,
       "num": 319392,
       "word": "孟羽童接私活收入需要分给格力吗",
@@ -22433,6 +22449,14 @@
       "onboard_time": 1684649127,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 317095,
+      "num": 317095,
+      "word": "多地妇产医院今年分娩量下降",
+      "onboard_time": 1684849177,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317088,
@@ -23915,6 +23939,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 296537,
+      "num": 296537,
+      "word": "多名乘客讲述乘坐国泰航空经历",
+      "onboard_time": 1684847612,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296510,
       "num": 296510,
       "word": "张颂文曾是高叶老师",
@@ -24009,14 +24041,6 @@
       "onboard_time": 1684382857,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 295298,
-      "num": 295298,
-      "word": "多名乘客讲述乘坐国泰航空经历",
-      "onboard_time": 1684847612,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 295192,
@@ -25779,14 +25803,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 275365,
-      "num": 275365,
-      "word": "多地妇产医院今年分娩量下降",
-      "onboard_time": 1684849177,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 275118,
       "num": 275118,
       "word": "周迅看秀造型",
@@ -26489,6 +26505,14 @@
       "onboard_time": 1683073407,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 266997,
+      "num": 210807,
+      "word": "袁泉",
+      "onboard_time": 1684852237,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 266989,
@@ -27345,6 +27369,14 @@
       "onboard_time": 1684728450,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 257994,
+      "num": 208374,
+      "word": "Jennie黑白抹胸公主裙",
+      "onboard_time": 1684852299,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 257944,
@@ -28307,6 +28339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249047,
+      "num": 249047,
+      "word": "分手时什么话对女生伤害最大",
+      "onboard_time": 1684847014,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 248963,
       "num": 248963,
       "word": "19岁高职毕业生在清华当老师的体验",
@@ -28633,14 +28673,6 @@
       "onboard_time": 1682921427,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 246034,
-      "num": 246034,
-      "word": "分手时什么话对女生伤害最大",
-      "onboard_time": 1684847014,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 245970,
@@ -34243,6 +34275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 203784,
+      "num": 203784,
+      "word": "湘北猫德学院",
+      "onboard_time": 1684848573,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 203614,
       "num": 203614,
       "word": "狐妖小红娘竹业篇剧版vs原版",
@@ -37529,14 +37569,6 @@
       "onboard_time": 1683046345,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181507,
-      "num": 181507,
-      "word": "湘北猫德学院",
-      "onboard_time": 1684848573,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 181436,
@@ -43740,7 +43772,7 @@
     },
     {
       "raw_hot": 136765,
-      "num": 693329,
+      "num": 713898,
       "word": "非遗传承人用0.8毫米绳子作画",
       "onboard_time": 1684809686,
       "rank": 42,
