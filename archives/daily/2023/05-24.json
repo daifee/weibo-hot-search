@@ -1,6 +1,6 @@
 {
   "startTime": 1684858934935,
-  "endTime": 1684858934935,
+  "endTime": 1684859884630,
   "band_list": [
     {
       "raw_hot": 1590457,
@@ -27,8 +27,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 951561,
-      "num": 951561,
+      "raw_hot": 990960,
+      "num": 990960,
       "word": "易烊千玺听到刘烨获奖的表情",
       "onboard_time": 1684856132,
       "rank": 4,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 888080,
-      "num": 326694,
+      "num": 675953,
       "word": "刘烨分了一把瓜子给易烊千玺",
       "onboard_time": 1684853317,
       "rank": 10,
@@ -171,20 +171,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 319719,
+      "num": 189104,
+      "word": "华天",
+      "onboard_time": 1684857033,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283075,
+      "num": 228180,
+      "word": "巧乐兹夫妇商业版图盘点",
+      "onboard_time": 1684858349,
+      "rank": 16,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 266610,
       "num": 176951,
       "word": "邓超 显眼包",
       "onboard_time": 1684853795,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 261632,
-      "num": 189104,
-      "word": "华天",
-      "onboard_time": 1684857033,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 254271,
@@ -211,6 +219,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 225026,
+      "num": 163079,
+      "word": "李承铉真没把我们当外人",
+      "onboard_time": 1684857930,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220554,
       "num": 154498,
       "word": "王一博刘浩存同框照",
@@ -235,28 +251,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217062,
+      "num": 217062,
+      "word": "退钱哥吐槽国泰航空空乘听不懂中文",
+      "onboard_time": 1684854395,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210161,
       "num": 136674,
       "word": "沈腾瘦了好多",
       "onboard_time": 1684837771,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 209344,
-      "num": 129242,
-      "word": "李承铉真没把我们当外人",
-      "onboard_time": 1684857930,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 198713,
-      "num": 198713,
-      "word": "巧乐兹夫妇商业版图盘点",
-      "onboard_time": 1684858349,
-      "rank": 16,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 195522,
@@ -331,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147426,
-      "num": 147426,
-      "word": "退钱哥吐槽国泰航空空乘听不懂中文",
-      "onboard_time": 1684854395,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137566,
       "num": 137566,
       "word": "小偷听了都觉得好丟人",
@@ -363,39 +363,47 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102940,
-      "num": 102940,
-      "word": "湘北猫德学院",
-      "onboard_time": 1684848573,
-      "rank": 46,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 94926,
-      "num": 102940,
+      "raw_hot": 114633,
+      "num": 114633,
       "word": "老人报警丢失8000元民警找出1万8",
       "onboard_time": 1684858888,
       "rank": 47,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102940,
+      "num": 114554,
+      "word": "湘北猫德学院",
+      "onboard_time": 1684848573,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 100988,
+      "num": 114564,
+      "word": "龚俊回复洪晃",
+      "onboard_time": 1684847793,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71774,
-      "num": 102939,
+      "num": 114512,
       "word": "淄博烧烤摊主开始卷横幅了",
       "onboard_time": 1684841729,
       "rank": 48,
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 60956,
-      "num": 102936,
+      "raw_hot": 63975,
+      "num": 114524,
       "word": "Doinb办B际赛",
       "onboard_time": 1684838791,
       "rank": 49,
       "category": "游戏"
     },
     {
-      "raw_hot": 22587,
+      "raw_hot": 27461,
       "num": 1094172,
       "word": "五星红旗又一次在珠峰之巅飘扬",
       "onboard_time": 1684847914,
