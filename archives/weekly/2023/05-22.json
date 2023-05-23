@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684806527489,
+  "endTime": 1684809321428,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2148731,
+      "num": 2148731,
+      "word": "毕业一年论文被抽检不合格",
+      "onboard_time": 1684805486,
+      "rank": 6,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 2003473,
       "num": 2003473,
       "word": "没睡过8个小时的人",
@@ -97,6 +105,14 @@
       "onboard_time": 1684768051,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1684308,
+      "num": 1020025,
+      "word": "马思纯瘦回来了",
+      "onboard_time": 1684806505,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1671180,
@@ -627,6 +643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 578480,
+      "num": 578480,
+      "word": "近期到底一阳多还是二阳多",
+      "onboard_time": 1684805368,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577436,
       "num": 577436,
       "word": "国泰航空致歉",
@@ -641,14 +665,6 @@
       "onboard_time": 1684724787,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 571487,
-      "num": 571487,
-      "word": "毕业一年论文被抽检不合格",
-      "onboard_time": 1684805486,
-      "rank": 6,
-      "category": "教育,情感"
     },
     {
       "raw_hot": 570411,
@@ -811,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 469231,
+      "num": 293712,
+      "word": "六年没联系的朋友找我当伴娘",
+      "onboard_time": 1684807887,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 465232,
       "num": 465232,
       "word": "AI换脸用杨幂等明星卖货或涉侵权",
@@ -825,6 +849,14 @@
       "onboard_time": 1684732532,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 461321,
+      "num": 461321,
+      "word": "咱东北也有地下偶像了",
+      "onboard_time": 1684806627,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 457828,
@@ -891,6 +923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 448280,
+      "num": 448280,
+      "word": "掘金vs湖人",
+      "onboard_time": 1684802608,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 447424,
       "num": 272145,
       "word": "不懂倒水的礼仪被领导批评了",
@@ -939,12 +979,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 434215,
-      "num": 434215,
-      "word": "掘金vs湖人",
-      "onboard_time": 1684802608,
-      "rank": 14,
-      "category": "体育"
+      "raw_hot": 430305,
+      "num": 430305,
+      "word": "巴厘岛命案男子母亲首发声",
+      "onboard_time": 1684808549,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429045,
@@ -956,7 +996,7 @@
     },
     {
       "raw_hot": 422551,
-      "num": 293459,
+      "num": 296640,
       "word": "夫妻吵架丈夫举报妻子吸毒",
       "onboard_time": 1684804107,
       "rank": 21,
@@ -985,6 +1025,14 @@
       "onboard_time": 1684763310,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 405949,
+      "num": 405949,
+      "word": "教你读懂小红书职场博主",
+      "onboard_time": 1684808309,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 405696,
@@ -1051,6 +1099,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 377798,
+      "num": 377798,
+      "word": "羊倌为救坠崖国保差点弄丢几百只羊",
+      "onboard_time": 1684807346,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 375953,
       "num": 253577,
       "word": "虞书欣看了BLACKPINK演唱会",
@@ -1105,6 +1161,14 @@
       "onboard_time": 1684734268,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 361740,
+      "num": 361740,
+      "word": "宋仲基亮相戛纳",
+      "onboard_time": 1684808067,
+      "rank": 15,
+      "category": "影视,时尚"
     },
     {
       "raw_hot": 359709,
@@ -1177,6 +1241,14 @@
       "onboard_time": 1684740510,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 339593,
+      "num": 339593,
+      "word": "白鹿陈哲远或将演攻玉",
+      "onboard_time": 1684808489,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 336063,
@@ -1387,14 +1459,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 296431,
-      "num": 296431,
-      "word": "近期到底一阳多还是二阳多",
-      "onboard_time": 1684805368,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 292993,
       "num": 292993,
       "word": "ENHYPEN 天棺赐符",
@@ -1512,6 +1576,14 @@
       "word": "合肥一男子520建私人花园送妻子",
       "onboard_time": 1684732053,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270427,
+      "num": 270427,
+      "word": "高铁上男子手机外放提醒后更嚣张",
+      "onboard_time": 1684804828,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1723,14 +1795,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 238714,
-      "num": 238714,
-      "word": "高铁上男子手机外放提醒后更嚣张",
-      "onboard_time": 1684804828,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238187,
       "num": 238187,
       "word": "梅西要来中国比赛了",
@@ -1915,6 +1979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223611,
+      "num": 223611,
+      "word": "全网搜寻的这两位年轻人找到了",
+      "onboard_time": 1684806627,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220552,
       "num": 220552,
       "word": "孙颖莎 德班",
@@ -1993,6 +2065,14 @@
       "onboard_time": 1684682371,
       "rank": 26,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 210445,
+      "num": 210445,
+      "word": "谢谢小狗",
+      "onboard_time": 1684808609,
+      "rank": 25,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 208182,
@@ -2099,6 +2179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197044,
+      "num": 197044,
+      "word": "上学时买过如今却消失的东西",
+      "onboard_time": 1684807947,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 196192,
       "num": 196192,
       "word": "九寨沟对浙江7地市免票原因太暖了",
@@ -2144,6 +2232,14 @@
       "word": "瘦子选了谁",
       "onboard_time": 1684684649,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191772,
+      "num": 191772,
+      "word": "16超女梁馨予发长文回应柯以敏道歉",
+      "onboard_time": 1684806446,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -2443,6 +2539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 166270,
+      "num": 166270,
+      "word": "恐怖片级的遭遇",
+      "onboard_time": 1684808908,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165524,
       "num": 165524,
       "word": "Ruler大满贯",
@@ -2456,6 +2560,14 @@
       "word": "在工作群里艾特同事被教育",
       "onboard_time": 1684722807,
       "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 165137,
+      "num": 165137,
+      "word": "高考结束的那个下午",
+      "onboard_time": 1684808728,
+      "rank": 35,
       "category": "情感"
     },
     {
@@ -2489,6 +2601,14 @@
       "onboard_time": 1684710620,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162260,
+      "num": 162260,
+      "word": "詹姆斯半场31分",
+      "onboard_time": 1684807769,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 162168,
@@ -2667,14 +2787,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 147140,
-      "num": 147140,
-      "word": "马思纯瘦回来了",
-      "onboard_time": 1684806505,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 147048,
       "num": 147048,
       "word": "这是个有理想但没教养的人",
@@ -2745,14 +2857,6 @@
       "onboard_time": 1684672892,
       "rank": 47,
       "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 133334,
-      "num": 133334,
-      "word": "16超女梁馨予发长文回应柯以敏道歉",
-      "onboard_time": 1684806446,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 132931,
@@ -2843,12 +2947,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124774,
+      "num": 162358,
+      "word": "没有充电桩想买电驱车",
+      "onboard_time": 1684808788,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123176,
       "num": 123176,
       "word": "朱一龙2023戛纳行全记录",
       "onboard_time": 1684762229,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 121315,
+      "num": 121315,
+      "word": "詹姆斯拼了",
+      "onboard_time": 1684807947,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 120509,
@@ -2889,6 +3009,14 @@
       "onboard_time": 1684664489,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116331,
+      "num": 116331,
+      "word": "肖战为残障青年故事纪录电影配音旁白",
+      "onboard_time": 1684809207,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 115156,

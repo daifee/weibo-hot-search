@@ -1,0 +1,410 @@
+{
+  "runTime": 1684809321428,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2148731,
+        "num": 2148731,
+        "word": "毕业一年论文被抽检不合格",
+        "onboard_time": 1684805486,
+        "rank": 0,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 1250458,
+        "num": 1250458,
+        "word": "鹿晗兑现三年前承诺",
+        "onboard_time": 1684799727,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 51712,
+        "num": 1041180,
+        "word": "神舟十六号近日择机发射",
+        "onboard_time": 1684803629,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1684308,
+        "num": 1020025,
+        "word": "马思纯瘦回来了",
+        "onboard_time": 1684806505,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 980477,
+        "num": 980477,
+        "word": "国泰空乘歧视乘客录音曝光",
+        "onboard_time": 1684803629,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 785176,
+        "num": 785176,
+        "word": "大哥大嫂BE了",
+        "onboard_time": 1684767871,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 578480,
+        "num": 578480,
+        "word": "近期到底一阳多还是二阳多",
+        "onboard_time": 1684805368,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542137,
+        "num": 542137,
+        "word": "教育局回应下雨天学校不到点不开门",
+        "onboard_time": 1684798042,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 461321,
+        "num": 461321,
+        "word": "咱东北也有地下偶像了",
+        "onboard_time": 1684806627,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 448280,
+        "num": 448280,
+        "word": "掘金vs湖人",
+        "onboard_time": 1684802608,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430305,
+        "num": 430305,
+        "word": "巴厘岛命案男子母亲首发声",
+        "onboard_time": 1684808549,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405949,
+        "num": 405949,
+        "word": "教你读懂小红书职场博主",
+        "onboard_time": 1684808309,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 386274,
+        "num": 386274,
+        "word": "汤面4元一碗加面请比心",
+        "onboard_time": 1684802847,
+        "rank": 12,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 379618,
+        "num": 379618,
+        "word": "林更新郑嘉颖九年没见了",
+        "onboard_time": 1684804287,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377798,
+        "num": 377798,
+        "word": "羊倌为救坠崖国保差点弄丢几百只羊",
+        "onboard_time": 1684807346,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361740,
+        "num": 361740,
+        "word": "宋仲基亮相戛纳",
+        "onboard_time": 1684808067,
+        "rank": 15,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 347399,
+        "num": 347399,
+        "word": "TFBOYS十周年演唱会或将在西安",
+        "onboard_time": 1684798824,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 339593,
+        "num": 339593,
+        "word": "白鹿陈哲远或将演攻玉",
+        "onboard_time": 1684808489,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297566,
+        "num": 297566,
+        "word": "很难相信这是方文山作的词",
+        "onboard_time": 1684799244,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 296640,
+        "num": 296640,
+        "word": "夫妻吵架丈夫举报妻子吸毒",
+        "onboard_time": 1684804107,
+        "rank": 19,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 469231,
+        "num": 293712,
+        "word": "六年没联系的朋友找我当伴娘",
+        "onboard_time": 1684807887,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 280504,
+        "num": 280504,
+        "word": "一个人突然发朋友圈的规律",
+        "onboard_time": 1684766731,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270427,
+        "num": 270427,
+        "word": "高铁上男子手机外放提醒后更嚣张",
+        "onboard_time": 1684804828,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223611,
+        "num": 223611,
+        "word": "全网搜寻的这两位年轻人找到了",
+        "onboard_time": 1684806627,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218663,
+        "num": 218663,
+        "word": "丰田再次呼吁不要过早放弃燃油车",
+        "onboard_time": 1684797802,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210445,
+        "num": 210445,
+        "word": "谢谢小狗",
+        "onboard_time": 1684808609,
+        "rank": 25,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 210404,
+        "num": 210404,
+        "word": "俄方证实乌军攻入俄境内",
+        "onboard_time": 1684767150,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197237,
+        "num": 197237,
+        "word": "孙颖莎",
+        "onboard_time": 1684803809,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197044,
+        "num": 197044,
+        "word": "上学时买过如今却消失的东西",
+        "onboard_time": 1684807947,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191772,
+        "num": 191772,
+        "word": "16超女梁馨予发长文回应柯以敏道歉",
+        "onboard_time": 1684806446,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202426,
+        "num": 191605,
+        "word": "小慧君回应被指封号",
+        "onboard_time": 1684763491,
+        "rank": 30,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 189067,
+        "num": 189067,
+        "word": "朱珠上妆全程",
+        "onboard_time": 1684798944,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171802,
+        "num": 171802,
+        "word": "NBA西部决赛",
+        "onboard_time": 1684804228,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168760,
+        "num": 168760,
+        "word": "浙江一公司上4休3收到上千份简历",
+        "onboard_time": 1684769909,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166270,
+        "num": 166270,
+        "word": "恐怖片级的遭遇",
+        "onboard_time": 1684808908,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165137,
+        "num": 165137,
+        "word": "高考结束的那个下午",
+        "onboard_time": 1684808728,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124774,
+        "num": 162358,
+        "word": "没有充电桩想买电驱车",
+        "onboard_time": 1684808788,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162260,
+        "num": 162260,
+        "word": "詹姆斯半场31分",
+        "onboard_time": 1684807769,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154895,
+        "num": 154895,
+        "word": "原来毛不易是纯爱战神",
+        "onboard_time": 1684802310,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154159,
+        "num": 154159,
+        "word": "护心男主变小三",
+        "onboard_time": 1684761988,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152808,
+        "num": 152808,
+        "word": "陈乔恩以为龚俊30多了",
+        "onboard_time": 1684762709,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149818,
+        "num": 149818,
+        "word": "俄罗斯",
+        "onboard_time": 1684767330,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127234,
+        "num": 127234,
+        "word": "朱一龙无法出席华表奖颁奖典礼",
+        "onboard_time": 1684801228,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121315,
+        "num": 121315,
+        "word": "詹姆斯拼了",
+        "onboard_time": 1684807947,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119421,
+        "num": 119421,
+        "word": "陈乔恩说听说全国观众都知道我喝大了",
+        "onboard_time": 1684759347,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116331,
+        "num": 116331,
+        "word": "肖战为残障青年故事纪录电影配音旁白",
+        "onboard_time": 1684809207,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114736,
+        "num": 114736,
+        "word": "郑容和不参与哇唧唧哇新综艺录制",
+        "onboard_time": 1684767213,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61832,
+        "num": 113954,
+        "word": "雨后西湖再现鱼跃龙门",
+        "onboard_time": 1684804228,
+        "rank": 47,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 33293,
+        "num": 113775,
+        "word": "AG 三组",
+        "onboard_time": 1684768173,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20162,
+        "num": 112937,
+        "word": "KPL抽签",
+        "onboard_time": 1684766731,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍惜我们的共同家园#"
+    }
+  }
+}

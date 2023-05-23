@@ -1,6 +1,6 @@
 {
   "startTime": 1684772522563,
-  "endTime": 1684806527489,
+  "endTime": 1684809321428,
   "band_list": [
     {
       "raw_hot": 2585058,
@@ -11,12 +11,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2148731,
+      "num": 2148731,
+      "word": "毕业一年论文被抽检不合格",
+      "onboard_time": 1684805486,
+      "rank": 6,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 1992509,
       "num": 1992509,
       "word": "鹿晗兑现三年前承诺",
       "onboard_time": 1684799727,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1684308,
+      "num": 1020025,
+      "word": "马思纯瘦回来了",
+      "onboard_time": 1684806505,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1671180,
@@ -91,20 +107,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 578480,
+      "num": 578480,
+      "word": "近期到底一阳多还是二阳多",
+      "onboard_time": 1684805368,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577436,
       "num": 577436,
       "word": "国泰航空致歉",
       "onboard_time": 1684797020,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 571487,
-      "num": 571487,
-      "word": "毕业一年论文被抽检不合格",
-      "onboard_time": 1684805486,
-      "rank": 6,
-      "category": "教育,情感"
     },
     {
       "raw_hot": 561102,
@@ -147,6 +163,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 469231,
+      "num": 293712,
+      "word": "六年没联系的朋友找我当伴娘",
+      "onboard_time": 1684807887,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 461321,
+      "num": 461321,
+      "word": "咱东北也有地下偶像了",
+      "onboard_time": 1684806627,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 456552,
       "num": 456552,
       "word": "朱一龙无法出席华表奖颁奖典礼",
@@ -163,12 +195,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 434215,
-      "num": 434215,
+      "raw_hot": 448280,
+      "num": 448280,
       "word": "掘金vs湖人",
       "onboard_time": 1684802608,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 430305,
+      "num": 430305,
+      "word": "巴厘岛命案男子母亲首发声",
+      "onboard_time": 1684808549,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429045,
@@ -180,11 +220,19 @@
     },
     {
       "raw_hot": 422551,
-      "num": 293459,
+      "num": 296640,
       "word": "夫妻吵架丈夫举报妻子吸毒",
       "onboard_time": 1684804107,
       "rank": 21,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 405949,
+      "num": 405949,
+      "word": "教你读懂小红书职场博主",
+      "onboard_time": 1684808309,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 401137,
@@ -211,6 +259,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 377798,
+      "num": 377798,
+      "word": "羊倌为救坠崖国保差点弄丢几百只羊",
+      "onboard_time": 1684807346,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361740,
+      "num": 361740,
+      "word": "宋仲基亮相戛纳",
+      "onboard_time": 1684808067,
+      "rank": 15,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 347199,
       "num": 347199,
       "word": "陈乔恩说听说全国观众都知道我喝大了",
@@ -225,6 +289,14 @@
       "onboard_time": 1684768591,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 339593,
+      "num": 339593,
+      "word": "白鹿陈哲远或将演攻玉",
+      "onboard_time": 1684808489,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 333634,
@@ -283,14 +355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 296431,
-      "num": 296431,
-      "word": "近期到底一阳多还是二阳多",
-      "onboard_time": 1684805368,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 290111,
       "num": 290111,
       "word": "8年间多次猥亵幼女男子登报道歉",
@@ -312,6 +376,14 @@
       "word": "G7",
       "onboard_time": 1684801890,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270427,
+      "num": 270427,
+      "word": "高铁上男子手机外放提醒后更嚣张",
+      "onboard_time": 1684804828,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -355,14 +427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 238714,
-      "num": 238714,
-      "word": "高铁上男子手机外放提醒后更嚣张",
-      "onboard_time": 1684804828,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235433,
       "num": 235433,
       "word": "NBA西部决赛",
@@ -387,6 +451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 223611,
+      "num": 223611,
+      "word": "全网搜寻的这两位年轻人找到了",
+      "onboard_time": 1684806627,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213830,
       "num": 176146,
       "word": "你可以接受婚前同居吗",
@@ -403,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210445,
+      "num": 210445,
+      "word": "谢谢小狗",
+      "onboard_time": 1684808609,
+      "rank": 25,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 202265,
       "num": 156151,
       "word": "王嘉尔的肩好宽",
@@ -417,6 +497,22 @@
       "onboard_time": 1684773263,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197044,
+      "num": 197044,
+      "word": "上学时买过如今却消失的东西",
+      "onboard_time": 1684807947,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 191772,
+      "num": 191772,
+      "word": "16超女梁馨予发长文回应柯以敏道歉",
+      "onboard_time": 1684806446,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 191114,
@@ -499,12 +595,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 166270,
+      "num": 166270,
+      "word": "恐怖片级的遭遇",
+      "onboard_time": 1684808908,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165273,
       "num": 154193,
       "word": "十年前的婚纱照不要太离谱",
       "onboard_time": 1684768051,
       "rank": 37,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 165137,
+      "num": 165137,
+      "word": "高考结束的那个下午",
+      "onboard_time": 1684808728,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 162988,
@@ -521,6 +633,14 @@
       "onboard_time": 1684763732,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162260,
+      "num": 162260,
+      "word": "詹姆斯半场31分",
+      "onboard_time": 1684807769,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 162168,
@@ -553,14 +673,6 @@
       "onboard_time": 1684799185,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147140,
-      "num": 147140,
-      "word": "马思纯瘦回来了",
-      "onboard_time": 1684806505,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 143116,
@@ -611,20 +723,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 133334,
-      "num": 133334,
-      "word": "16超女梁馨予发长文回应柯以敏道歉",
-      "onboard_time": 1684806446,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 130112,
       "num": 130112,
       "word": "马思纯说今天没我戏出门找乐子",
       "onboard_time": 1684796297,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124774,
+      "num": 162358,
+      "word": "没有充电桩想买电驱车",
+      "onboard_time": 1684808788,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121315,
+      "num": 121315,
+      "word": "詹姆斯拼了",
+      "onboard_time": 1684807947,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 120105,
@@ -656,6 +776,14 @@
       "word": "护心剧情 割裂",
       "onboard_time": 1684759768,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 116331,
+      "num": 116331,
+      "word": "肖战为残障青年故事纪录电影配音旁白",
+      "onboard_time": 1684809207,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -772,7 +900,7 @@
     },
     {
       "raw_hot": 54469,
-      "num": 93779,
+      "num": 112937,
       "word": "KPL抽签",
       "onboard_time": 1684766731,
       "rank": 49,
