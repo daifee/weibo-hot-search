@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684859884630,
+  "endTime": 1684862099962,
   "band_list": [
     {
       "raw_hot": 3643134,
@@ -2377,6 +2377,14 @@
       "onboard_time": 1684840590,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 315729,
+      "num": 315729,
+      "word": "老人报警丢失8000元民警找出1万8",
+      "onboard_time": 1684858888,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 314419,
@@ -4883,14 +4891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114633,
-      "num": 114633,
-      "word": "老人报警丢失8000元民警找出1万8",
-      "onboard_time": 1684858888,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113782,
       "num": 113782,
       "word": "曼城vs切尔西",
@@ -5163,12 +5163,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62983,
+      "num": 78375,
+      "word": "胸不应该成为嘲笑我的把柄",
+      "onboard_time": 1684861579,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 61040,
       "num": 61040,
       "word": "娜扎回家乡live图",
       "onboard_time": 1684795036,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 59061,
+      "num": 78211,
+      "word": "丹顶鹤敲车门乘客邀请它吃早餐",
+      "onboard_time": 1684859007,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58059,
@@ -5265,6 +5281,14 @@
       "onboard_time": 1684692375,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41672,
+      "num": 77107,
+      "word": "民警520领结婚证后又去抓了3个人",
+      "onboard_time": 1684860623,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36302,
