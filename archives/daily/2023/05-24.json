@@ -1,6 +1,6 @@
 {
   "startTime": 1684858934935,
-  "endTime": 1684883772204,
+  "endTime": 1684884823235,
   "band_list": [
     {
       "raw_hot": 1590457,
@@ -27,20 +27,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1009889,
+      "num": 939476,
+      "word": "国泰航空3名歧视乘客空乘被解聘",
+      "onboard_time": 1684850917,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 990960,
       "num": 990960,
       "word": "易烊千玺听到刘烨获奖的表情",
       "onboard_time": 1684856132,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 921971,
-      "num": 921971,
-      "word": "国泰航空3名歧视乘客空乘被解聘",
-      "onboard_time": 1684850917,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 889519,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 602811,
-      "num": 190530,
+      "num": 214635,
       "word": "离职两个月了工资还一直在发",
       "onboard_time": 1684853496,
       "rank": 20,
@@ -92,11 +92,19 @@
     },
     {
       "raw_hot": 592574,
-      "num": 253707,
+      "num": 266149,
       "word": "王一博裤子到底怎么了",
       "onboard_time": 1684840111,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 573722,
+      "num": 273287,
+      "word": "四川一中学老师输液时不幸身亡",
+      "onboard_time": 1684883482,
+      "rank": 31,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 572781,
@@ -139,8 +147,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 374145,
-      "num": 374145,
+      "raw_hot": 381723,
+      "num": 381723,
       "word": "你接受上4休3收入降5分之1吗",
       "onboard_time": 1684833990,
       "rank": 9,
@@ -195,6 +203,22 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 280081,
+      "num": 247456,
+      "word": "厦门华天涉外学院砍人",
+      "onboard_time": 1684883962,
+      "rank": 14,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 278198,
+      "num": 136131,
+      "word": "那个为爱减肥的广东少女走了",
+      "onboard_time": 1684884263,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266610,
       "num": 176951,
       "word": "邓超 显眼包",
@@ -243,12 +267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226459,
+      "num": 211498,
+      "word": "Capper暂停演出",
+      "onboard_time": 1684883601,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225026,
       "num": 163079,
       "word": "李承铉真没把我们当外人",
       "onboard_time": 1684857930,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223896,
+      "num": 223896,
+      "word": "退钱哥吐槽国泰航空空乘听不懂中文",
+      "onboard_time": 1684854395,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220554,
@@ -275,14 +315,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 217062,
-      "num": 217062,
-      "word": "退钱哥吐槽国泰航空空乘听不懂中文",
-      "onboard_time": 1684854395,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210161,
       "num": 136674,
       "word": "沈腾瘦了好多",
@@ -291,8 +323,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 204042,
-      "num": 186694,
+      "raw_hot": 206854,
+      "num": 206854,
       "word": "新娘婚礼当天被50斤苗服压哭",
       "onboard_time": 1684850436,
       "rank": 28,
@@ -316,7 +348,7 @@
     },
     {
       "raw_hot": 189850,
-      "num": 148198,
+      "num": 183751,
       "word": "苏州一商场儿童推车中英文收费不同",
       "onboard_time": 1684880776,
       "rank": 47,
@@ -355,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178463,
+      "num": 178463,
+      "word": "有些小毛病不需治疗",
+      "onboard_time": 1684883120,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169905,
       "num": 169905,
       "word": "分手时什么话对女生伤害最大",
@@ -387,12 +427,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 132395,
-      "num": 104438,
-      "word": "四川一中学老师输液时不幸身亡",
-      "onboard_time": 1684883482,
-      "rank": 31,
-      "category": "社会新闻,教育"
+      "raw_hot": 125701,
+      "num": 125701,
+      "word": "aespa亮相戛纳",
+      "onboard_time": 1684884563,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 118917,
@@ -411,16 +451,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114068,
-      "num": 114068,
+      "raw_hot": 117971,
+      "num": 117971,
       "word": "导演回应向往的生活最后一季",
       "onboard_time": 1684864156,
       "rank": 28,
       "category": "综艺"
     },
     {
-      "raw_hot": 113251,
-      "num": 113251,
+      "raw_hot": 117258,
+      "num": 117258,
       "word": "国泰航空爆料人发声",
       "onboard_time": 1684867333,
       "rank": 31,
@@ -435,28 +475,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 100988,
+      "raw_hot": 102380,
       "num": 114564,
       "word": "龚俊回复洪晃",
       "onboard_time": 1684847793,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 88084,
-      "num": 88084,
-      "word": "Capper暂停演出",
-      "onboard_time": 1684883601,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 86374,
-      "num": 86374,
-      "word": "有些小毛病不需治疗",
-      "onboard_time": 1684883120,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 78338,
@@ -499,19 +523,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54436,
+      "num": 1094172,
+      "word": "五星红旗又一次在珠峰之巅飘扬",
+      "onboard_time": 1684847914,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41672,
       "num": 77107,
       "word": "民警520领结婚证后又去抓了3个人",
       "onboard_time": 1684860623,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41061,
-      "num": 1094172,
-      "word": "五星红旗又一次在珠峰之巅飘扬",
-      "onboard_time": 1684847914,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684883772204,
+  "endTime": 1684884823235,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -11777,6 +11777,14 @@
       "onboard_time": 1684842630,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 573722,
+      "num": 273287,
+      "word": "四川一中学老师输液时不幸身亡",
+      "onboard_time": 1684883482,
+      "rank": 31,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 573412,
@@ -25531,6 +25539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280081,
+      "num": 247456,
+      "word": "厦门华天涉外学院砍人",
+      "onboard_time": 1684883962,
+      "rank": 14,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 280064,
       "num": 280064,
       "word": "港妹能不能吃点好的",
@@ -25745,6 +25761,14 @@
       "onboard_time": 1684163489,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 278198,
+      "num": 136131,
+      "word": "那个为爱减肥的广东少女走了",
+      "onboard_time": 1684884263,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278143,
@@ -31339,6 +31363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226459,
+      "num": 211498,
+      "word": "Capper暂停演出",
+      "onboard_time": 1684883601,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226443,
       "num": 226443,
       "word": "郭麒麟说别把我逼急了",
@@ -31689,6 +31721,14 @@
       "onboard_time": 1682983340,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 223896,
+      "num": 223896,
+      "word": "退钱哥吐槽国泰航空空乘听不懂中文",
+      "onboard_time": 1684854395,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223856,
@@ -32561,14 +32601,6 @@
       "onboard_time": 1684022361,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 217062,
-      "num": 217062,
-      "word": "退钱哥吐槽国泰航空空乘听不懂中文",
-      "onboard_time": 1684854395,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217024,
@@ -36468,7 +36500,7 @@
     },
     {
       "raw_hot": 189850,
-      "num": 148198,
+      "num": 183751,
       "word": "苏州一商场儿童推车中英文收费不同",
       "onboard_time": 1684880776,
       "rank": 47,
@@ -38265,6 +38297,14 @@
       "onboard_time": 1683453271,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178463,
+      "num": 178463,
+      "word": "有些小毛病不需治疗",
+      "onboard_time": 1684883120,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 178408,
@@ -44491,14 +44531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132395,
-      "num": 104438,
-      "word": "四川一中学老师输液时不幸身亡",
-      "onboard_time": 1684883482,
-      "rank": 31,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 132388,
       "num": 132388,
       "word": "中超",
@@ -45281,6 +45313,14 @@
       "onboard_time": 1683859828,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125701,
+      "num": 125701,
+      "word": "aespa亮相戛纳",
+      "onboard_time": 1684884563,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 125293,
@@ -46091,6 +46131,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 117971,
+      "num": 117971,
+      "word": "导演回应向往的生活最后一季",
+      "onboard_time": 1684864156,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117921,
       "num": 117921,
       "word": "苏杯中国1比1日本",
@@ -46128,6 +46176,14 @@
       "word": "上海3人造谣幼师卖淫被刑拘",
       "onboard_time": 1683907826,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117258,
+      "num": 117258,
+      "word": "国泰航空爆料人发声",
+      "onboard_time": 1684867333,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -46267,14 +46323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 114068,
-      "num": 114068,
-      "word": "导演回应向往的生活最后一季",
-      "onboard_time": 1684864156,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 114023,
       "num": 114023,
       "word": "游客说淄博给的安全感爆棚了",
@@ -46345,14 +46393,6 @@
       "onboard_time": 1684049546,
       "rank": 44,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 113251,
-      "num": 113251,
-      "word": "国泰航空爆料人发声",
-      "onboard_time": 1684867333,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113243,
@@ -47659,14 +47699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88084,
-      "num": 88084,
-      "word": "Capper暂停演出",
-      "onboard_time": 1684883601,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 88018,
       "num": 149351,
       "word": "星穹铁道首个动画短片",
@@ -47745,14 +47777,6 @@
       "onboard_time": 1684165647,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 86374,
-      "num": 86374,
-      "word": "有些小毛病不需治疗",
-      "onboard_time": 1684883120,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 86104,
@@ -49075,6 +49099,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 54436,
+      "num": 1914259,
+      "word": "五星红旗又一次在珠峰之巅飘扬",
+      "onboard_time": 1684847914,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54277,
       "num": 207050,
       "word": "520最意想不到的约会",
@@ -49633,14 +49665,6 @@
       "onboard_time": 1684099092,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 41061,
-      "num": 1914259,
-      "word": "五星红旗又一次在珠峰之巅飘扬",
-      "onboard_time": 1684847914,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40611,
