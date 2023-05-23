@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684869278755,
+  "endTime": 1684870411501,
   "band_list": [
     {
       "raw_hot": 3643134,
@@ -5275,20 +5275,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 46317,
+      "num": 28644,
+      "word": "国泰航空爆料人发声",
+      "onboard_time": 1684867333,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45426,
       "num": 45426,
       "word": "汪苏泷在大王婚礼唱歌又忘词了",
       "onboard_time": 1684787232,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 44020,
-      "num": 28644,
-      "word": "国泰航空爆料人发声",
-      "onboard_time": 1684867333,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42571,
