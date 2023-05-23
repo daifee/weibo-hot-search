@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684845185278,
+  "endTime": 1684846178229,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -201,6 +201,14 @@
       "onboard_time": 1684746570,
       "rank": 11,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1633955,
+      "num": 412399,
+      "word": "工作人员说陈都灵比白鹿好看",
+      "onboard_time": 1684842330,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1624021,
@@ -427,6 +435,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1199528,
+      "num": 1199528,
+      "word": "华表奖颁奖典礼",
+      "onboard_time": 1684844253,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1198559,
       "num": 1198559,
       "word": "越南人打工不卷逼疯中国老板",
@@ -531,14 +547,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1037181,
-      "num": 365444,
-      "word": "工作人员说陈都灵比白鹿好看",
-      "onboard_time": 1684842330,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1033852,
       "num": 1033852,
       "word": "安东尼宣布退役",
@@ -611,14 +619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 925231,
-      "num": 360253,
-      "word": "华表奖颁奖典礼",
-      "onboard_time": 1684844253,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 902643,
       "num": 590482,
       "word": "恩静",
@@ -635,6 +635,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 885704,
+      "num": 409829,
+      "word": "张译 颂文哥呢",
+      "onboard_time": 1684843650,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 884091,
       "num": 884091,
       "word": "没想到杨紫大王关系这么好",
@@ -649,6 +657,14 @@
       "onboard_time": 1684724308,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 873977,
+      "num": 873977,
+      "word": "金星伴月",
+      "onboard_time": 1684843532,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 849100,
@@ -1051,14 +1067,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 583603,
-      "num": 252806,
-      "word": "张译 颂文哥呢",
-      "onboard_time": 1684843650,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 582773,
       "num": 582773,
       "word": "陈都灵黑白折扇裙",
@@ -1148,7 +1156,7 @@
     },
     {
       "raw_hot": 552713,
-      "num": 248887,
+      "num": 282558,
       "word": "金泰亨Lisa合照",
       "onboard_time": 1684842630,
       "rank": 21,
@@ -1329,6 +1337,14 @@
       "onboard_time": 1684757248,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 482544,
+      "num": 243028,
+      "word": "华表奖内场",
+      "onboard_time": 1684844430,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 481090,
@@ -1563,20 +1579,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 425841,
-      "num": 191160,
-      "word": "华表奖内场",
-      "onboard_time": 1684844430,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 422551,
       "num": 296640,
       "word": "夫妻吵架丈夫举报妻子吸毒",
       "onboard_time": 1684804107,
       "rank": 21,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 422340,
+      "num": 422340,
+      "word": "宝妈产假后拒绝调岗至30公里外遭开除",
+      "onboard_time": 1684842210,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 421001,
@@ -1763,14 +1779,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 373638,
-      "num": 347395,
-      "word": "宝妈产假后拒绝调岗至30公里外遭开除",
-      "onboard_time": 1684842210,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 366922,
       "num": 366922,
       "word": "怦然心动20岁",
@@ -1793,14 +1801,6 @@
       "onboard_time": 1684683211,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 365489,
-      "num": 365489,
-      "word": "金星伴月",
-      "onboard_time": 1684843532,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 363110,
@@ -1833,6 +1833,14 @@
       "onboard_time": 1684749929,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 359353,
+      "num": 253138,
+      "word": "爱奇艺",
+      "onboard_time": 1684845811,
+      "rank": 24,
+      "category": "科技"
     },
     {
       "raw_hot": 359064,
@@ -1979,6 +1987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 326907,
+      "num": 326907,
+      "word": "小偷听了都觉得好丟人",
+      "onboard_time": 1684843230,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 325220,
       "num": 293786,
       "word": "朴彩英生图",
@@ -2084,7 +2100,7 @@
     },
     {
       "raw_hot": 315923,
-      "num": 188380,
+      "num": 191379,
       "word": "孙燕姿文笔",
       "onboard_time": 1684840590,
       "rank": 36,
@@ -2379,12 +2395,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 278143,
+      "num": 186534,
+      "word": "徐娇红色马面裙",
+      "onboard_time": 1684842330,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 277366,
       "num": 277366,
       "word": "张韶涵说周杰伦曾在最低谷挺她",
       "onboard_time": 1684741709,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277244,
+      "num": 170623,
+      "word": "章子怡大花气场",
+      "onboard_time": 1684844850,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 276279,
@@ -2433,14 +2465,6 @@
       "onboard_time": 1684749029,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272738,
-      "num": 176222,
-      "word": "小偷听了都觉得好丟人",
-      "onboard_time": 1684843230,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 272175,
@@ -2513,14 +2537,6 @@
       "onboard_time": 1684729171,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 261341,
-      "num": 157553,
-      "word": "徐娇红色马面裙",
-      "onboard_time": 1684842330,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 260673,
@@ -2955,6 +2971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225617,
+      "num": 225617,
+      "word": "阿里云被曝人员优化7%",
+      "onboard_time": 1684840051,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 225573,
       "num": 225573,
       "word": "福建才是南方隐藏的吃面大省",
@@ -3185,6 +3209,14 @@
       "onboard_time": 1684817672,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 211464,
+      "num": 286334,
+      "word": "毕业生换机首选",
+      "onboard_time": 1684844071,
+      "rank": 25,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 209476,
@@ -3995,14 +4027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157603,
-      "num": 193791,
-      "word": "毕业生换机首选",
-      "onboard_time": 1684844071,
-      "rank": 25,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 157595,
       "num": 157595,
       "word": "书里走出来的毛晓彤",
@@ -4049,6 +4073,14 @@
       "onboard_time": 1684740571,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 155148,
+      "num": 155148,
+      "word": "陆地的夫妇一起走红毯",
+      "onboard_time": 1684846113,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 154814,
@@ -4177,6 +4209,14 @@
       "onboard_time": 1684819831,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 143545,
+      "num": 143545,
+      "word": "三国志战略版判赔率土之滨5000万元",
+      "onboard_time": 1684841370,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 141491,
@@ -4483,6 +4523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112364,
+      "num": 141868,
+      "word": "网友拍到现实版鲤鱼跃龙门",
+      "onboard_time": 1684845091,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112244,
       "num": 112244,
       "word": "梁静茹521再分手一次",
@@ -4528,14 +4576,6 @@
       "word": "小学老师半年写百封表扬信鼓励学生",
       "onboard_time": 1684685367,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105236,
-      "num": 127475,
-      "word": "网友拍到现实版鲤鱼跃龙门",
-      "onboard_time": 1684845091,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -4633,6 +4673,14 @@
       "onboard_time": 1684737624,
       "rank": 48,
       "category": "美妆,音乐"
+    },
+    {
+      "raw_hot": 84693,
+      "num": 226255,
+      "word": "一诺被看穿了",
+      "onboard_time": 1684845570,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 83587,
@@ -4875,20 +4923,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 25423,
+      "num": 2363978,
+      "word": "高质量发展调研行",
+      "onboard_time": 1684841071,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25128,
       "num": 152473,
       "word": "新能源大五座SUV怎么选",
       "onboard_time": 1684719388,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 24932,
-      "num": 2363978,
-      "word": "高质量发展调研行",
-      "onboard_time": 1684841071,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21399,

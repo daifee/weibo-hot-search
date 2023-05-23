@@ -1,0 +1,410 @@
+{
+  "runTime": 1684846178229,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1777523,
+        "num": 1777523,
+        "word": "杨洋baby 肖奈贝微微",
+        "onboard_time": 1684836030,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1391159,
+        "num": 1391159,
+        "word": "3名强奸未成年人罪犯被执行死刑",
+        "onboard_time": 1684835068,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 25423,
+        "num": 1227883,
+        "word": "高质量发展调研行",
+        "onboard_time": 1684841071,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1199528,
+        "num": 1199528,
+        "word": "华表奖颁奖典礼",
+        "onboard_time": 1684844253,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1172939,
+        "num": 1172939,
+        "word": "华表奖",
+        "onboard_time": 1684842511,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1684329,
+        "num": 1172401,
+        "word": "王一博裤子到底怎么了",
+        "onboard_time": 1684840111,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1159345,
+        "num": 1159345,
+        "word": "黄晓明一口气吃了四碗方便面",
+        "onboard_time": 1684840351,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 873977,
+        "num": 873977,
+        "word": "金星伴月",
+        "onboard_time": 1684843532,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642146,
+        "num": 642146,
+        "word": "多位苹果用户收到涉黄短信",
+        "onboard_time": 1684832008,
+        "rank": 8,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 422340,
+        "num": 422340,
+        "word": "宝妈产假后拒绝调岗至30公里外遭开除",
+        "onboard_time": 1684842210,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1633955,
+        "num": 412399,
+        "word": "工作人员说陈都灵比白鹿好看",
+        "onboard_time": 1684842330,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 885704,
+        "num": 409829,
+        "word": "张译 颂文哥呢",
+        "onboard_time": 1684843650,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 879706,
+        "num": 395034,
+        "word": "沈腾瘦了好多",
+        "onboard_time": 1684837771,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 557214,
+        "num": 382121,
+        "word": "南宁市市长鞠躬道歉",
+        "onboard_time": 1684832489,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375513,
+        "num": 375513,
+        "word": "你接受上4休3收入降5分之1吗",
+        "onboard_time": 1684833990,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 791104,
+        "num": 366606,
+        "word": "王俊凯易烊千玺隔了一个银河",
+        "onboard_time": 1684836930,
+        "rank": 15,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 594240,
+        "num": 364252,
+        "word": "华表奖红毯",
+        "onboard_time": 1684832430,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 343098,
+        "num": 343098,
+        "word": "猫因生病被剃掉了身体中段的毛",
+        "onboard_time": 1684823669,
+        "rank": 17,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 326907,
+        "num": 326907,
+        "word": "小偷听了都觉得好丟人",
+        "onboard_time": 1684843230,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 306268,
+        "num": 306268,
+        "word": "教师体罚学生被开除44名家长挽留",
+        "onboard_time": 1684822527,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 583561,
+        "num": 304518,
+        "word": "应采儿的大儿子",
+        "onboard_time": 1684837650,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211464,
+        "num": 286334,
+        "word": "毕业生换机首选",
+        "onboard_time": 1684844071,
+        "rank": 21,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 503041,
+        "num": 282558,
+        "word": "金泰亨Lisa合照",
+        "onboard_time": 1684842630,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496047,
+        "num": 267703,
+        "word": "易烊千玺X3",
+        "onboard_time": 1684839331,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 359353,
+        "num": 253138,
+        "word": "爱奇艺",
+        "onboard_time": 1684845811,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 482544,
+        "num": 243028,
+        "word": "华表奖内场",
+        "onboard_time": 1684844430,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 440647,
+        "num": 237668,
+        "word": "华表奖怼脸生图",
+        "onboard_time": 1684837650,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228739,
+        "num": 228739,
+        "word": "摊主关闭扫码提示音帮助有困难的人",
+        "onboard_time": 1684840711,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84693,
+        "num": 226255,
+        "word": "一诺被看穿了",
+        "onboard_time": 1684845570,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225617,
+        "num": 225617,
+        "word": "阿里云被曝人员优化7%",
+        "onboard_time": 1684840051,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 384650,
+        "num": 225411,
+        "word": "景甜 明艳大方",
+        "onboard_time": 1684839692,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288945,
+        "num": 223329,
+        "word": "张译又来指挥红毯了",
+        "onboard_time": 1684839331,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 288211,
+        "num": 223117,
+        "word": "孙艺珍玄彬卖别墅赚了18亿",
+        "onboard_time": 1684830387,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220999,
+        "num": 220999,
+        "word": "国泰航空暂停有关空服员飞行任务",
+        "onboard_time": 1684825590,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193160,
+        "num": 193160,
+        "word": "淄博烧烤摊主开始卷横幅了",
+        "onboard_time": 1684841729,
+        "rank": 34,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 279174,
+        "num": 192055,
+        "word": "张艺凡腿好长",
+        "onboard_time": 1684837410,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278675,
+        "num": 191379,
+        "word": "孙燕姿文笔",
+        "onboard_time": 1684840590,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278143,
+        "num": 186534,
+        "word": "徐娇红色马面裙",
+        "onboard_time": 1684842330,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171452,
+        "num": 171452,
+        "word": "最不推荐选的大学专业",
+        "onboard_time": 1684834828,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170749,
+        "num": 170749,
+        "word": "一万块可以花多久",
+        "onboard_time": 1684836090,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277244,
+        "num": 170623,
+        "word": "章子怡大花气场",
+        "onboard_time": 1684844850,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227224,
+        "num": 165407,
+        "word": "易烊千玺今晚可能有体育课",
+        "onboard_time": 1684837892,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194912,
+        "num": 162327,
+        "word": "刘晓庆 惠英红会不会和倪大红结婚",
+        "onboard_time": 1684837292,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196513,
+        "num": 160950,
+        "word": "易烊千玺中山装",
+        "onboard_time": 1684835309,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159139,
+        "num": 159139,
+        "word": "詹姆斯 退役",
+        "onboard_time": 1684819469,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155148,
+        "num": 155148,
+        "word": "陆地的夫妇一起走红毯",
+        "onboard_time": 1684846113,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150195,
+        "num": 150195,
+        "word": "Doinb办B际赛",
+        "onboard_time": 1684838791,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143545,
+        "num": 143545,
+        "word": "三国志战略版判赔率土之滨5000万元",
+        "onboard_time": 1684841370,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142577,
+        "num": 142577,
+        "word": "广东人穿洞洞鞋要小心",
+        "onboard_time": 1684837472,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112364,
+        "num": 141868,
+        "word": "网友拍到现实版鲤鱼跃龙门",
+        "onboard_time": 1684845091,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力打造国家级乃至世界级艺术殿堂#"
+    }
+  }
+}
