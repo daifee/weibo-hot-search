@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684809321428,
+  "endTime": 1684809817770,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -59,8 +59,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2148731,
-      "num": 2148731,
+      "raw_hot": 2241865,
+      "num": 2241865,
       "word": "毕业一年论文被抽检不合格",
       "onboard_time": 1684805486,
       "rank": 6,
@@ -355,6 +355,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 891011,
+      "num": 430836,
+      "word": "巴厘岛命案男子母亲首发声",
+      "onboard_time": 1684808549,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 883616,
       "num": 875750,
       "word": "谁给海清做的妆造",
@@ -587,6 +595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 622075,
+      "num": 622075,
+      "word": "近期到底一阳多还是二阳多",
+      "onboard_time": 1684805368,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 620465,
       "num": 620465,
       "word": "小慧君巧乐兹夫妇已成被执行人",
@@ -641,14 +657,6 @@
       "onboard_time": 1684720948,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 578480,
-      "num": 578480,
-      "word": "近期到底一阳多还是二阳多",
-      "onboard_time": 1684805368,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 577436,
@@ -713,6 +721,14 @@
       "onboard_time": 1684742248,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 520099,
+      "num": 423570,
+      "word": "宋仲基亮相戛纳",
+      "onboard_time": 1684808067,
+      "rank": 15,
+      "category": "影视,时尚"
     },
     {
       "raw_hot": 519987,
@@ -809,6 +825,14 @@
       "onboard_time": 1684747470,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 487722,
+      "num": 422436,
+      "word": "教你读懂小红书职场博主",
+      "onboard_time": 1684808309,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 487206,
@@ -963,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 441498,
+      "num": 441498,
+      "word": "白鹿陈哲远或将演攻玉",
+      "onboard_time": 1684808489,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 439360,
       "num": 439360,
       "word": "G7",
@@ -976,14 +1008,6 @@
       "word": "13岁少女被邻居性侵4名嫌疑人被抓",
       "onboard_time": 1684728930,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 430305,
-      "num": 430305,
-      "word": "巴厘岛命案男子母亲首发声",
-      "onboard_time": 1684808549,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -1027,12 +1051,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 405949,
-      "num": 405949,
-      "word": "教你读懂小红书职场博主",
-      "onboard_time": 1684808309,
-      "rank": 11,
-      "category": "情感"
+      "raw_hot": 409372,
+      "num": 409372,
+      "word": "谢谢小狗",
+      "onboard_time": 1684808609,
+      "rank": 25,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 405696,
@@ -1163,14 +1187,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 361740,
-      "num": 361740,
-      "word": "宋仲基亮相戛纳",
-      "onboard_time": 1684808067,
-      "rank": 15,
-      "category": "影视,时尚"
-    },
-    {
       "raw_hot": 359709,
       "num": 359709,
       "word": "柬埔寨女演员拄拐走戛纳红毯",
@@ -1241,14 +1257,6 @@
       "onboard_time": 1684740510,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 339593,
-      "num": 339593,
-      "word": "白鹿陈哲远或将演攻玉",
-      "onboard_time": 1684808489,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 336063,
@@ -2027,6 +2035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 216909,
+      "num": 182472,
+      "word": "恐怖片级的遭遇",
+      "onboard_time": 1684808908,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 214956,
       "num": 214956,
       "word": "王者下一个新英雄是谁",
@@ -2065,14 +2081,6 @@
       "onboard_time": 1684682371,
       "rank": 26,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 210445,
-      "num": 210445,
-      "word": "谢谢小狗",
-      "onboard_time": 1684808609,
-      "rank": 25,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 208182,
@@ -2217,6 +2225,14 @@
       "onboard_time": 1684727549,
       "rank": 43,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 194980,
+      "num": 194980,
+      "word": "高考结束的那个下午",
+      "onboard_time": 1684808728,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 193480,
@@ -2539,14 +2555,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 166270,
-      "num": 166270,
-      "word": "恐怖片级的遭遇",
-      "onboard_time": 1684808908,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 165524,
       "num": 165524,
       "word": "Ruler大满贯",
@@ -2560,14 +2568,6 @@
       "word": "在工作群里艾特同事被教育",
       "onboard_time": 1684722807,
       "rank": 43,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 165137,
-      "num": 165137,
-      "word": "高考结束的那个下午",
-      "onboard_time": 1684808728,
-      "rank": 35,
       "category": "情感"
     },
     {
@@ -2723,6 +2723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 154528,
+      "num": 154528,
+      "word": "詹姆斯拼了",
+      "onboard_time": 1684807947,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153158,
       "num": 256932,
       "word": "一群人在悬崖绝壁保护植物界大熊猫",
@@ -2795,6 +2803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 144155,
+      "num": 144155,
+      "word": "陈都灵高清怼脸拍",
+      "onboard_time": 1684809388,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 141491,
       "num": 141491,
       "word": "朱一龙荒野作家",
@@ -2808,6 +2824,14 @@
       "word": "58岁民警徒手爬楼救下悬立窗外老人",
       "onboard_time": 1684749029,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140054,
+      "num": 140054,
+      "word": "10万现金遗落公交乘客司机接力寻人",
+      "onboard_time": 1684809686,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -2833,6 +2857,14 @@
       "onboard_time": 1684739668,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 136765,
+      "num": 136765,
+      "word": "非遗传承人用0.8毫米绳子作画",
+      "onboard_time": 1684809686,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136306,
@@ -2947,8 +2979,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124774,
-      "num": 162358,
+      "raw_hot": 125293,
+      "num": 267607,
       "word": "没有充电桩想买电驱车",
       "onboard_time": 1684808788,
       "rank": 36,
@@ -2963,12 +2995,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 121315,
-      "num": 121315,
-      "word": "詹姆斯拼了",
-      "onboard_time": 1684807947,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 121264,
+      "num": 121264,
+      "word": "婴儿烫伤转院异地交警接力开道",
+      "onboard_time": 1684809627,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120509,
@@ -2995,6 +3027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119733,
+      "num": 119733,
+      "word": "肖战为残障青年故事纪录电影配音旁白",
+      "onboard_time": 1684809207,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 119661,
       "num": 119661,
       "word": "湛江当街杀人男子判死刑当庭上诉",
@@ -3009,14 +3049,6 @@
       "onboard_time": 1684664489,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 116331,
-      "num": 116331,
-      "word": "肖战为残障青年故事纪录电影配音旁白",
-      "onboard_time": 1684809207,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 115156,

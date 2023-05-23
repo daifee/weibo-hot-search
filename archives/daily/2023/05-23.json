@@ -1,6 +1,6 @@
 {
   "startTime": 1684772522563,
-  "endTime": 1684809321428,
+  "endTime": 1684809817770,
   "band_list": [
     {
       "raw_hot": 2585058,
@@ -11,8 +11,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2148731,
-      "num": 2148731,
+      "raw_hot": 2241865,
+      "num": 2241865,
       "word": "毕业一年论文被抽检不合格",
       "onboard_time": 1684805486,
       "rank": 6,
@@ -75,6 +75,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 891011,
+      "num": 430836,
+      "word": "巴厘岛命案男子母亲首发声",
+      "onboard_time": 1684808549,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 695511,
       "num": 695511,
       "word": "俄罗斯",
@@ -99,20 +107,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 622075,
+      "num": 622075,
+      "word": "近期到底一阳多还是二阳多",
+      "onboard_time": 1684805368,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 593694,
       "num": 593694,
       "word": "TFBOYS十周年演唱会或将在西安",
       "onboard_time": 1684798824,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 578480,
-      "num": 578480,
-      "word": "近期到底一阳多还是二阳多",
-      "onboard_time": 1684805368,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 577436,
@@ -129,6 +137,14 @@
       "onboard_time": 1684766731,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 520099,
+      "num": 423570,
+      "word": "宋仲基亮相戛纳",
+      "onboard_time": 1684808067,
+      "rank": 15,
+      "category": "影视,时尚"
     },
     {
       "raw_hot": 519644,
@@ -153,6 +169,14 @@
       "onboard_time": 1684767213,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 487722,
+      "num": 422436,
+      "word": "教你读懂小红书职场博主",
+      "onboard_time": 1684808309,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 484205,
@@ -203,12 +227,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 430305,
-      "num": 430305,
-      "word": "巴厘岛命案男子母亲首发声",
-      "onboard_time": 1684808549,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 441498,
+      "num": 441498,
+      "word": "白鹿陈哲远或将演攻玉",
+      "onboard_time": 1684808489,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 429045,
@@ -227,12 +251,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 405949,
-      "num": 405949,
-      "word": "教你读懂小红书职场博主",
-      "onboard_time": 1684808309,
-      "rank": 11,
-      "category": "情感"
+      "raw_hot": 409372,
+      "num": 409372,
+      "word": "谢谢小狗",
+      "onboard_time": 1684808609,
+      "rank": 25,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 401137,
@@ -267,14 +291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 361740,
-      "num": 361740,
-      "word": "宋仲基亮相戛纳",
-      "onboard_time": 1684808067,
-      "rank": 15,
-      "category": "影视,时尚"
-    },
-    {
       "raw_hot": 347199,
       "num": 347199,
       "word": "陈乔恩说听说全国观众都知道我喝大了",
@@ -289,14 +305,6 @@
       "onboard_time": 1684768591,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 339593,
-      "num": 339593,
-      "word": "白鹿陈哲远或将演攻玉",
-      "onboard_time": 1684808489,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 333634,
@@ -459,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216909,
+      "num": 182472,
+      "word": "恐怖片级的遭遇",
+      "onboard_time": 1684808908,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 213830,
       "num": 176146,
       "word": "你可以接受婚前同居吗",
@@ -473,14 +489,6 @@
       "onboard_time": 1684802310,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210445,
-      "num": 210445,
-      "word": "谢谢小狗",
-      "onboard_time": 1684808609,
-      "rank": 25,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 202265,
@@ -505,6 +513,14 @@
       "onboard_time": 1684807947,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 194980,
+      "num": 194980,
+      "word": "高考结束的那个下午",
+      "onboard_time": 1684808728,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 191772,
@@ -595,28 +611,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 166270,
-      "num": 166270,
-      "word": "恐怖片级的遭遇",
-      "onboard_time": 1684808908,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 165273,
       "num": 154193,
       "word": "十年前的婚纱照不要太离谱",
       "onboard_time": 1684768051,
       "rank": 37,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 165137,
-      "num": 165137,
-      "word": "高考结束的那个下午",
-      "onboard_time": 1684808728,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 162988,
@@ -659,6 +659,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 154528,
+      "num": 154528,
+      "word": "詹姆斯拼了",
+      "onboard_time": 1684807947,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151428,
       "num": 151428,
       "word": "男子43年专做点心成非遗传承人",
@@ -675,12 +683,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144155,
+      "num": 144155,
+      "word": "陈都灵高清怼脸拍",
+      "onboard_time": 1684809388,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 143116,
       "num": 143116,
       "word": "小慧君巧乐兹夫妇已成被执行人",
       "onboard_time": 1684749209,
       "rank": 33,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 140054,
+      "num": 140054,
+      "word": "10万现金遗落公交乘客司机接力寻人",
+      "onboard_time": 1684809686,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139439,
@@ -697,6 +721,14 @@
       "onboard_time": 1684752627,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136765,
+      "num": 136765,
+      "word": "非遗传承人用0.8毫米绳子作画",
+      "onboard_time": 1684809686,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136747,
@@ -731,20 +763,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 124774,
-      "num": 162358,
+      "raw_hot": 125293,
+      "num": 267607,
       "word": "没有充电桩想买电驱车",
       "onboard_time": 1684808788,
       "rank": 36,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121315,
-      "num": 121315,
-      "word": "詹姆斯拼了",
-      "onboard_time": 1684807947,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 121264,
+      "num": 121264,
+      "word": "婴儿烫伤转院异地交警接力开道",
+      "onboard_time": 1684809627,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120105,
@@ -753,6 +785,14 @@
       "onboard_time": 1684798042,
       "rank": 29,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 119733,
+      "num": 119733,
+      "word": "肖战为残障青年故事纪录电影配音旁白",
+      "onboard_time": 1684809207,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 119661,
@@ -776,14 +816,6 @@
       "word": "护心剧情 割裂",
       "onboard_time": 1684759768,
       "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 116331,
-      "num": 116331,
-      "word": "肖战为残障青年故事纪录电影配音旁白",
-      "onboard_time": 1684809207,
-      "rank": 45,
       "category": "影视"
     },
     {
@@ -900,7 +932,7 @@
     },
     {
       "raw_hot": 54469,
-      "num": 112937,
+      "num": 115272,
       "word": "KPL抽签",
       "onboard_time": 1684766731,
       "rank": 49,
