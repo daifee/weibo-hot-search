@@ -1,6 +1,6 @@
 {
   "startTime": 1684772522563,
-  "endTime": 1684830822708,
+  "endTime": 1684833414229,
   "band_list": [
     {
       "raw_hot": 2735051,
@@ -33,6 +33,14 @@
       "onboard_time": 1684799727,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1929017,
+      "num": 1929017,
+      "word": "孙艺珍玄彬卖别墅赚了18亿",
+      "onboard_time": 1684830387,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1912687,
@@ -171,6 +179,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1198559,
+      "num": 1198559,
+      "word": "越南人打工不卷逼疯中国老板",
+      "onboard_time": 1684827807,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1188389,
       "num": 1188389,
       "word": "一年不上班的真实感受",
@@ -201,6 +217,14 @@
       "onboard_time": 1684814369,
       "rank": 16,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1045533,
+      "num": 1045533,
+      "word": "华表奖红毯",
+      "onboard_time": 1684832430,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 955128,
@@ -235,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 745476,
+      "num": 467146,
+      "word": "南宁市市长鞠躬道歉",
+      "onboard_time": 1684832489,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 740395,
       "num": 740395,
       "word": "国泰航空暂停有关空服员飞行任务",
@@ -251,12 +283,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 725165,
-      "num": 725165,
-      "word": "越南人打工不卷逼疯中国老板",
-      "onboard_time": 1684827807,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 724854,
+      "num": 724854,
+      "word": "昊也",
+      "onboard_time": 1684828948,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 695511,
@@ -435,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 492475,
+      "num": 492475,
+      "word": "猫因生病被剃掉了身体中段的毛",
+      "onboard_time": 1684823669,
+      "rank": 44,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 487722,
       "num": 422436,
       "word": "教你读懂小红书职场博主",
@@ -561,22 +601,6 @@
       "onboard_time": 1684804107,
       "rank": 21,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 413234,
-      "num": 413234,
-      "word": "孙艺珍玄彬卖别墅赚了18亿",
-      "onboard_time": 1684830387,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 412639,
-      "num": 412639,
-      "word": "昊也",
-      "onboard_time": 1684828948,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 401137,
@@ -707,6 +731,22 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 323687,
+      "num": 323687,
+      "word": "护心扫楼",
+      "onboard_time": 1684828289,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 322463,
+      "num": 322463,
+      "word": "武汉三镇",
+      "onboard_time": 1684831709,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 319859,
       "num": 319859,
       "word": "国泰航空",
@@ -721,6 +761,14 @@
       "onboard_time": 1684769488,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 317664,
+      "num": 293463,
+      "word": "护心",
+      "onboard_time": 1684832727,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 316851,
@@ -739,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 310686,
+      "num": 293443,
+      "word": "多位苹果用户收到涉黄短信",
+      "onboard_time": 1684832008,
+      "rank": 21,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 308917,
       "num": 266061,
       "word": "易烊千玺或将开三场演唱会",
@@ -752,6 +808,14 @@
       "word": "白鹿北上短发路透",
       "onboard_time": 1684812868,
       "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 304941,
+      "num": 293378,
+      "word": "外媒评龚俊戛纳红毯为最佳着装",
+      "onboard_time": 1684832247,
+      "rank": 23,
       "category": "作品衍生"
     },
     {
@@ -827,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274754,
+      "num": 231667,
+      "word": "王一博已完成热烈配音",
+      "onboard_time": 1684830208,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272958,
       "num": 272958,
       "word": "G7",
@@ -859,20 +931,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 263776,
-      "num": 263776,
-      "word": "护心扫楼",
-      "onboard_time": 1684828289,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 262661,
       "num": 262661,
       "word": "鹿晗演唱会",
       "onboard_time": 1684803926,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 256230,
+      "num": 293366,
+      "word": "舍友写了半个月的论文",
+      "onboard_time": 1684829366,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 255137,
+      "num": 225115,
+      "word": "周深华表奖彩排现场",
+      "onboard_time": 1684816054,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 254172,
+      "num": 254172,
+      "word": "南宁",
+      "onboard_time": 1684832668,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251531,
@@ -915,6 +1003,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 243743,
+      "num": 243743,
+      "word": "杭州东站停电",
+      "onboard_time": 1684829847,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242674,
       "num": 242674,
       "word": "湖人被横扫出局",
@@ -939,20 +1035,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235037,
+      "num": 222546,
+      "word": "薛之谦演唱会吸阳气",
+      "onboard_time": 1684829909,
+      "rank": 42,
+      "category": "音乐,幽默"
+    },
+    {
       "raw_hot": 234178,
       "num": 234178,
       "word": "谢可寅一眼认出虞书欣童年照",
       "onboard_time": 1684826069,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 232563,
-      "num": 192570,
-      "word": "王一博已完成热烈配音",
-      "onboard_time": 1684830208,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 228260,
@@ -1059,14 +1155,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 216860,
-      "num": 212686,
-      "word": "周深华表奖彩排现场",
-      "onboard_time": 1684816054,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 216652,
       "num": 216652,
       "word": "周杰伦上海",
@@ -1123,14 +1211,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 210451,
-      "num": 210451,
-      "word": "猫因生病被剃掉了身体中段的毛",
-      "onboard_time": 1684823669,
-      "rank": 44,
-      "category": "幽默,社会新闻"
-    },
-    {
       "raw_hot": 209476,
       "num": 209476,
       "word": "陈都灵高清怼脸拍",
@@ -1144,14 +1224,6 @@
       "word": "环球人物评国泰航空致歉",
       "onboard_time": 1684826429,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207694,
-      "num": 207694,
-      "word": "杭州东站停电",
-      "onboard_time": 1684829847,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1363,6 +1435,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 172751,
+      "num": 163312,
+      "word": "鹿晗北京演唱会明天抢票",
+      "onboard_time": 1684831769,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 172522,
       "num": 143899,
       "word": "周冬雨的卧蚕",
@@ -1425,14 +1505,6 @@
       "onboard_time": 1684768051,
       "rank": 37,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 165125,
-      "num": 150097,
-      "word": "薛之谦演唱会吸阳气",
-      "onboard_time": 1684829909,
-      "rank": 42,
-      "category": "音乐,幽默"
     },
     {
       "raw_hot": 162988,
@@ -1904,6 +1976,14 @@
       "word": "不越野还要买四驱吗",
       "onboard_time": 1684826788,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28590,
+      "num": 244591,
+      "word": "合资玩法向新势力看齐",
+      "onboard_time": 1684832606,
+      "rank": 28,
       "category": "社会新闻"
     },
     {

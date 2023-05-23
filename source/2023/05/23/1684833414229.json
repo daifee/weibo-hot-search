@@ -1,0 +1,410 @@
+{
+  "runTime": 1684833414229,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1929017,
+        "num": 1929017,
+        "word": "孙艺珍玄彬卖别墅赚了18亿",
+        "onboard_time": 1684830387,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1198559,
+        "num": 1198559,
+        "word": "越南人打工不卷逼疯中国老板",
+        "onboard_time": 1684827807,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37445,
+        "num": 1117142,
+        "word": "珍惜我们的共同家园",
+        "onboard_time": 1684825948,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1219273,
+        "num": 1083730,
+        "word": "网上的言论谢娜都知道",
+        "onboard_time": 1684822050,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1045533,
+        "num": 1045533,
+        "word": "华表奖红毯",
+        "onboard_time": 1684832430,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 802575,
+        "num": 802575,
+        "word": "范丞丞工作室为粉丝垫付了2000张门票",
+        "onboard_time": 1684818154,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 757326,
+        "num": 757326,
+        "word": "詹姆斯 退役",
+        "onboard_time": 1684819469,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 724854,
+        "num": 724854,
+        "word": "昊也",
+        "onboard_time": 1684828948,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 550577,
+        "num": 550577,
+        "word": "教师体罚学生被开除44名家长挽留",
+        "onboard_time": 1684822527,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 492475,
+        "num": 492475,
+        "word": "猫因生病被剃掉了身体中段的毛",
+        "onboard_time": 1684823669,
+        "rank": 9,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 745476,
+        "num": 467146,
+        "word": "南宁市市长鞠躬道歉",
+        "onboard_time": 1684832489,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 674615,
+        "num": 451979,
+        "word": "陈楚河曾把脚放在朱珠腿上",
+        "onboard_time": 1684818213,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 644373,
+        "num": 446110,
+        "word": "华表奖座位",
+        "onboard_time": 1684829427,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 429701,
+        "num": 429701,
+        "word": "明星华表奖出发图",
+        "onboard_time": 1684829008,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 394120,
+        "num": 394120,
+        "word": "国泰航空暂停有关空服员飞行任务",
+        "onboard_time": 1684825590,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425625,
+        "num": 384888,
+        "word": "刘宪华回应当初退出向往的生活",
+        "onboard_time": 1684818512,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323687,
+        "num": 323687,
+        "word": "护心扫楼",
+        "onboard_time": 1684828289,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322463,
+        "num": 322463,
+        "word": "武汉三镇",
+        "onboard_time": 1684831709,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293494,
+        "num": 293494,
+        "word": "好看到让我发疯的小说",
+        "onboard_time": 1684823547,
+        "rank": 18,
+        "category": "情感,作品衍生"
+      },
+      {
+        "raw_hot": 252762,
+        "num": 293475,
+        "word": "巧乐兹夫妇再回应",
+        "onboard_time": 1684810528,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 317664,
+        "num": 293463,
+        "word": "护心",
+        "onboard_time": 1684832727,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310686,
+        "num": 293443,
+        "word": "多位苹果用户收到涉黄短信",
+        "onboard_time": 1684832008,
+        "rank": 21,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 307636,
+        "num": 293407,
+        "word": "马思纯晒视频回应瘦回来了",
+        "onboard_time": 1684824207,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304941,
+        "num": 293378,
+        "word": "外媒评龚俊戛纳红毯为最佳着装",
+        "onboard_time": 1684832247,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256230,
+        "num": 293366,
+        "word": "舍友写了半个月的论文",
+        "onboard_time": 1684829366,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 293342,
+        "num": 293342,
+        "word": "泫雅不来武汉音乐节",
+        "onboard_time": 1684828829,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286587,
+        "num": 286587,
+        "word": "没认出来Lisa",
+        "onboard_time": 1684815932,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254172,
+        "num": 254172,
+        "word": "南宁",
+        "onboard_time": 1684832668,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28590,
+        "num": 244591,
+        "word": "合资玩法向新势力看齐",
+        "onboard_time": 1684832606,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243743,
+        "num": 243743,
+        "word": "杭州东站停电",
+        "onboard_time": 1684829847,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 621663,
+        "num": 239563,
+        "word": "女子把离婚协议发网上遭前公婆毒打",
+        "onboard_time": 1684814910,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280421,
+        "num": 235978,
+        "word": "马思纯瘦回来了",
+        "onboard_time": 1684806505,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 274754,
+        "num": 231667,
+        "word": "王一博已完成热烈配音",
+        "onboard_time": 1684830208,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255137,
+        "num": 225115,
+        "word": "周深华表奖彩排现场",
+        "onboard_time": 1684816054,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223801,
+        "num": 223801,
+        "word": "兰大回应网传课堂讲授内容不当",
+        "onboard_time": 1684824029,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235037,
+        "num": 222546,
+        "word": "薛之谦演唱会吸阳气",
+        "onboard_time": 1684829909,
+        "rank": 35,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 221097,
+        "num": 221097,
+        "word": "王俊凯华表奖出发图",
+        "onboard_time": 1684829488,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195019,
+        "num": 195019,
+        "word": "A股",
+        "onboard_time": 1684824389,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 174373,
+        "num": 174373,
+        "word": "巴厘岛命案男子母亲首发声",
+        "onboard_time": 1684808549,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170752,
+        "num": 170752,
+        "word": "iG官宣Cryin加入",
+        "onboard_time": 1684825228,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212541,
+        "num": 166194,
+        "word": "浪姐4帮唱嘉宾",
+        "onboard_time": 1684822290,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185255,
+        "num": 166133,
+        "word": "爸爸当家2logo抄袭EXO",
+        "onboard_time": 1684821690,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172751,
+        "num": 163312,
+        "word": "鹿晗北京演唱会明天抢票",
+        "onboard_time": 1684831769,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157973,
+        "num": 157973,
+        "word": "成都半月内4人误食这种野菜中毒",
+        "onboard_time": 1684817793,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153283,
+        "num": 153283,
+        "word": "毕业一年论文被抽检不合格",
+        "onboard_time": 1684805486,
+        "rank": 44,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 149149,
+        "num": 149149,
+        "word": "孙燕姿回应AI孙燕姿",
+        "onboard_time": 1684815273,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140841,
+        "num": 140841,
+        "word": "考研失败改变了我的性格",
+        "onboard_time": 1684816954,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138230,
+        "num": 138230,
+        "word": "谢可寅一眼认出虞书欣童年照",
+        "onboard_time": 1684826069,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117626,
+        "num": 137364,
+        "word": "RNG官宣Ming离队",
+        "onboard_time": 1684814730,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97628,
+        "num": 137091,
+        "word": "RNG官宣GALA离队",
+        "onboard_time": 1684813470,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#神舟十六号近日择机发射#"
+    }
+  }
+}
