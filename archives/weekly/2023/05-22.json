@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684876486317,
+  "endTime": 1684877606161,
   "band_list": [
     {
       "raw_hot": 3643134,
@@ -5339,6 +5339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 31327,
+      "num": 31327,
+      "word": "专家称鼓励生育政策还有优化空间",
+      "onboard_time": 1684875672,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29942,
       "num": 40525,
       "word": "毕业季哭得最惨的那个人",
@@ -5409,14 +5417,6 @@
       "onboard_time": 1684671029,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 21089,
-      "num": 21089,
-      "word": "专家称鼓励生育政策还有优化空间",
-      "onboard_time": 1684875672,
-      "rank": 37,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
