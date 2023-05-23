@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684826145579,
+  "endTime": 1684827211701,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -2987,6 +2987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1600463,
+      "num": 1171026,
+      "word": "你的女儿其实不是你的女儿",
+      "onboard_time": 1684822829,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1600059,
       "num": 1600059,
       "word": "巴厘岛凶案酒店称形象严重受损",
@@ -3097,6 +3105,14 @@
       "onboard_time": 1683686906,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1584994,
+      "num": 1584994,
+      "word": "兰州大学",
+      "onboard_time": 1684824029,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1584435,
@@ -3697,14 +3713,6 @@
       "onboard_time": 1684321949,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1463682,
-      "num": 1171026,
-      "word": "你的女儿其实不是你的女儿",
-      "onboard_time": 1684822829,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 1463595,
@@ -5347,14 +5355,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1169317,
-      "num": 1169317,
-      "word": "兰州大学",
-      "onboard_time": 1684824029,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1167337,
       "num": 1167337,
       "word": "宋佳的手套竟然是个包",
@@ -6099,6 +6099,14 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 1062031,
+      "num": 1062031,
+      "word": "网上的言论谢娜都知道",
+      "onboard_time": 1684822050,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1060315,
       "num": 1060315,
       "word": "520",
@@ -6825,14 +6833,6 @@
       "onboard_time": 1684204048,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 955667,
-      "num": 955667,
-      "word": "网上的言论谢娜都知道",
-      "onboard_time": 1684822050,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 955128,
@@ -8875,6 +8875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 733499,
+      "num": 733499,
+      "word": "教师体罚学生被开除44名家长挽留",
+      "onboard_time": 1684822527,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 733074,
       "num": 608915,
       "word": "爸妈把群聊当私聊被我看到了",
@@ -9633,14 +9641,6 @@
       "onboard_time": 1683099570,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 678802,
-      "num": 678802,
-      "word": "教师体罚学生被开除44名家长挽留",
-      "onboard_time": 1684822527,
-      "rank": 31,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 677063,
@@ -10443,6 +10443,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 617839,
+      "num": 617839,
+      "word": "国泰航空暂停有关空服员飞行任务",
+      "onboard_time": 1684825590,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 617784,
+      "num": 617784,
+      "word": "王鹤棣虞书欣同款滤镜",
+      "onboard_time": 1684823069,
+      "rank": 26,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 617743,
       "num": 617743,
       "word": "同事间开黄腔也可能属于性骚扰",
@@ -10857,14 +10873,6 @@
       "onboard_time": 1683725794,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 595765,
-      "num": 563717,
-      "word": "王鹤棣虞书欣同款滤镜",
-      "onboard_time": 1684823069,
-      "rank": 26,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 595562,
@@ -13955,6 +13963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 474255,
+      "num": 474255,
+      "word": "浪姐4帮唱嘉宾",
+      "onboard_time": 1684822290,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 474099,
       "num": 474099,
       "word": "正版少爷和我",
@@ -14345,6 +14361,14 @@
       "onboard_time": 1684129829,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463237,
+      "num": 463237,
+      "word": "iG官宣Cryin加入",
+      "onboard_time": 1684825228,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 462725,
@@ -14913,14 +14937,6 @@
       "onboard_time": 1683539852,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 448570,
-      "num": 448570,
-      "word": "浪姐4帮唱嘉宾",
-      "onboard_time": 1684822290,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 448533,
@@ -19667,14 +19683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 352543,
-      "num": 352543,
-      "word": "iG官宣Cryin加入",
-      "onboard_time": 1684825228,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 352425,
       "num": 346812,
       "word": "娜扎cos赫本",
@@ -20657,6 +20665,14 @@
       "onboard_time": 1683262470,
       "rank": 22,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 336359,
+      "num": 336359,
+      "word": "马思纯晒视频回应瘦回来了",
+      "onboard_time": 1684824207,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 336063,
@@ -24619,14 +24635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 281949,
-      "num": 281949,
-      "word": "马思纯晒视频回应瘦回来了",
-      "onboard_time": 1684824207,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 281880,
       "num": 265071,
       "word": "记者卧底南京夫子庙暗访竹筒奶茶市场",
@@ -25689,6 +25697,14 @@
       "onboard_time": 1683519812,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268013,
+      "num": 268013,
+      "word": "好看到让我发疯的小说",
+      "onboard_time": 1684823547,
+      "rank": 31,
+      "category": "情感,作品衍生"
     },
     {
       "raw_hot": 268004,
@@ -32539,14 +32555,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 210333,
-      "num": 210333,
-      "word": "好看到让我发疯的小说",
-      "onboard_time": 1684823547,
-      "rank": 31,
-      "category": "情感,作品衍生"
-    },
-    {
       "raw_hot": 210303,
       "num": 210303,
       "word": "年轻人是懂省钱的",
@@ -32721,6 +32729,14 @@
       "onboard_time": 1684595071,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208783,
+      "num": 198102,
+      "word": "环球人物评国泰航空致歉",
+      "onboard_time": 1684826429,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208687,
@@ -33827,14 +33843,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 200932,
-      "num": 238590,
-      "word": "国泰航空暂停有关空服员飞行任务",
-      "onboard_time": 1684825590,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200870,
       "num": 183961,
       "word": "周深玉兔造型正面vs背面",
@@ -33921,6 +33929,14 @@
       "onboard_time": 1683599666,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 200142,
+      "num": 200142,
+      "word": "Lisa的一周有多忙",
+      "onboard_time": 1684826669,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200140,
@@ -34553,6 +34569,14 @@
       "onboard_time": 1684313914,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195549,
+      "num": 194187,
+      "word": "谢可寅一眼认出虞书欣童年照",
+      "onboard_time": 1684826069,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 195525,
@@ -36264,6 +36288,14 @@
       "word": "孟美岐今日活动生图状态",
       "onboard_time": 1682929466,
       "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 185346,
+      "num": 185346,
+      "word": "Jennie黑纱白色蕾丝蓬蓬裙",
+      "onboard_time": 1684821632,
+      "rank": 45,
       "category": "作品衍生,时尚"
     },
     {
@@ -42619,14 +42651,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 139140,
-      "num": 139140,
-      "word": "Jennie黑纱白色蕾丝蓬蓬裙",
-      "onboard_time": 1684821632,
-      "rank": 45,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 139132,
       "num": 139132,
       "word": "男子遇学生晚归用车灯照亮回家路",
@@ -42827,6 +42851,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 137040,
+      "num": 137040,
+      "word": "你姓氏中最有名的人是谁",
+      "onboard_time": 1684827029,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137027,
       "num": 137027,
       "word": "法老证件照片vs现场照片",
@@ -42963,14 +42995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135777,
-      "num": 135777,
-      "word": "谢可寅一眼认出虞书欣童年照",
-      "onboard_time": 1684826069,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 135702,
       "num": 135702,
       "word": "有么事找俺们就行",
@@ -43073,6 +43097,14 @@
       "onboard_time": 1683372931,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 134750,
+      "num": 134750,
+      "word": "亚运征途",
+      "onboard_time": 1684827086,
+      "rank": 46,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 134745,
@@ -48259,6 +48291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43816,
+      "num": 1171306,
+      "word": "珍惜我们的共同家园",
+      "onboard_time": 1684825948,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43759,
       "num": 115998,
       "word": "五一的最终归宿还是快餐店",
@@ -48496,6 +48536,14 @@
       "word": "第15个全国防灾减灾日",
       "onboard_time": 1683878908,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36302,
+      "num": 169494,
+      "word": "不越野还要买四驱吗",
+      "onboard_time": 1684826788,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -48975,14 +49023,6 @@
       "num": 1043584,
       "word": "卫星视角下的花开中国太美了",
       "onboard_time": 1682839286,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13819,
-      "num": 1171306,
-      "word": "珍惜我们的共同家园",
-      "onboard_time": 1684825948,
       "rank": 2,
       "category": "社会新闻"
     },
