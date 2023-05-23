@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684881208878,
+  "endTime": 1684883772204,
   "band_list": [
     {
       "raw_hot": 3643134,
@@ -3699,6 +3699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202203,
+      "num": 202203,
+      "word": "警员将旧户口簿盖作废章留给孙女作纪念",
+      "onboard_time": 1684861224,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201683,
       "num": 201683,
       "word": "宠物猫被邻居高空扔下活活摔死",
@@ -3865,6 +3873,14 @@
       "onboard_time": 1684841370,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189850,
+      "num": 148198,
+      "word": "苏州一商场儿童推车中英文收费不同",
+      "onboard_time": 1684880776,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189538,
@@ -4603,6 +4619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 141970,
+      "num": 141970,
+      "word": "专家称鼓励生育政策还有优化空间",
+      "onboard_time": 1684875672,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141491,
       "num": 141491,
       "word": "朱一龙荒野作家",
@@ -4723,6 +4747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 132395,
+      "num": 104438,
+      "word": "四川一中学老师输液时不幸身亡",
+      "onboard_time": 1684883482,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 132230,
       "num": 327825,
       "word": "夏天为了美白有多拼",
@@ -4819,14 +4851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123183,
-      "num": 123183,
-      "word": "专家称鼓励生育政策还有优化空间",
-      "onboard_time": 1684875672,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123176,
       "num": 123176,
       "word": "朱一龙2023戛纳行全记录",
@@ -4907,12 +4931,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114068,
+      "num": 114068,
+      "word": "导演回应向往的生活最后一季",
+      "onboard_time": 1684864156,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113782,
       "num": 113782,
       "word": "曼城vs切尔西",
       "onboard_time": 1684678172,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113251,
+      "num": 113251,
+      "word": "国泰航空爆料人发声",
+      "onboard_time": 1684867333,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112364,
@@ -5035,14 +5075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 95573,
-      "num": 95573,
-      "word": "警员将旧户口簿盖作废章留给孙女作纪念",
-      "onboard_time": 1684861224,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94928,
       "num": 94928,
       "word": "东野圭吾比喻明知不可能的爱",
@@ -5057,6 +5089,14 @@
       "onboard_time": 1684772964,
       "rank": 45,
       "category": "网红"
+    },
+    {
+      "raw_hot": 88084,
+      "num": 88084,
+      "word": "Capper暂停演出",
+      "onboard_time": 1684883601,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 87945,
@@ -5081,6 +5121,14 @@
       "onboard_time": 1684737624,
       "rank": 48,
       "category": "美妆,音乐"
+    },
+    {
+      "raw_hot": 86374,
+      "num": 86374,
+      "word": "有些小毛病不需治疗",
+      "onboard_time": 1684883120,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 84693,
@@ -5187,28 +5235,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 62639,
-      "num": 59265,
-      "word": "导演回应向往的生活最后一季",
-      "onboard_time": 1684864156,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 61040,
       "num": 61040,
       "word": "娜扎回家乡live图",
       "onboard_time": 1684795036,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 60660,
-      "num": 60660,
-      "word": "国泰航空爆料人发声",
-      "onboard_time": 1684867333,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59061,
@@ -5323,6 +5355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41061,
+      "num": 1914259,
+      "word": "五星红旗又一次在珠峰之巅飘扬",
+      "onboard_time": 1684847914,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36302,
       "num": 169494,
       "word": "不越野还要买四驱吗",
@@ -5371,27 +5411,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28314,
-      "num": 32912,
-      "word": "苏州一商场儿童推车中英文收费不同",
-      "onboard_time": 1684880776,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28290,
       "num": 28290,
       "word": "被造谣性骚扰当事人呼吁不要打扰证人",
       "onboard_time": 1684778773,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27461,
-      "num": 1914259,
-      "word": "五星红旗又一次在珠峰之巅飘扬",
-      "onboard_time": 1684847914,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1684858934935,
-  "endTime": 1684881208878,
+  "endTime": 1684883772204,
   "band_list": [
     {
       "raw_hot": 1590457,
@@ -139,6 +139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 374145,
+      "num": 374145,
+      "word": "你接受上4休3收入降5分之1吗",
+      "onboard_time": 1684833990,
+      "rank": 9,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 366521,
       "num": 187324,
       "word": "张婧仪Lisa金泰亨朴宝剑同框",
@@ -155,16 +163,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 337935,
-      "num": 337935,
-      "word": "你接受上4休3收入降5分之1吗",
-      "onboard_time": 1684833990,
-      "rank": 9,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 328003,
-      "num": 186831,
+      "num": 247480,
       "word": "黄晓明一口气吃了四碗方便面",
       "onboard_time": 1684840351,
       "rank": 27,
@@ -235,6 +235,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 236411,
+      "num": 236411,
+      "word": "多地妇产医院今年分娩量下降",
+      "onboard_time": 1684849177,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225026,
       "num": 163079,
       "word": "李承铉真没把我们当外人",
@@ -283,11 +291,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 195522,
-      "num": 195522,
-      "word": "多地妇产医院今年分娩量下降",
-      "onboard_time": 1684849177,
-      "rank": 17,
+      "raw_hot": 204042,
+      "num": 186694,
+      "word": "新娘婚礼当天被50斤苗服压哭",
+      "onboard_time": 1684850436,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202203,
+      "num": 202203,
+      "word": "警员将旧户口簿盖作废章留给孙女作纪念",
+      "onboard_time": 1684861224,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -299,20 +315,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189850,
+      "num": 148198,
+      "word": "苏州一商场儿童推车中英文收费不同",
+      "onboard_time": 1684880776,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189047,
       "num": 127859,
       "word": "Jennie黑白抹胸公主裙",
       "onboard_time": 1684852299,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 186694,
-      "num": 186694,
-      "word": "新娘婚礼当天被50斤苗服压哭",
-      "onboard_time": 1684850436,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 185354,
@@ -355,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141970,
+      "num": 141970,
+      "word": "专家称鼓励生育政策还有优化空间",
+      "onboard_time": 1684875672,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137566,
       "num": 137566,
       "word": "小偷听了都觉得好丟人",
@@ -363,12 +387,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 123183,
-      "num": 123183,
-      "word": "专家称鼓励生育政策还有优化空间",
-      "onboard_time": 1684875672,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 132395,
+      "num": 104438,
+      "word": "四川一中学老师输液时不幸身亡",
+      "onboard_time": 1684883482,
+      "rank": 31,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 118917,
@@ -384,6 +408,22 @@
       "word": "8岁儿子目睹父亲换戏装懵懂又心疼",
       "onboard_time": 1684850135,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114068,
+      "num": 114068,
+      "word": "导演回应向往的生活最后一季",
+      "onboard_time": 1684864156,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 113251,
+      "num": 113251,
+      "word": "国泰航空爆料人发声",
+      "onboard_time": 1684867333,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -403,12 +443,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 95573,
-      "num": 95573,
-      "word": "警员将旧户口簿盖作废章留给孙女作纪念",
-      "onboard_time": 1684861224,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 88084,
+      "num": 88084,
+      "word": "Capper暂停演出",
+      "onboard_time": 1684883601,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 86374,
+      "num": 86374,
+      "word": "有些小毛病不需治疗",
+      "onboard_time": 1684883120,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 78338,
@@ -443,22 +491,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 62639,
-      "num": 59265,
-      "word": "导演回应向往的生活最后一季",
-      "onboard_time": 1684864156,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 60660,
-      "num": 60660,
-      "word": "国泰航空爆料人发声",
-      "onboard_time": 1684867333,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 59061,
       "num": 78211,
       "word": "丹顶鹤敲车门乘客邀请它吃早餐",
@@ -472,6 +504,14 @@
       "word": "民警520领结婚证后又去抓了3个人",
       "onboard_time": 1684860623,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41061,
+      "num": 1094172,
+      "word": "五星红旗又一次在珠峰之巅飘扬",
+      "onboard_time": 1684847914,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -521,22 +561,6 @@
       "onboard_time": 1684758209,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28314,
-      "num": 32912,
-      "word": "苏州一商场儿童推车中英文收费不同",
-      "onboard_time": 1684880776,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27461,
-      "num": 1094172,
-      "word": "五星红旗又一次在珠峰之巅飘扬",
-      "onboard_time": 1684847914,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
