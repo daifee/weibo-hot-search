@@ -1,0 +1,410 @@
+{
+  "runTime": 1684880163376,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 403607,
+        "num": 403607,
+        "word": "谁来救救江疏影",
+        "onboard_time": 1684849472,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338632,
+        "num": 338632,
+        "word": "刘浩存仪态",
+        "onboard_time": 1684855472,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16088,
+        "num": 295608,
+        "word": "五星红旗又一次在珠峰之巅飘扬",
+        "onboard_time": 1684847914,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270938,
+        "num": 270938,
+        "word": "国泰航空3名歧视乘客空乘被解聘",
+        "onboard_time": 1684850917,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233780,
+        "num": 233780,
+        "word": "易烊千玺听到刘烨获奖的表情",
+        "onboard_time": 1684856132,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178014,
+        "num": 178014,
+        "word": "张译发言 陈凯歌表情",
+        "onboard_time": 1684853496,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166324,
+        "num": 166324,
+        "word": "老人报警丢失8000元民警找出1万8",
+        "onboard_time": 1684858888,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149178,
+        "num": 149178,
+        "word": "刘烨分了一把瓜子给易烊千玺",
+        "onboard_time": 1684853317,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93844,
+        "num": 93844,
+        "word": "多地妇产医院今年分娩量下降",
+        "onboard_time": 1684849177,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88105,
+        "num": 88105,
+        "word": "3名强奸未成年人罪犯被执行死刑",
+        "onboard_time": 1684835068,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 130622,
+        "num": 87865,
+        "word": "华表奖获奖名单",
+        "onboard_time": 1684847251,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124337,
+        "num": 87647,
+        "word": "王一博裤子到底怎么了",
+        "onboard_time": 1684840111,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112188,
+        "num": 86532,
+        "word": "张子枫华表奖最年轻影后",
+        "onboard_time": 1684853674,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83599,
+        "num": 83599,
+        "word": "你接受上4休3收入降5分之1吗",
+        "onboard_time": 1684833990,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 82774,
+        "num": 82774,
+        "word": "山西失联20天的11岁男孩已身亡",
+        "onboard_time": 1684847251,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91432,
+        "num": 80839,
+        "word": "陈赫憋笑",
+        "onboard_time": 1684856852,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 76252,
+        "num": 76252,
+        "word": "退钱哥吐槽国泰航空空乘听不懂中文",
+        "onboard_time": 1684854395,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71496,
+        "num": 71496,
+        "word": "警员将旧户口簿盖作废章留给孙女作纪念",
+        "onboard_time": 1684861224,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71194,
+        "num": 71194,
+        "word": "杨洋baby 肖奈贝微微",
+        "onboard_time": 1684836030,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 70074,
+        "num": 70074,
+        "word": "专家称鼓励生育政策还有优化空间",
+        "onboard_time": 1684875672,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137286,
+        "num": 68959,
+        "word": "离职两个月了工资还一直在发",
+        "onboard_time": 1684853496,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65879,
+        "num": 65879,
+        "word": "新娘婚礼当天被50斤苗服压哭",
+        "onboard_time": 1684850436,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63207,
+        "num": 63207,
+        "word": "黄晓明一口气吃了四碗方便面",
+        "onboard_time": 1684840351,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60813,
+        "num": 60813,
+        "word": "胸不应该成为嘲笑我的把柄",
+        "onboard_time": 1684861579,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50005,
+        "num": 50005,
+        "word": "多名乘客讲述乘坐国泰航空经历",
+        "onboard_time": 1684847612,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43297,
+        "num": 43297,
+        "word": "导演回应向往的生活最后一季",
+        "onboard_time": 1684864156,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41870,
+        "num": 41870,
+        "word": "巧乐兹夫妇商业版图盘点",
+        "onboard_time": 1684858349,
+        "rank": 26,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 39992,
+        "num": 39992,
+        "word": "王一博刘浩存同框照",
+        "onboard_time": 1684847914,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37707,
+        "num": 37707,
+        "word": "张子枫华表奖优秀女演员",
+        "onboard_time": 1684846651,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37326,
+        "num": 37326,
+        "word": "张婧仪Lisa金泰亨朴宝剑同框",
+        "onboard_time": 1684848454,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63495,
+        "num": 37314,
+        "word": "工作人员说陈都灵比白鹿好看",
+        "onboard_time": 1684842330,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46749,
+        "num": 37314,
+        "word": "国泰航空爆料人发声",
+        "onboard_time": 1684867333,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37289,
+        "num": 37289,
+        "word": "易烊千玺王俊凯同框",
+        "onboard_time": 1684850977,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37154,
+        "num": 37154,
+        "word": "龚俊回复洪晃",
+        "onboard_time": 1684847793,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35736,
+        "num": 35736,
+        "word": "金珉奎签售",
+        "onboard_time": 1684853674,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35725,
+        "num": 35725,
+        "word": "李承铉真没把我们当外人",
+        "onboard_time": 1684857930,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34909,
+        "num": 34909,
+        "word": "国泰航空致歉",
+        "onboard_time": 1684797020,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33466,
+        "num": 33466,
+        "word": "分手时什么话对女生伤害最大",
+        "onboard_time": 1684847014,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33233,
+        "num": 33233,
+        "word": "我坚持买彩票的原因",
+        "onboard_time": 1684852418,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30799,
+        "num": 33233,
+        "word": "国泰航空",
+        "onboard_time": 1684851817,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34642,
+        "num": 33230,
+        "word": "张译 颂文哥呢",
+        "onboard_time": 1684843650,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31506,
+        "num": 33229,
+        "word": "应采儿的大儿子",
+        "onboard_time": 1684837650,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30189,
+        "num": 33229,
+        "word": "华表奖",
+        "onboard_time": 1684842511,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29703,
+        "num": 33227,
+        "word": "食人族都吃不了打工人的苦",
+        "onboard_time": 1684854577,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28828,
+        "num": 33227,
+        "word": "淄博烧烤摊主开始卷横幅了",
+        "onboard_time": 1684841729,
+        "rank": 44,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 28115,
+        "num": 33226,
+        "word": "邓超 显眼包",
+        "onboard_time": 1684853795,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26596,
+        "num": 33225,
+        "word": "华表奖怼脸生图",
+        "onboard_time": 1684837650,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26284,
+        "num": 33223,
+        "word": "小偷听了都觉得好丟人",
+        "onboard_time": 1684843230,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22693,
+        "num": 33223,
+        "word": "湘北猫德学院",
+        "onboard_time": 1684848573,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 15486,
+        "num": 33221,
+        "word": "Doinb办B际赛",
+        "onboard_time": 1684838791,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给中国美术馆老专家老艺术家回信#"
+    }
+  }
+}

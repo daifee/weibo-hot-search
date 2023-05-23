@@ -1,6 +1,6 @@
 {
   "startTime": 1684858934935,
-  "endTime": 1684877606161,
+  "endTime": 1684880163376,
   "band_list": [
     {
       "raw_hot": 1590457,
@@ -419,6 +419,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 70074,
+      "num": 70074,
+      "word": "专家称鼓励生育政策还有优化空间",
+      "onboard_time": 1684875672,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67487,
       "num": 67487,
       "word": "易烊千玺X3",
@@ -451,8 +459,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46317,
-      "num": 28644,
+      "raw_hot": 46749,
+      "num": 37314,
       "word": "国泰航空爆料人发声",
       "onboard_time": 1684867333,
       "rank": 31,
@@ -467,7 +475,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34491,
+      "raw_hot": 34909,
       "num": 36648,
       "word": "国泰航空致歉",
       "onboard_time": 1684797020,
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 32872,
-      "num": 32872,
+      "num": 33229,
       "word": "华表奖",
       "onboard_time": 1684842511,
       "rank": 42,
@@ -489,14 +497,6 @@
       "onboard_time": 1684866794,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 31327,
-      "num": 31327,
-      "word": "专家称鼓励生育政策还有优化空间",
-      "onboard_time": 1684875672,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29942,
@@ -523,8 +523,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18059,
-      "num": 25745,
+      "raw_hot": 26596,
+      "num": 33225,
       "word": "华表奖怼脸生图",
       "onboard_time": 1684837650,
       "rank": 42,
