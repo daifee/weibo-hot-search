@@ -1,6 +1,6 @@
 {
   "startTime": 1684772522563,
-  "endTime": 1684848070930,
+  "endTime": 1684848810889,
   "band_list": [
     {
       "raw_hot": 3287232,
@@ -9,6 +9,14 @@
       "onboard_time": 1684836030,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 3215688,
+      "num": 3215688,
+      "word": "张子枫华表奖优秀女演员",
+      "onboard_time": 1684846651,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2874058,
@@ -27,14 +35,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 2626514,
-      "num": 2626514,
-      "word": "张子枫华表奖优秀女演员",
-      "onboard_time": 1684846651,
-      "rank": 0,
-      "category": "影视"
-    },
-    {
       "raw_hot": 2585058,
       "num": 1226810,
       "word": "大哥大嫂BE了",
@@ -51,20 +51,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2527316,
+      "num": 2527316,
+      "word": "爱奇艺",
+      "onboard_time": 1684845811,
+      "rank": 24,
+      "category": "科技"
+    },
+    {
       "raw_hot": 2435480,
       "num": 2435480,
       "word": "南宁市市长鞠躬道歉",
       "onboard_time": 1684832489,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2270100,
-      "num": 2270100,
-      "word": "爱奇艺",
-      "onboard_time": 1684845811,
-      "rank": 24,
-      "category": "科技"
     },
     {
       "raw_hot": 2241865,
@@ -107,8 +107,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1794505,
-      "num": 1794505,
+      "raw_hot": 1871735,
+      "num": 1871735,
       "word": "张译华表奖优秀男演员",
       "onboard_time": 1684846712,
       "rank": 3,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1760684,
-      "num": 713978,
+      "num": 765195,
       "word": "工作人员说陈都灵比白鹿好看",
       "onboard_time": 1684842330,
       "rank": 10,
@@ -129,6 +129,14 @@
       "onboard_time": 1684808549,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1696602,
+      "num": 1696602,
+      "word": "百度搜不到爱奇艺",
+      "onboard_time": 1684847373,
+      "rank": 6,
+      "category": "科技"
     },
     {
       "raw_hot": 1684308,
@@ -235,16 +243,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1299106,
-      "num": 1299106,
-      "word": "百度搜不到爱奇艺",
-      "onboard_time": 1684847373,
-      "rank": 6,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 1275170,
-      "num": 1275170,
+      "raw_hot": 1287644,
+      "num": 1287644,
       "word": "沈腾瘦了好多",
       "onboard_time": 1684837771,
       "rank": 7,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 1096622,
-      "num": 706604,
+      "num": 759106,
       "word": "张译 颂文哥呢",
       "onboard_time": 1684843650,
       "rank": 20,
@@ -395,6 +395,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 891186,
+      "num": 616684,
+      "word": "华表奖获奖名单",
+      "onboard_time": 1684847251,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 884091,
       "num": 884091,
       "word": "没想到杨紫大王关系这么好",
@@ -443,11 +451,35 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 773263,
+      "num": 773263,
+      "word": "你接受上4休3收入降5分之1吗",
+      "onboard_time": 1684833990,
+      "rank": 24,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 763216,
+      "num": 360076,
+      "word": "张译大满贯",
+      "onboard_time": 1684847612,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 740395,
       "num": 740395,
       "word": "国泰航空暂停有关空服员飞行任务",
       "onboard_time": 1684825590,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 727247,
+      "num": 727247,
+      "word": "山西失联20天的11岁男孩已身亡",
+      "onboard_time": 1684847251,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -465,14 +497,6 @@
       "onboard_time": 1684823669,
       "rank": 44,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 719052,
-      "num": 719052,
-      "word": "你接受上4休3收入降5分之1吗",
-      "onboard_time": 1684833990,
-      "rank": 24,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 695511,
@@ -691,6 +715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 508548,
+      "num": 186937,
+      "word": "龚俊回复洪晃",
+      "onboard_time": 1684847793,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 497925,
       "num": 497925,
       "word": "白鹿陈哲远或将演攻玉",
@@ -705,14 +737,6 @@
       "onboard_time": 1684815273,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 488300,
-      "num": 195653,
-      "word": "华表奖获奖名单",
-      "onboard_time": 1684847251,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 487722,
@@ -835,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 431984,
+      "num": 431984,
+      "word": "小偷听了都觉得好丟人",
+      "onboard_time": 1684843230,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 429045,
       "num": 429045,
       "word": "丰田再次呼吁不要过早放弃燃油车",
@@ -865,22 +897,6 @@
       "onboard_time": 1684842210,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 409497,
-      "num": 409497,
-      "word": "山西失联20天的11岁男孩已身亡",
-      "onboard_time": 1684847251,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 407213,
-      "num": 407213,
-      "word": "小偷听了都觉得好丟人",
-      "onboard_time": 1684843230,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 404212,
@@ -939,16 +955,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 386399,
-      "num": 152305,
-      "word": "张译大满贯",
-      "onboard_time": 1684847612,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 385304,
-      "num": 151358,
+      "num": 171341,
       "word": "邓超嗓子",
       "onboard_time": 1684846173,
       "rank": 42,
@@ -1017,6 +1025,14 @@
       "onboard_time": 1684812209,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 351368,
+      "num": 171902,
+      "word": "张婧仪Lisa金泰亨朴宝剑同框",
+      "onboard_time": 1684848454,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 349516,
@@ -1387,20 +1403,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265828,
+      "num": 265828,
+      "word": "如何看待520结婚人数断崖式下跌",
+      "onboard_time": 1684844609,
+      "rank": 29,
+      "category": "情感,社会议题"
+    },
+    {
       "raw_hot": 262661,
       "num": 262661,
       "word": "鹿晗演唱会",
       "onboard_time": 1684803926,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 257244,
-      "num": 148950,
-      "word": "龚俊回复洪晃",
-      "onboard_time": 1684847793,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 257011,
@@ -1521,6 +1537,14 @@
       "onboard_time": 1684826069,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232159,
+      "num": 232159,
+      "word": "分手时什么话对女生伤害最大",
+      "onboard_time": 1684847014,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 228260,
@@ -1787,14 +1811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200568,
-      "num": 200568,
-      "word": "如何看待520结婚人数断崖式下跌",
-      "onboard_time": 1684844609,
-      "rank": 29,
-      "category": "情感,社会议题"
-    },
-    {
       "raw_hot": 197044,
       "num": 197044,
       "word": "上学时买过如今却消失的东西",
@@ -1875,6 +1891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188709,
+      "num": 188709,
+      "word": "多名乘客讲述乘坐国泰航空经历",
+      "onboard_time": 1684847612,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187771,
       "num": 549791,
       "word": "全网寻找跪地救人兵哥哥",
@@ -1897,14 +1921,6 @@
       "onboard_time": 1684799787,
       "rank": 34,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 186251,
-      "num": 186251,
-      "word": "分手时什么话对女生伤害最大",
-      "onboard_time": 1684847014,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 185346,
@@ -2179,14 +2195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147751,
-      "num": 147751,
-      "word": "多名乘客讲述乘坐国泰航空经历",
-      "onboard_time": 1684847612,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147581,
       "num": 147581,
       "word": "男朋友送过让你记忆犹新的礼物",
@@ -2435,6 +2443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107113,
+      "num": 169740,
+      "word": "为什么现在的年轻人存不下来钱",
+      "onboard_time": 1684846591,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102801,
       "num": 167406,
       "word": "自驾囧途时刻谁懂啊",
@@ -2473,6 +2489,14 @@
       "onboard_time": 1684766070,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 97664,
+      "num": 169168,
+      "word": "湘北猫德学院",
+      "onboard_time": 1684848573,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 96681,
@@ -2651,20 +2675,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27037,
+      "num": 2363978,
+      "word": "高质量发展调研行",
+      "onboard_time": 1684841071,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25474,
       "num": 35565,
       "word": "华表奖嘉宾",
       "onboard_time": 1684656628,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 25423,
-      "num": 2363978,
-      "word": "高质量发展调研行",
-      "onboard_time": 1684841071,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21546,
@@ -2695,6 +2719,9 @@
     },
     {
       "word": "#努力打造国家级乃至世界级艺术殿堂#"
+    },
+    {
+      "word": "#习近平给中国美术馆老专家老艺术家回信#"
     }
   ]
 }
