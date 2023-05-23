@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684812828599,
+  "endTime": 1684815599952,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -211,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1361405,
+      "num": 1361405,
+      "word": "RNG官宣GALA离队",
+      "onboard_time": 1684813470,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1353581,
       "num": 1353581,
       "word": "迪丽热巴阿娜尔罕评分降了",
@@ -259,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1235231,
+      "num": 1235231,
+      "word": "巧乐兹夫妇再回应",
+      "onboard_time": 1684810528,
+      "rank": 6,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1188389,
       "num": 1188389,
       "word": "一年不上班的真实感受",
@@ -299,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1119216,
+      "num": 1119216,
+      "word": "谢谢小狗",
+      "onboard_time": 1684808609,
+      "rank": 25,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 1098545,
       "num": 738837,
       "word": "过期糖",
@@ -307,12 +331,12 @@
       "category": "情感,艺人"
     },
     {
-      "raw_hot": 1096184,
-      "num": 1096184,
-      "word": "巧乐兹夫妇再回应",
-      "onboard_time": 1684810528,
-      "rank": 6,
-      "category": "社会新闻,网红"
+      "raw_hot": 1068222,
+      "num": 1068222,
+      "word": "外媒评张雨绮戛纳红毯最佳着装",
+      "onboard_time": 1684811489,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1064909,
@@ -587,12 +611,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 648332,
-      "num": 648332,
-      "word": "谢谢小狗",
-      "onboard_time": 1684808609,
-      "rank": 25,
-      "category": "幽默,情感"
+      "raw_hot": 653891,
+      "num": 653891,
+      "word": "没想到杨紫大王关系这么好",
+      "onboard_time": 1684814191,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 646198,
@@ -660,7 +684,7 @@
     },
     {
       "raw_hot": 607372,
-      "num": 327831,
+      "num": 333074,
       "word": "女生在晚上一定要远离工地",
       "onboard_time": 1684810347,
       "rank": 20,
@@ -787,6 +811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 539885,
+      "num": 539885,
+      "word": "曾黎的厚底鞋有20厘米",
+      "onboard_time": 1684813228,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 519987,
       "num": 394763,
       "word": "我爸不让25岁的我考研",
@@ -905,14 +937,6 @@
       "onboard_time": 1684757248,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 480793,
-      "num": 430279,
-      "word": "外媒评张雨绮戛纳红毯最佳着装",
-      "onboard_time": 1684811489,
-      "rank": 24,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 477618,
@@ -1179,6 +1203,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 381538,
+      "num": 321653,
+      "word": "赵丽颖清唱知否知否",
+      "onboard_time": 1684813949,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 378035,
+      "num": 378035,
+      "word": "韩媒称韩国加入G7后G8可替代联合国",
+      "onboard_time": 1684814369,
+      "rank": 16,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 377798,
       "num": 377798,
       "word": "羊倌为救坠崖国保差点弄丢几百只羊",
@@ -1233,6 +1273,22 @@
       "onboard_time": 1684683211,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 363110,
+      "num": 363110,
+      "word": "王者荣耀宝格丽互关",
+      "onboard_time": 1684811849,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 362623,
+      "num": 362623,
+      "word": "治疗内耗就是四个字",
+      "onboard_time": 1684812209,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 361823,
@@ -1297,6 +1353,14 @@
       "onboard_time": 1684763732,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347841,
+      "num": 347841,
+      "word": "RNG官宣Ming离队",
+      "onboard_time": 1684814730,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 347078,
@@ -1379,6 +1443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 322572,
+      "num": 234296,
+      "word": "虞书欣多巴胺眼镜",
+      "onboard_time": 1684814850,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 321022,
       "num": 321022,
       "word": "孙灏羽将继续起诉小慧君巧乐兹夫妇",
@@ -1459,6 +1531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 308267,
+      "num": 308267,
+      "word": "白鹿北上短发路透",
+      "onboard_time": 1684812868,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 308109,
       "num": 308109,
       "word": "鬼灭之刃",
@@ -1513,6 +1593,14 @@
       "onboard_time": 1684678111,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 301922,
+      "num": 301922,
+      "word": "约基奇MVP",
+      "onboard_time": 1684813050,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 296940,
@@ -1593,14 +1681,6 @@
       "onboard_time": 1684746989,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 281797,
-      "num": 281797,
-      "word": "王者荣耀宝格丽互关",
-      "onboard_time": 1684811849,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 281573,
@@ -1787,6 +1867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249526,
+      "num": 249526,
+      "word": "女子把离婚协议发网上遭前公婆毒打",
+      "onboard_time": 1684814910,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248095,
       "num": 248095,
       "word": "深圳暴雨",
@@ -1811,6 +1899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244735,
+      "num": 244735,
+      "word": "林俊杰演唱会",
+      "onboard_time": 1684813349,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 244621,
       "num": 575361,
       "word": "朱一龙为河边的错误增肥",
@@ -1833,6 +1929,14 @@
       "onboard_time": 1684665328,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242674,
+      "num": 242674,
+      "word": "湖人被横扫出局",
+      "onboard_time": 1684813529,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 242620,
@@ -1929,6 +2033,14 @@
       "onboard_time": 1684681172,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234301,
+      "num": 234301,
+      "word": "孙燕姿回应AI孙燕姿",
+      "onboard_time": 1684815273,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 234225,
@@ -2097,6 +2209,14 @@
       "onboard_time": 1684810288,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 222563,
+      "num": 222563,
+      "word": "起底被曝歧视乘客国泰航空",
+      "onboard_time": 1684815211,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220552,
@@ -2371,14 +2491,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 193504,
-      "num": 193504,
-      "word": "治疗内耗就是四个字",
-      "onboard_time": 1684812209,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 193480,
       "num": 193480,
       "word": "小米Civi3",
@@ -2635,6 +2747,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 173305,
+      "num": 173305,
+      "word": "2元土豆加工成薯塔卖15元",
+      "onboard_time": 1684814668,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171888,
       "num": 171888,
       "word": "袁隆平罕见哽咽画面首次曝光",
@@ -2665,6 +2785,14 @@
       "onboard_time": 1684764750,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170054,
+      "num": 170054,
+      "word": "Jennie戳爷同框合影",
+      "onboard_time": 1684815511,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 167466,
@@ -2891,6 +3019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 154372,
+      "num": 154372,
+      "word": "鹿晗和网友踢球旧合照",
+      "onboard_time": 1684813349,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 153158,
       "num": 256932,
       "word": "一群人在悬崖绝壁保护植物界大熊猫",
@@ -3075,6 +3211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 132230,
+      "num": 238167,
+      "word": "夏天为了美白有多拼",
+      "onboard_time": 1684814131,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131613,
       "num": 131613,
       "word": "黄景瑜劝黄明昊咱犯不上哈",
@@ -3160,6 +3304,14 @@
       "word": "没有充电桩想买电驱车",
       "onboard_time": 1684808788,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123816,
+      "num": 1384069,
+      "word": "我国科考队员登顶珠峰成功",
+      "onboard_time": 1684813831,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -3589,6 +3741,9 @@
     },
     {
       "word": "#珍惜我们的共同家园#"
+    },
+    {
+      "word": "#神舟十六号近日择机发射#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1684815599952,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2136584,
+        "num": 2136584,
+        "word": "毕业一年论文被抽检不合格",
+        "onboard_time": 1684805486,
+        "rank": 0,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 1538055,
+        "num": 1538055,
+        "word": "巴厘岛命案男子母亲首发声",
+        "onboard_time": 1684808549,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123816,
+        "num": 1384069,
+        "word": "我国科考队员登顶珠峰成功",
+        "onboard_time": 1684813831,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1660644,
+        "num": 1377533,
+        "word": "马思纯瘦回来了",
+        "onboard_time": 1684806505,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1361405,
+        "num": 1361405,
+        "word": "RNG官宣GALA离队",
+        "onboard_time": 1684813470,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1235231,
+        "num": 1235231,
+        "word": "巧乐兹夫妇再回应",
+        "onboard_time": 1684810528,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1119216,
+        "num": 1119216,
+        "word": "谢谢小狗",
+        "onboard_time": 1684808609,
+        "rank": 6,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 1100724,
+        "num": 1100724,
+        "word": "一年不上班的真实感受",
+        "onboard_time": 1684810347,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1068222,
+        "num": 1068222,
+        "word": "外媒评张雨绮戛纳红毯最佳着装",
+        "onboard_time": 1684811489,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1014077,
+        "num": 1014077,
+        "word": "掘金4比0淘汰湖人",
+        "onboard_time": 1684812149,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 653891,
+        "num": 653891,
+        "word": "没想到杨紫大王关系这么好",
+        "onboard_time": 1684814191,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 555456,
+        "num": 555456,
+        "word": "鹿晗兑现三年前承诺",
+        "onboard_time": 1684799727,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 539885,
+        "num": 539885,
+        "word": "曾黎的厚底鞋有20厘米",
+        "onboard_time": 1684813228,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 517715,
+        "num": 517715,
+        "word": "大哥大嫂BE了",
+        "onboard_time": 1684767871,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 461086,
+        "num": 461086,
+        "word": "浓眉",
+        "onboard_time": 1684810469,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394586,
+        "num": 394586,
+        "word": "宋仲基亮相戛纳",
+        "onboard_time": 1684808067,
+        "rank": 15,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 378035,
+        "num": 378035,
+        "word": "韩媒称韩国加入G7后G8可替代联合国",
+        "onboard_time": 1684814369,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 363110,
+        "num": 363110,
+        "word": "王者荣耀宝格丽互关",
+        "onboard_time": 1684811849,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 362623,
+        "num": 362623,
+        "word": "治疗内耗就是四个字",
+        "onboard_time": 1684812209,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 347841,
+        "num": 347841,
+        "word": "RNG官宣Ming离队",
+        "onboard_time": 1684814730,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 478708,
+        "num": 333074,
+        "word": "女生在晚上一定要远离工地",
+        "onboard_time": 1684810347,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 381538,
+        "num": 321653,
+        "word": "赵丽颖清唱知否知否",
+        "onboard_time": 1684813949,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308267,
+        "num": 308267,
+        "word": "白鹿北上短发路透",
+        "onboard_time": 1684812868,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 301922,
+        "num": 301922,
+        "word": "约基奇MVP",
+        "onboard_time": 1684813050,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249526,
+        "num": 249526,
+        "word": "女子把离婚协议发网上遭前公婆毒打",
+        "onboard_time": 1684814910,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244735,
+        "num": 244735,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1684813349,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 242674,
+        "num": 242674,
+        "word": "湖人被横扫出局",
+        "onboard_time": 1684813529,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132230,
+        "num": 238167,
+        "word": "夏天为了美白有多拼",
+        "onboard_time": 1684814131,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236349,
+        "num": 236349,
+        "word": "六年没联系的朋友找我当伴娘",
+        "onboard_time": 1684807887,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234301,
+        "num": 234301,
+        "word": "孙燕姿回应AI孙燕姿",
+        "onboard_time": 1684815273,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322572,
+        "num": 234296,
+        "word": "虞书欣多巴胺眼镜",
+        "onboard_time": 1684814850,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 233506,
+        "num": 233506,
+        "word": "白鹿陈哲远或将演攻玉",
+        "onboard_time": 1684808489,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320911,
+        "num": 233048,
+        "word": "国泰空乘歧视乘客录音曝光",
+        "onboard_time": 1684803629,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231738,
+        "num": 231738,
+        "word": "咱东北也有地下偶像了",
+        "onboard_time": 1684806627,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 230214,
+        "num": 230214,
+        "word": "巴厘岛",
+        "onboard_time": 1684810407,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222563,
+        "num": 222563,
+        "word": "起底被曝歧视乘客国泰航空",
+        "onboard_time": 1684815211,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222414,
+        "num": 222414,
+        "word": "网传徐怀钰三公进步大",
+        "onboard_time": 1684811068,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203919,
+        "num": 203919,
+        "word": "詹姆斯拼了",
+        "onboard_time": 1684807947,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198294,
+        "num": 198294,
+        "word": "蒜蓉香蕉",
+        "onboard_time": 1684810167,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 197172,
+        "num": 197172,
+        "word": "近期到底一阳多还是二阳多",
+        "onboard_time": 1684805368,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197101,
+        "num": 197101,
+        "word": "周杰伦上海",
+        "onboard_time": 1684811548,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190656,
+        "num": 190656,
+        "word": "掘金vs湖人",
+        "onboard_time": 1684802608,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183085,
+        "num": 183085,
+        "word": "TFBOYS十周年演唱会或将在西安",
+        "onboard_time": 1684798824,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173305,
+        "num": 173305,
+        "word": "2元土豆加工成薯塔卖15元",
+        "onboard_time": 1684814668,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170054,
+        "num": 170054,
+        "word": "Jennie戳爷同框合影",
+        "onboard_time": 1684815511,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169453,
+        "num": 169453,
+        "word": "夫妻吵架丈夫举报妻子吸毒",
+        "onboard_time": 1684804107,
+        "rank": 45,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 163010,
+        "num": 163010,
+        "word": "林更新郑嘉颖九年没见了",
+        "onboard_time": 1684804287,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154556,
+        "num": 154556,
+        "word": "汤面4元一碗加面请比心",
+        "onboard_time": 1684802847,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 154372,
+        "num": 154372,
+        "word": "鹿晗和网友踢球旧合照",
+        "onboard_time": 1684813349,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153789,
+        "num": 153789,
+        "word": "香蕉先生不睡觉定档",
+        "onboard_time": 1684810288,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#神舟十六号近日择机发射#"
+    }
+  }
+}
