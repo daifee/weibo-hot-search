@@ -1,6 +1,6 @@
 {
   "startTime": 1684772522563,
-  "endTime": 1684827211701,
+  "endTime": 1684830074288,
   "band_list": [
     {
       "raw_hot": 2735051,
@@ -75,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1609538,
+      "num": 1609538,
+      "word": "兰大回应网传课堂讲授内容不当",
+      "onboard_time": 1684824029,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1600463,
       "num": 1171026,
       "word": "你的女儿其实不是你的女儿",
@@ -123,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1269383,
+      "num": 1269383,
+      "word": "陈楚河曾把脚放在朱珠腿上",
+      "onboard_time": 1684818213,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1250367,
       "num": 1250367,
       "word": "女子把离婚协议发网上遭前公婆毒打",
@@ -163,12 +179,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1139740,
-      "num": 1139740,
-      "word": "陈楚河曾把脚放在朱珠腿上",
-      "onboard_time": 1684818213,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 1133423,
+      "num": 1133423,
+      "word": "网上的言论谢娜都知道",
+      "onboard_time": 1684822050,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1068222,
@@ -185,14 +201,6 @@
       "onboard_time": 1684814369,
       "rank": 16,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1062031,
-      "num": 1062031,
-      "word": "网上的言论谢娜都知道",
-      "onboard_time": 1684822050,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 955128,
@@ -225,6 +233,14 @@
       "onboard_time": 1684802608,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 740395,
+      "num": 740395,
+      "word": "国泰航空暂停有关空服员飞行任务",
+      "onboard_time": 1684825590,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 733499,
@@ -264,14 +280,6 @@
       "word": "近期到底一阳多还是二阳多",
       "onboard_time": 1684805368,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 617839,
-      "num": 617839,
-      "word": "国泰航空暂停有关空服员飞行任务",
-      "onboard_time": 1684825590,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -345,6 +353,14 @@
       "onboard_time": 1684808067,
       "rank": 15,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 527250,
+      "num": 527250,
+      "word": "王俊凯华表奖出发图",
+      "onboard_time": 1684829488,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 523584,
@@ -443,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 464962,
+      "num": 464962,
+      "word": "明星华表奖出发图",
+      "onboard_time": 1684829008,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 463237,
       "num": 463237,
       "word": "iG官宣Cryin加入",
@@ -465,6 +489,14 @@
       "onboard_time": 1684801228,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 455746,
+      "num": 455746,
+      "word": "马思纯晒视频回应瘦回来了",
+      "onboard_time": 1684824207,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 453049,
@@ -515,6 +547,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 416999,
+      "num": 416999,
+      "word": "越南人打工不卷逼疯中国老板",
+      "onboard_time": 1684827807,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401137,
       "num": 401137,
       "word": "护心男主变小三",
@@ -563,6 +603,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374578,
+      "num": 374578,
+      "word": "好看到让我发疯的小说",
+      "onboard_time": 1684823547,
+      "rank": 31,
+      "category": "情感,作品衍生"
+    },
+    {
+      "raw_hot": 373496,
+      "num": 373496,
+      "word": "华表奖座位",
+      "onboard_time": 1684829427,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 363110,
       "num": 363110,
       "word": "王者荣耀宝格丽互关",
@@ -595,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 347179,
+      "num": 347179,
+      "word": "昊也",
+      "onboard_time": 1684828948,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 347078,
       "num": 347078,
       "word": "melo",
@@ -603,19 +667,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 338495,
+      "num": 338495,
+      "word": "泫雅不来武汉音乐节",
+      "onboard_time": 1684828829,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 337606,
       "num": 337606,
       "word": "Jennie戳爷同框合影",
       "onboard_time": 1684815511,
       "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 336359,
-      "num": 336359,
-      "word": "马思纯晒视频回应瘦回来了",
-      "onboard_time": 1684824207,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -771,14 +835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268013,
-      "num": 268013,
-      "word": "好看到让我发疯的小说",
-      "onboard_time": 1684823547,
-      "rank": 31,
-      "category": "情感,作品衍生"
-    },
-    {
       "raw_hot": 267942,
       "num": 267942,
       "word": "詹姆斯单节21分",
@@ -793,6 +849,14 @@
       "onboard_time": 1684821690,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 263776,
+      "num": 263776,
+      "word": "护心扫楼",
+      "onboard_time": 1684828289,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 262661,
@@ -867,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234178,
+      "num": 234178,
+      "word": "谢可寅一眼认出虞书欣童年照",
+      "onboard_time": 1684826069,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228260,
       "num": 228260,
       "word": "蒜蓉香蕉",
@@ -937,6 +1009,14 @@
       "onboard_time": 1684815211,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219500,
+      "num": 200142,
+      "word": "Lisa的一周有多忙",
+      "onboard_time": 1684826669,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 218143,
@@ -1075,14 +1155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200142,
-      "num": 200142,
-      "word": "Lisa的一周有多忙",
-      "onboard_time": 1684826669,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 197044,
       "num": 197044,
       "word": "上学时买过如今却消失的东西",
@@ -1091,12 +1163,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 195549,
-      "num": 194187,
-      "word": "谢可寅一眼认出虞书欣童年照",
-      "onboard_time": 1684826069,
-      "rank": 47,
-      "category": "艺人"
+      "raw_hot": 196429,
+      "num": 196429,
+      "word": "新冠感染情况问卷调查",
+      "onboard_time": 1684825109,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194980,
@@ -1137,6 +1209,14 @@
       "onboard_time": 1684764031,
       "rank": 29,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 189098,
+      "num": 189098,
+      "word": "你姓氏中最有名的人是谁",
+      "onboard_time": 1684827029,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 187771,
@@ -1203,14 +1283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179756,
-      "num": 179756,
-      "word": "新冠感染情况问卷调查",
-      "onboard_time": 1684825109,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179452,
       "num": 179452,
       "word": "00后女生追星季羡林保送北大成校友",
@@ -1251,6 +1323,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 173035,
+      "num": 173035,
+      "word": "刘诗诗戛纳拍摄路透",
+      "onboard_time": 1684829188,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 172522,
       "num": 143899,
       "word": "周冬雨的卧蚕",
@@ -1265,6 +1345,14 @@
       "onboard_time": 1684748489,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 171872,
+      "num": 267563,
+      "word": "李佳琦说主播不能一直吃老本",
+      "onboard_time": 1684823729,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 171669,
@@ -1387,11 +1475,35 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 154085,
+      "num": 154085,
+      "word": "陈雨菲说不在乎被骂",
+      "onboard_time": 1684828528,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151428,
       "num": 151428,
       "word": "男子43年专做点心成非遗传承人",
       "onboard_time": 1684804166,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150097,
+      "num": 150097,
+      "word": "薛之谦演唱会吸阳气",
+      "onboard_time": 1684829909,
+      "rank": 42,
+      "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 150073,
+      "num": 150073,
+      "word": "杭州东站停电",
+      "onboard_time": 1684829847,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1403,12 +1515,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147871,
+      "num": 147871,
+      "word": "猫因生病被剃掉了身体中段的毛",
+      "onboard_time": 1684823669,
+      "rank": 44,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 147581,
       "num": 147581,
       "word": "男朋友送过让你记忆犹新的礼物",
       "onboard_time": 1684810950,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145839,
+      "num": 145839,
+      "word": "女子打耳洞8年后疤痕增生如大拇指",
+      "onboard_time": 1684830028,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145583,
@@ -1449,14 +1577,6 @@
       "onboard_time": 1684752627,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137040,
-      "num": 137040,
-      "word": "你姓氏中最有名的人是谁",
-      "onboard_time": 1684827029,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 136765,
@@ -1651,14 +1771,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 88827,
-      "num": 267563,
-      "word": "李佳琦说主播不能一直吃老本",
-      "onboard_time": 1684823729,
-      "rank": 26,
-      "category": "网红"
-    },
-    {
       "raw_hot": 83587,
       "num": 135362,
       "word": "雨后西湖再现鱼跃龙门",
@@ -1731,6 +1843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 50389,
+      "num": 1171306,
+      "word": "珍惜我们的共同家园",
+      "onboard_time": 1684825948,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47000,
       "num": 132203,
       "word": "牛奶大馒头做法",
@@ -1745,14 +1865,6 @@
       "onboard_time": 1684787232,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 43816,
-      "num": 1171306,
-      "word": "珍惜我们的共同家园",
-      "onboard_time": 1684825948,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40523,
