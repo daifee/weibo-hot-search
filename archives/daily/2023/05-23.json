@@ -1,6 +1,6 @@
 {
   "startTime": 1684772522563,
-  "endTime": 1684838025405,
+  "endTime": 1684840460617,
   "band_list": [
     {
       "raw_hot": 3287232,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1270803,
+      "num": 1270803,
+      "word": "沈腾瘦了好多",
+      "onboard_time": 1684837771,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1269383,
       "num": 1269383,
       "word": "陈楚河曾把脚放在朱珠腿上",
@@ -203,12 +211,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1244012,
+      "num": 1244012,
+      "word": "王俊凯易烊千玺隔了一个银河",
+      "onboard_time": 1684836930,
+      "rank": 27,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 1235231,
       "num": 1235231,
       "word": "巧乐兹夫妇再回应",
       "onboard_time": 1684810528,
       "rank": 6,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1227943,
+      "num": 1227943,
+      "word": "王一博裤子到底怎么了",
+      "onboard_time": 1684840111,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1198559,
@@ -275,6 +299,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1005321,
+      "num": 1005321,
+      "word": "应采儿的大儿子",
+      "onboard_time": 1684837650,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 955128,
       "num": 955128,
       "word": "范丞丞工作室为粉丝垫付了2000张门票",
@@ -297,6 +329,14 @@
       "onboard_time": 1684814191,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 844317,
+      "num": 844317,
+      "word": "刘晓庆 惠英红会不会和倪大红结婚",
+      "onboard_time": 1684837292,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 841668,
@@ -403,6 +443,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 613372,
+      "num": 613372,
+      "word": "华表奖怼脸生图",
+      "onboard_time": 1684837650,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 607372,
       "num": 431588,
       "word": "女生在晚上一定要远离工地",
@@ -473,14 +521,6 @@
       "onboard_time": 1684808067,
       "rank": 15,
       "category": "影视,时尚"
-    },
-    {
-      "raw_hot": 544983,
-      "num": 544983,
-      "word": "刘晓庆 惠英红会不会和倪大红结婚",
-      "onboard_time": 1684837292,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 529680,
@@ -627,6 +667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 460628,
+      "num": 296337,
+      "word": "易烊千玺X3",
+      "onboard_time": 1684839331,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 456552,
       "num": 456552,
       "word": "朱一龙无法出席华表奖颁奖典礼",
@@ -651,11 +699,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 448446,
-      "num": 448446,
-      "word": "华表奖怼脸生图",
-      "onboard_time": 1684837650,
-      "rank": 19,
+      "raw_hot": 440856,
+      "num": 292025,
+      "word": "景甜 明艳大方",
+      "onboard_time": 1684839692,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -715,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391261,
+      "num": 338111,
+      "word": "张艺凡腿好长",
+      "onboard_time": 1684837410,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 390660,
       "num": 390660,
       "word": "赵丽颖清唱知否知否",
@@ -731,20 +787,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 383890,
-      "num": 338111,
-      "word": "张艺凡腿好长",
-      "onboard_time": 1684837410,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 380753,
       "num": 380753,
       "word": "邓超走红毯跟上春晚一样好笑",
       "onboard_time": 1684835068,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 378015,
+      "num": 283787,
+      "word": "易烊千玺今晚可能有体育课",
+      "onboard_time": 1684837892,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 377798,
@@ -795,14 +851,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 357666,
-      "num": 338043,
-      "word": "王俊凯易烊千玺隔了一个银河",
-      "onboard_time": 1684836930,
-      "rank": 27,
-      "category": "作品衍生,幽默"
-    },
-    {
       "raw_hot": 349516,
       "num": 349516,
       "word": "考研失败改变了我的性格",
@@ -835,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 343714,
+      "num": 326648,
+      "word": "一万块可以花多久",
+      "onboard_time": 1684836090,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 338682,
       "num": 338682,
       "word": "王楚钦4比1户上隼辅",
@@ -865,14 +921,6 @@
       "onboard_time": 1684836813,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 326648,
-      "num": 326648,
-      "word": "一万块可以花多久",
-      "onboard_time": 1684836090,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 325789,
@@ -939,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 309927,
+      "num": 2900631,
+      "word": "排队过马路的小鸭子好可爱",
+      "onboard_time": 1684835430,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308917,
       "num": 266061,
       "word": "易烊千玺或将开三场演唱会",
@@ -953,14 +1009,6 @@
       "onboard_time": 1684812868,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 307517,
-      "num": 2900631,
-      "word": "排队过马路的小鸭子好可爱",
-      "onboard_time": 1684835430,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 304546,
@@ -1019,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287460,
+      "num": 2244861,
+      "word": "大宝羡慕爸爸和二宝举高高",
+      "onboard_time": 1684835489,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286841,
       "num": 286841,
       "word": "网传徐怀钰三公进步大",
@@ -1059,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 276551,
+      "num": 204330,
+      "word": "张译又来指挥红毯了",
+      "onboard_time": 1684839331,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 274835,
       "num": 240047,
       "word": "粉丝对winter竖中指的原因",
@@ -1089,14 +1153,6 @@
       "onboard_time": 1684801890,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 270677,
-      "num": 141282,
-      "word": "应采儿的大儿子",
-      "onboard_time": 1684837650,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 270427,
@@ -1179,14 +1235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 246056,
-      "num": 2244861,
-      "word": "大宝羡慕爸爸和二宝举高高",
-      "onboard_time": 1684835489,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244735,
       "num": 244735,
       "word": "林俊杰演唱会",
@@ -1220,7 +1268,7 @@
     },
     {
       "raw_hot": 241496,
-      "num": 171892,
+      "num": 195320,
       "word": "瘦了的彭昱畅好帅啊",
       "onboard_time": 1684836870,
       "rank": 40,
@@ -1233,6 +1281,14 @@
       "onboard_time": 1684823309,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 239071,
+      "num": 196434,
+      "word": "黄晓明一口气吃了四碗方便面",
+      "onboard_time": 1684840351,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 235037,
@@ -1395,14 +1451,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 215541,
-      "num": 137006,
-      "word": "易烊千玺今晚可能有体育课",
-      "onboard_time": 1684837892,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 215182,
       "num": 197393,
       "word": "尤长靖演唱会",
@@ -1465,6 +1513,22 @@
       "onboard_time": 1684824087,
       "rank": 32,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 204469,
+      "num": 204469,
+      "word": "广东人穿洞洞鞋要小心",
+      "onboard_time": 1684837472,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203367,
+      "num": 203367,
+      "word": "Doinb办B际赛",
+      "onboard_time": 1684838791,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 202265,
@@ -1900,7 +1964,7 @@
     },
     {
       "raw_hot": 136908,
-      "num": 136908,
+      "num": 194261,
       "word": "饭搭子离职比失恋还难受",
       "onboard_time": 1684837410,
       "rank": 47,
@@ -1979,14 +2043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 129529,
-      "num": 136730,
-      "word": "广东人穿洞洞鞋要小心",
-      "onboard_time": 1684837472,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 128032,
       "num": 217172,
       "word": "手机镜头下的民族写真",
@@ -2041,6 +2097,22 @@
       "onboard_time": 1684759768,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 112448,
+      "num": 194012,
+      "word": "阿里云被曝裁员",
+      "onboard_time": 1684840051,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 110559,
+      "num": 193396,
+      "word": "小慧君诬告案的影响",
+      "onboard_time": 1684839029,
+      "rank": 49,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 109068,
@@ -2113,6 +2185,14 @@
       "onboard_time": 1684772964,
       "rank": 45,
       "category": "网红"
+    },
+    {
+      "raw_hot": 87707,
+      "num": 302358,
+      "word": "电车痛点被拿捏住了",
+      "onboard_time": 1684838312,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83587,
@@ -2193,6 +2273,14 @@
       "onboard_time": 1684775538,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 51553,
+      "num": 195651,
+      "word": "AG男团是什么团",
+      "onboard_time": 1684839810,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 50389,

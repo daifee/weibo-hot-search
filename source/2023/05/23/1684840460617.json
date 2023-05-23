@@ -1,0 +1,410 @@
+{
+  "runTime": 1684840460617,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2771894,
+        "num": 2771894,
+        "word": "杨洋baby 肖奈贝微微",
+        "onboard_time": 1684836030,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 309927,
+        "num": 2698340,
+        "word": "排队过马路的小鸭子好可爱",
+        "onboard_time": 1684835430,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29859,
+        "num": 2689767,
+        "word": "珍惜我们的共同家园",
+        "onboard_time": 1684825948,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2683889,
+        "num": 2683889,
+        "word": "3名强奸未成年人罪犯被执行死刑",
+        "onboard_time": 1684835068,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 287460,
+        "num": 1729043,
+        "word": "大宝羡慕爸爸和二宝举高高",
+        "onboard_time": 1684835489,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1289344,
+        "num": 1289344,
+        "word": "南宁市市长鞠躬道歉",
+        "onboard_time": 1684832489,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156260,
+        "num": 1276691,
+        "word": "女子晾晒满地麦子将遇暴雨邻居帮收",
+        "onboard_time": 1684835430,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1270803,
+        "num": 1270803,
+        "word": "沈腾瘦了好多",
+        "onboard_time": 1684837771,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1244012,
+        "num": 1244012,
+        "word": "王俊凯易烊千玺隔了一个银河",
+        "onboard_time": 1684836930,
+        "rank": 8,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 1227943,
+        "num": 1227943,
+        "word": "王一博裤子到底怎么了",
+        "onboard_time": 1684840111,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1005321,
+        "num": 1005321,
+        "word": "应采儿的大儿子",
+        "onboard_time": 1684837650,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 844317,
+        "num": 844317,
+        "word": "刘晓庆 惠英红会不会和倪大红结婚",
+        "onboard_time": 1684837292,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 778995,
+        "num": 778995,
+        "word": "华表奖红毯",
+        "onboard_time": 1684832430,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 738839,
+        "num": 738839,
+        "word": "多位苹果用户收到涉黄短信",
+        "onboard_time": 1684832008,
+        "rank": 13,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 707192,
+        "num": 707192,
+        "word": "易烊千玺中山装",
+        "onboard_time": 1684835309,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 658670,
+        "num": 658670,
+        "word": "孙艺珍玄彬卖别墅赚了18亿",
+        "onboard_time": 1684830387,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 640307,
+        "num": 640307,
+        "word": "猫因生病被剃掉了身体中段的毛",
+        "onboard_time": 1684823669,
+        "rank": 16,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 613372,
+        "num": 613372,
+        "word": "华表奖怼脸生图",
+        "onboard_time": 1684837650,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 547360,
+        "num": 547360,
+        "word": "教师体罚学生被开除44名家长挽留",
+        "onboard_time": 1684822527,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 302831,
+        "num": 302831,
+        "word": "越南人打工不卷逼疯中国老板",
+        "onboard_time": 1684827807,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87707,
+        "num": 302358,
+        "word": "电车痛点被拿捏住了",
+        "onboard_time": 1684838312,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524533,
+        "num": 300215,
+        "word": "马思纯晒视频回应瘦回来了",
+        "onboard_time": 1684824207,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481245,
+        "num": 299223,
+        "word": "你接受上4休3收入降5分之1吗",
+        "onboard_time": 1684833990,
+        "rank": 22,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 460628,
+        "num": 296337,
+        "word": "易烊千玺X3",
+        "onboard_time": 1684839331,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 343714,
+        "num": 294676,
+        "word": "一万块可以花多久",
+        "onboard_time": 1684836090,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 445911,
+        "num": 294350,
+        "word": "陈都灵黑白折扇裙",
+        "onboard_time": 1684835669,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 440856,
+        "num": 292025,
+        "word": "景甜 明艳大方",
+        "onboard_time": 1684839692,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 418934,
+        "num": 290687,
+        "word": "黄奕带小燕子来华表奖",
+        "onboard_time": 1684834468,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 391261,
+        "num": 288643,
+        "word": "张艺凡腿好长",
+        "onboard_time": 1684837410,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287690,
+        "num": 287690,
+        "word": "詹姆斯 退役",
+        "onboard_time": 1684819469,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 378015,
+        "num": 283787,
+        "word": "易烊千玺今晚可能有体育课",
+        "onboard_time": 1684837892,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 330184,
+        "num": 283633,
+        "word": "明星华表奖出发图",
+        "onboard_time": 1684829008,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 271289,
+        "num": 271289,
+        "word": "最不推荐选的大学专业",
+        "onboard_time": 1684834828,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219315,
+        "num": 219315,
+        "word": "国泰航空暂停有关空服员飞行任务",
+        "onboard_time": 1684825590,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204469,
+        "num": 204469,
+        "word": "广东人穿洞洞鞋要小心",
+        "onboard_time": 1684837472,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284666,
+        "num": 204332,
+        "word": "彭昱畅C位恐惧症",
+        "onboard_time": 1684835309,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 276551,
+        "num": 204330,
+        "word": "张译又来指挥红毯了",
+        "onboard_time": 1684839331,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203367,
+        "num": 203367,
+        "word": "Doinb办B际赛",
+        "onboard_time": 1684838791,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198264,
+        "num": 198264,
+        "word": "Uzi要去干什么",
+        "onboard_time": 1684834171,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130080,
+        "num": 197969,
+        "word": "好看到让我发疯的小说",
+        "onboard_time": 1684823547,
+        "rank": 39,
+        "category": "情感,作品衍生"
+      },
+      {
+        "raw_hot": 266890,
+        "num": 197575,
+        "word": "张子枫戴了安然的手链",
+        "onboard_time": 1684836690,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 243200,
+        "num": 196965,
+        "word": "王一博暗纹西装",
+        "onboard_time": 1684835910,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239277,
+        "num": 196541,
+        "word": "外媒评龚俊戛纳红毯为最佳着装",
+        "onboard_time": 1684832247,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239071,
+        "num": 196434,
+        "word": "黄晓明一口气吃了四碗方便面",
+        "onboard_time": 1684840351,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51553,
+        "num": 195651,
+        "word": "AG男团是什么团",
+        "onboard_time": 1684839810,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213273,
+        "num": 195320,
+        "word": "瘦了的彭昱畅好帅啊",
+        "onboard_time": 1684836870,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207263,
+        "num": 194767,
+        "word": "网上的言论谢娜都知道",
+        "onboard_time": 1684822050,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124277,
+        "num": 194261,
+        "word": "饭搭子离职比失恋还难受",
+        "onboard_time": 1684837410,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112448,
+        "num": 194012,
+        "word": "阿里云被曝裁员",
+        "onboard_time": 1684840051,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 110559,
+        "num": 193396,
+        "word": "小慧君诬告案的影响",
+        "onboard_time": 1684839029,
+        "rank": 49,
+        "category": "社会新闻,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#神舟十六号近日择机发射#"
+    }
+  }
+}
