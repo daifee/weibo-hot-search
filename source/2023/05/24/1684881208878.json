@@ -1,0 +1,410 @@
+{
+  "runTime": 1684881208878,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 564440,
+        "num": 564440,
+        "word": "谁来救救江疏影",
+        "onboard_time": 1684849472,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 501813,
+        "num": 501813,
+        "word": "刘浩存仪态",
+        "onboard_time": 1684855472,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22146,
+        "num": 412850,
+        "word": "五星红旗又一次在珠峰之巅飘扬",
+        "onboard_time": 1684847914,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381593,
+        "num": 381593,
+        "word": "国泰航空3名歧视乘客空乘被解聘",
+        "onboard_time": 1684850917,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331149,
+        "num": 331149,
+        "word": "易烊千玺听到刘烨获奖的表情",
+        "onboard_time": 1684856132,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252373,
+        "num": 252373,
+        "word": "张译发言 陈凯歌表情",
+        "onboard_time": 1684853496,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222181,
+        "num": 222181,
+        "word": "老人报警丢失8000元民警找出1万8",
+        "onboard_time": 1684858888,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187620,
+        "num": 187620,
+        "word": "华表奖获奖名单",
+        "onboard_time": 1684847251,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128302,
+        "num": 128302,
+        "word": "3名强奸未成年人罪犯被执行死刑",
+        "onboard_time": 1684835068,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 127015,
+        "num": 127015,
+        "word": "你接受上4休3收入降5分之1吗",
+        "onboard_time": 1684833990,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 190384,
+        "num": 126973,
+        "word": "王一博裤子到底怎么了",
+        "onboard_time": 1684840111,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183544,
+        "num": 126283,
+        "word": "刘烨分了一把瓜子给易烊千玺",
+        "onboard_time": 1684853317,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145373,
+        "num": 125488,
+        "word": "张子枫华表奖最年轻影后",
+        "onboard_time": 1684853674,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123183,
+        "num": 123183,
+        "word": "专家称鼓励生育政策还有优化空间",
+        "onboard_time": 1684875672,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118491,
+        "num": 118491,
+        "word": "多地妇产医院今年分娩量下降",
+        "onboard_time": 1684849177,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123190,
+        "num": 116818,
+        "word": "陈赫憋笑",
+        "onboard_time": 1684856852,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114147,
+        "num": 114147,
+        "word": "山西失联20天的11岁男孩已身亡",
+        "onboard_time": 1684847251,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100925,
+        "num": 100925,
+        "word": "黄晓明一口气吃了四碗方便面",
+        "onboard_time": 1684840351,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100327,
+        "num": 100327,
+        "word": "退钱哥吐槽国泰航空空乘听不懂中文",
+        "onboard_time": 1684854395,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98710,
+        "num": 98710,
+        "word": "杨洋baby 肖奈贝微微",
+        "onboard_time": 1684836030,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173053,
+        "num": 97523,
+        "word": "离职两个月了工资还一直在发",
+        "onboard_time": 1684853496,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95573,
+        "num": 95573,
+        "word": "警员将旧户口簿盖作废章留给孙女作纪念",
+        "onboard_time": 1684861224,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93035,
+        "num": 93035,
+        "word": "新娘婚礼当天被50斤苗服压哭",
+        "onboard_time": 1684850436,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83472,
+        "num": 83472,
+        "word": "胸不应该成为嘲笑我的把柄",
+        "onboard_time": 1684861579,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61300,
+        "num": 61300,
+        "word": "多名乘客讲述乘坐国泰航空经历",
+        "onboard_time": 1684847612,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60660,
+        "num": 60660,
+        "word": "国泰航空爆料人发声",
+        "onboard_time": 1684867333,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59293,
+        "num": 59293,
+        "word": "巧乐兹夫妇商业版图盘点",
+        "onboard_time": 1684858349,
+        "rank": 26,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 59265,
+        "num": 59265,
+        "word": "导演回应向往的生活最后一季",
+        "onboard_time": 1684864156,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53668,
+        "num": 53668,
+        "word": "易烊千玺王俊凯同框",
+        "onboard_time": 1684850977,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53371,
+        "num": 53371,
+        "word": "龚俊回复洪晃",
+        "onboard_time": 1684847793,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89828,
+        "num": 53365,
+        "word": "工作人员说陈都灵比白鹿好看",
+        "onboard_time": 1684842330,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53312,
+        "num": 53312,
+        "word": "张子枫华表奖优秀女演员",
+        "onboard_time": 1684846651,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 48877,
+        "num": 48877,
+        "word": "王一博刘浩存同框照",
+        "onboard_time": 1684847914,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 48076,
+        "num": 48076,
+        "word": "金珉奎签售",
+        "onboard_time": 1684853674,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47339,
+        "num": 47866,
+        "word": "我坚持买彩票的原因",
+        "onboard_time": 1684852418,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47845,
+        "num": 47845,
+        "word": "张婧仪Lisa金泰亨朴宝剑同框",
+        "onboard_time": 1684848454,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47486,
+        "num": 47486,
+        "word": "李承铉真没把我们当外人",
+        "onboard_time": 1684857930,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45886,
+        "num": 45886,
+        "word": "分手时什么话对女生伤害最大",
+        "onboard_time": 1684847014,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44001,
+        "num": 44001,
+        "word": "张译 颂文哥呢",
+        "onboard_time": 1684843650,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42067,
+        "num": 42067,
+        "word": "食人族都吃不了打工人的苦",
+        "onboard_time": 1684854577,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43243,
+        "num": 40356,
+        "word": "邓超 显眼包",
+        "onboard_time": 1684853795,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38627,
+        "num": 38627,
+        "word": "华表奖",
+        "onboard_time": 1684842511,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36817,
+        "num": 36817,
+        "word": "国泰航空",
+        "onboard_time": 1684851817,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32913,
+        "num": 32913,
+        "word": "小偷听了都觉得好丟人",
+        "onboard_time": 1684843230,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31005,
+        "num": 32913,
+        "word": "华表奖怼脸生图",
+        "onboard_time": 1684837650,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29544,
+        "num": 32913,
+        "word": "国泰航空致歉",
+        "onboard_time": 1684797020,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29310,
+        "num": 32913,
+        "word": "湘北猫德学院",
+        "onboard_time": 1684848573,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 28314,
+        "num": 32912,
+        "word": "苏州一商场儿童推车中英文收费不同",
+        "onboard_time": 1684880776,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28205,
+        "num": 32912,
+        "word": "淄博烧烤摊主开始卷横幅了",
+        "onboard_time": 1684841729,
+        "rank": 48,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 19713,
+        "num": 32912,
+        "word": "Doinb办B际赛",
+        "onboard_time": 1684838791,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力打造国家级乃至世界级艺术殿堂#"
+    }
+  }
+}

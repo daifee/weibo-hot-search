@@ -1,6 +1,6 @@
 {
   "startTime": 1684858934935,
-  "endTime": 1684880163376,
+  "endTime": 1684881208878,
   "band_list": [
     {
       "raw_hot": 1590457,
@@ -363,6 +363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123183,
+      "num": 123183,
+      "word": "专家称鼓励生育政策还有优化空间",
+      "onboard_time": 1684875672,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118917,
       "num": 118917,
       "word": "爱奇艺",
@@ -395,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95573,
+      "num": 95573,
+      "word": "警员将旧户口簿盖作废章留给孙女作纪念",
+      "onboard_time": 1684861224,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78338,
       "num": 78338,
       "word": "应采儿的大儿子",
@@ -403,28 +419,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71965,
-      "num": 71965,
-      "word": "警员将旧户口簿盖作废章留给孙女作纪念",
-      "onboard_time": 1684861224,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 71774,
       "num": 114512,
       "word": "淄博烧烤摊主开始卷横幅了",
       "onboard_time": 1684841729,
       "rank": 48,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 70074,
-      "num": 70074,
-      "word": "专家称鼓励生育政策还有优化空间",
-      "onboard_time": 1684875672,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67487,
@@ -444,11 +444,19 @@
     },
     {
       "raw_hot": 62639,
-      "num": 48073,
+      "num": 59265,
       "word": "导演回应向往的生活最后一季",
       "onboard_time": 1684864156,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 60660,
+      "num": 60660,
+      "word": "国泰航空爆料人发声",
+      "onboard_time": 1684867333,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59061,
@@ -456,14 +464,6 @@
       "word": "丹顶鹤敲车门乘客邀请它吃早餐",
       "onboard_time": 1684859007,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46749,
-      "num": 37314,
-      "word": "国泰航空爆料人发声",
-      "onboard_time": 1684867333,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38627,
+      "num": 38627,
+      "word": "华表奖",
+      "onboard_time": 1684842511,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 34909,
       "num": 36648,
       "word": "国泰航空致歉",
@@ -483,20 +491,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32872,
-      "num": 33229,
-      "word": "华表奖",
-      "onboard_time": 1684842511,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 32621,
       "num": 32621,
       "word": "刚结婚的粉丝对木子洋说的话",
       "onboard_time": 1684866794,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 31005,
+      "num": 33225,
+      "word": "华表奖怼脸生图",
+      "onboard_time": 1684837650,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 29942,
@@ -515,20 +523,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28314,
+      "num": 32912,
+      "word": "苏州一商场儿童推车中英文收费不同",
+      "onboard_time": 1684880776,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27461,
       "num": 1094172,
       "word": "五星红旗又一次在珠峰之巅飘扬",
       "onboard_time": 1684847914,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26596,
-      "num": 33225,
-      "word": "华表奖怼脸生图",
-      "onboard_time": 1684837650,
-      "rank": 42,
-      "category": "影视"
     }
   ],
   "hotgov_list": [
