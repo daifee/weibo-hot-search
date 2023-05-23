@@ -1,7 +1,15 @@
 {
   "startTime": 1684772522563,
-  "endTime": 1684816410070,
+  "endTime": 1684818969203,
   "band_list": [
+    {
+      "raw_hot": 2735051,
+      "num": 2735051,
+      "word": "谢谢小狗",
+      "onboard_time": 1684808609,
+      "rank": 25,
+      "category": "幽默,情感"
+    },
     {
       "raw_hot": 2585058,
       "num": 1226810,
@@ -59,14 +67,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1594588,
-      "num": 1594588,
-      "word": "谢谢小狗",
-      "onboard_time": 1684808609,
-      "rank": 25,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 1379207,
       "num": 381740,
       "word": "黄瑞恩罗颖分手",
@@ -99,12 +99,28 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1195623,
+      "num": 1195623,
+      "word": "女子把离婚协议发网上遭前公婆毒打",
+      "onboard_time": 1684814910,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1188389,
       "num": 1188389,
       "word": "一年不上班的真实感受",
       "onboard_time": 1684810347,
       "rank": 4,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1180836,
+      "num": 1180836,
+      "word": "没认出来Lisa",
+      "onboard_time": 1684815932,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1143736,
@@ -121,6 +137,14 @@
       "onboard_time": 1684811489,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1065585,
+      "num": 1065585,
+      "word": "韩媒称韩国加入G7后G8可替代联合国",
+      "onboard_time": 1684814369,
+      "rank": 16,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 902292,
@@ -145,14 +169,6 @@
       "onboard_time": 1684802608,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 738597,
-      "num": 738597,
-      "word": "韩媒称韩国加入G7后G8可替代联合国",
-      "onboard_time": 1684814369,
-      "rank": 16,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 695511,
@@ -243,14 +259,6 @@
       "category": "影视,时尚"
     },
     {
-      "raw_hot": 543197,
-      "num": 543197,
-      "word": "女子把离婚协议发网上遭前公婆毒打",
-      "onboard_time": 1684814910,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 523584,
       "num": 523584,
       "word": "RNG官宣Ming离队",
@@ -289,6 +297,22 @@
       "onboard_time": 1684808489,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 495366,
+      "num": 495366,
+      "word": "孙燕姿回应AI孙燕姿",
+      "onboard_time": 1684815273,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 491621,
+      "num": 491621,
+      "word": "陈楚河曾把脚放在朱珠腿上",
+      "onboard_time": 1684818213,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 487722,
@@ -347,12 +371,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 444001,
-      "num": 444001,
-      "word": "孙燕姿回应AI孙燕姿",
-      "onboard_time": 1684815273,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 450021,
+      "num": 372091,
+      "word": "杨超越把玫瑰穿在身上了",
+      "onboard_time": 1684817013,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 434110,
+      "num": 371240,
+      "word": "原来肠道细菌可以影响颜值",
+      "onboard_time": 1684815812,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 433058,
@@ -377,6 +409,14 @@
       "onboard_time": 1684804107,
       "rank": 21,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 418021,
+      "num": 418021,
+      "word": "范丞丞工作室为粉丝垫付了2000张门票",
+      "onboard_time": 1684818154,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 401137,
@@ -419,6 +459,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375541,
+      "num": 375541,
+      "word": "2元土豆加工成薯塔卖15元",
+      "onboard_time": 1684814668,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 368459,
+      "num": 368459,
+      "word": "刘宪华回应当初退出向往的生活",
+      "onboard_time": 1684818512,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 363110,
       "num": 363110,
       "word": "王者荣耀宝格丽互关",
@@ -432,6 +488,14 @@
       "word": "治疗内耗就是四个字",
       "onboard_time": 1684812209,
       "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 349516,
+      "num": 349516,
+      "word": "考研失败改变了我的性格",
+      "onboard_time": 1684816954,
+      "rank": 24,
       "category": "情感"
     },
     {
@@ -473,14 +537,6 @@
       "onboard_time": 1684763491,
       "rank": 30,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 322935,
-      "num": 322935,
-      "word": "原来肠道细菌可以影响颜值",
-      "onboard_time": 1684815812,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 318118,
@@ -547,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 291608,
+      "num": 291608,
+      "word": "美依礼芽拍了很久的写真",
+      "onboard_time": 1684816231,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 290111,
       "num": 290111,
       "word": "8年间多次猥亵幼女男子登报道歉",
@@ -563,20 +627,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285240,
+      "num": 285240,
+      "word": "魏哲鸣摇号9年都没成功",
+      "onboard_time": 1684816954,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 284600,
       "num": 284600,
       "word": "你猜这花为什么不发朋友圈",
       "onboard_time": 1684762051,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 281756,
-      "num": 281756,
-      "word": "没认出来Lisa",
-      "onboard_time": 1684815932,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 272958,
@@ -601,14 +665,6 @@
       "onboard_time": 1684805486,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 264124,
-      "num": 264124,
-      "word": "2元土豆加工成薯塔卖15元",
-      "onboard_time": 1684814668,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262661,
@@ -651,6 +707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 243666,
+      "num": 243666,
+      "word": "成都半月内4人误食这种野菜中毒",
+      "onboard_time": 1684817793,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242674,
       "num": 242674,
       "word": "湖人被横扫出局",
@@ -689,6 +753,14 @@
       "onboard_time": 1684805550,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225361,
+      "num": 225361,
+      "word": "文俊辉南京",
+      "onboard_time": 1684817914,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 224720,
@@ -779,12 +851,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211980,
+      "num": 187026,
+      "word": "Irene出发巴黎机场图",
+      "onboard_time": 1684817672,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 209476,
       "num": 209476,
       "word": "陈都灵高清怼脸拍",
       "onboard_time": 1684809388,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205640,
+      "num": 205640,
+      "word": "18年RNG全员离队",
+      "onboard_time": 1684817073,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 202265,
@@ -851,6 +939,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 187771,
+      "num": 549791,
+      "word": "全网寻找跪地救人兵哥哥",
+      "onboard_time": 1684815812,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187354,
       "num": 153440,
       "word": "招摇2.0",
@@ -875,6 +971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183009,
+      "num": 183009,
+      "word": "李沁回眸",
+      "onboard_time": 1684814791,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 182109,
       "num": 182109,
       "word": "学校管理制度化和人性化哪个更重要",
@@ -883,12 +987,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 179825,
+      "num": 179825,
+      "word": "沈月是来嗑cp的吧",
+      "onboard_time": 1684818751,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179452,
       "num": 179452,
       "word": "00后女生追星季羡林保送北大成校友",
       "onboard_time": 1684812331,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178100,
+      "num": 178100,
+      "word": "八旬退休教师免费为全村理发23年",
+      "onboard_time": 1684818573,
+      "rank": 46,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 174384,
@@ -1281,14 +1401,6 @@
       "onboard_time": 1684776196,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 68232,
-      "num": 549791,
-      "word": "全网寻找跪地救人兵哥哥",
-      "onboard_time": 1684815812,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66651,

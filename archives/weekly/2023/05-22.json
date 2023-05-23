@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684816410070,
+  "endTime": 1684818969203,
   "band_list": [
     {
       "raw_hot": 3295424,
@@ -41,6 +41,14 @@
       "onboard_time": 1684722387,
       "rank": 27,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 2735051,
+      "num": 2735051,
+      "word": "谢谢小狗",
+      "onboard_time": 1684808609,
+      "rank": 25,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 2717790,
@@ -153,14 +161,6 @@
       "onboard_time": 1684726949,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1594588,
-      "num": 1594588,
-      "word": "谢谢小狗",
-      "onboard_time": 1684808609,
-      "rank": 25,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 1564643,
@@ -283,12 +283,28 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1195623,
+      "num": 1195623,
+      "word": "女子把离婚协议发网上遭前公婆毒打",
+      "onboard_time": 1684814910,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1188389,
       "num": 1188389,
       "word": "一年不上班的真实感受",
       "onboard_time": 1684810347,
       "rank": 4,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1180836,
+      "num": 1180836,
+      "word": "没认出来Lisa",
+      "onboard_time": 1684815932,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1179784,
@@ -337,6 +353,14 @@
       "onboard_time": 1684811489,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1065585,
+      "num": 1065585,
+      "word": "韩媒称韩国加入G7后G8可替代联合国",
+      "onboard_time": 1684814369,
+      "rank": 16,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1064909,
@@ -537,14 +561,6 @@
       "onboard_time": 1684758209,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 738597,
-      "num": 738597,
-      "word": "韩媒称韩国加入G7后G8可替代联合国",
-      "onboard_time": 1684814369,
-      "rank": 16,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 735582,
@@ -827,14 +843,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 543197,
-      "num": 543197,
-      "word": "女子把离婚协议发网上遭前公婆毒打",
-      "onboard_time": 1684814910,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 523584,
       "num": 523584,
       "word": "RNG官宣Ming离队",
@@ -907,11 +915,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 495366,
+      "num": 495366,
+      "word": "孙燕姿回应AI孙燕姿",
+      "onboard_time": 1684815273,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 494593,
       "num": 494593,
       "word": "怦然3官宣",
       "onboard_time": 1684752989,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 491621,
+      "num": 491621,
+      "word": "陈楚河曾把脚放在朱珠腿上",
+      "onboard_time": 1684818213,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -1059,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 450021,
+      "num": 372091,
+      "word": "杨超越把玫瑰穿在身上了",
+      "onboard_time": 1684817013,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 449764,
       "num": 449764,
       "word": "孩子被救出后哭喊还有我爷爷",
@@ -1089,14 +1121,6 @@
       "onboard_time": 1684742670,
       "rank": 15,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 444001,
-      "num": 444001,
-      "word": "孙燕姿回应AI孙燕姿",
-      "onboard_time": 1684815273,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 443780,
@@ -1131,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 434110,
+      "num": 371240,
+      "word": "原来肠道细菌可以影响颜值",
+      "onboard_time": 1684815812,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 433058,
       "num": 433058,
       "word": "詹姆斯拼了",
@@ -1161,6 +1193,14 @@
       "onboard_time": 1684758327,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 418021,
+      "num": 418021,
+      "word": "范丞丞工作室为粉丝垫付了2000张门票",
+      "onboard_time": 1684818154,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 415378,
@@ -1275,12 +1315,28 @@
       "category": "幽默,音乐"
     },
     {
+      "raw_hot": 375541,
+      "num": 375541,
+      "word": "2元土豆加工成薯塔卖15元",
+      "onboard_time": 1684814668,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 374637,
       "num": 325927,
       "word": "屈楚萧没去戛纳又好像去了",
       "onboard_time": 1684728391,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 368459,
+      "num": 368459,
+      "word": "刘宪华回应当初退出向往的生活",
+      "onboard_time": 1684818512,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 366922,
@@ -1379,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 349516,
+      "num": 349516,
+      "word": "考研失败改变了我的性格",
+      "onboard_time": 1684816954,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 347999,
       "num": 347999,
       "word": "徐州一餐厅被吐槽优先安排外国人",
@@ -1456,14 +1520,6 @@
       "word": "周一",
       "onboard_time": 1684716147,
       "rank": 15,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 322935,
-      "num": 322935,
-      "word": "原来肠道细菌可以影响颜值",
-      "onboard_time": 1684815812,
-      "rank": 27,
       "category": "情感"
     },
     {
@@ -1675,6 +1731,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 291608,
+      "num": 291608,
+      "word": "美依礼芽拍了很久的写真",
+      "onboard_time": 1684816231,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 290111,
       "num": 290111,
       "word": "8年间多次猥亵幼女男子登报道歉",
@@ -1689,6 +1753,14 @@
       "onboard_time": 1684811068,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 285240,
+      "num": 285240,
+      "word": "魏哲鸣摇号9年都没成功",
+      "onboard_time": 1684816954,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 284600,
@@ -1713,14 +1785,6 @@
       "onboard_time": 1684746989,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 281756,
-      "num": 281756,
-      "word": "没认出来Lisa",
-      "onboard_time": 1684815932,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 281573,
@@ -1817,14 +1881,6 @@
       "onboard_time": 1684729653,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 264124,
-      "num": 264124,
-      "word": "2元土豆加工成薯塔卖15元",
-      "onboard_time": 1684814668,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262661,
@@ -1953,6 +2009,14 @@
       "onboard_time": 1684767630,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 243666,
+      "num": 243666,
+      "word": "成都半月内4人误食这种野菜中毒",
+      "onboard_time": 1684817793,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243318,
@@ -2211,6 +2275,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 225361,
+      "num": 225361,
+      "word": "文俊辉南京",
+      "onboard_time": 1684817914,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224356,
       "num": 224356,
       "word": "做自然的朋友",
@@ -2371,6 +2443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211980,
+      "num": 187026,
+      "word": "Irene出发巴黎机场图",
+      "onboard_time": 1684817672,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 209476,
       "num": 209476,
       "word": "陈都灵高清怼脸拍",
@@ -2393,6 +2473,14 @@
       "onboard_time": 1684717468,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 205640,
+      "num": 205640,
+      "word": "18年RNG全员离队",
+      "onboard_time": 1684817073,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 204411,
@@ -2611,6 +2699,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 187771,
+      "num": 549791,
+      "word": "全网寻找跪地救人兵哥哥",
+      "onboard_time": 1684815812,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187457,
       "num": 187457,
       "word": "KPL抽签",
@@ -2667,6 +2763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183009,
+      "num": 183009,
+      "word": "李沁回眸",
+      "onboard_time": 1684814791,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 182109,
       "num": 182109,
       "word": "学校管理制度化和人性化哪个更重要",
@@ -2715,6 +2819,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 179825,
+      "num": 179825,
+      "word": "沈月是来嗑cp的吧",
+      "onboard_time": 1684818751,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179452,
       "num": 179452,
       "word": "00后女生追星季羡林保送北大成校友",
@@ -2753,6 +2865,14 @@
       "onboard_time": 1684744348,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 178100,
+      "num": 178100,
+      "word": "八旬退休教师免费为全村理发23年",
+      "onboard_time": 1684818573,
+      "rank": 46,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 177560,
@@ -3593,14 +3713,6 @@
       "onboard_time": 1684776196,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 68232,
-      "num": 549791,
-      "word": "全网寻找跪地救人兵哥哥",
-      "onboard_time": 1684815812,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67340,
