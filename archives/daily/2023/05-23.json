@@ -1,6 +1,6 @@
 {
   "startTime": 1684772522563,
-  "endTime": 1684811864401,
+  "endTime": 1684812828599,
   "band_list": [
     {
       "raw_hot": 2585058,
@@ -27,8 +27,16 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1716528,
+      "num": 1716528,
+      "word": "巴厘岛命案男子母亲首发声",
+      "onboard_time": 1684808549,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1684308,
-      "num": 1020025,
+      "num": 1648472,
       "word": "马思纯瘦回来了",
       "onboard_time": 1684806505,
       "rank": 40,
@@ -43,12 +51,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1631598,
-      "num": 1631598,
-      "word": "巴厘岛命案男子母亲首发声",
-      "onboard_time": 1684808549,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 1624021,
+      "num": 1624021,
+      "word": "掘金4比0淘汰湖人",
+      "onboard_time": 1684812149,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1379207,
@@ -67,12 +75,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1188389,
+      "num": 1188389,
+      "word": "一年不上班的真实感受",
+      "onboard_time": 1684810347,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1143736,
       "num": 1143736,
       "word": "俄方证实乌军攻入俄境内",
       "onboard_time": 1684767150,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1096184,
+      "num": 1096184,
+      "word": "巧乐兹夫妇再回应",
+      "onboard_time": 1684810528,
+      "rank": 6,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 902292,
@@ -83,20 +107,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 835623,
-      "num": 835623,
-      "word": "一年不上班的真实感受",
-      "onboard_time": 1684810347,
-      "rank": 4,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 717664,
-      "num": 717664,
-      "word": "巧乐兹夫妇再回应",
-      "onboard_time": 1684810528,
-      "rank": 6,
-      "category": "社会新闻,网红"
+      "raw_hot": 841668,
+      "num": 841668,
+      "word": "掘金vs湖人",
+      "onboard_time": 1684802608,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 695511,
@@ -140,18 +156,18 @@
     },
     {
       "raw_hot": 607372,
-      "num": 274945,
+      "num": 327831,
       "word": "女生在晚上一定要远离工地",
       "onboard_time": 1684810347,
       "rank": 20,
       "category": "情感"
     },
     {
-      "raw_hot": 603137,
-      "num": 603137,
-      "word": "掘金vs湖人",
-      "onboard_time": 1684802608,
-      "rank": 14,
+      "raw_hot": 600570,
+      "num": 600570,
+      "word": "浓眉",
+      "onboard_time": 1684810469,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -235,8 +251,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 480793,
+      "num": 430279,
+      "word": "外媒评张雨绮戛纳红毯最佳着装",
+      "onboard_time": 1684811489,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 469231,
-      "num": 293712,
+      "num": 301270,
       "word": "六年没联系的朋友找我当伴娘",
       "onboard_time": 1684807887,
       "rank": 20,
@@ -265,6 +289,14 @@
       "onboard_time": 1684804287,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 433058,
+      "num": 433058,
+      "word": "詹姆斯拼了",
+      "onboard_time": 1684807947,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 429045,
@@ -313,14 +345,6 @@
       "onboard_time": 1684807346,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 351054,
-      "num": 351054,
-      "word": "浓眉",
-      "onboard_time": 1684810469,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 347199,
@@ -395,12 +419,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302534,
+      "num": 302534,
+      "word": "NBA西部决赛",
+      "onboard_time": 1684804228,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 290111,
       "num": 290111,
       "word": "8年间多次猥亵幼女男子登报道歉",
       "onboard_time": 1684779254,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286841,
+      "num": 286841,
+      "word": "网传徐怀钰三公进步大",
+      "onboard_time": 1684811068,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 284600,
@@ -411,12 +451,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 281854,
-      "num": 281854,
-      "word": "NBA西部决赛",
-      "onboard_time": 1684804228,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 281797,
+      "num": 281797,
+      "word": "王者荣耀宝格丽互关",
+      "onboard_time": 1684811849,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 272958,
@@ -483,20 +523,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 234405,
-      "num": 234405,
-      "word": "外媒评张雨绮戛纳红毯最佳着装",
-      "onboard_time": 1684811489,
-      "rank": 24,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 228260,
       "num": 228260,
       "word": "蒜蓉香蕉",
       "onboard_time": 1684810167,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 228009,
+      "num": 228009,
+      "word": "湖人vs掘金",
+      "onboard_time": 1684812092,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 227020,
@@ -531,14 +571,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 221444,
-      "num": 221444,
-      "word": "网传徐怀钰三公进步大",
-      "onboard_time": 1684811068,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 218143,
       "num": 218143,
       "word": "朱一龙芭莎六月封面",
@@ -553,6 +585,22 @@
       "onboard_time": 1684808908,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 216652,
+      "num": 216652,
+      "word": "周杰伦上海",
+      "onboard_time": 1684811548,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 216401,
+      "num": 216401,
+      "word": "NBA",
+      "onboard_time": 1684812270,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 213830,
@@ -611,6 +659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193504,
+      "num": 193504,
+      "word": "治疗内耗就是四个字",
+      "onboard_time": 1684812209,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191772,
       "num": 191772,
       "word": "16超女梁馨予发长文回应柯以敏道歉",
@@ -625,14 +681,6 @@
       "onboard_time": 1684764031,
       "rank": 29,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 188387,
-      "num": 188387,
-      "word": "周杰伦上海",
-      "onboard_time": 1684811548,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 187354,
@@ -659,20 +707,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 183134,
-      "num": 183134,
-      "word": "詹姆斯拼了",
-      "onboard_time": 1684807947,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 182109,
       "num": 182109,
       "word": "学校管理制度化和人性化哪个更重要",
       "onboard_time": 1684805848,
       "rank": 32,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 179452,
+      "num": 179452,
+      "word": "00后女生追星季羡林保送北大成校友",
+      "onboard_time": 1684812331,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172522,
@@ -755,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159333,
+      "num": 159333,
+      "word": "原神",
+      "onboard_time": 1684810709,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158445,
       "num": 158445,
       "word": "这就是我记忆里的高三",
@@ -793,14 +849,6 @@
       "onboard_time": 1684799185,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147720,
-      "num": 147720,
-      "word": "原神",
-      "onboard_time": 1684810709,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 147581,
@@ -867,6 +915,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 135702,
+      "num": 135702,
+      "word": "有么事找俺们就行",
+      "onboard_time": 1684812509,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133852,
       "num": 133852,
       "word": "中国科学家养的牛在海底打231米钻孔",
@@ -884,7 +940,7 @@
     },
     {
       "raw_hot": 128032,
-      "num": 193437,
+      "num": 217172,
       "word": "手机镜头下的民族写真",
       "onboard_time": 1684811307,
       "rank": 35,
@@ -937,14 +993,6 @@
       "onboard_time": 1684759768,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 113651,
-      "num": 128990,
-      "word": "王者荣耀宝格丽互关",
-      "onboard_time": 1684811849,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 109068,
@@ -1035,20 +1083,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 66651,
+      "num": 345374,
+      "word": "同价位有四驱谁买两驱",
+      "onboard_time": 1684811608,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65358,
       "num": 133975,
       "word": "AG 三组",
       "onboard_time": 1684768173,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 63987,
-      "num": 182747,
-      "word": "同价位有四驱谁买两驱",
-      "onboard_time": 1684811608,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61040,
@@ -1060,7 +1108,7 @@
     },
     {
       "raw_hot": 56821,
-      "num": 1338535,
+      "num": 1649851,
       "word": "神舟十六号近日择机发射",
       "onboard_time": 1684803629,
       "rank": 2,
