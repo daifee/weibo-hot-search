@@ -1,6 +1,6 @@
 {
   "startTime": 1684772522563,
-  "endTime": 1684809817770,
+  "endTime": 1684811864401,
   "band_list": [
     {
       "raw_hot": 2585058,
@@ -43,6 +43,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1631598,
+      "num": 1631598,
+      "word": "巴厘岛命案男子母亲首发声",
+      "onboard_time": 1684808549,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1379207,
       "num": 381740,
       "word": "黄瑞恩罗颖分手",
@@ -75,12 +83,20 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 891011,
-      "num": 430836,
-      "word": "巴厘岛命案男子母亲首发声",
-      "onboard_time": 1684808549,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 835623,
+      "num": 835623,
+      "word": "一年不上班的真实感受",
+      "onboard_time": 1684810347,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 717664,
+      "num": 717664,
+      "word": "巧乐兹夫妇再回应",
+      "onboard_time": 1684810528,
+      "rank": 6,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 695511,
@@ -99,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 648332,
+      "num": 648332,
+      "word": "谢谢小狗",
+      "onboard_time": 1684808609,
+      "rank": 25,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 637277,
       "num": 637277,
       "word": "很难相信这是方文山作的词",
@@ -113,6 +137,22 @@
       "onboard_time": 1684805368,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 607372,
+      "num": 274945,
+      "word": "女生在晚上一定要远离工地",
+      "onboard_time": 1684810347,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 603137,
+      "num": 603137,
+      "word": "掘金vs湖人",
+      "onboard_time": 1684802608,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 593694,
@@ -139,8 +179,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 520099,
-      "num": 423570,
+      "raw_hot": 554582,
+      "num": 554582,
       "word": "宋仲基亮相戛纳",
       "onboard_time": 1684808067,
       "rank": 15,
@@ -169,6 +209,14 @@
       "onboard_time": 1684767213,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 497925,
+      "num": 497925,
+      "word": "白鹿陈哲远或将演攻玉",
+      "onboard_time": 1684808489,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 487722,
@@ -219,22 +267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 448280,
-      "num": 448280,
-      "word": "掘金vs湖人",
-      "onboard_time": 1684802608,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 441498,
-      "num": 441498,
-      "word": "白鹿陈哲远或将演攻玉",
-      "onboard_time": 1684808489,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 429045,
       "num": 429045,
       "word": "丰田再次呼吁不要过早放弃燃油车",
@@ -249,14 +281,6 @@
       "onboard_time": 1684804107,
       "rank": 21,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 409372,
-      "num": 409372,
-      "word": "谢谢小狗",
-      "onboard_time": 1684808609,
-      "rank": 25,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 401137,
@@ -289,6 +313,14 @@
       "onboard_time": 1684807346,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351054,
+      "num": 351054,
+      "word": "浓眉",
+      "onboard_time": 1684810469,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 347199,
@@ -379,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 281854,
+      "num": 281854,
+      "word": "NBA西部决赛",
+      "onboard_time": 1684804228,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 272958,
       "num": 272958,
       "word": "G7",
@@ -411,6 +451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 250504,
+      "num": 250504,
+      "word": "巴厘岛",
+      "onboard_time": 1684810407,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250500,
       "num": 250500,
       "word": "乌克兰",
@@ -435,12 +483,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235433,
-      "num": 235433,
-      "word": "NBA西部决赛",
-      "onboard_time": 1684804228,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 234405,
+      "num": 234405,
+      "word": "外媒评张雨绮戛纳红毯最佳着装",
+      "onboard_time": 1684811489,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 228260,
+      "num": 228260,
+      "word": "蒜蓉香蕉",
+      "onboard_time": 1684810167,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 227020,
@@ -467,8 +523,32 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222923,
+      "num": 222923,
+      "word": "香蕉先生不睡觉定档",
+      "onboard_time": 1684810288,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 221444,
+      "num": 221444,
+      "word": "网传徐怀钰三公进步大",
+      "onboard_time": 1684811068,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 218143,
+      "num": 218143,
+      "word": "朱一龙芭莎六月封面",
+      "onboard_time": 1684811190,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 216909,
-      "num": 182472,
+      "num": 203560,
       "word": "恐怖片级的遭遇",
       "onboard_time": 1684808908,
       "rank": 34,
@@ -489,6 +569,14 @@
       "onboard_time": 1684802310,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209476,
+      "num": 209476,
+      "word": "陈都灵高清怼脸拍",
+      "onboard_time": 1684809388,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202265,
@@ -539,6 +627,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 188387,
+      "num": 188387,
+      "word": "周杰伦上海",
+      "onboard_time": 1684811548,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 187354,
       "num": 153440,
       "word": "招摇2.0",
@@ -561,6 +657,14 @@
       "onboard_time": 1684767451,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 183134,
+      "num": 183134,
+      "word": "詹姆斯拼了",
+      "onboard_time": 1684807947,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 182109,
@@ -659,12 +763,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 154528,
-      "num": 154528,
-      "word": "詹姆斯拼了",
-      "onboard_time": 1684807947,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 157117,
+      "num": 157117,
+      "word": "肖战为残障青年故事纪录电影配音旁白",
+      "onboard_time": 1684809207,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 156365,
+      "num": 156365,
+      "word": "10万现金遗落公交乘客司机接力寻人",
+      "onboard_time": 1684809686,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151428,
@@ -683,12 +795,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144155,
-      "num": 144155,
-      "word": "陈都灵高清怼脸拍",
-      "onboard_time": 1684809388,
-      "rank": 38,
-      "category": "作品衍生"
+      "raw_hot": 147720,
+      "num": 147720,
+      "word": "原神",
+      "onboard_time": 1684810709,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 147581,
+      "num": 147581,
+      "word": "男朋友送过让你记忆犹新的礼物",
+      "onboard_time": 1684810950,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 145583,
+      "num": 145583,
+      "word": "知识三过脑门而不入",
+      "onboard_time": 1684811009,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 143116,
@@ -697,14 +825,6 @@
       "onboard_time": 1684749209,
       "rank": 33,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 140054,
-      "num": 140054,
-      "word": "10万现金遗落公交乘客司机接力寻人",
-      "onboard_time": 1684809686,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139439,
@@ -763,8 +883,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128032,
+      "num": 193437,
+      "word": "手机镜头下的民族写真",
+      "onboard_time": 1684811307,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125293,
-      "num": 267607,
+      "num": 275237,
       "word": "没有充电桩想买电驱车",
       "onboard_time": 1684808788,
       "rank": 36,
@@ -785,14 +913,6 @@
       "onboard_time": 1684798042,
       "rank": 29,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 119733,
-      "num": 119733,
-      "word": "肖战为残障青年故事纪录电影配音旁白",
-      "onboard_time": 1684809207,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 119661,
@@ -817,6 +937,14 @@
       "onboard_time": 1684759768,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 113651,
+      "num": 128990,
+      "word": "王者荣耀宝格丽互关",
+      "onboard_time": 1684811849,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 109068,
@@ -913,6 +1041,14 @@
       "onboard_time": 1684768173,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 63987,
+      "num": 182747,
+      "word": "同价位有四驱谁买两驱",
+      "onboard_time": 1684811608,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61040,

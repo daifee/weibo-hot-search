@@ -1,0 +1,410 @@
+{
+  "runTime": 1684811864401,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2229024,
+        "num": 2229024,
+        "word": "毕业一年论文被抽检不合格",
+        "onboard_time": 1684805486,
+        "rank": 0,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 1631598,
+        "num": 1631598,
+        "word": "巴厘岛命案男子母亲首发声",
+        "onboard_time": 1684808549,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43156,
+        "num": 1061387,
+        "word": "神舟十六号近日择机发射",
+        "onboard_time": 1684803629,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1662654,
+        "num": 955201,
+        "word": "马思纯瘦回来了",
+        "onboard_time": 1684806505,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 835623,
+        "num": 835623,
+        "word": "一年不上班的真实感受",
+        "onboard_time": 1684810347,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 772642,
+        "num": 772642,
+        "word": "鹿晗兑现三年前承诺",
+        "onboard_time": 1684799727,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 717664,
+        "num": 717664,
+        "word": "巧乐兹夫妇再回应",
+        "onboard_time": 1684810528,
+        "rank": 6,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 667628,
+        "num": 667628,
+        "word": "大哥大嫂BE了",
+        "onboard_time": 1684767871,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 648332,
+        "num": 648332,
+        "word": "谢谢小狗",
+        "onboard_time": 1684808609,
+        "rank": 8,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 603137,
+        "num": 603137,
+        "word": "掘金vs湖人",
+        "onboard_time": 1684802608,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 554582,
+        "num": 554582,
+        "word": "宋仲基亮相戛纳",
+        "onboard_time": 1684808067,
+        "rank": 10,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 508047,
+        "num": 508047,
+        "word": "国泰空乘歧视乘客录音曝光",
+        "onboard_time": 1684803629,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497925,
+        "num": 497925,
+        "word": "白鹿陈哲远或将演攻玉",
+        "onboard_time": 1684808489,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 415136,
+        "num": 415136,
+        "word": "近期到底一阳多还是二阳多",
+        "onboard_time": 1684805368,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384854,
+        "num": 384854,
+        "word": "教你读懂小红书职场博主",
+        "onboard_time": 1684808309,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 352060,
+        "num": 352060,
+        "word": "咱东北也有地下偶像了",
+        "onboard_time": 1684806627,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 351054,
+        "num": 351054,
+        "word": "浓眉",
+        "onboard_time": 1684810469,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281854,
+        "num": 281854,
+        "word": "NBA西部决赛",
+        "onboard_time": 1684804228,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281222,
+        "num": 281222,
+        "word": "林更新郑嘉颖九年没见了",
+        "onboard_time": 1684804287,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101011,
+        "num": 275237,
+        "word": "没有充电桩想买电驱车",
+        "onboard_time": 1684808788,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607372,
+        "num": 274945,
+        "word": "女生在晚上一定要远离工地",
+        "onboard_time": 1684810347,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 341177,
+        "num": 274521,
+        "word": "六年没联系的朋友找我当伴娘",
+        "onboard_time": 1684807887,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 272473,
+        "num": 272473,
+        "word": "TFBOYS十周年演唱会或将在西安",
+        "onboard_time": 1684798824,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 250504,
+        "num": 250504,
+        "word": "巴厘岛",
+        "onboard_time": 1684810407,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234405,
+        "num": 234405,
+        "word": "外媒评张雨绮戛纳红毯最佳着装",
+        "onboard_time": 1684811489,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 231665,
+        "num": 231665,
+        "word": "夫妻吵架丈夫举报妻子吸毒",
+        "onboard_time": 1684804107,
+        "rank": 25,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 231511,
+        "num": 231511,
+        "word": "教育局回应下雨天学校不到点不开门",
+        "onboard_time": 1684798042,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 228260,
+        "num": 228260,
+        "word": "蒜蓉香蕉",
+        "onboard_time": 1684810167,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 226289,
+        "num": 226289,
+        "word": "羊倌为救坠崖国保差点弄丢几百只羊",
+        "onboard_time": 1684807346,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199834,
+        "num": 224021,
+        "word": "汤面4元一碗加面请比心",
+        "onboard_time": 1684802847,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 222923,
+        "num": 222923,
+        "word": "香蕉先生不睡觉定档",
+        "onboard_time": 1684810288,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221444,
+        "num": 221444,
+        "word": "网传徐怀钰三公进步大",
+        "onboard_time": 1684811068,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218143,
+        "num": 218143,
+        "word": "朱一龙芭莎六月封面",
+        "onboard_time": 1684811190,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 209476,
+        "num": 209476,
+        "word": "陈都灵高清怼脸拍",
+        "onboard_time": 1684809388,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203560,
+        "num": 203560,
+        "word": "恐怖片级的遭遇",
+        "onboard_time": 1684808908,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128032,
+        "num": 193437,
+        "word": "手机镜头下的民族写真",
+        "onboard_time": 1684811307,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188387,
+        "num": 188387,
+        "word": "周杰伦上海",
+        "onboard_time": 1684811548,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187509,
+        "num": 187509,
+        "word": "高考结束的那个下午",
+        "onboard_time": 1684808728,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183134,
+        "num": 183134,
+        "word": "詹姆斯拼了",
+        "onboard_time": 1684807947,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63987,
+        "num": 182747,
+        "word": "同价位有四驱谁买两驱",
+        "onboard_time": 1684811608,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182414,
+        "num": 182414,
+        "word": "浙江一公司上4休3收到上千份简历",
+        "onboard_time": 1684769909,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163608,
+        "num": 163608,
+        "word": "很难相信这是方文山作的词",
+        "onboard_time": 1684799244,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157117,
+        "num": 157117,
+        "word": "肖战为残障青年故事纪录电影配音旁白",
+        "onboard_time": 1684809207,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156365,
+        "num": 156365,
+        "word": "10万现金遗落公交乘客司机接力寻人",
+        "onboard_time": 1684809686,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147720,
+        "num": 147720,
+        "word": "原神",
+        "onboard_time": 1684810709,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147581,
+        "num": 147581,
+        "word": "男朋友送过让你记忆犹新的礼物",
+        "onboard_time": 1684810950,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145583,
+        "num": 145583,
+        "word": "知识三过脑门而不入",
+        "onboard_time": 1684811009,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139138,
+        "num": 139138,
+        "word": "一个人突然发朋友圈的规律",
+        "onboard_time": 1684766731,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130334,
+        "num": 130334,
+        "word": "全网搜寻的这两位年轻人找到了",
+        "onboard_time": 1684806627,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113651,
+        "num": 128990,
+        "word": "王者荣耀宝格丽互关",
+        "onboard_time": 1684811849,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#珍惜我们的共同家园#"
+    }
+  }
+}
