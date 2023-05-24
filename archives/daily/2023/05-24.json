@@ -1,6 +1,6 @@
 {
   "startTime": 1684858934935,
-  "endTime": 1684916477907,
+  "endTime": 1684917236848,
   "band_list": [
     {
       "raw_hot": 2904722,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2879677,
-      "num": 628061,
+      "num": 741454,
       "word": "陆虎陈曌旭领证",
       "onboard_time": 1684907068,
       "rank": 11,
@@ -27,7 +27,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 2172117,
+      "raw_hot": 2280248,
       "num": 1157898,
       "word": "丁泽仁把四年老粉告了",
       "onboard_time": 1684906229,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1222568,
-      "num": 608803,
+      "num": 703692,
       "word": "你的胸不需要非得是美的",
       "onboard_time": 1684912050,
       "rank": 33,
@@ -267,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 885339,
+      "num": 885339,
+      "word": "浙江59岁孕妇成功产下一女婴",
+      "onboard_time": 1684913910,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 850680,
       "num": 247456,
       "word": "厦门华天涉外学院砍人",
@@ -275,8 +283,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 753946,
-      "num": 753946,
+      "raw_hot": 846909,
+      "num": 846909,
       "word": "孙俪杨幂都请了表演老师",
       "onboard_time": 1684913308,
       "rank": 31,
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 687248,
-      "num": 600733,
+      "num": 647267,
       "word": "0713还剩谁没结婚",
       "onboard_time": 1684913372,
       "rank": 40,
@@ -331,20 +339,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 650872,
+      "num": 650872,
+      "word": "妈妈生你就是为了让你多享受享受这个世界",
+      "onboard_time": 1684913372,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 648816,
       "num": 291339,
       "word": "杨洋baby 肖奈贝微微",
       "onboard_time": 1684836030,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 635412,
-      "num": 635412,
-      "word": "妈妈生你就是为了让你多享受享受这个世界",
-      "onboard_time": 1684913372,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 631860,
@@ -385,14 +393,6 @@
       "onboard_time": 1684896929,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 583389,
-      "num": 583389,
-      "word": "浙江59岁孕妇成功产下一女婴",
-      "onboard_time": 1684913910,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 579338,
@@ -443,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 506923,
+      "num": 506923,
+      "word": "高亚麟揪易烊千玺耳朵",
+      "onboard_time": 1684914751,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 505927,
       "num": 190178,
       "word": "易烊千玺王俊凯同框",
@@ -457,6 +465,14 @@
       "onboard_time": 1684896089,
       "rank": 37,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 498108,
+      "num": 498108,
+      "word": "白鹿的站姿",
+      "onboard_time": 1684915469,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 490842,
@@ -523,14 +539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 428277,
-      "num": 428277,
-      "word": "白鹿的站姿",
-      "onboard_time": 1684915469,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 424306,
       "num": 424306,
       "word": "王俊凯坐姿好娇俏",
@@ -547,8 +555,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 406064,
-      "num": 406064,
+      "raw_hot": 408873,
+      "num": 408873,
       "word": "租客下班回家发现房间变灵堂",
       "onboard_time": 1684913492,
       "rank": 47,
@@ -577,14 +585,6 @@
       "onboard_time": 1684853674,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 388099,
-      "num": 303414,
-      "word": "高亚麟揪易烊千玺耳朵",
-      "onboard_time": 1684914751,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 385050,
@@ -779,6 +779,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 295004,
+      "num": 243671,
+      "word": "演员界的凤凰传奇",
+      "onboard_time": 1684915290,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 292348,
       "num": 292348,
       "word": "什么加剧了身材焦虑",
@@ -867,14 +875,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 270658,
-      "num": 243671,
-      "word": "演员界的凤凰传奇",
-      "onboard_time": 1684915290,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 269912,
       "num": 269912,
       "word": "泡泡 备份",
@@ -905,6 +905,14 @@
       "onboard_time": 1684915469,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 260183,
+      "num": 227207,
+      "word": "乐华是去西安团建了吗",
+      "onboard_time": 1684915351,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 254271,
@@ -995,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235704,
+      "num": 235704,
+      "word": "央视网评小慧君造谣性骚扰事件",
+      "onboard_time": 1684916129,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235200,
       "num": 180293,
       "word": "奔跑吧路透",
@@ -1009,6 +1025,14 @@
       "onboard_time": 1684887029,
       "rank": 26,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 231326,
+      "num": 206706,
+      "word": "记苏醒账上",
+      "onboard_time": 1684914328,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 231179,
@@ -1115,20 +1139,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 212475,
+      "num": 182398,
+      "word": "原来华表奖是有奖金的",
+      "onboard_time": 1684916310,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211882,
       "num": 211882,
       "word": "10岁男童走失死亡案2嫌犯被抓",
       "onboard_time": 1684891110,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210819,
-      "num": 210819,
-      "word": "乐华是去西安团建了吗",
-      "onboard_time": 1684915351,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 210161,
@@ -1147,12 +1171,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206706,
-      "num": 206706,
-      "word": "记苏醒账上",
-      "onboard_time": 1684914328,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 205016,
+      "num": 182163,
+      "word": "丹宁风",
+      "onboard_time": 1684916069,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 204230,
+      "num": 137146,
+      "word": "王子奇新浪扫楼",
+      "onboard_time": 1684916369,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 202203,
@@ -1235,14 +1267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191524,
-      "num": 133524,
-      "word": "丹宁风",
-      "onboard_time": 1684916069,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 191511,
       "num": 191511,
       "word": "00后民警收感谢信四处找同事炫耀",
@@ -1289,6 +1313,14 @@
       "onboard_time": 1684905391,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186719,
+      "num": 186719,
+      "word": "印度19岁女子穿比基尼乘地铁",
+      "onboard_time": 1684916790,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185964,
@@ -1411,14 +1443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158904,
-      "num": 131636,
-      "word": "王子奇新浪扫楼",
-      "onboard_time": 1684916369,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 158729,
       "num": 173172,
       "word": "成都天府广场 太极图",
@@ -1449,14 +1473,6 @@
       "onboard_time": 1684900173,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 143841,
-      "num": 143841,
-      "word": "央视网评小慧君造谣性骚扰事件",
-      "onboard_time": 1684916129,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141970,
