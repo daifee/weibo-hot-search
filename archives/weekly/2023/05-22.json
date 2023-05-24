@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684905339318,
+  "endTime": 1684906411404,
   "band_list": [
     {
       "raw_hot": 3643134,
@@ -851,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 919917,
+      "num": 919917,
+      "word": "成灿shotaro离开NCT",
+      "onboard_time": 1684905573,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 913797,
       "num": 913797,
       "word": "和马官宣签约龙韬娱乐",
@@ -1187,6 +1195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 680077,
+      "num": 680077,
+      "word": "国泰航空事件",
+      "onboard_time": 1684904613,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 673417,
       "num": 673417,
       "word": "2023年退休人员基本养老金上调3.8%",
@@ -1235,6 +1251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 638004,
+      "num": 565157,
+      "word": "丁泽仁把四年老粉告了",
+      "onboard_time": 1684906229,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 637277,
       "num": 637277,
       "word": "很难相信这是方文山作的词",
@@ -1252,7 +1276,7 @@
     },
     {
       "raw_hot": 631860,
-      "num": 394713,
+      "num": 425420,
       "word": "厦门一男医生体检时猥亵女子被拘",
       "onboard_time": 1684902333,
       "rank": 36,
@@ -1313,14 +1337,6 @@
       "onboard_time": 1684810347,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 606746,
-      "num": 606746,
-      "word": "国泰航空事件",
-      "onboard_time": 1684904613,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 600570,
@@ -1539,12 +1555,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 548674,
+      "num": 548674,
+      "word": "谢娜女儿看到赵丽颖的广告叫妈妈",
+      "onboard_time": 1684904494,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 545342,
       "num": 545342,
       "word": "去看BLACKPINK演唱会的明星",
       "onboard_time": 1684742248,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 544473,
+      "num": 526149,
+      "word": "你猜为什么沈腾不读颁奖词",
+      "onboard_time": 1684900833,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 529680,
@@ -1561,14 +1593,6 @@
       "onboard_time": 1684829488,
       "rank": 9,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 526149,
-      "num": 526149,
-      "word": "你猜为什么沈腾不读颁奖词",
-      "onboard_time": 1684900833,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 523584,
@@ -1740,7 +1764,7 @@
     },
     {
       "raw_hot": 482321,
-      "num": 393937,
+      "num": 458935,
       "word": "15岁女孩减肥仅24.8kg去世",
       "onboard_time": 1684904074,
       "rank": 21,
@@ -1971,6 +1995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 437660,
+      "num": 437660,
+      "word": "法老向志愿军老兵捐款",
+      "onboard_time": 1684904972,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434110,
       "num": 371240,
       "word": "原来肠道细菌可以影响颜值",
@@ -2147,19 +2179,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396202,
+      "num": 321804,
+      "word": "成灿Shotaro将新男团出道",
+      "onboard_time": 1684905690,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 395770,
       "num": 395770,
       "word": "朱珠上妆全程",
       "onboard_time": 1684798944,
       "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 392868,
-      "num": 392868,
-      "word": "谢娜女儿看到赵丽颖的广告叫妈妈",
-      "onboard_time": 1684904494,
-      "rank": 22,
       "category": "综艺"
     },
     {
@@ -2569,14 +2601,6 @@
       "onboard_time": 1684852299,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 330011,
-      "num": 330011,
-      "word": "法老向志愿军老兵捐款",
-      "onboard_time": 1684904972,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 328028,
@@ -3129,6 +3153,14 @@
       "onboard_time": 1684844850,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 277238,
+      "num": 277238,
+      "word": "凡人修仙传 杨洋林允",
+      "onboard_time": 1684905508,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 276279,
@@ -4299,6 +4331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 197037,
+      "num": 197037,
+      "word": "奔跑吧",
+      "onboard_time": 1684906170,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196429,
       "num": 196429,
       "word": "新冠感染情况问卷调查",
@@ -4475,6 +4515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188325,
+      "num": 183423,
+      "word": "原来狂飙王秘书有名字",
+      "onboard_time": 1684905391,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188059,
       "num": 188059,
       "word": "孙灏羽回应",
@@ -4561,6 +4609,14 @@
       "onboard_time": 1684891231,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183388,
+      "num": 183388,
+      "word": "张子枫兑现了小时候的承诺",
+      "onboard_time": 1684905869,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 183318,
@@ -4771,6 +4827,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 173221,
+      "num": 173221,
+      "word": "沈月说坐摩天轮会分手",
+      "onboard_time": 1684905990,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173035,
       "num": 173035,
       "word": "刘诗诗戛纳拍摄路透",
@@ -4905,6 +4969,14 @@
       "onboard_time": 1684736668,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163221,
+      "num": 163221,
+      "word": "凡人修仙传",
+      "onboard_time": 1684906352,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 162988,

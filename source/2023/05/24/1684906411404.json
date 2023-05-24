@@ -1,0 +1,410 @@
+{
+  "runTime": 1684906411404,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2300374,
+        "num": 2300374,
+        "word": "月薪5000两年存了8万",
+        "onboard_time": 1684900711,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1135205,
+        "num": 1135205,
+        "word": "IU或恢复在中国的活动",
+        "onboard_time": 1684901432,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7922,
+        "num": 1073701,
+        "word": "五星红旗又一次在珠峰之巅飘扬",
+        "onboard_time": 1684847914,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1446653,
+        "num": 1072930,
+        "word": "谢娜在机场哭了",
+        "onboard_time": 1684898490,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1038458,
+        "num": 1038458,
+        "word": "鹿晗演唱会开票",
+        "onboard_time": 1684901793,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 919917,
+        "num": 919917,
+        "word": "成灿shotaro离开NCT",
+        "onboard_time": 1684905573,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 891015,
+        "num": 891015,
+        "word": "网友问张子枫是谢霆锋的姐姐吗",
+        "onboard_time": 1684896207,
+        "rank": 6,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 845163,
+        "num": 845163,
+        "word": "在香港歧视普通话注定是个笑话",
+        "onboard_time": 1684885767,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680077,
+        "num": 680077,
+        "word": "国泰航空事件",
+        "onboard_time": 1684904613,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604596,
+        "num": 604596,
+        "word": "老婆大人",
+        "onboard_time": 1684899750,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 884505,
+        "num": 581321,
+        "word": "10岁男孩身亡2嫌疑人系生母和继父",
+        "onboard_time": 1684891468,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702404,
+        "num": 577356,
+        "word": "章泽天现身戛纳晚宴",
+        "onboard_time": 1684898670,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 638004,
+        "num": 565157,
+        "word": "丁泽仁把四年老粉告了",
+        "onboard_time": 1684906229,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548674,
+        "num": 548674,
+        "word": "谢娜女儿看到赵丽颖的广告叫妈妈",
+        "onboard_time": 1684904494,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 458935,
+        "num": 458935,
+        "word": "15岁女孩减肥仅24.8kg去世",
+        "onboard_time": 1684904074,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544473,
+        "num": 458832,
+        "word": "你猜为什么沈腾不读颁奖词",
+        "onboard_time": 1684900833,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 437660,
+        "num": 437660,
+        "word": "法老向志愿军老兵捐款",
+        "onboard_time": 1684904972,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431590,
+        "num": 431590,
+        "word": "那个为爱减肥的广东少女走了",
+        "onboard_time": 1684884263,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428914,
+        "num": 428914,
+        "word": "王一博穿出了五彩斑斓的黑",
+        "onboard_time": 1684900294,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 425545,
+        "num": 425545,
+        "word": "小学生在校内被老师开车撞倒身亡",
+        "onboard_time": 1684885106,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556894,
+        "num": 425420,
+        "word": "厦门一男医生体检时猥亵女子被拘",
+        "onboard_time": 1684902333,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407696,
+        "num": 407696,
+        "word": "和马官宣签约龙韬娱乐",
+        "onboard_time": 1684898309,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405925,
+        "num": 405925,
+        "word": "阿里人员优化",
+        "onboard_time": 1684898806,
+        "rank": 22,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 402490,
+        "num": 402490,
+        "word": "5旬女子花21万打抗癌针竟是可乐",
+        "onboard_time": 1684885106,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321942,
+        "num": 321942,
+        "word": "我喜欢的组合 你应该不认识",
+        "onboard_time": 1684902635,
+        "rank": 24,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 396202,
+        "num": 321804,
+        "word": "成灿Shotaro将新男团出道",
+        "onboard_time": 1684905690,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317414,
+        "num": 317414,
+        "word": "陈飞宇拉魏大勋",
+        "onboard_time": 1684888951,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 304106,
+        "num": 304106,
+        "word": "李家超说类似国泰事件不容再发生",
+        "onboard_time": 1684899091,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287659,
+        "num": 287659,
+        "word": "五月天演唱会",
+        "onboard_time": 1684902333,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 282190,
+        "num": 282190,
+        "word": "警方回应网红户外直播被砍",
+        "onboard_time": 1684896089,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277238,
+        "num": 277238,
+        "word": "凡人修仙传 杨洋林允",
+        "onboard_time": 1684905508,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265992,
+        "num": 265992,
+        "word": "介于阿姨和姐姐之间的称呼",
+        "onboard_time": 1684901253,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 244900,
+        "num": 244900,
+        "word": "泡泡 备份",
+        "onboard_time": 1684902273,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218707,
+        "num": 218707,
+        "word": "国泰航空3名歧视乘客空乘被解聘",
+        "onboard_time": 1684850917,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217124,
+        "num": 217124,
+        "word": "厦门华天涉外学院",
+        "onboard_time": 1684892549,
+        "rank": 34,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 211084,
+        "num": 211084,
+        "word": "王俊凯经纪人说他胖了",
+        "onboard_time": 1684899991,
+        "rank": 35,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 210802,
+        "num": 210802,
+        "word": "lysn",
+        "onboard_time": 1684902995,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205086,
+        "num": 205086,
+        "word": "国泰事件并非孤立现象",
+        "onboard_time": 1684902756,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197037,
+        "num": 197037,
+        "word": "奔跑吧",
+        "onboard_time": 1684906170,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183431,
+        "num": 183431,
+        "word": "港府要求国泰管理层立刻改善服务",
+        "onboard_time": 1684893029,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 188325,
+        "num": 183423,
+        "word": "原来狂飙王秘书有名字",
+        "onboard_time": 1684905391,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187664,
+        "num": 183416,
+        "word": "范丞丞裤子是来拖地的吗",
+        "onboard_time": 1684899511,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184513,
+        "num": 183404,
+        "word": "莲花楼 备播",
+        "onboard_time": 1684896929,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183388,
+        "num": 183388,
+        "word": "张子枫兑现了小时候的承诺",
+        "onboard_time": 1684905869,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178479,
+        "num": 178479,
+        "word": "被公司开除忍不住笑出声",
+        "onboard_time": 1684899812,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173221,
+        "num": 173221,
+        "word": "沈月说坐摩天轮会分手",
+        "onboard_time": 1684905990,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163221,
+        "num": 163221,
+        "word": "凡人修仙传",
+        "onboard_time": 1684906352,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156478,
+        "num": 158798,
+        "word": "成都天府广场 太极图",
+        "onboard_time": 1684903054,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 62802,
+        "num": 158761,
+        "word": "DOTA2国家集训队名单",
+        "onboard_time": 1684900173,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 47366,
+        "num": 158757,
+        "word": "原神3.7版本更新 八重神子",
+        "onboard_time": 1684900833,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给中国美术馆老专家老艺术家回信#"
+    }
+  }
+}
