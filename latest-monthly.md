@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/05/01 00:20:43 ~ 2023/05/25 06:33:17
+本榜单时间：2023/05/01 00:20:43 ~ 2023/05/25 07:17:19
 </p>
 </blockquote>
 <p>
@@ -5817,6 +5817,12 @@ gidle新歌Queencard（热度：938118）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E4%B8%80%E5%A4%A7%E5%AD%A6%E6%89%80%E6%9C%89%E9%A5%AE%E5%93%81%E5%BA%97%E7%A6%81%E6%AD%A2%E4%BD%BF%E7%94%A8%E5%86%B0%E5%9D%97%23" target="weibo">
+网传一大学所有饮品店禁止使用冰块（热度：919733）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Angelababy%E5%AE%9A%E5%88%B6%E7%A4%BC%E6%9C%8D%E8%85%B0%E5%9B%B4%E6%94%B9%E5%B0%8F11.5%E5%8E%98%E7%B1%B3%23" target="weibo">
 Angelababy定制礼服腰围改小11.5厘米（热度：919662）
 </a>
@@ -6005,12 +6011,6 @@ Jennie山茶花白裙（热度：906817）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%97%85%E4%BA%BA%E8%A2%AB%E5%8C%BB%E7%94%9F%E9%81%97%E5%BF%98%E5%9C%A8%E7%A3%81%E5%85%B1%E6%8C%AF%E8%88%B1%E8%BF%91%E4%B8%89%E5%B0%8F%E6%97%B6%23" target="weibo">
 病人被医生遗忘在磁共振舱近三小时（热度：888356）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%8E%98%E5%B2%9B%E8%BA%AB%E4%BA%A1%E4%B8%A4%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%BA%AB%E4%BB%BD%E7%A1%AE%E8%AE%A4%23" target="weibo">
-巴厘岛身亡两中国公民身份确认（热度：888060）
 </a>
 </li>
 

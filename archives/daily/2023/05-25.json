@@ -1,6 +1,6 @@
 {
   "startTime": 1684945355711,
-  "endTime": 1684967597339,
+  "endTime": 1684970239637,
   "band_list": [
     {
       "raw_hot": 1343159,
@@ -11,20 +11,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 919733,
+      "num": 919733,
+      "word": "网传一大学所有饮品店禁止使用冰块",
+      "onboard_time": 1684957814,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 853110,
+      "num": 722230,
+      "word": "员工每天带薪拉屎3至6小时被解雇",
+      "onboard_time": 1684936892,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 738470,
       "num": 738470,
       "word": "法老你真的我哭死",
       "onboard_time": 1684926869,
       "rank": 0,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 722230,
-      "num": 722230,
-      "word": "员工每天带薪拉屎3至6小时被解雇",
-      "onboard_time": 1684936892,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 655406,
@@ -75,6 +83,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 476628,
+      "num": 476628,
+      "word": "美国科技大亨用17岁儿子血浆换血",
+      "onboard_time": 1684943427,
+      "rank": 30,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 424456,
+      "num": 249265,
+      "word": "苏醒晒陆虎的官宣朋友圈",
+      "onboard_time": 1684945584,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 407859,
       "num": 407859,
       "word": "24岁大男孩去世捐器官救4人",
@@ -83,12 +107,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 387075,
-      "num": 387075,
-      "word": "网传一大学所有饮品店禁止使用冰块",
-      "onboard_time": 1684957814,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 354785,
+      "num": 354785,
+      "word": "杨紫表情管理",
+      "onboard_time": 1684969279,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 347626,
@@ -115,19 +139,19 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 338560,
-      "num": 330659,
-      "word": "美国科技大亨用17岁儿子血浆换血",
-      "onboard_time": 1684943427,
-      "rank": 30,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 336716,
       "num": 336716,
       "word": "山西10岁被害男孩今晚在生父村下葬",
       "onboard_time": 1684939410,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322325,
+      "num": 322325,
+      "word": "网友称国泰航空涉事航班挨个问要不要毛毯",
+      "onboard_time": 1684948157,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -195,14 +219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 243790,
-      "num": 198098,
-      "word": "苏醒晒陆虎的官宣朋友圈",
-      "onboard_time": 1684945584,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 222524,
       "num": 222524,
       "word": "偶遇倪大红惠英红逛夜市",
@@ -211,11 +227,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 214151,
+      "raw_hot": 218154,
       "num": 214151,
       "word": "女性30岁生育算高龄产妇吗",
       "onboard_time": 1684927708,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214106,
+      "num": 214106,
+      "word": "清洁工躺车库被碾亡司机申请国赔",
+      "onboard_time": 1684963273,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -233,14 +257,6 @@
       "onboard_time": 1684942111,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 184876,
-      "num": 184876,
-      "word": "网友称国泰航空涉事航班挨个问要不要毛毯",
-      "onboard_time": 1684948157,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178369,
@@ -355,6 +371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 117384,
+      "num": 117384,
+      "word": "孙灏羽称小慧君和巧乐兹夫妇真宠粉",
+      "onboard_time": 1684969400,
+      "rank": 28,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 108675,
       "num": 93988,
       "word": "你们竟然请运动员真打排球啊",
@@ -403,11 +427,27 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 93413,
-      "num": 52435,
-      "word": "清洁工躺车库被碾亡司机申请国赔",
-      "onboard_time": 1684963273,
-      "rank": 33,
+      "raw_hot": 93408,
+      "num": 93408,
+      "word": "10分钟被AI换脸骗走430万元",
+      "onboard_time": 1684949117,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92647,
+      "num": 92647,
+      "word": "奶奶用零食包装袋做的门帘",
+      "onboard_time": 1684962553,
+      "rank": 34,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 91405,
+      "num": 91405,
+      "word": "10岁遇害男孩生父讲述自己为何报警",
+      "onboard_time": 1684969641,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -417,6 +457,14 @@
       "onboard_time": 1684916790,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79123,
+      "num": 79123,
+      "word": "迪丽热巴佟大为公诉或将双台播出",
+      "onboard_time": 1684965735,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 77426,
@@ -465,30 +513,6 @@
       "onboard_time": 1684944446,
       "rank": 41,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 51505,
-      "num": 51505,
-      "word": "奶奶用零食包装袋做的门帘",
-      "onboard_time": 1684962553,
-      "rank": 34,
-      "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 42892,
-      "num": 42892,
-      "word": "10分钟被AI换脸骗走430万元",
-      "onboard_time": 1684949117,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36636,
-      "num": 36636,
-      "word": "迪丽热巴佟大为公诉或将双台播出",
-      "onboard_time": 1684965735,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 29344,
