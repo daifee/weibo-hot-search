@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/05/25 00:22:35 ~ 2023/05/25 04:33:47
+本榜单时间：2023/05/25 00:22:35 ~ 2023/05/25 05:13:50
 </p>
 </blockquote>
 <p>
@@ -273,6 +273,12 @@ SMtown就业还怪灵活的（热度：165653）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E4%B8%80%E5%A4%A7%E5%AD%A6%E6%89%80%E6%9C%89%E9%A5%AE%E5%93%81%E5%BA%97%E7%A6%81%E6%AD%A2%E4%BD%BF%E7%94%A8%E5%86%B0%E5%9D%97%23" target="weibo">
+网传一大学所有饮品店禁止使用冰块（热度：116379）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BB%AC%E7%AB%9F%E7%84%B6%E8%AF%B7%E8%BF%90%E5%8A%A8%E5%91%98%E7%9C%9F%E6%89%93%E6%8E%92%E7%90%83%E5%95%8A%23" target="weibo">
 你们竟然请运动员真打排球啊（热度：108675）
 </a>
@@ -311,12 +317,6 @@ SMtown就业还怪灵活的（热度：165653）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A619%E5%B2%81%E5%A5%B3%E5%AD%90%E7%A9%BF%E6%AF%94%E5%9F%BA%E5%B0%BC%E4%B9%98%E5%9C%B0%E9%93%81%23" target="weibo">
 印度19岁女子穿比基尼乘地铁（热度：90049）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E4%B8%80%E5%A4%A7%E5%AD%A6%E6%89%80%E6%9C%89%E9%A5%AE%E5%93%81%E5%BA%97%E7%A6%81%E6%AD%A2%E4%BD%BF%E7%94%A8%E5%86%B0%E5%9D%97%23" target="weibo">
-网传一大学所有饮品店禁止使用冰块（热度：84411）
 </a>
 </li>
 
@@ -394,7 +394,7 @@ LWX登场LPL赛区七周年（热度：58610）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A0%A9%E6%A0%A9%E5%8D%8E%E7%94%9F%E6%97%B6%E5%B0%9A%E6%96%87%E5%8C%96%E5%A4%A7%E8%B5%8F%E9%98%B5%E5%AE%B9%23" target="weibo">
-栩栩华生时尚文化大赏阵容（热度：14081）
+栩栩华生时尚文化大赏阵容（热度：16026）
 </a>
 </li>
 
