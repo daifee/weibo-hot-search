@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684931574913,
+  "endTime": 1684932586728,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1507,8 +1507,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2169262,
-      "num": 2169262,
+      "raw_hot": 2175664,
+      "num": 2175664,
       "word": "法老你真的我哭死",
       "onboard_time": 1684926869,
       "rank": 8,
@@ -4012,7 +4012,7 @@
     },
     {
       "raw_hot": 1446042,
-      "num": 924278,
+      "num": 1106054,
       "word": "杨紫紫裙盘发",
       "onboard_time": 1684926750,
       "rank": 48,
@@ -6219,6 +6219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1091357,
+      "num": 1091357,
+      "word": "沈月回应闺蜜婚礼上当花童",
+      "onboard_time": 1684930289,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1090701,
       "num": 1090701,
       "word": "大爷买二等座票带孙女坐一等座被赶",
@@ -8065,14 +8073,6 @@
       "onboard_time": 1683719249,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 871439,
-      "num": 871439,
-      "word": "沈月回应闺蜜婚礼上当花童",
-      "onboard_time": 1684930289,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 870977,
@@ -10401,6 +10401,14 @@
       "onboard_time": 1683093388,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 674449,
+      "num": 674449,
+      "word": "王曼昱",
+      "onboard_time": 1684930530,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 674126,
@@ -13507,6 +13515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 521113,
+      "num": 521113,
+      "word": "蔚来",
+      "onboard_time": 1684928309,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521073,
       "num": 463334,
       "word": "坐高铁碰到同座位的票",
@@ -13955,14 +13971,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 505580,
-      "num": 505580,
-      "word": "蔚来",
-      "onboard_time": 1684928309,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 505160,
       "num": 571618,
       "word": "王楚钦",
@@ -14115,20 +14123,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 499621,
-      "num": 499621,
-      "word": "王曼昱",
-      "onboard_time": 1684930530,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 499268,
       "num": 338244,
       "word": "秦霄贤说喜欢的人在现场",
       "onboard_time": 1684589188,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 498683,
+      "num": 498683,
+      "word": "赵露思烟熏妆",
+      "onboard_time": 1684929750,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 498252,
@@ -14465,14 +14473,6 @@
       "onboard_time": 1683954330,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 487557,
-      "num": 487557,
-      "word": "赵露思烟熏妆",
-      "onboard_time": 1684929750,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 487270,
@@ -17211,6 +17211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 421473,
+      "num": 303376,
+      "word": "女性30岁生育算高龄产妇吗",
+      "onboard_time": 1684927708,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421382,
       "num": 421382,
       "word": "巴特勒真硬",
@@ -18592,14 +18600,6 @@
       "word": "女子吐槽裙子比打底裤还短",
       "onboard_time": 1684297656,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 391819,
-      "num": 291011,
-      "word": "女性30岁生育算高龄产妇吗",
-      "onboard_time": 1684927708,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -24315,6 +24315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 304362,
+      "num": 304362,
+      "word": "马龙 德班",
+      "onboard_time": 1684931129,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304221,
       "num": 304221,
       "word": "性格很单纯的人怎么在社会上生存",
@@ -25145,6 +25153,14 @@
       "onboard_time": 1683457110,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293762,
+      "num": 293762,
+      "word": "风雨中的女星们",
+      "onboard_time": 1684930888,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 293744,
@@ -27267,6 +27283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270127,
+      "num": 270127,
+      "word": "周也眉毛开叉了",
+      "onboard_time": 1684931490,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 270041,
       "num": 235264,
       "word": "澹台烬演魔神被识破",
@@ -28705,14 +28729,6 @@
       "onboard_time": 1683989913,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 256393,
-      "num": 234568,
-      "word": "风雨中的女星们",
-      "onboard_time": 1684930888,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 256255,
@@ -30689,6 +30705,14 @@
       "onboard_time": 1683083492,
       "rank": 31,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 239288,
+      "num": 239288,
+      "word": "华表奖易烊千玺在看王俊凯吗",
+      "onboard_time": 1684931191,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 239246,
@@ -33025,6 +33049,14 @@
       "onboard_time": 1684123831,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 221404,
+      "num": 197750,
+      "word": "LWX登场LPL赛区七周年",
+      "onboard_time": 1684930888,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 221353,
@@ -37467,14 +37499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191692,
-      "num": 191692,
-      "word": "马龙 德班",
-      "onboard_time": 1684931129,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 191664,
       "num": 191664,
       "word": "拥有多少存款你才会选择结婚",
@@ -37961,14 +37985,6 @@
       "onboard_time": 1684911152,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 189027,
-      "num": 189027,
-      "word": "华表奖易烊千玺在看王俊凯吗",
-      "onboard_time": 1684931191,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 188992,
@@ -40107,14 +40123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175969,
-      "num": 175969,
-      "word": "LWX登场LPL赛区七周年",
-      "onboard_time": 1684930888,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 175941,
       "num": 175941,
       "word": "如何快速变老",
@@ -41763,6 +41771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164209,
+      "num": 164209,
+      "word": "全国统一的长辈审美",
+      "onboard_time": 1684928969,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 164188,
       "num": 164188,
       "word": "整列车厢回杭的娃都在赶作业",
@@ -42315,14 +42331,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 160384,
-      "num": 160384,
-      "word": "周也眉毛开叉了",
-      "onboard_time": 1684931490,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 160369,
       "num": 160369,
       "word": "喜欢和爱有什么区别",
@@ -42779,6 +42787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 157336,
+      "num": 170758,
+      "word": "咽喉炎自救指南",
+      "onboard_time": 1684929629,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157309,
       "num": 144528,
       "word": "gidle新专预售破110万张",
@@ -43025,14 +43041,6 @@
       "onboard_time": 1683513266,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155747,
-      "num": 155747,
-      "word": "全国统一的长辈审美",
-      "onboard_time": 1684928969,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 155662,
@@ -44155,6 +44163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 148150,
+      "num": 148150,
+      "word": "我九岁的兄弟是懂得拿捏人性的",
+      "onboard_time": 1684931909,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148029,
       "num": 148029,
       "word": "张韶涵巡演",
@@ -45209,14 +45225,6 @@
       "onboard_time": 1683420264,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 139195,
-      "num": 170758,
-      "word": "咽喉炎自救指南",
-      "onboard_time": 1684929629,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139132,
@@ -48939,6 +48947,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 94083,
+      "num": 378691,
+      "word": "蔚来全新ES6价格公布",
+      "onboard_time": 1684930888,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 94066,
       "num": 404688,
       "word": "养宠又养娃是什么神仙体验",
@@ -49001,14 +49017,6 @@
       "onboard_time": 1682982618,
       "rank": 32,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 93365,
-      "num": 191624,
-      "word": "蔚来全新ES6价格公布",
-      "onboard_time": 1684930888,
-      "rank": 32,
-      "category": "财经"
     },
     {
       "raw_hot": 93187,
@@ -51315,6 +51323,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 38144,
+      "num": 1106188,
+      "word": "中国经济高质量发展",
+      "onboard_time": 1684930649,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38077,
       "num": 38077,
       "word": "巴赫穆特",
@@ -51609,14 +51625,6 @@
       "onboard_time": 1683312913,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26418,
-      "num": 929480,
-      "word": "中国经济高质量发展",
-      "onboard_time": 1684930649,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26326,

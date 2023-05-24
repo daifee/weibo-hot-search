@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684931574913,
+  "endTime": 1684932586728,
   "band_list": [
     {
       "raw_hot": 3643134,
@@ -171,8 +171,8 @@
       "category": "教育,情感"
     },
     {
-      "raw_hot": 2169262,
-      "num": 2169262,
+      "raw_hot": 2175664,
+      "num": 2175664,
       "word": "法老你真的我哭死",
       "onboard_time": 1684926869,
       "rank": 8,
@@ -444,7 +444,7 @@
     },
     {
       "raw_hot": 1446042,
-      "num": 924278,
+      "num": 1106054,
       "word": "杨紫紫裙盘发",
       "onboard_time": 1684926750,
       "rank": 48,
@@ -795,6 +795,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 1091357,
+      "num": 1091357,
+      "word": "沈月回应闺蜜婚礼上当花童",
+      "onboard_time": 1684930289,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1087278,
       "num": 1087278,
       "word": "张婧仪Lisa金泰亨朴宝剑同框",
@@ -1057,14 +1065,6 @@
       "onboard_time": 1684843532,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 871439,
-      "num": 871439,
-      "word": "沈月回应闺蜜婚礼上当花童",
-      "onboard_time": 1684930289,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 857419,
@@ -1401,6 +1401,14 @@
       "onboard_time": 1684904613,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 674449,
+      "num": 674449,
+      "word": "王曼昱",
+      "onboard_time": 1684930530,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 674126,
@@ -1835,6 +1843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 521113,
+      "num": 521113,
+      "word": "蔚来",
+      "onboard_time": 1684928309,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 519987,
       "num": 394763,
       "word": "我爸不让25岁的我考研",
@@ -1883,14 +1899,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 505580,
-      "num": 505580,
-      "word": "蔚来",
-      "onboard_time": 1684928309,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 504426,
       "num": 504426,
       "word": "警方回应网红户外直播被砍",
@@ -1915,12 +1923,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 499621,
-      "num": 499621,
-      "word": "王曼昱",
-      "onboard_time": 1684930530,
-      "rank": 12,
-      "category": "体育"
+      "raw_hot": 498683,
+      "num": 498683,
+      "word": "赵露思烟熏妆",
+      "onboard_time": 1684929750,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 498108,
@@ -2017,14 +2025,6 @@
       "onboard_time": 1684808309,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 487557,
-      "num": 487557,
-      "word": "赵露思烟熏妆",
-      "onboard_time": 1684929750,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 487206,
@@ -2371,6 +2371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 421473,
+      "num": 303376,
+      "word": "女性30岁生育算高龄产妇吗",
+      "onboard_time": 1684927708,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421001,
       "num": 292267,
       "word": "周冬雨的卧蚕",
@@ -2513,14 +2521,6 @@
       "onboard_time": 1684798944,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 391819,
-      "num": 291011,
-      "word": "女性30岁生育算高龄产妇吗",
-      "onboard_time": 1684927708,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 391261,
@@ -3307,6 +3307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 304362,
+      "num": 304362,
+      "word": "马龙 德班",
+      "onboard_time": 1684931129,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 302534,
       "num": 302534,
       "word": "NBA西部决赛",
@@ -3392,6 +3400,14 @@
       "word": "演员界的凤凰传奇",
       "onboard_time": 1684915290,
       "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 293762,
+      "num": 293762,
+      "word": "风雨中的女星们",
+      "onboard_time": 1684930888,
+      "rank": 25,
       "category": "作品衍生"
     },
     {
@@ -3747,6 +3763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270127,
+      "num": 270127,
+      "word": "周也眉毛开叉了",
+      "onboard_time": 1684931490,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 269912,
       "num": 269912,
       "word": "泡泡 备份",
@@ -3913,14 +3937,6 @@
       "onboard_time": 1684840711,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 256393,
-      "num": 234568,
-      "word": "风雨中的女星们",
-      "onboard_time": 1684930888,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 255137,
@@ -4193,6 +4209,14 @@
       "onboard_time": 1684917931,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 239288,
+      "num": 239288,
+      "word": "华表奖易烊千玺在看王俊凯吗",
+      "onboard_time": 1684931191,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 238398,
@@ -4569,6 +4593,14 @@
       "onboard_time": 1684815211,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221404,
+      "num": 197750,
+      "word": "LWX登场LPL赛区七周年",
+      "onboard_time": 1684930888,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 220733,
@@ -5187,14 +5219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191692,
-      "num": 191692,
-      "word": "马龙 德班",
-      "onboard_time": 1684931129,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 191511,
       "num": 191511,
       "word": "00后民警收感谢信四处找同事炫耀",
@@ -5273,14 +5297,6 @@
       "onboard_time": 1684911152,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 189027,
-      "num": 189027,
-      "word": "华表奖易烊千玺在看王俊凯吗",
-      "onboard_time": 1684931191,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 188325,
@@ -5579,14 +5595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 175969,
-      "num": 175969,
-      "word": "LWX登场LPL赛区七周年",
-      "onboard_time": 1684930888,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 175349,
       "num": 175349,
       "word": "王者荣耀",
@@ -5795,6 +5803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164209,
+      "num": 164209,
+      "word": "全国统一的长辈审美",
+      "onboard_time": 1684928969,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 163845,
       "num": 163845,
       "word": "边伯贤泡泡",
@@ -5857,14 +5873,6 @@
       "onboard_time": 1684732410,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 160384,
-      "num": 160384,
-      "word": "周也眉毛开叉了",
-      "onboard_time": 1684931490,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 160119,
@@ -5963,6 +5971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157336,
+      "num": 170758,
+      "word": "咽喉炎自救指南",
+      "onboard_time": 1684929629,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157117,
       "num": 157117,
       "word": "肖战为残障青年故事纪录电影配音旁白",
@@ -6001,14 +6017,6 @@
       "onboard_time": 1684889910,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155747,
-      "num": 155747,
-      "word": "全国统一的长辈审美",
-      "onboard_time": 1684928969,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 155203,
@@ -6115,6 +6123,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 148150,
+      "num": 148150,
+      "word": "我九岁的兄弟是懂得拿捏人性的",
+      "onboard_time": 1684931909,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147581,
       "num": 147581,
       "word": "男朋友送过让你记忆犹新的礼物",
@@ -6217,14 +6233,6 @@
       "onboard_time": 1684748910,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 139195,
-      "num": 170758,
-      "word": "咽喉炎自救指南",
-      "onboard_time": 1684929629,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137575,
@@ -6715,8 +6723,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 93365,
-      "num": 191624,
+      "raw_hot": 94083,
+      "num": 378691,
       "word": "蔚来全新ES6价格公布",
       "onboard_time": 1684930888,
       "rank": 32,
@@ -7027,6 +7035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38144,
+      "num": 1106188,
+      "word": "中国经济高质量发展",
+      "onboard_time": 1684930649,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36302,
       "num": 169494,
       "word": "不越野还要买四驱吗",
@@ -7080,14 +7096,6 @@
       "word": "被造谣性骚扰当事人呼吁不要打扰证人",
       "onboard_time": 1684778773,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26418,
-      "num": 929480,
-      "word": "中国经济高质量发展",
-      "onboard_time": 1684930649,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
