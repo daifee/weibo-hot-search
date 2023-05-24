@@ -1,6 +1,6 @@
 {
   "startTime": 1684858934935,
-  "endTime": 1684902838702,
+  "endTime": 1684905339318,
   "band_list": [
     {
       "raw_hot": 2904722,
@@ -9,6 +9,14 @@
       "onboard_time": 1684898490,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2489315,
+      "num": 2489315,
+      "word": "月薪5000两年存了8万",
+      "onboard_time": 1684900711,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 1781665,
@@ -59,20 +67,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1326638,
-      "num": 1326638,
-      "word": "月薪5000两年存了8万",
-      "onboard_time": 1684900711,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1267995,
       "num": 1267995,
       "word": "鹿晗演唱会开票",
       "onboard_time": 1684901793,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1265650,
+      "num": 1265650,
+      "word": "IU或恢复在中国的活动",
+      "onboard_time": 1684901432,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1239851,
@@ -121,14 +129,6 @@
       "onboard_time": 1684847251,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1025307,
-      "num": 1025307,
-      "word": "IU或恢复在中国的活动",
-      "onboard_time": 1684901432,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 1015286,
@@ -227,6 +227,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 631860,
+      "num": 394713,
+      "word": "厦门一男医生体检时猥亵女子被拘",
+      "onboard_time": 1684902333,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 606746,
+      "num": 606746,
+      "word": "国泰航空事件",
+      "onboard_time": 1684904613,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 599505,
       "num": 597615,
       "word": "张子枫华表奖最年轻影后",
@@ -291,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 526149,
+      "num": 526149,
+      "word": "你猜为什么沈腾不读颁奖词",
+      "onboard_time": 1684900833,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 505927,
       "num": 190178,
       "word": "易烊千玺王俊凯同框",
@@ -305,6 +329,14 @@
       "onboard_time": 1684896089,
       "rank": 37,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 482321,
+      "num": 393937,
+      "word": "15岁女孩减肥仅24.8kg去世",
+      "onboard_time": 1684904074,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 464873,
@@ -355,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 392868,
+      "num": 392868,
+      "word": "谢娜女儿看到赵丽颖的广告叫妈妈",
+      "onboard_time": 1684904494,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 385050,
       "num": 187975,
       "word": "张译 颂文哥呢",
@@ -369,6 +409,14 @@
       "onboard_time": 1684833990,
       "rank": 9,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 377623,
+      "num": 377623,
+      "word": "我喜欢的组合 你应该不认识",
+      "onboard_time": 1684902635,
+      "rank": 34,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 366521,
@@ -393,6 +441,14 @@
       "onboard_time": 1684892549,
       "rank": 23,
       "category": "社会负面,教育"
+    },
+    {
+      "raw_hot": 357420,
+      "num": 357420,
+      "word": "鹿晗2023演唱会",
+      "onboard_time": 1684904016,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 346182,
@@ -427,6 +483,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 334996,
+      "num": 334996,
+      "word": "五月天演唱会",
+      "onboard_time": 1684902333,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 330011,
+      "num": 330011,
+      "word": "法老向志愿军老兵捐款",
+      "onboard_time": 1684904972,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 328003,
       "num": 247480,
       "word": "黄晓明一口气吃了四碗方便面",
@@ -449,14 +521,6 @@
       "onboard_time": 1684858888,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 313309,
-      "num": 313309,
-      "word": "你猜为什么沈腾不读颁奖词",
-      "onboard_time": 1684900833,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 311318,
@@ -499,6 +563,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 286943,
+      "num": 286943,
+      "word": "介于阿姨和姐姐之间的称呼",
+      "onboard_time": 1684901253,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 286804,
       "num": 286804,
       "word": "国泰航空近七成营收来自中国",
@@ -523,12 +595,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 283677,
+      "num": 283677,
+      "word": "lysn",
+      "onboard_time": 1684902995,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 283075,
       "num": 228180,
       "word": "巧乐兹夫妇商业版图盘点",
       "onboard_time": 1684858349,
       "rank": 16,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 269912,
+      "num": 269912,
+      "word": "泡泡 备份",
+      "onboard_time": 1684902273,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 266610,
@@ -563,30 +651,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 250275,
-      "num": 250275,
-      "word": "泡泡 备份",
-      "onboard_time": 1684902273,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 245318,
-      "num": 245318,
-      "word": "我喜欢的组合 你应该不认识",
-      "onboard_time": 1684902635,
-      "rank": 34,
-      "category": "情感,艺人"
-    },
-    {
-      "raw_hot": 244954,
-      "num": 244954,
-      "word": "五月天演唱会",
-      "onboard_time": 1684902333,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 244081,
       "num": 244081,
       "word": "第五人格",
@@ -601,14 +665,6 @@
       "onboard_time": 1684854096,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 241313,
-      "num": 241313,
-      "word": "厦门一男医生体检时猥亵女子被拘",
-      "onboard_time": 1684902333,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238398,
@@ -715,6 +771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 216496,
+      "num": 216496,
+      "word": "沈腾到底说了什么被白百何打",
+      "onboard_time": 1684902213,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216053,
       "num": 216053,
       "word": "秦海璐华表奖后台坐着睡着了",
@@ -763,14 +827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 207504,
-      "num": 207504,
-      "word": "介于阿姨和姐姐之间的称呼",
-      "onboard_time": 1684901253,
-      "rank": 48,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 202203,
       "num": 202203,
       "word": "警员将旧户口簿盖作废章留给孙女作纪念",
@@ -785,6 +841,14 @@
       "onboard_time": 1684890210,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195259,
+      "num": 195259,
+      "word": "如何看待国泰航空处理结果",
+      "onboard_time": 1684903231,
+      "rank": 41,
+      "category": "社会议题"
     },
     {
       "raw_hot": 192924,
@@ -913,6 +977,14 @@
       "onboard_time": 1684851817,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158729,
+      "num": 173172,
+      "word": "成都天府广场 太极图",
+      "onboard_time": 1684903054,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 155850,

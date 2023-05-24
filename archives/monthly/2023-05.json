@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684902838702,
+  "endTime": 1684905339318,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1009,6 +1009,14 @@
       "onboard_time": 1683537453,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2489315,
+      "num": 2489315,
+      "word": "月薪5000两年存了8万",
+      "onboard_time": 1684900711,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 2469874,
@@ -4571,14 +4579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1326638,
-      "num": 1326638,
-      "word": "月薪5000两年存了8万",
-      "onboard_time": 1684900711,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1326375,
       "num": 885189,
       "word": "赵露思 瘦而不柴",
@@ -4993,6 +4993,14 @@
       "onboard_time": 1684038687,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1265650,
+      "num": 1265650,
+      "word": "IU或恢复在中国的活动",
+      "onboard_time": 1684901432,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1265180,
@@ -6761,14 +6769,6 @@
       "onboard_time": 1683789448,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1025307,
-      "num": 1025307,
-      "word": "IU或恢复在中国的活动",
-      "onboard_time": 1684901432,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 1025234,
@@ -10731,6 +10731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 631860,
+      "num": 394713,
+      "word": "厦门一男医生体检时猥亵女子被拘",
+      "onboard_time": 1684902333,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 630899,
       "num": 630899,
       "word": "Angelababy红毯生图状态",
@@ -11153,6 +11161,14 @@
       "onboard_time": 1684810347,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 606746,
+      "num": 606746,
+      "word": "国泰航空事件",
+      "onboard_time": 1684904613,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 606499,
@@ -13059,6 +13075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 526149,
+      "num": 526149,
+      "word": "你猜为什么沈腾不读颁奖词",
+      "onboard_time": 1684900833,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 525933,
       "num": 525933,
       "word": "活该淄博爆火",
@@ -14313,6 +14337,14 @@
       "onboard_time": 1684844430,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 482321,
+      "num": 393937,
+      "word": "15岁女孩减肥仅24.8kg去世",
+      "onboard_time": 1684904074,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 482153,
@@ -18163,6 +18195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392868,
+      "num": 392868,
+      "word": "谢娜女儿看到赵丽颖的广告叫妈妈",
+      "onboard_time": 1684904494,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 392794,
       "num": 392794,
       "word": "王一博在拍什么",
@@ -18969,6 +19009,14 @@
       "onboard_time": 1684651708,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 377623,
+      "num": 377623,
+      "word": "我喜欢的组合 你应该不认识",
+      "onboard_time": 1684902635,
+      "rank": 34,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 377590,
@@ -20209,6 +20257,14 @@
       "onboard_time": 1683764728,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 357420,
+      "num": 357420,
+      "word": "鹿晗2023演唱会",
+      "onboard_time": 1684904016,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 357057,
@@ -21723,6 +21779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 334996,
+      "num": 334996,
+      "word": "五月天演唱会",
+      "onboard_time": 1683280411,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 334966,
       "num": 334966,
       "word": "公安机关对高空扔狗男子采取刑事强制措施",
@@ -21979,6 +22043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 330011,
+      "num": 330011,
+      "word": "法老向志愿军老兵捐款",
+      "onboard_time": 1684904972,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 329873,
       "num": 329873,
       "word": "柳智敏粉发",
@@ -22073,14 +22145,6 @@
       "onboard_time": 1684303535,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 328368,
-      "num": 328368,
-      "word": "五月天演唱会",
-      "onboard_time": 1683280411,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 328354,
@@ -23185,14 +23249,6 @@
       "onboard_time": 1684196128,
       "rank": 27,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 313309,
-      "num": 313309,
-      "word": "你猜为什么沈腾不读颁奖词",
-      "onboard_time": 1684900833,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 313269,
@@ -25219,6 +25275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286943,
+      "num": 286943,
+      "word": "介于阿姨和姐姐之间的称呼",
+      "onboard_time": 1684901253,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 286841,
       "num": 286841,
       "word": "网传徐怀钰三公进步大",
@@ -25561,6 +25625,14 @@
       "onboard_time": 1682910029,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 283677,
+      "num": 283677,
+      "word": "lysn",
+      "onboard_time": 1684902995,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 283594,
@@ -26673,6 +26745,14 @@
       "onboard_time": 1683169948,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 269912,
+      "num": 269912,
+      "word": "泡泡 备份",
+      "onboard_time": 1684902273,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 269860,
@@ -28731,14 +28811,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 250275,
-      "num": 250275,
-      "word": "泡泡 备份",
-      "onboard_time": 1684902273,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 250203,
       "num": 250203,
       "word": "林允儿李俊昊新剧预告",
@@ -29267,14 +29339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245318,
-      "num": 245318,
-      "word": "我喜欢的组合 你应该不认识",
-      "onboard_time": 1684902635,
-      "rank": 34,
-      "category": "情感,艺人"
-    },
-    {
       "raw_hot": 245234,
       "num": 245234,
       "word": "R1SE龙丹妮聚餐合照",
@@ -29801,14 +29865,6 @@
       "onboard_time": 1683110968,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 241313,
-      "num": 241313,
-      "word": "厦门一男医生体检时猥亵女子被拘",
-      "onboard_time": 1684902333,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 241273,
@@ -33091,6 +33147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 216496,
+      "num": 216496,
+      "word": "沈腾到底说了什么被白百何打",
+      "onboard_time": 1684902213,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216481,
       "num": 216481,
       "word": "沈梓捷",
@@ -34337,14 +34401,6 @@
       "onboard_time": 1684717468,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 207504,
-      "num": 207504,
-      "word": "介于阿姨和姐姐之间的称呼",
-      "onboard_time": 1684901253,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 207472,
@@ -36089,6 +36145,14 @@
       "onboard_time": 1683270267,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195259,
+      "num": 195259,
+      "word": "如何看待国泰航空处理结果",
+      "onboard_time": 1684903231,
+      "rank": 41,
+      "category": "社会议题"
     },
     {
       "raw_hot": 195258,
@@ -41593,6 +41657,14 @@
       "onboard_time": 1684735469,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158729,
+      "num": 173172,
+      "word": "成都天府广场 太极图",
+      "onboard_time": 1684903054,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 158726,
