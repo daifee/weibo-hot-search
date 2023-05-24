@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684884823235,
+  "endTime": 1684891632418,
   "band_list": [
     {
       "raw_hot": 3643134,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1711812,
+      "num": 1057833,
+      "word": "小学生在校内被老师开车撞倒身亡",
+      "onboard_time": 1684885106,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1696602,
       "num": 1696602,
       "word": "百度搜不到爱奇艺",
@@ -353,6 +361,14 @@
       "onboard_time": 1684850917,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1451584,
+      "num": 1451584,
+      "word": "陈飞宇拉魏大勋",
+      "onboard_time": 1684888951,
+      "rank": 0,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1439742,
@@ -611,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1134894,
+      "num": 1134894,
+      "word": "那个为爱减肥的广东少女走了",
+      "onboard_time": 1684884263,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1098545,
       "num": 738837,
       "word": "过期糖",
@@ -633,6 +657,14 @@
       "onboard_time": 1684811489,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1066458,
+      "num": 1066458,
+      "word": "Capper暂停演出",
+      "onboard_time": 1684883601,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 1065585,
@@ -739,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 937489,
+      "num": 937489,
+      "word": "在香港歧视普通话注定是个笑话",
+      "onboard_time": 1684885767,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 902643,
       "num": 590482,
       "word": "恩静",
@@ -785,6 +825,14 @@
       "onboard_time": 1684853496,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 850680,
+      "num": 247456,
+      "word": "厦门华天涉外学院砍人",
+      "onboard_time": 1684883962,
+      "rank": 14,
+      "category": "社会负面"
     },
     {
       "raw_hot": 849100,
@@ -872,6 +920,14 @@
       "word": "这婚纱照新娘有点多余了",
       "onboard_time": 1684743393,
       "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 805563,
+      "num": 625446,
+      "word": "胸不应该成为嘲笑我的把柄",
+      "onboard_time": 1684861579,
+      "rank": 39,
       "category": "情感"
     },
     {
@@ -988,7 +1044,7 @@
     },
     {
       "raw_hot": 716057,
-      "num": 343958,
+      "num": 586968,
       "word": "张子枫华表奖最年轻影后",
       "onboard_time": 1684853674,
       "rank": 21,
@@ -1227,6 +1283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 579338,
+      "num": 579338,
+      "word": "四川一中学老师输液时不幸身亡",
+      "onboard_time": 1684883482,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 577436,
       "num": 577436,
       "word": "国泰航空致歉",
@@ -1257,14 +1321,6 @@
       "onboard_time": 1684842630,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 573722,
-      "num": 273287,
-      "word": "四川一中学老师输液时不幸身亡",
-      "onboard_time": 1684883482,
-      "rank": 31,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 572781,
@@ -1451,6 +1507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 497915,
+      "num": 497915,
+      "word": "5旬女子花21万打抗癌针竟是可乐",
+      "onboard_time": 1684885106,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 497333,
       "num": 497333,
       "word": "女子凌晨打结做绳子把自己挂16楼窗外",
@@ -1609,6 +1673,14 @@
       "onboard_time": 1684806627,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 458749,
+      "num": 458749,
+      "word": "王俊凯发言镜头切了易烊千玺",
+      "onboard_time": 1684886490,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 457828,
@@ -1977,6 +2049,14 @@
       "onboard_time": 1684835068,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 380673,
+      "num": 380673,
+      "word": "患骨髓炎女网红被男网友蹲守",
+      "onboard_time": 1684887869,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 378015,
@@ -2427,6 +2507,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 311318,
+      "num": 311318,
+      "word": "aespa亮相戛纳",
+      "onboard_time": 1684884563,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 310394,
       "num": 310394,
       "word": "刘诗诗刘昊然同框",
@@ -2441,6 +2529,14 @@
       "onboard_time": 1684835430,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309189,
+      "num": 266982,
+      "word": "肖战射雕英雄传2023重点档期推荐",
+      "onboard_time": 1684886129,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 308267,
@@ -2521,6 +2617,14 @@
       "onboard_time": 1684813050,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 301039,
+      "num": 258769,
+      "word": "江西14岁女孩疑遭校园欺凌跳塘身亡",
+      "onboard_time": 1684886970,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297757,
@@ -2691,28 +2795,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 280081,
-      "num": 247456,
-      "word": "厦门华天涉外学院砍人",
-      "onboard_time": 1684883962,
-      "rank": 14,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 279529,
       "num": 171781,
       "word": "王景春好像被红蓝灯笼绑架了",
       "onboard_time": 1684842389,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 278198,
-      "num": 136131,
-      "word": "那个为爱减肥的广东少女走了",
-      "onboard_time": 1684884263,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278143,
@@ -2873,14 +2961,6 @@
       "onboard_time": 1684803926,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 262441,
-      "num": 262441,
-      "word": "胸不应该成为嘲笑我的把柄",
-      "onboard_time": 1684861579,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 262271,
@@ -3171,6 +3251,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 237020,
+      "num": 237020,
+      "word": "3岁男童走失27小时后被群众找到",
+      "onboard_time": 1684890149,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236437,
       "num": 236437,
       "word": "你用多久攒到人生第一个10万元",
@@ -3193,6 +3281,14 @@
       "onboard_time": 1684718368,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234452,
+      "num": 234452,
+      "word": "中国新任驻美国大使谢锋抵美履新",
+      "onboard_time": 1684887029,
+      "rank": 26,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 234313,
@@ -3307,6 +3403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230254,
+      "num": 230254,
+      "word": "退钱哥吐槽国泰航空空乘听不懂中文",
+      "onboard_time": 1684854395,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228950,
       "num": 228950,
       "word": "原来憋尿的危害这么大",
@@ -3345,14 +3449,6 @@
       "onboard_time": 1684679493,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 226459,
-      "num": 211498,
-      "word": "Capper暂停演出",
-      "onboard_time": 1684883601,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 225617,
@@ -3411,14 +3507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 223896,
-      "num": 223896,
-      "word": "退钱哥吐槽国泰航空空乘听不懂中文",
-      "onboard_time": 1684854395,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 223644,
       "num": 223644,
       "word": "德班世乒赛场馆停电了",
@@ -3449,6 +3537,14 @@
       "onboard_time": 1684815211,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221381,
+      "num": 217192,
+      "word": "伴你入睡的视频大多都是假的",
+      "onboard_time": 1684891048,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 220733,
@@ -3619,6 +3715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 211882,
+      "num": 211882,
+      "word": "10岁男童走失死亡案2嫌犯被抓",
+      "onboard_time": 1684891110,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211464,
       "num": 286334,
       "word": "毕业生换机首选",
@@ -3753,6 +3857,14 @@
       "onboard_time": 1684745248,
       "rank": 32,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 199447,
+      "num": 199447,
+      "word": "山西警方通报10岁男孩走失20天",
+      "onboard_time": 1684890210,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198462,
@@ -4243,6 +4355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 172714,
+      "num": 172714,
+      "word": "惠英红说宋佳不在下次再亲",
+      "onboard_time": 1684888050,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 172059,
       "num": 267563,
       "word": "李佳琦说主播不能一直吃老本",
@@ -4265,6 +4385,14 @@
       "onboard_time": 1684797923,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 171131,
+      "num": 171131,
+      "word": "10岁男孩身亡2嫌疑人系生母和继父",
+      "onboard_time": 1684891468,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171037,
@@ -4347,6 +4475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163538,
+      "num": 163538,
+      "word": "新娘婚礼公公携战友合唱军歌超震撼",
+      "onboard_time": 1684891231,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162988,
       "num": 162988,
       "word": "哪些话陪伴你拼过整个高三",
@@ -4385,6 +4521,14 @@
       "onboard_time": 1684796597,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161114,
+      "num": 161114,
+      "word": "把自己当女儿养后内耗变少了",
+      "onboard_time": 1684891289,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 160690,
@@ -4507,6 +4651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155850,
+      "num": 155850,
+      "word": "宝妈带孩子坐高铁检票员提前放行",
+      "onboard_time": 1684889910,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155203,
       "num": 155203,
       "word": "怎么别人的爱情都这么好嗑",
@@ -4553,6 +4705,14 @@
       "onboard_time": 1684755328,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152362,
+      "num": 152362,
+      "word": "阴阳师",
+      "onboard_time": 1684889970,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 151428,
@@ -4865,14 +5025,6 @@
       "onboard_time": 1684681894,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 125701,
-      "num": 125701,
-      "word": "aespa亮相戛纳",
-      "onboard_time": 1684884563,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 125541,
