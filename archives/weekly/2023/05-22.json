@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684910063130,
+  "endTime": 1684912523644,
   "band_list": [
     {
       "raw_hot": 3643134,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 2879677,
-      "num": 528573,
+      "num": 565248,
       "word": "陆虎陈曌旭领证",
       "onboard_time": 1684907068,
       "rank": 11,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 2169685,
-      "num": 1037525,
+      "num": 1114288,
       "word": "丁泽仁把四年老粉告了",
       "onboard_time": 1684906229,
       "rank": 12,
@@ -371,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1548768,
+      "num": 1548768,
+      "word": "15岁女孩减肥仅24.8kg去世",
+      "onboard_time": 1684904074,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1535149,
       "num": 1535149,
       "word": "王俊凯易烊千玺隔了一个银河",
@@ -425,14 +433,6 @@
       "onboard_time": 1684735947,
       "rank": 24,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1421500,
-      "num": 1421500,
-      "word": "15岁女孩减肥仅24.8kg去世",
-      "onboard_time": 1684904074,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1421417,
@@ -715,6 +715,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1131106,
+      "num": 1131106,
+      "word": "谢娜女儿看到赵丽颖的广告叫妈妈",
+      "onboard_time": 1684904494,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1108683,
+      "num": 1108683,
+      "word": "鹿晗 优先权",
+      "onboard_time": 1684909049,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1099441,
       "num": 1099441,
       "word": "老婆大人",
@@ -819,14 +835,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1006660,
-      "num": 1006660,
-      "word": "谢娜女儿看到赵丽颖的广告叫妈妈",
-      "onboard_time": 1684904494,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1005321,
       "num": 1005321,
       "word": "应采儿的大儿子",
@@ -883,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 939018,
+      "num": 939018,
+      "word": "居民清理油烟机掏出一窝国家级宝宝",
+      "onboard_time": 1684906829,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 919917,
       "num": 919917,
       "word": "成灿shotaro离开NCT",
@@ -915,6 +931,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 890141,
+      "num": 890141,
+      "word": "章泽天撞脸陈都灵",
+      "onboard_time": 1684909709,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 888378,
       "num": 888378,
       "word": "5旬女子花21万打抗癌针竟是可乐",
@@ -944,14 +968,6 @@
       "word": "金星伴月",
       "onboard_time": 1684843532,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 865117,
-      "num": 865117,
-      "word": "居民清理油烟机掏出一窝国家级宝宝",
-      "onboard_time": 1684906829,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -1177,6 +1193,14 @@
       "onboard_time": 1684823669,
       "rank": 44,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 719993,
+      "num": 719993,
+      "word": "刘亚仁被上铐送往拘留所",
+      "onboard_time": 1684907791,
+      "rank": 14,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 716057,
@@ -1523,14 +1547,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 567089,
-      "num": 567089,
-      "word": "刘亚仁被上铐送往拘留所",
-      "onboard_time": 1684907791,
-      "rank": 14,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 566584,
       "num": 566584,
       "word": "李家超说类似国泰事件不容再发生",
@@ -1771,6 +1787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 490842,
+      "num": 490842,
+      "word": "张远又可以唱嘉宾了",
+      "onboard_time": 1684908931,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 490702,
       "num": 350289,
       "word": "顶级东方美貌",
@@ -1947,20 +1971,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 450622,
-      "num": 450622,
-      "word": "鹿晗 优先权",
-      "onboard_time": 1684909049,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 450021,
       "num": 372091,
       "word": "杨超越把玫瑰穿在身上了",
       "onboard_time": 1684817013,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 449782,
+      "num": 449782,
+      "word": "科大讯飞",
+      "onboard_time": 1684909291,
+      "rank": 34,
+      "category": "科技"
     },
     {
       "raw_hot": 449764,
@@ -2443,12 +2467,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 360239,
-      "num": 235414,
-      "word": "张远又可以唱嘉宾了",
-      "onboard_time": 1684908931,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 360050,
+      "num": 360050,
+      "word": "国泰总裁林绍波再次致歉",
+      "onboard_time": 1684909530,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 359709,
@@ -2675,6 +2699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 330154,
+      "num": 278518,
+      "word": "杨紫复古梦幻大片预告",
+      "onboard_time": 1684911090,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 328028,
       "num": 328028,
       "word": "谢霆锋怎么保养的",
@@ -2689,6 +2721,14 @@
       "onboard_time": 1684745068,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 326551,
+      "num": 187190,
+      "word": "白鹿张凌赫奔跑吧撑伞路透",
+      "onboard_time": 1684912410,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 325220,
@@ -3081,6 +3121,14 @@
       "onboard_time": 1684906769,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 288600,
+      "num": 288600,
+      "word": "10岁遇害男孩生母和继父曾流泪寻人",
+      "onboard_time": 1684907669,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286943,
@@ -3587,6 +3635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 243906,
+      "num": 186771,
+      "word": "华晨宇武汉演唱会",
+      "onboard_time": 1684912469,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 243743,
       "num": 243743,
       "word": "杭州东站停电",
@@ -3667,12 +3723,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 241168,
-      "num": 235206,
-      "word": "章泽天撞脸陈都灵",
-      "onboard_time": 1684909709,
-      "rank": 31,
-      "category": "作品衍生"
+      "raw_hot": 241285,
+      "num": 241285,
+      "word": "怎么游戏里景区也是人人人",
+      "onboard_time": 1684911630,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 240356,
@@ -3739,12 +3795,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236082,
-      "num": 236082,
-      "word": "国泰总裁林绍波再次致歉",
-      "onboard_time": 1684909530,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 235200,
+      "num": 180293,
+      "word": "奔跑吧路透",
+      "onboard_time": 1684911691,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 235037,
@@ -3881,6 +3937,14 @@
       "onboard_time": 1684746151,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 231179,
+      "num": 177197,
+      "word": "陆虎购物清单里都是嘘嘘",
+      "onboard_time": 1684909950,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 230718,
@@ -4083,14 +4147,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 218582,
-      "num": 218582,
-      "word": "科大讯飞",
-      "onboard_time": 1684909291,
-      "rank": 34,
-      "category": "科技"
-    },
-    {
       "raw_hot": 218469,
       "num": 218469,
       "word": "这届90后是懂带娃的",
@@ -4121,14 +4177,6 @@
       "onboard_time": 1684808908,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 216756,
-      "num": 216756,
-      "word": "10岁遇害男孩生母和继父曾流泪寻人",
-      "onboard_time": 1684907669,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216652,
@@ -4363,6 +4411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202470,
+      "num": 186620,
+      "word": "你的胸不需要非得是美的",
+      "onboard_time": 1684912050,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 202265,
       "num": 156151,
       "word": "王嘉尔的肩好宽",
@@ -4587,6 +4643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191511,
+      "num": 191511,
+      "word": "00后民警收感谢信四处找同事炫耀",
+      "onboard_time": 1684909588,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190163,
       "num": 190163,
       "word": "海清戛纳红毯",
@@ -4633,6 +4697,14 @@
       "onboard_time": 1684759107,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189302,
+      "num": 167516,
+      "word": "栩栩华生盛典官宣易烊千玺杨洋",
+      "onboard_time": 1684911809,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 189098,
@@ -4769,14 +4841,6 @@
       "onboard_time": 1684805848,
       "rank": 32,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 181598,
-      "num": 181598,
-      "word": "00后民警收感谢信四处找同事炫耀",
-      "onboard_time": 1684909588,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181586,
@@ -5043,6 +5107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 169839,
+      "num": 169839,
+      "word": "LPL夏季赛29日开赛",
+      "onboard_time": 1684911152,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168433,
       "num": 168433,
       "word": "如何区分呼吸道合胞病毒和流感",
@@ -5073,14 +5145,6 @@
       "onboard_time": 1684672591,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 167102,
-      "num": 167102,
-      "word": "陆虎购物清单里都是嘘嘘",
-      "onboard_time": 1684909950,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 166984,
@@ -5377,6 +5441,14 @@
       "onboard_time": 1684711641,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149888,
+      "num": 149888,
+      "word": "沈腾唯一的姐",
+      "onboard_time": 1684912350,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 149714,
@@ -5875,6 +5947,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 110398,
+      "num": 532910,
+      "word": "Reno10发布会",
+      "onboard_time": 1684907129,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 109324,
       "num": 109324,
       "word": "警花对摔伤女子说别哭有我们在",
@@ -6289,14 +6369,6 @@
       "onboard_time": 1684826788,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35432,
-      "num": 532910,
-      "word": "Reno10发布会",
-      "onboard_time": 1684907129,
-      "rank": 10,
-      "category": "科技"
     },
     {
       "raw_hot": 33184,
