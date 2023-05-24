@@ -1,0 +1,410 @@
+{
+  "runTime": 1684893153725,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1545279,
+        "num": 1545279,
+        "word": "陈飞宇拉魏大勋",
+        "onboard_time": 1684888951,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1220539,
+        "num": 1220539,
+        "word": "那个为爱减肥的广东少女走了",
+        "onboard_time": 1684884263,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42462,
+        "num": 1032385,
+        "word": "五星红旗又一次在珠峰之巅飘扬",
+        "onboard_time": 1684847914,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1239851,
+        "num": 1030632,
+        "word": "国泰航空3名歧视乘客空乘被解聘",
+        "onboard_time": 1684850917,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1014551,
+        "num": 1014551,
+        "word": "在香港歧视普通话注定是个笑话",
+        "onboard_time": 1684885767,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1781665,
+        "num": 993989,
+        "word": "小学生在校内被老师开车撞倒身亡",
+        "onboard_time": 1684885106,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 962904,
+        "num": 962904,
+        "word": "Capper暂停演出",
+        "onboard_time": 1684883601,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 716017,
+        "num": 716017,
+        "word": "刘烨分了一把瓜子给易烊千玺",
+        "onboard_time": 1684853317,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 710098,
+        "num": 710098,
+        "word": "张译发言 陈凯歌表情",
+        "onboard_time": 1684853496,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 649855,
+        "num": 649855,
+        "word": "10岁男孩身亡2嫌疑人系生母和继父",
+        "onboard_time": 1684891468,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 808974,
+        "num": 612926,
+        "word": "胸不应该成为嘲笑我的把柄",
+        "onboard_time": 1684861579,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 536916,
+        "num": 536916,
+        "word": "张子枫华表奖最年轻影后",
+        "onboard_time": 1684853674,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 535793,
+        "num": 535793,
+        "word": "易烊千玺听到刘烨获奖的表情",
+        "onboard_time": 1684856132,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 501917,
+        "num": 501917,
+        "word": "刘浩存仪态",
+        "onboard_time": 1684855472,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 489932,
+        "num": 489932,
+        "word": "谁来救救江疏影",
+        "onboard_time": 1684849472,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 447186,
+        "num": 447186,
+        "word": "四川一中学老师输液时不幸身亡",
+        "onboard_time": 1684883482,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 434060,
+        "num": 434060,
+        "word": "患骨髓炎女网红被男网友蹲守",
+        "onboard_time": 1684887869,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404972,
+        "num": 404972,
+        "word": "王俊凯发言镜头切了易烊千玺",
+        "onboard_time": 1684886490,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 376358,
+        "num": 376358,
+        "word": "5旬女子花21万打抗癌针竟是可乐",
+        "onboard_time": 1684885106,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344583,
+        "num": 344583,
+        "word": "伴你入睡的视频大多都是假的",
+        "onboard_time": 1684891048,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 627638,
+        "num": 333006,
+        "word": "离职两个月了工资还一直在发",
+        "onboard_time": 1684853496,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 306338,
+        "num": 306338,
+        "word": "把自己当女儿养后内耗变少了",
+        "onboard_time": 1684891289,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280382,
+        "num": 280382,
+        "word": "aespa亮相戛纳",
+        "onboard_time": 1684884563,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265874,
+        "num": 265874,
+        "word": "厦门华天涉外学院",
+        "onboard_time": 1684892549,
+        "rank": 23,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 242921,
+        "num": 242921,
+        "word": "华表奖获奖名单",
+        "onboard_time": 1684847251,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240249,
+        "num": 240249,
+        "word": "肖战射雕英雄传2023重点档期推荐",
+        "onboard_time": 1684886129,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221597,
+        "num": 221597,
+        "word": "国泰航空近七成营收来自中国",
+        "onboard_time": 1684891827,
+        "rank": 26,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 219274,
+        "num": 219274,
+        "word": "退钱哥吐槽国泰航空空乘听不懂中文",
+        "onboard_time": 1684854395,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210819,
+        "num": 210819,
+        "word": "江西14岁女孩疑遭校园欺凌跳塘身亡",
+        "onboard_time": 1684886970,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199342,
+        "num": 199342,
+        "word": "3名强奸未成年人罪犯被执行死刑",
+        "onboard_time": 1684835068,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 204492,
+        "num": 196739,
+        "word": "10岁男童走失死亡案2嫌犯被抓",
+        "onboard_time": 1684891110,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192464,
+        "num": 192464,
+        "word": "邓超 显眼包",
+        "onboard_time": 1684853795,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189535,
+        "num": 189535,
+        "word": "陈赫憋笑",
+        "onboard_time": 1684856852,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183561,
+        "num": 183561,
+        "word": "新娘婚礼公公携战友合唱军歌超震撼",
+        "onboard_time": 1684891231,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180531,
+        "num": 180531,
+        "word": "食人族都吃不了打工人的苦",
+        "onboard_time": 1684854577,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178173,
+        "num": 178173,
+        "word": "老人报警丢失8000元民警找出1万8",
+        "onboard_time": 1684858888,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175557,
+        "num": 175557,
+        "word": "3岁男童走失27小时后被群众找到",
+        "onboard_time": 1684890149,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175067,
+        "num": 175067,
+        "word": "中国新任驻美国大使谢锋抵美履新",
+        "onboard_time": 1684887029,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 168433,
+        "num": 168433,
+        "word": "如何区分呼吸道合胞病毒和流感",
+        "onboard_time": 1684892848,
+        "rank": 38,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 168371,
+        "num": 168371,
+        "word": "山西警方通报10岁男孩走失20天",
+        "onboard_time": 1684890210,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166928,
+        "num": 166928,
+        "word": "新娘婚礼当天被50斤苗服压哭",
+        "onboard_time": 1684850436,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159289,
+        "num": 159289,
+        "word": "港府要求国泰管理层立刻改善服务",
+        "onboard_time": 1684893029,
+        "rank": 41,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 150489,
+        "num": 150489,
+        "word": "boss直聘崩了",
+        "onboard_time": 1684893087,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 148001,
+        "num": 148001,
+        "word": "金珉奎签售",
+        "onboard_time": 1684853674,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147593,
+        "num": 147593,
+        "word": "惠英红说宋佳不在下次再亲",
+        "onboard_time": 1684888050,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143041,
+        "num": 143041,
+        "word": "国泰航空",
+        "onboard_time": 1684851817,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143032,
+        "num": 143032,
+        "word": "易烊千玺王俊凯同框",
+        "onboard_time": 1684850977,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119365,
+        "num": 142327,
+        "word": "阴阳师",
+        "onboard_time": 1684889970,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 31376,
+        "num": 141978,
+        "word": "湘北猫德学院",
+        "onboard_time": 1684848573,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 30879,
+        "num": 141908,
+        "word": "淄博烧烤摊主开始卷横幅了",
+        "onboard_time": 1684841729,
+        "rank": 49,
+        "category": "美食,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力打造国家级乃至世界级艺术殿堂#"
+    }
+  }
+}
