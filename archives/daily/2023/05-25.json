@@ -1,6 +1,6 @@
 {
   "startTime": 1684945355711,
-  "endTime": 1684948509614,
+  "endTime": 1684949614646,
   "band_list": [
     {
       "raw_hot": 1343159,
@@ -339,6 +339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 121981,
+      "num": 121981,
+      "word": "网友称国泰航空涉事航班挨个问要不要毛毯",
+      "onboard_time": 1684948157,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108675,
       "num": 93988,
       "word": "你们竟然请运动员真打排球啊",
@@ -379,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93755,
+      "num": 70635,
+      "word": "钢琴家的手",
+      "onboard_time": 1684946362,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 90049,
       "num": 141548,
       "word": "印度19岁女子穿比基尼乘地铁",
@@ -393,14 +409,6 @@
       "onboard_time": 1684940070,
       "rank": 46,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 70635,
-      "num": 70635,
-      "word": "钢琴家的手",
-      "onboard_time": 1684946362,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 65850,
@@ -427,12 +435,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 50655,
-      "num": 53994,
-      "word": "网友称国泰航空涉事航班挨个问要不要毛毯",
-      "onboard_time": 1684948157,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 55829,
+      "num": 55829,
+      "word": "老师最后一课打开屏幕瞬间破防",
+      "onboard_time": 1684944446,
+      "rank": 41,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 51993,
+      "num": 51993,
+      "word": "美依礼芽四公或将唱青鸟",
+      "onboard_time": 1684948937,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 18133,

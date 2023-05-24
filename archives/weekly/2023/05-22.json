@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684948509614,
+  "endTime": 1684949614646,
   "band_list": [
     {
       "raw_hot": 3643134,
@@ -6899,6 +6899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 121981,
+      "num": 121981,
+      "word": "网友称国泰航空涉事航班挨个问要不要毛毯",
+      "onboard_time": 1684948157,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121264,
       "num": 121264,
       "word": "婴儿烫伤转院异地交警接力开道",
@@ -7187,6 +7195,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 93755,
+      "num": 70635,
+      "word": "钢琴家的手",
+      "onboard_time": 1684946362,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92040,
       "num": 592309,
       "word": "原神3.7版本更新 八重神子",
@@ -7289,14 +7305,6 @@
       "onboard_time": 1684776196,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 70635,
-      "num": 70635,
-      "word": "钢琴家的手",
-      "onboard_time": 1684946362,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 67340,
@@ -7403,6 +7411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 55829,
+      "num": 55829,
+      "word": "老师最后一课打开屏幕瞬间破防",
+      "onboard_time": 1684944446,
+      "rank": 41,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 54436,
       "num": 1914259,
       "word": "五星红旗又一次在珠峰之巅飘扬",
@@ -7435,20 +7451,20 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 51993,
+      "num": 51993,
+      "word": "美依礼芽四公或将唱青鸟",
+      "onboard_time": 1684948937,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 51553,
       "num": 195651,
       "word": "AG男团是什么团",
       "onboard_time": 1684839810,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 50655,
-      "num": 53994,
-      "word": "网友称国泰航空涉事航班挨个问要不要毛毯",
-      "onboard_time": 1684948157,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50389,
