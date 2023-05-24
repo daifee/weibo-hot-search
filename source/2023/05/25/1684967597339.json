@@ -1,0 +1,410 @@
+{
+  "runTime": 1684967597339,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 387075,
+        "num": 387075,
+        "word": "网传一大学所有饮品店禁止使用冰块",
+        "onboard_time": 1684957814,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239128,
+        "num": 239128,
+        "word": "美国科技大亨用17岁儿子血浆换血",
+        "onboard_time": 1684943427,
+        "rank": 1,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 9497,
+        "num": 191829,
+        "word": "数字化改革里的民生温度",
+        "onboard_time": 1684938272,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308350,
+        "num": 191623,
+        "word": "员工每天带薪拉屎3至6小时被解雇",
+        "onboard_time": 1684936892,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187814,
+        "num": 187814,
+        "word": "都不买榴莲我就放心了",
+        "onboard_time": 1684937793,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184876,
+        "num": 184876,
+        "word": "网友称国泰航空涉事航班挨个问要不要毛毯",
+        "onboard_time": 1684948157,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167868,
+        "num": 167868,
+        "word": "公主小妹照进现实",
+        "onboard_time": 1684934370,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149472,
+        "num": 149472,
+        "word": "谁给白鹿做的妆造",
+        "onboard_time": 1684937498,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136306,
+        "num": 136306,
+        "word": "杨迪我分完了张柏芝我离完了",
+        "onboard_time": 1684932750,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128252,
+        "num": 128252,
+        "word": "刘亚仁对警方隐瞒真实住址",
+        "onboard_time": 1684941510,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 172338,
+        "num": 125930,
+        "word": "苏醒晒陆虎的官宣朋友圈",
+        "onboard_time": 1684945584,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121017,
+        "num": 121017,
+        "word": "山西10岁被害男孩今晚在生父村下葬",
+        "onboard_time": 1684939410,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98260,
+        "num": 98260,
+        "word": "男医生体检时猥亵女子被吊销执业资格",
+        "onboard_time": 1684920451,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97652,
+        "num": 97652,
+        "word": "上海高架",
+        "onboard_time": 1684937611,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92949,
+        "num": 92949,
+        "word": "谁来救救白敬亭",
+        "onboard_time": 1684935391,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 85730,
+        "num": 85730,
+        "word": "偶遇倪大红惠英红逛夜市",
+        "onboard_time": 1684940851,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79354,
+        "num": 79354,
+        "word": "赵露思换妆容",
+        "onboard_time": 1684938931,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 78886,
+        "num": 78886,
+        "word": "迪丽热巴刘亦菲同款驼峰鼻",
+        "onboard_time": 1684933350,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 73839,
+        "num": 73839,
+        "word": "莫兰特",
+        "onboard_time": 1684942409,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71729,
+        "num": 71729,
+        "word": "杨紫的发际线",
+        "onboard_time": 1684934191,
+        "rank": 19,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 152975,
+        "num": 70115,
+        "word": "结婚6年没孩子一查丈夫竟是女儿身",
+        "onboard_time": 1684919969,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109722,
+        "num": 67954,
+        "word": "女性30岁生育算高龄产妇吗",
+        "onboard_time": 1684927708,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86072,
+        "num": 64217,
+        "word": "肖战如梦之梦豆瓣9.3分",
+        "onboard_time": 1684941029,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 75715,
+        "num": 63235,
+        "word": "交了男朋友后才知道的事",
+        "onboard_time": 1684936470,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61389,
+        "num": 61389,
+        "word": "沈月回应闺蜜婚礼上当花童",
+        "onboard_time": 1684930289,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60421,
+        "num": 60421,
+        "word": "相亲对象每天只跟我聊工作问题",
+        "onboard_time": 1684939113,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55678,
+        "num": 55678,
+        "word": "王一博的减脂餐",
+        "onboard_time": 1684928008,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53927,
+        "num": 53927,
+        "word": "上海交警通报两车高架上斗气碰撞",
+        "onboard_time": 1684937672,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53837,
+        "num": 53837,
+        "word": "aespa戛纳妆造",
+        "onboard_time": 1684939233,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 52739,
+        "num": 52739,
+        "word": "法老你真的我哭死",
+        "onboard_time": 1684926869,
+        "rank": 29,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 93413,
+        "num": 52435,
+        "word": "清洁工躺车库被碾亡司机申请国赔",
+        "onboard_time": 1684963273,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51874,
+        "num": 51874,
+        "word": "你们竟然请运动员真打排球啊",
+        "onboard_time": 1684944864,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 51505,
+        "num": 51505,
+        "word": "奶奶用零食包装袋做的门帘",
+        "onboard_time": 1684962553,
+        "rank": 32,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 47481,
+        "num": 47481,
+        "word": "眉姐姐穿丑衣服",
+        "onboard_time": 1684936531,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42892,
+        "num": 42892,
+        "word": "10分钟被AI换脸骗走430万元",
+        "onboard_time": 1684949117,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39671,
+        "num": 39671,
+        "word": "易烊千玺栩栩华生内场饭拍",
+        "onboard_time": 1684935871,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38336,
+        "num": 38336,
+        "word": "白敬亭用的什么粉底",
+        "onboard_time": 1684934971,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36636,
+        "num": 36636,
+        "word": "迪丽热巴佟大为公诉或将双台播出",
+        "onboard_time": 1684965735,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37450,
+        "num": 36294,
+        "word": "白敬亭淋雨神图",
+        "onboard_time": 1684933530,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33818,
+        "num": 33818,
+        "word": "听过最离谱的分手理由是什么",
+        "onboard_time": 1684943068,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33473,
+        "num": 33473,
+        "word": "美依礼芽四公或将唱青鸟",
+        "onboard_time": 1684948937,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32270,
+        "num": 32270,
+        "word": "刘亦菲要进组了",
+        "onboard_time": 1684937852,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30889,
+        "num": 30889,
+        "word": "华表奖易烊千玺在看王俊凯吗",
+        "onboard_time": 1684931191,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29931,
+        "num": 29931,
+        "word": "怦然3素人嘉宾撞脸张真源",
+        "onboard_time": 1684942950,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29621,
+        "num": 29621,
+        "word": "鹿晗演唱会主办公司场均收入超千万",
+        "onboard_time": 1684932688,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 29344,
+        "num": 29344,
+        "word": "钟楚曦戛纳选裙子的秘诀",
+        "onboard_time": 1684966996,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28990,
+        "num": 28990,
+        "word": "钢琴家的手",
+        "onboard_time": 1684946362,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24557,
+        "num": 28990,
+        "word": "浙江59岁孕妇成功产下一女婴",
+        "onboard_time": 1684913910,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21665,
+        "num": 28989,
+        "word": "韩国亚运会",
+        "onboard_time": 1684923089,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 11950,
+        "num": 28988,
+        "word": "LWX登场LPL赛区七周年",
+        "onboard_time": 1684930888,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见俄罗斯总理#"
+    }
+  }
+}

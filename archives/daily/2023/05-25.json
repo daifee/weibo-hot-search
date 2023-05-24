@@ -1,6 +1,6 @@
 {
   "startTime": 1684945355711,
-  "endTime": 1684966544486,
+  "endTime": 1684967597339,
   "band_list": [
     {
       "raw_hot": 1343159,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387075,
+      "num": 387075,
+      "word": "网传一大学所有饮品店禁止使用冰块",
+      "onboard_time": 1684957814,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347626,
       "num": 347626,
       "word": "莫兰特",
@@ -153,14 +161,6 @@
       "onboard_time": 1684930289,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 275593,
-      "num": 275593,
-      "word": "网传一大学所有饮品店禁止使用冰块",
-      "onboard_time": 1684957814,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 272577,
@@ -235,20 +235,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 184876,
+      "num": 184876,
+      "word": "网友称国泰航空涉事航班挨个问要不要毛毯",
+      "onboard_time": 1684948157,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178369,
       "num": 178369,
       "word": "相亲对象每天只跟我聊工作问题",
       "onboard_time": 1684939113,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 177016,
-      "num": 170076,
-      "word": "网友称国泰航空涉事航班挨个问要不要毛毯",
-      "onboard_time": 1684948157,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172355,
@@ -403,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93413,
+      "num": 52435,
+      "word": "清洁工躺车库被碾亡司机申请国赔",
+      "onboard_time": 1684963273,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90049,
       "num": 141548,
       "word": "印度19岁女子穿比基尼乘地铁",
@@ -417,14 +425,6 @@
       "onboard_time": 1684940070,
       "rank": 46,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 72411,
-      "num": 37769,
-      "word": "清洁工躺车库被碾亡司机申请国赔",
-      "onboard_time": 1684963273,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66530,
@@ -467,28 +467,36 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 38262,
-      "num": 38262,
-      "word": "10分钟被AI换脸骗走430万元",
-      "onboard_time": 1684949117,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32626,
-      "num": 32626,
+      "raw_hot": 51505,
+      "num": 51505,
       "word": "奶奶用零食包装袋做的门帘",
       "onboard_time": 1684962553,
       "rank": 34,
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 27595,
-      "num": 27595,
+      "raw_hot": 42892,
+      "num": 42892,
+      "word": "10分钟被AI换脸骗走430万元",
+      "onboard_time": 1684949117,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36636,
+      "num": 36636,
       "word": "迪丽热巴佟大为公诉或将双台播出",
       "onboard_time": 1684965735,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 29344,
+      "num": 29344,
+      "word": "钟楚曦戛纳选裙子的秘诀",
+      "onboard_time": 1684966996,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 26121,
