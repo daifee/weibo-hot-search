@@ -1,6 +1,6 @@
 {
   "startTime": 1684858934935,
-  "endTime": 1684906411404,
+  "endTime": 1684909298265,
   "band_list": [
     {
       "raw_hot": 2904722,
@@ -11,12 +11,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2879677,
+      "num": 499295,
+      "word": "陆虎陈曌旭领证",
+      "onboard_time": 1684907068,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2489315,
       "num": 2489315,
       "word": "月薪5000两年存了8万",
       "onboard_time": 1684900711,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2169685,
+      "num": 909611,
+      "word": "丁泽仁把四年老粉告了",
+      "onboard_time": 1684906229,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1781665,
@@ -65,6 +81,14 @@
       "onboard_time": 1684855472,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1283653,
+      "num": 1283653,
+      "word": "15岁女孩减肥仅24.8kg去世",
+      "onboard_time": 1684904074,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1267995,
@@ -195,6 +219,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 881575,
+      "num": 881575,
+      "word": "谢娜女儿看到赵丽颖的广告叫妈妈",
+      "onboard_time": 1684904494,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 865117,
+      "num": 865117,
+      "word": "居民清理油烟机掏出一窝国家级宝宝",
+      "onboard_time": 1684906829,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 850680,
       "num": 247456,
       "word": "厦门华天涉外学院砍人",
@@ -241,14 +281,6 @@
       "onboard_time": 1684836030,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 638004,
-      "num": 565157,
-      "word": "丁泽仁把四年老粉告了",
-      "onboard_time": 1684906229,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 631860,
@@ -323,14 +355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 548674,
-      "num": 548674,
-      "word": "谢娜女儿看到赵丽颖的广告叫妈妈",
-      "onboard_time": 1684904494,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 544473,
       "num": 526149,
       "word": "你猜为什么沈腾不读颁奖词",
@@ -355,12 +379,28 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 482321,
-      "num": 458935,
-      "word": "15岁女孩减肥仅24.8kg去世",
-      "onboard_time": 1684904074,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 504218,
+      "num": 493421,
+      "word": "法老向志愿军老兵捐款",
+      "onboard_time": 1684904972,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 492105,
+      "num": 492105,
+      "word": "刘亚仁被上铐送往拘留所",
+      "onboard_time": 1684907791,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 490032,
+      "num": 330015,
+      "word": "虞书欣 纪梵希",
+      "onboard_time": 1684906952,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 464873,
@@ -385,14 +425,6 @@
       "onboard_time": 1684896749,
       "rank": 17,
       "category": "财经"
-    },
-    {
-      "raw_hot": 437660,
-      "num": 437660,
-      "word": "法老向志愿军老兵捐款",
-      "onboard_time": 1684904972,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 434060,
@@ -459,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 360239,
+      "num": 232793,
+      "word": "张远又可以唱嘉宾了",
+      "onboard_time": 1684908931,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 360075,
       "num": 360075,
       "word": "山西失联20天的11岁男孩已身亡",
@@ -507,6 +547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 337546,
+      "num": 337546,
+      "word": "陈飞宇的任务是保持陈凯歌C位",
+      "onboard_time": 1684907611,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 337347,
       "num": 337347,
       "word": "周深被动C位",
@@ -521,6 +569,14 @@
       "onboard_time": 1684902333,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 334088,
+      "num": 334088,
+      "word": "阿里云回应裁员",
+      "onboard_time": 1684906592,
+      "rank": 19,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 328003,
@@ -545,6 +601,14 @@
       "onboard_time": 1684858888,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315391,
+      "num": 289995,
+      "word": "奔跑吧首次录制直播",
+      "onboard_time": 1684906708,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 311318,
@@ -585,6 +649,14 @@
       "onboard_time": 1684896148,
       "rank": 43,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 289909,
+      "num": 289909,
+      "word": "shohei",
+      "onboard_time": 1684906769,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 286943,
@@ -737,6 +809,14 @@
       "onboard_time": 1684887029,
       "rank": 26,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 232640,
+      "num": 232640,
+      "word": "鹿晗 优先权",
+      "onboard_time": 1684909049,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 230718,
@@ -947,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187033,
+      "num": 187033,
+      "word": "10岁遇害男孩生母和继父曾流泪寻人",
+      "onboard_time": 1684907669,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185354,
       "num": 122628,
       "word": "刘敏涛穿红色就有好笑的事发生",
@@ -1017,6 +1105,14 @@
       "onboard_time": 1684888050,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 170368,
+      "num": 170368,
+      "word": "厦门直播",
+      "onboard_time": 1684909049,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169905,
@@ -1179,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108066,
+      "num": 290003,
+      "word": "好人像选Reno",
+      "onboard_time": 1684907849,
+      "rank": 24,
+      "category": "科技"
+    },
+    {
       "raw_hot": 106721,
       "num": 419549,
       "word": "什么焦段最适合拍人像",
@@ -1337,6 +1441,14 @@
       "onboard_time": 1684758209,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28637,
+      "num": 500358,
+      "word": "Reno10发布会",
+      "onboard_time": 1684907129,
+      "rank": 10,
+      "category": "科技"
     },
     {
       "raw_hot": 23666,

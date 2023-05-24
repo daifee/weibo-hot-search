@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684906411404,
+  "endTime": 1684909298265,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -577,6 +577,14 @@
       "onboard_time": 1684671152,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2879677,
+      "num": 499295,
+      "word": "陆虎陈曌旭领证",
+      "onboard_time": 1684907068,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2878992,
@@ -1489,6 +1497,14 @@
       "onboard_time": 1683269308,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2169685,
+      "num": 909611,
+      "word": "丁泽仁把四年老粉告了",
+      "onboard_time": 1684906229,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 2167394,
@@ -4867,6 +4883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1283653,
+      "num": 1283653,
+      "word": "15岁女孩减肥仅24.8kg去世",
+      "onboard_time": 1684904074,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1281891,
       "num": 1281891,
       "word": "总算知道黄晓明有多高了",
@@ -7867,6 +7891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 881575,
+      "num": 881575,
+      "word": "谢娜女儿看到赵丽颖的广告叫妈妈",
+      "onboard_time": 1684904494,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 880742,
       "num": 880742,
       "word": "马来西亚男子猥琐发言被群殴致死",
@@ -7953,6 +7985,14 @@
       "onboard_time": 1683609869,
       "rank": 11,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 865117,
+      "num": 865117,
+      "word": "居民清理油烟机掏出一窝国家级宝宝",
+      "onboard_time": 1684906829,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 863717,
@@ -10643,14 +10683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 638004,
-      "num": 565157,
-      "word": "丁泽仁把四年老粉告了",
-      "onboard_time": 1684906229,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 637804,
       "num": 637804,
       "word": "张云龙 竹业篇",
@@ -12539,14 +12571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 548674,
-      "num": 548674,
-      "word": "谢娜女儿看到赵丽颖的广告叫妈妈",
-      "onboard_time": 1684904494,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 548129,
       "num": 412783,
       "word": "上海20岁女子被3万卖到安徽当新娘",
@@ -13755,6 +13779,14 @@
       "category": "动漫,艺人"
     },
     {
+      "raw_hot": 504218,
+      "num": 493421,
+      "word": "法老向志愿军老兵捐款",
+      "onboard_time": 1684904972,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 503980,
       "num": 503980,
       "word": "护心排播咋想的",
@@ -14067,6 +14099,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 492105,
+      "num": 492105,
+      "word": "刘亚仁被上铐送往拘留所",
+      "onboard_time": 1684907791,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 492091,
       "num": 492091,
       "word": "金钟仁直播哭了",
@@ -14145,6 +14185,14 @@
       "onboard_time": 1683732153,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 490032,
+      "num": 330015,
+      "word": "虞书欣 纪梵希",
+      "onboard_time": 1684906952,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 489716,
@@ -14361,14 +14409,6 @@
       "onboard_time": 1684844430,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 482321,
-      "num": 458935,
-      "word": "15岁女孩减肥仅24.8kg去世",
-      "onboard_time": 1684904074,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 482153,
@@ -16145,14 +16185,6 @@
       "onboard_time": 1682989406,
       "rank": 22,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 437660,
-      "num": 437660,
-      "word": "法老向志愿军老兵捐款",
-      "onboard_time": 1684904972,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 437423,
@@ -20067,6 +20099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 360239,
+      "num": 232793,
+      "word": "张远又可以唱嘉宾了",
+      "onboard_time": 1684908931,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 360107,
       "num": 360107,
       "word": "背调后被降薪降岗",
@@ -21579,6 +21619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337546,
+      "num": 337546,
+      "word": "陈飞宇的任务是保持陈凯歌C位",
+      "onboard_time": 1684907611,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 337347,
       "num": 337347,
       "word": "周深被动C位",
@@ -21857,6 +21905,14 @@
       "onboard_time": 1682990908,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 334088,
+      "num": 334088,
+      "word": "阿里云回应裁员",
+      "onboard_time": 1684906592,
+      "rank": 19,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 333840,
@@ -23057,6 +23113,14 @@
       "onboard_time": 1683703653,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 315391,
+      "num": 289995,
+      "word": "奔跑吧首次录制直播",
+      "onboard_time": 1684906708,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 315376,
@@ -25081,6 +25145,14 @@
       "onboard_time": 1684550486,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 289909,
+      "num": 289909,
+      "word": "shohei",
+      "onboard_time": 1684906769,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 289880,
@@ -31065,6 +31137,14 @@
       "onboard_time": 1683599486,
       "rank": 34,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 232640,
+      "num": 232640,
+      "word": "鹿晗 优先权",
+      "onboard_time": 1684909049,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 232638,
@@ -37539,6 +37619,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 187033,
+      "num": 187033,
+      "word": "10岁遇害男孩生母和继父曾流泪寻人",
+      "onboard_time": 1684907669,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186983,
       "num": 186983,
       "word": "GEN对战G2",
@@ -40225,6 +40313,14 @@
       "onboard_time": 1683008249,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 170368,
+      "num": 170368,
+      "word": "厦门直播",
+      "onboard_time": 1684909049,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170360,
@@ -47323,6 +47419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108066,
+      "num": 290003,
+      "word": "好人像选Reno",
+      "onboard_time": 1684907849,
+      "rank": 24,
+      "category": "科技"
+    },
+    {
       "raw_hot": 108026,
       "num": 108026,
       "word": "小满文案",
@@ -50681,6 +50785,14 @@
       "onboard_time": 1684383273,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 28637,
+      "num": 500358,
+      "word": "Reno10发布会",
+      "onboard_time": 1684907129,
+      "rank": 10,
+      "category": "科技"
     },
     {
       "raw_hot": 28590,
