@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684945355711,
+  "endTime": 1684946282654,
   "band_list": [
     {
       "raw_hot": 3643134,
@@ -3139,6 +3139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 338560,
+      "num": 317365,
+      "word": "美国科技大亨用17岁儿子血浆换血",
+      "onboard_time": 1684943427,
+      "rank": 30,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 337606,
       "num": 337606,
       "word": "Jennie戳爷同框合影",
@@ -3481,14 +3489,6 @@
       "onboard_time": 1684886129,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 308582,
-      "num": 167393,
-      "word": "美国科技大亨用17岁儿子血浆换血",
-      "onboard_time": 1684943427,
-      "rank": 30,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 308267,
@@ -6571,6 +6571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146102,
+      "num": 144986,
+      "word": "苏醒晒陆虎的官宣朋友圈",
+      "onboard_time": 1684945584,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145839,
       "num": 145839,
       "word": "女子打耳洞8年后疤痕增生如大拇指",
@@ -7091,6 +7099,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 101885,
+      "num": 138169,
+      "word": "听过最离谱的分手理由是什么",
+      "onboard_time": 1684943068,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 101829,
       "num": 101829,
       "word": "2023MSI",
@@ -7147,6 +7163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 94300,
+      "num": 94300,
+      "word": "全网搜寻的最美妈妈是名医生",
+      "onboard_time": 1684945944,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94083,
       "num": 378691,
       "word": "蔚来全新ES6价格公布",
@@ -7161,6 +7185,14 @@
       "onboard_time": 1684900833,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 89378,
+      "num": 89378,
+      "word": "你们竟然请运动员真打排球啊",
+      "onboard_time": 1684944864,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 88967,
@@ -7193,14 +7225,6 @@
       "onboard_time": 1684737624,
       "rank": 48,
       "category": "美妆,音乐"
-    },
-    {
-      "raw_hot": 85466,
-      "num": 138169,
-      "word": "听过最离谱的分手理由是什么",
-      "onboard_time": 1684943068,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 84693,
@@ -7289,14 +7313,6 @@
       "onboard_time": 1684711821,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 65796,
-      "num": 77139,
-      "word": "你们竟然请运动员真打排球啊",
-      "onboard_time": 1684944864,
-      "rank": 47,
-      "category": "动漫"
     },
     {
       "raw_hot": 64426,
