@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684912523644,
+  "endTime": 1684913628459,
   "band_list": [
     {
       "raw_hot": 3643134,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 2879677,
-      "num": 565248,
+      "num": 572473,
       "word": "陆虎陈曌旭领证",
       "onboard_time": 1684907068,
       "rank": 11,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 2169685,
-      "num": 1114288,
+      "num": 1157898,
       "word": "丁泽仁把四年老粉告了",
       "onboard_time": 1684906229,
       "rank": 12,
@@ -291,6 +291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1679387,
+      "num": 1679387,
+      "word": "15岁女孩减肥仅24.8kg去世",
+      "onboard_time": 1684904074,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1671180,
       "num": 1671180,
       "word": "教育局回应下雨天学校不到点不开门",
@@ -368,14 +376,6 @@
       "word": "10岁男孩身亡2嫌疑人系生母和继父",
       "onboard_time": 1684891468,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1548768,
-      "num": 1548768,
-      "word": "15岁女孩减肥仅24.8kg去世",
-      "onboard_time": 1684904074,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -465,6 +465,14 @@
       "onboard_time": 1684740389,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1368027,
+      "num": 1368027,
+      "word": "鹿晗 优先权",
+      "onboard_time": 1684909049,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 1364630,
@@ -723,14 +731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1108683,
-      "num": 1108683,
-      "word": "鹿晗 优先权",
-      "onboard_time": 1684909049,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1099441,
       "num": 1099441,
       "word": "老婆大人",
@@ -753,6 +753,14 @@
       "onboard_time": 1684848454,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1082985,
+      "num": 1082985,
+      "word": "章泽天撞脸陈都灵",
+      "onboard_time": 1684909709,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1068222,
@@ -929,14 +937,6 @@
       "onboard_time": 1684802847,
       "rank": 5,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 890141,
-      "num": 890141,
-      "word": "章泽天撞脸陈都灵",
-      "onboard_time": 1684909709,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 888378,
@@ -1299,6 +1299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 654759,
+      "num": 654759,
+      "word": "白鹿张凌赫奔跑吧撑伞路透",
+      "onboard_time": 1684912410,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 646198,
       "num": 646198,
       "word": "何赛飞回应痛斥梅花奖",
@@ -1377,6 +1385,14 @@
       "onboard_time": 1684823069,
       "rank": 26,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 611006,
+      "num": 571053,
+      "word": "你的胸不需要非得是美的",
+      "onboard_time": 1684912050,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 610505,
@@ -1804,7 +1820,7 @@
     },
     {
       "raw_hot": 490032,
-      "num": 350015,
+      "num": 352375,
       "word": "虞书欣 纪梵希",
       "onboard_time": 1684906952,
       "rank": 20,
@@ -1971,20 +1987,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 451178,
+      "num": 451178,
+      "word": "科大讯飞",
+      "onboard_time": 1684909291,
+      "rank": 34,
+      "category": "科技"
+    },
+    {
       "raw_hot": 450021,
       "num": 372091,
       "word": "杨超越把玫瑰穿在身上了",
       "onboard_time": 1684817013,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 449782,
-      "num": 449782,
-      "word": "科大讯飞",
-      "onboard_time": 1684909291,
-      "rank": 34,
-      "category": "科技"
     },
     {
       "raw_hot": 449764,
@@ -2723,14 +2739,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 326551,
-      "num": 187190,
-      "word": "白鹿张凌赫奔跑吧撑伞路透",
-      "onboard_time": 1684912410,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 325220,
       "num": 293786,
       "word": "朴彩英生图",
@@ -3227,6 +3235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 281917,
+      "num": 281917,
+      "word": "沈腾唯一的姐",
+      "onboard_time": 1684912350,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 281765,
       "num": 281765,
       "word": "ALin加入谢娜队瘦了十斤",
@@ -3636,7 +3652,7 @@
     },
     {
       "raw_hot": 243906,
-      "num": 186771,
+      "num": 190699,
       "word": "华晨宇武汉演唱会",
       "onboard_time": 1684912469,
       "rank": 32,
@@ -3940,7 +3956,7 @@
     },
     {
       "raw_hot": 231179,
-      "num": 177197,
+      "num": 217041,
       "word": "陆虎购物清单里都是嘘嘘",
       "onboard_time": 1684909950,
       "rank": 44,
@@ -4049,6 +4065,14 @@
       "onboard_time": 1684857930,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224708,
+      "num": 224708,
+      "word": "孙俪杨幂都请了表演老师",
+      "onboard_time": 1684913308,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 224356,
@@ -4411,14 +4435,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 202470,
-      "num": 186620,
-      "word": "你的胸不需要非得是美的",
-      "onboard_time": 1684912050,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 202265,
       "num": 156151,
       "word": "王嘉尔的肩好宽",
@@ -4523,6 +4539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196832,
+      "num": 196832,
+      "word": "华晨宇武汉演唱会开启回家模式",
+      "onboard_time": 1684912952,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 196429,
       "num": 196429,
       "word": "新冠感染情况问卷调查",
@@ -4609,6 +4633,14 @@
       "onboard_time": 1684894526,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192813,
+      "num": 192813,
+      "word": "0713还剩谁没结婚",
+      "onboard_time": 1684913372,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 192677,
@@ -4715,6 +4747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189047,
+      "num": 246655,
+      "word": "LPL夏季赛29日开赛",
+      "onboard_time": 1684911152,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188325,
       "num": 183423,
       "word": "原来狂飙王秘书有名字",
@@ -4777,6 +4817,14 @@
       "onboard_time": 1684710679,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185964,
+      "num": 256934,
+      "word": "原来长焦拍人这么好看",
+      "onboard_time": 1684912770,
+      "rank": 27,
+      "category": "情感,时尚"
     },
     {
       "raw_hot": 185346,
@@ -5027,6 +5075,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 173235,
+      "num": 532910,
+      "word": "Reno10发布会",
+      "onboard_time": 1684907129,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 173221,
       "num": 173221,
       "word": "沈月说坐摩天轮会分手",
@@ -5107,12 +5163,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 169839,
-      "num": 169839,
-      "word": "LPL夏季赛29日开赛",
-      "onboard_time": 1684911152,
-      "rank": 38,
-      "category": "游戏"
+      "raw_hot": 169538,
+      "num": 192818,
+      "word": "妈妈生你就是为了让你多享受享受这个世界",
+      "onboard_time": 1684913372,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 168433,
@@ -5395,6 +5451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 154145,
+      "num": 154145,
+      "word": "租客下班回家发现房间变灵堂",
+      "onboard_time": 1684913492,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154085,
       "num": 154085,
       "word": "陈雨菲说不在乎被骂",
@@ -5441,14 +5505,6 @@
       "onboard_time": 1684711641,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149888,
-      "num": 149888,
-      "word": "沈腾唯一的姐",
-      "onboard_time": 1684912350,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 149714,
@@ -5945,14 +6001,6 @@
       "onboard_time": 1684839029,
       "rank": 49,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 110398,
-      "num": 532910,
-      "word": "Reno10发布会",
-      "onboard_time": 1684907129,
-      "rank": 10,
-      "category": "科技"
     },
     {
       "raw_hot": 109324,

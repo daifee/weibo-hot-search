@@ -1,6 +1,6 @@
 {
   "startTime": 1684858934935,
-  "endTime": 1684912523644,
+  "endTime": 1684913628459,
   "band_list": [
     {
       "raw_hot": 2904722,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2879677,
-      "num": 565248,
+      "num": 572473,
       "word": "陆虎陈曌旭领证",
       "onboard_time": 1684907068,
       "rank": 11,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2169685,
-      "num": 1114288,
+      "num": 1157898,
       "word": "丁泽仁把四年老粉告了",
       "onboard_time": 1684906229,
       "rank": 12,
@@ -48,6 +48,14 @@
       "word": "在香港歧视普通话注定是个笑话",
       "onboard_time": 1684885767,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1679387,
+      "num": 1679387,
+      "word": "15岁女孩减肥仅24.8kg去世",
+      "onboard_time": 1684904074,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -75,12 +83,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1548768,
-      "num": 1548768,
-      "word": "15岁女孩减肥仅24.8kg去世",
-      "onboard_time": 1684904074,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 1368027,
+      "num": 1368027,
+      "word": "鹿晗 优先权",
+      "onboard_time": 1684909049,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 1335403,
@@ -139,20 +147,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1108683,
-      "num": 1108683,
-      "word": "鹿晗 优先权",
-      "onboard_time": 1684909049,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1099441,
       "num": 1099441,
       "word": "老婆大人",
       "onboard_time": 1684899750,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1082985,
+      "num": 1082985,
+      "word": "章泽天撞脸陈都灵",
+      "onboard_time": 1684909709,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1066458,
@@ -227,14 +235,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 890141,
-      "num": 890141,
-      "word": "章泽天撞脸陈都灵",
-      "onboard_time": 1684909709,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 888378,
       "num": 888378,
       "word": "5旬女子花21万打抗癌针竟是可乐",
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 654759,
+      "num": 654759,
+      "word": "白鹿张凌赫奔跑吧撑伞路透",
+      "onboard_time": 1684912410,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 648816,
       "num": 291339,
       "word": "杨洋baby 肖奈贝微微",
@@ -313,6 +321,14 @@
       "onboard_time": 1684902333,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 611006,
+      "num": 571053,
+      "word": "你的胸不需要非得是美的",
+      "onboard_time": 1684912050,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 599505,
@@ -420,7 +436,7 @@
     },
     {
       "raw_hot": 490032,
-      "num": 350015,
+      "num": 352375,
       "word": "虞书欣 纪梵希",
       "onboard_time": 1684906952,
       "rank": 20,
@@ -435,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 464156,
+      "num": 464156,
+      "word": "A股",
+      "onboard_time": 1684912530,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 458749,
       "num": 458749,
       "word": "王俊凯发言镜头切了易烊千玺",
@@ -443,8 +467,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 449782,
-      "num": 449782,
+      "raw_hot": 451178,
+      "num": 451178,
       "word": "科大讯飞",
       "onboard_time": 1684909291,
       "rank": 34,
@@ -635,14 +659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 326551,
-      "num": 187190,
-      "word": "白鹿张凌赫奔跑吧撑伞路透",
-      "onboard_time": 1684912410,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 319719,
       "num": 189104,
       "word": "华天",
@@ -763,6 +779,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 281917,
+      "num": 281917,
+      "word": "沈腾唯一的姐",
+      "onboard_time": 1684912350,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 277238,
       "num": 277238,
       "word": "凡人修仙传 杨洋林允",
@@ -828,7 +852,7 @@
     },
     {
       "raw_hot": 243906,
-      "num": 186771,
+      "num": 190699,
       "word": "华晨宇武汉演唱会",
       "onboard_time": 1684912469,
       "rank": 32,
@@ -900,7 +924,7 @@
     },
     {
       "raw_hot": 231179,
-      "num": 177197,
+      "num": 217041,
       "word": "陆虎购物清单里都是嘘嘘",
       "onboard_time": 1684909950,
       "rank": 44,
@@ -937,6 +961,14 @@
       "onboard_time": 1684857930,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224708,
+      "num": 224708,
+      "word": "孙俪杨幂都请了表演老师",
+      "onboard_time": 1684913308,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 222133,
@@ -1027,14 +1059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202470,
-      "num": 186620,
-      "word": "你的胸不需要非得是美的",
-      "onboard_time": 1684912050,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 202203,
       "num": 202203,
       "word": "警员将旧户口簿盖作废章留给孙女作纪念",
@@ -1067,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196832,
+      "num": 196832,
+      "word": "华晨宇武汉演唱会开启回家模式",
+      "onboard_time": 1684912952,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 195259,
       "num": 195259,
       "word": "如何看待国泰航空处理结果",
@@ -1081,6 +1113,14 @@
       "onboard_time": 1684894526,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192813,
+      "num": 192813,
+      "word": "0713还剩谁没结婚",
+      "onboard_time": 1684913372,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 192677,
@@ -1139,12 +1179,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 189047,
+      "num": 246655,
+      "word": "LPL夏季赛29日开赛",
+      "onboard_time": 1684911152,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188325,
       "num": 183423,
       "word": "原来狂飙王秘书有名字",
       "onboard_time": 1684905391,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185964,
+      "num": 256934,
+      "word": "原来长焦拍人这么好看",
+      "onboard_time": 1684912770,
+      "rank": 27,
+      "category": "情感,时尚"
     },
     {
       "raw_hot": 185354,
@@ -1203,6 +1259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 173235,
+      "num": 532910,
+      "word": "Reno10发布会",
+      "onboard_time": 1684907129,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 173221,
       "num": 173221,
       "word": "沈月说坐摩天轮会分手",
@@ -1227,12 +1291,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 169839,
-      "num": 169839,
-      "word": "LPL夏季赛29日开赛",
-      "onboard_time": 1684911152,
-      "rank": 38,
-      "category": "游戏"
+      "raw_hot": 169538,
+      "num": 192818,
+      "word": "妈妈生你就是为了让你多享受享受这个世界",
+      "onboard_time": 1684913372,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 168433,
@@ -1275,20 +1339,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154145,
+      "num": 154145,
+      "word": "租客下班回家发现房间变灵堂",
+      "onboard_time": 1684913492,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152362,
       "num": 152362,
       "word": "阴阳师",
       "onboard_time": 1684889970,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 149888,
-      "num": 149888,
-      "word": "沈腾唯一的姐",
-      "onboard_time": 1684912350,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 145665,
@@ -1401,14 +1465,6 @@
       "onboard_time": 1684895668,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110398,
-      "num": 532910,
-      "word": "Reno10发布会",
-      "onboard_time": 1684907129,
-      "rank": 10,
-      "category": "科技"
     },
     {
       "raw_hot": 106721,
