@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684893153725,
+  "endTime": 1684895816436,
   "band_list": [
     {
       "raw_hot": 3643134,
@@ -313,6 +313,14 @@
       "onboard_time": 1684748548,
       "rank": 3,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 1553652,
+      "num": 921721,
+      "word": "10岁男孩身亡2嫌疑人系生母和继父",
+      "onboard_time": 1684891468,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1545279,
@@ -635,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1136743,
+      "num": 625446,
+      "word": "胸不应该成为嘲笑我的把柄",
+      "onboard_time": 1684861579,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1098545,
       "num": 738837,
       "word": "过期糖",
@@ -923,14 +939,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 808974,
-      "num": 625446,
-      "word": "胸不应该成为嘲笑我的把柄",
-      "onboard_time": 1684861579,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 805331,
       "num": 669910,
       "word": "沈梦辰 幸福不一定用金钱来衡量吧",
@@ -1044,7 +1052,7 @@
     },
     {
       "raw_hot": 716057,
-      "num": 586968,
+      "num": 597533,
       "word": "张子枫华表奖最年轻影后",
       "onboard_time": 1684853674,
       "rank": 21,
@@ -1129,14 +1137,6 @@
       "onboard_time": 1684723528,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 649855,
-      "num": 649855,
-      "word": "10岁男孩身亡2嫌疑人系生母和继父",
-      "onboard_time": 1684891468,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 646198,
@@ -1265,6 +1265,14 @@
       "onboard_time": 1684824389,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 588343,
+      "num": 588343,
+      "word": "5旬女子花21万打抗癌针竟是可乐",
+      "onboard_time": 1684885106,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 586665,
@@ -1451,6 +1459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 522664,
+      "num": 522664,
+      "word": "boss直聘崩了",
+      "onboard_time": 1684893087,
+      "rank": 42,
+      "category": "科技"
+    },
+    {
       "raw_hot": 519987,
       "num": 394763,
       "word": "我爸不让25岁的我考研",
@@ -1513,14 +1529,6 @@
       "onboard_time": 1684808489,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 497915,
-      "num": 497915,
-      "word": "5旬女子花21万打抗癌针竟是可乐",
-      "onboard_time": 1684885106,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 497333,
@@ -2195,6 +2203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 359447,
+      "num": 359447,
+      "word": "厦门华天涉外学院",
+      "onboard_time": 1684892549,
+      "rank": 23,
+      "category": "社会负面,教育"
+    },
+    {
       "raw_hot": 359064,
       "num": 359064,
       "word": "三分野空降不撤档",
@@ -2265,6 +2281,14 @@
       "onboard_time": 1684768591,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 345401,
+      "num": 182960,
+      "word": "女子左眼瞳孔变大2倍找不到病因",
+      "onboard_time": 1684894405,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344583,
@@ -2971,14 +2995,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 265874,
-      "num": 265874,
-      "word": "厦门华天涉外学院",
-      "onboard_time": 1684892549,
-      "rank": 23,
-      "category": "社会负面,教育"
-    },
-    {
       "raw_hot": 265828,
       "num": 265828,
       "word": "如何看待520结婚人数断崖式下跌",
@@ -3009,6 +3025,14 @@
       "onboard_time": 1684678595,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260470,
+      "num": 260470,
+      "word": "国泰航空近七成营收来自中国",
+      "onboard_time": 1684891827,
+      "rank": 26,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 259633,
@@ -3459,6 +3483,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 228145,
+      "num": 228145,
+      "word": "港府要求国泰管理层立刻改善服务",
+      "onboard_time": 1684893029,
+      "rank": 41,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 228009,
       "num": 228009,
       "word": "湖人vs掘金",
@@ -3555,6 +3587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223142,
+      "num": 181918,
+      "word": "奶爸将1岁娃放浴室训练自主进食",
+      "onboard_time": 1684894706,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222923,
       "num": 222923,
       "word": "香蕉先生不睡觉定档",
@@ -3569,14 +3609,6 @@
       "onboard_time": 1684815211,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221597,
-      "num": 221597,
-      "word": "国泰航空近七成营收来自中国",
-      "onboard_time": 1684891827,
-      "rank": 26,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 220733,
@@ -4099,6 +4131,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 187967,
+      "num": 187967,
+      "word": "秦海璐华表奖后台坐着睡着了",
+      "onboard_time": 1684895067,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187964,
       "num": 187964,
       "word": "我在网上学烧烤",
@@ -4144,6 +4184,14 @@
       "word": "四川珙县4.5级地震",
       "onboard_time": 1684710679,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185541,
+      "num": 185541,
+      "word": "大爷抱40斤水泥块跳池塘砸窗救人",
+      "onboard_time": 1684893388,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -4459,6 +4507,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 168396,
+      "num": 168396,
+      "word": "张彬彬吴倩入怀抱",
+      "onboard_time": 1684894526,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167466,
       "num": 165778,
       "word": "华表奖主题推广曲光辉",
@@ -4585,14 +4641,6 @@
       "onboard_time": 1684810709,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 159289,
-      "num": 159289,
-      "word": "港府要求国泰管理层立刻改善服务",
-      "onboard_time": 1684893029,
-      "rank": 41,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 159190,
@@ -4761,14 +4809,6 @@
       "onboard_time": 1684688300,
       "rank": 30,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 150489,
-      "num": 150489,
-      "word": "boss直聘崩了",
-      "onboard_time": 1684893087,
-      "rank": 42,
-      "category": "科技"
     },
     {
       "raw_hot": 150483,
@@ -5067,6 +5107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126113,
+      "num": 126113,
+      "word": "货拉拉案司机提出申诉",
+      "onboard_time": 1684894227,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125541,
       "num": 125541,
       "word": "清华大学女生获选美冠军",
@@ -5201,6 +5249,14 @@
       "onboard_time": 1684681772,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 111791,
+      "num": 111791,
+      "word": "让盲人内心感受到光明的瞬间",
+      "onboard_time": 1684895668,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110559,
@@ -5659,12 +5715,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 22662,
+      "num": 107023,
+      "word": "塞尔达 半自动盾构机",
+      "onboard_time": 1684895547,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 21399,
       "num": 23651,
       "word": "最食人间烟火色",
       "onboard_time": 1684671029,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 5013,
+      "num": 385717,
+      "word": "夜巡铁骑一个细节救下患病司机",
+      "onboard_time": 1684895787,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1684858934935,
-  "endTime": 1684893153725,
+  "endTime": 1684895816436,
   "band_list": [
     {
       "raw_hot": 1781665,
@@ -17,6 +17,14 @@
       "onboard_time": 1684849472,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1553652,
+      "num": 921721,
+      "word": "10岁男孩身亡2嫌疑人系生母和继父",
+      "onboard_time": 1684891468,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1545279,
@@ -49,6 +57,14 @@
       "onboard_time": 1684884263,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1136743,
+      "num": 625446,
+      "word": "胸不应该成为嘲笑我的把柄",
+      "onboard_time": 1684861579,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 1066458,
@@ -107,14 +123,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 808974,
-      "num": 625446,
-      "word": "胸不应该成为嘲笑我的把柄",
-      "onboard_time": 1684861579,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 742937,
       "num": 333006,
       "word": "离职两个月了工资还一直在发",
@@ -131,14 +139,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 649855,
-      "num": 649855,
-      "word": "10岁男孩身亡2嫌疑人系生母和继父",
-      "onboard_time": 1684891468,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 648816,
       "num": 291339,
       "word": "杨洋baby 肖奈贝微微",
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 599505,
-      "num": 586968,
+      "num": 597533,
       "word": "张子枫华表奖最年轻影后",
       "onboard_time": 1684853674,
       "rank": 12,
@@ -161,6 +161,14 @@
       "onboard_time": 1684840111,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 588343,
+      "num": 588343,
+      "word": "5旬女子花21万打抗癌针竟是可乐",
+      "onboard_time": 1684885106,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 579338,
@@ -179,20 +187,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 522664,
+      "num": 522664,
+      "word": "boss直聘崩了",
+      "onboard_time": 1684893087,
+      "rank": 42,
+      "category": "科技"
+    },
+    {
       "raw_hot": 505927,
       "num": 190178,
       "word": "易烊千玺王俊凯同框",
       "onboard_time": 1684850977,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 497915,
-      "num": 497915,
-      "word": "5旬女子花21万打抗癌针竟是可乐",
-      "onboard_time": 1684885106,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 464873,
@@ -256,6 +264,22 @@
       "word": "山西失联20天的11岁男孩已身亡",
       "onboard_time": 1684847251,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359447,
+      "num": 359447,
+      "word": "厦门华天涉外学院",
+      "onboard_time": 1684892549,
+      "rank": 23,
+      "category": "社会负面,教育"
+    },
+    {
+      "raw_hot": 345401,
+      "num": 182960,
+      "word": "女子左眼瞳孔变大2倍找不到病因",
+      "onboard_time": 1684894405,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -339,12 +363,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 265874,
-      "num": 265874,
-      "word": "厦门华天涉外学院",
-      "onboard_time": 1684892549,
-      "rank": 23,
-      "category": "社会负面,教育"
+      "raw_hot": 260470,
+      "num": 260470,
+      "word": "国泰航空近七成营收来自中国",
+      "onboard_time": 1684891827,
+      "rank": 26,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 254271,
@@ -403,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228145,
+      "num": 228145,
+      "word": "港府要求国泰管理层立刻改善服务",
+      "onboard_time": 1684893029,
+      "rank": 41,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 225026,
       "num": 163079,
       "word": "李承铉真没把我们当外人",
@@ -411,20 +443,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223142,
+      "num": 181918,
+      "word": "奶爸将1岁娃放浴室训练自主进食",
+      "onboard_time": 1684894706,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222133,
       "num": 222133,
       "word": "新娘婚礼当天被50斤苗服压哭",
       "onboard_time": 1684850436,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221597,
-      "num": 221597,
-      "word": "国泰航空近七成营收来自中国",
-      "onboard_time": 1684891827,
-      "rank": 26,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 220554,
@@ -507,6 +539,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 187967,
+      "num": 187967,
+      "word": "秦海璐华表奖后台坐着睡着了",
+      "onboard_time": 1684895067,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 185541,
+      "num": 185541,
+      "word": "大爷抱40斤水泥块跳池塘砸窗救人",
+      "onboard_time": 1684893388,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185354,
       "num": 122628,
       "word": "刘敏涛穿红色就有好笑的事发生",
@@ -571,20 +619,20 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 168396,
+      "num": 168396,
+      "word": "张彬彬吴倩入怀抱",
+      "onboard_time": 1684894526,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 161736,
       "num": 161736,
       "word": "国泰航空",
       "onboard_time": 1684851817,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159289,
-      "num": 159289,
-      "word": "港府要求国泰管理层立刻改善服务",
-      "onboard_time": 1684893029,
-      "rank": 41,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 155850,
@@ -603,14 +651,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 150489,
-      "num": 150489,
-      "word": "boss直聘崩了",
-      "onboard_time": 1684893087,
-      "rank": 42,
-      "category": "科技"
-    },
-    {
       "raw_hot": 141970,
       "num": 141970,
       "word": "专家称鼓励生育政策还有优化空间",
@@ -625,6 +665,14 @@
       "onboard_time": 1684843230,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126113,
+      "num": 126113,
+      "word": "货拉拉案司机提出申诉",
+      "onboard_time": 1684894227,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118917,
@@ -656,6 +704,14 @@
       "word": "国泰航空爆料人发声",
       "onboard_time": 1684867333,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111791,
+      "num": 111791,
+      "word": "让盲人内心感受到光明的瞬间",
+      "onboard_time": 1684895668,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -777,6 +833,22 @@
       "onboard_time": 1684758209,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22662,
+      "num": 107023,
+      "word": "塞尔达 半自动盾构机",
+      "onboard_time": 1684895547,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 5013,
+      "num": 385717,
+      "word": "夜巡铁骑一个细节救下患病司机",
+      "onboard_time": 1684895787,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
