@@ -1,0 +1,410 @@
+{
+  "runTime": 1684896316163,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1291549,
+        "num": 1291549,
+        "word": "陈飞宇拉魏大勋",
+        "onboard_time": 1684888951,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 856291,
+        "num": 856291,
+        "word": "Capper暂停演出",
+        "onboard_time": 1684883601,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32952,
+        "num": 824087,
+        "word": "五星红旗又一次在珠峰之巅飘扬",
+        "onboard_time": 1684847914,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1498088,
+        "num": 822365,
+        "word": "10岁男孩身亡2嫌疑人系生母和继父",
+        "onboard_time": 1684891468,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 815274,
+        "num": 815274,
+        "word": "那个为爱减肥的广东少女走了",
+        "onboard_time": 1684884263,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 994964,
+        "num": 807767,
+        "word": "小学生在校内被老师开车撞倒身亡",
+        "onboard_time": 1684885106,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784250,
+        "num": 784250,
+        "word": "在香港歧视普通话注定是个笑话",
+        "onboard_time": 1684885767,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692885,
+        "num": 692885,
+        "word": "国泰航空3名歧视乘客空乘被解聘",
+        "onboard_time": 1684850917,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643271,
+        "num": 643271,
+        "word": "5旬女子花21万打抗癌针竟是可乐",
+        "onboard_time": 1684885106,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597615,
+        "num": 597615,
+        "word": "张子枫华表奖最年轻影后",
+        "onboard_time": 1684853674,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1207898,
+        "num": 593283,
+        "word": "胸不应该成为嘲笑我的把柄",
+        "onboard_time": 1684861579,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 503239,
+        "num": 503239,
+        "word": "boss直聘崩了",
+        "onboard_time": 1684893087,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 492694,
+        "num": 492694,
+        "word": "刘烨分了一把瓜子给易烊千玺",
+        "onboard_time": 1684853317,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 428587,
+        "num": 428587,
+        "word": "刘浩存仪态",
+        "onboard_time": 1684855472,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21013,
+        "num": 391864,
+        "word": "夜巡铁骑一个细节救下患病司机",
+        "onboard_time": 1684895787,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359667,
+        "num": 359667,
+        "word": "王俊凯发言镜头切了易烊千玺",
+        "onboard_time": 1684886490,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 341891,
+        "num": 341891,
+        "word": "厦门华天涉外学院",
+        "onboard_time": 1684892549,
+        "rank": 16,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 342315,
+        "num": 331607,
+        "word": "易烊千玺听到刘烨获奖的表情",
+        "onboard_time": 1684856132,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311692,
+        "num": 311692,
+        "word": "谁来救救江疏影",
+        "onboard_time": 1684849472,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304225,
+        "num": 304225,
+        "word": "四川一中学老师输液时不幸身亡",
+        "onboard_time": 1684883482,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 464446,
+        "num": 302446,
+        "word": "离职两个月了工资还一直在发",
+        "onboard_time": 1684853496,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286804,
+        "num": 286804,
+        "word": "国泰航空近七成营收来自中国",
+        "onboard_time": 1684891827,
+        "rank": 21,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 268434,
+        "num": 268434,
+        "word": "伴你入睡的视频大多都是假的",
+        "onboard_time": 1684891048,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255956,
+        "num": 255956,
+        "word": "张译发言 陈凯歌表情",
+        "onboard_time": 1684853496,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253937,
+        "num": 253937,
+        "word": "港府要求国泰管理层立刻改善服务",
+        "onboard_time": 1684893029,
+        "rank": 24,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 247862,
+        "num": 247862,
+        "word": "把自己当女儿养后内耗变少了",
+        "onboard_time": 1684891289,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222720,
+        "num": 222720,
+        "word": "aespa亮相戛纳",
+        "onboard_time": 1684884563,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216053,
+        "num": 216053,
+        "word": "秦海璐华表奖后台坐着睡着了",
+        "onboard_time": 1684895067,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211880,
+        "num": 211880,
+        "word": "患骨髓炎女网红被男网友蹲守",
+        "onboard_time": 1684887869,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192924,
+        "num": 192924,
+        "word": "张彬彬吴倩入怀抱",
+        "onboard_time": 1684894526,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 340526,
+        "num": 192853,
+        "word": "女子左眼瞳孔变大2倍找不到病因",
+        "onboard_time": 1684894405,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245631,
+        "num": 192834,
+        "word": "奶爸将1岁娃放浴室训练自主进食",
+        "onboard_time": 1684894706,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192677,
+        "num": 192677,
+        "word": "原神3.7",
+        "onboard_time": 1684896089,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175479,
+        "num": 175479,
+        "word": "新娘婚礼公公携战友合唱军歌超震撼",
+        "onboard_time": 1684891231,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174970,
+        "num": 174970,
+        "word": "大爷抱40斤水泥块跳池塘砸窗救人",
+        "onboard_time": 1684893388,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168807,
+        "num": 168807,
+        "word": "肖战射雕英雄传2023重点档期推荐",
+        "onboard_time": 1684886129,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167848,
+        "num": 167848,
+        "word": "华表奖获奖名单",
+        "onboard_time": 1684847251,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155885,
+        "num": 155885,
+        "word": "警方回应网红户外直播被砍",
+        "onboard_time": 1684896089,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 150545,
+        "num": 150545,
+        "word": "退钱哥吐槽国泰航空空乘听不懂中文",
+        "onboard_time": 1684854395,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149903,
+        "num": 149903,
+        "word": "江西14岁女孩疑遭校园欺凌跳塘身亡",
+        "onboard_time": 1684886970,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145800,
+        "num": 145800,
+        "word": "网友问张子枫是谢霆锋的姐姐吗",
+        "onboard_time": 1684896207,
+        "rank": 40,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 143264,
+        "num": 143264,
+        "word": "陈赫憋笑",
+        "onboard_time": 1684856852,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135683,
+        "num": 135683,
+        "word": "金珉奎签售",
+        "onboard_time": 1684853674,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135024,
+        "num": 135024,
+        "word": "昆明城投",
+        "onboard_time": 1684896148,
+        "rank": 43,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 134088,
+        "num": 134088,
+        "word": "邓超 显眼包",
+        "onboard_time": 1684853795,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126364,
+        "num": 126364,
+        "word": "老人报警丢失8000元民警找出1万8",
+        "onboard_time": 1684858888,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120904,
+        "num": 120904,
+        "word": "3名强奸未成年人罪犯被执行死刑",
+        "onboard_time": 1684835068,
+        "rank": 46,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 117968,
+        "num": 117968,
+        "word": "3岁男童走失27小时后被群众找到",
+        "onboard_time": 1684890149,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93440,
+        "num": 116859,
+        "word": "阴阳师",
+        "onboard_time": 1684889970,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 41510,
+        "num": 116493,
+        "word": "塞尔达 半自动盾构机",
+        "onboard_time": 1684895547,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#神舟十六号近日择机发射#"
+    }
+  }
+}

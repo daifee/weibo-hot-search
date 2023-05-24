@@ -1,6 +1,6 @@
 {
   "startTime": 1684858934935,
-  "endTime": 1684895816436,
+  "endTime": 1684896316163,
   "band_list": [
     {
       "raw_hot": 1781665,
@@ -59,7 +59,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1136743,
+      "raw_hot": 1207898,
       "num": 625446,
       "word": "胸不应该成为嘲笑我的把柄",
       "onboard_time": 1684861579,
@@ -147,8 +147,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 643271,
+      "num": 643271,
+      "word": "5旬女子花21万打抗癌针竟是可乐",
+      "onboard_time": 1684885106,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 599505,
-      "num": 597533,
+      "num": 597615,
       "word": "张子枫华表奖最年轻影后",
       "onboard_time": 1684853674,
       "rank": 12,
@@ -161,14 +169,6 @@
       "onboard_time": 1684840111,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 588343,
-      "num": 588343,
-      "word": "5旬女子花21万打抗癌针竟是可乐",
-      "onboard_time": 1684885106,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 579338,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 345401,
-      "num": 182960,
+      "num": 192853,
       "word": "女子左眼瞳孔变大2倍找不到病因",
       "onboard_time": 1684894405,
       "rank": 30,
@@ -347,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286804,
+      "num": 286804,
+      "word": "国泰航空近七成营收来自中国",
+      "onboard_time": 1684891827,
+      "rank": 26,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 283075,
       "num": 228180,
       "word": "巧乐兹夫妇商业版图盘点",
@@ -363,20 +371,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 260470,
-      "num": 260470,
-      "word": "国泰航空近七成营收来自中国",
-      "onboard_time": 1684891827,
-      "rank": 26,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 254271,
       "num": 176082,
       "word": "周深在100m内也能迷路",
       "onboard_time": 1684857331,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 253937,
+      "num": 253937,
+      "word": "港府要求国泰管理层立刻改善服务",
+      "onboard_time": 1684893029,
+      "rank": 41,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 245631,
+      "num": 192834,
+      "word": "奶爸将1岁娃放浴室训练自主进食",
+      "onboard_time": 1684894706,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241616,
@@ -427,28 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228145,
-      "num": 228145,
-      "word": "港府要求国泰管理层立刻改善服务",
-      "onboard_time": 1684893029,
-      "rank": 41,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 225026,
       "num": 163079,
       "word": "李承铉真没把我们当外人",
       "onboard_time": 1684857930,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223142,
-      "num": 181918,
-      "word": "奶爸将1岁娃放浴室训练自主进食",
-      "onboard_time": 1684894706,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222133,
@@ -483,6 +483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 216053,
+      "num": 216053,
+      "word": "秦海璐华表奖后台坐着睡着了",
+      "onboard_time": 1684895067,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211882,
       "num": 211882,
       "word": "10岁男童走失死亡案2嫌犯被抓",
@@ -515,6 +523,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192924,
+      "num": 192924,
+      "word": "张彬彬吴倩入怀抱",
+      "onboard_time": 1684894526,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 192677,
+      "num": 192677,
+      "word": "原神3.7",
+      "onboard_time": 1684896089,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 191524,
       "num": 191524,
       "word": "南宁市市长鞠躬道歉",
@@ -537,14 +561,6 @@
       "onboard_time": 1684852299,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 187967,
-      "num": 187967,
-      "word": "秦海璐华表奖后台坐着睡着了",
-      "onboard_time": 1684895067,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 185541,
@@ -619,20 +635,20 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 168396,
-      "num": 168396,
-      "word": "张彬彬吴倩入怀抱",
-      "onboard_time": 1684894526,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 161736,
       "num": 161736,
       "word": "国泰航空",
       "onboard_time": 1684851817,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155885,
+      "num": 155885,
+      "word": "警方回应网红户外直播被砍",
+      "onboard_time": 1684896089,
+      "rank": 37,
+      "category": "社会负面"
     },
     {
       "raw_hot": 155850,
@@ -651,6 +667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 145800,
+      "num": 145800,
+      "word": "网友问张子枫是谢霆锋的姐姐吗",
+      "onboard_time": 1684896207,
+      "rank": 40,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 141970,
       "num": 141970,
       "word": "专家称鼓励生育政策还有优化空间",
@@ -665,6 +689,14 @@
       "onboard_time": 1684843230,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135024,
+      "num": 135024,
+      "word": "昆明城投",
+      "onboard_time": 1684896148,
+      "rank": 43,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 126113,
@@ -787,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41510,
+      "num": 116493,
+      "word": "塞尔达 半自动盾构机",
+      "onboard_time": 1684895547,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 38627,
       "num": 38627,
       "word": "华表奖",
@@ -835,16 +875,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 22662,
-      "num": 107023,
-      "word": "塞尔达 半自动盾构机",
-      "onboard_time": 1684895547,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 5013,
-      "num": 385717,
+      "raw_hot": 21013,
+      "num": 391864,
       "word": "夜巡铁骑一个细节救下患病司机",
       "onboard_time": 1684895787,
       "rank": 14,
