@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684899218190,
+  "endTime": 1684902002804,
   "band_list": [
     {
       "raw_hot": 3643134,
@@ -57,6 +57,14 @@
       "onboard_time": 1684718788,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2904722,
+      "num": 1464703,
+      "word": "谢娜在机场哭了",
+      "onboard_time": 1684898490,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2874058,
@@ -219,6 +227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1730512,
+      "num": 1730512,
+      "word": "在香港歧视普通话注定是个笑话",
+      "onboard_time": 1684885767,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1716528,
       "num": 1716528,
       "word": "巴厘岛命案男子母亲首发声",
@@ -369,22 +385,6 @@
       "onboard_time": 1684728330,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1472536,
-      "num": 1472536,
-      "word": "在香港歧视普通话注定是个笑话",
-      "onboard_time": 1684885767,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1464703,
-      "num": 1464703,
-      "word": "谢娜在机场哭了",
-      "onboard_time": 1684898490,
-      "rank": 3,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1461131,
@@ -747,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1008841,
+      "num": 1008841,
+      "word": "章泽天现身戛纳晚宴",
+      "onboard_time": 1684898670,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1005321,
       "num": 1005321,
       "word": "应采儿的大儿子",
@@ -803,6 +811,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 913797,
+      "num": 913797,
+      "word": "和马官宣签约龙韬娱乐",
+      "onboard_time": 1684898309,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 905916,
+      "num": 905916,
+      "word": "鹿晗演唱会开票",
+      "onboard_time": 1684901793,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 902643,
       "num": 590482,
       "word": "恩静",
@@ -819,11 +843,27 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 897630,
+      "num": 897630,
+      "word": "网友问张子枫是谢霆锋的姐姐吗",
+      "onboard_time": 1684896207,
+      "rank": 40,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 888378,
       "num": 888378,
       "word": "5旬女子花21万打抗癌针竟是可乐",
       "onboard_time": 1684885106,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 885206,
+      "num": 885206,
+      "word": "老婆大人",
+      "onboard_time": 1684899750,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -1049,6 +1089,14 @@
       "onboard_time": 1684893087,
       "rank": 42,
       "category": "科技"
+    },
+    {
+      "raw_hot": 727735,
+      "num": 496722,
+      "word": "月薪5000两年存了8万",
+      "onboard_time": 1684900711,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 721765,
@@ -1387,6 +1435,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 566584,
+      "num": 566584,
+      "word": "李家超说类似国泰事件不容再发生",
+      "onboard_time": 1684899091,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 564960,
+      "num": 564960,
+      "word": "王一博穿出了五彩斑斓的黑",
+      "onboard_time": 1684900294,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 561102,
       "num": 382856,
       "word": "一个人突然发朋友圈的规律",
@@ -1521,6 +1585,14 @@
       "onboard_time": 1684832247,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 508751,
+      "num": 508751,
+      "word": "阿里人员优化",
+      "onboard_time": 1684898806,
+      "rank": 38,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 504426,
@@ -1697,6 +1769,14 @@
       "onboard_time": 1684732532,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 464336,
+      "num": 464336,
+      "word": "IU或恢复在中国的活动",
+      "onboard_time": 1684901432,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 463237,
@@ -1947,14 +2027,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 416800,
-      "num": 416800,
-      "word": "和马官宣签约龙韬娱乐",
-      "onboard_time": 1684898309,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 415378,
       "num": 415378,
       "word": "王源粉发小辫",
@@ -2049,14 +2121,6 @@
       "onboard_time": 1684798944,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 393553,
-      "num": 393553,
-      "word": "李家超说类似国泰事件不容再发生",
-      "onboard_time": 1684899091,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 391261,
@@ -2283,28 +2347,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 356907,
-      "num": 356907,
-      "word": "章泽天现身戛纳晚宴",
-      "onboard_time": 1684898670,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 356626,
       "num": 356626,
       "word": "凯尔特人vs热火",
       "onboard_time": 1684720109,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 352653,
-      "num": 328674,
-      "word": "网友问张子枫是谢霆锋的姐姐吗",
-      "onboard_time": 1684896207,
-      "rank": 40,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 351000,
@@ -2353,6 +2401,14 @@
       "onboard_time": 1684768591,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 346182,
+      "num": 346182,
+      "word": "范丞丞裤子是来拖地的吗",
+      "onboard_time": 1684899511,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 345401,
@@ -2587,6 +2643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314514,
+      "num": 314514,
+      "word": "周深被动C位",
+      "onboard_time": 1684899452,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 314419,
       "num": 294353,
       "word": "四川宜宾地震",
@@ -2787,6 +2851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295199,
+      "num": 295199,
+      "word": "你猜为什么沈腾不读颁奖词",
+      "onboard_time": 1684900833,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 295080,
       "num": 295080,
       "word": "阿里云被曝裁员",
@@ -2859,6 +2931,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 285355,
+      "num": 285355,
+      "word": "被公司开除忍不住笑出声",
+      "onboard_time": 1684899812,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 285240,
       "num": 285240,
       "word": "魏哲鸣摇号9年都没成功",
@@ -2929,6 +3009,14 @@
       "onboard_time": 1684681531,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 281203,
+      "num": 281203,
+      "word": "王俊凯经纪人说他胖了",
+      "onboard_time": 1684899991,
+      "rank": 34,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 279529,
@@ -3283,6 +3371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 244081,
+      "num": 244081,
+      "word": "第五人格",
+      "onboard_time": 1684901130,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 243743,
       "num": 243743,
       "word": "杭州东站停电",
@@ -3603,6 +3699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 226301,
+      "num": 226301,
+      "word": "凯尔特人1比3热火",
+      "onboard_time": 1684898670,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225617,
       "num": 225617,
       "word": "阿里云被曝人员优化7%",
@@ -3617,14 +3721,6 @@
       "onboard_time": 1684716451,
       "rank": 30,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 225514,
-      "num": 225514,
-      "word": "凯尔特人1比3热火",
-      "onboard_time": 1684898670,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 225433,
@@ -3835,6 +3931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 214655,
+      "num": 214655,
+      "word": "麦当劳游戏机",
+      "onboard_time": 1684901073,
+      "rank": 40,
+      "category": "幽默,时尚"
+    },
+    {
       "raw_hot": 214620,
       "num": 214620,
       "word": "去年广州人均存款14.3万元",
@@ -4033,14 +4137,6 @@
       "onboard_time": 1684890210,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199369,
-      "num": 199369,
-      "word": "阿里人员优化",
-      "onboard_time": 1684898806,
-      "rank": 38,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 198462,
@@ -4281,6 +4377,14 @@
       "onboard_time": 1684815812,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187489,
+      "num": 187489,
+      "word": "蔡依林演唱会深圳站广州站已过审",
+      "onboard_time": 1684901853,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 187457,
@@ -4995,6 +5099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145665,
+      "num": 173442,
+      "word": "DOTA2国家集训队名单",
+      "onboard_time": 1684900173,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145583,
       "num": 145583,
       "word": "知识三过脑门而不入",
@@ -5137,6 +5249,14 @@
       "onboard_time": 1684749628,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132823,
+      "num": 565145,
+      "word": "为何世界名画偏爱半身像",
+      "onboard_time": 1684900772,
+      "rank": 15,
+      "category": "其它"
     },
     {
       "raw_hot": 132739,
@@ -5673,6 +5793,14 @@
       "onboard_time": 1684795036,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 60143,
+      "num": 565702,
+      "word": "原神3.7版本更新 八重神子",
+      "onboard_time": 1684900833,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 59061,

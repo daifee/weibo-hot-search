@@ -1,13 +1,29 @@
 {
   "startTime": 1684858934935,
-  "endTime": 1684899218190,
+  "endTime": 1684902002804,
   "band_list": [
+    {
+      "raw_hot": 2904722,
+      "num": 1464703,
+      "word": "谢娜在机场哭了",
+      "onboard_time": 1684898490,
+      "rank": 3,
+      "category": "作品衍生"
+    },
     {
       "raw_hot": 1781665,
       "num": 1057833,
       "word": "小学生在校内被老师开车撞倒身亡",
       "onboard_time": 1684885106,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1730512,
+      "num": 1730512,
+      "word": "在香港歧视普通话注定是个笑话",
+      "onboard_time": 1684885767,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -33,22 +49,6 @@
       "onboard_time": 1684891468,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1472536,
-      "num": 1472536,
-      "word": "在香港歧视普通话注定是个笑话",
-      "onboard_time": 1684885767,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1464703,
-      "num": 1464703,
-      "word": "谢娜在机场哭了",
-      "onboard_time": 1684898490,
-      "rank": 3,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1335403,
@@ -99,6 +99,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1008841,
+      "num": 1008841,
+      "word": "章泽天现身戛纳晚宴",
+      "onboard_time": 1684898670,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 990960,
       "num": 990960,
       "word": "易烊千玺听到刘烨获奖的表情",
@@ -107,12 +115,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 913797,
+      "num": 913797,
+      "word": "和马官宣签约龙韬娱乐",
+      "onboard_time": 1684898309,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 909659,
       "num": 909659,
       "word": "张译发言 陈凯歌表情",
       "onboard_time": 1684853496,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 905916,
+      "num": 905916,
+      "word": "鹿晗演唱会开票",
+      "onboard_time": 1684901793,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 897630,
+      "num": 897630,
+      "word": "网友问张子枫是谢霆锋的姐姐吗",
+      "onboard_time": 1684896207,
+      "rank": 40,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 888378,
@@ -129,6 +161,14 @@
       "onboard_time": 1684853317,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 885206,
+      "num": 885206,
+      "word": "老婆大人",
+      "onboard_time": 1684899750,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 850680,
@@ -153,6 +193,14 @@
       "onboard_time": 1684893087,
       "rank": 42,
       "category": "科技"
+    },
+    {
+      "raw_hot": 727735,
+      "num": 496722,
+      "word": "月薪5000两年存了8万",
+      "onboard_time": 1684900711,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 693474,
@@ -211,6 +259,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 566584,
+      "num": 566584,
+      "word": "李家超说类似国泰事件不容再发生",
+      "onboard_time": 1684899091,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 564960,
+      "num": 564960,
+      "word": "王一博穿出了五彩斑斓的黑",
+      "onboard_time": 1684900294,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 508751,
+      "num": 508751,
+      "word": "阿里人员优化",
+      "onboard_time": 1684898806,
+      "rank": 38,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 505927,
       "num": 190178,
       "word": "易烊千玺王俊凯同框",
@@ -233,6 +305,14 @@
       "onboard_time": 1684842330,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 464336,
+      "num": 464336,
+      "word": "IU或恢复在中国的活动",
+      "onboard_time": 1684901432,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 458749,
@@ -267,28 +347,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 416800,
-      "num": 416800,
-      "word": "和马官宣签约龙韬娱乐",
-      "onboard_time": 1684898309,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 395534,
       "num": 189548,
       "word": "金珉奎签售",
       "onboard_time": 1684853674,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 393553,
-      "num": 393553,
-      "word": "李家超说类似国泰事件不容再发生",
-      "onboard_time": 1684899091,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 385050,
@@ -331,20 +395,12 @@
       "category": "社会负面,教育"
     },
     {
-      "raw_hot": 356907,
-      "num": 356907,
-      "word": "章泽天现身戛纳晚宴",
-      "onboard_time": 1684898670,
-      "rank": 23,
+      "raw_hot": 346182,
+      "num": 346182,
+      "word": "范丞丞裤子是来拖地的吗",
+      "onboard_time": 1684899511,
+      "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 352653,
-      "num": 328674,
-      "word": "网友问张子枫是谢霆锋的姐姐吗",
-      "onboard_time": 1684896207,
-      "rank": 40,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 345401,
@@ -387,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314514,
+      "num": 314514,
+      "word": "周深被动C位",
+      "onboard_time": 1684899452,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 311318,
       "num": 311318,
       "word": "aespa亮相戛纳",
@@ -427,6 +491,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 295199,
+      "num": 295199,
+      "word": "你猜为什么沈腾不读颁奖词",
+      "onboard_time": 1684900833,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 286804,
       "num": 286804,
       "word": "国泰航空近七成营收来自中国",
@@ -435,12 +507,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 285355,
+      "num": 285355,
+      "word": "被公司开除忍不住笑出声",
+      "onboard_time": 1684899812,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 283075,
       "num": 228180,
       "word": "巧乐兹夫妇商业版图盘点",
       "onboard_time": 1684858349,
       "rank": 16,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 281203,
+      "num": 281203,
+      "word": "王俊凯经纪人说他胖了",
+      "onboard_time": 1684899991,
+      "rank": 34,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 266610,
@@ -473,6 +561,14 @@
       "onboard_time": 1684893029,
       "rank": 41,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 244081,
+      "num": 244081,
+      "word": "第五人格",
+      "onboard_time": 1684901130,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 241616,
@@ -523,8 +619,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225514,
-      "num": 225514,
+      "raw_hot": 226301,
+      "num": 226301,
       "word": "凯尔特人1比3热火",
       "onboard_time": 1684898670,
       "rank": 34,
@@ -579,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214655,
+      "num": 214655,
+      "word": "麦当劳游戏机",
+      "onboard_time": 1684901073,
+      "rank": 40,
+      "category": "幽默,时尚"
+    },
+    {
       "raw_hot": 214013,
       "num": 214013,
       "word": "ENHYPEN粉丝要求删除双人舞",
@@ -627,14 +731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199369,
-      "num": 199369,
-      "word": "阿里人员优化",
-      "onboard_time": 1684898806,
-      "rank": 38,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 192924,
       "num": 192924,
       "word": "张彬彬吴倩入怀抱",
@@ -681,6 +777,14 @@
       "onboard_time": 1684852299,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187489,
+      "num": 187489,
+      "word": "蔡依林演唱会深圳站广州站已过审",
+      "onboard_time": 1684901853,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 185354,
@@ -779,6 +883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 145665,
+      "num": 173442,
+      "word": "DOTA2国家集训队名单",
+      "onboard_time": 1684900173,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 141970,
       "num": 141970,
       "word": "专家称鼓励生育政策还有优化空间",
@@ -793,6 +905,14 @@
       "onboard_time": 1684843230,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132823,
+      "num": 565145,
+      "word": "为何世界名画偏爱半身像",
+      "onboard_time": 1684900772,
+      "rank": 15,
+      "category": "其它"
     },
     {
       "raw_hot": 131983,
@@ -929,6 +1049,14 @@
       "onboard_time": 1684897347,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60143,
+      "num": 565702,
+      "word": "原神3.7版本更新 八重神子",
+      "onboard_time": 1684900833,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 59061,
