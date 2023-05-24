@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684937767251,
+  "endTime": 1684938804974,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -2891,6 +2891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1663313,
+      "num": 1663313,
+      "word": "公主小妹照进现实",
+      "onboard_time": 1684934370,
+      "rank": 42,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 1661700,
       "num": 1661700,
       "word": "蜜雪冰城回应顾客在饮品中喝到大蟑螂",
@@ -4409,14 +4417,6 @@
       "onboard_time": 1684193063,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1372542,
-      "num": 1372542,
-      "word": "公主小妹照进现实",
-      "onboard_time": 1684934370,
-      "rank": 42,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 1370995,
@@ -6667,6 +6667,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 1053918,
+      "num": 1053918,
+      "word": "员工每天带薪拉屎3至6小时被解雇",
+      "onboard_time": 1684936892,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1053816,
       "num": 983901,
       "word": "印度19岁女子穿比基尼乘地铁",
@@ -7305,6 +7313,14 @@
       "onboard_time": 1684105399,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 961644,
+      "num": 961644,
+      "word": "谁来救救白敬亭",
+      "onboard_time": 1684935391,
+      "rank": 5,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 959798,
@@ -8963,6 +8979,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 788685,
+      "num": 788685,
+      "word": "杨紫的发际线",
+      "onboard_time": 1684934191,
+      "rank": 34,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 788619,
       "num": 788619,
       "word": "顺丰53岁员工猝死家属称公司拒担责",
@@ -9209,14 +9233,6 @@
       "onboard_time": 1683717449,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 764458,
-      "num": 764458,
-      "word": "谁来救救白敬亭",
-      "onboard_time": 1684935391,
-      "rank": 5,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 764182,
@@ -9473,14 +9489,6 @@
       "onboard_time": 1683370471,
       "rank": 30,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 739093,
-      "num": 550756,
-      "word": "杨紫的发际线",
-      "onboard_time": 1684934191,
-      "rank": 34,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 738729,
@@ -9785,6 +9793,14 @@
       "onboard_time": 1683416420,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 719595,
+      "num": 719595,
+      "word": "上海高架",
+      "onboard_time": 1684937611,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 718515,
@@ -11220,7 +11236,7 @@
     },
     {
       "raw_hot": 619570,
-      "num": 392518,
+      "num": 451735,
       "word": "白敬亭用的什么粉底",
       "onboard_time": 1684934971,
       "rank": 31,
@@ -11881,6 +11897,14 @@
       "onboard_time": 1683211114,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 587668,
+      "num": 330270,
+      "word": "交了男朋友后才知道的事",
+      "onboard_time": 1684936470,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 587660,
@@ -12729,14 +12753,6 @@
       "onboard_time": 1684749748,
       "rank": 14,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 552365,
-      "num": 330270,
-      "word": "交了男朋友后才知道的事",
-      "onboard_time": 1684936470,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 551625,
@@ -15713,14 +15729,6 @@
       "onboard_time": 1684455449,
       "rank": 17,
       "category": "科技"
-    },
-    {
-      "raw_hot": 456068,
-      "num": 439671,
-      "word": "员工每天带薪拉屎3至6小时被解雇",
-      "onboard_time": 1684936892,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 455478,
@@ -19051,6 +19059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 384737,
+      "num": 350297,
+      "word": "谁给白鹿做的妆造",
+      "onboard_time": 1684937498,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 384570,
       "num": 335398,
       "word": "易烊千玺金爵奖亚洲新人单元评委",
@@ -20771,6 +20787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 357210,
+      "num": 330240,
+      "word": "眉姐姐穿丑衣服",
+      "onboard_time": 1684936531,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 357057,
       "num": 357057,
       "word": "巨齿鲨2",
@@ -21345,6 +21369,14 @@
       "onboard_time": 1683540751,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 348485,
+      "num": 321725,
+      "word": "易烊千玺栩栩华生内场饭拍",
+      "onboard_time": 1684935871,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 348425,
@@ -22579,14 +22611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 330240,
-      "num": 330240,
-      "word": "眉姐姐穿丑衣服",
-      "onboard_time": 1684936531,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 330154,
       "num": 278518,
       "word": "杨紫复古梦幻大片预告",
@@ -23169,14 +23193,6 @@
       "onboard_time": 1683730833,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 321725,
-      "num": 321725,
-      "word": "易烊千玺栩栩华生内场饭拍",
-      "onboard_time": 1684935871,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 321696,
@@ -26579,6 +26595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 280249,
+      "num": 280249,
+      "word": "赵露思抬眸",
+      "onboard_time": 1684938155,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 280224,
       "num": 272702,
       "word": "易烊千玺与汉斯季默合影",
@@ -27091,6 +27115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274246,
+      "num": 274246,
+      "word": "都不买榴莲我就放心了",
+      "onboard_time": 1684937793,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274235,
       "num": 274235,
       "word": "长相思限定惊喜vlog",
@@ -27105,6 +27137,14 @@
       "onboard_time": 1684228468,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 274160,
+      "num": 274160,
+      "word": "华表奖易烊千玺在看王俊凯吗",
+      "onboard_time": 1684931191,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 274072,
@@ -27552,6 +27592,14 @@
       "word": "辽宁男篮总决赛开门红",
       "onboard_time": 1683555813,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 268748,
+      "num": 268748,
+      "word": "林高远",
+      "onboard_time": 1684673193,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -28073,14 +28121,6 @@
       "onboard_time": 1683970228,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 263948,
-      "num": 263948,
-      "word": "华表奖易烊千玺在看王俊凯吗",
-      "onboard_time": 1684931191,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 263874,
@@ -29883,14 +29923,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 246984,
-      "num": 246984,
-      "word": "林高远",
-      "onboard_time": 1684673193,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 246963,
       "num": 246963,
       "word": "梁静茹 门票",
@@ -31336,6 +31368,14 @@
       "word": "护心你别太离谱",
       "onboard_time": 1683982769,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 235766,
+      "num": 235766,
+      "word": "刘亦菲要进组了",
+      "onboard_time": 1684937852,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -33361,6 +33401,14 @@
       "onboard_time": 1684652851,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220338,
+      "num": 281571,
+      "word": "上海交警通报两车高架上斗气碰撞",
+      "onboard_time": 1684937672,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220323,
@@ -35843,6 +35891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 203369,
+      "num": 203369,
+      "word": "鞠婧祎午间白素贞",
+      "onboard_time": 1684935571,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203367,
       "num": 203367,
       "word": "Doinb办B际赛",
@@ -36209,14 +36265,6 @@
       "onboard_time": 1683381030,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201196,
-      "num": 174982,
-      "word": "谁给白鹿做的妆造",
-      "onboard_time": 1684937498,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 201072,
@@ -37065,14 +37113,6 @@
       "onboard_time": 1684130548,
       "rank": 24,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 195312,
-      "num": 156875,
-      "word": "鞠婧祎午间白素贞",
-      "onboard_time": 1684935571,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 195309,
@@ -43355,14 +43395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154836,
-      "num": 154836,
-      "word": "上海高架",
-      "onboard_time": 1684937611,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154814,
       "num": 154814,
       "word": "吸血鬼概念的一环",
@@ -46137,14 +46169,6 @@
       "onboard_time": 1684900772,
       "rank": 15,
       "category": "其它"
-    },
-    {
-      "raw_hot": 132762,
-      "num": 132762,
-      "word": "上海交警通报两车高架上斗气碰撞",
-      "onboard_time": 1684937672,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132748,
@@ -52083,6 +52107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17056,
+      "num": 224260,
+      "word": "618明星直播都在整活儿",
+      "onboard_time": 1684936829,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15606,
       "num": 20952,
       "word": "漫长的季节彩蛋",
@@ -52171,12 +52203,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9699,
-      "num": 179086,
-      "word": "618明星直播都在整活儿",
-      "onboard_time": 1684936829,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 10400,
+      "num": 1337336,
+      "word": "数字化改革里的民生温度",
+      "onboard_time": 1684938272,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

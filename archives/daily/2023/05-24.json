@@ -1,6 +1,6 @@
 {
   "startTime": 1684858934935,
-  "endTime": 1684937767251,
+  "endTime": 1684938804974,
   "band_list": [
     {
       "raw_hot": 2904722,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1663313,
+      "num": 1663313,
+      "word": "公主小妹照进现实",
+      "onboard_time": 1684934370,
+      "rank": 42,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 1590457,
       "num": 1590457,
       "word": "谁来救救江疏影",
@@ -113,14 +121,6 @@
       "onboard_time": 1684921471,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1372542,
-      "num": 1372542,
-      "word": "公主小妹照进现实",
-      "onboard_time": 1684934370,
-      "rank": 42,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 1368027,
@@ -243,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1053918,
+      "num": 1053918,
+      "word": "员工每天带薪拉屎3至6小时被解雇",
+      "onboard_time": 1684936892,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1053816,
       "num": 983901,
       "word": "印度19岁女子穿比基尼乘地铁",
@@ -313,6 +321,14 @@
       "onboard_time": 1684932750,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 961644,
+      "num": 961644,
+      "word": "谁来救救白敬亭",
+      "onboard_time": 1684935391,
+      "rank": 5,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 955636,
@@ -387,20 +403,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 788685,
+      "num": 788685,
+      "word": "杨紫的发际线",
+      "onboard_time": 1684934191,
+      "rank": 34,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 770024,
       "num": 770024,
       "word": "白敬亭淋雨神图",
       "onboard_time": 1684933530,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 764458,
-      "num": 764458,
-      "word": "谁来救救白敬亭",
-      "onboard_time": 1684935391,
-      "rank": 5,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 755202,
@@ -417,14 +433,6 @@
       "onboard_time": 1684853496,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 739093,
-      "num": 550756,
-      "word": "杨紫的发际线",
-      "onboard_time": 1684934191,
-      "rank": 34,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 735537,
@@ -457,6 +465,14 @@
       "onboard_time": 1684907791,
       "rank": 14,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 719595,
+      "num": 719595,
+      "word": "上海高架",
+      "onboard_time": 1684937611,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 693474,
@@ -532,7 +548,7 @@
     },
     {
       "raw_hot": 619570,
-      "num": 392518,
+      "num": 451735,
       "word": "白敬亭用的什么粉底",
       "onboard_time": 1684934971,
       "rank": 31,
@@ -569,6 +585,14 @@
       "onboard_time": 1684900294,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 587668,
+      "num": 330270,
+      "word": "交了男朋友后才知道的事",
+      "onboard_time": 1684936470,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 585992,
@@ -625,14 +649,6 @@
       "onboard_time": 1684899091,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 552365,
-      "num": 330270,
-      "word": "交了男朋友后才知道的事",
-      "onboard_time": 1684936470,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 544473,
@@ -763,14 +779,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 456068,
-      "num": 439671,
-      "word": "员工每天带薪拉屎3至6小时被解雇",
-      "onboard_time": 1684936892,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 451178,
       "num": 451178,
       "word": "科大讯飞",
@@ -883,6 +891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 384737,
+      "num": 350297,
+      "word": "谁给白鹿做的妆造",
+      "onboard_time": 1684937498,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 381723,
       "num": 381723,
       "word": "你接受上4休3收入降5分之1吗",
@@ -963,6 +979,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 357210,
+      "num": 330240,
+      "word": "眉姐姐穿丑衣服",
+      "onboard_time": 1684936531,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 348485,
+      "num": 321725,
+      "word": "易烊千玺栩栩华生内场饭拍",
+      "onboard_time": 1684935871,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 347233,
       "num": 347233,
       "word": "奔跑吧首次录制直播",
@@ -1035,14 +1067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 330240,
-      "num": 330240,
-      "word": "眉姐姐穿丑衣服",
-      "onboard_time": 1684936531,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 330154,
       "num": 278518,
       "word": "杨紫复古梦幻大片预告",
@@ -1065,14 +1089,6 @@
       "onboard_time": 1684917690,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 321725,
-      "num": 321725,
-      "word": "易烊千玺栩栩华生内场饭拍",
-      "onboard_time": 1684935871,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 319719,
@@ -1291,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280249,
+      "num": 280249,
+      "word": "赵露思抬眸",
+      "onboard_time": 1684938155,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 278647,
       "num": 278647,
       "word": "韩国英雄联盟亚运会大名单",
@@ -1312,6 +1336,22 @@
       "word": "三分野",
       "onboard_time": 1684928368,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 274246,
+      "num": 274246,
+      "word": "都不买榴莲我就放心了",
+      "onboard_time": 1684937793,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274160,
+      "num": 274160,
+      "word": "华表奖易烊千玺在看王俊凯吗",
+      "onboard_time": 1684931191,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -1337,6 +1377,14 @@
       "onboard_time": 1684902273,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 268748,
+      "num": 268748,
+      "word": "林高远",
+      "onboard_time": 1684937373,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 266610,
@@ -1369,14 +1417,6 @@
       "onboard_time": 1684915469,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 263948,
-      "num": 263948,
-      "word": "华表奖易烊千玺在看王俊凯吗",
-      "onboard_time": 1684931191,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 262034,
@@ -1531,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235766,
+      "num": 235766,
+      "word": "刘亦菲要进组了",
+      "onboard_time": 1684937852,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 235200,
       "num": 180293,
       "word": "奔跑吧路透",
@@ -1633,6 +1681,14 @@
       "onboard_time": 1684847914,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 220338,
+      "num": 281571,
+      "word": "上海交警通报两车高架上斗气碰撞",
+      "onboard_time": 1684937672,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220212,
@@ -1739,6 +1795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203369,
+      "num": 203369,
+      "word": "鞠婧祎午间白素贞",
+      "onboard_time": 1684935571,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202203,
       "num": 202203,
       "word": "警员将旧户口簿盖作废章留给孙女作纪念",
@@ -1769,14 +1833,6 @@
       "onboard_time": 1684928069,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201196,
-      "num": 174982,
-      "word": "谁给白鹿做的妆造",
-      "onboard_time": 1684937498,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 200323,
@@ -1833,14 +1889,6 @@
       "onboard_time": 1684920331,
       "rank": 35,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 195312,
-      "num": 156875,
-      "word": "鞠婧祎午间白素贞",
-      "onboard_time": 1684935571,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 195259,
@@ -1961,14 +2009,6 @@
       "onboard_time": 1684921171,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 183810,
-      "num": 183810,
-      "word": "林高远",
-      "onboard_time": 1684937373,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 183561,
@@ -2163,14 +2203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154836,
-      "num": 154836,
-      "word": "上海高架",
-      "onboard_time": 1684937611,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152362,
       "num": 152362,
       "word": "阴阳师",
@@ -2233,14 +2265,6 @@
       "onboard_time": 1684900772,
       "rank": 15,
       "category": "其它"
-    },
-    {
-      "raw_hot": 132762,
-      "num": 132762,
-      "word": "上海交警通报两车高架上斗气碰撞",
-      "onboard_time": 1684937672,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131983,
@@ -2523,12 +2547,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9699,
-      "num": 179086,
+      "raw_hot": 17056,
+      "num": 224260,
       "word": "618明星直播都在整活儿",
       "onboard_time": 1684936829,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10400,
+      "num": 1337336,
+      "word": "数字化改革里的民生温度",
+      "onboard_time": 1684938272,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

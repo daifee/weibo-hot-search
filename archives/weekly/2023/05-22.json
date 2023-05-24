@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684937767251,
+  "endTime": 1684938804974,
   "band_list": [
     {
       "raw_hot": 3643134,
@@ -323,6 +323,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1663313,
+      "num": 1663313,
+      "word": "公主小妹照进现实",
+      "onboard_time": 1684934370,
+      "rank": 42,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 1646686,
       "num": 1646686,
       "word": "刘亚仁男友潜逃海外失败",
@@ -497,14 +505,6 @@
       "onboard_time": 1684921471,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1372542,
-      "num": 1372542,
-      "word": "公主小妹照进现实",
-      "onboard_time": 1684934370,
-      "rank": 42,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 1368027,
@@ -875,6 +875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1053918,
+      "num": 1053918,
+      "word": "员工每天带薪拉屎3至6小时被解雇",
+      "onboard_time": 1684936892,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1053816,
       "num": 983901,
       "word": "印度19岁女子穿比基尼乘地铁",
@@ -985,6 +993,14 @@
       "onboard_time": 1684932750,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 961644,
+      "num": 961644,
+      "word": "谁来救救白敬亭",
+      "onboard_time": 1684935391,
+      "rank": 5,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 959361,
@@ -1235,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 788685,
+      "num": 788685,
+      "word": "杨紫的发际线",
+      "onboard_time": 1684934191,
+      "rank": 34,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 775560,
       "num": 775560,
       "word": "易梦玲综艺首秀",
@@ -1275,14 +1299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 764458,
-      "num": 764458,
-      "word": "谁来救救白敬亭",
-      "onboard_time": 1684935391,
-      "rank": 5,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 755202,
       "num": 755202,
       "word": "男医生体检时猥亵女子被吊销执业资格",
@@ -1305,14 +1321,6 @@
       "onboard_time": 1684825590,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 739093,
-      "num": 550756,
-      "word": "杨紫的发际线",
-      "onboard_time": 1684934191,
-      "rank": 34,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 735582,
@@ -1377,6 +1385,14 @@
       "onboard_time": 1684907791,
       "rank": 14,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 719595,
+      "num": 719595,
+      "word": "上海高架",
+      "onboard_time": 1684937611,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 716057,
@@ -1588,7 +1604,7 @@
     },
     {
       "raw_hot": 619570,
-      "num": 392518,
+      "num": 451735,
       "word": "白敬亭用的什么粉底",
       "onboard_time": 1684934971,
       "rank": 31,
@@ -1673,6 +1689,14 @@
       "onboard_time": 1684824389,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 587668,
+      "num": 330270,
+      "word": "交了男朋友后才知道的事",
+      "onboard_time": 1684936470,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 586665,
@@ -1849,14 +1873,6 @@
       "onboard_time": 1684749748,
       "rank": 14,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 552365,
-      "num": 330270,
-      "word": "交了男朋友后才知道的事",
-      "onboard_time": 1684936470,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 550266,
@@ -2256,14 +2272,6 @@
       "word": "水电工人被射钉枪击中头部身亡",
       "onboard_time": 1684676252,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 456068,
-      "num": 439671,
-      "word": "员工每天带薪拉屎3至6小时被解雇",
-      "onboard_time": 1684936892,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -2691,6 +2699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 384737,
+      "num": 350297,
+      "word": "谁给白鹿做的妆造",
+      "onboard_time": 1684937498,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 382354,
       "num": 382354,
       "word": "手机真的会偷听吗",
@@ -2907,6 +2923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 357210,
+      "num": 330240,
+      "word": "眉姐姐穿丑衣服",
+      "onboard_time": 1684936531,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356626,
       "num": 356626,
       "word": "凯尔特人vs热火",
@@ -2937,6 +2961,14 @@
       "onboard_time": 1684816954,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 348485,
+      "num": 321725,
+      "word": "易烊千玺栩栩华生内场饭拍",
+      "onboard_time": 1684935871,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 347999,
@@ -3107,14 +3139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 330240,
-      "num": 330240,
-      "word": "眉姐姐穿丑衣服",
-      "onboard_time": 1684936531,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 330154,
       "num": 278518,
       "word": "杨紫复古梦幻大片预告",
@@ -3201,14 +3225,6 @@
       "onboard_time": 1684851578,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 321725,
-      "num": 321725,
-      "word": "易烊千玺栩栩华生内场饭拍",
-      "onboard_time": 1684935871,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 321022,
@@ -3771,6 +3787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280249,
+      "num": 280249,
+      "word": "赵露思抬眸",
+      "onboard_time": 1684938155,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 279529,
       "num": 171781,
       "word": "王景春好像被红蓝灯笼绑架了",
@@ -3851,6 +3875,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 274246,
+      "num": 274246,
+      "word": "都不买榴莲我就放心了",
+      "onboard_time": 1684937793,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274160,
+      "num": 274160,
+      "word": "华表奖易烊千玺在看王俊凯吗",
+      "onboard_time": 1684931191,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273887,
       "num": 321479,
       "word": "AG 三组",
@@ -3923,6 +3963,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 268748,
+      "num": 268748,
+      "word": "林高远",
+      "onboard_time": 1684937373,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 267953,
       "num": 267953,
       "word": "韩娱唱片销量全靠中输",
@@ -3993,14 +4041,6 @@
       "onboard_time": 1684915469,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 263948,
-      "num": 263948,
-      "word": "华表奖易烊千玺在看王俊凯吗",
-      "onboard_time": 1684931191,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 262661,
@@ -4427,6 +4467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235766,
+      "num": 235766,
+      "word": "刘亦菲要进组了",
+      "onboard_time": 1684937852,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 235200,
       "num": 180293,
       "word": "奔跑吧路透",
@@ -4779,6 +4827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 220338,
+      "num": 281571,
+      "word": "上海交警通报两车高架上斗气碰撞",
+      "onboard_time": 1684937672,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219606,
       "num": 219606,
       "word": "魏晨谈打庆大霉素过敏失温经历",
@@ -5075,6 +5131,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 203369,
+      "num": 203369,
+      "word": "鞠婧祎午间白素贞",
+      "onboard_time": 1684935571,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203367,
       "num": 203367,
       "word": "Doinb办B际赛",
@@ -5145,14 +5209,6 @@
       "onboard_time": 1684928069,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201196,
-      "num": 174982,
-      "word": "谁给白鹿做的妆造",
-      "onboard_time": 1684937498,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 200323,
@@ -5305,14 +5361,6 @@
       "onboard_time": 1684727549,
       "rank": 43,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 195312,
-      "num": 156875,
-      "word": "鞠婧祎午间白素贞",
-      "onboard_time": 1684935571,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 195259,
@@ -5585,14 +5633,6 @@
       "onboard_time": 1684921171,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 183810,
-      "num": 183810,
-      "word": "林高远",
-      "onboard_time": 1684937373,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 183561,
@@ -6251,14 +6291,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 154836,
-      "num": 154836,
-      "word": "上海高架",
-      "onboard_time": 1684937611,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154814,
       "num": 154814,
       "word": "吸血鬼概念的一环",
@@ -6561,14 +6593,6 @@
       "onboard_time": 1684900772,
       "rank": 15,
       "category": "其它"
-    },
-    {
-      "raw_hot": 132762,
-      "num": 132762,
-      "word": "上海交警通报两车高架上斗气碰撞",
-      "onboard_time": 1684937672,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132739,
@@ -7387,12 +7411,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9699,
-      "num": 179086,
+      "raw_hot": 17056,
+      "num": 224260,
       "word": "618明星直播都在整活儿",
       "onboard_time": 1684936829,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10400,
+      "num": 1337336,
+      "word": "数字化改革里的民生温度",
+      "onboard_time": 1684938272,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
