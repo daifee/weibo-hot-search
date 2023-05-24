@@ -1,6 +1,6 @@
 {
   "startTime": 1684858934935,
-  "endTime": 1684923495295,
+  "endTime": 1684924426210,
   "band_list": [
     {
       "raw_hot": 2904722,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 1222568,
-      "num": 703692,
+      "num": 732803,
       "word": "你的胸不需要非得是美的",
       "onboard_time": 1684912050,
       "rank": 33,
@@ -160,6 +160,14 @@
       "word": "浙江59岁孕妇成功产下一女婴",
       "onboard_time": 1684913910,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1165960,
+      "num": 1165960,
+      "word": "国泰航空行政总裁用普通话道歉",
+      "onboard_time": 1684921471,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 1053816,
-      "num": 886551,
+      "num": 983901,
       "word": "印度19岁女子穿比基尼乘地铁",
       "onboard_time": 1684916790,
       "rank": 33,
@@ -251,8 +259,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 955636,
+      "num": 736019,
+      "word": "厦门",
+      "onboard_time": 1684920451,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 939018,
-      "num": 939018,
+      "num": 1043646,
       "word": "居民清理油烟机掏出一窝国家级宝宝",
       "onboard_time": 1684906829,
       "rank": 6,
@@ -275,20 +291,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 910547,
+      "num": 910547,
+      "word": "刘亚仁头发白了",
+      "onboard_time": 1684922191,
+      "rank": 15,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 909659,
       "num": 909659,
       "word": "张译发言 陈凯歌表情",
       "onboard_time": 1684853496,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 899350,
-      "num": 899350,
-      "word": "国泰航空行政总裁用普通话道歉",
-      "onboard_time": 1684921471,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 888378,
@@ -305,14 +321,6 @@
       "onboard_time": 1684853317,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 871374,
-      "num": 606043,
-      "word": "厦门",
-      "onboard_time": 1684920451,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 850680,
@@ -451,6 +459,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 578754,
+      "num": 578754,
+      "word": "LNG官宣GALA加入",
+      "onboard_time": 1684923569,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 578098,
       "num": 578098,
       "word": "阿里人员优化",
@@ -481,14 +497,6 @@
       "onboard_time": 1684900833,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 544425,
-      "num": 544425,
-      "word": "刘亚仁头发白了",
-      "onboard_time": 1684922191,
-      "rank": 15,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 515344,
@@ -627,6 +635,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 397076,
+      "num": 397076,
+      "word": "前国泰空姐爆料歧视内地旅客是常态",
+      "onboard_time": 1684922968,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396202,
       "num": 321804,
       "word": "成灿Shotaro将新男团出道",
@@ -713,6 +729,14 @@
       "onboard_time": 1684892549,
       "rank": 23,
       "category": "社会负面,教育"
+    },
+    {
+      "raw_hot": 358171,
+      "num": 358171,
+      "word": "小欢喜陶子北电毕业照",
+      "onboard_time": 1684920990,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 357420,
@@ -827,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313216,
+      "num": 985906,
+      "word": "公厕保洁阿姨在角落里认真读书",
+      "onboard_time": 1684918951,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311318,
       "num": 311318,
       "word": "aespa亮相戛纳",
@@ -873,6 +905,14 @@
       "onboard_time": 1684915290,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 292452,
+      "num": 292452,
+      "word": "杨紫长相思取得发行许可证",
+      "onboard_time": 1684922312,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 292348,
@@ -1051,20 +1091,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 251789,
+      "num": 939067,
+      "word": "夜市演出暂停主持人帮找走丢小孩",
+      "onboard_time": 1684921830,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251452,
       "num": 303930,
       "word": "国泰航空需检讨",
       "onboard_time": 1684909769,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249515,
-      "num": 249515,
-      "word": "小欢喜陶子北电毕业照",
-      "onboard_time": 1684920990,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 244081,
@@ -1105,14 +1145,6 @@
       "onboard_time": 1684917931,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 238462,
-      "num": 853267,
-      "word": "公厕保洁阿姨在角落里认真读书",
-      "onboard_time": 1684918951,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238398,
@@ -1171,6 +1203,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 233318,
+      "num": 233318,
+      "word": "小行星",
+      "onboard_time": 1684923390,
+      "rank": 48,
+      "category": "社会新闻,自然"
+    },
+    {
       "raw_hot": 231326,
       "num": 206706,
       "word": "记苏醒账上",
@@ -1187,14 +1227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 230849,
-      "num": 230849,
-      "word": "前国泰空姐爆料歧视内地旅客是常态",
-      "onboard_time": 1684922968,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 230718,
       "num": 230718,
       "word": "国泰事件并非孤立现象",
@@ -1209,14 +1241,6 @@
       "onboard_time": 1684854395,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228291,
-      "num": 228291,
-      "word": "杨紫长相思取得发行许可证",
-      "onboard_time": 1684922312,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 226301,
@@ -1339,14 +1363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 207887,
-      "num": 818689,
-      "word": "夜市演出暂停主持人帮找走丢小孩",
-      "onboard_time": 1684921830,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206777,
       "num": 196895,
       "word": "欧阳娜娜仪态",
@@ -1393,6 +1409,14 @@
       "onboard_time": 1684920033,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200323,
+      "num": 200323,
+      "word": "长沙面包店有多卷",
+      "onboard_time": 1684922791,
+      "rank": 46,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 199447,
@@ -1539,6 +1563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184568,
+      "num": 184568,
+      "word": "吴磊回学校领毕业证",
+      "onboard_time": 1684921171,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183561,
       "num": 183561,
       "word": "新娘婚礼公公携战友合唱军歌超震撼",
@@ -1553,14 +1585,6 @@
       "onboard_time": 1684905869,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 182300,
-      "num": 182300,
-      "word": "吴磊回学校领毕业证",
-      "onboard_time": 1684921171,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 181538,
@@ -1643,14 +1667,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 168503,
-      "num": 168503,
-      "word": "长沙面包店有多卷",
-      "onboard_time": 1684922791,
-      "rank": 46,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 168433,
       "num": 168433,
       "word": "如何区分呼吸道合胞病毒和流感",
@@ -1681,14 +1697,6 @@
       "onboard_time": 1684903054,
       "rank": 45,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 156248,
-      "num": 156248,
-      "word": "小行星",
-      "onboard_time": 1684923390,
-      "rank": 48,
-      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 155850,
@@ -1921,6 +1929,14 @@
       "onboard_time": 1684847914,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52309,
+      "num": 166585,
+      "word": "你有过镜头焦虑吗",
+      "onboard_time": 1684923930,
+      "rank": 43,
+      "category": "社会议题"
     },
     {
       "raw_hot": 41672,
