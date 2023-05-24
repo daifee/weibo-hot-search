@@ -1,6 +1,6 @@
 {
   "startTime": 1684858934935,
-  "endTime": 1684917236848,
+  "endTime": 1684919807071,
   "band_list": [
     {
       "raw_hot": 2904722,
@@ -147,6 +147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1205604,
+      "num": 1205604,
+      "word": "浙江59岁孕妇成功产下一女婴",
+      "onboard_time": 1684913910,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1131106,
       "num": 1131106,
       "word": "谢娜女儿看到赵丽颖的广告叫妈妈",
@@ -185,6 +193,14 @@
       "onboard_time": 1684847251,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1048303,
+      "num": 1048303,
+      "word": "孙俪杨幂都请了表演老师",
+      "onboard_time": 1684913308,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1015286,
@@ -267,11 +283,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 885339,
-      "num": 885339,
-      "word": "浙江59岁孕妇成功产下一女婴",
-      "onboard_time": 1684913910,
-      "rank": 13,
+      "raw_hot": 886551,
+      "num": 886551,
+      "word": "印度19岁女子穿比基尼乘地铁",
+      "onboard_time": 1684916790,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -281,14 +297,6 @@
       "onboard_time": 1684883962,
       "rank": 14,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 846909,
-      "num": 846909,
-      "word": "孙俪杨幂都请了表演老师",
-      "onboard_time": 1684913308,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 742937,
@@ -305,6 +313,14 @@
       "onboard_time": 1684893087,
       "rank": 42,
       "category": "科技"
+    },
+    {
+      "raw_hot": 722089,
+      "num": 722089,
+      "word": "高亚麟揪易烊千玺耳朵",
+      "onboard_time": 1684914751,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 719993,
@@ -443,14 +459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 506923,
-      "num": 506923,
-      "word": "高亚麟揪易烊千玺耳朵",
-      "onboard_time": 1684914751,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 505927,
       "num": 190178,
       "word": "易烊千玺王俊凯同框",
@@ -489,6 +497,14 @@
       "onboard_time": 1684906952,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 469093,
+      "num": 469093,
+      "word": "央视网评小慧君造谣性骚扰事件",
+      "onboard_time": 1684916129,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 464873,
@@ -584,6 +600,22 @@
       "word": "金珉奎签售",
       "onboard_time": 1684853674,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 393382,
+      "num": 393382,
+      "word": "巩俐说易烊千玺会成为伟大的演员",
+      "onboard_time": 1684917869,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 388038,
+      "num": 274126,
+      "word": "林俊杰抵达上海",
+      "onboard_time": 1684919130,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -729,6 +761,14 @@
       "onboard_time": 1684857033,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319161,
+      "num": 272773,
+      "word": "栩栩华生",
+      "onboard_time": 1684919252,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 315729,
@@ -908,7 +948,7 @@
     },
     {
       "raw_hot": 260183,
-      "num": 227207,
+      "num": 233434,
       "word": "乐华是去西安团建了吗",
       "onboard_time": 1684915351,
       "rank": 32,
@@ -971,6 +1011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 239765,
+      "num": 239765,
+      "word": "工作后每月上交多少给父母",
+      "onboard_time": 1684917931,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 238398,
       "num": 238398,
       "word": "蔡依林演唱会深圳站广州站已过审",
@@ -1000,14 +1048,6 @@
       "word": "多地妇产医院今年分娩量下降",
       "onboard_time": 1684849177,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235704,
-      "num": 235704,
-      "word": "央视网评小慧君造谣性骚扰事件",
-      "onboard_time": 1684916129,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1065,6 +1105,14 @@
       "onboard_time": 1684898670,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225602,
+      "num": 236406,
+      "word": "这霜真的非擦不可吗",
+      "onboard_time": 1684918649,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 225026,
@@ -1140,7 +1188,7 @@
     },
     {
       "raw_hot": 212475,
-      "num": 182398,
+      "num": 212036,
       "word": "原来华表奖是有奖金的",
       "onboard_time": 1684916310,
       "rank": 36,
@@ -1315,14 +1363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186719,
-      "num": 186719,
-      "word": "印度19岁女子穿比基尼乘地铁",
-      "onboard_time": 1684916790,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185964,
       "num": 256934,
       "word": "原来长焦拍人这么好看",
@@ -1419,12 +1459,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169644,
+      "num": 169644,
+      "word": "公厕保洁阿姨在角落里认真读书",
+      "onboard_time": 1684918951,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168433,
       "num": 168433,
       "word": "如何区分呼吸道合胞病毒和流感",
       "onboard_time": 1684892848,
       "rank": 38,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 166896,
+      "num": 166896,
+      "word": "上班是成年人最好的毁容院",
+      "onboard_time": 1684917690,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 164535,
+      "num": 164535,
+      "word": "文兆杰只给易烊千玺写过歌",
+      "onboard_time": 1684918649,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 163221,
