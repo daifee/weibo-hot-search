@@ -1,6 +1,6 @@
 {
   "startTime": 1684858934935,
-  "endTime": 1684926858710,
+  "endTime": 1684928018120,
   "band_list": [
     {
       "raw_hot": 2904722,
@@ -355,6 +355,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 725697,
+      "num": 725697,
+      "word": "法老你真的我哭死",
+      "onboard_time": 1684926869,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 722089,
       "num": 722089,
       "word": "高亚麟揪易烊千玺耳朵",
@@ -579,6 +587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 464514,
+      "num": 464514,
+      "word": "杨紫紫裙盘发",
+      "onboard_time": 1684926750,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 464156,
       "num": 464156,
       "word": "A股",
@@ -617,6 +633,14 @@
       "onboard_time": 1684896749,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 436642,
+      "num": 436642,
+      "word": "国泰空乘工会对空姐被解聘感到遗憾",
+      "onboard_time": 1684926628,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 434060,
@@ -715,6 +739,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 372944,
+      "num": 372944,
+      "word": "杨紫红毯雨中拍照",
+      "onboard_time": 1684926750,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 366521,
       "num": 187324,
       "word": "张婧仪Lisa金泰亨朴宝剑同框",
@@ -801,6 +833,14 @@
       "onboard_time": 1684899452,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 335481,
+      "num": 335481,
+      "word": "国泰工会",
+      "onboard_time": 1684926809,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 334996,
@@ -1011,12 +1051,12 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 282536,
-      "num": 282536,
-      "word": "杨紫红毯雨中拍照",
-      "onboard_time": 1684926750,
-      "rank": 23,
-      "category": "作品衍生,时尚"
+      "raw_hot": 281949,
+      "num": 281949,
+      "word": "杨洋李沁红毯同框",
+      "onboard_time": 1684926269,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 281917,
@@ -1379,14 +1419,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 213474,
-      "num": 213474,
-      "word": "杨洋李沁红毯同框",
-      "onboard_time": 1684926269,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 212475,
       "num": 212036,
       "word": "原来华表奖是有奖金的",
@@ -1441,14 +1473,6 @@
       "onboard_time": 1684916369,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 203764,
-      "num": 203764,
-      "word": "国泰空乘工会对空姐被解聘感到遗憾",
-      "onboard_time": 1684926628,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202203,
@@ -1539,6 +1563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192825,
+      "num": 192825,
+      "word": "女性30岁生育算高龄产妇吗",
+      "onboard_time": 1684927708,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192677,
       "num": 192677,
       "word": "原神3.7",
@@ -1617,6 +1649,14 @@
       "onboard_time": 1684912770,
       "rank": 27,
       "category": "情感,时尚"
+    },
+    {
+      "raw_hot": 185519,
+      "num": 185519,
+      "word": "SMTOWN今年新团计划",
+      "onboard_time": 1684927349,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 185354,
@@ -1755,12 +1795,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 156362,
-      "num": 156362,
-      "word": "杨紫紫裙盘发",
-      "onboard_time": 1684926750,
+      "raw_hot": 157268,
+      "num": 157268,
+      "word": "王一博的减脂餐",
+      "onboard_time": 1684928008,
       "rank": 48,
-      "category": "作品衍生,时尚"
+      "category": "艺人"
     },
     {
       "raw_hot": 155850,
@@ -1768,14 +1808,6 @@
       "word": "宝妈带孩子坐高铁检票员提前放行",
       "onboard_time": 1684889910,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154620,
-      "num": 154620,
-      "word": "国泰工会",
-      "onboard_time": 1684926809,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1793,6 +1825,14 @@
       "onboard_time": 1684900173,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 144542,
+      "num": 471495,
+      "word": "三女子将同一男友送进监狱后相约旅游",
+      "onboard_time": 1684926092,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141970,
@@ -2024,14 +2064,6 @@
       "word": "李斯丹妮在玩一种很新的带货",
       "onboard_time": 1684897230,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39811,
-      "num": 471495,
-      "word": "三女子将同一男友送进监狱后相约旅游",
-      "onboard_time": 1684926092,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
