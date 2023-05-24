@@ -1,6 +1,6 @@
 {
   "startTime": 1684945355711,
-  "endTime": 1684956830442,
+  "endTime": 1684959455068,
   "band_list": [
     {
       "raw_hot": 1343159,
@@ -451,6 +451,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 47578,
+      "num": 38482,
+      "word": "网传一大学所有饮品店禁止使用冰块",
+      "onboard_time": 1684957814,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38262,
       "num": 38262,
       "word": "10分钟被AI换脸骗走430万元",
@@ -489,6 +497,22 @@
       "onboard_time": 1684938272,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14558,
+      "num": 19038,
+      "word": "假如把你的人生拍成一部电影",
+      "onboard_time": 1684942291,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 13232,
+      "num": 18983,
+      "word": "栩栩华生时尚文化大赏阵容",
+      "onboard_time": 1684957572,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     }
   ],
   "hotgov_list": [
