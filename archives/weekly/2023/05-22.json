@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684913628459,
+  "endTime": 1684916477907,
   "band_list": [
     {
       "raw_hot": 3643134,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 2879677,
-      "num": 572473,
+      "num": 628061,
       "word": "陆虎陈曌旭领证",
       "onboard_time": 1684907068,
       "rank": 11,
@@ -163,12 +163,20 @@
       "category": "教育,情感"
     },
     {
-      "raw_hot": 2169685,
+      "raw_hot": 2172117,
       "num": 1157898,
       "word": "丁泽仁把四年老粉告了",
       "onboard_time": 1684906229,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2064557,
+      "num": 2064557,
+      "word": "15岁女孩减肥仅24.8kg去世",
+      "onboard_time": 1684904074,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2045984,
@@ -289,14 +297,6 @@
       "onboard_time": 1684806505,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1679387,
-      "num": 1679387,
-      "word": "15岁女孩减肥仅24.8kg去世",
-      "onboard_time": 1684904074,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1671180,
@@ -611,6 +611,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1222568,
+      "num": 608803,
+      "word": "你的胸不需要非得是美的",
+      "onboard_time": 1684912050,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1220539,
       "num": 1220539,
       "word": "那个为爱减肥的广东少女走了",
@@ -865,6 +873,14 @@
       "onboard_time": 1684710080,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 973509,
+      "num": 973509,
+      "word": "白鹿张凌赫奔跑吧撑伞路透",
+      "onboard_time": 1684912410,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 973009,
@@ -1139,6 +1155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 753946,
+      "num": 753946,
+      "word": "孙俪杨幂都请了表演老师",
+      "onboard_time": 1684913308,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 751023,
       "num": 751023,
       "word": "樊振东",
@@ -1251,6 +1275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 687248,
+      "num": 600733,
+      "word": "0713还剩谁没结婚",
+      "onboard_time": 1684913372,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 687064,
       "num": 687064,
       "word": "华表奖座位",
@@ -1299,14 +1331,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 654759,
-      "num": 654759,
-      "word": "白鹿张凌赫奔跑吧撑伞路透",
-      "onboard_time": 1684912410,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 646198,
       "num": 646198,
       "word": "何赛飞回应痛斥梅花奖",
@@ -1329,6 +1353,14 @@
       "onboard_time": 1684799244,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 635412,
+      "num": 635412,
+      "word": "妈妈生你就是为了让你多享受享受这个世界",
+      "onboard_time": 1684913372,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 633449,
@@ -1385,14 +1417,6 @@
       "onboard_time": 1684823069,
       "rank": 26,
       "category": "作品衍生,幽默"
-    },
-    {
-      "raw_hot": 611006,
-      "num": 571053,
-      "word": "你的胸不需要非得是美的",
-      "onboard_time": 1684912050,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 610505,
@@ -1473,6 +1497,14 @@
       "onboard_time": 1684896929,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 583389,
+      "num": 583389,
+      "word": "浙江59岁孕妇成功产下一女婴",
+      "onboard_time": 1684913910,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 582773,
@@ -2123,6 +2155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 428277,
+      "num": 428277,
+      "word": "白鹿的站姿",
+      "onboard_time": 1684915469,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 426048,
       "num": 226417,
       "word": "张译又来指挥红毯了",
@@ -2163,6 +2203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 420812,
+      "num": 420812,
+      "word": "鹿晗派对dresscode",
+      "onboard_time": 1684915169,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 418459,
       "num": 233758,
       "word": "邓超 显眼包",
@@ -2201,6 +2249,14 @@
       "onboard_time": 1684854096,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 406064,
+      "num": 406064,
+      "word": "租客下班回家发现房间变灵堂",
+      "onboard_time": 1684913492,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 405696,
@@ -2305,6 +2361,14 @@
       "onboard_time": 1684678472,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 388099,
+      "num": 303414,
+      "word": "高亚麟揪易烊千玺耳朵",
+      "onboard_time": 1684914751,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 387584,
@@ -3099,6 +3163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 292348,
+      "num": 292348,
+      "word": "什么加剧了身材焦虑",
+      "onboard_time": 1684914991,
+      "rank": 22,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 292216,
       "num": 292216,
       "word": "拜登宣称美中关系会在短时间内缓和",
@@ -3371,6 +3443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270658,
+      "num": 243671,
+      "word": "演员界的凤凰传奇",
+      "onboard_time": 1684915290,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 270655,
       "num": 270655,
       "word": "合肥一男子520建私人花园送妻子",
@@ -3449,6 +3529,14 @@
       "onboard_time": 1684894706,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264169,
+      "num": 264169,
+      "word": "聊天最反感别人问什么",
+      "onboard_time": 1684915469,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 262661,
@@ -4067,14 +4155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 224708,
-      "num": 224708,
-      "word": "孙俪杨幂都请了表演老师",
-      "onboard_time": 1684913308,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 224356,
       "num": 224356,
       "word": "做自然的朋友",
@@ -4339,6 +4419,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 210819,
+      "num": 210819,
+      "word": "乐华是去西安团建了吗",
+      "onboard_time": 1684915351,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209476,
       "num": 209476,
       "word": "陈都灵高清怼脸拍",
@@ -4369,6 +4457,14 @@
       "onboard_time": 1684717468,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 206706,
+      "num": 206706,
+      "word": "记苏醒账上",
+      "onboard_time": 1684914328,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 205640,
@@ -4635,14 +4731,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 192813,
-      "num": 192813,
-      "word": "0713还剩谁没结婚",
-      "onboard_time": 1684913372,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 192677,
       "num": 192677,
       "word": "原神3.7",
@@ -4673,6 +4761,14 @@
       "onboard_time": 1684806446,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191524,
+      "num": 133524,
+      "word": "丹宁风",
+      "onboard_time": 1684916069,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 191511,
@@ -5163,14 +5259,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 169538,
-      "num": 192818,
-      "word": "妈妈生你就是为了让你多享受享受这个世界",
-      "onboard_time": 1684913372,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 168433,
       "num": 168433,
       "word": "如何区分呼吸道合胞病毒和流感",
@@ -5323,6 +5411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158904,
+      "num": 131636,
+      "word": "王子奇新浪扫楼",
+      "onboard_time": 1684916369,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 158737,
       "num": 158737,
       "word": "丁程鑫张真源文艺志愿者视频",
@@ -5451,14 +5547,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 154145,
-      "num": 154145,
-      "word": "租客下班回家发现房间变灵堂",
-      "onboard_time": 1684913492,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154085,
       "num": 154085,
       "word": "陈雨菲说不在乎被骂",
@@ -5577,6 +5665,14 @@
       "onboard_time": 1684811009,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143841,
+      "num": 143841,
+      "word": "央视网评小慧君造谣性骚扰事件",
+      "onboard_time": 1684916129,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143772,
@@ -5937,6 +6033,14 @@
       "onboard_time": 1684664489,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115636,
+      "num": 115636,
+      "word": "奔向你的这几步妈妈走了26年",
+      "onboard_time": 1684913731,
+      "rank": 46,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 115156,
