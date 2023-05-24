@@ -1,6 +1,6 @@
 {
   "startTime": 1684945355711,
-  "endTime": 1684964019178,
+  "endTime": 1684966544486,
   "band_list": [
     {
       "raw_hot": 1343159,
@@ -153,6 +153,14 @@
       "onboard_time": 1684930289,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 275593,
+      "num": 275593,
+      "word": "网传一大学所有饮品店禁止使用冰块",
+      "onboard_time": 1684957814,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272577,
@@ -331,14 +339,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 136067,
-      "num": 43184,
-      "word": "网传一大学所有饮品店禁止使用冰块",
-      "onboard_time": 1684957814,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131854,
       "num": 131854,
       "word": "艾丽娅",
@@ -419,6 +419,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 72411,
+      "num": 37769,
+      "word": "清洁工躺车库被碾亡司机申请国赔",
+      "onboard_time": 1684963273,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66530,
       "num": 64851,
       "word": "美依礼芽四公或将唱青鸟",
@@ -467,7 +475,23 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24629,
+      "raw_hot": 32626,
+      "num": 32626,
+      "word": "奶奶用零食包装袋做的门帘",
+      "onboard_time": 1684962553,
+      "rank": 34,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 27595,
+      "num": 27595,
+      "word": "迪丽热巴佟大为公诉或将双台播出",
+      "onboard_time": 1684965735,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 26121,
       "num": 30161,
       "word": "浙江59岁孕妇成功产下一女婴",
       "onboard_time": 1684913910,
@@ -483,12 +507,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19659,
-      "num": 22469,
-      "word": "清洁工躺车库被碾亡司机申请国赔",
-      "onboard_time": 1684963273,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 19419,
+      "num": 26063,
+      "word": "栩栩华生时尚文化大赏阵容",
+      "onboard_time": 1684957572,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 19359,
@@ -513,14 +537,6 @@
       "onboard_time": 1684942291,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 16026,
-      "num": 22425,
-      "word": "栩栩华生时尚文化大赏阵容",
-      "onboard_time": 1684957572,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     }
   ],
   "hotgov_list": [
