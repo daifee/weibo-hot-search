@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684919807071,
+  "endTime": 1684920810827,
   "band_list": [
     {
       "raw_hot": 3643134,
@@ -819,6 +819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1053816,
+      "num": 886551,
+      "word": "印度19岁女子穿比基尼乘地铁",
+      "onboard_time": 1684916790,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1048303,
       "num": 1048303,
       "word": "孙俪杨幂都请了表演老师",
@@ -976,14 +984,6 @@
       "word": "5旬女子花21万打抗癌针竟是可乐",
       "onboard_time": 1684885106,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 886551,
-      "num": 886551,
-      "word": "印度19岁女子穿比基尼乘地铁",
-      "onboard_time": 1684916790,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1675,6 +1675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 546339,
+      "num": 546339,
+      "word": "巩俐说易烊千玺会成为伟大的演员",
+      "onboard_time": 1684917869,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 545342,
       "num": 545342,
       "word": "去看BLACKPINK演唱会的明星",
@@ -2075,6 +2083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 449713,
+      "num": 196940,
+      "word": "结婚6年没孩子一查丈夫竟是女儿身",
+      "onboard_time": 1684919969,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 449063,
       "num": 449063,
       "word": "周冬雨的小名是娜娜",
@@ -2361,14 +2377,6 @@
       "onboard_time": 1684798944,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 393382,
-      "num": 393382,
-      "word": "巩俐说易烊千玺会成为伟大的演员",
-      "onboard_time": 1684917869,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 391261,
@@ -3803,6 +3811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243322,
+      "num": 243322,
+      "word": "上班是成年人最好的毁容院",
+      "onboard_time": 1684917690,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 243318,
       "num": 243318,
       "word": "柳智敏ins人气",
@@ -3937,6 +3953,14 @@
       "onboard_time": 1684735108,
       "rank": 28,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 237522,
+      "num": 237522,
+      "word": "这霜真的非擦不可吗",
+      "onboard_time": 1684918649,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 237020,
@@ -4185,14 +4209,6 @@
       "onboard_time": 1684840051,
       "rank": 29,
       "category": "科技"
-    },
-    {
-      "raw_hot": 225602,
-      "num": 236406,
-      "word": "这霜真的非擦不可吗",
-      "onboard_time": 1684918649,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 225573,
@@ -4531,6 +4547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206777,
+      "num": 196895,
+      "word": "欧阳娜娜仪态",
+      "onboard_time": 1684919850,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 205640,
       "num": 205640,
       "word": "18年RNG全员离队",
@@ -4643,6 +4667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201648,
+      "num": 196845,
+      "word": "白鹿戴了心形耳饰",
+      "onboard_time": 1684920033,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199592,
       "num": 199592,
       "word": "AI诈骗成功率接近100%",
@@ -4715,6 +4747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196951,
+      "num": 196951,
+      "word": "亚运会",
+      "onboard_time": 1684920511,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196832,
       "num": 196832,
       "word": "华晨宇武汉演唱会开启回家模式",
@@ -4729,6 +4769,14 @@
       "onboard_time": 1684825109,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196255,
+      "num": 196255,
+      "word": "孙灏羽再回应小慧君造谣性骚扰事件",
+      "onboard_time": 1684920331,
+      "rank": 35,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 196192,
@@ -4769,6 +4817,14 @@
       "onboard_time": 1684903231,
       "rank": 41,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 195046,
+      "num": 195046,
+      "word": "厦门",
+      "onboard_time": 1684920451,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194980,
@@ -5016,6 +5072,14 @@
       "word": "月亮",
       "onboard_time": 1684759950,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183904,
+      "num": 183904,
+      "word": "公厕保洁阿姨在角落里认真读书",
+      "onboard_time": 1684918951,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -5299,6 +5363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171817,
+      "num": 171817,
+      "word": "文兆杰只给易烊千玺写过歌",
+      "onboard_time": 1684918649,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171669,
       "num": 171669,
       "word": "如何正确看待断崖式分手",
@@ -5329,14 +5401,6 @@
       "onboard_time": 1684819350,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 169644,
-      "num": 169644,
-      "word": "公厕保洁阿姨在角落里认真读书",
-      "onboard_time": 1684918951,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168433,
@@ -5379,14 +5443,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 166896,
-      "num": 166896,
-      "word": "上班是成年人最好的毁容院",
-      "onboard_time": 1684917690,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 165524,
       "num": 165524,
       "word": "Ruler大满贯",
@@ -5403,14 +5459,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 164535,
-      "num": 164535,
-      "word": "文兆杰只给易烊千玺写过歌",
-      "onboard_time": 1684918649,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 163845,
       "num": 163845,
       "word": "边伯贤泡泡",
@@ -5425,6 +5473,14 @@
       "onboard_time": 1684906352,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 162994,
+      "num": 162994,
+      "word": "吃火锅喝冷饮后小心急性会厌炎",
+      "onboard_time": 1684920750,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162988,
