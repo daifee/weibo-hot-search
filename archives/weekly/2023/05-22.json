@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684920810827,
+  "endTime": 1684923495295,
   "band_list": [
     {
       "raw_hot": 3643134,
@@ -217,6 +217,14 @@
       "onboard_time": 1684762709,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1900776,
+      "num": 622426,
+      "word": "结婚6年没孩子一查丈夫竟是女儿身",
+      "onboard_time": 1684919969,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1885292,
@@ -979,6 +987,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 899350,
+      "num": 899350,
+      "word": "国泰航空行政总裁用普通话道歉",
+      "onboard_time": 1684921471,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 888378,
       "num": 888378,
       "word": "5旬女子花21万打抗癌针竟是可乐",
@@ -1008,6 +1024,14 @@
       "word": "金星伴月",
       "onboard_time": 1684843532,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 871374,
+      "num": 606043,
+      "word": "厦门",
+      "onboard_time": 1684920451,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1515,6 +1539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 585992,
+      "num": 585992,
+      "word": "巩俐说易烊千玺会成为伟大的演员",
+      "onboard_time": 1684917869,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 585483,
       "num": 585483,
       "word": "莲花楼 备播",
@@ -1675,14 +1707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 546339,
-      "num": 546339,
-      "word": "巩俐说易烊千玺会成为伟大的演员",
-      "onboard_time": 1684917869,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 545342,
       "num": 545342,
       "word": "去看BLACKPINK演唱会的明星",
@@ -1697,6 +1721,14 @@
       "onboard_time": 1684900833,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 544425,
+      "num": 544425,
+      "word": "刘亚仁头发白了",
+      "onboard_time": 1684922191,
+      "rank": 15,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 529680,
@@ -2083,14 +2115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 449713,
-      "num": 196940,
-      "word": "结婚6年没孩子一查丈夫竟是女儿身",
-      "onboard_time": 1684919969,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 449063,
       "num": 449063,
       "word": "周冬雨的小名是娜娜",
@@ -2401,6 +2425,14 @@
       "onboard_time": 1684678472,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 389527,
+      "num": 389527,
+      "word": "亚运会",
+      "onboard_time": 1684920511,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 388038,
@@ -2833,6 +2865,14 @@
       "onboard_time": 1684836813,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 327461,
+      "num": 327461,
+      "word": "上班是成年人最好的毁容院",
+      "onboard_time": 1684917690,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 327089,
@@ -3299,6 +3339,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 285889,
+      "num": 285889,
+      "word": "吃火锅喝冷饮后小心急性会厌炎",
+      "onboard_time": 1684920750,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285355,
       "num": 285355,
       "word": "被公司开除忍不住笑出声",
@@ -3403,6 +3451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 278647,
+      "num": 278647,
+      "word": "韩国英雄联盟亚运会大名单",
+      "onboard_time": 1684922070,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 278143,
       "num": 186534,
       "word": "徐娇红色马面裙",
@@ -3481,6 +3537,14 @@
       "onboard_time": 1684749029,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272278,
+      "num": 272278,
+      "word": "亚运会英雄联盟韩国队最终名单",
+      "onboard_time": 1684921411,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 272175,
@@ -3601,6 +3665,14 @@
       "onboard_time": 1684729171,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262034,
+      "num": 262034,
+      "word": "韩国亚运会",
+      "onboard_time": 1684923089,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 260673,
@@ -3739,6 +3811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249515,
+      "num": 249515,
+      "word": "小欢喜陶子北电毕业照",
+      "onboard_time": 1684920990,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249047,
       "num": 249047,
       "word": "分手时什么话对女生伤害最大",
@@ -3809,14 +3889,6 @@
       "onboard_time": 1684829847,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 243322,
-      "num": 243322,
-      "word": "上班是成年人最好的毁容院",
-      "onboard_time": 1684917690,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 243318,
@@ -3929,6 +4001,14 @@
       "onboard_time": 1684917931,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 238462,
+      "num": 853267,
+      "word": "公厕保洁阿姨在角落里认真读书",
+      "onboard_time": 1684918951,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238398,
@@ -4139,6 +4219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230849,
+      "num": 230849,
+      "word": "前国泰空姐爆料歧视内地旅客是常态",
+      "onboard_time": 1684922968,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230718,
       "num": 230718,
       "word": "国泰事件并非孤立现象",
@@ -4161,6 +4249,14 @@
       "onboard_time": 1684711520,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 228291,
+      "num": 228291,
+      "word": "杨紫长相思取得发行许可证",
+      "onboard_time": 1684922312,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 228260,
@@ -4273,6 +4369,14 @@
       "onboard_time": 1684806627,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223026,
+      "num": 223026,
+      "word": "刘亚仁否认让男友潜逃",
+      "onboard_time": 1684922849,
+      "rank": 36,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 222923,
@@ -4539,6 +4643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 207887,
+      "num": 818689,
+      "word": "夜市演出暂停主持人帮找走丢小孩",
+      "onboard_time": 1684921830,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207519,
       "num": 207519,
       "word": "大学毕业后还会和室友联系吗",
@@ -4715,6 +4827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197610,
+      "num": 197610,
+      "word": "长相思",
+      "onboard_time": 1684921649,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197573,
       "num": 197573,
       "word": "谁缺席了动物大会",
@@ -4745,14 +4865,6 @@
       "onboard_time": 1684906170,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 196951,
-      "num": 196951,
-      "word": "亚运会",
-      "onboard_time": 1684920511,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 196832,
@@ -4817,14 +4929,6 @@
       "onboard_time": 1684903231,
       "rank": 41,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 195046,
-      "num": 195046,
-      "word": "厦门",
-      "onboard_time": 1684920451,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194980,
@@ -5075,14 +5179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183904,
-      "num": 183904,
-      "word": "公厕保洁阿姨在角落里认真读书",
-      "onboard_time": 1684918951,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183561,
       "num": 183561,
       "word": "新娘婚礼公公携战友合唱军歌超震撼",
@@ -5113,6 +5209,14 @@
       "onboard_time": 1684814791,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182300,
+      "num": 182300,
+      "word": "吴磊回学校领毕业证",
+      "onboard_time": 1684921171,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 182109,
@@ -5347,6 +5451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172126,
+      "num": 172126,
+      "word": "国泰将做全面检讨",
+      "onboard_time": 1684921710,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172059,
       "num": 267563,
       "word": "李佳琦说主播不能一直吃老本",
@@ -5401,6 +5513,14 @@
       "onboard_time": 1684819350,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 168503,
+      "num": 168503,
+      "word": "长沙面包店有多卷",
+      "onboard_time": 1684922791,
+      "rank": 46,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 168433,
@@ -5473,14 +5593,6 @@
       "onboard_time": 1684906352,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 162994,
-      "num": 162994,
-      "word": "吃火锅喝冷饮后小心急性会厌炎",
-      "onboard_time": 1684920750,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162988,
@@ -5649,6 +5761,14 @@
       "onboard_time": 1684751187,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 156248,
+      "num": 156248,
+      "word": "小行星",
+      "onboard_time": 1684923390,
+      "rank": 48,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 155850,
