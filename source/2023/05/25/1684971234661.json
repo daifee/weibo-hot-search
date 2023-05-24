@@ -1,0 +1,410 @@
+{
+  "runTime": 1684971234661,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1090681,
+        "num": 1090681,
+        "word": "网传一大学所有饮品店禁止使用冰块",
+        "onboard_time": 1684957814,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584152,
+        "num": 584152,
+        "word": "美国科技大亨用17岁儿子血浆换血",
+        "onboard_time": 1684943427,
+        "rank": 1,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 23937,
+        "num": 543260,
+        "word": "数字化改革里的民生温度",
+        "onboard_time": 1684938272,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1042907,
+        "num": 533671,
+        "word": "员工每天带薪拉屎3至6小时被解雇",
+        "onboard_time": 1684936892,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519629,
+        "num": 519629,
+        "word": "都不买榴莲我就放心了",
+        "onboard_time": 1684937793,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504056,
+        "num": 504056,
+        "word": "刘亚仁逮捕令被驳回",
+        "onboard_time": 1684970302,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 402328,
+        "num": 402328,
+        "word": "谁给白鹿做的妆造",
+        "onboard_time": 1684937498,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 390674,
+        "num": 390674,
+        "word": "网友称国泰航空涉事航班挨个问要不要毛毯",
+        "onboard_time": 1684948157,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380649,
+        "num": 380649,
+        "word": "杨紫表情管理",
+        "onboard_time": 1684969279,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 309668,
+        "num": 309668,
+        "word": "杨迪我分完了张柏芝我离完了",
+        "onboard_time": 1684932750,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421539,
+        "num": 301444,
+        "word": "苏醒晒陆虎的官宣朋友圈",
+        "onboard_time": 1684945584,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277109,
+        "num": 277109,
+        "word": "公主小妹照进现实",
+        "onboard_time": 1684934370,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 246899,
+        "num": 246899,
+        "word": "赵露思换妆容",
+        "onboard_time": 1684938931,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 274374,
+        "num": 246448,
+        "word": "谁来救救白敬亭",
+        "onboard_time": 1684935391,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 245662,
+        "num": 245662,
+        "word": "山西10岁被害男孩今晚在生父村下葬",
+        "onboard_time": 1684939410,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224091,
+        "num": 224091,
+        "word": "清洁工躺车库被碾亡司机申请国赔",
+        "onboard_time": 1684963273,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217325,
+        "num": 217325,
+        "word": "刘亚仁对警方隐瞒真实住址",
+        "onboard_time": 1684941510,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 213794,
+        "num": 213794,
+        "word": "偶遇倪大红惠英红逛夜市",
+        "onboard_time": 1684940851,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210333,
+        "num": 210333,
+        "word": "杨紫的发际线",
+        "onboard_time": 1684934191,
+        "rank": 18,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 202992,
+        "num": 202992,
+        "word": "迪丽热巴刘亦菲同款驼峰鼻",
+        "onboard_time": 1684933350,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 298844,
+        "num": 200813,
+        "word": "结婚6年没孩子一查丈夫竟是女儿身",
+        "onboard_time": 1684919969,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242704,
+        "num": 199325,
+        "word": "女性30岁生育算高龄产妇吗",
+        "onboard_time": 1684927708,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195285,
+        "num": 195285,
+        "word": "上海高架",
+        "onboard_time": 1684937611,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190963,
+        "num": 190963,
+        "word": "山西失联身亡男孩生母聊天记录曝光",
+        "onboard_time": 1684970782,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184560,
+        "num": 184560,
+        "word": "交了男朋友后才知道的事",
+        "onboard_time": 1684936470,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163562,
+        "num": 163562,
+        "word": "孙灏羽称小慧君和巧乐兹夫妇真宠粉",
+        "onboard_time": 1684969400,
+        "rank": 25,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 163482,
+        "num": 163482,
+        "word": "沈月回应闺蜜婚礼上当花童",
+        "onboard_time": 1684930289,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158970,
+        "num": 158970,
+        "word": "肖战如梦之梦豆瓣9.3分",
+        "onboard_time": 1684941029,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153060,
+        "num": 153060,
+        "word": "相亲对象每天只跟我聊工作问题",
+        "onboard_time": 1684939113,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140372,
+        "num": 140372,
+        "word": "莫兰特",
+        "onboard_time": 1684942409,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206515,
+        "num": 138826,
+        "word": "10岁遇害男孩生父讲述自己为何报警",
+        "onboard_time": 1684969641,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132904,
+        "num": 132904,
+        "word": "上海交警通报两车高架上斗气碰撞",
+        "onboard_time": 1684937672,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126905,
+        "num": 126905,
+        "word": "法老你真的我哭死",
+        "onboard_time": 1684926869,
+        "rank": 32,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 111259,
+        "num": 111259,
+        "word": "aespa戛纳妆造",
+        "onboard_time": 1684939233,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110735,
+        "num": 110735,
+        "word": "10分钟被AI换脸骗走430万元",
+        "onboard_time": 1684949117,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108210,
+        "num": 108210,
+        "word": "男医生体检时猥亵女子被吊销执业资格",
+        "onboard_time": 1684920451,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108017,
+        "num": 108017,
+        "word": "眉姐姐穿丑衣服",
+        "onboard_time": 1684936531,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107160,
+        "num": 107160,
+        "word": "白敬亭用的什么粉底",
+        "onboard_time": 1684934971,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95293,
+        "num": 95293,
+        "word": "迪丽热巴佟大为公诉或将双台播出",
+        "onboard_time": 1684965735,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97405,
+        "num": 94905,
+        "word": "白敬亭淋雨神图",
+        "onboard_time": 1684933530,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92732,
+        "num": 92732,
+        "word": "田柾国直播",
+        "onboard_time": 1684970302,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89322,
+        "num": 89322,
+        "word": "奶奶用零食包装袋做的门帘",
+        "onboard_time": 1684962553,
+        "rank": 41,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 88623,
+        "num": 88623,
+        "word": "王一博的减脂餐",
+        "onboard_time": 1684928008,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82208,
+        "num": 82208,
+        "word": "易烊千玺栩栩华生内场饭拍",
+        "onboard_time": 1684935871,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79945,
+        "num": 79945,
+        "word": "广东人会有身材焦虑吗",
+        "onboard_time": 1684970841,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75501,
+        "num": 75501,
+        "word": "美依礼芽四公或将唱青鸟",
+        "onboard_time": 1684948937,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72453,
+        "num": 72453,
+        "word": "华表奖易烊千玺在看王俊凯吗",
+        "onboard_time": 1684931191,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50186,
+        "num": 72125,
+        "word": "蛋仔派对",
+        "onboard_time": 1684970480,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 46613,
+        "num": 71422,
+        "word": "韩国亚运会",
+        "onboard_time": 1684923089,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 38438,
+        "num": 71039,
+        "word": "你们竟然请运动员真打排球啊",
+        "onboard_time": 1684944864,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技的高峰行则必达#"
+    }
+  }
+}
