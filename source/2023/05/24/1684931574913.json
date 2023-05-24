@@ -1,0 +1,410 @@
+{
+  "runTime": 1684931574913,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2169262,
+        "num": 2169262,
+        "word": "法老你真的我哭死",
+        "onboard_time": 1684926869,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1149908,
+        "num": 1149908,
+        "word": "浙江59岁孕妇成功产下一女婴",
+        "onboard_time": 1684913910,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26418,
+        "num": 929480,
+        "word": "中国经济高质量发展",
+        "onboard_time": 1684930649,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1446042,
+        "num": 924278,
+        "word": "杨紫紫裙盘发",
+        "onboard_time": 1684926750,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 871439,
+        "num": 871439,
+        "word": "沈月回应闺蜜婚礼上当花童",
+        "onboard_time": 1684930289,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 857419,
+        "num": 857419,
+        "word": "赵露思直播生图",
+        "onboard_time": 1684929629,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 822658,
+        "num": 822658,
+        "word": "刘亚仁头发白了",
+        "onboard_time": 1684922191,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 798839,
+        "num": 798839,
+        "word": "印度19岁女子穿比基尼乘地铁",
+        "onboard_time": 1684916790,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728898,
+        "num": 728898,
+        "word": "王一博的减脂餐",
+        "onboard_time": 1684928008,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 674126,
+        "num": 674126,
+        "word": "国泰空乘工会对空姐被解聘感到遗憾",
+        "onboard_time": 1684926628,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545566,
+        "num": 545566,
+        "word": "丁泽仁把四年老粉告了",
+        "onboard_time": 1684906229,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 505580,
+        "num": 505580,
+        "word": "蔚来",
+        "onboard_time": 1684928309,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499621,
+        "num": 499621,
+        "word": "王曼昱",
+        "onboard_time": 1684930530,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 487557,
+        "num": 487557,
+        "word": "赵露思烟熏妆",
+        "onboard_time": 1684929750,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 464112,
+        "num": 464112,
+        "word": "男医生体检时猥亵女子被吊销执业资格",
+        "onboard_time": 1684920451,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426431,
+        "num": 426431,
+        "word": "小行星能不能创死我",
+        "onboard_time": 1684929808,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 388445,
+        "num": 388445,
+        "word": "陆虎陈曌旭领证",
+        "onboard_time": 1684907068,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369375,
+        "num": 369375,
+        "word": "杨洋李沁红毯同框",
+        "onboard_time": 1684926269,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302416,
+        "num": 302416,
+        "word": "前国泰空姐爆料歧视内地旅客是常态",
+        "onboard_time": 1684922968,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298293,
+        "num": 298293,
+        "word": "章泽天撞脸陈都灵",
+        "onboard_time": 1684909709,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 792220,
+        "num": 293075,
+        "word": "结婚6年没孩子一查丈夫竟是女儿身",
+        "onboard_time": 1684919969,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391819,
+        "num": 291011,
+        "word": "女性30岁生育算高龄产妇吗",
+        "onboard_time": 1684927708,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284967,
+        "num": 284967,
+        "word": "杨紫红毯雨中拍照",
+        "onboard_time": 1684926750,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 274855,
+        "num": 274855,
+        "word": "三分野",
+        "onboard_time": 1684928368,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236097,
+        "num": 236097,
+        "word": "15岁女孩减肥仅24.8kg去世",
+        "onboard_time": 1684904074,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256393,
+        "num": 234568,
+        "word": "风雨中的女星们",
+        "onboard_time": 1684930888,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225294,
+        "num": 225294,
+        "word": "法老向志愿军老兵捐款",
+        "onboard_time": 1684904972,
+        "rank": 26,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 206655,
+        "num": 206655,
+        "word": "鹿晗 优先权",
+        "onboard_time": 1684909049,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203783,
+        "num": 203783,
+        "word": "LNG官宣GALA加入",
+        "onboard_time": 1684923569,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201468,
+        "num": 201468,
+        "word": "娇弱甜",
+        "onboard_time": 1684928069,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402052,
+        "num": 197921,
+        "word": "国泰航空行政总裁用普通话道歉",
+        "onboard_time": 1684921471,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191692,
+        "num": 191692,
+        "word": "马龙 德班",
+        "onboard_time": 1684931129,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93365,
+        "num": 191624,
+        "word": "蔚来全新ES6价格公布",
+        "onboard_time": 1684930888,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 191565,
+        "num": 191565,
+        "word": "小欢喜陶子北电毕业照",
+        "onboard_time": 1684920990,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189027,
+        "num": 189027,
+        "word": "华表奖易烊千玺在看王俊凯吗",
+        "onboard_time": 1684931191,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187743,
+        "num": 187743,
+        "word": "居民清理油烟机掏出一窝国家级宝宝",
+        "onboard_time": 1684906829,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183762,
+        "num": 183762,
+        "word": "你的胸不需要非得是美的",
+        "onboard_time": 1684912050,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175969,
+        "num": 175969,
+        "word": "LWX登场LPL赛区七周年",
+        "onboard_time": 1684930888,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174338,
+        "num": 174338,
+        "word": "巩俐说易烊千玺会成为伟大的演员",
+        "onboard_time": 1684917869,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139195,
+        "num": 170758,
+        "word": "咽喉炎自救指南",
+        "onboard_time": 1684929629,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170530,
+        "num": 170530,
+        "word": "三女子将同一男友送进监狱后相约旅游",
+        "onboard_time": 1684926092,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169372,
+        "num": 169372,
+        "word": "刘亦菲霍建华林更新都在北京",
+        "onboard_time": 1684924828,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168803,
+        "num": 168803,
+        "word": "SMTOWN今年新团计划",
+        "onboard_time": 1684927349,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164383,
+        "num": 164383,
+        "word": "国泰总裁林绍波再次致歉",
+        "onboard_time": 1684909530,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160384,
+        "num": 160384,
+        "word": "周也眉毛开叉了",
+        "onboard_time": 1684931490,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159887,
+        "num": 159887,
+        "word": "蔚来全新ES6上市",
+        "onboard_time": 1684930766,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155747,
+        "num": 155747,
+        "word": "全国统一的长辈审美",
+        "onboard_time": 1684928969,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151729,
+        "num": 151729,
+        "word": "孙俪杨幂都请了表演老师",
+        "onboard_time": 1684913308,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143123,
+        "num": 143123,
+        "word": "月薪5000两年存了8万",
+        "onboard_time": 1684900711,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113237,
+        "num": 138123,
+        "word": "韩国亚运会",
+        "onboard_time": 1684923089,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#打造经济监督的特种部队#"
+    }
+  }
+}
