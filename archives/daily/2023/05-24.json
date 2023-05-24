@@ -1,6 +1,6 @@
 {
   "startTime": 1684858934935,
-  "endTime": 1684896316163,
+  "endTime": 1684898337433,
   "band_list": [
     {
       "raw_hot": 1781665,
@@ -19,6 +19,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1555261,
+      "num": 1555261,
+      "word": "陈飞宇拉魏大勋",
+      "onboard_time": 1684888951,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1553652,
       "num": 921721,
       "word": "10岁男孩身亡2嫌疑人系生母和继父",
@@ -27,20 +35,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1545279,
-      "num": 1545279,
-      "word": "陈飞宇拉魏大勋",
-      "onboard_time": 1684888951,
-      "rank": 0,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1335403,
       "num": 1335403,
       "word": "刘浩存仪态",
       "onboard_time": 1684855472,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1300940,
+      "num": 1300940,
+      "word": "在香港歧视普通话注定是个笑话",
+      "onboard_time": 1684885767,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1239851,
@@ -83,14 +91,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1014551,
-      "num": 1014551,
-      "word": "在香港歧视普通话注定是个笑话",
-      "onboard_time": 1684885767,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 990960,
       "num": 990960,
       "word": "易烊千玺听到刘烨获奖的表情",
@@ -123,12 +123,28 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 813742,
+      "num": 813742,
+      "word": "5旬女子花21万打抗癌针竟是可乐",
+      "onboard_time": 1684885106,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 742937,
       "num": 333006,
       "word": "离职两个月了工资还一直在发",
       "onboard_time": 1684853496,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 735537,
+      "num": 735537,
+      "word": "boss直聘崩了",
+      "onboard_time": 1684893087,
+      "rank": 42,
+      "category": "科技"
     },
     {
       "raw_hot": 693474,
@@ -145,14 +161,6 @@
       "onboard_time": 1684836030,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 643271,
-      "num": 643271,
-      "word": "5旬女子花21万打抗癌针竟是可乐",
-      "onboard_time": 1684885106,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 599505,
@@ -187,19 +195,27 @@
       "category": "影视"
     },
     {
-      "raw_hot": 522664,
-      "num": 522664,
-      "word": "boss直聘崩了",
-      "onboard_time": 1684893087,
-      "rank": 42,
-      "category": "科技"
-    },
-    {
       "raw_hot": 505927,
       "num": 190178,
       "word": "易烊千玺王俊凯同框",
       "onboard_time": 1684850977,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 502812,
+      "num": 445360,
+      "word": "警方回应网红户外直播被砍",
+      "onboard_time": 1684896089,
+      "rank": 37,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 470612,
+      "num": 470612,
+      "word": "莲花楼 备播",
+      "onboard_time": 1684896929,
+      "rank": 9,
       "category": "影视"
     },
     {
@@ -275,8 +291,16 @@
       "category": "社会负面,教育"
     },
     {
+      "raw_hot": 352653,
+      "num": 322873,
+      "word": "网友问张子枫是谢霆锋的姐姐吗",
+      "onboard_time": 1684896207,
+      "rank": 40,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 345401,
-      "num": 192853,
+      "num": 308734,
       "word": "女子左眼瞳孔变大2倍找不到病因",
       "onboard_time": 1684894405,
       "rank": 30,
@@ -289,6 +313,14 @@
       "onboard_time": 1684891048,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 339555,
+      "num": 339555,
+      "word": "买房现负首付",
+      "onboard_time": 1684896749,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 328003,
@@ -305,6 +337,14 @@
       "onboard_time": 1684857033,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317969,
+      "num": 306356,
+      "word": "王俊凯坐姿好娇俏",
+      "onboard_time": 1684897049,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 315729,
@@ -347,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297690,
+      "num": 297690,
+      "word": "昆明城投",
+      "onboard_time": 1684896148,
+      "rank": 43,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 286804,
       "num": 286804,
       "word": "国泰航空近七成营收来自中国",
@@ -371,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 264596,
+      "num": 264596,
+      "word": "奶爸将1岁娃放浴室训练自主进食",
+      "onboard_time": 1684894706,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254271,
       "num": 176082,
       "word": "周深在100m内也能迷路",
@@ -387,20 +443,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 245631,
-      "num": 192834,
-      "word": "奶爸将1岁娃放浴室训练自主进食",
-      "onboard_time": 1684894706,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241616,
       "num": 155600,
       "word": "易烊千玺这个镜头很好欺负的样子",
       "onboard_time": 1684854096,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 240153,
+      "num": 240153,
+      "word": "和马官宣签约龙韬娱乐",
+      "onboard_time": 1684898309,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 237865,
@@ -491,6 +547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214013,
+      "num": 214013,
+      "word": "ENHYPEN粉丝要求删除双人舞",
+      "onboard_time": 1684896929,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 211882,
       "num": 211882,
       "word": "10岁男童走失死亡案2嫌犯被抓",
@@ -539,6 +603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191950,
+      "num": 191950,
+      "word": "大爷抱40斤水泥块跳池塘砸窗救人",
+      "onboard_time": 1684893388,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191524,
       "num": 191524,
       "word": "南宁市市长鞠躬道歉",
@@ -563,14 +635,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 185541,
-      "num": 185541,
-      "word": "大爷抱40斤水泥块跳池塘砸窗救人",
-      "onboard_time": 1684893388,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185354,
       "num": 122628,
       "word": "刘敏涛穿红色就有好笑的事发生",
@@ -593,6 +657,14 @@
       "onboard_time": 1684852418,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 178727,
+      "num": 178727,
+      "word": "如何看待国泰航空涉事空乘被解聘",
+      "onboard_time": 1684897588,
+      "rank": 41,
+      "category": "社会议题"
     },
     {
       "raw_hot": 178706,
@@ -643,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155885,
-      "num": 155885,
-      "word": "警方回应网红户外直播被砍",
-      "onboard_time": 1684896089,
-      "rank": 37,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 155850,
       "num": 155850,
       "word": "宝妈带孩子坐高铁检票员提前放行",
@@ -667,14 +731,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 145800,
-      "num": 145800,
-      "word": "网友问张子枫是谢霆锋的姐姐吗",
-      "onboard_time": 1684896207,
-      "rank": 40,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 141970,
       "num": 141970,
       "word": "专家称鼓励生育政策还有优化空间",
@@ -689,14 +745,6 @@
       "onboard_time": 1684843230,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 135024,
-      "num": 135024,
-      "word": "昆明城投",
-      "onboard_time": 1684896148,
-      "rank": 43,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 126113,
@@ -739,12 +787,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112333,
+      "num": 126185,
+      "word": "塞尔达 半自动盾构机",
+      "onboard_time": 1684895547,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 111791,
       "num": 111791,
       "word": "让盲人内心感受到光明的瞬间",
       "onboard_time": 1684895668,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106721,
+      "num": 202957,
+      "word": "什么焦段最适合拍人像",
+      "onboard_time": 1684897407,
+      "rank": 34,
+      "category": "科技"
     },
     {
       "raw_hot": 102940,
@@ -795,6 +859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 62984,
+      "num": 412015,
+      "word": "男子剪刀挟持女子被铁锹敲懵",
+      "onboard_time": 1684897347,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59061,
       "num": 78211,
       "word": "丹顶鹤敲车门乘客邀请它吃早餐",
@@ -817,14 +889,6 @@
       "onboard_time": 1684860623,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41510,
-      "num": 116493,
-      "word": "塞尔达 半自动盾构机",
-      "onboard_time": 1684895547,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 38627,
@@ -873,6 +937,14 @@
       "onboard_time": 1684758209,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21235,
+      "num": 181016,
+      "word": "李斯丹妮在玩一种很新的带货",
+      "onboard_time": 1684897230,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21013,
