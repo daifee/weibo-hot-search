@@ -1,6 +1,6 @@
 {
   "startTime": 1684858934935,
-  "endTime": 1684934463509,
+  "endTime": 1684935211129,
   "band_list": [
     {
       "raw_hot": 2904722,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1253155,
+      "num": 1002124,
+      "word": "迪丽热巴刘亦菲同款驼峰鼻",
+      "onboard_time": 1684933350,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1239851,
       "num": 1069584,
       "word": "国泰航空3名歧视乘客空乘被解聘",
@@ -291,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 971875,
+      "num": 971875,
+      "word": "杨迪我分完了张柏芝我离完了",
+      "onboard_time": 1684932750,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 955636,
       "num": 736019,
       "word": "厦门",
@@ -363,12 +379,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 808847,
-      "num": 808847,
-      "word": "杨迪我分完了张柏芝我离完了",
-      "onboard_time": 1684932750,
-      "rank": 4,
-      "category": "综艺"
+      "raw_hot": 770024,
+      "num": 770024,
+      "word": "白敬亭淋雨神图",
+      "onboard_time": 1684933530,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 755202,
@@ -475,14 +491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 632803,
-      "num": 632803,
-      "word": "迪丽热巴刘亦菲同款驼峰鼻",
-      "onboard_time": 1684933350,
-      "rank": 7,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 631860,
       "num": 425420,
       "word": "厦门一男医生体检时猥亵女子被拘",
@@ -587,6 +595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 543220,
+      "num": 455821,
+      "word": "公主小妹照进现实",
+      "onboard_time": 1684934370,
+      "rank": 42,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 521113,
       "num": 521113,
       "word": "蔚来",
@@ -601,6 +617,14 @@
       "onboard_time": 1684904972,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 512687,
+      "num": 426706,
+      "word": "杨紫的发际线",
+      "onboard_time": 1684934191,
+      "rank": 34,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 505927,
@@ -649,6 +673,14 @@
       "onboard_time": 1684906952,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 485167,
+      "num": 485167,
+      "word": "姚明不再兼任CBA公司董事长",
+      "onboard_time": 1684932990,
+      "rank": 15,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 469093,
@@ -705,14 +737,6 @@
       "onboard_time": 1684896749,
       "rank": 17,
       "category": "财经"
-    },
-    {
-      "raw_hot": 438700,
-      "num": 438700,
-      "word": "白敬亭淋雨神图",
-      "onboard_time": 1684933530,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 434060,
@@ -785,14 +809,6 @@
       "onboard_time": 1684853674,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 391903,
-      "num": 391903,
-      "word": "姚明不再兼任CBA公司董事长",
-      "onboard_time": 1684932990,
-      "rank": 15,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 389527,
@@ -900,7 +916,7 @@
     },
     {
       "raw_hot": 347586,
-      "num": 334847,
+      "num": 337350,
       "word": "鹿晗演唱会主办公司场均收入超千万",
       "onboard_time": 1684932688,
       "rank": 21,
@@ -1339,6 +1355,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 242275,
+      "num": 242275,
+      "word": "华表奖易烊千玺在看王俊凯吗",
+      "onboard_time": 1684931191,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241616,
       "num": 155600,
       "word": "易烊千玺这个镜头很好欺负的样子",
@@ -1361,14 +1385,6 @@
       "onboard_time": 1684917931,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 239288,
-      "num": 239288,
-      "word": "华表奖易烊千玺在看王俊凯吗",
-      "onboard_time": 1684931191,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 238398,
@@ -1595,20 +1611,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 210701,
-      "num": 210701,
-      "word": "杨紫的发际线",
-      "onboard_time": 1684934191,
-      "rank": 34,
-      "category": "作品衍生,幽默"
-    },
-    {
       "raw_hot": 210161,
       "num": 136674,
       "word": "沈腾瘦了好多",
       "onboard_time": 1684837771,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 209883,
+      "num": 209883,
+      "word": "白敬亭用的什么粉底",
+      "onboard_time": 1684934971,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 209602,
@@ -1835,6 +1851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184650,
+      "num": 416376,
+      "word": "7旬老人趴地用身体挡住麦子流走",
+      "onboard_time": 1684933229,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184568,
       "num": 184568,
       "word": "吴磊回学校领毕业证",
@@ -1865,6 +1889,22 @@
       "onboard_time": 1684852418,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 180943,
+      "num": 180943,
+      "word": "白敬亭说怀柔人在怀柔",
+      "onboard_time": 1684934790,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 179402,
+      "num": 179402,
+      "word": "伊能静的文字",
+      "onboard_time": 1684934848,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 178828,
@@ -1899,6 +1939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 174721,
+      "num": 174721,
+      "word": "世乒赛",
+      "onboard_time": 1684935031,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173235,
       "num": 532910,
       "word": "Reno10发布会",
@@ -1921,6 +1969,14 @@
       "onboard_time": 1684888050,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 172631,
+      "num": 172631,
+      "word": "文殊菩萨壁纸",
+      "onboard_time": 1684928790,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 172126,
@@ -2019,14 +2075,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 151274,
-      "num": 151274,
-      "word": "公主小妹照进现实",
-      "onboard_time": 1684934370,
-      "rank": 42,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 148150,
       "num": 148150,
       "word": "我九岁的兄弟是懂得拿捏人性的",
@@ -2057,14 +2105,6 @@
       "onboard_time": 1684875672,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140825,
-      "num": 140825,
-      "word": "文殊菩萨壁纸",
-      "onboard_time": 1684928790,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 137566,
@@ -2112,14 +2152,6 @@
       "word": "货拉拉案司机提出申诉",
       "onboard_time": 1684894227,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120586,
-      "num": 397195,
-      "word": "7旬老人趴地用身体挡住麦子流走",
-      "onboard_time": 1684933229,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2283,20 +2315,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52665,
+      "num": 1106188,
+      "word": "中国经济高质量发展",
+      "onboard_time": 1684930649,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52309,
       "num": 166585,
       "word": "你有过镜头焦虑吗",
       "onboard_time": 1684923930,
       "rank": 43,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 48087,
-      "num": 1106188,
-      "word": "中国经济高质量发展",
-      "onboard_time": 1684930649,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41672,
