@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684909298265,
+  "endTime": 1684910063130,
   "band_list": [
     {
       "raw_hot": 3643134,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 2879677,
-      "num": 499295,
+      "num": 528573,
       "word": "陆虎陈曌旭领证",
       "onboard_time": 1684907068,
       "rank": 11,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 2169685,
-      "num": 909611,
+      "num": 1037525,
       "word": "丁泽仁把四年老粉告了",
       "onboard_time": 1684906229,
       "rank": 12,
@@ -427,6 +427,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1421500,
+      "num": 1421500,
+      "word": "15岁女孩减肥仅24.8kg去世",
+      "onboard_time": 1684904074,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1421417,
       "num": 1421417,
       "word": "护心男主变小三",
@@ -537,14 +545,6 @@
       "onboard_time": 1684677868,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1283653,
-      "num": 1283653,
-      "word": "15岁女孩减肥仅24.8kg去世",
-      "onboard_time": 1684904074,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1269383,
@@ -819,6 +819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1006660,
+      "num": 1006660,
+      "word": "谢娜女儿看到赵丽颖的广告叫妈妈",
+      "onboard_time": 1684904494,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1005321,
       "num": 1005321,
       "word": "应采儿的大儿子",
@@ -929,14 +937,6 @@
       "onboard_time": 1684724308,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 881575,
-      "num": 881575,
-      "word": "谢娜女儿看到赵丽颖的广告叫妈妈",
-      "onboard_time": 1684904494,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 873977,
@@ -1523,6 +1523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 567089,
+      "num": 567089,
+      "word": "刘亚仁被上铐送往拘留所",
+      "onboard_time": 1684907791,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 566584,
       "num": 566584,
       "word": "李家超说类似国泰事件不容再发生",
@@ -1667,6 +1675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 515344,
+      "num": 515344,
+      "word": "法老向志愿军老兵捐款",
+      "onboard_time": 1684904972,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 510118,
       "num": 510118,
       "word": "外媒评龚俊戛纳红毯为最佳着装",
@@ -1681,14 +1697,6 @@
       "onboard_time": 1684896089,
       "rank": 37,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 504218,
-      "num": 493421,
-      "word": "法老向志愿军老兵捐款",
-      "onboard_time": 1684904972,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 503738,
@@ -1739,14 +1747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 492105,
-      "num": 492105,
-      "word": "刘亚仁被上铐送往拘留所",
-      "onboard_time": 1684907791,
-      "rank": 14,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 491594,
       "num": 491594,
       "word": "当我问妈妈结婚有啥好处",
@@ -1780,7 +1780,7 @@
     },
     {
       "raw_hot": 490032,
-      "num": 330015,
+      "num": 350015,
       "word": "虞书欣 纪梵希",
       "onboard_time": 1684906952,
       "rank": 20,
@@ -1945,6 +1945,14 @@
       "onboard_time": 1684804287,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 450622,
+      "num": 450622,
+      "word": "鹿晗 优先权",
+      "onboard_time": 1684909049,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 450021,
@@ -2203,6 +2211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 397550,
+      "num": 475636,
+      "word": "阿里云回应裁员",
+      "onboard_time": 1684906592,
+      "rank": 19,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 397218,
       "num": 266962,
       "word": "新娘婚礼当天被50斤苗服压哭",
@@ -2428,7 +2444,7 @@
     },
     {
       "raw_hot": 360239,
-      "num": 232793,
+      "num": 235414,
       "word": "张远又可以唱嘉宾了",
       "onboard_time": 1684908931,
       "rank": 30,
@@ -2523,6 +2539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 347233,
+      "num": 347233,
+      "word": "奔跑吧首次录制直播",
+      "onboard_time": 1684906708,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347078,
       "num": 347078,
       "word": "melo",
@@ -2579,6 +2603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 339427,
+      "num": 337546,
+      "word": "陈飞宇的任务是保持陈凯歌C位",
+      "onboard_time": 1684907611,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 338682,
       "num": 338682,
       "word": "王楚钦4比1户上隼辅",
@@ -2593,14 +2625,6 @@
       "onboard_time": 1684815511,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 337546,
-      "num": 337546,
-      "word": "陈飞宇的任务是保持陈凯歌C位",
-      "onboard_time": 1684907611,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 337347,
@@ -2633,14 +2657,6 @@
       "onboard_time": 1684902333,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 334088,
-      "num": 334088,
-      "word": "阿里云回应裁员",
-      "onboard_time": 1684906592,
-      "rank": 19,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 333634,
@@ -2801,14 +2817,6 @@
       "onboard_time": 1684858888,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315391,
-      "num": 289995,
-      "word": "奔跑吧首次录制直播",
-      "onboard_time": 1684906708,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 314419,
@@ -3507,6 +3515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251452,
+      "num": 303930,
+      "word": "国泰航空需检讨",
+      "onboard_time": 1684909769,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250504,
       "num": 250504,
       "word": "巴厘岛",
@@ -3651,6 +3667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 241168,
+      "num": 235206,
+      "word": "章泽天撞脸陈都灵",
+      "onboard_time": 1684909709,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 240356,
       "num": 240356,
       "word": "Bin哥厉害",
@@ -3712,6 +3736,14 @@
       "word": "你用多久攒到人生第一个10万元",
       "onboard_time": 1684712845,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236082,
+      "num": 236082,
+      "word": "国泰总裁林绍波再次致歉",
+      "onboard_time": 1684909530,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -3785,14 +3817,6 @@
       "onboard_time": 1684715308,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 232640,
-      "num": 232640,
-      "word": "鹿晗 优先权",
-      "onboard_time": 1684909049,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 232633,
@@ -4059,6 +4083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 218582,
+      "num": 218582,
+      "word": "科大讯飞",
+      "onboard_time": 1684909291,
+      "rank": 34,
+      "category": "科技"
+    },
+    {
       "raw_hot": 218469,
       "num": 218469,
       "word": "这届90后是懂带娃的",
@@ -4089,6 +4121,14 @@
       "onboard_time": 1684808908,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 216756,
+      "num": 216756,
+      "word": "10岁遇害男孩生母和继父曾流泪寻人",
+      "onboard_time": 1684907669,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216652,
@@ -4336,6 +4376,14 @@
       "word": "警员将旧户口簿盖作废章留给孙女作纪念",
       "onboard_time": 1684861224,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201905,
+      "num": 201905,
+      "word": "厦门直播",
+      "onboard_time": 1684909049,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -4651,14 +4699,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 187033,
-      "num": 187033,
-      "word": "10岁遇害男孩生母和继父曾流泪寻人",
-      "onboard_time": 1684907669,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186299,
       "num": 152453,
       "word": "四川珙县4.5级地震",
@@ -4729,6 +4769,14 @@
       "onboard_time": 1684805848,
       "rank": 32,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 181598,
+      "num": 181598,
+      "word": "00后民警收感谢信四处找同事炫耀",
+      "onboard_time": 1684909588,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181586,
@@ -4995,14 +5043,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 170368,
-      "num": 170368,
-      "word": "厦门直播",
-      "onboard_time": 1684909049,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168433,
       "num": 168433,
       "word": "如何区分呼吸道合胞病毒和流感",
@@ -5033,6 +5073,14 @@
       "onboard_time": 1684672591,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 167102,
+      "num": 167102,
+      "word": "陆虎购物清单里都是嘘嘘",
+      "onboard_time": 1684909950,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 166984,
@@ -5531,6 +5579,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 133769,
+      "num": 310899,
+      "word": "好人像选Reno",
+      "onboard_time": 1684907849,
+      "rank": 24,
+      "category": "科技"
+    },
+    {
       "raw_hot": 132931,
       "num": 132931,
       "word": "世界卫生大会拒绝涉台提案",
@@ -5825,14 +5881,6 @@
       "onboard_time": 1684759708,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108066,
-      "num": 290003,
-      "word": "好人像选Reno",
-      "onboard_time": 1684907849,
-      "rank": 24,
-      "category": "科技"
     },
     {
       "raw_hot": 107973,
@@ -6243,6 +6291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35432,
+      "num": 532910,
+      "word": "Reno10发布会",
+      "onboard_time": 1684907129,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 33184,
       "num": 2363978,
       "word": "高质量发展调研行",
@@ -6273,14 +6329,6 @@
       "onboard_time": 1684698072,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 28637,
-      "num": 500358,
-      "word": "Reno10发布会",
-      "onboard_time": 1684907129,
-      "rank": 10,
-      "category": "科技"
     },
     {
       "raw_hot": 28590,

@@ -1,6 +1,6 @@
 {
   "startTime": 1684858934935,
-  "endTime": 1684909298265,
+  "endTime": 1684910063130,
   "band_list": [
     {
       "raw_hot": 2904722,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2879677,
-      "num": 499295,
+      "num": 528573,
       "word": "陆虎陈曌旭领证",
       "onboard_time": 1684907068,
       "rank": 11,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2169685,
-      "num": 909611,
+      "num": 1037525,
       "word": "丁泽仁把四年老粉告了",
       "onboard_time": 1684906229,
       "rank": 12,
@@ -75,20 +75,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1421500,
+      "num": 1421500,
+      "word": "15岁女孩减肥仅24.8kg去世",
+      "onboard_time": 1684904074,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1335403,
       "num": 1335403,
       "word": "刘浩存仪态",
       "onboard_time": 1684855472,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1283653,
-      "num": 1283653,
-      "word": "15岁女孩减肥仅24.8kg去世",
-      "onboard_time": 1684904074,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1267995,
@@ -171,6 +171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1006660,
+      "num": 1006660,
+      "word": "谢娜女儿看到赵丽颖的广告叫妈妈",
+      "onboard_time": 1684904494,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 990960,
       "num": 990960,
       "word": "易烊千玺听到刘烨获奖的表情",
@@ -217,14 +225,6 @@
       "onboard_time": 1684853317,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 881575,
-      "num": 881575,
-      "word": "谢娜女儿看到赵丽颖的广告叫妈妈",
-      "onboard_time": 1684904494,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 865117,
@@ -347,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 567089,
+      "num": 567089,
+      "word": "刘亚仁被上铐送往拘留所",
+      "onboard_time": 1684907791,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 566584,
       "num": 566584,
       "word": "李家超说类似国泰事件不容再发生",
@@ -361,6 +369,14 @@
       "onboard_time": 1684900833,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 515344,
+      "num": 515344,
+      "word": "法老向志愿军老兵捐款",
+      "onboard_time": 1684904972,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 505927,
@@ -379,24 +395,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 504218,
-      "num": 493421,
-      "word": "法老向志愿军老兵捐款",
-      "onboard_time": 1684904972,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 492105,
-      "num": 492105,
-      "word": "刘亚仁被上铐送往拘留所",
-      "onboard_time": 1684907791,
-      "rank": 14,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 490032,
-      "num": 330015,
+      "num": 350015,
       "word": "虞书欣 纪梵希",
       "onboard_time": 1684906952,
       "rank": 20,
@@ -417,6 +417,14 @@
       "onboard_time": 1684886490,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 450622,
+      "num": 450622,
+      "word": "鹿晗 优先权",
+      "onboard_time": 1684909049,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 444972,
@@ -441,6 +449,14 @@
       "onboard_time": 1684897049,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 397550,
+      "num": 475636,
+      "word": "阿里云回应裁员",
+      "onboard_time": 1684906592,
+      "rank": 19,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 396202,
@@ -492,7 +508,7 @@
     },
     {
       "raw_hot": 360239,
-      "num": 232793,
+      "num": 235414,
       "word": "张远又可以唱嘉宾了",
       "onboard_time": 1684908931,
       "rank": 30,
@@ -523,6 +539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 347233,
+      "num": 347233,
+      "word": "奔跑吧首次录制直播",
+      "onboard_time": 1684906708,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 346182,
       "num": 346182,
       "word": "范丞丞裤子是来拖地的吗",
@@ -547,7 +571,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 337546,
+      "raw_hot": 339427,
       "num": 337546,
       "word": "陈飞宇的任务是保持陈凯歌C位",
       "onboard_time": 1684907611,
@@ -569,14 +593,6 @@
       "onboard_time": 1684902333,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 334088,
-      "num": 334088,
-      "word": "阿里云回应裁员",
-      "onboard_time": 1684906592,
-      "rank": 19,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 328003,
@@ -601,14 +617,6 @@
       "onboard_time": 1684858888,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315391,
-      "num": 289995,
-      "word": "奔跑吧首次录制直播",
-      "onboard_time": 1684906708,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 311318,
@@ -755,6 +763,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 251452,
+      "num": 303930,
+      "word": "国泰航空需检讨",
+      "onboard_time": 1684909769,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244081,
       "num": 244081,
       "word": "第五人格",
@@ -769,6 +785,14 @@
       "onboard_time": 1684854096,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 241168,
+      "num": 235206,
+      "word": "章泽天撞脸陈都灵",
+      "onboard_time": 1684909709,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 238398,
@@ -803,20 +827,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236082,
+      "num": 236082,
+      "word": "国泰总裁林绍波再次致歉",
+      "onboard_time": 1684909530,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234452,
       "num": 234452,
       "word": "中国新任驻美国大使谢锋抵美履新",
       "onboard_time": 1684887029,
       "rank": 26,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 232640,
-      "num": 232640,
-      "word": "鹿晗 优先权",
-      "onboard_time": 1684909049,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 230718,
@@ -883,6 +907,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 218582,
+      "num": 218582,
+      "word": "科大讯飞",
+      "onboard_time": 1684909291,
+      "rank": 34,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 216756,
+      "num": 216756,
+      "word": "10岁遇害男孩生母和继父曾流泪寻人",
+      "onboard_time": 1684907669,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216496,
       "num": 216496,
       "word": "沈腾到底说了什么被白百何打",
@@ -944,6 +984,14 @@
       "word": "警员将旧户口簿盖作废章留给孙女作纪念",
       "onboard_time": 1684861224,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201905,
+      "num": 201905,
+      "word": "厦门直播",
+      "onboard_time": 1684909049,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1027,14 +1075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187033,
-      "num": 187033,
-      "word": "10岁遇害男孩生母和继父曾流泪寻人",
-      "onboard_time": 1684907669,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185354,
       "num": 122628,
       "word": "刘敏涛穿红色就有好笑的事发生",
@@ -1057,6 +1097,14 @@
       "onboard_time": 1684905869,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181598,
+      "num": 181598,
+      "word": "00后民警收感谢信四处找同事炫耀",
+      "onboard_time": 1684909588,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181538,
@@ -1107,14 +1155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 170368,
-      "num": 170368,
-      "word": "厦门直播",
-      "onboard_time": 1684909049,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169905,
       "num": 169905,
       "word": "分手时什么话对女生伤害最大",
@@ -1129,6 +1169,14 @@
       "onboard_time": 1684892848,
       "rank": 38,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 167102,
+      "num": 167102,
+      "word": "陆虎购物清单里都是嘘嘘",
+      "onboard_time": 1684909950,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 163221,
@@ -1193,6 +1241,14 @@
       "onboard_time": 1684843230,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133769,
+      "num": 310899,
+      "word": "好人像选Reno",
+      "onboard_time": 1684907849,
+      "rank": 24,
+      "category": "科技"
     },
     {
       "raw_hot": 132823,
@@ -1273,14 +1329,6 @@
       "onboard_time": 1684895668,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108066,
-      "num": 290003,
-      "word": "好人像选Reno",
-      "onboard_time": 1684907849,
-      "rank": 24,
-      "category": "科技"
     },
     {
       "raw_hot": 106721,
@@ -1403,6 +1451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 35432,
+      "num": 532910,
+      "word": "Reno10发布会",
+      "onboard_time": 1684907129,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 34909,
       "num": 36648,
       "word": "国泰航空致歉",
@@ -1441,14 +1497,6 @@
       "onboard_time": 1684758209,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28637,
-      "num": 500358,
-      "word": "Reno10发布会",
-      "onboard_time": 1684907129,
-      "rank": 10,
-      "category": "科技"
     },
     {
       "raw_hot": 23666,

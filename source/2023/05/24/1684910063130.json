@@ -1,0 +1,410 @@
+{
+  "runTime": 1684910063130,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1421500,
+        "num": 1421500,
+        "word": "15岁女孩减肥仅24.8kg去世",
+        "onboard_time": 1684904074,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1299436,
+        "num": 1299436,
+        "word": "月薪5000两年存了8万",
+        "onboard_time": 1684900711,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 7627,
+        "num": 1049704,
+        "word": "五星红旗又一次在珠峰之巅飘扬",
+        "onboard_time": 1684847914,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2080865,
+        "num": 1037525,
+        "word": "丁泽仁把四年老粉告了",
+        "onboard_time": 1684906229,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1006660,
+        "num": 1006660,
+        "word": "谢娜女儿看到赵丽颖的广告叫妈妈",
+        "onboard_time": 1684904494,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 879285,
+        "num": 879285,
+        "word": "IU或恢复在中国的活动",
+        "onboard_time": 1684901432,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 826337,
+        "num": 826337,
+        "word": "居民清理油烟机掏出一窝国家级宝宝",
+        "onboard_time": 1684906829,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647067,
+        "num": 647067,
+        "word": "谢娜在机场哭了",
+        "onboard_time": 1684898490,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 629050,
+        "num": 629050,
+        "word": "网友问张子枫是谢霆锋的姐姐吗",
+        "onboard_time": 1684896207,
+        "rank": 8,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 567089,
+        "num": 567089,
+        "word": "刘亚仁被上铐送往拘留所",
+        "onboard_time": 1684907791,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 35432,
+        "num": 532910,
+        "word": "Reno10发布会",
+        "onboard_time": 1684907129,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2731925,
+        "num": 528573,
+        "word": "陆虎陈曌旭领证",
+        "onboard_time": 1684907068,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515344,
+        "num": 515344,
+        "word": "法老向志愿军老兵捐款",
+        "onboard_time": 1684904972,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514124,
+        "num": 514124,
+        "word": "章泽天现身戛纳晚宴",
+        "onboard_time": 1684898670,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 397550,
+        "num": 475636,
+        "word": "阿里云回应裁员",
+        "onboard_time": 1684906592,
+        "rank": 14,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 471642,
+        "num": 471642,
+        "word": "成灿shotaro离开NCT",
+        "onboard_time": 1684905573,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450622,
+        "num": 450622,
+        "word": "鹿晗 优先权",
+        "onboard_time": 1684909049,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 394252,
+        "num": 394252,
+        "word": "老婆大人",
+        "onboard_time": 1684899750,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365352,
+        "num": 365352,
+        "word": "在香港歧视普通话注定是个笑话",
+        "onboard_time": 1684885767,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281143,
+        "num": 350697,
+        "word": "国泰航空事件",
+        "onboard_time": 1684904613,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465503,
+        "num": 350015,
+        "word": "虞书欣 纪梵希",
+        "onboard_time": 1684906952,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 347233,
+        "num": 347233,
+        "word": "奔跑吧首次录制直播",
+        "onboard_time": 1684906708,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339063,
+        "num": 339063,
+        "word": "厦门一男医生体检时猥亵女子被拘",
+        "onboard_time": 1684902333,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133769,
+        "num": 310899,
+        "word": "好人像选Reno",
+        "onboard_time": 1684907849,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 251452,
+        "num": 303930,
+        "word": "国泰航空需检讨",
+        "onboard_time": 1684909769,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339427,
+        "num": 303738,
+        "word": "陈飞宇的任务是保持陈凯歌C位",
+        "onboard_time": 1684907611,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 303499,
+        "num": 303499,
+        "word": "鹿晗演唱会开票",
+        "onboard_time": 1684901793,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 287911,
+        "num": 287911,
+        "word": "shohei",
+        "onboard_time": 1684906769,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248872,
+        "num": 248872,
+        "word": "10岁男孩身亡2嫌疑人系生母和继父",
+        "onboard_time": 1684891468,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236082,
+        "num": 236082,
+        "word": "国泰总裁林绍波再次致歉",
+        "onboard_time": 1684909530,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262549,
+        "num": 235414,
+        "word": "张远又可以唱嘉宾了",
+        "onboard_time": 1684908931,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241168,
+        "num": 235206,
+        "word": "章泽天撞脸陈都灵",
+        "onboard_time": 1684909709,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232963,
+        "num": 232963,
+        "word": "你猜为什么沈腾不读颁奖词",
+        "onboard_time": 1684900833,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221712,
+        "num": 221712,
+        "word": "凡人修仙传 杨洋林允",
+        "onboard_time": 1684905508,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218582,
+        "num": 218582,
+        "word": "科大讯飞",
+        "onboard_time": 1684909291,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 219919,
+        "num": 218448,
+        "word": "王一博穿出了五彩斑斓的黑",
+        "onboard_time": 1684900294,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216756,
+        "num": 216756,
+        "word": "10岁遇害男孩生母和继父曾流泪寻人",
+        "onboard_time": 1684907669,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201905,
+        "num": 201905,
+        "word": "厦门直播",
+        "onboard_time": 1684909049,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200390,
+        "num": 200390,
+        "word": "小学生在校内被老师开车撞倒身亡",
+        "onboard_time": 1684885106,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36521,
+        "num": 194407,
+        "word": "家庭用车怎么选",
+        "onboard_time": 1684902333,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194385,
+        "num": 194385,
+        "word": "阿里人员优化",
+        "onboard_time": 1684898806,
+        "rank": 40,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 183423,
+        "num": 183423,
+        "word": "五月天演唱会",
+        "onboard_time": 1684902333,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181598,
+        "num": 181598,
+        "word": "00后民警收感谢信四处找同事炫耀",
+        "onboard_time": 1684909588,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172080,
+        "num": 172080,
+        "word": "我喜欢的组合 你应该不认识",
+        "onboard_time": 1684902635,
+        "rank": 43,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 167102,
+        "num": 167102,
+        "word": "陆虎购物清单里都是嘘嘘",
+        "onboard_time": 1684909950,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164297,
+        "num": 164297,
+        "word": "奔跑吧",
+        "onboard_time": 1684906170,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102037,
+        "num": 163921,
+        "word": "成都天府广场 太极图",
+        "onboard_time": 1684903054,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 44028,
+        "num": 163883,
+        "word": "DOTA2国家集训队名单",
+        "onboard_time": 1684900173,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 43953,
+        "num": 163876,
+        "word": "第五人格",
+        "onboard_time": 1684901130,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163875,
+        "num": 163875,
+        "word": "李家超说类似国泰事件不容再发生",
+        "onboard_time": 1684899091,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力打造国家级乃至世界级艺术殿堂#"
+    }
+  }
+}
