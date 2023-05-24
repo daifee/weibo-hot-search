@@ -1,6 +1,6 @@
 {
   "startTime": 1684858934935,
-  "endTime": 1684932586728,
+  "endTime": 1684934463509,
   "band_list": [
     {
       "raw_hot": 2904722,
@@ -139,6 +139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1267444,
+      "num": 1267444,
+      "word": "沈月回应闺蜜婚礼上当花童",
+      "onboard_time": 1684930289,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1265650,
       "num": 1265650,
       "word": "IU或恢复在中国的活动",
@@ -201,14 +209,6 @@
       "onboard_time": 1684899750,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1091357,
-      "num": 1091357,
-      "word": "沈月回应闺蜜婚礼上当花童",
-      "onboard_time": 1684930289,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1082985,
@@ -363,6 +363,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 808847,
+      "num": 808847,
+      "word": "杨迪我分完了张柏芝我离完了",
+      "onboard_time": 1684932750,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 755202,
       "num": 755202,
       "word": "男医生体检时猥亵女子被吊销执业资格",
@@ -465,6 +473,14 @@
       "onboard_time": 1684836030,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 632803,
+      "num": 632803,
+      "word": "迪丽热巴刘亦菲同款驼峰鼻",
+      "onboard_time": 1684933350,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 631860,
@@ -691,6 +707,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 438700,
+      "num": 438700,
+      "word": "白敬亭淋雨神图",
+      "onboard_time": 1684933530,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 434060,
       "num": 434060,
       "word": "患骨髓炎女网红被男网友蹲守",
@@ -716,7 +740,7 @@
     },
     {
       "raw_hot": 421473,
-      "num": 303376,
+      "num": 331202,
       "word": "女性30岁生育算高龄产妇吗",
       "onboard_time": 1684927708,
       "rank": 37,
@@ -761,6 +785,14 @@
       "onboard_time": 1684853674,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 391903,
+      "num": 391903,
+      "word": "姚明不再兼任CBA公司董事长",
+      "onboard_time": 1684932990,
+      "rank": 15,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 389527,
@@ -851,12 +883,28 @@
       "category": "社会负面,教育"
     },
     {
+      "raw_hot": 359279,
+      "num": 359279,
+      "word": "风雨中的女星们",
+      "onboard_time": 1684930888,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 357420,
       "num": 357420,
       "word": "鹿晗2023演唱会",
       "onboard_time": 1684904016,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 347586,
+      "num": 334847,
+      "word": "鹿晗演唱会主办公司场均收入超千万",
+      "onboard_time": 1684932688,
+      "rank": 21,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 347233,
@@ -1040,14 +1088,6 @@
       "word": "演员界的凤凰传奇",
       "onboard_time": 1684915290,
       "rank": 27,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 293762,
-      "num": 293762,
-      "word": "风雨中的女星们",
-      "onboard_time": 1684930888,
-      "rank": 25,
       "category": "作品衍生"
     },
     {
@@ -1467,8 +1507,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222029,
+      "num": 222029,
+      "word": "杨洋生图脸上的雨水",
+      "onboard_time": 1684933830,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 221404,
-      "num": 197750,
+      "num": 214303,
       "word": "LWX登场LPL赛区七周年",
       "onboard_time": 1684930888,
       "rank": 37,
@@ -1545,6 +1593,14 @@
       "onboard_time": 1684891110,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210701,
+      "num": 210701,
+      "word": "杨紫的发际线",
+      "onboard_time": 1684934191,
+      "rank": 34,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 210161,
@@ -1811,6 +1867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 178828,
+      "num": 178828,
+      "word": "全国统一的长辈审美",
+      "onboard_time": 1684928969,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 178727,
       "num": 178727,
       "word": "如何看待国泰航空涉事空乘被解聘",
@@ -1899,20 +1963,20 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 164209,
-      "num": 164209,
-      "word": "全国统一的长辈审美",
-      "onboard_time": 1684928969,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 163221,
       "num": 163221,
       "word": "凡人修仙传",
       "onboard_time": 1684906352,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 160581,
+      "num": 160581,
+      "word": "汪苏泷祝福陆虎",
+      "onboard_time": 1684932627,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 159887,
@@ -1955,12 +2019,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151274,
+      "num": 151274,
+      "word": "公主小妹照进现实",
+      "onboard_time": 1684934370,
+      "rank": 42,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 148150,
       "num": 148150,
       "word": "我九岁的兄弟是懂得拿捏人性的",
       "onboard_time": 1684931909,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 148122,
+      "num": 148122,
+      "word": "为什么到现在你都没有谈恋爱",
+      "onboard_time": 1684931789,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 145665,
@@ -1977,6 +2057,14 @@
       "onboard_time": 1684875672,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140825,
+      "num": 140825,
+      "word": "文殊菩萨壁纸",
+      "onboard_time": 1684928790,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 137566,
@@ -2024,6 +2112,14 @@
       "word": "货拉拉案司机提出申诉",
       "onboard_time": 1684894227,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120586,
+      "num": 397195,
+      "word": "7旬老人趴地用身体挡住麦子流走",
+      "onboard_time": 1684933229,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2195,6 +2291,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 48087,
+      "num": 1106188,
+      "word": "中国经济高质量发展",
+      "onboard_time": 1684930649,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41672,
       "num": 77107,
       "word": "民警520领结婚证后又去抓了3个人",
@@ -2217,14 +2321,6 @@
       "onboard_time": 1684842511,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 38144,
-      "num": 1106188,
-      "word": "中国经济高质量发展",
-      "onboard_time": 1684930649,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34909,
@@ -2295,6 +2391,9 @@
     },
     {
       "word": "#打造经济监督的特种部队#"
+    },
+    {
+      "word": "#2023夏收进行时#"
     }
   ]
 }
