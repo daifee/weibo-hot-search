@@ -1,6 +1,6 @@
 {
   "startTime": 1684945355711,
-  "endTime": 1685027797538,
+  "endTime": 1685028827482,
   "band_list": [
     {
       "raw_hot": 3114274,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 682012,
+      "num": 682012,
+      "word": "皓嫣",
+      "onboard_time": 1685024555,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 676461,
       "num": 676461,
       "word": "刘亦菲林更新或将演夫妻",
@@ -459,14 +467,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 624417,
-      "num": 624417,
-      "word": "皓嫣",
-      "onboard_time": 1685024555,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 621117,
       "num": 621117,
       "word": "九鹭非香",
@@ -505,6 +505,14 @@
       "onboard_time": 1684943427,
       "rank": 30,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 565719,
+      "num": 416383,
+      "word": "平安北京 无语死了",
+      "onboard_time": 1685027675,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 555241,
@@ -609,6 +617,14 @@
       "onboard_time": 1685021552,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 509365,
+      "num": 509365,
+      "word": "武汉校内被撞身亡小学生",
+      "onboard_time": 1685027016,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 507398,
@@ -755,6 +771,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 421332,
+      "num": 414247,
+      "word": "司机下车查看轮胎遭后车撞飞身亡",
+      "onboard_time": 1685026293,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421268,
       "num": 421268,
       "word": "奥迪工程车",
@@ -768,6 +792,14 @@
       "word": "比亚迪",
       "onboard_time": 1684989693,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 413818,
+      "num": 413818,
+      "word": "被温州人的订婚喜糖震惊到了",
+      "onboard_time": 1685026354,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -867,8 +899,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 380918,
-      "num": 380918,
+      "raw_hot": 383667,
+      "num": 383667,
       "word": "狐妖小红娘",
       "onboard_time": 1685025097,
       "rank": 43,
@@ -1067,22 +1099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 330453,
-      "num": 330453,
-      "word": "司机下车查看轮胎遭后车撞飞身亡",
-      "onboard_time": 1685026293,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 329881,
-      "num": 242149,
-      "word": "被温州人的订婚喜糖震惊到了",
-      "onboard_time": 1685026354,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 328232,
       "num": 328232,
       "word": "国泰",
@@ -1112,6 +1128,14 @@
       "word": "金玟庭的背",
       "onboard_time": 1684977687,
       "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 312355,
+      "num": 261054,
+      "word": "曹骏说不知道娱乐圈要什么样的性格",
+      "onboard_time": 1685027555,
+      "rank": 41,
       "category": "作品衍生"
     },
     {
@@ -1185,6 +1209,14 @@
       "onboard_time": 1684930289,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 299582,
+      "num": 244625,
+      "word": "陈赫送鹿晗演唱会门票给粉丝",
+      "onboard_time": 1685028212,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 295891,
@@ -1371,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261213,
+      "num": 261213,
+      "word": "国产数码宝贝剧透",
+      "onboard_time": 1685023594,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 259180,
       "num": 217642,
       "word": "怦然3素人嘉宾撞脸张真源",
@@ -1417,14 +1457,6 @@
       "onboard_time": 1684939233,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 246638,
-      "num": 246638,
-      "word": "国产数码宝贝剧透",
-      "onboard_time": 1685023594,
-      "rank": 46,
-      "category": "动漫"
     },
     {
       "raw_hot": 245100,
@@ -1512,14 +1544,6 @@
       "word": "如何评价长城汽车举报比亚迪",
       "onboard_time": 1685021430,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 233900,
-      "num": 233900,
-      "word": "武汉校内被撞身亡小学生",
-      "onboard_time": 1685027016,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1843,14 +1867,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 186110,
-      "num": 186110,
-      "word": "曹骏说不知道娱乐圈要什么样的性格",
-      "onboard_time": 1685027555,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 184885,
       "num": 184885,
       "word": "猫猫我啊专业打假",
@@ -2009,14 +2025,6 @@
       "onboard_time": 1684928008,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160182,
-      "num": 160182,
-      "word": "平安北京 无语死了",
-      "onboard_time": 1685027675,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159439,
@@ -2211,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125448,
+      "num": 135168,
+      "word": "水月洞天主演现状",
+      "onboard_time": 1685028813,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 125231,
       "num": 125231,
       "word": "罗渽民杂志",
@@ -2377,6 +2393,14 @@
       "onboard_time": 1684982969,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 79593,
+      "num": 221085,
+      "word": "临期食品打一折你会买吗",
+      "onboard_time": 1685028513,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77573,
