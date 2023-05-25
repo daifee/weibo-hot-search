@@ -1,6 +1,6 @@
 {
   "startTime": 1684945355711,
-  "endTime": 1684982109676,
+  "endTime": 1684982623993,
   "band_list": [
     {
       "raw_hot": 2227237,
@@ -11,8 +11,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1934887,
-      "num": 1934887,
+      "raw_hot": 1976400,
+      "num": 1976400,
       "word": "微信新增锁定功能",
       "onboard_time": 1684974449,
       "rank": 4,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1384295,
-      "num": 1384295,
+      "raw_hot": 1499721,
+      "num": 1499721,
       "word": "榴莲 贵",
       "onboard_time": 1684978527,
       "rank": 23,
@@ -75,20 +75,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 784147,
-      "num": 784147,
-      "word": "内娱综艺史上炸裂场面",
-      "onboard_time": 1684977152,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 756666,
-      "num": 756666,
+      "raw_hot": 807500,
+      "num": 807500,
       "word": "24岁研究生离世捐器官救多人",
       "onboard_time": 1684979247,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 799544,
+      "num": 799544,
+      "word": "刘亚仁被人泼水",
+      "onboard_time": 1684980448,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 792392,
+      "num": 792392,
+      "word": "内娱综艺史上炸裂场面",
+      "onboard_time": 1684977152,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 738470,
@@ -113,14 +121,6 @@
       "onboard_time": 1684934370,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 655844,
-      "num": 655844,
-      "word": "刘亚仁被人泼水",
-      "onboard_time": 1684980448,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 655406,
@@ -179,6 +179,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 533354,
+      "num": 311540,
+      "word": "给狗买磨牙棒忘了看尺寸",
+      "onboard_time": 1684981230,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 514811,
+      "num": 514811,
+      "word": "易烊千玺是在撒娇吗",
+      "onboard_time": 1684977867,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 507398,
       "num": 507398,
       "word": "刘亚仁逮捕令被驳回",
@@ -187,20 +203,20 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 488383,
-      "num": 488383,
-      "word": "易烊千玺是在撒娇吗",
-      "onboard_time": 1684977867,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 447419,
-      "num": 447419,
+      "raw_hot": 461265,
+      "num": 461265,
       "word": "护心十五集前后不是一个编剧",
       "onboard_time": 1684980392,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 457771,
+      "num": 457771,
+      "word": "九鹭非香",
+      "onboard_time": 1684981288,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 442302,
@@ -219,12 +235,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 416830,
-      "num": 305786,
-      "word": "给狗买磨牙棒忘了看尺寸",
-      "onboard_time": 1684981230,
-      "rank": 20,
-      "category": "幽默"
+      "raw_hot": 413091,
+      "num": 413091,
+      "word": "二阳",
+      "onboard_time": 1684979367,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407859,
@@ -235,8 +251,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 406825,
-      "num": 304386,
+      "raw_hot": 407739,
+      "num": 306078,
       "word": "辛巴",
       "onboard_time": 1684980628,
       "rank": 21,
@@ -283,14 +299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 362054,
-      "num": 362054,
-      "word": "二阳",
-      "onboard_time": 1684979367,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 357108,
       "num": 357108,
       "word": "英伟达",
@@ -331,8 +339,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 332112,
-      "num": 332112,
+      "raw_hot": 332129,
+      "num": 332129,
       "word": "催收巨头湖南永雄宣布停业",
       "onboard_time": 1684979848,
       "rank": 17,
@@ -345,6 +353,14 @@
       "onboard_time": 1684974088,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 312529,
+      "num": 312529,
+      "word": "金玟庭的背",
+      "onboard_time": 1684977687,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 310004,
@@ -363,14 +379,6 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 307416,
-      "num": 307416,
-      "word": "金玟庭的背",
-      "onboard_time": 1684977687,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 301956,
       "num": 301956,
       "word": "沈月回应闺蜜婚礼上当花童",
@@ -385,14 +393,6 @@
       "onboard_time": 1684978168,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 293846,
-      "num": 293846,
-      "word": "九鹭非香",
-      "onboard_time": 1684981288,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 290520,
@@ -475,6 +475,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 233706,
+      "num": 233706,
+      "word": "当00后当了老师",
+      "onboard_time": 1684981168,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 232156,
       "num": 232156,
       "word": "我推的孩子",
@@ -523,8 +531,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 200627,
-      "num": 200627,
+      "raw_hot": 201440,
+      "num": 201440,
       "word": "近亿只蝴蝶大爆发有多壮观",
       "onboard_time": 1684980929,
       "rank": 34,
@@ -539,20 +547,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195583,
+      "num": 195583,
+      "word": "北京二手房一天降价20万只求一卖",
+      "onboard_time": 1684982128,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194963,
       "num": 194963,
       "word": "你能接受多少钱一个的兔头",
       "onboard_time": 1684975590,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194796,
-      "num": 194796,
-      "word": "当00后当了老师",
-      "onboard_time": 1684981168,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 189587,
@@ -676,7 +684,7 @@
     },
     {
       "raw_hot": 156850,
-      "num": 1714239,
+      "num": 1736391,
       "word": "坐高铁被窗外的中国基建所惊艳",
       "onboard_time": 1684938092,
       "rank": 2,
@@ -715,6 +723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 146509,
+      "num": 146509,
+      "word": "不上综艺的明星",
+      "onboard_time": 1684982370,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145845,
       "num": 133395,
       "word": "刘亦菲要进组了",
@@ -737,6 +753,14 @@
       "onboard_time": 1684980028,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132392,
+      "num": 132392,
+      "word": "宋茜沈月秀场同框",
+      "onboard_time": 1684982608,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 131854,

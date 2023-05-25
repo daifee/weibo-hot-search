@@ -1,0 +1,410 @@
+{
+  "runTime": 1684982623993,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2150884,
+        "num": 2150884,
+        "word": "千万不要长期喝奶茶",
+        "onboard_time": 1684972223,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1976400,
+        "num": 1976400,
+        "word": "微信新增锁定功能",
+        "onboard_time": 1684974449,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 95011,
+        "num": 1736391,
+        "word": "坐高铁被窗外的中国基建所惊艳",
+        "onboard_time": 1684938092,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1499721,
+        "num": 1499721,
+        "word": "榴莲 贵",
+        "onboard_time": 1684978527,
+        "rank": 3,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 1184390,
+        "num": 1184390,
+        "word": "宋茜好辣",
+        "onboard_time": 1684976670,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 887037,
+        "num": 887037,
+        "word": "罗云熙不上综艺的原因",
+        "onboard_time": 1684971924,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 807500,
+        "num": 807500,
+        "word": "24岁研究生离世捐器官救多人",
+        "onboard_time": 1684979247,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 799544,
+        "num": 799544,
+        "word": "刘亚仁被人泼水",
+        "onboard_time": 1684980448,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 792392,
+        "num": 792392,
+        "word": "内娱综艺史上炸裂场面",
+        "onboard_time": 1684977152,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 514811,
+        "num": 514811,
+        "word": "易烊千玺是在撒娇吗",
+        "onboard_time": 1684977867,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 499987,
+        "num": 499987,
+        "word": "员工每天带薪拉屎3至6小时被解雇",
+        "onboard_time": 1684936892,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1046646,
+        "num": 486789,
+        "word": "山西失联身亡男孩生母聊天记录曝光",
+        "onboard_time": 1684970782,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461265,
+        "num": 461265,
+        "word": "护心十五集前后不是一个编剧",
+        "onboard_time": 1684980392,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 457771,
+        "num": 457771,
+        "word": "九鹭非香",
+        "onboard_time": 1684981288,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 454189,
+        "num": 454189,
+        "word": "谁给白鹿做的妆造",
+        "onboard_time": 1684937498,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 413091,
+        "num": 413091,
+        "word": "二阳",
+        "onboard_time": 1684979367,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365341,
+        "num": 365341,
+        "word": "杨紫表情管理",
+        "onboard_time": 1684969279,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 363939,
+        "num": 363939,
+        "word": "都不买榴莲我就放心了",
+        "onboard_time": 1684937793,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332129,
+        "num": 332129,
+        "word": "催收巨头湖南永雄宣布停业",
+        "onboard_time": 1684979848,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312529,
+        "num": 312529,
+        "word": "金玟庭的背",
+        "onboard_time": 1684977687,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 533354,
+        "num": 311540,
+        "word": "给狗买磨牙棒忘了看尺寸",
+        "onboard_time": 1684981230,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 407739,
+        "num": 306078,
+        "word": "辛巴",
+        "onboard_time": 1684980628,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 285225,
+        "num": 285225,
+        "word": "网传一大学所有饮品店禁止使用冰块",
+        "onboard_time": 1684957814,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252308,
+        "num": 252308,
+        "word": "奶奶出院后把小猫咪高兴坏了",
+        "onboard_time": 1684978468,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252176,
+        "num": 252176,
+        "word": "高叶cos的是谁",
+        "onboard_time": 1684978168,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233706,
+        "num": 233706,
+        "word": "当00后当了老师",
+        "onboard_time": 1684981168,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233080,
+        "num": 233080,
+        "word": "美国科技大亨用17岁儿子血浆换血",
+        "onboard_time": 1684943427,
+        "rank": 26,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 228449,
+        "num": 228449,
+        "word": "偷偷努力的感觉",
+        "onboard_time": 1684977031,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 228340,
+        "num": 228340,
+        "word": "毕业后做了日入万元的冰淇淋店主",
+        "onboard_time": 1684977152,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217080,
+        "num": 217080,
+        "word": "甲状腺结节发生率在20%以上",
+        "onboard_time": 1684971985,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209176,
+        "num": 209176,
+        "word": "北京和上海真的很不一样",
+        "onboard_time": 1684974268,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201440,
+        "num": 201440,
+        "word": "近亿只蝴蝶大爆发有多壮观",
+        "onboard_time": 1684980929,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200326,
+        "num": 200326,
+        "word": "腾讯视频电视剧必看榜",
+        "onboard_time": 1684974989,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197628,
+        "num": 197628,
+        "word": "刘亚仁逮捕令被驳回",
+        "onboard_time": 1684970302,
+        "rank": 33,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 195583,
+        "num": 195583,
+        "word": "北京二手房一天降价20万只求一卖",
+        "onboard_time": 1684982128,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193967,
+        "num": 193967,
+        "word": "苏醒晒陆虎的官宣朋友圈",
+        "onboard_time": 1684945584,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181708,
+        "num": 181708,
+        "word": "乃万加入NOUS",
+        "onboard_time": 1684974088,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180361,
+        "num": 180361,
+        "word": "公主小妹照进现实",
+        "onboard_time": 1684934370,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178813,
+        "num": 178813,
+        "word": "恩静",
+        "onboard_time": 1684972166,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170354,
+        "num": 170354,
+        "word": "兔头涨价",
+        "onboard_time": 1684976129,
+        "rank": 39,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 165046,
+        "num": 165046,
+        "word": "梅婷雨中撩发好美",
+        "onboard_time": 1684976490,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151435,
+        "num": 151435,
+        "word": "五月天北京演唱会二次开票",
+        "onboard_time": 1684975830,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148130,
+        "num": 148130,
+        "word": "赵露思换妆容",
+        "onboard_time": 1684938931,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146509,
+        "num": 146509,
+        "word": "不上综艺的明星",
+        "onboard_time": 1684982370,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144585,
+        "num": 144585,
+        "word": "柳智敏戛纳红毯戴的项链",
+        "onboard_time": 1684976552,
+        "rank": 44,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 143686,
+        "num": 143686,
+        "word": "老人突发心脏病交警秒掏救心丸",
+        "onboard_time": 1684977750,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137658,
+        "num": 137658,
+        "word": "RNG阵容",
+        "onboard_time": 1684974750,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132392,
+        "num": 132392,
+        "word": "宋茜沈月秀场同框",
+        "onboard_time": 1684982608,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 85822,
+        "num": 132366,
+        "word": "我推的孩子",
+        "onboard_time": 1684971624,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 84831,
+        "num": 132336,
+        "word": "索尼PlayStation游戏展",
+        "onboard_time": 1684977449,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见俄罗斯总理#"
+    }
+  }
+}
