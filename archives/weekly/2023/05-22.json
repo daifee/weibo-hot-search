@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1685050404427,
+  "endTime": 1685052950611,
   "band_list": [
     {
       "raw_hot": 3643134,
@@ -7755,6 +7755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174035,
+      "num": 174035,
+      "word": "23年没来往的继子获得天降遗产",
+      "onboard_time": 1685026534,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173861,
       "num": 173861,
       "word": "小慧君巧乐兹夫妇至今未公开道歉",
@@ -9067,12 +9075,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 100683,
+      "num": 100683,
+      "word": "女子心疼老人买光鹅蛋回家发现全坏",
+      "onboard_time": 1685040374,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99556,
       "num": 99556,
       "word": "张彬彬说吴倩刀子嘴豆腐心",
       "onboard_time": 1685031448,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 99168,
+      "num": 99168,
+      "word": "小学生校内被撞身亡校长被免职",
+      "onboard_time": 1685049673,
+      "rank": 44,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 98734,
@@ -9137,14 +9161,6 @@
       "onboard_time": 1684930888,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 94019,
-      "num": 94019,
-      "word": "23年没来往的继子获得天降遗产",
-      "onboard_time": 1685026534,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93755,
@@ -9241,14 +9257,6 @@
       "onboard_time": 1684982969,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 83070,
-      "num": 51270,
-      "word": "女子心疼老人买光鹅蛋回家发现全坏",
-      "onboard_time": 1685040374,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82475,
@@ -9753,14 +9761,6 @@
       "onboard_time": 1684953853,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 18598,
-      "num": 18598,
-      "word": "小学生校内被撞身亡校长被免职",
-      "onboard_time": 1685049673,
-      "rank": 44,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 17181,
