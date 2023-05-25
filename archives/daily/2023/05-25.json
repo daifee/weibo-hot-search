@@ -1,6 +1,6 @@
 {
   "startTime": 1684945355711,
-  "endTime": 1685021700550,
+  "endTime": 1685024149319,
   "band_list": [
     {
       "raw_hot": 3114274,
@@ -9,6 +9,30 @@
       "onboard_time": 1684983866,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2880950,
+      "num": 491369,
+      "word": "许嵩方 取证中",
+      "onboard_time": 1685020231,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2762043,
+      "num": 2762043,
+      "word": "吴倩三公 退赛",
+      "onboard_time": 1685022993,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2392815,
+      "num": 2392815,
+      "word": "王鹤棣虞书欣 二搭",
+      "onboard_time": 1685022334,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 2337196,
@@ -27,20 +51,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2303429,
+      "num": 2303429,
+      "word": "枪决通知短信",
+      "onboard_time": 1685021852,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2227237,
       "num": 2227237,
       "word": "千万不要长期喝奶茶",
       "onboard_time": 1684972223,
       "rank": 1,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2198792,
-      "num": 391838,
-      "word": "许嵩方 取证中",
-      "onboard_time": 1685020231,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1976400,
@@ -164,7 +188,7 @@
     },
     {
       "raw_hot": 1326594,
-      "num": 379959,
+      "num": 489181,
       "word": "海蝶音乐回应许嵩相关传闻",
       "onboard_time": 1685017709,
       "rank": 14,
@@ -227,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1048463,
+      "num": 1048463,
+      "word": "网友挑战把娄艺潇p回胡一菲",
+      "onboard_time": 1685021009,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1042907,
       "num": 935246,
       "word": "员工每天带薪拉屎3至6小时被解雇",
@@ -283,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 895247,
+      "num": 895247,
+      "word": "43岁的张娜拉",
+      "onboard_time": 1685022393,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 881913,
       "num": 881913,
       "word": "她背诵的不是课文是全班的希望",
@@ -324,7 +364,7 @@
     },
     {
       "raw_hot": 759280,
-      "num": 370270,
+      "num": 467131,
       "word": "第一次见到女爱豆提到卫生巾",
       "onboard_time": 1685014046,
       "rank": 31,
@@ -353,6 +393,14 @@
       "onboard_time": 1684995450,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 732233,
+      "num": 732233,
+      "word": "阿里巴巴今年计划招聘15000人",
+      "onboard_time": 1685021971,
+      "rank": 7,
+      "category": "科技"
     },
     {
       "raw_hot": 705210,
@@ -393,6 +441,14 @@
       "onboard_time": 1684937498,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 640248,
+      "num": 486727,
+      "word": "校内被车撞倒身亡的孩子母亲首次发声",
+      "onboard_time": 1685021491,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 628526,
@@ -619,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 453937,
+      "num": 453937,
+      "word": "王俊凯王源都在重庆",
+      "onboard_time": 1685021552,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 445141,
       "num": 445141,
       "word": "六点六",
@@ -747,14 +811,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 394415,
-      "num": 394415,
-      "word": "网友挑战把娄艺潇p回胡一菲",
-      "onboard_time": 1685021009,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 392458,
       "num": 343578,
       "word": "北京和上海真的很不一样",
@@ -827,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 374288,
+      "num": 374288,
+      "word": "周也 白无常妆",
+      "onboard_time": 1685021130,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 371840,
       "num": 592367,
       "word": "男子钓鱼钓到金戒指卖了7740元",
@@ -859,12 +923,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 358700,
+      "num": 358700,
+      "word": "高叶 王真儿",
+      "onboard_time": 1685022813,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 357108,
       "num": 357108,
       "word": "英伟达",
       "onboard_time": 1684973790,
       "rank": 18,
       "category": "科技"
+    },
+    {
+      "raw_hot": 352708,
+      "num": 352708,
+      "word": "孙颖莎4比0申裕斌",
+      "onboard_time": 1685023415,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 349582,
@@ -1179,6 +1259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 267647,
+      "num": 267647,
+      "word": "ENHYPEN修改ending动作",
+      "onboard_time": 1685022633,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 265744,
       "num": 265744,
       "word": "宁艺卓水光肌",
@@ -1240,14 +1328,6 @@
       "word": "aespa戛纳妆造",
       "onboard_time": 1684939233,
       "rank": 18,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 246085,
-      "num": 246085,
-      "word": "周也 白无常妆",
-      "onboard_time": 1685021130,
-      "rank": 25,
       "category": "影视"
     },
     {
@@ -1339,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232616,
+      "num": 232616,
+      "word": "阿里巴巴回应裁员",
+      "onboard_time": 1685022934,
+      "rank": 28,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 232156,
       "num": 232156,
       "word": "我推的孩子",
@@ -1411,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222275,
+      "num": 222275,
+      "word": "巩俐郭晶晶同框",
+      "onboard_time": 1685021733,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220919,
       "num": 218210,
       "word": "原来长相思十年前就找过杨紫",
@@ -1448,6 +1544,30 @@
       "word": "护心",
       "onboard_time": 1685010207,
       "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 212753,
+      "num": 212753,
+      "word": "易烊千玺杨洋白敬亭栩栩华生大片",
+      "onboard_time": 1685022993,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 212136,
+      "num": 212136,
+      "word": "电视剧熟年",
+      "onboard_time": 1685023894,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 210164,
+      "num": 210164,
+      "word": "宋雨琦客串绝世网红",
+      "onboard_time": 1685023714,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -1489,6 +1609,14 @@
       "onboard_time": 1684984649,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206385,
+      "num": 212322,
+      "word": "网友收到强制枪毙诈骗短信",
+      "onboard_time": 1685022813,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205812,
@@ -1595,6 +1723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188681,
+      "num": 188681,
+      "word": "当你在零下50度漠河点外卖时",
+      "onboard_time": 1685023654,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187787,
       "num": 187787,
       "word": "玫瑰故事",
@@ -1651,6 +1787,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 178813,
+      "num": 178813,
+      "word": "王俊凯金星橙汁对嘴配音视频",
+      "onboard_time": 1685023654,
+      "rank": 44,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 178369,
       "num": 178369,
       "word": "相亲对象每天只跟我聊工作问题",
@@ -1699,14 +1843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169071,
-      "num": 169071,
-      "word": "王俊凯王源都在重庆",
-      "onboard_time": 1685021552,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 167762,
       "num": 167762,
       "word": "老人突发心脏病交警秒掏救心丸",
@@ -1737,6 +1873,22 @@
       "onboard_time": 1685011529,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161819,
+      "num": 161819,
+      "word": "奔跑吧泥猴",
+      "onboard_time": 1685023773,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 161344,
+      "num": 161344,
+      "word": "国产数码宝贝剧透",
+      "onboard_time": 1685023594,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 161027,
@@ -1907,6 +2059,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 140440,
+      "num": 158012,
+      "word": "姚晨不热吗",
+      "onboard_time": 1685024137,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 139767,
       "num": 139767,
       "word": "白宇说那你们想多了",
@@ -1969,14 +2129,6 @@
       "onboard_time": 1685020530,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115948,
-      "num": 115948,
-      "word": "校内被车撞倒身亡的孩子母亲首次发声",
-      "onboard_time": 1685021491,
-      "rank": 46,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 115838,
@@ -2107,6 +2259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 83889,
+      "num": 483686,
+      "word": "上海街头现丁达尔效应",
+      "onboard_time": 1685023232,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83268,
       "num": 174560,
       "word": "以闪亮之名",
@@ -2195,6 +2355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32260,
+      "num": 2316905,
+      "word": "30秒看中关村论坛展览的前沿科技",
+      "onboard_time": 1685020652,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29344,
       "num": 29344,
       "word": "钟楚曦戛纳选裙子的秘诀",
@@ -2224,14 +2392,6 @@
       "word": "站在珠峰蓝色冰川里是什么体验",
       "onboard_time": 1685017468,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21517,
-      "num": 548220,
-      "word": "30秒看中关村论坛展览的前沿科技",
-      "onboard_time": 1685020652,
-      "rank": 40,
       "category": "社会新闻"
     },
     {

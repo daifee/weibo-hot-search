@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1685021700550,
+  "endTime": 1685024149319,
   "band_list": [
     {
       "raw_hot": 3643134,
@@ -75,6 +75,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2880950,
+      "num": 491369,
+      "word": "许嵩方 取证中",
+      "onboard_time": 1685020231,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2879677,
       "num": 741454,
       "word": "陆虎陈曌旭领证",
@@ -97,6 +105,14 @@
       "onboard_time": 1684722387,
       "rank": 27,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 2762043,
+      "num": 2762043,
+      "word": "吴倩三公 退赛",
+      "onboard_time": 1685022993,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2735051,
@@ -163,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2392815,
+      "num": 2392815,
+      "word": "王鹤棣虞书欣 二搭",
+      "onboard_time": 1685022334,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2337196,
       "num": 615658,
       "word": "吴宣仪2021年收入",
@@ -177,6 +201,14 @@
       "onboard_time": 1684994607,
       "rank": 10,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2303429,
+      "num": 2303429,
+      "word": "枪决通知短信",
+      "onboard_time": 1685021852,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2280248,
@@ -201,14 +233,6 @@
       "onboard_time": 1684972223,
       "rank": 1,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2198792,
-      "num": 391838,
-      "word": "许嵩方 取证中",
-      "onboard_time": 1685020231,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 2175664,
@@ -724,7 +748,7 @@
     },
     {
       "raw_hot": 1326594,
-      "num": 379959,
+      "num": 489181,
       "word": "海蝶音乐回应许嵩相关传闻",
       "onboard_time": 1685017709,
       "rank": 14,
@@ -1115,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1048463,
+      "num": 1048463,
+      "word": "网友挑战把娄艺潇p回胡一菲",
+      "onboard_time": 1685021009,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1048303,
       "num": 1048303,
       "word": "孙俪杨幂都请了表演老师",
@@ -1361,6 +1393,14 @@
       "onboard_time": 1684802847,
       "rank": 5,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 895247,
+      "num": 895247,
+      "word": "43岁的张娜拉",
+      "onboard_time": 1685022393,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 888378,
@@ -1644,7 +1684,7 @@
     },
     {
       "raw_hot": 759280,
-      "num": 370270,
+      "num": 467131,
       "word": "第一次见到女爱豆提到卫生巾",
       "onboard_time": 1685014046,
       "rank": 31,
@@ -1704,6 +1744,14 @@
       "word": "boss直聘崩了",
       "onboard_time": 1684893087,
       "rank": 42,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 732233,
+      "num": 732233,
+      "word": "阿里巴巴今年计划招聘15000人",
+      "onboard_time": 1685021971,
+      "rank": 7,
       "category": "科技"
     },
     {
@@ -1913,6 +1961,14 @@
       "onboard_time": 1684680335,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 640248,
+      "num": 486727,
+      "word": "校内被车撞倒身亡的孩子母亲首次发声",
+      "onboard_time": 1685021491,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 637277,
@@ -2835,6 +2891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 453937,
+      "num": 453937,
+      "word": "王俊凯王源都在重庆",
+      "onboard_time": 1685021552,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 453240,
       "num": 453240,
       "word": "悄悄拍了同学1000多张照片",
@@ -3307,14 +3371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 394415,
-      "num": 394415,
-      "word": "网友挑战把娄艺潇p回胡一菲",
-      "onboard_time": 1685021009,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 392458,
       "num": 343578,
       "word": "北京和上海真的很不一样",
@@ -3547,6 +3603,14 @@
       "category": "情感,作品衍生"
     },
     {
+      "raw_hot": 374288,
+      "num": 374288,
+      "word": "周也 白无常妆",
+      "onboard_time": 1685021130,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 373729,
       "num": 373729,
       "word": "Uzi要去干什么",
@@ -3699,6 +3763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 358700,
+      "num": 358700,
+      "word": "高叶 王真儿",
+      "onboard_time": 1685022813,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 358508,
       "num": 293526,
       "word": "你可以接受婚前同居吗",
@@ -3736,6 +3808,14 @@
       "word": "凯尔特人vs热火",
       "onboard_time": 1684720109,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 352708,
+      "num": 352708,
+      "word": "孙颖莎4比0申裕斌",
+      "onboard_time": 1685023415,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -5083,6 +5163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 267647,
+      "num": 267647,
+      "word": "ENHYPEN修改ending动作",
+      "onboard_time": 1685022633,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 266997,
       "num": 210807,
       "word": "袁泉",
@@ -5408,14 +5496,6 @@
       "word": "上届华表奖TFBOYS还合体走红毯",
       "onboard_time": 1684743867,
       "rank": 29,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 246085,
-      "num": 246085,
-      "word": "周也 白无常妆",
-      "onboard_time": 1685021130,
-      "rank": 25,
       "category": "影视"
     },
     {
@@ -5811,6 +5891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232616,
+      "num": 232616,
+      "word": "阿里巴巴回应裁员",
+      "onboard_time": 1685022934,
+      "rank": 28,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 232309,
       "num": 232309,
       "word": "身边初中毕业但很厉害的人",
@@ -6107,6 +6195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222275,
+      "num": 222275,
+      "word": "巩俐郭晶晶同框",
+      "onboard_time": 1685021733,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221404,
       "num": 214303,
       "word": "LWX登场LPL赛区七周年",
@@ -6339,11 +6435,27 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 212753,
+      "num": 212753,
+      "word": "易烊千玺杨洋白敬亭栩栩华生大片",
+      "onboard_time": 1685022993,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212475,
       "num": 212036,
       "word": "原来华表奖是有奖金的",
       "onboard_time": 1684916310,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 212136,
+      "num": 212136,
+      "word": "电视剧熟年",
+      "onboard_time": 1685023894,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -6369,6 +6481,14 @@
       "onboard_time": 1684844071,
       "rank": 25,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 210164,
+      "num": 210164,
+      "word": "宋雨琦客串绝世网红",
+      "onboard_time": 1685023714,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 210144,
@@ -6457,6 +6577,14 @@
       "onboard_time": 1684984649,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206385,
+      "num": 212322,
+      "word": "网友收到强制枪毙诈骗短信",
+      "onboard_time": 1685022813,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205640,
@@ -7003,6 +7131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188681,
+      "num": 188681,
+      "word": "当你在零下50度漠河点外卖时",
+      "onboard_time": 1685023654,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188325,
       "num": 183423,
       "word": "原来狂飙王秘书有名字",
@@ -7307,6 +7443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 178813,
+      "num": 178813,
+      "word": "王俊凯金星橙汁对嘴配音视频",
+      "onboard_time": 1685023654,
+      "rank": 44,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 178727,
       "num": 178727,
       "word": "如何看待国泰航空涉事空乘被解聘",
@@ -7571,14 +7715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169071,
-      "num": 169071,
-      "word": "王俊凯王源都在重庆",
-      "onboard_time": 1685021552,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 168433,
       "num": 168433,
       "word": "如何区分呼吸道合胞病毒和流感",
@@ -7705,6 +7841,22 @@
       "onboard_time": 1684796597,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161819,
+      "num": 161819,
+      "word": "奔跑吧泥猴",
+      "onboard_time": 1685023773,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 161344,
+      "num": 161344,
+      "word": "国产数码宝贝剧透",
+      "onboard_time": 1685023594,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 161027,
@@ -8171,6 +8323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140440,
+      "num": 158012,
+      "word": "姚晨不热吗",
+      "onboard_time": 1685024137,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 139767,
       "num": 139767,
       "word": "白宇说那你们想多了",
@@ -8547,14 +8707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115948,
-      "num": 115948,
-      "word": "校内被车撞倒身亡的孩子母亲首次发声",
-      "onboard_time": 1685021491,
-      "rank": 46,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 115838,
       "num": 115838,
       "word": "大学生非牛顿流体的素质",
@@ -8897,6 +9049,14 @@
       "onboard_time": 1684845570,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 83889,
+      "num": 483686,
+      "word": "上海街头现丁达尔效应",
+      "onboard_time": 1685023232,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83587,
@@ -9251,6 +9411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 32260,
+      "num": 2316905,
+      "word": "30秒看中关村论坛展览的前沿科技",
+      "onboard_time": 1685020652,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29942,
       "num": 40525,
       "word": "毕业季哭得最惨的那个人",
@@ -9328,14 +9496,6 @@
       "word": "全网寻找的跪地救人兵哥哥找到了",
       "onboard_time": 1684898549,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21517,
-      "num": 548220,
-      "word": "30秒看中关村论坛展览的前沿科技",
-      "onboard_time": 1685020652,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
