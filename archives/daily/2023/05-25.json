@@ -1,6 +1,6 @@
 {
   "startTime": 1684945355711,
-  "endTime": 1685019052230,
+  "endTime": 1685020889057,
   "band_list": [
     {
       "raw_hot": 3114274,
@@ -155,6 +155,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1326594,
+      "num": 379959,
+      "word": "海蝶音乐回应许嵩相关传闻",
+      "onboard_time": 1685017709,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1215440,
       "num": 1215440,
       "word": "内娱综艺史上炸裂场面",
@@ -177,6 +185,14 @@
       "onboard_time": 1685010388,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1168115,
+      "num": 1029665,
+      "word": "恋踩癖男子藏袋内呼吸起伏明显",
+      "onboard_time": 1685016328,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1129825,
@@ -208,22 +224,6 @@
       "word": "员工每天带薪拉屎3至6小时被解雇",
       "onboard_time": 1684936892,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1033221,
-      "num": 379959,
-      "word": "海蝶音乐回应许嵩相关传闻",
-      "onboard_time": 1685017709,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1029665,
-      "num": 1029665,
-      "word": "恋踩癖男子藏袋内呼吸起伏明显",
-      "onboard_time": 1685016328,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -313,6 +313,14 @@
       "onboard_time": 1685007568,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 781938,
+      "num": 368266,
+      "word": "许嵩方 取证中",
+      "onboard_time": 1685020231,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 759280,
@@ -441,6 +449,14 @@
       "onboard_time": 1684935391,
       "rank": 9,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 551958,
+      "num": 551958,
+      "word": "杨幂或将客串刘诗诗新剧",
+      "onboard_time": 1685019090,
+      "rank": 2,
+      "category": "影视"
     },
     {
       "raw_hot": 551315,
@@ -635,6 +651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 435070,
+      "num": 435070,
+      "word": "六点六",
+      "onboard_time": 1685017168,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 425005,
       "num": 425005,
       "word": "杨迪我分完了张柏芝我离完了",
@@ -700,7 +724,7 @@
     },
     {
       "raw_hot": 404895,
-      "num": 256960,
+      "num": 306674,
       "word": "22岁姑娘因男友减到55斤进医院",
       "onboard_time": 1685016266,
       "rank": 20,
@@ -819,12 +843,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 364624,
-      "num": 364624,
-      "word": "六点六",
-      "onboard_time": 1685017168,
-      "rank": 24,
-      "category": "游戏"
+      "raw_hot": 365401,
+      "num": 365401,
+      "word": "宁波一医院突发火灾",
+      "onboard_time": 1685018248,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357108,
@@ -884,7 +908,7 @@
     },
     {
       "raw_hot": 340706,
-      "num": 256745,
+      "num": 300438,
       "word": "延吉偶遇Angelababy",
       "onboard_time": 1685015787,
       "rank": 21,
@@ -1089,6 +1113,14 @@
       "onboard_time": 1685005828,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276981,
+      "num": 276981,
+      "word": "樊振东王楚钦男双晋级四强",
+      "onboard_time": 1685019510,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 272577,
@@ -1379,20 +1411,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 211120,
-      "num": 211120,
-      "word": "宁波一医院突发火灾",
-      "onboard_time": 1685018248,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210144,
       "num": 210144,
       "word": "五月天北京演唱会二次开票",
       "onboard_time": 1684975830,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 209550,
+      "num": 209550,
+      "word": "邢昭林回应带弟弟参加酒局",
+      "onboard_time": 1685020168,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 209091,
@@ -1425,6 +1457,14 @@
       "onboard_time": 1684984649,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205842,
+      "num": 205842,
+      "word": "别被奇怪的人偷走能量",
+      "onboard_time": 1685017289,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 205812,
@@ -1497,6 +1537,22 @@
       "onboard_time": 1684992151,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192891,
+      "num": 192891,
+      "word": "国泰航空中国客源超67%",
+      "onboard_time": 1685015428,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191732,
+      "num": 191732,
+      "word": "小胖头",
+      "onboard_time": 1685020109,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 190659,
@@ -1811,14 +1867,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 140356,
-      "num": 140356,
-      "word": "别被奇怪的人偷走能量",
-      "onboard_time": 1685017289,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 139767,
       "num": 139767,
       "word": "白宇说那你们想多了",
@@ -1833,14 +1881,6 @@
       "onboard_time": 1684999229,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 137629,
-      "num": 137629,
-      "word": "国泰航空中国客源超67%",
-      "onboard_time": 1685015428,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132770,
@@ -1907,6 +1947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106968,
+      "num": 106968,
+      "word": "民警一把接过卡喉女童30秒救回",
+      "onboard_time": 1685020530,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106219,
       "num": 106219,
       "word": "男子凌晨4点去给妈妈擦墓碑",
@@ -1929,6 +1977,14 @@
       "onboard_time": 1685006246,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104381,
+      "num": 104381,
+      "word": "大学生非牛顿流体的素质",
+      "onboard_time": 1685019448,
+      "rank": 48,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 104362,
@@ -2075,11 +2131,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34651,
+      "raw_hot": 41151,
       "num": 809070,
       "word": "现在进入神舟十六号时间",
       "onboard_time": 1685016572,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36630,
+      "num": 366861,
+      "word": "视障女孩摸着盲文朗诵黄河颂",
+      "onboard_time": 1685019628,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2145,6 +2209,22 @@
       "onboard_time": 1684942291,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 8383,
+      "num": 157929,
+      "word": "30秒看中关村论坛展览的前沿科技",
+      "onboard_time": 1685020652,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5860,
+      "num": 193500,
+      "word": "63年前的今天中国人首次登顶珠峰",
+      "onboard_time": 1685020771,
+      "rank": 30,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -2162,6 +2242,9 @@
     },
     {
       "word": "#欧亚经济联盟第二届欧亚经济论坛全会#"
+    },
+    {
+      "word": "#中美将就中美经贸关系等问题进行交流#"
     }
   ]
 }
