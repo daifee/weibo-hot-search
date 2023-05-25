@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685025195359,
+  "endTime": 1685027797538,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -3171,6 +3171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1623078,
+      "num": 1623078,
+      "word": "43岁的张娜拉",
+      "onboard_time": 1685022393,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1622978,
       "num": 1622978,
       "word": "笑果承认存在侥幸心理",
@@ -4457,14 +4465,6 @@
       "onboard_time": 1683881368,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1390308,
-      "num": 1390308,
-      "word": "43岁的张娜拉",
-      "onboard_time": 1685022393,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1390142,
@@ -8275,6 +8275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 889343,
+      "num": 889343,
+      "word": "校内被车撞倒身亡的孩子母亲首次发声",
+      "onboard_time": 1685021491,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 889064,
       "num": 847623,
       "word": "家属称事发前大女儿喊爸爸救命",
@@ -9089,14 +9097,6 @@
       "onboard_time": 1684293393,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 812159,
-      "num": 812159,
-      "word": "校内被车撞倒身亡的孩子母亲首次发声",
-      "onboard_time": 1685021491,
-      "rank": 46,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 811411,
@@ -11569,6 +11569,14 @@
       "onboard_time": 1683089673,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 624417,
+      "num": 624417,
+      "word": "皓嫣",
+      "onboard_time": 1685024555,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 624308,
@@ -18740,7 +18748,7 @@
     },
     {
       "raw_hot": 404895,
-      "num": 306674,
+      "num": 356149,
       "word": "22岁姑娘因男友减到55斤进医院",
       "onboard_time": 1685016266,
       "rank": 20,
@@ -20081,6 +20089,14 @@
       "onboard_time": 1683990332,
       "rank": 33,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 380918,
+      "num": 380918,
+      "word": "狐妖小红娘",
+      "onboard_time": 1683707970,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 380804,
@@ -23539,6 +23555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 330453,
+      "num": 330453,
+      "word": "司机下车查看轮胎遭后车撞飞身亡",
+      "onboard_time": 1685026293,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330330,
       "num": 330330,
       "word": "室友尖叫导致我听力下降",
@@ -23569,6 +23593,14 @@
       "onboard_time": 1684911090,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 329881,
+      "num": 242149,
+      "word": "被温州人的订婚喜糖震惊到了",
+      "onboard_time": 1685026354,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 329873,
@@ -23945,14 +23977,6 @@
       "onboard_time": 1682997267,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 324984,
-      "num": 324984,
-      "word": "皓嫣",
-      "onboard_time": 1685024555,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 324912,
@@ -25257,6 +25281,14 @@
       "onboard_time": 1683990874,
       "rank": 48,
       "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 307528,
+      "num": 263819,
+      "word": "易烊千玺杨洋白敬亭栩栩华生大片",
+      "onboard_time": 1685022993,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 307442,
@@ -26979,6 +27011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 287525,
+      "num": 261203,
+      "word": "内娱仪态的神",
+      "onboard_time": 1685025393,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 287510,
       "num": 218549,
       "word": "大佛每天流800次眼泪",
@@ -27561,14 +27601,6 @@
       "onboard_time": 1684939113,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 282258,
-      "num": 254565,
-      "word": "易烊千玺杨洋白敬亭栩栩华生大片",
-      "onboard_time": 1685022993,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 282249,
@@ -28281,6 +28313,14 @@
       "onboard_time": 1684228468,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 274217,
+      "num": 483686,
+      "word": "上海街头现丁达尔效应",
+      "onboard_time": 1685023232,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274160,
@@ -30163,6 +30203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256229,
+      "num": 256229,
+      "word": "白鹿给孙珍妮擦脸",
+      "onboard_time": 1685025274,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256056,
       "num": 256056,
       "word": "山东姑娘连续2天捐干细胞救活男子",
@@ -31217,6 +31265,14 @@
       "onboard_time": 1682989648,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 246638,
+      "num": 246638,
+      "word": "国产数码宝贝剧透",
+      "onboard_time": 1685023594,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 246562,
@@ -32947,14 +33003,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 234397,
-      "num": 234397,
-      "word": "狐妖小红娘",
-      "onboard_time": 1683707970,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 234380,
       "num": 228940,
       "word": "周星驰想看人生路不熟",
@@ -33011,6 +33059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233900,
+      "num": 233900,
+      "word": "武汉校内被撞身亡小学生",
+      "onboard_time": 1685027016,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233688,
       "num": 233688,
       "word": "晚上睡觉时千万不要戴耳机",
@@ -33065,6 +33121,14 @@
       "onboard_time": 1683204210,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 233513,
+      "num": 233513,
+      "word": "freenbecky",
+      "onboard_time": 1685025874,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 233444,
@@ -37243,6 +37307,14 @@
       "category": "社会新闻,综艺"
     },
     {
+      "raw_hot": 204476,
+      "num": 204476,
+      "word": "王俊凯金星橙汁对嘴配音视频",
+      "onboard_time": 1685023654,
+      "rank": 44,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 204469,
       "num": 204469,
       "word": "广东人穿洞洞鞋要小心",
@@ -38227,6 +38299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197949,
+      "num": 197949,
+      "word": "武汉打雷",
+      "onboard_time": 1685027493,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197751,
       "num": 285988,
       "word": "胡金秋受伤",
@@ -38857,14 +38937,6 @@
       "onboard_time": 1684243833,
       "rank": 41,
       "category": "网红"
-    },
-    {
-      "raw_hot": 194469,
-      "num": 194469,
-      "word": "王俊凯金星橙汁对嘴配音视频",
-      "onboard_time": 1685023654,
-      "rank": 44,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 194457,
@@ -40315,6 +40387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 186110,
+      "num": 186110,
+      "word": "曹骏说不知道娱乐圈要什么样的性格",
+      "onboard_time": 1685027555,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 186098,
       "num": 186098,
       "word": "侯明昊周也护心豆瓣7.5",
@@ -40521,6 +40601,14 @@
       "onboard_time": 1683784768,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184885,
+      "num": 184885,
+      "word": "猫猫我啊专业打假",
+      "onboard_time": 1685024496,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 184730,
@@ -42499,14 +42587,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 173105,
-      "num": 483686,
-      "word": "上海街头现丁达尔效应",
-      "onboard_time": 1685023232,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173094,
       "num": 173094,
       "word": "漫长的季节豆瓣涨分9.3",
@@ -43225,14 +43305,6 @@
       "onboard_time": 1683455430,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167912,
-      "num": 167912,
-      "word": "国产数码宝贝剧透",
-      "onboard_time": 1685023594,
-      "rank": 46,
-      "category": "动漫"
     },
     {
       "raw_hot": 167903,
@@ -44329,6 +44401,14 @@
       "onboard_time": 1683891687,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 160182,
+      "num": 160182,
+      "word": "平安北京 无语死了",
+      "onboard_time": 1685027675,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160092,
@@ -45441,14 +45521,6 @@
       "onboard_time": 1683336208,
       "rank": 42,
       "category": "情感,旅游"
-    },
-    {
-      "raw_hot": 152776,
-      "num": 152776,
-      "word": "猫猫我啊专业打假",
-      "onboard_time": 1685024496,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 152758,
@@ -51929,6 +52001,14 @@
       "onboard_time": 1684144467,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 77573,
+      "num": 242980,
+      "word": "钱七虎多年来已累计捐赠超千万",
+      "onboard_time": 1685026775,
+      "rank": 29,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 77427,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1685027797538,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2784235,
+        "num": 2784235,
+        "word": "枪决通知短信",
+        "onboard_time": 1685021852,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2266663,
+        "num": 2266663,
+        "word": "王鹤棣虞书欣 二搭",
+        "onboard_time": 1685022334,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25401,
+        "num": 2256605,
+        "word": "30秒看中关村论坛展览的前沿科技",
+        "onboard_time": 1685020652,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2251679,
+        "num": 2251679,
+        "word": "吴倩三公 退赛",
+        "onboard_time": 1685022993,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1623078,
+        "num": 1623078,
+        "word": "43岁的张娜拉",
+        "onboard_time": 1685022393,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 889343,
+        "num": 889343,
+        "word": "校内被车撞倒身亡的孩子母亲首次发声",
+        "onboard_time": 1685021491,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 624417,
+        "num": 624417,
+        "word": "皓嫣",
+        "onboard_time": 1685024555,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 563996,
+        "num": 563996,
+        "word": "阿里巴巴今年计划招聘15000人",
+        "onboard_time": 1685021971,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 501523,
+        "num": 501523,
+        "word": "金星 橙汁",
+        "onboard_time": 1685009489,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 475937,
+        "num": 475937,
+        "word": "网友挑战把娄艺潇p回胡一菲",
+        "onboard_time": 1685021009,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1852940,
+        "num": 459761,
+        "word": "许嵩方 取证中",
+        "onboard_time": 1685020231,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442981,
+        "num": 442981,
+        "word": "王俊凯王源都在重庆",
+        "onboard_time": 1685021552,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412756,
+        "num": 412756,
+        "word": "冯小刚女儿撞脸小S二女儿",
+        "onboard_time": 1685010388,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 404545,
+        "num": 404545,
+        "word": "原来睡着后的世界是这样的",
+        "onboard_time": 1685013326,
+        "rank": 13,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 399357,
+        "num": 399357,
+        "word": "租客仅剩13元花11元买瓜探望房东",
+        "onboard_time": 1685008050,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388975,
+        "num": 388975,
+        "word": "高叶 王真儿",
+        "onboard_time": 1685022813,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380918,
+        "num": 380918,
+        "word": "狐妖小红娘",
+        "onboard_time": 1685025097,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 356149,
+        "num": 356149,
+        "word": "22岁姑娘因男友减到55斤进医院",
+        "onboard_time": 1685016266,
+        "rank": 17,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 330453,
+        "num": 330453,
+        "word": "司机下车查看轮胎遭后车撞飞身亡",
+        "onboard_time": 1685026293,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274217,
+        "num": 274217,
+        "word": "上海街头现丁达尔效应",
+        "onboard_time": 1685023232,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350443,
+        "num": 274112,
+        "word": "第一次见到女爱豆提到卫生巾",
+        "onboard_time": 1685014046,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349407,
+        "num": 272065,
+        "word": "吴宣仪2021年收入",
+        "onboard_time": 1685005648,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268745,
+        "num": 268745,
+        "word": "上海迪士尼6月23日起门票调价",
+        "onboard_time": 1685002709,
+        "rank": 22,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 268153,
+        "num": 268153,
+        "word": "二阳",
+        "onboard_time": 1685025337,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264803,
+        "num": 264803,
+        "word": "女孩剪了一撮头发家长赔了1万多",
+        "onboard_time": 1685004689,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307528,
+        "num": 263819,
+        "word": "易烊千玺杨洋白敬亭栩栩华生大片",
+        "onboard_time": 1685022993,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287525,
+        "num": 261203,
+        "word": "内娱仪态的神",
+        "onboard_time": 1685025393,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256229,
+        "num": 256229,
+        "word": "白鹿给孙珍妮擦脸",
+        "onboard_time": 1685025274,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246638,
+        "num": 246638,
+        "word": "国产数码宝贝剧透",
+        "onboard_time": 1685023594,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 77573,
+        "num": 242980,
+        "word": "钱七虎多年来已累计捐赠超千万",
+        "onboard_time": 1685026775,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 329881,
+        "num": 242149,
+        "word": "被温州人的订婚喜糖震惊到了",
+        "onboard_time": 1685026354,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240854,
+        "num": 240854,
+        "word": "ENHYPEN修改ending动作",
+        "onboard_time": 1685022633,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233275,
+        "num": 238057,
+        "word": "当你在零下50度漠河点外卖时",
+        "onboard_time": 1685023654,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358797,
+        "num": 237663,
+        "word": "恋踩癖男子藏袋内呼吸起伏明显",
+        "onboard_time": 1685016328,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237233,
+        "num": 237233,
+        "word": "姚晨不热吗",
+        "onboard_time": 1685024137,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233900,
+        "num": 233900,
+        "word": "武汉校内被撞身亡小学生",
+        "onboard_time": 1685027016,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233513,
+        "num": 233513,
+        "word": "freenbecky",
+        "onboard_time": 1685025874,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212310,
+        "num": 212310,
+        "word": "宋雨琦客串绝世网红",
+        "onboard_time": 1685023714,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204476,
+        "num": 204476,
+        "word": "王俊凯金星橙汁对嘴配音视频",
+        "onboard_time": 1685023654,
+        "rank": 38,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 197949,
+        "num": 197949,
+        "word": "武汉打雷",
+        "onboard_time": 1685027493,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189944,
+        "num": 189944,
+        "word": "国泰航空曾被曝员工拒绝使用中文名名牌",
+        "onboard_time": 1685008711,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186110,
+        "num": 186110,
+        "word": "曹骏说不知道娱乐圈要什么样的性格",
+        "onboard_time": 1685027555,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184885,
+        "num": 184885,
+        "word": "猫猫我啊专业打假",
+        "onboard_time": 1685024496,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181604,
+        "num": 181604,
+        "word": "周也 白无常妆",
+        "onboard_time": 1685021130,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178487,
+        "num": 178487,
+        "word": "阿里巴巴回应裁员",
+        "onboard_time": 1685022934,
+        "rank": 44,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 168208,
+        "num": 168208,
+        "word": "延吉偶遇Angelababy",
+        "onboard_time": 1685015787,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137599,
+        "num": 165599,
+        "word": "教育局通报小学生校内被碾压致死",
+        "onboard_time": 1685007508,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 165513,
+        "num": 165513,
+        "word": "海蝶音乐回应许嵩相关传闻",
+        "onboard_time": 1685017709,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160182,
+        "num": 160182,
+        "word": "平安北京 无语死了",
+        "onboard_time": 1685027675,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160094,
+        "num": 160094,
+        "word": "奥迪工程车",
+        "onboard_time": 1685014768,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#欧亚经济联盟第二届欧亚经济论坛全会#"
+    }
+  }
+}

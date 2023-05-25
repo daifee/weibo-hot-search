@@ -1,6 +1,6 @@
 {
   "startTime": 1684945355711,
-  "endTime": 1685025195359,
+  "endTime": 1685027797538,
   "band_list": [
     {
       "raw_hot": 3114274,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1623078,
+      "num": 1623078,
+      "word": "43岁的张娜拉",
+      "onboard_time": 1685022393,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1576864,
       "num": 788163,
       "word": "校内撞死小学生教师或涉两个罪名",
@@ -145,14 +153,6 @@
       "onboard_time": 1684995329,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1390308,
-      "num": 1390308,
-      "word": "43岁的张娜拉",
-      "onboard_time": 1685022393,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1390142,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 889343,
+      "num": 889343,
+      "word": "校内被车撞倒身亡的孩子母亲首次发声",
+      "onboard_time": 1685021491,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 881913,
       "num": 881913,
       "word": "她背诵的不是课文是全班的希望",
@@ -353,14 +361,6 @@
       "onboard_time": 1684982847,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 812159,
-      "num": 812159,
-      "word": "校内被车撞倒身亡的孩子母亲首次发声",
-      "onboard_time": 1685021491,
-      "rank": 46,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 803722,
@@ -457,6 +457,14 @@
       "onboard_time": 1684938931,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 624417,
+      "num": 624417,
+      "word": "皓嫣",
+      "onboard_time": 1685024555,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 621117,
@@ -804,7 +812,7 @@
     },
     {
       "raw_hot": 404895,
-      "num": 306674,
+      "num": 356149,
       "word": "22岁姑娘因男友减到55斤进医院",
       "onboard_time": 1685016266,
       "rank": 20,
@@ -857,6 +865,14 @@
       "onboard_time": 1684994669,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380918,
+      "num": 380918,
+      "word": "狐妖小红娘",
+      "onboard_time": 1685025097,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 379868,
@@ -1051,20 +1067,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330453,
+      "num": 330453,
+      "word": "司机下车查看轮胎遭后车撞飞身亡",
+      "onboard_time": 1685026293,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329881,
+      "num": 242149,
+      "word": "被温州人的订婚喜糖震惊到了",
+      "onboard_time": 1685026354,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328232,
       "num": 328232,
       "word": "国泰",
       "onboard_time": 1684971504,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 324984,
-      "num": 324984,
-      "word": "皓嫣",
-      "onboard_time": 1685024555,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 319780,
@@ -1121,6 +1145,14 @@
       "onboard_time": 1684934191,
       "rank": 14,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 307528,
+      "num": 263819,
+      "word": "易烊千玺杨洋白敬亭栩栩华生大片",
+      "onboard_time": 1685022993,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 306746,
@@ -1211,6 +1243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 287525,
+      "num": 261203,
+      "word": "内娱仪态的神",
+      "onboard_time": 1685025393,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 284857,
       "num": 284857,
       "word": "邢昭林回应带弟弟参加酒局",
@@ -1227,14 +1267,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 282258,
-      "num": 254565,
-      "word": "易烊千玺杨洋白敬亭栩栩华生大片",
-      "onboard_time": 1685022993,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 279697,
       "num": 279697,
       "word": "花花一口苹果嚼40多下",
@@ -1249,6 +1281,14 @@
       "onboard_time": 1685019510,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 274217,
+      "num": 483686,
+      "word": "上海街头现丁达尔效应",
+      "onboard_time": 1685023232,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273344,
@@ -1347,6 +1387,14 @@
       "category": "科技,作品衍生"
     },
     {
+      "raw_hot": 256229,
+      "num": 256229,
+      "word": "白鹿给孙珍妮擦脸",
+      "onboard_time": 1685025274,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255452,
       "num": 255452,
       "word": "RNG阵容",
@@ -1369,6 +1417,14 @@
       "onboard_time": 1684939233,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 246638,
+      "num": 246638,
+      "word": "国产数码宝贝剧透",
+      "onboard_time": 1685023594,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 245100,
@@ -1457,6 +1513,22 @@
       "onboard_time": 1685021430,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233900,
+      "num": 233900,
+      "word": "武汉校内被撞身亡小学生",
+      "onboard_time": 1685027016,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233513,
+      "num": 233513,
+      "word": "freenbecky",
+      "onboard_time": 1685025874,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 232834,
@@ -1667,6 +1739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 204476,
+      "num": 204476,
+      "word": "王俊凯金星橙汁对嘴配音视频",
+      "onboard_time": 1685023654,
+      "rank": 44,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 201440,
       "num": 201440,
       "word": "近亿只蝴蝶大爆发有多壮观",
@@ -1681,6 +1761,14 @@
       "onboard_time": 1684992207,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 197949,
+      "num": 197949,
+      "word": "武汉打雷",
+      "onboard_time": 1685027493,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196883,
@@ -1713,14 +1801,6 @@
       "onboard_time": 1684975590,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194469,
-      "num": 194469,
-      "word": "王俊凯金星橙汁对嘴配音视频",
-      "onboard_time": 1685023654,
-      "rank": 44,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 193332,
@@ -1761,6 +1841,22 @@
       "onboard_time": 1684986749,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186110,
+      "num": 186110,
+      "word": "曹骏说不知道娱乐圈要什么样的性格",
+      "onboard_time": 1685027555,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 184885,
+      "num": 184885,
+      "word": "猫猫我啊专业打假",
+      "onboard_time": 1685024496,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 182462,
@@ -1835,14 +1931,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 173105,
-      "num": 483686,
-      "word": "上海街头现丁达尔效应",
-      "onboard_time": 1685023232,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172355,
       "num": 172355,
       "word": "男医生体检时猥亵女子被吊销执业资格",
@@ -1865,14 +1953,6 @@
       "onboard_time": 1684992569,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167912,
-      "num": 167912,
-      "word": "国产数码宝贝剧透",
-      "onboard_time": 1685023594,
-      "rank": 46,
-      "category": "动漫"
     },
     {
       "raw_hot": 167762,
@@ -1931,12 +2011,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160417,
-      "num": 157389,
-      "word": "狐妖小红娘",
-      "onboard_time": 1685025097,
-      "rank": 43,
-      "category": "影视"
+      "raw_hot": 160182,
+      "num": 160182,
+      "word": "平安北京 无语死了",
+      "onboard_time": 1685027675,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159439,
@@ -2017,14 +2097,6 @@
       "onboard_time": 1684931191,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 152776,
-      "num": 152776,
-      "word": "猫猫我啊专业打假",
-      "onboard_time": 1685024496,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 149438,
@@ -2305,6 +2377,14 @@
       "onboard_time": 1684982969,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 77573,
+      "num": 242980,
+      "word": "钱七虎多年来已累计捐赠超千万",
+      "onboard_time": 1685026775,
+      "rank": 29,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 77426,
