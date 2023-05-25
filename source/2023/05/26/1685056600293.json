@@ -1,0 +1,410 @@
+{
+  "runTime": 1685056600293,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1350322,
+        "num": 1350322,
+        "word": "平安北京 无语死了",
+        "onboard_time": 1685027675,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 943789,
+        "num": 943789,
+        "word": "吴倩三公 退赛",
+        "onboard_time": 1685022993,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20353,
+        "num": 659051,
+        "word": "30秒看中关村论坛展览的前沿科技",
+        "onboard_time": 1685020652,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636901,
+        "num": 636901,
+        "word": "被温州人的订婚喜糖震惊到了",
+        "onboard_time": 1685026354,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458601,
+        "num": 458601,
+        "word": "43岁的张娜拉",
+        "onboard_time": 1685022393,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 405626,
+        "num": 405626,
+        "word": "23年没来往的继子获得天降遗产",
+        "onboard_time": 1685026534,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355833,
+        "num": 355833,
+        "word": "22岁姑娘因男友减到55斤进医院",
+        "onboard_time": 1685016266,
+        "rank": 6,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 336752,
+        "num": 336752,
+        "word": "G社拍的宋仲基",
+        "onboard_time": 1685029889,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 266271,
+        "num": 266271,
+        "word": "家属还原山西男童死亡案细节",
+        "onboard_time": 1685030131,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258318,
+        "num": 258318,
+        "word": "枪决通知短信",
+        "onboard_time": 1685021852,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358474,
+        "num": 253484,
+        "word": "许嵩方 取证中",
+        "onboard_time": 1685020231,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321873,
+        "num": 250599,
+        "word": "王鹤棣虞书欣 二搭",
+        "onboard_time": 1685022334,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238614,
+        "num": 238614,
+        "word": "原来睡着后的世界是这样的",
+        "onboard_time": 1685013326,
+        "rank": 12,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 234003,
+        "num": 234003,
+        "word": "网友挑战把娄艺潇p回胡一菲",
+        "onboard_time": 1685021009,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216672,
+        "num": 216672,
+        "word": "日本网友吐槽国泰航空服务",
+        "onboard_time": 1685034800,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200467,
+        "num": 200467,
+        "word": "司机下车查看轮胎遭后车撞飞身亡",
+        "onboard_time": 1685026293,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198926,
+        "num": 198926,
+        "word": "陈赫送鹿晗演唱会门票给粉丝",
+        "onboard_time": 1685028212,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194516,
+        "num": 194516,
+        "word": "小学生校内被撞身亡校长被免职",
+        "onboard_time": 1685049673,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 190703,
+        "num": 190703,
+        "word": "冯小刚女儿撞脸小S二女儿",
+        "onboard_time": 1685010388,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165210,
+        "num": 165210,
+        "word": "水月洞天主演现状",
+        "onboard_time": 1685028813,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156123,
+        "num": 156123,
+        "word": "重庆一执法人员当街持菜刀伤人",
+        "onboard_time": 1685053455,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138860,
+        "num": 138860,
+        "word": "女子心疼老人买光鹅蛋回家发现全坏",
+        "onboard_time": 1685040374,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136653,
+        "num": 136653,
+        "word": "阿里巴巴今年计划招聘15000人",
+        "onboard_time": 1685021971,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 135413,
+        "num": 135413,
+        "word": "临期食品打一折你会买吗",
+        "onboard_time": 1685028513,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133664,
+        "num": 133664,
+        "word": "曹骏说不知道娱乐圈要什么样的性格",
+        "onboard_time": 1685027555,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112512,
+        "num": 112512,
+        "word": "男子争当榜一大哥账户剩下4分钱",
+        "onboard_time": 1685035758,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104846,
+        "num": 104846,
+        "word": "上海街头现丁达尔效应",
+        "onboard_time": 1685023232,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102183,
+        "num": 102183,
+        "word": "王源头发漂的都滋毛了",
+        "onboard_time": 1685056402,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100688,
+        "num": 100688,
+        "word": "内娱仪态的神",
+        "onboard_time": 1685025393,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98622,
+        "num": 98622,
+        "word": "高叶 王真儿",
+        "onboard_time": 1685022813,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188347,
+        "num": 98520,
+        "word": "舅舅住院杭州甥女不想掏钱被指小气",
+        "onboard_time": 1685055861,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98369,
+        "num": 98369,
+        "word": "上海高架两车斗气后续",
+        "onboard_time": 1685055680,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93521,
+        "num": 93521,
+        "word": "内蒙古天空惊现天空之眼",
+        "onboard_time": 1685055803,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90979,
+        "num": 90979,
+        "word": "武汉小学生校内被撞致死细节披露",
+        "onboard_time": 1685055803,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 89885,
+        "num": 89885,
+        "word": "周深晒奔跑吧泥人照",
+        "onboard_time": 1685056343,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89521,
+        "num": 89521,
+        "word": "金星 橙汁",
+        "onboard_time": 1685009489,
+        "rank": 35,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 88320,
+        "num": 88320,
+        "word": "养8年狗狗送婚戒后坐着看主人",
+        "onboard_time": 1685056343,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88249,
+        "num": 88249,
+        "word": "国产数码宝贝剧透",
+        "onboard_time": 1685023594,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 85663,
+        "num": 85663,
+        "word": "二阳",
+        "onboard_time": 1685025337,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83538,
+        "num": 83538,
+        "word": "当你在零下50度漠河点外卖时",
+        "onboard_time": 1685023654,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81788,
+        "num": 81788,
+        "word": "国泰航空曾被曝员工拒绝使用中文名名牌",
+        "onboard_time": 1685008711,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78089,
+        "num": 78089,
+        "word": "易烊千玺杨洋白敬亭栩栩华生大片",
+        "onboard_time": 1685022993,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 78077,
+        "num": 78077,
+        "word": "海蝶音乐回应许嵩相关传闻",
+        "onboard_time": 1685017709,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76993,
+        "num": 76993,
+        "word": "王楚钦孙颖莎晋级混双决赛",
+        "onboard_time": 1685056163,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76223,
+        "num": 76223,
+        "word": "皓嫣",
+        "onboard_time": 1685024555,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 75380,
+        "num": 75380,
+        "word": "王楚钦孙颖莎",
+        "onboard_time": 1685056521,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75182,
+        "num": 75182,
+        "word": "大数据不要给我推荐可能认识的人了",
+        "onboard_time": 1685055861,
+        "rank": 46,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 73735,
+        "num": 73735,
+        "word": "邢昭林回应带弟弟参加酒局",
+        "onboard_time": 1685020168,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68832,
+        "num": 68832,
+        "word": "延吉偶遇Angelababy",
+        "onboard_time": 1685015787,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68488,
+        "num": 68488,
+        "word": "第一次见到女爱豆提到卫生巾",
+        "onboard_time": 1685014046,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美将就中美经贸关系等问题进行交流#"
+    }
+  }
+}
