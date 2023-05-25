@@ -1,0 +1,410 @@
+{
+  "runTime": 1685018086492,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 774677,
+        "num": 774677,
+        "word": "租客仅剩13元花11元买瓜探望房东",
+        "onboard_time": 1685008050,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710775,
+        "num": 710775,
+        "word": "上海迪士尼6月23日起门票调价",
+        "onboard_time": 1685002709,
+        "rank": 1,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 25037,
+        "num": 708288,
+        "word": "现在进入神舟十六号时间",
+        "onboard_time": 1685016572,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1305386,
+        "num": 628295,
+        "word": "金星 橙汁",
+        "onboard_time": 1685009489,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 894093,
+        "num": 592402,
+        "word": "女孩剪了一撮头发家长赔了1万多",
+        "onboard_time": 1685004689,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1576864,
+        "num": 578963,
+        "word": "校内撞死小学生教师或涉两个罪名",
+        "onboard_time": 1685011949,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 536668,
+        "num": 536668,
+        "word": "恋踩癖男子藏袋内呼吸起伏明显",
+        "onboard_time": 1685016328,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521664,
+        "num": 521664,
+        "word": "原来睡着后的世界是这样的",
+        "onboard_time": 1685013326,
+        "rank": 7,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 466486,
+        "num": 466486,
+        "word": "宁艺卓红毯摔倒",
+        "onboard_time": 1685003308,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 403700,
+        "num": 403700,
+        "word": "奥迪工程车",
+        "onboard_time": 1685014768,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 863772,
+        "num": 377746,
+        "word": "冯小刚女儿撞脸小S二女儿",
+        "onboard_time": 1685010388,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 732922,
+        "num": 354852,
+        "word": "第一次见到女爱豆提到卫生巾",
+        "onboard_time": 1685014046,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 709183,
+        "num": 346611,
+        "word": "吴宣仪2021年收入",
+        "onboard_time": 1685005648,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331200,
+        "num": 331200,
+        "word": "九鹭非香 不接受被诽谤和造谣",
+        "onboard_time": 1685012068,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315929,
+        "num": 315929,
+        "word": "海蝶音乐回应许嵩相关传闻",
+        "onboard_time": 1685017709,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305273,
+        "num": 305273,
+        "word": "三分野直播",
+        "onboard_time": 1685016508,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303778,
+        "num": 303778,
+        "word": "国泰航空曾被曝员工拒绝使用中文名名牌",
+        "onboard_time": 1685008711,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276106,
+        "num": 276106,
+        "word": "艺人化妆师还是个高危职业",
+        "onboard_time": 1685004509,
+        "rank": 17,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 270642,
+        "num": 270642,
+        "word": "跑男四泥",
+        "onboard_time": 1685007568,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256215,
+        "num": 256215,
+        "word": "闫桉 编号89757",
+        "onboard_time": 1685011349,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378691,
+        "num": 254172,
+        "word": "22岁姑娘因男友减到55斤进医院",
+        "onboard_time": 1685016266,
+        "rank": 20,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 318187,
+        "num": 252967,
+        "word": "延吉偶遇Angelababy",
+        "onboard_time": 1685015787,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234128,
+        "num": 234128,
+        "word": "赵露思和刘宇宁都在迪士尼",
+        "onboard_time": 1685008347,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229027,
+        "num": 229027,
+        "word": "深圳 国际航线",
+        "onboard_time": 1685014407,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215093,
+        "num": 215093,
+        "word": "六点六",
+        "onboard_time": 1685017168,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208442,
+        "num": 208442,
+        "word": "女生订婚宴上真诚发言惊艳网友",
+        "onboard_time": 1685009366,
+        "rank": 25,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 202797,
+        "num": 202797,
+        "word": "杭州二手房卖不掉房东开始焦虑了",
+        "onboard_time": 1685006246,
+        "rank": 26,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 186872,
+        "num": 186872,
+        "word": "燕子百合雷佳音",
+        "onboard_time": 1685015187,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181211,
+        "num": 181211,
+        "word": "教育局通报小学生校内被碾压致死",
+        "onboard_time": 1685007508,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 176804,
+        "num": 176804,
+        "word": "空调开18度的领导离职了",
+        "onboard_time": 1684995329,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173024,
+        "num": 173024,
+        "word": "我的一生感觉都在考试",
+        "onboard_time": 1685002587,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165113,
+        "num": 165113,
+        "word": "成毅不上综艺原因",
+        "onboard_time": 1685006189,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158913,
+        "num": 158913,
+        "word": "细数国泰航空4起歧视风波",
+        "onboard_time": 1685008828,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157134,
+        "num": 157134,
+        "word": "女生黄体破裂医生暖心陪护参加中考",
+        "onboard_time": 1684994607,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 137680,
+        "num": 137680,
+        "word": "男子弄丢唐伯虎真迹好心市民交还",
+        "onboard_time": 1685002768,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137629,
+        "num": 137629,
+        "word": "国泰航空中国客源超67%",
+        "onboard_time": 1685015428,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126803,
+        "num": 126803,
+        "word": "英语教学广告 国泰航空",
+        "onboard_time": 1685015847,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117699,
+        "num": 117699,
+        "word": "国泰航空称空中服务员工会不代表国泰",
+        "onboard_time": 1684999649,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113773,
+        "num": 113773,
+        "word": "范丞丞洗洗还能要",
+        "onboard_time": 1685005348,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111025,
+        "num": 111025,
+        "word": "薛之谦演唱会深圳站官宣",
+        "onboard_time": 1685009549,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 109000,
+        "num": 109000,
+        "word": "国泰",
+        "onboard_time": 1685003370,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104634,
+        "num": 104634,
+        "word": "程潇白色睫毛",
+        "onboard_time": 1685008110,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103921,
+        "num": 103921,
+        "word": "王一栩没让九鹭非香做苍兰诀编剧",
+        "onboard_time": 1685006550,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101209,
+        "num": 101209,
+        "word": "专家建议新冠二阳不要带病上班",
+        "onboard_time": 1684983866,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100567,
+        "num": 100567,
+        "word": "请成为我的家人",
+        "onboard_time": 1685012968,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99658,
+        "num": 99658,
+        "word": "别被奇怪的人偷走能量",
+        "onboard_time": 1685017289,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96722,
+        "num": 96722,
+        "word": "少年江湖定档",
+        "onboard_time": 1685008050,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93977,
+        "num": 93977,
+        "word": "谢楠说吴京最长一年半不回家",
+        "onboard_time": 1684996408,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23678,
+        "num": 93689,
+        "word": "站在珠峰蓝色冰川里是什么体验",
+        "onboard_time": 1685017468,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66898,
+        "num": 93506,
+        "word": "樊振东晋级世乒赛8强",
+        "onboard_time": 1685011529,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#把中俄各领域合作推向更高水平#"
+    }
+  }
+}

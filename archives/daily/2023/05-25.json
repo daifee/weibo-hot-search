@@ -1,6 +1,6 @@
 {
   "startTime": 1684945355711,
-  "endTime": 1685014420811,
+  "endTime": 1685018086492,
   "band_list": [
     {
       "raw_hot": 3114274,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1576864,
+      "num": 578963,
+      "word": "校内撞死小学生教师或涉两个罪名",
+      "onboard_time": 1685011949,
+      "rank": 21,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1570709,
       "num": 1570709,
       "word": "长城官方举报比亚迪",
@@ -139,7 +147,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1260363,
+      "raw_hot": 1305386,
       "num": 764996,
       "word": "金星 橙汁",
       "onboard_time": 1685009489,
@@ -315,6 +323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 732922,
+      "num": 354852,
+      "word": "第一次见到女爱豆提到卫生巾",
+      "onboard_time": 1685014046,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 705210,
       "num": 705210,
       "word": "都不买榴莲我就放心了",
@@ -361,14 +377,6 @@
       "onboard_time": 1684938931,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 625536,
-      "num": 464086,
-      "word": "校内撞死小学生教师或涉两个罪名",
-      "onboard_time": 1685011949,
-      "rank": 21,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 621117,
@@ -443,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 536668,
+      "num": 536668,
+      "word": "恋踩癖男子藏袋内呼吸起伏明显",
+      "onboard_time": 1685016328,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 535272,
       "num": 535272,
       "word": "苏醒晒陆虎的官宣朋友圈",
@@ -473,6 +489,14 @@
       "onboard_time": 1685007508,
       "rank": 25,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 521664,
+      "num": 521664,
+      "word": "原来睡着后的世界是这样的",
+      "onboard_time": 1685013326,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 520986,
@@ -659,6 +683,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 403700,
+      "num": 403700,
+      "word": "奥迪工程车",
+      "onboard_time": 1685014768,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402810,
       "num": 402810,
       "word": "兔头涨价",
@@ -713,6 +745,14 @@
       "onboard_time": 1684988010,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 378691,
+      "num": 254172,
+      "word": "22岁姑娘因男友减到55斤进医院",
+      "onboard_time": 1685016266,
+      "rank": 20,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 378190,
@@ -883,6 +923,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 318187,
+      "num": 252967,
+      "word": "延吉偶遇Angelababy",
+      "onboard_time": 1685015787,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 315929,
+      "num": 315929,
+      "word": "海蝶音乐回应许嵩相关传闻",
+      "onboard_time": 1685017709,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313613,
       "num": 313613,
       "word": "北京二手房一天降价20万只求一卖",
@@ -929,6 +985,14 @@
       "onboard_time": 1684934191,
       "rank": 14,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 305273,
+      "num": 305273,
+      "word": "三分野直播",
+      "onboard_time": 1685016508,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 303234,
@@ -1115,14 +1179,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 245154,
-      "num": 157225,
-      "word": "原来睡着后的世界是这样的",
-      "onboard_time": 1685013326,
-      "rank": 30,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 245100,
       "num": 215363,
       "word": "肖战如梦之梦豆瓣9.3分",
@@ -1227,6 +1283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 229027,
+      "num": 229027,
+      "word": "深圳 国际航线",
+      "onboard_time": 1685014407,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228047,
       "num": 228047,
       "word": "白鹿素颜碎花睡衣路透",
@@ -1297,6 +1361,14 @@
       "onboard_time": 1685000486,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215093,
+      "num": 215093,
+      "word": "六点六",
+      "onboard_time": 1685017168,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 214368,
@@ -1435,11 +1507,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 183678,
-      "num": 157109,
-      "word": "第一次见到女爱豆提到卫生巾",
-      "onboard_time": 1685014046,
-      "rank": 31,
+      "raw_hot": 186872,
+      "num": 186872,
+      "word": "燕子百合雷佳音",
+      "onboard_time": 1685015187,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -1587,8 +1659,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158743,
-      "num": 158743,
+      "raw_hot": 158913,
+      "num": 158913,
       "word": "细数国泰航空4起歧视风波",
       "onboard_time": 1685008828,
       "rank": 42,
@@ -1747,6 +1819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137629,
+      "num": 137629,
+      "word": "国泰航空中国客源超67%",
+      "onboard_time": 1685015428,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132770,
       "num": 132770,
       "word": "萌娃输液小手胖嘟嘟护士一针见血",
@@ -1761,6 +1841,14 @@
       "onboard_time": 1684943845,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 126803,
+      "num": 126803,
+      "word": "英语教学广告 国泰航空",
+      "onboard_time": 1685015847,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125231,
@@ -1843,6 +1931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 99658,
+      "num": 99658,
+      "word": "别被奇怪的人偷走能量",
+      "onboard_time": 1685017289,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95293,
       "num": 95293,
       "word": "迪丽热巴佟大为公诉或将双台播出",
@@ -1897,14 +1993,6 @@
       "onboard_time": 1684989394,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 85232,
-      "num": 85232,
-      "word": "深圳 国际航线",
-      "onboard_time": 1685014407,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83268,
@@ -1995,11 +2083,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25037,
+      "num": 708288,
+      "word": "现在进入神舟十六号时间",
+      "onboard_time": 1685016572,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23937,
       "num": 723330,
       "word": "数字化改革里的民生温度",
       "onboard_time": 1684938272,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23678,
+      "num": 93689,
+      "word": "站在珠峰蓝色冰川里是什么体验",
+      "onboard_time": 1685017468,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
