@@ -1,6 +1,6 @@
 {
   "startTime": 1684945355711,
-  "endTime": 1685006201641,
+  "endTime": 1685007238637,
   "band_list": [
     {
       "raw_hot": 3114274,
@@ -59,6 +59,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1750437,
+      "num": 1750437,
+      "word": "上海迪士尼6月23日起门票调价",
+      "onboard_time": 1685002709,
+      "rank": 45,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 1705609,
       "num": 1705609,
       "word": "山西失联身亡男孩生母聊天记录曝光",
@@ -83,12 +91,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1376982,
-      "num": 1376982,
+      "raw_hot": 1468132,
+      "num": 1468132,
       "word": "空调开18度的领导离职了",
       "onboard_time": 1684995329,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1386647,
+      "num": 483264,
+      "word": "吴宣仪2021年收入",
+      "onboard_time": 1685005648,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 1344886,
@@ -105,14 +121,6 @@
       "onboard_time": 1684941214,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1337657,
-      "num": 1337657,
-      "word": "上海迪士尼6月23日起门票调价",
-      "onboard_time": 1685002709,
-      "rank": 45,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 1336053,
@@ -136,6 +144,14 @@
       "word": "女生兼职上门喂猫遭恋踩癖骚扰",
       "onboard_time": 1684983209,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1129945,
+      "num": 1129945,
+      "word": "女孩剪了一撮头发家长赔了1万多",
+      "onboard_time": 1685004689,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -203,8 +219,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 915297,
-      "num": 915297,
+      "raw_hot": 917089,
+      "num": 917089,
       "word": "男子弄丢唐伯虎真迹好心市民交还",
       "onboard_time": 1685002768,
       "rank": 49,
@@ -264,14 +280,6 @@
       "word": "都不买榴莲我就放心了",
       "onboard_time": 1684937793,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 696166,
-      "num": 319945,
-      "word": "女孩剪了一撮头发家长赔了1万多",
-      "onboard_time": 1685004689,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -353,6 +361,14 @@
       "onboard_time": 1684935391,
       "rank": 9,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 551315,
+      "num": 551315,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1685006007,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 545594,
@@ -491,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 438790,
+      "num": 438790,
+      "word": "我的一生感觉都在考试",
+      "onboard_time": 1685002587,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 425005,
       "num": 425005,
       "word": "杨迪我分完了张柏芝我离完了",
@@ -505,6 +529,14 @@
       "onboard_time": 1684989693,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408053,
+      "num": 408053,
+      "word": "艺人化妆师还是个高危职业",
+      "onboard_time": 1685004509,
+      "rank": 12,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 407859,
@@ -531,14 +563,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 393906,
-      "num": 393906,
-      "word": "我的一生感觉都在考试",
-      "onboard_time": 1685002587,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 392458,
       "num": 343578,
       "word": "北京和上海真的很不一样",
@@ -561,14 +585,6 @@
       "onboard_time": 1684969279,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 386162,
-      "num": 318927,
-      "word": "艺人化妆师还是个高危职业",
-      "onboard_time": 1685004509,
-      "rank": 12,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 385164,
@@ -601,6 +617,14 @@
       "onboard_time": 1684988311,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 377325,
+      "num": 233870,
+      "word": "范丞丞洗洗还能要",
+      "onboard_time": 1685005348,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 375159,
@@ -819,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292635,
+      "num": 292635,
+      "word": "汉阳教育局通报小学生校内被撞身亡",
+      "onboard_time": 1685005109,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 291894,
       "num": 291894,
       "word": "TES官宣2023夏季赛大名单",
@@ -841,14 +873,6 @@
       "onboard_time": 1684976490,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 285820,
-      "num": 285820,
-      "word": "吴宣仪2021年收入",
-      "onboard_time": 1685005648,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 283104,
@@ -1011,6 +1035,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 236155,
+      "num": 236155,
+      "word": "成毅不上综艺原因",
+      "onboard_time": 1685006189,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235366,
       "num": 235366,
       "word": "嗓子痛就是二阳了吗",
@@ -1033,14 +1065,6 @@
       "onboard_time": 1684971624,
       "rank": 28,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 231100,
-      "num": 231100,
-      "word": "范丞丞洗洗还能要",
-      "onboard_time": 1685005348,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 230507,
@@ -1097,6 +1121,14 @@
       "onboard_time": 1685001808,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221227,
+      "num": 223069,
+      "word": "王一栩没让九鹭非香做苍兰诀编剧",
+      "onboard_time": 1685006550,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 220919,
@@ -1203,6 +1235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 195942,
+      "num": 195942,
+      "word": "宋茜说谈恋爱就像找东西",
+      "onboard_time": 1685004150,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 195753,
       "num": 195753,
       "word": "索尼PlayStation游戏展",
@@ -1241,14 +1281,6 @@
       "onboard_time": 1684942111,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 188305,
-      "num": 188305,
-      "word": "汉阳教育局通报小学生校内被撞身亡",
-      "onboard_time": 1685005109,
-      "rank": 30,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 187787,
@@ -1292,7 +1324,7 @@
     },
     {
       "raw_hot": 179776,
-      "num": 1036690,
+      "num": 1194994,
       "word": "我是中国人我想举自己的国旗",
       "onboard_time": 1684973066,
       "rank": 38,
@@ -1323,11 +1355,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170676,
+      "num": 170676,
+      "word": "杭州二手房卖不掉房东开始焦虑了",
+      "onboard_time": 1685006246,
+      "rank": 30,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 170426,
       "num": 170426,
       "word": "长城汽车举报致比亚迪股价跳水",
       "onboard_time": 1684992569,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168135,
+      "num": 168135,
+      "word": "花花一口苹果嚼40多下",
+      "onboard_time": 1685005828,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1337,14 +1385,6 @@
       "onboard_time": 1684977750,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167673,
-      "num": 167673,
-      "word": "宋茜说谈恋爱就像找东西",
-      "onboard_time": 1685004150,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 165653,
@@ -1563,22 +1603,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 117841,
-      "num": 117841,
-      "word": "薛之谦演唱会",
-      "onboard_time": 1685006007,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 111644,
-      "num": 111644,
-      "word": "成毅不上综艺原因",
-      "onboard_time": 1685006189,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 108675,
       "num": 93988,
       "word": "你们竟然请运动员真打排球啊",
@@ -1617,6 +1641,22 @@
       "onboard_time": 1685006007,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 104964,
+      "num": 104964,
+      "word": "头帐篷",
+      "onboard_time": 1685006246,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 103757,
+      "num": 103757,
+      "word": "对你的好全是看你妈的面子",
+      "onboard_time": 1685007210,
+      "rank": 48,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 99807,

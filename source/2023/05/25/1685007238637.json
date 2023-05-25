@@ -1,0 +1,410 @@
+{
+  "runTime": 1685007238637,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1750437,
+        "num": 1750437,
+        "word": "上海迪士尼6月23日起门票调价",
+        "onboard_time": 1685002709,
+        "rank": 0,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1468132,
+        "num": 1468132,
+        "word": "空调开18度的领导离职了",
+        "onboard_time": 1684995329,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22244,
+        "num": 1194994,
+        "word": "我是中国人我想举自己的国旗",
+        "onboard_time": 1684973066,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1129945,
+        "num": 1129945,
+        "word": "女孩剪了一撮头发家长赔了1万多",
+        "onboard_time": 1685004689,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 960791,
+        "num": 960791,
+        "word": "宁艺卓红毯摔倒",
+        "onboard_time": 1685003308,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 917089,
+        "num": 917089,
+        "word": "男子弄丢唐伯虎真迹好心市民交还",
+        "onboard_time": 1685002768,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 722826,
+        "num": 722826,
+        "word": "女生黄体破裂医生暖心陪护参加中考",
+        "onboard_time": 1684994607,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 551315,
+        "num": 551315,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1685006007,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 525589,
+        "num": 525589,
+        "word": "四川会理发生重大刑事案件",
+        "onboard_time": 1684990115,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515672,
+        "num": 515672,
+        "word": "谢楠说吴京最长一年半不回家",
+        "onboard_time": 1684996408,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1386647,
+        "num": 483264,
+        "word": "吴宣仪2021年收入",
+        "onboard_time": 1685005648,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438790,
+        "num": 438790,
+        "word": "我的一生感觉都在考试",
+        "onboard_time": 1685002587,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 408053,
+        "num": 408053,
+        "word": "艺人化妆师还是个高危职业",
+        "onboard_time": 1685004509,
+        "rank": 12,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 295362,
+        "num": 295362,
+        "word": "真情侣版偷偷藏不住",
+        "onboard_time": 1684982908,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292635,
+        "num": 292635,
+        "word": "汉阳教育局通报小学生校内被撞身亡",
+        "onboard_time": 1685005109,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 273294,
+        "num": 273294,
+        "word": "国泰航空称空中服务员工会不代表国泰",
+        "onboard_time": 1684999649,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253858,
+        "num": 253858,
+        "word": "能开得起大女主古偶的女演员",
+        "onboard_time": 1684995450,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248856,
+        "num": 248856,
+        "word": "专家建议新冠二阳不要带病上班",
+        "onboard_time": 1684983866,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239288,
+        "num": 239288,
+        "word": "Angelababy素颜睡衣",
+        "onboard_time": 1684986931,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236155,
+        "num": 236155,
+        "word": "成毅不上综艺原因",
+        "onboard_time": 1685006189,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377325,
+        "num": 233870,
+        "word": "范丞丞洗洗还能要",
+        "onboard_time": 1685005348,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255815,
+        "num": 233374,
+        "word": "细嚼慢咽真的会瘦吗",
+        "onboard_time": 1685002768,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254904,
+        "num": 229554,
+        "word": "宁安如梦",
+        "onboard_time": 1685002530,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223819,
+        "num": 223819,
+        "word": "国泰",
+        "onboard_time": 1685003370,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221227,
+        "num": 223069,
+        "word": "王一栩没让九鹭非香做苍兰诀编剧",
+        "onboard_time": 1685006550,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222461,
+        "num": 222461,
+        "word": "她背诵的不是课文是全班的希望",
+        "onboard_time": 1684985908,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 195942,
+        "num": 195942,
+        "word": "宋茜说谈恋爱就像找东西",
+        "onboard_time": 1685004150,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188897,
+        "num": 188897,
+        "word": "护心编剧回应",
+        "onboard_time": 1685000189,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181533,
+        "num": 181533,
+        "word": "全球热",
+        "onboard_time": 1684990413,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176477,
+        "num": 176477,
+        "word": "比亚迪回应被长城汽车举报",
+        "onboard_time": 1684988670,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170676,
+        "num": 170676,
+        "word": "杭州二手房卖不掉房东开始焦虑了",
+        "onboard_time": 1685006246,
+        "rank": 30,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 168135,
+        "num": 168135,
+        "word": "花花一口苹果嚼40多下",
+        "onboard_time": 1685005828,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162197,
+        "num": 162197,
+        "word": "摇粒绒做的花花是真显胖啊",
+        "onboard_time": 1684994669,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158823,
+        "num": 158823,
+        "word": "白鹿孙珍妮奔跑吧同框",
+        "onboard_time": 1685001147,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156969,
+        "num": 156969,
+        "word": "在云南连吃7天有多爽",
+        "onboard_time": 1685000428,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 645949,
+        "num": 155235,
+        "word": "张彬彬 错过宁安如梦",
+        "onboard_time": 1684999949,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144073,
+        "num": 144073,
+        "word": "Amber芝芙跳叮叮当当",
+        "onboard_time": 1685001808,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329712,
+        "num": 142326,
+        "word": "四川一中学学生打架致1死",
+        "onboard_time": 1684996888,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139868,
+        "num": 139868,
+        "word": "看似很贵其实很便宜的东西",
+        "onboard_time": 1684998329,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139122,
+        "num": 139122,
+        "word": "演员郑振瑶去世",
+        "onboard_time": 1684994549,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134361,
+        "num": 134361,
+        "word": "女生兼职上门喂猫遭恋踩癖骚扰",
+        "onboard_time": 1684983209,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126029,
+        "num": 126029,
+        "word": "不带穷字但是一听就很穷的话",
+        "onboard_time": 1684990534,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121455,
+        "num": 121455,
+        "word": "易烊千玺海边拍立得",
+        "onboard_time": 1685000606,
+        "rank": 42,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 119339,
+        "num": 119339,
+        "word": "罗渽民杂志",
+        "onboard_time": 1685003728,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 115445,
+        "num": 115445,
+        "word": "沈月cos黎姿版赵敏",
+        "onboard_time": 1684996351,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111877,
+        "num": 111877,
+        "word": "原来长相思十年前就找过杨紫",
+        "onboard_time": 1684999949,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104964,
+        "num": 104964,
+        "word": "头帐篷",
+        "onboard_time": 1685006246,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109152,
+        "num": 104771,
+        "word": "杨紫 新风格新体验",
+        "onboard_time": 1684998210,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 103757,
+        "num": 103757,
+        "word": "对你的好全是看你妈的面子",
+        "onboard_time": 1685007210,
+        "rank": 48,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 98945,
+        "num": 103721,
+        "word": "A股",
+        "onboard_time": 1684994848,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#打造经济监督的特种部队#"
+    }
+  }
+}
