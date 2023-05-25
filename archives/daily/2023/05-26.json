@@ -1,6 +1,6 @@
 {
   "startTime": 1685031732217,
-  "endTime": 1685032586024,
+  "endTime": 1685034912545,
   "band_list": [
     {
       "raw_hot": 1412845,
@@ -187,6 +187,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 227431,
+      "num": 180863,
+      "word": "家属还原山西男童死亡案细节",
+      "onboard_time": 1685030131,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225756,
       "num": 198364,
       "word": "内娱仪态的神",
@@ -225,14 +233,6 @@
       "onboard_time": 1685025097,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 197436,
-      "num": 159150,
-      "word": "家属还原山西男童死亡案细节",
-      "onboard_time": 1685030131,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186014,
@@ -371,6 +371,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 99556,
+      "num": 99556,
+      "word": "张彬彬说吴倩刀子嘴豆腐心",
+      "onboard_time": 1685031448,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 95310,
       "num": 95310,
       "word": "上海街头现丁达尔效应",
@@ -387,12 +395,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92986,
-      "num": 92986,
-      "word": "张彬彬说吴倩刀子嘴豆腐心",
-      "onboard_time": 1685031448,
-      "rank": 42,
-      "category": "影视"
+      "raw_hot": 94019,
+      "num": 94019,
+      "word": "23年没来往的继子获得天降遗产",
+      "onboard_time": 1685026534,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75513,
@@ -409,6 +417,30 @@
       "onboard_time": 1685032225,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64818,
+      "num": 64818,
+      "word": "邢昭林回应带弟弟参加酒局",
+      "onboard_time": 1685020168,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 44965,
+      "num": 57027,
+      "word": "班级拍毕业照男生给女生带头纱求婚",
+      "onboard_time": 1685033603,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44327,
+      "num": 57016,
+      "word": "杨幂或将客串刘诗诗新剧",
+      "onboard_time": 1685019090,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 16922,

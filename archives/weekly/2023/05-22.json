@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1685032586024,
+  "endTime": 1685034912545,
   "band_list": [
     {
       "raw_hot": 3643134,
@@ -6219,6 +6219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 227431,
+      "num": 180863,
+      "word": "家属还原山西男童死亡案细节",
+      "onboard_time": 1685030131,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226892,
       "num": 226892,
       "word": "世上再无公子襄",
@@ -6993,14 +7001,6 @@
       "onboard_time": 1684937251,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 197436,
-      "num": 159150,
-      "word": "家属还原山西男童死亡案细节",
-      "onboard_time": 1685030131,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197328,
@@ -9059,6 +9059,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 99556,
+      "num": 99556,
+      "word": "张彬彬说吴倩刀子嘴豆腐心",
+      "onboard_time": 1685031448,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 98734,
       "num": 57414,
       "word": "男子猥亵幼女因超时效不负刑责",
@@ -9123,20 +9131,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 94019,
+      "num": 94019,
+      "word": "23年没来往的继子获得天降遗产",
+      "onboard_time": 1685026534,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93755,
       "num": 77824,
       "word": "钢琴家的手",
       "onboard_time": 1684946362,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 92986,
-      "num": 92986,
-      "word": "张彬彬说吴倩刀子嘴豆腐心",
-      "onboard_time": 1685031448,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 92732,
@@ -9513,6 +9521,14 @@
       "onboard_time": 1684787232,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 44965,
+      "num": 57027,
+      "word": "班级拍毕业照男生给女生带头纱求婚",
+      "onboard_time": 1685033603,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42571,
