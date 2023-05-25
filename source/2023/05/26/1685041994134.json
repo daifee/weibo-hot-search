@@ -1,0 +1,410 @@
+{
+  "runTime": 1685041994134,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 226850,
+        "num": 226850,
+        "word": "平安北京 无语死了",
+        "onboard_time": 1685027675,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175118,
+        "num": 175118,
+        "word": "吴倩三公 退赛",
+        "onboard_time": 1685022993,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6737,
+        "num": 111534,
+        "word": "30秒看中关村论坛展览的前沿科技",
+        "onboard_time": 1685020652,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102741,
+        "num": 102741,
+        "word": "43岁的张娜拉",
+        "onboard_time": 1685022393,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 85550,
+        "num": 85550,
+        "word": "日本网友吐槽国泰航空服务",
+        "onboard_time": 1685034800,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73733,
+        "num": 73733,
+        "word": "网友挑战把娄艺潇p回胡一菲",
+        "onboard_time": 1685021009,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 68634,
+        "num": 68634,
+        "word": "原来睡着后的世界是这样的",
+        "onboard_time": 1685013326,
+        "rank": 6,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 67697,
+        "num": 67697,
+        "word": "被温州人的订婚喜糖震惊到了",
+        "onboard_time": 1685026354,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66931,
+        "num": 66931,
+        "word": "枪决通知短信",
+        "onboard_time": 1685021852,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62649,
+        "num": 62649,
+        "word": "G社拍的宋仲基",
+        "onboard_time": 1685029889,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129134,
+        "num": 60752,
+        "word": "王鹤棣虞书欣 二搭",
+        "onboard_time": 1685022334,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125841,
+        "num": 60510,
+        "word": "许嵩方 取证中",
+        "onboard_time": 1685020231,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56786,
+        "num": 56786,
+        "word": "22岁姑娘因男友减到55斤进医院",
+        "onboard_time": 1685016266,
+        "rank": 12,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 51317,
+        "num": 51317,
+        "word": "陈赫送鹿晗演唱会门票给粉丝",
+        "onboard_time": 1685028212,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 50806,
+        "num": 50806,
+        "word": "家属还原山西男童死亡案细节",
+        "onboard_time": 1685030131,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46882,
+        "num": 46882,
+        "word": "临期食品打一折你会买吗",
+        "onboard_time": 1685028513,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44994,
+        "num": 44994,
+        "word": "金星 橙汁",
+        "onboard_time": 1685009489,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 44940,
+        "num": 44940,
+        "word": "司机下车查看轮胎遭后车撞飞身亡",
+        "onboard_time": 1685026293,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43220,
+        "num": 43220,
+        "word": "水月洞天主演现状",
+        "onboard_time": 1685028813,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42520,
+        "num": 42520,
+        "word": "国产数码宝贝剧透",
+        "onboard_time": 1685023594,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 43052,
+        "num": 42339,
+        "word": "男子争当榜一大哥账户剩下4分钱",
+        "onboard_time": 1685035758,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41998,
+        "num": 41998,
+        "word": "23年没来往的继子获得天降遗产",
+        "onboard_time": 1685026534,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36499,
+        "num": 36499,
+        "word": "女子心疼老人买光鹅蛋回家发现全坏",
+        "onboard_time": 1685040374,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36299,
+        "num": 36299,
+        "word": "原神",
+        "onboard_time": 1685030607,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 35503,
+        "num": 35503,
+        "word": "皓嫣",
+        "onboard_time": 1685024555,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33395,
+        "num": 33395,
+        "word": "第一次见到女爱豆提到卫生巾",
+        "onboard_time": 1685014046,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32351,
+        "num": 32351,
+        "word": "国泰航空曾被曝员工拒绝使用中文名名牌",
+        "onboard_time": 1685008711,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31699,
+        "num": 31699,
+        "word": "freenbecky",
+        "onboard_time": 1685025874,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31149,
+        "num": 31149,
+        "word": "冯小刚女儿撞脸小S二女儿",
+        "onboard_time": 1685010388,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29264,
+        "num": 29264,
+        "word": "上海街头现丁达尔效应",
+        "onboard_time": 1685023232,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29198,
+        "num": 29198,
+        "word": "阿里巴巴今年计划招聘15000人",
+        "onboard_time": 1685021971,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 29073,
+        "num": 29073,
+        "word": "曹骏说不知道娱乐圈要什么样的性格",
+        "onboard_time": 1685027555,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27939,
+        "num": 27939,
+        "word": "ENHYPEN修改ending动作",
+        "onboard_time": 1685022633,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 27887,
+        "num": 27887,
+        "word": "海蝶音乐回应许嵩相关传闻",
+        "onboard_time": 1685017709,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27066,
+        "num": 27066,
+        "word": "姚晨不热吗",
+        "onboard_time": 1685024137,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26732,
+        "num": 26732,
+        "word": "王俊凯王源都在重庆",
+        "onboard_time": 1685021552,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26429,
+        "num": 26429,
+        "word": "易烊千玺杨洋白敬亭栩栩华生大片",
+        "onboard_time": 1685022993,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26142,
+        "num": 26142,
+        "word": "世乒赛",
+        "onboard_time": 1684935031,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26327,
+        "num": 26140,
+        "word": "内娱仪态的神",
+        "onboard_time": 1685025393,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25863,
+        "num": 25863,
+        "word": "延吉偶遇Angelababy",
+        "onboard_time": 1685015787,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25834,
+        "num": 25834,
+        "word": "小学生校内被撞身亡涉事教师被刑拘",
+        "onboard_time": 1685037856,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25436,
+        "num": 25436,
+        "word": "高叶 王真儿",
+        "onboard_time": 1685022813,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25149,
+        "num": 25149,
+        "word": "邢昭林回应带弟弟参加酒局",
+        "onboard_time": 1685020168,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24925,
+        "num": 24925,
+        "word": "狐妖小红娘",
+        "onboard_time": 1685025097,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24233,
+        "num": 24233,
+        "word": "猫猫我啊专业打假",
+        "onboard_time": 1685024496,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22616,
+        "num": 22616,
+        "word": "二阳",
+        "onboard_time": 1685025337,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22438,
+        "num": 22438,
+        "word": "班级拍毕业照男生给女生带头纱求婚",
+        "onboard_time": 1685033603,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22300,
+        "num": 22300,
+        "word": "白鹿给孙珍妮擦脸",
+        "onboard_time": 1685025274,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22062,
+        "num": 22062,
+        "word": "租客仅剩13元花11元买瓜探望房东",
+        "onboard_time": 1685008050,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21769,
+        "num": 21769,
+        "word": "当你在零下50度漠河点外卖时",
+        "onboard_time": 1685023654,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#欧亚经济联盟第二届欧亚经济论坛全会#"
+    }
+  }
+}
