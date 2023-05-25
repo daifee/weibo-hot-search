@@ -1,6 +1,6 @@
 {
   "startTime": 1684945355711,
-  "endTime": 1684992826526,
+  "endTime": 1684995725618,
   "band_list": [
     {
       "raw_hot": 3114274,
@@ -43,8 +43,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1825458,
-      "num": 1825458,
+      "raw_hot": 1831244,
+      "num": 1831244,
       "word": "欠我一万块钱的同事离职了",
       "onboard_time": 1684988614,
       "rank": 20,
@@ -56,6 +56,14 @@
       "word": "山西失联身亡男孩生母聊天记录曝光",
       "onboard_time": 1684970782,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1655142,
+      "num": 1135946,
+      "word": "二阳症状",
+      "onboard_time": 1684990715,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -107,14 +115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1135946,
-      "num": 1135946,
-      "word": "二阳症状",
-      "onboard_time": 1684990715,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1127021,
       "num": 1127021,
       "word": "Angelababy素颜睡衣",
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1024606,
+      "num": 1024606,
+      "word": "四川会理发生重大刑事案件",
+      "onboard_time": 1684990115,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1023027,
       "num": 1023027,
       "word": "刘亚仁被人泼水",
@@ -152,14 +160,6 @@
       "word": "24岁研究生离世捐器官救多人",
       "onboard_time": 1684979247,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 934244,
-      "num": 934244,
-      "word": "四川会理发生重大刑事案件",
-      "onboard_time": 1684990115,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -193,6 +193,14 @@
       "onboard_time": 1684937793,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 676461,
+      "num": 676461,
+      "word": "刘亦菲林更新或将演夫妻",
+      "onboard_time": 1684991731,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 672813,
@@ -243,6 +251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 611140,
+      "num": 611140,
+      "word": "全球热",
+      "onboard_time": 1684990413,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 584152,
       "num": 584152,
       "word": "美国科技大亨用17岁儿子血浆换血",
@@ -257,6 +273,14 @@
       "onboard_time": 1684935391,
       "rank": 9,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 546822,
+      "num": 546822,
+      "word": "女生黄体破裂医生暖心陪护参加中考",
+      "onboard_time": 1684994607,
+      "rank": 10,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 545594,
@@ -339,27 +363,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 468361,
-      "num": 468361,
-      "word": "全球热",
-      "onboard_time": 1684990413,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 461265,
       "num": 461265,
       "word": "护心十五集前后不是一个编剧",
       "onboard_time": 1684980392,
       "rank": 13,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 450611,
-      "num": 450611,
-      "word": "刘亦菲林更新或将演夫妻",
-      "onboard_time": 1684991731,
-      "rank": 46,
       "category": "影视"
     },
     {
@@ -401,6 +409,14 @@
       "onboard_time": 1684980628,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 406378,
+      "num": 406378,
+      "word": "A股",
+      "onboard_time": 1684994848,
+      "rank": 12,
+      "category": "财经"
     },
     {
       "raw_hot": 402810,
@@ -489,6 +505,14 @@
       "onboard_time": 1684973790,
       "rank": 18,
       "category": "科技"
+    },
+    {
+      "raw_hot": 356038,
+      "num": 206485,
+      "word": "演员郑振瑶去世",
+      "onboard_time": 1684994549,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 347626,
@@ -619,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 295908,
+      "num": 206408,
+      "word": "空调开18度的领导离职了",
+      "onboard_time": 1684995329,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 295891,
       "num": 295891,
       "word": "高叶cos的是谁",
@@ -641,6 +673,14 @@
       "onboard_time": 1684988430,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291894,
+      "num": 291894,
+      "word": "TES官宣2023夏季赛大名单",
+      "onboard_time": 1684992751,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 291018,
@@ -819,11 +859,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 219204,
+      "num": 219204,
+      "word": "秋瓷炫二公不跳舞",
+      "onboard_time": 1684993768,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216166,
       "num": 216166,
       "word": "不上综艺的明星",
       "onboard_time": 1684982370,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 215925,
+      "num": 215925,
+      "word": "白鹿素颜碎花睡衣路透",
+      "onboard_time": 1684994728,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -867,11 +923,35 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205505,
+      "num": 205505,
+      "word": "杨幂学京剧",
+      "onboard_time": 1684994187,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 205433,
+      "num": 205433,
+      "word": "摇粒绒做的花花是真显胖啊",
+      "onboard_time": 1684994669,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204618,
       "num": 204618,
       "word": "泡沫中的龚俊",
       "onboard_time": 1684984649,
       "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203350,
+      "num": 203350,
+      "word": "能开得起大女主古偶的女演员",
+      "onboard_time": 1684995450,
+      "rank": 34,
       "category": "作品衍生"
     },
     {
@@ -915,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190967,
+      "num": 190967,
+      "word": "嗓子痛就是二阳了吗",
+      "onboard_time": 1684995209,
+      "rank": 35,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 190659,
       "num": 190659,
       "word": "大学生种地成功送母校1700箱辣椒",
@@ -952,6 +1040,14 @@
       "word": "广东人会有身材焦虑吗",
       "onboard_time": 1684970841,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181280,
+      "num": 181280,
+      "word": "国泰航空称网传英文内部信件为伪造",
+      "onboard_time": 1684995628,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1083,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155224,
+      "num": 155224,
+      "word": "章泽天为京东业务站台",
+      "onboard_time": 1684995689,
+      "rank": 41,
+      "category": "科技,作品衍生"
+    },
+    {
       "raw_hot": 155080,
       "num": 792485,
       "word": "Angelababy贝克汉姆在澳门拍什么",
@@ -1097,6 +1201,14 @@
       "onboard_time": 1684931191,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 149438,
+      "num": 149438,
+      "word": "新的手机卡号码是前任用过的",
+      "onboard_time": 1684992330,
+      "rank": 46,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 149087,
@@ -1129,14 +1241,6 @@
       "onboard_time": 1684937852,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 145171,
-      "num": 145171,
-      "word": "TES官宣2023夏季赛大名单",
-      "onboard_time": 1684992751,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 142417,
