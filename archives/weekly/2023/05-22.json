@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684998927636,
+  "endTime": 1684999998653,
   "band_list": [
     {
       "raw_hot": 3643134,
@@ -395,7 +395,7 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 1655142,
+      "raw_hot": 1662070,
       "num": 1135946,
       "word": "二阳症状",
       "onboard_time": 1684990715,
@@ -617,6 +617,14 @@
       "onboard_time": 1684936892,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1356559,
+      "num": 1356559,
+      "word": "空调开18度的领导离职了",
+      "onboard_time": 1684995329,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 1353581,
@@ -873,14 +881,6 @@
       "onboard_time": 1684720349,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1172147,
-      "num": 1172147,
-      "word": "空调开18度的领导离职了",
-      "onboard_time": 1684995329,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 1167337,
@@ -1339,6 +1339,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 849369,
+      "num": 849369,
+      "word": "谢楠说吴京最长一年半不回家",
+      "onboard_time": 1684996408,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 849100,
       "num": 849100,
       "word": "求爱不成当街捅杀女子凶手被判死刑",
@@ -1539,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 735893,
+      "num": 735893,
+      "word": "能开得起大女主古偶的女演员",
+      "onboard_time": 1684995450,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 735582,
       "num": 735582,
       "word": "陈大事称舆论的背后也许是资本",
@@ -1560,14 +1576,6 @@
       "word": "王一博的减脂餐",
       "onboard_time": 1684928008,
       "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 725795,
-      "num": 725795,
-      "word": "谢楠说吴京最长一年半不回家",
-      "onboard_time": 1684996408,
-      "rank": 43,
       "category": "艺人"
     },
     {
@@ -1633,14 +1641,6 @@
       "onboard_time": 1684726589,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 704030,
-      "num": 704030,
-      "word": "能开得起大女主古偶的女演员",
-      "onboard_time": 1684995450,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 695511,
@@ -2219,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 520986,
+      "num": 502494,
+      "word": "比亚迪回应被长城汽车举报",
+      "onboard_time": 1684988670,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 519987,
       "num": 394763,
       "word": "我爸不让25岁的我考研",
@@ -2321,14 +2329,6 @@
       "onboard_time": 1684718009,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 502494,
-      "num": 502494,
-      "word": "比亚迪回应被长城汽车举报",
-      "onboard_time": 1684988670,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 498683,
@@ -2723,6 +2723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 441812,
+      "num": 416169,
+      "word": "真情侣版偷偷藏不住",
+      "onboard_time": 1684982908,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 439360,
       "num": 439360,
       "word": "G7",
@@ -2856,14 +2864,6 @@
       "word": "邓超 显眼包",
       "onboard_time": 1684853795,
       "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 416169,
-      "num": 416169,
-      "word": "真情侣版偷偷藏不住",
-      "onboard_time": 1684982908,
-      "rank": 26,
       "category": "影视"
     },
     {
@@ -3131,6 +3131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383994,
+      "num": 383994,
+      "word": "摇粒绒做的花花是真显胖啊",
+      "onboard_time": 1684994669,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 382354,
       "num": 382354,
       "word": "手机真的会偷听吗",
@@ -3291,6 +3299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368405,
+      "num": 368405,
+      "word": "国泰航空称网传英文内部信件为伪造",
+      "onboard_time": 1684995628,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366922,
       "num": 366922,
       "word": "怦然心动20岁",
@@ -3433,14 +3449,6 @@
       "onboard_time": 1684941510,
       "rank": 17,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 351180,
-      "num": 351180,
-      "word": "摇粒绒做的花花是真显胖啊",
-      "onboard_time": 1684994669,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 351000,
@@ -3689,14 +3697,6 @@
       "onboard_time": 1684911090,
       "rank": 21,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 329516,
-      "num": 329516,
-      "word": "国泰航空称网传英文内部信件为伪造",
-      "onboard_time": 1684995628,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 328028,
@@ -3961,6 +3961,14 @@
       "onboard_time": 1684884563,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 310769,
+      "num": 244491,
+      "word": "看似很贵其实很便宜的东西",
+      "onboard_time": 1684998329,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 310394,
@@ -5003,6 +5011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 245473,
+      "num": 245473,
+      "word": "国泰航空称空中服务员工会不代表国泰",
+      "onboard_time": 1684999649,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245421,
       "num": 245421,
       "word": "袁隆平离世2周年",
@@ -5049,6 +5065,14 @@
       "onboard_time": 1684829847,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243550,
+      "num": 243550,
+      "word": "沈月cos黎姿版赵敏",
+      "onboard_time": 1684996351,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 243318,
@@ -5337,6 +5361,14 @@
       "onboard_time": 1684852418,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 232834,
+      "num": 232834,
+      "word": "原来吴优是北电第一",
+      "onboard_time": 1684998750,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 232703,
@@ -5769,14 +5801,6 @@
       "onboard_time": 1684895067,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 215661,
-      "num": 215661,
-      "word": "沈月cos黎姿版赵敏",
-      "onboard_time": 1684996351,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 215182,
@@ -6401,14 +6425,6 @@
       "onboard_time": 1684909588,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191015,
-      "num": 191015,
-      "word": "看似很贵其实很便宜的东西",
-      "onboard_time": 1684998329,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 190659,
@@ -7459,20 +7475,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 149329,
-      "num": 149329,
-      "word": "原来吴优是北电第一",
-      "onboard_time": 1684998750,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 149166,
       "num": 149166,
       "word": "seventeen海报好像葫芦娃",
       "onboard_time": 1684742967,
       "rank": 41,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 148957,
+      "num": 148957,
+      "word": "怎么听歌听出优越感了",
+      "onboard_time": 1684999348,
+      "rank": 42,
+      "category": "幽默,音乐"
     },
     {
       "raw_hot": 148717,
@@ -7513,6 +7529,14 @@
       "onboard_time": 1684751131,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147209,
+      "num": 147209,
+      "word": "李佳琦直播",
+      "onboard_time": 1684998688,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 147048,
@@ -7619,6 +7643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138372,
+      "num": 138372,
+      "word": "射手座内心的小敏感",
+      "onboard_time": 1684999229,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137575,
       "num": 137575,
       "word": "上影节官方宣传片发布",
@@ -7723,6 +7755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 132564,
+      "num": 132564,
+      "word": "原来长相思十年前就找过杨紫",
+      "onboard_time": 1684999949,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 132230,
       "num": 327825,
       "word": "夏天为了美白有多拼",
@@ -7761,6 +7801,14 @@
       "onboard_time": 1684683989,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131313,
+      "num": 131313,
+      "word": "张彬彬 错过宁安如梦",
+      "onboard_time": 1684999949,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 131086,
@@ -7809,14 +7857,6 @@
       "onboard_time": 1684748248,
       "rank": 47,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 126758,
-      "num": 126758,
-      "word": "李佳琦直播",
-      "onboard_time": 1684998688,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 126483,
@@ -8291,6 +8331,14 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 74103,
+      "num": 400672,
+      "word": "从北京坐高铁1小时都能到哪儿玩",
+      "onboard_time": 1684998688,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73778,
       "num": 206869,
       "word": "家庭用车怎么选",
@@ -8697,14 +8745,6 @@
       "onboard_time": 1684936829,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11278,
-      "num": 400672,
-      "word": "从北京坐高铁1小时都能到哪儿玩",
-      "onboard_time": 1684998688,
-      "rank": 14,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
