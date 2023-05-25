@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685049272964,
+  "endTime": 1685050404427,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -54337,6 +54337,14 @@
       "onboard_time": 1684953853,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18598,
+      "num": 18598,
+      "word": "小学生校内被撞身亡校长被免职",
+      "onboard_time": 1685049673,
+      "rank": 44,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 18370,

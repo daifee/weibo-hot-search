@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/05/22 00:21:02 ~ 2023/05/26 05:14:32
+本榜单时间：2023/05/22 00:21:02 ~ 2023/05/26 05:33:24
 </p>
 </blockquote>
 <p>
@@ -7325,6 +7325,12 @@ MTG对战HI（热度：26326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C4%E6%AF%940%E5%93%88%E8%B4%9D%E6%9D%BE%23" target="weibo">
 林高远4比0哈贝松（热度：19359）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E6%A0%A1%E9%95%BF%E8%A2%AB%E5%85%8D%E8%81%8C%23" target="weibo">
+小学生校内被撞身亡校长被免职（热度：18598）
 </a>
 </li>
 
