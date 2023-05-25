@@ -1,7 +1,15 @@
 {
   "startTime": 1684945355711,
-  "endTime": 1684977814856,
+  "endTime": 1684979239433,
   "band_list": [
+    {
+      "raw_hot": 1996231,
+      "num": 1996231,
+      "word": "千万不要长期喝奶茶",
+      "onboard_time": 1684972223,
+      "rank": 1,
+      "category": "幽默"
+    },
     {
       "raw_hot": 1853639,
       "num": 1853639,
@@ -9,14 +17,6 @@
       "onboard_time": 1684971924,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1830892,
-      "num": 1830892,
-      "word": "千万不要长期喝奶茶",
-      "onboard_time": 1684972223,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 1705609,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1599353,
+      "num": 1599353,
+      "word": "微信新增锁定功能",
+      "onboard_time": 1684974449,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1343159,
       "num": 720126,
       "word": "康辉曾提醒国泰航空不作不死",
@@ -35,12 +43,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1265827,
-      "num": 1265827,
-      "word": "微信新增锁定功能",
-      "onboard_time": 1684974449,
-      "rank": 4,
-      "category": "科技"
+      "raw_hot": 1336053,
+      "num": 1336053,
+      "word": "宋茜好辣",
+      "onboard_time": 1684976670,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1113818,
@@ -65,14 +73,6 @@
       "onboard_time": 1684926869,
       "rank": 0,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 721626,
-      "num": 721626,
-      "word": "宋茜好辣",
-      "onboard_time": 1684976670,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 705210,
@@ -155,6 +155,22 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 449974,
+      "num": 449974,
+      "word": "内娱综艺史上炸裂场面",
+      "onboard_time": 1684977152,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 442302,
+      "num": 341113,
+      "word": "毕业后做了日入万元的冰淇淋店主",
+      "onboard_time": 1684977152,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 425005,
       "num": 425005,
       "word": "杨迪我分完了张柏芝我离完了",
@@ -169,6 +185,14 @@
       "onboard_time": 1684940430,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402810,
+      "num": 402810,
+      "word": "兔头涨价",
+      "onboard_time": 1684976129,
+      "rank": 17,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 392458,
@@ -195,12 +219,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 357783,
-      "num": 357783,
-      "word": "兔头涨价",
-      "onboard_time": 1684976129,
-      "rank": 17,
-      "category": "社会新闻,美食"
+      "raw_hot": 369068,
+      "num": 369068,
+      "word": "甲状腺结节发生率在20%以上",
+      "onboard_time": 1684971985,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357108,
@@ -219,20 +243,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 346312,
-      "num": 346312,
-      "word": "甲状腺结节发生率在20%以上",
-      "onboard_time": 1684971985,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 344444,
       "num": 222248,
       "word": "交了男朋友后才知道的事",
       "onboard_time": 1684936470,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 343210,
+      "num": 343210,
+      "word": "易烊千玺是在撒娇吗",
+      "onboard_time": 1684977867,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 340809,
@@ -259,28 +283,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 312479,
-      "num": 312479,
-      "word": "毕业后做了日入万元的冰淇淋店主",
-      "onboard_time": 1684977152,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 310004,
       "num": 218993,
       "word": "结婚6年没孩子一查丈夫竟是女儿身",
       "onboard_time": 1684919969,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 309119,
-      "num": 309119,
-      "word": "内娱综艺史上炸裂场面",
-      "onboard_time": 1684977152,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 308929,
@@ -297,6 +305,22 @@
       "onboard_time": 1684930289,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 295891,
+      "num": 295891,
+      "word": "高叶cos的是谁",
+      "onboard_time": 1684978168,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 295806,
+      "num": 295806,
+      "word": "榴莲 贵",
+      "onboard_time": 1684978527,
+      "rank": 23,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 290520,
@@ -323,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266271,
+      "num": 266271,
+      "word": "金玟庭的背",
+      "onboard_time": 1684977687,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 259180,
       "num": 217642,
       "word": "怦然3素人嘉宾撞脸张真源",
@@ -331,8 +363,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 252955,
-      "num": 252955,
+      "raw_hot": 255452,
+      "num": 255452,
       "word": "RNG阵容",
       "onboard_time": 1684974750,
       "rank": 27,
@@ -379,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224029,
+      "num": 224029,
+      "word": "偷偷努力的感觉",
+      "onboard_time": 1684977031,
+      "rank": 40,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 222524,
       "num": 222524,
       "word": "偶遇倪大红惠英红逛夜市",
@@ -395,8 +435,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 208108,
-      "num": 208108,
+      "raw_hot": 208759,
+      "num": 208759,
       "word": "腾讯视频电视剧必看榜",
       "onboard_time": 1684974989,
       "rank": 32,
@@ -433,6 +473,14 @@
       "onboard_time": 1684942111,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182292,
+      "num": 182292,
+      "word": "明星栩栩华生内场图",
+      "onboard_time": 1684978648,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 181773,
@@ -473,14 +521,6 @@
       "onboard_time": 1684920451,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169337,
-      "num": 169337,
-      "word": "偷偷努力的感觉",
-      "onboard_time": 1684977031,
-      "rank": 40,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 167762,
@@ -555,14 +595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155771,
-      "num": 155771,
-      "word": "金玟庭的背",
-      "onboard_time": 1684977687,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 153865,
       "num": 153865,
       "word": "华表奖易烊千玺在看王俊凯吗",
@@ -609,6 +641,14 @@
       "onboard_time": 1684922191,
       "rank": 37,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 139943,
+      "num": 139943,
+      "word": "奶奶出院后把小猫咪高兴坏了",
+      "onboard_time": 1684978468,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 131854,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1684979239433,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1996231,
+        "num": 1996231,
+        "word": "千万不要长期喝奶茶",
+        "onboard_time": 1684972223,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1758089,
+        "num": 1758089,
+        "word": "罗云熙不上综艺的原因",
+        "onboard_time": 1684971924,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125797,
+        "num": 1611365,
+        "word": "坐高铁被窗外的中国基建所惊艳",
+        "onboard_time": 1684938092,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1599353,
+        "num": 1599353,
+        "word": "微信新增锁定功能",
+        "onboard_time": 1684974449,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1336053,
+        "num": 1336053,
+        "word": "宋茜好辣",
+        "onboard_time": 1684976670,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1590303,
+        "num": 1260168,
+        "word": "山西失联身亡男孩生母聊天记录曝光",
+        "onboard_time": 1684970782,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 782289,
+        "num": 782289,
+        "word": "员工每天带薪拉屎3至6小时被解雇",
+        "onboard_time": 1684936892,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679159,
+        "num": 679159,
+        "word": "网传一大学所有饮品店禁止使用冰块",
+        "onboard_time": 1684957814,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573933,
+        "num": 573933,
+        "word": "谁给白鹿做的妆造",
+        "onboard_time": 1684937498,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 536192,
+        "num": 536192,
+        "word": "都不买榴莲我就放心了",
+        "onboard_time": 1684937793,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454411,
+        "num": 454411,
+        "word": "美国科技大亨用17岁儿子血浆换血",
+        "onboard_time": 1684943427,
+        "rank": 10,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 449974,
+        "num": 449974,
+        "word": "内娱综艺史上炸裂场面",
+        "onboard_time": 1684977152,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 402810,
+        "num": 402810,
+        "word": "兔头涨价",
+        "onboard_time": 1684976129,
+        "rank": 12,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 400296,
+        "num": 400296,
+        "word": "刘亚仁逮捕令被驳回",
+        "onboard_time": 1684970302,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 397865,
+        "num": 397865,
+        "word": "公主小妹照进现实",
+        "onboard_time": 1684934370,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 370674,
+        "num": 370674,
+        "word": "苏醒晒陆虎的官宣朋友圈",
+        "onboard_time": 1684945584,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369068,
+        "num": 369068,
+        "word": "甲状腺结节发生率在20%以上",
+        "onboard_time": 1684971985,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368087,
+        "num": 368087,
+        "word": "恩静",
+        "onboard_time": 1684972166,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 355703,
+        "num": 355703,
+        "word": "杨紫表情管理",
+        "onboard_time": 1684969279,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 343210,
+        "num": 343210,
+        "word": "易烊千玺是在撒娇吗",
+        "onboard_time": 1684977867,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 442302,
+        "num": 341113,
+        "word": "毕业后做了日入万元的冰淇淋店主",
+        "onboard_time": 1684977152,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 333853,
+        "num": 333853,
+        "word": "北京和上海真的很不一样",
+        "onboard_time": 1684974268,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295891,
+        "num": 295891,
+        "word": "高叶cos的是谁",
+        "onboard_time": 1684978168,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295806,
+        "num": 295806,
+        "word": "榴莲 贵",
+        "onboard_time": 1684978527,
+        "rank": 23,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 276764,
+        "num": 276764,
+        "word": "网友称国泰航空涉事航班挨个问要不要毛毯",
+        "onboard_time": 1684948157,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266271,
+        "num": 266271,
+        "word": "金玟庭的背",
+        "onboard_time": 1684977687,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 264769,
+        "num": 264769,
+        "word": "英伟达",
+        "onboard_time": 1684973790,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 255452,
+        "num": 255452,
+        "word": "RNG阵容",
+        "onboard_time": 1684974750,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 251945,
+        "num": 251945,
+        "word": "杨迪我分完了张柏芝我离完了",
+        "onboard_time": 1684932750,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244935,
+        "num": 244935,
+        "word": "乃万加入NOUS",
+        "onboard_time": 1684974088,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243514,
+        "num": 243514,
+        "word": "梅婷雨中撩发好美",
+        "onboard_time": 1684976490,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224029,
+        "num": 224029,
+        "word": "偷偷努力的感觉",
+        "onboard_time": 1684977031,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 210325,
+        "num": 210325,
+        "word": "10岁遇害男孩生父讲述自己为何报警",
+        "onboard_time": 1684969641,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208759,
+        "num": 208759,
+        "word": "腾讯视频电视剧必看榜",
+        "onboard_time": 1684974989,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205311,
+        "num": 205311,
+        "word": "五月天北京演唱会二次开票",
+        "onboard_time": 1684975830,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188855,
+        "num": 188855,
+        "word": "交了男朋友后才知道的事",
+        "onboard_time": 1684936470,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182292,
+        "num": 182292,
+        "word": "明星栩栩华生内场图",
+        "onboard_time": 1684978648,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175444,
+        "num": 175444,
+        "word": "赵露思换妆容",
+        "onboard_time": 1684938931,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167530,
+        "num": 167530,
+        "word": "柳智敏戛纳红毯戴的项链",
+        "onboard_time": 1684976552,
+        "rank": 38,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 162569,
+        "num": 162569,
+        "word": "老人突发心脏病交警秒掏救心丸",
+        "onboard_time": 1684977750,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148734,
+        "num": 148734,
+        "word": "结婚6年没孩子一查丈夫竟是女儿身",
+        "onboard_time": 1684919969,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147322,
+        "num": 147322,
+        "word": "广东人会有身材焦虑吗",
+        "onboard_time": 1684970841,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145224,
+        "num": 145224,
+        "word": "你能接受多少钱一个的兔头",
+        "onboard_time": 1684975590,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139943,
+        "num": 139943,
+        "word": "奶奶出院后把小猫咪高兴坏了",
+        "onboard_time": 1684978468,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138463,
+        "num": 138463,
+        "word": "上海交警通报两车高架上斗气碰撞",
+        "onboard_time": 1684937672,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133656,
+        "num": 133656,
+        "word": "我推的孩子",
+        "onboard_time": 1684971624,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 127844,
+        "num": 127844,
+        "word": "我是中国人我想举自己的国旗",
+        "onboard_time": 1684973066,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 126296,
+        "num": 126296,
+        "word": "清洁工躺车库被碾亡司机申请国赔",
+        "onboard_time": 1684963273,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125714,
+        "num": 125714,
+        "word": "相亲对象每天只跟我聊工作问题",
+        "onboard_time": 1684939113,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103839,
+        "num": 124683,
+        "word": "索尼PlayStation游戏展",
+        "onboard_time": 1684977449,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技的高峰行则必达#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684977814856,
+  "endTime": 1684979239433,
   "band_list": [
     {
       "raw_hot": 3643134,
@@ -203,6 +203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1996231,
+      "num": 1996231,
+      "word": "千万不要长期喝奶茶",
+      "onboard_time": 1684972223,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1992509,
       "num": 1992509,
       "word": "鹿晗兑现三年前承诺",
@@ -257,14 +265,6 @@
       "onboard_time": 1684971924,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1830892,
-      "num": 1830892,
-      "word": "千万不要长期喝奶茶",
-      "onboard_time": 1684972223,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 1781665,
@@ -393,6 +393,14 @@
       "onboard_time": 1684822829,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1599353,
+      "num": 1599353,
+      "word": "微信新增锁定功能",
+      "onboard_time": 1684974449,
+      "rank": 4,
+      "category": "科技"
     },
     {
       "raw_hot": 1584994,
@@ -587,6 +595,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1336053,
+      "num": 1336053,
+      "word": "宋茜好辣",
+      "onboard_time": 1684976670,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1335403,
       "num": 1335403,
       "word": "刘浩存仪态",
@@ -657,14 +673,6 @@
       "onboard_time": 1684930289,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1265827,
-      "num": 1265827,
-      "word": "微信新增锁定功能",
-      "onboard_time": 1684974449,
-      "rank": 4,
-      "category": "科技"
     },
     {
       "raw_hot": 1265650,
@@ -1441,14 +1449,6 @@
       "onboard_time": 1684763491,
       "rank": 9,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 721626,
-      "num": 721626,
-      "word": "宋茜好辣",
-      "onboard_time": 1684976670,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 720704,
@@ -2427,6 +2427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 449974,
+      "num": 449974,
+      "word": "内娱综艺史上炸裂场面",
+      "onboard_time": 1684977152,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 449764,
       "num": 449764,
       "word": "孩子被救出后哭喊还有我爷爷",
@@ -2489,6 +2497,14 @@
       "onboard_time": 1684714647,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 442302,
+      "num": 341113,
+      "word": "毕业后做了日入万元的冰淇淋店主",
+      "onboard_time": 1684977152,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 439360,
@@ -2689,6 +2705,14 @@
       "onboard_time": 1684836690,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 402810,
+      "num": 402810,
+      "word": "兔头涨价",
+      "onboard_time": 1684976129,
+      "rank": 17,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 402263,
@@ -2971,6 +2995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 369068,
+      "num": 369068,
+      "word": "甲状腺结节发生率在20%以上",
+      "onboard_time": 1684971985,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366922,
       "num": 366922,
       "word": "怦然心动20岁",
@@ -3065,14 +3097,6 @@
       "onboard_time": 1684761929,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 357783,
-      "num": 357783,
-      "word": "兔头涨价",
-      "onboard_time": 1684976129,
-      "rank": 17,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 357420,
@@ -3187,14 +3211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 346312,
-      "num": 346312,
-      "word": "甲状腺结节发生率在20%以上",
-      "onboard_time": 1684971985,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 346182,
       "num": 346182,
       "word": "范丞丞裤子是来拖地的吗",
@@ -3233,6 +3249,14 @@
       "onboard_time": 1684836090,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 343210,
+      "num": 343210,
+      "word": "易烊千玺是在撒娇吗",
+      "onboard_time": 1684977867,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 342967,
@@ -3579,14 +3603,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 312479,
-      "num": 312479,
-      "word": "毕业后做了日入万元的冰淇淋店主",
-      "onboard_time": 1684977152,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 311318,
       "num": 311318,
       "word": "aespa亮相戛纳",
@@ -3617,14 +3633,6 @@
       "onboard_time": 1684886129,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 309119,
-      "num": 309119,
-      "word": "内娱综艺史上炸裂场面",
-      "onboard_time": 1684977152,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 308267,
@@ -3769,6 +3777,22 @@
       "onboard_time": 1684847612,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295891,
+      "num": 295891,
+      "word": "高叶cos的是谁",
+      "onboard_time": 1684978168,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 295806,
+      "num": 295806,
+      "word": "榴莲 贵",
+      "onboard_time": 1684978527,
+      "rank": 23,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 295080,
@@ -4275,6 +4299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266271,
+      "num": 266271,
+      "word": "金玟庭的背",
+      "onboard_time": 1684977687,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 265828,
       "num": 265828,
       "word": "如何看待520结婚人数断崖式下跌",
@@ -4419,6 +4451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255452,
+      "num": 255452,
+      "word": "RNG阵容",
+      "onboard_time": 1684974750,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 255137,
       "num": 225115,
       "word": "周深华表奖彩排现场",
@@ -4465,14 +4505,6 @@
       "onboard_time": 1684925189,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 252955,
-      "num": 252955,
-      "word": "RNG阵容",
-      "onboard_time": 1684974750,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 252848,
@@ -5075,6 +5107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224029,
+      "num": 224029,
+      "word": "偷偷努力的感觉",
+      "onboard_time": 1684977031,
+      "rank": 40,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 223644,
       "num": 223644,
       "word": "德班世乒赛场馆停电了",
@@ -5371,20 +5411,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208759,
+      "num": 208759,
+      "word": "腾讯视频电视剧必看榜",
+      "onboard_time": 1684974989,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208182,
       "num": 208182,
       "word": "莫名其妙被朋友删除好友了",
       "onboard_time": 1684728990,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 208108,
-      "num": 208108,
-      "word": "腾讯视频电视剧必看榜",
-      "onboard_time": 1684974989,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 207519,
@@ -6027,6 +6067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 182292,
+      "num": 182292,
+      "word": "明星栩栩华生内场图",
+      "onboard_time": 1684978648,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182109,
       "num": 182109,
       "word": "学校管理制度化和人性化哪个更重要",
@@ -6387,14 +6435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169337,
-      "num": 169337,
-      "word": "偷偷努力的感觉",
-      "onboard_time": 1684977031,
-      "rank": 40,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 168433,
       "num": 168433,
       "word": "如何区分呼吸道合胞病毒和流感",
@@ -6699,14 +6739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155771,
-      "num": 155771,
-      "word": "金玟庭的背",
-      "onboard_time": 1684977687,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 155203,
       "num": 155203,
       "word": "怎么别人的爱情都这么好嗑",
@@ -6921,6 +6953,14 @@
       "onboard_time": 1684749029,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139943,
+      "num": 139943,
+      "word": "奶奶出院后把小猫咪高兴坏了",
+      "onboard_time": 1684978468,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 139526,
