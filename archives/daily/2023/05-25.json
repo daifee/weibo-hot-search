@@ -1,6 +1,6 @@
 {
   "startTime": 1684945355711,
-  "endTime": 1684984668149,
+  "endTime": 1684985622624,
   "band_list": [
     {
       "raw_hot": 2227237,
@@ -19,20 +19,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1913826,
+      "num": 1913826,
+      "word": "榴莲 贵",
+      "onboard_time": 1684978527,
+      "rank": 23,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1853639,
       "num": 1853639,
       "word": "罗云熙不上综艺的原因",
       "onboard_time": 1684971924,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1818365,
-      "num": 1818365,
-      "word": "榴莲 贵",
-      "onboard_time": 1684978527,
-      "rank": 23,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1705609,
@@ -65,6 +65,14 @@
       "onboard_time": 1684976670,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1193209,
+      "num": 1193209,
+      "word": "专家建议新冠二阳不要带病上班",
+      "onboard_time": 1684983866,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1113818,
@@ -104,6 +112,22 @@
       "word": "24岁研究生离世捐器官救多人",
       "onboard_time": 1684979247,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 821815,
+      "num": 821815,
+      "word": "一群外国人打飞的到河南看中医",
+      "onboard_time": 1684982847,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 787023,
+      "num": 787023,
+      "word": "女生兼职上门喂猫遭恋踩癖骚扰",
+      "onboard_time": 1684983209,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -211,14 +235,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 514650,
-      "num": 514650,
-      "word": "一群外国人打飞的到河南看中医",
-      "onboard_time": 1684982847,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 507398,
       "num": 507398,
       "word": "刘亚仁逮捕令被驳回",
@@ -232,14 +248,6 @@
       "word": "二阳",
       "onboard_time": 1684979367,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 485556,
-      "num": 485556,
-      "word": "女生兼职上门喂猫遭恋踩癖骚扰",
-      "onboard_time": 1684983209,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -267,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 422054,
+      "num": 422054,
+      "word": "网友面试后收到公司20元车马费",
+      "onboard_time": 1684983628,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407859,
       "num": 407859,
       "word": "24岁大男孩去世捐器官救4人",
@@ -289,14 +305,6 @@
       "onboard_time": 1684976129,
       "rank": 17,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 395402,
-      "num": 395402,
-      "word": "专家建议新冠二阳不要带病上班",
-      "onboard_time": 1684983866,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 392458,
@@ -388,19 +396,19 @@
     },
     {
       "raw_hot": 319780,
-      "num": 268927,
+      "num": 278856,
       "word": "龚俊模仿花花吃东西",
       "onboard_time": 1684984468,
       "rank": 30,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 318530,
-      "num": 318530,
-      "word": "网友面试后收到公司20元车马费",
-      "onboard_time": 1684983628,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 317890,
+      "num": 317890,
+      "word": "真情侣版偷偷藏不住",
+      "onboard_time": 1684982908,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 313613,
@@ -409,14 +417,6 @@
       "onboard_time": 1684982128,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 312558,
-      "num": 312558,
-      "word": "真情侣版偷偷藏不住",
-      "onboard_time": 1684982908,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 312529,
@@ -435,12 +435,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309548,
+      "num": 309548,
+      "word": "长城官方举报比亚迪",
+      "onboard_time": 1684985008,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308929,
       "num": 308929,
       "word": "杨紫的发际线",
       "onboard_time": 1684934191,
       "rank": 14,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 303234,
+      "num": 303234,
+      "word": "五月天演唱会北京地铁出行有调整",
+      "onboard_time": 1684984170,
+      "rank": 37,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 301956,
@@ -457,6 +473,14 @@
       "onboard_time": 1684978168,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 292814,
+      "num": 292814,
+      "word": "阳了还来上班是什么心理",
+      "onboard_time": 1684984709,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 290520,
@@ -603,11 +627,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206637,
+      "num": 206637,
+      "word": "enhypen粉丝伤心的原因",
+      "onboard_time": 1684984649,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205812,
       "num": 205812,
       "word": "白敬亭用的什么粉底",
       "onboard_time": 1684934971,
       "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 204618,
+      "num": 204618,
+      "word": "泡沫中的龚俊",
+      "onboard_time": 1684984649,
+      "rank": 46,
       "category": "作品衍生"
     },
     {
@@ -619,12 +659,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200510,
+      "num": 200510,
+      "word": "关晓彤明艳风",
+      "onboard_time": 1684985008,
+      "rank": 39,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 195753,
       "num": 195753,
       "word": "索尼PlayStation游戏展",
       "onboard_time": 1684977449,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195746,
+      "num": 592367,
+      "word": "男子钓鱼钓到金戒指卖了7740元",
+      "onboard_time": 1684983689,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194963,
@@ -643,12 +699,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 187284,
-      "num": 187284,
-      "word": "五月天演唱会北京地铁出行有调整",
-      "onboard_time": 1684984170,
-      "rank": 37,
-      "category": "社会新闻,艺人"
+      "raw_hot": 183169,
+      "num": 183169,
+      "word": "在广东千万不要用吸管杯",
+      "onboard_time": 1684985429,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 182292,
@@ -787,28 +843,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155571,
-      "num": 155571,
-      "word": "enhypen粉丝伤心的原因",
-      "onboard_time": 1684984649,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 153865,
       "num": 153865,
       "word": "华表奖易烊千玺在看王俊凯吗",
       "onboard_time": 1684931191,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 152339,
-      "num": 152339,
-      "word": "泡沫中的龚俊",
-      "onboard_time": 1684984649,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 149087,
@@ -884,7 +924,7 @@
     },
     {
       "raw_hot": 108076,
-      "num": 251727,
+      "num": 792485,
       "word": "Angelababy贝克汉姆在澳门拍什么",
       "onboard_time": 1684984288,
       "rank": 32,
@@ -913,14 +953,6 @@
       "onboard_time": 1684935871,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 96565,
-      "num": 471322,
-      "word": "男子钓鱼钓到金戒指卖了7740元",
-      "onboard_time": 1684983689,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95293,

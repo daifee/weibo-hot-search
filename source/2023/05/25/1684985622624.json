@@ -1,0 +1,410 @@
+{
+  "runTime": 1684985622624,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1913826,
+        "num": 1913826,
+        "word": "榴莲 贵",
+        "onboard_time": 1684978527,
+        "rank": 0,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 1765685,
+        "num": 1765685,
+        "word": "微信新增锁定功能",
+        "onboard_time": 1684974449,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 75474,
+        "num": 1465605,
+        "word": "坐高铁被窗外的中国基建所惊艳",
+        "onboard_time": 1684938092,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1315008,
+        "num": 1315008,
+        "word": "五月天门票",
+        "onboard_time": 1684984107,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1193209,
+        "num": 1193209,
+        "word": "专家建议新冠二阳不要带病上班",
+        "onboard_time": 1684983866,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1182583,
+        "num": 1182583,
+        "word": "千万不要长期喝奶茶",
+        "onboard_time": 1684972223,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1103156,
+        "num": 1103156,
+        "word": "宋茜好辣",
+        "onboard_time": 1684976670,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1017812,
+        "num": 1017812,
+        "word": "内娱综艺史上炸裂场面",
+        "onboard_time": 1684977152,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 921346,
+        "num": 921346,
+        "word": "刘亚仁被人泼水",
+        "onboard_time": 1684980448,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 821815,
+        "num": 821815,
+        "word": "一群外国人打飞的到河南看中医",
+        "onboard_time": 1684982847,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89531,
+        "num": 792485,
+        "word": "Angelababy贝克汉姆在澳门拍什么",
+        "onboard_time": 1684984288,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 787023,
+        "num": 787023,
+        "word": "女生兼职上门喂猫遭恋踩癖骚扰",
+        "onboard_time": 1684983209,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 755715,
+        "num": 755715,
+        "word": "24岁研究生离世捐器官救多人",
+        "onboard_time": 1684979247,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595077,
+        "num": 595077,
+        "word": "罗云熙不上综艺的原因",
+        "onboard_time": 1684971924,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195746,
+        "num": 592367,
+        "word": "男子钓鱼钓到金戒指卖了7740元",
+        "onboard_time": 1684983689,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591298,
+        "num": 591298,
+        "word": "九鹭非香",
+        "onboard_time": 1684981288,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 479408,
+        "num": 479408,
+        "word": "都不买榴莲我就放心了",
+        "onboard_time": 1684937793,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422054,
+        "num": 422054,
+        "word": "网友面试后收到公司20元车马费",
+        "onboard_time": 1684983628,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371022,
+        "num": 371022,
+        "word": "易烊千玺是在撒娇吗",
+        "onboard_time": 1684977867,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 329156,
+        "num": 329156,
+        "word": "员工每天带薪拉屎3至6小时被解雇",
+        "onboard_time": 1684936892,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551592,
+        "num": 328032,
+        "word": "山西失联身亡男孩生母聊天记录曝光",
+        "onboard_time": 1684970782,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388600,
+        "num": 328004,
+        "word": "给狗买磨牙棒忘了看尺寸",
+        "onboard_time": 1684981230,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 317890,
+        "num": 317890,
+        "word": "真情侣版偷偷藏不住",
+        "onboard_time": 1684982908,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309889,
+        "num": 309889,
+        "word": "二阳",
+        "onboard_time": 1684979367,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309548,
+        "num": 309548,
+        "word": "长城官方举报比亚迪",
+        "onboard_time": 1684985008,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303234,
+        "num": 303234,
+        "word": "五月天演唱会北京地铁出行有调整",
+        "onboard_time": 1684984170,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 295421,
+        "num": 295421,
+        "word": "北京二手房一天降价20万只求一卖",
+        "onboard_time": 1684982128,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295017,
+        "num": 295017,
+        "word": "护心十五集前后不是一个编剧",
+        "onboard_time": 1684980392,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292814,
+        "num": 292814,
+        "word": "阳了还来上班是什么心理",
+        "onboard_time": 1684984709,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280278,
+        "num": 280278,
+        "word": "杨紫表情管理",
+        "onboard_time": 1684969279,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 278856,
+        "num": 278856,
+        "word": "龚俊模仿花花吃东西",
+        "onboard_time": 1684984468,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 257007,
+        "num": 257007,
+        "word": "辛巴",
+        "onboard_time": 1684980628,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 247974,
+        "num": 247974,
+        "word": "催收巨头湖南永雄宣布停业",
+        "onboard_time": 1684979848,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233246,
+        "num": 233246,
+        "word": "金玟庭的背",
+        "onboard_time": 1684977687,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218389,
+        "num": 218389,
+        "word": "当00后当了老师",
+        "onboard_time": 1684981168,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211705,
+        "num": 211705,
+        "word": "不上综艺的明星",
+        "onboard_time": 1684982370,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206637,
+        "num": 206637,
+        "word": "enhypen粉丝伤心的原因",
+        "onboard_time": 1684984649,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204618,
+        "num": 204618,
+        "word": "泡沫中的龚俊",
+        "onboard_time": 1684984649,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203804,
+        "num": 203804,
+        "word": "宋茜沈月秀场同框",
+        "onboard_time": 1684982608,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 200510,
+        "num": 200510,
+        "word": "关晓彤明艳风",
+        "onboard_time": 1684985008,
+        "rank": 39,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 183169,
+        "num": 183169,
+        "word": "在广东千万不要用吸管杯",
+        "onboard_time": 1684985429,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172482,
+        "num": 172482,
+        "word": "4000斤麦子掉鱼塘村民集体帮打捞",
+        "onboard_time": 1684983447,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168492,
+        "num": 168492,
+        "word": "网传一大学所有饮品店禁止使用冰块",
+        "onboard_time": 1684957814,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161834,
+        "num": 161834,
+        "word": "高叶cos的是谁",
+        "onboard_time": 1684978168,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158019,
+        "num": 158019,
+        "word": "奶奶出院后把小猫咪高兴坏了",
+        "onboard_time": 1684978468,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155963,
+        "num": 155963,
+        "word": "谁给白鹿做的妆造",
+        "onboard_time": 1684937498,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151493,
+        "num": 151493,
+        "word": "甲状腺结节发生率在20%以上",
+        "onboard_time": 1684971985,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138999,
+        "num": 138999,
+        "word": "RNG阵容",
+        "onboard_time": 1684974750,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 78982,
+        "num": 138955,
+        "word": "我推的孩子",
+        "onboard_time": 1684971624,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 66879,
+        "num": 138043,
+        "word": "以闪亮之名",
+        "onboard_time": 1684982969,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#打造经济监督的特种部队#"
+    }
+  }
+}

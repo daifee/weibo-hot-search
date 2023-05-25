@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684984668149,
+  "endTime": 1684985622624,
   "band_list": [
     {
       "raw_hot": 3643134,
@@ -227,6 +227,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1913826,
+      "num": 1913826,
+      "word": "榴莲 贵",
+      "onboard_time": 1684978527,
+      "rank": 23,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1912687,
       "num": 1912687,
       "word": "詹姆斯 退役",
@@ -273,14 +281,6 @@
       "onboard_time": 1684971924,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1818365,
-      "num": 1818365,
-      "word": "榴莲 贵",
-      "onboard_time": 1684978527,
-      "rank": 23,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1781665,
@@ -803,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1193209,
+      "num": 1193209,
+      "word": "专家建议新冠二阳不要带病上班",
+      "onboard_time": 1684983866,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1188389,
       "num": 1188389,
       "word": "一年不上班的真实感受",
@@ -1315,6 +1323,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 821815,
+      "num": 821815,
+      "word": "一群外国人打飞的到河南看中医",
+      "onboard_time": 1684982847,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 814441,
       "num": 814441,
       "word": "九鹭非香",
@@ -1385,6 +1401,14 @@
       "onboard_time": 1684934191,
       "rank": 34,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 787023,
+      "num": 787023,
+      "word": "女生兼职上门喂猫遭恋踩癖骚扰",
+      "onboard_time": 1684983209,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 775560,
@@ -2131,14 +2155,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 514650,
-      "num": 514650,
-      "word": "一群外国人打飞的到河南看中医",
-      "onboard_time": 1684982847,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 513399,
       "num": 412842,
       "word": "林心如支持霍建华拍戏",
@@ -2305,14 +2321,6 @@
       "onboard_time": 1684757248,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 485556,
-      "num": 485556,
-      "word": "女生兼职上门喂猫遭恋踩癖骚扰",
-      "onboard_time": 1684983209,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 485167,
@@ -2675,6 +2683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422054,
+      "num": 422054,
+      "word": "网友面试后收到公司20元车马费",
+      "onboard_time": 1684983628,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421473,
       "num": 331202,
       "word": "女性30岁生育算高龄产妇吗",
@@ -2857,14 +2873,6 @@
       "onboard_time": 1684798944,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 395402,
-      "num": 395402,
-      "word": "专家建议新冠二阳不要带病上班",
-      "onboard_time": 1684983866,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 392458,
@@ -3572,7 +3580,7 @@
     },
     {
       "raw_hot": 319780,
-      "num": 268927,
+      "num": 278856,
       "word": "龚俊模仿花花吃东西",
       "onboard_time": 1684984468,
       "rank": 30,
@@ -3603,20 +3611,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 318530,
-      "num": 318530,
-      "word": "网友面试后收到公司20元车马费",
-      "onboard_time": 1684983628,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 318118,
       "num": 318118,
       "word": "宁艺卓瘦了",
       "onboard_time": 1684769488,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 317890,
+      "num": 317890,
+      "word": "真情侣版偷偷藏不住",
+      "onboard_time": 1684982908,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 317664,
@@ -3715,14 +3723,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 312558,
-      "num": 312558,
-      "word": "真情侣版偷偷藏不住",
-      "onboard_time": 1684982908,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 312529,
       "num": 312529,
       "word": "金玟庭的背",
@@ -3752,6 +3752,14 @@
       "word": "排队过马路的小鸭子好可爱",
       "onboard_time": 1684835430,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309548,
+      "num": 309548,
+      "word": "长城官方举报比亚迪",
+      "onboard_time": 1684985008,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -3833,6 +3841,14 @@
       "onboard_time": 1684931129,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 303234,
+      "num": 303234,
+      "word": "五月天演唱会北京地铁出行有调整",
+      "onboard_time": 1684984170,
+      "rank": 37,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 302534,
@@ -3953,6 +3969,14 @@
       "onboard_time": 1684752389,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 292814,
+      "num": 292814,
+      "word": "阳了还来上班是什么心理",
+      "onboard_time": 1684984709,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 292525,
@@ -5595,6 +5619,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 206637,
+      "num": 206637,
+      "word": "enhypen粉丝伤心的原因",
+      "onboard_time": 1684984649,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205640,
       "num": 205640,
       "word": "18年RNG全员离队",
@@ -5617,6 +5649,14 @@
       "onboard_time": 1684916069,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 204618,
+      "num": 204618,
+      "word": "泡沫中的龚俊",
+      "onboard_time": 1684984649,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 204469,
@@ -5737,6 +5777,14 @@
       "onboard_time": 1684980929,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200510,
+      "num": 200510,
+      "word": "关晓彤明艳风",
+      "onboard_time": 1684985008,
+      "rank": 39,
+      "category": "影视,时尚"
     },
     {
       "raw_hot": 200323,
@@ -5881,6 +5929,14 @@
       "onboard_time": 1684977449,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195746,
+      "num": 592367,
+      "word": "男子钓鱼钓到金戒指卖了7740元",
+      "onboard_time": 1684983689,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195631,
@@ -6115,14 +6171,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 187284,
-      "num": 187284,
-      "word": "五月天演唱会北京地铁出行有调整",
-      "onboard_time": 1684984170,
-      "rank": 37,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 187232,
       "num": 187232,
       "word": "小鬼演唱会",
@@ -6217,6 +6265,14 @@
       "onboard_time": 1684728450,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183169,
+      "num": 183169,
+      "word": "在广东千万不要用吸管杯",
+      "onboard_time": 1684985429,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 183009,
@@ -6915,14 +6971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155571,
-      "num": 155571,
-      "word": "enhypen粉丝伤心的原因",
-      "onboard_time": 1684984649,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 155203,
       "num": 155203,
       "word": "怎么别人的爱情都这么好嗑",
@@ -6977,14 +7025,6 @@
       "onboard_time": 1684889970,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 152339,
-      "num": 152339,
-      "word": "泡沫中的龚俊",
-      "onboard_time": 1684984649,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 151428,
@@ -7572,7 +7612,7 @@
     },
     {
       "raw_hot": 108076,
-      "num": 251727,
+      "num": 792485,
       "word": "Angelababy贝克汉姆在澳门拍什么",
       "onboard_time": 1684984288,
       "rank": 32,
@@ -7672,14 +7712,6 @@
       "word": "中国最美木棉王就在广州",
       "onboard_time": 1684770569,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96565,
-      "num": 471322,
-      "word": "男子钓鱼钓到金戒指卖了7740元",
-      "onboard_time": 1684983689,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
