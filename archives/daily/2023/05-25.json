@@ -1,6 +1,6 @@
 {
   "startTime": 1684945355711,
-  "endTime": 1685020889057,
+  "endTime": 1685021700550,
   "band_list": [
     {
       "raw_hot": 3114274,
@@ -33,6 +33,14 @@
       "onboard_time": 1684972223,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2198792,
+      "num": 391838,
+      "word": "许嵩方 取证中",
+      "onboard_time": 1685020231,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1976400,
@@ -313,14 +321,6 @@
       "onboard_time": 1685007568,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 781938,
-      "num": 368266,
-      "word": "许嵩方 取证中",
-      "onboard_time": 1685020231,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 759280,
@@ -619,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 445141,
+      "num": 445141,
+      "word": "六点六",
+      "onboard_time": 1685017168,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 442302,
       "num": 341113,
       "word": "毕业后做了日入万元的冰淇淋店主",
@@ -649,14 +657,6 @@
       "onboard_time": 1685002587,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 435070,
-      "num": 435070,
-      "word": "六点六",
-      "onboard_time": 1685017168,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 425005,
@@ -723,6 +723,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 405967,
+      "num": 405967,
+      "word": "宁波一医院突发火灾",
+      "onboard_time": 1685018248,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 404895,
       "num": 306674,
       "word": "22岁姑娘因男友减到55斤进医院",
@@ -737,6 +745,14 @@
       "onboard_time": 1684976129,
       "rank": 17,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 394415,
+      "num": 394415,
+      "word": "网友挑战把娄艺潇p回胡一菲",
+      "onboard_time": 1685021009,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 392458,
@@ -841,14 +857,6 @@
       "onboard_time": 1684991610,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 365401,
-      "num": 365401,
-      "word": "宁波一医院突发火灾",
-      "onboard_time": 1685018248,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 357108,
@@ -1099,6 +1107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 284857,
+      "num": 284857,
+      "word": "邢昭林回应带弟弟参加酒局",
+      "onboard_time": 1685020168,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283104,
       "num": 283104,
       "word": "小米发布会",
@@ -1227,6 +1243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246085,
+      "num": 246085,
+      "word": "周也 白无常妆",
+      "onboard_time": 1685021130,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 245100,
       "num": 215363,
       "word": "肖战如梦之梦豆瓣9.3分",
@@ -1299,6 +1323,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 235023,
+      "num": 235023,
+      "word": "如何评价长城汽车举报比亚迪",
+      "onboard_time": 1685021430,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232834,
       "num": 232834,
       "word": "原来吴优是北电第一",
@@ -1313,6 +1345,14 @@
       "onboard_time": 1684971624,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 231893,
+      "num": 231893,
+      "word": "别被奇怪的人偷走能量",
+      "onboard_time": 1685017289,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 230507,
@@ -1419,14 +1459,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 209550,
-      "num": 209550,
-      "word": "邢昭林回应带弟弟参加酒局",
-      "onboard_time": 1685020168,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 209091,
       "num": 209091,
       "word": "比亚迪声明反对不正当竞争",
@@ -1457,14 +1489,6 @@
       "onboard_time": 1684984649,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205842,
-      "num": 205842,
-      "word": "别被奇怪的人偷走能量",
-      "onboard_time": 1685017289,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 205812,
@@ -1507,6 +1531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 196883,
+      "num": 196883,
+      "word": "小胖头",
+      "onboard_time": 1685020109,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195942,
       "num": 195942,
       "word": "宋茜说谈恋爱就像找东西",
@@ -1545,14 +1577,6 @@
       "onboard_time": 1685015428,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191732,
-      "num": 191732,
-      "word": "小胖头",
-      "onboard_time": 1685020109,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 190659,
@@ -1673,6 +1697,14 @@
       "onboard_time": 1684992569,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169071,
+      "num": 169071,
+      "word": "王俊凯王源都在重庆",
+      "onboard_time": 1685021552,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 167762,
@@ -1851,6 +1883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145493,
+      "num": 145493,
+      "word": "法网2023",
+      "onboard_time": 1685021611,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142417,
       "num": 357143,
       "word": "澳门酒店撞星率有多高",
@@ -1923,6 +1963,30 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 117020,
+      "num": 117020,
+      "word": "民警一把接过卡喉女童30秒救回",
+      "onboard_time": 1685020530,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115948,
+      "num": 115948,
+      "word": "校内被车撞倒身亡的孩子母亲首次发声",
+      "onboard_time": 1685021491,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 115838,
+      "num": 115838,
+      "word": "大学生非牛顿流体的素质",
+      "onboard_time": 1685019448,
+      "rank": 48,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 108675,
       "num": 93988,
       "word": "你们竟然请运动员真打排球啊",
@@ -1947,14 +2011,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 106968,
-      "num": 106968,
-      "word": "民警一把接过卡喉女童30秒救回",
-      "onboard_time": 1685020530,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106219,
       "num": 106219,
       "word": "男子凌晨4点去给妈妈擦墓碑",
@@ -1977,14 +2033,6 @@
       "onboard_time": 1685006246,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 104381,
-      "num": 104381,
-      "word": "大学生非牛顿流体的素质",
-      "onboard_time": 1685019448,
-      "rank": 48,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 104362,
@@ -2123,6 +2171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 49207,
+      "num": 366861,
+      "word": "视障女孩摸着盲文朗诵黄河颂",
+      "onboard_time": 1685019628,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47827,
       "num": 1419518,
       "word": "神十六船箭组合体垂直转运全回顾",
@@ -2136,14 +2192,6 @@
       "word": "现在进入神舟十六号时间",
       "onboard_time": 1685016572,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36630,
-      "num": 366861,
-      "word": "视障女孩摸着盲文朗诵黄河颂",
-      "onboard_time": 1685019628,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2179,6 +2227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21517,
+      "num": 548220,
+      "word": "30秒看中关村论坛展览的前沿科技",
+      "onboard_time": 1685020652,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20114,
       "num": 22419,
       "word": "怦然心动20岁",
@@ -2209,14 +2265,6 @@
       "onboard_time": 1684942291,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 8383,
-      "num": 157929,
-      "word": "30秒看中关村论坛展览的前沿科技",
-      "onboard_time": 1685020652,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 5860,
