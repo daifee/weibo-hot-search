@@ -1,0 +1,410 @@
+{
+  "runTime": 1685003613992,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1329204,
+        "num": 1329204,
+        "word": "女生黄体破裂医生暖心陪护参加中考",
+        "onboard_time": 1684994607,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1135580,
+        "num": 1135580,
+        "word": "空调开18度的领导离职了",
+        "onboard_time": 1684995329,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31116,
+        "num": 762107,
+        "word": "我是中国人我想举自己的国旗",
+        "onboard_time": 1684973066,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685439,
+        "num": 685439,
+        "word": "谢楠说吴京最长一年半不回家",
+        "onboard_time": 1684996408,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 963593,
+        "num": 684107,
+        "word": "张彬彬 错过宁安如梦",
+        "onboard_time": 1684999949,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 746473,
+        "num": 683394,
+        "word": "四川一中学学生打架致1死",
+        "onboard_time": 1684996888,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678193,
+        "num": 678193,
+        "word": "她背诵的不是课文是全班的希望",
+        "onboard_time": 1684985908,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 607287,
+        "num": 607287,
+        "word": "四川会理发生重大刑事案件",
+        "onboard_time": 1684990115,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468365,
+        "num": 468365,
+        "word": "宁安如梦",
+        "onboard_time": 1685002530,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 441085,
+        "num": 441085,
+        "word": "国泰航空称空中服务员工会不代表国泰",
+        "onboard_time": 1684999649,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543611,
+        "num": 438095,
+        "word": "真情侣版偷偷藏不住",
+        "onboard_time": 1684982908,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432115,
+        "num": 432115,
+        "word": "能开得起大女主古偶的女演员",
+        "onboard_time": 1684995450,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 436882,
+        "num": 423755,
+        "word": "Angelababy素颜睡衣",
+        "onboard_time": 1684986931,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415379,
+        "num": 415379,
+        "word": "护心编剧回应",
+        "onboard_time": 1685000189,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366864,
+        "num": 366864,
+        "word": "专家建议新冠二阳不要带病上班",
+        "onboard_time": 1684983866,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352467,
+        "num": 352467,
+        "word": "女生兼职上门喂猫遭恋踩癖骚扰",
+        "onboard_time": 1684983209,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349582,
+        "num": 349582,
+        "word": "在云南连吃7天有多爽",
+        "onboard_time": 1685000428,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 328232,
+        "num": 328232,
+        "word": "国泰",
+        "onboard_time": 1685003370,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311048,
+        "num": 311048,
+        "word": "全球热",
+        "onboard_time": 1684990413,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 298758,
+        "num": 298758,
+        "word": "摇粒绒做的花花是真显胖啊",
+        "onboard_time": 1684994669,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286972,
+        "num": 286972,
+        "word": "上海迪士尼6月23日起门票调价",
+        "onboard_time": 1685002709,
+        "rank": 20,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 268285,
+        "num": 268285,
+        "word": "比亚迪回应被长城汽车举报",
+        "onboard_time": 1684988670,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235135,
+        "num": 235135,
+        "word": "看似很贵其实很便宜的东西",
+        "onboard_time": 1684998329,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235052,
+        "num": 235052,
+        "word": "白鹿孙珍妮奔跑吧同框",
+        "onboard_time": 1685001147,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232509,
+        "num": 232509,
+        "word": "国泰航空称网传英文内部信件为伪造",
+        "onboard_time": 1684995628,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230507,
+        "num": 230507,
+        "word": "杨紫 新风格新体验",
+        "onboard_time": 1684998210,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 222508,
+        "num": 222508,
+        "word": "Amber芝芙跳叮叮当当",
+        "onboard_time": 1685001808,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210388,
+        "num": 210388,
+        "word": "男子弄丢唐伯虎真迹好心市民交还",
+        "onboard_time": 1685002768,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208913,
+        "num": 208913,
+        "word": "刘亦菲林更新或将演夫妻",
+        "onboard_time": 1684991731,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204960,
+        "num": 204960,
+        "word": "不带穷字但是一听就很穷的话",
+        "onboard_time": 1684990534,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198862,
+        "num": 198862,
+        "word": "我的一生感觉都在考试",
+        "onboard_time": 1685002587,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198202,
+        "num": 198202,
+        "word": "原来长相思十年前就找过杨紫",
+        "onboard_time": 1684999949,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189006,
+        "num": 189006,
+        "word": "榴莲 贵",
+        "onboard_time": 1684978527,
+        "rank": 32,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 177726,
+        "num": 177726,
+        "word": "易烊千玺海边拍立得",
+        "onboard_time": 1685000606,
+        "rank": 33,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 177602,
+        "num": 177602,
+        "word": "原来吴优是北电第一",
+        "onboard_time": 1684998750,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173032,
+        "num": 173032,
+        "word": "宁艺卓红毯摔倒",
+        "onboard_time": 1685003308,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165357,
+        "num": 165357,
+        "word": "细嚼慢咽真的会瘦吗",
+        "onboard_time": 1685002768,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163191,
+        "num": 163191,
+        "word": "沈月cos黎姿版赵敏",
+        "onboard_time": 1684996351,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160569,
+        "num": 160569,
+        "word": "男子3次登顶珠峰41天暴瘦25斤",
+        "onboard_time": 1685000486,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159439,
+        "num": 159439,
+        "word": "李佳琦直播",
+        "onboard_time": 1684998688,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155733,
+        "num": 155733,
+        "word": "演员郑振瑶去世",
+        "onboard_time": 1684994549,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152996,
+        "num": 152996,
+        "word": "小米发布会",
+        "onboard_time": 1684998507,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 141864,
+        "num": 141864,
+        "word": "A股",
+        "onboard_time": 1684994848,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140523,
+        "num": 140523,
+        "word": "拒下车就医寻娃男子等待DNA结果",
+        "onboard_time": 1685000846,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137809,
+        "num": 137809,
+        "word": "还以为黄旭熙solo了",
+        "onboard_time": 1684991610,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132770,
+        "num": 132770,
+        "word": "萌娃输液小手胖嘟嘟护士一针见血",
+        "onboard_time": 1685002348,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122027,
+        "num": 122027,
+        "word": "TES官宣2023夏季赛大名单",
+        "onboard_time": 1684992751,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119204,
+        "num": 119204,
+        "word": "章泽天为京东业务站台",
+        "onboard_time": 1684995689,
+        "rank": 47,
+        "category": "科技,作品衍生"
+      },
+      {
+        "raw_hot": 116231,
+        "num": 116231,
+        "word": "在广东千万不要用吸管杯",
+        "onboard_time": 1684985429,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115904,
+        "num": 115904,
+        "word": "从北京坐高铁1小时都能到哪儿玩",
+        "onboard_time": 1684998688,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技的高峰行则必达#"
+    }
+  }
+}

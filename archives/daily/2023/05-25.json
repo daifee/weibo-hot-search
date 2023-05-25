@@ -1,6 +1,6 @@
 {
   "startTime": 1684945355711,
-  "endTime": 1685002867946,
+  "endTime": 1685003613992,
   "band_list": [
     {
       "raw_hot": 3114274,
@@ -179,7 +179,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 952728,
+      "raw_hot": 963593,
       "num": 952728,
       "word": "张彬彬 错过宁安如梦",
       "onboard_time": 1684999949,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 746473,
+      "num": 708397,
+      "word": "四川一中学学生打架致1死",
+      "onboard_time": 1684996888,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 738470,
       "num": 738470,
       "word": "法老你真的我哭死",
@@ -225,14 +233,6 @@
       "onboard_time": 1684995450,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 708397,
-      "num": 708397,
-      "word": "四川一中学学生打架致1死",
-      "onboard_time": 1684996888,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 705210,
@@ -331,6 +331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 543611,
+      "num": 438095,
+      "word": "真情侣版偷偷藏不住",
+      "onboard_time": 1684982908,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 535272,
       "num": 535272,
       "word": "苏醒晒陆虎的官宣朋友圈",
@@ -345,14 +353,6 @@
       "onboard_time": 1684981230,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 529482,
-      "num": 434753,
-      "word": "真情侣版偷偷藏不住",
-      "onboard_time": 1684982908,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 528734,
@@ -419,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 468365,
+      "num": 468365,
+      "word": "宁安如梦",
+      "onboard_time": 1685002530,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 461265,
       "num": 461265,
       "word": "护心十五集前后不是一个编剧",
@@ -441,6 +449,14 @@
       "onboard_time": 1685000189,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 441085,
+      "num": 441085,
+      "word": "国泰航空称空中服务员工会不代表国泰",
+      "onboard_time": 1684999649,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 425005,
@@ -579,14 +595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 364640,
-      "num": 364640,
-      "word": "国泰航空称空中服务员工会不代表国泰",
-      "onboard_time": 1684999649,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 357108,
       "num": 357108,
       "word": "英伟达",
@@ -595,8 +603,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 347826,
-      "num": 347826,
+      "raw_hot": 349582,
+      "num": 349582,
       "word": "在云南连吃7天有多爽",
       "onboard_time": 1685000428,
       "rank": 14,
@@ -657,6 +665,14 @@
       "onboard_time": 1684974088,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 328232,
+      "num": 328232,
+      "word": "国泰",
+      "onboard_time": 1684971504,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319780,
@@ -777,6 +793,14 @@
       "onboard_time": 1684976490,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 286972,
+      "num": 286972,
+      "word": "上海迪士尼6月23日起门票调价",
+      "onboard_time": 1685002709,
+      "rank": 45,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 283104,
@@ -955,20 +979,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 230507,
+      "num": 230507,
+      "word": "杨紫 新风格新体验",
+      "onboard_time": 1684998210,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 230458,
       "num": 230458,
       "word": "大麦",
       "onboard_time": 1684985849,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 228364,
-      "num": 228364,
-      "word": "杨紫 新风格新体验",
-      "onboard_time": 1684998210,
-      "rank": 29,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 228047,
@@ -1003,6 +1027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 222508,
+      "num": 222508,
+      "word": "Amber芝芙跳叮叮当当",
+      "onboard_time": 1685001808,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220919,
       "num": 218210,
       "word": "原来长相思十年前就找过杨紫",
@@ -1035,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210388,
+      "num": 210388,
+      "word": "男子弄丢唐伯虎真迹好心市民交还",
+      "onboard_time": 1685002768,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210144,
       "num": 210144,
       "word": "五月天北京演唱会二次开票",
@@ -1049,14 +1089,6 @@
       "onboard_time": 1684991491,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209083,
-      "num": 209083,
-      "word": "Amber芝芙跳叮叮当当",
-      "onboard_time": 1685001808,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 208759,
@@ -1107,20 +1139,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199815,
-      "num": 199815,
-      "word": "宁安如梦",
-      "onboard_time": 1685002530,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 199433,
       "num": 199433,
       "word": "G社镜头下的aespa",
       "onboard_time": 1684992207,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 198862,
+      "num": 198862,
+      "word": "我的一生感觉都在考试",
+      "onboard_time": 1685002587,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 195753,
@@ -1219,12 +1251,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 174199,
-      "num": 174199,
+      "raw_hot": 177726,
+      "num": 177726,
       "word": "易烊千玺海边拍立得",
       "onboard_time": 1685000606,
       "rank": 33,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 173032,
+      "num": 173032,
+      "word": "宁艺卓红毯摔倒",
+      "onboard_time": 1685003308,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 172355,
@@ -1259,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165357,
+      "num": 165357,
+      "word": "细嚼慢咽真的会瘦吗",
+      "onboard_time": 1685002768,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163562,
       "num": 163562,
       "word": "孙灏羽称小慧君和巧乐兹夫妇真宠粉",
@@ -1272,6 +1320,14 @@
       "word": "王一博的减脂餐",
       "onboard_time": 1684928008,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 159439,
+      "num": 159439,
+      "word": "李佳琦直播",
+      "onboard_time": 1684998688,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -1371,14 +1427,6 @@
       "category": "幽默,音乐"
     },
     {
-      "raw_hot": 148717,
-      "num": 148717,
-      "word": "国泰",
-      "onboard_time": 1684971504,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148597,
       "num": 400672,
       "word": "从北京坐高铁1小时都能到哪儿玩",
@@ -1393,14 +1441,6 @@
       "onboard_time": 1684932688,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 147209,
-      "num": 147209,
-      "word": "李佳琦直播",
-      "onboard_time": 1684998688,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 145845,
@@ -1443,6 +1483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132770,
+      "num": 132770,
+      "word": "萌娃输液小手胖嘟嘟护士一针见血",
+      "onboard_time": 1685002348,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131854,
       "num": 131854,
       "word": "艾丽娅",
@@ -1457,46 +1505,6 @@
       "onboard_time": 1684940193,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 121636,
-      "num": 121636,
-      "word": "萌娃输液小手胖嘟嘟护士一针见血",
-      "onboard_time": 1685002348,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119832,
-      "num": 119832,
-      "word": "我的一生感觉都在考试",
-      "onboard_time": 1685002587,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 115449,
-      "num": 115449,
-      "word": "上海迪士尼6月23日起门票调价",
-      "onboard_time": 1685002709,
-      "rank": 45,
-      "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 110566,
-      "num": 110566,
-      "word": "细嚼慢咽真的会瘦吗",
-      "onboard_time": 1685002768,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110528,
-      "num": 110528,
-      "word": "男子弄丢唐伯虎真迹好心市民交还",
-      "onboard_time": 1685002768,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108675,
