@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1685031732217,
+  "endTime": 1685032586024,
   "band_list": [
     {
       "raw_hot": 3643134,
@@ -899,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1213787,
+      "num": 1190178,
+      "word": "武汉校内被撞身亡小学生",
+      "onboard_time": 1685027016,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1208829,
       "num": 1208829,
       "word": "易烊千玺王俊凯同框",
@@ -955,14 +963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1190178,
-      "num": 1190178,
-      "word": "武汉校内被撞身亡小学生",
-      "onboard_time": 1685027016,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1188389,
       "num": 1188389,
       "word": "一年不上班的真实感受",
@@ -984,6 +984,14 @@
       "word": "盖茨再爆婚外情",
       "onboard_time": 1684720349,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1175499,
+      "num": 1175499,
+      "word": "平安北京 无语死了",
+      "onboard_time": 1685027675,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1009,14 +1017,6 @@
       "onboard_time": 1684832008,
       "rank": 21,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 1149883,
-      "num": 1149883,
-      "word": "平安北京 无语死了",
-      "onboard_time": 1685027675,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1145682,
@@ -3403,6 +3403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396783,
+      "num": 396783,
+      "word": "G社拍的宋仲基",
+      "onboard_time": 1685029889,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 396202,
       "num": 321804,
       "word": "成灿Shotaro将新男团出道",
@@ -3568,14 +3576,6 @@
       "word": "邓超走红毯跟上春晚一样好笑",
       "onboard_time": 1684835068,
       "rank": 23,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 380488,
-      "num": 380488,
-      "word": "G社拍的宋仲基",
-      "onboard_time": 1685029889,
-      "rank": 13,
       "category": "作品衍生"
     },
     {
@@ -5859,6 +5859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238232,
+      "num": 238232,
+      "word": "原神",
+      "onboard_time": 1684810709,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 238187,
       "num": 238187,
       "word": "梅西要来中国比赛了",
@@ -6987,6 +6995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197436,
+      "num": 159150,
+      "word": "家属还原山西男童死亡案细节",
+      "onboard_time": 1685030131,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197328,
       "num": 197328,
       "word": "朱一龙说上次来戛纳后下决心拍电影",
@@ -7200,14 +7216,6 @@
       "word": "00后民警收感谢信四处找同事炫耀",
       "onboard_time": 1684909588,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190893,
-      "num": 159150,
-      "word": "家属还原山西男童死亡案细节",
-      "onboard_time": 1685030131,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -7425,14 +7433,6 @@
       "onboard_time": 1684921171,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 184407,
-      "num": 184407,
-      "word": "原神",
-      "onboard_time": 1684810709,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 183561,
@@ -9131,6 +9131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92986,
+      "num": 92986,
+      "word": "张彬彬说吴倩刀子嘴豆腐心",
+      "onboard_time": 1685031448,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 92732,
       "num": 92732,
       "word": "田柾国直播",
@@ -9289,6 +9297,14 @@
       "onboard_time": 1684776196,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 68656,
+      "num": 82145,
+      "word": "留守女孩来例假被吓哭老师暖心安慰",
+      "onboard_time": 1685032225,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67340,
