@@ -1,0 +1,410 @@
+{
+  "runTime": 1684984668149,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1940246,
+        "num": 1940246,
+        "word": "微信新增锁定功能",
+        "onboard_time": 1684974449,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1818365,
+        "num": 1818365,
+        "word": "榴莲 贵",
+        "onboard_time": 1684978527,
+        "rank": 1,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 89456,
+        "num": 1498783,
+        "word": "坐高铁被窗外的中国基建所惊艳",
+        "onboard_time": 1684938092,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1413001,
+        "num": 1413001,
+        "word": "千万不要长期喝奶茶",
+        "onboard_time": 1684972223,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1344886,
+        "num": 1344886,
+        "word": "五月天门票",
+        "onboard_time": 1684984107,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1185868,
+        "num": 1185868,
+        "word": "宋茜好辣",
+        "onboard_time": 1684976670,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1067290,
+        "num": 1067290,
+        "word": "内娱综艺史上炸裂场面",
+        "onboard_time": 1684977152,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1023027,
+        "num": 1023027,
+        "word": "刘亚仁被人泼水",
+        "onboard_time": 1684980448,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1014644,
+        "num": 1014644,
+        "word": "24岁研究生离世捐器官救多人",
+        "onboard_time": 1684979247,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 686598,
+        "num": 686598,
+        "word": "罗云熙不上综艺的原因",
+        "onboard_time": 1684971924,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 621117,
+        "num": 621117,
+        "word": "九鹭非香",
+        "onboard_time": 1684981288,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 514650,
+        "num": 514650,
+        "word": "一群外国人打飞的到河南看中医",
+        "onboard_time": 1684982847,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493496,
+        "num": 493496,
+        "word": "二阳",
+        "onboard_time": 1684979367,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485556,
+        "num": 485556,
+        "word": "女生兼职上门喂猫遭恋踩癖骚扰",
+        "onboard_time": 1684983209,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96565,
+        "num": 471322,
+        "word": "男子钓鱼钓到金戒指卖了7740元",
+        "onboard_time": 1684983689,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458187,
+        "num": 458187,
+        "word": "员工每天带薪拉屎3至6小时被解雇",
+        "onboard_time": 1684936892,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432418,
+        "num": 432418,
+        "word": "都不买榴莲我就放心了",
+        "onboard_time": 1684937793,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407598,
+        "num": 407598,
+        "word": "易烊千玺是在撒娇吗",
+        "onboard_time": 1684977867,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 395402,
+        "num": 395402,
+        "word": "专家建议新冠二阳不要带病上班",
+        "onboard_time": 1684983866,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376516,
+        "num": 376516,
+        "word": "护心十五集前后不是一个编剧",
+        "onboard_time": 1684980392,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 648434,
+        "num": 368549,
+        "word": "山西失联身亡男孩生母聊天记录曝光",
+        "onboard_time": 1684970782,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409202,
+        "num": 368441,
+        "word": "给狗买磨牙棒忘了看尺寸",
+        "onboard_time": 1684981230,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 358067,
+        "num": 358067,
+        "word": "杨紫表情管理",
+        "onboard_time": 1684969279,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 328095,
+        "num": 328095,
+        "word": "催收巨头湖南永雄宣布停业",
+        "onboard_time": 1684979848,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318530,
+        "num": 318530,
+        "word": "网友面试后收到公司20元车马费",
+        "onboard_time": 1684983628,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313613,
+        "num": 313613,
+        "word": "北京二手房一天降价20万只求一卖",
+        "onboard_time": 1684982128,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312558,
+        "num": 312558,
+        "word": "真情侣版偷偷藏不住",
+        "onboard_time": 1684982908,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281669,
+        "num": 281669,
+        "word": "辛巴",
+        "onboard_time": 1684980628,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 273120,
+        "num": 273120,
+        "word": "金玟庭的背",
+        "onboard_time": 1684977687,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 269908,
+        "num": 269908,
+        "word": "谁给白鹿做的妆造",
+        "onboard_time": 1684937498,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 319780,
+        "num": 268927,
+        "word": "龚俊模仿花花吃东西",
+        "onboard_time": 1684984468,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267771,
+        "num": 267771,
+        "word": "当00后当了老师",
+        "onboard_time": 1684981168,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108076,
+        "num": 251727,
+        "word": "Angelababy贝克汉姆在澳门拍什么",
+        "onboard_time": 1684984288,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238071,
+        "num": 238071,
+        "word": "宋茜沈月秀场同框",
+        "onboard_time": 1684982608,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 211885,
+        "num": 211885,
+        "word": "不上综艺的明星",
+        "onboard_time": 1684982370,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203032,
+        "num": 203032,
+        "word": "网传一大学所有饮品店禁止使用冰块",
+        "onboard_time": 1684957814,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198839,
+        "num": 198839,
+        "word": "高叶cos的是谁",
+        "onboard_time": 1684978168,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187284,
+        "num": 187284,
+        "word": "五月天演唱会北京地铁出行有调整",
+        "onboard_time": 1684984170,
+        "rank": 37,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 185831,
+        "num": 185831,
+        "word": "奶奶出院后把小猫咪高兴坏了",
+        "onboard_time": 1684978468,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179904,
+        "num": 179904,
+        "word": "4000斤麦子掉鱼塘村民集体帮打捞",
+        "onboard_time": 1684983447,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178378,
+        "num": 178378,
+        "word": "五月天北京演唱会二次开票",
+        "onboard_time": 1684975830,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173167,
+        "num": 173167,
+        "word": "北京和上海真的很不一样",
+        "onboard_time": 1684974268,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171763,
+        "num": 171763,
+        "word": "甲状腺结节发生率在20%以上",
+        "onboard_time": 1684971985,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158510,
+        "num": 158510,
+        "word": "你还希望微信更新哪些功能",
+        "onboard_time": 1684983268,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 155571,
+        "num": 155571,
+        "word": "enhypen粉丝伤心的原因",
+        "onboard_time": 1684984649,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155254,
+        "num": 155254,
+        "word": "乃万加入NOUS",
+        "onboard_time": 1684974088,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152339,
+        "num": 152339,
+        "word": "泡沫中的龚俊",
+        "onboard_time": 1684984649,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147540,
+        "num": 147540,
+        "word": "RNG阵容",
+        "onboard_time": 1684974750,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 83268,
+        "num": 147372,
+        "word": "以闪亮之名",
+        "onboard_time": 1684982969,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 72880,
+        "num": 147345,
+        "word": "我推的孩子",
+        "onboard_time": 1684971624,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见俄罗斯总理#"
+    }
+  }
+}

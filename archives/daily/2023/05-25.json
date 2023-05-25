@@ -1,6 +1,6 @@
 {
   "startTime": 1684945355711,
-  "endTime": 1684982623993,
+  "endTime": 1684984668149,
   "band_list": [
     {
       "raw_hot": 2227237,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1818365,
+      "num": 1818365,
+      "word": "榴莲 贵",
+      "onboard_time": 1684978527,
+      "rank": 23,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1705609,
       "num": 1705609,
       "word": "山西失联身亡男孩生母聊天记录曝光",
@@ -35,12 +43,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1499721,
-      "num": 1499721,
-      "word": "榴莲 贵",
-      "onboard_time": 1684978527,
-      "rank": 23,
-      "category": "社会新闻,美食"
+      "raw_hot": 1344886,
+      "num": 1344886,
+      "word": "五月天门票",
+      "onboard_time": 1684984107,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 1343159,
@@ -67,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1067290,
+      "num": 1067290,
+      "word": "内娱综艺史上炸裂场面",
+      "onboard_time": 1684977152,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1042907,
       "num": 935246,
       "word": "员工每天带薪拉屎3至6小时被解雇",
@@ -75,28 +91,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 807500,
-      "num": 807500,
-      "word": "24岁研究生离世捐器官救多人",
-      "onboard_time": 1684979247,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 799544,
-      "num": 799544,
+      "raw_hot": 1023027,
+      "num": 1023027,
       "word": "刘亚仁被人泼水",
       "onboard_time": 1684980448,
       "rank": 9,
       "category": "艺人"
     },
     {
-      "raw_hot": 792392,
-      "num": 792392,
-      "word": "内娱综艺史上炸裂场面",
-      "onboard_time": 1684977152,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 1014644,
+      "num": 1014644,
+      "word": "24岁研究生离世捐器官救多人",
+      "onboard_time": 1684979247,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 738470,
@@ -136,6 +144,14 @@
       "word": "赵露思换妆容",
       "onboard_time": 1684938931,
       "rank": 6,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 621117,
+      "num": 621117,
+      "word": "九鹭非香",
+      "onboard_time": 1684981288,
+      "rank": 22,
       "category": "作品衍生"
     },
     {
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 533354,
-      "num": 311540,
+      "num": 368441,
       "word": "给狗买磨牙棒忘了看尺寸",
       "onboard_time": 1684981230,
       "rank": 20,
@@ -195,6 +211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 514650,
+      "num": 514650,
+      "word": "一群外国人打飞的到河南看中医",
+      "onboard_time": 1684982847,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 507398,
       "num": 507398,
       "word": "刘亚仁逮捕令被驳回",
@@ -203,20 +227,28 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 493496,
+      "num": 493496,
+      "word": "二阳",
+      "onboard_time": 1684979367,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 485556,
+      "num": 485556,
+      "word": "女生兼职上门喂猫遭恋踩癖骚扰",
+      "onboard_time": 1684983209,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 461265,
       "num": 461265,
       "word": "护心十五集前后不是一个编剧",
       "onboard_time": 1684980392,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 457771,
-      "num": 457771,
-      "word": "九鹭非香",
-      "onboard_time": 1684981288,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 442302,
@@ -233,14 +265,6 @@
       "onboard_time": 1684932750,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 413091,
-      "num": 413091,
-      "word": "二阳",
-      "onboard_time": 1684979367,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 407859,
@@ -265,6 +289,14 @@
       "onboard_time": 1684976129,
       "rank": 17,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 395402,
+      "num": 395402,
+      "word": "专家建议新冠二阳不要带病上班",
+      "onboard_time": 1684983866,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 392458,
@@ -355,6 +387,38 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 319780,
+      "num": 268927,
+      "word": "龚俊模仿花花吃东西",
+      "onboard_time": 1684984468,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 318530,
+      "num": 318530,
+      "word": "网友面试后收到公司20元车马费",
+      "onboard_time": 1684983628,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313613,
+      "num": 313613,
+      "word": "北京二手房一天降价20万只求一卖",
+      "onboard_time": 1684982128,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312558,
+      "num": 312558,
+      "word": "真情侣版偷偷藏不住",
+      "onboard_time": 1684982908,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 312529,
       "num": 312529,
       "word": "金玟庭的背",
@@ -427,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267771,
+      "num": 267771,
+      "word": "当00后当了老师",
+      "onboard_time": 1684981168,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 259180,
       "num": 217642,
       "word": "怦然3素人嘉宾撞脸张真源",
@@ -467,20 +539,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238071,
+      "num": 238071,
+      "word": "宋茜沈月秀场同框",
+      "onboard_time": 1684982608,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 236756,
       "num": 236756,
       "word": "偷偷努力的感觉",
       "onboard_time": 1684977031,
       "rank": 40,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 233706,
-      "num": 233706,
-      "word": "当00后当了老师",
-      "onboard_time": 1684981168,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 232156,
@@ -505,6 +577,14 @@
       "onboard_time": 1684940851,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 211885,
+      "num": 211885,
+      "word": "不上综艺的明星",
+      "onboard_time": 1684982370,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 210144,
@@ -547,14 +627,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 195583,
-      "num": 195583,
-      "word": "北京二手房一天降价20万只求一卖",
-      "onboard_time": 1684982128,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194963,
       "num": 194963,
       "word": "你能接受多少钱一个的兔头",
@@ -569,6 +641,14 @@
       "onboard_time": 1684942111,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187284,
+      "num": 187284,
+      "word": "五月天演唱会北京地铁出行有调整",
+      "onboard_time": 1684984170,
+      "rank": 37,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 182292,
@@ -593,6 +673,14 @@
       "onboard_time": 1684976552,
       "rank": 37,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 179904,
+      "num": 179904,
+      "word": "4000斤麦子掉鱼塘村民集体帮打捞",
+      "onboard_time": 1684983447,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179776,
@@ -651,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158510,
+      "num": 158510,
+      "word": "你还希望微信更新哪些功能",
+      "onboard_time": 1684983268,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 157415,
       "num": 167618,
       "word": "上海交警通报两车高架上斗气碰撞",
@@ -691,12 +787,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155571,
+      "num": 155571,
+      "word": "enhypen粉丝伤心的原因",
+      "onboard_time": 1684984649,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153865,
       "num": 153865,
       "word": "华表奖易烊千玺在看王俊凯吗",
       "onboard_time": 1684931191,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152339,
+      "num": 152339,
+      "word": "泡沫中的龚俊",
+      "onboard_time": 1684984649,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 149087,
@@ -723,14 +835,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 146509,
-      "num": 146509,
-      "word": "不上综艺的明星",
-      "onboard_time": 1684982370,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 145845,
       "num": 133395,
       "word": "刘亦菲要进组了",
@@ -753,14 +857,6 @@
       "onboard_time": 1684980028,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132392,
-      "num": 132392,
-      "word": "宋茜沈月秀场同框",
-      "onboard_time": 1684982608,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 131854,
@@ -787,6 +883,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 108076,
+      "num": 251727,
+      "word": "Angelababy贝克汉姆在澳门拍什么",
+      "onboard_time": 1684984288,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108017,
       "num": 108017,
       "word": "眉姐姐穿丑衣服",
@@ -809,6 +913,14 @@
       "onboard_time": 1684935871,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 96565,
+      "num": 471322,
+      "word": "男子钓鱼钓到金戒指卖了7740元",
+      "onboard_time": 1684983689,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95293,
@@ -857,6 +969,14 @@
       "onboard_time": 1684916790,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83268,
+      "num": 147372,
+      "word": "以闪亮之名",
+      "onboard_time": 1684982969,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 77426,
