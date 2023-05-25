@@ -1,6 +1,6 @@
 {
   "startTime": 1684945355711,
-  "endTime": 1684996476394,
+  "endTime": 1684998927636,
   "band_list": [
     {
       "raw_hot": 3114274,
@@ -9,6 +9,14 @@
       "onboard_time": 1684983866,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2318325,
+      "num": 2318325,
+      "word": "女生黄体破裂医生暖心陪护参加中考",
+      "onboard_time": 1684994607,
+      "rank": 10,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2227237,
@@ -75,14 +83,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1450610,
-      "num": 1450610,
-      "word": "女生黄体破裂医生暖心陪护参加中考",
-      "onboard_time": 1684994607,
-      "rank": 10,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 1344886,
       "num": 1344886,
       "word": "五月天门票",
@@ -121,6 +121,14 @@
       "onboard_time": 1684983209,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1172147,
+      "num": 1172147,
+      "word": "空调开18度的领导离职了",
+      "onboard_time": 1684995329,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 1127021,
@@ -195,12 +203,28 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 725795,
+      "num": 725795,
+      "word": "谢楠说吴京最长一年半不回家",
+      "onboard_time": 1684996408,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 705210,
       "num": 705210,
       "word": "都不买榴莲我就放心了",
       "onboard_time": 1684937793,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 704030,
+      "num": 704030,
+      "word": "能开得起大女主古偶的女演员",
+      "onboard_time": 1684995450,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 676461,
@@ -323,14 +347,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 512875,
-      "num": 222293,
-      "word": "空调开18度的领导离职了",
-      "onboard_time": 1684995329,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 507398,
       "num": 507398,
       "word": "刘亚仁逮捕令被驳回",
@@ -403,20 +419,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 424612,
+      "num": 306926,
+      "word": "四川一中学学生打架致1死",
+      "onboard_time": 1684996888,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416169,
+      "num": 416169,
+      "word": "真情侣版偷偷藏不住",
+      "onboard_time": 1684982908,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 413960,
       "num": 413960,
       "word": "比亚迪",
       "onboard_time": 1684989693,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 408701,
-      "num": 408701,
-      "word": "真情侣版偷偷藏不住",
-      "onboard_time": 1684982908,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 407859,
@@ -531,6 +555,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 351180,
+      "num": 351180,
+      "word": "摇粒绒做的花花是真显胖啊",
+      "onboard_time": 1684994669,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347626,
       "num": 347626,
       "word": "莫兰特",
@@ -587,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329516,
+      "num": 329516,
+      "word": "国泰航空称网传英文内部信件为伪造",
+      "onboard_time": 1684995628,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319780,
       "num": 278856,
       "word": "龚俊模仿花花吃东西",
@@ -633,14 +673,6 @@
       "onboard_time": 1684934191,
       "rank": 14,
       "category": "作品衍生,幽默"
-    },
-    {
-      "raw_hot": 304040,
-      "num": 304040,
-      "word": "能开得起大女主古偶的女演员",
-      "onboard_time": 1684995450,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 303234,
@@ -707,12 +739,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 282874,
-      "num": 282874,
-      "word": "国泰航空称网传英文内部信件为伪造",
-      "onboard_time": 1684995628,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 283104,
+      "num": 283104,
+      "word": "小米发布会",
+      "onboard_time": 1684998507,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 272577,
@@ -763,20 +795,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 260589,
-      "num": 260589,
-      "word": "摇粒绒做的花花是真显胖啊",
-      "onboard_time": 1684994669,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 259180,
       "num": 217642,
       "word": "怦然3素人嘉宾撞脸张真源",
       "onboard_time": 1684942950,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258370,
+      "num": 258370,
+      "word": "章泽天为京东业务站台",
+      "onboard_time": 1684995689,
+      "rank": 41,
+      "category": "科技,作品衍生"
     },
     {
       "raw_hot": 255452,
@@ -801,14 +833,6 @@
       "onboard_time": 1684939233,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 248588,
-      "num": 248588,
-      "word": "章泽天为京东业务站台",
-      "onboard_time": 1684995689,
-      "rank": 41,
-      "category": "科技,作品衍生"
     },
     {
       "raw_hot": 245100,
@@ -923,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215661,
+      "num": 215661,
+      "word": "沈月cos黎姿版赵敏",
+      "onboard_time": 1684996351,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210144,
       "num": 210144,
       "word": "五月天北京演唱会二次开票",
@@ -945,6 +977,14 @@
       "onboard_time": 1684974989,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207471,
+      "num": 207471,
+      "word": "杨紫 新风格新体验",
+      "onboard_time": 1684998210,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 206637,
@@ -1017,6 +1057,14 @@
       "onboard_time": 1684992151,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191015,
+      "num": 191015,
+      "word": "看似很贵其实很便宜的东西",
+      "onboard_time": 1684998329,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 190659,
@@ -1211,6 +1259,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 149329,
+      "num": 149329,
+      "word": "原来吴优是北电第一",
+      "onboard_time": 1684998750,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149087,
       "num": 149087,
       "word": "白敬亭淋雨神图",
@@ -1243,14 +1299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 143378,
-      "num": 143378,
-      "word": "谢楠说吴京最长一年半不回家",
-      "onboard_time": 1684996408,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 142417,
       "num": 357143,
       "word": "澳门酒店撞星率有多高",
@@ -1281,6 +1329,14 @@
       "onboard_time": 1684943845,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 126758,
+      "num": 126758,
+      "word": "李佳琦直播",
+      "onboard_time": 1684998688,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 123367,
@@ -1505,6 +1561,14 @@
       "onboard_time": 1684942291,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 11278,
+      "num": 400672,
+      "word": "从北京坐高铁1小时都能到哪儿玩",
+      "onboard_time": 1684998688,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

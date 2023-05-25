@@ -1,0 +1,410 @@
+{
+  "runTime": 1684998927636,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2318325,
+        "num": 2318325,
+        "word": "女生黄体破裂医生暖心陪护参加中考",
+        "onboard_time": 1684994607,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1172147,
+        "num": 1172147,
+        "word": "空调开18度的领导离职了",
+        "onboard_time": 1684995329,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32817,
+        "num": 993121,
+        "word": "神十六船箭组合体垂直转运全回顾",
+        "onboard_time": 1684988430,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 871269,
+        "num": 871269,
+        "word": "Angelababy素颜睡衣",
+        "onboard_time": 1684986931,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1584768,
+        "num": 856964,
+        "word": "二阳症状",
+        "onboard_time": 1684990715,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 725795,
+        "num": 725795,
+        "word": "谢楠说吴京最长一年半不回家",
+        "onboard_time": 1684996408,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 704030,
+        "num": 704030,
+        "word": "能开得起大女主古偶的女演员",
+        "onboard_time": 1684995450,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 673795,
+        "num": 673795,
+        "word": "她背诵的不是课文是全班的希望",
+        "onboard_time": 1684985908,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 672524,
+        "num": 672524,
+        "word": "四川会理发生重大刑事案件",
+        "onboard_time": 1684990115,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458327,
+        "num": 458327,
+        "word": "专家建议新冠二阳不要带病上班",
+        "onboard_time": 1684983866,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473799,
+        "num": 458320,
+        "word": "比亚迪回应被长城汽车举报",
+        "onboard_time": 1684988670,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 871297,
+        "num": 453494,
+        "word": "欠我一万块钱的同事离职了",
+        "onboard_time": 1684988614,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 439732,
+        "num": 439732,
+        "word": "女生兼职上门喂猫遭恋踩癖骚扰",
+        "onboard_time": 1684983209,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416169,
+        "num": 416169,
+        "word": "真情侣版偷偷藏不住",
+        "onboard_time": 1684982908,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11278,
+        "num": 400672,
+        "word": "从北京坐高铁1小时都能到哪儿玩",
+        "onboard_time": 1684998688,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394877,
+        "num": 394877,
+        "word": "全球热",
+        "onboard_time": 1684990413,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 391417,
+        "num": 391417,
+        "word": "刘亦菲林更新或将演夫妻",
+        "onboard_time": 1684991731,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 351180,
+        "num": 351180,
+        "word": "摇粒绒做的花花是真显胖啊",
+        "onboard_time": 1684994669,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329516,
+        "num": 329516,
+        "word": "国泰航空称网传英文内部信件为伪造",
+        "onboard_time": 1684995628,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307440,
+        "num": 307440,
+        "word": "A股",
+        "onboard_time": 1684994848,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 424612,
+        "num": 306926,
+        "word": "四川一中学学生打架致1死",
+        "onboard_time": 1684996888,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298767,
+        "num": 298767,
+        "word": "不带穷字但是一听就很穷的话",
+        "onboard_time": 1684990534,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 283104,
+        "num": 283104,
+        "word": "小米发布会",
+        "onboard_time": 1684998507,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 266457,
+        "num": 266457,
+        "word": "演员郑振瑶去世",
+        "onboard_time": 1684994549,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258370,
+        "num": 258370,
+        "word": "章泽天为京东业务站台",
+        "onboard_time": 1684995689,
+        "rank": 24,
+        "category": "科技,作品衍生"
+      },
+      {
+        "raw_hot": 256567,
+        "num": 256567,
+        "word": "榴莲 贵",
+        "onboard_time": 1684978527,
+        "rank": 25,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 215661,
+        "num": 215661,
+        "word": "沈月cos黎姿版赵敏",
+        "onboard_time": 1684996351,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210149,
+        "num": 210149,
+        "word": "还以为黄旭熙solo了",
+        "onboard_time": 1684991610,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207745,
+        "num": 207745,
+        "word": "关晓彤明艳风",
+        "onboard_time": 1684985008,
+        "rank": 28,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 207471,
+        "num": 207471,
+        "word": "杨紫 新风格新体验",
+        "onboard_time": 1684998210,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 212068,
+        "num": 203966,
+        "word": "长城官方举报比亚迪",
+        "onboard_time": 1684985008,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195242,
+        "num": 195242,
+        "word": "嗓子痛就是二阳了吗",
+        "onboard_time": 1684995209,
+        "rank": 31,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 193134,
+        "num": 193134,
+        "word": "白鹿素颜碎花睡衣路透",
+        "onboard_time": 1684994728,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191824,
+        "num": 191824,
+        "word": "TES官宣2023夏季赛大名单",
+        "onboard_time": 1684992751,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191015,
+        "num": 191015,
+        "word": "看似很贵其实很便宜的东西",
+        "onboard_time": 1684998329,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187699,
+        "num": 187699,
+        "word": "刘亚仁被人泼水",
+        "onboard_time": 1684980448,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187441,
+        "num": 187441,
+        "word": "杨幂学京剧",
+        "onboard_time": 1684994187,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177994,
+        "num": 177994,
+        "word": "秋瓷炫二公不跳舞",
+        "onboard_time": 1684993768,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175919,
+        "num": 175919,
+        "word": "在广东千万不要用吸管杯",
+        "onboard_time": 1684985429,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162312,
+        "num": 162312,
+        "word": "千万不要长期喝奶茶",
+        "onboard_time": 1684972223,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154431,
+        "num": 154431,
+        "word": "国泰航空",
+        "onboard_time": 1684988555,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149329,
+        "num": 149329,
+        "word": "原来吴优是北电第一",
+        "onboard_time": 1684998750,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143688,
+        "num": 143688,
+        "word": "宋茜好辣",
+        "onboard_time": 1684976670,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143154,
+        "num": 143154,
+        "word": "肖战刘宇宁今日微博开屏",
+        "onboard_time": 1684991072,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141263,
+        "num": 141263,
+        "word": "五月天门票",
+        "onboard_time": 1684984107,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135878,
+        "num": 135878,
+        "word": "宁艺卓水光肌",
+        "onboard_time": 1684990654,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134859,
+        "num": 134859,
+        "word": "北京二手房一天降价20万只求一卖",
+        "onboard_time": 1684982128,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131629,
+        "num": 131629,
+        "word": "完美继承了妈妈的美貌",
+        "onboard_time": 1684989213,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129615,
+        "num": 129615,
+        "word": "给狗买磨牙棒忘了看尺寸",
+        "onboard_time": 1684981230,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126758,
+        "num": 126758,
+        "word": "李佳琦直播",
+        "onboard_time": 1684998688,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技的高峰行则必达#"
+    }
+  }
+}
