@@ -1,7 +1,15 @@
 {
   "startTime": 1684945355711,
-  "endTime": 1684985622624,
+  "endTime": 1684988404347,
   "band_list": [
+    {
+      "raw_hot": 2835761,
+      "num": 2835761,
+      "word": "专家建议新冠二阳不要带病上班",
+      "onboard_time": 1684983866,
+      "rank": 18,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2227237,
       "num": 2227237,
@@ -19,7 +27,7 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1913826,
+      "raw_hot": 1930384,
       "num": 1913826,
       "word": "榴莲 贵",
       "onboard_time": 1684978527,
@@ -40,6 +48,14 @@
       "word": "山西失联身亡男孩生母聊天记录曝光",
       "onboard_time": 1684970782,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1570709,
+      "num": 1570709,
+      "word": "长城官方举报比亚迪",
+      "onboard_time": 1684985008,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -67,11 +83,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1193209,
-      "num": 1193209,
-      "word": "专家建议新冠二阳不要带病上班",
-      "onboard_time": 1684983866,
-      "rank": 18,
+      "raw_hot": 1215440,
+      "num": 1215440,
+      "word": "内娱综艺史上炸裂场面",
+      "onboard_time": 1684977152,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1197303,
+      "num": 1197303,
+      "word": "女生兼职上门喂猫遭恋踩癖骚扰",
+      "onboard_time": 1684983209,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -81,14 +105,6 @@
       "onboard_time": 1684957814,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1067290,
-      "num": 1067290,
-      "word": "内娱综艺史上炸裂场面",
-      "onboard_time": 1684977152,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 1042907,
@@ -120,14 +136,6 @@
       "word": "一群外国人打飞的到河南看中医",
       "onboard_time": 1684982847,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 787023,
-      "num": 787023,
-      "word": "女生兼职上门喂猫遭恋踩癖骚扰",
-      "onboard_time": 1684983209,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -179,6 +187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 620695,
+      "num": 620695,
+      "word": "Angelababy素颜睡衣",
+      "onboard_time": 1684986931,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 619015,
       "num": 619015,
       "word": "迪丽热巴刘亦菲同款驼峰鼻",
@@ -193,6 +209,14 @@
       "onboard_time": 1684943427,
       "rank": 30,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 575810,
+      "num": 575810,
+      "word": "关晓彤明艳风",
+      "onboard_time": 1684985008,
+      "rank": 39,
+      "category": "影视,时尚"
     },
     {
       "raw_hot": 555241,
@@ -227,6 +251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 528734,
+      "num": 528734,
+      "word": "网友面试后收到公司20元车马费",
+      "onboard_time": 1684983628,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 514811,
       "num": 514811,
       "word": "易烊千玺是在撒娇吗",
@@ -251,12 +283,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476436,
+      "num": 356670,
+      "word": "阳了还来上班是什么心理",
+      "onboard_time": 1684984709,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 461265,
       "num": 461265,
       "word": "护心十五集前后不是一个编剧",
       "onboard_time": 1684980392,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 458530,
+      "num": 458530,
+      "word": "她背诵的不是课文是全班的希望",
+      "onboard_time": 1684985908,
+      "rank": 17,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 442302,
@@ -273,14 +321,6 @@
       "onboard_time": 1684932750,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 422054,
-      "num": 422054,
-      "word": "网友面试后收到公司20元车马费",
-      "onboard_time": 1684983628,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 407859,
@@ -331,6 +371,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 379868,
+      "num": 356407,
+      "word": "长城汽车",
+      "onboard_time": 1684988010,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371840,
+      "num": 592367,
+      "word": "男子钓鱼钓到金戒指卖了7740元",
+      "onboard_time": 1684983689,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369068,
       "num": 369068,
       "word": "甲状腺结节发生率在20%以上",
@@ -371,6 +427,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 340031,
+      "num": 340031,
+      "word": "真情侣版偷偷藏不住",
+      "onboard_time": 1684982908,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 336716,
       "num": 336716,
       "word": "山西10岁被害男孩今晚在生父村下葬",
@@ -403,12 +467,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 317890,
-      "num": 317890,
-      "word": "真情侣版偷偷藏不住",
-      "onboard_time": 1684982908,
-      "rank": 26,
-      "category": "影视"
+      "raw_hot": 314496,
+      "num": 314496,
+      "word": "在广东千万不要用吸管杯",
+      "onboard_time": 1684985429,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 313613,
@@ -432,14 +496,6 @@
       "word": "结婚6年没孩子一查丈夫竟是女儿身",
       "onboard_time": 1684919969,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 309548,
-      "num": 309548,
-      "word": "长城官方举报比亚迪",
-      "onboard_time": 1684985008,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -475,20 +531,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 292814,
-      "num": 292814,
-      "word": "阳了还来上班是什么心理",
-      "onboard_time": 1684984709,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 290520,
       "num": 290520,
       "word": "梅婷雨中撩发好美",
       "onboard_time": 1684976490,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 285300,
+      "num": 285300,
+      "word": "鹿晗广州演唱会官宣",
+      "onboard_time": 1684988311,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 272577,
@@ -547,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 245830,
+      "num": 245830,
+      "word": "国泰航空多次名列境外航司投诉量榜首",
+      "onboard_time": 1684987409,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245100,
       "num": 215363,
       "word": "肖战如梦之梦豆瓣9.3分",
@@ -587,6 +651,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 230458,
+      "num": 230458,
+      "word": "大麦",
+      "onboard_time": 1684985849,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 224091,
       "num": 224091,
       "word": "清洁工躺车库被碾亡司机申请国赔",
@@ -603,8 +675,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 211885,
-      "num": 211885,
+      "raw_hot": 216166,
+      "num": 216166,
       "word": "不上综艺的明星",
       "onboard_time": 1684982370,
       "rank": 43,
@@ -625,6 +697,14 @@
       "onboard_time": 1684974989,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 208220,
+      "num": 208220,
+      "word": "电视剧都不敢这么编",
+      "onboard_time": 1684986571,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 206637,
@@ -659,14 +739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200510,
-      "num": 200510,
-      "word": "关晓彤明艳风",
-      "onboard_time": 1684985008,
-      "rank": 39,
-      "category": "影视,时尚"
-    },
-    {
       "raw_hot": 195753,
       "num": 195753,
       "word": "索尼PlayStation游戏展",
@@ -675,19 +747,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 195746,
-      "num": 592367,
-      "word": "男子钓鱼钓到金戒指卖了7740元",
-      "onboard_time": 1684983689,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194963,
       "num": 194963,
       "word": "你能接受多少钱一个的兔头",
       "onboard_time": 1684975590,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190659,
+      "num": 190659,
+      "word": "大学生种地成功送母校1700箱辣椒",
+      "onboard_time": 1684985969,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -699,12 +771,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 183169,
-      "num": 183169,
-      "word": "在广东千万不要用吸管杯",
-      "onboard_time": 1684985429,
-      "rank": 40,
-      "category": "情感"
+      "raw_hot": 187787,
+      "num": 187787,
+      "word": "玫瑰故事",
+      "onboard_time": 1684986749,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 185673,
+      "num": 185673,
+      "word": "小美人鱼",
+      "onboard_time": 1684988311,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 182292,
@@ -843,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155080,
+      "num": 792485,
+      "word": "Angelababy贝克汉姆在澳门拍什么",
+      "onboard_time": 1684984288,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153865,
       "num": 153865,
       "word": "华表奖易烊千玺在看王俊凯吗",
@@ -883,6 +971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142417,
+      "num": 357143,
+      "word": "澳门酒店撞星率有多高",
+      "onboard_time": 1684985849,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142267,
       "num": 142267,
       "word": "刘亚仁头发白了",
@@ -921,14 +1017,6 @@
       "onboard_time": 1684944864,
       "rank": 47,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 108076,
-      "num": 792485,
-      "word": "Angelababy贝克汉姆在澳门拍什么",
-      "onboard_time": 1684984288,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 108017,
@@ -1004,7 +1092,7 @@
     },
     {
       "raw_hot": 83268,
-      "num": 147372,
+      "num": 174560,
       "word": "以闪亮之名",
       "onboard_time": 1684982969,
       "rank": 48,
