@@ -1,14 +1,22 @@
 {
   "startTime": 1684945355711,
-  "endTime": 1684979239433,
+  "endTime": 1684982109676,
   "band_list": [
     {
-      "raw_hot": 1996231,
-      "num": 1996231,
+      "raw_hot": 2227237,
+      "num": 2227237,
       "word": "千万不要长期喝奶茶",
       "onboard_time": 1684972223,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1934887,
+      "num": 1934887,
+      "word": "微信新增锁定功能",
+      "onboard_time": 1684974449,
+      "rank": 4,
+      "category": "科技"
     },
     {
       "raw_hot": 1853639,
@@ -27,12 +35,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1599353,
-      "num": 1599353,
-      "word": "微信新增锁定功能",
-      "onboard_time": 1684974449,
-      "rank": 4,
-      "category": "科技"
+      "raw_hot": 1384295,
+      "num": 1384295,
+      "word": "榴莲 贵",
+      "onboard_time": 1684978527,
+      "rank": 23,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1343159,
@@ -67,6 +75,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 784147,
+      "num": 784147,
+      "word": "内娱综艺史上炸裂场面",
+      "onboard_time": 1684977152,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 756666,
+      "num": 756666,
+      "word": "24岁研究生离世捐器官救多人",
+      "onboard_time": 1684979247,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 738470,
       "num": 738470,
       "word": "法老你真的我哭死",
@@ -89,6 +113,14 @@
       "onboard_time": 1684934370,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 655844,
+      "num": 655844,
+      "word": "刘亚仁被人泼水",
+      "onboard_time": 1684980448,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 655406,
@@ -155,12 +187,20 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 449974,
-      "num": 449974,
-      "word": "内娱综艺史上炸裂场面",
-      "onboard_time": 1684977152,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 488383,
+      "num": 488383,
+      "word": "易烊千玺是在撒娇吗",
+      "onboard_time": 1684977867,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 447419,
+      "num": 447419,
+      "word": "护心十五集前后不是一个编剧",
+      "onboard_time": 1684980392,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 442302,
@@ -179,12 +219,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 416830,
+      "num": 305786,
+      "word": "给狗买磨牙棒忘了看尺寸",
+      "onboard_time": 1684981230,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 407859,
       "num": 407859,
       "word": "24岁大男孩去世捐器官救4人",
       "onboard_time": 1684940430,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406825,
+      "num": 304386,
+      "word": "辛巴",
+      "onboard_time": 1684980628,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 402810,
@@ -227,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362054,
+      "num": 362054,
+      "word": "二阳",
+      "onboard_time": 1684979367,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357108,
       "num": 357108,
       "word": "英伟达",
@@ -251,14 +315,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 343210,
-      "num": 343210,
-      "word": "易烊千玺是在撒娇吗",
-      "onboard_time": 1684977867,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 340809,
       "num": 340809,
       "word": "刘亚仁对警方隐瞒真实住址",
@@ -272,6 +328,14 @@
       "word": "山西10岁被害男孩今晚在生父村下葬",
       "onboard_time": 1684939410,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332112,
+      "num": 332112,
+      "word": "催收巨头湖南永雄宣布停业",
+      "onboard_time": 1684979848,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -299,6 +363,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 307416,
+      "num": 307416,
+      "word": "金玟庭的背",
+      "onboard_time": 1684977687,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 301956,
       "num": 301956,
       "word": "沈月回应闺蜜婚礼上当花童",
@@ -315,12 +387,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 295806,
-      "num": 295806,
-      "word": "榴莲 贵",
-      "onboard_time": 1684978527,
-      "rank": 23,
-      "category": "社会新闻,美食"
+      "raw_hot": 293846,
+      "num": 293846,
+      "word": "九鹭非香",
+      "onboard_time": 1684981288,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 290520,
@@ -339,20 +411,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270946,
+      "num": 270946,
+      "word": "奶奶出院后把小猫咪高兴坏了",
+      "onboard_time": 1684978468,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 269689,
       "num": 269689,
       "word": "10岁遇害男孩生父讲述自己为何报警",
       "onboard_time": 1684969641,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 266271,
-      "num": 266271,
-      "word": "金玟庭的背",
-      "onboard_time": 1684977687,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 259180,
@@ -395,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236756,
+      "num": 236756,
+      "word": "偷偷努力的感觉",
+      "onboard_time": 1684977031,
+      "rank": 40,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 232156,
       "num": 232156,
       "word": "我推的孩子",
@@ -409,14 +489,6 @@
       "onboard_time": 1684963273,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 224029,
-      "num": 224029,
-      "word": "偷偷努力的感觉",
-      "onboard_time": 1684977031,
-      "rank": 40,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 222524,
@@ -451,6 +523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 200627,
+      "num": 200627,
+      "word": "近亿只蝴蝶大爆发有多壮观",
+      "onboard_time": 1684980929,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195753,
       "num": 195753,
       "word": "索尼PlayStation游戏展",
@@ -465,6 +545,14 @@
       "onboard_time": 1684975590,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194796,
+      "num": 194796,
+      "word": "当00后当了老师",
+      "onboard_time": 1684981168,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 189587,
@@ -643,12 +731,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 139943,
-      "num": 139943,
-      "word": "奶奶出院后把小猫咪高兴坏了",
-      "onboard_time": 1684978468,
-      "rank": 43,
-      "category": "情感"
+      "raw_hot": 139767,
+      "num": 139767,
+      "word": "白宇说那你们想多了",
+      "onboard_time": 1684980028,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 131854,

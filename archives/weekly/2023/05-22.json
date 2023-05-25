@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684979239433,
+  "endTime": 1684982109676,
   "band_list": [
     {
       "raw_hot": 3643134,
@@ -171,6 +171,14 @@
       "category": "教育,情感"
     },
     {
+      "raw_hot": 2227237,
+      "num": 2227237,
+      "word": "千万不要长期喝奶茶",
+      "onboard_time": 1684972223,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2175664,
       "num": 2175664,
       "word": "法老你真的我哭死",
@@ -203,20 +211,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1996231,
-      "num": 1996231,
-      "word": "千万不要长期喝奶茶",
-      "onboard_time": 1684972223,
-      "rank": 1,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1992509,
       "num": 1992509,
       "word": "鹿晗兑现三年前承诺",
       "onboard_time": 1684799727,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1934887,
+      "num": 1934887,
+      "word": "微信新增锁定功能",
+      "onboard_time": 1684974449,
+      "rank": 4,
+      "category": "科技"
     },
     {
       "raw_hot": 1912687,
@@ -395,14 +403,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1599353,
-      "num": 1599353,
-      "word": "微信新增锁定功能",
-      "onboard_time": 1684974449,
-      "rank": 4,
-      "category": "科技"
-    },
-    {
       "raw_hot": 1584994,
       "num": 1584994,
       "word": "兰州大学",
@@ -521,6 +521,14 @@
       "onboard_time": 1684822050,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1384295,
+      "num": 1384295,
+      "word": "榴莲 贵",
+      "onboard_time": 1684978527,
+      "rank": 23,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1383898,
@@ -1347,6 +1355,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 784147,
+      "num": 784147,
+      "word": "内娱综艺史上炸裂场面",
+      "onboard_time": 1684977152,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 775560,
       "num": 775560,
       "word": "易梦玲综艺首秀",
@@ -1385,6 +1401,14 @@
       "onboard_time": 1684711520,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 756666,
+      "num": 756666,
+      "word": "24岁研究生离世捐器官救多人",
+      "onboard_time": 1684979247,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 755202,
@@ -1593,6 +1617,14 @@
       "onboard_time": 1684723528,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 655844,
+      "num": 655844,
+      "word": "刘亚仁被人泼水",
+      "onboard_time": 1684980448,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 650872,
@@ -2227,6 +2259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 488383,
+      "num": 488383,
+      "word": "易烊千玺是在撒娇吗",
+      "onboard_time": 1684977867,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 487722,
       "num": 422436,
       "word": "教你读懂小红书职场博主",
@@ -2427,14 +2467,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 449974,
-      "num": 449974,
-      "word": "内娱综艺史上炸裂场面",
-      "onboard_time": 1684977152,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 449764,
       "num": 449764,
       "word": "孩子被救出后哭喊还有我爷爷",
@@ -2457,6 +2489,14 @@
       "onboard_time": 1684712303,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 447419,
+      "num": 447419,
+      "word": "护心十五集前后不是一个编剧",
+      "onboard_time": 1684980392,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 445180,
@@ -2635,6 +2675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 416830,
+      "num": 305786,
+      "word": "给狗买磨牙棒忘了看尺寸",
+      "onboard_time": 1684981230,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 415378,
       "num": 415378,
       "word": "王源粉发小辫",
@@ -2681,6 +2729,14 @@
       "onboard_time": 1684854096,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 406825,
+      "num": 304386,
+      "word": "辛巴",
+      "onboard_time": 1684980628,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 405696,
@@ -3251,14 +3307,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 343210,
-      "num": 343210,
-      "word": "易烊千玺是在撒娇吗",
-      "onboard_time": 1684977867,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 342967,
       "num": 342967,
       "word": "易烊千玺中国电影三大奖全提",
@@ -3353,6 +3401,14 @@
       "onboard_time": 1684852299,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 332112,
+      "num": 332112,
+      "word": "催收巨头湖南永雄宣布停业",
+      "onboard_time": 1684979848,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 330845,
@@ -3659,6 +3715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307416,
+      "num": 307416,
+      "word": "金玟庭的背",
+      "onboard_time": 1684977687,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 306338,
       "num": 306338,
       "word": "把自己当女儿养后内耗变少了",
@@ -3785,14 +3849,6 @@
       "onboard_time": 1684978168,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 295806,
-      "num": 295806,
-      "word": "榴莲 贵",
-      "onboard_time": 1684978527,
-      "rank": 23,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 295080,
@@ -4211,6 +4267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270946,
+      "num": 270946,
+      "word": "奶奶出院后把小猫咪高兴坏了",
+      "onboard_time": 1684978468,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 270655,
       "num": 270655,
       "word": "合肥一男子520建私人花园送妻子",
@@ -4297,14 +4361,6 @@
       "onboard_time": 1684821690,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 266271,
-      "num": 266271,
-      "word": "金玟庭的背",
-      "onboard_time": 1684977687,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 265828,
@@ -4803,6 +4859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236756,
+      "num": 236756,
+      "word": "偷偷努力的感觉",
+      "onboard_time": 1684977031,
+      "rank": 40,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 236437,
       "num": 236437,
       "word": "你用多久攒到人生第一个10万元",
@@ -5105,14 +5169,6 @@
       "onboard_time": 1684963273,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 224029,
-      "num": 224029,
-      "word": "偷偷努力的感觉",
-      "onboard_time": 1684977031,
-      "rank": 40,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 223644,
@@ -5587,6 +5643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200627,
+      "num": 200627,
+      "word": "近亿只蝴蝶大爆发有多壮观",
+      "onboard_time": 1684980929,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200323,
       "num": 200323,
       "word": "长沙面包店有多卷",
@@ -5777,6 +5841,14 @@
       "onboard_time": 1684816114,
       "rank": 41,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 194796,
+      "num": 194796,
+      "word": "当00后当了老师",
+      "onboard_time": 1684981168,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 193843,
@@ -6955,12 +7027,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139943,
-      "num": 139943,
-      "word": "奶奶出院后把小猫咪高兴坏了",
-      "onboard_time": 1684978468,
-      "rank": 43,
-      "category": "情感"
+      "raw_hot": 139767,
+      "num": 139767,
+      "word": "白宇说那你们想多了",
+      "onboard_time": 1684980028,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 139526,

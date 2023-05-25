@@ -1,0 +1,410 @@
+{
+  "runTime": 1684982109676,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2227237,
+        "num": 2227237,
+        "word": "千万不要长期喝奶茶",
+        "onboard_time": 1684972223,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1934887,
+        "num": 1934887,
+        "word": "微信新增锁定功能",
+        "onboard_time": 1684974449,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 105183,
+        "num": 1511882,
+        "word": "坐高铁被窗外的中国基建所惊艳",
+        "onboard_time": 1684938092,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1384295,
+        "num": 1384295,
+        "word": "榴莲 贵",
+        "onboard_time": 1684978527,
+        "rank": 3,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 1196090,
+        "num": 1196090,
+        "word": "宋茜好辣",
+        "onboard_time": 1684976670,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1084629,
+        "num": 1084629,
+        "word": "山西失联身亡男孩生母聊天记录曝光",
+        "onboard_time": 1684970782,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 972099,
+        "num": 972099,
+        "word": "罗云熙不上综艺的原因",
+        "onboard_time": 1684971924,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 784147,
+        "num": 784147,
+        "word": "内娱综艺史上炸裂场面",
+        "onboard_time": 1684977152,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 756666,
+        "num": 756666,
+        "word": "24岁研究生离世捐器官救多人",
+        "onboard_time": 1684979247,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655844,
+        "num": 655844,
+        "word": "刘亚仁被人泼水",
+        "onboard_time": 1684980448,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560220,
+        "num": 560220,
+        "word": "谁给白鹿做的妆造",
+        "onboard_time": 1684937498,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 547690,
+        "num": 547690,
+        "word": "员工每天带薪拉屎3至6小时被解雇",
+        "onboard_time": 1684936892,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488383,
+        "num": 488383,
+        "word": "易烊千玺是在撒娇吗",
+        "onboard_time": 1684977867,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 447419,
+        "num": 447419,
+        "word": "护心十五集前后不是一个编剧",
+        "onboard_time": 1684980392,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 380509,
+        "num": 380509,
+        "word": "都不买榴莲我就放心了",
+        "onboard_time": 1684937793,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362054,
+        "num": 362054,
+        "word": "二阳",
+        "onboard_time": 1684979367,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349055,
+        "num": 349055,
+        "word": "杨紫表情管理",
+        "onboard_time": 1684969279,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 332112,
+        "num": 332112,
+        "word": "催收巨头湖南永雄宣布停业",
+        "onboard_time": 1684979848,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315749,
+        "num": 315749,
+        "word": "网传一大学所有饮品店禁止使用冰块",
+        "onboard_time": 1684957814,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307416,
+        "num": 307416,
+        "word": "金玟庭的背",
+        "onboard_time": 1684977687,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 416830,
+        "num": 305786,
+        "word": "给狗买磨牙棒忘了看尺寸",
+        "onboard_time": 1684981230,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 406825,
+        "num": 304386,
+        "word": "辛巴",
+        "onboard_time": 1684980628,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 293846,
+        "num": 293846,
+        "word": "九鹭非香",
+        "onboard_time": 1684981288,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 291015,
+        "num": 291015,
+        "word": "美国科技大亨用17岁儿子血浆换血",
+        "onboard_time": 1684943427,
+        "rank": 23,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 270946,
+        "num": 270946,
+        "word": "奶奶出院后把小猫咪高兴坏了",
+        "onboard_time": 1684978468,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259840,
+        "num": 259840,
+        "word": "高叶cos的是谁",
+        "onboard_time": 1684978168,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246745,
+        "num": 246745,
+        "word": "毕业后做了日入万元的冰淇淋店主",
+        "onboard_time": 1684977152,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236756,
+        "num": 236756,
+        "word": "偷偷努力的感觉",
+        "onboard_time": 1684977031,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 234350,
+        "num": 234350,
+        "word": "北京和上海真的很不一样",
+        "onboard_time": 1684974268,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229856,
+        "num": 229856,
+        "word": "甲状腺结节发生率在20%以上",
+        "onboard_time": 1684971985,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217833,
+        "num": 217833,
+        "word": "兔头涨价",
+        "onboard_time": 1684976129,
+        "rank": 30,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 210470,
+        "num": 210470,
+        "word": "恩静",
+        "onboard_time": 1684972166,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210337,
+        "num": 210337,
+        "word": "刘亚仁逮捕令被驳回",
+        "onboard_time": 1684970302,
+        "rank": 32,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 202952,
+        "num": 202952,
+        "word": "公主小妹照进现实",
+        "onboard_time": 1684934370,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200627,
+        "num": 200627,
+        "word": "近亿只蝴蝶大爆发有多壮观",
+        "onboard_time": 1684980929,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198773,
+        "num": 198773,
+        "word": "苏醒晒陆虎的官宣朋友圈",
+        "onboard_time": 1684945584,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194796,
+        "num": 194796,
+        "word": "当00后当了老师",
+        "onboard_time": 1684981168,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193805,
+        "num": 193805,
+        "word": "腾讯视频电视剧必看榜",
+        "onboard_time": 1684974989,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182131,
+        "num": 182131,
+        "word": "乃万加入NOUS",
+        "onboard_time": 1684974088,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180074,
+        "num": 180074,
+        "word": "梅婷雨中撩发好美",
+        "onboard_time": 1684976490,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166340,
+        "num": 166340,
+        "word": "柳智敏戛纳红毯戴的项链",
+        "onboard_time": 1684976552,
+        "rank": 40,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 152258,
+        "num": 152258,
+        "word": "五月天北京演唱会二次开票",
+        "onboard_time": 1684975830,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165988,
+        "num": 151262,
+        "word": "网友称国泰航空涉事航班挨个问要不要毛毯",
+        "onboard_time": 1684948157,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149148,
+        "num": 149148,
+        "word": "RNG阵容",
+        "onboard_time": 1684974750,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145491,
+        "num": 145491,
+        "word": "10岁遇害男孩生父讲述自己为何报警",
+        "onboard_time": 1684969641,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145243,
+        "num": 145243,
+        "word": "老人突发心脏病交警秒掏救心丸",
+        "onboard_time": 1684977750,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141482,
+        "num": 141482,
+        "word": "赵露思换妆容",
+        "onboard_time": 1684938931,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139767,
+        "num": 139767,
+        "word": "白宇说那你们想多了",
+        "onboard_time": 1684980028,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86666,
+        "num": 139552,
+        "word": "我推的孩子",
+        "onboard_time": 1684971624,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 85802,
+        "num": 138866,
+        "word": "索尼PlayStation游戏展",
+        "onboard_time": 1684977449,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#打造经济监督的特种部队#"
+    }
+  }
+}
