@@ -1,0 +1,410 @@
+{
+  "runTime": 1685006201641,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1376982,
+        "num": 1376982,
+        "word": "空调开18度的领导离职了",
+        "onboard_time": 1684995329,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1337657,
+        "num": 1337657,
+        "word": "上海迪士尼6月23日起门票调价",
+        "onboard_time": 1685002709,
+        "rank": 1,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 24841,
+        "num": 1005979,
+        "word": "我是中国人我想举自己的国旗",
+        "onboard_time": 1684973066,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 970867,
+        "num": 970867,
+        "word": "宁艺卓红毯摔倒",
+        "onboard_time": 1685003308,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 915297,
+        "num": 915297,
+        "word": "男子弄丢唐伯虎真迹好心市民交还",
+        "onboard_time": 1685002768,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 906390,
+        "num": 906390,
+        "word": "女生黄体破裂医生暖心陪护参加中考",
+        "onboard_time": 1684994607,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 721603,
+        "num": 721603,
+        "word": "四川会理发生重大刑事案件",
+        "onboard_time": 1684990115,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543711,
+        "num": 543711,
+        "word": "谢楠说吴京最长一年半不回家",
+        "onboard_time": 1684996408,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393906,
+        "num": 393906,
+        "word": "我的一生感觉都在考试",
+        "onboard_time": 1685002587,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 321321,
+        "num": 321321,
+        "word": "她背诵的不是课文是全班的希望",
+        "onboard_time": 1684985908,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 696166,
+        "num": 319945,
+        "word": "女孩剪了一撮头发家长赔了1万多",
+        "onboard_time": 1685004689,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450929,
+        "num": 319319,
+        "word": "真情侣版偷偷藏不住",
+        "onboard_time": 1684982908,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386162,
+        "num": 318927,
+        "word": "艺人化妆师还是个高危职业",
+        "onboard_time": 1685004509,
+        "rank": 12,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 315556,
+        "num": 315556,
+        "word": "Angelababy素颜睡衣",
+        "onboard_time": 1684986931,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315398,
+        "num": 315398,
+        "word": "国泰航空称空中服务员工会不代表国泰",
+        "onboard_time": 1684999649,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292413,
+        "num": 292413,
+        "word": "专家建议新冠二阳不要带病上班",
+        "onboard_time": 1684983866,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304415,
+        "num": 290794,
+        "word": "宁安如梦",
+        "onboard_time": 1685002530,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 788399,
+        "num": 290347,
+        "word": "张彬彬 错过宁安如梦",
+        "onboard_time": 1684999949,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285820,
+        "num": 285820,
+        "word": "吴宣仪2021年收入",
+        "onboard_time": 1685005648,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266335,
+        "num": 266335,
+        "word": "能开得起大女主古偶的女演员",
+        "onboard_time": 1684995450,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 261439,
+        "num": 261439,
+        "word": "细嚼慢咽真的会瘦吗",
+        "onboard_time": 1685002768,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521509,
+        "num": 258508,
+        "word": "四川一中学学生打架致1死",
+        "onboard_time": 1684996888,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246259,
+        "num": 246259,
+        "word": "护心编剧回应",
+        "onboard_time": 1685000189,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231679,
+        "num": 231679,
+        "word": "国泰",
+        "onboard_time": 1685003370,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231100,
+        "num": 231100,
+        "word": "范丞丞洗洗还能要",
+        "onboard_time": 1685005348,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221553,
+        "num": 221553,
+        "word": "在云南连吃7天有多爽",
+        "onboard_time": 1685000428,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 214877,
+        "num": 214877,
+        "word": "全球热",
+        "onboard_time": 1684990413,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205733,
+        "num": 205733,
+        "word": "白鹿孙珍妮奔跑吧同框",
+        "onboard_time": 1685001147,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197926,
+        "num": 197926,
+        "word": "比亚迪回应被长城汽车举报",
+        "onboard_time": 1684988670,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195672,
+        "num": 195672,
+        "word": "女生兼职上门喂猫遭恋踩癖骚扰",
+        "onboard_time": 1684983209,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188305,
+        "num": 188305,
+        "word": "汉阳教育局通报小学生校内被撞身亡",
+        "onboard_time": 1685005109,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 177848,
+        "num": 177848,
+        "word": "Amber芝芙跳叮叮当当",
+        "onboard_time": 1685001808,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171375,
+        "num": 171375,
+        "word": "摇粒绒做的花花是真显胖啊",
+        "onboard_time": 1684994669,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167673,
+        "num": 167673,
+        "word": "宋茜说谈恋爱就像找东西",
+        "onboard_time": 1685004150,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165066,
+        "num": 165066,
+        "word": "看似很贵其实很便宜的东西",
+        "onboard_time": 1684998329,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153554,
+        "num": 153554,
+        "word": "易烊千玺海边拍立得",
+        "onboard_time": 1685000606,
+        "rank": 35,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 143968,
+        "num": 143968,
+        "word": "杨紫 新风格新体验",
+        "onboard_time": 1684998210,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 138223,
+        "num": 138223,
+        "word": "不带穷字但是一听就很穷的话",
+        "onboard_time": 1684990534,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126819,
+        "num": 126819,
+        "word": "沈月cos黎姿版赵敏",
+        "onboard_time": 1684996351,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125231,
+        "num": 125231,
+        "word": "罗渽民杂志",
+        "onboard_time": 1685003728,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 121495,
+        "num": 121495,
+        "word": "原来长相思十年前就找过杨紫",
+        "onboard_time": 1684999949,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117841,
+        "num": 117841,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1685006007,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116686,
+        "num": 116686,
+        "word": "演员郑振瑶去世",
+        "onboard_time": 1684994549,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115054,
+        "num": 115054,
+        "word": "A股",
+        "onboard_time": 1684994848,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111644,
+        "num": 111644,
+        "word": "成毅不上综艺原因",
+        "onboard_time": 1685006189,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107747,
+        "num": 107747,
+        "word": "李佳琦直播",
+        "onboard_time": 1684998688,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106219,
+        "num": 106219,
+        "word": "男子凌晨4点去给妈妈擦墓碑",
+        "onboard_time": 1685006189,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106085,
+        "num": 106085,
+        "word": "宁艺卓演我每天",
+        "onboard_time": 1685006007,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104120,
+        "num": 104120,
+        "word": "萌娃输液小手胖嘟嘟护士一针见血",
+        "onboard_time": 1685002348,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103352,
+        "num": 103352,
+        "word": "小米发布会",
+        "onboard_time": 1684998507,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技的高峰行则必达#"
+    }
+  }
+}
