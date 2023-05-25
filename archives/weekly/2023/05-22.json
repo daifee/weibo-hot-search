@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684991748594,
+  "endTime": 1684992826526,
   "band_list": [
     {
       "raw_hot": 3643134,
@@ -291,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1825458,
+      "num": 1825458,
+      "word": "欠我一万块钱的同事离职了",
+      "onboard_time": 1684988614,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1781665,
       "num": 1057833,
       "word": "小学生在校内被老师开车撞倒身亡",
@@ -361,14 +369,6 @@
       "onboard_time": 1684806505,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1679078,
-      "num": 1679078,
-      "word": "欠我一万块钱的同事离职了",
-      "onboard_time": 1684988614,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 1671180,
@@ -907,6 +907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1135946,
+      "num": 1135946,
+      "word": "二阳症状",
+      "onboard_time": 1684990715,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1131106,
       "num": 1131106,
       "word": "谢娜女儿看到赵丽颖的广告叫妈妈",
@@ -1187,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 934244,
+      "num": 934244,
+      "word": "四川会理发生重大刑事案件",
+      "onboard_time": 1684990115,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 919917,
       "num": 919917,
       "word": "成灿shotaro离开NCT",
@@ -1329,14 +1345,6 @@
       "onboard_time": 1684802608,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 837309,
-      "num": 591361,
-      "word": "四川会理发生重大刑事案件",
-      "onboard_time": 1684990115,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 834691,
@@ -2435,14 +2443,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 475824,
-      "num": 475824,
-      "word": "二阳症状",
-      "onboard_time": 1684990715,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 475199,
       "num": 475199,
       "word": "虞书欣多巴胺眼镜",
@@ -2481,6 +2481,14 @@
       "onboard_time": 1684916129,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 468361,
+      "num": 468361,
+      "word": "全球热",
+      "onboard_time": 1684990413,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 465232,
@@ -2593,6 +2601,14 @@
       "onboard_time": 1684909291,
       "rank": 34,
       "category": "科技"
+    },
+    {
+      "raw_hot": 450611,
+      "num": 450611,
+      "word": "刘亦菲林更新或将演夫妻",
+      "onboard_time": 1684991731,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 450021,
@@ -2931,14 +2947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 399826,
-      "num": 399826,
-      "word": "全球热",
-      "onboard_time": 1684990413,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 397550,
       "num": 475636,
       "word": "阿里云回应裁员",
@@ -3248,6 +3256,14 @@
       "word": "黄晓明说自己能生下黄明昊",
       "onboard_time": 1684683211,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 365402,
+      "num": 365402,
+      "word": "还以为黄旭熙solo了",
+      "onboard_time": 1684991610,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -4827,6 +4843,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 252717,
+      "num": 252717,
+      "word": "肖战刘宇宁今日微博开屏",
+      "onboard_time": 1684991072,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251531,
       "num": 251531,
       "word": "成都半月内4人误食这种野菜中毒",
@@ -5145,14 +5169,6 @@
       "onboard_time": 1684712845,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235678,
-      "num": 235678,
-      "word": "肖战刘宇宁今日微博开屏",
-      "onboard_time": 1684991072,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 235200,
@@ -5747,14 +5763,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 210610,
-      "num": 210610,
-      "word": "还以为黄旭熙solo了",
-      "onboard_time": 1684991610,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 210144,
       "num": 210144,
       "word": "五月天北京演唱会二次开票",
@@ -5769,6 +5777,14 @@
       "onboard_time": 1684809388,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 209091,
+      "num": 209091,
+      "word": "比亚迪声明反对不正当竞争",
+      "onboard_time": 1684991491,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208783,
@@ -6003,6 +6019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199433,
+      "num": 199433,
+      "word": "G社镜头下的aespa",
+      "onboard_time": 1684992207,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 198462,
       "num": 198462,
       "word": "塞尔达传说王国之泪",
@@ -6017,14 +6041,6 @@
       "onboard_time": 1684745789,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 197650,
-      "num": 197650,
-      "word": "比亚迪声明反对不正当竞争",
-      "onboard_time": 1684991491,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197634,
@@ -6193,6 +6209,14 @@
       "onboard_time": 1684720349,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 193332,
+      "num": 193332,
+      "word": "喜欢你4实名cp就差官宣了",
+      "onboard_time": 1684992151,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 192924,
@@ -6859,6 +6883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170426,
+      "num": 170426,
+      "word": "长城汽车举报致比亚迪股价跳水",
+      "onboard_time": 1684992569,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168433,
       "num": 168433,
       "word": "如何区分呼吸道合胞病毒和流感",
@@ -6937,14 +6969,6 @@
       "onboard_time": 1684969400,
       "rank": 28,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 163450,
-      "num": 163450,
-      "word": "刘亦菲林更新或将演夫妻",
-      "onboard_time": 1684991731,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 163221,
@@ -7361,6 +7385,14 @@
       "onboard_time": 1684811009,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145171,
+      "num": 145171,
+      "word": "TES官宣2023夏季赛大名单",
+      "onboard_time": 1684992751,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 143772,
@@ -8300,7 +8332,7 @@
     },
     {
       "raw_hot": 47827,
-      "num": 1390159,
+      "num": 1419518,
       "word": "神十六船箭组合体垂直转运全回顾",
       "onboard_time": 1684988430,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1684992826526,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1923976,
+        "num": 1923976,
+        "word": "专家建议新冠二阳不要带病上班",
+        "onboard_time": 1684983866,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1825458,
+        "num": 1825458,
+        "word": "欠我一万块钱的同事离职了",
+        "onboard_time": 1684988614,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45003,
+        "num": 1419518,
+        "word": "神十六船箭组合体垂直转运全回顾",
+        "onboard_time": 1684988430,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1135946,
+        "num": 1135946,
+        "word": "二阳症状",
+        "onboard_time": 1684990715,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1092980,
+        "num": 1092980,
+        "word": "长城官方举报比亚迪",
+        "onboard_time": 1684985008,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1008613,
+        "num": 1008613,
+        "word": "Angelababy素颜睡衣",
+        "onboard_time": 1684986931,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 934244,
+        "num": 934244,
+        "word": "四川会理发生重大刑事案件",
+        "onboard_time": 1684990115,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 878004,
+        "num": 878004,
+        "word": "她背诵的不是课文是全班的希望",
+        "onboard_time": 1684985908,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 836048,
+        "num": 836048,
+        "word": "女生兼职上门喂猫遭恋踩癖骚扰",
+        "onboard_time": 1684983209,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602299,
+        "num": 602299,
+        "word": "榴莲 贵",
+        "onboard_time": 1684978527,
+        "rank": 9,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 584476,
+        "num": 584476,
+        "word": "关晓彤明艳风",
+        "onboard_time": 1684985008,
+        "rank": 10,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 507864,
+        "num": 507864,
+        "word": "千万不要长期喝奶茶",
+        "onboard_time": 1684972223,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 468361,
+        "num": 468361,
+        "word": "全球热",
+        "onboard_time": 1684990413,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 464142,
+        "num": 464142,
+        "word": "刘亚仁被人泼水",
+        "onboard_time": 1684980448,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450611,
+        "num": 450611,
+        "word": "刘亦菲林更新或将演夫妻",
+        "onboard_time": 1684991731,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 442225,
+        "num": 442225,
+        "word": "宋茜好辣",
+        "onboard_time": 1684976670,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 405848,
+        "num": 405848,
+        "word": "比亚迪回应被长城汽车举报",
+        "onboard_time": 1684988670,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372638,
+        "num": 372638,
+        "word": "微信新增锁定功能",
+        "onboard_time": 1684974449,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 369852,
+        "num": 369852,
+        "word": "内娱综艺史上炸裂场面",
+        "onboard_time": 1684977152,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 365402,
+        "num": 365402,
+        "word": "还以为黄旭熙solo了",
+        "onboard_time": 1684991610,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484628,
+        "num": 361913,
+        "word": "不带穷字但是一听就很穷的话",
+        "onboard_time": 1684990534,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 357402,
+        "num": 357402,
+        "word": "宜宾地震",
+        "onboard_time": 1684991312,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352934,
+        "num": 352934,
+        "word": "一群外国人打飞的到河南看中医",
+        "onboard_time": 1684982847,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304957,
+        "num": 304957,
+        "word": "罗云熙不上综艺的原因",
+        "onboard_time": 1684971924,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303347,
+        "num": 303347,
+        "word": "真情侣版偷偷藏不住",
+        "onboard_time": 1684982908,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298355,
+        "num": 298355,
+        "word": "比亚迪",
+        "onboard_time": 1684989693,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277490,
+        "num": 277490,
+        "word": "五月天门票",
+        "onboard_time": 1684984107,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 273677,
+        "num": 273677,
+        "word": "在广东千万不要用吸管杯",
+        "onboard_time": 1684985429,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259097,
+        "num": 259097,
+        "word": "完美继承了妈妈的美貌",
+        "onboard_time": 1684989213,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252717,
+        "num": 252717,
+        "word": "肖战刘宇宁今日微博开屏",
+        "onboard_time": 1684991072,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249614,
+        "num": 249614,
+        "word": "国泰航空多次名列境外航司投诉量榜首",
+        "onboard_time": 1684987409,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243344,
+        "num": 243344,
+        "word": "给狗买磨牙棒忘了看尺寸",
+        "onboard_time": 1684981230,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 241506,
+        "num": 241506,
+        "word": "宁艺卓水光肌",
+        "onboard_time": 1684990654,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235924,
+        "num": 235924,
+        "word": "网友面试后收到公司20元车马费",
+        "onboard_time": 1684983628,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221650,
+        "num": 221650,
+        "word": "宋茜撞衫葫芦娃",
+        "onboard_time": 1684988430,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211382,
+        "num": 211382,
+        "word": "电视剧都不敢这么编",
+        "onboard_time": 1684986571,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209091,
+        "num": 209091,
+        "word": "比亚迪声明反对不正当竞争",
+        "onboard_time": 1684991491,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199433,
+        "num": 199433,
+        "word": "G社镜头下的aespa",
+        "onboard_time": 1684992207,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194775,
+        "num": 194775,
+        "word": "九鹭非香",
+        "onboard_time": 1684981288,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193332,
+        "num": 193332,
+        "word": "喜欢你4实名cp就差官宣了",
+        "onboard_time": 1684992151,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192759,
+        "num": 192759,
+        "word": "鹿晗广州演唱会官宣",
+        "onboard_time": 1684988311,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191895,
+        "num": 191895,
+        "word": "国泰航空",
+        "onboard_time": 1684988555,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190453,
+        "num": 190453,
+        "word": "阳了还来上班是什么心理",
+        "onboard_time": 1684984709,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170426,
+        "num": 170426,
+        "word": "长城汽车举报致比亚迪股价跳水",
+        "onboard_time": 1684992569,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169861,
+        "num": 169861,
+        "word": "男子钓鱼钓到金戒指卖了7740元",
+        "onboard_time": 1684983689,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167200,
+        "num": 167200,
+        "word": "北京二手房一天降价20万只求一卖",
+        "onboard_time": 1684982128,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156652,
+        "num": 156652,
+        "word": "龚俊模仿花花吃东西",
+        "onboard_time": 1684984468,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145171,
+        "num": 145171,
+        "word": "TES官宣2023夏季赛大名单",
+        "onboard_time": 1684992751,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84656,
+        "num": 144038,
+        "word": "RNG阵容",
+        "onboard_time": 1684974750,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84041,
+        "num": 142618,
+        "word": "光与夜之恋",
+        "onboard_time": 1684989394,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技的高峰行则必达#"
+    }
+  }
+}
