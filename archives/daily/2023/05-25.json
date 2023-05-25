@@ -1,6 +1,6 @@
 {
   "startTime": 1684945355711,
-  "endTime": 1685024149319,
+  "endTime": 1685025195359,
   "band_list": [
     {
       "raw_hot": 3114274,
@@ -11,24 +11,32 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2880950,
-      "num": 491369,
-      "word": "许嵩方 取证中",
-      "onboard_time": 1685020231,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2762043,
-      "num": 2762043,
+      "raw_hot": 3089669,
+      "num": 3089669,
       "word": "吴倩三公 退赛",
       "onboard_time": 1685022993,
       "rank": 0,
       "category": "综艺"
     },
     {
-      "raw_hot": 2392815,
-      "num": 2392815,
+      "raw_hot": 2884677,
+      "num": 2884677,
+      "word": "枪决通知短信",
+      "onboard_time": 1685021852,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2880950,
+      "num": 526387,
+      "word": "许嵩方 取证中",
+      "onboard_time": 1685020231,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2474662,
+      "num": 2474662,
       "word": "王鹤棣虞书欣 二搭",
       "onboard_time": 1685022334,
       "rank": 1,
@@ -49,14 +57,6 @@
       "onboard_time": 1684994607,
       "rank": 10,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 2303429,
-      "num": 2303429,
-      "word": "枪决通知短信",
-      "onboard_time": 1685021852,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2227237,
@@ -147,6 +147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1390308,
+      "num": 1390308,
+      "word": "43岁的张娜拉",
+      "onboard_time": 1685022393,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1390142,
       "num": 1390142,
       "word": "女孩剪了一撮头发家长赔了1万多",
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 1180272,
-      "num": 497319,
+      "num": 526213,
       "word": "冯小刚女儿撞脸小S二女儿",
       "onboard_time": 1685010388,
       "rank": 28,
@@ -315,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 895247,
-      "num": 895247,
-      "word": "43岁的张娜拉",
-      "onboard_time": 1685022393,
-      "rank": 5,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 881913,
       "num": 881913,
       "word": "她背诵的不是课文是全班的希望",
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 812159,
+      "num": 812159,
+      "word": "校内被车撞倒身亡的孩子母亲首次发声",
+      "onboard_time": 1685021491,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 803722,
       "num": 803722,
       "word": "跑男四泥",
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 759280,
-      "num": 467131,
+      "num": 475657,
       "word": "第一次见到女爱豆提到卫生巾",
       "onboard_time": 1685014046,
       "rank": 31,
@@ -441,14 +449,6 @@
       "onboard_time": 1684937498,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 640248,
-      "num": 486727,
-      "word": "校内被车撞倒身亡的孩子母亲首次发声",
-      "onboard_time": 1685021491,
-      "rank": 46,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 628526,
@@ -595,6 +595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 511738,
+      "num": 511738,
+      "word": "王俊凯王源都在重庆",
+      "onboard_time": 1685021552,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 507398,
       "num": 507398,
       "word": "刘亚仁逮捕令被驳回",
@@ -675,11 +683,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 453937,
-      "num": 453937,
-      "word": "王俊凯王源都在重庆",
-      "onboard_time": 1685021552,
-      "rank": 36,
+      "raw_hot": 458650,
+      "num": 458650,
+      "word": "高叶 王真儿",
+      "onboard_time": 1685022813,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -923,12 +931,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 358700,
-      "num": 358700,
-      "word": "高叶 王真儿",
-      "onboard_time": 1685022813,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 362889,
+      "num": 362889,
+      "word": "当你在零下50度漠河点外卖时",
+      "onboard_time": 1685023654,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357108,
@@ -1051,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324984,
+      "num": 324984,
+      "word": "皓嫣",
+      "onboard_time": 1685024555,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 319780,
       "num": 278856,
       "word": "龚俊模仿花花吃东西",
@@ -1105,6 +1121,14 @@
       "onboard_time": 1684934191,
       "rank": 14,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 306746,
+      "num": 254639,
+      "word": "姚晨不热吗",
+      "onboard_time": 1685024137,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 305273,
@@ -1203,6 +1227,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 282258,
+      "num": 254565,
+      "word": "易烊千玺杨洋白敬亭栩栩华生大片",
+      "onboard_time": 1685022993,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 279697,
       "num": 279697,
       "word": "花花一口苹果嚼40多下",
@@ -1217,6 +1249,14 @@
       "onboard_time": 1685019510,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 273344,
+      "num": 253672,
+      "word": "宋雨琦客串绝世网红",
+      "onboard_time": 1685023714,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 272577,
@@ -1395,6 +1435,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 236128,
+      "num": 236128,
+      "word": "阿里巴巴回应裁员",
+      "onboard_time": 1685022934,
+      "rank": 28,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 235366,
       "num": 235366,
       "word": "嗓子痛就是二阳了吗",
@@ -1417,14 +1465,6 @@
       "onboard_time": 1684998750,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232616,
-      "num": 232616,
-      "word": "阿里巴巴回应裁员",
-      "onboard_time": 1685022934,
-      "rank": 28,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 232156,
@@ -1547,27 +1587,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 212753,
-      "num": 212753,
-      "word": "易烊千玺杨洋白敬亭栩栩华生大片",
-      "onboard_time": 1685022993,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 212136,
       "num": 212136,
       "word": "电视剧熟年",
       "onboard_time": 1685023894,
       "rank": 37,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 210164,
-      "num": 210164,
-      "word": "宋雨琦客串绝世网红",
-      "onboard_time": 1685023714,
-      "rank": 39,
       "category": "影视"
     },
     {
@@ -1691,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194469,
+      "num": 194469,
+      "word": "王俊凯金星橙汁对嘴配音视频",
+      "onboard_time": 1685023654,
+      "rank": 44,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 193332,
       "num": 193332,
       "word": "喜欢你4实名cp就差官宣了",
@@ -1721,14 +1753,6 @@
       "onboard_time": 1684942111,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 188681,
-      "num": 188681,
-      "word": "当你在零下50度漠河点外卖时",
-      "onboard_time": 1685023654,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187787,
@@ -1787,14 +1811,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 178813,
-      "num": 178813,
-      "word": "王俊凯金星橙汁对嘴配音视频",
-      "onboard_time": 1685023654,
-      "rank": 44,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 178369,
       "num": 178369,
       "word": "相亲对象每天只跟我聊工作问题",
@@ -1819,6 +1835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 173105,
+      "num": 483686,
+      "word": "上海街头现丁达尔效应",
+      "onboard_time": 1685023232,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172355,
       "num": 172355,
       "word": "男医生体检时猥亵女子被吊销执业资格",
@@ -1841,6 +1865,14 @@
       "onboard_time": 1684992569,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167912,
+      "num": 167912,
+      "word": "国产数码宝贝剧透",
+      "onboard_time": 1685023594,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 167762,
@@ -1883,14 +1915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 161344,
-      "num": 161344,
-      "word": "国产数码宝贝剧透",
-      "onboard_time": 1685023594,
-      "rank": 46,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 161027,
       "num": 161027,
       "word": "细数国泰航空4起歧视风波",
@@ -1905,6 +1929,14 @@
       "onboard_time": 1684928008,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160417,
+      "num": 157389,
+      "word": "狐妖小红娘",
+      "onboard_time": 1685025097,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 159439,
@@ -1987,6 +2019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 152776,
+      "num": 152776,
+      "word": "猫猫我啊专业打假",
+      "onboard_time": 1685024496,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 149438,
       "num": 149438,
       "word": "新的手机卡号码是前任用过的",
@@ -2057,14 +2097,6 @@
       "onboard_time": 1684922191,
       "rank": 37,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 140440,
-      "num": 158012,
-      "word": "姚晨不热吗",
-      "onboard_time": 1685024137,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 139767,
@@ -2153,6 +2185,14 @@
       "onboard_time": 1684936531,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107603,
+      "num": 128629,
+      "word": "人一定要具有翻篇的能力",
+      "onboard_time": 1685025035,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 107187,
@@ -2259,14 +2299,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 83889,
-      "num": 483686,
-      "word": "上海街头现丁达尔效应",
-      "onboard_time": 1685023232,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 83268,
       "num": 174560,
       "word": "以闪亮之名",
@@ -2355,8 +2387,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32260,
-      "num": 2316905,
+      "raw_hot": 35229,
+      "num": 2620579,
       "word": "30秒看中关村论坛展览的前沿科技",
       "onboard_time": 1685020652,
       "rank": 40,
