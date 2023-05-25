@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1684989219906,
+  "endTime": 1684991748594,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -2849,6 +2849,14 @@
       "onboard_time": 1684806505,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1679078,
+      "num": 1679078,
+      "word": "欠我一万块钱的同事离职了",
+      "onboard_time": 1684988614,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 1676861,
@@ -6131,6 +6139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1127021,
+      "num": 1127021,
+      "word": "Angelababy素颜睡衣",
+      "onboard_time": 1684986931,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1126440,
       "num": 565571,
       "word": "李承铉说不生三胎是因为妈妈很辛苦",
@@ -6449,14 +6465,6 @@
       "onboard_time": 1684302811,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1084827,
-      "num": 1084827,
-      "word": "Angelababy素颜睡衣",
-      "onboard_time": 1684986931,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 1084368,
@@ -8195,6 +8203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 881913,
+      "num": 881913,
+      "word": "她背诵的不是课文是全班的希望",
+      "onboard_time": 1684985908,
+      "rank": 17,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 881580,
       "num": 881580,
       "word": "广州地铁回应乘客欠600多万巨款",
@@ -8609,6 +8625,14 @@
       "onboard_time": 1683818132,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 837309,
+      "num": 591361,
+      "word": "四川会理发生重大刑事案件",
+      "onboard_time": 1684990115,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 834895,
@@ -10675,6 +10699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 672813,
+      "num": 672813,
+      "word": "关晓彤明艳风",
+      "onboard_time": 1684985008,
+      "rank": 39,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 672805,
       "num": 672805,
       "word": "护心剧情 割裂",
@@ -12259,14 +12291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 581228,
-      "num": 581228,
-      "word": "关晓彤明艳风",
-      "onboard_time": 1684985008,
-      "rank": 39,
-      "category": "影视,时尚"
-    },
-    {
       "raw_hot": 581198,
       "num": 581198,
       "word": "107岁老人头上长犄角",
@@ -12393,14 +12417,6 @@
       "onboard_time": 1683180207,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 578127,
-      "num": 375899,
-      "word": "欠我一万块钱的同事离职了",
-      "onboard_time": 1684988614,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 578098,
@@ -14403,6 +14419,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 502494,
+      "num": 502494,
+      "word": "比亚迪回应被长城汽车举报",
+      "onboard_time": 1684988670,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 502212,
       "num": 502212,
       "word": "忽然理解妈妈为什么容易生气",
@@ -14617,6 +14641,14 @@
       "onboard_time": 1683691295,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 492619,
+      "num": 397424,
+      "word": "不带穷字但是一听就很穷的话",
+      "onboard_time": 1684990534,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 492544,
@@ -14841,14 +14873,6 @@
       "onboard_time": 1684032928,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 486972,
-      "num": 486972,
-      "word": "她背诵的不是课文是全班的希望",
-      "onboard_time": 1684985908,
-      "rank": 17,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 486663,
@@ -15225,6 +15249,14 @@
       "onboard_time": 1683786448,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 475824,
+      "num": 475824,
+      "word": "二阳症状",
+      "onboard_time": 1684990715,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 475491,
@@ -17859,6 +17891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 413960,
+      "num": 413960,
+      "word": "比亚迪",
+      "onboard_time": 1684396049,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 413853,
       "num": 413853,
       "word": "约基奇 太阳老板",
@@ -18563,6 +18603,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 399826,
+      "num": 399826,
+      "word": "全球热",
+      "onboard_time": 1684990413,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 399785,
       "num": 399785,
       "word": "好利来罗成辟谣未婚妻传闻",
@@ -19043,14 +19091,6 @@
       "category": "社会新闻,社会新闻"
     },
     {
-      "raw_hot": 390800,
-      "num": 370104,
-      "word": "比亚迪回应被长城汽车举报",
-      "onboard_time": 1684988670,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 390753,
       "num": 390753,
       "word": "斗罗大陆2",
@@ -19345,6 +19385,14 @@
       "onboard_time": 1684846173,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 385164,
+      "num": 385164,
+      "word": "宜宾地震",
+      "onboard_time": 1684991312,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 385157,
@@ -20840,14 +20888,6 @@
       "word": "男子举牌相亲月薪6千要求女方1万2",
       "onboard_time": 1683687328,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 360891,
-      "num": 360891,
-      "word": "比亚迪",
-      "onboard_time": 1684396049,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -24387,6 +24427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 312032,
+      "num": 312032,
+      "word": "完美继承了妈妈的美貌",
+      "onboard_time": 1684989213,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 311721,
       "num": 296748,
       "word": "这就是陈都灵流鼻血那场戏啊",
@@ -25611,6 +25659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 295229,
+      "num": 295229,
+      "word": "电视剧都不敢这么编",
+      "onboard_time": 1684986571,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 295192,
       "num": 228670,
       "word": "宋慧乔编发公主切",
@@ -25761,6 +25817,14 @@
       "onboard_time": 1684055608,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 293970,
+      "num": 293970,
+      "word": "宋茜撞衫葫芦娃",
+      "onboard_time": 1684988430,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 293792,
@@ -26737,14 +26801,6 @@
       "onboard_time": 1684834828,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 284067,
-      "num": 265261,
-      "word": "宋茜撞衫葫芦娃",
-      "onboard_time": 1684988430,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 284012,
@@ -28467,6 +28523,14 @@
       "category": "情感,社会议题"
     },
     {
+      "raw_hot": 265744,
+      "num": 265744,
+      "word": "宁艺卓水光肌",
+      "onboard_time": 1684990654,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 265717,
       "num": 265717,
       "word": "终于等到庆余年2",
@@ -28953,14 +29017,6 @@
       "onboard_time": 1684456349,
       "rank": 24,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 260372,
-      "num": 260372,
-      "word": "电视剧都不敢这么编",
-      "onboard_time": 1684986571,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 260183,
@@ -31985,6 +32041,14 @@
       "onboard_time": 1682893937,
       "rank": 22,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 235678,
+      "num": 235678,
+      "word": "肖战刘宇宁今日微博开屏",
+      "onboard_time": 1684991072,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 235622,
@@ -35507,6 +35571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210610,
+      "num": 210610,
+      "word": "还以为黄旭熙solo了",
+      "onboard_time": 1684991610,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210452,
       "num": 210452,
       "word": "五月天 秒没",
@@ -37385,6 +37457,14 @@
       "onboard_time": 1683211833,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197650,
+      "num": 197650,
+      "word": "比亚迪声明反对不正当竞争",
+      "onboard_time": 1684991491,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197640,
@@ -41363,14 +41443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174426,
-      "num": 174426,
-      "word": "完美继承了妈妈的美貌",
-      "onboard_time": 1684989213,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 174384,
       "num": 174384,
       "word": "以为周杰伦参加了中国说唱巅峰对决",
@@ -42937,6 +43009,14 @@
       "onboard_time": 1683518189,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 163450,
+      "num": 163450,
+      "word": "刘亦菲林更新或将演夫妻",
+      "onboard_time": 1684991731,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 163426,
@@ -52123,6 +52203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47827,
+      "num": 1390159,
+      "word": "神十六船箭组合体垂直转运全回顾",
+      "onboard_time": 1684988430,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47716,
       "num": 152728,
       "word": "首个中国航天保障用品诞生",
@@ -52561,14 +52649,6 @@
       "onboard_time": 1683963026,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 34552,
-      "num": 1249049,
-      "word": "神十六船箭组合体垂直转运全回顾",
-      "onboard_time": 1684988430,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34319,

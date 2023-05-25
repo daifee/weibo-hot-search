@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1684989219906,
+  "endTime": 1684991748594,
   "band_list": [
     {
       "raw_hot": 3643134,
@@ -361,6 +361,14 @@
       "onboard_time": 1684806505,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1679078,
+      "num": 1679078,
+      "word": "欠我一万块钱的同事离职了",
+      "onboard_time": 1684988614,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 1671180,
@@ -907,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1127021,
+      "num": 1127021,
+      "word": "Angelababy素颜睡衣",
+      "onboard_time": 1684986931,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1113818,
       "num": 1113818,
       "word": "网传一大学所有饮品店禁止使用冰块",
@@ -937,14 +953,6 @@
       "onboard_time": 1684848454,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1084827,
-      "num": 1084827,
-      "word": "Angelababy素颜睡衣",
-      "onboard_time": 1684986931,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 1082985,
@@ -1243,6 +1251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 881913,
+      "num": 881913,
+      "word": "她背诵的不是课文是全班的希望",
+      "onboard_time": 1684985908,
+      "rank": 17,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 873977,
       "num": 873977,
       "word": "金星伴月",
@@ -1313,6 +1329,14 @@
       "onboard_time": 1684802608,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 837309,
+      "num": 591361,
+      "word": "四川会理发生重大刑事案件",
+      "onboard_time": 1684990115,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 834691,
@@ -1651,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 672813,
+      "num": 672813,
+      "word": "关晓彤明艳风",
+      "onboard_time": 1684985008,
+      "rank": 39,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 672805,
       "num": 672805,
       "word": "护心剧情 割裂",
@@ -1899,14 +1931,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 581228,
-      "num": 581228,
-      "word": "关晓彤明艳风",
-      "onboard_time": 1684985008,
-      "rank": 39,
-      "category": "影视,时尚"
-    },
-    {
       "raw_hot": 580599,
       "num": 393466,
       "word": "加了三年班的同事裸辞了",
@@ -1929,14 +1953,6 @@
       "onboard_time": 1684923569,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 578127,
-      "num": 375899,
-      "word": "欠我一万块钱的同事离职了",
-      "onboard_time": 1684988614,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 578098,
@@ -2251,6 +2267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 502494,
+      "num": 502494,
+      "word": "比亚迪回应被长城汽车举报",
+      "onboard_time": 1684988670,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 498683,
       "num": 498683,
       "word": "赵露思烟熏妆",
@@ -2297,6 +2321,14 @@
       "onboard_time": 1684752989,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 492619,
+      "num": 397424,
+      "word": "不带穷字但是一听就很穷的话",
+      "onboard_time": 1684990534,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 491594,
@@ -2363,14 +2395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 486972,
-      "num": 486972,
-      "word": "她背诵的不是课文是全班的希望",
-      "onboard_time": 1684985908,
-      "rank": 17,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 485167,
       "num": 485167,
       "word": "姚明不再兼任CBA公司董事长",
@@ -2409,6 +2433,14 @@
       "onboard_time": 1684984709,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 475824,
+      "num": 475824,
+      "word": "二阳症状",
+      "onboard_time": 1684990715,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 475199,
@@ -2779,6 +2811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 413960,
+      "num": 413960,
+      "word": "比亚迪",
+      "onboard_time": 1684989693,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 413048,
       "num": 413048,
       "word": "起猛了看到婴儿会飞",
@@ -2891,6 +2931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 399826,
+      "num": 399826,
+      "word": "全球热",
+      "onboard_time": 1684990413,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 397550,
       "num": 475636,
       "word": "阿里云回应裁员",
@@ -2937,14 +2985,6 @@
       "onboard_time": 1684837410,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 390800,
-      "num": 370104,
-      "word": "比亚迪回应被长城汽车举报",
-      "onboard_time": 1684988670,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 390674,
@@ -3017,6 +3057,14 @@
       "onboard_time": 1684846173,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 385164,
+      "num": 385164,
+      "word": "宜宾地震",
+      "onboard_time": 1684991312,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384831,
@@ -3819,6 +3867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 312032,
+      "num": 312032,
+      "word": "完美继承了妈妈的美貌",
+      "onboard_time": 1684989213,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 311318,
       "num": 311318,
       "word": "aespa亮相戛纳",
@@ -4011,6 +4067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 295229,
+      "num": 295229,
+      "word": "电视剧都不敢这么编",
+      "onboard_time": 1684986571,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 295080,
       "num": 295080,
       "word": "阿里云被曝裁员",
@@ -4033,6 +4097,14 @@
       "onboard_time": 1684935211,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 293970,
+      "num": 293970,
+      "word": "宋茜撞衫葫芦娃",
+      "onboard_time": 1684988430,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 293744,
@@ -4201,14 +4273,6 @@
       "onboard_time": 1684834828,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 284067,
-      "num": 265261,
-      "word": "宋茜撞衫葫芦娃",
-      "onboard_time": 1684988430,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 283677,
@@ -4555,6 +4619,14 @@
       "category": "情感,社会议题"
     },
     {
+      "raw_hot": 265744,
+      "num": 265744,
+      "word": "宁艺卓水光肌",
+      "onboard_time": 1684990654,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 264664,
       "num": 264664,
       "word": "这汽车是用方便面做的吧",
@@ -4609,14 +4681,6 @@
       "onboard_time": 1684678595,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260372,
-      "num": 260372,
-      "word": "电视剧都不敢这么编",
-      "onboard_time": 1684986571,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 260183,
@@ -5081,6 +5145,14 @@
       "onboard_time": 1684712845,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235678,
+      "num": 235678,
+      "word": "肖战刘宇宁今日微博开屏",
+      "onboard_time": 1684991072,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 235200,
@@ -5675,6 +5747,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 210610,
+      "num": 210610,
+      "word": "还以为黄旭熙solo了",
+      "onboard_time": 1684991610,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210144,
       "num": 210144,
       "word": "五月天北京演唱会二次开票",
@@ -5937,6 +6017,14 @@
       "onboard_time": 1684745789,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197650,
+      "num": 197650,
+      "word": "比亚迪声明反对不正当竞争",
+      "onboard_time": 1684991491,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197634,
@@ -6627,14 +6715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174426,
-      "num": 174426,
-      "word": "完美继承了妈妈的美貌",
-      "onboard_time": 1684989213,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 174384,
       "num": 174384,
       "word": "以为周杰伦参加了中国说唱巅峰对决",
@@ -6857,6 +6937,14 @@
       "onboard_time": 1684969400,
       "rank": 28,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 163450,
+      "num": 163450,
+      "word": "刘亦菲林更新或将演夫妻",
+      "onboard_time": 1684991731,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 163221,
@@ -7915,6 +8003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 89658,
+      "num": 162345,
+      "word": "光与夜之恋",
+      "onboard_time": 1684989394,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 88967,
       "num": 88967,
       "word": "来历历",
@@ -8203,6 +8299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47827,
+      "num": 1390159,
+      "word": "神十六船箭组合体垂直转运全回顾",
+      "onboard_time": 1684988430,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47000,
       "num": 132203,
       "word": "牛奶大馒头做法",
@@ -8256,14 +8360,6 @@
       "word": "不越野还要买四驱吗",
       "onboard_time": 1684826788,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34552,
-      "num": 1249049,
-      "word": "神十六船箭组合体垂直转运全回顾",
-      "onboard_time": 1684988430,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
