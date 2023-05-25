@@ -1,10 +1,10 @@
 {
   "startTime": 1684945355711,
-  "endTime": 1684988404347,
+  "endTime": 1684989219906,
   "band_list": [
     {
-      "raw_hot": 2835761,
-      "num": 2835761,
+      "raw_hot": 3114274,
+      "num": 3114274,
       "word": "专家建议新冠二阳不要带病上班",
       "onboard_time": 1684983866,
       "rank": 18,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1084827,
+      "num": 1084827,
+      "word": "Angelababy素颜睡衣",
+      "onboard_time": 1684986931,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1042907,
       "num": 935246,
       "word": "员工每天带薪拉屎3至6小时被解雇",
@@ -187,14 +195,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 620695,
-      "num": 620695,
-      "word": "Angelababy素颜睡衣",
-      "onboard_time": 1684986931,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 619015,
       "num": 619015,
       "word": "迪丽热巴刘亦菲同款驼峰鼻",
@@ -211,12 +211,20 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 575810,
-      "num": 575810,
+      "raw_hot": 581228,
+      "num": 581228,
       "word": "关晓彤明艳风",
       "onboard_time": 1684985008,
       "rank": 39,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 578127,
+      "num": 375899,
+      "word": "欠我一万块钱的同事离职了",
+      "onboard_time": 1684988614,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 555241,
@@ -283,8 +291,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 486972,
+      "num": 486972,
+      "word": "她背诵的不是课文是全班的希望",
+      "onboard_time": 1684985908,
+      "rank": 17,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 476436,
-      "num": 356670,
+      "num": 374901,
       "word": "阳了还来上班是什么心理",
       "onboard_time": 1684984709,
       "rank": 28,
@@ -297,14 +313,6 @@
       "onboard_time": 1684980392,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 458530,
-      "num": 458530,
-      "word": "她背诵的不是课文是全班的希望",
-      "onboard_time": 1684985908,
-      "rank": 17,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 442302,
@@ -355,6 +363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 390800,
+      "num": 370104,
+      "word": "比亚迪回应被长城汽车举报",
+      "onboard_time": 1684988670,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 390674,
       "num": 390674,
       "word": "网友称国泰航空涉事航班挨个问要不要毛毯",
@@ -377,6 +393,14 @@
       "onboard_time": 1684988010,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 378190,
+      "num": 378190,
+      "word": "鹿晗广州演唱会官宣",
+      "onboard_time": 1684988311,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 371840,
@@ -451,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331845,
+      "num": 331845,
+      "word": "在广东千万不要用吸管杯",
+      "onboard_time": 1684985429,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 330845,
       "num": 330845,
       "word": "乃万加入NOUS",
@@ -465,14 +497,6 @@
       "onboard_time": 1684984468,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 314496,
-      "num": 314496,
-      "word": "在广东千万不要用吸管杯",
-      "onboard_time": 1684985429,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 313613,
@@ -531,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291018,
+      "num": 291018,
+      "word": "国泰航空多次名列境外航司投诉量榜首",
+      "onboard_time": 1684987409,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290520,
       "num": 290520,
       "word": "梅婷雨中撩发好美",
@@ -539,12 +571,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 285300,
-      "num": 285300,
-      "word": "鹿晗广州演唱会官宣",
-      "onboard_time": 1684988311,
-      "rank": 29,
-      "category": "音乐"
+      "raw_hot": 284067,
+      "num": 265261,
+      "word": "宋茜撞衫葫芦娃",
+      "onboard_time": 1684988430,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 272577,
@@ -552,6 +584,14 @@
       "word": "上海高架",
       "onboard_time": 1684937611,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271537,
+      "num": 271537,
+      "word": "国泰航空",
+      "onboard_time": 1684988555,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -579,6 +619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 260372,
+      "num": 260372,
+      "word": "电视剧都不敢这么编",
+      "onboard_time": 1684986571,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 259180,
       "num": 217642,
       "word": "怦然3素人嘉宾撞脸张真源",
@@ -603,14 +651,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 245830,
-      "num": 245830,
-      "word": "国泰航空多次名列境外航司投诉量榜首",
-      "onboard_time": 1684987409,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 245100,
       "num": 215363,
       "word": "肖战如梦之梦豆瓣9.3分",
@@ -625,6 +665,14 @@
       "onboard_time": 1684927708,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240375,
+      "num": 240375,
+      "word": "GAI说刀我别用大黄蜂",
+      "onboard_time": 1684988614,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 238071,
@@ -657,6 +705,14 @@
       "onboard_time": 1684985849,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 225900,
+      "num": 225900,
+      "word": "小美人鱼",
+      "onboard_time": 1684988311,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 224091,
@@ -697,14 +753,6 @@
       "onboard_time": 1684974989,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 208220,
-      "num": 208220,
-      "word": "电视剧都不敢这么编",
-      "onboard_time": 1684986571,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 206637,
@@ -779,14 +827,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 185673,
-      "num": 185673,
-      "word": "小美人鱼",
-      "onboard_time": 1684988311,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 182292,
       "num": 182292,
       "word": "明星栩栩华生内场图",
@@ -820,7 +860,7 @@
     },
     {
       "raw_hot": 179776,
-      "num": 179776,
+      "num": 241955,
       "word": "我是中国人我想举自己的国旗",
       "onboard_time": 1684973066,
       "rank": 38,
@@ -833,6 +873,14 @@
       "onboard_time": 1684939113,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 174426,
+      "num": 174426,
+      "word": "完美继承了妈妈的美貌",
+      "onboard_time": 1684989213,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 172355,
@@ -1153,6 +1201,14 @@
       "onboard_time": 1684970480,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 34552,
+      "num": 1249049,
+      "word": "神十六船箭组合体垂直转运全回顾",
+      "onboard_time": 1684988430,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29344,
