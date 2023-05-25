@@ -1,7 +1,31 @@
 {
   "startTime": 1684945355711,
-  "endTime": 1684971234661,
+  "endTime": 1684977814856,
   "band_list": [
+    {
+      "raw_hot": 1853639,
+      "num": 1853639,
+      "word": "罗云熙不上综艺的原因",
+      "onboard_time": 1684971924,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1830892,
+      "num": 1830892,
+      "word": "千万不要长期喝奶茶",
+      "onboard_time": 1684972223,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1705609,
+      "num": 1705609,
+      "word": "山西失联身亡男孩生母聊天记录曝光",
+      "onboard_time": 1684970782,
+      "rank": 23,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1343159,
       "num": 720126,
@@ -11,8 +35,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1090681,
-      "num": 1090681,
+      "raw_hot": 1265827,
+      "num": 1265827,
+      "word": "微信新增锁定功能",
+      "onboard_time": 1684974449,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 1113818,
+      "num": 1113818,
       "word": "网传一大学所有饮品店禁止使用冰块",
       "onboard_time": 1684957814,
       "rank": 10,
@@ -20,7 +52,7 @@
     },
     {
       "raw_hot": 1042907,
-      "num": 722230,
+      "num": 935246,
       "word": "员工每天带薪拉屎3至6小时被解雇",
       "onboard_time": 1684936892,
       "rank": 3,
@@ -33,6 +65,30 @@
       "onboard_time": 1684926869,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 721626,
+      "num": 721626,
+      "word": "宋茜好辣",
+      "onboard_time": 1684976670,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 705210,
+      "num": 705210,
+      "word": "都不买榴莲我就放心了",
+      "onboard_time": 1684937793,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 657652,
+      "num": 725912,
+      "word": "公主小妹照进现实",
+      "onboard_time": 1684934370,
+      "rank": 1,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 655406,
@@ -59,28 +115,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 610363,
-      "num": 725912,
-      "word": "公主小妹照进现实",
-      "onboard_time": 1684934370,
-      "rank": 1,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 584152,
       "num": 584152,
       "word": "美国科技大亨用17岁儿子血浆换血",
       "onboard_time": 1684943427,
       "rank": 30,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 580164,
-      "num": 580164,
-      "word": "都不买榴莲我就放心了",
-      "onboard_time": 1684937793,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 555241,
@@ -91,20 +131,36 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 504056,
-      "num": 504056,
+      "raw_hot": 545594,
+      "num": 545594,
+      "word": "恩静",
+      "onboard_time": 1684972166,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 535272,
+      "num": 535272,
+      "word": "苏醒晒陆虎的官宣朋友圈",
+      "onboard_time": 1684945584,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 507398,
+      "num": 507398,
       "word": "刘亚仁逮捕令被驳回",
       "onboard_time": 1684970302,
       "rank": 5,
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 424456,
-      "num": 301444,
-      "word": "苏醒晒陆虎的官宣朋友圈",
-      "onboard_time": 1684945584,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 425005,
+      "num": 425005,
+      "word": "杨迪我分完了张柏芝我离完了",
+      "onboard_time": 1684932750,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 407859,
@@ -115,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392458,
+      "num": 343578,
+      "word": "北京和上海真的很不一样",
+      "onboard_time": 1684974268,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 390674,
       "num": 390674,
       "word": "网友称国泰航空涉事航班挨个问要不要毛毯",
@@ -123,12 +187,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 380649,
-      "num": 380649,
+      "raw_hot": 390111,
+      "num": 390111,
       "word": "杨紫表情管理",
       "onboard_time": 1684969279,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 357783,
+      "num": 357783,
+      "word": "兔头涨价",
+      "onboard_time": 1684976129,
+      "rank": 17,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 357108,
+      "num": 357108,
+      "word": "英伟达",
+      "onboard_time": 1684973790,
+      "rank": 18,
+      "category": "科技"
     },
     {
       "raw_hot": 347626,
@@ -137,6 +217,14 @@
       "onboard_time": 1684942409,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 346312,
+      "num": 346312,
+      "word": "甲状腺结节发生率在20%以上",
+      "onboard_time": 1684971985,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344444,
@@ -163,6 +251,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330845,
+      "num": 330845,
+      "word": "乃万加入NOUS",
+      "onboard_time": 1684974088,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 312479,
+      "num": 312479,
+      "word": "毕业后做了日入万元的冰淇淋店主",
+      "onboard_time": 1684977152,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 310004,
       "num": 218993,
       "word": "结婚6年没孩子一查丈夫竟是女儿身",
@@ -171,11 +275,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 309668,
-      "num": 309668,
-      "word": "杨迪我分完了张柏芝我离完了",
-      "onboard_time": 1684932750,
-      "rank": 15,
+      "raw_hot": 309119,
+      "num": 309119,
+      "word": "内娱综艺史上炸裂场面",
+      "onboard_time": 1684977152,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -195,11 +299,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 290520,
+      "num": 290520,
+      "word": "梅婷雨中撩发好美",
+      "onboard_time": 1684976490,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 272577,
       "num": 272577,
       "word": "上海高架",
       "onboard_time": 1684937611,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269689,
+      "num": 269689,
+      "word": "10岁遇害男孩生父讲述自己为何报警",
+      "onboard_time": 1684969641,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -209,6 +329,14 @@
       "onboard_time": 1684942950,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252955,
+      "num": 252955,
+      "word": "RNG阵容",
+      "onboard_time": 1684974750,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 250244,
@@ -235,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232156,
+      "num": 232156,
+      "word": "我推的孩子",
+      "onboard_time": 1684971624,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 224091,
       "num": 224091,
       "word": "清洁工躺车库被碾亡司机申请国赔",
@@ -251,12 +387,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 206515,
-      "num": 138826,
-      "word": "10岁遇害男孩生父讲述自己为何报警",
-      "onboard_time": 1684969641,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 210144,
+      "num": 210144,
+      "word": "五月天北京演唱会二次开票",
+      "onboard_time": 1684975830,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 208108,
+      "num": 208108,
+      "word": "腾讯视频电视剧必看榜",
+      "onboard_time": 1684974989,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 205812,
@@ -267,11 +411,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 190963,
-      "num": 190963,
-      "word": "山西失联身亡男孩生母聊天记录曝光",
-      "onboard_time": 1684970782,
-      "rank": 23,
+      "raw_hot": 195753,
+      "num": 195753,
+      "word": "索尼PlayStation游戏展",
+      "onboard_time": 1684977449,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 194963,
+      "num": 194963,
+      "word": "你能接受多少钱一个的兔头",
+      "onboard_time": 1684975590,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -281,6 +433,30 @@
       "onboard_time": 1684942111,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 181773,
+      "num": 181773,
+      "word": "广东人会有身材焦虑吗",
+      "onboard_time": 1684970841,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180638,
+      "num": 180638,
+      "word": "柳智敏戛纳红毯戴的项链",
+      "onboard_time": 1684976552,
+      "rank": 37,
+      "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 179776,
+      "num": 179776,
+      "word": "我是中国人我想举自己的国旗",
+      "onboard_time": 1684973066,
+      "rank": 38,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 178369,
@@ -296,6 +472,22 @@
       "word": "男医生体检时猥亵女子被吊销执业资格",
       "onboard_time": 1684920451,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169337,
+      "num": 169337,
+      "word": "偷偷努力的感觉",
+      "onboard_time": 1684977031,
+      "rank": 40,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 167762,
+      "num": 167762,
+      "word": "老人突发心脏病交警秒掏救心丸",
+      "onboard_time": 1684977750,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -323,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157415,
+      "num": 167618,
+      "word": "上海交警通报两车高架上斗气碰撞",
+      "onboard_time": 1684937672,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157277,
       "num": 157277,
       "word": "坏妈妈",
@@ -339,12 +539,28 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 155315,
-      "num": 167618,
-      "word": "上海交警通报两车高架上斗气碰撞",
-      "onboard_time": 1684937672,
-      "rank": 29,
+      "raw_hot": 157149,
+      "num": 157149,
+      "word": "10分钟被AI换脸骗走430万元",
+      "onboard_time": 1684949117,
+      "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156850,
+      "num": 1714239,
+      "word": "坐高铁被窗外的中国基建所惊艳",
+      "onboard_time": 1684938092,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155771,
+      "num": 155771,
+      "word": "金玟庭的背",
+      "onboard_time": 1684977687,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 153865,
@@ -361,6 +577,14 @@
       "onboard_time": 1684933530,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 148717,
+      "num": 148717,
+      "word": "国泰",
+      "onboard_time": 1684971504,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147377,
@@ -401,14 +625,6 @@
       "onboard_time": 1684940193,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 110735,
-      "num": 110735,
-      "word": "10分钟被AI换脸骗走430万元",
-      "onboard_time": 1684949117,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108675,
@@ -488,14 +704,6 @@
       "word": "印度19岁女子穿比基尼乘地铁",
       "onboard_time": 1684916790,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79945,
-      "num": 79945,
-      "word": "广东人会有身材焦虑吗",
-      "onboard_time": 1684970841,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
