@@ -1,6 +1,6 @@
 {
   "startTime": 1685118110147,
-  "endTime": 1685128395308,
+  "endTime": 1685129604911,
   "band_list": [
     {
       "raw_hot": 1434814,
@@ -513,6 +513,14 @@
       "onboard_time": 1685119945,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 19559,
+      "num": 25716,
+      "word": "赵露思又去迪士尼的原因",
+      "onboard_time": 1685129473,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 6871,
