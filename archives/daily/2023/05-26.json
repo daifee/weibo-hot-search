@@ -1,6 +1,6 @@
 {
   "startTime": 1685031732217,
-  "endTime": 1685075611978,
+  "endTime": 1685078148139,
   "band_list": [
     {
       "raw_hot": 4030730,
@@ -11,20 +11,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 3998745,
+      "num": 3998745,
+      "word": "罗京民去世",
+      "onboard_time": 1685073090,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3041651,
       "num": 3041651,
       "word": "女生手无意碰到老师被脚踢揪进教室",
       "onboard_time": 1685065886,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2894532,
-      "num": 2894532,
-      "word": "罗京民去世",
-      "onboard_time": 1685073090,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 2540704,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1567445,
+      "num": 1567445,
+      "word": "没认出来虞书欣",
+      "onboard_time": 1685072428,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1545018,
       "num": 1094614,
       "word": "杨蓉 白玉兰",
@@ -115,20 +123,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1296804,
-      "num": 1296804,
-      "word": "没认出来虞书欣",
-      "onboard_time": 1685072428,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1286441,
       "num": 536330,
       "word": "王鹤棣虞书欣 二搭",
       "onboard_time": 1685022334,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1261576,
+      "num": 1261576,
+      "word": "13岁少女网恋后遭性侵怀孕",
+      "onboard_time": 1685074292,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1213787,
@@ -139,19 +147,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1208241,
+      "num": 1208241,
+      "word": "正午阳光赢麻了",
+      "onboard_time": 1685072428,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1149738,
       "num": 1149738,
       "word": "白玉兰提名",
       "onboard_time": 1685058387,
       "rank": 8,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1070521,
-      "num": 433501,
-      "word": "正午阳光赢麻了",
-      "onboard_time": 1685072428,
-      "rank": 15,
       "category": "影视"
     },
     {
@@ -243,14 +251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 628915,
-      "num": 322095,
-      "word": "13岁少女网恋后遭性侵怀孕",
-      "onboard_time": 1685074292,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 614923,
       "num": 614923,
       "word": "报警人中途撤警因小学生将火扑灭",
@@ -265,6 +265,14 @@
       "onboard_time": 1685009489,
       "rank": 6,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 507243,
+      "num": 507243,
+      "word": "女子规划资源局前拉横幅为夫纳妾",
+      "onboard_time": 1685074173,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 473614,
@@ -289,6 +297,14 @@
       "onboard_time": 1685021009,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 419341,
+      "num": 364868,
+      "word": "士兵突击",
+      "onboard_time": 1685077415,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 406386,
@@ -339,6 +355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 388412,
+      "num": 388412,
+      "word": "特斯拉车顶维权女车主被判败诉",
+      "onboard_time": 1685074956,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 385930,
       "num": 385930,
       "word": "郑秀晶戛纳电影节",
@@ -363,14 +387,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 372885,
-      "num": 372885,
-      "word": "女子规划资源局前拉横幅为夫纳妾",
-      "onboard_time": 1685074173,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 365943,
       "num": 365943,
       "word": "上海电视节",
@@ -379,8 +395,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 355420,
+      "num": 355420,
+      "word": "原来熬夜真的会掉头发",
+      "onboard_time": 1685075136,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 355362,
-      "num": 264751,
+      "num": 352626,
       "word": "乘风二公",
       "onboard_time": 1685074173,
       "rank": 22,
@@ -468,7 +492,7 @@
     },
     {
       "raw_hot": 287229,
-      "num": 252697,
+      "num": 269065,
       "word": "人生大事",
       "onboard_time": 1685073993,
       "rank": 34,
@@ -499,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270710,
+      "num": 270710,
+      "word": "ENHYPEN中国恩静发文",
+      "onboard_time": 1685073577,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270551,
       "num": 270551,
       "word": "上海高架两车斗气后续",
@@ -513,6 +545,14 @@
       "onboard_time": 1685069910,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 266791,
+      "num": 266791,
+      "word": "有的水獭没有孩子还硬装",
+      "onboard_time": 1685068587,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 266271,
@@ -539,19 +579,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 263373,
+      "num": 263373,
+      "word": "张彬彬一手撑托起了我的cp",
+      "onboard_time": 1685076097,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 259188,
       "num": 259188,
       "word": "高三学生举班主任海报拍毕业照",
       "onboard_time": 1685060490,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257715,
-      "num": 257715,
-      "word": "特斯拉车顶维权女车主被判败诉",
-      "onboard_time": 1685074956,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -572,7 +612,7 @@
     },
     {
       "raw_hot": 255101,
-      "num": 255101,
+      "num": 264123,
       "word": "父女捡10万现金报警后发现是练功券",
       "onboard_time": 1685067987,
       "rank": 35,
@@ -641,6 +681,14 @@
       "onboard_time": 1685056343,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238779,
+      "num": 238779,
+      "word": "谁想的床垫上跳舞",
+      "onboard_time": 1685077534,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 238679,
@@ -723,6 +771,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 226782,
+      "num": 226782,
+      "word": "拍照真是一个好习惯",
+      "onboard_time": 1685077475,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 225756,
       "num": 198364,
       "word": "内娱仪态的神",
@@ -779,6 +835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 216840,
+      "num": 172921,
+      "word": "白玉兰遗珠",
+      "onboard_time": 1685072129,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212193,
       "num": 212193,
       "word": "现在的小区名字都好高级",
@@ -795,20 +859,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210498,
+      "num": 210498,
+      "word": "万茜脸部代偿",
+      "onboard_time": 1685076513,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210266,
       "num": 198500,
       "word": "ENHYPEN的ending揭秘",
       "onboard_time": 1685068708,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 209929,
-      "num": 209929,
-      "word": "有的水獭没有孩子还硬装",
-      "onboard_time": 1685068587,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 208209,
@@ -819,20 +883,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205992,
-      "num": 205992,
-      "word": "ENHYPEN中国恩静发文",
-      "onboard_time": 1685073577,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205799,
       "num": 205799,
       "word": "王一博小表情好可爱",
       "onboard_time": 1685065468,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 203825,
+      "num": 203825,
+      "word": "上了班感觉和社会脱节了",
+      "onboard_time": 1685074052,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 203346,
@@ -883,14 +947,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 193901,
-      "num": 193901,
-      "word": "原来熬夜真的会掉头发",
-      "onboard_time": 1685075136,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 193417,
       "num": 193417,
       "word": "SEVENTEEN出道八周年",
@@ -905,6 +961,14 @@
       "onboard_time": 1685068648,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189047,
+      "num": 189047,
+      "word": "Angelababy撩头发",
+      "onboard_time": 1685074895,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 188730,
@@ -995,12 +1059,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178681,
+      "num": 178681,
+      "word": "朱一龙林楠笙",
+      "onboard_time": 1685077835,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 178008,
       "num": 178008,
       "word": "事缓则圆时间可以治愈一切",
       "onboard_time": 1685057606,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 177784,
+      "num": 177784,
+      "word": "这理发店多少有点不正规",
+      "onboard_time": 1685076756,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 176896,
@@ -1043,6 +1123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163867,
+      "num": 163867,
+      "word": "成都刮起剩菜盲盒风",
+      "onboard_time": 1685077415,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163839,
       "num": 163839,
       "word": "大学旁听12年的脑瘫小伙完成博士论文答辩",
@@ -1057,14 +1145,6 @@
       "onboard_time": 1685008050,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159416,
-      "num": 169391,
-      "word": "Angelababy撩头发",
-      "onboard_time": 1685074895,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 154928,
@@ -1139,14 +1219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 137442,
-      "num": 168400,
-      "word": "上了班感觉和社会脱节了",
-      "onboard_time": 1685074052,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 136579,
       "num": 136579,
       "word": "内蒙古天空惊现天空之眼",
@@ -1209,6 +1281,14 @@
       "onboard_time": 1685023654,
       "rank": 38,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 128922,
+      "num": 154912,
+      "word": "C919本周日商业航班首航",
+      "onboard_time": 1685077835,
+      "rank": 48,
+      "category": "科技,国内要闻"
     },
     {
       "raw_hot": 126673,
@@ -1385,6 +1465,14 @@
       "onboard_time": 1685019090,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 30993,
+      "num": 424082,
+      "word": "消防员为独坐路边哭泣女孩披上救援服",
+      "onboard_time": 1685077354,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28204,

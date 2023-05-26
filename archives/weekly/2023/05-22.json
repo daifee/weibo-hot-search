@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1685075611978,
+  "endTime": 1685078148139,
   "band_list": [
     {
       "raw_hot": 4030730,
@@ -9,6 +9,14 @@
       "onboard_time": 1685073150,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3998745,
+      "num": 3998745,
+      "word": "罗京民去世",
+      "onboard_time": 1685073090,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 3643134,
@@ -97,14 +105,6 @@
       "onboard_time": 1684898490,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2894532,
-      "num": 2894532,
-      "word": "罗京民去世",
-      "onboard_time": 1685073090,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 2884677,
@@ -587,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1567445,
+      "num": 1567445,
+      "word": "没认出来虞书欣",
+      "onboard_time": 1685072428,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1564643,
       "num": 1517023,
       "word": "我爸突然告诉了我家中存款",
@@ -883,14 +891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1296804,
-      "num": 1296804,
-      "word": "没认出来虞书欣",
-      "onboard_time": 1685072428,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1287644,
       "num": 1287644,
       "word": "沈腾瘦了好多",
@@ -937,6 +937,14 @@
       "onboard_time": 1684901432,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1261576,
+      "num": 1261576,
+      "word": "13岁少女网恋后遭性侵怀孕",
+      "onboard_time": 1685074292,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1257513,
@@ -1016,6 +1024,14 @@
       "word": "易烊千玺王俊凯同框",
       "onboard_time": 1684850977,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1208241,
+      "num": 1208241,
+      "word": "正午阳光赢麻了",
+      "onboard_time": 1685072428,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -1217,14 +1233,6 @@
       "onboard_time": 1684909709,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1070521,
-      "num": 433501,
-      "word": "正午阳光赢麻了",
-      "onboard_time": 1685072428,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 1068222,
@@ -2203,14 +2211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 628915,
-      "num": 322095,
-      "word": "13岁少女网恋后遭性侵怀孕",
-      "onboard_time": 1685074292,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 624308,
       "num": 624308,
       "word": "前国泰空姐爆料歧视内地旅客是常态",
@@ -2769,6 +2769,14 @@
       "onboard_time": 1684970302,
       "rank": 5,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 507243,
+      "num": 507243,
+      "word": "女子规划资源局前拉横幅为夫纳妾",
+      "onboard_time": 1685074173,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 505937,
@@ -3427,6 +3435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 419341,
+      "num": 364868,
+      "word": "士兵突击",
+      "onboard_time": 1685077415,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 418459,
       "num": 233758,
       "word": "邓超 显眼包",
@@ -3715,6 +3731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 388412,
+      "num": 388412,
+      "word": "特斯拉车顶维权女车主被判败诉",
+      "onboard_time": 1685074956,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 388038,
       "num": 274126,
       "word": "林俊杰抵达上海",
@@ -3939,14 +3963,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 372885,
-      "num": 372885,
-      "word": "女子规划资源局前拉横幅为夫纳妾",
-      "onboard_time": 1685074173,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 372361,
       "num": 216579,
       "word": "贾玲",
@@ -4139,8 +4155,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 355420,
+      "num": 355420,
+      "word": "原来熬夜真的会掉头发",
+      "onboard_time": 1685075136,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 355362,
-      "num": 264751,
+      "num": 352626,
       "word": "乘风二公",
       "onboard_time": 1685074173,
       "rank": 22,
@@ -5172,7 +5196,7 @@
     },
     {
       "raw_hot": 287229,
-      "num": 252697,
+      "num": 269065,
       "word": "人生大事",
       "onboard_time": 1685073993,
       "rank": 34,
@@ -5563,6 +5587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 270710,
+      "num": 270710,
+      "word": "ENHYPEN中国恩静发文",
+      "onboard_time": 1685073577,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270655,
       "num": 270655,
       "word": "合肥一男子520建私人花园送妻子",
@@ -5675,6 +5707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 266791,
+      "num": 266791,
+      "word": "有的水獭没有孩子还硬装",
+      "onboard_time": 1685068587,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 266656,
       "num": 266656,
       "word": "爸爸当家2logo抄袭EXO",
@@ -5745,6 +5785,14 @@
       "onboard_time": 1685066247,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 263373,
+      "num": 263373,
+      "word": "张彬彬一手撑托起了我的cp",
+      "onboard_time": 1685076097,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 262661,
@@ -5875,14 +5923,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 257715,
-      "num": 257715,
-      "word": "特斯拉车顶维权女车主被判败诉",
-      "onboard_time": 1685074956,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 257603,
       "num": 250132,
       "word": "周扬青新造型",
@@ -5940,7 +5980,7 @@
     },
     {
       "raw_hot": 255101,
-      "num": 255101,
+      "num": 264123,
       "word": "父女捡10万现金报警后发现是练功券",
       "onboard_time": 1685067987,
       "rank": 35,
@@ -6321,6 +6361,14 @@
       "onboard_time": 1685056343,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238779,
+      "num": 238779,
+      "word": "谁想的床垫上跳舞",
+      "onboard_time": 1685077534,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 238679,
@@ -6763,6 +6811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 226782,
+      "num": 226782,
+      "word": "拍照真是一个好习惯",
+      "onboard_time": 1685077475,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 226301,
       "num": 226301,
       "word": "凯尔特人1比3热火",
@@ -7027,6 +7083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 216840,
+      "num": 172921,
+      "word": "白玉兰遗珠",
+      "onboard_time": 1685072129,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216652,
       "num": 216652,
       "word": "周杰伦上海",
@@ -7211,6 +7275,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 210498,
+      "num": 210498,
+      "word": "万茜脸部代偿",
+      "onboard_time": 1685076513,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210266,
       "num": 198500,
       "word": "ENHYPEN的ending揭秘",
@@ -7225,14 +7297,6 @@
       "onboard_time": 1684975830,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 209929,
-      "num": 209929,
-      "word": "有的水獭没有孩子还硬装",
-      "onboard_time": 1685068587,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 209476,
@@ -7323,14 +7387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205992,
-      "num": 205992,
-      "word": "ENHYPEN中国恩静发文",
-      "onboard_time": 1685073577,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205799,
       "num": 205799,
       "word": "王一博小表情好可爱",
@@ -7409,6 +7465,14 @@
       "onboard_time": 1684916369,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 203825,
+      "num": 203825,
+      "word": "上了班感觉和社会脱节了",
+      "onboard_time": 1685074052,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 203784,
@@ -7771,14 +7835,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 193901,
-      "num": 193901,
-      "word": "原来熬夜真的会掉头发",
-      "onboard_time": 1685075136,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 193843,
       "num": 193843,
       "word": "三花成为猫中女神是有原因的",
@@ -7961,6 +8017,14 @@
       "onboard_time": 1684911152,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189047,
+      "num": 189047,
+      "word": "Angelababy撩头发",
+      "onboard_time": 1685074895,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 188730,
@@ -8355,6 +8419,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 178681,
+      "num": 178681,
+      "word": "朱一龙林楠笙",
+      "onboard_time": 1685077835,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 178463,
       "num": 178463,
       "word": "有些小毛病不需治疗",
@@ -8393,6 +8465,14 @@
       "onboard_time": 1685057606,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 177784,
+      "num": 177784,
+      "word": "这理发店多少有点不正规",
+      "onboard_time": 1685076756,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 177726,
@@ -8715,6 +8795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163867,
+      "num": 163867,
+      "word": "成都刮起剩菜盲盒风",
+      "onboard_time": 1685077415,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163845,
       "num": 163845,
       "word": "边伯贤泡泡",
@@ -8856,14 +8944,6 @@
       "word": "李佳琦直播",
       "onboard_time": 1684998688,
       "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 159416,
-      "num": 169391,
-      "word": "Angelababy撩头发",
-      "onboard_time": 1685074895,
-      "rank": 47,
       "category": "艺人"
     },
     {
@@ -9363,14 +9443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 137442,
-      "num": 168400,
-      "word": "上了班感觉和社会脱节了",
-      "onboard_time": 1685074052,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 136908,
       "num": 194261,
       "word": "饭搭子离职比失恋还难受",
@@ -9569,6 +9641,14 @@
       "onboard_time": 1684796297,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128922,
+      "num": 154912,
+      "word": "C919本周日商业航班首航",
+      "onboard_time": 1685077835,
+      "rank": 48,
+      "category": "科技,国内要闻"
     },
     {
       "raw_hot": 128503,
@@ -10521,6 +10601,14 @@
       "onboard_time": 1684866794,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 30993,
+      "num": 424082,
+      "word": "消防员为独坐路边哭泣女孩披上救援服",
+      "onboard_time": 1685077354,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29942,
