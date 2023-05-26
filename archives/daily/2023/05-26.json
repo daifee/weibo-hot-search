@@ -1,6 +1,6 @@
 {
   "startTime": 1685031732217,
-  "endTime": 1685110506094,
+  "endTime": 1685111621846,
   "band_list": [
     {
       "raw_hot": 4241479,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1784408,
+      "num": 502218,
+      "word": "我妈死后还在催婚",
+      "onboard_time": 1685102550,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1695268,
       "num": 1695268,
       "word": "杨幂 白玉兰",
@@ -169,14 +177,6 @@
       "onboard_time": 1685079515,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1421112,
-      "num": 491144,
-      "word": "我妈死后还在催婚",
-      "onboard_time": 1685102550,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 1412845,
@@ -299,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1002928,
+      "num": 926779,
+      "word": "黄子韬淘汰谢娜",
+      "onboard_time": 1685102609,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 993872,
       "num": 993872,
       "word": "香港演员怒斥国泰空乘歧视乘客",
@@ -337,14 +345,6 @@
       "onboard_time": 1685060251,
       "rank": 9,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 926779,
-      "num": 926779,
-      "word": "黄子韬淘汰谢娜",
-      "onboard_time": 1685102609,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 913563,
@@ -411,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 806647,
+      "num": 806647,
+      "word": "何丹彤巴黎被抢劫",
+      "onboard_time": 1685109929,
+      "rank": 18,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 789456,
       "num": 789456,
       "word": "五月天",
@@ -419,8 +427,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 743910,
-      "num": 743910,
+      "raw_hot": 744970,
+      "num": 744970,
       "word": "娄艺潇回复网友不参加浪姐的原因",
       "onboard_time": 1685097690,
       "rank": 19,
@@ -483,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 612636,
+      "num": 294816,
+      "word": "保姆虐待三胞胎将排泄物抹孩子嘴里",
+      "onboard_time": 1685109691,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 589272,
       "num": 589272,
       "word": "迪丽热巴安旎来了",
@@ -499,8 +515,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 563932,
-      "num": 479592,
+      "raw_hot": 572338,
+      "num": 572338,
       "word": "五月天点歌",
       "onboard_time": 1685105071,
       "rank": 16,
@@ -529,6 +545,14 @@
       "onboard_time": 1685083051,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 512500,
+      "num": 499862,
+      "word": "向往的生活",
+      "onboard_time": 1685109210,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 507243,
@@ -571,12 +595,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 463055,
-      "num": 463055,
-      "word": "向往的生活",
-      "onboard_time": 1685109210,
+      "raw_hot": 470105,
+      "num": 470105,
+      "word": "狂飙片方没有为高启强报名",
+      "onboard_time": 1685110894,
       "rank": 15,
-      "category": "综艺"
+      "category": "影视"
     },
     {
       "raw_hot": 462911,
@@ -723,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 399694,
+      "num": 399694,
+      "word": "手机销量差是因为卖的贵吗",
+      "onboard_time": 1685095471,
+      "rank": 47,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 398535,
       "num": 398535,
       "word": "白玉兰入围综艺",
@@ -755,6 +787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 385860,
+      "num": 281706,
+      "word": "五月天唱了步步",
+      "onboard_time": 1685111432,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 382069,
       "num": 382069,
       "word": "皓嫣",
@@ -769,14 +809,6 @@
       "onboard_time": 1685028212,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 379987,
-      "num": 379987,
-      "word": "手机销量差是因为卖的贵吗",
-      "onboard_time": 1685095471,
-      "rank": 47,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 373611,
@@ -833,14 +865,6 @@
       "onboard_time": 1685079271,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 354603,
-      "num": 197457,
-      "word": "保姆虐待三胞胎将排泄物抹孩子嘴里",
-      "onboard_time": 1685109691,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 346508,
@@ -931,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319366,
+      "num": 266198,
+      "word": "谢可寅舞台",
+      "onboard_time": 1685108611,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317885,
       "num": 277264,
       "word": "虞书欣白色眼妆",
@@ -952,14 +984,6 @@
       "word": "李佳琦618",
       "onboard_time": 1685102970,
       "rank": 19,
-      "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 307803,
-      "num": 307803,
-      "word": "何丹彤巴黎被抢劫",
-      "onboard_time": 1685109929,
-      "rank": 18,
       "category": "社会新闻,网红"
     },
     {
@@ -1019,20 +1043,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 295534,
-      "num": 202427,
-      "word": "谢可寅舞台",
-      "onboard_time": 1685108611,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 295318,
       "num": 253664,
       "word": "张译一周内获影帝再提视帝",
       "onboard_time": 1685075015,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 294953,
+      "num": 294953,
+      "word": "孙颖莎4比0韩莹",
+      "onboard_time": 1685110952,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 293995,
+      "num": 293995,
+      "word": "女子用儿子名字开店被索赔12万",
+      "onboard_time": 1685107350,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293738,
@@ -1257,14 +1289,6 @@
       "onboard_time": 1685081191,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 260118,
-      "num": 260118,
-      "word": "女子用儿子名字开店被索赔12万",
-      "onboard_time": 1685107350,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 259188,
@@ -2003,6 +2027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 175437,
+      "num": 175437,
+      "word": "盲人顾客吃重庆火锅老板贴心夹菜",
+      "onboard_time": 1685106750,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175142,
       "num": 175142,
       "word": "海清没有提名白玉兰",
@@ -2107,14 +2139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159467,
-      "num": 159467,
-      "word": "盲人顾客吃重庆火锅老板贴心夹菜",
-      "onboard_time": 1685106750,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158775,
       "num": 158775,
       "word": "王鹤棣回成都了",
@@ -2212,7 +2236,7 @@
     },
     {
       "raw_hot": 146985,
-      "num": 203878,
+      "num": 253823,
       "word": "国乒德班世乒赛首金",
       "onboard_time": 1685101891,
       "rank": 29,
@@ -2371,6 +2395,14 @@
       "category": "科技,国内要闻"
     },
     {
+      "raw_hot": 128876,
+      "num": 128876,
+      "word": "女子执意推婴儿车淌水孩子不慎摔落",
+      "onboard_time": 1685111612,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127430,
       "num": 432518,
       "word": "年龄带给人的改变是什么",
@@ -2515,6 +2547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 97511,
+      "num": 929824,
+      "word": "中美双方同意建立经贸沟通渠道",
+      "onboard_time": 1685107591,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96480,
       "num": 141853,
       "word": "脑脊接口让瘫痪者可独立行走",
@@ -2555,12 +2595,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89929,
-      "num": 929824,
-      "word": "中美双方同意建立经贸沟通渠道",
-      "onboard_time": 1685107591,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 90390,
+      "num": 481955,
+      "word": "高叶一聊妈妈就想哭",
+      "onboard_time": 1685109632,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 86728,
@@ -2593,14 +2633,6 @@
       "onboard_time": 1685105129,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 74011,
-      "num": 464130,
-      "word": "高叶一聊妈妈就想哭",
-      "onboard_time": 1685109632,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 73974,
