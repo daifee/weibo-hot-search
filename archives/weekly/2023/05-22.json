@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1685079211755,
+  "endTime": 1685082086415,
   "band_list": [
     {
       "raw_hot": 4241479,
@@ -787,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1363043,
+      "num": 1320593,
+      "word": "13岁少女网恋后遭性侵怀孕",
+      "onboard_time": 1685074292,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1361405,
       "num": 1361405,
       "word": "RNG官宣GALA离队",
@@ -809,6 +817,14 @@
       "onboard_time": 1684760549,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1346804,
+      "num": 1346804,
+      "word": "面纱 难听",
+      "onboard_time": 1685079515,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1344886,
@@ -865,14 +881,6 @@
       "onboard_time": 1685017709,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1320593,
-      "num": 1320593,
-      "word": "13岁少女网恋后遭性侵怀孕",
-      "onboard_time": 1685074292,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1316289,
@@ -3315,6 +3323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436052,
+      "num": 400282,
+      "word": "秋瓷炫Ella共情吴倩",
+      "onboard_time": 1685079031,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 434110,
       "num": 371240,
       "word": "原来肠道细菌可以影响颜值",
@@ -3593,6 +3609,14 @@
       "onboard_time": 1684836690,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 403924,
+      "num": 389210,
+      "word": "王鹤棣悼念罗京民",
+      "onboard_time": 1685079271,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 402810,
@@ -3875,6 +3899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 377856,
+      "num": 377856,
+      "word": "拍照真是一个好习惯",
+      "onboard_time": 1685077475,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 377798,
       "num": 377798,
       "word": "羊倌为救坠崖国保差点弄丢几百只羊",
@@ -3963,6 +3995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 373537,
+      "num": 373537,
+      "word": "面纱怎么改成这样",
+      "onboard_time": 1685078854,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 372944,
       "num": 372944,
       "word": "杨紫红毯雨中拍照",
@@ -3985,6 +4025,14 @@
       "onboard_time": 1684983689,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370370,
+      "num": 265115,
+      "word": "美依礼芽体重",
+      "onboard_time": 1685078614,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 369375,
@@ -4179,6 +4227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354914,
+      "num": 222178,
+      "word": "赵丽颖飞奔向谢娜",
+      "onboard_time": 1685079271,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 352708,
       "num": 352708,
       "word": "孙颖莎4比0申裕斌",
@@ -4297,6 +4353,14 @@
       "onboard_time": 1684894405,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344590,
+      "num": 159710,
+      "word": "白玉兰0提",
+      "onboard_time": 1685081491,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 344583,
@@ -4675,14 +4739,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 317707,
-      "num": 317707,
-      "word": "拍照真是一个好习惯",
-      "onboard_time": 1685077475,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 317664,
       "num": 293463,
       "word": "护心",
@@ -4985,6 +5041,14 @@
       "onboard_time": 1684886970,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298982,
+      "num": 209812,
+      "word": "被公司的实习生投喂了泻药",
+      "onboard_time": 1685079690,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 297757,
@@ -5763,14 +5827,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 265115,
-      "num": 265115,
-      "word": "美依礼芽体重",
-      "onboard_time": 1685078614,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 264664,
       "num": 264664,
       "word": "这汽车是用方便面做的吧",
@@ -5793,6 +5849,14 @@
       "onboard_time": 1685065708,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 264270,
+      "num": 159319,
+      "word": "Alin朱珠好会唱",
+      "onboard_time": 1685079812,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 264169,
@@ -7155,6 +7219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215250,
+      "num": 155325,
+      "word": "朱一龙发文悼念罗京民",
+      "onboard_time": 1685079453,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215182,
       "num": 197393,
       "word": "尤长靖演唱会",
@@ -7593,14 +7665,6 @@
       "onboard_time": 1685059289,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 200688,
-      "num": 200688,
-      "word": "面纱怎么改成这样",
-      "onboard_time": 1685078854,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 200323,
@@ -8451,6 +8515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178360,
+      "num": 154330,
+      "word": "赵露思超爱星黛露",
+      "onboard_time": 1685080353,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178312,
       "num": 178312,
       "word": "高速上冒险救人的原来是00后",
@@ -8811,14 +8883,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 165092,
-      "num": 165092,
-      "word": "秋瓷炫Ella共情吴倩",
-      "onboard_time": 1685079031,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 163867,
       "num": 163867,
       "word": "成都刮起剩菜盲盒风",
@@ -9075,6 +9139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157117,
+      "num": 157117,
+      "word": "陌生爷爷塞给我的十元钱",
+      "onboard_time": 1685079993,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156890,
       "num": 156890,
       "word": "严惩造谣性骚扰才是对女性的保护",
@@ -9145,6 +9217,14 @@
       "onboard_time": 1684984288,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154931,
+      "num": 154931,
+      "word": "全班最乖的就是大哥了",
+      "onboard_time": 1685081191,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 154928,
@@ -9755,6 +9835,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 123644,
+      "num": 123644,
+      "word": "英雄联盟",
+      "onboard_time": 1685080770,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123176,
       "num": 123176,
       "word": "朱一龙2023戛纳行全记录",
@@ -9793,6 +9881,14 @@
       "onboard_time": 1685068048,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120585,
+      "num": 120585,
+      "word": "新郎偷偷邀请新娘的爱豆到婚礼现场",
+      "onboard_time": 1685081911,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 120509,
@@ -10051,6 +10147,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 102118,
+      "num": 102118,
+      "word": "开成白牡丹的大鸨找到了心上鸟",
+      "onboard_time": 1685081792,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101829,
       "num": 101829,
       "word": "2023MSI",
@@ -10296,6 +10400,14 @@
       "word": "家庭用车怎么选",
       "onboard_time": 1684902333,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73709,
+      "num": 121546,
+      "word": "今天618预售第一天",
+      "onboard_time": 1685080829,
+      "rank": 39,
       "category": "社会新闻"
     },
     {

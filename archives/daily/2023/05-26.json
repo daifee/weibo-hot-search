@@ -1,6 +1,6 @@
 {
   "startTime": 1685031732217,
-  "endTime": 1685079211755,
+  "endTime": 1685082086415,
   "band_list": [
     {
       "raw_hot": 4241479,
@@ -123,12 +123,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1320593,
+      "raw_hot": 1363043,
       "num": 1320593,
       "word": "13岁少女网恋后遭性侵怀孕",
       "onboard_time": 1685074292,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1346804,
+      "num": 1346804,
+      "word": "面纱 难听",
+      "onboard_time": 1685079515,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1286441,
@@ -307,6 +315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 436052,
+      "num": 400282,
+      "word": "秋瓷炫Ella共情吴倩",
+      "onboard_time": 1685079031,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 419341,
       "num": 364868,
       "word": "士兵突击",
@@ -345,6 +361,14 @@
       "onboard_time": 1685067867,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 403924,
+      "num": 389210,
+      "word": "王鹤棣悼念罗京民",
+      "onboard_time": 1685079271,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 398535,
@@ -395,6 +419,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 377856,
+      "num": 377856,
+      "word": "拍照真是一个好习惯",
+      "onboard_time": 1685077475,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 373537,
+      "num": 373537,
+      "word": "面纱怎么改成这样",
+      "onboard_time": 1685078854,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 370370,
+      "num": 265115,
+      "word": "美依礼芽体重",
+      "onboard_time": 1685078614,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 365943,
       "num": 365943,
       "word": "上海电视节",
@@ -417,6 +465,22 @@
       "onboard_time": 1685074173,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 354914,
+      "num": 222178,
+      "word": "赵丽颖飞奔向谢娜",
+      "onboard_time": 1685079271,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 344590,
+      "num": 159710,
+      "word": "白玉兰0提",
+      "onboard_time": 1685081491,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 341711,
@@ -467,20 +531,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 317707,
-      "num": 317707,
-      "word": "拍照真是一个好习惯",
-      "onboard_time": 1685077475,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 315087,
       "num": 315087,
       "word": "水月洞天主演现状",
       "onboard_time": 1685028813,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 298982,
+      "num": 209812,
+      "word": "被公司的实习生投喂了泻药",
+      "onboard_time": 1685079690,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 295318,
@@ -579,20 +643,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 265115,
-      "num": 265115,
-      "word": "美依礼芽体重",
-      "onboard_time": 1685078614,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 264316,
       "num": 264316,
       "word": "吴京易烊千玺打招呼",
       "onboard_time": 1685065708,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 264270,
+      "num": 159319,
+      "word": "Alin朱珠好会唱",
+      "onboard_time": 1685079812,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 263655,
@@ -851,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 215250,
+      "num": 155325,
+      "word": "朱一龙发文悼念罗京民",
+      "onboard_time": 1685079453,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212193,
       "num": 212193,
       "word": "现在的小区名字都好高级",
@@ -929,14 +1001,6 @@
       "onboard_time": 1685025097,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 200688,
-      "num": 200688,
-      "word": "面纱怎么改成这样",
-      "onboard_time": 1685078854,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 198359,
@@ -1083,6 +1147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 178360,
+      "num": 154330,
+      "word": "赵露思超爱星黛露",
+      "onboard_time": 1685080353,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178008,
       "num": 178008,
       "word": "事缓则圆时间可以治愈一切",
@@ -1139,14 +1211,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 165092,
-      "num": 165092,
-      "word": "秋瓷炫Ella共情吴倩",
-      "onboard_time": 1685079031,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 163867,
       "num": 163867,
       "word": "成都刮起剩菜盲盒风",
@@ -1177,6 +1241,22 @@
       "onboard_time": 1685078374,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157117,
+      "num": 157117,
+      "word": "陌生爷爷塞给我的十元钱",
+      "onboard_time": 1685079993,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 154931,
+      "num": 154931,
+      "word": "全班最乖的就是大哥了",
+      "onboard_time": 1685081191,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 154928,
@@ -1339,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123644,
+      "num": 123644,
+      "word": "英雄联盟",
+      "onboard_time": 1685080770,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123070,
       "num": 149191,
       "word": "六一儿童节",
@@ -1361,6 +1449,14 @@
       "onboard_time": 1685068048,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120585,
+      "num": 120585,
+      "word": "新郎偷偷邀请新娘的爱豆到婚礼现场",
+      "onboard_time": 1685081911,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 115541,
@@ -1411,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102118,
+      "num": 102118,
+      "word": "开成白牡丹的大鸨找到了心上鸟",
+      "onboard_time": 1685081792,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99556,
       "num": 99556,
       "word": "张彬彬说吴倩刀子嘴豆腐心",
@@ -1456,6 +1560,14 @@
       "word": "青岛警察当街飞扑抓捕电信诈骗犯",
       "onboard_time": 1685031568,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73709,
+      "num": 121546,
+      "word": "今天618预售第一天",
+      "onboard_time": 1685080829,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
