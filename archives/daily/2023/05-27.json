@@ -1,6 +1,6 @@
 {
   "startTime": 1685118110147,
-  "endTime": 1685135667568,
+  "endTime": 1685136815644,
   "band_list": [
     {
       "raw_hot": 1434814,
@@ -521,6 +521,14 @@
       "onboard_time": 1685129473,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10211,
+      "num": 18986,
+      "word": "巴厘岛",
+      "onboard_time": 1685136793,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6871,
