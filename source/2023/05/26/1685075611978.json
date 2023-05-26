@@ -1,0 +1,410 @@
+{
+  "runTime": 1685075611978,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4030730,
+        "num": 4030730,
+        "word": "张译 今天你就走了你不管我们了",
+        "onboard_time": 1685073150,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2894532,
+        "num": 2894532,
+        "word": "罗京民去世",
+        "onboard_time": 1685073090,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 6247,
+        "num": 2412870,
+        "word": "30秒看中关村论坛展览的前沿科技",
+        "onboard_time": 1685020652,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2366524,
+        "num": 2366524,
+        "word": "教育局回应女孩手无意碰到老师被踢拽",
+        "onboard_time": 1685070748,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1695268,
+        "num": 1695268,
+        "word": "杨幂 白玉兰",
+        "onboard_time": 1685072249,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1598824,
+        "num": 1598824,
+        "word": "长期吃素致孩子远低于平均身高17cm",
+        "onboard_time": 1685065886,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1659999,
+        "num": 1505335,
+        "word": "张颂文没有提名白玉兰",
+        "onboard_time": 1685068409,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1375544,
+        "num": 1375544,
+        "word": "儿子扔掉妈妈囤积的20斤陈年冻肉",
+        "onboard_time": 1685071707,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1296804,
+        "num": 1296804,
+        "word": "没认出来虞书欣",
+        "onboard_time": 1685072428,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 821731,
+        "num": 821731,
+        "word": "00后大学生为救人不幸溺亡被评见义勇为",
+        "onboard_time": 1685058808,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1279366,
+        "num": 785520,
+        "word": "杨紫是不是换妆造团队了",
+        "onboard_time": 1685068708,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1241665,
+        "num": 630422,
+        "word": "女生手无意碰到老师被脚踢揪进教室",
+        "onboard_time": 1685065886,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1233329,
+        "num": 630120,
+        "word": "杨蓉 白玉兰",
+        "onboard_time": 1685070688,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 436091,
+        "num": 436091,
+        "word": "C919",
+        "onboard_time": 1685072850,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1070521,
+        "num": 433501,
+        "word": "正午阳光赢麻了",
+        "onboard_time": 1685072428,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 505995,
+        "num": 408324,
+        "word": "东方青苍",
+        "onboard_time": 1685059110,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 872401,
+        "num": 395470,
+        "word": "白玉兰提名",
+        "onboard_time": 1685058387,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 372885,
+        "num": 372885,
+        "word": "女子规划资源局前拉横幅为夫纳妾",
+        "onboard_time": 1685074173,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359753,
+        "num": 359753,
+        "word": "网传长沙一小区发生命案",
+        "onboard_time": 1685067867,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336167,
+        "num": 336167,
+        "word": "400万粉丝财经大V徐某被判刑",
+        "onboard_time": 1685072850,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 628915,
+        "num": 322095,
+        "word": "13岁少女网恋后遭性侵怀孕",
+        "onboard_time": 1685074292,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384502,
+        "num": 307824,
+        "word": "山西被害男孩生父村子禁止外人进入",
+        "onboard_time": 1685068409,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379180,
+        "num": 280334,
+        "word": "吴倩三公 退赛",
+        "onboard_time": 1685022993,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355362,
+        "num": 264751,
+        "word": "乘风二公",
+        "onboard_time": 1685074173,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257715,
+        "num": 257715,
+        "word": "特斯拉车顶维权女车主被判败诉",
+        "onboard_time": 1685074956,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295318,
+        "num": 253664,
+        "word": "张译一周内获影帝再提视帝",
+        "onboard_time": 1685075015,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287229,
+        "num": 252697,
+        "word": "人生大事",
+        "onboard_time": 1685073993,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237900,
+        "num": 237900,
+        "word": "被广东的四季真实到了",
+        "onboard_time": 1685075136,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233038,
+        "num": 233038,
+        "word": "谢娜面纱造型",
+        "onboard_time": 1685073330,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164401,
+        "num": 220853,
+        "word": "父女捡10万现金报警后发现是练功券",
+        "onboard_time": 1685067987,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219096,
+        "num": 219096,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1685072249,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217568,
+        "num": 217568,
+        "word": "剑网3联动虹猫蓝兔",
+        "onboard_time": 1685074956,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212094,
+        "num": 212094,
+        "word": "孙珍妮vs孙真泥",
+        "onboard_time": 1685073452,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209929,
+        "num": 209929,
+        "word": "有的水獭没有孩子还硬装",
+        "onboard_time": 1685068587,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208034,
+        "num": 208034,
+        "word": "现在的小区名字都好高级",
+        "onboard_time": 1685073029,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205992,
+        "num": 205992,
+        "word": "ENHYPEN中国恩静发文",
+        "onboard_time": 1685073577,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198063,
+        "num": 198063,
+        "word": "许嵩方 取证中",
+        "onboard_time": 1685020231,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193901,
+        "num": 193901,
+        "word": "原来熬夜真的会掉头发",
+        "onboard_time": 1685075136,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192364,
+        "num": 192364,
+        "word": "罗京民",
+        "onboard_time": 1685069969,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190059,
+        "num": 190059,
+        "word": "平安北京 无语死了",
+        "onboard_time": 1685027675,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184012,
+        "num": 184012,
+        "word": "王源头发漂的都滋毛了",
+        "onboard_time": 1685056402,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183845,
+        "num": 183845,
+        "word": "明兰小公爷顶峰相见",
+        "onboard_time": 1685075377,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181359,
+        "num": 181359,
+        "word": "原来奶茶店有这么多内幕",
+        "onboard_time": 1685072307,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 178336,
+        "num": 178336,
+        "word": "海蝶音乐发声明",
+        "onboard_time": 1685069910,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173575,
+        "num": 173575,
+        "word": "老教师上班外放刷视频被怼后骂人",
+        "onboard_time": 1685069489,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 170432,
+        "num": 170432,
+        "word": "凯尔特人2比3热火",
+        "onboard_time": 1685070210,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163407,
+        "num": 169840,
+        "word": "张元英低马尾",
+        "onboard_time": 1685070507,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159416,
+        "num": 169391,
+        "word": "Angelababy撩头发",
+        "onboard_time": 1685074895,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144666,
+        "num": 168690,
+        "word": "枪决通知短信",
+        "onboard_time": 1685021852,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137442,
+        "num": 168400,
+        "word": "上了班感觉和社会脱节了",
+        "onboard_time": 1685074052,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#欧亚经济联盟第二届欧亚经济论坛全会#"
+    }
+  }
+}

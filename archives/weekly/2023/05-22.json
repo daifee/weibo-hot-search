@@ -1,10 +1,10 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1685074793725,
+  "endTime": 1685075611978,
   "band_list": [
     {
-      "raw_hot": 3850968,
-      "num": 3850968,
+      "raw_hot": 4030730,
+      "num": 4030730,
       "word": "张译 今天你就走了你不管我们了",
       "onboard_time": 1685073150,
       "rank": 0,
@@ -97,6 +97,14 @@
       "onboard_time": 1684898490,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2894532,
+      "num": 2894532,
+      "word": "罗京民去世",
+      "onboard_time": 1685073090,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2884677,
@@ -291,14 +299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2044880,
-      "num": 2044880,
-      "word": "罗京民去世",
-      "onboard_time": 1685073090,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 2003473,
       "num": 2003473,
       "word": "没睡过8个小时的人",
@@ -459,6 +459,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1695268,
+      "num": 1695268,
+      "word": "杨幂 白玉兰",
+      "onboard_time": 1685072249,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1687289,
       "num": 654051,
       "word": "黄瑞恩罗颖分手",
@@ -547,6 +555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1598824,
+      "num": 1598824,
+      "word": "长期吃素致孩子远低于平均身高17cm",
+      "onboard_time": 1685065886,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1584994,
       "num": 1584994,
       "word": "兰州大学",
@@ -595,14 +611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1548723,
-      "num": 1395149,
-      "word": "杨幂 白玉兰",
-      "onboard_time": 1685072249,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1545018,
       "num": 1094614,
       "word": "杨蓉 白玉兰",
@@ -649,14 +657,6 @@
       "onboard_time": 1684728330,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1472279,
-      "num": 1472279,
-      "word": "长期吃素致孩子远低于平均身高17cm",
-      "onboard_time": 1685065886,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1468132,
@@ -753,6 +753,14 @@
       "onboard_time": 1685068708,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1375544,
+      "num": 1375544,
+      "word": "儿子扔掉妈妈囤积的20斤陈年冻肉",
+      "onboard_time": 1685071707,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1368027,
@@ -872,6 +880,14 @@
       "word": "黄晓明一口气吃了四碗方便面",
       "onboard_time": 1684840351,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1296804,
+      "num": 1296804,
+      "word": "没认出来虞书欣",
+      "onboard_time": 1685072428,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -1075,14 +1091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1168759,
-      "num": 591485,
-      "word": "没认出来虞书欣",
-      "onboard_time": 1685072428,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1168115,
       "num": 1029665,
       "word": "恋踩癖男子藏袋内呼吸起伏明显",
@@ -1211,6 +1219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1070521,
+      "num": 433501,
+      "word": "正午阳光赢麻了",
+      "onboard_time": 1685072428,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1068222,
       "num": 1068222,
       "word": "外媒评张雨绮戛纳红毯最佳着装",
@@ -1289,14 +1305,6 @@
       "onboard_time": 1684822527,
       "rank": 31,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1027612,
-      "num": 1027612,
-      "word": "儿子扔掉妈妈囤积的20斤陈年冻肉",
-      "onboard_time": 1685071707,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1026999,
@@ -1851,14 +1859,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 771002,
-      "num": 422382,
-      "word": "正午阳光赢麻了",
-      "onboard_time": 1685072428,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 770024,
       "num": 770024,
       "word": "白敬亭淋雨神图",
@@ -2200,6 +2200,14 @@
       "word": "厦门一男医生体检时猥亵女子被拘",
       "onboard_time": 1684902333,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 628915,
+      "num": 322095,
+      "word": "13岁少女网恋后遭性侵怀孕",
+      "onboard_time": 1685074292,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -3931,6 +3939,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 372885,
+      "num": 372885,
+      "word": "女子规划资源局前拉横幅为夫纳妾",
+      "onboard_time": 1685074173,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372361,
       "num": 216579,
       "word": "贾玲",
@@ -4009,14 +4025,6 @@
       "onboard_time": 1684991610,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 364418,
-      "num": 216706,
-      "word": "13岁少女网恋后遭性侵怀孕",
-      "onboard_time": 1685074292,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 363110,
@@ -4129,6 +4137,14 @@
       "onboard_time": 1684720109,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 355362,
+      "num": 264751,
+      "word": "乘风二公",
+      "onboard_time": 1685074173,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 352708,
@@ -4979,6 +4995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 295318,
+      "num": 253664,
+      "word": "张译一周内获影帝再提视帝",
+      "onboard_time": 1685075015,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 295229,
       "num": 295229,
       "word": "电视剧都不敢这么编",
@@ -5145,6 +5169,14 @@
       "onboard_time": 1685025393,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 287229,
+      "num": 252697,
+      "word": "人生大事",
+      "onboard_time": 1685073993,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 286943,
@@ -5835,20 +5867,20 @@
       "category": "科技,作品衍生"
     },
     {
-      "raw_hot": 258358,
-      "num": 258358,
-      "word": "乘风二公",
-      "onboard_time": 1685074173,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 258033,
       "num": 258033,
       "word": "你离职时公司有挽留你吗",
       "onboard_time": 1684728450,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 257715,
+      "num": 257715,
+      "word": "特斯拉车顶维权女车主被判败诉",
+      "onboard_time": 1685074956,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257603,
@@ -6339,6 +6371,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 237900,
+      "num": 237900,
+      "word": "被广东的四季真实到了",
+      "onboard_time": 1685075136,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 237660,
       "num": 237660,
       "word": "义务教育不得通过考试或变相考试选拔学生",
@@ -6667,14 +6707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229529,
-      "num": 269234,
-      "word": "女子规划资源局前拉横幅为夫纳妾",
-      "onboard_time": 1685074173,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228950,
       "num": 228950,
       "word": "原来憋尿的危害这么大",
@@ -6979,6 +7011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217568,
+      "num": 217568,
+      "word": "剑网3联动虹猫蓝兔",
+      "onboard_time": 1685074956,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 216909,
       "num": 203560,
       "word": "恐怖片级的遭遇",
@@ -7139,6 +7179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212094,
+      "num": 212094,
+      "word": "孙珍妮vs孙真泥",
+      "onboard_time": 1685073452,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211980,
       "num": 195585,
       "word": "Irene出发巴黎机场图",
@@ -7177,6 +7225,14 @@
       "onboard_time": 1684975830,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 209929,
+      "num": 209929,
+      "word": "有的水獭没有孩子还硬装",
+      "onboard_time": 1685068587,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 209476,
@@ -7265,6 +7321,14 @@
       "onboard_time": 1685022813,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205992,
+      "num": 205992,
+      "word": "ENHYPEN中国恩静发文",
+      "onboard_time": 1685073577,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 205799,
@@ -7459,28 +7523,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 201120,
-      "num": 201120,
-      "word": "有的水獭没有孩子还硬装",
-      "onboard_time": 1685068587,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 200323,
       "num": 200323,
       "word": "长沙面包店有多卷",
       "onboard_time": 1684922791,
       "rank": 46,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 199975,
-      "num": 199975,
-      "word": "人生大事",
-      "onboard_time": 1685073993,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 199592,
@@ -7723,6 +7771,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 193901,
+      "num": 193901,
+      "word": "原来熬夜真的会掉头发",
+      "onboard_time": 1685075136,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 193843,
       "num": 193843,
       "word": "三花成为猫中女神是有原因的",
@@ -7755,14 +7811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193133,
-      "num": 187392,
-      "word": "ENHYPEN中国恩静发文",
-      "onboard_time": 1685073577,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 192924,
       "num": 192924,
       "word": "张彬彬吴倩入怀抱",
@@ -7777,14 +7825,6 @@
       "onboard_time": 1685015428,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192711,
-      "num": 186933,
-      "word": "孙珍妮vs孙真泥",
-      "onboard_time": 1685073452,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 192677,
@@ -8097,6 +8137,14 @@
       "onboard_time": 1685070326,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183845,
+      "num": 183845,
+      "word": "明兰小公爷顶峰相见",
+      "onboard_time": 1685075377,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 183561,
@@ -8811,6 +8859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159416,
+      "num": 169391,
+      "word": "Angelababy撩头发",
+      "onboard_time": 1685074895,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159190,
       "num": 159190,
       "word": "别尔哥罗德",
@@ -9305,6 +9361,14 @@
       "onboard_time": 1684739668,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 137442,
+      "num": 168400,
+      "word": "上了班感觉和社会脱节了",
+      "onboard_time": 1685074052,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 136908,

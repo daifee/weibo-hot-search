@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685074793725,
+  "endTime": 1685075611978,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4030730,
+      "num": 4030730,
+      "word": "张译 今天你就走了你不管我们了",
+      "onboard_time": 1685073150,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 3969690,
       "num": 3969690,
       "word": "笑果在京所有演出活动无限期暂停",
@@ -153,14 +161,6 @@
       "onboard_time": 1684138827,
       "rank": 47,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 3850968,
-      "num": 3850968,
-      "word": "张译 今天你就走了你不管我们了",
-      "onboard_time": 1685073150,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 3841592,
@@ -600,6 +600,14 @@
       "word": "洪欣张丹峰道歉",
       "onboard_time": 1683941127,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2894532,
+      "num": 2894532,
+      "word": "罗京民去世",
+      "onboard_time": 1685073090,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -1851,14 +1859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2044880,
-      "num": 2044880,
-      "word": "罗京民去世",
-      "onboard_time": 1685073090,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 2031529,
       "num": 2031529,
       "word": "沈月出道前曾帮人拍婚庆",
@@ -2923,6 +2923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1695268,
+      "num": 1695268,
+      "word": "杨幂 白玉兰",
+      "onboard_time": 1685072249,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1691667,
       "num": 1401989,
       "word": "刘昊然周冬雨戛纳海边同框",
@@ -3387,6 +3395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1598824,
+      "num": 1598824,
+      "word": "长期吃素致孩子远低于平均身高17cm",
+      "onboard_time": 1685065886,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1596157,
       "num": 1596157,
       "word": "将门毒后",
@@ -3689,14 +3705,6 @@
       "onboard_time": 1683530376,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1548723,
-      "num": 1395149,
-      "word": "杨幂 白玉兰",
-      "onboard_time": 1685072249,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 1545860,
@@ -4065,14 +4073,6 @@
       "onboard_time": 1684728330,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1472279,
-      "num": 1472279,
-      "word": "长期吃素致孩子远低于平均身高17cm",
-      "onboard_time": 1685065886,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1471230,
@@ -4651,6 +4651,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1375544,
+      "num": 1375544,
+      "word": "儿子扔掉妈妈囤积的20斤陈年冻肉",
+      "onboard_time": 1685071707,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1374267,
       "num": 1374267,
       "word": "Ella改文案",
@@ -5121,6 +5129,14 @@
       "onboard_time": 1683258331,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1296804,
+      "num": 1296804,
+      "word": "没认出来虞书欣",
+      "onboard_time": 1685072428,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1295498,
@@ -6075,14 +6091,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1168759,
-      "num": 591485,
-      "word": "没认出来虞书欣",
-      "onboard_time": 1685072428,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1168115,
       "num": 1029665,
       "word": "恋踩癖男子藏袋内呼吸起伏明显",
@@ -6827,6 +6835,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1070521,
+      "num": 433501,
+      "word": "正午阳光赢麻了",
+      "onboard_time": 1685072428,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1068539,
       "num": 1068539,
       "word": "Amber第一",
@@ -7241,14 +7257,6 @@
       "onboard_time": 1684230450,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1027612,
-      "num": 1027612,
-      "word": "儿子扔掉妈妈囤积的20斤陈年冻肉",
-      "onboard_time": 1685071707,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1027202,
@@ -9699,14 +9707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 771002,
-      "num": 422382,
-      "word": "正午阳光赢麻了",
-      "onboard_time": 1685072428,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 770435,
       "num": 770435,
       "word": "QQ音乐",
@@ -11721,6 +11721,14 @@
       "onboard_time": 1684058066,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 628915,
+      "num": 322095,
+      "word": "13岁少女网恋后遭性侵怀孕",
+      "onboard_time": 1685074292,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 628854,
@@ -20915,6 +20923,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 372885,
+      "num": 372885,
+      "word": "女子规划资源局前拉横幅为夫纳妾",
+      "onboard_time": 1685074173,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372746,
       "num": 344496,
       "word": "玉骨遥到底播不播",
@@ -21433,14 +21449,6 @@
       "onboard_time": 1683369268,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 364418,
-      "num": 216706,
-      "word": "13岁少女网恋后遭性侵怀孕",
-      "onboard_time": 1685074292,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 364409,
@@ -22097,6 +22105,14 @@
       "onboard_time": 1683720628,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 355362,
+      "num": 264751,
+      "word": "乘风二公",
+      "onboard_time": 1684560688,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 355225,
@@ -26555,6 +26571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 295318,
+      "num": 253664,
+      "word": "张译一周内获影帝再提视帝",
+      "onboard_time": 1685075015,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 295229,
       "num": 295229,
       "word": "电视剧都不敢这么编",
@@ -27369,6 +27393,14 @@
       "onboard_time": 1683795089,
       "rank": 31,
       "category": "科技"
+    },
+    {
+      "raw_hot": 287229,
+      "num": 252697,
+      "word": "人生大事",
+      "onboard_time": 1685073993,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 287163,
@@ -30347,14 +30379,6 @@
       "category": "科技,作品衍生"
     },
     {
-      "raw_hot": 258358,
-      "num": 258358,
-      "word": "乘风二公",
-      "onboard_time": 1684560688,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 258236,
       "num": 258236,
       "word": "蔡徐坤澳门演唱会定档",
@@ -30441,6 +30465,14 @@
       "onboard_time": 1684117826,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 257715,
+      "num": 257715,
+      "word": "特斯拉车顶维权女车主被判败诉",
+      "onboard_time": 1685074956,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257688,
@@ -32883,6 +32915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237900,
+      "num": 237900,
+      "word": "被广东的四季真实到了",
+      "onboard_time": 1685075136,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 237881,
       "num": 237881,
       "word": "我的论文致谢有你的名字",
@@ -34265,14 +34305,6 @@
       "onboard_time": 1683715768,
       "rank": 29,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 229529,
-      "num": 269234,
-      "word": "女子规划资源局前拉横幅为夫纳妾",
-      "onboard_time": 1685074173,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 229525,
@@ -35883,6 +35915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217568,
+      "num": 217568,
+      "word": "剑网3联动虹猫蓝兔",
+      "onboard_time": 1685074956,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 217474,
       "num": 217474,
       "word": "汪卓成编辑记录",
@@ -36747,6 +36787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212094,
+      "num": 212094,
+      "word": "孙珍妮vs孙真泥",
+      "onboard_time": 1685073452,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212081,
       "num": 178040,
       "word": "霍尊否认结婚时间将近",
@@ -37041,6 +37089,14 @@
       "onboard_time": 1683083613,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 209929,
+      "num": 209929,
+      "word": "有的水獭没有孩子还硬装",
+      "onboard_time": 1685068587,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 209785,
@@ -37593,6 +37649,14 @@
       "onboard_time": 1684558648,
       "rank": 32,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 205992,
+      "num": 205992,
+      "word": "ENHYPEN中国恩静发文",
+      "onboard_time": 1685073577,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 205939,
@@ -38451,14 +38515,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 201120,
-      "num": 201120,
-      "word": "有的水獭没有孩子还硬装",
-      "onboard_time": 1685068587,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 201072,
       "num": 201072,
       "word": "刘宇宁冒雨打卡粉丝应援",
@@ -38617,14 +38673,6 @@
       "onboard_time": 1684118307,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199975,
-      "num": 199975,
-      "word": "人生大事",
-      "onboard_time": 1685073993,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 199941,
@@ -39659,6 +39707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193901,
+      "num": 193901,
+      "word": "原来熬夜真的会掉头发",
+      "onboard_time": 1685075136,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 193845,
       "num": 193845,
       "word": "男子非礼酒吧女歌手不成气急败坏",
@@ -39747,14 +39803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193133,
-      "num": 187392,
-      "word": "ENHYPEN中国恩静发文",
-      "onboard_time": 1685073577,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 193097,
       "num": 193097,
       "word": "国际茶日",
@@ -39833,14 +39881,6 @@
       "onboard_time": 1684542445,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 192711,
-      "num": 186933,
-      "word": "孙珍妮vs孙真泥",
-      "onboard_time": 1685073452,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 192606,
@@ -41361,6 +41401,14 @@
       "onboard_time": 1684589368,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 183845,
+      "num": 183845,
+      "word": "明兰小公爷顶峰相见",
+      "onboard_time": 1685075377,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 183842,
@@ -45243,6 +45291,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 159416,
+      "num": 169391,
+      "word": "Angelababy撩头发",
+      "onboard_time": 1685074895,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159332,
       "num": 159332,
       "word": "蜡像馆明星蜡像失真惨不忍睹",
@@ -48377,6 +48433,14 @@
       "onboard_time": 1684112547,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137442,
+      "num": 168400,
+      "word": "上了班感觉和社会脱节了",
+      "onboard_time": 1685074052,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 137323,
