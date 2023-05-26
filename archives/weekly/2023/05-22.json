@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1685105304313,
+  "endTime": 1685107174583,
   "band_list": [
     {
       "raw_hot": 4241479,
@@ -739,6 +739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1464790,
+      "num": 1464790,
+      "word": "妻子离婚时才知丈夫年入300万",
+      "onboard_time": 1685098051,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1461131,
       "num": 1461131,
       "word": "国泰航空3名歧视乘客空乘被解聘",
@@ -987,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1291164,
+      "num": 438652,
+      "word": "我妈死后还在催婚",
+      "onboard_time": 1685102550,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1287644,
       "num": 1287644,
       "word": "沈腾瘦了好多",
@@ -1200,14 +1216,6 @@
       "word": "盖茨再爆婚外情",
       "onboard_time": 1684720349,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1177428,
-      "num": 1177428,
-      "word": "妻子离婚时才知丈夫年入300万",
-      "onboard_time": 1685098051,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -2195,6 +2203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 711080,
+      "num": 357829,
+      "word": "黄子韬淘汰谢娜",
+      "onboard_time": 1685102609,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 710156,
       "num": 603245,
       "word": "孙吧",
@@ -2380,7 +2396,7 @@
     },
     {
       "raw_hot": 638324,
-      "num": 516022,
+      "num": 552047,
       "word": "五月天演唱会",
       "onboard_time": 1684902333,
       "rank": 35,
@@ -2417,14 +2433,6 @@
       "onboard_time": 1685089711,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 628420,
-      "num": 357829,
-      "word": "黄子韬淘汰谢娜",
-      "onboard_time": 1685102609,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 624308,
@@ -2723,14 +2731,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 570394,
-      "num": 400011,
-      "word": "我妈死后还在催婚",
-      "onboard_time": 1685102550,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 568294,
       "num": 568294,
       "word": "曾黎的厚底鞋有20厘米",
@@ -2748,7 +2748,7 @@
     },
     {
       "raw_hot": 563932,
-      "num": 382739,
+      "num": 416699,
       "word": "五月天点歌",
       "onboard_time": 1685105071,
       "rank": 16,
@@ -3571,6 +3571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 441248,
+      "num": 441248,
+      "word": "王曼昱vs陈幸同",
+      "onboard_time": 1685105191,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 441085,
       "num": 441085,
       "word": "国泰航空称空中服务员工会不代表国泰",
@@ -3651,6 +3659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 429885,
+      "num": 412574,
+      "word": "狂飙官博白玉兰入围文案",
+      "onboard_time": 1685103150,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 429045,
       "num": 429045,
       "word": "丰田再次呼吁不要过早放弃燃油车",
@@ -3729,6 +3745,14 @@
       "onboard_time": 1685014768,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421175,
+      "num": 421175,
+      "word": "陈幸同4比0王曼昱",
+      "onboard_time": 1685105970,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 421140,
@@ -3833,14 +3857,6 @@
       "onboard_time": 1685009366,
       "rank": 43,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 408974,
-      "num": 381737,
-      "word": "狂飙官博白玉兰入围文案",
-      "onboard_time": 1685103150,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 408873,
@@ -4241,14 +4257,6 @@
       "onboard_time": 1685005348,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 377238,
-      "num": 377238,
-      "word": "王曼昱vs陈幸同",
-      "onboard_time": 1685105191,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 375953,
@@ -5380,11 +5388,19 @@
     },
     {
       "raw_hot": 302899,
-      "num": 193509,
+      "num": 205392,
       "word": "公诉全员被闭麦",
       "onboard_time": 1685101351,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 302654,
+      "num": 302654,
+      "word": "王楚钦孙颖莎拥抱庆祝",
+      "onboard_time": 1685105310,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 302558,
@@ -5476,7 +5492,7 @@
     },
     {
       "raw_hot": 296122,
-      "num": 190619,
+      "num": 205268,
       "word": "人在鸟巢门口",
       "onboard_time": 1685101051,
       "rank": 25,
@@ -6267,6 +6283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 266454,
+      "num": 203103,
+      "word": "小文 爷爷",
+      "onboard_time": 1685106093,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266271,
       "num": 266271,
       "word": "家属还原山西男童死亡案细节",
@@ -6360,6 +6384,14 @@
       "word": "张彬彬一手撑托起了我的cp",
       "onboard_time": 1685076097,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 263009,
+      "num": 201487,
+      "word": "梦中的那片海",
+      "onboard_time": 1685102310,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -6779,14 +6811,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 244047,
-      "num": 189575,
-      "word": "梦中的那片海",
-      "onboard_time": 1685102310,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 243906,
       "num": 190699,
       "word": "华晨宇武汉演唱会",
@@ -7065,6 +7089,14 @@
       "onboard_time": 1684925550,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 237576,
+      "num": 200431,
+      "word": "陈梦王艺迪晋级女双决赛",
+      "onboard_time": 1685106509,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 237522,
@@ -9715,6 +9747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160320,
+      "num": 160320,
+      "word": "妻子的新世界",
+      "onboard_time": 1685106509,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 160119,
       "num": 160119,
       "word": "切尔西",
@@ -9801,6 +9841,14 @@
       "onboard_time": 1684805848,
       "rank": 37,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 158123,
+      "num": 158123,
+      "word": "618预售",
+      "onboard_time": 1685106989,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157958,
@@ -9897,6 +9945,14 @@
       "onboard_time": 1684889910,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155763,
+      "num": 155763,
+      "word": "年少时不能遇见太惊艳的猴",
+      "onboard_time": 1685104110,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 155656,
@@ -10059,6 +10115,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 149404,
+      "num": 149404,
+      "word": "阿信",
+      "onboard_time": 1685105009,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 149353,
       "num": 149353,
       "word": "白玉兰古装剧征片",
@@ -10140,7 +10204,7 @@
     },
     {
       "raw_hot": 146985,
-      "num": 187960,
+      "num": 203878,
       "word": "国乒德班世乒赛首金",
       "onboard_time": 1685101891,
       "rank": 29,
@@ -10201,14 +10265,6 @@
       "onboard_time": 1685092110,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142724,
-      "num": 142724,
-      "word": "阿信",
-      "onboard_time": 1685105009,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 142508,
@@ -10635,6 +10691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123384,
+      "num": 123384,
+      "word": "盲人顾客吃重庆火锅老板贴心夹菜",
+      "onboard_time": 1685106750,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123176,
       "num": 123176,
       "word": "朱一龙2023戛纳行全记录",
@@ -10649,6 +10713,14 @@
       "onboard_time": 1685071949,
       "rank": 47,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 121975,
+      "num": 121975,
+      "word": "温柔壳",
+      "onboard_time": 1685106870,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 121264,
@@ -10777,14 +10849,6 @@
       "onboard_time": 1684685905,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114315,
-      "num": 153538,
-      "word": "年少时不能遇见太惊艳的猴",
-      "onboard_time": 1685104110,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 113782,
