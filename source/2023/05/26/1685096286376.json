@@ -1,0 +1,410 @@
+{
+  "runTime": 1685096286376,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1475598,
+        "num": 1475598,
+        "word": "姑娘嗓子疼从就诊到去世仅10分钟",
+        "onboard_time": 1685083351,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572764,
+        "num": 1435245,
+        "word": "孕妇地铁站出血轨道公安紧急救助",
+        "onboard_time": 1685093611,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74367,
+        "num": 1431311,
+        "word": "C919本周日商业航班首航",
+        "onboard_time": 1685077835,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1430320,
+        "num": 1430320,
+        "word": "五月天 华晨宇",
+        "onboard_time": 1685092773,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 256200,
+        "num": 1227416,
+        "word": "老板娘把钱还失主后笑得像个孩子",
+        "onboard_time": 1685092593,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1103496,
+        "num": 1103496,
+        "word": "警方通报长沙一家5口死亡",
+        "onboard_time": 1685091208,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185014,
+        "num": 828902,
+        "word": "松狮成了奶奶用来盘线的工具狗",
+        "onboard_time": 1685086830,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 800677,
+        "num": 800677,
+        "word": "王宝强 愿老爷子您一路走好",
+        "onboard_time": 1685082931,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 782608,
+        "num": 782608,
+        "word": "香港演员怒斥国泰空乘歧视乘客",
+        "onboard_time": 1685090070,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 738928,
+        "num": 738928,
+        "word": "白玉兰0提",
+        "onboard_time": 1685081491,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2461351,
+        "num": 728910,
+        "word": "安崎 正常恋爱",
+        "onboard_time": 1685091271,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1660631,
+        "num": 708677,
+        "word": "男教师多次性侵13岁女孩获刑18年",
+        "onboard_time": 1685089769,
+        "rank": 11,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 589272,
+        "num": 589272,
+        "word": "迪丽热巴安旎来了",
+        "onboard_time": 1685092110,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 574437,
+        "num": 574437,
+        "word": "大反派 不提名",
+        "onboard_time": 1685092110,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 70037,
+        "num": 554695,
+        "word": "长沙惊现魔法音乐节",
+        "onboard_time": 1685091393,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554347,
+        "num": 554347,
+        "word": "五月天嘉宾",
+        "onboard_time": 1685090190,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 529847,
+        "num": 529847,
+        "word": "面纱 难听",
+        "onboard_time": 1685079515,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443916,
+        "num": 443916,
+        "word": "18层地狱 1到18都是地狱",
+        "onboard_time": 1685087310,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 403455,
+        "num": 403455,
+        "word": "小美人鱼票房",
+        "onboard_time": 1685094571,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 362171,
+        "num": 362171,
+        "word": "张译 今天你就走了你不管我们了",
+        "onboard_time": 1685073150,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336039,
+        "num": 336039,
+        "word": "张嘉元辟谣恋情",
+        "onboard_time": 1685084912,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323227,
+        "num": 323227,
+        "word": "五月天演唱会",
+        "onboard_time": 1685093793,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 264766,
+        "num": 264766,
+        "word": "高考找了很硬的关系",
+        "onboard_time": 1685085811,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 241611,
+        "num": 241611,
+        "word": "院方回应34岁员工天台上吊身亡",
+        "onboard_time": 1685093312,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222152,
+        "num": 222152,
+        "word": "西藏境内发现亚洲第一高树",
+        "onboard_time": 1685085270,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306573,
+        "num": 213640,
+        "word": "杨蓉大山的女儿没提名",
+        "onboard_time": 1685094151,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223288,
+        "num": 210447,
+        "word": "罗京民去世",
+        "onboard_time": 1685073090,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231780,
+        "num": 204285,
+        "word": "杨幂 白玉兰",
+        "onboard_time": 1685072249,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197731,
+        "num": 197731,
+        "word": "儿子扔掉妈妈囤积的20斤陈年冻肉",
+        "onboard_time": 1685071707,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187048,
+        "num": 187048,
+        "word": "余华 上香也是一种上进",
+        "onboard_time": 1685094270,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 360069,
+        "num": 186515,
+        "word": "甄嬛传演到滴血认亲食堂大姨忘了工作",
+        "onboard_time": 1685095294,
+        "rank": 30,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 304483,
+        "num": 185996,
+        "word": "乘风姐姐和工作人员聊结婚",
+        "onboard_time": 1685095411,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265194,
+        "num": 185650,
+        "word": "长沙小区命案死者疑为1家5口",
+        "onboard_time": 1685092413,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208936,
+        "num": 184927,
+        "word": "拼多多上毕业就失业的美术生",
+        "onboard_time": 1685095773,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204985,
+        "num": 183970,
+        "word": "张杰安慰谢娜",
+        "onboard_time": 1685089111,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183713,
+        "num": 183713,
+        "word": "这回海里全知道人类会开核桃了",
+        "onboard_time": 1685086530,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201522,
+        "num": 183212,
+        "word": "家家",
+        "onboard_time": 1685095111,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197994,
+        "num": 182515,
+        "word": "美依礼芽有新翻译了",
+        "onboard_time": 1685089952,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196463,
+        "num": 180371,
+        "word": "对秋瓷炫一辈子好",
+        "onboard_time": 1685083591,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176108,
+        "num": 176108,
+        "word": "韩亚航空一客机舱门在空中打开",
+        "onboard_time": 1685083051,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188367,
+        "num": 175755,
+        "word": "没认出来虞书欣",
+        "onboard_time": 1685072428,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180325,
+        "num": 175625,
+        "word": "黄牛把王鹤棣的签名偷走了",
+        "onboard_time": 1685096130,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177919,
+        "num": 173593,
+        "word": "白玉兰竞争好激烈",
+        "onboard_time": 1685092652,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166005,
+        "num": 166005,
+        "word": "公诉定档",
+        "onboard_time": 1685089711,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165441,
+        "num": 165441,
+        "word": "五月天演唱会你买到票了吗",
+        "onboard_time": 1685093374,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152715,
+        "num": 152715,
+        "word": "教育局回应女孩手无意碰到老师被踢拽",
+        "onboard_time": 1685070748,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146561,
+        "num": 146561,
+        "word": "拍照真是一个好习惯",
+        "onboard_time": 1685077475,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128032,
+        "num": 146467,
+        "word": "手机销量差是因为卖的贵吗",
+        "onboard_time": 1685095471,
+        "rank": 47,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 77166,
+        "num": 145574,
+        "word": "chatgpt",
+        "onboard_time": 1685088213,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 63647,
+        "num": 144894,
+        "word": "英雄联盟",
+        "onboard_time": 1685080770,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#关注2023中关村论坛#"
+    }
+  }
+}
