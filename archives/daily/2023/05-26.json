@@ -1,7 +1,15 @@
 {
   "startTime": 1685031732217,
-  "endTime": 1685057619431,
+  "endTime": 1685064266091,
   "band_list": [
+    {
+      "raw_hot": 2099769,
+      "num": 2099769,
+      "word": "枪决通知短信",
+      "onboard_time": 1685021852,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1905250,
       "num": 1905250,
@@ -19,16 +27,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1317181,
-      "num": 1317181,
-      "word": "枪决通知短信",
-      "onboard_time": 1685021852,
+      "raw_hot": 1372955,
+      "num": 1372955,
+      "word": "00后大学生为救人不幸溺亡被评见义勇为",
+      "onboard_time": 1685058808,
       "rank": 1,
-      "category": "社会新闻"
+      "category": "社会正能量"
     },
     {
       "raw_hot": 1286441,
-      "num": 382004,
+      "num": 536330,
       "word": "王鹤棣虞书欣 二搭",
       "onboard_time": 1685022334,
       "rank": 10,
@@ -44,11 +52,43 @@
     },
     {
       "raw_hot": 1055216,
-      "num": 381849,
+      "num": 592392,
       "word": "许嵩方 取证中",
       "onboard_time": 1685020231,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 991576,
+      "num": 991576,
+      "word": "王源头发漂的都滋毛了",
+      "onboard_time": 1685056402,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 978770,
+      "num": 978770,
+      "word": "浪姐只有徐梦桃退过赛",
+      "onboard_time": 1685057184,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 906409,
+      "num": 619185,
+      "word": "东方青苍",
+      "onboard_time": 1685059110,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 823765,
+      "num": 823765,
+      "word": "被温州人的订婚喜糖震惊到了",
+      "onboard_time": 1685026354,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 820661,
@@ -59,12 +99,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 740358,
-      "num": 740358,
-      "word": "被温州人的订婚喜糖震惊到了",
-      "onboard_time": 1685026354,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 816964,
+      "num": 816964,
+      "word": "白玉兰提名",
+      "onboard_time": 1685058387,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 621653,
@@ -73,6 +113,22 @@
       "onboard_time": 1685016266,
       "rank": 19,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 619641,
+      "num": 619641,
+      "word": "黄璐吐槽国泰航空服务",
+      "onboard_time": 1685060251,
+      "rank": 9,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 614556,
+      "num": 614556,
+      "word": "北京二手房降价90万卖不出去",
+      "onboard_time": 1685060068,
+      "rank": 11,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 540758,
@@ -91,6 +147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 406037,
+      "num": 406037,
+      "word": "原来睡着后的世界是这样的",
+      "onboard_time": 1685013326,
+      "rank": 16,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 405626,
       "num": 405626,
       "word": "23年没来往的继子获得天降遗产",
@@ -105,6 +169,14 @@
       "onboard_time": 1685029889,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 385930,
+      "num": 385930,
+      "word": "郑秀晶戛纳电影节",
+      "onboard_time": 1685057547,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 382069,
@@ -123,8 +195,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 340681,
-      "num": 198110,
+      "raw_hot": 341711,
+      "num": 319999,
       "word": "舅舅住院杭州甥女不想掏钱被指小气",
       "onboard_time": 1685055861,
       "rank": 30,
@@ -139,12 +211,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326318,
+      "num": 326318,
+      "word": "武汉小学生校内被撞致死细节披露",
+      "onboard_time": 1685055803,
+      "rank": 33,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 315087,
       "num": 315087,
       "word": "水月洞天主演现状",
       "onboard_time": 1685028813,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 311539,
+      "num": 311539,
+      "word": "花花的颜值我慕了",
+      "onboard_time": 1685060429,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293261,
@@ -155,12 +243,28 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 284590,
-      "num": 284590,
-      "word": "原来睡着后的世界是这样的",
-      "onboard_time": 1685013326,
-      "rank": 16,
-      "category": "幽默,情感"
+      "raw_hot": 285144,
+      "num": 285144,
+      "word": "山东女孩因追星努力学习保送北大",
+      "onboard_time": 1685058266,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280176,
+      "num": 280176,
+      "word": "孙珍妮和白鹿大腿贴贴",
+      "onboard_time": 1685060850,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 270551,
+      "num": 270551,
+      "word": "上海高架两车斗气后续",
+      "onboard_time": 1685055680,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266271,
@@ -168,6 +272,14 @@
       "word": "家属还原山西男童死亡案细节",
       "onboard_time": 1685030131,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259188,
+      "num": 259188,
+      "word": "高三学生举班主任海报拍毕业照",
+      "onboard_time": 1685060490,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -193,6 +305,22 @@
       "onboard_time": 1685056521,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 252485,
+      "num": 252485,
+      "word": "国泰招聘称熟练掌握普通话是额外优势",
+      "onboard_time": 1685061272,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238847,
+      "num": 238847,
+      "word": "养8年狗狗送婚戒后坐着看主人",
+      "onboard_time": 1685056343,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238645,
@@ -227,6 +355,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 230241,
+      "num": 230241,
+      "word": "周深在线解释出淤泥的几个阶段",
+      "onboard_time": 1685063610,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 230031,
+      "num": 230031,
+      "word": "大数据不要给我推荐可能认识的人了",
+      "onboard_time": 1685055861,
+      "rank": 46,
+      "category": "科技,情感"
+    },
+    {
       "raw_hot": 225756,
       "num": 198364,
       "word": "内娱仪态的神",
@@ -251,14 +395,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 208449,
-      "num": 208449,
-      "word": "王源头发漂的都滋毛了",
-      "onboard_time": 1685056402,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 208209,
       "num": 165953,
       "word": "王俊凯王源都在重庆",
@@ -267,28 +403,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201134,
+      "num": 201134,
+      "word": "gidle Queencard",
+      "onboard_time": 1685059289,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200897,
       "num": 160128,
       "word": "狐妖小红娘",
       "onboard_time": 1685025097,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 198364,
-      "num": 198364,
-      "word": "养8年狗狗送婚戒后坐着看主人",
-      "onboard_time": 1685056343,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195128,
-      "num": 195128,
-      "word": "上海高架两车斗气后续",
-      "onboard_time": 1685055680,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194516,
@@ -307,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187135,
+      "num": 187135,
+      "word": "华晨宇说火星是个动物园",
+      "onboard_time": 1685063070,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 186014,
       "num": 194512,
       "word": "国产数码宝贝剧透",
@@ -315,12 +451,28 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 183686,
-      "num": 152783,
-      "word": "武汉小学生校内被撞致死细节披露",
-      "onboard_time": 1685055803,
-      "rank": 33,
-      "category": "社会新闻,教育"
+      "raw_hot": 184575,
+      "num": 184575,
+      "word": "粉丝辟谣王鹤棣虞书欣二搭",
+      "onboard_time": 1685061212,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 179797,
+      "num": 179797,
+      "word": "NBA",
+      "onboard_time": 1685063729,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 179557,
+      "num": 179557,
+      "word": "男子争当榜一大哥账户剩下4分钱",
+      "onboard_time": 1685035758,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178008,
@@ -339,12 +491,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171746,
-      "num": 171746,
-      "word": "大数据不要给我推荐可能认识的人了",
-      "onboard_time": 1685055861,
-      "rank": 46,
-      "category": "科技,情感"
+      "raw_hot": 176542,
+      "num": 176542,
+      "word": "芭比新预告",
+      "onboard_time": 1685063187,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 175297,
+      "num": 175297,
+      "word": "国泰航空歧视乘客可追溯至20年前",
+      "onboard_time": 1685064025,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165120,
+      "num": 165120,
+      "word": "人们靠分开的痛觉来分辨爱意",
+      "onboard_time": 1685055803,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 160128,
@@ -355,12 +523,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153761,
+      "num": 153761,
+      "word": "凯尔特人vs热火",
+      "onboard_time": 1685064150,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151436,
+      "num": 151436,
+      "word": "女明星古早照近照对比",
+      "onboard_time": 1685062949,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149277,
       "num": 149277,
       "word": "二阳",
       "onboard_time": 1685025337,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142508,
+      "num": 142508,
+      "word": "吴青峰 上海",
+      "onboard_time": 1685059469,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 142302,
@@ -435,14 +627,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 128747,
-      "num": 128747,
-      "word": "男子争当榜一大哥账户剩下4分钱",
-      "onboard_time": 1685035758,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126673,
       "num": 126673,
       "word": "姚晨不热吗",
@@ -465,14 +649,6 @@
       "onboard_time": 1685023714,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 119050,
-      "num": 119050,
-      "word": "人们靠分开的痛觉来分辨爱意",
-      "onboard_time": 1685055803,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 115541,
@@ -515,28 +691,12 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 105349,
-      "num": 105349,
-      "word": "浪姐只有徐梦桃退过赛",
-      "onboard_time": 1685057184,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 104846,
       "num": 104846,
       "word": "上海街头现丁达尔效应",
       "onboard_time": 1685023232,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102150,
-      "num": 102150,
-      "word": "郑秀晶戛纳电影节",
-      "onboard_time": 1685057547,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 99556,
@@ -611,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 28204,
+      "num": 1238342,
+      "word": "30秒看中关村论坛展览的前沿科技",
+      "onboard_time": 1685020652,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26142,
       "num": 26142,
       "word": "世乒赛",
@@ -624,14 +792,6 @@
       "word": "小学生校内被撞身亡涉事教师被刑拘",
       "onboard_time": 1685037856,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21725,
-      "num": 1238342,
-      "word": "30秒看中关村论坛展览的前沿科技",
-      "onboard_time": 1685020652,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],
