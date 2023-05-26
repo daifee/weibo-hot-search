@@ -1,0 +1,410 @@
+{
+  "runTime": 1685065700194,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1988793,
+        "num": 1988793,
+        "word": "枪决通知短信",
+        "onboard_time": 1685021852,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1385887,
+        "num": 1385887,
+        "word": "00后大学生为救人不幸溺亡被评见义勇为",
+        "onboard_time": 1685058808,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 27271,
+        "num": 1129190,
+        "word": "30秒看中关村论坛展览的前沿科技",
+        "onboard_time": 1685020652,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1026999,
+        "num": 1026999,
+        "word": "浪姐只有徐梦桃退过赛",
+        "onboard_time": 1685057184,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 983927,
+        "num": 983927,
+        "word": "王源头发漂的都滋毛了",
+        "onboard_time": 1685056402,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 940315,
+        "num": 940315,
+        "word": "黄璐吐槽国泰航空服务",
+        "onboard_time": 1685060251,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 872545,
+        "num": 872545,
+        "word": "北京二手房降价90万卖不出去",
+        "onboard_time": 1685060068,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 773011,
+        "num": 773011,
+        "word": "吴倩三公 退赛",
+        "onboard_time": 1685022993,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 753848,
+        "num": 753848,
+        "word": "白玉兰提名",
+        "onboard_time": 1685058387,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 717495,
+        "num": 717495,
+        "word": "平安北京 无语死了",
+        "onboard_time": 1685027675,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 798493,
+        "num": 711167,
+        "word": "东方青苍",
+        "onboard_time": 1685059110,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 583134,
+        "num": 583134,
+        "word": "许嵩方 取证中",
+        "onboard_time": 1685020231,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 550066,
+        "num": 550066,
+        "word": "22岁姑娘因男友减到55斤进医院",
+        "onboard_time": 1685016266,
+        "rank": 12,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 510179,
+        "num": 510179,
+        "word": "被温州人的订婚喜糖震惊到了",
+        "onboard_time": 1685026354,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462564,
+        "num": 462564,
+        "word": "王鹤棣虞书欣 二搭",
+        "onboard_time": 1685022334,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 388401,
+        "num": 388401,
+        "word": "43岁的张娜拉",
+        "onboard_time": 1685022393,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 329480,
+        "num": 329480,
+        "word": "武汉小学生校内被撞致死细节披露",
+        "onboard_time": 1685055803,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 319916,
+        "num": 319916,
+        "word": "郑秀晶戛纳电影节",
+        "onboard_time": 1685057547,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298831,
+        "num": 298831,
+        "word": "G社拍的宋仲基",
+        "onboard_time": 1685029889,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 291768,
+        "num": 291768,
+        "word": "原来睡着后的世界是这样的",
+        "onboard_time": 1685013326,
+        "rank": 19,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 331761,
+        "num": 289122,
+        "word": "花花的颜值我慕了",
+        "onboard_time": 1685060429,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313222,
+        "num": 287126,
+        "word": "舅舅住院杭州甥女不想掏钱被指小气",
+        "onboard_time": 1685055861,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281452,
+        "num": 281452,
+        "word": "报警人中途撤警因小学生将火扑灭",
+        "onboard_time": 1685064568,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275524,
+        "num": 275524,
+        "word": "孙珍妮和白鹿大腿贴贴",
+        "onboard_time": 1685060850,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242390,
+        "num": 242390,
+        "word": "高三学生举班主任海报拍毕业照",
+        "onboard_time": 1685060490,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240048,
+        "num": 240048,
+        "word": "白玉兰男女主预测",
+        "onboard_time": 1685064688,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238290,
+        "num": 238290,
+        "word": "山东女孩因追星努力学习保送北大",
+        "onboard_time": 1685058266,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233549,
+        "num": 233549,
+        "word": "大数据不要给我推荐可能认识的人了",
+        "onboard_time": 1685055861,
+        "rank": 27,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 226571,
+        "num": 226571,
+        "word": "国泰招聘称熟练掌握普通话是额外优势",
+        "onboard_time": 1685061272,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220513,
+        "num": 220513,
+        "word": "凯尔特人vs热火",
+        "onboard_time": 1685064150,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246002,
+        "num": 215825,
+        "word": "北京警方已处理演唱会黄牛29名",
+        "onboard_time": 1685064811,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203594,
+        "num": 203594,
+        "word": "上海高架两车斗气后续",
+        "onboard_time": 1685055680,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194974,
+        "num": 194974,
+        "word": "国泰航空歧视乘客可追溯至20年前",
+        "onboard_time": 1685064025,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191613,
+        "num": 191613,
+        "word": "养8年狗狗送婚戒后坐着看主人",
+        "onboard_time": 1685056343,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189077,
+        "num": 189077,
+        "word": "gidle Queencard",
+        "onboard_time": 1685059289,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186101,
+        "num": 186101,
+        "word": "男子争当榜一大哥账户剩下4分钱",
+        "onboard_time": 1685035758,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185959,
+        "num": 185959,
+        "word": "司机下车查看轮胎遭后车撞飞身亡",
+        "onboard_time": 1685026293,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180136,
+        "num": 180136,
+        "word": "长生少艾",
+        "onboard_time": 1685064688,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171134,
+        "num": 171134,
+        "word": "NBA",
+        "onboard_time": 1685063729,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165843,
+        "num": 165843,
+        "word": "粉丝辟谣王鹤棣虞书欣二搭",
+        "onboard_time": 1685061212,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160169,
+        "num": 160169,
+        "word": "王一博小表情好可爱",
+        "onboard_time": 1685065468,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154928,
+        "num": 154928,
+        "word": "郑秀晶红毯回眸",
+        "onboard_time": 1685064509,
+        "rank": 41,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 150416,
+        "num": 150416,
+        "word": "车辆侧翻山东小伙徒手掰门救人",
+        "onboard_time": 1685064867,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144864,
+        "num": 144864,
+        "word": "陈赫送鹿晗演唱会门票给粉丝",
+        "onboard_time": 1685028212,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141807,
+        "num": 141807,
+        "word": "阿里巴巴今年计划招聘15000人",
+        "onboard_time": 1685021971,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 139649,
+        "num": 139649,
+        "word": "水月洞天主演现状",
+        "onboard_time": 1685028813,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138694,
+        "num": 138694,
+        "word": "人们靠分开的痛觉来分辨爱意",
+        "onboard_time": 1685055803,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134930,
+        "num": 134930,
+        "word": "永远不对人性抱有期待 人性瞬息万变",
+        "onboard_time": 1685065168,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133980,
+        "num": 133980,
+        "word": "周深在线解释出淤泥的几个阶段",
+        "onboard_time": 1685063610,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133139,
+        "num": 133139,
+        "word": "23年没来往的继子获得天降遗产",
+        "onboard_time": 1685026534,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#欧亚经济联盟第二届欧亚经济论坛全会#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1685031732217,
-  "endTime": 1685064266091,
+  "endTime": 1685065700194,
   "band_list": [
     {
       "raw_hot": 2099769,
@@ -27,8 +27,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1372955,
-      "num": 1372955,
+      "raw_hot": 1385887,
+      "num": 1385887,
       "word": "00后大学生为救人不幸溺亡被评见义勇为",
       "onboard_time": 1685058808,
       "rank": 1,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1026999,
+      "num": 1026999,
+      "word": "浪姐只有徐梦桃退过赛",
+      "onboard_time": 1685057184,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 991576,
       "num": 991576,
       "word": "王源头发漂的都滋毛了",
@@ -67,20 +75,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 978770,
-      "num": 978770,
-      "word": "浪姐只有徐梦桃退过赛",
-      "onboard_time": 1685057184,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 940315,
+      "num": 940315,
+      "word": "黄璐吐槽国泰航空服务",
+      "onboard_time": 1685060251,
+      "rank": 9,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 906409,
-      "num": 619185,
+      "num": 711167,
       "word": "东方青苍",
       "onboard_time": 1685059110,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 872545,
+      "num": 872545,
+      "word": "北京二手房降价90万卖不出去",
+      "onboard_time": 1685060068,
+      "rank": 11,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 823765,
@@ -113,22 +129,6 @@
       "onboard_time": 1685016266,
       "rank": 19,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 619641,
-      "num": 619641,
-      "word": "黄璐吐槽国泰航空服务",
-      "onboard_time": 1685060251,
-      "rank": 9,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 614556,
-      "num": 614556,
-      "word": "北京二手房降价90万卖不出去",
-      "onboard_time": 1685060068,
-      "rank": 11,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 540758,
@@ -211,8 +211,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 326318,
-      "num": 326318,
+      "raw_hot": 331761,
+      "num": 311539,
+      "word": "花花的颜值我慕了",
+      "onboard_time": 1685060429,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329480,
+      "num": 329480,
       "word": "武汉小学生校内被撞致死细节披露",
       "onboard_time": 1685055803,
       "rank": 33,
@@ -227,14 +235,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 311539,
-      "num": 311539,
-      "word": "花花的颜值我慕了",
-      "onboard_time": 1685060429,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 293261,
       "num": 169654,
       "word": "校内被车撞倒身亡的孩子母亲首次发声",
@@ -247,6 +247,14 @@
       "num": 285144,
       "word": "山东女孩因追星努力学习保送北大",
       "onboard_time": 1685058266,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281452,
+      "num": 281452,
+      "word": "报警人中途撤警因小学生将火扑灭",
+      "onboard_time": 1685064568,
       "rank": 22,
       "category": "社会新闻"
     },
@@ -315,6 +323,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246002,
+      "num": 215825,
+      "word": "北京警方已处理演唱会黄牛29名",
+      "onboard_time": 1685064811,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240048,
+      "num": 240048,
+      "word": "白玉兰男女主预测",
+      "onboard_time": 1685064688,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 238847,
       "num": 238847,
       "word": "养8年狗狗送婚戒后坐着看主人",
@@ -347,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233549,
+      "num": 233549,
+      "word": "大数据不要给我推荐可能认识的人了",
+      "onboard_time": 1685055861,
+      "rank": 46,
+      "category": "科技,情感"
+    },
+    {
       "raw_hot": 231657,
       "num": 227367,
       "word": "冯小刚女儿撞脸小S二女儿",
@@ -361,14 +393,6 @@
       "onboard_time": 1685063610,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 230031,
-      "num": 230031,
-      "word": "大数据不要给我推荐可能认识的人了",
-      "onboard_time": 1685055861,
-      "rank": 46,
-      "category": "科技,情感"
     },
     {
       "raw_hot": 225756,
@@ -395,6 +419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 220513,
+      "num": 220513,
+      "word": "凯尔特人vs热火",
+      "onboard_time": 1685064150,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208209,
       "num": 165953,
       "word": "王俊凯王源都在重庆",
@@ -417,6 +449,14 @@
       "onboard_time": 1685025097,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194974,
+      "num": 194974,
+      "word": "国泰航空歧视乘客可追溯至20年前",
+      "onboard_time": 1685064025,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194516,
@@ -443,6 +483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186101,
+      "num": 186101,
+      "word": "男子争当榜一大哥账户剩下4分钱",
+      "onboard_time": 1685035758,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186014,
       "num": 194512,
       "word": "国产数码宝贝剧透",
@@ -459,20 +507,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180136,
+      "num": 180136,
+      "word": "长生少艾",
+      "onboard_time": 1685064688,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179797,
       "num": 179797,
       "word": "NBA",
       "onboard_time": 1685063729,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 179557,
-      "num": 179557,
-      "word": "男子争当榜一大哥账户剩下4分钱",
-      "onboard_time": 1685035758,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178008,
@@ -499,20 +547,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 175297,
-      "num": 175297,
-      "word": "国泰航空歧视乘客可追溯至20年前",
-      "onboard_time": 1685064025,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165120,
       "num": 165120,
       "word": "人们靠分开的痛觉来分辨爱意",
       "onboard_time": 1685055803,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 160169,
+      "num": 160169,
+      "word": "王一博小表情好可爱",
+      "onboard_time": 1685065468,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 160128,
@@ -523,12 +571,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153761,
-      "num": 153761,
-      "word": "凯尔特人vs热火",
-      "onboard_time": 1685064150,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 154928,
+      "num": 154928,
+      "word": "郑秀晶红毯回眸",
+      "onboard_time": 1685064509,
+      "rank": 41,
+      "category": "影视,时尚"
     },
     {
       "raw_hot": 151436,
@@ -537,6 +585,14 @@
       "onboard_time": 1685062949,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150416,
+      "num": 150416,
+      "word": "车辆侧翻山东小伙徒手掰门救人",
+      "onboard_time": 1685064867,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149277,
@@ -585,6 +641,14 @@
       "onboard_time": 1685055803,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134930,
+      "num": 134930,
+      "word": "永远不对人性抱有期待 人性瞬息万变",
+      "onboard_time": 1685065168,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 133045,
