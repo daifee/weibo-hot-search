@@ -1,6 +1,6 @@
 {
   "startTime": 1685031732217,
-  "endTime": 1685099703927,
+  "endTime": 1685100806247,
   "band_list": [
     {
       "raw_hot": 4241479,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 3103259,
-      "num": 728910,
+      "num": 765329,
       "word": "安崎 正常恋爱",
       "onboard_time": 1685091271,
       "rank": 10,
@@ -115,6 +115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1601983,
+      "num": 1601983,
+      "word": "五月天 华晨宇",
+      "onboard_time": 1685092773,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1598824,
       "num": 1598824,
       "word": "长期吃素致孩子远低于平均身高17cm",
@@ -137,14 +145,6 @@
       "onboard_time": 1685070688,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1494382,
-      "num": 1494382,
-      "word": "五月天 华晨宇",
-      "onboard_time": 1685092773,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 1451541,
@@ -211,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1252252,
+      "num": 1252252,
+      "word": "狂飙",
+      "onboard_time": 1685097391,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1213787,
       "num": 1190178,
       "word": "武汉校内被撞身亡小学生",
@@ -249,6 +257,14 @@
       "onboard_time": 1685087310,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1076732,
+      "num": 1076732,
+      "word": "妻子离婚时才知丈夫年入300万",
+      "onboard_time": 1685098051,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1055216,
@@ -363,12 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 734580,
-      "num": 734580,
-      "word": "狂飙",
-      "onboard_time": 1685097391,
+      "raw_hot": 789456,
+      "num": 789456,
+      "word": "五月天",
+      "onboard_time": 1685100331,
       "rank": 8,
-      "category": "影视"
+      "category": "音乐"
     },
     {
       "raw_hot": 705772,
@@ -419,14 +435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 562100,
-      "num": 562100,
-      "word": "妻子离婚时才知丈夫年入300万",
-      "onboard_time": 1685098051,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 540758,
       "num": 540758,
       "word": "金星 橙汁",
@@ -441,6 +449,14 @@
       "onboard_time": 1685083591,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 539856,
+      "num": 539856,
+      "word": "王鹤棣田曦薇新剧开始招募文替",
+      "onboard_time": 1685098590,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 522474,
@@ -467,8 +483,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 473953,
-      "num": 424219,
+      "raw_hot": 476707,
+      "num": 476707,
       "word": "五月天演唱会",
       "onboard_time": 1685093793,
       "rank": 21,
@@ -507,6 +523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 453836,
+      "num": 453836,
+      "word": "女子诞下百万分之一镜面宝宝",
+      "onboard_time": 1685098653,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438625,
       "num": 400282,
       "word": "秋瓷炫Ella共情吴倩",
@@ -521,6 +545,14 @@
       "onboard_time": 1685095294,
       "rank": 30,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 421351,
+      "num": 421351,
+      "word": "娄艺潇回复网友不参加浪姐的原因",
+      "onboard_time": 1685097690,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 421140,
@@ -587,14 +619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 404256,
-      "num": 261066,
-      "word": "女子诞下百万分之一镜面宝宝",
-      "onboard_time": 1685098653,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 403924,
       "num": 389210,
       "word": "王鹤棣悼念罗京民",
@@ -609,14 +633,6 @@
       "onboard_time": 1685069548,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 396936,
-      "num": 396936,
-      "word": "娄艺潇回复网友不参加浪姐的原因",
-      "onboard_time": 1685097690,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 396783,
@@ -673,14 +689,6 @@
       "onboard_time": 1685078854,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 373368,
-      "num": 373368,
-      "word": "王鹤棣田曦薇新剧开始招募文替",
-      "onboard_time": 1685098590,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 370370,
@@ -907,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281470,
+      "num": 281470,
+      "word": "鸟巢排队",
+      "onboard_time": 1685099848,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 280176,
       "num": 280176,
       "word": "孙珍妮和白鹿大腿贴贴",
@@ -921,6 +937,14 @@
       "onboard_time": 1685085270,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272842,
+      "num": 272842,
+      "word": "奔跑吧这期一上来就亮身份",
+      "onboard_time": 1685098951,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 271213,
@@ -1027,14 +1051,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 261047,
-      "num": 261047,
-      "word": "奔跑吧这期一上来就亮身份",
-      "onboard_time": 1685098951,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 259188,
       "num": 259188,
       "word": "高三学生举班主任海报拍毕业照",
@@ -1135,6 +1151,14 @@
       "num": 248911,
       "word": "灿烂灿烂",
       "onboard_time": 1685098351,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 247034,
+      "num": 247034,
+      "word": "灿烂灿烂 上星央八",
+      "onboard_time": 1685100209,
       "rank": 32,
       "category": "影视"
     },
@@ -1259,6 +1283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 231559,
+      "num": 231559,
+      "word": "手机销量差是因为卖的贵吗",
+      "onboard_time": 1685095471,
+      "rank": 47,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 230241,
       "num": 230241,
       "word": "周深在线解释出淤泥的几个阶段",
@@ -1307,14 +1339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 224372,
-      "num": 224372,
-      "word": "手机销量差是因为卖的贵吗",
-      "onboard_time": 1685095471,
-      "rank": 47,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 224048,
       "num": 188129,
       "word": "曹骏说不知道娱乐圈要什么样的性格",
@@ -1324,7 +1348,7 @@
     },
     {
       "raw_hot": 222433,
-      "num": 1050379,
+      "num": 1147260,
       "word": "松狮成了奶奶用来盘线的工具狗",
       "onboard_time": 1685086830,
       "rank": 33,
@@ -1571,6 +1595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186465,
+      "num": 186465,
+      "word": "莎头",
+      "onboard_time": 1685097991,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186101,
       "num": 186101,
       "word": "男子争当榜一大哥账户剩下4分钱",
@@ -1763,8 +1795,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163818,
+      "num": 163818,
+      "word": "香港的菜单有多离谱",
+      "onboard_time": 1685099430,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163261,
-      "num": 261809,
+      "num": 276381,
       "word": "天猫618预售功课",
       "onboard_time": 1685098828,
       "rank": 28,
@@ -1859,14 +1899,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 146927,
-      "num": 146927,
-      "word": "莎头",
-      "onboard_time": 1685097991,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 142814,
       "num": 184746,
       "word": "视障女孩为自救9年写120首歌",
@@ -1913,6 +1945,14 @@
       "onboard_time": 1685025274,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137557,
+      "num": 137557,
+      "word": "妈妈翻出13年前手机送女儿当儿童机",
+      "onboard_time": 1685100511,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136579,
@@ -2129,14 +2169,6 @@
       "onboard_time": 1685031448,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 98257,
-      "num": 138466,
-      "word": "香港的菜单有多离谱",
-      "onboard_time": 1685099430,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 96480,
