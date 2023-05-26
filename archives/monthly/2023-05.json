@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685082855987,
+  "endTime": 1685085379194,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -729,6 +729,14 @@
       "onboard_time": 1682949099,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2811788,
+      "num": 2811788,
+      "word": "王宝强 愿老爷子您一路走好",
+      "onboard_time": 1685082931,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2811348,
@@ -3195,6 +3203,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 1626972,
+      "num": 1626972,
+      "word": "白玉兰0提",
+      "onboard_time": 1685081491,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1625979,
       "num": 1625979,
       "word": "中奖五千万你会立刻离职吗",
@@ -4665,6 +4681,14 @@
       "onboard_time": 1682898746,
       "rank": 1,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 1376030,
+      "num": 1376030,
+      "word": "姑娘嗓子疼从就诊到去世仅10分钟",
+      "onboard_time": 1685083351,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1375544,
@@ -8619,6 +8643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 874484,
+      "num": 874484,
+      "word": "平潭一医院员工吊死天台",
+      "onboard_time": 1685082629,
+      "rank": 24,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 874275,
       "num": 874275,
       "word": "霉霉 有屁重录",
@@ -9089,14 +9121,6 @@
       "onboard_time": 1684419691,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 829527,
-      "num": 393088,
-      "word": "白玉兰0提",
-      "onboard_time": 1685081491,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 828159,
@@ -14683,6 +14707,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 511439,
+      "num": 511439,
+      "word": "韩亚航空一客机舱门在空中打开",
+      "onboard_time": 1685083051,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 511371,
       "num": 511371,
       "word": "普尔 库里",
@@ -15577,6 +15609,14 @@
       "onboard_time": 1684243114,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 481669,
+      "num": 481669,
+      "word": "二公 很难评",
+      "onboard_time": 1685083051,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 481507,
@@ -16835,6 +16875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 450360,
+      "num": 450360,
+      "word": "张嘉元辟谣恋情",
+      "onboard_time": 1685084912,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 450049,
       "num": 450049,
       "word": "流浪猫用最后一口气跑宠物医院求助",
@@ -17465,6 +17513,14 @@
       "onboard_time": 1684728930,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438140,
+      "num": 200175,
+      "word": "长沙某小区房内发现5具尸体",
+      "onboard_time": 1685084912,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 438138,
@@ -21156,7 +21212,7 @@
     },
     {
       "raw_hot": 370370,
-      "num": 265115,
+      "num": 290496,
       "word": "美依礼芽体重",
       "onboard_time": 1685078614,
       "rank": 24,
@@ -26356,7 +26412,7 @@
     },
     {
       "raw_hot": 298982,
-      "num": 209812,
+      "num": 216028,
       "word": "被公司的实习生投喂了泻药",
       "onboard_time": 1685079690,
       "rank": 22,
@@ -27483,6 +27539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 287647,
+      "num": 213274,
+      "word": "谢娜组第一",
+      "onboard_time": 1685083051,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287525,
       "num": 261203,
       "word": "内娱仪态的神",
@@ -27945,6 +28009,14 @@
       "onboard_time": 1683352168,
       "rank": 25,
       "category": "游戏,综艺"
+    },
+    {
+      "raw_hot": 283393,
+      "num": 210846,
+      "word": "李佳琦直播",
+      "onboard_time": 1684243833,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 283215,
@@ -29075,6 +29147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271321,
+      "num": 207185,
+      "word": "对秋瓷炫一辈子好",
+      "onboard_time": 1685083591,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271305,
       "num": 187655,
       "word": "二次元投错票给陈冰",
@@ -30137,6 +30217,14 @@
       "onboard_time": 1684923089,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 261940,
+      "num": 325487,
+      "word": "全班最乖的就是大哥了",
+      "onboard_time": 1685081191,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 261469,
@@ -36891,14 +36979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 212211,
-      "num": 200300,
-      "word": "全班最乖的就是大哥了",
-      "onboard_time": 1685081191,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 212193,
       "num": 212193,
       "word": "现在的小区名字都好高级",
@@ -39507,6 +39587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195590,
+      "num": 195590,
+      "word": "明兰小公爷顶峰相见",
+      "onboard_time": 1685075377,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195525,
       "num": 195525,
       "word": "和闸机击了个掌就进站了",
@@ -39769,14 +39857,6 @@
       "onboard_time": 1685049673,
       "rank": 44,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 194511,
-      "num": 159439,
-      "word": "李佳琦直播",
-      "onboard_time": 1684243833,
-      "rank": 41,
-      "category": "网红"
     },
     {
       "raw_hot": 194457,
@@ -40385,6 +40465,14 @@
       "onboard_time": 1684492291,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 190837,
+      "num": 190837,
+      "word": "金发崔胜澈",
+      "onboard_time": 1685085151,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 190826,
@@ -41569,14 +41657,6 @@
       "onboard_time": 1684589368,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 183845,
-      "num": 183845,
-      "word": "明兰小公爷顶峰相见",
-      "onboard_time": 1685075377,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 183842,
@@ -43993,14 +44073,6 @@
       "onboard_time": 1684764750,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170628,
-      "num": 207936,
-      "word": "平潭一医院员工吊死天台",
-      "onboard_time": 1685082629,
-      "rank": 24,
-      "category": "社会负面"
     },
     {
       "raw_hot": 170565,
@@ -47011,6 +47083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150152,
+      "num": 206624,
+      "word": "网传广西科大一副书记酒驾撞车躲女厕",
+      "onboard_time": 1685084073,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150111,
       "num": 170943,
       "word": "九尾清清对话国家级非遗传承人",
@@ -48115,6 +48195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141980,
+      "num": 179511,
+      "word": "外国同事看Angelababy拍摄时的反应",
+      "onboard_time": 1685082450,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141970,
       "num": 141970,
       "word": "专家称鼓励生育政策还有优化空间",
@@ -49017,14 +49105,6 @@
       "onboard_time": 1684045708,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 133925,
-      "num": 179511,
-      "word": "外国同事看Angelababy拍摄时的反应",
-      "onboard_time": 1685082450,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 133769,
@@ -52267,6 +52347,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 96480,
+      "num": 141853,
+      "word": "脑脊接口让瘫痪者可独立行走",
+      "onboard_time": 1685085333,
+      "rank": 46,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 96448,
       "num": 96448,
       "word": "天上有两颗星告诉你",
@@ -55329,6 +55417,14 @@
       "onboard_time": 1683756734,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 24136,
+      "num": 156137,
+      "word": "618地图打卡功能上线",
+      "onboard_time": 1685084433,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 23678,
