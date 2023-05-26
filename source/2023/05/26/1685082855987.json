@@ -1,0 +1,410 @@
+{
+  "runTime": 1685082855987,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2083952,
+        "num": 2083952,
+        "word": "罗京民去世",
+        "onboard_time": 1685073090,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1863057,
+        "num": 1863057,
+        "word": "张译 今天你就走了你不管我们了",
+        "onboard_time": 1685073150,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 4812,
+        "num": 1636490,
+        "word": "30秒看中关村论坛展览的前沿科技",
+        "onboard_time": 1685020652,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1451541,
+        "num": 1451541,
+        "word": "面纱 难听",
+        "onboard_time": 1685079515,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1181174,
+        "num": 1181174,
+        "word": "儿子扔掉妈妈囤积的20斤陈年冻肉",
+        "onboard_time": 1685071707,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 969109,
+        "num": 969109,
+        "word": "杨幂 白玉兰",
+        "onboard_time": 1685072249,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 889537,
+        "num": 889537,
+        "word": "没认出来虞书欣",
+        "onboard_time": 1685072428,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 866656,
+        "num": 866656,
+        "word": "张颂文没有提名白玉兰",
+        "onboard_time": 1685068409,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 465366,
+        "num": 465366,
+        "word": "女子规划资源局前拉横幅为夫纳妾",
+        "onboard_time": 1685074173,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421140,
+        "num": 421140,
+        "word": "拍照真是一个好习惯",
+        "onboard_time": 1685077475,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1272418,
+        "num": 411963,
+        "word": "13岁少女网恋后遭性侵怀孕",
+        "onboard_time": 1685074292,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1189864,
+        "num": 406593,
+        "word": "教育局回应女孩手无意碰到老师被踢拽",
+        "onboard_time": 1685070748,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 829527,
+        "num": 393088,
+        "word": "白玉兰0提",
+        "onboard_time": 1685081491,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 499146,
+        "num": 373664,
+        "word": "杨紫是不是换妆造团队了",
+        "onboard_time": 1685068708,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 590539,
+        "num": 365057,
+        "word": "正午阳光赢麻了",
+        "onboard_time": 1685072428,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 438625,
+        "num": 353118,
+        "word": "秋瓷炫Ella共情吴倩",
+        "onboard_time": 1685079031,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348920,
+        "num": 348920,
+        "word": "王鹤棣悼念罗京民",
+        "onboard_time": 1685079271,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343708,
+        "num": 343708,
+        "word": "长期吃素致孩子远低于平均身高17cm",
+        "onboard_time": 1685065886,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211243,
+        "num": 211243,
+        "word": "特斯拉车顶维权女车主被判败诉",
+        "onboard_time": 1685074956,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183806,
+        "num": 210644,
+        "word": "网传长沙一小区发生命案",
+        "onboard_time": 1685067867,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346700,
+        "num": 210279,
+        "word": "美依礼芽体重",
+        "onboard_time": 1685078614,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338316,
+        "num": 209824,
+        "word": "赵丽颖飞奔向谢娜",
+        "onboard_time": 1685079271,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275141,
+        "num": 208792,
+        "word": "被公司的实习生投喂了泻药",
+        "onboard_time": 1685079690,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174787,
+        "num": 208173,
+        "word": "原来熬夜真的会掉头发",
+        "onboard_time": 1685075136,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170628,
+        "num": 207936,
+        "word": "平潭一医院员工吊死天台",
+        "onboard_time": 1685082629,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 278054,
+        "num": 207255,
+        "word": "面纱怎么改成这样",
+        "onboard_time": 1685078854,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217464,
+        "num": 206452,
+        "word": "Alin朱珠好会唱",
+        "onboard_time": 1685079812,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205991,
+        "num": 205991,
+        "word": "张译一周内获影帝再提视帝",
+        "onboard_time": 1685075015,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166562,
+        "num": 201107,
+        "word": "英雄联盟",
+        "onboard_time": 1685080770,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120349,
+        "num": 200306,
+        "word": "父女捡10万现金报警后发现是练功券",
+        "onboard_time": 1685067987,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212211,
+        "num": 200300,
+        "word": "全班最乖的就是大哥了",
+        "onboard_time": 1685081191,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200290,
+        "num": 200290,
+        "word": "朱一龙发文悼念罗京民",
+        "onboard_time": 1685079453,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198468,
+        "num": 198468,
+        "word": "吴倩三公 退赛",
+        "onboard_time": 1685022993,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198415,
+        "num": 198415,
+        "word": "山西被害男孩生父村子禁止外人进入",
+        "onboard_time": 1685068409,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193840,
+        "num": 193840,
+        "word": "谁想的床垫上跳舞",
+        "onboard_time": 1685077534,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190826,
+        "num": 190826,
+        "word": "新郎偷偷邀请新娘的爱豆到婚礼现场",
+        "onboard_time": 1685081911,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147964,
+        "num": 186671,
+        "word": "C919",
+        "onboard_time": 1685072850,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186059,
+        "num": 186059,
+        "word": "赵露思超爱星黛露",
+        "onboard_time": 1685080353,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134869,
+        "num": 179742,
+        "word": "陌生爷爷塞给我的十元钱",
+        "onboard_time": 1685079993,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73974,
+        "num": 179586,
+        "word": "今天618预售第一天",
+        "onboard_time": 1685080829,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179525,
+        "num": 179525,
+        "word": "第28届白玉兰入围名单",
+        "onboard_time": 1685070147,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133925,
+        "num": 179511,
+        "word": "外国同事看Angelababy拍摄时的反应",
+        "onboard_time": 1685082450,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124184,
+        "num": 179440,
+        "word": "ENHYPEN中国恩静发文",
+        "onboard_time": 1685073577,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123639,
+        "num": 179433,
+        "word": "我离开我自己",
+        "onboard_time": 1685082210,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115619,
+        "num": 179376,
+        "word": "退伍老兵将废弃纸箱堆成豆腐块",
+        "onboard_time": 1685082210,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110541,
+        "num": 179333,
+        "word": "张彬彬一手撑托起了我的cp",
+        "onboard_time": 1685076097,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108406,
+        "num": 179299,
+        "word": "开成白牡丹的大鸨找到了心上鸟",
+        "onboard_time": 1685081792,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106735,
+        "num": 179251,
+        "word": "女生手无意碰到老师被脚踢揪进教室",
+        "onboard_time": 1685065886,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102529,
+        "num": 179197,
+        "word": "剑网3联动虹猫蓝兔",
+        "onboard_time": 1685074956,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 42025,
+        "num": 179163,
+        "word": "凯尔特人2比3热火",
+        "onboard_time": 1685070210,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美将就中美经贸关系等问题进行交流#"
+    }
+  }
+}

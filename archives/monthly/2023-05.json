@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685082086415,
+  "endTime": 1685082855987,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -4243,6 +4243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1451541,
+      "num": 1451541,
+      "word": "面纱 难听",
+      "onboard_time": 1685079515,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1446609,
       "num": 1446609,
       "word": "4月份人民币存款减少4609亿元",
@@ -4833,14 +4841,6 @@
       "onboard_time": 1683607115,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1346804,
-      "num": 1346804,
-      "word": "面纱 难听",
-      "onboard_time": 1685079515,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1344886,
@@ -9089,6 +9089,14 @@
       "onboard_time": 1684419691,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 829527,
+      "num": 393088,
+      "word": "白玉兰0提",
+      "onboard_time": 1685081491,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 828159,
@@ -17427,6 +17435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 438625,
+      "num": 400282,
+      "word": "秋瓷炫Ella共情吴倩",
+      "onboard_time": 1685079031,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 438536,
       "num": 438536,
       "word": "妻子去世10年男子仍帮老丈人插秧",
@@ -17505,14 +17521,6 @@
       "onboard_time": 1684569625,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 436052,
-      "num": 400282,
-      "word": "秋瓷炫Ella共情吴倩",
-      "onboard_time": 1685079031,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 435937,
@@ -18289,6 +18297,14 @@
       "onboard_time": 1683438988,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 421140,
+      "num": 421140,
+      "word": "拍照真是一个好习惯",
+      "onboard_time": 1685077475,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 421001,
@@ -20635,14 +20651,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 377856,
-      "num": 377856,
-      "word": "拍照真是一个好习惯",
-      "onboard_time": 1685077475,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 377845,
       "num": 377845,
       "word": "女子帮闺蜜调解家庭矛盾出轨其丈夫",
@@ -22961,14 +22969,6 @@
       "onboard_time": 1683088051,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 344590,
-      "num": 159710,
-      "word": "白玉兰0提",
-      "onboard_time": 1685081491,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 344583,
@@ -29884,7 +29884,7 @@
     },
     {
       "raw_hot": 264270,
-      "num": 159319,
+      "num": 206452,
       "word": "Alin朱珠好会唱",
       "onboard_time": 1685079812,
       "rank": 26,
@@ -36436,7 +36436,7 @@
     },
     {
       "raw_hot": 215250,
-      "num": 155325,
+      "num": 200290,
       "word": "朱一龙发文悼念罗京民",
       "onboard_time": 1685079453,
       "rank": 33,
@@ -36889,6 +36889,14 @@
       "onboard_time": 1683777627,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 212211,
+      "num": 200300,
+      "word": "全班最乖的就是大哥了",
+      "onboard_time": 1685081191,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 212193,
@@ -40379,6 +40387,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 190826,
+      "num": 190826,
+      "word": "新郎偷偷邀请新娘的爱豆到婚礼现场",
+      "onboard_time": 1685081911,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190811,
       "num": 190811,
       "word": "被不喜欢的人喜欢是什么感受",
@@ -41273,6 +41289,14 @@
       "onboard_time": 1684472015,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186059,
+      "num": 186059,
+      "word": "赵露思超爱星黛露",
+      "onboard_time": 1685080353,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 186035,
@@ -42537,14 +42561,6 @@
       "onboard_time": 1684450819,
       "rank": 37,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 178360,
-      "num": 154330,
-      "word": "赵露思超爱星黛露",
-      "onboard_time": 1685080353,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 178343,
@@ -43979,6 +43995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170628,
+      "num": 207936,
+      "word": "平潭一医院员工吊死天台",
+      "onboard_time": 1685082629,
+      "rank": 24,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 170565,
       "num": 170565,
       "word": "陈晓毛晓彤看过芙对手戏时的反应",
@@ -44472,6 +44496,14 @@
       "word": "无畏切C的大刀有40米长",
       "onboard_time": 1683035498,
       "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 166562,
+      "num": 201107,
+      "word": "英雄联盟",
+      "onboard_time": 1684594175,
+      "rank": 46,
       "category": "游戏"
     },
     {
@@ -45299,14 +45331,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 160748,
-      "num": 160748,
-      "word": "英雄联盟",
-      "onboard_time": 1684594175,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 160723,
       "num": 160723,
       "word": "宋亚轩斗舞",
@@ -45892,7 +45916,7 @@
     },
     {
       "raw_hot": 157117,
-      "num": 157117,
+      "num": 179742,
       "word": "陌生爷爷塞给我的十元钱",
       "onboard_time": 1685079993,
       "rank": 28,
@@ -46241,14 +46265,6 @@
       "onboard_time": 1683969688,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154931,
-      "num": 154931,
-      "word": "全班最乖的就是大哥了",
-      "onboard_time": 1685081191,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 154928,
@@ -49003,6 +49019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133925,
+      "num": 179511,
+      "word": "外国同事看Angelababy拍摄时的反应",
+      "onboard_time": 1685082450,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133769,
       "num": 310899,
       "word": "好人像选Reno",
@@ -50283,6 +50307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123639,
+      "num": 179433,
+      "word": "我离开我自己",
+      "onboard_time": 1685082210,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123629,
       "num": 123629,
       "word": "护心 太空上放烟花",
@@ -50593,14 +50625,6 @@
       "onboard_time": 1685068048,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120585,
-      "num": 120585,
-      "word": "新郎偷偷邀请新娘的爱豆到婚礼现场",
-      "onboard_time": 1685081911,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 120534,
@@ -51041,6 +51065,14 @@
       "onboard_time": 1684913731,
       "rank": 46,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 115619,
+      "num": 179376,
+      "word": "退伍老兵将废弃纸箱堆成豆腐块",
+      "onboard_time": 1685082210,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115590,
@@ -51515,6 +51547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108406,
+      "num": 179299,
+      "word": "开成白牡丹的大鸨找到了心上鸟",
+      "onboard_time": 1685081792,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108026,
       "num": 108026,
       "word": "小满文案",
@@ -51953,14 +51993,6 @@
       "onboard_time": 1682897240,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 102118,
-      "num": 102118,
-      "word": "开成白牡丹的大鸨找到了心上鸟",
-      "onboard_time": 1685081792,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102038,
@@ -53323,6 +53355,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 73974,
+      "num": 179586,
+      "word": "今天618预售第一天",
+      "onboard_time": 1685080829,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73828,
       "num": 73828,
       "word": "再热血的动漫也不及现实里的青春",
@@ -53336,14 +53376,6 @@
       "word": "家庭用车怎么选",
       "onboard_time": 1684902333,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73709,
-      "num": 121546,
-      "word": "今天618预售第一天",
-      "onboard_time": 1685080829,
-      "rank": 39,
       "category": "社会新闻"
     },
     {

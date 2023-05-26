@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1685082086415,
+  "endTime": 1685082855987,
   "band_list": [
     {
       "raw_hot": 4241479,
@@ -683,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1451541,
+      "num": 1451541,
+      "word": "面纱 难听",
+      "onboard_time": 1685079515,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1446042,
       "num": 1106054,
       "word": "杨紫紫裙盘发",
@@ -817,14 +825,6 @@
       "onboard_time": 1684760549,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1346804,
-      "num": 1346804,
-      "word": "面纱 难听",
-      "onboard_time": 1685079515,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1344886,
@@ -1729,6 +1729,14 @@
       "onboard_time": 1684715425,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 829527,
+      "num": 393088,
+      "word": "白玉兰0提",
+      "onboard_time": 1685081491,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 825280,
@@ -3315,20 +3323,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 438625,
+      "num": 400282,
+      "word": "秋瓷炫Ella共情吴倩",
+      "onboard_time": 1685079031,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 438439,
       "num": 438439,
       "word": "13岁少女被邻居性侵4名嫌疑人被抓",
       "onboard_time": 1684728930,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 436052,
-      "num": 400282,
-      "word": "秋瓷炫Ella共情吴倩",
-      "onboard_time": 1685079031,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 434110,
@@ -3441,6 +3449,14 @@
       "onboard_time": 1685014768,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421140,
+      "num": 421140,
+      "word": "拍照真是一个好习惯",
+      "onboard_time": 1685077475,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 421001,
@@ -3899,14 +3915,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 377856,
-      "num": 377856,
-      "word": "拍照真是一个好习惯",
-      "onboard_time": 1685077475,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 377798,
       "num": 377798,
       "word": "羊倌为救坠崖国保差点弄丢几百只羊",
@@ -4353,14 +4361,6 @@
       "onboard_time": 1684894405,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 344590,
-      "num": 159710,
-      "word": "白玉兰0提",
-      "onboard_time": 1685081491,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 344583,
@@ -5852,7 +5852,7 @@
     },
     {
       "raw_hot": 264270,
-      "num": 159319,
+      "num": 206452,
       "word": "Alin朱珠好会唱",
       "onboard_time": 1685079812,
       "rank": 26,
@@ -7220,7 +7220,7 @@
     },
     {
       "raw_hot": 215250,
-      "num": 155325,
+      "num": 200290,
       "word": "朱一龙发文悼念罗京民",
       "onboard_time": 1685079453,
       "rank": 33,
@@ -7305,6 +7305,14 @@
       "onboard_time": 1684916310,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 212211,
+      "num": 200300,
+      "word": "全班最乖的就是大哥了",
+      "onboard_time": 1685081191,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 212193,
@@ -8003,6 +8011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190826,
+      "num": 190826,
+      "word": "新郎偷偷邀请新娘的爱豆到婚礼现场",
+      "onboard_time": 1685081911,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190659,
       "num": 190659,
       "word": "大学生种地成功送母校1700箱辣椒",
@@ -8209,6 +8225,14 @@
       "onboard_time": 1685035758,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186059,
+      "num": 186059,
+      "word": "赵露思超爱星黛露",
+      "onboard_time": 1685080353,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 185964,
@@ -8515,14 +8539,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 178360,
-      "num": 154330,
-      "word": "赵露思超爱星黛露",
-      "onboard_time": 1685080353,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 178312,
       "num": 178312,
       "word": "高速上冒险救人的原来是00后",
@@ -8795,6 +8811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170628,
+      "num": 207936,
+      "word": "平潭一医院员工吊死天台",
+      "onboard_time": 1685082629,
+      "rank": 24,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 170565,
       "num": 170565,
       "word": "陈晓毛晓彤看过芙对手戏时的反应",
@@ -8857,6 +8881,14 @@
       "onboard_time": 1684730493,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 166562,
+      "num": 201107,
+      "word": "英雄联盟",
+      "onboard_time": 1685080770,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 165524,
@@ -9140,7 +9172,7 @@
     },
     {
       "raw_hot": 157117,
-      "num": 157117,
+      "num": 179742,
       "word": "陌生爷爷塞给我的十元钱",
       "onboard_time": 1685079993,
       "rank": 28,
@@ -9217,14 +9249,6 @@
       "onboard_time": 1684984288,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154931,
-      "num": 154931,
-      "word": "全班最乖的就是大哥了",
-      "onboard_time": 1685081191,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 154928,
@@ -9619,6 +9643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133925,
+      "num": 179511,
+      "word": "外国同事看Angelababy拍摄时的反应",
+      "onboard_time": 1685082450,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133905,
       "num": 133905,
       "word": "吴京出走半生归来仍是这张图",
@@ -9835,12 +9867,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 123644,
-      "num": 123644,
-      "word": "英雄联盟",
-      "onboard_time": 1685080770,
-      "rank": 38,
-      "category": "游戏"
+      "raw_hot": 123639,
+      "num": 179433,
+      "word": "我离开我自己",
+      "onboard_time": 1685082210,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 123176,
@@ -9881,14 +9913,6 @@
       "onboard_time": 1685068048,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120585,
-      "num": 120585,
-      "word": "新郎偷偷邀请新娘的爱豆到婚礼现场",
-      "onboard_time": 1685081911,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 120509,
@@ -9971,6 +9995,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 115619,
+      "num": 179376,
+      "word": "退伍老兵将废弃纸箱堆成豆腐块",
+      "onboard_time": 1685082210,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115156,
       "num": 115156,
       "word": "GALA LNG",
@@ -10049,6 +10081,14 @@
       "onboard_time": 1684944864,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 108406,
+      "num": 179299,
+      "word": "开成白牡丹的大鸨找到了心上鸟",
+      "onboard_time": 1685081792,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107973,
@@ -10145,14 +10185,6 @@
       "onboard_time": 1684834769,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 102118,
-      "num": 102118,
-      "word": "开成白牡丹的大鸨找到了心上鸟",
-      "onboard_time": 1685081792,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101829,
@@ -10395,19 +10427,19 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 73974,
+      "num": 179586,
+      "word": "今天618预售第一天",
+      "onboard_time": 1685080829,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73778,
       "num": 206869,
       "word": "家庭用车怎么选",
       "onboard_time": 1684902333,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73709,
-      "num": 121546,
-      "word": "今天618预售第一天",
-      "onboard_time": 1685080829,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
