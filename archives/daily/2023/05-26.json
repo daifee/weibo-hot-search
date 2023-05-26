@@ -1,6 +1,6 @@
 {
   "startTime": 1685031732217,
-  "endTime": 1685100806247,
+  "endTime": 1685104308728,
   "band_list": [
     {
       "raw_hot": 4241479,
@@ -81,6 +81,14 @@
       "onboard_time": 1685021852,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2083888,
+      "num": 2083888,
+      "word": "狂飙",
+      "onboard_time": 1685097391,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 1911286,
@@ -203,19 +211,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1334989,
+      "num": 1334989,
+      "word": "白敬亭 五月天演唱会",
+      "onboard_time": 1685101110,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1286441,
       "num": 536330,
       "word": "王鹤棣虞书欣 二搭",
       "onboard_time": 1685022334,
       "rank": 10,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1252252,
-      "num": 1252252,
-      "word": "狂飙",
-      "onboard_time": 1685097391,
-      "rank": 8,
       "category": "影视"
     },
     {
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1177428,
+      "num": 1177428,
+      "word": "妻子离婚时才知丈夫年入300万",
+      "onboard_time": 1685098051,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1149738,
       "num": 1149738,
       "word": "白玉兰提名",
@@ -257,14 +273,6 @@
       "onboard_time": 1685087310,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1076732,
-      "num": 1076732,
-      "word": "妻子离婚时才知丈夫年入300万",
-      "onboard_time": 1685098051,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1055216,
@@ -331,6 +339,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 896798,
+      "num": 896798,
+      "word": "女子诞下百万分之一镜面宝宝",
+      "onboard_time": 1685098653,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 894385,
       "num": 894385,
       "word": "五月天嘉宾",
@@ -387,12 +403,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 743910,
+      "num": 743910,
+      "word": "娄艺潇回复网友不参加浪姐的原因",
+      "onboard_time": 1685097690,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 705772,
       "num": 705772,
       "word": "张嘉元辟谣恋情",
       "onboard_time": 1685084912,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 689511,
+      "num": 689511,
+      "word": "王鹤棣田曦薇新剧开始招募文替",
+      "onboard_time": 1685098590,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 683415,
@@ -409,6 +441,14 @@
       "onboard_time": 1685089711,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 616238,
+      "num": 516022,
+      "word": "五月天演唱会",
+      "onboard_time": 1685093793,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 614923,
@@ -435,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 561941,
+      "num": 314306,
+      "word": "黄子韬淘汰谢娜",
+      "onboard_time": 1685102609,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 540758,
       "num": 540758,
       "word": "金星 橙汁",
@@ -449,14 +497,6 @@
       "onboard_time": 1685083591,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 539856,
-      "num": 539856,
-      "word": "王鹤棣田曦薇新剧开始招募文替",
-      "onboard_time": 1685098590,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 522474,
@@ -475,20 +515,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 489797,
+      "num": 476525,
+      "word": "五月天开场曲盛夏光年",
+      "onboard_time": 1685103027,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 481669,
       "num": 481669,
       "word": "二公 很难评",
       "onboard_time": 1685083051,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 476707,
-      "num": 476707,
-      "word": "五月天演唱会",
-      "onboard_time": 1685093793,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 473614,
@@ -523,12 +563,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 453836,
-      "num": 453836,
-      "word": "女子诞下百万分之一镜面宝宝",
-      "onboard_time": 1685098653,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 452021,
+      "num": 310361,
+      "word": "奔跑吧这回真的有剧本",
+      "onboard_time": 1685102668,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 438625,
@@ -545,14 +585,6 @@
       "onboard_time": 1685095294,
       "rank": 30,
       "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 421351,
-      "num": 421351,
-      "word": "娄艺潇回复网友不参加浪姐的原因",
-      "onboard_time": 1685097690,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 421140,
@@ -763,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330028,
+      "num": 330028,
+      "word": "王楚钦孙颖莎混双冠军",
+      "onboard_time": 1685101351,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 329480,
       "num": 329480,
       "word": "武汉小学生校内被撞致死细节披露",
@@ -777,6 +817,14 @@
       "onboard_time": 1685095411,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 328139,
+      "num": 328139,
+      "word": "妈妈翻出13年前手机送女儿当儿童机",
+      "onboard_time": 1685100511,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 324036,
@@ -811,6 +859,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 314333,
+      "num": 314333,
+      "word": "李佳琦618",
+      "onboard_time": 1685102970,
+      "rank": 19,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 309659,
+      "num": 182146,
+      "word": "我妈死后还在催婚",
+      "onboard_time": 1685102550,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 306573,
       "num": 253510,
       "word": "杨蓉大山的女儿没提名",
@@ -833,6 +897,22 @@
       "onboard_time": 1685079690,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 296513,
+      "num": 296513,
+      "word": "狂飙官博白玉兰入围文案",
+      "onboard_time": 1685103150,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 296122,
+      "num": 188307,
+      "word": "人在鸟巢门口",
+      "onboard_time": 1685101051,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 295318,
@@ -987,6 +1067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 266504,
+      "num": 247034,
+      "word": "灿烂灿烂 上星央八",
+      "onboard_time": 1685100209,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 266271,
       "num": 266271,
       "word": "家属还原山西男童死亡案细节",
@@ -1049,6 +1137,14 @@
       "onboard_time": 1685081191,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 260631,
+      "num": 181625,
+      "word": "公诉全员被闭麦",
+      "onboard_time": 1685101351,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 259188,
@@ -1155,20 +1251,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 247034,
-      "num": 247034,
-      "word": "灿烂灿烂 上星央八",
-      "onboard_time": 1685100209,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 242814,
       "num": 204413,
       "word": "张元英低马尾",
       "onboard_time": 1685070507,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241946,
+      "num": 181202,
+      "word": "梦中的那片海",
+      "onboard_time": 1685102310,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 241611,
@@ -1579,6 +1675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188677,
+      "num": 188677,
+      "word": "星穹铁道",
+      "onboard_time": 1685102790,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188056,
       "num": 188056,
       "word": "风吹半夏",
@@ -1625,6 +1729,14 @@
       "onboard_time": 1685023594,
       "rank": 23,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 185684,
+      "num": 176443,
+      "word": "李健音乐会",
+      "onboard_time": 1685104110,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 184575,
@@ -1811,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161781,
+      "num": 142819,
+      "word": "罗渽民粉发",
+      "onboard_time": 1685101650,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 160128,
       "num": 160128,
       "word": "租客仅剩13元花11元买瓜探望房东",
@@ -1867,6 +1987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154159,
+      "num": 154159,
+      "word": "星穹铁道直播",
+      "onboard_time": 1685102911,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 151436,
       "num": 151436,
       "word": "女明星古早照近照对比",
@@ -1897,6 +2025,14 @@
       "onboard_time": 1685096669,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146985,
+      "num": 182512,
+      "word": "国乒德班世乒赛首金",
+      "onboard_time": 1685101891,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 142814,
@@ -1945,14 +2081,6 @@
       "onboard_time": 1685025274,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137557,
-      "num": 137557,
-      "word": "妈妈翻出13年前手机送女儿当儿童机",
-      "onboard_time": 1685100511,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136579,
@@ -2065,6 +2193,14 @@
       "onboard_time": 1685015787,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125283,
+      "num": 153506,
+      "word": "上海再现野生四不像",
+      "onboard_time": 1685101351,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123639,
@@ -2201,6 +2337,14 @@
       "onboard_time": 1685004689,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87608,
+      "num": 140912,
+      "word": "年少时不能遇见太惊艳的猴",
+      "onboard_time": 1685104110,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 86728,
