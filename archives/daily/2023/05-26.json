@@ -1,6 +1,6 @@
 {
   "startTime": 1685031732217,
-  "endTime": 1685086416359,
+  "endTime": 1685089237809,
   "band_list": [
     {
       "raw_hot": 4241479,
@@ -17,6 +17,14 @@
       "onboard_time": 1685073150,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3172288,
+      "num": 3172288,
+      "word": "姑娘嗓子疼从就诊到去世仅10分钟",
+      "onboard_time": 1685083351,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3041651,
@@ -59,20 +67,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1941207,
-      "num": 1941207,
-      "word": "姑娘嗓子疼从就诊到去世仅10分钟",
-      "onboard_time": 1685083351,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1905250,
       "num": 1905250,
       "word": "平安北京 无语死了",
       "onboard_time": 1685027675,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1884831,
+      "num": 1884831,
+      "word": "长沙某小区房内发现5具尸体",
+      "onboard_time": 1685084912,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1695268,
@@ -185,14 +193,6 @@
       "onboard_time": 1685072428,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1174083,
-      "num": 733262,
-      "word": "长沙某小区房内发现5具尸体",
-      "onboard_time": 1685084912,
-      "rank": 30,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1149738,
@@ -323,6 +323,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 540591,
+      "num": 455219,
+      "word": "对秋瓷炫一辈子好",
+      "onboard_time": 1685083591,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 522474,
       "num": 522474,
       "word": "韩亚航空一客机舱门在空中打开",
@@ -401,6 +409,14 @@
       "onboard_time": 1685077415,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 410924,
+      "num": 320221,
+      "word": "高考找了很硬的关系",
+      "onboard_time": 1685085811,
+      "rank": 23,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 406386,
@@ -507,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 367467,
+      "num": 367467,
+      "word": "18层地狱 1到18都是地狱",
+      "onboard_time": 1685087310,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 365943,
       "num": 365943,
       "word": "上海电视节",
@@ -587,6 +611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 315952,
+      "num": 315952,
+      "word": "急性会厌炎",
+      "onboard_time": 1685087494,
+      "rank": 22,
+      "category": "其它"
+    },
+    {
       "raw_hot": 315087,
       "num": 315087,
       "word": "水月洞天主演现状",
@@ -601,14 +633,6 @@
       "onboard_time": 1685079690,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 297240,
-      "num": 297240,
-      "word": "对秋瓷炫一辈子好",
-      "onboard_time": 1685083591,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 295318,
@@ -635,8 +659,24 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 289536,
+      "num": 289536,
+      "word": "金发崔胜澈",
+      "onboard_time": 1685085151,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 288116,
+      "num": 288116,
+      "word": "老莫走好",
+      "onboard_time": 1685086230,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287647,
-      "num": 213274,
+      "num": 226144,
       "word": "谢娜组第一",
       "onboard_time": 1685083051,
       "rank": 25,
@@ -683,12 +723,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 280127,
-      "num": 195216,
-      "word": "金发崔胜澈",
-      "onboard_time": 1685085151,
-      "rank": 35,
-      "category": "作品衍生"
+      "raw_hot": 273945,
+      "num": 273945,
+      "word": "西藏境内发现亚洲第一高树",
+      "onboard_time": 1685085270,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271213,
+      "num": 271213,
+      "word": "张艺兴面纱vs乘风面纱",
+      "onboard_time": 1685085871,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 270710,
@@ -979,14 +1027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 224595,
-      "num": 224595,
-      "word": "高考找了很硬的关系",
-      "onboard_time": 1685085811,
-      "rank": 23,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 224048,
       "num": 188129,
       "word": "曹骏说不知道娱乐圈要什么样的性格",
@@ -1019,6 +1059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 217249,
+      "num": 271271,
+      "word": "这回海里全知道人类会开核桃了",
+      "onboard_time": 1685086530,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216840,
       "num": 172921,
       "word": "白玉兰遗珠",
@@ -1033,6 +1081,14 @@
       "onboard_time": 1685079453,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214744,
+      "num": 214744,
+      "word": "松狮成了奶奶用来盘线的工具狗",
+      "onboard_time": 1685086830,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 212193,
@@ -1113,6 +1169,14 @@
       "onboard_time": 1685025097,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199847,
+      "num": 199847,
+      "word": "你上学时被体罚过吗",
+      "onboard_time": 1685088510,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 198359,
@@ -1227,20 +1291,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 184605,
-      "num": 171672,
-      "word": "西藏境内发现亚洲第一高树",
-      "onboard_time": 1685085270,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184575,
       "num": 184575,
       "word": "粉丝辟谣王鹤棣虞书欣二搭",
       "onboard_time": 1685061212,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184538,
+      "num": 206624,
+      "word": "网传广西科大一副书记酒驾撞车躲女厕",
+      "onboard_time": 1685084073,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184253,
@@ -1339,14 +1403,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 170569,
-      "num": 206624,
-      "word": "网传广西科大一副书记酒驾撞车躲女厕",
-      "onboard_time": 1685084073,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169580,
       "num": 169580,
       "word": "心在鸟巢",
@@ -1385,14 +1441,6 @@
       "onboard_time": 1685071109,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161199,
-      "num": 161199,
-      "word": "张艺兴面纱vs乘风面纱",
-      "onboard_time": 1685085871,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 160128,
@@ -1483,14 +1531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140742,
-      "num": 140742,
-      "word": "老莫走好",
-      "onboard_time": 1685086230,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138860,
       "num": 138860,
       "word": "女子心疼老人买光鹅蛋回家发现全坏",
@@ -1547,6 +1587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 130986,
+      "num": 130986,
+      "word": "chatgpt",
+      "onboard_time": 1685088213,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 130920,
       "num": 149792,
       "word": "教育局回应老教师办公室大音量看视频",
@@ -1571,12 +1619,28 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 129882,
+      "num": 129882,
+      "word": "张杰安慰谢娜",
+      "onboard_time": 1685089111,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128922,
       "num": 154912,
       "word": "C919本周日商业航班首航",
       "onboard_time": 1685077835,
       "rank": 48,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 127944,
+      "num": 127944,
+      "word": "护考",
+      "onboard_time": 1685086411,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 126673,
@@ -1593,6 +1657,14 @@
       "onboard_time": 1685015787,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125338,
+      "num": 125338,
+      "word": "广东三支一扶",
+      "onboard_time": 1685089170,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 123639,
@@ -1689,6 +1761,14 @@
       "onboard_time": 1685023232,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103758,
+      "num": 378506,
+      "word": "年龄带给人的改变是什么",
+      "onboard_time": 1685088510,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 99556,
