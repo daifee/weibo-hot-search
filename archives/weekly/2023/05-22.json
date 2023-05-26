@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1685090006378,
+  "endTime": 1685092582586,
   "band_list": [
     {
       "raw_hot": 4241479,
@@ -185,6 +185,14 @@
       "onboard_time": 1684738347,
       "rank": 4,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2623363,
+      "num": 557534,
+      "word": "安崎 正常恋爱",
+      "onboard_time": 1685091271,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2568914,
@@ -457,6 +465,14 @@
       "onboard_time": 1684885767,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1721095,
+      "num": 1721095,
+      "word": "男教师多次性侵13岁女孩获刑18年",
+      "onboard_time": 1685089769,
+      "rank": 37,
+      "category": "社会负面,教育"
     },
     {
       "raw_hot": 1716528,
@@ -1193,6 +1209,14 @@
       "onboard_time": 1684835309,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1144244,
+      "num": 1144244,
+      "word": "18层地狱 1到18都是地狱",
+      "onboard_time": 1685087310,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 1143736,
@@ -2003,6 +2027,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 732669,
+      "num": 732669,
+      "word": "五月天嘉宾",
+      "onboard_time": 1685090190,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 732233,
       "num": 732233,
       "word": "阿里巴巴今年计划招聘15000人",
@@ -2083,12 +2115,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 709321,
+      "num": 556728,
+      "word": "香港演员怒斥国泰空乘歧视乘客",
+      "onboard_time": 1685090070,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 705772,
       "num": 705772,
       "word": "张嘉元辟谣恋情",
       "onboard_time": 1685084912,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 703237,
+      "num": 703237,
+      "word": "警方通报长沙一家5口死亡",
+      "onboard_time": 1685091208,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 695511,
@@ -2268,7 +2316,7 @@
     },
     {
       "raw_hot": 628423,
-      "num": 449068,
+      "num": 519545,
       "word": "公诉定档",
       "onboard_time": 1685089711,
       "rank": 10,
@@ -2545,14 +2593,6 @@
       "onboard_time": 1684856852,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 571068,
-      "num": 445460,
-      "word": "18层地狱 1到18都是地狱",
-      "onboard_time": 1685087310,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 570411,
@@ -4091,6 +4131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 373611,
+      "num": 281731,
+      "word": "张杰安慰谢娜",
+      "onboard_time": 1685089111,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 373537,
       "num": 373537,
       "word": "面纱怎么改成这样",
@@ -5105,6 +5153,14 @@
       "onboard_time": 1684984170,
       "rank": 37,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 302558,
+      "num": 271440,
+      "word": "美依礼芽有新翻译了",
+      "onboard_time": 1685089952,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 302534,
@@ -6323,14 +6379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 250949,
-      "num": 194332,
-      "word": "张杰安慰谢娜",
-      "onboard_time": 1685089111,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 250504,
       "num": 250504,
       "word": "巴厘岛",
@@ -6369,6 +6417,14 @@
       "onboard_time": 1684796961,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247268,
+      "num": 271271,
+      "word": "这回海里全知道人类会开核桃了",
+      "onboard_time": 1685086530,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 247136,
@@ -7171,6 +7227,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 223026,
+      "num": 223026,
+      "word": "迪丽热巴安旎来了",
+      "onboard_time": 1685092110,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 222923,
       "num": 222923,
       "word": "香蕉先生不睡觉定档",
@@ -7219,6 +7283,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 221035,
+      "num": 221035,
+      "word": "大反派 不提名",
+      "onboard_time": 1685092110,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 220919,
       "num": 218210,
       "word": "原来长相思十年前就找过杨紫",
@@ -7233,14 +7305,6 @@
       "onboard_time": 1684834588,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220726,
-      "num": 271271,
-      "word": "这回海里全知道人类会开核桃了",
-      "onboard_time": 1685086530,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 220552,
@@ -7273,6 +7337,14 @@
       "onboard_time": 1684826669,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 219450,
+      "num": 219450,
+      "word": "长风渡下证",
+      "onboard_time": 1685090010,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 219204,
@@ -8627,6 +8699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 180606,
+      "num": 180606,
+      "word": "公诉双台上星",
+      "onboard_time": 1685092355,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 180474,
       "num": 180474,
       "word": "小慧君已注册个人同名商标",
@@ -8988,7 +9068,7 @@
     },
     {
       "raw_hot": 171052,
-      "num": 171052,
+      "num": 184754,
       "word": "chatgpt",
       "onboard_time": 1685088213,
       "rank": 44,
@@ -9443,14 +9523,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 155133,
-      "num": 155133,
-      "word": "男教师多次性侵13岁女孩获刑18年",
-      "onboard_time": 1685089769,
-      "rank": 37,
-      "category": "社会负面,教育"
-    },
-    {
       "raw_hot": 155080,
       "num": 792485,
       "word": "Angelababy贝克汉姆在澳门拍什么",
@@ -9489,6 +9561,14 @@
       "onboard_time": 1684813349,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 154294,
+      "num": 221193,
+      "word": "长沙惊现魔法音乐节",
+      "onboard_time": 1685091393,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154085,
@@ -9689,6 +9769,14 @@
       "onboard_time": 1684841370,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 142814,
+      "num": 184746,
+      "word": "视障女孩为自救9年写120首歌",
+      "onboard_time": 1685092110,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142508,
@@ -10012,7 +10100,7 @@
     },
     {
       "raw_hot": 128922,
-      "num": 154912,
+      "num": 1610148,
       "word": "C919本周日商业航班首航",
       "onboard_time": 1685077835,
       "rank": 48,
@@ -10041,14 +10129,6 @@
       "onboard_time": 1684748248,
       "rank": 47,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 127767,
-      "num": 127767,
-      "word": "美依礼芽有新翻译了",
-      "onboard_time": 1685089952,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 127430,
@@ -10129,6 +10209,14 @@
       "onboard_time": 1685071949,
       "rank": 47,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 122933,
+      "num": 184735,
+      "word": "竟然被一个大爷帅到了",
+      "onboard_time": 1685091872,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 121264,
@@ -11243,6 +11331,9 @@
     },
     {
       "word": "#中美将就中美经贸关系等问题进行交流#"
+    },
+    {
+      "word": "#关注2023中关村论坛#"
     }
   ]
 }
