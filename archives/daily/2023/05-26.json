@@ -1,10 +1,10 @@
 {
   "startTime": 1685031732217,
-  "endTime": 1685068476041,
+  "endTime": 1685068996369,
   "band_list": [
     {
-      "raw_hot": 2331037,
-      "num": 2331037,
+      "raw_hot": 2589633,
+      "num": 2589633,
       "word": "女生手无意碰到老师被脚踢揪进教室",
       "onboard_time": 1685065886,
       "rank": 0,
@@ -59,8 +59,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1056274,
-      "num": 1056274,
+      "raw_hot": 1149738,
+      "num": 1149738,
       "word": "白玉兰提名",
       "onboard_time": 1685058387,
       "rank": 8,
@@ -91,20 +91,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 971874,
+      "num": 711167,
+      "word": "东方青苍",
+      "onboard_time": 1685059110,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 948489,
+      "num": 948489,
+      "word": "长期吃素致孩子远低于平均身高17cm",
+      "onboard_time": 1685065886,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 940315,
       "num": 940315,
       "word": "黄璐吐槽国泰航空服务",
       "onboard_time": 1685060251,
       "rank": 9,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 906409,
-      "num": 711167,
-      "word": "东方青苍",
-      "onboard_time": 1685059110,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 904593,
@@ -137,14 +145,6 @@
       "onboard_time": 1685022393,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 750217,
-      "num": 750217,
-      "word": "长期吃素致孩子远低于平均身高17cm",
-      "onboard_time": 1685065886,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 614923,
@@ -235,6 +235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 365943,
+      "num": 365943,
+      "word": "上海电视节",
+      "onboard_time": 1685068348,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 341711,
       "num": 319999,
       "word": "舅舅住院杭州甥女不想掏钱被指小气",
@@ -243,12 +251,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338027,
+      "num": 338027,
+      "word": "张颂文没有提名白玉兰",
+      "onboard_time": 1685068409,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 336368,
       "num": 336368,
       "word": "司机下车查看轮胎遭后车撞飞身亡",
       "onboard_time": 1685026293,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336047,
+      "num": 336047,
+      "word": "网传长沙一小区发生命案",
+      "onboard_time": 1685067867,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334989,
+      "num": 334989,
+      "word": "赵丽颖提名白玉兰最佳女主角",
+      "onboard_time": 1685068467,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 331761,
@@ -267,14 +299,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 322869,
-      "num": 322869,
-      "word": "赵丽颖提名白玉兰最佳女主角",
-      "onboard_time": 1685068467,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 315087,
       "num": 315087,
       "word": "水月洞天主演现状",
@@ -289,6 +313,14 @@
       "onboard_time": 1685021491,
       "rank": 27,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 288807,
+      "num": 230781,
+      "word": "山西被害男孩生父村子禁止外人进入",
+      "onboard_time": 1685068409,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285144,
@@ -315,20 +347,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268232,
-      "num": 268232,
-      "word": "上海电视节",
-      "onboard_time": 1685068348,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 266271,
       "num": 266271,
       "word": "家属还原山西男童死亡案细节",
       "onboard_time": 1685030131,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264316,
+      "num": 264316,
+      "word": "吴京易烊千玺打招呼",
+      "onboard_time": 1685065708,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 263655,
@@ -339,19 +371,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 260208,
-      "num": 260208,
-      "word": "吴京易烊千玺打招呼",
-      "onboard_time": 1685065708,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 259188,
       "num": 259188,
       "word": "高三学生举班主任海报拍毕业照",
       "onboard_time": 1685060490,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257547,
+      "num": 400002,
+      "word": "vivo行业首创粒子水墨工艺",
+      "onboard_time": 1685067809,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -387,11 +419,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 240836,
-      "num": 205349,
-      "word": "网传长沙一小区发生命案",
-      "onboard_time": 1685067867,
-      "rank": 30,
+      "raw_hot": 248321,
+      "num": 248321,
+      "word": "父女捡10万现金报警后发现是练功券",
+      "onboard_time": 1685067987,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -409,6 +441,14 @@
       "onboard_time": 1685056343,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238679,
+      "num": 238679,
+      "word": "G社镜头下的郑秀晶",
+      "onboard_time": 1685065768,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 238645,
@@ -483,20 +523,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 222219,
-      "num": 222219,
-      "word": "G社镜头下的郑秀晶",
-      "onboard_time": 1685065768,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 220513,
       "num": 220513,
       "word": "凯尔特人vs热火",
       "onboard_time": 1685064150,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215427,
+      "num": 215427,
+      "word": "ENHYPEN马上就剩洋恩静了",
+      "onboard_time": 1685068827,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 210266,
+      "num": 198500,
+      "word": "ENHYPEN的ending揭秘",
+      "onboard_time": 1685068708,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 208209,
@@ -512,14 +560,6 @@
       "word": "王一博小表情好可爱",
       "onboard_time": 1685065468,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 204366,
-      "num": 204366,
-      "word": "张颂文没有提名白玉兰",
-      "onboard_time": 1685068409,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -539,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198359,
+      "num": 198359,
+      "word": "公诉",
+      "onboard_time": 1685068348,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194974,
       "num": 194974,
       "word": "国泰航空歧视乘客可追溯至20年前",
@@ -555,20 +603,36 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 194353,
-      "num": 261201,
-      "word": "vivo行业首创粒子水墨工艺",
-      "onboard_time": 1685067809,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193417,
       "num": 193417,
       "word": "SEVENTEEN出道八周年",
       "onboard_time": 1685057246,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190443,
+      "num": 190443,
+      "word": "鹿晗献唱蜘蛛侠纵横宇宙主题曲",
+      "onboard_time": 1685068648,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 190117,
+      "num": 187729,
+      "word": "杨紫是不是换妆造团队了",
+      "onboard_time": 1685068708,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 188730,
+      "num": 188730,
+      "word": "朱一龙提名白玉兰最佳男主角",
+      "onboard_time": 1685068827,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 187135,
@@ -635,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176768,
+      "num": 176768,
+      "word": "永远不对人性抱有期待 人性瞬息万变",
+      "onboard_time": 1685065168,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 176542,
       "num": 176542,
       "word": "芭比新预告",
@@ -643,36 +715,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 175498,
-      "num": 175498,
-      "word": "父女捡10万现金报警后发现是练功券",
-      "onboard_time": 1685067987,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173144,
-      "num": 173144,
-      "word": "永远不对人性抱有期待 人性瞬息万变",
-      "onboard_time": 1685065168,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 165120,
       "num": 165120,
       "word": "人们靠分开的痛觉来分辨爱意",
       "onboard_time": 1685055803,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 164158,
-      "num": 148766,
-      "word": "山西被害男孩生父村子禁止外人进入",
-      "onboard_time": 1685068409,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160128,
@@ -763,14 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134326,
-      "num": 134326,
-      "word": "公诉",
-      "onboard_time": 1685068348,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 133045,
       "num": 133045,
       "word": "国泰航空曾被曝员工拒绝使用中文名名牌",
@@ -835,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 120593,
+      "num": 235686,
+      "word": "为何古人擅长酒后成诗",
+      "onboard_time": 1685068048,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115541,
       "num": 115541,
       "word": "猫猫我啊专业打假",
@@ -849,14 +897,6 @@
       "onboard_time": 1685017709,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 111580,
-      "num": 150518,
-      "word": "为何古人擅长酒后成诗",
-      "onboard_time": 1685068048,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110085,

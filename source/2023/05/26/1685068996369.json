@@ -1,0 +1,410 @@
+{
+  "runTime": 1685068996369,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2589633,
+        "num": 2589633,
+        "word": "女生手无意碰到老师被脚踢揪进教室",
+        "onboard_time": 1685065886,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1149738,
+        "num": 1149738,
+        "word": "白玉兰提名",
+        "onboard_time": 1685058387,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19050,
+        "num": 1037019,
+        "word": "30秒看中关村论坛展览的前沿科技",
+        "onboard_time": 1685020652,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1036362,
+        "num": 1036362,
+        "word": "00后大学生为救人不幸溺亡被评见义勇为",
+        "onboard_time": 1685058808,
+        "rank": 3,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 948489,
+        "num": 948489,
+        "word": "长期吃素致孩子远低于平均身高17cm",
+        "onboard_time": 1685065886,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 836102,
+        "num": 836102,
+        "word": "22岁姑娘因男友减到55斤进医院",
+        "onboard_time": 1685016266,
+        "rank": 5,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 754130,
+        "num": 754130,
+        "word": "枪决通知短信",
+        "onboard_time": 1685021852,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634021,
+        "num": 634021,
+        "word": "浪姐只有徐梦桃退过赛",
+        "onboard_time": 1685057184,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 599892,
+        "num": 599892,
+        "word": "报警人中途撤警因小学生将火扑灭",
+        "onboard_time": 1685064568,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545482,
+        "num": 545482,
+        "word": "北京二手房降价90万卖不出去",
+        "onboard_time": 1685060068,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 971874,
+        "num": 534997,
+        "word": "东方青苍",
+        "onboard_time": 1685059110,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 516887,
+        "num": 516887,
+        "word": "许嵩方 取证中",
+        "onboard_time": 1685020231,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501800,
+        "num": 501800,
+        "word": "王鹤棣虞书欣 二搭",
+        "onboard_time": 1685022334,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 473166,
+        "num": 473166,
+        "word": "王源头发漂的都滋毛了",
+        "onboard_time": 1685056402,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 472530,
+        "num": 472530,
+        "word": "杭州机场偶遇向佐接机郭碧婷",
+        "onboard_time": 1685065768,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459807,
+        "num": 459807,
+        "word": "吴倩三公 退赛",
+        "onboard_time": 1685022993,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257547,
+        "num": 400002,
+        "word": "vivo行业首创粒子水墨工艺",
+        "onboard_time": 1685067809,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365943,
+        "num": 365943,
+        "word": "上海电视节",
+        "onboard_time": 1685068348,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364302,
+        "num": 364302,
+        "word": "平安北京 无语死了",
+        "onboard_time": 1685027675,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338027,
+        "num": 338027,
+        "word": "张颂文没有提名白玉兰",
+        "onboard_time": 1685068409,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 583224,
+        "num": 337533,
+        "word": "黄璐吐槽国泰航空服务",
+        "onboard_time": 1685060251,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 336047,
+        "num": 336047,
+        "word": "网传长沙一小区发生命案",
+        "onboard_time": 1685067867,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334989,
+        "num": 334989,
+        "word": "赵丽颖提名白玉兰最佳女主角",
+        "onboard_time": 1685068467,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333814,
+        "num": 333814,
+        "word": "北京警方已处理演唱会黄牛29名",
+        "onboard_time": 1685064811,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264316,
+        "num": 264316,
+        "word": "吴京易烊千玺打招呼",
+        "onboard_time": 1685065708,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248321,
+        "num": 248321,
+        "word": "父女捡10万现金报警后发现是练功券",
+        "onboard_time": 1685067987,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238679,
+        "num": 238679,
+        "word": "G社镜头下的郑秀晶",
+        "onboard_time": 1685065768,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120593,
+        "num": 235686,
+        "word": "为何古人擅长酒后成诗",
+        "onboard_time": 1685068048,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235542,
+        "num": 235542,
+        "word": "如何让领导知道送他的茶很贵",
+        "onboard_time": 1685066247,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231005,
+        "num": 231005,
+        "word": "被温州人的订婚喜糖震惊到了",
+        "onboard_time": 1685026354,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288807,
+        "num": 230781,
+        "word": "山西被害男孩生父村子禁止外人进入",
+        "onboard_time": 1685068409,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225207,
+        "num": 225207,
+        "word": "白玉兰男女主预测",
+        "onboard_time": 1685064688,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223261,
+        "num": 223261,
+        "word": "43岁的张娜拉",
+        "onboard_time": 1685022393,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215427,
+        "num": 215427,
+        "word": "ENHYPEN马上就剩洋恩静了",
+        "onboard_time": 1685068827,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198564,
+        "num": 198564,
+        "word": "王一博小表情好可爱",
+        "onboard_time": 1685065468,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210266,
+        "num": 198500,
+        "word": "ENHYPEN的ending揭秘",
+        "onboard_time": 1685068708,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198359,
+        "num": 198359,
+        "word": "公诉",
+        "onboard_time": 1685068348,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190443,
+        "num": 190443,
+        "word": "鹿晗献唱蜘蛛侠纵横宇宙主题曲",
+        "onboard_time": 1685068648,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192335,
+        "num": 190065,
+        "word": "G社拍的宋仲基",
+        "onboard_time": 1685029889,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189406,
+        "num": 189406,
+        "word": "凯尔特人vs热火",
+        "onboard_time": 1685064150,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188730,
+        "num": 188730,
+        "word": "朱一龙提名白玉兰最佳男主角",
+        "onboard_time": 1685068827,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190117,
+        "num": 187729,
+        "word": "杨紫是不是换妆造团队了",
+        "onboard_time": 1685068708,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176768,
+        "num": 176768,
+        "word": "永远不对人性抱有期待 人性瞬息万变",
+        "onboard_time": 1685065168,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172399,
+        "num": 172399,
+        "word": "花花的颜值我慕了",
+        "onboard_time": 1685060429,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168048,
+        "num": 168048,
+        "word": "武汉小学生校内被撞致死细节披露",
+        "onboard_time": 1685055803,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 167341,
+        "num": 167341,
+        "word": "舅舅住院杭州甥女不想掏钱被指小气",
+        "onboard_time": 1685055861,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143173,
+        "num": 143173,
+        "word": "孙珍妮和白鹿大腿贴贴",
+        "onboard_time": 1685060850,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136314,
+        "num": 136314,
+        "word": "郑秀晶戛纳电影节",
+        "onboard_time": 1685057547,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138965,
+        "num": 136148,
+        "word": "周深在线解释出淤泥的几个阶段",
+        "onboard_time": 1685063610,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85993,
+        "num": 135589,
+        "word": "大数据不要给我推荐可能认识的人了",
+        "onboard_time": 1685055861,
+        "rank": 49,
+        "category": "科技,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美将就中美经贸关系等问题进行交流#"
+    }
+  }
+}

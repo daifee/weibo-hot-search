@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685068476041,
+  "endTime": 1685068996369,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -947,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2589633,
+      "num": 2589633,
+      "word": "女生手无意碰到老师被脚踢揪进教室",
+      "onboard_time": 1685065886,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2568914,
       "num": 2355313,
       "word": "王一博裤子到底怎么了",
@@ -1257,14 +1265,6 @@
       "onboard_time": 1684292370,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2331037,
-      "num": 2331037,
-      "word": "女生手无意碰到老师被脚踢揪进教室",
-      "onboard_time": 1685065886,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2324403,
@@ -6115,6 +6115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1149738,
+      "num": 1149738,
+      "word": "白玉兰提名",
+      "onboard_time": 1685058387,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1149580,
       "num": 1149580,
       "word": "四川宜宾地震",
@@ -6947,14 +6955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1056274,
-      "num": 1056274,
-      "word": "白玉兰提名",
-      "onboard_time": 1685058387,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1055993,
       "num": 1055993,
       "word": "弑母案吴谢宇自称考试机器值得警醒",
@@ -7635,6 +7635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 971874,
+      "num": 711167,
+      "word": "东方青苍",
+      "onboard_time": 1685059110,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 971296,
       "num": 949880,
       "word": "秋瓷炫初舞台唱无法原谅",
@@ -7784,6 +7792,14 @@
       "word": "厦航偷拍飞行员被行政拘留",
       "onboard_time": 1684554506,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 948489,
+      "num": 948489,
+      "word": "长期吃素致孩子远低于平均身高17cm",
+      "onboard_time": 1685065886,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -8201,14 +8217,6 @@
       "onboard_time": 1682994749,
       "rank": 29,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 906409,
-      "num": 711167,
-      "word": "东方青苍",
-      "onboard_time": 1685059110,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 905424,
@@ -9889,14 +9897,6 @@
       "onboard_time": 1683363811,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 750217,
-      "num": 750217,
-      "word": "长期吃素致孩子远低于平均身高17cm",
-      "onboard_time": 1685065886,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 749995,
@@ -21187,6 +21187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 365943,
+      "num": 365943,
+      "word": "上海电视节",
+      "onboard_time": 1685068348,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 365834,
       "num": 365834,
       "word": "刘畊宏说王婉霏是我的天菜",
@@ -23179,6 +23187,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 338027,
+      "num": 338027,
+      "word": "张颂文没有提名白玉兰",
+      "onboard_time": 1685068409,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 337995,
       "num": 337995,
       "word": "王者荣耀女装",
@@ -23296,6 +23312,14 @@
       "word": "妈妈生病姐弟假期3天卖上千根冰棍",
       "onboard_time": 1683090573,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336047,
+      "num": 336047,
+      "word": "网传长沙一小区发生命案",
+      "onboard_time": 1685067867,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -23449,6 +23473,14 @@
       "onboard_time": 1683280411,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 334989,
+      "num": 334989,
+      "word": "赵丽颖提名白玉兰最佳女主角",
+      "onboard_time": 1685068467,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 334966,
@@ -24264,14 +24296,6 @@
       "word": "吴宣仪进组狐妖小红娘",
       "onboard_time": 1683448591,
       "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 322869,
-      "num": 322869,
-      "word": "赵丽颖提名白玉兰最佳女主角",
-      "onboard_time": 1685068467,
-      "rank": 19,
       "category": "影视"
     },
     {
@@ -27099,6 +27123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288807,
+      "num": 230781,
+      "word": "山西被害男孩生父村子禁止外人进入",
+      "onboard_time": 1685068409,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288739,
       "num": 288739,
       "word": "章昊wink",
@@ -29083,14 +29115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 268232,
-      "num": 268232,
-      "word": "上海电视节",
-      "onboard_time": 1685068348,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 268176,
       "num": 268176,
       "word": "吕成林哭了",
@@ -29563,6 +29587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 264316,
+      "num": 264316,
+      "word": "吴京易烊千玺打招呼",
+      "onboard_time": 1685065708,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 264169,
       "num": 264169,
       "word": "聊天最反感别人问什么",
@@ -29921,14 +29953,6 @@
       "onboard_time": 1684456349,
       "rank": 24,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 260208,
-      "num": 260208,
-      "word": "吴京易烊千玺打招呼",
-      "onboard_time": 1685065708,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 260183,
@@ -30297,6 +30321,14 @@
       "onboard_time": 1684760368,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 257547,
+      "num": 400002,
+      "word": "vivo行业首创粒子水墨工艺",
+      "onboard_time": 1685067809,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257525,
@@ -31379,6 +31411,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 248321,
+      "num": 248321,
+      "word": "父女捡10万现金报警后发现是练功券",
+      "onboard_time": 1685067987,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248114,
       "num": 248114,
       "word": "男生误把甲酸滴油锅意外合成强力胶",
@@ -32315,14 +32355,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 240836,
-      "num": 205349,
-      "word": "网传长沙一小区发生命案",
-      "onboard_time": 1685067867,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 240751,
       "num": 240751,
       "word": "沈月李嘉琦新综艺",
@@ -32569,6 +32601,14 @@
       "onboard_time": 1685056343,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238679,
+      "num": 238679,
+      "word": "G社镜头下的郑秀晶",
+      "onboard_time": 1685065768,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 238613,
@@ -34963,14 +35003,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 222219,
-      "num": 222219,
-      "word": "G社镜头下的郑秀晶",
-      "onboard_time": 1685065768,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 222064,
       "num": 183371,
       "word": "Lisa拥有7项吉尼斯纪录",
@@ -36019,6 +36051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 215427,
+      "num": 215427,
+      "word": "ENHYPEN马上就剩洋恩静了",
+      "onboard_time": 1685068827,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215298,
       "num": 215298,
       "word": "塞尔达传说王国之泪",
@@ -36745,6 +36785,14 @@
       "onboard_time": 1683281429,
       "rank": 32,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 210266,
+      "num": 198500,
+      "word": "ENHYPEN的ending揭秘",
+      "onboard_time": 1685068708,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 210240,
@@ -37667,14 +37715,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 204366,
-      "num": 204366,
-      "word": "张颂文没有提名白玉兰",
-      "onboard_time": 1685068409,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 204352,
       "num": 204352,
       "word": "赵露思cos蜂蜜狗造型花絮",
@@ -38579,6 +38619,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 198359,
+      "num": 198359,
+      "word": "公诉",
+      "onboard_time": 1684234950,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198332,
       "num": 190959,
       "word": "为什么人打电话猫在旁边喵喵叫",
@@ -39323,14 +39371,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 194353,
-      "num": 261201,
-      "word": "vivo行业首创粒子水墨工艺",
-      "onboard_time": 1685067809,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194335,
       "num": 194335,
       "word": "LGD大鹅",
@@ -39979,6 +40019,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 190443,
+      "num": 190443,
+      "word": "鹿晗献唱蜘蛛侠纵横宇宙主题曲",
+      "onboard_time": 1685068648,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190291,
       "num": 190291,
       "word": "aster",
@@ -40001,6 +40049,14 @@
       "onboard_time": 1684238973,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190117,
+      "num": 187729,
+      "word": "杨紫是不是换妆造团队了",
+      "onboard_time": 1685068708,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 190100,
@@ -40321,6 +40377,14 @@
       "onboard_time": 1684648708,
       "rank": 35,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 188730,
+      "num": 188730,
+      "word": "朱一龙提名白玉兰最佳男主角",
+      "onboard_time": 1685068827,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 188671,
@@ -40792,14 +40856,6 @@
       "word": "侯明昊周也护心豆瓣7.5",
       "onboard_time": 1684472015,
       "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 186042,
-      "num": 186042,
-      "word": "公诉",
-      "onboard_time": 1684234950,
-      "rank": 36,
       "category": "影视"
     },
     {
@@ -42387,6 +42443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176768,
+      "num": 176768,
+      "word": "永远不对人性抱有期待 人性瞬息万变",
+      "onboard_time": 1685065168,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 176739,
       "num": 176739,
       "word": "LGD",
@@ -42609,14 +42673,6 @@
       "onboard_time": 1682917347,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 175498,
-      "num": 175498,
-      "word": "父女捡10万现金报警后发现是练功券",
-      "onboard_time": 1685067987,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175485,
@@ -43009,14 +43065,6 @@
       "onboard_time": 1684905990,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173144,
-      "num": 173144,
-      "word": "永远不对人性抱有期待 人性瞬息万变",
-      "onboard_time": 1685065168,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 173139,
@@ -44265,14 +44313,6 @@
       "onboard_time": 1684650927,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 164158,
-      "num": 148766,
-      "word": "山西被害男孩生父村子禁止外人进入",
-      "onboard_time": 1685068409,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164046,
@@ -50011,6 +50051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120593,
+      "num": 235686,
+      "word": "为何古人擅长酒后成诗",
+      "onboard_time": 1685068048,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120534,
       "num": 120534,
       "word": "李泽言时间的折皱",
@@ -50729,14 +50777,6 @@
       "onboard_time": 1684483649,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 111580,
-      "num": 150518,
-      "word": "为何古人擅长酒后成诗",
-      "onboard_time": 1685068048,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111434,
