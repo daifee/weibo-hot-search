@@ -1,7 +1,15 @@
 {
   "startTime": 1685031732217,
-  "endTime": 1685065700194,
+  "endTime": 1685068476041,
   "band_list": [
+    {
+      "raw_hot": 2331037,
+      "num": 2331037,
+      "word": "女生手无意碰到老师被脚踢揪进教室",
+      "onboard_time": 1685065886,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2099769,
       "num": 2099769,
@@ -51,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1056274,
+      "num": 1056274,
+      "word": "白玉兰提名",
+      "onboard_time": 1685058387,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1055216,
       "num": 592392,
       "word": "许嵩方 取证中",
@@ -91,6 +107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 904593,
+      "num": 904593,
+      "word": "22岁姑娘因男友减到55斤进医院",
+      "onboard_time": 1685016266,
+      "rank": 19,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 872545,
       "num": 872545,
       "word": "北京二手房降价90万卖不出去",
@@ -115,20 +139,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 816964,
-      "num": 816964,
-      "word": "白玉兰提名",
-      "onboard_time": 1685058387,
-      "rank": 8,
-      "category": "影视"
+      "raw_hot": 750217,
+      "num": 750217,
+      "word": "长期吃素致孩子远低于平均身高17cm",
+      "onboard_time": 1685065886,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 621653,
-      "num": 621653,
-      "word": "22岁姑娘因男友减到55斤进医院",
-      "onboard_time": 1685016266,
-      "rank": 19,
-      "category": "社会新闻,情感"
+      "raw_hot": 614923,
+      "num": 614923,
+      "word": "报警人中途撤警因小学生将火扑灭",
+      "onboard_time": 1685064568,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 540758,
@@ -139,12 +163,28 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 473614,
+      "num": 473614,
+      "word": "杭州机场偶遇向佐接机郭碧婷",
+      "onboard_time": 1685065768,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 457130,
       "num": 457130,
       "word": "网友挑战把娄艺潇p回胡一菲",
       "onboard_time": 1685021009,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 406386,
+      "num": 406386,
+      "word": "北京警方已处理演唱会黄牛29名",
+      "onboard_time": 1685064811,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 406037,
@@ -227,6 +267,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 322869,
+      "num": 322869,
+      "word": "赵丽颖提名白玉兰最佳女主角",
+      "onboard_time": 1685068467,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 315087,
       "num": 315087,
       "word": "水月洞天主演现状",
@@ -251,14 +299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 281452,
-      "num": 281452,
-      "word": "报警人中途撤警因小学生将火扑灭",
-      "onboard_time": 1685064568,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 280176,
       "num": 280176,
       "word": "孙珍妮和白鹿大腿贴贴",
@@ -275,12 +315,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268232,
+      "num": 268232,
+      "word": "上海电视节",
+      "onboard_time": 1685068348,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 266271,
       "num": 266271,
       "word": "家属还原山西男童死亡案细节",
       "onboard_time": 1685030131,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263655,
+      "num": 263655,
+      "word": "如何让领导知道送他的茶很贵",
+      "onboard_time": 1685066247,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 260208,
+      "num": 260208,
+      "word": "吴京易烊千玺打招呼",
+      "onboard_time": 1685065708,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 259188,
@@ -323,10 +387,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 246002,
-      "num": 215825,
-      "word": "北京警方已处理演唱会黄牛29名",
-      "onboard_time": 1685064811,
+      "raw_hot": 240836,
+      "num": 205349,
+      "word": "网传长沙一小区发生命案",
+      "onboard_time": 1685067867,
       "rank": 30,
       "category": "社会新闻"
     },
@@ -419,6 +483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 222219,
+      "num": 222219,
+      "word": "G社镜头下的郑秀晶",
+      "onboard_time": 1685065768,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 220513,
       "num": 220513,
       "word": "凯尔特人vs热火",
@@ -433,6 +505,22 @@
       "onboard_time": 1685021552,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205799,
+      "num": 205799,
+      "word": "王一博小表情好可爱",
+      "onboard_time": 1685065468,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 204366,
+      "num": 204366,
+      "word": "张颂文没有提名白玉兰",
+      "onboard_time": 1685068409,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 201134,
@@ -465,6 +553,14 @@
       "onboard_time": 1685049673,
       "rank": 44,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 194353,
+      "num": 261201,
+      "word": "vivo行业首创粒子水墨工艺",
+      "onboard_time": 1685067809,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193417,
@@ -547,6 +643,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 175498,
+      "num": 175498,
+      "word": "父女捡10万现金报警后发现是练功券",
+      "onboard_time": 1685067987,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173144,
+      "num": 173144,
+      "word": "永远不对人性抱有期待 人性瞬息万变",
+      "onboard_time": 1685065168,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165120,
       "num": 165120,
       "word": "人们靠分开的痛觉来分辨爱意",
@@ -555,12 +667,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 160169,
-      "num": 160169,
-      "word": "王一博小表情好可爱",
-      "onboard_time": 1685065468,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 164158,
+      "num": 148766,
+      "word": "山西被害男孩生父村子禁止外人进入",
+      "onboard_time": 1685068409,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160128,
@@ -577,6 +689,14 @@
       "onboard_time": 1685064509,
       "rank": 41,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 154804,
+      "num": 154804,
+      "word": "掰手指掰到上支架",
+      "onboard_time": 1685067144,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 151436,
@@ -643,12 +763,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134930,
-      "num": 134930,
-      "word": "永远不对人性抱有期待 人性瞬息万变",
-      "onboard_time": 1685065168,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 134326,
+      "num": 134326,
+      "word": "公诉",
+      "onboard_time": 1685068348,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 133045,
@@ -729,6 +849,14 @@
       "onboard_time": 1685017709,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111580,
+      "num": 150518,
+      "word": "为何古人擅长酒后成诗",
+      "onboard_time": 1685068048,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110085,
