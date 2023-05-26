@@ -1,6 +1,6 @@
 {
   "startTime": 1685118110147,
-  "endTime": 1685118110147,
+  "endTime": 1685119023593,
   "band_list": [
     {
       "raw_hot": 1434814,
@@ -59,15 +59,15 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 560214,
-      "num": 560214,
+      "raw_hot": 562151,
+      "num": 562151,
       "word": "张本智和哭了",
       "onboard_time": 1685115812,
       "rank": 7,
       "category": "体育"
     },
     {
-      "raw_hot": 497163,
+      "raw_hot": 508030,
       "num": 197580,
       "word": "塞尔维亚总统下令军队进入最高战备状态",
       "onboard_time": 1685116291,
@@ -89,6 +89,14 @@
       "onboard_time": 1685111432,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 404005,
+      "num": 404005,
+      "word": "后浪女主",
+      "onboard_time": 1685117068,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 402117,
@@ -171,16 +179,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 277642,
-      "num": 277642,
-      "word": "后浪女主",
-      "onboard_time": 1685117068,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 273063,
-      "num": 200896,
+      "num": 256371,
       "word": "五月天唱了粉丝在微博点的歌",
       "onboard_time": 1685117490,
       "rank": 25,
@@ -196,11 +196,19 @@
     },
     {
       "raw_hot": 218167,
-      "num": 199648,
+      "num": 200426,
       "word": "孙千说赵丽颖让自己变成全民情敌",
       "onboard_time": 1685115812,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205199,
+      "num": 205199,
+      "word": "林志颖车祸后再度开赛车",
+      "onboard_time": 1685118447,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 203854,
@@ -244,15 +252,23 @@
     },
     {
       "raw_hot": 190415,
-      "num": 202005,
+      "num": 205839,
       "word": "警方通报长沙一家5口死亡",
       "onboard_time": 1685091208,
       "rank": 23,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174994,
+      "num": 206670,
+      "word": "广东6男孩被骗到缅甸失联20余天",
+      "onboard_time": 1685117908,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163868,
-      "num": 201270,
+      "num": 205474,
       "word": "女子用儿子名字开店被索赔12万",
       "onboard_time": 1685107350,
       "rank": 24,
@@ -355,14 +371,6 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 101550,
-      "num": 188026,
-      "word": "广东6男孩被骗到缅甸失联20余天",
-      "onboard_time": 1685117908,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 99358,
       "num": 187574,
       "word": "白玉兰提名",
@@ -385,6 +393,14 @@
       "onboard_time": 1685089769,
       "rank": 49,
       "category": "社会负面,教育"
+    },
+    {
+      "raw_hot": 80764,
+      "num": 149632,
+      "word": "老师每天拉红绳隔车流护学生过马路",
+      "onboard_time": 1685118926,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 63069,
