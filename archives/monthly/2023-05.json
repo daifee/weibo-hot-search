@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685107174583,
+  "endTime": 1685108009657,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -3867,6 +3867,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 1531841,
+      "num": 1531841,
+      "word": "妻子离婚时才知丈夫年入300万",
+      "onboard_time": 1685098051,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1529474,
       "num": 399528,
       "word": "笑果文化称不当言论是HOUSE临时加的",
@@ -4209,14 +4217,6 @@
       "onboard_time": 1683198687,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1464790,
-      "num": 1464790,
-      "word": "妻子离婚时才知丈夫年入300万",
-      "onboard_time": 1685098051,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1463945,
@@ -4641,6 +4641,14 @@
       "onboard_time": 1685004689,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1389136,
+      "num": 438652,
+      "word": "我妈死后还在催婚",
+      "onboard_time": 1685102550,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 1388762,
@@ -5313,14 +5321,6 @@
       "onboard_time": 1684399350,
       "rank": 12,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1291164,
-      "num": 438652,
-      "word": "我妈死后还在催婚",
-      "onboard_time": 1685102550,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 1287764,
@@ -8387,6 +8387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 913563,
+      "num": 913563,
+      "word": "女子诞下百万分之一镜面宝宝",
+      "onboard_time": 1685098653,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 913542,
       "num": 913542,
       "word": "罗翔谈女子遭掌掴还手被判定互殴",
@@ -8537,14 +8545,6 @@
       "onboard_time": 1683880768,
       "rank": 9,
       "category": "社会新闻,音乐"
-    },
-    {
-      "raw_hot": 896798,
-      "num": 896798,
-      "word": "女子诞下百万分之一镜面宝宝",
-      "onboard_time": 1685098653,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 895908,
@@ -26396,7 +26396,7 @@
     },
     {
       "raw_hot": 302899,
-      "num": 205392,
+      "num": 216667,
       "word": "公诉全员被闭麦",
       "onboard_time": 1685101351,
       "rank": 31,
@@ -26457,6 +26457,14 @@
       "onboard_time": 1683629789,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 302571,
+      "num": 302571,
+      "word": "小文 爷爷",
+      "onboard_time": 1685106093,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 302558,
@@ -30107,14 +30115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 266454,
-      "num": 203103,
-      "word": "小文 爷爷",
-      "onboard_time": 1685106093,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 266271,
       "num": 266271,
       "word": "家属还原山西男童死亡案细节",
@@ -33217,6 +33217,14 @@
       "onboard_time": 1683990272,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 240850,
+      "num": 240850,
+      "word": "618预售",
+      "onboard_time": 1685106989,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 240751,
@@ -36745,6 +36753,14 @@
       "onboard_time": 1684578809,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 216956,
+      "num": 216956,
+      "word": "女子用儿子名字开店被索赔12万",
+      "onboard_time": 1685107350,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216922,
@@ -44947,6 +44963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167884,
+      "num": 167884,
+      "word": "年少时不能遇见太惊艳的猴",
+      "onboard_time": 1685104110,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167854,
       "num": 167854,
       "word": "龚琳娜你很漂亮",
@@ -46443,14 +46467,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 158123,
-      "num": 158123,
-      "word": "618预售",
-      "onboard_time": 1685106989,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157966,
       "num": 157966,
       "word": "不要把醉倒的鸟扔进垃圾桶",
@@ -46827,14 +46843,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 155763,
-      "num": 155763,
-      "word": "年少时不能遇见太惊艳的猴",
-      "onboard_time": 1685104110,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 155747,
       "num": 155747,
       "word": "小伙带狗狗陪自己捐干细胞",
@@ -47153,6 +47161,14 @@
       "onboard_time": 1684502791,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153790,
+      "num": 153790,
+      "word": "孙红雷淘汰了赵丽颖",
+      "onboard_time": 1685107771,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 153758,
@@ -48097,6 +48113,14 @@
       "onboard_time": 1684305091,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 147905,
+      "num": 147905,
+      "word": "盲人顾客吃重庆火锅老板贴心夹菜",
+      "onboard_time": 1685106750,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147831,
@@ -51105,14 +51129,6 @@
       "onboard_time": 1684238430,
       "rank": 14,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 123384,
-      "num": 123384,
-      "word": "盲人顾客吃重庆火锅老板贴心夹菜",
-      "onboard_time": 1685106750,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123176,
@@ -56129,6 +56145,14 @@
       "onboard_time": 1684172357,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 25217,
+      "num": 920222,
+      "word": "中美双方同意建立经贸沟通渠道",
+      "onboard_time": 1685107591,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25128,

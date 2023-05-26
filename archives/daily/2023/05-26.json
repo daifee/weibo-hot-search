@@ -1,6 +1,6 @@
 {
   "startTime": 1685031732217,
-  "endTime": 1685107174583,
+  "endTime": 1685108009657,
   "band_list": [
     {
       "raw_hot": 4241479,
@@ -155,8 +155,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1464790,
-      "num": 1464790,
+      "raw_hot": 1531841,
+      "num": 1531841,
       "word": "妻子离婚时才知丈夫年入300万",
       "onboard_time": 1685098051,
       "rank": 13,
@@ -185,6 +185,14 @@
       "onboard_time": 1685091208,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1389136,
+      "num": 438652,
+      "word": "我妈死后还在催婚",
+      "onboard_time": 1685102550,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 1385887,
@@ -225,14 +233,6 @@
       "onboard_time": 1685101110,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1291164,
-      "num": 438652,
-      "word": "我妈死后还在催婚",
-      "onboard_time": 1685102550,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 1286441,
@@ -339,20 +339,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 913563,
+      "num": 913563,
+      "word": "女子诞下百万分之一镜面宝宝",
+      "onboard_time": 1685098653,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 904593,
       "num": 904593,
       "word": "22岁姑娘因男友减到55斤进医院",
       "onboard_time": 1685016266,
       "rank": 19,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 896798,
-      "num": 896798,
-      "word": "女子诞下百万分之一镜面宝宝",
-      "onboard_time": 1685098653,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 894385,
@@ -924,7 +924,7 @@
     },
     {
       "raw_hot": 302899,
-      "num": 205392,
+      "num": 216667,
       "word": "公诉全员被闭麦",
       "onboard_time": 1685101351,
       "rank": 31,
@@ -937,6 +937,14 @@
       "onboard_time": 1685105310,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 302571,
+      "num": 302571,
+      "word": "小文 爷爷",
+      "onboard_time": 1685106093,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 302558,
@@ -1123,14 +1131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 266454,
-      "num": 203103,
-      "word": "小文 爷爷",
-      "onboard_time": 1685106093,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 266271,
       "num": 266271,
       "word": "家属还原山西男童死亡案细节",
@@ -1188,7 +1188,7 @@
     },
     {
       "raw_hot": 263009,
-      "num": 201487,
+      "num": 215802,
       "word": "梦中的那片海",
       "onboard_time": 1685102310,
       "rank": 32,
@@ -1320,6 +1320,14 @@
       "word": "院方回应34岁员工天台上吊身亡",
       "onboard_time": 1685093312,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240850,
+      "num": 240850,
+      "word": "618预售",
+      "onboard_time": 1685106989,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1545,6 +1553,14 @@
       "onboard_time": 1685091872,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 216956,
+      "num": 216956,
+      "word": "女子用儿子名字开店被索赔12万",
+      "onboard_time": 1685107350,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216840,
@@ -1931,6 +1947,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 167884,
+      "num": 167884,
+      "word": "年少时不能遇见太惊艳的猴",
+      "onboard_time": 1685104110,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166562,
       "num": 201107,
       "word": "英雄联盟",
@@ -2011,14 +2035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158123,
-      "num": 158123,
-      "word": "618预售",
-      "onboard_time": 1685106989,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157117,
       "num": 179742,
       "word": "陌生爷爷塞给我的十元钱",
@@ -2033,14 +2049,6 @@
       "onboard_time": 1685097091,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 155763,
-      "num": 155763,
-      "word": "年少时不能遇见太惊艳的猴",
-      "onboard_time": 1685104110,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 154928,
@@ -2075,6 +2083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153790,
+      "num": 153790,
+      "word": "孙红雷淘汰了赵丽颖",
+      "onboard_time": 1685107771,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151436,
       "num": 151436,
       "word": "女明星古早照近照对比",
@@ -2104,6 +2120,14 @@
       "word": "二阳",
       "onboard_time": 1685025337,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147905,
+      "num": 147905,
+      "word": "盲人顾客吃重庆火锅老板贴心夹菜",
+      "onboard_time": 1685106750,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -2305,14 +2329,6 @@
       "onboard_time": 1685082210,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123384,
-      "num": 123384,
-      "word": "盲人顾客吃重庆火锅老板贴心夹菜",
-      "onboard_time": 1685106750,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123070,
@@ -2576,6 +2592,14 @@
       "word": "小学生校内被撞身亡涉事教师被刑拘",
       "onboard_time": 1685037856,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25217,
+      "num": 920222,
+      "word": "中美双方同意建立经贸沟通渠道",
+      "onboard_time": 1685107591,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],
