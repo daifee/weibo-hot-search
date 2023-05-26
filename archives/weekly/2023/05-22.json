@@ -1,7 +1,15 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1685072029252,
+  "endTime": 1685074793725,
   "band_list": [
+    {
+      "raw_hot": 3850968,
+      "num": 3850968,
+      "word": "张译 今天你就走了你不管我们了",
+      "onboard_time": 1685073150,
+      "rank": 0,
+      "category": "影视"
+    },
     {
       "raw_hot": 3643134,
       "num": 3643134,
@@ -163,6 +171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2540704,
+      "num": 2540704,
+      "word": "教育局回应女孩手无意碰到老师被踢拽",
+      "onboard_time": 1685070748,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2528375,
       "num": 2528375,
       "word": "钟南山称6月底或是今年疫情高峰",
@@ -272,6 +288,14 @@
       "word": "孙艺珍玄彬卖别墅赚了18亿",
       "onboard_time": 1684830387,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2044880,
+      "num": 2044880,
+      "word": "罗京民去世",
+      "onboard_time": 1685073090,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -571,6 +595,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1548723,
+      "num": 1395149,
+      "word": "杨幂 白玉兰",
+      "onboard_time": 1685072249,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1545018,
+      "num": 1094614,
+      "word": "杨蓉 白玉兰",
+      "onboard_time": 1685070688,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1535149,
       "num": 1535149,
       "word": "王俊凯易烊千玺隔了一个银河",
@@ -611,6 +651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1472279,
+      "num": 1472279,
+      "word": "长期吃素致孩子远低于平均身高17cm",
+      "onboard_time": 1685065886,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1468132,
       "num": 1468132,
       "word": "空调开18度的领导离职了",
@@ -649,14 +697,6 @@
       "onboard_time": 1684761988,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1393749,
-      "num": 1393749,
-      "word": "长期吃素致孩子远低于平均身高17cm",
-      "onboard_time": 1685065886,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1392411,
@@ -1035,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1168759,
+      "num": 591485,
+      "word": "没认出来虞书欣",
+      "onboard_time": 1685072428,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1168115,
       "num": 1029665,
       "word": "恋踩癖男子藏袋内呼吸起伏明显",
@@ -1147,14 +1195,6 @@
       "category": "情感,艺人"
     },
     {
-      "raw_hot": 1094614,
-      "num": 1094614,
-      "word": "杨蓉 白玉兰",
-      "onboard_time": 1685070688,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1087278,
       "num": 1087278,
       "word": "张婧仪Lisa金泰亨朴宝剑同框",
@@ -1249,6 +1289,14 @@
       "onboard_time": 1684822527,
       "rank": 31,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1027612,
+      "num": 1027612,
+      "word": "儿子扔掉妈妈囤积的20斤陈年冻肉",
+      "onboard_time": 1685071707,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1026999,
@@ -1707,14 +1755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 820235,
-      "num": 820235,
-      "word": "教育局回应女孩手无意碰到老师被踢拽",
-      "onboard_time": 1685070748,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 814441,
       "num": 814441,
       "word": "九鹭非香",
@@ -1809,6 +1849,14 @@
       "onboard_time": 1684833990,
       "rank": 24,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 771002,
+      "num": 422382,
+      "word": "正午阳光赢麻了",
+      "onboard_time": 1685072428,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 770024,
@@ -3059,6 +3107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 457261,
+      "num": 457261,
+      "word": "C919",
+      "onboard_time": 1685072850,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456552,
       "num": 456552,
       "word": "朱一龙无法出席华表奖颁奖典礼",
@@ -3955,6 +4011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364418,
+      "num": 216706,
+      "word": "13岁少女网恋后遭性侵怀孕",
+      "onboard_time": 1685074292,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 363110,
       "num": 363110,
       "word": "王者荣耀宝格丽互关",
@@ -4241,6 +4305,14 @@
       "onboard_time": 1685015787,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 339644,
+      "num": 339644,
+      "word": "400万粉丝财经大V徐某被判刑",
+      "onboard_time": 1685072850,
+      "rank": 18,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 339427,
@@ -5563,14 +5635,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 267626,
-      "num": 267626,
-      "word": "儿子扔掉妈妈囤积的20斤陈年冻肉",
-      "onboard_time": 1685071707,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 266997,
       "num": 210807,
       "word": "袁泉",
@@ -5771,6 +5835,14 @@
       "category": "科技,作品衍生"
     },
     {
+      "raw_hot": 258358,
+      "num": 258358,
+      "word": "乘风二公",
+      "onboard_time": 1685074173,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258033,
       "num": 258033,
       "word": "你离职时公司有挽留你吗",
@@ -5952,6 +6024,14 @@
       "word": "aespa戛纳妆造",
       "onboard_time": 1684939233,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 249255,
+      "num": 249255,
+      "word": "谢娜面纱造型",
+      "onboard_time": 1685073330,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -6587,12 +6667,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229529,
+      "num": 269234,
+      "word": "女子规划资源局前拉横幅为夫纳妾",
+      "onboard_time": 1685074173,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228950,
       "num": 228950,
       "word": "原来憋尿的危害这么大",
       "onboard_time": 1684711520,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 228425,
+      "num": 251021,
+      "word": "原来奶茶店有这么多内幕",
+      "onboard_time": 1685072307,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 228260,
@@ -6785,6 +6881,14 @@
       "onboard_time": 1684930888,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 221372,
+      "num": 221372,
+      "word": "老教师上班外放刷视频被怼后骂人",
+      "onboard_time": 1685069489,
+      "rank": 44,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 220919,
@@ -7019,6 +7123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212193,
+      "num": 212193,
+      "word": "现在的小区名字都好高级",
+      "onboard_time": 1685073029,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 212136,
       "num": 212136,
       "word": "电视剧熟年",
@@ -7203,14 +7315,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 204560,
-      "num": 204560,
-      "word": "老教师上班外放刷视频被怼后骂人",
-      "onboard_time": 1685069489,
-      "rank": 44,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 204476,
       "num": 204476,
       "word": "王俊凯金星橙汁对嘴配音视频",
@@ -7265,6 +7369,14 @@
       "onboard_time": 1684838791,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 203346,
+      "num": 197514,
+      "word": "杨幂拿过白玉兰金杯",
+      "onboard_time": 1685074112,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 202934,
@@ -7361,6 +7473,14 @@
       "onboard_time": 1684922791,
       "rank": 46,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 199975,
+      "num": 199975,
+      "word": "人生大事",
+      "onboard_time": 1685073993,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 199592,
@@ -7635,6 +7755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193133,
+      "num": 187392,
+      "word": "ENHYPEN中国恩静发文",
+      "onboard_time": 1685073577,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192924,
       "num": 192924,
       "word": "张彬彬吴倩入怀抱",
@@ -7649,6 +7777,14 @@
       "onboard_time": 1685015428,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192711,
+      "num": 186933,
+      "word": "孙珍妮vs孙真泥",
+      "onboard_time": 1685073452,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 192677,
@@ -7809,6 +7945,14 @@
       "onboard_time": 1684754188,
       "rank": 37,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 188056,
+      "num": 188056,
+      "word": "风吹半夏",
+      "onboard_time": 1685073090,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 187964,
@@ -9339,6 +9483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130446,
+      "num": 130446,
+      "word": "脚踢拉扯学生老师已被解聘",
+      "onboard_time": 1685072731,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 130182,
       "num": 373171,
       "word": "手机知道你所有的秘密",
@@ -10057,6 +10209,14 @@
       "onboard_time": 1684897347,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61585,
+      "num": 225178,
+      "word": "SUV在卷一种很新的东西",
+      "onboard_time": 1685072188,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 61040,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1685074793725,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3850968,
+        "num": 3850968,
+        "word": "张译 今天你就走了你不管我们了",
+        "onboard_time": 1685073150,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2540704,
+        "num": 2540704,
+        "word": "教育局回应女孩手无意碰到老师被踢拽",
+        "onboard_time": 1685070748,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6333,
+        "num": 2054174,
+        "word": "30秒看中关村论坛展览的前沿科技",
+        "onboard_time": 1685020652,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2044880,
+        "num": 2044880,
+        "word": "罗京民去世",
+        "onboard_time": 1685073090,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1916070,
+        "num": 1916070,
+        "word": "张颂文没有提名白玉兰",
+        "onboard_time": 1685068409,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1472279,
+        "num": 1472279,
+        "word": "长期吃素致孩子远低于平均身高17cm",
+        "onboard_time": 1685065886,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1548723,
+        "num": 1395149,
+        "word": "杨幂 白玉兰",
+        "onboard_time": 1685072249,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1027612,
+        "num": 1027612,
+        "word": "儿子扔掉妈妈囤积的20斤陈年冻肉",
+        "onboard_time": 1685071707,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1545018,
+        "num": 999796,
+        "word": "杨蓉 白玉兰",
+        "onboard_time": 1685070688,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 845511,
+        "num": 845511,
+        "word": "00后大学生为救人不幸溺亡被评见义勇为",
+        "onboard_time": 1685058808,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 2013656,
+        "num": 816642,
+        "word": "女生手无意碰到老师被脚踢揪进教室",
+        "onboard_time": 1685065886,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1361236,
+        "num": 717150,
+        "word": "杨紫是不是换妆造团队了",
+        "onboard_time": 1685068708,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1168759,
+        "num": 591485,
+        "word": "没认出来虞书欣",
+        "onboard_time": 1685072428,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 975999,
+        "num": 501268,
+        "word": "白玉兰提名",
+        "onboard_time": 1685058387,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 457261,
+        "num": 457261,
+        "word": "C919",
+        "onboard_time": 1685072850,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 771002,
+        "num": 422382,
+        "word": "正午阳光赢麻了",
+        "onboard_time": 1685072428,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 576444,
+        "num": 418880,
+        "word": "东方青苍",
+        "onboard_time": 1685059110,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349106,
+        "num": 349106,
+        "word": "网传长沙一小区发生命案",
+        "onboard_time": 1685067867,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339644,
+        "num": 339644,
+        "word": "400万粉丝财经大V徐某被判刑",
+        "onboard_time": 1685072850,
+        "rank": 18,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 229529,
+        "num": 269234,
+        "word": "女子规划资源局前拉横幅为夫纳妾",
+        "onboard_time": 1685074173,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417025,
+        "num": 268792,
+        "word": "山西被害男孩生父村子禁止外人进入",
+        "onboard_time": 1685068409,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347474,
+        "num": 268147,
+        "word": "吴倩三公 退赛",
+        "onboard_time": 1685022993,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258358,
+        "num": 258358,
+        "word": "乘风二公",
+        "onboard_time": 1685074173,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224675,
+        "num": 253547,
+        "word": "平安北京 无语死了",
+        "onboard_time": 1685027675,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228425,
+        "num": 251021,
+        "word": "原来奶茶店有这么多内幕",
+        "onboard_time": 1685072307,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 249255,
+        "num": 249255,
+        "word": "谢娜面纱造型",
+        "onboard_time": 1685073330,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231570,
+        "num": 231570,
+        "word": "罗京民",
+        "onboard_time": 1685069969,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61585,
+        "num": 225178,
+        "word": "SUV在卷一种很新的东西",
+        "onboard_time": 1685072188,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221372,
+        "num": 221372,
+        "word": "老教师上班外放刷视频被怼后骂人",
+        "onboard_time": 1685069489,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 181807,
+        "num": 216792,
+        "word": "父女捡10万现金报警后发现是练功券",
+        "onboard_time": 1685067987,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364418,
+        "num": 216706,
+        "word": "13岁少女网恋后遭性侵怀孕",
+        "onboard_time": 1685074292,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229223,
+        "num": 216598,
+        "word": "许嵩方 取证中",
+        "onboard_time": 1685020231,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216078,
+        "num": 216078,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1685072249,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212193,
+        "num": 212193,
+        "word": "现在的小区名字都好高级",
+        "onboard_time": 1685073029,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199975,
+        "num": 199975,
+        "word": "人生大事",
+        "onboard_time": 1685073993,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198007,
+        "num": 198007,
+        "word": "有的水獭没有孩子还硬装",
+        "onboard_time": 1685068587,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197536,
+        "num": 197536,
+        "word": "海蝶音乐发声明",
+        "onboard_time": 1685069910,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203346,
+        "num": 197514,
+        "word": "杨幂拿过白玉兰金杯",
+        "onboard_time": 1685074112,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197438,
+        "num": 197438,
+        "word": "王源头发漂的都滋毛了",
+        "onboard_time": 1685056402,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192229,
+        "num": 192229,
+        "word": "凯尔特人2比3热火",
+        "onboard_time": 1685070210,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188056,
+        "num": 188056,
+        "word": "风吹半夏",
+        "onboard_time": 1685073090,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193133,
+        "num": 187392,
+        "word": "ENHYPEN中国恩静发文",
+        "onboard_time": 1685073577,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192711,
+        "num": 186933,
+        "word": "孙珍妮vs孙真泥",
+        "onboard_time": 1685073452,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178029,
+        "num": 178029,
+        "word": "枪决通知短信",
+        "onboard_time": 1685021852,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173028,
+        "num": 173028,
+        "word": "ENHYPEN马上就剩洋恩静了",
+        "onboard_time": 1685068827,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163389,
+        "num": 163389,
+        "word": "张元英低马尾",
+        "onboard_time": 1685070507,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155542,
+        "num": 155542,
+        "word": "虞书欣白色眼妆",
+        "onboard_time": 1685069309,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130446,
+        "num": 130446,
+        "word": "脚踢拉扯学生老师已被解聘",
+        "onboard_time": 1685072731,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 129623,
+        "num": 129623,
+        "word": "报警人中途撤警因小学生将火扑灭",
+        "onboard_time": 1685064568,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111648,
+        "num": 129603,
+        "word": "北京二手房降价90万卖不出去",
+        "onboard_time": 1685060068,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美将就中美经贸关系等问题进行交流#"
+    }
+  }
+}
