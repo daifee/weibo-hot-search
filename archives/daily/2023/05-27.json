@@ -1,6 +1,6 @@
 {
   "startTime": 1685118110147,
-  "endTime": 1685136815644,
+  "endTime": 1685139340818,
   "band_list": [
     {
       "raw_hot": 1434814,
@@ -411,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106202,
+      "num": 106202,
+      "word": "巴厘岛",
+      "onboard_time": 1685136793,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104945,
       "num": 188227,
       "word": "甄嬛传演到滴血认亲食堂大姨忘了工作",
@@ -516,19 +524,11 @@
     },
     {
       "raw_hot": 26417,
-      "num": 25716,
+      "num": 26450,
       "word": "赵露思又去迪士尼的原因",
       "onboard_time": 1685129473,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 10211,
-      "num": 18986,
-      "word": "巴厘岛",
-      "onboard_time": 1685136793,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 6871,

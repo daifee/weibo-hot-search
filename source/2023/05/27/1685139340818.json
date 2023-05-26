@@ -1,0 +1,410 @@
+{
+  "runTime": 1685139340818,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 376968,
+        "num": 376968,
+        "word": "林志颖车祸后再度开赛车",
+        "onboard_time": 1685118447,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350490,
+        "num": 350490,
+        "word": "江西一对表兄妹结婚10年育1子",
+        "onboard_time": 1685119164,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6585,
+        "num": 246055,
+        "word": "探馆中关村论坛展览领略前沿科技魅力",
+        "onboard_time": 1685107529,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172547,
+        "num": 172547,
+        "word": "狂飙片方没有为高启强报名",
+        "onboard_time": 1685110894,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128519,
+        "num": 128519,
+        "word": "哈尔滨回应网传副市长与交警发生冲突",
+        "onboard_time": 1685113592,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116534,
+        "num": 116534,
+        "word": "送命式熬夜 经常性失落",
+        "onboard_time": 1685120123,
+        "rank": 5,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 106202,
+        "num": 106202,
+        "word": "巴厘岛",
+        "onboard_time": 1685136793,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101749,
+        "num": 101749,
+        "word": "张本智和哭了",
+        "onboard_time": 1685115812,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93355,
+        "num": 93355,
+        "word": "张元英AI换脸叶夕雾",
+        "onboard_time": 1685115273,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 90875,
+        "num": 90875,
+        "word": "椰树 不带货纯擦",
+        "onboard_time": 1685120782,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184517,
+        "num": 89904,
+        "word": "塞尔维亚总统下令军队进入最高战备状态",
+        "onboard_time": 1685116291,
+        "rank": 10,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 98273,
+        "num": 89369,
+        "word": "我妈死后还在催婚",
+        "onboard_time": 1685102550,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85212,
+        "num": 85212,
+        "word": "五月天唱了粉丝在微博点的歌",
+        "onboard_time": 1685117490,
+        "rank": 12,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 83063,
+        "num": 83063,
+        "word": "女子执意推婴儿车淌水孩子不慎摔落",
+        "onboard_time": 1685111612,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66839,
+        "num": 66839,
+        "word": "女子诞下百万分之一镜面宝宝",
+        "onboard_time": 1685098653,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61217,
+        "num": 61217,
+        "word": "陈梦",
+        "onboard_time": 1685114313,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58531,
+        "num": 58531,
+        "word": "女子用儿子名字开店被索赔12万",
+        "onboard_time": 1685107350,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57162,
+        "num": 57162,
+        "word": "何丹彤巴黎被抢劫",
+        "onboard_time": 1685109929,
+        "rank": 17,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 51827,
+        "num": 51827,
+        "word": "后浪女主",
+        "onboard_time": 1685117068,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49138,
+        "num": 49138,
+        "word": "妻子离婚时才知丈夫年入300万",
+        "onboard_time": 1685098051,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65477,
+        "num": 47522,
+        "word": "广东6男孩被骗到缅甸失联20余天",
+        "onboard_time": 1685117908,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44204,
+        "num": 44204,
+        "word": "黄子韬淘汰谢娜",
+        "onboard_time": 1685102609,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44027,
+        "num": 44027,
+        "word": "狂飙",
+        "onboard_time": 1685097391,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43718,
+        "num": 43718,
+        "word": "交警处罚违停奥迪反遭怼",
+        "onboard_time": 1685121861,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42832,
+        "num": 42832,
+        "word": "陈梦4比0伊藤美诚",
+        "onboard_time": 1685117130,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41094,
+        "num": 41094,
+        "word": "奔跑吧这回真的有剧本",
+        "onboard_time": 1685102668,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38449,
+        "num": 38449,
+        "word": "晋江防盗",
+        "onboard_time": 1685111972,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 37798,
+        "num": 37798,
+        "word": "手机销量差是因为卖的贵吗",
+        "onboard_time": 1685095471,
+        "rank": 27,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 35979,
+        "num": 35979,
+        "word": "甄嬛传演到滴血认亲食堂大姨忘了工作",
+        "onboard_time": 1685095294,
+        "rank": 28,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 35845,
+        "num": 35845,
+        "word": "孙千说赵丽颖让自己变成全民情敌",
+        "onboard_time": 1685115812,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32341,
+        "num": 32341,
+        "word": "五月天演唱会嘉宾",
+        "onboard_time": 1685121921,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 31787,
+        "num": 31787,
+        "word": "娄艺潇回复网友不参加浪姐的原因",
+        "onboard_time": 1685097690,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30043,
+        "num": 30043,
+        "word": "怎么跟回避型谈恋爱",
+        "onboard_time": 1685118748,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29470,
+        "num": 29470,
+        "word": "白敬亭是自己抢票吗",
+        "onboard_time": 1685108190,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 29080,
+        "num": 29080,
+        "word": "日本地震",
+        "onboard_time": 1685096910,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28637,
+        "num": 28637,
+        "word": "安崎 正常恋爱",
+        "onboard_time": 1685091271,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28632,
+        "num": 28632,
+        "word": "年少时不能遇见太惊艳的猴",
+        "onboard_time": 1685104110,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27263,
+        "num": 27263,
+        "word": "警方通报长沙一家5口死亡",
+        "onboard_time": 1685091208,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27124,
+        "num": 27124,
+        "word": "五月天演唱会 场控",
+        "onboard_time": 1685105071,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 26455,
+        "num": 26455,
+        "word": "向往的生活",
+        "onboard_time": 1685109210,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25560,
+        "num": 26450,
+        "word": "赵露思又去迪士尼的原因",
+        "onboard_time": 1685129473,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24658,
+        "num": 26445,
+        "word": "何丹彤回应被抢劫",
+        "onboard_time": 1685119107,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 23053,
+        "num": 26438,
+        "word": "五月天点歌",
+        "onboard_time": 1685105071,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22614,
+        "num": 26434,
+        "word": "梁靖崑vs张本智和",
+        "onboard_time": 1685112093,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22416,
+        "num": 26425,
+        "word": "王鹤棣田曦薇新剧开始招募文替",
+        "onboard_time": 1685098590,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21901,
+        "num": 26422,
+        "word": "五月天",
+        "onboard_time": 1685100331,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21750,
+        "num": 26416,
+        "word": "五月天演唱会",
+        "onboard_time": 1685093793,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21698,
+        "num": 26410,
+        "word": "白玉兰提名",
+        "onboard_time": 1685102431,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20922,
+        "num": 26399,
+        "word": "五月天白安再唱人生海海",
+        "onboard_time": 1685126594,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20033,
+        "num": 26398,
+        "word": "谢可寅舞台",
+        "onboard_time": 1685108611,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国刚果金关系提升#"
+    }
+  }
+}
