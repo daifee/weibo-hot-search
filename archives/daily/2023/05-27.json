@@ -1,6 +1,6 @@
 {
   "startTime": 1685118110147,
-  "endTime": 1685119023593,
+  "endTime": 1685121350856,
   "band_list": [
     {
       "raw_hot": 1434814,
@@ -17,6 +17,14 @@
       "onboard_time": 1685115273,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1002929,
+      "num": 1002929,
+      "word": "林志颖车祸后再度开赛车",
+      "onboard_time": 1685118447,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 935484,
@@ -67,8 +75,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 542501,
+      "num": 246321,
+      "word": "江西一对表兄妹结婚10年育1子",
+      "onboard_time": 1685119164,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 508030,
-      "num": 197580,
+      "num": 237610,
       "word": "塞尔维亚总统下令军队进入最高战备状态",
       "onboard_time": 1685116291,
       "rank": 30,
@@ -89,6 +105,14 @@
       "onboard_time": 1685111432,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 473468,
+      "num": 243342,
+      "word": "何丹彤回应被抢劫",
+      "onboard_time": 1685119107,
+      "rank": 11,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 404005,
@@ -187,6 +211,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 259720,
+      "num": 259720,
+      "word": "送命式熬夜 经常性失落",
+      "onboard_time": 1685120123,
+      "rank": 8,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 241371,
       "num": 199864,
       "word": "向往的生活",
@@ -201,14 +233,6 @@
       "onboard_time": 1685115812,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205199,
-      "num": 205199,
-      "word": "林志颖车祸后再度开赛车",
-      "onboard_time": 1685118447,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 203854,
@@ -243,6 +267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 194897,
+      "num": 206670,
+      "word": "广东6男孩被骗到缅甸失联20余天",
+      "onboard_time": 1685117908,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191366,
       "num": 191366,
       "word": "五月天",
@@ -256,14 +288,6 @@
       "word": "警方通报长沙一家5口死亡",
       "onboard_time": 1685091208,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174994,
-      "num": 206670,
-      "word": "广东6男孩被骗到缅甸失联20余天",
-      "onboard_time": 1685117908,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -321,6 +345,14 @@
       "onboard_time": 1685113231,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123621,
+      "num": 123621,
+      "word": "怎么跟回避型谈恋爱",
+      "onboard_time": 1685118748,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 123207,
@@ -403,12 +435,36 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 68746,
+      "num": 84234,
+      "word": "高校用毕业生名字制成姓名墙",
+      "onboard_time": 1685120962,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67137,
+      "num": 84231,
+      "word": "椰树 不带货纯擦",
+      "onboard_time": 1685120782,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63069,
       "num": 1008854,
       "word": "中美双方同意建立经贸沟通渠道",
       "onboard_time": 1685107591,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57249,
+      "num": 84217,
+      "word": "人无法同时拥有青春和对青春的感受",
+      "onboard_time": 1685119466,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 55955,
