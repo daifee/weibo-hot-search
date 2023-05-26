@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1685126007882,
+  "endTime": 1685128395308,
   "band_list": [
     {
       "raw_hot": 4241479,
@@ -12033,6 +12033,14 @@
       "onboard_time": 1684841071,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32639,
+      "num": 32639,
+      "word": "五月天白安再唱人生海海",
+      "onboard_time": 1685126594,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 32621,
