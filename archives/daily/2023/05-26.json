@@ -1,6 +1,6 @@
 {
   "startTime": 1685031732217,
-  "endTime": 1685114210201,
+  "endTime": 1685115229185,
   "band_list": [
     {
       "raw_hot": 4241479,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1915237,
+      "num": 1915237,
+      "word": "狂飙片方没有为高启强报名",
+      "onboard_time": 1685110894,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1911286,
       "num": 1884831,
       "word": "长沙某小区房内发现5具尸体",
@@ -105,14 +113,6 @@
       "onboard_time": 1685027675,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1823063,
-      "num": 1823063,
-      "word": "狂飙片方没有为高启强报名",
-      "onboard_time": 1685110894,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 1784408,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 792601,
+      "num": 792601,
+      "word": "五月天唱了步步",
+      "onboard_time": 1685111432,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 789456,
       "num": 789456,
       "word": "五月天",
@@ -449,14 +457,6 @@
       "onboard_time": 1685084912,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 702481,
-      "num": 702481,
-      "word": "五月天唱了步步",
-      "onboard_time": 1685111432,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 697132,
@@ -571,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 523638,
+      "num": 523638,
+      "word": "王心凌 直播",
+      "onboard_time": 1685112752,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 522474,
       "num": 522474,
       "word": "韩亚航空一客机舱门在空中打开",
@@ -651,12 +659,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 445938,
-      "num": 445938,
-      "word": "王心凌 直播",
-      "onboard_time": 1685112752,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 447989,
+      "num": 447989,
+      "word": "女子执意推婴儿车淌水孩子不慎摔落",
+      "onboard_time": 1685111612,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 441248,
@@ -715,14 +723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 419581,
-      "num": 419581,
-      "word": "女子执意推婴儿车淌水孩子不慎摔落",
-      "onboard_time": 1685111612,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 419341,
       "num": 364868,
       "word": "士兵突击",
@@ -737,6 +737,14 @@
       "onboard_time": 1685108190,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 417334,
+      "num": 417334,
+      "word": "哈尔滨回应网传副市长与交警发生冲突",
+      "onboard_time": 1685113592,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 410924,
@@ -825,6 +833,14 @@
       "onboard_time": 1685057547,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 384012,
+      "num": 384012,
+      "word": "陈梦",
+      "onboard_time": 1685114313,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 382069,
@@ -993,6 +1009,14 @@
       "onboard_time": 1685108611,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 318156,
+      "num": 318156,
+      "word": "黄牌",
+      "onboard_time": 1685113112,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 317885,
@@ -1187,11 +1211,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 274560,
-      "num": 274560,
-      "word": "黄牌",
-      "onboard_time": 1685113112,
-      "rank": 23,
+      "raw_hot": 276167,
+      "num": 276167,
+      "word": "王楚钦4比1林德",
+      "onboard_time": 1685114909,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -1643,14 +1667,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 222814,
-      "num": 222814,
-      "word": "哈尔滨回应网传副市长与交警发生冲突",
-      "onboard_time": 1685113592,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222433,
       "num": 1147260,
       "word": "松狮成了奶奶用来盘线的工具狗",
@@ -1803,6 +1819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201265,
+      "num": 201265,
+      "word": "五月天 微博摇滚区",
+      "onboard_time": 1685108012,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 201134,
       "num": 201134,
       "word": "gidle Queencard",
@@ -1817,14 +1841,6 @@
       "onboard_time": 1685025097,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 200548,
-      "num": 200548,
-      "word": "五月天 微博摇滚区",
-      "onboard_time": 1685108012,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 199847,
@@ -2291,6 +2307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149592,
+      "num": 149592,
+      "word": "合肥演唱会",
+      "onboard_time": 1685114131,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 149404,
       "num": 149404,
       "word": "阿信",
@@ -2316,7 +2340,7 @@
     },
     {
       "raw_hot": 146985,
-      "num": 253823,
+      "num": 261718,
       "word": "国乒德班世乒赛首金",
       "onboard_time": 1685101891,
       "rank": 29,
@@ -2392,6 +2416,14 @@
       "word": "内蒙古天空惊现天空之眼",
       "onboard_time": 1685055803,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133055,
+      "num": 462902,
+      "word": "猫头鹰被救助后不肯离开获得警界编制",
+      "onboard_time": 1685113231,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2723,14 +2755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 69132,
-      "num": 462902,
-      "word": "猫头鹰被救助后不肯离开获得警界编制",
-      "onboard_time": 1685113231,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 68656,
       "num": 82145,
       "word": "留守女孩来例假被吓哭老师暖心安慰",
@@ -2807,6 +2831,9 @@
     },
     {
       "word": "#2023网络名人湖北行#"
+    },
+    {
+      "word": "#中国刚果金关系提升#"
     }
   ]
 }
