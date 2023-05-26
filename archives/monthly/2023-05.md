@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/05/01 00:20:43 ~ 2023/05/26 23:33:49
+本榜单时间：2023/05/01 00:20:43 ~ 2023/05/27 00:21:50
 </p>
 </blockquote>
 <p>
@@ -4785,6 +4785,12 @@ Angelababy何猷君何超欣同框（热度：1188034）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1AI%E6%8D%A2%E8%84%B8%E5%8F%B6%E5%A4%95%E9%9B%BE%23" target="weibo">
+张元英AI换脸叶夕雾（热度：1147115）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%8E%98%E5%B2%9B%E9%81%87%E5%AE%B3%E6%83%85%E4%BE%A3%E7%B3%BB%E5%90%8C%E4%BA%8B%E5%85%B3%E7%B3%BB%23" target="weibo">
 巴厘岛遇害情侣系同事关系（热度：1146949）
 </a>
@@ -6005,12 +6011,6 @@ iPhone很富士（热度：973009）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A8%E6%9C%BA%E5%9C%BA%23" target="weibo">
 厦门机场（热度：957254）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%23" target="weibo">
-胡锡进（热度：956452）
 </a>
 </li>
 
