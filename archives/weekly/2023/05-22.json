@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1685068996369,
+  "endTime": 1685071042036,
   "band_list": [
     {
       "raw_hot": 3643134,
@@ -115,6 +115,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2784923,
+      "num": 2784923,
+      "word": "女生手无意碰到老师被脚踢揪进教室",
+      "onboard_time": 1685065886,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2771367,
       "num": 703738,
       "word": "陈大事",
@@ -145,14 +153,6 @@
       "onboard_time": 1684738347,
       "rank": 4,
       "category": "科技"
-    },
-    {
-      "raw_hot": 2589633,
-      "num": 2589633,
-      "word": "女生手无意碰到老师被脚踢揪进教室",
-      "onboard_time": 1685065886,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2568914,
@@ -241,6 +241,14 @@
       "onboard_time": 1684972223,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2175693,
+      "num": 2175693,
+      "word": "张颂文没有提名白玉兰",
+      "onboard_time": 1685068409,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 2175664,
@@ -643,6 +651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1393749,
+      "num": 1393749,
+      "word": "长期吃素致孩子远低于平均身高17cm",
+      "onboard_time": 1685065886,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1392411,
       "num": 1392411,
       "word": "华表奖",
@@ -856,6 +872,14 @@
       "word": "IU或恢复在中国的活动",
       "onboard_time": 1684901432,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1258770,
+      "num": 1258770,
+      "word": "杨紫是不是换妆造团队了",
+      "onboard_time": 1685068708,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -1403,14 +1427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 948489,
-      "num": 948489,
-      "word": "长期吃素致孩子远低于平均身高17cm",
-      "onboard_time": 1685065886,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 943100,
       "num": 943100,
       "word": "1岁半女婴离家30米处丢失",
@@ -1609,6 +1625,14 @@
       "onboard_time": 1684837292,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 843576,
+      "num": 608431,
+      "word": "赵丽颖提名白玉兰最佳女主角",
+      "onboard_time": 1685068467,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 841668,
@@ -2201,6 +2225,14 @@
       "onboard_time": 1684932688,
       "rank": 21,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 602670,
+      "num": 410235,
+      "word": "山西被害男孩生父村子禁止外人进入",
+      "onboard_time": 1685068409,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 602043,
@@ -3435,6 +3467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 405348,
+      "num": 405348,
+      "word": "网传长沙一小区发生命案",
+      "onboard_time": 1685067867,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405081,
       "num": 405081,
       "word": "G社拍的海清",
@@ -4003,6 +4043,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 355324,
+      "num": 355324,
+      "word": "白玉兰入围综艺",
+      "onboard_time": 1685069548,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 352987,
+      "num": 352987,
+      "word": "杨蓉 白玉兰",
+      "onboard_time": 1685070688,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 352708,
       "num": 352708,
       "word": "孙颖莎4比0申裕斌",
@@ -4195,14 +4251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 338027,
-      "num": 338027,
-      "word": "张颂文没有提名白玉兰",
-      "onboard_time": 1685068409,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 337606,
       "num": 337606,
       "word": "Jennie戳爷同框合影",
@@ -4235,14 +4283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 336047,
-      "num": 336047,
-      "word": "网传长沙一小区发生命案",
-      "onboard_time": 1685067867,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 336044,
       "num": 336044,
       "word": "阿根廷足协官宣中国行",
@@ -4265,14 +4305,6 @@
       "onboard_time": 1684902333,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 334989,
-      "num": 334989,
-      "word": "赵丽颖提名白玉兰最佳女主角",
-      "onboard_time": 1685068467,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 333634,
@@ -4504,6 +4536,14 @@
       "word": "宁艺卓瘦了",
       "onboard_time": 1684769488,
       "rank": 42,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 317885,
+      "num": 277264,
+      "word": "虞书欣白色眼妆",
+      "onboard_time": 1685069309,
+      "rank": 25,
       "category": "作品衍生"
     },
     {
@@ -4907,6 +4947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 293738,
+      "num": 268797,
+      "word": "第28届白玉兰入围名单",
+      "onboard_time": 1685070147,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 292993,
       "num": 292993,
       "word": "ENHYPEN 天棺赐符",
@@ -5003,14 +5051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 288807,
-      "num": 230781,
-      "word": "山西被害男孩生父村子禁止外人进入",
-      "onboard_time": 1685068409,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 288600,
       "num": 288600,
       "word": "10岁遇害男孩生母和继父曾流泪寻人",
@@ -5097,6 +5137,14 @@
       "onboard_time": 1685020168,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284814,
+      "num": 284814,
+      "word": "凯尔特人2比3热火",
+      "onboard_time": 1685070210,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 284600,
@@ -5643,6 +5691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259940,
+      "num": 259940,
+      "word": "海蝶音乐发声明",
+      "onboard_time": 1685069910,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259633,
       "num": 259633,
       "word": "许嵩 天津",
@@ -5720,6 +5776,14 @@
       "word": "vivo行业首创粒子水墨工艺",
       "onboard_time": 1685067809,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257071,
+      "num": 257071,
+      "word": "教育局回应女孩手无意碰到老师被踢拽",
+      "onboard_time": 1685070748,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -5875,20 +5939,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 249965,
+      "num": 249965,
+      "word": "父女捡10万现金报警后发现是练功券",
+      "onboard_time": 1685067987,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249047,
       "num": 249047,
       "word": "分手时什么话对女生伤害最大",
       "onboard_time": 1684847014,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 248321,
-      "num": 248321,
-      "word": "父女捡10万现金报警后发现是练功券",
-      "onboard_time": 1685067987,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248095,
@@ -6099,6 +6163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239983,
+      "num": 239983,
+      "word": "罗京民",
+      "onboard_time": 1685069969,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239765,
       "num": 239765,
       "word": "工作后每月上交多少给父母",
@@ -6265,6 +6337,14 @@
       "onboard_time": 1685021430,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235011,
+      "num": 235011,
+      "word": "ENHYPEN马上就剩洋恩静了",
+      "onboard_time": 1685068827,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 234792,
@@ -6841,14 +6921,6 @@
       "onboard_time": 1685000486,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 215427,
-      "num": 215427,
-      "word": "ENHYPEN马上就剩洋恩静了",
-      "onboard_time": 1685068827,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 215182,
@@ -7611,14 +7683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 190117,
-      "num": 187729,
-      "word": "杨紫是不是换妆造团队了",
-      "onboard_time": 1685068708,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 190077,
       "num": 190077,
       "word": "阿里判赔网易5000万",
@@ -7851,6 +7915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184253,
+      "num": 184253,
+      "word": "种地吧",
+      "onboard_time": 1685070326,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183561,
       "num": 183561,
       "word": "新娘婚礼公公携战友合唱军歌超震撼",
@@ -7945,6 +8017,22 @@
       "onboard_time": 1684934790,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 180809,
+      "num": 180809,
+      "word": "王子文未提名",
+      "onboard_time": 1685070869,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 180714,
+      "num": 180714,
+      "word": "有的水獭没有孩子还硬装",
+      "onboard_time": 1685068587,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 180638,
@@ -8049,6 +8137,14 @@
       "onboard_time": 1684897588,
       "rank": 41,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 178638,
+      "num": 178638,
+      "word": "张元英低马尾",
+      "onboard_time": 1685070507,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 178463,
@@ -8337,6 +8433,14 @@
       "onboard_time": 1684992569,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168686,
+      "num": 168686,
+      "word": "老教师上班外放刷视频被怼后骂人",
+      "onboard_time": 1685069489,
+      "rank": 44,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 168433,
@@ -9316,7 +9420,7 @@
     },
     {
       "raw_hot": 120593,
-      "num": 235686,
+      "num": 355660,
       "word": "为何古人擅长酒后成诗",
       "onboard_time": 1685068048,
       "rank": 39,
@@ -10288,6 +10392,14 @@
       "word": "63年前的今天中国人首次登顶珠峰",
       "onboard_time": 1685020771,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5726,
+      "num": 407334,
+      "word": "小学生帮老人推车路上不断有人加入",
+      "onboard_time": 1685070987,
+      "rank": 14,
       "category": "社会新闻"
     }
   ],
