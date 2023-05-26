@@ -1,6 +1,6 @@
 {
   "startTime": 1685031732217,
-  "endTime": 1685085379194,
+  "endTime": 1685086416359,
   "band_list": [
     {
       "raw_hot": 4241479,
@@ -56,6 +56,14 @@
       "word": "枪决通知短信",
       "onboard_time": 1685021852,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1941207,
+      "num": 1941207,
+      "word": "姑娘嗓子疼从就诊到去世仅10分钟",
+      "onboard_time": 1685083351,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -139,14 +147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1376030,
-      "num": 1376030,
-      "word": "姑娘嗓子疼从就诊到去世仅10分钟",
-      "onboard_time": 1685083351,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1375544,
       "num": 1375544,
       "word": "儿子扔掉妈妈囤积的20斤陈年冻肉",
@@ -187,6 +187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1174083,
+      "num": 733262,
+      "word": "长沙某小区房内发现5具尸体",
+      "onboard_time": 1685084912,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1149738,
       "num": 1149738,
       "word": "白玉兰提名",
@@ -219,6 +227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 988780,
+      "num": 988780,
+      "word": "平潭一医院员工吊死天台",
+      "onboard_time": 1685082629,
+      "rank": 24,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 971874,
       "num": 711167,
       "word": "东方青苍",
@@ -241,14 +257,6 @@
       "onboard_time": 1685016266,
       "rank": 19,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 874484,
-      "num": 874484,
-      "word": "平潭一医院员工吊死天台",
-      "onboard_time": 1685082629,
-      "rank": 24,
-      "category": "社会负面"
     },
     {
       "raw_hot": 872545,
@@ -283,6 +291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 705772,
+      "num": 705772,
+      "word": "张嘉元辟谣恋情",
+      "onboard_time": 1685084912,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 683415,
       "num": 683415,
       "word": "山西被害男孩生父村子禁止外人进入",
@@ -307,8 +323,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 511439,
-      "num": 511439,
+      "raw_hot": 522474,
+      "num": 522474,
       "word": "韩亚航空一客机舱门在空中打开",
       "onboard_time": 1685083051,
       "rank": 12,
@@ -363,28 +379,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 450360,
-      "num": 450360,
-      "word": "张嘉元辟谣恋情",
-      "onboard_time": 1685084912,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 438625,
       "num": 400282,
       "word": "秋瓷炫Ella共情吴倩",
       "onboard_time": 1685079031,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 438140,
-      "num": 200175,
-      "word": "长沙某小区房内发现5具尸体",
-      "onboard_time": 1685084912,
-      "rank": 30,
-      "category": "社会负面"
     },
     {
       "raw_hot": 421140,
@@ -603,6 +603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 297240,
+      "num": 297240,
+      "word": "对秋瓷炫一辈子好",
+      "onboard_time": 1685083591,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295318,
       "num": 253664,
       "word": "张译一周内获影帝再提视帝",
@@ -659,8 +667,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 283393,
-      "num": 210846,
+      "raw_hot": 284248,
+      "num": 284248,
       "word": "李佳琦直播",
       "onboard_time": 1685083713,
       "rank": 26,
@@ -675,12 +683,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 271321,
-      "num": 207185,
-      "word": "对秋瓷炫一辈子好",
-      "onboard_time": 1685083591,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 280127,
+      "num": 195216,
+      "word": "金发崔胜澈",
+      "onboard_time": 1685085151,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 270710,
@@ -907,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234903,
+      "num": 195590,
+      "word": "明兰小公爷顶峰相见",
+      "onboard_time": 1685075377,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 233549,
       "num": 233549,
       "word": "大数据不要给我推荐可能认识的人了",
@@ -961,6 +977,14 @@
       "onboard_time": 1685064150,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 224595,
+      "num": 224595,
+      "word": "高考找了很硬的关系",
+      "onboard_time": 1685085811,
+      "rank": 23,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 224048,
@@ -1099,20 +1123,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 195590,
-      "num": 195590,
-      "word": "明兰小公爷顶峰相见",
-      "onboard_time": 1685075377,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 194974,
       "num": 194974,
       "word": "国泰航空歧视乘客可追溯至20年前",
       "onboard_time": 1685064025,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194734,
+      "num": 170357,
+      "word": "红楼梦舞剧",
+      "onboard_time": 1685086052,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 194516,
@@ -1129,14 +1153,6 @@
       "onboard_time": 1685057246,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 190837,
-      "num": 190837,
-      "word": "金发崔胜澈",
-      "onboard_time": 1685085151,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 190826,
@@ -1211,6 +1227,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 184605,
+      "num": 171672,
+      "word": "西藏境内发现亚洲第一高树",
+      "onboard_time": 1685085270,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184575,
       "num": 184575,
       "word": "粉丝辟谣王鹤棣虞书欣二搭",
@@ -1249,6 +1273,14 @@
       "onboard_time": 1685063729,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179787,
+      "num": 179787,
+      "word": "王者荣耀挑战者杯新增主播赛道",
+      "onboard_time": 1685085753,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 178681,
@@ -1307,6 +1339,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 170569,
+      "num": 206624,
+      "word": "网传广西科大一副书记酒驾撞车躲女厕",
+      "onboard_time": 1685084073,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169580,
+      "num": 169580,
+      "word": "心在鸟巢",
+      "onboard_time": 1685085391,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 166562,
       "num": 201107,
       "word": "英雄联盟",
@@ -1337,6 +1385,14 @@
       "onboard_time": 1685071109,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161199,
+      "num": 161199,
+      "word": "张艺兴面纱vs乘风面纱",
+      "onboard_time": 1685085871,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 160128,
@@ -1395,14 +1451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150152,
-      "num": 206624,
-      "word": "网传广西科大一副书记酒驾撞车躲女厕",
-      "onboard_time": 1685084073,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149277,
       "num": 149277,
       "word": "二阳",
@@ -1432,6 +1480,14 @@
       "word": "外国同事看Angelababy拍摄时的反应",
       "onboard_time": 1685082450,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 140742,
+      "num": 140742,
+      "word": "老莫走好",
+      "onboard_time": 1685086230,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -1651,6 +1707,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 95656,
+      "num": 139829,
+      "word": "狼队第五人格转会期",
+      "onboard_time": 1685086292,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 94725,
       "num": 94725,
       "word": "当你在零下50度漠河点外卖时",
@@ -1755,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26829,
+      "num": 169652,
+      "word": "618地图打卡功能上线",
+      "onboard_time": 1685084433,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 26142,
       "num": 26142,
       "word": "世乒赛",
@@ -1769,14 +1841,6 @@
       "onboard_time": 1685037856,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24136,
-      "num": 156137,
-      "word": "618地图打卡功能上线",
-      "onboard_time": 1685084433,
-      "rank": 39,
-      "category": "科技"
     }
   ],
   "hotgov_list": [

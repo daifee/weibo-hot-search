@@ -1,0 +1,410 @@
+{
+  "runTime": 1685086416359,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2181688,
+        "num": 2181688,
+        "word": "王宝强 愿老爷子您一路走好",
+        "onboard_time": 1685082931,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1941207,
+        "num": 1941207,
+        "word": "姑娘嗓子疼从就诊到去世仅10分钟",
+        "onboard_time": 1685083351,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5760,
+        "num": 1555193,
+        "word": "30秒看中关村论坛展览的前沿科技",
+        "onboard_time": 1685020652,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1449234,
+        "num": 1449234,
+        "word": "白玉兰0提",
+        "onboard_time": 1685081491,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1055909,
+        "num": 1055909,
+        "word": "张译 今天你就走了你不管我们了",
+        "onboard_time": 1685073150,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1026568,
+        "num": 1026568,
+        "word": "罗京民去世",
+        "onboard_time": 1685073090,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 988780,
+        "num": 988780,
+        "word": "平潭一医院员工吊死天台",
+        "onboard_time": 1685082629,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 908706,
+        "num": 908706,
+        "word": "面纱 难听",
+        "onboard_time": 1685079515,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 790506,
+        "num": 790506,
+        "word": "正午阳光赢麻了",
+        "onboard_time": 1685072428,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 751083,
+        "num": 751083,
+        "word": "儿子扔掉妈妈囤积的20斤陈年冻肉",
+        "onboard_time": 1685071707,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1174083,
+        "num": 733262,
+        "word": "长沙某小区房内发现5具尸体",
+        "onboard_time": 1685084912,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 932369,
+        "num": 726322,
+        "word": "13岁少女网恋后遭性侵怀孕",
+        "onboard_time": 1685074292,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705772,
+        "num": 705772,
+        "word": "张嘉元辟谣恋情",
+        "onboard_time": 1685084912,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522474,
+        "num": 522474,
+        "word": "韩亚航空一客机舱门在空中打开",
+        "onboard_time": 1685083051,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462514,
+        "num": 462514,
+        "word": "二公 很难评",
+        "onboard_time": 1685083051,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 458089,
+        "num": 458089,
+        "word": "杨幂 白玉兰",
+        "onboard_time": 1685072249,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429648,
+        "num": 429648,
+        "word": "教育局回应女孩手无意碰到老师被踢拽",
+        "onboard_time": 1685070748,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423735,
+        "num": 423735,
+        "word": "没认出来虞书欣",
+        "onboard_time": 1685072428,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391213,
+        "num": 391213,
+        "word": "杨紫是不是换妆造团队了",
+        "onboard_time": 1685068708,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370343,
+        "num": 370343,
+        "word": "拍照真是一个好习惯",
+        "onboard_time": 1685077475,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 297240,
+        "num": 297240,
+        "word": "对秋瓷炫一辈子好",
+        "onboard_time": 1685083591,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284248,
+        "num": 284248,
+        "word": "李佳琦直播",
+        "onboard_time": 1685083713,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261736,
+        "num": 261736,
+        "word": "全班最乖的就是大哥了",
+        "onboard_time": 1685081191,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224595,
+        "num": 224595,
+        "word": "高考找了很硬的关系",
+        "onboard_time": 1685085811,
+        "rank": 23,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 203123,
+        "num": 203123,
+        "word": "女子规划资源局前拉横幅为夫纳妾",
+        "onboard_time": 1685074173,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280127,
+        "num": 195216,
+        "word": "金发崔胜澈",
+        "onboard_time": 1685085151,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 274537,
+        "num": 190356,
+        "word": "谢娜组第一",
+        "onboard_time": 1685083051,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245276,
+        "num": 190240,
+        "word": "美依礼芽体重",
+        "onboard_time": 1685078614,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183609,
+        "num": 183609,
+        "word": "长期吃素致孩子远低于平均身高17cm",
+        "onboard_time": 1685065886,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179787,
+        "num": 179787,
+        "word": "王者荣耀挑战者杯新增主播赛道",
+        "onboard_time": 1685085753,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 234903,
+        "num": 179073,
+        "word": "明兰小公爷顶峰相见",
+        "onboard_time": 1685075377,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210041,
+        "num": 177356,
+        "word": "赵丽颖飞奔向谢娜",
+        "onboard_time": 1685079271,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209800,
+        "num": 174251,
+        "word": "秋瓷炫Ella共情吴倩",
+        "onboard_time": 1685079031,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184605,
+        "num": 171672,
+        "word": "西藏境内发现亚洲第一高树",
+        "onboard_time": 1685085270,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170569,
+        "num": 170569,
+        "word": "网传广西科大一副书记酒驾撞车躲女厕",
+        "onboard_time": 1685084073,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197113,
+        "num": 170422,
+        "word": "张颂文没有提名白玉兰",
+        "onboard_time": 1685068409,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194734,
+        "num": 170357,
+        "word": "红楼梦舞剧",
+        "onboard_time": 1685086052,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159267,
+        "num": 170055,
+        "word": "被公司的实习生投喂了泻药",
+        "onboard_time": 1685079690,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112682,
+        "num": 169881,
+        "word": "英雄联盟",
+        "onboard_time": 1685080770,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26829,
+        "num": 169652,
+        "word": "618地图打卡功能上线",
+        "onboard_time": 1685084433,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 169580,
+        "num": 169580,
+        "word": "心在鸟巢",
+        "onboard_time": 1685085391,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162950,
+        "num": 162950,
+        "word": "新郎偷偷邀请新娘的爱豆到婚礼现场",
+        "onboard_time": 1685081911,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161199,
+        "num": 161199,
+        "word": "张艺兴面纱vs乘风面纱",
+        "onboard_time": 1685085871,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142966,
+        "num": 142966,
+        "word": "赵露思超爱星黛露",
+        "onboard_time": 1685080353,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140742,
+        "num": 140742,
+        "word": "老莫走好",
+        "onboard_time": 1685086230,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98101,
+        "num": 140396,
+        "word": "特斯拉车顶维权女车主被判败诉",
+        "onboard_time": 1685074956,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95656,
+        "num": 139829,
+        "word": "狼队第五人格转会期",
+        "onboard_time": 1685086292,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 93493,
+        "num": 138100,
+        "word": "女生手无意碰到老师被脚踢揪进教室",
+        "onboard_time": 1685065886,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93111,
+        "num": 137996,
+        "word": "陌生爷爷塞给我的十元钱",
+        "onboard_time": 1685079993,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86609,
+        "num": 136540,
+        "word": "C919",
+        "onboard_time": 1685072850,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美将就中美经贸关系等问题进行交流#"
+    }
+  }
+}
