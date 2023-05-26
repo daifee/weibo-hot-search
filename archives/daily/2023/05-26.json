@@ -1,6 +1,6 @@
 {
   "startTime": 1685031732217,
-  "endTime": 1685097217442,
+  "endTime": 1685099703927,
   "band_list": [
     {
       "raw_hot": 4241479,
@@ -139,20 +139,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1494382,
+      "num": 1494382,
+      "word": "五月天 华晨宇",
+      "onboard_time": 1685092773,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1451541,
       "num": 1451541,
       "word": "面纱 难听",
       "onboard_time": 1685079515,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1430320,
-      "num": 1430320,
-      "word": "五月天 华晨宇",
-      "onboard_time": 1685092773,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 1412845,
@@ -225,6 +225,14 @@
       "onboard_time": 1685072428,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1198984,
+      "num": 1198984,
+      "word": "拼多多上毕业就失业的美术生",
+      "onboard_time": 1685095773,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1149738,
@@ -355,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 734580,
+      "num": 734580,
+      "word": "狂飙",
+      "onboard_time": 1685097391,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 705772,
       "num": 705772,
       "word": "张嘉元辟谣恋情",
@@ -403,11 +419,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 559467,
-      "num": 236339,
-      "word": "拼多多上毕业就失业的美术生",
-      "onboard_time": 1685095773,
-      "rank": 33,
+      "raw_hot": 562100,
+      "num": 562100,
+      "word": "妻子离婚时才知丈夫年入300万",
+      "onboard_time": 1685098051,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -451,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 473953,
+      "num": 424219,
+      "word": "五月天演唱会",
+      "onboard_time": 1685093793,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 473614,
       "num": 473614,
       "word": "杭州机场偶遇向佐接机郭碧婷",
@@ -492,7 +516,7 @@
     },
     {
       "raw_hot": 433695,
-      "num": 356510,
+      "num": 365810,
       "word": "甄嬛传演到滴血认亲食堂大姨忘了工作",
       "onboard_time": 1685095294,
       "rank": 30,
@@ -563,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 404256,
+      "num": 261066,
+      "word": "女子诞下百万分之一镜面宝宝",
+      "onboard_time": 1685098653,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 403924,
       "num": 389210,
       "word": "王鹤棣悼念罗京民",
@@ -577,6 +609,14 @@
       "onboard_time": 1685069548,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 396936,
+      "num": 396936,
+      "word": "娄艺潇回复网友不参加浪姐的原因",
+      "onboard_time": 1685097690,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 396783,
@@ -633,6 +673,14 @@
       "onboard_time": 1685078854,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 373368,
+      "num": 373368,
+      "word": "王鹤棣田曦薇新剧开始招募文替",
+      "onboard_time": 1685098590,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 370370,
@@ -731,12 +779,12 @@
       "category": "其它"
     },
     {
-      "raw_hot": 323227,
-      "num": 323227,
-      "word": "五月天演唱会",
-      "onboard_time": 1685093793,
-      "rank": 21,
-      "category": "音乐"
+      "raw_hot": 321789,
+      "num": 321789,
+      "word": "日本地震",
+      "onboard_time": 1685096910,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317885,
@@ -979,6 +1027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 261047,
+      "num": 261047,
+      "word": "奔跑吧这期一上来就亮身份",
+      "onboard_time": 1685098951,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 259188,
       "num": 259188,
       "word": "高三学生举班主任海报拍毕业照",
@@ -1035,14 +1091,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 253812,
-      "num": 253812,
-      "word": "日本地震",
-      "onboard_time": 1685096910,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 253394,
       "num": 253394,
       "word": "家家",
@@ -1080,6 +1128,14 @@
       "word": "谢娜面纱造型",
       "onboard_time": 1685073330,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 248911,
+      "num": 248911,
+      "word": "灿烂灿烂",
+      "onboard_time": 1685098351,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -1219,6 +1275,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 228326,
+      "num": 228326,
+      "word": "专家称印度人口将是中国三倍",
+      "onboard_time": 1685097751,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225756,
       "num": 198364,
       "word": "内娱仪态的神",
@@ -1243,12 +1307,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224372,
+      "num": 224372,
+      "word": "手机销量差是因为卖的贵吗",
+      "onboard_time": 1685095471,
+      "rank": 47,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 224048,
       "num": 188129,
       "word": "曹骏说不知道娱乐圈要什么样的性格",
       "onboard_time": 1685027555,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 222433,
+      "num": 1050379,
+      "word": "松狮成了奶奶用来盘线的工具狗",
+      "onboard_time": 1685086830,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 221372,
@@ -1273,14 +1353,6 @@
       "onboard_time": 1685072249,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 218827,
-      "num": 828902,
-      "word": "松狮成了奶奶用来盘线的工具狗",
-      "onboard_time": 1685086830,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 217568,
@@ -1329,6 +1401,14 @@
       "onboard_time": 1685073452,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211159,
+      "num": 211159,
+      "word": "五月天演唱会你买到票了吗",
+      "onboard_time": 1685093374,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 210498,
@@ -1401,14 +1481,6 @@
       "onboard_time": 1685088510,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 198983,
-      "num": 198983,
-      "word": "五月天演唱会你买到票了吗",
-      "onboard_time": 1685093374,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 198359,
@@ -1643,14 +1715,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 174048,
-      "num": 174048,
-      "word": "手机销量差是因为卖的贵吗",
-      "onboard_time": 1685095471,
-      "rank": 47,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 171052,
       "num": 196185,
       "word": "chatgpt",
@@ -1696,6 +1760,14 @@
       "word": "大学旁听12年的脑瘫小伙完成博士论文答辩",
       "onboard_time": 1685071109,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163261,
+      "num": 261809,
+      "word": "天猫618预售功课",
+      "onboard_time": 1685098828,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1785,6 +1857,14 @@
       "onboard_time": 1685096669,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146927,
+      "num": 146927,
+      "word": "莎头",
+      "onboard_time": 1685097991,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 142814,
@@ -2049,6 +2129,14 @@
       "onboard_time": 1685031448,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 98257,
+      "num": 138466,
+      "word": "香港的菜单有多离谱",
+      "onboard_time": 1685099430,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 96480,
