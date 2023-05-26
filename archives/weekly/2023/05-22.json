@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1685089237809,
+  "endTime": 1685090006378,
   "band_list": [
     {
       "raw_hot": 4241479,
@@ -355,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1911286,
+      "num": 1884831,
+      "word": "长沙某小区房内发现5具尸体",
+      "onboard_time": 1685084912,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1910348,
       "num": 1910348,
       "word": "陈乔恩以为龚俊30多了",
@@ -385,14 +393,6 @@
       "onboard_time": 1684832430,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1884831,
-      "num": 1884831,
-      "word": "长沙某小区房内发现5具尸体",
-      "onboard_time": 1685084912,
-      "rank": 30,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1871735,
@@ -2267,6 +2267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 628423,
+      "num": 449068,
+      "word": "公诉定档",
+      "onboard_time": 1685089711,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 624308,
       "num": 624308,
       "word": "前国泰空姐爆料歧视内地旅客是常态",
@@ -2537,6 +2545,14 @@
       "onboard_time": 1684856852,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 571068,
+      "num": 445460,
+      "word": "18层地狱 1到18都是地狱",
+      "onboard_time": 1685087310,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 570411,
@@ -4139,14 +4155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 367467,
-      "num": 367467,
-      "word": "18层地狱 1到18都是地狱",
-      "onboard_time": 1685087310,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 366922,
       "num": 366922,
       "word": "怦然心动20岁",
@@ -4715,6 +4723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 324036,
+      "num": 324036,
+      "word": "急性会厌炎",
+      "onboard_time": 1685087494,
+      "rank": 22,
+      "category": "其它"
+    },
+    {
       "raw_hot": 323687,
       "num": 323687,
       "word": "护心扫楼",
@@ -4833,14 +4849,6 @@
       "onboard_time": 1684736007,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315952,
-      "num": 315952,
-      "word": "急性会厌炎",
-      "onboard_time": 1685087494,
-      "rank": 22,
-      "category": "其它"
     },
     {
       "raw_hot": 315924,
@@ -5732,7 +5740,7 @@
     },
     {
       "raw_hot": 273945,
-      "num": 273945,
+      "num": 281118,
       "word": "西藏境内发现亚洲第一高树",
       "onboard_time": 1685085270,
       "rank": 33,
@@ -6313,6 +6321,14 @@
       "onboard_time": 1684909769,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250949,
+      "num": 194332,
+      "word": "张杰安慰谢娜",
+      "onboard_time": 1685089111,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 250504,
@@ -7219,6 +7235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220726,
+      "num": 271271,
+      "word": "这回海里全知道人类会开核桃了",
+      "onboard_time": 1685086530,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 220552,
       "num": 220552,
       "word": "孙颖莎 德班",
@@ -7297,14 +7321,6 @@
       "onboard_time": 1685074956,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 217249,
-      "num": 271271,
-      "word": "这回海里全知道人类会开核桃了",
-      "onboard_time": 1685086530,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 216909,
@@ -8971,6 +8987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171052,
+      "num": 171052,
+      "word": "chatgpt",
+      "onboard_time": 1685088213,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 171037,
       "num": 171037,
       "word": "落跑甜心",
@@ -9417,6 +9441,14 @@
       "onboard_time": 1684846113,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 155133,
+      "num": 155133,
+      "word": "男教师多次性侵13岁女孩获刑18年",
+      "onboard_time": 1685089769,
+      "rank": 37,
+      "category": "社会负面,教育"
     },
     {
       "raw_hot": 155080,
@@ -9915,6 +9947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131431,
+      "num": 131431,
+      "word": "护考",
+      "onboard_time": 1685086411,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 131086,
       "num": 131086,
       "word": "蓝莓表面的白霜要洗掉吗",
@@ -9929,14 +9969,6 @@
       "onboard_time": 1684664189,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130986,
-      "num": 130986,
-      "word": "chatgpt",
-      "onboard_time": 1685088213,
-      "rank": 44,
-      "category": "科技"
     },
     {
       "raw_hot": 130920,
@@ -9971,12 +10003,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 129882,
-      "num": 129882,
-      "word": "张杰安慰谢娜",
-      "onboard_time": 1685089111,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 129096,
+      "num": 129096,
+      "word": "广东三支一扶",
+      "onboard_time": 1685089170,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 128922,
@@ -10011,12 +10043,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 127944,
-      "num": 127944,
-      "word": "护考",
-      "onboard_time": 1685086411,
-      "rank": 46,
-      "category": "教育"
+      "raw_hot": 127767,
+      "num": 127767,
+      "word": "美依礼芽有新翻译了",
+      "onboard_time": 1685089952,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 127430,
+      "num": 432518,
+      "word": "年龄带给人的改变是什么",
+      "onboard_time": 1685088510,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 126483,
@@ -10049,14 +10089,6 @@
       "onboard_time": 1684664189,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125338,
-      "num": 125338,
-      "word": "广东三支一扶",
-      "onboard_time": 1685089170,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 125293,
@@ -10385,14 +10417,6 @@
       "onboard_time": 1685012968,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 103758,
-      "num": 378506,
-      "word": "年龄带给人的改变是什么",
-      "onboard_time": 1685088510,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 102801,

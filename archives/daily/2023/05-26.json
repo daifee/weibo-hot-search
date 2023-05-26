@@ -1,6 +1,6 @@
 {
   "startTime": 1685031732217,
-  "endTime": 1685089237809,
+  "endTime": 1685090006378,
   "band_list": [
     {
       "raw_hot": 4241479,
@@ -67,20 +67,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1911286,
+      "num": 1884831,
+      "word": "长沙某小区房内发现5具尸体",
+      "onboard_time": 1685084912,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1905250,
       "num": 1905250,
       "word": "平安北京 无语死了",
       "onboard_time": 1685027675,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1884831,
-      "num": 1884831,
-      "word": "长沙某小区房内发现5具尸体",
-      "onboard_time": 1685084912,
-      "rank": 30,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1695268,
@@ -307,12 +307,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 628423,
+      "num": 449068,
+      "word": "公诉定档",
+      "onboard_time": 1685089711,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 614923,
       "num": 614923,
       "word": "报警人中途撤警因小学生将火扑灭",
       "onboard_time": 1685064568,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 571068,
+      "num": 445460,
+      "word": "18层地狱 1到18都是地狱",
+      "onboard_time": 1685087310,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 540758,
@@ -523,14 +539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 367467,
-      "num": 367467,
-      "word": "18层地狱 1到18都是地狱",
-      "onboard_time": 1685087310,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 365943,
       "num": 365943,
       "word": "上海电视节",
@@ -603,20 +611,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 324036,
+      "num": 324036,
+      "word": "急性会厌炎",
+      "onboard_time": 1685087494,
+      "rank": 22,
+      "category": "其它"
+    },
+    {
       "raw_hot": 317885,
       "num": 277264,
       "word": "虞书欣白色眼妆",
       "onboard_time": 1685069309,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 315952,
-      "num": 315952,
-      "word": "急性会厌炎",
-      "onboard_time": 1685087494,
-      "rank": 22,
-      "category": "其它"
     },
     {
       "raw_hot": 315087,
@@ -724,7 +732,7 @@
     },
     {
       "raw_hot": 273945,
-      "num": 273945,
+      "num": 281118,
       "word": "西藏境内发现亚洲第一高树",
       "onboard_time": 1685085270,
       "rank": 33,
@@ -873,6 +881,14 @@
       "onboard_time": 1685061272,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250949,
+      "num": 194332,
+      "word": "张杰安慰谢娜",
+      "onboard_time": 1685089111,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 249255,
@@ -1043,6 +1059,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 220726,
+      "num": 271271,
+      "word": "这回海里全知道人类会开核桃了",
+      "onboard_time": 1685086530,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 219096,
       "num": 219096,
       "word": "林俊杰演唱会",
@@ -1057,14 +1081,6 @@
       "onboard_time": 1685074956,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 217249,
-      "num": 271271,
-      "word": "这回海里全知道人类会开核桃了",
-      "onboard_time": 1685086530,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 216840,
@@ -1403,6 +1419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 171052,
+      "num": 171052,
+      "word": "chatgpt",
+      "onboard_time": 1685088213,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 169580,
       "num": 169580,
       "word": "心在鸟巢",
@@ -1465,6 +1489,14 @@
       "onboard_time": 1685079993,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155133,
+      "num": 155133,
+      "word": "男教师多次性侵13岁女孩获刑18年",
+      "onboard_time": 1685089769,
+      "rank": 37,
+      "category": "社会负面,教育"
     },
     {
       "raw_hot": 154928,
@@ -1571,6 +1603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131431,
+      "num": 131431,
+      "word": "护考",
+      "onboard_time": 1685086411,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 131235,
       "num": 131235,
       "word": "ENHYPEN修改ending动作",
@@ -1585,14 +1625,6 @@
       "onboard_time": 1685022993,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 130986,
-      "num": 130986,
-      "word": "chatgpt",
-      "onboard_time": 1685088213,
-      "rank": 44,
-      "category": "科技"
     },
     {
       "raw_hot": 130920,
@@ -1619,12 +1651,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 129882,
-      "num": 129882,
-      "word": "张杰安慰谢娜",
-      "onboard_time": 1685089111,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 129096,
+      "num": 129096,
+      "word": "广东三支一扶",
+      "onboard_time": 1685089170,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 128922,
@@ -1635,12 +1667,20 @@
       "category": "科技,国内要闻"
     },
     {
-      "raw_hot": 127944,
-      "num": 127944,
-      "word": "护考",
-      "onboard_time": 1685086411,
-      "rank": 46,
-      "category": "教育"
+      "raw_hot": 127767,
+      "num": 127767,
+      "word": "美依礼芽有新翻译了",
+      "onboard_time": 1685089952,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 127430,
+      "num": 432518,
+      "word": "年龄带给人的改变是什么",
+      "onboard_time": 1685088510,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 126673,
@@ -1657,14 +1697,6 @@
       "onboard_time": 1685015787,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125338,
-      "num": 125338,
-      "word": "广东三支一扶",
-      "onboard_time": 1685089170,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 123639,
@@ -1761,14 +1793,6 @@
       "onboard_time": 1685023232,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 103758,
-      "num": 378506,
-      "word": "年龄带给人的改变是什么",
-      "onboard_time": 1685088510,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 99556,
