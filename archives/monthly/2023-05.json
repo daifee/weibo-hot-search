@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685104308728,
+  "endTime": 1685105304313,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1187,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2428901,
+      "num": 2428901,
+      "word": "狂飙",
+      "onboard_time": 1685097391,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2412327,
       "num": 2412327,
       "word": "全职太太离婚发现丈夫资产过亿",
@@ -1801,14 +1809,6 @@
       "onboard_time": 1683332792,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2083888,
-      "num": 2083888,
-      "word": "狂飙",
-      "onboard_time": 1685097391,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 2067150,
@@ -10907,6 +10907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 697132,
+      "num": 697132,
+      "word": "五月天演唱会 场控",
+      "onboard_time": 1685105071,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 696943,
       "num": 511689,
       "word": "刘恋穿了品如的衣服",
@@ -11755,6 +11763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 638324,
+      "num": 516022,
+      "word": "五月天演唱会",
+      "onboard_time": 1683280411,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 638286,
       "num": 638286,
       "word": "出差十五夜",
@@ -11929,6 +11945,14 @@
       "onboard_time": 1685089711,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 628420,
+      "num": 357829,
+      "word": "黄子韬淘汰谢娜",
+      "onboard_time": 1685102609,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 627997,
@@ -12145,14 +12169,6 @@
       "onboard_time": 1683547169,
       "rank": 10,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 616238,
-      "num": 516022,
-      "word": "五月天演唱会",
-      "onboard_time": 1683280411,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 616154,
@@ -13283,6 +13299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 570394,
+      "num": 400011,
+      "word": "我妈死后还在催婚",
+      "onboard_time": 1685102550,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 570243,
       "num": 570243,
       "word": "美依礼芽2015年到底有多火",
@@ -13419,6 +13443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 563932,
+      "num": 382739,
+      "word": "五月天点歌",
+      "onboard_time": 1685105071,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 563586,
       "num": 374250,
       "word": "宁安如梦宁有福了直播派对",
@@ -13433,14 +13465,6 @@
       "onboard_time": 1683884308,
       "rank": 4,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 561941,
-      "num": 314306,
-      "word": "黄子韬淘汰谢娜",
-      "onboard_time": 1685102609,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 561370,
@@ -15097,6 +15121,14 @@
       "onboard_time": 1683468452,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 505410,
+      "num": 345346,
+      "word": "奔跑吧这回真的有剧本",
+      "onboard_time": 1685102668,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 505160,
@@ -17000,14 +17032,6 @@
       "word": "高碧吐了 一字马是常见的舞蹈动作",
       "onboard_time": 1684026866,
       "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 452021,
-      "num": 310361,
-      "word": "奔跑吧这回真的有剧本",
-      "onboard_time": 1685102668,
-      "rank": 21,
       "category": "综艺"
     },
     {
@@ -19091,6 +19115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 408974,
+      "num": 381737,
+      "word": "狂飙官博白玉兰入围文案",
+      "onboard_time": 1685103150,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 408922,
       "num": 243898,
       "word": "NCT",
@@ -21001,6 +21033,14 @@
       "onboard_time": 1685005348,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377238,
+      "num": 377238,
+      "word": "王曼昱vs陈幸同",
+      "onboard_time": 1685105191,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 377187,
@@ -25883,14 +25923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 309659,
-      "num": 182146,
-      "word": "我妈死后还在催婚",
-      "onboard_time": 1685102550,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 309258,
       "num": 309258,
       "word": "腿干的像鱼鳞一样的原因",
@@ -26353,6 +26385,14 @@
       "onboard_time": 1684984170,
       "rank": 37,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 302899,
+      "num": 193509,
+      "word": "公诉全员被闭麦",
+      "onboard_time": 1685101351,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 302806,
@@ -26907,14 +26947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 296513,
-      "num": 296513,
-      "word": "狂飙官博白玉兰入围文案",
-      "onboard_time": 1685103150,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 296510,
       "num": 296510,
       "word": "张颂文曾是高叶老师",
@@ -26948,7 +26980,7 @@
     },
     {
       "raw_hot": 296122,
-      "num": 188307,
+      "num": 190619,
       "word": "人在鸟巢门口",
       "onboard_time": 1685101051,
       "rank": 25,
@@ -30673,14 +30705,6 @@
       "onboard_time": 1683355948,
       "rank": 30,
       "category": "社会新闻,自然"
-    },
-    {
-      "raw_hot": 260631,
-      "num": 181625,
-      "word": "公诉全员被闭麦",
-      "onboard_time": 1685101351,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 260578,
@@ -41627,6 +41651,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 187019,
+      "num": 176443,
+      "word": "李健音乐会",
+      "onboard_time": 1685104110,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 186983,
       "num": 186983,
       "word": "GEN对战G2",
@@ -41945,14 +41977,6 @@
       "onboard_time": 1683375268,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185684,
-      "num": 176443,
-      "word": "李健音乐会",
-      "onboard_time": 1685104110,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 185681,
@@ -45820,7 +45844,7 @@
     },
     {
       "raw_hot": 161781,
-      "num": 142819,
+      "num": 159161,
       "word": "罗渽民粉发",
       "onboard_time": 1685101650,
       "rank": 43,
@@ -48140,7 +48164,7 @@
     },
     {
       "raw_hot": 146985,
-      "num": 182512,
+      "num": 187960,
       "word": "国乒德班世乒赛首金",
       "onboard_time": 1685101891,
       "rank": 29,
@@ -48657,6 +48681,14 @@
       "onboard_time": 1685092110,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142724,
+      "num": 142724,
+      "word": "阿信",
+      "onboard_time": 1683631709,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 142717,
@@ -49307,6 +49339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137356,
+      "num": 154486,
+      "word": "上海再现野生四不像",
+      "onboard_time": 1685101351,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137323,
       "num": 137323,
       "word": "格力解散手机核心团队",
@@ -49721,14 +49761,6 @@
       "onboard_time": 1683271949,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 133336,
-      "num": 133336,
-      "word": "阿信",
-      "onboard_time": 1683631709,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 133166,
@@ -50803,14 +50835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125283,
-      "num": 153506,
-      "word": "上海再现野生四不像",
-      "onboard_time": 1685101351,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125276,
       "num": 125276,
       "word": "两少年路遇摔倒老人一路护送回家",
@@ -51849,6 +51873,14 @@
       "onboard_time": 1684560624,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114315,
+      "num": 153538,
+      "word": "年少时不能遇见太惊艳的猴",
+      "onboard_time": 1685104110,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 114202,
@@ -53187,6 +53219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93135,
+      "num": 141728,
+      "word": "羽生结弦FaOI首日公演",
+      "onboard_time": 1685104830,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92774,
       "num": 99350,
       "word": "武汉地铁人多到免检票进站",
@@ -53425,14 +53465,6 @@
       "onboard_time": 1684689259,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 87608,
-      "num": 140912,
-      "word": "年少时不能遇见太惊艳的猴",
-      "onboard_time": 1685104110,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 87590,
@@ -54033,6 +54065,14 @@
       "onboard_time": 1684948937,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75233,
+      "num": 140013,
+      "word": "我和我的领导",
+      "onboard_time": 1685105129,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 75057,
