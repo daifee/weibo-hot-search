@@ -1,6 +1,6 @@
 {
   "startTime": 1685118110147,
-  "endTime": 1685171660527,
+  "endTime": 1685172817020,
   "band_list": [
     {
       "raw_hot": 2327527,
@@ -395,6 +395,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 445509,
+      "num": 381636,
+      "word": "韩庚是卢靖姗组舞台顾问",
+      "onboard_time": 1685169270,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 428879,
       "num": 428879,
       "word": "河北一派出所发生爆炸致4死2失联",
@@ -459,6 +467,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 402022,
+      "num": 402022,
+      "word": "有人坐过以前公交车的这个位置吗",
+      "onboard_time": 1685166567,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 401017,
       "num": 229183,
       "word": "今天好多人开演唱会",
@@ -483,20 +499,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 387354,
-      "num": 387354,
-      "word": "有人坐过以前公交车的这个位置吗",
-      "onboard_time": 1685166567,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 384846,
       "num": 229877,
       "word": "真的建议不要买开口的榴莲",
       "onboard_time": 1685154569,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 383487,
+      "num": 383487,
+      "word": "白色大熊猫",
+      "onboard_time": 1685167646,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377844,
+      "num": 377844,
+      "word": "5名袖珍人组建杀虫灭鼠队",
+      "onboard_time": 1685168846,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 376288,
@@ -555,12 +579,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 339347,
-      "num": 339347,
-      "word": "白色大熊猫",
-      "onboard_time": 1685167646,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 338137,
+      "num": 338137,
+      "word": "王一博方坚决抵制追私行为",
+      "onboard_time": 1685171488,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 332770,
@@ -577,6 +601,14 @@
       "onboard_time": 1685098653,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313013,
+      "num": 313013,
+      "word": "宝鸡一高中校长在教育局办公室被打",
+      "onboard_time": 1685170289,
+      "rank": 27,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 309401,
@@ -596,7 +628,7 @@
     },
     {
       "raw_hot": 301949,
-      "num": 239438,
+      "num": 241327,
       "word": "王鹤棣重庆活动人气",
       "onboard_time": 1685171427,
       "rank": 21,
@@ -604,7 +636,7 @@
     },
     {
       "raw_hot": 297484,
-      "num": 238602,
+      "num": 289518,
       "word": "王一博纯甄见面会",
       "onboard_time": 1685170467,
       "rank": 22,
@@ -715,6 +747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 268628,
+      "num": 268628,
+      "word": "奶茶杯子压容量",
+      "onboard_time": 1685169327,
+      "rank": 25,
+      "category": "其它"
+    },
+    {
       "raw_hot": 267262,
       "num": 267262,
       "word": "王一博书包上系丝巾",
@@ -723,12 +763,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265455,
+      "num": 265455,
+      "word": "美人鱼",
+      "onboard_time": 1685168787,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 262725,
       "num": 222989,
       "word": "3岁女孩突然给父母说我没有房子了",
       "onboard_time": 1685143940,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262218,
+      "num": 190727,
+      "word": "重庆市在TikTok上成功出圈",
+      "onboard_time": 1685171907,
+      "rank": 30,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 261314,
@@ -795,14 +851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241790,
-      "num": 241790,
-      "word": "5名袖珍人组建杀虫灭鼠队",
-      "onboard_time": 1685168846,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241371,
       "num": 199864,
       "word": "向往的生活",
@@ -819,12 +867,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 236566,
-      "num": 236566,
-      "word": "韩庚是卢靖姗组舞台顾问",
-      "onboard_time": 1685169270,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 237956,
+      "num": 188907,
+      "word": "WBG官宣Weiwei加入",
+      "onboard_time": 1685171787,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 230975,
@@ -841,14 +889,6 @@
       "onboard_time": 1685149649,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 227557,
-      "num": 227557,
-      "word": "奶茶杯子压容量",
-      "onboard_time": 1685169327,
-      "rank": 25,
-      "category": "其它"
     },
     {
       "raw_hot": 221286,
@@ -881,14 +921,6 @@
       "onboard_time": 1685166328,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 209695,
-      "num": 209695,
-      "word": "宝鸡一高中校长在教育局办公室被打",
-      "onboard_time": 1685170289,
-      "rank": 27,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 209070,
@@ -1035,14 +1067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186480,
-      "num": 186480,
-      "word": "美人鱼",
-      "onboard_time": 1685168787,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 185147,
       "num": 185147,
       "word": "周也戴了72条珠链",
@@ -1163,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159545,
+      "num": 159545,
+      "word": "二阳是因为免疫力到期了吗",
+      "onboard_time": 1685172208,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159443,
       "num": 148980,
       "word": "Amber谢欣把所有姐姐舞台编一起拉票",
@@ -1219,12 +1251,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140803,
-      "num": 140803,
-      "word": "王一博方坚决抵制追私行为",
-      "onboard_time": 1685171488,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 144704,
+      "num": 144704,
+      "word": "被种地吧急寻兽医经过感动了",
+      "onboard_time": 1685168787,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 138197,
@@ -1249,14 +1281,6 @@
       "onboard_time": 1685113112,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 130093,
-      "num": 130093,
-      "word": "被种地吧急寻兽医经过感动了",
-      "onboard_time": 1685168787,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 127452,
@@ -1313,6 +1337,14 @@
       "onboard_time": 1685104110,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121340,
+      "num": 121340,
+      "word": "过了三十岁就必须要结婚吗",
+      "onboard_time": 1685172566,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 120109,
@@ -1443,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74241,
+      "num": 335916,
+      "word": "折叠男孩首次手术效果超预期",
+      "onboard_time": 1685171128,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73142,
       "num": 73142,
       "word": "民警深夜请吃面鼓励失业小伙",
@@ -1545,14 +1585,6 @@
       "onboard_time": 1685119945,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 19835,
-      "num": 335916,
-      "word": "折叠男孩首次手术效果超预期",
-      "onboard_time": 1685171128,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17684,
