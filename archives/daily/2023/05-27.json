@@ -1,6 +1,6 @@
 {
   "startTime": 1685118110147,
-  "endTime": 1685196855579,
+  "endTime": 1685198005031,
   "band_list": [
     {
       "raw_hot": 2580452,
@@ -11,20 +11,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2433434,
+      "num": 2433434,
+      "word": "王俊凯",
+      "onboard_time": 1685194653,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2327527,
       "num": 2327527,
       "word": "一千多赞的朋友圈原来长这样",
       "onboard_time": 1685145024,
       "rank": 0,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2083006,
-      "num": 2083006,
-      "word": "王俊凯",
-      "onboard_time": 1685194653,
-      "rank": 0,
-      "category": "音乐"
     },
     {
       "raw_hot": 1975563,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1513177,
+      "num": 1513177,
+      "word": "丫丫",
+      "onboard_time": 1685192309,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1507809,
       "num": 1507809,
       "word": "那英唱掉了全程开大",
@@ -121,14 +129,6 @@
       "onboard_time": 1685191350,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1347161,
-      "num": 1347161,
-      "word": "丫丫",
-      "onboard_time": 1685192309,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1333607,
@@ -299,6 +299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 806187,
+      "num": 806187,
+      "word": "武汉财政局公开催债",
+      "onboard_time": 1685196337,
+      "rank": 19,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 794363,
       "num": 463544,
       "word": "我妈死后还在催婚",
@@ -347,6 +355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 719718,
+      "num": 719718,
+      "word": "孟子义妈妈娱乐圈除了孟子义都追",
+      "onboard_time": 1685195135,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 701267,
       "num": 701267,
       "word": "哈尔滨回应网传副市长与交警发生冲突",
@@ -379,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 658143,
+      "num": 485062,
+      "word": "程潇录节目玩手机",
+      "onboard_time": 1685189069,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 647648,
       "num": 647648,
       "word": "椰树 不带货纯擦",
@@ -395,12 +419,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 638955,
-      "num": 478349,
-      "word": "孟子义妈妈娱乐圈除了孟子义都追",
-      "onboard_time": 1685195135,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 628491,
+      "num": 325414,
+      "word": "赵露思鞠婧祎直播状态",
+      "onboard_time": 1685194474,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 626657,
@@ -409,14 +433,6 @@
       "onboard_time": 1685097391,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 622875,
-      "num": 235743,
-      "word": "赵露思鞠婧祎直播状态",
-      "onboard_time": 1685194474,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 613627,
@@ -443,20 +459,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 591249,
+      "num": 458774,
+      "word": "老舅一年一首骂完就走",
+      "onboard_time": 1685197415,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 583008,
       "num": 583008,
       "word": "一个舞BLACKPINK跳出了四种感觉",
       "onboard_time": 1685157569,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 581966,
-      "num": 465359,
-      "word": "程潇录节目玩手机",
-      "onboard_time": 1685189069,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 579811,
@@ -473,6 +489,14 @@
       "onboard_time": 1685147909,
       "rank": 20,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 567775,
+      "num": 453526,
+      "word": "除了杨洋谁还能演肖奈",
+      "onboard_time": 1685194594,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 562151,
@@ -625,14 +649,6 @@
       "onboard_time": 1685154869,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 478622,
-      "num": 230885,
-      "word": "除了杨洋谁还能演肖奈",
-      "onboard_time": 1685194594,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 478046,
@@ -843,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 395481,
+      "num": 230177,
+      "word": "瘦子太帅了",
+      "onboard_time": 1685195970,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 389884,
       "num": 389884,
       "word": "迪丽热巴公诉时尚大片",
@@ -873,6 +897,14 @@
       "onboard_time": 1685167646,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380318,
+      "num": 216397,
+      "word": "沈腾等红毯太无聊扒墙看海",
+      "onboard_time": 1685197294,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 377844,
@@ -921,14 +953,6 @@
       "onboard_time": 1685176408,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 358445,
-      "num": 230177,
-      "word": "瘦子太帅了",
-      "onboard_time": 1685195970,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 356158,
@@ -1011,20 +1035,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332255,
+      "num": 229765,
+      "word": "林宥嘉 青岛",
+      "onboard_time": 1685196091,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 324899,
       "num": 324899,
       "word": "女子诞下百万分之一镜面宝宝",
       "onboard_time": 1685098653,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 323108,
-      "num": 229765,
-      "word": "林宥嘉 青岛",
-      "onboard_time": 1685196091,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 321649,
@@ -1057,6 +1081,14 @@
       "onboard_time": 1685171427,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 301180,
+      "num": 301180,
+      "word": "南昌一地舞台背景屏倒塌9名幼儿被砸",
+      "onboard_time": 1685194411,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297484,
@@ -1104,6 +1136,14 @@
       "word": "浪姐二公",
       "onboard_time": 1685161407,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 288290,
+      "num": 164599,
+      "word": "张子豪 真顶",
+      "onboard_time": 1685197294,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -1403,14 +1443,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 237124,
-      "num": 237124,
-      "word": "武汉财政局公开催债",
-      "onboard_time": 1685196337,
-      "rank": 19,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 236426,
       "num": 175198,
       "word": "志愿军",
@@ -1491,6 +1523,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 223638,
+      "num": 223638,
+      "word": "樊振东王楚钦拥抱庆祝夺冠",
+      "onboard_time": 1685196815,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222478,
       "num": 222478,
       "word": "天骄",
@@ -1531,14 +1571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 217047,
-      "num": 217047,
-      "word": "樊振东王楚钦拥抱庆祝夺冠",
-      "onboard_time": 1685196815,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 213227,
       "num": 213227,
       "word": "鹿晗演唱会广州站售罄",
@@ -1561,14 +1593,6 @@
       "onboard_time": 1685162789,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 206613,
-      "num": 206613,
-      "word": "南昌一地舞台背景屏倒塌9名幼儿被砸",
-      "onboard_time": 1685194411,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205631,
@@ -1753,6 +1777,14 @@
       "onboard_time": 1685193032,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 188993,
+      "num": 188993,
+      "word": "樊振东王楚钦3比0横扫韩国队",
+      "onboard_time": 1685196874,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 187634,
@@ -2075,6 +2107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139898,
+      "num": 139898,
+      "word": "科隆vs拜仁",
+      "onboard_time": 1685197173,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138197,
       "num": 189823,
       "word": "谢可寅舞台",
@@ -2307,6 +2347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109579,
+      "num": 133380,
+      "word": "F1",
+      "onboard_time": 1685197355,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108622,
       "num": 335916,
       "word": "折叠男孩首次手术效果超预期",
@@ -2500,7 +2548,7 @@
     },
     {
       "raw_hot": 35003,
-      "num": 1481548,
+      "num": 1559498,
       "word": "开局之年看中国县域新发展",
       "onboard_time": 1685191528,
       "rank": 2,
@@ -2552,6 +2600,14 @@
       "word": "白色大熊猫与大熊猫罕见同框",
       "onboard_time": 1685191350,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20642,
+      "num": 467598,
+      "word": "江苏援疆医生遇地震坚持做完手术",
+      "onboard_time": 1685197415,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

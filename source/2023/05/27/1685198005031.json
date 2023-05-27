@@ -1,0 +1,410 @@
+{
+  "runTime": 1685198005031,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2433434,
+        "num": 2433434,
+        "word": "王俊凯",
+        "onboard_time": 1685194653,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1940508,
+        "num": 1940508,
+        "word": "老舅 淘汰",
+        "onboard_time": 1685192611,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34269,
+        "num": 1559498,
+        "word": "开局之年看中国县域新发展",
+        "onboard_time": 1685191528,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1513177,
+        "num": 1513177,
+        "word": "丫丫",
+        "onboard_time": 1685192309,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1245671,
+        "num": 1245671,
+        "word": "张子枫 美人鱼",
+        "onboard_time": 1685191350,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1237927,
+        "num": 1237927,
+        "word": "虞书欣与甘比母女合影",
+        "onboard_time": 1685190930,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 806187,
+        "num": 806187,
+        "word": "武汉财政局公开催债",
+        "onboard_time": 1685196337,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 719718,
+        "num": 719718,
+        "word": "孟子义妈妈娱乐圈除了孟子义都追",
+        "onboard_time": 1685195135,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 676768,
+        "num": 676768,
+        "word": "樊振东王楚钦世锦赛男双冠军",
+        "onboard_time": 1685195614,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 507004,
+        "num": 507004,
+        "word": "二阳是因为免疫力到期了吗",
+        "onboard_time": 1685172208,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 984626,
+        "num": 503932,
+        "word": "南航",
+        "onboard_time": 1685187807,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753321,
+        "num": 495573,
+        "word": "王一博没有想和粉丝一起做的事情",
+        "onboard_time": 1685180128,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 658143,
+        "num": 485062,
+        "word": "程潇录节目玩手机",
+        "onboard_time": 1685189069,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 596966,
+        "num": 476068,
+        "word": "那英唱掉了全程开大",
+        "onboard_time": 1685185167,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20642,
+        "num": 467598,
+        "word": "江苏援疆医生遇地震坚持做完手术",
+        "onboard_time": 1685197415,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591249,
+        "num": 458774,
+        "word": "老舅一年一首骂完就走",
+        "onboard_time": 1685197415,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 567775,
+        "num": 453526,
+        "word": "除了杨洋谁还能演肖奈",
+        "onboard_time": 1685194594,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 447632,
+        "num": 447632,
+        "word": "非婚生育",
+        "onboard_time": 1685180248,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361789,
+        "num": 361789,
+        "word": "德国男子连做3次断骨增高至1米9",
+        "onboard_time": 1685190389,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327244,
+        "num": 327244,
+        "word": "这就是我超级紧张的求婚",
+        "onboard_time": 1685188228,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 628491,
+        "num": 325414,
+        "word": "赵露思鞠婧祎直播状态",
+        "onboard_time": 1685194474,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509921,
+        "num": 317280,
+        "word": "莫文蔚的腿秒了",
+        "onboard_time": 1685193393,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301180,
+        "num": 301180,
+        "word": "南昌一地舞台背景屏倒塌9名幼儿被砸",
+        "onboard_time": 1685194411,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228639,
+        "num": 228639,
+        "word": "小伙被骗缅北3年警方指导逃脱",
+        "onboard_time": 1685189548,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223638,
+        "num": 223638,
+        "word": "樊振东王楚钦拥抱庆祝夺冠",
+        "onboard_time": 1685196815,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 395481,
+        "num": 222742,
+        "word": "瘦子太帅了",
+        "onboard_time": 1685195970,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 391650,
+        "num": 220229,
+        "word": "肖战杨紫 天骄",
+        "onboard_time": 1685173586,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 385191,
+        "num": 219093,
+        "word": "掉了",
+        "onboard_time": 1685191410,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380318,
+        "num": 216397,
+        "word": "沈腾等红毯太无聊扒墙看海",
+        "onboard_time": 1685197294,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216277,
+        "num": 216277,
+        "word": "Mike夺冠",
+        "onboard_time": 1685195793,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 709658,
+        "num": 207291,
+        "word": "9岁男孩失踪13年尸骨现身山林地缝",
+        "onboard_time": 1685180128,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369756,
+        "num": 201421,
+        "word": "李玉刚 你们销量不好是有原因的",
+        "onboard_time": 1685183307,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 353201,
+        "num": 199932,
+        "word": "五月天 外场",
+        "onboard_time": 1685186847,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188993,
+        "num": 188993,
+        "word": "樊振东王楚钦3比0横扫韩国队",
+        "onboard_time": 1685196874,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197813,
+        "num": 185756,
+        "word": "摊主在煮玉米锅里放不明添加剂",
+        "onboard_time": 1685191890,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332255,
+        "num": 175290,
+        "word": "林宥嘉 青岛",
+        "onboard_time": 1685196091,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 320750,
+        "num": 168350,
+        "word": "五月天鸟巢演唱会",
+        "onboard_time": 1685181628,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 288290,
+        "num": 164599,
+        "word": "张子豪 真顶",
+        "onboard_time": 1685197294,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158008,
+        "num": 158008,
+        "word": "南方人对北方大葱的误解",
+        "onboard_time": 1685193512,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150930,
+        "num": 150930,
+        "word": "多特蒙德vs美因茨",
+        "onboard_time": 1685192373,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255712,
+        "num": 149369,
+        "word": "安崎承认恋情后开麦初舞台",
+        "onboard_time": 1685176049,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 230724,
+        "num": 147674,
+        "word": "小白淘汰谢可寅哭了",
+        "onboard_time": 1685191229,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218185,
+        "num": 143352,
+        "word": "张云雷听云见心演唱会",
+        "onboard_time": 1685195253,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 206220,
+        "num": 140880,
+        "word": "志愿军",
+        "onboard_time": 1685194533,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140321,
+        "num": 140321,
+        "word": "妻子偏瘫丈夫26次提出离婚",
+        "onboard_time": 1685176408,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139898,
+        "num": 139898,
+        "word": "科隆vs拜仁",
+        "onboard_time": 1685197173,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135074,
+        "num": 135074,
+        "word": "德甲",
+        "onboard_time": 1685195434,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120154,
+        "num": 134836,
+        "word": "陈梦vs陈幸同",
+        "onboard_time": 1685192070,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113990,
+        "num": 134144,
+        "word": "假如有30岁不结婚赔700万的保险",
+        "onboard_time": 1685177848,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 109579,
+        "num": 133380,
+        "word": "F1",
+        "onboard_time": 1685197355,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023数博会上的黑科技#"
+    }
+  }
+}

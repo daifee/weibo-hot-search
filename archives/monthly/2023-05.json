@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685196855579,
+  "endTime": 1685198005031,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1195,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2433434,
+      "num": 2433434,
+      "word": "王俊凯",
+      "onboard_time": 1685194653,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2428901,
       "num": 2428901,
       "word": "狂飙",
@@ -1825,14 +1833,6 @@
       "onboard_time": 1683332792,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2083006,
-      "num": 2083006,
-      "word": "王俊凯",
-      "onboard_time": 1685194653,
-      "rank": 0,
-      "category": "音乐"
     },
     {
       "raw_hot": 2067150,
@@ -4059,6 +4059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1513177,
+      "num": 1513177,
+      "word": "丫丫",
+      "onboard_time": 1685192309,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1512931,
       "num": 1512931,
       "word": "工藤新一",
@@ -5048,14 +5056,6 @@
       "word": "私拆承重墙责任人被采取刑事强制措施",
       "onboard_time": 1683607115,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1347161,
-      "num": 1347161,
-      "word": "丫丫",
-      "onboard_time": 1685192309,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -9851,6 +9851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 806187,
+      "num": 806187,
+      "word": "武汉财政局公开催债",
+      "onboard_time": 1685196337,
+      "rank": 19,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 806080,
       "num": 240266,
       "word": "日本牛郎 审美降级",
@@ -10955,6 +10963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 719718,
+      "num": 719718,
+      "word": "孟子义妈妈娱乐圈除了孟子义都追",
+      "onboard_time": 1685195135,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 718515,
       "num": 718515,
       "word": "五迷抵制黄牛",
@@ -11955,6 +11971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 658143,
+      "num": 485062,
+      "word": "程潇录节目玩手机",
+      "onboard_time": 1685189069,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 657804,
       "num": 657804,
       "word": "王一博香奈儿看秀造型",
@@ -12171,14 +12195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 638955,
-      "num": 478349,
-      "word": "孟子义妈妈娱乐圈除了孟子义都追",
-      "onboard_time": 1685195135,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 638365,
       "num": 638365,
       "word": "刘诗诗 浙江",
@@ -12371,6 +12387,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 628491,
+      "num": 325414,
+      "word": "赵露思鞠婧祎直播状态",
+      "onboard_time": 1685194474,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 628423,
       "num": 519545,
       "word": "公诉定档",
@@ -12457,14 +12481,6 @@
       "onboard_time": 1684733248,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 622875,
-      "num": 235743,
-      "word": "赵露思鞠婧祎直播状态",
-      "onboard_time": 1685194474,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 622867,
@@ -13179,6 +13195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 591249,
+      "num": 458774,
+      "word": "老舅一年一首骂完就走",
+      "onboard_time": 1685197415,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 591135,
       "num": 591135,
       "word": "客轮1女子携离婚协议坠海身亡",
@@ -13441,14 +13465,6 @@
       "onboard_time": 1683685826,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 581966,
-      "num": 465359,
-      "word": "程潇录节目玩手机",
-      "onboard_time": 1685189069,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 581418,
@@ -13857,6 +13873,14 @@
       "onboard_time": 1683803729,
       "rank": 34,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 567775,
+      "num": 453526,
+      "word": "除了杨洋谁还能演肖奈",
+      "onboard_time": 1685194594,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 567767,
@@ -16649,14 +16673,6 @@
       "onboard_time": 1684496371,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 478622,
-      "num": 230885,
-      "word": "除了杨洋谁还能演肖奈",
-      "onboard_time": 1685194594,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 478046,
@@ -20811,6 +20827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395481,
+      "num": 230177,
+      "word": "瘦子太帅了",
+      "onboard_time": 1685195970,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 395432,
       "num": 395432,
       "word": "上海 二次元浓度",
@@ -21697,6 +21721,14 @@
       "onboard_time": 1683939749,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380318,
+      "num": 216397,
+      "word": "沈腾等红毯太无聊扒墙看海",
+      "onboard_time": 1685197294,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 380208,
@@ -23297,14 +23329,6 @@
       "onboard_time": 1684761929,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 358445,
-      "num": 230177,
-      "word": "瘦子太帅了",
-      "onboard_time": 1685195970,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 358322,
@@ -25203,6 +25227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 332255,
+      "num": 229765,
+      "word": "林宥嘉 青岛",
+      "onboard_time": 1685196091,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 332201,
       "num": 270667,
       "word": "范丞丞地垄沟发型",
@@ -25881,14 +25913,6 @@
       "onboard_time": 1684195712,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 323108,
-      "num": 229765,
-      "word": "林宥嘉 青岛",
-      "onboard_time": 1685196091,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 323097,
@@ -27667,6 +27691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 301180,
+      "num": 301180,
+      "word": "南昌一地舞台背景屏倒塌9名幼儿被砸",
+      "onboard_time": 1685194411,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301167,
       "num": 301167,
       "word": "Angelababy奔跑吧七仙女造型",
@@ -28945,6 +28977,14 @@
       "onboard_time": 1683883109,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 288290,
+      "num": 164599,
+      "word": "张子豪 真顶",
+      "onboard_time": 1685197294,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 288195,
@@ -35147,14 +35187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 237124,
-      "num": 237124,
-      "word": "武汉财政局公开催债",
-      "onboard_time": 1685196337,
-      "rank": 19,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 237049,
       "num": 237049,
       "word": "我真服了光夜",
@@ -37259,6 +37291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223638,
+      "num": 223638,
+      "word": "樊振东王楚钦拥抱庆祝夺冠",
+      "onboard_time": 1685196815,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223634,
       "num": 223634,
       "word": "看老照片",
@@ -38201,14 +38241,6 @@
       "onboard_time": 1684022361,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 217047,
-      "num": 217047,
-      "word": "樊振东王楚钦拥抱庆祝夺冠",
-      "onboard_time": 1685196815,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 217035,
@@ -39848,14 +39880,6 @@
       "word": "阿尔兹海默症老人深山走失被警犬寻回",
       "onboard_time": 1684146267,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206613,
-      "num": 206613,
-      "word": "南昌一地舞台背景屏倒塌9名幼儿被砸",
-      "onboard_time": 1685194411,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -43009,6 +43033,14 @@
       "onboard_time": 1685074895,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188993,
+      "num": 188993,
+      "word": "樊振东王楚钦3比0横扫韩国队",
+      "onboard_time": 1685196874,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 188992,
@@ -51043,6 +51075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139898,
+      "num": 139898,
+      "word": "科隆vs拜仁",
+      "onboard_time": 1685197173,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139832,
       "num": 139832,
       "word": "京城21条最chill逛骑路线",
@@ -54345,6 +54385,14 @@
       "onboard_time": 1683657613,
       "rank": 44,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 109579,
+      "num": 133380,
+      "word": "F1",
+      "onboard_time": 1683487632,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 109527,
@@ -58028,7 +58076,7 @@
     },
     {
       "raw_hot": 35003,
-      "num": 1481548,
+      "num": 1559498,
       "word": "开局之年看中国县域新发展",
       "onboard_time": 1685191528,
       "rank": 2,
@@ -58339,14 +58387,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 26114,
-      "num": 26267,
-      "word": "F1",
-      "onboard_time": 1683487632,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 25931,
       "num": 34068,
       "word": "IVE日单wave",
@@ -58511,6 +58551,14 @@
       "num": 391864,
       "word": "夜巡铁骑一个细节救下患病司机",
       "onboard_time": 1684895787,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20642,
+      "num": 467598,
+      "word": "江苏援疆医生遇地震坚持做完手术",
+      "onboard_time": 1685197415,
       "rank": 14,
       "category": "社会新闻"
     },
