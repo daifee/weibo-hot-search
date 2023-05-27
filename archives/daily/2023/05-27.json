@@ -1,6 +1,6 @@
 {
   "startTime": 1685118110147,
-  "endTime": 1685198005031,
+  "endTime": 1685200542484,
   "band_list": [
     {
       "raw_hot": 2580452,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1201453,
+      "num": 1201453,
+      "word": "武汉财政局公开催债",
+      "onboard_time": 1685196337,
+      "rank": 19,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1149482,
       "num": 1149482,
       "word": "秋瓷炫南韩酒鬼人设",
@@ -299,14 +307,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 806187,
-      "num": 806187,
-      "word": "武汉财政局公开催债",
-      "onboard_time": 1685196337,
-      "rank": 19,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 794363,
       "num": 463544,
       "word": "我妈死后还在催婚",
@@ -345,6 +345,14 @@
       "onboard_time": 1685165068,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 736202,
+      "num": 736202,
+      "word": "赵露思鞠婧祎直播状态",
+      "onboard_time": 1685194474,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 729752,
@@ -395,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 666835,
+      "num": 458774,
+      "word": "老舅一年一首骂完就走",
+      "onboard_time": 1685197415,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 658143,
       "num": 485062,
       "word": "程潇录节目玩手机",
@@ -417,14 +433,6 @@
       "onboard_time": 1685189731,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 628491,
-      "num": 325414,
-      "word": "赵露思鞠婧祎直播状态",
-      "onboard_time": 1685194474,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 626657,
@@ -456,14 +464,6 @@
       "word": "Amber谢欣第一",
       "onboard_time": 1685162789,
       "rank": 8,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 591249,
-      "num": 458774,
-      "word": "老舅一年一首骂完就走",
-      "onboard_time": 1685197415,
-      "rank": 15,
       "category": "综艺"
     },
     {
@@ -667,6 +667,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 476012,
+      "num": 387830,
+      "word": "孟子义回应迪幂孟扎称号",
+      "onboard_time": 1685199872,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 473468,
       "num": 243342,
       "word": "何丹彤回应被抢劫",
@@ -721,6 +729,14 @@
       "onboard_time": 1685192971,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 455195,
+      "num": 455195,
+      "word": "南昌一地舞台背景屏倒塌9名幼儿被砸",
+      "onboard_time": 1685194411,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 445509,
@@ -899,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383341,
+      "num": 383341,
+      "word": "拜仁熟悉的下半场",
+      "onboard_time": 1685200409,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 380318,
       "num": 216397,
       "word": "沈腾等红毯太无聊扒墙看海",
@@ -1051,12 +1075,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324237,
+      "num": 226375,
+      "word": "吴京给谢楠发与沈腾张译合照",
+      "onboard_time": 1685199811,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 321649,
       "num": 202416,
       "word": "王嘉尔回国",
       "onboard_time": 1685187868,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320160,
+      "num": 202883,
+      "word": "小白恋爱脑",
+      "onboard_time": 1685199933,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 309401,
@@ -1081,14 +1121,6 @@
       "onboard_time": 1685171427,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 301180,
-      "num": 301180,
-      "word": "南昌一地舞台背景屏倒塌9名幼儿被砸",
-      "onboard_time": 1685194411,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297484,
@@ -1291,6 +1323,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 264655,
+      "num": 153077,
+      "word": "人生路不熟",
+      "onboard_time": 1685199331,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 262725,
       "num": 222989,
       "word": "3岁女孩突然给父母说我没有房子了",
@@ -1320,6 +1360,14 @@
       "word": "三分野加更",
       "onboard_time": 1685161768,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 255346,
+      "num": 150376,
+      "word": "三分野",
+      "onboard_time": 1685198853,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -1475,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231883,
+      "num": 147058,
+      "word": "薛之谦连云港",
+      "onboard_time": 1685199153,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 231179,
       "num": 231179,
       "word": "Mike夺冠",
@@ -1504,6 +1560,14 @@
       "word": "德甲",
       "onboard_time": 1685195434,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 227153,
+      "num": 227153,
+      "word": "心疼罗伊斯",
+      "onboard_time": 1685198375,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -1555,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219704,
+      "num": 145752,
+      "word": "仙剑三主演孩子的年龄",
+      "onboard_time": 1685200352,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 219152,
       "num": 180436,
       "word": "华晨宇演唱会运冰块降温",
@@ -1569,6 +1641,14 @@
       "onboard_time": 1685115812,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214754,
+      "num": 214754,
+      "word": "南航通报旅客遭新加坡柜台人员辱骂",
+      "onboard_time": 1685198672,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213227,
@@ -1601,6 +1681,14 @@
       "onboard_time": 1685182768,
       "rank": 35,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 204762,
+      "num": 204762,
+      "word": "多特关键时刻掉链子",
+      "onboard_time": 1685198612,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 204087,
@@ -1713,6 +1801,14 @@
       "onboard_time": 1685117908,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194423,
+      "num": 194423,
+      "word": "多特蒙德半场0比2美因茨",
+      "onboard_time": 1685198731,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 194006,
@@ -1995,6 +2091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159708,
+      "num": 159708,
+      "word": "一个词形容你想见丫丫的心情",
+      "onboard_time": 1685199991,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159443,
       "num": 148980,
       "word": "Amber谢欣把所有姐姐舞台编一起拉票",
@@ -2009,6 +2113,14 @@
       "onboard_time": 1685163088,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157746,
+      "num": 157746,
+      "word": "以为是美因茨在和拜仁争冠",
+      "onboard_time": 1685200352,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 157052,
@@ -2041,6 +2153,14 @@
       "onboard_time": 1685184028,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 153243,
+      "num": 1341841,
+      "word": "白色大熊猫与大熊猫罕见同框",
+      "onboard_time": 1685191350,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153226,
@@ -2091,6 +2211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145149,
+      "num": 145149,
+      "word": "科隆vs拜仁",
+      "onboard_time": 1685197173,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145106,
       "num": 142486,
       "word": "Amber谢欣 封神",
@@ -2105,14 +2233,6 @@
       "onboard_time": 1685168787,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139898,
-      "num": 139898,
-      "word": "科隆vs拜仁",
-      "onboard_time": 1685197173,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 138197,
@@ -2523,6 +2643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44402,
+      "num": 405093,
+      "word": "宁波姑娘三进三出控场灭火救人",
+      "onboard_time": 1685199634,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43261,
       "num": 51288,
       "word": "百岁功夫奶奶火到国外",
@@ -2593,14 +2721,6 @@
       "onboard_time": 1685185229,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 23737,
-      "num": 167026,
-      "word": "白色大熊猫与大熊猫罕见同框",
-      "onboard_time": 1685191350,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20642,
