@@ -1,6 +1,6 @@
 {
   "startTime": 1685118110147,
-  "endTime": 1685194411739,
+  "endTime": 1685196855579,
   "band_list": [
     {
       "raw_hot": 2580452,
@@ -17,6 +17,22 @@
       "onboard_time": 1685145024,
       "rank": 0,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2083006,
+      "num": 2083006,
+      "word": "王俊凯",
+      "onboard_time": 1685194653,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1975563,
+      "num": 1975563,
+      "word": "老舅 淘汰",
+      "onboard_time": 1685192611,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1749151,
@@ -41,14 +57,6 @@
       "onboard_time": 1685163030,
       "rank": 17,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1659571,
-      "num": 1659571,
-      "word": "老舅 淘汰",
-      "onboard_time": 1685192611,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 1627565,
@@ -115,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1347161,
+      "num": 1347161,
+      "word": "丫丫",
+      "onboard_time": 1685192309,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1333607,
       "num": 1303864,
       "word": "南航",
@@ -131,20 +147,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1257973,
+      "num": 1257973,
+      "word": "虞书欣与甘比母女合影",
+      "onboard_time": 1685190930,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1215951,
       "num": 1215951,
       "word": "江西一对表兄妹结婚10年育1子",
       "onboard_time": 1685119164,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1184666,
-      "num": 1184666,
-      "word": "虞书欣与甘比母女合影",
-      "onboard_time": 1685190930,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 1149482,
@@ -161,6 +177,14 @@
       "onboard_time": 1685115273,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1139630,
+      "num": 1139630,
+      "word": "樊振东王楚钦世锦赛男双冠军",
+      "onboard_time": 1685195614,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 1131206,
@@ -256,14 +280,6 @@
       "word": "女主播给15岁男孩发半裸照片骗打赏",
       "onboard_time": 1685149470,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 851734,
-      "num": 851734,
-      "word": "丫丫",
-      "onboard_time": 1685192309,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -379,12 +395,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 638955,
+      "num": 478349,
+      "word": "孟子义妈妈娱乐圈除了孟子义都追",
+      "onboard_time": 1685195135,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 626657,
       "num": 626657,
       "word": "狂飙",
       "onboard_time": 1685097391,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 622875,
+      "num": 235743,
+      "word": "赵露思鞠婧祎直播状态",
+      "onboard_time": 1685194474,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 613627,
@@ -420,7 +452,7 @@
     },
     {
       "raw_hot": 581966,
-      "num": 390485,
+      "num": 465359,
       "word": "程潇录节目玩手机",
       "onboard_time": 1685189069,
       "rank": 20,
@@ -497,6 +529,14 @@
       "onboard_time": 1685189548,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 518173,
+      "num": 427249,
+      "word": "莫文蔚的腿秒了",
+      "onboard_time": 1685193393,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 516805,
@@ -585,6 +625,14 @@
       "onboard_time": 1685154869,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478622,
+      "num": 230885,
+      "word": "除了杨洋谁还能演肖奈",
+      "onboard_time": 1685194594,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 478046,
@@ -681,14 +729,6 @@
       "onboard_time": 1685189010,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 427249,
-      "num": 427249,
-      "word": "莫文蔚的腿秒了",
-      "onboard_time": 1685193393,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 426045,
@@ -883,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358445,
+      "num": 230177,
+      "word": "瘦子太帅了",
+      "onboard_time": 1685195970,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356158,
       "num": 356158,
       "word": "安崎 正常恋爱",
@@ -971,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323108,
+      "num": 229765,
+      "word": "林宥嘉 青岛",
+      "onboard_time": 1685196091,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 321649,
       "num": 202416,
       "word": "王嘉尔回国",
@@ -1009,6 +1065,14 @@
       "onboard_time": 1685170467,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296161,
+      "num": 201327,
+      "word": "周深一秒猜出美依礼芽",
+      "onboard_time": 1685191828,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 293989,
@@ -1137,14 +1201,6 @@
       "onboard_time": 1685117490,
       "rank": 25,
       "category": "音乐,幽默"
-    },
-    {
-      "raw_hot": 271270,
-      "num": 187911,
-      "word": "周深一秒猜出美依礼芽",
-      "onboard_time": 1685191828,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 269402,
@@ -1339,12 +1395,60 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 237214,
+      "num": 175351,
+      "word": "张云雷听云见心演唱会",
+      "onboard_time": 1685195253,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 237124,
+      "num": 237124,
+      "word": "武汉财政局公开催债",
+      "onboard_time": 1685196337,
+      "rank": 19,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 236426,
+      "num": 175198,
+      "word": "志愿军",
+      "onboard_time": 1685194533,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 235460,
       "num": 235460,
       "word": "保洁阿姨捡到40万现金报警",
       "onboard_time": 1685189130,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233923,
+      "num": 233923,
+      "word": "摊主在煮玉米锅里放不明添加剂",
+      "onboard_time": 1685191890,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232891,
+      "num": 232891,
+      "word": "樊振东王楚钦vs张禹珍林钟勋",
+      "onboard_time": 1685196034,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 231179,
+      "num": 231179,
+      "word": "Mike夺冠",
+      "onboard_time": 1685195793,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 230975,
@@ -1363,12 +1467,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 226816,
-      "num": 226816,
-      "word": "摊主在煮玉米锅里放不明添加剂",
-      "onboard_time": 1685191890,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 229746,
+      "num": 229746,
+      "word": "德甲",
+      "onboard_time": 1685195434,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 225913,
@@ -1427,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217047,
+      "num": 217047,
+      "word": "樊振东王楚钦拥抱庆祝夺冠",
+      "onboard_time": 1685196815,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213227,
       "num": 213227,
       "word": "鹿晗演唱会广州站售罄",
@@ -1449,6 +1561,14 @@
       "onboard_time": 1685162789,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206613,
+      "num": 206613,
+      "word": "南昌一地舞台背景屏倒塌9名幼儿被砸",
+      "onboard_time": 1685194411,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205631,
@@ -1836,7 +1956,7 @@
     },
     {
       "raw_hot": 160281,
-      "num": 160281,
+      "num": 174819,
       "word": "南方人对北方大葱的误解",
       "onboard_time": 1685193512,
       "rank": 34,
@@ -1932,7 +2052,7 @@
     },
     {
       "raw_hot": 145933,
-      "num": 145933,
+      "num": 173680,
       "word": "南航回应旅客新加坡乘机遭柜台人员辱骂",
       "onboard_time": 1685191650,
       "rank": 48,
@@ -1969,6 +2089,14 @@
       "onboard_time": 1685174908,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 135757,
+      "num": 512230,
+      "word": "村支书跳入洪水中帮村民救牛",
+      "onboard_time": 1685193093,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133100,
@@ -2315,14 +2443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58402,
-      "num": 512230,
-      "word": "村支书跳入洪水中帮村民救牛",
-      "onboard_time": 1685193093,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 55955,
       "num": 198365,
       "word": "国乒德班世乒赛首金",
@@ -2379,8 +2499,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 32712,
-      "num": 1368603,
+      "raw_hot": 35003,
+      "num": 1481548,
       "word": "开局之年看中国县域新发展",
       "onboard_time": 1685191528,
       "rank": 2,

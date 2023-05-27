@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1685194411739,
+  "endTime": 1685196855579,
   "band_list": [
     {
       "raw_hot": 4241479,
@@ -339,6 +339,14 @@
       "category": "社会负面,教育"
     },
     {
+      "raw_hot": 2083006,
+      "num": 2083006,
+      "word": "王俊凯",
+      "onboard_time": 1685194653,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2064557,
       "num": 2064557,
       "word": "15岁女孩减肥仅24.8kg去世",
@@ -377,6 +385,14 @@
       "onboard_time": 1684974449,
       "rank": 4,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1975563,
+      "num": 1975563,
+      "word": "老舅 淘汰",
+      "onboard_time": 1685192611,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1930384,
@@ -609,14 +625,6 @@
       "onboard_time": 1684990715,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1659571,
-      "num": 1659571,
-      "word": "老舅 淘汰",
-      "onboard_time": 1685192611,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 1646686,
@@ -1027,6 +1035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1347161,
+      "num": 1347161,
+      "word": "丫丫",
+      "onboard_time": 1685192309,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1344886,
       "num": 1344886,
       "word": "五月天门票",
@@ -1176,6 +1192,14 @@
       "word": "IU或恢复在中国的活动",
       "onboard_time": 1684901432,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1257973,
+      "num": 1257973,
+      "word": "虞书欣与甘比母女合影",
+      "onboard_time": 1685190930,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -1339,14 +1363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1184666,
-      "num": 1184666,
-      "word": "虞书欣与甘比母女合影",
-      "onboard_time": 1685190930,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1180272,
       "num": 526213,
       "word": "冯小刚女儿撞脸小S二女儿",
@@ -1441,6 +1457,14 @@
       "onboard_time": 1684767150,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1139630,
+      "num": 1139630,
+      "word": "樊振东王楚钦世锦赛男双冠军",
+      "onboard_time": 1685195614,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 1137614,
@@ -2089,14 +2113,6 @@
       "onboard_time": 1684853496,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 851734,
-      "num": 851734,
-      "word": "丫丫",
-      "onboard_time": 1685192309,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 850680,
@@ -2787,6 +2803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 638955,
+      "num": 478349,
+      "word": "孟子义妈妈娱乐圈除了孟子义都追",
+      "onboard_time": 1685195135,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 638324,
       "num": 552047,
       "word": "五月天演唱会",
@@ -2841,6 +2865,14 @@
       "onboard_time": 1684733248,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 622875,
+      "num": 235743,
+      "word": "赵露思鞠婧祎直播状态",
+      "onboard_time": 1685194474,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 622075,
@@ -3068,7 +3100,7 @@
     },
     {
       "raw_hot": 581966,
-      "num": 390485,
+      "num": 465359,
       "word": "程潇录节目玩手机",
       "onboard_time": 1685189069,
       "rank": 20,
@@ -3499,6 +3531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 518173,
+      "num": 427249,
+      "word": "莫文蔚的腿秒了",
+      "onboard_time": 1685193393,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 517843,
       "num": 517843,
       "word": "马龙 王臻",
@@ -3849,6 +3889,14 @@
       "onboard_time": 1684835309,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 478622,
+      "num": 230885,
+      "word": "除了杨洋谁还能演肖奈",
+      "onboard_time": 1685194594,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 478046,
@@ -4377,14 +4425,6 @@
       "onboard_time": 1685189010,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 427249,
-      "num": 427249,
-      "word": "莫文蔚的腿秒了",
-      "onboard_time": 1685193393,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 426431,
@@ -5435,6 +5475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 358445,
+      "num": 230177,
+      "word": "瘦子太帅了",
+      "onboard_time": 1685195970,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357420,
       "num": 357420,
       "word": "鹿晗2023演唱会",
@@ -5977,6 +6025,14 @@
       "onboard_time": 1684828289,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 323108,
+      "num": 229765,
+      "word": "林宥嘉 青岛",
+      "onboard_time": 1685196091,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 322843,
@@ -6529,6 +6585,14 @@
       "onboard_time": 1684847612,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296161,
+      "num": 201327,
+      "word": "周深一秒猜出美依礼芽",
+      "onboard_time": 1685191828,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 296122,
@@ -7273,14 +7337,6 @@
       "onboard_time": 1684850135,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 271270,
-      "num": 187911,
-      "word": "周深一秒猜出美依礼芽",
-      "onboard_time": 1685191828,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 271213,
@@ -8451,6 +8507,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 237214,
+      "num": 175351,
+      "word": "张云雷听云见心演唱会",
+      "onboard_time": 1685195253,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 237124,
+      "num": 237124,
+      "word": "武汉财政局公开催债",
+      "onboard_time": 1685196337,
+      "rank": 19,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 237020,
       "num": 237020,
       "word": "3岁男童走失27小时后被群众找到",
@@ -8473,6 +8545,14 @@
       "onboard_time": 1684712845,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236426,
+      "num": 175198,
+      "word": "志愿军",
+      "onboard_time": 1685194533,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 236128,
@@ -8595,6 +8675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233923,
+      "num": 233923,
+      "word": "摊主在煮玉米锅里放不明添加剂",
+      "onboard_time": 1685191890,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233549,
       "num": 233549,
       "word": "大数据不要给我推荐可能认识的人了",
@@ -8617,6 +8705,14 @@
       "onboard_time": 1684767451,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 232891,
+      "num": 232891,
+      "word": "樊振东王楚钦vs张禹珍林钟勋",
+      "onboard_time": 1685196034,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 232846,
@@ -8739,6 +8835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231179,
+      "num": 231179,
+      "word": "Mike夺冠",
+      "onboard_time": 1685195793,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 230975,
       "num": 200357,
       "word": "汪小敏 淘汰",
@@ -8793,6 +8897,14 @@
       "onboard_time": 1685063610,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229746,
+      "num": 229746,
+      "word": "德甲",
+      "onboard_time": 1685195434,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 228950,
@@ -8857,14 +8969,6 @@
       "onboard_time": 1684679493,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 226816,
-      "num": 226816,
-      "word": "摊主在煮玉米锅里放不明添加剂",
-      "onboard_time": 1685191890,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 226301,
@@ -9193,6 +9297,14 @@
       "onboard_time": 1685074956,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 217047,
+      "num": 217047,
+      "word": "樊振东王楚钦拥抱庆祝夺冠",
+      "onboard_time": 1685196815,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 217035,
@@ -9545,6 +9657,14 @@
       "onboard_time": 1684984649,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206613,
+      "num": 206613,
+      "word": "南昌一地舞台背景屏倒塌9名幼儿被砸",
+      "onboard_time": 1685194411,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206385,
@@ -11548,7 +11668,7 @@
     },
     {
       "raw_hot": 160281,
-      "num": 160281,
+      "num": 174819,
       "word": "南方人对北方大葱的误解",
       "onboard_time": 1685193512,
       "rank": 34,
@@ -12100,7 +12220,7 @@
     },
     {
       "raw_hot": 145933,
-      "num": 145933,
+      "num": 173680,
       "word": "南航回应旅客新加坡乘机遭柜台人员辱骂",
       "onboard_time": 1685191650,
       "rank": 48,
@@ -12329,6 +12449,14 @@
       "onboard_time": 1684801408,
       "rank": 46,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 135757,
+      "num": 512230,
+      "word": "村支书跳入洪水中帮村民救牛",
+      "onboard_time": 1685193093,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135702,
@@ -13595,14 +13723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58402,
-      "num": 512230,
-      "word": "村支书跳入洪水中帮村民救牛",
-      "onboard_time": 1685193093,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 58059,
       "num": 1368289,
       "word": "我国启动2023年珠峰综合科学考察",
@@ -13843,6 +13963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35003,
+      "num": 1481548,
+      "word": "开局之年看中国县域新发展",
+      "onboard_time": 1685191528,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33297,
       "num": 1337336,
       "word": "数字化改革里的民生温度",
@@ -13855,14 +13983,6 @@
       "num": 2363978,
       "word": "高质量发展调研行",
       "onboard_time": 1684841071,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32712,
-      "num": 1368603,
-      "word": "开局之年看中国县域新发展",
-      "onboard_time": 1685191528,
       "rank": 2,
       "category": "社会新闻"
     },
