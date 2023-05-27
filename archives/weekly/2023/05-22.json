@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1685212425697,
+  "endTime": 1685214757398,
   "band_list": [
     {
       "raw_hot": 4241479,
@@ -13907,6 +13907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75271,
+      "num": 75271,
+      "word": "戛纳电影节",
+      "onboard_time": 1685213355,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 75233,
       "num": 140013,
       "word": "我和我的领导",
@@ -14209,6 +14217,14 @@
       "onboard_time": 1684671991,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47961,
+      "num": 44664,
+      "word": "TangoZ选谢可寅的原因",
+      "onboard_time": 1685212035,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 47827,
