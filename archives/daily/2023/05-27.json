@@ -1,6 +1,6 @@
 {
   "startTime": 1685118110147,
-  "endTime": 1685161175206,
+  "endTime": 1685162013009,
   "band_list": [
     {
       "raw_hot": 2327527,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1149482,
+      "num": 1149482,
+      "word": "秋瓷炫南韩酒鬼人设",
+      "onboard_time": 1685155830,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1147115,
       "num": 1147115,
       "word": "张元英AI换脸叶夕雾",
@@ -43,12 +51,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1092227,
-      "num": 1092227,
-      "word": "秋瓷炫南韩酒鬼人设",
-      "onboard_time": 1685155830,
-      "rank": 6,
-      "category": "综艺"
+      "raw_hot": 1131206,
+      "num": 1131206,
+      "word": "古人吃剩的螺蛳壳堆成一座山",
+      "onboard_time": 1685147369,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1009885,
@@ -57,14 +65,6 @@
       "onboard_time": 1685118447,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 988958,
-      "num": 988958,
-      "word": "古人吃剩的螺蛳壳堆成一座山",
-      "onboard_time": 1685147369,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 954993,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 838588,
+      "num": 299376,
+      "word": "遇到一米八三的不要去要微信",
+      "onboard_time": 1685157988,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 797111,
       "num": 797111,
       "word": "鹿晗 抢票",
@@ -129,14 +137,6 @@
       "onboard_time": 1685149529,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 749832,
-      "num": 238998,
-      "word": "遇到一米八三的不要去要微信",
-      "onboard_time": 1685157988,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 729752,
@@ -211,6 +211,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 571478,
+      "num": 474779,
+      "word": "4位二阳患者自述感染经历",
+      "onboard_time": 1685160088,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 562151,
       "num": 562151,
       "word": "张本智和哭了",
@@ -260,11 +268,19 @@
     },
     {
       "raw_hot": 481823,
-      "num": 234165,
+      "num": 291372,
       "word": "永久关闭6万多个自媒体账号",
       "onboard_time": 1685154869,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478046,
+      "num": 478046,
+      "word": "张杰南京",
+      "onboard_time": 1685161768,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 473468,
@@ -339,6 +355,22 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 397974,
+      "num": 397974,
+      "word": "王一博青岛",
+      "onboard_time": 1685158887,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 389884,
+      "num": 389884,
+      "word": "迪丽热巴公诉时尚大片",
+      "onboard_time": 1685158947,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 384846,
       "num": 229877,
       "word": "真的建议不要买开口的榴莲",
@@ -353,22 +385,6 @@
       "onboard_time": 1685147188,
       "rank": 12,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 360608,
-      "num": 235544,
-      "word": "王一博青岛",
-      "onboard_time": 1685158887,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 359294,
-      "num": 359294,
-      "word": "迪丽热巴公诉时尚大片",
-      "onboard_time": 1685158947,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 356158,
@@ -435,8 +451,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 297744,
-      "num": 297744,
+      "raw_hot": 304770,
+      "num": 304770,
       "word": "昆卡",
       "onboard_time": 1685157928,
       "rank": 27,
@@ -459,12 +475,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288928,
+      "num": 288928,
+      "word": "浪姐二公",
+      "onboard_time": 1685161407,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281663,
       "num": 281663,
       "word": "薛之谦司机今天拉的是盗版凤凰传奇",
       "onboard_time": 1685145806,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281213,
+      "num": 281213,
+      "word": "哥哥嫌给妹妹起的名字土崩溃大哭",
+      "onboard_time": 1685157748,
+      "rank": 31,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 280810,
@@ -489,14 +521,6 @@
       "onboard_time": 1685097690,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 276989,
-      "num": 230521,
-      "word": "哥哥嫌给妹妹起的名字土崩溃大哭",
-      "onboard_time": 1685157748,
-      "rank": 31,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 276127,
@@ -587,14 +611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 239983,
-      "num": 239983,
-      "word": "4位二阳患者自述感染经历",
-      "onboard_time": 1685160088,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 239978,
       "num": 234250,
       "word": "探望隔离满月的丫丫",
@@ -635,8 +651,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207734,
-      "num": 207734,
+      "raw_hot": 210188,
+      "num": 210188,
+      "word": "河北一派出所发生爆炸致4死2失联",
+      "onboard_time": 1685160628,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209070,
+      "num": 209070,
       "word": "小美人鱼",
       "onboard_time": 1685159548,
       "rank": 28,
@@ -683,6 +707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201541,
+      "num": 201541,
+      "word": "星卡里",
+      "onboard_time": 1685161588,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 198271,
       "num": 198271,
       "word": "谢娜发火只有马伯骞紧张了",
@@ -697,6 +729,14 @@
       "onboard_time": 1685092773,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195489,
+      "num": 195489,
+      "word": "三分野加更",
+      "onboard_time": 1685161768,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 195096,
@@ -753,6 +793,14 @@
       "onboard_time": 1685152888,
       "rank": 38,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 183540,
+      "num": 183540,
+      "word": "张嘉倪剪影身材",
+      "onboard_time": 1685161108,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 180842,
@@ -827,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157052,
+      "num": 157052,
+      "word": "给我一顶毕业帽",
+      "onboard_time": 1685161588,
+      "rank": 37,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 156842,
       "num": 156842,
       "word": "熊梓淇五月天演唱会含泪喊到沙哑",
@@ -851,28 +907,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 134386,
-      "num": 134386,
-      "word": "河北一派出所发生爆炸致4死2失联",
-      "onboard_time": 1685160628,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133100,
       "num": 133100,
       "word": "徐明浩文俊辉是在迎宾吗",
       "onboard_time": 1685147788,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132283,
-      "num": 132283,
-      "word": "张嘉倪剪影身材",
-      "onboard_time": 1685161108,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 130131,
@@ -1148,7 +1188,7 @@
     },
     {
       "raw_hot": 17684,
-      "num": 1046995,
+      "num": 1138497,
       "word": "探馆中关村论坛展览领略前沿科技魅力",
       "onboard_time": 1685107529,
       "rank": 2,
