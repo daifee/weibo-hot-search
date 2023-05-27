@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1685201603011,
+  "endTime": 1685204470597,
   "band_list": [
     {
       "raw_hot": 4241479,
@@ -483,6 +483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1796320,
+      "num": 1796320,
+      "word": "假球",
+      "onboard_time": 1685202992,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1784408,
       "num": 502218,
       "word": "我妈死后还在催婚",
@@ -537,6 +545,14 @@
       "onboard_time": 1684885767,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1717277,
+      "num": 1717277,
+      "word": "BLACKPINK演唱会被扔上台的玩偶有摄像头",
+      "onboard_time": 1685201310,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 1716528,
@@ -2171,6 +2187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 840892,
+      "num": 840892,
+      "word": "孟子义回应迪幂孟扎称号",
+      "onboard_time": 1685199872,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 838588,
       "num": 345299,
       "word": "遇到一米八三的不要去要微信",
@@ -2347,14 +2371,6 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 779312,
-      "num": 779312,
-      "word": "孟子义回应迪幂孟扎称号",
-      "onboard_time": 1685199872,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 775560,
       "num": 775560,
       "word": "易梦玲综艺首秀",
@@ -2403,12 +2419,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 767116,
+      "num": 767116,
+      "word": "马龙vs王楚钦",
+      "onboard_time": 1685200771,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 766268,
       "num": 766268,
       "word": "刘诗诗东方美貌",
       "onboard_time": 1684711520,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 759998,
+      "num": 759998,
+      "word": "小白恋爱脑",
+      "onboard_time": 1685199933,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 759280,
@@ -2683,6 +2715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 688133,
+      "num": 688133,
+      "word": "仙剑三主演孩子的年龄",
+      "onboard_time": 1685200352,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 687248,
       "num": 647267,
       "word": "0713还剩谁没结婚",
@@ -2811,14 +2851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 658037,
-      "num": 572323,
-      "word": "小白恋爱脑",
-      "onboard_time": 1685199933,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 650872,
       "num": 650872,
       "word": "妈妈生你就是为了让你多享受享受这个世界",
@@ -2873,14 +2905,6 @@
       "onboard_time": 1684799244,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 636471,
-      "num": 636471,
-      "word": "马龙vs王楚钦",
-      "onboard_time": 1685200771,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 633449,
@@ -3267,6 +3291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 570004,
+      "num": 570004,
+      "word": "算命 更适合中国宝宝的心理咨询",
+      "onboard_time": 1685201791,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 568294,
       "num": 568294,
       "word": "曾黎的厚底鞋有20厘米",
@@ -3361,6 +3393,14 @@
       "onboard_time": 1685006007,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 551112,
+      "num": 321997,
+      "word": "拒绝董明珠3次的主播评孟羽童离职",
+      "onboard_time": 1685201132,
+      "rank": 37,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 550266,
@@ -3521,6 +3561,14 @@
       "onboard_time": 1684814730,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 522905,
+      "num": 522905,
+      "word": "多特蒙德对得起谁",
+      "onboard_time": 1685202450,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 522878,
@@ -4227,6 +4275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 455024,
+      "num": 455024,
+      "word": "周也好适合演恶女",
+      "onboard_time": 1685200771,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 454948,
       "num": 454948,
       "word": "独居博主遭男子威胁推迟手术",
@@ -4755,14 +4811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 408540,
-      "num": 292650,
-      "word": "周也好适合演恶女",
-      "onboard_time": 1685200771,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 407859,
       "num": 445575,
       "word": "24岁大男孩去世捐器官救4人",
@@ -4859,14 +4907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 403624,
-      "num": 288765,
-      "word": "BLACKPINK演唱会被扔上台的玩偶有摄像头",
-      "onboard_time": 1685201310,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 402810,
       "num": 402810,
       "word": "兔头涨价",
@@ -4929,14 +4969,6 @@
       "onboard_time": 1684725448,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 400236,
-      "num": 287235,
-      "word": "仙剑三主演孩子的年龄",
-      "onboard_time": 1685200352,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 399694,
@@ -6107,6 +6139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 325865,
+      "num": 325865,
+      "word": "罗伊斯痛失德甲首冠",
+      "onboard_time": 1685202748,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 325220,
       "num": 293786,
       "word": "朴彩英生图",
@@ -6537,6 +6577,14 @@
       "onboard_time": 1685016508,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 305043,
+      "num": 305043,
+      "word": "樊振东vs梁靖崑",
+      "onboard_time": 1685203648,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 304770,
@@ -7065,6 +7113,14 @@
       "onboard_time": 1684762051,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 284383,
+      "num": 284383,
+      "word": "朴彩英模仿Lisa比中指",
+      "onboard_time": 1685201853,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 284248,
@@ -9739,14 +9795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209602,
-      "num": 209602,
-      "word": "拒绝董明珠3次的主播评孟羽童离职",
-      "onboard_time": 1685201132,
-      "rank": 37,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 209476,
       "num": 209476,
       "word": "陈都灵高清怼脸拍",
@@ -10011,6 +10059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202849,
+      "num": 168253,
+      "word": "五月天杭州演唱会票不能转赠",
+      "onboard_time": 1685202390,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 202593,
       "num": 202593,
       "word": "五月天cue了鸟巢外面的人",
@@ -10024,6 +10080,14 @@
       "word": "陈梦4比0伊藤美诚",
       "onboard_time": 1685117130,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 202349,
+      "num": 202349,
+      "word": "穆夏拉 牛",
+      "onboard_time": 1685203170,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -10425,6 +10489,14 @@
       "onboard_time": 1685049673,
       "rank": 44,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 194301,
+      "num": 117919,
+      "word": "袁姗姗新剧人设",
+      "onboard_time": 1685203709,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 194287,
@@ -11632,6 +11704,14 @@
       "word": "青春环游记",
       "onboard_time": 1685191769,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 166178,
+      "num": 113128,
+      "word": "欧阳靖中文说唱功力",
+      "onboard_time": 1685202630,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -13385,6 +13465,14 @@
       "onboard_time": 1684846591,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106922,
+      "num": 111708,
+      "word": "跳江救人的河南小伙找到了",
+      "onboard_time": 1685203648,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106721,
