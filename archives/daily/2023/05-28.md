@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/05/28 00:21:10 ~ 2023/05/28 02:19:44
+本榜单时间：2023/05/28 00:21:10 ~ 2023/05/28 02:33:45
 </p>
 </blockquote>
 <p>
@@ -389,6 +389,12 @@ maymay凯瑞图（热度：114110）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8E%8F%E9%B8%9F%E6%A1%88%E5%BD%93%E4%BA%8B%E4%BA%BA27%E6%97%A5%E5%88%91%E6%BB%A1%E9%87%8A%E6%94%BE%23" target="weibo">
 大学生掏鸟案当事人27日刑满释放（热度：42299）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%99%8B%E7%BA%A7%E5%8D%8A%E5%86%B3%E8%B5%9B%23" target="weibo">
+樊振东晋级半决赛（热度：37556）
 </a>
 </li>
 

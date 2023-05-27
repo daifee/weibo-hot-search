@@ -1,6 +1,6 @@
 {
   "startTime": 1685204470597,
-  "endTime": 1685211584900,
+  "endTime": 1685212425697,
   "band_list": [
     {
       "raw_hot": 2635395,
@@ -505,6 +505,14 @@
       "onboard_time": 1685210894,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37556,
+      "num": 37556,
+      "word": "樊振东晋级半决赛",
+      "onboard_time": 1685108853,
+      "rank": 48,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
