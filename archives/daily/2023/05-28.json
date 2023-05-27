@@ -1,6 +1,6 @@
 {
   "startTime": 1685204470597,
-  "endTime": 1685208815692,
+  "endTime": 1685211584900,
   "band_list": [
     {
       "raw_hot": 2635395,
@@ -307,20 +307,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201063,
+      "num": 201063,
+      "word": "其实大家的青春都很平淡吧",
+      "onboard_time": 1685205326,
+      "rank": 48,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 198622,
       "num": 119458,
       "word": "人生路不熟",
       "onboard_time": 1685199331,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 196316,
-      "num": 196316,
-      "word": "其实大家的青春都很平淡吧",
-      "onboard_time": 1685205326,
-      "rank": 48,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 188941,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137672,
+      "num": 137672,
+      "word": "陈梦王艺迪vs田志希申裕斌",
+      "onboard_time": 1685209938,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120214,
       "num": 120214,
       "word": "拜仁熟悉的下半场",
@@ -401,6 +409,14 @@
       "onboard_time": 1685205026,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114110,
+      "num": 101733,
+      "word": "maymay凯瑞图",
+      "onboard_time": 1685208380,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 112583,
@@ -451,14 +467,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 84068,
-      "num": 77275,
-      "word": "maymay凯瑞图",
-      "onboard_time": 1685208380,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 76670,
       "num": 76670,
       "word": "男乘客突然晕倒工作人员公主抱式抱起",
@@ -467,12 +475,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76470,
+      "num": 76470,
+      "word": "耳帝评浪姐二公舞台",
+      "onboard_time": 1685208860,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 74011,
       "num": 98031,
       "word": "多特蒙德vs美因茨",
       "onboard_time": 1685192373,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57220,
+      "num": 57220,
+      "word": "小伙被骗缅北3年警方指导逃脱",
+      "onboard_time": 1685189548,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42299,
+      "num": 42299,
+      "word": "大学生掏鸟案当事人27日刑满释放",
+      "onboard_time": 1685210894,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
