@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685216007261,
+  "endTime": 1685218613938,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -57547,6 +57547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55106,
+      "num": 55106,
+      "word": "大学生掏鸟案当事人27日刑满释放",
+      "onboard_time": 1685210894,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54735,
       "num": 479776,
       "word": "直播产品是怎么被选上的",
@@ -58145,14 +58153,6 @@
       "onboard_time": 1684692375,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 42299,
-      "num": 42299,
-      "word": "大学生掏鸟案当事人27日刑满释放",
-      "onboard_time": 1685210894,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42196,
@@ -58771,6 +58771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 25248,
+      "num": 27386,
+      "word": "BLACKPINK曼谷演唱会饭拍",
+      "onboard_time": 1685215513,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 25128,
       "num": 152473,
       "word": "新能源大五座SUV怎么选",
@@ -58785,14 +58793,6 @@
       "onboard_time": 1683844035,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 24654,
-      "num": 27386,
-      "word": "BLACKPINK曼谷演唱会饭拍",
-      "onboard_time": 1685215513,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 24272,
