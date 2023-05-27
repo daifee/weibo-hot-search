@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1685185996796,
+  "endTime": 1685187201110,
   "band_list": [
     {
       "raw_hot": 4241479,
@@ -1859,6 +1859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 927722,
+      "num": 927722,
+      "word": "那英唱掉了全程开大",
+      "onboard_time": 1685185167,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 919917,
       "num": 919917,
       "word": "成灿shotaro离开NCT",
@@ -1939,6 +1947,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 892389,
+      "num": 878853,
+      "word": "9岁男孩失踪13年尸骨现身山林地缝",
+      "onboard_time": 1685180128,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 889343,
       "num": 889343,
       "word": "校内被车撞倒身亡的孩子母亲首次发声",
@@ -1985,14 +2001,6 @@
       "onboard_time": 1684985908,
       "rank": 17,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 878853,
-      "num": 878853,
-      "word": "9岁男孩失踪13年尸骨现身山林地缝",
-      "onboard_time": 1685180128,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 873977,
@@ -2336,6 +2344,14 @@
       "word": "第一次见到女爱豆提到卫生巾",
       "onboard_time": 1685014046,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 756199,
+      "num": 756199,
+      "word": "李玉刚 你们销量不好是有原因的",
+      "onboard_time": 1685183307,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -2995,6 +3011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 579811,
+      "num": 359747,
+      "word": "锦瑟",
+      "onboard_time": 1685185647,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 579338,
       "num": 579338,
       "word": "四川一中学老师输液时不幸身亡",
@@ -3233,14 +3257,6 @@
       "onboard_time": 1685083591,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 539412,
-      "num": 539412,
-      "word": "李玉刚 你们销量不好是有原因的",
-      "onboard_time": 1685183307,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 537881,
@@ -3497,6 +3513,14 @@
       "onboard_time": 1685102668,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 504850,
+      "num": 354390,
+      "word": "李承铉连续九年给戚薇庆祝527",
+      "onboard_time": 1685185108,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 504426,
@@ -3868,7 +3892,7 @@
     },
     {
       "raw_hot": 465159,
-      "num": 987603,
+      "num": 988139,
       "word": "班主任带双胞胎走廊写作业陪学生备战高考",
       "onboard_time": 1685175568,
       "rank": 28,
@@ -4281,6 +4305,14 @@
       "onboard_time": 1684897049,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 423961,
+      "num": 352043,
+      "word": "朱一龙带保温杯去电影周",
+      "onboard_time": 1685186308,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 423151,
@@ -5075,14 +5107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 370731,
-      "num": 370731,
-      "word": "那英唱掉了全程开大",
-      "onboard_time": 1685185167,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 370370,
       "num": 290496,
       "word": "美依礼芽体重",
@@ -5252,7 +5276,7 @@
     },
     {
       "raw_hot": 359049,
-      "num": 243027,
+      "num": 244095,
       "word": "妻子偏瘫丈夫26次提出离婚",
       "onboard_time": 1685176408,
       "rank": 45,
@@ -5793,14 +5817,6 @@
       "onboard_time": 1684828289,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 323633,
-      "num": 323633,
-      "word": "李承铉连续九年给戚薇庆祝527",
-      "onboard_time": 1685185108,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 322843,
@@ -6915,6 +6931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 276623,
+      "num": 276623,
+      "word": "Lisa彩排生图",
+      "onboard_time": 1685185587,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 276279,
       "num": 276279,
       "word": "三分野今日开播",
@@ -7619,6 +7643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 254510,
+      "num": 254510,
+      "word": "唐朝真的很强吗",
+      "onboard_time": 1685182468,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 254271,
       "num": 176082,
       "word": "周深在100m内也能迷路",
@@ -7803,6 +7835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247201,
+      "num": 247201,
+      "word": "曾可妮直播哭了",
+      "onboard_time": 1685186308,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247136,
       "num": 247136,
       "word": "上届华表奖TFBOYS还合体走红毯",
@@ -7971,14 +8011,6 @@
       "category": "社会新闻,自然"
     },
     {
-      "raw_hot": 242004,
-      "num": 242004,
-      "word": "锦瑟",
-      "onboard_time": 1685185647,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 241844,
       "num": 241844,
       "word": "怦然3官宣了29位素人嘉宾",
@@ -8033,6 +8065,14 @@
       "onboard_time": 1685106989,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240678,
+      "num": 240678,
+      "word": "小白谢可寅双人舞台",
+      "onboard_time": 1685184929,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 240375,
@@ -8521,14 +8561,6 @@
       "onboard_time": 1684902756,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230633,
-      "num": 230633,
-      "word": "唐朝真的很强吗",
-      "onboard_time": 1685182468,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 230507,
@@ -9563,14 +9595,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 200454,
-      "num": 200454,
-      "word": "小白谢可寅双人舞台",
-      "onboard_time": 1685184929,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 200323,
       "num": 200323,
       "word": "长沙面包店有多卷",
@@ -9803,6 +9827,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 195261,
+      "num": 195261,
+      "word": "迷迭香",
+      "onboard_time": 1685186550,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195259,
       "num": 195259,
       "word": "如何看待国泰航空处理结果",
@@ -9921,6 +9953,14 @@
       "onboard_time": 1684992151,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193053,
+      "num": 193053,
+      "word": "五月天 外场",
+      "onboard_time": 1685186847,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 192924,
@@ -10963,14 +11003,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 168882,
-      "num": 168882,
-      "word": "Lisa彩排生图",
-      "onboard_time": 1685185587,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 168433,
       "num": 168433,
       "word": "如何区分呼吸道合胞病毒和流感",
@@ -11627,6 +11659,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 150527,
+      "num": 159735,
+      "word": "你有身高或身材焦虑吗",
+      "onboard_time": 1685183788,
+      "rank": 39,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 150483,
       "num": 150483,
       "word": "一稻济天下大医佑苍生",
@@ -11641,14 +11681,6 @@
       "onboard_time": 1685064867,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150199,
-      "num": 159735,
-      "word": "你有身高或身材焦虑吗",
-      "onboard_time": 1685183788,
-      "rank": 39,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 149714,
@@ -12137,6 +12169,14 @@
       "onboard_time": 1684683989,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131526,
+      "num": 131526,
+      "word": "博库的戒指耳夹",
+      "onboard_time": 1685187026,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 131431,
@@ -13603,6 +13643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 25373,
+      "num": 435283,
+      "word": "凯尔登约翰逊泰裤辣",
+      "onboard_time": 1685185229,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25128,
       "num": 152473,
       "word": "新能源大五座SUV怎么选",
@@ -13681,14 +13729,6 @@
       "onboard_time": 1684936829,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 15916,
-      "num": 435283,
-      "word": "凯尔登约翰逊泰裤辣",
-      "onboard_time": 1685185229,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 5860,
