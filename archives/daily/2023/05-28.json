@@ -1,10 +1,10 @@
 {
   "startTime": 1685204470597,
-  "endTime": 1685204470597,
+  "endTime": 1685205371064,
   "band_list": [
     {
-      "raw_hot": 1796320,
-      "num": 1796320,
+      "raw_hot": 2635395,
+      "num": 2635395,
       "word": "假球",
       "onboard_time": 1685202992,
       "rank": 0,
@@ -25,6 +25,14 @@
       "onboard_time": 1685192611,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 888841,
+      "num": 888841,
+      "word": "算命 更适合中国宝宝的心理咨询",
+      "onboard_time": 1685201791,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 847616,
@@ -75,14 +83,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 570004,
-      "num": 570004,
-      "word": "算命 更适合中国宝宝的心理咨询",
-      "onboard_time": 1685201791,
-      "rank": 9,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 551112,
       "num": 321997,
       "word": "拒绝董明珠3次的主播评孟羽童离职",
@@ -129,6 +129,14 @@
       "onboard_time": 1685200771,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 444857,
+      "num": 444857,
+      "word": "樊振东vs梁靖崑",
+      "onboard_time": 1685203648,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 428887,
@@ -195,20 +203,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 305043,
-      "num": 305043,
-      "word": "樊振东vs梁靖崑",
-      "onboard_time": 1685203648,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 303154,
       "num": 303154,
       "word": "南航",
       "onboard_time": 1685187807,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285932,
+      "num": 221025,
+      "word": "袁姗姗新剧人设",
+      "onboard_time": 1685203709,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 284383,
@@ -243,7 +251,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212889,
+      "raw_hot": 222794,
+      "num": 155853,
+      "word": "贝林厄姆哭了",
+      "onboard_time": 1685204547,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 222519,
       "num": 202687,
       "word": "莫文蔚的腿秒了",
       "onboard_time": 1685193393,
@@ -291,12 +307,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 194301,
-      "num": 117919,
-      "word": "袁姗姗新剧人设",
-      "onboard_time": 1685203709,
-      "rank": 41,
-      "category": "影视"
+      "raw_hot": 188941,
+      "num": 138745,
+      "word": "李玉刚 你们销量不好是有原因的",
+      "onboard_time": 1685183307,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 183335,
@@ -305,14 +321,6 @@
       "onboard_time": 1685201073,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 182633,
-      "num": 115331,
-      "word": "李玉刚 你们销量不好是有原因的",
-      "onboard_time": 1685183307,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 170754,
@@ -331,8 +339,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167100,
-      "num": 167100,
+      "raw_hot": 168431,
+      "num": 168431,
       "word": "樊振东王楚钦世锦赛男双冠军",
       "onboard_time": 1685195614,
       "rank": 37,
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 166178,
-      "num": 113128,
+      "num": 120237,
       "word": "欧阳靖中文说唱功力",
       "onboard_time": 1685202630,
       "rank": 45,
@@ -353,6 +361,14 @@
       "onboard_time": 1685191350,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143111,
+      "num": 143111,
+      "word": "陈梦王艺迪女双决赛",
+      "onboard_time": 1685204489,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 120214,
@@ -401,11 +417,30 @@
       "onboard_time": 1685203648,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75402,
+      "num": 98301,
+      "word": "其实大家的青春都很平淡吧",
+      "onboard_time": 1685205326,
+      "rank": 48,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 74011,
+      "num": 98031,
+      "word": "多特蒙德vs美因茨",
+      "onboard_time": 1685192373,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
     {
       "word": "#2023数博会上的黑科技#"
+    },
+    {
+      "word": "#中国刚果金全面战略合作伙伴关系#"
     }
   ]
 }
