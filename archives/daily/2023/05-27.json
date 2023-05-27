@@ -1,6 +1,6 @@
 {
   "startTime": 1685118110147,
-  "endTime": 1685157438226,
+  "endTime": 1685158420034,
   "band_list": [
     {
       "raw_hot": 2327527,
@@ -11,20 +11,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1482227,
+      "num": 1482227,
+      "word": "逃犯去看周杰伦演唱会路上被抓",
+      "onboard_time": 1685152167,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1434814,
       "num": 1434814,
       "word": "狂飙片方没有为高启强报名",
       "onboard_time": 1685110894,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1418776,
-      "num": 1418776,
-      "word": "逃犯去看周杰伦演唱会路上被抓",
-      "onboard_time": 1685152167,
-      "rank": 1,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1215951,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1007055,
+      "num": 1007055,
+      "word": "秋瓷炫南韩酒鬼人设",
+      "onboard_time": 1685155830,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 935484,
       "num": 935484,
       "word": "陈梦",
@@ -67,6 +75,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 868033,
+      "num": 868033,
+      "word": "古人吃剩的螺蛳壳堆成一座山",
+      "onboard_time": 1685147369,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 854226,
       "num": 299964,
       "word": "女主播给15岁男孩发半裸照片骗打赏",
@@ -75,12 +91,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 817234,
-      "num": 817234,
-      "word": "古人吃剩的螺蛳壳堆成一座山",
-      "onboard_time": 1685147369,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 830157,
+      "num": 830157,
+      "word": "韩国人对花花的评价",
+      "onboard_time": 1685155347,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 794363,
@@ -171,14 +187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 560244,
-      "num": 560244,
-      "word": "秋瓷炫南韩酒鬼人设",
-      "onboard_time": 1685155830,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 524072,
       "num": 524072,
       "word": "美依礼芽的坐姿",
@@ -193,14 +201,6 @@
       "onboard_time": 1685116291,
       "rank": 30,
       "category": "军事,国外要闻"
-    },
-    {
-      "raw_hot": 503409,
-      "num": 503409,
-      "word": "韩国人对花花的评价",
-      "onboard_time": 1685155347,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 501616,
@@ -227,6 +227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 481823,
+      "num": 210724,
+      "word": "永久关闭6万多个自媒体账号",
+      "onboard_time": 1685154869,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 473468,
       "num": 243342,
       "word": "何丹彤回应被抢劫",
@@ -243,20 +251,20 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 457484,
-      "num": 210724,
-      "word": "永久关闭6万多个自媒体账号",
-      "onboard_time": 1685154869,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 426045,
       "num": 231516,
       "word": "原来王诗龄最苦的时间是录爸爸去哪儿",
       "onboard_time": 1685154149,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 420972,
+      "num": 420972,
+      "word": "男子租房7年将家变成人生博物馆",
+      "onboard_time": 1685155287,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 413393,
@@ -299,14 +307,6 @@
       "category": "音乐,幽默"
     },
     {
-      "raw_hot": 398696,
-      "num": 398696,
-      "word": "男子租房7年将家变成人生博物馆",
-      "onboard_time": 1685155287,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 384846,
       "num": 229877,
       "word": "真的建议不要买开口的榴莲",
@@ -315,12 +315,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 376458,
+      "num": 376458,
+      "word": "鹿晗 抢票",
+      "onboard_time": 1685156368,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 376288,
       "num": 376288,
       "word": "连把五月天文身上的人都没抢到票",
       "onboard_time": 1685147188,
       "rank": 12,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 375556,
+      "num": 375556,
+      "word": "一个舞BLACKPINK跳出了四种感觉",
+      "onboard_time": 1685157569,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 356158,
@@ -379,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314556,
+      "num": 175602,
+      "word": "遇到一米八三的不要去要微信",
+      "onboard_time": 1685157988,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 309401,
       "num": 309401,
       "word": "女子执意推婴儿车淌水孩子不慎摔落",
@@ -392,14 +416,6 @@
       "word": "白敬亭是自己抢票吗",
       "onboard_time": 1685108190,
       "rank": 16,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 289354,
-      "num": 187376,
-      "word": "鹿晗 抢票",
-      "onboard_time": 1685156368,
-      "rank": 23,
       "category": "音乐"
     },
     {
@@ -499,6 +515,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253207,
+      "num": 198787,
+      "word": "成毅蔡徐坤今日微博开屏",
+      "onboard_time": 1685157151,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 246385,
+      "num": 197630,
+      "word": "秦霄贤坐轮椅录制好六",
+      "onboard_time": 1685156847,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243207,
       "num": 243207,
       "word": "巴厘岛",
@@ -523,14 +555,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 232512,
-      "num": 163033,
-      "word": "秦霄贤坐轮椅录制好六",
-      "onboard_time": 1685156847,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 230778,
       "num": 230778,
       "word": "难怪吴磊说侯明昊好看",
@@ -553,6 +577,14 @@
       "onboard_time": 1685150669,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219914,
+      "num": 173039,
+      "word": "哥哥嫌给妹妹起的名字土崩溃大哭",
+      "onboard_time": 1685157748,
+      "rank": 31,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 218167,
@@ -667,6 +699,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 183973,
+      "num": 183973,
+      "word": "昆卡",
+      "onboard_time": 1685157928,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 180842,
       "num": 135324,
       "word": "王艺迪3比4早田希娜",
@@ -675,11 +715,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180649,
+      "num": 180649,
+      "word": "孕妇地铁站内流血民警暖心守候",
+      "onboard_time": 1685156847,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180330,
       "num": 180330,
       "word": "wmls",
       "onboard_time": 1685152109,
       "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 179560,
+      "num": 179560,
+      "word": "华莎美国公演舞台露上衣",
+      "onboard_time": 1685157450,
+      "rank": 29,
       "category": "音乐"
     },
     {
@@ -729,22 +785,6 @@
       "onboard_time": 1685112093,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160352,
-      "num": 160352,
-      "word": "成毅蔡徐坤今日微博开屏",
-      "onboard_time": 1685157151,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 157333,
-      "num": 157333,
-      "word": "孕妇地铁站内流血民警暖心守候",
-      "onboard_time": 1685156847,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156842,
