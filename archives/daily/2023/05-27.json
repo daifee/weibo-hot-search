@@ -1,10 +1,10 @@
 {
   "startTime": 1685118110147,
-  "endTime": 1685151996555,
+  "endTime": 1685154815129,
   "band_list": [
     {
-      "raw_hot": 2323885,
-      "num": 2323885,
+      "raw_hot": 2327527,
+      "num": 2327527,
       "word": "一千多赞的朋友圈原来长这样",
       "onboard_time": 1685145024,
       "rank": 0,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 990021,
+      "num": 990021,
+      "word": "逃犯去看周杰伦演唱会路上被抓",
+      "onboard_time": 1685152167,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 935484,
       "num": 935484,
       "word": "陈梦",
@@ -59,8 +67,16 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 804224,
-      "num": 804224,
+      "raw_hot": 854226,
+      "num": 299964,
+      "word": "女主播给15岁男孩发半裸照片骗打赏",
+      "onboard_time": 1685149470,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 817234,
+      "num": 817234,
       "word": "古人吃剩的螺蛳壳堆成一座山",
       "onboard_time": 1685147369,
       "rank": 9,
@@ -75,7 +91,15 @@
       "category": "情感"
     },
     {
-      "raw_hot": 709924,
+      "raw_hot": 772772,
+      "num": 772772,
+      "word": "五月天又放票了",
+      "onboard_time": 1685149708,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 768689,
       "num": 404086,
       "word": "长沙一家五口命案邻居发声",
       "onboard_time": 1685149529,
@@ -91,20 +115,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 650262,
+      "num": 650262,
+      "word": "张凌赫好惨一男的",
+      "onboard_time": 1685151270,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 647648,
       "num": 647648,
       "word": "椰树 不带货纯擦",
       "onboard_time": 1685120782,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 629651,
-      "num": 629651,
-      "word": "五月天又放票了",
-      "onboard_time": 1685149708,
-      "rank": 10,
-      "category": "音乐"
     },
     {
       "raw_hot": 626657,
@@ -121,6 +145,14 @@
       "onboard_time": 1685109929,
       "rank": 6,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 592469,
+      "num": 592469,
+      "word": "大学生掏鸟案当事人已出狱",
+      "onboard_time": 1685152527,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 573743,
@@ -195,14 +227,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 446924,
-      "num": 245526,
-      "word": "女主播给15岁男孩发半裸照片骗打赏",
-      "onboard_time": 1685149470,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 411060,
       "num": 411060,
       "word": "孙颖莎王曼昱0比3田志希申裕斌",
@@ -251,6 +275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 346586,
+      "num": 346586,
+      "word": "表兄妹结婚10年育1子被判婚姻无效",
+      "onboard_time": 1685119164,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343179,
       "num": 343179,
       "word": "猝死的人都有这些规律",
@@ -275,6 +307,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301652,
+      "num": 301652,
+      "word": "熊孩子剪掉女子头发家长赔1万合理吗",
+      "onboard_time": 1685150488,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295991,
+      "num": 295991,
+      "word": "这跟坐在白敬亭怀里有什么区别",
+      "onboard_time": 1685150910,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 293989,
       "num": 293989,
       "word": "白敬亭是自己抢票吗",
@@ -289,6 +337,14 @@
       "onboard_time": 1685098051,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285641,
+      "num": 231516,
+      "word": "原来王诗龄最苦的时间是录爸爸去哪儿",
+      "onboard_time": 1685154149,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 281663,
@@ -379,12 +435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245694,
-      "num": 245694,
-      "word": "张凌赫好惨一男的",
-      "onboard_time": 1685151270,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 246492,
+      "num": 229877,
+      "word": "真的建议不要买开口的榴莲",
+      "onboard_time": 1685154569,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 243207,
@@ -393,6 +449,14 @@
       "onboard_time": 1685136793,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242692,
+      "num": 229183,
+      "word": "今天好多人开演唱会",
+      "onboard_time": 1685153968,
+      "rank": 25,
+      "category": "音乐,幽默"
     },
     {
       "raw_hot": 241371,
@@ -411,6 +475,22 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 235426,
+      "num": 235426,
+      "word": "恋爱中很多人的忠诚都是演的",
+      "onboard_time": 1685153307,
+      "rank": 18,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 230778,
+      "num": 230778,
+      "word": "难怪吴磊说侯明昊好看",
+      "onboard_time": 1685149649,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221286,
       "num": 221286,
       "word": "马琳",
@@ -425,14 +505,6 @@
       "onboard_time": 1685150669,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 218273,
-      "num": 218273,
-      "word": "这跟坐在白敬亭怀里有什么区别",
-      "onboard_time": 1685150910,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 218167,
@@ -459,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203627,
+      "num": 203627,
+      "word": "周迅觉得何炅黄磊太像空巢老人",
+      "onboard_time": 1685149411,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202593,
       "num": 202593,
       "word": "五月天cue了鸟巢外面的人",
@@ -475,12 +555,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202456,
-      "num": 202456,
-      "word": "难怪吴磊说侯明昊好看",
-      "onboard_time": 1685149649,
-      "rank": 36,
-      "category": "影视"
+      "raw_hot": 198271,
+      "num": 198271,
+      "word": "谢娜发火只有马伯骞紧张了",
+      "onboard_time": 1685148867,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 197045,
@@ -523,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187739,
-      "num": 187739,
-      "word": "熊孩子剪掉女子头发家长赔1万合理吗",
-      "onboard_time": 1685150488,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185147,
       "num": 185147,
       "word": "周也戴了72条珠链",
@@ -547,12 +619,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179602,
-      "num": 179602,
-      "word": "谢娜发火只有马伯骞紧张了",
-      "onboard_time": 1685148867,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 177304,
+      "num": 177304,
+      "word": "wmls",
+      "onboard_time": 1685152109,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 175409,
+      "num": 175409,
+      "word": "上班之后最大的感受 收窄了",
+      "onboard_time": 1685152888,
+      "rank": 38,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 170052,
@@ -611,12 +691,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 142480,
-      "num": 142480,
-      "word": "周迅觉得何炅黄磊太像空巢老人",
-      "onboard_time": 1685149411,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 141572,
+      "num": 141572,
+      "word": "外卖小哥送餐时发现罂粟后报警",
+      "onboard_time": 1685154688,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138197,
