@@ -1,6 +1,6 @@
 {
   "startTime": 1685118110147,
-  "endTime": 1685183626246,
+  "endTime": 1685185996796,
   "band_list": [
     {
       "raw_hot": 2580452,
@@ -17,6 +17,14 @@
       "onboard_time": 1685145024,
       "rank": 0,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1749151,
+      "num": 1749151,
+      "word": "二阳是因为免疫力到期了吗",
+      "onboard_time": 1685172208,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1702798,
@@ -75,11 +83,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1396940,
-      "num": 1396940,
-      "word": "二阳是因为免疫力到期了吗",
-      "onboard_time": 1685172208,
-      "rank": 38,
+      "raw_hot": 1333641,
+      "num": 1333641,
+      "word": "非婚生育",
+      "onboard_time": 1685180248,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -124,19 +132,11 @@
     },
     {
       "raw_hot": 1090203,
-      "num": 487765,
+      "num": 501753,
       "word": "安崎承认恋情后开麦初舞台",
       "onboard_time": 1685176049,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1085970,
-      "num": 1085970,
-      "word": "非婚生育",
-      "onboard_time": 1685180248,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1081510,
@@ -203,19 +203,19 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 878853,
+      "num": 878853,
+      "word": "9岁男孩失踪13年尸骨现身山林地缝",
+      "onboard_time": 1685180128,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 854226,
       "num": 299964,
       "word": "女主播给15岁男孩发半裸照片骗打赏",
       "onboard_time": 1685149470,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 854162,
-      "num": 483028,
-      "word": "9岁男孩失踪13年尸骨现身山林地缝",
-      "onboard_time": 1685180128,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -363,8 +363,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 539412,
+      "num": 539412,
+      "word": "李玉刚 你们销量不好是有原因的",
+      "onboard_time": 1685183307,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 537881,
-      "num": 1194849,
+      "num": 1527162,
       "word": "保洁阿姨为护女孩用身体挡住大狗",
       "onboard_time": 1685176648,
       "rank": 16,
@@ -433,6 +441,14 @@
       "onboard_time": 1685173050,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 490820,
+      "num": 490820,
+      "word": "我在惊悚游戏里封神",
+      "onboard_time": 1685181027,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 485186,
@@ -667,12 +683,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 370731,
+      "num": 370731,
+      "word": "那英唱掉了全程开大",
+      "onboard_time": 1685185167,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360116,
       "num": 360116,
       "word": "王心凌耳返没声音盲唱",
       "onboard_time": 1685167646,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 360096,
+      "num": 360096,
+      "word": "少年白马醉春风",
+      "onboard_time": 1685183307,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 359049,
@@ -697,6 +729,14 @@
       "onboard_time": 1685153307,
       "rank": 18,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 349636,
+      "num": 349636,
+      "word": "LOL亚运征途不派出现役选手",
+      "onboard_time": 1685181867,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 347997,
@@ -747,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323633,
+      "num": 323633,
+      "word": "李承铉连续九年给戚薇庆祝527",
+      "onboard_time": 1685185108,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309401,
       "num": 309401,
       "word": "女子执意推婴儿车淌水孩子不慎摔落",
@@ -793,14 +841,6 @@
       "onboard_time": 1685177609,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 291365,
-      "num": 291365,
-      "word": "我在惊悚游戏里封神",
-      "onboard_time": 1685181027,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 289274,
@@ -1019,12 +1059,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242004,
+      "num": 242004,
+      "word": "锦瑟",
+      "onboard_time": 1685185647,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 241371,
       "num": 199864,
       "word": "向往的生活",
       "onboard_time": 1685109210,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241207,
+      "num": 241207,
+      "word": "以你为名的夏天",
+      "onboard_time": 1685185710,
+      "rank": 24,
+      "category": "动漫"
     },
     {
       "raw_hot": 239978,
@@ -1067,12 +1123,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 224294,
-      "num": 224294,
-      "word": "LOL亚运征途不派出现役选手",
-      "onboard_time": 1685181867,
-      "rank": 36,
-      "category": "游戏"
+      "raw_hot": 230633,
+      "num": 230633,
+      "word": "唐朝真的很强吗",
+      "onboard_time": 1685182468,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 224072,
+      "num": 224072,
+      "word": "奶茶店回应杯子压容量",
+      "onboard_time": 1685181388,
+      "rank": 33,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 222478,
@@ -1131,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205631,
+      "num": 205631,
+      "word": "这个毕设也太高级了",
+      "onboard_time": 1685182768,
+      "rank": 35,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 204087,
       "num": 204087,
       "word": "德班世乒赛",
@@ -1177,6 +1249,14 @@
       "onboard_time": 1685161588,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 200454,
+      "num": 200454,
+      "word": "小白谢可寅双人舞台",
+      "onboard_time": 1685184929,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 198271,
@@ -1235,20 +1315,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194006,
+      "num": 194006,
+      "word": "声生不息",
+      "onboard_time": 1685185287,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193593,
       "num": 193593,
       "word": "鹿晗派对dresscode",
       "onboard_time": 1685173767,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 193091,
-      "num": 193091,
-      "word": "奶茶店回应杯子压容量",
-      "onboard_time": 1685181388,
-      "rank": 33,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 192029,
@@ -1289,6 +1369,14 @@
       "onboard_time": 1685177609,
       "rank": 35,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 186312,
+      "num": 186312,
+      "word": "中国说唱巅峰对决",
+      "onboard_time": 1685184690,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 185147,
@@ -1363,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168882,
+      "num": 168882,
+      "word": "Lisa彩排生图",
+      "onboard_time": 1685185587,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 167519,
       "num": 167519,
       "word": "萌兰舅舅的电动马达臀已炼成",
@@ -1435,14 +1531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160221,
-      "num": 160221,
-      "word": "李玉刚 你们销量不好是有原因的",
-      "onboard_time": 1685183307,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159443,
       "num": 148980,
       "word": "Amber谢欣把所有姐姐舞台编一起拉票",
@@ -1457,14 +1545,6 @@
       "onboard_time": 1685163088,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158041,
-      "num": 158041,
-      "word": "这个毕设也太高级了",
-      "onboard_time": 1685182768,
-      "rank": 35,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 157052,
@@ -1491,6 +1571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 155371,
+      "num": 155371,
+      "word": "杨千嬅广州演唱会",
+      "onboard_time": 1685184028,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 150991,
       "num": 150991,
       "word": "Karma MV",
@@ -1505,6 +1593,14 @@
       "onboard_time": 1685154688,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150199,
+      "num": 159735,
+      "word": "你有身高或身材焦虑吗",
+      "onboard_time": 1685183788,
+      "rank": 39,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 149041,
@@ -1547,14 +1643,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 133875,
-      "num": 133875,
-      "word": "少年白马醉春风",
-      "onboard_time": 1685183307,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 133100,
       "num": 133100,
       "word": "徐明浩文俊辉是在迎宾吗",
@@ -1579,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127725,
+      "num": 127725,
+      "word": "张杰三月高能拉麦",
+      "onboard_time": 1685183788,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127452,
       "num": 190756,
       "word": "姑娘嗓子疼从就诊到去世仅10分钟",
@@ -1601,6 +1697,14 @@
       "onboard_time": 1685118748,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123550,
+      "num": 123550,
+      "word": "陈醋可乐",
+      "onboard_time": 1685184447,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 123207,
@@ -1737,14 +1841,6 @@
       "onboard_time": 1685143339,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110404,
-      "num": 110404,
-      "word": "唐朝真的很强吗",
-      "onboard_time": 1685182468,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 108622,
@@ -1924,7 +2020,7 @@
     },
     {
       "raw_hot": 32405,
-      "num": 1278410,
+      "num": 1374525,
       "word": "为中国式现代化建设先行探路",
       "onboard_time": 1685174427,
       "rank": 2,
@@ -1945,6 +2041,14 @@
       "onboard_time": 1685107529,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15916,
+      "num": 435283,
+      "word": "凯尔登约翰逊泰裤辣",
+      "onboard_time": 1685185229,
+      "rank": 14,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
