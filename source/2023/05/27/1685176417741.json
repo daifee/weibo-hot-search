@@ -1,0 +1,410 @@
+{
+  "runTime": 1685176417741,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1600365,
+        "num": 1600365,
+        "word": "重庆市在TikTok上成功出圈",
+        "onboard_time": 1685171907,
+        "rank": 0,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 1002178,
+        "num": 1002178,
+        "word": "塞尔维亚",
+        "onboard_time": 1685163030,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 24324,
+        "num": 958713,
+        "word": "为中国式现代化建设先行探路",
+        "onboard_time": 1685174427,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 945525,
+        "num": 945525,
+        "word": "小孩学动画片撑伞从26楼跳下",
+        "onboard_time": 1685173527,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 909460,
+        "num": 909460,
+        "word": "陈意涵大哭",
+        "onboard_time": 1685164526,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 715990,
+        "num": 715990,
+        "word": "乐华",
+        "onboard_time": 1685169207,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2208762,
+        "num": 690617,
+        "word": "肖战杨紫 天骄",
+        "onboard_time": 1685173586,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 656013,
+        "num": 656013,
+        "word": "李玉刚四美图被认成回美国",
+        "onboard_time": 1685166688,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 555219,
+        "num": 555219,
+        "word": "国际生 职高生",
+        "onboard_time": 1685167528,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 503040,
+        "num": 503040,
+        "word": "过了三十岁就必须要结婚吗",
+        "onboard_time": 1685172566,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 491634,
+        "num": 491634,
+        "word": "陆虎首次公开领证细节",
+        "onboard_time": 1685173050,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477276,
+        "num": 477276,
+        "word": "4位二阳患者自述感染经历",
+        "onboard_time": 1685160088,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326913,
+        "num": 326913,
+        "word": "宝鸡一高中校长在教育局办公室被打",
+        "onboard_time": 1685170289,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 318637,
+        "num": 318637,
+        "word": "王一博方坚决抵制追私行为",
+        "onboard_time": 1685171488,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87304,
+        "num": 313730,
+        "word": "女孩路边晕倒陌生人送热水守护",
+        "onboard_time": 1685174427,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310554,
+        "num": 310554,
+        "word": "五月天杭州演唱会官宣",
+        "onboard_time": 1685168906,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 296106,
+        "num": 296106,
+        "word": "韩庚是卢靖姗组舞台顾问",
+        "onboard_time": 1685169270,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283387,
+        "num": 283387,
+        "word": "一千多赞的朋友圈原来长这样",
+        "onboard_time": 1685145024,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238480,
+        "num": 238480,
+        "word": "WBG官宣Weiwei加入",
+        "onboard_time": 1685171787,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 226960,
+        "num": 226960,
+        "word": "王一博纯甄见面会",
+        "onboard_time": 1685170467,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410131,
+        "num": 226382,
+        "word": "遇到一米八三的不要去要微信",
+        "onboard_time": 1685157988,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 300493,
+        "num": 225549,
+        "word": "二阳是因为免疫力到期了吗",
+        "onboard_time": 1685172208,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236774,
+        "num": 224813,
+        "word": "伴娘为什么一定要未婚才行",
+        "onboard_time": 1685162729,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222211,
+        "num": 222211,
+        "word": "王鹤棣重庆活动人气",
+        "onboard_time": 1685171427,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216786,
+        "num": 216786,
+        "word": "安崎承认恋情后开麦初舞台",
+        "onboard_time": 1685176049,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211651,
+        "num": 211651,
+        "word": "大熊猫丫丫即将结束隔离",
+        "onboard_time": 1685165488,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66573,
+        "num": 202208,
+        "word": "被格力在国际标准的话语权震惊到",
+        "onboard_time": 1685174130,
+        "rank": 26,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 197421,
+        "num": 197421,
+        "word": "天骄",
+        "onboard_time": 1685173887,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194144,
+        "num": 194144,
+        "word": "班主任带双胞胎走廊写作业陪学生备战高考",
+        "onboard_time": 1685175568,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 193667,
+        "num": 193667,
+        "word": "奶茶杯子压容量",
+        "onboard_time": 1685169327,
+        "rank": 29,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 191387,
+        "num": 191387,
+        "word": "陈哲远太原",
+        "onboard_time": 1685173948,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190631,
+        "num": 190631,
+        "word": "有人坐过以前公交车的这个位置吗",
+        "onboard_time": 1685166567,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188311,
+        "num": 188311,
+        "word": "鹿晗派对dresscode",
+        "onboard_time": 1685173767,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186268,
+        "num": 186268,
+        "word": "徐怀钰眼里有光了",
+        "onboard_time": 1685165068,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171532,
+        "num": 171532,
+        "word": "5名袖珍人组建杀虫灭鼠队",
+        "onboard_time": 1685168846,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169711,
+        "num": 169711,
+        "word": "迷迭香二公最佳",
+        "onboard_time": 1685163690,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161102,
+        "num": 161102,
+        "word": "永久关闭6万多个自媒体账号",
+        "onboard_time": 1685154869,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156186,
+        "num": 156186,
+        "word": "草莓音乐节",
+        "onboard_time": 1685175807,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146397,
+        "num": 146397,
+        "word": "美人鱼",
+        "onboard_time": 1685168787,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137926,
+        "num": 137926,
+        "word": "王一博青岛",
+        "onboard_time": 1685158887,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136189,
+        "num": 136189,
+        "word": "五月天旧版荧光棒能场控了",
+        "onboard_time": 1685174908,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133933,
+        "num": 133933,
+        "word": "Amber谢欣第一",
+        "onboard_time": 1685162789,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133658,
+        "num": 133658,
+        "word": "韩国人对花花的评价",
+        "onboard_time": 1685155347,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132801,
+        "num": 132801,
+        "word": "张云雷演唱会",
+        "onboard_time": 1685169448,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120161,
+        "num": 120161,
+        "word": "王心凌耳返没声音盲唱",
+        "onboard_time": 1685167646,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116980,
+        "num": 116980,
+        "word": "妻子偏瘫丈夫26次提出离婚",
+        "onboard_time": 1685176408,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115955,
+        "num": 115955,
+        "word": "关于二阳的多个认识误区",
+        "onboard_time": 1685175687,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115845,
+        "num": 115845,
+        "word": "白色大熊猫",
+        "onboard_time": 1685167646,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115182,
+        "num": 115182,
+        "word": "长空之王综合票房破8亿",
+        "onboard_time": 1685176347,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109315,
+        "num": 109315,
+        "word": "河北一派出所发生爆炸致4死2失联",
+        "onboard_time": 1685160628,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对中关村寄予厚望#"
+    }
+  }
+}
