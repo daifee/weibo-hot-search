@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685218613938,
+  "endTime": 1685219628625,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -57499,6 +57499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56138,
+      "num": 56138,
+      "word": "大学生掏鸟案当事人27日刑满释放",
+      "onboard_time": 1685210894,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56018,
       "num": 56018,
       "word": "宁静说姐姐们太苦了没时间勾心斗角",
@@ -57544,14 +57552,6 @@
       "word": "第一视角看航天员进入天舟六号",
       "onboard_time": 1683898109,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55106,
-      "num": 55106,
-      "word": "大学生掏鸟案当事人27日刑满释放",
-      "onboard_time": 1685210894,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -58985,6 +58985,22 @@
       "onboard_time": 1684936829,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16886,
+      "num": 20417,
+      "word": "锦鲤",
+      "onboard_time": 1685219292,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 15815,
+      "num": 20392,
+      "word": "德甲联赛",
+      "onboard_time": 1685212814,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 15606,
