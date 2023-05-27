@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1685229394636,
+  "endTime": 1685230414430,
   "band_list": [
     {
       "raw_hot": 4241479,
@@ -1923,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 946252,
+      "num": 946252,
+      "word": "拒绝董明珠3次的主播评孟羽童离职",
+      "onboard_time": 1685201132,
+      "rank": 37,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 943100,
       "num": 943100,
       "word": "1岁半女婴离家30米处丢失",
@@ -2361,14 +2369,6 @@
       "onboard_time": 1685111432,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 791095,
-      "num": 791095,
-      "word": "拒绝董明珠3次的主播评孟羽童离职",
-      "onboard_time": 1685201132,
-      "rank": 37,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 789456,
@@ -9811,6 +9811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 210143,
+      "num": 210143,
+      "word": "全球唯一白色大熊猫野外撒欢",
+      "onboard_time": 1685218393,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210105,
       "num": 210105,
       "word": "跑男",
@@ -10265,14 +10273,6 @@
       "onboard_time": 1685068348,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 198323,
-      "num": 198323,
-      "word": "全球唯一白色大熊猫野外撒欢",
-      "onboard_time": 1685218393,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198271,
@@ -10795,6 +10795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188786,
+      "num": 188786,
+      "word": "梅西收获职业生涯第43冠",
+      "onboard_time": 1685228956,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188730,
       "num": 188730,
       "word": "朱一龙提名白玉兰最佳男主角",
@@ -10985,6 +10993,14 @@
       "onboard_time": 1684717946,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 184682,
+      "num": 184682,
+      "word": "大学生掏鸟案当事人27日刑满释放",
+      "onboard_time": 1685210894,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184633,
@@ -11257,6 +11273,14 @@
       "onboard_time": 1685092652,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 179643,
+      "num": 133535,
+      "word": "大连降雨一高校遍地是小青蛙",
+      "onboard_time": 1685228358,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179560,
@@ -12115,14 +12139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157552,
-      "num": 157552,
-      "word": "大学生掏鸟案当事人27日刑满释放",
-      "onboard_time": 1685210894,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157336,
       "num": 170758,
       "word": "咽喉炎自救指南",
@@ -12273,6 +12289,14 @@
       "onboard_time": 1685064509,
       "rank": 41,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 154833,
+      "num": 154833,
+      "word": "吴京说我的金手指一指张译就得奖了",
+      "onboard_time": 1685225894,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 154814,
@@ -12481,6 +12505,14 @@
       "onboard_time": 1684998688,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148541,
+      "num": 148541,
+      "word": "ai换脸 我对父母的反诈宣传",
+      "onboard_time": 1685228416,
+      "rank": 31,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 148150,
@@ -12705,6 +12737,14 @@
       "onboard_time": 1685040374,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138475,
+      "num": 125720,
+      "word": "你可能还没这只猫的道行深",
+      "onboard_time": 1685230340,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 138372,
@@ -13049,14 +13089,6 @@
       "onboard_time": 1685088510,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 126988,
-      "num": 126988,
-      "word": "吴京说我的金手指一指张译就得奖了",
-      "onboard_time": 1685225894,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 126483,
@@ -13459,14 +13491,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 109718,
-      "num": 71353,
-      "word": "大连降雨一高校遍地是小青蛙",
-      "onboard_time": 1685228358,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109579,
       "num": 133380,
       "word": "F1",
@@ -13587,12 +13611,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105054,
+      "num": 89862,
+      "word": "大学生网购零食放虫子敲诈40多次",
+      "onboard_time": 1685229918,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104964,
       "num": 104964,
       "word": "头帐篷",
       "onboard_time": 1685006246,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103191,
+      "num": 103191,
+      "word": "梅西加冕五大联赛历史射手王",
+      "onboard_time": 1685229257,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 102801,
@@ -13811,6 +13851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87852,
+      "num": 87852,
+      "word": "张云雷好妹妹合唱相思赋予谁",
+      "onboard_time": 1685230400,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87621,
       "num": 87621,
       "word": "周扬青一天换3种发型拍100张照片",
@@ -13857,6 +13905,14 @@
       "onboard_time": 1684726647,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81162,
+      "num": 81162,
+      "word": "叶舒华牛仔裙",
+      "onboard_time": 1685230098,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 80764,
@@ -13929,14 +13985,6 @@
       "onboard_time": 1685213355,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 75998,
-      "num": 75998,
-      "word": "梅西收获职业生涯第43冠",
-      "onboard_time": 1685228956,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 75513,
@@ -14017,14 +14065,6 @@
       "onboard_time": 1684776196,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 69741,
-      "num": 69741,
-      "word": "ai换脸 我对父母的反诈宣传",
-      "onboard_time": 1685228416,
-      "rank": 31,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 69732,
@@ -14163,6 +14203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56959,
+      "num": 56959,
+      "word": "浙江婚龄男女为啥怕过端午节",
+      "onboard_time": 1685230340,
+      "rank": 46,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 56821,
       "num": 1649851,
       "word": "神舟十六号近日择机发射",
@@ -14185,6 +14233,14 @@
       "onboard_time": 1684944446,
       "rank": 41,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 55620,
+      "num": 55620,
+      "word": "因闯红灯上热搜的安徽的哥又出手了",
+      "onboard_time": 1685228416,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54436,
@@ -14249,14 +14305,6 @@
       "onboard_time": 1684970480,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 49715,
-      "num": 49715,
-      "word": "梅西加冕五大联赛历史射手王",
-      "onboard_time": 1685229257,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 49207,

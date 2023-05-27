@@ -1,0 +1,410 @@
+{
+  "runTime": 1685230414430,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 946252,
+        "num": 946252,
+        "word": "拒绝董明珠3次的主播评孟羽童离职",
+        "onboard_time": 1685201132,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 717979,
+        "num": 717979,
+        "word": "假球",
+        "onboard_time": 1685202992,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114163,
+        "num": 464527,
+        "word": "白色大熊猫与大熊猫罕见同框",
+        "onboard_time": 1685191350,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424568,
+        "num": 424568,
+        "word": "BLACKPINK演唱会被扔上台的玩偶有摄像头",
+        "onboard_time": 1685201310,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 387024,
+        "num": 387024,
+        "word": "孟子义回应迪幂孟扎称号",
+        "onboard_time": 1685199872,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371410,
+        "num": 371410,
+        "word": "武汉财政局公开催债",
+        "onboard_time": 1685196337,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 350008,
+        "num": 350008,
+        "word": "算命 更适合中国宝宝的心理咨询",
+        "onboard_time": 1685201791,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 322337,
+        "num": 322337,
+        "word": "程潇录节目玩手机",
+        "onboard_time": 1685189069,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224609,
+        "num": 224609,
+        "word": "老舅 淘汰",
+        "onboard_time": 1685192611,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210143,
+        "num": 210143,
+        "word": "全球唯一白色大熊猫野外撒欢",
+        "onboard_time": 1685218393,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188786,
+        "num": 188786,
+        "word": "梅西收获职业生涯第43冠",
+        "onboard_time": 1685228956,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184682,
+        "num": 184682,
+        "word": "大学生掏鸟案当事人27日刑满释放",
+        "onboard_time": 1685210894,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159566,
+        "num": 159566,
+        "word": "赵露思鞠婧祎直播状态",
+        "onboard_time": 1685194474,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156104,
+        "num": 156104,
+        "word": "丫丫",
+        "onboard_time": 1685192309,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154833,
+        "num": 154833,
+        "word": "吴京说我的金手指一指张译就得奖了",
+        "onboard_time": 1685225894,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152861,
+        "num": 152861,
+        "word": "仙剑三主演孩子的年龄",
+        "onboard_time": 1685200352,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148541,
+        "num": 148541,
+        "word": "ai换脸 我对父母的反诈宣传",
+        "onboard_time": 1685228416,
+        "rank": 16,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 139099,
+        "num": 139099,
+        "word": "马龙vs王楚钦",
+        "onboard_time": 1685200771,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136409,
+        "num": 136409,
+        "word": "小伙被骗缅北3年警方指导逃脱",
+        "onboard_time": 1685189548,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134204,
+        "num": 134204,
+        "word": "李玉刚 你们销量不好是有原因的",
+        "onboard_time": 1685183307,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179643,
+        "num": 133535,
+        "word": "大连降雨一高校遍地是小青蛙",
+        "onboard_time": 1685228358,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138475,
+        "num": 125720,
+        "word": "你可能还没这只猫的道行深",
+        "onboard_time": 1685230340,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115446,
+        "num": 115446,
+        "word": "小白恋爱脑",
+        "onboard_time": 1685199933,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112465,
+        "num": 112465,
+        "word": "王一博没有想和粉丝一起做的事情",
+        "onboard_time": 1685180128,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108160,
+        "num": 108160,
+        "word": "老舅一年一首骂完就走",
+        "onboard_time": 1685197415,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103191,
+        "num": 103191,
+        "word": "梅西加冕五大联赛历史射手王",
+        "onboard_time": 1685229257,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102931,
+        "num": 102931,
+        "word": "那英唱掉了全程开大",
+        "onboard_time": 1685185167,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102829,
+        "num": 102829,
+        "word": "二阳是因为免疫力到期了吗",
+        "onboard_time": 1685172208,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90941,
+        "num": 90941,
+        "word": "吴京给谢楠发与沈腾张译合照",
+        "onboard_time": 1685199811,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90729,
+        "num": 90729,
+        "word": "袁姗姗新剧人设",
+        "onboard_time": 1685203709,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105054,
+        "num": 89862,
+        "word": "大学生网购零食放虫子敲诈40多次",
+        "onboard_time": 1685229918,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87852,
+        "num": 87852,
+        "word": "张云雷好妹妹合唱相思赋予谁",
+        "onboard_time": 1685230400,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84767,
+        "num": 84767,
+        "word": "狗狗为护农被豪猪扎得满身刺",
+        "onboard_time": 1685205026,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82047,
+        "num": 82047,
+        "word": "南昌一地舞台背景屏倒塌9名幼儿被砸",
+        "onboard_time": 1685194411,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81162,
+        "num": 81162,
+        "word": "叶舒华牛仔裙",
+        "onboard_time": 1685230098,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74748,
+        "num": 74748,
+        "word": "张子枫 美人鱼",
+        "onboard_time": 1685191350,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 72937,
+        "num": 72937,
+        "word": "孟子义妈妈娱乐圈除了孟子义都追",
+        "onboard_time": 1685195135,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72586,
+        "num": 72586,
+        "word": "虞书欣与甘比母女合影",
+        "onboard_time": 1685190930,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70416,
+        "num": 70416,
+        "word": "陈梦王艺迪女双决赛",
+        "onboard_time": 1685204489,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68028,
+        "num": 68028,
+        "word": "德国男子连做3次断骨增高至1米9",
+        "onboard_time": 1685190389,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66650,
+        "num": 66650,
+        "word": "南航",
+        "onboard_time": 1685187807,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65443,
+        "num": 65443,
+        "word": "除了杨洋谁还能演肖奈",
+        "onboard_time": 1685194594,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 63363,
+        "num": 63363,
+        "word": "其实大家的青春都很平淡吧",
+        "onboard_time": 1685205326,
+        "rank": 42,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 62509,
+        "num": 62509,
+        "word": "樊振东vs梁靖崑",
+        "onboard_time": 1685203648,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61906,
+        "num": 61906,
+        "word": "莫文蔚的腿秒了",
+        "onboard_time": 1685193393,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57964,
+        "num": 57964,
+        "word": "五月天杭州演唱会票不能转赠",
+        "onboard_time": 1685202390,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 56959,
+        "num": 56959,
+        "word": "浙江婚龄男女为啥怕过端午节",
+        "onboard_time": 1685230340,
+        "rank": 46,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 56635,
+        "num": 56635,
+        "word": "多特蒙德对得起谁",
+        "onboard_time": 1685202450,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56032,
+        "num": 56032,
+        "word": "戛纳电影节",
+        "onboard_time": 1685213355,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55620,
+        "num": 55620,
+        "word": "因闯红灯上热搜的安徽的哥又出手了",
+        "onboard_time": 1685228416,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对中关村寄予厚望#"
+    }
+  }
+}

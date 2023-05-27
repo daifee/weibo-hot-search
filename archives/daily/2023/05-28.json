@@ -1,6 +1,6 @@
 {
   "startTime": 1685204470597,
-  "endTime": 1685229394636,
+  "endTime": 1685230414430,
   "band_list": [
     {
       "raw_hot": 2635395,
@@ -27,6 +27,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 946252,
+      "num": 946252,
+      "word": "拒绝董明珠3次的主播评孟羽童离职",
+      "onboard_time": 1685201132,
+      "rank": 20,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 898559,
       "num": 898559,
       "word": "老舅 淘汰",
@@ -49,14 +57,6 @@
       "onboard_time": 1685199872,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 791095,
-      "num": 791095,
-      "word": "拒绝董明珠3次的主播评孟羽童离职",
-      "onboard_time": 1685201132,
-      "rank": 20,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 767116,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 380361,
-      "num": 317012,
+      "num": 322337,
       "word": "程潇录节目玩手机",
       "onboard_time": 1685189069,
       "rank": 22,
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210143,
+      "num": 210143,
+      "word": "全球唯一白色大熊猫野外撒欢",
+      "onboard_time": 1685218393,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206005,
       "num": 168556,
       "word": "五月天 外场",
@@ -323,14 +331,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198323,
-      "num": 198323,
-      "word": "全球唯一白色大熊猫野外撒欢",
-      "onboard_time": 1685218393,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188941,
       "num": 138745,
       "word": "李玉刚 你们销量不好是有原因的",
@@ -339,12 +339,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 188786,
+      "num": 188786,
+      "word": "梅西收获职业生涯第43冠",
+      "onboard_time": 1685228956,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 184682,
+      "num": 184682,
+      "word": "大学生掏鸟案当事人27日刑满释放",
+      "onboard_time": 1685210894,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183335,
       "num": 116741,
       "word": "银河护卫队3",
       "onboard_time": 1685201073,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 179643,
+      "num": 133535,
+      "word": "大连降雨一高校遍地是小青蛙",
+      "onboard_time": 1685228358,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170754,
@@ -379,12 +403,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 157552,
-      "num": 157552,
-      "word": "大学生掏鸟案当事人27日刑满释放",
-      "onboard_time": 1685210894,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 154833,
+      "num": 154833,
+      "word": "吴京说我的金手指一指张译就得奖了",
+      "onboard_time": 1685225894,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 154542,
@@ -395,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148541,
+      "num": 148541,
+      "word": "ai换脸 我对父母的反诈宣传",
+      "onboard_time": 1685228416,
+      "rank": 31,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 141122,
       "num": 141122,
       "word": "小伙被骗缅北3年警方指导逃脱",
@@ -403,20 +435,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138475,
+      "num": 125720,
+      "word": "你可能还没这只猫的道行深",
+      "onboard_time": 1685230340,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137672,
       "num": 137672,
       "word": "陈梦王艺迪vs田志希申裕斌",
       "onboard_time": 1685209938,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126988,
-      "num": 126988,
-      "word": "吴京说我的金手指一指张译就得奖了",
-      "onboard_time": 1685225894,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 120214,
@@ -467,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109718,
-      "num": 71353,
-      "word": "大连降雨一高校遍地是小青蛙",
-      "onboard_time": 1685228358,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107046,
       "num": 111724,
       "word": "科隆vs拜仁",
@@ -491,6 +515,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105054,
+      "num": 89862,
+      "word": "大学生网购零食放虫子敲诈40多次",
+      "onboard_time": 1685229918,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103191,
+      "num": 103191,
+      "word": "梅西加冕五大联赛历史射手王",
+      "onboard_time": 1685229257,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87982,
       "num": 87982,
       "word": "德国男子连做3次断骨增高至1米9",
@@ -499,12 +539,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87852,
+      "num": 87852,
+      "word": "张云雷好妹妹合唱相思赋予谁",
+      "onboard_time": 1685230400,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85458,
       "num": 77986,
       "word": "除了杨洋谁还能演肖奈",
       "onboard_time": 1685194594,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 81162,
+      "num": 81162,
+      "word": "叶舒华牛仔裙",
+      "onboard_time": 1685230098,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 76670,
@@ -531,14 +587,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 75998,
-      "num": 75998,
-      "word": "梅西收获职业生涯第43冠",
-      "onboard_time": 1685228956,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 74011,
       "num": 98031,
       "word": "多特蒙德vs美因茨",
@@ -547,20 +595,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 69741,
-      "num": 69741,
-      "word": "ai换脸 我对父母的反诈宣传",
-      "onboard_time": 1685228416,
-      "rank": 31,
-      "category": "幽默,情感"
+      "raw_hot": 56959,
+      "num": 56959,
+      "word": "浙江婚龄男女为啥怕过端午节",
+      "onboard_time": 1685230340,
+      "rank": 46,
+      "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 49715,
-      "num": 49715,
-      "word": "梅西加冕五大联赛历史射手王",
-      "onboard_time": 1685229257,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 55620,
+      "num": 55620,
+      "word": "因闯红灯上热搜的安徽的哥又出手了",
+      "onboard_time": 1685228416,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49065,
