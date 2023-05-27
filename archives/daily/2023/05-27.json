@@ -1,6 +1,6 @@
 {
   "startTime": 1685118110147,
-  "endTime": 1685168424968,
+  "endTime": 1685169210694,
   "band_list": [
     {
       "raw_hot": 2327527,
@@ -139,6 +139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 795382,
+      "num": 795382,
+      "word": "李玉刚四美图被认成回美国",
+      "onboard_time": 1685166688,
+      "rank": 6,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 794363,
       "num": 463544,
       "word": "我妈死后还在催婚",
@@ -257,14 +265,6 @@
       "onboard_time": 1685115812,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 544981,
-      "num": 544981,
-      "word": "李玉刚四美图被认成回美国",
-      "onboard_time": 1685166688,
-      "rank": 6,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 542866,
@@ -411,6 +411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 412177,
+      "num": 246935,
+      "word": "五月天杭州演唱会官宣",
+      "onboard_time": 1685168906,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 411060,
       "num": 411060,
       "word": "孙颖莎王曼昱0比3田志希申裕斌",
@@ -475,6 +483,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 360116,
+      "num": 360116,
+      "word": "王心凌耳返没声音盲唱",
+      "onboard_time": 1685167646,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 356158,
       "num": 356158,
       "word": "安崎 正常恋爱",
@@ -513,6 +529,14 @@
       "onboard_time": 1685142137,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335981,
+      "num": 335981,
+      "word": "国际生 职高生",
+      "onboard_time": 1685167528,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 332770,
@@ -569,6 +593,14 @@
       "onboard_time": 1685161407,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 285375,
+      "num": 285375,
+      "word": "白色大熊猫",
+      "onboard_time": 1685167646,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281663,
@@ -747,12 +779,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 234370,
-      "num": 234370,
-      "word": "王心凌耳返没声音盲唱",
-      "onboard_time": 1685167646,
-      "rank": 18,
-      "category": "音乐"
+      "raw_hot": 237145,
+      "num": 237145,
+      "word": "有人坐过以前公交车的这个位置吗",
+      "onboard_time": 1685166567,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 230975,
@@ -785,14 +817,6 @@
       "onboard_time": 1685150669,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 219907,
-      "num": 219907,
-      "word": "白色大熊猫",
-      "onboard_time": 1685167646,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218167,
@@ -867,14 +891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201795,
-      "num": 201795,
-      "word": "有人坐过以前公交车的这个位置吗",
-      "onboard_time": 1685166567,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 201541,
       "num": 201541,
       "word": "星卡里",
@@ -940,7 +956,7 @@
     },
     {
       "raw_hot": 191393,
-      "num": 185504,
+      "num": 191139,
       "word": "2850元拍下价值8万茅台后续",
       "onboard_time": 1685164165,
       "rank": 48,
@@ -1009,14 +1025,6 @@
       "onboard_time": 1685162848,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 172039,
-      "num": 172039,
-      "word": "国际生 职高生",
-      "onboard_time": 1685167528,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 170052,
@@ -1139,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137260,
+      "num": 137260,
+      "word": "Amber谢欣 封神",
+      "onboard_time": 1685168307,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133100,
       "num": 133100,
       "word": "徐明浩文俊辉是在迎宾吗",
@@ -1227,12 +1243,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 119742,
+      "num": 119742,
+      "word": "美人鱼",
+      "onboard_time": 1685168787,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 118646,
       "num": 118646,
       "word": "女双",
       "onboard_time": 1685143339,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116162,
+      "num": 116162,
+      "word": "5名袖珍人组建杀虫灭鼠队",
+      "onboard_time": 1685168846,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115648,
@@ -1259,11 +1291,27 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 114024,
+      "num": 114024,
+      "word": "小舞第九魂技",
+      "onboard_time": 1685169029,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 113370,
       "num": 188648,
       "word": "孙红雷淘汰了赵丽颖",
       "onboard_time": 1685107771,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 111949,
+      "num": 111949,
+      "word": "被种地吧急寻兽医经过感动了",
+      "onboard_time": 1685168787,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -1281,14 +1329,6 @@
       "onboard_time": 1685095294,
       "rank": 45,
       "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 102248,
-      "num": 102248,
-      "word": "Amber谢欣 封神",
-      "onboard_time": 1685168307,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 101532,

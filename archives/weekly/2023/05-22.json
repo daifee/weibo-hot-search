@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1685168424968,
+  "endTime": 1685169210694,
   "band_list": [
     {
       "raw_hot": 4241479,
@@ -2139,6 +2139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 795382,
+      "num": 795382,
+      "word": "李玉刚四美图被认成回美国",
+      "onboard_time": 1685166688,
+      "rank": 6,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 795143,
       "num": 795143,
       "word": "昊也",
@@ -3105,14 +3113,6 @@
       "onboard_time": 1684742248,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 544981,
-      "num": 544981,
-      "word": "李玉刚四美图被认成回美国",
-      "onboard_time": 1685166688,
-      "rank": 6,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 544473,
@@ -4283,6 +4283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412177,
+      "num": 246935,
+      "word": "五月天杭州演唱会官宣",
+      "onboard_time": 1685168906,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 411060,
       "num": 411060,
       "word": "孙颖莎王曼昱0比3田志希申裕斌",
@@ -4979,6 +4987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 360116,
+      "num": 360116,
+      "word": "王心凌耳返没声音盲唱",
+      "onboard_time": 1685167646,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 360050,
       "num": 360050,
       "word": "国泰总裁林绍波再次致歉",
@@ -5345,6 +5361,14 @@
       "onboard_time": 1684721308,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 335981,
+      "num": 335981,
+      "word": "国际生 职高生",
+      "onboard_time": 1685167528,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 335481,
@@ -6352,6 +6376,14 @@
       "word": "吃火锅喝冷饮后小心急性会厌炎",
       "onboard_time": 1684920750,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285375,
+      "num": 285375,
+      "word": "白色大熊猫",
+      "onboard_time": 1685167646,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -7867,6 +7899,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 237145,
+      "num": 237145,
+      "word": "有人坐过以前公交车的这个位置吗",
+      "onboard_time": 1685166567,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 237020,
       "num": 237020,
       "word": "3岁男童走失27小时后被群众找到",
@@ -7977,14 +8017,6 @@
       "onboard_time": 1684887029,
       "rank": 26,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 234370,
-      "num": 234370,
-      "word": "王心凌耳返没声音盲唱",
-      "onboard_time": 1685167646,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 234313,
@@ -8489,14 +8521,6 @@
       "onboard_time": 1685150669,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 219907,
-      "num": 219907,
-      "word": "白色大熊猫",
-      "onboard_time": 1685167646,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219606,
@@ -9139,14 +9163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201795,
-      "num": 201795,
-      "word": "有人坐过以前公交车的这个位置吗",
-      "onboard_time": 1685166567,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 201683,
       "num": 201683,
       "word": "宠物猫被邻居高空扔下活活摔死",
@@ -9604,7 +9620,7 @@
     },
     {
       "raw_hot": 191393,
-      "num": 185504,
+      "num": 191139,
       "word": "2850元拍下价值8万茅台后续",
       "onboard_time": 1685164165,
       "rank": 48,
@@ -10449,14 +10465,6 @@
       "onboard_time": 1684823729,
       "rank": 26,
       "category": "网红"
-    },
-    {
-      "raw_hot": 172039,
-      "num": 172039,
-      "word": "国际生 职高生",
-      "onboard_time": 1685167528,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 171888,
@@ -11483,6 +11491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137260,
+      "num": 137260,
+      "word": "Amber谢欣 封神",
+      "onboard_time": 1685168307,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136908,
       "num": 194261,
       "word": "饭搭子离职比失恋还难受",
@@ -11923,6 +11939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119742,
+      "num": 119742,
+      "word": "美人鱼",
+      "onboard_time": 1685168787,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 119661,
       "num": 119661,
       "word": "湛江当街杀人男子判死刑当庭上诉",
@@ -11967,6 +11991,14 @@
       "num": 117020,
       "word": "民警一把接过卡喉女童30秒救回",
       "onboard_time": 1685020530,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116162,
+      "num": 116162,
+      "word": "5名袖珍人组建杀虫灭鼠队",
+      "onboard_time": 1685168846,
       "rank": 46,
       "category": "社会新闻"
     },
@@ -12027,6 +12059,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 114024,
+      "num": 114024,
+      "word": "小舞第九魂技",
+      "onboard_time": 1685169029,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 113782,
       "num": 113782,
       "word": "曼城vs切尔西",
@@ -12057,6 +12097,14 @@
       "onboard_time": 1684681772,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 111949,
+      "num": 111949,
+      "word": "被种地吧急寻兽医经过感动了",
+      "onboard_time": 1685168787,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 111791,
@@ -12201,14 +12249,6 @@
       "onboard_time": 1684834769,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 102248,
-      "num": 102248,
-      "word": "Amber谢欣 封神",
-      "onboard_time": 1685168307,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 101829,
