@@ -1,0 +1,410 @@
+{
+  "runTime": 1685194411739,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1659571,
+        "num": 1659571,
+        "word": "老舅 淘汰",
+        "onboard_time": 1685192611,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1404130,
+        "num": 1404130,
+        "word": "那英唱掉了全程开大",
+        "onboard_time": 1685185167,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32712,
+        "num": 1368603,
+        "word": "开局之年看中国县域新发展",
+        "onboard_time": 1685191528,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1362342,
+        "num": 1362342,
+        "word": "张子枫 美人鱼",
+        "onboard_time": 1685191350,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1184666,
+        "num": 1184666,
+        "word": "虞书欣与甘比母女合影",
+        "onboard_time": 1685190930,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 851734,
+        "num": 851734,
+        "word": "丫丫",
+        "onboard_time": 1685192309,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 839224,
+        "num": 839224,
+        "word": "非婚生育",
+        "onboard_time": 1685180248,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 693279,
+        "num": 693279,
+        "word": "德国男子连做3次断骨增高至1米9",
+        "onboard_time": 1685190389,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680844,
+        "num": 680844,
+        "word": "二阳是因为免疫力到期了吗",
+        "onboard_time": 1685172208,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658594,
+        "num": 658594,
+        "word": "掉了",
+        "onboard_time": 1685191410,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1091306,
+        "num": 646892,
+        "word": "王一博没有想和粉丝一起做的事情",
+        "onboard_time": 1685180128,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 910055,
+        "num": 641953,
+        "word": "南航",
+        "onboard_time": 1685187807,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619180,
+        "num": 619180,
+        "word": "李玉刚 你们销量不好是有原因的",
+        "onboard_time": 1685183307,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 496804,
+        "num": 496804,
+        "word": "肖战杨紫 天骄",
+        "onboard_time": 1685173586,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 58402,
+        "num": 477208,
+        "word": "村支书跳入洪水中帮村民救牛",
+        "onboard_time": 1685193093,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461004,
+        "num": 461004,
+        "word": "蔡徐坤澳门演唱会排练花絮",
+        "onboard_time": 1685192971,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 456209,
+        "num": 456209,
+        "word": "小伙被骗缅北3年警方指导逃脱",
+        "onboard_time": 1685189548,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427249,
+        "num": 427249,
+        "word": "莫文蔚的腿秒了",
+        "onboard_time": 1685193393,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415679,
+        "num": 415679,
+        "word": "安崎承认恋情后开麦初舞台",
+        "onboard_time": 1685176049,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 415491,
+        "num": 415491,
+        "word": "陈梦vs陈幸同",
+        "onboard_time": 1685192070,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 471236,
+        "num": 390485,
+        "word": "程潇录节目玩手机",
+        "onboard_time": 1685189069,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328144,
+        "num": 328144,
+        "word": "这就是我超级紧张的求婚",
+        "onboard_time": 1685188228,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227492,
+        "num": 227492,
+        "word": "重庆市在TikTok上成功出圈",
+        "onboard_time": 1685171907,
+        "rank": 22,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 226816,
+        "num": 226816,
+        "word": "摊主在煮玉米锅里放不明添加剂",
+        "onboard_time": 1685191890,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225913,
+        "num": 225913,
+        "word": "陈梦4比1陈幸同",
+        "onboard_time": 1685193990,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 414220,
+        "num": 222416,
+        "word": "桃花坞",
+        "onboard_time": 1685190270,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369368,
+        "num": 220909,
+        "word": "刘宇宁 毛不易演唱会",
+        "onboard_time": 1685189731,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 351383,
+        "num": 216483,
+        "word": "小白淘汰谢可寅哭了",
+        "onboard_time": 1685191229,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327607,
+        "num": 210574,
+        "word": "王一博王鹤棣侧颜对比照",
+        "onboard_time": 1685189368,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209053,
+        "num": 209053,
+        "word": "保洁阿姨捡到40万现金报警",
+        "onboard_time": 1685189130,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 708029,
+        "num": 207330,
+        "word": "9岁男孩失踪13年尸骨现身山林地缝",
+        "onboard_time": 1685180128,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302304,
+        "num": 195191,
+        "word": "五月天 外场",
+        "onboard_time": 1685186847,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 276547,
+        "num": 193062,
+        "word": "五月天鸟巢演唱会",
+        "onboard_time": 1685181628,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172933,
+        "num": 172933,
+        "word": "妻子偏瘫丈夫26次提出离婚",
+        "onboard_time": 1685176408,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160281,
+        "num": 160281,
+        "word": "南方人对北方大葱的误解",
+        "onboard_time": 1685193512,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 271270,
+        "num": 156986,
+        "word": "周深一秒猜出美依礼芽",
+        "onboard_time": 1685191828,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219152,
+        "num": 154978,
+        "word": "华晨宇演唱会运冰块降温",
+        "onboard_time": 1685191650,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151868,
+        "num": 151868,
+        "word": "孙颖莎4比1战胜早田希娜",
+        "onboard_time": 1685189010,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150443,
+        "num": 150443,
+        "word": "假如有30岁不结婚赔700万的保险",
+        "onboard_time": 1685177848,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 150025,
+        "num": 150025,
+        "word": "国乒把女单冠军也提前锁了",
+        "onboard_time": 1685191109,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197208,
+        "num": 149687,
+        "word": "王嘉尔回国",
+        "onboard_time": 1685187868,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190131,
+        "num": 149092,
+        "word": "喻言巡演直播",
+        "onboard_time": 1685193032,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165387,
+        "num": 148430,
+        "word": "杨超越跳极乐净土",
+        "onboard_time": 1685194232,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156667,
+        "num": 147667,
+        "word": "李承铉连续九年给戚薇庆祝527",
+        "onboard_time": 1685185108,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153226,
+        "num": 146911,
+        "word": "请成为我的家人",
+        "onboard_time": 1685194051,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152547,
+        "num": 146483,
+        "word": "青春环游记",
+        "onboard_time": 1685191769,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145933,
+        "num": 145933,
+        "word": "南航回应旅客新加坡乘机遭柜台人员辱骂",
+        "onboard_time": 1685191650,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141428,
+        "num": 141428,
+        "word": "LOL亚运征途不派出现役选手",
+        "onboard_time": 1685181867,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131964,
+        "num": 131964,
+        "word": "保洁阿姨为护女孩用身体挡住大狗",
+        "onboard_time": 1685176648,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124303,
+        "num": 131895,
+        "word": "这个毕设也太高级了",
+        "onboard_time": 1685182768,
+        "rank": 49,
+        "category": "情感,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国刚果金全面战略合作伙伴关系#"
+    }
+  }
+}

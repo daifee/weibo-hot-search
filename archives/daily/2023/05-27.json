@@ -1,6 +1,6 @@
 {
   "startTime": 1685118110147,
-  "endTime": 1685193484345,
+  "endTime": 1685194411739,
   "band_list": [
     {
       "raw_hot": 2580452,
@@ -43,8 +43,16 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1659571,
+      "num": 1659571,
+      "word": "老舅 淘汰",
+      "onboard_time": 1685192611,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1627565,
-      "num": 543668,
+      "num": 646892,
       "word": "王一博没有想和粉丝一起做的事情",
       "onboard_time": 1685180128,
       "rank": 10,
@@ -99,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1362342,
+      "num": 1362342,
+      "word": "张子枫 美人鱼",
+      "onboard_time": 1685191350,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1333607,
       "num": 1303864,
       "word": "南航",
@@ -115,14 +131,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1220554,
-      "num": 1220554,
-      "word": "张子枫 美人鱼",
-      "onboard_time": 1685191350,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1215951,
       "num": 1215951,
       "word": "江西一对表兄妹结婚10年育1子",
@@ -131,8 +139,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1165330,
-      "num": 1165330,
+      "raw_hot": 1184666,
+      "num": 1184666,
       "word": "虞书欣与甘比母女合影",
       "onboard_time": 1685190930,
       "rank": 27,
@@ -195,14 +203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1009605,
-      "num": 1009605,
-      "word": "老舅 淘汰",
-      "onboard_time": 1685192611,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 983633,
       "num": 983633,
       "word": "陈意涵大哭",
@@ -256,6 +256,14 @@
       "word": "女主播给15岁男孩发半裸照片骗打赏",
       "onboard_time": 1685149470,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 851734,
+      "num": 851734,
+      "word": "丫丫",
+      "onboard_time": 1685192309,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -339,20 +347,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 693279,
+      "num": 693279,
+      "word": "德国男子连做3次断骨增高至1米9",
+      "onboard_time": 1685190389,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 673675,
       "num": 673675,
       "word": "张凌赫好惨一男的",
       "onboard_time": 1685151270,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 665382,
-      "num": 665382,
-      "word": "德国男子连做3次断骨增高至1米9",
-      "onboard_time": 1685190389,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 647648,
@@ -412,7 +420,7 @@
     },
     {
       "raw_hot": 581966,
-      "num": 360568,
+      "num": 390485,
       "word": "程潇录节目玩手机",
       "onboard_time": 1685189069,
       "rank": 20,
@@ -643,6 +651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 461004,
+      "num": 461004,
+      "word": "蔡徐坤澳门演唱会排练花絮",
+      "onboard_time": 1685192971,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 445509,
       "num": 396909,
       "word": "韩庚是卢靖姗组舞台顾问",
@@ -665,6 +681,14 @@
       "onboard_time": 1685189010,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 427249,
+      "num": 427249,
+      "word": "莫文蔚的腿秒了",
+      "onboard_time": 1685193393,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 426045,
@@ -729,22 +753,6 @@
       "onboard_time": 1685142558,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 407579,
-      "num": 217958,
-      "word": "蔡徐坤澳门演唱会排练花絮",
-      "onboard_time": 1685192971,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 404269,
-      "num": 404269,
-      "word": "丫丫",
-      "onboard_time": 1685192309,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 404005,
@@ -891,6 +899,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 351383,
+      "num": 216483,
+      "word": "小白淘汰谢可寅哭了",
+      "onboard_time": 1685191229,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 349927,
       "num": 211560,
       "word": "王一博王鹤棣侧颜对比照",
@@ -945,14 +961,6 @@
       "onboard_time": 1685150488,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 330980,
-      "num": 200678,
-      "word": "小白淘汰谢可寅哭了",
-      "onboard_time": 1685191229,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 324899,
@@ -1131,6 +1139,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 271270,
+      "num": 187911,
+      "word": "周深一秒猜出美依礼芽",
+      "onboard_time": 1685191828,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269402,
       "num": 269402,
       "word": "35岁模特患厌食症去世时仅23公斤",
@@ -1251,14 +1267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 247095,
-      "num": 187911,
-      "word": "周深一秒猜出美依礼芽",
-      "onboard_time": 1685191828,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 246385,
       "num": 197630,
       "word": "秦霄贤坐轮椅录制好六",
@@ -1355,6 +1363,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 226816,
+      "num": 226816,
+      "word": "摊主在煮玉米锅里放不明添加剂",
+      "onboard_time": 1685191890,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225913,
+      "num": 225913,
+      "word": "陈梦4比1陈幸同",
+      "onboard_time": 1685193990,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 224072,
       "num": 224072,
       "word": "奶茶店回应杯子压容量",
@@ -1387,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219152,
+      "num": 180436,
+      "word": "华晨宇演唱会运冰块降温",
+      "onboard_time": 1685191650,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 218167,
       "num": 200426,
       "word": "孙千说赵丽颖让自己变成全民情敌",
@@ -1401,14 +1433,6 @@
       "onboard_time": 1685166328,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 210774,
-      "num": 182467,
-      "word": "莫文蔚的腿秒了",
-      "onboard_time": 1685193393,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 209070,
@@ -1473,14 +1497,6 @@
       "onboard_time": 1685117130,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202121,
-      "num": 183758,
-      "word": "摊主在煮玉米锅里放不明添加剂",
-      "onboard_time": 1685191890,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201541,
@@ -1603,20 +1619,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 190789,
-      "num": 180436,
-      "word": "华晨宇演唱会运冰块降温",
-      "onboard_time": 1685191650,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 190415,
       "num": 205839,
       "word": "警方通报长沙一家5口死亡",
       "onboard_time": 1685091208,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190131,
+      "num": 149092,
+      "word": "喻言巡演直播",
+      "onboard_time": 1685193032,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 187634,
@@ -1755,6 +1771,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 165387,
+      "num": 148430,
+      "word": "杨超越跳极乐净土",
+      "onboard_time": 1685194232,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163906,
       "num": 135096,
       "word": "白玉兰",
@@ -1811,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160281,
+      "num": 160281,
+      "word": "南方人对北方大葱的误解",
+      "onboard_time": 1685193512,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159443,
       "num": 148980,
       "word": "Amber谢欣把所有姐姐舞台编一起拉票",
@@ -1859,6 +1891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 153226,
+      "num": 146911,
+      "word": "请成为我的家人",
+      "onboard_time": 1685194051,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 150991,
       "num": 150991,
       "word": "Karma MV",
@@ -1891,6 +1931,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 145933,
+      "num": 145933,
+      "word": "南航回应旅客新加坡乘机遭柜台人员辱骂",
+      "onboard_time": 1685191650,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145106,
       "num": 142486,
       "word": "Amber谢欣 封神",
@@ -1921,14 +1969,6 @@
       "onboard_time": 1685174908,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 134217,
-      "num": 134217,
-      "word": "南航回应旅客新加坡乘机遭柜台人员辱骂",
-      "onboard_time": 1685191650,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133100,
@@ -2275,6 +2315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58402,
+      "num": 512230,
+      "word": "村支书跳入洪水中帮村民救牛",
+      "onboard_time": 1685193093,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55955,
       "num": 198365,
       "word": "国乒德班世乒赛首金",
@@ -2331,20 +2379,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32712,
+      "num": 1368603,
+      "word": "开局之年看中国县域新发展",
+      "onboard_time": 1685191528,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32639,
       "num": 32639,
       "word": "五月天白安再唱人生海海",
       "onboard_time": 1685126594,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 32539,
-      "num": 1177843,
-      "word": "开局之年看中国县域新发展",
-      "onboard_time": 1685191528,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32502,
@@ -2392,14 +2440,6 @@
       "word": "探馆中关村论坛展览领略前沿科技魅力",
       "onboard_time": 1685107529,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16613,
-      "num": 512230,
-      "word": "村支书跳入洪水中帮村民救牛",
-      "onboard_time": 1685193093,
-      "rank": 14,
       "category": "社会新闻"
     }
   ],
