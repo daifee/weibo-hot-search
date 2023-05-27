@@ -1,0 +1,410 @@
+{
+  "runTime": 1685191580626,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1393586,
+        "num": 1393586,
+        "word": "那英唱掉了全程开大",
+        "onboard_time": 1685185167,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 858133,
+        "num": 858133,
+        "word": "二阳是因为免疫力到期了吗",
+        "onboard_time": 1685172208,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5849,
+        "num": 729194,
+        "word": "开局之年看中国县域新发展",
+        "onboard_time": 1685191528,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1541664,
+        "num": 697918,
+        "word": "非婚生育",
+        "onboard_time": 1685180248,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1333607,
+        "num": 678496,
+        "word": "南航",
+        "onboard_time": 1685187807,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655847,
+        "num": 655847,
+        "word": "李玉刚 你们销量不好是有原因的",
+        "onboard_time": 1685183307,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 645216,
+        "num": 645216,
+        "word": "刘宇宁 毛不易演唱会",
+        "onboard_time": 1685189731,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 473907,
+        "num": 473907,
+        "word": "重庆市在TikTok上成功出圈",
+        "onboard_time": 1685171907,
+        "rank": 7,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 438404,
+        "num": 438404,
+        "word": "五月天 外场",
+        "onboard_time": 1685186847,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 433663,
+        "num": 433663,
+        "word": "小伙被骗缅北3年警方指导逃脱",
+        "onboard_time": 1685189548,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 943677,
+        "num": 427168,
+        "word": "王一博没有想和粉丝一起做的事情",
+        "onboard_time": 1685180128,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 599068,
+        "num": 427002,
+        "word": "肖战杨紫 天骄",
+        "onboard_time": 1685173586,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 542175,
+        "num": 426843,
+        "word": "安崎承认恋情后开麦初舞台",
+        "onboard_time": 1685176049,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 420484,
+        "num": 420484,
+        "word": "李承铉连续九年给戚薇庆祝527",
+        "onboard_time": 1685185108,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77374,
+        "num": 415622,
+        "word": "这很有实力",
+        "onboard_time": 1685188828,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415135,
+        "num": 415135,
+        "word": "锦瑟",
+        "onboard_time": 1685185647,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97990,
+        "num": 387408,
+        "word": "奔驰发布会",
+        "onboard_time": 1685188588,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382632,
+        "num": 382632,
+        "word": "五月天鸟巢演唱会",
+        "onboard_time": 1685181628,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 370773,
+        "num": 370773,
+        "word": "桃花坞",
+        "onboard_time": 1685190270,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364133,
+        "num": 364133,
+        "word": "孙颖莎4比1战胜早田希娜",
+        "onboard_time": 1685189010,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 581966,
+        "num": 360568,
+        "word": "程潇录节目玩手机",
+        "onboard_time": 1685189069,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286696,
+        "num": 286696,
+        "word": "德国男子连做3次断骨增高至1米9",
+        "onboard_time": 1685190389,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261843,
+        "num": 261843,
+        "word": "保洁阿姨为护女孩用身体挡住大狗",
+        "onboard_time": 1685176648,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229189,
+        "num": 229189,
+        "word": "保洁阿姨捡到40万现金报警",
+        "onboard_time": 1685189130,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216945,
+        "num": 216945,
+        "word": "妻子偏瘫丈夫26次提出离婚",
+        "onboard_time": 1685176408,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342270,
+        "num": 198353,
+        "word": "王一博王鹤棣侧颜对比照",
+        "onboard_time": 1685189368,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307893,
+        "num": 195946,
+        "word": "王嘉尔回国",
+        "onboard_time": 1685187868,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265119,
+        "num": 189526,
+        "word": "虞书欣与甘比母女合影",
+        "onboard_time": 1685190930,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178572,
+        "num": 178572,
+        "word": "LOL亚运征途不派出现役选手",
+        "onboard_time": 1685181867,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169277,
+        "num": 169277,
+        "word": "假如有30岁不结婚赔700万的保险",
+        "onboard_time": 1685177848,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 684437,
+        "num": 169075,
+        "word": "9岁男孩失踪13年尸骨现身山林地缝",
+        "onboard_time": 1685180128,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289322,
+        "num": 169001,
+        "word": "这就是我超级紧张的求婚",
+        "onboard_time": 1685188228,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233510,
+        "num": 168558,
+        "word": "张子枫 美人鱼",
+        "onboard_time": 1685191350,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223977,
+        "num": 168237,
+        "word": "掉了",
+        "onboard_time": 1685191410,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219046,
+        "num": 168051,
+        "word": "小白谢可寅双人舞台",
+        "onboard_time": 1685184929,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167957,
+        "num": 167957,
+        "word": "孙颖莎vs早田希娜",
+        "onboard_time": 1685187387,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23737,
+        "num": 167026,
+        "word": "白色大熊猫与大熊猫罕见同框",
+        "onboard_time": 1685191350,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201240,
+        "num": 165951,
+        "word": "曾可妮直播哭了",
+        "onboard_time": 1685186308,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195607,
+        "num": 165033,
+        "word": "Lisa彩排生图",
+        "onboard_time": 1685185587,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182901,
+        "num": 163797,
+        "word": "国乒把女单冠军也提前锁了",
+        "onboard_time": 1685191109,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187875,
+        "num": 161957,
+        "word": "周深斗罗大陆绝世唐门双绝合作",
+        "onboard_time": 1685189490,
+        "rank": 40,
+        "category": "影视,游戏"
+      },
+      {
+        "raw_hot": 41266,
+        "num": 161439,
+        "word": "96岁志愿军老战士再圆军装梦",
+        "onboard_time": 1685174549,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181949,
+        "num": 160055,
+        "word": "荒野植被",
+        "onboard_time": 1685190930,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177681,
+        "num": 159003,
+        "word": "少年白马醉春风",
+        "onboard_time": 1685183307,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174652,
+        "num": 156958,
+        "word": "迷迭香",
+        "onboard_time": 1685186550,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156690,
+        "num": 156690,
+        "word": "小白淘汰谢可寅哭了",
+        "onboard_time": 1685191229,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154688,
+        "num": 154688,
+        "word": "这个毕设也太高级了",
+        "onboard_time": 1685182768,
+        "rank": 46,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 148371,
+        "num": 148371,
+        "word": "毛不易上海演唱会",
+        "onboard_time": 1685188769,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133619,
+        "num": 133619,
+        "word": "唐朝真的很强吗",
+        "onboard_time": 1685182468,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133193,
+        "num": 133193,
+        "word": "香港公民党宣布解散",
+        "onboard_time": 1685181209,
+        "rank": 49,
+        "category": "国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对中关村寄予厚望#"
+    }
+  }
+}

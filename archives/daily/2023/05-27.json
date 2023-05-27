@@ -1,6 +1,6 @@
 {
   "startTime": 1685118110147,
-  "endTime": 1685190650700,
+  "endTime": 1685191580626,
   "band_list": [
     {
       "raw_hot": 2580452,
@@ -67,7 +67,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1513865,
+      "raw_hot": 1541664,
       "num": 1333641,
       "word": "非婚生育",
       "onboard_time": 1685180248,
@@ -91,15 +91,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1321197,
-      "num": 1321197,
+      "raw_hot": 1393586,
+      "num": 1393586,
       "word": "那英唱掉了全程开大",
       "onboard_time": 1685185167,
       "rank": 17,
       "category": "综艺"
     },
     {
-      "raw_hot": 1303864,
+      "raw_hot": 1333607,
       "num": 1303864,
       "word": "南航",
       "onboard_time": 1685187807,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 645216,
+      "num": 645216,
+      "word": "刘宇宁 毛不易演唱会",
+      "onboard_time": 1685189731,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 626657,
       "num": 626657,
       "word": "狂飙",
@@ -363,6 +371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 581966,
+      "num": 360568,
+      "word": "程潇录节目玩手机",
+      "onboard_time": 1685189069,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 579811,
       "num": 498907,
       "word": "锦瑟",
@@ -385,14 +401,6 @@
       "onboard_time": 1685115812,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 556263,
-      "num": 306377,
-      "word": "程潇录节目玩手机",
-      "onboard_time": 1685189069,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 542866,
@@ -452,7 +460,7 @@
     },
     {
       "raw_hot": 504850,
-      "num": 387288,
+      "num": 420484,
       "word": "李承铉连续九年给戚薇庆祝527",
       "onboard_time": 1685185108,
       "rank": 21,
@@ -585,6 +593,14 @@
       "onboard_time": 1685169270,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 433663,
+      "num": 433663,
+      "word": "小伙被骗缅北3年警方指导逃脱",
+      "onboard_time": 1685189548,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 428879,
@@ -755,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 370773,
+      "num": 370773,
+      "word": "桃花坞",
+      "onboard_time": 1685190270,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360116,
       "num": 360116,
       "word": "王心凌耳返没声音盲唱",
@@ -867,14 +891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 315183,
-      "num": 315183,
-      "word": "刘宇宁 毛不易演唱会",
-      "onboard_time": 1685189731,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 309401,
       "num": 309401,
       "word": "女子执意推婴儿车淌水孩子不慎摔落",
@@ -923,6 +939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289322,
+      "num": 189993,
+      "word": "这就是我超级紧张的求婚",
+      "onboard_time": 1685188228,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 289274,
       "num": 289274,
       "word": "妻子离婚时才知丈夫年入300万",
@@ -937,6 +961,14 @@
       "onboard_time": 1685161407,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 286696,
+      "num": 286696,
+      "word": "德国男子连做3次断骨增高至1米9",
+      "onboard_time": 1685190389,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286044,
@@ -985,14 +1017,6 @@
       "onboard_time": 1685097690,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 278110,
-      "num": 189993,
-      "word": "这就是我超级紧张的求婚",
-      "onboard_time": 1685188228,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 278019,
@@ -1081,6 +1105,14 @@
       "onboard_time": 1685168787,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 265119,
+      "num": 189526,
+      "word": "虞书欣与甘比母女合影",
+      "onboard_time": 1685190930,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 264662,
@@ -1195,14 +1227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241461,
-      "num": 241461,
-      "word": "小伙被骗缅北3年警方指导逃脱",
-      "onboard_time": 1685189548,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241371,
       "num": 199864,
       "word": "向往的生活",
@@ -1243,6 +1267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 233510,
+      "num": 168558,
+      "word": "张子枫 美人鱼",
+      "onboard_time": 1685191350,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 230975,
       "num": 200357,
       "word": "汪小敏 淘汰",
@@ -1259,12 +1291,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 229189,
+      "num": 229189,
+      "word": "保洁阿姨捡到40万现金报警",
+      "onboard_time": 1685189130,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224072,
       "num": 224072,
       "word": "奶茶店回应杯子压容量",
       "onboard_time": 1685181388,
       "rank": 33,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 223977,
+      "num": 168237,
+      "word": "掉了",
+      "onboard_time": 1685191410,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 222478,
@@ -1305,14 +1353,6 @@
       "onboard_time": 1685166328,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 211305,
-      "num": 211305,
-      "word": "保洁阿姨捡到40万现金报警",
-      "onboard_time": 1685189130,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209070,
@@ -1385,14 +1425,6 @@
       "onboard_time": 1685161588,
       "rank": 32,
       "category": "美食"
-    },
-    {
-      "raw_hot": 199290,
-      "num": 172572,
-      "word": "桃花坞",
-      "onboard_time": 1685190270,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 198271,
@@ -1539,8 +1571,24 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 182901,
+      "num": 163797,
+      "word": "国乒把女单冠军也提前锁了",
+      "onboard_time": 1685191109,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 181949,
+      "num": 160055,
+      "word": "荒野植被",
+      "onboard_time": 1685190930,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 181215,
-      "num": 147686,
+      "num": 148371,
       "word": "毛不易上海演唱会",
       "onboard_time": 1685188769,
       "rank": 40,
@@ -1705,6 +1753,14 @@
       "onboard_time": 1685149708,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 156690,
+      "num": 156690,
+      "word": "小白淘汰谢可寅哭了",
+      "onboard_time": 1685191229,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 156186,
@@ -2011,14 +2067,6 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 102273,
-      "num": 120546,
-      "word": "德国男子连做3次断骨增高至1米9",
-      "onboard_time": 1685190389,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101532,
       "num": 97103,
       "word": "野外生活的大熊猫也很幸福 因为有妈妈在",
@@ -2033,6 +2081,14 @@
       "onboard_time": 1685102431,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 97990,
+      "num": 387408,
+      "word": "奔驰发布会",
+      "onboard_time": 1685188588,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97403,
@@ -2059,14 +2115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 90634,
-      "num": 335746,
-      "word": "奔驰发布会",
-      "onboard_time": 1685188588,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87970,
       "num": 186991,
       "word": "男教师多次性侵13岁女孩获刑18年",
@@ -2088,6 +2136,14 @@
       "word": "交警处罚违停奥迪反遭怼",
       "onboard_time": 1685121861,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77374,
+      "num": 415622,
+      "word": "这很有实力",
+      "onboard_time": 1685188828,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2131,14 +2187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 62153,
-      "num": 414134,
-      "word": "这很有实力",
-      "onboard_time": 1685188828,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 55955,
       "num": 198365,
       "word": "国乒德班世乒赛首金",
@@ -2179,7 +2227,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37130,
+      "raw_hot": 41266,
       "num": 1054356,
       "word": "96岁志愿军老战士再圆军装梦",
       "onboard_time": 1685174549,
@@ -2235,10 +2283,26 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23737,
+      "num": 167026,
+      "word": "白色大熊猫与大熊猫罕见同框",
+      "onboard_time": 1685191350,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17684,
       "num": 1138497,
       "word": "探馆中关村论坛展览领略前沿科技魅力",
       "onboard_time": 1685107529,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5849,
+      "num": 729194,
+      "word": "开局之年看中国县域新发展",
+      "onboard_time": 1685191528,
       "rank": 2,
       "category": "社会新闻"
     }
