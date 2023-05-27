@@ -1,0 +1,410 @@
+{
+  "runTime": 1685151996555,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2323885,
+        "num": 2323885,
+        "word": "一千多赞的朋友圈原来长这样",
+        "onboard_time": 1685145024,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 999521,
+        "num": 999521,
+        "word": "江西一对表兄妹结婚10年育1子",
+        "onboard_time": 1685119164,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17684,
+        "num": 856639,
+        "word": "探馆中关村论坛展览领略前沿科技魅力",
+        "onboard_time": 1685107529,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804224,
+        "num": 804224,
+        "word": "古人吃剩的螺蛳壳堆成一座山",
+        "onboard_time": 1685147369,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638599,
+        "num": 638599,
+        "word": "狂飙片方没有为高启强报名",
+        "onboard_time": 1685110894,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 629651,
+        "num": 629651,
+        "word": "五月天又放票了",
+        "onboard_time": 1685149708,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 614119,
+        "num": 614119,
+        "word": "椰树 不带货纯擦",
+        "onboard_time": 1685120782,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573743,
+        "num": 573743,
+        "word": "为啥年轻人不换新手机了",
+        "onboard_time": 1685147909,
+        "rank": 7,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 420624,
+        "num": 420624,
+        "word": "河北一派出所烟花取样时发生爆炸",
+        "onboard_time": 1685148028,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405519,
+        "num": 405519,
+        "word": "韩方称要做好亚运会不公平待遇准备",
+        "onboard_time": 1685144122,
+        "rank": 9,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 709924,
+        "num": 404086,
+        "word": "长沙一家五口命案邻居发声",
+        "onboard_time": 1685149529,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429750,
+        "num": 401749,
+        "word": "我妈死后还在催婚",
+        "onboard_time": 1685102550,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 392553,
+        "num": 392553,
+        "word": "美依礼芽的坐姿",
+        "onboard_time": 1685145986,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 374202,
+        "num": 374202,
+        "word": "林志颖车祸后再度开赛车",
+        "onboard_time": 1685118447,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355613,
+        "num": 355613,
+        "word": "连把五月天文身上的人都没抢到票",
+        "onboard_time": 1685147188,
+        "rank": 14,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 300617,
+        "num": 300617,
+        "word": "猝死的人都有这些规律",
+        "onboard_time": 1685142137,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288126,
+        "num": 288126,
+        "word": "孙颖莎王曼昱0比3田志希申裕斌",
+        "onboard_time": 1685142558,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275284,
+        "num": 275284,
+        "word": "观音菩萨杨紫琼",
+        "onboard_time": 1685150128,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269032,
+        "num": 269032,
+        "word": "多巴胺穿搭",
+        "onboard_time": 1685148147,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 245694,
+        "num": 245694,
+        "word": "张凌赫好惨一男的",
+        "onboard_time": 1685151270,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446924,
+        "num": 245526,
+        "word": "女主播给15岁男孩发半裸照片骗打赏",
+        "onboard_time": 1685149470,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358456,
+        "num": 244140,
+        "word": "张元英AI换脸叶夕雾",
+        "onboard_time": 1685115273,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 268665,
+        "num": 243325,
+        "word": "你觉得分手真的有必要互删吗",
+        "onboard_time": 1685150608,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240897,
+        "num": 240897,
+        "word": "薛之谦司机今天拉的是盗版凤凰传奇",
+        "onboard_time": 1685145806,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234250,
+        "num": 234250,
+        "word": "探望隔离满月的丫丫",
+        "onboard_time": 1685144664,
+        "rank": 24,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 223585,
+        "num": 223585,
+        "word": "别用冷水化肉",
+        "onboard_time": 1685146105,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222989,
+        "num": 222989,
+        "word": "3岁女孩突然给父母说我没有房子了",
+        "onboard_time": 1685143940,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220319,
+        "num": 220319,
+        "word": "爱豆谈恋爱",
+        "onboard_time": 1685150669,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218273,
+        "num": 218273,
+        "word": "这跟坐在白敬亭怀里有什么区别",
+        "onboard_time": 1685150910,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203774,
+        "num": 203774,
+        "word": "35岁模特患厌食症去世时仅23公斤",
+        "onboard_time": 1685143401,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202456,
+        "num": 202456,
+        "word": "难怪吴磊说侯明昊好看",
+        "onboard_time": 1685149649,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187739,
+        "num": 187739,
+        "word": "熊孩子剪掉女子头发家长赔1万合理吗",
+        "onboard_time": 1685150488,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185594,
+        "num": 185594,
+        "word": "五月天cue了鸟巢外面的人",
+        "onboard_time": 1685147607,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179602,
+        "num": 179602,
+        "word": "谢娜发火只有马伯骞紧张了",
+        "onboard_time": 1685148867,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179312,
+        "num": 179312,
+        "word": "塞尔维亚总统下令军队进入最高战备状态",
+        "onboard_time": 1685116291,
+        "rank": 34,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 173459,
+        "num": 173459,
+        "word": "周也戴了72条珠链",
+        "onboard_time": 1685146766,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173394,
+        "num": 173394,
+        "word": "马琳",
+        "onboard_time": 1685144422,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173292,
+        "num": 173292,
+        "word": "五月天唱了粉丝在微博点的歌",
+        "onboard_time": 1685117490,
+        "rank": 37,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 160830,
+        "num": 160830,
+        "word": "王鹤棣重庆",
+        "onboard_time": 1685146166,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156842,
+        "num": 156842,
+        "word": "熊梓淇五月天演唱会含泪喊到沙哑",
+        "onboard_time": 1685149708,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148057,
+        "num": 148057,
+        "word": "哈尔滨回应网传副市长与交警发生冲突",
+        "onboard_time": 1685113592,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146930,
+        "num": 146930,
+        "word": "五月天点歌",
+        "onboard_time": 1685105071,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142480,
+        "num": 142480,
+        "word": "周迅觉得何炅黄磊太像空巢老人",
+        "onboard_time": 1685149411,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131691,
+        "num": 131691,
+        "word": "坐高铁拍河南麦田当事人回应争议",
+        "onboard_time": 1685143401,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131250,
+        "num": 131250,
+        "word": "广东6男孩被骗到缅甸失联20余天",
+        "onboard_time": 1685117908,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124845,
+        "num": 124845,
+        "word": "徐明浩文俊辉是在迎宾吗",
+        "onboard_time": 1685147788,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115201,
+        "num": 115201,
+        "word": "高速上飞奔清路障的鲁A车主找到了",
+        "onboard_time": 1685151568,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109765,
+        "num": 109765,
+        "word": "女子执意推婴儿车淌水孩子不慎摔落",
+        "onboard_time": 1685111612,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96038,
+        "num": 109765,
+        "word": "何丹彤巴黎被抢劫",
+        "onboard_time": 1685109929,
+        "rank": 48,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 91041,
+        "num": 109724,
+        "word": "白敬亭是自己抢票吗",
+        "onboard_time": 1685108190,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国刚果金关系提升#"
+    }
+  }
+}

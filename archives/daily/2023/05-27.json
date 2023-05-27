@@ -1,10 +1,10 @@
 {
   "startTime": 1685118110147,
-  "endTime": 1685150667761,
+  "endTime": 1685151996555,
   "band_list": [
     {
-      "raw_hot": 2118898,
-      "num": 2118898,
+      "raw_hot": 2323885,
+      "num": 2323885,
       "word": "一千多赞的朋友圈原来长这样",
       "onboard_time": 1685145024,
       "rank": 0,
@@ -59,12 +59,28 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 804224,
+      "num": 804224,
+      "word": "古人吃剩的螺蛳壳堆成一座山",
+      "onboard_time": 1685147369,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 794363,
       "num": 463544,
       "word": "我妈死后还在催婚",
       "onboard_time": 1685102550,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 709924,
+      "num": 404086,
+      "word": "长沙一家五口命案邻居发声",
+      "onboard_time": 1685149529,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 701267,
@@ -83,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 629651,
+      "num": 629651,
+      "word": "五月天又放票了",
+      "onboard_time": 1685149708,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 626657,
       "num": 626657,
       "word": "狂飙",
@@ -97,6 +121,14 @@
       "onboard_time": 1685109929,
       "rank": 6,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 573743,
+      "num": 573743,
+      "word": "为啥年轻人不换新手机了",
+      "onboard_time": 1685147909,
+      "rank": 20,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 562151,
@@ -155,14 +187,6 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 468743,
-      "num": 411177,
-      "word": "五月天又放票了",
-      "onboard_time": 1685149708,
-      "rank": 10,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 463027,
       "num": 463027,
       "word": "美依礼芽的坐姿",
@@ -171,19 +195,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 437664,
-      "num": 222250,
-      "word": "为啥年轻人不换新手机了",
-      "onboard_time": 1685147909,
-      "rank": 20,
-      "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 429370,
-      "num": 429370,
-      "word": "古人吃剩的螺蛳壳堆成一座山",
-      "onboard_time": 1685147369,
-      "rank": 9,
+      "raw_hot": 446924,
+      "num": 245526,
+      "word": "女主播给15岁男孩发半裸照片骗打赏",
+      "onboard_time": 1685149470,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -211,28 +227,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 390491,
-      "num": 221944,
-      "word": "女主播给15岁男孩发半裸照片骗打赏",
-      "onboard_time": 1685149470,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 376288,
       "num": 376288,
       "word": "连把五月天文身上的人都没抢到票",
       "onboard_time": 1685147188,
       "rank": 12,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 365931,
-      "num": 174526,
-      "word": "长沙一家五口命案邻居发声",
-      "onboard_time": 1685149529,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 356158,
@@ -331,6 +331,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 275284,
+      "num": 275284,
+      "word": "观音菩萨杨紫琼",
+      "onboard_time": 1685150128,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273063,
       "num": 256371,
       "word": "五月天唱了粉丝在微博点的歌",
@@ -347,8 +355,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268665,
+      "num": 243325,
+      "word": "你觉得分手真的有必要互删吗",
+      "onboard_time": 1685150608,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 262725,
-      "num": 221885,
+      "num": 222989,
       "word": "3岁女孩突然给父母说我没有房子了",
       "onboard_time": 1685143940,
       "rank": 40,
@@ -356,11 +372,19 @@
     },
     {
       "raw_hot": 261314,
-      "num": 221575,
+      "num": 223585,
       "word": "别用冷水化肉",
       "onboard_time": 1685146105,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245694,
+      "num": 245694,
+      "word": "张凌赫好惨一男的",
+      "onboard_time": 1685151270,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 243207,
@@ -380,7 +404,7 @@
     },
     {
       "raw_hot": 239978,
-      "num": 221396,
+      "num": 234250,
       "word": "探望隔离满月的丫丫",
       "onboard_time": 1685144664,
       "rank": 24,
@@ -393,6 +417,22 @@
       "onboard_time": 1685144422,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220319,
+      "num": 220319,
+      "word": "爱豆谈恋爱",
+      "onboard_time": 1685150669,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 218273,
+      "num": 218273,
+      "word": "这跟坐在白敬亭怀里有什么区别",
+      "onboard_time": 1685150910,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 218167,
@@ -435,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202456,
+      "num": 202456,
+      "word": "难怪吴磊说侯明昊好看",
+      "onboard_time": 1685149649,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197045,
       "num": 197045,
       "word": "五月天 华晨宇",
@@ -475,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187739,
+      "num": 187739,
+      "word": "熊孩子剪掉女子头发家长赔1万合理吗",
+      "onboard_time": 1685150488,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185147,
       "num": 185147,
       "word": "周也戴了72条珠链",
@@ -491,28 +547,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179602,
+      "num": 179602,
+      "word": "谢娜发火只有马伯骞紧张了",
+      "onboard_time": 1685148867,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170052,
       "num": 170052,
       "word": "坐高铁拍河南麦田当事人回应争议",
       "onboard_time": 1685143401,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169205,
-      "num": 169205,
-      "word": "你觉得分手真的有必要互删吗",
-      "onboard_time": 1685150608,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 164264,
-      "num": 164264,
-      "word": "谢娜发火只有马伯骞紧张了",
-      "onboard_time": 1685148867,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 163906,
@@ -555,28 +603,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155909,
-      "num": 155909,
-      "word": "难怪吴磊说侯明昊好看",
-      "onboard_time": 1685149649,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 150312,
-      "num": 150312,
+      "raw_hot": 156842,
+      "num": 156842,
       "word": "熊梓淇五月天演唱会含泪喊到沙哑",
       "onboard_time": 1685149708,
       "rank": 38,
       "category": "音乐"
     },
     {
-      "raw_hot": 138208,
-      "num": 138208,
-      "word": "观音菩萨杨紫琼",
-      "onboard_time": 1685150128,
-      "rank": 39,
-      "category": "影视"
+      "raw_hot": 142480,
+      "num": 142480,
+      "word": "周迅觉得何炅黄磊太像空巢老人",
+      "onboard_time": 1685149411,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 138197,
@@ -635,28 +675,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122628,
-      "num": 122628,
-      "word": "周迅觉得何炅黄磊太像空巢老人",
-      "onboard_time": 1685149411,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 121395,
       "num": 189499,
       "word": "年少时不能遇见太惊艳的猴",
       "onboard_time": 1685104110,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 120890,
-      "num": 120890,
-      "word": "熊孩子剪掉女子头发家长赔1万合理吗",
-      "onboard_time": 1685150488,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120109,
@@ -689,6 +713,14 @@
       "onboard_time": 1685095471,
       "rank": 43,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 115201,
+      "num": 115201,
+      "word": "高速上飞奔清路障的鲁A车主找到了",
+      "onboard_time": 1685151568,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113370,
@@ -859,7 +891,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 15828,
+      "raw_hot": 17684,
       "num": 916354,
       "word": "探馆中关村论坛展览领略前沿科技魅力",
       "onboard_time": 1685107529,
