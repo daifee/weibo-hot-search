@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685169210694,
+  "endTime": 1685171660527,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -7659,6 +7659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1010122,
+      "num": 1010122,
+      "word": "国际生 职高生",
+      "onboard_time": 1685167528,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1009960,
       "num": 1009960,
       "word": "长大后童年报复性补偿行为",
@@ -7953,6 +7961,14 @@
       "onboard_time": 1683714330,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 973657,
+      "num": 973657,
+      "word": "李玉刚四美图被认成回美国",
+      "onboard_time": 1685166688,
+      "rank": 6,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 973509,
@@ -9827,14 +9843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 795382,
-      "num": 795382,
-      "word": "李玉刚四美图被认成回美国",
-      "onboard_time": 1685166688,
-      "rank": 6,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 795192,
       "num": 795192,
       "word": "莫言 告诉你一个残忍的人际关系",
@@ -11025,6 +11033,14 @@
       "onboard_time": 1682863409,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 702731,
+      "num": 702731,
+      "word": "乐华",
+      "onboard_time": 1685169207,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 702429,
@@ -16611,6 +16627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 472920,
+      "num": 472920,
+      "word": "五月天杭州演唱会官宣",
+      "onboard_time": 1685168906,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 472677,
       "num": 472677,
       "word": "李兰迪空降粉丝群",
@@ -19427,14 +19451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 412177,
-      "num": 246935,
-      "word": "五月天杭州演唱会官宣",
-      "onboard_time": 1685168906,
-      "rank": 21,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 411778,
       "num": 411778,
       "word": "晋剧演员张军波回应",
@@ -20897,6 +20913,14 @@
       "onboard_time": 1684466009,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 387354,
+      "num": 387354,
+      "word": "有人坐过以前公交车的这个位置吗",
+      "onboard_time": 1685166567,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 387314,
@@ -24187,6 +24211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 339347,
+      "num": 339347,
+      "word": "白色大熊猫",
+      "onboard_time": 1685167646,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339330,
       "num": 304495,
       "word": "这酒店和直接睡大街有什么区别",
@@ -24441,14 +24473,6 @@
       "onboard_time": 1683650782,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 335981,
-      "num": 335981,
-      "word": "国际生 职高生",
-      "onboard_time": 1685167528,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 335835,
@@ -27115,6 +27139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301949,
+      "num": 239438,
+      "word": "王鹤棣重庆活动人气",
+      "onboard_time": 1685171427,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301944,
       "num": 254215,
       "word": "时代峰峻代理律师发布律师函",
@@ -27481,6 +27513,14 @@
       "onboard_time": 1684467206,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 297484,
+      "num": 238602,
+      "word": "王一博纯甄见面会",
+      "onboard_time": 1685170467,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 297472,
@@ -28721,14 +28761,6 @@
       "onboard_time": 1683384513,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 285375,
-      "num": 285375,
-      "word": "白色大熊猫",
-      "onboard_time": 1685167646,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 285355,
@@ -33867,6 +33899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 241790,
+      "num": 241790,
+      "word": "5名袖珍人组建杀虫灭鼠队",
+      "onboard_time": 1685168846,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241783,
       "num": 241783,
       "word": "这些东西到底是谁在卖",
@@ -34547,14 +34587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 237145,
-      "num": 237145,
-      "word": "有人坐过以前公交车的这个位置吗",
-      "onboard_time": 1685166567,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 237049,
       "num": 237049,
       "word": "我真服了光夜",
@@ -34633,6 +34665,14 @@
       "onboard_time": 1683346832,
       "rank": 40,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 236566,
+      "num": 236566,
+      "word": "韩庚是卢靖姗组舞台顾问",
+      "onboard_time": 1685169270,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 236543,
@@ -36049,6 +36089,14 @@
       "onboard_time": 1684664789,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227557,
+      "num": 227557,
+      "word": "奶茶杯子压容量",
+      "onboard_time": 1685169327,
+      "rank": 25,
+      "category": "其它"
     },
     {
       "raw_hot": 227519,
@@ -38697,6 +38745,14 @@
       "onboard_time": 1683695622,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209695,
+      "num": 209695,
+      "word": "宝鸡一高中校长在教育局办公室被打",
+      "onboard_time": 1685170289,
+      "rank": 27,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 209608,
@@ -42761,6 +42817,14 @@
       "onboard_time": 1683473130,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186480,
+      "num": 186480,
+      "word": "美人鱼",
+      "onboard_time": 1685168787,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 186390,
@@ -46907,6 +46971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161795,
+      "num": 161795,
+      "word": "张云雷演唱会",
+      "onboard_time": 1685169448,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 161781,
       "num": 159161,
       "word": "罗渽民粉发",
@@ -49555,6 +49627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145106,
+      "num": 142486,
+      "word": "Amber谢欣 封神",
+      "onboard_time": 1685168307,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145105,
       "num": 145105,
       "word": "王源巡演广州站官宣",
@@ -50075,6 +50155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 140803,
+      "num": 140803,
+      "word": "王一博方坚决抵制追私行为",
+      "onboard_time": 1685171488,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140738,
       "num": 140738,
       "word": "青蛙人偶打扰到你了吗",
@@ -50497,14 +50585,6 @@
       "onboard_time": 1683963449,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 137260,
-      "num": 137260,
-      "word": "Amber谢欣 封神",
-      "onboard_time": 1685168307,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 137145,
@@ -51449,6 +51529,14 @@
       "onboard_time": 1684796297,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130093,
+      "num": 130093,
+      "word": "被种地吧急寻兽医经过感动了",
+      "onboard_time": 1685168787,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 130089,
@@ -52643,14 +52731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119742,
-      "num": 119742,
-      "word": "美人鱼",
-      "onboard_time": 1685168787,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 119738,
       "num": 119738,
       "word": "灰熊决定放弃狄龙",
@@ -52963,14 +53043,6 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 116162,
-      "num": 116162,
-      "word": "5名袖珍人组建杀虫灭鼠队",
-      "onboard_time": 1685168846,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115838,
       "num": 115838,
       "word": "大学生非牛顿流体的素质",
@@ -53124,7 +53196,7 @@
     },
     {
       "raw_hot": 114024,
-      "num": 114024,
+      "num": 115040,
       "word": "小舞第九魂技",
       "onboard_time": 1685169029,
       "rank": 47,
@@ -53281,14 +53353,6 @@
       "onboard_time": 1684056266,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 111949,
-      "num": 111949,
-      "word": "被种地吧急寻兽医经过感动了",
-      "onboard_time": 1685168787,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 111865,
@@ -57529,6 +57593,14 @@
       "onboard_time": 1683288027,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19835,
+      "num": 335916,
+      "word": "折叠男孩首次手术效果超预期",
+      "onboard_time": 1685171128,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19747,

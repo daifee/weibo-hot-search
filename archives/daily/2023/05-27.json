@@ -1,6 +1,6 @@
 {
   "startTime": 1685118110147,
-  "endTime": 1685169210694,
+  "endTime": 1685171660527,
   "band_list": [
     {
       "raw_hot": 2327527,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1010122,
+      "num": 1010122,
+      "word": "国际生 职高生",
+      "onboard_time": 1685167528,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1009885,
       "num": 1009885,
       "word": "林志颖车祸后再度开赛车",
@@ -97,6 +105,14 @@
       "onboard_time": 1685164526,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 973657,
+      "num": 973657,
+      "word": "李玉刚四美图被认成回美国",
+      "onboard_time": 1685166688,
+      "rank": 6,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 935484,
@@ -139,14 +155,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 795382,
-      "num": 795382,
-      "word": "李玉刚四美图被认成回美国",
-      "onboard_time": 1685166688,
-      "rank": 6,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 794363,
       "num": 463544,
       "word": "我妈死后还在催婚",
@@ -185,6 +193,14 @@
       "onboard_time": 1685159128,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 702731,
+      "num": 702731,
+      "word": "乐华",
+      "onboard_time": 1685169207,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 701267,
@@ -363,6 +379,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 472920,
+      "num": 472920,
+      "word": "五月天杭州演唱会官宣",
+      "onboard_time": 1685168906,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 471104,
       "num": 471104,
       "word": "韩方称要做好亚运会不公平待遇准备",
@@ -408,14 +432,6 @@
       "word": "这跟坐在白敬亭怀里有什么区别",
       "onboard_time": 1685150910,
       "rank": 28,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 412177,
-      "num": 246935,
-      "word": "五月天杭州演唱会官宣",
-      "onboard_time": 1685168906,
-      "rank": 21,
       "category": "音乐"
     },
     {
@@ -465,6 +481,14 @@
       "onboard_time": 1685158947,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 387354,
+      "num": 387354,
+      "word": "有人坐过以前公交车的这个位置吗",
+      "onboard_time": 1685166567,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 384846,
@@ -531,12 +555,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 335981,
-      "num": 335981,
-      "word": "国际生 职高生",
-      "onboard_time": 1685167528,
-      "rank": 34,
-      "category": "情感"
+      "raw_hot": 339347,
+      "num": 339347,
+      "word": "白色大熊猫",
+      "onboard_time": 1685167646,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332770,
@@ -571,6 +595,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 301949,
+      "num": 239438,
+      "word": "王鹤棣重庆活动人气",
+      "onboard_time": 1685171427,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 297484,
+      "num": 238602,
+      "word": "王一博纯甄见面会",
+      "onboard_time": 1685170467,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 293989,
       "num": 293989,
       "word": "白敬亭是自己抢票吗",
@@ -593,14 +633,6 @@
       "onboard_time": 1685161407,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 285375,
-      "num": 285375,
-      "word": "白色大熊猫",
-      "onboard_time": 1685167646,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 281663,
@@ -763,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241790,
+      "num": 241790,
+      "word": "5名袖珍人组建杀虫灭鼠队",
+      "onboard_time": 1685168846,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241371,
       "num": 199864,
       "word": "向往的生活",
@@ -779,12 +819,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 237145,
-      "num": 237145,
-      "word": "有人坐过以前公交车的这个位置吗",
-      "onboard_time": 1685166567,
-      "rank": 27,
-      "category": "情感"
+      "raw_hot": 236566,
+      "num": 236566,
+      "word": "韩庚是卢靖姗组舞台顾问",
+      "onboard_time": 1685169270,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 230975,
@@ -801,6 +841,14 @@
       "onboard_time": 1685149649,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 227557,
+      "num": 227557,
+      "word": "奶茶杯子压容量",
+      "onboard_time": 1685169327,
+      "rank": 25,
+      "category": "其它"
     },
     {
       "raw_hot": 221286,
@@ -833,6 +881,14 @@
       "onboard_time": 1685166328,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 209695,
+      "num": 209695,
+      "word": "宝鸡一高中校长在教育局办公室被打",
+      "onboard_time": 1685170289,
+      "rank": 27,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 209070,
@@ -979,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186480,
+      "num": 186480,
+      "word": "美人鱼",
+      "onboard_time": 1685168787,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185147,
       "num": 185147,
       "word": "周也戴了72条珠链",
@@ -1083,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161795,
+      "num": 161795,
+      "word": "张云雷演唱会",
+      "onboard_time": 1685169448,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 161305,
       "num": 191534,
       "word": "梁靖崑vs张本智和",
@@ -1139,19 +1211,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145106,
+      "num": 142486,
+      "word": "Amber谢欣 封神",
+      "onboard_time": 1685168307,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 140803,
+      "num": 140803,
+      "word": "王一博方坚决抵制追私行为",
+      "onboard_time": 1685171488,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138197,
       "num": 189823,
       "word": "谢可寅舞台",
       "onboard_time": 1685108611,
       "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 137260,
-      "num": 137260,
-      "word": "Amber谢欣 封神",
-      "onboard_time": 1685168307,
-      "rank": 48,
       "category": "综艺"
     },
     {
@@ -1169,6 +1249,14 @@
       "onboard_time": 1685113112,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130093,
+      "num": 130093,
+      "word": "被种地吧急寻兽医经过感动了",
+      "onboard_time": 1685168787,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 127452,
@@ -1243,28 +1331,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 119742,
-      "num": 119742,
-      "word": "美人鱼",
-      "onboard_time": 1685168787,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 118646,
       "num": 118646,
       "word": "女双",
       "onboard_time": 1685143339,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 116162,
-      "num": 116162,
-      "word": "5名袖珍人组建杀虫灭鼠队",
-      "onboard_time": 1685168846,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115648,
@@ -1292,7 +1364,7 @@
     },
     {
       "raw_hot": 114024,
-      "num": 114024,
+      "num": 115040,
       "word": "小舞第九魂技",
       "onboard_time": 1685169029,
       "rank": 47,
@@ -1304,14 +1376,6 @@
       "word": "孙红雷淘汰了赵丽颖",
       "onboard_time": 1685107771,
       "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 111949,
-      "num": 111949,
-      "word": "被种地吧急寻兽医经过感动了",
-      "onboard_time": 1685168787,
-      "rank": 48,
       "category": "综艺"
     },
     {
@@ -1481,6 +1545,14 @@
       "onboard_time": 1685119945,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 19835,
+      "num": 335916,
+      "word": "折叠男孩首次手术效果超预期",
+      "onboard_time": 1685171128,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17684,
