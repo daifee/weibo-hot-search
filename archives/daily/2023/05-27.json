@@ -1,6 +1,6 @@
 {
   "startTime": 1685118110147,
-  "endTime": 1685200542484,
+  "endTime": 1685201603011,
   "band_list": [
     {
       "raw_hot": 2580452,
@@ -315,6 +315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 779312,
+      "num": 779312,
+      "word": "孟子义回应迪幂孟扎称号",
+      "onboard_time": 1685199872,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 772772,
       "num": 772772,
       "word": "五月天又放票了",
@@ -404,7 +412,7 @@
     },
     {
       "raw_hot": 666835,
-      "num": 458774,
+      "num": 563130,
       "word": "老舅一年一首骂完就走",
       "onboard_time": 1685197415,
       "rank": 15,
@@ -412,10 +420,18 @@
     },
     {
       "raw_hot": 658143,
-      "num": 485062,
+      "num": 540121,
       "word": "程潇录节目玩手机",
       "onboard_time": 1685189069,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 658037,
+      "num": 572323,
+      "word": "小白恋爱脑",
+      "onboard_time": 1685199933,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -433,6 +449,14 @@
       "onboard_time": 1685189731,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 636471,
+      "num": 636471,
+      "word": "马龙vs王楚钦",
+      "onboard_time": 1685200771,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 626657,
@@ -465,6 +489,14 @@
       "onboard_time": 1685162789,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 598522,
+      "num": 598522,
+      "word": "拜仁德甲冠军",
+      "onboard_time": 1685201431,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 583008,
@@ -587,6 +619,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 507530,
+      "num": 507530,
+      "word": "拜仁熟悉的下半场",
+      "onboard_time": 1685200409,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 504850,
       "num": 420484,
       "word": "李承铉连续九年给戚薇庆祝527",
@@ -665,14 +705,6 @@
       "onboard_time": 1685181209,
       "rank": 16,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 476012,
-      "num": 387830,
-      "word": "孟子义回应迪幂孟扎称号",
-      "onboard_time": 1685199872,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 473468,
@@ -827,12 +859,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 408540,
+      "num": 292650,
+      "word": "周也好适合演恶女",
+      "onboard_time": 1685200771,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 404005,
       "num": 404005,
       "word": "后浪女主",
       "onboard_time": 1685117068,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 403624,
+      "num": 288765,
+      "word": "BLACKPINK演唱会被扔上台的玩偶有摄像头",
+      "onboard_time": 1685201310,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 402435,
@@ -865,6 +913,14 @@
       "onboard_time": 1685153968,
       "rank": 25,
       "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 400236,
+      "num": 287235,
+      "word": "仙剑三主演孩子的年龄",
+      "onboard_time": 1685200352,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 397974,
@@ -915,14 +971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 383341,
-      "num": 383341,
-      "word": "拜仁熟悉的下半场",
-      "onboard_time": 1685200409,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 380318,
       "num": 216397,
       "word": "沈腾等红毯太无聊扒墙看海",
@@ -953,6 +1001,14 @@
       "onboard_time": 1685171488,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362407,
+      "num": 268147,
+      "word": "吴京给谢楠发与沈腾张译合照",
+      "onboard_time": 1685199811,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 360116,
@@ -1075,14 +1131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 324237,
-      "num": 226375,
-      "word": "吴京给谢楠发与沈腾张译合照",
-      "onboard_time": 1685199811,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 321649,
       "num": 202416,
       "word": "王嘉尔回国",
@@ -1091,12 +1139,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 320160,
-      "num": 202883,
-      "word": "小白恋爱脑",
-      "onboard_time": 1685199933,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 317846,
+      "num": 317846,
+      "word": "科隆vs拜仁",
+      "onboard_time": 1685197173,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 309401,
@@ -1219,6 +1267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 278409,
+      "num": 278409,
+      "word": "心疼罗伊斯",
+      "onboard_time": 1685198375,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 278318,
       "num": 278318,
       "word": "娄艺潇回复网友不参加浪姐的原因",
@@ -1241,6 +1297,14 @@
       "onboard_time": 1685185587,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 276201,
+      "num": 276201,
+      "word": "多特关键时刻掉链子",
+      "onboard_time": 1685198612,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 276127,
@@ -1324,7 +1388,7 @@
     },
     {
       "raw_hot": 264655,
-      "num": 153077,
+      "num": 189735,
       "word": "人生路不熟",
       "onboard_time": 1685199331,
       "rank": 40,
@@ -1417,6 +1481,14 @@
       "onboard_time": 1685156847,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246040,
+      "num": 195713,
+      "word": "银河护卫队3",
+      "onboard_time": 1685201073,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 245127,
@@ -1539,6 +1611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 230981,
+      "num": 230981,
+      "word": "以为是美因茨在和拜仁争冠",
+      "onboard_time": 1685200352,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230975,
       "num": 200357,
       "word": "汪小敏 淘汰",
@@ -1560,14 +1640,6 @@
       "word": "德甲",
       "onboard_time": 1685195434,
       "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 227153,
-      "num": 227153,
-      "word": "心疼罗伊斯",
-      "onboard_time": 1685198375,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -1619,14 +1691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219704,
-      "num": 145752,
-      "word": "仙剑三主演孩子的年龄",
-      "onboard_time": 1685200352,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 219152,
       "num": 180436,
       "word": "华晨宇演唱会运冰块降温",
@@ -1659,6 +1723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 209602,
+      "num": 209602,
+      "word": "拒绝董明珠3次的主播评孟羽童离职",
+      "onboard_time": 1685201132,
+      "rank": 37,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 209070,
       "num": 209070,
       "word": "小美人鱼",
@@ -1681,14 +1753,6 @@
       "onboard_time": 1685182768,
       "rank": 35,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 204762,
-      "num": 204762,
-      "word": "多特关键时刻掉链子",
-      "onboard_time": 1685198612,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 204087,
@@ -1737,6 +1801,14 @@
       "onboard_time": 1685161588,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 198897,
+      "num": 198897,
+      "word": "多特蒙德半场0比2美因茨",
+      "onboard_time": 1685198731,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 198271,
@@ -1803,14 +1875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194423,
-      "num": 194423,
-      "word": "多特蒙德半场0比2美因茨",
-      "onboard_time": 1685198731,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 194006,
       "num": 194006,
       "word": "声生不息",
@@ -1833,6 +1897,14 @@
       "onboard_time": 1685191109,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193127,
+      "num": 1341841,
+      "word": "白色大熊猫与大熊猫罕见同框",
+      "onboard_time": 1685191350,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192029,
@@ -2115,14 +2187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157746,
-      "num": 157746,
-      "word": "以为是美因茨在和拜仁争冠",
-      "onboard_time": 1685200352,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 157052,
       "num": 157052,
       "word": "给我一顶毕业帽",
@@ -2153,14 +2217,6 @@
       "onboard_time": 1685184028,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 153243,
-      "num": 1341841,
-      "word": "白色大熊猫与大熊猫罕见同框",
-      "onboard_time": 1685191350,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153226,
@@ -2209,14 +2265,6 @@
       "onboard_time": 1685191650,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145149,
-      "num": 145149,
-      "word": "科隆vs拜仁",
-      "onboard_time": 1685197173,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 145106,
@@ -2401,6 +2449,14 @@
       "onboard_time": 1685175326,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116489,
+      "num": 549172,
+      "word": "宁波姑娘三进三出控场灭火救人",
+      "onboard_time": 1685199634,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115955,
@@ -2640,14 +2696,6 @@
       "word": "看夏收画卷在祖国各地徐徐展开",
       "onboard_time": 1685162909,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44402,
-      "num": 405093,
-      "word": "宁波姑娘三进三出控场灭火救人",
-      "onboard_time": 1685199634,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
