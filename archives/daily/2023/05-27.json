@@ -1,6 +1,6 @@
 {
   "startTime": 1685118110147,
-  "endTime": 1685154815129,
+  "endTime": 1685155353883,
   "band_list": [
     {
       "raw_hot": 2327527,
@@ -35,20 +35,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1125670,
+      "num": 1125670,
+      "word": "逃犯去看周杰伦演唱会路上被抓",
+      "onboard_time": 1685152167,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1009885,
       "num": 1009885,
       "word": "林志颖车祸后再度开赛车",
       "onboard_time": 1685118447,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 990021,
-      "num": 990021,
-      "word": "逃犯去看周杰伦演唱会路上被抓",
-      "onboard_time": 1685152167,
-      "rank": 1,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 935484,
@@ -115,8 +115,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 650262,
-      "num": 650262,
+      "raw_hot": 673675,
+      "num": 673675,
       "word": "张凌赫好惨一男的",
       "onboard_time": 1685151270,
       "rank": 19,
@@ -147,8 +147,8 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 592469,
-      "num": 592469,
+      "raw_hot": 599356,
+      "num": 599356,
       "word": "大学生掏鸟案当事人已出狱",
       "onboard_time": 1685152527,
       "rank": 6,
@@ -203,6 +203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 477941,
+      "num": 477941,
+      "word": "美依礼芽的坐姿",
+      "onboard_time": 1685145986,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 473468,
       "num": 243342,
       "word": "何丹彤回应被抢劫",
@@ -219,12 +227,12 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 463027,
-      "num": 463027,
-      "word": "美依礼芽的坐姿",
-      "onboard_time": 1685145986,
-      "rank": 7,
-      "category": "作品衍生"
+      "raw_hot": 426045,
+      "num": 231516,
+      "word": "原来王诗龄最苦的时间是录爸爸去哪儿",
+      "onboard_time": 1685154149,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 411060,
@@ -249,6 +257,14 @@
       "onboard_time": 1685111972,
       "rank": 11,
       "category": "科技"
+    },
+    {
+      "raw_hot": 401017,
+      "num": 229183,
+      "word": "今天好多人开演唱会",
+      "onboard_time": 1685153968,
+      "rank": 25,
+      "category": "音乐,幽默"
     },
     {
       "raw_hot": 376288,
@@ -291,6 +307,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 341829,
+      "num": 341829,
+      "word": "这跟坐在白敬亭怀里有什么区别",
+      "onboard_time": 1685150910,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 332770,
+      "num": 332770,
+      "word": "熊孩子剪掉女子头发家长赔1万合理吗",
+      "onboard_time": 1685150488,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324899,
       "num": 324899,
       "word": "女子诞下百万分之一镜面宝宝",
@@ -307,28 +339,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301652,
-      "num": 301652,
-      "word": "熊孩子剪掉女子头发家长赔1万合理吗",
-      "onboard_time": 1685150488,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 295991,
-      "num": 295991,
-      "word": "这跟坐在白敬亭怀里有什么区别",
-      "onboard_time": 1685150910,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 293989,
       "num": 293989,
       "word": "白敬亭是自己抢票吗",
       "onboard_time": 1685108190,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 290268,
+      "num": 229877,
+      "word": "真的建议不要买开口的榴莲",
+      "onboard_time": 1685154569,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 289274,
@@ -339,20 +363,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 285641,
-      "num": 231516,
-      "word": "原来王诗龄最苦的时间是录爸爸去哪儿",
-      "onboard_time": 1685154149,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 281663,
       "num": 281663,
       "word": "薛之谦司机今天拉的是盗版凤凰传奇",
       "onboard_time": 1685145806,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281563,
+      "num": 281563,
+      "word": "恋爱中很多人的忠诚都是演的",
+      "onboard_time": 1685153307,
+      "rank": 18,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 280810,
@@ -435,28 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 246492,
-      "num": 229877,
-      "word": "真的建议不要买开口的榴莲",
-      "onboard_time": 1685154569,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 243207,
       "num": 243207,
       "word": "巴厘岛",
       "onboard_time": 1685136793,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 242692,
-      "num": 229183,
-      "word": "今天好多人开演唱会",
-      "onboard_time": 1685153968,
-      "rank": 25,
-      "category": "音乐,幽默"
     },
     {
       "raw_hot": 241371,
@@ -473,14 +481,6 @@
       "onboard_time": 1685144664,
       "rank": 24,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 235426,
-      "num": 235426,
-      "word": "恋爱中很多人的忠诚都是演的",
-      "onboard_time": 1685153307,
-      "rank": 18,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 230778,
@@ -513,6 +513,14 @@
       "onboard_time": 1685115812,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210724,
+      "num": 210724,
+      "word": "永久关闭6万多个自媒体账号",
+      "onboard_time": 1685154869,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204087,
@@ -611,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184062,
+      "num": 184062,
+      "word": "上班之后最大的感受 收窄了",
+      "onboard_time": 1685152888,
+      "rank": 38,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 180842,
       "num": 135324,
       "word": "王艺迪3比4早田希娜",
@@ -619,20 +635,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177304,
-      "num": 177304,
+      "raw_hot": 180330,
+      "num": 180330,
       "word": "wmls",
       "onboard_time": 1685152109,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 175409,
-      "num": 175409,
-      "word": "上班之后最大的感受 收窄了",
-      "onboard_time": 1685152888,
-      "rank": 38,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 170052,
@@ -691,8 +699,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 141572,
-      "num": 141572,
+      "raw_hot": 150983,
+      "num": 150983,
       "word": "外卖小哥送餐时发现罂粟后报警",
       "onboard_time": 1685154688,
       "rank": 43,
@@ -713,6 +721,14 @@
       "onboard_time": 1685147788,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130546,
+      "num": 130546,
+      "word": "男子租房7年将家变成人生博物馆",
+      "onboard_time": 1685155287,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130131,
@@ -760,6 +776,14 @@
       "word": "年少时不能遇见太惊艳的猴",
       "onboard_time": 1685104110,
       "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 121270,
+      "num": 121270,
+      "word": "韩国人对花花的评价",
+      "onboard_time": 1685155347,
+      "rank": 49,
       "category": "幽默"
     },
     {
