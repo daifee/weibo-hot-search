@@ -1,0 +1,410 @@
+{
+  "runTime": 1685226807473,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 426154,
+        "num": 426154,
+        "word": "拒绝董明珠3次的主播评孟羽童离职",
+        "onboard_time": 1685201132,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 415415,
+        "num": 415415,
+        "word": "假球",
+        "onboard_time": 1685202992,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46760,
+        "num": 316140,
+        "word": "白色大熊猫与大熊猫罕见同框",
+        "onboard_time": 1685191350,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227232,
+        "num": 227232,
+        "word": "BLACKPINK演唱会被扔上台的玩偶有摄像头",
+        "onboard_time": 1685201310,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186754,
+        "num": 186754,
+        "word": "武汉财政局公开催债",
+        "onboard_time": 1685196337,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 172958,
+        "num": 172958,
+        "word": "算命 更适合中国宝宝的心理咨询",
+        "onboard_time": 1685201791,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158218,
+        "num": 158218,
+        "word": "孟子义回应迪幂孟扎称号",
+        "onboard_time": 1685199872,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156141,
+        "num": 156141,
+        "word": "全球唯一白色大熊猫野外撒欢",
+        "onboard_time": 1685218393,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148253,
+        "num": 148253,
+        "word": "程潇录节目玩手机",
+        "onboard_time": 1685189069,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97534,
+        "num": 97534,
+        "word": "老舅 淘汰",
+        "onboard_time": 1685192611,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90195,
+        "num": 90195,
+        "word": "马龙vs王楚钦",
+        "onboard_time": 1685200771,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87049,
+        "num": 87049,
+        "word": "小伙被骗缅北3年警方指导逃脱",
+        "onboard_time": 1685189548,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83172,
+        "num": 83172,
+        "word": "大学生掏鸟案当事人27日刑满释放",
+        "onboard_time": 1685210894,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72788,
+        "num": 72788,
+        "word": "狗狗为护农被豪猪扎得满身刺",
+        "onboard_time": 1685205026,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70291,
+        "num": 70291,
+        "word": "陈梦王艺迪女双决赛",
+        "onboard_time": 1685204489,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66301,
+        "num": 66301,
+        "word": "赵露思鞠婧祎直播状态",
+        "onboard_time": 1685194474,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65998,
+        "num": 65998,
+        "word": "丫丫",
+        "onboard_time": 1685192309,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62607,
+        "num": 62607,
+        "word": "王一博没有想和粉丝一起做的事情",
+        "onboard_time": 1685180128,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61789,
+        "num": 61789,
+        "word": "樊振东vs梁靖崑",
+        "onboard_time": 1685203648,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55945,
+        "num": 55945,
+        "word": "仙剑三主演孩子的年龄",
+        "onboard_time": 1685200352,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 59073,
+        "num": 54322,
+        "word": "袁姗姗新剧人设",
+        "onboard_time": 1685203709,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 51832,
+        "num": 51832,
+        "word": "那英唱掉了全程开大",
+        "onboard_time": 1685185167,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49851,
+        "num": 49851,
+        "word": "李玉刚 你们销量不好是有原因的",
+        "onboard_time": 1685183307,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 49647,
+        "num": 49647,
+        "word": "老舅一年一首骂完就走",
+        "onboard_time": 1685197415,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49586,
+        "num": 49586,
+        "word": "多特蒙德对得起谁",
+        "onboard_time": 1685202450,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48745,
+        "num": 48745,
+        "word": "南昌一地舞台背景屏倒塌9名幼儿被砸",
+        "onboard_time": 1685194411,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46886,
+        "num": 46886,
+        "word": "德国男子连做3次断骨增高至1米9",
+        "onboard_time": 1685190389,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45570,
+        "num": 45570,
+        "word": "其实大家的青春都很平淡吧",
+        "onboard_time": 1685205326,
+        "rank": 27,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 45032,
+        "num": 45032,
+        "word": "小白恋爱脑",
+        "onboard_time": 1685199933,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44825,
+        "num": 44825,
+        "word": "二阳是因为免疫力到期了吗",
+        "onboard_time": 1685172208,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43040,
+        "num": 43040,
+        "word": "南航",
+        "onboard_time": 1685187807,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39642,
+        "num": 39642,
+        "word": "张子枫 美人鱼",
+        "onboard_time": 1685191350,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37833,
+        "num": 37833,
+        "word": "吴京说我的金手指一指张译就得奖了",
+        "onboard_time": 1685225894,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36915,
+        "num": 36915,
+        "word": "莫文蔚的腿秒了",
+        "onboard_time": 1685193393,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33757,
+        "num": 33757,
+        "word": "孟子义妈妈娱乐圈除了孟子义都追",
+        "onboard_time": 1685195135,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33491,
+        "num": 33491,
+        "word": "罗伊斯痛失德甲首冠",
+        "onboard_time": 1685202748,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33481,
+        "num": 33481,
+        "word": "除了杨洋谁还能演肖奈",
+        "onboard_time": 1685194594,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32244,
+        "num": 32244,
+        "word": "五月天鸟巢演唱会",
+        "onboard_time": 1685181628,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 31820,
+        "num": 31820,
+        "word": "虞书欣与甘比母女合影",
+        "onboard_time": 1685190930,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31584,
+        "num": 31584,
+        "word": "樊振东王楚钦世锦赛男双冠军",
+        "onboard_time": 1685195614,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30237,
+        "num": 30237,
+        "word": "朴彩英模仿Lisa比中指",
+        "onboard_time": 1685201853,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 30064,
+        "num": 30064,
+        "word": "心疼罗伊斯",
+        "onboard_time": 1685198375,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29254,
+        "num": 29254,
+        "word": "戛纳电影节",
+        "onboard_time": 1685213355,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28649,
+        "num": 28649,
+        "word": "五月天杭州演唱会票不能转赠",
+        "onboard_time": 1685202390,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 26995,
+        "num": 28642,
+        "word": "周也好适合演恶女",
+        "onboard_time": 1685200771,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26764,
+        "num": 28639,
+        "word": "BLACKPINK曼谷演唱会饭拍",
+        "onboard_time": 1685215513,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 24297,
+        "num": 28626,
+        "word": "王俊凯",
+        "onboard_time": 1685194653,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 23463,
+        "num": 28615,
+        "word": "拜仁德甲冠军",
+        "onboard_time": 1685201431,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23046,
+        "num": 28606,
+        "word": "贝林厄姆哭了",
+        "onboard_time": 1685204547,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20952,
+        "num": 28597,
+        "word": "锦鲤",
+        "onboard_time": 1685219292,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023数博会上的黑科技#"
+    }
+  }
+}
