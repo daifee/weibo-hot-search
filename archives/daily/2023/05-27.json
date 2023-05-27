@@ -1,6 +1,6 @@
 {
   "startTime": 1685118110147,
-  "endTime": 1685176417741,
+  "endTime": 1685178901489,
   "band_list": [
     {
       "raw_hot": 2580452,
@@ -57,6 +57,14 @@
       "onboard_time": 1685110894,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1422482,
+      "num": 1422482,
+      "word": "小孩学动画片撑伞从26楼跳下",
+      "onboard_time": 1685173527,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1301075,
@@ -123,20 +131,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 977900,
+      "num": 977900,
+      "word": "乐华",
+      "onboard_time": 1685169207,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 977676,
+      "num": 343713,
+      "word": "安崎承认恋情后开麦初舞台",
+      "onboard_time": 1685176049,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 973657,
       "num": 973657,
       "word": "李玉刚四美图被认成回美国",
       "onboard_time": 1685166688,
       "rank": 6,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 945525,
-      "num": 945525,
-      "word": "小孩学动画片撑伞从26楼跳下",
-      "onboard_time": 1685173527,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 935484,
@@ -217,14 +233,6 @@
       "onboard_time": 1685159128,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 715990,
-      "num": 715990,
-      "word": "乐华",
-      "onboard_time": 1685169207,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 701267,
@@ -499,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 407355,
+      "num": 407355,
+      "word": "班主任带双胞胎走廊写作业陪学生备战高考",
+      "onboard_time": 1685175568,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 404005,
       "num": 404005,
       "word": "后浪女主",
@@ -627,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344249,
+      "num": 223060,
+      "word": "妻子偏瘫丈夫26次提出离婚",
+      "onboard_time": 1685176408,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343179,
       "num": 343179,
       "word": "猝死的人都有这些规律",
@@ -640,6 +664,14 @@
       "word": "熊孩子剪掉女子头发家长赔1万合理吗",
       "onboard_time": 1685150488,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327918,
+      "num": 327918,
+      "word": "二阳是因为免疫力到期了吗",
+      "onboard_time": 1685172208,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -667,12 +699,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 304767,
-      "num": 247775,
-      "word": "二阳是因为免疫力到期了吗",
-      "onboard_time": 1685172208,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 302629,
+      "num": 302629,
+      "word": "乘风二公总排名",
+      "onboard_time": 1685176529,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 301949,
@@ -803,12 +835,28 @@
       "category": "其它"
     },
     {
+      "raw_hot": 268221,
+      "num": 268221,
+      "word": "保洁阿姨为护女孩用身体挡住大狗",
+      "onboard_time": 1685176648,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267262,
       "num": 267262,
       "word": "王一博书包上系丝巾",
       "onboard_time": 1685162068,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 267201,
+      "num": 220791,
+      "word": "杨幂宫锁心玉海报细节",
+      "onboard_time": 1685177609,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 265455,
@@ -880,6 +928,14 @@
       "word": "秦霄贤坐轮椅录制好六",
       "onboard_time": 1685156847,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 244844,
+      "num": 218939,
+      "word": "徐明浩脱衣服干活",
+      "onboard_time": 1685178329,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -961,14 +1017,6 @@
       "onboard_time": 1685115812,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 216786,
-      "num": 216786,
-      "word": "安崎承认恋情后开麦初舞台",
-      "onboard_time": 1685176049,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 213227,
@@ -1099,14 +1147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194144,
-      "num": 194144,
-      "word": "班主任带双胞胎走廊写作业陪学生备战高考",
-      "onboard_time": 1685175568,
-      "rank": 28,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 193593,
       "num": 193593,
       "word": "鹿晗派对dresscode",
@@ -1145,6 +1185,14 @@
       "onboard_time": 1685091208,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187182,
+      "num": 187182,
+      "word": "假如有30岁不结婚赔700万的保险",
+      "onboard_time": 1685177848,
+      "rank": 26,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 185147,
@@ -1347,6 +1395,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142825,
+      "num": 142825,
+      "word": "JDG官宣2023夏季赛大名单",
+      "onboard_time": 1685177788,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 141012,
+      "num": 141012,
+      "word": "临沂教师编",
+      "onboard_time": 1685177609,
+      "rank": 35,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 138197,
       "num": 189823,
       "word": "谢可寅舞台",
@@ -1467,14 +1531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116980,
-      "num": 116980,
-      "word": "妻子偏瘫丈夫26次提出离婚",
-      "onboard_time": 1685176408,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115955,
       "num": 115955,
       "word": "关于二阳的多个认识误区",
@@ -1579,20 +1635,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90943,
+      "num": 377595,
+      "word": "女孩路边晕倒陌生人送热水守护",
+      "onboard_time": 1685174427,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87970,
       "num": 186991,
       "word": "男教师多次性侵13岁女孩获刑18年",
       "onboard_time": 1685089769,
       "rank": 49,
       "category": "社会负面,教育"
-    },
-    {
-      "raw_hot": 87304,
-      "num": 377595,
-      "word": "女孩路边晕倒陌生人送热水守护",
-      "onboard_time": 1685174427,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80764,
@@ -1707,20 +1763,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31083,
+      "num": 1278410,
+      "word": "为中国式现代化建设先行探路",
+      "onboard_time": 1685174427,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29209,
       "num": 47652,
       "word": "后浪",
       "onboard_time": 1685119945,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 24324,
-      "num": 1278410,
-      "word": "为中国式现代化建设先行探路",
-      "onboard_time": 1685174427,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17684,
