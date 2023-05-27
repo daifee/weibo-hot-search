@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1685187201110,
+  "endTime": 1685190650700,
   "band_list": [
     {
       "raw_hot": 4241479,
@@ -795,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1513865,
+      "num": 1333641,
+      "word": "非婚生育",
+      "onboard_time": 1685180248,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1496989,
       "num": 1496989,
       "word": "张译发言 陈凯歌表情",
@@ -1051,20 +1059,20 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1333641,
-      "num": 1333641,
-      "word": "非婚生育",
-      "onboard_time": 1685180248,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1326594,
       "num": 489181,
       "word": "海蝶音乐回应许嵩相关传闻",
       "onboard_time": 1685017709,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1321197,
+      "num": 1321197,
+      "word": "那英唱掉了全程开大",
+      "onboard_time": 1685185167,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 1316289,
@@ -1089,6 +1097,14 @@
       "onboard_time": 1684840351,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1303864,
+      "num": 1303864,
+      "word": "南航",
+      "onboard_time": 1685187807,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1301075,
@@ -1857,14 +1873,6 @@
       "onboard_time": 1685114313,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 927722,
-      "num": 927722,
-      "word": "那英唱掉了全程开大",
-      "onboard_time": 1685185167,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 919917,
@@ -3012,7 +3020,7 @@
     },
     {
       "raw_hot": 579811,
-      "num": 359747,
+      "num": 498907,
       "word": "锦瑟",
       "onboard_time": 1685185647,
       "rank": 23,
@@ -3160,6 +3168,14 @@
       "word": "郑容和不参与哇唧唧哇新综艺录制",
       "onboard_time": 1684767213,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 556263,
+      "num": 306377,
+      "word": "程潇录节目玩手机",
+      "onboard_time": 1685189069,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -3516,7 +3532,7 @@
     },
     {
       "raw_hot": 504850,
-      "num": 354390,
+      "num": 387288,
       "word": "李承铉连续九年给戚薇庆祝527",
       "onboard_time": 1685185108,
       "rank": 21,
@@ -3873,6 +3889,14 @@
       "onboard_time": 1684916129,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 468447,
+      "num": 468447,
+      "word": "五月天 外场",
+      "onboard_time": 1685186847,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 468365,
@@ -4267,6 +4291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 428367,
+      "num": 428367,
+      "word": "孙颖莎4比1战胜早田希娜",
+      "onboard_time": 1685189010,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 426431,
       "num": 426431,
       "word": "小行星能不能创死我",
@@ -4625,6 +4657,14 @@
       "onboard_time": 1684976129,
       "rank": 17,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 402435,
+      "num": 402435,
+      "word": "周深斗罗大陆绝世唐门双绝合作",
+      "onboard_time": 1685189490,
+      "rank": 15,
+      "category": "影视,游戏"
     },
     {
       "raw_hot": 402263,
@@ -5276,7 +5316,7 @@
     },
     {
       "raw_hot": 359049,
-      "num": 244095,
+      "num": 245807,
       "word": "妻子偏瘫丈夫26次提出离婚",
       "onboard_time": 1685176408,
       "rank": 45,
@@ -5513,6 +5553,14 @@
       "onboard_time": 1685006550,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 344011,
+      "num": 210371,
+      "word": "王一博王鹤棣侧颜对比照",
+      "onboard_time": 1685189368,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 343714,
@@ -5859,6 +5907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321649,
+      "num": 202416,
+      "word": "王嘉尔回国",
+      "onboard_time": 1685187868,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321022,
       "num": 321022,
       "word": "孙灏羽将继续起诉小慧君巧乐兹夫妇",
@@ -5977,6 +6033,14 @@
       "onboard_time": 1684858888,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315183,
+      "num": 315183,
+      "word": "刘宇宁 毛不易演唱会",
+      "onboard_time": 1685189731,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 315087,
@@ -6651,6 +6715,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 286044,
+      "num": 204547,
+      "word": "张信哲演唱会",
+      "onboard_time": 1685189787,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 285889,
       "num": 285889,
       "word": "吃火锅喝冷饮后小心急性会厌炎",
@@ -6899,6 +6971,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 278110,
+      "num": 189993,
+      "word": "这就是我超级紧张的求婚",
+      "onboard_time": 1685188228,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 278019,
+      "num": 240678,
+      "word": "小白谢可寅双人舞台",
+      "onboard_time": 1685184929,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277366,
       "num": 277366,
       "word": "张韶涵说周杰伦曾在最低谷挺她",
@@ -6961,6 +7049,14 @@
       "onboard_time": 1685148147,
       "rank": 16,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 276110,
+      "num": 276110,
+      "word": "孙颖莎vs早田希娜",
+      "onboard_time": 1685187387,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 275284,
@@ -8043,6 +8139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 241461,
+      "num": 241461,
+      "word": "小伙被骗缅北3年警方指导逃脱",
+      "onboard_time": 1685189548,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241285,
       "num": 241285,
       "word": "怎么游戏里景区也是人人人",
@@ -8065,14 +8169,6 @@
       "onboard_time": 1685106989,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 240678,
-      "num": 240678,
-      "word": "小白谢可寅双人舞台",
-      "onboard_time": 1685184929,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 240375,
@@ -9195,6 +9291,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 211305,
+      "num": 211305,
+      "word": "保洁阿姨捡到40万现金报警",
+      "onboard_time": 1685189130,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211159,
       "num": 211159,
       "word": "五月天演唱会你买到票了吗",
@@ -9635,6 +9739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 199290,
+      "num": 172572,
+      "word": "桃花坞",
+      "onboard_time": 1685190270,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198462,
       "num": 198462,
       "word": "塞尔达传说王国之泪",
@@ -9953,14 +10065,6 @@
       "onboard_time": 1684992151,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193053,
-      "num": 193053,
-      "word": "五月天 外场",
-      "onboard_time": 1685186847,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 192924,
@@ -10465,6 +10569,14 @@
       "onboard_time": 1684659749,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181215,
+      "num": 147686,
+      "word": "毛不易上海演唱会",
+      "onboard_time": 1685188769,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 181103,
@@ -12803,6 +12915,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 102273,
+      "num": 120546,
+      "word": "德国男子连做3次断骨增高至1米9",
+      "onboard_time": 1685190389,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101829,
       "num": 101829,
       "word": "2023MSI",
@@ -12939,6 +13059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92908,
+      "num": 120359,
+      "word": "专家分析二阳高峰是否来临",
+      "onboard_time": 1685190632,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92732,
       "num": 92732,
       "word": "田柾国直播",
@@ -12968,6 +13096,14 @@
       "word": "女孩路边晕倒陌生人送热水守护",
       "onboard_time": 1685174427,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90634,
+      "num": 335746,
+      "word": "奔驰发布会",
+      "onboard_time": 1685188588,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -13251,6 +13387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62153,
+      "num": 414134,
+      "word": "这很有实力",
+      "onboard_time": 1685188828,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61585,
       "num": 225178,
       "word": "SUV在卷一种很新的东西",
@@ -13496,6 +13640,14 @@
       "word": "李斯丹妮在玩一种很新的带货",
       "onboard_time": 1684897230,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37130,
+      "num": 1054356,
+      "word": "96岁志愿军老战士再圆军装梦",
+      "onboard_time": 1685174549,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
