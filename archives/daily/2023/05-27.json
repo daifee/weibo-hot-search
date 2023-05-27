@@ -1,6 +1,6 @@
 {
   "startTime": 1685118110147,
-  "endTime": 1685182594161,
+  "endTime": 1685183626246,
   "band_list": [
     {
       "raw_hot": 2580452,
@@ -35,20 +35,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1627565,
+      "num": 538223,
+      "word": "王一博没有想和粉丝一起做的事情",
+      "onboard_time": 1685180128,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1600365,
       "num": 1600365,
       "word": "重庆市在TikTok上成功出圈",
       "onboard_time": 1685171907,
       "rank": 30,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 1598569,
-      "num": 538223,
-      "word": "王一博没有想和粉丝一起做的事情",
-      "onboard_time": 1685180128,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1590503,
@@ -72,6 +72,14 @@
       "word": "小孩学动画片撑伞从26楼跳下",
       "onboard_time": 1685173527,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1396940,
+      "num": 1396940,
+      "word": "二阳是因为免疫力到期了吗",
+      "onboard_time": 1685172208,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -99,14 +107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1147709,
-      "num": 1147709,
-      "word": "二阳是因为免疫力到期了吗",
-      "onboard_time": 1685172208,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1147115,
       "num": 1147115,
       "word": "张元英AI换脸叶夕雾",
@@ -124,11 +124,19 @@
     },
     {
       "raw_hot": 1090203,
-      "num": 483927,
+      "num": 487765,
       "word": "安崎承认恋情后开麦初舞台",
       "onboard_time": 1685176049,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1085970,
+      "num": 1085970,
+      "word": "非婚生育",
+      "onboard_time": 1685180248,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1081510,
@@ -187,14 +195,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 895960,
-      "num": 895960,
-      "word": "非婚生育",
-      "onboard_time": 1685180248,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 884263,
       "num": 884263,
       "word": "送命式熬夜 经常性失落",
@@ -208,6 +208,14 @@
       "word": "女主播给15岁男孩发半裸照片骗打赏",
       "onboard_time": 1685149470,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 854162,
+      "num": 483028,
+      "word": "9岁男孩失踪13年尸骨现身山林地缝",
+      "onboard_time": 1685180128,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -241,14 +249,6 @@
       "onboard_time": 1685149708,
       "rank": 10,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 771265,
-      "num": 458283,
-      "word": "9岁男孩失踪13年尸骨现身山林地缝",
-      "onboard_time": 1685180128,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 768689,
@@ -363,6 +363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 537881,
+      "num": 1194849,
+      "word": "保洁阿姨为护女孩用身体挡住大狗",
+      "onboard_time": 1685176648,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 535515,
       "num": 535515,
       "word": "迷迭香二公最佳",
@@ -385,14 +393,6 @@
       "onboard_time": 1685162729,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 512529,
-      "num": 1194849,
-      "word": "保洁阿姨为护女孩用身体挡住大狗",
-      "onboard_time": 1685176648,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 509438,
@@ -467,6 +467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 476213,
+      "num": 476213,
+      "word": "香港公民党宣布解散",
+      "onboard_time": 1685181209,
+      "rank": 16,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 473468,
       "num": 243342,
       "word": "何丹彤回应被抢劫",
@@ -492,11 +500,19 @@
     },
     {
       "raw_hot": 465159,
-      "num": 966548,
+      "num": 987603,
       "word": "班主任带双胞胎走廊写作业陪学生备战高考",
       "onboard_time": 1685175568,
       "rank": 28,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 464184,
+      "num": 464184,
+      "word": "五月天鸟巢演唱会",
+      "onboard_time": 1685181628,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 445509,
@@ -539,14 +555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 419673,
-      "num": 419673,
-      "word": "五月天鸟巢演唱会",
-      "onboard_time": 1685181628,
-      "rank": 15,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 419300,
       "num": 419300,
       "word": "宝鸡一高中校长在教育局办公室被打",
@@ -577,14 +585,6 @@
       "onboard_time": 1685117068,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 402731,
-      "num": 402731,
-      "word": "香港公民党宣布解散",
-      "onboard_time": 1685181209,
-      "rank": 16,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 402117,
@@ -676,7 +676,7 @@
     },
     {
       "raw_hot": 359049,
-      "num": 239388,
+      "num": 243027,
       "word": "妻子偏瘫丈夫26次提出离婚",
       "onboard_time": 1685176408,
       "rank": 45,
@@ -793,6 +793,14 @@
       "onboard_time": 1685177609,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 291365,
+      "num": 291365,
+      "word": "我在惊悚游戏里封神",
+      "onboard_time": 1685181027,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 289274,
@@ -987,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245127,
+      "num": 245127,
+      "word": "锁爱三生 好土好土好好看",
+      "onboard_time": 1685180007,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244844,
       "num": 228052,
       "word": "徐明浩脱衣服干活",
@@ -1027,14 +1043,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 238983,
-      "num": 238983,
-      "word": "我在惊悚游戏里封神",
-      "onboard_time": 1685181027,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 238480,
       "num": 238480,
       "word": "WBG官宣Weiwei加入",
@@ -1059,12 +1067,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 227406,
-      "num": 227406,
-      "word": "锁爱三生 好土好土好好看",
-      "onboard_time": 1685180007,
-      "rank": 25,
-      "category": "影视"
+      "raw_hot": 224294,
+      "num": 224294,
+      "word": "LOL亚运征途不派出现役选手",
+      "onboard_time": 1685181867,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 222478,
@@ -1235,6 +1243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 193091,
+      "num": 193091,
+      "word": "奶茶店回应杯子压容量",
+      "onboard_time": 1685181388,
+      "rank": 33,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 192029,
       "num": 192029,
       "word": "张嘉倪剪影身材",
@@ -1289,6 +1305,14 @@
       "onboard_time": 1685152888,
       "rank": 38,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 181103,
+      "num": 181103,
+      "word": "锁爱三生",
+      "onboard_time": 1685181929,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 180842,
@@ -1355,14 +1379,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 165267,
-      "num": 165267,
-      "word": "锁爱三生",
-      "onboard_time": 1685181929,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 163906,
       "num": 135096,
       "word": "白玉兰",
@@ -1419,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160221,
+      "num": 160221,
+      "word": "李玉刚 你们销量不好是有原因的",
+      "onboard_time": 1685183307,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159443,
       "num": 148980,
       "word": "Amber谢欣把所有姐姐舞台编一起拉票",
@@ -1433,6 +1457,14 @@
       "onboard_time": 1685163088,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158041,
+      "num": 158041,
+      "word": "这个毕设也太高级了",
+      "onboard_time": 1685182768,
+      "rank": 35,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 157052,
@@ -1459,14 +1491,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 154807,
-      "num": 154807,
-      "word": "奶茶店回应杯子压容量",
-      "onboard_time": 1685181388,
-      "rank": 33,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 150991,
       "num": 150991,
       "word": "Karma MV",
@@ -1489,14 +1513,6 @@
       "onboard_time": 1685174130,
       "rank": 27,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 146941,
-      "num": 146941,
-      "word": "LOL亚运征途不派出现役选手",
-      "onboard_time": 1685181867,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 145106,
@@ -1529,6 +1545,14 @@
       "onboard_time": 1685174908,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 133875,
+      "num": 133875,
+      "word": "少年白马醉春风",
+      "onboard_time": 1685183307,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 133100,
@@ -1609,6 +1633,14 @@
       "onboard_time": 1685104110,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 120612,
+      "num": 120612,
+      "word": "南方的蚊子有多毒",
+      "onboard_time": 1685181027,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 120109,
@@ -1707,20 +1739,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110404,
+      "num": 110404,
+      "word": "唐朝真的很强吗",
+      "onboard_time": 1685182468,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 108622,
       "num": 335916,
       "word": "折叠男孩首次手术效果超预期",
       "onboard_time": 1685171128,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 107076,
-      "num": 107076,
-      "word": "南方的蚊子有多毒",
-      "onboard_time": 1685181027,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 104945,
@@ -1763,14 +1795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88897,
-      "num": 88897,
-      "word": "唐朝真的很强吗",
-      "onboard_time": 1685182468,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 87970,
       "num": 186991,
       "word": "男教师多次性侵13岁女孩获刑18年",
@@ -1796,7 +1820,7 @@
     },
     {
       "raw_hot": 73523,
-      "num": 442298,
+      "num": 480610,
       "word": "高叶说走到戛纳像做梦",
       "onboard_time": 1685181628,
       "rank": 14,
