@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1685214757398,
+  "endTime": 1685216007261,
   "band_list": [
     {
       "raw_hot": 4241479,
@@ -13891,6 +13891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76079,
+      "num": 76079,
+      "word": "戛纳电影节",
+      "onboard_time": 1685213355,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 75513,
       "num": 94565,
       "word": "青岛警察当街飞扑抓捕电信诈骗犯",
@@ -13905,14 +13913,6 @@
       "onboard_time": 1684948937,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 75271,
-      "num": 75271,
-      "word": "戛纳电影节",
-      "onboard_time": 1685213355,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 75233,
@@ -14505,6 +14505,14 @@
       "onboard_time": 1684719388,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 24654,
+      "num": 27386,
+      "word": "BLACKPINK曼谷演唱会饭拍",
+      "onboard_time": 1685215513,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 23678,
