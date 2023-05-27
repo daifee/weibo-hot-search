@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685162013009,
+  "endTime": 1685164511037,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -4227,6 +4227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1467443,
+      "num": 1467443,
+      "word": "4位二阳患者自述感染经历",
+      "onboard_time": 1685160088,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1467422,
       "num": 1427117,
       "word": "庄达菲古装",
@@ -8059,6 +8067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 955792,
+      "num": 955792,
+      "word": "韩国人对花花的评价",
+      "onboard_time": 1685155347,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 955636,
       "num": 736019,
       "word": "厦门",
@@ -8073,14 +8089,6 @@
       "onboard_time": 1684818154,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 954993,
-      "num": 954993,
-      "word": "韩国人对花花的评价",
-      "onboard_time": 1685155347,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 954561,
@@ -9260,7 +9268,7 @@
     },
     {
       "raw_hot": 838588,
-      "num": 299376,
+      "num": 345299,
       "word": "遇到一米八三的不要去要微信",
       "onboard_time": 1685157988,
       "rank": 30,
@@ -9304,6 +9312,14 @@
       "word": "乃万单手脱上衣",
       "onboard_time": 1682896642,
       "rank": 19,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 834575,
+      "num": 834575,
+      "word": "鹿晗 抢票",
+      "onboard_time": 1685156368,
+      "rank": 23,
       "category": "音乐"
     },
     {
@@ -9785,14 +9801,6 @@
       "onboard_time": 1684454969,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 797111,
-      "num": 797111,
-      "word": "鹿晗 抢票",
-      "onboard_time": 1685156368,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 796097,
@@ -12955,6 +12963,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 590278,
+      "num": 590278,
+      "word": "Amber谢欣第一",
+      "onboard_time": 1685162789,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 590248,
       "num": 590248,
       "word": "家长 头一次跟孩子这么生疏",
@@ -13505,14 +13521,6 @@
       "onboard_time": 1683557133,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 571478,
-      "num": 474779,
-      "word": "4位二阳患者自述感染经历",
-      "onboard_time": 1685160088,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 571236,
@@ -15027,6 +15035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 516805,
+      "num": 339671,
+      "word": "伴娘为什么一定要未婚才行",
+      "onboard_time": 1685162729,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 516652,
       "num": 393056,
       "word": "肖战庄达菲版射雕为何值得期待",
@@ -16116,7 +16132,7 @@
     },
     {
       "raw_hot": 481823,
-      "num": 291372,
+      "num": 443063,
       "word": "永久关闭6万多个自媒体账号",
       "onboard_time": 1685154869,
       "rank": 26,
@@ -17723,6 +17739,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 444857,
+      "num": 444857,
+      "word": "迷迭香二公最佳",
+      "onboard_time": 1685163690,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 444619,
       "num": 444619,
       "word": "官方回应博物馆馆长被区长推倒闭馆",
@@ -18483,6 +18507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 428879,
+      "num": 428879,
+      "word": "河北一派出所发生爆炸致4死2失联",
+      "onboard_time": 1685160628,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428704,
       "num": 286936,
       "word": "而我只能去上班",
@@ -18801,6 +18833,14 @@
       "onboard_time": 1684471055,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 423151,
+      "num": 423151,
+      "word": "孙笑川吧吧主获得百度贴吧优秀吧主奖",
+      "onboard_time": 1685162068,
+      "rank": 13,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 423055,
@@ -20419,6 +20459,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 394092,
+      "num": 394092,
+      "word": "内娱影圈四子",
+      "onboard_time": 1685162368,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 393928,
       "num": 219821,
       "word": "陶勇医生 手术刀在我心里从未放下",
@@ -21529,6 +21577,14 @@
       "onboard_time": 1684712604,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 375833,
+      "num": 375833,
+      "word": "塞尔维亚",
+      "onboard_time": 1685163030,
+      "rank": 17,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 375682,
@@ -30555,6 +30611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 267262,
+      "num": 267262,
+      "word": "王一博书包上系丝巾",
+      "onboard_time": 1685162068,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267209,
       "num": 267209,
       "word": "虞书欣骑龙vs周也骑龙",
@@ -31481,6 +31545,14 @@
       "onboard_time": 1683610888,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259028,
+      "num": 259028,
+      "word": "三分野加更",
+      "onboard_time": 1685161768,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 258934,
@@ -32673,6 +32745,14 @@
       "onboard_time": 1682904750,
       "rank": 22,
       "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 249818,
+      "num": 249818,
+      "word": "芝芙空中吊环倒立出场",
+      "onboard_time": 1685163748,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 249817,
@@ -38475,14 +38555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 210188,
-      "num": 210188,
-      "word": "河北一派出所发生爆炸致4死2失联",
-      "onboard_time": 1685160628,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210144,
       "num": 210144,
       "word": "五月天北京演唱会二次开票",
@@ -40851,14 +40923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195489,
-      "num": 195489,
-      "word": "三分野加更",
-      "onboard_time": 1685161768,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 195454,
       "num": 195454,
       "word": "爸爸当家",
@@ -41497,6 +41561,14 @@
       "onboard_time": 1683603087,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192029,
+      "num": 192029,
+      "word": "张嘉倪剪影身材",
+      "onboard_time": 1685161108,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 191968,
@@ -43009,14 +43081,6 @@
       "onboard_time": 1684891231,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183540,
-      "num": 183540,
-      "word": "张嘉倪剪影身材",
-      "onboard_time": 1685161108,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 183495,
@@ -44881,6 +44945,14 @@
       "onboard_time": 1683788548,
       "rank": 44,
       "category": "科技"
+    },
+    {
+      "raw_hot": 173790,
+      "num": 173790,
+      "word": "林娜琏看到恶评的反应",
+      "onboard_time": 1685162848,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 173753,
@@ -47219,6 +47291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158503,
+      "num": 158503,
+      "word": "没有黑眼圈的大熊猫啥样",
+      "onboard_time": 1685163088,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158466,
       "num": 158466,
       "word": "天津的猪热中暑了",
@@ -48441,6 +48521,14 @@
       "onboard_time": 1683874467,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150991,
+      "num": 150991,
+      "word": "Karma MV",
+      "onboard_time": 1685162068,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 150983,
@@ -52075,6 +52163,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 122568,
+      "num": 122568,
+      "word": "张学友周杰伦逃犯克星",
+      "onboard_time": 1685163988,
+      "rank": 47,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 122555,
       "num": 122555,
       "word": "柳智敏贝雷帽造型直拍",
@@ -52817,6 +52913,14 @@
       "onboard_time": 1684543827,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115010,
+      "num": 115010,
+      "word": "2850元拍下价值8万茅台后续",
+      "onboard_time": 1685164165,
+      "rank": 48,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 114877,
@@ -56905,6 +57009,14 @@
       "onboard_time": 1683222135,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 32148,
+      "num": 976494,
+      "word": "看夏收画卷在祖国各地徐徐展开",
+      "onboard_time": 1685162909,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31333,
