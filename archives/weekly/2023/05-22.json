@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1685164511037,
+  "endTime": 1685165619408,
   "band_list": [
     {
       "raw_hot": 4241479,
@@ -659,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1590503,
+      "num": 1590503,
+      "word": "4位二阳患者自述感染经历",
+      "onboard_time": 1685160088,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1584994,
       "num": 1584994,
       "word": "兰州大学",
@@ -777,14 +785,6 @@
       "onboard_time": 1684995329,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1467443,
-      "num": 1467443,
-      "word": "4位二阳患者自述感染经历",
-      "onboard_time": 1685160088,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1461131,
@@ -1033,6 +1033,14 @@
       "onboard_time": 1684840351,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1301075,
+      "num": 1301075,
+      "word": "韩国人对花花的评价",
+      "onboard_time": 1685155347,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 1287644,
@@ -1699,14 +1707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 955792,
-      "num": 955792,
-      "word": "韩国人对花花的评价",
-      "onboard_time": 1685155347,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 955636,
       "num": 736019,
       "word": "厦门",
@@ -2259,6 +2259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 741955,
+      "num": 741955,
+      "word": "塞尔维亚",
+      "onboard_time": 1685163030,
+      "rank": 17,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 740395,
       "num": 740395,
       "word": "国泰航空暂停有关空服员飞行任务",
@@ -2747,6 +2755,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 601701,
+      "num": 601701,
+      "word": "Amber谢欣第一",
+      "onboard_time": 1685162789,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 600570,
       "num": 600570,
       "word": "浓眉",
@@ -2793,14 +2809,6 @@
       "onboard_time": 1684824389,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 590278,
-      "num": 590278,
-      "word": "Amber谢欣第一",
-      "onboard_time": 1685162789,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 589272,
@@ -3051,6 +3059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 551327,
+      "num": 551327,
+      "word": "徐怀钰眼里有光了",
+      "onboard_time": 1685165068,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 551315,
       "num": 551315,
       "word": "薛之谦演唱会",
@@ -3099,11 +3115,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 542866,
+      "num": 542866,
+      "word": "内娱影圈四子",
+      "onboard_time": 1685162368,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 540591,
       "num": 455219,
       "word": "对秋瓷炫一辈子好",
       "onboard_time": 1685083591,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 535515,
+      "num": 535515,
+      "word": "迷迭香二公最佳",
+      "onboard_time": 1685163690,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -3336,6 +3368,14 @@
       "word": "奔跑吧这回真的有剧本",
       "onboard_time": 1685102668,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 504534,
+      "num": 504534,
+      "word": "陈意涵大哭",
+      "onboard_time": 1685164526,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -3865,14 +3905,6 @@
       "onboard_time": 1684896749,
       "rank": 17,
       "category": "财经"
-    },
-    {
-      "raw_hot": 444857,
-      "num": 444857,
-      "word": "迷迭香二公最佳",
-      "onboard_time": 1685163690,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 443780,
@@ -4475,14 +4507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 394092,
-      "num": 394092,
-      "word": "内娱影圈四子",
-      "onboard_time": 1685162368,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 392458,
       "num": 343578,
       "word": "北京和上海真的很不一样",
@@ -4729,14 +4753,6 @@
       "onboard_time": 1684712604,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 375833,
-      "num": 375833,
-      "word": "塞尔维亚",
-      "onboard_time": 1685163030,
-      "rank": 17,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 375552,
@@ -7115,6 +7131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259811,
+      "num": 259811,
+      "word": "从头",
+      "onboard_time": 1685165008,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 259633,
       "num": 259633,
       "word": "许嵩 天津",
@@ -7355,6 +7379,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252465,
+      "num": 252465,
+      "word": "关晓彤酒蒙子",
+      "onboard_time": 1685164946,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 251695,
+      "num": 251695,
+      "word": "芝芙空中吊环倒立出场",
+      "onboard_time": 1685163748,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251531,
       "num": 251531,
       "word": "成都半月内4人误食这种野菜中毒",
@@ -7393,14 +7433,6 @@
       "onboard_time": 1684939233,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 249818,
-      "num": 249818,
-      "word": "芝芙空中吊环倒立出场",
-      "onboard_time": 1685163748,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 249817,
@@ -8096,6 +8128,14 @@
       "word": "陆虎购物清单里都是嘘嘘",
       "onboard_time": 1684909950,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 230975,
+      "num": 184035,
+      "word": "汪小敏 淘汰",
+      "onboard_time": 1685164588,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -8899,6 +8939,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 204825,
+      "num": 178699,
+      "word": "全员加速中",
+      "onboard_time": 1685162789,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204618,
       "num": 204618,
       "word": "泡沫中的龚俊",
@@ -9505,6 +9553,14 @@
       "onboard_time": 1684909588,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191393,
+      "num": 179896,
+      "word": "2850元拍下价值8万茅台后续",
+      "onboard_time": 1685164165,
+      "rank": 48,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 190826,
@@ -10515,14 +10571,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 164502,
-      "num": 164502,
-      "word": "全员加速中",
-      "onboard_time": 1685162789,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 163906,
       "num": 135096,
       "word": "白玉兰",
@@ -10721,6 +10769,14 @@
       "onboard_time": 1684747711,
       "rank": 38,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 159443,
+      "num": 148980,
+      "word": "Amber谢欣把所有姐姐舞台编一起拉票",
+      "onboard_time": 1685165488,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 159190,
@@ -11209,6 +11265,14 @@
       "onboard_time": 1684811009,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145551,
+      "num": 145551,
+      "word": "萌兰舅舅的电动马达臀已炼成",
+      "onboard_time": 1685164707,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145493,
@@ -11883,14 +11947,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 115010,
-      "num": 115010,
-      "word": "2850元拍下价值8万茅台后续",
-      "onboard_time": 1685164165,
-      "rank": 48,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 114877,
       "num": 114877,
       "word": "民警忍蚊虫叮咬蹲守24小时缴毒36千克",
@@ -12056,6 +12112,14 @@
       "word": "小学老师半年写百封表扬信鼓励学生",
       "onboard_time": 1684685367,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105382,
+      "num": 123324,
+      "word": "大熊猫丫丫即将结束隔离",
+      "onboard_time": 1685165488,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -12739,6 +12803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41455,
+      "num": 976494,
+      "word": "看夏收画卷在祖国各地徐徐展开",
+      "onboard_time": 1685162909,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41151,
       "num": 809070,
       "word": "现在进入神舟十六号时间",
@@ -12809,14 +12881,6 @@
       "onboard_time": 1685129473,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 32148,
-      "num": 976494,
-      "word": "看夏收画卷在祖国各地徐徐展开",
-      "onboard_time": 1685162909,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29942,
@@ -13044,6 +13108,9 @@
     },
     {
       "word": "#中国刚果金关系提升#"
+    },
+    {
+      "word": "#中国刚果金全面战略合作伙伴关系#"
     }
   ]
 }

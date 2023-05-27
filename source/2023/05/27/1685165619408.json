@@ -1,0 +1,410 @@
+{
+  "runTime": 1685165619408,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1590503,
+        "num": 1590503,
+        "word": "4位二阳患者自述感染经历",
+        "onboard_time": 1685160088,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1301075,
+        "num": 1301075,
+        "word": "韩国人对花花的评价",
+        "onboard_time": 1685155347,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41455,
+        "num": 952512,
+        "word": "看夏收画卷在祖国各地徐徐展开",
+        "onboard_time": 1685162909,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 921045,
+        "num": 921045,
+        "word": "秋瓷炫南韩酒鬼人设",
+        "onboard_time": 1685155830,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 741955,
+        "num": 741955,
+        "word": "塞尔维亚",
+        "onboard_time": 1685163030,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 678623,
+        "num": 678623,
+        "word": "一千多赞的朋友圈原来长这样",
+        "onboard_time": 1685145024,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 641347,
+        "num": 641347,
+        "word": "鹿晗 抢票",
+        "onboard_time": 1685156368,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 601701,
+        "num": 601701,
+        "word": "Amber谢欣第一",
+        "onboard_time": 1685162789,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 591097,
+        "num": 591097,
+        "word": "逃犯去看周杰伦演唱会路上被抓",
+        "onboard_time": 1685152167,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 551327,
+        "num": 551327,
+        "word": "徐怀钰眼里有光了",
+        "onboard_time": 1685165068,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 542866,
+        "num": 542866,
+        "word": "内娱影圈四子",
+        "onboard_time": 1685162368,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 535515,
+        "num": 535515,
+        "word": "迷迭香二公最佳",
+        "onboard_time": 1685163690,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 504534,
+        "num": 504534,
+        "word": "陈意涵大哭",
+        "onboard_time": 1685164526,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415282,
+        "num": 415282,
+        "word": "古人吃剩的螺蛳壳堆成一座山",
+        "onboard_time": 1685147369,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403465,
+        "num": 403465,
+        "word": "孙笑川吧吧主获得百度贴吧优秀吧主奖",
+        "onboard_time": 1685162068,
+        "rank": 14,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 397115,
+        "num": 397115,
+        "word": "河北一派出所发生爆炸致4死2失联",
+        "onboard_time": 1685160628,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393157,
+        "num": 393157,
+        "word": "张凌赫好惨一男的",
+        "onboard_time": 1685151270,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375279,
+        "num": 375279,
+        "word": "美依礼芽的坐姿",
+        "onboard_time": 1685145986,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 369513,
+        "num": 369513,
+        "word": "永久关闭6万多个自媒体账号",
+        "onboard_time": 1685154869,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338453,
+        "num": 338453,
+        "word": "一个舞BLACKPINK跳出了四种感觉",
+        "onboard_time": 1685157569,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 657094,
+        "num": 322841,
+        "word": "遇到一米八三的不要去要微信",
+        "onboard_time": 1685157988,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 383825,
+        "num": 311508,
+        "word": "伴娘为什么一定要未婚才行",
+        "onboard_time": 1685162729,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 295359,
+        "num": 295359,
+        "word": "王一博青岛",
+        "onboard_time": 1685158887,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259811,
+        "num": 259811,
+        "word": "从头",
+        "onboard_time": 1685165008,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216189,
+        "num": 258869,
+        "word": "椰树 不带货纯擦",
+        "onboard_time": 1685120782,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258024,
+        "num": 258024,
+        "word": "王一博书包上系丝巾",
+        "onboard_time": 1685162068,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252465,
+        "num": 252465,
+        "word": "关晓彤酒蒙子",
+        "onboard_time": 1685164946,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251695,
+        "num": 251695,
+        "word": "芝芙空中吊环倒立出场",
+        "onboard_time": 1685163748,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200773,
+        "num": 200773,
+        "word": "哥哥嫌给妹妹起的名字土崩溃大哭",
+        "onboard_time": 1685157748,
+        "rank": 28,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 186949,
+        "num": 186949,
+        "word": "为啥年轻人不换新手机了",
+        "onboard_time": 1685147909,
+        "rank": 29,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 241931,
+        "num": 185944,
+        "word": "张杰南京",
+        "onboard_time": 1685161768,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 238827,
+        "num": 184562,
+        "word": "三分野加更",
+        "onboard_time": 1685161768,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230975,
+        "num": 184035,
+        "word": "汪小敏 淘汰",
+        "onboard_time": 1685164588,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206434,
+        "num": 182163,
+        "word": "五月天又放票了",
+        "onboard_time": 1685149708,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191393,
+        "num": 179896,
+        "word": "2850元拍下价值8万茅台后续",
+        "onboard_time": 1685164165,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 204825,
+        "num": 178699,
+        "word": "全员加速中",
+        "onboard_time": 1685162789,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178465,
+        "num": 178465,
+        "word": "真的建议不要买开口的榴莲",
+        "onboard_time": 1685154569,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162629,
+        "num": 162629,
+        "word": "长沙一家五口命案邻居发声",
+        "onboard_time": 1685149529,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159685,
+        "num": 159685,
+        "word": "星卡里",
+        "onboard_time": 1685161588,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 152809,
+        "num": 152809,
+        "word": "大学生掏鸟案当事人已出狱",
+        "onboard_time": 1685152527,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178910,
+        "num": 150675,
+        "word": "迪丽热巴公诉时尚大片",
+        "onboard_time": 1685158947,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161819,
+        "num": 149908,
+        "word": "张嘉倪剪影身材",
+        "onboard_time": 1685161108,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159443,
+        "num": 148980,
+        "word": "Amber谢欣把所有姐姐舞台编一起拉票",
+        "onboard_time": 1685165488,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148028,
+        "num": 148028,
+        "word": "浪姐二公",
+        "onboard_time": 1685161407,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145551,
+        "num": 145551,
+        "word": "萌兰舅舅的电动马达臀已炼成",
+        "onboard_time": 1685164707,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141908,
+        "num": 141908,
+        "word": "男子租房7年将家变成人生博物馆",
+        "onboard_time": 1685155287,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126015,
+        "num": 126015,
+        "word": "林娜琏看到恶评的反应",
+        "onboard_time": 1685162848,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124758,
+        "num": 124758,
+        "word": "这跟坐在白敬亭怀里有什么区别",
+        "onboard_time": 1685150910,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 123448,
+        "num": 123448,
+        "word": "恋爱中很多人的忠诚都是演的",
+        "onboard_time": 1685153307,
+        "rank": 48,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 105382,
+        "num": 123324,
+        "word": "大熊猫丫丫即将结束隔离",
+        "onboard_time": 1685165488,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国刚果金全面战略合作伙伴关系#"
+    }
+  }
+}

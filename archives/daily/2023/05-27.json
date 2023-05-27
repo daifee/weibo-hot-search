@@ -1,6 +1,6 @@
 {
   "startTime": 1685118110147,
-  "endTime": 1685164511037,
+  "endTime": 1685165619408,
   "band_list": [
     {
       "raw_hot": 2327527,
@@ -19,8 +19,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1467443,
-      "num": 1467443,
+      "raw_hot": 1590503,
+      "num": 1590503,
       "word": "4位二阳患者自述感染经历",
       "onboard_time": 1685160088,
       "rank": 19,
@@ -33,6 +33,14 @@
       "onboard_time": 1685110894,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1301075,
+      "num": 1301075,
+      "word": "韩国人对花花的评价",
+      "onboard_time": 1685155347,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 1215951,
@@ -73,14 +81,6 @@
       "onboard_time": 1685118447,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 955792,
-      "num": 955792,
-      "word": "韩国人对花花的评价",
-      "onboard_time": 1685155347,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 935484,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 741955,
+      "num": 741955,
+      "word": "塞尔维亚",
+      "onboard_time": 1685163030,
+      "rank": 17,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 729752,
       "num": 103210,
       "word": "大姨被亲人们吃掉了",
@@ -203,8 +211,8 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 590278,
-      "num": 590278,
+      "raw_hot": 601701,
+      "num": 601701,
       "word": "Amber谢欣第一",
       "onboard_time": 1685162789,
       "rank": 8,
@@ -235,6 +243,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 551327,
+      "num": 551327,
+      "word": "徐怀钰眼里有光了",
+      "onboard_time": 1685165068,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 542866,
+      "num": 542866,
+      "word": "内娱影圈四子",
+      "onboard_time": 1685162368,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 535515,
+      "num": 535515,
+      "word": "迷迭香二公最佳",
+      "onboard_time": 1685163690,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 524072,
       "num": 524072,
       "word": "美依礼芽的坐姿",
@@ -257,6 +289,14 @@
       "onboard_time": 1685116291,
       "rank": 30,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 504534,
+      "num": 504534,
+      "word": "陈意涵大哭",
+      "onboard_time": 1685164526,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 501616,
@@ -313,14 +353,6 @@
       "onboard_time": 1685144122,
       "rank": 6,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 444857,
-      "num": 444857,
-      "word": "迷迭香二公最佳",
-      "onboard_time": 1685163690,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 428879,
@@ -403,14 +435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 394092,
-      "num": 394092,
-      "word": "内娱影圈四子",
-      "onboard_time": 1685162368,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 389884,
       "num": 389884,
       "word": "迪丽热巴公诉时尚大片",
@@ -433,14 +457,6 @@
       "onboard_time": 1685147188,
       "rank": 12,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 375833,
-      "num": 375833,
-      "word": "塞尔维亚",
-      "onboard_time": 1685163030,
-      "rank": 17,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 356158,
@@ -643,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259811,
+      "num": 259811,
+      "word": "从头",
+      "onboard_time": 1685165008,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 259028,
       "num": 259028,
       "word": "三分野加更",
@@ -659,8 +683,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 249818,
-      "num": 249818,
+      "raw_hot": 252465,
+      "num": 252465,
+      "word": "关晓彤酒蒙子",
+      "onboard_time": 1685164946,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 251695,
+      "num": 251695,
       "word": "芝芙空中吊环倒立出场",
       "onboard_time": 1685163748,
       "rank": 27,
@@ -697,6 +729,14 @@
       "onboard_time": 1685144664,
       "rank": 24,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 230975,
+      "num": 184035,
+      "word": "汪小敏 淘汰",
+      "onboard_time": 1685164588,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 230778,
@@ -737,6 +777,14 @@
       "onboard_time": 1685159548,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204825,
+      "num": 178699,
+      "word": "全员加速中",
+      "onboard_time": 1685162789,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 204087,
@@ -843,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191393,
+      "num": 179896,
+      "word": "2850元拍下价值8万茅台后续",
+      "onboard_time": 1685164165,
+      "rank": 48,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 191366,
       "num": 191366,
       "word": "五月天",
@@ -915,14 +971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164502,
-      "num": 164502,
-      "word": "全员加速中",
-      "onboard_time": 1685162789,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 163906,
       "num": 135096,
       "word": "白玉兰",
@@ -963,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159443,
+      "num": 148980,
+      "word": "Amber谢欣把所有姐姐舞台编一起拉票",
+      "onboard_time": 1685165488,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158503,
       "num": 158503,
       "word": "没有黑眼圈的大熊猫啥样",
@@ -1000,6 +1056,14 @@
       "word": "外卖小哥送餐时发现罂粟后报警",
       "onboard_time": 1685154688,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145551,
+      "num": 145551,
+      "word": "萌兰舅舅的电动马达臀已炼成",
+      "onboard_time": 1685164707,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1123,14 +1187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115010,
-      "num": 115010,
-      "word": "2850元拍下价值8万茅台后续",
-      "onboard_time": 1685164165,
-      "rank": 48,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 114710,
       "num": 114710,
       "word": "布袋院士小跑离开只为给学生上课",
@@ -1153,6 +1209,14 @@
       "onboard_time": 1685143339,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105382,
+      "num": 123324,
+      "word": "大熊猫丫丫即将结束隔离",
+      "onboard_time": 1685165488,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104945,
@@ -1275,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41455,
+      "num": 976494,
+      "word": "看夏收画卷在祖国各地徐徐展开",
+      "onboard_time": 1685162909,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35036,
       "num": 35036,
       "word": "樊振东王楚钦男双晋级四强",
@@ -1299,14 +1371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 32148,
-      "num": 976494,
-      "word": "看夏收画卷在祖国各地徐徐展开",
-      "onboard_time": 1685162909,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 29209,
       "num": 47652,
       "word": "后浪",
@@ -1329,6 +1393,9 @@
     },
     {
       "word": "#关注2023中关村论坛#"
+    },
+    {
+      "word": "#中国刚果金全面战略合作伙伴关系#"
     }
   ]
 }
