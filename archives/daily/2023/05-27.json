@@ -1,6 +1,6 @@
 {
   "startTime": 1685118110147,
-  "endTime": 1685155353883,
+  "endTime": 1685157438226,
   "band_list": [
     {
       "raw_hot": 2327527,
@@ -19,6 +19,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1418776,
+      "num": 1418776,
+      "word": "逃犯去看周杰伦演唱会路上被抓",
+      "onboard_time": 1685152167,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1215951,
       "num": 1215951,
       "word": "江西一对表兄妹结婚10年育1子",
@@ -33,14 +41,6 @@
       "onboard_time": 1685115273,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1125670,
-      "num": 1125670,
-      "word": "逃犯去看周杰伦演唱会路上被抓",
-      "onboard_time": 1685152167,
-      "rank": 1,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1009885,
@@ -139,20 +139,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 613627,
+      "num": 613627,
+      "word": "大学生掏鸟案当事人已出狱",
+      "onboard_time": 1685152527,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 609868,
       "num": 609868,
       "word": "何丹彤巴黎被抢劫",
       "onboard_time": 1685109929,
       "rank": 6,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 599356,
-      "num": 599356,
-      "word": "大学生掏鸟案当事人已出狱",
-      "onboard_time": 1685152527,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 573743,
@@ -171,12 +171,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 560244,
+      "num": 560244,
+      "word": "秋瓷炫南韩酒鬼人设",
+      "onboard_time": 1685155830,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 524072,
+      "num": 524072,
+      "word": "美依礼芽的坐姿",
+      "onboard_time": 1685145986,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 508030,
       "num": 258966,
       "word": "塞尔维亚总统下令军队进入最高战备状态",
       "onboard_time": 1685116291,
       "rank": 30,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 503409,
+      "num": 503409,
+      "word": "韩国人对花花的评价",
+      "onboard_time": 1685155347,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 501616,
@@ -203,14 +227,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 477941,
-      "num": 477941,
-      "word": "美依礼芽的坐姿",
-      "onboard_time": 1685145986,
-      "rank": 7,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 473468,
       "num": 243342,
       "word": "何丹彤回应被抢劫",
@@ -227,12 +243,28 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 457484,
+      "num": 210724,
+      "word": "永久关闭6万多个自媒体账号",
+      "onboard_time": 1685154869,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 426045,
       "num": 231516,
       "word": "原来王诗龄最苦的时间是录爸爸去哪儿",
       "onboard_time": 1685154149,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 413393,
+      "num": 413393,
+      "word": "这跟坐在白敬亭怀里有什么区别",
+      "onboard_time": 1685150910,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 411060,
@@ -267,6 +299,22 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 398696,
+      "num": 398696,
+      "word": "男子租房7年将家变成人生博物馆",
+      "onboard_time": 1685155287,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384846,
+      "num": 229877,
+      "word": "真的建议不要买开口的榴莲",
+      "onboard_time": 1685154569,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 376288,
       "num": 376288,
       "word": "连把五月天文身上的人都没抢到票",
@@ -281,6 +329,14 @@
       "onboard_time": 1685091271,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 352164,
+      "num": 352164,
+      "word": "恋爱中很多人的忠诚都是演的",
+      "onboard_time": 1685153307,
+      "rank": 18,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 347997,
@@ -305,14 +361,6 @@
       "onboard_time": 1685142137,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 341829,
-      "num": 341829,
-      "word": "这跟坐在白敬亭怀里有什么区别",
-      "onboard_time": 1685150910,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 332770,
@@ -347,12 +395,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 290268,
-      "num": 229877,
-      "word": "真的建议不要买开口的榴莲",
-      "onboard_time": 1685154569,
-      "rank": 24,
-      "category": "幽默"
+      "raw_hot": 289354,
+      "num": 187376,
+      "word": "鹿晗 抢票",
+      "onboard_time": 1685156368,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 289274,
@@ -369,14 +417,6 @@
       "onboard_time": 1685145806,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 281563,
-      "num": 281563,
-      "word": "恋爱中很多人的忠诚都是演的",
-      "onboard_time": 1685153307,
-      "rank": 18,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 280810,
@@ -483,6 +523,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 232512,
+      "num": 163033,
+      "word": "秦霄贤坐轮椅录制好六",
+      "onboard_time": 1685156847,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230778,
       "num": 230778,
       "word": "难怪吴磊说侯明昊好看",
@@ -513,14 +561,6 @@
       "onboard_time": 1685115812,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210724,
-      "num": 210724,
-      "word": "永久关闭6万多个自媒体账号",
-      "onboard_time": 1685154869,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204087,
@@ -619,8 +659,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 184062,
-      "num": 184062,
+      "raw_hot": 184485,
+      "num": 184485,
       "word": "上班之后最大的感受 收窄了",
       "onboard_time": 1685152888,
       "rank": 38,
@@ -691,6 +731,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160352,
+      "num": 160352,
+      "word": "成毅蔡徐坤今日微博开屏",
+      "onboard_time": 1685157151,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 157333,
+      "num": 157333,
+      "word": "孕妇地铁站内流血民警暖心守候",
+      "onboard_time": 1685156847,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156842,
       "num": 156842,
       "word": "熊梓淇五月天演唱会含泪喊到沙哑",
@@ -721,14 +777,6 @@
       "onboard_time": 1685147788,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 130546,
-      "num": 130546,
-      "word": "男子租房7年将家变成人生博物馆",
-      "onboard_time": 1685155287,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130131,
@@ -779,14 +827,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 121270,
-      "num": 121270,
-      "word": "韩国人对花花的评价",
-      "onboard_time": 1685155347,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 120109,
       "num": 120109,
       "word": "五月天演唱会嘉宾",
@@ -825,6 +865,14 @@
       "onboard_time": 1685151568,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114710,
+      "num": 114710,
+      "word": "布袋院士小跑离开只为给学生上课",
+      "onboard_time": 1685157088,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 113370,
@@ -996,7 +1044,7 @@
     },
     {
       "raw_hot": 17684,
-      "num": 916354,
+      "num": 1046995,
       "word": "探馆中关村论坛展览领略前沿科技魅力",
       "onboard_time": 1685107529,
       "rank": 2,
