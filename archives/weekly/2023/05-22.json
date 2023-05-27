@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1685172817020,
+  "endTime": 1685175571501,
   "band_list": [
     {
       "raw_hot": 4241479,
@@ -193,6 +193,14 @@
       "onboard_time": 1684738347,
       "rank": 4,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2580452,
+      "num": 2580452,
+      "word": "肖战杨紫 天骄",
+      "onboard_time": 1685173586,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2568914,
@@ -1121,6 +1129,14 @@
       "onboard_time": 1684759347,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1248704,
+      "num": 1248704,
+      "word": "重庆市在TikTok上成功出圈",
+      "onboard_time": 1685171907,
+      "rank": 30,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 1246136,
@@ -2963,6 +2979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 576399,
+      "num": 576399,
+      "word": "小孩学动画片撑伞从26楼跳下",
+      "onboard_time": 1685173527,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 575734,
       "num": 319351,
       "word": "王一博刘浩存同框照",
@@ -3924,7 +3948,7 @@
     },
     {
       "raw_hot": 445509,
-      "num": 381636,
+      "num": 396909,
       "word": "韩庚是卢靖姗组舞台顾问",
       "onboard_time": 1685169270,
       "rank": 24,
@@ -4251,6 +4275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 419300,
+      "num": 419300,
+      "word": "宝鸡一高中校长在教育局办公室被打",
+      "onboard_time": 1685170289,
+      "rank": 27,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 418459,
       "num": 233758,
       "word": "邓超 显眼包",
@@ -4345,6 +4377,14 @@
       "onboard_time": 1684913492,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408179,
+      "num": 408179,
+      "word": "过了三十岁就必须要结婚吗",
+      "onboard_time": 1685172566,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 407859,
@@ -4659,6 +4699,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 386202,
+      "num": 386202,
+      "word": "陆虎首次公开领证细节",
+      "onboard_time": 1685173050,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 385930,
       "num": 385930,
       "word": "郑秀晶戛纳电影节",
@@ -4873,6 +4921,14 @@
       "onboard_time": 1685021130,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 374096,
+      "num": 374096,
+      "word": "王一博方坚决抵制追私行为",
+      "onboard_time": 1685171488,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 373729,
@@ -5371,14 +5427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 338137,
-      "num": 338137,
-      "word": "王一博方坚决抵制追私行为",
-      "onboard_time": 1685171488,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 337606,
       "num": 337606,
       "word": "Jennie戳爷同框合影",
@@ -5827,14 +5875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 313013,
-      "num": 313013,
-      "word": "宝鸡一高中校长在教育局办公室被打",
-      "onboard_time": 1685170289,
-      "rank": 27,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 312952,
       "num": 312952,
       "word": "杨洋生图脸上的雨水",
@@ -6009,6 +6049,14 @@
       "onboard_time": 1685157928,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 304767,
+      "num": 247775,
+      "word": "二阳是因为免疫力到期了吗",
+      "onboard_time": 1685172208,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304546,
@@ -7195,14 +7243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 262218,
-      "num": 190727,
-      "word": "重庆市在TikTok上成功出圈",
-      "onboard_time": 1685171907,
-      "rank": 30,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 262034,
       "num": 262034,
       "word": "韩国亚运会",
@@ -7940,7 +7980,7 @@
     },
     {
       "raw_hot": 237956,
-      "num": 188907,
+      "num": 232598,
       "word": "WBG官宣Weiwei加入",
       "onboard_time": 1685171787,
       "rank": 31,
@@ -8529,6 +8569,14 @@
       "onboard_time": 1685001808,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222478,
+      "num": 222478,
+      "word": "天骄",
+      "onboard_time": 1685173887,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 222433,
@@ -9473,6 +9521,14 @@
       "onboard_time": 1684912952,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196638,
+      "num": 196638,
+      "word": "陈哲远太原",
+      "onboard_time": 1685173948,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 196429,
@@ -10939,14 +10995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159545,
-      "num": 159545,
-      "word": "二阳是因为免疫力到期了吗",
-      "onboard_time": 1685172208,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159466,
       "num": 159466,
       "word": "警方已申请刘亚仁拘捕令",
@@ -11353,6 +11401,14 @@
       "onboard_time": 1684742967,
       "rank": 41,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 149041,
+      "num": 215380,
+      "word": "被格力在国际标准的话语权震惊到",
+      "onboard_time": 1685174130,
+      "rank": 27,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 148957,
@@ -11891,6 +11947,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 126257,
+      "num": 126257,
+      "word": "五月天旧版荧光棒能场控了",
+      "onboard_time": 1685174908,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 126187,
       "num": 126187,
       "word": "XYG获得KPL夏季赛席位",
@@ -11995,14 +12059,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 121340,
-      "num": 121340,
-      "word": "过了三十岁就必须要结婚吗",
-      "onboard_time": 1685172566,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 121264,
       "num": 121264,
       "word": "婴儿烫伤转院异地交警接力开道",
@@ -12073,6 +12129,14 @@
       "onboard_time": 1685143339,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118404,
+      "num": 118404,
+      "word": "乘风破浪的姐姐",
+      "onboard_time": 1685175326,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 117971,
@@ -12241,6 +12305,14 @@
       "onboard_time": 1684944864,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 108622,
+      "num": 335916,
+      "word": "折叠男孩首次手术效果超预期",
+      "onboard_time": 1685171128,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108406,
@@ -12651,14 +12723,6 @@
       "category": "影视,时尚"
     },
     {
-      "raw_hot": 74241,
-      "num": 335916,
-      "word": "折叠男孩首次手术效果超预期",
-      "onboard_time": 1685171128,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73974,
       "num": 179586,
       "word": "今天618预售第一天",
@@ -12939,6 +13003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48126,
+      "num": 377595,
+      "word": "女孩路边晕倒陌生人送热水守护",
+      "onboard_time": 1685174427,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47827,
       "num": 1419518,
       "word": "神十六船箭组合体垂直转运全回顾",
@@ -13177,6 +13249,14 @@
       "onboard_time": 1684719388,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 24101,
+      "num": 1278410,
+      "word": "为中国式现代化建设先行探路",
+      "onboard_time": 1685174427,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23678,
