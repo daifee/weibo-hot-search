@@ -1,6 +1,6 @@
 {
   "startTime": 1685118110147,
-  "endTime": 1685178901489,
+  "endTime": 1685180002468,
   "band_list": [
     {
       "raw_hot": 2580452,
@@ -107,6 +107,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1090203,
+      "num": 368383,
+      "word": "安崎承认恋情后开麦初舞台",
+      "onboard_time": 1685176049,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1081510,
+      "num": 977900,
+      "word": "乐华",
+      "onboard_time": 1685169207,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1010122,
       "num": 1010122,
       "word": "国际生 职高生",
@@ -129,22 +145,6 @@
       "onboard_time": 1685164526,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 977900,
-      "num": 977900,
-      "word": "乐华",
-      "onboard_time": 1685169207,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 977676,
-      "num": 343713,
-      "word": "安崎承认恋情后开麦初舞台",
-      "onboard_time": 1685176049,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 973657,
@@ -443,12 +443,28 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 465159,
+      "num": 465159,
+      "word": "班主任带双胞胎走廊写作业陪学生备战高考",
+      "onboard_time": 1685175568,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 445509,
       "num": 396909,
       "word": "韩庚是卢靖姗组舞台顾问",
       "onboard_time": 1685169270,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 438499,
+      "num": 438499,
+      "word": "二阳是因为免疫力到期了吗",
+      "onboard_time": 1685172208,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 428879,
@@ -499,20 +515,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 413093,
+      "num": 413093,
+      "word": "保洁阿姨为护女孩用身体挡住大狗",
+      "onboard_time": 1685176648,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 411060,
       "num": 411060,
       "word": "孙颖莎王曼昱0比3田志希申裕斌",
       "onboard_time": 1685142558,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 407355,
-      "num": 407355,
-      "word": "班主任带双胞胎走廊写作业陪学生备战高考",
-      "onboard_time": 1685175568,
-      "rank": 28,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 404005,
@@ -611,6 +627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 359049,
+      "num": 236906,
+      "word": "妻子偏瘫丈夫26次提出离婚",
+      "onboard_time": 1685176408,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356158,
       "num": 356158,
       "word": "安崎 正常恋爱",
@@ -643,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 344249,
-      "num": 223060,
-      "word": "妻子偏瘫丈夫26次提出离婚",
-      "onboard_time": 1685176408,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 343179,
       "num": 343179,
       "word": "猝死的人都有这些规律",
@@ -659,19 +675,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339959,
+      "num": 339959,
+      "word": "乘风二公总排名",
+      "onboard_time": 1685176529,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332770,
       "num": 332770,
       "word": "熊孩子剪掉女子头发家长赔1万合理吗",
       "onboard_time": 1685150488,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 327918,
-      "num": 327918,
-      "word": "二阳是因为免疫力到期了吗",
-      "onboard_time": 1685172208,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -699,14 +715,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 302629,
-      "num": 302629,
-      "word": "乘风二公总排名",
-      "onboard_time": 1685176529,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 301949,
       "num": 241327,
       "word": "王鹤棣重庆活动人气",
@@ -729,6 +737,14 @@
       "onboard_time": 1685108190,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 292191,
+      "num": 231250,
+      "word": "杨幂宫锁心玉海报细节",
+      "onboard_time": 1685177609,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 289274,
@@ -835,14 +851,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 268221,
-      "num": 268221,
-      "word": "保洁阿姨为护女孩用身体挡住大狗",
-      "onboard_time": 1685176648,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267262,
       "num": 267262,
       "word": "王一博书包上系丝巾",
@@ -851,20 +859,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 267201,
-      "num": 220791,
-      "word": "杨幂宫锁心玉海报细节",
-      "onboard_time": 1685177609,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 265455,
       "num": 265455,
       "word": "美人鱼",
       "onboard_time": 1685168787,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 264662,
+      "num": 228739,
+      "word": "假如有30岁不结婚赔700万的保险",
+      "onboard_time": 1685177848,
+      "rank": 26,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 264578,
+      "num": 264578,
+      "word": "面试完给了20元打车费",
+      "onboard_time": 1685178988,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 262725,
@@ -932,7 +948,7 @@
     },
     {
       "raw_hot": 244844,
-      "num": 218939,
+      "num": 228052,
       "word": "徐明浩脱衣服干活",
       "onboard_time": 1685178329,
       "rank": 23,
@@ -1187,12 +1203,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187182,
-      "num": 187182,
-      "word": "假如有30岁不结婚赔700万的保险",
-      "onboard_time": 1685177848,
-      "rank": 26,
-      "category": "幽默,情感"
+      "raw_hot": 187634,
+      "num": 187634,
+      "word": "临沂教师编",
+      "onboard_time": 1685177609,
+      "rank": 35,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 185147,
@@ -1233,6 +1249,14 @@
       "onboard_time": 1685157450,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 175773,
+      "num": 163117,
+      "word": "JDG官宣2023夏季赛大名单",
+      "onboard_time": 1685177788,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 173790,
@@ -1372,7 +1396,7 @@
     },
     {
       "raw_hot": 149041,
-      "num": 215380,
+      "num": 319730,
       "word": "被格力在国际标准的话语权震惊到",
       "onboard_time": 1685174130,
       "rank": 27,
@@ -1395,22 +1419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142825,
-      "num": 142825,
-      "word": "JDG官宣2023夏季赛大名单",
-      "onboard_time": 1685177788,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 141012,
-      "num": 141012,
-      "word": "临沂教师编",
-      "onboard_time": 1685177609,
-      "rank": 35,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 138197,
       "num": 189823,
       "word": "谢可寅舞台",
@@ -1419,8 +1427,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136189,
-      "num": 136189,
+      "raw_hot": 137597,
+      "num": 137597,
       "word": "五月天旧版荧光棒能场控了",
       "onboard_time": 1685174908,
       "rank": 43,
@@ -1763,7 +1771,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 31083,
+      "raw_hot": 32405,
       "num": 1278410,
       "word": "为中国式现代化建设先行探路",
       "onboard_time": 1685174427,
