@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685290816648,
+  "endTime": 1685291733641,
   "band_list": [
     {
       "raw_hot": 1579628,
@@ -8,6 +8,14 @@
       "word": "微信文字讨好症",
       "onboard_time": 1685284472,
       "rank": 0,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1248938,
+      "num": 1248938,
+      "word": "老公每月给你两万但不回家",
+      "onboard_time": 1685283752,
+      "rank": 3,
       "category": "情感"
     },
     {
@@ -19,14 +27,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1036726,
-      "num": 1036726,
-      "word": "老公每月给你两万但不回家",
-      "onboard_time": 1685283752,
-      "rank": 3,
-      "category": "情感"
-    },
-    {
       "raw_hot": 968037,
       "num": 968037,
       "word": "祝绪丹说迪丽热巴照片有她拍的",
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 819265,
-      "num": 516946,
+      "num": 552009,
       "word": "四川大学",
       "onboard_time": 1685274628,
       "rank": 10,
@@ -75,20 +75,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 518854,
-      "num": 518854,
-      "word": "丫丫已落地北京",
-      "onboard_time": 1685285252,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 514924,
-      "num": 514924,
+      "raw_hot": 556392,
+      "num": 556392,
       "word": "胖莎",
       "onboard_time": 1685288190,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 519124,
+      "num": 519124,
+      "word": "丫丫已落地北京",
+      "onboard_time": 1685285252,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 503108,
@@ -139,8 +139,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 350095,
-      "num": 350095,
+      "raw_hot": 356089,
+      "num": 356089,
       "word": "北京动物园回应丫丫是否展出",
       "onboard_time": 1685288011,
       "rank": 17,
@@ -161,6 +161,14 @@
       "onboard_time": 1685269769,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270252,
+      "num": 270252,
+      "word": "丫丫离开上海回京",
+      "onboard_time": 1685278589,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263805,
@@ -211,11 +219,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231968,
-      "num": 231968,
-      "word": "丫丫离开上海回京",
-      "onboard_time": 1685278589,
-      "rank": 27,
+      "raw_hot": 217036,
+      "num": 217036,
+      "word": "丫丫",
+      "onboard_time": 1685276068,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -243,19 +251,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 204811,
+      "num": 204811,
+      "word": "wtt",
+      "onboard_time": 1685287710,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195105,
       "num": 195105,
       "word": "樊振东vs王楚钦",
       "onboard_time": 1685278109,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 194348,
-      "num": 194348,
-      "word": "wtt",
-      "onboard_time": 1685287710,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -307,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131046,
+      "num": 131046,
+      "word": "郑钦文",
+      "onboard_time": 1685290525,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130581,
       "num": 130581,
       "word": "墨尔本地震",
@@ -331,28 +347,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 127332,
-      "num": 127332,
-      "word": "丫丫",
-      "onboard_time": 1685276068,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127210,
       "num": 127210,
       "word": "陈楚生淄博音乐节",
       "onboard_time": 1685284533,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 126191,
-      "num": 126191,
-      "word": "郑钦文",
-      "onboard_time": 1685290525,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 122715,
@@ -379,6 +379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 120487,
+      "num": 120487,
+      "word": "黄奕道歉",
+      "onboard_time": 1685276429,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117963,
       "num": 117963,
       "word": "Ella你在乘风2023教了什么",
@@ -393,6 +401,22 @@
       "onboard_time": 1685290765,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 103158,
+      "num": 103158,
+      "word": "孙颖莎世乒赛女单夺冠",
+      "onboard_time": 1685276429,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 99397,
+      "num": 99397,
+      "word": "虞书欣电影",
+      "onboard_time": 1685277328,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 36613,
