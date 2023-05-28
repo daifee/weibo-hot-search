@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/05/29 00:20:16 ~ 2023/05/29 03:12:57
+本榜单时间：2023/05/29 00:20:16 ~ 2023/05/29 03:33:44
 </p>
 </blockquote>
 <p>
@@ -364,13 +364,19 @@ tablo（热度：67670）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%2356%E5%B2%81%E4%BF%9D%E5%AE%89%E5%86%99%E5%87%BA40%E4%BD%99%E4%B8%87%E5%AD%97%E9%95%BF%E7%AF%87%E5%B0%8F%E8%AF%B4%23" target="weibo">
-56岁保安写出40余万字长篇小说（热度：35575）
+56岁保安写出40余万字长篇小说（热度：36335）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E8%8D%89%E8%8E%93%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
 新疆草莓音乐节（热度：25795）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+薛之谦演唱会（热度：19322）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685301177029,
+  "endTime": 1685302424458,
   "band_list": [
     {
       "raw_hot": 1579628,
@@ -467,8 +467,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35575,
-      "num": 35575,
+      "raw_hot": 36335,
+      "num": 36335,
       "word": "56岁保安写出40余万字长篇小说",
       "onboard_time": 1685298615,
       "rank": 42,
@@ -480,6 +480,14 @@
       "word": "新疆草莓音乐节",
       "onboard_time": 1685299815,
       "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 19322,
+      "num": 19322,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1685181328,
+      "rank": 45,
       "category": "音乐"
     }
   ],
