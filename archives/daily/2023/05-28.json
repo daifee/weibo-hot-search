@@ -1,6 +1,6 @@
 {
   "startTime": 1685204470597,
-  "endTime": 1685252003703,
+  "endTime": 1685254844415,
   "band_list": [
     {
       "raw_hot": 2635395,
@@ -99,6 +99,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 989659,
+      "num": 989659,
+      "word": "女子回家发现出租屋变灵堂",
+      "onboard_time": 1685238389,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 946252,
       "num": 946252,
       "word": "拒绝董明珠3次的主播评孟羽童离职",
@@ -145,14 +153,6 @@
       "onboard_time": 1685199872,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 812263,
-      "num": 812263,
-      "word": "女子回家发现出租屋变灵堂",
-      "onboard_time": 1685238389,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 805294,
@@ -363,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 433132,
+      "num": 433132,
+      "word": "王鹤棣不选宋丹丹做室友",
+      "onboard_time": 1685248949,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 428887,
       "num": 428887,
       "word": "拜仁德甲冠军",
@@ -377,6 +385,14 @@
       "onboard_time": 1685249849,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 419990,
+      "num": 419990,
+      "word": "女子乘坐重庆网红电梯不慎摔倒滚落",
+      "onboard_time": 1685251109,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 412761,
@@ -491,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 345188,
-      "num": 345188,
-      "word": "王鹤棣不选宋丹丹做室友",
-      "onboard_time": 1685248949,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 339745,
       "num": 298300,
       "word": "那英唱掉了全程开大",
@@ -529,6 +537,14 @@
       "onboard_time": 1685202748,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 321986,
+      "num": 276631,
+      "word": "张雪峰评985硕士直播耍杂技",
+      "onboard_time": 1685249307,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 318906,
@@ -576,14 +592,6 @@
       "word": "大学生网购零食放虫子敲诈40多次",
       "onboard_time": 1685229918,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 296755,
-      "num": 276631,
-      "word": "张雪峰评985硕士直播耍杂技",
-      "onboard_time": 1685249307,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -715,6 +723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 238253,
+      "num": 238253,
+      "word": "美依礼芽给李莎旻子留灯",
+      "onboard_time": 1685251649,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234734,
       "num": 202853,
       "word": "孟子义妈妈娱乐圈除了孟子义都追",
@@ -811,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206682,
+      "num": 187957,
+      "word": "王传君鸟鸟i人坐车实录",
+      "onboard_time": 1685253390,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206533,
       "num": 206533,
       "word": "不良执念清除师",
@@ -873,14 +897,6 @@
       "onboard_time": 1685205326,
       "rank": 48,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 200046,
-      "num": 200046,
-      "word": "女子乘坐重庆网红电梯不慎摔倒滚落",
-      "onboard_time": 1685251109,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199844,
@@ -963,6 +979,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187834,
+      "num": 187834,
+      "word": "把大骨头拍成了吃不起的样子",
+      "onboard_time": 1685254229,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187218,
+      "num": 171144,
+      "word": "工作之外一定要培养一些爱好",
+      "onboard_time": 1685253987,
+      "rank": 30,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 183335,
       "num": 116741,
       "word": "银河护卫队3",
@@ -985,6 +1017,14 @@
       "onboard_time": 1685245470,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172714,
+      "num": 172714,
+      "word": "宋茜经常请吃饭的姐姐",
+      "onboard_time": 1685253088,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 171061,
@@ -1033,6 +1073,14 @@
       "onboard_time": 1685180248,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169383,
+      "num": 169383,
+      "word": "五月天演唱会志愿者伙食",
+      "onboard_time": 1685254467,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 169041,
@@ -1115,11 +1163,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151880,
-      "num": 151880,
-      "word": "美依礼芽给李莎旻子留灯",
-      "onboard_time": 1685251649,
-      "rank": 39,
+      "raw_hot": 152651,
+      "num": 152651,
+      "word": "孟子义说王传君现在接这么多综艺好红啊",
+      "onboard_time": 1685251829,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -1187,6 +1235,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136854,
+      "num": 136854,
+      "word": "黄旭杨和苏在一起就是冠军相",
+      "onboard_time": 1685254107,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 135116,
+      "num": 135116,
+      "word": "带爷爷看五月天演唱会",
+      "onboard_time": 1685253626,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 122955,
       "num": 122955,
       "word": "浙江婚龄男女为啥怕过端午节",
@@ -1201,6 +1265,14 @@
       "onboard_time": 1685230459,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 120788,
+      "num": 120788,
+      "word": "当主人受伤后狗狗的反应",
+      "onboard_time": 1685254589,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 120214,
@@ -1243,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114041,
+      "num": 114041,
+      "word": "朱珠说心疼Amber",
+      "onboard_time": 1685252127,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112583,
       "num": 112583,
       "word": "这就是我超级紧张的求婚",
@@ -1256,6 +1336,14 @@
       "word": "宁波姑娘三进三出控场灭火救人",
       "onboard_time": 1685199634,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110393,
+      "num": 383272,
+      "word": "大爷占道卖瓜城管小姐姐温情劝离",
+      "onboard_time": 1685250029,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1275,20 +1363,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106554,
-      "num": 383272,
-      "word": "大爷占道卖瓜城管小姐姐温情劝离",
-      "onboard_time": 1685250029,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 104988,
+      "num": 104988,
+      "word": "赵露思白裙广告拍摄图",
+      "onboard_time": 1685254769,
+      "rank": 48,
+      "category": "艺人"
     },
     {
-      "raw_hot": 103262,
-      "num": 103262,
-      "word": "孟子义说王传君现在接这么多综艺好红啊",
-      "onboard_time": 1685251829,
+      "raw_hot": 103454,
+      "num": 103454,
+      "word": "现在的橡皮擦别太离谱",
+      "onboard_time": 1685254827,
       "rank": 49,
-      "category": "综艺"
+      "category": "幽默"
     },
     {
       "raw_hot": 103191,
