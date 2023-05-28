@@ -1,0 +1,410 @@
+{
+  "runTime": 1685273599863,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2003410,
+        "num": 2003410,
+        "word": "黄奕未经允许私拿美术馆展品摆拍",
+        "onboard_time": 1685267489,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 504144,
+        "num": 1513932,
+        "word": "公安局里来了11只呆萌鸟宝宝",
+        "onboard_time": 1685266708,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54201,
+        "num": 1499842,
+        "word": "C919全球首次商业载客飞行",
+        "onboard_time": 1685243666,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1488958,
+        "num": 1488958,
+        "word": "迪丽热巴私服",
+        "onboard_time": 1685264428,
+        "rank": 3,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 434027,
+        "num": 1208540,
+        "word": "丫丫回北京将和萌兰做邻居",
+        "onboard_time": 1685262809,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1188603,
+        "num": 1188603,
+        "word": "孙颖莎对战陈梦",
+        "onboard_time": 1685273427,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172966,
+        "num": 1033839,
+        "word": "市民被压车底20多人瞬间跑来救人",
+        "onboard_time": 1685260291,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 927978,
+        "num": 927978,
+        "word": "沈腾真睡啊",
+        "onboard_time": 1685266527,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 877831,
+        "num": 877831,
+        "word": "网购虾条居然收到了差评返现卡",
+        "onboard_time": 1685255726,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 811332,
+        "num": 811332,
+        "word": "精致羞耻症",
+        "onboard_time": 1685264669,
+        "rank": 9,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 748195,
+        "num": 748195,
+        "word": "成都体育学院打人",
+        "onboard_time": 1685257048,
+        "rank": 10,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 639697,
+        "num": 639697,
+        "word": "白敬亭参加发小婚礼",
+        "onboard_time": 1685269769,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 630816,
+        "num": 630816,
+        "word": "年轻人的生育意愿为什么越来越低",
+        "onboard_time": 1685270610,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607925,
+        "num": 607925,
+        "word": "仙剑奇侠传3 翻拍",
+        "onboard_time": 1685257947,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 453420,
+        "num": 453420,
+        "word": "千万别拿孩子的东西装大方",
+        "onboard_time": 1685270669,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 426883,
+        "num": 426883,
+        "word": "孙悟空被压了500年都没有黑化",
+        "onboard_time": 1685255908,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 394122,
+        "num": 394122,
+        "word": "为什么演唱会不能选位置",
+        "onboard_time": 1685268448,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385802,
+        "num": 385802,
+        "word": "杭州拍婚礼偶遇吉克隽逸",
+        "onboard_time": 1685272948,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377716,
+        "num": 377716,
+        "word": "社交冷漠症",
+        "onboard_time": 1685271869,
+        "rank": 18,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 357655,
+        "num": 357655,
+        "word": "女子强行调换榴莲孩子哭喊劝阻",
+        "onboard_time": 1685271329,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345247,
+        "num": 345247,
+        "word": "13岁女孩玩手机4个月花40多万",
+        "onboard_time": 1685271988,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316487,
+        "num": 316487,
+        "word": "众祸",
+        "onboard_time": 1685270189,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 312768,
+        "num": 312768,
+        "word": "五月天演唱会",
+        "onboard_time": 1685270126,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 285830,
+        "num": 285830,
+        "word": "01悉悉",
+        "onboard_time": 1685272587,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 282754,
+        "num": 282754,
+        "word": "步步倾心杀青",
+        "onboard_time": 1685260589,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274006,
+        "num": 274006,
+        "word": "黑莲花男主 成毅",
+        "onboard_time": 1685262269,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272959,
+        "num": 272959,
+        "word": "zb1",
+        "onboard_time": 1685267608,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245647,
+        "num": 245647,
+        "word": "王源说最后一站最后一场一会儿见",
+        "onboard_time": 1685269467,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 239523,
+        "num": 239523,
+        "word": "马群耀 音乐节",
+        "onboard_time": 1685270848,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 234497,
+        "num": 234497,
+        "word": "情侣十年前因父母反对分手",
+        "onboard_time": 1685249667,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229847,
+        "num": 229847,
+        "word": "任豪八百个心眼子全是空的",
+        "onboard_time": 1685271387,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227311,
+        "num": 227311,
+        "word": "赵露思回应角色争议",
+        "onboard_time": 1685265930,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221237,
+        "num": 221237,
+        "word": "安乐传全剧没有吻戏",
+        "onboard_time": 1685267428,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194165,
+        "num": 194165,
+        "word": "官方回应成体和川大球员发生冲突",
+        "onboard_time": 1685268867,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187702,
+        "num": 187702,
+        "word": "王源不同时期听到结婚的反应",
+        "onboard_time": 1685270610,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179217,
+        "num": 179217,
+        "word": "原来水月洞天戏外有两段感情",
+        "onboard_time": 1685271508,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174822,
+        "num": 174822,
+        "word": "被李嘉琦聊天尬住了",
+        "onboard_time": 1685260948,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173650,
+        "num": 173650,
+        "word": "无畏说Gemini我是你的偶像",
+        "onboard_time": 1685272167,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173567,
+        "num": 173567,
+        "word": "张大大cos请回答1988正峰",
+        "onboard_time": 1685264908,
+        "rank": 38,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 143257,
+        "num": 143257,
+        "word": "时尚芭莎年度派对官宣易烊千玺",
+        "onboard_time": 1685267128,
+        "rank": 39,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 172706,
+        "num": 142883,
+        "word": "王鹤棣白敬亭合拍",
+        "onboard_time": 1685270488,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156667,
+        "num": 142440,
+        "word": "capper演出",
+        "onboard_time": 1685266948,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151642,
+        "num": 141721,
+        "word": "孟子义说在满江红和无名里选择了无名",
+        "onboard_time": 1685262329,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144703,
+        "num": 141162,
+        "word": "五月天",
+        "onboard_time": 1685272529,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 17793,
+        "num": 140651,
+        "word": "章子怡梦想是当幼儿园老师",
+        "onboard_time": 1685273427,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140609,
+        "num": 140609,
+        "word": "河南小麦",
+        "onboard_time": 1685273188,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139294,
+        "num": 139294,
+        "word": "刘惜君好像i人去海底捞过生日",
+        "onboard_time": 1685273307,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126347,
+        "num": 126347,
+        "word": "月经紊乱可能和这种癌有关",
+        "onboard_time": 1685250148,
+        "rank": 47,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 123384,
+        "num": 123384,
+        "word": "如何处理球场上的冲突",
+        "onboard_time": 1685272886,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122762,
+        "num": 122762,
+        "word": "为迎接丫丫北京动物园熊猫馆加装安检门",
+        "onboard_time": 1685256267,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023网络名人湖北行#"
+    }
+  }
+}
