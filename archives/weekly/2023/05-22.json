@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1685277006344,
+  "endTime": 1685277955824,
   "band_list": [
     {
       "raw_hot": 4241479,
@@ -563,6 +563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1754331,
+      "num": 1360122,
+      "word": "四川大学",
+      "onboard_time": 1685274628,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1750437,
       "num": 1750437,
       "word": "上海迪士尼6月23日起门票调价",
@@ -592,14 +600,6 @@
       "word": "在香港歧视普通话注定是个笑话",
       "onboard_time": 1684885767,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1727879,
-      "num": 1360122,
-      "word": "四川大学",
-      "onboard_time": 1685274628,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1131,6 +1131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1368547,
+      "num": 725480,
+      "word": "张丹峰洪欣合体",
+      "onboard_time": 1685274329,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1368027,
       "num": 1368027,
       "word": "鹿晗 优先权",
@@ -1305,14 +1313,6 @@
       "onboard_time": 1685155347,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1293817,
-      "num": 574935,
-      "word": "张丹峰洪欣合体",
-      "onboard_time": 1685274329,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1287644,
@@ -1736,6 +1736,14 @@
       "word": "张婧仪Lisa金泰亨朴宝剑同框",
       "onboard_time": 1684848454,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1085893,
+      "num": 1085893,
+      "word": "祝绪丹说迪丽热巴照片有她拍的",
+      "onboard_time": 1685276908,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -3851,6 +3859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 535134,
+      "num": 535134,
+      "word": "大满贯",
+      "onboard_time": 1685276908,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 533444,
       "num": 533444,
       "word": "凯尔特人vs热火",
@@ -3897,6 +3913,14 @@
       "onboard_time": 1685256448,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 527983,
+      "num": 527983,
+      "word": "杭州拍婚礼偶遇吉克隽逸",
+      "onboard_time": 1685272948,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 527250,
@@ -4307,6 +4331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 490232,
+      "num": 490232,
+      "word": "河南小麦",
+      "onboard_time": 1685273188,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 490032,
       "num": 352375,
       "word": "虞书欣 纪梵希",
@@ -4409,6 +4441,22 @@
       "onboard_time": 1684835309,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 480410,
+      "num": 480410,
+      "word": "黄奕道歉",
+      "onboard_time": 1685276429,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 478887,
+      "num": 478887,
+      "word": "袁姗姗戴绿帽子直播",
+      "onboard_time": 1685276667,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 478046,
@@ -4899,14 +4947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 440224,
-      "num": 440224,
-      "word": "河南小麦",
-      "onboard_time": 1685273188,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 440143,
       "num": 440143,
       "word": "女子乘坐重庆网红电梯不慎摔倒滚落",
@@ -4952,14 +4992,6 @@
       "word": "华晨宇邀请母校师生看演唱会",
       "onboard_time": 1685244030,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 434762,
-      "num": 434762,
-      "word": "杭州拍婚礼偶遇吉克隽逸",
-      "onboard_time": 1685272948,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -6443,6 +6475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347791,
+      "num": 347791,
+      "word": "青岛音乐节",
+      "onboard_time": 1685277030,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 347626,
       "num": 347626,
       "word": "莫兰特",
@@ -6473,6 +6513,14 @@
       "onboard_time": 1684768591,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 346895,
+      "num": 324101,
+      "word": "虞书欣电影",
+      "onboard_time": 1685277328,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 346754,
@@ -6521,6 +6569,14 @@
       "onboard_time": 1685271988,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345024,
+      "num": 324093,
+      "word": "THE9成员线下巡演大合照",
+      "onboard_time": 1685275292,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 344583,
@@ -6641,6 +6697,14 @@
       "onboard_time": 1684899452,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 337334,
+      "num": 323990,
+      "word": "马群耀 音乐节",
+      "onboard_time": 1685270848,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 337014,
@@ -7371,14 +7435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 302687,
-      "num": 302687,
-      "word": "THE9成员线下巡演大合照",
-      "onboard_time": 1685275292,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 302654,
       "num": 302654,
       "word": "王楚钦孙颖莎拥抱庆祝",
@@ -7641,14 +7697,6 @@
       "onboard_time": 1685070147,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 293626,
-      "num": 258682,
-      "word": "祝绪丹说迪丽热巴照片有她拍的",
-      "onboard_time": 1685276908,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 292993,
@@ -8331,14 +8379,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 273408,
-      "num": 273408,
-      "word": "黄奕道歉",
-      "onboard_time": 1685276429,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 273353,
       "num": 1529083,
       "word": "山东脑瘫诗人每天创作8小时以上",
@@ -8521,14 +8561,6 @@
       "onboard_time": 1685169327,
       "rank": 25,
       "category": "其它"
-    },
-    {
-      "raw_hot": 268364,
-      "num": 268364,
-      "word": "马群耀 音乐节",
-      "onboard_time": 1685270848,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 267953,
@@ -8889,6 +8921,14 @@
       "onboard_time": 1684687941,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 259102,
+      "num": 259102,
+      "word": "王玉雯直播",
+      "onboard_time": 1685276248,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 259028,
@@ -10387,14 +10427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223156,
-      "num": 223156,
-      "word": "王玉雯直播",
-      "onboard_time": 1685276248,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 223026,
       "num": 223026,
       "word": "刘亚仁否认让男友潜逃",
@@ -10987,6 +11019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 207673,
+      "num": 207673,
+      "word": "用SPSS分析是否该分手",
+      "onboard_time": 1685276369,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207519,
       "num": 207519,
       "word": "大学毕业后还会和室友联系吗",
@@ -11025,6 +11065,14 @@
       "onboard_time": 1685245108,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206418,
+      "num": 206418,
+      "word": "一起等丫丫回北京",
+      "onboard_time": 1685276190,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206385,
@@ -11899,14 +11947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190586,
-      "num": 190586,
-      "word": "大满贯",
-      "onboard_time": 1685276908,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 190443,
       "num": 190443,
       "word": "鹿晗献唱蜘蛛侠纵横宇宙主题曲",
@@ -12049,14 +12089,6 @@
       "onboard_time": 1685102790,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 188574,
-      "num": 188574,
-      "word": "袁姗姗戴绿帽子直播",
-      "onboard_time": 1685276667,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 188325,
@@ -13627,14 +13659,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 155908,
-      "num": 155908,
-      "word": "一起等丫丫回北京",
-      "onboard_time": 1685276190,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155850,
       "num": 155850,
       "word": "宝妈带孩子坐高铁检票员提前放行",
@@ -14083,6 +14107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144597,
+      "num": 144597,
+      "word": "周笔畅 海口",
+      "onboard_time": 1685277929,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 144574,
       "num": 144574,
       "word": "张杰的AKA有点东西",
@@ -14097,6 +14129,14 @@
       "onboard_time": 1684819831,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 143770,
+      "num": 200579,
+      "word": "南阳回应上百台收割机无法下高速",
+      "onboard_time": 1685277749,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143545,
@@ -14153,14 +14193,6 @@
       "onboard_time": 1684875672,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141962,
-      "num": 141962,
-      "word": "用SPSS分析是否该分手",
-      "onboard_time": 1685276369,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 141491,
@@ -14272,6 +14304,14 @@
       "word": "上海再现野生四不像",
       "onboard_time": 1685101351,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137156,
+      "num": 137156,
+      "word": "熊猫被乌鸦薅毛奶爸自制工具帮轰走",
+      "onboard_time": 1685275649,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -14459,14 +14499,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 131653,
-      "num": 131653,
-      "word": "熊猫被乌鸦薅毛奶爸自制工具帮轰走",
-      "onboard_time": 1685275649,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131613,
       "num": 131613,
       "word": "黄景瑜劝黄明昊咱犯不上哈",
@@ -14617,6 +14649,14 @@
       "onboard_time": 1685088510,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127194,
+      "num": 127194,
+      "word": "第九届王者荣耀高校联赛总决赛",
+      "onboard_time": 1685277568,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 126483,

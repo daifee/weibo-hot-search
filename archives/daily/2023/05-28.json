@@ -1,6 +1,6 @@
 {
   "startTime": 1685204470597,
-  "endTime": 1685277006344,
+  "endTime": 1685277955824,
   "band_list": [
     {
       "raw_hot": 2635395,
@@ -51,20 +51,20 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1754331,
+      "num": 1360122,
+      "word": "四川大学",
+      "onboard_time": 1685274628,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1735041,
       "num": 1735041,
       "word": "情侣十年前因父母反对分手",
       "onboard_time": 1685249667,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1727879,
-      "num": 1360122,
-      "word": "四川大学",
-      "onboard_time": 1685274628,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1717277,
@@ -147,6 +147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1368547,
+      "num": 725480,
+      "word": "张丹峰洪欣合体",
+      "onboard_time": 1685274329,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1360555,
       "num": 1360555,
       "word": "从26楼撑伞跳下男童生命体征平稳",
@@ -163,14 +171,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1293817,
-      "num": 574935,
-      "word": "张丹峰洪欣合体",
-      "onboard_time": 1685274329,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1232435,
       "num": 1232435,
       "word": "孙颖莎对战陈梦",
@@ -185,6 +185,14 @@
       "onboard_time": 1685266527,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1085893,
+      "num": 1085893,
+      "word": "祝绪丹说迪丽热巴照片有她拍的",
+      "onboard_time": 1685276908,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 1085081,
@@ -313,6 +321,14 @@
       "onboard_time": 1685228416,
       "rank": 31,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 727951,
+      "num": 727951,
+      "word": "丫丫",
+      "onboard_time": 1685192309,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 695914,
@@ -451,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 535134,
+      "num": 535134,
+      "word": "大满贯",
+      "onboard_time": 1685276908,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 533444,
       "num": 533444,
       "word": "凯尔特人vs热火",
@@ -467,20 +491,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 527983,
+      "num": 527983,
+      "word": "杭州拍婚礼偶遇吉克隽逸",
+      "onboard_time": 1685272948,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 522905,
       "num": 522905,
       "word": "多特蒙德对得起谁",
       "onboard_time": 1685202450,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 508766,
-      "num": 508766,
-      "word": "丫丫",
-      "onboard_time": 1685192309,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 504144,
@@ -497,6 +521,14 @@
       "onboard_time": 1685260948,
       "rank": 38,
       "category": "科技"
+    },
+    {
+      "raw_hot": 490232,
+      "num": 490232,
+      "word": "河南小麦",
+      "onboard_time": 1685273188,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 482915,
@@ -521,6 +553,22 @@
       "onboard_time": 1685190930,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 480410,
+      "num": 480410,
+      "word": "黄奕道歉",
+      "onboard_time": 1685276429,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 478887,
+      "num": 478887,
+      "word": "袁姗姗戴绿帽子直播",
+      "onboard_time": 1685276667,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 470798,
@@ -603,14 +651,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 440224,
-      "num": 440224,
-      "word": "河南小麦",
-      "onboard_time": 1685273188,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 440143,
       "num": 440143,
       "word": "女子乘坐重庆网红电梯不慎摔倒滚落",
@@ -624,14 +664,6 @@
       "word": "华晨宇邀请母校师生看演唱会",
       "onboard_time": 1685244030,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 434762,
-      "num": 434762,
-      "word": "杭州拍婚礼偶遇吉克隽逸",
-      "onboard_time": 1685272948,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -867,6 +899,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 347791,
+      "num": 347791,
+      "word": "青岛音乐节",
+      "onboard_time": 1685277030,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 346895,
+      "num": 324101,
+      "word": "虞书欣电影",
+      "onboard_time": 1685277328,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 346754,
       "num": 346754,
       "word": "好热",
@@ -883,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345024,
+      "num": 324093,
+      "word": "THE9成员线下巡演大合照",
+      "onboard_time": 1685275292,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 340729,
       "num": 340729,
       "word": "MBTI",
@@ -897,6 +953,14 @@
       "onboard_time": 1685185167,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 337334,
+      "num": 323990,
+      "word": "马群耀 音乐节",
+      "onboard_time": 1685270848,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 337014,
@@ -979,14 +1043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302687,
-      "num": 302687,
-      "word": "THE9成员线下巡演大合照",
-      "onboard_time": 1685275292,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 302241,
       "num": 302241,
       "word": "刘惜君好像i人去海底捞过生日",
@@ -1025,14 +1081,6 @@
       "onboard_time": 1685249667,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 293626,
-      "num": 258682,
-      "word": "祝绪丹说迪丽热巴照片有她拍的",
-      "onboard_time": 1685276908,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 287098,
@@ -1099,14 +1147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 273408,
-      "num": 273408,
-      "word": "黄奕道歉",
-      "onboard_time": 1685276429,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 273149,
       "num": 273149,
       "word": "王传君鸟鸟i人坐车实录",
@@ -1123,14 +1163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268364,
-      "num": 268364,
-      "word": "马群耀 音乐节",
-      "onboard_time": 1685270848,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 266343,
       "num": 266343,
       "word": "细扒浪姐4人情世故场",
@@ -1145,6 +1177,14 @@
       "onboard_time": 1685257348,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259102,
+      "num": 259102,
+      "word": "王玉雯直播",
+      "onboard_time": 1685276248,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 255354,
@@ -1339,14 +1379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223156,
-      "num": 223156,
-      "word": "王玉雯直播",
-      "onboard_time": 1685276248,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 222519,
       "num": 202687,
       "word": "莫文蔚的腿秒了",
@@ -1419,12 +1451,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207673,
+      "num": 207673,
+      "word": "用SPSS分析是否该分手",
+      "onboard_time": 1685276369,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 206533,
       "num": 206533,
       "word": "不良执念清除师",
       "onboard_time": 1685245108,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206418,
+      "num": 206418,
+      "word": "一起等丫丫回北京",
+      "onboard_time": 1685276190,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206005,
@@ -1579,14 +1627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190586,
-      "num": 190586,
-      "word": "大满贯",
-      "onboard_time": 1685276908,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 189272,
       "num": 189272,
       "word": "宁艺卓INFP",
@@ -1609,14 +1649,6 @@
       "onboard_time": 1685228956,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 188574,
-      "num": 188574,
-      "word": "袁姗姗戴绿帽子直播",
-      "onboard_time": 1685276667,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 187834,
@@ -1843,14 +1875,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 155908,
-      "num": 155908,
-      "word": "一起等丫丫回北京",
-      "onboard_time": 1685276190,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154833,
       "num": 154833,
       "word": "吴京说我的金手指一指张译就得奖了",
@@ -1939,6 +1963,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 144597,
+      "num": 144597,
+      "word": "周笔畅 海口",
+      "onboard_time": 1685277929,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 144574,
       "num": 144574,
       "word": "张杰的AKA有点东西",
@@ -1947,12 +1979,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141962,
-      "num": 141962,
-      "word": "用SPSS分析是否该分手",
-      "onboard_time": 1685276369,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 143770,
+      "num": 200579,
+      "word": "南阳回应上百台收割机无法下高速",
+      "onboard_time": 1685277749,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141122,
@@ -1995,6 +2027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137156,
+      "num": 137156,
+      "word": "熊猫被乌鸦薅毛奶爸自制工具帮轰走",
+      "onboard_time": 1685275649,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136854,
       "num": 136854,
       "word": "黄旭杨和苏在一起就是冠军相",
@@ -2011,14 +2051,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 131653,
-      "num": 131653,
-      "word": "熊猫被乌鸦薅毛奶爸自制工具帮轰走",
-      "onboard_time": 1685275649,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129267,
       "num": 129267,
       "word": "王鹤棣说告诉老默我想吃鱼了",
@@ -2033,6 +2065,14 @@
       "onboard_time": 1685252127,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127194,
+      "num": 127194,
+      "word": "第九届王者荣耀高校联赛总决赛",
+      "onboard_time": 1685277568,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 124095,
