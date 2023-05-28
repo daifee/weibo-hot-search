@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685270007835,
+  "endTime": 1685272387548,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1315,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2362341,
+      "num": 2362341,
+      "word": "黄奕未经允许私拿美术馆展品摆拍",
+      "onboard_time": 1685267489,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2350730,
       "num": 1562514,
       "word": "分手快乐",
@@ -2097,14 +2105,6 @@
       "onboard_time": 1683156265,
       "rank": 10,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1968746,
-      "num": 1968746,
-      "word": "黄奕未经允许私拿美术馆展品摆拍",
-      "onboard_time": 1685267489,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 1968455,
@@ -10755,6 +10755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 750282,
+      "num": 750282,
+      "word": "网购虾条居然收到了差评返现卡",
+      "onboard_time": 1685255726,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 749995,
       "num": 749995,
       "word": "女生要敢于结束不健康的关系",
@@ -10817,14 +10825,6 @@
       "onboard_time": 1683458553,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 741227,
-      "num": 741227,
-      "word": "网购虾条居然收到了差评返现卡",
-      "onboard_time": 1685255726,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 741171,
@@ -13924,7 +13924,7 @@
     },
     {
       "raw_hot": 579434,
-      "num": 1684762,
+      "num": 1796032,
       "word": "丫丫回北京将和萌兰做邻居",
       "onboard_time": 1685262809,
       "rank": 6,
@@ -14361,6 +14361,14 @@
       "onboard_time": 1684766731,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 560922,
+      "num": 560922,
+      "word": "年轻人的生育意愿为什么越来越低",
+      "onboard_time": 1685270610,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 560585,
@@ -16473,6 +16481,14 @@
       "onboard_time": 1684306111,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 493123,
+      "num": 493123,
+      "word": "白敬亭参加发小婚礼",
+      "onboard_time": 1685269769,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 492964,
@@ -19003,6 +19019,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 437695,
+      "num": 1440745,
+      "word": "公安局里来了11只呆萌鸟宝宝",
+      "onboard_time": 1685266708,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 437423,
       "num": 437423,
       "word": "赵继伟亲郭艾伦",
@@ -20779,6 +20803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 404638,
+      "num": 404638,
+      "word": "众祸",
+      "onboard_time": 1685270189,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 404402,
       "num": 277781,
       "word": "柳州",
@@ -21032,6 +21064,14 @@
       "word": "3年前救的野猪带3娃回来了",
       "onboard_time": 1684210472,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400363,
+      "num": 400363,
+      "word": "为什么演唱会不能选位置",
+      "onboard_time": 1685268448,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -24020,7 +24060,7 @@
     },
     {
       "raw_hot": 356442,
-      "num": 208073,
+      "num": 228302,
       "word": "安乐传全剧没有吻戏",
       "onboard_time": 1685267428,
       "rank": 22,
@@ -24073,6 +24113,14 @@
       "onboard_time": 1683525691,
       "rank": 33,
       "category": "科技"
+    },
+    {
+      "raw_hot": 355788,
+      "num": 355788,
+      "word": "zb1",
+      "onboard_time": 1685267608,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 355690,
@@ -26571,14 +26619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 324163,
-      "num": 1440745,
-      "word": "公安局里来了11只呆萌鸟宝宝",
-      "onboard_time": 1685266708,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 324036,
       "num": 324036,
       "word": "急性会厌炎",
@@ -26777,14 +26817,6 @@
       "onboard_time": 1683183449,
       "rank": 22,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 321169,
-      "num": 321169,
-      "word": "zb1",
-      "onboard_time": 1685267608,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 321079,
@@ -27465,6 +27497,14 @@
       "onboard_time": 1684737084,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 313265,
+      "num": 313265,
+      "word": "千万别拿孩子的东西装大方",
+      "onboard_time": 1685270669,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 313259,
@@ -37499,6 +37539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 229138,
+      "num": 229138,
+      "word": "官方回应成体和川大球员发生冲突",
+      "onboard_time": 1685268867,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229050,
       "num": 229050,
       "word": "太想妈妈结果在高铁上哭了",
@@ -37825,6 +37873,14 @@
       "onboard_time": 1683822625,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226609,
+      "num": 226609,
+      "word": "马群耀 音乐节",
+      "onboard_time": 1685270848,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 226521,
@@ -38931,6 +38987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 219115,
+      "num": 194356,
+      "word": "王源不同时期听到结婚的反应",
+      "onboard_time": 1685270610,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 219088,
       "num": 217761,
       "word": "食人族都吃不了打工人的苦",
@@ -39553,6 +39617,14 @@
       "onboard_time": 1682988868,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 215816,
+      "num": 215816,
+      "word": "女子强行调换榴莲孩子哭喊劝阻",
+      "onboard_time": 1685271329,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215704,
@@ -40681,14 +40753,6 @@
       "onboard_time": 1684598067,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 208454,
-      "num": 208454,
-      "word": "为什么演唱会不能选位置",
-      "onboard_time": 1685268448,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208328,
@@ -44121,6 +44185,14 @@
       "onboard_time": 1684400550,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189443,
+      "num": 189443,
+      "word": "任豪八百个心眼子全是空的",
+      "onboard_time": 1685271387,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 189429,
@@ -49651,6 +49723,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 158462,
+      "num": 145847,
+      "word": "原来水月洞天戏外有两段感情",
+      "onboard_time": 1685271508,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 158453,
       "num": 158453,
       "word": "徐明浩孙悟空造型骑马好帅",
@@ -49801,6 +49881,14 @@
       "onboard_time": 1683336808,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157537,
+      "num": 144687,
+      "word": "王鹤棣白敬亭合拍",
+      "onboard_time": 1685270488,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 157389,
@@ -51619,6 +51707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147144,
+      "num": 147144,
+      "word": "13岁女孩玩手机4个月花40多万",
+      "onboard_time": 1685271988,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147048,
       "num": 147048,
       "word": "这是个有理想但没教养的人",
@@ -51961,6 +52057,14 @@
       "onboard_time": 1684105701,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 144574,
+      "num": 144574,
+      "word": "张杰的AKA有点东西",
+      "onboard_time": 1685270669,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 144569,
@@ -52393,14 +52497,6 @@
       "onboard_time": 1684219048,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141249,
-      "num": 141249,
-      "word": "官方回应成体和川大球员发生冲突",
-      "onboard_time": 1685268867,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141231,
@@ -53699,6 +53795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131213,
+      "num": 144726,
+      "word": "无畏说Gemini我是你的偶像",
+      "onboard_time": 1685272167,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 131086,
       "num": 131086,
       "word": "蓝莓表面的白霜要洗掉吗",
@@ -54161,6 +54265,14 @@
       "onboard_time": 1683177508,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128061,
+      "num": 128061,
+      "word": "社交冷漠症",
+      "onboard_time": 1685271869,
+      "rank": 44,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 128032,
@@ -55985,14 +56097,6 @@
       "onboard_time": 1683500840,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109872,
-      "num": 109872,
-      "word": "白敬亭参加发小婚礼",
-      "onboard_time": 1685269769,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 109745,
