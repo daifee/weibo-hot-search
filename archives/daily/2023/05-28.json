@@ -1,6 +1,6 @@
 {
   "startTime": 1685204470597,
-  "endTime": 1685241823278,
+  "endTime": 1685242336557,
   "band_list": [
     {
       "raw_hot": 2635395,
@@ -19,6 +19,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1737139,
+      "num": 1737139,
+      "word": "中国人终于要坐上国产大飞机",
+      "onboard_time": 1685235506,
+      "rank": 10,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1717277,
       "num": 1717277,
       "word": "BLACKPINK演唱会被扔上台的玩偶有摄像头",
@@ -27,20 +35,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1695370,
-      "num": 1695370,
-      "word": "中国人终于要坐上国产大飞机",
-      "onboard_time": 1685235506,
-      "rank": 10,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 1440506,
       "num": 1440506,
       "word": "离职时公司要求留下微信",
       "onboard_time": 1685232504,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1390994,
+      "num": 1390994,
+      "word": "难怪饿死都瘦不了几斤",
+      "onboard_time": 1685233765,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 1369121,
@@ -57,14 +65,6 @@
       "onboard_time": 1685237365,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1319374,
-      "num": 1319374,
-      "word": "难怪饿死都瘦不了几斤",
-      "onboard_time": 1685233765,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 946252,
@@ -155,12 +155,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 638568,
+      "raw_hot": 651298,
       "num": 464096,
       "word": "女子回家发现出租屋变灵堂",
       "onboard_time": 1685238389,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 593277,
+      "num": 593277,
+      "word": "戛纳最佳着装",
+      "onboard_time": 1685240367,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 592882,
@@ -195,14 +203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 472060,
-      "num": 472060,
-      "word": "戛纳最佳着装",
-      "onboard_time": 1685240367,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 470798,
       "num": 470798,
       "word": "赵露思鞠婧祎直播状态",
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 464058,
-      "num": 243436,
+      "num": 253257,
       "word": "MU9191",
       "onboard_time": 1685236168,
       "rank": 20,
@@ -244,11 +244,19 @@
     },
     {
       "raw_hot": 448100,
-      "num": 244197,
+      "num": 261305,
       "word": "浙江大学生激烈讨论没钱生不生孩子",
       "onboard_time": 1685231242,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446941,
+      "num": 446941,
+      "word": "巴特勒怎么了",
+      "onboard_time": 1685240546,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 428887,
@@ -265,14 +273,6 @@
       "onboard_time": 1685180128,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 407117,
-      "num": 407117,
-      "word": "巴特勒怎么了",
-      "onboard_time": 1685240546,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 397459,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 357281,
-      "num": 246474,
+      "num": 259364,
       "word": "经常炒菜的人一定要知道",
       "onboard_time": 1685237427,
       "rank": 30,
@@ -339,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 318906,
+      "num": 318906,
+      "word": "张子枫的气质",
+      "onboard_time": 1685237427,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 310819,
       "num": 293666,
       "word": "老舅一年一首骂完就走",
@@ -347,20 +355,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 308041,
-      "num": 308041,
-      "word": "张子枫的气质",
-      "onboard_time": 1685237427,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 305897,
-      "num": 241514,
+      "num": 256027,
       "word": "小朋友嫌幼稚大朋友刚刚好的礼物",
       "onboard_time": 1685240308,
       "rank": 25,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 305712,
+      "num": 211573,
+      "word": "中高考临近淄博烧烤投诉增多",
+      "onboard_time": 1685241389,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303154,
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 276648,
-      "num": 240172,
+      "num": 262665,
       "word": "赵露思工作室",
       "onboard_time": 1685231722,
       "rank": 23,
@@ -404,7 +412,7 @@
     },
     {
       "raw_hot": 253158,
-      "num": 216346,
+      "num": 220585,
       "word": "EXO十年前快乐大本营花絮",
       "onboard_time": 1685236047,
       "rank": 24,
@@ -425,6 +433,14 @@
       "onboard_time": 1685204489,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 241669,
+      "num": 241669,
+      "word": "宋茜珍珠黄裙造型",
+      "onboard_time": 1685242046,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 241068,
@@ -481,6 +497,14 @@
       "onboard_time": 1685239108,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212859,
+      "num": 212859,
+      "word": "凯尔特人vs热火",
+      "onboard_time": 1685236766,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 206005,
@@ -571,20 +595,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 189272,
+      "num": 189272,
+      "word": "宁艺卓INFP",
+      "onboard_time": 1685241746,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188941,
       "num": 138745,
       "word": "李玉刚 你们销量不好是有原因的",
       "onboard_time": 1685183307,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 188877,
-      "num": 188877,
-      "word": "凯尔特人vs热火",
-      "onboard_time": 1685236766,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 188786,
@@ -603,11 +627,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 182499,
-      "num": 182499,
-      "word": "中高考临近淄博烧烤投诉增多",
-      "onboard_time": 1685241389,
-      "rank": 32,
+      "raw_hot": 179875,
+      "num": 179875,
+      "word": "月经不是什么难以启齿的事",
+      "onboard_time": 1685241327,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -667,8 +691,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166241,
-      "num": 166241,
+      "raw_hot": 168000,
+      "num": 168000,
       "word": "小学生借钱坐公交每个人回应都好暖",
       "onboard_time": 1685240188,
       "rank": 33,
@@ -707,6 +731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 154981,
+      "num": 154981,
+      "word": "C919飞机上有五福临门主题餐",
+      "onboard_time": 1685241147,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154833,
       "num": 154833,
       "word": "吴京说我的金手指一指张译就得奖了",
@@ -716,7 +748,7 @@
     },
     {
       "raw_hot": 154542,
-      "num": 1333532,
+      "num": 1349063,
       "word": "白色大熊猫与大熊猫罕见同框",
       "onboard_time": 1685191350,
       "rank": 2,
@@ -731,27 +763,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151060,
-      "num": 151060,
-      "word": "月经不是什么难以启齿的事",
-      "onboard_time": 1685241327,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151009,
       "num": 151009,
       "word": "周也绿色烟熏妆",
       "onboard_time": 1685238087,
       "rank": 45,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 149421,
-      "num": 149421,
-      "word": "宁艺卓INFP",
-      "onboard_time": 1685241746,
-      "rank": 41,
       "category": "艺人"
     },
     {
@@ -785,14 +801,6 @@
       "onboard_time": 1685209938,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129530,
-      "num": 129530,
-      "word": "C919飞机上有五福临门主题餐",
-      "onboard_time": 1685241147,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122955,
@@ -841,6 +849,14 @@
       "onboard_time": 1685232081,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114134,
+      "num": 114134,
+      "word": "凯尔特人",
+      "onboard_time": 1685242228,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 114110,
