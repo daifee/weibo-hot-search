@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685244816130,
+  "endTime": 1685247571903,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -2003,6 +2003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2005423,
+      "num": 2005423,
+      "word": "中国人终于要坐上国产大飞机",
+      "onboard_time": 1685235506,
+      "rank": 10,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 2005249,
       "num": 2005249,
       "word": "当我和妈妈说离婚了",
@@ -2073,14 +2081,6 @@
       "onboard_time": 1685192611,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1975279,
-      "num": 1975279,
-      "word": "中国人终于要坐上国产大飞机",
-      "onboard_time": 1685235506,
-      "rank": 10,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1972656,
@@ -4465,6 +4465,14 @@
       "onboard_time": 1683184948,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1453369,
+      "num": 1453369,
+      "word": "王一博肖战今日微博开屏",
+      "onboard_time": 1685244989,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1451767,
@@ -9571,6 +9579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 835028,
+      "num": 601512,
+      "word": "Lisa不发比基尼照的原因",
+      "onboard_time": 1685245709,
+      "rank": 10,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 834895,
       "num": 834895,
       "word": "克里姆林宫",
@@ -12011,6 +12027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 669820,
+      "num": 669820,
+      "word": "女子回家发现出租屋变灵堂",
+      "onboard_time": 1685238389,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 669568,
       "num": 346221,
       "word": "妖刀C麻了",
@@ -12201,14 +12225,6 @@
       "onboard_time": 1683683428,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 654545,
-      "num": 654545,
-      "word": "女子回家发现出租屋变灵堂",
-      "onboard_time": 1685238389,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 654225,
@@ -17771,6 +17787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 457763,
+      "num": 457763,
+      "word": "浙江大学生激烈讨论没钱生不生孩子",
+      "onboard_time": 1685231242,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 457483,
       "num": 457483,
       "word": "涉事景区称插队事件自己也是受损方",
@@ -18201,14 +18225,6 @@
       "onboard_time": 1684373489,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 448100,
-      "num": 390512,
-      "word": "浙江大学生激烈讨论没钱生不生孩子",
-      "onboard_time": 1685231242,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 447989,
@@ -21059,6 +21075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 396049,
+      "num": 285348,
+      "word": "宋丹丹被气到吸氧",
+      "onboard_time": 1685244327,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 396041,
       "num": 230336,
       "word": "劝退了频繁请假的7岁琴童",
@@ -22305,6 +22329,14 @@
       "onboard_time": 1683332729,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 376655,
+      "num": 376655,
+      "word": "赵露思工作室",
+      "onboard_time": 1685231722,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 376647,
@@ -23563,6 +23595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 359277,
+      "num": 359277,
+      "word": "蟑螂真的太恐怖了",
+      "onboard_time": 1685245647,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 359218,
       "num": 359218,
       "word": "说唱巅峰对决音乐节",
@@ -23665,14 +23705,6 @@
       "onboard_time": 1684135169,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 358187,
-      "num": 358187,
-      "word": "赵露思工作室",
-      "onboard_time": 1685231722,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 357554,
@@ -24297,6 +24329,14 @@
       "onboard_time": 1683387272,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 349682,
+      "num": 349682,
+      "word": "王源重庆演唱会邀请了中学校长和老师",
+      "onboard_time": 1685243909,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 349636,
@@ -29467,6 +29507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 287098,
+      "num": 287098,
+      "word": "唐三视角重启斗罗大陆",
+      "onboard_time": 1685247148,
+      "rank": 19,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 287092,
       "num": 287092,
       "word": "Ruler大满贯",
@@ -34091,6 +34139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 247771,
+      "num": 247771,
+      "word": "桃花坞3定档",
+      "onboard_time": 1685246966,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247615,
       "num": 247615,
       "word": "五一的必吃清单",
@@ -35435,14 +35491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 238149,
-      "num": 238149,
-      "word": "王源重庆演唱会邀请了中学校长和老师",
-      "onboard_time": 1685243909,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 238071,
       "num": 238071,
       "word": "宋茜沈月秀场同框",
@@ -36233,14 +36281,6 @@
       "onboard_time": 1685191890,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 233850,
-      "num": 233850,
-      "word": "宋丹丹被气到吸氧",
-      "onboard_time": 1685244327,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 233688,
@@ -40411,6 +40451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206533,
+      "num": 206533,
+      "word": "不良执念清除师",
+      "onboard_time": 1683339930,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206452,
       "num": 206452,
       "word": "周杰伦香港演唱会盛况",
@@ -40521,6 +40569,14 @@
       "onboard_time": 1682947469,
       "rank": 46,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 205809,
+      "num": 205809,
+      "word": "欧豪背白鹿路透",
+      "onboard_time": 1685246249,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205799,
@@ -41641,14 +41697,6 @@
       "onboard_time": 1683702994,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199639,
-      "num": 199639,
-      "word": "不良执念清除师",
-      "onboard_time": 1683339930,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 199592,
@@ -44371,6 +44419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185428,
+      "num": 185428,
+      "word": "迪丽热巴公诉倒计时海报",
+      "onboard_time": 1685247207,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185383,
       "num": 185383,
       "word": "孟美岐今日活动生图状态",
@@ -45753,6 +45809,14 @@
       "onboard_time": 1683090871,
       "rank": 41,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 177663,
+      "num": 177663,
+      "word": "在文彬的悼念空间留下手写信的秀雅",
+      "onboard_time": 1685245470,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 177565,
@@ -48387,6 +48451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161832,
+      "num": 161832,
+      "word": "那英说把张艺兴舞蹈观搞垮了",
+      "onboard_time": 1685246966,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161829,
       "num": 161829,
       "word": "杭州动物园大量游客乱投喂",
@@ -50769,6 +50841,14 @@
       "onboard_time": 1684305091,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 147835,
+      "num": 147835,
+      "word": "周深斗罗新歌璀璨冒险人上线",
+      "onboard_time": 1685246308,
+      "rank": 46,
+      "category": "动漫,音乐"
     },
     {
       "raw_hot": 147831,
@@ -59225,6 +59305,14 @@
       "onboard_time": 1683312913,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26850,
+      "num": 170303,
+      "word": "保发止秃好事发生",
+      "onboard_time": 1685246429,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26829,
