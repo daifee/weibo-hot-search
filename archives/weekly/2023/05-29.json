@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685306013993,
+  "endTime": 1685308438530,
   "band_list": [
     {
       "raw_hot": 1579628,
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33248,
+      "num": 33248,
+      "word": "C919机票",
+      "onboard_time": 1685305572,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25795,
       "num": 25795,
       "word": "新疆草莓音乐节",
@@ -483,20 +491,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 23536,
+      "num": 23536,
+      "word": "不怕压力不生癌",
+      "onboard_time": 1685304672,
+      "rank": 27,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 19322,
       "num": 19322,
       "word": "薛之谦演唱会",
       "onboard_time": 1685181328,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 15106,
-      "num": 15824,
-      "word": "C919机票",
-      "onboard_time": 1685305572,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14812,

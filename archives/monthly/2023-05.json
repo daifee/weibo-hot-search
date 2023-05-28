@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685306013993,
+  "endTime": 1685308438530,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -60659,6 +60659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33248,
+      "num": 33248,
+      "word": "C919机票",
+      "onboard_time": 1685305572,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32926,
       "num": 32926,
       "word": "你会在对方一无所有的时候结婚吗",
@@ -61067,6 +61075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23536,
+      "num": 23536,
+      "word": "不怕压力不生癌",
+      "onboard_time": 1685304672,
+      "rank": 27,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 23317,
       "num": 28468,
       "word": "自助跳楼机",
@@ -61289,14 +61305,6 @@
       "onboard_time": 1683060672,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 15106,
-      "num": 15824,
-      "word": "C919机票",
-      "onboard_time": 1685305572,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14812,
