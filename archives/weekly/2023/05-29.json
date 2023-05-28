@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685308438530,
+  "endTime": 1685309606675,
   "band_list": [
     {
       "raw_hot": 1579628,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43660,
+      "num": 43660,
+      "word": "C919机票",
+      "onboard_time": 1685305572,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36613,
       "num": 1053205,
       "word": "沉浸式体验虚拟未来世界",
@@ -475,12 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33248,
-      "num": 33248,
-      "word": "C919机票",
-      "onboard_time": 1685305572,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 31850,
+      "num": 31850,
+      "word": "不怕压力不生癌",
+      "onboard_time": 1685304672,
+      "rank": 27,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 25795,
@@ -489,14 +497,6 @@
       "onboard_time": 1685299815,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 23536,
-      "num": 23536,
-      "word": "不怕压力不生癌",
-      "onboard_time": 1685304672,
-      "rank": 27,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 19322,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 14812,
-      "num": 17247,
+      "num": 18740,
       "word": "范丞丞祝愿每个人都能大胆向前",
       "onboard_time": 1685303653,
       "rank": 47,
