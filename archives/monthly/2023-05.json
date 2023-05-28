@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685304998966,
+  "endTime": 1685306013993,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -61291,20 +61291,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15106,
+      "num": 15824,
+      "word": "C919机票",
+      "onboard_time": 1685305572,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14812,
+      "num": 17247,
+      "word": "范丞丞祝愿每个人都能大胆向前",
+      "onboard_time": 1685303653,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 14520,
       "num": 1043584,
       "word": "卫星视角下的花开中国太美了",
       "onboard_time": 1682839286,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14068,
-      "num": 17247,
-      "word": "范丞丞祝愿每个人都能大胆向前",
-      "onboard_time": 1685303653,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 13676,

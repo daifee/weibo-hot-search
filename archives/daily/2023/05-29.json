@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685304998966,
+  "endTime": 1685306013993,
   "band_list": [
     {
       "raw_hot": 1579628,
@@ -491,7 +491,15 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 14068,
+      "raw_hot": 15106,
+      "num": 15824,
+      "word": "C919机票",
+      "onboard_time": 1685305572,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14812,
       "num": 17247,
       "word": "范丞丞祝愿每个人都能大胆向前",
       "onboard_time": 1685303653,
