@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685294031992,
+  "endTime": 1685295212082,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -30899,6 +30899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 282858,
+      "num": 200098,
+      "word": "和人接触不要陷入对立情绪",
+      "onboard_time": 1685290765,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 282787,
       "num": 282787,
       "word": "ENHYPEN新歌上线",
@@ -42745,14 +42753,6 @@
       "onboard_time": 1684069649,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 200098,
-      "num": 200098,
-      "word": "和人接触不要陷入对立情绪",
-      "onboard_time": 1685290765,
-      "rank": 49,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 199987,
@@ -58579,6 +58579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77915,
+      "num": 77915,
+      "word": "青岛艾可什机场音乐节",
+      "onboard_time": 1685294598,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 77880,
       "num": 77880,
       "word": "休宁巴伊叶因家人去世缺席活动",
@@ -59145,6 +59153,14 @@
       "onboard_time": 1683502224,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68230,
+      "num": 68230,
+      "word": "黄晓明以为303是二次元",
+      "onboard_time": 1685294060,
+      "rank": 36,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 67992,

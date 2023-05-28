@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685294031992,
+  "endTime": 1685295212082,
   "band_list": [
     {
       "raw_hot": 1579628,
@@ -155,6 +155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 282858,
+      "num": 200098,
+      "word": "和人接触不要陷入对立情绪",
+      "onboard_time": 1685290765,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 277617,
       "num": 277617,
       "word": "白敬亭参加发小婚礼",
@@ -257,14 +265,6 @@
       "onboard_time": 1685287710,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 200098,
-      "num": 200098,
-      "word": "和人接触不要陷入对立情绪",
-      "onboard_time": 1685290765,
-      "rank": 49,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 195105,
@@ -427,6 +427,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 77915,
+      "num": 77915,
+      "word": "青岛艾可什机场音乐节",
+      "onboard_time": 1685294598,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 68230,
+      "num": 68230,
+      "word": "黄晓明以为303是二次元",
+      "onboard_time": 1685294060,
+      "rank": 36,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 67670,
       "num": 67670,
       "word": "tablo",
@@ -454,6 +470,9 @@
   "hotgov_list": [
     {
       "word": "#神十六各系统准备就绪#"
+    },
+    {
+      "word": "#中国高铁如何创造世界之最#"
     }
   ]
 }
