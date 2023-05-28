@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685262814085,
+  "endTime": 1685265396273,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -3772,7 +3772,7 @@
     },
     {
       "raw_hot": 1569750,
-      "num": 314901,
+      "num": 356468,
       "word": "成都体育学院打人",
       "onboard_time": 1685257048,
       "rank": 10,
@@ -6041,6 +6041,14 @@
       "onboard_time": 1683115288,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1223225,
+      "num": 740976,
+      "word": "迪丽热巴私服",
+      "onboard_time": 1685264428,
+      "rank": 3,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 1222991,
@@ -10851,6 +10859,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 738669,
+      "num": 738669,
+      "word": "黑莲花男主 成毅",
+      "onboard_time": 1685262269,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 738593,
       "num": 738593,
       "word": "好利来",
@@ -13700,7 +13716,7 @@
     },
     {
       "raw_hot": 583584,
-      "num": 313316,
+      "num": 561678,
       "word": "步步倾心杀青",
       "onboard_time": 1685260589,
       "rank": 11,
@@ -15275,6 +15291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 528335,
+      "num": 528335,
+      "word": "丫丫回北京将和萌兰做邻居",
+      "onboard_time": 1685262809,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 527793,
       "num": 527793,
       "word": "湖南男子在西湖捞手机日入约一万",
@@ -16537,6 +16561,14 @@
       "onboard_time": 1682934808,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 490921,
+      "num": 490921,
+      "word": "国航2825",
+      "onboard_time": 1685260948,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 490842,
@@ -18409,6 +18441,14 @@
       "onboard_time": 1684411948,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 447234,
+      "num": 179403,
+      "word": "孟子义说在满江红和无名里选择了无名",
+      "onboard_time": 1685262329,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 447213,
@@ -23819,6 +23859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 358801,
+      "num": 358801,
+      "word": "马龙 复刻杯",
+      "onboard_time": 1685263890,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 358704,
       "num": 358704,
       "word": "生完四胞胎又怀四胞胎女子终止妊娠",
@@ -27395,6 +27443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312699,
+      "num": 312699,
+      "word": "张大大cos请回答1988正峰",
+      "onboard_time": 1685264908,
+      "rank": 12,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 312656,
       "num": 312656,
       "word": "三太子精致生活的日常",
@@ -28427,6 +28483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299867,
+      "num": 299867,
+      "word": "李坤城儿子李卓轩控诉林靖恩",
+      "onboard_time": 1685262209,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299831,
       "num": 299831,
       "word": "时代峰峻否认练习生底薪8000",
@@ -28505,14 +28569,6 @@
       "onboard_time": 1683706289,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 298601,
-      "num": 254594,
-      "word": "黑莲花男主 成毅",
-      "onboard_time": 1685262269,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 298535,
@@ -31601,14 +31657,6 @@
       "onboard_time": 1684804828,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 270294,
-      "num": 270294,
-      "word": "国航2825",
-      "onboard_time": 1685260948,
-      "rank": 38,
-      "category": "科技"
     },
     {
       "raw_hot": 270127,
@@ -34832,14 +34880,6 @@
       "word": "徐明浩脱衣服干活",
       "onboard_time": 1685178329,
       "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 244770,
-      "num": 171136,
-      "word": "孟子义说在满江红和无名里选择了无名",
-      "onboard_time": 1685262329,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -40899,14 +40939,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 206142,
-      "num": 150881,
-      "word": "李坤城儿子李卓轩控诉林靖恩",
-      "onboard_time": 1685262209,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206098,
       "num": 206098,
       "word": "七旬爷爷买奶茶领情侣证送老伴",
@@ -41905,6 +41937,14 @@
       "onboard_time": 1683638252,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200904,
+      "num": 200904,
+      "word": "精致羞耻症",
+      "onboard_time": 1685264669,
+      "rank": 18,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 200870,
@@ -43080,6 +43120,14 @@
       "word": "王一栩说刘诗诗是我们的天选淮竹",
       "onboard_time": 1683695800,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 194440,
+      "num": 174875,
+      "word": "张彬彬算现偶遗珠吗",
+      "onboard_time": 1685262507,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -45651,6 +45699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179922,
+      "num": 179922,
+      "word": "波音",
+      "onboard_time": 1685261128,
+      "rank": 45,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 179904,
       "num": 179904,
       "word": "4000斤麦子掉鱼塘村民集体帮打捞",
@@ -46801,6 +46857,14 @@
       "onboard_time": 1684213236,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 174812,
+      "num": 174812,
+      "word": "市民被压车底20多人瞬间跑来救人",
+      "onboard_time": 1685260291,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174741,
@@ -48577,14 +48641,6 @@
       "onboard_time": 1682931687,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 163687,
-      "num": 163687,
-      "word": "市民被压车底20多人瞬间跑来救人",
-      "onboard_time": 1685260291,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163673,
@@ -50803,14 +50859,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 150782,
-      "num": 150782,
-      "word": "波音",
-      "onboard_time": 1685261128,
-      "rank": 45,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 150765,
       "num": 150765,
       "word": "饥饿游戏",
@@ -51065,6 +51113,14 @@
       "onboard_time": 1684661249,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 149405,
+      "num": 149405,
+      "word": "RedVelvet比心四个人各比各的",
+      "onboard_time": 1685263529,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 149404,
@@ -53891,14 +53947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128553,
-      "num": 128553,
-      "word": "张彬彬算现偶遗珠吗",
-      "onboard_time": 1685262507,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 128525,
       "num": 128525,
       "word": "上海一公司为庆祝Twins出道放假1天",
@@ -54441,6 +54489,14 @@
       "onboard_time": 1684633168,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124095,
+      "num": 116916,
+      "word": "电影消失的她",
+      "onboard_time": 1685264970,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 124060,
@@ -56979,6 +57035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92362,
+      "num": 108686,
+      "word": "LPL夏季赛主宣传片",
+      "onboard_time": 1685263589,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 92178,
       "num": 218161,
       "word": "你会因为KPI不达标焦虑吗",
@@ -57009,6 +57073,14 @@
       "onboard_time": 1684900833,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 91908,
+      "num": 108377,
+      "word": "青春结束了的感知",
+      "onboard_time": 1685265270,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 91814,
@@ -60145,6 +60217,14 @@
       "onboard_time": 1684953853,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18904,
+      "num": 281217,
+      "word": "女子落水小伙跳湖营救岸上人暖心接力",
+      "onboard_time": 1685264428,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18370,

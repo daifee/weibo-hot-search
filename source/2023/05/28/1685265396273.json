@@ -1,0 +1,410 @@
+{
+  "runTime": 1685265396273,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1416570,
+        "num": 1416570,
+        "word": "孙悟空被压了500年都没有黑化",
+        "onboard_time": 1685255908,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 783570,
+        "num": 783570,
+        "word": "仙剑奇侠传3 翻拍",
+        "onboard_time": 1685257947,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95548,
+        "num": 741682,
+        "word": "C919全球首次商业载客飞行",
+        "onboard_time": 1685243666,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1223225,
+        "num": 740976,
+        "word": "迪丽热巴私服",
+        "onboard_time": 1685264428,
+        "rank": 3,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 738669,
+        "num": 738669,
+        "word": "黑莲花男主 成毅",
+        "onboard_time": 1685262269,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 561678,
+        "num": 561678,
+        "word": "步步倾心杀青",
+        "onboard_time": 1685260589,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 528335,
+        "num": 528335,
+        "word": "丫丫回北京将和萌兰做邻居",
+        "onboard_time": 1685262809,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490921,
+        "num": 490921,
+        "word": "国航2825",
+        "onboard_time": 1685260948,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 475367,
+        "num": 475367,
+        "word": "网购虾条居然收到了差评返现卡",
+        "onboard_time": 1685255726,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 358801,
+        "num": 358801,
+        "word": "马龙 复刻杯",
+        "onboard_time": 1685263890,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1266091,
+        "num": 356468,
+        "word": "成都体育学院打人",
+        "onboard_time": 1685257048,
+        "rank": 10,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 350440,
+        "num": 350440,
+        "word": "宋丹丹被气到吸氧",
+        "onboard_time": 1685244327,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312699,
+        "num": 312699,
+        "word": "张大大cos请回答1988正峰",
+        "onboard_time": 1685264908,
+        "rank": 12,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 299867,
+        "num": 299867,
+        "word": "李坤城儿子李卓轩控诉林靖恩",
+        "onboard_time": 1685262209,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18904,
+        "num": 281217,
+        "word": "女子落水小伙跳湖营救岸上人暖心接力",
+        "onboard_time": 1685264428,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276517,
+        "num": 276517,
+        "word": "Lisa不发比基尼照的原因",
+        "onboard_time": 1685245709,
+        "rank": 15,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 209008,
+        "num": 209008,
+        "word": "官方回应水电站放水致2教师溺亡",
+        "onboard_time": 1685257288,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202241,
+        "num": 202241,
+        "word": "老舅董宝石骂人没脏字",
+        "onboard_time": 1685254887,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200904,
+        "num": 200904,
+        "word": "精致羞耻症",
+        "onboard_time": 1685264669,
+        "rank": 18,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 179922,
+        "num": 179922,
+        "word": "波音",
+        "onboard_time": 1685261128,
+        "rank": 19,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 447234,
+        "num": 179403,
+        "word": "孟子义说在满江红和无名里选择了无名",
+        "onboard_time": 1685262329,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424039,
+        "num": 178099,
+        "word": "情侣十年前因父母反对分手",
+        "onboard_time": 1685249667,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 352319,
+        "num": 177053,
+        "word": "被李嘉琦聊天尬住了",
+        "onboard_time": 1685260948,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198050,
+        "num": 175048,
+        "word": "白瘦幼审美 过于恶毒的存在",
+        "onboard_time": 1685234603,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174911,
+        "num": 174911,
+        "word": "为迎接丫丫北京动物园熊猫馆加装安检门",
+        "onboard_time": 1685256267,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201598,
+        "num": 174877,
+        "word": "张子豪 活死人",
+        "onboard_time": 1685256448,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194440,
+        "num": 174875,
+        "word": "张彬彬算现偶遗珠吗",
+        "onboard_time": 1685262507,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193643,
+        "num": 174860,
+        "word": "王鹤棣任敏演我旁观父母吵架",
+        "onboard_time": 1685260048,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174812,
+        "num": 174812,
+        "word": "市民被压车底20多人瞬间跑来救人",
+        "onboard_time": 1685260291,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161152,
+        "num": 161152,
+        "word": "月经紊乱可能和这种癌有关",
+        "onboard_time": 1685250148,
+        "rank": 29,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 183122,
+        "num": 158977,
+        "word": "五月天演唱会志愿者伙食",
+        "onboard_time": 1685254467,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152001,
+        "num": 152001,
+        "word": "二阳",
+        "onboard_time": 1685264129,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150337,
+        "num": 150337,
+        "word": "周深说洗泥巴洗了四十分钟",
+        "onboard_time": 1685257348,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149405,
+        "num": 149405,
+        "word": "RedVelvet比心四个人各比各的",
+        "onboard_time": 1685263529,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149183,
+        "num": 149183,
+        "word": "宋丹丹分房没人选",
+        "onboard_time": 1685257525,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145853,
+        "num": 145853,
+        "word": "工作之外一定要培养一些爱好",
+        "onboard_time": 1685253987,
+        "rank": 35,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 145219,
+        "num": 145219,
+        "word": "5元以下饮料为什么越来越少",
+        "onboard_time": 1685249247,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134407,
+        "num": 134407,
+        "word": "95生的肌肉",
+        "onboard_time": 1685257889,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132027,
+        "num": 132027,
+        "word": "中山一公司为员工提供二阳居家带薪假",
+        "onboard_time": 1685258608,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117287,
+        "num": 117287,
+        "word": "高三班主任为毕业生定制专属火车票",
+        "onboard_time": 1685257889,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131582,
+        "num": 117176,
+        "word": "赵露思虞书欣同款捧脸",
+        "onboard_time": 1685250807,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129606,
+        "num": 117026,
+        "word": "于正一瘦皮就松",
+        "onboard_time": 1685260828,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124095,
+        "num": 116916,
+        "word": "电影消失的她",
+        "onboard_time": 1685264970,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122076,
+        "num": 116772,
+        "word": "看迪丽热巴眼神不用审就招了",
+        "onboard_time": 1685242646,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120057,
+        "num": 116627,
+        "word": "桃花坞分房都不满意但没人敢说",
+        "onboard_time": 1685255788,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116539,
+        "num": 116539,
+        "word": "华晨宇武汉演唱会现场保障升级",
+        "onboard_time": 1685261727,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 111255,
+        "num": 111255,
+        "word": "从26楼撑伞跳下男童生命体征平稳",
+        "onboard_time": 1685237365,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108861,
+        "num": 108861,
+        "word": "好热",
+        "onboard_time": 1685257348,
+        "rank": 47,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 92362,
+        "num": 108686,
+        "word": "LPL夏季赛主宣传片",
+        "onboard_time": 1685263589,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 91908,
+        "num": 108377,
+        "word": "青春结束了的感知",
+        "onboard_time": 1685265270,
+        "rank": 49,
+        "category": "情感,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023数博会上的黑科技#"
+    }
+  }
+}

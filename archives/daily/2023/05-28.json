@@ -1,6 +1,6 @@
 {
   "startTime": 1685204470597,
-  "endTime": 1685262814085,
+  "endTime": 1685265396273,
   "band_list": [
     {
       "raw_hot": 2635395,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1569750,
-      "num": 314901,
+      "num": 356468,
       "word": "成都体育学院打人",
       "onboard_time": 1685257048,
       "rank": 10,
@@ -121,6 +121,14 @@
       "onboard_time": 1685257947,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1223225,
+      "num": 740976,
+      "word": "迪丽热巴私服",
+      "onboard_time": 1685264428,
+      "rank": 3,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 1085081,
@@ -227,6 +235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 738669,
+      "num": 738669,
+      "word": "黑莲花男主 成毅",
+      "onboard_time": 1685262269,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 730856,
       "num": 730856,
       "word": "ai换脸 我对父母的反诈宣传",
@@ -316,7 +332,7 @@
     },
     {
       "raw_hot": 583584,
-      "num": 313316,
+      "num": 561678,
       "word": "步步倾心杀青",
       "onboard_time": 1685260589,
       "rank": 11,
@@ -355,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 528335,
+      "num": 528335,
+      "word": "丫丫回北京将和萌兰做邻居",
+      "onboard_time": 1685262809,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 522905,
       "num": 522905,
       "word": "多特蒙德对得起谁",
@@ -369,6 +393,14 @@
       "onboard_time": 1685192309,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 490921,
+      "num": 490921,
+      "word": "国航2825",
+      "onboard_time": 1685260948,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 482260,
@@ -424,6 +456,14 @@
       "word": "程潇录节目玩手机",
       "onboard_time": 1685189069,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 447234,
+      "num": 179403,
+      "word": "孟子义说在满江红和无名里选择了无名",
+      "onboard_time": 1685262329,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -579,6 +619,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 358801,
+      "num": 358801,
+      "word": "马龙 复刻杯",
+      "onboard_time": 1685263890,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 357281,
       "num": 306751,
       "word": "经常炒菜的人一定要知道",
@@ -683,6 +731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 312699,
+      "num": 312699,
+      "word": "张大大cos请回答1988正峰",
+      "onboard_time": 1685264908,
+      "rank": 12,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 310819,
       "num": 293666,
       "word": "老舅一年一首骂完就走",
@@ -723,12 +779,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 298601,
-      "num": 254594,
-      "word": "黑莲花男主 成毅",
-      "onboard_time": 1685262269,
-      "rank": 16,
-      "category": "影视"
+      "raw_hot": 299867,
+      "num": 299867,
+      "word": "李坤城儿子李卓轩控诉林靖恩",
+      "onboard_time": 1685262209,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 297698,
@@ -811,14 +867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 270294,
-      "num": 270294,
-      "word": "国航2825",
-      "onboard_time": 1685260948,
-      "rank": 38,
-      "category": "科技"
-    },
-    {
       "raw_hot": 268906,
       "num": 268906,
       "word": "为迎接丫丫北京动物园熊猫馆加装安检门",
@@ -889,14 +937,6 @@
       "onboard_time": 1685218393,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 244770,
-      "num": 171136,
-      "word": "孟子义说在满江红和无名里选择了无名",
-      "onboard_time": 1685262329,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 243365,
@@ -1059,14 +1099,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 206142,
-      "num": 150881,
-      "word": "李坤城儿子李卓轩控诉林靖恩",
-      "onboard_time": 1685262209,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206005,
       "num": 168556,
       "word": "五月天 外场",
@@ -1131,6 +1163,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 200904,
+      "num": 200904,
+      "word": "精致羞耻症",
+      "onboard_time": 1685264669,
+      "rank": 18,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 199844,
       "num": 199844,
       "word": "大学生掏鸟案当事人27日刑满释放",
@@ -1169,6 +1209,14 @@
       "onboard_time": 1685238147,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194440,
+      "num": 174875,
+      "word": "张彬彬算现偶遗珠吗",
+      "onboard_time": 1685262507,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 194185,
@@ -1235,6 +1283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179922,
+      "num": 179922,
+      "word": "波音",
+      "onboard_time": 1685261128,
+      "rank": 45,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 179643,
       "num": 133535,
       "word": "大连降雨一高校遍地是小青蛙",
@@ -1249,6 +1305,14 @@
       "onboard_time": 1685245470,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174812,
+      "num": 174812,
+      "word": "市民被压车底20多人瞬间跑来救人",
+      "onboard_time": 1685260291,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171061,
@@ -1347,14 +1411,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 163687,
-      "num": 163687,
-      "word": "市民被压车底20多人瞬间跑来救人",
-      "onboard_time": 1685260291,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162675,
       "num": 162675,
       "word": "檀健次张婧仪实绩",
@@ -1419,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152001,
+      "num": 152001,
+      "word": "二阳",
+      "onboard_time": 1685264129,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151301,
       "num": 151301,
       "word": "王鹤棣说不要和他抢王传君",
@@ -1435,12 +1499,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150782,
-      "num": 150782,
-      "word": "波音",
-      "onboard_time": 1685261128,
-      "rank": 45,
-      "category": "社会新闻,科技"
+      "raw_hot": 149405,
+      "num": 149405,
+      "word": "RedVelvet比心四个人各比各的",
+      "onboard_time": 1685263529,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 147835,
@@ -1531,10 +1595,10 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128553,
-      "num": 128553,
-      "word": "张彬彬算现偶遗珠吗",
-      "onboard_time": 1685262507,
+      "raw_hot": 124095,
+      "num": 116916,
+      "word": "电影消失的她",
+      "onboard_time": 1685264970,
       "rank": 42,
       "category": "影视"
     },
@@ -1691,6 +1755,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 92362,
+      "num": 108686,
+      "word": "LPL夏季赛主宣传片",
+      "onboard_time": 1685263589,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 91908,
+      "num": 108377,
+      "word": "青春结束了的感知",
+      "onboard_time": 1685265270,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 87982,
       "num": 87982,
       "word": "德国男子连做3次断骨增高至1米9",
@@ -1841,6 +1921,14 @@
       "onboard_time": 1685105428,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18904,
+      "num": 281217,
+      "word": "女子落水小伙跳湖营救岸上人暖心接力",
+      "onboard_time": 1685264428,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16591,
