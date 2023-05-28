@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685309606675,
+  "endTime": 1685312118521,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -59667,6 +59667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 56728,
+      "num": 56728,
+      "word": "C919机票",
+      "onboard_time": 1685305572,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56663,
       "num": 124733,
       "word": "EDGM和WB一起点亮星星",
@@ -60043,6 +60051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49104,
+      "num": 49104,
+      "word": "不怕压力不生癌",
+      "onboard_time": 1685304672,
+      "rank": 27,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 49065,
       "num": 49065,
       "word": "杭州亚运会歌曲一脉生长",
@@ -60080,6 +60096,14 @@
       "word": "光荣属于劳动者",
       "onboard_time": 1682948790,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48079,
+      "num": 48079,
+      "word": "织金通报教师不幸溺亡事件",
+      "onboard_time": 1685310973,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -60297,14 +60321,6 @@
       "onboard_time": 1683738918,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 43660,
-      "num": 43660,
-      "word": "C919机票",
-      "onboard_time": 1685305572,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43644,
@@ -60563,6 +60579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36986,
+      "num": 36986,
+      "word": "56岁保安写出40余万字长篇小说",
+      "onboard_time": 1685298615,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36946,
       "num": 36946,
       "word": "美依礼芽龚琳娜认领龚美呐赛",
@@ -60576,14 +60600,6 @@
       "word": "第15个全国防灾减灾日",
       "onboard_time": 1683878908,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36335,
-      "num": 36335,
-      "word": "56岁保安写出40余万字长篇小说",
-      "onboard_time": 1685298615,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -60753,14 +60769,6 @@
       "onboard_time": 1683222135,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 31850,
-      "num": 31850,
-      "word": "不怕压力不生癌",
-      "onboard_time": 1685304672,
-      "rank": 27,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 31538,

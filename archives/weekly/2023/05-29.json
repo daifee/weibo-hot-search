@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685309606675,
+  "endTime": 1685312118521,
   "band_list": [
     {
       "raw_hot": 1579628,
@@ -195,6 +195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 261389,
+      "num": 261389,
+      "word": "丫丫",
+      "onboard_time": 1685276068,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250390,
       "num": 250390,
       "word": "宋仲基说做爸爸是人生最重要的事",
@@ -225,14 +233,6 @@
       "onboard_time": 1685267489,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 217036,
-      "num": 217036,
-      "word": "丫丫",
-      "onboard_time": 1685276068,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213322,
@@ -459,11 +459,35 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43660,
-      "num": 43660,
+      "raw_hot": 56728,
+      "num": 56728,
       "word": "C919机票",
       "onboard_time": 1685305572,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49104,
+      "num": 49104,
+      "word": "不怕压力不生癌",
+      "onboard_time": 1685304672,
+      "rank": 27,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 48079,
+      "num": 48079,
+      "word": "织金通报教师不幸溺亡事件",
+      "onboard_time": 1685310973,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36986,
+      "num": 36986,
+      "word": "56岁保安写出40余万字长篇小说",
+      "onboard_time": 1685298615,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -473,22 +497,6 @@
       "onboard_time": 1685279849,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36335,
-      "num": 36335,
-      "word": "56岁保安写出40余万字长篇小说",
-      "onboard_time": 1685298615,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31850,
-      "num": 31850,
-      "word": "不怕压力不生癌",
-      "onboard_time": 1685304672,
-      "rank": 27,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 25795,
