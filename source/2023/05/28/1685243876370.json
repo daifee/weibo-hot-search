@@ -1,0 +1,410 @@
+{
+  "runTime": 1685243876370,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1916049,
+        "num": 1916049,
+        "word": "中国人终于要坐上国产大飞机",
+        "onboard_time": 1685235506,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1548497,
+        "num": 1548497,
+        "word": "难怪饿死都瘦不了几斤",
+        "onboard_time": 1685233765,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79840,
+        "num": 1310904,
+        "word": "白色大熊猫与大熊猫罕见同框",
+        "onboard_time": 1685191350,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1170965,
+        "num": 1170965,
+        "word": "离职时公司要求留下微信",
+        "onboard_time": 1685232504,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1080987,
+        "num": 1080987,
+        "word": "从26楼撑伞跳下男童生命体征平稳",
+        "onboard_time": 1685237365,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 782269,
+        "num": 782269,
+        "word": "看迪丽热巴眼神不用审就招了",
+        "onboard_time": 1685242646,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 722017,
+        "num": 722017,
+        "word": "戛纳最佳着装",
+        "onboard_time": 1685240367,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 695410,
+        "num": 695410,
+        "word": "宁艺卓ins个人简介更新",
+        "onboard_time": 1685238507,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 654545,
+        "num": 654545,
+        "word": "女子回家发现出租屋变灵堂",
+        "onboard_time": 1685238389,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607895,
+        "num": 607895,
+        "word": "巴特勒怎么了",
+        "onboard_time": 1685240546,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 464325,
+        "num": 464325,
+        "word": "小伙入职后发现同事都在养宠物",
+        "onboard_time": 1685235385,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376644,
+        "num": 376644,
+        "word": "BLACKPINK演唱会被扔上台的玩偶有摄像头",
+        "onboard_time": 1685201310,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 368492,
+        "num": 368492,
+        "word": "浙江大学生激烈讨论没钱生不生孩子",
+        "onboard_time": 1685231242,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363896,
+        "num": 363896,
+        "word": "凯尔特人vs热火",
+        "onboard_time": 1685236766,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 359593,
+        "num": 359593,
+        "word": "月经不是什么难以启齿的事",
+        "onboard_time": 1685241327,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354598,
+        "num": 354598,
+        "word": "赵露思工作室",
+        "onboard_time": 1685231722,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351245,
+        "num": 351245,
+        "word": "MU9191载客起飞",
+        "onboard_time": 1685243727,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346560,
+        "num": 346560,
+        "word": "C919",
+        "onboard_time": 1685239347,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322469,
+        "num": 322469,
+        "word": "老舅 淘汰",
+        "onboard_time": 1685192611,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319116,
+        "num": 319116,
+        "word": "算命 更适合中国宝宝的心理咨询",
+        "onboard_time": 1685201791,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1372018,
+        "num": 314164,
+        "word": "白瘦幼审美 过于恶毒的存在",
+        "onboard_time": 1685234603,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 362135,
+        "num": 312720,
+        "word": "中高考临近淄博烧烤投诉增多",
+        "onboard_time": 1685241389,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361580,
+        "num": 310300,
+        "word": "宋茜珍珠黄裙造型",
+        "onboard_time": 1685242046,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306751,
+        "num": 306751,
+        "word": "经常炒菜的人一定要知道",
+        "onboard_time": 1685237427,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 303708,
+        "num": 303708,
+        "word": "王源真的娶不过来",
+        "onboard_time": 1685243248,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275079,
+        "num": 275079,
+        "word": "凯尔特人",
+        "onboard_time": 1685242228,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269524,
+        "num": 269524,
+        "word": "张子枫的气质",
+        "onboard_time": 1685237427,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 266998,
+        "num": 266998,
+        "word": "C919飞机上有五福临门主题餐",
+        "onboard_time": 1685241147,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245868,
+        "num": 245868,
+        "word": "假球",
+        "onboard_time": 1685202992,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239847,
+        "num": 239847,
+        "word": "五月天演唱会上一场无声的求婚",
+        "onboard_time": 1685233945,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 226249,
+        "num": 226249,
+        "word": "玫瑰故事",
+        "onboard_time": 1685242708,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225587,
+        "num": 225587,
+        "word": "程潇录节目玩手机",
+        "onboard_time": 1685189069,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208167,
+        "num": 208167,
+        "word": "大学生网购零食放虫子敲诈40多次",
+        "onboard_time": 1685229918,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205652,
+        "num": 205652,
+        "word": "幽默不会影响搞笑女的爱情",
+        "onboard_time": 1685243607,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200645,
+        "num": 200645,
+        "word": "C919全球首次商业载客飞行",
+        "onboard_time": 1685243666,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194499,
+        "num": 194499,
+        "word": "孟子义回应迪幂孟扎称号",
+        "onboard_time": 1685199872,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188623,
+        "num": 188623,
+        "word": "EXO十年前快乐大本营花絮",
+        "onboard_time": 1685236047,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186788,
+        "num": 186788,
+        "word": "叶舒华牛仔裙",
+        "onboard_time": 1685230098,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178691,
+        "num": 178691,
+        "word": "你肉体上感到最疼的一次经历",
+        "onboard_time": 1685235506,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172037,
+        "num": 172037,
+        "word": "小朋友嫌幼稚大朋友刚刚好的礼物",
+        "onboard_time": 1685240308,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 168258,
+        "num": 168258,
+        "word": "小学生借钱坐公交每个人回应都好暖",
+        "onboard_time": 1685240188,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165398,
+        "num": 165398,
+        "word": "国际月经日",
+        "onboard_time": 1685239108,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148822,
+        "num": 148822,
+        "word": "MU9191",
+        "onboard_time": 1685236168,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143195,
+        "num": 143195,
+        "word": "二阳会留下后遗症吗",
+        "onboard_time": 1685238147,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128196,
+        "num": 128196,
+        "word": "2023戛纳电影节获奖名单",
+        "onboard_time": 1685240546,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127011,
+        "num": 127011,
+        "word": "赵露思鞠婧祎直播状态",
+        "onboard_time": 1685194474,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124293,
+        "num": 124293,
+        "word": "宁艺卓INFP",
+        "onboard_time": 1685241746,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121210,
+        "num": 121210,
+        "word": "周也绿色烟熏妆",
+        "onboard_time": 1685238087,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119659,
+        "num": 119659,
+        "word": "五十公里桃花坞",
+        "onboard_time": 1685240367,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119214,
+        "num": 119214,
+        "word": "3年内有望实现人猫对话",
+        "onboard_time": 1685237545,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对中关村寄予厚望#"
+    }
+  }
+}

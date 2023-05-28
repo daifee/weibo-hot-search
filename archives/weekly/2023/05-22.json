@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1685242336557,
+  "endTime": 1685243876370,
   "band_list": [
     {
       "raw_hot": 4241479,
@@ -419,6 +419,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1916049,
+      "num": 1916049,
+      "word": "中国人终于要坐上国产大飞机",
+      "onboard_time": 1685235506,
+      "rank": 10,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1915237,
       "num": 1915237,
       "word": "狂飙片方没有为高启强报名",
@@ -545,14 +553,6 @@
       "onboard_time": 1685172208,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1737139,
-      "num": 1737139,
-      "word": "中国人终于要坐上国产大飞机",
-      "onboard_time": 1685235506,
-      "rank": 10,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1730512,
@@ -811,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1548497,
+      "num": 1548497,
+      "word": "难怪饿死都瘦不了几斤",
+      "onboard_time": 1685233765,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1545018,
       "num": 1094614,
       "word": "杨蓉 白玉兰",
@@ -969,14 +977,6 @@
       "onboard_time": 1684842511,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1390994,
-      "num": 1390994,
-      "word": "难怪饿死都瘦不了几斤",
-      "onboard_time": 1685233765,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 1390142,
@@ -2427,6 +2427,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 782269,
+      "num": 782269,
+      "word": "看迪丽热巴眼神不用审就招了",
+      "onboard_time": 1685242646,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 775560,
       "num": 775560,
       "word": "易梦玲综艺首秀",
@@ -2643,6 +2651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 722017,
+      "num": 722017,
+      "word": "戛纳最佳着装",
+      "onboard_time": 1685240367,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 721765,
       "num": 651266,
       "word": "小慧君回应被指封号",
@@ -2747,6 +2763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 695410,
+      "num": 695410,
+      "word": "宁艺卓ins个人简介更新",
+      "onboard_time": 1685238507,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 694633,
       "num": 694633,
       "word": "晋江防盗",
@@ -2809,14 +2833,6 @@
       "onboard_time": 1684829427,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 684371,
-      "num": 684371,
-      "word": "宁艺卓ins个人简介更新",
-      "onboard_time": 1685238507,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 683415,
@@ -2931,8 +2947,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 651298,
-      "num": 464096,
+      "raw_hot": 654545,
+      "num": 654545,
       "word": "女子回家发现出租屋变灵堂",
       "onboard_time": 1685238389,
       "rank": 30,
@@ -3115,6 +3131,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 607895,
+      "num": 607895,
+      "word": "巴特勒怎么了",
+      "onboard_time": 1685240546,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 607372,
       "num": 431588,
       "word": "女生在晚上一定要远离工地",
@@ -3185,14 +3209,6 @@
       "onboard_time": 1684798824,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 593277,
-      "num": 593277,
-      "word": "戛纳最佳着装",
-      "onboard_time": 1685240367,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 592882,
@@ -4436,7 +4452,7 @@
     },
     {
       "raw_hot": 448100,
-      "num": 261305,
+      "num": 368492,
       "word": "浙江大学生激烈讨论没钱生不生孩子",
       "onboard_time": 1685231242,
       "rank": 21,
@@ -4457,14 +4473,6 @@
       "onboard_time": 1684712303,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 446941,
-      "num": 446941,
-      "word": "巴特勒怎么了",
-      "onboard_time": 1685240546,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 445509,
@@ -5635,6 +5643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 363896,
+      "num": 363896,
+      "word": "凯尔特人vs热火",
+      "onboard_time": 1684720109,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 363110,
       "num": 363110,
       "word": "王者荣耀宝格丽互关",
@@ -5667,12 +5683,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 362135,
+      "num": 312720,
+      "word": "中高考临近淄博烧烤投诉增多",
+      "onboard_time": 1685241389,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361823,
       "num": 313553,
       "word": "朱一龙原来真的在模仿余华",
       "onboard_time": 1684734268,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 361580,
+      "num": 310300,
+      "word": "宋茜珍珠黄裙造型",
+      "onboard_time": 1685242046,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 360116,
@@ -5705,6 +5737,14 @@
       "onboard_time": 1684749929,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 359593,
+      "num": 359593,
+      "word": "月经不是什么难以启齿的事",
+      "onboard_time": 1685241327,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 359447,
@@ -5764,7 +5804,7 @@
     },
     {
       "raw_hot": 357281,
-      "num": 259364,
+      "num": 306751,
       "word": "经常炒菜的人一定要知道",
       "onboard_time": 1685237427,
       "rank": 30,
@@ -5787,14 +5827,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 356626,
-      "num": 356626,
-      "word": "凯尔特人vs热火",
-      "onboard_time": 1684720109,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 355362,
       "num": 352626,
       "word": "乘风二公",
@@ -5809,6 +5841,14 @@
       "onboard_time": 1685079271,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 354598,
+      "num": 354598,
+      "word": "赵露思工作室",
+      "onboard_time": 1685231722,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 352708,
@@ -5841,6 +5881,14 @@
       "onboard_time": 1685191229,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 351245,
+      "num": 351245,
+      "word": "MU9191载客起飞",
+      "onboard_time": 1685243727,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351000,
@@ -6723,14 +6771,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 305712,
-      "num": 211573,
-      "word": "中高考临近淄博烧烤投诉增多",
-      "onboard_time": 1685241389,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 305601,
       "num": 2370944,
       "word": "大宝羡慕爸爸和二宝举高高",
@@ -6769,6 +6809,14 @@
       "onboard_time": 1684931129,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 303708,
+      "num": 303708,
+      "word": "王源真的娶不过来",
+      "onboard_time": 1685243248,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 303234,
@@ -7539,14 +7587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 276648,
-      "num": 262665,
-      "word": "赵露思工作室",
-      "onboard_time": 1685231722,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 276623,
       "num": 276623,
       "word": "Lisa彩排生图",
@@ -7601,6 +7641,14 @@
       "onboard_time": 1685150128,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 275079,
+      "num": 275079,
+      "word": "凯尔特人",
+      "onboard_time": 1685242228,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 274835,
@@ -7873,6 +7921,14 @@
       "onboard_time": 1685162068,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 266998,
+      "num": 266998,
+      "word": "C919飞机上有五福临门主题餐",
+      "onboard_time": 1685241147,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266997,
@@ -8699,14 +8755,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 241669,
-      "num": 241669,
-      "word": "宋茜珍珠黄裙造型",
-      "onboard_time": 1685242046,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 241611,
       "num": 241611,
       "word": "院方回应34岁员工天台上吊身亡",
@@ -9409,6 +9457,14 @@
       "onboard_time": 1684898670,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226249,
+      "num": 226249,
+      "word": "玫瑰故事",
+      "onboard_time": 1684986749,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 225913,
@@ -10147,6 +10203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205652,
+      "num": 205652,
+      "word": "幽默不会影响搞笑女的爱情",
+      "onboard_time": 1685243607,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205640,
       "num": 205640,
       "word": "18年RNG全员离队",
@@ -10425,6 +10489,14 @@
       "onboard_time": 1685205326,
       "rank": 48,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 200645,
+      "num": 200645,
+      "word": "C919全球首次商业载客飞行",
+      "onboard_time": 1685243666,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200323,
@@ -11107,14 +11179,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 187787,
-      "num": 187787,
-      "word": "玫瑰故事",
-      "onboard_time": 1684986749,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 187771,
       "num": 549791,
       "word": "全网寻找跪地救人兵哥哥",
@@ -11488,14 +11552,6 @@
       "word": "4000斤麦子掉鱼塘村民集体帮打捞",
       "onboard_time": 1684983447,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179875,
-      "num": 179875,
-      "word": "月经不是什么难以启齿的事",
-      "onboard_time": 1685241327,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -11979,8 +12035,8 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 168000,
-      "num": 168000,
+      "raw_hot": 168258,
+      "num": 168258,
       "word": "小学生借钱坐公交每个人回应都好暖",
       "onboard_time": 1685240188,
       "rank": 33,
@@ -12585,14 +12641,6 @@
       "onboard_time": 1684984288,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154981,
-      "num": 154981,
-      "word": "C919飞机上有五福临门主题餐",
-      "onboard_time": 1685241147,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154928,
@@ -13769,14 +13817,6 @@
       "onboard_time": 1685157088,
       "rank": 47,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 114134,
-      "num": 114134,
-      "word": "凯尔特人",
-      "onboard_time": 1685242228,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 114110,
