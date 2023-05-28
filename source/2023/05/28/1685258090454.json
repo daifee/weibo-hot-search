@@ -1,0 +1,410 @@
+{
+  "runTime": 1685258090454,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1292571,
+        "num": 1292571,
+        "word": "孙悟空被压了500年都没有黑化",
+        "onboard_time": 1685255908,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 722370,
+        "num": 722370,
+        "word": "网购虾条居然收到了差评返现卡",
+        "onboard_time": 1685255726,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69932,
+        "num": 695417,
+        "word": "C919全球首次商业载客飞行",
+        "onboard_time": 1685243666,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1206357,
+        "num": 693504,
+        "word": "王一博肖战今日微博开屏",
+        "onboard_time": 1685244989,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 686538,
+        "num": 686538,
+        "word": "Lisa不发比基尼照的原因",
+        "onboard_time": 1685245709,
+        "rank": 4,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 557395,
+        "num": 557395,
+        "word": "老舅董宝石骂人没脏字",
+        "onboard_time": 1685254887,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 530079,
+        "num": 530079,
+        "word": "女子回家发现出租屋变灵堂",
+        "onboard_time": 1685238389,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528339,
+        "num": 528339,
+        "word": "张子豪 活死人",
+        "onboard_time": 1685256448,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326086,
+        "num": 326086,
+        "word": "MBTI",
+        "onboard_time": 1685255366,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 314923,
+        "num": 314923,
+        "word": "从26楼撑伞跳下男童生命体征平稳",
+        "onboard_time": 1685237365,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480375,
+        "num": 313221,
+        "word": "成都体育学院打人",
+        "onboard_time": 1685257048,
+        "rank": 10,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 441868,
+        "num": 308259,
+        "word": "五月天演唱会志愿者伙食",
+        "onboard_time": 1685254467,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 411681,
+        "num": 305826,
+        "word": "桃花坞分房都不满意但没人敢说",
+        "onboard_time": 1685255788,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362722,
+        "num": 302120,
+        "word": "看迪丽热巴眼神不用审就招了",
+        "onboard_time": 1685242646,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 301103,
+        "num": 301103,
+        "word": "工作之外一定要培养一些爱好",
+        "onboard_time": 1685253987,
+        "rank": 14,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 279200,
+        "num": 279200,
+        "word": "好热",
+        "onboard_time": 1685257348,
+        "rank": 15,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 279227,
+        "num": 278008,
+        "word": "苏炳添二胎得子",
+        "onboard_time": 1685247688,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276300,
+        "num": 276300,
+        "word": "女子乘坐重庆网红电梯不慎摔倒滚落",
+        "onboard_time": 1685251109,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275541,
+        "num": 275541,
+        "word": "中国人终于要坐上国产大飞机",
+        "onboard_time": 1685235506,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 258873,
+        "num": 258873,
+        "word": "为迎接丫丫北京动物园熊猫馆加装安检门",
+        "onboard_time": 1685256267,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1052120,
+        "num": 258721,
+        "word": "情侣十年前因父母反对分手",
+        "onboard_time": 1685249667,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 305268,
+        "num": 249779,
+        "word": "白瘦幼审美 过于恶毒的存在",
+        "onboard_time": 1685234603,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231557,
+        "num": 231557,
+        "word": "丫丫即将启程回北京",
+        "onboard_time": 1685255967,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224213,
+        "num": 224213,
+        "word": "难怪饿死都瘦不了几斤",
+        "onboard_time": 1685233765,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222161,
+        "num": 222161,
+        "word": "赵露思虞书欣同款捧脸",
+        "onboard_time": 1685250807,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221623,
+        "num": 221623,
+        "word": "王鹤棣不选宋丹丹做室友",
+        "onboard_time": 1685248949,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210338,
+        "num": 210338,
+        "word": "蟑螂真的太恐怖了",
+        "onboard_time": 1685245647,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199891,
+        "num": 199891,
+        "word": "宋丹丹分房没人选",
+        "onboard_time": 1685257525,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197673,
+        "num": 197673,
+        "word": "周深说洗泥巴洗了四十分钟",
+        "onboard_time": 1685257348,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195671,
+        "num": 195671,
+        "word": "王传君鸟鸟i人坐车实录",
+        "onboard_time": 1685253390,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195641,
+        "num": 195641,
+        "word": "宋丹丹被气到吸氧",
+        "onboard_time": 1685244327,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191323,
+        "num": 191323,
+        "word": "月经紊乱可能和这种癌有关",
+        "onboard_time": 1685250148,
+        "rank": 31,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 182569,
+        "num": 182569,
+        "word": "官方回应水电站放水致2教师溺亡",
+        "onboard_time": 1685257288,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174319,
+        "num": 174319,
+        "word": "宁艺卓ins个人简介更新",
+        "onboard_time": 1685238507,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169074,
+        "num": 169074,
+        "word": "张雪峰评985硕士直播耍杂技",
+        "onboard_time": 1685249307,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157686,
+        "num": 157686,
+        "word": "宋茜经常请吃饭的姐姐",
+        "onboard_time": 1685253088,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155722,
+        "num": 155722,
+        "word": "5元以下饮料为什么越来越少",
+        "onboard_time": 1685249247,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153227,
+        "num": 153227,
+        "word": "张国立 桃花坞",
+        "onboard_time": 1685257767,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147406,
+        "num": 147406,
+        "word": "仙剑奇侠传3 翻拍",
+        "onboard_time": 1685257947,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142825,
+        "num": 142825,
+        "word": "戛纳最佳着装",
+        "onboard_time": 1685240367,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140072,
+        "num": 140072,
+        "word": "赵露思白裙广告拍摄图",
+        "onboard_time": 1685254769,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138615,
+        "num": 138615,
+        "word": "95生的肌肉",
+        "onboard_time": 1685257889,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129830,
+        "num": 129830,
+        "word": "美依礼芽给李莎旻子留灯",
+        "onboard_time": 1685251649,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129267,
+        "num": 129267,
+        "word": "王鹤棣说告诉老默我想吃鱼了",
+        "onboard_time": 1685255606,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122345,
+        "num": 122345,
+        "word": "彭昱畅张子枫无处不在",
+        "onboard_time": 1685250328,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119472,
+        "num": 119472,
+        "word": "高三班主任为毕业生定制专属火车票",
+        "onboard_time": 1685257889,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104754,
+        "num": 104754,
+        "word": "黄旭杨和苏在一起就是冠军相",
+        "onboard_time": 1685254107,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100615,
+        "num": 100615,
+        "word": "C919商业首航成功",
+        "onboard_time": 1685248888,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92593,
+        "num": 100519,
+        "word": "巴特勒怎么了",
+        "onboard_time": 1685240546,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63283,
+        "num": 100480,
+        "word": "2023年大马羽毛球大师赛",
+        "onboard_time": 1685258068,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023网络名人湖北行#"
+    }
+  }
+}

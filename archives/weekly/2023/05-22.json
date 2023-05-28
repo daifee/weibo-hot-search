@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1685255616838,
+  "endTime": 1685258090454,
   "band_list": [
     {
       "raw_hot": 4241479,
@@ -1233,6 +1233,14 @@
       "onboard_time": 1685155347,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1292571,
+      "num": 1292571,
+      "word": "孙悟空被压了500年都没有黑化",
+      "onboard_time": 1685255908,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 1287644,
@@ -2699,6 +2707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 722370,
+      "num": 722370,
+      "word": "网购虾条居然收到了差评返现卡",
+      "onboard_time": 1685255726,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 722089,
       "num": 722089,
       "word": "高亚麟揪易烊千玺耳朵",
@@ -3531,6 +3547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 557395,
+      "num": 557395,
+      "word": "老舅董宝石骂人没脏字",
+      "onboard_time": 1685254887,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 554582,
       "num": 554582,
       "word": "宋仲基亮相戛纳",
@@ -3697,6 +3721,14 @@
       "onboard_time": 1684983628,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 528339,
+      "num": 528339,
+      "word": "张子豪 活死人",
+      "onboard_time": 1685256448,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 527250,
@@ -4195,6 +4227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 480375,
+      "num": 313221,
+      "word": "成都体育学院打人",
+      "onboard_time": 1685257048,
+      "rank": 10,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 478046,
       "num": 478046,
       "word": "张杰南京",
@@ -4635,6 +4675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 441868,
+      "num": 340687,
+      "word": "五月天演唱会志愿者伙食",
+      "onboard_time": 1685254467,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 441248,
       "num": 441248,
       "word": "王曼昱vs陈幸同",
@@ -5019,6 +5067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 411681,
+      "num": 305826,
+      "word": "桃花坞分房都不满意但没人敢说",
+      "onboard_time": 1685255788,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 411060,
       "num": 411060,
       "word": "孙颖莎王曼昱0比3田志希申裕斌",
@@ -5308,7 +5364,7 @@
     },
     {
       "raw_hot": 392317,
-      "num": 392317,
+      "num": 695417,
       "word": "C919全球首次商业载客飞行",
       "onboard_time": 1685243666,
       "rank": 34,
@@ -6219,14 +6275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 340687,
-      "num": 340687,
-      "word": "五月天演唱会志愿者伙食",
-      "onboard_time": 1685254467,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 339959,
       "num": 339959,
       "word": "乘风二公总排名",
@@ -6481,6 +6529,14 @@
       "onboard_time": 1684941029,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 326086,
+      "num": 326086,
+      "word": "MBTI",
+      "onboard_time": 1685255366,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 325865,
@@ -7049,6 +7105,14 @@
       "onboard_time": 1684813050,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 301103,
+      "num": 301103,
+      "word": "工作之外一定要培养一些爱好",
+      "onboard_time": 1685253987,
+      "rank": 30,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 301039,
@@ -7713,6 +7777,14 @@
       "onboard_time": 1684939773,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279200,
+      "num": 279200,
+      "word": "好热",
+      "onboard_time": 1685257348,
+      "rank": 15,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 278752,
@@ -8441,6 +8513,14 @@
       "onboard_time": 1685161768,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 258873,
+      "num": 258873,
+      "word": "为迎接丫丫北京动物园熊猫馆加装安检门",
+      "onboard_time": 1685256267,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258868,
@@ -9515,6 +9595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 231557,
+      "num": 231557,
+      "word": "丫丫即将启程回北京",
+      "onboard_time": 1685255967,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231419,
       "num": 231419,
       "word": "这个周一看熊猫",
@@ -10041,14 +10129,6 @@
       "onboard_time": 1685239108,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 218856,
-      "num": 218856,
-      "word": "工作之外一定要培养一些爱好",
-      "onboard_time": 1685253987,
-      "rank": 30,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 218469,
@@ -10731,14 +10811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201583,
-      "num": 178515,
-      "word": "老舅董宝石骂人没脏字",
-      "onboard_time": 1685254887,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 201541,
       "num": 201541,
       "word": "星卡里",
@@ -10793,6 +10865,14 @@
       "onboard_time": 1684922791,
       "rank": 46,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 199891,
+      "num": 199891,
+      "word": "宋丹丹分房没人选",
+      "onboard_time": 1685257525,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 199847,
@@ -10897,6 +10977,14 @@
       "onboard_time": 1685027493,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197673,
+      "num": 197673,
+      "word": "周深说洗泥巴洗了四十分钟",
+      "onboard_time": 1685257348,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 197658,
@@ -11713,6 +11801,14 @@
       "onboard_time": 1685192373,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182569,
+      "num": 182569,
+      "word": "官方回应水电站放水致2教师溺亡",
+      "onboard_time": 1685257288,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182462,
@@ -13067,6 +13163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153227,
+      "num": 153227,
+      "word": "张国立 桃花坞",
+      "onboard_time": 1685257767,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153226,
       "num": 146911,
       "word": "请成为我的家人",
@@ -13291,6 +13395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147406,
+      "num": 147406,
+      "word": "仙剑奇侠传3 翻拍",
+      "onboard_time": 1685257947,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 147389,
       "num": 147389,
       "word": "特效前后的变化有多大",
@@ -13467,6 +13579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140072,
+      "num": 140072,
+      "word": "赵露思白裙广告拍摄图",
+      "onboard_time": 1685254769,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139767,
       "num": 139767,
       "word": "白宇说那你们想多了",
@@ -13497,6 +13617,14 @@
       "onboard_time": 1685040374,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138615,
+      "num": 138615,
+      "word": "95生的肌肉",
+      "onboard_time": 1685257889,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 138475,
@@ -13803,6 +13931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129267,
+      "num": 129267,
+      "word": "王鹤棣说告诉老默我想吃鱼了",
+      "onboard_time": 1685255606,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129096,
       "num": 129096,
       "word": "广东三支一扶",
@@ -13891,36 +14027,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 126150,
-      "num": 126035,
-      "word": "王鹤棣说告诉老默我想吃鱼了",
-      "onboard_time": 1685255606,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 126113,
       "num": 126113,
       "word": "货拉拉案司机提出申诉",
       "onboard_time": 1684894227,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126081,
-      "num": 126081,
-      "word": "MBTI",
-      "onboard_time": 1685255366,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 125635,
-      "num": 125635,
-      "word": "赵露思白裙广告拍摄图",
-      "onboard_time": 1685254769,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 125541,
@@ -14112,6 +14224,14 @@
       "word": "湛江当街杀人男子判死刑当庭上诉",
       "onboard_time": 1684788732,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119472,
+      "num": 119472,
+      "word": "高三班主任为毕业生定制专属火车票",
+      "onboard_time": 1685257889,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -14993,6 +15113,14 @@
       "onboard_time": 1684737507,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 63283,
+      "num": 100480,
+      "word": "2023年大马羽毛球大师赛",
+      "onboard_time": 1685258068,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 62992,
