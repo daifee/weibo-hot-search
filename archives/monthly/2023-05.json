@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685230414430,
+  "endTime": 1685238039275,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1889,6 +1889,14 @@
       "onboard_time": 1684467089,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2055500,
+      "num": 2055500,
+      "word": "白瘦幼审美 过于恶毒的存在",
+      "onboard_time": 1685234603,
+      "rank": 0,
+      "category": "情感"
     },
     {
       "raw_hot": 2048424,
@@ -4497,6 +4505,14 @@
       "onboard_time": 1684028787,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1440506,
+      "num": 1440506,
+      "word": "离职时公司要求留下微信",
+      "onboard_time": 1685232504,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 1439742,
@@ -7747,6 +7763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1019044,
+      "num": 1019044,
+      "word": "难怪饿死都瘦不了几斤",
+      "onboard_time": 1685233765,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1017232,
       "num": 1017232,
       "word": "广东13岁女孩疑被邻居性侵",
@@ -10083,6 +10107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 792362,
+      "num": 445351,
+      "word": "中国人终于要坐上国产大飞机",
+      "onboard_time": 1685235506,
+      "rank": 10,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 790881,
       "num": 790881,
       "word": "大脑发育30岁才完成",
@@ -10225,6 +10257,14 @@
       "onboard_time": 1684752627,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 773662,
+      "num": 773662,
+      "word": "小伙入职后发现同事都在养宠物",
+      "onboard_time": 1685235385,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 773263,
@@ -10849,6 +10889,14 @@
       "onboard_time": 1684107445,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 730856,
+      "num": 730856,
+      "word": "ai换脸 我对父母的反诈宣传",
+      "onboard_time": 1685228416,
+      "rank": 31,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 730734,
@@ -17371,6 +17419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 464058,
+      "num": 206226,
+      "word": "MU9191",
+      "onboard_time": 1685236168,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 463834,
       "num": 463834,
       "word": "LOL暂时禁用四个英雄",
@@ -18209,6 +18265,14 @@
       "onboard_time": 1684146989,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 445704,
+      "num": 205811,
+      "word": "浙江大学生激烈讨论没钱生不生孩子",
+      "onboard_time": 1685231242,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 445509,
@@ -20825,6 +20889,14 @@
       "onboard_time": 1684145070,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 397459,
+      "num": 205677,
+      "word": "你肉体上感到最疼的一次经历",
+      "onboard_time": 1685235506,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 397371,
@@ -25283,6 +25355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 333272,
+      "num": 333272,
+      "word": "五月天演唱会上一场无声的求婚",
+      "onboard_time": 1685233945,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 333085,
       "num": 276447,
       "word": "hanni新闻图",
@@ -27523,6 +27603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 305174,
+      "num": 305174,
+      "word": "从26楼撑伞跳下男童生命体征平稳",
+      "onboard_time": 1685237365,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305163,
       "num": 305163,
       "word": "朱一龙入选法国GQ戛纳红毯最时尚的男人",
@@ -28065,6 +28153,14 @@
       "onboard_time": 1684662208,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 297698,
+      "num": 297698,
+      "word": "大学生网购零食放虫子敲诈40多次",
+      "onboard_time": 1685229918,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297690,
@@ -30425,6 +30521,14 @@
       "onboard_time": 1684322786,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 276648,
+      "num": 205233,
+      "word": "赵露思工作室",
+      "onboard_time": 1685231722,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 276623,
@@ -33939,6 +34043,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 246564,
+      "num": 246564,
+      "word": "全球唯一白色大熊猫野外撒欢",
+      "onboard_time": 1685218393,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246562,
       "num": 246562,
       "word": "袁弘婚前给张歆艺银行卡密码",
@@ -35697,6 +35809,14 @@
       "onboard_time": 1685094270,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 235268,
+      "num": 204935,
+      "word": "EXO十年前快乐大本营花絮",
+      "onboard_time": 1685236047,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 235180,
@@ -39571,14 +39691,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 210143,
-      "num": 210143,
-      "word": "全球唯一白色大熊猫野外撒欢",
-      "onboard_time": 1685218393,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210073,
       "num": 193258,
       "word": "小鬼你管得着吗",
@@ -40121,6 +40233,14 @@
       "onboard_time": 1685022813,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206333,
+      "num": 206333,
+      "word": "叶舒华牛仔裙",
+      "onboard_time": 1685230098,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 206273,
@@ -40771,6 +40891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202862,
+      "num": 170684,
+      "word": "经常炒菜的人一定要知道",
+      "onboard_time": 1685237427,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 202849,
       "num": 168253,
       "word": "五月天杭州演唱会票不能转赠",
@@ -41297,6 +41425,14 @@
       "onboard_time": 1685088510,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 199844,
+      "num": 199844,
+      "word": "大学生掏鸟案当事人27日刑满释放",
+      "onboard_time": 1685210894,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199640,
@@ -42315,6 +42451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194185,
+      "num": 194185,
+      "word": "卢拉拒绝普京邀请",
+      "onboard_time": 1685233585,
+      "rank": 27,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 194170,
       "num": 194170,
       "word": "小矛盾是否值得成为全民讨论热点",
@@ -42953,6 +43097,14 @@
       "onboard_time": 1683764608,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190671,
+      "num": 190671,
+      "word": "王鹤棣说在我心中三傻只有一个",
+      "onboard_time": 1685230700,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 190659,
@@ -44089,14 +44241,6 @@
       "onboard_time": 1684717946,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 184682,
-      "num": 184682,
-      "word": "大学生掏鸟案当事人27日刑满释放",
-      "onboard_time": 1685210894,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184633,
@@ -46699,6 +46843,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 170696,
+      "num": 170696,
+      "word": "宋丹丹问李雪琴是不是谈恋爱了",
+      "onboard_time": 1685230939,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170652,
       "num": 170652,
       "word": "朝俞",
@@ -46929,6 +47081,14 @@
       "onboard_time": 1683881730,
       "rank": 38,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 168819,
+      "num": 168819,
+      "word": "周扬青晒与钟欣潼合照",
+      "onboard_time": 1685229679,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 168643,
@@ -47371,6 +47531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 165444,
+      "num": 165444,
+      "word": "seventeen汉语热学中",
+      "onboard_time": 1685233705,
+      "rank": 33,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 165436,
       "num": 165436,
       "word": "王鹤棣彩钻透视装",
@@ -47569,6 +47737,14 @@
       "onboard_time": 1684650927,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 164071,
+      "num": 164071,
+      "word": "3年内有望实现人猫对话",
+      "onboard_time": 1685237545,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164046,
@@ -47977,6 +48153,14 @@
       "onboard_time": 1683424287,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161934,
+      "num": 161934,
+      "word": "蒋依依去看五月天演唱会",
+      "onboard_time": 1685232263,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 161915,
@@ -49731,6 +49915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151301,
+      "num": 151301,
+      "word": "王鹤棣说不要和他抢王传君",
+      "onboard_time": 1685233042,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151287,
       "num": 151287,
       "word": "不要和斤斤计较的人一起旅游",
@@ -50249,14 +50441,6 @@
       "onboard_time": 1684632026,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 148541,
-      "num": 148541,
-      "word": "ai换脸 我对父母的反诈宣传",
-      "onboard_time": 1685228416,
-      "rank": 31,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 148486,
@@ -51579,6 +51763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138642,
+      "num": 138642,
+      "word": "猪加索画作售卖已超2000万美元",
+      "onboard_time": 1685230700,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138636,
       "num": 138636,
       "word": "湖南43岁民警被嫌疑人刺伤不幸牺牲",
@@ -51897,6 +52089,14 @@
       "onboard_time": 1685193093,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135748,
+      "num": 135748,
+      "word": "张子枫的气质",
+      "onboard_time": 1685237427,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 135702,
@@ -53515,6 +53715,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 122955,
+      "num": 122955,
+      "word": "浙江婚龄男女为啥怕过端午节",
+      "onboard_time": 1685230340,
+      "rank": 46,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 122901,
       "num": 135043,
       "word": "无辜的大学生突然受到暴击",
@@ -53793,6 +54001,14 @@
       "onboard_time": 1683216866,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120789,
+      "num": 120789,
+      "word": "2023戛纳电影节闭幕红毯",
+      "onboard_time": 1685230459,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 120612,
@@ -54288,6 +54504,14 @@
       "word": "退伍老兵将废弃纸箱堆成豆腐块",
       "onboard_time": 1685082210,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115593,
+      "num": 115593,
+      "word": "C919商业航班今天首飞",
+      "onboard_time": 1685232081,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -55115,14 +55339,6 @@
       "category": "幽默,科技"
     },
     {
-      "raw_hot": 105054,
-      "num": 89862,
-      "word": "大学生网购零食放虫子敲诈40多次",
-      "onboard_time": 1685229918,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104964,
       "num": 104964,
       "word": "头帐篷",
@@ -55265,6 +55481,14 @@
       "onboard_time": 1684834769,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 102689,
+      "num": 102689,
+      "word": "薛之谦听一场演唱会送一场喜剧",
+      "onboard_time": 1685232924,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 102534,
@@ -56419,14 +56643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 81162,
-      "num": 81162,
-      "word": "叶舒华牛仔裙",
-      "onboard_time": 1685230098,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 81061,
       "num": 1175073,
       "word": "今天一起表白祖国",
@@ -57545,14 +57761,6 @@
       "onboard_time": 1684685426,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56959,
-      "num": 56959,
-      "word": "浙江婚龄男女为啥怕过端午节",
-      "onboard_time": 1685230340,
-      "rank": 46,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 56821,
