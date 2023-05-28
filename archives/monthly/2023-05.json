@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685243876370,
+  "endTime": 1685244816130,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -2075,6 +2075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1975279,
+      "num": 1975279,
+      "word": "中国人终于要坐上国产大飞机",
+      "onboard_time": 1685235506,
+      "rank": 10,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1972656,
       "num": 673994,
       "word": "史航事件当事人小默",
@@ -2257,14 +2265,6 @@
       "onboard_time": 1684392327,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1916049,
-      "num": 1916049,
-      "word": "中国人终于要坐上国产大飞机",
-      "onboard_time": 1685235506,
-      "rank": 10,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1915237,
@@ -7611,6 +7611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1035534,
+      "num": 1035534,
+      "word": "看迪丽热巴眼神不用审就招了",
+      "onboard_time": 1685242646,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1033852,
       "num": 1033852,
       "word": "安东尼宣布退役",
@@ -8955,6 +8963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 892038,
+      "num": 892038,
+      "word": "巴特勒怎么了",
+      "onboard_time": 1685240546,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 891303,
       "num": 891303,
       "word": "大伯二婚对象是我初恋的妈妈",
@@ -9955,6 +9971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 805294,
+      "num": 805294,
+      "word": "戛纳最佳着装",
+      "onboard_time": 1685240367,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 804899,
       "num": 473827,
       "word": "我把公公的退休金搞没了",
@@ -10193,14 +10217,6 @@
       "onboard_time": 1683859467,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 782269,
-      "num": 782269,
-      "word": "看迪丽热巴眼神不用审就招了",
-      "onboard_time": 1685242646,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 780604,
@@ -11019,14 +11035,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 722017,
-      "num": 722017,
-      "word": "戛纳最佳着装",
-      "onboard_time": 1685240367,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 722003,
       "num": 722003,
       "word": "真情侣待播剧",
@@ -11481,6 +11489,14 @@
       "onboard_time": 1683018329,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 695914,
+      "num": 695914,
+      "word": "怀特绝杀",
+      "onboard_time": 1685244208,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 695708,
@@ -12659,6 +12675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 622044,
+      "num": 622044,
+      "word": "王源真的娶不过来",
+      "onboard_time": 1685243248,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 621967,
       "num": 204234,
       "word": "王俊凯去哪",
@@ -12977,14 +13001,6 @@
       "onboard_time": 1683517708,
       "rank": 12,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 607895,
-      "num": 607895,
-      "word": "巴特勒怎么了",
-      "onboard_time": 1685240546,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 607372,
@@ -14945,6 +14961,14 @@
       "onboard_time": 1683330386,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 533444,
+      "num": 533444,
+      "word": "凯尔特人vs热火",
+      "onboard_time": 1684720109,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 533354,
@@ -18180,7 +18204,7 @@
     },
     {
       "raw_hot": 448100,
-      "num": 368492,
+      "num": 390512,
       "word": "浙江大学生激烈讨论没钱生不生孩子",
       "onboard_time": 1685231242,
       "rank": 21,
@@ -18321,6 +18345,14 @@
       "onboard_time": 1684146989,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 445807,
+      "num": 445807,
+      "word": "凯尔特人",
+      "onboard_time": 1685242228,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 445509,
@@ -18809,6 +18841,14 @@
       "onboard_time": 1683963810,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 435597,
+      "num": 339747,
+      "word": "华晨宇邀请母校师生看演唱会",
+      "onboard_time": 1685244030,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 435427,
@@ -20147,6 +20187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410016,
+      "num": 410016,
+      "word": "月经不是什么难以启齿的事",
+      "onboard_time": 1685241327,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 409935,
       "num": 409935,
       "word": "张杰男德满分",
@@ -21241,6 +21289,14 @@
       "onboard_time": 1684974268,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 392317,
+      "num": 392317,
+      "word": "C919全球首次商业载客飞行",
+      "onboard_time": 1685243666,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 391957,
@@ -23075,14 +23131,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 363896,
-      "num": 363896,
-      "word": "凯尔特人vs热火",
-      "onboard_time": 1684720109,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 363791,
       "num": 363791,
       "word": "宝宝地铁上一直哭安保端热水帮宝妈一起照顾",
@@ -23236,7 +23284,7 @@
     },
     {
       "raw_hot": 362135,
-      "num": 312720,
+      "num": 320867,
       "word": "中高考临近淄博烧烤投诉增多",
       "onboard_time": 1685241389,
       "rank": 32,
@@ -23260,7 +23308,7 @@
     },
     {
       "raw_hot": 361580,
-      "num": 310300,
+      "num": 326072,
       "word": "宋茜珍珠黄裙造型",
       "onboard_time": 1685242046,
       "rank": 26,
@@ -23467,14 +23515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 359593,
-      "num": 359593,
-      "word": "月经不是什么难以启齿的事",
-      "onboard_time": 1685241327,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 359555,
       "num": 359555,
       "word": "许凯晒一次腹肌奖励自己两个汉堡",
@@ -23625,6 +23665,14 @@
       "onboard_time": 1684135169,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 358187,
+      "num": 358187,
+      "word": "赵露思工作室",
+      "onboard_time": 1685231722,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 357554,
@@ -23833,14 +23881,6 @@
       "onboard_time": 1684312232,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 354598,
-      "num": 354598,
-      "word": "赵露思工作室",
-      "onboard_time": 1685231722,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 354581,
@@ -27787,14 +27827,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 303708,
-      "num": 303708,
-      "word": "王源真的娶不过来",
-      "onboard_time": 1685243248,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 303499,
       "num": 303499,
       "word": "任嘉伦精修vs生图",
@@ -30091,6 +30123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 281677,
+      "num": 281677,
+      "word": "NBA",
+      "onboard_time": 1682992889,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 281663,
       "num": 281663,
       "word": "薛之谦司机今天拉的是盗版凤凰传奇",
@@ -30425,6 +30465,14 @@
       "onboard_time": 1682991808,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 278752,
+      "num": 278752,
+      "word": "C919飞机上有五福临门主题餐",
+      "onboard_time": 1685241147,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278697,
@@ -30787,14 +30835,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 275079,
-      "num": 275079,
-      "word": "凯尔特人",
-      "onboard_time": 1685242228,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 274835,
       "num": 240047,
       "word": "粉丝对winter竖中指的原因",
@@ -30833,6 +30873,14 @@
       "onboard_time": 1684829366,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 274309,
+      "num": 274309,
+      "word": "刚入职老板的发财树就死了",
+      "onboard_time": 1685244267,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 274300,
@@ -31657,14 +31705,6 @@
       "onboard_time": 1683073407,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 266998,
-      "num": 266998,
-      "word": "C919飞机上有五福临门主题餐",
-      "onboard_time": 1685241147,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 266997,
@@ -32691,14 +32731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 258411,
-      "num": 258411,
-      "word": "NBA",
-      "onboard_time": 1682992889,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 258370,
       "num": 258370,
       "word": "章泽天为京东业务站台",
@@ -33177,6 +33209,14 @@
       "onboard_time": 1684197148,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 254876,
+      "num": 254876,
+      "word": "玫瑰故事",
+      "onboard_time": 1684986749,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 254793,
@@ -35395,6 +35435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238149,
+      "num": 238149,
+      "word": "王源重庆演唱会邀请了中学校长和老师",
+      "onboard_time": 1685243909,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238071,
       "num": 238071,
       "word": "宋茜沈月秀场同框",
@@ -36185,6 +36233,14 @@
       "onboard_time": 1685191890,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233850,
+      "num": 233850,
+      "word": "宋丹丹被气到吸氧",
+      "onboard_time": 1685244327,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 233688,
@@ -37329,14 +37385,6 @@
       "onboard_time": 1684898670,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 226249,
-      "num": 226249,
-      "word": "玫瑰故事",
-      "onboard_time": 1684986749,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 225913,
@@ -41449,14 +41497,6 @@
       "onboard_time": 1683810687,
       "rank": 28,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 200645,
-      "num": 200645,
-      "word": "C919全球首次商业载客飞行",
-      "onboard_time": 1685243666,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200592,
@@ -47091,6 +47131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170212,
+      "num": 170212,
+      "word": "小学生借钱坐公交每个人回应都好暖",
+      "onboard_time": 1685240188,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170162,
       "num": 157829,
       "word": "第一次给朋友暖房时的幸福感",
@@ -47337,14 +47385,6 @@
       "onboard_time": 1684412309,
       "rank": 24,
       "category": "科技"
-    },
-    {
-      "raw_hot": 168258,
-      "num": 168258,
-      "word": "小学生借钱坐公交每个人回应都好暖",
-      "onboard_time": 1685240188,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168145,
@@ -51129,6 +51169,14 @@
       "onboard_time": 1682923466,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 145070,
+      "num": 145070,
+      "word": "任敏桃花坞哭了",
+      "onboard_time": 1685244627,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 145038,
