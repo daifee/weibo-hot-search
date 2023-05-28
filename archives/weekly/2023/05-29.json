@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685295212082,
+  "endTime": 1685297957590,
   "band_list": [
     {
       "raw_hot": 1579628,
@@ -99,8 +99,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 486131,
-      "num": 486131,
+      "raw_hot": 494786,
+      "num": 494786,
       "word": "柯基",
       "onboard_time": 1685284892,
       "rank": 12,
@@ -347,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128464,
+      "num": 128464,
+      "word": "黄晓明以为303是二次元",
+      "onboard_time": 1685294060,
+      "rank": 36,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 128256,
       "num": 128256,
       "word": "王源演唱会最后一场的提词器",
@@ -433,14 +441,6 @@
       "onboard_time": 1685294598,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 68230,
-      "num": 68230,
-      "word": "黄晓明以为303是二次元",
-      "onboard_time": 1685294060,
-      "rank": 36,
-      "category": "综艺,幽默"
     },
     {
       "raw_hot": 67670,
