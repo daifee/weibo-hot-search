@@ -1,6 +1,6 @@
 {
   "startTime": 1685204470597,
-  "endTime": 1685265396273,
+  "endTime": 1685266419541,
   "band_list": [
     {
       "raw_hot": 2635395,
@@ -35,6 +35,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1931047,
+      "num": 744639,
+      "word": "迪丽热巴私服",
+      "onboard_time": 1685264428,
+      "rank": 3,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 1735041,
       "num": 1735041,
       "word": "情侣十年前因父母反对分手",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1569750,
-      "num": 356468,
+      "num": 430695,
       "word": "成都体育学院打人",
       "onboard_time": 1685257048,
       "rank": 10,
@@ -121,14 +129,6 @@
       "onboard_time": 1685257947,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1223225,
-      "num": 740976,
-      "word": "迪丽热巴私服",
-      "onboard_time": 1685264428,
-      "rank": 3,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 1085081,
@@ -195,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 828636,
+      "num": 828636,
+      "word": "黑莲花男主 成毅",
+      "onboard_time": 1685262269,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 805294,
       "num": 805294,
       "word": "戛纳最佳着装",
@@ -235,19 +243,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 738669,
-      "num": 738669,
-      "word": "黑莲花男主 成毅",
-      "onboard_time": 1685262269,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 730856,
       "num": 730856,
       "word": "ai换脸 我对父母的反诈宣传",
       "onboard_time": 1685228416,
       "rank": 31,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 723369,
+      "num": 723369,
+      "word": "精致羞耻症",
+      "onboard_time": 1685264669,
+      "rank": 18,
       "category": "幽默,情感"
     },
     {
@@ -339,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 579434,
+      "num": 579434,
+      "word": "丫丫回北京将和萌兰做邻居",
+      "onboard_time": 1685262809,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577537,
       "num": 188542,
       "word": "被李嘉琦聊天尬住了",
@@ -371,14 +387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 528335,
-      "num": 528335,
-      "word": "丫丫回北京将和萌兰做邻居",
-      "onboard_time": 1685262809,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 522905,
       "num": 522905,
       "word": "多特蒙德对得起谁",
@@ -401,6 +409,14 @@
       "onboard_time": 1685260948,
       "rank": 38,
       "category": "科技"
+    },
+    {
+      "raw_hot": 482915,
+      "num": 182726,
+      "word": "孟子义说在满江红和无名里选择了无名",
+      "onboard_time": 1685262329,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 482260,
@@ -456,14 +472,6 @@
       "word": "程潇录节目玩手机",
       "onboard_time": 1685189069,
       "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 447234,
-      "num": 179403,
-      "word": "孟子义说在满江红和无名里选择了无名",
-      "onboard_time": 1685262329,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -593,6 +601,14 @@
       "onboard_time": 1685231722,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 371381,
+      "num": 371381,
+      "word": "张大大cos请回答1988正峰",
+      "onboard_time": 1685264908,
+      "rank": 12,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 362135,
@@ -729,14 +745,6 @@
       "onboard_time": 1685237427,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 312699,
-      "num": 312699,
-      "word": "张大大cos请回答1988正峰",
-      "onboard_time": 1685264908,
-      "rank": 12,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 310819,
@@ -1075,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213936,
+      "num": 176728,
+      "word": "唐九洲伯远新综艺阵容",
+      "onboard_time": 1685265749,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212225,
       "num": 212225,
       "word": "很烦人但是不致命的慢性病",
@@ -1163,20 +1179,20 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 200904,
-      "num": 200904,
-      "word": "精致羞耻症",
-      "onboard_time": 1685264669,
-      "rank": 18,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 199844,
       "num": 199844,
       "word": "大学生掏鸟案当事人27日刑满释放",
       "onboard_time": 1685210894,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199507,
+      "num": 199507,
+      "word": "张彬彬直播",
+      "onboard_time": 1685265989,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 199038,
@@ -1201,6 +1217,14 @@
       "onboard_time": 1685250088,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195632,
+      "num": 170667,
+      "word": "蒋梦婕芭蕾风镂空吊带",
+      "onboard_time": 1685266228,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 195330,
@@ -1275,20 +1299,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184221,
+      "num": 184221,
+      "word": "波音",
+      "onboard_time": 1685261128,
+      "rank": 45,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 183335,
       "num": 116741,
       "word": "银河护卫队3",
       "onboard_time": 1685201073,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 179922,
-      "num": 179922,
-      "word": "波音",
-      "onboard_time": 1685261128,
-      "rank": 45,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 179643,
@@ -1305,6 +1329,14 @@
       "onboard_time": 1685245470,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177238,
+      "num": 177238,
+      "word": "二阳",
+      "onboard_time": 1685264129,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174812,
@@ -1475,14 +1507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152001,
-      "num": 152001,
-      "word": "二阳",
-      "onboard_time": 1685264129,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151301,
       "num": 151301,
       "word": "王鹤棣说不要和他抢王传君",
@@ -1547,6 +1571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139591,
+      "num": 139591,
+      "word": "怎样科学应对二阳风险",
+      "onboard_time": 1685265629,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138475,
       "num": 125720,
       "word": "你可能还没这只猫的道行深",
@@ -1579,6 +1611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 131293,
+      "num": 122204,
+      "word": "赵露思回应角色争议",
+      "onboard_time": 1685265930,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129267,
       "num": 129267,
       "word": "王鹤棣说告诉老默我想吃鱼了",
@@ -1596,7 +1636,7 @@
     },
     {
       "raw_hot": 124095,
-      "num": 116916,
+      "num": 118400,
       "word": "电影消失的她",
       "onboard_time": 1685264970,
       "rank": 42,
@@ -1715,6 +1755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109433,
+      "num": 123600,
+      "word": "LPL夏季赛主宣传片",
+      "onboard_time": 1685263589,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 107046,
       "num": 111724,
       "word": "科隆vs拜仁",
@@ -1753,14 +1801,6 @@
       "onboard_time": 1685232924,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 92362,
-      "num": 108686,
-      "word": "LPL夏季赛主宣传片",
-      "onboard_time": 1685263589,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 91908,
@@ -1883,6 +1923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31538,
+      "num": 281217,
+      "word": "女子落水小伙跳湖营救岸上人暖心接力",
+      "onboard_time": 1685264428,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31449,
       "num": 171147,
       "word": "保发止秃好事发生",
@@ -1921,14 +1969,6 @@
       "onboard_time": 1685105428,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 18904,
-      "num": 281217,
-      "word": "女子落水小伙跳湖营救岸上人暖心接力",
-      "onboard_time": 1685264428,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16591,
