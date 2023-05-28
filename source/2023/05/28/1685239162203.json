@@ -1,0 +1,410 @@
+{
+  "runTime": 1685239162203,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2542427,
+        "num": 2542427,
+        "word": "白瘦幼审美 过于恶毒的存在",
+        "onboard_time": 1685234603,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1275675,
+        "num": 1275675,
+        "word": "离职时公司要求留下微信",
+        "onboard_time": 1685232504,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134286,
+        "num": 1120354,
+        "word": "白色大熊猫与大熊猫罕见同框",
+        "onboard_time": 1685191350,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1070992,
+        "num": 1070992,
+        "word": "中国人终于要坐上国产大飞机",
+        "onboard_time": 1685235506,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1027128,
+        "num": 1027128,
+        "word": "难怪饿死都瘦不了几斤",
+        "onboard_time": 1685233765,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1008194,
+        "num": 1008194,
+        "word": "从26楼撑伞跳下男童生命体征平稳",
+        "onboard_time": 1685237365,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 819408,
+        "num": 819408,
+        "word": "拒绝董明珠3次的主播评孟羽童离职",
+        "onboard_time": 1685201132,
+        "rank": 6,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 688930,
+        "num": 688930,
+        "word": "算命 更适合中国宝宝的心理咨询",
+        "onboard_time": 1685201791,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 634671,
+        "num": 634671,
+        "word": "小伙入职后发现同事都在养宠物",
+        "onboard_time": 1685235385,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595934,
+        "num": 595934,
+        "word": "BLACKPINK演唱会被扔上台的玩偶有摄像头",
+        "onboard_time": 1685201310,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 510274,
+        "num": 510274,
+        "word": "ai换脸 我对父母的反诈宣传",
+        "onboard_time": 1685228416,
+        "rank": 10,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 443686,
+        "num": 443686,
+        "word": "程潇录节目玩手机",
+        "onboard_time": 1685189069,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443602,
+        "num": 443602,
+        "word": "老舅 淘汰",
+        "onboard_time": 1685192611,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358968,
+        "num": 358968,
+        "word": "五月天演唱会上一场无声的求婚",
+        "onboard_time": 1685233945,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 327057,
+        "num": 327057,
+        "word": "假球",
+        "onboard_time": 1685202992,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280384,
+        "num": 280384,
+        "word": "孟子义回应迪幂孟扎称号",
+        "onboard_time": 1685199872,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265498,
+        "num": 265498,
+        "word": "大学生网购零食放虫子敲诈40多次",
+        "onboard_time": 1685229918,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248942,
+        "num": 248942,
+        "word": "宁艺卓ins个人简介更新",
+        "onboard_time": 1685238507,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224881,
+        "num": 224881,
+        "word": "叶舒华牛仔裙",
+        "onboard_time": 1685230098,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216477,
+        "num": 216477,
+        "word": "全球唯一白色大熊猫野外撒欢",
+        "onboard_time": 1685218393,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448100,
+        "num": 216447,
+        "word": "浙江大学生激烈讨论没钱生不生孩子",
+        "onboard_time": 1685231242,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445527,
+        "num": 216418,
+        "word": "MU9191",
+        "onboard_time": 1685236168,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357927,
+        "num": 216406,
+        "word": "你肉体上感到最疼的一次经历",
+        "onboard_time": 1685235506,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 357281,
+        "num": 216359,
+        "word": "经常炒菜的人一定要知道",
+        "onboard_time": 1685237427,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 253158,
+        "num": 216346,
+        "word": "EXO十年前快乐大本营花絮",
+        "onboard_time": 1685236047,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247148,
+        "num": 216323,
+        "word": "赵露思工作室",
+        "onboard_time": 1685231722,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216295,
+        "num": 216295,
+        "word": "张子枫的气质",
+        "onboard_time": 1685237427,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205048,
+        "num": 205048,
+        "word": "赵露思鞠婧祎直播状态",
+        "onboard_time": 1685194474,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203257,
+        "num": 203257,
+        "word": "王鹤棣说在我心中三傻只有一个",
+        "onboard_time": 1685230700,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201435,
+        "num": 201435,
+        "word": "老舅一年一首骂完就走",
+        "onboard_time": 1685197415,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267279,
+        "num": 200504,
+        "word": "女子回家发现出租屋变灵堂",
+        "onboard_time": 1685238389,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199038,
+        "num": 199038,
+        "word": "3年内有望实现人猫对话",
+        "onboard_time": 1685237545,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195330,
+        "num": 195330,
+        "word": "二阳会留下后遗症吗",
+        "onboard_time": 1685238147,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183381,
+        "num": 183381,
+        "word": "卢拉拒绝普京邀请",
+        "onboard_time": 1685233585,
+        "rank": 33,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 168193,
+        "num": 168193,
+        "word": "NBA",
+        "onboard_time": 1685235326,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159571,
+        "num": 159571,
+        "word": "周扬青晒与钟欣潼合照",
+        "onboard_time": 1685229679,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158269,
+        "num": 158269,
+        "word": "凯尔特人vs热火",
+        "onboard_time": 1685236766,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155680,
+        "num": 155680,
+        "word": "蒋依依去看五月天演唱会",
+        "onboard_time": 1685232263,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155076,
+        "num": 155076,
+        "word": "宋丹丹问李雪琴是不是谈恋爱了",
+        "onboard_time": 1685230939,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150433,
+        "num": 150433,
+        "word": "seventeen汉语热学中",
+        "onboard_time": 1685233705,
+        "rank": 39,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 148920,
+        "num": 148920,
+        "word": "梅西收获职业生涯第43冠",
+        "onboard_time": 1685228956,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144830,
+        "num": 144830,
+        "word": "猪加索画作售卖已超2000万美元",
+        "onboard_time": 1685230700,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144816,
+        "num": 144816,
+        "word": "大学生掏鸟案当事人27日刑满释放",
+        "onboard_time": 1685210894,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139447,
+        "num": 139447,
+        "word": "吴京给谢楠发与沈腾张译合照",
+        "onboard_time": 1685199811,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130634,
+        "num": 130634,
+        "word": "王鹤棣说不要和他抢王传君",
+        "onboard_time": 1685233042,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124011,
+        "num": 124011,
+        "word": "周也绿色烟熏妆",
+        "onboard_time": 1685238087,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123927,
+        "num": 123927,
+        "word": "仙剑三主演孩子的年龄",
+        "onboard_time": 1685200352,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123586,
+        "num": 123586,
+        "word": "国际月经日",
+        "onboard_time": 1685239108,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115315,
+        "num": 115315,
+        "word": "2023戛纳电影节闭幕红毯",
+        "onboard_time": 1685230459,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99525,
+        "num": 99525,
+        "word": "浙江婚龄男女为啥怕过端午节",
+        "onboard_time": 1685230340,
+        "rank": 49,
+        "category": "社会新闻,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国刚果金全面战略合作伙伴关系#"
+    }
+  }
+}
