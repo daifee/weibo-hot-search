@@ -1,0 +1,410 @@
+{
+  "runTime": 1685252003703,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1735041,
+        "num": 1735041,
+        "word": "情侣十年前因父母反对分手",
+        "onboard_time": 1685249667,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1574437,
+        "num": 1574437,
+        "word": "Lisa不发比基尼照的原因",
+        "onboard_time": 1685245709,
+        "rank": 1,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 23254,
+        "num": 1309661,
+        "word": "白色大熊猫与大熊猫罕见同框",
+        "onboard_time": 1685191350,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1167528,
+        "num": 1167528,
+        "word": "王一博肖战今日微博开屏",
+        "onboard_time": 1685244989,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 984899,
+        "num": 984899,
+        "word": "从26楼撑伞跳下男童生命体征平稳",
+        "onboard_time": 1685237365,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 814137,
+        "num": 814137,
+        "word": "苏炳添二胎得子",
+        "onboard_time": 1685247688,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 809914,
+        "num": 809914,
+        "word": "中国人终于要坐上国产大飞机",
+        "onboard_time": 1685235506,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 730946,
+        "num": 730946,
+        "word": "女子回家发现出租屋变灵堂",
+        "onboard_time": 1685238389,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653045,
+        "num": 653045,
+        "word": "看迪丽热巴眼神不用审就招了",
+        "onboard_time": 1685242646,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 556491,
+        "num": 556491,
+        "word": "C919商业首航成功",
+        "onboard_time": 1685248888,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535729,
+        "num": 535729,
+        "word": "蟑螂真的太恐怖了",
+        "onboard_time": 1685245647,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 466341,
+        "num": 466341,
+        "word": "难怪饿死都瘦不了几斤",
+        "onboard_time": 1685233765,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 403866,
+        "num": 403866,
+        "word": "宋茜怎么哭了",
+        "onboard_time": 1685249849,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 391317,
+        "num": 391317,
+        "word": "戛纳最佳着装",
+        "onboard_time": 1685240367,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106554,
+        "num": 354558,
+        "word": "大爷占道卖瓜城管小姐姐温情劝离",
+        "onboard_time": 1685250029,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345188,
+        "num": 345188,
+        "word": "王鹤棣不选宋丹丹做室友",
+        "onboard_time": 1685248949,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301348,
+        "num": 301348,
+        "word": "浙江大学生激烈讨论没钱生不生孩子",
+        "onboard_time": 1685231242,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294490,
+        "num": 294490,
+        "word": "王源知道自己这么可爱吗",
+        "onboard_time": 1685249667,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 286957,
+        "num": 286957,
+        "word": "宁艺卓ins个人简介更新",
+        "onboard_time": 1685238507,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280404,
+        "num": 280404,
+        "word": "离职时公司要求留下微信",
+        "onboard_time": 1685232504,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 562806,
+        "num": 277705,
+        "word": "白瘦幼审美 过于恶毒的存在",
+        "onboard_time": 1685234603,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 337014,
+        "num": 274357,
+        "word": "月经紊乱可能和这种癌有关",
+        "onboard_time": 1685250148,
+        "rank": 21,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 328678,
+        "num": 269371,
+        "word": "5元以下饮料为什么越来越少",
+        "onboard_time": 1685249247,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303386,
+        "num": 262587,
+        "word": "赵露思虞书欣同款捧脸",
+        "onboard_time": 1685250807,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296755,
+        "num": 256647,
+        "word": "张雪峰评985硕士直播耍杂技",
+        "onboard_time": 1685249307,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253172,
+        "num": 253172,
+        "word": "细扒浪姐4人情世故场",
+        "onboard_time": 1685247627,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233669,
+        "num": 233669,
+        "word": "宋丹丹被气到吸氧",
+        "onboard_time": 1685244327,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216505,
+        "num": 216505,
+        "word": "赵露思工作室",
+        "onboard_time": 1685231722,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211012,
+        "num": 211012,
+        "word": "彭昱畅张子枫无处不在",
+        "onboard_time": 1685250328,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207818,
+        "num": 207818,
+        "word": "巴特勒怎么了",
+        "onboard_time": 1685240546,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200046,
+        "num": 200046,
+        "word": "女子乘坐重庆网红电梯不慎摔倒滚落",
+        "onboard_time": 1685251109,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186832,
+        "num": 186832,
+        "word": "很烦人但是不致命的慢性病",
+        "onboard_time": 1685247869,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176184,
+        "num": 176184,
+        "word": "欧豪背白鹿路透",
+        "onboard_time": 1685246249,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168515,
+        "num": 168515,
+        "word": "那英说把张艺兴舞蹈观搞垮了",
+        "onboard_time": 1685246966,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158567,
+        "num": 158567,
+        "word": "刚入职老板的发财树就死了",
+        "onboard_time": 1685244267,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157926,
+        "num": 157926,
+        "word": "MU9191载客起飞",
+        "onboard_time": 1685243727,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157794,
+        "num": 157794,
+        "word": "武汉音乐节",
+        "onboard_time": 1685247806,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156986,
+        "num": 156986,
+        "word": "重庆一夫妻同迎百岁生日",
+        "onboard_time": 1685248528,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156630,
+        "num": 156630,
+        "word": "檀健次张婧仪实绩",
+        "onboard_time": 1685250449,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151880,
+        "num": 151880,
+        "word": "美依礼芽给李莎旻子留灯",
+        "onboard_time": 1685251649,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148724,
+        "num": 148724,
+        "word": "C919",
+        "onboard_time": 1685239347,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147650,
+        "num": 147650,
+        "word": "入职后公司还在招聘我的岗位",
+        "onboard_time": 1685248287,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145483,
+        "num": 145483,
+        "word": "不良执念清除师",
+        "onboard_time": 1685245108,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142141,
+        "num": 142141,
+        "word": "C919获民航最高礼仪过水门",
+        "onboard_time": 1685250088,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132398,
+        "num": 132398,
+        "word": "唐三视角重启斗罗大陆",
+        "onboard_time": 1685247148,
+        "rank": 44,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 129170,
+        "num": 129170,
+        "word": "极限挑战",
+        "onboard_time": 1685247508,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124652,
+        "num": 124652,
+        "word": "那英说何炅黄磊老了",
+        "onboard_time": 1685248770,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122353,
+        "num": 122353,
+        "word": "中高考临近淄博烧烤投诉增多",
+        "onboard_time": 1685241389,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118545,
+        "num": 118545,
+        "word": "BLACKPINK演唱会被扔上台的玩偶有摄像头",
+        "onboard_time": 1685201310,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 103262,
+        "num": 103262,
+        "word": "孟子义说王传君现在接这么多综艺好红啊",
+        "onboard_time": 1685251829,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023数博会上的黑科技#"
+    }
+  }
+}
