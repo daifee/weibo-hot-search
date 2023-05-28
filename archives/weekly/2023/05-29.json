@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685297957590,
+  "endTime": 1685298808722,
   "band_list": [
     {
       "raw_hot": 1579628,
@@ -83,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 535751,
+      "num": 535751,
+      "word": "柯基",
+      "onboard_time": 1685284892,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 519124,
       "num": 519124,
       "word": "丫丫已落地北京",
@@ -97,14 +105,6 @@
       "onboard_time": 1685286213,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 494786,
-      "num": 494786,
-      "word": "柯基",
-      "onboard_time": 1685284892,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 477679,
@@ -464,6 +464,14 @@
       "word": "沉浸式体验虚拟未来世界",
       "onboard_time": 1685279849,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34942,
+      "num": 34942,
+      "word": "56岁保安写出40余万字长篇小说",
+      "onboard_time": 1685298615,
+      "rank": 42,
       "category": "社会新闻"
     }
   ],
