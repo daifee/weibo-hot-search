@@ -1,6 +1,6 @@
 {
   "startTime": 1685204470597,
-  "endTime": 1685254844415,
+  "endTime": 1685255616838,
   "band_list": [
     {
       "raw_hot": 2635395,
@@ -91,20 +91,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1085081,
+      "num": 1085081,
+      "word": "女子回家发现出租屋变灵堂",
+      "onboard_time": 1685238389,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1035534,
       "num": 1035534,
       "word": "看迪丽热巴眼神不用审就招了",
       "onboard_time": 1685242646,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 989659,
-      "num": 989659,
-      "word": "女子回家发现出租屋变灵堂",
-      "onboard_time": 1685238389,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 946252,
@@ -355,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 440143,
+      "num": 440143,
+      "word": "女子乘坐重庆网红电梯不慎摔倒滚落",
+      "onboard_time": 1685251109,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 435597,
       "num": 339747,
       "word": "华晨宇邀请母校师生看演唱会",
@@ -385,14 +393,6 @@
       "onboard_time": 1685249849,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 419990,
-      "num": 419990,
-      "word": "女子乘坐重庆网红电梯不慎摔倒滚落",
-      "onboard_time": 1685251109,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 412761,
@@ -505,6 +505,14 @@
       "onboard_time": 1685243909,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 340687,
+      "num": 340687,
+      "word": "五月天演唱会志愿者伙食",
+      "onboard_time": 1685254467,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 339745,
@@ -659,6 +667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 273149,
+      "num": 273149,
+      "word": "王传君鸟鸟i人坐车实录",
+      "onboard_time": 1685253390,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266343,
       "num": 266343,
       "word": "细扒浪姐4人情世故场",
@@ -811,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218856,
+      "num": 218856,
+      "word": "工作之外一定要培养一些爱好",
+      "onboard_time": 1685253987,
+      "rank": 30,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 212225,
       "num": 212225,
       "word": "很烦人但是不致命的慢性病",
@@ -824,14 +848,6 @@
       "word": "彭昱畅张子枫无处不在",
       "onboard_time": 1685250328,
       "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 206682,
-      "num": 187957,
-      "word": "王传君鸟鸟i人坐车实录",
-      "onboard_time": 1685253390,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -889,6 +905,14 @@
       "onboard_time": 1685203170,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201583,
+      "num": 178515,
+      "word": "老舅董宝石骂人没脏字",
+      "onboard_time": 1685254887,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 201063,
@@ -987,12 +1011,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187218,
-      "num": 171144,
-      "word": "工作之外一定要培养一些爱好",
-      "onboard_time": 1685253987,
-      "rank": 30,
-      "category": "情感,幽默"
+      "raw_hot": 184617,
+      "num": 180525,
+      "word": "宋茜经常请吃饭的姐姐",
+      "onboard_time": 1685253088,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 183335,
@@ -1017,14 +1041,6 @@
       "onboard_time": 1685245470,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172714,
-      "num": 172714,
-      "word": "宋茜经常请吃饭的姐姐",
-      "onboard_time": 1685253088,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 171061,
@@ -1073,14 +1089,6 @@
       "onboard_time": 1685180248,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169383,
-      "num": 169383,
-      "word": "五月天演唱会志愿者伙食",
-      "onboard_time": 1685254467,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 169041,
@@ -1251,6 +1259,38 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 128682,
+      "num": 128682,
+      "word": "朱珠说心疼Amber",
+      "onboard_time": 1685252127,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 126150,
+      "num": 126035,
+      "word": "王鹤棣说告诉老默我想吃鱼了",
+      "onboard_time": 1685255606,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 126081,
+      "num": 126081,
+      "word": "MBTI",
+      "onboard_time": 1685255366,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 125635,
+      "num": 125635,
+      "word": "赵露思白裙广告拍摄图",
+      "onboard_time": 1685254769,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122955,
       "num": 122955,
       "word": "浙江婚龄男女为啥怕过端午节",
@@ -1315,14 +1355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 114041,
-      "num": 114041,
-      "word": "朱珠说心疼Amber",
-      "onboard_time": 1685252127,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 112583,
       "num": 112583,
       "word": "这就是我超级紧张的求婚",
@@ -1361,14 +1393,6 @@
       "onboard_time": 1685203648,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104988,
-      "num": 104988,
-      "word": "赵露思白裙广告拍摄图",
-      "onboard_time": 1685254769,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 103454,
@@ -1449,6 +1473,14 @@
       "onboard_time": 1685192373,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69453,
+      "num": 109949,
+      "word": "光遇",
+      "onboard_time": 1685254887,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 55620,

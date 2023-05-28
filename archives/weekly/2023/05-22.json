@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1685254844415,
+  "endTime": 1685255616838,
   "band_list": [
     {
       "raw_hot": 4241479,
@@ -1643,6 +1643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1085081,
+      "num": 1085081,
+      "word": "女子回家发现出租屋变灵堂",
+      "onboard_time": 1685238389,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1082985,
       "num": 1082985,
       "word": "章泽天撞脸陈都灵",
@@ -1873,14 +1881,6 @@
       "onboard_time": 1684856132,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 989659,
-      "num": 989659,
-      "word": "女子回家发现出租屋变灵堂",
-      "onboard_time": 1685238389,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 988780,
@@ -4651,6 +4651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440143,
+      "num": 440143,
+      "word": "女子乘坐重庆网红电梯不慎摔倒滚落",
+      "onboard_time": 1685251109,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439360,
       "num": 439360,
       "word": "G7",
@@ -4921,14 +4929,6 @@
       "onboard_time": 1685094571,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 419990,
-      "num": 419990,
-      "word": "女子乘坐重庆网红电梯不慎摔倒滚落",
-      "onboard_time": 1685251109,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 419341,
@@ -6217,6 +6217,14 @@
       "onboard_time": 1685015787,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 340687,
+      "num": 340687,
+      "word": "五月天演唱会志愿者伙食",
+      "onboard_time": 1685254467,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 339959,
@@ -7913,6 +7921,14 @@
       "onboard_time": 1685023714,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 273149,
+      "num": 273149,
+      "word": "王传君鸟鸟i人坐车实录",
+      "onboard_time": 1685253390,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 273063,
@@ -10027,6 +10043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218856,
+      "num": 218856,
+      "word": "工作之外一定要培养一些爱好",
+      "onboard_time": 1685253987,
+      "rank": 30,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 218469,
       "num": 218469,
       "word": "这届90后是懂带娃的",
@@ -10427,14 +10451,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 206682,
-      "num": 187957,
-      "word": "王传君鸟鸟i人坐车实录",
-      "onboard_time": 1685253390,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 206637,
       "num": 206637,
       "word": "enhypen粉丝伤心的原因",
@@ -10712,6 +10728,14 @@
       "word": "白鹿戴了心形耳饰",
       "onboard_time": 1684920033,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201583,
+      "num": 178515,
+      "word": "老舅董宝石骂人没脏字",
+      "onboard_time": 1685254887,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -11507,14 +11531,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 187218,
-      "num": 171144,
-      "word": "工作之外一定要培养一些爱好",
-      "onboard_time": 1685253987,
-      "rank": 30,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 187135,
       "num": 187135,
       "word": "华晨宇说火星是个动物园",
@@ -11617,6 +11633,14 @@
       "onboard_time": 1684759950,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184617,
+      "num": 180525,
+      "word": "宋茜经常请吃饭的姐姐",
+      "onboard_time": 1685253088,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 184575,
@@ -12203,14 +12227,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 172714,
-      "num": 172714,
-      "word": "宋茜经常请吃饭的姐姐",
-      "onboard_time": 1685253088,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 172126,
       "num": 172126,
       "word": "国泰将做全面检讨",
@@ -12352,14 +12368,6 @@
       "word": "心在鸟巢",
       "onboard_time": 1685085391,
       "rank": 40,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 169383,
-      "num": 169383,
-      "word": "五月天演唱会志愿者伙食",
-      "onboard_time": 1685254467,
-      "rank": 31,
       "category": "音乐"
     },
     {
@@ -13811,6 +13819,14 @@
       "category": "科技,国内要闻"
     },
     {
+      "raw_hot": 128682,
+      "num": 128682,
+      "word": "朱珠说心疼Amber",
+      "onboard_time": 1685252127,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128503,
       "num": 128503,
       "word": "英语教学广告 国泰航空",
@@ -13875,12 +13891,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126150,
+      "num": 126035,
+      "word": "王鹤棣说告诉老默我想吃鱼了",
+      "onboard_time": 1685255606,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126113,
       "num": 126113,
       "word": "货拉拉案司机提出申诉",
       "onboard_time": 1684894227,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126081,
+      "num": 126081,
+      "word": "MBTI",
+      "onboard_time": 1685255366,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 125635,
+      "num": 125635,
+      "word": "赵露思白裙广告拍摄图",
+      "onboard_time": 1685254769,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 125541,
@@ -14227,14 +14267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 114041,
-      "num": 114041,
-      "word": "朱珠说心疼Amber",
-      "onboard_time": 1685252127,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 114024,
       "num": 115040,
       "word": "小舞第九魂技",
@@ -14425,14 +14457,6 @@
       "onboard_time": 1684685367,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104988,
-      "num": 104988,
-      "word": "赵露思白裙广告拍摄图",
-      "onboard_time": 1685254769,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 104964,
@@ -14897,6 +14921,14 @@
       "onboard_time": 1685033603,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69453,
+      "num": 109949,
+      "word": "光遇",
+      "onboard_time": 1685254887,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 68963,

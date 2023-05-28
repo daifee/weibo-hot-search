@@ -1,0 +1,410 @@
+{
+  "runTime": 1685255616838,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1085081,
+        "num": 1085081,
+        "word": "女子回家发现出租屋变灵堂",
+        "onboard_time": 1685238389,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605939,
+        "num": 605939,
+        "word": "看迪丽热巴眼神不用审就招了",
+        "onboard_time": 1685242646,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28050,
+        "num": 509750,
+        "word": "白色大熊猫与大熊猫罕见同框",
+        "onboard_time": 1685191350,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1075289,
+        "num": 493859,
+        "word": "王一博肖战今日微博开屏",
+        "onboard_time": 1685244989,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1006534,
+        "num": 485857,
+        "word": "Lisa不发比基尼照的原因",
+        "onboard_time": 1685245709,
+        "rank": 4,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 469165,
+        "num": 469165,
+        "word": "从26楼撑伞跳下男童生命体征平稳",
+        "onboard_time": 1685237365,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455290,
+        "num": 455290,
+        "word": "苏炳添二胎得子",
+        "onboard_time": 1685247688,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 450238,
+        "num": 450238,
+        "word": "中国人终于要坐上国产大飞机",
+        "onboard_time": 1685235506,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 440143,
+        "num": 440143,
+        "word": "女子乘坐重庆网红电梯不慎摔倒滚落",
+        "onboard_time": 1685251109,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371309,
+        "num": 371309,
+        "word": "王鹤棣不选宋丹丹做室友",
+        "onboard_time": 1685248949,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340687,
+        "num": 340687,
+        "word": "五月天演唱会志愿者伙食",
+        "onboard_time": 1685254467,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 309875,
+        "num": 309875,
+        "word": "蟑螂真的太恐怖了",
+        "onboard_time": 1685245647,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 288070,
+        "num": 288070,
+        "word": "难怪饿死都瘦不了几斤",
+        "onboard_time": 1685233765,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273149,
+        "num": 273149,
+        "word": "王传君鸟鸟i人坐车实录",
+        "onboard_time": 1685253390,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244338,
+        "num": 244338,
+        "word": "宋茜怎么哭了",
+        "onboard_time": 1685249849,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223575,
+        "num": 223575,
+        "word": "美依礼芽给李莎旻子留灯",
+        "onboard_time": 1685251649,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218856,
+        "num": 218856,
+        "word": "工作之外一定要培养一些爱好",
+        "onboard_time": 1685253987,
+        "rank": 16,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 217156,
+        "num": 217156,
+        "word": "宁艺卓ins个人简介更新",
+        "onboard_time": 1685238507,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212716,
+        "num": 212716,
+        "word": "戛纳最佳着装",
+        "onboard_time": 1685240367,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182332,
+        "num": 182332,
+        "word": "离职时公司要求留下微信",
+        "onboard_time": 1685232504,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1177214,
+        "num": 182298,
+        "word": "情侣十年前因父母反对分手",
+        "onboard_time": 1685249667,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 465945,
+        "num": 182065,
+        "word": "白瘦幼审美 过于恶毒的存在",
+        "onboard_time": 1685234603,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295562,
+        "num": 181851,
+        "word": "月经紊乱可能和这种癌有关",
+        "onboard_time": 1685250148,
+        "rank": 22,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 279670,
+        "num": 181538,
+        "word": "张雪峰评985硕士直播耍杂技",
+        "onboard_time": 1685249307,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262911,
+        "num": 181307,
+        "word": "赵露思虞书欣同款捧脸",
+        "onboard_time": 1685250807,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235179,
+        "num": 181126,
+        "word": "5元以下饮料为什么越来越少",
+        "onboard_time": 1685249247,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191675,
+        "num": 180969,
+        "word": "王源知道自己这么可爱吗",
+        "onboard_time": 1685249667,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190829,
+        "num": 180752,
+        "word": "彭昱畅张子枫无处不在",
+        "onboard_time": 1685250328,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184617,
+        "num": 180525,
+        "word": "宋茜经常请吃饭的姐姐",
+        "onboard_time": 1685253088,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180437,
+        "num": 180437,
+        "word": "把大骨头拍成了吃不起的样子",
+        "onboard_time": 1685254229,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201583,
+        "num": 178515,
+        "word": "老舅董宝石骂人没脏字",
+        "onboard_time": 1685254887,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176150,
+        "num": 176150,
+        "word": "细扒浪姐4人情世故场",
+        "onboard_time": 1685247627,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168870,
+        "num": 168870,
+        "word": "宋丹丹被气到吸氧",
+        "onboard_time": 1685244327,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158470,
+        "num": 158470,
+        "word": "C919商业首航成功",
+        "onboard_time": 1685248888,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141080,
+        "num": 141080,
+        "word": "孟子义说王传君现在接这么多综艺好红啊",
+        "onboard_time": 1685251829,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129819,
+        "num": 129819,
+        "word": "浙江大学生激烈讨论没钱生不生孩子",
+        "onboard_time": 1685231242,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128682,
+        "num": 128682,
+        "word": "朱珠说心疼Amber",
+        "onboard_time": 1685252127,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128611,
+        "num": 128611,
+        "word": "巴特勒怎么了",
+        "onboard_time": 1685240546,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127041,
+        "num": 127041,
+        "word": "那英说何炅黄磊老了",
+        "onboard_time": 1685248770,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126081,
+        "num": 126081,
+        "word": "MBTI",
+        "onboard_time": 1685255366,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126150,
+        "num": 126035,
+        "word": "王鹤棣说告诉老默我想吃鱼了",
+        "onboard_time": 1685255606,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125635,
+        "num": 125635,
+        "word": "赵露思白裙广告拍摄图",
+        "onboard_time": 1685254769,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124746,
+        "num": 124746,
+        "word": "刚入职老板的发财树就死了",
+        "onboard_time": 1685244267,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122711,
+        "num": 122711,
+        "word": "黄旭杨和苏在一起就是冠军相",
+        "onboard_time": 1685254107,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122322,
+        "num": 122322,
+        "word": "带爷爷看五月天演唱会",
+        "onboard_time": 1685253626,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 117925,
+        "num": 117925,
+        "word": "当主人受伤后狗狗的反应",
+        "onboard_time": 1685254589,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117132,
+        "num": 117132,
+        "word": "那英说把张艺兴舞蹈观搞垮了",
+        "onboard_time": 1685246966,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114074,
+        "num": 114074,
+        "word": "檀健次张婧仪实绩",
+        "onboard_time": 1685250449,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112363,
+        "num": 112363,
+        "word": "C919",
+        "onboard_time": 1685239347,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69453,
+        "num": 109949,
+        "word": "光遇",
+        "onboard_time": 1685254887,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对中关村寄予厚望#"
+    }
+  }
+}
