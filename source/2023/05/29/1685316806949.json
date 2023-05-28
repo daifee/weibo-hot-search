@@ -1,0 +1,410 @@
+{
+  "runTime": 1685316806949,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1445130,
+        "num": 1445130,
+        "word": "老公每月给你两万但不回家",
+        "onboard_time": 1685283752,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 697441,
+        "num": 697441,
+        "word": "大姨妈正常周期到底是几天",
+        "onboard_time": 1685286213,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33252,
+        "num": 671887,
+        "word": "沉浸式体验虚拟未来世界",
+        "onboard_time": 1685279849,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669940,
+        "num": 669940,
+        "word": "王源 赵英俊",
+        "onboard_time": 1685314879,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 617816,
+        "num": 617816,
+        "word": "丫丫",
+        "onboard_time": 1685276068,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609915,
+        "num": 609915,
+        "word": "宋丹丹暂时退出桃花坞",
+        "onboard_time": 1685279549,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 494409,
+        "num": 494409,
+        "word": "丫丫一到家就被竹子包围了",
+        "onboard_time": 1685315900,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 970422,
+        "num": 490127,
+        "word": "柯基",
+        "onboard_time": 1685284892,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485835,
+        "num": 485835,
+        "word": "丫丫回京现场画面",
+        "onboard_time": 1685315360,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485737,
+        "num": 485737,
+        "word": "五月天欠下九十万斤水饺的债",
+        "onboard_time": 1685279789,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 451102,
+        "num": 451102,
+        "word": "柯基被活活砍死",
+        "onboard_time": 1685316141,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448679,
+        "num": 448679,
+        "word": "北京动物园",
+        "onboard_time": 1685315299,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385115,
+        "num": 385115,
+        "word": "祝绪丹说迪丽热巴照片有她拍的",
+        "onboard_time": 1685276908,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323539,
+        "num": 323539,
+        "word": "微信文字讨好症",
+        "onboard_time": 1685284472,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 302992,
+        "num": 302992,
+        "word": "网友新疆偶遇吴磊骑行",
+        "onboard_time": 1685287770,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278007,
+        "num": 278007,
+        "word": "织金通报教师不幸溺亡事件",
+        "onboard_time": 1685310973,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267689,
+        "num": 267689,
+        "word": "王源妈妈看演唱会被拦在门外",
+        "onboard_time": 1685282974,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 235574,
+        "num": 235574,
+        "word": "张丹峰洪欣合体",
+        "onboard_time": 1685274329,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220468,
+        "num": 220468,
+        "word": "丫丫离开上海回京",
+        "onboard_time": 1685278589,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213373,
+        "num": 213373,
+        "word": "许嵩 麦田里最先饱满的麦穗会被恶鸟啄食",
+        "onboard_time": 1685282012,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198234,
+        "num": 198234,
+        "word": "四川大学",
+        "onboard_time": 1685274628,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187086,
+        "num": 187086,
+        "word": "国乒12人参赛11人夺牌",
+        "onboard_time": 1685287770,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182854,
+        "num": 182854,
+        "word": "北京动物园回应丫丫是否展出",
+        "onboard_time": 1685288011,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158795,
+        "num": 158795,
+        "word": "全职高手",
+        "onboard_time": 1685316203,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 157906,
+        "num": 157906,
+        "word": "C919首排乘客是这四位",
+        "onboard_time": 1685279008,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 154964,
+        "num": 154964,
+        "word": "袁姗姗戴绿帽子直播",
+        "onboard_time": 1685276667,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152042,
+        "num": 152042,
+        "word": "年轻人的生育意愿为什么越来越低",
+        "onboard_time": 1685270610,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141185,
+        "num": 141185,
+        "word": "知道晚上该怎么睡了吧",
+        "onboard_time": 1685283452,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135772,
+        "num": 135772,
+        "word": "Ella采访谈SHE哭了",
+        "onboard_time": 1685280030,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133040,
+        "num": 133040,
+        "word": "丫丫已落地北京",
+        "onboard_time": 1685285252,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130936,
+        "num": 130936,
+        "word": "13岁女孩玩手机4个月花40多万",
+        "onboard_time": 1685271988,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127650,
+        "num": 127650,
+        "word": "不怕压力不生癌",
+        "onboard_time": 1685304672,
+        "rank": 31,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 126588,
+        "num": 126588,
+        "word": "宋仲基说做爸爸是人生最重要的事",
+        "onboard_time": 1685273788,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104715,
+        "num": 104715,
+        "word": "严浩翔穿校服",
+        "onboard_time": 1685315360,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101772,
+        "num": 101772,
+        "word": "黄奕未经允许私拿美术馆展品摆拍",
+        "onboard_time": 1685267489,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98233,
+        "num": 98233,
+        "word": "56岁保安写出40余万字长篇小说",
+        "onboard_time": 1685298615,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97572,
+        "num": 97572,
+        "word": "姬颜baby",
+        "onboard_time": 1685316262,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95135,
+        "num": 95135,
+        "word": "闪婚几天闹离婚男方索要6万彩礼",
+        "onboard_time": 1685316683,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85576,
+        "num": 85576,
+        "word": "黄晓明以为303是二次元",
+        "onboard_time": 1685294060,
+        "rank": 38,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 84195,
+        "num": 84195,
+        "word": "失眠",
+        "onboard_time": 1685316564,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83504,
+        "num": 83504,
+        "word": "华晨宇太阳神",
+        "onboard_time": 1685316683,
+        "rank": 40,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 82515,
+        "num": 82515,
+        "word": "和人接触不要陷入对立情绪",
+        "onboard_time": 1685290765,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 75409,
+        "num": 75409,
+        "word": "白敬亭参加发小婚礼",
+        "onboard_time": 1685269769,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75250,
+        "num": 75250,
+        "word": "C919机票",
+        "onboard_time": 1685305572,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74650,
+        "num": 74650,
+        "word": "Billkin青岛机场音乐节",
+        "onboard_time": 1685289449,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 73175,
+        "num": 73175,
+        "word": "张彬彬被粉丝虎狼之词整懵了",
+        "onboard_time": 1685313617,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71511,
+        "num": 71511,
+        "word": "迪丽热巴私服",
+        "onboard_time": 1685264428,
+        "rank": 46,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 69918,
+        "num": 69918,
+        "word": "刘惜君好像i人去海底捞过生日",
+        "onboard_time": 1685273307,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68418,
+        "num": 68418,
+        "word": "Rose和Lisa是姐控吧",
+        "onboard_time": 1685316683,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 64511,
+        "num": 64511,
+        "word": "布伦特福德1比0曼城",
+        "onboard_time": 1685316503,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#神十六各系统准备就绪#"
+    }
+  }
+}
