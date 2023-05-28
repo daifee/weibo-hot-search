@@ -1,6 +1,6 @@
 {
   "startTime": 1684686062483,
-  "endTime": 1685247571903,
+  "endTime": 1685248407190,
   "band_list": [
     {
       "raw_hot": 4241479,
@@ -891,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1479218,
+      "num": 1479218,
+      "word": "王一博肖战今日微博开屏",
+      "onboard_time": 1685244989,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1474409,
       "num": 1474409,
       "word": "程潇腿骨折也去看了BLACKPINK演唱会",
@@ -913,14 +921,6 @@
       "onboard_time": 1684850917,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1453369,
-      "num": 1453369,
-      "word": "王一博肖战今日微博开屏",
-      "onboard_time": 1685244989,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1451541,
@@ -1707,6 +1707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1045909,
+      "num": 1045909,
+      "word": "Lisa不发比基尼照的原因",
+      "onboard_time": 1685245709,
+      "rank": 10,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 1035534,
       "num": 1035534,
       "word": "看迪丽热巴眼神不用审就招了",
@@ -2283,14 +2291,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 835028,
-      "num": 601512,
-      "word": "Lisa不发比基尼照的原因",
-      "onboard_time": 1685245709,
-      "rank": 10,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 834691,
       "num": 834691,
       "word": "苏醒说希望半夜不要再有人来接机了",
@@ -2723,6 +2723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 719330,
+      "num": 719330,
+      "word": "女子回家发现出租屋变灵堂",
+      "onboard_time": 1685238389,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 716057,
       "num": 597615,
       "word": "张子枫华表奖最年轻影后",
@@ -2953,14 +2961,6 @@
       "onboard_time": 1684839331,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 669820,
-      "num": 669820,
-      "word": "女子回家发现出租屋变灵堂",
-      "onboard_time": 1685238389,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 666835,
@@ -3731,6 +3731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522342,
+      "num": 285348,
+      "word": "宋丹丹被气到吸氧",
+      "onboard_time": 1685244327,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 521761,
       "num": 521761,
       "word": "小伙被骗缅北3年警方指导逃脱",
@@ -4107,6 +4115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 482260,
+      "num": 482260,
+      "word": "浙江大学生激烈讨论没钱生不生孩子",
+      "onboard_time": 1685231242,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 481823,
       "num": 486792,
       "word": "永久关闭6万多个自媒体账号",
@@ -4233,6 +4249,14 @@
       "onboard_time": 1685168906,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 472186,
+      "num": 472186,
+      "word": "蟑螂真的太恐怖了",
+      "onboard_time": 1685245647,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 471104,
@@ -4403,14 +4427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 457763,
-      "num": 457763,
-      "word": "浙江大学生激烈讨论没钱生不生孩子",
-      "onboard_time": 1685231242,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 456552,
       "num": 456552,
       "word": "朱一龙无法出席华表奖颁奖典礼",
@@ -4553,6 +4569,14 @@
       "onboard_time": 1684896749,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 444134,
+      "num": 444134,
+      "word": "苏炳添二胎得子",
+      "onboard_time": 1685247688,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 443780,
@@ -5219,14 +5243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 396049,
-      "num": 285348,
-      "word": "宋丹丹被气到吸氧",
-      "onboard_time": 1685244327,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 395770,
       "num": 395770,
       "word": "朱珠上妆全程",
@@ -5835,14 +5851,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 359277,
-      "num": 359277,
-      "word": "蟑螂真的太恐怖了",
-      "onboard_time": 1685245647,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
       "raw_hot": 359064,
       "num": 359064,
       "word": "三分野空降不撤档",
@@ -5971,6 +5979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 350866,
+      "num": 350866,
+      "word": "王源重庆演唱会邀请了中学校长和老师",
+      "onboard_time": 1685243909,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 349947,
       "num": 349947,
       "word": "奥莉 BLACKPINK演唱会",
@@ -5984,14 +6000,6 @@
       "word": "王一博王鹤棣侧颜对比照",
       "onboard_time": 1685189368,
       "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 349682,
-      "num": 349682,
-      "word": "王源重庆演唱会邀请了中学校长和老师",
-      "onboard_time": 1685243909,
-      "rank": 34,
       "category": "艺人"
     },
     {
@@ -7347,6 +7355,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 286338,
+      "num": 274309,
+      "word": "刚入职老板的发财树就死了",
+      "onboard_time": 1685244267,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 286044,
       "num": 204547,
       "word": "张信哲演唱会",
@@ -7739,6 +7755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 275190,
+      "num": 233571,
+      "word": "迪丽热巴公诉倒计时海报",
+      "onboard_time": 1685247207,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 274835,
       "num": 240047,
       "word": "粉丝对winter竖中指的原因",
@@ -7761,14 +7785,6 @@
       "onboard_time": 1684829366,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 274309,
-      "num": 274309,
-      "word": "刚入职老板的发财树就死了",
-      "onboard_time": 1685244267,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 274217,
@@ -9331,6 +9347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232170,
+      "num": 232170,
+      "word": "那英说把张艺兴舞蹈观搞垮了",
+      "onboard_time": 1685246966,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232156,
       "num": 232156,
       "word": "我推的孩子",
@@ -9579,6 +9603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225724,
+      "num": 225724,
+      "word": "欧豪背白鹿路透",
+      "onboard_time": 1685246249,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 225709,
       "num": 225709,
       "word": "临期食品打一折你会买吗",
@@ -9817,6 +9849,14 @@
       "onboard_time": 1685150669,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219803,
+      "num": 219803,
+      "word": "武汉音乐节",
+      "onboard_time": 1685247806,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 219606,
@@ -10291,14 +10331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205809,
-      "num": 205809,
-      "word": "欧豪背白鹿路透",
-      "onboard_time": 1685246249,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 205799,
       "num": 205799,
       "word": "王一博小表情好可爱",
@@ -10649,6 +10681,14 @@
       "onboard_time": 1685237545,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198909,
+      "num": 198909,
+      "word": "细扒浪姐4人情世故场",
+      "onboard_time": 1685247627,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 198897,
@@ -11043,6 +11083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191990,
+      "num": 191990,
+      "word": "极限挑战",
+      "onboard_time": 1685247508,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191968,
       "num": 191968,
       "word": "瘦子选了谁",
@@ -11379,14 +11427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 185428,
-      "num": 185428,
-      "word": "迪丽热巴公诉倒计时海报",
-      "onboard_time": 1685247207,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 185346,
       "num": 185346,
       "word": "Jennie黑纱白色蕾丝蓬蓬裙",
@@ -11481,6 +11521,14 @@
       "onboard_time": 1684728450,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183281,
+      "num": 183281,
+      "word": "很烦人但是不致命的慢性病",
+      "onboard_time": 1685247869,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 183009,
@@ -12051,6 +12099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171061,
+      "num": 171061,
+      "word": "塔图姆",
+      "onboard_time": 1685246667,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171052,
       "num": 196185,
       "word": "chatgpt",
@@ -12411,14 +12467,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 161832,
-      "num": 161832,
-      "word": "那英说把张艺兴舞蹈观搞垮了",
-      "onboard_time": 1685246966,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 161819,
       "num": 161819,
       "word": "奔跑吧泥猴",
@@ -12713,14 +12761,6 @@
       "onboard_time": 1685097091,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156006,
-      "num": 156006,
-      "word": "塔图姆",
-      "onboard_time": 1685246667,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 155850,
@@ -13299,14 +13339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 137472,
-      "num": 137472,
-      "word": "极限挑战",
-      "onboard_time": 1685247508,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 137356,
       "num": 154486,
       "word": "上海再现野生四不像",
@@ -13345,6 +13377,14 @@
       "onboard_time": 1684801408,
       "rank": 46,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 136042,
+      "num": 136042,
+      "word": "入职后公司还在招聘我的岗位",
+      "onboard_time": 1685248287,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 135757,
@@ -15059,6 +15099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31449,
+      "num": 171147,
+      "word": "保发止秃好事发生",
+      "onboard_time": 1685246429,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29942,
       "num": 40525,
       "word": "毕业季哭得最惨的那个人",
@@ -15104,14 +15152,6 @@
       "word": "被造谣性骚扰当事人呼吁不要打扰证人",
       "onboard_time": 1684778773,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26850,
-      "num": 170303,
-      "word": "保发止秃好事发生",
-      "onboard_time": 1685246429,
-      "rank": 39,
       "category": "社会新闻"
     },
     {

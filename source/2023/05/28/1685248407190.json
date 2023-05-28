@@ -1,0 +1,410 @@
+{
+  "runTime": 1685248407190,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1960730,
+        "num": 1960730,
+        "word": "中国人终于要坐上国产大飞机",
+        "onboard_time": 1685235506,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1479218,
+        "num": 1479218,
+        "word": "王一博肖战今日微博开屏",
+        "onboard_time": 1685244989,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42005,
+        "num": 1260002,
+        "word": "白色大熊猫与大熊猫罕见同框",
+        "onboard_time": 1685191350,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1212292,
+        "num": 1212292,
+        "word": "从26楼撑伞跳下男童生命体征平稳",
+        "onboard_time": 1685237365,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1045909,
+        "num": 1045909,
+        "word": "Lisa不发比基尼照的原因",
+        "onboard_time": 1685245709,
+        "rank": 4,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 833291,
+        "num": 833291,
+        "word": "看迪丽热巴眼神不用审就招了",
+        "onboard_time": 1685242646,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 790273,
+        "num": 790273,
+        "word": "难怪饿死都瘦不了几斤",
+        "onboard_time": 1685233765,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 724048,
+        "num": 724048,
+        "word": "离职时公司要求留下微信",
+        "onboard_time": 1685232504,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 719330,
+        "num": 719330,
+        "word": "女子回家发现出租屋变灵堂",
+        "onboard_time": 1685238389,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578892,
+        "num": 578892,
+        "word": "戛纳最佳着装",
+        "onboard_time": 1685240367,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 516531,
+        "num": 516531,
+        "word": "巴特勒怎么了",
+        "onboard_time": 1685240546,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 482260,
+        "num": 482260,
+        "word": "浙江大学生激烈讨论没钱生不生孩子",
+        "onboard_time": 1685231242,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481671,
+        "num": 481671,
+        "word": "宁艺卓ins个人简介更新",
+        "onboard_time": 1685238507,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479998,
+        "num": 479998,
+        "word": "王源真的娶不过来",
+        "onboard_time": 1685243248,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 472186,
+        "num": 472186,
+        "word": "蟑螂真的太恐怖了",
+        "onboard_time": 1685245647,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 444134,
+        "num": 444134,
+        "word": "苏炳添二胎得子",
+        "onboard_time": 1685247688,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 354659,
+        "num": 354659,
+        "word": "赵露思工作室",
+        "onboard_time": 1685231722,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350866,
+        "num": 350866,
+        "word": "王源重庆演唱会邀请了中学校长和老师",
+        "onboard_time": 1685243909,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274436,
+        "num": 274436,
+        "word": "MU9191载客起飞",
+        "onboard_time": 1685243727,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253248,
+        "num": 253248,
+        "word": "月经不是什么难以启齿的事",
+        "onboard_time": 1685241327,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 819013,
+        "num": 250579,
+        "word": "白瘦幼审美 过于恶毒的存在",
+        "onboard_time": 1685234603,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 522342,
+        "num": 244947,
+        "word": "宋丹丹被气到吸氧",
+        "onboard_time": 1685244327,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286338,
+        "num": 238828,
+        "word": "刚入职老板的发财树就死了",
+        "onboard_time": 1685244267,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275190,
+        "num": 233571,
+        "word": "迪丽热巴公诉倒计时海报",
+        "onboard_time": 1685247207,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232170,
+        "num": 232170,
+        "word": "那英说把张艺兴舞蹈观搞垮了",
+        "onboard_time": 1685246966,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231547,
+        "num": 231547,
+        "word": "BLACKPINK演唱会被扔上台的玩偶有摄像头",
+        "onboard_time": 1685201310,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 229681,
+        "num": 229681,
+        "word": "怀特绝杀",
+        "onboard_time": 1685244208,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225724,
+        "num": 225724,
+        "word": "欧豪背白鹿路透",
+        "onboard_time": 1685246249,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219803,
+        "num": 219803,
+        "word": "武汉音乐节",
+        "onboard_time": 1685247806,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218629,
+        "num": 218629,
+        "word": "唐三视角重启斗罗大陆",
+        "onboard_time": 1685247148,
+        "rank": 29,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 209641,
+        "num": 209641,
+        "word": "中高考临近淄博烧烤投诉增多",
+        "onboard_time": 1685241389,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203330,
+        "num": 203330,
+        "word": "不良执念清除师",
+        "onboard_time": 1685245108,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198909,
+        "num": 198909,
+        "word": "细扒浪姐4人情世故场",
+        "onboard_time": 1685247627,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196939,
+        "num": 196939,
+        "word": "经常炒菜的人一定要知道",
+        "onboard_time": 1685237427,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 191990,
+        "num": 191990,
+        "word": "极限挑战",
+        "onboard_time": 1685247508,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185409,
+        "num": 185409,
+        "word": "C919",
+        "onboard_time": 1685239347,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183281,
+        "num": 183281,
+        "word": "很烦人但是不致命的慢性病",
+        "onboard_time": 1685247869,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174332,
+        "num": 174332,
+        "word": "C919飞机上有五福临门主题餐",
+        "onboard_time": 1685241147,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171367,
+        "num": 171367,
+        "word": "桃花坞3定档",
+        "onboard_time": 1685246966,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31449,
+        "num": 171147,
+        "word": "保发止秃好事发生",
+        "onboard_time": 1685246429,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171061,
+        "num": 171061,
+        "word": "塔图姆",
+        "onboard_time": 1685246667,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170716,
+        "num": 170716,
+        "word": "算命 更适合中国宝宝的心理咨询",
+        "onboard_time": 1685201791,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166893,
+        "num": 166893,
+        "word": "华晨宇邀请母校师生看演唱会",
+        "onboard_time": 1685244030,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162299,
+        "num": 162299,
+        "word": "在文彬的悼念空间留下手写信的秀雅",
+        "onboard_time": 1685245470,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160509,
+        "num": 160509,
+        "word": "假球",
+        "onboard_time": 1685202992,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154620,
+        "num": 154620,
+        "word": "宋茜珍珠黄裙造型",
+        "onboard_time": 1685242046,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141694,
+        "num": 141694,
+        "word": "玫瑰故事",
+        "onboard_time": 1685242708,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136042,
+        "num": 136042,
+        "word": "入职后公司还在招聘我的岗位",
+        "onboard_time": 1685248287,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134185,
+        "num": 134185,
+        "word": "五月天演唱会上一场无声的求婚",
+        "onboard_time": 1685233945,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132359,
+        "num": 132359,
+        "word": "小伙入职后发现同事都在养宠物",
+        "onboard_time": 1685235385,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023数博会上的黑科技#"
+    }
+  }
+}
