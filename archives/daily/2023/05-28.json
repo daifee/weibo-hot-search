@@ -1,6 +1,6 @@
 {
   "startTime": 1685204470597,
-  "endTime": 1685259208974,
+  "endTime": 1685261946707,
   "band_list": [
     {
       "raw_hot": 2635395,
@@ -27,6 +27,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1910965,
+      "num": 1910965,
+      "word": "出生人口跌破800万意味着什么",
+      "onboard_time": 1685258906,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1735041,
       "num": 1735041,
       "word": "情侣十年前因父母反对分手",
@@ -49,6 +57,14 @@
       "onboard_time": 1685245709,
       "rank": 10,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 1569750,
+      "num": 314901,
+      "word": "成都体育学院打人",
+      "onboard_time": 1685257048,
+      "rank": 10,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 1548497,
@@ -99,12 +115,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1280989,
-      "num": 313221,
-      "word": "成都体育学院打人",
-      "onboard_time": 1685257048,
-      "rank": 10,
-      "category": "社会新闻,体育"
+      "raw_hot": 1328600,
+      "num": 1328600,
+      "word": "仙剑奇侠传3 翻拍",
+      "onboard_time": 1685257947,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 1085081,
@@ -219,14 +235,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 728475,
-      "num": 728475,
-      "word": "仙剑奇侠传3 翻拍",
-      "onboard_time": 1685257947,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 695914,
       "num": 695914,
       "word": "怀特绝杀",
@@ -315,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 524411,
+      "num": 524411,
+      "word": "宋丹丹被气到吸氧",
+      "onboard_time": 1685244327,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 522905,
       "num": 522905,
       "word": "多特蒙德对得起谁",
@@ -323,20 +339,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 522342,
-      "num": 285348,
-      "word": "宋丹丹被气到吸氧",
-      "onboard_time": 1685244327,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 508766,
       "num": 508766,
       "word": "丫丫",
       "onboard_time": 1685192309,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 491157,
+      "num": 187391,
+      "word": "被李嘉琦聊天尬住了",
+      "onboard_time": 1685260948,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 482260,
@@ -403,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 444408,
+      "num": 411235,
+      "word": "宋丹丹分房没人选",
+      "onboard_time": 1685257525,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441868,
       "num": 340687,
       "word": "五月天演唱会志愿者伙食",
@@ -425,14 +449,6 @@
       "onboard_time": 1685244030,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 434458,
-      "num": 286830,
-      "word": "宋丹丹分房没人选",
-      "onboard_time": 1685257525,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 433132,
@@ -459,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 422342,
+      "num": 313316,
+      "word": "步步倾心杀青",
+      "onboard_time": 1685260589,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 414449,
       "num": 305826,
       "word": "桃花坞分房都不满意但没人敢说",
@@ -472,6 +496,14 @@
       "word": "王一博没有想和粉丝一起做的事情",
       "onboard_time": 1685180128,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 411636,
+      "num": 290605,
+      "word": "王俊凯王源或将合体",
+      "onboard_time": 1685260708,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -492,7 +524,7 @@
     },
     {
       "raw_hot": 392317,
-      "num": 729654,
+      "num": 1121434,
       "word": "C919全球首次商业载客飞行",
       "onboard_time": 1685243666,
       "rank": 34,
@@ -579,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346754,
+      "num": 346754,
+      "word": "好热",
+      "onboard_time": 1685257348,
+      "rank": 15,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 340729,
       "num": 340729,
       "word": "MBTI",
@@ -601,6 +641,14 @@
       "onboard_time": 1685250148,
       "rank": 30,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 329988,
+      "num": 329988,
+      "word": "官方回应水电站放水致2教师溺亡",
+      "onboard_time": 1685257288,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 328678,
@@ -731,14 +779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 279200,
-      "num": 279200,
-      "word": "好热",
-      "onboard_time": 1685257348,
-      "rank": 15,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 278752,
       "num": 278752,
       "word": "C919飞机上有五福临门主题餐",
@@ -787,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255354,
+      "num": 225879,
+      "word": "张国立 桃花坞",
+      "onboard_time": 1685257767,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254876,
       "num": 254876,
       "word": "玫瑰故事",
@@ -809,14 +857,6 @@
       "onboard_time": 1685249489,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 249843,
-      "num": 249843,
-      "word": "官方回应水电站放水致2教师溺亡",
-      "onboard_time": 1685257288,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 247771,
@@ -899,14 +939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 225879,
-      "num": 225879,
-      "word": "张国立 桃花坞",
-      "onboard_time": 1685257767,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 225724,
       "num": 225724,
       "word": "欧豪背白鹿路透",
@@ -971,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210582,
+      "num": 200780,
+      "word": "95生的肌肉",
+      "onboard_time": 1685257889,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 206533,
       "num": 206533,
       "word": "不良执念清除师",
@@ -993,6 +1033,14 @@
       "onboard_time": 1685243607,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 205263,
+      "num": 180180,
+      "word": "王鹤棣任敏演我旁观父母吵架",
+      "onboard_time": 1685260048,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 203512,
@@ -1033,14 +1081,6 @@
       "onboard_time": 1685205326,
       "rank": 48,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 200780,
-      "num": 200780,
-      "word": "95生的肌肉",
-      "onboard_time": 1685257889,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 199844,
@@ -1204,7 +1244,7 @@
     },
     {
       "raw_hot": 170278,
-      "num": 146431,
+      "num": 154439,
       "word": "汤晶媚问谁这么大腕",
       "onboard_time": 1685258549,
       "rank": 37,
@@ -1267,6 +1307,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 163687,
+      "num": 163687,
+      "word": "市民被压车底20多人瞬间跑来救人",
+      "onboard_time": 1685260291,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162675,
       "num": 162675,
       "word": "檀健次张婧仪实绩",
@@ -1281,6 +1329,14 @@
       "onboard_time": 1685232263,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 160296,
+      "num": 160296,
+      "word": "高三班主任为毕业生定制专属火车票",
+      "onboard_time": 1685257889,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156038,
@@ -1339,6 +1395,14 @@
       "category": "动漫,音乐"
     },
     {
+      "raw_hot": 146938,
+      "num": 146938,
+      "word": "华晨宇武汉演唱会现场保障升级",
+      "onboard_time": 1685261727,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 145070,
       "num": 145070,
       "word": "任敏桃花坞哭了",
@@ -1353,6 +1417,14 @@
       "onboard_time": 1685230700,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142644,
+      "num": 142644,
+      "word": "国航2825",
+      "onboard_time": 1685260948,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 141122,
@@ -1371,12 +1443,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 138706,
-      "num": 138706,
-      "word": "出生人口跌破800万意味着什么",
-      "onboard_time": 1685258906,
+      "raw_hot": 138939,
+      "num": 138939,
+      "word": "于正一瘦皮就松",
+      "onboard_time": 1685260828,
       "rank": 40,
-      "category": "社会新闻"
+      "category": "艺人"
     },
     {
       "raw_hot": 138475,
@@ -1435,6 +1507,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 122092,
+      "num": 122092,
+      "word": "8岁摄影师拍的李兰迪周奇",
+      "onboard_time": 1685259748,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120789,
       "num": 120789,
       "word": "2023戛纳电影节闭幕红毯",
@@ -1459,19 +1539,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119669,
+      "num": 119669,
+      "word": "波音",
+      "onboard_time": 1685261128,
+      "rank": 45,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 119552,
       "num": 119552,
       "word": "南航通报旅客遭新加坡柜台人员辱骂",
       "onboard_time": 1685198672,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119472,
-      "num": 119472,
-      "word": "高三班主任为毕业生定制专属火车票",
-      "onboard_time": 1685257889,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1497,6 +1577,14 @@
       "onboard_time": 1685208380,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113221,
+      "num": 113221,
+      "word": "塞尔达传说王国之泪",
+      "onboard_time": 1685259507,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 112583,
@@ -1735,6 +1823,9 @@
     },
     {
       "word": "#2023网络名人湖北行#"
+    },
+    {
+      "word": "#中关村论坛是全球科技创新的会客厅#"
     }
   ]
 }
