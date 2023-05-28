@@ -1,6 +1,6 @@
 {
   "startTime": 1685204470597,
-  "endTime": 1685258090454,
+  "endTime": 1685259208974,
   "band_list": [
     {
       "raw_hot": 2635395,
@@ -75,6 +75,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1417502,
+      "num": 1417502,
+      "word": "孙悟空被压了500年都没有黑化",
+      "onboard_time": 1685255908,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1369121,
       "num": 1369121,
       "word": "算命 更适合中国宝宝的心理咨询",
@@ -91,12 +99,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1292571,
-      "num": 1292571,
-      "word": "孙悟空被压了500年都没有黑化",
-      "onboard_time": 1685255908,
-      "rank": 0,
-      "category": "影视"
+      "raw_hot": 1280989,
+      "num": 313221,
+      "word": "成都体育学院打人",
+      "onboard_time": 1685257048,
+      "rank": 10,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 1085081,
@@ -195,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 741227,
+      "num": 741227,
+      "word": "网购虾条居然收到了差评返现卡",
+      "onboard_time": 1685255726,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 730856,
       "num": 730856,
       "word": "ai换脸 我对父母的反诈宣传",
@@ -203,12 +219,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 722370,
-      "num": 722370,
-      "word": "网购虾条居然收到了差评返现卡",
-      "onboard_time": 1685255726,
-      "rank": 1,
-      "category": "幽默"
+      "raw_hot": 728475,
+      "num": 728475,
+      "word": "仙剑奇侠传3 翻拍",
+      "onboard_time": 1685257947,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 695914,
@@ -259,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 624957,
+      "num": 624957,
+      "word": "老舅董宝石骂人没脏字",
+      "onboard_time": 1685254887,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 622044,
       "num": 622044,
       "word": "王源真的娶不过来",
@@ -273,14 +297,6 @@
       "onboard_time": 1685203648,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 557395,
-      "num": 557395,
-      "word": "老舅董宝石骂人没脏字",
-      "onboard_time": 1685254887,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 533444,
@@ -337,14 +353,6 @@
       "onboard_time": 1685190930,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 480375,
-      "num": 313221,
-      "word": "成都体育学院打人",
-      "onboard_time": 1685257048,
-      "rank": 10,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 470798,
@@ -419,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 434458,
+      "num": 286830,
+      "word": "宋丹丹分房没人选",
+      "onboard_time": 1685257525,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 433132,
       "num": 433132,
       "word": "王鹤棣不选宋丹丹做室友",
@@ -443,20 +459,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 414449,
+      "num": 305826,
+      "word": "桃花坞分房都不满意但没人敢说",
+      "onboard_time": 1685255788,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 412761,
       "num": 412761,
       "word": "王一博没有想和粉丝一起做的事情",
       "onboard_time": 1685180128,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 411681,
-      "num": 305826,
-      "word": "桃花坞分房都不满意但没人敢说",
-      "onboard_time": 1685255788,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 410016,
@@ -476,7 +492,7 @@
     },
     {
       "raw_hot": 392317,
-      "num": 695417,
+      "num": 729654,
       "word": "C919全球首次商业载客飞行",
       "onboard_time": 1685243666,
       "rank": 34,
@@ -563,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 340729,
+      "num": 340729,
+      "word": "MBTI",
+      "onboard_time": 1685255366,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 339745,
       "num": 298300,
       "word": "那英唱掉了全程开大",
@@ -585,14 +609,6 @@
       "onboard_time": 1685249247,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 326086,
-      "num": 326086,
-      "word": "MBTI",
-      "onboard_time": 1685255366,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 325865,
@@ -747,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268906,
+      "num": 268906,
+      "word": "为迎接丫丫北京动物园熊猫馆加装安检门",
+      "onboard_time": 1685256267,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266343,
       "num": 266343,
       "word": "细扒浪姐4人情世故场",
@@ -755,12 +779,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 258873,
-      "num": 258873,
-      "word": "为迎接丫丫北京动物园熊猫馆加装安检门",
-      "onboard_time": 1685256267,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 264070,
+      "num": 234686,
+      "word": "周深说洗泥巴洗了四十分钟",
+      "onboard_time": 1685257348,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 254876,
@@ -785,6 +809,14 @@
       "onboard_time": 1685249489,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 249843,
+      "num": 249843,
+      "word": "官方回应水电站放水致2教师溺亡",
+      "onboard_time": 1685257288,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247771,
@@ -864,6 +896,14 @@
       "word": "那英说何炅黄磊老了",
       "onboard_time": 1685248770,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 225879,
+      "num": 225879,
+      "word": "张国立 桃花坞",
+      "onboard_time": 1685257767,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -995,12 +1035,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 199891,
-      "num": 199891,
-      "word": "宋丹丹分房没人选",
-      "onboard_time": 1685257525,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 200780,
+      "num": 200780,
+      "word": "95生的肌肉",
+      "onboard_time": 1685257889,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 199844,
@@ -1025,14 +1065,6 @@
       "onboard_time": 1685199331,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 197673,
-      "num": 197673,
-      "word": "周深说洗泥巴洗了四十分钟",
-      "onboard_time": 1685257348,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 197658,
@@ -1065,6 +1097,14 @@
       "onboard_time": 1685247508,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189431,
+      "num": 189431,
+      "word": "中山一公司为员工提供二阳居家带薪假",
+      "onboard_time": 1685258608,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189272,
@@ -1115,14 +1155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 182569,
-      "num": 182569,
-      "word": "官方回应水电站放水致2教师溺亡",
-      "onboard_time": 1685257288,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179643,
       "num": 133535,
       "word": "大连降雨一高校遍地是小青蛙",
@@ -1168,6 +1200,14 @@
       "word": "宋丹丹问李雪琴是不是谈恋爱了",
       "onboard_time": 1685230939,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 170278,
+      "num": 146431,
+      "word": "汤晶媚问谁这么大腕",
+      "onboard_time": 1685258549,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -1267,14 +1307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153227,
-      "num": 153227,
-      "word": "张国立 桃花坞",
-      "onboard_time": 1685257767,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 152651,
       "num": 152651,
       "word": "孟子义说王传君现在接这么多综艺好红啊",
@@ -1305,14 +1337,6 @@
       "onboard_time": 1685246308,
       "rank": 46,
       "category": "动漫,音乐"
-    },
-    {
-      "raw_hot": 147406,
-      "num": 147406,
-      "word": "仙剑奇侠传3 翻拍",
-      "onboard_time": 1685257947,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 145070,
@@ -1347,12 +1371,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 138615,
-      "num": 138615,
-      "word": "95生的肌肉",
-      "onboard_time": 1685257889,
-      "rank": 41,
-      "category": "作品衍生"
+      "raw_hot": 138706,
+      "num": 138706,
+      "word": "出生人口跌破800万意味着什么",
+      "onboard_time": 1685258906,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138475,
@@ -1595,20 +1619,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71121,
+      "num": 109093,
+      "word": "2023年大马羽毛球大师赛",
+      "onboard_time": 1685258068,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69453,
       "num": 109949,
       "word": "光遇",
       "onboard_time": 1685254887,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 63283,
-      "num": 100480,
-      "word": "2023年大马羽毛球大师赛",
-      "onboard_time": 1685258068,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 55620,
