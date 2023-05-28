@@ -1,6 +1,6 @@
 {
   "startTime": 1685204470597,
-  "endTime": 1685280823473,
+  "endTime": 1685283245610,
   "band_list": [
     {
       "raw_hot": 2635395,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1931716,
-      "num": 1085893,
+      "num": 1199897,
       "word": "祝绪丹说迪丽热巴照片有她拍的",
       "onboard_time": 1685276908,
       "rank": 30,
@@ -57,6 +57,14 @@
       "onboard_time": 1685264428,
       "rank": 3,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 1814762,
+      "num": 1814762,
+      "word": "宋丹丹暂时退出桃花坞",
+      "onboard_time": 1685279549,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 1754331,
@@ -179,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1341600,
+      "num": 1341600,
+      "word": "樊振东vs王楚钦",
+      "onboard_time": 1685278109,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1328600,
       "num": 1328600,
       "word": "仙剑奇侠传3 翻拍",
@@ -195,12 +211,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1179632,
-      "num": 1179632,
-      "word": "宋丹丹暂时退出桃花坞",
-      "onboard_time": 1685279549,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 1181661,
+      "num": 1181661,
+      "word": "五月天欠下九十万斤水饺的债",
+      "onboard_time": 1685279789,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1167346,
+      "num": 1167346,
+      "word": "樊振东卫冕男单冠军",
+      "onboard_time": 1685282552,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1143167,
@@ -299,11 +323,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 831664,
-      "num": 831664,
-      "word": "樊振东vs王楚钦",
-      "onboard_time": 1685278109,
-      "rank": 4,
+      "raw_hot": 830255,
+      "num": 830255,
+      "word": "樊振东4比2王楚钦",
+      "onboard_time": 1685282854,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -363,12 +387,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 714568,
-      "num": 414522,
-      "word": "五月天欠下九十万斤水饺的债",
-      "onboard_time": 1685279789,
-      "rank": 44,
-      "category": "音乐"
+      "raw_hot": 720949,
+      "num": 720949,
+      "word": "Ella采访谈SHE哭了",
+      "onboard_time": 1685280030,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 695914,
@@ -408,6 +432,14 @@
       "word": "王俊凯",
       "onboard_time": 1685194653,
       "rank": 10,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 666170,
+      "num": 590184,
+      "word": "许嵩 麦田里最先饱满的麦穗会被恶鸟啄食",
+      "onboard_time": 1685282012,
+      "rank": 15,
       "category": "音乐"
     },
     {
@@ -457,6 +489,14 @@
       "onboard_time": 1685243248,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 605130,
+      "num": 605130,
+      "word": "C919首排乘客是这四位",
+      "onboard_time": 1685279008,
+      "rank": 34,
+      "category": "科技"
     },
     {
       "raw_hot": 603935,
@@ -515,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 566402,
+      "num": 566402,
+      "word": "北京动物园",
+      "onboard_time": 1685279308,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 566145,
       "num": 566145,
       "word": "王俊凯王源或将合体",
@@ -523,12 +571,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 559148,
-      "num": 358907,
-      "word": "Ella采访谈SHE哭了",
-      "onboard_time": 1685280030,
-      "rank": 16,
-      "category": "作品衍生"
+      "raw_hot": 548873,
+      "num": 453616,
+      "word": "王源演唱会最后一场的提词器",
+      "onboard_time": 1685278948,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 533444,
@@ -659,6 +707,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 458574,
+      "num": 458574,
+      "word": "王楚钦真大心脏",
+      "onboard_time": 1685282794,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 455024,
       "num": 455024,
       "word": "周也好适合演恶女",
@@ -681,6 +737,14 @@
       "onboard_time": 1685242228,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 445081,
+      "num": 445081,
+      "word": "13岁女孩玩手机4个月花40多万",
+      "onboard_time": 1685271988,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 444408,
@@ -827,12 +891,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 394875,
-      "num": 311088,
-      "word": "王源演唱会最后一场的提词器",
-      "onboard_time": 1685278948,
-      "rank": 33,
-      "category": "音乐"
+      "raw_hot": 395261,
+      "num": 395261,
+      "word": "邱贻可",
+      "onboard_time": 1685280689,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 392317,
@@ -995,20 +1059,20 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 345247,
-      "num": 345247,
-      "word": "13岁女孩玩手机4个月花40多万",
-      "onboard_time": 1685271988,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 345024,
       "num": 324093,
       "word": "THE9成员线下巡演大合照",
       "onboard_time": 1685275292,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 343537,
+      "num": 343537,
+      "word": "李现周雨彤拥抱杀",
+      "onboard_time": 1685278527,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 340729,
@@ -1051,14 +1115,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 336811,
-      "num": 316068,
-      "word": "李现周雨彤拥抱杀",
-      "onboard_time": 1685278527,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 331787,
       "num": 331787,
       "word": "王玉雯直播",
@@ -1083,12 +1139,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327138,
+      "num": 327138,
+      "word": "墨尔本地震",
+      "onboard_time": 1685282913,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325865,
       "num": 325865,
       "word": "罗伊斯痛失德甲首冠",
       "onboard_time": 1685202748,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 322775,
+      "num": 314917,
+      "word": "Ella你在乘风2023教了什么",
+      "onboard_time": 1685281952,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 321986,
@@ -1105,14 +1177,6 @@
       "onboard_time": 1685237427,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 312337,
-      "num": 312337,
-      "word": "北京动物园",
-      "onboard_time": 1685279308,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 310819,
@@ -1169,6 +1233,14 @@
       "onboard_time": 1685262209,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 298752,
+      "num": 298752,
+      "word": "tablo",
+      "onboard_time": 1685281049,
+      "rank": 32,
+      "category": "音乐,艺人"
     },
     {
       "raw_hot": 297698,
@@ -1315,6 +1387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 253379,
+      "num": 253379,
+      "word": "王源妈妈看演唱会被拦在门外",
+      "onboard_time": 1685282974,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 253158,
       "num": 220585,
       "word": "EXO十年前快乐大本营花絮",
@@ -1355,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 244550,
+      "num": 237320,
+      "word": "王源重庆收官绿海",
+      "onboard_time": 1685281712,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 243365,
       "num": 243365,
       "word": "陈梦王艺迪女双决赛",
@@ -1393,14 +1481,6 @@
       "onboard_time": 1685251649,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 237550,
-      "num": 237550,
-      "word": "C919首排乘客是这四位",
-      "onboard_time": 1685279008,
-      "rank": 34,
-      "category": "科技"
     },
     {
       "raw_hot": 237496,
@@ -1795,6 +1875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188319,
+      "num": 189706,
+      "word": "TE夺冠",
+      "onboard_time": 1685282192,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187834,
       "num": 187834,
       "word": "把大骨头拍成了吃不起的样子",
@@ -1865,14 +1953,6 @@
       "onboard_time": 1685264129,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173655,
-      "num": 173655,
-      "word": "邱贻可",
-      "onboard_time": 1685280689,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 173650,
@@ -2484,7 +2564,7 @@
     },
     {
       "raw_hot": 74546,
-      "num": 197297,
+      "num": 577485,
       "word": "凯迪拉克三车齐发",
       "onboard_time": 1685280330,
       "rank": 41,
@@ -2513,6 +2593,14 @@
       "onboard_time": 1685254887,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 65743,
+      "num": 1201832,
+      "word": "沉浸式体验虚拟未来世界",
+      "onboard_time": 1685279849,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55620,
@@ -2579,14 +2667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27067,
-      "num": 986009,
-      "word": "沉浸式体验虚拟未来世界",
-      "onboard_time": 1685279849,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 26764,
       "num": 28639,
       "word": "BLACKPINK曼谷演唱会饭拍",
@@ -2645,6 +2725,9 @@
     },
     {
       "word": "#神十六各系统准备就绪#"
+    },
+    {
+      "word": "#中国高铁如何创造世界之最#"
     }
   ]
 }
