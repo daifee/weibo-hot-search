@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685268994468,
+  "endTime": 1685270007835,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -2099,6 +2099,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1968746,
+      "num": 1968746,
+      "word": "黄奕未经允许私拿美术馆展品摆拍",
+      "onboard_time": 1685267489,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1968455,
       "num": 1968455,
       "word": "罗翔神预言",
@@ -2228,7 +2236,7 @@
     },
     {
       "raw_hot": 1931047,
-      "num": 1283933,
+      "num": 1668478,
       "word": "迪丽热巴私服",
       "onboard_time": 1685264428,
       "rank": 3,
@@ -6731,6 +6739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1143167,
+      "num": 1143167,
+      "word": "沈腾真睡啊",
+      "onboard_time": 1685266527,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1141545,
       "num": 987104,
       "word": "Angelababy怎么美成这样啊",
@@ -6793,14 +6809,6 @@
       "onboard_time": 1683776788,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1137924,
-      "num": 1137924,
-      "word": "沈腾真睡啊",
-      "onboard_time": 1685266527,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1137614,
@@ -8033,14 +8041,6 @@
       "onboard_time": 1683342568,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1001508,
-      "num": 1001508,
-      "word": "黄奕未经允许私拿美术馆展品摆拍",
-      "onboard_time": 1685267489,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 999294,
@@ -13924,7 +13924,7 @@
     },
     {
       "raw_hot": 579434,
-      "num": 1459850,
+      "num": 1684762,
       "word": "丫丫回北京将和萌兰做邻居",
       "onboard_time": 1685262809,
       "rank": 6,
@@ -20203,6 +20203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 415030,
+      "num": 415030,
+      "word": "王源说最后一站最后一场一会儿见",
+      "onboard_time": 1685269467,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 414605,
       "num": 344956,
       "word": "虞书欣帮爷爷拍照",
@@ -21548,7 +21556,7 @@
     },
     {
       "raw_hot": 392317,
-      "num": 1349817,
+      "num": 1668846,
       "word": "C919全球首次商业载客飞行",
       "onboard_time": 1685243666,
       "rank": 34,
@@ -21817,6 +21825,14 @@
       "onboard_time": 1684392627,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 387893,
+      "num": 387893,
+      "word": "赵露思回应角色争议",
+      "onboard_time": 1685265930,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 387733,
@@ -22673,14 +22689,6 @@
       "onboard_time": 1684388069,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 374845,
-      "num": 374845,
-      "word": "赵露思回应角色争议",
-      "onboard_time": 1685265930,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 374743,
@@ -24009,6 +24017,14 @@
       "onboard_time": 1683557614,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 356442,
+      "num": 208073,
+      "word": "安乐传全剧没有吻戏",
+      "onboard_time": 1685267428,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 356396,
@@ -26555,6 +26571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 324163,
+      "num": 1440745,
+      "word": "公安局里来了11只呆萌鸟宝宝",
+      "onboard_time": 1685266708,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324036,
       "num": 324036,
       "word": "急性会厌炎",
@@ -26753,6 +26777,14 @@
       "onboard_time": 1683183449,
       "rank": 22,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 321169,
+      "num": 321169,
+      "word": "zb1",
+      "onboard_time": 1685267608,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 321079,
@@ -28345,14 +28377,6 @@
       "onboard_time": 1684813050,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 301886,
-      "num": 208073,
-      "word": "安乐传全剧没有吻戏",
-      "onboard_time": 1685267428,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 301883,
@@ -35643,6 +35667,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 240053,
+      "num": 240053,
+      "word": "时尚芭莎年度派对官宣易烊千玺",
+      "onboard_time": 1685267128,
+      "rank": 24,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 240048,
       "num": 240048,
       "word": "白玉兰男女主预测",
@@ -38531,14 +38563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221291,
-      "num": 1154707,
-      "word": "公安局里来了11只呆萌鸟宝宝",
-      "onboard_time": 1685266708,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221286,
       "num": 221286,
       "word": "马琳",
@@ -39065,6 +39089,14 @@
       "onboard_time": 1683158068,
       "rank": 27,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 218179,
+      "num": 1155738,
+      "word": "市民被压车底20多人瞬间跑来救人",
+      "onboard_time": 1685260291,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218167,
@@ -40419,14 +40451,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 210122,
-      "num": 191224,
-      "word": "zb1",
-      "onboard_time": 1685267608,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 210073,
       "num": 193258,
       "word": "小鬼你管得着吗",
@@ -40657,6 +40681,14 @@
       "onboard_time": 1684598067,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 208454,
+      "num": 208454,
+      "word": "为什么演唱会不能选位置",
+      "onboard_time": 1685268448,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208328,
@@ -42195,6 +42227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199726,
+      "num": 190800,
+      "word": "蒋梦婕芭蕾风镂空吊带",
+      "onboard_time": 1685266228,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199640,
       "num": 199640,
       "word": "厦门防空警报",
@@ -42875,14 +42915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195632,
-      "num": 190800,
-      "word": "蒋梦婕芭蕾风镂空吊带",
-      "onboard_time": 1685266228,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195631,
       "num": 195631,
       "word": "KPL锦鲤们集结太仓",
@@ -43379,14 +43411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193311,
-      "num": 1014796,
-      "word": "市民被压车底20多人瞬间跑来救人",
-      "onboard_time": 1685260291,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193245,
       "num": 193245,
       "word": "梁静茹新专上线",
@@ -43777,14 +43801,6 @@
       "onboard_time": 1682932048,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 191280,
-      "num": 191280,
-      "word": "时尚芭莎年度派对官宣易烊千玺",
-      "onboard_time": 1685267128,
-      "rank": 24,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 191272,
@@ -49883,6 +49899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156912,
+      "num": 156912,
+      "word": "Ella的BkingKiss",
+      "onboard_time": 1685268867,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156890,
       "num": 156890,
       "word": "严惩造谣性骚扰才是对女性的保护",
@@ -52369,6 +52393,14 @@
       "onboard_time": 1684219048,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141249,
+      "num": 141249,
+      "word": "官方回应成体和川大球员发生冲突",
+      "onboard_time": 1685268867,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141231,
@@ -55955,6 +55987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109872,
+      "num": 109872,
+      "word": "白敬亭参加发小婚礼",
+      "onboard_time": 1685269769,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109745,
       "num": 109745,
       "word": "周杰伦演唱会男孩仰头大睡",
@@ -56545,14 +56585,6 @@
       "onboard_time": 1682897240,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 102124,
-      "num": 102124,
-      "word": "为什么演唱会不能选位置",
-      "onboard_time": 1685268448,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102038,
@@ -57323,14 +57355,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 88744,
-      "num": 88744,
-      "word": "Ella的BkingKiss",
-      "onboard_time": 1685268867,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 88736,
       "num": 88736,
       "word": "乘风2023组团观看长沙夜生活",
@@ -57835,11 +57859,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 77851,
-      "num": 87957,
-      "word": "官方回应成体和川大球员发生冲突",
-      "onboard_time": 1685268867,
-      "rank": 49,
+      "raw_hot": 77694,
+      "num": 421346,
+      "word": "民警顶楼飞扑救下20岁轻生男子",
+      "onboard_time": 1685268029,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -59753,14 +59777,6 @@
       "onboard_time": 1683414139,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 37669,
-      "num": 394304,
-      "word": "民警顶楼飞扑救下20岁轻生男子",
-      "onboard_time": 1685268029,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36946,

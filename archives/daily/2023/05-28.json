@@ -1,6 +1,6 @@
 {
   "startTime": 1685204470597,
-  "endTime": 1685268994468,
+  "endTime": 1685270007835,
   "band_list": [
     {
       "raw_hot": 2635395,
@@ -35,8 +35,16 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1968746,
+      "num": 1968746,
+      "word": "黄奕未经允许私拿美术馆展品摆拍",
+      "onboard_time": 1685267489,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1931047,
-      "num": 1283933,
+      "num": 1668478,
       "word": "迪丽热巴私服",
       "onboard_time": 1685264428,
       "rank": 3,
@@ -139,8 +147,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1137924,
-      "num": 1137924,
+      "raw_hot": 1143167,
+      "num": 1143167,
       "word": "沈腾真睡啊",
       "onboard_time": 1685266527,
       "rank": 5,
@@ -161,14 +169,6 @@
       "onboard_time": 1685242646,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1001508,
-      "num": 1001508,
-      "word": "黄奕未经允许私拿美术馆展品摆拍",
-      "onboard_time": 1685267489,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 946252,
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 579434,
-      "num": 1459850,
+      "num": 1684762,
       "word": "丫丫回北京将和萌兰做邻居",
       "onboard_time": 1685262809,
       "rank": 6,
@@ -563,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 415030,
+      "num": 415030,
+      "word": "王源说最后一站最后一场一会儿见",
+      "onboard_time": 1685269467,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 414449,
       "num": 305826,
       "word": "桃花坞分房都不满意但没人敢说",
@@ -596,11 +604,19 @@
     },
     {
       "raw_hot": 392317,
-      "num": 1349817,
+      "num": 1668846,
       "word": "C919全球首次商业载客飞行",
       "onboard_time": 1685243666,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387893,
+      "num": 387893,
+      "word": "赵露思回应角色争议",
+      "onboard_time": 1685265930,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 383159,
@@ -625,14 +641,6 @@
       "onboard_time": 1685231722,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 374845,
-      "num": 374845,
-      "word": "赵露思回应角色争议",
-      "onboard_time": 1685265930,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 362135,
@@ -673,6 +681,14 @@
       "onboard_time": 1685237427,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 356442,
+      "num": 208073,
+      "word": "安乐传全剧没有吻戏",
+      "onboard_time": 1685267428,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 354751,
@@ -755,12 +771,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 324163,
+      "num": 1440745,
+      "word": "公安局里来了11只呆萌鸟宝宝",
+      "onboard_time": 1685266708,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321986,
       "num": 276631,
       "word": "张雪峰评985硕士直播耍杂技",
       "onboard_time": 1685249307,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321169,
+      "num": 321169,
+      "word": "zb1",
+      "onboard_time": 1685267608,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 318906,
@@ -801,14 +833,6 @@
       "onboard_time": 1685187807,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 301886,
-      "num": 208073,
-      "word": "安乐传全剧没有吻戏",
-      "onboard_time": 1685267428,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 301103,
@@ -1003,6 +1027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 240053,
+      "num": 240053,
+      "word": "时尚芭莎年度派对官宣易烊千玺",
+      "onboard_time": 1685267128,
+      "rank": 24,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 238253,
       "num": 238253,
       "word": "美依礼芽给李莎旻子留灯",
@@ -1099,14 +1131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221291,
-      "num": 1154707,
-      "word": "公安局里来了11只呆萌鸟宝宝",
-      "onboard_time": 1685266708,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 219803,
       "num": 219803,
       "word": "武汉音乐节",
@@ -1120,6 +1144,14 @@
       "word": "国际月经日",
       "onboard_time": 1685239108,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218179,
+      "num": 1155738,
+      "word": "市民被压车底20多人瞬间跑来救人",
+      "onboard_time": 1685260291,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1155,12 +1187,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210122,
-      "num": 191224,
-      "word": "zb1",
-      "onboard_time": 1685267608,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 208454,
+      "num": 208454,
+      "word": "为什么演唱会不能选位置",
+      "onboard_time": 1685268448,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206533,
@@ -1251,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199726,
+      "num": 190800,
+      "word": "蒋梦婕芭蕾风镂空吊带",
+      "onboard_time": 1685266228,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199507,
       "num": 199507,
       "word": "张彬彬直播",
@@ -1283,14 +1323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195632,
-      "num": 190800,
-      "word": "蒋梦婕芭蕾风镂空吊带",
-      "onboard_time": 1685266228,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195330,
       "num": 195330,
       "word": "二阳会留下后遗症吗",
@@ -1315,28 +1347,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 193311,
-      "num": 1014796,
-      "word": "市民被压车底20多人瞬间跑来救人",
-      "onboard_time": 1685260291,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191990,
       "num": 191990,
       "word": "极限挑战",
       "onboard_time": 1685247508,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191280,
-      "num": 191280,
-      "word": "时尚芭莎年度派对官宣易烊千玺",
-      "onboard_time": 1685267128,
-      "rank": 24,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 189272,
@@ -1547,6 +1563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156912,
+      "num": 156912,
+      "word": "Ella的BkingKiss",
+      "onboard_time": 1685268867,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156038,
       "num": 156038,
       "word": "入职后公司还在招聘我的岗位",
@@ -1624,6 +1648,14 @@
       "word": "猪加索画作售卖已超2000万美元",
       "onboard_time": 1685230700,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141249,
+      "num": 141249,
+      "word": "官方回应成体和川大球员发生冲突",
+      "onboard_time": 1685268867,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1819,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109872,
+      "num": 109872,
+      "word": "白敬亭参加发小婚礼",
+      "onboard_time": 1685269769,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109433,
       "num": 123600,
       "word": "LPL夏季赛主宣传片",
@@ -1867,14 +1907,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 102124,
-      "num": 102124,
-      "word": "为什么演唱会不能选位置",
-      "onboard_time": 1685268448,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95752,
       "num": 95752,
       "word": "少年江湖三人行园博园写真",
@@ -1897,14 +1929,6 @@
       "onboard_time": 1685265270,
       "rank": 49,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 88744,
-      "num": 88744,
-      "word": "Ella的BkingKiss",
-      "onboard_time": 1685268867,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 87982,
@@ -1931,11 +1955,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 77851,
-      "num": 87957,
-      "word": "官方回应成体和川大球员发生冲突",
-      "onboard_time": 1685268867,
-      "rank": 49,
+      "raw_hot": 77694,
+      "num": 421346,
+      "word": "民警顶楼飞扑救下20岁轻生男子",
+      "onboard_time": 1685268029,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2016,14 +2040,6 @@
       "word": "山还在那里生命只有一次",
       "onboard_time": 1685229077,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37669,
-      "num": 394304,
-      "word": "民警顶楼飞扑救下20岁轻生男子",
-      "onboard_time": 1685268029,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
