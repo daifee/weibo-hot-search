@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685302424458,
+  "endTime": 1685304998966,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -61297,6 +61297,14 @@
       "onboard_time": 1682839286,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14068,
+      "num": 17247,
+      "word": "范丞丞祝愿每个人都能大胆向前",
+      "onboard_time": 1685303653,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 13676,
