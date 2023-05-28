@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685313227169,
+  "endTime": 1685315824106,
   "band_list": [
     {
       "raw_hot": 1579628,
@@ -11,8 +11,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1248938,
-      "num": 1248938,
+      "raw_hot": 1254287,
+      "num": 1254287,
       "word": "老公每月给你两万但不回家",
       "onboard_time": 1685283752,
       "rank": 3,
@@ -33,6 +33,14 @@
       "onboard_time": 1685276908,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 967761,
+      "num": 589983,
+      "word": "柯基",
+      "onboard_time": 1685284892,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 819265,
@@ -75,11 +83,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 589983,
-      "num": 589983,
-      "word": "柯基",
-      "onboard_time": 1685284892,
-      "rank": 12,
+      "raw_hot": 593125,
+      "num": 593125,
+      "word": "丫丫",
+      "onboard_time": 1685276068,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -91,20 +99,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 532992,
+      "num": 532992,
+      "word": "大姨妈正常周期到底是几天",
+      "onboard_time": 1685286213,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 519124,
       "num": 519124,
       "word": "丫丫已落地北京",
       "onboard_time": 1685285252,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 503108,
-      "num": 271430,
-      "word": "大姨妈正常周期到底是几天",
-      "onboard_time": 1685286213,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 477679,
@@ -147,11 +155,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 318551,
-      "num": 318551,
-      "word": "丫丫",
-      "onboard_time": 1685276068,
-      "rank": 42,
+      "raw_hot": 351385,
+      "num": 351385,
+      "word": "王源 赵英俊",
+      "onboard_time": 1685314879,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 341693,
+      "num": 341693,
+      "word": "北京动物园",
+      "onboard_time": 1685315299,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315482,
+      "num": 315482,
+      "word": "织金通报教师不幸溺亡事件",
+      "onboard_time": 1685310973,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -201,6 +225,14 @@
       "onboard_time": 1685280030,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 253127,
+      "num": 93785,
+      "word": "丫丫回京现场画面",
+      "onboard_time": 1685315360,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250390,
@@ -291,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154869,
+      "num": 154869,
+      "word": "年轻人的生育意愿为什么越来越低",
+      "onboard_time": 1685270610,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151030,
       "num": 151030,
       "word": "五月天演唱会",
@@ -313,14 +353,6 @@
       "onboard_time": 1685273427,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133849,
-      "num": 133849,
-      "word": "年轻人的生育意愿为什么越来越低",
-      "onboard_time": 1685270610,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131046,
@@ -403,20 +435,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119217,
-      "num": 119217,
-      "word": "织金通报教师不幸溺亡事件",
-      "onboard_time": 1685310973,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117963,
       "num": 117963,
       "word": "Ella你在乘风2023教了什么",
       "onboard_time": 1685281952,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109318,
+      "num": 109318,
+      "word": "不怕压力不生癌",
+      "onboard_time": 1685304672,
+      "rank": 27,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 103158,
@@ -435,12 +467,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 94344,
+      "num": 93418,
+      "word": "严浩翔穿校服",
+      "onboard_time": 1685315360,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93592,
       "num": 93592,
       "word": "王源吆不到台",
       "onboard_time": 1685292262,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 91585,
+      "num": 91585,
+      "word": "56岁保安写出40余万字长篇小说",
+      "onboard_time": 1685298615,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78265,
+      "num": 78265,
+      "word": "北京动物园为迎接丫丫做准备",
+      "onboard_time": 1685314698,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77915,
@@ -459,6 +515,14 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 66552,
+      "num": 66552,
+      "word": "张彬彬被粉丝虎狼之词整懵了",
+      "onboard_time": 1685313617,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62380,
       "num": 62380,
       "word": "老人轮椅失控辅警狂奔刹停",
@@ -467,27 +531,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60054,
-      "num": 60054,
-      "word": "不怕压力不生癌",
-      "onboard_time": 1685304672,
-      "rank": 27,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 56728,
       "num": 56728,
       "word": "C919机票",
       "onboard_time": 1685305572,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49028,
-      "num": 49028,
-      "word": "56岁保安写出40余万字长篇小说",
-      "onboard_time": 1685298615,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
