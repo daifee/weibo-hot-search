@@ -1,6 +1,6 @@
 {
   "startTime": 1685204470597,
-  "endTime": 1685286999871,
+  "endTime": 1685288019323,
   "band_list": [
     {
       "raw_hot": 2635395,
@@ -219,6 +219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1262943,
+      "num": 1262943,
+      "word": "微信文字讨好症",
+      "onboard_time": 1685284472,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1232435,
       "num": 1232435,
       "word": "孙颖莎对战陈梦",
@@ -241,14 +249,6 @@
       "onboard_time": 1685266527,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1110198,
-      "num": 1110198,
-      "word": "微信文字讨好症",
-      "onboard_time": 1685284472,
-      "rank": 5,
-      "category": "情感"
     },
     {
       "raw_hot": 1108639,
@@ -289,6 +289,14 @@
       "onboard_time": 1685282974,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 992960,
+      "num": 461175,
+      "word": "英政客在妓院醒来后称被中俄陷害",
+      "onboard_time": 1685285612,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 973595,
@@ -443,14 +451,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 700185,
-      "num": 461175,
-      "word": "英政客在妓院醒来后称被中俄陷害",
-      "onboard_time": 1685285612,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 695914,
       "num": 695914,
       "word": "怀特绝杀",
@@ -595,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 572742,
+      "num": 572742,
+      "word": "柯基",
+      "onboard_time": 1685284892,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 567849,
       "num": 567849,
       "word": "大满贯",
@@ -625,6 +633,14 @@
       "onboard_time": 1685278948,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 536189,
+      "num": 284331,
+      "word": "大姨妈正常周期到底是几天",
+      "onboard_time": 1685286213,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 533444,
@@ -736,14 +752,6 @@
       "word": "墨尔本地震",
       "onboard_time": 1685282913,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 473726,
-      "num": 473726,
-      "word": "柯基",
-      "onboard_time": 1685284892,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1211,14 +1219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 327629,
-      "num": 264040,
-      "word": "大姨妈正常周期到底是几天",
-      "onboard_time": 1685286213,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 325865,
       "num": 325865,
       "word": "罗伊斯痛失德甲首冠",
@@ -1475,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252130,
+      "num": 252130,
+      "word": "国乒12人参赛11人夺牌",
+      "onboard_time": 1685287770,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251597,
       "num": 251597,
       "word": "王鹤棣就棣逮捕",
@@ -1561,6 +1569,14 @@
       "onboard_time": 1685261727,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 235901,
+      "num": 235901,
+      "word": "网友新疆偶遇吴磊骑行",
+      "onboard_time": 1685287770,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 234734,
@@ -2219,6 +2235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159908,
+      "num": 152385,
+      "word": "黄明昊5月还穿秋裤",
+      "onboard_time": 1685287111,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157687,
       "num": 147538,
       "word": "于正一瘦皮就松",
@@ -2299,6 +2323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148021,
+      "num": 148021,
+      "word": "wtt",
+      "onboard_time": 1685287710,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147835,
       "num": 147835,
       "word": "周深斗罗新歌璀璨冒险人上线",
@@ -2368,6 +2400,14 @@
       "word": "怎样科学应对二阳风险",
       "onboard_time": 1685265629,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138612,
+      "num": 138612,
+      "word": "北京动物园回应丫丫是否展出",
+      "onboard_time": 1685288011,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
