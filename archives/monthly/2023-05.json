@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685380487596,
+  "endTime": 1685381612363,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -42995,6 +42995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206715,
+      "num": 206715,
+      "word": "生死遗言",
+      "onboard_time": 1685379561,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206708,
       "num": 192554,
       "word": "ZB1红毯",
@@ -53923,14 +53931,6 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 148967,
-      "num": 142536,
-      "word": "生死遗言",
-      "onboard_time": 1685379561,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148961,
       "num": 148961,
       "word": "登山者回应珠穆朗玛峰凌晨2点还在堵",
@@ -61817,6 +61817,14 @@
       "onboard_time": 1685340026,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 60070,
+      "num": 60070,
+      "word": "公诉角色关键词海报",
+      "onboard_time": 1685380998,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 59983,
