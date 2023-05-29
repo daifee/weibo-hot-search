@@ -1,6 +1,6 @@
 {
   "startTime": 1685377320709,
-  "endTime": 1685384409505,
+  "endTime": 1685385216349,
   "band_list": [
     {
       "raw_hot": 2404694,
@@ -419,6 +419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 70052,
+      "num": 59358,
+      "word": "官方回应怀孕4个月女子遭家暴",
+      "onboard_time": 1685383995,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67071,
       "num": 93243,
       "word": "FPX战胜TT",
@@ -459,12 +467,12 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 34898,
-      "num": 34898,
-      "word": "官方回应怀孕4个月女子遭家暴",
-      "onboard_time": 1685383995,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 30723,
+      "num": 30723,
+      "word": "你会主动帮助有困难的老人吗",
+      "onboard_time": 1685385194,
+      "rank": 45,
+      "category": "社会议题"
     }
   ],
   "hotgov_list": [
