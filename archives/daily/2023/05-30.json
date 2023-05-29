@@ -1,6 +1,6 @@
 {
   "startTime": 1685377320709,
-  "endTime": 1685395996403,
+  "endTime": 1685398534576,
   "band_list": [
     {
       "raw_hot": 2404694,
@@ -307,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152056,
+      "num": 59358,
+      "word": "官方回应怀孕4个月女子遭家暴",
+      "onboard_time": 1685383995,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149356,
       "num": 149356,
       "word": "第一次见高考保送书",
@@ -379,14 +387,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 110590,
-      "num": 59358,
-      "word": "官方回应怀孕4个月女子遭家暴",
-      "onboard_time": 1685383995,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104856,
       "num": 104856,
       "word": "成长就是越来越松弛的过程",
@@ -443,6 +443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 56444,
+      "num": 37236,
+      "word": "女子骨折做手术后左腿变长2.3厘米",
+      "onboard_time": 1685386513,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49860,
       "num": 1079247,
       "word": "中国人筑起攀向太空的天梯",
@@ -459,20 +467,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38782,
-      "num": 28151,
-      "word": "女子骨折做手术后左腿变长2.3厘米",
-      "onboard_time": 1685386513,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35551,
       "num": 35551,
       "word": "登月",
       "onboard_time": 1685382197,
       "rank": 42,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 30763,
+      "num": 30763,
+      "word": "公诉",
+      "onboard_time": 1685360607,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 30723,
@@ -483,20 +491,12 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 29930,
-      "num": 25766,
+      "raw_hot": 30621,
+      "num": 30621,
       "word": "普通家庭怎么带孩子见世面",
       "onboard_time": 1685393472,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24117,
-      "num": 24117,
-      "word": "公诉",
-      "onboard_time": 1685360607,
-      "rank": 49,
-      "category": "影视"
     }
   ],
   "hotgov_list": [
