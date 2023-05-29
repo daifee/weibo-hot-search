@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685369707936,
+  "endTime": 1685370839608,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -5715,6 +5715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1309616,
+      "num": 1309616,
+      "word": "男子吃火锅遇假茅台被服务员提醒",
+      "onboard_time": 1685358929,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1304241,
       "num": 1284113,
       "word": "赵丽颖的腰臀比",
@@ -8251,14 +8259,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1019012,
-      "num": 1019012,
-      "word": "男子吃火锅遇假茅台被服务员提醒",
-      "onboard_time": 1685358929,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1017232,
       "num": 1017232,
       "word": "广东13岁女孩疑被邻居性侵",
@@ -8457,6 +8457,14 @@
       "onboard_time": 1684556247,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 994451,
+      "num": 994451,
+      "word": "全世界都在等你们分手",
+      "onboard_time": 1685357609,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 994373,
@@ -10187,6 +10195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 833108,
+      "num": 833108,
+      "word": "吴磊哭着蹭赵今麦肩膀",
+      "onboard_time": 1685363067,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 832216,
       "num": 832216,
       "word": "瞿颖说李莎旻子做人太紧张了",
@@ -11083,14 +11099,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 763335,
-      "num": 763335,
-      "word": "吴磊哭着蹭赵今麦肩膀",
-      "onboard_time": 1685363067,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 762849,
       "num": 762849,
       "word": "五四青年节",
@@ -11603,14 +11611,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 726755,
-      "num": 325304,
-      "word": "全世界都在等你们分手",
-      "onboard_time": 1685357609,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 726678,
       "num": 726678,
       "word": "娜扎生图",
@@ -11849,6 +11849,14 @@
       "onboard_time": 1684596687,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 709846,
+      "num": 709846,
+      "word": "迪丽热巴 小心骗子听到没",
+      "onboard_time": 1685369132,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 709367,
@@ -17251,6 +17259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 494476,
+      "num": 316723,
+      "word": "杨幂被小猫抢镜头",
+      "onboard_time": 1685369373,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 494325,
       "num": 494325,
       "word": "前男友跳楼女子被判补偿2万",
@@ -17369,6 +17385,14 @@
       "onboard_time": 1684748489,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 491298,
+      "num": 491298,
+      "word": "椰树男模",
+      "onboard_time": 1685365528,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 491157,
@@ -17721,6 +17745,14 @@
       "onboard_time": 1684844430,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 482501,
+      "num": 482501,
+      "word": "导师上天了",
+      "onboard_time": 1685368713,
+      "rank": 21,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 482260,
@@ -19747,14 +19779,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 440366,
-      "num": 440366,
-      "word": "椰树男模",
-      "onboard_time": 1685365528,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 440143,
       "num": 440143,
       "word": "女子乘坐重庆网红电梯不慎摔倒滚落",
@@ -20313,6 +20337,14 @@
       "onboard_time": 1684123531,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 429200,
+      "num": 429200,
+      "word": "白敬亭他叔",
+      "onboard_time": 1685370152,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 429045,
@@ -27859,6 +27891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 324162,
+      "num": 249227,
+      "word": "顾本彬离世",
+      "onboard_time": 1685368050,
+      "rank": 30,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 324036,
       "num": 324036,
       "word": "急性会厌炎",
@@ -28233,6 +28273,14 @@
       "onboard_time": 1684136909,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 319262,
+      "num": 319262,
+      "word": "你管周也这张脸叫普普通通",
+      "onboard_time": 1685370272,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 319198,
@@ -29217,14 +29265,6 @@
       "onboard_time": 1683075328,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 307689,
-      "num": 307689,
-      "word": "导师上天了",
-      "onboard_time": 1685368713,
-      "rank": 21,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 307593,
@@ -30297,14 +30337,6 @@
       "onboard_time": 1682895798,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 295478,
-      "num": 295478,
-      "word": "杨幂被小猫抢镜头",
-      "onboard_time": 1685369373,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 295449,
@@ -31691,14 +31723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 284094,
-      "num": 228992,
-      "word": "顾本彬离世",
-      "onboard_time": 1685368050,
-      "rank": 30,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 284091,
       "num": 284091,
       "word": "最不推荐选的大学专业",
@@ -32273,14 +32297,6 @@
       "onboard_time": 1684842389,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 279464,
-      "num": 279464,
-      "word": "迪丽热巴 小心骗子听到没",
-      "onboard_time": 1685369132,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 279344,
@@ -33155,6 +33171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271145,
+      "num": 325435,
+      "word": "yammers",
+      "onboard_time": 1685356229,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 270946,
       "num": 270946,
       "word": "奶奶出院后把小猫咪高兴坏了",
@@ -33673,14 +33697,6 @@
       "onboard_time": 1684052009,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 266988,
-      "num": 325435,
-      "word": "yammers",
-      "onboard_time": 1685356229,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 266941,
@@ -35665,6 +35681,14 @@
       "onboard_time": 1682908287,
       "rank": 22,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 251781,
+      "num": 251781,
+      "word": "迪丽热巴公诉首播收视冠军",
+      "onboard_time": 1685369314,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 251741,
@@ -39859,6 +39883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 224965,
+      "num": 224965,
+      "word": "妈宝男婚后有多下头",
+      "onboard_time": 1685369674,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224884,
       "num": 224884,
       "word": "7个月宝宝患癌妈妈躲走廊自责落泪",
@@ -42011,6 +42043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212092,
+      "num": 212092,
+      "word": "上海一老人误将地铁扶手当售卖机",
+      "onboard_time": 1685370030,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212081,
       "num": 178040,
       "word": "霍尊否认结婚时间将近",
@@ -42585,14 +42625,6 @@
       "onboard_time": 1684062146,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 208238,
-      "num": 208238,
-      "word": "迪丽热巴公诉首播收视冠军",
-      "onboard_time": 1685369314,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 208224,
@@ -43555,6 +43587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203001,
+      "num": 203001,
+      "word": "文淇当导演了",
+      "onboard_time": 1685370634,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202989,
       "num": 202989,
       "word": "龚俊到达戛纳",
@@ -44025,14 +44065,6 @@
       "onboard_time": 1683039400,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 200721,
-      "num": 200721,
-      "word": "妈宝男婚后有多下头",
-      "onboard_time": 1685369674,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 200672,
@@ -44769,6 +44801,14 @@
       "onboard_time": 1684825109,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196412,
+      "num": 196412,
+      "word": "UP战胜AL",
+      "onboard_time": 1685369792,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 196408,
@@ -46124,7 +46164,7 @@
     },
     {
       "raw_hot": 189945,
-      "num": 1034096,
+      "num": 1043373,
       "word": "中国顶级实验室有多牛",
       "onboard_time": 1685364149,
       "rank": 2,
@@ -46801,6 +46841,14 @@
       "onboard_time": 1683177869,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 186830,
+      "num": 186830,
+      "word": "刘亦菲现身上海机场",
+      "onboard_time": 1685370453,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 186771,
@@ -49627,6 +49675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172642,
+      "num": 172642,
+      "word": "女警对轻生女孩说搞不定打电话给我",
+      "onboard_time": 1685367691,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172614,
       "num": 172614,
       "word": "线下脱口秀为什么不让录音录像",
@@ -51043,14 +51099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163752,
-      "num": 163752,
-      "word": "女警对轻生女孩说搞不定打电话给我",
-      "onboard_time": 1685367691,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163734,
       "num": 248098,
       "word": "法国救援人员拆墙救391公斤老太太",
@@ -51707,6 +51755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159880,
+      "num": 159880,
+      "word": "韩亚航空事件中空姐一直用身体挡住舱门",
+      "onboard_time": 1685370814,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159825,
       "num": 159825,
       "word": "花钱也吃不到的几百人盛大村宴",
@@ -52193,6 +52249,14 @@
       "onboard_time": 1683160469,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 157191,
+      "num": 157191,
+      "word": "四个显眼包",
+      "onboard_time": 1685370753,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 157149,
