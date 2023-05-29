@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685355502471,
+  "endTime": 1685356445208,
   "band_list": [
     {
       "raw_hot": 3128535,
@@ -67,7 +67,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1749430,
+      "raw_hot": 1836031,
       "num": 888942,
       "word": "gemini求婚",
       "onboard_time": 1685352806,
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 911171,
+      "num": 911171,
+      "word": "刘浩存五月天演唱会和宋威龙视频",
+      "onboard_time": 1685352029,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 894425,
       "num": 894425,
       "word": "他用生命最后76秒救了24名乘客",
@@ -273,14 +281,6 @@
       "onboard_time": 1685317524,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 882985,
-      "num": 882985,
-      "word": "刘浩存五月天演唱会和宋威龙视频",
-      "onboard_time": 1685352029,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 862330,
@@ -587,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 418147,
+      "num": 349994,
+      "word": "光与夜之恋 偷跑",
+      "onboard_time": 1685355629,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 417022,
       "num": 385502,
       "word": "iPhone16Pro机型为6.3和6.9英寸",
@@ -691,6 +699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 357144,
+      "num": 883286,
+      "word": "3位盲人演员误入高速交警开车送返",
+      "onboard_time": 1685353828,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356089,
       "num": 356089,
       "word": "北京动物园回应丫丫是否展出",
@@ -705,6 +721,14 @@
       "onboard_time": 1685323888,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 346972,
+      "num": 346972,
+      "word": "iPhone15",
+      "onboard_time": 1685353047,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 337870,
@@ -787,14 +811,6 @@
       "category": "音乐,幽默"
     },
     {
-      "raw_hot": 317600,
-      "num": 317600,
-      "word": "iPhone15",
-      "onboard_time": 1685353047,
-      "rank": 22,
-      "category": "科技"
-    },
-    {
       "raw_hot": 315482,
       "num": 315482,
       "word": "织金通报教师不幸溺亡事件",
@@ -817,6 +833,14 @@
       "onboard_time": 1685337868,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 297698,
+      "num": 351528,
+      "word": "华晨宇演唱会回应法师称号",
+      "onboard_time": 1685355148,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 294544,
@@ -1387,14 +1411,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 197473,
-      "num": 197473,
-      "word": "华晨宇演唱会回应法师称号",
-      "onboard_time": 1685355148,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 196755,
       "num": 196755,
       "word": "i人的真实写照",
@@ -1433,6 +1449,14 @@
       "onboard_time": 1685343807,
       "rank": 23,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 193882,
+      "num": 193882,
+      "word": "椰树男模直播穿的是老板同款",
+      "onboard_time": 1685355808,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 193881,
@@ -1563,12 +1587,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 179132,
-      "num": 883286,
-      "word": "3位盲人演员误入高速交警开车送返",
-      "onboard_time": 1685353828,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 178372,
+      "num": 178372,
+      "word": "金在中想坐火车游中国",
+      "onboard_time": 1685353168,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 172573,
@@ -1601,6 +1625,14 @@
       "onboard_time": 1685335772,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168890,
+      "num": 168890,
+      "word": "护心",
+      "onboard_time": 1685356047,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 167760,
@@ -1649,6 +1681,14 @@
       "onboard_time": 1685346447,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162888,
+      "num": 162888,
+      "word": "yammers",
+      "onboard_time": 1685356229,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 159476,
@@ -1739,14 +1779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 142525,
-      "num": 142525,
-      "word": "金在中想坐火车游中国",
-      "onboard_time": 1685353168,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 141910,
       "num": 141910,
       "word": "鹿晗蜘蛛侠主题曲MV",
@@ -1777,6 +1809,14 @@
       "onboard_time": 1685349929,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138229,
+      "num": 419057,
+      "word": "紫色可以多惊艳",
+      "onboard_time": 1685350049,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 137305,
@@ -1817,14 +1857,6 @@
       "onboard_time": 1685328268,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 133054,
-      "num": 419057,
-      "word": "紫色可以多惊艳",
-      "onboard_time": 1685350049,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 132111,
@@ -1939,6 +1971,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 121521,
+      "num": 121521,
+      "word": "UP对战AL",
+      "onboard_time": 1685355629,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120487,
       "num": 120487,
       "word": "黄奕道歉",
@@ -1977,6 +2017,14 @@
       "onboard_time": 1685315360,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104548,
+      "num": 534908,
+      "word": "91岁爷爷买5个助听器坚持弹钢琴",
+      "onboard_time": 1685354428,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103158,
@@ -2113,14 +2161,6 @@
       "onboard_time": 1685340026,
       "rank": 14,
       "category": "科技"
-    },
-    {
-      "raw_hot": 53799,
-      "num": 534908,
-      "word": "91岁爷爷买5个助听器坚持弹钢琴",
-      "onboard_time": 1685354428,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36613,
