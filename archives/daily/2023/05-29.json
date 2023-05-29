@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685328482867,
+  "endTime": 1685330293468,
   "band_list": [
     {
       "raw_hot": 3128535,
@@ -9,6 +9,14 @@
       "onboard_time": 1685315900,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2168026,
+      "num": 2168026,
+      "word": "央视评家有儿女疑似被恶意评分",
+      "onboard_time": 1685326947,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 1909808,
@@ -27,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1620584,
+      "num": 1620584,
+      "word": "张萌问我出轨的角色这么经典吗",
+      "onboard_time": 1685324187,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1579628,
       "num": 1579628,
       "word": "微信文字讨好症",
@@ -41,6 +57,14 @@
       "onboard_time": 1685283752,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1422281,
+      "num": 308619,
+      "word": "山东一男子砍杀柯基威胁妻子",
+      "onboard_time": 1685323528,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1368251,
@@ -67,14 +91,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1296081,
-      "num": 308619,
-      "word": "山东一男子砍杀柯基威胁妻子",
-      "onboard_time": 1685323528,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1293541,
       "num": 1293541,
       "word": "GAI 活死人",
@@ -89,14 +105,6 @@
       "onboard_time": 1685324127,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1085984,
-      "num": 1085984,
-      "word": "央视评家有儿女疑似被恶意评分",
-      "onboard_time": 1685326947,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 1075560,
@@ -139,14 +147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 930366,
-      "num": 930366,
-      "word": "张萌问我出轨的角色这么经典吗",
-      "onboard_time": 1685324187,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 894425,
       "num": 894425,
       "word": "他用生命最后76秒救了24名乘客",
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 701142,
+      "num": 292737,
+      "word": "吴磊新剧演的年上",
+      "onboard_time": 1685329228,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 700753,
       "num": 700753,
       "word": "宋丹丹暂时退出桃花坞",
@@ -203,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 630964,
+      "num": 600159,
+      "word": "费曼中了周杰伦的帽子",
+      "onboard_time": 1685328149,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 617816,
       "num": 617816,
       "word": "丫丫",
@@ -225,6 +241,22 @@
       "onboard_time": 1685288190,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 551211,
+      "num": 551211,
+      "word": "互联网真换了一批人啊",
+      "onboard_time": 1685326527,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 528207,
+      "num": 528207,
+      "word": "男孩进店买水恶意踢11个月婴儿一脚",
+      "onboard_time": 1685328569,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 526966,
@@ -275,12 +307,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 451953,
-      "num": 451953,
-      "word": "互联网真换了一批人啊",
-      "onboard_time": 1685326527,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 460997,
+      "num": 292464,
+      "word": "虹猫蓝兔重制版",
+      "onboard_time": 1685329228,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 448679,
@@ -379,6 +411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 294484,
+      "num": 294484,
+      "word": "萌兰",
+      "onboard_time": 1685327967,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293675,
       "num": 293675,
       "word": "河南阴雨 麦子发霉",
@@ -475,6 +515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 262033,
+      "num": 262033,
+      "word": "马琳",
+      "onboard_time": 1685328927,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 259565,
       "num": 259565,
       "word": "王浩信陈自瑶不是TVB最恩爱夫妻",
@@ -489,6 +537,14 @@
       "onboard_time": 1685322867,
       "rank": 26,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 255366,
+      "num": 255366,
+      "word": "在暴雪时分全阵容官宣",
+      "onboard_time": 1685328569,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 255097,
@@ -555,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240526,
+      "num": 240526,
+      "word": "容祖儿 抢票",
+      "onboard_time": 1685329407,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 237242,
       "num": 237242,
       "word": "桂海潮",
@@ -611,20 +675,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212126,
+      "num": 212126,
+      "word": "老年人再就业释放人口红利",
+      "onboard_time": 1685329107,
+      "rank": 31,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 211504,
       "num": 211504,
       "word": "Billkin青岛机场音乐节",
       "onboard_time": 1685289449,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 210876,
-      "num": 210876,
-      "word": "费曼中了周杰伦的帽子",
-      "onboard_time": 1685328149,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 209671,
@@ -715,12 +779,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 175015,
-      "num": 175015,
-      "word": "萌兰",
-      "onboard_time": 1685327967,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 181821,
+      "num": 181821,
+      "word": "十个勤天",
+      "onboard_time": 1685330010,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 172573,
@@ -739,6 +803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169231,
+      "num": 169231,
+      "word": "Note12TPro",
+      "onboard_time": 1685330010,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 167760,
       "num": 167760,
       "word": "白敬亭主打一个忙碌",
@@ -753,6 +825,22 @@
       "onboard_time": 1685318004,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 164252,
+      "num": 164252,
+      "word": "肖战说王楚钦孙颖莎表现完美",
+      "onboard_time": 1685329949,
+      "rank": 39,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 160552,
+      "num": 160552,
+      "word": "山姆回应同款蛋糕各地不同价",
+      "onboard_time": 1685329407,
+      "rank": 40,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 159476,
@@ -801,6 +889,14 @@
       "onboard_time": 1685286569,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141910,
+      "num": 141910,
+      "word": "鹿晗蜘蛛侠主题曲MV",
+      "onboard_time": 1685328748,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 134439,
@@ -887,6 +983,14 @@
       "num": 125655,
       "word": "载荷专家桂海潮是北航教授",
       "onboard_time": 1685327127,
+      "rank": 47,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 124657,
+      "num": 124657,
+      "word": "聚焦神舟十六号",
+      "onboard_time": 1685329348,
       "rank": 47,
       "category": "社会新闻,科技"
     },
@@ -1044,7 +1148,7 @@
     },
     {
       "raw_hot": 36613,
-      "num": 1380211,
+      "num": 1654975,
       "word": "沉浸式体验虚拟未来世界",
       "onboard_time": 1685279849,
       "rank": 2,
