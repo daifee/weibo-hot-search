@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685325238296,
+  "endTime": 1685327952144,
   "band_list": [
     {
       "raw_hot": 3128535,
@@ -9,6 +9,14 @@
       "onboard_time": 1685315900,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1881126,
+      "num": 1881126,
+      "word": "上厕所途中千万不要冲厕所",
+      "onboard_time": 1685323827,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 1680113,
@@ -51,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1296081,
+      "num": 308619,
+      "word": "山东一男子砍杀柯基威胁妻子",
+      "onboard_time": 1685323528,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1293541,
       "num": 1293541,
       "word": "GAI 活死人",
@@ -59,12 +75,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1195554,
-      "num": 278681,
-      "word": "山东一男子砍杀柯基威胁妻子",
+      "raw_hot": 1278747,
+      "num": 1278747,
+      "word": "BLACKPINK文案引争议",
       "onboard_time": 1685323528,
-      "rank": 24,
-      "category": "社会新闻"
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1138318,
+      "num": 1138318,
+      "word": "竟然有人不认识宋丹丹",
+      "onboard_time": 1685324127,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 1075560,
@@ -83,12 +107,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1026801,
-      "num": 528265,
-      "word": "上厕所途中千万不要冲厕所",
-      "onboard_time": 1685323827,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 1031925,
+      "num": 1031925,
+      "word": "迪丽热巴的假蛇玩具",
+      "onboard_time": 1685325928,
+      "rank": 6,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 970422,
@@ -107,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 930366,
+      "num": 930366,
+      "word": "张萌问我出轨的角色这么经典吗",
+      "onboard_time": 1685324187,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 894425,
       "num": 894425,
       "word": "他用生命最后76秒救了24名乘客",
@@ -120,14 +152,6 @@
       "word": "张丹峰说西宁是广西省会",
       "onboard_time": 1685317524,
       "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 880134,
-      "num": 880134,
-      "word": "BLACKPINK文案引争议",
-      "onboard_time": 1685323528,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -163,20 +187,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 661629,
-      "num": 263785,
-      "word": "张萌问我出轨的角色这么经典吗",
-      "onboard_time": 1685324187,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 661520,
       "num": 661520,
       "word": "国乒12人参赛11人夺牌",
       "onboard_time": 1685287770,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 619707,
+      "num": 619707,
+      "word": "央视评家有儿女疑似被恶意评分",
+      "onboard_time": 1685326947,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 617816,
@@ -195,20 +219,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 565139,
-      "num": 565139,
-      "word": "竟然有人不认识宋丹丹",
-      "onboard_time": 1685324127,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 556392,
       "num": 556392,
       "word": "胖莎",
       "onboard_time": 1685288190,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 526966,
+      "num": 526966,
+      "word": "一条微信状态让初中班主任找到我",
+      "onboard_time": 1685323888,
+      "rank": 39,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 520917,
@@ -259,20 +283,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429325,
+      "num": 429325,
+      "word": "互联网真换了一批人啊",
+      "onboard_time": 1685326527,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 419340,
       "num": 279416,
       "word": "丫丫笑成了表情包",
       "onboard_time": 1685320109,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 416830,
-      "num": 416830,
-      "word": "一条微信状态让初中班主任找到我",
-      "onboard_time": 1685323888,
-      "rank": 39,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 401536,
@@ -316,7 +340,7 @@
     },
     {
       "raw_hot": 350428,
-      "num": 291566,
+      "num": 313127,
       "word": "蔡徐坤发了个太阳",
       "onboard_time": 1685323888,
       "rank": 23,
@@ -355,6 +379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 290731,
+      "num": 290731,
+      "word": "姬颜baby",
+      "onboard_time": 1685316262,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288375,
       "num": 288375,
       "word": "丫丫需静养现不对外展出",
@@ -369,14 +401,6 @@
       "onboard_time": 1685290765,
       "rank": 49,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 281014,
-      "num": 281014,
-      "word": "姬颜baby",
-      "onboard_time": 1685316262,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278306,
@@ -443,12 +467,28 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 258637,
+      "num": 258637,
+      "word": "河南阴雨 麦子发霉",
+      "onboard_time": 1685326408,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255097,
       "num": 255097,
       "word": "皇马官方祝贺樊振东",
       "onboard_time": 1685318669,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 252334,
+      "num": 252334,
+      "word": "C919飞往成都",
+      "onboard_time": 1685325687,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250390,
@@ -481,6 +521,30 @@
       "onboard_time": 1685264428,
       "rank": 25,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 249153,
+      "num": 249153,
+      "word": "公诉开播",
+      "onboard_time": 1685327308,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 248546,
+      "num": 248546,
+      "word": "王浩信陈自瑶不是TVB最恩爱夫妻",
+      "onboard_time": 1685326827,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 247730,
+      "num": 247730,
+      "word": "朱杨柱",
+      "onboard_time": 1685327308,
+      "rank": 26,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 243136,
@@ -531,6 +595,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 215201,
+      "num": 215201,
+      "word": "计划在2030年前实现中国人首次登陆月球",
+      "onboard_time": 1685325627,
+      "rank": 28,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 213322,
       "num": 213322,
       "word": "13岁女孩玩手机4个月花40多万",
@@ -579,6 +651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195982,
+      "num": 195982,
+      "word": "中国航天飞行工程师和载荷专家首秀",
+      "onboard_time": 1685324911,
+      "rank": 35,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 195105,
       "num": 195105,
       "word": "樊振东vs王楚钦",
@@ -603,20 +683,20 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 191546,
+      "num": 191546,
+      "word": "如果以后丫丫展出你会去看吗",
+      "onboard_time": 1685327009,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190397,
       "num": 190397,
       "word": "美依礼芽安利值断层第一",
       "onboard_time": 1685319087,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186631,
-      "num": 186631,
-      "word": "中国航天飞行工程师和载荷专家首秀",
-      "onboard_time": 1685324911,
-      "rank": 35,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 172573,
@@ -683,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153770,
+      "num": 153770,
+      "word": "明星被恶意打分的作品",
+      "onboard_time": 1685327547,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 151030,
       "num": 151030,
       "word": "五月天演唱会",
@@ -731,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128526,
+      "num": 148979,
+      "word": "王楚钦说下一次会更好的回来",
+      "onboard_time": 1685324248,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128464,
       "num": 128464,
       "word": "黄晓明以为303是二次元",
@@ -761,6 +857,14 @@
       "onboard_time": 1685284533,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125655,
+      "num": 125655,
+      "word": "载荷专家桂海潮是北航教授",
+      "onboard_time": 1685327127,
+      "rank": 47,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 122715,
@@ -801,14 +905,6 @@
       "onboard_time": 1685281952,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109590,
-      "num": 148979,
-      "word": "王楚钦说下一次会更好的回来",
-      "onboard_time": 1685324248,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 104715,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1685327952144,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1881126,
+        "num": 1881126,
+        "word": "上厕所途中千万不要冲厕所",
+        "onboard_time": 1685323827,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1425679,
+        "num": 1425679,
+        "word": "丫丫一到家就被竹子包围了",
+        "onboard_time": 1685315900,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13273,
+        "num": 1364444,
+        "word": "沉浸式体验虚拟未来世界",
+        "onboard_time": 1685279849,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1315194,
+        "num": 1315194,
+        "word": "山姆超市同款蛋糕杭州卖165上海卖95",
+        "onboard_time": 1685320948,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1278747,
+        "num": 1278747,
+        "word": "BLACKPINK文案引争议",
+        "onboard_time": 1685323528,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1138318,
+        "num": 1138318,
+        "word": "竟然有人不认识宋丹丹",
+        "onboard_time": 1685324127,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1031925,
+        "num": 1031925,
+        "word": "迪丽热巴的假蛇玩具",
+        "onboard_time": 1685325928,
+        "rank": 6,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 1019408,
+        "num": 1019408,
+        "word": "GAI 活死人",
+        "onboard_time": 1685318546,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 930366,
+        "num": 930366,
+        "word": "张萌问我出轨的角色这么经典吗",
+        "onboard_time": 1685324187,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 831164,
+        "num": 831164,
+        "word": "他用生命最后76秒救了24名乘客",
+        "onboard_time": 1685322328,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769825,
+        "num": 769825,
+        "word": "王源 赵英俊",
+        "onboard_time": 1685314879,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 619707,
+        "num": 619707,
+        "word": "央视评家有儿女疑似被恶意评分",
+        "onboard_time": 1685326947,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 526966,
+        "num": 526966,
+        "word": "一条微信状态让初中班主任找到我",
+        "onboard_time": 1685323888,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 432991,
+        "num": 432991,
+        "word": "大姨妈正常周期到底是几天",
+        "onboard_time": 1685286213,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 432827,
+        "num": 432827,
+        "word": "老公每月给你两万但不回家",
+        "onboard_time": 1685283752,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 429325,
+        "num": 429325,
+        "word": "互联网真换了一批人啊",
+        "onboard_time": 1685326527,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379686,
+        "num": 379686,
+        "word": "微信文字讨好症",
+        "onboard_time": 1685284472,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 357908,
+        "num": 357908,
+        "word": "丫丫在竹子海洋里轻松微笑干饭",
+        "onboard_time": 1685322988,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335677,
+        "num": 335677,
+        "word": "对着女歌手唱这种词合适吗",
+        "onboard_time": 1685319271,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313127,
+        "num": 313127,
+        "word": "蔡徐坤发了个太阳",
+        "onboard_time": 1685323888,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1296081,
+        "num": 308619,
+        "word": "山东一男子砍杀柯基威胁妻子",
+        "onboard_time": 1685323528,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290731,
+        "num": 290731,
+        "word": "姬颜baby",
+        "onboard_time": 1685316262,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258637,
+        "num": 258637,
+        "word": "河南阴雨 麦子发霉",
+        "onboard_time": 1685326408,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252334,
+        "num": 252334,
+        "word": "C919飞往成都",
+        "onboard_time": 1685325687,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249153,
+        "num": 249153,
+        "word": "公诉开播",
+        "onboard_time": 1685327308,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248546,
+        "num": 248546,
+        "word": "王浩信陈自瑶不是TVB最恩爱夫妻",
+        "onboard_time": 1685326827,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247730,
+        "num": 247730,
+        "word": "朱杨柱",
+        "onboard_time": 1685327308,
+        "rank": 26,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 224044,
+        "num": 224044,
+        "word": "东宫虐还是周生如故虐",
+        "onboard_time": 1685323346,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215201,
+        "num": 215201,
+        "word": "计划在2030年前实现中国人首次登陆月球",
+        "onboard_time": 1685325627,
+        "rank": 28,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 203635,
+        "num": 203635,
+        "word": "网友新疆偶遇吴磊骑行",
+        "onboard_time": 1685287770,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1025131,
+        "num": 202309,
+        "word": "柯基被活活砍死",
+        "onboard_time": 1685316141,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723103,
+        "num": 201919,
+        "word": "张丹峰说西宁是广西省会",
+        "onboard_time": 1685317524,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199307,
+        "num": 199307,
+        "word": "王一博作品疑似被恶意打分",
+        "onboard_time": 1685317284,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195982,
+        "num": 195982,
+        "word": "中国航天飞行工程师和载荷专家首秀",
+        "onboard_time": 1685324911,
+        "rank": 33,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 191546,
+        "num": 191546,
+        "word": "如果以后丫丫展出你会去看吗",
+        "onboard_time": 1685327009,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187758,
+        "num": 187758,
+        "word": "丫丫笑成了表情包",
+        "onboard_time": 1685320109,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179242,
+        "num": 179242,
+        "word": "有人相爱有人下海",
+        "onboard_time": 1685321848,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170244,
+        "num": 170244,
+        "word": "皮皮",
+        "onboard_time": 1685317886,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162857,
+        "num": 162857,
+        "word": "丫丫需静养现不对外展出",
+        "onboard_time": 1685317405,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158410,
+        "num": 158410,
+        "word": "丫丫肉眼可见地胖了",
+        "onboard_time": 1685316804,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156368,
+        "num": 156368,
+        "word": "闪婚几天闹离婚男方索要6万彩礼",
+        "onboard_time": 1685316683,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155727,
+        "num": 155727,
+        "word": "鬼灭之刃",
+        "onboard_time": 1685321250,
+        "rank": 41,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 153770,
+        "num": 153770,
+        "word": "明星被恶意打分的作品",
+        "onboard_time": 1685327547,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149848,
+        "num": 149848,
+        "word": "终于捡到自愿的猫猫了",
+        "onboard_time": 1685319747,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 133372,
+        "num": 133372,
+        "word": "五月天欠下九十万斤水饺的债",
+        "onboard_time": 1685279789,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128526,
+        "num": 128526,
+        "word": "王楚钦说下一次会更好的回来",
+        "onboard_time": 1685324248,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128294,
+        "num": 128294,
+        "word": "丫丫回京现场画面",
+        "onboard_time": 1685315360,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125655,
+        "num": 125655,
+        "word": "载荷专家桂海潮是北航教授",
+        "onboard_time": 1685327127,
+        "rank": 47,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 124616,
+        "num": 124616,
+        "word": "王源妈妈看演唱会被拦在门外",
+        "onboard_time": 1685282974,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94435,
+        "num": 124449,
+        "word": "皇马官方祝贺樊振东",
+        "onboard_time": 1685318669,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国高铁如何创造世界之最#"
+    }
+  }
+}
