@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685363579402,
+  "endTime": 1685364552289,
   "band_list": [
     {
       "raw_hot": 3128535,
@@ -97,6 +97,14 @@
       "onboard_time": 1685320948,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1616294,
+      "num": 635542,
+      "word": "金子涵到底发生了什么",
+      "onboard_time": 1685362766,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1579628,
@@ -315,19 +323,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 828101,
+      "num": 828101,
+      "word": "男子吃火锅遇假茅台被服务员提醒",
+      "onboard_time": 1685358929,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 819265,
       "num": 552009,
       "word": "四川大学",
       "onboard_time": 1685274628,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 809976,
-      "num": 809976,
-      "word": "男子吃火锅遇假茅台被服务员提醒",
-      "onboard_time": 1685358929,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -467,14 +475,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 590059,
-      "num": 369465,
-      "word": "金子涵到底发生了什么",
-      "onboard_time": 1685362766,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 581891,
       "num": 581891,
       "word": "对着女歌手唱这种词合适吗",
@@ -531,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 544738,
+      "num": 544738,
+      "word": "腾讯视频排播",
+      "onboard_time": 1685362948,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 526966,
       "num": 526966,
       "word": "一条微信状态让初中班主任找到我",
@@ -571,8 +579,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 503231,
-      "num": 503231,
+      "raw_hot": 509432,
+      "num": 509432,
       "word": "公诉",
       "onboard_time": 1685288131,
       "rank": 34,
@@ -651,6 +659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 427099,
+      "num": 205240,
+      "word": "第一次见高考保送书",
+      "onboard_time": 1685362528,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 421785,
       "num": 421785,
       "word": "丫丫和萌兰在国画里先见面啦",
@@ -699,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 407473,
+      "num": 206957,
+      "word": "再厉害的总裁也得给姥姥送桌子",
+      "onboard_time": 1685361207,
+      "rank": 30,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 402062,
       "num": 402062,
       "word": "张翰新剧演庄周",
@@ -715,14 +739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 401242,
-      "num": 206957,
-      "word": "再厉害的总裁也得给姥姥送桌子",
-      "onboard_time": 1685361207,
-      "rank": 30,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 401172,
       "num": 295473,
       "word": "领导凌晨一点给我发微信",
@@ -731,20 +747,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 393628,
-      "num": 369461,
-      "word": "腾讯视频排播",
-      "onboard_time": 1685362948,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 393451,
       "num": 242429,
       "word": "时代少年团也会羡慕五月天的中控吧",
       "onboard_time": 1685350708,
       "rank": 21,
       "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 386858,
+      "num": 386858,
+      "word": "柯基被砍当事人称将起诉离婚",
+      "onboard_time": 1685362287,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384403,
+      "num": 201661,
+      "word": "吴磊哭着蹭赵今麦肩膀",
+      "onboard_time": 1685363067,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 382103,
@@ -955,14 +979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 297153,
-      "num": 205240,
-      "word": "第一次见高考保送书",
-      "onboard_time": 1685362528,
-      "rank": 31,
-      "category": "教育"
-    },
-    {
       "raw_hot": 294544,
       "num": 294544,
       "word": "马嘉祺刘耀文看五月天演唱会",
@@ -1009,6 +1025,14 @@
       "onboard_time": 1685290765,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 280574,
+      "num": 232412,
+      "word": "千万不要等年纪大了再去旅游",
+      "onboard_time": 1685360966,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 279343,
@@ -1107,14 +1131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 263256,
-      "num": 232412,
-      "word": "千万不要等年纪大了再去旅游",
-      "onboard_time": 1685360966,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 262104,
       "num": 262104,
       "word": "Ella采访谈SHE哭了",
@@ -1153,14 +1169,6 @@
       "onboard_time": 1685322867,
       "rank": 26,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 258200,
-      "num": 258200,
-      "word": "柯基被砍当事人称将起诉离婚",
-      "onboard_time": 1685362287,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 255539,
@@ -1427,14 +1435,6 @@
       "category": "音乐,幽默"
     },
     {
-      "raw_hot": 215508,
-      "num": 201661,
-      "word": "吴磊哭着蹭赵今麦肩膀",
-      "onboard_time": 1685363067,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 215231,
       "num": 215231,
       "word": "被徐姥爷的微博评论区感动了",
@@ -1552,6 +1552,14 @@
       "word": "有人相爱有人下海",
       "onboard_time": 1685321848,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 199916,
+      "num": 184459,
+      "word": "电视剧公诉观后感",
+      "onboard_time": 1685363970,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -1723,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183894,
+      "num": 183894,
+      "word": "一到二十岁 血脉就开始觉醒",
+      "onboard_time": 1685363308,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 183592,
       "num": 183592,
       "word": "宁安如梦",
@@ -1803,12 +1819,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167779,
+      "num": 167779,
+      "word": "美国歌迷为见华晨宇学中文",
+      "onboard_time": 1685361207,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167760,
       "num": 167760,
       "word": "白敬亭主打一个忙碌",
       "onboard_time": 1685320350,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167502,
+      "num": 167502,
+      "word": "天蝎座在感情中太矛盾了",
+      "onboard_time": 1685363366,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 167467,
@@ -1995,14 +2027,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 138683,
-      "num": 138683,
-      "word": "美国歌迷为见华晨宇学中文",
-      "onboard_time": 1685361207,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 137305,
       "num": 137305,
       "word": "黄晓明以为303是二次元",
@@ -2065,6 +2089,14 @@
       "onboard_time": 1685353828,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 131684,
+      "num": 131684,
+      "word": "2015年的今天",
+      "onboard_time": 1685360786,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131046,
@@ -2227,14 +2259,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 105646,
-      "num": 105646,
-      "word": "一到二十岁 血脉就开始觉醒",
-      "onboard_time": 1685363308,
-      "rank": 46,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 104715,
       "num": 104715,
       "word": "严浩翔穿校服",
@@ -2251,12 +2275,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101804,
-      "num": 104725,
-      "word": "2015年的今天",
-      "onboard_time": 1685360786,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 103129,
+      "num": 103129,
+      "word": "对不住了海南岛",
+      "onboard_time": 1685364269,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 99397,
@@ -2283,20 +2307,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 95801,
-      "num": 104665,
-      "word": "天蝎座在感情中太矛盾了",
-      "onboard_time": 1685363366,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 93592,
       "num": 93592,
       "word": "王源吆不到台",
       "onboard_time": 1685292262,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 85688,
+      "num": 349474,
+      "word": "比亚迪专利免费共享",
+      "onboard_time": 1685361627,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 84195,
@@ -2387,20 +2411,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 61282,
-      "num": 349474,
-      "word": "比亚迪专利免费共享",
-      "onboard_time": 1685361627,
-      "rank": 14,
-      "category": "财经"
-    },
-    {
       "raw_hot": 60570,
       "num": 452173,
       "word": "华为MateX3体验有多绝",
       "onboard_time": 1685340026,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 51929,
+      "num": 646848,
+      "word": "中国顶级实验室有多牛",
+      "onboard_time": 1685364149,
+      "rank": 2,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 36613,
