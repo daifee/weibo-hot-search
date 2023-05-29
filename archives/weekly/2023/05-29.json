@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685378210940,
+  "endTime": 1685380487596,
   "band_list": [
     {
       "raw_hot": 3796538,
@@ -1171,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314189,
+      "num": 314189,
+      "word": "河南79岁老农手捧发芽小麦抹泪",
+      "onboard_time": 1685375788,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312286,
       "num": 312286,
       "word": "蒋敦豪包场团建",
@@ -1193,14 +1201,6 @@
       "onboard_time": 1685371774,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 304198,
-      "num": 304198,
-      "word": "河南79岁老农手捧发芽小麦抹泪",
-      "onboard_time": 1685375788,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 303644,
@@ -1859,6 +1859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202728,
+      "num": 202728,
+      "word": "活的累的根本原因",
+      "onboard_time": 1685377585,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 201730,
       "num": 201730,
       "word": "有人相爱有人下海",
@@ -2107,6 +2115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183084,
+      "num": 183084,
+      "word": "刘亦菲仿妆小烟熏画法",
+      "onboard_time": 1685377464,
+      "rank": 44,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 179914,
       "num": 179914,
       "word": "公诉首更2集",
@@ -2329,6 +2345,14 @@
       "onboard_time": 1685349267,
       "rank": 44,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 148967,
+      "num": 142536,
+      "word": "生死遗言",
+      "onboard_time": 1685379561,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 148901,
@@ -2683,6 +2707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104135,
+      "num": 104135,
+      "word": "原来猫猫爱掉毛是一种保护",
+      "onboard_time": 1685378483,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103158,
       "num": 103158,
       "word": "孙颖莎世乒赛女单夺冠",
@@ -2721,22 +2753,6 @@
       "onboard_time": 1685292262,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 93190,
-      "num": 93190,
-      "word": "刘亦菲仿妆小烟熏画法",
-      "onboard_time": 1685377464,
-      "rank": 44,
-      "category": "美妆,艺人"
-    },
-    {
-      "raw_hot": 92385,
-      "num": 92385,
-      "word": "活的累的根本原因",
-      "onboard_time": 1685377585,
-      "rank": 45,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 89729,

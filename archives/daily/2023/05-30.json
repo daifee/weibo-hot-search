@@ -1,6 +1,6 @@
 {
   "startTime": 1685377320709,
-  "endTime": 1685378210940,
+  "endTime": 1685380487596,
   "band_list": [
     {
       "raw_hot": 2404694,
@@ -115,20 +115,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 314189,
+      "num": 314189,
+      "word": "河南79岁老农手捧发芽小麦抹泪",
+      "onboard_time": 1685375788,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 306493,
       "num": 271247,
       "word": "易烊千玺怀化",
       "onboard_time": 1685367812,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 304198,
-      "num": 304198,
-      "word": "河南79岁老农手捧发芽小麦抹泪",
-      "onboard_time": 1685375788,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 290248,
@@ -235,12 +235,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202728,
+      "num": 202728,
+      "word": "活的累的根本原因",
+      "onboard_time": 1685377585,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 201101,
       "num": 201101,
       "word": "再厉害的总裁也得给姥姥送桌子",
       "onboard_time": 1685361207,
       "rank": 28,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 183084,
+      "num": 183084,
+      "word": "刘亦菲仿妆小烟熏画法",
+      "onboard_time": 1685377464,
+      "rank": 44,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 179336,
@@ -289,6 +305,14 @@
       "onboard_time": 1685362528,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 148967,
+      "num": 142536,
+      "word": "生死遗言",
+      "onboard_time": 1685379561,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 142274,
@@ -363,6 +387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104135,
+      "num": 104135,
+      "word": "原来猫猫爱掉毛是一种保护",
+      "onboard_time": 1685378483,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94905,
       "num": 94905,
       "word": "杨和苏 我要单挑活死人全员",
@@ -377,22 +409,6 @@
       "onboard_time": 1685369674,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 93190,
-      "num": 93190,
-      "word": "刘亦菲仿妆小烟熏画法",
-      "onboard_time": 1685377464,
-      "rank": 44,
-      "category": "美妆,艺人"
-    },
-    {
-      "raw_hot": 92385,
-      "num": 92385,
-      "word": "活的累的根本原因",
-      "onboard_time": 1685377585,
-      "rank": 45,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 76090,
