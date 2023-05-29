@@ -1,0 +1,410 @@
+{
+  "runTime": 1685352820936,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2017555,
+        "num": 2017555,
+        "word": "高考307分女孩考研逆袭211",
+        "onboard_time": 1685347166,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1225321,
+        "num": 1225321,
+        "word": "田曦薇别再瘦了",
+        "onboard_time": 1685344045,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60229,
+        "num": 734366,
+        "word": "神舟十六号航天员见面会",
+        "onboard_time": 1685346328,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1907567,
+        "num": 723976,
+        "word": "柯基被砍当事人再发声",
+        "onboard_time": 1685342365,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1277875,
+        "num": 721569,
+        "word": "女子称怀孕4个月被老公多次家暴",
+        "onboard_time": 1685349148,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710589,
+        "num": 710589,
+        "word": "你不认识SHE我不认识101",
+        "onboard_time": 1685339425,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 642365,
+        "num": 642365,
+        "word": "付辛博带路人儿子上厕所",
+        "onboard_time": 1685346268,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 578543,
+        "num": 578543,
+        "word": "BLACKPINK官博编辑文案",
+        "onboard_time": 1685349809,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474328,
+        "num": 474328,
+        "word": "张嘉倪徐怀钰赵丽娜各跳各的",
+        "onboard_time": 1685345431,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419547,
+        "num": 419547,
+        "word": "gemini求婚",
+        "onboard_time": 1685352806,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125279,
+        "num": 419057,
+        "word": "紫色可以多惊艳",
+        "onboard_time": 1685350049,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1051312,
+        "num": 402413,
+        "word": "继母虐待打死6岁男童获死刑",
+        "onboard_time": 1685343506,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622406,
+        "num": 376281,
+        "word": "吉林高三女生失联6个月后遗体被发现",
+        "onboard_time": 1685344406,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340948,
+        "num": 362341,
+        "word": "俄对乌开出停火要求",
+        "onboard_time": 1685333491,
+        "rank": 13,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 354616,
+        "num": 354616,
+        "word": "22年前被任贤齐救过的女孩来看演唱会了",
+        "onboard_time": 1685352089,
+        "rank": 14,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 314116,
+        "num": 314116,
+        "word": "不是每个人都适合结婚",
+        "onboard_time": 1685344527,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312286,
+        "num": 312286,
+        "word": "蒋敦豪包场团建",
+        "onboard_time": 1685347828,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286425,
+        "num": 286425,
+        "word": "刘浩存五月天演唱会和宋威龙视频",
+        "onboard_time": 1685352029,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 275758,
+        "num": 275758,
+        "word": "上厕所途中千万不要冲厕所",
+        "onboard_time": 1685323827,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 270542,
+        "num": 270542,
+        "word": "这么好的夏天 要是有钱就好了",
+        "onboard_time": 1685345728,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 450152,
+        "num": 268532,
+        "word": "穿了吊带老师不让我进教室",
+        "onboard_time": 1685347709,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 420448,
+        "num": 267137,
+        "word": "老人衣衫不整把手伸向女童",
+        "onboard_time": 1685350647,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264424,
+        "num": 264424,
+        "word": "虞书欣的上衣是草编的",
+        "onboard_time": 1685334571,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263669,
+        "num": 263669,
+        "word": "iPhone16Pro机型为6.3和6.9英寸",
+        "onboard_time": 1685345728,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 260518,
+        "num": 260518,
+        "word": "孟子义我们不是死绿茶",
+        "onboard_time": 1685351068,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248892,
+        "num": 248892,
+        "word": "领导凌晨一点给我发微信",
+        "onboard_time": 1685346567,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244513,
+        "num": 244513,
+        "word": "花戎",
+        "onboard_time": 1685351308,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242584,
+        "num": 242584,
+        "word": "世界破破烂烂 小狗缝缝补补",
+        "onboard_time": 1685336311,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 230149,
+        "num": 230149,
+        "word": "LPL夏季赛",
+        "onboard_time": 1685351187,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225732,
+        "num": 225732,
+        "word": "大家都是怎么撑过周一的",
+        "onboard_time": 1685352387,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197761,
+        "num": 197761,
+        "word": "叶修26岁了",
+        "onboard_time": 1685342484,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194026,
+        "num": 194026,
+        "word": "演唱会求婚",
+        "onboard_time": 1685352387,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188211,
+        "num": 188211,
+        "word": "汪小敏表情管理",
+        "onboard_time": 1685351968,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148728,
+        "num": 174307,
+        "word": "伤害家庭宠物算不算家暴",
+        "onboard_time": 1685349387,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149906,
+        "num": 171030,
+        "word": "丫丫一到家就被竹子包围了",
+        "onboard_time": 1685315900,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170397,
+        "num": 170397,
+        "word": "贡菜毛肚螺蛳粉",
+        "onboard_time": 1685349509,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 169941,
+        "num": 169941,
+        "word": "央视评家有儿女疑似被恶意评分",
+        "onboard_time": 1685326947,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165955,
+        "num": 165955,
+        "word": "时代少年团也会羡慕五月天的中控吧",
+        "onboard_time": 1685350708,
+        "rank": 37,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 165760,
+        "num": 165760,
+        "word": "00后的下饭剧",
+        "onboard_time": 1685342667,
+        "rank": 38,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 155293,
+        "num": 155293,
+        "word": "易烊千玺为五月天演唱会送花篮",
+        "onboard_time": 1685340866,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160467,
+        "num": 151550,
+        "word": "互联网真换了一批人啊",
+        "onboard_time": 1685326527,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141862,
+        "num": 141862,
+        "word": "迪丽热巴龚俊或将同台",
+        "onboard_time": 1685334753,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138712,
+        "num": 138712,
+        "word": "实习生说他熟练掌握excel",
+        "onboard_time": 1685337868,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131064,
+        "num": 131064,
+        "word": "网友问金智秀为什么会跳Flower",
+        "onboard_time": 1685343926,
+        "rank": 43,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 129453,
+        "num": 129453,
+        "word": "丫丫回家北动熊猫全家福更新",
+        "onboard_time": 1685337687,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129406,
+        "num": 129406,
+        "word": "王源十年前旧照",
+        "onboard_time": 1685347587,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121940,
+        "num": 121940,
+        "word": "i人的真实写照",
+        "onboard_time": 1685350708,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115256,
+        "num": 115256,
+        "word": "电影远航 山东鲁荣渔2682号惨案",
+        "onboard_time": 1685345306,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114614,
+        "num": 114614,
+        "word": "陕西事业单位",
+        "onboard_time": 1685344948,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 105586,
+        "num": 105586,
+        "word": "奔赴初夏",
+        "onboard_time": 1685351789,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#2030年前实现中国人登陆月球#"
+    }
+  }
+}
