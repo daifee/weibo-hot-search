@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685348475410,
+  "endTime": 1685349229436,
   "band_list": [
     {
       "raw_hot": 3128535,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2107639,
-      "num": 1260878,
+      "num": 1391438,
       "word": "柯基被砍当事人再发声",
       "onboard_time": 1685342365,
       "rank": 9,
@@ -59,8 +59,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1686633,
-      "num": 1686633,
+      "raw_hot": 1688535,
+      "num": 1688535,
       "word": "你不认识SHE我不认识101",
       "onboard_time": 1685339425,
       "rank": 4,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1455202,
+      "num": 1455202,
+      "word": "继母虐待打死6岁男童获死刑",
+      "onboard_time": 1685343506,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1445130,
       "num": 1445130,
       "word": "老公每月给你两万但不回家",
@@ -107,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1371936,
+      "num": 1371936,
+      "word": "高考307分女孩考研逆袭211",
+      "onboard_time": 1685347166,
+      "rank": 9,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1368251,
       "num": 965497,
       "word": "大姨妈正常周期到底是几天",
@@ -120,14 +136,6 @@
       "word": "柯基被活活砍死",
       "onboard_time": 1685316141,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1351077,
-      "num": 1351077,
-      "word": "继母虐待打死6岁男童获死刑",
-      "onboard_time": 1685343506,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -211,6 +219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 974306,
+      "num": 974306,
+      "word": "田曦薇别再瘦了",
+      "onboard_time": 1685344045,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 970422,
       "num": 589983,
       "word": "柯基",
@@ -225,14 +241,6 @@
       "onboard_time": 1685276908,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 949360,
-      "num": 949360,
-      "word": "田曦薇别再瘦了",
-      "onboard_time": 1685344045,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 894425,
@@ -315,12 +323,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 631025,
-      "num": 631025,
-      "word": "高考307分女孩考研逆袭211",
-      "onboard_time": 1685347166,
-      "rank": 9,
-      "category": "教育,社会新闻"
+      "raw_hot": 647759,
+      "num": 647759,
+      "word": "付辛博带路人儿子上厕所",
+      "onboard_time": 1685346268,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 628445,
@@ -361,14 +369,6 @@
       "onboard_time": 1685330010,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 562191,
-      "num": 562191,
-      "word": "付辛博带路人儿子上厕所",
-      "onboard_time": 1685346268,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 556392,
@@ -433,6 +433,14 @@
       "onboard_time": 1685315360,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 483867,
+      "num": 295979,
+      "word": "穿了吊带老师不让我进教室",
+      "onboard_time": 1685347709,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 477679,
@@ -507,7 +515,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 414054,
+      "raw_hot": 417022,
       "num": 298128,
       "word": "iPhone16Pro机型为6.3和6.9英寸",
       "onboard_time": 1685345728,
@@ -540,7 +548,7 @@
     },
     {
       "raw_hot": 401172,
-      "num": 294712,
+      "num": 295473,
       "word": "领导凌晨一点给我发微信",
       "onboard_time": 1685346567,
       "rank": 21,
@@ -579,12 +587,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364804,
+      "num": 364804,
+      "word": "这么好的夏天 要是有钱就好了",
+      "onboard_time": 1685345728,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 362774,
       "num": 362774,
       "word": "赵今麦吴磊好配",
       "onboard_time": 1685333248,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 360197,
+      "num": 360197,
+      "word": "不是每个人都适合结婚",
+      "onboard_time": 1685344527,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 356089,
@@ -601,14 +625,6 @@
       "onboard_time": 1685323888,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 341249,
-      "num": 341249,
-      "word": "这么好的夏天 要是有钱就好了",
-      "onboard_time": 1685345728,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 337870,
@@ -691,19 +707,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 312134,
-      "num": 312134,
-      "word": "不是每个人都适合结婚",
-      "onboard_time": 1685344527,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 308645,
       "num": 308645,
       "word": "曾毅宝石老舅说唱好绝",
       "onboard_time": 1685337868,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 298362,
+      "num": 298362,
+      "word": "蒋敦豪包场团建",
+      "onboard_time": 1685347828,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -769,14 +785,6 @@
       "onboard_time": 1685332891,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 278913,
-      "num": 278913,
-      "word": "穿了吊带老师不让我进教室",
-      "onboard_time": 1685347709,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 278306,
@@ -995,6 +1003,14 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 240331,
+      "num": 240331,
+      "word": "荣耀发布会",
+      "onboard_time": 1685349208,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 237242,
       "num": 237242,
       "word": "桂海潮",
@@ -1041,6 +1057,14 @@
       "onboard_time": 1685336730,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 222620,
+      "num": 222620,
+      "word": "陕西事业单位",
+      "onboard_time": 1685344948,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 220577,
@@ -1099,6 +1123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 209680,
+      "num": 209680,
+      "word": "上海高温",
+      "onboard_time": 1685344166,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209671,
       "num": 209671,
       "word": "戴佩妮口误",
@@ -1139,14 +1171,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 205192,
-      "num": 205192,
-      "word": "上海高温",
-      "onboard_time": 1685344166,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204811,
       "num": 204811,
       "word": "wtt",
@@ -1163,28 +1187,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 203641,
-      "num": 200934,
-      "word": "蒋敦豪包场团建",
-      "onboard_time": 1685347828,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 201730,
       "num": 201730,
       "word": "有人相爱有人下海",
       "onboard_time": 1685321848,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 200093,
-      "num": 200093,
-      "word": "陕西事业单位",
-      "onboard_time": 1685344948,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 198616,
@@ -1347,8 +1355,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 177732,
-      "num": 177732,
+      "raw_hot": 179830,
+      "num": 179830,
       "word": "王源十年前旧照",
       "onboard_time": 1685347587,
       "rank": 36,
@@ -1468,7 +1476,7 @@
     },
     {
       "raw_hot": 151758,
-      "num": 201192,
+      "num": 289153,
       "word": "赵明称行业必然跟进零风险护眼屏",
       "onboard_time": 1685347767,
       "rank": 31,
@@ -1507,6 +1515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 141826,
+      "num": 141826,
+      "word": "电影远航 山东鲁荣渔2682号惨案",
+      "onboard_time": 1685345306,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 139110,
       "num": 139110,
       "word": "林俊杰十年前vs十年后",
@@ -1531,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134694,
+      "num": 330129,
+      "word": "荣耀90首发2亿像素写真相机",
+      "onboard_time": 1685347767,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 134439,
       "num": 134439,
       "word": "孙颖莎对战陈梦",
@@ -1545,14 +1569,6 @@
       "onboard_time": 1685328268,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 132682,
-      "num": 132682,
-      "word": "电影远航 山东鲁荣渔2682号惨案",
-      "onboard_time": 1685345306,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 131046,
@@ -1585,14 +1601,6 @@
       "onboard_time": 1685287111,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129974,
-      "num": 201687,
-      "word": "荣耀90首发2亿像素写真相机",
-      "onboard_time": 1685347767,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 128256,
@@ -1667,6 +1675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 121103,
+      "num": 121103,
+      "word": "女子称怀孕4个月被老公多次家暴",
+      "onboard_time": 1685349148,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120487,
       "num": 120487,
       "word": "黄奕道歉",
@@ -1681,6 +1697,14 @@
       "onboard_time": 1685281952,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111341,
+      "num": 111341,
+      "word": "女生读书工作的意义",
+      "onboard_time": 1685349208,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 104715,
@@ -1780,7 +1804,7 @@
     },
     {
       "raw_hot": 70124,
-      "num": 1119080,
+      "num": 1400039,
       "word": "神舟十六号航天员见面会",
       "onboard_time": 1685346328,
       "rank": 2,
@@ -1876,6 +1900,9 @@
     },
     {
       "word": "#中关村论坛是全球科技创新的会客厅#"
+    },
+    {
+      "word": "#国产大飞机9久为功鹏程万里#"
     }
   ]
 }
