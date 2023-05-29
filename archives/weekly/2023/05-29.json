@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685341358759,
+  "endTime": 1685342130438,
   "band_list": [
     {
       "raw_hot": 3128535,
@@ -27,8 +27,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2086754,
-      "num": 2086754,
+      "raw_hot": 2333740,
+      "num": 2333740,
       "word": "砍死柯基男子被警方带走调查",
       "onboard_time": 1685335174,
       "rank": 1,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1334310,
+      "num": 1334310,
+      "word": "你不认识SHE我不认识101",
+      "onboard_time": 1685339425,
+      "rank": 4,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 1293541,
       "num": 1293541,
       "word": "GAI 活死人",
@@ -145,14 +153,6 @@
       "onboard_time": 1685324127,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1128245,
-      "num": 1128245,
-      "word": "你不认识SHE我不认识101",
-      "onboard_time": 1685339425,
-      "rank": 4,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 1075560,
@@ -403,6 +403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 456470,
+      "num": 456470,
+      "word": "张大大 东农",
+      "onboard_time": 1685338409,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 448679,
       "num": 448679,
       "word": "北京动物园",
@@ -411,20 +419,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 445260,
-      "num": 445260,
-      "word": "张大大 东农",
-      "onboard_time": 1685338409,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 437154,
       "num": 437154,
       "word": "肖战说王楚钦孙颖莎表现完美",
       "onboard_time": 1685329949,
       "rank": 39,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 428904,
+      "num": 338022,
+      "word": "实习生说他熟练掌握excel",
+      "onboard_time": 1685337868,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 419340,
@@ -441,14 +449,6 @@
       "onboard_time": 1685328927,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 404767,
-      "num": 338022,
-      "word": "实习生说他熟练掌握excel",
-      "onboard_time": 1685337868,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 402062,
@@ -505,6 +505,14 @@
       "onboard_time": 1685288011,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351975,
+      "num": 351975,
+      "word": "易烊千玺为五月天演唱会送花篮",
+      "onboard_time": 1685340866,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 350428,
@@ -819,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243032,
+      "num": 243032,
+      "word": "丫丫回家北动熊猫全家福更新",
+      "onboard_time": 1685337687,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240583,
       "num": 240583,
       "word": "你知道七子之歌吗",
@@ -827,11 +843,11 @@
       "category": "社会新闻,音乐"
     },
     {
-      "raw_hot": 239175,
-      "num": 239175,
-      "word": "易烊千玺为五月天演唱会送花篮",
-      "onboard_time": 1685340866,
-      "rank": 23,
+      "raw_hot": 240518,
+      "num": 230514,
+      "word": "五月天分别是谁",
+      "onboard_time": 1685339186,
+      "rank": 27,
       "category": "音乐"
     },
     {
@@ -851,12 +867,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 229576,
-      "num": 229576,
-      "word": "丫丫回家北动熊猫全家福更新",
-      "onboard_time": 1685337687,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 229831,
+      "num": 229831,
+      "word": "一个人的命运很大程度挂在自己嘴上",
+      "onboard_time": 1685337151,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 227636,
@@ -889,14 +905,6 @@
       "onboard_time": 1685319747,
       "rank": 35,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 217683,
-      "num": 217683,
-      "word": "五月天分别是谁",
-      "onboard_time": 1685339186,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 216752,
@@ -995,14 +1003,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 200905,
-      "num": 200905,
-      "word": "一个人的命运很大程度挂在自己嘴上",
-      "onboard_time": 1685337151,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 198616,
       "num": 198616,
       "word": "看来这只猫作恶多端不是一两天了",
@@ -1067,20 +1067,28 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 192605,
+      "num": 192605,
+      "word": "程潇化了雀斑妆",
+      "onboard_time": 1685340208,
+      "rank": 33,
+      "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 191551,
+      "num": 191551,
+      "word": "黑莲花或将延期",
+      "onboard_time": 1685337748,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191546,
       "num": 191546,
       "word": "如果以后丫丫展出你会去看吗",
       "onboard_time": 1685327009,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191314,
-      "num": 191314,
-      "word": "程潇化了雀斑妆",
-      "onboard_time": 1685340208,
-      "rank": 33,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 190397,
@@ -1097,14 +1105,6 @@
       "onboard_time": 1685329407,
       "rank": 40,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 187593,
-      "num": 187593,
-      "word": "黑莲花或将延期",
-      "onboard_time": 1685337748,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 185720,
@@ -1136,6 +1136,14 @@
       "word": "明星被恶意打分的作品",
       "onboard_time": 1685327547,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 179914,
+      "num": 179914,
+      "word": "公诉首更2集",
+      "onboard_time": 1685341227,
+      "rank": 48,
       "category": "影视"
     },
     {
@@ -1235,12 +1243,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 144916,
+      "num": 144916,
+      "word": "如何看待男子砍杀柯基",
+      "onboard_time": 1685341586,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141910,
       "num": 141910,
       "word": "鹿晗蜘蛛侠主题曲MV",
       "onboard_time": 1685328748,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 139110,
+      "num": 139110,
+      "word": "林俊杰十年前vs十年后",
+      "onboard_time": 1685340386,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 137305,
@@ -1323,28 +1347,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 127597,
-      "num": 127597,
-      "word": "林俊杰十年前vs十年后",
-      "onboard_time": 1685340386,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127210,
       "num": 127210,
       "word": "陈楚生淄博音乐节",
       "onboard_time": 1685284533,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 127185,
-      "num": 127185,
-      "word": "公诉首更2集",
-      "onboard_time": 1685341227,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 125655,
@@ -1361,6 +1369,14 @@
       "onboard_time": 1685329348,
       "rank": 47,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 123511,
+      "num": 123511,
+      "word": "梅西看演唱会被认出",
+      "onboard_time": 1685342009,
+      "rank": 49,
+      "category": "体育,音乐"
     },
     {
       "raw_hot": 122715,
@@ -1475,6 +1491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 77334,
+      "num": 587694,
+      "word": "荣耀90",
+      "onboard_time": 1685338767,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 75250,
       "num": 75250,
       "word": "C919机票",
@@ -1523,11 +1547,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53220,
-      "num": 587694,
-      "word": "荣耀90",
-      "onboard_time": 1685338767,
-      "rank": 10,
+      "raw_hot": 60570,
+      "num": 452173,
+      "word": "华为MateX3体验有多绝",
+      "onboard_time": 1685340026,
+      "rank": 14,
       "category": "科技"
     },
     {
@@ -1545,14 +1569,6 @@
       "onboard_time": 1685334931,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 31764,
-      "num": 452173,
-      "word": "华为MateX3体验有多绝",
-      "onboard_time": 1685340026,
-      "rank": 14,
-      "category": "科技"
     },
     {
       "raw_hot": 25795,

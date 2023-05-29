@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685341358759,
+  "endTime": 1685342130438,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1387,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2333740,
+      "num": 2333740,
+      "word": "砍死柯基男子被警方带走调查",
+      "onboard_time": 1685335174,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2332331,
       "num": 775776,
       "word": "张卫健回应私生女传闻",
@@ -1888,14 +1896,6 @@
       "word": "调休",
       "onboard_time": 1683332792,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2086754,
-      "num": 2086754,
-      "word": "砍死柯基男子被警方带走调查",
-      "onboard_time": 1685335174,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -5467,6 +5467,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1334310,
+      "num": 1334310,
+      "word": "你不认识SHE我不认识101",
+      "onboard_time": 1685339425,
+      "rank": 4,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 1333799,
       "num": 808855,
       "word": "金星 橙汁",
@@ -7105,14 +7113,6 @@
       "onboard_time": 1684249174,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1128245,
-      "num": 1128245,
-      "word": "你不认识SHE我不认识101",
-      "onboard_time": 1685339425,
-      "rank": 4,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 1127021,
@@ -18651,6 +18651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 456470,
+      "num": 456470,
+      "word": "张大大 东农",
+      "onboard_time": 1685338409,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 456304,
       "num": 443932,
       "word": "庆余年",
@@ -19185,14 +19193,6 @@
       "onboard_time": 1684197210,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 445260,
-      "num": 445260,
-      "word": "张大大 东农",
-      "onboard_time": 1685338409,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 445180,
@@ -20040,6 +20040,14 @@
       "word": "公司空调打消了我离职的念头",
       "onboard_time": 1684460367,
       "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 428904,
+      "num": 338022,
+      "word": "实习生说他熟练掌握excel",
+      "onboard_time": 1685337868,
+      "rank": 30,
       "category": "幽默"
     },
     {
@@ -21425,14 +21433,6 @@
       "onboard_time": 1683041316,
       "rank": 20,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 404767,
-      "num": 338022,
-      "word": "实习生说他熟练掌握excel",
-      "onboard_time": 1685337868,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 404677,
@@ -25137,6 +25137,14 @@
       "onboard_time": 1685153307,
       "rank": 18,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 351975,
+      "num": 351975,
+      "word": "易烊千玺为五月天演唱会送花篮",
+      "onboard_time": 1685340866,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 351935,
@@ -36259,6 +36267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 243032,
+      "num": 243032,
+      "word": "丫丫回家北动熊猫全家福更新",
+      "onboard_time": 1685337687,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243026,
       "num": 243026,
       "word": "btob",
@@ -36651,6 +36667,14 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 240518,
+      "num": 230514,
+      "word": "五月天分别是谁",
+      "onboard_time": 1685339186,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 240441,
       "num": 240441,
       "word": "砸承重墙居民楼加固后强度或高于设计值",
@@ -36881,14 +36905,6 @@
       "onboard_time": 1684677212,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 239175,
-      "num": 239175,
-      "word": "易烊千玺为五月天演唱会送花篮",
-      "onboard_time": 1685340866,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 239084,
@@ -38539,6 +38555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 229831,
+      "num": 229831,
+      "word": "一个人的命运很大程度挂在自己嘴上",
+      "onboard_time": 1685337151,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 229813,
       "num": 229813,
       "word": "李宛妲 华筝",
@@ -38585,14 +38609,6 @@
       "onboard_time": 1684624398,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 229576,
-      "num": 229576,
-      "word": "丫丫回家北动熊猫全家福更新",
-      "onboard_time": 1685337687,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 229562,
@@ -40369,14 +40385,6 @@
       "onboard_time": 1682984300,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217683,
-      "num": 217683,
-      "word": "五月天分别是谁",
-      "onboard_time": 1685339186,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 217643,
@@ -43323,14 +43331,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 200905,
-      "num": 200905,
-      "word": "一个人的命运很大程度挂在自己嘴上",
-      "onboard_time": 1685337151,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 200870,
       "num": 183961,
       "word": "周深玉兔造型正面vs背面",
@@ -44875,6 +44875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192605,
+      "num": 192605,
+      "word": "程潇化了雀斑妆",
+      "onboard_time": 1685340208,
+      "rank": 33,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 192579,
       "num": 431631,
       "word": "被蜱虫叮咬后不要随意拔",
@@ -45099,6 +45107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191551,
+      "num": 191551,
+      "word": "黑莲花或将延期",
+      "onboard_time": 1685337748,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191546,
       "num": 191546,
       "word": "如果以后丫丫展出你会去看吗",
@@ -45145,14 +45161,6 @@
       "onboard_time": 1685164165,
       "rank": 48,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 191314,
-      "num": 191314,
-      "word": "程潇化了雀斑妆",
-      "onboard_time": 1685340208,
-      "rank": 33,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 191313,
@@ -45945,14 +45953,6 @@
       "onboard_time": 1684166607,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 187593,
-      "num": 187593,
-      "word": "黑莲花或将延期",
-      "onboard_time": 1685337748,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 187457,
@@ -47265,6 +47265,14 @@
       "onboard_time": 1684140810,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179914,
+      "num": 179914,
+      "word": "公诉首更2集",
+      "onboard_time": 1685341227,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 179904,
@@ -53435,6 +53443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144916,
+      "num": 144916,
+      "word": "如何看待男子砍杀柯基",
+      "onboard_time": 1685341586,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144877,
       "num": 144877,
       "word": "LPL",
@@ -54209,6 +54225,14 @@
       "onboard_time": 1684465466,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139110,
+      "num": 139110,
+      "word": "林俊杰十年前vs十年后",
+      "onboard_time": 1685340386,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 139052,
@@ -55811,14 +55835,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 127597,
-      "num": 127597,
-      "word": "林俊杰十年前vs十年后",
-      "onboard_time": 1685340386,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127573,
       "num": 276369,
       "word": "油混和插混怎么选",
@@ -55889,14 +55905,6 @@
       "onboard_time": 1685277568,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 127185,
-      "num": 127185,
-      "word": "公诉首更2集",
-      "onboard_time": 1685341227,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 127181,
@@ -56321,6 +56329,14 @@
       "onboard_time": 1685184447,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 123511,
+      "num": 123511,
+      "word": "梅西看演唱会被认出",
+      "onboard_time": 1685342009,
+      "rank": 49,
+      "category": "体育,音乐"
     },
     {
       "raw_hot": 123462,
@@ -59587,6 +59603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77334,
+      "num": 587694,
+      "word": "荣耀90",
+      "onboard_time": 1685338767,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 76993,
       "num": 76993,
       "word": "王楚钦孙颖莎晋级混双决赛",
@@ -60515,6 +60539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60570,
+      "num": 452173,
+      "word": "华为MateX3体验有多绝",
+      "onboard_time": 1685340026,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 59983,
       "num": 59983,
       "word": "点赞新时代青春力量",
@@ -60769,14 +60801,6 @@
       "onboard_time": 1684029806,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 53220,
-      "num": 587694,
-      "word": "荣耀90",
-      "onboard_time": 1685338767,
-      "rank": 10,
-      "category": "科技"
     },
     {
       "raw_hot": 52769,
@@ -61713,14 +61737,6 @@
       "onboard_time": 1683222135,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 31764,
-      "num": 452173,
-      "word": "华为MateX3体验有多绝",
-      "onboard_time": 1685340026,
-      "rank": 14,
-      "category": "科技"
     },
     {
       "raw_hot": 31538,
