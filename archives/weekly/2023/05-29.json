@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685398534576,
+  "endTime": 1685399617651,
   "band_list": [
     {
       "raw_hot": 3796538,
@@ -1971,6 +1971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194495,
+      "num": 59845,
+      "word": "官方回应怀孕4个月女子遭家暴",
+      "onboard_time": 1685383995,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194397,
       "num": 204407,
       "word": "砍杀宠物算家暴吗",
@@ -2329,14 +2337,6 @@
       "onboard_time": 1685364989,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 152056,
-      "num": 59358,
-      "word": "官方回应怀孕4个月女子遭家暴",
-      "onboard_time": 1685383995,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151758,
@@ -2771,6 +2771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 89105,
+      "num": 48206,
+      "word": "女子骨折做手术后左腿变长2.3厘米",
+      "onboard_time": 1685386513,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85688,
       "num": 349474,
       "word": "比亚迪专利免费共享",
@@ -2891,20 +2899,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 56444,
-      "num": 37236,
-      "word": "女子骨折做手术后左腿变长2.3厘米",
-      "onboard_time": 1685386513,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 48693,
       "num": 48693,
       "word": "法网2023",
       "onboard_time": 1685381238,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43985,
+      "num": 43985,
+      "word": "普通家庭怎么带孩子见世面",
+      "onboard_time": 1685393472,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39236,
@@ -2955,20 +2963,20 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 30621,
-      "num": 30621,
-      "word": "普通家庭怎么带孩子见世面",
-      "onboard_time": 1685393472,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25795,
       "num": 25795,
       "word": "新疆草莓音乐节",
       "onboard_time": 1685299815,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 21081,
+      "num": 29692,
+      "word": "热心车主为故障货车带路120公里",
+      "onboard_time": 1685391972,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19322,
