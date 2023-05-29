@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685399617651,
+  "endTime": 1685402180087,
   "band_list": [
     {
       "raw_hot": 3796538,
@@ -1267,6 +1267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 282991,
+      "num": 282991,
+      "word": "官方回应怀孕4个月女子遭家暴",
+      "onboard_time": 1685383995,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282858,
       "num": 200098,
       "word": "和人接触不要陷入对立情绪",
@@ -1593,6 +1601,14 @@
       "onboard_time": 1685267489,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241827,
+      "num": 241827,
+      "word": "女子骨折做手术后左腿变长2.3厘米",
+      "onboard_time": 1685386513,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 240583,
@@ -1971,14 +1987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194495,
-      "num": 59845,
-      "word": "官方回应怀孕4个月女子遭家暴",
-      "onboard_time": 1685383995,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194397,
       "num": 204407,
       "word": "砍杀宠物算家暴吗",
@@ -2177,6 +2185,14 @@
       "onboard_time": 1685342009,
       "rank": 49,
       "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 170888,
+      "num": 170888,
+      "word": "教育局回应小学不让打伞进校",
+      "onboard_time": 1685401218,
+      "rank": 22,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 170827,
@@ -2675,6 +2691,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 112007,
+      "num": 112007,
+      "word": "曝昆汀花1万美元在夜店舔美女的脚",
+      "onboard_time": 1685402122,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111341,
       "num": 111341,
       "word": "女生读书工作的意义",
@@ -2771,14 +2795,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 89105,
-      "num": 48206,
-      "word": "女子骨折做手术后左腿变长2.3厘米",
-      "onboard_time": 1685386513,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 85688,
       "num": 349474,
       "word": "比亚迪专利免费共享",
@@ -2819,12 +2835,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 75256,
+      "num": 75256,
+      "word": "王源一家人各火各的",
+      "onboard_time": 1685402062,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 75250,
       "num": 75250,
       "word": "C919机票",
       "onboard_time": 1685305572,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73226,
+      "num": 73226,
+      "word": "网友点评赵露思虞书欣是韩式演技",
+      "onboard_time": 1685401701,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 73175,
@@ -2841,6 +2873,14 @@
       "onboard_time": 1685346328,
       "rank": 2,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 67851,
+      "num": 67851,
+      "word": "普通家庭怎么带孩子见世面",
+      "onboard_time": 1685393472,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67670,
@@ -2907,12 +2947,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43985,
-      "num": 43985,
-      "word": "普通家庭怎么带孩子见世面",
-      "onboard_time": 1685393472,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 43645,
+      "num": 47615,
+      "word": "福建农业职业技术学院坠楼",
+      "onboard_time": 1685402122,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 39236,
