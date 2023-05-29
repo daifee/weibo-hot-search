@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685374424398,
+  "endTime": 1685377320709,
   "band_list": [
     {
       "raw_hot": 3796538,
@@ -323,6 +323,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 999225,
+      "num": 999225,
+      "word": "刘浩存在海底捞给路人唱生日歌",
+      "onboard_time": 1685371055,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 970422,
       "num": 589983,
       "word": "柯基",
@@ -427,20 +435,20 @@
       "category": "社会新闻,音乐"
     },
     {
-      "raw_hot": 730831,
-      "num": 730831,
-      "word": "刘浩存在海底捞给路人唱生日歌",
-      "onboard_time": 1685371055,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 719074,
       "num": 719074,
       "word": "TFBOYS十周年有望合体",
       "onboard_time": 1685360308,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 712819,
+      "num": 712819,
+      "word": "韩式演技",
+      "onboard_time": 1685374892,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 709846,
@@ -563,6 +571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 582791,
+      "num": 566186,
+      "word": "你管周也这张脸叫普普通通",
+      "onboard_time": 1685370272,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 581891,
       "num": 581891,
       "word": "对着女歌手唱这种词合适吗",
@@ -585,14 +601,6 @@
       "onboard_time": 1685330010,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 566186,
-      "num": 566186,
-      "word": "你管周也这张脸叫普普通通",
-      "onboard_time": 1685370272,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 556392,
@@ -809,6 +817,14 @@
       "onboard_time": 1685337868,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 428067,
+      "num": 428067,
+      "word": "原来这是焦虑的表现",
+      "onboard_time": 1685375010,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 421785,
@@ -1097,6 +1113,14 @@
       "onboard_time": 1685368050,
       "rank": 30,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 323018,
+      "num": 230124,
+      "word": "不要彩礼收到了婆婆的心意",
+      "onboard_time": 1685373451,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 321120,
@@ -1419,6 +1443,22 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 256068,
+      "num": 225208,
+      "word": "前夫婚礼现场女子拉横幅祝其纳妾",
+      "onboard_time": 1685373630,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255912,
+      "num": 225022,
+      "word": "张艺兴演唱会",
+      "onboard_time": 1685375130,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 255539,
       "num": 255539,
       "word": "迪丽热巴直播喇叭放浏阳河",
@@ -1587,14 +1627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 230124,
-      "num": 230124,
-      "word": "不要彩礼收到了婆婆的心意",
-      "onboard_time": 1685373451,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 229831,
       "num": 229831,
       "word": "一个人的命运很大程度挂在自己嘴上",
@@ -1737,6 +1769,14 @@
       "onboard_time": 1685289449,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 210118,
+      "num": 225466,
+      "word": "河南79岁老农手捧发芽小麦抹泪",
+      "onboard_time": 1685375788,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209680,
@@ -2187,14 +2227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 166205,
-      "num": 166205,
-      "word": "前夫婚礼现场女子拉横幅祝其纳妾",
-      "onboard_time": 1685373630,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164645,
       "num": 164645,
       "word": "高三师生放666条锦鲤祝金榜题名",
@@ -2633,6 +2665,14 @@
       "onboard_time": 1685367032,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 104856,
+      "num": 104856,
+      "word": "成长就是越来越松弛的过程",
+      "onboard_time": 1685376806,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 104715,
