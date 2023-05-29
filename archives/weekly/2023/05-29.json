@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685338413803,
+  "endTime": 1685341358759,
   "band_list": [
     {
       "raw_hot": 3128535,
@@ -27,8 +27,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1969724,
-      "num": 1969724,
+      "raw_hot": 2086754,
+      "num": 2086754,
       "word": "砍死柯基男子被警方带走调查",
       "onboard_time": 1685335174,
       "rank": 1,
@@ -131,6 +131,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 1266457,
+      "num": 1266457,
+      "word": "俄对乌开出停火要求",
+      "onboard_time": 1685333491,
+      "rank": 46,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 1138318,
       "num": 1138318,
       "word": "竟然有人不认识宋丹丹",
@@ -139,12 +147,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1128245,
+      "num": 1128245,
+      "word": "你不认识SHE我不认识101",
+      "onboard_time": 1685339425,
+      "rank": 4,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 1075560,
       "num": 1075560,
       "word": "五月天欠下九十万斤水饺的债",
       "onboard_time": 1685279789,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1070043,
+      "num": 1070043,
+      "word": "虞书欣的上衣是草编的",
+      "onboard_time": 1685334571,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 1052609,
@@ -161,14 +185,6 @@
       "onboard_time": 1685314879,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1010737,
-      "num": 1010737,
-      "word": "虞书欣的上衣是草编的",
-      "onboard_time": 1685334571,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 970422,
@@ -209,14 +225,6 @@
       "onboard_time": 1685328149,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 849645,
-      "num": 849645,
-      "word": "俄对乌开出停火要求",
-      "onboard_time": 1685333491,
-      "rank": 46,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 819265,
@@ -265,6 +273,14 @@
       "onboard_time": 1685287770,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 628445,
+      "num": 628445,
+      "word": "世界破破烂烂 小狗缝缝补补",
+      "onboard_time": 1685336311,
+      "rank": 19,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 620355,
@@ -395,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445260,
+      "num": 445260,
+      "word": "张大大 东农",
+      "onboard_time": 1685338409,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 437154,
       "num": 437154,
       "word": "肖战说王楚钦孙颖莎表现完美",
@@ -417,6 +441,14 @@
       "onboard_time": 1685328927,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 404767,
+      "num": 338022,
+      "word": "实习生说他熟练掌握excel",
+      "onboard_time": 1685337868,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 402062,
@@ -451,14 +483,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 368217,
-      "num": 368217,
-      "word": "世界破破烂烂 小狗缝缝补补",
-      "onboard_time": 1685336311,
-      "rank": 19,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 366212,
       "num": 366212,
       "word": "张丹峰洪欣合体",
@@ -489,6 +513,14 @@
       "onboard_time": 1685323888,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 337870,
+      "num": 337870,
+      "word": "被砍死柯基主人称未与丈夫和解",
+      "onboard_time": 1685331688,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336909,
@@ -595,14 +627,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 281550,
-      "num": 204946,
-      "word": "实习生说他熟练掌握excel",
-      "onboard_time": 1685337868,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 279343,
       "num": 279343,
       "word": "容祖儿 抢票",
@@ -641,6 +665,14 @@
       "onboard_time": 1685316683,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271617,
+      "num": 271617,
+      "word": "买东西千万不要再纠结了",
+      "onboard_time": 1685338708,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 270252,
@@ -795,6 +827,14 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 239175,
+      "num": 239175,
+      "word": "易烊千玺为五月天演唱会送花篮",
+      "onboard_time": 1685340866,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 237242,
       "num": 237242,
       "word": "桂海潮",
@@ -808,6 +848,14 @@
       "word": "丫丫肉眼可见地胖了",
       "onboard_time": 1685316804,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229576,
+      "num": 229576,
+      "word": "丫丫回家北动熊猫全家福更新",
+      "onboard_time": 1685337687,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -841,6 +889,14 @@
       "onboard_time": 1685319747,
       "rank": 35,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 217683,
+      "num": 217683,
+      "word": "五月天分别是谁",
+      "onboard_time": 1685339186,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 216752,
@@ -939,6 +995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200905,
+      "num": 200905,
+      "word": "一个人的命运很大程度挂在自己嘴上",
+      "onboard_time": 1685337151,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198616,
       "num": 198616,
       "word": "看来这只猫作恶多端不是一两天了",
@@ -1011,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191314,
+      "num": 191314,
+      "word": "程潇化了雀斑妆",
+      "onboard_time": 1685340208,
+      "rank": 33,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 190397,
       "num": 190397,
       "word": "美依礼芽安利值断层第一",
@@ -1025,6 +1097,14 @@
       "onboard_time": 1685329407,
       "rank": 40,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 187593,
+      "num": 187593,
+      "word": "黑莲花或将延期",
+      "onboard_time": 1685337748,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 185720,
@@ -1065,14 +1145,6 @@
       "onboard_time": 1685288131,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 171083,
-      "num": 171083,
-      "word": "一个人的命运很大程度挂在自己嘴上",
-      "onboard_time": 1685337151,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 169855,
@@ -1155,14 +1227,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 150562,
-      "num": 150562,
-      "word": "黑莲花或将延期",
-      "onboard_time": 1685337748,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 148901,
       "num": 148901,
       "word": "王子文白裙好温柔",
@@ -1185,14 +1249,6 @@
       "onboard_time": 1685294060,
       "rank": 36,
       "category": "综艺,幽默"
-    },
-    {
-      "raw_hot": 136595,
-      "num": 136595,
-      "word": "丫丫回家北动熊猫全家福更新",
-      "onboard_time": 1685337687,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134990,
@@ -1267,12 +1323,28 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 127597,
+      "num": 127597,
+      "word": "林俊杰十年前vs十年后",
+      "onboard_time": 1685340386,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127210,
       "num": 127210,
       "word": "陈楚生淄博音乐节",
       "onboard_time": 1685284533,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 127185,
+      "num": 127185,
+      "word": "公诉首更2集",
+      "onboard_time": 1685341227,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 125655,
@@ -1451,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53220,
+      "num": 587694,
+      "word": "荣耀90",
+      "onboard_time": 1685338767,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 36613,
       "num": 1917856,
       "word": "沉浸式体验虚拟未来世界",
@@ -1465,6 +1545,14 @@
       "onboard_time": 1685334931,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31764,
+      "num": 452173,
+      "word": "华为MateX3体验有多绝",
+      "onboard_time": 1685340026,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 25795,
