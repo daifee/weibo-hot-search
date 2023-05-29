@@ -1,6 +1,6 @@
 {
   "startTime": 1685377320709,
-  "endTime": 1685402180087,
+  "endTime": 1685403221132,
   "band_list": [
     {
       "raw_hot": 2404694,
@@ -11,8 +11,8 @@
       "category": "社会新闻,游戏"
     },
     {
-      "raw_hot": 1133168,
-      "num": 1133168,
+      "raw_hot": 1345961,
+      "num": 1345961,
       "word": "官方通报男子砍杀柯基威胁妻子",
       "onboard_time": 1685371055,
       "rank": 1,
@@ -67,12 +67,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 631557,
+      "num": 368870,
+      "word": "曝昆汀花1万美元在夜店舔美女的脚",
+      "onboard_time": 1685402122,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 582791,
       "num": 475132,
       "word": "你管周也这张脸叫普普通通",
       "onboard_time": 1685370272,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 527208,
+      "num": 527208,
+      "word": "上海一老人误将地铁扶手当售卖机",
+      "onboard_time": 1685370030,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 519806,
+      "num": 519806,
+      "word": "教育局回应小学不让打伞进校",
+      "onboard_time": 1685401218,
+      "rank": 22,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 502052,
@@ -100,11 +124,19 @@
     },
     {
       "raw_hot": 405370,
-      "num": 292173,
+      "num": 328195,
       "word": "吴磊哭着蹭赵今麦肩膀",
       "onboard_time": 1685363067,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 372621,
+      "num": 372621,
+      "word": "官方回应怀孕4个月女子遭家暴",
+      "onboard_time": 1685383995,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323018,
@@ -131,27 +163,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 292635,
-      "num": 292635,
-      "word": "上海一老人误将地铁扶手当售卖机",
-      "onboard_time": 1685370030,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 290248,
       "num": 290248,
       "word": "男子吃火锅遇假茅台被服务员提醒",
       "onboard_time": 1685358929,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 282991,
-      "num": 282991,
-      "word": "官方回应怀孕4个月女子遭家暴",
-      "onboard_time": 1685383995,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -161,6 +177,14 @@
       "onboard_time": 1685369373,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261656,
+      "num": 261656,
+      "word": "王源一家人各火各的",
+      "onboard_time": 1685402062,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 256068,
@@ -187,12 +211,28 @@
       "category": "社会新闻,游戏"
     },
     {
+      "raw_hot": 247986,
+      "num": 247986,
+      "word": "大姑姐 韩国",
+      "onboard_time": 1685402842,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241827,
       "num": 241827,
       "word": "女子骨折做手术后左腿变长2.3厘米",
       "onboard_time": 1685386513,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227139,
+      "num": 227139,
+      "word": "福建农业职业技术学院坠楼",
+      "onboard_time": 1685402122,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 225556,
@@ -243,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207869,
+      "num": 207869,
+      "word": "网友点评赵露思虞书欣是韩式演技",
+      "onboard_time": 1685401701,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 207767,
       "num": 183085,
       "word": "庾郎盘马地 却怕有春泥",
@@ -291,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176090,
+      "num": 176090,
+      "word": "柯基被砍",
+      "onboard_time": 1685402242,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175936,
       "num": 148872,
       "word": "林一的古装",
@@ -315,14 +371,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 170888,
-      "num": 170888,
-      "word": "教育局回应小学不让打伞进校",
-      "onboard_time": 1685401218,
-      "rank": 22,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 155410,
       "num": 147225,
       "word": "TFBOYS十周年有望合体",
@@ -337,6 +385,14 @@
       "onboard_time": 1685362528,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 144674,
+      "num": 144674,
+      "word": "济南11岁男孩莫名吐血交警10分钟送医",
+      "onboard_time": 1685403204,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142274,
@@ -403,14 +459,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 112007,
-      "num": 112007,
-      "word": "曝昆汀花1万美元在夜店舔美女的脚",
-      "onboard_time": 1685402122,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 104856,
       "num": 104856,
       "word": "成长就是越来越松弛的过程",
@@ -443,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 84291,
+      "num": 84291,
+      "word": "分手后你还会和前任有联系吗",
+      "onboard_time": 1685402062,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 76090,
       "num": 93299,
       "word": "光与夜之恋 偷跑",
@@ -451,28 +507,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 75256,
-      "num": 75256,
-      "word": "王源一家人各火各的",
-      "onboard_time": 1685402062,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 73226,
-      "num": 73226,
-      "word": "网友点评赵露思虞书欣是韩式演技",
-      "onboard_time": 1685401701,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 67851,
-      "num": 67851,
+      "raw_hot": 74961,
+      "num": 74961,
       "word": "普通家庭怎么带孩子见世面",
       "onboard_time": 1685393472,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72107,
+      "num": 72107,
+      "word": "苏醒毫不尊重艺人五官的特效",
+      "onboard_time": 1685403146,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 68403,
+      "num": 1079247,
+      "word": "中国人筑起攀向太空的天梯",
+      "onboard_time": 1685363909,
+      "rank": 2,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 67071,
@@ -491,28 +547,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 54703,
-      "num": 1079247,
-      "word": "中国人筑起攀向太空的天梯",
-      "onboard_time": 1685363909,
-      "rank": 2,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 48693,
-      "num": 48693,
+      "num": 67579,
       "word": "法网2023",
       "onboard_time": 1685381238,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 43645,
-      "num": 47615,
-      "word": "福建农业职业技术学院坠楼",
-      "onboard_time": 1685402122,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 35551,
