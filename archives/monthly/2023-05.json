@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685349229436,
+  "endTime": 1685351829218,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1513,6 +1513,14 @@
       "onboard_time": 1684906229,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2278172,
+      "num": 2278172,
+      "word": "高考307分女孩考研逆袭211",
+      "onboard_time": 1685347166,
+      "rank": 9,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 2272926,
@@ -5179,14 +5187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1371936,
-      "num": 1371936,
-      "word": "高考307分女孩考研逆袭211",
-      "onboard_time": 1685347166,
-      "rank": 9,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 1370995,
       "num": 1370995,
       "word": "五一的堵 逐渐离谱",
@@ -6779,6 +6779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1169921,
+      "num": 1169921,
+      "word": "田曦薇别再瘦了",
+      "onboard_time": 1685344045,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1168115,
       "num": 1029665,
       "word": "恋踩癖男子藏袋内呼吸起伏明显",
@@ -7497,6 +7505,14 @@
       "onboard_time": 1684302811,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1084732,
+      "num": 1084732,
+      "word": "女子称怀孕4个月被老公多次家暴",
+      "onboard_time": 1685349148,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1084368,
@@ -8553,14 +8569,6 @@
       "onboard_time": 1683618328,
       "rank": 1,
       "category": "军事"
-    },
-    {
-      "raw_hot": 974306,
-      "num": 974306,
-      "word": "田曦薇别再瘦了",
-      "onboard_time": 1685344045,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 974200,
@@ -16323,6 +16331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 517397,
+      "num": 295979,
+      "word": "穿了吊带老师不让我进教室",
+      "onboard_time": 1685347709,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 517253,
       "num": 517253,
       "word": "易烊千玺刘艳芬终章上线",
@@ -17155,6 +17171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 491246,
+      "num": 491246,
+      "word": "BLACKPINK官博编辑文案",
+      "onboard_time": 1685349809,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 491157,
       "num": 491157,
       "word": "巴厘岛女性死者生前可能曾遭勒颈",
@@ -17425,14 +17449,6 @@
       "onboard_time": 1682903850,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 483867,
-      "num": 295979,
-      "word": "穿了吊带老师不让我进教室",
-      "onboard_time": 1685347709,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 483829,
@@ -22291,6 +22307,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 393451,
+      "num": 242429,
+      "word": "时代少年团也会羡慕五月天的中控吧",
+      "onboard_time": 1685350708,
+      "rank": 21,
+      "category": "音乐,幽默"
+    },
+    {
       "raw_hot": 393337,
       "num": 317867,
       "word": "那为啥要排这种戏颁这种奖",
@@ -23585,6 +23609,14 @@
       "onboard_time": 1685171488,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 373938,
+      "num": 241397,
+      "word": "老人衣衫不整把手伸向女童",
+      "onboard_time": 1685350647,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 373859,
@@ -35979,6 +36011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246220,
+      "num": 246220,
+      "word": "LPL夏季赛",
+      "onboard_time": 1684722508,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 246217,
       "num": 246217,
       "word": "世乒赛",
@@ -39563,6 +39603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224167,
+      "num": 224167,
+      "word": "贡菜毛肚螺蛳粉",
+      "onboard_time": 1685349509,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 224091,
       "num": 224091,
       "word": "清洁工躺车库被碾亡司机申请国赔",
@@ -40041,14 +40089,6 @@
       "onboard_time": 1683181887,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 220406,
-      "num": 220406,
-      "word": "LPL夏季赛",
-      "onboard_time": 1684722508,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 220400,
@@ -41867,6 +41907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210030,
+      "num": 210030,
+      "word": "孟子义我们不是死绿茶",
+      "onboard_time": 1685351068,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210022,
       "num": 210022,
       "word": "孟羽童曾称董明珠不可复制",
@@ -42889,6 +42937,14 @@
       "onboard_time": 1684916369,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204219,
+      "num": 204219,
+      "word": "伤害家庭宠物算不算家暴",
+      "onboard_time": 1685349387,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204182,
@@ -44225,6 +44281,14 @@
       "onboard_time": 1684639349,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 196755,
+      "num": 196755,
+      "word": "i人的真实写照",
+      "onboard_time": 1685350708,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 196638,
@@ -52771,6 +52835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150717,
+      "num": 126768,
+      "word": "荣耀90价格",
+      "onboard_time": 1685349267,
+      "rank": 44,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 150680,
       "num": 150680,
       "word": "外交部副部长召见日本驻华大使",
@@ -54521,6 +54593,14 @@
       "onboard_time": 1684136068,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138893,
+      "num": 138893,
+      "word": "工作后无力发扬真善美",
+      "onboard_time": 1685349929,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 138882,
@@ -56923,14 +57003,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 121103,
-      "num": 121103,
-      "word": "女子称怀孕4个月被老公多次家暴",
-      "onboard_time": 1685349148,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121013,
       "num": 121013,
       "word": "薛之谦说常州太湖湾音乐节收工",
@@ -57497,6 +57569,14 @@
       "onboard_time": 1683081630,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115422,
+      "num": 115422,
+      "word": "奔赴初夏",
+      "onboard_time": 1685351789,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 115377,
@@ -58985,6 +59065,14 @@
       "onboard_time": 1684945944,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94299,
+      "num": 344972,
+      "word": "紫色可以多惊艳",
+      "onboard_time": 1685350049,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 94252,
@@ -61929,6 +62017,14 @@
       "onboard_time": 1683498256,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 33698,
+      "num": 116286,
+      "word": "618抄作业好价榜单",
+      "onboard_time": 1685350049,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33362,
