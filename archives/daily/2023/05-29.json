@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685331251961,
+  "endTime": 1685334028557,
   "band_list": [
     {
       "raw_hot": 3128535,
@@ -8,6 +8,14 @@
       "word": "丫丫一到家就被竹子包围了",
       "onboard_time": 1685315900,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2537621,
+      "num": 2537621,
+      "word": "妇联回应男子砍杀柯基威胁妻子",
+      "onboard_time": 1685330848,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -27,8 +35,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1759647,
-      "num": 1759647,
+      "raw_hot": 1887780,
+      "num": 1887780,
       "word": "张萌问我出轨的角色这么经典吗",
       "onboard_time": 1685324187,
       "rank": 21,
@@ -99,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1293204,
+      "num": 1293204,
+      "word": "迪丽热巴的假蛇玩具",
+      "onboard_time": 1685325928,
+      "rank": 6,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 1138318,
       "num": 1138318,
       "word": "竟然有人不认识宋丹丹",
@@ -113,14 +129,6 @@
       "onboard_time": 1685279789,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1054732,
-      "num": 1054732,
-      "word": "迪丽热巴的假蛇玩具",
-      "onboard_time": 1685325928,
-      "rank": 6,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 1038388,
@@ -163,8 +171,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 866535,
+      "num": 866535,
+      "word": "被砍死柯基主人回应",
+      "onboard_time": 1685331688,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 862330,
-      "num": 600159,
+      "num": 782353,
       "word": "费曼中了周杰伦的帽子",
       "onboard_time": 1685328149,
       "rank": 28,
@@ -227,19 +243,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 601504,
-      "num": 601504,
-      "word": "妇联回应男子砍杀柯基威胁妻子",
-      "onboard_time": 1685330848,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 581891,
       "num": 581891,
       "word": "对着女歌手唱这种词合适吗",
       "onboard_time": 1685319271,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 577125,
+      "num": 577125,
+      "word": "十个勤天",
+      "onboard_time": 1685330010,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 565757,
+      "num": 565757,
+      "word": "互联网真换了一批人啊",
+      "onboard_time": 1685326527,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -257,14 +281,6 @@
       "onboard_time": 1685328569,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 551211,
-      "num": 551211,
-      "word": "互联网真换了一批人啊",
-      "onboard_time": 1685326527,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 526966,
@@ -315,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 466476,
+      "num": 466476,
+      "word": "宁安如梦又要空降了",
+      "onboard_time": 1685331989,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 460997,
       "num": 292464,
       "word": "虹猫蓝兔重制版",
@@ -339,12 +363,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 413724,
+      "num": 413724,
+      "word": "马琳",
+      "onboard_time": 1685328927,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 401536,
       "num": 401536,
       "word": "王一博作品疑似被恶意打分",
       "onboard_time": 1685317284,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 391826,
+      "num": 391826,
+      "word": "肖战说王楚钦孙颖莎表现完美",
+      "onboard_time": 1685329949,
+      "rank": 39,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 375401,
@@ -371,20 +411,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 360430,
-      "num": 360430,
-      "word": "马琳",
-      "onboard_time": 1685328927,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 356089,
       "num": 356089,
       "word": "北京动物园回应丫丫是否展出",
       "onboard_time": 1685288011,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351718,
+      "num": 351718,
+      "word": "张翰新剧演庄周",
+      "onboard_time": 1685332591,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 350428,
@@ -403,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 334406,
-      "num": 334406,
-      "word": "十个勤天",
-      "onboard_time": 1685330010,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 334300,
       "num": 334300,
       "word": "一外国人说广州人没礼貌",
@@ -419,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 323595,
-      "num": 323595,
-      "word": "肖战说王楚钦孙颖莎表现完美",
-      "onboard_time": 1685329949,
-      "rank": 39,
-      "category": "体育,艺人"
+      "raw_hot": 331583,
+      "num": 274443,
+      "word": "蔡徐坤身上好多彩钻",
+      "onboard_time": 1685332891,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 320554,
@@ -491,6 +523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 279265,
+      "num": 273914,
+      "word": "种地吧",
+      "onboard_time": 1685332891,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278306,
       "num": 254039,
       "word": "东宫虐还是周生如故虐",
@@ -513,6 +553,14 @@
       "onboard_time": 1685316683,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271438,
+      "num": 271438,
+      "word": "一条龙鱼居然能换一套房",
+      "onboard_time": 1685333731,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 270252,
@@ -587,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 253688,
+      "num": 233602,
+      "word": "赵今麦吴磊好配",
+      "onboard_time": 1685333248,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 252334,
       "num": 252334,
       "word": "C919飞往成都",
@@ -635,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 244059,
+      "num": 244059,
+      "word": "A股",
+      "onboard_time": 1685331030,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 243136,
       "num": 243136,
       "word": "黄奕未经允许私拿美术馆展品摆拍",
@@ -667,6 +731,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 225481,
+      "num": 225481,
+      "word": "虞书欣杨天真阿那亚合照",
+      "onboard_time": 1685333850,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 224884,
+      "num": 224884,
+      "word": "7个月宝宝患癌妈妈躲走廊自责落泪",
+      "onboard_time": 1685331568,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223950,
+      "num": 223950,
+      "word": "老年人再就业释放人口红利",
+      "onboard_time": 1685329107,
+      "rank": 31,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 220577,
       "num": 220577,
       "word": "终于捡到自愿的猫猫了",
@@ -697,14 +785,6 @@
       "onboard_time": 1685271988,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212126,
-      "num": 212126,
-      "word": "老年人再就业释放人口红利",
-      "onboard_time": 1685329107,
-      "rank": 31,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 211504,
@@ -763,6 +843,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 195382,
+      "num": 195382,
+      "word": "你知道七子之歌吗",
+      "onboard_time": 1685331268,
+      "rank": 38,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 195105,
       "num": 195105,
       "word": "樊振东vs王楚钦",
@@ -777,6 +865,22 @@
       "onboard_time": 1685276369,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 193231,
+      "num": 193231,
+      "word": "好多明星去了五月天演唱会",
+      "onboard_time": 1685330429,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 193194,
+      "num": 193194,
+      "word": "不要因为同事关系而离职",
+      "onboard_time": 1685333731,
+      "rank": 41,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 193040,
@@ -811,12 +915,12 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 187005,
-      "num": 187005,
-      "word": "好多明星去了五月天演唱会",
-      "onboard_time": 1685330429,
-      "rank": 35,
-      "category": "音乐"
+      "raw_hot": 183592,
+      "num": 183592,
+      "word": "宁安如梦",
+      "onboard_time": 1685331209,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 183586,
@@ -827,12 +931,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 173201,
-      "num": 173201,
-      "word": "A股",
-      "onboard_time": 1685331030,
-      "rank": 38,
-      "category": "财经"
+      "raw_hot": 181573,
+      "num": 181573,
+      "word": "俄对乌开出停火要求",
+      "onboard_time": 1685333491,
+      "rank": 46,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 172573,
@@ -945,14 +1049,6 @@
       "onboard_time": 1685273427,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133600,
-      "num": 133600,
-      "word": "宁安如梦",
-      "onboard_time": 1685331209,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 133144,
@@ -1187,8 +1283,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37728,
+      "num": 497120,
+      "word": "老师用相机记录小学生6年成长",
+      "onboard_time": 1685333010,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36613,
-      "num": 1654975,
+      "num": 1917856,
       "word": "沉浸式体验虚拟未来世界",
       "onboard_time": 1685279849,
       "rank": 2,

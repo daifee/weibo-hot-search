@@ -1,0 +1,410 @@
+{
+  "runTime": 1685334028557,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2537621,
+        "num": 2537621,
+        "word": "妇联回应男子砍杀柯基威胁妻子",
+        "onboard_time": 1685330848,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1962584,
+        "num": 1962584,
+        "word": "央视评家有儿女疑似被恶意评分",
+        "onboard_time": 1685326947,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 7550,
+        "num": 1917856,
+        "word": "沉浸式体验虚拟未来世界",
+        "onboard_time": 1685279849,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1887780,
+        "num": 1887780,
+        "word": "张萌问我出轨的角色这么经典吗",
+        "onboard_time": 1685324187,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1293204,
+        "num": 1293204,
+        "word": "迪丽热巴的假蛇玩具",
+        "onboard_time": 1685325928,
+        "rank": 4,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 1248467,
+        "num": 1248467,
+        "word": "BLACKPINK文案引争议",
+        "onboard_time": 1685323528,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1175117,
+        "num": 1175117,
+        "word": "丫丫一到家就被竹子包围了",
+        "onboard_time": 1685315900,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1121379,
+        "num": 1121379,
+        "word": "上厕所途中千万不要冲厕所",
+        "onboard_time": 1685323827,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 866535,
+        "num": 866535,
+        "word": "被砍死柯基主人回应",
+        "onboard_time": 1685331688,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 827474,
+        "num": 827474,
+        "word": "竟然有人不认识宋丹丹",
+        "onboard_time": 1685324127,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 782353,
+        "num": 782353,
+        "word": "费曼中了周杰伦的帽子",
+        "onboard_time": 1685328149,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 577125,
+        "num": 577125,
+        "word": "十个勤天",
+        "onboard_time": 1685330010,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 565757,
+        "num": 565757,
+        "word": "互联网真换了一批人啊",
+        "onboard_time": 1685326527,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 562255,
+        "num": 562255,
+        "word": "山姆超市同款蛋糕杭州卖165上海卖95",
+        "onboard_time": 1685320948,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37728,
+        "num": 497120,
+        "word": "老师用相机记录小学生6年成长",
+        "onboard_time": 1685333010,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466476,
+        "num": 466476,
+        "word": "宁安如梦又要空降了",
+        "onboard_time": 1685331989,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 413724,
+        "num": 413724,
+        "word": "马琳",
+        "onboard_time": 1685328927,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 391826,
+        "num": 391826,
+        "word": "肖战说王楚钦孙颖莎表现完美",
+        "onboard_time": 1685329949,
+        "rank": 17,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 351718,
+        "num": 351718,
+        "word": "张翰新剧演庄周",
+        "onboard_time": 1685332591,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275188,
+        "num": 275188,
+        "word": "虹猫蓝兔重制版",
+        "onboard_time": 1685329228,
+        "rank": 19,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 331583,
+        "num": 274443,
+        "word": "蔡徐坤身上好多彩钻",
+        "onboard_time": 1685332891,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279265,
+        "num": 273914,
+        "word": "种地吧",
+        "onboard_time": 1685332891,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271438,
+        "num": 271438,
+        "word": "一条龙鱼居然能换一套房",
+        "onboard_time": 1685333731,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248945,
+        "num": 248945,
+        "word": "河南阴雨 麦子发霉",
+        "onboard_time": 1685326408,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244059,
+        "num": 244059,
+        "word": "A股",
+        "onboard_time": 1685331030,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 276887,
+        "num": 243574,
+        "word": "王源 赵英俊",
+        "onboard_time": 1685314879,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 256325,
+        "num": 241422,
+        "word": "网友新疆偶遇吴磊骑行",
+        "onboard_time": 1685287770,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233747,
+        "num": 233747,
+        "word": "他用生命最后76秒救了24名乘客",
+        "onboard_time": 1685322328,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253688,
+        "num": 233602,
+        "word": "赵今麦吴磊好配",
+        "onboard_time": 1685333248,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232526,
+        "num": 232526,
+        "word": "丫丫在竹子海洋里轻松微笑干饭",
+        "onboard_time": 1685322988,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299041,
+        "num": 232294,
+        "word": "GAI 活死人",
+        "onboard_time": 1685318546,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231858,
+        "num": 231858,
+        "word": "老公每月给你两万但不回家",
+        "onboard_time": 1685283752,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225481,
+        "num": 225481,
+        "word": "虞书欣杨天真阿那亚合照",
+        "onboard_time": 1685333850,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224884,
+        "num": 224884,
+        "word": "7个月宝宝患癌妈妈躲走廊自责落泪",
+        "onboard_time": 1685331568,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223950,
+        "num": 223950,
+        "word": "老年人再就业释放人口红利",
+        "onboard_time": 1685329107,
+        "rank": 34,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 211805,
+        "num": 211805,
+        "word": "萌兰",
+        "onboard_time": 1685327967,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207287,
+        "num": 207287,
+        "word": "一条微信状态让初中班主任找到我",
+        "onboard_time": 1685323888,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 195662,
+        "num": 195662,
+        "word": "丫丫笑成了表情包",
+        "onboard_time": 1685320109,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195382,
+        "num": 195382,
+        "word": "你知道七子之歌吗",
+        "onboard_time": 1685331268,
+        "rank": 38,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 194302,
+        "num": 194302,
+        "word": "在暴雪时分全阵容官宣",
+        "onboard_time": 1685328569,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193231,
+        "num": 193231,
+        "word": "好多明星去了五月天演唱会",
+        "onboard_time": 1685330429,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193194,
+        "num": 193194,
+        "word": "不要因为同事关系而离职",
+        "onboard_time": 1685333731,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 186984,
+        "num": 186984,
+        "word": "山姆回应同款蛋糕各地不同价",
+        "onboard_time": 1685329407,
+        "rank": 42,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 447061,
+        "num": 186392,
+        "word": "男孩进店买水恶意踢11个月婴儿一脚",
+        "onboard_time": 1685328569,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184835,
+        "num": 184835,
+        "word": "容祖儿 抢票",
+        "onboard_time": 1685329407,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183592,
+        "num": 183592,
+        "word": "宁安如梦",
+        "onboard_time": 1685331209,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181573,
+        "num": 181573,
+        "word": "俄对乌开出停火要求",
+        "onboard_time": 1685333491,
+        "rank": 46,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 175307,
+        "num": 175307,
+        "word": "丫丫需静养现不对外展出",
+        "onboard_time": 1685317405,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171018,
+        "num": 171018,
+        "word": "对着女歌手唱这种词合适吗",
+        "onboard_time": 1685319271,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158049,
+        "num": 158049,
+        "word": "微信文字讨好症",
+        "onboard_time": 1685284472,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国高铁如何创造世界之最#"
+    }
+  }
+}
