@@ -1,0 +1,410 @@
+{
+  "runTime": 1685367211844,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2003470,
+        "num": 2003470,
+        "word": "YammerS确认已离世",
+        "onboard_time": 1685365350,
+        "rank": 0,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 1215052,
+        "num": 1215052,
+        "word": "丫丫",
+        "onboard_time": 1685359110,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156611,
+        "num": 944187,
+        "word": "中国顶级实验室有多牛",
+        "onboard_time": 1685364149,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1972632,
+        "num": 943629,
+        "word": "金子涵到底发生了什么",
+        "onboard_time": 1685362766,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 933600,
+        "num": 933600,
+        "word": "男子吃火锅遇假茅台被服务员提醒",
+        "onboard_time": 1685358929,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719074,
+        "num": 719074,
+        "word": "TFBOYS十周年有望合体",
+        "onboard_time": 1685360308,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 619541,
+        "num": 619541,
+        "word": "第一次见高考保送书",
+        "onboard_time": 1685362528,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 546593,
+        "num": 546593,
+        "word": "腾讯视频排播",
+        "onboard_time": 1685362948,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 508345,
+        "num": 508345,
+        "word": "刘浩存五月天演唱会和宋威龙视频",
+        "onboard_time": 1685352029,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 444450,
+        "num": 444450,
+        "word": "电视剧公诉观后感",
+        "onboard_time": 1685363970,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 465473,
+        "num": 436159,
+        "word": "吉林高三女生失联6个月后遗体被发现",
+        "onboard_time": 1685344406,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427622,
+        "num": 427622,
+        "word": "22年前被任贤齐救过的女孩来看演唱会了",
+        "onboard_time": 1685352089,
+        "rank": 11,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 400170,
+        "num": 400170,
+        "word": "一到二十岁 血脉就开始觉醒",
+        "onboard_time": 1685363308,
+        "rank": 12,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 382587,
+        "num": 382587,
+        "word": "天蝎座在感情中太矛盾了",
+        "onboard_time": 1685363366,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39236,
+        "num": 370423,
+        "word": "品如艾莉再次PK",
+        "onboard_time": 1685365230,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369482,
+        "num": 369482,
+        "word": "柯基被砍当事人称将起诉离婚",
+        "onboard_time": 1685362287,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348029,
+        "num": 348029,
+        "word": "再厉害的总裁也得给姥姥送桌子",
+        "onboard_time": 1685361207,
+        "rank": 16,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 341526,
+        "num": 341526,
+        "word": "高考307分女孩考研逆袭211",
+        "onboard_time": 1685347166,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 302812,
+        "num": 302812,
+        "word": "公诉收视",
+        "onboard_time": 1685366008,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301220,
+        "num": 301220,
+        "word": "椰树审美",
+        "onboard_time": 1685365350,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602707,
+        "num": 299591,
+        "word": "全世界都在等你们分手",
+        "onboard_time": 1685357609,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 432788,
+        "num": 298753,
+        "word": "吴磊哭着蹭赵今麦肩膀",
+        "onboard_time": 1685363067,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297200,
+        "num": 297200,
+        "word": "千万别去北方看音乐节",
+        "onboard_time": 1685365289,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 281740,
+        "num": 281740,
+        "word": "公诉",
+        "onboard_time": 1685360607,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247877,
+        "num": 247877,
+        "word": "椰树男模",
+        "onboard_time": 1685365528,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239446,
+        "num": 239446,
+        "word": "田曦薇别再瘦了",
+        "onboard_time": 1685344045,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232233,
+        "num": 232233,
+        "word": "千万不要等年纪大了再去旅游",
+        "onboard_time": 1685360966,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227262,
+        "num": 227262,
+        "word": "迪丽热巴安旎输出王者",
+        "onboard_time": 1685365648,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215942,
+        "num": 215942,
+        "word": "秋瓷炫蹦迪",
+        "onboard_time": 1685366489,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183729,
+        "num": 206323,
+        "word": "肠道是熬夜猝死元凶之一",
+        "onboard_time": 1685356646,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202965,
+        "num": 202965,
+        "word": "卡戴珊家族担心没生儿子姓氏失传",
+        "onboard_time": 1685352924,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200724,
+        "num": 200724,
+        "word": "iPhone15",
+        "onboard_time": 1685353047,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 195893,
+        "num": 195893,
+        "word": "老人衣衫不整把手伸向女童",
+        "onboard_time": 1685350647,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193816,
+        "num": 193816,
+        "word": "对不住了海南岛",
+        "onboard_time": 1685364269,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185986,
+        "num": 185986,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1685353588,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183922,
+        "num": 183922,
+        "word": "丫丫和萌兰在国画里先见面啦",
+        "onboard_time": 1685357788,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179789,
+        "num": 179789,
+        "word": "张嘉倪徐怀钰赵丽娜各跳各的",
+        "onboard_time": 1685345431,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175948,
+        "num": 175948,
+        "word": "你不认识SHE我不认识101",
+        "onboard_time": 1685339425,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170341,
+        "num": 170341,
+        "word": "穿了吊带老师不让我进教室",
+        "onboard_time": 1685347709,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167067,
+        "num": 167067,
+        "word": "yammers",
+        "onboard_time": 1685356229,
+        "rank": 39,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 166721,
+        "num": 166721,
+        "word": "TT对战FPX",
+        "onboard_time": 1685366069,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155198,
+        "num": 155198,
+        "word": "时代峰峻备案十年",
+        "onboard_time": 1685357186,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152048,
+        "num": 152048,
+        "word": "光与夜之恋 偷跑",
+        "onboard_time": 1685355629,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139416,
+        "num": 139416,
+        "word": "美国歌迷为见华晨宇学中文",
+        "onboard_time": 1685361207,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133160,
+        "num": 133160,
+        "word": "BLACKPINK官博编辑文案",
+        "onboard_time": 1685349809,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123309,
+        "num": 123309,
+        "word": "杨洋说好作品和人生都是修炼",
+        "onboard_time": 1685366607,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121685,
+        "num": 121685,
+        "word": "iPhone16Pro机型为6.3和6.9英寸",
+        "onboard_time": 1685345728,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 107475,
+        "num": 107475,
+        "word": "94岁奶奶雨天探亲迷路民警及时护送",
+        "onboard_time": 1685366550,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105823,
+        "num": 105823,
+        "word": "护心开始甜了",
+        "onboard_time": 1685367032,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104099,
+        "num": 104099,
+        "word": "酷云",
+        "onboard_time": 1685365827,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#现在进入神舟十六号时间#"
+    }
+  }
+}

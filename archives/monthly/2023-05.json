@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685366393933,
+  "endTime": 1685367211844,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -2099,6 +2099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2003470,
+      "num": 2003470,
+      "word": "YammerS确认已离世",
+      "onboard_time": 1685365350,
+      "rank": 10,
+      "category": "社会新闻,游戏"
+    },
+    {
       "raw_hot": 1999829,
       "num": 522367,
       "word": "网友自称曾霸凌刘亦菲",
@@ -2161,6 +2169,14 @@
       "onboard_time": 1683156265,
       "rank": 10,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1972632,
+      "num": 943629,
+      "word": "金子涵到底发生了什么",
+      "onboard_time": 1685362766,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1968455,
@@ -2257,14 +2273,6 @@
       "onboard_time": 1683011906,
       "rank": 20,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 1938777,
-      "num": 635542,
-      "word": "金子涵到底发生了什么",
-      "onboard_time": 1685362766,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1937119,
@@ -6929,14 +6937,6 @@
       "onboard_time": 1684464090,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1150922,
-      "num": 449770,
-      "word": "YammerS确认已离世",
-      "onboard_time": 1685365350,
-      "rank": 10,
-      "category": "社会新闻,游戏"
     },
     {
       "raw_hot": 1149948,
@@ -11731,6 +11731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 719074,
+      "num": 719074,
+      "word": "TFBOYS十周年有望合体",
+      "onboard_time": 1685360308,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 718515,
       "num": 718515,
       "word": "五迷抵制黄牛",
@@ -13179,14 +13187,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 632781,
-      "num": 632781,
-      "word": "TFBOYS十周年有望合体",
-      "onboard_time": 1685360308,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 632654,
       "num": 632654,
       "word": "石川佳纯宣布退役",
@@ -13457,6 +13457,14 @@
       "onboard_time": 1684934971,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 619541,
+      "num": 619541,
+      "word": "第一次见高考保送书",
+      "onboard_time": 1685362528,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 619076,
@@ -13825,14 +13833,6 @@
       "onboard_time": 1683867394,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 602957,
-      "num": 602957,
-      "word": "第一次见高考保送书",
-      "onboard_time": 1685362528,
-      "rank": 31,
-      "category": "教育"
     },
     {
       "raw_hot": 602734,
@@ -15435,6 +15435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 546593,
+      "num": 546593,
+      "word": "腾讯视频排播",
+      "onboard_time": 1685362948,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 545683,
       "num": 545683,
       "word": "BLACKPINK演唱会",
@@ -15489,14 +15497,6 @@
       "onboard_time": 1684468712,
       "rank": 16,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 544738,
-      "num": 544738,
-      "word": "腾讯视频排播",
-      "onboard_time": 1685362948,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 544712,
@@ -18708,7 +18708,7 @@
     },
     {
       "raw_hot": 460720,
-      "num": 297802,
+      "num": 298753,
       "word": "吴磊哭着蹭赵今麦肩膀",
       "onboard_time": 1685363067,
       "rank": 32,
@@ -21564,7 +21564,7 @@
     },
     {
       "raw_hot": 407473,
-      "num": 207792,
+      "num": 348029,
       "word": "再厉害的总裁也得给姥姥送桌子",
       "onboard_time": 1685361207,
       "rank": 30,
@@ -22049,6 +22049,14 @@
       "onboard_time": 1684725448,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 400170,
+      "num": 400170,
+      "word": "一到二十岁 血脉就开始觉醒",
+      "onboard_time": 1685363308,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 400003,
@@ -23201,6 +23209,14 @@
       "onboard_time": 1683348215,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382587,
+      "num": 382587,
+      "word": "天蝎座在感情中太矛盾了",
+      "onboard_time": 1685363366,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 382551,
@@ -26683,28 +26699,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 337187,
-      "num": 337187,
-      "word": "一到二十岁 血脉就开始觉醒",
-      "onboard_time": 1685363308,
-      "rank": 46,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 337106,
       "num": 307905,
       "word": "蒋雯丽明道你们图啥",
       "onboard_time": 1683789629,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 337076,
-      "num": 337076,
-      "word": "天蝎座在感情中太矛盾了",
-      "onboard_time": 1685363366,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 337063,
@@ -29539,6 +29539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 302812,
+      "num": 302812,
+      "word": "公诉收视",
+      "onboard_time": 1685366008,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 302806,
       "num": 302806,
       "word": "杨洋在KTV吃面",
@@ -30097,6 +30105,14 @@
       "onboard_time": 1683159811,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297200,
+      "num": 297200,
+      "word": "千万别去北方看音乐节",
+      "onboard_time": 1685365289,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 297190,
@@ -36083,6 +36099,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 247877,
+      "num": 247877,
+      "word": "椰树男模",
+      "onboard_time": 1685365528,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247871,
       "num": 247871,
       "word": "街舞新领队或将是Lisa和RAIN",
@@ -39451,6 +39475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227262,
+      "num": 227262,
+      "word": "迪丽热巴安旎输出王者",
+      "onboard_time": 1685365648,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226929,
       "num": 226929,
       "word": "郑容和综艺",
@@ -40947,14 +40979,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 217489,
-      "num": 217489,
-      "word": "千万别去北方看音乐节",
-      "onboard_time": 1685365289,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 217474,
       "num": 217474,
       "word": "汪卓成编辑记录",
@@ -41281,6 +41305,14 @@
       "onboard_time": 1683585134,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215942,
+      "num": 215942,
+      "word": "秋瓷炫蹦迪",
+      "onboard_time": 1685366489,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 215936,
@@ -42001,14 +42033,6 @@
       "onboard_time": 1684376666,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 211724,
-      "num": 211724,
-      "word": "椰树男模",
-      "onboard_time": 1685365528,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211588,
@@ -45275,14 +45299,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 193923,
-      "num": 203207,
-      "word": "迪丽热巴安旎输出王者",
-      "onboard_time": 1685365648,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 193845,
       "num": 193845,
       "word": "男子非礼酒吧女歌手不成气急败坏",
@@ -45296,6 +45312,14 @@
       "word": "三花成为猫中女神是有原因的",
       "onboard_time": 1684814730,
       "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 193816,
+      "num": 193816,
+      "word": "对不住了海南岛",
+      "onboard_time": 1685364269,
+      "rank": 49,
       "category": "幽默"
     },
     {
@@ -47281,14 +47305,6 @@
       "onboard_time": 1684891231,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183503,
-      "num": 183503,
-      "word": "对不住了海南岛",
-      "onboard_time": 1685364269,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 183495,
@@ -50579,14 +50595,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 165881,
-      "num": 165881,
-      "word": "公诉收视",
-      "onboard_time": 1685366008,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 165809,
       "num": 165809,
       "word": "挖呀挖首发原创争论伤害了谁",
@@ -52233,6 +52241,14 @@
       "onboard_time": 1682956165,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156611,
+      "num": 944187,
+      "word": "中国顶级实验室有多牛",
+      "onboard_time": 1685364149,
+      "rank": 2,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 156551,
@@ -56507,14 +56523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128798,
-      "num": 646848,
-      "word": "中国顶级实验室有多牛",
-      "onboard_time": 1685364149,
-      "rank": 2,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 128682,
       "num": 128682,
       "word": "朱珠说心疼Amber",
@@ -57217,6 +57225,14 @@
       "onboard_time": 1685272886,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123309,
+      "num": 123309,
+      "word": "杨洋说好作品和人生都是修炼",
+      "onboard_time": 1685366607,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 123176,
@@ -58755,6 +58771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 107475,
+      "num": 107475,
+      "word": "94岁奶奶雨天探亲迷路民警及时护送",
+      "onboard_time": 1685366550,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107456,
       "num": 214834,
       "word": "收到心仪offer有多激动",
@@ -58849,6 +58873,14 @@
       "onboard_time": 1685006007,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 105823,
+      "num": 105823,
+      "word": "护心开始甜了",
+      "onboard_time": 1685367032,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 105813,
@@ -62379,6 +62411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39236,
+      "num": 370423,
+      "word": "品如艾莉再次PK",
+      "onboard_time": 1685365230,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39016,
       "num": 46762,
       "word": "大城市节奏就是快",
@@ -62729,14 +62769,6 @@
       "onboard_time": 1684858168,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 29746,
-      "num": 356889,
-      "word": "品如艾莉再次PK",
-      "onboard_time": 1685365230,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 29344,
@@ -63565,6 +63597,9 @@
     },
     {
       "word": "#2030年前实现中国人登陆月球#"
+    },
+    {
+      "word": "#现在进入神舟十六号时间#"
     }
   ]
 }
