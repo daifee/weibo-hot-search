@@ -1,0 +1,410 @@
+{
+  "runTime": 1685360011249,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2594055,
+        "num": 2594055,
+        "word": "白百何聚会抽烟",
+        "onboard_time": 1685357368,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 814851,
+        "num": 1783732,
+        "word": "高考307分女孩考研逆袭211",
+        "onboard_time": 1685347166,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 52429,
+        "num": 1498440,
+        "word": "神舟十六号航天员见面会",
+        "onboard_time": 1685346328,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1425401,
+        "num": 1425401,
+        "word": "砍死柯基男子被拘留12天",
+        "onboard_time": 1685359110,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617877,
+        "num": 966080,
+        "word": "22年前被任贤齐救过的女孩来看演唱会了",
+        "onboard_time": 1685352089,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 930373,
+        "num": 930373,
+        "word": "gemini求婚",
+        "onboard_time": 1685352806,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 498926,
+        "num": 698710,
+        "word": "3位盲人演员误入高速交警开车送返",
+        "onboard_time": 1685353828,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 684265,
+        "num": 684265,
+        "word": "椰树男模直播穿的是老板同款",
+        "onboard_time": 1685355808,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 650460,
+        "num": 650460,
+        "word": "刘浩存五月天演唱会和宋威龙视频",
+        "onboard_time": 1685352029,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 584925,
+        "num": 584925,
+        "word": "付辛博带路人儿子上厕所",
+        "onboard_time": 1685346268,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 931789,
+        "num": 577573,
+        "word": "柯基被砍当事人再发声",
+        "onboard_time": 1685342365,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546654,
+        "num": 546654,
+        "word": "时代峰峻备案十年",
+        "onboard_time": 1685357186,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473003,
+        "num": 473003,
+        "word": "你不认识SHE我不认识101",
+        "onboard_time": 1685339425,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 469124,
+        "num": 469124,
+        "word": "田曦薇别再瘦了",
+        "onboard_time": 1685344045,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421785,
+        "num": 421785,
+        "word": "丫丫和萌兰在国画里先见面啦",
+        "onboard_time": 1685357788,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428473,
+        "num": 413338,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1685353588,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357234,
+        "num": 357234,
+        "word": "卡戴珊家族担心没生儿子姓氏失传",
+        "onboard_time": 1685352924,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353959,
+        "num": 353959,
+        "word": "iPhone16Pro机型为6.3和6.9英寸",
+        "onboard_time": 1685345728,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 333911,
+        "num": 333911,
+        "word": "吉林高三女生失联6个月后遗体被发现",
+        "onboard_time": 1685344406,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248348,
+        "num": 325435,
+        "word": "yammers",
+        "onboard_time": 1685356229,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 726755,
+        "num": 325304,
+        "word": "全世界都在等你们分手",
+        "onboard_time": 1685357609,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 358831,
+        "num": 325178,
+        "word": "迪丽热巴立flag发100多张自拍",
+        "onboard_time": 1685358509,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 325029,
+        "num": 325029,
+        "word": "男子吃火锅遇假茅台被服务员提醒",
+        "onboard_time": 1685358929,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299640,
+        "num": 299640,
+        "word": "肠道是熬夜猝死元凶之一",
+        "onboard_time": 1685356646,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266788,
+        "num": 266788,
+        "word": "穿了吊带老师不让我进教室",
+        "onboard_time": 1685347709,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 346564,
+        "num": 266501,
+        "word": "华晨宇演唱会回应法师称号",
+        "onboard_time": 1685355148,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 258754,
+        "num": 258754,
+        "word": "张嘉倪徐怀钰赵丽娜各跳各的",
+        "onboard_time": 1685345431,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213161,
+        "num": 213161,
+        "word": "老人衣衫不整把手伸向女童",
+        "onboard_time": 1685350647,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204926,
+        "num": 204926,
+        "word": "丫丫",
+        "onboard_time": 1685359110,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199806,
+        "num": 199806,
+        "word": "五月天请资助的学生看演唱会",
+        "onboard_time": 1685359166,
+        "rank": 29,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 196575,
+        "num": 196575,
+        "word": "光与夜之恋 偷跑",
+        "onboard_time": 1685355629,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194251,
+        "num": 194251,
+        "word": "BLACKPINK官博编辑文案",
+        "onboard_time": 1685349809,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174595,
+        "num": 174595,
+        "word": "张彬彬这野男人好会",
+        "onboard_time": 1685358088,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169404,
+        "num": 169404,
+        "word": "iPhone15",
+        "onboard_time": 1685353047,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 168825,
+        "num": 168825,
+        "word": "不是每个人都适合结婚",
+        "onboard_time": 1685344527,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164171,
+        "num": 164171,
+        "word": "紫色可以多惊艳",
+        "onboard_time": 1685350049,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161006,
+        "num": 161006,
+        "word": "迪丽热巴直播喇叭放浏阳河",
+        "onboard_time": 1685353947,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148854,
+        "num": 148854,
+        "word": "你们这个节目这么西化吗",
+        "onboard_time": 1685358387,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146394,
+        "num": 146394,
+        "word": "演唱会求婚",
+        "onboard_time": 1685352387,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145314,
+        "num": 145314,
+        "word": "吴敬平 我一直有个梦想在王楚钦身上",
+        "onboard_time": 1685358568,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144895,
+        "num": 144895,
+        "word": "宋亚轩演我看五月天演唱会",
+        "onboard_time": 1685352867,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131898,
+        "num": 131898,
+        "word": "Ella马来西亚人气",
+        "onboard_time": 1685356707,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128576,
+        "num": 128576,
+        "word": "手机屏幕为什么越做越大",
+        "onboard_time": 1685356887,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 121732,
+        "num": 121732,
+        "word": "熊猫梅兰过生日根本吃不完",
+        "onboard_time": 1685359708,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119322,
+        "num": 119322,
+        "word": "林诗栋",
+        "onboard_time": 1685353349,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119216,
+        "num": 119216,
+        "word": "虞书欣的上衣是草编的",
+        "onboard_time": 1685334571,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117936,
+        "num": 117936,
+        "word": "91岁爷爷买5个助听器坚持弹钢琴",
+        "onboard_time": 1685354428,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108856,
+        "num": 108856,
+        "word": "闺蜜嫁的远该不该去参加婚礼",
+        "onboard_time": 1685353828,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108658,
+        "num": 108658,
+        "word": "孟子义我们不是死绿茶",
+        "onboard_time": 1685351068,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102285,
+        "num": 102285,
+        "word": "领导凌晨一点给我发微信",
+        "onboard_time": 1685346567,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#国产大飞机9久为功鹏程万里#"
+    }
+  }
+}

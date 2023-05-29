@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685358845783,
+  "endTime": 1685360011249,
   "band_list": [
     {
       "raw_hot": 3128535,
@@ -17,6 +17,14 @@
       "onboard_time": 1685330848,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2594055,
+      "num": 2594055,
+      "word": "白百何聚会抽烟",
+      "onboard_time": 1685357368,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2377260,
@@ -51,14 +59,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1959792,
-      "num": 1959792,
-      "word": "白百何聚会抽烟",
-      "onboard_time": 1685357368,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1909808,
       "num": 1909808,
       "word": "上厕所途中千万不要冲厕所",
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1836031,
-      "num": 888942,
+      "num": 930373,
       "word": "gemini求婚",
       "onboard_time": 1685352806,
       "rank": 9,
@@ -129,6 +129,14 @@
       "onboard_time": 1685283752,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1425401,
+      "num": 1425401,
+      "word": "砍死柯基男子被拘留12天",
+      "onboard_time": 1685359110,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1422281,
@@ -324,11 +332,19 @@
     },
     {
       "raw_hot": 758694,
-      "num": 897323,
+      "num": 966080,
       "word": "22年前被任贤齐救过的女孩来看演唱会了",
       "onboard_time": 1685352089,
       "rank": 14,
       "category": "社会新闻,音乐"
+    },
+    {
+      "raw_hot": 726755,
+      "num": 325304,
+      "word": "全世界都在等你们分手",
+      "onboard_time": 1685357609,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 709263,
@@ -353,6 +369,14 @@
       "onboard_time": 1685279549,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 684265,
+      "num": 684265,
+      "word": "椰树男模直播穿的是老板同款",
+      "onboard_time": 1685355808,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 669254,
@@ -403,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 614512,
-      "num": 543042,
-      "word": "椰树男模直播穿的是老板同款",
-      "onboard_time": 1685355808,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 611255,
       "num": 883286,
       "word": "3位盲人演员误入高速交警开车送返",
@@ -459,14 +475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 560955,
-      "num": 251160,
-      "word": "全世界都在等你们分手",
-      "onboard_time": 1685357609,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 556392,
       "num": 556392,
       "word": "胖莎",
@@ -489,6 +497,14 @@
       "onboard_time": 1685328569,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 546654,
+      "num": 546654,
+      "word": "时代峰峻备案十年",
+      "onboard_time": 1685357186,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 526966,
@@ -563,14 +579,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 464203,
-      "num": 379381,
-      "word": "时代峰峻备案十年",
-      "onboard_time": 1685357186,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 460997,
       "num": 292464,
       "word": "虹猫蓝兔重制版",
@@ -609,6 +617,14 @@
       "onboard_time": 1685337868,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 421785,
+      "num": 421785,
+      "word": "丫丫和萌兰在国画里先见面啦",
+      "onboard_time": 1685357788,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 420448,
@@ -747,6 +763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 358831,
+      "num": 325178,
+      "word": "迪丽热巴立flag发100多张自拍",
+      "onboard_time": 1685358509,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356089,
       "num": 356089,
       "word": "北京动物园回应丫丫是否展出",
@@ -819,6 +843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 325029,
+      "num": 325029,
+      "word": "男子吃火锅遇假茅台被服务员提醒",
+      "onboard_time": 1685358929,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321106,
       "num": 321106,
       "word": "虞书欣杨天真阿那亚合照",
@@ -876,7 +908,7 @@
     },
     {
       "raw_hot": 303644,
-      "num": 244276,
+      "num": 299640,
       "word": "肠道是熬夜猝死元凶之一",
       "onboard_time": 1685356646,
       "rank": 22,
@@ -1100,7 +1132,7 @@
     },
     {
       "raw_hot": 251190,
-      "num": 251190,
+      "num": 325435,
       "word": "yammers",
       "onboard_time": 1685356229,
       "rank": 39,
@@ -1283,14 +1315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224446,
-      "num": 224446,
-      "word": "丫丫和萌兰在国画里先见面啦",
-      "onboard_time": 1685357788,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 224167,
       "num": 224167,
       "word": "贡菜毛肚螺蛳粉",
@@ -1369,14 +1393,6 @@
       "onboard_time": 1685334090,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211832,
-      "num": 211832,
-      "word": "迪丽热巴立flag发100多张自拍",
-      "onboard_time": 1685358509,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 211504,
@@ -1465,6 +1481,14 @@
       "onboard_time": 1685321848,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199806,
+      "num": 199806,
+      "word": "五月天请资助的学生看演唱会",
+      "onboard_time": 1685359166,
+      "rank": 29,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 198616,
@@ -1843,12 +1867,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 148854,
+      "num": 148854,
+      "word": "你们这个节目这么西化吗",
+      "onboard_time": 1685358387,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146310,
       "num": 146310,
       "word": "薛之谦武汉",
       "onboard_time": 1685354190,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 145314,
+      "num": 145314,
+      "word": "吴敬平 我一直有个梦想在王楚钦身上",
+      "onboard_time": 1685358568,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 144916,
@@ -1929,14 +1969,6 @@
       "onboard_time": 1685273427,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133758,
-      "num": 133758,
-      "word": "你们这个节目这么西化吗",
-      "onboard_time": 1685358387,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 133144,
@@ -2067,6 +2099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 121732,
+      "num": 121732,
+      "word": "熊猫梅兰过生日根本吃不完",
+      "onboard_time": 1685359708,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121521,
       "num": 121521,
       "word": "UP对战AL",
@@ -2105,14 +2145,6 @@
       "onboard_time": 1685349208,
       "rank": 49,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 110101,
-      "num": 110101,
-      "word": "吴敬平 我一直有个梦想在王楚钦身上",
-      "onboard_time": 1685358568,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 104715,
@@ -2212,7 +2244,7 @@
     },
     {
       "raw_hot": 70124,
-      "num": 1400039,
+      "num": 1498440,
       "word": "神舟十六号航天员见面会",
       "onboard_time": 1685346328,
       "rank": 2,
