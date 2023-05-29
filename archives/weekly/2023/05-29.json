@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685364552289,
+  "endTime": 1685366393933,
   "band_list": [
     {
       "raw_hot": 3128535,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1938777,
+      "num": 635542,
+      "word": "金子涵到底发生了什么",
+      "onboard_time": 1685362766,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1909808,
       "num": 1909808,
       "word": "上厕所途中千万不要冲厕所",
@@ -97,14 +105,6 @@
       "onboard_time": 1685320948,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1616294,
-      "num": 635542,
-      "word": "金子涵到底发生了什么",
-      "onboard_time": 1685362766,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1579628,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1150922,
+      "num": 449770,
+      "word": "YammerS确认已离世",
+      "onboard_time": 1685365350,
+      "rank": 10,
+      "category": "社会新闻,游戏"
+    },
+    {
       "raw_hot": 1138318,
       "num": 1138318,
       "word": "竟然有人不认识宋丹丹",
@@ -291,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 942438,
+      "num": 942438,
+      "word": "男子吃火锅遇假茅台被服务员提醒",
+      "onboard_time": 1685358929,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 911171,
       "num": 911171,
       "word": "刘浩存五月天演唱会和宋威龙视频",
@@ -321,14 +337,6 @@
       "onboard_time": 1685328149,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 828101,
-      "num": 828101,
-      "word": "男子吃火锅遇假茅台被服务员提醒",
-      "onboard_time": 1685358929,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 819265,
@@ -427,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 628499,
+      "num": 628499,
+      "word": "丫丫",
+      "onboard_time": 1685276068,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 628445,
       "num": 628445,
       "word": "世界破破烂烂 小狗缝缝补补",
@@ -443,20 +459,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 617816,
-      "num": 617816,
-      "word": "丫丫",
-      "onboard_time": 1685276068,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 611255,
       "num": 883286,
       "word": "3位盲人演员误入高速交警开车送返",
       "onboard_time": 1685353828,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 602957,
+      "num": 602957,
+      "word": "第一次见高考保送书",
+      "onboard_time": 1685362528,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 597916,
@@ -555,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 525268,
+      "num": 525268,
+      "word": "椰树审美",
+      "onboard_time": 1685365350,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 520917,
       "num": 279726,
       "word": "皮皮",
@@ -627,12 +651,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 460720,
+      "num": 297802,
+      "word": "吴磊哭着蹭赵今麦肩膀",
+      "onboard_time": 1685363067,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 456470,
       "num": 456470,
       "word": "张大大 东农",
       "onboard_time": 1685338409,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 449780,
+      "num": 449780,
+      "word": "电视剧公诉观后感",
+      "onboard_time": 1685363970,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 448679,
@@ -657,14 +697,6 @@
       "onboard_time": 1685337868,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 427099,
-      "num": 205240,
-      "word": "第一次见高考保送书",
-      "onboard_time": 1685362528,
-      "rank": 31,
-      "category": "教育"
     },
     {
       "raw_hot": 421785,
@@ -716,7 +748,7 @@
     },
     {
       "raw_hot": 407473,
-      "num": 206957,
+      "num": 207792,
       "word": "再厉害的总裁也得给姥姥送桌子",
       "onboard_time": 1685361207,
       "rank": 30,
@@ -761,14 +793,6 @@
       "onboard_time": 1685362287,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 384403,
-      "num": 201661,
-      "word": "吴磊哭着蹭赵今麦肩膀",
-      "onboard_time": 1685363067,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 382103,
@@ -873,6 +897,22 @@
       "onboard_time": 1685331688,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337187,
+      "num": 337187,
+      "word": "一到二十岁 血脉就开始觉醒",
+      "onboard_time": 1685363308,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 337076,
+      "num": 337076,
+      "word": "天蝎座在感情中太矛盾了",
+      "onboard_time": 1685363366,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 336909,
@@ -1028,7 +1068,7 @@
     },
     {
       "raw_hot": 280574,
-      "num": 232412,
+      "num": 260505,
       "word": "千万不要等年纪大了再去旅游",
       "onboard_time": 1685360966,
       "rank": 22,
@@ -1427,6 +1467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 217489,
+      "num": 217489,
+      "word": "千万别去北方看音乐节",
+      "onboard_time": 1685365289,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216752,
       "num": 216752,
       "word": "薛之谦我欠你几首歌来着",
@@ -1464,6 +1512,14 @@
       "word": "比亚迪",
       "onboard_time": 1685334090,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211724,
+      "num": 211724,
+      "word": "椰树男模",
+      "onboard_time": 1685365528,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -1555,20 +1611,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 199916,
-      "num": 184459,
-      "word": "电视剧公诉观后感",
-      "onboard_time": 1685363970,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 199806,
       "num": 199806,
       "word": "五月天请资助的学生看演唱会",
       "onboard_time": 1685359166,
       "rank": 29,
       "category": "社会新闻,音乐"
+    },
+    {
+      "raw_hot": 199783,
+      "num": 207481,
+      "word": "TT对战FPX",
+      "onboard_time": 1685366069,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 198616,
@@ -1625,6 +1681,14 @@
       "onboard_time": 1685343807,
       "rank": 23,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 193923,
+      "num": 203207,
+      "word": "迪丽热巴安旎输出王者",
+      "onboard_time": 1685365648,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 193881,
@@ -1731,14 +1795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183894,
-      "num": 183894,
-      "word": "一到二十岁 血脉就开始觉醒",
-      "onboard_time": 1685363308,
-      "rank": 46,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 183592,
       "num": 183592,
       "word": "宁安如梦",
@@ -1753,6 +1809,14 @@
       "onboard_time": 1685327547,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 183503,
+      "num": 183503,
+      "word": "对不住了海南岛",
+      "onboard_time": 1685364269,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 179914,
@@ -1835,14 +1899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167502,
-      "num": 167502,
-      "word": "天蝎座在感情中太矛盾了",
-      "onboard_time": 1685363366,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 167467,
       "num": 167467,
       "word": "00后的下饭剧",
@@ -1873,6 +1929,14 @@
       "onboard_time": 1685318004,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165881,
+      "num": 165881,
+      "word": "公诉收视",
+      "onboard_time": 1685366008,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 164645,
@@ -1923,12 +1987,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 155980,
+      "num": 155980,
+      "word": "酷云",
+      "onboard_time": 1685365827,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 154869,
       "num": 154869,
       "word": "年轻人的生育意愿为什么越来越低",
       "onboard_time": 1685270610,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152576,
+      "num": 152576,
+      "word": "迪丽热巴公诉转身入局",
+      "onboard_time": 1685364989,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 151758,
@@ -2131,6 +2211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128798,
+      "num": 646848,
+      "word": "中国顶级实验室有多牛",
+      "onboard_time": 1685364149,
+      "rank": 2,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 128256,
       "num": 128256,
       "word": "王源演唱会最后一场的提词器",
@@ -2251,6 +2339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 113807,
+      "num": 113807,
+      "word": "糯米丸子蛋挞",
+      "onboard_time": 1685364927,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 111341,
       "num": 111341,
       "word": "女生读书工作的意义",
@@ -2273,14 +2369,6 @@
       "onboard_time": 1685276429,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 103129,
-      "num": 103129,
-      "word": "对不住了海南岛",
-      "onboard_time": 1685364269,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 99397,
@@ -2419,14 +2507,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 51929,
-      "num": 646848,
-      "word": "中国顶级实验室有多牛",
-      "onboard_time": 1685364149,
-      "rank": 2,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 36613,
       "num": 1917856,
       "word": "沉浸式体验虚拟未来世界",
@@ -2449,6 +2529,14 @@
       "onboard_time": 1685350049,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29746,
+      "num": 356889,
+      "word": "品如艾莉再次PK",
+      "onboard_time": 1685365230,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 25795,

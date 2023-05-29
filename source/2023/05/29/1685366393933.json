@@ -1,0 +1,410 @@
+{
+  "runTime": 1685366393933,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 942438,
+        "num": 942438,
+        "word": "男子吃火锅遇假茅台被服务员提醒",
+        "onboard_time": 1685358929,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628499,
+        "num": 628499,
+        "word": "丫丫",
+        "onboard_time": 1685359110,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128798,
+        "num": 605294,
+        "word": "中国顶级实验室有多牛",
+        "onboard_time": 1685364149,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1938777,
+        "num": 604718,
+        "word": "金子涵到底发生了什么",
+        "onboard_time": 1685362766,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 602957,
+        "num": 602957,
+        "word": "第一次见高考保送书",
+        "onboard_time": 1685362528,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 555284,
+        "num": 555284,
+        "word": "刘浩存五月天演唱会和宋威龙视频",
+        "onboard_time": 1685352029,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 555183,
+        "num": 555183,
+        "word": "TFBOYS十周年有望合体",
+        "onboard_time": 1685360308,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 526880,
+        "num": 526880,
+        "word": "腾讯视频排播",
+        "onboard_time": 1685362948,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 525268,
+        "num": 525268,
+        "word": "椰树审美",
+        "onboard_time": 1685365350,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449780,
+        "num": 449780,
+        "word": "电视剧公诉观后感",
+        "onboard_time": 1685363970,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1150922,
+        "num": 449770,
+        "word": "YammerS确认已离世",
+        "onboard_time": 1685365350,
+        "rank": 10,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 605247,
+        "num": 437002,
+        "word": "吉林高三女生失联6个月后遗体被发现",
+        "onboard_time": 1685344406,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423385,
+        "num": 423385,
+        "word": "22年前被任贤齐救过的女孩来看演唱会了",
+        "onboard_time": 1685352089,
+        "rank": 12,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 369423,
+        "num": 369423,
+        "word": "公诉",
+        "onboard_time": 1685360607,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29746,
+        "num": 356889,
+        "word": "品如艾莉再次PK",
+        "onboard_time": 1685365230,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352255,
+        "num": 352255,
+        "word": "高考307分女孩考研逆袭211",
+        "onboard_time": 1685347166,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 341045,
+        "num": 341045,
+        "word": "柯基被砍当事人称将起诉离婚",
+        "onboard_time": 1685362287,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337187,
+        "num": 337187,
+        "word": "一到二十岁 血脉就开始觉醒",
+        "onboard_time": 1685363308,
+        "rank": 17,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 337076,
+        "num": 337076,
+        "word": "天蝎座在感情中太矛盾了",
+        "onboard_time": 1685363366,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 723409,
+        "num": 309141,
+        "word": "椰树男模直播穿的是老板同款",
+        "onboard_time": 1685355808,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 514613,
+        "num": 297942,
+        "word": "全世界都在等你们分手",
+        "onboard_time": 1685357609,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 460720,
+        "num": 297802,
+        "word": "吴磊哭着蹭赵今麦肩膀",
+        "onboard_time": 1685363067,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267515,
+        "num": 267515,
+        "word": "田曦薇别再瘦了",
+        "onboard_time": 1685344045,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260505,
+        "num": 260505,
+        "word": "千万不要等年纪大了再去旅游",
+        "onboard_time": 1685360966,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238718,
+        "num": 238718,
+        "word": "张嘉倪徐怀钰赵丽娜各跳各的",
+        "onboard_time": 1685345431,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217489,
+        "num": 217489,
+        "word": "千万别去北方看音乐节",
+        "onboard_time": 1685365289,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215072,
+        "num": 215072,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1685353588,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211724,
+        "num": 211724,
+        "word": "椰树男模",
+        "onboard_time": 1685365528,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211266,
+        "num": 211266,
+        "word": "肠道是熬夜猝死元凶之一",
+        "onboard_time": 1685356646,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207863,
+        "num": 207863,
+        "word": "你不认识SHE我不认识101",
+        "onboard_time": 1685339425,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 322744,
+        "num": 207792,
+        "word": "再厉害的总裁也得给姥姥送桌子",
+        "onboard_time": 1685361207,
+        "rank": 30,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 199783,
+        "num": 207481,
+        "word": "TT对战FPX",
+        "onboard_time": 1685366069,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207469,
+        "num": 207469,
+        "word": "卡戴珊家族担心没生儿子姓氏失传",
+        "onboard_time": 1685352924,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193923,
+        "num": 203207,
+        "word": "迪丽热巴安旎输出王者",
+        "onboard_time": 1685365648,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203054,
+        "num": 203054,
+        "word": "丫丫和萌兰在国画里先见面啦",
+        "onboard_time": 1685357788,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187070,
+        "num": 187070,
+        "word": "老人衣衫不整把手伸向女童",
+        "onboard_time": 1685350647,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183503,
+        "num": 183503,
+        "word": "对不住了海南岛",
+        "onboard_time": 1685364269,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172493,
+        "num": 172493,
+        "word": "穿了吊带老师不让我进教室",
+        "onboard_time": 1685347709,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165881,
+        "num": 165881,
+        "word": "公诉收视",
+        "onboard_time": 1685366008,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161725,
+        "num": 161725,
+        "word": "iPhone15",
+        "onboard_time": 1685353047,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 155980,
+        "num": 155980,
+        "word": "酷云",
+        "onboard_time": 1685365827,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158093,
+        "num": 154684,
+        "word": "迪丽热巴立flag发100多张自拍",
+        "onboard_time": 1685358509,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153385,
+        "num": 153385,
+        "word": "时代峰峻备案十年",
+        "onboard_time": 1685357186,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152576,
+        "num": 152576,
+        "word": "迪丽热巴公诉转身入局",
+        "onboard_time": 1685364989,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150382,
+        "num": 150382,
+        "word": "光与夜之恋 偷跑",
+        "onboard_time": 1685355629,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149199,
+        "num": 149199,
+        "word": "iPhone16Pro机型为6.3和6.9英寸",
+        "onboard_time": 1685345728,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 148537,
+        "num": 148537,
+        "word": "美国歌迷为见华晨宇学中文",
+        "onboard_time": 1685361207,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132519,
+        "num": 132519,
+        "word": "yammers",
+        "onboard_time": 1685356229,
+        "rank": 47,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 126174,
+        "num": 126174,
+        "word": "BLACKPINK官博编辑文案",
+        "onboard_time": 1685349809,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113807,
+        "num": 113807,
+        "word": "糯米丸子蛋挞",
+        "onboard_time": 1685364927,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#国产大飞机9久为功鹏程万里#"
+    }
+  }
+}
