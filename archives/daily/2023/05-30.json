@@ -1,6 +1,6 @@
 {
   "startTime": 1685377320709,
-  "endTime": 1685385216349,
+  "endTime": 1685387639695,
   "band_list": [
     {
       "raw_hot": 2404694,
@@ -379,6 +379,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 110590,
+      "num": 59358,
+      "word": "官方回应怀孕4个月女子遭家暴",
+      "onboard_time": 1685383995,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104856,
       "num": 104856,
       "word": "成长就是越来越松弛的过程",
@@ -417,14 +425,6 @@
       "onboard_time": 1685355629,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 70052,
-      "num": 59358,
-      "word": "官方回应怀孕4个月女子遭家暴",
-      "onboard_time": 1685383995,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67071,
@@ -473,6 +473,22 @@
       "onboard_time": 1685385194,
       "rank": 45,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 26549,
+      "num": 26549,
+      "word": "女子骨折做手术后左腿变长2.3厘米",
+      "onboard_time": 1685386513,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20454,
+      "num": 20454,
+      "word": "公诉",
+      "onboard_time": 1685360607,
+      "rank": 49,
+      "category": "影视"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1685387639695,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 356215,
+        "num": 356215,
+        "word": "YammerS确认已离世",
+        "onboard_time": 1685365350,
+        "rank": 0,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 234533,
+        "num": 234533,
+        "word": "官方通报男子砍杀柯基威胁妻子",
+        "onboard_time": 1685371055,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10694,
+        "num": 176985,
+        "word": "中国人筑起攀向太空的天梯",
+        "onboard_time": 1685363909,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 147908,
+        "num": 147908,
+        "word": "刘浩存在海底捞给路人唱生日歌",
+        "onboard_time": 1685371055,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117372,
+        "num": 117372,
+        "word": "韩亚航空事件中空姐一直用身体挡住舱门",
+        "onboard_time": 1685370814,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108285,
+        "num": 108285,
+        "word": "四个显眼包",
+        "onboard_time": 1685370753,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76679,
+        "num": 76679,
+        "word": "肠道是熬夜猝死元凶之一",
+        "onboard_time": 1685356646,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72261,
+        "num": 72261,
+        "word": "你管周也这张脸叫普普通通",
+        "onboard_time": 1685370272,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 66661,
+        "num": 66661,
+        "word": "全世界都在等你们分手",
+        "onboard_time": 1685357609,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 64861,
+        "num": 64861,
+        "word": "原来这是焦虑的表现",
+        "onboard_time": 1685375010,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63929,
+        "num": 63929,
+        "word": "金子涵到底发生了什么",
+        "onboard_time": 1685362766,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 63355,
+        "num": 63355,
+        "word": "韩式演技",
+        "onboard_time": 1685374892,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 59833,
+        "num": 59833,
+        "word": "生死遗言",
+        "onboard_time": 1685379561,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56028,
+        "num": 56028,
+        "word": "吴磊哭着蹭赵今麦肩膀",
+        "onboard_time": 1685363067,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 52916,
+        "num": 52916,
+        "word": "yammers",
+        "onboard_time": 1685356229,
+        "rank": 14,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 55007,
+        "num": 52912,
+        "word": "白敬亭他叔",
+        "onboard_time": 1685370152,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52862,
+        "num": 52862,
+        "word": "河南79岁老农手捧发芽小麦抹泪",
+        "onboard_time": 1685375788,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47562,
+        "num": 47562,
+        "word": "上海一老人误将地铁扶手当售卖机",
+        "onboard_time": 1685370030,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45873,
+        "num": 45873,
+        "word": "活的累的根本原因",
+        "onboard_time": 1685377585,
+        "rank": 18,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 40297,
+        "num": 40297,
+        "word": "庾郎盘马地 却怕有春泥",
+        "onboard_time": 1685371774,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110590,
+        "num": 39949,
+        "word": "官方回应怀孕4个月女子遭家暴",
+        "onboard_time": 1685383995,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38497,
+        "num": 38497,
+        "word": "不要彩礼收到了婆婆的心意",
+        "onboard_time": 1685373451,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36603,
+        "num": 36603,
+        "word": "前夫婚礼现场女子拉横幅祝其纳妾",
+        "onboard_time": 1685373630,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36133,
+        "num": 36133,
+        "word": "张艺兴演唱会",
+        "onboard_time": 1685375130,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 32545,
+        "num": 32545,
+        "word": "易烊千玺怀化",
+        "onboard_time": 1685367812,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32282,
+        "num": 32282,
+        "word": "00后的辞职信有多硬气",
+        "onboard_time": 1685372734,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31895,
+        "num": 31895,
+        "word": "迪丽热巴公诉首播收视冠军",
+        "onboard_time": 1685369314,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31073,
+        "num": 31073,
+        "word": "千万别去北方看音乐节",
+        "onboard_time": 1685365289,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31051,
+        "num": 31051,
+        "word": "迪丽热巴 小心骗子听到没",
+        "onboard_time": 1685369132,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30588,
+        "num": 30588,
+        "word": "秋瓷炫蹦迪",
+        "onboard_time": 1685366489,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29901,
+        "num": 29901,
+        "word": "再厉害的总裁也得给姥姥送桌子",
+        "onboard_time": 1685361207,
+        "rank": 30,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 29682,
+        "num": 29682,
+        "word": "千万不要等年纪大了再去旅游",
+        "onboard_time": 1685360966,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29543,
+        "num": 29543,
+        "word": "天蝎座在感情中太矛盾了",
+        "onboard_time": 1685363366,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29244,
+        "num": 29244,
+        "word": "登月",
+        "onboard_time": 1685382197,
+        "rank": 33,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 28034,
+        "num": 28034,
+        "word": "刘亦菲仿妆小烟熏画法",
+        "onboard_time": 1685377464,
+        "rank": 34,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 27770,
+        "num": 27770,
+        "word": "男子吃火锅遇假茅台被服务员提醒",
+        "onboard_time": 1685358929,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27030,
+        "num": 27030,
+        "word": "孟子义笨蛋美女",
+        "onboard_time": 1685374171,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26549,
+        "num": 26549,
+        "word": "女子骨折做手术后左腿变长2.3厘米",
+        "onboard_time": 1685386513,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26417,
+        "num": 26417,
+        "word": "杨幂被小猫抢镜头",
+        "onboard_time": 1685369373,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25620,
+        "num": 25620,
+        "word": "公诉角色关键词海报",
+        "onboard_time": 1685380998,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25190,
+        "num": 25190,
+        "word": "第一次见高考保送书",
+        "onboard_time": 1685362528,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 24651,
+        "num": 24651,
+        "word": "TFBOYS十周年有望合体",
+        "onboard_time": 1685360308,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23023,
+        "num": 23023,
+        "word": "成长就是越来越松弛的过程",
+        "onboard_time": 1685376806,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21964,
+        "num": 21964,
+        "word": "原来猫猫爱掉毛是一种保护",
+        "onboard_time": 1685378483,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21867,
+        "num": 21867,
+        "word": "iPhone15",
+        "onboard_time": 1685353047,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 21777,
+        "num": 21777,
+        "word": "法网2023",
+        "onboard_time": 1685381238,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21641,
+        "num": 21641,
+        "word": "鸟鸟上综艺 展示人类多样性",
+        "onboard_time": 1685371417,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21141,
+        "num": 21141,
+        "word": "光与夜之恋 偷跑",
+        "onboard_time": 1685355629,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20479,
+        "num": 20479,
+        "word": "22年前被任贤齐救过的女孩来看演唱会了",
+        "onboard_time": 1685352089,
+        "rank": 48,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 20454,
+        "num": 20454,
+        "word": "公诉",
+        "onboard_time": 1685360607,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#国产大飞机9久为功鹏程万里#"
+    }
+  }
+}
