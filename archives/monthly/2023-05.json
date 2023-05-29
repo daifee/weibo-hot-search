@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685316806949,
+  "endTime": 1685324109981,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -401,6 +401,14 @@
       "onboard_time": 1684224508,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 3128535,
+      "num": 3128535,
+      "word": "丫丫一到家就被竹子包围了",
+      "onboard_time": 1685315900,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3114274,
@@ -3571,6 +3579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1605204,
+      "num": 1605204,
+      "word": "山姆超市同款蛋糕杭州卖165上海卖95",
+      "onboard_time": 1685320948,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1604125,
       "num": 1604125,
       "word": "普通人怎么拥有千万资产",
@@ -5107,6 +5123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1368251,
+      "num": 965497,
+      "word": "大姨妈正常周期到底是几天",
+      "onboard_time": 1685286213,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1368027,
       "num": 1368027,
       "word": "鹿晗 优先权",
@@ -5161,6 +5185,14 @@
       "onboard_time": 1684813470,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1360926,
+      "num": 451102,
+      "word": "柯基被活活砍死",
+      "onboard_time": 1685316141,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1360781,
@@ -5641,6 +5673,14 @@
       "onboard_time": 1683632308,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1293541,
+      "num": 1293541,
+      "word": "GAI 活死人",
+      "onboard_time": 1685318546,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1292529,
@@ -8275,6 +8315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 987341,
+      "num": 987341,
+      "word": "王源 赵英俊",
+      "onboard_time": 1685314879,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 987242,
       "num": 987242,
       "word": "深圳大学",
@@ -9225,6 +9273,14 @@
       "onboard_time": 1683096089,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 890363,
+      "num": 280801,
+      "word": "张丹峰说西宁是广西省会",
+      "onboard_time": 1685317524,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 889343,
@@ -11747,14 +11803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 697441,
-      "num": 697441,
-      "word": "大姨妈正常周期到底是几天",
-      "onboard_time": 1685286213,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 697132,
       "num": 697132,
       "word": "五月天演唱会 场控",
@@ -12321,14 +12369,6 @@
       "onboard_time": 1683969989,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 669940,
-      "num": 669940,
-      "word": "王源 赵英俊",
-      "onboard_time": 1685314879,
-      "rank": 6,
-      "category": "音乐"
     },
     {
       "raw_hot": 669568,
@@ -14049,6 +14089,14 @@
       "onboard_time": 1683685826,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 581891,
+      "num": 581891,
+      "word": "对着女歌手唱这种词合适吗",
+      "onboard_time": 1685319271,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 581418,
@@ -15883,6 +15931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 520917,
+      "num": 279726,
+      "word": "皮皮",
+      "onboard_time": 1685317886,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 520000,
       "num": 520000,
       "word": "桃子老师",
@@ -16499,6 +16555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 503560,
+      "num": 503560,
+      "word": "他用生命最后76秒救了24名乘客",
+      "onboard_time": 1685322328,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 503175,
       "num": 503175,
       "word": "去趟北京变成了雍和宫安检员",
@@ -16729,14 +16793,6 @@
       "onboard_time": 1684752989,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 494409,
-      "num": 494409,
-      "word": "丫丫一到家就被竹子包围了",
-      "onboard_time": 1685315900,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 494325,
@@ -18635,14 +18691,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 451102,
-      "num": 451102,
-      "word": "柯基被活活砍死",
-      "onboard_time": 1685316141,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 450800,
       "num": 303854,
       "word": "外国女子遭外卖员当街猥亵",
@@ -20355,6 +20403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 419340,
+      "num": 279416,
+      "word": "丫丫笑成了表情包",
+      "onboard_time": 1685320109,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 419300,
       "num": 419300,
       "word": "宝鸡一高中校长在教育局办公室被打",
@@ -20915,6 +20971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 408313,
+      "num": 245639,
+      "word": "上厕所途中千万不要冲厕所",
+      "onboard_time": 1685323827,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 408075,
       "num": 408075,
       "word": "你怎么看何赛飞为基层戏剧演员发声",
@@ -21345,6 +21409,14 @@
       "onboard_time": 1683521132,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 401536,
+      "num": 401536,
+      "word": "王一博作品疑似被恶意打分",
+      "onboard_time": 1685317284,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 401279,
@@ -25003,6 +25075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350428,
+      "num": 278867,
+      "word": "蔡徐坤发了个太阳",
+      "onboard_time": 1685323888,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 350329,
       "num": 350329,
       "word": "詹姆斯老了",
@@ -25795,6 +25875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 339893,
+      "num": 339893,
+      "word": "BLACKPINK文案引争议",
+      "onboard_time": 1685323528,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 339644,
       "num": 339644,
       "word": "400万粉丝财经大V徐某被判刑",
@@ -26241,6 +26329,14 @@
       "onboard_time": 1684329994,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 334300,
+      "num": 334300,
+      "word": "一外国人说广州人没礼貌",
+      "onboard_time": 1685317284,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 334295,
@@ -27321,6 +27417,14 @@
       "onboard_time": 1684212394,
       "rank": 23,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 320554,
+      "num": 320554,
+      "word": "神十六航天员公布",
+      "onboard_time": 1685322988,
+      "rank": 15,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 320490,
@@ -28609,6 +28713,14 @@
       "onboard_time": 1683444449,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 305324,
+      "num": 305324,
+      "word": "丫丫在竹子海洋里轻松微笑干饭",
+      "onboard_time": 1685322988,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305273,
@@ -30267,6 +30379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 288375,
+      "num": 288375,
+      "word": "丫丫需静养现不对外展出",
+      "onboard_time": 1685317405,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288290,
       "num": 164599,
       "word": "张子豪 真顶",
@@ -31203,6 +31323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281014,
+      "num": 281014,
+      "word": "姬颜baby",
+      "onboard_time": 1685316262,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280388,
       "num": 280388,
       "word": "行李箱放在售票处结果丢了",
@@ -31433,6 +31561,14 @@
       "onboard_time": 1684388252,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 278681,
+      "num": 278681,
+      "word": "山东一男子砍杀柯基威胁妻子",
+      "onboard_time": 1685323528,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278647,
@@ -32121,6 +32257,14 @@
       "onboard_time": 1683034057,
       "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 271678,
+      "num": 271678,
+      "word": "闪婚几天闹离婚男方索要6万彩礼",
+      "onboard_time": 1685316683,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271628,
@@ -33563,6 +33707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259385,
+      "num": 259385,
+      "word": "神舟十六号",
+      "onboard_time": 1685322867,
+      "rank": 26,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 259322,
       "num": 203983,
       "word": "张若昀小范大人定妆vlog",
@@ -34169,6 +34321,14 @@
       "onboard_time": 1685067987,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255097,
+      "num": 255097,
+      "word": "皇马官方祝贺樊振东",
+      "onboard_time": 1685318669,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 255095,
@@ -34841,6 +35001,14 @@
       "onboard_time": 1683086310,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 250273,
+      "num": 250273,
+      "word": "Rose和Lisa是姐控吧",
+      "onboard_time": 1685316683,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 250244,
@@ -36275,6 +36443,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 239840,
+      "num": 239840,
+      "word": "东宫虐还是周生如故虐",
+      "onboard_time": 1685323346,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 239816,
       "num": 239816,
       "word": "情绪低落时的解压方式",
@@ -36675,6 +36851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237242,
+      "num": 237242,
+      "word": "桂海潮",
+      "onboard_time": 1685323649,
+      "rank": 32,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 237226,
       "num": 237226,
       "word": "白鹿到达上海",
@@ -37024,6 +37208,14 @@
       "word": "保洁阿姨捡到40万现金报警",
       "onboard_time": 1685189130,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235395,
+      "num": 235395,
+      "word": "丫丫肉眼可见地胖了",
+      "onboard_time": 1685316804,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -38291,6 +38483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 227636,
+      "num": 227636,
+      "word": "一次煮了一周的米饭",
+      "onboard_time": 1685317824,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 227610,
       "num": 199033,
       "word": "妻子输液还抱娃丈夫一旁玩手机",
@@ -39259,6 +39459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220577,
+      "num": 220577,
+      "word": "终于捡到自愿的猫猫了",
+      "onboard_time": 1685319747,
+      "rank": 35,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 220552,
       "num": 220552,
       "word": "孙颖莎 德班",
@@ -39969,6 +40177,14 @@
       "onboard_time": 1684585888,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216752,
+      "num": 216752,
+      "word": "薛之谦我欠你几首歌来着",
+      "onboard_time": 1685320409,
+      "rank": 36,
+      "category": "音乐,幽默"
     },
     {
       "raw_hot": 216742,
@@ -41113,6 +41329,14 @@
       "onboard_time": 1683695622,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209671,
+      "num": 209671,
+      "word": "戴佩妮口误",
+      "onboard_time": 1685321668,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 209608,
@@ -42491,6 +42715,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 201730,
+      "num": 201730,
+      "word": "有人相爱有人下海",
+      "onboard_time": 1685321848,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201723,
       "num": 201723,
       "word": "杭州西湖水域不允许擅自下水",
@@ -43619,6 +43851,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 195354,
+      "num": 195354,
+      "word": "一条微信状态让初中班主任找到我",
+      "onboard_time": 1685323888,
+      "rank": 39,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 195330,
       "num": 195330,
       "word": "二阳会留下后遗症吗",
@@ -44625,6 +44865,14 @@
       "onboard_time": 1685068648,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190397,
+      "num": 190397,
+      "word": "美依礼芽安利值断层第一",
+      "onboard_time": 1685319087,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 190291,
@@ -48827,6 +49075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167760,
+      "num": 167760,
+      "word": "白敬亭主打一个忙碌",
+      "onboard_time": 1685320350,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167759,
       "num": 167759,
       "word": "苏有朋用倚天台词为贾静雯打call",
@@ -48993,6 +49249,14 @@
       "onboard_time": 1683035498,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 166728,
+      "num": 166728,
+      "word": "回头率这么高是有原因的",
+      "onboard_time": 1685318004,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 166562,
@@ -50139,6 +50403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 159476,
+      "num": 159476,
+      "word": "王源对赵英俊照片说看吧我们都记得你",
+      "onboard_time": 1685320469,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 159466,
       "num": 159466,
       "word": "警方已申请刘亚仁拘捕令",
@@ -50169,6 +50441,14 @@
       "onboard_time": 1682952932,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 159310,
+      "num": 159310,
+      "word": "你的姓氏加上你的生肖叫什么",
+      "onboard_time": 1685318669,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 159290,
@@ -57611,14 +57891,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 97572,
-      "num": 97572,
-      "word": "姬颜baby",
-      "onboard_time": 1685316262,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97544,
       "num": 97544,
       "word": "的哥路遇男孩说想看飞机",
@@ -57769,14 +58041,6 @@
       "onboard_time": 1683960448,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 95135,
-      "num": 95135,
-      "word": "闪婚几天闹离婚男方索要6万彩礼",
-      "onboard_time": 1685316683,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95098,
@@ -59273,14 +59537,6 @@
       "onboard_time": 1684029926,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 68418,
-      "num": 68418,
-      "word": "Rose和Lisa是姐控吧",
-      "onboard_time": 1685316683,
-      "rank": 48,
-      "category": "音乐"
     },
     {
       "raw_hot": 68288,

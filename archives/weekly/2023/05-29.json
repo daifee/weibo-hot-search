@@ -1,7 +1,23 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685316806949,
+  "endTime": 1685324109981,
   "band_list": [
+    {
+      "raw_hot": 3128535,
+      "num": 3128535,
+      "word": "丫丫一到家就被竹子包围了",
+      "onboard_time": 1685315900,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1605204,
+      "num": 1605204,
+      "word": "山姆超市同款蛋糕杭州卖165上海卖95",
+      "onboard_time": 1685320948,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1579628,
       "num": 1579628,
@@ -19,11 +35,43 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1368251,
+      "num": 965497,
+      "word": "大姨妈正常周期到底是几天",
+      "onboard_time": 1685286213,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1360926,
+      "num": 451102,
+      "word": "柯基被活活砍死",
+      "onboard_time": 1685316141,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1293541,
+      "num": 1293541,
+      "word": "GAI 活死人",
+      "onboard_time": 1685318546,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1075560,
       "num": 1075560,
       "word": "五月天欠下九十万斤水饺的债",
       "onboard_time": 1685279789,
       "rank": 1,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 987341,
+      "num": 987341,
+      "word": "王源 赵英俊",
+      "onboard_time": 1685314879,
+      "rank": 6,
       "category": "音乐"
     },
     {
@@ -40,6 +88,14 @@
       "word": "祝绪丹说迪丽热巴照片有她拍的",
       "onboard_time": 1685276908,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 890363,
+      "num": 280801,
+      "word": "张丹峰说西宁是广西省会",
+      "onboard_time": 1685317524,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -67,22 +123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 697441,
-      "num": 697441,
-      "word": "大姨妈正常周期到底是几天",
-      "onboard_time": 1685286213,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 669940,
-      "num": 669940,
-      "word": "王源 赵英俊",
-      "onboard_time": 1685314879,
-      "rank": 6,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 669254,
       "num": 669254,
       "word": "王源妈妈看演唱会被拦在门外",
@@ -107,12 +147,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 581891,
+      "num": 581891,
+      "word": "对着女歌手唱这种词合适吗",
+      "onboard_time": 1685319271,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 556392,
       "num": 556392,
       "word": "胖莎",
       "onboard_time": 1685288190,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 520917,
+      "num": 279726,
+      "word": "皮皮",
+      "onboard_time": 1685317886,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 519124,
@@ -123,11 +179,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 494409,
-      "num": 494409,
-      "word": "丫丫一到家就被竹子包围了",
-      "onboard_time": 1685315900,
-      "rank": 6,
+      "raw_hot": 503560,
+      "num": 503560,
+      "word": "他用生命最后76秒救了24名乘客",
+      "onboard_time": 1685322328,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -155,20 +211,36 @@
       "category": "影视"
     },
     {
-      "raw_hot": 451102,
-      "num": 451102,
-      "word": "柯基被活活砍死",
-      "onboard_time": 1685316141,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 448679,
       "num": 448679,
       "word": "北京动物园",
       "onboard_time": 1685315299,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419340,
+      "num": 279416,
+      "word": "丫丫笑成了表情包",
+      "onboard_time": 1685320109,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408313,
+      "num": 245639,
+      "word": "上厕所途中千万不要冲厕所",
+      "onboard_time": 1685323827,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 401536,
+      "num": 401536,
+      "word": "王一博作品疑似被恶意打分",
+      "onboard_time": 1685317284,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 374606,
@@ -195,11 +267,51 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350428,
+      "num": 278867,
+      "word": "蔡徐坤发了个太阳",
+      "onboard_time": 1685323888,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 339893,
+      "num": 339893,
+      "word": "BLACKPINK文案引争议",
+      "onboard_time": 1685323528,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 334300,
+      "num": 334300,
+      "word": "一外国人说广州人没礼貌",
+      "onboard_time": 1685317284,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320554,
+      "num": 320554,
+      "word": "神十六航天员公布",
+      "onboard_time": 1685322988,
+      "rank": 15,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 315482,
       "num": 315482,
       "word": "织金通报教师不幸溺亡事件",
       "onboard_time": 1685310973,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305324,
+      "num": 305324,
+      "word": "丫丫在竹子海洋里轻松微笑干饭",
+      "onboard_time": 1685322988,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -211,6 +323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 288375,
+      "num": 288375,
+      "word": "丫丫需静养现不对外展出",
+      "onboard_time": 1685317405,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282858,
       "num": 200098,
       "word": "和人接触不要陷入对立情绪",
@@ -219,12 +339,36 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 281014,
+      "num": 281014,
+      "word": "姬颜baby",
+      "onboard_time": 1685316262,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278681,
+      "num": 278681,
+      "word": "山东一男子砍杀柯基威胁妻子",
+      "onboard_time": 1685323528,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277617,
       "num": 277617,
       "word": "白敬亭参加发小婚礼",
       "onboard_time": 1685269769,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271678,
+      "num": 271678,
+      "word": "闪婚几天闹离婚男方索要6万彩礼",
+      "onboard_time": 1685316683,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270252,
@@ -251,12 +395,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 259385,
+      "num": 259385,
+      "word": "神舟十六号",
+      "onboard_time": 1685322867,
+      "rank": 26,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 255097,
+      "num": 255097,
+      "word": "皇马官方祝贺樊振东",
+      "onboard_time": 1685318669,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 250390,
       "num": 250390,
       "word": "宋仲基说做爸爸是人生最重要的事",
       "onboard_time": 1685273788,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 250273,
+      "num": 250273,
+      "word": "Rose和Lisa是姐控吧",
+      "onboard_time": 1685316683,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 250267,
@@ -283,6 +451,54 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239840,
+      "num": 239840,
+      "word": "东宫虐还是周生如故虐",
+      "onboard_time": 1685323346,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 237242,
+      "num": 237242,
+      "word": "桂海潮",
+      "onboard_time": 1685323649,
+      "rank": 32,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 235395,
+      "num": 235395,
+      "word": "丫丫肉眼可见地胖了",
+      "onboard_time": 1685316804,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227636,
+      "num": 227636,
+      "word": "一次煮了一周的米饭",
+      "onboard_time": 1685317824,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 220577,
+      "num": 220577,
+      "word": "终于捡到自愿的猫猫了",
+      "onboard_time": 1685319747,
+      "rank": 35,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 216752,
+      "num": 216752,
+      "word": "薛之谦我欠你几首歌来着",
+      "onboard_time": 1685320409,
+      "rank": 36,
+      "category": "音乐,幽默"
+    },
+    {
       "raw_hot": 213322,
       "num": 213322,
       "word": "13岁女孩玩手机4个月花40多万",
@@ -296,6 +512,14 @@
       "word": "Billkin青岛机场音乐节",
       "onboard_time": 1685289449,
       "rank": 29,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 209671,
+      "num": 209671,
+      "word": "戴佩妮口误",
+      "onboard_time": 1685321668,
+      "rank": 37,
       "category": "音乐"
     },
     {
@@ -315,6 +539,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201730,
+      "num": 201730,
+      "word": "有人相爱有人下海",
+      "onboard_time": 1685321848,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 195354,
+      "num": 195354,
+      "word": "一条微信状态让初中班主任找到我",
+      "onboard_time": 1685323888,
+      "rank": 39,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 195105,
       "num": 195105,
       "word": "樊振东vs王楚钦",
@@ -331,12 +571,60 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190397,
+      "num": 190397,
+      "word": "美依礼芽安利值断层第一",
+      "onboard_time": 1685319087,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172573,
       "num": 172573,
       "word": "公诉",
       "onboard_time": 1685288131,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 172385,
+      "num": 172385,
+      "word": "鬼灭之刃",
+      "onboard_time": 1685321250,
+      "rank": 42,
+      "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 167760,
+      "num": 167760,
+      "word": "白敬亭主打一个忙碌",
+      "onboard_time": 1685320350,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 166728,
+      "num": 166728,
+      "word": "回头率这么高是有原因的",
+      "onboard_time": 1685318004,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 159476,
+      "num": 159476,
+      "word": "王源对赵英俊照片说看吧我们都记得你",
+      "onboard_time": 1685320469,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 159310,
+      "num": 159310,
+      "word": "你的姓氏加上你的生肖叫什么",
+      "onboard_time": 1685318669,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 158795,
@@ -507,22 +795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 97572,
-      "num": 97572,
-      "word": "姬颜baby",
-      "onboard_time": 1685316262,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95135,
-      "num": 95135,
-      "word": "闪婚几天闹离婚男方索要6万彩礼",
-      "onboard_time": 1685316683,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 93592,
       "num": 93592,
       "word": "王源吆不到台",
@@ -579,14 +851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68418,
-      "num": 68418,
-      "word": "Rose和Lisa是姐控吧",
-      "onboard_time": 1685316683,
-      "rank": 48,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 67670,
       "num": 67670,
       "word": "tablo",
@@ -612,7 +876,7 @@
     },
     {
       "raw_hot": 36613,
-      "num": 1053205,
+      "num": 1380211,
       "word": "沉浸式体验虚拟未来世界",
       "onboard_time": 1685279849,
       "rank": 2,
