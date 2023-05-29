@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685356445208,
+  "endTime": 1685358845783,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -2185,6 +2185,14 @@
       "onboard_time": 1684626261,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1959792,
+      "num": 1959792,
+      "word": "白百何聚会抽烟",
+      "onboard_time": 1685357368,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1955423,
@@ -11068,7 +11076,7 @@
     },
     {
       "raw_hot": 758694,
-      "num": 893460,
+      "num": 897323,
       "word": "22年前被任贤齐救过的女孩来看演唱会了",
       "onboard_time": 1685352089,
       "rank": 14,
@@ -13475,6 +13483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 614512,
+      "num": 543042,
+      "word": "椰树男模直播穿的是老板同款",
+      "onboard_time": 1685355808,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 614384,
       "num": 614384,
       "word": "江苏卫视一口气官宣了22档节目",
@@ -13537,6 +13553,14 @@
       "onboard_time": 1683883890,
       "rank": 44,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 611255,
+      "num": 883286,
+      "word": "3位盲人演员误入高速交警开车送返",
+      "onboard_time": 1685353828,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 611140,
@@ -14945,6 +14969,14 @@
       "onboard_time": 1684766731,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 560955,
+      "num": 251160,
+      "word": "全世界都在等你们分手",
+      "onboard_time": 1685357609,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 560585,
@@ -18425,6 +18457,14 @@
       "onboard_time": 1684062746,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 464203,
+      "num": 379381,
+      "word": "时代峰峻备案十年",
+      "onboard_time": 1685357186,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 464184,
@@ -24491,6 +24531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 362260,
+      "num": 351528,
+      "word": "华晨宇演唱会回应法师称号",
+      "onboard_time": 1685355148,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 362237,
       "num": 888738,
       "word": "90后姑娘帮上万名村民喝上安全的水",
@@ -24929,14 +24977,6 @@
       "onboard_time": 1684936531,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 357144,
-      "num": 883286,
-      "word": "3位盲人演员误入高速交警开车送返",
-      "onboard_time": 1685353828,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 357108,
@@ -29315,6 +29355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 303644,
+      "num": 244276,
+      "word": "肠道是熬夜猝死元凶之一",
+      "onboard_time": 1685356646,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303499,
       "num": 303499,
       "word": "任嘉伦精修vs生图",
@@ -29841,14 +29889,6 @@
       "onboard_time": 1685229918,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 297698,
-      "num": 351528,
-      "word": "华晨宇演唱会回应法师称号",
-      "onboard_time": 1685355148,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 297690,
@@ -32337,6 +32377,14 @@
       "onboard_time": 1685185587,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 276623,
+      "num": 239804,
+      "word": "张彬彬这野男人好会",
+      "onboard_time": 1685358088,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 276531,
@@ -35537,6 +35585,14 @@
       "onboard_time": 1683781890,
       "rank": 31,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 251190,
+      "num": 251190,
+      "word": "yammers",
+      "onboard_time": 1685356229,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 251182,
@@ -39667,6 +39723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224446,
+      "num": 224446,
+      "word": "丫丫和萌兰在国画里先见面啦",
+      "onboard_time": 1685357788,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224438,
       "num": 224438,
       "word": "傅菁回应穿婚纱的粉丝",
@@ -41777,6 +41841,14 @@
       "onboard_time": 1684891110,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211832,
+      "num": 211832,
+      "word": "迪丽热巴立flag发100多张自拍",
+      "onboard_time": 1685358509,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 211803,
@@ -45051,14 +45123,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 193882,
-      "num": 193882,
-      "word": "椰树男模直播穿的是老板同款",
-      "onboard_time": 1685355808,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 193845,
       "num": 193845,
       "word": "男子非礼酒吧女歌手不成气急败坏",
@@ -45689,6 +45753,14 @@
       "onboard_time": 1683257488,
       "rank": 42,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 190759,
+      "num": 419057,
+      "word": "紫色可以多惊艳",
+      "onboard_time": 1685350049,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 190675,
@@ -49595,6 +49667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170827,
+      "num": 534908,
+      "word": "91岁爷爷买5个助听器坚持弹钢琴",
+      "onboard_time": 1685354428,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170791,
       "num": 170791,
       "word": "芭莎镜头下的张彬彬吴倩",
@@ -50859,14 +50939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162888,
-      "num": 162888,
-      "word": "yammers",
-      "onboard_time": 1685356229,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 162815,
       "num": 136438,
       "word": "张晚意孟子义是同学",
@@ -51361,6 +51433,14 @@
       "onboard_time": 1684414947,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 159782,
+      "num": 159782,
+      "word": "Ella马来西亚人气",
+      "onboard_time": 1685356707,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 159708,
@@ -54899,14 +54979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138229,
-      "num": 419057,
-      "word": "紫色可以多惊艳",
-      "onboard_time": 1685350049,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 138034,
       "num": 138034,
       "word": "你坐高铁一般选择什么座位",
@@ -54993,6 +55065,14 @@
       "onboard_time": 1685294060,
       "rank": 36,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 137193,
+      "num": 137193,
+      "word": "拟申报设立应急管理大学",
+      "onboard_time": 1685357368,
+      "rank": 42,
+      "category": "教育,国内要闻"
     },
     {
       "raw_hot": 137156,
@@ -55411,6 +55491,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 133758,
+      "num": 133758,
+      "word": "你们这个节目这么西化吗",
+      "onboard_time": 1685358387,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133756,
       "num": 135973,
       "word": "不快乐女孩听听宋佳说的吧",
@@ -55665,6 +55753,14 @@
       "onboard_time": 1684591530,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132306,
+      "num": 132306,
+      "word": "手机屏幕为什么越做越大",
+      "onboard_time": 1685356887,
+      "rank": 46,
+      "category": "科技"
     },
     {
       "raw_hot": 132290,
@@ -58187,6 +58283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110101,
+      "num": 110101,
+      "word": "吴敬平 我一直有个梦想在王楚钦身上",
+      "onboard_time": 1685358568,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110084,
       "num": 145320,
       "word": "在义乌的创业有多简单",
@@ -58657,14 +58761,6 @@
       "onboard_time": 1685315360,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 104548,
-      "num": 534908,
-      "word": "91岁爷爷买5个助听器坚持弹钢琴",
-      "onboard_time": 1685354428,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104544,
