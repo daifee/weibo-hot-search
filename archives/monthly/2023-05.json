@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685367211844,
+  "endTime": 1685369707936,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -193,6 +193,14 @@
       "onboard_time": 1683540690,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3796538,
+      "num": 3796538,
+      "word": "YammerS确认已离世",
+      "onboard_time": 1685365350,
+      "rank": 10,
+      "category": "社会新闻,游戏"
     },
     {
       "raw_hot": 3766911,
@@ -1891,6 +1899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2105937,
+      "num": 1026558,
+      "word": "金子涵到底发生了什么",
+      "onboard_time": 1685362766,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2105267,
       "num": 904816,
       "word": "史航称不存在性骚扰",
@@ -2099,14 +2115,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 2003470,
-      "num": 2003470,
-      "word": "YammerS确认已离世",
-      "onboard_time": 1685365350,
-      "rank": 10,
-      "category": "社会新闻,游戏"
-    },
-    {
       "raw_hot": 1999829,
       "num": 522367,
       "word": "网友自称曾霸凌刘亦菲",
@@ -2169,14 +2177,6 @@
       "onboard_time": 1683156265,
       "rank": 10,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1972632,
-      "num": 943629,
-      "word": "金子涵到底发生了什么",
-      "onboard_time": 1685362766,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1968455,
@@ -8251,6 +8251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1019012,
+      "num": 1019012,
+      "word": "男子吃火锅遇假茅台被服务员提醒",
+      "onboard_time": 1685358929,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1017232,
       "num": 1017232,
       "word": "广东13岁女孩疑被邻居性侵",
@@ -8939,14 +8947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 942438,
-      "num": 942438,
-      "word": "男子吃火锅遇假茅台被服务员提醒",
-      "onboard_time": 1685358929,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 940315,
       "num": 940315,
       "word": "黄璐吐槽国泰航空服务",
@@ -9209,6 +9209,14 @@
       "onboard_time": 1683510326,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 919453,
+      "num": 919453,
+      "word": "易烊千玺怀化",
+      "onboard_time": 1685367812,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 918814,
@@ -11073,6 +11081,14 @@
       "onboard_time": 1684248275,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 763335,
+      "num": 763335,
+      "word": "吴磊哭着蹭赵今麦肩膀",
+      "onboard_time": 1685363067,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 762849,
@@ -13369,6 +13385,14 @@
       "onboard_time": 1684733248,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 622922,
+      "num": 622922,
+      "word": "秋瓷炫蹦迪",
+      "onboard_time": 1685366489,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 622867,
@@ -15721,6 +15745,14 @@
       "onboard_time": 1684407868,
       "rank": 30,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 538868,
+      "num": 538868,
+      "word": "公诉收视",
+      "onboard_time": 1685366008,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 537949,
@@ -18707,14 +18739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 460720,
-      "num": 298753,
-      "word": "吴磊哭着蹭赵今麦肩膀",
-      "onboard_time": 1685363067,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 460375,
       "num": 460375,
       "word": "婚礼可以推迟但人命一刻都不能耽误",
@@ -19721,6 +19745,14 @@
       "onboard_time": 1684213416,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 440366,
+      "num": 440366,
+      "word": "椰树男模",
+      "onboard_time": 1685365528,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 440143,
@@ -21564,7 +21596,7 @@
     },
     {
       "raw_hot": 407473,
-      "num": 348029,
+      "num": 368164,
       "word": "再厉害的总裁也得给姥姥送桌子",
       "onboard_time": 1685361207,
       "rank": 30,
@@ -22032,6 +22064,14 @@
       "word": "3年前救的野猪带3娃回来了",
       "onboard_time": 1684210472,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400451,
+      "num": 400451,
+      "word": "柯基被砍当事人称将起诉离婚",
+      "onboard_time": 1685362287,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -22921,14 +22961,6 @@
       "onboard_time": 1684710018,
       "rank": 20,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 386858,
-      "num": 386858,
-      "word": "柯基被砍当事人称将起诉离婚",
-      "onboard_time": 1685362287,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 386853,
@@ -29187,6 +29219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 307689,
+      "num": 307689,
+      "word": "导师上天了",
+      "onboard_time": 1685368713,
+      "rank": 21,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 307593,
       "num": 307593,
       "word": "今天沈阳沸腾了",
@@ -29536,14 +29576,6 @@
       "word": "公诉全员被闭麦",
       "onboard_time": 1685101351,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 302812,
-      "num": 302812,
-      "word": "公诉收视",
-      "onboard_time": 1685366008,
-      "rank": 38,
       "category": "影视"
     },
     {
@@ -30265,6 +30297,14 @@
       "onboard_time": 1682895798,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 295478,
+      "num": 295478,
+      "word": "杨幂被小猫抢镜头",
+      "onboard_time": 1685369373,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 295449,
@@ -31651,6 +31691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 284094,
+      "num": 228992,
+      "word": "顾本彬离世",
+      "onboard_time": 1685368050,
+      "rank": 30,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 284091,
       "num": 284091,
       "word": "最不推荐选的大学专业",
@@ -32225,6 +32273,14 @@
       "onboard_time": 1684842389,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 279464,
+      "num": 279464,
+      "word": "迪丽热巴 小心骗子听到没",
+      "onboard_time": 1685369132,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 279344,
@@ -32825,6 +32881,14 @@
       "onboard_time": 1683619887,
       "rank": 30,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 273700,
+      "num": 271014,
+      "word": "迪丽热巴安旎输出王者",
+      "onboard_time": 1685365648,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 273636,
@@ -33609,6 +33673,14 @@
       "onboard_time": 1684052009,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 266988,
+      "num": 325435,
+      "word": "yammers",
+      "onboard_time": 1685356229,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 266941,
@@ -35747,14 +35819,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 251190,
-      "num": 325435,
-      "word": "yammers",
-      "onboard_time": 1685356229,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 251182,
       "num": 210625,
       "word": "曾黎穿了一个红灯笼",
@@ -36097,14 +36161,6 @@
       "onboard_time": 1683642092,
       "rank": 33,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 247877,
-      "num": 247877,
-      "word": "椰树男模",
-      "onboard_time": 1685365528,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 247871,
@@ -39475,14 +39531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227262,
-      "num": 227262,
-      "word": "迪丽热巴安旎输出王者",
-      "onboard_time": 1685365648,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 226929,
       "num": 226929,
       "word": "郑容和综艺",
@@ -41307,14 +41355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215942,
-      "num": 215942,
-      "word": "秋瓷炫蹦迪",
-      "onboard_time": 1685366489,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 215936,
       "num": 215936,
       "word": "林允儿13年前vs13年后",
@@ -42547,6 +42587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 208238,
+      "num": 208238,
+      "word": "迪丽热巴公诉首播收视冠军",
+      "onboard_time": 1685369314,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208224,
       "num": 212750,
       "word": "海口的风很懂宋亚轩",
@@ -43248,6 +43296,14 @@
       "word": "广东人穿洞洞鞋要小心",
       "onboard_time": 1684837472,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204444,
+      "num": 204444,
+      "word": "河南回应小麦发芽和收割机事件无关",
+      "onboard_time": 1685367932,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -43969,6 +44025,14 @@
       "onboard_time": 1683039400,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 200721,
+      "num": 200721,
+      "word": "妈宝男婚后有多下头",
+      "onboard_time": 1685369674,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 200672,
@@ -45715,6 +45779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191676,
+      "num": 191676,
+      "word": "杨和苏 我要单挑活死人全员",
+      "onboard_time": 1685368892,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191664,
       "num": 191664,
       "word": "拥有多少存款你才会选择结婚",
@@ -46049,6 +46121,14 @@
       "onboard_time": 1684841370,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189945,
+      "num": 1034096,
+      "word": "中国顶级实验室有多牛",
+      "onboard_time": 1685364149,
+      "rank": 2,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 189944,
@@ -50963,6 +51043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163752,
+      "num": 163752,
+      "word": "女警对轻生女孩说搞不定打电话给我",
+      "onboard_time": 1685367691,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163734,
       "num": 248098,
       "word": "法国救援人员拆墙救391公斤老太太",
@@ -52241,14 +52329,6 @@
       "onboard_time": 1682956165,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156611,
-      "num": 944187,
-      "word": "中国顶级实验室有多牛",
-      "onboard_time": 1685364149,
-      "rank": 2,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 156551,
