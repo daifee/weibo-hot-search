@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685352820936,
+  "endTime": 1685355502471,
   "band_list": [
     {
       "raw_hot": 3128535,
@@ -65,6 +65,14 @@
       "onboard_time": 1685324187,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1749430,
+      "num": 888942,
+      "word": "gemini求婚",
+      "onboard_time": 1685352806,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 1688535,
@@ -267,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 882985,
+      "num": 882985,
+      "word": "刘浩存五月天演唱会和宋威龙视频",
+      "onboard_time": 1685352029,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 862330,
       "num": 782353,
       "word": "费曼中了周杰伦的帽子",
@@ -296,6 +312,22 @@
       "word": "网友新疆偶遇吴磊骑行",
       "onboard_time": 1685287770,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 758694,
+      "num": 893460,
+      "word": "22年前被任贤齐救过的女孩来看演唱会了",
+      "onboard_time": 1685352089,
+      "rank": 14,
+      "category": "社会新闻,音乐"
+    },
+    {
+      "raw_hot": 709263,
+      "num": 709263,
+      "word": "迪丽热巴直播",
+      "onboard_time": 1685353588,
+      "rank": 8,
       "category": "艺人"
     },
     {
@@ -361,6 +393,22 @@
       "onboard_time": 1685276068,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 597916,
+      "num": 597916,
+      "word": "卡戴珊家族担心没生儿子姓氏失传",
+      "onboard_time": 1685352924,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 596137,
+      "num": 201601,
+      "word": "薛之谦巡演宜昌站预售",
+      "onboard_time": 1685354847,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 581891,
@@ -444,7 +492,7 @@
     },
     {
       "raw_hot": 517397,
-      "num": 295979,
+      "num": 325181,
       "word": "穿了吊带老师不让我进教室",
       "onboard_time": 1685347709,
       "rank": 23,
@@ -524,19 +572,11 @@
     },
     {
       "raw_hot": 420448,
-      "num": 267137,
+      "num": 351555,
       "word": "老人衣衫不整把手伸向女童",
       "onboard_time": 1685350647,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 419547,
-      "num": 419547,
-      "word": "gemini求婚",
-      "onboard_time": 1685352806,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 419340,
@@ -548,7 +588,7 @@
     },
     {
       "raw_hot": 417022,
-      "num": 298128,
+      "num": 385502,
       "word": "iPhone16Pro机型为6.3和6.9英寸",
       "onboard_time": 1685345728,
       "rank": 20,
@@ -659,14 +699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 354616,
-      "num": 354616,
-      "word": "22年前被任贤齐救过的女孩来看演唱会了",
-      "onboard_time": 1685352089,
-      "rank": 14,
-      "category": "社会新闻,音乐"
-    },
-    {
       "raw_hot": 350428,
       "num": 313127,
       "word": "蔡徐坤发了个太阳",
@@ -731,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 320963,
+      "num": 356653,
+      "word": "演唱会求婚",
+      "onboard_time": 1685352387,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 320554,
       "num": 320554,
       "word": "神十六航天员公布",
@@ -745,6 +785,14 @@
       "onboard_time": 1685343926,
       "rank": 24,
       "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 317600,
+      "num": 317600,
+      "word": "iPhone15",
+      "onboard_time": 1685353047,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 315482,
@@ -801,14 +849,6 @@
       "onboard_time": 1685317405,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 286425,
-      "num": 286425,
-      "word": "刘浩存五月天演唱会和宋威龙视频",
-      "onboard_time": 1685352029,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 285029,
@@ -955,6 +995,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 255539,
+      "num": 255539,
+      "word": "迪丽热巴直播喇叭放浏阳河",
+      "onboard_time": 1685353947,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255366,
       "num": 255366,
       "word": "在暴雪时分全阵容官宣",
@@ -1091,6 +1139,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 238385,
+      "num": 238385,
+      "word": "林诗栋",
+      "onboard_time": 1685353349,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 237242,
       "num": 237242,
       "word": "桂海潮",
@@ -1131,6 +1187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 225211,
+      "num": 225211,
+      "word": "宋亚轩演我看五月天演唱会",
+      "onboard_time": 1685352867,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 224884,
       "num": 224884,
       "word": "7个月宝宝患癌妈妈躲走廊自责落泪",
@@ -1169,6 +1233,14 @@
       "onboard_time": 1685319747,
       "rank": 35,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 219554,
+      "num": 219554,
+      "word": "闺蜜嫁的远该不该去参加婚礼",
+      "onboard_time": 1685353828,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 216752,
@@ -1315,6 +1387,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 197473,
+      "num": 197473,
+      "word": "华晨宇演唱会回应法师称号",
+      "onboard_time": 1685355148,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 196755,
       "num": 196755,
       "word": "i人的真实写照",
@@ -1353,14 +1433,6 @@
       "onboard_time": 1685343807,
       "rank": 23,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 194026,
-      "num": 194026,
-      "word": "演唱会求婚",
-      "onboard_time": 1685352387,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 193881,
@@ -1491,6 +1563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 179132,
+      "num": 883286,
+      "word": "3位盲人演员误入高速交警开车送返",
+      "onboard_time": 1685353828,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172573,
       "num": 172573,
       "word": "公诉",
@@ -1531,6 +1611,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167467,
+      "num": 167467,
+      "word": "00后的下饭剧",
+      "onboard_time": 1685342667,
+      "rank": 49,
+      "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 167242,
+      "num": 167242,
+      "word": "任贤齐演唱会",
+      "onboard_time": 1685354127,
+      "rank": 37,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 166892,
       "num": 166892,
       "word": "当妈后就爱给孩子买衣服",
@@ -1545,14 +1641,6 @@
       "onboard_time": 1685318004,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 165760,
-      "num": 165760,
-      "word": "00后的下饭剧",
-      "onboard_time": 1685342667,
-      "rank": 49,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 164645,
@@ -1635,12 +1723,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 146310,
+      "num": 146310,
+      "word": "薛之谦武汉",
+      "onboard_time": 1685354190,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 144916,
       "num": 144916,
       "word": "如何看待男子砍杀柯基",
       "onboard_time": 1685341586,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142525,
+      "num": 142525,
+      "word": "金在中想坐火车游中国",
+      "onboard_time": 1685353168,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 141910,
@@ -1715,6 +1819,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133054,
+      "num": 419057,
+      "word": "紫色可以多惊艳",
+      "onboard_time": 1685350049,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 132111,
+      "num": 132111,
+      "word": "公诉直播",
+      "onboard_time": 1685353828,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 131046,
       "num": 131046,
       "word": "郑钦文",
@@ -1777,14 +1897,6 @@
       "onboard_time": 1685327127,
       "rank": 47,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 125279,
-      "num": 419057,
-      "word": "紫色可以多惊艳",
-      "onboard_time": 1685350049,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 124737,
@@ -2001,6 +2113,14 @@
       "onboard_time": 1685340026,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 53799,
+      "num": 534908,
+      "word": "91岁爷爷买5个助听器坚持弹钢琴",
+      "onboard_time": 1685354428,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36613,
