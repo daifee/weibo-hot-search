@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685334857355,
+  "endTime": 1685337376823,
   "band_list": [
     {
       "raw_hot": 3128535,
@@ -43,6 +43,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1793795,
+      "num": 1793795,
+      "word": "砍死柯基男子被警方带走调查",
+      "onboard_time": 1685335174,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1680113,
       "num": 1680113,
       "word": "山姆超市同款蛋糕杭州卖165上海卖95",
@@ -59,6 +67,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1538254,
+      "num": 866535,
+      "word": "被砍死柯基主人回应",
+      "onboard_time": 1685331688,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1445130,
       "num": 1445130,
       "word": "老公每月给你两万但不回家",
@@ -72,14 +88,6 @@
       "word": "山东一男子砍杀柯基威胁妻子",
       "onboard_time": 1685323528,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1396491,
-      "num": 866535,
-      "word": "被砍死柯基主人回应",
-      "onboard_time": 1685331688,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -147,6 +155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 974215,
+      "num": 974215,
+      "word": "互联网真换了一批人啊",
+      "onboard_time": 1685326527,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 970422,
       "num": 589983,
       "word": "柯基",
@@ -203,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 742625,
+      "num": 742625,
+      "word": "虞书欣的上衣是草编的",
+      "onboard_time": 1685334571,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 701142,
       "num": 292737,
       "word": "吴磊新剧演的年上",
@@ -233,14 +257,6 @@
       "onboard_time": 1685287770,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 638534,
-      "num": 565757,
-      "word": "互联网真换了一批人啊",
-      "onboard_time": 1685326527,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 620355,
@@ -315,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 509449,
+      "num": 509449,
+      "word": "俄对乌开出停火要求",
+      "onboard_time": 1685333491,
+      "rank": 46,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 485835,
       "num": 485835,
       "word": "丫丫回京现场画面",
@@ -353,6 +377,14 @@
       "onboard_time": 1685329228,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 451916,
+      "num": 382178,
+      "word": "迪丽热巴龚俊或将同台",
+      "onboard_time": 1685334753,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 448679,
@@ -459,20 +491,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 334804,
-      "num": 239887,
-      "word": "迪丽热巴龚俊或将同台",
-      "onboard_time": 1685334753,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 334300,
       "num": 334300,
       "word": "一外国人说广州人没礼貌",
       "onboard_time": 1685317284,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333900,
+      "num": 283330,
+      "word": "不要因为同事关系而离职",
+      "onboard_time": 1685333731,
+      "rank": 41,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 331583,
@@ -497,6 +529,14 @@
       "onboard_time": 1685310973,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303603,
+      "num": 232157,
+      "word": "虞书欣杨天真阿那亚合照",
+      "onboard_time": 1685333850,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 294544,
@@ -529,14 +569,6 @@
       "onboard_time": 1685317405,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 283330,
-      "num": 283330,
-      "word": "不要因为同事关系而离职",
-      "onboard_time": 1685333731,
-      "rank": 41,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 282858,
@@ -593,14 +625,6 @@
       "onboard_time": 1685278589,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268578,
-      "num": 239663,
-      "word": "俄对乌开出停火要求",
-      "onboard_time": 1685333491,
-      "rank": 46,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 267254,
@@ -723,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248345,
+      "num": 248345,
+      "word": "世界破破烂烂 小狗缝缝补补",
+      "onboard_time": 1685336311,
+      "rank": 19,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 244059,
       "num": 244059,
       "word": "A股",
@@ -763,22 +795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 232157,
-      "num": 232157,
-      "word": "虞书欣杨天真阿那亚合照",
-      "onboard_time": 1685333850,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 230455,
-      "num": 225877,
-      "word": "虞书欣的上衣是草编的",
-      "onboard_time": 1685334571,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 227636,
       "num": 227636,
       "word": "一次煮了一周的米饭",
@@ -795,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223164,
+      "num": 223164,
+      "word": "在暴雪时分",
+      "onboard_time": 1685336730,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 220577,
       "num": 220577,
       "word": "终于捡到自愿的猫猫了",
@@ -809,6 +833,14 @@
       "onboard_time": 1685320409,
       "rank": 36,
       "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 215231,
+      "num": 215231,
+      "word": "被徐姥爷的微博评论区感动了",
+      "onboard_time": 1685334931,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215201,
@@ -848,6 +880,14 @@
       "word": "戴佩妮口误",
       "onboard_time": 1685321668,
       "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 208506,
+      "num": 208506,
+      "word": "更适合中国宝宝体质的BLACKPINK",
+      "onboard_time": 1685336491,
+      "rank": 35,
       "category": "音乐"
     },
     {
@@ -931,6 +971,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 192268,
+      "num": 192268,
+      "word": "时尚芭莎",
+      "onboard_time": 1685334993,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 191546,
       "num": 191546,
       "word": "如果以后丫丫展出你会去看吗",
@@ -953,6 +1001,14 @@
       "onboard_time": 1685329407,
       "rank": 40,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 184913,
+      "num": 184913,
+      "word": "盖上马桶盖再冲厕所",
+      "onboard_time": 1685336970,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183592,
@@ -985,6 +1041,14 @@
       "onboard_time": 1685324966,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169353,
+      "num": 169353,
+      "word": "C919",
+      "onboard_time": 1685335772,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167760,
@@ -1057,6 +1121,14 @@
       "onboard_time": 1685286569,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 144531,
+      "num": 144531,
+      "word": "一个人的命运很大程度挂在自己嘴上",
+      "onboard_time": 1685337151,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 141910,
@@ -1156,7 +1228,7 @@
     },
     {
       "raw_hot": 124657,
-      "num": 1215640,
+      "num": 1642582,
       "word": "聚焦神舟十六号",
       "onboard_time": 1685329348,
       "rank": 47,
@@ -1329,6 +1401,14 @@
       "onboard_time": 1685279849,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35441,
+      "num": 160826,
+      "word": "品如艾莉再次pk",
+      "onboard_time": 1685334931,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 25795,
