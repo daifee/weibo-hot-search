@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685330293468,
+  "endTime": 1685331251961,
   "band_list": [
     {
       "raw_hot": 3128535,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2168026,
-      "num": 2168026,
+      "raw_hot": 2377260,
+      "num": 2377260,
       "word": "央视评家有儿女疑似被恶意评分",
       "onboard_time": 1685326947,
       "rank": 11,
@@ -27,20 +27,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1759647,
+      "num": 1759647,
+      "word": "张萌问我出轨的角色这么经典吗",
+      "onboard_time": 1685324187,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1680113,
       "num": 1680113,
       "word": "山姆超市同款蛋糕杭州卖165上海卖95",
       "onboard_time": 1685320948,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1620584,
-      "num": 1620584,
-      "word": "张萌问我出轨的角色这么经典吗",
-      "onboard_time": 1685324187,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 1579628,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1422281,
-      "num": 308619,
+      "num": 325759,
       "word": "山东一男子砍杀柯基威胁妻子",
       "onboard_time": 1685323528,
       "rank": 24,
@@ -115,20 +115,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1054732,
+      "num": 1054732,
+      "word": "迪丽热巴的假蛇玩具",
+      "onboard_time": 1685325928,
+      "rank": 6,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 1038388,
       "num": 1038388,
       "word": "王源 赵英俊",
       "onboard_time": 1685314879,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1034941,
-      "num": 1034941,
-      "word": "迪丽热巴的假蛇玩具",
-      "onboard_time": 1685325928,
-      "rank": 6,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 970422,
@@ -160,6 +160,14 @@
       "word": "张丹峰说西宁是广西省会",
       "onboard_time": 1685317524,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 862330,
+      "num": 600159,
+      "word": "费曼中了周杰伦的帽子",
+      "onboard_time": 1685328149,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -211,19 +219,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 630964,
-      "num": 600159,
-      "word": "费曼中了周杰伦的帽子",
-      "onboard_time": 1685328149,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 617816,
       "num": 617816,
       "word": "丫丫",
       "onboard_time": 1685276068,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 601504,
+      "num": 601504,
+      "word": "妇联回应男子砍杀柯基威胁妻子",
+      "onboard_time": 1685330848,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -243,20 +251,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 551503,
+      "num": 551503,
+      "word": "男孩进店买水恶意踢11个月婴儿一脚",
+      "onboard_time": 1685328569,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 551211,
       "num": 551211,
       "word": "互联网真换了一批人啊",
       "onboard_time": 1685326527,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 528207,
-      "num": 528207,
-      "word": "男孩进店买水恶意踢11个月婴儿一脚",
-      "onboard_time": 1685328569,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 526966,
@@ -363,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 360430,
+      "num": 360430,
+      "word": "马琳",
+      "onboard_time": 1685328927,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 356089,
       "num": 356089,
       "word": "北京动物园回应丫丫是否展出",
@@ -379,12 +395,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336909,
+      "num": 336909,
+      "word": "萌兰",
+      "onboard_time": 1685327967,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334406,
+      "num": 334406,
+      "word": "十个勤天",
+      "onboard_time": 1685330010,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 334300,
       "num": 334300,
       "word": "一外国人说广州人没礼貌",
       "onboard_time": 1685317284,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323595,
+      "num": 323595,
+      "word": "肖战说王楚钦孙颖莎表现完美",
+      "onboard_time": 1685329949,
+      "rank": 39,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 320554,
@@ -409,14 +449,6 @@
       "onboard_time": 1685285911,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 294484,
-      "num": 294484,
-      "word": "萌兰",
-      "onboard_time": 1685327967,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 293675,
@@ -449,6 +481,14 @@
       "onboard_time": 1685290765,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 279343,
+      "num": 279343,
+      "word": "容祖儿 抢票",
+      "onboard_time": 1685329407,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 278306,
@@ -513,14 +553,6 @@
       "onboard_time": 1685280030,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 262033,
-      "num": 262033,
-      "word": "马琳",
-      "onboard_time": 1685328927,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 259565,
@@ -609,14 +641,6 @@
       "onboard_time": 1685267489,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 240526,
-      "num": 240526,
-      "word": "容祖儿 抢票",
-      "onboard_time": 1685329407,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 237242,
@@ -723,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197883,
+      "num": 197883,
+      "word": "Note12TPro",
+      "onboard_time": 1685330010,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 195982,
       "num": 195982,
       "word": "中国航天飞行工程师和载荷专家首秀",
@@ -771,6 +803,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189375,
+      "num": 189375,
+      "word": "山姆回应同款蛋糕各地不同价",
+      "onboard_time": 1685329407,
+      "rank": 40,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 187005,
+      "num": 187005,
+      "word": "好多明星去了五月天演唱会",
+      "onboard_time": 1685330429,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 183586,
       "num": 183586,
       "word": "明星被恶意打分的作品",
@@ -779,12 +827,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 181821,
-      "num": 181821,
-      "word": "十个勤天",
-      "onboard_time": 1685330010,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 173201,
+      "num": 173201,
+      "word": "A股",
+      "onboard_time": 1685331030,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 172573,
@@ -803,14 +851,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 169231,
-      "num": 169231,
-      "word": "Note12TPro",
-      "onboard_time": 1685330010,
-      "rank": 37,
-      "category": "科技"
-    },
-    {
       "raw_hot": 167760,
       "num": 167760,
       "word": "白敬亭主打一个忙碌",
@@ -825,22 +865,6 @@
       "onboard_time": 1685318004,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 164252,
-      "num": 164252,
-      "word": "肖战说王楚钦孙颖莎表现完美",
-      "onboard_time": 1685329949,
-      "rank": 39,
-      "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 160552,
-      "num": 160552,
-      "word": "山姆回应同款蛋糕各地不同价",
-      "onboard_time": 1685329407,
-      "rank": 40,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 159476,
@@ -865,6 +889,14 @@
       "onboard_time": 1685316203,
       "rank": 23,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 156082,
+      "num": 156082,
+      "word": "剑网3",
+      "onboard_time": 1685330308,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 154869,
@@ -899,12 +931,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 137305,
+      "num": 137305,
+      "word": "黄晓明以为303是二次元",
+      "onboard_time": 1685294060,
+      "rank": 36,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 134439,
       "num": 134439,
       "word": "孙颖莎对战陈梦",
       "onboard_time": 1685273427,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133600,
+      "num": 133600,
+      "word": "宁安如梦",
+      "onboard_time": 1685331209,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 133144,
@@ -945,14 +993,6 @@
       "onboard_time": 1685287111,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 128464,
-      "num": 128464,
-      "word": "黄晓明以为303是二次元",
-      "onboard_time": 1685294060,
-      "rank": 36,
-      "category": "综艺,幽默"
     },
     {
       "raw_hot": 128256,

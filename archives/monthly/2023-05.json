@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685330293468,
+  "endTime": 1685331251961,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1291,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2377260,
+      "num": 2377260,
+      "word": "央视评家有儿女疑似被恶意评分",
+      "onboard_time": 1685326947,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2376314,
       "num": 2376314,
       "word": "胡锡进 火车上男乘客为什么没参与制服凶手",
@@ -1713,14 +1721,6 @@
       "onboard_time": 1684926869,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2168026,
-      "num": 2168026,
-      "word": "央视评家有儿女疑似被恶意评分",
-      "onboard_time": 1685326947,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 2167394,
@@ -2875,6 +2875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1759647,
+      "num": 1759647,
+      "word": "张萌问我出轨的角色这么经典吗",
+      "onboard_time": 1685324187,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1759049,
       "num": 1759049,
       "word": "朋友跟暧昧对象散了19公里步",
@@ -3513,14 +3521,6 @@
       "onboard_time": 1684658790,
       "rank": 3,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1620584,
-      "num": 1620584,
-      "word": "张萌问我出轨的角色这么经典吗",
-      "onboard_time": 1685324187,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 1619996,
@@ -4812,7 +4812,7 @@
     },
     {
       "raw_hot": 1422281,
-      "num": 308619,
+      "num": 325759,
       "word": "山东一男子砍杀柯基威胁妻子",
       "onboard_time": 1685323528,
       "rank": 24,
@@ -7755,6 +7755,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 1054732,
+      "num": 1054732,
+      "word": "迪丽热巴的假蛇玩具",
+      "onboard_time": 1685325928,
+      "rank": 6,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 1053816,
       "num": 983901,
       "word": "印度19岁女子穿比基尼乘地铁",
@@ -7913,14 +7921,6 @@
       "onboard_time": 1685242646,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1034941,
-      "num": 1034941,
-      "word": "迪丽热巴的假蛇玩具",
-      "onboard_time": 1685325928,
-      "rank": 6,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 1033852,
@@ -9641,6 +9641,14 @@
       "onboard_time": 1684676252,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 862330,
+      "num": 600159,
+      "word": "费曼中了周杰伦的帽子",
+      "onboard_time": 1685328149,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 860962,
@@ -12987,14 +12995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 630964,
-      "num": 600159,
-      "word": "费曼中了周杰伦的帽子",
-      "onboard_time": 1685328149,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 630899,
       "num": 630899,
       "word": "Angelababy红毯生图状态",
@@ -13633,6 +13633,14 @@
       "onboard_time": 1685162789,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 601504,
+      "num": 601504,
+      "word": "妇联回应男子砍杀柯基威胁妻子",
+      "onboard_time": 1685330848,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 601490,
@@ -14971,6 +14979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 551503,
+      "num": 551503,
+      "word": "男孩进店买水恶意踢11个月婴儿一脚",
+      "onboard_time": 1685328569,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 551315,
       "num": 551315,
       "word": "薛之谦演唱会",
@@ -15729,14 +15745,6 @@
       "onboard_time": 1685256448,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 528207,
-      "num": 528207,
-      "word": "男孩进店买水恶意踢11个月婴儿一脚",
-      "onboard_time": 1685328569,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 527983,
@@ -24275,6 +24283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 360430,
+      "num": 360430,
+      "word": "马琳",
+      "onboard_time": 1685144422,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 360403,
       "num": 360403,
       "word": "声生不息宝岛季",
@@ -26219,6 +26235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 336909,
+      "num": 336909,
+      "word": "萌兰",
+      "onboard_time": 1685327967,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336743,
       "num": 336743,
       "word": "你的QQ号码几位数",
@@ -26425,6 +26449,14 @@
       "onboard_time": 1684329994,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 334406,
+      "num": 334406,
+      "word": "十个勤天",
+      "onboard_time": 1683950667,
+      "rank": 39,
+      "category": "其它"
     },
     {
       "raw_hot": 334300,
@@ -27289,6 +27321,14 @@
       "onboard_time": 1684828289,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 323595,
+      "num": 323595,
+      "word": "肖战说王楚钦孙颖莎表现完美",
+      "onboard_time": 1685329949,
+      "rank": 39,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 323211,
@@ -29755,14 +29795,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 294484,
-      "num": 294484,
-      "word": "萌兰",
-      "onboard_time": 1685327967,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 294475,
       "num": 294475,
       "word": "金牛座隐藏的一面",
@@ -31601,6 +31633,14 @@
       "onboard_time": 1683198449,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279343,
+      "num": 279343,
+      "word": "容祖儿 抢票",
+      "onboard_time": 1685329407,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 279223,
@@ -33593,14 +33633,6 @@
       "onboard_time": 1684923089,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 262033,
-      "num": 262033,
-      "word": "马琳",
-      "onboard_time": 1685144422,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 261940,
@@ -36449,14 +36481,6 @@
       "onboard_time": 1683346354,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 240526,
-      "num": 240526,
-      "word": "容祖儿 抢票",
-      "onboard_time": 1685329407,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 240441,
@@ -43579,6 +43603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197883,
+      "num": 197883,
+      "word": "Note12TPro",
+      "onboard_time": 1685330010,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 197751,
       "num": 285988,
       "word": "胡金秋受伤",
@@ -45123,14 +45155,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 189613,
-      "num": 189613,
-      "word": "十个勤天",
-      "onboard_time": 1683950667,
-      "rank": 39,
-      "category": "其它"
-    },
-    {
       "raw_hot": 189587,
       "num": 189587,
       "word": "千禧妆容",
@@ -45225,6 +45249,14 @@
       "onboard_time": 1683513986,
       "rank": 33,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 189375,
+      "num": 189375,
+      "word": "山姆回应同款蛋糕各地不同价",
+      "onboard_time": 1685329407,
+      "rank": 40,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 189352,
@@ -45720,6 +45752,14 @@
       "word": "李健音乐会",
       "onboard_time": 1685104110,
       "rank": 36,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 187005,
+      "num": 187005,
+      "word": "好多明星去了五月天演唱会",
+      "onboard_time": 1685330429,
+      "rank": 35,
       "category": "音乐"
     },
     {
@@ -49075,14 +49115,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 169231,
-      "num": 169231,
-      "word": "Note12TPro",
-      "onboard_time": 1685330010,
-      "rank": 37,
-      "category": "科技"
-    },
-    {
       "raw_hot": 169206,
       "num": 169206,
       "word": "剧院魅影",
@@ -49795,14 +49827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164252,
-      "num": 164252,
-      "word": "肖战说王楚钦孙颖莎表现完美",
-      "onboard_time": 1685329949,
-      "rank": 39,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 164188,
       "num": 164188,
       "word": "整列车厢回杭的娃都在赶作业",
@@ -50441,14 +50465,6 @@
       "onboard_time": 1684932627,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160552,
-      "num": 160552,
-      "word": "山姆回应同款蛋糕各地不同价",
-      "onboard_time": 1685329407,
-      "rank": 40,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 160525,
@@ -54163,6 +54179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137305,
+      "num": 137305,
+      "word": "黄晓明以为303是二次元",
+      "onboard_time": 1685294060,
+      "rank": 36,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 137156,
       "num": 137156,
       "word": "熊猫被乌鸦薅毛奶爸自制工具帮轰走",
@@ -55393,14 +55417,6 @@
       "onboard_time": 1682946511,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 128464,
-      "num": 128464,
-      "word": "黄晓明以为303是二次元",
-      "onboard_time": 1685294060,
-      "rank": 36,
-      "category": "综艺,幽默"
     },
     {
       "raw_hot": 128452,
