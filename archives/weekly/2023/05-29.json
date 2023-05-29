@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685337376823,
+  "endTime": 1685338413803,
   "band_list": [
     {
       "raw_hot": 3128535,
@@ -27,6 +27,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1969724,
+      "num": 1969724,
+      "word": "砍死柯基男子被警方带走调查",
+      "onboard_time": 1685335174,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1909808,
       "num": 1909808,
       "word": "上厕所途中千万不要冲厕所",
@@ -41,14 +49,6 @@
       "onboard_time": 1685324187,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1793795,
-      "num": 1793795,
-      "word": "砍死柯基男子被警方带走调查",
-      "onboard_time": 1685335174,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1680113,
@@ -147,6 +147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1052609,
+      "num": 1052609,
+      "word": "互联网真换了一批人啊",
+      "onboard_time": 1685326527,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1038388,
       "num": 1038388,
       "word": "王源 赵英俊",
@@ -155,12 +163,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 974215,
-      "num": 974215,
-      "word": "互联网真换了一批人啊",
-      "onboard_time": 1685326527,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 1010737,
+      "num": 1010737,
+      "word": "虞书欣的上衣是草编的",
+      "onboard_time": 1685334571,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 970422,
@@ -203,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 849645,
+      "num": 849645,
+      "word": "俄对乌开出停火要求",
+      "onboard_time": 1685333491,
+      "rank": 46,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 819265,
       "num": 552009,
       "word": "四川大学",
@@ -216,14 +232,6 @@
       "word": "网友新疆偶遇吴磊骑行",
       "onboard_time": 1685287770,
       "rank": 5,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 742625,
-      "num": 742625,
-      "word": "虞书欣的上衣是草编的",
-      "onboard_time": 1685334571,
-      "rank": 36,
       "category": "艺人"
     },
     {
@@ -315,6 +323,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 525920,
+      "num": 525920,
+      "word": "迪丽热巴龚俊或将同台",
+      "onboard_time": 1685334753,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 520917,
       "num": 279726,
       "word": "皮皮",
@@ -329,14 +345,6 @@
       "onboard_time": 1685285252,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 509449,
-      "num": 509449,
-      "word": "俄对乌开出停火要求",
-      "onboard_time": 1685333491,
-      "rank": 46,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 485835,
@@ -377,14 +385,6 @@
       "onboard_time": 1685329228,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 451916,
-      "num": 382178,
-      "word": "迪丽热巴龚俊或将同台",
-      "onboard_time": 1685334753,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 448679,
@@ -451,6 +451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 368217,
+      "num": 368217,
+      "word": "世界破破烂烂 小狗缝缝补补",
+      "onboard_time": 1685336311,
+      "rank": 19,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 366212,
       "num": 366212,
       "word": "张丹峰洪欣合体",
@@ -515,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321106,
+      "num": 321106,
+      "word": "虞书欣杨天真阿那亚合照",
+      "onboard_time": 1685333850,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320554,
       "num": 320554,
       "word": "神十六航天员公布",
@@ -531,12 +547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303603,
-      "num": 232157,
-      "word": "虞书欣杨天真阿那亚合照",
-      "onboard_time": 1685333850,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 308645,
+      "num": 308645,
+      "word": "曾毅宝石老舅说唱好绝",
+      "onboard_time": 1685337868,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 294544,
@@ -577,6 +593,14 @@
       "onboard_time": 1685290765,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 281550,
+      "num": 204946,
+      "word": "实习生说他熟练掌握excel",
+      "onboard_time": 1685337868,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 279343,
@@ -747,14 +771,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 248345,
-      "num": 248345,
-      "word": "世界破破烂烂 小狗缝缝补补",
-      "onboard_time": 1685336311,
-      "rank": 19,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 244059,
       "num": 244059,
       "word": "A股",
@@ -891,6 +907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207503,
+      "num": 207503,
+      "word": "时尚芭莎",
+      "onboard_time": 1685334993,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 205966,
       "num": 205966,
       "word": "白桃星座",
@@ -913,6 +937,14 @@
       "onboard_time": 1685321848,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198616,
+      "num": 198616,
+      "word": "看来这只猫作恶多端不是一两天了",
+      "onboard_time": 1685337868,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 197883,
@@ -971,14 +1003,6 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 192268,
-      "num": 192268,
-      "word": "时尚芭莎",
-      "onboard_time": 1685334993,
-      "rank": 38,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 191546,
       "num": 191546,
       "word": "如果以后丫丫展出你会去看吗",
@@ -1001,6 +1025,14 @@
       "onboard_time": 1685329407,
       "rank": 40,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 185720,
+      "num": 185720,
+      "word": "被砍死柯基主人正在派出所补充材料",
+      "onboard_time": 1685338228,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184913,
@@ -1033,6 +1065,14 @@
       "onboard_time": 1685288131,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 171083,
+      "num": 171083,
+      "word": "一个人的命运很大程度挂在自己嘴上",
+      "onboard_time": 1685337151,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 169855,
@@ -1115,20 +1155,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 150562,
+      "num": 150562,
+      "word": "黑莲花或将延期",
+      "onboard_time": 1685337748,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148901,
       "num": 148901,
       "word": "王子文白裙好温柔",
       "onboard_time": 1685286569,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 144531,
-      "num": 144531,
-      "word": "一个人的命运很大程度挂在自己嘴上",
-      "onboard_time": 1685337151,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 141910,
@@ -1145,6 +1185,22 @@
       "onboard_time": 1685294060,
       "rank": 36,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 136595,
+      "num": 136595,
+      "word": "丫丫回家北动熊猫全家福更新",
+      "onboard_time": 1685337687,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134990,
+      "num": 134990,
+      "word": "食万八千里2定档",
+      "onboard_time": 1685338347,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 134439,

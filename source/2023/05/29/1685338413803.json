@@ -1,0 +1,410 @@
+{
+  "runTime": 1685338413803,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1969724,
+        "num": 1969724,
+        "word": "砍死柯基男子被警方带走调查",
+        "onboard_time": 1685335174,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1897066,
+        "num": 1897066,
+        "word": "妇联回应男子砍杀柯基威胁妻子",
+        "onboard_time": 1685330848,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50572,
+        "num": 1435092,
+        "word": "聚焦神舟十六号",
+        "onboard_time": 1685329348,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1374232,
+        "num": 1374232,
+        "word": "央视评家有儿女疑似被恶意评分",
+        "onboard_time": 1685326947,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1172715,
+        "num": 1172715,
+        "word": "张萌问我出轨的角色这么经典吗",
+        "onboard_time": 1685324187,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1052609,
+        "num": 1052609,
+        "word": "互联网真换了一批人啊",
+        "onboard_time": 1685326527,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1010737,
+        "num": 1010737,
+        "word": "虞书欣的上衣是草编的",
+        "onboard_time": 1685334571,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1006752,
+        "num": 1006752,
+        "word": "迪丽热巴的假蛇玩具",
+        "onboard_time": 1685325928,
+        "rank": 7,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 958674,
+        "num": 958674,
+        "word": "上厕所途中千万不要冲厕所",
+        "onboard_time": 1685323827,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 936190,
+        "num": 936190,
+        "word": "丫丫一到家就被竹子包围了",
+        "onboard_time": 1685315900,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 967434,
+        "num": 902138,
+        "word": "BLACKPINK文案引争议",
+        "onboard_time": 1685323528,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 849645,
+        "num": 849645,
+        "word": "俄对乌开出停火要求",
+        "onboard_time": 1685333491,
+        "rank": 11,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 525920,
+        "num": 525920,
+        "word": "迪丽热巴龚俊或将同台",
+        "onboard_time": 1685334753,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 449200,
+        "num": 449200,
+        "word": "费曼中了周杰伦的帽子",
+        "onboard_time": 1685328149,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368217,
+        "num": 368217,
+        "word": "世界破破烂烂 小狗缝缝补补",
+        "onboard_time": 1685336311,
+        "rank": 14,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 434733,
+        "num": 368182,
+        "word": "十个勤天",
+        "onboard_time": 1685330010,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400860,
+        "num": 367828,
+        "word": "竟然有人不认识宋丹丹",
+        "onboard_time": 1685324127,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366946,
+        "num": 366946,
+        "word": "山姆超市同款蛋糕杭州卖165上海卖95",
+        "onboard_time": 1685320948,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336671,
+        "num": 336671,
+        "word": "肖战说王楚钦孙颖莎表现完美",
+        "onboard_time": 1685329949,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321106,
+        "num": 321106,
+        "word": "虞书欣杨天真阿那亚合照",
+        "onboard_time": 1685333850,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389386,
+        "num": 321040,
+        "word": "一条龙鱼居然能换一套房",
+        "onboard_time": 1685333731,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1102102,
+        "num": 321016,
+        "word": "被砍死柯基主人回应",
+        "onboard_time": 1685331688,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320869,
+        "num": 320869,
+        "word": "丫丫在竹子海洋里轻松微笑干饭",
+        "onboard_time": 1685322988,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308645,
+        "num": 308645,
+        "word": "曾毅宝石老舅说唱好绝",
+        "onboard_time": 1685337868,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273404,
+        "num": 273404,
+        "word": "不要因为同事关系而离职",
+        "onboard_time": 1685333731,
+        "rank": 24,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 294028,
+        "num": 270349,
+        "word": "张翰新剧演庄周",
+        "onboard_time": 1685332591,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260595,
+        "num": 260595,
+        "word": "赵今麦吴磊好配",
+        "onboard_time": 1685333248,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211192,
+        "num": 211192,
+        "word": "河南阴雨 麦子发霉",
+        "onboard_time": 1685326408,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209165,
+        "num": 209165,
+        "word": "7个月宝宝患癌妈妈躲走廊自责落泪",
+        "onboard_time": 1685331568,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207503,
+        "num": 207503,
+        "word": "时尚芭莎",
+        "onboard_time": 1685334993,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 281550,
+        "num": 204946,
+        "word": "实习生说他熟练掌握excel",
+        "onboard_time": 1685337868,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198616,
+        "num": 198616,
+        "word": "看来这只猫作恶多端不是一两天了",
+        "onboard_time": 1685337868,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216157,
+        "num": 198267,
+        "word": "GAI 活死人",
+        "onboard_time": 1685318546,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203436,
+        "num": 198240,
+        "word": "被徐姥爷的微博评论区感动了",
+        "onboard_time": 1685334931,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197158,
+        "num": 197158,
+        "word": "比亚迪",
+        "onboard_time": 1685334090,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188866,
+        "num": 188866,
+        "word": "更适合中国宝宝体质的BLACKPINK",
+        "onboard_time": 1685336491,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185720,
+        "num": 185720,
+        "word": "被砍死柯基主人正在派出所补充材料",
+        "onboard_time": 1685338228,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185604,
+        "num": 185604,
+        "word": "A股",
+        "onboard_time": 1685331030,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 176925,
+        "num": 176925,
+        "word": "老公每月给你两万但不回家",
+        "onboard_time": 1685283752,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175875,
+        "num": 175875,
+        "word": "王源 赵英俊",
+        "onboard_time": 1685314879,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172044,
+        "num": 172044,
+        "word": "你知道七子之歌吗",
+        "onboard_time": 1685331268,
+        "rank": 40,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 171083,
+        "num": 171083,
+        "word": "一个人的命运很大程度挂在自己嘴上",
+        "onboard_time": 1685337151,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162236,
+        "num": 162236,
+        "word": "种地吧",
+        "onboard_time": 1685332891,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158425,
+        "num": 158425,
+        "word": "虹猫蓝兔重制版",
+        "onboard_time": 1685329228,
+        "rank": 43,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 152241,
+        "num": 152241,
+        "word": "老年人再就业释放人口红利",
+        "onboard_time": 1685329107,
+        "rank": 44,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 150562,
+        "num": 150562,
+        "word": "黑莲花或将延期",
+        "onboard_time": 1685337748,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136595,
+        "num": 136595,
+        "word": "丫丫回家北动熊猫全家福更新",
+        "onboard_time": 1685337687,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134990,
+        "num": 134990,
+        "word": "食万八千里2定档",
+        "onboard_time": 1685338347,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134298,
+        "num": 134298,
+        "word": "王浩信陈自瑶不是TVB最恩爱夫妻",
+        "onboard_time": 1685326827,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133175,
+        "num": 133175,
+        "word": "萌兰",
+        "onboard_time": 1685327967,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国高铁如何创造世界之最#"
+    }
+  }
+}
