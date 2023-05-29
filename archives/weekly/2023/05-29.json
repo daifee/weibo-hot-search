@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685324109981,
+  "endTime": 1685325238296,
   "band_list": [
     {
       "raw_hot": 3128535,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1605204,
-      "num": 1605204,
+      "raw_hot": 1680113,
+      "num": 1680113,
       "word": "山姆超市同款蛋糕杭州卖165上海卖95",
       "onboard_time": 1685320948,
       "rank": 1,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1195554,
+      "num": 278681,
+      "word": "山东一男子砍杀柯基威胁妻子",
+      "onboard_time": 1685323528,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1075560,
       "num": 1075560,
       "word": "五月天欠下九十万斤水饺的债",
@@ -67,12 +75,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 987341,
-      "num": 987341,
+      "raw_hot": 1038388,
+      "num": 1038388,
       "word": "王源 赵英俊",
       "onboard_time": 1685314879,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1026801,
+      "num": 528265,
+      "word": "上厕所途中千万不要冲厕所",
+      "onboard_time": 1685323827,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 970422,
@@ -91,11 +107,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 894425,
+      "num": 894425,
+      "word": "他用生命最后76秒救了24名乘客",
+      "onboard_time": 1685322328,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 890363,
       "num": 280801,
       "word": "张丹峰说西宁是广西省会",
       "onboard_time": 1685317524,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 880134,
+      "num": 880134,
+      "word": "BLACKPINK文案引争议",
+      "onboard_time": 1685323528,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -131,6 +163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 661629,
+      "num": 263785,
+      "word": "张萌问我出轨的角色这么经典吗",
+      "onboard_time": 1685324187,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 661520,
       "num": 661520,
       "word": "国乒12人参赛11人夺牌",
@@ -155,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 565139,
+      "num": 565139,
+      "word": "竟然有人不认识宋丹丹",
+      "onboard_time": 1685324127,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 556392,
       "num": 556392,
       "word": "胖莎",
@@ -175,14 +223,6 @@
       "num": 519124,
       "word": "丫丫已落地北京",
       "onboard_time": 1685285252,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 503560,
-      "num": 503560,
-      "word": "他用生命最后76秒救了24名乘客",
-      "onboard_time": 1685322328,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -227,12 +267,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 408313,
-      "num": 245639,
-      "word": "上厕所途中千万不要冲厕所",
-      "onboard_time": 1685323827,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 416830,
+      "num": 416830,
+      "word": "一条微信状态让初中班主任找到我",
+      "onboard_time": 1685323888,
+      "rank": 39,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 401536,
@@ -241,6 +281,14 @@
       "onboard_time": 1685317284,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 375401,
+      "num": 375401,
+      "word": "丫丫在竹子海洋里轻松微笑干饭",
+      "onboard_time": 1685322988,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 374606,
@@ -268,18 +316,10 @@
     },
     {
       "raw_hot": 350428,
-      "num": 278867,
+      "num": 291566,
       "word": "蔡徐坤发了个太阳",
       "onboard_time": 1685323888,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 339893,
-      "num": 339893,
-      "word": "BLACKPINK文案引争议",
-      "onboard_time": 1685323528,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -304,14 +344,6 @@
       "word": "织金通报教师不幸溺亡事件",
       "onboard_time": 1685310973,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 305324,
-      "num": 305324,
-      "word": "丫丫在竹子海洋里轻松微笑干饭",
-      "onboard_time": 1685322988,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -347,12 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 278681,
-      "num": 278681,
-      "word": "山东一男子砍杀柯基威胁妻子",
-      "onboard_time": 1685323528,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 278306,
+      "num": 254039,
+      "word": "东宫虐还是周生如故虐",
+      "onboard_time": 1685323346,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 277617,
@@ -376,6 +408,14 @@
       "word": "丫丫离开上海回京",
       "onboard_time": 1685278589,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267254,
+      "num": 190248,
+      "word": "发条微博祝福丫丫",
+      "onboard_time": 1685324966,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -449,14 +489,6 @@
       "onboard_time": 1685267489,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 239840,
-      "num": 239840,
-      "word": "东宫虐还是周生如故虐",
-      "onboard_time": 1685323346,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 237242,
@@ -547,14 +579,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 195354,
-      "num": 195354,
-      "word": "一条微信状态让初中班主任找到我",
-      "onboard_time": 1685323888,
-      "rank": 39,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 195105,
       "num": 195105,
       "word": "樊振东vs王楚钦",
@@ -571,12 +595,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193040,
+      "num": 193040,
+      "word": "鬼灭之刃",
+      "onboard_time": 1685321250,
+      "rank": 42,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 190397,
       "num": 190397,
       "word": "美依礼芽安利值断层第一",
       "onboard_time": 1685319087,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186631,
+      "num": 186631,
+      "word": "中国航天飞行工程师和载荷专家首秀",
+      "onboard_time": 1685324911,
+      "rank": 35,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 172573,
@@ -587,12 +627,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 172385,
-      "num": 172385,
-      "word": "鬼灭之刃",
-      "onboard_time": 1685321250,
+      "raw_hot": 169855,
+      "num": 169855,
+      "word": "敖瑞鹏少年江湖雨中打戏",
+      "onboard_time": 1685324966,
       "rank": 42,
-      "category": "动漫,影视"
+      "category": "影视"
     },
     {
       "raw_hot": 167760,
@@ -761,6 +801,14 @@
       "onboard_time": 1685281952,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109590,
+      "num": 148979,
+      "word": "王楚钦说下一次会更好的回来",
+      "onboard_time": 1685324248,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 104715,
