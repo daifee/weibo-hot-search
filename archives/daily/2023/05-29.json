@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685334028557,
+  "endTime": 1685334857355,
   "band_list": [
     {
       "raw_hot": 3128535,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2537621,
-      "num": 2537621,
+      "raw_hot": 2637870,
+      "num": 2637870,
       "word": "妇联回应男子砍杀柯基威胁妻子",
       "onboard_time": 1685330848,
       "rank": 9,
@@ -72,6 +72,14 @@
       "word": "山东一男子砍杀柯基威胁妻子",
       "onboard_time": 1685323528,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1396491,
+      "num": 866535,
+      "word": "被砍死柯基主人回应",
+      "onboard_time": 1685331688,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -171,14 +179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 866535,
-      "num": 866535,
-      "word": "被砍死柯基主人回应",
-      "onboard_time": 1685331688,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 862330,
       "num": 782353,
       "word": "费曼中了周杰伦的帽子",
@@ -235,6 +235,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 638534,
+      "num": 565757,
+      "word": "互联网真换了一批人啊",
+      "onboard_time": 1685326527,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 620355,
+      "num": 368847,
+      "word": "一条龙鱼居然能换一套房",
+      "onboard_time": 1685333731,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 617816,
       "num": 617816,
       "word": "丫丫",
@@ -256,14 +272,6 @@
       "word": "十个勤天",
       "onboard_time": 1685330010,
       "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 565757,
-      "num": 565757,
-      "word": "互联网真换了一批人啊",
-      "onboard_time": 1685326527,
-      "rank": 15,
       "category": "综艺"
     },
     {
@@ -331,8 +339,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 466476,
-      "num": 466476,
+      "raw_hot": 466837,
+      "num": 466837,
       "word": "宁安如梦又要空降了",
       "onboard_time": 1685331989,
       "rank": 15,
@@ -355,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 437154,
+      "num": 437154,
+      "word": "肖战说王楚钦孙颖莎表现完美",
+      "onboard_time": 1685329949,
+      "rank": 39,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 419340,
       "num": 279416,
       "word": "丫丫笑成了表情包",
@@ -371,20 +387,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 402062,
+      "num": 402062,
+      "word": "张翰新剧演庄周",
+      "onboard_time": 1685332591,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 401536,
       "num": 401536,
       "word": "王一博作品疑似被恶意打分",
       "onboard_time": 1685317284,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 391826,
-      "num": 391826,
-      "word": "肖战说王楚钦孙颖莎表现完美",
-      "onboard_time": 1685329949,
-      "rank": 39,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 375401,
@@ -411,20 +427,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 362774,
+      "num": 362774,
+      "word": "赵今麦吴磊好配",
+      "onboard_time": 1685333248,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 356089,
       "num": 356089,
       "word": "北京动物园回应丫丫是否展出",
       "onboard_time": 1685288011,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 351718,
-      "num": 351718,
-      "word": "张翰新剧演庄周",
-      "onboard_time": 1685332591,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 350428,
@@ -441,6 +457,14 @@
       "onboard_time": 1685327967,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334804,
+      "num": 239887,
+      "word": "迪丽热巴龚俊或将同台",
+      "onboard_time": 1685334753,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 334300,
@@ -507,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283330,
+      "num": 283330,
+      "word": "不要因为同事关系而离职",
+      "onboard_time": 1685333731,
+      "rank": 41,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 282858,
       "num": 200098,
       "word": "和人接触不要陷入对立情绪",
@@ -555,20 +587,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 271438,
-      "num": 271438,
-      "word": "一条龙鱼居然能换一套房",
-      "onboard_time": 1685333731,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 270252,
       "num": 270252,
       "word": "丫丫离开上海回京",
       "onboard_time": 1685278589,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268578,
+      "num": 239663,
+      "word": "俄对乌开出停火要求",
+      "onboard_time": 1685333491,
+      "rank": 46,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 267254,
@@ -635,20 +667,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 253688,
-      "num": 233602,
-      "word": "赵今麦吴磊好配",
-      "onboard_time": 1685333248,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 252334,
       "num": 252334,
       "word": "C919飞往成都",
       "onboard_time": 1685325687,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250951,
+      "num": 250951,
+      "word": "老年人再就业释放人口红利",
+      "onboard_time": 1685329107,
+      "rank": 31,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 250390,
@@ -707,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240583,
+      "num": 240583,
+      "word": "你知道七子之歌吗",
+      "onboard_time": 1685331268,
+      "rank": 38,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 237242,
       "num": 237242,
       "word": "桂海潮",
@@ -723,6 +763,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232157,
+      "num": 232157,
+      "word": "虞书欣杨天真阿那亚合照",
+      "onboard_time": 1685333850,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 230455,
+      "num": 225877,
+      "word": "虞书欣的上衣是草编的",
+      "onboard_time": 1685334571,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227636,
       "num": 227636,
       "word": "一次煮了一周的米饭",
@@ -731,28 +787,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 225481,
-      "num": 225481,
-      "word": "虞书欣杨天真阿那亚合照",
-      "onboard_time": 1685333850,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 224884,
       "num": 224884,
       "word": "7个月宝宝患癌妈妈躲走廊自责落泪",
       "onboard_time": 1685331568,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223950,
-      "num": 223950,
-      "word": "老年人再就业释放人口红利",
-      "onboard_time": 1685329107,
-      "rank": 31,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 220577,
@@ -784,6 +824,14 @@
       "word": "13岁女孩玩手机4个月花40多万",
       "onboard_time": 1685271988,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212868,
+      "num": 212868,
+      "word": "比亚迪",
+      "onboard_time": 1685334090,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -835,20 +883,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 195995,
+      "num": 195995,
+      "word": "张韶涵演唱会",
+      "onboard_time": 1685334392,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 195982,
       "num": 195982,
       "word": "中国航天飞行工程师和载荷专家首秀",
       "onboard_time": 1685324911,
       "rank": 35,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 195382,
-      "num": 195382,
-      "word": "你知道七子之歌吗",
-      "onboard_time": 1685331268,
-      "rank": 38,
-      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 195105,
@@ -873,14 +921,6 @@
       "onboard_time": 1685330429,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 193194,
-      "num": 193194,
-      "word": "不要因为同事关系而离职",
-      "onboard_time": 1685333731,
-      "rank": 41,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 193040,
@@ -929,14 +969,6 @@
       "onboard_time": 1685327547,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 181573,
-      "num": 181573,
-      "word": "俄对乌开出停火要求",
-      "onboard_time": 1685333491,
-      "rank": 46,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 172573,
@@ -1124,7 +1156,7 @@
     },
     {
       "raw_hot": 124657,
-      "num": 124657,
+      "num": 1215640,
       "word": "聚焦神舟十六号",
       "onboard_time": 1685329348,
       "rank": 47,
@@ -1267,6 +1299,14 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 65985,
+      "num": 497120,
+      "word": "老师用相机记录小学生6年成长",
+      "onboard_time": 1685333010,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64511,
       "num": 64511,
       "word": "布伦特福德1比0曼城",
@@ -1280,14 +1320,6 @@
       "word": "老人轮椅失控辅警狂奔刹停",
       "onboard_time": 1685293460,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37728,
-      "num": 497120,
-      "word": "老师用相机记录小学生6年成长",
-      "onboard_time": 1685333010,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
