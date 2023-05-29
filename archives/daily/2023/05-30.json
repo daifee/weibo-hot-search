@@ -1,6 +1,6 @@
 {
   "startTime": 1685377320709,
-  "endTime": 1685394885600,
+  "endTime": 1685395996403,
   "band_list": [
     {
       "raw_hot": 2404694,
@@ -484,15 +484,15 @@
     },
     {
       "raw_hot": 29930,
-      "num": 20464,
+      "num": 25766,
       "word": "普通家庭怎么带孩子见世面",
       "onboard_time": 1685393472,
       "rank": 31,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20454,
-      "num": 20454,
+      "raw_hot": 24117,
+      "num": 24117,
       "word": "公诉",
       "onboard_time": 1685360607,
       "rank": 49,
