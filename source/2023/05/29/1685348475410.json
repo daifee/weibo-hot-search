@@ -1,0 +1,410 @@
+{
+  "runTime": 1685348475410,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1654506,
+        "num": 1654506,
+        "word": "你不认识SHE我不认识101",
+        "onboard_time": 1685339425,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1351077,
+        "num": 1351077,
+        "word": "继母虐待打死6岁男童获死刑",
+        "onboard_time": 1685343506,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70124,
+        "num": 1119080,
+        "word": "神舟十六号航天员见面会",
+        "onboard_time": 1685346328,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 2107639,
+        "num": 1043592,
+        "word": "柯基被砍当事人再发声",
+        "onboard_time": 1685342365,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 949360,
+        "num": 949360,
+        "word": "田曦薇别再瘦了",
+        "onboard_time": 1685344045,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1190596,
+        "num": 908780,
+        "word": "吉林高三女生失联6个月后遗体被发现",
+        "onboard_time": 1685344406,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 807800,
+        "num": 807800,
+        "word": "俄对乌开出停火要求",
+        "onboard_time": 1685333491,
+        "rank": 6,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 803404,
+        "num": 803404,
+        "word": "张嘉倪徐怀钰赵丽娜各跳各的",
+        "onboard_time": 1685345431,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 744623,
+        "num": 744623,
+        "word": "砍死柯基男子被警方带走调查",
+        "onboard_time": 1685335174,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631025,
+        "num": 631025,
+        "word": "高考307分女孩考研逆袭211",
+        "onboard_time": 1685347166,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 562191,
+        "num": 562191,
+        "word": "付辛博带路人儿子上厕所",
+        "onboard_time": 1685346268,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506962,
+        "num": 506962,
+        "word": "虞书欣的上衣是草编的",
+        "onboard_time": 1685334571,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407796,
+        "num": 407796,
+        "word": "上厕所途中千万不要冲厕所",
+        "onboard_time": 1685323827,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 353383,
+        "num": 353383,
+        "word": "叶修26岁了",
+        "onboard_time": 1685342484,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 343101,
+        "num": 343101,
+        "word": "央视评家有儿女疑似被恶意评分",
+        "onboard_time": 1685326947,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341249,
+        "num": 341249,
+        "word": "这么好的夏天 要是有钱就好了",
+        "onboard_time": 1685345728,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 320020,
+        "num": 320020,
+        "word": "世界破破烂烂 小狗缝缝补补",
+        "onboard_time": 1685336311,
+        "rank": 16,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 313460,
+        "num": 313460,
+        "word": "互联网真换了一批人啊",
+        "onboard_time": 1685326527,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 312134,
+        "num": 312134,
+        "word": "不是每个人都适合结婚",
+        "onboard_time": 1685344527,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 300710,
+        "num": 300710,
+        "word": "妇联回应男子砍杀柯基威胁妻子",
+        "onboard_time": 1685330848,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414054,
+        "num": 298128,
+        "word": "iPhone16Pro机型为6.3和6.9英寸",
+        "onboard_time": 1685345728,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 401172,
+        "num": 294712,
+        "word": "领导凌晨一点给我发微信",
+        "onboard_time": 1685346567,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282753,
+        "num": 282753,
+        "word": "乐华2023家族演唱会官宣",
+        "onboard_time": 1685343326,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 278913,
+        "num": 278913,
+        "word": "穿了吊带老师不让我进教室",
+        "onboard_time": 1685347709,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 269797,
+        "num": 269797,
+        "word": "网友问金智秀为什么会跳Flower",
+        "onboard_time": 1685343926,
+        "rank": 24,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 235599,
+        "num": 235599,
+        "word": "实习生说他熟练掌握excel",
+        "onboard_time": 1685337868,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224091,
+        "num": 224091,
+        "word": "易烊千玺为五月天演唱会送花篮",
+        "onboard_time": 1685340866,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221913,
+        "num": 221913,
+        "word": "丫丫一到家就被竹子包围了",
+        "onboard_time": 1685315900,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205192,
+        "num": 205192,
+        "word": "上海高温",
+        "onboard_time": 1685344166,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204579,
+        "num": 204579,
+        "word": "闺蜜喝酒的双标时刻",
+        "onboard_time": 1685347467,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 129974,
+        "num": 201687,
+        "word": "荣耀90首发2亿像素写真相机",
+        "onboard_time": 1685347767,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 151758,
+        "num": 201192,
+        "word": "赵明称行业必然跟进零风险护眼屏",
+        "onboard_time": 1685347767,
+        "rank": 31,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 201022,
+        "num": 201022,
+        "word": "宋茜是我的嘴替吧",
+        "onboard_time": 1685344226,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203641,
+        "num": 200934,
+        "word": "蒋敦豪包场团建",
+        "onboard_time": 1685347828,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200093,
+        "num": 200093,
+        "word": "陕西事业单位",
+        "onboard_time": 1685344948,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 196930,
+        "num": 196930,
+        "word": "黄晓明不知道硬糖少女303",
+        "onboard_time": 1685342968,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177732,
+        "num": 177732,
+        "word": "王源十年前旧照",
+        "onboard_time": 1685347587,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174004,
+        "num": 174004,
+        "word": "丫丫回家北动熊猫全家福更新",
+        "onboard_time": 1685337687,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164645,
+        "num": 164645,
+        "word": "高三师生放666条锦鲤祝金榜题名",
+        "onboard_time": 1685346447,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162612,
+        "num": 162612,
+        "word": "吴磊现偶苏神",
+        "onboard_time": 1685339307,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151566,
+        "num": 151566,
+        "word": "迪丽热巴的假蛇玩具",
+        "onboard_time": 1685325928,
+        "rank": 40,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 147983,
+        "num": 147983,
+        "word": "00后的下饭剧",
+        "onboard_time": 1685342667,
+        "rank": 41,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 146412,
+        "num": 146412,
+        "word": "迪丽热巴龚俊或将同台",
+        "onboard_time": 1685334753,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137764,
+        "num": 137764,
+        "word": "张翰新剧演庄周",
+        "onboard_time": 1685332591,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134121,
+        "num": 134121,
+        "word": "张萌问我出轨的角色这么经典吗",
+        "onboard_time": 1685324187,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132682,
+        "num": 132682,
+        "word": "电影远航 山东鲁荣渔2682号惨案",
+        "onboard_time": 1685345306,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128358,
+        "num": 128358,
+        "word": "A股",
+        "onboard_time": 1685331030,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124530,
+        "num": 124530,
+        "word": "五月天分别是谁",
+        "onboard_time": 1685339186,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124163,
+        "num": 124163,
+        "word": "一条龙鱼居然能换一套房",
+        "onboard_time": 1685333731,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96837,
+        "num": 123727,
+        "word": "荣耀90",
+        "onboard_time": 1685338767,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国高铁如何创造世界之最#"
+    }
+  }
+}
