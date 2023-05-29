@@ -1,0 +1,410 @@
+{
+  "runTime": 1685328482867,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1909808,
+        "num": 1909808,
+        "word": "上厕所途中千万不要冲厕所",
+        "onboard_time": 1685323827,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1412215,
+        "num": 1412215,
+        "word": "丫丫一到家就被竹子包围了",
+        "onboard_time": 1685315900,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12351,
+        "num": 1374512,
+        "word": "沉浸式体验虚拟未来世界",
+        "onboard_time": 1685279849,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1373813,
+        "num": 1373813,
+        "word": "山姆超市同款蛋糕杭州卖165上海卖95",
+        "onboard_time": 1685320948,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1348446,
+        "num": 1348446,
+        "word": "BLACKPINK文案引争议",
+        "onboard_time": 1685323528,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1136481,
+        "num": 1136481,
+        "word": "竟然有人不认识宋丹丹",
+        "onboard_time": 1685324127,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1085984,
+        "num": 1085984,
+        "word": "央视评家有儿女疑似被恶意评分",
+        "onboard_time": 1685326947,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1034941,
+        "num": 1034941,
+        "word": "迪丽热巴的假蛇玩具",
+        "onboard_time": 1685325928,
+        "rank": 7,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 913007,
+        "num": 913007,
+        "word": "张萌问我出轨的角色这么经典吗",
+        "onboard_time": 1685324187,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 773878,
+        "num": 773878,
+        "word": "他用生命最后76秒救了24名乘客",
+        "onboard_time": 1685322328,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 876060,
+        "num": 736125,
+        "word": "GAI 活死人",
+        "onboard_time": 1685318546,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 661301,
+        "num": 661301,
+        "word": "王源 赵英俊",
+        "onboard_time": 1685314879,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 522720,
+        "num": 522720,
+        "word": "一条微信状态让初中班主任找到我",
+        "onboard_time": 1685323888,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 451953,
+        "num": 451953,
+        "word": "互联网真换了一批人啊",
+        "onboard_time": 1685326527,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385944,
+        "num": 385944,
+        "word": "老公每月给你两万但不回家",
+        "onboard_time": 1685283752,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 377489,
+        "num": 377489,
+        "word": "微信文字讨好症",
+        "onboard_time": 1685284472,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 373332,
+        "num": 373332,
+        "word": "大姨妈正常周期到底是几天",
+        "onboard_time": 1685286213,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 348426,
+        "num": 348426,
+        "word": "丫丫在竹子海洋里轻松微笑干饭",
+        "onboard_time": 1685322988,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293675,
+        "num": 293675,
+        "word": "河南阴雨 麦子发霉",
+        "onboard_time": 1685326408,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291009,
+        "num": 291009,
+        "word": "对着女歌手唱这种词合适吗",
+        "onboard_time": 1685319271,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1231536,
+        "num": 288712,
+        "word": "山东一男子砍杀柯基威胁妻子",
+        "onboard_time": 1685323528,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278975,
+        "num": 278975,
+        "word": "蔡徐坤发了个太阳",
+        "onboard_time": 1685323888,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263948,
+        "num": 263948,
+        "word": "朱杨柱",
+        "onboard_time": 1685327308,
+        "rank": 22,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 259565,
+        "num": 259565,
+        "word": "王浩信陈自瑶不是TVB最恩爱夫妻",
+        "onboard_time": 1685326827,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240201,
+        "num": 240201,
+        "word": "姬颜baby",
+        "onboard_time": 1685316262,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235700,
+        "num": 235700,
+        "word": "C919飞往成都",
+        "onboard_time": 1685325687,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216962,
+        "num": 216962,
+        "word": "东宫虐还是周生如故虐",
+        "onboard_time": 1685323346,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212337,
+        "num": 212337,
+        "word": "计划在2030年前实现中国人首次登陆月球",
+        "onboard_time": 1685325627,
+        "rank": 27,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 210876,
+        "num": 210876,
+        "word": "费曼中了周杰伦的帽子",
+        "onboard_time": 1685328149,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206777,
+        "num": 206777,
+        "word": "公诉开播",
+        "onboard_time": 1685327308,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1040157,
+        "num": 202511,
+        "word": "柯基被活活砍死",
+        "onboard_time": 1685316141,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730658,
+        "num": 198775,
+        "word": "张丹峰说西宁是广西省会",
+        "onboard_time": 1685317524,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192364,
+        "num": 192364,
+        "word": "丫丫笑成了表情包",
+        "onboard_time": 1685320109,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184953,
+        "num": 184953,
+        "word": "网友新疆偶遇吴磊骑行",
+        "onboard_time": 1685287770,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183586,
+        "num": 183586,
+        "word": "明星被恶意打分的作品",
+        "onboard_time": 1685327547,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183198,
+        "num": 183198,
+        "word": "王一博作品疑似被恶意打分",
+        "onboard_time": 1685317284,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175015,
+        "num": 175015,
+        "word": "萌兰",
+        "onboard_time": 1685327967,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165696,
+        "num": 165696,
+        "word": "丫丫需静养现不对外展出",
+        "onboard_time": 1685317405,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165535,
+        "num": 165535,
+        "word": "丫丫肉眼可见地胖了",
+        "onboard_time": 1685316804,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158451,
+        "num": 158451,
+        "word": "皮皮",
+        "onboard_time": 1685317886,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157112,
+        "num": 157112,
+        "word": "有人相爱有人下海",
+        "onboard_time": 1685321848,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154198,
+        "num": 154198,
+        "word": "中国航天飞行工程师和载荷专家首秀",
+        "onboard_time": 1685324911,
+        "rank": 41,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 154008,
+        "num": 154008,
+        "word": "鬼灭之刃",
+        "onboard_time": 1685321250,
+        "rank": 42,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 147343,
+        "num": 147343,
+        "word": "闪婚几天闹离婚男方索要6万彩礼",
+        "onboard_time": 1685316683,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145534,
+        "num": 145534,
+        "word": "终于捡到自愿的猫猫了",
+        "onboard_time": 1685319747,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 145250,
+        "num": 145250,
+        "word": "如果以后丫丫展出你会去看吗",
+        "onboard_time": 1685327009,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133144,
+        "num": 133144,
+        "word": "现在的蛙别太戏精了",
+        "onboard_time": 1685328268,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130764,
+        "num": 130764,
+        "word": "王楚钦说下一次会更好的回来",
+        "onboard_time": 1685324248,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127036,
+        "num": 127036,
+        "word": "丫丫回京现场画面",
+        "onboard_time": 1685315360,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89117,
+        "num": 124403,
+        "word": "皇马官方祝贺樊振东",
+        "onboard_time": 1685318669,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中关村论坛是全球科技创新的会客厅#"
+    }
+  }
+}
