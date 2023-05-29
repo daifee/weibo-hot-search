@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685344566382,
+  "endTime": 1685345613854,
   "band_list": [
     {
       "raw_hot": 3128535,
@@ -147,6 +147,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 1260878,
+      "num": 1260878,
+      "word": "柯基被砍当事人再发声",
+      "onboard_time": 1685342365,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1138318,
       "num": 1138318,
       "word": "竟然有人不认识宋丹丹",
@@ -203,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 947376,
+      "num": 507023,
+      "word": "继母虐待打死6岁男童获死刑",
+      "onboard_time": 1685343506,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 894425,
       "num": 894425,
       "word": "他用生命最后76秒救了24名乘客",
@@ -241,6 +257,14 @@
       "onboard_time": 1685287770,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 768300,
+      "num": 277642,
+      "word": "田曦薇别再瘦了",
+      "onboard_time": 1685344045,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 701142,
@@ -371,19 +395,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 502082,
-      "num": 192512,
-      "word": "继母虐待打死6岁男童获死刑",
-      "onboard_time": 1685343506,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 491531,
-      "num": 491531,
-      "word": "柯基被砍当事人再发声",
-      "onboard_time": 1685342365,
-      "rank": 9,
+      "raw_hot": 505139,
+      "num": 505139,
+      "word": "吉林高三女生失联6个月后遗体被发现",
+      "onboard_time": 1685344406,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -579,14 +595,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 333101,
-      "num": 205694,
-      "word": "田曦薇别再瘦了",
-      "onboard_time": 1685344045,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 331583,
       "num": 274443,
       "word": "蔡徐坤身上好多彩钻",
@@ -617,6 +625,14 @@
       "onboard_time": 1685322988,
       "rank": 15,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 319001,
+      "num": 319001,
+      "word": "网友问金智秀为什么会跳Flower",
+      "onboard_time": 1685343926,
+      "rank": 24,
+      "category": "音乐,幽默"
     },
     {
       "raw_hot": 315482,
@@ -667,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285029,
+      "num": 285029,
+      "word": "乐华2023家族演唱会官宣",
+      "onboard_time": 1685343326,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 282858,
       "num": 200098,
       "word": "和人接触不要陷入对立情绪",
@@ -697,6 +721,14 @@
       "onboard_time": 1685323346,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 278135,
+      "num": 278135,
+      "word": "宋茜是我的嘴替吧",
+      "onboard_time": 1685344226,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 277617,
@@ -859,6 +891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 245900,
+      "num": 237979,
+      "word": "黄晓明不知道硬糖少女303",
+      "onboard_time": 1685342968,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244059,
       "num": 244059,
       "word": "A股",
@@ -889,22 +929,6 @@
       "onboard_time": 1685331268,
       "rank": 38,
       "category": "社会新闻,音乐"
-    },
-    {
-      "raw_hot": 238452,
-      "num": 204828,
-      "word": "乐华2023家族演唱会官宣",
-      "onboard_time": 1685343326,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 237476,
-      "num": 204179,
-      "word": "网友问金智秀为什么会跳Flower",
-      "onboard_time": 1685343926,
-      "rank": 24,
-      "category": "音乐,幽默"
     },
     {
       "raw_hot": 237242,
@@ -945,14 +969,6 @@
       "onboard_time": 1685331568,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223424,
-      "num": 202483,
-      "word": "黄晓明不知道硬糖少女303",
-      "onboard_time": 1685342968,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 223164,
@@ -1065,6 +1081,14 @@
       "onboard_time": 1685287710,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203068,
+      "num": 203068,
+      "word": "不是每个人都适合结婚",
+      "onboard_time": 1685344527,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 201730,
@@ -1187,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190070,
+      "num": 190070,
+      "word": "上海高温",
+      "onboard_time": 1685344166,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189375,
       "num": 189375,
       "word": "山姆回应同款蛋糕各地不同价",
@@ -1225,14 +1257,6 @@
       "onboard_time": 1685327547,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 181251,
-      "num": 181251,
-      "word": "宋茜是我的嘴替吧",
-      "onboard_time": 1685344226,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 179914,
@@ -1299,12 +1323,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 161407,
-      "num": 161407,
-      "word": "上海高温",
-      "onboard_time": 1685344166,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 162793,
+      "num": 162793,
+      "word": "00后的下饭剧",
+      "onboard_time": 1685342667,
+      "rank": 49,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 159476,
@@ -1371,20 +1395,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144295,
-      "num": 144295,
-      "word": "吉林高三女生失联6个月后遗体被发现",
-      "onboard_time": 1685344406,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141910,
       "num": 141910,
       "word": "鹿晗蜘蛛侠主题曲MV",
       "onboard_time": 1685328748,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 140536,
+      "num": 140536,
+      "word": "陕西事业单位",
+      "onboard_time": 1685344948,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 139110,
@@ -1401,6 +1425,14 @@
       "onboard_time": 1685294060,
       "rank": 36,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 136286,
+      "num": 136286,
+      "word": "张嘉倪徐怀钰赵丽娜各跳各的",
+      "onboard_time": 1685345431,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 134990,
@@ -1483,14 +1515,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 126288,
-      "num": 124166,
-      "word": "00后的下饭剧",
-      "onboard_time": 1685342667,
-      "rank": 49,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 125655,
       "num": 125655,
       "word": "载荷专家桂海潮是北航教授",
@@ -1499,20 +1523,20 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 124737,
+      "num": 124737,
+      "word": "和老师拍毕业照主打一个欢乐",
+      "onboard_time": 1685345488,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 124657,
       "num": 1642582,
       "word": "聚焦神舟十六号",
       "onboard_time": 1685329348,
       "rank": 47,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 124192,
-      "num": 124192,
-      "word": "不是每个人都适合结婚",
-      "onboard_time": 1685344527,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 122715,
