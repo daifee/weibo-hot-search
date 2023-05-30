@@ -1,6 +1,6 @@
 {
   "startTime": 1685377320709,
-  "endTime": 1685442822460,
+  "endTime": 1685445233028,
   "band_list": [
     {
       "raw_hot": 4068594,
@@ -17,6 +17,14 @@
       "onboard_time": 1685416408,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2911606,
+      "num": 2911606,
+      "word": "迪丽热巴 刚出水的美人鱼",
+      "onboard_time": 1685444071,
+      "rank": 0,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2909330,
@@ -57,6 +65,14 @@
       "onboard_time": 1685431170,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1983177,
+      "num": 1307348,
+      "word": "南开大学 论文",
+      "onboard_time": 1685441190,
+      "rank": 23,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1979884,
@@ -171,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1339808,
+      "num": 1339808,
+      "word": "时尚芭莎红毯",
+      "onboard_time": 1685437649,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1311710,
       "num": 1311710,
       "word": "20岁小伙月入6000背百万房贷",
@@ -179,16 +203,8 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 1307765,
-      "num": 1307765,
-      "word": "时尚芭莎红毯",
-      "onboard_time": 1685437649,
-      "rank": 7,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1288664,
-      "num": 1288664,
+      "raw_hot": 1295628,
+      "num": 1295628,
       "word": "黄晓明尹正亲上了",
       "onboard_time": 1685440949,
       "rank": 8,
@@ -200,6 +216,14 @@
       "word": "大姑姐 韩国",
       "onboard_time": 1685402842,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1268643,
+      "num": 856208,
+      "word": "胡彦斌新恋情被曝后首发博",
+      "onboard_time": 1685432249,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -259,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1044375,
+      "num": 1044375,
+      "word": "迪丽热巴出图了吗",
+      "onboard_time": 1685439929,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1034471,
       "num": 1034471,
       "word": "四个显眼包",
@@ -296,14 +328,6 @@
       "word": "刘浩存在海底捞给路人唱生日歌",
       "onboard_time": 1685371055,
       "rank": 4,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 963737,
-      "num": 856208,
-      "word": "胡彦斌新恋情被曝后首发博",
-      "onboard_time": 1685432249,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -355,14 +379,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 825402,
-      "num": 825402,
-      "word": "南开大学 论文",
-      "onboard_time": 1685441190,
-      "rank": 23,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 808801,
       "num": 808801,
       "word": "光遇",
@@ -385,14 +401,6 @@
       "onboard_time": 1685370814,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 762929,
-      "num": 722752,
-      "word": "迪丽热巴出图了吗",
-      "onboard_time": 1685439929,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 749968,
@@ -475,12 +483,28 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 610869,
+      "num": 610869,
+      "word": "唐嫣露腿了",
+      "onboard_time": 1685443830,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 610378,
       "num": 418345,
       "word": "这居然是安陵容",
       "onboard_time": 1685420373,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 608655,
+      "num": 608655,
+      "word": "G社拍的赵露思",
+      "onboard_time": 1685441309,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 607207,
@@ -515,28 +539,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 557089,
-      "num": 557089,
-      "word": "神十六成功对接空间站组合体",
-      "onboard_time": 1685436209,
-      "rank": 13,
-      "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 542619,
-      "num": 542619,
+      "raw_hot": 561009,
+      "num": 561009,
       "word": "密室大逃脱",
       "onboard_time": 1685441669,
       "rank": 35,
       "category": "综艺"
     },
     {
-      "raw_hot": 539886,
-      "num": 539886,
-      "word": "G社拍的赵露思",
-      "onboard_time": 1685441309,
-      "rank": 20,
-      "category": "作品衍生,时尚"
+      "raw_hot": 557089,
+      "num": 557089,
+      "word": "神十六成功对接空间站组合体",
+      "onboard_time": 1685436209,
+      "rank": 13,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 539317,
@@ -611,6 +627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 497099,
+      "num": 270488,
+      "word": "范丞丞 裙子",
+      "onboard_time": 1685442030,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 495614,
       "num": 495614,
       "word": "坐火箭太爽了",
@@ -635,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 474743,
+      "num": 270250,
+      "word": "迪丽热巴大深V裙",
+      "onboard_time": 1685444310,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 471030,
       "num": 408159,
       "word": "白敬亭他叔",
@@ -657,6 +689,14 @@
       "onboard_time": 1685435431,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 442019,
+      "num": 201358,
+      "word": "宋茜玫瑰粉裙",
+      "onboard_time": 1685444310,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 441314,
@@ -707,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 404268,
+      "num": 200582,
+      "word": "赵丽颖星点莹白缀薄纱裙",
+      "onboard_time": 1685444431,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 403701,
       "num": 403701,
       "word": "鹿晗演唱会主办方是自己",
@@ -724,7 +772,7 @@
     },
     {
       "raw_hot": 394902,
-      "num": 1323558,
+      "num": 1578677,
       "word": "坠楼瞬间他用身体死死护住小女孩",
       "onboard_time": 1685421696,
       "rank": 31,
@@ -849,6 +897,14 @@
       "onboard_time": 1685413167,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 343385,
+      "num": 164219,
+      "word": "龚俊红毯走一半戴墨镜",
+      "onboard_time": 1685442390,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 341027,
@@ -1107,6 +1163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 276738,
+      "num": 191244,
+      "word": "张彬彬吴倩吻到脸红心跳",
+      "onboard_time": 1685444609,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 276386,
       "num": 276386,
       "word": "StrayKids新专辑预售破493万",
@@ -1129,6 +1193,14 @@
       "onboard_time": 1685437228,
       "rank": 38,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 268298,
+      "num": 268298,
+      "word": "茅台冰淇淋一年卖出近千万杯",
+      "onboard_time": 1685442694,
+      "rank": 49,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 267962,
@@ -1179,12 +1251,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 260977,
-      "num": 185818,
-      "word": "范丞丞 裙子",
-      "onboard_time": 1685442030,
-      "rank": 35,
-      "category": "作品衍生"
+      "raw_hot": 259954,
+      "num": 154551,
+      "word": "藤井风 上海",
+      "onboard_time": 1685442874,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 258441,
+      "num": 1314428,
+      "word": "凌晨4点民警上门拥抱安慰哭泣男孩",
+      "onboard_time": 1685443711,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256068,
@@ -1345,14 +1425,6 @@
       "onboard_time": 1685413770,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231121,
-      "num": 164219,
-      "word": "龚俊红毯走一半戴墨镜",
-      "onboard_time": 1685442390,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 230744,
@@ -1699,6 +1771,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 190000,
+      "num": 157187,
+      "word": "6月定档好多剧啊",
+      "onboard_time": 1685441790,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 188530,
+      "num": 188530,
+      "word": "水波蛋",
+      "onboard_time": 1685444911,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188436,
       "num": 188436,
       "word": "清醒的感受失去才是自虐",
@@ -1923,6 +2011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163189,
+      "num": 163189,
+      "word": "秦刚会见特斯拉首席执行官马斯克",
+      "onboard_time": 1685444009,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160810,
       "num": 160810,
       "word": "王源演唱会四年前vs四年后",
@@ -1963,12 +2059,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157187,
-      "num": 157187,
-      "word": "6月定档好多剧啊",
-      "onboard_time": 1685441790,
-      "rank": 45,
-      "category": "影视"
+      "raw_hot": 157524,
+      "num": 157524,
+      "word": "蛋仔派对",
+      "onboard_time": 1685444490,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 155410,
@@ -1977,6 +2073,14 @@
       "onboard_time": 1685360308,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153219,
+      "num": 153219,
+      "word": "王者荣耀",
+      "onboard_time": 1685444911,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 150521,
@@ -2004,7 +2108,7 @@
     },
     {
       "raw_hot": 148379,
-      "num": 1240743,
+      "num": 1297023,
       "word": "高校短片记录见义勇为牺牲同学的生平",
       "onboard_time": 1685433329,
       "rank": 4,
@@ -2041,14 +2145,6 @@
       "onboard_time": 1685365289,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 135712,
-      "num": 135712,
-      "word": "茅台冰淇淋一年卖出近千万杯",
-      "onboard_time": 1685442694,
-      "rank": 49,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 133303,
@@ -2380,7 +2476,7 @@
     },
     {
       "raw_hot": 18870,
-      "num": 1349121,
+      "num": 1404872,
       "word": "点亮精神火炬",
       "onboard_time": 1685416949,
       "rank": 2,
