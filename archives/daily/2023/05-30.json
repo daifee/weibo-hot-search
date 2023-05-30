@@ -1,6 +1,6 @@
 {
   "startTime": 1685377320709,
-  "endTime": 1685427688287,
+  "endTime": 1685428439600,
   "band_list": [
     {
       "raw_hot": 4068594,
@@ -139,6 +139,14 @@
       "category": "财经,幽默"
     },
     {
+      "raw_hot": 1125920,
+      "num": 1125920,
+      "word": "身体缺什么 嘴巴早知道",
+      "onboard_time": 1685423972,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1115603,
       "num": 1115603,
       "word": "大熊猫园润遭男子泼水",
@@ -171,6 +179,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 1020188,
+      "num": 568448,
+      "word": "宋轶白敬亭好嗑",
+      "onboard_time": 1685423972,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 999225,
       "num": 999225,
       "word": "刘浩存在海底捞给路人唱生日歌",
@@ -185,22 +201,6 @@
       "onboard_time": 1685420432,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 937081,
-      "num": 937081,
-      "word": "身体缺什么 嘴巴早知道",
-      "onboard_time": 1685423972,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 932961,
-      "num": 541379,
-      "word": "宋轶白敬亭好嗑",
-      "onboard_time": 1685423972,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 872855,
@@ -307,6 +307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 579229,
+      "num": 579229,
+      "word": "秦昊恋爱脑",
+      "onboard_time": 1685426371,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 573742,
       "num": 573742,
       "word": "任素汐问张译他俩为什么被提名",
@@ -321,6 +329,14 @@
       "onboard_time": 1685412087,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 534656,
+      "num": 534656,
+      "word": "生孩子到底能治什么病",
+      "onboard_time": 1685423911,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 534368,
@@ -387,14 +403,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 476012,
-      "num": 476012,
-      "word": "生孩子到底能治什么病",
-      "onboard_time": 1685423911,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 475838,
       "num": 475838,
       "word": "以爱为营",
@@ -433,14 +441,6 @@
       "onboard_time": 1685409568,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 427433,
-      "num": 427433,
-      "word": "秦昊恋爱脑",
-      "onboard_time": 1685426371,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 423449,
@@ -499,6 +499,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 378069,
+      "num": 299430,
+      "word": "专家称女性独立的副作用是生育下降",
+      "onboard_time": 1685426670,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373279,
       "num": 373279,
       "word": "新娘坐婚车睡着新郎一路托着头",
@@ -513,6 +521,14 @@
       "onboard_time": 1685414007,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 368594,
+      "num": 368594,
+      "word": "陈都灵粉色吊带",
+      "onboard_time": 1685427268,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 362687,
@@ -699,14 +715,6 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 284239,
-      "num": 284239,
-      "word": "专家称女性独立的副作用是生育下降",
-      "onboard_time": 1685426670,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 284114,
       "num": 284114,
       "word": "有个镇里的孩子要去宇宙了",
@@ -739,6 +747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 276386,
+      "num": 276386,
+      "word": "StrayKids新专辑预售破493万",
+      "onboard_time": 1685427808,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 275556,
       "num": 275556,
       "word": "青春有你2时期的金子涵",
@@ -763,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267561,
+      "num": 267561,
+      "word": "河南紧急下拨2亿元用于小麦烘干",
+      "onboard_time": 1685427088,
+      "rank": 39,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 267265,
       "num": 267265,
       "word": "神舟十六号",
@@ -777,6 +801,22 @@
       "onboard_time": 1685409389,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 261160,
+      "num": 261160,
+      "word": "迪丽热巴龚俊坐在一起",
+      "onboard_time": 1685427808,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 258874,
+      "num": 240834,
+      "word": "20岁小伙月入6000背百万房贷",
+      "onboard_time": 1685427808,
+      "rank": 30,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 256068,
@@ -841,6 +881,14 @@
       "onboard_time": 1685419893,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 244684,
+      "num": 244684,
+      "word": "种地吧感恩音乐会官宣嘉宾阵容",
+      "onboard_time": 1685427808,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 243406,
@@ -1027,14 +1075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 204885,
-      "num": 204885,
-      "word": "陈都灵粉色吊带",
-      "onboard_time": 1685427268,
-      "rank": 30,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 203145,
       "num": 203145,
       "word": "热火晋级总决赛",
@@ -1083,6 +1123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199847,
+      "num": 199847,
+      "word": "斗罗大陆2",
+      "onboard_time": 1685427328,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198816,
       "num": 198816,
       "word": "没前景的工作要不要辞职",
@@ -1091,12 +1139,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 195844,
-      "num": 195844,
+      "raw_hot": 198619,
+      "num": 198619,
       "word": "灿烂灿烂定档",
       "onboard_time": 1685426791,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196930,
+      "num": 196930,
+      "word": "中国文艺网评陶昕然",
+      "onboard_time": 1685427928,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 193713,
@@ -1136,6 +1192,14 @@
       "word": "上厕所千万别蹲太长时间",
       "onboard_time": 1685420674,
       "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 186882,
+      "num": 186882,
+      "word": "千万别用这种一次性手套了",
+      "onboard_time": 1685427808,
+      "rank": 38,
       "category": "幽默"
     },
     {
@@ -1339,20 +1403,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154740,
-      "num": 172768,
-      "word": "河南紧急下拨2亿元用于小麦烘干",
-      "onboard_time": 1685427088,
-      "rank": 39,
-      "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 153648,
-      "num": 153648,
-      "word": "斗罗大陆2",
-      "onboard_time": 1685427328,
-      "rank": 43,
-      "category": "影视"
+      "raw_hot": 154630,
+      "num": 154630,
+      "word": "白鲸为什么要喂冰块",
+      "onboard_time": 1685428049,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150521,
@@ -1401,6 +1457,14 @@
       "onboard_time": 1685365289,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133303,
+      "num": 153840,
+      "word": "桂海潮的同事说会把地上的事处理好",
+      "onboard_time": 1685428290,
+      "rank": 48,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 128898,
@@ -1579,6 +1643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 63178,
+      "num": 433521,
+      "word": "第一书记离任村民冒雨含泪送别",
+      "onboard_time": 1685427148,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60070,
       "num": 60070,
       "word": "公诉角色关键词海报",
@@ -1601,14 +1673,6 @@
       "onboard_time": 1685381238,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46628,
-      "num": 433521,
-      "word": "第一书记离任村民冒雨含泪送别",
-      "onboard_time": 1685427148,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35551,
