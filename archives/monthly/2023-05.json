@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685460832659,
+  "endTime": 1685463570565,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -4899,6 +4899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1453395,
+      "num": 1453395,
+      "word": "TFBOYS",
+      "onboard_time": 1685460155,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1451767,
       "num": 1451767,
       "word": "霍华德道歉并辩解",
@@ -7177,6 +7185,14 @@
       "onboard_time": 1684746630,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1167189,
+      "num": 1167189,
+      "word": "你每个月洗澡多少次",
+      "onboard_time": 1685460992,
+      "rank": 1,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 1166639,
@@ -13227,14 +13243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 667922,
-      "num": 471880,
-      "word": "TFBOYS",
-      "onboard_time": 1685460155,
-      "rank": 11,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 667585,
       "num": 506905,
       "word": "赵露思出发韩国路透",
@@ -15409,6 +15417,14 @@
       "onboard_time": 1685418811,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 573439,
+      "num": 309775,
+      "word": "龚俊手机屏保是花花",
+      "onboard_time": 1685457698,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 573412,
@@ -18283,14 +18299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 490126,
-      "num": 288560,
-      "word": "龚俊手机屏保是花花",
-      "onboard_time": 1685457698,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 490032,
       "num": 352375,
       "word": "虞书欣 纪梵希",
@@ -20571,6 +20579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 441225,
+      "num": 284100,
+      "word": "王源演唱会最累的是王俊凯员工",
+      "onboard_time": 1685459794,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 441100,
       "num": 441100,
       "word": "护心导演点赞拉踩长月烬明内容",
@@ -21451,6 +21467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 425061,
+      "num": 248371,
+      "word": "何炅谢娜黄磊逛菜市场",
+      "onboard_time": 1685460335,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 424997,
       "num": 424997,
       "word": "印尼警方称巴厘岛命案不存在第三人",
@@ -21937,14 +21961,6 @@
       "onboard_time": 1685355629,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 418101,
-      "num": 215599,
-      "word": "王源演唱会最累的是王俊凯员工",
-      "onboard_time": 1685459794,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 418096,
@@ -30315,14 +30331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 310980,
-      "num": 193257,
-      "word": "何炅谢娜黄磊逛菜市场",
-      "onboard_time": 1685460335,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 310789,
       "num": 292842,
       "word": "FENDI红毯",
@@ -32971,6 +32979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 285022,
+      "num": 285022,
+      "word": "普通人的一生应该是怎样的",
+      "onboard_time": 1685460512,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 284997,
       "num": 228451,
       "word": "男子强拉妻子退几十元衣服",
@@ -34249,6 +34265,14 @@
       "onboard_time": 1684830208,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 274651,
+      "num": 323062,
+      "word": "现在的课桌都能躺着午睡了",
+      "onboard_time": 1685459316,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 274638,
@@ -38673,14 +38697,6 @@
       "onboard_time": 1683258692,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 242291,
-      "num": 196211,
-      "word": "现在的课桌都能躺着午睡了",
-      "onboard_time": 1685459316,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 242287,
@@ -53995,6 +54011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160077,
+      "num": 238031,
+      "word": "民警通宵审毒贩熬死了一地蚊子",
+      "onboard_time": 1685462609,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160043,
       "num": 160043,
       "word": "邓佳鑫舞台",
@@ -54697,6 +54721,14 @@
       "onboard_time": 1683900872,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 156674,
+      "num": 121156,
+      "word": "吴磊到新疆了",
+      "onboard_time": 1685462010,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 156664,
@@ -56289,14 +56321,6 @@
       "onboard_time": 1684029926,
       "rank": 45,
       "category": "综艺,幽默"
-    },
-    {
-      "raw_hot": 147960,
-      "num": 156096,
-      "word": "普通人的一生应该是怎样的",
-      "onboard_time": 1685460512,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 147925,
@@ -58281,6 +58305,14 @@
       "onboard_time": 1685428290,
       "rank": 48,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 133291,
+      "num": 133291,
+      "word": "亲密关系最忌讳炫耀自己受欢迎",
+      "onboard_time": 1685463089,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 133166,
@@ -64107,6 +64139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 61489,
+      "num": 1144727,
+      "word": "掘地三万尺中国又一壮举",
+      "onboard_time": 1685459974,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61390,
       "num": 1500514,
       "word": "小满节气里的中国智慧",
@@ -65217,14 +65257,6 @@
       "onboard_time": 1683414139,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 37754,
-      "num": 1144727,
-      "word": "掘地三万尺中国又一壮举",
-      "onboard_time": 1685459974,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36946,
