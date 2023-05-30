@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685445233028,
+  "endTime": 1685446405766,
   "band_list": [
     {
       "raw_hot": 4068594,
@@ -19,6 +19,14 @@
       "category": "社会新闻,游戏"
     },
     {
+      "raw_hot": 3420234,
+      "num": 3420234,
+      "word": "迪丽热巴 刚出水的美人鱼",
+      "onboard_time": 1685444071,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 3128535,
       "num": 3128535,
       "word": "丫丫一到家就被竹子包围了",
@@ -33,14 +41,6 @@
       "onboard_time": 1685416408,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2911606,
-      "num": 2911606,
-      "word": "迪丽热巴 刚出水的美人鱼",
-      "onboard_time": 1685444071,
-      "rank": 0,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 2909330,
@@ -131,20 +131,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2005504,
+      "num": 1307348,
+      "word": "南开大学 论文",
+      "onboard_time": 1685441190,
+      "rank": 23,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1993737,
       "num": 1993737,
       "word": "官方通报男子砍杀柯基威胁妻子",
       "onboard_time": 1685371055,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1983177,
-      "num": 1307348,
-      "word": "南开大学 论文",
-      "onboard_time": 1685441190,
-      "rank": 23,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1979884,
@@ -691,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 891701,
+      "num": 610869,
+      "word": "唐嫣露腿了",
+      "onboard_time": 1685443830,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 890363,
       "num": 280801,
       "word": "张丹峰说西宁是广西省会",
@@ -923,6 +931,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 633122,
+      "num": 608655,
+      "word": "G社拍的赵露思",
+      "onboard_time": 1685441309,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 628445,
       "num": 628445,
       "word": "世界破破烂烂 小狗缝缝补补",
@@ -971,14 +987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 610869,
-      "num": 610869,
-      "word": "唐嫣露腿了",
-      "onboard_time": 1685443830,
-      "rank": 18,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 610378,
       "num": 418345,
       "word": "这居然是安陵容",
@@ -987,12 +995,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 608655,
-      "num": 608655,
-      "word": "G社拍的赵露思",
-      "onboard_time": 1685441309,
-      "rank": 20,
+      "raw_hot": 610333,
+      "num": 276525,
+      "word": "赵丽颖星点莹白缀薄纱裙",
+      "onboard_time": 1685444431,
+      "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 607432,
+      "num": 270250,
+      "word": "迪丽热巴大深V裙",
+      "onboard_time": 1685444310,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 607207,
@@ -1073,6 +1089,14 @@
       "onboard_time": 1685441669,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 559462,
+      "num": 243197,
+      "word": "宋茜玫瑰粉裙",
+      "onboard_time": 1685444310,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 557089,
@@ -1331,14 +1355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 474743,
-      "num": 270250,
-      "word": "迪丽热巴大深V裙",
-      "onboard_time": 1685444310,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 468625,
       "num": 468625,
       "word": "袁姗姗戴绿帽子直播",
@@ -1403,14 +1419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 442019,
-      "num": 201358,
-      "word": "宋茜玫瑰粉裙",
-      "onboard_time": 1685444310,
-      "rank": 31,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 438481,
       "num": 438481,
       "word": "凯尔特人vs热火",
@@ -1449,6 +1457,14 @@
       "onboard_time": 1685357788,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421534,
+      "num": 215833,
+      "word": "张彬彬吴倩吻到脸红心跳",
+      "onboard_time": 1685444609,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 421247,
@@ -1491,6 +1507,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 416576,
+      "num": 1578677,
+      "word": "坠楼瞬间他用身体死死护住小女孩",
+      "onboard_time": 1685421696,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414791,
       "num": 414791,
       "word": "大山的孩子去太空了",
@@ -1513,14 +1537,6 @@
       "onboard_time": 1685361207,
       "rank": 30,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 404268,
-      "num": 200582,
-      "word": "赵丽颖星点莹白缀薄纱裙",
-      "onboard_time": 1685444431,
-      "rank": 32,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 403701,
@@ -1577,14 +1593,6 @@
       "onboard_time": 1685363308,
       "rank": 46,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 394902,
-      "num": 1578677,
-      "word": "坠楼瞬间他用身体死死护住小女孩",
-      "onboard_time": 1685421696,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 393451,
@@ -2051,6 +2059,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 319151,
+      "num": 1314428,
+      "word": "凌晨4点民警上门拥抱安慰哭泣男孩",
+      "onboard_time": 1685443711,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319001,
       "num": 319001,
       "word": "网友问金智秀为什么会跳Flower",
@@ -2081,6 +2097,14 @@
       "onboard_time": 1685375788,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312385,
+      "num": 312385,
+      "word": "茅台冰淇淋一年卖出近千万杯",
+      "onboard_time": 1685442694,
+      "rank": 49,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 312286,
@@ -2347,14 +2371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 276738,
-      "num": 191244,
-      "word": "张彬彬吴倩吻到脸红心跳",
-      "onboard_time": 1685444609,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 276623,
       "num": 239804,
       "word": "张彬彬这野男人好会",
@@ -2395,6 +2411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272956,
+      "num": 203315,
+      "word": "密室大逃脱大神版",
+      "onboard_time": 1685445450,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271678,
       "num": 271678,
       "word": "闪婚几天闹离婚男方索要6万彩礼",
@@ -2433,14 +2457,6 @@
       "onboard_time": 1685278589,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268298,
-      "num": 268298,
-      "word": "茅台冰淇淋一年卖出近千万杯",
-      "onboard_time": 1685442694,
-      "rank": 49,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 267962,
@@ -2524,7 +2540,7 @@
     },
     {
       "raw_hot": 259954,
-      "num": 154551,
+      "num": 177512,
       "word": "藤井风 上海",
       "onboard_time": 1685442874,
       "rank": 42,
@@ -2547,12 +2563,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 258441,
-      "num": 1314428,
-      "word": "凌晨4点民警上门拥抱安慰哭泣男孩",
-      "onboard_time": 1685443711,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 259411,
+      "num": 259411,
+      "word": "DRG挂牌名单",
+      "onboard_time": 1685445750,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 256068,
@@ -2947,6 +2963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224608,
+      "num": 224608,
+      "word": "鹏鹏挂牌",
+      "onboard_time": 1685446174,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 224167,
       "num": 224167,
       "word": "贡菜毛肚螺蛳粉",
@@ -3017,6 +3041,14 @@
       "onboard_time": 1685319747,
       "rank": 35,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 219967,
+      "num": 219967,
+      "word": "水波蛋",
+      "onboard_time": 1685444911,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 219554,
@@ -3147,6 +3179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208153,
+      "num": 169960,
+      "word": "时尚芭莎红毯谁赢了",
+      "onboard_time": 1685445870,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 208107,
       "num": 208107,
       "word": "神十六升空瞬间",
@@ -3201,6 +3241,14 @@
       "onboard_time": 1685343565,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 204951,
+      "num": 204951,
+      "word": "NIP对战EDG",
+      "onboard_time": 1685446350,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 204811,
@@ -3297,6 +3345,14 @@
       "onboard_time": 1685431470,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 200699,
+      "num": 166801,
+      "word": "迪丽热巴工作室",
+      "onboard_time": 1685445990,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 200414,
@@ -3595,14 +3651,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 188530,
-      "num": 188530,
-      "word": "水波蛋",
-      "onboard_time": 1685444911,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 188436,
       "num": 188436,
       "word": "清醒的感受失去才是自虐",
@@ -3697,6 +3745,14 @@
       "onboard_time": 1685377464,
       "rank": 44,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 182836,
+      "num": 182836,
+      "word": "王者荣耀",
+      "onboard_time": 1685444911,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 182428,
@@ -4083,14 +4139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153219,
-      "num": 153219,
-      "word": "王者荣耀",
-      "onboard_time": 1685444911,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 152576,
       "num": 152576,
       "word": "迪丽热巴公诉转身入局",
@@ -4129,6 +4177,14 @@
       "onboard_time": 1685412147,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150240,
+      "num": 150240,
+      "word": "千万不要害怕一个人的生活",
+      "onboard_time": 1685445512,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 148901,
@@ -4185,6 +4241,14 @@
       "onboard_time": 1685354190,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 145473,
+      "num": 145473,
+      "word": "宋丹丹 尹正",
+      "onboard_time": 1685445811,
+      "rank": 48,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 145314,
