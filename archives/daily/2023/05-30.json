@@ -1,6 +1,6 @@
 {
   "startTime": 1685377320709,
-  "endTime": 1685417628168,
+  "endTime": 1685420403754,
   "band_list": [
     {
       "raw_hot": 4068594,
@@ -9,6 +9,14 @@
       "onboard_time": 1685411609,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2972639,
+      "num": 2972639,
+      "word": "陶昕然发博寻5年前飞机邻座男士",
+      "onboard_time": 1685416408,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 2404694,
@@ -35,16 +43,8 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 1752127,
-      "num": 1752127,
-      "word": "陶昕然发博寻5年前飞机邻座男士",
-      "onboard_time": 1685416408,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1732101,
-      "num": 1732101,
+      "raw_hot": 1979884,
+      "num": 1979884,
       "word": "小县城十八万八的彩礼合理吗",
       "onboard_time": 1685405430,
       "rank": 6,
@@ -89,6 +89,14 @@
       "onboard_time": 1685402842,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1229556,
+      "num": 1229556,
+      "word": "演唱会门票秒罄黄牛党捞钱术升级",
+      "onboard_time": 1685417609,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1181979,
@@ -137,6 +145,14 @@
       "onboard_time": 1685371055,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 886670,
+      "num": 886670,
+      "word": "四川自来水公司呼吁每月洗澡2到4次",
+      "onboard_time": 1685418811,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 872855,
@@ -195,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 685672,
+      "num": 685672,
+      "word": "兄妹四人同时查出肠道肿瘤",
+      "onboard_time": 1685416470,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 657583,
       "num": 657583,
       "word": "王源一家人各火各的",
@@ -203,12 +227,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 604902,
+      "num": 604902,
+      "word": "路人拍的陈都灵",
+      "onboard_time": 1685416288,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 587950,
+      "num": 397900,
+      "word": "光遇",
+      "onboard_time": 1685420254,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 582791,
       "num": 475132,
       "word": "你管周也这张脸叫普普通通",
       "onboard_time": 1685370272,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 541726,
+      "num": 541726,
+      "word": "任素汐问张译他俩为什么被提名",
+      "onboard_time": 1685418811,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 539317,
@@ -236,7 +284,7 @@
     },
     {
       "raw_hot": 507232,
-      "num": 300509,
+      "num": 395641,
       "word": "苏醒毫不尊重艺人五官的特效",
       "onboard_time": 1685403146,
       "rank": 46,
@@ -307,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 436444,
+      "num": 436444,
+      "word": "一杯奶茶钱可以买这么多东西",
+      "onboard_time": 1685418931,
+      "rank": 17,
+      "category": "财经,幽默"
+    },
+    {
       "raw_hot": 405370,
       "num": 328195,
       "word": "吴磊哭着蹭赵今麦肩膀",
@@ -315,20 +371,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 393838,
+      "num": 393838,
+      "word": "我们被卖西瓜老板骗了那么多年",
+      "onboard_time": 1685417609,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 385705,
+      "num": 385705,
+      "word": "农行宣布将清理个人长期不动存折账户",
+      "onboard_time": 1685418568,
+      "rank": 23,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 382680,
       "num": 382680,
       "word": "马斯克谈中国航天工程计划",
       "onboard_time": 1685411125,
       "rank": 31,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 374562,
-      "num": 374562,
-      "word": "路人拍的陈都灵",
-      "onboard_time": 1685416288,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 373279,
@@ -340,7 +404,7 @@
     },
     {
       "raw_hot": 372122,
-      "num": 306756,
+      "num": 314253,
       "word": "迪丽热巴笑眼",
       "onboard_time": 1685414007,
       "rank": 41,
@@ -393,6 +457,14 @@
       "onboard_time": 1685402122,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 324291,
+      "num": 324291,
+      "word": "抢票",
+      "onboard_time": 1685418268,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 323018,
@@ -451,14 +523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 291786,
-      "num": 288868,
-      "word": "兄妹四人同时查出肠道肿瘤",
-      "onboard_time": 1685416470,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 290248,
       "num": 290248,
       "word": "男子吃火锅遇假茅台被服务员提醒",
@@ -473,6 +537,14 @@
       "onboard_time": 1685416349,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 284114,
+      "num": 284114,
+      "word": "有个镇里的孩子要去宇宙了",
+      "onboard_time": 1685418029,
+      "rank": 29,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 279870,
@@ -537,6 +609,14 @@
       "onboard_time": 1685375130,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 254777,
+      "num": 254777,
+      "word": "杨迪回家了",
+      "onboard_time": 1685417490,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 254754,
@@ -619,6 +699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 222774,
+      "num": 222774,
+      "word": "被宠是一种什么体验",
+      "onboard_time": 1685420192,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 222705,
       "num": 222705,
       "word": "田曦薇 举重",
@@ -635,6 +723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220737,
+      "num": 220737,
+      "word": "问题不大 天上可以开组会",
+      "onboard_time": 1685419170,
+      "rank": 38,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 220041,
       "num": 220041,
       "word": "鸟鸟上综艺 展示人类多样性",
@@ -648,6 +744,14 @@
       "word": "护心第三季",
       "onboard_time": 1685372194,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 210167,
+      "num": 210167,
+      "word": "这居然是安陵容",
+      "onboard_time": 1685420373,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -747,14 +851,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 191219,
-      "num": 191219,
-      "word": "我们被卖西瓜老板骗了那么多年",
-      "onboard_time": 1685417609,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 186767,
       "num": 186767,
       "word": "巴特勒东决MVP",
@@ -835,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176468,
+      "num": 176468,
+      "word": "赵露思是韩网豆瓣排名中国女艺人第一",
+      "onboard_time": 1685420254,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176090,
       "num": 176090,
       "word": "柯基被砍",
@@ -883,28 +987,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171344,
+      "num": 171344,
+      "word": "差点把任贤齐演唱会整封了",
+      "onboard_time": 1685419893,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 170399,
       "num": 170399,
       "word": "女孩将云肩披上学士服中国风拉满",
       "onboard_time": 1685410647,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169395,
-      "num": 169395,
-      "word": "演唱会门票秒罄黄牛党捞钱术升级",
-      "onboard_time": 1685417609,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166615,
-      "num": 166615,
-      "word": "杨迪回家了",
-      "onboard_time": 1685417490,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 165318,
@@ -929,6 +1025,14 @@
       "onboard_time": 1685413228,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 158941,
+      "num": 158941,
+      "word": "热火黑八奇迹",
+      "onboard_time": 1685417908,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 155410,
@@ -1115,6 +1219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 78866,
+      "num": 2280095,
+      "word": "一人一句祝福神十六",
+      "onboard_time": 1685405549,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76090,
       "num": 93299,
       "word": "光与夜之恋 偷跑",
@@ -1163,11 +1275,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42992,
-      "num": 1817265,
-      "word": "一人一句祝福神十六",
-      "onboard_time": 1685405549,
-      "rank": 2,
+      "raw_hot": 45124,
+      "num": 569315,
+      "word": "吴易昺全力冲击法网男双",
+      "onboard_time": 1685419229,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1200,6 +1312,14 @@
       "word": "热心车主为故障货车带路120公里",
       "onboard_time": 1685391972,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11243,
+      "num": 213773,
+      "word": "爱上高速 畅游三秦",
+      "onboard_time": 1685419229,
+      "rank": 39,
       "category": "社会新闻"
     }
   ],
