@@ -1,6 +1,6 @@
 {
   "startTime": 1685377320709,
-  "endTime": 1685457202249,
+  "endTime": 1685459836117,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -163,20 +163,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1532942,
+      "num": 1532942,
+      "word": "贤合庄北京门店全部关闭",
+      "onboard_time": 1685447129,
+      "rank": 8,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1504116,
       "num": 1504116,
       "word": "神十六航天员领命出征",
       "onboard_time": 1685403446,
       "rank": 1,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 1496012,
-      "num": 1496012,
-      "word": "贤合庄北京门店全部关闭",
-      "onboard_time": 1685447129,
-      "rank": 8,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1478592,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 1078148,
-      "num": 424744,
+      "num": 486008,
       "word": "杨紫迪丽热巴内场同框",
       "onboard_time": 1685453917,
       "rank": 11,
@@ -345,6 +345,14 @@
       "onboard_time": 1685383995,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1064319,
+      "num": 1064319,
+      "word": "李晓峰帮杨颖提裙子",
+      "onboard_time": 1685456797,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1044375,
@@ -539,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 672248,
+      "num": 436276,
+      "word": "苏打绿 免费演唱会",
+      "onboard_time": 1685454875,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 657583,
       "num": 657583,
       "word": "王源一家人各火各的",
@@ -707,12 +723,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 524733,
+      "num": 479693,
+      "word": "婴儿输液致心率异常死亡",
+      "onboard_time": 1685458119,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 519806,
       "num": 519806,
       "word": "教育局回应小学不让打伞进校",
       "onboard_time": 1685401218,
       "rank": 22,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 514752,
+      "num": 514752,
+      "word": "北京WB",
+      "onboard_time": 1685457759,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 513589,
@@ -811,6 +843,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 475690,
+      "num": 475690,
+      "word": "一旦有射手座的好朋友",
+      "onboard_time": 1685455116,
+      "rank": 46,
+      "category": "情感,网红"
+    },
+    {
+      "raw_hot": 472866,
+      "num": 288560,
+      "word": "龚俊手机屏保是花花",
+      "onboard_time": 1685457698,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 471030,
       "num": 408159,
       "word": "白敬亭他叔",
@@ -859,8 +907,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 428340,
+      "num": 509139,
+      "word": "梁建章建议女儿随母姓",
+      "onboard_time": 1685455538,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 426626,
-      "num": 210566,
+      "num": 247852,
       "word": "赵丽颖内场",
       "onboard_time": 1685455233,
       "rank": 31,
@@ -876,7 +932,7 @@
     },
     {
       "raw_hot": 421534,
-      "num": 239883,
+      "num": 240948,
       "word": "张彬彬吴倩吻到脸红心跳",
       "onboard_time": 1685444609,
       "rank": 35,
@@ -889,6 +945,14 @@
       "onboard_time": 1685421274,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 420955,
+      "num": 414466,
+      "word": "麻将馆一女子怀抱孩子遭男子暴打",
+      "onboard_time": 1685453253,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 416576,
@@ -905,14 +969,6 @@
       "onboard_time": 1685421636,
       "rank": 22,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 414466,
-      "num": 414466,
-      "word": "麻将馆一女子怀抱孩子遭男子暴打",
-      "onboard_time": 1685453253,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 409106,
@@ -987,12 +1043,12 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 379611,
-      "num": 199582,
-      "word": "苏打绿 免费演唱会",
-      "onboard_time": 1685454875,
-      "rank": 40,
-      "category": "音乐"
+      "raw_hot": 381397,
+      "num": 381397,
+      "word": "MTG 清清",
+      "onboard_time": 1685458595,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 378069,
@@ -1123,12 +1179,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 338039,
-      "num": 338039,
-      "word": "梁建章建议女儿随母姓",
-      "onboard_time": 1685455538,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 340711,
+      "num": 237414,
+      "word": "沈小婷直播",
+      "onboard_time": 1685457815,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 334148,
@@ -1299,14 +1355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 308118,
-      "num": 196725,
-      "word": "李晓峰帮杨颖提裙子",
-      "onboard_time": 1685456797,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 306741,
       "num": 306741,
       "word": "YammerS",
@@ -1361,6 +1409,14 @@
       "onboard_time": 1685439089,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 294028,
+      "num": 294028,
+      "word": "AG",
+      "onboard_time": 1685457034,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 290248,
@@ -1433,6 +1489,14 @@
       "onboard_time": 1685411367,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278203,
+      "num": 278203,
+      "word": "Cat确认挂牌",
+      "onboard_time": 1685457457,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 277847,
@@ -1633,6 +1697,14 @@
       "onboard_time": 1685419893,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 245586,
+      "num": 245586,
+      "word": "Hero",
+      "onboard_time": 1685457998,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 244684,
@@ -2107,14 +2179,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 196639,
-      "num": 196639,
-      "word": "一旦有射手座的好朋友",
-      "onboard_time": 1685455116,
-      "rank": 46,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 195545,
       "num": 195545,
       "word": "电竞文照进现实",
@@ -2171,6 +2235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191048,
+      "num": 175395,
+      "word": "青天亲上了",
+      "onboard_time": 1685459615,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190283,
       "num": 208624,
       "word": "上厕所千万别蹲太长时间",
@@ -2193,14 +2265,6 @@
       "onboard_time": 1685441549,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 188214,
-      "num": 188214,
-      "word": "AG",
-      "onboard_time": 1685457034,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 186767,
@@ -2307,12 +2371,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 179445,
+      "num": 173995,
+      "word": "王源演唱会最累的是王俊凯员工",
+      "onboard_time": 1685459794,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 179336,
       "num": 179336,
       "word": "孟子义笨蛋美女",
       "onboard_time": 1685374171,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178111,
+      "num": 178111,
+      "word": "现在的课桌都能躺着午睡了",
+      "onboard_time": 1685459316,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 176090,
@@ -2369,6 +2449,14 @@
       "onboard_time": 1685363366,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 173133,
+      "num": 173133,
+      "word": "人类和动物最大的区别",
+      "onboard_time": 1685459496,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 171081,
@@ -2978,6 +3066,9 @@
     },
     {
       "word": "#神十六发射圆满成功#"
+    },
+    {
+      "word": "#中国航天一往无前#"
     }
   ]
 }
