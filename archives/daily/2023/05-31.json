@@ -1,6 +1,6 @@
 {
   "startTime": 1685463570565,
-  "endTime": 1685470833844,
+  "endTime": 1685471626026,
   "band_list": [
     {
       "raw_hot": 2123857,
@@ -411,20 +411,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 98135,
+      "num": 98135,
+      "word": "陈坤 真正的老二次元了",
+      "onboard_time": 1685468178,
+      "rank": 17,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 96758,
       "num": 98674,
       "word": "Hero",
       "onboard_time": 1685457998,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 78399,
-      "num": 78399,
-      "word": "陈坤 真正的老二次元了",
-      "onboard_time": 1685468178,
-      "rank": 17,
-      "category": "动漫,艺人"
     },
     {
       "raw_hot": 77285,
@@ -475,8 +475,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 28235,
-      "num": 29633,
+      "raw_hot": 30201,
+      "num": 29903,
       "word": "杨幂回复谢依霖说爱你啊hold么么",
       "onboard_time": 1685470574,
       "rank": 47,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 27299,
-      "num": 29630,
+      "num": 29838,
       "word": "重返未来1999公测",
       "onboard_time": 1685466439,
       "rank": 49,
