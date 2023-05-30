@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/05/01 00:20:43 ~ 2023/05/30 12:20:03
+本榜单时间：2023/05/01 00:20:43 ~ 2023/05/30 12:33:27
 </p>
 </blockquote>
 <p>
@@ -3861,6 +3861,12 @@ house道歉（热度：1406063）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E8%87%AA%E6%9D%A5%E6%B0%B4%E5%85%AC%E5%8F%B8%E5%91%BC%E5%90%81%E6%AF%8F%E6%9C%88%E6%B4%97%E6%BE%A12%E5%88%B04%E6%AC%A1%23" target="weibo">
+四川自来水公司呼吁每月洗澡2到4次（热度：1400926）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%B7%B2%E8%90%BD%E5%9C%B0%E5%8C%97%E4%BA%AC%23" target="weibo">
 丫丫已落地北京（热度：1399575）
 </a>
@@ -3923,6 +3929,12 @@ house道歉（热度：1406063）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%BA%E6%95%91%E4%BA%BA%E4%B8%8D%E5%B9%B8%E6%BA%BA%E4%BA%A1%E8%A2%AB%E8%AF%84%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%23" target="weibo">
 00后大学生为救人不幸溺亡被评见义勇为（热度：1385887）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%A7%92%E7%BD%84%E9%BB%84%E7%89%9B%E5%85%9A%E6%8D%9E%E9%92%B1%E6%9C%AF%E5%8D%87%E7%BA%A7%23" target="weibo">
+演唱会门票秒罄黄牛党捞钱术升级（热度：1385443）
 </a>
 </li>
 
@@ -4829,12 +4841,6 @@ IU或恢复在中国的活动（热度：1265650）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%AF%B9%E6%88%98%E9%99%88%E6%A2%A6%23" target="weibo">
 孙颖莎对战陈梦（热度：1232435）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E7%A7%92%E7%BD%84%E9%BB%84%E7%89%9B%E5%85%9A%E6%8D%9E%E9%92%B1%E6%9C%AF%E5%8D%87%E7%BA%A7%23" target="weibo">
-演唱会门票秒罄黄牛党捞钱术升级（热度：1229556）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Capper暂停演出（热度：1066458）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%B0%BC%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%B7%B4%E5%8E%98%E5%B2%9B%E9%81%87%E5%AE%B3%E6%A1%88%23" target="weibo">
 印尼警方通报中国游客巴厘岛遇害案（热度：1057276）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%92%9F%E5%A4%A7%E5%B8%AE%E5%8A%A9%E8%A2%AB%E9%9C%B8%E5%87%8C%E5%A5%B3%E5%AD%A9%23" target="weibo">
-金钟大帮助被霸凌女孩（热度：1056997）
 </a>
 </li>
 
