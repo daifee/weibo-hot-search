@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685441881931,
+  "endTime": 1685442822460,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -2593,6 +2593,14 @@
       "onboard_time": 1683954868,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1873642,
+      "num": 973237,
+      "word": "怪不得杨幂不去芭莎盛典",
+      "onboard_time": 1685440470,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1871735,
@@ -5323,6 +5331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1380337,
+      "num": 860375,
+      "word": "赵丽颖露背",
+      "onboard_time": 1685440949,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1380300,
       "num": 1380300,
       "word": "杨紫是不是换妆造团队了",
@@ -6057,6 +6073,14 @@
       "onboard_time": 1684399350,
       "rank": 12,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1288664,
+      "num": 1288664,
+      "word": "黄晓明尹正亲上了",
+      "onboard_time": 1685440949,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 1287764,
@@ -7083,11 +7107,11 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 1166526,
-      "num": 973237,
-      "word": "怪不得杨幂不去芭莎盛典",
-      "onboard_time": 1685440470,
-      "rank": 11,
+      "raw_hot": 1162958,
+      "num": 1162958,
+      "word": "唐嫣对我眼睛很友好",
+      "onboard_time": 1685438489,
+      "rank": 21,
       "category": "作品衍生"
     },
     {
@@ -7409,14 +7433,6 @@
       "onboard_time": 1684904494,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1131018,
-      "num": 1131018,
-      "word": "唐嫣对我眼睛很友好",
-      "onboard_time": 1685438489,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1129825,
@@ -8081,14 +8097,6 @@
       "onboard_time": 1684404211,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1059237,
-      "num": 1059237,
-      "word": "黄晓明尹正亲上了",
-      "onboard_time": 1685440949,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 1058854,
@@ -9025,6 +9033,14 @@
       "onboard_time": 1684105399,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 963737,
+      "num": 856208,
+      "word": "胡彦斌新恋情被曝后首发博",
+      "onboard_time": 1685432249,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 963593,
@@ -10467,14 +10483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 835159,
-      "num": 835159,
-      "word": "赵丽颖露背",
-      "onboard_time": 1685440949,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 834895,
       "num": 834895,
       "word": "克里姆林宫",
@@ -10609,6 +10617,14 @@
       "onboard_time": 1684028246,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 825402,
+      "num": 825402,
+      "word": "南开大学 论文",
+      "onboard_time": 1685441190,
+      "rank": 23,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 825280,
@@ -11027,14 +11043,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 798254,
-      "num": 798254,
-      "word": "胡彦斌新恋情被曝后首发博",
-      "onboard_time": 1685432249,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 797637,
       "num": 797637,
       "word": "G社拍的龚俊",
@@ -11444,7 +11452,7 @@
     },
     {
       "raw_hot": 762929,
-      "num": 286386,
+      "num": 722752,
       "word": "迪丽热巴出图了吗",
       "onboard_time": 1685439929,
       "rank": 28,
@@ -13369,6 +13377,14 @@
       "onboard_time": 1684307729,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 649496,
+      "num": 649496,
+      "word": "有些取件码报着报着就唱起来了",
+      "onboard_time": 1685439269,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 648282,
@@ -16115,6 +16131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 542619,
+      "num": 542619,
+      "word": "密室大逃脱",
+      "onboard_time": 1684382733,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 541678,
       "num": 541678,
       "word": "父母心疼女儿制毒辛苦帮忙贩毒",
@@ -16217,6 +16241,14 @@
       "onboard_time": 1684364659,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 539886,
+      "num": 539886,
+      "word": "G社拍的赵露思",
+      "onboard_time": 1685441309,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 539760,
@@ -18515,14 +18547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 479219,
-      "num": 479219,
-      "word": "密室大逃脱",
-      "onboard_time": 1684382733,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 479211,
       "num": 479211,
       "word": "G2翻盘BLG",
@@ -19025,14 +19049,6 @@
       "onboard_time": 1683948148,
       "rank": 16,
       "category": "自然,社会新闻"
-    },
-    {
-      "raw_hot": 467463,
-      "num": 467463,
-      "word": "有些取件码报着报着就唱起来了",
-      "onboard_time": 1685439269,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 467275,
@@ -22099,14 +22115,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 409497,
-      "num": 409497,
-      "word": "G社拍的赵露思",
-      "onboard_time": 1685441309,
-      "rank": 20,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 409382,
       "num": 409382,
       "word": "葫芦鸡是峰会国宴的主菜",
@@ -23163,6 +23171,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 394902,
+      "num": 1323558,
+      "word": "坠楼瞬间他用身体死死护住小女孩",
+      "onboard_time": 1685421696,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394849,
       "num": 394849,
       "word": "浙江男篮vs辽宁男篮",
@@ -23489,6 +23505,14 @@
       "onboard_time": 1684042827,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 389043,
+      "num": 317340,
+      "word": "网友问赵丽颖怎么演许半夏的",
+      "onboard_time": 1685440772,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 388983,
@@ -28491,14 +28515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 326976,
-      "num": 326976,
-      "word": "南开大学 论文",
-      "onboard_time": 1685441190,
-      "rank": 23,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 326857,
       "num": 304590,
       "word": "五百元对普通家庭是什么概念",
@@ -28625,6 +28641,14 @@
       "onboard_time": 1684321590,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325501,
+      "num": 300694,
+      "word": "李现 现偶霸总",
+      "onboard_time": 1685441611,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 325458,
@@ -28921,6 +28945,14 @@
       "onboard_time": 1683857968,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321845,
+      "num": 220617,
+      "word": "芭莎红毯主持人是李晓峰",
+      "onboard_time": 1685440409,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 321765,
@@ -29321,14 +29353,6 @@
       "onboard_time": 1684649127,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 317340,
-      "num": 317340,
-      "word": "网友问赵丽颖怎么演许半夏的",
-      "onboard_time": 1685440772,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 317088,
@@ -29793,14 +29817,6 @@
       "onboard_time": 1683331527,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 312641,
-      "num": 1294112,
-      "word": "坠楼瞬间他用身体死死护住小女孩",
-      "onboard_time": 1685421696,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 312529,
@@ -31385,6 +31401,14 @@
       "onboard_time": 1683460890,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 294719,
+      "num": 220243,
+      "word": "唐嫣又穿的公主裙",
+      "onboard_time": 1685439089,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 294490,
@@ -35497,6 +35521,14 @@
       "onboard_time": 1684124734,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260977,
+      "num": 185818,
+      "word": "范丞丞 裙子",
+      "onboard_time": 1685442030,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 260972,
@@ -40187,6 +40219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 231121,
+      "num": 164219,
+      "word": "龚俊红毯走一半戴墨镜",
+      "onboard_time": 1685442390,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 231040,
       "num": 815460,
       "word": "杭州多个探头为了它们几年一动不动",
@@ -40681,14 +40721,6 @@
       "onboard_time": 1684156229,
       "rank": 33,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 227826,
-      "num": 178755,
-      "word": "李现 现偶霸总",
-      "onboard_time": 1685441611,
-      "rank": 40,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 227681,
@@ -48051,6 +48083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 188436,
+      "num": 188436,
+      "word": "清醒的感受失去才是自虐",
+      "onboard_time": 1685441549,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 188401,
       "num": 188401,
       "word": "乌总统拒绝教皇调停俄乌冲突",
@@ -49571,6 +49611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 180084,
+      "num": 180084,
+      "word": "快播公司破产注销",
+      "onboard_time": 1685439449,
+      "rank": 41,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 180083,
       "num": 180083,
       "word": "再也不跟室友分享任何吃的了",
@@ -50001,14 +50049,6 @@
       "onboard_time": 1684466609,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 178479,
-      "num": 178479,
-      "word": "快播公司破产注销",
-      "onboard_time": 1685439449,
-      "rank": 41,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 178471,
@@ -52547,14 +52587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164566,
-      "num": 164566,
-      "word": "唐嫣又穿的公主裙",
-      "onboard_time": 1685439089,
-      "rank": 41,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 164461,
       "num": 164461,
       "word": "小伙为父母补办迟到30年的婚礼",
@@ -53771,6 +53803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158029,
+      "num": 158029,
+      "word": "民警被一排办公摆件盯上了",
+      "onboard_time": 1685439388,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157966,
       "num": 157966,
       "word": "不要把醉倒的鸟扔进垃圾桶",
@@ -53945,14 +53985,6 @@
       "onboard_time": 1685079993,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 157093,
-      "num": 157093,
-      "word": "清醒的感受失去才是自虐",
-      "onboard_time": 1685441549,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 157052,
@@ -54305,14 +54337,6 @@
       "onboard_time": 1683216689,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 155339,
-      "num": 155339,
-      "word": "民警被一排办公摆件盯上了",
-      "onboard_time": 1685439388,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155203,
@@ -55561,6 +55585,14 @@
       "onboard_time": 1684484429,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 148379,
+      "num": 1240743,
+      "word": "高校短片记录见义勇为牺牲同学的生平",
+      "onboard_time": 1685433329,
+      "rank": 4,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 148371,
@@ -57337,6 +57369,14 @@
       "onboard_time": 1685193093,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135712,
+      "num": 135712,
+      "word": "茅台冰淇淋一年卖出近千万杯",
+      "onboard_time": 1685442694,
+      "rank": 49,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 135702,
@@ -59905,14 +59945,6 @@
       "onboard_time": 1685020530,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116850,
-      "num": 1201245,
-      "word": "高校短片记录见义勇为牺牲同学的生平",
-      "onboard_time": 1685433329,
-      "rank": 4,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 116846,
@@ -63227,6 +63259,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 66151,
+      "num": 1174170,
+      "word": "为头盔侠们点赞",
+      "onboard_time": 1685440230,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65985,
       "num": 497120,
       "word": "老师用相机记录小学生6年成长",
@@ -63928,14 +63968,6 @@
       "word": "病人咬舌民警将手放其嘴里数十秒",
       "onboard_time": 1684537878,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51002,
-      "num": 1136505,
-      "word": "为头盔侠们点赞",
-      "onboard_time": 1685440230,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -64931,6 +64963,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 27199,
+      "num": 178808,
+      "word": "TVB把港姐选秀搬进淘宝直播间",
+      "onboard_time": 1685440832,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 27098,
       "num": 25826,
       "word": "龚琳娜妈宝女",
@@ -65233,14 +65273,6 @@
       "onboard_time": 1684953853,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 19342,
-      "num": 178808,
-      "word": "TVB把港姐选秀搬进淘宝直播间",
-      "onboard_time": 1685440832,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 18870,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1685442822460,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1365312,
+        "num": 1365312,
+        "word": "金鸡奖15个评委都投给了朱一龙",
+        "onboard_time": 1685431170,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 394902,
+        "num": 1323558,
+        "word": "坠楼瞬间他用身体死死护住小女孩",
+        "onboard_time": 1685421696,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13671,
+        "num": 1304766,
+        "word": "点亮精神火炬",
+        "onboard_time": 1685416949,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1288664,
+        "num": 1288664,
+        "word": "黄晓明尹正亲上了",
+        "onboard_time": 1685440949,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148379,
+        "num": 1240743,
+        "word": "高校短片记录见义勇为牺牲同学的生平",
+        "onboard_time": 1685433329,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1220946,
+        "num": 1220946,
+        "word": "时尚芭莎红毯",
+        "onboard_time": 1685437649,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 66151,
+        "num": 1174170,
+        "word": "为头盔侠们点赞",
+        "onboard_time": 1685440230,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1162958,
+        "num": 1162958,
+        "word": "唐嫣对我眼睛很友好",
+        "onboard_time": 1685438489,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1044843,
+        "num": 1044843,
+        "word": "杨紫摄影师出来聊聊",
+        "onboard_time": 1685436270,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 895047,
+        "num": 895047,
+        "word": "丫丫回家后判若两熊",
+        "onboard_time": 1685431951,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1873642,
+        "num": 868332,
+        "word": "怪不得杨幂不去芭莎盛典",
+        "onboard_time": 1685440470,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1380337,
+        "num": 860375,
+        "word": "赵丽颖露背",
+        "onboard_time": 1685440949,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 963737,
+        "num": 856208,
+        "word": "胡彦斌新恋情被曝后首发博",
+        "onboard_time": 1685432249,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 833330,
+        "num": 833330,
+        "word": "20岁小伙月入6000背百万房贷",
+        "onboard_time": 1685427808,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 825402,
+        "num": 825402,
+        "word": "南开大学 论文",
+        "onboard_time": 1685441190,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1282876,
+        "num": 807522,
+        "word": "电子科技大学",
+        "onboard_time": 1685433808,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 778091,
+        "num": 778091,
+        "word": "离婚了30万彩礼该不该返还",
+        "onboard_time": 1685430087,
+        "rank": 16,
+        "category": "社会议题,情感"
+      },
+      {
+        "raw_hot": 722752,
+        "num": 722752,
+        "word": "迪丽热巴出图了吗",
+        "onboard_time": 1685439929,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 700214,
+        "num": 700214,
+        "word": "刘宪华一天给Amber打8个电话",
+        "onboard_time": 1685432669,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 649496,
+        "num": 649496,
+        "word": "有些取件码报着报着就唱起来了",
+        "onboard_time": 1685439269,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 635058,
+        "num": 635058,
+        "word": "河南紧急下拨2亿元用于小麦烘干",
+        "onboard_time": 1685427088,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 542619,
+        "num": 542619,
+        "word": "密室大逃脱",
+        "onboard_time": 1685441669,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 539886,
+        "num": 539886,
+        "word": "G社拍的赵露思",
+        "onboard_time": 1685441309,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 320974,
+        "num": 320974,
+        "word": "华晨宇加入LGD",
+        "onboard_time": 1685420674,
+        "rank": 23,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 307901,
+        "num": 307901,
+        "word": "马斯克私人飞机降落北京",
+        "onboard_time": 1685432128,
+        "rank": 24,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 389043,
+        "num": 306591,
+        "word": "网友问赵丽颖怎么演许半夏的",
+        "onboard_time": 1685440772,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 340102,
+        "num": 302808,
+        "word": "时尚芭莎年度派对",
+        "onboard_time": 1685436508,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 325501,
+        "num": 300694,
+        "word": "李现 现偶霸总",
+        "onboard_time": 1685441611,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 297682,
+        "num": 297682,
+        "word": "身体缺什么 嘴巴早知道",
+        "onboard_time": 1685423972,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220791,
+        "num": 220791,
+        "word": "90后为什么不喝星巴克了",
+        "onboard_time": 1685434768,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321845,
+        "num": 220617,
+        "word": "芭莎红毯主持人是李晓峰",
+        "onboard_time": 1685440409,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 305626,
+        "num": 220334,
+        "word": "韩国豆瓣排名靠前的中国艺人",
+        "onboard_time": 1685435910,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294719,
+        "num": 220243,
+        "word": "唐嫣又穿的公主裙",
+        "onboard_time": 1685439089,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 219995,
+        "num": 219995,
+        "word": "因为会骂人被领导赏识",
+        "onboard_time": 1685437228,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 188436,
+        "num": 188436,
+        "word": "清醒的感受失去才是自虐",
+        "onboard_time": 1685441549,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260977,
+        "num": 185818,
+        "word": "范丞丞 裙子",
+        "onboard_time": 1685442030,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240620,
+        "num": 185783,
+        "word": "鹿晗重庆",
+        "onboard_time": 1685439506,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180084,
+        "num": 180084,
+        "word": "快播公司破产注销",
+        "onboard_time": 1685439449,
+        "rank": 37,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 165931,
+        "num": 165931,
+        "word": "直播间明星带货竟是AI换脸",
+        "onboard_time": 1685434170,
+        "rank": 38,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 27199,
+        "num": 165601,
+        "word": "TVB把港姐选秀搬进淘宝直播间",
+        "onboard_time": 1685440832,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 234790,
+        "num": 164433,
+        "word": "杨紫脸颊痣",
+        "onboard_time": 1685433090,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 231121,
+        "num": 164219,
+        "word": "龚俊红毯走一半戴墨镜",
+        "onboard_time": 1685442390,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 234398,
+        "num": 163289,
+        "word": "鹿晗演唱会主办方是自己",
+        "onboard_time": 1685435190,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154723,
+        "num": 162150,
+        "word": "LGD对战iG",
+        "onboard_time": 1685441251,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 229234,
+        "num": 162099,
+        "word": "孙千 妈爱你一万年骗你是小狗",
+        "onboard_time": 1685435431,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212228,
+        "num": 161237,
+        "word": "李湘为王诗龄庆儿童节",
+        "onboard_time": 1685435730,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160596,
+        "num": 160596,
+        "word": "这才是真正的梨型身材",
+        "onboard_time": 1685431590,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158029,
+        "num": 158029,
+        "word": "民警被一排办公摆件盯上了",
+        "onboard_time": 1685439388,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136152,
+        "num": 136152,
+        "word": "吴谢宇死刑",
+        "onboard_time": 1685411609,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135712,
+        "num": 135712,
+        "word": "茅台冰淇淋一年卖出近千万杯",
+        "onboard_time": 1685442694,
+        "rank": 49,
+        "category": "社会新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#神十六乘组奔赴苍穹#"
+    }
+  }
+}
