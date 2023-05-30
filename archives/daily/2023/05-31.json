@@ -1,6 +1,6 @@
 {
   "startTime": 1685463570565,
-  "endTime": 1685481279029,
+  "endTime": 1685482437894,
   "band_list": [
     {
       "raw_hot": 2123857,
@@ -443,6 +443,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72407,
+      "num": 29459,
+      "word": "愿检尽检重现青岛崂山区",
+      "onboard_time": 1685478132,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64306,
+      "num": 43429,
+      "word": "年轻人有必要背上高额房贷买房吗",
+      "onboard_time": 1685479151,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61489,
       "num": 1052583,
       "word": "掘地三万尺中国又一壮举",
@@ -475,11 +491,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 52844,
-      "num": 27909,
-      "word": "愿检尽检重现青岛崂山区",
-      "onboard_time": 1685478132,
-      "rank": 38,
+      "raw_hot": 53461,
+      "num": 42671,
+      "word": "河南一90后干部涉嫌严重违法被查",
+      "onboard_time": 1685479512,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -489,14 +505,6 @@
       "onboard_time": 1685316564,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 36875,
-      "num": 36875,
-      "word": "年轻人有必要背上高额房贷买房吗",
-      "onboard_time": 1685479151,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35544,
@@ -515,20 +523,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 29810,
-      "num": 28264,
+      "raw_hot": 30125,
+      "num": 29236,
       "word": "杨紫新妆容",
       "onboard_time": 1685432010,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 29502,
-      "num": 29502,
-      "word": "河南一90后干部涉嫌严重违法被查",
-      "onboard_time": 1685479512,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27299,
@@ -539,11 +539,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 24954,
+      "raw_hot": 25394,
       "num": 28132,
       "word": "深夜举吊瓶赶地铁的女生发声",
       "onboard_time": 1685474652,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25105,
+      "num": 25105,
+      "word": "福建高校女生坠亡家属发声",
+      "onboard_time": 1685481551,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -555,12 +563,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17306,
+      "raw_hot": 18324,
       "num": 20698,
       "word": "什么是公益性岗位",
       "onboard_time": 1685478912,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16035,
+      "num": 20556,
+      "word": "福建农业职业技术学院通报女生坠楼",
+      "onboard_time": 1685482332,
+      "rank": 48,
+      "category": "社会新闻,教育"
     }
   ],
   "hotgov_list": [
