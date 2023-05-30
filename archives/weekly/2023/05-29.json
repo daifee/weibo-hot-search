@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685438187347,
+  "endTime": 1685439232628,
   "band_list": [
     {
       "raw_hot": 4068594,
@@ -251,6 +251,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 1478592,
+      "num": 1478592,
+      "word": "杨紫摄影师出来聊聊",
+      "onboard_time": 1685436270,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1455202,
       "num": 1455202,
       "word": "继母虐待打死6岁男童获死刑",
@@ -347,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1307765,
+      "num": 1307765,
+      "word": "时尚芭莎红毯",
+      "onboard_time": 1685437649,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1301269,
       "num": 1301269,
       "word": "俄对乌开出停火要求",
@@ -387,20 +403,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1268497,
-      "num": 1268497,
-      "word": "杨紫摄影师出来聊聊",
-      "onboard_time": 1685436270,
-      "rank": 1,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1261115,
       "num": 1261115,
       "word": "兄妹四人同时查出肠道肿瘤",
       "onboard_time": 1685416470,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1251773,
+      "num": 1251773,
+      "word": "河南紧急下拨2亿元用于小麦烘干",
+      "onboard_time": 1685427088,
+      "rank": 39,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1247804,
@@ -417,14 +433,6 @@
       "onboard_time": 1685344045,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1215801,
-      "num": 1215801,
-      "word": "河南紧急下拨2亿元用于小麦烘干",
-      "onboard_time": 1685427088,
-      "rank": 39,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1215052,
@@ -571,8 +579,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 944156,
-      "num": 944156,
+      "raw_hot": 957524,
+      "num": 957524,
       "word": "刘宪华一天给Amber打8个电话",
       "onboard_time": 1685432669,
       "rank": 15,
@@ -593,6 +601,14 @@
       "onboard_time": 1685367812,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 918153,
+      "num": 918153,
+      "word": "丫丫回家后判若两熊",
+      "onboard_time": 1685431951,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 911171,
@@ -713,22 +729,6 @@
       "onboard_time": 1685413408,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 731379,
-      "num": 731379,
-      "word": "时尚芭莎红毯",
-      "onboard_time": 1685437649,
-      "rank": 7,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 726259,
-      "num": 726259,
-      "word": "丫丫回家后判若两熊",
-      "onboard_time": 1685431951,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 719074,
@@ -939,6 +939,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 585633,
+      "num": 578274,
+      "word": "胡彦斌新恋情被曝后首发博",
+      "onboard_time": 1685432249,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 582791,
       "num": 566186,
       "word": "你管周也这张脸叫普普通通",
@@ -960,14 +968,6 @@
       "word": "BLACKPINK官博编辑文案",
       "onboard_time": 1685349809,
       "rank": 8,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 578274,
-      "num": 578274,
-      "word": "胡彦斌新恋情被曝后首发博",
-      "onboard_time": 1685432249,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -1403,6 +1403,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 403701,
+      "num": 403701,
+      "word": "鹿晗演唱会主办方是自己",
+      "onboard_time": 1685435190,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 402380,
       "num": 402380,
       "word": "我们被卖西瓜老板骗了那么多年",
@@ -1441,14 +1449,6 @@
       "onboard_time": 1685362287,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 400405,
-      "num": 400405,
-      "word": "鹿晗演唱会主办方是自己",
-      "onboard_time": 1685435190,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 400170,
@@ -1723,6 +1723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 340549,
+      "num": 340549,
+      "word": "唐嫣对我眼睛很友好",
+      "onboard_time": 1685438489,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 337870,
       "num": 337870,
       "word": "被砍死柯基主人称未与丈夫和解",
@@ -1937,6 +1945,14 @@
       "onboard_time": 1685347828,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 311426,
+      "num": 311426,
+      "word": "韩国豆瓣排名靠前的中国艺人",
+      "onboard_time": 1685435910,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 308645,
@@ -2203,14 +2219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 275301,
-      "num": 275301,
-      "word": "韩国豆瓣排名靠前的中国艺人",
-      "onboard_time": 1685435910,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 274449,
       "num": 243457,
       "word": "鸟鸟上综艺 展示人类多样性",
@@ -2307,6 +2315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262382,
+      "num": 262382,
+      "word": "李湘为王诗龄庆儿童节",
+      "onboard_time": 1685435730,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262104,
       "num": 262104,
       "word": "Ella采访谈SHE哭了",
@@ -2337,6 +2353,14 @@
       "onboard_time": 1685326827,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257971,
+      "num": 257971,
+      "word": "因为会骂人被领导赏识",
+      "onboard_time": 1685437228,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 256068,
@@ -2867,14 +2891,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 210626,
-      "num": 210626,
-      "word": "李湘为王诗龄庆儿童节",
-      "onboard_time": 1685435730,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 210110,
       "num": 210110,
       "word": "阿德巴约",
@@ -3057,14 +3073,6 @@
       "onboard_time": 1685414248,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 201896,
-      "num": 201896,
-      "word": "因为会骂人被领导赏识",
-      "onboard_time": 1685437228,
-      "rank": 38,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 201730,
@@ -3675,6 +3683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166625,
+      "num": 166625,
+      "word": "只有幸福的人才会在网上消失",
+      "onboard_time": 1685437950,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165318,
       "num": 165318,
       "word": "妻子将亡夫公益事业扩大225倍",
@@ -3689,6 +3705,14 @@
       "onboard_time": 1685346447,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164566,
+      "num": 164566,
+      "word": "唐嫣又穿的公主裙",
+      "onboard_time": 1685439089,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 164060,
@@ -3801,14 +3825,6 @@
       "onboard_time": 1685270610,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153640,
-      "num": 153640,
-      "word": "只有幸福的人才会在网上消失",
-      "onboard_time": 1685437950,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 152576,
@@ -4259,6 +4275,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 108162,
+      "num": 222119,
+      "word": "学练机",
+      "onboard_time": 1685438848,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107475,
       "num": 502510,
       "word": "94岁奶奶雨天探亲迷路民警及时护送",
@@ -4587,20 +4611,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31295,
+      "num": 256476,
+      "word": "给孩子买学习硬件注意啥",
+      "onboard_time": 1685436928,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 30723,
       "num": 30723,
       "word": "你会主动帮助有困难的老人吗",
       "onboard_time": 1685385194,
       "rank": 45,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 29824,
-      "num": 254147,
-      "word": "给孩子买学习硬件注意啥",
-      "onboard_time": 1685436928,
-      "rank": 28,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 25795,
@@ -4635,8 +4659,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 17329,
-      "num": 1191022,
+      "raw_hot": 18870,
+      "num": 1349121,
       "word": "点亮精神火炬",
       "onboard_time": 1685416949,
       "rank": 2,

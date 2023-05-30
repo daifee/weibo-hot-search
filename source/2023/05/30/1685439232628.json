@@ -1,0 +1,410 @@
+{
+  "runTime": 1685439232628,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1864344,
+        "num": 1864344,
+        "word": "金鸡奖15个评委都投给了朱一龙",
+        "onboard_time": 1685431170,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1478592,
+        "num": 1478592,
+        "word": "杨紫摄影师出来聊聊",
+        "onboard_time": 1685436270,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18870,
+        "num": 1349121,
+        "word": "点亮精神火炬",
+        "onboard_time": 1685416949,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1839669,
+        "num": 1347034,
+        "word": "离婚了30万彩礼该不该返还",
+        "onboard_time": 1685430087,
+        "rank": 3,
+        "category": "社会议题,情感"
+      },
+      {
+        "raw_hot": 1307765,
+        "num": 1307765,
+        "word": "时尚芭莎红毯",
+        "onboard_time": 1685437649,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1251773,
+        "num": 1251773,
+        "word": "河南紧急下拨2亿元用于小麦烘干",
+        "onboard_time": 1685427088,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 957524,
+        "num": 957524,
+        "word": "刘宪华一天给Amber打8个电话",
+        "onboard_time": 1685432669,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 918153,
+        "num": 918153,
+        "word": "丫丫回家后判若两熊",
+        "onboard_time": 1685431951,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637586,
+        "num": 637586,
+        "word": "身体缺什么 嘴巴早知道",
+        "onboard_time": 1685423972,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 576265,
+        "num": 576265,
+        "word": "时尚芭莎年度派对",
+        "onboard_time": 1685436508,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 819209,
+        "num": 550640,
+        "word": "20岁小伙月入6000背百万房贷",
+        "onboard_time": 1685427808,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 585633,
+        "num": 540536,
+        "word": "胡彦斌新恋情被曝后首发博",
+        "onboard_time": 1685432249,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517692,
+        "num": 517692,
+        "word": "杨紫脸颊痣",
+        "onboard_time": 1685433090,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 489498,
+        "num": 489498,
+        "word": "华晨宇加入LGD",
+        "onboard_time": 1685420674,
+        "rank": 13,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 475535,
+        "num": 475535,
+        "word": "神十六成功对接空间站组合体",
+        "onboard_time": 1685436209,
+        "rank": 14,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1513859,
+        "num": 457127,
+        "word": "电子科技大学",
+        "onboard_time": 1685433808,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419361,
+        "num": 419361,
+        "word": "孙千 妈爱你一万年骗你是小狗",
+        "onboard_time": 1685435431,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 403701,
+        "num": 403701,
+        "word": "鹿晗演唱会主办方是自己",
+        "onboard_time": 1685435190,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 403668,
+        "num": 403668,
+        "word": "马斯克私人飞机降落北京",
+        "onboard_time": 1685432128,
+        "rank": 18,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 346920,
+        "num": 346920,
+        "word": "宋轶白敬亭好嗑",
+        "onboard_time": 1685423972,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343103,
+        "num": 343103,
+        "word": "03 你还有七个学生没毕业",
+        "onboard_time": 1685412027,
+        "rank": 20,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 340549,
+        "num": 340549,
+        "word": "唐嫣对我眼睛很友好",
+        "onboard_time": 1685438489,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 332907,
+        "num": 332907,
+        "word": "韩国男爱豆猥亵队友一审被判缓刑",
+        "onboard_time": 1685435970,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 324330,
+        "num": 324330,
+        "word": "90后为什么不喝星巴克了",
+        "onboard_time": 1685434768,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311426,
+        "num": 311426,
+        "word": "韩国豆瓣排名靠前的中国艺人",
+        "onboard_time": 1685435910,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262906,
+        "num": 262906,
+        "word": "秦昊恋爱脑",
+        "onboard_time": 1685426371,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262382,
+        "num": 262382,
+        "word": "李湘为王诗龄庆儿童节",
+        "onboard_time": 1685435730,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257971,
+        "num": 257971,
+        "word": "因为会骂人被领导赏识",
+        "onboard_time": 1685437228,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 31295,
+        "num": 256476,
+        "word": "给孩子买学习硬件注意啥",
+        "onboard_time": 1685436928,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 255856,
+        "num": 255856,
+        "word": "被丈夫砍杀柯基威胁女子回应彩礼争议",
+        "onboard_time": 1685431111,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249955,
+        "num": 249955,
+        "word": "直播间明星带货竟是AI换脸",
+        "onboard_time": 1685434170,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 240504,
+        "num": 240504,
+        "word": "四川自来水公司呼吁每月洗澡2到4次",
+        "onboard_time": 1685418811,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235943,
+        "num": 235943,
+        "word": "杨紫新妆容",
+        "onboard_time": 1685432010,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226217,
+        "num": 226217,
+        "word": "吴谢宇死刑",
+        "onboard_time": 1685411609,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108162,
+        "num": 222119,
+        "word": "学练机",
+        "onboard_time": 1685438848,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221446,
+        "num": 221446,
+        "word": "这才是真正的梨型身材",
+        "onboard_time": 1685431590,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193969,
+        "num": 193969,
+        "word": "迪丽热巴龚俊坐在一起",
+        "onboard_time": 1685427808,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178381,
+        "num": 178381,
+        "word": "月入多少才会考虑买房",
+        "onboard_time": 1685432669,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178357,
+        "num": 178357,
+        "word": "吴磊演我向往的生活",
+        "onboard_time": 1685434587,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169239,
+        "num": 169239,
+        "word": "2023新一线城市名单官宣",
+        "onboard_time": 1685432788,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166625,
+        "num": 166625,
+        "word": "只有幸福的人才会在网上消失",
+        "onboard_time": 1685437950,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164566,
+        "num": 164566,
+        "word": "唐嫣又穿的公主裙",
+        "onboard_time": 1685439089,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 161880,
+        "num": 161880,
+        "word": "明星芭莎年度派对造型",
+        "onboard_time": 1685434528,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155688,
+        "num": 155688,
+        "word": "陈都灵粉色吊带",
+        "onboard_time": 1685427268,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 150731,
+        "num": 150731,
+        "word": "专家称女性独立的副作用是生育下降",
+        "onboard_time": 1685426670,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136885,
+        "num": 136885,
+        "word": "林彦俊芭莎年度派对上班路透",
+        "onboard_time": 1685437049,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 135285,
+        "num": 135285,
+        "word": "放在整个教育界都是相当炸裂",
+        "onboard_time": 1685437468,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132361,
+        "num": 132361,
+        "word": "哈尔滨偶遇宁艺卓",
+        "onboard_time": 1685433692,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95055,
+        "num": 132115,
+        "word": "莫斯科",
+        "onboard_time": 1685429129,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 94488,
+        "num": 131856,
+        "word": "磁悬浮小肥羊",
+        "onboard_time": 1685435129,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#现在进入神舟十六号时间#"
+    }
+  }
+}
