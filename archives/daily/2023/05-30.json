@@ -1,6 +1,6 @@
 {
   "startTime": 1685377320709,
-  "endTime": 1685414850304,
+  "endTime": 1685416659803,
   "band_list": [
     {
       "raw_hot": 4068594,
@@ -17,6 +17,14 @@
       "onboard_time": 1685365350,
       "rank": 0,
       "category": "社会新闻,游戏"
+    },
+    {
+      "raw_hot": 2254339,
+      "num": 2254339,
+      "word": "五月天",
+      "onboard_time": 1685415329,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 2166254,
@@ -43,12 +51,20 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 1426656,
-      "num": 1426656,
+      "raw_hot": 1444342,
+      "num": 1444342,
       "word": "03 你还有七个学生没毕业",
       "onboard_time": 1685412027,
       "rank": 1,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 1387165,
+      "num": 1387165,
+      "word": "小县城十八万八的彩礼合理吗",
+      "onboard_time": 1685405430,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 1345961,
@@ -73,14 +89,6 @@
       "onboard_time": 1685402122,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1129204,
-      "num": 1129204,
-      "word": "小县城十八万八的彩礼合理吗",
-      "onboard_time": 1685405430,
-      "rank": 6,
-      "category": "情感"
     },
     {
       "raw_hot": 1073957,
@@ -131,12 +139,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 806778,
+      "num": 806778,
+      "word": "巴特勒",
+      "onboard_time": 1685415329,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 763167,
       "num": 763167,
       "word": "韩亚航空事件中空姐一直用身体挡住舱门",
       "onboard_time": 1685370814,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 733900,
+      "num": 733900,
+      "word": "五月天演唱会成大型求婚现场",
+      "onboard_time": 1685413408,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 712819,
@@ -147,6 +171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 689329,
+      "num": 591285,
+      "word": "金星参加干女儿婚礼",
+      "onboard_time": 1685413050,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 657583,
       "num": 657583,
       "word": "王源一家人各火各的",
@@ -155,12 +187,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 591433,
+      "num": 591433,
+      "word": "大熊猫园润遭男子泼水",
+      "onboard_time": 1685414187,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 582791,
       "num": 475132,
       "word": "你管周也这张脸叫普普通通",
       "onboard_time": 1685370272,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 539317,
+      "num": 539317,
+      "word": "五月天杭州",
+      "onboard_time": 1685412087,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 527208,
@@ -177,6 +225,14 @@
       "onboard_time": 1685401218,
       "rank": 22,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 517343,
+      "num": 517343,
+      "word": "陶昕然发博寻5年前飞机邻座男士",
+      "onboard_time": 1685416408,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 507232,
@@ -219,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 457732,
+      "num": 457732,
+      "word": "网友精修王俊凯易烊千玺的脸",
+      "onboard_time": 1685411307,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 441314,
       "num": 376852,
       "word": "迪丽热巴 小心骗子听到没",
@@ -227,20 +291,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 438481,
+      "num": 438481,
+      "word": "凯尔特人vs热火",
+      "onboard_time": 1685409568,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 405370,
       "num": 328195,
       "word": "吴磊哭着蹭赵今麦肩膀",
       "onboard_time": 1685363067,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 395839,
-      "num": 395839,
-      "word": "凯尔特人vs热火",
-      "onboard_time": 1685409568,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 382680,
@@ -283,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 354215,
+      "num": 354215,
+      "word": "以爱为营",
+      "onboard_time": 1685415329,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 345118,
       "num": 345118,
       "word": "迪丽热巴演出了检察官的正义感",
@@ -291,12 +363,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 341334,
-      "num": 341334,
-      "word": "网友精修王俊凯易烊千玺的脸",
-      "onboard_time": 1685411307,
-      "rank": 47,
-      "category": "作品衍生"
+      "raw_hot": 345112,
+      "num": 345112,
+      "word": "男子喜中3302万家人劝他平常心",
+      "onboard_time": 1685413167,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 334148,
@@ -339,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 306756,
+      "num": 306756,
+      "word": "迪丽热巴笑眼",
+      "onboard_time": 1685414007,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306741,
       "num": 306741,
       "word": "YammerS",
@@ -363,14 +443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 292565,
-      "num": 292565,
-      "word": "金星参加干女儿婚礼",
-      "onboard_time": 1685413050,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 290248,
       "num": 290248,
       "word": "男子吃火锅遇假茅台被服务员提醒",
@@ -379,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 286100,
-      "num": 286100,
-      "word": "男子喜中3302万家人劝他平常心",
-      "onboard_time": 1685413167,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 286812,
+      "num": 286812,
+      "word": "热火黑八奇迹还在继续",
+      "onboard_time": 1685416349,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 279870,
@@ -459,6 +531,14 @@
       "category": "社会新闻,游戏"
     },
     {
+      "raw_hot": 243406,
+      "num": 243406,
+      "word": "张萌帮妈妈追星赵露思罗一舟",
+      "onboard_time": 1685412867,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241827,
       "num": 241827,
       "word": "女子骨折做手术后左腿变长2.3厘米",
@@ -523,12 +603,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218532,
+      "num": 213719,
+      "word": "路人拍的陈都灵",
+      "onboard_time": 1685416288,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214825,
       "num": 184002,
       "word": "护心第三季",
       "onboard_time": 1685372194,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210110,
+      "num": 210110,
+      "word": "阿德巴约",
+      "onboard_time": 1685413050,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 208107,
@@ -555,20 +651,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205372,
-      "num": 205372,
-      "word": "迪丽热巴笑眼",
-      "onboard_time": 1685414007,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 203512,
-      "num": 203512,
-      "word": "大熊猫园润遭男子泼水",
-      "onboard_time": 1685414187,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 203145,
+      "num": 203145,
+      "word": "热火晋级总决赛",
+      "onboard_time": 1685415810,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 202728,
@@ -595,20 +683,28 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 200487,
-      "num": 200487,
-      "word": "阿德巴约",
-      "onboard_time": 1685413050,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 200414,
+      "num": 200414,
+      "word": "张艺兴大航海三巡预热",
+      "onboard_time": 1685415209,
+      "rank": 38,
+      "category": "音乐"
     },
     {
-      "raw_hot": 199292,
-      "num": 199292,
-      "word": "五月天杭州",
-      "onboard_time": 1685412087,
-      "rank": 34,
-      "category": "音乐"
+      "raw_hot": 200195,
+      "num": 200195,
+      "word": "兄妹四人同时查出肠道肿瘤",
+      "onboard_time": 1685416470,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193462,
+      "num": 193462,
+      "word": "导师亲自到太空跑数据去了",
+      "onboard_time": 1685414729,
+      "rank": 48,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 192083,
@@ -619,19 +715,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 187687,
+      "num": 187687,
+      "word": "热火东部冠军",
+      "onboard_time": 1685416349,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 187412,
+      "num": 187412,
+      "word": "黄晓明让严浩翔卖啊",
+      "onboard_time": 1685416171,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184296,
       "num": 184296,
       "word": "难听",
       "onboard_time": 1685404709,
       "rank": 28,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 183633,
-      "num": 183633,
-      "word": "五月天演唱会成大型求婚现场",
-      "onboard_time": 1685413408,
-      "rank": 45,
       "category": "音乐"
     },
     {
@@ -641,14 +745,6 @@
       "onboard_time": 1685377464,
       "rank": 44,
       "category": "美妆,艺人"
-    },
-    {
-      "raw_hot": 182821,
-      "num": 182821,
-      "word": "张萌帮妈妈追星赵露思罗一舟",
-      "onboard_time": 1685412867,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 181486,
@@ -801,14 +897,6 @@
       "onboard_time": 1685409328,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 144754,
-      "num": 144754,
-      "word": "导师亲自到太空跑数据去了",
-      "onboard_time": 1685414729,
-      "rank": 48,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 142274,
@@ -972,7 +1060,7 @@
     },
     {
       "raw_hot": 68403,
-      "num": 1363259,
+      "num": 1761453,
       "word": "中国人筑起攀向太空的天梯",
       "onboard_time": 1685363909,
       "rank": 2,
