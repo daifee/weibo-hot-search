@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685450130871,
+  "endTime": 1685451070595,
   "band_list": [
     {
       "raw_hot": 4068594,
@@ -17,6 +17,14 @@
       "onboard_time": 1685365350,
       "rank": 10,
       "category": "社会新闻,游戏"
+    },
+    {
+      "raw_hot": 3530850,
+      "num": 524079,
+      "word": "阚清子被男友求婚",
+      "onboard_time": 1685450613,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 3420234,
@@ -65,6 +73,14 @@
       "onboard_time": 1685357368,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2555379,
+      "num": 2555379,
+      "word": "杨幂 谢依霖",
+      "onboard_time": 1685448932,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2377260,
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 1560919,
-      "num": 1154905,
+      "num": 1396575,
       "word": "赵丽颖露背",
       "onboard_time": 1685440949,
       "rank": 14,
@@ -393,14 +409,6 @@
       "onboard_time": 1685358929,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1308098,
-      "num": 1308098,
-      "word": "杨幂 谢依霖",
-      "onboard_time": 1685448932,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1301269,
@@ -547,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1117847,
+      "num": 1117847,
+      "word": "Angelababy红毯从来没有失手过",
+      "onboard_time": 1685447909,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1115603,
       "num": 1115603,
       "word": "大熊猫园润遭男子泼水",
@@ -657,14 +673,6 @@
       "onboard_time": 1685276908,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 966998,
-      "num": 487734,
-      "word": "Angelababy红毯从来没有失手过",
-      "onboard_time": 1685447909,
-      "rank": 11,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 961186,
@@ -787,7 +795,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 787728,
+      "raw_hot": 792714,
       "num": 482036,
       "word": "杨幂牛奶长靴",
       "onboard_time": 1685446950,
@@ -801,6 +809,14 @@
       "onboard_time": 1685287770,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 770065,
+      "num": 770065,
+      "word": "泽连斯基称已确定反攻日期",
+      "onboard_time": 1685447433,
+      "rank": 7,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 758694,
@@ -825,6 +841,14 @@
       "onboard_time": 1685413408,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 727064,
+      "num": 261672,
+      "word": "杨紫范丞丞在聊什么",
+      "onboard_time": 1685449231,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 719074,
@@ -923,20 +947,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 659306,
+      "num": 659306,
+      "word": "贤合庄北京门店全部关闭",
+      "onboard_time": 1685447129,
+      "rank": 8,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 657583,
       "num": 657583,
       "word": "王源一家人各火各的",
       "onboard_time": 1685402062,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 655309,
-      "num": 655309,
-      "word": "泽连斯基称已确定反攻日期",
-      "onboard_time": 1685447433,
-      "rank": 7,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 649496,
@@ -953,14 +977,6 @@
       "onboard_time": 1685346268,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 642948,
-      "num": 642948,
-      "word": "贤合庄北京门店全部关闭",
-      "onboard_time": 1685447129,
-      "rank": 8,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 634869,
@@ -1067,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 600985,
+      "num": 240659,
+      "word": "迪丽热巴第二套",
+      "onboard_time": 1685451033,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 597916,
       "num": 597916,
       "word": "卡戴珊家族担心没生儿子姓氏失传",
@@ -1171,8 +1195,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 548959,
-      "num": 548959,
+      "raw_hot": 549617,
+      "num": 549617,
       "word": "清清 挂牌",
       "onboard_time": 1685446711,
       "rank": 9,
@@ -1209,14 +1233,6 @@
       "onboard_time": 1685366008,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 537417,
-      "num": 260154,
-      "word": "杨紫范丞丞在聊什么",
-      "onboard_time": 1685449231,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 534656,
@@ -1321,6 +1337,14 @@
       "onboard_time": 1685421516,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 505687,
+      "num": 237907,
+      "word": "赵丽颖工作室就出一张图",
+      "onboard_time": 1685445572,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 503896,
@@ -1481,14 +1505,6 @@
       "onboard_time": 1685315299,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 447032,
-      "num": 206626,
-      "word": "赵丽颖工作室就出一张图",
-      "onboard_time": 1685445572,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 438481,
@@ -1769,6 +1785,14 @@
       "onboard_time": 1685414007,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 370982,
+      "num": 186512,
+      "word": "迪丽热巴龚俊同框",
+      "onboard_time": 1685449772,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 370838,
@@ -2483,6 +2507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 275718,
+      "num": 275718,
+      "word": "千万不要害怕一个人的生活",
+      "onboard_time": 1685445512,
+      "rank": 47,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 275556,
       "num": 275556,
       "word": "青春有你2时期的金子涵",
@@ -2699,14 +2731,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 255144,
-      "num": 158120,
-      "word": "迪丽热巴龚俊同框",
-      "onboard_time": 1685449772,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 255097,
       "num": 255097,
       "word": "皇马官方祝贺樊振东",
@@ -2753,6 +2777,22 @@
       "onboard_time": 1685325687,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251812,
+      "num": 251812,
+      "word": "女生要不要下嫁陪心爱的穷男生吃苦",
+      "onboard_time": 1685449170,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 251175,
+      "num": 137836,
+      "word": "吴倩新剧掉马",
+      "onboard_time": 1685450312,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 250951,
@@ -2979,14 +3019,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 234787,
-      "num": 234787,
-      "word": "千万不要害怕一个人的生活",
-      "onboard_time": 1685445512,
-      "rank": 47,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 232500,
       "num": 232500,
       "word": "莫斯科遭无人机袭击",
@@ -3017,6 +3049,14 @@
       "onboard_time": 1685337151,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 228236,
+      "num": 168890,
+      "word": "护心",
+      "onboard_time": 1685356047,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 227940,
@@ -3089,6 +3129,14 @@
       "onboard_time": 1685349509,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 223987,
+      "num": 137086,
+      "word": "罗云熙澹台烬衣服被拍卖到10万",
+      "onboard_time": 1685448752,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 223382,
@@ -3795,6 +3843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186259,
+      "num": 186259,
+      "word": "宋丹丹 尹正",
+      "onboard_time": 1685445811,
+      "rank": 48,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 185720,
       "num": 185720,
       "word": "被砍死柯基主人正在派出所补充材料",
@@ -3939,14 +3995,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 177849,
-      "num": 177849,
-      "word": "宋丹丹 尹正",
-      "onboard_time": 1685445811,
-      "rank": 48,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 176090,
       "num": 176090,
       "word": "柯基被砍",
@@ -3969,14 +4017,6 @@
       "onboard_time": 1685403505,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 173118,
-      "num": 173118,
-      "word": "女生要不要下嫁陪心爱的穷男生吃苦",
-      "onboard_time": 1685449170,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 172642,
@@ -4041,14 +4081,6 @@
       "onboard_time": 1685335772,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168890,
-      "num": 168890,
-      "word": "护心",
-      "onboard_time": 1685356047,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 168256,
@@ -4419,6 +4451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138491,
+      "num": 138491,
+      "word": "Cat",
+      "onboard_time": 1685450552,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137305,
       "num": 137305,
       "word": "黄晓明以为303是二次元",
@@ -4729,6 +4769,14 @@
       "onboard_time": 1685349208,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 111106,
+      "num": 136300,
+      "word": "造谣收割机被扣押者拘留七天",
+      "onboard_time": 1685450373,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108162,
@@ -5140,7 +5188,7 @@
     },
     {
       "raw_hot": 18870,
-      "num": 1404872,
+      "num": 1623760,
       "word": "点亮精神火炬",
       "onboard_time": 1685416949,
       "rank": 2,
