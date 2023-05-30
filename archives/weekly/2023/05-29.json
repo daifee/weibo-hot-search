@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685486009329,
+  "endTime": 1685488578889,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -1211,6 +1211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 570699,
+      "num": 570699,
+      "word": "福建高校女生坠亡家属发声",
+      "onboard_time": 1685481551,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 561009,
       "num": 561009,
       "word": "密室大逃脱",
@@ -2179,14 +2187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 338041,
-      "num": 338041,
-      "word": "福建高校女生坠亡家属发声",
-      "onboard_time": 1685481551,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 337870,
       "num": 337870,
       "word": "被砍死柯基主人称未与丈夫和解",
@@ -2569,6 +2569,14 @@
       "onboard_time": 1685457034,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 293764,
+      "num": 293764,
+      "word": "河南一90后干部涉嫌严重违法被查",
+      "onboard_time": 1685479512,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293675,
@@ -3419,6 +3427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 224556,
+      "num": 224556,
+      "word": "年轻人有必要背上高额房贷买房吗",
+      "onboard_time": 1685479151,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224167,
       "num": 224167,
       "word": "贡菜毛肚螺蛳粉",
@@ -3873,6 +3889,14 @@
       "onboard_time": 1685366069,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 199149,
+      "num": 123869,
+      "word": "愿检尽检重现青岛崂山区",
+      "onboard_time": 1685478132,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198816,
@@ -4563,6 +4587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161645,
+      "num": 123675,
+      "word": "朋友圈发这些东西账号会被罚",
+      "onboard_time": 1685465482,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161355,
       "num": 161355,
       "word": "看到桂海潮的心路历程",
@@ -4672,14 +4704,6 @@
       "word": "年轻人的生育意愿为什么越来越低",
       "onboard_time": 1685270610,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154670,
-      "num": 154670,
-      "word": "河南一90后干部涉嫌严重违法被查",
-      "onboard_time": 1685479512,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -4819,14 +4843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 141633,
-      "num": 86598,
-      "word": "朋友圈发这些东西账号会被罚",
-      "onboard_time": 1685465482,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140382,
       "num": 239941,
       "word": "造谣收割机被扣押者拘留七天",
@@ -4921,14 +4937,6 @@
       "onboard_time": 1685356887,
       "rank": 46,
       "category": "科技"
-    },
-    {
-      "raw_hot": 132200,
-      "num": 69544,
-      "word": "愿检尽检重现青岛崂山区",
-      "onboard_time": 1685478132,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132111,
@@ -5051,14 +5059,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 123716,
-      "num": 123716,
-      "word": "年轻人有必要背上高额房贷买房吗",
-      "onboard_time": 1685479151,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123524,
       "num": 123524,
       "word": "RNG",
@@ -5161,6 +5161,14 @@
       "onboard_time": 1685409867,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115117,
+      "num": 115117,
+      "word": "福建农业职业技术学院通报女生坠楼",
+      "onboard_time": 1685482332,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 114596,
@@ -5275,6 +5283,14 @@
       "category": "动漫,艺人"
     },
     {
+      "raw_hot": 97408,
+      "num": 97408,
+      "word": "深夜举吊瓶赶地铁的女生发声",
+      "onboard_time": 1685474652,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96837,
       "num": 587694,
       "word": "荣耀90",
@@ -5323,6 +5339,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 84674,
+      "num": 84674,
+      "word": "韩国警报",
+      "onboard_time": 1685488281,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84291,
       "num": 84291,
       "word": "分手后你还会和前任有联系吗",
@@ -5360,6 +5384,14 @@
       "word": "一人一句祝福神十六",
       "onboard_time": 1685405549,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78669,
+      "num": 78669,
+      "word": "狗狗生命最后一刻独自离开十几年主人家",
+      "onboard_time": 1685487801,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -5419,12 +5451,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 70798,
-      "num": 70798,
-      "word": "福建农业职业技术学院通报女生坠楼",
-      "onboard_time": 1685482332,
-      "rank": 48,
-      "category": "社会新闻,教育"
+      "raw_hot": 70708,
+      "num": 70708,
+      "word": "杨幂回复谢依霖说爱你啊hold么么",
+      "onboard_time": 1685470574,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 70124,
@@ -5523,20 +5555,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 59654,
+      "num": 59654,
+      "word": "国际超模的化妆师有多绝",
+      "onboard_time": 1685486237,
+      "rank": 42,
+      "category": "美妆,时尚"
+    },
+    {
       "raw_hot": 54806,
       "num": 54806,
       "word": "神十六出征",
       "onboard_time": 1685466199,
       "rank": 48,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 54454,
-      "num": 54454,
-      "word": "杨幂回复谢依霖说爱你啊hold么么",
-      "onboard_time": 1685470574,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 53106,
@@ -5547,19 +5579,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52291,
-      "num": 52291,
-      "word": "深夜举吊瓶赶地铁的女生发声",
-      "onboard_time": 1685474652,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51167,
       "num": 645268,
       "word": "吴易昺全力冲击法网男双",
       "onboard_time": 1685419229,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51092,
+      "num": 51092,
+      "word": "萌娃第一颗果子先给太爷爷吃",
+      "onboard_time": 1685487859,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -5577,6 +5609,14 @@
       "onboard_time": 1685381238,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48679,
+      "num": 48679,
+      "word": "狗狗突然晕倒 路人人工呼吸抢救",
+      "onboard_time": 1685488159,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39236,
@@ -5657,6 +5697,14 @@
       "onboard_time": 1685440832,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 26019,
+      "num": 98742,
+      "word": "神十六各系统准备就绪",
+      "onboard_time": 1685403326,
+      "rank": 29,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 25795,

@@ -1,6 +1,6 @@
 {
   "startTime": 1685463570565,
-  "endTime": 1685486009329,
+  "endTime": 1685488578889,
   "band_list": [
     {
       "raw_hot": 2123857,
@@ -75,6 +75,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 570699,
+      "num": 570699,
+      "word": "福建高校女生坠亡家属发声",
+      "onboard_time": 1685481551,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 556604,
       "num": 438923,
       "word": "亲密关系最忌讳炫耀自己受欢迎",
@@ -147,20 +155,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 338041,
-      "num": 338041,
-      "word": "福建高校女生坠亡家属发声",
-      "onboard_time": 1685481551,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 328340,
       "num": 328340,
       "word": "北京WB",
       "onboard_time": 1685457759,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 293764,
+      "num": 293764,
+      "word": "河南一90后干部涉嫌严重违法被查",
+      "onboard_time": 1685479512,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288307,
@@ -235,6 +243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 224556,
+      "num": 224556,
+      "word": "年轻人有必要背上高额房贷买房吗",
+      "onboard_time": 1685479151,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222912,
       "num": 222912,
       "word": "吴磊到新疆了",
@@ -257,6 +273,14 @@
       "onboard_time": 1685450796,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199149,
+      "num": 123869,
+      "word": "愿检尽检重现青岛崂山区",
+      "onboard_time": 1685478132,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195849,
@@ -299,6 +323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 161645,
+      "num": 123675,
+      "word": "朋友圈发这些东西账号会被罚",
+      "onboard_time": 1685465482,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160348,
       "num": 244011,
       "word": "女生要不要下嫁陪心爱的穷男生吃苦",
@@ -315,14 +347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154670,
-      "num": 154670,
-      "word": "河南一90后干部涉嫌严重违法被查",
-      "onboard_time": 1685479512,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145003,
       "num": 113559,
       "word": "迪丽热巴出图了吗",
@@ -337,14 +361,6 @@
       "onboard_time": 1685445512,
       "rank": 34,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 141633,
-      "num": 86598,
-      "word": "朋友圈发这些东西账号会被罚",
-      "onboard_time": 1685465482,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137957,
@@ -379,14 +395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132200,
-      "num": 69544,
-      "word": "愿检尽检重现青岛崂山区",
-      "onboard_time": 1685478132,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 128526,
       "num": 118159,
       "word": "黄晓明尹正亲上了",
@@ -400,14 +408,6 @@
       "word": "上海白蚁",
       "onboard_time": 1685451096,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123716,
-      "num": 123716,
-      "word": "年轻人有必要背上高额房贷买房吗",
-      "onboard_time": 1685479151,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -425,6 +425,14 @@
       "onboard_time": 1685452776,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115117,
+      "num": 115117,
+      "word": "福建农业职业技术学院通报女生坠楼",
+      "onboard_time": 1685482332,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 106372,
@@ -451,12 +459,36 @@
       "category": "动漫,艺人"
     },
     {
+      "raw_hot": 97408,
+      "num": 97408,
+      "word": "深夜举吊瓶赶地铁的女生发声",
+      "onboard_time": 1685474652,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96758,
       "num": 98674,
       "word": "Hero",
       "onboard_time": 1685457998,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 84674,
+      "num": 84674,
+      "word": "韩国警报",
+      "onboard_time": 1685488281,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78669,
+      "num": 78669,
+      "word": "狗狗生命最后一刻独自离开十几年主人家",
+      "onboard_time": 1685487801,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77285,
@@ -475,12 +507,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70798,
-      "num": 70798,
-      "word": "福建农业职业技术学院通报女生坠楼",
-      "onboard_time": 1685482332,
-      "rank": 48,
-      "category": "社会新闻,教育"
+      "raw_hot": 70708,
+      "num": 70708,
+      "word": "杨幂回复谢依霖说爱你啊hold么么",
+      "onboard_time": 1685470574,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 63261,
+      "num": 60903,
+      "word": "密室大逃脱",
+      "onboard_time": 1685441669,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 61489,
@@ -489,6 +529,14 @@
       "onboard_time": 1685459974,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59654,
+      "num": 59654,
+      "word": "国际超模的化妆师有多绝",
+      "onboard_time": 1685486237,
+      "rank": 42,
+      "category": "美妆,时尚"
     },
     {
       "raw_hot": 58842,
@@ -507,19 +555,19 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 54454,
-      "num": 54454,
-      "word": "杨幂回复谢依霖说爱你啊hold么么",
-      "onboard_time": 1685470574,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 51092,
+      "num": 51092,
+      "word": "萌娃第一颗果子先给太爷爷吃",
+      "onboard_time": 1685487859,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 52291,
-      "num": 52291,
-      "word": "深夜举吊瓶赶地铁的女生发声",
-      "onboard_time": 1685474652,
-      "rank": 49,
+      "raw_hot": 48679,
+      "num": 48679,
+      "word": "狗狗突然晕倒 路人人工呼吸抢救",
+      "onboard_time": 1685488159,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -539,14 +587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35092,
-      "num": 35092,
-      "word": "密室大逃脱",
-      "onboard_time": 1685441669,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 32549,
       "num": 35091,
       "word": "杨紫新妆容",
@@ -561,6 +601,14 @@
       "onboard_time": 1685466439,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 26019,
+      "num": 98742,
+      "word": "神十六各系统准备就绪",
+      "onboard_time": 1685403326,
+      "rank": 29,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 22669,
