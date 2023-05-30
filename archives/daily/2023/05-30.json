@@ -1,6 +1,6 @@
 {
   "startTime": 1685377320709,
-  "endTime": 1685439232628,
+  "endTime": 1685441881931,
   "band_list": [
     {
       "raw_hot": 4068594,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1662639,
-      "num": 674655,
+      "num": 832007,
       "word": "电子科技大学",
       "onboard_time": 1685433808,
       "rank": 23,
@@ -203,12 +203,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1166526,
+      "num": 973237,
+      "word": "怪不得杨幂不去芭莎盛典",
+      "onboard_time": 1685440470,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1148618,
       "num": 1148618,
       "word": "一杯奶茶钱可以买这么多东西",
       "onboard_time": 1685418931,
       "rank": 17,
       "category": "财经,幽默"
+    },
+    {
+      "raw_hot": 1131018,
+      "num": 1131018,
+      "word": "唐嫣对我眼睛很友好",
+      "onboard_time": 1685438489,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1115603,
@@ -227,12 +243,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1059237,
+      "num": 1059237,
+      "word": "黄晓明尹正亲上了",
+      "onboard_time": 1685440949,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1034471,
       "num": 1034471,
       "word": "四个显眼包",
       "onboard_time": 1685370753,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1027420,
+      "num": 1027420,
+      "word": "丫丫回家后判若两熊",
+      "onboard_time": 1685431951,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1021923,
@@ -283,14 +315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 918153,
-      "num": 918153,
-      "word": "丫丫回家后判若两熊",
-      "onboard_time": 1685431951,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 872855,
       "num": 872855,
       "word": "巴特勒",
@@ -315,12 +339,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 835159,
+      "num": 835159,
+      "word": "赵丽颖露背",
+      "onboard_time": 1685440949,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 808801,
       "num": 808801,
       "word": "光遇",
       "onboard_time": 1685420254,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 798254,
+      "num": 798254,
+      "word": "胡彦斌新恋情被曝后首发博",
+      "onboard_time": 1685432249,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 795760,
@@ -337,6 +377,14 @@
       "onboard_time": 1685370814,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 762929,
+      "num": 286386,
+      "word": "迪丽热巴出图了吗",
+      "onboard_time": 1685439929,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 749968,
@@ -432,14 +480,6 @@
       "word": "路人拍的陈都灵",
       "onboard_time": 1685416288,
       "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 585633,
-      "num": 578274,
-      "word": "胡彦斌新恋情被曝后首发博",
-      "onboard_time": 1685432249,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -571,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 467463,
+      "num": 467463,
+      "word": "有些取件码报着报着就唱起来了",
+      "onboard_time": 1685439269,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 457732,
       "num": 457732,
       "word": "网友精修王俊凯易烊千玺的脸",
@@ -625,6 +673,14 @@
       "onboard_time": 1685421636,
       "rank": 22,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 409497,
+      "num": 409497,
+      "word": "G社拍的赵露思",
+      "onboard_time": 1685441309,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 405370,
@@ -779,14 +835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 340549,
-      "num": 340549,
-      "word": "唐嫣对我眼睛很友好",
-      "onboard_time": 1685438489,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 334148,
       "num": 227139,
       "word": "福建农业职业技术学院坠楼",
@@ -835,6 +883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 326976,
+      "num": 326976,
+      "word": "南开大学 论文",
+      "onboard_time": 1685441190,
+      "rank": 23,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 324291,
       "num": 324291,
       "word": "抢票",
@@ -867,6 +923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 317340,
+      "num": 317340,
+      "word": "网友问赵丽颖怎么演许半夏的",
+      "onboard_time": 1685440772,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 314884,
       "num": 314884,
       "word": "Amber说我比所有韩剧欧巴的吻技都好",
@@ -884,15 +948,15 @@
     },
     {
       "raw_hot": 312641,
-      "num": 312641,
+      "num": 1294112,
       "word": "坠楼瞬间他用身体死死护住小女孩",
       "onboard_time": 1685421696,
       "rank": 31,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 311426,
-      "num": 311426,
+      "raw_hot": 312224,
+      "num": 312224,
       "word": "韩国豆瓣排名靠前的中国艺人",
       "onboard_time": 1685435910,
       "rank": 26,
@@ -1027,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270613,
+      "num": 270613,
+      "word": "因为会骂人被领导赏识",
+      "onboard_time": 1685437228,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 267962,
       "num": 267962,
       "word": "掘金",
@@ -1059,20 +1131,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 265192,
+      "num": 265192,
+      "word": "鹿晗重庆",
+      "onboard_time": 1685439506,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 262382,
       "num": 262382,
       "word": "李湘为王诗龄庆儿童节",
       "onboard_time": 1685435730,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 257971,
-      "num": 257971,
-      "word": "因为会骂人被领导赏识",
-      "onboard_time": 1685437228,
-      "rank": 38,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 256068,
@@ -1219,6 +1291,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 234971,
+      "num": 234971,
+      "word": "密室大逃脱",
+      "onboard_time": 1685441669,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232500,
       "num": 232500,
       "word": "莫斯科遭无人机袭击",
@@ -1241,6 +1321,22 @@
       "onboard_time": 1685416171,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227940,
+      "num": 227940,
+      "word": "LGD对战iG",
+      "onboard_time": 1685441251,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 227826,
+      "num": 178755,
+      "word": "李现 现偶霸总",
+      "onboard_time": 1685441611,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 227378,
@@ -1667,6 +1763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178479,
+      "num": 178479,
+      "word": "快播公司破产注销",
+      "onboard_time": 1685439449,
+      "rank": 41,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 176090,
       "num": 176090,
       "word": "柯基被砍",
@@ -1721,6 +1825,14 @@
       "onboard_time": 1685431470,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170868,
+      "num": 170868,
+      "word": "k4",
+      "onboard_time": 1685436749,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 170399,
@@ -1811,12 +1923,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157187,
+      "num": 157187,
+      "word": "6月定档好多剧啊",
+      "onboard_time": 1685441790,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 157093,
+      "num": 157093,
+      "word": "清醒的感受失去才是自虐",
+      "onboard_time": 1685441549,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155410,
       "num": 147225,
       "word": "TFBOYS十周年有望合体",
       "onboard_time": 1685360308,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155339,
+      "num": 155339,
+      "word": "民警被一排办公摆件盯上了",
+      "onboard_time": 1685439388,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150521,
@@ -1955,6 +2091,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 116850,
+      "num": 1201245,
+      "word": "高校短片记录见义勇为牺牲同学的生平",
+      "onboard_time": 1685433329,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 115297,
       "num": 115297,
       "word": "12岁男孩自告奋勇帮家里换纱窗",
@@ -1988,7 +2132,7 @@
     },
     {
       "raw_hot": 108162,
-      "num": 222119,
+      "num": 979293,
       "word": "学练机",
       "onboard_time": 1685438848,
       "rank": 34,
@@ -2123,6 +2267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51002,
+      "num": 1136505,
+      "word": "为头盔侠们点赞",
+      "onboard_time": 1685440230,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48695,
       "num": 158844,
       "word": "数字化学习是家庭必修课吗",
@@ -2185,6 +2337,14 @@
       "onboard_time": 1685424150,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19342,
+      "num": 178808,
+      "word": "TVB把港姐选秀搬进淘宝直播间",
+      "onboard_time": 1685440832,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 18870,
