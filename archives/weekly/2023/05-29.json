@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685410549664,
+  "endTime": 1685411635714,
   "band_list": [
     {
       "raw_hot": 3796538,
@@ -57,6 +57,14 @@
       "onboard_time": 1685347166,
       "rank": 9,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 2166254,
+      "num": 2166254,
+      "word": "神舟十六号发射",
+      "onboard_time": 1685410109,
+      "rank": 4,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 2107639,
@@ -315,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1129204,
+      "num": 1129204,
+      "word": "小县城十八万八的彩礼合理吗",
+      "onboard_time": 1685405430,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1075560,
       "num": 1075560,
       "word": "五月天欠下九十万斤水饺的债",
@@ -387,14 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 940681,
-      "num": 1132733,
-      "word": "神舟十六号发射",
-      "onboard_time": 1685410109,
-      "rank": 4,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 919453,
       "num": 919453,
       "word": "易烊千玺怀化",
@@ -433,14 +441,6 @@
       "onboard_time": 1685328149,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 861248,
-      "num": 861248,
-      "word": "小县城十八万八的彩礼合理吗",
-      "onboard_time": 1685405430,
-      "rank": 6,
-      "category": "情感"
     },
     {
       "raw_hot": 845071,
@@ -796,7 +796,7 @@
     },
     {
       "raw_hot": 500043,
-      "num": 280044,
+      "num": 300509,
       "word": "苏醒毫不尊重艺人五官的特效",
       "onboard_time": 1685403146,
       "rank": 46,
@@ -817,6 +817,14 @@
       "onboard_time": 1685365528,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 485950,
+      "num": 485950,
+      "word": "网友点评赵露思虞书欣是韩式演技",
+      "onboard_time": 1685401701,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 485835,
@@ -841,14 +849,6 @@
       "onboard_time": 1685282012,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 468699,
-      "num": 468699,
-      "word": "网友点评赵露思虞书欣是韩式演技",
-      "onboard_time": 1685401701,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 468625,
@@ -1019,6 +1019,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 391127,
+      "num": 220869,
+      "word": "吴谢宇死刑",
+      "onboard_time": 1685411609,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 382587,
       "num": 382587,
       "word": "天蝎座在感情中太矛盾了",
@@ -1051,6 +1059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 373279,
+      "num": 373279,
+      "word": "新娘坐婚车睡着新郎一路托着头",
+      "onboard_time": 1685407228,
+      "rank": 15,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 366212,
       "num": 366212,
       "word": "张丹峰洪欣合体",
@@ -1075,20 +1091,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 364491,
-      "num": 364491,
-      "word": "新娘坐婚车睡着新郎一路托着头",
-      "onboard_time": 1685407228,
-      "rank": 15,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 362774,
       "num": 362774,
       "word": "赵今麦吴磊好配",
       "onboard_time": 1685333248,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 362687,
+      "num": 362687,
+      "word": "YammerS 校园霸凌",
+      "onboard_time": 1685407291,
+      "rank": 16,
+      "category": "社会新闻,游戏"
     },
     {
       "raw_hot": 362260,
@@ -1105,14 +1121,6 @@
       "onboard_time": 1685344527,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 359098,
-      "num": 359098,
-      "word": "YammerS 校园霸凌",
-      "onboard_time": 1685407291,
-      "rank": 16,
-      "category": "社会新闻,游戏"
     },
     {
       "raw_hot": 358831,
@@ -1291,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314884,
+      "num": 314884,
+      "word": "Amber说我比所有韩剧欧巴的吻技都好",
+      "onboard_time": 1685407889,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 314189,
       "num": 314189,
       "word": "河南79岁老农手捧发芽小麦抹泪",
@@ -1323,12 +1339,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 306741,
+      "num": 306741,
+      "word": "YammerS",
+      "onboard_time": 1685411307,
+      "rank": 18,
+      "category": "社会新闻,游戏"
+    },
+    {
       "raw_hot": 303644,
       "num": 299640,
       "word": "肠道是熬夜猝死元凶之一",
       "onboard_time": 1685356646,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302819,
+      "num": 302819,
+      "word": "神十六发射圆满成功",
+      "onboard_time": 1685411188,
+      "rank": 19,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 299753,
@@ -1411,6 +1443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 279870,
+      "num": 279870,
+      "word": "吴谢宇",
+      "onboard_time": 1685411367,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279343,
       "num": 279343,
       "word": "容祖儿 抢票",
@@ -1483,14 +1523,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 273011,
-      "num": 273011,
-      "word": "Amber说我比所有韩剧欧巴的吻技都好",
-      "onboard_time": 1685407889,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 271678,
       "num": 271678,
       "word": "闪婚几天闹离婚男方索要6万彩礼",
@@ -1521,6 +1553,14 @@
       "onboard_time": 1685278589,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267265,
+      "num": 267265,
+      "word": "神舟十六号",
+      "onboard_time": 1685322867,
+      "rank": 26,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 267254,
@@ -1579,14 +1619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 259385,
-      "num": 259385,
-      "word": "神舟十六号",
-      "onboard_time": 1685322867,
-      "rank": 26,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 256068,
       "num": 225208,
       "word": "前夫婚礼现场女子拉横幅祝其纳妾",
@@ -1633,6 +1665,14 @@
       "onboard_time": 1685325687,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251889,
+      "num": 251889,
+      "word": "杨幂的小黑猫以前vs现在",
+      "onboard_time": 1685407710,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 250951,
@@ -1723,6 +1763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 243166,
+      "num": 220516,
+      "word": "马斯克谈中国航天工程计划",
+      "onboard_time": 1685411125,
+      "rank": 31,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 243136,
       "num": 243136,
       "word": "黄奕未经允许私拿美术馆展品摆拍",
@@ -1740,7 +1788,7 @@
     },
     {
       "raw_hot": 240612,
-      "num": 180339,
+      "num": 221014,
       "word": "吴谢宇案二审今日宣判",
       "onboard_time": 1685410047,
       "rank": 31,
@@ -1753,14 +1801,6 @@
       "onboard_time": 1685331268,
       "rank": 38,
       "category": "社会新闻,音乐"
-    },
-    {
-      "raw_hot": 240548,
-      "num": 240548,
-      "word": "杨幂的小黑猫以前vs现在",
-      "onboard_time": 1685407710,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 240331,
@@ -1793,6 +1833,14 @@
       "onboard_time": 1685316804,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230143,
+      "num": 230143,
+      "word": "凯尔特人vs热火",
+      "onboard_time": 1685409568,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 229831,
@@ -1907,14 +1955,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 214096,
-      "num": 214096,
-      "word": "凯尔特人vs热火",
-      "onboard_time": 1685409568,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 213322,
       "num": 213322,
       "word": "13岁女孩玩手机4个月花40多万",
@@ -1969,6 +2009,14 @@
       "onboard_time": 1685336491,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 208107,
+      "num": 208107,
+      "word": "神十六升空瞬间",
+      "onboard_time": 1685411307,
+      "rank": 32,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 207503,
@@ -2195,6 +2243,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 192083,
+      "num": 192083,
+      "word": "高考700分是种什么概念",
+      "onboard_time": 1685406509,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191676,
       "num": 191676,
       "word": "杨和苏 我要单挑活死人全员",
@@ -2275,6 +2331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184296,
+      "num": 184296,
+      "word": "难听",
+      "onboard_time": 1685404709,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 183592,
       "num": 183592,
       "word": "宁安如梦",
@@ -2307,12 +2371,12 @@
       "category": "美妆,艺人"
     },
     {
-      "raw_hot": 180607,
-      "num": 180607,
-      "word": "难听",
-      "onboard_time": 1685404709,
-      "rank": 28,
-      "category": "音乐"
+      "raw_hot": 181486,
+      "num": 181486,
+      "word": "谢娜菠萝菠萝蜜与面纱舞蹈的契合度",
+      "onboard_time": 1685408488,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 180306,
@@ -2347,14 +2411,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 179451,
-      "num": 179451,
-      "word": "高考700分是种什么概念",
-      "onboard_time": 1685406509,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 178372,
       "num": 178372,
       "word": "金在中想坐火车游中国",
@@ -2379,12 +2435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174633,
-      "num": 174633,
-      "word": "谢娜菠萝菠萝蜜与面纱舞蹈的契合度",
-      "onboard_time": 1685408488,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 173490,
+      "num": 173490,
+      "word": "林孝埈",
+      "onboard_time": 1685403505,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 172642,
@@ -2408,6 +2464,14 @@
       "word": "91岁爷爷买5个助听器坚持弹钢琴",
       "onboard_time": 1685354428,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170399,
+      "num": 170399,
+      "word": "女孩将云肩披上学士服中国风拉满",
+      "onboard_time": 1685410647,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -2491,8 +2555,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161904,
-      "num": 161904,
+      "raw_hot": 163835,
+      "num": 163835,
       "word": "10岁男孩牵着弟弟冷静报警救妈妈",
       "onboard_time": 1685407889,
       "rank": 38,
@@ -2531,12 +2595,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 159154,
-      "num": 159154,
-      "word": "林孝埈",
-      "onboard_time": 1685403505,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 159050,
+      "num": 159050,
+      "word": "坐火箭太爽了",
+      "onboard_time": 1685411547,
+      "rank": 43,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 158795,
@@ -2619,6 +2683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146961,
+      "num": 146961,
+      "word": "凯尔特人三分",
+      "onboard_time": 1685411125,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146745,
       "num": 146745,
       "word": "迪丽热巴公诉站内热度突破20000",
@@ -2633,6 +2705,14 @@
       "onboard_time": 1685354190,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 145424,
+      "num": 145424,
+      "word": "网友精修王俊凯易烊千玺的脸",
+      "onboard_time": 1685411307,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 145314,

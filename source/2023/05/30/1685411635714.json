@@ -1,0 +1,410 @@
+{
+  "runTime": 1685411635714,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2166254,
+        "num": 2166254,
+        "word": "神舟十六号发射",
+        "onboard_time": 1685410109,
+        "rank": 0,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1642706,
+        "num": 1642706,
+        "word": "考研进清华和高考进清华的区别",
+        "onboard_time": 1685405368,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46424,
+        "num": 1359623,
+        "word": "中国人筑起攀向太空的天梯",
+        "onboard_time": 1685363909,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1129204,
+        "num": 1129204,
+        "word": "小县城十八万八的彩礼合理吗",
+        "onboard_time": 1685405430,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1069660,
+        "num": 1069660,
+        "word": "官方回应怀孕4个月女子遭家暴",
+        "onboard_time": 1685383995,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1042852,
+        "num": 1042852,
+        "word": "大姑姐 韩国",
+        "onboard_time": 1685402842,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 774205,
+        "num": 774205,
+        "word": "YammerS确认已离世",
+        "onboard_time": 1685365350,
+        "rank": 6,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 709869,
+        "num": 709869,
+        "word": "神十六航天员领命出征",
+        "onboard_time": 1685403446,
+        "rank": 7,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 615156,
+        "num": 615156,
+        "word": "王源一家人各火各的",
+        "onboard_time": 1685402062,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 515129,
+        "num": 515129,
+        "word": "官方通报男子砍杀柯基威胁妻子",
+        "onboard_time": 1685371055,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1181908,
+        "num": 505296,
+        "word": "曝昆汀花1万美元在夜店舔美女的脚",
+        "onboard_time": 1685402122,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485950,
+        "num": 485950,
+        "word": "网友点评赵露思虞书欣是韩式演技",
+        "onboard_time": 1685401701,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 422547,
+        "num": 422547,
+        "word": "四个显眼包",
+        "onboard_time": 1685370753,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373279,
+        "num": 373279,
+        "word": "新娘坐婚车睡着新郎一路托着头",
+        "onboard_time": 1685407228,
+        "rank": 13,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 362687,
+        "num": 362687,
+        "word": "YammerS 校园霸凌",
+        "onboard_time": 1685407291,
+        "rank": 14,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 339307,
+        "num": 339307,
+        "word": "你管周也这张脸叫普普通通",
+        "onboard_time": 1685370272,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 318718,
+        "num": 318718,
+        "word": "迪丽热巴演出了检察官的正义感",
+        "onboard_time": 1685406931,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314884,
+        "num": 314884,
+        "word": "Amber说我比所有韩剧欧巴的吻技都好",
+        "onboard_time": 1685407889,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 306741,
+        "num": 306741,
+        "word": "YammerS",
+        "onboard_time": 1685411307,
+        "rank": 18,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 302819,
+        "num": 302819,
+        "word": "神十六发射圆满成功",
+        "onboard_time": 1685411188,
+        "rank": 19,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 485395,
+        "num": 300509,
+        "word": "苏醒毫不尊重艺人五官的特效",
+        "onboard_time": 1685403146,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294830,
+        "num": 294830,
+        "word": "教育局回应小学不让打伞进校",
+        "onboard_time": 1685401218,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 279870,
+        "num": 279870,
+        "word": "吴谢宇",
+        "onboard_time": 1685411367,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274516,
+        "num": 274516,
+        "word": "韩亚航空事件中空姐一直用身体挡住舱门",
+        "onboard_time": 1685370814,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267265,
+        "num": 267265,
+        "word": "神舟十六号",
+        "onboard_time": 1685410709,
+        "rank": 24,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 251889,
+        "num": 251889,
+        "word": "杨幂的小黑猫以前vs现在",
+        "onboard_time": 1685407710,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249139,
+        "num": 249139,
+        "word": "刘浩存在海底捞给路人唱生日歌",
+        "onboard_time": 1685371055,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233965,
+        "num": 233965,
+        "word": "全世界都在等你们分手",
+        "onboard_time": 1685357609,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230143,
+        "num": 230143,
+        "word": "凯尔特人vs热火",
+        "onboard_time": 1685409568,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221014,
+        "num": 221014,
+        "word": "吴谢宇案二审今日宣判",
+        "onboard_time": 1685410047,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391127,
+        "num": 220869,
+        "word": "吴谢宇死刑",
+        "onboard_time": 1685411609,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243166,
+        "num": 220516,
+        "word": "马斯克谈中国航天工程计划",
+        "onboard_time": 1685411125,
+        "rank": 31,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 208107,
+        "num": 208107,
+        "word": "神十六升空瞬间",
+        "onboard_time": 1685411307,
+        "rank": 32,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 192083,
+        "num": 192083,
+        "word": "高考700分是种什么概念",
+        "onboard_time": 1685406509,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184702,
+        "num": 184702,
+        "word": "00后的辞职信有多硬气",
+        "onboard_time": 1685372734,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184296,
+        "num": 184296,
+        "word": "难听",
+        "onboard_time": 1685404709,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182001,
+        "num": 182001,
+        "word": "原来这是焦虑的表现",
+        "onboard_time": 1685375010,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181486,
+        "num": 181486,
+        "word": "谢娜菠萝菠萝蜜与面纱舞蹈的契合度",
+        "onboard_time": 1685408488,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178415,
+        "num": 178415,
+        "word": "再也不跟室友分享任何吃的了",
+        "onboard_time": 1685405489,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 173490,
+        "num": 173490,
+        "word": "林孝埈",
+        "onboard_time": 1685403505,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170399,
+        "num": 170399,
+        "word": "女孩将云肩披上学士服中国风拉满",
+        "onboard_time": 1685410647,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170183,
+        "num": 170183,
+        "word": "济南11岁男孩莫名吐血交警10分钟送医",
+        "onboard_time": 1685403204,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163835,
+        "num": 163835,
+        "word": "10岁男孩牵着弟弟冷静报警救妈妈",
+        "onboard_time": 1685407889,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159050,
+        "num": 159050,
+        "word": "坐火箭太爽了",
+        "onboard_time": 1685411547,
+        "rank": 43,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 156570,
+        "num": 156570,
+        "word": "NBA",
+        "onboard_time": 1685409389,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155798,
+        "num": 155798,
+        "word": "市民反映名媛K歌沐足没名媛",
+        "onboard_time": 1685406509,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146961,
+        "num": 146961,
+        "word": "凯尔特人三分",
+        "onboard_time": 1685411125,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145424,
+        "num": 145424,
+        "word": "网友精修王俊凯易烊千玺的脸",
+        "onboard_time": 1685411307,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144742,
+        "num": 144742,
+        "word": "不要彩礼收到了婆婆的心意",
+        "onboard_time": 1685373451,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135529,
+        "num": 135529,
+        "word": "易烊千玺怀化",
+        "onboard_time": 1685367812,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#国产大飞机9久为功鹏程万里#"
+    }
+  }
+}
