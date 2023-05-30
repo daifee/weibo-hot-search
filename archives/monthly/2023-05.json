@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685464416388,
+  "endTime": 1685466780170,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -15864,6 +15864,14 @@
       "word": "只有文科生才知道的梗",
       "onboard_time": 1684238910,
       "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 556604,
+      "num": 259504,
+      "word": "亲密关系最忌讳炫耀自己受欢迎",
+      "onboard_time": 1685463089,
+      "rank": 38,
       "category": "情感"
     },
     {
@@ -35323,14 +35331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 266355,
-      "num": 170763,
-      "word": "亲密关系最忌讳炫耀自己受欢迎",
-      "onboard_time": 1685463089,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 266343,
       "num": 266343,
       "word": "细扒浪姐4人情世故场",
@@ -42003,6 +42003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222912,
+      "num": 222912,
+      "word": "吴磊到新疆了",
+      "onboard_time": 1685462010,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 222855,
       "num": 222855,
       "word": "久酷 ttg傲寒",
@@ -44305,14 +44313,6 @@
       "onboard_time": 1683959968,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 209299,
-      "num": 177274,
-      "word": "吴磊到新疆了",
-      "onboard_time": 1685462010,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 209296,
@@ -59259,6 +59259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127748,
+      "num": 76942,
+      "word": "朋友圈发这些东西账号会被罚",
+      "onboard_time": 1685465482,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127725,
       "num": 127725,
       "word": "张杰三月高能拉麦",
@@ -64441,6 +64449,14 @@
       "onboard_time": 1683898109,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54806,
+      "num": 54806,
+      "word": "神十六出征",
+      "onboard_time": 1685466199,
+      "rank": 48,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 54735,

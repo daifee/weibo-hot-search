@@ -1,6 +1,6 @@
 {
   "startTime": 1685463570565,
-  "endTime": 1685464416388,
+  "endTime": 1685466780170,
   "band_list": [
     {
       "raw_hot": 2123857,
@@ -73,6 +73,14 @@
       "onboard_time": 1685457698,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 556604,
+      "num": 259504,
+      "word": "亲密关系最忌讳炫耀自己受欢迎",
+      "onboard_time": 1685463089,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 533513,
@@ -187,14 +195,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 266355,
-      "num": 170763,
-      "word": "亲密关系最忌讳炫耀自己受欢迎",
-      "onboard_time": 1685463089,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 249040,
       "num": 238031,
       "word": "民警通宵审毒贩熬死了一地蚊子",
@@ -227,6 +227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 222912,
+      "num": 222912,
+      "word": "吴磊到新疆了",
+      "onboard_time": 1685462010,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 213883,
       "num": 213883,
       "word": "G社拍的赵露思",
@@ -241,14 +249,6 @@
       "onboard_time": 1685450796,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 209299,
-      "num": 177274,
-      "word": "吴磊到新疆了",
-      "onboard_time": 1685462010,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 195849,
@@ -363,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127748,
+      "num": 76942,
+      "word": "朋友圈发这些东西账号会被罚",
+      "onboard_time": 1685465482,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124545,
       "num": 124545,
       "word": "上海白蚁",
@@ -441,6 +449,14 @@
       "onboard_time": 1685454336,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54806,
+      "num": 54806,
+      "word": "神十六出征",
+      "onboard_time": 1685466199,
+      "rank": 48,
+      "category": "社会新闻,科技"
     }
   ],
   "hotgov_list": [

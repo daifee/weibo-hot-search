@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685464416388,
+  "endTime": 1685466780170,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -1233,6 +1233,14 @@
       "onboard_time": 1685436209,
       "rank": 13,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 556604,
+      "num": 259504,
+      "word": "亲密关系最忌讳炫耀自己受欢迎",
+      "onboard_time": 1685463089,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 556392,
@@ -2875,14 +2883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266355,
-      "num": 170763,
-      "word": "亲密关系最忌讳炫耀自己受欢迎",
-      "onboard_time": 1685463089,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 265771,
       "num": 265771,
       "word": "NBA",
@@ -3443,6 +3443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222912,
+      "num": 222912,
+      "word": "吴磊到新疆了",
+      "onboard_time": 1685462010,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 222620,
       "num": 222620,
       "word": "陕西事业单位",
@@ -3601,14 +3609,6 @@
       "onboard_time": 1685321668,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 209299,
-      "num": 177274,
-      "word": "吴磊到新疆了",
-      "onboard_time": 1685462010,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 208792,
@@ -4963,6 +4963,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 127748,
+      "num": 76942,
+      "word": "朋友圈发这些东西账号会被罚",
+      "onboard_time": 1685465482,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127650,
       "num": 127650,
       "word": "不怕压力不生癌",
@@ -5465,6 +5473,14 @@
       "onboard_time": 1685380998,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 54806,
+      "num": 54806,
+      "word": "神十六出征",
+      "onboard_time": 1685466199,
+      "rank": 48,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 53106,
