@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685451070595,
+  "endTime": 1685452801806,
   "band_list": [
     {
       "raw_hot": 4068594,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 4030835,
+      "num": 524079,
+      "word": "阚清子被男友求婚",
+      "onboard_time": 1685450613,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3796538,
       "num": 3796538,
       "word": "YammerS确认已离世",
       "onboard_time": 1685365350,
       "rank": 10,
       "category": "社会新闻,游戏"
-    },
-    {
-      "raw_hot": 3530850,
-      "num": 524079,
-      "word": "阚清子被男友求婚",
-      "onboard_time": 1685450613,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 3420234,
@@ -59,6 +59,14 @@
       "category": "社会议题,情感"
     },
     {
+      "raw_hot": 2901449,
+      "num": 2901449,
+      "word": "杨幂 谢依霖",
+      "onboard_time": 1685448932,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2637870,
       "num": 2637870,
       "word": "妇联回应男子砍杀柯基威胁妻子",
@@ -75,14 +83,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2555379,
-      "num": 2555379,
-      "word": "杨幂 谢依霖",
-      "onboard_time": 1685448932,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 2377260,
       "num": 2377260,
       "word": "央视评家有儿女疑似被恶意评分",
@@ -97,6 +97,14 @@
       "onboard_time": 1685335174,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2303369,
+      "num": 2303369,
+      "word": "迪丽热巴第二套",
+      "onboard_time": 1685451033,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2278172,
@@ -555,8 +563,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1117847,
-      "num": 1117847,
+      "raw_hot": 1128292,
+      "num": 1128292,
       "word": "Angelababy红毯从来没有失手过",
       "onboard_time": 1685447909,
       "rank": 11,
@@ -673,6 +681,14 @@
       "onboard_time": 1685276908,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 965743,
+      "num": 965743,
+      "word": "贤合庄北京门店全部关闭",
+      "onboard_time": 1685447129,
+      "rank": 8,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 961186,
@@ -947,14 +963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 659306,
-      "num": 659306,
-      "word": "贤合庄北京门店全部关闭",
-      "onboard_time": 1685447129,
-      "rank": 8,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 657583,
       "num": 657583,
       "word": "王源一家人各火各的",
@@ -1081,14 +1089,6 @@
       "onboard_time": 1685416288,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 600985,
-      "num": 240659,
-      "word": "迪丽热巴第二套",
-      "onboard_time": 1685451033,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 597916,
@@ -1331,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 507192,
+      "num": 507192,
+      "word": "Cat",
+      "onboard_time": 1685450552,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 506610,
       "num": 506610,
       "word": "二姗开始备孕",
@@ -1385,6 +1393,14 @@
       "onboard_time": 1685411547,
       "rank": 43,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 495517,
+      "num": 214498,
+      "word": "萌萌离世前经历了什么",
+      "onboard_time": 1685450796,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 494476,
@@ -1505,6 +1521,14 @@
       "onboard_time": 1685315299,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 442745,
+      "num": 207758,
+      "word": "王嘉尔帮Angelababy扶外套",
+      "onboard_time": 1685449952,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 438481,
@@ -2267,6 +2291,14 @@
       "category": "社会新闻,游戏"
     },
     {
+      "raw_hot": 305720,
+      "num": 251812,
+      "word": "女生要不要下嫁陪心爱的穷男生吃苦",
+      "onboard_time": 1685449170,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 304743,
       "num": 304743,
       "word": "2023新一线城市名单官宣",
@@ -2281,6 +2313,14 @@
       "onboard_time": 1685356646,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301074,
+      "num": 173538,
+      "word": "吴倩新剧掉马",
+      "onboard_time": 1685450312,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 299753,
@@ -2345,6 +2385,14 @@
       "onboard_time": 1685316262,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289458,
+      "num": 144008,
+      "word": "时代姐妹花 永远不分家",
+      "onboard_time": 1685452178,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 288375,
@@ -2779,22 +2827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251812,
-      "num": 251812,
-      "word": "女生要不要下嫁陪心爱的穷男生吃苦",
-      "onboard_time": 1685449170,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 251175,
-      "num": 137836,
-      "word": "吴倩新剧掉马",
-      "onboard_time": 1685450312,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 250951,
       "num": 250951,
       "word": "老年人再就业释放人口红利",
@@ -3003,6 +3035,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 235627,
+      "num": 140596,
+      "word": "罗云熙澹台烬衣服被拍卖到10万",
+      "onboard_time": 1685448752,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 235395,
       "num": 235395,
       "word": "丫丫肉眼可见地胖了",
@@ -3129,14 +3169,6 @@
       "onboard_time": 1685349509,
       "rank": 26,
       "category": "美食"
-    },
-    {
-      "raw_hot": 223987,
-      "num": 137086,
-      "word": "罗云熙澹台烬衣服被拍卖到10万",
-      "onboard_time": 1685448752,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 223382,
@@ -3467,14 +3499,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 202659,
-      "num": 153783,
-      "word": "王嘉尔帮Angelababy扶外套",
-      "onboard_time": 1685449952,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 201933,
       "num": 201933,
       "word": "春色寄情人编剧回应周雨彤NG",
@@ -3745,6 +3769,14 @@
       "onboard_time": 1685406509,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 191958,
+      "num": 191958,
+      "word": "广州TTG",
+      "onboard_time": 1685451215,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 191676,
@@ -4083,6 +4115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168466,
+      "num": 168466,
+      "word": "和同频的人在一起真的很幸福",
+      "onboard_time": 1685452594,
+      "rank": 36,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 168256,
       "num": 168256,
       "word": "白鲸为什么要喂冰块",
@@ -4339,6 +4379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149050,
+      "num": 149050,
+      "word": "上海白蚁",
+      "onboard_time": 1685451096,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148901,
       "num": 148901,
       "word": "王子文白裙好温柔",
@@ -4435,6 +4483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140382,
+      "num": 140382,
+      "word": "造谣收割机被扣押者拘留七天",
+      "onboard_time": 1685450373,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139110,
       "num": 139110,
       "word": "林俊杰十年前vs十年后",
@@ -4449,14 +4505,6 @@
       "onboard_time": 1685349929,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 138491,
-      "num": 138491,
-      "word": "Cat",
-      "onboard_time": 1685450552,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 137305,
@@ -4771,14 +4819,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 111106,
-      "num": 136300,
-      "word": "造谣收割机被扣押者拘留七天",
-      "onboard_time": 1685450373,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 108162,
       "num": 979293,
       "word": "学练机",
@@ -4833,6 +4873,14 @@
       "onboard_time": 1685276429,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100781,
+      "num": 139343,
+      "word": "爸爸喜得千金秒变显眼包",
+      "onboard_time": 1685452776,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99397,
@@ -5191,6 +5239,14 @@
       "num": 1623760,
       "word": "点亮精神火炬",
       "onboard_time": 1685416949,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16619,
+      "num": 2121711,
+      "word": "高清图看神十六出征",
+      "onboard_time": 1685452594,
       "rank": 2,
       "category": "社会新闻"
     },
