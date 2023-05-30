@@ -1,6 +1,6 @@
 {
   "startTime": 1685377320709,
-  "endTime": 1685414348290,
+  "endTime": 1685414850304,
   "band_list": [
     {
       "raw_hot": 4068594,
@@ -43,6 +43,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 1426656,
+      "num": 1426656,
+      "word": "03 你还有七个学生没毕业",
+      "onboard_time": 1685412027,
+      "rank": 1,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 1345961,
       "num": 1345961,
       "word": "官方通报男子砍杀柯基威胁妻子",
@@ -57,14 +65,6 @@
       "onboard_time": 1685402842,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1215073,
-      "num": 1215073,
-      "word": "03 你还有七个学生没毕业",
-      "onboard_time": 1685412027,
-      "rank": 1,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1181979,
@@ -147,8 +147,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 652281,
-      "num": 652281,
+      "raw_hot": 657583,
+      "num": 657583,
       "word": "王源一家人各火各的",
       "onboard_time": 1685402062,
       "rank": 37,
@@ -235,6 +235,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 395839,
+      "num": 395839,
+      "word": "凯尔特人vs热火",
+      "onboard_time": 1685409568,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 382680,
+      "num": 382680,
+      "word": "马斯克谈中国航天工程计划",
+      "onboard_time": 1685411125,
+      "rank": 31,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 373279,
       "num": 373279,
       "word": "新娘坐婚车睡着新郎一路托着头",
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 355896,
-      "num": 267980,
+      "num": 289546,
       "word": "白鹿王鹤棣以爱为营床咚路透",
       "onboard_time": 1685412748,
       "rank": 21,
@@ -275,12 +291,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 342661,
-      "num": 342661,
-      "word": "马斯克谈中国航天工程计划",
-      "onboard_time": 1685411125,
-      "rank": 31,
-      "category": "社会新闻,科技"
+      "raw_hot": 341334,
+      "num": 341334,
+      "word": "网友精修王俊凯易烊千玺的脸",
+      "onboard_time": 1685411307,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 334148,
@@ -315,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 310002,
-      "num": 310002,
-      "word": "凯尔特人vs热火",
-      "onboard_time": 1685409568,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 308370,
       "num": 265936,
       "word": "马丁",
@@ -355,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 292565,
+      "num": 292565,
+      "word": "金星参加干女儿婚礼",
+      "onboard_time": 1685413050,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290248,
       "num": 290248,
       "word": "男子吃火锅遇假茅台被服务员提醒",
@@ -363,12 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 281504,
-      "num": 281504,
-      "word": "网友精修王俊凯易烊千玺的脸",
-      "onboard_time": 1685411307,
-      "rank": 47,
-      "category": "作品衍生"
+      "raw_hot": 286100,
+      "num": 286100,
+      "word": "男子喜中3302万家人劝他平常心",
+      "onboard_time": 1685413167,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279870,
@@ -377,6 +393,14 @@
       "onboard_time": 1685411367,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277847,
+      "num": 277847,
+      "word": "被同事阴阳如何回怼",
+      "onboard_time": 1685413770,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 267890,
@@ -395,12 +419,12 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 261332,
-      "num": 261332,
-      "word": "金星参加干女儿婚礼",
-      "onboard_time": 1685413050,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 265771,
+      "num": 265771,
+      "word": "NBA",
+      "onboard_time": 1685409389,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 256068,
@@ -435,14 +459,6 @@
       "category": "社会新闻,游戏"
     },
     {
-      "raw_hot": 246860,
-      "num": 246860,
-      "word": "被同事阴阳如何回怼",
-      "onboard_time": 1685413770,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 241827,
       "num": 241827,
       "word": "女子骨折做手术后左腿变长2.3厘米",
@@ -459,12 +475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237953,
-      "num": 237953,
-      "word": "男子喜中3302万家人劝他平常心",
-      "onboard_time": 1685413167,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 232180,
+      "num": 232180,
+      "word": "黄子韬的中二魂",
+      "onboard_time": 1685413770,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 225556,
@@ -507,14 +523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 217177,
-      "num": 217177,
-      "word": "NBA",
-      "onboard_time": 1685409389,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 214825,
       "num": 184002,
       "word": "护心第三季",
@@ -547,6 +555,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205372,
+      "num": 205372,
+      "word": "迪丽热巴笑眼",
+      "onboard_time": 1685414007,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 203512,
+      "num": 203512,
+      "word": "大熊猫园润遭男子泼水",
+      "onboard_time": 1685414187,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202728,
       "num": 202728,
       "word": "活的累的根本原因",
@@ -555,12 +579,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 201933,
+      "num": 201933,
+      "word": "春色寄情人编剧回应周雨彤NG",
+      "onboard_time": 1685414248,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201101,
       "num": 201101,
       "word": "再厉害的总裁也得给姥姥送桌子",
       "onboard_time": 1685361207,
       "rank": 28,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 200487,
+      "num": 200487,
+      "word": "阿德巴约",
+      "onboard_time": 1685413050,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 199292,
@@ -579,19 +619,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 187041,
-      "num": 187041,
-      "word": "黄子韬的中二魂",
-      "onboard_time": 1685413770,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 184296,
       "num": 184296,
       "word": "难听",
       "onboard_time": 1685404709,
       "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 183633,
+      "num": 183633,
+      "word": "五月天演唱会成大型求婚现场",
+      "onboard_time": 1685413408,
+      "rank": 45,
       "category": "音乐"
     },
     {
@@ -699,20 +739,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167147,
-      "num": 167147,
-      "word": "阿德巴约",
-      "onboard_time": 1685413050,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 165721,
-      "num": 165721,
-      "word": "迪丽热巴笑眼",
-      "onboard_time": 1685414007,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 165318,
+      "num": 165318,
+      "word": "妻子将亡夫公益事业扩大225倍",
+      "onboard_time": 1685413828,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163835,
@@ -723,14 +755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161745,
-      "num": 161745,
-      "word": "春色寄情人编剧回应周雨彤NG",
-      "onboard_time": 1685414248,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 160011,
       "num": 160011,
       "word": "灿烂灿烂",
@@ -739,36 +763,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 158648,
-      "num": 158648,
-      "word": "五月天演唱会成大型求婚现场",
-      "onboard_time": 1685413408,
-      "rank": 45,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 155410,
       "num": 147225,
       "word": "TFBOYS十周年有望合体",
       "onboard_time": 1685360308,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154197,
-      "num": 154197,
-      "word": "妻子将亡夫公益事业扩大225倍",
-      "onboard_time": 1685413828,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153301,
-      "num": 153301,
-      "word": "大熊猫园润遭男子泼水",
-      "onboard_time": 1685414187,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150521,
@@ -801,6 +801,14 @@
       "onboard_time": 1685409328,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 144754,
+      "num": 144754,
+      "word": "导师亲自到太空跑数据去了",
+      "onboard_time": 1685414729,
+      "rank": 48,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 142274,

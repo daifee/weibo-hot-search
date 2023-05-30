@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685414348290,
+  "endTime": 1685414850304,
   "band_list": [
     {
       "raw_hot": 4068594,
@@ -195,6 +195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1426656,
+      "num": 1426656,
+      "word": "03 你还有七个学生没毕业",
+      "onboard_time": 1685412027,
+      "rank": 1,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 1425401,
       "num": 1425401,
       "word": "砍死柯基男子被拘留12天",
@@ -297,14 +305,6 @@
       "onboard_time": 1685344045,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1215073,
-      "num": 1215073,
-      "word": "03 你还有七个学生没毕业",
-      "onboard_time": 1685412027,
-      "rank": 1,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1215052,
@@ -587,8 +587,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 652281,
-      "num": 652281,
+      "raw_hot": 657583,
+      "num": 657583,
       "word": "王源一家人各火各的",
       "onboard_time": 1685402062,
       "rank": 37,
@@ -1043,12 +1043,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 395839,
+      "num": 395839,
+      "word": "凯尔特人vs热火",
+      "onboard_time": 1685409568,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 393451,
       "num": 242429,
       "word": "时代少年团也会羡慕五月天的中控吧",
       "onboard_time": 1685350708,
       "rank": 21,
       "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 382680,
+      "num": 382680,
+      "word": "马斯克谈中国航天工程计划",
+      "onboard_time": 1685411125,
+      "rank": 31,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 382587,
@@ -1172,7 +1188,7 @@
     },
     {
       "raw_hot": 355896,
-      "num": 267980,
+      "num": 289546,
       "word": "白鹿王鹤棣以爱为营床咚路透",
       "onboard_time": 1685412748,
       "rank": 21,
@@ -1219,12 +1235,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 342661,
-      "num": 342661,
-      "word": "马斯克谈中国航天工程计划",
-      "onboard_time": 1685411125,
-      "rank": 31,
-      "category": "社会新闻,科技"
+      "raw_hot": 341334,
+      "num": 341334,
+      "word": "网友精修王俊凯易烊千玺的脸",
+      "onboard_time": 1685411307,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 337870,
@@ -1371,14 +1387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 310002,
-      "num": 310002,
-      "word": "凯尔特人vs热火",
-      "onboard_time": 1685409568,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 308645,
       "num": 308645,
       "word": "曾毅宝石老舅说唱好绝",
@@ -1451,6 +1459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292565,
+      "num": 292565,
+      "word": "金星参加干女儿婚礼",
+      "onboard_time": 1685413050,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292539,
       "num": 267304,
       "word": "田曦薇 举重",
@@ -1475,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286100,
+      "num": 286100,
+      "word": "男子喜中3302万家人劝他平常心",
+      "onboard_time": 1685413167,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285029,
       "num": 285029,
       "word": "乐华2023家族演唱会官宣",
@@ -1489,14 +1513,6 @@
       "onboard_time": 1685290765,
       "rank": 49,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 281504,
-      "num": 281504,
-      "word": "网友精修王俊凯易烊千玺的脸",
-      "onboard_time": 1685411307,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 280574,
@@ -1553,6 +1569,14 @@
       "onboard_time": 1685344226,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277847,
+      "num": 277847,
+      "word": "被同事阴阳如何回怼",
+      "onboard_time": 1685413770,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 277617,
@@ -1635,6 +1659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265771,
+      "num": 265771,
+      "word": "NBA",
+      "onboard_time": 1685409389,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263948,
       "num": 263948,
       "word": "朱杨柱",
@@ -1657,14 +1689,6 @@
       "onboard_time": 1685280030,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 261332,
-      "num": 261332,
-      "word": "金星参加干女儿婚礼",
-      "onboard_time": 1685413050,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 260518,
@@ -1795,14 +1819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 246860,
-      "num": 246860,
-      "word": "被同事阴阳如何回怼",
-      "onboard_time": 1685413770,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 246220,
       "num": 246220,
       "word": "LPL夏季赛",
@@ -1891,14 +1907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 237953,
-      "num": 237953,
-      "word": "男子喜中3302万家人劝他平常心",
-      "onboard_time": 1685413167,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237242,
       "num": 237242,
       "word": "桂海潮",
@@ -1913,6 +1921,14 @@
       "onboard_time": 1685316804,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232180,
+      "num": 232180,
+      "word": "黄子韬的中二魂",
+      "onboard_time": 1685413770,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 229831,
@@ -2001,14 +2017,6 @@
       "onboard_time": 1685353828,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 217177,
-      "num": 217177,
-      "word": "NBA",
-      "onboard_time": 1685409389,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 216752,
@@ -2131,6 +2139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 205372,
+      "num": 205372,
+      "word": "迪丽热巴笑眼",
+      "onboard_time": 1685414007,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204811,
       "num": 204811,
       "word": "wtt",
@@ -2163,6 +2179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203512,
+      "num": 203512,
+      "word": "大熊猫园润遭男子泼水",
+      "onboard_time": 1685414187,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202728,
       "num": 202728,
       "word": "活的累的根本原因",
@@ -2171,12 +2195,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 201933,
+      "num": 201933,
+      "word": "春色寄情人编剧回应周雨彤NG",
+      "onboard_time": 1685414248,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201730,
       "num": 201730,
       "word": "有人相爱有人下海",
       "onboard_time": 1685321848,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200487,
+      "num": 200487,
+      "word": "阿德巴约",
+      "onboard_time": 1685413050,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 200264,
@@ -2403,14 +2443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187041,
-      "num": 187041,
-      "word": "黄子韬的中二魂",
-      "onboard_time": 1685413770,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 185720,
       "num": 185720,
       "word": "被砍死柯基主人正在派出所补充材料",
@@ -2432,6 +2464,14 @@
       "word": "难听",
       "onboard_time": 1685404709,
       "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 183633,
+      "num": 183633,
+      "word": "五月天演唱会成大型求婚现场",
+      "onboard_time": 1685413408,
+      "rank": 45,
       "category": "音乐"
     },
     {
@@ -2627,14 +2667,6 @@
       "category": "社会新闻,音乐"
     },
     {
-      "raw_hot": 167147,
-      "num": 167147,
-      "word": "阿德巴约",
-      "onboard_time": 1685413050,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 166892,
       "num": 166892,
       "word": "当妈后就爱给孩子买衣服",
@@ -2651,12 +2683,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 165721,
-      "num": 165721,
-      "word": "迪丽热巴笑眼",
-      "onboard_time": 1685414007,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 165318,
+      "num": 165318,
+      "word": "妻子将亡夫公益事业扩大225倍",
+      "onboard_time": 1685413828,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164645,
@@ -2673,14 +2705,6 @@
       "onboard_time": 1685407889,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161745,
-      "num": 161745,
-      "word": "春色寄情人编剧回应周雨彤NG",
-      "onboard_time": 1685414248,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 161355,
@@ -2731,14 +2755,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 158648,
-      "num": 158648,
-      "word": "五月天演唱会成大型求婚现场",
-      "onboard_time": 1685413408,
-      "rank": 45,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 156082,
       "num": 156082,
       "word": "剑网3",
@@ -2760,22 +2776,6 @@
       "word": "年轻人的生育意愿为什么越来越低",
       "onboard_time": 1685270610,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154197,
-      "num": 154197,
-      "word": "妻子将亡夫公益事业扩大225倍",
-      "onboard_time": 1685413828,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153301,
-      "num": 153301,
-      "word": "大熊猫园润遭男子泼水",
-      "onboard_time": 1685414187,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -2873,6 +2873,14 @@
       "onboard_time": 1685341586,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144754,
+      "num": 144754,
+      "word": "导师亲自到太空跑数据去了",
+      "onboard_time": 1685414729,
+      "rank": 48,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 141910,
