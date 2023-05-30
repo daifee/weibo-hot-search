@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685428439600,
+  "endTime": 1685430925283,
   "band_list": [
     {
       "raw_hot": 4068594,
@@ -315,6 +315,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 1298739,
+      "num": 1298739,
+      "word": "身体缺什么 嘴巴早知道",
+      "onboard_time": 1685423972,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1293541,
       "num": 1293541,
       "word": "GAI 活死人",
@@ -344,6 +352,14 @@
       "word": "女子称怀孕4个月被老公多次家暴",
       "onboard_time": 1685349148,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1261115,
+      "num": 1261115,
+      "word": "兄妹四人同时查出肠道肿瘤",
+      "onboard_time": 1685416470,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -387,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1173266,
+      "num": 1173266,
+      "word": "20岁小伙月入6000背百万房贷",
+      "onboard_time": 1685427808,
+      "rank": 30,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1148618,
       "num": 1148618,
       "word": "一杯奶茶钱可以买这么多东西",
@@ -401,14 +425,6 @@
       "onboard_time": 1685324127,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1125920,
-      "num": 1125920,
-      "word": "身体缺什么 嘴巴早知道",
-      "onboard_time": 1685423972,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 1115603,
@@ -476,7 +492,7 @@
     },
     {
       "raw_hot": 1020188,
-      "num": 568448,
+      "num": 636843,
       "word": "宋轶白敬亭好嗑",
       "onboard_time": 1685423972,
       "rank": 23,
@@ -513,6 +529,14 @@
       "onboard_time": 1685420432,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 929988,
+      "num": 929988,
+      "word": "秦昊恋爱脑",
+      "onboard_time": 1685426371,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 919453,
@@ -553,14 +577,6 @@
       "onboard_time": 1685415329,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 869257,
-      "num": 869257,
-      "word": "兄妹四人同时查出肠道肿瘤",
-      "onboard_time": 1685416470,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 862330,
@@ -779,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 607207,
+      "num": 607207,
+      "word": "迪丽热巴龚俊坐在一起",
+      "onboard_time": 1685427808,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 604902,
       "num": 604902,
       "word": "路人拍的陈都灵",
@@ -793,6 +817,14 @@
       "onboard_time": 1685352924,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 597487,
+      "num": 597487,
+      "word": "陈都灵粉色吊带",
+      "onboard_time": 1685427268,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 596137,
@@ -816,14 +848,6 @@
       "word": "对着女歌手唱这种词合适吗",
       "onboard_time": 1685319271,
       "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 579229,
-      "num": 579229,
-      "word": "秦昊恋爱脑",
-      "onboard_time": 1685426371,
-      "rank": 15,
       "category": "综艺"
     },
     {
@@ -1035,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 493097,
+      "num": 493097,
+      "word": "河南紧急下拨2亿元用于小麦烘干",
+      "onboard_time": 1685427088,
+      "rank": 39,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 491298,
       "num": 491298,
       "word": "椰树男模",
@@ -1137,6 +1169,14 @@
       "onboard_time": 1685315299,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439866,
+      "num": 439866,
+      "word": "莫斯科",
+      "onboard_time": 1685429129,
+      "rank": 16,
+      "category": "旅游"
     },
     {
       "raw_hot": 438481,
@@ -1332,7 +1372,7 @@
     },
     {
       "raw_hot": 378069,
-      "num": 299430,
+      "num": 340293,
       "word": "专家称女性独立的副作用是生育下降",
       "onboard_time": 1685426670,
       "rank": 22,
@@ -1369,14 +1409,6 @@
       "onboard_time": 1685414007,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 368594,
-      "num": 368594,
-      "word": "陈都灵粉色吊带",
-      "onboard_time": 1685427268,
-      "rank": 30,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 366212,
@@ -1571,6 +1603,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 332316,
+      "num": 332316,
+      "word": "张钧甯骨相",
+      "onboard_time": 1685428948,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 332044,
       "num": 332044,
       "word": "李昇基清空ins",
@@ -1699,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312641,
+      "num": 312641,
+      "word": "坠楼瞬间他用身体死死护住小女孩",
+      "onboard_time": 1685421696,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312286,
       "num": 312286,
       "word": "蒋敦豪包场团建",
@@ -1740,18 +1788,10 @@
     },
     {
       "raw_hot": 303644,
-      "num": 299640,
+      "num": 502571,
       "word": "肠道是熬夜猝死元凶之一",
       "onboard_time": 1685356646,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 302162,
-      "num": 302162,
-      "word": "坠楼瞬间他用身体死死护住小女孩",
-      "onboard_time": 1685421696,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1801,6 +1841,14 @@
       "onboard_time": 1685316262,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290666,
+      "num": 290666,
+      "word": "我到底对不起谁了",
+      "onboard_time": 1685429431,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 288375,
@@ -2011,14 +2059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 267561,
-      "num": 267561,
-      "word": "河南紧急下拨2亿元用于小麦烘干",
-      "onboard_time": 1685427088,
-      "rank": 39,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 267265,
       "num": 267265,
       "word": "神舟十六号",
@@ -2041,6 +2081,14 @@
       "onboard_time": 1685409389,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 264931,
+      "num": 264931,
+      "word": "离婚了30万彩礼该不该返还",
+      "onboard_time": 1685430087,
+      "rank": 25,
+      "category": "社会议题,情感"
     },
     {
       "raw_hot": 263948,
@@ -2067,20 +2115,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 261160,
-      "num": 261160,
-      "word": "迪丽热巴龚俊坐在一起",
-      "onboard_time": 1685427808,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 260518,
       "num": 260518,
       "word": "孟子义我们不是死绿茶",
       "onboard_time": 1685351068,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260192,
+      "num": 260192,
+      "word": "中国文艺网评陶昕然",
+      "onboard_time": 1685427928,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 259901,
@@ -2097,14 +2145,6 @@
       "onboard_time": 1685326827,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 258874,
-      "num": 240834,
-      "word": "20岁小伙月入6000背百万房贷",
-      "onboard_time": 1685427808,
-      "rank": 30,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 256068,
@@ -2241,6 +2281,14 @@
       "onboard_time": 1685351187,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 246175,
+      "num": 246175,
+      "word": "千万别用这种一次性手套了",
+      "onboard_time": 1685427808,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 245997,
@@ -2475,6 +2523,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 221006,
+      "num": 221006,
+      "word": "王鹤棣咬紧的下颚线",
+      "onboard_time": 1685428770,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 220778,
       "num": 220778,
       "word": "街舞6网传嘉宾阵容",
@@ -2545,6 +2601,14 @@
       "onboard_time": 1685334090,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212126,
+      "num": 212126,
+      "word": "当我买东西买爽之后",
+      "onboard_time": 1685430028,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 211730,
@@ -2691,6 +2755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203954,
+      "num": 203954,
+      "word": "看上去真的很委屈",
+      "onboard_time": 1685429969,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 203145,
       "num": 203145,
       "word": "热火晋级总决赛",
@@ -2809,14 +2881,6 @@
       "onboard_time": 1685330010,
       "rank": 37,
       "category": "科技"
-    },
-    {
-      "raw_hot": 196930,
-      "num": 196930,
-      "word": "中国文艺网评陶昕然",
-      "onboard_time": 1685427928,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 196755,
@@ -3017,14 +3081,6 @@
       "onboard_time": 1685351968,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186882,
-      "num": 186882,
-      "word": "千万别用这种一次性手套了",
-      "onboard_time": 1685427808,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 186767,
@@ -3275,6 +3331,14 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 167035,
+      "num": 167035,
+      "word": "虞书欣全黑造型花絮照",
+      "onboard_time": 1685430750,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 166892,
       "num": 166892,
       "word": "当妈后就爱给孩子买衣服",
@@ -3321,6 +3385,14 @@
       "onboard_time": 1685407889,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162002,
+      "num": 162002,
+      "word": "五月天演唱会的钱都被谁赚了",
+      "onboard_time": 1685430448,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 161355,
@@ -3387,6 +3459,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 157031,
+      "num": 157031,
+      "word": "白鲸为什么要喂冰块",
+      "onboard_time": 1685428049,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156082,
       "num": 156082,
       "word": "剑网3",
@@ -3408,14 +3488,6 @@
       "word": "年轻人的生育意愿为什么越来越低",
       "onboard_time": 1685270610,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154630,
-      "num": 154630,
-      "word": "白鲸为什么要喂冰块",
-      "onboard_time": 1685428049,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -3843,6 +3915,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 113037,
+      "num": 150192,
+      "word": "戳戳式学习的弊端",
+      "onboard_time": 1685430629,
+      "rank": 48,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 111341,
       "num": 111341,
       "word": "女生读书工作的意义",
@@ -4105,6 +4185,14 @@
       "onboard_time": 1685381238,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46049,
+      "num": 260911,
+      "word": "辅导孩子学习有多费妈",
+      "onboard_time": 1685429250,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 39236,
