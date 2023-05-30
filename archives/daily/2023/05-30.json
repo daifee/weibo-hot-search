@@ -1,6 +1,6 @@
 {
   "startTime": 1685377320709,
-  "endTime": 1685456117969,
+  "endTime": 1685457202249,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -171,6 +171,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 1496012,
+      "num": 1496012,
+      "word": "贤合庄北京门店全部关闭",
+      "onboard_time": 1685447129,
+      "rank": 8,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1478592,
       "num": 1478592,
       "word": "杨紫摄影师出来聊聊",
@@ -219,6 +227,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1330863,
+      "num": 1330863,
+      "word": "Cat",
+      "onboard_time": 1685450552,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1311710,
       "num": 1311710,
       "word": "20岁小伙月入6000背百万房贷",
@@ -235,20 +251,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1285898,
-      "num": 1285898,
-      "word": "贤合庄北京门店全部关闭",
-      "onboard_time": 1685447129,
-      "rank": 8,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 1282998,
       "num": 1282998,
       "word": "大姑姐 韩国",
       "onboard_time": 1685402842,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1280355,
+      "num": 1280355,
+      "word": "Angelababy红毯从来没有失手过",
+      "onboard_time": 1685447909,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1268643,
@@ -283,14 +299,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 1189685,
-      "num": 1189685,
-      "word": "Angelababy红毯从来没有失手过",
-      "onboard_time": 1685447909,
-      "rank": 11,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 1181979,
       "num": 645195,
       "word": "曝昆汀花1万美元在夜店舔美女的脚",
@@ -321,6 +329,14 @@
       "onboard_time": 1685414187,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1078148,
+      "num": 424744,
+      "word": "杨紫迪丽热巴内场同框",
+      "onboard_time": 1685453917,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1073957,
@@ -379,14 +395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 975560,
-      "num": 411711,
-      "word": "杨紫迪丽热巴内场同框",
-      "onboard_time": 1685453917,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 961186,
       "num": 961186,
       "word": "女子输液被陌生男子拔针扎进水桶",
@@ -417,14 +425,6 @@
       "onboard_time": 1685415329,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 864381,
-      "num": 864381,
-      "word": "Cat",
-      "onboard_time": 1685450552,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 849104,
@@ -659,6 +659,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 553132,
+      "num": 338774,
+      "word": "萌萌离世前经历了什么",
+      "onboard_time": 1685450796,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 549617,
       "num": 549617,
       "word": "清清 挂牌",
@@ -707,20 +715,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 519130,
-      "num": 307265,
-      "word": "萌萌离世前经历了什么",
-      "onboard_time": 1685450796,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 513589,
       "num": 247229,
       "word": "娱乐圈文女主宋茜",
       "onboard_time": 1685454514,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 507576,
+      "num": 507576,
+      "word": "上海白蚁",
+      "onboard_time": 1685451096,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 507232,
@@ -787,14 +795,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 495260,
-      "num": 495260,
-      "word": "上海白蚁",
-      "onboard_time": 1685451096,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 485950,
       "num": 485950,
       "word": "网友点评赵露思虞书欣是韩式演技",
@@ -859,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 426626,
+      "num": 210566,
+      "word": "赵丽颖内场",
+      "onboard_time": 1685455233,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 423449,
       "num": 418328,
       "word": "赵露思是韩网豆瓣排名中国女艺人第一",
@@ -899,6 +907,22 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 414466,
+      "num": 414466,
+      "word": "麻将馆一女子怀抱孩子遭男子暴打",
+      "onboard_time": 1685453253,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409106,
+      "num": 235392,
+      "word": "刘宇宁 综艺",
+      "onboard_time": 1685454158,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 405370,
       "num": 328195,
       "word": "吴磊哭着蹭赵今麦肩膀",
@@ -921,14 +945,6 @@
       "onboard_time": 1685417609,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 399938,
-      "num": 235392,
-      "word": "刘宇宁 综艺",
-      "onboard_time": 1685454158,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 397942,
@@ -971,6 +987,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 379611,
+      "num": 199582,
+      "word": "苏打绿 免费演唱会",
+      "onboard_time": 1685454875,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 378069,
       "num": 340293,
       "word": "专家称女性独立的副作用是生育下降",
@@ -993,14 +1017,6 @@
       "onboard_time": 1685414007,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 371425,
-      "num": 210566,
-      "word": "赵丽颖内场",
-      "onboard_time": 1685455233,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 370982,
@@ -1107,6 +1123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 338039,
+      "num": 338039,
+      "word": "梁建章建议女儿随母姓",
+      "onboard_time": 1685455538,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334148,
       "num": 227139,
       "word": "福建农业职业技术学院坠楼",
@@ -1203,6 +1227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 320594,
+      "num": 250301,
+      "word": "爸爸喜得千金秒变显眼包",
+      "onboard_time": 1685452776,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319151,
       "num": 1314428,
       "word": "凌晨4点民警上门拥抱安慰哭泣男孩",
@@ -1267,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308118,
+      "num": 196725,
+      "word": "李晓峰帮杨颖提裙子",
+      "onboard_time": 1685456797,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 306741,
       "num": 306741,
       "word": "YammerS",
@@ -1296,14 +1336,6 @@
       "word": "2023新一线城市名单官宣",
       "onboard_time": 1685432788,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 302729,
-      "num": 250301,
-      "word": "爸爸喜得千金秒变显眼包",
-      "onboard_time": 1685452776,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1443,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271792,
+      "num": 186628,
+      "word": "迪丽热巴工作室 慢",
+      "onboard_time": 1685456855,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 270613,
       "num": 270613,
       "word": "因为会骂人被领导赏识",
@@ -1515,14 +1555,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 256395,
-      "num": 188914,
-      "word": "苏打绿 免费演唱会",
-      "onboard_time": 1685454875,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 256068,
       "num": 225208,
       "word": "前夫婚礼现场女子拉横幅祝其纳妾",
@@ -1569,14 +1601,6 @@
       "onboard_time": 1685423430,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 249712,
-      "num": 249712,
-      "word": "麻将馆一女子怀抱孩子遭男子暴打",
-      "onboard_time": 1685453253,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248501,
@@ -2027,14 +2051,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 200435,
-      "num": 200435,
-      "word": "梁建章建议女儿随母姓",
-      "onboard_time": 1685455538,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200414,
       "num": 200414,
       "word": "张艺兴大航海三巡预热",
@@ -2075,12 +2091,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196841,
+      "num": 196841,
+      "word": "不然挂牌",
+      "onboard_time": 1685456855,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196683,
       "num": 196683,
       "word": "王者荣耀",
       "onboard_time": 1685444911,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196639,
+      "num": 196639,
+      "word": "一旦有射手座的好朋友",
+      "onboard_time": 1685455116,
+      "rank": 46,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 195545,
@@ -2161,6 +2193,14 @@
       "onboard_time": 1685441549,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188214,
+      "num": 188214,
+      "word": "AG",
+      "onboard_time": 1685457034,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 186767,
@@ -2307,6 +2347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173741,
+      "num": 1719376,
+      "word": "成都大运宣传片是懂转场的",
+      "onboard_time": 1685454336,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173490,
       "num": 173490,
       "word": "林孝埈",
@@ -2392,6 +2440,14 @@
       "word": "10岁男孩牵着弟弟冷静报警救妈妈",
       "onboard_time": 1685407889,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163342,
+      "num": 184090,
+      "word": "警方回应女子怀抱孩子遭男子暴打",
+      "onboard_time": 1685456138,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -2539,14 +2595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134949,
-      "num": 183537,
-      "word": "一旦有射手座的好朋友",
-      "onboard_time": 1685455116,
-      "rank": 46,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 133303,
       "num": 153840,
       "word": "桂海潮的同事说会把地上的事处理好",
@@ -2592,14 +2640,6 @@
       "word": "肠道是熬夜猝死元凶之一",
       "onboard_time": 1685356646,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122708,
-      "num": 1719376,
-      "word": "成都大运宣传片是懂转场的",
-      "onboard_time": 1685454336,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685456117969,
+  "endTime": 1685457202249,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -4635,6 +4635,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1496012,
+      "num": 1496012,
+      "word": "贤合庄北京门店全部关闭",
+      "onboard_time": 1685447129,
+      "rank": 8,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1493704,
       "num": 1493704,
       "word": "杭州女子捐款1000万",
@@ -5779,6 +5787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1330863,
+      "num": 1330863,
+      "word": "Cat",
+      "onboard_time": 1685450552,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1329287,
       "num": 1329287,
       "word": "Lisa再破吉尼斯世界纪录",
@@ -6147,14 +6163,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1285898,
-      "num": 1285898,
-      "word": "贤合庄北京门店全部关闭",
-      "onboard_time": 1685447129,
-      "rank": 8,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 1285558,
       "num": 1285558,
       "word": "亲属称死者最后一刻抢刀压肚子下",
@@ -6209,6 +6217,14 @@
       "onboard_time": 1683105630,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1280355,
+      "num": 1280355,
+      "word": "Angelababy红毯从来没有失手过",
+      "onboard_time": 1685447909,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1278325,
@@ -6929,14 +6945,6 @@
       "onboard_time": 1685344406,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1189685,
-      "num": 1189685,
-      "word": "Angelababy红毯从来没有失手过",
-      "onboard_time": 1685447909,
-      "rank": 11,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1189256,
@@ -7953,6 +7961,14 @@
       "onboard_time": 1684488208,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1078148,
+      "num": 424744,
+      "word": "杨紫迪丽热巴内场同框",
+      "onboard_time": 1685453917,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1077776,
@@ -8993,14 +9009,6 @@
       "onboard_time": 1683554732,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 975560,
-      "num": 411711,
-      "word": "杨紫迪丽热巴内场同框",
-      "onboard_time": 1685453917,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 975094,
@@ -10193,14 +10201,6 @@
       "onboard_time": 1683609869,
       "rank": 11,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 864381,
-      "num": 864381,
-      "word": "Cat",
-      "onboard_time": 1685450552,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 863717,
@@ -15899,6 +15899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 553132,
+      "num": 338774,
+      "word": "萌萌离世前经历了什么",
+      "onboard_time": 1685450796,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 552488,
       "num": 552488,
       "word": "胡锡进称百度应正视网友意见",
@@ -17115,14 +17123,6 @@
       "category": "艺人,美妆"
     },
     {
-      "raw_hot": 519130,
-      "num": 307265,
-      "word": "萌萌离世前经历了什么",
-      "onboard_time": 1685450796,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 519021,
       "num": 519021,
       "word": "华晨宇的音乐是挑观众的",
@@ -17529,6 +17529,14 @@
       "onboard_time": 1684311996,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 507576,
+      "num": 507576,
+      "word": "上海白蚁",
+      "onboard_time": 1685451096,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 507530,
@@ -17993,14 +18001,6 @@
       "onboard_time": 1684815273,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 495260,
-      "num": 495260,
-      "word": "上海白蚁",
-      "onboard_time": 1685451096,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 494841,
@@ -21275,6 +21275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 426626,
+      "num": 210566,
+      "word": "赵丽颖内场",
+      "onboard_time": 1685455233,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 426439,
       "num": 426439,
       "word": "易烊千玺6天之后还有惊喜",
@@ -22043,6 +22051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 414466,
+      "num": 414466,
+      "word": "麻将馆一女子怀抱孩子遭男子暴打",
+      "onboard_time": 1685453253,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414449,
       "num": 305826,
       "word": "桃花坞分房都不满意但没人敢说",
@@ -22345,6 +22361,14 @@
       "onboard_time": 1682899226,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409106,
+      "num": 235392,
+      "word": "刘宇宁 综艺",
+      "onboard_time": 1685454158,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 409014,
@@ -22985,14 +23009,6 @@
       "onboard_time": 1684127312,
       "rank": 34,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 399938,
-      "num": 235392,
-      "word": "刘宇宁 综艺",
-      "onboard_time": 1685454158,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 399785,
@@ -24363,6 +24379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379611,
+      "num": 199582,
+      "word": "苏打绿 免费演唱会",
+      "onboard_time": 1685454875,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 379384,
       "num": 379384,
       "word": "美依礼芽想和周深合作",
@@ -25001,14 +25025,6 @@
       "onboard_time": 1683961408,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 371425,
-      "num": 210566,
-      "word": "赵丽颖内场",
-      "onboard_time": 1685455233,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 370989,
@@ -27755,6 +27771,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 338039,
+      "num": 338039,
+      "word": "梁建章建议女儿随母姓",
+      "onboard_time": 1685455538,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337995,
       "num": 337995,
       "word": "王者荣耀女装",
@@ -29299,6 +29323,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 320594,
+      "num": 250301,
+      "word": "爸爸喜得千金秒变显眼包",
+      "onboard_time": 1685452776,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320590,
       "num": 320590,
       "word": "胡锡进 笑果文化同样要反省",
@@ -30451,6 +30483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 308118,
+      "num": 196725,
+      "word": "李晓峰帮杨颖提裙子",
+      "onboard_time": 1685456797,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 308042,
       "num": 308042,
       "word": "一兆韦德",
@@ -30873,14 +30913,6 @@
       "onboard_time": 1683423207,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 302729,
-      "num": 250301,
-      "word": "爸爸喜得千金秒变显眼包",
-      "onboard_time": 1685452776,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 302690,
@@ -34459,6 +34491,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 271792,
+      "num": 186628,
+      "word": "迪丽热巴工作室 慢",
+      "onboard_time": 1685456855,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 271678,
       "num": 271678,
       "word": "闪婚几天闹离婚男方索要6万彩礼",
@@ -36475,14 +36515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256395,
-      "num": 188914,
-      "word": "苏打绿 免费演唱会",
-      "onboard_time": 1685454875,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 256255,
       "num": 256255,
       "word": "马嘉祺演唱会高音",
@@ -37448,14 +37480,6 @@
       "word": "警方通报村民撞到村长狗被打",
       "onboard_time": 1683250767,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249712,
-      "num": 249712,
-      "word": "麻将馆一女子怀抱孩子遭男子暴打",
-      "onboard_time": 1685453253,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -45915,14 +45939,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 200435,
-      "num": 200435,
-      "word": "梁建章建议女儿随母姓",
-      "onboard_time": 1685455538,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200414,
       "num": 200414,
       "word": "威神V",
@@ -46579,6 +46595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 196841,
+      "num": 196841,
+      "word": "不然挂牌",
+      "onboard_time": 1685456855,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196832,
       "num": 196832,
       "word": "华晨宇武汉演唱会开启回家模式",
@@ -46617,6 +46641,14 @@
       "onboard_time": 1685350708,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 196639,
+      "num": 196639,
+      "word": "一旦有射手座的好朋友",
+      "onboard_time": 1685455116,
+      "rank": 46,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 196638,
@@ -48560,6 +48592,14 @@
       "word": "TE夺冠",
       "onboard_time": 1685282192,
       "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 188214,
+      "num": 188214,
+      "word": "AG",
+      "onboard_time": 1685457034,
+      "rank": 38,
       "category": "游戏"
     },
     {
@@ -51451,6 +51491,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 173741,
+      "num": 1719376,
+      "word": "成都大运宣传片是懂转场的",
+      "onboard_time": 1685454336,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173712,
       "num": 173712,
       "word": "LGD巅峰对决DRG",
@@ -53297,6 +53345,14 @@
       "onboard_time": 1682947590,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 163342,
+      "num": 184090,
+      "word": "警方回应女子怀抱孩子遭男子暴打",
+      "onboard_time": 1685456138,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163330,
@@ -57955,14 +58011,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 134949,
-      "num": 183537,
-      "word": "一旦有射手座的好朋友",
-      "onboard_time": 1685455116,
-      "rank": 46,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 134750,
       "num": 134750,
       "word": "亚运征途",
@@ -59673,14 +59721,6 @@
       "onboard_time": 1685159249,
       "rank": 41,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 122708,
-      "num": 1719376,
-      "word": "成都大运宣传片是懂转场的",
-      "onboard_time": 1685454336,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122579,
