@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685434881991,
+  "endTime": 1685435631644,
   "band_list": [
     {
       "raw_hot": 4068594,
@@ -99,6 +99,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 2114839,
+      "num": 2114839,
+      "word": "金鸡奖15个评委都投给了朱一龙",
+      "onboard_time": 1685431170,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2107639,
       "num": 1391438,
       "word": "柯基被砍当事人再发声",
@@ -169,14 +177,6 @@
       "onboard_time": 1685352806,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1792760,
-      "num": 1792760,
-      "word": "金鸡奖15个评委都投给了朱一龙",
-      "onboard_time": 1685431170,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 1758295,
@@ -651,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 795760,
+      "num": 585356,
+      "word": "杨紫脸颊痣",
+      "onboard_time": 1685433090,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 770773,
       "num": 770773,
       "word": "网友新疆偶遇吴磊骑行",
@@ -739,14 +747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 692452,
-      "num": 585356,
-      "word": "杨紫脸颊痣",
-      "onboard_time": 1685433090,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 689329,
       "num": 651057,
       "word": "金星参加干女儿婚礼",
@@ -760,6 +760,14 @@
       "word": "被丈夫砍杀柯基威胁女子回应彩礼争议",
       "onboard_time": 1685431111,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 677029,
+      "num": 536275,
+      "word": "电子科技大学",
+      "onboard_time": 1685433808,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -835,6 +843,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 615580,
+      "num": 615580,
+      "word": "马斯克私人飞机降落北京",
+      "onboard_time": 1685432128,
+      "rank": 9,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 611255,
       "num": 883286,
       "word": "3位盲人演员误入高速交警开车送返",
@@ -881,14 +897,6 @@
       "onboard_time": 1685354847,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 594602,
-      "num": 594602,
-      "word": "马斯克私人飞机降落北京",
-      "onboard_time": 1685432128,
-      "rank": 9,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 582791,
@@ -953,6 +961,14 @@
       "onboard_time": 1685342484,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 554082,
+      "num": 554082,
+      "word": "刘宪华一天给Amber打8个电话",
+      "onboard_time": 1685432669,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 551503,
@@ -1040,6 +1056,14 @@
       "word": "椰树审美",
       "onboard_time": 1685365350,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 524230,
+      "num": 524230,
+      "word": "丫丫回家后判若两熊",
+      "onboard_time": 1685431951,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1139,14 +1163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 489486,
-      "num": 489486,
-      "word": "丫丫回家后判若两熊",
-      "onboard_time": 1685431951,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 485950,
       "num": 485950,
       "word": "网友点评赵露思虞书欣是韩式演技",
@@ -1169,14 +1185,6 @@
       "onboard_time": 1685368713,
       "rank": 21,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 480906,
-      "num": 480906,
-      "word": "刘宪华一天给Amber打8个电话",
-      "onboard_time": 1685432669,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 477679,
@@ -1643,6 +1651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 341027,
+      "num": 341027,
+      "word": "杨紫橙色花朵抹胸裙",
+      "onboard_time": 1685434410,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 340958,
       "num": 340958,
       "word": "在成都太古里偶遇杨洋",
@@ -1827,14 +1843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 315162,
-      "num": 315162,
-      "word": "电子科技大学",
-      "onboard_time": 1685433808,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 314884,
       "num": 314884,
       "word": "Amber说我比所有韩剧欧巴的吻技都好",
@@ -1899,6 +1907,14 @@
       "category": "社会新闻,游戏"
     },
     {
+      "raw_hot": 304743,
+      "num": 304743,
+      "word": "2023新一线城市名单官宣",
+      "onboard_time": 1685432788,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303644,
       "num": 523925,
       "word": "肠道是熬夜猝死元凶之一",
@@ -1923,6 +1939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 296633,
+      "num": 296633,
+      "word": "直播间明星带货竟是AI换脸",
+      "onboard_time": 1685434170,
+      "rank": 38,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 294544,
       "num": 294544,
       "word": "马嘉祺刘耀文看五月天演唱会",
@@ -1936,14 +1960,6 @@
       "word": "河南阴雨 麦子发霉",
       "onboard_time": 1685326408,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 292866,
-      "num": 292866,
-      "word": "2023新一线城市名单官宣",
-      "onboard_time": 1685432788,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -2219,6 +2235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263205,
+      "num": 263205,
+      "word": "鹿晗演唱会主办方是自己",
+      "onboard_time": 1685435190,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 262104,
       "num": 262104,
       "word": "Ella采访谈SHE哭了",
@@ -2459,6 +2483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 243252,
+      "num": 243252,
+      "word": "90后为什么不喝星巴克了",
+      "onboard_time": 1685434768,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243136,
       "num": 243136,
       "word": "黄奕未经允许私拿美术馆展品摆拍",
@@ -2595,6 +2627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 227378,
+      "num": 227378,
+      "word": "哈尔滨偶遇宁艺卓",
+      "onboard_time": 1685433692,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225923,
       "num": 225923,
       "word": "妈宝男婚后有多下头",
@@ -2659,6 +2699,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 221625,
+      "num": 221625,
+      "word": "吴磊演我向往的生活",
+      "onboard_time": 1685434587,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221006,
       "num": 221006,
       "word": "王鹤棣咬紧的下颚线",
@@ -2689,14 +2737,6 @@
       "onboard_time": 1685319747,
       "rank": 35,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 219567,
-      "num": 219567,
-      "word": "哈尔滨偶遇宁艺卓",
-      "onboard_time": 1685433692,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 219554,
@@ -2793,6 +2833,14 @@
       "onboard_time": 1685321668,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 208792,
+      "num": 208792,
+      "word": "长风渡",
+      "onboard_time": 1685434830,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 208763,
@@ -3003,14 +3051,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 199737,
-      "num": 199737,
-      "word": "杨紫橙色花朵抹胸裙",
-      "onboard_time": 1685434410,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 198816,
       "num": 198816,
       "word": "没前景的工作要不要辞职",
@@ -3083,6 +3123,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 195545,
+      "num": 195545,
+      "word": "电竞文照进现实",
+      "onboard_time": 1685434350,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195278,
       "num": 195278,
       "word": "虞书欣全黑造型花絮照",
@@ -3145,14 +3193,6 @@
       "onboard_time": 1685330429,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 193134,
-      "num": 193134,
-      "word": "直播间明星带货竟是AI换脸",
-      "onboard_time": 1685434170,
-      "rank": 38,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 193040,
@@ -3227,6 +3267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 190717,
+      "num": 190717,
+      "word": "孙千 妈爱你一万年骗你是小狗",
+      "onboard_time": 1685435431,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 190397,
       "num": 190397,
       "word": "美依礼芽安利值断层第一",
@@ -3297,14 +3345,6 @@
       "onboard_time": 1685417130,
       "rank": 43,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 185196,
-      "num": 185196,
-      "word": "电竞文照进现实",
-      "onboard_time": 1685434350,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 184913,
@@ -3425,14 +3465,6 @@
       "onboard_time": 1685402242,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175741,
-      "num": 175741,
-      "word": "吴磊演我向往的生活",
-      "onboard_time": 1685434587,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 174861,
@@ -3731,14 +3763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150051,
-      "num": 150051,
-      "word": "90后为什么不喝星巴克了",
-      "onboard_time": 1685434768,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148901,
       "num": 148901,
       "word": "王子文白裙好温柔",
@@ -3753,6 +3777,14 @@
       "onboard_time": 1685358387,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148414,
+      "num": 148414,
+      "word": "磁悬浮小肥羊",
+      "onboard_time": 1685435129,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 146961,
@@ -3865,14 +3897,6 @@
       "onboard_time": 1685273427,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133771,
-      "num": 133771,
-      "word": "长风渡",
-      "onboard_time": 1685434830,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 133303,
