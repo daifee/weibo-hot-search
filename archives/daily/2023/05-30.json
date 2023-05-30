@@ -1,6 +1,6 @@
 {
   "startTime": 1685377320709,
-  "endTime": 1685430925283,
+  "endTime": 1685432003200,
   "band_list": [
     {
       "raw_hot": 4068594,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1372783,
+      "num": 1372783,
+      "word": "身体缺什么 嘴巴早知道",
+      "onboard_time": 1685423972,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1345961,
       "num": 1345961,
       "word": "官方通报男子砍杀柯基威胁妻子",
@@ -115,12 +123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1298739,
-      "num": 1298739,
-      "word": "身体缺什么 嘴巴早知道",
-      "onboard_time": 1685423972,
+      "raw_hot": 1311710,
+      "num": 1311710,
+      "word": "20岁小伙月入6000背百万房贷",
+      "onboard_time": 1685427808,
       "rank": 30,
-      "category": "幽默"
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1282998,
@@ -145,14 +153,6 @@
       "onboard_time": 1685402122,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1173266,
-      "num": 1173266,
-      "word": "20岁小伙月入6000背百万房贷",
-      "onboard_time": 1685427808,
-      "rank": 30,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1148618,
@@ -251,6 +251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 842234,
+      "num": 842234,
+      "word": "河南紧急下拨2亿元用于小麦烘干",
+      "onboard_time": 1685427088,
+      "rank": 39,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 808801,
       "num": 808801,
       "word": "光遇",
@@ -283,6 +291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 702824,
+      "num": 702824,
+      "word": "离婚了30万彩礼该不该返还",
+      "onboard_time": 1685430087,
+      "rank": 25,
+      "category": "社会议题,情感"
+    },
+    {
       "raw_hot": 689329,
       "num": 651057,
       "word": "金星参加干女儿婚礼",
@@ -297,6 +313,14 @@
       "onboard_time": 1685402062,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 634869,
+      "num": 634869,
+      "word": "陈都灵粉色吊带",
+      "onboard_time": 1685427268,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 610378,
@@ -321,14 +345,6 @@
       "onboard_time": 1685416288,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 597487,
-      "num": 597487,
-      "word": "陈都灵粉色吊带",
-      "onboard_time": 1685427268,
-      "rank": 30,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 582791,
@@ -403,6 +419,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 503896,
+      "num": 503896,
+      "word": "莫斯科",
+      "onboard_time": 1685429129,
+      "rank": 16,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 502052,
       "num": 502052,
       "word": "原来这是焦虑的表现",
@@ -417,14 +441,6 @@
       "onboard_time": 1685411547,
       "rank": 43,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 493097,
-      "num": 493097,
-      "word": "河南紧急下拨2亿元用于小麦烘干",
-      "onboard_time": 1685427088,
-      "rank": 39,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 485950,
@@ -465,14 +481,6 @@
       "onboard_time": 1685369132,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 439866,
-      "num": 439866,
-      "word": "莫斯科",
-      "onboard_time": 1685429129,
-      "rank": 16,
-      "category": "旅游"
     },
     {
       "raw_hot": 438481,
@@ -531,6 +539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 384402,
+      "num": 384402,
+      "word": "金鸡奖15个评委都投给了朱一龙",
+      "onboard_time": 1685431170,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 382680,
       "num": 382680,
       "word": "马斯克谈中国航天工程计划",
@@ -576,6 +592,14 @@
       "word": "杨幂的小黑猫以前vs现在",
       "onboard_time": 1685407710,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 356217,
+      "num": 356217,
+      "word": "中国文艺网评陶昕然",
+      "onboard_time": 1685427928,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -641,6 +665,14 @@
       "onboard_time": 1685421696,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329292,
+      "num": 329292,
+      "word": "我到底对不起谁了",
+      "onboard_time": 1685429431,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 324291,
@@ -729,14 +761,6 @@
       "onboard_time": 1685409389,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 290666,
-      "num": 290666,
-      "word": "我到底对不起谁了",
-      "onboard_time": 1685429431,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 290248,
@@ -843,22 +867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 264931,
-      "num": 264931,
-      "word": "离婚了30万彩礼该不该返还",
-      "onboard_time": 1685430087,
-      "rank": 25,
-      "category": "社会议题,情感"
-    },
-    {
-      "raw_hot": 260192,
-      "num": 260192,
-      "word": "中国文艺网评陶昕然",
-      "onboard_time": 1685427928,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 256068,
       "num": 225208,
       "word": "前夫婚礼现场女子拉横幅祝其纳妾",
@@ -907,12 +915,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251935,
+      "num": 251935,
+      "word": "这才是真正的梨型身材",
+      "onboard_time": 1685431590,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 248501,
       "num": 248501,
       "word": "yammers",
       "onboard_time": 1685356229,
       "rank": 17,
       "category": "社会新闻,游戏"
+    },
+    {
+      "raw_hot": 247125,
+      "num": 247125,
+      "word": "被丈夫砍杀柯基威胁女子回应彩礼争议",
+      "onboard_time": 1685431111,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246175,
@@ -977,6 +1001,22 @@
       "onboard_time": 1685420492,
       "rank": 38,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 235126,
+      "num": 235126,
+      "word": "五月天演唱会的钱都被谁赚了",
+      "onboard_time": 1685430448,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 232500,
+      "num": 232500,
+      "word": "莫斯科遭无人机袭击",
+      "onboard_time": 1685431170,
+      "rank": 33,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 232180,
@@ -1187,6 +1227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201070,
+      "num": 201070,
+      "word": "阴阳师",
+      "onboard_time": 1685431470,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200414,
       "num": 200414,
       "word": "张艺兴大航海三巡预热",
@@ -1217,6 +1265,14 @@
       "onboard_time": 1685426791,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195278,
+      "num": 195278,
+      "word": "虞书欣全黑造型花絮照",
+      "onboard_time": 1685430750,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 193713,
@@ -1395,6 +1451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171081,
+      "num": 171081,
+      "word": "出道前的周也",
+      "onboard_time": 1685431470,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170399,
       "num": 170399,
       "word": "女孩将云肩披上学士服中国风拉满",
@@ -1403,12 +1467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167035,
-      "num": 167035,
-      "word": "虞书欣全黑造型花絮照",
-      "onboard_time": 1685430750,
-      "rank": 41,
-      "category": "作品衍生,时尚"
+      "raw_hot": 168256,
+      "num": 168256,
+      "word": "白鲸为什么要喂冰块",
+      "onboard_time": 1685428049,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165318,
@@ -1416,6 +1480,14 @@
       "word": "妻子将亡夫公益事业扩大225倍",
       "onboard_time": 1685413828,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164740,
+      "num": 164740,
+      "word": "丫丫回家后判若两熊",
+      "onboard_time": 1685431951,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1433,14 +1505,6 @@
       "onboard_time": 1685407889,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162002,
-      "num": 162002,
-      "word": "五月天演唱会的钱都被谁赚了",
-      "onboard_time": 1685430448,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 160810,
@@ -1465,14 +1529,6 @@
       "onboard_time": 1685417908,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157031,
-      "num": 157031,
-      "word": "白鲸为什么要喂冰块",
-      "onboard_time": 1685428049,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155410,
@@ -1572,7 +1628,7 @@
     },
     {
       "raw_hot": 125675,
-      "num": 502571,
+      "num": 523925,
       "word": "肠道是熬夜猝死元凶之一",
       "onboard_time": 1685356646,
       "rank": 29,
@@ -1636,7 +1692,7 @@
     },
     {
       "raw_hot": 113037,
-      "num": 150192,
+      "num": 164748,
       "word": "戳戳式学习的弊端",
       "onboard_time": 1685430629,
       "rank": 48,
@@ -1673,6 +1729,14 @@
       "onboard_time": 1685369674,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 92283,
+      "num": 258276,
+      "word": "猿辅导出了智能硬件",
+      "onboard_time": 1685431349,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84291,
@@ -1723,6 +1787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 64758,
+      "num": 260911,
+      "word": "辅导孩子学习有多费妈",
+      "onboard_time": 1685429250,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 63178,
       "num": 433521,
       "word": "第一书记离任村民冒雨含泪送别",
@@ -1747,20 +1819,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48695,
+      "num": 158844,
+      "word": "数字化学习是家庭必修课吗",
+      "onboard_time": 1685431529,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48693,
       "num": 67579,
       "word": "法网2023",
       "onboard_time": 1685381238,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46049,
-      "num": 260911,
-      "word": "辅导孩子学习有多费妈",
-      "onboard_time": 1685429250,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 35551,
