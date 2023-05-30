@@ -1,0 +1,410 @@
+{
+  "runTime": 1685438187347,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1880930,
+        "num": 1880930,
+        "word": "金鸡奖15个评委都投给了朱一龙",
+        "onboard_time": 1685431170,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1268497,
+        "num": 1268497,
+        "word": "杨紫摄影师出来聊聊",
+        "onboard_time": 1685436270,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17329,
+        "num": 1191022,
+        "word": "点亮精神火炬",
+        "onboard_time": 1685416949,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2499806,
+        "num": 1181609,
+        "word": "离婚了30万彩礼该不该返还",
+        "onboard_time": 1685430087,
+        "rank": 3,
+        "category": "社会议题,情感"
+      },
+      {
+        "raw_hot": 1142242,
+        "num": 1142242,
+        "word": "河南紧急下拨2亿元用于小麦烘干",
+        "onboard_time": 1685427088,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 944156,
+        "num": 944156,
+        "word": "刘宪华一天给Amber打8个电话",
+        "onboard_time": 1685432669,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 812874,
+        "num": 812874,
+        "word": "身体缺什么 嘴巴早知道",
+        "onboard_time": 1685423972,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 731379,
+        "num": 731379,
+        "word": "时尚芭莎红毯",
+        "onboard_time": 1685437649,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 726259,
+        "num": 726259,
+        "word": "丫丫回家后判若两熊",
+        "onboard_time": 1685431951,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 708244,
+        "num": 708244,
+        "word": "时尚芭莎年度派对",
+        "onboard_time": 1685436508,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 824539,
+        "num": 691694,
+        "word": "20岁小伙月入6000背百万房贷",
+        "onboard_time": 1685427808,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1662639,
+        "num": 674655,
+        "word": "电子科技大学",
+        "onboard_time": 1685433808,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654972,
+        "num": 654972,
+        "word": "杨紫脸颊痣",
+        "onboard_time": 1685433090,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 557089,
+        "num": 557089,
+        "word": "神十六成功对接空间站组合体",
+        "onboard_time": 1685436209,
+        "rank": 13,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 547650,
+        "num": 547650,
+        "word": "华晨宇加入LGD",
+        "onboard_time": 1685420674,
+        "rank": 14,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 491377,
+        "num": 491377,
+        "word": "胡彦斌新恋情被曝后首发博",
+        "onboard_time": 1685432249,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483130,
+        "num": 483130,
+        "word": "马斯克私人飞机降落北京",
+        "onboard_time": 1685432128,
+        "rank": 16,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 462876,
+        "num": 462876,
+        "word": "宋轶白敬亭好嗑",
+        "onboard_time": 1685423972,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 456656,
+        "num": 456656,
+        "word": "孙千 妈爱你一万年骗你是小狗",
+        "onboard_time": 1685435431,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 400405,
+        "num": 400405,
+        "word": "鹿晗演唱会主办方是自己",
+        "onboard_time": 1685435190,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 370838,
+        "num": 370838,
+        "word": "韩国男爱豆猥亵队友一审被判缓刑",
+        "onboard_time": 1685435970,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 356773,
+        "num": 356773,
+        "word": "03 你还有七个学生没毕业",
+        "onboard_time": 1685412027,
+        "rank": 21,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 351832,
+        "num": 351832,
+        "word": "被丈夫砍杀柯基威胁女子回应彩礼争议",
+        "onboard_time": 1685431111,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338923,
+        "num": 338923,
+        "word": "杨紫新妆容",
+        "onboard_time": 1685432010,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 331099,
+        "num": 331099,
+        "word": "90后为什么不喝星巴克了",
+        "onboard_time": 1685434768,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323173,
+        "num": 323173,
+        "word": "秦昊恋爱脑",
+        "onboard_time": 1685426371,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275301,
+        "num": 275301,
+        "word": "韩国豆瓣排名靠前的中国艺人",
+        "onboard_time": 1685435910,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265626,
+        "num": 265626,
+        "word": "直播间明星带货竟是AI换脸",
+        "onboard_time": 1685434170,
+        "rank": 27,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 29824,
+        "num": 254147,
+        "word": "给孩子买学习硬件注意啥",
+        "onboard_time": 1685436928,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 254146,
+        "num": 254146,
+        "word": "吴谢宇死刑",
+        "onboard_time": 1685411609,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242622,
+        "num": 242622,
+        "word": "这才是真正的梨型身材",
+        "onboard_time": 1685431590,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233017,
+        "num": 233017,
+        "word": "四川自来水公司呼吁每月洗澡2到4次",
+        "onboard_time": 1685418811,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231624,
+        "num": 231624,
+        "word": "月入多少才会考虑买房",
+        "onboard_time": 1685432669,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214530,
+        "num": 214530,
+        "word": "迪丽热巴龚俊坐在一起",
+        "onboard_time": 1685427808,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211457,
+        "num": 211457,
+        "word": "2023新一线城市名单官宣",
+        "onboard_time": 1685432788,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210626,
+        "num": 210626,
+        "word": "李湘为王诗龄庆儿童节",
+        "onboard_time": 1685435730,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209782,
+        "num": 209782,
+        "word": "明星芭莎年度派对造型",
+        "onboard_time": 1685434528,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208863,
+        "num": 208863,
+        "word": "陈都灵粉色吊带",
+        "onboard_time": 1685427268,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 201896,
+        "num": 201896,
+        "word": "因为会骂人被领导赏识",
+        "onboard_time": 1685437228,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 204080,
+        "num": 200366,
+        "word": "林彦俊芭莎年度派对上班路透",
+        "onboard_time": 1685437049,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 195152,
+        "num": 195152,
+        "word": "吴磊演我向往的生活",
+        "onboard_time": 1685434587,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164190,
+        "num": 164190,
+        "word": "专家称女性独立的副作用是生育下降",
+        "onboard_time": 1685426670,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159318,
+        "num": 159318,
+        "word": "放在整个教育界都是相当炸裂",
+        "onboard_time": 1685437468,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154399,
+        "num": 154399,
+        "word": "哈尔滨偶遇宁艺卓",
+        "onboard_time": 1685433692,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153640,
+        "num": 153640,
+        "word": "只有幸福的人才会在网上消失",
+        "onboard_time": 1685437950,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83358,
+        "num": 152388,
+        "word": "儿童护眼学习小妙招",
+        "onboard_time": 1685436571,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151995,
+        "num": 151995,
+        "word": "长风渡",
+        "onboard_time": 1685434830,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109150,
+        "num": 141168,
+        "word": "莫斯科",
+        "onboard_time": 1685429129,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 98973,
+        "num": 137066,
+        "word": "磁悬浮小肥羊",
+        "onboard_time": 1685435129,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 137001,
+        "num": 137001,
+        "word": "陶昕然发博寻5年前飞机邻座男士",
+        "onboard_time": 1685416408,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#神十六乘组奔赴苍穹#"
+    }
+  }
+}

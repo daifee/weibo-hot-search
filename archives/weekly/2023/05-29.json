@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685435631644,
+  "endTime": 1685438187347,
   "band_list": [
     {
       "raw_hot": 4068594,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1662639,
+      "num": 674655,
+      "word": "电子科技大学",
+      "onboard_time": 1685433808,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1650399,
       "num": 1650399,
       "word": "考研进清华和高考进清华的区别",
@@ -377,6 +385,14 @@
       "onboard_time": 1685349148,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1268497,
+      "num": 1268497,
+      "word": "杨紫摄影师出来聊聊",
+      "onboard_time": 1685436270,
+      "rank": 1,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1261115,
@@ -555,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 944156,
+      "num": 944156,
+      "word": "刘宪华一天给Amber打8个电话",
+      "onboard_time": 1685432669,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 929988,
       "num": 929988,
       "word": "秦昊恋爱脑",
@@ -652,7 +676,7 @@
     },
     {
       "raw_hot": 795760,
-      "num": 585356,
+      "num": 654972,
       "word": "杨紫脸颊痣",
       "onboard_time": 1685433090,
       "rank": 11,
@@ -691,6 +715,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 731379,
+      "num": 731379,
+      "word": "时尚芭莎红毯",
+      "onboard_time": 1685437649,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 726259,
+      "num": 726259,
+      "word": "丫丫回家后判若两熊",
+      "onboard_time": 1685431951,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 719074,
       "num": 719074,
       "word": "TFBOYS十周年有望合体",
@@ -721,6 +761,14 @@
       "onboard_time": 1685353588,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 708244,
+      "num": 708244,
+      "word": "时尚芭莎年度派对",
+      "onboard_time": 1685436508,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 701142,
@@ -760,14 +808,6 @@
       "word": "被丈夫砍杀柯基威胁女子回应彩礼争议",
       "onboard_time": 1685431111,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 677029,
-      "num": 536275,
-      "word": "电子科技大学",
-      "onboard_time": 1685433808,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -947,6 +987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 557089,
+      "num": 557089,
+      "word": "神十六成功对接空间站组合体",
+      "onboard_time": 1685436209,
+      "rank": 13,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 556392,
       "num": 556392,
       "word": "胖莎",
@@ -961,14 +1009,6 @@
       "onboard_time": 1685342484,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 554082,
-      "num": 554082,
-      "word": "刘宪华一天给Amber打8个电话",
-      "onboard_time": 1685432669,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 551503,
@@ -1056,14 +1096,6 @@
       "word": "椰树审美",
       "onboard_time": 1685365350,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 524230,
-      "num": 524230,
-      "word": "丫丫回家后判若两熊",
-      "onboard_time": 1685431951,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1235,6 +1267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 456656,
+      "num": 456656,
+      "word": "孙千 妈爱你一万年骗你是小狗",
+      "onboard_time": 1685435431,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 456470,
       "num": 456470,
       "word": "张大大 东农",
@@ -1403,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400405,
+      "num": 400405,
+      "word": "鹿晗演唱会主办方是自己",
+      "onboard_time": 1685435190,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 400170,
       "num": 400170,
       "word": "一到二十岁 血脉就开始觉醒",
@@ -1489,6 +1537,14 @@
       "onboard_time": 1685414007,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 370838,
+      "num": 370838,
+      "word": "韩国男爱豆猥亵队友一审被判缓刑",
+      "onboard_time": 1685435970,
+      "rank": 20,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 366212,
@@ -1729,6 +1785,14 @@
       "onboard_time": 1685332891,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 331099,
+      "num": 331099,
+      "word": "90后为什么不喝星巴克了",
+      "onboard_time": 1685434768,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 329292,
@@ -2139,6 +2203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275301,
+      "num": 275301,
+      "word": "韩国豆瓣排名靠前的中国艺人",
+      "onboard_time": 1685435910,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274449,
       "num": 243457,
       "word": "鸟鸟上综艺 展示人类多样性",
@@ -2233,14 +2305,6 @@
       "onboard_time": 1685282794,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 263205,
-      "num": 263205,
-      "word": "鹿晗演唱会主办方是自己",
-      "onboard_time": 1685435190,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 262104,
@@ -2481,14 +2545,6 @@
       "onboard_time": 1685412867,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 243252,
-      "num": 243252,
-      "word": "90后为什么不喝星巴克了",
-      "onboard_time": 1685434768,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243136,
@@ -2811,6 +2867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 210626,
+      "num": 210626,
+      "word": "李湘为王诗龄庆儿童节",
+      "onboard_time": 1685435730,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210110,
       "num": 210110,
       "word": "阿德巴约",
@@ -2955,6 +3019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204080,
+      "num": 200366,
+      "word": "林彦俊芭莎年度派对上班路透",
+      "onboard_time": 1685437049,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 203954,
       "num": 203954,
       "word": "看上去真的很委屈",
@@ -2985,6 +3057,14 @@
       "onboard_time": 1685414248,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201896,
+      "num": 201896,
+      "word": "因为会骂人被领导赏识",
+      "onboard_time": 1685437228,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 201730,
@@ -3264,14 +3344,6 @@
       "word": "紫色可以多惊艳",
       "onboard_time": 1685350049,
       "rank": 10,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 190717,
-      "num": 190717,
-      "word": "孙千 妈爱你一万年骗你是小狗",
-      "onboard_time": 1685435431,
-      "rank": 39,
       "category": "作品衍生"
     },
     {
@@ -3675,6 +3747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 159318,
+      "num": 159318,
+      "word": "放在整个教育界都是相当炸裂",
+      "onboard_time": 1685437468,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159310,
       "num": 159310,
       "word": "你的姓氏加上你的生肖叫什么",
@@ -3721,6 +3801,14 @@
       "onboard_time": 1685270610,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153640,
+      "num": 153640,
+      "word": "只有幸福的人才会在网上消失",
+      "onboard_time": 1685437950,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 152576,
@@ -4299,6 +4387,14 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 83358,
+      "num": 152388,
+      "word": "儿童护眼学习小妙招",
+      "onboard_time": 1685436571,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79632,
       "num": 2280095,
       "word": "一人一句祝福神十六",
@@ -4499,6 +4595,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 29824,
+      "num": 254147,
+      "word": "给孩子买学习硬件注意啥",
+      "onboard_time": 1685436928,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 25795,
       "num": 25795,
       "word": "新疆草莓音乐节",
@@ -4529,6 +4633,14 @@
       "onboard_time": 1685181328,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 17329,
+      "num": 1191022,
+      "word": "点亮精神火炬",
+      "onboard_time": 1685416949,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14812,

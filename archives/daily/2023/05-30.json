@@ -1,6 +1,6 @@
 {
   "startTime": 1685377320709,
-  "endTime": 1685435631644,
+  "endTime": 1685438187347,
   "band_list": [
     {
       "raw_hot": 4068594,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1662639,
+      "num": 674655,
+      "word": "电子科技大学",
+      "onboard_time": 1685433808,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1650399,
       "num": 1650399,
       "word": "考研进清华和高考进清华的区别",
@@ -153,6 +161,14 @@
       "onboard_time": 1685402842,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1268497,
+      "num": 1268497,
+      "word": "杨紫摄影师出来聊聊",
+      "onboard_time": 1685436270,
+      "rank": 1,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1261115,
@@ -243,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 944156,
+      "num": 944156,
+      "word": "刘宪华一天给Amber打8个电话",
+      "onboard_time": 1685432669,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 929988,
       "num": 929988,
       "word": "秦昊恋爱脑",
@@ -284,7 +308,7 @@
     },
     {
       "raw_hot": 795760,
-      "num": 585356,
+      "num": 654972,
       "word": "杨紫脸颊痣",
       "onboard_time": 1685433090,
       "rank": 11,
@@ -315,11 +339,35 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 731379,
+      "num": 731379,
+      "word": "时尚芭莎红毯",
+      "onboard_time": 1685437649,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 726259,
+      "num": 726259,
+      "word": "丫丫回家后判若两熊",
+      "onboard_time": 1685431951,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 712819,
       "num": 712819,
       "word": "韩式演技",
       "onboard_time": 1685374892,
       "rank": 8,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 708244,
+      "num": 708244,
+      "word": "时尚芭莎年度派对",
+      "onboard_time": 1685436508,
+      "rank": 9,
       "category": "作品衍生"
     },
     {
@@ -336,14 +384,6 @@
       "word": "被丈夫砍杀柯基威胁女子回应彩礼争议",
       "onboard_time": 1685431111,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 677029,
-      "num": 536275,
-      "word": "电子科技大学",
-      "onboard_time": 1685433808,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -419,12 +459,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 554082,
-      "num": 554082,
-      "word": "刘宪华一天给Amber打8个电话",
-      "onboard_time": 1685432669,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 557089,
+      "num": 557089,
+      "word": "神十六成功对接空间站组合体",
+      "onboard_time": 1685436209,
+      "rank": 13,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 539317,
@@ -456,14 +496,6 @@
       "word": "上海一老人误将地铁扶手当售卖机",
       "onboard_time": 1685370030,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 524230,
-      "num": 524230,
-      "word": "丫丫回家后判若两熊",
-      "onboard_time": 1685431951,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -547,6 +579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 456656,
+      "num": 456656,
+      "word": "孙千 妈爱你一万年骗你是小狗",
+      "onboard_time": 1685435431,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 441314,
       "num": 376852,
       "word": "迪丽热巴 小心骗子听到没",
@@ -603,6 +643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 400405,
+      "num": 400405,
+      "word": "鹿晗演唱会主办方是自己",
+      "onboard_time": 1685435190,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 391023,
       "num": 391023,
       "word": "被宠是一种什么体验",
@@ -641,6 +689,14 @@
       "onboard_time": 1685414007,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 370838,
+      "num": 370838,
+      "word": "韩国男爱豆猥亵队友一审被判缓刑",
+      "onboard_time": 1685435970,
+      "rank": 20,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 365594,
@@ -745,6 +801,14 @@
       "onboard_time": 1685421696,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 331099,
+      "num": 331099,
+      "word": "90后为什么不喝星巴克了",
+      "onboard_time": 1685434768,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 329292,
@@ -947,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275301,
+      "num": 275301,
+      "word": "韩国豆瓣排名靠前的中国艺人",
+      "onboard_time": 1685435910,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267962,
       "num": 267962,
       "word": "掘金",
@@ -977,14 +1049,6 @@
       "onboard_time": 1685409389,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 263205,
-      "num": 263205,
-      "word": "鹿晗演唱会主办方是自己",
-      "onboard_time": 1685435190,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 256068,
@@ -1081,14 +1145,6 @@
       "onboard_time": 1685412867,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 243252,
-      "num": 243252,
-      "word": "90后为什么不喝星巴克了",
-      "onboard_time": 1685434768,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242272,
@@ -1267,6 +1323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 210626,
+      "num": 210626,
+      "word": "李湘为王诗龄庆儿童节",
+      "onboard_time": 1685435730,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210110,
       "num": 210110,
       "word": "阿德巴约",
@@ -1339,6 +1403,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 204080,
+      "num": 200366,
+      "word": "林彦俊芭莎年度派对上班路透",
+      "onboard_time": 1685437049,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 203954,
       "num": 203954,
       "word": "看上去真的很委屈",
@@ -1369,6 +1441,14 @@
       "onboard_time": 1685414248,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201896,
+      "num": 201896,
+      "word": "因为会骂人被领导赏识",
+      "onboard_time": 1685437228,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 201101,
@@ -1473,14 +1553,6 @@
       "onboard_time": 1685406509,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 190717,
-      "num": 190717,
-      "word": "孙千 妈爱你一万年骗你是小狗",
-      "onboard_time": 1685435431,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 190283,
@@ -1699,6 +1771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 159318,
+      "num": 159318,
+      "word": "放在整个教育界都是相当炸裂",
+      "onboard_time": 1685437468,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158941,
       "num": 158941,
       "word": "热火黑八奇迹",
@@ -1713,6 +1793,14 @@
       "onboard_time": 1685360308,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153640,
+      "num": 153640,
+      "word": "只有幸福的人才会在网上消失",
+      "onboard_time": 1685437950,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 150521,
@@ -1931,6 +2019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 83358,
+      "num": 152388,
+      "word": "儿童护眼学习小妙招",
+      "onboard_time": 1685436571,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79632,
       "num": 2280095,
       "word": "一人一句祝福神十六",
@@ -2043,6 +2139,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 29824,
+      "num": 254147,
+      "word": "给孩子买学习硬件注意啥",
+      "onboard_time": 1685436928,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 21081,
       "num": 29692,
       "word": "热心车主为故障货车带路120公里",
@@ -2056,6 +2160,14 @@
       "word": "女子突发呼吸性碱中毒民警搀扶送医",
       "onboard_time": 1685424150,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17329,
+      "num": 1191022,
+      "word": "点亮精神火炬",
+      "onboard_time": 1685416949,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
