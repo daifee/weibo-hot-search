@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685423750384,
+  "endTime": 1685424827744,
   "band_list": [
     {
       "raw_hot": 4068594,
@@ -139,6 +139,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 1892385,
+      "num": 1892385,
+      "word": "全网都在谢谢虞书欣",
+      "onboard_time": 1685421032,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1887780,
       "num": 1887780,
       "word": "张萌问我出轨的角色这么经典吗",
@@ -185,14 +193,6 @@
       "onboard_time": 1685320948,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1654039,
-      "num": 1654039,
-      "word": "全网都在谢谢虞书欣",
-      "onboard_time": 1685421032,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 1650399,
@@ -491,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 961186,
+      "num": 961186,
+      "word": "女子输液被陌生男子拔针扎进水桶",
+      "onboard_time": 1685420432,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 919453,
       "num": 919453,
       "word": "易烊千玺怀化",
@@ -585,14 +593,6 @@
       "onboard_time": 1685345431,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 796576,
-      "num": 796576,
-      "word": "女子输液被陌生男子拔针扎进水桶",
-      "onboard_time": 1685420432,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 770773,
@@ -971,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 506610,
+      "num": 506610,
+      "word": "二姗开始备孕",
+      "onboard_time": 1685421516,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 502052,
       "num": 502052,
       "word": "原来这是焦虑的表现",
@@ -1121,14 +1129,6 @@
       "onboard_time": 1685337868,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 424622,
-      "num": 424622,
-      "word": "二姗开始备孕",
-      "onboard_time": 1685421516,
-      "rank": 18,
-      "category": "网红"
     },
     {
       "raw_hot": 423449,
@@ -1539,6 +1539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 326464,
+      "num": 326464,
+      "word": "宋轶白敬亭好嗑",
+      "onboard_time": 1685423972,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 324291,
       "num": 324291,
       "word": "抢票",
@@ -1787,6 +1795,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 280983,
+      "num": 272872,
+      "word": "身体缺什么 嘴巴早知道",
+      "onboard_time": 1685423972,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 280574,
       "num": 260505,
       "word": "千万不要等年纪大了再去旅游",
@@ -1883,6 +1899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273816,
+      "num": 273816,
+      "word": "坠楼瞬间他用身体死死护住小女孩",
+      "onboard_time": 1685421696,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273700,
       "num": 271014,
       "word": "迪丽热巴安旎输出王者",
@@ -1920,14 +1944,6 @@
       "word": "丫丫离开上海回京",
       "onboard_time": 1685278589,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268810,
-      "num": 268810,
-      "word": "坠楼瞬间他用身体死死护住小女孩",
-      "onboard_time": 1685421696,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -2065,6 +2081,14 @@
       "onboard_time": 1685413770,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 252471,
+      "num": 252471,
+      "word": "田曦薇张艺凡少看点直播吧",
+      "onboard_time": 1685423430,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 252334,
@@ -2355,6 +2379,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 220778,
+      "num": 220778,
+      "word": "街舞6网传嘉宾阵容",
+      "onboard_time": 1685424270,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220737,
       "num": 220737,
       "word": "问题不大 天上可以开组会",
@@ -2376,6 +2408,14 @@
       "word": "闺蜜嫁的远该不该去参加婚礼",
       "onboard_time": 1685353828,
       "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 218114,
+      "num": 218114,
+      "word": "生孩子到底能治什么病",
+      "onboard_time": 1685423911,
+      "rank": 38,
       "category": "情感"
     },
     {
@@ -2659,14 +2699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198381,
-      "num": 198381,
-      "word": "田曦薇张艺凡少看点直播吧",
-      "onboard_time": 1685423430,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197883,
       "num": 197883,
       "word": "Note12TPro",
@@ -2769,6 +2801,14 @@
       "onboard_time": 1685321250,
       "rank": 42,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 193018,
+      "num": 193018,
+      "word": "seventeen中粉对方时赫的祝福",
+      "onboard_time": 1685423670,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 192605,
@@ -2995,6 +3035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 177901,
+      "num": 177901,
+      "word": "张歆艺袁弘结婚七年了",
+      "onboard_time": 1685423972,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176090,
       "num": 176090,
       "word": "柯基被砍",
@@ -3131,20 +3179,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165213,
-      "num": 165213,
-      "word": "seventeen中粉对方时赫的祝福",
-      "onboard_time": 1685423670,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 164645,
       "num": 164645,
       "word": "高三师生放666条锦鲤祝金榜题名",
       "onboard_time": 1685346447,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164060,
+      "num": 164060,
+      "word": "桂海潮出征前还在催学生交论文",
+      "onboard_time": 1685423670,
+      "rank": 49,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 163835,
@@ -3241,14 +3289,6 @@
       "onboard_time": 1685364989,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 151891,
-      "num": 151891,
-      "word": "桂海潮出征前还在催学生交论文",
-      "onboard_time": 1685423670,
-      "rank": 49,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 151758,
@@ -3976,6 +4016,14 @@
       "word": "热心车主为故障货车带路120公里",
       "onboard_time": 1685391972,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19539,
+      "num": 484501,
+      "word": "女子突发呼吸性碱中毒民警搀扶送医",
+      "onboard_time": 1685424150,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
