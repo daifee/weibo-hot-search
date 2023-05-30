@@ -1,0 +1,410 @@
+{
+  "runTime": 1685460832659,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1365828,
+        "num": 1365828,
+        "word": "贤合庄北京门店全部关闭",
+        "onboard_time": 1685447129,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1215325,
+        "num": 1215325,
+        "word": "迪丽热巴第二套",
+        "onboard_time": 1685451033,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 37754,
+        "num": 1144727,
+        "word": "掘地三万尺中国又一壮举",
+        "onboard_time": 1685459974,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1129236,
+        "num": 1129236,
+        "word": "杨幂 谢依霖",
+        "onboard_time": 1685448932,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1409517,
+        "num": 1076447,
+        "word": "迪丽热巴 刚出水的美人鱼",
+        "onboard_time": 1685444071,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1012273,
+        "num": 1012273,
+        "word": "李晓峰帮杨颖提裙子",
+        "onboard_time": 1685456797,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 800084,
+        "num": 800084,
+        "word": "Angelababy红毯从来没有失手过",
+        "onboard_time": 1685447909,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 624929,
+        "num": 624929,
+        "word": "婴儿输液致心率异常死亡",
+        "onboard_time": 1685458119,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480081,
+        "num": 480081,
+        "word": "一旦有射手座的好朋友",
+        "onboard_time": 1685455116,
+        "rank": 8,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 475637,
+        "num": 475637,
+        "word": "Cat",
+        "onboard_time": 1685450552,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 3272694,
+        "num": 473658,
+        "word": "阚清子被男友求婚",
+        "onboard_time": 1685450613,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 667922,
+        "num": 471880,
+        "word": "TFBOYS",
+        "onboard_time": 1685460155,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 660343,
+        "num": 469902,
+        "word": "赵丽颖露背",
+        "onboard_time": 1685440949,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 464753,
+        "num": 464753,
+        "word": "北京WB",
+        "onboard_time": 1685457759,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 383369,
+        "num": 383369,
+        "word": "MTG 清清",
+        "onboard_time": 1685458595,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 611524,
+        "num": 379677,
+        "word": "杨紫迪丽热巴内场同框",
+        "onboard_time": 1685453917,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 611444,
+        "num": 355700,
+        "word": "唐嫣露腿了",
+        "onboard_time": 1685443830,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 321435,
+        "num": 321435,
+        "word": "梁建章建议女儿随母姓",
+        "onboard_time": 1685455538,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290972,
+        "num": 290972,
+        "word": "Cat确认挂牌",
+        "onboard_time": 1685457457,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 275577,
+        "num": 275577,
+        "word": "丫丫回家后判若两熊",
+        "onboard_time": 1685431951,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559739,
+        "num": 265771,
+        "word": "苏打绿 免费演唱会",
+        "onboard_time": 1685454875,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 490613,
+        "num": 252818,
+        "word": "G社拍的赵露思",
+        "onboard_time": 1685441309,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 490126,
+        "num": 241564,
+        "word": "龚俊手机屏保是花花",
+        "onboard_time": 1685457698,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 327027,
+        "num": 232276,
+        "word": "麻将馆一女子怀抱孩子遭男子暴打",
+        "onboard_time": 1685453253,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225509,
+        "num": 225509,
+        "word": "AG",
+        "onboard_time": 1685457034,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 429566,
+        "num": 224698,
+        "word": "怪不得杨幂不去芭莎盛典",
+        "onboard_time": 1685440470,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 418101,
+        "num": 215599,
+        "word": "王源演唱会最累的是王俊凯员工",
+        "onboard_time": 1685459794,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200366,
+        "num": 200366,
+        "word": "Hero",
+        "onboard_time": 1685457998,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186643,
+        "num": 199913,
+        "word": "吴易昺大满贯男双首胜",
+        "onboard_time": 1685460213,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108798,
+        "num": 199395,
+        "word": "成都大运宣传片是懂转场的",
+        "onboard_time": 1685454336,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365593,
+        "num": 198537,
+        "word": "萌萌离世前经历了什么",
+        "onboard_time": 1685450796,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350476,
+        "num": 197949,
+        "word": "张彬彬吴倩吻到脸红心跳",
+        "onboard_time": 1685444609,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345863,
+        "num": 197358,
+        "word": "赵丽颖内场",
+        "onboard_time": 1685455233,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242291,
+        "num": 196211,
+        "word": "现在的课桌都能躺着午睡了",
+        "onboard_time": 1685459316,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 196011,
+        "num": 196011,
+        "word": "有些取件码报着报着就唱起来了",
+        "onboard_time": 1685439269,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 324296,
+        "num": 194108,
+        "word": "青天亲上了",
+        "onboard_time": 1685459615,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310980,
+        "num": 193257,
+        "word": "何炅谢娜黄磊逛菜市场",
+        "onboard_time": 1685460335,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192057,
+        "num": 192057,
+        "word": "女生要不要下嫁陪心爱的穷男生吃苦",
+        "onboard_time": 1685449170,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176515,
+        "num": 176515,
+        "word": "千万不要害怕一个人的生活",
+        "onboard_time": 1685445512,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 174318,
+        "num": 174318,
+        "word": "上海白蚁",
+        "onboard_time": 1685451096,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303021,
+        "num": 173036,
+        "word": "杨紫范丞丞在聊什么",
+        "onboard_time": 1685449231,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 283066,
+        "num": 172133,
+        "word": "娱乐圈文女主宋茜",
+        "onboard_time": 1685454514,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 247928,
+        "num": 169667,
+        "word": "黄晓明尹正亲上了",
+        "onboard_time": 1685440949,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239422,
+        "num": 169122,
+        "word": "沈小婷直播",
+        "onboard_time": 1685457815,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221514,
+        "num": 167145,
+        "word": "刘宇宁 综艺",
+        "onboard_time": 1685454158,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204870,
+        "num": 166455,
+        "word": "杨幂牛奶长靴",
+        "onboard_time": 1685446950,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164954,
+        "num": 164954,
+        "word": "爸爸喜得千金秒变显眼包",
+        "onboard_time": 1685452776,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162698,
+        "num": 162698,
+        "word": "泽连斯基称已确定反攻日期",
+        "onboard_time": 1685447433,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 156295,
+        "num": 156295,
+        "word": "2023KPL夏季转会期",
+        "onboard_time": 1685455657,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147960,
+        "num": 156096,
+        "word": "普通人的一生应该是怎样的",
+        "onboard_time": 1685460512,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国航天一往无前#"
+    }
+  }
+}
