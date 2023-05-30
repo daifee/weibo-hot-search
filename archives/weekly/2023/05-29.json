@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685471626026,
+  "endTime": 1685473991702,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -5507,6 +5507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50518,
+      "num": 43484,
+      "word": "杨幂回复谢依霖说爱你啊hold么么",
+      "onboard_time": 1685470574,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 48695,
       "num": 158844,
       "word": "数字化学习是家庭必修课吗",
@@ -5579,14 +5587,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 30201,
-      "num": 29903,
-      "word": "杨幂回复谢依霖说爱你啊hold么么",
-      "onboard_time": 1685470574,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 27299,
       "num": 29838,
       "word": "重返未来1999公测",
@@ -5619,10 +5619,26 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22669,
+      "num": 24164,
+      "word": "苏打绿成团20周年快乐",
+      "onboard_time": 1685465242,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21081,
       "num": 29692,
       "word": "热心车主为故障货车带路120公里",
       "onboard_time": 1685391972,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20917,
+      "num": 24102,
+      "word": "明星餐饮为何逃不出短命魔咒",
+      "onboard_time": 1685461230,
       "rank": 48,
       "category": "社会新闻"
     },
