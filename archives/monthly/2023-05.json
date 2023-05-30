@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685416659803,
+  "endTime": 1685417628168,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -3003,6 +3003,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1752127,
+      "num": 1752127,
+      "word": "陶昕然发博寻5年前飞机邻座男士",
+      "onboard_time": 1685416408,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1751563,
       "num": 1751563,
       "word": "死缓犯狱中患癌离世家属索赔700余万",
@@ -3081,6 +3089,14 @@
       "onboard_time": 1684207228,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1732101,
+      "num": 1732101,
+      "word": "小县城十八万八的彩礼合理吗",
+      "onboard_time": 1685405430,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 1730512,
@@ -5169,14 +5185,6 @@
       "onboard_time": 1684822050,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1387165,
-      "num": 1387165,
-      "word": "小县城十八万八的彩礼合理吗",
-      "onboard_time": 1685405430,
-      "rank": 6,
-      "category": "情感"
     },
     {
       "raw_hot": 1386877,
@@ -7369,6 +7377,14 @@
       "onboard_time": 1684634427,
       "rank": 3,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1115603,
+      "num": 1115603,
+      "word": "大熊猫园润遭男子泼水",
+      "onboard_time": 1685414187,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1115494,
@@ -9843,6 +9859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 872855,
+      "num": 872855,
+      "word": "巴特勒",
+      "onboard_time": 1685415329,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 872545,
       "num": 872545,
       "word": "北京二手房降价90万卖不出去",
@@ -10665,14 +10689,6 @@
       "onboard_time": 1684208491,
       "rank": 8,
       "category": "科技"
-    },
-    {
-      "raw_hot": 806778,
-      "num": 806778,
-      "word": "巴特勒",
-      "onboard_time": 1685415329,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 806695,
@@ -12452,7 +12468,7 @@
     },
     {
       "raw_hot": 689329,
-      "num": 591285,
+      "num": 651057,
       "word": "金星参加干女儿婚礼",
       "onboard_time": 1685413050,
       "rank": 23,
@@ -14344,14 +14360,6 @@
       "word": "女子武汉坐高铁遇满车人都在啃鸭脖",
       "onboard_time": 1684188794,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 591433,
-      "num": 591433,
-      "word": "大熊猫园润遭男子泼水",
-      "onboard_time": 1685414187,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -16739,14 +16747,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 517343,
-      "num": 517343,
-      "word": "陶昕然发博寻5年前飞机邻座男士",
-      "onboard_time": 1685416408,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 517253,
       "num": 517253,
       "word": "易烊千玺刘艳芬终章上线",
@@ -18297,6 +18297,14 @@
       "onboard_time": 1684208307,
       "rank": 17,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 475838,
+      "num": 475838,
+      "word": "以爱为营",
+      "onboard_time": 1685415329,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 475828,
@@ -24115,6 +24123,14 @@
       "category": "情感,作品衍生"
     },
     {
+      "raw_hot": 374562,
+      "num": 374562,
+      "word": "路人拍的陈都灵",
+      "onboard_time": 1685416288,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 374484,
       "num": 4279131,
       "word": "车辆坠河众人义无反顾跳河救人",
@@ -24329,6 +24345,14 @@
       "onboard_time": 1683982951,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 372122,
+      "num": 306756,
+      "word": "迪丽热巴笑眼",
+      "onboard_time": 1685414007,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 371855,
@@ -25721,14 +25745,6 @@
       "onboard_time": 1683340531,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 354215,
-      "num": 354215,
-      "word": "以爱为营",
-      "onboard_time": 1685415329,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 354164,
@@ -29691,14 +29707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 306756,
-      "num": 306756,
-      "word": "迪丽热巴笑眼",
-      "onboard_time": 1685414007,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 306746,
       "num": 254639,
       "word": "姚晨不热吗",
@@ -31240,6 +31248,14 @@
       "word": "挖呀挖黄老师回应质疑",
       "onboard_time": 1683330024,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291786,
+      "num": 288868,
+      "word": "兄妹四人同时查出肠道肿瘤",
+      "onboard_time": 1685416470,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -33953,6 +33969,14 @@
       "onboard_time": 1684049665,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267962,
+      "num": 267962,
+      "word": "掘金",
+      "onboard_time": 1685417008,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 267953,
@@ -39507,6 +39531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230744,
+      "num": 230744,
+      "word": "黄晓明让严浩翔卖啊",
+      "onboard_time": 1685416171,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230718,
       "num": 230718,
       "word": "国泰事件并非孤立现象",
@@ -40643,6 +40675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223382,
+      "num": 223382,
+      "word": "马嘉祺这伞打了还不如不打",
+      "onboard_time": 1685416829,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 223163,
       "num": 223163,
       "word": "姆巴佩偷袭门将",
@@ -41345,14 +41385,6 @@
       "onboard_time": 1683173736,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 218532,
-      "num": 213719,
-      "word": "路人拍的陈都灵",
-      "onboard_time": 1685416288,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 218493,
@@ -43091,6 +43123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208404,
+      "num": 208404,
+      "word": "热火东部冠军",
+      "onboard_time": 1685416349,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208328,
       "num": 208328,
       "word": "KPL冠军教练再添一员",
@@ -44665,14 +44705,6 @@
       "onboard_time": 1685374171,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200195,
-      "num": 200195,
-      "word": "兄妹四人同时查出肠道肿瘤",
-      "onboard_time": 1685416470,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200140,
@@ -46531,6 +46563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 191219,
+      "num": 191219,
+      "word": "我们被卖西瓜老板骗了那么多年",
+      "onboard_time": 1685417609,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191160,
       "num": 180454,
       "word": "很难说是一天内发生的事",
@@ -47291,14 +47331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187687,
-      "num": 187687,
-      "word": "热火东部冠军",
-      "onboard_time": 1685416349,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187634,
       "num": 187634,
       "word": "临沂教师编",
@@ -47321,14 +47353,6 @@
       "onboard_time": 1684766731,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 187412,
-      "num": 187412,
-      "word": "黄晓明让严浩翔卖啊",
-      "onboard_time": 1685416171,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 187276,
@@ -47441,6 +47465,14 @@
       "onboard_time": 1684407209,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186767,
+      "num": 186767,
+      "word": "巴特勒东决MVP",
+      "onboard_time": 1685417429,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 186762,
@@ -47777,6 +47809,14 @@
       "onboard_time": 1682929466,
       "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 185351,
+      "num": 185351,
+      "word": "小时候想长大成为超级英雄",
+      "onboard_time": 1685417130,
+      "rank": 43,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 185346,
@@ -48193,6 +48233,14 @@
       "onboard_time": 1684153709,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182428,
+      "num": 185908,
+      "word": "家电成精是种什么体验",
+      "onboard_time": 1685417549,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 182386,
@@ -50843,6 +50891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169395,
+      "num": 169395,
+      "word": "演唱会门票秒罄黄牛党捞钱术升级",
+      "onboard_time": 1685417609,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169360,
       "num": 169360,
       "word": "希望今年吃的西瓜都这样",
@@ -51265,6 +51321,14 @@
       "onboard_time": 1685318004,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 166615,
+      "num": 166615,
+      "word": "杨迪回家了",
+      "onboard_time": 1685417490,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 166562,
@@ -63161,6 +63225,14 @@
       "onboard_time": 1684090513,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 42992,
+      "num": 1817265,
+      "word": "一人一句祝福神十六",
+      "onboard_time": 1685405549,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42930,

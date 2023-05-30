@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685416659803,
+  "endTime": 1685417628168,
   "band_list": [
     {
       "raw_hot": 4068594,
@@ -131,6 +131,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1752127,
+      "num": 1752127,
+      "word": "陶昕然发博寻5年前飞机邻座男士",
+      "onboard_time": 1685416408,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1732101,
+      "num": 1732101,
+      "word": "小县城十八万八的彩礼合理吗",
+      "onboard_time": 1685405430,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1694342,
       "num": 1694342,
       "word": "全世界都在等你们分手",
@@ -225,14 +241,6 @@
       "onboard_time": 1685323528,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1387165,
-      "num": 1387165,
-      "word": "小县城十八万八的彩礼合理吗",
-      "onboard_time": 1685405430,
-      "rank": 6,
-      "category": "情感"
     },
     {
       "raw_hot": 1368251,
@@ -355,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1115603,
+      "num": 1115603,
+      "word": "大熊猫园润遭男子泼水",
+      "onboard_time": 1685414187,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1075560,
       "num": 1075560,
       "word": "五月天欠下九十万斤水饺的债",
@@ -467,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 872855,
+      "num": 872855,
+      "word": "巴特勒",
+      "onboard_time": 1685415329,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 862330,
       "num": 782353,
       "word": "费曼中了周杰伦的帽子",
@@ -497,14 +521,6 @@
       "onboard_time": 1685274628,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 806778,
-      "num": 806778,
-      "word": "巴特勒",
-      "onboard_time": 1685415329,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 803404,
@@ -596,7 +612,7 @@
     },
     {
       "raw_hot": 689329,
-      "num": 591285,
+      "num": 651057,
       "word": "金星参加干女儿婚礼",
       "onboard_time": 1685413050,
       "rank": 23,
@@ -689,14 +705,6 @@
       "onboard_time": 1685354847,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 591433,
-      "num": 591433,
-      "word": "大熊猫园润遭男子泼水",
-      "onboard_time": 1685414187,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 582791,
@@ -851,14 +859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 517343,
-      "num": 517343,
-      "word": "陶昕然发博寻5年前飞机邻座男士",
-      "onboard_time": 1685416408,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 509432,
       "num": 509432,
       "word": "公诉",
@@ -937,6 +937,14 @@
       "onboard_time": 1685282012,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 475838,
+      "num": 475838,
+      "word": "以爱为营",
+      "onboard_time": 1685415329,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 468625,
@@ -1163,12 +1171,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 374562,
+      "num": 374562,
+      "word": "路人拍的陈都灵",
+      "onboard_time": 1685416288,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 373279,
       "num": 373279,
       "word": "新娘坐婚车睡着新郎一路托着头",
       "onboard_time": 1685407228,
       "rank": 15,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 372122,
+      "num": 306756,
+      "word": "迪丽热巴笑眼",
+      "onboard_time": 1685414007,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 366212,
@@ -1256,14 +1280,6 @@
       "word": "白鹿王鹤棣以爱为营床咚路透",
       "onboard_time": 1685412748,
       "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 354215,
-      "num": 354215,
-      "word": "以爱为营",
-      "onboard_time": 1685415329,
-      "rank": 18,
       "category": "影视"
     },
     {
@@ -1483,14 +1499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 306756,
-      "num": 306756,
-      "word": "迪丽热巴笑眼",
-      "onboard_time": 1685414007,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 306741,
       "num": 306741,
       "word": "YammerS",
@@ -1545,6 +1553,14 @@
       "onboard_time": 1685371717,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 291786,
+      "num": 288868,
+      "word": "兄妹四人同时查出肠道肿瘤",
+      "onboard_time": 1685416470,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290731,
@@ -1713,6 +1729,14 @@
       "onboard_time": 1685278589,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267962,
+      "num": 267962,
+      "word": "掘金",
+      "onboard_time": 1685417008,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 267265,
@@ -2011,6 +2035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230744,
+      "num": 230744,
+      "word": "黄晓明让严浩翔卖啊",
+      "onboard_time": 1685416171,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229831,
       "num": 229831,
       "word": "一个人的命运很大程度挂在自己嘴上",
@@ -2067,6 +2099,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 223382,
+      "num": 223382,
+      "word": "马嘉祺这伞打了还不如不打",
+      "onboard_time": 1685416829,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 223164,
       "num": 223164,
       "word": "在暴雪时分",
@@ -2097,14 +2137,6 @@
       "onboard_time": 1685353828,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 218532,
-      "num": 213719,
-      "word": "路人拍的陈都灵",
-      "onboard_time": 1685416288,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 216752,
@@ -2193,6 +2225,14 @@
       "onboard_time": 1685336491,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 208404,
+      "num": 208404,
+      "word": "热火东部冠军",
+      "onboard_time": 1685416349,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 208107,
@@ -2313,14 +2353,6 @@
       "onboard_time": 1685374171,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200195,
-      "num": 200195,
-      "word": "兄妹四人同时查出肠道肿瘤",
-      "onboard_time": 1685416470,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199806,
@@ -2499,6 +2531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191219,
+      "num": 191219,
+      "word": "我们被卖西瓜老板骗了那么多年",
+      "onboard_time": 1685417609,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190759,
       "num": 419057,
       "word": "紫色可以多惊艳",
@@ -2539,20 +2579,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187687,
-      "num": 187687,
-      "word": "热火东部冠军",
-      "onboard_time": 1685416349,
-      "rank": 44,
+      "raw_hot": 186767,
+      "num": 186767,
+      "word": "巴特勒东决MVP",
+      "onboard_time": 1685417429,
+      "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 187412,
-      "num": 187412,
-      "word": "黄晓明让严浩翔卖啊",
-      "onboard_time": 1685416171,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 185720,
@@ -2561,6 +2593,14 @@
       "onboard_time": 1685338228,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185351,
+      "num": 185351,
+      "word": "小时候想长大成为超级英雄",
+      "onboard_time": 1685417130,
+      "rank": 43,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 184913,
@@ -2576,6 +2616,14 @@
       "word": "难听",
       "onboard_time": 1685404709,
       "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 184159,
+      "num": 184159,
+      "word": "五月天抢票",
+      "onboard_time": 1685417549,
+      "rank": 44,
       "category": "音乐"
     },
     {
@@ -2601,6 +2649,14 @@
       "onboard_time": 1685377464,
       "rank": 44,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 182428,
+      "num": 185908,
+      "word": "家电成精是种什么体验",
+      "onboard_time": 1685417549,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 181486,
@@ -2715,6 +2771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169395,
+      "num": 169395,
+      "word": "演唱会门票秒罄黄牛党捞钱术升级",
+      "onboard_time": 1685417609,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169353,
       "num": 169353,
       "word": "C919",
@@ -2777,6 +2841,14 @@
       "onboard_time": 1685318004,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 166615,
+      "num": 166615,
+      "word": "杨迪回家了",
+      "onboard_time": 1685417490,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 165318,
@@ -3521,6 +3593,14 @@
       "onboard_time": 1685381238,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42992,
+      "num": 1817265,
+      "word": "一人一句祝福神十六",
+      "onboard_time": 1685405549,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39236,

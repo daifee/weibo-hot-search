@@ -1,0 +1,410 @@
+{
+  "runTime": 1685417628168,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3248660,
+        "num": 3248660,
+        "word": "吴谢宇死刑",
+        "onboard_time": 1685411609,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2101098,
+        "num": 2101098,
+        "word": "五月天",
+        "onboard_time": 1685415329,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 42992,
+        "num": 1817265,
+        "word": "一人一句祝福神十六",
+        "onboard_time": 1685405549,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1752127,
+        "num": 1752127,
+        "word": "陶昕然发博寻5年前飞机邻座男士",
+        "onboard_time": 1685416408,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1732101,
+        "num": 1732101,
+        "word": "小县城十八万八的彩礼合理吗",
+        "onboard_time": 1685405430,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1239501,
+        "num": 1239501,
+        "word": "考研进清华和高考进清华的区别",
+        "onboard_time": 1685405368,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1144368,
+        "num": 1144368,
+        "word": "03 你还有七个学生没毕业",
+        "onboard_time": 1685412027,
+        "rank": 6,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1115603,
+        "num": 1115603,
+        "word": "大熊猫园润遭男子泼水",
+        "onboard_time": 1685414187,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 888317,
+        "num": 888317,
+        "word": "大姑姐 韩国",
+        "onboard_time": 1685402842,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 872855,
+        "num": 872855,
+        "word": "巴特勒",
+        "onboard_time": 1685415329,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 651057,
+        "num": 651057,
+        "word": "金星参加干女儿婚礼",
+        "onboard_time": 1685413050,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 627841,
+        "num": 627841,
+        "word": "五月天演唱会成大型求婚现场",
+        "onboard_time": 1685413408,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 525116,
+        "num": 525116,
+        "word": "YammerS确认已离世",
+        "onboard_time": 1685365350,
+        "rank": 12,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 475838,
+        "num": 475838,
+        "word": "以爱为营",
+        "onboard_time": 1685415329,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 463806,
+        "num": 463806,
+        "word": "官方回应怀孕4个月女子遭家暴",
+        "onboard_time": 1685383995,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451381,
+        "num": 451381,
+        "word": "王源一家人各火各的",
+        "onboard_time": 1685402062,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 421560,
+        "num": 421560,
+        "word": "五月天杭州",
+        "onboard_time": 1685412087,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 389121,
+        "num": 389121,
+        "word": "网友精修王俊凯易烊千玺的脸",
+        "onboard_time": 1685411307,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 374562,
+        "num": 374562,
+        "word": "路人拍的陈都灵",
+        "onboard_time": 1685416288,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291078,
+        "num": 291078,
+        "word": "凯尔特人vs热火",
+        "onboard_time": 1685409568,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372122,
+        "num": 290844,
+        "word": "迪丽热巴笑眼",
+        "onboard_time": 1685414007,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341740,
+        "num": 290116,
+        "word": "男子喜中3302万家人劝他平常心",
+        "onboard_time": 1685413167,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316994,
+        "num": 289466,
+        "word": "苏醒毫不尊重艺人五官的特效",
+        "onboard_time": 1685403146,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291786,
+        "num": 288868,
+        "word": "兄妹四人同时查出肠道肿瘤",
+        "onboard_time": 1685416470,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288846,
+        "num": 288846,
+        "word": "YammerS",
+        "onboard_time": 1685411307,
+        "rank": 24,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 280498,
+        "num": 280498,
+        "word": "网友点评赵露思虞书欣是韩式演技",
+        "onboard_time": 1685401701,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267962,
+        "num": 267962,
+        "word": "掘金",
+        "onboard_time": 1685417008,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 582255,
+        "num": 267110,
+        "word": "曝昆汀花1万美元在夜店舔美女的脚",
+        "onboard_time": 1685402122,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247581,
+        "num": 247581,
+        "word": "热火黑八奇迹还在继续",
+        "onboard_time": 1685416349,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247343,
+        "num": 247343,
+        "word": "白鹿王鹤棣以爱为营床咚路透",
+        "onboard_time": 1685412748,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240211,
+        "num": 240211,
+        "word": "马斯克谈中国航天工程计划",
+        "onboard_time": 1685411125,
+        "rank": 30,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 230744,
+        "num": 230744,
+        "word": "黄晓明让严浩翔卖啊",
+        "onboard_time": 1685416171,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226365,
+        "num": 226365,
+        "word": "四个显眼包",
+        "onboard_time": 1685370753,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223382,
+        "num": 223382,
+        "word": "马嘉祺这伞打了还不如不打",
+        "onboard_time": 1685416829,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208404,
+        "num": 208404,
+        "word": "热火东部冠军",
+        "onboard_time": 1685416349,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207929,
+        "num": 207929,
+        "word": "张萌帮妈妈追星赵露思罗一舟",
+        "onboard_time": 1685412867,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200968,
+        "num": 200968,
+        "word": "坐火箭太爽了",
+        "onboard_time": 1685411547,
+        "rank": 36,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 198255,
+        "num": 198255,
+        "word": "马丁",
+        "onboard_time": 1685413527,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196144,
+        "num": 196144,
+        "word": "官方通报男子砍杀柯基威胁妻子",
+        "onboard_time": 1685371055,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192396,
+        "num": 192396,
+        "word": "Amber说我比所有韩剧欧巴的吻技都好",
+        "onboard_time": 1685407889,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191219,
+        "num": 191219,
+        "word": "我们被卖西瓜老板骗了那么多年",
+        "onboard_time": 1685417609,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186767,
+        "num": 186767,
+        "word": "巴特勒东决MVP",
+        "onboard_time": 1685417429,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182428,
+        "num": 185908,
+        "word": "家电成精是种什么体验",
+        "onboard_time": 1685417549,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185351,
+        "num": 185351,
+        "word": "小时候想长大成为超级英雄",
+        "onboard_time": 1685417130,
+        "rank": 43,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 184159,
+        "num": 184159,
+        "word": "五月天抢票",
+        "onboard_time": 1685417549,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181970,
+        "num": 181970,
+        "word": "导师亲自到太空跑数据去了",
+        "onboard_time": 1685414729,
+        "rank": 45,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 169395,
+        "num": 169395,
+        "word": "演唱会门票秒罄黄牛党捞钱术升级",
+        "onboard_time": 1685417609,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169171,
+        "num": 169171,
+        "word": "杨幂的小黑猫以前vs现在",
+        "onboard_time": 1685407710,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166615,
+        "num": 166615,
+        "word": "杨迪回家了",
+        "onboard_time": 1685417490,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164598,
+        "num": 164598,
+        "word": "刘浩存在海底捞给路人唱生日歌",
+        "onboard_time": 1685371055,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#现在进入神舟十六号时间#"
+    }
+  }
+}
