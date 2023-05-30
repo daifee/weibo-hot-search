@@ -1,7 +1,15 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685411635714,
+  "endTime": 1685414348290,
   "band_list": [
+    {
+      "raw_hot": 4068594,
+      "num": 4637189,
+      "word": "吴谢宇死刑",
+      "onboard_time": 1685411609,
+      "rank": 30,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3796538,
       "num": 3796538,
@@ -291,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1215073,
+      "num": 1215073,
+      "word": "03 你还有七个学生没毕业",
+      "onboard_time": 1685412027,
+      "rank": 1,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 1215052,
       "num": 1215052,
       "word": "丫丫",
@@ -369,6 +385,14 @@
       "onboard_time": 1685314879,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1021923,
+      "num": 1021923,
+      "word": "神十六发射圆满成功",
+      "onboard_time": 1685411188,
+      "rank": 19,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1021542,
@@ -787,6 +811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 507232,
+      "num": 300509,
+      "word": "苏醒毫不尊重艺人五官的特效",
+      "onboard_time": 1685403146,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 502052,
       "num": 502052,
       "word": "原来这是焦虑的表现",
@@ -795,12 +827,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 500043,
-      "num": 300509,
-      "word": "苏醒毫不尊重艺人五官的特效",
-      "onboard_time": 1685403146,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 495614,
+      "num": 495614,
+      "word": "坐火箭太爽了",
+      "onboard_time": 1685411547,
+      "rank": 43,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 494476,
@@ -1019,14 +1051,6 @@
       "category": "音乐,幽默"
     },
     {
-      "raw_hot": 391127,
-      "num": 220869,
-      "word": "吴谢宇死刑",
-      "onboard_time": 1685411609,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 382587,
       "num": 382587,
       "word": "天蝎座在感情中太矛盾了",
@@ -1123,6 +1147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 358845,
+      "num": 358845,
+      "word": "杨幂的小黑猫以前vs现在",
+      "onboard_time": 1685407710,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 358831,
       "num": 325178,
       "word": "迪丽热巴立flag发100多张自拍",
@@ -1137,6 +1169,14 @@
       "onboard_time": 1685288011,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355896,
+      "num": 267980,
+      "word": "白鹿王鹤棣以爱为营床咚路透",
+      "onboard_time": 1685412748,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 351145,
@@ -1177,6 +1217,14 @@
       "onboard_time": 1685406931,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 342661,
+      "num": 342661,
+      "word": "马斯克谈中国航天工程计划",
+      "onboard_time": 1685411125,
+      "rank": 31,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 337870,
@@ -1323,12 +1371,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 310002,
+      "num": 310002,
+      "word": "凯尔特人vs热火",
+      "onboard_time": 1685409568,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 308645,
       "num": 308645,
       "word": "曾毅宝石老舅说唱好绝",
       "onboard_time": 1685337868,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 308370,
+      "num": 265936,
+      "word": "马丁",
+      "onboard_time": 1685413527,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 307382,
@@ -1353,14 +1417,6 @@
       "onboard_time": 1685356646,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 302819,
-      "num": 302819,
-      "word": "神十六发射圆满成功",
-      "onboard_time": 1685411188,
-      "rank": 19,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 299753,
@@ -1433,6 +1489,14 @@
       "onboard_time": 1685290765,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 281504,
+      "num": 281504,
+      "word": "网友精修王俊凯易烊千玺的脸",
+      "onboard_time": 1685411307,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 280574,
@@ -1595,6 +1659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 261332,
+      "num": 261332,
+      "word": "金星参加干女儿婚礼",
+      "onboard_time": 1685413050,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260518,
       "num": 260518,
       "word": "孟子义我们不是死绿茶",
@@ -1659,20 +1731,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254754,
+      "num": 254754,
+      "word": "张艺兴演唱会剪影预告海报",
+      "onboard_time": 1685413770,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 252334,
       "num": 252334,
       "word": "C919飞往成都",
       "onboard_time": 1685325687,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251889,
-      "num": 251889,
-      "word": "杨幂的小黑猫以前vs现在",
-      "onboard_time": 1685407710,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 250951,
@@ -1723,6 +1795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246860,
+      "num": 246860,
+      "word": "被同事阴阳如何回怼",
+      "onboard_time": 1685413770,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 246220,
       "num": 246220,
       "word": "LPL夏季赛",
@@ -1761,14 +1841,6 @@
       "onboard_time": 1685339307,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 243166,
-      "num": 220516,
-      "word": "马斯克谈中国航天工程计划",
-      "onboard_time": 1685411125,
-      "rank": 31,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 243136,
@@ -1819,6 +1891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237953,
+      "num": 237953,
+      "word": "男子喜中3302万家人劝他平常心",
+      "onboard_time": 1685413167,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237242,
       "num": 237242,
       "word": "桂海潮",
@@ -1833,14 +1913,6 @@
       "onboard_time": 1685316804,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230143,
-      "num": 230143,
-      "word": "凯尔特人vs热火",
-      "onboard_time": 1685409568,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 229831,
@@ -1929,6 +2001,14 @@
       "onboard_time": 1685353828,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 217177,
+      "num": 217177,
+      "word": "NBA",
+      "onboard_time": 1685409389,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 216752,
@@ -2123,6 +2203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 199292,
+      "num": 199292,
+      "word": "五月天杭州",
+      "onboard_time": 1685412087,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 198616,
       "num": 198616,
       "word": "看来这只猫作恶多端不是一两天了",
@@ -2315,6 +2403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187041,
+      "num": 187041,
+      "word": "黄子韬的中二魂",
+      "onboard_time": 1685413770,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185720,
       "num": 185720,
       "word": "被砍死柯基主人正在派出所补充材料",
@@ -2355,20 +2451,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 183473,
-      "num": 183473,
-      "word": "NBA",
-      "onboard_time": 1685409389,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 183084,
       "num": 183084,
       "word": "刘亦菲仿妆小烟熏画法",
       "onboard_time": 1685377464,
       "rank": 44,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 182821,
+      "num": 182821,
+      "word": "张萌帮妈妈追星赵露思罗一舟",
+      "onboard_time": 1685412867,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 181486,
@@ -2531,6 +2627,14 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 167147,
+      "num": 167147,
+      "word": "阿德巴约",
+      "onboard_time": 1685413050,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166892,
       "num": 166892,
       "word": "当妈后就爱给孩子买衣服",
@@ -2545,6 +2649,14 @@
       "onboard_time": 1685318004,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165721,
+      "num": 165721,
+      "word": "迪丽热巴笑眼",
+      "onboard_time": 1685414007,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 164645,
@@ -2563,12 +2675,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161745,
+      "num": 161745,
+      "word": "春色寄情人编剧回应周雨彤NG",
+      "onboard_time": 1685414248,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 161355,
       "num": 161355,
       "word": "看到桂海潮的心路历程",
       "onboard_time": 1685373573,
       "rank": 45,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 160011,
+      "num": 160011,
+      "word": "灿烂灿烂",
+      "onboard_time": 1685413228,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 159782,
@@ -2595,20 +2723,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 159050,
-      "num": 159050,
-      "word": "坐火箭太爽了",
-      "onboard_time": 1685411547,
-      "rank": 43,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 158795,
       "num": 158795,
       "word": "全职高手",
       "onboard_time": 1685316203,
       "rank": 23,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 158648,
+      "num": 158648,
+      "word": "五月天演唱会成大型求婚现场",
+      "onboard_time": 1685413408,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 156082,
@@ -2632,6 +2760,22 @@
       "word": "年轻人的生育意愿为什么越来越低",
       "onboard_time": 1685270610,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154197,
+      "num": 154197,
+      "word": "妻子将亡夫公益事业扩大225倍",
+      "onboard_time": 1685413828,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153301,
+      "num": 153301,
+      "word": "大熊猫园润遭男子泼水",
+      "onboard_time": 1685414187,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -2665,6 +2809,14 @@
       "onboard_time": 1685349267,
       "rank": 44,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 150521,
+      "num": 150521,
+      "word": "宋亚轩撑伞上学",
+      "onboard_time": 1685412147,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 148901,
@@ -2705,14 +2857,6 @@
       "onboard_time": 1685354190,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 145424,
-      "num": 145424,
-      "word": "网友精修王俊凯易烊千玺的脸",
-      "onboard_time": 1685411307,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 145314,

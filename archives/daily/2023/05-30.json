@@ -1,7 +1,15 @@
 {
   "startTime": 1685377320709,
-  "endTime": 1685411635714,
+  "endTime": 1685414348290,
   "band_list": [
+    {
+      "raw_hot": 4068594,
+      "num": 4637189,
+      "word": "吴谢宇死刑",
+      "onboard_time": 1685411609,
+      "rank": 30,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2404694,
       "num": 2404694,
@@ -51,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1215073,
+      "num": 1215073,
+      "word": "03 你还有七个学生没毕业",
+      "onboard_time": 1685412027,
+      "rank": 1,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 1181979,
       "num": 645195,
       "word": "曝昆汀花1万美元在夜店舔美女的脚",
@@ -81,6 +97,14 @@
       "onboard_time": 1685370753,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1021923,
+      "num": 1021923,
+      "word": "神十六发射圆满成功",
+      "onboard_time": 1685411188,
+      "rank": 19,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 999225,
@@ -155,6 +179,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 507232,
+      "num": 300509,
+      "word": "苏醒毫不尊重艺人五官的特效",
+      "onboard_time": 1685403146,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 502052,
       "num": 502052,
       "word": "原来这是焦虑的表现",
@@ -163,12 +195,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 500043,
-      "num": 300509,
-      "word": "苏醒毫不尊重艺人五官的特效",
-      "onboard_time": 1685403146,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 495614,
+      "num": 495614,
+      "word": "坐火箭太爽了",
+      "onboard_time": 1685411547,
+      "rank": 43,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 485950,
@@ -203,14 +235,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 391127,
-      "num": 220869,
-      "word": "吴谢宇死刑",
-      "onboard_time": 1685411609,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 373279,
       "num": 373279,
       "word": "新娘坐婚车睡着新郎一路托着头",
@@ -227,12 +251,36 @@
       "category": "社会新闻,游戏"
     },
     {
+      "raw_hot": 358845,
+      "num": 358845,
+      "word": "杨幂的小黑猫以前vs现在",
+      "onboard_time": 1685407710,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 355896,
+      "num": 267980,
+      "word": "白鹿王鹤棣以爱为营床咚路透",
+      "onboard_time": 1685412748,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 345118,
       "num": 345118,
       "word": "迪丽热巴演出了检察官的正义感",
       "onboard_time": 1685406931,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 342661,
+      "num": 342661,
+      "word": "马斯克谈中国航天工程计划",
+      "onboard_time": 1685411125,
+      "rank": 31,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 334148,
@@ -267,6 +315,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310002,
+      "num": 310002,
+      "word": "凯尔特人vs热火",
+      "onboard_time": 1685409568,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 308370,
+      "num": 265936,
+      "word": "马丁",
+      "onboard_time": 1685413527,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 306741,
       "num": 306741,
       "word": "YammerS",
@@ -283,14 +347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 302819,
-      "num": 302819,
-      "word": "神十六发射圆满成功",
-      "onboard_time": 1685411188,
-      "rank": 19,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 299753,
       "num": 276626,
       "word": "凯尔特人",
@@ -305,6 +361,14 @@
       "onboard_time": 1685358929,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281504,
+      "num": 281504,
+      "word": "网友精修王俊凯易烊千玺的脸",
+      "onboard_time": 1685411307,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 279870,
@@ -331,6 +395,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 261332,
+      "num": 261332,
+      "word": "金星参加干女儿婚礼",
+      "onboard_time": 1685413050,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256068,
       "num": 225208,
       "word": "前夫婚礼现场女子拉横幅祝其纳妾",
@@ -347,12 +419,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 251889,
-      "num": 251889,
-      "word": "杨幂的小黑猫以前vs现在",
-      "onboard_time": 1685407710,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 254754,
+      "num": 254754,
+      "word": "张艺兴演唱会剪影预告海报",
+      "onboard_time": 1685413770,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 248501,
@@ -363,12 +435,12 @@
       "category": "社会新闻,游戏"
     },
     {
-      "raw_hot": 243166,
-      "num": 220516,
-      "word": "马斯克谈中国航天工程计划",
-      "onboard_time": 1685411125,
-      "rank": 31,
-      "category": "社会新闻,科技"
+      "raw_hot": 246860,
+      "num": 246860,
+      "word": "被同事阴阳如何回怼",
+      "onboard_time": 1685413770,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 241827,
@@ -387,12 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 230143,
-      "num": 230143,
-      "word": "凯尔特人vs热火",
-      "onboard_time": 1685409568,
-      "rank": 25,
-      "category": "体育"
+      "raw_hot": 237953,
+      "num": 237953,
+      "word": "男子喜中3302万家人劝他平常心",
+      "onboard_time": 1685413167,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225556,
@@ -433,6 +505,14 @@
       "onboard_time": 1685371417,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217177,
+      "num": 217177,
+      "word": "NBA",
+      "onboard_time": 1685409389,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 214825,
@@ -483,12 +563,28 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 199292,
+      "num": 199292,
+      "word": "五月天杭州",
+      "onboard_time": 1685412087,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 192083,
       "num": 192083,
       "word": "高考700分是种什么概念",
       "onboard_time": 1685406509,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 187041,
+      "num": 187041,
+      "word": "黄子韬的中二魂",
+      "onboard_time": 1685413770,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 184296,
@@ -499,20 +595,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 183473,
-      "num": 183473,
-      "word": "NBA",
-      "onboard_time": 1685409389,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 183084,
       "num": 183084,
       "word": "刘亦菲仿妆小烟熏画法",
       "onboard_time": 1685377464,
       "rank": 44,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 182821,
+      "num": 182821,
+      "word": "张萌帮妈妈追星赵露思罗一舟",
+      "onboard_time": 1685412867,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 181486,
@@ -603,6 +699,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167147,
+      "num": 167147,
+      "word": "阿德巴约",
+      "onboard_time": 1685413050,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 165721,
+      "num": 165721,
+      "word": "迪丽热巴笑眼",
+      "onboard_time": 1685414007,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163835,
       "num": 163835,
       "word": "10岁男孩牵着弟弟冷静报警救妈妈",
@@ -611,12 +723,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159050,
-      "num": 159050,
-      "word": "坐火箭太爽了",
-      "onboard_time": 1685411547,
+      "raw_hot": 161745,
+      "num": 161745,
+      "word": "春色寄情人编剧回应周雨彤NG",
+      "onboard_time": 1685414248,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 160011,
+      "num": 160011,
+      "word": "灿烂灿烂",
+      "onboard_time": 1685413228,
       "rank": 43,
-      "category": "社会新闻,科技"
+      "category": "影视"
+    },
+    {
+      "raw_hot": 158648,
+      "num": 158648,
+      "word": "五月天演唱会成大型求婚现场",
+      "onboard_time": 1685413408,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 155410,
@@ -624,6 +752,30 @@
       "word": "TFBOYS十周年有望合体",
       "onboard_time": 1685360308,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 154197,
+      "num": 154197,
+      "word": "妻子将亡夫公益事业扩大225倍",
+      "onboard_time": 1685413828,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153301,
+      "num": 153301,
+      "word": "大熊猫园润遭男子泼水",
+      "onboard_time": 1685414187,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150521,
+      "num": 150521,
+      "word": "宋亚轩撑伞上学",
+      "onboard_time": 1685412147,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -649,14 +801,6 @@
       "onboard_time": 1685409328,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 145424,
-      "num": 145424,
-      "word": "网友精修王俊凯易烊千玺的脸",
-      "onboard_time": 1685411307,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 142274,
