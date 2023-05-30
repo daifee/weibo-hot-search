@@ -1,0 +1,410 @@
+{
+  "runTime": 1685456117969,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2514548,
+        "num": 2514548,
+        "word": "迪丽热巴第二套",
+        "onboard_time": 1685451033,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2028843,
+        "num": 2028843,
+        "word": "杨幂 谢依霖",
+        "onboard_time": 1685448932,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122708,
+        "num": 1719376,
+        "word": "成都大运宣传片是懂转场的",
+        "onboard_time": 1685454336,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1549027,
+        "num": 1549027,
+        "word": "赵丽颖露背",
+        "onboard_time": 1685440949,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1400313,
+        "num": 1400313,
+        "word": "迪丽热巴 刚出水的美人鱼",
+        "onboard_time": 1685444071,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1285898,
+        "num": 1285898,
+        "word": "贤合庄北京门店全部关闭",
+        "onboard_time": 1685447129,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1136890,
+        "num": 1136890,
+        "word": "Angelababy红毯从来没有失手过",
+        "onboard_time": 1685447909,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 864381,
+        "num": 864381,
+        "word": "Cat",
+        "onboard_time": 1685450552,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 495260,
+        "num": 495260,
+        "word": "上海白蚁",
+        "onboard_time": 1685451096,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437685,
+        "num": 437685,
+        "word": "丫丫回家后判若两熊",
+        "onboard_time": 1685431951,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3744262,
+        "num": 428272,
+        "word": "阚清子被男友求婚",
+        "onboard_time": 1685450613,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 975560,
+        "num": 411711,
+        "word": "杨紫迪丽热巴内场同框",
+        "onboard_time": 1685453917,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 681482,
+        "num": 410505,
+        "word": "唐嫣露腿了",
+        "onboard_time": 1685443830,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 371644,
+        "num": 371644,
+        "word": "有些取件码报着报着就唱起来了",
+        "onboard_time": 1685439269,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 366693,
+        "num": 366693,
+        "word": "清清 挂牌",
+        "onboard_time": 1685446711,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 621258,
+        "num": 331807,
+        "word": "怪不得杨幂不去芭莎盛典",
+        "onboard_time": 1685440470,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 519130,
+        "num": 307265,
+        "word": "萌萌离世前经历了什么",
+        "onboard_time": 1685450796,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276477,
+        "num": 276477,
+        "word": "坠楼瞬间他用身体死死护住小女孩",
+        "onboard_time": 1685421696,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249926,
+        "num": 249926,
+        "word": "泽连斯基称已确定反攻日期",
+        "onboard_time": 1685447433,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 249712,
+        "num": 249712,
+        "word": "麻将馆一女子怀抱孩子遭男子暴打",
+        "onboard_time": 1685453253,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513589,
+        "num": 247229,
+        "word": "娱乐圈文女主宋茜",
+        "onboard_time": 1685454514,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 499720,
+        "num": 244048,
+        "word": "杨紫摄影师出来聊聊",
+        "onboard_time": 1685436270,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 313570,
+        "num": 241443,
+        "word": "2023KPL夏季转会期",
+        "onboard_time": 1685455657,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 302729,
+        "num": 237801,
+        "word": "爸爸喜得千金秒变显眼包",
+        "onboard_time": 1685452776,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237089,
+        "num": 237089,
+        "word": "女生要不要下嫁陪心爱的穷男生吃苦",
+        "onboard_time": 1685449170,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 430773,
+        "num": 235465,
+        "word": "迪丽热巴出图了吗",
+        "onboard_time": 1685439929,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 399938,
+        "num": 235392,
+        "word": "刘宇宁 综艺",
+        "onboard_time": 1685454158,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395969,
+        "num": 235284,
+        "word": "杨紫范丞丞在聊什么",
+        "onboard_time": 1685449231,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232905,
+        "num": 232905,
+        "word": "狼队",
+        "onboard_time": 1685454576,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217218,
+        "num": 217218,
+        "word": "帆帆挂牌",
+        "onboard_time": 1685454814,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 387653,
+        "num": 213045,
+        "word": "黄晓明尹正亲上了",
+        "onboard_time": 1685440949,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371425,
+        "num": 210566,
+        "word": "赵丽颖内场",
+        "onboard_time": 1685455233,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 282710,
+        "num": 206344,
+        "word": "G社拍的赵露思",
+        "onboard_time": 1685441309,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 200435,
+        "num": 200435,
+        "word": "梁建章建议女儿随母姓",
+        "onboard_time": 1685455538,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199819,
+        "num": 199819,
+        "word": "狼队挂牌名单",
+        "onboard_time": 1685455233,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279266,
+        "num": 197638,
+        "word": "杨幂牛奶长靴",
+        "onboard_time": 1685446950,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262989,
+        "num": 197486,
+        "word": "张彬彬吴倩吻到脸红心跳",
+        "onboard_time": 1685444609,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357855,
+        "num": 194238,
+        "word": "王嘉尔帮Angelababy扶外套",
+        "onboard_time": 1685449952,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190901,
+        "num": 190901,
+        "word": "20岁小伙月入6000背百万房贷",
+        "onboard_time": 1685427808,
+        "rank": 38,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 189400,
+        "num": 189400,
+        "word": "广州TTG",
+        "onboard_time": 1685451215,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 256395,
+        "num": 188914,
+        "word": "苏打绿 免费演唱会",
+        "onboard_time": 1685454875,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 247069,
+        "num": 187446,
+        "word": "密室大逃脱",
+        "onboard_time": 1685441669,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205255,
+        "num": 186699,
+        "word": "刘慈欣又立项了 吴京又来了",
+        "onboard_time": 1685455474,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204238,
+        "num": 185737,
+        "word": "时代姐妹花 永远不分家",
+        "onboard_time": 1685452178,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185012,
+        "num": 185012,
+        "word": "千万不要害怕一个人的生活",
+        "onboard_time": 1685445512,
+        "rank": 44,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 167984,
+        "num": 184875,
+        "word": "离婚了30万彩礼该不该返还",
+        "onboard_time": 1685430087,
+        "rank": 45,
+        "category": "社会议题,情感"
+      },
+      {
+        "raw_hot": 134949,
+        "num": 183537,
+        "word": "一旦有射手座的好朋友",
+        "onboard_time": 1685455116,
+        "rank": 46,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 127700,
+        "num": 182679,
+        "word": "90后为什么不喝星巴克了",
+        "onboard_time": 1685434768,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102396,
+        "num": 182081,
+        "word": "马斯克私人飞机降落北京",
+        "onboard_time": 1685432128,
+        "rank": 48,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 89980,
+        "num": 181103,
+        "word": "hmpv",
+        "onboard_time": 1685454994,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#神十六发射圆满成功#"
+    }
+  }
+}

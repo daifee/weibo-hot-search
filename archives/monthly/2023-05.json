@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685453606638,
+  "endTime": 1685456117969,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -1187,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2514548,
+      "num": 2514548,
+      "word": "迪丽热巴第二套",
+      "onboard_time": 1685451033,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2514292,
       "num": 2514292,
       "word": "被曝11年前性侵学生教授临近退休",
@@ -1345,14 +1353,6 @@
       "onboard_time": 1684291530,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2389557,
-      "num": 2389557,
-      "word": "迪丽热巴第二套",
-      "onboard_time": 1685451033,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 2386641,
@@ -4172,7 +4172,7 @@
     },
     {
       "raw_hot": 1560919,
-      "num": 1396575,
+      "num": 1549027,
       "word": "赵丽颖露背",
       "onboard_time": 1685440949,
       "rank": 14,
@@ -6145,6 +6145,14 @@
       "onboard_time": 1683533135,
       "rank": 12,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1285898,
+      "num": 1285898,
+      "word": "贤合庄北京门店全部关闭",
+      "onboard_time": 1685447129,
+      "rank": 8,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1285558,
@@ -8987,6 +8995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 975560,
+      "num": 411711,
+      "word": "杨紫迪丽热巴内场同框",
+      "onboard_time": 1685453917,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 975094,
       "num": 975094,
       "word": "俄罗斯阅兵",
@@ -9105,14 +9121,6 @@
       "onboard_time": 1684105399,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 965743,
-      "num": 965743,
-      "word": "贤合庄北京门店全部关闭",
-      "onboard_time": 1685447129,
-      "rank": 8,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 963593,
@@ -10185,6 +10193,14 @@
       "onboard_time": 1683609869,
       "rank": 11,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 864381,
+      "num": 864381,
+      "word": "Cat",
+      "onboard_time": 1685450552,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 863717,
@@ -17099,6 +17115,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 519130,
+      "num": 307265,
+      "word": "萌萌离世前经历了什么",
+      "onboard_time": 1685450796,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 519021,
       "num": 519021,
       "word": "华晨宇的音乐是挑观众的",
@@ -17235,14 +17259,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 515689,
-      "num": 515689,
-      "word": "Cat",
-      "onboard_time": 1685450552,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 515588,
       "num": 515588,
       "word": "JDG对战BLG",
@@ -17297,6 +17313,14 @@
       "onboard_time": 1684624398,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 513589,
+      "num": 247229,
+      "word": "娱乐圈文女主宋茜",
+      "onboard_time": 1685454514,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 513505,
@@ -17819,14 +17843,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 501066,
-      "num": 300057,
-      "word": "萌萌离世前经历了什么",
-      "onboard_time": 1685450796,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 501059,
       "num": 501059,
       "word": "gidle先行曲MV疑似抄袭",
@@ -17977,6 +17993,14 @@
       "onboard_time": 1684815273,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 495260,
+      "num": 495260,
+      "word": "上海白蚁",
+      "onboard_time": 1685451096,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 494841,
@@ -22963,6 +22987,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 399938,
+      "num": 235392,
+      "word": "刘宇宁 综艺",
+      "onboard_time": 1685454158,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 399785,
       "num": 399785,
       "word": "好利来罗成辟谣未婚妻传闻",
@@ -24969,6 +25001,14 @@
       "onboard_time": 1683961408,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 371425,
+      "num": 210566,
+      "word": "赵丽颖内场",
+      "onboard_time": 1685455233,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 370989,
@@ -29939,6 +29979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313570,
+      "num": 241443,
+      "word": "2023KPL夏季转会期",
+      "onboard_time": 1684150048,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 313462,
       "num": 313462,
       "word": "杭州亚运会电竞国家队名单来了",
@@ -30825,6 +30873,14 @@
       "onboard_time": 1683423207,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 302729,
+      "num": 250301,
+      "word": "爸爸喜得千金秒变显眼包",
+      "onboard_time": 1685452776,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302690,
@@ -36419,6 +36475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256395,
+      "num": 188914,
+      "word": "苏打绿 免费演唱会",
+      "onboard_time": 1685454875,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 256255,
       "num": 256255,
       "word": "马嘉祺演唱会高音",
@@ -37384,6 +37448,14 @@
       "word": "警方通报村民撞到村长狗被打",
       "onboard_time": 1683250767,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249712,
+      "num": 249712,
+      "word": "麻将馆一女子怀抱孩子遭男子暴打",
+      "onboard_time": 1685453253,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -40123,6 +40195,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 232905,
+      "num": 232905,
+      "word": "狼队",
+      "onboard_time": 1685454576,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232891,
       "num": 232891,
       "word": "樊振东王楚钦vs张禹珍林钟勋",
@@ -41755,14 +41835,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 222860,
-      "num": 303810,
-      "word": "上海白蚁",
-      "onboard_time": 1685451096,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222855,
       "num": 222855,
       "word": "久酷 ttg傲寒",
@@ -42696,6 +42768,14 @@
       "word": "DOU5对战成都GG",
       "onboard_time": 1683116068,
       "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 217218,
+      "num": 217218,
+      "word": "帆帆挂牌",
+      "onboard_time": 1685454814,
+      "rank": 29,
       "category": "游戏"
     },
     {
@@ -44811,6 +44891,14 @@
       "category": "动漫,幽默"
     },
     {
+      "raw_hot": 205255,
+      "num": 186699,
+      "word": "刘慈欣又立项了 吴京又来了",
+      "onboard_time": 1685455474,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205229,
       "num": 205229,
       "word": "BLG也是LPL的骄傲",
@@ -45827,6 +45915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200435,
+      "num": 200435,
+      "word": "梁建章建议女儿随母姓",
+      "onboard_time": 1685455538,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200414,
       "num": 200414,
       "word": "威神V",
@@ -45945,6 +46041,14 @@
       "onboard_time": 1685210894,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199819,
+      "num": 199819,
+      "word": "狼队挂牌名单",
+      "onboard_time": 1685455233,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 199806,
@@ -52283,14 +52387,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 168546,
-      "num": 250301,
-      "word": "爸爸喜得千金秒变显眼包",
-      "onboard_time": 1685452776,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168530,
       "num": 122138,
       "word": "目击者讲述济南服务区撞人事故",
@@ -56123,14 +56219,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 147278,
-      "num": 147278,
-      "word": "2023KPL夏季转会期",
-      "onboard_time": 1684150048,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 147245,
       "num": 147245,
       "word": "8岁男孩用近500魔方拼画表白妈妈",
@@ -57867,6 +57955,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 134949,
+      "num": 183537,
+      "word": "一旦有射手座的好朋友",
+      "onboard_time": 1685455116,
+      "rank": 46,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 134750,
       "num": 134750,
       "word": "亚运征途",
@@ -59577,6 +59673,14 @@
       "onboard_time": 1685159249,
       "rank": 41,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 122708,
+      "num": 1719376,
+      "word": "成都大运宣传片是懂转场的",
+      "onboard_time": 1685454336,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122579,
@@ -62251,6 +62355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 89980,
+      "num": 181103,
+      "word": "hmpv",
+      "onboard_time": 1685454994,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89852,
       "num": 89852,
       "word": "背负18颗钢钉重庆小伙成功登顶珠峰",
@@ -62553,14 +62665,6 @@
       "onboard_time": 1682872222,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 83814,
-      "num": 227078,
-      "word": "麻将馆一女子怀抱孩子遭男子暴打",
-      "onboard_time": 1685453253,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83587,

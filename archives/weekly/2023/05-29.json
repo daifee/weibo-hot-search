@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685453606638,
+  "endTime": 1685456117969,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -83,8 +83,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2389557,
-      "num": 2389557,
+      "raw_hot": 2514548,
+      "num": 2514548,
       "word": "迪丽热巴第二套",
       "onboard_time": 1685451033,
       "rank": 25,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 1560919,
-      "num": 1396575,
+      "num": 1549027,
       "word": "赵丽颖露背",
       "onboard_time": 1685440949,
       "rank": 14,
@@ -449,6 +449,14 @@
       "onboard_time": 1685325928,
       "rank": 6,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 1285898,
+      "num": 1285898,
+      "word": "贤合庄北京门店全部关闭",
+      "onboard_time": 1685447129,
+      "rank": 8,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1282998,
@@ -667,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 975560,
+      "num": 411711,
+      "word": "杨紫迪丽热巴内场同框",
+      "onboard_time": 1685453917,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 970422,
       "num": 589983,
       "word": "柯基",
@@ -681,14 +697,6 @@
       "onboard_time": 1685276908,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 965743,
-      "num": 965743,
-      "word": "贤合庄北京门店全部关闭",
-      "onboard_time": 1685447129,
-      "rank": 8,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 961186,
@@ -753,6 +761,14 @@
       "onboard_time": 1685415329,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 864381,
+      "num": 864381,
+      "word": "Cat",
+      "onboard_time": 1685450552,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 862330,
@@ -1299,6 +1315,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 519130,
+      "num": 307265,
+      "word": "萌萌离世前经历了什么",
+      "onboard_time": 1685450796,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 519124,
       "num": 519124,
       "word": "丫丫已落地北京",
@@ -1315,12 +1339,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 515689,
-      "num": 515689,
-      "word": "Cat",
-      "onboard_time": 1685450552,
-      "rank": 39,
-      "category": "游戏"
+      "raw_hot": 513589,
+      "num": 247229,
+      "word": "娱乐圈文女主宋茜",
+      "onboard_time": 1685454514,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 509432,
@@ -1379,14 +1403,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 501066,
-      "num": 300057,
-      "word": "萌萌离世前经历了什么",
-      "onboard_time": 1685450796,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 497099,
       "num": 270488,
       "word": "范丞丞 裙子",
@@ -1401,6 +1417,14 @@
       "onboard_time": 1685411547,
       "rank": 43,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 495260,
+      "num": 495260,
+      "word": "上海白蚁",
+      "onboard_time": 1685451096,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 494476,
@@ -1707,6 +1731,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 399938,
+      "num": 235392,
+      "word": "刘宇宁 综艺",
+      "onboard_time": 1685454158,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 397942,
       "num": 191708,
       "word": "时尚芭莎内场",
@@ -1809,6 +1841,14 @@
       "onboard_time": 1685414007,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 371425,
+      "num": 210566,
+      "word": "赵丽颖内场",
+      "onboard_time": 1685455233,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 370982,
@@ -2243,6 +2283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313570,
+      "num": 241443,
+      "word": "2023KPL夏季转会期",
+      "onboard_time": 1685455657,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 312385,
       "num": 312385,
       "word": "茅台冰淇淋一年卖出近千万杯",
@@ -2320,6 +2368,14 @@
       "word": "肠道是熬夜猝死元凶之一",
       "onboard_time": 1685356646,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302729,
+      "num": 250301,
+      "word": "爸爸喜得千金秒变显眼包",
+      "onboard_time": 1685452776,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2747,6 +2803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 256395,
+      "num": 188914,
+      "word": "苏打绿 免费演唱会",
+      "onboard_time": 1685454875,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 256068,
       "num": 225208,
       "word": "前夫婚礼现场女子拉横幅祝其纳妾",
@@ -2857,6 +2921,14 @@
       "onboard_time": 1685279008,
       "rank": 24,
       "category": "科技"
+    },
+    {
+      "raw_hot": 249712,
+      "num": 249712,
+      "word": "麻将馆一女子怀抱孩子遭男子暴打",
+      "onboard_time": 1685453253,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249668,
@@ -3059,6 +3131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 232905,
+      "num": 232905,
+      "word": "狼队",
+      "onboard_time": 1685454576,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232500,
       "num": 232500,
       "word": "莫斯科遭无人机袭击",
@@ -3195,14 +3275,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 222860,
-      "num": 303810,
-      "word": "上海白蚁",
-      "onboard_time": 1685451096,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222620,
       "num": 222620,
       "word": "陕西事业单位",
@@ -3265,6 +3337,14 @@
       "onboard_time": 1685353828,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 217218,
+      "num": 217218,
+      "word": "帆帆挂牌",
+      "onboard_time": 1685454814,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 216752,
@@ -3443,6 +3523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 205255,
+      "num": 186699,
+      "word": "刘慈欣又立项了 吴京又来了",
+      "onboard_time": 1685455474,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204951,
       "num": 204951,
       "word": "NIP对战EDG",
@@ -3555,6 +3643,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 200435,
+      "num": 200435,
+      "word": "梁建章建议女儿随母姓",
+      "onboard_time": 1685455538,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200414,
       "num": 200414,
       "word": "张艺兴大航海三巡预热",
@@ -3577,6 +3673,14 @@
       "onboard_time": 1685427328,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199819,
+      "num": 199819,
+      "word": "狼队挂牌名单",
+      "onboard_time": 1685455233,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 199806,
@@ -4131,14 +4235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168546,
-      "num": 250301,
-      "word": "爸爸喜得千金秒变显眼包",
-      "onboard_time": 1685452776,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168466,
       "num": 242464,
       "word": "和同频的人在一起真的很幸福",
@@ -4547,6 +4643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134949,
+      "num": 183537,
+      "word": "一旦有射手座的好朋友",
+      "onboard_time": 1685455116,
+      "rank": 46,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 134694,
       "num": 330129,
       "word": "荣耀90首发2亿像素写真相机",
@@ -4721,6 +4825,14 @@
       "onboard_time": 1685282854,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122708,
+      "num": 1719376,
+      "word": "成都大运宣传片是懂转场的",
+      "onboard_time": 1685454336,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122327,
@@ -4931,6 +5043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89980,
+      "num": 181103,
+      "word": "hmpv",
+      "onboard_time": 1685454994,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89729,
       "num": 156860,
       "word": "FPX战胜TT",
@@ -4961,14 +5081,6 @@
       "onboard_time": 1685316564,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 83814,
-      "num": 227078,
-      "word": "麻将馆一女子怀抱孩子遭男子暴打",
-      "onboard_time": 1685453253,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83504,
