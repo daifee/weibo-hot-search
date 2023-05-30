@@ -1,0 +1,410 @@
+{
+  "runTime": 1685427688287,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1787484,
+        "num": 1787484,
+        "word": "华晨宇加入LGD",
+        "onboard_time": 1685420674,
+        "rank": 0,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 1476415,
+        "num": 1476415,
+        "word": "演唱会门票秒罄黄牛党捞钱术升级",
+        "onboard_time": 1685417609,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42548,
+        "num": 1353288,
+        "word": "一人一句祝福神十六",
+        "onboard_time": 1685405549,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1304111,
+        "num": 1304111,
+        "word": "吴谢宇死刑",
+        "onboard_time": 1685411609,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1077948,
+        "num": 1077948,
+        "word": "陶昕然发博寻5年前飞机邻座男士",
+        "onboard_time": 1685416408,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 937081,
+        "num": 937081,
+        "word": "身体缺什么 嘴巴早知道",
+        "onboard_time": 1685423972,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 747121,
+        "num": 747121,
+        "word": "四川自来水公司呼吁每月洗澡2到4次",
+        "onboard_time": 1685418811,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 736930,
+        "num": 736930,
+        "word": "女子输液被陌生男子拔针扎进水桶",
+        "onboard_time": 1685420432,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709820,
+        "num": 709820,
+        "word": "兄妹四人同时查出肠道肿瘤",
+        "onboard_time": 1685416470,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542659,
+        "num": 542659,
+        "word": "03 你还有七个学生没毕业",
+        "onboard_time": 1685412027,
+        "rank": 9,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 932961,
+        "num": 541379,
+        "word": "宋轶白敬亭好嗑",
+        "onboard_time": 1685423972,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 491322,
+        "num": 491322,
+        "word": "一杯奶茶钱可以买这么多东西",
+        "onboard_time": 1685418931,
+        "rank": 11,
+        "category": "财经,幽默"
+      },
+      {
+        "raw_hot": 489935,
+        "num": 489935,
+        "word": "二姗开始备孕",
+        "onboard_time": 1685421516,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 476012,
+        "num": 476012,
+        "word": "生孩子到底能治什么病",
+        "onboard_time": 1685423911,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46628,
+        "num": 433521,
+        "word": "第一书记离任村民冒雨含泪送别",
+        "onboard_time": 1685427148,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427433,
+        "num": 427433,
+        "word": "秦昊恋爱脑",
+        "onboard_time": 1685426371,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367966,
+        "num": 367966,
+        "word": "小县城十八万八的彩礼合理吗",
+        "onboard_time": 1685405430,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 340958,
+        "num": 340958,
+        "word": "在成都太古里偶遇杨洋",
+        "onboard_time": 1685425170,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333949,
+        "num": 333949,
+        "word": "农行宣布将清理个人长期不动存折账户",
+        "onboard_time": 1685418568,
+        "rank": 18,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 307034,
+        "num": 307034,
+        "word": "张彬彬脱大衣裹住吴倩",
+        "onboard_time": 1685421274,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323590,
+        "num": 306074,
+        "word": "成毅剧组拿高压水枪喷代拍",
+        "onboard_time": 1685425588,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 302162,
+        "num": 302162,
+        "word": "坠楼瞬间他用身体死死护住小女孩",
+        "onboard_time": 1685421696,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284239,
+        "num": 284239,
+        "word": "专家称女性独立的副作用是生育下降",
+        "onboard_time": 1685426670,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280708,
+        "num": 280708,
+        "word": "这居然是安陵容",
+        "onboard_time": 1685420373,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272218,
+        "num": 272218,
+        "word": "大姑姐 韩国",
+        "onboard_time": 1685402842,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265096,
+        "num": 265096,
+        "word": "李昇基清空ins",
+        "onboard_time": 1685421696,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255764,
+        "num": 255764,
+        "word": "赵露思是韩网豆瓣排名中国女艺人第一",
+        "onboard_time": 1685420254,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252878,
+        "num": 252878,
+        "word": "丁程鑫刘宇同框",
+        "onboard_time": 1685426908,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213696,
+        "num": 213696,
+        "word": "考研进清华和高考进清华的区别",
+        "onboard_time": 1685405368,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207219,
+        "num": 207219,
+        "word": "街舞6网传嘉宾阵容",
+        "onboard_time": 1685424270,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204885,
+        "num": 204885,
+        "word": "陈都灵粉色吊带",
+        "onboard_time": 1685427268,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 204230,
+        "num": 204230,
+        "word": "任素汐问张译他俩为什么被提名",
+        "onboard_time": 1685418811,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195844,
+        "num": 195844,
+        "word": "灿烂灿烂定档",
+        "onboard_time": 1685426791,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193335,
+        "num": 193335,
+        "word": "后浪许萌跳楼",
+        "onboard_time": 1685421755,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192296,
+        "num": 192296,
+        "word": "我们被卖西瓜老板骗了那么多年",
+        "onboard_time": 1685417609,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190725,
+        "num": 190725,
+        "word": "五月天",
+        "onboard_time": 1685415329,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188599,
+        "num": 188599,
+        "word": "金星参加干女儿婚礼",
+        "onboard_time": 1685413050,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188461,
+        "num": 188461,
+        "word": "seventeen中粉对方时赫的祝福",
+        "onboard_time": 1685423670,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182424,
+        "num": 182424,
+        "word": "张歆艺袁弘结婚七年了",
+        "onboard_time": 1685423972,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154740,
+        "num": 172768,
+        "word": "河南紧急下拨2亿元用于小麦烘干",
+        "onboard_time": 1685427088,
+        "rank": 39,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 170722,
+        "num": 170722,
+        "word": "田曦薇张艺凡少看点直播吧",
+        "onboard_time": 1685423430,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170410,
+        "num": 170410,
+        "word": "青春有你2时期的金子涵",
+        "onboard_time": 1685422473,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160810,
+        "num": 160810,
+        "word": "王源演唱会四年前vs四年后",
+        "onboard_time": 1685427031,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153648,
+        "num": 153648,
+        "word": "斗罗大陆2",
+        "onboard_time": 1685427328,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145207,
+        "num": 145207,
+        "word": "YammerS",
+        "onboard_time": 1685411307,
+        "rank": 44,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 144494,
+        "num": 144494,
+        "word": "花傲天",
+        "onboard_time": 1685421215,
+        "rank": 45,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 141506,
+        "num": 141506,
+        "word": "巴特勒",
+        "onboard_time": 1685415329,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139437,
+        "num": 139437,
+        "word": "桂海潮出征前还在催学生交论文",
+        "onboard_time": 1685423670,
+        "rank": 47,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 132259,
+        "num": 132259,
+        "word": "YammerS确认已离世",
+        "onboard_time": 1685365350,
+        "rank": 48,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 126696,
+        "num": 126696,
+        "word": "大熊猫园润遭男子泼水",
+        "onboard_time": 1685414187,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#神十六乘组奔赴苍穹#"
+    }
+  }
+}
