@@ -1,7 +1,15 @@
 {
   "startTime": 1685377320709,
-  "endTime": 1685452801806,
+  "endTime": 1685453606638,
   "band_list": [
+    {
+      "raw_hot": 4071736,
+      "num": 524079,
+      "word": "阚清子被男友求婚",
+      "onboard_time": 1685450613,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 4068594,
       "num": 4637189,
@@ -9,14 +17,6 @@
       "onboard_time": 1685411609,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 4030835,
-      "num": 524079,
-      "word": "阚清子被男友求婚",
-      "onboard_time": 1685450613,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 3420234,
@@ -35,20 +35,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2959956,
+      "num": 2959956,
+      "word": "杨幂 谢依霖",
+      "onboard_time": 1685448932,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2909330,
       "num": 2909330,
       "word": "离婚了30万彩礼该不该返还",
       "onboard_time": 1685430087,
       "rank": 25,
       "category": "社会议题,情感"
-    },
-    {
-      "raw_hot": 2901449,
-      "num": 2901449,
-      "word": "杨幂 谢依霖",
-      "onboard_time": 1685448932,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 2404694,
@@ -59,8 +59,8 @@
       "category": "社会新闻,游戏"
     },
     {
-      "raw_hot": 2303369,
-      "num": 2303369,
+      "raw_hot": 2389557,
+      "num": 2389557,
       "word": "迪丽热巴第二套",
       "onboard_time": 1685451033,
       "rank": 25,
@@ -275,6 +275,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1189685,
+      "num": 1189685,
+      "word": "Angelababy红毯从来没有失手过",
+      "onboard_time": 1685447909,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1181979,
       "num": 645195,
       "word": "曝昆汀花1万美元在夜店舔美女的脚",
@@ -297,14 +305,6 @@
       "onboard_time": 1685418931,
       "rank": 17,
       "category": "财经,幽默"
-    },
-    {
-      "raw_hot": 1128292,
-      "num": 1128292,
-      "word": "Angelababy红毯从来没有失手过",
-      "onboard_time": 1685447909,
-      "rank": 11,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1115603,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 727064,
-      "num": 261672,
+      "num": 309537,
       "word": "杨紫范丞丞在聊什么",
       "onboard_time": 1685449231,
       "rank": 22,
@@ -691,20 +691,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 515689,
+      "num": 515689,
+      "word": "Cat",
+      "onboard_time": 1685450552,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 507232,
       "num": 395641,
       "word": "苏醒毫不尊重艺人五官的特效",
       "onboard_time": 1685403146,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 507192,
-      "num": 507192,
-      "word": "Cat",
-      "onboard_time": 1685450552,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 506610,
@@ -716,7 +716,7 @@
     },
     {
       "raw_hot": 505687,
-      "num": 237907,
+      "num": 285851,
       "word": "赵丽颖工作室就出一张图",
       "onboard_time": 1685445572,
       "rank": 26,
@@ -740,11 +740,19 @@
     },
     {
       "raw_hot": 501326,
-      "num": 211331,
+      "num": 283258,
       "word": "杨紫芭莎第二套造型",
       "onboard_time": 1685447374,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 501066,
+      "num": 300057,
+      "word": "萌萌离世前经历了什么",
+      "onboard_time": 1685450796,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 497099,
@@ -761,14 +769,6 @@
       "onboard_time": 1685411547,
       "rank": 43,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 495517,
-      "num": 214498,
-      "word": "萌萌离世前经历了什么",
-      "onboard_time": 1685450796,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 485950,
@@ -812,7 +812,7 @@
     },
     {
       "raw_hot": 442745,
-      "num": 207758,
+      "num": 294032,
       "word": "王嘉尔帮Angelababy扶外套",
       "onboard_time": 1685449952,
       "rank": 42,
@@ -844,7 +844,7 @@
     },
     {
       "raw_hot": 421534,
-      "num": 215833,
+      "num": 239883,
       "word": "张彬彬吴倩吻到脸红心跳",
       "onboard_time": 1685444609,
       "rank": 35,
@@ -1171,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317675,
+      "num": 278704,
+      "word": "吴倩新剧掉马",
+      "onboard_time": 1685450312,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 314884,
       "num": 314884,
       "word": "Amber说我比所有韩剧欧巴的吻技都好",
@@ -1227,8 +1235,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 305720,
-      "num": 251812,
+      "raw_hot": 305886,
+      "num": 305886,
       "word": "女生要不要下嫁陪心爱的穷男生吃苦",
       "onboard_time": 1685449170,
       "rank": 37,
@@ -1241,14 +1249,6 @@
       "onboard_time": 1685432788,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 301074,
-      "num": 173538,
-      "word": "吴倩新剧掉马",
-      "onboard_time": 1685450312,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 299753,
@@ -1284,7 +1284,7 @@
     },
     {
       "raw_hot": 289458,
-      "num": 144008,
+      "num": 243920,
       "word": "时代姐妹花 永远不分家",
       "onboard_time": 1685452178,
       "rank": 40,
@@ -1364,7 +1364,7 @@
     },
     {
       "raw_hot": 275718,
-      "num": 275718,
+      "num": 291501,
       "word": "千万不要害怕一个人的生活",
       "onboard_time": 1685445512,
       "rank": 47,
@@ -1596,7 +1596,7 @@
     },
     {
       "raw_hot": 235627,
-      "num": 140596,
+      "num": 227224,
       "word": "罗云熙澹台烬衣服被拍卖到10万",
       "onboard_time": 1685448752,
       "rank": 46,
@@ -1689,6 +1689,22 @@
       "onboard_time": 1685416829,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 223171,
+      "num": 227201,
+      "word": "赵丽颖黄轩年度演员",
+      "onboard_time": 1685453135,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 222860,
+      "num": 303810,
+      "word": "上海白蚁",
+      "onboard_time": 1685451096,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222705,
@@ -2012,7 +2028,7 @@
     },
     {
       "raw_hot": 191958,
-      "num": 191958,
+      "num": 286531,
       "word": "广州TTG",
       "onboard_time": 1685451215,
       "rank": 29,
@@ -2052,7 +2068,7 @@
     },
     {
       "raw_hot": 186259,
-      "num": 186259,
+      "num": 227100,
       "word": "宋丹丹 尹正",
       "onboard_time": 1685445811,
       "rank": 48,
@@ -2227,8 +2243,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168546,
+      "num": 250301,
+      "word": "爸爸喜得千金秒变显眼包",
+      "onboard_time": 1685452776,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168466,
-      "num": 168466,
+      "num": 242464,
       "word": "和同频的人在一起真的很幸福",
       "onboard_time": 1685452594,
       "rank": 36,
@@ -2355,14 +2379,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 149050,
-      "num": 149050,
-      "word": "上海白蚁",
-      "onboard_time": 1685451096,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148414,
       "num": 148414,
       "word": "磁悬浮小肥羊",
@@ -2420,7 +2436,7 @@
     },
     {
       "raw_hot": 140382,
-      "num": 140382,
+      "num": 239941,
       "word": "造谣收割机被扣押者拘留七天",
       "onboard_time": 1685450373,
       "rank": 49,
@@ -2563,14 +2579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100781,
-      "num": 139343,
-      "word": "爸爸喜得千金秒变显眼包",
-      "onboard_time": 1685452776,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94905,
       "num": 94905,
       "word": "杨和苏 我要单挑活死人全员",
@@ -2601,6 +2609,14 @@
       "onboard_time": 1685402062,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 83814,
+      "num": 227078,
+      "word": "麻将馆一女子怀抱孩子遭男子暴打",
+      "onboard_time": 1685453253,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83358,
@@ -2681,6 +2697,14 @@
       "onboard_time": 1685380998,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 53106,
+      "num": 2121711,
+      "word": "高清图看神十六出征",
+      "onboard_time": 1685452594,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51167,
@@ -2775,14 +2799,6 @@
       "num": 1623760,
       "word": "点亮精神火炬",
       "onboard_time": 1685416949,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16619,
-      "num": 2121711,
-      "word": "高清图看神十六出征",
-      "onboard_time": 1685452594,
       "rank": 2,
       "category": "社会新闻"
     },
