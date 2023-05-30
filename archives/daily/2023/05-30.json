@@ -1,6 +1,6 @@
 {
   "startTime": 1685377320709,
-  "endTime": 1685432003200,
+  "endTime": 1685434881991,
   "band_list": [
     {
       "raw_hot": 4068594,
@@ -17,6 +17,14 @@
       "onboard_time": 1685416408,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2909330,
+      "num": 2909330,
+      "word": "离婚了30万彩礼该不该返还",
+      "onboard_time": 1685430087,
+      "rank": 25,
+      "category": "社会议题,情感"
     },
     {
       "raw_hot": 2404694,
@@ -65,6 +73,14 @@
       "onboard_time": 1685421032,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1792760,
+      "num": 1792760,
+      "word": "金鸡奖15个评委都投给了朱一龙",
+      "onboard_time": 1685431170,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 1758295,
@@ -145,6 +161,14 @@
       "onboard_time": 1685416470,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1215801,
+      "num": 1215801,
+      "word": "河南紧急下拨2亿元用于小麦烘干",
+      "onboard_time": 1685427088,
+      "rank": 39,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1181979,
@@ -251,14 +275,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 842234,
-      "num": 842234,
-      "word": "河南紧急下拨2亿元用于小麦烘干",
-      "onboard_time": 1685427088,
-      "rank": 39,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 808801,
       "num": 808801,
       "word": "光遇",
@@ -273,6 +289,14 @@
       "onboard_time": 1685370814,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 749968,
+      "num": 749968,
+      "word": "杨紫新妆容",
+      "onboard_time": 1685432010,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 733900,
@@ -291,12 +315,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 702824,
-      "num": 702824,
-      "word": "离婚了30万彩礼该不该返还",
-      "onboard_time": 1685430087,
-      "rank": 25,
-      "category": "社会议题,情感"
+      "raw_hot": 692452,
+      "num": 585356,
+      "word": "杨紫脸颊痣",
+      "onboard_time": 1685433090,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 689329,
@@ -305,6 +329,14 @@
       "onboard_time": 1685413050,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 687872,
+      "num": 687872,
+      "word": "被丈夫砍杀柯基威胁女子回应彩礼争议",
+      "onboard_time": 1685431111,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 657583,
@@ -347,12 +379,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 594602,
+      "num": 594602,
+      "word": "马斯克私人飞机降落北京",
+      "onboard_time": 1685432128,
+      "rank": 9,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 582791,
       "num": 475132,
       "word": "你管周也这张脸叫普普通通",
       "onboard_time": 1685370272,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 578274,
+      "num": 578274,
+      "word": "胡彦斌新恋情被曝后首发博",
+      "onboard_time": 1685432249,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 573742,
@@ -443,12 +491,28 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 489486,
+      "num": 489486,
+      "word": "丫丫回家后判若两熊",
+      "onboard_time": 1685431951,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 485950,
       "num": 485950,
       "word": "网友点评赵露思虞书欣是韩式演技",
       "onboard_time": 1685401701,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 480906,
+      "num": 480906,
+      "word": "刘宪华一天给Amber打8个电话",
+      "onboard_time": 1685432669,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 475838,
@@ -539,14 +603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 384402,
-      "num": 384402,
-      "word": "金鸡奖15个评委都投给了朱一龙",
-      "onboard_time": 1685431170,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 382680,
       "num": 382680,
       "word": "马斯克谈中国航天工程计划",
@@ -576,6 +632,14 @@
       "word": "迪丽热巴笑眼",
       "onboard_time": 1685414007,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 365594,
+      "num": 365594,
+      "word": "彭女士是谁",
+      "onboard_time": 1685432488,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -675,6 +739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 327152,
+      "num": 327152,
+      "word": "这才是真正的梨型身材",
+      "onboard_time": 1685431590,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 324291,
       "num": 324291,
       "word": "抢票",
@@ -705,6 +777,14 @@
       "onboard_time": 1685373451,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 315162,
+      "num": 315162,
+      "word": "电子科技大学",
+      "onboard_time": 1685433808,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 314884,
@@ -763,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 292866,
+      "num": 292866,
+      "word": "2023新一线城市名单官宣",
+      "onboard_time": 1685432788,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290248,
       "num": 290248,
       "word": "男子吃火锅遇假茅台被服务员提醒",
@@ -801,6 +889,14 @@
       "onboard_time": 1685420976,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 280598,
+      "num": 280598,
+      "word": "李现芭莎年度派对上班路透",
+      "onboard_time": 1685433510,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 279870,
@@ -915,14 +1011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 251935,
-      "num": 251935,
-      "word": "这才是真正的梨型身材",
-      "onboard_time": 1685431590,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 248501,
       "num": 248501,
       "word": "yammers",
@@ -931,10 +1019,10 @@
       "category": "社会新闻,游戏"
     },
     {
-      "raw_hot": 247125,
-      "num": 247125,
-      "word": "被丈夫砍杀柯基威胁女子回应彩礼争议",
-      "onboard_time": 1685431111,
+      "raw_hot": 247074,
+      "num": 247074,
+      "word": "月入多少才会考虑买房",
+      "onboard_time": 1685432669,
       "rank": 29,
       "category": "社会新闻"
     },
@@ -993,6 +1081,14 @@
       "onboard_time": 1685410047,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236546,
+      "num": 236546,
+      "word": "明星芭莎年度派对造型",
+      "onboard_time": 1685434528,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 235862,
@@ -1107,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219567,
+      "num": 219567,
+      "word": "哈尔滨偶遇宁艺卓",
+      "onboard_time": 1685433692,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214825,
       "num": 184002,
       "word": "护心第三季",
@@ -1177,6 +1281,14 @@
       "onboard_time": 1685379561,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206042,
+      "num": 210207,
+      "word": "王俊凯说祝贺神十六发射成功",
+      "onboard_time": 1685434047,
+      "rank": 35,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 203954,
@@ -1251,6 +1363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199737,
+      "num": 199737,
+      "word": "杨紫橙色花朵抹胸裙",
+      "onboard_time": 1685434410,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 198816,
       "num": 198816,
       "word": "没前景的工作要不要辞职",
@@ -1291,6 +1411,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 193134,
+      "num": 193134,
+      "word": "直播间明星带货竟是AI换脸",
+      "onboard_time": 1685434170,
+      "rank": 38,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 193018,
       "num": 193018,
       "word": "seventeen中粉对方时赫的祝福",
@@ -1323,12 +1451,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185355,
+      "num": 185355,
+      "word": "你能接受当众求婚吗",
+      "onboard_time": 1685433867,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 185351,
       "num": 185351,
       "word": "小时候想长大成为超级英雄",
       "onboard_time": 1685417130,
       "rank": 43,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 185196,
+      "num": 185196,
+      "word": "电竞文照进现实",
+      "onboard_time": 1685434350,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 184296,
@@ -1419,6 +1563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 175741,
+      "num": 175741,
+      "word": "吴磊演我向往的生活",
+      "onboard_time": 1685434587,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175002,
       "num": 148767,
       "word": "秋瓷炫蹦迪",
@@ -1483,14 +1635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164740,
-      "num": 164740,
-      "word": "丫丫回家后判若两熊",
-      "onboard_time": 1685431951,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164060,
       "num": 164060,
       "word": "桂海潮出征前还在催学生交论文",
@@ -1547,6 +1691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150051,
+      "num": 150051,
+      "word": "90后为什么不喝星巴克了",
+      "onboard_time": 1685434768,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149356,
       "num": 149356,
       "word": "第一次见高考保送书",
@@ -1585,6 +1737,14 @@
       "onboard_time": 1685365289,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133771,
+      "num": 133771,
+      "word": "长风渡",
+      "onboard_time": 1685434830,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 133303,
