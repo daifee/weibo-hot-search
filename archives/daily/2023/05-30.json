@@ -1,6 +1,6 @@
 {
   "startTime": 1685377320709,
-  "endTime": 1685421207549,
+  "endTime": 1685423750384,
   "band_list": [
     {
       "raw_hot": 4068594,
@@ -51,6 +51,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1898104,
+      "num": 1898104,
+      "word": "华晨宇加入LGD",
+      "onboard_time": 1685420674,
+      "rank": 7,
+      "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 1758295,
+      "num": 1758295,
+      "word": "演唱会门票秒罄黄牛党捞钱术升级",
+      "onboard_time": 1685417609,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1654039,
+      "num": 1654039,
+      "word": "全网都在谢谢虞书欣",
+      "onboard_time": 1685421032,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1650399,
       "num": 1650399,
       "word": "考研进清华和高考进清华的区别",
@@ -75,19 +99,11 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 1400926,
-      "num": 1400926,
+      "raw_hot": 1421567,
+      "num": 1421567,
       "word": "四川自来水公司呼吁每月洗澡2到4次",
       "onboard_time": 1685418811,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1385443,
-      "num": 1385443,
-      "word": "演唱会门票秒罄黄牛党捞钱术升级",
-      "onboard_time": 1685417609,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -113,6 +129,14 @@
       "onboard_time": 1685402122,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1148618,
+      "num": 1148618,
+      "word": "一杯奶茶钱可以买这么多东西",
+      "onboard_time": 1685418931,
+      "rank": 17,
+      "category": "财经,幽默"
     },
     {
       "raw_hot": 1115603,
@@ -155,14 +179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 940477,
-      "num": 940477,
-      "word": "华晨宇加入LGD",
-      "onboard_time": 1685420674,
-      "rank": 7,
-      "category": "游戏,艺人"
-    },
-    {
       "raw_hot": 872855,
       "num": 872855,
       "word": "巴特勒",
@@ -203,20 +219,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 796576,
+      "num": 796576,
+      "word": "女子输液被陌生男子拔针扎进水桶",
+      "onboard_time": 1685420432,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 763167,
       "num": 763167,
       "word": "韩亚航空事件中空姐一直用身体挡住舱门",
       "onboard_time": 1685370814,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 757136,
-      "num": 757136,
-      "word": "一杯奶茶钱可以买这么多东西",
-      "onboard_time": 1685418931,
-      "rank": 17,
-      "category": "财经,幽默"
     },
     {
       "raw_hot": 733900,
@@ -251,6 +267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 610378,
+      "num": 418345,
+      "word": "这居然是安陵容",
+      "onboard_time": 1685420373,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 604902,
       "num": 604902,
       "word": "路人拍的陈都灵",
@@ -281,6 +305,14 @@
       "onboard_time": 1685412087,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 534368,
+      "num": 534368,
+      "word": "农行宣布将清理个人长期不动存折账户",
+      "onboard_time": 1685418568,
+      "rank": 23,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 527208,
@@ -321,14 +353,6 @@
       "onboard_time": 1685411547,
       "rank": 43,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 489621,
-      "num": 412299,
-      "word": "这居然是安陵容",
-      "onboard_time": 1685420373,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 485950,
@@ -379,6 +403,38 @@
       "category": "体育"
     },
     {
+      "raw_hot": 424622,
+      "num": 424622,
+      "word": "二姗开始备孕",
+      "onboard_time": 1685421516,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 423449,
+      "num": 418328,
+      "word": "赵露思是韩网豆瓣排名中国女艺人第一",
+      "onboard_time": 1685420254,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 421247,
+      "num": 421247,
+      "word": "张彬彬脱大衣裹住吴倩",
+      "onboard_time": 1685421274,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 414791,
+      "num": 414791,
+      "word": "大山的孩子去太空了",
+      "onboard_time": 1685421636,
+      "rank": 22,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 405370,
       "num": 328195,
       "word": "吴磊哭着蹭赵今麦肩膀",
@@ -401,14 +457,6 @@
       "onboard_time": 1685420192,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 388107,
-      "num": 388107,
-      "word": "农行宣布将清理个人长期不动存折账户",
-      "onboard_time": 1685418568,
-      "rank": 23,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 382680,
@@ -441,14 +489,6 @@
       "onboard_time": 1685407291,
       "rank": 16,
       "category": "社会新闻,游戏"
-    },
-    {
-      "raw_hot": 361274,
-      "num": 361274,
-      "word": "赵露思是韩网豆瓣排名中国女艺人第一",
-      "onboard_time": 1685420254,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 358845,
@@ -499,12 +539,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 332044,
+      "num": 332044,
+      "word": "李昇基清空ins",
+      "onboard_time": 1685421696,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 324291,
       "num": 324291,
       "word": "抢票",
       "onboard_time": 1685418268,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 323497,
+      "num": 323497,
+      "word": "后浪许萌跳楼",
+      "onboard_time": 1685421755,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 323018,
@@ -563,14 +619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 296256,
-      "num": 296256,
-      "word": "女子输液被陌生男子拔针扎进水桶",
-      "onboard_time": 1685420432,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 290248,
       "num": 290248,
       "word": "男子吃火锅遇假茅台被服务员提醒",
@@ -585,6 +633,14 @@
       "onboard_time": 1685416349,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 285043,
+      "num": 285043,
+      "word": "花傲天",
+      "onboard_time": 1685421215,
+      "rank": 28,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 284114,
@@ -617,6 +673,22 @@
       "onboard_time": 1685413770,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 275556,
+      "num": 275556,
+      "word": "青春有你2时期的金子涵",
+      "onboard_time": 1685422473,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 268810,
+      "num": 268810,
+      "word": "坠楼瞬间他用身体死死护住小女孩",
+      "onboard_time": 1685421696,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267962,
@@ -683,20 +755,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 249235,
-      "num": 249235,
-      "word": "全网都在谢谢虞书欣",
-      "onboard_time": 1685421032,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 248501,
       "num": 248501,
       "word": "yammers",
       "onboard_time": 1685356229,
       "rank": 17,
       "category": "社会新闻,游戏"
+    },
+    {
+      "raw_hot": 245997,
+      "num": 245997,
+      "word": "差点把任贤齐演唱会整封了",
+      "onboard_time": 1685419893,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 243406,
@@ -729,14 +801,6 @@
       "onboard_time": 1685410047,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 236539,
-      "num": 228162,
-      "word": "差点把任贤齐演唱会整封了",
-      "onboard_time": 1685419893,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 235862,
@@ -835,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208763,
+      "num": 208763,
+      "word": "宋亚轩看刘耀文的眼神",
+      "onboard_time": 1685422896,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208404,
       "num": 208404,
       "word": "热火东部冠军",
@@ -907,12 +979,44 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 201074,
+      "num": 201074,
+      "word": "2023PEL夏季赛大名单",
+      "onboard_time": 1685422596,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200414,
       "num": 200414,
       "word": "张艺兴大航海三巡预热",
       "onboard_time": 1685415209,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 198816,
+      "num": 198816,
+      "word": "没前景的工作要不要辞职",
+      "onboard_time": 1685421755,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 198381,
+      "num": 198381,
+      "word": "田曦薇张艺凡少看点直播吧",
+      "onboard_time": 1685423430,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 193713,
+      "num": 199229,
+      "word": "晚八点歌会阵容",
+      "onboard_time": 1685423313,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 193462,
@@ -1083,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165213,
+      "num": 165213,
+      "word": "seventeen中粉对方时赫的祝福",
+      "onboard_time": 1685423670,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163835,
       "num": 163835,
       "word": "10岁男孩牵着弟弟冷静报警救妈妈",
@@ -1113,6 +1225,14 @@
       "onboard_time": 1685360308,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151891,
+      "num": 151891,
+      "word": "桂海潮出征前还在催学生交论文",
+      "onboard_time": 1685423670,
+      "rank": 49,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 150521,
@@ -1209,6 +1329,14 @@
       "onboard_time": 1685352089,
       "rank": 42,
       "category": "社会新闻,音乐"
+    },
+    {
+      "raw_hot": 119894,
+      "num": 205052,
+      "word": "中10000斤西瓜你要瓜还是折现",
+      "onboard_time": 1685421996,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118798,
@@ -1404,6 +1532,9 @@
     },
     {
       "word": "#2030年前实现中国人登陆月球#"
+    },
+    {
+      "word": "#神十六乘组奔赴苍穹#"
     }
   ]
 }
