@@ -1,14 +1,22 @@
 {
   "startTime": 1685463570565,
-  "endTime": 1685463570565,
+  "endTime": 1685464416388,
   "band_list": [
     {
       "raw_hot": 2123857,
-      "num": 318551,
+      "num": 321192,
       "word": "阚清子被男友求婚",
       "onboard_time": 1685450613,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1544640,
+      "num": 1544640,
+      "word": "你每个月洗澡多少次",
+      "onboard_time": 1685460992,
+      "rank": 1,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 1453395,
@@ -17,14 +25,6 @@
       "onboard_time": 1685460155,
       "rank": 0,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1167189,
-      "num": 1167189,
-      "word": "你每个月洗澡多少次",
-      "onboard_time": 1685460992,
-      "rank": 1,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 957231,
@@ -131,6 +131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 341356,
+      "num": 341356,
+      "word": "普通人的一生应该是怎样的",
+      "onboard_time": 1685460512,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 328340,
       "num": 328340,
       "word": "北京WB",
@@ -145,14 +153,6 @@
       "onboard_time": 1685454875,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 285022,
-      "num": 285022,
-      "word": "普通人的一生应该是怎样的",
-      "onboard_time": 1685460512,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 278107,
@@ -172,19 +172,35 @@
     },
     {
       "raw_hot": 274651,
-      "num": 323062,
+      "num": 326901,
       "word": "现在的课桌都能躺着午睡了",
       "onboard_time": 1685459316,
       "rank": 9,
       "category": "科技"
     },
     {
-      "raw_hot": 253280,
-      "num": 253280,
+      "raw_hot": 267743,
+      "num": 267743,
       "word": "Cat",
       "onboard_time": 1685450552,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 266355,
+      "num": 170763,
+      "word": "亲密关系最忌讳炫耀自己受欢迎",
+      "onboard_time": 1685463089,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 249040,
+      "num": 238031,
+      "word": "民警通宵审毒贩熬死了一地蚊子",
+      "onboard_time": 1685462609,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246573,
@@ -227,8 +243,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209299,
+      "num": 177274,
+      "word": "吴磊到新疆了",
+      "onboard_time": 1685462010,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 195849,
-      "num": 141655,
+      "num": 169157,
       "word": "杨紫范丞丞在聊什么",
       "onboard_time": 1685449231,
       "rank": 35,
@@ -244,7 +268,7 @@
     },
     {
       "raw_hot": 187240,
-      "num": 124352,
+      "num": 158504,
       "word": "赵丽颖内场",
       "onboard_time": 1685455233,
       "rank": 40,
@@ -283,19 +307,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160077,
-      "num": 238031,
-      "word": "民警通宵审毒贩熬死了一地蚊子",
-      "onboard_time": 1685462609,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156674,
-      "num": 121156,
-      "word": "吴磊到新疆了",
-      "onboard_time": 1685462010,
-      "rank": 43,
+      "raw_hot": 145003,
+      "num": 113559,
+      "word": "迪丽热巴出图了吗",
+      "onboard_time": 1685439929,
+      "rank": 41,
       "category": "作品衍生"
     },
     {
@@ -331,12 +347,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 133291,
-      "num": 133291,
-      "word": "亲密关系最忌讳炫耀自己受欢迎",
-      "onboard_time": 1685463089,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 133857,
+      "num": 113548,
+      "word": "黄子韬 萌探",
+      "onboard_time": 1685463745,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 128526,
@@ -355,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123524,
+      "num": 123524,
+      "word": "RNG",
+      "onboard_time": 1685463626,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 117788,
       "num": 117788,
       "word": "爸爸喜得千金秒变显眼包",
@@ -364,7 +388,7 @@
     },
     {
       "raw_hot": 106372,
-      "num": 106372,
+      "num": 113512,
       "word": "AG",
       "onboard_time": 1685457034,
       "rank": 47,
@@ -372,7 +396,7 @@
     },
     {
       "raw_hot": 99845,
-      "num": 99845,
+      "num": 113503,
       "word": "2023KPL夏季转会期",
       "onboard_time": 1685455657,
       "rank": 48,
@@ -385,6 +409,22 @@
       "onboard_time": 1685457998,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 77285,
+      "num": 171702,
+      "word": "一条plog告别五月",
+      "onboard_time": 1685463925,
+      "rank": 29,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 74059,
+      "num": 113500,
+      "word": "明星餐饮靠什么长久走下去",
+      "onboard_time": 1685464344,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61489,
@@ -406,6 +446,9 @@
   "hotgov_list": [
     {
       "word": "#中国航天一往无前#"
+    },
+    {
+      "word": "#神十六发射圆满成功#"
     }
   ]
 }

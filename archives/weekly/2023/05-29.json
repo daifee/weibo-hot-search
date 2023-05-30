@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685463570565,
+  "endTime": 1685464416388,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -291,6 +291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1544640,
+      "num": 1544640,
+      "word": "你每个月洗澡多少次",
+      "onboard_time": 1685460992,
+      "rank": 1,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 1538254,
       "num": 866535,
       "word": "被砍死柯基主人回应",
@@ -569,14 +577,6 @@
       "onboard_time": 1685402122,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1167189,
-      "num": 1167189,
-      "word": "你每个月洗澡多少次",
-      "onboard_time": 1685460992,
-      "rank": 1,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 1162958,
@@ -2139,6 +2139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 341356,
+      "num": 341356,
+      "word": "普通人的一生应该是怎样的",
+      "onboard_time": 1685460512,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 341027,
       "num": 341027,
       "word": "杨紫橙色花朵抹胸裙",
@@ -2619,14 +2627,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 285022,
-      "num": 285022,
-      "word": "普通人的一生应该是怎样的",
-      "onboard_time": 1685460512,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 284114,
       "num": 284114,
       "word": "有个镇里的孩子要去宇宙了",
@@ -2772,7 +2772,7 @@
     },
     {
       "raw_hot": 274651,
-      "num": 323062,
+      "num": 326901,
       "word": "现在的课桌都能躺着午睡了",
       "onboard_time": 1685459316,
       "rank": 39,
@@ -2873,6 +2873,14 @@
       "onboard_time": 1685324966,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266355,
+      "num": 170763,
+      "word": "亲密关系最忌讳炫耀自己受欢迎",
+      "onboard_time": 1685463089,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 265771,
@@ -3089,6 +3097,14 @@
       "onboard_time": 1685327308,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 249040,
+      "num": 238031,
+      "word": "民警通宵审毒贩熬死了一地蚊子",
+      "onboard_time": 1685462609,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247074,
@@ -3585,6 +3601,14 @@
       "onboard_time": 1685321668,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 209299,
+      "num": 177274,
+      "word": "吴磊到新疆了",
+      "onboard_time": 1685462010,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 208792,
@@ -4547,14 +4571,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 160077,
-      "num": 238031,
-      "word": "民警通宵审毒贩熬死了一地蚊子",
-      "onboard_time": 1685462609,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160011,
       "num": 160011,
       "word": "灿烂灿烂",
@@ -4625,14 +4641,6 @@
       "onboard_time": 1685444490,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 156674,
-      "num": 121156,
-      "word": "吴磊到新疆了",
-      "onboard_time": 1685462010,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 156082,
@@ -4859,20 +4867,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133857,
+      "num": 113548,
+      "word": "黄子韬 萌探",
+      "onboard_time": 1685463745,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133303,
       "num": 153840,
       "word": "桂海潮的同事说会把地上的事处理好",
       "onboard_time": 1685428290,
       "rank": 48,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 133291,
-      "num": 133291,
-      "word": "亲密关系最忌讳炫耀自己受欢迎",
-      "onboard_time": 1685463089,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 133144,
@@ -5009,6 +5017,14 @@
       "onboard_time": 1685329348,
       "rank": 47,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 123524,
+      "num": 123524,
+      "word": "RNG",
+      "onboard_time": 1685463626,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 123309,
@@ -5315,6 +5331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 77285,
+      "num": 171702,
+      "word": "一条plog告别五月",
+      "onboard_time": 1685463925,
+      "rank": 29,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 75250,
       "num": 75250,
       "word": "C919机票",
@@ -5328,6 +5352,14 @@
       "word": "普通家庭怎么带孩子见世面",
       "onboard_time": 1685393472,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74059,
+      "num": 113500,
+      "word": "明星餐饮靠什么长久走下去",
+      "onboard_time": 1685464344,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
