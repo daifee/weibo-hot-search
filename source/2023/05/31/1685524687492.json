@@ -1,0 +1,410 @@
+{
+  "runTime": 1685524687492,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1558621,
+        "num": 1558621,
+        "word": "上班穿衣服羞耻症",
+        "onboard_time": 1685515949,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1397916,
+        "num": 1397916,
+        "word": "答错了试卷 却答对了人生",
+        "onboard_time": 1685516608,
+        "rank": 1,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 54917,
+        "num": 1302845,
+        "word": "神十五神十六航天员全家福",
+        "onboard_time": 1685507311,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1300620,
+        "num": 1300620,
+        "word": "露露黄了",
+        "onboard_time": 1685515829,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 965171,
+        "num": 965171,
+        "word": "肖战好大的珍珠泪",
+        "onboard_time": 1685519727,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 917457,
+        "num": 917457,
+        "word": "妹妹是重男轻女的产物",
+        "onboard_time": 1685522847,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 677486,
+        "num": 677486,
+        "word": "Angelababy 火山口走出的女战神",
+        "onboard_time": 1685517867,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 620099,
+        "num": 620099,
+        "word": "同事阳了对着我哈气",
+        "onboard_time": 1685513307,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 488616,
+        "num": 488616,
+        "word": "女子偷偷卖掉所有黄金首饰帮老公还账",
+        "onboard_time": 1685521589,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404291,
+        "num": 404291,
+        "word": "玉溪地震",
+        "onboard_time": 1685522072,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1654405,
+        "num": 400440,
+        "word": "阚清子钻戒",
+        "onboard_time": 1685510129,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482336,
+        "num": 398943,
+        "word": "马雪阳谭咏雯公布恋情",
+        "onboard_time": 1685512168,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389550,
+        "num": 389550,
+        "word": "发球遮挡",
+        "onboard_time": 1685521890,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353277,
+        "num": 353277,
+        "word": "G社拍的杨紫",
+        "onboard_time": 1685522368,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 349284,
+        "num": 349284,
+        "word": "朱珠化妆台",
+        "onboard_time": 1685518949,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345933,
+        "num": 345933,
+        "word": "高瀚宇问娜扎六年前是在谈恋爱吗",
+        "onboard_time": 1685520687,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310501,
+        "num": 310501,
+        "word": "被抛弃女孩长大后拒绝与父母相认",
+        "onboard_time": 1685519308,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308095,
+        "num": 308095,
+        "word": "是恶评 龚俊别看",
+        "onboard_time": 1685523508,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 292376,
+        "num": 292376,
+        "word": "女生穿婚纱看演唱会被分手",
+        "onboard_time": 1685501065,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 284457,
+        "num": 284457,
+        "word": "沈月说因为丢工作经常焦虑",
+        "onboard_time": 1685508393,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1240565,
+        "num": 283495,
+        "word": "丁泽仁是救了杜华的命吗",
+        "onboard_time": 1685522008,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 625058,
+        "num": 281695,
+        "word": "砍杀柯基男子被曝任职公益岗",
+        "onboard_time": 1685515286,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274251,
+        "num": 274251,
+        "word": "发现同事已经在用AI摸鱼了",
+        "onboard_time": 1685517987,
+        "rank": 22,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 272242,
+        "num": 272242,
+        "word": "阚清子 谢谢大家",
+        "onboard_time": 1685508214,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256049,
+        "num": 256049,
+        "word": "其实高考只是人生的一个阶段",
+        "onboard_time": 1685523927,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246140,
+        "num": 246140,
+        "word": "火箭总设计师又是容易女士",
+        "onboard_time": 1685521707,
+        "rank": 25,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 222333,
+        "num": 222333,
+        "word": "医生跟踪3年治好女大学生天疱疮",
+        "onboard_time": 1685523749,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212404,
+        "num": 212404,
+        "word": "迪丽热巴背影杀四宫格",
+        "onboard_time": 1685520267,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198096,
+        "num": 198096,
+        "word": "一战成名的紫微星",
+        "onboard_time": 1685523267,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2722985,
+        "num": 197971,
+        "word": "杰克辣条 张馨予",
+        "onboard_time": 1685520388,
+        "rank": 29,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 197700,
+        "num": 197700,
+        "word": "腾讯视频三部剧上星",
+        "onboard_time": 1685514031,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191977,
+        "num": 191977,
+        "word": "养猫的都这么手欠过",
+        "onboard_time": 1685523328,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181274,
+        "num": 181274,
+        "word": "一代人有一代人的显眼包",
+        "onboard_time": 1685519013,
+        "rank": 32,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 180598,
+        "num": 180598,
+        "word": "内娱四大现偶苏神",
+        "onboard_time": 1685520867,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103443,
+        "num": 172651,
+        "word": "两男子救落水女孩后默默离开",
+        "onboard_time": 1685524529,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168748,
+        "num": 168748,
+        "word": "被大学同学的友谊破防了",
+        "onboard_time": 1685520328,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164603,
+        "num": 164603,
+        "word": "杨紫与花同乘",
+        "onboard_time": 1685522730,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 163684,
+        "num": 163684,
+        "word": "五月天演唱会武汉沈阳官宣",
+        "onboard_time": 1685514267,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163215,
+        "num": 163215,
+        "word": "杨幂要美美地害怕",
+        "onboard_time": 1685523389,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154202,
+        "num": 154202,
+        "word": "二十岁以后基本形象都靠人民币和自律维持",
+        "onboard_time": 1685506833,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149416,
+        "num": 149416,
+        "word": "TangoZ美肚杀",
+        "onboard_time": 1685517929,
+        "rank": 40,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 140324,
+        "num": 140324,
+        "word": "谁给蔡徐坤做的妆造",
+        "onboard_time": 1685515887,
+        "rank": 41,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 138377,
+        "num": 138377,
+        "word": "迪丽热巴裙子钻掉了",
+        "onboard_time": 1685496508,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131451,
+        "num": 131451,
+        "word": "这个姿势我能练一辈子",
+        "onboard_time": 1685523090,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120274,
+        "num": 120274,
+        "word": "微博电影之夜官宣举办时间",
+        "onboard_time": 1685521470,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91627,
+        "num": 119650,
+        "word": "毛孩子奔向你能有多快乐",
+        "onboard_time": 1685521346,
+        "rank": 45,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 119481,
+        "num": 119481,
+        "word": "张远又在见证爱情",
+        "onboard_time": 1685516967,
+        "rank": 46,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 118920,
+        "num": 118920,
+        "word": "基金",
+        "onboard_time": 1685517450,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117112,
+        "num": 117112,
+        "word": "芭莎封神饭拍",
+        "onboard_time": 1685523808,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 88537,
+        "num": 115664,
+        "word": "特警扮人贩子演技太好吓坏网友",
+        "onboard_time": 1685510908,
+        "rank": 49,
+        "category": "社会新闻,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#从1到16看神舟飞天之路#"
+    }
+  }
+}

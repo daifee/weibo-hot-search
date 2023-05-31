@@ -1,6 +1,6 @@
 {
   "startTime": 1685463570565,
-  "endTime": 1685522006644,
+  "endTime": 1685524687492,
   "band_list": [
     {
       "raw_hot": 3015187,
@@ -51,6 +51,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1654405,
+      "num": 499595,
+      "word": "阚清子钻戒",
+      "onboard_time": 1685510129,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1558621,
+      "num": 1558621,
+      "word": "上班穿衣服羞耻症",
+      "onboard_time": 1685515949,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1550135,
       "num": 1550135,
       "word": "韩国警报",
@@ -75,28 +91,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1490615,
-      "num": 499595,
-      "word": "阚清子钻戒",
-      "onboard_time": 1685510129,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1478654,
-      "num": 1478654,
-      "word": "上班穿衣服羞耻症",
-      "onboard_time": 1685515949,
-      "rank": 13,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1453395,
       "num": 1453395,
       "word": "TFBOYS",
       "onboard_time": 1685460155,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1397916,
+      "num": 1397916,
+      "word": "答错了试卷 却答对了人生",
+      "onboard_time": 1685516608,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 1332149,
@@ -131,20 +139,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1240565,
+      "num": 283495,
+      "word": "丁泽仁是救了杜华的命吗",
+      "onboard_time": 1685522008,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1230483,
       "num": 1072840,
       "word": "砍杀柯基男子被曝任职公益岗",
       "onboard_time": 1685515286,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1226545,
-      "num": 1226545,
-      "word": "答错了试卷 却答对了人生",
-      "onboard_time": 1685516608,
-      "rank": 30,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 1135670,
@@ -217,6 +225,14 @@
       "onboard_time": 1685444071,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 917457,
+      "num": 917457,
+      "word": "妹妹是重男轻女的产物",
+      "onboard_time": 1685522847,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 901597,
@@ -395,6 +411,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 488616,
+      "num": 488616,
+      "word": "女子偷偷卖掉所有黄金首饰帮老公还账",
+      "onboard_time": 1685521589,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484180,
       "num": 440572,
       "word": "朱珠化妆台",
@@ -523,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 404291,
+      "num": 404291,
+      "word": "玉溪地震",
+      "onboard_time": 1685522072,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 399139,
       "num": 399139,
       "word": "五月天演唱会票价涨3倍黄牛还说不赚钱",
@@ -545,6 +577,14 @@
       "onboard_time": 1685453917,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 389550,
+      "num": 389550,
+      "word": "发球遮挡",
+      "onboard_time": 1685521890,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 386333,
@@ -603,6 +643,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353277,
+      "num": 353277,
+      "word": "G社拍的杨紫",
+      "onboard_time": 1685522368,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 345933,
+      "num": 345933,
+      "word": "高瀚宇问娜扎六年前是在谈恋爱吗",
+      "onboard_time": 1685520687,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 341356,
       "num": 341356,
       "word": "普通人的一生应该是怎样的",
@@ -651,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310501,
+      "num": 310501,
+      "word": "被抛弃女孩长大后拒绝与父母相认",
+      "onboard_time": 1685519308,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310314,
       "num": 310314,
       "word": "张远又在见证爱情",
@@ -659,12 +723,12 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 308366,
-      "num": 308366,
-      "word": "高瀚宇问娜扎六年前是在谈恋爱吗",
-      "onboard_time": 1685520687,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 308095,
+      "num": 308095,
+      "word": "是恶评 龚俊别看",
+      "onboard_time": 1685523508,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 305320,
@@ -819,12 +883,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 263035,
-      "num": 263035,
-      "word": "被抛弃女孩长大后拒绝与父母相认",
-      "onboard_time": 1685519308,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 256049,
+      "num": 256049,
+      "word": "其实高考只是人生的一个阶段",
+      "onboard_time": 1685523927,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 255803,
@@ -881,6 +945,14 @@
       "onboard_time": 1685497046,
       "rank": 41,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 246140,
+      "num": 246140,
+      "word": "火箭总设计师又是容易女士",
+      "onboard_time": 1685521707,
+      "rank": 42,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 245575,
@@ -1051,6 +1123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222333,
+      "num": 222333,
+      "word": "医生跟踪3年治好女大学生天疱疮",
+      "onboard_time": 1685523749,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220360,
       "num": 177695,
       "word": "舞台2023首录路透",
@@ -1105,6 +1185,14 @@
       "onboard_time": 1685441309,
       "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 212404,
+      "num": 212404,
+      "word": "迪丽热巴背影杀四宫格",
+      "onboard_time": 1685520267,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 212351,
@@ -1203,6 +1291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198096,
+      "num": 198096,
+      "word": "一战成名的紫微星",
+      "onboard_time": 1685523267,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196154,
       "num": 196154,
       "word": "鞠婧祎郭俊辰花戎定档",
@@ -1227,12 +1323,12 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 194464,
-      "num": 194464,
-      "word": "迪丽热巴背影杀四宫格",
-      "onboard_time": 1685520267,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 191977,
+      "num": 191977,
+      "word": "养猫的都这么手欠过",
+      "onboard_time": 1685523328,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 191523,
@@ -1307,6 +1403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181274,
+      "num": 181274,
+      "word": "一代人有一代人的显眼包",
+      "onboard_time": 1685519013,
+      "rank": 36,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 181266,
       "num": 181266,
       "word": "记者毕节采访遭不明人士殴打",
@@ -1323,28 +1427,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 180381,
-      "num": 180381,
-      "word": "女子偷偷卖掉所有黄金首饰帮老公还账",
-      "onboard_time": 1685521589,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176799,
       "num": 176799,
       "word": "陈漫镜头下的明星们",
       "onboard_time": 1685514690,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 176522,
-      "num": 176522,
-      "word": "一代人有一代人的显眼包",
-      "onboard_time": 1685519013,
-      "rank": 36,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 176201,
@@ -1419,6 +1507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164603,
+      "num": 164603,
+      "word": "杨紫与花同乘",
+      "onboard_time": 1685522730,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 164123,
       "num": 164123,
       "word": "杨紫说相聚很高兴",
@@ -1441,6 +1537,14 @@
       "onboard_time": 1685454514,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 163215,
+      "num": 163215,
+      "word": "杨幂要美美地害怕",
+      "onboard_time": 1685523389,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 161589,
@@ -1497,14 +1601,6 @@
       "onboard_time": 1685500647,
       "rank": 48,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 156130,
-      "num": 156130,
-      "word": "火箭总设计师又是容易女士",
-      "onboard_time": 1685521707,
-      "rank": 42,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 155909,
@@ -1659,20 +1755,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131451,
+      "num": 131451,
+      "word": "这个姿势我能练一辈子",
+      "onboard_time": 1685523090,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128526,
       "num": 118159,
       "word": "黄晓明尹正亲上了",
       "onboard_time": 1685440949,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 128475,
-      "num": 128475,
-      "word": "发球遮挡",
-      "onboard_time": 1685521890,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 128154,
@@ -1747,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117112,
+      "num": 117112,
+      "word": "芭莎封神饭拍",
+      "onboard_time": 1685523808,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 115117,
       "num": 115117,
       "word": "福建农业职业技术学院通报女生坠楼",
@@ -1777,6 +1881,14 @@
       "onboard_time": 1685457034,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 103443,
+      "num": 172651,
+      "word": "两男子救落水女孩后默默离开",
+      "onboard_time": 1685524529,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99845,
@@ -1907,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54917,
+      "num": 1302845,
+      "word": "神十五神十六航天员全家福",
+      "onboard_time": 1685507311,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54806,
       "num": 54806,
       "word": "神十六出征",
@@ -1920,14 +2040,6 @@
       "word": "萌娃第一颗果子先给太爷爷吃",
       "onboard_time": 1685487859,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45027,
-      "num": 1227697,
-      "word": "神十五神十六航天员全家福",
-      "onboard_time": 1685507311,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
