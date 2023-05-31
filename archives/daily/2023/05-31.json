@@ -1,6 +1,6 @@
 {
   "startTime": 1685463570565,
-  "endTime": 1685518424971,
+  "endTime": 1685521264084,
   "band_list": [
     {
       "raw_hot": 2758583,
@@ -9,6 +9,14 @@
       "onboard_time": 1685508214,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2549486,
+      "num": 474753,
+      "word": "杰克辣条 张馨予",
+      "onboard_time": 1685520388,
+      "rank": 10,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2123857,
@@ -25,6 +33,14 @@
       "onboard_time": 1685495667,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2090208,
+      "num": 2090208,
+      "word": "露露黄了",
+      "onboard_time": 1685515829,
+      "rank": 4,
+      "category": "网红"
     },
     {
       "raw_hot": 1995529,
@@ -59,12 +75,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1478654,
+      "num": 1478654,
+      "word": "上班穿衣服羞耻症",
+      "onboard_time": 1685515949,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1453395,
       "num": 1453395,
       "word": "TFBOYS",
       "onboard_time": 1685460155,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1345519,
+      "num": 499595,
+      "word": "阚清子钻戒",
+      "onboard_time": 1685510129,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 1332149,
@@ -91,18 +123,18 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1272375,
-      "num": 1272375,
-      "word": "露露黄了",
-      "onboard_time": 1685515829,
-      "rank": 4,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1260226,
       "num": 1260226,
       "word": "杭州姑娘万元LV鞋放家门口被偷",
       "onboard_time": 1685504129,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1230483,
+      "num": 1063113,
+      "word": "砍杀柯基男子被曝任职公益岗",
+      "onboard_time": 1685515286,
       "rank": 5,
       "category": "社会新闻"
     },
@@ -113,6 +145,14 @@
       "onboard_time": 1685507612,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1123372,
+      "num": 1123372,
+      "word": "答错了试卷 却答对了人生",
+      "onboard_time": 1685516608,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 1107879,
@@ -129,14 +169,6 @@
       "onboard_time": 1685501427,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1063113,
-      "num": 1063113,
-      "word": "砍杀柯基男子被曝任职公益岗",
-      "onboard_time": 1685515286,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1052791,
@@ -163,28 +195,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 964550,
-      "num": 499595,
-      "word": "阚清子钻戒",
-      "onboard_time": 1685510129,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 957231,
       "num": 957231,
       "word": "迪丽热巴 刚出水的美人鱼",
       "onboard_time": 1685444071,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 949719,
-      "num": 949719,
-      "word": "上班穿衣服羞耻症",
-      "onboard_time": 1685515949,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 901597,
@@ -211,12 +227,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 844027,
+      "num": 844027,
+      "word": "Angelababy 火山口走出的女战神",
+      "onboard_time": 1685517867,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 831882,
       "num": 831882,
       "word": "李晓峰帮杨颖提裙子",
       "onboard_time": 1685456797,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 814231,
+      "num": 814231,
+      "word": "肖战好大的珍珠泪",
+      "onboard_time": 1685519727,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 794842,
@@ -363,12 +395,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 484180,
+      "num": 440572,
+      "word": "朱珠化妆台",
+      "onboard_time": 1685518949,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 481527,
       "num": 284403,
       "word": "唐嫣露腿了",
       "onboard_time": 1685443830,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 478234,
+      "num": 478234,
+      "word": "警方称记者被打事件已成立专案组",
+      "onboard_time": 1685518168,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 472233,
@@ -467,14 +515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 415466,
-      "num": 190545,
-      "word": "答错了试卷 却答对了人生",
-      "onboard_time": 1685516608,
-      "rank": 30,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 406579,
       "num": 406579,
       "word": "密室大逃脱5阵容",
@@ -489,6 +529,14 @@
       "onboard_time": 1685497348,
       "rank": 34,
       "category": "社会新闻,音乐"
+    },
+    {
+      "raw_hot": 397439,
+      "num": 397439,
+      "word": "谁给蔡徐坤做的妆造",
+      "onboard_time": 1685515887,
+      "rank": 21,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 396111,
@@ -523,20 +571,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 371352,
-      "num": 371352,
-      "word": "谁给蔡徐坤做的妆造",
-      "onboard_time": 1685515887,
-      "rank": 21,
-      "category": "作品衍生,幽默"
-    },
-    {
       "raw_hot": 367818,
       "num": 241826,
       "word": "赵丽颖露背",
       "onboard_time": 1685440949,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 357566,
+      "num": 357566,
+      "word": "发现同事已经在用AI摸鱼了",
+      "onboard_time": 1685517987,
+      "rank": 22,
+      "category": "幽默,科技"
     },
     {
       "raw_hot": 356933,
@@ -601,6 +649,14 @@
       "onboard_time": 1685493089,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310314,
+      "num": 310314,
+      "word": "张远又在见证爱情",
+      "onboard_time": 1685516967,
+      "rank": 43,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 305320,
@@ -723,14 +779,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 273244,
-      "num": 273244,
-      "word": "张远又在见证爱情",
-      "onboard_time": 1685516967,
-      "rank": 43,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 269421,
       "num": 269421,
       "word": "大爷在菜市场猥亵多名女性被拍下",
@@ -761,14 +809,6 @@
       "onboard_time": 1685511988,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 259119,
-      "num": 259119,
-      "word": "发现同事已经在用AI摸鱼了",
-      "onboard_time": 1685517987,
-      "rank": 22,
-      "category": "幽默,科技"
     },
     {
       "raw_hot": 255803,
@@ -811,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246865,
+      "num": 246865,
+      "word": "高瀚宇问娜扎六年前是在谈恋爱吗",
+      "onboard_time": 1685520687,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246573,
       "num": 246573,
       "word": "MTG 清清",
@@ -851,20 +899,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 244207,
+      "num": 244207,
+      "word": "杨紫时尚芭莎封面",
+      "onboard_time": 1685517987,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 244156,
       "num": 244156,
       "word": "年轻人有必要背上高额房贷买房吗",
       "onboard_time": 1685479151,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 244100,
-      "num": 244100,
-      "word": "Angelababy 火山口走出的女战神",
-      "onboard_time": 1685517867,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 241590,
@@ -881,6 +929,14 @@
       "onboard_time": 1685513969,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 238763,
+      "num": 238763,
+      "word": "被大学同学的友谊破防了",
+      "onboard_time": 1685520328,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 238755,
@@ -915,6 +971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 229160,
+      "num": 229160,
+      "word": "被抛弃女孩长大后拒绝与父母相认",
+      "onboard_time": 1685519308,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228222,
       "num": 228222,
       "word": "FF91价格",
@@ -939,12 +1003,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 224197,
-      "num": 224197,
-      "word": "警方称记者被打事件已成立专案组",
-      "onboard_time": 1685518168,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 224797,
+      "num": 224797,
+      "word": "这是给爸爸们过儿童节吧",
+      "onboard_time": 1685520328,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 223412,
@@ -971,12 +1035,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221968,
+      "num": 221968,
+      "word": "TangoZ美肚杀",
+      "onboard_time": 1685517929,
+      "rank": 27,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 220360,
       "num": 177695,
       "word": "舞台2023首录路透",
       "onboard_time": 1685513068,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220298,
+      "num": 220298,
+      "word": "26次高考落榜大叔将继续冲击重本",
+      "onboard_time": 1685516366,
+      "rank": 34,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 219880,
@@ -1068,7 +1148,7 @@
     },
     {
       "raw_hot": 206288,
-      "num": 222820,
+      "num": 226205,
       "word": "特警扮人贩子演技太好吓坏网友",
       "onboard_time": 1685510908,
       "rank": 49,
@@ -1131,20 +1211,20 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 193732,
-      "num": 193732,
-      "word": "TangoZ美肚杀",
-      "onboard_time": 1685517929,
-      "rank": 27,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 191523,
       "num": 191523,
       "word": "防弹少年团出道10周年新歌",
       "onboard_time": 1685505988,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 191498,
+      "num": 191498,
+      "word": "迪丽热巴背影杀四宫格",
+      "onboard_time": 1685520267,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 190339,
@@ -1155,20 +1235,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188863,
+      "num": 188863,
+      "word": "或许成年人更需要儿童节",
+      "onboard_time": 1685520328,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187999,
       "num": 140901,
       "word": "青天亲上了",
       "onboard_time": 1685459615,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 187898,
-      "num": 187898,
-      "word": "26次高考落榜大叔将继续冲击重本",
-      "onboard_time": 1685516366,
-      "rank": 34,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 187240,
@@ -1355,6 +1435,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 156708,
+      "num": 156708,
+      "word": "一代人有一代人的显眼包",
+      "onboard_time": 1685519013,
+      "rank": 36,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 155909,
       "num": 155909,
       "word": "五月再见",
@@ -1371,12 +1459,20 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 155215,
-      "num": 155215,
-      "word": "杨紫时尚芭莎封面",
-      "onboard_time": 1685517987,
-      "rank": 40,
-      "category": "作品衍生,时尚"
+      "raw_hot": 155544,
+      "num": 155544,
+      "word": "内娱四大现偶苏神",
+      "onboard_time": 1685520867,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 154837,
+      "num": 154837,
+      "word": "全网最火的几只大熊猫",
+      "onboard_time": 1685521229,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 153637,
@@ -1427,6 +1523,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 145047,
+      "num": 145047,
+      "word": "中国邮政直播",
+      "onboard_time": 1685518287,
+      "rank": 45,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 145003,
       "num": 113559,
       "word": "迪丽热巴出图了吗",
@@ -1451,20 +1555,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139564,
-      "num": 139564,
-      "word": "中国邮政直播",
-      "onboard_time": 1685518287,
-      "rank": 45,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 137957,
       "num": 119217,
       "word": "沈小婷直播",
       "onboard_time": 1685457815,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137742,
+      "num": 137742,
+      "word": "爸爸只会报菜名",
+      "onboard_time": 1685520208,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 136408,
@@ -1499,6 +1603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131929,
+      "num": 131929,
+      "word": "肖战肖春生落泪",
+      "onboard_time": 1685521169,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 128526,
       "num": 118159,
       "word": "黄晓明尹正亲上了",
@@ -1513,6 +1625,14 @@
       "onboard_time": 1685516430,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 127097,
+      "num": 137444,
+      "word": "vivo发布会开在了山海里",
+      "onboard_time": 1685518408,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 126031,
@@ -1585,14 +1705,6 @@
       "onboard_time": 1685514866,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112060,
-      "num": 137444,
-      "word": "vivo发布会开在了山海里",
-      "onboard_time": 1685518408,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 107700,
@@ -1675,6 +1787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82016,
+      "num": 397695,
+      "word": "年轻人的夜拍搭子",
+      "onboard_time": 1685519430,
+      "rank": 17,
+      "category": "科技,幽默"
+    },
+    {
       "raw_hot": 77285,
       "num": 171702,
       "word": "一条plog告别五月",
@@ -1739,6 +1859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44150,
+      "num": 428649,
+      "word": "滑翔伞失控坠地消防员接力抬伤者",
+      "onboard_time": 1685520089,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42872,
       "num": 155499,
       "word": "618大家都买了啥",
@@ -1763,6 +1891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34940,
+      "num": 1148400,
+      "word": "神十五神十六航天员全家福",
+      "onboard_time": 1685507311,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32549,
       "num": 35091,
       "word": "杨紫新妆容",
@@ -1777,14 +1913,6 @@
       "onboard_time": 1685466439,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 26891,
-      "num": 215941,
-      "word": "神十五神十六航天员全家福",
-      "onboard_time": 1685507311,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26019,
