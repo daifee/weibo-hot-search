@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685560382435,
+  "endTime": 1685561602648,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -8283,6 +8283,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 27596,
+      "num": 27596,
+      "word": "坏妈妈",
+      "onboard_time": 1685559674,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 27299,
       "num": 29838,
       "word": "重返未来1999公测",
@@ -8385,6 +8393,14 @@
       "onboard_time": 1685478912,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18107,
+      "num": 21064,
+      "word": "吴磊好酷",
+      "onboard_time": 1685561473,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 14812,
