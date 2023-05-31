@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685537497181,
+  "endTime": 1685539199931,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -3073,6 +3073,14 @@
       "onboard_time": 1684149989,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1766215,
+      "num": 869071,
+      "word": "退款",
+      "onboard_time": 1685536526,
+      "rank": 7,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1765895,
@@ -9012,7 +9020,7 @@
     },
     {
       "raw_hot": 1006370,
-      "num": 483151,
+      "num": 518467,
       "word": "赵丽颖被起哄了",
       "onboard_time": 1685531787,
       "rank": 15,
@@ -10459,6 +10467,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 869426,
+      "num": 869426,
+      "word": "苹果14",
+      "onboard_time": 1685536646,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 868180,
+      "num": 868180,
+      "word": "冯小刚香港卖房大赚6000万港元",
+      "onboard_time": 1685531307,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 867730,
       "num": 974989,
       "word": "新娘互换手捧花发现是高中同学",
@@ -10481,14 +10505,6 @@
       "onboard_time": 1684938931,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 866765,
-      "num": 866765,
-      "word": "冯小刚香港卖房大赚6000万港元",
-      "onboard_time": 1685531307,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 865508,
@@ -14379,6 +14395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 621012,
+      "num": 621012,
+      "word": "卡琳娜",
+      "onboard_time": 1683008667,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 620465,
       "num": 620465,
       "word": "小慧君巧乐兹夫妇已成被执行人",
@@ -14745,6 +14769,14 @@
       "onboard_time": 1685444310,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 607425,
+      "num": 607425,
+      "word": "618",
+      "onboard_time": 1684729171,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 607372,
@@ -18179,6 +18211,14 @@
       "category": "动漫,艺人"
     },
     {
+      "raw_hot": 504170,
+      "num": 504170,
+      "word": "官方通报柳州一干部相关情况",
+      "onboard_time": 1685538207,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 504144,
       "num": 1513932,
       "word": "公安局里来了11只呆萌鸟宝宝",
@@ -18465,14 +18505,6 @@
       "onboard_time": 1684647929,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 495514,
-      "num": 495514,
-      "word": "退款",
-      "onboard_time": 1685536526,
-      "rank": 7,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 495366,
@@ -22667,6 +22699,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 414989,
+      "num": 414989,
+      "word": "吴谢宇 三联",
+      "onboard_time": 1685538688,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414791,
       "num": 414791,
       "word": "大山的孩子去太空了",
@@ -24091,14 +24131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 394095,
-      "num": 334894,
-      "word": "卡琳娜",
-      "onboard_time": 1683008667,
-      "rank": 24,
-      "category": "网红"
-    },
-    {
       "raw_hot": 393928,
       "num": 219821,
       "word": "陶勇医生 手术刀在我心里从未放下",
@@ -24665,6 +24697,14 @@
       "onboard_time": 1683818191,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 384705,
+      "num": 384705,
+      "word": "肖战沉浸式做北京人",
+      "onboard_time": 1685537669,
+      "rank": 18,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 384570,
@@ -25393,14 +25433,6 @@
       "onboard_time": 1684712604,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 375784,
-      "num": 375784,
-      "word": "苹果14",
-      "onboard_time": 1685536646,
-      "rank": 13,
-      "category": "科技"
     },
     {
       "raw_hot": 375682,
@@ -32883,6 +32915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 292658,
+      "num": 292658,
+      "word": "杨和苏朋友圈",
+      "onboard_time": 1685538627,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292635,
       "num": 292635,
       "word": "汉阳教育局通报小学生校内被撞身亡",
@@ -34035,6 +34075,14 @@
       "category": "游戏,综艺"
     },
     {
+      "raw_hot": 283424,
+      "num": 283424,
+      "word": "刘宇宁回应被叫爱情保安",
+      "onboard_time": 1685538326,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283215,
       "num": 228774,
       "word": "易烊千玺手臂肌肉",
@@ -35099,6 +35147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 275060,
+      "num": 275060,
+      "word": "赵露思发了个太阳",
+      "onboard_time": 1685532627,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274835,
       "num": 240047,
       "word": "粉丝对winter竖中指的原因",
@@ -35513,6 +35569,14 @@
       "onboard_time": 1684850135,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271440,
+      "num": 271440,
+      "word": "Jennie曼谷演唱会不划水",
+      "onboard_time": 1685538267,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 271305,
@@ -36515,14 +36579,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 264313,
-      "num": 264313,
-      "word": "赵露思发了个太阳",
-      "onboard_time": 1685532627,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 264270,
       "num": 206452,
       "word": "Alin朱珠好会唱",
@@ -36753,14 +36809,6 @@
       "onboard_time": 1683098428,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 262271,
-      "num": 262271,
-      "word": "618",
-      "onboard_time": 1684729171,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262252,
@@ -41267,6 +41315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 233956,
+      "num": 225010,
+      "word": "福建一彩民中得1.5亿大奖",
+      "onboard_time": 1685535386,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233939,
       "num": 227223,
       "word": "时代少年团直播",
@@ -42801,14 +42857,6 @@
       "onboard_time": 1684857930,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 225010,
-      "num": 225010,
-      "word": "福建一彩民中得1.5亿大奖",
-      "onboard_time": 1685535386,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224970,
@@ -47243,6 +47291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201488,
+      "num": 201488,
+      "word": "陈晓和陈妍希亲吻儿子好甜",
+      "onboard_time": 1685539107,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201468,
       "num": 201468,
       "word": "娇弱甜",
@@ -49555,6 +49611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190813,
+      "num": 190813,
+      "word": "卫生巾",
+      "onboard_time": 1685537007,
+      "rank": 37,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 190811,
       "num": 190811,
       "word": "被不喜欢的人喜欢是什么感受",
@@ -49929,6 +49993,14 @@
       "onboard_time": 1683538291,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189141,
+      "num": 189141,
+      "word": "618攻略",
+      "onboard_time": 1685537728,
+      "rank": 34,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 189098,
@@ -51083,6 +51155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 183351,
+      "num": 182456,
+      "word": "白鹿大预言家",
+      "onboard_time": 1685537608,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183318,
       "num": 183318,
       "word": "古树名木保护计划",
@@ -51185,6 +51265,14 @@
       "onboard_time": 1683246753,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 182688,
+      "num": 182688,
+      "word": "微博会员",
+      "onboard_time": 1685537789,
+      "rank": 36,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 182653,
@@ -52033,6 +52121,14 @@
       "onboard_time": 1684728213,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179092,
+      "num": 179092,
+      "word": "杨紫浓妆vs淡妆",
+      "onboard_time": 1685536946,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 179091,
@@ -53265,14 +53361,6 @@
       "onboard_time": 1683955769,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173239,
-      "num": 173239,
-      "word": "卫生巾",
-      "onboard_time": 1685537007,
-      "rank": 37,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 173235,
@@ -60923,14 +61011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128931,
-      "num": 128931,
-      "word": "杨紫浓妆vs淡妆",
-      "onboard_time": 1685536946,
-      "rank": 49,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 128922,
       "num": 1610148,
       "word": "C919本周日商业航班首航",
@@ -61619,6 +61699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124173,
+      "num": 124173,
+      "word": "防晒",
+      "onboard_time": 1685538447,
+      "rank": 49,
+      "category": "社会新闻,美妆"
+    },
+    {
       "raw_hot": 124164,
       "num": 124164,
       "word": "今天全国助残日",
@@ -62281,6 +62369,14 @@
       "onboard_time": 1684032027,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119230,
+      "num": 384826,
+      "word": "这届年轻人是懂精致生活的",
+      "onboard_time": 1685538388,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 119206,
@@ -67547,6 +67643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33295,
+      "num": 168202,
+      "word": "618必入持妆黑马",
+      "onboard_time": 1685538027,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 32926,
       "num": 32926,
       "word": "你会在对方一无所有的时候结婚吗",
@@ -67697,6 +67801,14 @@
       "onboard_time": 1685385194,
       "rank": 45,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 30275,
+      "num": 868228,
+      "word": "中国好书六一专榜",
+      "onboard_time": 1685538147,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30249,
