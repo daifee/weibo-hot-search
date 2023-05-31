@@ -1,6 +1,6 @@
 {
   "startTime": 1685463570565,
-  "endTime": 1685539199931,
+  "endTime": 1685540021896,
   "band_list": [
     {
       "raw_hot": 3015187,
@@ -17,6 +17,14 @@
       "onboard_time": 1685508214,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2357543,
+      "num": 1093276,
+      "word": "退款",
+      "onboard_time": 1685536526,
+      "rank": 7,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 2123857,
@@ -65,14 +73,6 @@
       "onboard_time": 1685501065,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1766215,
-      "num": 869071,
-      "word": "退款",
-      "onboard_time": 1685536526,
-      "rank": 7,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1654405,
@@ -161,6 +161,14 @@
       "onboard_time": 1685522847,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1290658,
+      "num": 1290658,
+      "word": "苹果14",
+      "onboard_time": 1685536646,
+      "rank": 13,
+      "category": "科技"
     },
     {
       "raw_hot": 1260226,
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 1006370,
-      "num": 518467,
+      "num": 538010,
       "word": "赵丽颖被起哄了",
       "onboard_time": 1685531787,
       "rank": 15,
@@ -315,14 +323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 869426,
-      "num": 869426,
-      "word": "苹果14",
-      "onboard_time": 1685536646,
-      "rank": 13,
-      "category": "科技"
-    },
-    {
       "raw_hot": 868180,
       "num": 868180,
       "word": "冯小刚香港卖房大赚6000万港元",
@@ -363,12 +363,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 722234,
+      "num": 722234,
+      "word": "杨紫化妆师删博",
+      "onboard_time": 1685539347,
+      "rank": 4,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 717201,
       "num": 550951,
       "word": "82岁阿尔帕西诺的29岁女友怀孕",
       "onboard_time": 1685506170,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 676667,
+      "num": 529967,
+      "word": "吴谢宇 三联",
+      "onboard_time": 1685538688,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 675940,
@@ -475,6 +491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 581643,
+      "num": 581643,
+      "word": "官方通报柳州一干部相关情况",
+      "onboard_time": 1685538207,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 569855,
       "num": 569855,
       "word": "肖战说谢谢淇哥",
@@ -545,14 +569,6 @@
       "onboard_time": 1685459794,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 504170,
-      "num": 504170,
-      "word": "官方通报柳州一干部相关情况",
-      "onboard_time": 1685538207,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 500327,
@@ -707,14 +723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 414989,
-      "num": 414989,
-      "word": "吴谢宇 三联",
-      "onboard_time": 1685538688,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 406579,
       "num": 406579,
       "word": "密室大逃脱5阵容",
@@ -851,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351178,
+      "num": 351178,
+      "word": "柳州",
+      "onboard_time": 1685538987,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345933,
       "num": 345933,
       "word": "高瀚宇问娜扎六年前是在谈恋爱吗",
@@ -881,6 +897,14 @@
       "onboard_time": 1685528668,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 332331,
+      "num": 332331,
+      "word": "Jennie曼谷演唱会不划水",
+      "onboard_time": 1685538267,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 328340,
@@ -971,6 +995,22 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 310038,
+      "num": 310038,
+      "word": "长月烬明三位主演的后续",
+      "onboard_time": 1685539288,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 308125,
+      "num": 206669,
+      "word": "陈晓和陈妍希亲吻儿子好甜",
+      "onboard_time": 1685539107,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 305320,
       "num": 305320,
       "word": "河南一90后干部涉嫌严重违法被查",
@@ -1025,6 +1065,14 @@
       "onboard_time": 1685454875,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 287448,
+      "num": 205942,
+      "word": "网传柳州一干部与情人聊天记录被群发",
+      "onboard_time": 1685539529,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287340,
@@ -1120,14 +1168,6 @@
       "word": "张艺兴三巡主题叫无远弗届",
       "onboard_time": 1685500946,
       "rank": 29,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 271440,
-      "num": 271440,
-      "word": "Jennie曼谷演唱会不划水",
-      "onboard_time": 1685538267,
-      "rank": 26,
       "category": "音乐"
     },
     {
@@ -1249,6 +1289,14 @@
       "onboard_time": 1685493331,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 248824,
+      "num": 248824,
+      "word": "福建一彩民中得1.5亿大奖",
+      "onboard_time": 1685535386,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247793,
@@ -1409,14 +1457,6 @@
       "onboard_time": 1685526569,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 233956,
-      "num": 225010,
-      "word": "福建一彩民中得1.5亿大奖",
-      "onboard_time": 1685535386,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232528,
@@ -1723,14 +1763,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 201488,
-      "num": 201488,
-      "word": "陈晓和陈妍希亲吻儿子好甜",
-      "onboard_time": 1685539107,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199730,
       "num": 199730,
       "word": "第五人格",
@@ -1857,6 +1889,14 @@
       "onboard_time": 1685431951,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185997,
+      "num": 185997,
+      "word": "baby王嘉尔 黑道文学",
+      "onboard_time": 1685539468,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 185862,
@@ -2105,14 +2145,6 @@
       "onboard_time": 1685446950,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 160118,
-      "num": 160118,
-      "word": "柳州",
-      "onboard_time": 1685538987,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159561,
@@ -2475,6 +2507,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 122125,
+      "num": 122125,
+      "word": "郑钦文 普丁塞娃",
+      "onboard_time": 1685539647,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120106,
       "num": 120106,
       "word": "有一种感动叫邻里之情",
@@ -2537,6 +2577,14 @@
       "onboard_time": 1685514866,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111656,
+      "num": 111656,
+      "word": "是他先不礼貌的",
+      "onboard_time": 1685539587,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 108891,
@@ -2771,6 +2819,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41302,
+      "num": 171675,
+      "word": "618必入持妆黑马",
+      "onboard_time": 1685538027,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 39076,
+      "num": 868228,
+      "word": "中国好书六一专榜",
+      "onboard_time": 1685538147,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37646,
       "num": 37646,
       "word": "失眠",
@@ -2787,28 +2851,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33295,
-      "num": 168202,
-      "word": "618必入持妆黑马",
-      "onboard_time": 1685538027,
-      "rank": 39,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 32549,
       "num": 35091,
       "word": "杨紫新妆容",
       "onboard_time": 1685432010,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 30275,
-      "num": 868228,
-      "word": "中国好书六一专榜",
-      "onboard_time": 1685538147,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27299,

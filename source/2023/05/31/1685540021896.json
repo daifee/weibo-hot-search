@@ -1,0 +1,410 @@
+{
+  "runTime": 1685540021896,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1290658,
+        "num": 1290658,
+        "word": "苹果14",
+        "onboard_time": 1685536646,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2357543,
+        "num": 1093276,
+        "word": "退款",
+        "onboard_time": 1685536526,
+        "rank": 1,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 39076,
+        "num": 803317,
+        "word": "中国好书六一专榜",
+        "onboard_time": 1685538147,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753626,
+        "num": 753626,
+        "word": "冯小刚香港卖房大赚6000万港元",
+        "onboard_time": 1685531307,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 722234,
+        "num": 722234,
+        "word": "杨紫化妆师删博",
+        "onboard_time": 1685539347,
+        "rank": 4,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 667979,
+        "num": 667979,
+        "word": "TFBOYS演唱会最终章",
+        "onboard_time": 1685524889,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 650797,
+        "num": 650797,
+        "word": "赵露思 妆发团队",
+        "onboard_time": 1685525248,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 581643,
+        "num": 581643,
+        "word": "官方通报柳州一干部相关情况",
+        "onboard_time": 1685538207,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569546,
+        "num": 569546,
+        "word": "卡琳娜",
+        "onboard_time": 1685537066,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 543475,
+        "num": 543475,
+        "word": "早睡可以解决80%以上的问题",
+        "onboard_time": 1685525007,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 757815,
+        "num": 538010,
+        "word": "赵丽颖被起哄了",
+        "onboard_time": 1685531787,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 676667,
+        "num": 529967,
+        "word": "吴谢宇 三联",
+        "onboard_time": 1685538688,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516658,
+        "num": 516658,
+        "word": "肖战说谢谢淇哥",
+        "onboard_time": 1685535265,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 405530,
+        "num": 405530,
+        "word": "迪丽热巴虞书欣张元英神女造型",
+        "onboard_time": 1685534604,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 356086,
+        "num": 356086,
+        "word": "女子偷偷卖掉所有黄金首饰帮老公还账",
+        "onboard_time": 1685521589,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368815,
+        "num": 355761,
+        "word": "肖战沉浸式做北京人",
+        "onboard_time": 1685537669,
+        "rank": 15,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 118325,
+        "num": 351725,
+        "word": "这届年轻人是懂精致生活的",
+        "onboard_time": 1685538388,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 351178,
+        "num": 351178,
+        "word": "柳州",
+        "onboard_time": 1685538987,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1332882,
+        "num": 343152,
+        "word": "酒肉情侣",
+        "onboard_time": 1685530407,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 332331,
+        "num": 332331,
+        "word": "Jennie曼谷演唱会不划水",
+        "onboard_time": 1685538267,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 310794,
+        "num": 310794,
+        "word": "一年级都火了",
+        "onboard_time": 1685527708,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310038,
+        "num": 310038,
+        "word": "长月烬明三位主演的后续",
+        "onboard_time": 1685539288,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248824,
+        "num": 248824,
+        "word": "福建一彩民中得1.5亿大奖",
+        "onboard_time": 1685535386,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206740,
+        "num": 206740,
+        "word": "女生一生只能穿一次婚纱吗",
+        "onboard_time": 1685524469,
+        "rank": 23,
+        "category": "情感,音乐"
+      },
+      {
+        "raw_hot": 206683,
+        "num": 206683,
+        "word": "618",
+        "onboard_time": 1685538447,
+        "rank": 24,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 308125,
+        "num": 206669,
+        "word": "陈晓和陈妍希亲吻儿子好甜",
+        "onboard_time": 1685539107,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288796,
+        "num": 206521,
+        "word": "杨和苏朋友圈",
+        "onboard_time": 1685538627,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279233,
+        "num": 206355,
+        "word": "贵州教师溺亡河边发现一堆鹅卵石",
+        "onboard_time": 1685532085,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261045,
+        "num": 206176,
+        "word": "TFBOYS这几年到底发生了什么",
+        "onboard_time": 1685533888,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171624,
+        "num": 206104,
+        "word": "美军一侦察机蓄意闯入我位南海训练区",
+        "onboard_time": 1685535206,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 287448,
+        "num": 205942,
+        "word": "网传柳州一干部与情人聊天记录被群发",
+        "onboard_time": 1685539529,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250502,
+        "num": 205810,
+        "word": "赵露思发了个太阳",
+        "onboard_time": 1685532627,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238180,
+        "num": 205698,
+        "word": "丁泽仁是救了杜华的命吗",
+        "onboard_time": 1685522008,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 205578,
+        "num": 205578,
+        "word": "妹妹是重男轻女的产物",
+        "onboard_time": 1685522847,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187580,
+        "num": 187580,
+        "word": "刘宇宁回应被叫爱情保安",
+        "onboard_time": 1685538326,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187169,
+        "num": 187169,
+        "word": "618攻略",
+        "onboard_time": 1685537728,
+        "rank": 35,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 185997,
+        "num": 185997,
+        "word": "baby王嘉尔 黑道文学",
+        "onboard_time": 1685539468,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181311,
+        "num": 181311,
+        "word": "明天有两部新剧开播",
+        "onboard_time": 1685531249,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172752,
+        "num": 172752,
+        "word": "果然站C位是有道理的",
+        "onboard_time": 1685535866,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41302,
+        "num": 171675,
+        "word": "618必入持妆黑马",
+        "onboard_time": 1685538027,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 177575,
+        "num": 171661,
+        "word": "杨紫浓妆vs淡妆",
+        "onboard_time": 1685536946,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 171640,
+        "num": 171640,
+        "word": "卫生巾",
+        "onboard_time": 1685537007,
+        "rank": 41,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 150899,
+        "num": 150899,
+        "word": "泰国寺庙偶遇Lisa",
+        "onboard_time": 1685533587,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146911,
+        "num": 146911,
+        "word": "砍杀柯基男子被曝任职公益岗",
+        "onboard_time": 1685515286,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139840,
+        "num": 139840,
+        "word": "刘宪华 MOONLIGHT",
+        "onboard_time": 1685536345,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135877,
+        "num": 135877,
+        "word": "北上官宣阵容",
+        "onboard_time": 1685528908,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127979,
+        "num": 127979,
+        "word": "白鹿大预言家",
+        "onboard_time": 1685537608,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122125,
+        "num": 122125,
+        "word": "郑钦文 普丁塞娃",
+        "onboard_time": 1685539647,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115770,
+        "num": 115770,
+        "word": "苹果直播",
+        "onboard_time": 1685532746,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 111656,
+        "num": 111656,
+        "word": "是他先不礼貌的",
+        "onboard_time": 1685539587,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#博士乘组出征精彩瞬间合集#"
+    }
+  }
+}

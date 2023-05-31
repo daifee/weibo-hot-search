@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685539199931,
+  "endTime": 1685540021896,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -113,6 +113,14 @@
       "onboard_time": 1685326947,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2357543,
+      "num": 1093276,
+      "word": "退款",
+      "onboard_time": 1685536526,
+      "rank": 7,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 2342127,
@@ -281,14 +289,6 @@
       "onboard_time": 1685352806,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1766215,
-      "num": 869071,
-      "word": "退款",
-      "onboard_time": 1685536526,
-      "rank": 7,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1758295,
@@ -619,6 +619,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 1290658,
+      "num": 1290658,
+      "word": "苹果14",
+      "onboard_time": 1685536646,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1282998,
       "num": 1282998,
       "word": "大姑姐 韩国",
@@ -932,7 +940,7 @@
     },
     {
       "raw_hot": 1006370,
-      "num": 518467,
+      "num": 538010,
       "word": "赵丽颖被起哄了",
       "onboard_time": 1685531787,
       "rank": 15,
@@ -1067,14 +1075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 869426,
-      "num": 869426,
-      "word": "苹果14",
-      "onboard_time": 1685536646,
-      "rank": 13,
-      "category": "科技"
-    },
-    {
       "raw_hot": 868180,
       "num": 868180,
       "word": "冯小刚香港卖房大赚6000万港元",
@@ -1203,6 +1203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 722234,
+      "num": 722234,
+      "word": "杨紫化妆师删博",
+      "onboard_time": 1685539347,
+      "rank": 4,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 719074,
       "num": 719074,
       "word": "TFBOYS十周年有望合体",
@@ -1288,6 +1296,14 @@
       "word": "被丈夫砍杀柯基威胁女子回应彩礼争议",
       "onboard_time": 1685431111,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 676667,
+      "num": 529967,
+      "word": "吴谢宇 三联",
+      "onboard_time": 1685538688,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1585,6 +1601,14 @@
       "onboard_time": 1685319271,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 581643,
+      "num": 581643,
+      "word": "官方通报柳州一干部相关情况",
+      "onboard_time": 1685538207,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 578543,
@@ -1897,14 +1921,6 @@
       "onboard_time": 1685459794,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 504170,
-      "num": 504170,
-      "word": "官方通报柳州一干部相关情况",
-      "onboard_time": 1685538207,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 503896,
@@ -2336,14 +2352,6 @@
       "word": "坠楼瞬间他用身体死死护住小女孩",
       "onboard_time": 1685421696,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 414989,
-      "num": 414989,
-      "word": "吴谢宇 三联",
-      "onboard_time": 1685538688,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2795,6 +2803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 351178,
+      "num": 351178,
+      "word": "柳州",
+      "onboard_time": 1685538987,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351145,
       "num": 322276,
       "word": "迪丽热巴公诉首播收视冠军",
@@ -2945,6 +2961,14 @@
       "onboard_time": 1685333731,
       "rank": 41,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 332331,
+      "num": 332331,
+      "word": "Jennie曼谷演唱会不划水",
+      "onboard_time": 1685538267,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 332316,
@@ -3267,6 +3291,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 310038,
+      "num": 310038,
+      "word": "长月烬明三位主演的后续",
+      "onboard_time": 1685539288,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 308645,
       "num": 308645,
       "word": "曾毅宝石老舅说唱好绝",
@@ -3281,6 +3313,14 @@
       "onboard_time": 1685413527,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 308125,
+      "num": 206669,
+      "word": "陈晓和陈妍希亲吻儿子好甜",
+      "onboard_time": 1685539107,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 307382,
@@ -3464,6 +3504,14 @@
       "word": "丫丫需静养现不对外展出",
       "onboard_time": 1685317405,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287448,
+      "num": 205942,
+      "word": "网传柳州一干部与情人聊天记录被群发",
+      "onboard_time": 1685539529,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -3761,14 +3809,6 @@
       "onboard_time": 1685338708,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 271440,
-      "num": 271440,
-      "word": "Jennie曼谷演唱会不划水",
-      "onboard_time": 1685538267,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 271145,
@@ -4147,6 +4187,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 248824,
+      "num": 248824,
+      "word": "福建一彩民中得1.5亿大奖",
+      "onboard_time": 1685535386,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247793,
       "num": 247793,
       "word": "五月最后一天",
@@ -4465,14 +4513,6 @@
       "onboard_time": 1685430448,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 233956,
-      "num": 225010,
-      "word": "福建一彩民中得1.5亿大奖",
-      "onboard_time": 1685535386,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232905,
@@ -5243,14 +5283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 201488,
-      "num": 201488,
-      "word": "陈晓和陈妍希亲吻儿子好甜",
-      "onboard_time": 1685539107,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201074,
       "num": 201074,
       "word": "2023PEL夏季赛大名单",
@@ -5737,6 +5769,14 @@
       "onboard_time": 1685445811,
       "rank": 48,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 185997,
+      "num": 185997,
+      "word": "baby王嘉尔 黑道文学",
+      "onboard_time": 1685539468,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 185862,
@@ -6337,14 +6377,6 @@
       "onboard_time": 1685427031,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 160118,
-      "num": 160118,
-      "word": "柳州",
-      "onboard_time": 1685538987,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160011,
@@ -7123,6 +7155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 122125,
+      "num": 122125,
+      "word": "郑钦文 普丁塞娃",
+      "onboard_time": 1685539647,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121732,
       "num": 121732,
       "word": "熊猫梅兰过生日根本吃不完",
@@ -7265,6 +7305,14 @@
       "onboard_time": 1685430629,
       "rank": 48,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 111656,
+      "num": 111656,
+      "word": "是他先不礼貌的",
+      "onboard_time": 1685539587,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 111341,
@@ -7787,12 +7835,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41302,
+      "num": 171675,
+      "word": "618必入持妆黑马",
+      "onboard_time": 1685538027,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 39236,
       "num": 370423,
       "word": "品如艾莉再次PK",
       "onboard_time": 1685365230,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 39076,
+      "num": 868228,
+      "word": "中国好书六一专榜",
+      "onboard_time": 1685538147,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36613,
@@ -7835,14 +7899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33295,
-      "num": 168202,
-      "word": "618必入持妆黑马",
-      "onboard_time": 1685538027,
-      "rank": 39,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 31295,
       "num": 256476,
       "word": "给孩子买学习硬件注意啥",
@@ -7857,14 +7913,6 @@
       "onboard_time": 1685385194,
       "rank": 45,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 30275,
-      "num": 868228,
-      "word": "中国好书六一专榜",
-      "onboard_time": 1685538147,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27299,
