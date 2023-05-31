@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685524687492,
+  "endTime": 1685525632921,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -419,6 +419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1449830,
+      "num": 1449830,
+      "word": "答错了试卷 却答对了人生",
+      "onboard_time": 1685516608,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 1445130,
       "num": 1445130,
       "word": "老公每月给你两万但不回家",
@@ -457,14 +465,6 @@
       "onboard_time": 1685418811,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1397916,
-      "num": 1397916,
-      "word": "答错了试卷 却答对了人生",
-      "onboard_time": 1685516608,
-      "rank": 30,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 1372783,
@@ -545,6 +545,14 @@
       "onboard_time": 1685427808,
       "rank": 30,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1310509,
+      "num": 917457,
+      "word": "妹妹是重男轻女的产物",
+      "onboard_time": 1685522847,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 1309616,
@@ -635,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1252024,
+      "num": 283495,
+      "word": "丁泽仁是救了杜华的命吗",
+      "onboard_time": 1685522008,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1251773,
       "num": 1251773,
       "word": "河南紧急下拨2亿元用于小麦烘干",
@@ -649,14 +665,6 @@
       "onboard_time": 1685370753,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1240565,
-      "num": 283495,
-      "word": "丁泽仁是救了杜华的命吗",
-      "onboard_time": 1685522008,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 1237827,
@@ -955,14 +963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 917457,
-      "num": 917457,
-      "word": "妹妹是重男轻女的产物",
-      "onboard_time": 1685522847,
-      "rank": 5,
-      "category": "情感"
-    },
-    {
       "raw_hot": 911171,
       "num": 911171,
       "word": "刘浩存五月天演唱会和宋威龙视频",
@@ -1209,6 +1209,14 @@
       "onboard_time": 1685431111,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 683328,
+      "num": 683328,
+      "word": "TFBOYS演唱会最终章",
+      "onboard_time": 1685524889,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 675940,
@@ -2139,6 +2147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419323,
+      "num": 457906,
+      "word": "医生跟踪3年治好女大学生天疱疮",
+      "onboard_time": 1685523749,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 418646,
       "num": 418646,
       "word": "照亮你定档",
@@ -2451,6 +2467,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 369333,
+      "num": 369333,
+      "word": "G社拍的杨紫",
+      "onboard_time": 1685522368,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 366212,
       "num": 366212,
       "word": "张丹峰洪欣合体",
@@ -2577,14 +2601,6 @@
       "onboard_time": 1685491045,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 353277,
-      "num": 353277,
-      "word": "G社拍的杨紫",
-      "onboard_time": 1685522368,
-      "rank": 13,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 352551,
@@ -2859,6 +2875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 321516,
+      "num": 321516,
+      "word": "是恶评 龚俊别看",
+      "onboard_time": 1685523508,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 321183,
       "num": 321183,
       "word": "马斯克",
@@ -3033,14 +3057,6 @@
       "onboard_time": 1685413527,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 308095,
-      "num": 308095,
-      "word": "是恶评 龚俊别看",
-      "onboard_time": 1685523508,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 307382,
@@ -4267,6 +4283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 224455,
+      "num": 224455,
+      "word": "迪丽热巴背影杀四宫格",
+      "onboard_time": 1685520267,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224167,
       "num": 224167,
       "word": "贡菜毛肚螺蛳粉",
@@ -4331,20 +4355,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 222333,
-      "num": 222333,
-      "word": "医生跟踪3年治好女大学生天疱疮",
-      "onboard_time": 1685523749,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221625,
       "num": 221625,
       "word": "吴磊演我向往的生活",
       "onboard_time": 1685434587,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221133,
+      "num": 221133,
+      "word": "赵露思 妆发团队",
+      "onboard_time": 1685525248,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 221006,
@@ -4491,14 +4515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212404,
-      "num": 212404,
-      "word": "迪丽热巴背影杀四宫格",
-      "onboard_time": 1685520267,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 212126,
       "num": 212126,
       "word": "当我买东西买爽之后",
@@ -4561,6 +4577,14 @@
       "onboard_time": 1685501188,
       "rank": 39,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 208800,
+      "num": 208800,
+      "word": "爽点人生有哪些",
+      "onboard_time": 1685525190,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 208792,
@@ -4939,6 +4963,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 196950,
+      "num": 196950,
+      "word": "易烊千玺主打一个会拍照",
+      "onboard_time": 1685524829,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 196841,
       "num": 196841,
       "word": "不然挂牌",
@@ -4993,6 +5025,14 @@
       "onboard_time": 1685324911,
       "rank": 35,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 195925,
+      "num": 195925,
+      "word": "养猫的都这么手欠过",
+      "onboard_time": 1685523328,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 195545,
@@ -5075,6 +5115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 193101,
+      "num": 193101,
+      "word": "早睡可以解决80%以上的问题",
+      "onboard_time": 1685525007,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193040,
       "num": 193040,
       "word": "鬼灭之刃",
@@ -5113,14 +5161,6 @@
       "onboard_time": 1685406509,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 191977,
-      "num": 191977,
-      "word": "养猫的都这么手欠过",
-      "onboard_time": 1685523328,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 191958,
@@ -5481,6 +5521,14 @@
       "onboard_time": 1685402242,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175076,
+      "num": 175076,
+      "word": "女生一生只能穿一次婚纱吗",
+      "onboard_time": 1685524469,
+      "rank": 36,
+      "category": "情感,音乐"
     },
     {
       "raw_hot": 174861,
@@ -6395,6 +6443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 126069,
+      "num": 126069,
+      "word": "内娱有自己的鲁滨逊",
+      "onboard_time": 1685525429,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126031,
       "num": 126031,
       "word": "开会 更适合中国宝宝体质的asmr",
@@ -6529,6 +6585,14 @@
       "onboard_time": 1685490084,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119206,
+      "num": 150494,
+      "word": "坚果极米你站谁",
+      "onboard_time": 1685525248,
+      "rank": 40,
+      "category": "科技"
     },
     {
       "raw_hot": 118798,
@@ -6676,7 +6740,7 @@
     },
     {
       "raw_hot": 103443,
-      "num": 172651,
+      "num": 206822,
       "word": "两男子救落水女孩后默默离开",
       "onboard_time": 1685524529,
       "rank": 34,
@@ -7179,6 +7243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 23673,
+      "num": 1072443,
+      "word": "今天世界无烟日",
+      "onboard_time": 1685491767,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23303,
       "num": 192411,
       "word": "伊能静的育儿好物",
@@ -7289,6 +7361,9 @@
     },
     {
       "word": "#从1到16看神舟飞天之路#"
+    },
+    {
+      "word": "#博士乘组出征精彩瞬间合集#"
     }
   ]
 }
