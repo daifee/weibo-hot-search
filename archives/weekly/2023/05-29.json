@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685571331014,
+  "endTime": 1685572405284,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -8219,6 +8219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 37016,
+      "num": 37016,
+      "word": "阿娇为陈妍希庆生",
+      "onboard_time": 1685566092,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36613,
       "num": 1917856,
       "word": "沉浸式体验虚拟未来世界",
@@ -8251,12 +8259,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 34059,
-      "num": 34059,
-      "word": "阿娇为陈妍希庆生",
-      "onboard_time": 1685566092,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 34505,
+      "num": 36546,
+      "word": "2023高考",
+      "onboard_time": 1685561952,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 33698,
@@ -8268,7 +8276,7 @@
     },
     {
       "raw_hot": 31905,
-      "num": 34063,
+      "num": 36535,
       "word": "周深璀璨冒险人舞美寓意",
       "onboard_time": 1685548527,
       "rank": 47,
@@ -8292,7 +8300,7 @@
     },
     {
       "raw_hot": 27596,
-      "num": 27664,
+      "num": 36530,
       "word": "坏妈妈",
       "onboard_time": 1685559674,
       "rank": 31,
@@ -8329,14 +8337,6 @@
       "onboard_time": 1685299815,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 25730,
-      "num": 27803,
-      "word": "2023高考",
-      "onboard_time": 1685561952,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 23673,
@@ -8419,6 +8419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 16740,
+      "num": 630746,
+      "word": "中国航天员太空会师名场面再现",
+      "onboard_time": 1685537908,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14812,
       "num": 18740,
       "word": "范丞丞祝愿每个人都能大胆向前",
@@ -8432,14 +8440,6 @@
       "word": "爱上高速 畅游三秦",
       "onboard_time": 1685419229,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13718,
-      "num": 630746,
-      "word": "中国航天员太空会师名场面再现",
-      "onboard_time": 1685537908,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],
