@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685568824245,
+  "endTime": 1685571331014,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -8251,6 +8251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 34059,
+      "num": 34059,
+      "word": "阿娇为陈妍希庆生",
+      "onboard_time": 1685566092,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33698,
       "num": 116286,
       "word": "618抄作业好价榜单",
@@ -8284,7 +8292,7 @@
     },
     {
       "raw_hot": 27596,
-      "num": 27596,
+      "num": 27664,
       "word": "坏妈妈",
       "onboard_time": 1685559674,
       "rank": 31,
@@ -8323,6 +8331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 25730,
+      "num": 27803,
+      "word": "2023高考",
+      "onboard_time": 1685561952,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 23673,
       "num": 1403394,
       "word": "今天世界无烟日",
@@ -8355,28 +8371,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 21929,
-      "num": 25604,
-      "word": "阿娇为陈妍希庆生",
-      "onboard_time": 1685566092,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 21081,
       "num": 29692,
       "word": "热心车主为故障货车带路120公里",
       "onboard_time": 1685391972,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20268,
-      "num": 25467,
-      "word": "2023高考",
-      "onboard_time": 1685561952,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 19539,
