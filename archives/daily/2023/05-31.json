@@ -1,6 +1,6 @@
 {
   "startTime": 1685463570565,
-  "endTime": 1685502143028,
+  "endTime": 1685503225830,
   "band_list": [
     {
       "raw_hot": 2123857,
@@ -51,6 +51,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1266868,
+      "num": 1266868,
+      "word": "女婴出生2天就被母亲打耳洞",
+      "onboard_time": 1685499985,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1107879,
       "num": 1107879,
       "word": "丫丫加入西直门群聊",
@@ -75,12 +83,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 936948,
-      "num": 936948,
-      "word": "女婴出生2天就被母亲打耳洞",
-      "onboard_time": 1685499985,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 935178,
+      "num": 935178,
+      "word": "女生穿婚纱看演唱会被分手",
+      "onboard_time": 1685501065,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 901597,
@@ -89,6 +97,14 @@
       "onboard_time": 1685451033,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 879378,
+      "num": 622129,
+      "word": "伊能静自己都想不到吧",
+      "onboard_time": 1685492969,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 850068,
@@ -105,14 +121,6 @@
       "onboard_time": 1685456797,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 802442,
-      "num": 541827,
-      "word": "伊能静自己都想不到吧",
-      "onboard_time": 1685492969,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 794842,
@@ -163,11 +171,27 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 625989,
+      "num": 625989,
+      "word": "还记得延禧攻略的愉妃吗",
+      "onboard_time": 1685498068,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 594255,
       "num": 594255,
       "word": "龚俊手机屏保是花花",
       "onboard_time": 1685457698,
       "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 593545,
+      "num": 593545,
+      "word": "苏芒",
+      "onboard_time": 1685501427,
+      "rank": 26,
       "category": "作品衍生"
     },
     {
@@ -203,14 +227,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 495664,
-      "num": 495664,
-      "word": "还记得延禧攻略的愉妃吗",
-      "onboard_time": 1685498068,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 481527,
       "num": 284403,
       "word": "唐嫣露腿了",
@@ -219,12 +235,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 471491,
-      "num": 471491,
-      "word": "女生穿婚纱看演唱会被分手",
-      "onboard_time": 1685501065,
-      "rank": 15,
-      "category": "情感"
+      "raw_hot": 437928,
+      "num": 437928,
+      "word": "浙江自然资源厅一处长地铁猥亵他人被拘",
+      "onboard_time": 1685499507,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 431166,
@@ -249,14 +265,6 @@
       "onboard_time": 1685493390,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 421806,
-      "num": 421806,
-      "word": "苏芒",
-      "onboard_time": 1685501427,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 418646,
@@ -291,6 +299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 393503,
+      "num": 393503,
+      "word": "端午节放3天后连上6天",
+      "onboard_time": 1685498906,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367818,
       "num": 241826,
       "word": "赵丽颖露背",
@@ -304,6 +320,14 @@
       "word": "张艺兴深圳演唱会官宣",
       "onboard_time": 1685499328,
       "rank": 16,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 355295,
+      "num": 355295,
+      "word": "五月天放票",
+      "onboard_time": 1685501967,
+      "rank": 47,
       "category": "音乐"
     },
     {
@@ -323,14 +347,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 328728,
-      "num": 328728,
-      "word": "浙江自然资源厅一处长地铁猥亵他人被拘",
-      "onboard_time": 1685499507,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 328340,
       "num": 328340,
       "word": "北京WB",
@@ -347,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 319645,
-      "num": 319645,
-      "word": "端午节放3天后连上6天",
-      "onboard_time": 1685498906,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 311301,
       "num": 311301,
       "word": "昨晚睡觉你开空调了吗",
@@ -369,6 +377,22 @@
       "onboard_time": 1685479512,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299864,
+      "num": 299864,
+      "word": "重返未来公测",
+      "onboard_time": 1685502448,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 290008,
+      "num": 290008,
+      "word": "网剧花戎",
+      "onboard_time": 1685502030,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 289711,
@@ -457,6 +481,14 @@
       "onboard_time": 1685450552,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 256621,
+      "num": 256621,
+      "word": "四川千年荔枝树时隔11年再结果",
+      "onboard_time": 1685501547,
+      "rank": 45,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 255803,
@@ -595,14 +627,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 211157,
-      "num": 211157,
-      "word": "四川千年荔枝树时隔11年再结果",
-      "onboard_time": 1685501547,
-      "rank": 45,
-      "category": "社会新闻,自然"
-    },
-    {
       "raw_hot": 209330,
       "num": 209330,
       "word": "灿烂灿烂师生给高考生送祝福",
@@ -651,14 +675,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 193541,
-      "num": 193541,
-      "word": "网剧花戎",
-      "onboard_time": 1685502030,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 187999,
       "num": 140901,
       "word": "青天亲上了",
@@ -680,6 +696,14 @@
       "word": "丫丫回家后判若两熊",
       "onboard_time": 1685431951,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178035,
+      "num": 178035,
+      "word": "丫丫回归熊猫家族全家福已更新",
+      "onboard_time": 1685502806,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -729,14 +753,6 @@
       "onboard_time": 1685454514,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 161471,
-      "num": 161471,
-      "word": "五月天放票",
-      "onboard_time": 1685501967,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 160348,
@@ -795,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149845,
+      "num": 149845,
+      "word": "当地回应记者采访时遭不明身份人士殴打",
+      "onboard_time": 1685502806,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149561,
       "num": 149561,
       "word": "婚礼上想哭千万别憋着",
@@ -825,6 +849,14 @@
       "onboard_time": 1685445512,
       "rank": 34,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 140452,
+      "num": 140452,
+      "word": "小伙将16位孤寡老人紧急呼救设成自己",
+      "onboard_time": 1685502688,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137957,
@@ -980,7 +1012,7 @@
     },
     {
       "raw_hot": 90076,
-      "num": 1054732,
+      "num": 1081413,
       "word": "掘地三万尺中国又一壮举",
       "onboard_time": 1685459974,
       "rank": 2,
