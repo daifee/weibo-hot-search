@@ -1,0 +1,410 @@
+{
+  "runTime": 1685522006644,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2093502,
+        "num": 2093502,
+        "word": "露露黄了",
+        "onboard_time": 1685515829,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1411232,
+        "num": 1411232,
+        "word": "上班穿衣服羞耻症",
+        "onboard_time": 1685515949,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45027,
+        "num": 1227697,
+        "word": "神十五神十六航天员全家福",
+        "onboard_time": 1685507311,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1226545,
+        "num": 1226545,
+        "word": "答错了试卷 却答对了人生",
+        "onboard_time": 1685516608,
+        "rank": 3,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 1080345,
+        "num": 1080345,
+        "word": "肖战好大的珍珠泪",
+        "onboard_time": 1685519727,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1098367,
+        "num": 1072840,
+        "word": "砍杀柯基男子被曝任职公益岗",
+        "onboard_time": 1685515286,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 981443,
+        "num": 981443,
+        "word": "Angelababy 火山口走出的女战神",
+        "onboard_time": 1685517867,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 609065,
+        "num": 609065,
+        "word": "同事阳了对着我哈气",
+        "onboard_time": 1685513307,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 477523,
+        "num": 477523,
+        "word": "沈月说因为丢工作经常焦虑",
+        "onboard_time": 1685508393,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366306,
+        "num": 366306,
+        "word": "警方称记者被打事件已成立专案组",
+        "onboard_time": 1685518168,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1490615,
+        "num": 364204,
+        "word": "阚清子钻戒",
+        "onboard_time": 1685510129,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 555146,
+        "num": 363620,
+        "word": "马雪阳谭咏雯公布恋情",
+        "onboard_time": 1685512168,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454343,
+        "num": 363197,
+        "word": "朱珠化妆台",
+        "onboard_time": 1685518949,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359563,
+        "num": 359563,
+        "word": "女生穿婚纱看演唱会被分手",
+        "onboard_time": 1685501065,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80834,
+        "num": 355256,
+        "word": "滑翔伞失控坠地消防员接力抬伤者",
+        "onboard_time": 1685520089,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3015187,
+        "num": 355062,
+        "word": "杰克辣条 张馨予",
+        "onboard_time": 1685520388,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 67814,
+        "num": 354459,
+        "word": "年轻人的夜拍搭子",
+        "onboard_time": 1685519430,
+        "rank": 16,
+        "category": "科技,幽默"
+      },
+      {
+        "raw_hot": 353975,
+        "num": 353975,
+        "word": "阚清子 谢谢大家",
+        "onboard_time": 1685508214,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337055,
+        "num": 337055,
+        "word": "谁给蔡徐坤做的妆造",
+        "onboard_time": 1685515887,
+        "rank": 18,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 318436,
+        "num": 318436,
+        "word": "迪丽热巴裙子钻掉了",
+        "onboard_time": 1685496508,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 355425,
+        "num": 316229,
+        "word": "发现同事已经在用AI摸鱼了",
+        "onboard_time": 1685517987,
+        "rank": 20,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 308366,
+        "num": 308366,
+        "word": "高瀚宇问娜扎六年前是在谈恋爱吗",
+        "onboard_time": 1685520687,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281438,
+        "num": 281438,
+        "word": "张远又在见证爱情",
+        "onboard_time": 1685516967,
+        "rank": 22,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 280024,
+        "num": 280024,
+        "word": "二十岁以后基本形象都靠人民币和自律维持",
+        "onboard_time": 1685506833,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263035,
+        "num": 263035,
+        "word": "被抛弃女孩长大后拒绝与父母相认",
+        "onboard_time": 1685519308,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259770,
+        "num": 259770,
+        "word": "腾讯视频三部剧上星",
+        "onboard_time": 1685514031,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240851,
+        "num": 240851,
+        "word": "五月天演唱会武汉沈阳官宣",
+        "onboard_time": 1685514267,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 232521,
+        "num": 232521,
+        "word": "TangoZ美肚杀",
+        "onboard_time": 1685517929,
+        "rank": 27,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 228271,
+        "num": 228271,
+        "word": "杨紫时尚芭莎封面",
+        "onboard_time": 1685517987,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 103639,
+        "num": 211005,
+        "word": "特警扮人贩子演技太好吓坏网友",
+        "onboard_time": 1685510908,
+        "rank": 29,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 236820,
+        "num": 206792,
+        "word": "G社拍的85花生图",
+        "onboard_time": 1685521470,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 198222,
+        "num": 198222,
+        "word": "肖战肖春生落泪",
+        "onboard_time": 1685521169,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194464,
+        "num": 194464,
+        "word": "迪丽热巴背影杀四宫格",
+        "onboard_time": 1685520267,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190866,
+        "num": 190866,
+        "word": "26次高考落榜大叔将继续冲击重本",
+        "onboard_time": 1685516366,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 155425,
+        "num": 184394,
+        "word": "毛孩子奔向你能有多快乐",
+        "onboard_time": 1685521346,
+        "rank": 34,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 183595,
+        "num": 183595,
+        "word": "内娱四大现偶苏神",
+        "onboard_time": 1685520867,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181593,
+        "num": 181593,
+        "word": "微博电影之夜官宣举办时间",
+        "onboard_time": 1685521470,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180381,
+        "num": 180381,
+        "word": "女子偷偷卖掉所有黄金首饰帮老公还账",
+        "onboard_time": 1685521589,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177162,
+        "num": 177162,
+        "word": "杭州姑娘万元LV鞋放家门口被偷",
+        "onboard_time": 1685504129,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176522,
+        "num": 176522,
+        "word": "一代人有一代人的显眼包",
+        "onboard_time": 1685519013,
+        "rank": 39,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 172284,
+        "num": 172284,
+        "word": "你经常因为工作而焦虑吗",
+        "onboard_time": 1685521589,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168916,
+        "num": 168916,
+        "word": "全网最火的几只大熊猫",
+        "onboard_time": 1685521229,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156130,
+        "num": 156130,
+        "word": "火箭总设计师又是容易女士",
+        "onboard_time": 1685521707,
+        "rank": 42,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 149220,
+        "num": 149220,
+        "word": "基金",
+        "onboard_time": 1685517450,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 146403,
+        "num": 146403,
+        "word": "被大学同学的友谊破防了",
+        "onboard_time": 1685520328,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139042,
+        "num": 139042,
+        "word": "中国邮政直播",
+        "onboard_time": 1685518287,
+        "rank": 45,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 133752,
+        "num": 133752,
+        "word": "密室大逃脱",
+        "onboard_time": 1685506170,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132913,
+        "num": 132913,
+        "word": "范丞丞帮杨紫拿奖杯",
+        "onboard_time": 1685511328,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128475,
+        "num": 128475,
+        "word": "发球遮挡",
+        "onboard_time": 1685521890,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126961,
+        "num": 126961,
+        "word": "工信部部长会见马斯克",
+        "onboard_time": 1685512770,
+        "rank": 49,
+        "category": "财经,科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国航天一往无前#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685521264084,
+  "endTime": 1685522006644,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -41,6 +41,14 @@
       "onboard_time": 1685315900,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3015187,
+      "num": 474753,
+      "word": "杰克辣条 张馨予",
+      "onboard_time": 1685520388,
+      "rank": 10,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2972639,
@@ -89,14 +97,6 @@
       "onboard_time": 1685357368,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2549486,
-      "num": 474753,
-      "word": "杰克辣条 张馨予",
-      "onboard_time": 1685520388,
-      "rank": 10,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2514548,
@@ -179,8 +179,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 2090208,
-      "num": 2090208,
+      "raw_hot": 2093502,
+      "num": 2093502,
       "word": "露露黄了",
       "onboard_time": 1685515829,
       "rank": 4,
@@ -379,6 +379,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 1490615,
+      "num": 499595,
+      "word": "阚清子钻戒",
+      "onboard_time": 1685510129,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1478654,
       "num": 1478654,
       "word": "上班穿衣服羞耻症",
@@ -480,14 +488,6 @@
       "word": "BLACKPINK文案引争议",
       "onboard_time": 1685323528,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1345519,
-      "num": 499595,
-      "word": "阚清子钻戒",
-      "onboard_time": 1685510129,
-      "rank": 42,
       "category": "艺人"
     },
     {
@@ -652,11 +652,19 @@
     },
     {
       "raw_hot": 1230483,
-      "num": 1063113,
+      "num": 1072840,
       "word": "砍杀柯基男子被曝任职公益岗",
       "onboard_time": 1685515286,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1226545,
+      "num": 1226545,
+      "word": "答错了试卷 却答对了人生",
+      "onboard_time": 1685516608,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 1225321,
@@ -723,14 +731,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1123372,
-      "num": 1123372,
-      "word": "答错了试卷 却答对了人生",
-      "onboard_time": 1685516608,
-      "rank": 30,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 1115603,
       "num": 1115603,
       "word": "大熊猫园润遭男子泼水",
@@ -753,6 +753,14 @@
       "onboard_time": 1685501427,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1080345,
+      "num": 1080345,
+      "word": "肖战好大的珍珠泪",
+      "onboard_time": 1685519727,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1078148,
@@ -883,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 981443,
+      "num": 981443,
+      "word": "Angelababy 火山口走出的女战神",
+      "onboard_time": 1685517867,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 970422,
       "num": 589983,
       "word": "柯基",
@@ -987,14 +1003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 844027,
-      "num": 844027,
-      "word": "Angelababy 火山口走出的女战神",
-      "onboard_time": 1685517867,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 833108,
       "num": 833108,
       "word": "吴磊哭着蹭赵今麦肩膀",
@@ -1009,14 +1017,6 @@
       "onboard_time": 1685274628,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 814231,
-      "num": 814231,
-      "word": "肖战好大的珍珠泪",
-      "onboard_time": 1685519727,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 808801,
@@ -2971,6 +2971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308366,
+      "num": 308366,
+      "word": "高瀚宇问娜扎六年前是在谈恋爱吗",
+      "onboard_time": 1685520687,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307382,
       "num": 268066,
       "word": "庾郎盘马地 却怕有春泥",
@@ -3523,6 +3531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 263035,
+      "num": 263035,
+      "word": "被抛弃女孩长大后拒绝与父母相认",
+      "onboard_time": 1685519308,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262382,
       "num": 262382,
       "word": "李湘为王诗龄庆儿童节",
@@ -3755,14 +3771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 246865,
-      "num": 246865,
-      "word": "高瀚宇问娜扎六年前是在谈恋爱吗",
-      "onboard_time": 1685520687,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 246249,
       "num": 246249,
       "word": "朝鲜宣布军事侦察卫星发射失败",
@@ -3979,6 +3987,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 236820,
+      "num": 206792,
+      "word": "G社拍的85花生图",
+      "onboard_time": 1685521470,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 236546,
       "num": 236546,
       "word": "明星芭莎年度派对造型",
@@ -4027,6 +4043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232521,
+      "num": 232521,
+      "word": "TangoZ美肚杀",
+      "onboard_time": 1685517929,
+      "rank": 27,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 232500,
       "num": 232500,
       "word": "莫斯科遭无人机袭击",
@@ -4065,14 +4089,6 @@
       "onboard_time": 1685493752,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 229160,
-      "num": 229160,
-      "word": "被抛弃女孩长大后拒绝与父母相认",
-      "onboard_time": 1685519308,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228236,
@@ -4241,14 +4257,6 @@
       "onboard_time": 1685344948,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 221968,
-      "num": 221968,
-      "word": "TangoZ美肚杀",
-      "onboard_time": 1685517929,
-      "rank": 27,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 221625,
@@ -4819,6 +4827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198222,
+      "num": 198222,
+      "word": "肖战肖春生落泪",
+      "onboard_time": 1685521169,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197883,
       "num": 197883,
       "word": "Note12TPro",
@@ -4913,6 +4929,14 @@
       "onboard_time": 1685278109,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194464,
+      "num": 194464,
+      "word": "迪丽热巴背影杀四宫格",
+      "onboard_time": 1685520267,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 194397,
@@ -5041,14 +5065,6 @@
       "onboard_time": 1685505988,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 191498,
-      "num": 191498,
-      "word": "迪丽热巴背影杀四宫格",
-      "onboard_time": 1685520267,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 190759,
@@ -5211,6 +5227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 183595,
+      "num": 183595,
+      "word": "内娱四大现偶苏神",
+      "onboard_time": 1685520867,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 183592,
       "num": 183592,
       "word": "宁安如梦",
@@ -5251,6 +5275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181593,
+      "num": 181593,
+      "word": "微博电影之夜官宣举办时间",
+      "onboard_time": 1685521470,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 181486,
       "num": 181486,
       "word": "谢娜菠萝菠萝蜜与面纱舞蹈的契合度",
@@ -5273,6 +5305,14 @@
       "onboard_time": 1685510310,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 180381,
+      "num": 180381,
+      "word": "女子偷偷卖掉所有黄金首饰帮老公还账",
+      "onboard_time": 1685521589,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180306,
@@ -5329,6 +5369,14 @@
       "onboard_time": 1685514690,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176522,
+      "num": 176522,
+      "word": "一代人有一代人的显眼包",
+      "onboard_time": 1685519013,
+      "rank": 36,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 176201,
@@ -5403,6 +5451,14 @@
       "category": "体育,音乐"
     },
     {
+      "raw_hot": 172284,
+      "num": 172284,
+      "word": "你经常因为工作而焦虑吗",
+      "onboard_time": 1685521589,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172283,
       "num": 172283,
       "word": "GAI变形金刚7主题曲MV",
@@ -5473,6 +5529,14 @@
       "onboard_time": 1685465482,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168916,
+      "num": 168916,
+      "word": "全网最火的几只大熊猫",
+      "onboard_time": 1685521229,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 168466,
@@ -5755,12 +5819,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 156708,
-      "num": 156708,
-      "word": "一代人有一代人的显眼包",
-      "onboard_time": 1685519013,
-      "rank": 36,
-      "category": "作品衍生,幽默"
+      "raw_hot": 156130,
+      "num": 156130,
+      "word": "火箭总设计师又是容易女士",
+      "onboard_time": 1685521707,
+      "rank": 42,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 156082,
@@ -5795,12 +5859,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 155544,
-      "num": 155544,
-      "word": "内娱四大现偶苏神",
-      "onboard_time": 1685520867,
-      "rank": 37,
-      "category": "作品衍生"
+      "raw_hot": 155425,
+      "num": 184394,
+      "word": "毛孩子奔向你能有多快乐",
+      "onboard_time": 1685521346,
+      "rank": 34,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 154869,
@@ -5809,14 +5873,6 @@
       "onboard_time": 1685270610,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154837,
-      "num": 154837,
-      "word": "全网最火的几只大熊猫",
-      "onboard_time": 1685521229,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 153637,
@@ -5883,6 +5939,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 149220,
+      "num": 149220,
+      "word": "基金",
+      "onboard_time": 1685517450,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 149018,
       "num": 152947,
       "word": "张艺兴深圳演唱会预售",
@@ -5929,14 +5993,6 @@
       "onboard_time": 1685433329,
       "rank": 4,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 147970,
-      "num": 147970,
-      "word": "基金",
-      "onboard_time": 1685517450,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 147432,
@@ -6139,14 +6195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 131929,
-      "num": 131929,
-      "word": "肖战肖春生落泪",
-      "onboard_time": 1685521169,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 131684,
       "num": 131684,
       "word": "2015年的今天",
@@ -6193,6 +6241,14 @@
       "onboard_time": 1685405669,
       "rank": 29,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 128475,
+      "num": 128475,
+      "word": "发球遮挡",
+      "onboard_time": 1685521890,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 128256,
@@ -6667,6 +6723,14 @@
       "category": "科技,幽默"
     },
     {
+      "raw_hot": 80834,
+      "num": 428649,
+      "word": "滑翔伞失控坠地消防员接力抬伤者",
+      "onboard_time": 1685520089,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79632,
       "num": 2280095,
       "word": "一人一句祝福神十六",
@@ -6891,11 +6955,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44150,
-      "num": 428649,
-      "word": "滑翔伞失控坠地消防员接力抬伤者",
-      "onboard_time": 1685520089,
-      "rank": 14,
+      "raw_hot": 45027,
+      "num": 1227697,
+      "word": "神十五神十六航天员全家福",
+      "onboard_time": 1685507311,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -6945,14 +7009,6 @@
       "onboard_time": 1685334931,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 34940,
-      "num": 1148400,
-      "word": "神十五神十六航天员全家福",
-      "onboard_time": 1685507311,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33698,
