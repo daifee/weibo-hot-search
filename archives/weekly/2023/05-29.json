@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685510140819,
+  "endTime": 1685511222852,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -483,6 +483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1314414,
+      "num": 1314414,
+      "word": "沈月说因为丢工作经常焦虑",
+      "onboard_time": 1685508393,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1311710,
       "num": 1311710,
       "word": "20岁小伙月入6000背百万房贷",
@@ -563,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1261278,
+      "num": 1261278,
+      "word": "二十岁以后基本形象都靠人民币和自律维持",
+      "onboard_time": 1685506833,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1261115,
       "num": 1261115,
       "word": "兄妹四人同时查出肠道肿瘤",
@@ -635,14 +651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1167949,
-      "num": 1167949,
-      "word": "二十岁以后基本形象都靠人民币和自律维持",
-      "onboard_time": 1685506833,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1162958,
       "num": 1162958,
       "word": "唐嫣对我眼睛很友好",
@@ -705,14 +713,6 @@
       "onboard_time": 1685453917,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1077203,
-      "num": 1077203,
-      "word": "沈月说因为丢工作经常焦虑",
-      "onboard_time": 1685508393,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 1075560,
@@ -1096,6 +1096,14 @@
       "word": "白敬亭他叔",
       "onboard_time": 1685370152,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 691562,
+      "num": 413179,
+      "word": "阚清子钻戒",
+      "onboard_time": 1685510129,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -1915,6 +1923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 423544,
+      "num": 423544,
+      "word": "乐乐茶 loopy",
+      "onboard_time": 1685509532,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 423532,
       "num": 423532,
       "word": "幼童撞到石墩口吐鲜血邻居合救",
@@ -2155,6 +2171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 386333,
+      "num": 386333,
+      "word": "吴磊背着烤包子去骑行",
+      "onboard_time": 1685507131,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 384390,
       "num": 169912,
       "word": "刘诗诗黑天鹅",
@@ -2249,14 +2273,6 @@
       "onboard_time": 1685435970,
       "rank": 20,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 369116,
-      "num": 369116,
-      "word": "吴磊背着烤包子去骑行",
-      "onboard_time": 1685507131,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 366212,
@@ -2923,12 +2939,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293381,
+      "num": 293381,
+      "word": "陌生人闯家门骂女主人小三后称认错人",
+      "onboard_time": 1685510250,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292539,
       "num": 267304,
       "word": "田曦薇 举重",
       "onboard_time": 1685371717,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 292108,
+      "num": 292108,
+      "word": "Amber官宣加盟说唱巅峰对决",
+      "onboard_time": 1685507729,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 290972,
@@ -3443,20 +3475,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 253784,
+      "num": 253784,
+      "word": "家里有中高考生的注意了",
+      "onboard_time": 1685510431,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 252878,
       "num": 252878,
       "word": "丁程鑫刘宇同框",
       "onboard_time": 1685426908,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 252811,
-      "num": 208689,
-      "word": "Amber官宣加盟说唱巅峰对决",
-      "onboard_time": 1685507729,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 252471,
@@ -3609,6 +3641,14 @@
       "onboard_time": 1685507972,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245122,
+      "num": 245122,
+      "word": "月入6000背百万房贷当事人回应",
+      "onboard_time": 1685509237,
+      "rank": 34,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 244684,
@@ -3768,6 +3808,14 @@
       "word": "五月天演唱会的钱都被谁赚了",
       "onboard_time": 1685430448,
       "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 233245,
+      "num": 233245,
+      "word": "我那五位加起来250岁的老爱豆们",
+      "onboard_time": 1685510850,
+      "rank": 27,
       "category": "音乐"
     },
     {
@@ -4251,14 +4299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206627,
-      "num": 175999,
-      "word": "阚清子钻戒",
-      "onboard_time": 1685510129,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206301,
       "num": 206301,
       "word": "离职前一定要删的东西",
@@ -4515,14 +4555,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 197758,
-      "num": 197758,
-      "word": "乐乐茶 loopy",
-      "onboard_time": 1685509532,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 196841,
       "num": 196841,
       "word": "不然挂牌",
@@ -4641,14 +4673,6 @@
       "onboard_time": 1685414729,
       "rank": 48,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 193310,
-      "num": 193310,
-      "word": "月入6000背百万房贷当事人回应",
-      "onboard_time": 1685509237,
-      "rank": 34,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 193231,
@@ -4923,6 +4947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181201,
+      "num": 144037,
+      "word": "ENHYPEN世巡海报公开",
+      "onboard_time": 1685510310,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 180306,
       "num": 180306,
       "word": "济南11岁男孩莫名吐血交警10分钟送医",
@@ -5163,6 +5195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166885,
+      "num": 166885,
+      "word": "记者毕节采访遭不明人士殴打",
+      "onboard_time": 1685510612,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166728,
       "num": 166728,
       "word": "回头率这么高是有原因的",
@@ -5179,12 +5219,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166297,
+      "num": 143020,
+      "word": "再就业对春晚有多执着",
+      "onboard_time": 1685510548,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165318,
       "num": 165318,
       "word": "妻子将亡夫公益事业扩大225倍",
       "onboard_time": 1685413828,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164828,
+      "num": 139342,
+      "word": "梦中的那片海前进吧青春版海报",
+      "onboard_time": 1685511150,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 164645,
@@ -5689,6 +5745,14 @@
       "onboard_time": 1685360786,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131288,
+      "num": 131288,
+      "word": "特警扮人贩子演技太好吓坏网友",
+      "onboard_time": 1685510908,
+      "rank": 49,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 131046,
@@ -6473,6 +6537,14 @@
       "onboard_time": 1685447071,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23103,
+      "num": 131585,
+      "word": "如何花式躲过高温天",
+      "onboard_time": 1685510548,
+      "rank": 48,
+      "category": "社会议题"
     },
     {
       "raw_hot": 22669,
