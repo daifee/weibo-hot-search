@@ -1,0 +1,410 @@
+{
+  "runTime": 1685546241541,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1436355,
+        "num": 1436355,
+        "word": "苹果14",
+        "onboard_time": 1685536646,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1344737,
+        "num": 1344737,
+        "word": "网传柳州一干部与情人聊天记录被群发",
+        "onboard_time": 1685539529,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52715,
+        "num": 1318406,
+        "word": "中国好书六一专榜",
+        "onboard_time": 1685538147,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2543245,
+        "num": 1314944,
+        "word": "聊天记录",
+        "onboard_time": 1685543670,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1309967,
+        "num": 1309967,
+        "word": "退款",
+        "onboard_time": 1685536526,
+        "rank": 4,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 748994,
+        "num": 748994,
+        "word": "赵露思 妆发团队",
+        "onboard_time": 1685525248,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1374197,
+        "num": 744776,
+        "word": "杨紫化妆师删博",
+        "onboard_time": 1685539347,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 717693,
+        "num": 717693,
+        "word": "胡可说不要把另一半当自己人",
+        "onboard_time": 1685542169,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 667892,
+        "num": 667892,
+        "word": "坐飞机要称体重了",
+        "onboard_time": 1685542230,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603331,
+        "num": 603331,
+        "word": "虞书欣 杨天真",
+        "onboard_time": 1685545351,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580902,
+        "num": 580902,
+        "word": "CCTV6 诛仙",
+        "onboard_time": 1685540369,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 535241,
+        "num": 535241,
+        "word": "六一儿童节",
+        "onboard_time": 1685545292,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534078,
+        "num": 534078,
+        "word": "陈晓和陈妍希亲吻儿子好甜",
+        "onboard_time": 1685539107,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528951,
+        "num": 528951,
+        "word": "柳州",
+        "onboard_time": 1685538987,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503325,
+        "num": 503325,
+        "word": "妊娠终止手术一定要在孕14周内做",
+        "onboard_time": 1685542109,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495494,
+        "num": 495494,
+        "word": "TFBOYS演唱会最终章",
+        "onboard_time": 1685524889,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 491967,
+        "num": 491967,
+        "word": "长月烬明三位主演的后续",
+        "onboard_time": 1685539288,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 450339,
+        "num": 450339,
+        "word": "赵丽颖被起哄了",
+        "onboard_time": 1685531787,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 426431,
+        "num": 426431,
+        "word": "早睡可以解决80%以上的问题",
+        "onboard_time": 1685525007,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419783,
+        "num": 419783,
+        "word": "麦当劳 酸黄瓜",
+        "onboard_time": 1685544991,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 418446,
+        "num": 418446,
+        "word": "官方通报柳州一干部相关情况",
+        "onboard_time": 1685538207,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385593,
+        "num": 385593,
+        "word": "男子站斑马线旁聊天被撞飞当场死亡",
+        "onboard_time": 1685541270,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350300,
+        "num": 350300,
+        "word": "肖战说谢谢淇哥",
+        "onboard_time": 1685535265,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329724,
+        "num": 329724,
+        "word": "吴磊 烤包子",
+        "onboard_time": 1685543791,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293578,
+        "num": 293578,
+        "word": "Jennie曼谷演唱会不划水",
+        "onboard_time": 1685538267,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 290677,
+        "num": 290677,
+        "word": "卡琳娜",
+        "onboard_time": 1685537066,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 288971,
+        "num": 288971,
+        "word": "河南小麦咋样了",
+        "onboard_time": 1685544932,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282749,
+        "num": 282749,
+        "word": "肖战粉丝花式宣传梦中的那片海",
+        "onboard_time": 1685544453,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281259,
+        "num": 281259,
+        "word": "吴谢宇 三联",
+        "onboard_time": 1685538688,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259838,
+        "num": 259838,
+        "word": "赵丽颖发了粉丝修的图",
+        "onboard_time": 1685540910,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 244525,
+        "num": 244525,
+        "word": "宋妍霏对王嘉尔的小动作",
+        "onboard_time": 1685545531,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 236792,
+        "num": 236792,
+        "word": "Lisa脚趾头",
+        "onboard_time": 1685545051,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217977,
+        "num": 217977,
+        "word": "明天有两部新剧开播",
+        "onboard_time": 1685531249,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199088,
+        "num": 199088,
+        "word": "女子偷偷卖掉所有黄金首饰帮老公还账",
+        "onboard_time": 1685521589,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192183,
+        "num": 192183,
+        "word": "余华太懂现在的年轻人了",
+        "onboard_time": 1685540369,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191595,
+        "num": 191595,
+        "word": "TFBOYS这几年到底发生了什么",
+        "onboard_time": 1685533888,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190362,
+        "num": 190362,
+        "word": "北上女二",
+        "onboard_time": 1685543072,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178549,
+        "num": 178549,
+        "word": "福建一彩民中得1.5亿大奖",
+        "onboard_time": 1685535386,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177087,
+        "num": 177087,
+        "word": "以后都不会做了的工作",
+        "onboard_time": 1685542471,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175521,
+        "num": 175521,
+        "word": "LNG战胜TES",
+        "onboard_time": 1685542530,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182330,
+        "num": 169672,
+        "word": "迪丽热巴虞书欣张元英神女造型",
+        "onboard_time": 1685534604,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181909,
+        "num": 167589,
+        "word": "五月天演唱会",
+        "onboard_time": 1685545112,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179135,
+        "num": 167527,
+        "word": "丁泽仁是救了杜华的命吗",
+        "onboard_time": 1685522008,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163124,
+        "num": 163124,
+        "word": "baby王嘉尔 黑道文学",
+        "onboard_time": 1685539468,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159721,
+        "num": 159721,
+        "word": "肖战沉浸式做北京人",
+        "onboard_time": 1685537669,
+        "rank": 44,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 144491,
+        "num": 144491,
+        "word": "618发货真快",
+        "onboard_time": 1685541450,
+        "rank": 45,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 112079,
+        "num": 144434,
+        "word": "女生一生只能穿一次婚纱吗",
+        "onboard_time": 1685524469,
+        "rank": 46,
+        "category": "情感,音乐"
+      },
+      {
+        "raw_hot": 111301,
+        "num": 144170,
+        "word": "卫生巾",
+        "onboard_time": 1685537007,
+        "rank": 47,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 103822,
+        "num": 143801,
+        "word": "男子开车趟水营救被困车主",
+        "onboard_time": 1685546132,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103648,
+        "num": 143630,
+        "word": "郑钦文止步法网次轮",
+        "onboard_time": 1685545771,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席向全国广大少年儿童祝贺节日#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685543623984,
+  "endTime": 1685546241541,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -97,6 +97,14 @@
       "onboard_time": 1685357368,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2543245,
+      "num": 1314944,
+      "word": "聊天记录",
+      "onboard_time": 1685543670,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2514548,
@@ -539,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1344737,
+      "num": 1344737,
+      "word": "网传柳州一干部与情人聊天记录被群发",
+      "onboard_time": 1685539529,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1339808,
       "num": 1339808,
       "word": "时尚芭莎红毯",
@@ -753,14 +769,6 @@
       "onboard_time": 1685402122,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1167518,
-      "num": 1167518,
-      "word": "网传柳州一干部与情人聊天记录被群发",
-      "onboard_time": 1685539529,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1162958,
@@ -1243,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 717693,
+      "num": 717693,
+      "word": "胡可说不要把另一半当自己人",
+      "onboard_time": 1685542169,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 717201,
       "num": 550951,
       "word": "82岁阿尔帕西诺的29岁女友怀孕",
@@ -1332,7 +1348,7 @@
     },
     {
       "raw_hot": 685559,
-      "num": 512543,
+      "num": 534078,
       "word": "陈晓和陈妍希亲吻儿子好甜",
       "onboard_time": 1685539107,
       "rank": 31,
@@ -1361,6 +1377,14 @@
       "onboard_time": 1685282974,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 667892,
+      "num": 667892,
+      "word": "坐飞机要称体重了",
+      "onboard_time": 1685542230,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 661520,
@@ -1595,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 603331,
+      "num": 603331,
+      "word": "虞书欣 杨天真",
+      "onboard_time": 1685545351,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 597916,
       "num": 597916,
       "word": "卡戴珊家族担心没生儿子姓氏失传",
@@ -1787,6 +1819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 535241,
+      "num": 535241,
+      "word": "六一儿童节",
+      "onboard_time": 1685545292,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 534656,
       "num": 534656,
       "word": "生孩子到底能治什么病",
@@ -1801,6 +1841,14 @@
       "onboard_time": 1685418568,
       "rank": 23,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 528951,
+      "num": 528951,
+      "word": "柳州",
+      "onboard_time": 1685538987,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 527208,
@@ -1961,6 +2009,14 @@
       "onboard_time": 1685429129,
       "rank": 16,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 503325,
+      "num": 503325,
+      "word": "妊娠终止手术一定要在孕14周内做",
+      "onboard_time": 1685542109,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 502052,
@@ -2129,14 +2185,6 @@
       "onboard_time": 1685331030,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 461763,
-      "num": 461763,
-      "word": "柳州",
-      "onboard_time": 1685538987,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 460997,
@@ -2353,6 +2401,14 @@
       "onboard_time": 1685350647,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419783,
+      "num": 419783,
+      "word": "麦当劳 酸黄瓜",
+      "onboard_time": 1685544991,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 419340,
@@ -2587,6 +2643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 385593,
+      "num": 385593,
+      "word": "男子站斑马线旁聊天被撞飞当场死亡",
+      "onboard_time": 1685541270,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384705,
       "num": 384705,
       "word": "肖战沉浸式做北京人",
@@ -2769,14 +2833,6 @@
       "onboard_time": 1685355148,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 360727,
-      "num": 299297,
-      "word": "坐飞机要称体重了",
-      "onboard_time": 1685542230,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 360197,
@@ -3041,6 +3097,14 @@
       "onboard_time": 1685434768,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329724,
+      "num": 329724,
+      "word": "吴磊 烤包子",
+      "onboard_time": 1685543791,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 329292,
@@ -3395,14 +3459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303788,
-      "num": 303788,
-      "word": "男子站斑马线旁聊天被撞飞当场死亡",
-      "onboard_time": 1685541270,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 303644,
       "num": 523925,
       "word": "肠道是熬夜猝死元凶之一",
@@ -3539,6 +3595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288971,
+      "num": 288971,
+      "word": "河南小麦咋样了",
+      "onboard_time": 1685544932,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288375,
       "num": 288375,
       "word": "丫丫需静养现不对外展出",
@@ -3625,6 +3689,14 @@
       "onboard_time": 1685290765,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 282749,
+      "num": 282749,
+      "word": "肖战粉丝花式宣传梦中的那片海",
+      "onboard_time": 1685544453,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 280598,
@@ -3857,14 +3929,6 @@
       "onboard_time": 1685356229,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 270834,
-      "num": 270834,
-      "word": "胡可说不要把另一半当自己人",
-      "onboard_time": 1685542169,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 270613,
@@ -4347,6 +4411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244525,
+      "num": 244525,
+      "word": "宋妍霏对王嘉尔的小动作",
+      "onboard_time": 1685545531,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 244513,
       "num": 244513,
       "word": "花戎",
@@ -4521,6 +4593,14 @@
       "onboard_time": 1685521470,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 236792,
+      "num": 236792,
+      "word": "Lisa脚趾头",
+      "onboard_time": 1685545051,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 236546,
@@ -5195,14 +5275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206497,
-      "num": 200599,
-      "word": "妊娠终止手术一定要在孕14周内做",
-      "onboard_time": 1685542109,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206301,
       "num": 206301,
       "word": "离职前一定要删的东西",
@@ -5715,6 +5787,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 192183,
+      "num": 192183,
+      "word": "余华太懂现在的年轻人了",
+      "onboard_time": 1685540369,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192083,
       "num": 192083,
       "word": "高考700分是种什么概念",
@@ -6003,6 +6083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181909,
+      "num": 167589,
+      "word": "五月天演唱会",
+      "onboard_time": 1685270126,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 181593,
       "num": 181593,
       "word": "微博电影之夜官宣举办时间",
@@ -6105,6 +6193,14 @@
       "onboard_time": 1685536825,
       "rank": 36,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 177087,
+      "num": 177087,
+      "word": "以后都不会做了的工作",
+      "onboard_time": 1685542471,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 176799,
@@ -6361,14 +6457,6 @@
       "onboard_time": 1685510548,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165608,
-      "num": 165608,
-      "word": "余华太懂现在的年轻人了",
-      "onboard_time": 1685540369,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 165318,
@@ -6691,14 +6779,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 151030,
-      "num": 151030,
-      "word": "五月天演唱会",
-      "onboard_time": 1685270126,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 150717,
       "num": 126768,
       "word": "荣耀90价格",
@@ -7017,14 +7097,6 @@
       "onboard_time": 1685356887,
       "rank": 46,
       "category": "科技"
-    },
-    {
-      "raw_hot": 132174,
-      "num": 134873,
-      "word": "以后都不会做了的工作",
-      "onboard_time": 1685542471,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 132111,
@@ -7521,6 +7593,22 @@
       "onboard_time": 1685378483,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103822,
+      "num": 143801,
+      "word": "男子开车趟水营救被困车主",
+      "onboard_time": 1685546132,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103648,
+      "num": 143630,
+      "word": "郑钦文止步法网次轮",
+      "onboard_time": 1685545771,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 103443,
