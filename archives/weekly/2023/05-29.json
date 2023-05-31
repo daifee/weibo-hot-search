@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685507623435,
+  "endTime": 1685510140819,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -65,6 +65,14 @@
       "onboard_time": 1685430087,
       "rank": 25,
       "category": "社会议题,情感"
+    },
+    {
+      "raw_hot": 2758583,
+      "num": 551077,
+      "word": "阚清子 谢谢大家",
+      "onboard_time": 1685508214,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2637870,
@@ -171,6 +179,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1995529,
+      "num": 1995529,
+      "word": "女生穿婚纱看演唱会被分手",
+      "onboard_time": 1685501065,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1993737,
       "num": 1993737,
       "word": "官方通报男子砍杀柯基威胁妻子",
@@ -225,14 +241,6 @@
       "onboard_time": 1685440470,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1848945,
-      "num": 1848945,
-      "word": "女生穿婚纱看演唱会被分手",
-      "onboard_time": 1685501065,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 1836031,
@@ -627,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1167949,
+      "num": 1167949,
+      "word": "二十岁以后基本形象都靠人民币和自律维持",
+      "onboard_time": 1685506833,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1162958,
       "num": 1162958,
       "word": "唐嫣对我眼睛很友好",
@@ -649,6 +665,14 @@
       "onboard_time": 1685324127,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1135670,
+      "num": 1135670,
+      "word": "梦中的那片海定档",
+      "onboard_time": 1685507612,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1115603,
@@ -681,6 +705,14 @@
       "onboard_time": 1685453917,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1077203,
+      "num": 1077203,
+      "word": "沈月说因为丢工作经常焦虑",
+      "onboard_time": 1685508393,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1075560,
@@ -1001,6 +1033,14 @@
       "onboard_time": 1685360308,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 717201,
+      "num": 550951,
+      "word": "82岁阿尔帕西诺的29岁女友怀孕",
+      "onboard_time": 1685506170,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 712819,
@@ -1531,14 +1571,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 517171,
-      "num": 517171,
-      "word": "82岁阿尔帕西诺的29岁女友怀孕",
-      "onboard_time": 1685506170,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 514752,
       "num": 514752,
       "word": "北京WB",
@@ -1785,6 +1817,14 @@
       "onboard_time": 1685338409,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 450384,
+      "num": 450384,
+      "word": "终于等到肖春生了",
+      "onboard_time": 1685509712,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 449780,
@@ -2209,6 +2249,14 @@
       "onboard_time": 1685435970,
       "rank": 20,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 369116,
+      "num": 369116,
+      "word": "吴磊背着烤包子去骑行",
+      "onboard_time": 1685507131,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 366212,
@@ -2915,14 +2963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 288054,
-      "num": 288054,
-      "word": "二十岁以后基本形象都靠人民币和自律维持",
-      "onboard_time": 1685506833,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 287340,
       "num": 287340,
       "word": "解放军军机南海拦截美军侦察机",
@@ -3411,6 +3451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252811,
+      "num": 208689,
+      "word": "Amber官宣加盟说唱巅峰对决",
+      "onboard_time": 1685507729,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252471,
       "num": 252471,
       "word": "田曦薇张艺凡少看点直播吧",
@@ -3555,6 +3603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 245575,
+      "num": 202491,
+      "word": "易梦玲歌单",
+      "onboard_time": 1685507972,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244684,
       "num": 244684,
       "word": "种地吧感恩音乐会官宣嘉宾阵容",
@@ -3697,14 +3753,6 @@
       "onboard_time": 1685448752,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 235542,
-      "num": 235542,
-      "word": "吴磊背着烤包子去骑行",
-      "onboard_time": 1685507131,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 235395,
@@ -3867,6 +3915,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 223412,
+      "num": 191078,
+      "word": "宋茜主动去加雷佳音微信",
+      "onboard_time": 1685507791,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 223382,
       "num": 223382,
       "word": "马嘉祺这伞打了还不如不打",
@@ -3897,6 +3953,14 @@
       "onboard_time": 1685462010,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 222782,
+      "num": 190179,
+      "word": "网剧播出上线新规",
+      "onboard_time": 1685508934,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 222620,
@@ -4171,11 +4235,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206741,
+      "num": 203925,
+      "word": "迪丽热巴深V裙花絮视频",
+      "onboard_time": 1685504249,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 206715,
       "num": 206715,
       "word": "生死遗言",
       "onboard_time": 1685379561,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 206627,
+      "num": 175999,
+      "word": "阚清子钻戒",
+      "onboard_time": 1685510129,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -4209,6 +4289,14 @@
       "onboard_time": 1685343565,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 205525,
+      "num": 177367,
+      "word": "怦然心动20岁",
+      "onboard_time": 1685508812,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 205255,
@@ -4273,14 +4361,6 @@
       "onboard_time": 1685429969,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 203925,
-      "num": 203925,
-      "word": "迪丽热巴深V裙花絮视频",
-      "onboard_time": 1685504249,
-      "rank": 39,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 203145,
@@ -4435,6 +4515,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 197758,
+      "num": 197758,
+      "word": "乐乐茶 loopy",
+      "onboard_time": 1685509532,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 196841,
       "num": 196841,
       "word": "不然挂牌",
@@ -4553,6 +4641,14 @@
       "onboard_time": 1685414729,
       "rank": 48,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 193310,
+      "num": 193310,
+      "word": "月入6000背百万房贷当事人回应",
+      "onboard_time": 1685509237,
+      "rank": 34,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 193231,
@@ -5923,6 +6019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99490,
+      "num": 1539722,
+      "word": "祝福2023高考生",
+      "onboard_time": 1685507552,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99397,
       "num": 99397,
       "word": "虞书欣电影",
@@ -6432,14 +6536,6 @@
       "word": "爱上高速 畅游三秦",
       "onboard_time": 1685419229,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10705,
-      "num": 1539722,
-      "word": "祝福2023高考生",
-      "onboard_time": 1685507552,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],

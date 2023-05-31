@@ -1,7 +1,15 @@
 {
   "startTime": 1685463570565,
-  "endTime": 1685507623435,
+  "endTime": 1685510140819,
   "band_list": [
+    {
+      "raw_hot": 2758583,
+      "num": 551077,
+      "word": "阚清子 谢谢大家",
+      "onboard_time": 1685508214,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2123857,
       "num": 544697,
@@ -19,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1848945,
-      "num": 1848945,
+      "raw_hot": 1995529,
+      "num": 1995529,
       "word": "女生穿婚纱看演唱会被分手",
       "onboard_time": 1685501065,
       "rank": 15,
@@ -75,6 +83,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1167949,
+      "num": 1167949,
+      "word": "二十岁以后基本形象都靠人民币和自律维持",
+      "onboard_time": 1685506833,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1135670,
+      "num": 1135670,
+      "word": "梦中的那片海定档",
+      "onboard_time": 1685507612,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1107879,
       "num": 1107879,
       "word": "丫丫加入西直门群聊",
@@ -89,6 +113,14 @@
       "onboard_time": 1685501427,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1077203,
+      "num": 1077203,
+      "word": "沈月说因为丢工作经常焦虑",
+      "onboard_time": 1685508393,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1052791,
@@ -153,6 +185,14 @@
       "onboard_time": 1685447129,
       "rank": 7,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 717201,
+      "num": 550951,
+      "word": "82岁阿尔帕西诺的29岁女友怀孕",
+      "onboard_time": 1685506170,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 675940,
@@ -235,14 +275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 517171,
-      "num": 517171,
-      "word": "82岁阿尔帕西诺的29岁女友怀孕",
-      "onboard_time": 1685506170,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 506951,
       "num": 348475,
       "word": "梦中的那片海",
@@ -297,6 +329,14 @@
       "onboard_time": 1685499507,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 450384,
+      "num": 450384,
+      "word": "终于等到肖春生了",
+      "onboard_time": 1685509712,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 437444,
@@ -369,6 +409,14 @@
       "onboard_time": 1685453917,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 369116,
+      "num": 369116,
+      "word": "吴磊背着烤包子去骑行",
+      "onboard_time": 1685507131,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 367818,
@@ -475,14 +523,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 288054,
-      "num": 288054,
-      "word": "二十岁以后基本形象都靠人民币和自律维持",
-      "onboard_time": 1685506833,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 287340,
       "num": 287340,
       "word": "解放军军机南海拦截美军侦察机",
@@ -579,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 252811,
+      "num": 208689,
+      "word": "Amber官宣加盟说唱巅峰对决",
+      "onboard_time": 1685507729,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249040,
       "num": 238031,
       "word": "民警通宵审毒贩熬死了一地蚊子",
@@ -619,6 +667,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 245575,
+      "num": 202491,
+      "word": "易梦玲歌单",
+      "onboard_time": 1685507972,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244259,
       "num": 244259,
       "word": "Cat确认挂牌",
@@ -649,14 +705,6 @@
       "onboard_time": 1685505629,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 235542,
-      "num": 235542,
-      "word": "吴磊背着烤包子去骑行",
-      "onboard_time": 1685507131,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 229883,
@@ -691,12 +739,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223412,
+      "num": 191078,
+      "word": "宋茜主动去加雷佳音微信",
+      "onboard_time": 1685507791,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 222912,
       "num": 222912,
       "word": "吴磊到新疆了",
       "onboard_time": 1685462010,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 222782,
+      "num": 190179,
+      "word": "网剧播出上线新规",
+      "onboard_time": 1685508934,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 219880,
@@ -771,6 +835,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206741,
+      "num": 203925,
+      "word": "迪丽热巴深V裙花絮视频",
+      "onboard_time": 1685504249,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 206627,
+      "num": 175999,
+      "word": "阚清子钻戒",
+      "onboard_time": 1685510129,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206301,
       "num": 206301,
       "word": "离职前一定要删的东西",
@@ -779,12 +859,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 203925,
-      "num": 203925,
-      "word": "迪丽热巴深V裙花絮视频",
-      "onboard_time": 1685504249,
-      "rank": 39,
-      "category": "作品衍生,时尚"
+      "raw_hot": 205525,
+      "num": 177367,
+      "word": "怦然心动20岁",
+      "onboard_time": 1685508812,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 199730,
@@ -793,6 +873,14 @@
       "onboard_time": 1685500767,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 197758,
+      "num": 197758,
+      "word": "乐乐茶 loopy",
+      "onboard_time": 1685509532,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 196154,
@@ -809,6 +897,14 @@
       "onboard_time": 1685449231,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193310,
+      "num": 193310,
+      "word": "月入6000背百万房贷当事人回应",
+      "onboard_time": 1685509237,
+      "rank": 34,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 191523,
@@ -1131,6 +1227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 99490,
+      "num": 1539722,
+      "word": "祝福2023高考生",
+      "onboard_time": 1685507552,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98800,
       "num": 98800,
       "word": "深夜举吊瓶赶地铁的女生发声",
@@ -1288,14 +1392,6 @@
       "word": "什么是公益性岗位",
       "onboard_time": 1685478912,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10705,
-      "num": 1539722,
-      "word": "祝福2023高考生",
-      "onboard_time": 1685507552,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],
