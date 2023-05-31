@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/05/01 00:20:43 ~ 2023/05/31 18:18:02
+本榜单时间：2023/05/01 00:20:43 ~ 2023/05/31 18:33:19
 </p>
 </blockquote>
 <p>
@@ -4023,6 +4023,12 @@ house道歉（热度：1406063）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A9%E7%9D%A1%E5%8F%AF%E4%BB%A5%E8%A7%A3%E5%86%B380%25%E4%BB%A5%E4%B8%8A%E7%9A%84%E9%97%AE%E9%A2%98%23" target="weibo">
+早睡可以解决80%以上的问题（热度：1402086）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%9A%84%E5%A5%B3%E4%B8%BB%E8%BF%90%23" target="weibo">
 肖战的女主运（热度：1401574）
 </a>
@@ -5423,12 +5429,6 @@ Angelababy何猷君何超欣同框（热度：1188034）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A1%95%E5%A3%AB%E7%AD%94%E8%BE%A9%E7%9C%8B%E5%88%B0%E4%B8%80%E7%AF%87%E9%9D%9E%E5%B8%B8%E6%83%8A%E5%96%9C%E7%9A%84%E8%AE%BA%E6%96%87%23" target="weibo">
 硕士答辩看到一篇非常惊喜的论文（热度：1182426）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A9%E7%9D%A1%E5%8F%AF%E4%BB%A5%E8%A7%A3%E5%86%B380%25%E4%BB%A5%E4%B8%8A%E7%9A%84%E9%97%AE%E9%A2%98%23" target="weibo">
-早睡可以解决80%以上的问题（热度：1182273）
 </a>
 </li>
 

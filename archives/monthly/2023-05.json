@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685528282175,
+  "endTime": 1685529199054,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -5347,6 +5347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1402086,
+      "num": 1402086,
+      "word": "早睡可以解决80%以上的问题",
+      "onboard_time": 1685525007,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1401574,
       "num": 838580,
       "word": "肖战的女主运",
@@ -7217,14 +7225,6 @@
       "onboard_time": 1684657347,
       "rank": 30,
       "category": "教育,情感"
-    },
-    {
-      "raw_hot": 1182273,
-      "num": 1182273,
-      "word": "早睡可以解决80%以上的问题",
-      "onboard_time": 1685525007,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1181979,
@@ -9899,6 +9899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 916868,
+      "num": 1410877,
+      "word": "女子偷偷卖掉所有黄金首饰帮老公还账",
+      "onboard_time": 1685521589,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 916184,
       "num": 430931,
       "word": "张丹峰前经纪人名下企业均已注销",
@@ -10131,14 +10139,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 893905,
-      "num": 1311357,
-      "word": "女子偷偷卖掉所有黄金首饰帮老公还账",
-      "onboard_time": 1685521589,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 892779,
       "num": 892779,
       "word": "左耳朵耗子",
@@ -10259,6 +10259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 883719,
+      "num": 883719,
+      "word": "赵露思 妆发团队",
+      "onboard_time": 1685525248,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 883616,
       "num": 875750,
       "word": "谁给海清做的妆造",
@@ -10329,14 +10337,6 @@
       "onboard_time": 1684193904,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 880565,
-      "num": 880565,
-      "word": "赵露思 妆发团队",
-      "onboard_time": 1685525248,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 880241,
@@ -16251,6 +16251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 553802,
+      "num": 553802,
+      "word": "女生一生只能穿一次婚纱吗",
+      "onboard_time": 1685524469,
+      "rank": 36,
+      "category": "情感,音乐"
+    },
+    {
       "raw_hot": 553685,
       "num": 553685,
       "word": "一位小哥在韩国受到了歧视",
@@ -16569,6 +16577,14 @@
       "onboard_time": 1684900833,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 544025,
+      "num": 544025,
+      "word": "胡歌高圆圆 内江",
+      "onboard_time": 1685526750,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 543916,
@@ -17595,6 +17611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 517285,
+      "num": 1127178,
+      "word": "医生跟踪3年治好女大学生天疱疮",
+      "onboard_time": 1685523749,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 517253,
       "num": 517253,
       "word": "易烊千玺刘艳芬终章上线",
@@ -17816,14 +17840,6 @@
       "word": "外媒评龚俊戛纳红毯为最佳着装",
       "onboard_time": 1684832247,
       "rank": 23,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 510090,
-      "num": 510090,
-      "word": "胡歌高圆圆 内江",
-      "onboard_time": 1685526750,
-      "rank": 12,
       "category": "作品衍生"
     },
     {
@@ -19121,14 +19137,6 @@
       "onboard_time": 1684593636,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 479308,
-      "num": 1070098,
-      "word": "医生跟踪3年治好女大学生天疱疮",
-      "onboard_time": 1685523749,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 479282,
@@ -21553,14 +21561,6 @@
       "onboard_time": 1684116985,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 430509,
-      "num": 430509,
-      "word": "女生一生只能穿一次婚纱吗",
-      "onboard_time": 1685524469,
-      "rank": 36,
-      "category": "情感,音乐"
     },
     {
       "raw_hot": 430441,
@@ -24859,6 +24859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381694,
+      "num": 381694,
+      "word": "北上官宣阵容",
+      "onboard_time": 1685528908,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 381683,
       "num": 381683,
       "word": "春色寄情人",
@@ -27507,6 +27515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 349109,
+      "num": 349109,
+      "word": "一年级都火了",
+      "onboard_time": 1685527708,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 349071,
       "num": 349071,
       "word": "XYG获得KPL夏季赛席位",
@@ -28537,6 +28553,14 @@
       "onboard_time": 1685327967,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336766,
+      "num": 229540,
+      "word": "肖春生站姿",
+      "onboard_time": 1685528668,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 336743,
@@ -31977,6 +32001,14 @@
       "onboard_time": 1683521311,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 299161,
+      "num": 991328,
+      "word": "外卖骑手取餐闻到煤气味机智救下2人",
+      "onboard_time": 1685526388,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299118,
@@ -35643,6 +35675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268978,
+      "num": 227563,
+      "word": "应聘上大小姐助理是啥体验",
+      "onboard_time": 1685528490,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 268961,
       "num": 268961,
       "word": "艺人和粉丝的关系",
@@ -38027,14 +38067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 251911,
-      "num": 991328,
-      "word": "外卖骑手取餐闻到煤气味机智救下2人",
-      "onboard_time": 1685526388,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251865,
       "num": 214555,
       "word": "五一档电影评分降了",
@@ -40083,6 +40115,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 238714,
+      "num": 222765,
+      "word": "网友给热巴P的礼服",
+      "onboard_time": 1685527646,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 238679,
       "num": 238679,
       "word": "G社镜头下的郑秀晶",
@@ -40779,6 +40819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235434,
+      "num": 235434,
+      "word": "TES里也有ES",
+      "onboard_time": 1685526569,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 235395,
       "num": 235395,
       "word": "丫丫肉眼可见地胖了",
@@ -41385,14 +41433,6 @@
       "onboard_time": 1683896008,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 232224,
-      "num": 219214,
-      "word": "一年级都火了",
-      "onboard_time": 1685527708,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 232180,
@@ -44323,6 +44363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215247,
+      "num": 215247,
+      "word": "粉丝给TFBOYS十周年演唱会的建议",
+      "onboard_time": 1685528430,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 215234,
       "num": 215234,
       "word": "战至巅峰路透",
@@ -44417,14 +44465,6 @@
       "onboard_time": 1684367187,
       "rank": 29,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 214869,
-      "num": 214869,
-      "word": "TES里也有ES",
-      "onboard_time": 1685526569,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 214853,
@@ -46539,6 +46579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 203544,
+      "num": 203544,
+      "word": "张国伟打许凯屁股",
+      "onboard_time": 1685528490,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203536,
       "num": 203536,
       "word": "猫被气的站起来跑步打人了",
@@ -46777,6 +46825,14 @@
       "onboard_time": 1685117130,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202437,
+      "num": 202437,
+      "word": "在古代广东是流放地的原因",
+      "onboard_time": 1685527232,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 202349,
@@ -47689,6 +47745,14 @@
       "onboard_time": 1685330010,
       "rank": 37,
       "category": "科技"
+    },
+    {
+      "raw_hot": 197880,
+      "num": 220935,
+      "word": "中国女排vs巴西女排",
+      "onboard_time": 1685525667,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 197751,
@@ -51475,6 +51539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179905,
+      "num": 179905,
+      "word": "刘红艳刚流产就被催生",
+      "onboard_time": 1685528967,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 179904,
       "num": 179904,
       "word": "4000斤麦子掉鱼塘村民集体帮打捞",
@@ -52587,14 +52659,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 175230,
-      "num": 175230,
-      "word": "网友给热巴P的礼服",
-      "onboard_time": 1685527646,
-      "rank": 33,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 175169,
       "num": 175169,
       "word": "破事精英2",
@@ -52801,14 +52865,6 @@
       "onboard_time": 1684034065,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 174122,
-      "num": 174122,
-      "word": "在古代广东是流放地的原因",
-      "onboard_time": 1685527232,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 174111,
@@ -56515,6 +56571,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 154566,
+      "num": 154566,
+      "word": "TFBOYS团站敬十年敬青春",
+      "onboard_time": 1685526329,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 154560,
       "num": 172773,
       "word": "cp29场照被炼进AI模型",
@@ -57307,28 +57371,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 150251,
-      "num": 150251,
-      "word": "TFBOYS团站敬十年敬青春",
-      "onboard_time": 1685526329,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 150227,
       "num": 1273223,
       "word": "属于中国人的宇宙级浪漫",
       "onboard_time": 1683730232,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150212,
-      "num": 150212,
-      "word": "中国女排vs巴西女排",
-      "onboard_time": 1685525667,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 150203,
@@ -58424,6 +58472,14 @@
       "word": "何赛飞演过影视剧",
       "onboard_time": 1684657951,
       "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 143924,
+      "num": 143924,
+      "word": "范丞丞马上进组了",
+      "onboard_time": 1685529147,
+      "rank": 45,
       "category": "作品衍生"
     },
     {
@@ -62843,6 +62899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 108891,
+      "num": 108891,
+      "word": "LNG对战TES",
+      "onboard_time": 1685529030,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108824,
       "num": 108824,
       "word": "曼城vs利兹联",
@@ -63340,7 +63404,7 @@
     },
     {
       "raw_hot": 103443,
-      "num": 206822,
+      "num": 219891,
       "word": "两男子救落水女孩后默默离开",
       "onboard_time": 1685524529,
       "rank": 34,
@@ -67572,7 +67636,7 @@
     },
     {
       "raw_hot": 23673,
-      "num": 1201521,
+      "num": 1403394,
       "word": "今天世界无烟日",
       "onboard_time": 1685491767,
       "rank": 2,
