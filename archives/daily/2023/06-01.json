@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685574983821,
+  "endTime": 1685576018644,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1293845,
+      "num": 1293845,
+      "word": "坐飞机要称体重了",
+      "onboard_time": 1685542230,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1265552,
       "num": 1265552,
       "word": "退款",
@@ -27,16 +35,8 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 1020728,
-      "num": 1020728,
-      "word": "坐飞机要称体重了",
-      "onboard_time": 1685542230,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 826258,
-      "num": 826258,
+      "raw_hot": 1102658,
+      "num": 1102658,
       "word": "胡可说不要把另一半当自己人",
       "onboard_time": 1685542169,
       "rank": 9,
@@ -91,6 +91,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 434172,
+      "num": 434172,
+      "word": "六一儿童节",
+      "onboard_time": 1685545292,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399887,
+      "num": 399887,
+      "word": "塞维利亚夺得欧联冠军",
+      "onboard_time": 1685574561,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 393077,
       "num": 393077,
       "word": "赵露思 妆发团队",
@@ -123,20 +139,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 347041,
-      "num": 347041,
-      "word": "六一儿童节",
-      "onboard_time": 1685545292,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 333469,
-      "num": 240584,
+      "num": 245798,
       "word": "Lisa脚趾头",
       "onboard_time": 1685545051,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 326386,
+      "num": 286498,
+      "word": "看似睡着了 实际可能走了有一会儿",
+      "onboard_time": 1685546671,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 311706,
@@ -145,14 +161,6 @@
       "onboard_time": 1685539288,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 297930,
-      "num": 234820,
-      "word": "看似睡着了 实际可能走了有一会儿",
-      "onboard_time": 1685546671,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 297131,
@@ -169,6 +177,14 @@
       "onboard_time": 1685524889,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 272868,
+      "num": 272868,
+      "word": "儿童节快乐",
+      "onboard_time": 1685575040,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256981,
@@ -211,6 +227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 228227,
+      "num": 228227,
+      "word": "六月",
+      "onboard_time": 1685575161,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224802,
       "num": 224802,
       "word": "卡琳娜",
@@ -243,14 +267,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 207295,
-      "num": 207295,
-      "word": "塞维利亚夺得欧联冠军",
-      "onboard_time": 1685574561,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 207075,
       "num": 207075,
       "word": "CCTV6 诛仙",
@@ -272,6 +288,14 @@
       "word": "吴谢宇 三联",
       "onboard_time": 1685538688,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186924,
+      "num": 186924,
+      "word": "毕节涉记者治安案件3人被行拘",
+      "onboard_time": 1685575522,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -339,12 +363,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 157376,
+      "num": 157376,
+      "word": "出租房装的空调是5级能耗",
+      "onboard_time": 1685574199,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157184,
       "num": 133432,
       "word": "吴磊 烤包子",
       "onboard_time": 1685543791,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156165,
+      "num": 156165,
+      "word": "3名美国海军陆战队员被40名青少年群殴",
+      "onboard_time": 1685574439,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150300,
@@ -371,8 +411,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 138180,
-      "num": 138180,
+      "raw_hot": 139234,
+      "num": 139234,
       "word": "央视记者探访河南小麦发芽发霉",
       "onboard_time": 1685546971,
       "rank": 47,
@@ -395,6 +435,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124695,
+      "num": 124695,
+      "word": "六月你好",
+      "onboard_time": 1685575402,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 119472,
+      "num": 119472,
+      "word": "求求你了好好睡觉吧",
+      "onboard_time": 1685575461,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117805,
       "num": 133450,
       "word": "女生一生只能穿一次婚纱吗",
@@ -409,6 +465,22 @@
       "onboard_time": 1685574439,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112243,
+      "num": 112243,
+      "word": "学校回应小学生将螺丝刀插进同学背部",
+      "onboard_time": 1685575943,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108663,
+      "num": 108663,
+      "word": "如果广东停电一天",
+      "onboard_time": 1685575761,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 103499,
@@ -435,12 +507,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 73686,
-      "num": 73686,
-      "word": "出租房装的空调是5级能耗",
-      "onboard_time": 1685574199,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 86200,
+      "num": 86200,
+      "word": "穆里尼奥",
+      "onboard_time": 1685575822,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72790,
+      "num": 72790,
+      "word": "妹妹是重男轻女的产物",
+      "onboard_time": 1685522847,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 70247,
@@ -451,20 +531,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 69232,
+      "num": 72121,
+      "word": "当她单膝跪地那一刻 男友忍不住大笑",
+      "onboard_time": 1685574561,
+      "rank": 48,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 68926,
       "num": 103927,
       "word": "LNG战胜TES",
       "onboard_time": 1685542530,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 68444,
-      "num": 70177,
-      "word": "妹妹是重男轻女的产物",
-      "onboard_time": 1685522847,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 59070,
@@ -489,14 +569,6 @@
       "onboard_time": 1685561952,
       "rank": 36,
       "category": "教育"
-    },
-    {
-      "raw_hot": 51345,
-      "num": 51345,
-      "word": "3名美国海军陆战队员被40名青少年群殴",
-      "onboard_time": 1685574439,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51295,
@@ -540,7 +612,7 @@
     },
     {
       "raw_hot": 31783,
-      "num": 872487,
+      "num": 1134980,
       "word": "中国航天员太空会师名场面再现",
       "onboard_time": 1685537908,
       "rank": 2,

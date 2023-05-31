@@ -1,0 +1,410 @@
+{
+  "runTime": 1685576018644,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1293845,
+        "num": 1293845,
+        "word": "坐飞机要称体重了",
+        "onboard_time": 1685542230,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1725191,
+        "num": 1277201,
+        "word": "男子多次性侵女友孙女致其染上妇科病",
+        "onboard_time": 1685548168,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29805,
+        "num": 1134980,
+        "word": "中国航天员太空会师名场面再现",
+        "onboard_time": 1685537908,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1102658,
+        "num": 1102658,
+        "word": "胡可说不要把另一半当自己人",
+        "onboard_time": 1685542169,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 888542,
+        "num": 888542,
+        "word": "退款",
+        "onboard_time": 1685536526,
+        "rank": 4,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 434172,
+        "num": 434172,
+        "word": "六一儿童节",
+        "onboard_time": 1685545292,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399887,
+        "num": 399887,
+        "word": "塞维利亚夺得欧联冠军",
+        "onboard_time": 1685574561,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345189,
+        "num": 345189,
+        "word": "宋妍霏对王嘉尔的小动作",
+        "onboard_time": 1685545531,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 328420,
+        "num": 328420,
+        "word": "早睡可以解决80%以上的问题",
+        "onboard_time": 1685525007,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291619,
+        "num": 291619,
+        "word": "杨紫化妆师删博",
+        "onboard_time": 1685539347,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 326386,
+        "num": 286498,
+        "word": "看似睡着了 实际可能走了有一会儿",
+        "onboard_time": 1685546671,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 272868,
+        "num": 272868,
+        "word": "儿童节快乐",
+        "onboard_time": 1685575040,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245798,
+        "num": 245798,
+        "word": "Lisa脚趾头",
+        "onboard_time": 1685545051,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239908,
+        "num": 239908,
+        "word": "妊娠终止手术一定要在孕14周内做",
+        "onboard_time": 1685542109,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231186,
+        "num": 231186,
+        "word": "陈晓和陈妍希亲吻儿子好甜",
+        "onboard_time": 1685539107,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228227,
+        "num": 228227,
+        "word": "六月",
+        "onboard_time": 1685575161,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226308,
+        "num": 226308,
+        "word": "男子站斑马线旁聊天被撞飞当场死亡",
+        "onboard_time": 1685541270,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223742,
+        "num": 223742,
+        "word": "官方通报柳州一干部相关情况",
+        "onboard_time": 1685538207,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186924,
+        "num": 186924,
+        "word": "毕节涉记者治安案件3人被行拘",
+        "onboard_time": 1685575522,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185662,
+        "num": 185662,
+        "word": "肖战说谢谢淇哥",
+        "onboard_time": 1685535265,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182405,
+        "num": 182405,
+        "word": "一万人的朋友圈是什么样的",
+        "onboard_time": 1685551046,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169036,
+        "num": 169036,
+        "word": "赵丽颖被起哄了",
+        "onboard_time": 1685531787,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166792,
+        "num": 166792,
+        "word": "苹果14",
+        "onboard_time": 1685536646,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 157376,
+        "num": 157376,
+        "word": "出租房装的空调是5级能耗",
+        "onboard_time": 1685574199,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156165,
+        "num": 156165,
+        "word": "3名美国海军陆战队员被40名青少年群殴",
+        "onboard_time": 1685574439,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147995,
+        "num": 147995,
+        "word": "赵露思 妆发团队",
+        "onboard_time": 1685525248,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145286,
+        "num": 145286,
+        "word": "卡琳娜 我轻轻地尖叫晕了",
+        "onboard_time": 1685549729,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 139234,
+        "num": 139234,
+        "word": "央视记者探访河南小麦发芽发霉",
+        "onboard_time": 1685546971,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136385,
+        "num": 136385,
+        "word": "明天有两部新剧开播",
+        "onboard_time": 1685531249,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131450,
+        "num": 131450,
+        "word": "吴谢宇 三联",
+        "onboard_time": 1685538688,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124695,
+        "num": 124695,
+        "word": "六月你好",
+        "onboard_time": 1685575402,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123913,
+        "num": 123913,
+        "word": "福建一彩民中得1.5亿大奖",
+        "onboard_time": 1685535386,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119472,
+        "num": 119472,
+        "word": "求求你了好好睡觉吧",
+        "onboard_time": 1685575461,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112243,
+        "num": 112243,
+        "word": "学校回应小学生将螺丝刀插进同学背部",
+        "onboard_time": 1685575943,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111183,
+        "num": 111183,
+        "word": "长月烬明三位主演的后续",
+        "onboard_time": 1685539288,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109117,
+        "num": 109117,
+        "word": "CCTV6 诛仙",
+        "onboard_time": 1685540369,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108663,
+        "num": 108663,
+        "word": "如果广东停电一天",
+        "onboard_time": 1685575761,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98810,
+        "num": 98810,
+        "word": "肖战粉丝花式宣传梦中的那片海",
+        "onboard_time": 1685544453,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96751,
+        "num": 96751,
+        "word": "吴磊 烤包子",
+        "onboard_time": 1685543791,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95289,
+        "num": 95289,
+        "word": "虞书欣 杨天真",
+        "onboard_time": 1685545351,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91106,
+        "num": 91106,
+        "word": "以后都不会做了的工作",
+        "onboard_time": 1685542471,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87763,
+        "num": 87763,
+        "word": "女生一生只能穿一次婚纱吗",
+        "onboard_time": 1685524469,
+        "rank": 41,
+        "category": "情感,音乐"
+      },
+      {
+        "raw_hot": 86200,
+        "num": 86200,
+        "word": "穆里尼奥",
+        "onboard_time": 1685575822,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83083,
+        "num": 83083,
+        "word": "Jennie曼谷演唱会不划水",
+        "onboard_time": 1685538267,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 82174,
+        "num": 82174,
+        "word": "我慢慢开始情绪稳定",
+        "onboard_time": 1685549369,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 73782,
+        "num": 73782,
+        "word": "Rookie",
+        "onboard_time": 1685546313,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 73493,
+        "num": 73493,
+        "word": "TFBOYS演唱会最终章",
+        "onboard_time": 1685524889,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 72790,
+        "num": 72790,
+        "word": "妹妹是重男轻女的产物",
+        "onboard_time": 1685522847,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69232,
+        "num": 72121,
+        "word": "当她单膝跪地那一刻 男友忍不住大笑",
+        "onboard_time": 1685574561,
+        "rank": 48,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 67909,
+        "num": 72010,
+        "word": "卡琳娜",
+        "onboard_time": 1685537066,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#少年志#"
+    }
+  }
+}
