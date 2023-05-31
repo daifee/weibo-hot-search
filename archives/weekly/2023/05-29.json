@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685540021896,
+  "endTime": 1685542506654,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 2357543,
-      "num": 1093276,
+      "num": 1853231,
       "word": "退款",
       "onboard_time": 1685536526,
       "rank": 7,
@@ -281,6 +281,14 @@
       "onboard_time": 1685440470,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1854334,
+      "num": 1854334,
+      "word": "杨紫化妆师删博",
+      "onboard_time": 1685539347,
+      "rank": 4,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 1836031,
@@ -499,6 +507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1370339,
+      "num": 1370339,
+      "word": "苹果14",
+      "onboard_time": 1685536646,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1368251,
       "num": 965497,
       "word": "大姨妈正常周期到底是几天",
@@ -617,14 +633,6 @@
       "onboard_time": 1685325928,
       "rank": 6,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 1290658,
-      "num": 1290658,
-      "word": "苹果14",
-      "onboard_time": 1685536646,
-      "rank": 13,
-      "category": "科技"
     },
     {
       "raw_hot": 1282998,
@@ -1075,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 869100,
+      "num": 869100,
+      "word": "CCTV6 诛仙",
+      "onboard_time": 1685540369,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 868180,
       "num": 868180,
       "word": "冯小刚香港卖房大赚6000万港元",
@@ -1187,6 +1203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 740624,
+      "num": 740624,
+      "word": "网传柳州一干部与情人聊天记录被群发",
+      "onboard_time": 1685539529,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 733900,
       "num": 733900,
       "word": "五月天演唱会成大型求婚现场",
@@ -1203,12 +1227,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 722234,
-      "num": 722234,
-      "word": "杨紫化妆师删博",
-      "onboard_time": 1685539347,
-      "rank": 4,
-      "category": "作品衍生,美妆"
+      "raw_hot": 719256,
+      "num": 529967,
+      "word": "吴谢宇 三联",
+      "onboard_time": 1685538688,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 719074,
@@ -1283,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 690734,
+      "num": 690734,
+      "word": "长月烬明三位主演的后续",
+      "onboard_time": 1685539288,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 689329,
       "num": 651057,
       "word": "金星参加干女儿婚礼",
@@ -1296,14 +1328,6 @@
       "word": "被丈夫砍杀柯基威胁女子回应彩礼争议",
       "onboard_time": 1685431111,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 676667,
-      "num": 529967,
-      "word": "吴谢宇 三联",
-      "onboard_time": 1685538688,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1337,6 +1361,14 @@
       "onboard_time": 1685287770,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 658285,
+      "num": 509668,
+      "word": "陈晓和陈妍希亲吻儿子好甜",
+      "onboard_time": 1685539107,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 657583,
@@ -2099,6 +2131,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 461763,
+      "num": 461763,
+      "word": "柳州",
+      "onboard_time": 1685538987,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 460997,
       "num": 292464,
       "word": "虹猫蓝兔重制版",
@@ -2571,6 +2611,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 382607,
+      "num": 332331,
+      "word": "Jennie曼谷演唱会不划水",
+      "onboard_time": 1685538267,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 382587,
       "num": 382587,
       "word": "天蝎座在感情中太矛盾了",
@@ -2803,14 +2851,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 351178,
-      "num": 351178,
-      "word": "柳州",
-      "onboard_time": 1685538987,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 351145,
       "num": 322276,
       "word": "迪丽热巴公诉首播收视冠军",
@@ -2961,14 +3001,6 @@
       "onboard_time": 1685333731,
       "rank": 41,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 332331,
-      "num": 332331,
-      "word": "Jennie曼谷演唱会不划水",
-      "onboard_time": 1685538267,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 332316,
@@ -3291,14 +3323,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 310038,
-      "num": 310038,
-      "word": "长月烬明三位主演的后续",
-      "onboard_time": 1685539288,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 308645,
       "num": 308645,
       "word": "曾毅宝石老舅说唱好绝",
@@ -3313,14 +3337,6 @@
       "onboard_time": 1685413527,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 308125,
-      "num": 206669,
-      "word": "陈晓和陈妍希亲吻儿子好甜",
-      "onboard_time": 1685539107,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 307382,
@@ -3504,14 +3520,6 @@
       "word": "丫丫需静养现不对外展出",
       "onboard_time": 1685317405,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 287448,
-      "num": 205942,
-      "word": "网传柳州一干部与情人聊天记录被群发",
-      "onboard_time": 1685539529,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -3971,6 +3979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260370,
+      "num": 260370,
+      "word": "赵丽颖发了粉丝修的图",
+      "onboard_time": 1685540910,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 259954,
       "num": 177512,
       "word": "藤井风 上海",
@@ -4363,6 +4379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241813,
+      "num": 241813,
+      "word": "周深唱的美美好美",
+      "onboard_time": 1685542351,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241590,
       "num": 241590,
       "word": "在云南直接晒成了灭霸",
@@ -4425,6 +4449,14 @@
       "onboard_time": 1685353349,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 237966,
+      "num": 317783,
+      "word": "卫生巾",
+      "onboard_time": 1685537007,
+      "rank": 37,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 237425,
@@ -4515,6 +4547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 233746,
+      "num": 198299,
+      "word": "baby王嘉尔 黑道文学",
+      "onboard_time": 1685539468,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 232905,
       "num": 232905,
       "word": "狼队",
@@ -4524,7 +4564,7 @@
     },
     {
       "raw_hot": 232528,
-      "num": 232528,
+      "num": 250909,
       "word": "美军一侦察机蓄意闯入我位南海训练区",
       "onboard_time": 1685535206,
       "rank": 32,
@@ -4553,6 +4593,14 @@
       "onboard_time": 1685413770,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230807,
+      "num": 252532,
+      "word": "男子站斑马线旁聊天被撞飞当场死亡",
+      "onboard_time": 1685541270,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230744,
@@ -4889,6 +4937,14 @@
       "onboard_time": 1685320409,
       "rank": 36,
       "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 216125,
+      "num": 198129,
+      "word": "胡可说不要把另一半当自己人",
+      "onboard_time": 1685542169,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 215844,
@@ -5363,6 +5419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198951,
+      "num": 198951,
+      "word": "别看不起做题家",
+      "onboard_time": 1685540609,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198816,
       "num": 198816,
       "word": "没前景的工作要不要辞职",
@@ -5531,6 +5595,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 194246,
+      "num": 194246,
+      "word": "618发货真快",
+      "onboard_time": 1685541450,
+      "rank": 34,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 193881,
       "num": 193881,
       "word": "用SPSS分析是否该分手",
@@ -5651,14 +5723,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 190813,
-      "num": 190813,
-      "word": "卫生巾",
-      "onboard_time": 1685537007,
-      "rank": 37,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 190759,
       "num": 419057,
       "word": "紫色可以多惊艳",
@@ -5769,14 +5833,6 @@
       "onboard_time": 1685445811,
       "rank": 48,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 185997,
-      "num": 185997,
-      "word": "baby王嘉尔 黑道文学",
-      "onboard_time": 1685539468,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 185862,
@@ -6659,6 +6715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148434,
+      "num": 138464,
+      "word": "张彬彬全国寻亲带着导演吧",
+      "onboard_time": 1685539048,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148414,
       "num": 148414,
       "word": "磁悬浮小肥羊",
@@ -6792,6 +6856,14 @@
       "word": "工作后无力发扬真善美",
       "onboard_time": 1685349929,
       "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 138472,
+      "num": 138472,
+      "word": "余华太懂现在的年轻人了",
+      "onboard_time": 1685540369,
+      "rank": 39,
       "category": "情感"
     },
     {
@@ -7299,6 +7371,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 113622,
+      "num": 137914,
+      "word": "坐飞机要称体重了",
+      "onboard_time": 1685542230,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113037,
       "num": 164748,
       "word": "戳戳式学习的弊端",
@@ -7491,6 +7571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92070,
+      "num": 136478,
+      "word": "儿童节文案",
+      "onboard_time": 1685541811,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90076,
       "num": 1504559,
       "word": "掘地三万尺中国又一壮举",
@@ -7515,6 +7603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 87875,
+      "num": 134873,
+      "word": "以后都不会做了的工作",
+      "onboard_time": 1685542471,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 86510,
       "num": 379763,
       "word": "易烊千玺天猫",
@@ -7529,6 +7625,14 @@
       "onboard_time": 1685361627,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 85304,
+      "num": 133904,
+      "word": "李盈莹全场最高26分",
+      "onboard_time": 1685541690,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 84291,
@@ -7707,6 +7811,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 65124,
+      "num": 1473701,
+      "word": "中国好书六一专榜",
+      "onboard_time": 1685538147,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64758,
       "num": 260911,
       "word": "辅导孩子学习有多费妈",
@@ -7849,14 +7961,6 @@
       "onboard_time": 1685365230,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 39076,
-      "num": 868228,
-      "word": "中国好书六一专榜",
-      "onboard_time": 1685538147,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36613,
