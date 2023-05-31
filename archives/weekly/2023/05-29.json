@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685547227836,
+  "endTime": 1685550119926,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -33,6 +33,14 @@
       "onboard_time": 1685444071,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 3246230,
+      "num": 3246230,
+      "word": "男子多次性侵女友孙女致其染上妇科病",
+      "onboard_time": 1685548168,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3128535,
@@ -211,6 +219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2041966,
+      "num": 1687798,
+      "word": "网传柳州一干部与情人聊天记录被群发",
+      "onboard_time": 1685539529,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2023229,
       "num": 2023229,
       "word": "早睡可以解决80%以上的问题",
@@ -337,14 +353,6 @@
       "onboard_time": 1685339425,
       "rank": 4,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 1687798,
-      "num": 1687798,
-      "word": "网传柳州一干部与情人聊天记录被群发",
-      "onboard_time": 1685539529,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1680113,
@@ -947,6 +955,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1020728,
+      "num": 1020728,
+      "word": "坐飞机要称体重了",
+      "onboard_time": 1685542230,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1020188,
       "num": 636843,
       "word": "宋轶白敬亭好嗑",
@@ -1137,14 +1153,6 @@
       "onboard_time": 1685363067,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 825521,
-      "num": 825521,
-      "word": "坐飞机要称体重了",
-      "onboard_time": 1685542230,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 819265,
@@ -1905,6 +1913,14 @@
       "onboard_time": 1685401218,
       "rank": 22,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 519751,
+      "num": 519751,
+      "word": "宋妍霏对王嘉尔的小动作",
+      "onboard_time": 1685545531,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 519124,
@@ -3075,6 +3091,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 333469,
+      "num": 321741,
+      "word": "Lisa脚趾头",
+      "onboard_time": 1685545051,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 332316,
       "num": 332316,
       "word": "张钧甯骨相",
@@ -3235,14 +3259,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 321741,
-      "num": 321741,
-      "word": "Lisa脚趾头",
-      "onboard_time": 1685545051,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 321516,
       "num": 321516,
       "word": "是恶评 龚俊别看",
@@ -3329,14 +3345,6 @@
       "onboard_time": 1685450312,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 317631,
-      "num": 317631,
-      "word": "宋妍霏对王嘉尔的小动作",
-      "onboard_time": 1685545531,
-      "rank": 30,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 315482,
@@ -4707,6 +4715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230958,
+      "num": 230958,
+      "word": "Rookie",
+      "onboard_time": 1685546313,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 230744,
       "num": 230744,
       "word": "黄晓明让严浩翔卖啊",
@@ -4745,6 +4761,14 @@
       "onboard_time": 1685504486,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 228188,
+      "num": 185863,
+      "word": "看似睡着了 实际可能走了有一会儿",
+      "onboard_time": 1685546671,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 228141,
@@ -5139,6 +5163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209903,
+      "num": 209903,
+      "word": "张杰狼尾发型",
+      "onboard_time": 1685547628,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 209690,
       "num": 209690,
       "word": "养猫的都这么手欠过",
@@ -5321,6 +5353,14 @@
       "onboard_time": 1685508812,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205425,
+      "num": 184518,
+      "word": "卡琳娜 我轻轻地尖叫晕了",
+      "onboard_time": 1685549729,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 205358,
@@ -5724,7 +5764,7 @@
     },
     {
       "raw_hot": 193972,
-      "num": 159920,
+      "num": 172903,
       "word": "请张彬彬不要随意解衬衫",
       "onboard_time": 1685546610,
       "rank": 35,
@@ -5977,14 +6017,6 @@
       "onboard_time": 1685511627,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185848,
-      "num": 185848,
-      "word": "Rookie",
-      "onboard_time": 1685546313,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 185720,
@@ -6539,6 +6571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 164063,
+      "num": 164063,
+      "word": "赵露思浓妆vs淡妆",
+      "onboard_time": 1685547030,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 164060,
       "num": 164060,
       "word": "桂海潮出征前还在催学生交论文",
@@ -6569,6 +6609,14 @@
       "onboard_time": 1685456138,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163217,
+      "num": 163217,
+      "word": "WBG官宣daeny首场比赛无法登场",
+      "onboard_time": 1685547988,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 163215,
@@ -6761,14 +6809,6 @@
       "onboard_time": 1685527467,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 155484,
-      "num": 149072,
-      "word": "赵露思浓妆vs淡妆",
-      "onboard_time": 1685547030,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 155425,
@@ -7195,14 +7235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129415,
-      "num": 148882,
-      "word": "看似睡着了 实际可能走了有一会儿",
-      "onboard_time": 1685546671,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 129060,
       "num": 129060,
       "word": "面膜",
@@ -7491,6 +7523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 116804,
+      "num": 132992,
+      "word": "我慢慢开始情绪稳定",
+      "onboard_time": 1685549369,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115422,
       "num": 115422,
       "word": "奔赴初夏",
@@ -7707,6 +7747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98644,
+      "num": 148431,
+      "word": "央视记者探访河南小麦发芽发霉",
+      "onboard_time": 1685546971,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98233,
       "num": 98233,
       "word": "56岁保安写出40余万字长篇小说",
@@ -7731,20 +7779,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 96285,
-      "num": 148431,
-      "word": "央视记者探访河南小麦发芽发霉",
-      "onboard_time": 1685546971,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 93592,
       "num": 93592,
       "word": "王源吆不到台",
       "onboard_time": 1685292262,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 92931,
+      "num": 132073,
+      "word": "六一儿童节快乐",
+      "onboard_time": 1685548409,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 92283,
@@ -7809,6 +7857,14 @@
       "onboard_time": 1685541690,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84603,
+      "num": 131517,
+      "word": "代号鸢",
+      "onboard_time": 1685550029,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 84291,
