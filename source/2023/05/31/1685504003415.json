@@ -1,0 +1,410 @@
+{
+  "runTime": 1685504003415,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1719886,
+        "num": 1719886,
+        "word": "2023端午节放假通知",
+        "onboard_time": 1685495667,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1419612,
+        "num": 1419612,
+        "word": "女婴出生2天就被母亲打耳洞",
+        "onboard_time": 1685499985,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42398,
+        "num": 1215018,
+        "word": "掘地三万尺中国又一壮举",
+        "onboard_time": 1685459974,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1149342,
+        "num": 1149342,
+        "word": "女生穿婚纱看演唱会被分手",
+        "onboard_time": 1685501065,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 705234,
+        "num": 705234,
+        "word": "丫丫加入西直门群聊",
+        "onboard_time": 1685492549,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682068,
+        "num": 682068,
+        "word": "苏芒",
+        "onboard_time": 1685501427,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 676614,
+        "num": 676614,
+        "word": "胡歌高圆圆新电影官宣",
+        "onboard_time": 1685496809,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 670262,
+        "num": 670262,
+        "word": "韩国警报",
+        "onboard_time": 1685488281,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600587,
+        "num": 600587,
+        "word": "迪丽热巴 刚出水的美人鱼",
+        "onboard_time": 1685444071,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 593419,
+        "num": 593419,
+        "word": "还记得延禧攻略的愉妃吗",
+        "onboard_time": 1685498068,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 880241,
+        "num": 592193,
+        "word": "伊能静自己都想不到吧",
+        "onboard_time": 1685492969,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 590352,
+        "num": 590352,
+        "word": "王源演唱会 婚纱",
+        "onboard_time": 1685497707,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 492473,
+        "num": 492473,
+        "word": "女子3千割眼袋3个月眼睛闭不合",
+        "onboard_time": 1685489965,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457236,
+        "num": 457236,
+        "word": "浙江自然资源厅一处长地铁猥亵他人被拘",
+        "onboard_time": 1685499507,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448739,
+        "num": 448739,
+        "word": "五月天放票",
+        "onboard_time": 1685501967,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 445692,
+        "num": 445692,
+        "word": "新人订婚用押钞车运送998万现金",
+        "onboard_time": 1685488823,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437484,
+        "num": 437484,
+        "word": "网剧花戎",
+        "onboard_time": 1685502030,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 437444,
+        "num": 437444,
+        "word": "端午节放3天后连上6天",
+        "onboard_time": 1685498906,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403873,
+        "num": 403873,
+        "word": "阚清子被男友求婚",
+        "onboard_time": 1685450613,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325869,
+        "num": 325869,
+        "word": "王源演唱会最累的是王俊凯员工",
+        "onboard_time": 1685459794,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 361526,
+        "num": 314845,
+        "word": "迪丽热巴裙子钻掉了",
+        "onboard_time": 1685496508,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 295486,
+        "num": 295486,
+        "word": "吉克隽逸杭州夏天穿毛衣",
+        "onboard_time": 1685503287,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287340,
+        "num": 287340,
+        "word": "解放军军机南海拦截美军侦察机",
+        "onboard_time": 1685499626,
+        "rank": 22,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 265594,
+        "num": 265594,
+        "word": "四川千年荔枝树时隔11年再结果",
+        "onboard_time": 1685501547,
+        "rank": 23,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 257288,
+        "num": 257288,
+        "word": "五月天演唱会票价涨3倍黄牛还说不赚钱",
+        "onboard_time": 1685497348,
+        "rank": 24,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 248496,
+        "num": 248496,
+        "word": "张艺兴深圳演唱会官宣",
+        "onboard_time": 1685499328,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 238169,
+        "num": 238169,
+        "word": "亚运会名单",
+        "onboard_time": 1685492311,
+        "rank": 26,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 237402,
+        "num": 237402,
+        "word": "你每个月洗澡多少次",
+        "onboard_time": 1685460992,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 233206,
+        "num": 233206,
+        "word": "亲密关系最忌讳炫耀自己受欢迎",
+        "onboard_time": 1685463089,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209313,
+        "num": 209313,
+        "word": "谭松韵生日发自己写的歌",
+        "onboard_time": 1685501188,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209659,
+        "num": 208380,
+        "word": "丫丫回归熊猫家族全家福已更新",
+        "onboard_time": 1685502806,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206920,
+        "num": 206920,
+        "word": "五月天演唱会被吐槽的求婚情侣回应",
+        "onboard_time": 1685499027,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201075,
+        "num": 201075,
+        "word": "特殊爱好被父母尊重的孩子有多棒",
+        "onboard_time": 1685494889,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194031,
+        "num": 194031,
+        "word": "TFBOYS",
+        "onboard_time": 1685460155,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189481,
+        "num": 189481,
+        "word": "王一博出发日本",
+        "onboard_time": 1685495726,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187604,
+        "num": 187604,
+        "word": "重返未来公测",
+        "onboard_time": 1685502448,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187494,
+        "num": 187494,
+        "word": "龚俊手机屏保是花花",
+        "onboard_time": 1685457698,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177224,
+        "num": 177224,
+        "word": "马斯克北京首日晚宴吃了啥",
+        "onboard_time": 1685497827,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175726,
+        "num": 175726,
+        "word": "汪苏泷2023世纪派对巡回演唱会",
+        "onboard_time": 1685500288,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173785,
+        "num": 173785,
+        "word": "吴谢宇弑母案的悲剧发生之前",
+        "onboard_time": 1685491045,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169610,
+        "num": 169610,
+        "word": "照亮你定档",
+        "onboard_time": 1685500347,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162898,
+        "num": 162898,
+        "word": "李晓峰帮杨颖提裙子",
+        "onboard_time": 1685456797,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161707,
+        "num": 161707,
+        "word": "我国每年有超10万人死于二手烟暴露",
+        "onboard_time": 1685498368,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157352,
+        "num": 157352,
+        "word": "幼童撞到石墩口吐鲜血邻居合救",
+        "onboard_time": 1685493390,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155621,
+        "num": 155621,
+        "word": "朝鲜宣布军事侦察卫星发射失败",
+        "onboard_time": 1685497046,
+        "rank": 44,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 154536,
+        "num": 154536,
+        "word": "贾跃亭",
+        "onboard_time": 1685496389,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 151694,
+        "num": 151694,
+        "word": "GAI变形金刚7主题曲MV",
+        "onboard_time": 1685499867,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141538,
+        "num": 141538,
+        "word": "当地回应记者采访时遭不明身份人士殴打",
+        "onboard_time": 1685502806,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122924,
+        "num": 122924,
+        "word": "长城汽车公关总经理离职",
+        "onboard_time": 1685503948,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118885,
+        "num": 118885,
+        "word": "杨幂 谢依霖",
+        "onboard_time": 1685448932,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#神十六发射圆满成功#"
+    }
+  }
+}
