@@ -1,10 +1,10 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685489605813,
+  "endTime": 1685497539435,
   "band_list": [
     {
       "raw_hot": 4071736,
-      "num": 524079,
+      "num": 544697,
       "word": "阚清子被男友求婚",
       "onboard_time": 1685450613,
       "rank": 10,
@@ -289,6 +289,14 @@
       "onboard_time": 1685440949,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1550135,
+      "num": 1550135,
+      "word": "韩国警报",
+      "onboard_time": 1685488281,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1544640,
@@ -603,11 +611,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1128871,
+      "num": 581364,
+      "word": "南开大学",
+      "onboard_time": 1685494650,
+      "rank": 10,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1115603,
       "num": 1115603,
       "word": "大熊猫园润遭男子泼水",
       "onboard_time": 1685414187,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1107879,
+      "num": 1107879,
+      "word": "丫丫加入西直门群聊",
+      "onboard_time": 1685492549,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -649,6 +673,14 @@
       "onboard_time": 1685456797,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1052791,
+      "num": 1052791,
+      "word": "女子3千割眼袋3个月眼睛闭不合",
+      "onboard_time": 1685489965,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1052609,
@@ -859,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 774116,
+      "num": 774116,
+      "word": "2023端午节放假通知",
+      "onboard_time": 1685495667,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 770773,
       "num": 770773,
       "word": "网友新疆偶遇吴磊骑行",
@@ -947,6 +987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 704243,
+      "num": 541222,
+      "word": "伊能静自己都想不到吧",
+      "onboard_time": 1685492969,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 701142,
       "num": 292737,
       "word": "吴磊新剧演的年上",
@@ -969,14 +1017,6 @@
       "onboard_time": 1685370152,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 696317,
-      "num": 696317,
-      "word": "韩国警报",
-      "onboard_time": 1685488281,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 689329,
@@ -1051,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 636010,
+      "num": 636010,
+      "word": "新人订婚用押钞车运送998万现金",
+      "onboard_time": 1685488823,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 634869,
       "num": 634869,
       "word": "陈都灵粉色吊带",
@@ -1065,6 +1113,14 @@
       "onboard_time": 1685441309,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 631538,
+      "num": 631538,
+      "word": "亚运会名单",
+      "onboard_time": 1685492311,
+      "rank": 8,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 628445,
@@ -1179,6 +1235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 594255,
+      "num": 594255,
+      "word": "龚俊手机屏保是花花",
+      "onboard_time": 1685457698,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 582791,
       "num": 566186,
       "word": "你管周也这张脸叫普普通通",
@@ -1217,14 +1281,6 @@
       "onboard_time": 1685418811,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 573439,
-      "num": 309775,
-      "word": "龚俊手机屏保是花花",
-      "onboard_time": 1685457698,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 561009,
@@ -1467,6 +1523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 504736,
+      "num": 504736,
+      "word": "王源演唱会最累的是王俊凯员工",
+      "onboard_time": 1685459794,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 503896,
       "num": 503896,
       "word": "莫斯科",
@@ -1643,14 +1707,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 441225,
-      "num": 354251,
-      "word": "王源演唱会最累的是王俊凯员工",
-      "onboard_time": 1685459794,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 438481,
       "num": 438481,
       "word": "凯尔特人vs热火",
@@ -1697,6 +1753,14 @@
       "onboard_time": 1685460335,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 423532,
+      "num": 423532,
+      "word": "幼童撞到石墩口吐鲜血邻居合救",
+      "onboard_time": 1685493390,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 423449,
@@ -1987,6 +2051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 370868,
+      "num": 347659,
+      "word": "迪丽热巴裙子钻掉了",
+      "onboard_time": 1685496508,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 370838,
       "num": 370838,
       "word": "韩国男爱豆猥亵队友一审被判缓刑",
@@ -2099,6 +2171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 354080,
+      "num": 354080,
+      "word": "吴谢宇弑母案的悲剧发生之前",
+      "onboard_time": 1685491045,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352551,
       "num": 352551,
       "word": "光与夜之恋",
@@ -2113,6 +2193,14 @@
       "onboard_time": 1685369314,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 350558,
+      "num": 350558,
+      "word": "特殊爱好被父母尊重的孩子有多棒",
+      "onboard_time": 1685494889,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350428,
@@ -2289,6 +2377,14 @@
       "onboard_time": 1685431590,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 325589,
+      "num": 325589,
+      "word": "王一博出发日本",
+      "onboard_time": 1685495726,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 325501,
@@ -2473,6 +2569,14 @@
       "onboard_time": 1685435910,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 311301,
+      "num": 311301,
+      "word": "昨晚睡觉你开空调了吗",
+      "onboard_time": 1685493089,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 308645,
@@ -2779,6 +2883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 276484,
+      "num": 276484,
+      "word": "电影走走停停开机",
+      "onboard_time": 1685496568,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 276386,
       "num": 276386,
       "word": "StrayKids新专辑预售破493万",
@@ -2880,6 +2992,14 @@
       "word": "丫丫离开上海回京",
       "onboard_time": 1685278589,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269421,
+      "num": 269421,
+      "word": "大爷在菜市场猥亵多名女性被拍下",
+      "onboard_time": 1685494171,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -3131,6 +3251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248918,
+      "num": 248918,
+      "word": "芭莎主编好友圈",
+      "onboard_time": 1685493331,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 247793,
       "num": 247793,
       "word": "五月最后一天",
@@ -3169,6 +3297,14 @@
       "onboard_time": 1685419893,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 245961,
+      "num": 245961,
+      "word": "胡歌高圆圆新电影官宣",
+      "onboard_time": 1685496809,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 245900,
@@ -3251,20 +3387,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 241897,
-      "num": 113425,
-      "word": "新人订婚用押钞车运送998万现金",
-      "onboard_time": 1685488823,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241827,
       "num": 241827,
       "word": "女子骨折做手术后左腿变长2.3厘米",
       "onboard_time": 1685386513,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241590,
+      "num": 241590,
+      "word": "在云南直接晒成了灭霸",
+      "onboard_time": 1685490384,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 240612,
@@ -3385,6 +3521,14 @@
       "onboard_time": 1685337151,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 229817,
+      "num": 229817,
+      "word": "张艺兴让贝壳自己选应援棒",
+      "onboard_time": 1685493752,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 228236,
@@ -4075,6 +4219,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 193377,
+      "num": 193377,
+      "word": "离职前一定要删的东西",
+      "onboard_time": 1685496147,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193231,
       "num": 193231,
       "word": "好多明星去了五月天演唱会",
@@ -4121,6 +4273,14 @@
       "onboard_time": 1685406509,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 191997,
+      "num": 191997,
+      "word": "贾跃亭",
+      "onboard_time": 1685496389,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 191958,
@@ -4451,6 +4611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171007,
+      "num": 171007,
+      "word": "官方回应广东汕尾海滩突现百米生蚝带",
+      "onboard_time": 1685490805,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170868,
       "num": 170868,
       "word": "k4",
@@ -4587,6 +4755,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164174,
+      "num": 164174,
+      "word": "五月天演唱会票价涨3倍黄牛还说不赚钱",
+      "onboard_time": 1685497348,
+      "rank": 34,
+      "category": "社会新闻,音乐"
+    },
+    {
+      "raw_hot": 164123,
+      "num": 164123,
+      "word": "杨紫说相聚很高兴",
+      "onboard_time": 1685491650,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 164060,
       "num": 164060,
       "word": "桂海潮出征前还在催学生交论文",
@@ -4649,6 +4833,14 @@
       "onboard_time": 1685356707,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159561,
+      "num": 159561,
+      "word": "马斯克与宁德时代董事长曾毓群会面",
+      "onboard_time": 1685494831,
+      "rank": 37,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 159476,
@@ -4739,6 +4931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153637,
+      "num": 153637,
+      "word": "狗狗突然晕倒 路人人工呼吸抢救",
+      "onboard_time": 1685488159,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152576,
       "num": 152576,
       "word": "迪丽热巴公诉转身入局",
@@ -4777,6 +4977,14 @@
       "onboard_time": 1685412147,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149561,
+      "num": 149561,
+      "word": "婚礼上想哭千万别憋着",
+      "onboard_time": 1685491348,
+      "rank": 39,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 148901,
@@ -4859,6 +5067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141934,
+      "num": 141934,
+      "word": "朝鲜宣布军事侦察卫星发射失败",
+      "onboard_time": 1685497046,
+      "rank": 41,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 141910,
       "num": 141910,
       "word": "鹿晗蜘蛛侠主题曲MV",
@@ -4873,14 +5089,6 @@
       "onboard_time": 1685345306,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 141803,
-      "num": 113269,
-      "word": "狗狗突然晕倒 路人人工呼吸抢救",
-      "onboard_time": 1685488159,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140382,
@@ -4921,6 +5129,14 @@
       "onboard_time": 1685357368,
       "rank": 42,
       "category": "教育,国内要闻"
+    },
+    {
+      "raw_hot": 136099,
+      "num": 136099,
+      "word": "司机称两名赖车乘客拘留结束仍未道歉",
+      "onboard_time": 1685496809,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134990,
@@ -5115,6 +5331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123205,
+      "num": 123205,
+      "word": "面试没通过老板发个红包给我",
+      "onboard_time": 1685491348,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 122715,
       "num": 122715,
       "word": "樊振东4比2王楚钦",
@@ -5169,6 +5393,14 @@
       "onboard_time": 1685421996,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119747,
+      "num": 119747,
+      "word": "王曼昱",
+      "onboard_time": 1685490084,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 118798,
@@ -5352,6 +5584,14 @@
       "word": "猿辅导出了智能硬件",
       "onboard_time": 1685431349,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90076,
+      "num": 1144727,
+      "word": "掘地三万尺中国又一壮举",
+      "onboard_time": 1685459974,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -5560,14 +5800,6 @@
       "word": "老人轮椅失控辅警狂奔刹停",
       "onboard_time": 1685293460,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61489,
-      "num": 1144727,
-      "word": "掘地三万尺中国又一壮举",
-      "onboard_time": 1685459974,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
