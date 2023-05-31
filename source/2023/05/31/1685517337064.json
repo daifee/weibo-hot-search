@@ -1,0 +1,410 @@
+{
+  "runTime": 1685517337064,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1332149,
+        "num": 1332149,
+        "word": "二十岁以后基本形象都靠人民币和自律维持",
+        "onboard_time": 1685506833,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1145576,
+        "num": 1145576,
+        "word": "沈月说因为丢工作经常焦虑",
+        "onboard_time": 1685508393,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65109,
+        "num": 1050447,
+        "word": "祝福2023高考生",
+        "onboard_time": 1685507552,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1047297,
+        "num": 1047297,
+        "word": "同事阳了对着我哈气",
+        "onboard_time": 1685513307,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 764210,
+        "num": 764210,
+        "word": "露露黄了",
+        "onboard_time": 1685515829,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 694975,
+        "num": 694975,
+        "word": "砍杀柯基男子被曝任职公益岗",
+        "onboard_time": 1685515286,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679759,
+        "num": 679759,
+        "word": "杭州姑娘万元LV鞋放家门口被偷",
+        "onboard_time": 1685504129,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645448,
+        "num": 645448,
+        "word": "女生穿婚纱看演唱会被分手",
+        "onboard_time": 1685501065,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 607043,
+        "num": 607043,
+        "word": "迪丽热巴裙子钻掉了",
+        "onboard_time": 1685496508,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 500596,
+        "num": 500596,
+        "word": "梦中的那片海定档",
+        "onboard_time": 1685507612,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1454635,
+        "num": 500535,
+        "word": "阚清子 谢谢大家",
+        "onboard_time": 1685508214,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 878780,
+        "num": 499911,
+        "word": "马雪阳谭咏雯公布恋情",
+        "onboard_time": 1685512168,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 884547,
+        "num": 499595,
+        "word": "阚清子钻戒",
+        "onboard_time": 1685510129,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499112,
+        "num": 499112,
+        "word": "上班穿衣服羞耻症",
+        "onboard_time": 1685515949,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 427327,
+        "num": 427327,
+        "word": "五月天演唱会武汉沈阳官宣",
+        "onboard_time": 1685514267,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 363805,
+        "num": 363805,
+        "word": "陌生人闯家门骂女主人小三后称认错人",
+        "onboard_time": 1685510250,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268898,
+        "num": 268898,
+        "word": "范丞丞帮杨紫拿奖杯",
+        "onboard_time": 1685511328,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 260614,
+        "num": 260614,
+        "word": "马斯克",
+        "onboard_time": 1685511988,
+        "rank": 17,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 245374,
+        "num": 245374,
+        "word": "我那五位加起来250岁的老爱豆们",
+        "onboard_time": 1685510850,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231851,
+        "num": 231851,
+        "word": "女婴出生2天就被母亲打耳洞",
+        "onboard_time": 1685499985,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460088,
+        "num": 228074,
+        "word": "腾讯视频三部剧上星",
+        "onboard_time": 1685514031,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217456,
+        "num": 217456,
+        "word": "谁给蔡徐坤做的妆造",
+        "onboard_time": 1685515887,
+        "rank": 21,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 214739,
+        "num": 214739,
+        "word": "82岁阿尔帕西诺的29岁女友怀孕",
+        "onboard_time": 1685506170,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204117,
+        "num": 204117,
+        "word": "患癌爸爸愿摘眼球给一岁独眼女儿",
+        "onboard_time": 1685514327,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195312,
+        "num": 195312,
+        "word": "工信部部长会见马斯克",
+        "onboard_time": 1685512770,
+        "rank": 24,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 203348,
+        "num": 194273,
+        "word": "王子奇发色",
+        "onboard_time": 1685511988,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 65211,
+        "num": 192609,
+        "word": "vivo开辟柔光人像新赛道",
+        "onboard_time": 1685515108,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 192295,
+        "num": 192295,
+        "word": "王源演唱会 婚纱",
+        "onboard_time": 1685497707,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191127,
+        "num": 191127,
+        "word": "追星的意义",
+        "onboard_time": 1685514087,
+        "rank": 28,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 165659,
+        "num": 190634,
+        "word": "特警扮人贩子演技太好吓坏网友",
+        "onboard_time": 1685510908,
+        "rank": 29,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 233584,
+        "num": 190545,
+        "word": "答错了试卷 却答对了人生",
+        "onboard_time": 1685516608,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 190339,
+        "num": 190339,
+        "word": "张萌说赵露思是天选之女",
+        "onboard_time": 1685516249,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183283,
+        "num": 183283,
+        "word": "乐乐茶 loopy",
+        "onboard_time": 1685509532,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 168889,
+        "num": 168889,
+        "word": "密室大逃脱",
+        "onboard_time": 1685506170,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158133,
+        "num": 158133,
+        "word": "26次高考落榜大叔将继续冲击重本",
+        "onboard_time": 1685516366,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 156717,
+        "num": 156717,
+        "word": "科学家调整基因让鸡爪上长羽毛",
+        "onboard_time": 1685514031,
+        "rank": 35,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 156695,
+        "num": 156695,
+        "word": "月入6000背百万房贷当事人回应",
+        "onboard_time": 1685509237,
+        "rank": 36,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 153756,
+        "num": 153756,
+        "word": "A股",
+        "onboard_time": 1685504429,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 149018,
+        "num": 152947,
+        "word": "张艺兴深圳演唱会预售",
+        "onboard_time": 1685515949,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 36187,
+        "num": 152915,
+        "word": "618大家都买了啥",
+        "onboard_time": 1685516430,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152883,
+        "num": 152883,
+        "word": "阚清子被男友求婚",
+        "onboard_time": 1685450613,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149796,
+        "num": 149796,
+        "word": "胡歌高圆圆新电影官宣",
+        "onboard_time": 1685496809,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147629,
+        "num": 147629,
+        "word": "前任的分手文案有多离谱",
+        "onboard_time": 1685516848,
+        "rank": 42,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 141635,
+        "num": 141635,
+        "word": "张远又在见证爱情",
+        "onboard_time": 1685516967,
+        "rank": 43,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 132599,
+        "num": 132599,
+        "word": "2023端午节放假通知",
+        "onboard_time": 1685495667,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132231,
+        "num": 132231,
+        "word": "吴磊背着烤包子去骑行",
+        "onboard_time": 1685507131,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203215,
+        "num": 131572,
+        "word": "将1500万颗繁星印在手机上",
+        "onboard_time": 1685515587,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128701,
+        "num": 128701,
+        "word": "五月天放票",
+        "onboard_time": 1685501967,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128154,
+        "num": 128154,
+        "word": "献给国王的无名指",
+        "onboard_time": 1685516430,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124887,
+        "num": 124887,
+        "word": "李沁佟晓梅",
+        "onboard_time": 1685513969,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国航天一往无前#"
+    }
+  }
+}

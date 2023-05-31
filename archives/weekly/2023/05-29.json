@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685514912341,
+  "endTime": 1685517337064,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -467,6 +467,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1332149,
+      "num": 1332149,
+      "word": "二十岁以后基本形象都靠人民币和自律维持",
+      "onboard_time": 1685506833,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1331402,
       "num": 581364,
       "word": "南开大学",
@@ -569,14 +577,6 @@
       "onboard_time": 1685432249,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1261278,
-      "num": 1261278,
-      "word": "二十岁以后基本形象都靠人民币和自律维持",
-      "onboard_time": 1685506833,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 1261115,
@@ -763,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1047297,
+      "num": 1047297,
+      "word": "同事阳了对着我哈气",
+      "onboard_time": 1685513307,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1044375,
       "num": 1044375,
       "word": "迪丽热巴出图了吗",
@@ -812,7 +820,7 @@
     },
     {
       "raw_hot": 1012181,
-      "num": 396916,
+      "num": 499911,
       "word": "马雪阳谭咏雯公布恋情",
       "onboard_time": 1685512168,
       "rank": 11,
@@ -899,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 884547,
+      "num": 499595,
+      "word": "阚清子钻戒",
+      "onboard_time": 1685510129,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 880241,
       "num": 622129,
       "word": "伊能静自己都想不到吧",
@@ -913,14 +929,6 @@
       "onboard_time": 1685415329,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 866021,
-      "num": 413179,
-      "word": "阚清子钻戒",
-      "onboard_time": 1685510129,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 862330,
@@ -1009,6 +1017,14 @@
       "onboard_time": 1685447433,
       "rank": 7,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 764210,
+      "num": 764210,
+      "word": "露露黄了",
+      "onboard_time": 1685515829,
+      "rank": 4,
+      "category": "网红"
     },
     {
       "raw_hot": 758694,
@@ -1113,6 +1129,14 @@
       "onboard_time": 1685370152,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 694975,
+      "num": 694975,
+      "word": "砍杀柯基男子被曝任职公益岗",
+      "onboard_time": 1685515286,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 689329,
@@ -1347,6 +1371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 607043,
+      "num": 607043,
+      "word": "迪丽热巴裙子钻掉了",
+      "onboard_time": 1685496508,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 604902,
       "num": 604902,
       "word": "路人拍的陈都灵",
@@ -1375,14 +1407,6 @@
       "num": 594255,
       "word": "龚俊手机屏保是花花",
       "onboard_time": 1685457698,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 592405,
-      "num": 592405,
-      "word": "迪丽热巴裙子钻掉了",
-      "onboard_time": 1685496508,
       "rank": 20,
       "category": "作品衍生"
     },
@@ -1699,6 +1723,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 499112,
+      "num": 499112,
+      "word": "上班穿衣服羞耻症",
+      "onboard_time": 1685515949,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 497099,
       "num": 270488,
       "word": "范丞丞 裙子",
@@ -1721,14 +1753,6 @@
       "onboard_time": 1685369373,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 493163,
-      "num": 357459,
-      "word": "同事阳了对着我哈气",
-      "onboard_time": 1685513307,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 491298,
@@ -1825,6 +1849,14 @@
       "onboard_time": 1685329228,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 460088,
+      "num": 299099,
+      "word": "腾讯视频三部剧上星",
+      "onboard_time": 1685514031,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 457732,
@@ -1937,6 +1969,14 @@
       "onboard_time": 1685455538,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427327,
+      "num": 427327,
+      "word": "五月天演唱会武汉沈阳官宣",
+      "onboard_time": 1685514267,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 426626,
@@ -2177,14 +2217,6 @@
       "onboard_time": 1685350708,
       "rank": 21,
       "category": "音乐,幽默"
-    },
-    {
-      "raw_hot": 392545,
-      "num": 349309,
-      "word": "五月天演唱会武汉沈阳官宣",
-      "onboard_time": 1685514267,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 391023,
@@ -2929,14 +2961,6 @@
       "onboard_time": 1685409389,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 299099,
-      "num": 299099,
-      "word": "腾讯视频三部剧上星",
-      "onboard_time": 1685514031,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 297200,
@@ -3891,6 +3915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 233584,
+      "num": 190545,
+      "word": "答错了试卷 却答对了人生",
+      "onboard_time": 1685516608,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 232905,
       "num": 232905,
       "word": "狼队",
@@ -4177,6 +4209,14 @@
       "onboard_time": 1685497827,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217456,
+      "num": 217456,
+      "word": "谁给蔡徐坤做的妆造",
+      "onboard_time": 1685515887,
+      "rank": 21,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 217271,
@@ -4483,6 +4523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204117,
+      "num": 204117,
+      "word": "患癌爸爸愿摘眼球给一岁独眼女儿",
+      "onboard_time": 1685514327,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204080,
       "num": 200366,
       "word": "林彦俊芭莎年度派对上班路透",
@@ -4497,6 +4545,14 @@
       "onboard_time": 1685429969,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 203215,
+      "num": 131572,
+      "word": "将1500万颗繁星印在手机上",
+      "onboard_time": 1685515587,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203145,
@@ -4715,6 +4771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195312,
+      "num": 195312,
+      "word": "工信部部长会见马斯克",
+      "onboard_time": 1685512770,
+      "rank": 39,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 195278,
       "num": 195278,
       "word": "虞书欣全黑造型花絮照",
@@ -4873,6 +4937,14 @@
       "onboard_time": 1685319087,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190339,
+      "num": 190339,
+      "word": "张萌说赵露思是天选之女",
+      "onboard_time": 1685516249,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 190283,
@@ -5041,14 +5113,6 @@
       "onboard_time": 1685423972,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181670,
-      "num": 181670,
-      "word": "患癌爸爸愿摘眼球给一岁独眼女儿",
-      "onboard_time": 1685514327,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181486,
@@ -5427,14 +5491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162153,
-      "num": 162153,
-      "word": "工信部部长会见马斯克",
-      "onboard_time": 1685512770,
-      "rank": 39,
-      "category": "财经,科技"
-    },
-    {
       "raw_hot": 161589,
       "num": 161589,
       "word": "梦中那片海定档",
@@ -5545,6 +5601,14 @@
       "onboard_time": 1685500647,
       "rank": 48,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 158133,
+      "num": 158133,
+      "word": "26次高考落榜大叔将继续冲击重本",
+      "onboard_time": 1685516366,
+      "rank": 34,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 158029,
@@ -5659,6 +5723,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 149018,
+      "num": 152947,
+      "word": "张艺兴深圳演唱会预售",
+      "onboard_time": 1685515949,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 148901,
       "num": 148901,
       "word": "王子文白裙好温柔",
@@ -5697,6 +5769,14 @@
       "onboard_time": 1685433329,
       "rank": 4,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 147629,
+      "num": 147629,
+      "word": "前任的分手文案有多离谱",
+      "onboard_time": 1685516848,
+      "rank": 42,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 147432,
@@ -5761,6 +5841,14 @@
       "onboard_time": 1685345306,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 141635,
+      "num": 141635,
+      "word": "张远又在见证爱情",
+      "onboard_time": 1685516967,
+      "rank": 43,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 140452,
@@ -5937,6 +6025,14 @@
       "onboard_time": 1685278948,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 128154,
+      "num": 128154,
+      "word": "献给国王的无名指",
+      "onboard_time": 1685516430,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 127650,
@@ -6499,6 +6595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65211,
+      "num": 192609,
+      "word": "vivo开辟柔光人像新赛道",
+      "onboard_time": 1685515108,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 64758,
       "num": 260911,
       "word": "辅导孩子学习有多费妈",
@@ -6608,6 +6712,14 @@
       "word": "沉浸式体验虚拟未来世界",
       "onboard_time": 1685279849,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36187,
+      "num": 152915,
+      "word": "618大家都买了啥",
+      "onboard_time": 1685516430,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
