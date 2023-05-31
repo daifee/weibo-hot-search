@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685498966867,
+  "endTime": 1685501681642,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -193,6 +193,14 @@
       "onboard_time": 1685420674,
       "rank": 7,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 1895282,
+      "num": 1895282,
+      "word": "2023端午节放假通知",
+      "onboard_time": 1685495667,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1892385,
@@ -392,14 +400,6 @@
       "word": "四川自来水公司呼吁每月洗澡2到4次",
       "onboard_time": 1685418811,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1377527,
-      "num": 1377527,
-      "word": "2023端午节放假通知",
-      "onboard_time": 1685495667,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -939,6 +939,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 745446,
+      "num": 437205,
+      "word": "女婴出生2天就被母亲打耳洞",
+      "onboard_time": 1685499985,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 743721,
+      "num": 541222,
+      "word": "伊能静自己都想不到吧",
+      "onboard_time": 1685492969,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 733900,
       "num": 733900,
       "word": "五月天演唱会成大型求婚现场",
@@ -993,14 +1009,6 @@
       "onboard_time": 1685436508,
       "rank": 9,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 704243,
-      "num": 541222,
-      "word": "伊能静自己都想不到吧",
-      "onboard_time": 1685492969,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 701142,
@@ -1137,6 +1145,14 @@
       "onboard_time": 1685336311,
       "rank": 19,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 628010,
+      "num": 628010,
+      "word": "王源演唱会 婚纱",
+      "onboard_time": 1685497707,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 624929,
@@ -1707,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 443801,
+      "num": 443801,
+      "word": "还记得延禧攻略的愉妃吗",
+      "onboard_time": 1685498068,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 442745,
       "num": 294032,
       "word": "王嘉尔帮Angelababy扶外套",
@@ -1753,14 +1777,6 @@
       "onboard_time": 1685455538,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 427564,
-      "num": 427564,
-      "word": "王源演唱会 婚纱",
-      "onboard_time": 1685497707,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 426626,
@@ -1841,6 +1857,14 @@
       "onboard_time": 1685320109,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418646,
+      "num": 418646,
+      "word": "照亮你定档",
+      "onboard_time": 1685500347,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 418147,
@@ -1971,6 +1995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 395202,
+      "num": 395202,
+      "word": "五月天演唱会票价涨3倍黄牛还说不赚钱",
+      "onboard_time": 1685497348,
+      "rank": 34,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 393451,
       "num": 242429,
       "word": "时代少年团也会羡慕五月天的中控吧",
@@ -2091,6 +2123,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 368680,
+      "num": 368680,
+      "word": "女生穿婚纱看演唱会被分手",
+      "onboard_time": 1685501065,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 366212,
       "num": 366212,
       "word": "张丹峰洪欣合体",
@@ -2169,6 +2209,14 @@
       "onboard_time": 1685358509,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 356933,
+      "num": 356933,
+      "word": "张艺兴深圳演唱会官宣",
+      "onboard_time": 1685499328,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 356217,
@@ -2313,14 +2361,6 @@
       "onboard_time": 1685327967,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 334690,
-      "num": 334690,
-      "word": "五月天演唱会票价涨3倍黄牛还说不赚钱",
-      "onboard_time": 1685497348,
-      "rank": 34,
-      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 334300,
@@ -2555,6 +2595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 314331,
+      "num": 314331,
+      "word": "浙江自然资源厅一处长地铁猥亵他人被拘",
+      "onboard_time": 1685499507,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314189,
       "num": 314189,
       "word": "河南79岁老农手捧发芽小麦抹泪",
@@ -2675,6 +2723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 298280,
+      "num": 298280,
+      "word": "端午节放3天后连上6天",
+      "onboard_time": 1685498906,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297200,
       "num": 297200,
       "word": "千万别去北方看音乐节",
@@ -2787,6 +2843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 284207,
+      "num": 284207,
+      "word": "解放军军机南海拦截美军侦察机",
+      "onboard_time": 1685499626,
+      "rank": 25,
+      "category": "军事"
+    },
+    {
       "raw_hot": 284114,
       "num": 284114,
       "word": "有个镇里的孩子要去宇宙了",
@@ -2817,6 +2881,14 @@
       "onboard_time": 1685290765,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 282458,
+      "num": 282458,
+      "word": "苏芒",
+      "onboard_time": 1685501427,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 280598,
@@ -2939,6 +3011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275101,
+      "num": 275101,
+      "word": "贾跃亭",
+      "onboard_time": 1685496389,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
       "raw_hot": 274651,
       "num": 326901,
       "word": "现在的课桌都能躺着午睡了",
@@ -2971,6 +3051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272829,
+      "num": 272829,
+      "word": "谭松韵生日发自己写的歌",
+      "onboard_time": 1685501188,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 271792,
       "num": 186628,
       "word": "迪丽热巴工作室 慢",
@@ -2993,6 +3081,14 @@
       "onboard_time": 1685338708,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 271229,
+      "num": 271229,
+      "word": "张艺兴三巡主题叫无远弗届",
+      "onboard_time": 1685500946,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 271145,
@@ -3259,14 +3355,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 249654,
-      "num": 249654,
-      "word": "贾跃亭",
-      "onboard_time": 1685496389,
-      "rank": 31,
-      "category": "科技"
-    },
-    {
       "raw_hot": 249153,
       "num": 249153,
       "word": "公诉开播",
@@ -3515,6 +3603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 233937,
+      "num": 233937,
+      "word": "照亮你",
+      "onboard_time": 1685501308,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 232905,
       "num": 232905,
       "word": "狼队",
@@ -3537,14 +3633,6 @@
       "onboard_time": 1685413770,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231225,
-      "num": 231225,
-      "word": "还记得延禧攻略的愉妃吗",
-      "onboard_time": 1685498068,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 230744,
@@ -3633,6 +3721,14 @@
       "onboard_time": 1685331568,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224800,
+      "num": 224800,
+      "word": "五月天演唱会被吐槽的求婚情侣回应",
+      "onboard_time": 1685499027,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 224608,
@@ -3739,12 +3835,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 219880,
+      "num": 219880,
+      "word": "汪苏泷2023世纪派对巡回演唱会",
+      "onboard_time": 1685500288,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 219554,
       "num": 219554,
       "word": "闺蜜嫁的远该不该去参加婚礼",
       "onboard_time": 1685353828,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 218141,
+      "num": 218141,
+      "word": "马斯克北京首日晚宴吃了啥",
+      "onboard_time": 1685497827,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217218,
@@ -3761,14 +3873,6 @@
       "onboard_time": 1685320409,
       "rank": 36,
       "category": "音乐,幽默"
-    },
-    {
-      "raw_hot": 215804,
-      "num": 215804,
-      "word": "马斯克北京首日晚宴吃了啥",
-      "onboard_time": 1685497827,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215231,
@@ -3849,6 +3953,14 @@
       "onboard_time": 1685321668,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 209330,
+      "num": 209330,
+      "word": "灿烂灿烂师生给高考生送祝福",
+      "onboard_time": 1685501188,
+      "rank": 39,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 208792,
@@ -4123,6 +4235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 199730,
+      "num": 199730,
+      "word": "第五人格",
+      "onboard_time": 1685500767,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 198816,
       "num": 198816,
       "word": "没前景的工作要不要辞职",
@@ -4193,6 +4313,14 @@
       "onboard_time": 1685369792,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196154,
+      "num": 196154,
+      "word": "鞠婧祎郭俊辰花戎定档",
+      "onboard_time": 1685499926,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 195995,
@@ -4443,6 +4571,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 185983,
+      "num": 185983,
+      "word": "四川千年荔枝树时隔11年再结果",
+      "onboard_time": 1685501547,
+      "rank": 45,
+      "category": "社会新闻,自然"
+    },
+    {
       "raw_hot": 185720,
       "num": 185720,
       "word": "被砍死柯基主人正在派出所补充材料",
@@ -4643,6 +4779,14 @@
       "category": "体育,音乐"
     },
     {
+      "raw_hot": 172283,
+      "num": 172283,
+      "word": "GAI变形金刚7主题曲MV",
+      "onboard_time": 1685499867,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 171081,
       "num": 171081,
       "word": "出道前的周也",
@@ -4811,6 +4955,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 163848,
+      "num": 163848,
+      "word": "我国每年有超10万人死于二手烟暴露",
+      "onboard_time": 1685498368,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163835,
       "num": 163835,
       "word": "10岁男孩牵着弟弟冷静报警救妈妈",
@@ -4923,6 +5075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158308,
+      "num": 158308,
+      "word": "从严从重惩治性侵害未成年人犯罪",
+      "onboard_time": 1685500647,
+      "rank": 48,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 158029,
       "num": 158029,
       "word": "民警被一排办公摆件盯上了",
@@ -4953,6 +5113,14 @@
       "onboard_time": 1685365827,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 155909,
+      "num": 155909,
+      "word": "五月再见",
+      "onboard_time": 1685500706,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154869,
@@ -5307,14 +5475,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 126989,
-      "num": 126989,
-      "word": "我国每年有超10万人死于二手烟暴露",
-      "onboard_time": 1685498368,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126704,
       "num": 126704,
       "word": "后浪",
@@ -5553,14 +5713,6 @@
       "onboard_time": 1685376806,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 104831,
-      "num": 104831,
-      "word": "端午节放3天后连上6天",
-      "onboard_time": 1685498906,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104715,

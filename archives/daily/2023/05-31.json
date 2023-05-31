@@ -1,6 +1,6 @@
 {
   "startTime": 1685463570565,
-  "endTime": 1685498966867,
+  "endTime": 1685501681642,
   "band_list": [
     {
       "raw_hot": 2123857,
@@ -9,6 +9,14 @@
       "onboard_time": 1685450613,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1895282,
+      "num": 1895282,
+      "word": "2023端午节放假通知",
+      "onboard_time": 1685495667,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1550135,
@@ -33,14 +41,6 @@
       "onboard_time": 1685460155,
       "rank": 0,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1377527,
-      "num": 1377527,
-      "word": "2023端午节放假通知",
-      "onboard_time": 1685495667,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1331402,
@@ -115,7 +115,15 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 704243,
+      "raw_hot": 745446,
+      "num": 437205,
+      "word": "女婴出生2天就被母亲打耳洞",
+      "onboard_time": 1685499985,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 743721,
       "num": 541222,
       "word": "伊能静自己都想不到吧",
       "onboard_time": 1685492969,
@@ -145,6 +153,14 @@
       "onboard_time": 1685492311,
       "rank": 8,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 628010,
+      "num": 628010,
+      "word": "王源演唱会 婚纱",
+      "onboard_time": 1685497707,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 594255,
@@ -195,20 +211,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 443801,
+      "num": 443801,
+      "word": "还记得延禧攻略的愉妃吗",
+      "onboard_time": 1685498068,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 431166,
       "num": 431166,
       "word": "特殊爱好被父母尊重的孩子有多棒",
       "onboard_time": 1685494889,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 427564,
-      "num": 427564,
-      "word": "王源演唱会 婚纱",
-      "onboard_time": 1685497707,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 425061,
@@ -227,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 418646,
+      "num": 418646,
+      "word": "照亮你定档",
+      "onboard_time": 1685500347,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 413357,
       "num": 347659,
       "word": "迪丽热巴裙子钻掉了",
@@ -243,12 +267,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 395202,
+      "num": 395202,
+      "word": "五月天演唱会票价涨3倍黄牛还说不赚钱",
+      "onboard_time": 1685497348,
+      "rank": 34,
+      "category": "社会新闻,音乐"
+    },
+    {
+      "raw_hot": 368680,
+      "num": 368680,
+      "word": "女生穿婚纱看演唱会被分手",
+      "onboard_time": 1685501065,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 367818,
       "num": 241826,
       "word": "赵丽颖露背",
       "onboard_time": 1685440949,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 356933,
+      "num": 356933,
+      "word": "张艺兴深圳演唱会官宣",
+      "onboard_time": 1685499328,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 354080,
@@ -267,14 +315,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 334690,
-      "num": 334690,
-      "word": "五月天演唱会票价涨3倍黄牛还说不赚钱",
-      "onboard_time": 1685497348,
-      "rank": 34,
-      "category": "社会新闻,音乐"
-    },
-    {
       "raw_hot": 328340,
       "num": 328340,
       "word": "北京WB",
@@ -289,6 +329,14 @@
       "onboard_time": 1685495726,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 314331,
+      "num": 314331,
+      "word": "浙江自然资源厅一处长地铁猥亵他人被拘",
+      "onboard_time": 1685499507,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 311301,
@@ -307,12 +355,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298280,
+      "num": 298280,
+      "word": "端午节放3天后连上6天",
+      "onboard_time": 1685498906,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288307,
       "num": 240106,
       "word": "苏打绿 免费演唱会",
       "onboard_time": 1685454875,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 284207,
+      "num": 284207,
+      "word": "解放军军机南海拦截美军侦察机",
+      "onboard_time": 1685499626,
+      "rank": 25,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 282458,
+      "num": 282458,
+      "word": "苏芒",
+      "onboard_time": 1685501427,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 278107,
@@ -339,12 +411,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 275101,
+      "num": 275101,
+      "word": "贾跃亭",
+      "onboard_time": 1685496389,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
       "raw_hot": 274651,
       "num": 326901,
       "word": "现在的课桌都能躺着午睡了",
       "onboard_time": 1685459316,
       "rank": 9,
       "category": "科技"
+    },
+    {
+      "raw_hot": 272829,
+      "num": 272829,
+      "word": "谭松韵生日发自己写的歌",
+      "onboard_time": 1685501188,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 271229,
+      "num": 271229,
+      "word": "张艺兴三巡主题叫无远弗届",
+      "onboard_time": 1685500946,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 269421,
@@ -361,14 +457,6 @@
       "onboard_time": 1685450552,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 249654,
-      "num": 249654,
-      "word": "贾跃亭",
-      "onboard_time": 1685496389,
-      "rank": 31,
-      "category": "科技"
     },
     {
       "raw_hot": 249040,
@@ -435,11 +523,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 231225,
-      "num": 231225,
-      "word": "还记得延禧攻略的愉妃吗",
-      "onboard_time": 1685498068,
-      "rank": 29,
+      "raw_hot": 233937,
+      "num": 233937,
+      "word": "照亮你",
+      "onboard_time": 1685501308,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -459,6 +547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 224800,
+      "num": 224800,
+      "word": "五月天演唱会被吐槽的求婚情侣回应",
+      "onboard_time": 1685499027,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222912,
       "num": 222912,
       "word": "吴磊到新疆了",
@@ -467,8 +563,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 215804,
-      "num": 215804,
+      "raw_hot": 219880,
+      "num": 219880,
+      "word": "汪苏泷2023世纪派对巡回演唱会",
+      "onboard_time": 1685500288,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 218141,
+      "num": 218141,
       "word": "马斯克北京首日晚宴吃了啥",
       "onboard_time": 1685497827,
       "rank": 31,
@@ -491,6 +595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209330,
+      "num": 209330,
+      "word": "灿烂灿烂师生给高考生送祝福",
+      "onboard_time": 1685501188,
+      "rank": 39,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 207124,
       "num": 166772,
       "word": "愿检尽检重现青岛崂山区",
@@ -505,6 +617,22 @@
       "onboard_time": 1685496147,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 199730,
+      "num": 199730,
+      "word": "第五人格",
+      "onboard_time": 1685500767,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 196154,
+      "num": 196154,
+      "word": "鞠婧祎郭俊辰花戎定档",
+      "onboard_time": 1685499926,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 195849,
@@ -539,6 +667,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185983,
+      "num": 185983,
+      "word": "四川千年荔枝树时隔11年再结果",
+      "onboard_time": 1685501547,
+      "rank": 45,
+      "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 172283,
+      "num": 172283,
+      "word": "GAI变形金刚7主题曲MV",
+      "onboard_time": 1685499867,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 171007,
       "num": 171007,
       "word": "官方回应广东汕尾海滩突现百米生蚝带",
@@ -561,6 +705,14 @@
       "onboard_time": 1685491650,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 163848,
+      "num": 163848,
+      "word": "我国每年有超10万人死于二手烟暴露",
+      "onboard_time": 1685498368,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163655,
@@ -600,6 +752,22 @@
       "word": "狗狗生命最后一刻独自离开十几年主人家",
       "onboard_time": 1685487801,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158308,
+      "num": 158308,
+      "word": "从严从重惩治性侵害未成年人犯罪",
+      "onboard_time": 1685500647,
+      "rank": 48,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 155909,
+      "num": 155909,
+      "word": "五月再见",
+      "onboard_time": 1685500706,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -691,14 +859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126989,
-      "num": 126989,
-      "word": "我国每年有超10万人死于二手烟暴露",
-      "onboard_time": 1685498368,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124545,
       "num": 124545,
       "word": "上海白蚁",
@@ -761,14 +921,6 @@
       "onboard_time": 1685457034,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 104831,
-      "num": 104831,
-      "word": "端午节放3天后连上6天",
-      "onboard_time": 1685498906,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99845,
