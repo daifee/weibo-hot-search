@@ -1,6 +1,6 @@
 {
   "startTime": 1685463570565,
-  "endTime": 1685529199054,
+  "endTime": 1685531640067,
   "band_list": [
     {
       "raw_hot": 3015187,
@@ -41,6 +41,14 @@
       "onboard_time": 1685515829,
       "rank": 4,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2023229,
+      "num": 2023229,
+      "word": "早睡可以解决80%以上的问题",
+      "onboard_time": 1685525007,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1995529,
@@ -105,14 +113,6 @@
       "onboard_time": 1685460155,
       "rank": 0,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1402086,
-      "num": 1402086,
-      "word": "早睡可以解决80%以上的问题",
-      "onboard_time": 1685525007,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1332149,
@@ -243,6 +243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 966503,
+      "num": 966503,
+      "word": "一年级都火了",
+      "onboard_time": 1685527708,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 957231,
       "num": 957231,
       "word": "迪丽热巴 刚出水的美人鱼",
@@ -329,6 +337,14 @@
       "onboard_time": 1685441669,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 655994,
+      "num": 655994,
+      "word": "北上官宣阵容",
+      "onboard_time": 1685528908,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 654706,
@@ -523,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 455495,
+      "num": 455495,
+      "word": "舒淇为肖战梦中的那片海打call",
+      "onboard_time": 1685529927,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 450384,
       "num": 450384,
       "word": "终于等到肖春生了",
@@ -587,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 406581,
+      "num": 217441,
+      "word": "酒肉情侣",
+      "onboard_time": 1685530407,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 406579,
       "num": 406579,
       "word": "密室大逃脱5阵容",
@@ -635,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 393187,
+      "num": 393187,
+      "word": "网友给热巴P的礼服",
+      "onboard_time": 1685527646,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 389550,
       "num": 389550,
       "word": "发球遮挡",
@@ -649,14 +689,6 @@
       "onboard_time": 1685507131,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 381694,
-      "num": 381694,
-      "word": "北上官宣阵容",
-      "onboard_time": 1685528908,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 376535,
@@ -715,14 +747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 349109,
-      "num": 349109,
-      "word": "一年级都火了",
-      "onboard_time": 1685527708,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 345933,
       "num": 345933,
       "word": "高瀚宇问娜扎六年前是在谈恋爱吗",
@@ -761,6 +785,14 @@
       "onboard_time": 1685495726,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 322427,
+      "num": 991328,
+      "word": "外卖骑手取餐闻到煤气味机智救下2人",
+      "onboard_time": 1685526388,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321516,
@@ -827,14 +859,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 299161,
-      "num": 991328,
-      "word": "外卖骑手取餐闻到煤气味机智救下2人",
-      "onboard_time": 1685526388,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 296141,
       "num": 296141,
       "word": "长城汽车公关总经理离职",
@@ -849,6 +873,14 @@
       "onboard_time": 1685503287,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 294704,
+      "num": 237635,
+      "word": "明天有两部新剧开播",
+      "onboard_time": 1685531249,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 292108,
@@ -971,6 +1003,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 264291,
+      "num": 231029,
+      "word": "杨幂能长红的原因",
+      "onboard_time": 1685530107,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 263065,
       "num": 252402,
       "word": "王子奇发色",
@@ -1001,6 +1041,14 @@
       "onboard_time": 1685510431,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 249631,
+      "num": 249631,
+      "word": "什么都磕只会让我营养均衡",
+      "onboard_time": 1685530228,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 249040,
@@ -1123,20 +1171,20 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 238714,
-      "num": 222765,
-      "word": "网友给热巴P的礼服",
-      "onboard_time": 1685527646,
-      "rank": 33,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 237425,
       "num": 237425,
       "word": "杨紫范丞丞龚俊合影",
       "onboard_time": 1685505629,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 236889,
+      "num": 214313,
+      "word": "冯小刚香港卖房大赚6000万港元",
+      "onboard_time": 1685531307,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 236820,
@@ -1147,12 +1195,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 236040,
+      "num": 236040,
+      "word": "中国女排vs巴西女排",
+      "onboard_time": 1685525667,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 235434,
       "num": 235434,
       "word": "TES里也有ES",
       "onboard_time": 1685526569,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 235421,
+      "num": 213350,
+      "word": "北上",
+      "onboard_time": 1685530948,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 232521,
@@ -1315,6 +1379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211863,
+      "num": 211863,
+      "word": "张国伟打许凯屁股",
+      "onboard_time": 1685528490,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209690,
       "num": 209690,
       "word": "养猫的都这么手欠过",
@@ -1403,14 +1475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203544,
-      "num": 203544,
-      "word": "张国伟打许凯屁股",
-      "onboard_time": 1685528490,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 203215,
       "num": 145057,
       "word": "将1500万颗繁星印在手机上",
@@ -1420,11 +1484,19 @@
     },
     {
       "raw_hot": 202437,
-      "num": 202437,
+      "num": 208091,
       "word": "在古代广东是流放地的原因",
       "onboard_time": 1685527232,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 200265,
+      "num": 200265,
+      "word": "小S二女儿练普拉提",
+      "onboard_time": 1685531307,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 199730,
@@ -1448,14 +1520,6 @@
       "word": "一战成名的紫微星",
       "onboard_time": 1685523267,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 197880,
-      "num": 220935,
-      "word": "中国女排vs巴西女排",
-      "onboard_time": 1685525667,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -1489,6 +1553,14 @@
       "onboard_time": 1685512770,
       "rank": 39,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 194843,
+      "num": 194843,
+      "word": "刘红艳刚流产就被催生",
+      "onboard_time": 1685528967,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 191523,
@@ -1587,14 +1659,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 179905,
-      "num": 179905,
-      "word": "刘红艳刚流产就被催生",
-      "onboard_time": 1685528967,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 176799,
       "num": 176799,
       "word": "陈漫镜头下的明星们",
@@ -1617,6 +1681,14 @@
       "onboard_time": 1685505509,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172573,
+      "num": 121693,
+      "word": "汪俞岑说肖战非常努力认真敬业",
+      "onboard_time": 1685529328,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 172284,
@@ -1873,6 +1945,14 @@
       "onboard_time": 1685496809,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145764,
+      "num": 145764,
+      "word": "RA",
+      "onboard_time": 1685529867,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 145047,
@@ -2132,7 +2212,7 @@
     },
     {
       "raw_hot": 103443,
-      "num": 219891,
+      "num": 221427,
       "word": "两男子救落水女孩后默默离开",
       "onboard_time": 1685524529,
       "rank": 34,
@@ -2313,6 +2393,14 @@
       "onboard_time": 1685461230,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33270,
+      "num": 405657,
+      "word": "半个内娱在天猫618和张大大直播",
+      "onboard_time": 1685530828,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 32549,
