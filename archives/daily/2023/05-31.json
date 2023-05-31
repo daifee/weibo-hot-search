@@ -1,6 +1,6 @@
 {
   "startTime": 1685463570565,
-  "endTime": 1685546241541,
+  "endTime": 1685547227836,
   "band_list": [
     {
       "raw_hot": 3015187,
@@ -99,6 +99,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1687798,
+      "num": 1687798,
+      "word": "网传柳州一干部与情人聊天记录被群发",
+      "onboard_time": 1685539529,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1654405,
       "num": 562887,
       "word": "阚清子钻戒",
@@ -153,14 +161,6 @@
       "onboard_time": 1685460155,
       "rank": 0,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1344737,
-      "num": 1344737,
-      "word": "网传柳州一干部与情人聊天记录被群发",
-      "onboard_time": 1685539529,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1332149,
@@ -379,6 +379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 825521,
+      "num": 825521,
+      "word": "坐飞机要称体重了",
+      "onboard_time": 1685542230,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 794842,
       "num": 794842,
       "word": "胡歌高圆圆新电影官宣",
@@ -393,6 +401,14 @@
       "onboard_time": 1685447129,
       "rank": 7,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 789075,
+      "num": 789075,
+      "word": "虞书欣 杨天真",
+      "onboard_time": 1685545351,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 719256,
@@ -443,14 +459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 667892,
-      "num": 667892,
-      "word": "坐飞机要称体重了",
-      "onboard_time": 1685542230,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 655994,
       "num": 655994,
       "word": "北上官宣阵容",
@@ -464,6 +472,14 @@
       "word": "福建高校女生坠亡家属发声",
       "onboard_time": 1685481551,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 648398,
+      "num": 648398,
+      "word": "六一儿童节",
+      "onboard_time": 1685545292,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -539,14 +555,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 603331,
-      "num": 603331,
-      "word": "虞书欣 杨天真",
-      "onboard_time": 1685545351,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 594255,
       "num": 594255,
       "word": "龚俊手机屏保是花花",
@@ -593,14 +601,6 @@
       "onboard_time": 1685526750,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 535241,
-      "num": 535241,
-      "word": "六一儿童节",
-      "onboard_time": 1685545292,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 533513,
@@ -817,6 +817,14 @@
       "onboard_time": 1685500347,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 412257,
+      "num": 412257,
+      "word": "河南小麦咋样了",
+      "onboard_time": 1685544932,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 406579,
@@ -1051,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321741,
+      "num": 321741,
+      "word": "Lisa脚趾头",
+      "onboard_time": 1685545051,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 321516,
       "num": 321516,
       "word": "是恶评 龚俊别看",
@@ -1073,6 +1089,14 @@
       "onboard_time": 1685501188,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 317631,
+      "num": 317631,
+      "word": "宋妍霏对王嘉尔的小动作",
+      "onboard_time": 1685545531,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 311301,
@@ -1153,14 +1177,6 @@
       "onboard_time": 1685507729,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 288971,
-      "num": 288971,
-      "word": "河南小麦咋样了",
-      "onboard_time": 1685544932,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 288307,
@@ -1475,14 +1491,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 244525,
-      "num": 244525,
-      "word": "宋妍霏对王嘉尔的小动作",
-      "onboard_time": 1685545531,
-      "rank": 30,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 244259,
       "num": 244259,
       "word": "Cat确认挂牌",
@@ -1577,14 +1585,6 @@
       "onboard_time": 1685521470,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 236792,
-      "num": 236792,
-      "word": "Lisa脚趾头",
-      "onboard_time": 1685545051,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 236040,
@@ -1899,6 +1899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205358,
+      "num": 205358,
+      "word": "以后都不会做了的工作",
+      "onboard_time": 1685542471,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 205115,
       "num": 205115,
       "word": "618发货真快",
@@ -2011,6 +2019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193972,
+      "num": 159920,
+      "word": "请张彬彬不要随意解衬衫",
+      "onboard_time": 1685546610,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192183,
       "num": 192183,
       "word": "余华太懂现在的年轻人了",
@@ -2081,6 +2097,14 @@
       "onboard_time": 1685511627,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185848,
+      "num": 185848,
+      "word": "Rookie",
+      "onboard_time": 1685546313,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 183926,
@@ -2171,14 +2195,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 177087,
-      "num": 177087,
-      "word": "以后都不会做了的工作",
-      "onboard_time": 1685542471,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 176799,
       "num": 176799,
       "word": "陈漫镜头下的明星们",
@@ -2227,6 +2243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169394,
+      "num": 149624,
+      "word": "陈漫 芭莎封面",
+      "onboard_time": 1685546313,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 169281,
       "num": 161125,
       "word": "朋友圈发这些东西账号会被罚",
@@ -2249,6 +2273,14 @@
       "onboard_time": 1685539048,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 166492,
+      "num": 149248,
+      "word": "杨紫逐日狂欢花絮",
+      "onboard_time": 1685546429,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 166297,
@@ -2409,6 +2441,14 @@
       "onboard_time": 1685527467,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 155484,
+      "num": 149072,
+      "word": "赵露思浓妆vs淡妆",
+      "onboard_time": 1685547030,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 155425,
@@ -2600,6 +2640,14 @@
       "word": "这个姿势我能练一辈子",
       "onboard_time": 1685523090,
       "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 129415,
+      "num": 148882,
+      "word": "看似睡着了 实际可能走了有一会儿",
+      "onboard_time": 1685546671,
+      "rank": 45,
       "category": "幽默"
     },
     {
@@ -2897,6 +2945,14 @@
       "onboard_time": 1685457998,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 96285,
+      "num": 148431,
+      "word": "央视记者探访河南小麦发芽发霉",
+      "onboard_time": 1685546971,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92070,

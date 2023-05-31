@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685546241541,
+  "endTime": 1685547227836,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -3483,6 +3483,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 1687798,
+      "num": 1687798,
+      "word": "网传柳州一干部与情人聊天记录被群发",
+      "onboard_time": 1685539529,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1687289,
       "num": 654051,
       "word": "黄瑞恩罗颖分手",
@@ -5809,14 +5817,6 @@
       "onboard_time": 1683196768,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1344737,
-      "num": 1344737,
-      "word": "网传柳州一干部与情人聊天记录被群发",
-      "onboard_time": 1685539529,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1344733,
@@ -11051,6 +11051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 825521,
+      "num": 825521,
+      "word": "坐飞机要称体重了",
+      "onboard_time": 1685542230,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 825280,
       "num": 300904,
       "word": "薛之谦演唱会深圳站官宣",
@@ -11569,6 +11577,14 @@
       "onboard_time": 1683989913,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 789075,
+      "num": 789075,
+      "word": "虞书欣 杨天真",
+      "onboard_time": 1685545351,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 788685,
@@ -13619,14 +13635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 667892,
-      "num": 667892,
-      "word": "坐飞机要称体重了",
-      "onboard_time": 1685542230,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 667585,
       "num": 506905,
       "word": "赵露思出发韩国路透",
@@ -13913,6 +13921,14 @@
       "onboard_time": 1685439269,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 648398,
+      "num": 648398,
+      "word": "六一儿童节",
+      "onboard_time": 1685071949,
+      "rank": 47,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 648282,
@@ -14969,14 +14985,6 @@
       "onboard_time": 1683867394,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 603331,
-      "num": 603331,
-      "word": "虞书欣 杨天真",
-      "onboard_time": 1685545351,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 602734,
@@ -17073,14 +17081,6 @@
       "onboard_time": 1684945584,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 535241,
-      "num": 535241,
-      "word": "六一儿童节",
-      "onboard_time": 1685071949,
-      "rank": 47,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 535128,
@@ -22953,6 +22953,14 @@
       "onboard_time": 1683677368,
       "rank": 21,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 412257,
+      "num": 412257,
+      "word": "河南小麦咋样了",
+      "onboard_time": 1685544932,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 412186,
@@ -30187,6 +30195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 321741,
+      "num": 321741,
+      "word": "Lisa脚趾头",
+      "onboard_time": 1685545051,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 321696,
       "num": 321696,
       "word": "毕业4年跟老公一起攒了100万",
@@ -30585,6 +30601,14 @@
       "onboard_time": 1683950974,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 317631,
+      "num": 317631,
+      "word": "宋妍霏对王嘉尔的小动作",
+      "onboard_time": 1685545531,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 317483,
@@ -33481,14 +33505,6 @@
       "onboard_time": 1683983250,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 288971,
-      "num": 288971,
-      "word": "河南小麦咋样了",
-      "onboard_time": 1685544932,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 288928,
@@ -39547,14 +39563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 244525,
-      "num": 244525,
-      "word": "宋妍霏对王嘉尔的小动作",
-      "onboard_time": 1685545531,
-      "rank": 30,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 244498,
       "num": 244498,
       "word": "送女孩赶火车大哥说山东人遇到都会帮",
@@ -40913,14 +40921,6 @@
       "onboard_time": 1685521470,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 236792,
-      "num": 236792,
-      "word": "Lisa脚趾头",
-      "onboard_time": 1685545051,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 236770,
@@ -46635,6 +46635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205358,
+      "num": 205358,
+      "word": "以后都不会做了的工作",
+      "onboard_time": 1685542471,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 205283,
       "num": 205283,
       "word": "薛之谦演唱会门票",
@@ -49123,6 +49131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193972,
+      "num": 159920,
+      "word": "请张彬彬不要随意解衬衫",
+      "onboard_time": 1685546610,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193937,
       "num": 193937,
       "word": "SEVENTEEN将出演花样青春",
@@ -50971,6 +50987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185848,
+      "num": 185848,
+      "word": "Rookie",
+      "onboard_time": 1685546313,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 185800,
       "num": 185800,
       "word": "韩总统称要懂得对美国感恩",
@@ -52763,14 +52787,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 177087,
-      "num": 177087,
-      "word": "以后都不会做了的工作",
-      "onboard_time": 1685542471,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 177083,
       "num": 177083,
       "word": "护心定档海报拍摄花絮",
@@ -54339,6 +54355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169394,
+      "num": 149624,
+      "word": "陈漫 芭莎封面",
+      "onboard_time": 1685546313,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 169360,
       "num": 169360,
       "word": "希望今年吃的西瓜都这样",
@@ -54817,6 +54841,14 @@
       "onboard_time": 1684594175,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 166492,
+      "num": 149248,
+      "word": "杨紫逐日狂欢花絮",
+      "onboard_time": 1685546429,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 166373,
@@ -56977,6 +57009,14 @@
       "onboard_time": 1683011426,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 155484,
+      "num": 149072,
+      "word": "赵露思浓妆vs淡妆",
+      "onboard_time": 1685547030,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 155472,
@@ -61147,6 +61187,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 129415,
+      "num": 148882,
+      "word": "看似睡着了 实际可能走了有一会儿",
+      "onboard_time": 1685546671,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129390,
       "num": 129390,
       "word": "不良人一盘棋下了两年",
@@ -64529,6 +64577,14 @@
       "onboard_time": 1684475248,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 96285,
+      "num": 148431,
+      "word": "央视记者探访河南小麦发芽发霉",
+      "onboard_time": 1685546971,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96157,
