@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1685506780096,
+  "endTime": 1685507623435,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -4427,6 +4427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1531396,
+      "num": 1531396,
+      "word": "女婴出生2天就被母亲打耳洞",
+      "onboard_time": 1685499985,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1529474,
       "num": 399528,
       "word": "笑果文化称不当言论是HOUSE临时加的",
@@ -5193,14 +5201,6 @@
       "onboard_time": 1684039708,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1419612,
-      "num": 1419612,
-      "word": "女婴出生2天就被母亲打耳洞",
-      "onboard_time": 1685499985,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1418107,
@@ -6448,6 +6448,14 @@
       "word": "兄妹四人同时查出肠道肿瘤",
       "onboard_time": 1685416470,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1260226,
+      "num": 1260226,
+      "word": "杭州姑娘万元LV鞋放家门口被偷",
+      "onboard_time": 1685504129,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -7795,6 +7803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1100886,
+      "num": 1100886,
+      "word": "苏芒",
+      "onboard_time": 1685501427,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1099441,
       "num": 1099441,
       "word": "老婆大人",
@@ -8193,14 +8209,6 @@
       "onboard_time": 1683210937,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1063006,
-      "num": 1063006,
-      "word": "苏芒",
-      "onboard_time": 1685501427,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1063003,
@@ -8768,14 +8776,6 @@
       "word": "中国商人在泰被刺20余刀身亡",
       "onboard_time": 1684291530,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1013456,
-      "num": 1013456,
-      "word": "杭州姑娘万元LV鞋放家门口被偷",
-      "onboard_time": 1685504129,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -13171,6 +13171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 675940,
+      "num": 675940,
+      "word": "密室大逃脱",
+      "onboard_time": 1684382733,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 675709,
       "num": 675709,
       "word": "张紫宁横店音乐节遭威胁",
@@ -14299,6 +14307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 614844,
+      "num": 614844,
+      "word": "网剧花戎",
+      "onboard_time": 1685502030,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 614384,
       "num": 614384,
       "word": "江苏卫视一口气官宣了22档节目",
@@ -15091,14 +15107,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 585700,
-      "num": 585700,
-      "word": "网剧花戎",
-      "onboard_time": 1685502030,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 585483,
       "num": 585483,
       "word": "莲花楼 备播",
@@ -15681,14 +15689,6 @@
       "onboard_time": 1683702332,
       "rank": 36,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 568977,
-      "num": 568977,
-      "word": "密室大逃脱",
-      "onboard_time": 1684382733,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 568294,
@@ -17417,6 +17417,14 @@
       "onboard_time": 1683599189,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 517171,
+      "num": 517171,
+      "word": "82岁阿尔帕西诺的29岁女友怀孕",
+      "onboard_time": 1685506170,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 516805,
@@ -19243,6 +19251,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 472233,
+      "num": 472233,
+      "word": "五月天放票",
+      "onboard_time": 1685501967,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 472182,
       "num": 556242,
       "word": "金廷祐金敏雅是亲姐弟",
@@ -19761,14 +19777,6 @@
       "onboard_time": 1684506091,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 460144,
-      "num": 460144,
-      "word": "五月天放票",
-      "onboard_time": 1685501967,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 460025,
@@ -31931,6 +31939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 296141,
+      "num": 296141,
+      "word": "长城汽车公关总经理离职",
+      "onboard_time": 1685503948,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 296122,
       "num": 205268,
       "word": "人在鸟巢门口",
@@ -32899,6 +32915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288054,
+      "num": 288054,
+      "word": "二十岁以后基本形象都靠人民币和自律维持",
+      "onboard_time": 1685506833,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 287974,
       "num": 287974,
       "word": "人气超高但是你却无感的水果",
@@ -32977,14 +33001,6 @@
       "onboard_time": 1685073993,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 287225,
-      "num": 213387,
-      "word": "82岁阿尔帕西诺的29岁女友怀孕",
-      "onboard_time": 1685506170,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 287163,
@@ -34569,14 +34585,6 @@
       "onboard_time": 1685505209,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 274886,
-      "num": 274886,
-      "word": "长城汽车公关总经理离职",
-      "onboard_time": 1685503948,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 274835,
@@ -39891,6 +39899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 237425,
+      "num": 237425,
+      "word": "杨紫范丞丞龚俊合影",
+      "onboard_time": 1685505629,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 237416,
       "num": 1154160,
       "word": "00后旅游偶遇可爱爷爷涂鸦送画",
@@ -40272,6 +40288,14 @@
       "word": "杨洋同学会跳舞视频",
       "onboard_time": 1683077491,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 235542,
+      "num": 235542,
+      "word": "吴磊背着烤包子去骑行",
+      "onboard_time": 1685507131,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -41561,6 +41585,14 @@
       "onboard_time": 1684810167,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 228222,
+      "num": 228222,
+      "word": "FF91价格",
+      "onboard_time": 1685504486,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 228218,
@@ -43372,7 +43404,7 @@
     },
     {
       "raw_hot": 217271,
-      "num": 211854,
+      "num": 216337,
       "word": "女生把喷泉穿在身上秒变水婚纱",
       "onboard_time": 1685504847,
       "rank": 31,
@@ -43689,6 +43721,14 @@
       "onboard_time": 1682988868,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 215844,
+      "num": 215844,
+      "word": "春色寄情人杀青",
+      "onboard_time": 1685507431,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 215704,
@@ -45875,6 +45915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 203925,
+      "num": 203925,
+      "word": "迪丽热巴深V裙花絮视频",
+      "onboard_time": 1685504249,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 203919,
       "num": 409151,
       "word": "遇见喵克斯",
@@ -46721,14 +46769,6 @@
       "onboard_time": 1684745248,
       "rank": 32,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 199551,
-      "num": 199551,
-      "word": "FF91价格",
-      "onboard_time": 1685504486,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 199536,
@@ -48033,14 +48073,6 @@
       "onboard_time": 1684992151,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193288,
-      "num": 193288,
-      "word": "杨紫范丞丞龚俊合影",
-      "onboard_time": 1685505629,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 193245,
@@ -50465,14 +50497,6 @@
       "onboard_time": 1683046345,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181494,
-      "num": 181494,
-      "word": "迪丽热巴深V裙花絮视频",
-      "onboard_time": 1685504249,
-      "rank": 39,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 181486,
@@ -54369,6 +54393,14 @@
       "onboard_time": 1684565485,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 161589,
+      "num": 161589,
+      "word": "梦中那片海定档",
+      "onboard_time": 1685507612,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 161519,
@@ -66403,6 +66435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26891,
+      "num": 215941,
+      "word": "神十五神十六航天员全家福",
+      "onboard_time": 1685507311,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26829,
       "num": 169652,
       "word": "618地图打卡功能上线",
@@ -66904,6 +66944,14 @@
       "word": "帮30个家庭团聚的志愿者找到了家人",
       "onboard_time": 1683664391,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10705,
+      "num": 1539722,
+      "word": "祝福2023高考生",
+      "onboard_time": 1685507552,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

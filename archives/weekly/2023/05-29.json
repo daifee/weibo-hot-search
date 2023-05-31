@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685506780096,
+  "endTime": 1685507623435,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -339,6 +339,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1531396,
+      "num": 1531396,
+      "word": "女婴出生2天就被母亲打耳洞",
+      "onboard_time": 1685499985,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1504116,
       "num": 1504116,
       "word": "神十六航天员领命出征",
@@ -408,14 +416,6 @@
       "word": "四川自来水公司呼吁每月洗澡2到4次",
       "onboard_time": 1685418811,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1419612,
-      "num": 1419612,
-      "word": "女婴出生2天就被母亲打耳洞",
-      "onboard_time": 1685499985,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -563,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1260226,
+      "num": 1260226,
+      "word": "杭州姑娘万元LV鞋放家门口被偷",
+      "onboard_time": 1685504129,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1251773,
       "num": 1251773,
       "word": "河南紧急下拨2亿元用于小麦烘干",
@@ -659,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1100886,
+      "num": 1100886,
+      "word": "苏芒",
+      "onboard_time": 1685501427,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1078148,
       "num": 486008,
       "word": "杨紫迪丽热巴内场同框",
@@ -696,14 +712,6 @@
       "word": "李晓峰帮杨颖提裙子",
       "onboard_time": 1685456797,
       "rank": 36,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1063006,
-      "num": 1063006,
-      "word": "苏芒",
-      "onboard_time": 1685501427,
-      "rank": 26,
       "category": "作品衍生"
     },
     {
@@ -769,14 +777,6 @@
       "onboard_time": 1685423972,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1013456,
-      "num": 1013456,
-      "word": "杭州姑娘万元LV鞋放家门口被偷",
-      "onboard_time": 1685504129,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 999225,
@@ -1075,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 675940,
+      "num": 675940,
+      "word": "密室大逃脱",
+      "onboard_time": 1685441669,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 672248,
       "num": 436276,
       "word": "苏打绿 免费演唱会",
@@ -1227,6 +1235,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 614844,
+      "num": 614844,
+      "word": "网剧花戎",
+      "onboard_time": 1685502030,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 611255,
       "num": 883286,
       "word": "3位盲人演员误入高速交警开车送返",
@@ -1299,14 +1315,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 585700,
-      "num": 585700,
-      "word": "网剧花戎",
-      "onboard_time": 1685502030,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 582791,
       "num": 566186,
       "word": "你管周也这张脸叫普普通通",
@@ -1345,14 +1353,6 @@
       "onboard_time": 1685418811,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 568977,
-      "num": 568977,
-      "word": "密室大逃脱",
-      "onboard_time": 1685441669,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 559462,
@@ -1531,6 +1531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 517171,
+      "num": 517171,
+      "word": "82岁阿尔帕西诺的29岁女友怀孕",
+      "onboard_time": 1685506170,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 514752,
       "num": 514752,
       "word": "北京WB",
@@ -1569,6 +1577,14 @@
       "onboard_time": 1685403146,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 506951,
+      "num": 348475,
+      "word": "梦中的那片海",
+      "onboard_time": 1685504548,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 506610,
@@ -1699,6 +1715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 472233,
+      "num": 472233,
+      "word": "五月天放票",
+      "onboard_time": 1685501967,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 468625,
       "num": 468625,
       "word": "袁姗姗戴绿帽子直播",
@@ -1715,8 +1739,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 461849,
-      "num": 461849,
+      "raw_hot": 465243,
+      "num": 465243,
       "word": "A股",
       "onboard_time": 1685331030,
       "rank": 38,
@@ -1729,14 +1753,6 @@
       "onboard_time": 1685329228,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 460144,
-      "num": 460144,
-      "word": "五月天放票",
-      "onboard_time": 1685501967,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 457732,
@@ -2097,14 +2113,6 @@
       "onboard_time": 1685440772,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 385536,
-      "num": 341158,
-      "word": "梦中的那片海",
-      "onboard_time": 1685504548,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 384390,
@@ -2819,6 +2827,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 296141,
+      "num": 296141,
+      "word": "长城汽车公关总经理离职",
+      "onboard_time": 1685503948,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 295486,
       "num": 295486,
       "word": "吉克隽逸杭州夏天穿毛衣",
@@ -2899,20 +2915,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288054,
+      "num": 288054,
+      "word": "二十岁以后基本形象都靠人民币和自律维持",
+      "onboard_time": 1685506833,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 287340,
       "num": 287340,
       "word": "解放军军机南海拦截美军侦察机",
       "onboard_time": 1685499626,
       "rank": 25,
       "category": "军事"
-    },
-    {
-      "raw_hot": 287225,
-      "num": 213387,
-      "word": "82岁阿尔帕西诺的29岁女友怀孕",
-      "onboard_time": 1685506170,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 286812,
@@ -3105,14 +3121,6 @@
       "onboard_time": 1685505209,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 274886,
-      "num": 274886,
-      "word": "长城汽车公关总经理离职",
-      "onboard_time": 1685503948,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 274651,
@@ -3651,6 +3659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237425,
+      "num": 237425,
+      "word": "杨紫范丞丞龚俊合影",
+      "onboard_time": 1685505629,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 237242,
       "num": 237242,
       "word": "桂海潮",
@@ -3681,6 +3697,14 @@
       "onboard_time": 1685448752,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 235542,
+      "num": 235542,
+      "word": "吴磊背着烤包子去骑行",
+      "onboard_time": 1685507131,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 235395,
@@ -3753,6 +3777,14 @@
       "onboard_time": 1685356047,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 228222,
+      "num": 228222,
+      "word": "FF91价格",
+      "onboard_time": 1685504486,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 227940,
@@ -3948,7 +3980,7 @@
     },
     {
       "raw_hot": 217271,
-      "num": 211854,
+      "num": 216337,
       "word": "女生把喷泉穿在身上秒变水婚纱",
       "onboard_time": 1685504847,
       "rank": 31,
@@ -3969,6 +4001,14 @@
       "onboard_time": 1685320409,
       "rank": 36,
       "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 215844,
+      "num": 215844,
+      "word": "春色寄情人杀青",
+      "onboard_time": 1685507431,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 215231,
@@ -4235,6 +4275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 203925,
+      "num": 203925,
+      "word": "迪丽热巴深V裙花絮视频",
+      "onboard_time": 1685504249,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 203145,
       "num": 203145,
       "word": "热火晋级总决赛",
@@ -4345,14 +4393,6 @@
       "onboard_time": 1685500767,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 199551,
-      "num": 199551,
-      "word": "FF91价格",
-      "onboard_time": 1685504486,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 198816,
@@ -4513,14 +4553,6 @@
       "onboard_time": 1685414729,
       "rank": 48,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 193288,
-      "num": 193288,
-      "word": "杨紫范丞丞龚俊合影",
-      "onboard_time": 1685505629,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 193231,
@@ -4785,14 +4817,6 @@
       "onboard_time": 1685423972,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181494,
-      "num": 181494,
-      "word": "迪丽热巴深V裙花絮视频",
-      "onboard_time": 1685504249,
-      "rank": 39,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 181486,
@@ -5121,6 +5145,14 @@
       "onboard_time": 1685444009,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161589,
+      "num": 161589,
+      "word": "梦中那片海定档",
+      "onboard_time": 1685507612,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 161355,
@@ -6307,6 +6339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 26891,
+      "num": 215941,
+      "word": "神十五神十六航天员全家福",
+      "onboard_time": 1685507311,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26019,
       "num": 98742,
       "word": "神十六各系统准备就绪",
@@ -6392,6 +6432,14 @@
       "word": "爱上高速 畅游三秦",
       "onboard_time": 1685419229,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10705,
+      "num": 1539722,
+      "word": "祝福2023高考生",
+      "onboard_time": 1685507552,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],
