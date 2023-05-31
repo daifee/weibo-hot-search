@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685532822162,
+  "endTime": 1685536496968,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -233,6 +233,14 @@
       "onboard_time": 1685323827,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1900732,
+      "num": 945224,
+      "word": "酒肉情侣",
+      "onboard_time": 1685530407,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 1898104,
@@ -971,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 953777,
+      "num": 387443,
+      "word": "赵丽颖被起哄了",
+      "onboard_time": 1685531787,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 929988,
       "num": 929988,
       "word": "秦昊恋爱脑",
@@ -1059,12 +1075,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 835525,
-      "num": 499607,
-      "word": "酒肉情侣",
-      "onboard_time": 1685530407,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 833683,
+      "num": 833683,
+      "word": "冯小刚香港卖房大赚6000万港元",
+      "onboard_time": 1685531307,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 833108,
@@ -1121,14 +1137,6 @@
       "onboard_time": 1685446950,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 780292,
-      "num": 780292,
-      "word": "冯小刚香港卖房大赚6000万港元",
-      "onboard_time": 1685531307,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 770773,
@@ -1739,6 +1747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 520450,
+      "num": 380631,
+      "word": "迪丽热巴虞书欣张元英神女造型",
+      "onboard_time": 1685534604,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 519806,
       "num": 519806,
       "word": "教育局回应小学不让打伞进校",
@@ -1904,6 +1920,14 @@
       "word": "椰树男模",
       "onboard_time": 1685365528,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 490303,
+      "num": 490303,
+      "word": "贵州教师溺亡河边发现一堆鹅卵石",
+      "onboard_time": 1685532085,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -2435,14 +2459,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 387443,
-      "num": 387443,
-      "word": "赵丽颖被起哄了",
-      "onboard_time": 1685531787,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 386333,
       "num": 386333,
       "word": "吴磊背着烤包子去骑行",
@@ -2699,6 +2715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353973,
+      "num": 353973,
+      "word": "肖战说谢谢淇哥",
+      "onboard_time": 1685535265,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 352551,
       "num": 352551,
       "word": "光与夜之恋",
@@ -2761,6 +2785,14 @@
       "onboard_time": 1685413167,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344300,
+      "num": 312330,
+      "word": "TFBOYS这几年到底发生了什么",
+      "onboard_time": 1685533888,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 343385,
@@ -2908,7 +2940,7 @@
     },
     {
       "raw_hot": 327038,
-      "num": 237635,
+      "num": 245661,
       "word": "明天有两部新剧开播",
       "onboard_time": 1685531249,
       "rank": 23,
@@ -2929,6 +2961,14 @@
       "onboard_time": 1685441611,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 324975,
+      "num": 324975,
+      "word": "苹果直播",
+      "onboard_time": 1685532746,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 324296,
@@ -3419,6 +3459,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 282084,
+      "num": 282084,
+      "word": "京东红包",
+      "onboard_time": 1685535986,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 280598,
       "num": 280598,
       "word": "李现芭莎年度派对上班路透",
@@ -3771,6 +3819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 260957,
+      "num": 260957,
+      "word": "赵露思发了个太阳",
+      "onboard_time": 1685532627,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260518,
       "num": 260518,
       "word": "孟子义我们不是死绿茶",
@@ -4051,6 +4107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245842,
+      "num": 245842,
+      "word": "凑单",
+      "onboard_time": 1685535866,
+      "rank": 22,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 245586,
       "num": 245586,
       "word": "Hero",
@@ -4219,6 +4283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 237258,
+      "num": 237258,
+      "word": "中国女排首战获胜",
+      "onboard_time": 1685535146,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 237242,
       "num": 237242,
       "word": "桂海潮",
@@ -4363,6 +4435,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 228141,
+      "num": 228141,
+      "word": "TES",
+      "onboard_time": 1685532806,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 227940,
       "num": 227940,
       "word": "LGD对战iG",
@@ -4393,6 +4473,22 @@
       "onboard_time": 1685369674,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 225882,
+      "num": 225882,
+      "word": "尾款",
+      "onboard_time": 1685536286,
+      "rank": 30,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 225762,
+      "num": 225762,
+      "word": "泰国寺庙偶遇Lisa",
+      "onboard_time": 1685533587,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 225732,
@@ -4611,6 +4707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 218389,
+      "num": 218389,
+      "word": "美军一侦察机蓄意闯入我位南海训练区",
+      "onboard_time": 1685535206,
+      "rank": 32,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 218141,
       "num": 218141,
       "word": "马斯克北京首日晚宴吃了啥",
@@ -4769,6 +4873,14 @@
       "onboard_time": 1685501188,
       "rank": 39,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 208956,
+      "num": 208956,
+      "word": "果然站C位是有道理的",
+      "onboard_time": 1685535866,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 208800,
@@ -5451,6 +5563,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 189443,
+      "num": 189443,
+      "word": "刘宪华 MOONLIGHT",
+      "onboard_time": 1685536345,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189375,
       "num": 189375,
       "word": "山姆回应同款蛋糕各地不同价",
@@ -5505,6 +5625,14 @@
       "onboard_time": 1685445811,
       "rank": 48,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 185987,
+      "num": 185987,
+      "word": "福建一彩民中得1.5亿大奖",
+      "onboard_time": 1685535386,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185862,
@@ -5707,28 +5835,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 176994,
-      "num": 176994,
-      "word": "贵州教师溺亡河边发现一堆鹅卵石",
-      "onboard_time": 1685532085,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176799,
       "num": 176799,
       "word": "陈漫镜头下的明星们",
       "onboard_time": 1685514690,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 176378,
-      "num": 127163,
-      "word": "赵露思发了个太阳",
-      "onboard_time": 1685532627,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 176201,
@@ -5817,6 +5929,14 @@
       "onboard_time": 1685499867,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 171154,
+      "num": 171154,
+      "word": "王梦洁",
+      "onboard_time": 1685533646,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 171081,
@@ -6507,14 +6627,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 138161,
-      "num": 138161,
-      "word": "TES",
-      "onboard_time": 1685532806,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 137742,
       "num": 137742,
       "word": "爸爸只会报菜名",
@@ -6561,6 +6673,14 @@
       "onboard_time": 1685347767,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 134659,
+      "num": 134659,
+      "word": "公司取消了端午调休",
+      "onboard_time": 1685532506,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 134439,
@@ -6697,14 +6817,6 @@
       "onboard_time": 1685304672,
       "rank": 27,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 127233,
-      "num": 127233,
-      "word": "苹果直播",
-      "onboard_time": 1685532746,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 127210,
@@ -7019,14 +7131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 107939,
-      "num": 119502,
-      "word": "公司取消了端午调休",
-      "onboard_time": 1685532506,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 107700,
       "num": 114230,
       "word": "需要官方解释的防拐宣传",
@@ -7040,6 +7144,14 @@
       "word": "94岁奶奶雨天探亲迷路民警及时护送",
       "onboard_time": 1685366550,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106645,
+      "num": 263883,
+      "word": "天猫618怎么买最划算",
+      "onboard_time": 1685533528,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -7347,6 +7459,14 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 67596,
+      "num": 315049,
+      "word": "今晚有多少明星在天猫618直播",
+      "onboard_time": 1685534427,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66151,
       "num": 1174170,
       "word": "为头盔侠们点赞",
@@ -7417,6 +7537,14 @@
       "onboard_time": 1685380998,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 55192,
+      "num": 245695,
+      "word": "被新一代超级电混秀到了",
+      "onboard_time": 1685534007,
+      "rank": 23,
+      "category": "科技"
     },
     {
       "raw_hot": 54917,
