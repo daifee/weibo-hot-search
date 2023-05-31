@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685554420098,
+  "endTime": 1685557257862,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -8273,6 +8273,14 @@
       "onboard_time": 1685385194,
       "rank": 45,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 29939,
+      "num": 34030,
+      "word": "周深璀璨冒险人舞美寓意",
+      "onboard_time": 1685548527,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 27299,

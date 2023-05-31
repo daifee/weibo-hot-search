@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685554420098,
+  "endTime": 1685557257862,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -473,6 +473,22 @@
       "onboard_time": 1685538147,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29939,
+      "num": 34030,
+      "word": "周深璀璨冒险人舞美寓意",
+      "onboard_time": 1685548527,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 28689,
+      "num": 34020,
+      "word": "北上女二",
+      "onboard_time": 1685543072,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 13718,
