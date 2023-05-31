@@ -1,0 +1,410 @@
+{
+  "runTime": 1685554420098,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 501137,
+        "num": 626850,
+        "word": "坐飞机要称体重了",
+        "onboard_time": 1685542230,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2224772,
+        "num": 601030,
+        "word": "男子多次性侵女友孙女致其染上妇科病",
+        "onboard_time": 1685548168,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13718,
+        "num": 580457,
+        "word": "中国航天员太空会师名场面再现",
+        "onboard_time": 1685537908,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569244,
+        "num": 569244,
+        "word": "退款",
+        "onboard_time": 1685536526,
+        "rank": 3,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 423819,
+        "num": 423819,
+        "word": "官方通报柳州一干部相关情况",
+        "onboard_time": 1685538207,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368340,
+        "num": 368340,
+        "word": "卡琳娜 我轻轻地尖叫晕了",
+        "onboard_time": 1685549729,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 303754,
+        "num": 303754,
+        "word": "杨紫化妆师删博",
+        "onboard_time": 1685539347,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 298152,
+        "num": 298152,
+        "word": "我慢慢开始情绪稳定",
+        "onboard_time": 1685549369,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265608,
+        "num": 265608,
+        "word": "宋妍霏对王嘉尔的小动作",
+        "onboard_time": 1685545531,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 255203,
+        "num": 255203,
+        "word": "一万人的朋友圈是什么样的",
+        "onboard_time": 1685551046,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218501,
+        "num": 218501,
+        "word": "早睡可以解决80%以上的问题",
+        "onboard_time": 1685525007,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212554,
+        "num": 212554,
+        "word": "苹果14",
+        "onboard_time": 1685536646,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 210993,
+        "num": 210993,
+        "word": "赵露思 妆发团队",
+        "onboard_time": 1685525248,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209498,
+        "num": 209498,
+        "word": "胡可说不要把另一半当自己人",
+        "onboard_time": 1685542169,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160771,
+        "num": 160771,
+        "word": "陈晓和陈妍希亲吻儿子好甜",
+        "onboard_time": 1685539107,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137553,
+        "num": 137553,
+        "word": "长月烬明三位主演的后续",
+        "onboard_time": 1685539288,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129462,
+        "num": 129462,
+        "word": "妊娠终止手术一定要在孕14周内做",
+        "onboard_time": 1685542109,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127188,
+        "num": 127188,
+        "word": "男子站斑马线旁聊天被撞飞当场死亡",
+        "onboard_time": 1685541270,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122090,
+        "num": 122090,
+        "word": "Jennie曼谷演唱会不划水",
+        "onboard_time": 1685538267,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 117840,
+        "num": 117840,
+        "word": "虞书欣 杨天真",
+        "onboard_time": 1685545351,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117378,
+        "num": 117378,
+        "word": "TFBOYS演唱会最终章",
+        "onboard_time": 1685524889,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 106469,
+        "num": 106469,
+        "word": "杨和苏朋友圈",
+        "onboard_time": 1685538627,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103975,
+        "num": 103975,
+        "word": "代号鸢",
+        "onboard_time": 1685550029,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100440,
+        "num": 100440,
+        "word": "肖战说谢谢淇哥",
+        "onboard_time": 1685535265,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99600,
+        "num": 99600,
+        "word": "吴谢宇 三联",
+        "onboard_time": 1685538688,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97955,
+        "num": 97955,
+        "word": "福建一彩民中得1.5亿大奖",
+        "onboard_time": 1685535386,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94870,
+        "num": 94870,
+        "word": "偶遇毛不易看五月天演唱会",
+        "onboard_time": 1685550387,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94033,
+        "num": 94033,
+        "word": "看似睡着了 实际可能走了有一会儿",
+        "onboard_time": 1685546671,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92043,
+        "num": 92043,
+        "word": "赵丽颖被起哄了",
+        "onboard_time": 1685531787,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 90741,
+        "num": 90741,
+        "word": "WBG官宣daeny首场比赛无法登场",
+        "onboard_time": 1685547988,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87233,
+        "num": 87233,
+        "word": "央视记者探访河南小麦发芽发霉",
+        "onboard_time": 1685546971,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85526,
+        "num": 85526,
+        "word": "明天有两部新剧开播",
+        "onboard_time": 1685531249,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 81581,
+        "num": 81581,
+        "word": "卡琳娜",
+        "onboard_time": 1685537066,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 76699,
+        "num": 76699,
+        "word": "CCTV6 诛仙",
+        "onboard_time": 1685540369,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 76212,
+        "num": 76212,
+        "word": "六一儿童节",
+        "onboard_time": 1685545292,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76129,
+        "num": 76129,
+        "word": "TFBOYS这几年到底发生了什么",
+        "onboard_time": 1685533888,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 71072,
+        "num": 71072,
+        "word": "Rookie",
+        "onboard_time": 1685546313,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 69669,
+        "num": 69669,
+        "word": "女生一生只能穿一次婚纱吗",
+        "onboard_time": 1685524469,
+        "rank": 37,
+        "category": "情感,音乐"
+      },
+      {
+        "raw_hot": 67851,
+        "num": 67851,
+        "word": "张杰狼尾发型",
+        "onboard_time": 1685547628,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 67734,
+        "num": 67734,
+        "word": "请张彬彬不要随意解衬衫",
+        "onboard_time": 1685546610,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 66052,
+        "num": 66052,
+        "word": "Lisa脚趾头",
+        "onboard_time": 1685545051,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 63774,
+        "num": 63774,
+        "word": "子时当归",
+        "onboard_time": 1685547389,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 62377,
+        "num": 62377,
+        "word": "迪丽热巴虞书欣张元英神女造型",
+        "onboard_time": 1685534604,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 57388,
+        "num": 57388,
+        "word": "陈漫 芭莎封面",
+        "onboard_time": 1685546313,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 57112,
+        "num": 57112,
+        "word": "以后都不会做了的工作",
+        "onboard_time": 1685542471,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56645,
+        "num": 56645,
+        "word": "赵丽颖发了粉丝修的图",
+        "onboard_time": 1685540910,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 51674,
+        "num": 56467,
+        "word": "妹妹是重男轻女的产物",
+        "onboard_time": 1685522847,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49879,
+        "num": 55988,
+        "word": "赵露思浓妆vs淡妆",
+        "onboard_time": 1685547030,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45301,
+        "num": 55436,
+        "word": "618攻略",
+        "onboard_time": 1685537728,
+        "rank": 48,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 37542,
+        "num": 54826,
+        "word": "柳州",
+        "onboard_time": 1685538987,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席向全国广大少年儿童祝贺节日#"
+    }
+  }
+}

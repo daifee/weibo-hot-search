@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685553350529,
+  "endTime": 1685554420098,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -171,6 +171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 255203,
+      "num": 255203,
+      "word": "一万人的朋友圈是什么样的",
+      "onboard_time": 1685551046,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251784,
       "num": 229386,
       "word": "聊天记录",
@@ -331,14 +339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150639,
-      "num": 150639,
-      "word": "一万人的朋友圈是什么样的",
-      "onboard_time": 1685551046,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150300,
       "num": 150300,
       "word": "陈漫 芭莎封面",
@@ -435,6 +435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 56645,
+      "num": 56645,
+      "word": "赵丽颖发了粉丝修的图",
+      "onboard_time": 1685540910,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 55088,
       "num": 70177,
       "word": "妹妹是重男轻女的产物",
@@ -443,12 +451,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 40804,
+      "raw_hot": 45301,
       "num": 69900,
       "word": "618攻略",
       "onboard_time": 1685537728,
       "rank": 49,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 37542,
+      "num": 54826,
+      "word": "柳州",
+      "onboard_time": 1685538987,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30928,
@@ -459,7 +475,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13386,
+      "raw_hot": 13718,
       "num": 630746,
       "word": "中国航天员太空会师名场面再现",
       "onboard_time": 1685537908,
