@@ -1,10 +1,10 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685550119926,
+  "endTime": 1685551031860,
   "band_list": [
     {
-      "raw_hot": 3246230,
-      "num": 3246230,
+      "raw_hot": 3863147,
+      "num": 3863147,
       "word": "男子多次性侵女友孙女致其染上妇科病",
       "onboard_time": 1685548168,
       "rank": 0,
@@ -75,8 +75,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 467041,
-      "num": 467041,
+      "raw_hot": 478448,
+      "num": 478448,
       "word": "官方通报柳州一干部相关情况",
       "onboard_time": 1685538207,
       "rank": 10,
@@ -121,6 +121,14 @@
       "onboard_time": 1685545051,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 318637,
+      "num": 318637,
+      "word": "卡琳娜 我轻轻地尖叫晕了",
+      "onboard_time": 1685549729,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 311706,
@@ -227,14 +235,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 205425,
-      "num": 184518,
-      "word": "卡琳娜 我轻轻地尖叫晕了",
-      "onboard_time": 1685549729,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 196205,
       "num": 196205,
       "word": "河南小麦咋样了",
@@ -259,6 +259,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181375,
+      "num": 181375,
+      "word": "代号鸢",
+      "onboard_time": 1685550029,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 176326,
+      "num": 176326,
+      "word": "我慢慢开始情绪稳定",
+      "onboard_time": 1685549369,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172903,
       "num": 172903,
       "word": "请张彬彬不要随意解衬衫",
@@ -273,6 +289,14 @@
       "onboard_time": 1685544453,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 166865,
+      "num": 166865,
+      "word": "偶遇毛不易看五月天演唱会",
+      "onboard_time": 1685550387,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 164496,
@@ -307,8 +331,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147633,
-      "num": 133405,
+      "raw_hot": 150300,
+      "num": 150300,
       "word": "陈漫 芭莎封面",
       "onboard_time": 1685546313,
       "rank": 41,
@@ -331,20 +355,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 137559,
+      "num": 133358,
+      "word": "杨和苏朋友圈",
+      "onboard_time": 1685538627,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133454,
       "num": 133454,
       "word": "以后都不会做了的工作",
       "onboard_time": 1685542471,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 133358,
-      "num": 133358,
-      "word": "杨和苏朋友圈",
-      "onboard_time": 1685538627,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 117805,
@@ -355,12 +379,12 @@
       "category": "情感,音乐"
     },
     {
-      "raw_hot": 116804,
-      "num": 132992,
-      "word": "我慢慢开始情绪稳定",
-      "onboard_time": 1685549369,
-      "rank": 45,
-      "category": "情感"
+      "raw_hot": 105689,
+      "num": 132432,
+      "word": "央视记者探访河南小麦发芽发霉",
+      "onboard_time": 1685546971,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103499,
@@ -371,14 +395,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 98644,
-      "num": 132432,
-      "word": "央视记者探访河南小麦发芽发霉",
-      "onboard_time": 1685546971,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92931,
       "num": 132073,
       "word": "六一儿童节快乐",
@@ -387,10 +403,10 @@
       "category": "情感"
     },
     {
-      "raw_hot": 84603,
-      "num": 131517,
-      "word": "代号鸢",
-      "onboard_time": 1685550029,
+      "raw_hot": 68926,
+      "num": 103927,
+      "word": "LNG战胜TES",
+      "onboard_time": 1685542530,
       "rank": 49,
       "category": "游戏"
     },
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#博士乘组出征精彩瞬间合集#"
+    },
+    {
+      "word": "#习主席向全国广大少年儿童祝贺节日#"
     }
   ]
 }
