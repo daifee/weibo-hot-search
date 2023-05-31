@@ -1,6 +1,6 @@
 {
   "startTime": 1685463570565,
-  "endTime": 1685525632921,
+  "endTime": 1685528282175,
   "band_list": [
     {
       "raw_hot": 3015187,
@@ -52,11 +52,19 @@
     },
     {
       "raw_hot": 1654405,
-      "num": 499595,
+      "num": 562887,
       "word": "阚清子钻戒",
       "onboard_time": 1685510129,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1649131,
+      "num": 1649131,
+      "word": "答错了试卷 却答对了人生",
+      "onboard_time": 1685516608,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 1558621,
@@ -97,14 +105,6 @@
       "onboard_time": 1685460155,
       "rank": 0,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1449830,
-      "num": 1449830,
-      "word": "答错了试卷 却答对了人生",
-      "onboard_time": 1685516608,
-      "rank": 30,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 1332149,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 1252024,
-      "num": 283495,
+      "num": 304010,
       "word": "丁泽仁是救了杜华的命吗",
       "onboard_time": 1685522008,
       "rank": 20,
@@ -160,6 +160,14 @@
       "word": "砍杀柯基男子被曝任职公益岗",
       "onboard_time": 1685515286,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1182273,
+      "num": 1182273,
+      "word": "早睡可以解决80%以上的问题",
+      "onboard_time": 1685525007,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -211,6 +219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1040921,
+      "num": 1040921,
+      "word": "TFBOYS演唱会最终章",
+      "onboard_time": 1685524889,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1012181,
       "num": 499911,
       "word": "马雪阳谭咏雯公布恋情",
@@ -241,6 +257,22 @@
       "onboard_time": 1685451033,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 893905,
+      "num": 1311357,
+      "word": "女子偷偷卖掉所有黄金首饰帮老公还账",
+      "onboard_time": 1685521589,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 880565,
+      "num": 880565,
+      "word": "赵露思 妆发团队",
+      "onboard_time": 1685525248,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 880241,
@@ -289,14 +321,6 @@
       "onboard_time": 1685506170,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 683328,
-      "num": 683328,
-      "word": "TFBOYS演唱会最终章",
-      "onboard_time": 1685524889,
-      "rank": 6,
-      "category": "音乐"
     },
     {
       "raw_hot": 675940,
@@ -395,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 510090,
+      "num": 510090,
+      "word": "胡歌高圆圆 内江",
+      "onboard_time": 1685526750,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 506951,
       "num": 348475,
       "word": "梦中的那片海",
@@ -419,14 +451,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 488616,
-      "num": 488616,
-      "word": "女子偷偷卖掉所有黄金首饰帮老公还账",
-      "onboard_time": 1685521589,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 484180,
       "num": 440572,
       "word": "朱珠化妆台",
@@ -441,6 +465,14 @@
       "onboard_time": 1685443830,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 479308,
+      "num": 1070098,
+      "word": "医生跟踪3年治好女大学生天疱疮",
+      "onboard_time": 1685523749,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 478234,
@@ -507,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 430509,
+      "num": 430509,
+      "word": "女生一生只能穿一次婚纱吗",
+      "onboard_time": 1685524469,
+      "rank": 36,
+      "category": "情感,音乐"
+    },
+    {
       "raw_hot": 427327,
       "num": 427327,
       "word": "五月天演唱会武汉沈阳官宣",
@@ -536,14 +576,6 @@
       "word": "幼童撞到石墩口吐鲜血邻居合救",
       "onboard_time": 1685493390,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 419323,
-      "num": 457906,
-      "word": "医生跟踪3年治好女大学生天疱疮",
-      "onboard_time": 1685523749,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -593,6 +625,14 @@
       "onboard_time": 1685453917,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 395023,
+      "num": 395023,
+      "word": "虞书欣把调色盘穿身上了",
+      "onboard_time": 1685525967,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 389550,
@@ -923,6 +963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 251911,
+      "num": 991328,
+      "word": "外卖骑手取餐闻到煤气味机智救下2人",
+      "onboard_time": 1685526388,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249040,
       "num": 238031,
       "word": "民警通宵审毒贩熬死了一地蚊子",
@@ -1067,6 +1115,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 232224,
+      "num": 219214,
+      "word": "一年级都火了",
+      "onboard_time": 1685527708,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 229883,
       "num": 229883,
       "word": "怪不得杨幂不去芭莎盛典",
@@ -1147,14 +1203,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 221133,
-      "num": 221133,
-      "word": "赵露思 妆发团队",
-      "onboard_time": 1685525248,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 220360,
       "num": 177695,
       "word": "舞台2023首录路透",
@@ -1203,6 +1251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214869,
+      "num": 214869,
+      "word": "TES里也有ES",
+      "onboard_time": 1685526569,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 213883,
       "num": 213883,
       "word": "G社拍的赵露思",
@@ -1217,6 +1273,14 @@
       "onboard_time": 1685450796,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 209690,
+      "num": 209690,
+      "word": "养猫的都这么手欠过",
+      "onboard_time": 1685523328,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 209659,
@@ -1241,6 +1305,14 @@
       "onboard_time": 1685525190,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 207281,
+      "num": 207281,
+      "word": "唐嫣礼服改了领口",
+      "onboard_time": 1685525849,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 207124,
@@ -1339,14 +1411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 195925,
-      "num": 195925,
-      "word": "养猫的都这么手欠过",
-      "onboard_time": 1685523328,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 195849,
       "num": 169157,
       "word": "杨紫范丞丞在聊什么",
@@ -1361,14 +1425,6 @@
       "onboard_time": 1685512770,
       "rank": 39,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 193101,
-      "num": 193101,
-      "word": "早睡可以解决80%以上的问题",
-      "onboard_time": 1685525007,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191523,
@@ -1483,12 +1539,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175076,
-      "num": 175076,
-      "word": "女生一生只能穿一次婚纱吗",
-      "onboard_time": 1685524469,
-      "rank": 36,
-      "category": "情感,音乐"
+      "raw_hot": 175230,
+      "num": 175230,
+      "word": "网友给热巴P的礼服",
+      "onboard_time": 1685527646,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 174122,
+      "num": 174122,
+      "word": "在古代广东是流放地的原因",
+      "onboard_time": 1685527232,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 173536,
@@ -1667,12 +1731,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155907,
+      "num": 155907,
+      "word": "虞书欣的五月穿搭",
+      "onboard_time": 1685527708,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 155858,
       "num": 155858,
       "word": "前任的分手文案有多离谱",
       "onboard_time": 1685516848,
       "rank": 42,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 155808,
+      "num": 155808,
+      "word": "RA首发",
+      "onboard_time": 1685527467,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 155425,
@@ -1689,6 +1769,22 @@
       "onboard_time": 1685488159,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150251,
+      "num": 150251,
+      "word": "TFBOYS团站敬十年敬青春",
+      "onboard_time": 1685526329,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 150212,
+      "num": 150212,
+      "word": "中国女排vs巴西女排",
+      "onboard_time": 1685525667,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 149845,
@@ -1836,7 +1932,7 @@
     },
     {
       "raw_hot": 127097,
-      "num": 137444,
+      "num": 162882,
       "word": "vivo发布会开在了山海里",
       "onboard_time": 1685518408,
       "rank": 49,
@@ -1857,6 +1953,14 @@
       "onboard_time": 1685513668,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125769,
+      "num": 125769,
+      "word": "赵露思choker",
+      "onboard_time": 1685528127,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 124545,
@@ -1883,6 +1987,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 122654,
+      "num": 122654,
+      "word": "RNG对战RA",
+      "onboard_time": 1685527170,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122488,
       "num": 122488,
       "word": "马斯克此次访华将忙些什么",
@@ -1900,7 +2012,7 @@
     },
     {
       "raw_hot": 119206,
-      "num": 150494,
+      "num": 389629,
       "word": "坚果极米你站谁",
       "onboard_time": 1685525248,
       "rank": 40,
@@ -2164,7 +2276,7 @@
     },
     {
       "raw_hot": 23673,
-      "num": 1072443,
+      "num": 1201521,
       "word": "今天世界无烟日",
       "onboard_time": 1685491767,
       "rank": 2,

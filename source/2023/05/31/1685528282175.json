@@ -1,0 +1,410 @@
+{
+  "runTime": 1685528282175,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1649131,
+        "num": 1649131,
+        "word": "答错了试卷 却答对了人生",
+        "onboard_time": 1685516608,
+        "rank": 0,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 893905,
+        "num": 1311357,
+        "word": "女子偷偷卖掉所有黄金首饰帮老公还账",
+        "onboard_time": 1685521589,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23618,
+        "num": 1201521,
+        "word": "今天世界无烟日",
+        "onboard_time": 1685491767,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1182273,
+        "num": 1182273,
+        "word": "早睡可以解决80%以上的问题",
+        "onboard_time": 1685525007,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479308,
+        "num": 1070098,
+        "word": "医生跟踪3年治好女大学生天疱疮",
+        "onboard_time": 1685523749,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1040921,
+        "num": 1040921,
+        "word": "TFBOYS演唱会最终章",
+        "onboard_time": 1685524889,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 251911,
+        "num": 991328,
+        "word": "外卖骑手取餐闻到煤气味机智救下2人",
+        "onboard_time": 1685526388,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 954699,
+        "num": 954699,
+        "word": "上班穿衣服羞耻症",
+        "onboard_time": 1685515949,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 880565,
+        "num": 880565,
+        "word": "赵露思 妆发团队",
+        "onboard_time": 1685525248,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583124,
+        "num": 583124,
+        "word": "肖战好大的珍珠泪",
+        "onboard_time": 1685519727,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 792725,
+        "num": 562887,
+        "word": "阚清子钻戒",
+        "onboard_time": 1685510129,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529308,
+        "num": 529308,
+        "word": "露露黄了",
+        "onboard_time": 1685515829,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 510090,
+        "num": 510090,
+        "word": "胡歌高圆圆 内江",
+        "onboard_time": 1685526750,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 447648,
+        "num": 447648,
+        "word": "同事阳了对着我哈气",
+        "onboard_time": 1685513307,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 443727,
+        "num": 443727,
+        "word": "马雪阳谭咏雯公布恋情",
+        "onboard_time": 1685512168,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430509,
+        "num": 430509,
+        "word": "女生一生只能穿一次婚纱吗",
+        "onboard_time": 1685524469,
+        "rank": 15,
+        "category": "情感,音乐"
+      },
+      {
+        "raw_hot": 395023,
+        "num": 395023,
+        "word": "虞书欣把调色盘穿身上了",
+        "onboard_time": 1685525967,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98884,
+        "num": 389629,
+        "word": "坚果极米你站谁",
+        "onboard_time": 1685525248,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 386998,
+        "num": 386998,
+        "word": "Angelababy 火山口走出的女战神",
+        "onboard_time": 1685517867,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 322130,
+        "num": 322130,
+        "word": "G社拍的杨紫",
+        "onboard_time": 1685522368,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1145245,
+        "num": 304010,
+        "word": "丁泽仁是救了杜华的命吗",
+        "onboard_time": 1685522008,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 956702,
+        "num": 293647,
+        "word": "妹妹是重男轻女的产物",
+        "onboard_time": 1685522847,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 344594,
+        "num": 289744,
+        "word": "砍杀柯基男子被曝任职公益岗",
+        "onboard_time": 1685515286,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236415,
+        "num": 236415,
+        "word": "是恶评 龚俊别看",
+        "onboard_time": 1685523508,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 222686,
+        "num": 222686,
+        "word": "发球遮挡",
+        "onboard_time": 1685521890,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232224,
+        "num": 219214,
+        "word": "一年级都火了",
+        "onboard_time": 1685527708,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214869,
+        "num": 214869,
+        "word": "TES里也有ES",
+        "onboard_time": 1685526569,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209690,
+        "num": 209690,
+        "word": "养猫的都这么手欠过",
+        "onboard_time": 1685523328,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207281,
+        "num": 207281,
+        "word": "唐嫣礼服改了领口",
+        "onboard_time": 1685525849,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 71494,
+        "num": 200587,
+        "word": "两男子救落水女孩后默默离开",
+        "onboard_time": 1685524529,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199011,
+        "num": 199011,
+        "word": "阚清子 谢谢大家",
+        "onboard_time": 1685508214,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192377,
+        "num": 192377,
+        "word": "女生穿婚纱看演唱会被分手",
+        "onboard_time": 1685501065,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180972,
+        "num": 180972,
+        "word": "迪丽热巴背影杀四宫格",
+        "onboard_time": 1685520267,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175230,
+        "num": 175230,
+        "word": "网友给热巴P的礼服",
+        "onboard_time": 1685527646,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 174819,
+        "num": 174819,
+        "word": "高瀚宇问娜扎六年前是在谈恋爱吗",
+        "onboard_time": 1685520687,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174122,
+        "num": 174122,
+        "word": "在古代广东是流放地的原因",
+        "onboard_time": 1685527232,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170316,
+        "num": 170316,
+        "word": "沈月说因为丢工作经常焦虑",
+        "onboard_time": 1685508393,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167814,
+        "num": 167814,
+        "word": "朱珠化妆台",
+        "onboard_time": 1685518949,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164223,
+        "num": 164223,
+        "word": "发现同事已经在用AI摸鱼了",
+        "onboard_time": 1685517987,
+        "rank": 38,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 34384,
+        "num": 162882,
+        "word": "vivo发布会开在了山海里",
+        "onboard_time": 1685518408,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 161867,
+        "num": 161867,
+        "word": "腾讯视频三部剧上星",
+        "onboard_time": 1685514031,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155907,
+        "num": 155907,
+        "word": "虞书欣的五月穿搭",
+        "onboard_time": 1685527708,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155808,
+        "num": 155808,
+        "word": "RA首发",
+        "onboard_time": 1685527467,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150251,
+        "num": 150251,
+        "word": "TFBOYS团站敬十年敬青春",
+        "onboard_time": 1685526329,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150212,
+        "num": 150212,
+        "word": "中国女排vs巴西女排",
+        "onboard_time": 1685525667,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146646,
+        "num": 146646,
+        "word": "五月天演唱会武汉沈阳官宣",
+        "onboard_time": 1685514267,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143772,
+        "num": 143772,
+        "word": "一战成名的紫微星",
+        "onboard_time": 1685523267,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141233,
+        "num": 141233,
+        "word": "被抛弃女孩长大后拒绝与父母相认",
+        "onboard_time": 1685519308,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125769,
+        "num": 125769,
+        "word": "赵露思choker",
+        "onboard_time": 1685528127,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122654,
+        "num": 122654,
+        "word": "RNG对战RA",
+        "onboard_time": 1685527170,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#从1到16看神舟飞天之路#"
+    }
+  }
+}
