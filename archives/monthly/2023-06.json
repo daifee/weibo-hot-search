@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685551031860,
+  "endTime": 1685553350529,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -83,12 +83,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 463515,
+      "num": 463515,
+      "word": "卡琳娜 我轻轻地尖叫晕了",
+      "onboard_time": 1685549729,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 393077,
       "num": 393077,
       "word": "赵露思 妆发团队",
       "onboard_time": 1685525248,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 377405,
+      "num": 377405,
+      "word": "我慢慢开始情绪稳定",
+      "onboard_time": 1685549369,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 357053,
@@ -121,14 +137,6 @@
       "onboard_time": 1685545051,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 318637,
-      "num": 318637,
-      "word": "卡琳娜 我轻轻地尖叫晕了",
-      "onboard_time": 1685549729,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 311706,
@@ -267,14 +275,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 176326,
-      "num": 176326,
-      "word": "我慢慢开始情绪稳定",
-      "onboard_time": 1685549369,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 172903,
       "num": 172903,
       "word": "请张彬彬不要随意解衬衫",
@@ -331,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150639,
+      "num": 150639,
+      "word": "一万人的朋友圈是什么样的",
+      "onboard_time": 1685551046,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150300,
       "num": 150300,
       "word": "陈漫 芭莎封面",
@@ -356,7 +364,7 @@
     },
     {
       "raw_hot": 137559,
-      "num": 133358,
+      "num": 134245,
       "word": "杨和苏朋友圈",
       "onboard_time": 1685538627,
       "rank": 44,
@@ -403,6 +411,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91252,
+      "num": 81061,
+      "word": "子时当归",
+      "onboard_time": 1685547389,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 70247,
+      "num": 70247,
+      "word": "迪丽热巴虞书欣张元英神女造型",
+      "onboard_time": 1685534604,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 68926,
       "num": 103927,
       "word": "LNG战胜TES",
@@ -411,10 +435,34 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 55088,
+      "num": 70177,
+      "word": "妹妹是重男轻女的产物",
+      "onboard_time": 1685522847,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 40804,
+      "num": 69900,
+      "word": "618攻略",
+      "onboard_time": 1685537728,
+      "rank": 49,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 30928,
       "num": 1048401,
       "word": "中国好书六一专榜",
       "onboard_time": 1685538147,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13386,
+      "num": 630746,
+      "word": "中国航天员太空会师名场面再现",
+      "onboard_time": 1685537908,
       "rank": 2,
       "category": "社会新闻"
     }
@@ -425,6 +473,9 @@
     },
     {
       "word": "#习主席向全国广大少年儿童祝贺节日#"
+    },
+    {
+      "word": "#少年志#"
     }
   ]
 }
