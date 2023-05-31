@@ -1,6 +1,6 @@
 {
   "startTime": 1685463570565,
-  "endTime": 1685514191582,
+  "endTime": 1685514912341,
   "band_list": [
     {
       "raw_hot": 2758583,
@@ -259,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 614877,
+      "num": 614877,
+      "word": "陌生人闯家门骂女主人小三后称认错人",
+      "onboard_time": 1685510250,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 614844,
       "num": 614844,
       "word": "网剧花戎",
@@ -281,14 +289,6 @@
       "onboard_time": 1685496508,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 581870,
-      "num": 581870,
-      "word": "陌生人闯家门骂女主人小三后称认错人",
-      "onboard_time": 1685510250,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 556604,
@@ -329,6 +329,14 @@
       "onboard_time": 1685447909,
       "rank": 13,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 493163,
+      "num": 357459,
+      "word": "同事阳了对着我哈气",
+      "onboard_time": 1685513307,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 481527,
@@ -443,12 +451,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 392545,
+      "num": 349309,
+      "word": "五月天演唱会武汉沈阳官宣",
+      "onboard_time": 1685514267,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 386333,
       "num": 386333,
       "word": "吴磊背着烤包子去骑行",
       "onboard_time": 1685507131,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 376535,
+      "num": 376535,
+      "word": "我那五位加起来250岁的老爱豆们",
+      "onboard_time": 1685510850,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 376241,
@@ -465,14 +489,6 @@
       "onboard_time": 1685440949,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 363358,
-      "num": 363358,
-      "word": "我那五位加起来250岁的老爱豆们",
-      "onboard_time": 1685510850,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 356933,
@@ -515,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321183,
+      "num": 321183,
+      "word": "马斯克",
+      "onboard_time": 1685511988,
+      "rank": 17,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 318150,
       "num": 289711,
       "word": "谭松韵生日发自己写的歌",
@@ -547,12 +571,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 298397,
-      "num": 298397,
-      "word": "马斯克",
-      "onboard_time": 1685511988,
-      "rank": 17,
-      "category": "社会新闻,科技"
+      "raw_hot": 299099,
+      "num": 299099,
+      "word": "腾讯视频三部剧上星",
+      "onboard_time": 1685514031,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 296141,
@@ -651,14 +675,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 270687,
-      "num": 181265,
-      "word": "同事阳了对着我哈气",
-      "onboard_time": 1685513307,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 269421,
       "num": 269421,
       "word": "大爷在菜市场猥亵多名女性被拍下",
@@ -684,7 +700,7 @@
     },
     {
       "raw_hot": 263065,
-      "num": 219189,
+      "num": 252402,
       "word": "王子奇发色",
       "onboard_time": 1685511988,
       "rank": 21,
@@ -788,11 +804,19 @@
     },
     {
       "raw_hot": 239218,
-      "num": 189728,
+      "num": 220868,
       "word": "李沁佟晓梅",
       "onboard_time": 1685513969,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 238755,
+      "num": 209844,
+      "word": "科学家调整基因让鸡爪上长羽毛",
+      "onboard_time": 1685514031,
+      "rank": 35,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 237425,
@@ -825,6 +849,14 @@
       "onboard_time": 1685504486,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 224820,
+      "num": 224820,
+      "word": "追星的意义",
+      "onboard_time": 1685514087,
+      "rank": 48,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 224800,
@@ -865,14 +897,6 @@
       "onboard_time": 1685513068,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 220151,
-      "num": 176352,
-      "word": "腾讯视频三部剧上星",
-      "onboard_time": 1685514031,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 219880,
@@ -963,6 +987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206288,
+      "num": 222820,
+      "word": "特警扮人贩子演技太好吓坏网友",
+      "onboard_time": 1685510908,
+      "rank": 49,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 205525,
       "num": 177367,
       "word": "怦然心动20岁",
@@ -977,14 +1009,6 @@
       "onboard_time": 1685500767,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 196589,
-      "num": 170073,
-      "word": "科学家调整基因让鸡爪上长羽毛",
-      "onboard_time": 1685514031,
-      "rank": 35,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 196154,
@@ -1043,12 +1067,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181915,
-      "num": 181915,
-      "word": "特警扮人贩子演技太好吓坏网友",
-      "onboard_time": 1685510908,
-      "rank": 49,
-      "category": "社会新闻,幽默"
+      "raw_hot": 181670,
+      "num": 181670,
+      "word": "患癌爸爸愿摘眼球给一岁独眼女儿",
+      "onboard_time": 1685514327,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181266,
@@ -1065,6 +1089,14 @@
       "onboard_time": 1685510310,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 176799,
+      "num": 176799,
+      "word": "陈漫镜头下的明星们",
+      "onboard_time": 1685514690,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 176201,
@@ -1145,6 +1177,14 @@
       "onboard_time": 1685454514,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 162153,
+      "num": 162153,
+      "word": "工信部部长会见马斯克",
+      "onboard_time": 1685512770,
+      "rank": 39,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 161589,
@@ -1241,14 +1281,6 @@
       "onboard_time": 1685496809,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146197,
-      "num": 146197,
-      "word": "工信部部长会见马斯克",
-      "onboard_time": 1685512770,
-      "rank": 39,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 145003,
@@ -1379,20 +1411,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115975,
-      "num": 115975,
-      "word": "追星的意义",
-      "onboard_time": 1685514087,
-      "rank": 48,
-      "category": "情感,艺人"
-    },
-    {
       "raw_hot": 115117,
       "num": 115117,
       "word": "福建农业职业技术学院通报女生坠楼",
       "onboard_time": 1685482332,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 114244,
+      "num": 114244,
+      "word": "舞台2023",
+      "onboard_time": 1685514866,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 107700,
+      "num": 114230,
+      "word": "需要官方解释的防拐宣传",
+      "onboard_time": 1685514208,
+      "rank": 49,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 106372,
@@ -1459,20 +1499,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86510,
+      "num": 379763,
+      "word": "易烊千玺天猫",
+      "onboard_time": 1685512830,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77285,
       "num": 171702,
       "word": "一条plog告别五月",
       "onboard_time": 1685463925,
       "rank": 29,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 76118,
-      "num": 379763,
-      "word": "易烊千玺天猫",
-      "onboard_time": 1685512830,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 74059,

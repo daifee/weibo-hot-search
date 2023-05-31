@@ -1,0 +1,410 @@
+{
+  "runTime": 1685514912341,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1320353,
+        "num": 1320353,
+        "word": "女生穿婚纱看演唱会被分手",
+        "onboard_time": 1685501065,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1200485,
+        "num": 1200485,
+        "word": "沈月说因为丢工作经常焦虑",
+        "onboard_time": 1685508393,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63450,
+        "num": 1167661,
+        "word": "祝福2023高考生",
+        "onboard_time": 1685507552,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1162664,
+        "num": 1162664,
+        "word": "二十岁以后基本形象都靠人民币和自律维持",
+        "onboard_time": 1685506833,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 941540,
+        "num": 941540,
+        "word": "杭州姑娘万元LV鞋放家门口被偷",
+        "onboard_time": 1685504129,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 738457,
+        "num": 738457,
+        "word": "梦中的那片海定档",
+        "onboard_time": 1685507612,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 614877,
+        "num": 614877,
+        "word": "陌生人闯家门骂女主人小三后称认错人",
+        "onboard_time": 1685510250,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554700,
+        "num": 554700,
+        "word": "迪丽热巴裙子钻掉了",
+        "onboard_time": 1685496508,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 376535,
+        "num": 376535,
+        "word": "我那五位加起来250岁的老爱豆们",
+        "onboard_time": 1685510850,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 367303,
+        "num": 367303,
+        "word": "乐乐茶 loopy",
+        "onboard_time": 1685509532,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 2059288,
+        "num": 366936,
+        "word": "阚清子 谢谢大家",
+        "onboard_time": 1685508214,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1004009,
+        "num": 364071,
+        "word": "马雪阳谭咏雯公布恋情",
+        "onboard_time": 1685512168,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 798693,
+        "num": 360351,
+        "word": "阚清子钻戒",
+        "onboard_time": 1685510129,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493163,
+        "num": 357459,
+        "word": "同事阳了对着我哈气",
+        "onboard_time": 1685513307,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86510,
+        "num": 355362,
+        "word": "易烊千玺天猫",
+        "onboard_time": 1685512830,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400526,
+        "num": 351622,
+        "word": "82岁阿尔帕西诺的29岁女友怀孕",
+        "onboard_time": 1685506170,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 392545,
+        "num": 349309,
+        "word": "五月天演唱会武汉沈阳官宣",
+        "onboard_time": 1685514267,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 348417,
+        "num": 348417,
+        "word": "范丞丞帮杨紫拿奖杯",
+        "onboard_time": 1685511328,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 346898,
+        "num": 346898,
+        "word": "女婴出生2天就被母亲打耳洞",
+        "onboard_time": 1685499985,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321183,
+        "num": 321183,
+        "word": "马斯克",
+        "onboard_time": 1685511988,
+        "rank": 19,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 299099,
+        "num": 299099,
+        "word": "腾讯视频三部剧上星",
+        "onboard_time": 1685514031,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252402,
+        "num": 252402,
+        "word": "王子奇发色",
+        "onboard_time": 1685511988,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229262,
+        "num": 229262,
+        "word": "月入6000背百万房贷当事人回应",
+        "onboard_time": 1685509237,
+        "rank": 22,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 224820,
+        "num": 224820,
+        "word": "追星的意义",
+        "onboard_time": 1685514087,
+        "rank": 23,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 206288,
+        "num": 222820,
+        "word": "特警扮人贩子演技太好吓坏网友",
+        "onboard_time": 1685510908,
+        "rank": 24,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 250269,
+        "num": 222376,
+        "word": "胡歌高圆圆新电影官宣",
+        "onboard_time": 1685496809,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233066,
+        "num": 221842,
+        "word": "王源演唱会 婚纱",
+        "onboard_time": 1685497707,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 220868,
+        "num": 220868,
+        "word": "李沁佟晓梅",
+        "onboard_time": 1685513969,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186949,
+        "num": 215205,
+        "word": "2023端午节放假通知",
+        "onboard_time": 1685495667,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210543,
+        "num": 210543,
+        "word": "吴磊背着烤包子去骑行",
+        "onboard_time": 1685507131,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238755,
+        "num": 209844,
+        "word": "科学家调整基因让鸡爪上长羽毛",
+        "onboard_time": 1685514031,
+        "rank": 30,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 208935,
+        "num": 208935,
+        "word": "密室大逃脱",
+        "onboard_time": 1685506170,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196323,
+        "num": 196323,
+        "word": "苏芒",
+        "onboard_time": 1685501427,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178532,
+        "num": 186472,
+        "word": "丫丫加入西直门群聊",
+        "onboard_time": 1685492549,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181677,
+        "num": 181677,
+        "word": "A股",
+        "onboard_time": 1685504429,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 192628,
+        "num": 181677,
+        "word": "阚清子被男友求婚",
+        "onboard_time": 1685450613,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181670,
+        "num": 181670,
+        "word": "患癌爸爸愿摘眼球给一岁独眼女儿",
+        "onboard_time": 1685514327,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176799,
+        "num": 176799,
+        "word": "陈漫镜头下的明星们",
+        "onboard_time": 1685514690,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162153,
+        "num": 162153,
+        "word": "工信部部长会见马斯克",
+        "onboard_time": 1685512770,
+        "rank": 38,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 150873,
+        "num": 150873,
+        "word": "新人订婚用押钞车运送998万现金",
+        "onboard_time": 1685488823,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167128,
+        "num": 149646,
+        "word": "五月天放票",
+        "onboard_time": 1685501967,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147259,
+        "num": 147259,
+        "word": "那英假睫毛哭掉了",
+        "onboard_time": 1685511627,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147113,
+        "num": 147113,
+        "word": "还记得延禧攻略的愉妃吗",
+        "onboard_time": 1685498068,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144800,
+        "num": 144800,
+        "word": "虞书欣要拍新剧了",
+        "onboard_time": 1685511866,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141589,
+        "num": 141589,
+        "word": "Amber官宣加盟说唱巅峰对决",
+        "onboard_time": 1685507729,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137153,
+        "num": 137153,
+        "word": "家里有中高考生的注意了",
+        "onboard_time": 1685510431,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131297,
+        "num": 131297,
+        "word": "记者毕节采访遭不明人士殴打",
+        "onboard_time": 1685510612,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123192,
+        "num": 123192,
+        "word": "开会 更适合中国宝宝体质的asmr",
+        "onboard_time": 1685513668,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114244,
+        "num": 114244,
+        "word": "舞台2023",
+        "onboard_time": 1685514866,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107700,
+        "num": 114230,
+        "word": "需要官方解释的防拐宣传",
+        "onboard_time": 1685514208,
+        "rank": 49,
+        "category": "社会新闻,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#神十六发射圆满成功#"
+    }
+  }
+}
