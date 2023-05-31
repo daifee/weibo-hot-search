@@ -1,0 +1,410 @@
+{
+  "runTime": 1685543623984,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1711483,
+        "num": 1711483,
+        "word": "苹果14",
+        "onboard_time": 1685536646,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1822521,
+        "num": 1692555,
+        "word": "退款",
+        "onboard_time": 1685536526,
+        "rank": 1,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 71908,
+        "num": 1636335,
+        "word": "中国好书六一专榜",
+        "onboard_time": 1685538147,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1590187,
+        "num": 1590187,
+        "word": "杨紫化妆师删博",
+        "onboard_time": 1685539347,
+        "rank": 3,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 1167518,
+        "num": 1167518,
+        "word": "网传柳州一干部与情人聊天记录被群发",
+        "onboard_time": 1685539529,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 782455,
+        "num": 782455,
+        "word": "赵露思 妆发团队",
+        "onboard_time": 1685525248,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 729724,
+        "num": 729724,
+        "word": "CCTV6 诛仙",
+        "onboard_time": 1685540369,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 705194,
+        "num": 705194,
+        "word": "长月烬明三位主演的后续",
+        "onboard_time": 1685539288,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 663217,
+        "num": 663217,
+        "word": "TFBOYS演唱会最终章",
+        "onboard_time": 1685524889,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 559882,
+        "num": 559882,
+        "word": "早睡可以解决80%以上的问题",
+        "onboard_time": 1685525007,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685559,
+        "num": 512543,
+        "word": "陈晓和陈妍希亲吻儿子好甜",
+        "onboard_time": 1685539107,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 661481,
+        "num": 510182,
+        "word": "赵丽颖被起哄了",
+        "onboard_time": 1685531787,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 562969,
+        "num": 486736,
+        "word": "吴谢宇 三联",
+        "onboard_time": 1685538688,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440789,
+        "num": 440789,
+        "word": "肖战说谢谢淇哥",
+        "onboard_time": 1685535265,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 425138,
+        "num": 425138,
+        "word": "柳州",
+        "onboard_time": 1685538987,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394674,
+        "num": 394674,
+        "word": "Jennie曼谷演唱会不划水",
+        "onboard_time": 1685538267,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 367345,
+        "num": 367345,
+        "word": "官方通报柳州一干部相关情况",
+        "onboard_time": 1685538207,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330425,
+        "num": 330425,
+        "word": "卡琳娜",
+        "onboard_time": 1685537066,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 313484,
+        "num": 313484,
+        "word": "女子偷偷卖掉所有黄金首饰帮老公还账",
+        "onboard_time": 1685521589,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303788,
+        "num": 303788,
+        "word": "男子站斑马线旁聊天被撞飞当场死亡",
+        "onboard_time": 1685541270,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360727,
+        "num": 299297,
+        "word": "坐飞机要称体重了",
+        "onboard_time": 1685542230,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304943,
+        "num": 295543,
+        "word": "赵丽颖发了粉丝修的图",
+        "onboard_time": 1685540910,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 284550,
+        "num": 284550,
+        "word": "LNG战胜TES",
+        "onboard_time": 1685542530,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 270834,
+        "num": 270834,
+        "word": "胡可说不要把另一半当自己人",
+        "onboard_time": 1685542169,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205115,
+        "num": 205115,
+        "word": "618发货真快",
+        "onboard_time": 1685541450,
+        "rank": 24,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 466074,
+        "num": 205070,
+        "word": "冯小刚香港卖房大赚6000万港元",
+        "onboard_time": 1685531307,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263145,
+        "num": 205051,
+        "word": "肖战沉浸式做北京人",
+        "onboard_time": 1685537669,
+        "rank": 26,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 224745,
+        "num": 205007,
+        "word": "北上女二",
+        "onboard_time": 1685543072,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214019,
+        "num": 204958,
+        "word": "周深唱的美美好美",
+        "onboard_time": 1685542351,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204912,
+        "num": 204912,
+        "word": "妹妹是重男轻女的产物",
+        "onboard_time": 1685522847,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212800,
+        "num": 203457,
+        "word": "明天有两部新剧开播",
+        "onboard_time": 1685531249,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208821,
+        "num": 202707,
+        "word": "迪丽热巴虞书欣张元英神女造型",
+        "onboard_time": 1685534604,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206497,
+        "num": 200599,
+        "word": "妊娠终止手术一定要在孕14周内做",
+        "onboard_time": 1685542109,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197632,
+        "num": 197632,
+        "word": "福建一彩民中得1.5亿大奖",
+        "onboard_time": 1685535386,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182312,
+        "num": 182312,
+        "word": "卫生巾",
+        "onboard_time": 1685537007,
+        "rank": 34,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 205580,
+        "num": 182070,
+        "word": "丁泽仁是救了杜华的命吗",
+        "onboard_time": 1685522008,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200909,
+        "num": 181870,
+        "word": "TFBOYS这几年到底发生了什么",
+        "onboard_time": 1685533888,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177651,
+        "num": 177651,
+        "word": "TES",
+        "onboard_time": 1685532806,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165608,
+        "num": 165608,
+        "word": "余华太懂现在的年轻人了",
+        "onboard_time": 1685540369,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138828,
+        "num": 138828,
+        "word": "女生一生只能穿一次婚纱吗",
+        "onboard_time": 1685524469,
+        "rank": 39,
+        "category": "情感,音乐"
+      },
+      {
+        "raw_hot": 198561,
+        "num": 138609,
+        "word": "baby王嘉尔 黑道文学",
+        "onboard_time": 1685539468,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196431,
+        "num": 138307,
+        "word": "杨和苏朋友圈",
+        "onboard_time": 1685538627,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196280,
+        "num": 137874,
+        "word": "姜贞羽公主切",
+        "onboard_time": 1685542351,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183524,
+        "num": 137393,
+        "word": "刘宇宁回应被叫爱情保安",
+        "onboard_time": 1685538326,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167398,
+        "num": 137230,
+        "word": "张彬彬全国寻亲带着导演吧",
+        "onboard_time": 1685539048,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174063,
+        "num": 136802,
+        "word": "果然站C位是有道理的",
+        "onboard_time": 1685535866,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136617,
+        "num": 136617,
+        "word": "别看不起做题家",
+        "onboard_time": 1685540609,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132174,
+        "num": 132174,
+        "word": "以后都不会做了的工作",
+        "onboard_time": 1685542471,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121801,
+        "num": 121801,
+        "word": "618攻略",
+        "onboard_time": 1685537728,
+        "rank": 48,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 107318,
+        "num": 121551,
+        "word": "618",
+        "onboard_time": 1685538447,
+        "rank": 49,
+        "category": "社会新闻,科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#博士乘组出征精彩瞬间合集#"
+    }
+  }
+}

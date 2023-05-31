@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685542506654,
+  "endTime": 1685543623984,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1711483,
+      "num": 1711483,
+      "word": "苹果14",
+      "onboard_time": 1685536646,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1694342,
       "num": 1694342,
       "word": "全世界都在等你们分手",
@@ -505,14 +513,6 @@
       "onboard_time": 1685423972,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1370339,
-      "num": 1370339,
-      "word": "苹果14",
-      "onboard_time": 1685536646,
-      "rank": 13,
-      "category": "科技"
     },
     {
       "raw_hot": 1368251,
@@ -753,6 +753,14 @@
       "onboard_time": 1685402122,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1167518,
+      "num": 1167518,
+      "word": "网传柳州一干部与情人聊天记录被群发",
+      "onboard_time": 1685539529,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1162958,
@@ -1203,14 +1211,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 740624,
-      "num": 740624,
-      "word": "网传柳州一干部与情人聊天记录被群发",
-      "onboard_time": 1685539529,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 733900,
       "num": 733900,
       "word": "五月天演唱会成大型求婚现场",
@@ -1283,6 +1283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 705194,
+      "num": 705194,
+      "word": "长月烬明三位主演的后续",
+      "onboard_time": 1685539288,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 701142,
       "num": 292737,
       "word": "吴磊新剧演的年上",
@@ -1307,14 +1315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 690734,
-      "num": 690734,
-      "word": "长月烬明三位主演的后续",
-      "onboard_time": 1685539288,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 689329,
       "num": 651057,
       "word": "金星参加干女儿婚礼",
@@ -1329,6 +1329,14 @@
       "onboard_time": 1685431111,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 685559,
+      "num": 512543,
+      "word": "陈晓和陈妍希亲吻儿子好甜",
+      "onboard_time": 1685539107,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 675940,
@@ -1361,14 +1369,6 @@
       "onboard_time": 1685287770,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 658285,
-      "num": 509668,
-      "word": "陈晓和陈妍希亲吻儿子好甜",
-      "onboard_time": 1685539107,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 657583,
@@ -2531,6 +2531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 394674,
+      "num": 394674,
+      "word": "Jennie曼谷演唱会不划水",
+      "onboard_time": 1685538267,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 393451,
       "num": 242429,
       "word": "时代少年团也会羡慕五月天的中控吧",
@@ -2609,14 +2617,6 @@
       "onboard_time": 1685411125,
       "rank": 31,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 382607,
-      "num": 332331,
-      "word": "Jennie曼谷演唱会不划水",
-      "onboard_time": 1685538267,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 382587,
@@ -2769,6 +2769,14 @@
       "onboard_time": 1685355148,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 360727,
+      "num": 299297,
+      "word": "坐飞机要称体重了",
+      "onboard_time": 1685542230,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 360197,
@@ -3371,11 +3379,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 304943,
+      "num": 295543,
+      "word": "赵丽颖发了粉丝修的图",
+      "onboard_time": 1685540910,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 304743,
       "num": 304743,
       "word": "2023新一线城市名单官宣",
       "onboard_time": 1685432788,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303788,
+      "num": 303788,
+      "word": "男子站斑马线旁聊天被撞飞当场死亡",
+      "onboard_time": 1685541270,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -3553,6 +3577,14 @@
       "onboard_time": 1685343326,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 284550,
+      "num": 284550,
+      "word": "LNG战胜TES",
+      "onboard_time": 1685542530,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 284114,
@@ -3827,6 +3859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 270834,
+      "num": 270834,
+      "word": "胡可说不要把另一半当自己人",
+      "onboard_time": 1685542169,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 270613,
       "num": 270613,
       "word": "因为会骂人被领导赏识",
@@ -3977,14 +4017,6 @@
       "onboard_time": 1685351068,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 260370,
-      "num": 260370,
-      "word": "赵丽颖发了粉丝修的图",
-      "onboard_time": 1685540910,
-      "rank": 22,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 259954,
@@ -4595,14 +4627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 230807,
-      "num": 252532,
-      "word": "男子站斑马线旁聊天被撞飞当场死亡",
-      "onboard_time": 1685541270,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 230744,
       "num": 230744,
       "word": "黄晓明让严浩翔卖啊",
@@ -4737,6 +4761,14 @@
       "onboard_time": 1685520328,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 224745,
+      "num": 205007,
+      "word": "北上女二",
+      "onboard_time": 1685543072,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 224608,
@@ -4937,14 +4969,6 @@
       "onboard_time": 1685320409,
       "rank": 36,
       "category": "音乐,幽默"
-    },
-    {
-      "raw_hot": 216125,
-      "num": 198129,
-      "word": "胡可说不要把另一半当自己人",
-      "onboard_time": 1685542169,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 215844,
@@ -5171,6 +5195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206497,
+      "num": 200599,
+      "word": "妊娠终止手术一定要在孕14周内做",
+      "onboard_time": 1685542109,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206301,
       "num": 206301,
       "word": "离职前一定要删的东西",
@@ -5225,6 +5257,14 @@
       "onboard_time": 1685455474,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 205115,
+      "num": 205115,
+      "word": "618发货真快",
+      "onboard_time": 1685541450,
+      "rank": 34,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 204951,
@@ -5523,6 +5563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196280,
+      "num": 137874,
+      "word": "姜贞羽公主切",
+      "onboard_time": 1685542351,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 196154,
       "num": 196154,
       "word": "鞠婧祎郭俊辰花戎定档",
@@ -5593,14 +5641,6 @@
       "onboard_time": 1685343807,
       "rank": 23,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 194246,
-      "num": 194246,
-      "word": "618发货真快",
-      "onboard_time": 1685541450,
-      "rank": 34,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 193881,
@@ -6275,6 +6315,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 167398,
+      "num": 138464,
+      "word": "张彬彬全国寻亲带着导演吧",
+      "onboard_time": 1685539048,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167242,
       "num": 167242,
       "word": "任贤齐演唱会",
@@ -6313,6 +6361,14 @@
       "onboard_time": 1685510548,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165608,
+      "num": 165608,
+      "word": "余华太懂现在的年轻人了",
+      "onboard_time": 1685540369,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 165318,
@@ -6715,14 +6771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148434,
-      "num": 138464,
-      "word": "张彬彬全国寻亲带着导演吧",
-      "onboard_time": 1685539048,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 148414,
       "num": 148414,
       "word": "磁悬浮小肥羊",
@@ -6859,14 +6907,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 138472,
-      "num": 138472,
-      "word": "余华太懂现在的年轻人了",
-      "onboard_time": 1685540369,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 137742,
       "num": 137742,
       "word": "爸爸只会报菜名",
@@ -6977,6 +7017,14 @@
       "onboard_time": 1685356887,
       "rank": 46,
       "category": "科技"
+    },
+    {
+      "raw_hot": 132174,
+      "num": 134873,
+      "word": "以后都不会做了的工作",
+      "onboard_time": 1685542471,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 132111,
@@ -7371,14 +7419,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 113622,
-      "num": 137914,
-      "word": "坐飞机要称体重了",
-      "onboard_time": 1685542230,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113037,
       "num": 164748,
       "word": "戳戳式学习的弊端",
@@ -7603,14 +7643,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 87875,
-      "num": 134873,
-      "word": "以后都不会做了的工作",
-      "onboard_time": 1685542471,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 86510,
       "num": 379763,
       "word": "易烊千玺天猫",
@@ -7763,6 +7795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71908,
+      "num": 1636335,
+      "word": "中国好书六一专榜",
+      "onboard_time": 1685538147,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70124,
       "num": 1498440,
       "word": "神舟十六号航天员见面会",
@@ -7809,14 +7849,6 @@
       "onboard_time": 1685515108,
       "rank": 26,
       "category": "科技"
-    },
-    {
-      "raw_hot": 65124,
-      "num": 1473701,
-      "word": "中国好书六一专榜",
-      "onboard_time": 1685538147,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64758,

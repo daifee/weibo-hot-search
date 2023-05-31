@@ -1,6 +1,6 @@
 {
   "startTime": 1685463570565,
-  "endTime": 1685542506654,
+  "endTime": 1685543623984,
   "band_list": [
     {
       "raw_hot": 3015187,
@@ -83,6 +83,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 1711483,
+      "num": 1711483,
+      "word": "苹果14",
+      "onboard_time": 1685536646,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1654405,
       "num": 562887,
       "word": "阚清子钻戒",
@@ -139,14 +147,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1370339,
-      "num": 1370339,
-      "word": "苹果14",
-      "onboard_time": 1685536646,
-      "rank": 13,
-      "category": "科技"
-    },
-    {
       "raw_hot": 1332149,
       "num": 1332149,
       "word": "二十岁以后基本形象都靠人民币和自律维持",
@@ -200,6 +200,14 @@
       "word": "砍杀柯基男子被曝任职公益岗",
       "onboard_time": 1685515286,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1167518,
+      "num": 1167518,
+      "word": "网传柳州一干部与情人聊天记录被群发",
+      "onboard_time": 1685539529,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -379,14 +387,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 740624,
-      "num": 740624,
-      "word": "网传柳州一干部与情人聊天记录被群发",
-      "onboard_time": 1685539529,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 719256,
       "num": 529967,
       "word": "吴谢宇 三联",
@@ -403,12 +403,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 690734,
-      "num": 690734,
+      "raw_hot": 705194,
+      "num": 705194,
       "word": "长月烬明三位主演的后续",
       "onboard_time": 1685539288,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 685559,
+      "num": 512543,
+      "word": "陈晓和陈妍希亲吻儿子好甜",
+      "onboard_time": 1685539107,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 675940,
@@ -417,14 +425,6 @@
       "onboard_time": 1685441669,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 658285,
-      "num": 509668,
-      "word": "陈晓和陈妍希亲吻儿子好甜",
-      "onboard_time": 1685539107,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 655994,
@@ -811,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 394674,
+      "num": 394674,
+      "word": "Jennie曼谷演唱会不划水",
+      "onboard_time": 1685538267,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 393187,
       "num": 393187,
       "word": "网友给热巴P的礼服",
@@ -843,14 +851,6 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 382607,
-      "num": 332331,
-      "word": "Jennie曼谷演唱会不划水",
-      "onboard_time": 1685538267,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 376535,
       "num": 376535,
       "word": "我那五位加起来250岁的老爱豆们",
@@ -881,6 +881,14 @@
       "onboard_time": 1685440949,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 360727,
+      "num": 299297,
+      "word": "坐飞机要称体重了",
+      "onboard_time": 1685542230,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357566,
@@ -1035,6 +1043,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 304943,
+      "num": 295543,
+      "word": "赵丽颖发了粉丝修的图",
+      "onboard_time": 1685540910,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 303788,
+      "num": 303788,
+      "word": "男子站斑马线旁聊天被撞飞当场死亡",
+      "onboard_time": 1685541270,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299864,
       "num": 299864,
       "word": "重返未来公测",
@@ -1089,6 +1113,14 @@
       "onboard_time": 1685499626,
       "rank": 25,
       "category": "军事"
+    },
+    {
+      "raw_hot": 284550,
+      "num": 284550,
+      "word": "LNG战胜TES",
+      "onboard_time": 1685542530,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 283424,
@@ -1179,6 +1211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 270834,
+      "num": 270834,
+      "word": "胡可说不要把另一半当自己人",
+      "onboard_time": 1685542169,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 269421,
       "num": 269421,
       "word": "大爷在菜市场猥亵多名女性被拍下",
@@ -1241,14 +1281,6 @@
       "onboard_time": 1685536286,
       "rank": 30,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 260370,
-      "num": 260370,
-      "word": "赵丽颖发了粉丝修的图",
-      "onboard_time": 1685540910,
-      "rank": 22,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 256049,
@@ -1515,14 +1547,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 230807,
-      "num": 252532,
-      "word": "男子站斑马线旁聊天被撞飞当场死亡",
-      "onboard_time": 1685541270,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229883,
       "num": 229883,
       "word": "怪不得杨幂不去芭莎盛典",
@@ -1585,6 +1609,14 @@
       "onboard_time": 1685520328,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 224745,
+      "num": 205007,
+      "word": "北上女二",
+      "onboard_time": 1685543072,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 224455,
@@ -1665,14 +1697,6 @@
       "onboard_time": 1685504847,
       "rank": 31,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 216125,
-      "num": 198129,
-      "word": "胡可说不要把另一半当自己人",
-      "onboard_time": 1685542169,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 215844,
@@ -1771,6 +1795,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 206497,
+      "num": 200599,
+      "word": "妊娠终止手术一定要在孕14周内做",
+      "onboard_time": 1685542109,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206301,
       "num": 206301,
       "word": "离职前一定要删的东西",
@@ -1793,6 +1825,14 @@
       "onboard_time": 1685508812,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205115,
+      "num": 205115,
+      "word": "618发货真快",
+      "onboard_time": 1685541450,
+      "rank": 34,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 204117,
@@ -1859,6 +1899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 196280,
+      "num": 137874,
+      "word": "姜贞羽公主切",
+      "onboard_time": 1685542351,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 196154,
       "num": 196154,
       "word": "鞠婧祎郭俊辰花戎定档",
@@ -1889,14 +1937,6 @@
       "onboard_time": 1685528967,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 194246,
-      "num": 194246,
-      "word": "618发货真快",
-      "onboard_time": 1685541450,
-      "rank": 34,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 191523,
@@ -2107,12 +2147,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167398,
+      "num": 138464,
+      "word": "张彬彬全国寻亲带着导演吧",
+      "onboard_time": 1685539048,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 166297,
       "num": 143020,
       "word": "再就业对春晚有多执着",
       "onboard_time": 1685510548,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165608,
+      "num": 165608,
+      "word": "余华太懂现在的年轻人了",
+      "onboard_time": 1685540369,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 164828,
@@ -2331,14 +2387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148434,
-      "num": 138464,
-      "word": "张彬彬全国寻亲带着导演吧",
-      "onboard_time": 1685539048,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 145764,
       "num": 145764,
       "word": "RA",
@@ -2385,14 +2433,6 @@
       "onboard_time": 1685502688,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138472,
-      "num": 138472,
-      "word": "余华太懂现在的年轻人了",
-      "onboard_time": 1685540369,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 137957,
@@ -2465,6 +2505,14 @@
       "onboard_time": 1685537426,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 132174,
+      "num": 134873,
+      "word": "以后都不会做了的工作",
+      "onboard_time": 1685542471,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 131451,
@@ -2651,14 +2699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113622,
-      "num": 137914,
-      "word": "坐飞机要称体重了",
-      "onboard_time": 1685542230,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111656,
       "num": 111656,
       "word": "是他先不礼貌的",
@@ -2787,14 +2827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87875,
-      "num": 134873,
-      "word": "以后都不会做了的工作",
-      "onboard_time": 1685542471,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 86510,
       "num": 379763,
       "word": "易烊千玺天猫",
@@ -2859,20 +2891,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 71908,
+      "num": 1636335,
+      "word": "中国好书六一专榜",
+      "onboard_time": 1685538147,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65211,
       "num": 192609,
       "word": "vivo开辟柔光人像新赛道",
       "onboard_time": 1685515108,
       "rank": 26,
       "category": "科技"
-    },
-    {
-      "raw_hot": 65124,
-      "num": 1473701,
-      "word": "中国好书六一专榜",
-      "onboard_time": 1685538147,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58842,
