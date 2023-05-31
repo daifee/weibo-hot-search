@@ -1,6 +1,6 @@
 {
   "startTime": 1685463570565,
-  "endTime": 1685536496968,
+  "endTime": 1685537497181,
   "band_list": [
     {
       "raw_hot": 3015187,
@@ -43,6 +43,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2083112,
+      "num": 945224,
+      "word": "酒肉情侣",
+      "onboard_time": 1685530407,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2023229,
       "num": 2023229,
       "word": "早睡可以解决80%以上的问题",
@@ -56,14 +64,6 @@
       "word": "女生穿婚纱看演唱会被分手",
       "onboard_time": 1685501065,
       "rank": 15,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 1900732,
-      "num": 945224,
-      "word": "酒肉情侣",
-      "onboard_time": 1685530407,
-      "rank": 30,
       "category": "情感"
     },
     {
@@ -243,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1006370,
+      "num": 483151,
+      "word": "赵丽颖被起哄了",
+      "onboard_time": 1685531787,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 981443,
       "num": 981443,
       "word": "Angelababy 火山口走出的女战神",
@@ -264,14 +272,6 @@
       "word": "迪丽热巴 刚出水的美人鱼",
       "onboard_time": 1685444071,
       "rank": 3,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 953777,
-      "num": 387443,
-      "word": "赵丽颖被起哄了",
-      "onboard_time": 1685531787,
-      "rank": 15,
       "category": "作品衍生"
     },
     {
@@ -307,20 +307,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 866765,
+      "num": 866765,
+      "word": "冯小刚香港卖房大赚6000万港元",
+      "onboard_time": 1685531307,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 850068,
       "num": 850068,
       "word": "杨幂 谢依霖",
       "onboard_time": 1685448932,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 833683,
-      "num": 833683,
-      "word": "冯小刚香港卖房大赚6000万港元",
-      "onboard_time": 1685531307,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 831882,
@@ -443,6 +443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 569855,
+      "num": 569855,
+      "word": "肖战说谢谢淇哥",
+      "onboard_time": 1685535265,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 556604,
       "num": 438923,
       "word": "亲密关系最忌讳炫耀自己受欢迎",
@@ -475,8 +483,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 520450,
-      "num": 380631,
+      "raw_hot": 521207,
+      "num": 478331,
       "word": "迪丽热巴虞书欣张元英神女造型",
       "onboard_time": 1685534604,
       "rank": 11,
@@ -515,6 +523,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 495514,
+      "num": 495514,
+      "word": "退款",
+      "onboard_time": 1685536526,
+      "rank": 7,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 493308,
       "num": 493308,
       "word": "舒淇为肖战梦中的那片海打call",
@@ -523,12 +539,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 490303,
+      "raw_hot": 490888,
       "num": 490303,
       "word": "贵州教师溺亡河边发现一堆鹅卵石",
       "onboard_time": 1685532085,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 484256,
+      "num": 484256,
+      "word": "京东红包",
+      "onboard_time": 1685535986,
+      "rank": 17,
+      "category": "科技"
     },
     {
       "raw_hot": 484180,
@@ -739,6 +763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 375784,
+      "num": 375784,
+      "word": "苹果14",
+      "onboard_time": 1685536646,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 369333,
       "num": 369333,
       "word": "G社拍的杨紫",
@@ -777,14 +809,6 @@
       "onboard_time": 1685491045,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 353973,
-      "num": 353973,
-      "word": "肖战说谢谢淇哥",
-      "onboard_time": 1685535265,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 345933,
@@ -963,14 +987,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 282084,
-      "num": 282084,
-      "word": "京东红包",
-      "onboard_time": 1685535986,
-      "rank": 17,
-      "category": "科技"
-    },
-    {
       "raw_hot": 278107,
       "num": 278107,
       "word": "一旦有射手座的好朋友",
@@ -1001,6 +1017,14 @@
       "onboard_time": 1685517808,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 275234,
+      "num": 262312,
+      "word": "果然站C位是有道理的",
+      "onboard_time": 1685535866,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 275101,
@@ -1083,6 +1107,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 264313,
+      "num": 264313,
+      "word": "赵露思发了个太阳",
+      "onboard_time": 1685532627,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263065,
       "num": 252402,
       "word": "王子奇发色",
@@ -1091,12 +1123,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 260957,
-      "num": 260957,
-      "word": "赵露思发了个太阳",
-      "onboard_time": 1685532627,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 261330,
+      "num": 261330,
+      "word": "尾款",
+      "onboard_time": 1685536286,
+      "rank": 30,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 256049,
@@ -1121,6 +1153,22 @@
       "onboard_time": 1685510431,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 253587,
+      "num": 253587,
+      "word": "刘宪华 MOONLIGHT",
+      "onboard_time": 1685536345,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 252170,
+      "num": 252170,
+      "word": "卡琳娜",
+      "onboard_time": 1685537066,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 249631,
@@ -1307,6 +1355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 232528,
+      "num": 232528,
+      "word": "美军一侦察机蓄意闯入我位南海训练区",
+      "onboard_time": 1685535206,
+      "rank": 32,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 232521,
       "num": 232521,
       "word": "TangoZ美肚杀",
@@ -1347,20 +1403,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 225882,
-      "num": 225882,
-      "word": "尾款",
-      "onboard_time": 1685536286,
-      "rank": 30,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 225762,
       "num": 225762,
       "word": "泰国寺庙偶遇Lisa",
       "onboard_time": 1685533587,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225010,
+      "num": 225010,
+      "word": "福建一彩民中得1.5亿大奖",
+      "onboard_time": 1685535386,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224820,
@@ -1451,14 +1507,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 218389,
-      "num": 218389,
-      "word": "美军一侦察机蓄意闯入我位南海训练区",
-      "onboard_time": 1685535206,
-      "rank": 32,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 218141,
       "num": 218141,
       "word": "马斯克北京首日晚宴吃了啥",
@@ -1537,14 +1585,6 @@
       "onboard_time": 1685501188,
       "rank": 39,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 208956,
-      "num": 208956,
-      "word": "果然站C位是有道理的",
-      "onboard_time": 1685535866,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 208800,
@@ -1707,14 +1747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 189443,
-      "num": 189443,
-      "word": "刘宪华 MOONLIGHT",
-      "onboard_time": 1685536345,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 188863,
       "num": 188863,
       "word": "或许成年人更需要儿童节",
@@ -1744,14 +1776,6 @@
       "word": "丫丫回家后判若两熊",
       "onboard_time": 1685431951,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 185987,
-      "num": 185987,
-      "word": "福建一彩民中得1.5亿大奖",
-      "onboard_time": 1685535386,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1811,6 +1835,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 177655,
+      "num": 177655,
+      "word": "抽纸",
+      "onboard_time": 1685536825,
+      "rank": 36,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 176799,
       "num": 176799,
       "word": "陈漫镜头下的明星们",
@@ -1833,6 +1865,14 @@
       "onboard_time": 1685505509,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 173239,
+      "num": 173239,
+      "word": "卫生巾",
+      "onboard_time": 1685537007,
+      "rank": 37,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 172284,
@@ -2219,12 +2259,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133227,
+      "num": 133227,
+      "word": "五月天诺亚方舟",
+      "onboard_time": 1685537426,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 131451,
       "num": 131451,
       "word": "这个姿势我能练一辈子",
       "onboard_time": 1685523090,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 129060,
+      "num": 129060,
+      "word": "面膜",
+      "onboard_time": 1685537488,
+      "rank": 48,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 128931,
+      "num": 128931,
+      "word": "杨紫浓妆vs淡妆",
+      "onboard_time": 1685536946,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 128526,
@@ -2419,6 +2483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100779,
+      "num": 316761,
+      "word": "今晚有多少明星在天猫618直播",
+      "onboard_time": 1685534427,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99845,
       "num": 113503,
       "word": "2023KPL夏季转会期",
@@ -2529,14 +2601,6 @@
       "onboard_time": 1685470574,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 67596,
-      "num": 315049,
-      "word": "今晚有多少明星在天猫618直播",
-      "onboard_time": 1685534427,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 65211,
@@ -2690,6 +2754,9 @@
     },
     {
       "word": "#博士乘组出征精彩瞬间合集#"
+    },
+    {
+      "word": "#习主席向全国广大少年儿童祝贺节日#"
     }
   ]
 }
