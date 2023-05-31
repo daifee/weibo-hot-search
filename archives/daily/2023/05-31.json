@@ -1,6 +1,6 @@
 {
   "startTime": 1685463570565,
-  "endTime": 1685511222852,
+  "endTime": 1685514191582,
   "band_list": [
     {
       "raw_hot": 2758583,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1012181,
+      "num": 396916,
+      "word": "马雪阳谭咏雯公布恋情",
+      "onboard_time": 1685512168,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 957231,
       "num": 957231,
       "word": "迪丽热巴 刚出水的美人鱼",
@@ -152,6 +160,14 @@
       "word": "伊能静自己都想不到吧",
       "onboard_time": 1685492969,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 866021,
+      "num": 413179,
+      "word": "阚清子钻戒",
+      "onboard_time": 1685510129,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -193,14 +209,6 @@
       "onboard_time": 1685506170,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 691562,
-      "num": 413179,
-      "word": "阚清子钻戒",
-      "onboard_time": 1685510129,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 675940,
@@ -265,6 +273,22 @@
       "onboard_time": 1685457698,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 592405,
+      "num": 592405,
+      "word": "迪丽热巴裙子钻掉了",
+      "onboard_time": 1685496508,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 581870,
+      "num": 581870,
+      "word": "陌生人闯家门骂女主人小三后称认错人",
+      "onboard_time": 1685510250,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 556604,
@@ -395,14 +419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 413357,
-      "num": 347659,
-      "word": "迪丽热巴裙子钻掉了",
-      "onboard_time": 1685496508,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 406579,
       "num": 406579,
       "word": "密室大逃脱5阵容",
@@ -435,12 +451,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 376241,
+      "num": 376241,
+      "word": "范丞丞帮杨紫拿奖杯",
+      "onboard_time": 1685511328,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 367818,
       "num": 241826,
       "word": "赵丽颖露背",
       "onboard_time": 1685440949,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 363358,
+      "num": 363358,
+      "word": "我那五位加起来250岁的老爱豆们",
+      "onboard_time": 1685510850,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 356933,
@@ -515,6 +547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 298397,
+      "num": 298397,
+      "word": "马斯克",
+      "onboard_time": 1685511988,
+      "rank": 17,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 296141,
       "num": 296141,
       "word": "长城汽车公关总经理离职",
@@ -529,14 +569,6 @@
       "onboard_time": 1685503287,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 293381,
-      "num": 293381,
-      "word": "陌生人闯家门骂女主人小三后称认错人",
-      "onboard_time": 1685510250,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292108,
@@ -619,6 +651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 270687,
+      "num": 181265,
+      "word": "同事阳了对着我哈气",
+      "onboard_time": 1685513307,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 269421,
       "num": 269421,
       "word": "大爷在菜市场猥亵多名女性被拍下",
@@ -641,6 +681,14 @@
       "onboard_time": 1685501547,
       "rank": 45,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 263065,
+      "num": 219189,
+      "word": "王子奇发色",
+      "onboard_time": 1685511988,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 255803,
@@ -739,20 +787,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 239218,
+      "num": 189728,
+      "word": "李沁佟晓梅",
+      "onboard_time": 1685513969,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 237425,
       "num": 237425,
       "word": "杨紫范丞丞龚俊合影",
       "onboard_time": 1685505629,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 233245,
-      "num": 233245,
-      "word": "我那五位加起来250岁的老爱豆们",
-      "onboard_time": 1685510850,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 229883,
@@ -808,6 +856,22 @@
       "word": "网剧播出上线新规",
       "onboard_time": 1685508934,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 220360,
+      "num": 177695,
+      "word": "舞台2023首录路透",
+      "onboard_time": 1685513068,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 220151,
+      "num": 176352,
+      "word": "腾讯视频三部剧上星",
+      "onboard_time": 1685514031,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -915,6 +979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196589,
+      "num": 170073,
+      "word": "科学家调整基因让鸡爪上长羽毛",
+      "onboard_time": 1685514031,
+      "rank": 35,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 196154,
       "num": 196154,
       "word": "鞠婧祎郭俊辰花戎定档",
@@ -963,12 +1035,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185862,
+      "num": 166428,
+      "word": "那英假睫毛哭掉了",
+      "onboard_time": 1685511627,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 181915,
+      "num": 181915,
+      "word": "特警扮人贩子演技太好吓坏网友",
+      "onboard_time": 1685510908,
+      "rank": 49,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 181266,
+      "num": 181266,
+      "word": "记者毕节采访遭不明人士殴打",
+      "onboard_time": 1685510612,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181201,
       "num": 144037,
       "word": "ENHYPEN世巡海报公开",
       "onboard_time": 1685510310,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 176201,
+      "num": 176201,
+      "word": "618",
+      "onboard_time": 1685512892,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173536,
@@ -1000,14 +1104,6 @@
       "word": "朋友圈发这些东西账号会被罚",
       "onboard_time": 1685465482,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166885,
-      "num": 166885,
-      "word": "记者毕节采访遭不明人士殴打",
-      "onboard_time": 1685510612,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1083,6 +1179,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 158532,
+      "num": 145830,
+      "word": "虞书欣要拍新剧了",
+      "onboard_time": 1685511866,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158414,
       "num": 158414,
       "word": "狗狗生命最后一刻独自离开十几年主人家",
@@ -1137,6 +1241,14 @@
       "onboard_time": 1685496809,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146197,
+      "num": 146197,
+      "word": "工信部部长会见马斯克",
+      "onboard_time": 1685512770,
+      "rank": 39,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 145003,
@@ -1203,20 +1315,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131288,
-      "num": 131288,
-      "word": "特警扮人贩子演技太好吓坏网友",
-      "onboard_time": 1685510908,
-      "rank": 49,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 128526,
       "num": 118159,
       "word": "黄晓明尹正亲上了",
       "onboard_time": 1685440949,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126031,
+      "num": 126031,
+      "word": "开会 更适合中国宝宝体质的asmr",
+      "onboard_time": 1685513668,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 124545,
@@ -1265,6 +1377,14 @@
       "onboard_time": 1685452776,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115975,
+      "num": 115975,
+      "word": "追星的意义",
+      "onboard_time": 1685514087,
+      "rank": 48,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 115117,
@@ -1345,6 +1465,14 @@
       "onboard_time": 1685463925,
       "rank": 29,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 76118,
+      "num": 379763,
+      "word": "易烊千玺天猫",
+      "onboard_time": 1685512830,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 74059,
