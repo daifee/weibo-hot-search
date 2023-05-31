@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685557257862,
+  "endTime": 1685558005543,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -467,20 +467,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31905,
+      "num": 34063,
+      "word": "周深璀璨冒险人舞美寓意",
+      "onboard_time": 1685548527,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 30928,
       "num": 1048401,
       "word": "中国好书六一专榜",
       "onboard_time": 1685538147,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29939,
-      "num": 34030,
-      "word": "周深璀璨冒险人舞美寓意",
-      "onboard_time": 1685548527,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 28689,

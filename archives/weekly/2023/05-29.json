@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685557257862,
+  "endTime": 1685558005543,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -8259,6 +8259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31905,
+      "num": 34063,
+      "word": "周深璀璨冒险人舞美寓意",
+      "onboard_time": 1685548527,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 31295,
       "num": 256476,
       "word": "给孩子买学习硬件注意啥",
@@ -8273,14 +8281,6 @@
       "onboard_time": 1685385194,
       "rank": 45,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 29939,
-      "num": 34030,
-      "word": "周深璀璨冒险人舞美寓意",
-      "onboard_time": 1685548527,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 27299,
