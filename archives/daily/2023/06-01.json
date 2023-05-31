@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685561602648,
+  "endTime": 1685564249382,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -497,6 +497,14 @@
       "onboard_time": 1685559674,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 19890,
+      "num": 19890,
+      "word": "2023高考",
+      "onboard_time": 1685561952,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 18107,
