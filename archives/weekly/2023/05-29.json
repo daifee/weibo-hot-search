@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685497539435,
+  "endTime": 1685498966867,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1377527,
+      "num": 1377527,
+      "word": "2023端午节放假通知",
+      "onboard_time": 1685495667,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1372783,
       "num": 1372783,
       "word": "身体缺什么 嘴巴早知道",
@@ -433,6 +441,14 @@
       "onboard_time": 1685437649,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1331402,
+      "num": 581364,
+      "word": "南开大学",
+      "onboard_time": 1685494650,
+      "rank": 10,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1330863,
@@ -609,14 +625,6 @@
       "onboard_time": 1685324127,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1128871,
-      "num": 581364,
-      "word": "南开大学",
-      "onboard_time": 1685494650,
-      "rank": 10,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1115603,
@@ -883,20 +891,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 794842,
+      "num": 794842,
+      "word": "胡歌高圆圆新电影官宣",
+      "onboard_time": 1685496809,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 792714,
       "num": 482036,
       "word": "杨幂牛奶长靴",
       "onboard_time": 1685446950,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 774116,
-      "num": 774116,
-      "word": "2023端午节放假通知",
-      "onboard_time": 1685495667,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 770773,
@@ -1723,6 +1731,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 431166,
+      "num": 431166,
+      "word": "特殊爱好被父母尊重的孩子有多棒",
+      "onboard_time": 1685494889,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428904,
       "num": 338022,
       "word": "实习生说他熟练掌握excel",
@@ -1737,6 +1753,14 @@
       "onboard_time": 1685455538,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427564,
+      "num": 427564,
+      "word": "王源演唱会 婚纱",
+      "onboard_time": 1685497707,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 426626,
@@ -1857,6 +1881,14 @@
       "onboard_time": 1685328927,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 413357,
+      "num": 347659,
+      "word": "迪丽热巴裙子钻掉了",
+      "onboard_time": 1685496508,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 409106,
@@ -2051,14 +2083,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 370868,
-      "num": 347659,
-      "word": "迪丽热巴裙子钻掉了",
-      "onboard_time": 1685496508,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 370838,
       "num": 370838,
       "word": "韩国男爱豆猥亵队友一审被判缓刑",
@@ -2195,14 +2219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 350558,
-      "num": 350558,
-      "word": "特殊爱好被父母尊重的孩子有多棒",
-      "onboard_time": 1685494889,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 350428,
       "num": 313127,
       "word": "蔡徐坤发了个太阳",
@@ -2297,6 +2313,14 @@
       "onboard_time": 1685327967,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334690,
+      "num": 334690,
+      "word": "五月天演唱会票价涨3倍黄牛还说不赚钱",
+      "onboard_time": 1685497348,
+      "rank": 34,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 334300,
@@ -3235,6 +3259,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 249654,
+      "num": 249654,
+      "word": "贾跃亭",
+      "onboard_time": 1685496389,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
       "raw_hot": 249153,
       "num": 249153,
       "word": "公诉开播",
@@ -3275,6 +3307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246249,
+      "num": 246249,
+      "word": "朝鲜宣布军事侦察卫星发射失败",
+      "onboard_time": 1685497046,
+      "rank": 41,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 246220,
       "num": 246220,
       "word": "LPL夏季赛",
@@ -3297,14 +3337,6 @@
       "onboard_time": 1685419893,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 245961,
-      "num": 245961,
-      "word": "胡歌高圆圆新电影官宣",
-      "onboard_time": 1685496809,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 245900,
@@ -3505,6 +3537,14 @@
       "onboard_time": 1685413770,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231225,
+      "num": 231225,
+      "word": "还记得延禧攻略的愉妃吗",
+      "onboard_time": 1685498068,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 230744,
@@ -3723,6 +3763,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 215804,
+      "num": 215804,
+      "word": "马斯克北京首日晚宴吃了啥",
+      "onboard_time": 1685497827,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215231,
       "num": 215231,
       "word": "被徐姥爷的微博评论区感动了",
@@ -3873,6 +3921,14 @@
       "onboard_time": 1685379561,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206301,
+      "num": 206301,
+      "word": "离职前一定要删的东西",
+      "onboard_time": 1685496147,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 206042,
@@ -4219,14 +4275,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 193377,
-      "num": 193377,
-      "word": "离职前一定要删的东西",
-      "onboard_time": 1685496147,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 193231,
       "num": 193231,
       "word": "好多明星去了五月天演唱会",
@@ -4273,14 +4321,6 @@
       "onboard_time": 1685406509,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 191997,
-      "num": 191997,
-      "word": "贾跃亭",
-      "onboard_time": 1685496389,
-      "rank": 31,
-      "category": "科技"
     },
     {
       "raw_hot": 191958,
@@ -4755,14 +4795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164174,
-      "num": 164174,
-      "word": "五月天演唱会票价涨3倍黄牛还说不赚钱",
-      "onboard_time": 1685497348,
-      "rank": 34,
-      "category": "社会新闻,音乐"
-    },
-    {
       "raw_hot": 164123,
       "num": 164123,
       "word": "杨紫说相聚很高兴",
@@ -5003,6 +5035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148619,
+      "num": 148619,
+      "word": "司机称两名赖车乘客拘留结束仍未道歉",
+      "onboard_time": 1685496809,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148414,
       "num": 148414,
       "word": "磁悬浮小肥羊",
@@ -5067,14 +5107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141934,
-      "num": 141934,
-      "word": "朝鲜宣布军事侦察卫星发射失败",
-      "onboard_time": 1685497046,
-      "rank": 41,
-      "category": "军事,国外要闻"
-    },
-    {
       "raw_hot": 141910,
       "num": 141910,
       "word": "鹿晗蜘蛛侠主题曲MV",
@@ -5131,14 +5163,6 @@
       "category": "教育,国内要闻"
     },
     {
-      "raw_hot": 136099,
-      "num": 136099,
-      "word": "司机称两名赖车乘客拘留结束仍未道歉",
-      "onboard_time": 1685496809,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134990,
       "num": 134990,
       "word": "食万八千里2定档",
@@ -5161,6 +5185,14 @@
       "onboard_time": 1685273427,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134374,
+      "num": 134374,
+      "word": "FF91终极发布会",
+      "onboard_time": 1685498786,
+      "rank": 40,
+      "category": "科技"
     },
     {
       "raw_hot": 133857,
@@ -5275,6 +5307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 126989,
+      "num": 126989,
+      "word": "我国每年有超10万人死于二手烟暴露",
+      "onboard_time": 1685498368,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126704,
       "num": 126704,
       "word": "后浪",
@@ -5345,6 +5385,14 @@
       "onboard_time": 1685282854,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122488,
+      "num": 122488,
+      "word": "马斯克此次访华将忙些什么",
+      "onboard_time": 1685498487,
+      "rank": 44,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 122327,
@@ -5505,6 +5553,14 @@
       "onboard_time": 1685376806,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104831,
+      "num": 104831,
+      "word": "端午节放3天后连上6天",
+      "onboard_time": 1685498906,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104715,
