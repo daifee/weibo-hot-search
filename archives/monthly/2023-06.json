@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685572405284,
+  "endTime": 1685574983821,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 826258,
+      "num": 826258,
+      "word": "胡可说不要把另一半当自己人",
+      "onboard_time": 1685542169,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 655398,
       "num": 655398,
       "word": "杨紫化妆师删博",
@@ -65,14 +73,6 @@
       "onboard_time": 1685545531,
       "rank": 8,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 483634,
-      "num": 483634,
-      "word": "胡可说不要把另一半当自己人",
-      "onboard_time": 1685542169,
-      "rank": 9,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 478448,
@@ -147,6 +147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 297930,
+      "num": 234820,
+      "word": "看似睡着了 实际可能走了有一会儿",
+      "onboard_time": 1685546671,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 297131,
       "num": 297131,
       "word": "妊娠终止手术一定要在孕14周内做",
@@ -203,14 +211,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 228188,
-      "num": 185863,
-      "word": "看似睡着了 实际可能走了有一会儿",
-      "onboard_time": 1685546671,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 224802,
       "num": 224802,
       "word": "卡琳娜",
@@ -241,6 +241,14 @@
       "onboard_time": 1685538267,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 207295,
+      "num": 207295,
+      "word": "塞维利亚夺得欧联冠军",
+      "onboard_time": 1685574561,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 207075,
@@ -363,6 +371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 138180,
+      "num": 138180,
+      "word": "央视记者探访河南小麦发芽发霉",
+      "onboard_time": 1685546971,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137559,
       "num": 134245,
       "word": "杨和苏朋友圈",
@@ -387,12 +403,12 @@
       "category": "情感,音乐"
     },
     {
-      "raw_hot": 105689,
-      "num": 132432,
-      "word": "央视记者探访河南小麦发芽发霉",
-      "onboard_time": 1685546971,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 112894,
+      "num": 112894,
+      "word": "欧联杯决赛",
+      "onboard_time": 1685574439,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 103499,
@@ -419,6 +435,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 73686,
+      "num": 73686,
+      "word": "出租房装的空调是5级能耗",
+      "onboard_time": 1685574199,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70247,
       "num": 70247,
       "word": "迪丽热巴虞书欣张元英神女造型",
@@ -435,6 +459,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 68444,
+      "num": 70177,
+      "word": "妹妹是重男轻女的产物",
+      "onboard_time": 1685522847,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 59070,
+      "num": 59070,
+      "word": "雨后西安上空出现橙色童话云",
+      "onboard_time": 1685574199,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56645,
       "num": 56645,
       "word": "赵丽颖发了粉丝修的图",
@@ -443,12 +483,36 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 55088,
-      "num": 70177,
-      "word": "妹妹是重男轻女的产物",
-      "onboard_time": 1685522847,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 53746,
+      "num": 53746,
+      "word": "2023高考",
+      "onboard_time": 1685561952,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 51345,
+      "num": 51345,
+      "word": "3名美国海军陆战队员被40名青少年群殴",
+      "onboard_time": 1685574439,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51295,
+      "num": 51295,
+      "word": "班主任带着学生做了5年公益",
+      "onboard_time": 1685574259,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 47994,
+      "num": 47994,
+      "word": "阿娇为陈妍希庆生",
+      "onboard_time": 1685566092,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 45301,
@@ -467,28 +531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37016,
-      "num": 37016,
-      "word": "阿娇为陈妍希庆生",
-      "onboard_time": 1685566092,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 34505,
-      "num": 36546,
-      "word": "2023高考",
-      "onboard_time": 1685561952,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 31905,
       "num": 36535,
       "word": "周深璀璨冒险人舞美寓意",
       "onboard_time": 1685548527,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31783,
+      "num": 872487,
+      "word": "中国航天员太空会师名场面再现",
+      "onboard_time": 1685537908,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30928,
@@ -521,14 +577,6 @@
       "onboard_time": 1685561473,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16740,
-      "num": 630746,
-      "word": "中国航天员太空会师名场面再现",
-      "onboard_time": 1685537908,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

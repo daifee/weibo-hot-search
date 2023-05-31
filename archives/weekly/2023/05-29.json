@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685572405284,
+  "endTime": 1685574983821,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -1155,6 +1155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 826258,
+      "num": 826258,
+      "word": "胡可说不要把另一半当自己人",
+      "onboard_time": 1685542169,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 819265,
       "num": 552009,
       "word": "四川大学",
@@ -1273,14 +1281,6 @@
       "onboard_time": 1685360308,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 717693,
-      "num": 717693,
-      "word": "胡可说不要把另一半当自己人",
-      "onboard_time": 1685542169,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 717201,
@@ -3531,6 +3531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 297930,
+      "num": 234820,
+      "word": "看似睡着了 实际可能走了有一会儿",
+      "onboard_time": 1685546671,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 297200,
       "num": 297200,
       "word": "千万别去北方看音乐节",
@@ -4787,14 +4795,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 228188,
-      "num": 185863,
-      "word": "看似睡着了 实际可能走了有一会儿",
-      "onboard_time": 1685546671,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 228141,
       "num": 228141,
       "word": "TES",
@@ -5297,6 +5297,14 @@
       "onboard_time": 1685420976,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 207295,
+      "num": 207295,
+      "word": "塞维利亚夺得欧联冠军",
+      "onboard_time": 1685574561,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 207281,
@@ -7099,6 +7107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138180,
+      "num": 148431,
+      "word": "央视记者探访河南小麦发芽发霉",
+      "onboard_time": 1685546971,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137742,
       "num": 137742,
       "word": "爸爸只会报菜名",
@@ -7611,6 +7627,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 112894,
+      "num": 112894,
+      "word": "欧联杯决赛",
+      "onboard_time": 1685574439,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111656,
       "num": 111656,
       "word": "是他先不礼貌的",
@@ -7681,14 +7705,6 @@
       "onboard_time": 1685367032,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 105689,
-      "num": 148431,
-      "word": "央视记者探访河南小麦发芽发霉",
-      "onboard_time": 1685546971,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104856,
@@ -8003,6 +8019,14 @@
       "category": "美妆,时尚"
     },
     {
+      "raw_hot": 73686,
+      "num": 73686,
+      "word": "出租房装的空调是5级能耗",
+      "onboard_time": 1685574199,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73572,
       "num": 73572,
       "word": "杨幂回复谢依霖说爱你啊hold么么",
@@ -8123,6 +8147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 59070,
+      "num": 59070,
+      "word": "雨后西安上空出现橙色童话云",
+      "onboard_time": 1685574199,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55192,
       "num": 245695,
       "word": "被新一代超级电混秀到了",
@@ -8147,6 +8179,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 53746,
+      "num": 53746,
+      "word": "2023高考",
+      "onboard_time": 1685561952,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 53106,
       "num": 2121711,
       "word": "高清图看神十六出征",
@@ -8161,6 +8201,22 @@
       "onboard_time": 1685487859,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51345,
+      "num": 51345,
+      "word": "3名美国海军陆战队员被40名青少年群殴",
+      "onboard_time": 1685574439,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51295,
+      "num": 51295,
+      "word": "班主任带着学生做了5年公益",
+      "onboard_time": 1685574259,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 51167,
@@ -8185,6 +8241,14 @@
       "onboard_time": 1685381238,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47994,
+      "num": 47994,
+      "word": "阿娇为陈妍希庆生",
+      "onboard_time": 1685566092,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 47010,
@@ -8219,14 +8283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 37016,
-      "num": 37016,
-      "word": "阿娇为陈妍希庆生",
-      "onboard_time": 1685566092,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 36613,
       "num": 1917856,
       "word": "沉浸式体验虚拟未来世界",
@@ -8259,14 +8315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 34505,
-      "num": 36546,
-      "word": "2023高考",
-      "onboard_time": 1685561952,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 33698,
       "num": 116286,
       "word": "618抄作业好价榜单",
@@ -8281,6 +8329,14 @@
       "onboard_time": 1685548527,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31783,
+      "num": 872487,
+      "word": "中国航天员太空会师名场面再现",
+      "onboard_time": 1685537908,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31295,
@@ -8417,14 +8473,6 @@
       "onboard_time": 1685561473,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16740,
-      "num": 630746,
-      "word": "中国航天员太空会师名场面再现",
-      "onboard_time": 1685537908,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14812,
