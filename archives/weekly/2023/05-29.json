@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685576018644,
+  "endTime": 1685585076038,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -267,6 +267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1938833,
+      "num": 526498,
+      "word": "你喜欢大海 我承包岛",
+      "onboard_time": 1685579847,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1909808,
       "num": 1909808,
       "word": "上厕所途中千万不要冲厕所",
@@ -321,6 +329,14 @@
       "onboard_time": 1685352806,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1827953,
+      "num": 1827953,
+      "word": "明星谴责虐待动物者却遭曝光个人信息",
+      "onboard_time": 1685579429,
+      "rank": 0,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1758295,
@@ -699,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1268450,
+      "num": 1268450,
+      "word": "边伯贤金珉锡金钟大与SMTOWN解约",
+      "onboard_time": 1685581949,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1261115,
       "num": 1261115,
       "word": "兄妹四人同时查出肠道肿瘤",
@@ -835,8 +859,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1102658,
-      "num": 1102658,
+      "raw_hot": 1105584,
+      "num": 1105584,
       "word": "胡可说不要把另一半当自己人",
       "onboard_time": 1685542169,
       "rank": 31,
@@ -1379,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 679829,
+      "num": 526171,
+      "word": "Lisa脚趾头",
+      "onboard_time": 1685545051,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 675940,
       "num": 675940,
       "word": "密室大逃脱",
@@ -1401,6 +1433,14 @@
       "onboard_time": 1685282974,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 666139,
+      "num": 666139,
+      "word": "EXO还回归吗",
+      "onboard_time": 1685582488,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 661520,
@@ -1603,6 +1643,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 608957,
+      "num": 608957,
+      "word": "假性亲密关系",
+      "onboard_time": 1685580387,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 607432,
       "num": 270250,
       "word": "迪丽热巴大深V裙",
@@ -1667,6 +1715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 586200,
+      "num": 586200,
+      "word": "别把医术拍成了法术",
+      "onboard_time": 1685579007,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 582791,
       "num": 566186,
       "word": "你管周也这张脸叫普普通通",
@@ -1688,6 +1744,14 @@
       "word": "官方通报柳州一干部相关情况",
       "onboard_time": 1685538207,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 581613,
+      "num": 581613,
+      "word": "出租房装的空调是5级能耗",
+      "onboard_time": 1685574199,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1857,6 +1921,14 @@
       "onboard_time": 1685538987,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 527372,
+      "num": 527372,
+      "word": "云南事业单位",
+      "onboard_time": 1685583091,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 527208,
@@ -2475,6 +2547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 415317,
+      "num": 415317,
+      "word": "产妇羊水栓塞医生集体赶来抢救",
+      "onboard_time": 1685582366,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414791,
       "num": 414791,
       "word": "大山的孩子去太空了",
@@ -2569,6 +2649,14 @@
       "onboard_time": 1685346567,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 400668,
+      "num": 400668,
+      "word": "学校回应小学生将螺丝刀插进同学背部",
+      "onboard_time": 1685575943,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400451,
@@ -2737,6 +2825,14 @@
       "onboard_time": 1685340866,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 381039,
+      "num": 381039,
+      "word": "鞠婧祎每部戏妆容都差不多",
+      "onboard_time": 1685583927,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 378069,
@@ -3067,6 +3163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 338634,
+      "num": 338634,
+      "word": "金龟子问当年的小朋友还好吗",
+      "onboard_time": 1685579188,
+      "rank": 16,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 337870,
       "num": 337870,
       "word": "被砍死柯基主人称未与丈夫和解",
@@ -3113,14 +3217,6 @@
       "onboard_time": 1685333731,
       "rank": 41,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 333469,
-      "num": 321741,
-      "word": "Lisa脚趾头",
-      "onboard_time": 1685545051,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 332316,
@@ -3531,6 +3627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302077,
+      "num": 302077,
+      "word": "六一文案",
+      "onboard_time": 1685576184,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299864,
       "num": 299864,
       "word": "重返未来公测",
@@ -3825,6 +3929,14 @@
       "onboard_time": 1685413770,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 277712,
+      "num": 277712,
+      "word": "新娘偷塞手捧花给伴郎向伴娘求婚",
+      "onboard_time": 1685583687,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277617,
@@ -4755,6 +4867,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 232273,
+      "num": 232273,
+      "word": "马斯克到访上海",
+      "onboard_time": 1685580569,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232180,
       "num": 232180,
       "word": "黄子韬的中二魂",
@@ -5155,6 +5275,22 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 215148,
+      "num": 215148,
+      "word": "虞书欣是什么旅游特种兵",
+      "onboard_time": 1685584046,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 213377,
+      "num": 213377,
+      "word": "邓超儿子等等打篮球",
+      "onboard_time": 1685581047,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213322,
       "num": 213322,
       "word": "13岁女孩玩手机4个月花40多万",
@@ -5195,6 +5331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 211714,
+      "num": 211714,
+      "word": "你以为很贵实则很便宜的东西",
+      "onboard_time": 1685577507,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 211504,
       "num": 211504,
       "word": "Billkin青岛机场音乐节",
@@ -5209,6 +5353,14 @@
       "onboard_time": 1685413050,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209979,
+      "num": 209979,
+      "word": "肖春生佟晓梅今晚见",
+      "onboard_time": 1685584046,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 209903,
@@ -5531,6 +5683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201924,
+      "num": 201924,
+      "word": "英雄联盟 赵露思时代少年团",
+      "onboard_time": 1685584227,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201730,
       "num": 201730,
       "word": "有人相爱有人下海",
@@ -5617,6 +5777,14 @@
       "onboard_time": 1685500767,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 199612,
+      "num": 199612,
+      "word": "TOP说自己已经离开了BIGBANG",
+      "onboard_time": 1685577025,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 198951,
@@ -5843,6 +6011,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 193371,
+      "num": 193371,
+      "word": "香港顶流翻跳flower",
+      "onboard_time": 1685576726,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 193231,
       "num": 193231,
       "word": "好多明星去了五月天演唱会",
@@ -6025,6 +6201,14 @@
       "onboard_time": 1685351968,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187258,
+      "num": 187258,
+      "word": "小樱小狼 情侣战斗服",
+      "onboard_time": 1685583746,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 186924,
@@ -6243,6 +6427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 180310,
+      "num": 180310,
+      "word": "雷佳音时尚芭莎大片像屁崩了",
+      "onboard_time": 1685581408,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 180306,
       "num": 180306,
       "word": "济南11岁男孩莫名吐血交警10分钟送医",
@@ -6297,6 +6489,14 @@
       "onboard_time": 1685353168,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 177764,
+      "num": 177764,
+      "word": "亲生父母殴打虐待10岁孩子致死",
+      "onboard_time": 1685584646,
+      "rank": 36,
+      "category": "社会负面"
     },
     {
       "raw_hot": 177655,
@@ -6361,6 +6561,14 @@
       "onboard_time": 1685459496,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 172991,
+      "num": 172991,
+      "word": "昊也",
+      "onboard_time": 1685584407,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 172642,
@@ -6827,14 +7035,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 157376,
-      "num": 157376,
-      "word": "出租房装的空调是5级能耗",
-      "onboard_time": 1685574199,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156165,
       "num": 156165,
       "word": "3名美国海军陆战队员被40名青少年群殴",
@@ -6921,6 +7121,14 @@
       "onboard_time": 1685488159,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153403,
+      "num": 153403,
+      "word": "2001年的中国发生了什么",
+      "onboard_time": 1685580809,
+      "rank": 39,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 152576,
@@ -7035,6 +7243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 147169,
+      "num": 147169,
+      "word": "儿童节礼物",
+      "onboard_time": 1685576726,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146961,
       "num": 146961,
       "word": "凯尔特人三分",
@@ -7057,6 +7273,14 @@
       "onboard_time": 1685354190,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 146029,
+      "num": 146029,
+      "word": "为什么有的家庭一定要生儿子",
+      "onboard_time": 1685576365,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145764,
@@ -7129,6 +7353,14 @@
       "onboard_time": 1685450373,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139730,
+      "num": 139730,
+      "word": "重庆人看完想打人",
+      "onboard_time": 1685582308,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 139234,
@@ -7323,6 +7555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129070,
+      "num": 129070,
+      "word": "观众称花千元在演唱会上看柱子",
+      "onboard_time": 1685577265,
+      "rank": 43,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 129060,
       "num": 129060,
       "word": "面膜",
@@ -7443,6 +7683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124685,
+      "num": 124685,
+      "word": "谈一次恋爱被笑话一辈子",
+      "onboard_time": 1685584646,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124657,
       "num": 1642582,
       "word": "聚焦神舟十六号",
@@ -7555,6 +7803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120187,
+      "num": 120187,
+      "word": "3岁三胞胎姐妹解锁派出所综窗初体验",
+      "onboard_time": 1685583626,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120106,
       "num": 120106,
       "word": "有一种感动叫邻里之情",
@@ -7577,6 +7833,14 @@
       "onboard_time": 1685490084,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119559,
+      "num": 119559,
+      "word": "高考比平时模考高了一百分",
+      "onboard_time": 1685580690,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 119472,
@@ -7689,14 +7953,6 @@
       "onboard_time": 1685574439,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112243,
-      "num": 112243,
-      "word": "学校回应小学生将螺丝刀插进同学背部",
-      "onboard_time": 1685575943,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111656,
