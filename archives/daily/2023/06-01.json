@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685619198988,
+  "endTime": 1685622892399,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1525376,
+      "num": 1525376,
+      "word": "江歌母亲称已收到刘鑫全部赔偿款",
+      "onboard_time": 1685620705,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1437497,
       "num": 1437497,
       "word": "百度网盘被苹果AppStore下架",
@@ -111,6 +119,14 @@
       "num": 553485,
       "word": "李念官宣生三胎",
       "onboard_time": 1685612789,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1317662,
+      "num": 451462,
+      "word": "李湘王岳伦带王诗龄逛街",
+      "onboard_time": 1685620766,
       "rank": 10,
       "category": "艺人"
     },
@@ -243,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 787851,
+      "num": 787851,
+      "word": "弟弟故意输掉比赛守护坐轮椅姐姐",
+      "onboard_time": 1685618847,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 770410,
       "num": 680162,
       "word": "别把医术拍成了法术",
@@ -283,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 666332,
+      "num": 1143728,
+      "word": "幼儿园摆20桌请200孩子吃席庆六一",
+      "onboard_time": 1685616446,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 666139,
       "num": 666139,
       "word": "EXO还回归吗",
@@ -313,6 +345,14 @@
       "onboard_time": 1685539347,
       "rank": 4,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 632733,
+      "num": 632733,
+      "word": "酷云",
+      "onboard_time": 1685620527,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 615740,
@@ -435,6 +475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 485114,
+      "num": 485114,
+      "word": "椿山漫 抄袭",
+      "onboard_time": 1685618245,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 484937,
       "num": 484937,
       "word": "杭州LGD更名",
@@ -459,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465740,
+      "num": 465740,
+      "word": "女子退猫被拒后直接把猫摔死",
+      "onboard_time": 1685621187,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 463515,
       "num": 463515,
       "word": "卡琳娜 我轻轻地尖叫晕了",
@@ -473,6 +529,14 @@
       "onboard_time": 1685545292,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428979,
+      "num": 428979,
+      "word": "少爷和我再合体",
+      "onboard_time": 1685617707,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 428682,
@@ -587,6 +651,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 373350,
+      "num": 262257,
+      "word": "河南人和山东人都别沉默了",
+      "onboard_time": 1685620466,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372504,
       "num": 261249,
       "word": "我的人间烟火",
@@ -619,14 +691,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 360417,
-      "num": 1143728,
-      "word": "幼儿园摆20桌请200孩子吃席庆六一",
-      "onboard_time": 1685616446,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 359169,
       "num": 251475,
       "word": "舞台2023歌手名单",
@@ -641,6 +705,14 @@
       "onboard_time": 1685539107,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 356788,
+      "num": 356788,
+      "word": "梦中的那片海",
+      "onboard_time": 1685622867,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 350994,
@@ -763,12 +835,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 323537,
+      "num": 323537,
+      "word": "花戎",
+      "onboard_time": 1685620705,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 321734,
       "num": 321734,
       "word": "手工耿 适合中国宝宝体质的林克",
       "onboard_time": 1685601507,
       "rank": 30,
       "category": "网红,游戏"
+    },
+    {
+      "raw_hot": 314662,
+      "num": 314662,
+      "word": "WBG对战JDG",
+      "onboard_time": 1685618367,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 314350,
+      "num": 257987,
+      "word": "肖春生给贺红玲吹口琴",
+      "onboard_time": 1685622566,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 313379,
@@ -792,6 +888,14 @@
       "word": "肖战新剧不断更",
       "onboard_time": 1685607086,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 308029,
+      "num": 308029,
+      "word": "护心热度",
+      "onboard_time": 1685619804,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -955,6 +1059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 262242,
+      "num": 262242,
+      "word": "李念林和平",
+      "onboard_time": 1685620647,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256981,
       "num": 256981,
       "word": "赵丽颖被起哄了",
@@ -1051,14 +1163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 245213,
-      "num": 245213,
-      "word": "少爷和我再合体",
-      "onboard_time": 1685617707,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 244193,
       "num": 188482,
       "word": "乐华家族演唱会有王一博",
@@ -1113,6 +1217,22 @@
       "onboard_time": 1685541270,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241155,
+      "num": 241155,
+      "word": "weiwei有点东西",
+      "onboard_time": 1685622329,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 239168,
+      "num": 239168,
+      "word": "巴黎主帅确认梅西即将离队",
+      "onboard_time": 1685621609,
+      "rank": 29,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 239098,
@@ -1185,6 +1305,14 @@
       "onboard_time": 1685535265,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 221764,
+      "num": 221764,
+      "word": "JDG打野",
+      "onboard_time": 1685621787,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 221535,
@@ -1403,14 +1531,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 189467,
-      "num": 189467,
-      "word": "椿山漫 抄袭",
-      "onboard_time": 1685618245,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 188626,
       "num": 160518,
       "word": "张艺兴街边开儿童车",
@@ -1496,6 +1616,14 @@
       "word": "福建一彩民中得1.5亿大奖",
       "onboard_time": 1685535386,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181540,
+      "num": 181540,
+      "word": "拼多多补贴力度不像是演的",
+      "onboard_time": 1685619325,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1627,6 +1755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 158731,
+      "num": 158731,
+      "word": "比亚迪",
+      "onboard_time": 1685618667,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158670,
       "num": 186705,
       "word": "胡锡进 毕节如此提防记者是在怕什么",
@@ -1705,6 +1841,14 @@
       "onboard_time": 1685608706,
       "rank": 36,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 148229,
+      "num": 148229,
+      "word": "护心",
+      "onboard_time": 1685620705,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 148197,
@@ -1787,12 +1931,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137445,
-      "num": 137445,
-      "word": "比亚迪",
-      "onboard_time": 1685618667,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 137466,
+      "num": 137466,
+      "word": "六一晚会",
+      "onboard_time": 1685622807,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 134843,
@@ -1817,6 +1961,14 @@
       "onboard_time": 1685542471,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132290,
+      "num": 132290,
+      "word": "迪丽热巴童趣钻石妆",
+      "onboard_time": 1685618548,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 131080,
@@ -1875,14 +2027,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 123857,
-      "num": 123857,
-      "word": "迪丽热巴童趣钻石妆",
-      "onboard_time": 1685618548,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 120187,
       "num": 120187,
       "word": "3岁三胞胎姐妹解锁派出所综窗初体验",
@@ -1921,14 +2065,6 @@
       "onboard_time": 1685599887,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118140,
-      "num": 118140,
-      "word": "WBG对战JDG",
-      "onboard_time": 1685618367,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 117805,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1685622892399,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1525376,
+        "num": 1525376,
+        "word": "江歌母亲称已收到刘鑫全部赔偿款",
+        "onboard_time": 1685620705,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1250216,
+        "num": 1250216,
+        "word": "百度网盘被苹果AppStore下架",
+        "onboard_time": 1685611647,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 40856,
+        "num": 851446,
+        "word": "打卡中国",
+        "onboard_time": 1685608468,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787851,
+        "num": 787851,
+        "word": "弟弟故意输掉比赛守护坐轮椅姐姐",
+        "onboard_time": 1685618847,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666332,
+        "num": 666332,
+        "word": "幼儿园摆20桌请200孩子吃席庆六一",
+        "onboard_time": 1685616446,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632733,
+        "num": 632733,
+        "word": "酷云",
+        "onboard_time": 1685620527,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 506585,
+        "num": 506585,
+        "word": "EXO是我们公司非常珍惜的艺人",
+        "onboard_time": 1685606306,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485114,
+        "num": 485114,
+        "word": "椿山漫 抄袭",
+        "onboard_time": 1685618245,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 476018,
+        "num": 476018,
+        "word": "杨洋王楚然剧照 太阳的后裔",
+        "onboard_time": 1685603249,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 465740,
+        "num": 465740,
+        "word": "女子退猫被拒后直接把猫摔死",
+        "onboard_time": 1685621187,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1317662,
+        "num": 451462,
+        "word": "李湘王岳伦带王诗龄逛街",
+        "onboard_time": 1685620766,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 717611,
+        "num": 447620,
+        "word": "李念官宣生三胎",
+        "onboard_time": 1685612789,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 692798,
+        "num": 444893,
+        "word": "官方通报局长出轨女经理",
+        "onboard_time": 1685605467,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428979,
+        "num": 428979,
+        "word": "少爷和我再合体",
+        "onboard_time": 1685617707,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356788,
+        "num": 356788,
+        "word": "梦中的那片海",
+        "onboard_time": 1685622867,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323537,
+        "num": 323537,
+        "word": "花戎",
+        "onboard_time": 1685620705,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314662,
+        "num": 314662,
+        "word": "WBG对战JDG",
+        "onboard_time": 1685618367,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 308029,
+        "num": 308029,
+        "word": "护心热度",
+        "onboard_time": 1685619804,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285635,
+        "num": 285635,
+        "word": "鹿晗演唱会北京站可部分退票",
+        "onboard_time": 1685616749,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 262966,
+        "num": 262966,
+        "word": "二三十了还觉得自己是个小孩正常吗",
+        "onboard_time": 1685614287,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 906710,
+        "num": 262965,
+        "word": "你愿意降薪去体制内吗",
+        "onboard_time": 1685616206,
+        "rank": 20,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 477062,
+        "num": 262694,
+        "word": "肖战王一博同款衬衣",
+        "onboard_time": 1685615487,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 459415,
+        "num": 262440,
+        "word": "ChatGPT高三考试仅物理得零分",
+        "onboard_time": 1685602770,
+        "rank": 22,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 373350,
+        "num": 262257,
+        "word": "河南人和山东人都别沉默了",
+        "onboard_time": 1685620466,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262242,
+        "num": 262242,
+        "word": "李念林和平",
+        "onboard_time": 1685620647,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314350,
+        "num": 257987,
+        "word": "肖春生给贺红玲吹口琴",
+        "onboard_time": 1685622566,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244735,
+        "num": 244735,
+        "word": "唐僧为什么忘记替老龟问寿命",
+        "onboard_time": 1685617647,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 241155,
+        "num": 241155,
+        "word": "weiwei有点东西",
+        "onboard_time": 1685622329,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 240517,
+        "num": 240517,
+        "word": "TFBOYS十周年演唱会灯牌设计",
+        "onboard_time": 1685616086,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 239168,
+        "num": 239168,
+        "word": "巴黎主帅确认梅西即将离队",
+        "onboard_time": 1685621609,
+        "rank": 29,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 234528,
+        "num": 234528,
+        "word": "迪丽热巴回应脸不像检察官",
+        "onboard_time": 1685600970,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221764,
+        "num": 221764,
+        "word": "JDG打野",
+        "onboard_time": 1685621787,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200353,
+        "num": 200353,
+        "word": "五月天王源唱如果我们不曾相遇",
+        "onboard_time": 1685614647,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197614,
+        "num": 197614,
+        "word": "男生接女友下班遭车祸致1死1病危",
+        "onboard_time": 1685603186,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188165,
+        "num": 188165,
+        "word": "吴磊女施主请自重",
+        "onboard_time": 1685616928,
+        "rank": 34,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 181540,
+        "num": 181540,
+        "word": "拼多多补贴力度不像是演的",
+        "onboard_time": 1685619325,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173138,
+        "num": 173138,
+        "word": "肖战新剧不断更",
+        "onboard_time": 1685607086,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166184,
+        "num": 166184,
+        "word": "赵雅芝70岁状态有多绝",
+        "onboard_time": 1685604927,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159638,
+        "num": 159638,
+        "word": "肖战迪丽热巴童话里走出来的王子公主",
+        "onboard_time": 1685594189,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158731,
+        "num": 158731,
+        "word": "比亚迪",
+        "onboard_time": 1685618667,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148910,
+        "num": 148910,
+        "word": "舞台2023歌手名单",
+        "onboard_time": 1685616867,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148229,
+        "num": 148229,
+        "word": "护心",
+        "onboard_time": 1685620705,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141739,
+        "num": 141739,
+        "word": "白敬亭给自己P了个眼镜",
+        "onboard_time": 1685615067,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140948,
+        "num": 140948,
+        "word": "EXO新歌MV拍摄取消",
+        "onboard_time": 1685606668,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139959,
+        "num": 139959,
+        "word": "六一",
+        "onboard_time": 1685618548,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137531,
+        "num": 137531,
+        "word": "很多中国家庭培养女儿 公婆视角",
+        "onboard_time": 1685613148,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137466,
+        "num": 137466,
+        "word": "六一晚会",
+        "onboard_time": 1685622807,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132290,
+        "num": 132290,
+        "word": "迪丽热巴童趣钻石妆",
+        "onboard_time": 1685618548,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126401,
+        "num": 126401,
+        "word": "挖呀挖黄老师发视频祝六一快乐",
+        "onboard_time": 1685598746,
+        "rank": 48,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 125268,
+        "num": 125268,
+        "word": "孙策剧情",
+        "onboard_time": 1685618186,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#争当德智体美劳全面发展的新时代好儿童#"
+    }
+  }
+}

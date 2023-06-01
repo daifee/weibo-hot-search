@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685619198988,
+  "endTime": 1685622892399,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -515,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1525376,
+      "num": 1525376,
+      "word": "江歌母亲称已收到刘鑫全部赔偿款",
+      "onboard_time": 1685620705,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1504116,
       "num": 1504116,
       "word": "神十六航天员领命出征",
@@ -689,6 +697,14 @@
       "onboard_time": 1685450552,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1317662,
+      "num": 451462,
+      "word": "李湘王岳伦带王诗龄逛街",
+      "onboard_time": 1685620766,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1314414,
@@ -1419,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 787851,
+      "num": 787851,
+      "word": "弟弟故意输掉比赛守护坐轮椅姐姐",
+      "onboard_time": 1685618847,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 770773,
       "num": 770773,
       "word": "网友新疆偶遇吴磊骑行",
@@ -1643,6 +1667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 666332,
+      "num": 1143728,
+      "word": "幼儿园摆20桌请200孩子吃席庆六一",
+      "onboard_time": 1685616446,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 666139,
       "num": 666139,
       "word": "EXO还回归吗",
@@ -1753,6 +1785,14 @@
       "onboard_time": 1685441309,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 632733,
+      "num": 632733,
+      "word": "酷云",
+      "onboard_time": 1685365827,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 631538,
@@ -2332,7 +2372,7 @@
     },
     {
       "raw_hot": 506951,
-      "num": 348475,
+      "num": 356788,
       "word": "梦中的那片海",
       "onboard_time": 1685504548,
       "rank": 20,
@@ -2467,6 +2507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485114,
+      "num": 485114,
+      "word": "椿山漫 抄袭",
+      "onboard_time": 1685618245,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 484937,
       "num": 484937,
       "word": "杭州LGD更名",
@@ -2561,6 +2609,14 @@
       "onboard_time": 1685331989,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 465740,
+      "num": 465740,
+      "word": "女子退猫被拒后直接把猫摔死",
+      "onboard_time": 1685621187,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 465243,
@@ -2689,6 +2745,14 @@
       "onboard_time": 1685494889,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428979,
+      "num": 428979,
+      "word": "少爷和我再合体",
+      "onboard_time": 1685617707,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 428904,
@@ -3243,6 +3307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 373350,
+      "num": 262257,
+      "word": "河南人和山东人都别沉默了",
+      "onboard_time": 1685620466,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373279,
       "num": 373279,
       "word": "新娘坐婚车睡着新郎一路托着头",
@@ -3369,14 +3441,6 @@
       "onboard_time": 1685355148,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 360417,
-      "num": 1143728,
-      "word": "幼儿园摆20桌请200孩子吃席庆六一",
-      "onboard_time": 1685616446,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 360197,
@@ -3859,6 +3923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 323537,
+      "num": 323537,
+      "word": "花戎",
+      "onboard_time": 1685351308,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 323497,
       "num": 323497,
       "word": "后浪许萌跳楼",
@@ -4003,6 +4075,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 314662,
+      "num": 314662,
+      "word": "WBG对战JDG",
+      "onboard_time": 1685618367,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 314350,
+      "num": 257987,
+      "word": "肖春生给贺红玲吹口琴",
+      "onboard_time": 1685622566,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 314189,
       "num": 314189,
       "word": "河南79岁老农手捧发芽小麦抹泪",
@@ -4097,6 +4185,14 @@
       "onboard_time": 1685413527,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 308029,
+      "num": 308029,
+      "word": "护心热度",
+      "onboard_time": 1685619804,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 307382,
@@ -4883,6 +4979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262242,
+      "num": 262242,
+      "word": "李念林和平",
+      "onboard_time": 1685620647,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262104,
       "num": 262104,
       "word": "Ella采访谈SHE哭了",
@@ -5299,14 +5403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 245213,
-      "num": 245213,
-      "word": "少爷和我再合体",
-      "onboard_time": 1685617707,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 245122,
       "num": 245122,
       "word": "月入6000背百万房贷当事人回应",
@@ -5321,14 +5417,6 @@
       "onboard_time": 1685427808,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 244513,
-      "num": 244513,
-      "word": "花戎",
-      "onboard_time": 1685351308,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 244207,
@@ -5451,6 +5539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 241155,
+      "num": 241155,
+      "word": "weiwei有点东西",
+      "onboard_time": 1685622329,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 240612,
       "num": 221014,
       "word": "吴谢宇案二审今日宣判",
@@ -5481,6 +5577,14 @@
       "onboard_time": 1685513969,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 239168,
+      "num": 239168,
+      "word": "巴黎主帅确认梅西即将离队",
+      "onboard_time": 1685621609,
+      "rank": 29,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 239098,
@@ -5929,6 +6033,14 @@
       "onboard_time": 1685344948,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 221764,
+      "num": 221764,
+      "word": "JDG打野",
+      "onboard_time": 1685621787,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 221655,
@@ -7099,14 +7211,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 189467,
-      "num": 189467,
-      "word": "椿山漫 抄袭",
-      "onboard_time": 1685618245,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 189375,
       "num": 189375,
       "word": "山姆回应同款蛋糕各地不同价",
@@ -7385,6 +7489,14 @@
       "onboard_time": 1685521470,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181540,
+      "num": 181540,
+      "word": "拼多多补贴力度不像是演的",
+      "onboard_time": 1685619325,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181486,
@@ -8107,14 +8219,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 155980,
-      "num": 155980,
-      "word": "酷云",
-      "onboard_time": 1685365827,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 155909,
       "num": 155909,
       "word": "五月再见",
@@ -8515,6 +8619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137466,
+      "num": 137466,
+      "word": "六一晚会",
+      "onboard_time": 1685622807,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137305,
       "num": 137305,
       "word": "黄晓明以为303是二次元",
@@ -8633,6 +8745,14 @@
       "onboard_time": 1685356887,
       "rank": 46,
       "category": "科技"
+    },
+    {
+      "raw_hot": 132290,
+      "num": 132290,
+      "word": "迪丽热巴童趣钻石妆",
+      "onboard_time": 1685618548,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 132111,
@@ -8875,14 +8995,6 @@
       "category": "社会新闻,美妆"
     },
     {
-      "raw_hot": 123857,
-      "num": 123857,
-      "word": "迪丽热巴童趣钻石妆",
-      "onboard_time": 1685618548,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 123524,
       "num": 123524,
       "word": "RNG",
@@ -9065,14 +9177,6 @@
       "onboard_time": 1685599887,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118140,
-      "num": 118140,
-      "word": "WBG对战JDG",
-      "onboard_time": 1685618367,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 117963,
