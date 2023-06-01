@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685615783315,
+  "endTime": 1685618045125,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -67,20 +67,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1437497,
+      "num": 1437497,
+      "word": "百度网盘被苹果AppStore下架",
+      "onboard_time": 1685611647,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1436382,
       "num": 1436382,
       "word": "挖呀挖黄老师发视频祝六一快乐",
       "onboard_time": 1685598746,
       "rank": 13,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1422590,
-      "num": 1422590,
-      "word": "百度网盘被苹果AppStore下架",
-      "onboard_time": 1685611647,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 1380628,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1333960,
-      "num": 481173,
+      "num": 553485,
       "word": "李念官宣生三胎",
       "onboard_time": 1685612789,
       "rank": 10,
@@ -171,6 +171,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1128271,
+      "num": 1128271,
+      "word": "你愿意降薪去体制内吗",
+      "onboard_time": 1685616206,
+      "rank": 3,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 1105584,
       "num": 1105584,
       "word": "胡可说不要把另一半当自己人",
@@ -225,6 +233,14 @@
       "onboard_time": 1685589806,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 837507,
+      "num": 837507,
+      "word": "二三十了还觉得自己是个小孩正常吗",
+      "onboard_time": 1685614287,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 770410,
@@ -323,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 576502,
+      "num": 545703,
+      "word": "肖战王一博同款衬衣",
+      "onboard_time": 1685615487,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 570370,
       "num": 570370,
       "word": "苹果14",
@@ -337,6 +361,14 @@
       "onboard_time": 1685606668,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 557874,
+      "num": 251831,
+      "word": "唐僧为什么忘记替老龟问寿命",
+      "onboard_time": 1685617647,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 553350,
@@ -393,22 +425,6 @@
       "onboard_time": 1685545531,
       "rank": 8,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 519600,
-      "num": 467428,
-      "word": "肖战王一博同款衬衣",
-      "onboard_time": 1685615487,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 499608,
-      "num": 499608,
-      "word": "二三十了还觉得自己是个小孩正常吗",
-      "onboard_time": 1685614287,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 496286,
@@ -603,6 +619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 359169,
+      "num": 251475,
+      "word": "舞台2023歌手名单",
+      "onboard_time": 1685616867,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357053,
       "num": 357053,
       "word": "陈晓和陈妍希亲吻儿子好甜",
@@ -665,6 +689,14 @@
       "onboard_time": 1685579188,
       "rank": 16,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 337648,
+      "num": 337648,
+      "word": "五月天王源唱如果我们不曾相遇",
+      "onboard_time": 1685614647,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 337520,
@@ -867,6 +899,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 274604,
+      "num": 274604,
+      "word": "百度贴吧回应女子婚纱照被盗孙吧",
+      "onboard_time": 1685613869,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272868,
       "num": 272868,
       "word": "儿童节快乐",
@@ -881,6 +921,14 @@
       "onboard_time": 1685588606,
       "rank": 29,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 267414,
+      "num": 267414,
+      "word": "BLG零封OMG",
+      "onboard_time": 1685617466,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 256981,
@@ -931,14 +979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 252061,
-      "num": 252061,
-      "word": "五月天王源唱如果我们不曾相遇",
-      "onboard_time": 1685614647,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 251784,
       "num": 229386,
       "word": "聊天记录",
@@ -963,12 +1003,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249290,
+      "num": 249290,
+      "word": "很多中国家庭培养女儿 公婆视角",
+      "onboard_time": 1685613148,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 246412,
       "num": 246412,
       "word": "cbx",
       "onboard_time": 1685585187,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244449,
+      "num": 244449,
+      "word": "TFBOYS十周年演唱会灯牌设计",
+      "onboard_time": 1685616086,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 244193,
@@ -1107,20 +1163,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220304,
-      "num": 220304,
-      "word": "百度贴吧回应女子婚纱照被盗孙吧",
-      "onboard_time": 1685613869,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 215790,
-      "num": 215790,
-      "word": "很多中国家庭培养女儿 公婆视角",
-      "onboard_time": 1685613148,
-      "rank": 34,
-      "category": "情感"
+      "raw_hot": 217008,
+      "num": 217008,
+      "word": "鹿晗演唱会北京站可部分退票",
+      "onboard_time": 1685616749,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 215148,
@@ -1129,6 +1177,14 @@
       "onboard_time": 1685584046,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214556,
+      "num": 214556,
+      "word": "少爷和我再合体",
+      "onboard_time": 1685617707,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 213377,
@@ -1144,6 +1200,14 @@
       "word": "杨紫带狗狗跳flower",
       "onboard_time": 1685604747,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 211103,
+      "num": 211103,
+      "word": "白敬亭给自己P了个眼镜",
+      "onboard_time": 1685615067,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -1211,20 +1275,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200300,
+      "num": 1108373,
+      "word": "重庆一小学全校师生穿汉服过六一",
+      "onboard_time": 1685609126,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 199612,
       "num": 199612,
       "word": "TOP说自己已经离开了BIGBANG",
       "onboard_time": 1685577025,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198662,
-      "num": 651067,
-      "word": "重庆一小学全校师生穿汉服过六一",
-      "onboard_time": 1685609126,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 197936,
@@ -1411,6 +1475,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 174936,
+      "num": 174936,
+      "word": "吴磊女施主请自重",
+      "onboard_time": 1685616928,
+      "rank": 31,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 172903,
       "num": 172903,
       "word": "请张彬彬不要随意解衬衫",
@@ -1468,7 +1540,7 @@
     },
     {
       "raw_hot": 165671,
-      "num": 192317,
+      "num": 206177,
       "word": "真实影像揭露境外高薪务工骗局",
       "onboard_time": 1685615248,
       "rank": 29,
@@ -1515,12 +1587,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 162028,
-      "num": 162028,
-      "word": "白敬亭给自己P了个眼镜",
-      "onboard_time": 1685615067,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 161731,
+      "num": 956055,
+      "word": "幼儿园摆20桌请200孩子吃席庆六一",
+      "onboard_time": 1685616446,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159151,
@@ -1585,6 +1657,14 @@
       "onboard_time": 1685597069,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151339,
+      "num": 141286,
+      "word": "白鹿双马尾童年照",
+      "onboard_time": 1685617408,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 150300,
@@ -1715,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130499,
+      "num": 132214,
+      "word": "百度网盘回应从苹果AppStore下架",
+      "onboard_time": 1685614107,
+      "rank": 42,
+      "category": "科技"
+    },
+    {
       "raw_hot": 129070,
       "num": 129070,
       "word": "观众称花千元在演唱会上看柱子",
@@ -1753,14 +1841,6 @@
       "onboard_time": 1685575402,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 124036,
-      "num": 124036,
-      "word": "百度网盘回应从苹果AppStore下架",
-      "onboard_time": 1685614107,
-      "rank": 42,
-      "category": "科技"
     },
     {
       "raw_hot": 120187,
@@ -1889,6 +1969,22 @@
       "onboard_time": 1685606487,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94171,
+      "num": 94171,
+      "word": "多少岁都可以过儿童节",
+      "onboard_time": 1685618003,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 93714,
+      "num": 93714,
+      "word": "重返未来1999",
+      "onboard_time": 1685616206,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 92931,

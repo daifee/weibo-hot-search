@@ -1,0 +1,410 @@
+{
+  "runTime": 1685618045125,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1437497,
+        "num": 1437497,
+        "word": "百度网盘被苹果AppStore下架",
+        "onboard_time": 1685611647,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 605433,
+        "num": 1209321,
+        "word": "女子为帮装空调丈夫拉安全绳拒绝减肥",
+        "onboard_time": 1685607687,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44679,
+        "num": 1160481,
+        "word": "打卡中国",
+        "onboard_time": 1685608468,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1128271,
+        "num": 1128271,
+        "word": "你愿意降薪去体制内吗",
+        "onboard_time": 1685616206,
+        "rank": 3,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 200300,
+        "num": 1108373,
+        "word": "重庆一小学全校师生穿汉服过六一",
+        "onboard_time": 1685609126,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1090848,
+        "num": 1090848,
+        "word": "官方通报局长出轨女经理",
+        "onboard_time": 1685605467,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161731,
+        "num": 956055,
+        "word": "幼儿园摆20桌请200孩子吃席庆六一",
+        "onboard_time": 1685616446,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837507,
+        "num": 837507,
+        "word": "二三十了还觉得自己是个小孩正常吗",
+        "onboard_time": 1685614287,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678377,
+        "num": 678377,
+        "word": "EXO是我们公司非常珍惜的艺人",
+        "onboard_time": 1685606306,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557256,
+        "num": 557256,
+        "word": "男生接女友下班遭车祸致1死1病危",
+        "onboard_time": 1685603186,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1161304,
+        "num": 553485,
+        "word": "李念官宣生三胎",
+        "onboard_time": 1685612789,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 576502,
+        "num": 545703,
+        "word": "肖战王一博同款衬衣",
+        "onboard_time": 1685615487,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 533166,
+        "num": 533166,
+        "word": "杨洋王楚然剧照 太阳的后裔",
+        "onboard_time": 1685603249,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381940,
+        "num": 381940,
+        "word": "迪丽热巴回应脸不像检察官",
+        "onboard_time": 1685600970,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 337648,
+        "num": 337648,
+        "word": "五月天王源唱如果我们不曾相遇",
+        "onboard_time": 1685614647,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 290660,
+        "num": 290660,
+        "word": "赵雅芝70岁状态有多绝",
+        "onboard_time": 1685604927,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284412,
+        "num": 284412,
+        "word": "肖战迪丽热巴童话里走出来的王子公主",
+        "onboard_time": 1685594189,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274604,
+        "num": 274604,
+        "word": "百度贴吧回应女子婚纱照被盗孙吧",
+        "onboard_time": 1685613869,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267414,
+        "num": 267414,
+        "word": "BLG零封OMG",
+        "onboard_time": 1685617466,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 254453,
+        "num": 254453,
+        "word": "刘昊然手机很烂应该是他",
+        "onboard_time": 1685596649,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 598019,
+        "num": 252294,
+        "word": "ChatGPT高三考试仅物理得零分",
+        "onboard_time": 1685602770,
+        "rank": 20,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 557874,
+        "num": 251831,
+        "word": "唐僧为什么忘记替老龟问寿命",
+        "onboard_time": 1685617647,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 359169,
+        "num": 251475,
+        "word": "舞台2023歌手名单",
+        "onboard_time": 1685616867,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249290,
+        "num": 249290,
+        "word": "很多中国家庭培养女儿 公婆视角",
+        "onboard_time": 1685613148,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244449,
+        "num": 244449,
+        "word": "TFBOYS十周年演唱会灯牌设计",
+        "onboard_time": 1685616086,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217008,
+        "num": 217008,
+        "word": "鹿晗演唱会北京站可部分退票",
+        "onboard_time": 1685616749,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 214556,
+        "num": 214556,
+        "word": "少爷和我再合体",
+        "onboard_time": 1685617707,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211103,
+        "num": 211103,
+        "word": "白敬亭给自己P了个眼镜",
+        "onboard_time": 1685615067,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208087,
+        "num": 208087,
+        "word": "EXO新歌MV拍摄取消",
+        "onboard_time": 1685606668,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 53971,
+        "num": 206177,
+        "word": "真实影像揭露境外高薪务工骗局",
+        "onboard_time": 1685615248,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205035,
+        "num": 205035,
+        "word": "万茜女儿海边侧颜照",
+        "onboard_time": 1685609487,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174936,
+        "num": 174936,
+        "word": "吴磊女施主请自重",
+        "onboard_time": 1685616928,
+        "rank": 31,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 163585,
+        "num": 163585,
+        "word": "宋茜的mbti",
+        "onboard_time": 1685614765,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145583,
+        "num": 145583,
+        "word": "柯基被砍当事人对侮辱诽谤已报警",
+        "onboard_time": 1685607508,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145382,
+        "num": 145382,
+        "word": "爱马仕不合格针织衫进价5千售1万6",
+        "onboard_time": 1685611766,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155277,
+        "num": 143758,
+        "word": "肖战片场讲冷笑话",
+        "onboard_time": 1685614166,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151339,
+        "num": 141286,
+        "word": "白鹿双马尾童年照",
+        "onboard_time": 1685617408,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134443,
+        "num": 134443,
+        "word": "面试千万不要太老实",
+        "onboard_time": 1685602106,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134012,
+        "num": 134012,
+        "word": "挖呀挖黄老师发视频祝六一快乐",
+        "onboard_time": 1685598746,
+        "rank": 38,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 130499,
+        "num": 132214,
+        "word": "百度网盘回应从苹果AppStore下架",
+        "onboard_time": 1685614107,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 148168,
+        "num": 131760,
+        "word": "8岁摄影师拍李现是被人抱起来的",
+        "onboard_time": 1685597668,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141715,
+        "num": 131618,
+        "word": "张艺兴深圳演唱会是四面台",
+        "onboard_time": 1685614947,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131087,
+        "num": 131087,
+        "word": "杨幂IP地址在香港",
+        "onboard_time": 1685592628,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130810,
+        "num": 130810,
+        "word": "阚清子",
+        "onboard_time": 1685608228,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115437,
+        "num": 115437,
+        "word": "小学生自愿报名给高三考生表演才艺",
+        "onboard_time": 1685610028,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107319,
+        "num": 107319,
+        "word": "肖战新剧不断更",
+        "onboard_time": 1685607086,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105661,
+        "num": 105661,
+        "word": "贵州一地拟禁办再婚等酒席",
+        "onboard_time": 1685610028,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97440,
+        "num": 97440,
+        "word": "Angelababy是靠什么长红多年的",
+        "onboard_time": 1685588486,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94171,
+        "num": 94171,
+        "word": "多少岁都可以过儿童节",
+        "onboard_time": 1685618003,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93714,
+        "num": 93714,
+        "word": "重返未来1999",
+        "onboard_time": 1685616206,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#少年志#"
+    }
+  }
+}
