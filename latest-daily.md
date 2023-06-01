@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/02 00:24:49 ~ 2023/06/02 01:33:30
+本榜单时间：2023/06/02 00:24:49 ~ 2023/06/02 02:21:59
 </p>
 </blockquote>
 <p>
@@ -383,6 +383,12 @@ WBG对战JDG（热度：52440）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%BE%A4%E5%B9%95%E5%90%8E%E8%88%AA%E5%A4%A9%E4%BA%BA%E5%AF%B9%E4%BB%A3%E7%A0%81%E6%9C%89%E7%9D%80%E6%9E%81%E8%87%B4%E8%BF%BD%E6%B1%82%23" target="weibo">
 这群幕后航天人对代码有着极致追求（热度：40012）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%81%AF%E7%89%8C%E7%BA%BF%E4%B8%8A%E5%BA%97%E9%93%BA%E8%A2%AB%E6%8A%95%E8%AF%89%23" target="weibo">
+易烊千玺灯牌线上店铺被投诉（热度：32367）
 </a>
 </li>
 

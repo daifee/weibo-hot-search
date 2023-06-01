@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/05/29 00:20:16 ~ 2023/06/02 01:33:30
+本榜单时间：2023/05/29 00:20:16 ~ 2023/06/02 02:21:59
 </p>
 </blockquote>
 <p>
@@ -7991,6 +7991,12 @@ TVB直播带货成交额破亿（热度：35645）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%A5%E5%BF%83%E9%99%90%E6%97%B6%E5%9B%9E%E5%BD%92%E4%BD%93%E9%AA%8C%E5%8D%A1%E8%AF%B7%E6%9F%A5%E6%94%B6%23" target="weibo">
 童心限时回归体验卡请查收（热度：33111）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%81%AF%E7%89%8C%E7%BA%BF%E4%B8%8A%E5%BA%97%E9%93%BA%E8%A2%AB%E6%8A%95%E8%AF%89%23" target="weibo">
+易烊千玺灯牌线上店铺被投诉（热度：32367）
 </a>
 </li>
 

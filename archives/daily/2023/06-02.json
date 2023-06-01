@@ -1,6 +1,6 @@
 {
   "startTime": 1685636689541,
-  "endTime": 1685640810256,
+  "endTime": 1685643719674,
   "band_list": [
     {
       "raw_hot": 2336194,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 370812,
-      "num": 180220,
+      "num": 194931,
       "word": "网传老人在高铁上用菜刀削苹果",
       "onboard_time": 1685636187,
       "rank": 44,
@@ -497,6 +497,14 @@
       "onboard_time": 1685633730,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32367,
+      "num": 32367,
+      "word": "易烊千玺灯牌线上店铺被投诉",
+      "onboard_time": 1685643554,
+      "rank": 44,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [
