@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685637599138,
+  "endTime": 1685639687490,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -19,20 +19,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2336194,
+      "num": 2336194,
+      "word": "学术妲己",
+      "onboard_time": 1685635046,
+      "rank": 0,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2078971,
       "num": 2078971,
       "word": "你愿意降薪去体制内吗",
       "onboard_time": 1685616206,
       "rank": 3,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 2074512,
-      "num": 2074512,
-      "word": "学术妲己",
-      "onboard_time": 1685635046,
-      "rank": 0,
-      "category": "幽默"
     },
     {
       "raw_hot": 2041966,
@@ -865,6 +865,14 @@
       "onboard_time": 1685593529,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 370812,
+      "num": 180220,
+      "word": "网传老人在高铁上用菜刀削苹果",
+      "onboard_time": 1685636187,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 363434,
@@ -1811,14 +1819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197277,
-      "num": 115869,
-      "word": "网传老人在高铁上用菜刀削苹果",
-      "onboard_time": 1685636187,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196762,
       "num": 188041,
       "word": "孙茜6岁儿子制服证件照",
@@ -1905,6 +1905,14 @@
       "onboard_time": 1685623647,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189311,
+      "num": 189311,
+      "word": "秦意浓 唐若遥",
+      "onboard_time": 1685638041,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 188626,
@@ -2419,6 +2427,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 125802,
+      "num": 125802,
+      "word": "铁路回应老人高铁上用菜刀削苹果",
+      "onboard_time": 1685636485,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124695,
       "num": 124695,
       "word": "六月你好",
@@ -2507,6 +2523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111504,
+      "num": 111504,
+      "word": "辛选主播将成人喝的牛奶推荐给孩子",
+      "onboard_time": 1685637862,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111392,
       "num": 111392,
       "word": "梦中的那片海今晚开播",
@@ -2527,14 +2551,6 @@
       "num": 108158,
       "word": "14名山西乡村儿童圆梦故宫",
       "onboard_time": 1685601928,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105805,
-      "num": 105805,
-      "word": "铁路回应老人高铁上用菜刀削苹果",
-      "onboard_time": 1685636485,
       "rank": 47,
       "category": "社会新闻"
     },
@@ -2641,6 +2657,14 @@
       "onboard_time": 1685607747,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 77811,
+      "num": 77811,
+      "word": "孟子义的底气是王濛给的",
+      "onboard_time": 1685639059,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 77255,
@@ -2779,6 +2803,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 56275,
+      "num": 64011,
+      "word": "吸引力法则 你会变得越来越好",
+      "onboard_time": 1685636965,
+      "rank": 45,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 53746,
       "num": 53746,
       "word": "2023高考",
@@ -2793,6 +2825,14 @@
       "onboard_time": 1685574259,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 50968,
+      "num": 62796,
+      "word": "女子跳河大学生和钓鱼大爷联手施救",
+      "onboard_time": 1685639000,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 50553,

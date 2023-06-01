@@ -1,0 +1,410 @@
+{
+  "runTime": 1685639687490,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2336194,
+        "num": 2336194,
+        "word": "学术妲己",
+        "onboard_time": 1685635046,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 423940,
+        "num": 423940,
+        "word": "早知道烂厂里了",
+        "onboard_time": 1685632591,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31894,
+        "num": 399903,
+        "word": "这群幕后航天人对代码有着极致追求",
+        "onboard_time": 1685633730,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386294,
+        "num": 386294,
+        "word": "肖战台词",
+        "onboard_time": 1685624309,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 370841,
+        "num": 370841,
+        "word": "知道的以为你是追姑娘",
+        "onboard_time": 1685633909,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266371,
+        "num": 266371,
+        "word": "专家称不排除二阳后还会有三阳",
+        "onboard_time": 1685630192,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240713,
+        "num": 240713,
+        "word": "五月天王源合唱",
+        "onboard_time": 1685625570,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189311,
+        "num": 189311,
+        "word": "秦意浓 唐若遥",
+        "onboard_time": 1685638041,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191806,
+        "num": 188198,
+        "word": "女生穿婚纱看王源演唱会系盗图造谣",
+        "onboard_time": 1685631631,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 185962,
+        "num": 185962,
+        "word": "王诗龄晒健身照",
+        "onboard_time": 1685626290,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370812,
+        "num": 180220,
+        "word": "网传老人在高铁上用菜刀削苹果",
+        "onboard_time": 1685636187,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263995,
+        "num": 172621,
+        "word": "李湘王岳伦带王诗龄逛街",
+        "onboard_time": 1685620766,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164677,
+        "num": 164677,
+        "word": "金智秀新冠确诊",
+        "onboard_time": 1685626952,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157462,
+        "num": 157462,
+        "word": "香蕉的英文这么烫嘴吗",
+        "onboard_time": 1685634086,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155962,
+        "num": 155962,
+        "word": "目睹活鱼店老板进货冻鱼",
+        "onboard_time": 1685632769,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137853,
+        "num": 137853,
+        "word": "梦中的那片海开播收视率",
+        "onboard_time": 1685624848,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137761,
+        "num": 137761,
+        "word": "Jennie小松菜奈热聊",
+        "onboard_time": 1685628095,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125802,
+        "num": 125802,
+        "word": "铁路回应老人高铁上用菜刀削苹果",
+        "onboard_time": 1685636485,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116595,
+        "num": 116595,
+        "word": "椿山漫 抄袭",
+        "onboard_time": 1685618245,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111504,
+        "num": 111504,
+        "word": "辛选主播将成人喝的牛奶推荐给孩子",
+        "onboard_time": 1685637862,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159815,
+        "num": 107911,
+        "word": "河南人和山东人都别沉默了",
+        "onboard_time": 1685620466,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130505,
+        "num": 106621,
+        "word": "虞书欣挂脖粉裙",
+        "onboard_time": 1685633010,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123691,
+        "num": 106060,
+        "word": "唐僧为什么忘记替老龟问寿命",
+        "onboard_time": 1685617647,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103102,
+        "num": 103102,
+        "word": "WBG零封JDG",
+        "onboard_time": 1685624668,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96847,
+        "num": 96847,
+        "word": "研究生辞谢信彰显卧龙凤雏",
+        "onboard_time": 1685627791,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93393,
+        "num": 93393,
+        "word": "百度网盘被苹果AppStore下架",
+        "onboard_time": 1685611647,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 92651,
+        "num": 92651,
+        "word": "五月天王源唱如果我们不曾相遇",
+        "onboard_time": 1685614647,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 89644,
+        "num": 89644,
+        "word": "肖战拍的最久的一场戏",
+        "onboard_time": 1685625329,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 89529,
+        "num": 89529,
+        "word": "TFBOYS十周年演唱会灯牌设计",
+        "onboard_time": 1685616086,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 89474,
+        "num": 89474,
+        "word": "张予曦是真公主吧",
+        "onboard_time": 1685624129,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89248,
+        "num": 89248,
+        "word": "花戎",
+        "onboard_time": 1685620705,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84824,
+        "num": 84824,
+        "word": "张杰把开心快乐送给女儿们",
+        "onboard_time": 1685629892,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 83835,
+        "num": 83835,
+        "word": "宋祖儿显眼肚",
+        "onboard_time": 1685624189,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79280,
+        "num": 79280,
+        "word": "虞书欣直播",
+        "onboard_time": 1685626592,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77811,
+        "num": 77811,
+        "word": "孟子义的底气是王濛给的",
+        "onboard_time": 1685639059,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73803,
+        "num": 73803,
+        "word": "迪丽热巴说还是会拍古装剧偶像剧",
+        "onboard_time": 1685627972,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 73455,
+        "num": 73455,
+        "word": "国产数码宝贝第二部剧透",
+        "onboard_time": 1685630970,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 71764,
+        "num": 71764,
+        "word": "刘青松",
+        "onboard_time": 1685624491,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 71138,
+        "num": 71138,
+        "word": "侯明昊周也 双人舞请尽快安排",
+        "onboard_time": 1685623407,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 67704,
+        "num": 69735,
+        "word": "阿根廷中国行票价公布",
+        "onboard_time": 1685627555,
+        "rank": 39,
+        "category": "体育,旅游"
+      },
+      {
+        "raw_hot": 69186,
+        "num": 69186,
+        "word": "徐明浩直播",
+        "onboard_time": 1685629652,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68895,
+        "num": 68895,
+        "word": "周也露背裙",
+        "onboard_time": 1685632111,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 68320,
+        "num": 68320,
+        "word": "王一博看秀内场照",
+        "onboard_time": 1685625211,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 65781,
+        "num": 65781,
+        "word": "李念官宣生三胎",
+        "onboard_time": 1685612789,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59249,
+        "num": 65033,
+        "word": "二阳",
+        "onboard_time": 1685631691,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56275,
+        "num": 64011,
+        "word": "吸引力法则 你会变得越来越好",
+        "onboard_time": 1685636965,
+        "rank": 45,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 51698,
+        "num": 63155,
+        "word": "二三十了还觉得自己是个小孩正常吗",
+        "onboard_time": 1685614287,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50968,
+        "num": 62796,
+        "word": "女子跳河大学生和钓鱼大爷联手施救",
+        "onboard_time": 1685639000,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 50160,
+        "num": 61711,
+        "word": "钟汉良儿童节请团队看五月天",
+        "onboard_time": 1685628752,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 48531,
+        "num": 60336,
+        "word": "曝本泽马确定离开皇马",
+        "onboard_time": 1685627012,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#少年志#"
+    }
+  }
+}

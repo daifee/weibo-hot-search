@@ -1,10 +1,10 @@
 {
   "startTime": 1685636689541,
-  "endTime": 1685637599138,
+  "endTime": 1685639687490,
   "band_list": [
     {
-      "raw_hot": 2074512,
-      "num": 2074512,
+      "raw_hot": 2336194,
+      "num": 2336194,
       "word": "学术妲己",
       "onboard_time": 1685635046,
       "rank": 0,
@@ -81,6 +81,14 @@
       "onboard_time": 1685631631,
       "rank": 7,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 370812,
+      "num": 180220,
+      "word": "网传老人在高铁上用菜刀削苹果",
+      "onboard_time": 1685636187,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352405,
@@ -163,14 +171,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 197277,
-      "num": 115869,
-      "word": "网传老人在高铁上用菜刀削苹果",
-      "onboard_time": 1685636187,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196074,
       "num": 196074,
       "word": "研究生辞谢信彰显卧龙凤雏",
@@ -185,6 +185,14 @@
       "onboard_time": 1685611647,
       "rank": 16,
       "category": "科技"
+    },
+    {
+      "raw_hot": 189311,
+      "num": 189311,
+      "word": "秦意浓 唐若遥",
+      "onboard_time": 1685638041,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 176034,
@@ -299,6 +307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 125802,
+      "num": 125802,
+      "word": "铁路回应老人高铁上用菜刀削苹果",
+      "onboard_time": 1685636485,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121213,
       "num": 145261,
       "word": "当西游记中的世界照进现实",
@@ -329,6 +345,14 @@
       "onboard_time": 1685624491,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 111504,
+      "num": 111504,
+      "word": "辛选主播将成人喝的牛奶推荐给孩子",
+      "onboard_time": 1685637862,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111392,
@@ -363,20 +387,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 105805,
-      "num": 105805,
-      "word": "铁路回应老人高铁上用菜刀削苹果",
-      "onboard_time": 1685636485,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86427,
       "num": 86427,
       "word": "梦中的那片海预告",
       "onboard_time": 1685633430,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 77811,
+      "num": 77811,
+      "word": "孟子义的底气是王濛给的",
+      "onboard_time": 1685639059,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 76423,
@@ -411,6 +435,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 56275,
+      "num": 64011,
+      "word": "吸引力法则 你会变得越来越好",
+      "onboard_time": 1685636965,
+      "rank": 45,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 52440,
       "num": 81959,
       "word": "WBG对战JDG",
@@ -419,12 +451,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 51698,
+      "num": 63155,
+      "word": "二三十了还觉得自己是个小孩正常吗",
+      "onboard_time": 1685614287,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50968,
+      "num": 62796,
+      "word": "女子跳河大学生和钓鱼大爷联手施救",
+      "onboard_time": 1685639000,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 50553,
       "num": 81557,
       "word": "人际关系第一原则",
       "onboard_time": 1685637564,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 48531,
+      "num": 60336,
+      "word": "曝本泽马确定离开皇马",
+      "onboard_time": 1685627012,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 40012,
