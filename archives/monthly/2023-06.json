@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685585076038,
+  "endTime": 1685586588608,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -35,20 +35,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1380628,
+      "num": 1380628,
+      "word": "边伯贤金珉锡金钟大与SMTOWN解约",
+      "onboard_time": 1685581949,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1293845,
       "num": 1293845,
       "word": "坐飞机要称体重了",
       "onboard_time": 1685542230,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1268450,
-      "num": 1268450,
-      "word": "边伯贤金珉锡金钟大与SMTOWN解约",
-      "onboard_time": 1685581949,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1265552,
@@ -65,6 +65,14 @@
       "onboard_time": 1685542169,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 698316,
+      "num": 698316,
+      "word": "假性亲密关系",
+      "onboard_time": 1685580387,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 679829,
@@ -89,14 +97,6 @@
       "onboard_time": 1685539347,
       "rank": 4,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 608957,
-      "num": 608957,
-      "word": "假性亲密关系",
-      "onboard_time": 1685580387,
-      "rank": 5,
-      "category": "情感"
     },
     {
       "raw_hot": 586200,
@@ -139,6 +139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 525680,
+      "num": 525680,
+      "word": "鞠婧祎每部戏妆容都差不多",
+      "onboard_time": 1685583927,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 519751,
       "num": 519751,
       "word": "宋妍霏对王嘉尔的小动作",
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476231,
+      "num": 476231,
+      "word": "产妇羊水栓塞医生集体赶来抢救",
+      "onboard_time": 1685582366,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 463515,
       "num": 463515,
       "word": "卡琳娜 我轻轻地尖叫晕了",
@@ -168,14 +184,6 @@
       "word": "六一儿童节",
       "onboard_time": 1685545292,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 415317,
-      "num": 415317,
-      "word": "产妇羊水栓塞医生集体赶来抢救",
-      "onboard_time": 1685582366,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -203,12 +211,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 381039,
-      "num": 381039,
-      "word": "鞠婧祎每部戏妆容都差不多",
-      "onboard_time": 1685583927,
-      "rank": 15,
-      "category": "作品衍生"
+      "raw_hot": 380802,
+      "num": 380802,
+      "word": "吴磊 快走吧哥们要累死了",
+      "onboard_time": 1685585607,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 377405,
@@ -217,6 +225,14 @@
       "onboard_time": 1685549369,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 377133,
+      "num": 377133,
+      "word": "小樱小狼 情侣战斗服",
+      "onboard_time": 1685583746,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 357053,
@@ -243,12 +259,28 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 326702,
+      "num": 326702,
+      "word": "五月天嘉宾 王源",
+      "onboard_time": 1685586086,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 326386,
       "num": 286498,
       "word": "看似睡着了 实际可能走了有一会儿",
       "onboard_time": 1685546671,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 323346,
+      "num": 323346,
+      "word": "2023高考报名人数1291万人",
+      "onboard_time": 1685585246,
+      "rank": 17,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 311706,
@@ -283,6 +315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 287121,
+      "num": 287121,
+      "word": "你以为很贵实则很便宜的东西",
+      "onboard_time": 1685577507,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 277712,
       "num": 277712,
       "word": "新娘偷塞手捧花给伴郎向伴娘求婚",
@@ -297,6 +337,14 @@
       "onboard_time": 1685575040,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271051,
+      "num": 271051,
+      "word": "亲生父母殴打虐待10岁孩子致死",
+      "onboard_time": 1685584646,
+      "rank": 36,
+      "category": "社会负面"
     },
     {
       "raw_hot": 256981,
@@ -321,6 +369,14 @@
       "onboard_time": 1685543670,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246412,
+      "num": 246412,
+      "word": "cbx",
+      "onboard_time": 1685585187,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 241211,
@@ -355,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225548,
+      "num": 210650,
+      "word": "谈一次恋爱被笑话一辈子",
+      "onboard_time": 1685584646,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 224802,
       "num": 224802,
       "word": "卡琳娜",
@@ -369,6 +433,30 @@
       "onboard_time": 1685535265,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218698,
+      "num": 218698,
+      "word": "财阀家的小儿子将拍第二季",
+      "onboard_time": 1685586268,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 217905,
+      "num": 217905,
+      "word": "今晚追哪部剧",
+      "onboard_time": 1685585667,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 217856,
+      "num": 217856,
+      "word": "你的六一我的六一好像不一样",
+      "onboard_time": 1685586086,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215148,
@@ -387,12 +475,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 211714,
-      "num": 211714,
-      "word": "你以为很贵实则很便宜的东西",
-      "onboard_time": 1685577507,
-      "rank": 27,
-      "category": "情感"
+      "raw_hot": 210735,
+      "num": 210735,
+      "word": "英雄联盟 赵露思时代少年团",
+      "onboard_time": 1685584227,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 209979,
@@ -427,14 +515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 201924,
-      "num": 201924,
-      "word": "英雄联盟 赵露思时代少年团",
-      "onboard_time": 1685584227,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 199612,
       "num": 199612,
       "word": "TOP说自己已经离开了BIGBANG",
@@ -459,12 +539,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 187258,
-      "num": 187258,
-      "word": "小樱小狼 情侣战斗服",
-      "onboard_time": 1685583746,
-      "rank": 34,
-      "category": "动漫"
+      "raw_hot": 191189,
+      "num": 191189,
+      "word": "代号鸢孙策",
+      "onboard_time": 1685585365,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 187061,
@@ -481,6 +561,14 @@
       "onboard_time": 1685575522,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183293,
+      "num": 183293,
+      "word": "昊也",
+      "onboard_time": 1685584407,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 182134,
@@ -507,22 +595,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 177764,
-      "num": 177764,
-      "word": "亲生父母殴打虐待10岁孩子致死",
-      "onboard_time": 1685584646,
-      "rank": 36,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 172991,
-      "num": 172991,
-      "word": "昊也",
-      "onboard_time": 1685584407,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 172903,
       "num": 172903,
       "word": "请张彬彬不要随意解衬衫",
@@ -537,6 +609,14 @@
       "onboard_time": 1685544453,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169364,
+      "num": 169364,
+      "word": "SMTOWN发生了什么",
+      "onboard_time": 1685586327,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 166865,
@@ -595,6 +675,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 152551,
+      "num": 152551,
+      "word": "儿童节礼物",
+      "onboard_time": 1685576726,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150300,
       "num": 150300,
       "word": "陈漫 芭莎封面",
@@ -603,16 +691,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 147169,
-      "num": 147169,
-      "word": "儿童节礼物",
-      "onboard_time": 1685576726,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 146029,
-      "num": 146029,
+      "raw_hot": 148197,
+      "num": 148197,
       "word": "为什么有的家庭一定要生儿子",
       "onboard_time": 1685576365,
       "rank": 41,
@@ -681,14 +761,6 @@
       "onboard_time": 1685575402,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 124685,
-      "num": 124685,
-      "word": "谈一次恋爱被笑话一辈子",
-      "onboard_time": 1685584646,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 120187,
