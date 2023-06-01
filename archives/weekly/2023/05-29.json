@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685601329747,
+  "endTime": 1685603774813,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -819,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1224144,
+      "num": 1224144,
+      "word": "迪丽热巴回应脸不像检察官",
+      "onboard_time": 1685600970,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1215052,
       "num": 1215052,
       "word": "丫丫",
@@ -857,6 +865,14 @@
       "onboard_time": 1685418931,
       "rank": 17,
       "category": "财经,幽默"
+    },
+    {
+      "raw_hot": 1146825,
+      "num": 1146825,
+      "word": "广东夫妇",
+      "onboard_time": 1685598504,
+      "rank": 5,
+      "category": "网红"
     },
     {
       "raw_hot": 1139383,
@@ -913,6 +929,14 @@
       "onboard_time": 1685501427,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1097181,
+      "num": 429799,
+      "word": "横着亲",
+      "onboard_time": 1685597789,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1080345,
@@ -1131,12 +1155,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 931600,
-      "num": 429799,
-      "word": "横着亲",
-      "onboard_time": 1685597789,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 930438,
+      "num": 930438,
+      "word": "挖呀挖黄老师发视频祝六一快乐",
+      "onboard_time": 1685598746,
+      "rank": 13,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 929988,
@@ -1177,14 +1201,6 @@
       "onboard_time": 1685352029,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 905638,
-      "num": 905638,
-      "word": "广东夫妇",
-      "onboard_time": 1685598504,
-      "rank": 5,
-      "category": "网红"
     },
     {
       "raw_hot": 894425,
@@ -1577,14 +1593,6 @@
       "onboard_time": 1685402062,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 656230,
-      "num": 656230,
-      "word": "挖呀挖黄老师发视频祝六一快乐",
-      "onboard_time": 1685598746,
-      "rank": 13,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 655994,
@@ -2827,6 +2835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 401883,
+      "num": 433132,
+      "word": "为什么我们不聊杰克辣条",
+      "onboard_time": 1685597789,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401536,
       "num": 401536,
       "word": "王一博作品疑似被恶意打分",
@@ -3049,6 +3065,14 @@
       "onboard_time": 1685510850,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 376476,
+      "num": 181832,
+      "word": "女子被骗至金三角吸毒卖淫获救",
+      "onboard_time": 1685600667,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 376241,
@@ -3619,14 +3643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 323214,
-      "num": 433132,
-      "word": "为什么我们不聊杰克辣条",
-      "onboard_time": 1685597789,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 323018,
       "num": 230124,
       "word": "不要彩礼收到了婆婆的心意",
@@ -3841,6 +3857,14 @@
       "onboard_time": 1685371774,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 307193,
+      "num": 307193,
+      "word": "狗狗耳朵上的小夹层是做啥用的",
+      "onboard_time": 1685599228,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 306741,
@@ -4217,6 +4241,14 @@
       "onboard_time": 1685332891,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279102,
+      "num": 181555,
+      "word": "面试千万不要太老实",
+      "onboard_time": 1685602106,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 278706,
@@ -4683,6 +4715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255383,
+      "num": 181179,
+      "word": "ChatGPT高三考试仅物理得零分",
+      "onboard_time": 1685602770,
+      "rank": 22,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 255366,
       "num": 255366,
       "word": "在暴雪时分全阵容官宣",
@@ -4977,6 +5017,14 @@
       "onboard_time": 1685509237,
       "rank": 34,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 244947,
+      "num": 172705,
+      "word": "手工耿 适合中国宝宝体质的林克",
+      "onboard_time": 1685601507,
+      "rank": 30,
+      "category": "网红,游戏"
     },
     {
       "raw_hot": 244684,
@@ -5555,14 +5603,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 221862,
-      "num": 182577,
-      "word": "迪丽热巴回应脸不像检察官",
-      "onboard_time": 1685600970,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 221655,
       "num": 207741,
       "word": "小S二女儿练普拉提",
@@ -5603,6 +5643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220816,
+      "num": 220816,
+      "word": "浙江一学院面向女生讲座内容引争议",
+      "onboard_time": 1685601387,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220778,
       "num": 220778,
       "word": "街舞6网传嘉宾阵容",
@@ -5625,6 +5673,14 @@
       "onboard_time": 1685319747,
       "rank": 35,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 220422,
+      "num": 180731,
+      "word": "杨洋王楚然剧照 太阳的后裔",
+      "onboard_time": 1685603249,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 220360,
@@ -5665,14 +5721,6 @@
       "onboard_time": 1685353828,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 218215,
-      "num": 167655,
-      "word": "女子被骗至金三角吸毒卖淫获救",
-      "onboard_time": 1685600667,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218141,
@@ -6683,14 +6731,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 188587,
-      "num": 167647,
-      "word": "狗狗耳朵上的小夹层是做啥用的",
-      "onboard_time": 1685599228,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 188436,
       "num": 188436,
       "word": "清醒的感受失去才是自虐",
@@ -6993,6 +7033,22 @@
       "onboard_time": 1685347587,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 179699,
+      "num": 172552,
+      "word": "男生接女友下班遭车祸致1死1病危",
+      "onboard_time": 1685603186,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179186,
+      "num": 179186,
+      "word": "就喜欢纯爱",
+      "onboard_time": 1685602106,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 179092,
@@ -7691,6 +7747,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152331,
+      "num": 152331,
+      "word": "明星芭莎吃东西大片",
+      "onboard_time": 1685602770,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 151796,
+      "num": 151796,
+      "word": "五月天在台上唱你不是真正的快乐",
+      "onboard_time": 1685601087,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 151758,
       "num": 289153,
       "word": "赵明称行业必然跟进零风险护眼屏",
@@ -8027,6 +8099,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 134259,
+      "num": 134259,
+      "word": "为什么南方没有暴走团",
+      "onboard_time": 1685603549,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133857,
       "num": 113548,
       "word": "黄子韬 萌探",
@@ -8145,6 +8225,14 @@
       "onboard_time": 1685537488,
       "rank": 48,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 129001,
+      "num": 173014,
+      "word": "喜提千金秒变显眼包",
+      "onboard_time": 1685603307,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128898,
@@ -8273,14 +8361,6 @@
       "onboard_time": 1685575402,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 124690,
-      "num": 124690,
-      "word": "五月天在台上唱你不是真正的快乐",
-      "onboard_time": 1685601087,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 124657,
@@ -8417,6 +8497,14 @@
       "onboard_time": 1685421996,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119861,
+      "num": 157277,
+      "word": "养猫家庭的崩溃瞬间",
+      "onboard_time": 1685599287,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 119747,
@@ -8579,6 +8667,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 109314,
+      "num": 109314,
+      "word": "SMTOWN说钱不重要",
+      "onboard_time": 1685603726,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108891,
       "num": 108891,
       "word": "LNG对战TES",
@@ -8608,6 +8704,14 @@
       "word": "学练机",
       "onboard_time": 1685438848,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108158,
+      "num": 108158,
+      "word": "14名山西乡村儿童圆梦故宫",
+      "onboard_time": 1685601928,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -8699,14 +8803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102552,
-      "num": 157277,
-      "word": "养猫家庭的崩溃瞬间",
-      "onboard_time": 1685599287,
-      "rank": 45,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 100779,
       "num": 316761,
       "word": "今晚有多少明星在天猫618直播",
@@ -8753,6 +8849,14 @@
       "onboard_time": 1685468178,
       "rank": 17,
       "category": "动漫,艺人"
+    },
+    {
+      "raw_hot": 97869,
+      "num": 105430,
+      "word": "亚运征途",
+      "onboard_time": 1685602706,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 96837,

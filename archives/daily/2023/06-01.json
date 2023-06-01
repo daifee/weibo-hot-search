@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685601329747,
+  "endTime": 1685603774813,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -91,6 +91,22 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 1224144,
+      "num": 1224144,
+      "word": "迪丽热巴回应脸不像检察官",
+      "onboard_time": 1685600970,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1146825,
+      "num": 1146825,
+      "word": "广东夫妇",
+      "onboard_time": 1685598504,
+      "rank": 5,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1139383,
       "num": 1139383,
       "word": "事业单位",
@@ -105,6 +121,14 @@
       "onboard_time": 1685542169,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1097181,
+      "num": 429799,
+      "word": "横着亲",
+      "onboard_time": 1685597789,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 977357,
@@ -123,12 +147,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 931600,
-      "num": 429799,
-      "word": "横着亲",
-      "onboard_time": 1685597789,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 930438,
+      "num": 930438,
+      "word": "挖呀挖黄老师发视频祝六一快乐",
+      "onboard_time": 1685598746,
+      "rank": 13,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 914174,
@@ -137,14 +161,6 @@
       "onboard_time": 1685574199,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 905638,
-      "num": 905638,
-      "word": "广东夫妇",
-      "onboard_time": 1685598504,
-      "rank": 5,
-      "category": "网红"
     },
     {
       "raw_hot": 855032,
@@ -201,14 +217,6 @@
       "onboard_time": 1685597668,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 656230,
-      "num": 656230,
-      "word": "挖呀挖黄老师发视频祝六一快乐",
-      "onboard_time": 1685598746,
-      "rank": 13,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 655398,
@@ -371,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 401883,
+      "num": 433132,
+      "word": "为什么我们不聊杰克辣条",
+      "onboard_time": 1685597789,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400668,
       "num": 400668,
       "word": "学校回应小学生将螺丝刀插进同学背部",
@@ -409,6 +425,14 @@
       "onboard_time": 1685583746,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 376476,
+      "num": 181832,
+      "word": "女子被骗至金三角吸毒卖淫获救",
+      "onboard_time": 1685600667,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 372504,
@@ -507,20 +531,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 323214,
-      "num": 433132,
-      "word": "为什么我们不聊杰克辣条",
-      "onboard_time": 1685597789,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 311706,
       "num": 311706,
       "word": "长月烬明三位主演的后续",
       "onboard_time": 1685539288,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 307193,
+      "num": 307193,
+      "word": "狗狗耳朵上的小夹层是做啥用的",
+      "onboard_time": 1685599228,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 302077,
@@ -603,6 +627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 279102,
+      "num": 181555,
+      "word": "面试千万不要太老实",
+      "onboard_time": 1685602106,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 277712,
       "num": 277712,
       "word": "新娘偷塞手捧花给伴郎向伴娘求婚",
@@ -659,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255383,
+      "num": 181179,
+      "word": "ChatGPT高三考试仅物理得零分",
+      "onboard_time": 1685602770,
+      "rank": 22,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 255203,
       "num": 255203,
       "word": "一万人的朋友圈是什么样的",
@@ -713,6 +753,14 @@
       "onboard_time": 1685585187,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244947,
+      "num": 172705,
+      "word": "手工耿 适合中国宝宝体质的林克",
+      "onboard_time": 1685601507,
+      "rank": 30,
+      "category": "网红,游戏"
     },
     {
       "raw_hot": 243759,
@@ -803,14 +851,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 221862,
-      "num": 182577,
-      "word": "迪丽热巴回应脸不像检察官",
-      "onboard_time": 1685600970,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 221535,
       "num": 221535,
       "word": "你的童年回忆杀是什么",
@@ -827,12 +867,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 218215,
-      "num": 167655,
-      "word": "女子被骗至金三角吸毒卖淫获救",
-      "onboard_time": 1685600667,
-      "rank": 30,
+      "raw_hot": 220816,
+      "num": 220816,
+      "word": "浙江一学院面向女生讲座内容引争议",
+      "onboard_time": 1685601387,
+      "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220422,
+      "num": 180731,
+      "word": "杨洋王楚然剧照 太阳的后裔",
+      "onboard_time": 1685603249,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 215148,
@@ -955,14 +1003,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 188587,
-      "num": 167647,
-      "word": "狗狗耳朵上的小夹层是做啥用的",
-      "onboard_time": 1685599228,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 187061,
       "num": 187061,
       "word": "吴谢宇 三联",
@@ -1025,6 +1065,22 @@
       "onboard_time": 1685581408,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 179699,
+      "num": 172552,
+      "word": "男生接女友下班遭车祸致1死1病危",
+      "onboard_time": 1685603186,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179186,
+      "num": 179186,
+      "word": "就喜欢纯爱",
+      "onboard_time": 1685602106,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 172903,
@@ -1147,6 +1203,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152331,
+      "num": 152331,
+      "word": "明星芭莎吃东西大片",
+      "onboard_time": 1685602770,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 151796,
+      "num": 151796,
+      "word": "五月天在台上唱你不是真正的快乐",
+      "onboard_time": 1685601087,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 151567,
       "num": 151567,
       "word": "Angelababy赵露思将录制你好星期六",
@@ -1227,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134259,
+      "num": 134259,
+      "word": "为什么南方没有暴走团",
+      "onboard_time": 1685603549,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133781,
       "num": 133781,
       "word": "选择成为幼稚的大人",
@@ -1249,6 +1329,14 @@
       "onboard_time": 1685577265,
       "rank": 43,
       "category": "社会新闻,音乐"
+    },
+    {
+      "raw_hot": 129001,
+      "num": 173014,
+      "word": "喜提千金秒变显眼包",
+      "onboard_time": 1685603307,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128727,
@@ -1275,20 +1363,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 124690,
-      "num": 124690,
-      "word": "五月天在台上唱你不是真正的快乐",
-      "onboard_time": 1685601087,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 120187,
       "num": 120187,
       "word": "3岁三胞胎姐妹解锁派出所综窗初体验",
       "onboard_time": 1685583626,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119861,
+      "num": 157277,
+      "word": "养猫家庭的崩溃瞬间",
+      "onboard_time": 1685599287,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 119559,
@@ -1339,12 +1427,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109314,
+      "num": 109314,
+      "word": "SMTOWN说钱不重要",
+      "onboard_time": 1685603726,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108663,
       "num": 108663,
       "word": "如果广东停电一天",
       "onboard_time": 1685575761,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108158,
+      "num": 108158,
+      "word": "14名山西乡村儿童圆梦故宫",
+      "onboard_time": 1685601928,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103499,
@@ -1355,12 +1459,12 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 102552,
-      "num": 157277,
-      "word": "养猫家庭的崩溃瞬间",
-      "onboard_time": 1685599287,
-      "rank": 45,
-      "category": "幽默,情感"
+      "raw_hot": 97869,
+      "num": 105430,
+      "word": "亚运征途",
+      "onboard_time": 1685602706,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 92931,

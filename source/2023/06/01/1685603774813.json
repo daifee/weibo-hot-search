@@ -1,0 +1,410 @@
+{
+  "runTime": 1685603774813,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1224144,
+        "num": 1224144,
+        "word": "迪丽热巴回应脸不像检察官",
+        "onboard_time": 1685600970,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1146825,
+        "num": 1146825,
+        "word": "广东夫妇",
+        "onboard_time": 1685598504,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115318,
+        "num": 991880,
+        "word": "无论几岁快乐万岁",
+        "onboard_time": 1685596827,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 930438,
+        "num": 930438,
+        "word": "挖呀挖黄老师发视频祝六一快乐",
+        "onboard_time": 1685598746,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 832987,
+        "num": 832987,
+        "word": "杨幂IP地址在香港",
+        "onboard_time": 1685592628,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 563966,
+        "num": 563966,
+        "word": "8岁摄影师拍李现是被人抱起来的",
+        "onboard_time": 1685597668,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 516718,
+        "num": 516718,
+        "word": "肖战迪丽热巴童话里走出来的王子公主",
+        "onboard_time": 1685594189,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 490505,
+        "num": 490505,
+        "word": "事业单位",
+        "onboard_time": 1685589866,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 401883,
+        "num": 401883,
+        "word": "为什么我们不聊杰克辣条",
+        "onboard_time": 1685597789,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387372,
+        "num": 387372,
+        "word": "假性亲密关系",
+        "onboard_time": 1685580387,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1097181,
+        "num": 386493,
+        "word": "横着亲",
+        "onboard_time": 1685597789,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 684955,
+        "num": 381458,
+        "word": "刘昊然手机很烂应该是他",
+        "onboard_time": 1685596649,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364406,
+        "num": 364406,
+        "word": "Angelababy是靠什么长红多年的",
+        "onboard_time": 1685588486,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307193,
+        "num": 307193,
+        "word": "狗狗耳朵上的小夹层是做啥用的",
+        "onboard_time": 1685599228,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237453,
+        "num": 237453,
+        "word": "陈宥维",
+        "onboard_time": 1685597069,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229485,
+        "num": 229485,
+        "word": "情侣之间有必要过六一吗",
+        "onboard_time": 1685592988,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225572,
+        "num": 225572,
+        "word": "杨洋王楚然废墟救赎感剧照",
+        "onboard_time": 1685587647,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221899,
+        "num": 221899,
+        "word": "吴磊 快走吧哥们要累死了",
+        "onboard_time": 1685585607,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220816,
+        "num": 220816,
+        "word": "浙江一学院面向女生讲座内容引争议",
+        "onboard_time": 1685601387,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182160,
+        "num": 182160,
+        "word": "杭州LGD更名",
+        "onboard_time": 1685593770,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 376476,
+        "num": 181832,
+        "word": "女子被骗至金三角吸毒卖淫获救",
+        "onboard_time": 1685600667,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279102,
+        "num": 181555,
+        "word": "面试千万不要太老实",
+        "onboard_time": 1685602106,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255383,
+        "num": 181179,
+        "word": "ChatGPT高三考试仅物理得零分",
+        "onboard_time": 1685602770,
+        "rank": 22,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 220422,
+        "num": 180731,
+        "word": "杨洋王楚然剧照 太阳的后裔",
+        "onboard_time": 1685603249,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197432,
+        "num": 180523,
+        "word": "王一博东京街头漫步随拍",
+        "onboard_time": 1685598687,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190011,
+        "num": 179977,
+        "word": "印度朋友到底怎么吃中国火锅",
+        "onboard_time": 1685600907,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188090,
+        "num": 179646,
+        "word": "找到周深叫周深的原因了",
+        "onboard_time": 1685598026,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187767,
+        "num": 179189,
+        "word": "边伯贤金珉锡金钟大与SMTOWN解约",
+        "onboard_time": 1685581949,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179186,
+        "num": 179186,
+        "word": "就喜欢纯爱",
+        "onboard_time": 1685602106,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129001,
+        "num": 173014,
+        "word": "喜提千金秒变显眼包",
+        "onboard_time": 1685603307,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244947,
+        "num": 172705,
+        "word": "手工耿 适合中国宝宝体质的林克",
+        "onboard_time": 1685601507,
+        "rank": 30,
+        "category": "网红,游戏"
+      },
+      {
+        "raw_hot": 179699,
+        "num": 172552,
+        "word": "男生接女友下班遭车祸致1死1病危",
+        "onboard_time": 1685603186,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172325,
+        "num": 172325,
+        "word": "丫丫和新家人祝大家儿童节快乐",
+        "onboard_time": 1685594189,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154300,
+        "num": 154300,
+        "word": "EXO还回归吗",
+        "onboard_time": 1685582488,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152331,
+        "num": 152331,
+        "word": "明星芭莎吃东西大片",
+        "onboard_time": 1685602770,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151796,
+        "num": 151796,
+        "word": "五月天在台上唱你不是真正的快乐",
+        "onboard_time": 1685601087,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150160,
+        "num": 150160,
+        "word": "杨紫芭莎吃糖油饼大片",
+        "onboard_time": 1685593889,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 134259,
+        "num": 134259,
+        "word": "为什么南方没有暴走团",
+        "onboard_time": 1685603549,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133846,
+        "num": 133846,
+        "word": "明星谴责虐待动物者却遭曝光个人信息",
+        "onboard_time": 1685579429,
+        "rank": 38,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 130720,
+        "num": 130720,
+        "word": "你的六一我的六一好像不一样",
+        "onboard_time": 1685586086,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122578,
+        "num": 122578,
+        "word": "胡锡进 毕节如此提防记者是在怕什么",
+        "onboard_time": 1685597967,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119861,
+        "num": 119861,
+        "word": "养猫家庭的崩溃瞬间",
+        "onboard_time": 1685599287,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 116295,
+        "num": 116295,
+        "word": "你喜欢大海 我承包岛",
+        "onboard_time": 1685579847,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116035,
+        "num": 116035,
+        "word": "郑秀晶的腹肌隔着衣服都能看到",
+        "onboard_time": 1685594971,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111836,
+        "num": 111836,
+        "word": "别把医术拍成了法术",
+        "onboard_time": 1685579007,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109864,
+        "num": 109864,
+        "word": "肖战刘芮麟新剧演兄弟",
+        "onboard_time": 1685589806,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109314,
+        "num": 109314,
+        "word": "SMTOWN说钱不重要",
+        "onboard_time": 1685603726,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108158,
+        "num": 108158,
+        "word": "14名山西乡村儿童圆梦故宫",
+        "onboard_time": 1685601928,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97869,
+        "num": 105430,
+        "word": "亚运征途",
+        "onboard_time": 1685602706,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76088,
+        "num": 104563,
+        "word": "摩尔庄园",
+        "onboard_time": 1685587765,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记给少年儿童的二十四字箴言#"
+    }
+  }
+}
