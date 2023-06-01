@@ -1,6 +1,6 @@
 {
   "startTime": 1685636689541,
-  "endTime": 1685658813946,
+  "endTime": 1685661434249,
   "band_list": [
     {
       "raw_hot": 2336194,
@@ -43,6 +43,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 538227,
+      "num": 538227,
+      "word": "网传老人在高铁上用菜刀削苹果",
+      "onboard_time": 1685636187,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 451005,
       "num": 451005,
       "word": "知道的以为你是追姑娘",
@@ -81,14 +89,6 @@
       "onboard_time": 1685631631,
       "rank": 7,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 370812,
-      "num": 281401,
-      "word": "网传老人在高铁上用菜刀削苹果",
-      "onboard_time": 1685636187,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 352405,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228043,
+      "num": 228043,
+      "word": "贪官假释期威胁媒体删除忏悔视频",
+      "onboard_time": 1685655854,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226927,
       "num": 226927,
       "word": "香蕉的英文这么烫嘴吗",
@@ -195,6 +203,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 178936,
+      "num": 178936,
+      "word": "铁路回应老人高铁上用菜刀削苹果",
+      "onboard_time": 1685636485,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176695,
+      "num": 176695,
+      "word": "辛选主播将成人喝的牛奶推荐给孩子",
+      "onboard_time": 1685637862,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176034,
       "num": 159472,
       "word": "周也露背裙",
@@ -225,6 +249,14 @@
       "onboard_time": 1685616086,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 159061,
+      "num": 159061,
+      "word": "哺乳期面试者提出的小请求",
+      "onboard_time": 1685650032,
+      "rank": 30,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 158951,
@@ -259,11 +291,11 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 141771,
-      "num": 141771,
-      "word": "辛选主播将成人喝的牛奶推荐给孩子",
-      "onboard_time": 1685637862,
-      "rank": 19,
+      "raw_hot": 143550,
+      "num": 143550,
+      "word": "二三十了还觉得自己是个小孩正常吗",
+      "onboard_time": 1685614287,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -315,27 +347,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 125802,
-      "num": 125802,
-      "word": "铁路回应老人高铁上用菜刀削苹果",
-      "onboard_time": 1685636485,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121213,
       "num": 145261,
       "word": "当西游记中的世界照进现实",
       "onboard_time": 1685637261,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120344,
-      "num": 120344,
-      "word": "二三十了还觉得自己是个小孩正常吗",
-      "onboard_time": 1685614287,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -403,14 +419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 97878,
-      "num": 97878,
-      "word": "贪官假释期威胁媒体删除忏悔视频",
-      "onboard_time": 1685655854,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86427,
       "num": 86427,
       "word": "梦中的那片海预告",
@@ -435,20 +443,36 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 74481,
-      "num": 74481,
-      "word": "哺乳期面试者提出的小请求",
-      "onboard_time": 1685650032,
-      "rank": 30,
-      "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 73817,
-      "num": 73817,
+      "raw_hot": 75175,
+      "num": 75175,
       "word": "吸引力法则 你会变得越来越好",
       "onboard_time": 1685636965,
       "rank": 45,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 72953,
+      "num": 72953,
+      "word": "拜登",
+      "onboard_time": 1685661321,
+      "rank": 29,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 72520,
+      "num": 72520,
+      "word": "对这种玩笑永远不要笑",
+      "onboard_time": 1685660781,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 66310,
+      "num": 66310,
+      "word": "被贴吧盗图造谣女生本人发声",
+      "onboard_time": 1685660899,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63401,
@@ -491,6 +515,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 50627,
+      "num": 50627,
+      "word": "还没有一个人有我全部的账号",
+      "onboard_time": 1685660781,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 50553,
       "num": 81557,
       "word": "人际关系第一原则",
@@ -499,12 +531,36 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 48531,
+      "raw_hot": 48889,
+      "num": 48889,
+      "word": "我其实是一只水母 装成人的模样社交",
+      "onboard_time": 1685660781,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 48809,
       "num": 60336,
       "word": "曝本泽马确定离开皇马",
       "onboard_time": 1685627012,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41296,
+      "num": 49475,
+      "word": "易烊千玺灯牌线上店铺被投诉",
+      "onboard_time": 1685643554,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 41028,
+      "num": 41028,
+      "word": "亲耳聆听了一场大女人发言",
+      "onboard_time": 1685661199,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 40012,
@@ -513,14 +569,6 @@
       "onboard_time": 1685633730,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37993,
-      "num": 49475,
-      "word": "易烊千玺灯牌线上店铺被投诉",
-      "onboard_time": 1685643554,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 34587,
