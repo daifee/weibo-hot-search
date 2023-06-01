@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685604821138,
+  "endTime": 1685607652947,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -41,6 +41,22 @@
       "onboard_time": 1685579429,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1794101,
+      "num": 1370428,
+      "word": "柳州",
+      "onboard_time": 1685538987,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1436382,
+      "num": 1436382,
+      "word": "挖呀挖黄老师发视频祝六一快乐",
+      "onboard_time": 1685598746,
+      "rank": 13,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1380628,
@@ -147,12 +163,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 930438,
-      "num": 930438,
-      "word": "挖呀挖黄老师发视频祝六一快乐",
-      "onboard_time": 1685598746,
-      "rank": 13,
-      "category": "社会新闻,网红"
+      "raw_hot": 936915,
+      "num": 936915,
+      "word": "男生接女友下班遭车祸致1死1病危",
+      "onboard_time": 1685603186,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 914174,
@@ -193,6 +209,14 @@
       "onboard_time": 1685545051,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 676239,
+      "num": 676239,
+      "word": "杨洋王楚然剧照 太阳的后裔",
+      "onboard_time": 1685603249,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 666139,
@@ -251,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 583841,
+      "num": 583841,
+      "word": "EXO是我们公司非常珍惜的艺人",
+      "onboard_time": 1685606306,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 570370,
       "num": 570370,
       "word": "苹果14",
@@ -307,20 +339,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 513379,
+      "num": 513379,
+      "word": "赵雅芝70岁状态有多绝",
+      "onboard_time": 1685604927,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 496286,
       "num": 496286,
       "word": "五月天嘉宾 王源",
       "onboard_time": 1685586086,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 485229,
-      "num": 485229,
-      "word": "杨洋王楚然剧照 太阳的后裔",
-      "onboard_time": 1685603249,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 484937,
@@ -339,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 469321,
+      "num": 469321,
+      "word": "ChatGPT高三考试仅物理得零分",
+      "onboard_time": 1685602770,
+      "rank": 22,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 463515,
       "num": 463515,
       "word": "卡琳娜 我轻轻地尖叫晕了",
@@ -347,12 +387,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 454161,
-      "num": 344176,
-      "word": "男生接女友下班遭车祸致1死1病危",
-      "onboard_time": 1685603186,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 437774,
+      "num": 437774,
+      "word": "EXO新歌MV拍摄取消",
+      "onboard_time": 1685606668,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 434172,
@@ -395,14 +435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 402186,
-      "num": 181179,
-      "word": "ChatGPT高三考试仅物理得零分",
-      "onboard_time": 1685602770,
-      "rank": 22,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 401980,
       "num": 433132,
       "word": "为什么我们不聊杰克辣条",
@@ -428,7 +460,7 @@
     },
     {
       "raw_hot": 393775,
-      "num": 181832,
+      "num": 242906,
       "word": "女子被骗至金三角吸毒卖淫获救",
       "onboard_time": 1685600667,
       "rank": 30,
@@ -481,6 +513,14 @@
       "onboard_time": 1685593529,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 363434,
+      "num": 363434,
+      "word": "就喜欢纯爱",
+      "onboard_time": 1685602106,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 357053,
@@ -579,12 +619,12 @@
       "category": "网红,游戏"
     },
     {
-      "raw_hot": 317277,
-      "num": 317277,
-      "word": "就喜欢纯爱",
-      "onboard_time": 1685602106,
-      "rank": 28,
-      "category": "情感"
+      "raw_hot": 313379,
+      "num": 313379,
+      "word": "SMTOWN说钱不重要",
+      "onboard_time": 1685603726,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 311706,
@@ -684,7 +724,7 @@
     },
     {
       "raw_hot": 279102,
-      "num": 181555,
+      "num": 242797,
       "word": "面试千万不要太老实",
       "onboard_time": 1685602106,
       "rank": 21,
@@ -721,6 +761,14 @@
       "onboard_time": 1685575040,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269436,
+      "num": 189493,
+      "word": "莫文蔚让张韶涵杨宗纬赶快结婚",
+      "onboard_time": 1685604867,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 268667,
@@ -803,12 +851,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244193,
+      "num": 182898,
+      "word": "乐华家族演唱会有王一博",
+      "onboard_time": 1685606668,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243759,
       "num": 188244,
       "word": "王一博东京街头漫步随拍",
       "onboard_time": 1685598687,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242915,
+      "num": 242915,
+      "word": "阿根廷中国行票价",
+      "onboard_time": 1685604446,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 242282,
@@ -947,14 +1011,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 210549,
-      "num": 210549,
-      "word": "SMTOWN说钱不重要",
-      "onboard_time": 1685603726,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 209979,
       "num": 209979,
       "word": "肖春生佟晓梅今晚见",
@@ -995,6 +1051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201162,
+      "num": 178142,
+      "word": "肖战新剧不断更",
+      "onboard_time": 1685607086,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199612,
       "num": 199612,
       "word": "TOP说自己已经离开了BIGBANG",
@@ -1028,7 +1092,7 @@
     },
     {
       "raw_hot": 193246,
-      "num": 1006962,
+      "num": 1157442,
       "word": "无论几岁快乐万岁",
       "onboard_time": 1685596827,
       "rank": 2,
@@ -1097,6 +1161,14 @@
       "onboard_time": 1685584407,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 183113,
+      "num": 163346,
+      "word": "乐华2023家族演唱会全阵容公布",
+      "onboard_time": 1685606007,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 182134,
@@ -1201,6 +1273,14 @@
       "onboard_time": 1685547988,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 162717,
+      "num": 162717,
+      "word": "好多女明星扎双马尾啊",
+      "onboard_time": 1685604506,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 159151,
@@ -1339,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134843,
+      "num": 134843,
+      "word": "特斯拉",
+      "onboard_time": 1685605588,
+      "rank": 34,
+      "category": "科技"
+    },
+    {
       "raw_hot": 133781,
       "num": 133781,
       "word": "选择成为幼稚的大人",
@@ -1353,14 +1441,6 @@
       "onboard_time": 1685542471,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 129713,
-      "num": 115453,
-      "word": "好多女明星扎双马尾啊",
-      "onboard_time": 1685604506,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 129070,
@@ -1491,20 +1571,20 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 101903,
-      "num": 101903,
-      "word": "阿根廷中国行票价",
-      "onboard_time": 1685604446,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 97869,
       "num": 105430,
       "word": "亚运征途",
       "onboard_time": 1685602706,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95528,
+      "num": 163819,
+      "word": "男孩表演时看到爸爸一秒变开心",
+      "onboard_time": 1685606487,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92931,
@@ -1547,6 +1627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82375,
+      "num": 105051,
+      "word": "柯基被砍当事人对侮辱诽谤已报警",
+      "onboard_time": 1685607508,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77255,
       "num": 156786,
       "word": "第一次看到脾气这么好的领导",
@@ -1560,6 +1648,22 @@
       "word": "为什么喜欢给小孩子拍照",
       "onboard_time": 1685588427,
       "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 73218,
+      "num": 104961,
+      "word": "我国首艘国产大型邮轮完成起浮",
+      "onboard_time": 1685607205,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72847,
+      "num": 104853,
+      "word": "等以后下地狱了想要哪个角",
+      "onboard_time": 1685607629,
+      "rank": 49,
       "category": "情感"
     },
     {
@@ -1651,14 +1755,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 37542,
-      "num": 54826,
-      "word": "柳州",
-      "onboard_time": 1685538987,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 33111,
       "num": 471138,
       "word": "童心限时回归体验卡请查收",
@@ -1705,6 +1801,14 @@
       "onboard_time": 1685559674,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 25842,
+      "num": 336929,
+      "word": "儿童节惊喜是铁骑小姐姐给的",
+      "onboard_time": 1685598087,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21272,

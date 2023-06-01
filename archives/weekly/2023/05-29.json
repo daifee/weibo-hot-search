@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685604821138,
+  "endTime": 1685607652947,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -347,6 +347,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1794101,
+      "num": 1370428,
+      "word": "柳州",
+      "onboard_time": 1685538987,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1758295,
       "num": 1758295,
       "word": "演唱会门票秒罄黄牛党捞钱术升级",
@@ -529,6 +537,14 @@
       "onboard_time": 1685412027,
       "rank": 1,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 1436382,
+      "num": 1436382,
+      "word": "挖呀挖黄老师发视频祝六一快乐",
+      "onboard_time": 1685598746,
+      "rank": 13,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1425401,
@@ -1155,12 +1171,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 930438,
-      "num": 930438,
-      "word": "挖呀挖黄老师发视频祝六一快乐",
-      "onboard_time": 1685598746,
-      "rank": 13,
-      "category": "社会新闻,网红"
+      "raw_hot": 936915,
+      "num": 936915,
+      "word": "男生接女友下班遭车祸致1死1病危",
+      "onboard_time": 1685603186,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 929988,
@@ -1531,6 +1547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 676239,
+      "num": 676239,
+      "word": "杨洋王楚然剧照 太阳的后裔",
+      "onboard_time": 1685603249,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 675940,
       "num": 675940,
       "word": "密室大逃脱",
@@ -1867,6 +1891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 583841,
+      "num": 583841,
+      "word": "EXO是我们公司非常珍惜的艺人",
+      "onboard_time": 1685606306,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 582791,
       "num": 566186,
       "word": "你管周也这张脸叫普普通通",
@@ -2067,14 +2099,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 528951,
-      "num": 528951,
-      "word": "柳州",
-      "onboard_time": 1685538987,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 527372,
       "num": 527372,
       "word": "云南事业单位",
@@ -2193,6 +2217,14 @@
       "onboard_time": 1685454514,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 513379,
+      "num": 513379,
+      "word": "赵雅芝70岁状态有多绝",
+      "onboard_time": 1685604927,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 509432,
@@ -2355,14 +2387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 485229,
-      "num": 485229,
-      "word": "杨洋王楚然剧照 太阳的后裔",
-      "onboard_time": 1685603249,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 484937,
       "num": 484937,
       "word": "杭州LGD更名",
@@ -2433,6 +2457,14 @@
       "onboard_time": 1685501967,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 469321,
+      "num": 469321,
+      "word": "ChatGPT高三考试仅物理得零分",
+      "onboard_time": 1685602770,
+      "rank": 22,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 468625,
@@ -2515,14 +2547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 454161,
-      "num": 344176,
-      "word": "男生接女友下班遭车祸致1死1病危",
-      "onboard_time": 1685603186,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 450384,
       "num": 450384,
       "word": "终于等到肖春生了",
@@ -2561,6 +2585,14 @@
       "onboard_time": 1685409568,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 437774,
+      "num": 437774,
+      "word": "EXO新歌MV拍摄取消",
+      "onboard_time": 1685606668,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 437444,
@@ -2843,14 +2875,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 402186,
-      "num": 181179,
-      "word": "ChatGPT高三考试仅物理得零分",
-      "onboard_time": 1685602770,
-      "rank": 22,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 402062,
       "num": 402062,
       "word": "张翰新剧演庄周",
@@ -2956,7 +2980,7 @@
     },
     {
       "raw_hot": 393775,
-      "num": 181832,
+      "num": 242906,
       "word": "女子被骗至金三角吸毒卖淫获救",
       "onboard_time": 1685600667,
       "rank": 30,
@@ -3216,6 +3240,14 @@
       "word": "这么好的夏天 要是有钱就好了",
       "onboard_time": 1685345728,
       "rank": 15,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 363434,
+      "num": 363434,
+      "word": "就喜欢纯爱",
+      "onboard_time": 1685602106,
+      "rank": 28,
       "category": "情感"
     },
     {
@@ -3803,14 +3835,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 317277,
-      "num": 317277,
-      "word": "就喜欢纯爱",
-      "onboard_time": 1685602106,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 315482,
       "num": 315482,
       "word": "织金通报教师不幸溺亡事件",
@@ -3841,6 +3865,14 @@
       "onboard_time": 1685455657,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 313379,
+      "num": 313379,
+      "word": "SMTOWN说钱不重要",
+      "onboard_time": 1685603726,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 312385,
@@ -4300,7 +4332,7 @@
     },
     {
       "raw_hot": 279102,
-      "num": 181555,
+      "num": 242797,
       "word": "面试千万不要太老实",
       "onboard_time": 1685602106,
       "rank": 21,
@@ -4545,6 +4577,14 @@
       "onboard_time": 1685278589,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269436,
+      "num": 189493,
+      "word": "莫文蔚让张韶涵杨宗纬赶快结婚",
+      "onboard_time": 1685604867,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 269421,
@@ -5091,6 +5131,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 244193,
+      "num": 182898,
+      "word": "乐华家族演唱会有王一博",
+      "onboard_time": 1685606668,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244156,
       "num": 244156,
       "word": "年轻人有必要背上高额房贷买房吗",
@@ -5129,6 +5177,14 @@
       "onboard_time": 1685267489,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242915,
+      "num": 242915,
+      "word": "阿根廷中国行票价",
+      "onboard_time": 1685604446,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 242282,
@@ -5899,14 +5955,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 210549,
-      "num": 210549,
-      "word": "SMTOWN说钱不重要",
-      "onboard_time": 1685603726,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 210110,
       "num": 210110,
       "word": "阿德巴约",
@@ -6259,6 +6307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201162,
+      "num": 178142,
+      "word": "肖战新剧不断更",
+      "onboard_time": 1685607086,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201074,
       "num": 201074,
       "word": "2023PEL夏季赛大名单",
@@ -6588,7 +6644,7 @@
     },
     {
       "raw_hot": 193246,
-      "num": 1006962,
+      "num": 1157442,
       "word": "无论几岁快乐万岁",
       "onboard_time": 1685596827,
       "rank": 2,
@@ -6953,6 +7009,14 @@
       "onboard_time": 1685584407,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 183113,
+      "num": 163346,
+      "word": "乐华2023家族演唱会全阵容公布",
+      "onboard_time": 1685606007,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 183084,
@@ -7539,6 +7603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162717,
+      "num": 162717,
+      "word": "好多女明星扎双马尾啊",
+      "onboard_time": 1685604506,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161589,
       "num": 161589,
       "word": "梦中那片海定档",
@@ -8107,6 +8179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134843,
+      "num": 134843,
+      "word": "特斯拉",
+      "onboard_time": 1685605588,
+      "rank": 34,
+      "category": "科技"
+    },
+    {
       "raw_hot": 134694,
       "num": 330129,
       "word": "荣耀90首发2亿像素写真相机",
@@ -8241,14 +8321,6 @@
       "onboard_time": 1685287111,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129713,
-      "num": 115453,
-      "word": "好多女明星扎双马尾啊",
-      "onboard_time": 1685604506,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 129070,
@@ -8835,14 +8907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101903,
-      "num": 101903,
-      "word": "阿根廷中国行票价",
-      "onboard_time": 1685604446,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 100779,
       "num": 316761,
       "word": "今晚有多少明星在天猫618直播",
@@ -8905,6 +8969,14 @@
       "onboard_time": 1685338767,
       "rank": 10,
       "category": "科技"
+    },
+    {
+      "raw_hot": 95528,
+      "num": 163819,
+      "word": "男孩表演时看到爸爸一秒变开心",
+      "onboard_time": 1685606487,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93592,
@@ -9051,6 +9123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82375,
+      "num": 105051,
+      "word": "柯基被砍当事人对侮辱诽谤已报警",
+      "onboard_time": 1685607508,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82016,
       "num": 397695,
       "word": "年轻人的夜拍搭子",
@@ -9155,12 +9235,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73218,
+      "num": 104961,
+      "word": "我国首艘国产大型邮轮完成起浮",
+      "onboard_time": 1685607205,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73175,
       "num": 73175,
       "word": "张彬彬被粉丝虎狼之词整懵了",
       "onboard_time": 1685313617,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72847,
+      "num": 104853,
+      "word": "等以后下地狱了想要哪个角",
+      "onboard_time": 1685607629,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 71908,
@@ -9521,6 +9617,14 @@
       "onboard_time": 1685403326,
       "rank": 29,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 25842,
+      "num": 336929,
+      "word": "儿童节惊喜是铁骑小姐姐给的",
+      "onboard_time": 1685598087,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25795,
