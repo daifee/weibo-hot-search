@@ -1,0 +1,410 @@
+{
+  "runTime": 1685628947176,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1895298,
+        "num": 1895298,
+        "word": "柳州与女子不雅聊天公职人员被免职",
+        "onboard_time": 1685624428,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1307862,
+        "num": 1307862,
+        "word": "肖战台词",
+        "onboard_time": 1685624309,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29451,
+        "num": 1234630,
+        "word": "打卡中国",
+        "onboard_time": 1685608468,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1205693,
+        "num": 1205693,
+        "word": "金智秀新冠确诊",
+        "onboard_time": 1685626952,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 886032,
+        "num": 886032,
+        "word": "梦中的那片海开播收视率",
+        "onboard_time": 1685624848,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 529898,
+        "num": 529898,
+        "word": "男人眼中的6分女和6分男",
+        "onboard_time": 1685622988,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 515360,
+        "num": 515360,
+        "word": "虞书欣直播",
+        "onboard_time": 1685626592,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511656,
+        "num": 511656,
+        "word": "五月天王源合唱",
+        "onboard_time": 1685625570,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 437426,
+        "num": 437426,
+        "word": "百度网盘被苹果AppStore下架",
+        "onboard_time": 1685611647,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 402426,
+        "num": 402426,
+        "word": "WBG零封JDG",
+        "onboard_time": 1685624668,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1280262,
+        "num": 395204,
+        "word": "江歌母亲称已收到刘鑫全部赔偿款",
+        "onboard_time": 1685620705,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1064913,
+        "num": 386209,
+        "word": "李湘王岳伦带王诗龄逛街",
+        "onboard_time": 1685620766,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 617467,
+        "num": 370972,
+        "word": "官方通报局长出轨女经理",
+        "onboard_time": 1685605467,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495743,
+        "num": 362839,
+        "word": "Jennie小松菜奈热聊",
+        "onboard_time": 1685628095,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452375,
+        "num": 356000,
+        "word": "李念官宣生三胎",
+        "onboard_time": 1685612789,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346075,
+        "num": 346075,
+        "word": "五月天王源唱如果我们不曾相遇",
+        "onboard_time": 1685614647,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 298463,
+        "num": 298463,
+        "word": "杨洋王楚然剧照 太阳的后裔",
+        "onboard_time": 1685603249,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291233,
+        "num": 291233,
+        "word": "刘青松",
+        "onboard_time": 1685624491,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 246097,
+        "num": 246097,
+        "word": "研究生辞谢信彰显卧龙凤雏",
+        "onboard_time": 1685627791,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227124,
+        "num": 227124,
+        "word": "弟弟故意输掉比赛守护坐轮椅姐姐",
+        "onboard_time": 1685618847,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389509,
+        "num": 226034,
+        "word": "肖战拍的最久的一场戏",
+        "onboard_time": 1685625329,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373549,
+        "num": 224808,
+        "word": "河南人和山东人都别沉默了",
+        "onboard_time": 1685620466,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356915,
+        "num": 221860,
+        "word": "女子退猫被拒后直接把猫摔死",
+        "onboard_time": 1685621187,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346351,
+        "num": 220370,
+        "word": "王诗龄晒健身照",
+        "onboard_time": 1685626290,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282851,
+        "num": 218947,
+        "word": "唐僧为什么忘记替老龟问寿命",
+        "onboard_time": 1685617647,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 278803,
+        "num": 217897,
+        "word": "宋祖儿显眼肚",
+        "onboard_time": 1685624189,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259282,
+        "num": 214553,
+        "word": "赵丽颖儿童节看小时候的画册",
+        "onboard_time": 1685625211,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26472,
+        "num": 214155,
+        "word": "新能源大五座SUV有多卷",
+        "onboard_time": 1685627491,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 239879,
+        "num": 211528,
+        "word": "迪丽热巴说还是会拍古装剧偶像剧",
+        "onboard_time": 1685627972,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210768,
+        "num": 210768,
+        "word": "拼多多补贴力度不像是演的",
+        "onboard_time": 1685619325,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238460,
+        "num": 209738,
+        "word": "侯明昊周也 双人舞请尽快安排",
+        "onboard_time": 1685623407,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236374,
+        "num": 207167,
+        "word": "王一博看秀内场照",
+        "onboard_time": 1685625211,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 229131,
+        "num": 205000,
+        "word": "TFBOYS十周年演唱会灯牌设计",
+        "onboard_time": 1685616086,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 225154,
+        "num": 201688,
+        "word": "EXO是我们公司非常珍惜的艺人",
+        "onboard_time": 1685606306,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199590,
+        "num": 199590,
+        "word": "曝本泽马确定离开皇马",
+        "onboard_time": 1685627012,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215531,
+        "num": 199515,
+        "word": "玫瑰故事",
+        "onboard_time": 1685627913,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198720,
+        "num": 198720,
+        "word": "天同",
+        "onboard_time": 1685625088,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194159,
+        "num": 194159,
+        "word": "阿根廷中国行票价公布",
+        "onboard_time": 1685627555,
+        "rank": 37,
+        "category": "体育,旅游"
+      },
+      {
+        "raw_hot": 168845,
+        "num": 168845,
+        "word": "WBG对战JDG",
+        "onboard_time": 1685618367,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168619,
+        "num": 168619,
+        "word": "椿山漫 抄袭",
+        "onboard_time": 1685618245,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205283,
+        "num": 168516,
+        "word": "张予曦是真公主吧",
+        "onboard_time": 1685624129,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204372,
+        "num": 167970,
+        "word": "梦中的那片海",
+        "onboard_time": 1685622867,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199813,
+        "num": 167638,
+        "word": "迪丽热巴回应脸不像检察官",
+        "onboard_time": 1685600970,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199374,
+        "num": 167342,
+        "word": "五月天 hush",
+        "onboard_time": 1685626772,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172616,
+        "num": 167068,
+        "word": "钟汉良儿童节请团队看五月天",
+        "onboard_time": 1685628752,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169903,
+        "num": 166702,
+        "word": "尤靖茹回应艳压",
+        "onboard_time": 1685623948,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166580,
+        "num": 166580,
+        "word": "ChatGPT高三考试仅物理得零分",
+        "onboard_time": 1685602770,
+        "rank": 46,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 162531,
+        "num": 162531,
+        "word": "巴黎主帅确认梅西即将离队",
+        "onboard_time": 1685621609,
+        "rank": 47,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 161572,
+        "num": 161572,
+        "word": "JDG打野",
+        "onboard_time": 1685621787,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152711,
+        "num": 152711,
+        "word": "男生接女友下班遭车祸致1死1病危",
+        "onboard_time": 1685603186,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#争当德智体美劳全面发展的新时代好儿童#"
+    }
+  }
+}

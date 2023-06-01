@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685626452065,
+  "endTime": 1685628947176,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1895298,
+      "num": 1895298,
+      "word": "柳州与女子不雅聊天公职人员被免职",
+      "onboard_time": 1685624428,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1827953,
       "num": 1827953,
       "word": "明星谴责虐待动物者却遭曝光个人信息",
@@ -88,14 +96,6 @@
       "word": "男生接女友下班遭车祸致1死1病危",
       "onboard_time": 1685603186,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1516785,
-      "num": 1516785,
-      "word": "柳州与女子不雅聊天公职人员被免职",
-      "onboard_time": 1685624428,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -195,6 +195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1205693,
+      "num": 1205693,
+      "word": "金智秀新冠确诊",
+      "onboard_time": 1685626952,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1147186,
       "num": 792011,
       "word": "女子退猫被拒后直接把猫摔死",
@@ -283,6 +291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 886032,
+      "num": 886032,
+      "word": "梦中的那片海开播收视率",
+      "onboard_time": 1685624848,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 855032,
       "num": 855032,
       "word": "肖战刘芮麟新剧演兄弟",
@@ -304,14 +320,6 @@
       "word": "别把医术拍成了法术",
       "onboard_time": 1685579007,
       "rank": 7,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 730443,
-      "num": 730443,
-      "word": "梦中的那片海开播收视率",
-      "onboard_time": 1685624848,
-      "rank": 17,
       "category": "影视"
     },
     {
@@ -491,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 529898,
+      "num": 529898,
+      "word": "男人眼中的6分女和6分男",
+      "onboard_time": 1685622988,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 527372,
       "num": 527372,
       "word": "云南事业单位",
@@ -515,6 +531,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 515360,
+      "num": 515360,
+      "word": "虞书欣直播",
+      "onboard_time": 1685626592,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 511656,
+      "num": 511656,
+      "word": "五月天王源合唱",
+      "onboard_time": 1685625570,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 502975,
       "num": 502975,
       "word": "五月天王源唱如果我们不曾相遇",
@@ -529,6 +561,14 @@
       "onboard_time": 1685586086,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 495743,
+      "num": 362839,
+      "word": "Jennie小松菜奈热聊",
+      "onboard_time": 1685628095,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 488933,
@@ -619,14 +659,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 420021,
-      "num": 376928,
-      "word": "五月天王源合唱",
-      "onboard_time": 1685625570,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 419918,
       "num": 419918,
       "word": "柯基被砍当事人对侮辱诽谤已报警",
@@ -707,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 389509,
+      "num": 298984,
+      "word": "肖战拍的最久的一场戏",
+      "onboard_time": 1685625329,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 378711,
       "num": 352953,
       "word": "河南人和山东人都别沉默了",
@@ -779,14 +819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 355370,
-      "num": 298984,
-      "word": "肖战拍的最久的一场戏",
-      "onboard_time": 1685625329,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 350994,
       "num": 350994,
       "word": "百度贴吧回应女子婚纱照被盗孙吧",
@@ -809,6 +841,14 @@
       "onboard_time": 1685525007,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346351,
+      "num": 220370,
+      "word": "王诗龄晒健身照",
+      "onboard_time": 1685626290,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 345058,
@@ -1011,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 291233,
+      "num": 291233,
+      "word": "刘青松",
+      "onboard_time": 1685624491,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 289851,
       "num": 188654,
       "word": "找到周深叫周深的原因了",
@@ -1099,14 +1147,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 277125,
-      "num": 277125,
-      "word": "男人眼中的6分女和6分男",
-      "onboard_time": 1685622988,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 276927,
       "num": 276927,
       "word": "儿童套餐",
@@ -1171,20 +1211,20 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 259282,
+      "num": 250149,
+      "word": "赵丽颖儿童节看小时候的画册",
+      "onboard_time": 1685625211,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256981,
       "num": 256981,
       "word": "赵丽颖被起哄了",
       "onboard_time": 1685531787,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 256877,
-      "num": 256877,
-      "word": "刘青松",
-      "onboard_time": 1685624491,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 256527,
@@ -1251,14 +1291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 250149,
-      "num": 250149,
-      "word": "赵丽颖儿童节看小时候的画册",
-      "onboard_time": 1685625211,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 249290,
       "num": 249290,
       "word": "很多中国家庭培养女儿 公婆视角",
@@ -1281,6 +1313,14 @@
       "onboard_time": 1685585187,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246097,
+      "num": 246097,
+      "word": "研究生辞谢信彰显卧龙凤雏",
+      "onboard_time": 1685627791,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 244193,
@@ -1347,6 +1387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 239879,
+      "num": 211528,
+      "word": "迪丽热巴说还是会拍古装剧偶像剧",
+      "onboard_time": 1685627972,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 239098,
       "num": 239098,
       "word": "你有超过七年的友谊吗",
@@ -1361,6 +1409,14 @@
       "onboard_time": 1685584646,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 236374,
+      "num": 227047,
+      "word": "王一博看秀内场照",
+      "onboard_time": 1685625211,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 235894,
@@ -1411,14 +1467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227047,
-      "num": 227047,
-      "word": "王一博看秀内场照",
-      "onboard_time": 1685625211,
-      "rank": 40,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 225903,
       "num": 225903,
       "word": "当有人说他从大厂出来belike",
@@ -1465,6 +1513,14 @@
       "onboard_time": 1685626111,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215531,
+      "num": 199515,
+      "word": "玫瑰故事",
+      "onboard_time": 1685627913,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 215148,
@@ -1595,6 +1651,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199590,
+      "num": 199590,
+      "word": "曝本泽马确定离开皇马",
+      "onboard_time": 1685627012,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 199374,
+      "num": 167342,
+      "word": "五月天 hush",
+      "onboard_time": 1685626772,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 198720,
+      "num": 198720,
+      "word": "天同",
+      "onboard_time": 1685625088,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197936,
       "num": 197936,
       "word": "林志颖即将复出",
@@ -1617,6 +1697,14 @@
       "onboard_time": 1685544932,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194159,
+      "num": 194159,
+      "word": "阿根廷中国行票价公布",
+      "onboard_time": 1685627555,
+      "rank": 37,
+      "category": "体育,旅游"
     },
     {
       "raw_hot": 193780,
@@ -1747,14 +1835,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 183543,
-      "num": 183543,
-      "word": "王诗龄晒健身照",
-      "onboard_time": 1685626290,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 183468,
       "num": 183468,
       "word": "宋茜的mbti",
@@ -1803,14 +1883,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 180103,
-      "num": 180103,
-      "word": "天同",
-      "onboard_time": 1685625088,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172903,
       "num": 172903,
       "word": "请张彬彬不要随意解衬衫",
@@ -1825,6 +1897,14 @@
       "onboard_time": 1685607926,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172616,
+      "num": 167068,
+      "word": "钟汉良儿童节请团队看五月天",
+      "onboard_time": 1685628752,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 172278,
@@ -2601,6 +2681,14 @@
       "onboard_time": 1685559674,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 26472,
+      "num": 214155,
+      "word": "新能源大五座SUV有多卷",
+      "onboard_time": 1685627491,
+      "rank": 27,
+      "category": "科技"
     },
     {
       "raw_hot": 21272,
