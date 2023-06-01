@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685596570097,
+  "endTime": 1685597602986,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -1075,6 +1075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 977357,
+      "num": 977357,
+      "word": "肖战迪丽热巴童话里走出来的王子公主",
+      "onboard_time": 1685594189,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 970422,
       "num": 589983,
       "word": "柯基",
@@ -1568,14 +1576,6 @@
       "word": "付辛博带路人儿子上厕所",
       "onboard_time": 1685346268,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 647146,
-      "num": 298583,
-      "word": "肖战迪丽热巴童话里走出来的王子公主",
-      "onboard_time": 1685594189,
-      "rank": 20,
       "category": "艺人"
     },
     {
@@ -2243,6 +2243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 495933,
+      "num": 495933,
+      "word": "情侣之间有必要过六一吗",
+      "onboard_time": 1685592988,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 495614,
       "num": 495614,
       "word": "坐火箭太爽了",
@@ -2337,14 +2345,6 @@
       "onboard_time": 1685455116,
       "rank": 46,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 478653,
-      "num": 478653,
-      "word": "情侣之间有必要过六一吗",
-      "onboard_time": 1685592988,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 478234,
@@ -3235,6 +3235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348932,
+      "num": 290858,
+      "word": "丫丫和新家人祝大家儿童节快乐",
+      "onboard_time": 1685594189,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346972,
       "num": 346972,
       "word": "iPhone15",
@@ -3395,6 +3403,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 333733,
+      "num": 178067,
+      "word": "刘昊然手机很烂应该是他",
+      "onboard_time": 1685596649,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332567,
       "num": 257219,
       "word": "财阀家的小儿子将拍第二季",
@@ -3481,14 +3497,6 @@
       "onboard_time": 1685531249,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 326876,
-      "num": 290858,
-      "word": "丫丫和新家人祝大家儿童节快乐",
-      "onboard_time": 1685594189,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 326386,
@@ -4193,6 +4201,14 @@
       "onboard_time": 1685269769,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 277349,
+      "num": 169509,
+      "word": "陈伟霆喊章若楠小朋友",
+      "onboard_time": 1685595869,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 276927,
@@ -5123,6 +5139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235894,
+      "num": 181825,
+      "word": "郑秀晶的腹肌隔着衣服都能看到",
+      "onboard_time": 1685594971,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235862,
       "num": 235862,
       "word": "神十五神十六航天员太空会师",
@@ -5161,6 +5185,14 @@
       "onboard_time": 1685430448,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 233750,
+      "num": 152819,
+      "word": "陈宥维",
+      "onboard_time": 1685597069,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 233746,
@@ -5561,14 +5593,6 @@
       "onboard_time": 1685353828,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 219251,
-      "num": 181825,
-      "word": "郑秀晶的腹肌隔着衣服都能看到",
-      "onboard_time": 1685594971,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 218141,
@@ -6387,6 +6411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 193246,
+      "num": 1006962,
+      "word": "无论几岁快乐万岁",
+      "onboard_time": 1685596827,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193231,
       "num": 193231,
       "word": "好多明星去了五月天演唱会",
@@ -6545,14 +6577,6 @@
       "onboard_time": 1685329407,
       "rank": 40,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 189237,
-      "num": 164837,
-      "word": "陈伟霆喊章若楠小朋友",
-      "onboard_time": 1685595869,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 189141,
@@ -7075,6 +7099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168627,
+      "num": 168627,
+      "word": "六月好运",
+      "onboard_time": 1685596587,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168466,
       "num": 242464,
       "word": "和同频的人在一起真的很幸福",
@@ -7553,6 +7585,14 @@
       "onboard_time": 1685347767,
       "rank": 31,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 151567,
+      "num": 151567,
+      "word": "Angelababy赵露思将录制你好星期六",
+      "onboard_time": 1685597069,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 150717,
@@ -8819,6 +8859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71465,
+      "num": 481845,
+      "word": "6月的第一张照片",
+      "onboard_time": 1685594309,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70124,
       "num": 1498440,
       "word": "神舟十六号航天员见面会",
@@ -8953,14 +9001,6 @@
       "onboard_time": 1685466199,
       "rank": 48,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 54318,
-      "num": 481845,
-      "word": "6月的第一张照片",
-      "onboard_time": 1685594309,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53746,
@@ -9099,6 +9139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33111,
+      "num": 471138,
+      "word": "童心限时回归体验卡请查收",
+      "onboard_time": 1685595629,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31905,
       "num": 36535,
       "word": "周深璀璨冒险人舞美寓意",
@@ -9179,14 +9227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23311,
-      "num": 471138,
-      "word": "童心限时回归体验卡请查收",
-      "onboard_time": 1685595629,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 23303,
       "num": 192411,
       "word": "伊能静的育儿好物",
@@ -9209,6 +9249,14 @@
       "onboard_time": 1685465242,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 21272,
+      "num": 151626,
+      "word": "儿童节收到来自小朋友的反向祝福",
+      "onboard_time": 1685595629,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21081,
@@ -9281,14 +9329,6 @@
       "onboard_time": 1685419229,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12831,
-      "num": 150123,
-      "word": "儿童节收到来自小朋友的反向祝福",
-      "onboard_time": 1685595629,
-      "rank": 39,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -9330,6 +9370,9 @@
     },
     {
       "word": "#少年志#"
+    },
+    {
+      "word": "#总书记给少年儿童的二十四字箴言#"
     }
   ]
 }
