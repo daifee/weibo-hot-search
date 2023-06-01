@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685597602986,
+  "endTime": 1685600559164,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -859,20 +859,20 @@
       "category": "财经,幽默"
     },
     {
+      "raw_hot": 1139383,
+      "num": 1139383,
+      "word": "事业单位",
+      "onboard_time": 1685589866,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1138318,
       "num": 1138318,
       "word": "竟然有人不认识宋丹丹",
       "onboard_time": 1685324127,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1136300,
-      "num": 1136300,
-      "word": "事业单位",
-      "onboard_time": 1685589866,
-      "rank": 20,
-      "category": "教育"
     },
     {
       "raw_hot": 1135670,
@@ -1123,6 +1123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 941037,
+      "num": 431595,
+      "word": "刘昊然手机很烂应该是他",
+      "onboard_time": 1685596649,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 929988,
       "num": 929988,
       "word": "秦昊恋爱脑",
@@ -1168,6 +1176,14 @@
       "word": "他用生命最后76秒救了24名乘客",
       "onboard_time": 1685322328,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 891930,
+      "num": 429799,
+      "word": "横着亲",
+      "onboard_time": 1685597789,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1523,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 664353,
+      "num": 664353,
+      "word": "情侣之间有必要过六一吗",
+      "onboard_time": 1685592988,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 661520,
       "num": 661520,
       "word": "国乒12人参赛11人夺牌",
@@ -1577,6 +1601,14 @@
       "onboard_time": 1685346268,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 638860,
+      "num": 638860,
+      "word": "广东夫妇",
+      "onboard_time": 1685598504,
+      "rank": 5,
+      "category": "网红"
     },
     {
       "raw_hot": 636586,
@@ -1865,6 +1897,14 @@
       "onboard_time": 1685535265,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 566764,
+      "num": 566764,
+      "word": "8岁摄影师拍李现是被人抱起来的",
+      "onboard_time": 1685597668,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 559462,
@@ -2243,14 +2283,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 495933,
-      "num": 495933,
-      "word": "情侣之间有必要过六一吗",
-      "onboard_time": 1685592988,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 495614,
       "num": 495614,
       "word": "坐火箭太爽了",
@@ -2537,6 +2569,14 @@
       "onboard_time": 1685587765,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 428609,
+      "num": 428609,
+      "word": "挖呀挖黄老师发视频祝六一快乐",
+      "onboard_time": 1685598746,
+      "rank": 13,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 428340,
@@ -2873,6 +2913,14 @@
       "onboard_time": 1685527646,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 392458,
+      "num": 392458,
+      "word": "陈宥维",
+      "onboard_time": 1685597069,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 391023,
@@ -3401,14 +3449,6 @@
       "onboard_time": 1685333731,
       "rank": 41,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 333733,
-      "num": 178067,
-      "word": "刘昊然手机很烂应该是他",
-      "onboard_time": 1685596649,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 332567,
@@ -4115,6 +4155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 282107,
+      "num": 188654,
+      "word": "找到周深叫周深的原因了",
+      "onboard_time": 1685598026,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 280598,
       "num": 280598,
       "word": "李现芭莎年度派对上班路透",
@@ -4699,6 +4747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252943,
+      "num": 433132,
+      "word": "为什么我们不聊杰克辣条",
+      "onboard_time": 1685597789,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252878,
       "num": 252878,
       "word": "丁程鑫刘宇同框",
@@ -4947,6 +5003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243759,
+      "num": 188244,
+      "word": "王一博东京街头漫步随拍",
+      "onboard_time": 1685598687,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243655,
       "num": 243655,
       "word": "吴磊现偶苏神",
@@ -5185,14 +5249,6 @@
       "onboard_time": 1685430448,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 233750,
-      "num": 152819,
-      "word": "陈宥维",
-      "onboard_time": 1685597069,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 233746,
@@ -6715,6 +6771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183820,
+      "num": 183820,
+      "word": "蔡徐坤澳门演唱会倒计时两天",
+      "onboard_time": 1685599407,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 183595,
       "num": 183595,
       "word": "内娱四大现偶苏神",
@@ -7459,6 +7523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157978,
+      "num": 186705,
+      "word": "胡锡进 毕节如此提防记者是在怕什么",
+      "onboard_time": 1685597967,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157524,
       "num": 157524,
       "word": "蛋仔派对",
@@ -7761,6 +7833,14 @@
       "onboard_time": 1685529147,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 143089,
+      "num": 160552,
+      "word": "狗狗耳朵上的小夹层是做啥用的",
+      "onboard_time": 1685599228,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 141910,
@@ -8339,6 +8419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 118687,
+      "num": 158295,
+      "word": "金龟子说8090后不必为长大道歉",
+      "onboard_time": 1685599887,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117963,
       "num": 117963,
       "word": "Ella你在乘风2023教了什么",
@@ -8675,12 +8763,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89808,
+      "num": 157173,
+      "word": "究竟谁在过节",
+      "onboard_time": 1685599828,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 89729,
       "num": 156860,
       "word": "FPX战胜TT",
       "onboard_time": 1685371595,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 89371,
+      "num": 157055,
+      "word": "真的很需要这个海绵宝宝",
+      "onboard_time": 1685598388,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 87497,
+      "num": 157277,
+      "word": "养猫家庭的崩溃瞬间",
+      "onboard_time": 1685599287,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 86510,
@@ -8793,6 +8905,14 @@
       "onboard_time": 1685463925,
       "rank": 29,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 77255,
+      "num": 156786,
+      "word": "第一次看到脾气这么好的领导",
+      "onboard_time": 1685599586,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 75250,

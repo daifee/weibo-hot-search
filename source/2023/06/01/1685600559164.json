@@ -1,0 +1,410 @@
+{
+  "runTime": 1685600559164,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1139383,
+        "num": 1139383,
+        "word": "事业单位",
+        "onboard_time": 1685589866,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 664353,
+        "num": 664353,
+        "word": "情侣之间有必要过六一吗",
+        "onboard_time": 1685592988,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88533,
+        "num": 645892,
+        "word": "无论几岁快乐万岁",
+        "onboard_time": 1685596827,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 987652,
+        "num": 643804,
+        "word": "杨幂IP地址在香港",
+        "onboard_time": 1685592628,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 766622,
+        "num": 643059,
+        "word": "肖战迪丽热巴童话里走出来的王子公主",
+        "onboard_time": 1685594189,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 638860,
+        "num": 638860,
+        "word": "广东夫妇",
+        "onboard_time": 1685598504,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 566764,
+        "num": 566764,
+        "word": "8岁摄影师拍李现是被人抱起来的",
+        "onboard_time": 1685597668,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545732,
+        "num": 545732,
+        "word": "假性亲密关系",
+        "onboard_time": 1685580387,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 433329,
+        "num": 433329,
+        "word": "杨洋王楚然废墟救赎感剧照",
+        "onboard_time": 1685587647,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252943,
+        "num": 433132,
+        "word": "为什么我们不聊杰克辣条",
+        "onboard_time": 1685597789,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 941037,
+        "num": 431595,
+        "word": "刘昊然手机很烂应该是他",
+        "onboard_time": 1685596649,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 891930,
+        "num": 429799,
+        "word": "横着亲",
+        "onboard_time": 1685597789,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607306,
+        "num": 429215,
+        "word": "Angelababy是靠什么长红多年的",
+        "onboard_time": 1685588486,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428609,
+        "num": 428609,
+        "word": "挖呀挖黄老师发视频祝六一快乐",
+        "onboard_time": 1685598746,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 398708,
+        "num": 398708,
+        "word": "边伯贤金珉锡金钟大与SMTOWN解约",
+        "onboard_time": 1685581949,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275342,
+        "num": 395094,
+        "word": "杭州LGD更名",
+        "onboard_time": 1685593770,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 392458,
+        "num": 392458,
+        "word": "陈宥维",
+        "onboard_time": 1685597069,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381675,
+        "num": 381675,
+        "word": "吴磊 快走吧哥们要累死了",
+        "onboard_time": 1685585607,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243439,
+        "num": 243439,
+        "word": "你的六一我的六一好像不一样",
+        "onboard_time": 1685586086,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188918,
+        "num": 188918,
+        "word": "马斯克再次成世界首富",
+        "onboard_time": 1685591667,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282107,
+        "num": 188654,
+        "word": "找到周深叫周深的原因了",
+        "onboard_time": 1685598026,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 243759,
+        "num": 188244,
+        "word": "王一博东京街头漫步随拍",
+        "onboard_time": 1685598687,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221976,
+        "num": 187389,
+        "word": "丫丫和新家人祝大家儿童节快乐",
+        "onboard_time": 1685594189,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213105,
+        "num": 187121,
+        "word": "明星谴责虐待动物者却遭曝光个人信息",
+        "onboard_time": 1685579429,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 157978,
+        "num": 186705,
+        "word": "胡锡进 毕节如此提防记者是在怕什么",
+        "onboard_time": 1685597967,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207389,
+        "num": 186339,
+        "word": "EXO还回归吗",
+        "onboard_time": 1685582488,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195287,
+        "num": 185618,
+        "word": "别把医术拍成了法术",
+        "onboard_time": 1685579007,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193791,
+        "num": 185014,
+        "word": "杨紫芭莎吃糖油饼大片",
+        "onboard_time": 1685593889,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 133397,
+        "num": 184716,
+        "word": "原神儿童节",
+        "onboard_time": 1685593529,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97119,
+        "num": 183822,
+        "word": "2023高考报名人数1291万人",
+        "onboard_time": 1685585246,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 183820,
+        "num": 183820,
+        "word": "蔡徐坤澳门演唱会倒计时两天",
+        "onboard_time": 1685599407,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180252,
+        "num": 180252,
+        "word": "你喜欢大海 我承包岛",
+        "onboard_time": 1685579847,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179857,
+        "num": 179857,
+        "word": "肖战刘芮麟新剧演兄弟",
+        "onboard_time": 1685589806,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165119,
+        "num": 165119,
+        "word": "郑秀晶的腹肌隔着衣服都能看到",
+        "onboard_time": 1685594971,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143089,
+        "num": 160552,
+        "word": "狗狗耳朵上的小夹层是做啥用的",
+        "onboard_time": 1685599228,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158329,
+        "num": 158329,
+        "word": "易烊千玺主打穿搭",
+        "onboard_time": 1685595271,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118687,
+        "num": 158295,
+        "word": "金龟子说8090后不必为长大道歉",
+        "onboard_time": 1685599887,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102021,
+        "num": 158107,
+        "word": "他送我生日礼物是杯52颗珍珠的奶茶",
+        "onboard_time": 1685590468,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97015,
+        "num": 157991,
+        "word": "摩尔庄园",
+        "onboard_time": 1685587765,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90189,
+        "num": 157837,
+        "word": "六一文案",
+        "onboard_time": 1685576184,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157793,
+        "num": 157793,
+        "word": "陈伟霆喊章若楠小朋友",
+        "onboard_time": 1685595869,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140122,
+        "num": 157750,
+        "word": "五月天嘉宾 王源",
+        "onboard_time": 1685586086,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136099,
+        "num": 157565,
+        "word": "这两部剧排播还怪好嘞",
+        "onboard_time": 1685591727,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117888,
+        "num": 157544,
+        "word": "Jennie和朋友东京逛街",
+        "onboard_time": 1685594609,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115142,
+        "num": 157336,
+        "word": "SMTOWN新男团目前公开成员",
+        "onboard_time": 1685590287,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87497,
+        "num": 157277,
+        "word": "养猫家庭的崩溃瞬间",
+        "onboard_time": 1685599287,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 89808,
+        "num": 157173,
+        "word": "究竟谁在过节",
+        "onboard_time": 1685599828,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89371,
+        "num": 157055,
+        "word": "真的很需要这个海绵宝宝",
+        "onboard_time": 1685598388,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83490,
+        "num": 156901,
+        "word": "产妇羊水栓塞医生集体赶来抢救",
+        "onboard_time": 1685582366,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77255,
+        "num": 156786,
+        "word": "第一次看到脾气这么好的领导",
+        "onboard_time": 1685599586,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席向全国广大少年儿童祝贺节日#"
+    }
+  }
+}
