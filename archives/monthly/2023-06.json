@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685643719674,
+  "endTime": 1685644498077,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -2883,6 +2883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37756,
+      "num": 37756,
+      "word": "易烊千玺灯牌线上店铺被投诉",
+      "onboard_time": 1685643554,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 35645,
       "num": 206363,
       "word": "TVB直播带货成交额破亿",
@@ -2897,14 +2905,6 @@
       "onboard_time": 1685595629,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32367,
-      "num": 32367,
-      "word": "易烊千玺灯牌线上店铺被投诉",
-      "onboard_time": 1685643554,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 31905,
