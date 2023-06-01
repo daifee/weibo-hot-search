@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685600559164,
+  "endTime": 1685601329747,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -115,12 +115,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 941037,
+      "raw_hot": 962741,
       "num": 431595,
       "word": "刘昊然手机很烂应该是他",
       "onboard_time": 1685596649,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 931600,
+      "num": 429799,
+      "word": "横着亲",
+      "onboard_time": 1685597789,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 914174,
@@ -131,12 +139,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 891930,
-      "num": 429799,
-      "word": "横着亲",
-      "onboard_time": 1685597789,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 905638,
+      "num": 905638,
+      "word": "广东夫妇",
+      "onboard_time": 1685598504,
+      "rank": 5,
+      "category": "网红"
     },
     {
       "raw_hot": 855032,
@@ -187,20 +195,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 661201,
+      "num": 661201,
+      "word": "8岁摄影师拍李现是被人抱起来的",
+      "onboard_time": 1685597668,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 656230,
+      "num": 656230,
+      "word": "挖呀挖黄老师发视频祝六一快乐",
+      "onboard_time": 1685598746,
+      "rank": 13,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 655398,
       "num": 655398,
       "word": "杨紫化妆师删博",
       "onboard_time": 1685539347,
       "rank": 4,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 638860,
-      "num": 638860,
-      "word": "广东夫妇",
-      "onboard_time": 1685598504,
-      "rank": 5,
-      "category": "网红"
     },
     {
       "raw_hot": 608568,
@@ -233,14 +249,6 @@
       "onboard_time": 1685536646,
       "rank": 6,
       "category": "科技"
-    },
-    {
-      "raw_hot": 566764,
-      "num": 566764,
-      "word": "8岁摄影师拍李现是被人抱起来的",
-      "onboard_time": 1685597668,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 549401,
@@ -339,20 +347,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 428609,
-      "num": 428609,
-      "word": "挖呀挖黄老师发视频祝六一快乐",
-      "onboard_time": 1685598746,
-      "rank": 13,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 425822,
       "num": 483681,
       "word": "马斯克再次成世界首富",
       "onboard_time": 1685591667,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 423253,
+      "num": 183277,
+      "word": "印度朋友到底怎么吃中国火锅",
+      "onboard_time": 1685600907,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 411573,
+      "num": 411573,
+      "word": "陈宥维",
+      "onboard_time": 1685597069,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 400668,
@@ -377,14 +393,6 @@
       "onboard_time": 1685525248,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 392458,
-      "num": 392458,
-      "word": "陈宥维",
-      "onboard_time": 1685597069,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 377405,
@@ -499,6 +507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 323214,
+      "num": 433132,
+      "word": "为什么我们不聊杰克辣条",
+      "onboard_time": 1685597789,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311706,
       "num": 311706,
       "word": "长月烬明三位主演的后续",
@@ -539,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289851,
+      "num": 188654,
+      "word": "找到周深叫周深的原因了",
+      "onboard_time": 1685598026,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 289721,
       "num": 289721,
       "word": "易烊千玺主打穿搭",
@@ -577,14 +601,6 @@
       "onboard_time": 1685577507,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 282107,
-      "num": 188654,
-      "word": "找到周深叫周深的原因了",
-      "onboard_time": 1685598026,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 277712,
@@ -673,14 +689,6 @@
       "onboard_time": 1685593050,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 252943,
-      "num": 433132,
-      "word": "为什么我们不聊杰克辣条",
-      "onboard_time": 1685597789,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 251784,
@@ -795,6 +803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221862,
+      "num": 182577,
+      "word": "迪丽热巴回应脸不像检察官",
+      "onboard_time": 1685600970,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221535,
       "num": 221535,
       "word": "你的童年回忆杀是什么",
@@ -809,6 +825,14 @@
       "onboard_time": 1685593231,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218215,
+      "num": 167655,
+      "word": "女子被骗至金三角吸毒卖淫获救",
+      "onboard_time": 1685600667,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215148,
@@ -875,6 +899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206528,
+      "num": 182788,
+      "word": "如果拥有一台穿越机你会做什么",
+      "onboard_time": 1685600667,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 199612,
       "num": 199612,
       "word": "TOP说自己已经离开了BIGBANG",
@@ -921,6 +953,14 @@
       "onboard_time": 1685585365,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188587,
+      "num": 167647,
+      "word": "狗狗耳朵上的小夹层是做啥用的",
+      "onboard_time": 1685599228,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 187061,
@@ -1067,7 +1107,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 157978,
+      "raw_hot": 158670,
       "num": 186705,
       "word": "胡锡进 毕节如此提防记者是在怕什么",
       "onboard_time": 1685597967,
@@ -1131,12 +1171,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143089,
-      "num": 160552,
-      "word": "狗狗耳朵上的小夹层是做啥用的",
-      "onboard_time": 1685599228,
-      "rank": 34,
-      "category": "情感"
+      "raw_hot": 148153,
+      "num": 148153,
+      "word": "威神V陈学冬舞蹈挑战",
+      "onboard_time": 1685600667,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 141254,
@@ -1235,6 +1275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124690,
+      "num": 124690,
+      "word": "五月天在台上唱你不是真正的快乐",
+      "onboard_time": 1685601087,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 120187,
       "num": 120187,
       "word": "3岁三胞胎姐妹解锁派出所综窗初体验",
@@ -1307,6 +1355,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 102552,
+      "num": 157277,
+      "word": "养猫家庭的崩溃瞬间",
+      "onboard_time": 1685599287,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 92931,
       "num": 132073,
       "word": "六一儿童节快乐",
@@ -1337,14 +1393,6 @@
       "onboard_time": 1685598388,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 87497,
-      "num": 157277,
-      "word": "养猫家庭的崩溃瞬间",
-      "onboard_time": 1685599287,
-      "rank": 45,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 86200,

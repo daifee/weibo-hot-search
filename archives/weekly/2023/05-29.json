@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685600559164,
+  "endTime": 1685601329747,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -1107,6 +1107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 962741,
+      "num": 431595,
+      "word": "刘昊然手机很烂应该是他",
+      "onboard_time": 1685596649,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 961186,
       "num": 961186,
       "word": "女子输液被陌生男子拔针扎进水桶",
@@ -1123,12 +1131,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 941037,
-      "num": 431595,
-      "word": "刘昊然手机很烂应该是他",
-      "onboard_time": 1685596649,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 931600,
+      "num": 429799,
+      "word": "横着亲",
+      "onboard_time": 1685597789,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 929988,
@@ -1171,19 +1179,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 905638,
+      "num": 905638,
+      "word": "广东夫妇",
+      "onboard_time": 1685598504,
+      "rank": 5,
+      "category": "网红"
+    },
+    {
       "raw_hot": 894425,
       "num": 894425,
       "word": "他用生命最后76秒救了24名乘客",
       "onboard_time": 1685322328,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 891930,
-      "num": 429799,
-      "word": "横着亲",
-      "onboard_time": 1685597789,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1555,12 +1563,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 661201,
+      "num": 661201,
+      "word": "8岁摄影师拍李现是被人抱起来的",
+      "onboard_time": 1685597668,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 657583,
       "num": 657583,
       "word": "王源一家人各火各的",
       "onboard_time": 1685402062,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 656230,
+      "num": 656230,
+      "word": "挖呀挖黄老师发视频祝六一快乐",
+      "onboard_time": 1685598746,
+      "rank": 13,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 655994,
@@ -1601,14 +1625,6 @@
       "onboard_time": 1685346268,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 638860,
-      "num": 638860,
-      "word": "广东夫妇",
-      "onboard_time": 1685598504,
-      "rank": 5,
-      "category": "网红"
     },
     {
       "raw_hot": 636586,
@@ -1897,14 +1913,6 @@
       "onboard_time": 1685535265,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 566764,
-      "num": 566764,
-      "word": "8岁摄影师拍李现是被人抱起来的",
-      "onboard_time": 1685597668,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 559462,
@@ -2571,14 +2579,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 428609,
-      "num": 428609,
-      "word": "挖呀挖黄老师发视频祝六一快乐",
-      "onboard_time": 1685598746,
-      "rank": 13,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 428340,
       "num": 509139,
       "word": "梁建章建议女儿随母姓",
@@ -2641,6 +2641,14 @@
       "onboard_time": 1685420254,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 423253,
+      "num": 183277,
+      "word": "印度朋友到底怎么吃中国火锅",
+      "onboard_time": 1685600907,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 421785,
@@ -2753,6 +2761,14 @@
       "onboard_time": 1685544932,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411573,
+      "num": 411573,
+      "word": "陈宥维",
+      "onboard_time": 1685597069,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 409106,
@@ -2913,14 +2929,6 @@
       "onboard_time": 1685527646,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 392458,
-      "num": 392458,
-      "word": "陈宥维",
-      "onboard_time": 1685597069,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 391023,
@@ -3611,6 +3619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 323214,
+      "num": 433132,
+      "word": "为什么我们不聊杰克辣条",
+      "onboard_time": 1685597789,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323018,
       "num": 230124,
       "word": "不要彩礼收到了婆婆的心意",
@@ -4019,6 +4035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289851,
+      "num": 188654,
+      "word": "找到周深叫周深的原因了",
+      "onboard_time": 1685598026,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 289721,
       "num": 289721,
       "word": "易烊千玺主打穿搭",
@@ -4153,14 +4177,6 @@
       "onboard_time": 1685544453,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 282107,
-      "num": 188654,
-      "word": "找到周深叫周深的原因了",
-      "onboard_time": 1685598026,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 280598,
@@ -4745,14 +4761,6 @@
       "onboard_time": 1685536345,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 252943,
-      "num": 433132,
-      "word": "为什么我们不聊杰克辣条",
-      "onboard_time": 1685597789,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 252878,
@@ -5547,6 +5555,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 221862,
+      "num": 182577,
+      "word": "迪丽热巴回应脸不像检察官",
+      "onboard_time": 1685600970,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221655,
       "num": 207741,
       "word": "小S二女儿练普拉提",
@@ -5649,6 +5665,14 @@
       "onboard_time": 1685353828,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 218215,
+      "num": 167655,
+      "word": "女子被骗至金三角吸毒卖淫获救",
+      "onboard_time": 1685600667,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218141,
@@ -5953,6 +5977,14 @@
       "onboard_time": 1685379561,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206528,
+      "num": 182788,
+      "word": "如果拥有一台穿越机你会做什么",
+      "onboard_time": 1685600667,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 206301,
@@ -6648,6 +6680,14 @@
       "word": "或许成年人更需要儿童节",
       "onboard_time": 1685520328,
       "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 188587,
+      "num": 167647,
+      "word": "狗狗耳朵上的小夹层是做啥用的",
+      "onboard_time": 1685599228,
+      "rank": 34,
       "category": "情感"
     },
     {
@@ -7491,6 +7531,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 158670,
+      "num": 186705,
+      "word": "胡锡进 毕节如此提防记者是在怕什么",
+      "onboard_time": 1685597967,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158532,
       "num": 145830,
       "word": "虞书欣要拍新剧了",
@@ -7520,14 +7568,6 @@
       "word": "民警被一排办公摆件盯上了",
       "onboard_time": 1685439388,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157978,
-      "num": 186705,
-      "word": "胡锡进 毕节如此提防记者是在怕什么",
-      "onboard_time": 1685597967,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -7763,6 +7803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148153,
+      "num": 148153,
+      "word": "威神V陈学冬舞蹈挑战",
+      "onboard_time": 1685600667,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 147432,
       "num": 147432,
       "word": "挂牌",
@@ -7833,14 +7881,6 @@
       "onboard_time": 1685529147,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 143089,
-      "num": 160552,
-      "word": "狗狗耳朵上的小夹层是做啥用的",
-      "onboard_time": 1685599228,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 141910,
@@ -8233,6 +8273,14 @@
       "onboard_time": 1685575402,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124690,
+      "num": 124690,
+      "word": "五月天在台上唱你不是真正的快乐",
+      "onboard_time": 1685601087,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 124657,
@@ -8651,6 +8699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102552,
+      "num": 157277,
+      "word": "养猫家庭的崩溃瞬间",
+      "onboard_time": 1685599287,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 100779,
       "num": 316761,
       "word": "今晚有多少明星在天猫618直播",
@@ -8785,14 +8841,6 @@
       "onboard_time": 1685598388,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 87497,
-      "num": 157277,
-      "word": "养猫家庭的崩溃瞬间",
-      "onboard_time": 1685599287,
-      "rank": 45,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 86510,
