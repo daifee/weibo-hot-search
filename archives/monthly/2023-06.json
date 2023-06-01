@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685648011530,
+  "endTime": 1685650647875,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -2977,6 +2977,14 @@
       "onboard_time": 1685561473,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12682,
+      "num": 12682,
+      "word": "2023足球冠军行",
+      "onboard_time": 1685644813,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 5391,
