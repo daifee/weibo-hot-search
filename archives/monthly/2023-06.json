@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685628947176,
+  "endTime": 1685630013776,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -195,8 +195,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1205693,
-      "num": 1205693,
+      "raw_hot": 1232669,
+      "num": 1232669,
       "word": "金智秀新冠确诊",
       "onboard_time": 1685626952,
       "rank": 3,
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 659490,
+      "num": 659490,
+      "word": "Jennie小松菜奈热聊",
+      "onboard_time": 1685628095,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 655398,
       "num": 655398,
       "word": "杨紫化妆师删博",
@@ -443,12 +451,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 578621,
+      "num": 578621,
+      "word": "男人眼中的6分女和6分男",
+      "onboard_time": 1685622988,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 570370,
       "num": 570370,
       "word": "苹果14",
       "onboard_time": 1685536646,
       "rank": 6,
       "category": "科技"
+    },
+    {
+      "raw_hot": 562261,
+      "num": 562261,
+      "word": "五月天王源合唱",
+      "onboard_time": 1685625570,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 562251,
@@ -460,7 +484,7 @@
     },
     {
       "raw_hot": 557874,
-      "num": 251831,
+      "num": 282277,
       "word": "唐僧为什么忘记替老龟问寿命",
       "onboard_time": 1685617647,
       "rank": 21,
@@ -499,12 +523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 529898,
-      "num": 529898,
-      "word": "男人眼中的6分女和6分男",
-      "onboard_time": 1685622988,
-      "rank": 41,
-      "category": "幽默"
+      "raw_hot": 527494,
+      "num": 515360,
+      "word": "虞书欣直播",
+      "onboard_time": 1685626592,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 527372,
@@ -531,22 +555,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 515360,
-      "num": 515360,
-      "word": "虞书欣直播",
-      "onboard_time": 1685626592,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 511656,
-      "num": 511656,
-      "word": "五月天王源合唱",
-      "onboard_time": 1685625570,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 502975,
       "num": 502975,
       "word": "五月天王源唱如果我们不曾相遇",
@@ -563,20 +571,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 495743,
-      "num": 362839,
-      "word": "Jennie小松菜奈热聊",
-      "onboard_time": 1685628095,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 488933,
       "num": 488933,
       "word": "WBG对战JDG",
       "onboard_time": 1685618367,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 487371,
+      "num": 487371,
+      "word": "研究生辞谢信彰显卧龙凤雏",
+      "onboard_time": 1685627791,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 485114,
@@ -601,6 +609,14 @@
       "onboard_time": 1685538207,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 471013,
+      "num": 445484,
+      "word": "徐明浩直播",
+      "onboard_time": 1685629652,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 469400,
@@ -715,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 398755,
+      "num": 352953,
+      "word": "河南人和山东人都别沉默了",
+      "onboard_time": 1685620466,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396671,
       "num": 245255,
       "word": "肖战片场讲冷笑话",
@@ -739,20 +763,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 389509,
+      "raw_hot": 392833,
       "num": 298984,
       "word": "肖战拍的最久的一场戏",
       "onboard_time": 1685625329,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 378711,
-      "num": 352953,
-      "word": "河南人和山东人都别沉默了",
-      "onboard_time": 1685620466,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 377405,
@@ -803,6 +819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 363113,
+      "num": 286726,
+      "word": "王诗龄晒健身照",
+      "onboard_time": 1685626290,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 359169,
       "num": 251475,
       "word": "舞台2023歌手名单",
@@ -841,14 +865,6 @@
       "onboard_time": 1685525007,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 346351,
-      "num": 220370,
-      "word": "王诗龄晒健身照",
-      "onboard_time": 1685626290,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 345058,
@@ -923,6 +939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 331784,
+      "num": 331784,
+      "word": "刘青松",
+      "onboard_time": 1685624491,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 328441,
       "num": 237508,
       "word": "赵丽颖六月暂无公开行程",
@@ -937,6 +961,14 @@
       "onboard_time": 1685616749,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 327671,
+      "num": 280151,
+      "word": "杨颖黑白御姐造型",
+      "onboard_time": 1685629471,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 326386,
@@ -1035,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297284,
+      "num": 297284,
+      "word": "阿根廷中国行票价公布",
+      "onboard_time": 1685627555,
+      "rank": 37,
+      "category": "体育,旅游"
+    },
+    {
       "raw_hot": 297131,
       "num": 297131,
       "word": "妊娠终止手术一定要在孕14周内做",
@@ -1051,12 +1091,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 291233,
-      "num": 291233,
-      "word": "刘青松",
-      "onboard_time": 1685624491,
-      "rank": 33,
-      "category": "游戏"
+      "raw_hot": 292871,
+      "num": 274089,
+      "word": "赵丽颖儿童节看小时候的画册",
+      "onboard_time": 1685625211,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 289851,
@@ -1163,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269895,
+      "num": 269895,
+      "word": "迪丽热巴说还是会拍古装剧偶像剧",
+      "onboard_time": 1685627972,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 268667,
       "num": 268667,
       "word": "小学生放学捡到特殊纸币报警",
@@ -1180,7 +1228,7 @@
     },
     {
       "raw_hot": 265515,
-      "num": 244449,
+      "num": 248382,
       "word": "TFBOYS十周年演唱会灯牌设计",
       "onboard_time": 1685616086,
       "rank": 24,
@@ -1209,14 +1257,6 @@
       "onboard_time": 1685621609,
       "rank": 29,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 259282,
-      "num": 250149,
-      "word": "赵丽颖儿童节看小时候的画册",
-      "onboard_time": 1685625211,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 256981,
@@ -1315,14 +1355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 246097,
-      "num": 246097,
-      "word": "研究生辞谢信彰显卧龙凤雏",
-      "onboard_time": 1685627791,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 244193,
       "num": 188482,
       "word": "乐华家族演唱会有王一博",
@@ -1387,14 +1419,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 239879,
-      "num": 211528,
-      "word": "迪丽热巴说还是会拍古装剧偶像剧",
-      "onboard_time": 1685627972,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 239098,
       "num": 239098,
       "word": "你有超过七年的友谊吗",
@@ -1412,7 +1436,7 @@
     },
     {
       "raw_hot": 236374,
-      "num": 227047,
+      "num": 235938,
       "word": "王一博看秀内场照",
       "onboard_time": 1685625211,
       "rank": 40,
@@ -1507,10 +1531,26 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220157,
+      "num": 194380,
+      "word": "五月天 hush",
+      "onboard_time": 1685626772,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 218571,
       "num": 218571,
       "word": "王欣瑜首进大满贯32强",
       "onboard_time": 1685626111,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 217337,
+      "num": 217337,
+      "word": "曝本泽马确定离开皇马",
+      "onboard_time": 1685627012,
       "rank": 34,
       "category": "体育"
     },
@@ -1529,6 +1569,14 @@
       "onboard_time": 1685584046,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215032,
+      "num": 194582,
+      "word": "钟汉良儿童节请团队看五月天",
+      "onboard_time": 1685628752,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 213377,
@@ -1651,22 +1699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199590,
-      "num": 199590,
-      "word": "曝本泽马确定离开皇马",
-      "onboard_time": 1685627012,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 199374,
-      "num": 167342,
-      "word": "五月天 hush",
-      "onboard_time": 1685626772,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 198720,
       "num": 198720,
       "word": "天同",
@@ -1697,14 +1729,6 @@
       "onboard_time": 1685544932,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194159,
-      "num": 194159,
-      "word": "阿根廷中国行票价公布",
-      "onboard_time": 1685627555,
-      "rank": 37,
-      "category": "体育,旅游"
     },
     {
       "raw_hot": 193780,
@@ -1897,14 +1921,6 @@
       "onboard_time": 1685607926,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 172616,
-      "num": 167068,
-      "word": "钟汉良儿童节请团队看五月天",
-      "onboard_time": 1685628752,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 172278,
@@ -2667,6 +2683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30116,
+      "num": 276943,
+      "word": "新能源大五座SUV有多卷",
+      "onboard_time": 1685627491,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 28689,
       "num": 34020,
       "word": "北上女二",
@@ -2681,14 +2705,6 @@
       "onboard_time": 1685559674,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 26472,
-      "num": 214155,
-      "word": "新能源大五座SUV有多卷",
-      "onboard_time": 1685627491,
-      "rank": 27,
-      "category": "科技"
     },
     {
       "raw_hot": 21272,

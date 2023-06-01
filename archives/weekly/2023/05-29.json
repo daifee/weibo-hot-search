@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685628947176,
+  "endTime": 1685630013776,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -907,6 +907,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1232669,
+      "num": 1232669,
+      "word": "金智秀新冠确诊",
+      "onboard_time": 1685626952,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1230483,
       "num": 1072840,
       "word": "砍杀柯基男子被曝任职公益岗",
@@ -929,14 +937,6 @@
       "onboard_time": 1685276068,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1205693,
-      "num": 1205693,
-      "word": "金智秀新冠确诊",
-      "onboard_time": 1685626952,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1190596,
@@ -1755,6 +1755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 659490,
+      "num": 659490,
+      "word": "Jennie小松菜奈热聊",
+      "onboard_time": 1685628095,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 657583,
       "num": 657583,
       "word": "王源一家人各火各的",
@@ -2083,6 +2091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 578621,
+      "num": 578621,
+      "word": "男人眼中的6分女和6分男",
+      "onboard_time": 1685622988,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 578543,
       "num": 578543,
       "word": "BLACKPINK官博编辑文案",
@@ -2115,6 +2131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 562261,
+      "num": 562261,
+      "word": "五月天王源合唱",
+      "onboard_time": 1685625570,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 562251,
       "num": 562251,
       "word": "EXO新歌MV拍摄取消",
@@ -2132,7 +2156,7 @@
     },
     {
       "raw_hot": 557874,
-      "num": 251831,
+      "num": 282277,
       "word": "唐僧为什么忘记替老龟问寿命",
       "onboard_time": 1685617647,
       "rank": 21,
@@ -2283,12 +2307,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 529898,
-      "num": 529898,
-      "word": "男人眼中的6分女和6分男",
-      "onboard_time": 1685622988,
-      "rank": 41,
-      "category": "幽默"
+      "raw_hot": 527494,
+      "num": 515360,
+      "word": "虞书欣直播",
+      "onboard_time": 1685626592,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 527372,
@@ -2395,14 +2419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 515360,
-      "num": 515360,
-      "word": "虞书欣直播",
-      "onboard_time": 1685626592,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 514752,
       "num": 514752,
       "word": "北京WB",
@@ -2417,14 +2433,6 @@
       "onboard_time": 1685454514,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 511656,
-      "num": 511656,
-      "word": "五月天王源合唱",
-      "onboard_time": 1685625570,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 509432,
@@ -2531,14 +2539,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 495743,
-      "num": 362839,
-      "word": "Jennie小松菜奈热聊",
-      "onboard_time": 1685628095,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 495614,
       "num": 495614,
       "word": "坐火箭太爽了",
@@ -2585,6 +2585,14 @@
       "onboard_time": 1685618367,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 487371,
+      "num": 487371,
+      "word": "研究生辞谢信彰显卧龙凤雏",
+      "onboard_time": 1685627791,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 485950,
@@ -2681,6 +2689,14 @@
       "onboard_time": 1685501967,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 471013,
+      "num": 445484,
+      "word": "徐明浩直播",
+      "onboard_time": 1685629652,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 469400,
@@ -3195,6 +3211,14 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 398755,
+      "num": 352953,
+      "word": "河南人和山东人都别沉默了",
+      "onboard_time": 1685620466,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397942,
       "num": 191708,
       "word": "时尚芭莎内场",
@@ -3259,6 +3283,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 392833,
+      "num": 298984,
+      "word": "肖战拍的最久的一场戏",
+      "onboard_time": 1685625329,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 391023,
       "num": 391023,
       "word": "被宠是一种什么体验",
@@ -3273,14 +3305,6 @@
       "onboard_time": 1685521890,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 389509,
-      "num": 298984,
-      "word": "肖战拍的最久的一场戏",
-      "onboard_time": 1685625329,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 389043,
@@ -3353,14 +3377,6 @@
       "onboard_time": 1685340866,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 378711,
-      "num": 352953,
-      "word": "河南人和山东人都别沉默了",
-      "onboard_time": 1685620466,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 378069,
@@ -3523,6 +3539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 363113,
+      "num": 286726,
+      "word": "王诗龄晒健身照",
+      "onboard_time": 1685626290,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 362774,
       "num": 362774,
       "word": "赵今麦吴磊好配",
@@ -3673,14 +3697,6 @@
       "onboard_time": 1685353047,
       "rank": 22,
       "category": "科技"
-    },
-    {
-      "raw_hot": 346351,
-      "num": 220370,
-      "word": "王诗龄晒健身照",
-      "onboard_time": 1685626290,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 345933,
@@ -3899,6 +3915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331784,
+      "num": 331784,
+      "word": "刘青松",
+      "onboard_time": 1685624491,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 331583,
       "num": 274443,
       "word": "蔡徐坤身上好多彩钻",
@@ -3953,6 +3977,14 @@
       "onboard_time": 1685339186,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 327671,
+      "num": 280151,
+      "word": "杨颖黑白御姐造型",
+      "onboard_time": 1685629471,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 327152,
@@ -4403,6 +4435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297284,
+      "num": 297284,
+      "word": "阿根廷中国行票价公布",
+      "onboard_time": 1685627555,
+      "rank": 37,
+      "category": "体育,旅游"
+    },
+    {
       "raw_hot": 297200,
       "num": 297200,
       "word": "千万别去北方看音乐节",
@@ -4475,6 +4515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292871,
+      "num": 274089,
+      "word": "赵丽颖儿童节看小时候的画册",
+      "onboard_time": 1685625211,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292658,
       "num": 292658,
       "word": "杨和苏朋友圈",
@@ -4497,14 +4545,6 @@
       "onboard_time": 1685507729,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 291233,
-      "num": 291233,
-      "word": "刘青松",
-      "onboard_time": 1685624491,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 290972,
@@ -4971,6 +5011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269895,
+      "num": 269895,
+      "word": "迪丽热巴说还是会拍古装剧偶像剧",
+      "onboard_time": 1685627972,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 269421,
       "num": 269421,
       "word": "大爷在菜市场猥亵多名女性被拍下",
@@ -5060,7 +5108,7 @@
     },
     {
       "raw_hot": 265515,
-      "num": 244449,
+      "num": 248382,
       "word": "TFBOYS十周年演唱会灯牌设计",
       "onboard_time": 1685616086,
       "rank": 24,
@@ -5185,14 +5233,6 @@
       "onboard_time": 1685445750,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 259282,
-      "num": 250149,
-      "word": "赵丽颖儿童节看小时候的画册",
-      "onboard_time": 1685625211,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 256527,
@@ -5515,14 +5555,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 246097,
-      "num": 246097,
-      "word": "研究生辞谢信彰显卧龙凤雏",
-      "onboard_time": 1685627791,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 245997,
       "num": 245997,
       "word": "差点把任贤齐演唱会整封了",
@@ -5731,14 +5763,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 239879,
-      "num": 211528,
-      "word": "迪丽热巴说还是会拍古装剧偶像剧",
-      "onboard_time": 1685627972,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 239218,
       "num": 220868,
       "word": "李沁佟晓梅",
@@ -5836,7 +5860,7 @@
     },
     {
       "raw_hot": 236374,
-      "num": 227047,
+      "num": 235938,
       "word": "王一博看秀内场照",
       "onboard_time": 1685625211,
       "rank": 40,
@@ -6299,6 +6323,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 220157,
+      "num": 194380,
+      "word": "五月天 hush",
+      "onboard_time": 1685626772,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 219967,
       "num": 219967,
       "word": "水波蛋",
@@ -6337,6 +6369,14 @@
       "onboard_time": 1685497827,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217337,
+      "num": 217337,
+      "word": "曝本泽马确定离开皇马",
+      "onboard_time": 1685627012,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 217271,
@@ -6409,6 +6449,14 @@
       "onboard_time": 1685584046,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215032,
+      "num": 194582,
+      "word": "钟汉良儿童节请团队看五月天",
+      "onboard_time": 1685628752,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 213377,
@@ -6971,22 +7019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199590,
-      "num": 199590,
-      "word": "曝本泽马确定离开皇马",
-      "onboard_time": 1685627012,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 199374,
-      "num": 167342,
-      "word": "五月天 hush",
-      "onboard_time": 1685626772,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 198951,
       "num": 198951,
       "word": "别看不起做题家",
@@ -7193,14 +7225,6 @@
       "onboard_time": 1685343807,
       "rank": 23,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 194159,
-      "num": 194159,
-      "word": "阿根廷中国行票价公布",
-      "onboard_time": 1685627555,
-      "rank": 37,
-      "category": "体育,旅游"
     },
     {
       "raw_hot": 193972,
@@ -7921,14 +7945,6 @@
       "onboard_time": 1685367691,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172616,
-      "num": 167068,
-      "word": "钟汉良儿童节请团队看五月天",
-      "onboard_time": 1685628752,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 172503,
@@ -10427,6 +10443,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 30116,
+      "num": 276943,
+      "word": "新能源大五座SUV有多卷",
+      "onboard_time": 1685627491,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 27596,
       "num": 36530,
       "word": "坏妈妈",
@@ -10449,14 +10473,6 @@
       "onboard_time": 1685440832,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 26472,
-      "num": 214155,
-      "word": "新能源大五座SUV有多卷",
-      "onboard_time": 1685627491,
-      "rank": 27,
-      "category": "科技"
     },
     {
       "raw_hot": 26019,
