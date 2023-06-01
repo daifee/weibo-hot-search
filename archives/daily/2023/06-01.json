@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685625635288,
+  "endTime": 1685626452065,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -75,11 +75,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1663297,
+      "num": 1663297,
+      "word": "肖战台词",
+      "onboard_time": 1685624309,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1609257,
       "num": 1609257,
       "word": "男生接女友下班遭车祸致1死1病危",
       "onboard_time": 1685603186,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1516785,
+      "num": 1516785,
+      "word": "柳州与女子不雅聊天公职人员被免职",
+      "onboard_time": 1685624428,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -139,14 +155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1299049,
-      "num": 1299049,
-      "word": "肖战台词",
-      "onboard_time": 1685624309,
-      "rank": 0,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1293845,
       "num": 1293845,
       "word": "坐飞机要称体重了",
@@ -185,6 +193,14 @@
       "onboard_time": 1685600970,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1147186,
+      "num": 792011,
+      "word": "女子退猫被拒后直接把猫摔死",
+      "onboard_time": 1685621187,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1146825,
@@ -227,14 +243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1073828,
-      "num": 792011,
-      "word": "女子退猫被拒后直接把猫摔死",
-      "onboard_time": 1685621187,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1044269,
       "num": 940496,
       "word": "ChatGPT高三考试仅物理得零分",
@@ -257,14 +265,6 @@
       "onboard_time": 1685596649,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 944019,
-      "num": 457135,
-      "word": "柳州与女子不雅聊天公职人员被免职",
-      "onboard_time": 1685624428,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 914174,
@@ -304,6 +304,14 @@
       "word": "别把医术拍成了法术",
       "onboard_time": 1685579007,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 730443,
+      "num": 730443,
+      "word": "梦中的那片海开播收视率",
+      "onboard_time": 1685624848,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -507,8 +515,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 500332,
-      "num": 500332,
+      "raw_hot": 502975,
+      "num": 502975,
       "word": "五月天王源唱如果我们不曾相遇",
       "onboard_time": 1685614647,
       "rank": 31,
@@ -609,6 +617,14 @@
       "onboard_time": 1685600907,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 420021,
+      "num": 376928,
+      "word": "五月天王源合唱",
+      "onboard_time": 1685625570,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 419918,
@@ -755,20 +771,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 358284,
-      "num": 358284,
-      "word": "梦中的那片海开播收视率",
-      "onboard_time": 1685624848,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 357053,
       "num": 357053,
       "word": "陈晓和陈妍希亲吻儿子好甜",
       "onboard_time": 1685539107,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 355370,
+      "num": 298984,
+      "word": "肖战拍的最久的一场戏",
+      "onboard_time": 1685625329,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 350994,
@@ -1083,6 +1099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 277125,
+      "num": 277125,
+      "word": "男人眼中的6分女和6分男",
+      "onboard_time": 1685622988,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 276927,
       "num": 276927,
       "word": "儿童套餐",
@@ -1155,6 +1179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 256877,
+      "num": 256877,
+      "word": "刘青松",
+      "onboard_time": 1685624491,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 256527,
       "num": 201316,
       "word": "Jennie和朋友东京逛街",
@@ -1217,6 +1249,14 @@
       "onboard_time": 1685604446,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 250149,
+      "num": 250149,
+      "word": "赵丽颖儿童节看小时候的画册",
+      "onboard_time": 1685625211,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 249290,
@@ -1331,14 +1371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 235067,
-      "num": 235067,
-      "word": "男人眼中的6分女和6分男",
-      "onboard_time": 1685622988,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 232863,
       "num": 232863,
       "word": "六一晚会",
@@ -1363,12 +1395,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 229685,
-      "num": 229685,
-      "word": "刘青松",
-      "onboard_time": 1685624491,
-      "rank": 33,
-      "category": "游戏"
+      "raw_hot": 230703,
+      "num": 230703,
+      "word": "张予曦是真公主吧",
+      "onboard_time": 1685624129,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 228227,
@@ -1377,6 +1409,14 @@
       "onboard_time": 1685575161,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227047,
+      "num": 227047,
+      "word": "王一博看秀内场照",
+      "onboard_time": 1685625211,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 225903,
@@ -1419,20 +1459,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 217504,
-      "num": 217504,
-      "word": "赵丽颖儿童节看小时候的画册",
-      "onboard_time": 1685625211,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 217300,
-      "num": 217300,
-      "word": "张予曦是真公主吧",
-      "onboard_time": 1685624129,
-      "rank": 36,
-      "category": "作品衍生"
+      "raw_hot": 218571,
+      "num": 218571,
+      "word": "王欣瑜首进大满贯32强",
+      "onboard_time": 1685626111,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 215148,
@@ -1539,14 +1571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204933,
-      "num": 204933,
-      "word": "王一博看秀内场照",
-      "onboard_time": 1685625211,
-      "rank": 40,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 201849,
       "num": 201849,
       "word": "朱珠到底有多飒",
@@ -1593,14 +1617,6 @@
       "onboard_time": 1685544932,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195128,
-      "num": 195128,
-      "word": "五月天王源合唱",
-      "onboard_time": 1685625570,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 193780,
@@ -1659,20 +1675,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 190869,
+      "num": 191528,
+      "word": "六一快乐",
+      "onboard_time": 1685626231,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190148,
       "num": 190148,
       "word": "时代少年团儿童节vlog",
       "onboard_time": 1685623647,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 189436,
-      "num": 189436,
-      "word": "肖战拍的最久的一场戏",
-      "onboard_time": 1685625329,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 188626,
@@ -1731,6 +1747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 183543,
+      "num": 183543,
+      "word": "王诗龄晒健身照",
+      "onboard_time": 1685626290,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183468,
       "num": 183468,
       "word": "宋茜的mbti",
@@ -1779,8 +1803,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 177806,
-      "num": 177806,
+      "raw_hot": 180103,
+      "num": 180103,
       "word": "天同",
       "onboard_time": 1685625088,
       "rank": 47,
@@ -2523,6 +2547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35645,
+      "num": 206363,
+      "word": "TVB直播带货成交额破亿",
+      "onboard_time": 1685624428,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33111,
       "num": 471138,
       "word": "童心限时回归体验卡请查收",
@@ -2561,14 +2593,6 @@
       "onboard_time": 1685543072,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 27811,
-      "num": 206363,
-      "word": "TVB直播带货成交额破亿",
-      "onboard_time": 1685624428,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27596,
