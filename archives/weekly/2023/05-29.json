@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685608412134,
+  "endTime": 1685611013769,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -161,6 +161,14 @@
       "onboard_time": 1685415329,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2183217,
+      "num": 1298502,
+      "word": "官方通报局长出轨女经理",
+      "onboard_time": 1685605467,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2166254,
@@ -707,14 +715,6 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 1298502,
-      "num": 1298502,
-      "word": "官方通报局长出轨女经理",
-      "onboard_time": 1685605467,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1295628,
       "num": 1295628,
       "word": "黄晓明尹正亲上了",
@@ -865,6 +865,14 @@
       "onboard_time": 1685276068,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1204939,
+      "num": 1204939,
+      "word": "EXO是我们公司非常珍惜的艺人",
+      "onboard_time": 1685606306,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1190596,
@@ -1187,6 +1195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 940496,
+      "num": 940496,
+      "word": "ChatGPT高三考试仅物理得零分",
+      "onboard_time": 1685602770,
+      "rank": 22,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 929988,
       "num": 929988,
       "word": "秦昊恋爱脑",
@@ -1225,14 +1241,6 @@
       "onboard_time": 1685352029,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 907381,
-      "num": 907381,
-      "word": "EXO是我们公司非常珍惜的艺人",
-      "onboard_time": 1685606306,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 894425,
@@ -1713,14 +1721,6 @@
       "onboard_time": 1685492311,
       "rank": 8,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 628878,
-      "num": 628878,
-      "word": "ChatGPT高三考试仅物理得零分",
-      "onboard_time": 1685602770,
-      "rank": 22,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 628445,
@@ -2587,6 +2587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 443983,
+      "num": 443983,
+      "word": "辽宁阜新疑似出现龙卷风",
+      "onboard_time": 1685609126,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 442745,
       "num": 294032,
       "word": "王嘉尔帮Angelababy扶外套",
@@ -2833,6 +2841,14 @@
       "onboard_time": 1685597069,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 410806,
+      "num": 410806,
+      "word": "女子为帮装空调丈夫拉安全绳拒绝减肥",
+      "onboard_time": 1685607687,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 409106,
@@ -3137,6 +3153,14 @@
       "onboard_time": 1685511328,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 376046,
+      "num": 376046,
+      "word": "柯基被砍当事人对侮辱诽谤已报警",
+      "onboard_time": 1685607508,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 375401,
@@ -3497,6 +3521,14 @@
       "onboard_time": 1685599228,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 339765,
+      "num": 203816,
+      "word": "万茜女儿海边侧颜照",
+      "onboard_time": 1685609487,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 338634,
@@ -3915,6 +3947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311626,
+      "num": 311626,
+      "word": "肖战新剧不断更",
+      "onboard_time": 1685607086,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 311301,
       "num": 311301,
       "word": "昨晚睡觉你开空调了吗",
@@ -4303,14 +4343,6 @@
       "num": 282749,
       "word": "肖战粉丝花式宣传梦中的那片海",
       "onboard_time": 1685544453,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 282357,
-      "num": 220359,
-      "word": "肖战新剧不断更",
-      "onboard_time": 1685607086,
       "rank": 27,
       "category": "影视"
     },
@@ -4729,6 +4761,14 @@
       "onboard_time": 1685280030,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 261926,
+      "num": 261926,
+      "word": "阚清子",
+      "onboard_time": 1685608228,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 261330,
@@ -7171,6 +7211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 179244,
+      "num": 179244,
+      "word": "贵州一地拟禁办再婚等酒席",
+      "onboard_time": 1685610028,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179092,
       "num": 179092,
       "word": "杨紫浓妆vs淡妆",
@@ -7193,14 +7241,6 @@
       "onboard_time": 1685536825,
       "rank": 36,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 176922,
-      "num": 176922,
-      "word": "女子为帮装空调丈夫拉安全绳拒绝减肥",
-      "onboard_time": 1685607687,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176799,
@@ -7481,6 +7521,14 @@
       "onboard_time": 1685318004,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 166645,
+      "num": 166645,
+      "word": "新华社称黄牛该好好管管了",
+      "onboard_time": 1685609846,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166625,
@@ -8003,6 +8051,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 148302,
+      "num": 148302,
+      "word": "开门大吉",
+      "onboard_time": 1685607926,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148197,
       "num": 148197,
       "word": "为什么有的家庭一定要生儿子",
@@ -8107,14 +8163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 140549,
-      "num": 140549,
-      "word": "柯基被砍当事人对侮辱诽谤已报警",
-      "onboard_time": 1685607508,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140498,
       "num": 140498,
       "word": "影视剧六一海报",
@@ -8137,6 +8185,14 @@
       "onboard_time": 1685450373,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140239,
+      "num": 140239,
+      "word": "马斯克已离开上海",
+      "onboard_time": 1685608706,
+      "rank": 36,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 139730,
@@ -8169,6 +8225,14 @@
       "onboard_time": 1685349929,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138289,
+      "num": 138289,
+      "word": "天空之城",
+      "onboard_time": 1685610207,
+      "rank": 37,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 137742,
@@ -8595,6 +8659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121838,
+      "num": 121838,
+      "word": "你有超过七年的友谊吗",
+      "onboard_time": 1685610511,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121732,
       "num": 121732,
       "word": "熊猫梅兰过生日根本吃不完",
@@ -8723,14 +8795,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 116205,
-      "num": 120006,
-      "word": "开门大吉",
-      "onboard_time": 1685607926,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 116162,
       "num": 132437,
       "word": "镖人动画开播",
@@ -8761,6 +8825,14 @@
       "onboard_time": 1685482332,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 114720,
+      "num": 114720,
+      "word": "农民的苦难不是流量的噱头",
+      "onboard_time": 1685610865,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114596,
@@ -8817,6 +8889,14 @@
       "onboard_time": 1685349208,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 110437,
+      "num": 110437,
+      "word": "重庆一小学全校师生穿汉服过六一",
+      "onboard_time": 1685609126,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 108891,
@@ -9001,6 +9081,14 @@
       "onboard_time": 1685602706,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97139,
+      "num": 157362,
+      "word": "云南彝良突发洪灾致3人遇难",
+      "onboard_time": 1685609668,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96837,
@@ -9363,6 +9451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65719,
+      "num": 878507,
+      "word": "打卡中国",
+      "onboard_time": 1685608468,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65211,
       "num": 192609,
       "word": "vivo开辟柔光人像新赛道",
@@ -9424,6 +9520,14 @@
       "word": "雨后西安上空出现橙色童话云",
       "onboard_time": 1685574199,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55508,
+      "num": 312643,
+      "word": "小学生自愿报名给高三考生表演才艺",
+      "onboard_time": 1685610028,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
