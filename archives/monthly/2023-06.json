@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685622892399,
+  "endTime": 1685623879172,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -67,19 +67,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1629553,
+      "num": 1629553,
+      "word": "江歌母亲称已收到刘鑫全部赔偿款",
+      "onboard_time": 1685620705,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1609257,
       "num": 1609257,
       "word": "男生接女友下班遭车祸致1死1病危",
       "onboard_time": 1685603186,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1525376,
-      "num": 1525376,
-      "word": "江歌母亲称已收到刘鑫全部赔偿款",
-      "onboard_time": 1685620705,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1375823,
+      "num": 451462,
+      "word": "李湘王岳伦带王诗龄逛街",
+      "onboard_time": 1685620766,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1373325,
       "num": 1373325,
       "word": "杨洋王楚然废墟救赎感剧照",
@@ -119,14 +127,6 @@
       "num": 553485,
       "word": "李念官宣生三胎",
       "onboard_time": 1685612789,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1317662,
-      "num": 451462,
-      "word": "李湘王岳伦带王诗龄逛街",
-      "onboard_time": 1685620766,
       "rank": 10,
       "category": "艺人"
     },
@@ -257,6 +257,14 @@
       "onboard_time": 1685589806,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 792011,
+      "num": 792011,
+      "word": "女子退猫被拒后直接把猫摔死",
+      "onboard_time": 1685621187,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 787851,
@@ -435,6 +443,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 533345,
+      "num": 533345,
+      "word": "梦中的那片海",
+      "onboard_time": 1685622867,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 531758,
       "num": 531758,
       "word": "虞书欣 杨天真",
@@ -504,14 +520,6 @@
       "word": "辽宁阜新疑似出现龙卷风",
       "onboard_time": 1685609126,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 465740,
-      "num": 465740,
-      "word": "女子退猫被拒后直接把猫摔死",
-      "onboard_time": 1685621187,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -635,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 378711,
+      "num": 262257,
+      "word": "河南人和山东人都别沉默了",
+      "onboard_time": 1685620466,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377405,
       "num": 377405,
       "word": "我慢慢开始情绪稳定",
@@ -649,14 +665,6 @@
       "onboard_time": 1685583746,
       "rank": 34,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 373350,
-      "num": 262257,
-      "word": "河南人和山东人都别沉默了",
-      "onboard_time": 1685620466,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 372504,
@@ -705,14 +713,6 @@
       "onboard_time": 1685539107,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 356788,
-      "num": 356788,
-      "word": "梦中的那片海",
-      "onboard_time": 1685622867,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 350994,
@@ -1187,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242380,
+      "num": 242380,
+      "word": "巴黎主帅确认梅西即将离队",
+      "onboard_time": 1685621609,
+      "rank": 29,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 242282,
       "num": 236207,
       "word": "今晚追哪部剧",
@@ -1227,14 +1235,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 239168,
-      "num": 239168,
-      "word": "巴黎主帅确认梅西即将离队",
-      "onboard_time": 1685621609,
-      "rank": 29,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 239098,
       "num": 239098,
       "word": "你有超过七年的友谊吗",
@@ -1259,12 +1259,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232863,
+      "num": 232863,
+      "word": "六一晚会",
+      "onboard_time": 1685622807,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232273,
       "num": 232273,
       "word": "马斯克到访上海",
       "onboard_time": 1685580569,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232090,
+      "num": 242045,
+      "word": "JDG打野",
+      "onboard_time": 1685621787,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 230958,
@@ -1305,14 +1321,6 @@
       "onboard_time": 1685535265,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 221764,
-      "num": 221764,
-      "word": "JDG打野",
-      "onboard_time": 1685621787,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 221535,
@@ -1499,6 +1507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 193311,
+      "num": 193311,
+      "word": "侯明昊周也 双人舞请尽快安排",
+      "onboard_time": 1685623407,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193246,
       "num": 1307695,
       "word": "无论几岁快乐万岁",
@@ -1529,6 +1545,14 @@
       "onboard_time": 1685614406,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190148,
+      "num": 190148,
+      "word": "时代少年团儿童节vlog",
+      "onboard_time": 1685623647,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 188626,
@@ -1723,6 +1747,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164481,
+      "num": 164481,
+      "word": "朱珠到底有多飒",
+      "onboard_time": 1685623469,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164098,
+      "num": 164098,
+      "word": "男人眼中的6分女和6分男",
+      "onboard_time": 1685622988,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164063,
       "num": 164063,
       "word": "赵露思浓妆vs淡妆",
@@ -1747,20 +1787,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159173,
+      "num": 159173,
+      "word": "比亚迪",
+      "onboard_time": 1685618667,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159151,
       "num": 159151,
       "word": "五月天在台上唱你不是真正的快乐",
       "onboard_time": 1685601087,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 158731,
-      "num": 158731,
-      "word": "比亚迪",
-      "onboard_time": 1685618667,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158670,
@@ -1931,14 +1971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137466,
-      "num": 137466,
-      "word": "六一晚会",
-      "onboard_time": 1685622807,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 134843,
       "num": 134843,
       "word": "特斯拉",
@@ -1953,6 +1985,14 @@
       "onboard_time": 1685590587,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133745,
+      "num": 133745,
+      "word": "61儿童节快乐",
+      "onboard_time": 1685622807,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 133454,
@@ -2227,6 +2267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 75708,
+      "num": 194194,
+      "word": "smart新车上市",
+      "onboard_time": 1685623287,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73773,
       "num": 187562,
       "word": "为什么喜欢给小孩子拍照",
@@ -2450,6 +2498,9 @@
     },
     {
       "word": "#争当德智体美劳全面发展的新时代好儿童#"
+    },
+    {
+      "word": "#习近平曾自掏腰包给乡村小学买书#"
     }
   ]
 }
