@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685590256955,
+  "endTime": 1685590834274,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1289278,
-      "num": 1289278,
+      "raw_hot": 1289325,
+      "num": 1289325,
       "word": "吴磊 快走吧哥们要累死了",
       "onboard_time": 1685585607,
       "rank": 14,
@@ -67,6 +67,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 1146681,
+      "num": 1146681,
+      "word": "杨洋王楚然废墟救赎感剧照",
+      "onboard_time": 1685587647,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1105584,
       "num": 1105584,
       "word": "胡可说不要把另一半当自己人",
@@ -75,16 +83,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1013896,
-      "num": 1013896,
-      "word": "杨洋王楚然废墟救赎感剧照",
-      "onboard_time": 1685587647,
-      "rank": 3,
-      "category": "影视"
+      "raw_hot": 918596,
+      "num": 498251,
+      "word": "Angelababy是靠什么长红多年的",
+      "onboard_time": 1685588486,
+      "rank": 16,
+      "category": "艺人"
     },
     {
-      "raw_hot": 745602,
-      "num": 745602,
+      "raw_hot": 818778,
+      "num": 818778,
       "word": "出租房装的空调是5级能耗",
       "onboard_time": 1685574199,
       "rank": 34,
@@ -123,19 +131,19 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 608568,
+      "num": 608568,
+      "word": "你的六一我的六一好像不一样",
+      "onboard_time": 1685586086,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 606453,
       "num": 606453,
       "word": "SMTOWN发生了什么",
       "onboard_time": 1685586327,
       "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 598894,
-      "num": 498251,
-      "word": "Angelababy是靠什么长红多年的",
-      "onboard_time": 1685588486,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -169,14 +177,6 @@
       "onboard_time": 1685585246,
       "rank": 17,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 541636,
-      "num": 541636,
-      "word": "你的六一我的六一好像不一样",
-      "onboard_time": 1685586086,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 531758,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 438565,
-      "num": 257281,
+      "num": 326389,
       "word": "事业单位",
       "onboard_time": 1685589866,
       "rank": 20,
@@ -251,12 +251,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 412774,
-      "num": 412774,
+      "raw_hot": 428682,
+      "num": 428682,
       "word": "摩尔庄园",
       "onboard_time": 1685587765,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 408681,
+      "num": 408681,
+      "word": "肖战刘芮麟新剧演兄弟",
+      "onboard_time": 1685589806,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 400668,
@@ -339,8 +347,16 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 337088,
+      "num": 324358,
+      "word": "杨幂抱着蜜蜂玩偶",
+      "onboard_time": 1685589627,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332567,
-      "num": 253980,
+      "num": 257219,
       "word": "财阀家的小儿子将拍第二季",
       "onboard_time": 1685586268,
       "rank": 26,
@@ -395,6 +411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 287588,
+      "num": 287588,
+      "word": "广东事业单位",
+      "onboard_time": 1685589987,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 287121,
       "num": 287121,
       "word": "你以为很贵实则很便宜的东西",
@@ -411,12 +435,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276927,
+      "num": 276927,
+      "word": "儿童套餐",
+      "onboard_time": 1685589685,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 272868,
       "num": 272868,
       "word": "儿童节快乐",
       "onboard_time": 1685575040,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268667,
+      "num": 268667,
+      "word": "小学生放学捡到特殊纸币报警",
+      "onboard_time": 1685588606,
+      "rank": 29,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 256981,
@@ -435,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254531,
+      "num": 254531,
+      "word": "小时候都有哪些无法释怀的事",
+      "onboard_time": 1685590048,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 251784,
       "num": 229386,
       "word": "聊天记录",
@@ -449,14 +497,6 @@
       "onboard_time": 1685589206,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249842,
-      "num": 249842,
-      "word": "小学生放学捡到特殊纸币报警",
-      "onboard_time": 1685588606,
-      "rank": 29,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 246412,
@@ -491,28 +531,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 233580,
-      "num": 233580,
-      "word": "儿童套餐",
-      "onboard_time": 1685589685,
-      "rank": 27,
-      "category": "美食"
-    },
-    {
       "raw_hot": 232273,
       "num": 232273,
       "word": "马斯克到访上海",
       "onboard_time": 1685580569,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231035,
-      "num": 223523,
-      "word": "杨幂抱着蜜蜂玩偶",
-      "onboard_time": 1685589627,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 230958,
@@ -563,14 +587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214239,
-      "num": 214239,
-      "word": "肖战刘芮麟新剧演兄弟",
-      "onboard_time": 1685589806,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 213377,
       "num": 213377,
       "word": "邓超儿子等等打篮球",
@@ -619,19 +635,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 203449,
-      "num": 203449,
-      "word": "广东事业单位",
-      "onboard_time": 1685589987,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
       "raw_hot": 199612,
       "num": 199612,
       "word": "TOP说自己已经离开了BIGBANG",
       "onboard_time": 1685577025,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 197718,
+      "num": 197718,
+      "word": "SMTOWN新男团目前公开成员",
+      "onboard_time": 1685590287,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -689,14 +705,6 @@
       "onboard_time": 1685589506,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184175,
-      "num": 187378,
-      "word": "小时候都有哪些无法释怀的事",
-      "onboard_time": 1685590048,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 183293,
@@ -763,6 +771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 165025,
+      "num": 468634,
+      "word": "晒晒你的六一小餐桌",
+      "onboard_time": 1685588427,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164496,
       "num": 164496,
       "word": "明天有两部新剧开播",
@@ -819,6 +835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 151462,
+      "num": 151462,
+      "word": "他送我生日礼物是杯52颗珍珠的奶茶",
+      "onboard_time": 1685590468,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150300,
       "num": 150300,
       "word": "陈漫 芭莎封面",
@@ -867,20 +891,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138569,
-      "num": 468634,
-      "word": "晒晒你的六一小餐桌",
-      "onboard_time": 1685588427,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137559,
       "num": 134245,
       "word": "杨和苏朋友圈",
       "onboard_time": 1685538627,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133781,
+      "num": 133781,
+      "word": "选择成为幼稚的大人",
+      "onboard_time": 1685590587,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 133454,
@@ -987,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73773,
+      "num": 187562,
+      "word": "为什么喜欢给小孩子拍照",
+      "onboard_time": 1685588427,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 72790,
       "num": 72790,
       "word": "妹妹是重男轻女的产物",
@@ -1025,14 +1057,6 @@
       "onboard_time": 1685574199,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57398,
-      "num": 187562,
-      "word": "为什么喜欢给小孩子拍照",
-      "onboard_time": 1685588427,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 56645,

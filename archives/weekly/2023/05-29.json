@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685590256955,
+  "endTime": 1685590834274,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -691,8 +691,8 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 1289278,
-      "num": 1289278,
+      "raw_hot": 1289325,
+      "num": 1289325,
       "word": "吴磊 快走吧哥们要累死了",
       "onboard_time": 1685585607,
       "rank": 14,
@@ -833,6 +833,14 @@
       "onboard_time": 1685418931,
       "rank": 17,
       "category": "财经,幽默"
+    },
+    {
+      "raw_hot": 1146681,
+      "num": 1146681,
+      "word": "杨洋王楚然废墟救赎感剧照",
+      "onboard_time": 1685587647,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1138318,
@@ -1011,14 +1019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1013896,
-      "num": 1013896,
-      "word": "杨洋王楚然废墟救赎感剧照",
-      "onboard_time": 1685587647,
-      "rank": 3,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1012181,
       "num": 499911,
       "word": "马雪阳谭咏雯公布恋情",
@@ -1104,6 +1104,14 @@
       "word": "易烊千玺怀化",
       "onboard_time": 1685367812,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 918596,
+      "num": 498251,
+      "word": "Angelababy是靠什么长红多年的",
+      "onboard_time": 1685588486,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -1211,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 818778,
+      "num": 818778,
+      "word": "出租房装的空调是5级能耗",
+      "onboard_time": 1685574199,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 808801,
       "num": 808801,
       "word": "光遇",
@@ -1289,14 +1305,6 @@
       "onboard_time": 1685432010,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 745602,
-      "num": 745602,
-      "word": "出租房装的空调是5级能耗",
-      "onboard_time": 1685574199,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 733900,
@@ -1675,6 +1683,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 608568,
+      "num": 608568,
+      "word": "你的六一我的六一好像不一样",
+      "onboard_time": 1685586086,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 607432,
       "num": 270250,
       "word": "迪丽热巴大深V裙",
@@ -1720,14 +1736,6 @@
       "word": "路人拍的陈都灵",
       "onboard_time": 1685416288,
       "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 598894,
-      "num": 498251,
-      "word": "Angelababy是靠什么长红多年的",
-      "onboard_time": 1685588486,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -1929,14 +1937,6 @@
       "onboard_time": 1685585246,
       "rank": 17,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 541636,
-      "num": 541636,
-      "word": "你的六一我的六一好像不一样",
-      "onboard_time": 1685586086,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 539317,
@@ -2436,7 +2436,7 @@
     },
     {
       "raw_hot": 438565,
-      "num": 257281,
+      "num": 326389,
       "word": "事业单位",
       "onboard_time": 1685589866,
       "rank": 20,
@@ -2481,6 +2481,14 @@
       "onboard_time": 1685337868,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 428682,
+      "num": 428682,
+      "word": "摩尔庄园",
+      "onboard_time": 1685587765,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 428340,
@@ -2643,14 +2651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 412774,
-      "num": 412774,
-      "word": "摩尔庄园",
-      "onboard_time": 1685587765,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 412257,
       "num": 412257,
       "word": "河南小麦咋样了",
@@ -2665,6 +2665,14 @@
       "onboard_time": 1685454158,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 408681,
+      "num": 408681,
+      "word": "肖战刘芮麟新剧演兄弟",
+      "onboard_time": 1685589806,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 407473,
@@ -3275,6 +3283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337088,
+      "num": 324358,
+      "word": "杨幂抱着蜜蜂玩偶",
+      "onboard_time": 1685589627,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336909,
       "num": 336909,
       "word": "萌兰",
@@ -3316,7 +3332,7 @@
     },
     {
       "raw_hot": 332567,
-      "num": 253980,
+      "num": 257219,
       "word": "财阀家的小儿子将拍第二季",
       "onboard_time": 1685586268,
       "rank": 26,
@@ -3883,6 +3899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287588,
+      "num": 287588,
+      "word": "广东事业单位",
+      "onboard_time": 1685589987,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 287340,
       "num": 287340,
       "word": "解放军军机南海拦截美军侦察机",
@@ -4065,6 +4089,14 @@
       "onboard_time": 1685269769,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276927,
+      "num": 276927,
+      "word": "儿童套餐",
+      "onboard_time": 1685589685,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 276623,
@@ -4265,6 +4297,14 @@
       "onboard_time": 1685528490,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 268667,
+      "num": 268667,
+      "word": "小学生放学捡到特殊纸币报警",
+      "onboard_time": 1685588606,
+      "rank": 29,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 267962,
@@ -4491,6 +4531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 254531,
+      "num": 254531,
+      "word": "小时候都有哪些无法释怀的事",
+      "onboard_time": 1685590048,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 253784,
       "num": 253784,
       "word": "家里有中高考生的注意了",
@@ -4569,14 +4617,6 @@
       "onboard_time": 1685279008,
       "rank": 24,
       "category": "科技"
-    },
-    {
-      "raw_hot": 249842,
-      "num": 249842,
-      "word": "小学生放学捡到特殊纸币报警",
-      "onboard_time": 1685588606,
-      "rank": 29,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 249668,
@@ -4995,14 +5035,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 233580,
-      "num": 233580,
-      "word": "儿童套餐",
-      "onboard_time": 1685589685,
-      "rank": 27,
-      "category": "美食"
-    },
-    {
       "raw_hot": 232905,
       "num": 232905,
       "word": "狼队",
@@ -5049,14 +5081,6 @@
       "onboard_time": 1685413770,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231035,
-      "num": 223523,
-      "word": "杨幂抱着蜜蜂玩偶",
-      "onboard_time": 1685589627,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 230958,
@@ -5467,14 +5491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214239,
-      "num": 214239,
-      "word": "肖战刘芮麟新剧演兄弟",
-      "onboard_time": 1685589806,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 213377,
       "num": 213377,
       "word": "邓超儿子等等打篮球",
@@ -5835,14 +5851,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 203449,
-      "num": 203449,
-      "word": "广东事业单位",
-      "onboard_time": 1685589987,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
       "raw_hot": 203215,
       "num": 145057,
       "word": "将1500万颗繁星印在手机上",
@@ -6041,6 +6049,14 @@
       "onboard_time": 1685330010,
       "rank": 37,
       "category": "科技"
+    },
+    {
+      "raw_hot": 197718,
+      "num": 197718,
+      "word": "SMTOWN新男团目前公开成员",
+      "onboard_time": 1685590287,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 196950,
@@ -6497,14 +6513,6 @@
       "onboard_time": 1685404709,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 184175,
-      "num": 187378,
-      "word": "小时候都有哪些无法释怀的事",
-      "onboard_time": 1685590048,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 184159,
@@ -7019,6 +7027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165025,
+      "num": 468634,
+      "word": "晒晒你的六一小餐桌",
+      "onboard_time": 1685588427,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164828,
       "num": 139342,
       "word": "梦中的那片海前进吧青春版海报",
@@ -7371,6 +7387,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 151462,
+      "num": 151462,
+      "word": "他送我生日礼物是杯52颗珍珠的奶茶",
+      "onboard_time": 1685590468,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150717,
       "num": 126768,
       "word": "荣耀90价格",
@@ -7603,14 +7627,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 138569,
-      "num": 468634,
-      "word": "晒晒你的六一小餐桌",
-      "onboard_time": 1685588427,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137742,
       "num": 137742,
       "word": "爸爸只会报菜名",
@@ -7689,6 +7705,14 @@
       "onboard_time": 1685463745,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133781,
+      "num": 133781,
+      "word": "选择成为幼稚的大人",
+      "onboard_time": 1685590587,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 133303,
@@ -8571,6 +8595,14 @@
       "category": "美妆,时尚"
     },
     {
+      "raw_hot": 73773,
+      "num": 187562,
+      "word": "为什么喜欢给小孩子拍照",
+      "onboard_time": 1685588427,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 73572,
       "num": 73572,
       "word": "杨幂回复谢依霖说爱你啊hold么么",
@@ -8705,14 +8737,6 @@
       "onboard_time": 1685574199,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57398,
-      "num": 187562,
-      "word": "为什么喜欢给小孩子拍照",
-      "onboard_time": 1685588427,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 55192,
