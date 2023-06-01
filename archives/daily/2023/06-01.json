@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685623879172,
+  "endTime": 1685625635288,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -67,7 +67,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1629553,
+      "raw_hot": 1762482,
       "num": 1629553,
       "word": "江歌母亲称已收到刘鑫全部赔偿款",
       "onboard_time": 1685620705,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1375823,
-      "num": 451462,
+      "num": 480524,
       "word": "李湘王岳伦带王诗龄逛街",
       "onboard_time": 1685620766,
       "rank": 10,
@@ -137,6 +137,14 @@
       "onboard_time": 1685592628,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1299049,
+      "num": 1299049,
+      "word": "肖战台词",
+      "onboard_time": 1685624309,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 1293845,
@@ -219,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1073828,
+      "num": 792011,
+      "word": "女子退猫被拒后直接把猫摔死",
+      "onboard_time": 1685621187,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1044269,
       "num": 940496,
       "word": "ChatGPT高三考试仅物理得零分",
@@ -243,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 944019,
+      "num": 457135,
+      "word": "柳州与女子不雅聊天公职人员被免职",
+      "onboard_time": 1685624428,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 914174,
       "num": 914174,
       "word": "出租房装的空调是5级能耗",
@@ -251,20 +275,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 888042,
+      "num": 888042,
+      "word": "WBG零封JDG",
+      "onboard_time": 1685624668,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 855032,
       "num": 855032,
       "word": "肖战刘芮麟新剧演兄弟",
       "onboard_time": 1685589806,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 792011,
-      "num": 792011,
-      "word": "女子退猫被拒后直接把猫摔死",
-      "onboard_time": 1685621187,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 787851,
@@ -387,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 597309,
+      "num": 597309,
+      "word": "梦中的那片海",
+      "onboard_time": 1685622867,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 593868,
       "num": 593868,
       "word": "产妇羊水栓塞医生集体赶来抢救",
@@ -443,14 +475,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 533345,
-      "num": 533345,
-      "word": "梦中的那片海",
-      "onboard_time": 1685622867,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 531758,
       "num": 531758,
       "word": "虞书欣 杨天真",
@@ -483,12 +507,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 500332,
+      "num": 500332,
+      "word": "五月天王源唱如果我们不曾相遇",
+      "onboard_time": 1685614647,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 496286,
       "num": 496286,
       "word": "五月天嘉宾 王源",
       "onboard_time": 1685586086,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 488933,
+      "num": 488933,
+      "word": "WBG对战JDG",
+      "onboard_time": 1685618367,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 485114,
@@ -595,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 407976,
+      "num": 407976,
+      "word": "JDG打野",
+      "onboard_time": 1685621787,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 401980,
       "num": 433132,
       "word": "为什么我们不聊杰克辣条",
@@ -644,7 +692,7 @@
     },
     {
       "raw_hot": 378711,
-      "num": 262257,
+      "num": 352953,
       "word": "河南人和山东人都别沉默了",
       "onboard_time": 1685620466,
       "rank": 23,
@@ -707,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 358284,
+      "num": 358284,
+      "word": "梦中的那片海开播收视率",
+      "onboard_time": 1685624848,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 357053,
       "num": 357053,
       "word": "陈晓和陈妍希亲吻儿子好甜",
@@ -729,14 +785,6 @@
       "onboard_time": 1685594189,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347969,
-      "num": 347969,
-      "word": "五月天王源唱如果我们不曾相遇",
-      "onboard_time": 1685614647,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 347591,
@@ -777,6 +825,14 @@
       "onboard_time": 1685609487,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 338796,
+      "num": 338796,
+      "word": "花戎",
+      "onboard_time": 1685620705,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 338634,
@@ -835,28 +891,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 323537,
-      "num": 323537,
-      "word": "花戎",
-      "onboard_time": 1685620705,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 321734,
       "num": 321734,
       "word": "手工耿 适合中国宝宝体质的林克",
       "onboard_time": 1685601507,
       "rank": 30,
       "category": "网红,游戏"
-    },
-    {
-      "raw_hot": 314662,
-      "num": 314662,
-      "word": "WBG对战JDG",
-      "onboard_time": 1685618367,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 314350,
@@ -915,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298809,
+      "num": 298809,
+      "word": "宋祖儿显眼肚",
+      "onboard_time": 1685624189,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297769,
       "num": 266420,
       "word": "SMTOWN新男团目前公开成员",
@@ -937,6 +985,14 @@
       "onboard_time": 1685542109,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297060,
+      "num": 297060,
+      "word": "侯明昊周也 双人舞请尽快安排",
+      "onboard_time": 1685623407,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 289851,
@@ -993,6 +1049,14 @@
       "onboard_time": 1685603908,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 283400,
+      "num": 421046,
+      "word": "拼多多补贴力度不像是演的",
+      "onboard_time": 1685619325,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279102,
@@ -1065,6 +1129,22 @@
       "onboard_time": 1685620647,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260129,
+      "num": 260129,
+      "word": "尤靖茹回应艳压",
+      "onboard_time": 1685623948,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 260025,
+      "num": 260025,
+      "word": "巴黎主帅确认梅西即将离队",
+      "onboard_time": 1685621609,
+      "rank": 29,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 256981,
@@ -1187,14 +1267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242380,
-      "num": 242380,
-      "word": "巴黎主帅确认梅西即将离队",
-      "onboard_time": 1685621609,
-      "rank": 29,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 242282,
       "num": 236207,
       "word": "今晚追哪部剧",
@@ -1259,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235067,
+      "num": 235067,
+      "word": "男人眼中的6分女和6分男",
+      "onboard_time": 1685622988,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232863,
       "num": 232863,
       "word": "六一晚会",
@@ -1275,19 +1355,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 232090,
-      "num": 242045,
-      "word": "JDG打野",
-      "onboard_time": 1685621787,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 230958,
       "num": 230958,
       "word": "Rookie",
       "onboard_time": 1685546313,
       "rank": 21,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 229685,
+      "num": 229685,
+      "word": "刘青松",
+      "onboard_time": 1685624491,
+      "rank": 33,
       "category": "游戏"
     },
     {
@@ -1337,6 +1417,22 @@
       "onboard_time": 1685593231,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217504,
+      "num": 217504,
+      "word": "赵丽颖儿童节看小时候的画册",
+      "onboard_time": 1685625211,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 217300,
+      "num": 217300,
+      "word": "张予曦是真公主吧",
+      "onboard_time": 1685624129,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 215148,
@@ -1443,6 +1539,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204933,
+      "num": 204933,
+      "word": "王一博看秀内场照",
+      "onboard_time": 1685625211,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 201849,
+      "num": 201849,
+      "word": "朱珠到底有多飒",
+      "onboard_time": 1685623469,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200300,
       "num": 1108373,
       "word": "重庆一小学全校师生穿汉服过六一",
@@ -1483,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195128,
+      "num": 195128,
+      "word": "五月天王源合唱",
+      "onboard_time": 1685625570,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 193780,
       "num": 193780,
       "word": "新华社称黄牛该好好管管了",
@@ -1505,14 +1625,6 @@
       "onboard_time": 1685576726,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 193311,
-      "num": 193311,
-      "word": "侯明昊周也 双人舞请尽快安排",
-      "onboard_time": 1685623407,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 193246,
@@ -1553,6 +1665,14 @@
       "onboard_time": 1685623647,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189436,
+      "num": 189436,
+      "word": "肖战拍的最久的一场戏",
+      "onboard_time": 1685625329,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 188626,
@@ -1643,14 +1763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181540,
-      "num": 181540,
-      "word": "拼多多补贴力度不像是演的",
-      "onboard_time": 1685619325,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181375,
       "num": 181375,
       "word": "代号鸢",
@@ -1665,6 +1777,14 @@
       "onboard_time": 1685581408,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 177806,
+      "num": 177806,
+      "word": "天同",
+      "onboard_time": 1685625088,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172903,
@@ -1747,22 +1867,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 164481,
-      "num": 164481,
-      "word": "朱珠到底有多飒",
-      "onboard_time": 1685623469,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 164098,
-      "num": 164098,
-      "word": "男人眼中的6分女和6分男",
-      "onboard_time": 1685622988,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 164063,
       "num": 164063,
       "word": "赵露思浓妆vs淡妆",
@@ -1785,6 +1889,14 @@
       "onboard_time": 1685604506,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162507,
+      "num": 162507,
+      "word": "WBG首发名单",
+      "onboard_time": 1685624668,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 159173,
@@ -2268,7 +2380,7 @@
     },
     {
       "raw_hot": 75708,
-      "num": 194194,
+      "num": 355267,
       "word": "smart新车上市",
       "onboard_time": 1685623287,
       "rank": 32,
@@ -2449,6 +2561,14 @@
       "onboard_time": 1685543072,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 27811,
+      "num": 206363,
+      "word": "TVB直播带货成交额破亿",
+      "onboard_time": 1685624428,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27596,

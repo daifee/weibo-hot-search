@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685623879172,
+  "endTime": 1685625635288,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -371,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1762482,
+      "num": 1629553,
+      "word": "江歌母亲称已收到刘鑫全部赔偿款",
+      "onboard_time": 1685620705,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1758295,
       "num": 1758295,
       "word": "演唱会门票秒罄黄牛党捞钱术升级",
@@ -441,14 +449,6 @@
       "onboard_time": 1685516608,
       "rank": 30,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 1629553,
-      "num": 1629553,
-      "word": "江歌母亲称已收到刘鑫全部赔偿款",
-      "onboard_time": 1685620705,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1609257,
@@ -620,7 +620,7 @@
     },
     {
       "raw_hot": 1375823,
-      "num": 451462,
+      "num": 480524,
       "word": "李湘王岳伦带王诗龄逛街",
       "onboard_time": 1685620766,
       "rank": 10,
@@ -753,6 +753,14 @@
       "onboard_time": 1685333491,
       "rank": 46,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 1299049,
+      "num": 1299049,
+      "word": "肖战台词",
+      "onboard_time": 1685624309,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 1295628,
@@ -1059,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1073828,
+      "num": 792011,
+      "word": "女子退猫被拒后直接把猫摔死",
+      "onboard_time": 1685621187,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1070043,
       "num": 1070043,
       "word": "虞书欣的上衣是草编的",
@@ -1251,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 944019,
+      "num": 457135,
+      "word": "柳州与女子不雅聊天公职人员被免职",
+      "onboard_time": 1685624428,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 929988,
       "num": 929988,
       "word": "秦昊恋爱脑",
@@ -1305,6 +1329,14 @@
       "onboard_time": 1685317524,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 888042,
+      "num": 888042,
+      "word": "WBG零封JDG",
+      "onboard_time": 1685624668,
+      "rank": 1,
+      "category": "游戏"
     },
     {
       "raw_hot": 883719,
@@ -1425,14 +1457,6 @@
       "onboard_time": 1685446950,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 792011,
-      "num": 792011,
-      "word": "女子退猫被拒后直接把猫摔死",
-      "onboard_time": 1685621187,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 789075,
@@ -1987,6 +2011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 597309,
+      "num": 597309,
+      "word": "梦中的那片海",
+      "onboard_time": 1685504548,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 596137,
       "num": 201601,
       "word": "薛之谦巡演宜昌站预售",
@@ -2235,14 +2267,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 533345,
-      "num": 533345,
-      "word": "梦中的那片海",
-      "onboard_time": 1685504548,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 527372,
       "num": 527372,
       "word": "云南事业单位",
@@ -2443,6 +2467,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 500332,
+      "num": 500332,
+      "word": "五月天王源唱如果我们不曾相遇",
+      "onboard_time": 1685614647,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 497099,
       "num": 270488,
       "word": "范丞丞 裙子",
@@ -2497,6 +2529,14 @@
       "onboard_time": 1685532085,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488933,
+      "num": 488933,
+      "word": "WBG对战JDG",
+      "onboard_time": 1685618367,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 485950,
@@ -2987,6 +3027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 407976,
+      "num": 407976,
+      "word": "JDG打野",
+      "onboard_time": 1685621787,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 407473,
       "num": 368164,
       "word": "再厉害的总裁也得给姥姥送桌子",
@@ -3252,7 +3300,7 @@
     },
     {
       "raw_hot": 378711,
-      "num": 262257,
+      "num": 352953,
       "word": "河南人和山东人都别沉默了",
       "onboard_time": 1685620466,
       "rank": 23,
@@ -3475,6 +3523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 358284,
+      "num": 358284,
+      "word": "梦中的那片海开播收视率",
+      "onboard_time": 1685624848,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 357566,
       "num": 357566,
       "word": "发现同事已经在用AI摸鱼了",
@@ -3561,14 +3617,6 @@
       "onboard_time": 1685594189,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347969,
-      "num": 347969,
-      "word": "五月天王源唱如果我们不曾相遇",
-      "onboard_time": 1685614647,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 346972,
@@ -3689,6 +3737,14 @@
       "onboard_time": 1685609487,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 338796,
+      "num": 338796,
+      "word": "花戎",
+      "onboard_time": 1685351308,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 338634,
@@ -3923,14 +3979,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 323537,
-      "num": 323537,
-      "word": "花戎",
-      "onboard_time": 1685351308,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 323497,
       "num": 323497,
       "word": "后浪许萌跳楼",
@@ -4073,14 +4121,6 @@
       "onboard_time": 1685407889,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 314662,
-      "num": 314662,
-      "word": "WBG对战JDG",
-      "onboard_time": 1685618367,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 314350,
@@ -4283,6 +4323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 298809,
+      "num": 298809,
+      "word": "宋祖儿显眼肚",
+      "onboard_time": 1685624189,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297769,
       "num": 266420,
       "word": "SMTOWN新男团目前公开成员",
@@ -4305,6 +4353,14 @@
       "onboard_time": 1685365289,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 297060,
+      "num": 297060,
+      "word": "侯明昊周也 双人舞请尽快安排",
+      "onboard_time": 1685623407,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 296633,
@@ -4529,6 +4585,14 @@
       "onboard_time": 1685538326,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283400,
+      "num": 421046,
+      "word": "拼多多补贴力度不像是演的",
+      "onboard_time": 1685619325,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283130,
@@ -5011,6 +5075,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260129,
+      "num": 260129,
+      "word": "尤靖茹回应艳压",
+      "onboard_time": 1685623948,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 260025,
+      "num": 260025,
+      "word": "巴黎主帅确认梅西即将离队",
+      "onboard_time": 1685621609,
+      "rank": 29,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 259954,
       "num": 177512,
       "word": "藤井风 上海",
@@ -5483,14 +5563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242380,
-      "num": 242380,
-      "word": "巴黎主帅确认梅西即将离队",
-      "onboard_time": 1685621609,
-      "rank": 29,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 242282,
       "num": 236207,
       "word": "今晚追哪部剧",
@@ -5731,6 +5803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 235067,
+      "num": 235067,
+      "word": "男人眼中的6分女和6分男",
+      "onboard_time": 1685622988,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 233746,
       "num": 198299,
       "word": "baby王嘉尔 黑道文学",
@@ -5795,14 +5875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 232090,
-      "num": 242045,
-      "word": "JDG打野",
-      "onboard_time": 1685621787,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 230958,
       "num": 230958,
       "word": "Rookie",
@@ -5833,6 +5905,14 @@
       "onboard_time": 1685493752,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 229685,
+      "num": 229685,
+      "word": "刘青松",
+      "onboard_time": 1685624491,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 228236,
@@ -6161,6 +6241,22 @@
       "onboard_time": 1685497827,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217504,
+      "num": 217504,
+      "word": "赵丽颖儿童节看小时候的画册",
+      "onboard_time": 1685625211,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 217300,
+      "num": 217300,
+      "word": "张予曦是真公主吧",
+      "onboard_time": 1685624129,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 217271,
@@ -6579,6 +6675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 204933,
+      "num": 204933,
+      "word": "王一博看秀内场照",
+      "onboard_time": 1685625211,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 204811,
       "num": 204811,
       "word": "wtt",
@@ -6673,6 +6777,14 @@
       "onboard_time": 1685414248,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201849,
+      "num": 201849,
+      "word": "朱珠到底有多飒",
+      "onboard_time": 1685623469,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 201730,
@@ -6955,6 +7067,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 195128,
+      "num": 195128,
+      "word": "五月天王源合唱",
+      "onboard_time": 1685625570,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 195105,
       "num": 195105,
       "word": "樊振东vs王楚钦",
@@ -7041,14 +7161,6 @@
       "onboard_time": 1685576726,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 193311,
-      "num": 193311,
-      "word": "侯明昊周也 双人舞请尽快安排",
-      "onboard_time": 1685623407,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 193246,
@@ -7233,6 +7345,14 @@
       "onboard_time": 1685364149,
       "rank": 2,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 189436,
+      "num": 189436,
+      "word": "肖战拍的最久的一场戏",
+      "onboard_time": 1685625329,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 189375,
@@ -7515,14 +7635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 181540,
-      "num": 181540,
-      "word": "拼多多补贴力度不像是演的",
-      "onboard_time": 1685619325,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181486,
       "num": 181486,
       "word": "谢娜菠萝菠萝蜜与面纱舞蹈的契合度",
@@ -7625,6 +7737,14 @@
       "onboard_time": 1685353168,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 177806,
+      "num": 177806,
+      "word": "天同",
+      "onboard_time": 1685625088,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177655,
@@ -8003,28 +8123,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 164481,
-      "num": 164481,
-      "word": "朱珠到底有多飒",
-      "onboard_time": 1685623469,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 164123,
       "num": 164123,
       "word": "杨紫说相聚很高兴",
       "onboard_time": 1685491650,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 164098,
-      "num": 164098,
-      "word": "男人眼中的6分女和6分男",
-      "onboard_time": 1685622988,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 164063,
@@ -8097,6 +8201,14 @@
       "onboard_time": 1685604506,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162507,
+      "num": 162507,
+      "word": "WBG首发名单",
+      "onboard_time": 1685624668,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 161589,
@@ -9772,7 +9884,7 @@
     },
     {
       "raw_hot": 75708,
-      "num": 194194,
+      "num": 355267,
       "word": "smart新车上市",
       "onboard_time": 1685623287,
       "rank": 32,
@@ -10201,6 +10313,14 @@
       "onboard_time": 1685385194,
       "rank": 45,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 27811,
+      "num": 206363,
+      "word": "TVB直播带货成交额破亿",
+      "onboard_time": 1685624428,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27596,
