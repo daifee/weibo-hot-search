@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685607652947,
+  "endTime": 1685608412134,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -427,6 +427,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1609257,
+      "num": 1609257,
+      "word": "男生接女友下班遭车祸致1死1病危",
+      "onboard_time": 1685603186,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1579628,
       "num": 1579628,
       "word": "微信文字讨好症",
@@ -697,6 +705,14 @@
       "onboard_time": 1685333491,
       "rank": 46,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 1298502,
+      "num": 1298502,
+      "word": "官方通报局长出轨女经理",
+      "onboard_time": 1685605467,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1295628,
@@ -1148,7 +1164,7 @@
     },
     {
       "raw_hot": 962741,
-      "num": 431595,
+      "num": 545406,
       "word": "刘昊然手机很烂应该是他",
       "onboard_time": 1685596649,
       "rank": 22,
@@ -1169,14 +1185,6 @@
       "onboard_time": 1685432669,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 936915,
-      "num": 936915,
-      "word": "男生接女友下班遭车祸致1死1病危",
-      "onboard_time": 1685603186,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 929988,
@@ -1217,6 +1225,14 @@
       "onboard_time": 1685352029,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 907381,
+      "num": 907381,
+      "word": "EXO是我们公司非常珍惜的艺人",
+      "onboard_time": 1685606306,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 894425,
@@ -1699,6 +1715,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 628878,
+      "num": 628878,
+      "word": "ChatGPT高三考试仅物理得零分",
+      "onboard_time": 1685602770,
+      "rank": 22,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 628445,
       "num": 628445,
       "word": "世界破破烂烂 小狗缝缝补补",
@@ -1891,14 +1915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 583841,
-      "num": 583841,
-      "word": "EXO是我们公司非常珍惜的艺人",
-      "onboard_time": 1685606306,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 582791,
       "num": 566186,
       "word": "你管周也这张脸叫普普通通",
@@ -1955,6 +1971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 562251,
+      "num": 562251,
+      "word": "EXO新歌MV拍摄取消",
+      "onboard_time": 1685606668,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 559462,
       "num": 243197,
       "word": "宋茜玫瑰粉裙",
@@ -2001,6 +2025,14 @@
       "onboard_time": 1685524469,
       "rank": 36,
       "category": "情感,音乐"
+    },
+    {
+      "raw_hot": 553350,
+      "num": 553350,
+      "word": "赵雅芝70岁状态有多绝",
+      "onboard_time": 1685604927,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 553132,
@@ -2217,14 +2249,6 @@
       "onboard_time": 1685454514,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 513379,
-      "num": 513379,
-      "word": "赵雅芝70岁状态有多绝",
-      "onboard_time": 1685604927,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 509432,
@@ -2459,14 +2483,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 469321,
-      "num": 469321,
-      "word": "ChatGPT高三考试仅物理得零分",
-      "onboard_time": 1685602770,
-      "rank": 22,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 468625,
       "num": 468625,
       "word": "袁姗姗戴绿帽子直播",
@@ -2585,14 +2601,6 @@
       "onboard_time": 1685409568,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 437774,
-      "num": 437774,
-      "word": "EXO新歌MV拍摄取消",
-      "onboard_time": 1685606668,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 437444,
@@ -3507,6 +3515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337520,
+      "num": 337520,
+      "word": "莫文蔚让张韶涵杨宗纬赶快结婚",
+      "onboard_time": 1685604867,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 337088,
       "num": 324358,
       "word": "杨幂抱着蜜蜂玩偶",
@@ -4291,6 +4307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 282357,
+      "num": 220359,
+      "word": "肖战新剧不断更",
+      "onboard_time": 1685607086,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 280598,
       "num": 280598,
       "word": "李现芭莎年度派对上班路透",
@@ -4577,14 +4601,6 @@
       "onboard_time": 1685278589,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269436,
-      "num": 189493,
-      "word": "莫文蔚让张韶涵杨宗纬赶快结婚",
-      "onboard_time": 1685604867,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 269421,
@@ -4955,6 +4971,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 250152,
+      "num": 250152,
+      "word": "阿根廷中国行票价",
+      "onboard_time": 1685604446,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249668,
       "num": 249668,
       "word": "迪丽热巴私服",
@@ -5132,7 +5156,7 @@
     },
     {
       "raw_hot": 244193,
-      "num": 182898,
+      "num": 188482,
       "word": "乐华家族演唱会有王一博",
       "onboard_time": 1685606668,
       "rank": 26,
@@ -5177,14 +5201,6 @@
       "onboard_time": 1685267489,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 242915,
-      "num": 242915,
-      "word": "阿根廷中国行票价",
-      "onboard_time": 1685604446,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 242282,
@@ -6307,14 +6323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 201162,
-      "num": 178142,
-      "word": "肖战新剧不断更",
-      "onboard_time": 1685607086,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 201074,
       "num": 201074,
       "word": "2023PEL夏季赛大名单",
@@ -6644,7 +6652,7 @@
     },
     {
       "raw_hot": 193246,
-      "num": 1157442,
+      "num": 1307695,
       "word": "无论几岁快乐万岁",
       "onboard_time": 1685596827,
       "rank": 2,
@@ -6833,6 +6841,14 @@
       "onboard_time": 1685520328,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188626,
+      "num": 160518,
+      "word": "张艺兴街边开儿童车",
+      "onboard_time": 1685608048,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 188436,
@@ -7177,6 +7193,14 @@
       "onboard_time": 1685536825,
       "rank": 36,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 176922,
+      "num": 176922,
+      "word": "女子为帮装空调丈夫拉安全绳拒绝减肥",
+      "onboard_time": 1685607687,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176799,
@@ -8083,6 +8107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140549,
+      "num": 140549,
+      "word": "柯基被砍当事人对侮辱诽谤已报警",
+      "onboard_time": 1685607508,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140498,
       "num": 140498,
       "word": "影视剧六一海报",
@@ -8691,6 +8723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 116205,
+      "num": 120006,
+      "word": "开门大吉",
+      "onboard_time": 1685607926,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116162,
       "num": 132437,
       "word": "镖人动画开播",
@@ -9123,14 +9163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82375,
-      "num": 105051,
-      "word": "柯基被砍当事人对侮辱诽谤已报警",
-      "onboard_time": 1685607508,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 82016,
       "num": 397695,
       "word": "年轻人的夜拍搭子",
@@ -9153,6 +9185,14 @@
       "onboard_time": 1685405549,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79551,
+      "num": 119770,
+      "word": "是谁在回忆高中",
+      "onboard_time": 1685607747,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 78265,
@@ -9483,6 +9523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 44736,
+      "num": 336929,
+      "word": "儿童节惊喜是铁骑小姐姐给的",
+      "onboard_time": 1685598087,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42872,
       "num": 155499,
       "word": "618大家都买了啥",
@@ -9617,14 +9665,6 @@
       "onboard_time": 1685403326,
       "rank": 29,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 25842,
-      "num": 336929,
-      "word": "儿童节惊喜是铁骑小姐姐给的",
-      "onboard_time": 1685598087,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25795,
