@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685618045125,
+  "endTime": 1685619198988,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -17,6 +17,14 @@
       "onboard_time": 1685605467,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2078971,
+      "num": 2078971,
+      "word": "你愿意降薪去体制内吗",
+      "onboard_time": 1685616206,
+      "rank": 3,
+      "category": "社会议题"
     },
     {
       "raw_hot": 2041966,
@@ -171,14 +179,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1128271,
-      "num": 1128271,
-      "word": "你愿意降薪去体制内吗",
-      "onboard_time": 1685616206,
-      "rank": 3,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 1105584,
       "num": 1105584,
       "word": "胡可说不要把另一半当自己人",
@@ -192,6 +192,14 @@
       "word": "横着亲",
       "onboard_time": 1685597789,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1081873,
+      "num": 1081873,
+      "word": "二三十了还觉得自己是个小孩正常吗",
+      "onboard_time": 1685614287,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -235,14 +243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 837507,
-      "num": 837507,
-      "word": "二三十了还觉得自己是个小孩正常吗",
-      "onboard_time": 1685614287,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 770410,
       "num": 680162,
       "word": "别把医术拍成了法术",
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 726387,
-      "num": 1361452,
+      "num": 1615343,
       "word": "女子为帮装空调丈夫拉安全绳拒绝减肥",
       "onboard_time": 1685607687,
       "rank": 28,
@@ -315,6 +315,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 615740,
+      "num": 545703,
+      "word": "肖战王一博同款衬衣",
+      "onboard_time": 1685615487,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 608568,
       "num": 608568,
       "word": "你的六一我的六一好像不一样",
@@ -337,14 +345,6 @@
       "onboard_time": 1685582366,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 576502,
-      "num": 545703,
-      "word": "肖战王一博同款衬衣",
-      "onboard_time": 1685615487,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 570370,
@@ -619,6 +619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 360417,
+      "num": 1143728,
+      "word": "幼儿园摆20桌请200孩子吃席庆六一",
+      "onboard_time": 1685616446,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359169,
       "num": 251475,
       "word": "舞台2023歌手名单",
@@ -635,12 +643,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350994,
+      "num": 350994,
+      "word": "百度贴吧回应女子婚纱照被盗孙吧",
+      "onboard_time": 1685613869,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348932,
       "num": 290858,
       "word": "丫丫和新家人祝大家儿童节快乐",
       "onboard_time": 1685594189,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347969,
+      "num": 347969,
+      "word": "五月天王源唱如果我们不曾相遇",
+      "onboard_time": 1685614647,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 347591,
@@ -691,14 +715,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 337648,
-      "num": 337648,
-      "word": "五月天王源唱如果我们不曾相遇",
-      "onboard_time": 1685614647,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 337520,
       "num": 337520,
       "word": "莫文蔚让张韶涵杨宗纬赶快结婚",
@@ -729,6 +745,14 @@
       "onboard_time": 1685592267,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 327994,
+      "num": 327994,
+      "word": "鹿晗演唱会北京站可部分退票",
+      "onboard_time": 1685616749,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 326386,
@@ -899,14 +923,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 274604,
-      "num": 274604,
-      "word": "百度贴吧回应女子婚纱照被盗孙吧",
-      "onboard_time": 1685613869,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 272868,
       "num": 272868,
       "word": "儿童节快乐",
@@ -929,6 +945,14 @@
       "onboard_time": 1685617466,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 265515,
+      "num": 244449,
+      "word": "TFBOYS十周年演唱会灯牌设计",
+      "onboard_time": 1685616086,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 256981,
@@ -1011,6 +1035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 247972,
+      "num": 247972,
+      "word": "六一",
+      "onboard_time": 1685618548,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246412,
       "num": 246412,
       "word": "cbx",
@@ -1019,12 +1051,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 244449,
-      "num": 244449,
-      "word": "TFBOYS十周年演唱会灯牌设计",
-      "onboard_time": 1685616086,
-      "rank": 24,
-      "category": "音乐"
+      "raw_hot": 245213,
+      "num": 245213,
+      "word": "少爷和我再合体",
+      "onboard_time": 1685617707,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 244193,
@@ -1057,6 +1089,14 @@
       "onboard_time": 1685585667,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 242233,
+      "num": 242233,
+      "word": "孙策剧情",
+      "onboard_time": 1685618186,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 241773,
@@ -1163,28 +1203,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 217008,
-      "num": 217008,
-      "word": "鹿晗演唱会北京站可部分退票",
-      "onboard_time": 1685616749,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 215148,
       "num": 215148,
       "word": "虞书欣是什么旅游特种兵",
       "onboard_time": 1685584046,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 214556,
-      "num": 214556,
-      "word": "少爷和我再合体",
-      "onboard_time": 1685617707,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 213377,
@@ -1201,6 +1225,14 @@
       "onboard_time": 1685604747,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213079,
+      "num": 213079,
+      "word": "吴磊女施主请自重",
+      "onboard_time": 1685616928,
+      "rank": 31,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 211103,
@@ -1371,6 +1403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189467,
+      "num": 189467,
+      "word": "椿山漫 抄袭",
+      "onboard_time": 1685618245,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188626,
       "num": 160518,
       "word": "张艺兴街边开儿童车",
@@ -1475,14 +1515,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 174936,
-      "num": 174936,
-      "word": "吴磊女施主请自重",
-      "onboard_time": 1685616928,
-      "rank": 31,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 172903,
       "num": 172903,
       "word": "请张彬彬不要随意解衬衫",
@@ -1585,14 +1617,6 @@
       "onboard_time": 1685604506,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 161731,
-      "num": 956055,
-      "word": "幼儿园摆20桌请200孩子吃席庆六一",
-      "onboard_time": 1685616446,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159151,
@@ -1763,6 +1787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137445,
+      "num": 137445,
+      "word": "比亚迪",
+      "onboard_time": 1685618667,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134843,
       "num": 134843,
       "word": "特斯拉",
@@ -1843,6 +1875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123857,
+      "num": 123857,
+      "word": "迪丽热巴童趣钻石妆",
+      "onboard_time": 1685618548,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120187,
       "num": 120187,
       "word": "3岁三胞胎姐妹解锁派出所综窗初体验",
@@ -1881,6 +1921,14 @@
       "onboard_time": 1685599887,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118140,
+      "num": 118140,
+      "word": "WBG对战JDG",
+      "onboard_time": 1685618367,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 117805,
@@ -2116,7 +2164,7 @@
     },
     {
       "raw_hot": 65719,
-      "num": 1234707,
+      "num": 1319459,
       "word": "打卡中国",
       "onboard_time": 1685608468,
       "rank": 2,
