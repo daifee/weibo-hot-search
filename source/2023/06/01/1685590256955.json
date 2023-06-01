@@ -1,0 +1,410 @@
+{
+  "runTime": 1685590256955,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1289278,
+        "num": 1289278,
+        "word": "吴磊 快走吧哥们要累死了",
+        "onboard_time": 1685585607,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1177323,
+        "num": 1177323,
+        "word": "边伯贤金珉锡金钟大与SMTOWN解约",
+        "onboard_time": 1685581949,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13846,
+        "num": 1043491,
+        "word": "中国航天员太空会师名场面再现",
+        "onboard_time": 1685537908,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1013896,
+        "num": 1013896,
+        "word": "杨洋王楚然废墟救赎感剧照",
+        "onboard_time": 1685587647,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 719896,
+        "num": 719896,
+        "word": "出租房装的空调是5级能耗",
+        "onboard_time": 1685574199,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586096,
+        "num": 586096,
+        "word": "别把医术拍成了法术",
+        "onboard_time": 1685579007,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 579153,
+        "num": 579153,
+        "word": "SMTOWN发生了什么",
+        "onboard_time": 1685586327,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564416,
+        "num": 564416,
+        "word": "产妇羊水栓塞医生集体赶来抢救",
+        "onboard_time": 1685582366,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541636,
+        "num": 541636,
+        "word": "你的六一我的六一好像不一样",
+        "onboard_time": 1685586086,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530483,
+        "num": 530483,
+        "word": "假性亲密关系",
+        "onboard_time": 1685580387,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1300852,
+        "num": 520237,
+        "word": "明星谴责虐待动物者却遭曝光个人信息",
+        "onboard_time": 1685579429,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 838532,
+        "num": 504044,
+        "word": "你喜欢大海 我承包岛",
+        "onboard_time": 1685579847,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 598894,
+        "num": 498251,
+        "word": "Angelababy是靠什么长红多年的",
+        "onboard_time": 1685588486,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475082,
+        "num": 475082,
+        "word": "2023高考报名人数1291万人",
+        "onboard_time": 1685585246,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 138569,
+        "num": 459820,
+        "word": "晒晒你的六一小餐桌",
+        "onboard_time": 1685588427,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450916,
+        "num": 450916,
+        "word": "五月天嘉宾 王源",
+        "onboard_time": 1685586086,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 427068,
+        "num": 427068,
+        "word": "EXO还回归吗",
+        "onboard_time": 1685582488,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412774,
+        "num": 412774,
+        "word": "摩尔庄园",
+        "onboard_time": 1685587765,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 381401,
+        "num": 381401,
+        "word": "Lisa脚趾头",
+        "onboard_time": 1685545051,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 258204,
+        "num": 258204,
+        "word": "坐飞机要称体重了",
+        "onboard_time": 1685542230,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438565,
+        "num": 257281,
+        "word": "事业单位",
+        "onboard_time": 1685589866,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 337570,
+        "num": 255784,
+        "word": "鞠婧祎每部戏妆容都差不多",
+        "onboard_time": 1685583927,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 300942,
+        "num": 255638,
+        "word": "吉克隽逸童年照肤色",
+        "onboard_time": 1685589806,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251727,
+        "num": 251727,
+        "word": "保护少年的你",
+        "onboard_time": 1685589206,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249842,
+        "num": 249842,
+        "word": "小学生放学捡到特殊纸币报警",
+        "onboard_time": 1685588606,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 288763,
+        "num": 246518,
+        "word": "财阀家的小儿子将拍第二季",
+        "onboard_time": 1685586268,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235272,
+        "num": 235272,
+        "word": "胡可说不要把另一半当自己人",
+        "onboard_time": 1685542169,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233580,
+        "num": 233580,
+        "word": "儿童套餐",
+        "onboard_time": 1685589685,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 229148,
+        "num": 229148,
+        "word": "谈一次恋爱被笑话一辈子",
+        "onboard_time": 1685584646,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223906,
+        "num": 223906,
+        "word": "今晚追哪部剧",
+        "onboard_time": 1685585667,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231035,
+        "num": 223523,
+        "word": "杨幂抱着蜜蜂玩偶",
+        "onboard_time": 1685589627,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341004,
+        "num": 223488,
+        "word": "亲生父母殴打虐待10岁孩子致死",
+        "onboard_time": 1685584646,
+        "rank": 31,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 222870,
+        "num": 222870,
+        "word": "六一儿童节",
+        "onboard_time": 1685545292,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214239,
+        "num": 214239,
+        "word": "肖战刘芮麟新剧演兄弟",
+        "onboard_time": 1685589806,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205083,
+        "num": 205083,
+        "word": "六一文案",
+        "onboard_time": 1685576184,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203449,
+        "num": 203449,
+        "word": "广东事业单位",
+        "onboard_time": 1685589987,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 195564,
+        "num": 195564,
+        "word": "小樱小狼 情侣战斗服",
+        "onboard_time": 1685583746,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 188041,
+        "num": 188041,
+        "word": "孙茜6岁儿子制服证件照",
+        "onboard_time": 1685588486,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1165367,
+        "num": 187785,
+        "word": "男子多次性侵女友孙女致其染上妇科病",
+        "onboard_time": 1685548168,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57398,
+        "num": 187562,
+        "word": "为什么喜欢给小孩子拍照",
+        "onboard_time": 1685588427,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184175,
+        "num": 187378,
+        "word": "小时候都有哪些无法释怀的事",
+        "onboard_time": 1685590048,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187378,
+        "num": 187377,
+        "word": "云南事业单位",
+        "onboard_time": 1685583091,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175082,
+        "num": 175082,
+        "word": "你的童年回忆杀是什么",
+        "onboard_time": 1685588907,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174641,
+        "num": 174641,
+        "word": "早睡可以解决80%以上的问题",
+        "onboard_time": 1685525007,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170245,
+        "num": 170245,
+        "word": "你以为很贵实则很便宜的东西",
+        "onboard_time": 1685577507,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169971,
+        "num": 169971,
+        "word": "我的人间烟火",
+        "onboard_time": 1685588907,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167722,
+        "num": 167722,
+        "word": "白鹿换头像参加粉丝六一团建",
+        "onboard_time": 1685587405,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159990,
+        "num": 159990,
+        "word": "新娘偷塞手捧花给伴郎向伴娘求婚",
+        "onboard_time": 1685583687,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152641,
+        "num": 152641,
+        "word": "英雄联盟 赵露思时代少年团",
+        "onboard_time": 1685584227,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144315,
+        "num": 144315,
+        "word": "虞书欣是什么旅游特种兵",
+        "onboard_time": 1685584046,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#博士乘组出征精彩瞬间合集#"
+    }
+  }
+}

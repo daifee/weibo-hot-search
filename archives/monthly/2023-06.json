@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685589665870,
+  "endTime": 1685590256955,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -51,20 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1289278,
+      "num": 1289278,
+      "word": "吴磊 快走吧哥们要累死了",
+      "onboard_time": 1685585607,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1265552,
       "num": 1265552,
       "word": "退款",
       "onboard_time": 1685536526,
       "rank": 1,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 1214919,
-      "num": 1214919,
-      "word": "吴磊 快走吧哥们要累死了",
-      "onboard_time": 1685585607,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 1105584,
@@ -75,8 +75,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 869601,
-      "num": 869601,
+      "raw_hot": 1013896,
+      "num": 1013896,
       "word": "杨洋王楚然废墟救赎感剧照",
       "onboard_time": 1685587647,
       "rank": 3,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 598894,
+      "num": 498251,
+      "word": "Angelababy是靠什么长红多年的",
+      "onboard_time": 1685588486,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 593868,
       "num": 593868,
       "word": "产妇羊水栓塞医生集体赶来抢救",
@@ -163,8 +171,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 535665,
-      "num": 535665,
+      "raw_hot": 541636,
+      "num": 541636,
       "word": "你的六一我的六一好像不一样",
       "onboard_time": 1685586086,
       "rank": 28,
@@ -227,6 +235,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 438565,
+      "num": 257281,
+      "word": "事业单位",
+      "onboard_time": 1685589866,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 434172,
       "num": 434172,
       "word": "六一儿童节",
@@ -235,12 +251,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 426087,
-      "num": 426087,
-      "word": "Angelababy是靠什么长红多年的",
-      "onboard_time": 1685588486,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 412774,
+      "num": 412774,
+      "word": "摩尔庄园",
+      "onboard_time": 1685587765,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 400668,
@@ -307,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 341004,
+      "num": 271051,
+      "word": "亲生父母殴打虐待10岁孩子致死",
+      "onboard_time": 1685584646,
+      "rank": 36,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 338634,
       "num": 338634,
       "word": "金龟子问当年的小朋友还好吗",
@@ -331,14 +355,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 318135,
-      "num": 318135,
-      "word": "摩尔庄园",
-      "onboard_time": 1685587765,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 311706,
       "num": 311706,
       "word": "长月烬明三位主演的后续",
@@ -347,20 +363,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 305182,
-      "num": 271051,
-      "word": "亲生父母殴打虐待10岁孩子致死",
-      "onboard_time": 1685584646,
-      "rank": 36,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 302077,
       "num": 302077,
       "word": "六一文案",
       "onboard_time": 1685576184,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300942,
+      "num": 255638,
+      "word": "吉克隽逸童年照肤色",
+      "onboard_time": 1685589806,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 297131,
@@ -427,6 +443,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251727,
+      "num": 251727,
+      "word": "保护少年的你",
+      "onboard_time": 1685589206,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249842,
+      "num": 249842,
+      "word": "小学生放学捡到特殊纸币报警",
+      "onboard_time": 1685588606,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 246412,
       "num": 246412,
       "word": "cbx",
@@ -459,20 +491,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 234801,
-      "num": 234801,
-      "word": "保护少年的你",
-      "onboard_time": 1685589206,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 233315,
-      "num": 233315,
-      "word": "小学生放学捡到特殊纸币报警",
-      "onboard_time": 1685588606,
-      "rank": 29,
-      "category": "社会新闻,教育"
+      "raw_hot": 233580,
+      "num": 233580,
+      "word": "儿童套餐",
+      "onboard_time": 1685589685,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 232273,
@@ -481,6 +505,14 @@
       "onboard_time": 1685580569,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231035,
+      "num": 223523,
+      "word": "杨幂抱着蜜蜂玩偶",
+      "onboard_time": 1685589627,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 230958,
@@ -531,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214239,
+      "num": 214239,
+      "word": "肖战刘芮麟新剧演兄弟",
+      "onboard_time": 1685589806,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 213377,
       "num": 213377,
       "word": "邓超儿子等等打篮球",
@@ -579,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203449,
+      "num": 203449,
+      "word": "广东事业单位",
+      "onboard_time": 1685589987,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 199612,
       "num": 199612,
       "word": "TOP说自己已经离开了BIGBANG",
@@ -611,6 +659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188041,
+      "num": 188041,
+      "word": "孙茜6岁儿子制服证件照",
+      "onboard_time": 1685588486,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187061,
       "num": 187061,
       "word": "吴谢宇 三联",
@@ -633,6 +689,14 @@
       "onboard_time": 1685589506,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184175,
+      "num": 187378,
+      "word": "小时候都有哪些无法释怀的事",
+      "onboard_time": 1685590048,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 183293,
@@ -667,14 +731,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 174411,
-      "num": 174411,
-      "word": "孙茜6岁儿子制服证件照",
-      "onboard_time": 1685588486,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 172903,
       "num": 172903,
       "word": "请张彬彬不要随意解衬衫",
@@ -689,6 +745,14 @@
       "onboard_time": 1685544453,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 167722,
+      "num": 167722,
+      "word": "白鹿换头像参加粉丝六一团建",
+      "onboard_time": 1685587405,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 166865,
@@ -721,14 +785,6 @@
       "onboard_time": 1685547988,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 158768,
-      "num": 158768,
-      "word": "白鹿换头像参加粉丝六一团建",
-      "onboard_time": 1685587405,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 157184,
@@ -811,19 +867,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138569,
+      "num": 468634,
+      "word": "晒晒你的六一小餐桌",
+      "onboard_time": 1685588427,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137559,
       "num": 134245,
       "word": "杨和苏朋友圈",
       "onboard_time": 1685538627,
       "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 134698,
-      "num": 134698,
-      "word": "杨幂抱着蜜蜂玩偶",
-      "onboard_time": 1685589627,
-      "rank": 48,
       "category": "艺人"
     },
     {
@@ -907,14 +963,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 102257,
-      "num": 468634,
-      "word": "晒晒你的六一小餐桌",
-      "onboard_time": 1685588427,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92931,
       "num": 132073,
       "word": "六一儿童节快乐",
@@ -979,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57398,
+      "num": 187562,
+      "word": "为什么喜欢给小孩子拍照",
+      "onboard_time": 1685588427,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 56645,
       "num": 56645,
       "word": "赵丽颖发了粉丝修的图",
@@ -1001,14 +1057,6 @@
       "onboard_time": 1685574259,
       "rank": 46,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 50909,
-      "num": 182305,
-      "word": "为什么喜欢给小孩子拍照",
-      "onboard_time": 1685588427,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 47994,
