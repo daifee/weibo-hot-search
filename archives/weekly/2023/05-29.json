@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685603774813,
+  "endTime": 1685604821138,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -795,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1240382,
+      "num": 1240382,
+      "word": "迪丽热巴回应脸不像检察官",
+      "onboard_time": 1685600970,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1237827,
       "num": 916154,
       "word": "唐嫣露腿了",
@@ -817,14 +825,6 @@
       "onboard_time": 1685344045,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1224144,
-      "num": 1224144,
-      "word": "迪丽热巴回应脸不像检察官",
-      "onboard_time": 1685600970,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 1215052,
@@ -2355,6 +2355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485229,
+      "num": 485229,
+      "word": "杨洋王楚然剧照 太阳的后裔",
+      "onboard_time": 1685603249,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 484937,
       "num": 484937,
       "word": "杭州LGD更名",
@@ -2505,6 +2513,14 @@
       "onboard_time": 1685338409,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 454161,
+      "num": 344176,
+      "word": "男生接女友下班遭车祸致1死1病危",
+      "onboard_time": 1685603186,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 450384,
@@ -2827,6 +2843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 402186,
+      "num": 181179,
+      "word": "ChatGPT高三考试仅物理得零分",
+      "onboard_time": 1685602770,
+      "rank": 22,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 402062,
       "num": 402062,
       "word": "张翰新剧演庄周",
@@ -2835,7 +2859,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 401883,
+      "raw_hot": 401980,
       "num": 433132,
       "word": "为什么我们不聊杰克辣条",
       "onboard_time": 1685597789,
@@ -2929,6 +2953,14 @@
       "onboard_time": 1685538267,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 393775,
+      "num": 181832,
+      "word": "女子被骗至金三角吸毒卖淫获救",
+      "onboard_time": 1685600667,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 393451,
@@ -3065,14 +3097,6 @@
       "onboard_time": 1685510850,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 376476,
-      "num": 181832,
-      "word": "女子被骗至金三角吸毒卖淫获救",
-      "onboard_time": 1685600667,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 376241,
@@ -3363,6 +3387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345058,
+      "num": 345058,
+      "word": "浙江一学院面向女生讲座内容引争议",
+      "onboard_time": 1685601387,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 344300,
       "num": 312330,
       "word": "TFBOYS这几年到底发生了什么",
@@ -3417,6 +3449,14 @@
       "onboard_time": 1685457815,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 339916,
+      "num": 339916,
+      "word": "狗狗耳朵上的小夹层是做啥用的",
+      "onboard_time": 1685599228,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 338634,
@@ -3667,6 +3707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 321734,
+      "num": 321734,
+      "word": "手工耿 适合中国宝宝体质的林克",
+      "onboard_time": 1685601507,
+      "rank": 30,
+      "category": "网红,游戏"
+    },
+    {
       "raw_hot": 321516,
       "num": 321516,
       "word": "是恶评 龚俊别看",
@@ -3753,6 +3801,14 @@
       "onboard_time": 1685450312,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 317277,
+      "num": 317277,
+      "word": "就喜欢纯爱",
+      "onboard_time": 1685602106,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 315482,
@@ -3857,14 +3913,6 @@
       "onboard_time": 1685371774,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 307193,
-      "num": 307193,
-      "word": "狗狗耳朵上的小夹层是做啥用的",
-      "onboard_time": 1685599228,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 306741,
@@ -4121,6 +4169,14 @@
       "onboard_time": 1685577507,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 286973,
+      "num": 174802,
+      "word": "肖春生刘能同款造型",
+      "onboard_time": 1685603908,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 286812,
@@ -4715,14 +4771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 255383,
-      "num": 181179,
-      "word": "ChatGPT高三考试仅物理得零分",
-      "onboard_time": 1685602770,
-      "rank": 22,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 255366,
       "num": 255366,
       "word": "在暴雪时分全阵容官宣",
@@ -5017,14 +5065,6 @@
       "onboard_time": 1685509237,
       "rank": 34,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 244947,
-      "num": 172705,
-      "word": "手工耿 适合中国宝宝体质的林克",
-      "onboard_time": 1685601507,
-      "rank": 30,
-      "category": "网红,游戏"
     },
     {
       "raw_hot": 244684,
@@ -5643,14 +5683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220816,
-      "num": 220816,
-      "word": "浙江一学院面向女生讲座内容引争议",
-      "onboard_time": 1685601387,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 220778,
       "num": 220778,
       "word": "街舞6网传嘉宾阵容",
@@ -5673,14 +5705,6 @@
       "onboard_time": 1685319747,
       "rank": 35,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 220422,
-      "num": 180731,
-      "word": "杨洋王楚然剧照 太阳的后裔",
-      "onboard_time": 1685603249,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 220360,
@@ -5811,6 +5835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213100,
+      "num": 174728,
+      "word": "杨紫带狗狗跳flower",
+      "onboard_time": 1685604747,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212868,
       "num": 212868,
       "word": "比亚迪",
@@ -5865,6 +5897,14 @@
       "onboard_time": 1685584227,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210549,
+      "num": 210549,
+      "word": "SMTOWN说钱不重要",
+      "onboard_time": 1685603726,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 210110,
@@ -6579,6 +6619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192664,
+      "num": 174649,
+      "word": "马佳 剧院魅影",
+      "onboard_time": 1685603788,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192605,
       "num": 192605,
       "word": "程潇化了雀斑妆",
@@ -6827,6 +6875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184808,
+      "num": 174583,
+      "word": "为什么南方没有暴走团",
+      "onboard_time": 1685603549,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 184296,
       "num": 184296,
       "word": "难听",
@@ -7033,22 +7089,6 @@
       "onboard_time": 1685347587,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 179699,
-      "num": 172552,
-      "word": "男生接女友下班遭车祸致1死1病危",
-      "onboard_time": 1685603186,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179186,
-      "num": 179186,
-      "word": "就喜欢纯爱",
-      "onboard_time": 1685602106,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 179092,
@@ -7571,6 +7611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159151,
+      "num": 159151,
+      "word": "五月天在台上唱你不是真正的快乐",
+      "onboard_time": 1685601087,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 158941,
       "num": 158941,
       "word": "热火黑八奇迹",
@@ -7691,6 +7739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 155499,
+      "num": 155499,
+      "word": "明星芭莎吃东西大片",
+      "onboard_time": 1685602770,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 155425,
       "num": 184394,
       "word": "毛孩子奔向你能有多快乐",
@@ -7745,22 +7801,6 @@
       "onboard_time": 1685576726,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 152331,
-      "num": 152331,
-      "word": "明星芭莎吃东西大片",
-      "onboard_time": 1685602770,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 151796,
-      "num": 151796,
-      "word": "五月天在台上唱你不是真正的快乐",
-      "onboard_time": 1685601087,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 151758,
@@ -8099,14 +8139,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 134259,
-      "num": 134259,
-      "word": "为什么南方没有暴走团",
-      "onboard_time": 1685603549,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 133857,
       "num": 113548,
       "word": "黄子韬 萌探",
@@ -8211,6 +8243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129713,
+      "num": 115453,
+      "word": "好多女明星扎双马尾啊",
+      "onboard_time": 1685604506,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129070,
       "num": 129070,
       "word": "观众称花千元在演唱会上看柱子",
@@ -8228,7 +8268,7 @@
     },
     {
       "raw_hot": 129001,
-      "num": 173014,
+      "num": 174559,
       "word": "喜提千金秒变显眼包",
       "onboard_time": 1685603307,
       "rank": 29,
@@ -8667,14 +8707,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 109314,
-      "num": 109314,
-      "word": "SMTOWN说钱不重要",
-      "onboard_time": 1685603726,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 108891,
       "num": 108891,
       "word": "LNG对战TES",
@@ -8799,6 +8831,14 @@
       "num": 103158,
       "word": "孙颖莎世乒赛女单夺冠",
       "onboard_time": 1685276429,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101903,
+      "num": 101903,
+      "word": "阿根廷中国行票价",
+      "onboard_time": 1685604446,
       "rank": 47,
       "category": "体育"
     },
