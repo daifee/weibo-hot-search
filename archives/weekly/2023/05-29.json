@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685661434249,
+  "endTime": 1685662423622,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -2171,6 +2171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 565635,
+      "num": 565635,
+      "word": "网传老人在高铁上用菜刀削苹果",
+      "onboard_time": 1685636187,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 562261,
       "num": 562261,
       "word": "五月天王源合唱",
@@ -2329,14 +2337,6 @@
       "onboard_time": 1685366008,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 538227,
-      "num": 538227,
-      "word": "网传老人在高铁上用菜刀削苹果",
-      "onboard_time": 1685636187,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 534656,
@@ -3604,7 +3604,7 @@
     },
     {
       "raw_hot": 363113,
-      "num": 286726,
+      "num": 303515,
       "word": "王诗龄晒健身照",
       "onboard_time": 1685626290,
       "rank": 44,
@@ -4401,6 +4401,14 @@
       "onboard_time": 1685411307,
       "rank": 18,
       "category": "社会新闻,游戏"
+    },
+    {
+      "raw_hot": 306578,
+      "num": 306578,
+      "word": "拜登",
+      "onboard_time": 1685661321,
+      "rank": 29,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 305886,
@@ -7451,6 +7459,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 192547,
+      "num": 192547,
+      "word": "被贴吧盗图造谣女生本人发声",
+      "onboard_time": 1685660899,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192281,
       "num": 192281,
       "word": "我上网时心态平和多了",
@@ -7545,6 +7561,14 @@
       "onboard_time": 1685350049,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 190487,
+      "num": 190487,
+      "word": "辛选主播将成人喝的牛奶推荐给孩子",
+      "onboard_time": 1685637862,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190397,
@@ -7681,6 +7705,14 @@
       "onboard_time": 1685445811,
       "rank": 48,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 186145,
+      "num": 186145,
+      "word": "哺乳期面试者提出的小请求",
+      "onboard_time": 1685650032,
+      "rank": 30,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 185964,
@@ -8027,14 +8059,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 176695,
-      "num": 176695,
-      "word": "辛选主播将成人喝的牛奶推荐给孩子",
-      "onboard_time": 1685637862,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176090,
       "num": 176090,
       "word": "柯基被砍",
@@ -8177,6 +8201,14 @@
       "onboard_time": 1685410647,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169948,
+      "num": 169948,
+      "word": "我其实是一只水母 装成人的模样社交",
+      "onboard_time": 1685660781,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 169855,
@@ -8561,14 +8593,6 @@
       "onboard_time": 1685601087,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 159061,
-      "num": 159061,
-      "word": "哺乳期面试者提出的小请求",
-      "onboard_time": 1685650032,
-      "rank": 30,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 158941,
@@ -8969,6 +8993,14 @@
       "onboard_time": 1685529147,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 142208,
+      "num": 128959,
+      "word": "对这种玩笑永远不要笑",
+      "onboard_time": 1685660781,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 141910,
@@ -9587,6 +9619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119375,
+      "num": 119375,
+      "word": "还没有一个人有我全部的账号",
+      "onboard_time": 1685660781,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 119230,
       "num": 384826,
       "word": "这届年轻人是懂精致生活的",
@@ -10171,6 +10211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77965,
+      "num": 77965,
+      "word": "吸引力法则 你会变得越来越好",
+      "onboard_time": 1685636965,
+      "rank": 45,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 77915,
       "num": 77915,
       "word": "青岛艾可什机场音乐节",
@@ -10225,14 +10273,6 @@
       "onboard_time": 1685305572,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 75175,
-      "num": 75175,
-      "word": "吸引力法则 你会变得越来越好",
-      "onboard_time": 1685636965,
-      "rank": 45,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 74961,
@@ -10291,14 +10331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72953,
-      "num": 72953,
-      "word": "拜登",
-      "onboard_time": 1685661321,
-      "rank": 29,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 72847,
       "num": 104853,
       "word": "等以后下地狱了想要哪个角",
@@ -10307,12 +10339,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 72520,
-      "num": 72520,
-      "word": "对这种玩笑永远不要笑",
-      "onboard_time": 1685660781,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 72729,
+      "num": 72729,
+      "word": "有孩子借书比多挣100块钱都高兴",
+      "onboard_time": 1685661740,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71908,
@@ -10371,14 +10403,6 @@
       "category": "音乐,艺人"
     },
     {
-      "raw_hot": 66310,
-      "num": 66310,
-      "word": "被贴吧盗图造谣女生本人发声",
-      "onboard_time": 1685660899,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 66151,
       "num": 1174170,
       "word": "为头盔侠们点赞",
@@ -10427,6 +10451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63859,
+      "num": 63859,
+      "word": "李丹",
+      "onboard_time": 1685662342,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63178,
       "num": 433521,
       "word": "第一书记离任村民冒雨含泪送别",
@@ -10443,6 +10475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61698,
+      "num": 61698,
+      "word": "易烊千玺灯牌线上店铺被投诉",
+      "onboard_time": 1685643554,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 61053,
       "num": 84460,
       "word": "你唯一有资格过儿童节的是你的脑子",
@@ -10451,12 +10491,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 60670,
+      "num": 60670,
+      "word": "你最近的情绪底色是什么",
+      "onboard_time": 1685661199,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 60570,
       "num": 452173,
       "word": "华为MateX3体验有多绝",
       "onboard_time": 1685340026,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 60344,
+      "num": 60344,
+      "word": "苏艳",
+      "onboard_time": 1685662403,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60070,
@@ -10547,28 +10603,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 50627,
-      "num": 50627,
-      "word": "还没有一个人有我全部的账号",
-      "onboard_time": 1685660781,
-      "rank": 43,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 50553,
       "num": 81557,
       "word": "人际关系第一原则",
       "onboard_time": 1685637564,
       "rank": 49,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 48889,
-      "num": 48889,
-      "word": "我其实是一只水母 装成人的模样社交",
-      "onboard_time": 1685660781,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 48695,
@@ -10625,14 +10665,6 @@
       "onboard_time": 1685538027,
       "rank": 39,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 41296,
-      "num": 49475,
-      "word": "易烊千玺灯牌线上店铺被投诉",
-      "onboard_time": 1685643554,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 41028,
