@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685636689541,
+  "endTime": 1685637599138,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -233,6 +233,14 @@
       "onboard_time": 1685616206,
       "rank": 3,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 2074512,
+      "num": 2074512,
+      "word": "学术妲己",
+      "onboard_time": 1685635046,
+      "rank": 0,
+      "category": "幽默"
     },
     {
       "raw_hot": 2041966,
@@ -953,14 +961,6 @@
       "onboard_time": 1685402122,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1170077,
-      "num": 1170077,
-      "word": "学术妲己",
-      "onboard_time": 1685635046,
-      "rank": 0,
-      "category": "幽默"
     },
     {
       "raw_hot": 1162958,
@@ -1699,6 +1699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 682510,
+      "num": 682510,
+      "word": "早知道烂厂里了",
+      "onboard_time": 1685632591,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 679829,
       "num": 526171,
       "word": "Lisa脚趾头",
@@ -2057,14 +2065,6 @@
       "onboard_time": 1685416288,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 598522,
-      "num": 598522,
-      "word": "早知道烂厂里了",
-      "onboard_time": 1685632591,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 597916,
@@ -2817,6 +2817,14 @@
       "onboard_time": 1685338409,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 451005,
+      "num": 451005,
+      "word": "知道的以为你是追姑娘",
+      "onboard_time": 1685633909,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 450384,
@@ -3801,14 +3809,6 @@
       "onboard_time": 1685442390,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 341596,
-      "num": 341596,
-      "word": "知道的以为你是追姑娘",
-      "onboard_time": 1685633909,
-      "rank": 8,
-      "category": "幽默"
     },
     {
       "raw_hot": 341356,
@@ -5251,6 +5251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260431,
+      "num": 258231,
+      "word": "目睹活鱼店老板进货冻鱼",
+      "onboard_time": 1685632769,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 260129,
       "num": 260129,
       "word": "尤靖茹回应艳压",
@@ -5297,14 +5305,6 @@
       "onboard_time": 1685445750,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 258231,
-      "num": 258231,
-      "word": "目睹活鱼店老板进货冻鱼",
-      "onboard_time": 1685632769,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 256600,
@@ -6161,6 +6161,14 @@
       "onboard_time": 1685433692,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 226927,
+      "num": 226927,
+      "word": "香蕉的英文这么烫嘴吗",
+      "onboard_time": 1685634086,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 225923,
@@ -7185,6 +7193,14 @@
       "onboard_time": 1685330010,
       "rank": 37,
       "category": "科技"
+    },
+    {
+      "raw_hot": 197277,
+      "num": 115869,
+      "word": "网传老人在高铁上用菜刀削苹果",
+      "onboard_time": 1685636187,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196950,
@@ -9019,14 +9035,6 @@
       "category": "教育,国内要闻"
     },
     {
-      "raw_hot": 137108,
-      "num": 137108,
-      "word": "香蕉的英文这么烫嘴吗",
-      "onboard_time": 1685634086,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 135683,
       "num": 123577,
       "word": "向园恋爱后的小变化",
@@ -9467,6 +9475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 121213,
+      "num": 145261,
+      "word": "当西游记中的世界照进现实",
+      "onboard_time": 1685637261,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120487,
       "num": 120487,
       "word": "黄奕道歉",
@@ -9667,6 +9683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111392,
+      "num": 111392,
+      "word": "梦中的那片海今晚开播",
+      "onboard_time": 1685636187,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 111341,
       "num": 111341,
       "word": "女生读书工作的意义",
@@ -9745,6 +9769,14 @@
       "onboard_time": 1685367032,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 105805,
+      "num": 105805,
+      "word": "铁路回应老人高铁上用菜刀削苹果",
+      "onboard_time": 1685636485,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104856,
@@ -9841,14 +9873,6 @@
       "onboard_time": 1685474652,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98491,
-      "num": 98491,
-      "word": "梦中的那片海今晚开播",
-      "onboard_time": 1685636187,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 98233,
@@ -9985,14 +10009,6 @@
       "onboard_time": 1685371595,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 89421,
-      "num": 89421,
-      "word": "网传老人在高铁上用菜刀削苹果",
-      "onboard_time": 1685636187,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 89371,
@@ -10283,14 +10299,6 @@
       "category": "音乐,艺人"
     },
     {
-      "raw_hot": 66838,
-      "num": 85400,
-      "word": "铁路回应老人高铁上用菜刀削苹果",
-      "onboard_time": 1685636485,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 66151,
       "num": 1174170,
       "word": "为头盔侠们点赞",
@@ -10451,6 +10459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50553,
+      "num": 81557,
+      "word": "人际关系第一原则",
+      "onboard_time": 1685637564,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 48695,
       "num": 158844,
       "word": "数字化学习是家庭必修课吗",
@@ -10507,6 +10523,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 40012,
+      "num": 636157,
+      "word": "这群幕后航天人对代码有着极致追求",
+      "onboard_time": 1685633730,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39236,
       "num": 370423,
       "word": "品如艾莉再次PK",
@@ -10519,14 +10543,6 @@
       "num": 1917856,
       "word": "沉浸式体验虚拟未来世界",
       "onboard_time": 1685279849,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35969,
-      "num": 614453,
-      "word": "这群幕后航天人对代码有着极致追求",
-      "onboard_time": 1685633730,
       "rank": 2,
       "category": "社会新闻"
     },

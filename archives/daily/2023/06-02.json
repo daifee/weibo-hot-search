@@ -1,13 +1,21 @@
 {
   "startTime": 1685636689541,
-  "endTime": 1685636689541,
+  "endTime": 1685637599138,
   "band_list": [
     {
-      "raw_hot": 1170077,
-      "num": 1170077,
+      "raw_hot": 2074512,
+      "num": 2074512,
       "word": "学术妲己",
       "onboard_time": 1685635046,
       "rank": 0,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 682510,
+      "num": 682510,
+      "word": "早知道烂厂里了",
+      "onboard_time": 1685632591,
+      "rank": 3,
       "category": "幽默"
     },
     {
@@ -27,20 +35,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 598522,
-      "num": 598522,
-      "word": "早知道烂厂里了",
-      "onboard_time": 1685632591,
-      "rank": 3,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 558731,
-      "num": 558731,
+      "raw_hot": 594350,
+      "num": 594350,
       "word": "肖战台词",
       "onboard_time": 1685624309,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 451005,
+      "num": 451005,
+      "word": "知道的以为你是追姑娘",
+      "onboard_time": 1685633909,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 444065,
@@ -83,14 +91,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 341596,
-      "num": 341596,
-      "word": "知道的以为你是追姑娘",
-      "onboard_time": 1685633909,
-      "rank": 8,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 290277,
       "num": 290277,
       "word": "梦中的那片海开播收视率",
@@ -115,7 +115,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 258231,
+      "raw_hot": 260431,
       "num": 258231,
       "word": "目睹活鱼店老板进货冻鱼",
       "onboard_time": 1685632769,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226927,
+      "num": 226927,
+      "word": "香蕉的英文这么烫嘴吗",
+      "onboard_time": 1685634086,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 202363,
       "num": 202363,
       "word": "张杰把开心快乐送给女儿们",
@@ -153,6 +161,14 @@
       "onboard_time": 1685617647,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 197277,
+      "num": 115869,
+      "word": "网传老人在高铁上用菜刀削苹果",
+      "onboard_time": 1685636187,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196074,
@@ -243,20 +259,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137108,
-      "num": 137108,
-      "word": "香蕉的英文这么烫嘴吗",
-      "onboard_time": 1685634086,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 132136,
       "num": 132136,
       "word": "宋祖儿显眼肚",
       "onboard_time": 1685624189,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131635,
+      "num": 131635,
+      "word": "椿山漫 抄袭",
+      "onboard_time": 1685618245,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 129442,
@@ -283,12 +299,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 122789,
-      "num": 122789,
-      "word": "椿山漫 抄袭",
-      "onboard_time": 1685618245,
-      "rank": 37,
-      "category": "游戏"
+      "raw_hot": 121213,
+      "num": 145261,
+      "word": "当西游记中的世界照进现实",
+      "onboard_time": 1685637261,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119509,
@@ -315,6 +331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 111392,
+      "num": 111392,
+      "word": "梦中的那片海今晚开播",
+      "onboard_time": 1685636187,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 108638,
       "num": 137479,
       "word": "阿根廷中国行票价公布",
@@ -339,19 +363,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 98491,
-      "num": 98491,
-      "word": "梦中的那片海今晚开播",
-      "onboard_time": 1685636187,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 89421,
-      "num": 89421,
-      "word": "网传老人在高铁上用菜刀削苹果",
-      "onboard_time": 1685636187,
-      "rank": 44,
+      "raw_hot": 105805,
+      "num": 105805,
+      "word": "铁路回应老人高铁上用菜刀削苹果",
+      "onboard_time": 1685636485,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -371,20 +387,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 66838,
-      "num": 85400,
-      "word": "铁路回应老人高铁上用菜刀削苹果",
-      "onboard_time": 1685636485,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 63401,
       "num": 84724,
       "word": "天同",
       "onboard_time": 1685625088,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63006,
+      "num": 82285,
+      "word": "钟汉良儿童节请团队看五月天",
+      "onboard_time": 1685628752,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 61053,
@@ -395,8 +411,24 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 35969,
-      "num": 614453,
+      "raw_hot": 52440,
+      "num": 81959,
+      "word": "WBG对战JDG",
+      "onboard_time": 1685618367,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 50553,
+      "num": 81557,
+      "word": "人际关系第一原则",
+      "onboard_time": 1685637564,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 40012,
+      "num": 636157,
       "word": "这群幕后航天人对代码有着极致追求",
       "onboard_time": 1685633730,
       "rank": 2,
@@ -406,6 +438,9 @@
   "hotgov_list": [
     {
       "word": "#总书记寄语孩子们#"
+    },
+    {
+      "word": "#少年志#"
     }
   ]
 }

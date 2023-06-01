@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685636689541,
+  "endTime": 1685637599138,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -25,6 +25,14 @@
       "onboard_time": 1685616206,
       "rank": 3,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 2074512,
+      "num": 2074512,
+      "word": "学术妲己",
+      "onboard_time": 1685635046,
+      "rank": 0,
+      "category": "幽默"
     },
     {
       "raw_hot": 2041966,
@@ -203,14 +211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1170077,
-      "num": 1170077,
-      "word": "学术妲己",
-      "onboard_time": 1685635046,
-      "rank": 0,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1147186,
       "num": 792011,
       "word": "女子退猫被拒后直接把猫摔死",
@@ -363,6 +363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 682510,
+      "num": 682510,
+      "word": "早知道烂厂里了",
+      "onboard_time": 1685632591,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 679829,
       "num": 526171,
       "word": "Lisa脚趾头",
@@ -465,14 +473,6 @@
       "onboard_time": 1685586327,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 598522,
-      "num": 598522,
-      "word": "早知道烂厂里了",
-      "onboard_time": 1685632591,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 597309,
@@ -665,6 +665,14 @@
       "onboard_time": 1685549729,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 451005,
+      "num": 451005,
+      "word": "知道的以为你是追姑娘",
+      "onboard_time": 1685633909,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 434172,
@@ -921,14 +929,6 @@
       "onboard_time": 1685601387,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 341596,
-      "num": 341596,
-      "word": "知道的以为你是追姑娘",
-      "onboard_time": 1685633909,
-      "rank": 8,
-      "category": "幽默"
     },
     {
       "raw_hot": 341004,
@@ -1307,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260431,
+      "num": 258231,
+      "word": "目睹活鱼店老板进货冻鱼",
+      "onboard_time": 1685632769,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 260129,
       "num": 260129,
       "word": "尤靖茹回应艳压",
@@ -1321,14 +1329,6 @@
       "onboard_time": 1685621609,
       "rank": 29,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 258231,
-      "num": 258231,
-      "word": "目睹活鱼店老板进货冻鱼",
-      "onboard_time": 1685632769,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 256981,
@@ -1571,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226927,
+      "num": 226927,
+      "word": "香蕉的英文这么烫嘴吗",
+      "onboard_time": 1685634086,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 225903,
       "num": 225903,
       "word": "当有人说他从大厂出来belike",
@@ -1801,6 +1809,14 @@
       "onboard_time": 1685611707,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197277,
+      "num": 115869,
+      "word": "网传老人在高铁上用菜刀削苹果",
+      "onboard_time": 1685636187,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196762,
@@ -2315,14 +2331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137108,
-      "num": 137108,
-      "word": "香蕉的英文这么烫嘴吗",
-      "onboard_time": 1685634086,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 134843,
       "num": 134843,
       "word": "特斯拉",
@@ -2419,6 +2427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121213,
+      "num": 145261,
+      "word": "当西游记中的世界照进现实",
+      "onboard_time": 1685637261,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120187,
       "num": 120187,
       "word": "3岁三胞胎姐妹解锁派出所综窗初体验",
@@ -2491,6 +2507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111392,
+      "num": 111392,
+      "word": "梦中的那片海今晚开播",
+      "onboard_time": 1685636187,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 108663,
       "num": 108663,
       "word": "如果广东停电一天",
@@ -2503,6 +2527,14 @@
       "num": 108158,
       "word": "14名山西乡村儿童圆梦故宫",
       "onboard_time": 1685601928,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105805,
+      "num": 105805,
+      "word": "铁路回应老人高铁上用菜刀削苹果",
+      "onboard_time": 1685636485,
       "rank": 47,
       "category": "社会新闻"
     },
@@ -2521,14 +2553,6 @@
       "onboard_time": 1685609668,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98491,
-      "num": 98491,
-      "word": "梦中的那片海今晚开播",
-      "onboard_time": 1685636187,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 97869,
@@ -2593,14 +2617,6 @@
       "onboard_time": 1685599828,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 89421,
-      "num": 89421,
-      "word": "网传老人在高铁上用菜刀削苹果",
-      "onboard_time": 1685636187,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 89371,
@@ -2731,14 +2747,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 66838,
-      "num": 85400,
-      "word": "铁路回应老人高铁上用菜刀削苹果",
-      "onboard_time": 1685636485,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 65719,
       "num": 1319459,
       "word": "打卡中国",
@@ -2787,6 +2795,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 50553,
+      "num": 81557,
+      "word": "人际关系第一原则",
+      "onboard_time": 1685637564,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 47994,
       "num": 47994,
       "word": "阿娇为陈妍希庆生",
@@ -2811,8 +2827,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35969,
-      "num": 614453,
+      "raw_hot": 40012,
+      "num": 636157,
       "word": "这群幕后航天人对代码有着极致追求",
       "onboard_time": 1685633730,
       "rank": 2,
