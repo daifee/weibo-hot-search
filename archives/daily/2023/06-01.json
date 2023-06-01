@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685614879084,
+  "endTime": 1685615783315,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -75,6 +75,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1422590,
+      "num": 1422590,
+      "word": "百度网盘被苹果AppStore下架",
+      "onboard_time": 1685611647,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1380628,
       "num": 1380628,
       "word": "边伯贤金珉锡金钟大与SMTOWN解约",
@@ -89,6 +97,14 @@
       "onboard_time": 1685587647,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1333960,
+      "num": 481173,
+      "word": "李念官宣生三胎",
+      "onboard_time": 1685612789,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1312984,
@@ -139,14 +155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1233652,
-      "num": 438885,
-      "word": "李念官宣生三胎",
-      "onboard_time": 1685612789,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1146825,
       "num": 1146825,
       "word": "广东夫妇",
@@ -187,14 +195,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 989881,
-      "num": 989881,
-      "word": "百度网盘被苹果AppStore下架",
-      "onboard_time": 1685611647,
-      "rank": 48,
-      "category": "科技"
-    },
-    {
       "raw_hot": 977357,
       "num": 977357,
       "word": "肖战迪丽热巴童话里走出来的王子公主",
@@ -233,6 +233,14 @@
       "onboard_time": 1685579007,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 726387,
+      "num": 1361452,
+      "word": "女子为帮装空调丈夫拉安全绳拒绝减肥",
+      "onboard_time": 1685607687,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 698316,
@@ -315,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 589247,
-      "num": 1092451,
-      "word": "女子为帮装空调丈夫拉安全绳拒绝减肥",
-      "onboard_time": 1685607687,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 570370,
       "num": 570370,
       "word": "苹果14",
@@ -393,6 +393,22 @@
       "onboard_time": 1685545531,
       "rank": 8,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 519600,
+      "num": 467428,
+      "word": "肖战王一博同款衬衣",
+      "onboard_time": 1685615487,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 499608,
+      "num": 499608,
+      "word": "二三十了还觉得自己是个小孩正常吗",
+      "onboard_time": 1685614287,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 496286,
@@ -915,6 +931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 252061,
+      "num": 252061,
+      "word": "五月天王源唱如果我们不曾相遇",
+      "onboard_time": 1685614647,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 251784,
       "num": 229386,
       "word": "聊天记录",
@@ -1043,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225903,
+      "num": 225903,
+      "word": "当有人说他从大厂出来belike",
+      "onboard_time": 1685615009,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 224802,
       "num": 224802,
       "word": "卡琳娜",
@@ -1073,6 +1105,22 @@
       "onboard_time": 1685593231,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220304,
+      "num": 220304,
+      "word": "百度贴吧回应女子婚纱照被盗孙吧",
+      "onboard_time": 1685613869,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215790,
+      "num": 215790,
+      "word": "很多中国家庭培养女儿 公婆视角",
+      "onboard_time": 1685613148,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 215148,
@@ -1155,7 +1203,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 204383,
+      "raw_hot": 205485,
       "num": 1019891,
       "word": "小学生自愿报名给高三考生表演才艺",
       "onboard_time": 1685610028,
@@ -1172,7 +1220,7 @@
     },
     {
       "raw_hot": 198662,
-      "num": 636413,
+      "num": 651067,
       "word": "重庆一小学全校师生穿汉服过六一",
       "onboard_time": 1685609126,
       "rank": 47,
@@ -1185,14 +1233,6 @@
       "onboard_time": 1685611707,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 197783,
-      "num": 197783,
-      "word": "二三十了还觉得自己是个小孩正常吗",
-      "onboard_time": 1685614287,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196762,
@@ -1267,28 +1307,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 190980,
-      "num": 190980,
-      "word": "百度贴吧回应女子婚纱照被盗孙吧",
-      "onboard_time": 1685613869,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188626,
       "num": 160518,
       "word": "张艺兴街边开儿童车",
       "onboard_time": 1685608048,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 187178,
-      "num": 187178,
-      "word": "五月天王源唱如果我们不曾相遇",
-      "onboard_time": 1685614647,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 187061,
@@ -1315,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185026,
+      "num": 185026,
+      "word": "张艺兴深圳演唱会是四面台",
+      "onboard_time": 1685614947,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 184808,
       "num": 174583,
       "word": "为什么南方没有暴走团",
@@ -1329,6 +1361,14 @@
       "onboard_time": 1685599407,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 183468,
+      "num": 183468,
+      "word": "宋茜的mbti",
+      "onboard_time": 1685614765,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 183293,
@@ -1369,14 +1409,6 @@
       "onboard_time": 1685581408,
       "rank": 35,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 175910,
-      "num": 175910,
-      "word": "很多中国家庭培养女儿 公婆视角",
-      "onboard_time": 1685613148,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 172903,
@@ -1435,6 +1467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 165671,
+      "num": 192317,
+      "word": "真实影像揭露境外高薪务工骗局",
+      "onboard_time": 1685615248,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165025,
       "num": 468634,
       "word": "晒晒你的六一小餐桌",
@@ -1472,6 +1512,14 @@
       "word": "好多女明星扎双马尾啊",
       "onboard_time": 1685604506,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 162028,
+      "num": 162028,
+      "word": "白敬亭给自己P了个眼镜",
+      "onboard_time": 1685615067,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -1571,6 +1619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 147652,
+      "num": 147652,
+      "word": "周迅骑自行车去livehouse",
+      "onboard_time": 1685615366,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141254,
       "num": 133380,
       "word": "五月天演唱会",
@@ -1651,6 +1707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131080,
+      "num": 131080,
+      "word": "妈妈六一节给孩子送切尔西皮鞋",
+      "onboard_time": 1685614528,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129070,
       "num": 129070,
       "word": "观众称花千元在演唱会上看柱子",
@@ -1673,14 +1737,6 @@
       "onboard_time": 1685592810,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 128703,
-      "num": 128703,
-      "word": "妈妈六一节给孩子送切尔西皮鞋",
-      "onboard_time": 1685614528,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126845,
@@ -1793,14 +1849,6 @@
       "onboard_time": 1685601928,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 103692,
-      "num": 103692,
-      "word": "宋茜的mbti",
-      "onboard_time": 1685614765,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 103499,
@@ -1947,6 +1995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 69901,
+      "num": 324643,
+      "word": "8090童年游戏怎么做到全国统一的",
+      "onboard_time": 1685613629,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69232,
       "num": 72121,
       "word": "当她单膝跪地那一刻 男友忍不住大笑",
@@ -1964,7 +2020,7 @@
     },
     {
       "raw_hot": 65719,
-      "num": 1074306,
+      "num": 1234707,
       "word": "打卡中国",
       "onboard_time": 1685608468,
       "rank": 2,
@@ -2009,14 +2065,6 @@
       "onboard_time": 1685566092,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 46398,
-      "num": 303070,
-      "word": "8090童年游戏怎么做到全国统一的",
-      "onboard_time": 1685613629,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 45301,
