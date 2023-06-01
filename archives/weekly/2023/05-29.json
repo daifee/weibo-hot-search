@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685590834274,
+  "endTime": 1685593275451,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -339,6 +339,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1770610,
+      "num": 510454,
+      "word": "Angelababy是靠什么长红多年的",
+      "onboard_time": 1685588486,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1758295,
       "num": 1758295,
       "word": "演唱会门票秒罄黄牛党捞钱术升级",
@@ -553,6 +561,14 @@
       "onboard_time": 1685581949,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1373325,
+      "num": 1373325,
+      "word": "杨洋王楚然废墟救赎感剧照",
+      "onboard_time": 1685587647,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1372783,
@@ -835,14 +851,6 @@
       "category": "财经,幽默"
     },
     {
-      "raw_hot": 1146681,
-      "num": 1146681,
-      "word": "杨洋王楚然废墟救赎感剧照",
-      "onboard_time": 1685587647,
-      "rank": 3,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1138318,
       "num": 1138318,
       "word": "竟然有人不认识宋丹丹",
@@ -881,6 +889,14 @@
       "onboard_time": 1685542169,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1102766,
+      "num": 1102766,
+      "word": "事业单位",
+      "onboard_time": 1685589866,
+      "rank": 20,
+      "category": "教育"
     },
     {
       "raw_hot": 1100886,
@@ -1107,19 +1123,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 918596,
-      "num": 498251,
-      "word": "Angelababy是靠什么长红多年的",
-      "onboard_time": 1685588486,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 916868,
       "num": 1410877,
       "word": "女子偷偷卖掉所有黄金首饰帮老公还账",
       "onboard_time": 1685521589,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 914174,
+      "num": 914174,
+      "word": "出租房装的空调是5级能耗",
+      "onboard_time": 1685574199,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1216,14 +1232,6 @@
       "word": "四川大学",
       "onboard_time": 1685274628,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 818778,
-      "num": 818778,
-      "word": "出租房装的空调是5级能耗",
-      "onboard_time": 1685574199,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1387,6 +1395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 704657,
+      "num": 704657,
+      "word": "肖战刘芮麟新剧演兄弟",
+      "onboard_time": 1685589806,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 701142,
       "num": 292737,
       "word": "吴磊新剧演的年上",
@@ -1441,6 +1457,14 @@
       "onboard_time": 1685539107,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 680162,
+      "num": 680162,
+      "word": "别把医术拍成了法术",
+      "onboard_time": 1685579007,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 679829,
@@ -1771,14 +1795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 586200,
-      "num": 586200,
-      "word": "别把医术拍成了法术",
-      "onboard_time": 1685579007,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 582791,
       "num": 566186,
       "word": "你管周也这张脸叫普普通通",
@@ -1905,6 +1921,14 @@
       "onboard_time": 1685446711,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 549401,
+      "num": 457642,
+      "word": "这两部剧排播还怪好嘞",
+      "onboard_time": 1685591727,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 546654,
@@ -2347,6 +2371,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 464496,
+      "num": 331752,
+      "word": "杨幂IP地址在香港",
+      "onboard_time": 1685592628,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 463515,
       "num": 463515,
       "word": "卡琳娜 我轻轻地尖叫晕了",
@@ -2433,14 +2465,6 @@
       "onboard_time": 1685449952,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 438565,
-      "num": 326389,
-      "word": "事业单位",
-      "onboard_time": 1685589866,
-      "rank": 20,
-      "category": "教育"
     },
     {
       "raw_hot": 438481,
@@ -2665,14 +2689,6 @@
       "onboard_time": 1685454158,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 408681,
-      "num": 408681,
-      "word": "肖战刘芮麟新剧演兄弟",
-      "onboard_time": 1685589806,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 407473,
@@ -3867,6 +3883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291405,
+      "num": 208099,
+      "word": "赵丽颖六月暂无公开行程",
+      "onboard_time": 1685592267,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290972,
       "num": 290972,
       "word": "Cat确认挂牌",
@@ -4131,6 +4155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 275741,
+      "num": 207795,
+      "word": "SMTOWN新男团目前公开成员",
+      "onboard_time": 1685590287,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275718,
       "num": 291501,
       "word": "千万不要害怕一个人的生活",
@@ -4273,6 +4305,14 @@
       "onboard_time": 1685278589,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269657,
+      "num": 219093,
+      "word": "他送我生日礼物是杯52颗珍珠的奶茶",
+      "onboard_time": 1685590468,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 269421,
@@ -5035,6 +5075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 233481,
+      "num": 184981,
+      "word": "王一博热烈儿童节海报",
+      "onboard_time": 1685593050,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 232905,
       "num": 232905,
       "word": "狼队",
@@ -5547,6 +5595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 211088,
+      "num": 183526,
+      "word": "优酷 护心热度",
+      "onboard_time": 1685591308,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210735,
       "num": 210735,
       "word": "英雄联盟 赵露思时代少年团",
@@ -6051,14 +6107,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 197718,
-      "num": 197718,
-      "word": "SMTOWN新男团目前公开成员",
-      "onboard_time": 1685590287,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196950,
       "num": 196950,
       "word": "易烊千玺主打一个会拍照",
@@ -6073,6 +6121,14 @@
       "onboard_time": 1685456855,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196762,
+      "num": 188041,
+      "word": "孙茜6岁儿子制服证件照",
+      "onboard_time": 1685588486,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 196755,
@@ -6331,6 +6387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191128,
+      "num": 177907,
+      "word": "鞠婧祎新剧幻想吻戏",
+      "onboard_time": 1685592749,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190759,
       "num": 419057,
       "word": "紫色可以多惊艳",
@@ -6417,14 +6481,6 @@
       "onboard_time": 1685351968,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188041,
-      "num": 188041,
-      "word": "孙茜6岁儿子制服证件照",
-      "onboard_time": 1685588486,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 186924,
@@ -6819,6 +6875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172278,
+      "num": 156270,
+      "word": "美依礼芽晒自己画的眼妆",
+      "onboard_time": 1685592026,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171154,
       "num": 171154,
       "word": "王梦洁",
@@ -6873,6 +6937,14 @@
       "onboard_time": 1685324966,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169711,
+      "num": 169711,
+      "word": "马斯克再次成世界首富",
+      "onboard_time": 1685591667,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169394,
@@ -7387,14 +7459,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 151462,
-      "num": 151462,
-      "word": "他送我生日礼物是杯52颗珍珠的奶茶",
-      "onboard_time": 1685590468,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 150717,
       "num": 126768,
       "word": "荣耀90价格",
@@ -7531,6 +7595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 145362,
+      "num": 332137,
+      "word": "妈妈把2岁女儿涂鸦做周边定格童年",
+      "onboard_time": 1685592026,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145314,
       "num": 145314,
       "word": "吴敬平 我一直有个梦想在王楚钦身上",
@@ -7575,6 +7647,22 @@
       "num": 141826,
       "word": "电影远航 山东鲁荣渔2682号惨案",
       "onboard_time": 1685345306,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 140647,
+      "num": 140647,
+      "word": "孟鹤堂 拍到了姐姐和美",
+      "onboard_time": 1685593231,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 140498,
+      "num": 140498,
+      "word": "影视剧六一海报",
+      "onboard_time": 1685592988,
       "rank": 45,
       "category": "影视"
     },
@@ -7737,6 +7825,14 @@
       "onboard_time": 1685328268,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132799,
+      "num": 132799,
+      "word": "情侣之间有必要过六一吗",
+      "onboard_time": 1685592988,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 132306,
@@ -8035,6 +8131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 121100,
+      "num": 132689,
+      "word": "明日方舟",
+      "onboard_time": 1685592810,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120487,
       "num": 120487,
       "word": "黄奕道歉",
@@ -8129,6 +8233,14 @@
       "onboard_time": 1685523808,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 116162,
+      "num": 132437,
+      "word": "镖人动画开播",
+      "onboard_time": 1685591847,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 115422,
@@ -9025,6 +9137,14 @@
       "onboard_time": 1685181328,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 18885,
+      "num": 156324,
+      "word": "天猫3D海报成打卡热门",
+      "onboard_time": 1685592026,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18870,
