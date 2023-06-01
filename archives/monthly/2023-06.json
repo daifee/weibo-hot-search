@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685593275451,
+  "endTime": 1685594069608,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1990762,
+      "num": 510454,
+      "word": "Angelababy是靠什么长红多年的",
+      "onboard_time": 1685588486,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1938833,
       "num": 539523,
       "word": "你喜欢大海 我承包岛",
@@ -33,14 +41,6 @@
       "onboard_time": 1685579429,
       "rank": 0,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1770610,
-      "num": 510454,
-      "word": "Angelababy是靠什么长红多年的",
-      "onboard_time": 1685588486,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 1380628,
@@ -83,6 +83,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 1136300,
+      "num": 1136300,
+      "word": "事业单位",
+      "onboard_time": 1685589866,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1105584,
       "num": 1105584,
       "word": "胡可说不要把另一半当自己人",
@@ -91,12 +99,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1102766,
-      "num": 1102766,
-      "word": "事业单位",
-      "onboard_time": 1685589866,
-      "rank": 20,
-      "category": "教育"
+      "raw_hot": 1102461,
+      "num": 1102461,
+      "word": "杨幂IP地址在香港",
+      "onboard_time": 1685592628,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 914174,
@@ -107,11 +115,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 704657,
-      "num": 704657,
+      "raw_hot": 855032,
+      "num": 855032,
       "word": "肖战刘芮麟新剧演兄弟",
       "onboard_time": 1685589806,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 770410,
+      "num": 680162,
+      "word": "别把医术拍成了法术",
+      "onboard_time": 1685579007,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -121,14 +137,6 @@
       "onboard_time": 1685580387,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 680162,
-      "num": 680162,
-      "word": "别把医术拍成了法术",
-      "onboard_time": 1685579007,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 679829,
@@ -251,14 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 464496,
-      "num": 331752,
-      "word": "杨幂IP地址在香港",
-      "onboard_time": 1685592628,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 463515,
       "num": 463515,
       "word": "卡琳娜 我轻轻地尖叫晕了",
@@ -331,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 371645,
+      "num": 237528,
+      "word": "原神儿童节",
+      "onboard_time": 1685593529,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 357053,
       "num": 357053,
       "word": "陈晓和陈妍希亲吻儿子好甜",
@@ -379,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 328441,
+      "num": 237508,
+      "word": "赵丽颖六月暂无公开行程",
+      "onboard_time": 1685592267,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326386,
       "num": 286498,
       "word": "看似睡着了 实际可能走了有一会儿",
@@ -411,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297769,
+      "num": 237505,
+      "word": "SMTOWN新男团目前公开成员",
+      "onboard_time": 1685590287,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297131,
       "num": 297131,
       "word": "妊娠终止手术一定要在孕14周内做",
@@ -419,20 +443,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 291405,
-      "num": 208099,
-      "word": "赵丽颖六月暂无公开行程",
-      "onboard_time": 1685592267,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 289572,
       "num": 289572,
       "word": "TFBOYS演唱会最终章",
       "onboard_time": 1685524889,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 288392,
+      "num": 237444,
+      "word": "他送我生日礼物是杯52颗珍珠的奶茶",
+      "onboard_time": 1685590468,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 287588,
@@ -467,28 +491,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 275741,
-      "num": 207795,
-      "word": "SMTOWN新男团目前公开成员",
-      "onboard_time": 1685590287,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 272868,
       "num": 272868,
       "word": "儿童节快乐",
       "onboard_time": 1685575040,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269657,
-      "num": 219093,
-      "word": "他送我生日礼物是杯52颗珍珠的奶茶",
-      "onboard_time": 1685590468,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 268667,
@@ -523,6 +531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 253624,
+      "num": 237403,
+      "word": "王一博热烈儿童节海报",
+      "onboard_time": 1685593050,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 251784,
       "num": 229386,
       "word": "聊天记录",
@@ -555,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241773,
+      "num": 237372,
+      "word": "鞠婧祎新剧幻想吻戏",
+      "onboard_time": 1685592749,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241211,
       "num": 241211,
       "word": "男子站斑马线旁聊天被撞飞当场死亡",
@@ -571,12 +595,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 233481,
-      "num": 184981,
-      "word": "王一博热烈儿童节海报",
-      "onboard_time": 1685593050,
+      "raw_hot": 237565,
+      "num": 237565,
+      "word": "情侣之间有必要过六一吗",
+      "onboard_time": 1685592988,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 237368,
+      "num": 237368,
+      "word": "杭州LGD更名",
+      "onboard_time": 1685593770,
       "rank": 30,
-      "category": "影视"
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 234507,
+      "num": 234507,
+      "word": "马斯克再次成世界首富",
+      "onboard_time": 1685591667,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232273,
@@ -627,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220902,
+      "num": 220902,
+      "word": "孟鹤堂 拍到了姐姐和美",
+      "onboard_time": 1685593231,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215148,
       "num": 215148,
       "word": "虞书欣是什么旅游特种兵",
@@ -644,7 +692,7 @@
     },
     {
       "raw_hot": 211088,
-      "num": 183526,
+      "num": 191738,
       "word": "优酷 护心热度",
       "onboard_time": 1685591308,
       "rank": 31,
@@ -691,6 +739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206285,
+      "num": 332137,
+      "word": "妈妈把2岁女儿涂鸦做周边定格童年",
+      "onboard_time": 1685592026,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199612,
       "num": 199612,
       "word": "TOP说自己已经离开了BIGBANG",
@@ -729,14 +785,6 @@
       "onboard_time": 1685585365,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 191128,
-      "num": 177907,
-      "word": "鞠婧祎新剧幻想吻戏",
-      "onboard_time": 1685592749,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 187061,
@@ -804,19 +852,11 @@
     },
     {
       "raw_hot": 172278,
-      "num": 156270,
+      "num": 167351,
       "word": "美依礼芽晒自己画的眼妆",
       "onboard_time": 1685592026,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169711,
-      "num": 169711,
-      "word": "马斯克再次成世界首富",
-      "onboard_time": 1685591667,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169464,
@@ -875,6 +915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 157927,
+      "num": 157927,
+      "word": "杨紫芭莎吃糖油饼大片",
+      "onboard_time": 1685593889,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 157184,
       "num": 133432,
       "word": "吴磊 烤包子",
@@ -923,14 +971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145362,
-      "num": 332137,
-      "word": "妈妈把2岁女儿涂鸦做周边定格童年",
-      "onboard_time": 1685592026,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141254,
       "num": 133380,
       "word": "五月天演唱会",
@@ -945,14 +985,6 @@
       "onboard_time": 1685533888,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 140647,
-      "num": 140647,
-      "word": "孟鹤堂 拍到了姐姐和美",
-      "onboard_time": 1685593231,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 140498,
@@ -1003,14 +1035,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 132799,
-      "num": 132799,
-      "word": "情侣之间有必要过六一吗",
-      "onboard_time": 1685592988,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 129070,
       "num": 129070,
       "word": "观众称花千元在演唱会上看柱子",
@@ -1019,20 +1043,28 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 128727,
+      "num": 151319,
+      "word": "明日方舟",
+      "onboard_time": 1685592810,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 126845,
+      "num": 151317,
+      "word": "hao123网站 童年回忆",
+      "onboard_time": 1685593589,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 124695,
       "num": 124695,
       "word": "六月你好",
       "onboard_time": 1685575402,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 121100,
-      "num": 132689,
-      "word": "明日方舟",
-      "onboard_time": 1685592810,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 120187,
@@ -1228,7 +1260,7 @@
     },
     {
       "raw_hot": 31783,
-      "num": 1134980,
+      "num": 1162863,
       "word": "中国航天员太空会师名场面再现",
       "onboard_time": 1685537908,
       "rank": 2,
@@ -1259,8 +1291,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 18885,
-      "num": 156324,
+      "raw_hot": 19019,
+      "num": 184486,
       "word": "天猫3D海报成打卡热门",
       "onboard_time": 1685592026,
       "rank": 39,
