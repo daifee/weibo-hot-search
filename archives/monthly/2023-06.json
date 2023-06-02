@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685675880490,
+  "endTime": 1685676816336,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -107,8 +107,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1559666,
-      "num": 1559666,
+      "raw_hot": 1598503,
+      "num": 1598503,
       "word": "被骗到缅甸6小伙已被解救",
       "onboard_time": 1685669608,
       "rank": 25,
@@ -523,6 +523,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 636231,
+      "num": 636231,
+      "word": "蔡康永把林志玲问哭",
+      "onboard_time": 1685675128,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 632733,
       "num": 632733,
       "word": "酷云",
@@ -587,12 +595,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 582613,
+      "num": 582613,
+      "word": "王一博外网生图状态",
+      "onboard_time": 1685672847,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 578621,
       "num": 578621,
       "word": "男人眼中的6分女和6分男",
       "onboard_time": 1685622988,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 573709,
+      "num": 573709,
+      "word": "鞠婧祎反手一个大比兜",
+      "onboard_time": 1685674767,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 570370,
@@ -617,14 +641,6 @@
       "onboard_time": 1685667629,
       "rank": 10,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 563400,
-      "num": 563400,
-      "word": "王一博外网生图状态",
-      "onboard_time": 1685672847,
-      "rank": 21,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 562261,
@@ -675,7 +691,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 544545,
+      "raw_hot": 548407,
       "num": 544545,
       "word": "五月天演唱会为何一票难求",
       "onboard_time": 1685663244,
@@ -689,6 +705,14 @@
       "onboard_time": 1685585246,
       "rank": 17,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 542419,
+      "num": 542419,
+      "word": "江西4岁女童坠楼昏迷90天后苏醒",
+      "onboard_time": 1685674287,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 531758,
@@ -795,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 468495,
+      "num": 468495,
+      "word": "公诉收视率",
+      "onboard_time": 1685674226,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 463515,
       "num": 463515,
       "word": "卡琳娜 我轻轻地尖叫晕了",
@@ -803,12 +835,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 456192,
-      "num": 456192,
-      "word": "公诉收视率",
-      "onboard_time": 1685674226,
-      "rank": 14,
-      "category": "影视"
+      "raw_hot": 457327,
+      "num": 457327,
+      "word": "约基奇太强了",
+      "onboard_time": 1685674407,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 451005,
@@ -817,14 +849,6 @@
       "onboard_time": 1685633909,
       "rank": 8,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 444759,
-      "num": 444759,
-      "word": "鞠婧祎反手一个大比兜",
-      "onboard_time": 1685674767,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 435195,
@@ -851,20 +875,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 431375,
-      "num": 431375,
-      "word": "约基奇太强了",
-      "onboard_time": 1685674407,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 430282,
       "num": 220355,
       "word": "江苏南通发生命案两人遇害",
       "onboard_time": 1685662523,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 430190,
+      "num": 430190,
+      "word": "原来高清的五月天长这样",
+      "onboard_time": 1685672968,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 428979,
@@ -1035,14 +1059,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 384197,
-      "num": 384197,
-      "word": "原来高清的五月天长这样",
-      "onboard_time": 1685672968,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 377405,
       "num": 377405,
       "word": "我慢慢开始情绪稳定",
@@ -1211,14 +1227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 335519,
-      "num": 335519,
-      "word": "江西4岁女童坠楼昏迷90天后苏醒",
-      "onboard_time": 1685674287,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 332567,
       "num": 257219,
       "word": "财阀家的小儿子将拍第二季",
@@ -1283,6 +1291,14 @@
       "category": "网红,游戏"
     },
     {
+      "raw_hot": 318383,
+      "num": 227457,
+      "word": "景甜张凌赫四海重明官宣",
+      "onboard_time": 1685675069,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 314350,
       "num": 257987,
       "word": "肖春生给贺红玲吹口琴",
@@ -1329,6 +1345,14 @@
       "onboard_time": 1685661321,
       "rank": 29,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 304047,
+      "num": 208625,
+      "word": "奔跑吧",
+      "onboard_time": 1685676746,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 302077,
@@ -1401,14 +1425,6 @@
       "onboard_time": 1685623407,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 294919,
-      "num": 294919,
-      "word": "蔡康永把林志玲问哭",
-      "onboard_time": 1685675128,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 292871,
@@ -1867,12 +1883,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 229403,
-      "num": 227457,
-      "word": "景甜张凌赫四海重明官宣",
-      "onboard_time": 1685675069,
-      "rank": 21,
-      "category": "影视"
+      "raw_hot": 230137,
+      "num": 226225,
+      "word": "陈睿回应B站停更潮争议",
+      "onboard_time": 1685673928,
+      "rank": 44,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 228227,
@@ -1897,14 +1913,6 @@
       "onboard_time": 1685634086,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 226225,
-      "num": 226225,
-      "word": "陈睿回应B站停更潮争议",
-      "onboard_time": 1685673928,
-      "rank": 44,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 225903,
@@ -1961,6 +1969,14 @@
       "onboard_time": 1685667572,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220977,
+      "num": 220977,
+      "word": "45岁重庆大叔离世捐器官救5人",
+      "onboard_time": 1685674709,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220902,
@@ -2307,16 +2323,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189928,
-      "num": 189928,
-      "word": "45岁重庆大叔离世捐器官救5人",
-      "onboard_time": 1685674709,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189683,
-      "num": 189683,
+      "num": 197026,
       "word": "开空调省电的办法",
       "onboard_time": 1685670568,
       "rank": 39,
@@ -2428,7 +2436,7 @@
     },
     {
       "raw_hot": 181743,
-      "num": 181743,
+      "num": 197201,
       "word": "你为什么总是不跟爸爸妈妈讲话",
       "onboard_time": 1685672907,
       "rank": 31,
@@ -2540,7 +2548,7 @@
     },
     {
       "raw_hot": 166515,
-      "num": 177662,
+      "num": 196349,
       "word": "对这种玩笑永远不要笑",
       "onboard_time": 1685660781,
       "rank": 31,
@@ -2548,7 +2556,7 @@
     },
     {
       "raw_hot": 166155,
-      "num": 177494,
+      "num": 196439,
       "word": "哪些消费是智商税",
       "onboard_time": 1685668707,
       "rank": 29,
@@ -2755,6 +2763,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146240,
+      "num": 196963,
+      "word": "24岁研究生生日当天救了一个人",
+      "onboard_time": 1685676267,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143673,
+      "num": 196911,
+      "word": "蜘蛛侠",
+      "onboard_time": 1685673328,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 141254,
       "num": 133380,
       "word": "五月天演唱会",
@@ -2844,7 +2868,7 @@
     },
     {
       "raw_hot": 132341,
-      "num": 152195,
+      "num": 196247,
       "word": "周迅livehouse与小朋友同台演唱",
       "onboard_time": 1685674888,
       "rank": 40,
@@ -2945,14 +2969,6 @@
       "onboard_time": 1685637261,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120761,
-      "num": 177317,
-      "word": "蜘蛛侠",
-      "onboard_time": 1685673328,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 120187,
@@ -3161,6 +3177,14 @@
       "onboard_time": 1685599828,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 89696,
+      "num": 196057,
+      "word": "保安出版小说入选当代中国文学书库",
+      "onboard_time": 1685676448,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89371,
