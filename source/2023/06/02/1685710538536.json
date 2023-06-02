@@ -1,0 +1,410 @@
+{
+  "runTime": 1685710538536,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 934984,
+        "num": 934984,
+        "word": "张雪峰公司将实行上四休三",
+        "onboard_time": 1685706691,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 700325,
+        "num": 700325,
+        "word": "韩国23岁女子杀害陌生同龄女子",
+        "onboard_time": 1685705015,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394892,
+        "num": 394892,
+        "word": "陶白白你自己算到了吗",
+        "onboard_time": 1685691267,
+        "rank": 2,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 1722234,
+        "num": 368809,
+        "word": "我国一孩生育率跌至0.5",
+        "onboard_time": 1685704832,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1153617,
+        "num": 362381,
+        "word": "吴所谓得知吴京去开家长会的反应",
+        "onboard_time": 1685701350,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340536,
+        "num": 340536,
+        "word": "网友花8万拍下椰树直播间蹦迪票",
+        "onboard_time": 1685706334,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334807,
+        "num": 334807,
+        "word": "黄晓明救了我的手机",
+        "onboard_time": 1685693187,
+        "rank": 6,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 330862,
+        "num": 330862,
+        "word": "陈采尼敦煌时装秀",
+        "onboard_time": 1685706691,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 326063,
+        "num": 326063,
+        "word": "老伴走后第二天浙大老教师又去捡垃圾了",
+        "onboard_time": 1685690547,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306480,
+        "num": 306480,
+        "word": "官方回应昆明一幼儿园3岁女童死亡",
+        "onboard_time": 1685704832,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1157869,
+        "num": 296730,
+        "word": "顾姓老师已调离华南理工",
+        "onboard_time": 1685696908,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 623850,
+        "num": 285794,
+        "word": "肖战王一博同款表情演技",
+        "onboard_time": 1685707591,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256303,
+        "num": 256303,
+        "word": "第一次意识到古装剧里眉毛这么重要",
+        "onboard_time": 1685701710,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 857043,
+        "num": 254135,
+        "word": "高校回应女博士毕业答辩争议",
+        "onboard_time": 1685691446,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 94311,
+        "num": 252326,
+        "word": "618有没有作业借我抄抄",
+        "onboard_time": 1685703214,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25383,
+        "num": 246423,
+        "word": "神舟十六号飞天全回顾",
+        "onboard_time": 1685694809,
+        "rank": 15,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 5558333,
+        "num": 243256,
+        "word": "校内被撞身亡小学生母亲坠楼身亡",
+        "onboard_time": 1685700868,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260195,
+        "num": 237346,
+        "word": "顾姓老师与苏某曾共同发明专利",
+        "onboard_time": 1685705674,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 236531,
+        "num": 236531,
+        "word": "赵丽颖迪士尼",
+        "onboard_time": 1685699128,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219105,
+        "num": 219105,
+        "word": "子时当归 速溶咖啡",
+        "onboard_time": 1685703755,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1643206,
+        "num": 218808,
+        "word": "3未成年男性酒店轮流猥亵2少女",
+        "onboard_time": 1685706814,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312173,
+        "num": 215512,
+        "word": "网友对肖战演技的评价",
+        "onboard_time": 1685707651,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232909,
+        "num": 214893,
+        "word": "四川大学回应女博士生介入导师婚姻",
+        "onboard_time": 1685694568,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 208569,
+        "num": 208569,
+        "word": "王鹤棣要去泰国录跑男",
+        "onboard_time": 1685682993,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203013,
+        "num": 203013,
+        "word": "浪姐4二公排名谁最离谱",
+        "onboard_time": 1685700631,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188584,
+        "num": 188584,
+        "word": "跑男",
+        "onboard_time": 1685709869,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175143,
+        "num": 175143,
+        "word": "张杰沈阳",
+        "onboard_time": 1685708972,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174486,
+        "num": 174486,
+        "word": "为什么反对男艺人过度撸铁",
+        "onboard_time": 1685694867,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173716,
+        "num": 173716,
+        "word": "黄子韬说我们不需要什么澄清",
+        "onboard_time": 1685710112,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166697,
+        "num": 166697,
+        "word": "学术妲己的危害",
+        "onboard_time": 1685708493,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311981,
+        "num": 166437,
+        "word": "今晚的观众好忙",
+        "onboard_time": 1685710292,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214781,
+        "num": 166286,
+        "word": "年龄算什么 永远不会太晚",
+        "onboard_time": 1685709272,
+        "rank": 31,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 169450,
+        "num": 166224,
+        "word": "爷爷去世前发给我的",
+        "onboard_time": 1685710010,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166119,
+        "num": 166119,
+        "word": "陌生男子一脚踩死怀孕猫咪",
+        "onboard_time": 1685694748,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163484,
+        "num": 163484,
+        "word": "子时当归",
+        "onboard_time": 1685703934,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 154951,
+        "num": 154951,
+        "word": "香港外卖小哥回应月入三万五",
+        "onboard_time": 1685697448,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148444,
+        "num": 148444,
+        "word": "澳门到处都是蔡徐坤",
+        "onboard_time": 1685701350,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142363,
+        "num": 147188,
+        "word": "王菲每一笔画都是直的",
+        "onboard_time": 1685697387,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146189,
+        "num": 146189,
+        "word": "收费员多问一句救下一条命",
+        "onboard_time": 1685698349,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 144449,
+        "num": 144449,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1685705915,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135514,
+        "num": 135514,
+        "word": "国安",
+        "onboard_time": 1685710172,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135417,
+        "num": 135417,
+        "word": "深圳供电局再回应城中村晚上停电",
+        "onboard_time": 1685707112,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135414,
+        "num": 135414,
+        "word": "林志玲说是她跟Akira求婚的",
+        "onboard_time": 1685690966,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124013,
+        "num": 135413,
+        "word": "杨紫出发长春路透",
+        "onboard_time": 1685700329,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109451,
+        "num": 135395,
+        "word": "蛋仔派对",
+        "onboard_time": 1685708671,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106104,
+        "num": 135378,
+        "word": "王诗龄说好久不见何炅",
+        "onboard_time": 1685693370,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105896,
+        "num": 135374,
+        "word": "张艺兴兑现两年前承诺",
+        "onboard_time": 1685700387,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104522,
+        "num": 135350,
+        "word": "吴倩没有镜头",
+        "onboard_time": 1685689167,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98710,
+        "num": 135343,
+        "word": "和奔跑吧运动一夏",
+        "onboard_time": 1685707472,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85646,
+        "num": 135331,
+        "word": "剑网3回应同人涉嫌抄袭",
+        "onboard_time": 1685706573,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#设计建造大型邮轮靠的是强大国力#"
+    }
+  }
+}
