@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685712171987,
+  "endTime": 1685712816386,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2514048,
+      "num": 1290000,
+      "word": "我国一孩生育率跌至0.5",
+      "onboard_time": 1685704832,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2336837,
       "num": 1298502,
       "word": "官方通报局长出轨女经理",
@@ -33,14 +41,6 @@
       "onboard_time": 1685635046,
       "rank": 0,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2284690,
-      "num": 1018531,
-      "word": "我国一孩生育率跌至0.5",
-      "onboard_time": 1685704832,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2123863,
@@ -81,6 +81,14 @@
       "onboard_time": 1685579847,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1902326,
+      "num": 1902326,
+      "word": "今晚的观众好忙",
+      "onboard_time": 1685710292,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 1895298,
@@ -227,6 +235,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1341246,
+      "num": 1599420,
+      "word": "张雪峰公司将实行上四休三",
+      "onboard_time": 1685706691,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1333960,
       "num": 553485,
       "word": "李念官宣生三胎",
@@ -243,14 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1312969,
-      "num": 1599420,
-      "word": "张雪峰公司将实行上四休三",
-      "onboard_time": 1685706691,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1308571,
       "num": 1308571,
       "word": "夫妻入职300家公司骗工资60万",
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 1303465,
-      "num": 1017394,
+      "num": 1287551,
       "word": "吴所谓得知吴京去开家长会的反应",
       "onboard_time": 1685701350,
       "rank": 34,
@@ -419,20 +427,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1092590,
-      "num": 1092590,
-      "word": "今晚的观众好忙",
-      "onboard_time": 1685710292,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1081873,
       "num": 1081873,
       "word": "二三十了还觉得自己是个小孩正常吗",
       "onboard_time": 1685614287,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1070325,
+      "num": 1070325,
+      "word": "黄子韬说我们不需要什么澄清",
+      "onboard_time": 1685710112,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 1050365,
@@ -537,14 +545,6 @@
       "onboard_time": 1685624848,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 865750,
-      "num": 865750,
-      "word": "黄子韬说我们不需要什么澄清",
-      "onboard_time": 1685710112,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 855032,
@@ -1155,6 +1155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 452787,
+      "num": 452787,
+      "word": "网友花8万拍下椰树直播间蹦迪票",
+      "onboard_time": 1685706334,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 451005,
       "num": 451005,
       "word": "知道的以为你是追姑娘",
@@ -1307,14 +1315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 417073,
-      "num": 417073,
-      "word": "网友花8万拍下椰树直播间蹦迪票",
-      "onboard_time": 1685706334,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 413525,
       "num": 413525,
       "word": "张杰把开心快乐送给女儿们",
@@ -1377,6 +1377,14 @@
       "onboard_time": 1685620466,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397150,
+      "num": 397150,
+      "word": "年龄算什么 永远不会太晚",
+      "onboard_time": 1685709272,
+      "rank": 44,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 396671,
@@ -1545,14 +1553,6 @@
       "onboard_time": 1685594189,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 348769,
-      "num": 348769,
-      "word": "年龄算什么 永远不会太晚",
-      "onboard_time": 1685709272,
-      "rank": 44,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 347822,
@@ -1795,6 +1795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 309014,
+      "num": 309014,
+      "word": "官方回应昆明一幼儿园3岁女童死亡",
+      "onboard_time": 1685704832,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308029,
       "num": 308029,
       "word": "护心热度",
@@ -1811,11 +1819,11 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 306480,
-      "num": 306480,
-      "word": "官方回应昆明一幼儿园3岁女童死亡",
-      "onboard_time": 1685704832,
-      "rank": 15,
+      "raw_hot": 304459,
+      "num": 262963,
+      "word": "学术妲己的危害",
+      "onboard_time": 1685708493,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1969,6 +1977,14 @@
       "onboard_time": 1685589987,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 287127,
+      "num": 230894,
+      "word": "鞠婧祎韩式半永久",
+      "onboard_time": 1685711130,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 287121,
@@ -2371,14 +2387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 246911,
-      "num": 246911,
-      "word": "学术妲己的危害",
-      "onboard_time": 1685708493,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 246412,
       "num": 246412,
       "word": "cbx",
@@ -2483,6 +2491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237304,
+      "num": 237304,
+      "word": "张逸杰肌肉",
+      "onboard_time": 1685712574,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236374,
       "num": 235938,
       "word": "王一博看秀内场照",
@@ -2497,6 +2513,14 @@
       "onboard_time": 1685594971,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235145,
+      "num": 235145,
+      "word": "骆歆",
+      "onboard_time": 1685711372,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 232922,
@@ -2633,14 +2657,6 @@
       "onboard_time": 1685675069,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 221759,
-      "num": 221759,
-      "word": "鞠婧祎韩式半永久",
-      "onboard_time": 1685711130,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 221535,
@@ -2819,6 +2835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 210010,
+      "num": 210010,
+      "word": "肖春生贺红玲好嗑",
+      "onboard_time": 1685711130,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209979,
       "num": 209979,
       "word": "肖春生佟晓梅今晚见",
@@ -2883,14 +2907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203652,
-      "num": 203652,
-      "word": "肖春生贺红玲好嗑",
-      "onboard_time": 1685711130,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 203647,
       "num": 203647,
       "word": "十个勤天",
@@ -2929,6 +2945,14 @@
       "onboard_time": 1685631691,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200800,
+      "num": 180712,
+      "word": "爷爷去世前发给我的",
+      "onboard_time": 1685710010,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 200300,
@@ -3291,14 +3315,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 180231,
-      "num": 166224,
-      "word": "爷爷去世前发给我的",
-      "onboard_time": 1685710010,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 179739,
       "num": 179739,
       "word": "梦中的那片海预告",
@@ -3401,6 +3417,14 @@
       "onboard_time": 1685544453,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169116,
+      "num": 169116,
+      "word": "水哥变帅的原因找到了",
+      "onboard_time": 1685711554,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 169057,
@@ -3627,6 +3651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 154629,
+      "num": 154629,
+      "word": "国安",
+      "onboard_time": 1685710172,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154485,
       "num": 154485,
       "word": "外卖小哥做副业月入5w",
@@ -3649,6 +3681,14 @@
       "onboard_time": 1685580809,
       "rank": 39,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 153140,
+      "num": 153140,
+      "word": "aespa和LESSERAFIM完全相反的食性",
+      "onboard_time": 1685712451,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 152551,
@@ -3763,6 +3803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146548,
+      "num": 146548,
+      "word": "赵丽颖躲藏有一手",
+      "onboard_time": 1685711912,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145184,
       "num": 145184,
       "word": "瞬息全宇宙",
@@ -3825,14 +3873,6 @@
       "onboard_time": 1685689465,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 140531,
-      "num": 140531,
-      "word": "国安",
-      "onboard_time": 1685710172,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 140498,
@@ -3913,14 +3953,6 @@
       "onboard_time": 1685605588,
       "rank": 34,
       "category": "科技"
-    },
-    {
-      "raw_hot": 134769,
-      "num": 134769,
-      "word": "骆歆",
-      "onboard_time": 1685711372,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 133781,
@@ -4091,14 +4123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120315,
-      "num": 120315,
-      "word": "水哥变帅的原因找到了",
-      "onboard_time": 1685711554,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 120187,
       "num": 120187,
       "word": "3岁三胞胎姐妹解锁派出所综窗初体验",
@@ -4163,6 +4187,14 @@
       "category": "情感,音乐"
     },
     {
+      "raw_hot": 117391,
+      "num": 117391,
+      "word": "多想象一下自己的40岁",
+      "onboard_time": 1685712152,
+      "rank": 47,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 116162,
       "num": 132437,
       "word": "镖人动画开播",
@@ -4187,14 +4219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115197,
-      "num": 115197,
-      "word": "赵丽颖躲藏有一手",
-      "onboard_time": 1685711912,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 112916,
       "num": 112916,
       "word": "儿童节",
@@ -4209,6 +4233,14 @@
       "onboard_time": 1685574439,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112866,
+      "num": 112866,
+      "word": "肖春生喜欢谁",
+      "onboard_time": 1685712692,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 112400,
@@ -4339,14 +4371,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 103404,
-      "num": 103404,
-      "word": "多想象一下自己的40岁",
-      "onboard_time": 1685712152,
-      "rank": 47,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 102346,
       "num": 189015,
       "word": "云南彝良突发洪灾致3人遇难",
@@ -4457,6 +4481,14 @@
       "onboard_time": 1685575822,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86043,
+      "num": 108175,
+      "word": "文化传承发展座谈会",
+      "onboard_time": 1685712753,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85646,
@@ -4587,6 +4619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72300,
+      "num": 261575,
+      "word": "大二女生连续6年帮残疾父亲爬楼送货",
+      "onboard_time": 1685710832,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72193,
       "num": 106043,
       "word": "龚翔宇太可爱了",
@@ -4699,14 +4739,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 53916,
-      "num": 260165,
-      "word": "大二女生连续6年帮残疾父亲爬楼送货",
-      "onboard_time": 1685710832,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 53746,
       "num": 53746,
       "word": "2023高考",
@@ -4719,6 +4751,14 @@
       "num": 1239034,
       "word": "长江金色航道百舸争流好壮美",
       "onboard_time": 1685694989,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51861,
+      "num": 1290216,
+      "word": "无人机看长江金色航道美如油画",
+      "onboard_time": 1685710832,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -4751,14 +4791,6 @@
       "num": 1216939,
       "word": "这群幕后航天人对代码有着极致追求",
       "onboard_time": 1685633730,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48683,
-      "num": 1020726,
-      "word": "无人机看长江金色航道美如油画",
-      "onboard_time": 1685710832,
       "rank": 2,
       "category": "社会新闻"
     },
