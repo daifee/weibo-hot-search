@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685671716874,
+  "endTime": 1685674218925,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -635,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1420062,
+      "num": 1420062,
+      "word": "被骗到缅甸6小伙已被解救",
+      "onboard_time": 1685669608,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1407080,
       "num": 1407080,
       "word": "跑步的多巴胺仅次于谈恋爱",
@@ -851,20 +859,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1269272,
+      "num": 1269272,
+      "word": "千万不要觉得成绩已经定型了",
+      "onboard_time": 1685664687,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1268643,
       "num": 856208,
       "word": "胡彦斌新恋情被曝后首发博",
       "onboard_time": 1685432249,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1267790,
-      "num": 1267790,
-      "word": "千万不要觉得成绩已经定型了",
-      "onboard_time": 1685664687,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 1267506,
@@ -1377,6 +1385,14 @@
       "onboard_time": 1685352029,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 900111,
+      "num": 900111,
+      "word": "为什么不能坐别人的热凳子",
+      "onboard_time": 1685672128,
+      "rank": 4,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 894425,
@@ -2427,14 +2443,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 533714,
-      "num": 533714,
-      "word": "被骗到缅甸6小伙已被解救",
-      "onboard_time": 1685669608,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 527494,
       "num": 515360,
       "word": "虞书欣直播",
@@ -2996,7 +3004,7 @@
     },
     {
       "raw_hot": 430282,
-      "num": 202855,
+      "num": 220355,
       "word": "江苏南通发生命案两人遇害",
       "onboard_time": 1685662523,
       "rank": 20,
@@ -3169,6 +3177,14 @@
       "onboard_time": 1685666971,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 418662,
+      "num": 221001,
+      "word": "情侣夏天不想牵手可以这样",
+      "onboard_time": 1685672607,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 418646,
@@ -3700,7 +3716,7 @@
     },
     {
       "raw_hot": 365142,
-      "num": 202136,
+      "num": 220594,
       "word": "男童不慎将玩具甩进邻桌火锅烫到婴儿",
       "onboard_time": 1685664867,
       "rank": 21,
@@ -3977,6 +3993,14 @@
       "onboard_time": 1685457815,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 340289,
+      "num": 340289,
+      "word": "虞书欣妆造",
+      "onboard_time": 1685672786,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 339916,
@@ -4419,6 +4443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314147,
+      "num": 220693,
+      "word": "王一博外网生图状态",
+      "onboard_time": 1685672847,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 313570,
       "num": 241443,
       "word": "2023KPL夏季转会期",
@@ -4473,6 +4505,14 @@
       "onboard_time": 1685493089,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310851,
+      "num": 264765,
+      "word": "边伯贤金珉锡金钟大称SMTOWN说谎",
+      "onboard_time": 1685673807,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 310501,
@@ -5235,6 +5275,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 270350,
+      "num": 264744,
+      "word": "原来高清的五月天长这样",
+      "onboard_time": 1685672968,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 270252,
       "num": 270252,
       "word": "丫丫离开上海回京",
@@ -5344,6 +5392,14 @@
       "word": "鹿晗重庆",
       "onboard_time": 1685439506,
       "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 264650,
+      "num": 264650,
+      "word": "五月天武汉",
+      "onboard_time": 1685669425,
+      "rank": 38,
       "category": "音乐"
     },
     {
@@ -5467,6 +5523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 257080,
+      "num": 257080,
+      "word": "王源我有一天来鸟巢",
+      "onboard_time": 1685670926,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 256600,
       "num": 219153,
       "word": "周也露背裙",
@@ -5577,6 +5641,14 @@
       "onboard_time": 1685592026,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254153,
+      "num": 254153,
+      "word": "赵丽颖算不算天赋型演员",
+      "onboard_time": 1685662943,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 253784,
@@ -6052,7 +6124,7 @@
     },
     {
       "raw_hot": 238102,
-      "num": 201489,
+      "num": 210481,
       "word": "肖战肖春生好大一滴泪",
       "onboard_time": 1685668827,
       "rank": 23,
@@ -6347,14 +6419,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 226728,
-      "num": 200784,
-      "word": "赵丽颖算不算天赋型演员",
-      "onboard_time": 1685662943,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 225923,
       "num": 225923,
       "word": "妈宝男婚后有多下头",
@@ -6547,6 +6611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221067,
+      "num": 221067,
+      "word": "热火vs掘金",
+      "onboard_time": 1685667572,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221006,
       "num": 221006,
       "word": "王鹤棣咬紧的下颚线",
@@ -6601,6 +6673,14 @@
       "onboard_time": 1685516366,
       "rank": 34,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 220264,
+      "num": 220264,
+      "word": "奥本海默定为R级",
+      "onboard_time": 1685669367,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 220157,
@@ -6985,14 +7065,6 @@
       "onboard_time": 1685478132,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206817,
-      "num": 201217,
-      "word": "奥本海默定为R级",
-      "onboard_time": 1685669367,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 206741,
@@ -7859,14 +7931,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 188705,
-      "num": 188705,
-      "word": "热火vs掘金",
-      "onboard_time": 1685667572,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 188626,
       "num": 160518,
       "word": "张艺兴街边开儿童车",
@@ -8171,6 +8235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 180532,
+      "num": 180532,
+      "word": "开空调省电的办法",
+      "onboard_time": 1685670568,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180310,
       "num": 180310,
       "word": "雷佳音时尚芭莎大片像屁崩了",
@@ -8289,14 +8361,6 @@
       "onboard_time": 1685406509,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174488,
-      "num": 174488,
-      "word": "五月天武汉",
-      "onboard_time": 1685669425,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 173741,
@@ -8771,14 +8835,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 161241,
-      "num": 161241,
-      "word": "王源我有一天来鸟巢",
-      "onboard_time": 1685670926,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 160810,
       "num": 160810,
       "word": "王源演唱会四年前vs四年后",
@@ -9017,6 +9073,14 @@
       "onboard_time": 1685364989,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152559,
+      "num": 152559,
+      "word": "你为什么总是不跟爸爸妈妈讲话",
+      "onboard_time": 1685672907,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 152551,
@@ -9353,14 +9417,6 @@
       "onboard_time": 1685357368,
       "rank": 42,
       "category": "教育,国内要闻"
-    },
-    {
-      "raw_hot": 136000,
-      "num": 136000,
-      "word": "开空调省电的办法",
-      "onboard_time": 1685670568,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 135683,
@@ -10051,6 +10107,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 109581,
+      "num": 109581,
+      "word": "迎接神十五乘组回家",
+      "onboard_time": 1685672128,
+      "rank": 40,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 108891,
       "num": 108891,
       "word": "LNG对战TES",
@@ -10169,6 +10233,14 @@
       "onboard_time": 1685546132,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103776,
+      "num": 103776,
+      "word": "蜘蛛侠",
+      "onboard_time": 1685673328,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 103648,
@@ -10313,6 +10385,14 @@
       "onboard_time": 1685548409,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 92618,
+      "num": 100710,
+      "word": "陈睿回应B站停更潮争议",
+      "onboard_time": 1685673928,
+      "rank": 44,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 92283,

@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685671716874,
+  "endTime": 1685674218925,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -123,6 +123,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1420062,
+      "num": 1420062,
+      "word": "被骗到缅甸6小伙已被解救",
+      "onboard_time": 1685669608,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1407080,
       "num": 1407080,
       "word": "跑步的多巴胺仅次于谈恋爱",
@@ -187,8 +195,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1267790,
-      "num": 1267790,
+      "raw_hot": 1269272,
+      "num": 1269272,
       "word": "千万不要觉得成绩已经定型了",
       "onboard_time": 1685664687,
       "rank": 1,
@@ -337,6 +345,14 @@
       "onboard_time": 1685574199,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 900111,
+      "num": 900111,
+      "word": "为什么不能坐别人的热凳子",
+      "onboard_time": 1685672128,
+      "rank": 4,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 888042,
@@ -643,14 +659,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 533714,
-      "num": 533714,
-      "word": "被骗到缅甸6小伙已被解救",
-      "onboard_time": 1685669608,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 531758,
       "num": 531758,
       "word": "虞书欣 杨天真",
@@ -796,7 +804,7 @@
     },
     {
       "raw_hot": 430282,
-      "num": 202855,
+      "num": 220355,
       "word": "江苏南通发生命案两人遇害",
       "onboard_time": 1685662523,
       "rank": 20,
@@ -849,6 +857,14 @@
       "onboard_time": 1685666971,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 418662,
+      "num": 221001,
+      "word": "情侣夏天不想牵手可以这样",
+      "onboard_time": 1685672607,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 418113,
@@ -1004,7 +1020,7 @@
     },
     {
       "raw_hot": 365142,
-      "num": 202136,
+      "num": 220594,
       "word": "男童不慎将玩具甩进邻桌火锅烫到婴儿",
       "onboard_time": 1685664867,
       "rank": 21,
@@ -1073,6 +1089,14 @@
       "onboard_time": 1685584646,
       "rank": 36,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 340289,
+      "num": 340289,
+      "word": "虞书欣妆造",
+      "onboard_time": 1685672786,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 339916,
@@ -1195,6 +1219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 314147,
+      "num": 220693,
+      "word": "王一博外网生图状态",
+      "onboard_time": 1685672847,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 313379,
       "num": 313379,
       "word": "SMTOWN说钱不重要",
@@ -1217,6 +1249,14 @@
       "onboard_time": 1685607086,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 310851,
+      "num": 264765,
+      "word": "边伯贤金珉锡金钟大称SMTOWN说谎",
+      "onboard_time": 1685673807,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 308029,
@@ -1451,6 +1491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270350,
+      "num": 264744,
+      "word": "原来高清的五月天长这样",
+      "onboard_time": 1685672968,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 268667,
       "num": 268667,
       "word": "小学生放学捡到特殊纸币报警",
@@ -1472,6 +1520,14 @@
       "word": "TFBOYS十周年演唱会灯牌设计",
       "onboard_time": 1685616086,
       "rank": 24,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 264650,
+      "num": 264650,
+      "word": "五月天武汉",
+      "onboard_time": 1685669425,
+      "rank": 38,
       "category": "音乐"
     },
     {
@@ -1505,6 +1561,14 @@
       "onboard_time": 1685621609,
       "rank": 29,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 257080,
+      "num": 257080,
+      "word": "王源我有一天来鸟巢",
+      "onboard_time": 1685670926,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 256981,
@@ -1553,6 +1617,14 @@
       "onboard_time": 1685592026,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254153,
+      "num": 254153,
+      "word": "赵丽颖算不算天赋型演员",
+      "onboard_time": 1685662943,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 253624,
@@ -1692,7 +1764,7 @@
     },
     {
       "raw_hot": 238102,
-      "num": 201489,
+      "num": 210481,
       "word": "肖战肖春生好大一滴泪",
       "onboard_time": 1685668827,
       "rank": 23,
@@ -1771,14 +1843,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 226728,
-      "num": 200784,
-      "word": "赵丽颖算不算天赋型演员",
-      "onboard_time": 1685662943,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 225903,
       "num": 225903,
       "word": "当有人说他从大厂出来belike",
@@ -1819,12 +1883,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221067,
+      "num": 221067,
+      "word": "热火vs掘金",
+      "onboard_time": 1685667572,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220902,
       "num": 220902,
       "word": "孟鹤堂 拍到了姐姐和美",
       "onboard_time": 1685593231,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220264,
+      "num": 220264,
+      "word": "奥本海默定为R级",
+      "onboard_time": 1685669367,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 220157,
@@ -1960,14 +2040,6 @@
       "word": "CCTV6 诛仙",
       "onboard_time": 1685540369,
       "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 206817,
-      "num": 201217,
-      "word": "奥本海默定为R级",
-      "onboard_time": 1685669367,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -2171,14 +2243,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 188705,
-      "num": 188705,
-      "word": "热火vs掘金",
-      "onboard_time": 1685667572,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 188626,
       "num": 160518,
       "word": "张艺兴街边开儿童车",
@@ -2283,6 +2347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 180532,
+      "num": 180532,
+      "word": "开空调省电的办法",
+      "onboard_time": 1685670568,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180310,
       "num": 180310,
       "word": "雷佳音时尚芭莎大片像屁崩了",
@@ -2313,14 +2385,6 @@
       "onboard_time": 1685631931,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 174488,
-      "num": 174488,
-      "word": "五月天武汉",
-      "onboard_time": 1685669425,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 172903,
@@ -2459,14 +2523,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 161241,
-      "num": 161241,
-      "word": "王源我有一天来鸟巢",
-      "onboard_time": 1685670926,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 159970,
       "num": 159970,
       "word": "梦中的那片海制片人缅怀付宁导演",
@@ -2529,6 +2585,14 @@
       "onboard_time": 1685580809,
       "rank": 39,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 152559,
+      "num": 152559,
+      "word": "你为什么总是不跟爸爸妈妈讲话",
+      "onboard_time": 1685672907,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 152551,
@@ -2665,14 +2729,6 @@
       "onboard_time": 1685538627,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136000,
-      "num": 136000,
-      "word": "开空调省电的办法",
-      "onboard_time": 1685670568,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 134843,
@@ -2883,6 +2939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 109581,
+      "num": 109581,
+      "word": "迎接神十五乘组回家",
+      "onboard_time": 1685672128,
+      "rank": 40,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 108663,
       "num": 108663,
       "word": "如果广东停电一天",
@@ -2913,6 +2977,14 @@
       "onboard_time": 1685643554,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 103776,
+      "num": 103776,
+      "word": "蜘蛛侠",
+      "onboard_time": 1685673328,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 103499,
@@ -2977,6 +3049,14 @@
       "onboard_time": 1685548409,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 92618,
+      "num": 100710,
+      "word": "陈睿回应B站停更潮争议",
+      "onboard_time": 1685673928,
+      "rank": 44,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 91252,
