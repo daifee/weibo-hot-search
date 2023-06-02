@@ -1,6 +1,6 @@
 {
   "startTime": 1685636689541,
-  "endTime": 1685719043729,
+  "endTime": 1685720012590,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 5469239,
-      "num": 440979,
+      "num": 492086,
       "word": "物业证实校内被撞身亡小学生母亲坠楼",
       "onboard_time": 1685717903,
       "rank": 10,
@@ -219,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1131122,
+      "num": 490676,
+      "word": "昆明机场一女子取行李被撞身亡",
+      "onboard_time": 1685717852,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1050365,
       "num": 1050365,
       "word": "黄晓明救了我的手机",
@@ -265,6 +273,14 @@
       "onboard_time": 1685630192,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 888090,
+      "num": 888090,
+      "word": "太阳的后裔原型 李云龙原型歼灭的",
+      "onboard_time": 1685718693,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 837359,
@@ -376,14 +392,6 @@
       "word": "柳州与女子不雅聊天公职人员被免职",
       "onboard_time": 1685624428,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 646696,
-      "num": 430753,
-      "word": "昆明机场一女子取行李被撞身亡",
-      "onboard_time": 1685717852,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -523,6 +531,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 493392,
+      "num": 493392,
+      "word": "8岁男孩摆摊1小时赚584元",
+      "onboard_time": 1685716294,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488010,
+      "num": 488010,
+      "word": "收视率",
+      "onboard_time": 1685717735,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 479655,
       "num": 396445,
       "word": "顾姓老师与苏某曾共同发明专利",
@@ -553,6 +577,14 @@
       "onboard_time": 1685681197,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 461948,
+      "num": 461948,
+      "word": "九尾",
+      "onboard_time": 1685717672,
+      "rank": 17,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 461882,
@@ -625,14 +657,6 @@
       "onboard_time": 1685620766,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 441169,
-      "num": 441169,
-      "word": "8岁男孩摆摊1小时赚584元",
-      "onboard_time": 1685716294,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 435195,
@@ -715,14 +739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 413044,
-      "num": 413044,
-      "word": "收视率",
-      "onboard_time": 1685717735,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 407089,
       "num": 407089,
       "word": "骆歆",
@@ -769,14 +785,6 @@
       "onboard_time": 1685685749,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 384130,
-      "num": 384130,
-      "word": "九尾",
-      "onboard_time": 1685717672,
-      "rank": 17,
-      "category": "综艺,游戏"
     },
     {
       "raw_hot": 380809,
@@ -833,6 +841,14 @@
       "onboard_time": 1685679209,
       "rank": 48,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 353314,
+      "num": 353314,
+      "word": "又显着范丞丞了",
+      "onboard_time": 1685718573,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 352405,
@@ -1155,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264961,
+      "num": 247701,
+      "word": "张杰唱剑心爷青回",
+      "onboard_time": 1685717975,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 264035,
       "num": 264035,
       "word": "张远演唱会",
@@ -1251,20 +1275,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 253621,
-      "num": 233583,
-      "word": "太阳的后裔原型 李云龙原型歼灭的",
-      "onboard_time": 1685718693,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 250666,
       "num": 250666,
       "word": "如果月入三万你愿意去送外卖吗",
       "onboard_time": 1685696548,
       "rank": 41,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 246359,
+      "num": 246359,
+      "word": "致1291万考生",
+      "onboard_time": 1685718092,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243797,
@@ -1329,30 +1353,6 @@
       "onboard_time": 1685620466,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230145,
-      "num": 230145,
-      "word": "致1291万考生",
-      "onboard_time": 1685718092,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229383,
-      "num": 229383,
-      "word": "又显着范丞丞了",
-      "onboard_time": 1685718573,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 228825,
-      "num": 228825,
-      "word": "张杰唱剑心爷青回",
-      "onboard_time": 1685717975,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 228654,
@@ -1473,6 +1473,14 @@
       "onboard_time": 1685711130,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 209697,
+      "num": 209697,
+      "word": "瞿颖真的好敢说",
+      "onboard_time": 1685719652,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 208010,
@@ -1619,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189959,
+      "num": 189959,
+      "word": "男子刮刮乐中25万激动到手舞足蹈",
+      "onboard_time": 1685719235,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189683,
       "num": 214869,
       "word": "开空调省电的办法",
@@ -1657,6 +1673,14 @@
       "onboard_time": 1685709869,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186282,
+      "num": 186282,
+      "word": "如何看待我国一孩生育率下跌现象",
+      "onboard_time": 1685718693,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186145,
@@ -1723,12 +1747,12 @@
       "category": "综艺,游戏"
     },
     {
-      "raw_hot": 178769,
-      "num": 178769,
-      "word": "如何看待我国一孩生育率下跌现象",
-      "onboard_time": 1685718693,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 177433,
+      "num": 177433,
+      "word": "孙红雷说谢娜心眼小",
+      "onboard_time": 1685719533,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 176431,
@@ -2043,6 +2067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145862,
+      "num": 145862,
+      "word": "张杰演唱会上的五口之家",
+      "onboard_time": 1685719953,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 145184,
       "num": 145184,
       "word": "瞬息全宇宙",
@@ -2217,6 +2249,14 @@
       "onboard_time": 1685678427,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127030,
+      "num": 145836,
+      "word": "AI生成的各省男子图鉴",
+      "onboard_time": 1685719053,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 125205,
@@ -2563,6 +2603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74540,
+      "num": 477376,
+      "word": "男生高铁站遇流浪狗特意返程收养",
+      "onboard_time": 1685718032,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73245,
       "num": 1535960,
       "word": "全球最大自贸区进入全面实施新阶段",
@@ -2723,14 +2771,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 36982,
-      "num": 413124,
-      "word": "男生高铁站遇流浪狗特意返程收养",
-      "onboard_time": 1685718032,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 34587,
       "num": 49075,
       "word": "来活了兄弟豆瓣评分8.1分",
@@ -2786,6 +2826,9 @@
     },
     {
       "word": "#加快建设高质量教育体系#"
+    },
+    {
+      "word": "#直上九天问苍穹天宫圆梦绘新篇#"
     }
   ]
 }
