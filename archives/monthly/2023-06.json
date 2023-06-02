@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685687639911,
+  "endTime": 1685690121630,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -41,6 +41,14 @@
       "onboard_time": 1685539529,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2028735,
+      "num": 981146,
+      "word": "学校正核查学术妲己事件",
+      "onboard_time": 1685686708,
+      "rank": 31,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1990762,
@@ -219,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1276989,
+      "num": 1276989,
+      "word": "章莹颖遇害六年后",
+      "onboard_time": 1685685329,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1269272,
       "num": 1269272,
       "word": "千万不要觉得成绩已经定型了",
@@ -339,14 +355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 981146,
-      "num": 981146,
-      "word": "学校正核查学术妲己事件",
-      "onboard_time": 1685686708,
-      "rank": 31,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 977357,
       "num": 977357,
       "word": "肖战迪丽热巴童话里走出来的王子公主",
@@ -369,6 +377,14 @@
       "onboard_time": 1685596649,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 958329,
+      "num": 958329,
+      "word": "毕业后租一辈子房可行吗",
+      "onboard_time": 1685685389,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 955471,
@@ -587,14 +603,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 639707,
-      "num": 410396,
-      "word": "章莹颖遇害六年后",
-      "onboard_time": 1685685329,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 632733,
       "num": 632733,
       "word": "酷云",
@@ -609,6 +617,14 @@
       "onboard_time": 1685615487,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 612599,
+      "num": 612599,
+      "word": "王鹤棣要去泰国录跑男",
+      "onboard_time": 1685682993,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 608568,
@@ -777,6 +793,14 @@
       "onboard_time": 1685663244,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 546377,
+      "num": 395880,
+      "word": "北航已经有三名航天员了",
+      "onboard_time": 1685684132,
+      "rank": 10,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 543897,
@@ -987,14 +1011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 429203,
-      "num": 429203,
-      "word": "王鹤棣要去泰国录跑男",
-      "onboard_time": 1685682993,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 428979,
       "num": 428979,
       "word": "少爷和我再合体",
@@ -1073,22 +1089,6 @@
       "onboard_time": 1685629892,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 412607,
-      "num": 395880,
-      "word": "北航已经有三名航天员了",
-      "onboard_time": 1685684132,
-      "rank": 10,
-      "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 411906,
-      "num": 411906,
-      "word": "毕业后租一辈子房可行吗",
-      "onboard_time": 1685685389,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 411573,
@@ -1731,6 +1731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270043,
+      "num": 168235,
+      "word": "Amber听到谢娜第一的反应",
+      "onboard_time": 1685687607,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268667,
       "num": 268667,
       "word": "小学生放学捡到特殊纸币报警",
@@ -1745,6 +1753,14 @@
       "onboard_time": 1685617466,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 266944,
+      "num": 212624,
+      "word": "互送手机壳 戒手机",
+      "onboard_time": 1685686886,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 265515,
@@ -1913,6 +1929,14 @@
       "onboard_time": 1685589206,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250671,
+      "num": 166156,
+      "word": "吴倩没有镜头",
+      "onboard_time": 1685689167,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 250152,
@@ -2089,14 +2113,6 @@
       "onboard_time": 1685624129,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 229973,
-      "num": 212624,
-      "word": "互送手机壳 戒手机",
-      "onboard_time": 1685686886,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 228227,
@@ -2321,6 +2337,14 @@
       "onboard_time": 1685547628,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207686,
+      "num": 164089,
+      "word": "肖战显眼包式停车",
+      "onboard_time": 1685689046,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 207317,
@@ -2579,6 +2603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187634,
+      "num": 164779,
+      "word": "浙江12岁高马尾男孩坐拥千万粉丝",
+      "onboard_time": 1685689228,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187061,
       "num": 187061,
       "word": "吴谢宇 三联",
@@ -2683,6 +2715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181306,
+      "num": 181306,
+      "word": "时代少年团或将拍剧",
+      "onboard_time": 1685684611,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 180310,
       "num": 180310,
       "word": "雷佳音时尚芭莎大片像屁崩了",
@@ -2713,6 +2753,14 @@
       "onboard_time": 1685631931,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 176102,
+      "num": 176102,
+      "word": "杭州外卖小哥3年还清35万外债",
+      "onboard_time": 1685688446,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172903,
@@ -2899,6 +2947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 159796,
+      "num": 159796,
+      "word": "吴世勋更新EXO拍摄现场照",
+      "onboard_time": 1685690067,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159173,
       "num": 159173,
       "word": "比亚迪",
@@ -2971,6 +3027,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 153038,
+      "num": 153038,
+      "word": "五月天因为余佳运不再当音乐节目评委",
+      "onboard_time": 1685689767,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152551,
       "num": 152551,
       "word": "儿童节礼物",
@@ -3017,6 +3081,14 @@
       "onboard_time": 1685546313,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 149611,
+      "num": 149611,
+      "word": "十个勤天",
+      "onboard_time": 1685687906,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 148757,
@@ -3089,6 +3161,14 @@
       "onboard_time": 1685533888,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 140829,
+      "num": 140829,
+      "word": "红楼梦舞剧",
+      "onboard_time": 1685689465,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 140498,
@@ -3257,14 +3337,6 @@
       "onboard_time": 1685592810,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 127935,
-      "num": 127935,
-      "word": "时代少年团或将拍剧",
-      "onboard_time": 1685684611,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 127402,
@@ -3451,20 +3523,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107453,
+      "num": 107453,
+      "word": "Ella二公第五",
+      "onboard_time": 1685687727,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106393,
       "num": 106393,
       "word": "货车起火加油站员工飞奔扑救",
       "onboard_time": 1685669425,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 106013,
-      "num": 106013,
-      "word": "Amber听到谢娜第一的反应",
-      "onboard_time": 1685687607,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 104308,
@@ -3497,6 +3569,14 @@
       "onboard_time": 1685681857,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99136,
+      "num": 135300,
+      "word": "他9年为农村老人拍10000张全家福",
+      "onboard_time": 1685689706,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97869,
@@ -3609,6 +3689,14 @@
       "onboard_time": 1685639059,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81440,
+      "num": 354654,
+      "word": "57岁北漂阿姨白天当保洁晚上做画家",
+      "onboard_time": 1685686469,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79551,
@@ -3833,14 +3921,6 @@
       "onboard_time": 1685566092,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 45439,
-      "num": 354654,
-      "word": "57岁北漂阿姨白天当保洁晚上做画家",
-      "onboard_time": 1685686469,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 45301,
