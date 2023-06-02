@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685674218925,
+  "endTime": 1685674727612,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1084162,
+      "num": 1084162,
+      "word": "为什么不能坐别人的热凳子",
+      "onboard_time": 1685672128,
+      "rank": 4,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 1081873,
       "num": 1081873,
       "word": "二三十了还觉得自己是个小孩正常吗",
@@ -345,14 +353,6 @@
       "onboard_time": 1685574199,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 900111,
-      "num": 900111,
-      "word": "为什么不能坐别人的热凳子",
-      "onboard_time": 1685672128,
-      "rank": 4,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 888042,
@@ -596,7 +596,7 @@
     },
     {
       "raw_hot": 564661,
-      "num": 327146,
+      "num": 352438,
       "word": "谢谢王源的站姐",
       "onboard_time": 1685667629,
       "rank": 10,
@@ -803,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 433813,
+      "num": 433813,
+      "word": "边伯贤金珉锡金钟大称SMTOWN说谎",
+      "onboard_time": 1685673807,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 430282,
       "num": 220355,
       "word": "江苏南通发生命案两人遇害",
@@ -860,7 +868,7 @@
     },
     {
       "raw_hot": 418662,
-      "num": 221001,
+      "num": 224764,
       "word": "情侣夏天不想牵手可以这样",
       "onboard_time": 1685672607,
       "rank": 20,
@@ -881,6 +889,14 @@
       "onboard_time": 1685608228,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 415739,
+      "num": 415739,
+      "word": "王一博外网生图状态",
+      "onboard_time": 1685672847,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 413525,
@@ -905,6 +921,14 @@
       "onboard_time": 1685621787,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 404400,
+      "num": 404400,
+      "word": "虞书欣妆造",
+      "onboard_time": 1685672786,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 401980,
@@ -1051,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353388,
+      "num": 353388,
+      "word": "原来高清的五月天长这样",
+      "onboard_time": 1685672968,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 350994,
       "num": 350994,
       "word": "百度贴吧回应女子婚纱照被盗孙吧",
@@ -1089,14 +1121,6 @@
       "onboard_time": 1685584646,
       "rank": 36,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 340289,
-      "num": 340289,
-      "word": "虞书欣妆造",
-      "onboard_time": 1685672786,
-      "rank": 6,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 339916,
@@ -1219,14 +1243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 314147,
-      "num": 220693,
-      "word": "王一博外网生图状态",
-      "onboard_time": 1685672847,
-      "rank": 21,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 313379,
       "num": 313379,
       "word": "SMTOWN说钱不重要",
@@ -1251,14 +1267,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 310851,
-      "num": 264765,
-      "word": "边伯贤金珉锡金钟大称SMTOWN说谎",
-      "onboard_time": 1685673807,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 308029,
       "num": 308029,
       "word": "护心热度",
@@ -1273,6 +1281,14 @@
       "onboard_time": 1685661321,
       "rank": 29,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 305550,
+      "num": 305550,
+      "word": "五月天武汉",
+      "onboard_time": 1685669425,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 302077,
@@ -1491,14 +1507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 270350,
-      "num": 264744,
-      "word": "原来高清的五月天长这样",
-      "onboard_time": 1685672968,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 268667,
       "num": 268667,
       "word": "小学生放学捡到特殊纸币报警",
@@ -1515,19 +1523,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 267134,
+      "num": 267134,
+      "word": "公诉收视率",
+      "onboard_time": 1685674226,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 265515,
       "num": 248382,
       "word": "TFBOYS十周年演唱会灯牌设计",
       "onboard_time": 1685616086,
       "rank": 24,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 264650,
-      "num": 264650,
-      "word": "五月天武汉",
-      "onboard_time": 1685669425,
-      "rank": 38,
       "category": "音乐"
     },
     {
@@ -1787,6 +1795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232922,
+      "num": 223519,
+      "word": "奥本海默定为R级",
+      "onboard_time": 1685669367,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 232863,
       "num": 232863,
       "word": "六一晚会",
@@ -1843,6 +1859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 226095,
+      "num": 226095,
+      "word": "约基奇太强了",
+      "onboard_time": 1685674407,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225903,
       "num": 225903,
       "word": "当有人说他从大厂出来belike",
@@ -1897,14 +1921,6 @@
       "onboard_time": 1685593231,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220264,
-      "num": 220264,
-      "word": "奥本海默定为R级",
-      "onboard_time": 1685669367,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 220157,
@@ -2235,6 +2251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189683,
+      "num": 189683,
+      "word": "开空调省电的办法",
+      "onboard_time": 1685670568,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189311,
       "num": 189311,
       "word": "秦意浓 唐若遥",
@@ -2339,20 +2363,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181743,
+      "num": 181743,
+      "word": "你为什么总是不跟爸爸妈妈讲话",
+      "onboard_time": 1685672907,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181375,
       "num": 181375,
       "word": "代号鸢",
       "onboard_time": 1685550029,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 180532,
-      "num": 180532,
-      "word": "开空调省电的办法",
-      "onboard_time": 1685670568,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 180310,
@@ -2412,7 +2436,7 @@
     },
     {
       "raw_hot": 171687,
-      "num": 171687,
+      "num": 177121,
       "word": "吉尼斯你别太离谱",
       "onboard_time": 1685671107,
       "rank": 28,
@@ -2452,7 +2476,7 @@
     },
     {
       "raw_hot": 166515,
-      "num": 166515,
+      "num": 177662,
       "word": "对这种玩笑永远不要笑",
       "onboard_time": 1685660781,
       "rank": 31,
@@ -2460,7 +2484,7 @@
     },
     {
       "raw_hot": 166155,
-      "num": 166155,
+      "num": 177494,
       "word": "哪些消费是智商税",
       "onboard_time": 1685668707,
       "rank": 29,
@@ -2524,7 +2548,7 @@
     },
     {
       "raw_hot": 159970,
-      "num": 159970,
+      "num": 176545,
       "word": "梦中的那片海制片人缅怀付宁导演",
       "onboard_time": 1685663425,
       "rank": 35,
@@ -2587,14 +2611,6 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 152559,
-      "num": 152559,
-      "word": "你为什么总是不跟爸爸妈妈讲话",
-      "onboard_time": 1685672907,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 152551,
       "num": 152551,
       "word": "儿童节礼物",
@@ -2617,6 +2633,14 @@
       "onboard_time": 1685617408,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150728,
+      "num": 178039,
+      "word": "陈睿回应B站停更潮争议",
+      "onboard_time": 1685673928,
+      "rank": 44,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 150454,
@@ -2811,6 +2835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128890,
+      "num": 177627,
+      "word": "江西4岁女童坠楼昏迷90天后苏醒",
+      "onboard_time": 1685674287,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128790,
       "num": 128790,
       "word": "掘金半场领先热火17分",
@@ -2849,6 +2881,14 @@
       "onboard_time": 1685637261,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120761,
+      "num": 177317,
+      "word": "蜘蛛侠",
+      "onboard_time": 1685673328,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 120187,
@@ -2939,8 +2979,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 109581,
-      "num": 109581,
+      "raw_hot": 110749,
+      "num": 177031,
       "word": "迎接神十五乘组回家",
       "onboard_time": 1685672128,
       "rank": 40,
@@ -2977,14 +3017,6 @@
       "onboard_time": 1685643554,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 103776,
-      "num": 103776,
-      "word": "蜘蛛侠",
-      "onboard_time": 1685673328,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 103499,
@@ -3051,14 +3083,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 92618,
-      "num": 100710,
-      "word": "陈睿回应B站停更潮争议",
-      "onboard_time": 1685673928,
-      "rank": 44,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 91252,
       "num": 81061,
       "word": "子时当归",
@@ -3089,6 +3113,14 @@
       "onboard_time": 1685575822,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85668,
+      "num": 176581,
+      "word": "45岁重庆大叔离世捐器官救5人",
+      "onboard_time": 1685674709,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83722,
@@ -3308,7 +3340,7 @@
     },
     {
       "raw_hot": 50514,
-      "num": 1059659,
+      "num": 1127162,
       "word": "这群幕后航天人对代码有着极致追求",
       "onboard_time": 1685633730,
       "rank": 2,
