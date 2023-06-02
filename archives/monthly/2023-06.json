@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685697384294,
+  "endTime": 1685698417397,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1835059,
+      "num": 1599805,
+      "word": "高校回应女博士毕业答辩争议",
+      "onboard_time": 1685691446,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1827953,
       "num": 1827953,
       "word": "明星谴责虐待动物者却遭曝光个人信息",
@@ -123,14 +131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1599805,
-      "num": 1599805,
-      "word": "高校回应女博士毕业答辩争议",
-      "onboard_time": 1685691446,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 1437497,
       "num": 1437497,
       "word": "百度网盘被苹果AppStore下架",
@@ -145,6 +145,14 @@
       "onboard_time": 1685598746,
       "rank": 13,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1430132,
+      "num": 1430132,
+      "word": "顾姓老师已调离华南理工",
+      "onboard_time": 1685696908,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1407080,
@@ -363,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1050365,
+      "num": 1050365,
+      "word": "黄晓明救了我的手机",
+      "onboard_time": 1685693187,
+      "rank": 38,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 1044269,
       "num": 940496,
       "word": "ChatGPT高三考试仅物理得零分",
@@ -387,20 +403,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 980818,
+      "num": 980818,
+      "word": "林志玲说是她跟Akira求婚的",
+      "onboard_time": 1685690966,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 977357,
       "num": 977357,
       "word": "肖战迪丽热巴童话里走出来的王子公主",
       "onboard_time": 1685594189,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 977312,
-      "num": 977312,
-      "word": "林志玲说是她跟Akira求婚的",
-      "onboard_time": 1685690966,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 963621,
@@ -457,14 +473,6 @@
       "onboard_time": 1685624848,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 873035,
-      "num": 873035,
-      "word": "黄晓明救了我的手机",
-      "onboard_time": 1685693187,
-      "rank": 38,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 855032,
@@ -723,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 592159,
+      "num": 592159,
+      "word": "中国邮政",
+      "onboard_time": 1685697148,
+      "rank": 27,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 586428,
       "num": 435169,
       "word": "王诗龄晒健身照",
@@ -915,14 +931,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 524091,
-      "num": 164287,
-      "word": "顾姓老师已调离华南理工",
-      "onboard_time": 1685696908,
-      "rank": 30,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 519751,
       "num": 519751,
       "word": "宋妍霏对王嘉尔的小动作",
@@ -1019,6 +1027,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 461882,
+      "num": 461882,
+      "word": "王栎鑫自驾上班被保安拦",
+      "onboard_time": 1685694510,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 457327,
       "num": 457327,
       "word": "约基奇太强了",
@@ -1044,7 +1060,7 @@
     },
     {
       "raw_hot": 445550,
-      "num": 367282,
+      "num": 434581,
       "word": "王诗龄说好久不见何炅",
       "onboard_time": 1685693370,
       "rank": 30,
@@ -1129,6 +1145,14 @@
       "onboard_time": 1685600907,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 422138,
+      "num": 422138,
+      "word": "内娱果然离不开85花",
+      "onboard_time": 1685696188,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 419918,
@@ -1275,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380809,
+      "num": 263323,
+      "word": "为什么反对男艺人过度撸铁",
+      "onboard_time": 1685694867,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 377405,
       "num": 377405,
       "word": "我慢慢开始情绪稳定",
@@ -1355,14 +1387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 356298,
-      "num": 356298,
-      "word": "王栎鑫自驾上班被保安拦",
-      "onboard_time": 1685694510,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 353500,
       "num": 353500,
       "word": "特朗普回应拜登又摔了",
@@ -1433,14 +1457,6 @@
       "onboard_time": 1685609487,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 339556,
-      "num": 263323,
-      "word": "为什么反对男艺人过度撸铁",
-      "onboard_time": 1685694867,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 338796,
@@ -1561,6 +1577,14 @@
       "onboard_time": 1685694748,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317490,
+      "num": 237428,
+      "word": "迪丽热巴解释形只影单",
+      "onboard_time": 1685697092,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 314350,
@@ -1691,6 +1715,14 @@
       "category": "体育,旅游"
     },
     {
+      "raw_hot": 297136,
+      "num": 297136,
+      "word": "王菲每一笔画都是直的",
+      "onboard_time": 1685697387,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297131,
       "num": 297131,
       "word": "妊娠终止手术一定要在孕14周内做",
@@ -1705,14 +1737,6 @@
       "onboard_time": 1685623407,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 294589,
-      "num": 294589,
-      "word": "内娱果然离不开85花",
-      "onboard_time": 1685696188,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 292871,
@@ -1793,6 +1817,14 @@
       "onboard_time": 1685687607,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 285053,
+      "num": 188072,
+      "word": "学术妲己 同组研究生",
+      "onboard_time": 1685697686,
+      "rank": 30,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 284219,
@@ -2251,6 +2283,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235723,
+      "num": 235723,
+      "word": "如果月入三万你愿意去送外卖吗",
+      "onboard_time": 1685696548,
+      "rank": 41,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 234914,
+      "num": 234914,
+      "word": "香港外卖小哥回应月入三万五",
+      "onboard_time": 1685697448,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233857,
+      "num": 233857,
+      "word": "鞠婧祎变美史",
+      "onboard_time": 1685697808,
+      "rank": 26,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 232922,
       "num": 258432,
       "word": "奥本海默定为R级",
@@ -2595,6 +2651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205399,
+      "num": 205399,
+      "word": "批判学术妲己更要讨伐学术纣王",
+      "onboard_time": 1685697267,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 204021,
       "num": 204021,
       "word": "司机倒车坠河他们一个个冲了过来",
@@ -2705,6 +2769,14 @@
       "onboard_time": 1685609846,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193617,
+      "num": 193617,
+      "word": "肖战语文课本同款手套",
+      "onboard_time": 1685695466,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 193536,
@@ -2819,14 +2891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187392,
-      "num": 160825,
-      "word": "迪丽热巴解释形只影单",
-      "onboard_time": 1685697092,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 187061,
       "num": 187061,
       "word": "吴谢宇 三联",
@@ -2908,7 +2972,7 @@
     },
     {
       "raw_hot": 182423,
-      "num": 160621,
+      "num": 164520,
       "word": "蚂蚁居然看不到人",
       "onboard_time": 1685695168,
       "rank": 32,
@@ -3043,14 +3107,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 170494,
-      "num": 170494,
-      "word": "中国邮政",
-      "onboard_time": 1685697148,
-      "rank": 27,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 169464,
       "num": 169464,
       "word": "肖战粉丝花式宣传梦中的那片海",
@@ -3081,14 +3137,6 @@
       "onboard_time": 1685587405,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167688,
-      "num": 167688,
-      "word": "肖战语文课本同款手套",
-      "onboard_time": 1685695466,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 166865,
@@ -3635,14 +3683,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 126055,
-      "num": 126055,
-      "word": "如果月入三万你愿意去送外卖吗",
-      "onboard_time": 1685696548,
-      "rank": 41,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 125205,
       "num": 125205,
       "word": "贾静雯仙品侧颜",
@@ -3665,6 +3705,14 @@
       "onboard_time": 1685680113,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 123345,
+      "num": 123345,
+      "word": "小伙自述被缅北电诈集团虐待",
+      "onboard_time": 1685697929,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121213,
@@ -3713,14 +3761,6 @@
       "onboard_time": 1685599887,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118387,
-      "num": 118387,
-      "word": "批判学术妲己更要讨伐学术纣王",
-      "onboard_time": 1685697267,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 117805,
@@ -3801,6 +3841,14 @@
       "onboard_time": 1685682631,
       "rank": 47,
       "category": "社会正能量,教育"
+    },
+    {
+      "raw_hot": 110808,
+      "num": 110808,
+      "word": "收费员多问一句救下一条命",
+      "onboard_time": 1685698349,
+      "rank": 44,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 110749,
@@ -4212,7 +4260,7 @@
     },
     {
       "raw_hot": 53122,
-      "num": 1014542,
+      "num": 1159719,
       "word": "长江金色航道百舸争流好壮美",
       "onboard_time": 1685694989,
       "rank": 2,
@@ -4257,6 +4305,14 @@
       "onboard_time": 1685566092,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 46429,
+      "num": 427694,
+      "word": "实习民警雨夜连救2名轻生者",
+      "onboard_time": 1685696486,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45301,
@@ -4361,14 +4417,6 @@
       "onboard_time": 1685559674,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 22971,
-      "num": 297963,
-      "word": "实习民警雨夜连救2名轻生者",
-      "onboard_time": 1685696486,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21272,
