@@ -1,6 +1,6 @@
 {
   "startTime": 1685722886907,
-  "endTime": 1685722886907,
+  "endTime": 1685723804552,
   "band_list": [
     {
       "raw_hot": 3670728,
@@ -11,16 +11,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2079575,
-      "num": 2079575,
+      "raw_hot": 2391937,
+      "num": 2391937,
       "word": "黄渤 贫困女孩",
       "onboard_time": 1685720731,
       "rank": 0,
       "category": "综艺"
     },
     {
-      "raw_hot": 1630557,
-      "num": 464125,
+      "raw_hot": 1677029,
+      "num": 667263,
       "word": "知情人辟谣被撞小学生父亲坠楼",
       "onboard_time": 1685721031,
       "rank": 10,
@@ -75,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 508432,
-      "num": 508432,
+      "raw_hot": 595876,
+      "num": 595876,
       "word": "赵丽颖回应被造谣与谢娜友情破裂",
       "onboard_time": 1685720071,
       "rank": 7,
@@ -107,7 +107,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 365958,
+      "raw_hot": 387087,
+      "num": 325856,
+      "word": "吴建豪淘汰赵丽颖",
+      "onboard_time": 1685720489,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 383202,
       "num": 323506,
       "word": "花花和花花同框",
       "onboard_time": 1685720670,
@@ -163,12 +171,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 322467,
-      "num": 322467,
-      "word": "吴建豪淘汰赵丽颖",
-      "onboard_time": 1685720489,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 324315,
+      "num": 324315,
+      "word": "张杰演唱会上的五口之家",
+      "onboard_time": 1685719953,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 314099,
@@ -179,12 +187,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 308653,
-      "num": 266104,
-      "word": "张杰演唱会上的五口之家",
-      "onboard_time": 1685719953,
-      "rank": 25,
-      "category": "音乐"
+      "raw_hot": 291066,
+      "num": 291066,
+      "word": "警方回应校内被撞身亡小学生母亲坠亡",
+      "onboard_time": 1685722770,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268546,
@@ -203,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247161,
+      "num": 247161,
+      "word": "2女孩穿婚纱买20份王源同款美食",
+      "onboard_time": 1685722109,
+      "rank": 31,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 246250,
       "num": 115496,
       "word": "学术妲己的危害",
@@ -219,8 +235,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222556,
-      "num": 222556,
+      "raw_hot": 234503,
+      "num": 234503,
+      "word": "原来举案齐眉是这么个举案齐眉",
+      "onboard_time": 1685720849,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 229544,
+      "num": 229544,
       "word": "黄国平博士论文的致谢",
       "onboard_time": 1685720252,
       "rank": 27,
@@ -235,12 +259,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210366,
-      "num": 210366,
-      "word": "原来举案齐眉是这么个举案齐眉",
-      "onboard_time": 1685720849,
-      "rank": 29,
-      "category": "幽默"
+      "raw_hot": 211489,
+      "num": 211489,
+      "word": "钱璐璐",
+      "onboard_time": 1685721869,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 204276,
@@ -249,14 +273,6 @@
       "onboard_time": 1685719652,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192980,
-      "num": 192980,
-      "word": "2女孩穿婚纱买20份王源同款美食",
-      "onboard_time": 1685722109,
-      "rank": 31,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 192160,
@@ -315,6 +331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 128454,
+      "num": 128454,
+      "word": "EXO成员未来活动计划",
+      "onboard_time": 1685723546,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122544,
       "num": 122544,
       "word": "张杰唱剑心爷青回",
@@ -329,22 +353,6 @@
       "onboard_time": 1685711130,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 115329,
-      "num": 122739,
-      "word": "警方回应校内被撞身亡小学生母亲坠亡",
-      "onboard_time": 1685722770,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114140,
-      "num": 114140,
-      "word": "钱璐璐",
-      "onboard_time": 1685721869,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 107616,
@@ -387,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 96811,
+      "num": 96811,
+      "word": "aespa和LESSERAFIM完全相反的食性",
+      "onboard_time": 1685712451,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85005,
       "num": 101982,
       "word": "骆歆",
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#设计建造大型邮轮靠的是强大国力#"
+    },
+    {
+      "word": "#直上九天问苍穹天宫圆梦绘新篇#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685722886907,
+  "endTime": 1685723804552,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2391937,
+      "num": 2391937,
+      "word": "黄渤 贫困女孩",
+      "onboard_time": 1685720731,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2336837,
       "num": 1298502,
       "word": "官方通报局长出轨女经理",
@@ -65,14 +73,6 @@
       "onboard_time": 1685686708,
       "rank": 31,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 2079575,
-      "num": 2079575,
-      "word": "黄渤 贫困女孩",
-      "onboard_time": 1685720731,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 2078971,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1677029,
+      "num": 667263,
+      "word": "知情人辟谣被撞小学生父亲坠楼",
+      "onboard_time": 1685721031,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1663297,
       "num": 1663297,
       "word": "肖战台词",
@@ -184,14 +192,6 @@
       "word": "被骗到缅甸6小伙已被解救",
       "onboard_time": 1685669608,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1630557,
-      "num": 464125,
-      "word": "知情人辟谣被撞小学生父亲坠楼",
-      "onboard_time": 1685721031,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -883,6 +883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 595876,
+      "num": 595876,
+      "word": "赵丽颖回应被造谣与谢娜友情破裂",
+      "onboard_time": 1685720071,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 593868,
       "num": 593868,
       "word": "产妇羊水栓塞医生集体赶来抢救",
@@ -1089,14 +1097,6 @@
       "onboard_time": 1685545531,
       "rank": 8,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 508432,
-      "num": 508432,
-      "word": "赵丽颖回应被造谣与谢娜友情破裂",
-      "onboard_time": 1685720071,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 502975,
@@ -1563,6 +1563,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 387087,
+      "num": 325856,
+      "word": "吴建豪淘汰赵丽颖",
+      "onboard_time": 1685720489,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 383202,
+      "num": 323506,
+      "word": "花花和花花同框",
+      "onboard_time": 1685720670,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380809,
       "num": 303265,
       "word": "为什么反对男艺人过度撸铁",
@@ -1625,14 +1641,6 @@
       "onboard_time": 1685593529,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 365958,
-      "num": 323506,
-      "word": "花花和花花同框",
-      "onboard_time": 1685720670,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 365142,
@@ -1899,12 +1907,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 322467,
-      "num": 322467,
-      "word": "吴建豪淘汰赵丽颖",
-      "onboard_time": 1685720489,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 324315,
+      "num": 324315,
+      "word": "张杰演唱会上的五口之家",
+      "onboard_time": 1685719953,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 321734,
@@ -1985,14 +1993,6 @@
       "onboard_time": 1685704832,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 308653,
-      "num": 266104,
-      "word": "张杰演唱会上的五口之家",
-      "onboard_time": 1685719953,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 308029,
@@ -2145,6 +2145,14 @@
       "onboard_time": 1685683951,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291066,
+      "num": 291066,
+      "word": "警方回应校内被撞身亡小学生母亲坠亡",
+      "onboard_time": 1685722770,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 289939,
@@ -2635,6 +2643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247161,
+      "num": 247161,
+      "word": "2女孩穿婚纱买20份王源同款美食",
+      "onboard_time": 1685722109,
+      "rank": 31,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 246412,
       "num": 246412,
       "word": "cbx",
@@ -2787,6 +2803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234503,
+      "num": 234503,
+      "word": "原来举案齐眉是这么个举案齐眉",
+      "onboard_time": 1685720849,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232922,
       "num": 258432,
       "word": "奥本海默定为R级",
@@ -2841,6 +2865,14 @@
       "onboard_time": 1685624129,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 229544,
+      "num": 229544,
+      "word": "黄国平博士论文的致谢",
+      "onboard_time": 1685720252,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228654,
@@ -2921,14 +2953,6 @@
       "onboard_time": 1685675069,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 222556,
-      "num": 222556,
-      "word": "黄国平博士论文的致谢",
-      "onboard_time": 1685720252,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 221535,
@@ -3075,6 +3099,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 211489,
+      "num": 211489,
+      "word": "钱璐璐",
+      "onboard_time": 1685721869,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 211103,
       "num": 211103,
       "word": "白敬亭给自己P了个眼镜",
@@ -3097,14 +3129,6 @@
       "onboard_time": 1685584227,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 210366,
-      "num": 210366,
-      "word": "原来举案齐眉是这么个举案齐眉",
-      "onboard_time": 1685720849,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 210047,
@@ -3353,14 +3377,6 @@
       "onboard_time": 1685596827,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192980,
-      "num": 192980,
-      "word": "2女孩穿婚纱买20份王源同款美食",
-      "onboard_time": 1685722109,
-      "rank": 31,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 192961,
@@ -4395,6 +4411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 128454,
+      "num": 128454,
+      "word": "EXO成员未来活动计划",
+      "onboard_time": 1685723546,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127402,
       "num": 351697,
       "word": "4岁男童路过纪念碑跑着上前敬礼",
@@ -4531,14 +4555,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 115329,
-      "num": 122739,
-      "word": "警方回应校内被撞身亡小学生母亲坠亡",
-      "onboard_time": 1685722770,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115309,
       "num": 115309,
       "word": "男生宿舍拍毕业转场视频破防了",
@@ -4561,14 +4577,6 @@
       "onboard_time": 1685680113,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114140,
-      "num": 114140,
-      "word": "钱璐璐",
-      "onboard_time": 1685721869,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 112916,
