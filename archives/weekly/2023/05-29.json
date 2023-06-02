@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685710538536,
+  "endTime": 1685712171987,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -169,6 +169,14 @@
       "onboard_time": 1685635046,
       "rank": 0,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2284690,
+      "num": 1018531,
+      "word": "我国一孩生育率跌至0.5",
+      "onboard_time": 1685704832,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2278172,
@@ -424,14 +432,6 @@
       "word": "演唱会门票秒罄黄牛党捞钱术升级",
       "onboard_time": 1685417609,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1722234,
-      "num": 482500,
-      "word": "我国一孩生育率跌至0.5",
-      "onboard_time": 1685704832,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -827,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1312969,
+      "num": 1599420,
+      "word": "张雪峰公司将实行上四休三",
+      "onboard_time": 1685706691,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1311710,
       "num": 1311710,
       "word": "20岁小伙月入6000背百万房贷",
@@ -857,6 +865,14 @@
       "onboard_time": 1685682035,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1303465,
+      "num": 1017394,
+      "word": "吴所谓得知吴京去开家长会的反应",
+      "onboard_time": 1685701350,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 1301269,
@@ -1123,14 +1139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1153617,
-      "num": 397307,
-      "word": "吴所谓得知吴京去开家长会的反应",
-      "onboard_time": 1685701350,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1148618,
       "num": 1148618,
       "word": "一杯奶茶钱可以买这么多东西",
@@ -1217,6 +1225,14 @@
       "onboard_time": 1685597789,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1092590,
+      "num": 1092590,
+      "word": "今晚的观众好忙",
+      "onboard_time": 1685710292,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 1081873,
@@ -1395,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1015764,
+      "num": 1015764,
+      "word": "韩国23岁女子杀害陌生同龄女子",
+      "onboard_time": 1685705015,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1012181,
       "num": 499911,
       "word": "马雪阳谭咏雯公布恋情",
@@ -1496,14 +1520,6 @@
       "word": "专家称不排除二阳后还会有三阳",
       "onboard_time": 1685630192,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 934984,
-      "num": 1599420,
-      "word": "张雪峰公司将实行上四休三",
-      "onboard_time": 1685706691,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -1617,6 +1633,14 @@
       "onboard_time": 1685531307,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 865750,
+      "num": 865750,
+      "word": "黄子韬说我们不需要什么澄清",
+      "onboard_time": 1685710112,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 862330,
@@ -1929,14 +1953,6 @@
       "onboard_time": 1685370152,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 700325,
-      "num": 700325,
-      "word": "韩国23岁女子杀害陌生同龄女子",
-      "onboard_time": 1685705015,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 698316,
@@ -3627,6 +3643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 417073,
+      "num": 417073,
+      "word": "网友花8万拍下椰树直播间蹦迪票",
+      "onboard_time": 1685706334,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417022,
       "num": 385502,
       "word": "iPhone16Pro机型为6.3和6.9英寸",
@@ -4347,6 +4371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348769,
+      "num": 348769,
+      "word": "年龄算什么 永远不会太晚",
+      "onboard_time": 1685709272,
+      "rank": 44,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 347822,
       "num": 1229813,
       "word": "收费员多问一句救下一条命",
@@ -4465,14 +4497,6 @@
       "onboard_time": 1685457815,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 340536,
-      "num": 340536,
-      "word": "网友花8万拍下椰树直播间蹦迪票",
-      "onboard_time": 1685706334,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 340307,
@@ -5009,14 +5033,6 @@
       "onboard_time": 1685435910,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 311981,
-      "num": 166437,
-      "word": "今晚的观众好忙",
-      "onboard_time": 1685710292,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 311626,
@@ -6011,6 +6027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264035,
+      "num": 264035,
+      "word": "张远演唱会",
+      "onboard_time": 1685710773,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 263948,
       "num": 263948,
       "word": "朱杨柱",
@@ -6496,6 +6520,14 @@
       "word": "月入多少才会考虑买房",
       "onboard_time": 1685432669,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246911,
+      "num": 246911,
+      "word": "学术妲己的危害",
+      "onboard_time": 1685708493,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -7315,6 +7347,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 221759,
+      "num": 221759,
+      "word": "鞠婧祎韩式半永久",
+      "onboard_time": 1685711130,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221655,
       "num": 207741,
       "word": "小S二女儿练普拉提",
@@ -7569,14 +7609,6 @@
       "onboard_time": 1685628752,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 214781,
-      "num": 166286,
-      "word": "年龄算什么 永远不会太晚",
-      "onboard_time": 1685709272,
-      "rank": 44,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 214519,
@@ -8025,6 +8057,14 @@
       "onboard_time": 1685429969,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 203652,
+      "num": 203652,
+      "word": "肖春生贺红玲好嗑",
+      "onboard_time": 1685711130,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 203215,
@@ -9131,6 +9171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180231,
+      "num": 166224,
+      "word": "爷爷去世前发给我的",
+      "onboard_time": 1685710010,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180084,
       "num": 180084,
       "word": "快播公司破产注销",
@@ -9249,14 +9297,6 @@
       "onboard_time": 1685454336,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173716,
-      "num": 173716,
-      "word": "黄子韬说我们不需要什么澄清",
-      "onboard_time": 1685710112,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 173536,
@@ -9427,14 +9467,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 169450,
-      "num": 166224,
-      "word": "爷爷去世前发给我的",
-      "onboard_time": 1685710010,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 169394,
       "num": 150300,
       "word": "陈漫 芭莎封面",
@@ -9569,14 +9601,6 @@
       "onboard_time": 1685318004,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 166697,
-      "num": 166697,
-      "word": "学术妲己的危害",
-      "onboard_time": 1685708493,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166625,
@@ -10419,6 +10443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140531,
+      "num": 140531,
+      "word": "国安",
+      "onboard_time": 1685710172,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140498,
       "num": 140498,
       "word": "影视剧六一海报",
@@ -10523,14 +10555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 135514,
-      "num": 135514,
-      "word": "国安",
-      "onboard_time": 1685710172,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 135511,
       "num": 135511,
       "word": "杨紫出发长春路透",
@@ -10569,6 +10593,14 @@
       "onboard_time": 1685605588,
       "rank": 34,
       "category": "科技"
+    },
+    {
+      "raw_hot": 134769,
+      "num": 134769,
+      "word": "骆歆",
+      "onboard_time": 1685711372,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 134694,
@@ -11075,6 +11107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120315,
+      "num": 120315,
+      "word": "水哥变帅的原因找到了",
+      "onboard_time": 1685711554,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 120187,
       "num": 120187,
       "word": "3岁三胞胎姐妹解锁派出所综窗初体验",
@@ -11233,6 +11273,14 @@
       "onboard_time": 1685680113,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115197,
+      "num": 115197,
+      "word": "赵丽颖躲藏有一手",
+      "onboard_time": 1685711912,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 115117,
@@ -11529,6 +11577,14 @@
       "onboard_time": 1685524529,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103404,
+      "num": 103404,
+      "word": "多想象一下自己的40岁",
+      "onboard_time": 1685712152,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 103158,
@@ -12243,6 +12299,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 53916,
+      "num": 260165,
+      "word": "大二女生连续6年帮残疾父亲爬楼送货",
+      "onboard_time": 1685710832,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53746,
       "num": 53746,
       "word": "2023高考",
@@ -12329,6 +12393,14 @@
       "onboard_time": 1685381238,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48683,
+      "num": 1020726,
+      "word": "无人机看长江金色航道美如油画",
+      "onboard_time": 1685710832,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47994,

@@ -1,6 +1,6 @@
 {
   "startTime": 1685636689541,
-  "endTime": 1685710538536,
+  "endTime": 1685712171987,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -19,6 +19,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2284690,
+      "num": 1018531,
+      "word": "我国一孩生育率跌至0.5",
+      "onboard_time": 1685704832,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2123863,
       "num": 981146,
       "word": "学校正核查学术妲己事件",
@@ -33,14 +41,6 @@
       "onboard_time": 1685691446,
       "rank": 9,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1722234,
-      "num": 482500,
-      "word": "我国一孩生育率跌至0.5",
-      "onboard_time": 1685704832,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1643206,
@@ -91,12 +91,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1312969,
+      "num": 1599420,
+      "word": "张雪峰公司将实行上四休三",
+      "onboard_time": 1685706691,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1308571,
       "num": 1308571,
       "word": "夫妻入职300家公司骗工资60万",
       "onboard_time": 1685682035,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1303465,
+      "num": 1017394,
+      "word": "吴所谓得知吴京去开家长会的反应",
+      "onboard_time": 1685701350,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 1300769,
@@ -163,12 +179,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1153617,
-      "num": 397307,
-      "word": "吴所谓得知吴京去开家长会的反应",
-      "onboard_time": 1685701350,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 1092590,
+      "num": 1092590,
+      "word": "今晚的观众好忙",
+      "onboard_time": 1685710292,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 1050365,
@@ -203,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1015764,
+      "num": 1015764,
+      "word": "韩国23岁女子杀害陌生同龄女子",
+      "onboard_time": 1685705015,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 963621,
       "num": 323171,
       "word": "张宝儿官宣怀孕",
@@ -219,12 +243,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 934984,
-      "num": 1599420,
-      "word": "张雪峰公司将实行上四休三",
-      "onboard_time": 1685706691,
-      "rank": 0,
-      "category": "社会新闻"
+      "raw_hot": 865750,
+      "num": 865750,
+      "word": "黄子韬说我们不需要什么澄清",
+      "onboard_time": 1685710112,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 837359,
@@ -273,14 +297,6 @@
       "onboard_time": 1685669425,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 700325,
-      "num": 700325,
-      "word": "韩国23岁女子杀害陌生同龄女子",
-      "onboard_time": 1685705015,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 696136,
@@ -619,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 417073,
+      "num": 417073,
+      "word": "网友花8万拍下椰树直播间蹦迪票",
+      "onboard_time": 1685706334,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 404400,
       "num": 404400,
       "word": "虞书欣妆造",
@@ -707,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348769,
+      "num": 348769,
+      "word": "年龄算什么 永远不会太晚",
+      "onboard_time": 1685709272,
+      "rank": 44,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 347822,
       "num": 1229813,
       "word": "收费员多问一句救下一条命",
@@ -721,14 +753,6 @@
       "onboard_time": 1685697092,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 340536,
-      "num": 340536,
-      "word": "网友花8万拍下椰树直播间蹦迪票",
-      "onboard_time": 1685706334,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 340307,
@@ -793,14 +817,6 @@
       "onboard_time": 1685684191,
       "rank": 15,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 311981,
-      "num": 166437,
-      "word": "今晚的观众好忙",
-      "onboard_time": 1685710292,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 306578,
@@ -963,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264035,
+      "num": 264035,
+      "word": "张远演唱会",
+      "onboard_time": 1685710773,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 263231,
       "num": 263231,
       "word": "Jennie小松菜奈热聊",
@@ -1057,6 +1081,14 @@
       "onboard_time": 1685696548,
       "rank": 41,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 246911,
+      "num": 246911,
+      "word": "学术妲己的危害",
+      "onboard_time": 1685708493,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238102,
@@ -1155,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221759,
+      "num": 221759,
+      "word": "鞠婧祎韩式半永久",
+      "onboard_time": 1685711130,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221067,
       "num": 221067,
       "word": "热火vs掘金",
@@ -1193,14 +1233,6 @@
       "onboard_time": 1685697267,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 214781,
-      "num": 166286,
-      "word": "年龄算什么 永远不会太晚",
-      "onboard_time": 1685709272,
-      "rank": 44,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 214519,
@@ -1249,6 +1281,14 @@
       "onboard_time": 1685667149,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203652,
+      "num": 203652,
+      "word": "肖春生贺红玲好嗑",
+      "onboard_time": 1685711130,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 203647,
@@ -1443,6 +1483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 180231,
+      "num": 166224,
+      "word": "爷爷去世前发给我的",
+      "onboard_time": 1685710010,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 178936,
       "num": 178936,
       "word": "铁路回应老人高铁上用菜刀削苹果",
@@ -1465,14 +1513,6 @@
       "onboard_time": 1685693127,
       "rank": 34,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 173716,
-      "num": 173716,
-      "word": "黄子韬说我们不需要什么澄清",
-      "onboard_time": 1685710112,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 173383,
@@ -1523,27 +1563,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 169450,
-      "num": 166224,
-      "word": "爷爷去世前发给我的",
-      "onboard_time": 1685710010,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 169057,
       "num": 169057,
       "word": "人生过百的秘密或在肠道细菌",
       "onboard_time": 1685692649,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166697,
-      "num": 166697,
-      "word": "学术妲己的危害",
-      "onboard_time": 1685708493,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1787,6 +1811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140531,
+      "num": 140531,
+      "word": "国安",
+      "onboard_time": 1685710172,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138204,
       "num": 138204,
       "word": "李念官宣生三胎",
@@ -1801,14 +1833,6 @@
       "onboard_time": 1685678427,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135514,
-      "num": 135514,
-      "word": "国安",
-      "onboard_time": 1685710172,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 135511,
@@ -1833,6 +1857,14 @@
       "onboard_time": 1685685868,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134769,
+      "num": 134769,
+      "word": "骆歆",
+      "onboard_time": 1685711372,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 132341,
@@ -1955,6 +1987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120315,
+      "num": 120315,
+      "word": "水哥变帅的原因找到了",
+      "onboard_time": 1685711554,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 119915,
       "num": 119915,
       "word": "你认为猥亵儿童罪应该判几年",
@@ -2009,6 +2049,14 @@
       "onboard_time": 1685680113,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115197,
+      "num": 115197,
+      "word": "赵丽颖躲藏有一手",
+      "onboard_time": 1685711912,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 112400,
@@ -2137,6 +2185,14 @@
       "onboard_time": 1685643554,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 103404,
+      "num": 103404,
+      "word": "多想象一下自己的40岁",
+      "onboard_time": 1685712152,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 99389,
@@ -2307,6 +2363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 53916,
+      "num": 260165,
+      "word": "大二女生连续6年帮残疾父亲爬楼送货",
+      "onboard_time": 1685710832,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53122,
       "num": 1239034,
       "word": "长江金色航道百舸争流好壮美",
@@ -2343,6 +2407,14 @@
       "num": 1216939,
       "word": "这群幕后航天人对代码有着极致追求",
       "onboard_time": 1685633730,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48683,
+      "num": 1020726,
+      "word": "无人机看长江金色航道美如油画",
+      "onboard_time": 1685710832,
       "rank": 2,
       "category": "社会新闻"
     },
