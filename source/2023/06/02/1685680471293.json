@@ -1,0 +1,410 @@
+{
+  "runTime": 1685680471293,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1275600,
+        "num": 1275600,
+        "word": "跑步的多巴胺仅次于谈恋爱",
+        "onboard_time": 1685664568,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1102039,
+        "num": 1102039,
+        "word": "被骗到缅甸6小伙已被解救",
+        "onboard_time": 1685669608,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137066,
+        "num": 1037952,
+        "word": "距2023高考还有5天",
+        "onboard_time": 1685678427,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1002323,
+        "num": 1002323,
+        "word": "蔡康永把林志玲问哭",
+        "onboard_time": 1685675128,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 544763,
+        "num": 544763,
+        "word": "早知道烂厂里了",
+        "onboard_time": 1685632591,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 537789,
+        "num": 537789,
+        "word": "鞠婧祎反手一个大比兜",
+        "onboard_time": 1685674767,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 513104,
+        "num": 513104,
+        "word": "王一博外网生图状态",
+        "onboard_time": 1685672847,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 452986,
+        "num": 452986,
+        "word": "24岁研究生生日当天救了一个人",
+        "onboard_time": 1685676267,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450398,
+        "num": 450398,
+        "word": "边伯贤金珉锡金钟大称SMTOWN说谎",
+        "onboard_time": 1685673807,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441952,
+        "num": 441952,
+        "word": "江西4岁女童坠楼昏迷90天后苏醒",
+        "onboard_time": 1685674287,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602153,
+        "num": 440042,
+        "word": "程晓玥产后首晒全家福",
+        "onboard_time": 1685678547,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435806,
+        "num": 435806,
+        "word": "原来高清的五月天长这样",
+        "onboard_time": 1685672968,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 405959,
+        "num": 405959,
+        "word": "公诉收视率",
+        "onboard_time": 1685674226,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 378174,
+        "num": 378174,
+        "word": "千万不要觉得成绩已经定型了",
+        "onboard_time": 1685664687,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 67830,
+        "num": 350121,
+        "word": "4岁男童路过纪念碑跑着上前敬礼",
+        "onboard_time": 1685678427,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338983,
+        "num": 338983,
+        "word": "多次感染对身体的危害有多大",
+        "onboard_time": 1685677468,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306354,
+        "num": 306354,
+        "word": "谢谢王源的站姐",
+        "onboard_time": 1685667629,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 299414,
+        "num": 299414,
+        "word": "约基奇太强了",
+        "onboard_time": 1685674407,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291047,
+        "num": 291047,
+        "word": "五月天演唱会为何一票难求",
+        "onboard_time": 1685663244,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 266718,
+        "num": 266718,
+        "word": "五月天武汉",
+        "onboard_time": 1685669425,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 666494,
+        "num": 266026,
+        "word": "为什么不能坐别人的热凳子",
+        "onboard_time": 1685672128,
+        "rank": 20,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 431141,
+        "num": 264475,
+        "word": "嵯峨皮肤",
+        "onboard_time": 1685679270,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 324465,
+        "num": 262133,
+        "word": "景甜张凌赫四海重明官宣",
+        "onboard_time": 1685675069,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272818,
+        "num": 261522,
+        "word": "情侣夏天不想牵手可以这样",
+        "onboard_time": 1685672607,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260146,
+        "num": 260146,
+        "word": "陈睿回应B站停更潮争议",
+        "onboard_time": 1685673928,
+        "rank": 24,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 251000,
+        "num": 251000,
+        "word": "奔跑吧",
+        "onboard_time": 1685676746,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243578,
+        "num": 243578,
+        "word": "春楠拍的宋茜",
+        "onboard_time": 1685678728,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239142,
+        "num": 239142,
+        "word": "谢娜二公第一",
+        "onboard_time": 1685680296,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235339,
+        "num": 235339,
+        "word": "学生网购小石头商家发来7斤大石头",
+        "onboard_time": 1685675128,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225487,
+        "num": 225487,
+        "word": "上海电影节",
+        "onboard_time": 1685679270,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201485,
+        "num": 225252,
+        "word": "NBA总决赛",
+        "onboard_time": 1685666971,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181708,
+        "num": 224893,
+        "word": "江苏南通发生命案两人遇害",
+        "onboard_time": 1685662523,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178991,
+        "num": 224194,
+        "word": "虞书欣妆造",
+        "onboard_time": 1685672786,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172076,
+        "num": 223333,
+        "word": "45岁重庆大叔离世捐器官救5人",
+        "onboard_time": 1685674709,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168711,
+        "num": 222734,
+        "word": "王源我有一天来鸟巢",
+        "onboard_time": 1685670926,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167155,
+        "num": 222538,
+        "word": "特朗普回应拜登又摔了",
+        "onboard_time": 1685679209,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 163356,
+        "num": 221903,
+        "word": "奥本海默定为R级",
+        "onboard_time": 1685669367,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145788,
+        "num": 221305,
+        "word": "赵丽颖算不算天赋型演员",
+        "onboard_time": 1685662943,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144424,
+        "num": 220572,
+        "word": "肖战肖春生好大一滴泪",
+        "onboard_time": 1685668827,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128253,
+        "num": 220311,
+        "word": "你为什么总是不跟爸爸妈妈讲话",
+        "onboard_time": 1685672907,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138045,
+        "num": 219435,
+        "word": "迪丽热巴为后援会十周年送祝福",
+        "onboard_time": 1685667990,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123495,
+        "num": 219270,
+        "word": "哪些消费是智商税",
+        "onboard_time": 1685668707,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117732,
+        "num": 218316,
+        "word": "蜘蛛侠",
+        "onboard_time": 1685673328,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116491,
+        "num": 217807,
+        "word": "江苏南通",
+        "onboard_time": 1685666070,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115692,
+        "num": 217164,
+        "word": "五月天深圳",
+        "onboard_time": 1685680113,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115200,
+        "num": 216769,
+        "word": "男孩演完节目一句话让妈妈泪奔",
+        "onboard_time": 1685680113,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107151,
+        "num": 216336,
+        "word": "专家称不排除二阳后还会有三阳",
+        "onboard_time": 1685630192,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103277,
+        "num": 215682,
+        "word": "我其实是一只水母 装成人的模样社交",
+        "onboard_time": 1685660781,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97981,
+        "num": 214869,
+        "word": "开空调省电的办法",
+        "onboard_time": 1685670568,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92713,
+        "num": 214607,
+        "word": "练车两分钟就疲劳驾驶了",
+        "onboard_time": 1685663666,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#少年志#"
+    }
+  }
+}
