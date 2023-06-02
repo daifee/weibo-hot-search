@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685674727612,
+  "endTime": 1685675880490,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -499,6 +499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1559666,
+      "num": 1559666,
+      "word": "被骗到缅甸6小伙已被解救",
+      "onboard_time": 1685669608,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1558621,
       "num": 1558621,
       "word": "上班穿衣服羞耻症",
@@ -635,14 +643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1420062,
-      "num": 1420062,
-      "word": "被骗到缅甸6小伙已被解救",
-      "onboard_time": 1685669608,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1407080,
       "num": 1407080,
       "word": "跑步的多巴胺仅次于谈恋爱",
@@ -689,6 +689,14 @@
       "onboard_time": 1685286213,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1362230,
+      "num": 1362230,
+      "word": "为什么不能坐别人的热凳子",
+      "onboard_time": 1685672128,
+      "rank": 4,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 1360926,
@@ -1089,14 +1097,6 @@
       "onboard_time": 1685597789,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1084162,
-      "num": 1084162,
-      "word": "为什么不能坐别人的热凳子",
-      "onboard_time": 1685672128,
-      "rank": 4,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 1081873,
@@ -1683,6 +1683,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 710394,
+      "num": 710394,
+      "word": "五月天武汉",
+      "onboard_time": 1685669425,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 709846,
       "num": 709846,
       "word": "迪丽热巴 小心骗子听到没",
@@ -2187,6 +2195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 584444,
+      "num": 584444,
+      "word": "边伯贤金珉锡金钟大称SMTOWN说谎",
+      "onboard_time": 1685673807,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 582791,
       "num": 566186,
       "word": "你管周也这张脸叫普普通通",
@@ -2265,6 +2281,14 @@
       "onboard_time": 1685667629,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 563400,
+      "num": 563400,
+      "word": "王一博外网生图状态",
+      "onboard_time": 1685672847,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 562261,
@@ -2393,6 +2417,14 @@
       "onboard_time": 1685362948,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 544545,
+      "num": 544545,
+      "word": "五月天演唱会为何一票难求",
+      "onboard_time": 1685663244,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 544025,
@@ -2915,6 +2947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 456192,
+      "num": 456192,
+      "word": "公诉收视率",
+      "onboard_time": 1685674226,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 451005,
       "num": 451005,
       "word": "知道的以为你是追姑娘",
@@ -2945,6 +2985,14 @@
       "onboard_time": 1685315299,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 444759,
+      "num": 444759,
+      "word": "鞠婧祎反手一个大比兜",
+      "onboard_time": 1685674767,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 442745,
@@ -2995,12 +3043,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 433813,
-      "num": 433813,
-      "word": "边伯贤金珉锡金钟大称SMTOWN说谎",
-      "onboard_time": 1685673807,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 431375,
+      "num": 431375,
+      "word": "约基奇太强了",
+      "onboard_time": 1685674407,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 431166,
@@ -3188,7 +3236,7 @@
     },
     {
       "raw_hot": 418662,
-      "num": 224764,
+      "num": 228067,
       "word": "情侣夏天不想牵手可以这样",
       "onboard_time": 1685672607,
       "rank": 20,
@@ -3241,14 +3289,6 @@
       "onboard_time": 1685421696,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 415739,
-      "num": 415739,
-      "word": "王一博外网生图状态",
-      "onboard_time": 1685672847,
-      "rank": 21,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 414791,
@@ -3563,6 +3603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 384197,
+      "num": 384197,
+      "word": "原来高清的五月天长这样",
+      "onboard_time": 1685672968,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 383369,
       "num": 383369,
       "word": "MTG 清清",
@@ -3875,14 +3923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 353388,
-      "num": 353388,
-      "word": "原来高清的五月天长这样",
-      "onboard_time": 1685672968,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 352551,
       "num": 352551,
       "word": "光与夜之恋",
@@ -4097,6 +4137,14 @@
       "onboard_time": 1685528668,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 335519,
+      "num": 335519,
+      "word": "江西4岁女童坠楼昏迷90天后苏醒",
+      "onboard_time": 1685674287,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 334300,
@@ -4595,14 +4643,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 305550,
-      "num": 305550,
-      "word": "五月天武汉",
-      "onboard_time": 1685669425,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 305320,
       "num": 305320,
       "word": "河南一90后干部涉嫌严重违法被查",
@@ -4747,6 +4787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294919,
+      "num": 294919,
+      "word": "蔡康永把林志玲问哭",
+      "onboard_time": 1685675128,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294719,
       "num": 220243,
       "word": "唐嫣又穿的公主裙",
@@ -4777,14 +4825,6 @@
       "onboard_time": 1685326408,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 293321,
-      "num": 293321,
-      "word": "五月天演唱会为何一票难求",
-      "onboard_time": 1685663244,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 292871,
@@ -5361,14 +5401,6 @@
       "onboard_time": 1685324966,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 267134,
-      "num": 267134,
-      "word": "公诉收视率",
-      "onboard_time": 1685674226,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 266164,
@@ -6363,6 +6395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 229403,
+      "num": 227457,
+      "word": "景甜张凌赫四海重明官宣",
+      "onboard_time": 1685675069,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228236,
       "num": 168890,
       "word": "护心",
@@ -6435,12 +6475,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 226095,
-      "num": 226095,
-      "word": "约基奇太强了",
-      "onboard_time": 1685674407,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 226225,
+      "num": 226225,
+      "word": "陈睿回应B站停更潮争议",
+      "onboard_time": 1685673928,
+      "rank": 44,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 225923,
@@ -6553,6 +6593,14 @@
       "onboard_time": 1685349509,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 224075,
+      "num": 224075,
+      "word": "掘金总决赛开门红",
+      "onboard_time": 1685675069,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 223412,
@@ -6836,11 +6884,19 @@
     },
     {
       "raw_hot": 215032,
-      "num": 194582,
+      "num": 208010,
       "word": "钟汉良儿童节请团队看五月天",
       "onboard_time": 1685628752,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 214604,
+      "num": 214604,
+      "word": "学生网购小石头商家发来7斤大石头",
+      "onboard_time": 1685675128,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213377,
@@ -7092,7 +7148,7 @@
     },
     {
       "raw_hot": 206740,
-      "num": 189751,
+      "num": 192520,
       "word": "如何看待不雅聊天公职人员被免职",
       "onboard_time": 1685668768,
       "rank": 26,
@@ -7913,6 +7969,14 @@
       "onboard_time": 1685364149,
       "rank": 2,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 189928,
+      "num": 189928,
+      "word": "45岁重庆大叔离世捐器官救5人",
+      "onboard_time": 1685674709,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189683,
@@ -9131,14 +9195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150728,
-      "num": 178039,
-      "word": "陈睿回应B站停更潮争议",
-      "onboard_time": 1685673928,
-      "rank": 44,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 150717,
       "num": 126768,
       "word": "荣耀90价格",
@@ -9547,6 +9603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132341,
+      "num": 152195,
+      "word": "周迅livehouse与小朋友同台演唱",
+      "onboard_time": 1685674888,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 132306,
       "num": 132306,
       "word": "手机屏幕为什么越做越大",
@@ -9585,6 +9649,14 @@
       "onboard_time": 1685523090,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131400,
+      "num": 152131,
+      "word": "被学校抓住的话就一起跑吧",
+      "onboard_time": 1685675548,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 131187,
@@ -9673,14 +9745,6 @@
       "onboard_time": 1685405669,
       "rank": 29,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 128890,
-      "num": 177627,
-      "word": "江西4岁女童坠楼昏迷90天后苏醒",
-      "onboard_time": 1685674287,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 128790,
@@ -10507,14 +10571,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 85668,
-      "num": 176581,
-      "word": "45岁重庆大叔离世捐器官救5人",
-      "onboard_time": 1685674709,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 85304,
       "num": 133904,
       "word": "李盈莹全场最高26分",
@@ -10988,7 +11044,7 @@
     },
     {
       "raw_hot": 50514,
-      "num": 1127162,
+      "num": 1216939,
       "word": "这群幕后航天人对代码有着极致追求",
       "onboard_time": 1685633730,
       "rank": 2,
