@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685712816386,
+  "endTime": 1685715302156,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -19,8 +19,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2514048,
-      "num": 1290000,
+      "raw_hot": 2971115,
+      "num": 2971115,
+      "word": "今晚的观众好忙",
+      "onboard_time": 1685710292,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 2685277,
+      "num": 1390724,
       "word": "我国一孩生育率跌至0.5",
       "onboard_time": 1685704832,
       "rank": 7,
@@ -81,14 +89,6 @@
       "onboard_time": 1685579847,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1902326,
-      "num": 1902326,
-      "word": "今晚的观众好忙",
-      "onboard_time": 1685710292,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 1895298,
@@ -169,6 +169,14 @@
       "onboard_time": 1685603186,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1546375,
+      "num": 1546375,
+      "word": "黄子韬说我们不需要什么澄清",
+      "onboard_time": 1685710112,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 1437497,
@@ -379,6 +387,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1161979,
+      "num": 1161979,
+      "word": "韩国23岁女子杀害陌生同龄女子",
+      "onboard_time": 1685705015,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1159146,
       "num": 1159146,
       "word": "吴倩没有镜头",
@@ -411,6 +427,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1131151,
+      "num": 1131151,
+      "word": "护心31集 封神",
+      "onboard_time": 1685713714,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1105584,
       "num": 1105584,
       "word": "胡可说不要把另一半当自己人",
@@ -433,14 +457,6 @@
       "onboard_time": 1685614287,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1070325,
-      "num": 1070325,
-      "word": "黄子韬说我们不需要什么澄清",
-      "onboard_time": 1685710112,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 1050365,
@@ -481,14 +497,6 @@
       "onboard_time": 1685690966,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1015764,
-      "num": 1015764,
-      "word": "韩国23岁女子杀害陌生同龄女子",
-      "onboard_time": 1685705015,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 977357,
@@ -1155,6 +1163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 453074,
+      "num": 453074,
+      "word": "周也演技值得一个热搜",
+      "onboard_time": 1685713652,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 452787,
       "num": 452787,
       "word": "网友花8万拍下椰树直播间蹦迪票",
@@ -1169,6 +1185,14 @@
       "onboard_time": 1685633909,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 450742,
+      "num": 450742,
+      "word": "年龄算什么 永远不会太晚",
+      "onboard_time": 1685709272,
+      "rank": 44,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 445550,
@@ -1339,6 +1363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 407089,
+      "num": 407089,
+      "word": "骆歆",
+      "onboard_time": 1685711372,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 404400,
       "num": 404400,
       "word": "虞书欣妆造",
@@ -1379,14 +1411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 397150,
-      "num": 397150,
-      "word": "年龄算什么 永远不会太晚",
-      "onboard_time": 1685709272,
-      "rank": 44,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 396671,
       "num": 245255,
       "word": "肖战片场讲冷笑话",
@@ -1425,6 +1449,14 @@
       "onboard_time": 1685685749,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 385597,
+      "num": 385597,
+      "word": "爷爷去世前发给我的",
+      "onboard_time": 1685710010,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 380809,
@@ -1795,8 +1827,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 309014,
-      "num": 309014,
+      "raw_hot": 309663,
+      "num": 309663,
       "word": "官方回应昆明一幼儿园3岁女童死亡",
       "onboard_time": 1685704832,
       "rank": 15,
@@ -1875,6 +1907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300289,
+      "num": 300289,
+      "word": "肖春生喜欢谁",
+      "onboard_time": 1685712692,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 298809,
       "num": 298809,
       "word": "宋祖儿显眼肚",
@@ -1939,6 +1979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289939,
+      "num": 234817,
+      "word": "鞠婧祎韩式半永久",
+      "onboard_time": 1685711130,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289851,
       "num": 188654,
       "word": "找到周深叫周深的原因了",
@@ -1977,14 +2025,6 @@
       "onboard_time": 1685589987,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 287127,
-      "num": 230894,
-      "word": "鞠婧祎韩式半永久",
-      "onboard_time": 1685711130,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 287121,
@@ -2459,6 +2499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 239881,
+      "num": 239881,
+      "word": "aespa和LESSERAFIM完全相反的食性",
+      "onboard_time": 1685712451,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239098,
       "num": 239098,
       "word": "你有超过七年的友谊吗",
@@ -2513,14 +2561,6 @@
       "onboard_time": 1685594971,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 235145,
-      "num": 235145,
-      "word": "骆歆",
-      "onboard_time": 1685711372,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 232922,
@@ -2947,14 +2987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200800,
-      "num": 180712,
-      "word": "爷爷去世前发给我的",
-      "onboard_time": 1685710010,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 200300,
       "num": 1108373,
       "word": "重庆一小学全校师生穿汉服过六一",
@@ -3009,6 +3041,14 @@
       "onboard_time": 1685708671,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196769,
+      "num": 196769,
+      "word": "国安",
+      "onboard_time": 1685710172,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 196762,
@@ -3339,6 +3379,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 176431,
+      "num": 176431,
+      "word": "水哥变帅的原因找到了",
+      "onboard_time": 1685711554,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176347,
+      "num": 176347,
+      "word": "白敬亭夏日度假穿搭",
+      "onboard_time": 1685714134,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 173946,
       "num": 173946,
       "word": "周杰伦都没你们懂简单爱",
@@ -3411,20 +3467,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 170112,
+      "num": 170112,
+      "word": "赵丽颖躲藏有一手",
+      "onboard_time": 1685711912,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169464,
       "num": 169464,
       "word": "肖战粉丝花式宣传梦中的那片海",
       "onboard_time": 1685544453,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 169116,
-      "num": 169116,
-      "word": "水哥变帅的原因找到了",
-      "onboard_time": 1685711554,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 169057,
@@ -3441,6 +3497,22 @@
       "onboard_time": 1685596587,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168428,
+      "num": 168428,
+      "word": "专家提醒不能靠彩票发财",
+      "onboard_time": 1685713775,
+      "rank": 33,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 168289,
+      "num": 168289,
+      "word": "蒋胜男 学术风气",
+      "onboard_time": 1685714490,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167722,
@@ -3635,6 +3707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156206,
+      "num": 156206,
+      "word": "肖春生火场救人",
+      "onboard_time": 1685714313,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 156165,
       "num": 156165,
       "word": "3名美国海军陆战队员被40名青少年群殴",
@@ -3649,14 +3729,6 @@
       "onboard_time": 1685602770,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 154629,
-      "num": 154629,
-      "word": "国安",
-      "onboard_time": 1685710172,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 154485,
@@ -3681,14 +3753,6 @@
       "onboard_time": 1685580809,
       "rank": 39,
       "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 153140,
-      "num": 153140,
-      "word": "aespa和LESSERAFIM完全相反的食性",
-      "onboard_time": 1685712451,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 152551,
@@ -3801,14 +3865,6 @@
       "onboard_time": 1685615366,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 146548,
-      "num": 146548,
-      "word": "赵丽颖躲藏有一手",
-      "onboard_time": 1685711912,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 145184,
@@ -3993,6 +4049,14 @@
       "onboard_time": 1685618548,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131477,
+      "num": 131477,
+      "word": "初级会计",
+      "onboard_time": 1685715095,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 131400,
@@ -4235,14 +4299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112866,
-      "num": 112866,
-      "word": "肖春生喜欢谁",
-      "onboard_time": 1685712692,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 112400,
       "num": 112400,
       "word": "成都欢乐谷大运音乐节",
@@ -4371,6 +4427,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 102544,
+      "num": 261575,
+      "word": "大二女生连续6年帮残疾父亲爬楼送货",
+      "onboard_time": 1685710832,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102346,
       "num": 189015,
       "word": "云南彝良突发洪灾致3人遇难",
@@ -4473,6 +4537,14 @@
       "onboard_time": 1685598388,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 88756,
+      "num": 120553,
+      "word": "女士优先车厢男士该让座吗",
+      "onboard_time": 1685713832,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86200,
@@ -4616,14 +4688,6 @@
       "word": "有孩子借书比多挣100块钱都高兴",
       "onboard_time": 1685661740,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 72300,
-      "num": 261575,
-      "word": "大二女生连续6年帮残疾父亲爬楼送货",
-      "onboard_time": 1685710832,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -4811,6 +4875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45846,
+      "num": 1406287,
+      "word": "全球最大自贸区进入全面实施新阶段",
+      "onboard_time": 1685710712,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45301,
       "num": 69900,
       "word": "618攻略",
@@ -4897,6 +4969,14 @@
       "onboard_time": 1685627491,
       "rank": 27,
       "category": "科技"
+    },
+    {
+      "raw_hot": 30008,
+      "num": 312359,
+      "word": "有被Fiona的蔓延甜到",
+      "onboard_time": 1685714430,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 28689,

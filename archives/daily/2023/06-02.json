@@ -1,6 +1,6 @@
 {
   "startTime": 1685636689541,
-  "endTime": 1685712816386,
+  "endTime": 1685715302156,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -11,8 +11,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2514048,
-      "num": 1290000,
+      "raw_hot": 2971115,
+      "num": 2971115,
+      "word": "今晚的观众好忙",
+      "onboard_time": 1685710292,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 2685277,
+      "num": 1390724,
       "word": "我国一孩生育率跌至0.5",
       "onboard_time": 1685704832,
       "rank": 7,
@@ -33,14 +41,6 @@
       "onboard_time": 1685686708,
       "rank": 31,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1902326,
-      "num": 1902326,
-      "word": "今晚的观众好忙",
-      "onboard_time": 1685710292,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 1835059,
@@ -73,6 +73,14 @@
       "onboard_time": 1685669608,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1546375,
+      "num": 1546375,
+      "word": "黄子韬说我们不需要什么澄清",
+      "onboard_time": 1685710112,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 1407080,
@@ -179,6 +187,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1161979,
+      "num": 1161979,
+      "word": "韩国23岁女子杀害陌生同龄女子",
+      "onboard_time": 1685705015,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1159146,
       "num": 1159146,
       "word": "吴倩没有镜头",
@@ -187,12 +203,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1070325,
-      "num": 1070325,
-      "word": "黄子韬说我们不需要什么澄清",
-      "onboard_time": 1685710112,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 1131151,
+      "num": 1131151,
+      "word": "护心31集 封神",
+      "onboard_time": 1685713714,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1050365,
@@ -225,14 +241,6 @@
       "onboard_time": 1685690966,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1015764,
-      "num": 1015764,
-      "word": "韩国23岁女子杀害陌生同龄女子",
-      "onboard_time": 1685705015,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 963621,
@@ -531,6 +539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 453074,
+      "num": 453074,
+      "word": "周也演技值得一个热搜",
+      "onboard_time": 1685713652,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 452787,
       "num": 452787,
       "word": "网友花8万拍下椰树直播间蹦迪票",
@@ -545,6 +561,14 @@
       "onboard_time": 1685633909,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 450742,
+      "num": 450742,
+      "word": "年龄算什么 永远不会太晚",
+      "onboard_time": 1685709272,
+      "rank": 44,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 445550,
@@ -643,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 407089,
+      "num": 407089,
+      "word": "骆歆",
+      "onboard_time": 1685711372,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 404400,
       "num": 404400,
       "word": "虞书欣妆造",
@@ -659,14 +691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 397150,
-      "num": 397150,
-      "word": "年龄算什么 永远不会太晚",
-      "onboard_time": 1685709272,
-      "rank": 44,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 393449,
       "num": 393449,
       "word": "五月天王源合唱",
@@ -681,6 +705,14 @@
       "onboard_time": 1685685749,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 385597,
+      "num": 385597,
+      "word": "爷爷去世前发给我的",
+      "onboard_time": 1685710010,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 380809,
@@ -819,8 +851,8 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 309014,
-      "num": 309014,
+      "raw_hot": 309663,
+      "num": 309663,
       "word": "官方回应昆明一幼儿园3岁女童死亡",
       "onboard_time": 1685704832,
       "rank": 15,
@@ -875,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300289,
+      "num": 300289,
+      "word": "肖春生喜欢谁",
+      "onboard_time": 1685712692,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 292800,
       "num": 292800,
       "word": "赵丽娜李彩桦汪小敏淘汰",
@@ -899,8 +939,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 287127,
-      "num": 230894,
+      "raw_hot": 289939,
+      "num": 234817,
       "word": "鞠婧祎韩式半永久",
       "onboard_time": 1685711130,
       "rank": 22,
@@ -1099,6 +1139,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 239881,
+      "num": 239881,
+      "word": "aespa和LESSERAFIM完全相反的食性",
+      "onboard_time": 1685712451,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238102,
       "num": 220572,
       "word": "肖战肖春生好大一滴泪",
@@ -1121,14 +1169,6 @@
       "onboard_time": 1685712574,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235145,
-      "num": 235145,
-      "word": "骆歆",
-      "onboard_time": 1685711372,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 232922,
@@ -1339,14 +1379,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 200800,
-      "num": 180712,
-      "word": "爷爷去世前发给我的",
-      "onboard_time": 1685710010,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 198120,
       "num": 127613,
       "word": "李丹",
@@ -1377,6 +1409,14 @@
       "onboard_time": 1685708671,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196769,
+      "num": 196769,
+      "word": "国安",
+      "onboard_time": 1685710172,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 196074,
@@ -1515,6 +1555,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176431,
+      "num": 176431,
+      "word": "水哥变帅的原因找到了",
+      "onboard_time": 1685711554,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176347,
+      "num": 176347,
+      "word": "白敬亭夏日度假穿搭",
+      "onboard_time": 1685714134,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 176034,
       "num": 159472,
       "word": "周也露背裙",
@@ -1579,12 +1635,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 169116,
-      "num": 169116,
-      "word": "水哥变帅的原因找到了",
-      "onboard_time": 1685711554,
-      "rank": 42,
-      "category": "作品衍生"
+      "raw_hot": 170112,
+      "num": 170112,
+      "word": "赵丽颖躲藏有一手",
+      "onboard_time": 1685711912,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 169057,
@@ -1592,6 +1648,22 @@
       "word": "人生过百的秘密或在肠道细菌",
       "onboard_time": 1685692649,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168428,
+      "num": 168428,
+      "word": "专家提醒不能靠彩票发财",
+      "onboard_time": 1685713775,
+      "rank": 33,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 168289,
+      "num": 168289,
+      "word": "蒋胜男 学术风气",
+      "onboard_time": 1685714490,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1715,12 +1787,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154629,
-      "num": 154629,
-      "word": "国安",
-      "onboard_time": 1685710172,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 156206,
+      "num": 156206,
+      "word": "肖春生火场救人",
+      "onboard_time": 1685714313,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 154485,
@@ -1737,14 +1809,6 @@
       "onboard_time": 1685683355,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 153140,
-      "num": 153140,
-      "word": "aespa和LESSERAFIM完全相反的食性",
-      "onboard_time": 1685712451,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 152490,
@@ -1803,14 +1867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146548,
-      "num": 146548,
-      "word": "赵丽颖躲藏有一手",
-      "onboard_time": 1685711912,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 145184,
       "num": 145184,
       "word": "瞬息全宇宙",
@@ -1856,6 +1912,14 @@
       "word": "红楼梦舞剧",
       "onboard_time": 1685689465,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 138422,
+      "num": 138422,
+      "word": "护心",
+      "onboard_time": 1685713054,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -1921,6 +1985,14 @@
       "onboard_time": 1685618245,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 131477,
+      "num": 131477,
+      "word": "初级会计",
+      "onboard_time": 1685715095,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 131400,
@@ -2083,14 +2155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 112866,
-      "num": 112866,
-      "word": "肖春生喜欢谁",
-      "onboard_time": 1685712692,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 112400,
       "num": 112400,
       "word": "成都欢乐谷大运音乐节",
@@ -2219,6 +2283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 102544,
+      "num": 261575,
+      "word": "大二女生连续6年帮残疾父亲爬楼送货",
+      "onboard_time": 1685710832,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99389,
       "num": 122366,
       "word": "MC梦否认诱导边伯贤离开SMTOWN",
@@ -2247,6 +2319,14 @@
       "num": 196057,
       "word": "保安出版小说入选当代中国文学书库",
       "onboard_time": 1685676448,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88756,
+      "num": 120553,
+      "word": "女士优先车厢男士该让座吗",
+      "onboard_time": 1685713832,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -2328,14 +2408,6 @@
       "word": "有孩子借书比多挣100块钱都高兴",
       "onboard_time": 1685661740,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 72300,
-      "num": 261575,
-      "word": "大二女生连续6年帮残疾父亲爬楼送货",
-      "onboard_time": 1685710832,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2459,6 +2531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45846,
+      "num": 1406287,
+      "word": "全球最大自贸区进入全面实施新阶段",
+      "onboard_time": 1685710712,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44761,
       "num": 294805,
       "word": "男子被困高楼外众人砸窗救援",
@@ -2481,6 +2561,14 @@
       "onboard_time": 1685656994,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 30008,
+      "num": 312359,
+      "word": "有被Fiona的蔓延甜到",
+      "onboard_time": 1685714430,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 25383,

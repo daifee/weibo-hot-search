@@ -1,0 +1,410 @@
+{
+  "runTime": 1685715302156,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2971115,
+        "num": 2971115,
+        "word": "今晚的观众好忙",
+        "onboard_time": 1685710292,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1546375,
+        "num": 1546375,
+        "word": "黄子韬说我们不需要什么澄清",
+        "onboard_time": 1685710112,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45846,
+        "num": 1406287,
+        "word": "全球最大自贸区进入全面实施新阶段",
+        "onboard_time": 1685710712,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2685277,
+        "num": 1390724,
+        "word": "我国一孩生育率跌至0.5",
+        "onboard_time": 1685704832,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1274485,
+        "num": 1274485,
+        "word": "吴所谓得知吴京去开家长会的反应",
+        "onboard_time": 1685701350,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1161979,
+        "num": 1161979,
+        "word": "韩国23岁女子杀害陌生同龄女子",
+        "onboard_time": 1685705015,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1131151,
+        "num": 1131151,
+        "word": "护心31集 封神",
+        "onboard_time": 1685713714,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1050063,
+        "num": 1050063,
+        "word": "张雪峰公司将实行上四休三",
+        "onboard_time": 1685706691,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453074,
+        "num": 453074,
+        "word": "周也演技值得一个热搜",
+        "onboard_time": 1685713652,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 450742,
+        "num": 450742,
+        "word": "年龄算什么 永远不会太晚",
+        "onboard_time": 1685709272,
+        "rank": 9,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 828385,
+        "num": 442439,
+        "word": "高校回应女博士毕业答辩争议",
+        "onboard_time": 1685691446,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 407089,
+        "num": 407089,
+        "word": "骆歆",
+        "onboard_time": 1685711372,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 385597,
+        "num": 385597,
+        "word": "爷爷去世前发给我的",
+        "onboard_time": 1685710010,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 323991,
+        "num": 323991,
+        "word": "网友花8万拍下椰树直播间蹦迪票",
+        "onboard_time": 1685706334,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30008,
+        "num": 312359,
+        "word": "有被Fiona的蔓延甜到",
+        "onboard_time": 1685714430,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 309663,
+        "num": 309663,
+        "word": "官方回应昆明一幼儿园3岁女童死亡",
+        "onboard_time": 1685704832,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300289,
+        "num": 300289,
+        "word": "肖春生喜欢谁",
+        "onboard_time": 1685712692,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248444,
+        "num": 248444,
+        "word": "第一次意识到古装剧里眉毛这么重要",
+        "onboard_time": 1685701710,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239881,
+        "num": 239881,
+        "word": "aespa和LESSERAFIM完全相反的食性",
+        "onboard_time": 1685712451,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238993,
+        "num": 238993,
+        "word": "陶白白你自己算到了吗",
+        "onboard_time": 1685691267,
+        "rank": 19,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 1573576,
+        "num": 238139,
+        "word": "3未成年男性酒店轮流猥亵2少女",
+        "onboard_time": 1685706814,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299495,
+        "num": 234829,
+        "word": "学术妲己的危害",
+        "onboard_time": 1685708493,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289939,
+        "num": 234817,
+        "word": "鞠婧祎韩式半永久",
+        "onboard_time": 1685711130,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229379,
+        "num": 229379,
+        "word": "浪姐4二公排名谁最离谱",
+        "onboard_time": 1685700631,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223244,
+        "num": 223244,
+        "word": "四川大学回应女博士生介入导师婚姻",
+        "onboard_time": 1685694568,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 220964,
+        "num": 220964,
+        "word": "网友对肖战演技的评价",
+        "onboard_time": 1685707651,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216123,
+        "num": 216123,
+        "word": "赵丽颖迪士尼",
+        "onboard_time": 1685699128,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209170,
+        "num": 209170,
+        "word": "为什么反对男艺人过度撸铁",
+        "onboard_time": 1685694867,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202645,
+        "num": 202645,
+        "word": "张远演唱会",
+        "onboard_time": 1685710773,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196769,
+        "num": 196769,
+        "word": "国安",
+        "onboard_time": 1685710172,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176431,
+        "num": 176431,
+        "word": "水哥变帅的原因找到了",
+        "onboard_time": 1685711554,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176347,
+        "num": 176347,
+        "word": "白敬亭夏日度假穿搭",
+        "onboard_time": 1685714134,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170112,
+        "num": 170112,
+        "word": "赵丽颖躲藏有一手",
+        "onboard_time": 1685711912,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168428,
+        "num": 168428,
+        "word": "专家提醒不能靠彩票发财",
+        "onboard_time": 1685713775,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 168289,
+        "num": 168289,
+        "word": "蒋胜男 学术风气",
+        "onboard_time": 1685714490,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157725,
+        "num": 157725,
+        "word": "子时当归 速溶咖啡",
+        "onboard_time": 1685703755,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 157455,
+        "num": 157455,
+        "word": "陌生男子一脚踩死怀孕猫咪",
+        "onboard_time": 1685694748,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156206,
+        "num": 156206,
+        "word": "肖春生火场救人",
+        "onboard_time": 1685714313,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154760,
+        "num": 154760,
+        "word": "老伴走后第二天浙大老教师又去捡垃圾了",
+        "onboard_time": 1685690547,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150868,
+        "num": 150868,
+        "word": "黄晓明救了我的手机",
+        "onboard_time": 1685693187,
+        "rank": 39,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 143722,
+        "num": 143722,
+        "word": "林志玲说是她跟Akira求婚的",
+        "onboard_time": 1685690966,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138422,
+        "num": 138422,
+        "word": "护心",
+        "onboard_time": 1685713054,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135265,
+        "num": 135265,
+        "word": "张逸杰肌肉",
+        "onboard_time": 1685712574,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131477,
+        "num": 131477,
+        "word": "初级会计",
+        "onboard_time": 1685715095,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 123667,
+        "num": 123667,
+        "word": "王菲每一笔画都是直的",
+        "onboard_time": 1685697387,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122082,
+        "num": 122082,
+        "word": "肖春生贺红玲好嗑",
+        "onboard_time": 1685711130,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102544,
+        "num": 121737,
+        "word": "大二女生连续6年帮残疾父亲爬楼送货",
+        "onboard_time": 1685710832,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96982,
+        "num": 121363,
+        "word": "深圳供电局再回应城中村晚上停电",
+        "onboard_time": 1685707112,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93171,
+        "num": 121090,
+        "word": "收费员多问一句救下一条命",
+        "onboard_time": 1685698349,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 88756,
+        "num": 120553,
+        "word": "女士优先车厢男士该让座吗",
+        "onboard_time": 1685713832,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设高质量教育体系#"
+    }
+  }
+}
