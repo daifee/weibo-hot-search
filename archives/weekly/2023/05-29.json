@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685740502181,
+  "endTime": 1685741624539,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -13219,6 +13219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18374,
+      "num": 20936,
+      "word": "德克萨斯",
+      "onboard_time": 1685739912,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 18324,
       "num": 20698,
       "word": "什么是公益性岗位",
@@ -13257,14 +13265,6 @@
       "onboard_time": 1685644813,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 10606,
-      "num": 20936,
-      "word": "德克萨斯",
-      "onboard_time": 1685739912,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 9934,

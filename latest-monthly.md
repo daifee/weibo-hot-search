@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/03 05:15:02
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/03 05:33:44
 </p>
 </blockquote>
 <p>
@@ -4083,6 +4083,12 @@ TVB直播带货成交额破亿（热度：35645）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF%23" target="weibo">
+德克萨斯（热度：18374）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E5%A5%BD%E9%85%B7%23" target="weibo">
 吴磊好酷（热度：18107）
 </a>
@@ -4091,12 +4097,6 @@ TVB直播带货成交额破亿（热度：35645）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232023%E8%B6%B3%E7%90%83%E5%86%A0%E5%86%9B%E8%A1%8C%23" target="weibo">
 2023足球冠军行（热度：13388）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF%23" target="weibo">
-德克萨斯（热度：10606）
 </a>
 </li>
 

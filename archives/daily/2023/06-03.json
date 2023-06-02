@@ -1,6 +1,6 @@
 {
   "startTime": 1685722886907,
-  "endTime": 1685740502181,
+  "endTime": 1685741624539,
   "band_list": [
     {
       "raw_hot": 3670728,
@@ -507,6 +507,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 18374,
+      "num": 20936,
+      "word": "德克萨斯",
+      "onboard_time": 1685739912,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 16483,
       "num": 26923,
       "word": "六一",
@@ -521,14 +529,6 @@
       "onboard_time": 1685612248,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10606,
-      "num": 20936,
-      "word": "德克萨斯",
-      "onboard_time": 1685739912,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 9934,
