@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685684028881,
+  "endTime": 1685686884317,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -185,6 +185,14 @@
       "onboard_time": 1685592628,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1308571,
+      "num": 1308571,
+      "word": "夫妻入职300家公司骗工资60万",
+      "onboard_time": 1685682035,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1300769,
@@ -443,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 753448,
+      "num": 753448,
+      "word": "谢娜给曾可妮乘风创始人",
+      "onboard_time": 1685683891,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 726387,
       "num": 1615343,
       "word": "女子为帮装空调丈夫拉安全绳拒绝减肥",
@@ -659,6 +675,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 565931,
+      "num": 565931,
+      "word": "压力给到华晨宇站姐",
+      "onboard_time": 1685682574,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 565635,
       "num": 565635,
       "word": "网传老人在高铁上用菜刀削苹果",
@@ -785,14 +809,6 @@
       "onboard_time": 1685583927,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 522753,
-      "num": 371877,
-      "word": "夫妻入职300家公司骗工资60万",
-      "onboard_time": 1685682035,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 519751,
@@ -1019,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 417306,
+      "num": 264735,
+      "word": "王鹤棣要去泰国录跑男",
+      "onboard_time": 1685682993,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 417227,
       "num": 417227,
       "word": "阚清子",
@@ -1033,6 +1057,14 @@
       "onboard_time": 1685629892,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 412607,
+      "num": 366132,
+      "word": "北航已经有三名航天员了",
+      "onboard_time": 1685684132,
+      "rank": 10,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 411573,
@@ -1195,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 358312,
+      "num": 223336,
+      "word": "毕业后租一辈子房可行吗",
+      "onboard_time": 1685685389,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357053,
       "num": 357053,
       "word": "陈晓和陈妍希亲吻儿子好甜",
@@ -1307,14 +1347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 331877,
-      "num": 279677,
-      "word": "压力给到华晨宇站姐",
-      "onboard_time": 1685682574,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 331784,
       "num": 331784,
       "word": "刘青松",
@@ -1379,12 +1411,28 @@
       "category": "网红,游戏"
     },
     {
+      "raw_hot": 321045,
+      "num": 321045,
+      "word": "章莹颖遇害六年后",
+      "onboard_time": 1685685329,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314350,
       "num": 257987,
       "word": "肖春生给贺红玲吹口琴",
       "onboard_time": 1685622566,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 313754,
+      "num": 313754,
+      "word": "外卖员摔伤同行不顾订单超时伸援手",
+      "onboard_time": 1685684191,
+      "rank": 15,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 313379,
@@ -1515,6 +1563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292800,
+      "num": 292800,
+      "word": "赵丽娜李彩桦汪小敏淘汰",
+      "onboard_time": 1685683951,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289851,
       "num": 188654,
       "word": "找到周深叫周深的原因了",
@@ -1537,6 +1593,14 @@
       "onboard_time": 1685524889,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 289026,
+      "num": 289026,
+      "word": "SMTOWN自动续约条款",
+      "onboard_time": 1685685749,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 288392,
@@ -1699,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262613,
+      "num": 215481,
+      "word": "金晨无眼妆封面",
+      "onboard_time": 1685685389,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 262242,
       "num": 262242,
       "word": "李念林和平",
@@ -1851,14 +1923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 246996,
-      "num": 264735,
-      "word": "王鹤棣要去泰国录跑男",
-      "onboard_time": 1685682993,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 246412,
       "num": 246412,
       "word": "cbx",
@@ -1993,6 +2057,14 @@
       "onboard_time": 1685580569,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231988,
+      "num": 262246,
+      "word": "Amber芝芙抢山河图",
+      "onboard_time": 1685683592,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 230958,
@@ -2275,14 +2347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204974,
-      "num": 264160,
-      "word": "谢娜给曾可妮乘风创始人",
-      "onboard_time": 1685683891,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 204021,
       "num": 204021,
       "word": "司机倒车坠河他们一个个冲了过来",
@@ -2371,6 +2435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196015,
+      "num": 196015,
+      "word": "StrayKids新歌SClass上线",
+      "onboard_time": 1685686288,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 193780,
       "num": 193780,
       "word": "新华社称黄牛该好好管管了",
@@ -2401,6 +2473,14 @@
       "onboard_time": 1685596827,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192961,
+      "num": 192961,
+      "word": "柳智敏ins注销了吗",
+      "onboard_time": 1685684790,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 192664,
@@ -2465,6 +2545,14 @@
       "onboard_time": 1685638041,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188789,
+      "num": 188789,
+      "word": "蜘蛛侠纵横宇宙",
+      "onboard_time": 1685685389,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 188626,
@@ -2587,6 +2675,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 180309,
+      "num": 180309,
+      "word": "学校正核查学术妲己事件",
+      "onboard_time": 1685686708,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 179739,
       "num": 179739,
       "word": "梦中的那片海预告",
@@ -2649,6 +2745,14 @@
       "onboard_time": 1685681137,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170838,
+      "num": 178564,
+      "word": "中国女排获得两连胜",
+      "onboard_time": 1685685269,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 169464,
@@ -2731,6 +2835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 163787,
+      "num": 163787,
+      "word": "星穹铁道银狼",
+      "onboard_time": 1685686288,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 163380,
       "num": 259112,
       "word": "eva",
@@ -2755,20 +2867,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162534,
+      "num": 162534,
+      "word": "周五给人一种莫名的解脱感",
+      "onboard_time": 1685685389,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 162507,
       "num": 162507,
       "word": "WBG首发名单",
       "onboard_time": 1685624668,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 160138,
-      "num": 262246,
-      "word": "Amber芝芙抢山河图",
-      "onboard_time": 1685683592,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 159970,
@@ -2859,6 +2971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152490,
+      "num": 152490,
+      "word": "最高迪迦奥特曼落户成都",
+      "onboard_time": 1685686288,
+      "rank": 37,
+      "category": "社会新闻,动漫"
+    },
+    {
       "raw_hot": 151567,
       "num": 151567,
       "word": "Angelababy赵露思将录制你好星期六",
@@ -2931,6 +3051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145184,
+      "num": 145184,
+      "word": "瞬息全宇宙",
+      "onboard_time": 1685685868,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 143673,
       "num": 218316,
       "word": "蜘蛛侠",
@@ -3000,6 +3128,14 @@
       "word": "距2023高考还有5天",
       "onboard_time": 1685678427,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135228,
+      "num": 135228,
+      "word": "以为孩子要捣乱纪念碑下一秒被感动",
+      "onboard_time": 1685685868,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -3291,6 +3427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106736,
+      "num": 106736,
+      "word": "时代少年团或将拍剧",
+      "onboard_time": 1685684611,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 106393,
       "num": 106393,
       "word": "货车起火加油站员工飞奔扑救",
@@ -3305,14 +3449,6 @@
       "onboard_time": 1685643554,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 103637,
-      "num": 257069,
-      "word": "赵丽娜李彩桦汪小敏淘汰",
-      "onboard_time": 1685683951,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 103499,
@@ -3801,6 +3937,14 @@
       "onboard_time": 1685561473,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14038,
+      "num": 313863,
+      "word": "57岁北漂阿姨白天当保洁晚上做画家",
+      "onboard_time": 1685686469,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13388,

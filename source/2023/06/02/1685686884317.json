@@ -1,0 +1,410 @@
+{
+  "runTime": 1685686884317,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1308571,
+        "num": 1308571,
+        "word": "夫妻入职300家公司骗工资60万",
+        "onboard_time": 1685682035,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 955488,
+        "num": 955488,
+        "word": "谢娜二公第一",
+        "onboard_time": 1685680296,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74931,
+        "num": 802172,
+        "word": "距2023高考还有5天",
+        "onboard_time": 1685678427,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753448,
+        "num": 753448,
+        "word": "谢娜给曾可妮乘风创始人",
+        "onboard_time": 1685683891,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 565931,
+        "num": 565931,
+        "word": "压力给到华晨宇站姐",
+        "onboard_time": 1685682574,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 538134,
+        "num": 538134,
+        "word": "多次感染对身体的危害有多大",
+        "onboard_time": 1685677468,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484912,
+        "num": 484912,
+        "word": "蔡康永把林志玲问哭",
+        "onboard_time": 1685675128,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 466190,
+        "num": 466190,
+        "word": "跑步的多巴胺仅次于谈恋爱",
+        "onboard_time": 1685664568,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 450018,
+        "num": 450018,
+        "word": "梦中的那片海有狂飙高晓晨",
+        "onboard_time": 1685681077,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 390363,
+        "num": 390363,
+        "word": "被骗到缅甸6小伙已被解救",
+        "onboard_time": 1685669608,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412607,
+        "num": 366132,
+        "word": "北航已经有三名航天员了",
+        "onboard_time": 1685684132,
+        "rank": 10,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 409863,
+        "num": 347713,
+        "word": "难听",
+        "onboard_time": 1685681197,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 321045,
+        "num": 321045,
+        "word": "章莹颖遇害六年后",
+        "onboard_time": 1685685329,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268646,
+        "num": 314059,
+        "word": "特朗普回应拜登又摔了",
+        "onboard_time": 1685679209,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 14038,
+        "num": 313863,
+        "word": "57岁北漂阿姨白天当保洁晚上做画家",
+        "onboard_time": 1685686469,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313754,
+        "num": 313754,
+        "word": "外卖员摔伤同行不顾订单超时伸援手",
+        "onboard_time": 1685684191,
+        "rank": 15,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 292800,
+        "num": 292800,
+        "word": "赵丽娜李彩桦汪小敏淘汰",
+        "onboard_time": 1685683951,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289026,
+        "num": 289026,
+        "word": "SMTOWN自动续约条款",
+        "onboard_time": 1685685749,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261205,
+        "num": 261205,
+        "word": "程晓玥产后首晒全家福",
+        "onboard_time": 1685678547,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226566,
+        "num": 226566,
+        "word": "24岁研究生生日当天救了一个人",
+        "onboard_time": 1685676267,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417306,
+        "num": 225275,
+        "word": "王鹤棣要去泰国录跑男",
+        "onboard_time": 1685682993,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358312,
+        "num": 223336,
+        "word": "毕业后租一辈子房可行吗",
+        "onboard_time": 1685685389,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308268,
+        "num": 223107,
+        "word": "为什么不能坐别人的热凳子",
+        "onboard_time": 1685672128,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 216376,
+        "num": 216376,
+        "word": "王一博外网生图状态",
+        "onboard_time": 1685672847,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 262613,
+        "num": 215481,
+        "word": "金晨无眼妆封面",
+        "onboard_time": 1685685389,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 251469,
+        "num": 213944,
+        "word": "赵丽颖跳菠萝菠萝蜜",
+        "onboard_time": 1685682873,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231988,
+        "num": 210959,
+        "word": "Amber芝芙抢山河图",
+        "onboard_time": 1685683592,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196015,
+        "num": 196015,
+        "word": "StrayKids新歌SClass上线",
+        "onboard_time": 1685686288,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180074,
+        "num": 193358,
+        "word": "女子为拍照打卡被卷入海中不幸身亡",
+        "onboard_time": 1685682035,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192961,
+        "num": 192961,
+        "word": "柳智敏ins注销了吗",
+        "onboard_time": 1685684790,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188789,
+        "num": 188789,
+        "word": "蜘蛛侠纵横宇宙",
+        "onboard_time": 1685685389,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180309,
+        "num": 180309,
+        "word": "学校正核查学术妲己事件",
+        "onboard_time": 1685686708,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 170838,
+        "num": 178564,
+        "word": "中国女排获得两连胜",
+        "onboard_time": 1685685269,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178139,
+        "num": 178139,
+        "word": "千万不要觉得成绩已经定型了",
+        "onboard_time": 1685664687,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 170933,
+        "num": 170933,
+        "word": "原来高清的五月天长这样",
+        "onboard_time": 1685672968,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163787,
+        "num": 163787,
+        "word": "星穹铁道银狼",
+        "onboard_time": 1685686288,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162534,
+        "num": 162534,
+        "word": "周五给人一种莫名的解脱感",
+        "onboard_time": 1685685389,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152490,
+        "num": 152490,
+        "word": "最高迪迦奥特曼落户成都",
+        "onboard_time": 1685686288,
+        "rank": 37,
+        "category": "社会新闻,动漫"
+      },
+      {
+        "raw_hot": 145184,
+        "num": 145184,
+        "word": "瞬息全宇宙",
+        "onboard_time": 1685685868,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135228,
+        "num": 135228,
+        "word": "以为孩子要捣乱纪念碑下一秒被感动",
+        "onboard_time": 1685685868,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128290,
+        "num": 128290,
+        "word": "边伯贤金珉锡金钟大称SMTOWN说谎",
+        "onboard_time": 1685673807,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127933,
+        "num": 127933,
+        "word": "广告牌砸倒三名女子路人飞奔营救",
+        "onboard_time": 1685681137,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118528,
+        "num": 118528,
+        "word": "公诉收视率",
+        "onboard_time": 1685674226,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117333,
+        "num": 117333,
+        "word": "早知道烂厂里了",
+        "onboard_time": 1685632591,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115549,
+        "num": 115549,
+        "word": "情侣夏天不想牵手可以这样",
+        "onboard_time": 1685672607,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115360,
+        "num": 115360,
+        "word": "鞠婧祎反手一个大比兜",
+        "onboard_time": 1685674767,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113943,
+        "num": 113943,
+        "word": "eva",
+        "onboard_time": 1685682697,
+        "rank": 46,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 106736,
+        "num": 106736,
+        "word": "时代少年团或将拍剧",
+        "onboard_time": 1685684611,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102781,
+        "num": 102781,
+        "word": "春楠拍的宋茜",
+        "onboard_time": 1685678728,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89823,
+        "num": 102221,
+        "word": "嵯峨皮肤",
+        "onboard_time": 1685679270,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#少年志#"
+    }
+  }
+}

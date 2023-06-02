@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685684028881,
+  "endTime": 1685686884317,
   "band_list": [
     {
       "raw_hot": 4071736,
@@ -792,6 +792,14 @@
       "word": "男子吃火锅遇假茅台被服务员提醒",
       "onboard_time": 1685358929,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1308571,
+      "num": 1308571,
+      "word": "夫妻入职300家公司骗工资60万",
+      "onboard_time": 1685682035,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1643,6 +1651,14 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 753448,
+      "num": 753448,
+      "word": "谢娜给曾可妮乘风创始人",
+      "onboard_time": 1685683891,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 749968,
       "num": 749968,
       "word": "杨紫新妆容",
@@ -2323,6 +2339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 565931,
+      "num": 565931,
+      "word": "压力给到华晨宇站姐",
+      "onboard_time": 1685682574,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 565635,
       "num": 565635,
       "word": "网传老人在高铁上用菜刀削苹果",
@@ -2592,14 +2616,6 @@
       "word": "椰树审美",
       "onboard_time": 1685365350,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 522753,
-      "num": 371877,
-      "word": "夫妻入职300家公司骗工资60万",
-      "onboard_time": 1685682035,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -3355,6 +3371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 417306,
+      "num": 264735,
+      "word": "王鹤棣要去泰国录跑男",
+      "onboard_time": 1685682993,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 417227,
       "num": 417227,
       "word": "阚清子",
@@ -3401,6 +3425,14 @@
       "onboard_time": 1685629892,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 412607,
+      "num": 366132,
+      "word": "北航已经有三名航天员了",
+      "onboard_time": 1685684132,
+      "rank": 10,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 412257,
@@ -3955,6 +3987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 358312,
+      "num": 223336,
+      "word": "毕业后租一辈子房可行吗",
+      "onboard_time": 1685685389,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357566,
       "num": 357566,
       "word": "发现同事已经在用AI摸鱼了",
@@ -4275,14 +4315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 331877,
-      "num": 279677,
-      "word": "压力给到华晨宇站姐",
-      "onboard_time": 1685682574,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 331784,
       "num": 331784,
       "word": "刘青松",
@@ -4523,6 +4555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321045,
+      "num": 321045,
+      "word": "章莹颖遇害六年后",
+      "onboard_time": 1685685329,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320963,
       "num": 356653,
       "word": "演唱会求婚",
@@ -4609,6 +4649,14 @@
       "onboard_time": 1685375788,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313754,
+      "num": 313754,
+      "word": "外卖员摔伤同行不顾订单超时伸援手",
+      "onboard_time": 1685684191,
+      "rank": 15,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 313570,
@@ -4931,6 +4979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292800,
+      "num": 292800,
+      "word": "赵丽娜李彩桦汪小敏淘汰",
+      "onboard_time": 1685683951,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292658,
       "num": 292658,
       "word": "杨和苏朋友圈",
@@ -4993,6 +5049,14 @@
       "onboard_time": 1685452178,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 289026,
+      "num": 289026,
+      "word": "SMTOWN自动续约条款",
+      "onboard_time": 1685685749,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 288392,
@@ -5595,6 +5659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262613,
+      "num": 215481,
+      "word": "金晨无眼妆封面",
+      "onboard_time": 1685685389,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 262382,
       "num": 262382,
       "word": "李湘为王诗龄庆儿童节",
@@ -6001,14 +6073,6 @@
       "onboard_time": 1685432669,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 246996,
-      "num": 264735,
-      "word": "王鹤棣要去泰国录跑男",
-      "onboard_time": 1685682993,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 246412,
@@ -6496,6 +6560,14 @@
       "word": "黄子韬的中二魂",
       "onboard_time": 1685413770,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 231988,
+      "num": 262246,
+      "word": "Amber芝芙抢山河图",
+      "onboard_time": 1685683592,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -7387,14 +7459,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 204974,
-      "num": 264160,
-      "word": "谢娜给曾可妮乘风创始人",
-      "onboard_time": 1685683891,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 204951,
       "num": 204951,
       "word": "NIP对战EDG",
@@ -7787,6 +7851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196015,
+      "num": 196015,
+      "word": "StrayKids新歌SClass上线",
+      "onboard_time": 1685686288,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 195995,
       "num": 195995,
       "word": "张韶涵演唱会",
@@ -7944,6 +8016,14 @@
       "word": "seventeen中粉对方时赫的祝福",
       "onboard_time": 1685423670,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 192961,
+      "num": 192961,
+      "word": "柳智敏ins注销了吗",
+      "onboard_time": 1685684790,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -8153,6 +8233,14 @@
       "onboard_time": 1685520328,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188789,
+      "num": 188789,
+      "word": "蜘蛛侠纵横宇宙",
+      "onboard_time": 1685685389,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 188626,
@@ -8467,6 +8555,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 180309,
+      "num": 180309,
+      "word": "学校正核查学术妲己事件",
+      "onboard_time": 1685686708,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 180306,
       "num": 180306,
       "word": "济南11岁男孩莫名吐血交警10分钟送医",
@@ -8705,6 +8801,14 @@
       "onboard_time": 1685436749,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 170838,
+      "num": 178564,
+      "word": "中国女排获得两连胜",
+      "onboard_time": 1685685269,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 170827,
@@ -8995,6 +9099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163787,
+      "num": 163787,
+      "word": "星穹铁道银狼",
+      "onboard_time": 1685686288,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 163380,
       "num": 259112,
       "word": "eva",
@@ -9043,6 +9155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162534,
+      "num": 162534,
+      "word": "周五给人一种莫名的解脱感",
+      "onboard_time": 1685685389,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 162507,
       "num": 162507,
       "word": "WBG首发名单",
@@ -9073,14 +9193,6 @@
       "onboard_time": 1685427031,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 160138,
-      "num": 262246,
-      "word": "Amber芝芙抢山河图",
-      "onboard_time": 1685683592,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 160011,
@@ -9339,6 +9451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152490,
+      "num": 152490,
+      "word": "最高迪迦奥特曼落户成都",
+      "onboard_time": 1685686288,
+      "rank": 37,
+      "category": "社会新闻,动漫"
+    },
+    {
       "raw_hot": 151758,
       "num": 289153,
       "word": "赵明称行业必然跟进零风险护眼屏",
@@ -9539,6 +9659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145184,
+      "num": 145184,
+      "word": "瞬息全宇宙",
+      "onboard_time": 1685685868,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 145047,
       "num": 145047,
       "word": "中国邮政直播",
@@ -9689,6 +9817,14 @@
       "onboard_time": 1685532806,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 135228,
+      "num": 135228,
+      "word": "以为孩子要捣乱纪念碑下一秒被感动",
+      "onboard_time": 1685685868,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134990,
@@ -10491,6 +10627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106736,
+      "num": 106736,
+      "word": "时代少年团或将拍剧",
+      "onboard_time": 1685684611,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 106645,
       "num": 263883,
       "word": "天猫618怎么买最划算",
@@ -10561,14 +10705,6 @@
       "onboard_time": 1685545771,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 103637,
-      "num": 257069,
-      "word": "赵丽娜李彩桦汪小敏淘汰",
-      "onboard_time": 1685683951,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 103443,
@@ -11640,6 +11776,14 @@
       "word": "爱上高速 畅游三秦",
       "onboard_time": 1685419229,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14038,
+      "num": 313863,
+      "word": "57岁北漂阿姨白天当保洁晚上做画家",
+      "onboard_time": 1685686469,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
