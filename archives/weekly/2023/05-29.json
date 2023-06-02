@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685741624539,
+  "endTime": 1685744129419,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -13099,6 +13099,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 25811,
+      "num": 25811,
+      "word": "德克萨斯",
+      "onboard_time": 1685739912,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 25795,
       "num": 25795,
       "word": "新疆草莓音乐节",
@@ -13116,7 +13124,7 @@
     },
     {
       "raw_hot": 23843,
-      "num": 23843,
+      "num": 25488,
       "word": "二公排名",
       "onboard_time": 1685734692,
       "rank": 29,
@@ -13217,14 +13225,6 @@
       "onboard_time": 1685416949,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18374,
-      "num": 20936,
-      "word": "德克萨斯",
-      "onboard_time": 1685739912,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 18324,

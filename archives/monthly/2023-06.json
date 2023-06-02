@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685741624539,
+  "endTime": 1685744129419,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -5379,6 +5379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 25811,
+      "num": 25811,
+      "word": "德克萨斯",
+      "onboard_time": 1685739912,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 25383,
       "num": 1292416,
       "word": "神舟十六号飞天全回顾",
@@ -5388,7 +5396,7 @@
     },
     {
       "raw_hot": 23843,
-      "num": 23843,
+      "num": 25488,
       "word": "二公排名",
       "onboard_time": 1685734692,
       "rank": 29,
@@ -5425,14 +5433,6 @@
       "onboard_time": 1685592026,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18374,
-      "num": 20936,
-      "word": "德克萨斯",
-      "onboard_time": 1685739912,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 18107,
