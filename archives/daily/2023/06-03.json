@@ -1,6 +1,6 @@
 {
   "startTime": 1685722886907,
-  "endTime": 1685745206257,
+  "endTime": 1685747861270,
   "band_list": [
     {
       "raw_hot": 3670728,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1191166,
+      "num": 401061,
+      "word": "警方回应校内被撞身亡小学生母亲坠亡",
+      "onboard_time": 1685722770,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1172134,
       "num": 1172134,
       "word": "昆明机场一女子取行李被撞身亡",
@@ -65,14 +73,6 @@
       "onboard_time": 1685718693,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 684640,
-      "num": 291066,
-      "word": "警方回应校内被撞身亡小学生母亲坠亡",
-      "onboard_time": 1685722770,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 617382,
@@ -291,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183245,
+      "num": 98919,
+      "word": "已婚前任突然加我",
+      "onboard_time": 1685746998,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168112,
       "num": 168112,
       "word": "五月天重庆",
@@ -459,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60697,
+      "num": 60697,
+      "word": "陈伟霆直播拉错人",
+      "onboard_time": 1685747060,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 52152,
       "num": 52152,
       "word": "宝蓝真的很努力在跳了",
@@ -481,6 +497,30 @@
       "onboard_time": 1685737032,
       "rank": 14,
       "category": "综艺,综艺"
+    },
+    {
+      "raw_hot": 36073,
+      "num": 57635,
+      "word": "好喜欢独居生活",
+      "onboard_time": 1685746880,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 32678,
+      "num": 57631,
+      "word": "肖战台词",
+      "onboard_time": 1685624309,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 30985,
+      "num": 57625,
+      "word": "保洁阿姨捡到40万上交获奖励",
+      "onboard_time": 1685747480,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30926,
