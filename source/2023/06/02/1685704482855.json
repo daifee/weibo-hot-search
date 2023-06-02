@@ -1,0 +1,410 @@
+{
+  "runTime": 1685704482855,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11589698,
+        "num": 11589698,
+        "word": "校内被撞身亡小学生母亲坠楼身亡",
+        "onboard_time": 1685700868,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 752316,
+        "num": 1388046,
+        "word": "老伴走后第二天浙大老教师又去捡垃圾了",
+        "onboard_time": 1685690547,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20712,
+        "num": 1159640,
+        "word": "神舟十六号飞天全回顾",
+        "onboard_time": 1685694809,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1133552,
+        "num": 1133552,
+        "word": "顾姓老师已调离华南理工",
+        "onboard_time": 1685696908,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 307609,
+        "num": 895437,
+        "word": "收费员多问一句救下一条命",
+        "onboard_time": 1685698349,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 732218,
+        "num": 732218,
+        "word": "陶白白你自己算到了吗",
+        "onboard_time": 1685691267,
+        "rank": 5,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 101609,
+        "num": 641621,
+        "word": "14岁少年捡到4岁娃帮忙找妈妈",
+        "onboard_time": 1685684252,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603631,
+        "num": 603631,
+        "word": "黄晓明救了我的手机",
+        "onboard_time": 1685693187,
+        "rank": 7,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 439634,
+        "num": 439634,
+        "word": "林志玲说是她跟Akira求婚的",
+        "onboard_time": 1685690966,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334645,
+        "num": 334645,
+        "word": "赵丽颖迪士尼",
+        "onboard_time": 1685699128,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 994874,
+        "num": 326879,
+        "word": "高校回应女博士毕业答辩争议",
+        "onboard_time": 1685691446,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 786275,
+        "num": 322598,
+        "word": "学术妲己 同组研究生",
+        "onboard_time": 1685697686,
+        "rank": 11,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 481718,
+        "num": 319811,
+        "word": "吴所谓得知吴京去开家长会的反应",
+        "onboard_time": 1685701350,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314865,
+        "num": 314865,
+        "word": "四川大学回应女博士生介入导师婚姻",
+        "onboard_time": 1685694568,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 308992,
+        "num": 308992,
+        "word": "第一次意识到古装剧里眉毛这么重要",
+        "onboard_time": 1685701710,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260767,
+        "num": 260767,
+        "word": "香港外卖小哥回应月入三万五",
+        "onboard_time": 1685697448,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252558,
+        "num": 252558,
+        "word": "迪丽热巴解释形只影单",
+        "onboard_time": 1685697092,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248480,
+        "num": 248480,
+        "word": "王菲每一笔画都是直的",
+        "onboard_time": 1685697387,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142890,
+        "num": 235477,
+        "word": "618有没有作业借我抄抄",
+        "onboard_time": 1685703214,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233132,
+        "num": 233132,
+        "word": "吴倩没有镜头",
+        "onboard_time": 1685689167,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277026,
+        "num": 232085,
+        "word": "澳门到处都是蔡徐坤",
+        "onboard_time": 1685701350,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223108,
+        "num": 223108,
+        "word": "王鹤棣要去泰国录跑男",
+        "onboard_time": 1685682993,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220237,
+        "num": 220237,
+        "word": "夫妻入职300家公司骗工资60万",
+        "onboard_time": 1685682035,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212197,
+        "num": 212197,
+        "word": "浪姐4二公排名谁最离谱",
+        "onboard_time": 1685700631,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209523,
+        "num": 209523,
+        "word": "为什么反对男艺人过度撸铁",
+        "onboard_time": 1685694867,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198728,
+        "num": 198728,
+        "word": "陌生男子一脚踩死怀孕猫咪",
+        "onboard_time": 1685694748,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190073,
+        "num": 190073,
+        "word": "鞠婧祎变美史",
+        "onboard_time": 1685697808,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 189072,
+        "num": 189072,
+        "word": "张艺兴兑现两年前承诺",
+        "onboard_time": 1685700387,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174856,
+        "num": 174856,
+        "word": "子时当归 速溶咖啡",
+        "onboard_time": 1685703755,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 159952,
+        "num": 159952,
+        "word": "店员回应男子一脚踩死怀孕小猫",
+        "onboard_time": 1685699067,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156121,
+        "num": 156121,
+        "word": "肖战语文课本同款手套",
+        "onboard_time": 1685695466,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149526,
+        "num": 149526,
+        "word": "子时当归",
+        "onboard_time": 1685703934,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 141239,
+        "num": 141239,
+        "word": "大鹏说王一博热烈哭戏一遍过",
+        "onboard_time": 1685699488,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140479,
+        "num": 140479,
+        "word": "林俊杰武汉",
+        "onboard_time": 1685704115,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127315,
+        "num": 139646,
+        "word": "如果月入三万你愿意去送外卖吗",
+        "onboard_time": 1685696548,
+        "rank": 34,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 139603,
+        "num": 139603,
+        "word": "王诗龄说好久不见何炅",
+        "onboard_time": 1685693370,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136642,
+        "num": 136642,
+        "word": "袁一琦成都活动",
+        "onboard_time": 1685704474,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134841,
+        "num": 134841,
+        "word": "杨紫出发长春路透",
+        "onboard_time": 1685700329,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119689,
+        "num": 131547,
+        "word": "浙江12岁高马尾男孩坐拥千万粉丝",
+        "onboard_time": 1685689228,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19970,
+        "num": 130558,
+        "word": "青年派选手亮相淘宝直播",
+        "onboard_time": 1685703632,
+        "rank": 39,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 129910,
+        "num": 129910,
+        "word": "杨颖看腹肌的反应",
+        "onboard_time": 1685702248,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123799,
+        "num": 123799,
+        "word": "戚薇辟谣因冷战差点离婚传言",
+        "onboard_time": 1685699188,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112592,
+        "num": 112592,
+        "word": "只有考研生才知道的梗",
+        "onboard_time": 1685695288,
+        "rank": 42,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 116816,
+        "num": 112186,
+        "word": "吴世勋更新EXO拍摄现场照",
+        "onboard_time": 1685690067,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111086,
+        "num": 111086,
+        "word": "北京彩虹",
+        "onboard_time": 1685700930,
+        "rank": 44,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 109258,
+        "num": 109258,
+        "word": "杭州女子为爱人求购非卖品获赠送",
+        "onboard_time": 1685699188,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107966,
+        "num": 107966,
+        "word": "学生捡手机交派出所民警送奖到学校",
+        "onboard_time": 1685704415,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 96287,
+        "num": 107945,
+        "word": "腾讯张军回应马化腾截图刷屏",
+        "onboard_time": 1685692107,
+        "rank": 47,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 47329,
+        "num": 107878,
+        "word": "神十五航天员本周日返回地球",
+        "onboard_time": 1685698885,
+        "rank": 48,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 39962,
+        "num": 107832,
+        "word": "一梦江湖",
+        "onboard_time": 1685693066,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设高质量教育体系#"
+    }
+  }
+}

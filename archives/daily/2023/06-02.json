@@ -1,10 +1,10 @@
 {
   "startTime": 1685636689541,
-  "endTime": 1685701999614,
+  "endTime": 1685704482855,
   "band_list": [
     {
-      "raw_hot": 4105139,
-      "num": 4105139,
+      "raw_hot": 11589698,
+      "num": 11589698,
       "word": "校内被撞身亡小学生母亲坠楼身亡",
       "onboard_time": 1685700868,
       "rank": 26,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1277272,
-      "num": 1369994,
+      "num": 1388046,
       "word": "老伴走后第二天浙大老教师又去捡垃圾了",
       "onboard_time": 1685690547,
       "rank": 30,
@@ -411,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 481718,
+      "num": 319811,
+      "word": "吴所谓得知吴京去开家长会的反应",
+      "onboard_time": 1685701350,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 469371,
       "num": 469371,
       "word": "香港外卖小哥回应月入三万五",
@@ -707,6 +715,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 308992,
+      "num": 308992,
+      "word": "第一次意识到古装剧里眉毛这么重要",
+      "onboard_time": 1685701710,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 306578,
       "num": 306578,
       "word": "拜登",
@@ -817,6 +833,14 @@
       "onboard_time": 1685673928,
       "rank": 44,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 277026,
+      "num": 232085,
+      "word": "澳门到处都是蔡徐坤",
+      "onboard_time": 1685701350,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 276491,
@@ -1075,6 +1099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 212197,
+      "num": 212197,
+      "word": "浪姐4二公排名谁最离谱",
+      "onboard_time": 1685700631,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211654,
       "num": 211654,
       "word": "只有考研生才知道的梗",
@@ -1105,14 +1137,6 @@
       "onboard_time": 1685668768,
       "rank": 26,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 204045,
-      "num": 204045,
-      "word": "浪姐4二公排名谁最离谱",
-      "onboard_time": 1685700631,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 204021,
@@ -1227,6 +1251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 189072,
+      "num": 189072,
+      "word": "张艺兴兑现两年前承诺",
+      "onboard_time": 1685700387,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188789,
       "num": 188789,
       "word": "蜘蛛侠纵横宇宙",
@@ -1281,6 +1313,14 @@
       "onboard_time": 1685632111,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 174856,
+      "num": 174856,
+      "word": "子时当归 速溶咖啡",
+      "onboard_time": 1685703755,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 173946,
@@ -1371,14 +1411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163812,
-      "num": 163812,
-      "word": "吴所谓得知吴京去开家长会的反应",
-      "onboard_time": 1685701350,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 163787,
       "num": 163787,
       "word": "星穹铁道银狼",
@@ -1411,20 +1443,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 160381,
-      "num": 160381,
-      "word": "张艺兴兑现两年前承诺",
-      "onboard_time": 1685700387,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159970,
       "num": 176545,
       "word": "梦中的那片海制片人缅怀付宁导演",
       "onboard_time": 1685663425,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 159952,
+      "num": 159952,
+      "word": "店员回应男子一脚踩死怀孕小猫",
+      "onboard_time": 1685699067,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159896,
@@ -1515,20 +1547,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 149526,
+      "num": 149526,
+      "word": "子时当归",
+      "onboard_time": 1685703934,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 149357,
       "num": 140384,
       "word": "易烊千玺祝福语",
       "onboard_time": 1685692588,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 145313,
-      "num": 145313,
-      "word": "店员回应男子一脚踩死怀孕小猫",
-      "onboard_time": 1685699067,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145184,
@@ -1547,20 +1579,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142890,
+      "num": 235477,
+      "word": "618有没有作业借我抄抄",
+      "onboard_time": 1685703214,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141747,
       "num": 141747,
       "word": "这是他第一次见到已满2岁半的儿子",
       "onboard_time": 1685693726,
       "rank": 44,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 141289,
-      "num": 141289,
-      "word": "第一次意识到古装剧里眉毛这么重要",
-      "onboard_time": 1685701710,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 141022,
@@ -1579,19 +1611,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140479,
+      "num": 140479,
+      "word": "林俊杰武汉",
+      "onboard_time": 1685704115,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 138204,
       "num": 138204,
       "word": "李念官宣生三胎",
       "onboard_time": 1685612789,
       "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 138027,
-      "num": 138027,
-      "word": "澳门到处都是蔡徐坤",
-      "onboard_time": 1685701350,
-      "rank": 39,
       "category": "艺人"
     },
     {
@@ -1603,12 +1635,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136642,
+      "num": 136642,
+      "word": "袁一琦成都活动",
+      "onboard_time": 1685704474,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135228,
       "num": 135228,
       "word": "以为孩子要捣乱纪念碑下一秒被感动",
       "onboard_time": 1685685868,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134841,
+      "num": 134841,
+      "word": "杨紫出发长春路透",
+      "onboard_time": 1685700329,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 132341,
@@ -1651,12 +1699,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 130051,
-      "num": 130051,
-      "word": "杨紫出发长春路透",
-      "onboard_time": 1685700329,
-      "rank": 41,
-      "category": "作品衍生"
+      "raw_hot": 129910,
+      "num": 129910,
+      "word": "杨颖看腹肌的反应",
+      "onboard_time": 1685702248,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 129442,
@@ -1857,6 +1905,14 @@
       "onboard_time": 1685625211,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 107966,
+      "num": 107966,
+      "word": "学生捡手机交派出所民警送奖到学校",
+      "onboard_time": 1685704415,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 107453,
@@ -2115,6 +2171,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 20712,
+      "num": 1292416,
+      "word": "神舟十六号飞天全回顾",
+      "onboard_time": 1685694809,
+      "rank": 2,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 19970,
+      "num": 130558,
+      "word": "青年派选手亮相淘宝直播",
+      "onboard_time": 1685703632,
+      "rank": 39,
+      "category": "社会新闻,综艺"
+    },
+    {
       "raw_hot": 13388,
       "num": 33785,
       "word": "2023足球冠军行",
@@ -2129,14 +2201,6 @@
       "onboard_time": 1685627491,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 8649,
-      "num": 1292416,
-      "word": "神舟十六号飞天全回顾",
-      "onboard_time": 1685694809,
-      "rank": 2,
-      "category": "社会新闻,科技"
     }
   ],
   "hotgov_list": [
