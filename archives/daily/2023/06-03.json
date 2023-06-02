@@ -1,6 +1,6 @@
 {
   "startTime": 1685722886907,
-  "endTime": 1685723804552,
+  "endTime": 1685726089571,
   "band_list": [
     {
       "raw_hot": 3670728,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 604416,
+      "num": 291066,
+      "word": "警方回应校内被撞身亡小学生母亲坠亡",
+      "onboard_time": 1685722770,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 595876,
       "num": 595876,
       "word": "赵丽颖回应被造谣与谢娜友情破裂",
@@ -105,6 +113,14 @@
       "onboard_time": 1685716294,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390420,
+      "num": 390420,
+      "word": "2女孩穿婚纱买20份王源同款美食",
+      "onboard_time": 1685722109,
+      "rank": 31,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 387087,
@@ -187,12 +203,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 291066,
-      "num": 291066,
-      "word": "警方回应校内被撞身亡小学生母亲坠亡",
-      "onboard_time": 1685722770,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 285238,
+      "num": 285238,
+      "word": "EXO成员未来活动计划",
+      "onboard_time": 1685723546,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 268546,
@@ -209,14 +225,6 @@
       "onboard_time": 1685718573,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 247161,
-      "num": 247161,
-      "word": "2女孩穿婚纱买20份王源同款美食",
-      "onboard_time": 1685722109,
-      "rank": 31,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 246250,
@@ -243,6 +251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 233369,
+      "num": 233369,
+      "word": "钱璐璐",
+      "onboard_time": 1685721869,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 229544,
       "num": 229544,
       "word": "黄国平博士论文的致谢",
@@ -259,14 +275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211489,
-      "num": 211489,
-      "word": "钱璐璐",
-      "onboard_time": 1685721869,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 204276,
       "num": 204276,
       "word": "瞿颖真的好敢说",
@@ -281,6 +289,14 @@
       "onboard_time": 1685713652,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 168112,
+      "num": 168112,
+      "word": "五月天重庆",
+      "onboard_time": 1685723906,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 154671,
@@ -323,20 +339,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137399,
+      "num": 135574,
+      "word": "发簪丸子头",
+      "onboard_time": 1685722170,
+      "rank": 44,
+      "category": "时尚,美妆"
+    },
+    {
       "raw_hot": 133230,
       "num": 133230,
       "word": "初级会计",
       "onboard_time": 1685715095,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 128454,
-      "num": 128454,
-      "word": "EXO成员未来活动计划",
-      "onboard_time": 1685723546,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 122544,
@@ -353,14 +369,6 @@
       "onboard_time": 1685711130,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 107616,
-      "num": 107616,
-      "word": "发簪丸子头",
-      "onboard_time": 1685722170,
-      "rank": 44,
-      "category": "时尚,美妆"
     },
     {
       "raw_hot": 105284,
@@ -387,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103639,
+      "num": 103639,
+      "word": "蜘蛛侠彩蛋",
+      "onboard_time": 1685725163,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 102145,
       "num": 102145,
       "word": "第一次意识到古装剧里眉毛这么重要",
@@ -400,6 +416,22 @@
       "word": "aespa和LESSERAFIM完全相反的食性",
       "onboard_time": 1685712451,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 89508,
+      "num": 89508,
+      "word": "梦海 红白玫瑰line",
+      "onboard_time": 1685724506,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 85595,
+      "num": 85595,
+      "word": "盛一伦快转陈小纭相关微博",
+      "onboard_time": 1685725523,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -425,6 +457,9 @@
     },
     {
       "word": "#直上九天问苍穹天宫圆梦绘新篇#"
+    },
+    {
+      "word": "#加快建设高质量教育体系#"
     }
   ]
 }

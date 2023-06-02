@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685723804552,
+  "endTime": 1685726089571,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -875,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 604416,
+      "num": 291066,
+      "word": "警方回应校内被撞身亡小学生母亲坠亡",
+      "onboard_time": 1685722770,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 597309,
       "num": 597309,
       "word": "梦中的那片海",
@@ -1555,6 +1563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 390420,
+      "num": 390420,
+      "word": "2女孩穿婚纱买20份王源同款美食",
+      "onboard_time": 1685722109,
+      "rank": 31,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 388697,
       "num": 388697,
       "word": "SMTOWN自动续约条款",
@@ -2147,14 +2163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 291066,
-      "num": 291066,
-      "word": "警方回应校内被撞身亡小学生母亲坠亡",
-      "onboard_time": 1685722770,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 289939,
       "num": 266795,
       "word": "鞠婧祎韩式半永久",
@@ -2241,6 +2249,14 @@
       "onboard_time": 1685687607,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 285238,
+      "num": 285238,
+      "word": "EXO成员未来活动计划",
+      "onboard_time": 1685723546,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 284219,
@@ -2643,14 +2659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 247161,
-      "num": 247161,
-      "word": "2女孩穿婚纱买20份王源同款美食",
-      "onboard_time": 1685722109,
-      "rank": 31,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 246412,
       "num": 246412,
       "word": "cbx",
@@ -2809,6 +2817,14 @@
       "onboard_time": 1685720849,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 233369,
+      "num": 233369,
+      "word": "钱璐璐",
+      "onboard_time": 1685721869,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 232922,
@@ -3097,14 +3113,6 @@
       "onboard_time": 1685695288,
       "rank": 23,
       "category": "幽默,教育"
-    },
-    {
-      "raw_hot": 211489,
-      "num": 211489,
-      "word": "钱璐璐",
-      "onboard_time": 1685721869,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 211103,
@@ -3795,6 +3803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 168112,
+      "num": 168112,
+      "word": "五月天重庆",
+      "onboard_time": 1685723906,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 167722,
       "num": 167722,
       "word": "白鹿换头像参加粉丝六一团建",
@@ -4259,6 +4275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137399,
+      "num": 135574,
+      "word": "发簪丸子头",
+      "onboard_time": 1685722170,
+      "rank": 44,
+      "category": "时尚,美妆"
+    },
+    {
       "raw_hot": 137066,
       "num": 1143174,
       "word": "距2023高考还有5天",
@@ -4409,14 +4433,6 @@
       "onboard_time": 1685592810,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 128454,
-      "num": 128454,
-      "word": "EXO成员未来活动计划",
-      "onboard_time": 1685723546,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 127402,
@@ -4691,14 +4707,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 107616,
-      "num": 107616,
-      "word": "发簪丸子头",
-      "onboard_time": 1685722170,
-      "rank": 44,
-      "category": "时尚,美妆"
-    },
-    {
       "raw_hot": 107453,
       "num": 107453,
       "word": "Ella二公第五",
@@ -4721,6 +4729,14 @@
       "onboard_time": 1685643554,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 103639,
+      "num": 103639,
+      "word": "蜘蛛侠彩蛋",
+      "onboard_time": 1685725163,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 103499,
@@ -4835,6 +4851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89508,
+      "num": 89508,
+      "word": "梦海 红白玫瑰line",
+      "onboard_time": 1685724506,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 89371,
       "num": 157055,
       "word": "真的很需要这个海绵宝宝",
@@ -4873,6 +4897,14 @@
       "onboard_time": 1685706573,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 85595,
+      "num": 85595,
+      "word": "盛一伦快转陈小纭相关微博",
+      "onboard_time": 1685725523,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 84037,
