@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685680471293,
+  "endTime": 1685682960373,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -185,6 +185,14 @@
       "onboard_time": 1685592628,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1296566,
+      "num": 1296566,
+      "word": "谢娜二公第一",
+      "onboard_time": 1685680296,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 1293845,
@@ -403,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 826537,
+      "num": 826537,
+      "word": "多次感染对身体的危害有多大",
+      "onboard_time": 1685677468,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 810195,
       "num": 810195,
       "word": "研究生辞谢信彰显卧龙凤雏",
@@ -491,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 666497,
+      "num": 440042,
+      "word": "程晓玥产后首晒全家福",
+      "onboard_time": 1685678547,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 666332,
       "num": 1143728,
       "word": "幼儿园摆20桌请200孩子吃席庆六一",
@@ -568,14 +592,6 @@
       "word": "SMTOWN发生了什么",
       "onboard_time": 1685586327,
       "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 602153,
-      "num": 440042,
-      "word": "程晓玥产后首晒全家福",
-      "onboard_time": 1685678547,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -704,6 +720,14 @@
       "word": "这两部剧排播还怪好嘞",
       "onboard_time": 1685591727,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 548589,
+      "num": 548589,
+      "word": "梦中的那片海有狂飙高晓晨",
+      "onboard_time": 1685681077,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -849,6 +873,14 @@
       "onboard_time": 1685549729,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 460389,
+      "num": 222244,
+      "word": "难听",
+      "onboard_time": 1685681197,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 457327,
@@ -1171,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350410,
+      "num": 171886,
+      "word": "夫妻入职300家公司骗工资60万",
+      "onboard_time": 1685682035,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348932,
       "num": 290858,
       "word": "丫丫和新家人祝大家儿童节快乐",
@@ -1217,14 +1257,6 @@
       "onboard_time": 1685609487,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 338983,
-      "num": 338983,
-      "word": "多次感染对身体的危害有多大",
-      "onboard_time": 1685677468,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 338796,
@@ -1409,6 +1441,14 @@
       "onboard_time": 1685589806,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 299982,
+      "num": 299982,
+      "word": "特朗普回应拜登又摔了",
+      "onboard_time": 1685679209,
+      "rank": 48,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 298809,
@@ -1643,6 +1683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260968,
+      "num": 260968,
+      "word": "春楠拍的宋茜",
+      "onboard_time": 1685678728,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 260431,
       "num": 258231,
       "word": "目睹活鱼店老板进货冻鱼",
@@ -1803,14 +1851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 243578,
-      "num": 243578,
-      "word": "春楠拍的宋茜",
-      "onboard_time": 1685678728,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 242977,
       "num": 242977,
       "word": "贵州一地拟禁办再婚等酒席",
@@ -1843,6 +1883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241654,
+      "num": 241654,
+      "word": "女子为拍照打卡被卷入海中不幸身亡",
+      "onboard_time": 1685682035,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241211,
       "num": 241211,
       "word": "男子站斑马线旁聊天被撞飞当场死亡",
@@ -1857,14 +1905,6 @@
       "onboard_time": 1685622329,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 239142,
-      "num": 239142,
-      "word": "谢娜二公第一",
-      "onboard_time": 1685680296,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 239098,
@@ -2217,6 +2257,14 @@
       "onboard_time": 1685667149,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203846,
+      "num": 203846,
+      "word": "压力给到华晨宇站姐",
+      "onboard_time": 1685682574,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 201849,
@@ -2579,6 +2627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169005,
+      "num": 169005,
+      "word": "赵丽颖跳菠萝菠萝蜜",
+      "onboard_time": 1685682873,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168627,
       "num": 168627,
       "word": "六月好运",
@@ -2593,14 +2649,6 @@
       "onboard_time": 1685587405,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167155,
-      "num": 222538,
-      "word": "特朗普回应拜登又摔了",
-      "onboard_time": 1685679209,
-      "rank": 48,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 166865,
@@ -2657,6 +2705,14 @@
       "onboard_time": 1685547030,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 163380,
+      "num": 163380,
+      "word": "eva",
+      "onboard_time": 1685682697,
+      "rank": 34,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 163217,
@@ -2907,6 +2963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134935,
+      "num": 134935,
+      "word": "广告牌砸倒三名女子路人飞奔营救",
+      "onboard_time": 1685681137,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134843,
       "num": 134843,
       "word": "特斯拉",
@@ -3019,6 +3083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 127402,
+      "num": 351697,
+      "word": "4岁男童路过纪念碑跑着上前敬礼",
+      "onboard_time": 1685678427,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126845,
       "num": 151317,
       "word": "hao123网站 童年回忆",
@@ -3033,6 +3105,14 @@
       "onboard_time": 1685575402,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123396,
+      "num": 217164,
+      "word": "五月天深圳",
+      "onboard_time": 1685680113,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 121213,
@@ -3099,14 +3179,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 115692,
-      "num": 217164,
-      "word": "五月天深圳",
-      "onboard_time": 1685680113,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 115215,
       "num": 96281,
       "word": "TF家族三代也去看五月天演唱会了",
@@ -3145,6 +3217,14 @@
       "onboard_time": 1685636187,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 111139,
+      "num": 122627,
+      "word": "3名小学生河边发现毒花获暖心表彰",
+      "onboard_time": 1685682631,
+      "rank": 47,
+      "category": "社会正能量,教育"
     },
     {
       "raw_hot": 110749,
@@ -3201,6 +3281,14 @@
       "onboard_time": 1685609668,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99389,
+      "num": 122366,
+      "word": "MC梦否认诱导边伯贤离开SMTOWN",
+      "onboard_time": 1685681857,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 97869,
@@ -3427,14 +3515,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 67830,
-      "num": 351697,
-      "word": "4岁男童路过纪念碑跑着上前敬礼",
-      "onboard_time": 1685678427,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 65719,
       "num": 1319459,
       "word": "打卡中国",
@@ -3625,6 +3705,14 @@
       "onboard_time": 1685559674,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 24372,
+      "num": 294805,
+      "word": "男子被困高楼外众人砸窗救援",
+      "onboard_time": 1685682098,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21272,
