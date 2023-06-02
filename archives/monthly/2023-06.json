@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685662423622,
+  "endTime": 1685670449660,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -123,6 +123,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1407080,
+      "num": 1407080,
+      "word": "跑步的多巴胺仅次于谈恋爱",
+      "onboard_time": 1685664568,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1380628,
       "num": 1380628,
       "word": "边伯贤金珉锡金钟大与SMTOWN解约",
@@ -211,6 +219,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1171739,
+      "num": 180321,
+      "word": "拜登又摔了",
+      "onboard_time": 1685661321,
+      "rank": 27,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1163870,
+      "num": 1163870,
+      "word": "千万不要觉得成绩已经定型了",
+      "onboard_time": 1685664687,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1147186,
       "num": 792011,
       "word": "女子退猫被拒后直接把猫摔死",
@@ -283,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 955471,
+      "num": 955471,
+      "word": "专家称不排除二阳后还会有三阳",
+      "onboard_time": 1685630192,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 914174,
       "num": 914174,
       "word": "出租房装的空调是5级能耗",
@@ -321,6 +353,14 @@
       "onboard_time": 1685632171,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 826290,
+      "num": 323171,
+      "word": "张宝儿官宣怀孕",
+      "onboard_time": 1685666550,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 810195,
@@ -387,14 +427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 669830,
-      "num": 669830,
-      "word": "专家称不排除二阳后还会有三阳",
-      "onboard_time": 1685630192,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 666332,
       "num": 1143728,
       "word": "幼儿园摆20桌请200孩子吃席庆六一",
@@ -441,6 +473,14 @@
       "onboard_time": 1685539347,
       "rank": 4,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 635829,
+      "num": 185372,
+      "word": "顾成 苏艳",
+      "onboard_time": 1685666971,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 632733,
@@ -491,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 586428,
+      "num": 435169,
+      "word": "王诗龄晒健身照",
+      "onboard_time": 1685626290,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 578621,
       "num": 578621,
       "word": "男人眼中的6分女和6分男",
@@ -531,12 +579,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 558781,
+      "num": 327146,
+      "word": "谢谢王源的站姐",
+      "onboard_time": 1685667629,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 557874,
       "num": 282277,
       "word": "唐僧为什么忘记替老龟问寿命",
       "onboard_time": 1685617647,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 556839,
+      "num": 315714,
+      "word": "四川大学",
+      "onboard_time": 1685669667,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 553350,
@@ -683,11 +747,35 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 435195,
+      "num": 435195,
+      "word": "我其实是一只水母 装成人的模样社交",
+      "onboard_time": 1685660781,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 435108,
+      "num": 435108,
+      "word": "Jennie在香奈儿表演",
+      "onboard_time": 1685665649,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 434172,
       "num": 434172,
       "word": "六一儿童节",
       "onboard_time": 1685545292,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 430282,
+      "num": 184596,
+      "word": "江苏南通发生命案两人遇害",
+      "onboard_time": 1685662523,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -729,6 +817,22 @@
       "onboard_time": 1685607508,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418719,
+      "num": 418719,
+      "word": "NBA总决赛",
+      "onboard_time": 1685666971,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 418113,
+      "num": 308529,
+      "word": "迪丽热巴为后援会十周年送祝福",
+      "onboard_time": 1685667990,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 417227,
@@ -875,20 +979,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 365142,
+      "num": 184175,
+      "word": "男童不慎将玩具甩进邻桌火锅烫到婴儿",
+      "onboard_time": 1685664867,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 363434,
       "num": 363434,
       "word": "就喜欢纯爱",
       "onboard_time": 1685602106,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 363113,
-      "num": 303515,
-      "word": "王诗龄晒健身照",
-      "onboard_time": 1685626290,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 359169,
@@ -1011,6 +1115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 330433,
+      "num": 330433,
+      "word": "三分野",
+      "onboard_time": 1685662161,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 328441,
       "num": 237508,
       "word": "赵丽颖六月暂无公开行程",
@@ -1104,6 +1216,14 @@
       "word": "六一文案",
       "onboard_time": 1685576184,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301987,
+      "num": 301987,
+      "word": "练车两分钟就疲劳驾驶了",
+      "onboard_time": 1685663666,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1227,6 +1347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284219,
+      "num": 284219,
+      "word": "被贴吧盗图造谣女生本人发声",
+      "onboard_time": 1685660899,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283400,
       "num": 421046,
       "word": "拼多多补贴力度不像是演的",
@@ -1289,6 +1417,14 @@
       "onboard_time": 1685633010,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269061,
+      "num": 269061,
+      "word": "五月天演唱会为何一票难求",
+      "onboard_time": 1685663244,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 268667,
@@ -1579,6 +1715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 230231,
+      "num": 183141,
+      "word": "肖战肖春生好大一滴泪",
+      "onboard_time": 1685668827,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228227,
       "num": 228227,
       "word": "六月",
@@ -1603,6 +1747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 226728,
+      "num": 182124,
+      "word": "赵丽颖算不算天赋型演员",
+      "onboard_time": 1685662943,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225903,
       "num": 225903,
       "word": "当有人说他从大厂出来belike",
@@ -1625,6 +1777,14 @@
       "onboard_time": 1685535265,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 224190,
+      "num": 224190,
+      "word": "还没有一个人有我全部的账号",
+      "onboard_time": 1685660781,
+      "rank": 43,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 221535,
@@ -1673,6 +1833,14 @@
       "onboard_time": 1685627913,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 215328,
+      "num": 181629,
+      "word": "被骗到缅甸6小伙已被解救",
+      "onboard_time": 1685669608,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215148,
@@ -1771,6 +1939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206740,
+      "num": 181127,
+      "word": "如何看待不雅聊天公职人员被免职",
+      "onboard_time": 1685668768,
+      "rank": 26,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 206528,
       "num": 182788,
       "word": "如果拥有一台穿越机你会做什么",
@@ -1827,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198120,
+      "num": 127613,
+      "word": "李丹",
+      "onboard_time": 1685662342,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197936,
       "num": 197936,
       "word": "林志颖即将复出",
@@ -1849,6 +2033,14 @@
       "onboard_time": 1685544932,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195203,
+      "num": 165758,
+      "word": "奥本海默定为R级",
+      "onboard_time": 1685669367,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 193780,
@@ -1889,14 +2081,6 @@
       "onboard_time": 1685603788,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 192547,
-      "num": 192547,
-      "word": "被贴吧盗图造谣女生本人发声",
-      "onboard_time": 1685660899,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191189,
@@ -1987,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185597,
+      "num": 185597,
+      "word": "热火vs掘金",
+      "onboard_time": 1685667572,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185026,
       "num": 185026,
       "word": "张艺兴深圳演唱会是四面台",
@@ -2059,6 +2251,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 180274,
+      "num": 180274,
+      "word": "司机倒车坠河他们一个个冲了过来",
+      "onboard_time": 1685667149,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179739,
       "num": 179739,
       "word": "梦中的那片海预告",
@@ -2072,6 +2272,14 @@
       "word": "铁路回应老人高铁上用菜刀削苹果",
       "onboard_time": 1685636485,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178063,
+      "num": 165358,
+      "word": "你怎么看待学术妲己这个词",
+      "onboard_time": 1685667269,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -2107,14 +2315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169948,
-      "num": 169948,
-      "word": "我其实是一只水母 装成人的模样社交",
-      "onboard_time": 1685660781,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 169464,
       "num": 169464,
       "word": "肖战粉丝花式宣传梦中的那片海",
@@ -2147,6 +2347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 166155,
+      "num": 166155,
+      "word": "哪些消费是智商税",
+      "onboard_time": 1685668707,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165671,
       "num": 206177,
       "word": "真实影像揭露境外高薪务工骗局",
@@ -2163,12 +2371,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164624,
+      "num": 164624,
+      "word": "对这种玩笑永远不要笑",
+      "onboard_time": 1685660781,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 164496,
       "num": 164496,
       "word": "明天有两部新剧开播",
       "onboard_time": 1685531249,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 164376,
+      "num": 164376,
+      "word": "江苏南通",
+      "onboard_time": 1685666070,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164063,
@@ -2201,6 +2425,22 @@
       "onboard_time": 1685624668,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 162431,
+      "num": 162431,
+      "word": "何炅王诗龄合照",
+      "onboard_time": 1685670148,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 159970,
+      "num": 159970,
+      "word": "梦中的那片海制片人缅怀付宁导演",
+      "onboard_time": 1685663425,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 159173,
@@ -2241,6 +2481,14 @@
       "onboard_time": 1685574439,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155700,
+      "num": 155700,
+      "word": "五月天武汉",
+      "onboard_time": 1685669425,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 155499,
@@ -2339,14 +2587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142208,
-      "num": 128959,
-      "word": "对这种玩笑永远不要笑",
-      "onboard_time": 1685660781,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 141254,
       "num": 133380,
       "word": "五月天演唱会",
@@ -2441,6 +2681,14 @@
       "onboard_time": 1685618548,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131187,
+      "num": 131187,
+      "word": "假如一觉睡醒回到了高中时期",
+      "onboard_time": 1685670148,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 131080,
@@ -2539,14 +2787,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 119375,
-      "num": 119375,
-      "word": "还没有一个人有我全部的账号",
-      "onboard_time": 1685660781,
-      "rank": 43,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 118687,
       "num": 158295,
       "word": "金龟子说8090后不必为长大道歉",
@@ -2619,6 +2859,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106393,
+      "num": 106393,
+      "word": "货车起火加油站员工飞奔扑救",
+      "onboard_time": 1685669425,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104308,
+      "num": 104308,
+      "word": "易烊千玺灯牌线上店铺被投诉",
+      "onboard_time": 1685643554,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 103499,
       "num": 132779,
       "word": "618发货真快",
@@ -2673,14 +2929,6 @@
       "onboard_time": 1685616206,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 93043,
-      "num": 93043,
-      "word": "三分野",
-      "onboard_time": 1685662161,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 92931,
@@ -2867,22 +3115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 63859,
-      "num": 63859,
-      "word": "李丹",
-      "onboard_time": 1685662342,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61698,
-      "num": 61698,
-      "word": "易烊千玺灯牌线上店铺被投诉",
-      "onboard_time": 1685643554,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 61053,
       "num": 84460,
       "word": "你唯一有资格过儿童节的是你的脑子",
@@ -2955,6 +3187,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 50514,
+      "num": 1059659,
+      "word": "这群幕后航天人对代码有着极致追求",
+      "onboard_time": 1685633730,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47994,
       "num": 47994,
       "word": "阿娇为陈妍希庆生",
@@ -2985,14 +3225,6 @@
       "onboard_time": 1685661199,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 40012,
-      "num": 636157,
-      "word": "这群幕后航天人对代码有着极致追求",
-      "onboard_time": 1685633730,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35645,
