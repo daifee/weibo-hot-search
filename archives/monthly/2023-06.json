@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685715302156,
+  "endTime": 1685716412892,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2971115,
-      "num": 2971115,
+      "raw_hot": 3236035,
+      "num": 3236035,
       "word": "今晚的观众好忙",
       "onboard_time": 1685710292,
       "rank": 30,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2685277,
-      "num": 1390724,
+      "num": 1534365,
       "word": "我国一孩生育率跌至0.5",
       "onboard_time": 1685704832,
       "rank": 7,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1876838,
+      "num": 356989,
+      "word": "3未成年男性酒店轮流猥亵2少女",
+      "onboard_time": 1685706814,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1835059,
       "num": 1599805,
       "word": "高校回应女博士毕业答辩争议",
@@ -139,12 +147,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1643206,
-      "num": 356989,
-      "word": "3未成年男性酒店轮流猥亵2少女",
-      "onboard_time": 1685706814,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 1645137,
+      "num": 1645137,
+      "word": "黄子韬说我们不需要什么澄清",
+      "onboard_time": 1685710112,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 1642963,
@@ -171,12 +179,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1546375,
-      "num": 1546375,
-      "word": "黄子韬说我们不需要什么澄清",
-      "onboard_time": 1685710112,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 1530125,
+      "num": 1530125,
+      "word": "韩国23岁女子杀害陌生同龄女子",
+      "onboard_time": 1685705015,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1437497,
@@ -379,20 +387,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1205084,
+      "num": 1205084,
+      "word": "护心31集 封神",
+      "onboard_time": 1685713714,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1171739,
       "num": 180321,
       "word": "拜登又摔了",
       "onboard_time": 1685661321,
       "rank": 27,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1161979,
-      "num": 1161979,
-      "word": "韩国23岁女子杀害陌生同龄女子",
-      "onboard_time": 1685705015,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1159146,
@@ -425,14 +433,6 @@
       "onboard_time": 1685589866,
       "rank": 20,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1131151,
-      "num": 1131151,
-      "word": "护心31集 封神",
-      "onboard_time": 1685713714,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 1105584,
@@ -601,6 +601,14 @@
       "onboard_time": 1685627791,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 792254,
+      "num": 792254,
+      "word": "周也演技值得一个热搜",
+      "onboard_time": 1685713652,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 787851,
@@ -1043,6 +1051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 498300,
+      "num": 498300,
+      "word": "爷爷去世前发给我的",
+      "onboard_time": 1685710010,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 496286,
       "num": 496286,
       "word": "五月天嘉宾 王源",
@@ -1161,14 +1177,6 @@
       "onboard_time": 1685672968,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 453074,
-      "num": 453074,
-      "word": "周也演技值得一个热搜",
-      "onboard_time": 1685713652,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 452787,
@@ -1451,14 +1459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 385597,
-      "num": 385597,
-      "word": "爷爷去世前发给我的",
-      "onboard_time": 1685710010,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 380809,
       "num": 303265,
       "word": "为什么反对男艺人过度撸铁",
@@ -1505,6 +1505,14 @@
       "onboard_time": 1685593889,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 372192,
+      "num": 372192,
+      "word": "梦中的那片海 替身BE美学",
+      "onboard_time": 1685715632,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 371645,
@@ -1852,7 +1860,7 @@
     },
     {
       "raw_hot": 304459,
-      "num": 262963,
+      "num": 264326,
       "word": "学术妲己的危害",
       "onboard_time": 1685708493,
       "rank": 39,
@@ -1980,7 +1988,7 @@
     },
     {
       "raw_hot": 289939,
-      "num": 234817,
+      "num": 266795,
       "word": "鞠婧祎韩式半永久",
       "onboard_time": 1685711130,
       "rank": 22,
@@ -2075,6 +2083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 280602,
+      "num": 280602,
+      "word": "蒋胜男 学术风气",
+      "onboard_time": 1685714490,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280311,
       "num": 280311,
       "word": "肖战语文课本同款手套",
@@ -2152,6 +2168,14 @@
       "word": "吴世勋更新EXO拍摄现场照",
       "onboard_time": 1685690067,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 273283,
+      "num": 273283,
+      "word": "aespa和LESSERAFIM完全相反的食性",
+      "onboard_time": 1685712451,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -2249,6 +2273,14 @@
       "onboard_time": 1685620647,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261509,
+      "num": 261509,
+      "word": "初级会计",
+      "onboard_time": 1685715095,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 261306,
@@ -2435,12 +2467,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244235,
+      "num": 244235,
+      "word": "向往的生活",
+      "onboard_time": 1685715694,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244193,
       "num": 188482,
       "word": "乐华家族演唱会有王一博",
       "onboard_time": 1685606668,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243797,
+      "num": 243797,
+      "word": "蜘蛛侠",
+      "onboard_time": 1685673328,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 243759,
@@ -2497,14 +2545,6 @@
       "onboard_time": 1685622329,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 239881,
-      "num": 239881,
-      "word": "aespa和LESSERAFIM完全相反的食性",
-      "onboard_time": 1685712451,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 239098,
@@ -2657,6 +2697,14 @@
       "onboard_time": 1685615009,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 225895,
+      "num": 225895,
+      "word": "专家提醒不能靠彩票发财",
+      "onboard_time": 1685713775,
+      "rank": 33,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 225487,
@@ -3073,6 +3121,14 @@
       "onboard_time": 1685686288,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194098,
+      "num": 194098,
+      "word": "2名95后辅警巡逻时因公殉职",
+      "onboard_time": 1685715392,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193780,
@@ -3499,22 +3555,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 168428,
-      "num": 168428,
-      "word": "专家提醒不能靠彩票发财",
-      "onboard_time": 1685713775,
-      "rank": 33,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 168289,
-      "num": 168289,
-      "word": "蒋胜男 学术风气",
-      "onboard_time": 1685714490,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167722,
       "num": 167722,
       "word": "白鹿换头像参加粉丝六一团建",
@@ -3811,6 +3851,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 150002,
+      "num": 150002,
+      "word": "UP战胜FPX",
+      "onboard_time": 1685715872,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 149357,
       "num": 140384,
       "word": "易烊千玺祝福语",
@@ -3833,6 +3881,14 @@
       "onboard_time": 1685608706,
       "rank": 36,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 148433,
+      "num": 148433,
+      "word": "范丞丞改名范曲棍",
+      "onboard_time": 1685715934,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 148229,
@@ -3872,14 +3928,6 @@
       "word": "瞬息全宇宙",
       "onboard_time": 1685685868,
       "rank": 38,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 143673,
-      "num": 218316,
-      "word": "蜘蛛侠",
-      "onboard_time": 1685673328,
-      "rank": 42,
       "category": "影视"
     },
     {
@@ -4049,14 +4097,6 @@
       "onboard_time": 1685618548,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 131477,
-      "num": 131477,
-      "word": "初级会计",
-      "onboard_time": 1685715095,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 131400,
@@ -4267,6 +4307,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 115309,
+      "num": 115309,
+      "word": "男生宿舍拍毕业转场视频破防了",
+      "onboard_time": 1685716055,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115215,
       "num": 96281,
       "word": "TF家族三代也去看五月天演唱会了",
@@ -4280,6 +4328,14 @@
       "word": "男孩演完节目一句话让妈妈泪奔",
       "onboard_time": 1685680113,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114694,
+      "num": 114694,
+      "word": "8岁男孩摆摊1小时赚584元",
+      "onboard_time": 1685716294,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -4659,6 +4715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 73245,
+      "num": 1535960,
+      "word": "全球最大自贸区进入全面实施新阶段",
+      "onboard_time": 1685710712,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73218,
       "num": 104961,
       "word": "我国首艘国产大型邮轮完成起浮",
@@ -4745,6 +4809,14 @@
       "onboard_time": 1685608468,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64820,
+      "num": 331663,
+      "word": "有被Fiona的蔓延甜到",
+      "onboard_time": 1685714430,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 61053,
@@ -4875,14 +4947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45846,
-      "num": 1406287,
-      "word": "全球最大自贸区进入全面实施新阶段",
-      "onboard_time": 1685710712,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 45301,
       "num": 69900,
       "word": "618攻略",
@@ -4969,14 +5033,6 @@
       "onboard_time": 1685627491,
       "rank": 27,
       "category": "科技"
-    },
-    {
-      "raw_hot": 30008,
-      "num": 312359,
-      "word": "有被Fiona的蔓延甜到",
-      "onboard_time": 1685714430,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 28689,
