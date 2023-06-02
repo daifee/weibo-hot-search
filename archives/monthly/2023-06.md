@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/03 06:15:29
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/03 06:33:26
 </p>
 </blockquote>
 <p>
@@ -4029,6 +4029,12 @@ TVB直播带货成交额破亿（热度：35645）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF%23" target="weibo">
+德克萨斯（热度：30302）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%83%BD%E6%BA%90%E5%A4%A7%E4%BA%94%E5%BA%A7SUV%E6%9C%89%E5%A4%9A%E5%8D%B7%23" target="weibo">
 新能源大五座SUV有多卷（热度：30116）
 </a>
@@ -4043,12 +4049,6 @@ TVB直播带货成交额破亿（热度：35645）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9D%8F%E5%A6%88%E5%A6%88%23" target="weibo">
 坏妈妈（热度：27596）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF%23" target="weibo">
-德克萨斯（热度：25811）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1685745206257,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 680873,
+        "num": 680873,
+        "word": "黄渤 贫困女孩",
+        "onboard_time": 1685720731,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333170,
+        "num": 333170,
+        "word": "昆明机场一女子取行李被撞身亡",
+        "onboard_time": 1685717852,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21207,
+        "num": 264275,
+        "word": "全球最大自贸区进入全面实施新阶段",
+        "onboard_time": 1685710712,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200085,
+        "num": 200085,
+        "word": "太阳的后裔原型 李云龙原型歼灭的",
+        "onboard_time": 1685718693,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198149,
+        "num": 198149,
+        "word": "吴所谓得知吴京去开家长会的反应",
+        "onboard_time": 1685701350,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 998512,
+        "num": 198058,
+        "word": "知情人辟谣被撞小学生父亲坠楼",
+        "onboard_time": 1685721031,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197282,
+        "num": 197282,
+        "word": "8岁男孩摆摊1小时赚584元",
+        "onboard_time": 1685716294,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155369,
+        "num": 155369,
+        "word": "2女孩穿婚纱买20份王源同款美食",
+        "onboard_time": 1685722109,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 144343,
+        "num": 144343,
+        "word": "原来举案齐眉是这么个举案齐眉",
+        "onboard_time": 1685720849,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113063,
+        "num": 113063,
+        "word": "今晚的观众好忙",
+        "onboard_time": 1685710292,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 502447,
+        "num": 110064,
+        "word": "警方回应校内被撞身亡小学生母亲坠亡",
+        "onboard_time": 1685722770,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307016,
+        "num": 106638,
+        "word": "我国一孩生育率跌至0.5",
+        "onboard_time": 1685704832,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95627,
+        "num": 95627,
+        "word": "赵丽颖回应被造谣与谢娜友情破裂",
+        "onboard_time": 1685720071,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88027,
+        "num": 88027,
+        "word": "张雪峰公司将实行上四休三",
+        "onboard_time": 1685706691,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81607,
+        "num": 81607,
+        "word": "如何看待我国一孩生育率下跌现象",
+        "onboard_time": 1685718693,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72658,
+        "num": 72658,
+        "word": "钱璐璐",
+        "onboard_time": 1685721869,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69850,
+        "num": 69850,
+        "word": "梦中的那片海 替身BE美学",
+        "onboard_time": 1685715632,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 62763,
+        "num": 62763,
+        "word": "AI生成的各省男子图鉴",
+        "onboard_time": 1685719053,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 60654,
+        "num": 60654,
+        "word": "黄国平博士论文的致谢",
+        "onboard_time": 1685720252,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59195,
+        "num": 59195,
+        "word": "张杰演唱会上的五口之家",
+        "onboard_time": 1685719953,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 318895,
+        "num": 57223,
+        "word": "3未成年男性酒店轮流猥亵2少女",
+        "onboard_time": 1685706814,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80134,
+        "num": 55675,
+        "word": "花花和花花同框",
+        "onboard_time": 1685720670,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78929,
+        "num": 54796,
+        "word": "男子刮刮乐中25万激动到手舞足蹈",
+        "onboard_time": 1685719235,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53383,
+        "num": 53383,
+        "word": "瞿颖真的好敢说",
+        "onboard_time": 1685719652,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53174,
+        "num": 53174,
+        "word": "高校回应女博士毕业答辩争议",
+        "onboard_time": 1685691446,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 51251,
+        "num": 51251,
+        "word": "佟大为送迪丽热巴的生日礼物",
+        "onboard_time": 1685720489,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50859,
+        "num": 50859,
+        "word": "吴建豪淘汰赵丽颖",
+        "onboard_time": 1685720489,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47576,
+        "num": 47576,
+        "word": "2名95后辅警巡逻时因公殉职",
+        "onboard_time": 1685715392,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45891,
+        "num": 45891,
+        "word": "韩国23岁女子杀害陌生同龄女子",
+        "onboard_time": 1685705015,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45059,
+        "num": 45059,
+        "word": "周深被李荣浩炸了",
+        "onboard_time": 1685728637,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44314,
+        "num": 44314,
+        "word": "梦海 红白玫瑰line",
+        "onboard_time": 1685724506,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43397,
+        "num": 43397,
+        "word": "EXO成员未来活动计划",
+        "onboard_time": 1685723546,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41739,
+        "num": 41739,
+        "word": "盛一伦快转陈小纭相关微博",
+        "onboard_time": 1685725523,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41008,
+        "num": 41008,
+        "word": "又显着范丞丞了",
+        "onboard_time": 1685718573,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40972,
+        "num": 40972,
+        "word": "网友花8万拍下椰树直播间蹦迪票",
+        "onboard_time": 1685706334,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40274,
+        "num": 40274,
+        "word": "黄子韬说我们不需要什么澄清",
+        "onboard_time": 1685710112,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39282,
+        "num": 39282,
+        "word": "护心31集 封神",
+        "onboard_time": 1685713714,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38860,
+        "num": 38860,
+        "word": "收视率",
+        "onboard_time": 1685717735,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38226,
+        "num": 38226,
+        "word": "五月天重庆",
+        "onboard_time": 1685723906,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 34120,
+        "num": 34120,
+        "word": "发簪丸子头",
+        "onboard_time": 1685722170,
+        "rank": 39,
+        "category": "时尚,美妆"
+      },
+      {
+        "raw_hot": 31763,
+        "num": 31763,
+        "word": "向往的生活",
+        "onboard_time": 1685715694,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30302,
+        "num": 31762,
+        "word": "德克萨斯",
+        "onboard_time": 1685739912,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24428,
+        "num": 31754,
+        "word": "蒋胜男 学术风气",
+        "onboard_time": 1685714490,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22822,
+        "num": 31753,
+        "word": "周深说一起跟着热热身吧",
+        "onboard_time": 1685737032,
+        "rank": 43,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 22667,
+        "num": 31747,
+        "word": "骆歆",
+        "onboard_time": 1685711372,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22057,
+        "num": 31745,
+        "word": "九尾",
+        "onboard_time": 1685717672,
+        "rank": 45,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 22021,
+        "num": 31740,
+        "word": "蜘蛛侠",
+        "onboard_time": 1685715934,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19836,
+        "num": 31736,
+        "word": "六一",
+        "onboard_time": 1685618548,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18864,
+        "num": 31727,
+        "word": "当i人又双叒叕被e人攻击",
+        "onboard_time": 1685726422,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17188,
+        "num": 31722,
+        "word": "二公排名",
+        "onboard_time": 1685734692,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#设计建造大型邮轮靠的是强大国力#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1685722886907,
-  "endTime": 1685744129419,
+  "endTime": 1685745206257,
   "band_list": [
     {
       "raw_hot": 3670728,
@@ -491,8 +491,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25811,
-      "num": 25811,
+      "raw_hot": 30302,
+      "num": 31762,
       "word": "德克萨斯",
       "onboard_time": 1685739912,
       "rank": 48,
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 23843,
-      "num": 25488,
+      "num": 31722,
       "word": "二公排名",
       "onboard_time": 1685734692,
       "rank": 29,
@@ -515,8 +515,8 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 17684,
-      "num": 26923,
+      "raw_hot": 19836,
+      "num": 31736,
       "word": "六一",
       "onboard_time": 1685618548,
       "rank": 48,
