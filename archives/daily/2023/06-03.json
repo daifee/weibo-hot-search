@@ -1,6 +1,6 @@
 {
   "startTime": 1685722886907,
-  "endTime": 1685734417634,
+  "endTime": 1685737019680,
   "band_list": [
     {
       "raw_hot": 3670728,
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23843,
+      "num": 23843,
+      "word": "二公排名",
+      "onboard_time": 1685734692,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 23217,
       "num": 32796,
       "word": "当老师前和当老师后的变化",
@@ -503,6 +511,14 @@
       "num": 26921,
       "word": "儿童节",
       "onboard_time": 1685612248,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9934,
+      "num": 18250,
+      "word": "当少先队礼和军礼同框",
+      "onboard_time": 1685736972,
       "rank": 49,
       "category": "社会新闻"
     }
