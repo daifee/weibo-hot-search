@@ -1,6 +1,6 @@
 {
   "startTime": 1685722886907,
-  "endTime": 1685726089571,
+  "endTime": 1685727219542,
   "band_list": [
     {
       "raw_hot": 3670728,
@@ -67,19 +67,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 684640,
+      "num": 291066,
+      "word": "警方回应校内被撞身亡小学生母亲坠亡",
+      "onboard_time": 1685722770,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 617382,
       "num": 617382,
       "word": "张雪峰公司将实行上四休三",
       "onboard_time": 1685706691,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 604416,
-      "num": 291066,
-      "word": "警方回应校内被撞身亡小学生母亲坠亡",
-      "onboard_time": 1685722770,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -227,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251954,
+      "num": 251954,
+      "word": "钱璐璐",
+      "onboard_time": 1685721869,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 246250,
       "num": 115496,
       "word": "学术妲己的危害",
@@ -244,19 +252,11 @@
     },
     {
       "raw_hot": 234503,
-      "num": 234503,
+      "num": 254862,
       "word": "原来举案齐眉是这么个举案齐眉",
       "onboard_time": 1685720849,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 233369,
-      "num": 233369,
-      "word": "钱璐璐",
-      "onboard_time": 1685721869,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 229544,
@@ -371,6 +371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 108292,
+      "num": 108292,
+      "word": "盛一伦快转陈小纭相关微博",
+      "onboard_time": 1685725523,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105284,
       "num": 105284,
       "word": "2名95后辅警巡逻时因公殉职",
@@ -427,20 +435,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 85595,
-      "num": 85595,
-      "word": "盛一伦快转陈小纭相关微博",
-      "onboard_time": 1685725523,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 85005,
       "num": 101982,
       "word": "骆歆",
       "onboard_time": 1685711372,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 60786,
+      "num": 60786,
+      "word": "当i人又双叒叕被e人攻击",
+      "onboard_time": 1685726422,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 48735,
