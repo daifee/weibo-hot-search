@@ -1,0 +1,410 @@
+{
+  "runTime": 1685694819820,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1277272,
+        "num": 1277272,
+        "word": "老伴走后第二天浙大老教师又去捡垃圾了",
+        "onboard_time": 1685690547,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1070326,
+        "num": 1070326,
+        "word": "吴倩没有镜头",
+        "onboard_time": 1685689167,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 5264,
+        "num": 1057283,
+        "word": "神舟十六号飞天全回顾",
+        "onboard_time": 1685694809,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1051318,
+        "num": 1051318,
+        "word": "高校回应女博士毕业答辩争议",
+        "onboard_time": 1685691446,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 962568,
+        "num": 962568,
+        "word": "林志玲说是她跟Akira求婚的",
+        "onboard_time": 1685690966,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 940885,
+        "num": 940885,
+        "word": "陶白白你自己算到了吗",
+        "onboard_time": 1685691267,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 611623,
+        "num": 611623,
+        "word": "五月天因为余佳运不再当音乐节目评委",
+        "onboard_time": 1685689767,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 515956,
+        "num": 515956,
+        "word": "谢娜二公第一",
+        "onboard_time": 1685680296,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 444319,
+        "num": 444319,
+        "word": "王鹤棣要去泰国录跑男",
+        "onboard_time": 1685682993,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369523,
+        "num": 369523,
+        "word": "毕业后租一辈子房可行吗",
+        "onboard_time": 1685685389,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2123863,
+        "num": 368187,
+        "word": "学校正核查学术妲己事件",
+        "onboard_time": 1685686708,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 633133,
+        "num": 366295,
+        "word": "夫妻入职300家公司骗工资60万",
+        "onboard_time": 1685682035,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358892,
+        "num": 358892,
+        "word": "杨丞琳李荣浩贴脸照",
+        "onboard_time": 1685690848,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340307,
+        "num": 340307,
+        "word": "五月天玫瑰少年场控",
+        "onboard_time": 1685691506,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 32933,
+        "num": 331124,
+        "word": "14岁少年捡到4岁娃帮忙找妈妈",
+        "onboard_time": 1685684252,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243152,
+        "num": 328873,
+        "word": "黄晓明救了我的手机",
+        "onboard_time": 1685693187,
+        "rank": 15,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 327306,
+        "num": 327306,
+        "word": "种地吧十个勤天微博扫楼",
+        "onboard_time": 1685693668,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293474,
+        "num": 293474,
+        "word": "腾讯张军回应马化腾截图刷屏",
+        "onboard_time": 1685692107,
+        "rank": 17,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 257261,
+        "num": 257261,
+        "word": "梦中的那片海首播好多冠军",
+        "onboard_time": 1685692767,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214519,
+        "num": 214519,
+        "word": "真的佩服塞尔达剧情党",
+        "onboard_time": 1685694028,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 276491,
+        "num": 214068,
+        "word": "吴世勋更新EXO拍摄现场照",
+        "onboard_time": 1685690067,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230785,
+        "num": 212364,
+        "word": "肖战梦中的那片海招商全满",
+        "onboard_time": 1685691206,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90246,
+        "num": 210780,
+        "word": "姐姐们的多巴胺穿搭",
+        "onboard_time": 1685691867,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53845,
+        "num": 208433,
+        "word": "迎接神十五乘组回家",
+        "onboard_time": 1685672128,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207550,
+        "num": 207550,
+        "word": "Amber听到谢娜第一的反应",
+        "onboard_time": 1685687607,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195968,
+        "num": 200229,
+        "word": "多次感染对身体的危害有多大",
+        "onboard_time": 1685677468,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199484,
+        "num": 199484,
+        "word": "浙江12岁高马尾男孩坐拥千万粉丝",
+        "onboard_time": 1685689228,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197638,
+        "num": 197638,
+        "word": "男生去理发店只有三句话",
+        "onboard_time": 1685692046,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189154,
+        "num": 189154,
+        "word": "杭州外卖小哥3年还清35万外债",
+        "onboard_time": 1685688446,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160588,
+        "num": 187688,
+        "word": "731部队新罪证首次公开",
+        "onboard_time": 1685690427,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336564,
+        "num": 187628,
+        "word": "王诗龄说好久不见何炅",
+        "onboard_time": 1685693370,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284396,
+        "num": 187405,
+        "word": "四川大学回应女博士生介入导师婚姻",
+        "onboard_time": 1685694568,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 187155,
+        "num": 187155,
+        "word": "王栎鑫自驾上班被保安拦",
+        "onboard_time": 1685694510,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179096,
+        "num": 179096,
+        "word": "被骗到缅甸6小伙已被解救",
+        "onboard_time": 1685669608,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175614,
+        "num": 175614,
+        "word": "肖战显眼包式停车",
+        "onboard_time": 1685689046,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173946,
+        "num": 173946,
+        "word": "周杰伦都没你们懂简单爱",
+        "onboard_time": 1685693127,
+        "rank": 35,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 165134,
+        "num": 165134,
+        "word": "陌生男子一脚踩死怀孕猫咪",
+        "onboard_time": 1685694748,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156673,
+        "num": 156673,
+        "word": "总有人在替这个世界缝缝补补",
+        "onboard_time": 1685693608,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150584,
+        "num": 150584,
+        "word": "蔡康永把林志玲问哭",
+        "onboard_time": 1685675128,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149981,
+        "num": 149981,
+        "word": "十个勤天",
+        "onboard_time": 1685687906,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141747,
+        "num": 141747,
+        "word": "这是他第一次见到已满2岁半的儿子",
+        "onboard_time": 1685693726,
+        "rank": 40,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 141683,
+        "num": 141683,
+        "word": "SMTOWN自动续约条款",
+        "onboard_time": 1685685749,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140384,
+        "num": 140384,
+        "word": "易烊千玺祝福语",
+        "onboard_time": 1685692588,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139995,
+        "num": 139995,
+        "word": "谢娜EllaAmber抢刘惜君",
+        "onboard_time": 1685692167,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125205,
+        "num": 125205,
+        "word": "贾静雯仙品侧颜",
+        "onboard_time": 1685693909,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122700,
+        "num": 122700,
+        "word": "互送手机壳 戒手机",
+        "onboard_time": 1685686886,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112494,
+        "num": 112494,
+        "word": "赵丽颖跳菠萝菠萝蜜",
+        "onboard_time": 1685682873,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108929,
+        "num": 108929,
+        "word": "金晨无眼妆封面",
+        "onboard_time": 1685685389,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 102447,
+        "num": 102447,
+        "word": "女子为拍照打卡被卷入海中不幸身亡",
+        "onboard_time": 1685682035,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77091,
+        "num": 101876,
+        "word": "一梦江湖",
+        "onboard_time": 1685693066,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设高质量教育体系#"
+    }
+  }
+}

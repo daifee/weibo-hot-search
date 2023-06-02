@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685694025927,
+  "endTime": 1685694819820,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -27,7 +27,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 2120032,
+      "raw_hot": 2123863,
       "num": 981146,
       "word": "学校正核查学术妲己事件",
       "onboard_time": 1685686708,
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1277272,
+      "num": 1277272,
+      "word": "老伴走后第二天浙大老教师又去捡垃圾了",
+      "onboard_time": 1685690547,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1276989,
       "num": 1276989,
       "word": "章莹颖遇害六年后",
@@ -281,14 +289,6 @@
       "onboard_time": 1685626952,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1187957,
-      "num": 1187957,
-      "word": "老伴走后第二天浙大老教师又去捡垃圾了",
-      "onboard_time": 1685690547,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1171739,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1051318,
+      "num": 1051318,
+      "word": "高校回应女博士毕业答辩争议",
+      "onboard_time": 1685691446,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1044269,
       "num": 940496,
       "word": "ChatGPT高三考试仅物理得零分",
@@ -403,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 962568,
+      "num": 962568,
+      "word": "林志玲说是她跟Akira求婚的",
+      "onboard_time": 1685690966,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 955471,
       "num": 955471,
       "word": "专家称不排除二阳后还会有三阳",
@@ -411,12 +427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 947347,
-      "num": 947347,
-      "word": "林志玲说是她跟Akira求婚的",
-      "onboard_time": 1685690966,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 940885,
+      "num": 940885,
+      "word": "陶白白你自己算到了吗",
+      "onboard_time": 1685691267,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 914174,
@@ -497,14 +513,6 @@
       "onboard_time": 1685579007,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 757104,
-      "num": 757104,
-      "word": "陶白白你自己算到了吗",
-      "onboard_time": 1685691267,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 753448,
@@ -1027,14 +1035,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 434714,
-      "num": 434714,
-      "word": "高校回应女博士毕业答辩争议",
-      "onboard_time": 1685691446,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 434172,
       "num": 434172,
       "word": "六一儿童节",
@@ -1371,6 +1371,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 340307,
+      "num": 340307,
+      "word": "五月天玫瑰少年场控",
+      "onboard_time": 1685691506,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 339916,
       "num": 339916,
       "word": "狗狗耳朵上的小夹层是做啥用的",
@@ -1416,6 +1424,14 @@
       "word": "杨幂抱着蜜蜂玩偶",
       "onboard_time": 1685589627,
       "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 336564,
+      "num": 187628,
+      "word": "王诗龄说好久不见何炅",
+      "onboard_time": 1685693370,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -1465,6 +1481,14 @@
       "onboard_time": 1685629471,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 327306,
+      "num": 327306,
+      "word": "种地吧十个勤天微博扫楼",
+      "onboard_time": 1685693668,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 326386,
@@ -1627,12 +1651,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 293750,
-      "num": 293750,
-      "word": "五月天玫瑰少年场控",
-      "onboard_time": 1685691506,
-      "rank": 13,
-      "category": "音乐"
+      "raw_hot": 293474,
+      "num": 293474,
+      "word": "腾讯张军回应马化腾截图刷屏",
+      "onboard_time": 1685692107,
+      "rank": 17,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 292871,
@@ -1708,11 +1732,19 @@
     },
     {
       "raw_hot": 286215,
-      "num": 204131,
+      "num": 207550,
       "word": "Amber听到谢娜第一的反应",
       "onboard_time": 1685687607,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 284396,
+      "num": 187405,
+      "word": "四川大学回应女博士生介入导师婚姻",
+      "onboard_time": 1685694568,
+      "rank": 31,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 284219,
@@ -1787,6 +1819,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 276491,
+      "num": 214068,
+      "word": "吴世勋更新EXO拍摄现场照",
+      "onboard_time": 1685690067,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 272868,
       "num": 272868,
       "word": "儿童节快乐",
@@ -1844,7 +1884,7 @@
     },
     {
       "raw_hot": 263179,
-      "num": 205113,
+      "num": 212364,
       "word": "肖战梦中的那片海招商全满",
       "onboard_time": 1685691206,
       "rank": 43,
@@ -1913,6 +1953,14 @@
       "onboard_time": 1685621609,
       "rank": 29,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 257261,
+      "num": 257261,
+      "word": "梦中的那片海首播好多冠军",
+      "onboard_time": 1685692767,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 257080,
@@ -2011,14 +2059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251698,
-      "num": 204356,
-      "word": "吴世勋更新EXO拍摄现场照",
-      "onboard_time": 1685690067,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 250152,
       "num": 250152,
       "word": "阿根廷中国行票价",
@@ -2065,6 +2105,14 @@
       "onboard_time": 1685598687,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243152,
+      "num": 328873,
+      "word": "黄晓明救了我的手机",
+      "onboard_time": 1685693187,
+      "rank": 38,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 242977,
@@ -2139,28 +2187,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 237985,
-      "num": 181665,
-      "word": "王诗龄说好久不见何炅",
-      "onboard_time": 1685693370,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 237850,
       "num": 204821,
       "word": "浙江12岁高马尾男孩坐拥千万粉丝",
       "onboard_time": 1685689228,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 236605,
-      "num": 236605,
-      "word": "种地吧十个勤天微博扫楼",
-      "onboard_time": 1685693668,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 236374,
@@ -2356,7 +2388,7 @@
     },
     {
       "raw_hot": 216364,
-      "num": 183187,
+      "num": 187688,
       "word": "731部队新罪证首次公开",
       "onboard_time": 1685690427,
       "rank": 24,
@@ -2369,14 +2401,6 @@
       "onboard_time": 1685666070,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 215662,
-      "num": 215662,
-      "word": "腾讯张军回应马化腾截图刷屏",
-      "onboard_time": 1685692107,
-      "rank": 17,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 215531,
@@ -2401,6 +2425,14 @@
       "onboard_time": 1685628752,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 214519,
+      "num": 214519,
+      "word": "真的佩服塞尔达剧情党",
+      "onboard_time": 1685694028,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 213377,
@@ -2473,14 +2505,6 @@
       "onboard_time": 1685547628,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 209432,
-      "num": 209432,
-      "word": "梦中的那片海首播好多冠军",
-      "onboard_time": 1685692767,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 207317,
@@ -2747,6 +2771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187155,
+      "num": 187155,
+      "word": "王栎鑫自驾上班被保安拦",
+      "onboard_time": 1685694510,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187061,
       "num": 187061,
       "word": "吴谢宇 三联",
@@ -2891,6 +2923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 173946,
+      "num": 173946,
+      "word": "周杰伦都没你们懂简单爱",
+      "onboard_time": 1685693127,
+      "rank": 34,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 172903,
       "num": 172903,
       "word": "请张彬彬不要随意解衬衫",
@@ -3008,6 +3048,14 @@
       "word": "真实影像揭露境外高薪务工骗局",
       "onboard_time": 1685615248,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165134,
+      "num": 165134,
+      "word": "陌生男子一脚踩死怀孕猫咪",
+      "onboard_time": 1685694748,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -3220,19 +3268,11 @@
     },
     {
       "raw_hot": 149357,
-      "num": 126828,
+      "num": 140384,
       "word": "易烊千玺祝福语",
       "onboard_time": 1685692588,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 149246,
-      "num": 149246,
-      "word": "周杰伦都没你们懂简单爱",
-      "onboard_time": 1685693127,
-      "rank": 34,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 148757,
@@ -3289,6 +3329,14 @@
       "onboard_time": 1685673328,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 141747,
+      "num": 141747,
+      "word": "这是他第一次见到已满2岁半的儿子",
+      "onboard_time": 1685693726,
+      "rank": 44,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 141254,
@@ -3451,14 +3499,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 129522,
-      "num": 129522,
-      "word": "黄晓明救了我的手机",
-      "onboard_time": 1685693187,
-      "rank": 38,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 129070,
       "num": 129070,
       "word": "观众称花千元在演唱会上看柱子",
@@ -3505,6 +3545,14 @@
       "onboard_time": 1685593589,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 125205,
+      "num": 125205,
+      "word": "贾静雯仙品侧颜",
+      "onboard_time": 1685693909,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 124695,
@@ -3641,14 +3689,6 @@
       "onboard_time": 1685636187,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 111188,
-      "num": 111188,
-      "word": "这是他第一次见到已满2岁半的儿子",
-      "onboard_time": 1685693726,
-      "rank": 44,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 111139,
@@ -3809,6 +3849,14 @@
       "onboard_time": 1685683768,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90246,
+      "num": 210780,
+      "word": "姐姐们的多巴胺穿搭",
+      "onboard_time": 1685691867,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 89808,
@@ -4003,14 +4051,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 67766,
-      "num": 203868,
-      "word": "姐姐们的多巴胺穿搭",
-      "onboard_time": 1685691867,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 65719,
       "num": 1319459,
       "word": "打卡中国",
@@ -4163,6 +4203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32933,
+      "num": 331124,
+      "word": "14岁少年捡到4岁娃帮忙找妈妈",
+      "onboard_time": 1685684252,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31905,
       "num": 36535,
       "word": "周深璀璨冒险人舞美寓意",
@@ -4249,6 +4297,14 @@
       "onboard_time": 1685633551,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5264,
+      "num": 1057283,
+      "word": "神舟十六号飞天全回顾",
+      "onboard_time": 1685694809,
+      "rank": 2,
+      "category": "社会新闻,科技"
     }
   ],
   "hotgov_list": [
@@ -4278,6 +4334,9 @@
     },
     {
       "word": "#设计建造大型邮轮靠的是强大国力#"
+    },
+    {
+      "word": "#加快建设高质量教育体系#"
     }
   ]
 }
