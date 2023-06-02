@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685694819820,
+  "endTime": 1685697384294,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -121,6 +121,14 @@
       "onboard_time": 1685603186,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1599805,
+      "num": 1599805,
+      "word": "高校回应女博士毕业答辩争议",
+      "onboard_time": 1685691446,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1437497,
@@ -355,14 +363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1051318,
-      "num": 1051318,
-      "word": "高校回应女博士毕业答辩争议",
-      "onboard_time": 1685691446,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 1044269,
       "num": 940496,
       "word": "ChatGPT高三考试仅物理得零分",
@@ -395,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 977312,
+      "num": 977312,
+      "word": "林志玲说是她跟Akira求婚的",
+      "onboard_time": 1685690966,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 963621,
       "num": 323171,
       "word": "张宝儿官宣怀孕",
@@ -409,14 +417,6 @@
       "onboard_time": 1685596649,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 962568,
-      "num": 962568,
-      "word": "林志玲说是她跟Akira求婚的",
-      "onboard_time": 1685690966,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 955471,
@@ -459,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 873035,
+      "num": 873035,
+      "word": "黄晓明救了我的手机",
+      "onboard_time": 1685693187,
+      "rank": 38,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 855032,
       "num": 855032,
       "word": "肖战刘芮麟新剧演兄弟",
@@ -473,6 +481,14 @@
       "onboard_time": 1685670148,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 827838,
+      "num": 827838,
+      "word": "四川大学回应女博士生介入导师婚姻",
+      "onboard_time": 1685694568,
+      "rank": 31,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 827541,
@@ -899,6 +915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 524091,
+      "num": 164287,
+      "word": "顾姓老师已调离华南理工",
+      "onboard_time": 1685696908,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 519751,
       "num": 519751,
       "word": "宋妍霏对王嘉尔的小动作",
@@ -1017,6 +1041,14 @@
       "onboard_time": 1685633909,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 445550,
+      "num": 367282,
+      "word": "王诗龄说好久不见何炅",
+      "onboard_time": 1685693370,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 435195,
@@ -1323,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356298,
+      "num": 356298,
+      "word": "王栎鑫自驾上班被保安拦",
+      "onboard_time": 1685694510,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353500,
       "num": 353500,
       "word": "特朗普回应拜登又摔了",
@@ -1395,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 339556,
+      "num": 263323,
+      "word": "为什么反对男艺人过度撸铁",
+      "onboard_time": 1685694867,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 338796,
       "num": 338796,
       "word": "花戎",
@@ -1424,14 +1472,6 @@
       "word": "杨幂抱着蜜蜂玩偶",
       "onboard_time": 1685589627,
       "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 336564,
-      "num": 187628,
-      "word": "王诗龄说好久不见何炅",
-      "onboard_time": 1685693370,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -1515,6 +1555,14 @@
       "category": "网红,游戏"
     },
     {
+      "raw_hot": 319691,
+      "num": 260719,
+      "word": "陌生男子一脚踩死怀孕猫咪",
+      "onboard_time": 1685694748,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314350,
       "num": 257987,
       "word": "肖春生给贺红玲吹口琴",
@@ -1577,6 +1625,14 @@
       "onboard_time": 1685676746,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 302799,
+      "num": 302799,
+      "word": "腾讯张军回应马化腾截图刷屏",
+      "onboard_time": 1685692107,
+      "rank": 17,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 302077,
@@ -1651,12 +1707,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 293474,
-      "num": 293474,
-      "word": "腾讯张军回应马化腾截图刷屏",
-      "onboard_time": 1685692107,
-      "rank": 17,
-      "category": "科技,社会新闻"
+      "raw_hot": 294589,
+      "num": 294589,
+      "word": "内娱果然离不开85花",
+      "onboard_time": 1685696188,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 292871,
@@ -1739,14 +1795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 284396,
-      "num": 187405,
-      "word": "四川大学回应女博士生介入导师婚姻",
-      "onboard_time": 1685694568,
-      "rank": 31,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 284219,
       "num": 284219,
       "word": "被贴吧盗图造谣女生本人发声",
@@ -1761,6 +1809,14 @@
       "onboard_time": 1685619325,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282924,
+      "num": 282924,
+      "word": "梦中的那片海首播好多冠军",
+      "onboard_time": 1685692767,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 279256,
@@ -1955,14 +2011,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 257261,
-      "num": 257261,
-      "word": "梦中的那片海首播好多冠军",
-      "onboard_time": 1685692767,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 257080,
       "num": 257080,
       "word": "王源我有一天来鸟巢",
@@ -2105,14 +2153,6 @@
       "onboard_time": 1685598687,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 243152,
-      "num": 328873,
-      "word": "黄晓明救了我的手机",
-      "onboard_time": 1685693187,
-      "rank": 38,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 242977,
@@ -2459,6 +2499,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 211654,
+      "num": 211654,
+      "word": "只有考研生才知道的梗",
+      "onboard_time": 1685695288,
+      "rank": 23,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 211103,
       "num": 211103,
       "word": "白敬亭给自己P了个眼镜",
@@ -2771,12 +2819,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187155,
-      "num": 187155,
-      "word": "王栎鑫自驾上班被保安拦",
-      "onboard_time": 1685694510,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 187392,
+      "num": 160825,
+      "word": "迪丽热巴解释形只影单",
+      "onboard_time": 1685697092,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 187061,
@@ -2857,6 +2905,14 @@
       "onboard_time": 1685606007,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 182423,
+      "num": 160621,
+      "word": "蚂蚁居然看不到人",
+      "onboard_time": 1685695168,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 182134,
@@ -2979,6 +3035,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170738,
+      "num": 200304,
+      "word": "安徽事业单位",
+      "onboard_time": 1685696067,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 170494,
+      "num": 170494,
+      "word": "中国邮政",
+      "onboard_time": 1685697148,
+      "rank": 27,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 169464,
       "num": 169464,
       "word": "肖战粉丝花式宣传梦中的那片海",
@@ -3009,6 +3081,14 @@
       "onboard_time": 1685587405,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167688,
+      "num": 167688,
+      "word": "肖战语文课本同款手套",
+      "onboard_time": 1685695466,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 166865,
@@ -3051,18 +3131,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165134,
-      "num": 165134,
-      "word": "陌生男子一脚踩死怀孕猫咪",
-      "onboard_time": 1685694748,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165025,
       "num": 468634,
       "word": "晒晒你的六一小餐桌",
       "onboard_time": 1685588427,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164566,
+      "num": 331124,
+      "word": "14岁少年捡到4岁娃帮忙找妈妈",
+      "onboard_time": 1685684252,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -3347,6 +3427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 141022,
+      "num": 141022,
+      "word": "原来德智体美的美不是美术",
+      "onboard_time": 1685696486,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140860,
       "num": 133367,
       "word": "TFBOYS这几年到底发生了什么",
@@ -3547,6 +3635,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 126055,
+      "num": 126055,
+      "word": "如果月入三万你愿意去送外卖吗",
+      "onboard_time": 1685696548,
+      "rank": 41,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 125205,
       "num": 125205,
       "word": "贾静雯仙品侧颜",
@@ -3617,6 +3713,14 @@
       "onboard_time": 1685599887,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118387,
+      "num": 118387,
+      "word": "批判学术妲己更要讨伐学术纣王",
+      "onboard_time": 1685697267,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 117805,
@@ -4107,6 +4211,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 53122,
+      "num": 1014542,
+      "word": "长江金色航道百舸争流好壮美",
+      "onboard_time": 1685694989,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51295,
       "num": 51295,
       "word": "班主任带着学生做了5年公益",
@@ -4203,14 +4315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32933,
-      "num": 331124,
-      "word": "14岁少年捡到4岁娃帮忙找妈妈",
-      "onboard_time": 1685684252,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 31905,
       "num": 36535,
       "word": "周深璀璨冒险人舞美寓意",
@@ -4257,6 +4361,14 @@
       "onboard_time": 1685559674,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 22971,
+      "num": 297963,
+      "word": "实习民警雨夜连救2名轻生者",
+      "onboard_time": 1685696486,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21272,

@@ -1,6 +1,6 @@
 {
   "startTime": 1685636689541,
-  "endTime": 1685694819820,
+  "endTime": 1685697384294,
   "band_list": [
     {
       "raw_hot": 2336194,
@@ -25,6 +25,14 @@
       "onboard_time": 1685669608,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1599805,
+      "num": 1599805,
+      "word": "高校回应女博士毕业答辩争议",
+      "onboard_time": 1685691446,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1407080,
@@ -107,14 +115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1051318,
-      "num": 1051318,
-      "word": "高校回应女博士毕业答辩争议",
-      "onboard_time": 1685691446,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 1037446,
       "num": 229258,
       "word": "四川大学 答辩",
@@ -131,20 +131,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 977312,
+      "num": 977312,
+      "word": "林志玲说是她跟Akira求婚的",
+      "onboard_time": 1685690966,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 963621,
       "num": 323171,
       "word": "张宝儿官宣怀孕",
       "onboard_time": 1685666550,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 962568,
-      "num": 962568,
-      "word": "林志玲说是她跟Akira求婚的",
-      "onboard_time": 1685690966,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 955471,
@@ -163,12 +163,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 873035,
+      "num": 873035,
+      "word": "黄晓明救了我的手机",
+      "onboard_time": 1685693187,
+      "rank": 38,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 837359,
       "num": 837359,
       "word": "何炅王诗龄合照",
       "onboard_time": 1685670148,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 827838,
+      "num": 827838,
+      "word": "四川大学回应女博士生介入导师婚姻",
+      "onboard_time": 1685694568,
+      "rank": 31,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 826537,
@@ -355,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 524091,
+      "num": 164287,
+      "word": "顾姓老师已调离华南理工",
+      "onboard_time": 1685696908,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 468495,
       "num": 468495,
       "word": "公诉收视率",
@@ -393,6 +417,14 @@
       "onboard_time": 1685633909,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 445550,
+      "num": 367282,
+      "word": "王诗龄说好久不见何炅",
+      "onboard_time": 1685693370,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 444065,
@@ -515,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356298,
+      "num": 356298,
+      "word": "王栎鑫自驾上班被保安拦",
+      "onboard_time": 1685694510,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353500,
       "num": 353500,
       "word": "特朗普回应拜登又摔了",
@@ -539,12 +579,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 336564,
-      "num": 187628,
-      "word": "王诗龄说好久不见何炅",
-      "onboard_time": 1685693370,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 339556,
+      "num": 263323,
+      "word": "为什么反对男艺人过度撸铁",
+      "onboard_time": 1685694867,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 330433,
@@ -571,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 319691,
+      "num": 260719,
+      "word": "陌生男子一脚踩死怀孕猫咪",
+      "onboard_time": 1685694748,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313754,
       "num": 313754,
       "word": "外卖员摔伤同行不顾订单超时伸援手",
@@ -595,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302799,
+      "num": 302799,
+      "word": "腾讯张军回应马化腾截图刷屏",
+      "onboard_time": 1685692107,
+      "rank": 17,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 301987,
       "num": 301987,
       "word": "练车两分钟就疲劳驾驶了",
@@ -603,12 +659,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 293474,
-      "num": 293474,
-      "word": "腾讯张军回应马化腾截图刷屏",
-      "onboard_time": 1685692107,
-      "rank": 17,
-      "category": "科技,社会新闻"
+      "raw_hot": 294589,
+      "num": 294589,
+      "word": "内娱果然离不开85花",
+      "onboard_time": 1685696188,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 292800,
@@ -643,20 +699,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 284396,
-      "num": 187405,
-      "word": "四川大学回应女博士生介入导师婚姻",
-      "onboard_time": 1685694568,
-      "rank": 31,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 284219,
       "num": 284219,
       "word": "被贴吧盗图造谣女生本人发声",
       "onboard_time": 1685660899,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282924,
+      "num": 282924,
+      "word": "梦中的那片海首播好多冠军",
+      "onboard_time": 1685692767,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 279256,
@@ -763,14 +819,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 257261,
-      "num": 257261,
-      "word": "梦中的那片海首播好多冠军",
-      "onboard_time": 1685692767,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 257080,
       "num": 257080,
       "word": "王源我有一天来鸟巢",
@@ -793,14 +841,6 @@
       "onboard_time": 1685662943,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 243152,
-      "num": 328873,
-      "word": "黄晓明救了我的手机",
-      "onboard_time": 1685693187,
-      "rank": 38,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 238102,
@@ -921,6 +961,14 @@
       "onboard_time": 1685694028,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 211654,
+      "num": 211654,
+      "word": "只有考研生才知道的梗",
+      "onboard_time": 1685695288,
+      "rank": 23,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 210047,
@@ -1059,12 +1107,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 187155,
-      "num": 187155,
-      "word": "王栎鑫自驾上班被保安拦",
-      "onboard_time": 1685694510,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 187392,
+      "num": 160825,
+      "word": "迪丽热巴解释形只影单",
+      "onboard_time": 1685697092,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 186145,
@@ -1073,6 +1121,14 @@
       "onboard_time": 1685650032,
       "rank": 30,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 182423,
+      "num": 160621,
+      "word": "蚂蚁居然看不到人",
+      "onboard_time": 1685695168,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 181743,
@@ -1147,12 +1203,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170738,
+      "num": 200304,
+      "word": "安徽事业单位",
+      "onboard_time": 1685696067,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 170494,
+      "num": 170494,
+      "word": "中国邮政",
+      "onboard_time": 1685697148,
+      "rank": 27,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 169057,
       "num": 169057,
       "word": "人生过百的秘密或在肠道细菌",
       "onboard_time": 1685692649,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167688,
+      "num": 167688,
+      "word": "肖战语文课本同款手套",
+      "onboard_time": 1685695466,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 166515,
@@ -1179,11 +1259,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 165134,
-      "num": 165134,
-      "word": "陌生男子一脚踩死怀孕猫咪",
-      "onboard_time": 1685694748,
-      "rank": 36,
+      "raw_hot": 164566,
+      "num": 331124,
+      "word": "14岁少年捡到4岁娃帮忙找妈妈",
+      "onboard_time": 1685684252,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1339,6 +1419,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 141022,
+      "num": 141022,
+      "word": "原来德智体美的美不是美术",
+      "onboard_time": 1685696486,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140829,
       "num": 140829,
       "word": "红楼梦舞剧",
@@ -1451,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126055,
+      "num": 126055,
+      "word": "如果月入三万你愿意去送外卖吗",
+      "onboard_time": 1685696548,
+      "rank": 41,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 125205,
       "num": 125205,
       "word": "贾静雯仙品侧颜",
@@ -1497,6 +1593,14 @@
       "onboard_time": 1685624491,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 118387,
+      "num": 118387,
+      "word": "批判学术妲己更要讨伐学术纣王",
+      "onboard_time": 1685697267,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 115215,
@@ -1755,6 +1859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53122,
+      "num": 1014542,
+      "word": "长江金色航道百舸争流好壮美",
+      "onboard_time": 1685694989,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52440,
       "num": 81959,
       "word": "WBG对战JDG",
@@ -1811,10 +1923,10 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32933,
-      "num": 331124,
-      "word": "14岁少年捡到4岁娃帮忙找妈妈",
-      "onboard_time": 1685684252,
+      "raw_hot": 22971,
+      "num": 297963,
+      "word": "实习民警雨夜连救2名轻生者",
+      "onboard_time": 1685696486,
       "rank": 14,
       "category": "社会新闻"
     },

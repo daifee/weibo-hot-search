@@ -1,0 +1,410 @@
+{
+  "runTime": 1685697384294,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1599805,
+        "num": 1599805,
+        "word": "高校回应女博士毕业答辩争议",
+        "onboard_time": 1685691446,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1179086,
+        "num": 1179086,
+        "word": "老伴走后第二天浙大老教师又去捡垃圾了",
+        "onboard_time": 1685690547,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53122,
+        "num": 1014542,
+        "word": "长江金色航道百舸争流好壮美",
+        "onboard_time": 1685694989,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 977312,
+        "num": 977312,
+        "word": "林志玲说是她跟Akira求婚的",
+        "onboard_time": 1685690966,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 873035,
+        "num": 873035,
+        "word": "黄晓明救了我的手机",
+        "onboard_time": 1685693187,
+        "rank": 4,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 863035,
+        "num": 863035,
+        "word": "陶白白你自己算到了吗",
+        "onboard_time": 1685691267,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 827838,
+        "num": 827838,
+        "word": "四川大学回应女博士生介入导师婚姻",
+        "onboard_time": 1685694568,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 819893,
+        "num": 819893,
+        "word": "吴倩没有镜头",
+        "onboard_time": 1685689167,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 591516,
+        "num": 591516,
+        "word": "王鹤棣要去泰国录跑男",
+        "onboard_time": 1685682993,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372692,
+        "num": 372692,
+        "word": "五月天因为余佳运不再当音乐节目评委",
+        "onboard_time": 1685689767,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 712332,
+        "num": 367822,
+        "word": "夫妻入职300家公司骗工资60万",
+        "onboard_time": 1685682035,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445550,
+        "num": 367282,
+        "word": "王诗龄说好久不见何炅",
+        "onboard_time": 1685693370,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356298,
+        "num": 356298,
+        "word": "王栎鑫自驾上班被保安拦",
+        "onboard_time": 1685694510,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302799,
+        "num": 302799,
+        "word": "腾讯张军回应马化腾截图刷屏",
+        "onboard_time": 1685692107,
+        "rank": 13,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 22971,
+        "num": 297963,
+        "word": "实习民警雨夜连救2名轻生者",
+        "onboard_time": 1685696486,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295951,
+        "num": 295951,
+        "word": "杨丞琳李荣浩贴脸照",
+        "onboard_time": 1685690848,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294589,
+        "num": 294589,
+        "word": "内娱果然离不开85花",
+        "onboard_time": 1685696188,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284116,
+        "num": 284116,
+        "word": "谢娜二公第一",
+        "onboard_time": 1685680296,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282924,
+        "num": 282924,
+        "word": "梦中的那片海首播好多冠军",
+        "onboard_time": 1685692767,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192001,
+        "num": 263694,
+        "word": "毕业后租一辈子房可行吗",
+        "onboard_time": 1685685389,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339556,
+        "num": 263323,
+        "word": "为什么反对男艺人过度撸铁",
+        "onboard_time": 1685694867,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319691,
+        "num": 260719,
+        "word": "陌生男子一脚踩死怀孕猫咪",
+        "onboard_time": 1685694748,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257798,
+        "num": 257798,
+        "word": "种地吧十个勤天微博扫楼",
+        "onboard_time": 1685693668,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211654,
+        "num": 211654,
+        "word": "只有考研生才知道的梗",
+        "onboard_time": 1685695288,
+        "rank": 23,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 170738,
+        "num": 200304,
+        "word": "安徽事业单位",
+        "onboard_time": 1685696067,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 197268,
+        "num": 197268,
+        "word": "五月天玫瑰少年场控",
+        "onboard_time": 1685691506,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180313,
+        "num": 180313,
+        "word": "吴世勋更新EXO拍摄现场照",
+        "onboard_time": 1685690067,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170494,
+        "num": 170494,
+        "word": "中国邮政",
+        "onboard_time": 1685697148,
+        "rank": 27,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 167688,
+        "num": 167688,
+        "word": "肖战语文课本同款手套",
+        "onboard_time": 1685695466,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164566,
+        "num": 164566,
+        "word": "14岁少年捡到4岁娃帮忙找妈妈",
+        "onboard_time": 1685684252,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524091,
+        "num": 164287,
+        "word": "顾姓老师已调离华南理工",
+        "onboard_time": 1685696908,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 187392,
+        "num": 160825,
+        "word": "迪丽热巴解释形只影单",
+        "onboard_time": 1685697092,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182423,
+        "num": 160621,
+        "word": "蚂蚁居然看不到人",
+        "onboard_time": 1685695168,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152957,
+        "num": 152957,
+        "word": "男生去理发店只有三句话",
+        "onboard_time": 1685692046,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162778,
+        "num": 152803,
+        "word": "Amber听到谢娜第一的反应",
+        "onboard_time": 1685687607,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148998,
+        "num": 148998,
+        "word": "总有人在替这个世界缝缝补补",
+        "onboard_time": 1685693608,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144656,
+        "num": 144656,
+        "word": "浙江12岁高马尾男孩坐拥千万粉丝",
+        "onboard_time": 1685689228,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143781,
+        "num": 143781,
+        "word": "周杰伦都没你们懂简单爱",
+        "onboard_time": 1685693127,
+        "rank": 37,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 141569,
+        "num": 141569,
+        "word": "肖战梦中的那片海招商全满",
+        "onboard_time": 1685691206,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141022,
+        "num": 141022,
+        "word": "原来德智体美的美不是美术",
+        "onboard_time": 1685696486,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135435,
+        "num": 135435,
+        "word": "被骗到缅甸6小伙已被解救",
+        "onboard_time": 1685669608,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126055,
+        "num": 126055,
+        "word": "如果月入三万你愿意去送外卖吗",
+        "onboard_time": 1685696548,
+        "rank": 41,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 121188,
+        "num": 121188,
+        "word": "易烊千玺祝福语",
+        "onboard_time": 1685692588,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118387,
+        "num": 118387,
+        "word": "批判学术妲己更要讨伐学术纣王",
+        "onboard_time": 1685697267,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117328,
+        "num": 117328,
+        "word": "贾静雯仙品侧颜",
+        "onboard_time": 1685693909,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112129,
+        "num": 112129,
+        "word": "多次感染对身体的危害有多大",
+        "onboard_time": 1685677468,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111945,
+        "num": 111945,
+        "word": "731部队新罪证首次公开",
+        "onboard_time": 1685690427,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104724,
+        "num": 104724,
+        "word": "SMTOWN自动续约条款",
+        "onboard_time": 1685685749,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76099,
+        "num": 101891,
+        "word": "真的佩服塞尔达剧情党",
+        "onboard_time": 1685694028,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 70053,
+        "num": 101758,
+        "word": "一梦江湖",
+        "onboard_time": 1685693066,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#设计建造大型邮轮靠的是强大国力#"
+    }
+  }
+}
