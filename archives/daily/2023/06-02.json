@@ -1,6 +1,6 @@
 {
   "startTime": 1685636689541,
-  "endTime": 1685686884317,
+  "endTime": 1685687639911,
   "band_list": [
     {
       "raw_hot": 2336194,
@@ -81,6 +81,14 @@
       "onboard_time": 1685675128,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 981146,
+      "num": 981146,
+      "word": "学校正核查学术妲己事件",
+      "onboard_time": 1685686708,
+      "rank": 31,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 963621,
@@ -168,6 +176,14 @@
       "word": "柳州与女子不雅聊天公职人员被免职",
       "onboard_time": 1685624428,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 639707,
+      "num": 410396,
+      "word": "章莹颖遇害六年后",
+      "onboard_time": 1685685329,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -347,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429203,
+      "num": 429203,
+      "word": "王鹤棣要去泰国录跑男",
+      "onboard_time": 1685682993,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 418719,
       "num": 418719,
       "word": "NBA总决赛",
@@ -371,20 +395,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 417306,
-      "num": 264735,
-      "word": "王鹤棣要去泰国录跑男",
-      "onboard_time": 1685682993,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 412607,
-      "num": 366132,
+      "num": 395880,
       "word": "北航已经有三名航天员了",
       "onboard_time": 1685684132,
       "rank": 10,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 411906,
+      "num": 411906,
+      "word": "毕业后租一辈子房可行吗",
+      "onboard_time": 1685685389,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 404400,
@@ -411,6 +435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 388697,
+      "num": 388697,
+      "word": "SMTOWN自动续约条款",
+      "onboard_time": 1685685749,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 374320,
       "num": 351036,
       "word": "女生穿婚纱看王源演唱会系盗图造谣",
@@ -423,14 +455,6 @@
       "num": 220594,
       "word": "男童不慎将玩具甩进邻桌火锅烫到婴儿",
       "onboard_time": 1685664867,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 358312,
-      "num": 223336,
-      "word": "毕业后租一辈子房可行吗",
-      "onboard_time": 1685685389,
       "rank": 21,
       "category": "社会新闻"
     },
@@ -465,14 +489,6 @@
       "onboard_time": 1685675069,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 321045,
-      "num": 321045,
-      "word": "章莹颖遇害六年后",
-      "onboard_time": 1685685329,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 313754,
@@ -529,14 +545,6 @@
       "onboard_time": 1685624848,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 289026,
-      "num": 289026,
-      "word": "SMTOWN自动续约条款",
-      "onboard_time": 1685685749,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 284219,
@@ -596,7 +604,7 @@
     },
     {
       "raw_hot": 262613,
-      "num": 215481,
+      "num": 248291,
       "word": "金晨无眼妆封面",
       "onboard_time": 1685685389,
       "rank": 24,
@@ -627,6 +635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 256897,
+      "num": 262246,
+      "word": "Amber芝芙抢山河图",
+      "onboard_time": 1685683592,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254153,
       "num": 254153,
       "word": "赵丽颖算不算天赋型演员",
@@ -651,20 +667,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 231988,
-      "num": 262246,
-      "word": "Amber芝芙抢山河图",
-      "onboard_time": 1685683592,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 230252,
       "num": 161388,
       "word": "河南人和山东人都别沉默了",
       "onboard_time": 1685620466,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229973,
+      "num": 212624,
+      "word": "互送手机壳 戒手机",
+      "onboard_time": 1685686886,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 228043,
@@ -865,14 +881,6 @@
       "onboard_time": 1685672907,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 180309,
-      "num": 180309,
-      "word": "学校正核查学术妲己事件",
-      "onboard_time": 1685686708,
-      "rank": 31,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 178936,
@@ -1163,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127935,
+      "num": 127935,
+      "word": "时代少年团或将拍剧",
+      "onboard_time": 1685684611,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 127402,
       "num": 351697,
       "word": "4岁男童路过纪念碑跑着上前敬礼",
@@ -1227,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111962,
+      "num": 111962,
+      "word": "网购的第一件东西还能买到吗",
+      "onboard_time": 1685687247,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111453,
       "num": 257811,
       "word": "当有人说去缅北挣大钱你会怎么做",
@@ -1283,20 +1307,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 106736,
-      "num": 106736,
-      "word": "时代少年团或将拍剧",
-      "onboard_time": 1685684611,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 106393,
       "num": 106393,
       "word": "货车起火加油站员工飞奔扑救",
       "onboard_time": 1685669425,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106013,
+      "num": 106013,
+      "word": "Amber听到谢娜第一的反应",
+      "onboard_time": 1685687607,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 104308,
@@ -1451,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45439,
+      "num": 354654,
+      "word": "57岁北漂阿姨白天当保洁晚上做画家",
+      "onboard_time": 1685686469,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44761,
       "num": 294805,
       "word": "男子被困高楼外众人砸窗救援",
@@ -1473,14 +1505,6 @@
       "onboard_time": 1685656994,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 14038,
-      "num": 313863,
-      "word": "57岁北漂阿姨白天当保洁晚上做画家",
-      "onboard_time": 1685686469,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13388,
