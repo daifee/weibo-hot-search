@@ -1,0 +1,410 @@
+{
+  "runTime": 1685671716874,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1345825,
+        "num": 1345825,
+        "word": "跑步的多巴胺仅次于谈恋爱",
+        "onboard_time": 1685664568,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1267790,
+        "num": 1267790,
+        "word": "千万不要觉得成绩已经定型了",
+        "onboard_time": 1685664687,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 46721,
+        "num": 901009,
+        "word": "这群幕后航天人对代码有着极致追求",
+        "onboard_time": 1685633730,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837359,
+        "num": 837359,
+        "word": "何炅王诗龄合照",
+        "onboard_time": 1685670148,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 710768,
+        "num": 710768,
+        "word": "专家称不排除二阳后还会有三阳",
+        "onboard_time": 1685630192,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533714,
+        "num": 533714,
+        "word": "被骗到缅甸6小伙已被解救",
+        "onboard_time": 1685669608,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405710,
+        "num": 405710,
+        "word": "NBA总决赛",
+        "onboard_time": 1685666971,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373409,
+        "num": 373409,
+        "word": "早知道烂厂里了",
+        "onboard_time": 1685632591,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 364514,
+        "num": 364514,
+        "word": "Jennie在香奈儿表演",
+        "onboard_time": 1685665649,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 334132,
+        "num": 334132,
+        "word": "我其实是一只水母 装成人的模样社交",
+        "onboard_time": 1685660781,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 564661,
+        "num": 324726,
+        "word": "谢谢王源的站姐",
+        "onboard_time": 1685667629,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 349070,
+        "num": 309649,
+        "word": "迪丽热巴为后援会十周年送祝福",
+        "onboard_time": 1685667990,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293321,
+        "num": 293321,
+        "word": "五月天演唱会为何一票难求",
+        "onboard_time": 1685663244,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 282477,
+        "num": 282477,
+        "word": "三分野",
+        "onboard_time": 1685662161,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231441,
+        "num": 231441,
+        "word": "练车两分钟就疲劳驾驶了",
+        "onboard_time": 1685663666,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1037446,
+        "num": 229258,
+        "word": "四川大学 答辩",
+        "onboard_time": 1685669667,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226411,
+        "num": 226411,
+        "word": "被贴吧盗图造谣女生本人发声",
+        "onboard_time": 1685660899,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216094,
+        "num": 216094,
+        "word": "江苏南通",
+        "onboard_time": 1685666070,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204021,
+        "num": 204021,
+        "word": "司机倒车坠河他们一个个冲了过来",
+        "onboard_time": 1685667149,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203221,
+        "num": 203221,
+        "word": "还没有一个人有我全部的账号",
+        "onboard_time": 1685660781,
+        "rank": 19,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 304065,
+        "num": 202855,
+        "word": "江苏南通发生命案两人遇害",
+        "onboard_time": 1685662523,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279887,
+        "num": 202136,
+        "word": "男童不慎将玩具甩进邻桌火锅烫到婴儿",
+        "onboard_time": 1685664867,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238102,
+        "num": 201489,
+        "word": "肖战肖春生好大一滴泪",
+        "onboard_time": 1685668827,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206817,
+        "num": 201217,
+        "word": "奥本海默定为R级",
+        "onboard_time": 1685669367,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200784,
+        "num": 200784,
+        "word": "赵丽颖算不算天赋型演员",
+        "onboard_time": 1685662943,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189751,
+        "num": 189751,
+        "word": "如何看待不雅聊天公职人员被免职",
+        "onboard_time": 1685668768,
+        "rank": 25,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 188705,
+        "num": 188705,
+        "word": "热火vs掘金",
+        "onboard_time": 1685667572,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174488,
+        "num": 174488,
+        "word": "五月天武汉",
+        "onboard_time": 1685669425,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171687,
+        "num": 171687,
+        "word": "吉尼斯你别太离谱",
+        "onboard_time": 1685671107,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 562555,
+        "num": 171570,
+        "word": "王诗龄晒健身照",
+        "onboard_time": 1685626290,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1003065,
+        "num": 170381,
+        "word": "拜登又摔了",
+        "onboard_time": 1685661321,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 669807,
+        "num": 169208,
+        "word": "顾成 苏艳",
+        "onboard_time": 1685666971,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197589,
+        "num": 168219,
+        "word": "你怎么看待学术妲己这个词",
+        "onboard_time": 1685667269,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 963621,
+        "num": 167100,
+        "word": "张宝儿官宣怀孕",
+        "onboard_time": 1685666550,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166515,
+        "num": 166515,
+        "word": "对这种玩笑永远不要笑",
+        "onboard_time": 1685660781,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166205,
+        "num": 166205,
+        "word": "网传老人在高铁上用菜刀削苹果",
+        "onboard_time": 1685636187,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161241,
+        "num": 161241,
+        "word": "王源我有一天来鸟巢",
+        "onboard_time": 1685670926,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148863,
+        "num": 148863,
+        "word": "哪些消费是智商税",
+        "onboard_time": 1685668707,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142622,
+        "num": 142622,
+        "word": "知道的以为你是追姑娘",
+        "onboard_time": 1685633909,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136000,
+        "num": 136000,
+        "word": "开空调省电的办法",
+        "onboard_time": 1685670568,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128790,
+        "num": 128790,
+        "word": "掘金半场领先热火17分",
+        "onboard_time": 1685671648,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126615,
+        "num": 126615,
+        "word": "女生穿婚纱看王源演唱会系盗图造谣",
+        "onboard_time": 1685631631,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 123251,
+        "num": 123251,
+        "word": "梦中的那片海制片人缅怀付宁导演",
+        "onboard_time": 1685663425,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121543,
+        "num": 121543,
+        "word": "代号鸢",
+        "onboard_time": 1685662403,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116830,
+        "num": 116830,
+        "word": "假如一觉睡醒回到了高中时期",
+        "onboard_time": 1685670148,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106563,
+        "num": 106563,
+        "word": "五月天王源合唱",
+        "onboard_time": 1685625570,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 106099,
+        "num": 106099,
+        "word": "辛选主播将成人喝的牛奶推荐给孩子",
+        "onboard_time": 1685637862,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103830,
+        "num": 103830,
+        "word": "易烊千玺灯牌线上店铺被投诉",
+        "onboard_time": 1685643554,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94445,
+        "num": 103702,
+        "word": "目睹活鱼店老板进货冻鱼",
+        "onboard_time": 1685632769,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94368,
+        "num": 103610,
+        "word": "秦意浓 唐若遥",
+        "onboard_time": 1685638041,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记寄语孩子们#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685670449660,
+  "endTime": 1685671716874,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1267790,
+      "num": 1267790,
+      "word": "千万不要觉得成绩已经定型了",
+      "onboard_time": 1685664687,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1267506,
       "num": 1267506,
       "word": "EXO是我们公司非常珍惜的艺人",
@@ -225,14 +233,6 @@
       "onboard_time": 1685661321,
       "rank": 27,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1163870,
-      "num": 1163870,
-      "word": "千万不要觉得成绩已经定型了",
-      "onboard_time": 1685664687,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 1147186,
@@ -291,11 +291,27 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 1037446,
+      "num": 229258,
+      "word": "四川大学 答辩",
+      "onboard_time": 1685669667,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 977357,
       "num": 977357,
       "word": "肖战迪丽热巴童话里走出来的王子公主",
       "onboard_time": 1685594189,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 963621,
+      "num": 323171,
+      "word": "张宝儿官宣怀孕",
+      "onboard_time": 1685666550,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -347,20 +363,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 837359,
+      "num": 837359,
+      "word": "何炅王诗龄合照",
+      "onboard_time": 1685670148,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 827541,
       "num": 391028,
       "word": "安徽发现两块散落人体组织",
       "onboard_time": 1685632171,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 826290,
-      "num": 323171,
-      "word": "张宝儿官宣怀孕",
-      "onboard_time": 1685666550,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 810195,
@@ -427,6 +443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 669807,
+      "num": 185372,
+      "word": "顾成 苏艳",
+      "onboard_time": 1685666971,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 666332,
       "num": 1143728,
       "word": "幼儿园摆20桌请200孩子吃席庆六一",
@@ -473,14 +497,6 @@
       "onboard_time": 1685539347,
       "rank": 4,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 635829,
-      "num": 185372,
-      "word": "顾成 苏艳",
-      "onboard_time": 1685666971,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 632733,
@@ -563,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 564661,
+      "num": 327146,
+      "word": "谢谢王源的站姐",
+      "onboard_time": 1685667629,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 562261,
       "num": 562261,
       "word": "五月天王源合唱",
@@ -577,14 +601,6 @@
       "onboard_time": 1685606668,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 558781,
-      "num": 327146,
-      "word": "谢谢王源的站姐",
-      "onboard_time": 1685667629,
-      "rank": 10,
-      "category": "音乐"
     },
     {
       "raw_hot": 557874,
@@ -625,6 +641,14 @@
       "onboard_time": 1685585246,
       "rank": 17,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 533714,
+      "num": 533714,
+      "word": "被骗到缅甸6小伙已被解救",
+      "onboard_time": 1685669608,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 531758,
@@ -772,7 +796,7 @@
     },
     {
       "raw_hot": 430282,
-      "num": 184596,
+      "num": 202855,
       "word": "江苏南通发生命案两人遇害",
       "onboard_time": 1685662523,
       "rank": 20,
@@ -828,7 +852,7 @@
     },
     {
       "raw_hot": 418113,
-      "num": 308529,
+      "num": 309649,
       "word": "迪丽热巴为后援会十周年送祝福",
       "onboard_time": 1685667990,
       "rank": 13,
@@ -980,7 +1004,7 @@
     },
     {
       "raw_hot": 365142,
-      "num": 184175,
+      "num": 202136,
       "word": "男童不慎将玩具甩进邻桌火锅烫到婴儿",
       "onboard_time": 1685664867,
       "rank": 21,
@@ -1283,6 +1307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 293321,
+      "num": 293321,
+      "word": "五月天演唱会为何一票难求",
+      "onboard_time": 1685663244,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 292871,
       "num": 274089,
       "word": "赵丽颖儿童节看小时候的画册",
@@ -1417,14 +1449,6 @@
       "onboard_time": 1685633010,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 269061,
-      "num": 269061,
-      "word": "五月天演唱会为何一票难求",
-      "onboard_time": 1685663244,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 268667,
@@ -1667,6 +1691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 238102,
+      "num": 201489,
+      "word": "肖战肖春生好大一滴泪",
+      "onboard_time": 1685668827,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236374,
       "num": 235938,
       "word": "王一博看秀内场照",
@@ -1715,14 +1747,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 230231,
-      "num": 183141,
-      "word": "肖战肖春生好大一滴泪",
-      "onboard_time": 1685668827,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 228227,
       "num": 228227,
       "word": "六月",
@@ -1748,7 +1772,7 @@
     },
     {
       "raw_hot": 226728,
-      "num": 182124,
+      "num": 200784,
       "word": "赵丽颖算不算天赋型演员",
       "onboard_time": 1685662943,
       "rank": 24,
@@ -1827,20 +1851,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216094,
+      "num": 216094,
+      "word": "江苏南通",
+      "onboard_time": 1685666070,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215531,
       "num": 199515,
       "word": "玫瑰故事",
       "onboard_time": 1685627913,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 215328,
-      "num": 181629,
-      "word": "被骗到缅甸6小伙已被解救",
-      "onboard_time": 1685669608,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215148,
@@ -1939,8 +1963,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206817,
+      "num": 201217,
+      "word": "奥本海默定为R级",
+      "onboard_time": 1685669367,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206740,
-      "num": 181127,
+      "num": 189751,
       "word": "如何看待不雅聊天公职人员被免职",
       "onboard_time": 1685668768,
       "rank": 26,
@@ -1960,6 +1992,14 @@
       "word": "小学生自愿报名给高三考生表演才艺",
       "onboard_time": 1685610028,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204021,
+      "num": 204021,
+      "word": "司机倒车坠河他们一个个冲了过来",
+      "onboard_time": 1685667149,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -2019,6 +2059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197589,
+      "num": 168219,
+      "word": "你怎么看待学术妲己这个词",
+      "onboard_time": 1685667269,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196762,
       "num": 188041,
       "word": "孙茜6岁儿子制服证件照",
@@ -2033,14 +2081,6 @@
       "onboard_time": 1685544932,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195203,
-      "num": 165758,
-      "word": "奥本海默定为R级",
-      "onboard_time": 1685669367,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 193780,
@@ -2131,6 +2171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188705,
+      "num": 188705,
+      "word": "热火vs掘金",
+      "onboard_time": 1685667572,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188626,
       "num": 160518,
       "word": "张艺兴街边开儿童车",
@@ -2169,14 +2217,6 @@
       "onboard_time": 1685589506,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 185597,
-      "num": 185597,
-      "word": "热火vs掘金",
-      "onboard_time": 1685667572,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 185026,
@@ -2251,14 +2291,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 180274,
-      "num": 180274,
-      "word": "司机倒车坠河他们一个个冲了过来",
-      "onboard_time": 1685667149,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179739,
       "num": 179739,
       "word": "梦中的那片海预告",
@@ -2275,20 +2307,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178063,
-      "num": 165358,
-      "word": "你怎么看待学术妲己这个词",
-      "onboard_time": 1685667269,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177223,
       "num": 163137,
       "word": "后浪",
       "onboard_time": 1685631931,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 174488,
+      "num": 174488,
+      "word": "五月天武汉",
+      "onboard_time": 1685669425,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 172903,
@@ -2313,6 +2345,14 @@
       "onboard_time": 1685592026,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171687,
+      "num": 171687,
+      "word": "吉尼斯你别太离谱",
+      "onboard_time": 1685671107,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 169464,
@@ -2347,6 +2387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 166515,
+      "num": 166515,
+      "word": "对这种玩笑永远不要笑",
+      "onboard_time": 1685660781,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166155,
       "num": 166155,
       "word": "哪些消费是智商税",
@@ -2371,28 +2419,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164624,
-      "num": 164624,
-      "word": "对这种玩笑永远不要笑",
-      "onboard_time": 1685660781,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 164496,
       "num": 164496,
       "word": "明天有两部新剧开播",
       "onboard_time": 1685531249,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 164376,
-      "num": 164376,
-      "word": "江苏南通",
-      "onboard_time": 1685666070,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164063,
@@ -2427,12 +2459,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 162431,
-      "num": 162431,
-      "word": "何炅王诗龄合照",
-      "onboard_time": 1685670148,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 161241,
+      "num": 161241,
+      "word": "王源我有一天来鸟巢",
+      "onboard_time": 1685670926,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 159970,
@@ -2481,14 +2513,6 @@
       "onboard_time": 1685574439,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155700,
-      "num": 155700,
-      "word": "五月天武汉",
-      "onboard_time": 1685669425,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 155499,
@@ -2643,6 +2667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136000,
+      "num": 136000,
+      "word": "开空调省电的办法",
+      "onboard_time": 1685670568,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134843,
       "num": 134843,
       "word": "特斯拉",
@@ -2721,6 +2753,14 @@
       "onboard_time": 1685603307,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128790,
+      "num": 128790,
+      "word": "掘金半场领先热火17分",
+      "onboard_time": 1685671648,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 128727,
