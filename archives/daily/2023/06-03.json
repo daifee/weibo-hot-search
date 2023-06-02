@@ -1,6 +1,6 @@
 {
   "startTime": 1685722886907,
-  "endTime": 1685730025611,
+  "endTime": 1685730807867,
   "band_list": [
     {
       "raw_hot": 3670728,
@@ -481,6 +481,14 @@
       "onboard_time": 1685728999,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23217,
+      "num": 32796,
+      "word": "当老师前和当老师后的变化",
+      "onboard_time": 1685730796,
+      "rank": 49,
+      "category": "幽默,情感"
     }
   ],
   "hotgov_list": [
