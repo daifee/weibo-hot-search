@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685690121630,
+  "endTime": 1685691239150,
   "band_list": [
     {
       "raw_hot": 3863147,
@@ -27,6 +27,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2115214,
+      "num": 981146,
+      "word": "学校正核查学术妲己事件",
+      "onboard_time": 1685686708,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 2078971,
       "num": 2078971,
       "word": "你愿意降薪去体制内吗",
@@ -41,14 +49,6 @@
       "onboard_time": 1685539529,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2028735,
-      "num": 981146,
-      "word": "学校正核查学术妲己事件",
-      "onboard_time": 1685686708,
-      "rank": 31,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1990762,
@@ -145,6 +145,14 @@
       "onboard_time": 1685664568,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1394049,
+      "num": 958329,
+      "word": "毕业后租一辈子房可行吗",
+      "onboard_time": 1685685389,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1380628,
@@ -377,14 +385,6 @@
       "onboard_time": 1685596649,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 958329,
-      "num": 958329,
-      "word": "毕业后租一辈子房可行吗",
-      "onboard_time": 1685685389,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 955471,
@@ -635,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 607713,
+      "num": 607713,
+      "word": "吴倩没有镜头",
+      "onboard_time": 1685689167,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 606453,
       "num": 606453,
       "word": "SMTOWN发生了什么",
@@ -796,7 +804,7 @@
     },
     {
       "raw_hot": 546377,
-      "num": 395880,
+      "num": 452660,
       "word": "北航已经有三名航天员了",
       "onboard_time": 1685684132,
       "rank": 10,
@@ -1275,6 +1283,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 353357,
+      "num": 353357,
+      "word": "五月天因为余佳运不再当音乐节目评委",
+      "onboard_time": 1685689767,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350994,
       "num": 350994,
       "word": "百度贴吧回应女子婚纱照被盗孙吧",
@@ -1643,6 +1659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 286215,
+      "num": 190078,
+      "word": "Amber听到谢娜第一的反应",
+      "onboard_time": 1685687607,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284219,
       "num": 284219,
       "word": "被贴吧盗图造谣女生本人发声",
@@ -1731,14 +1755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 270043,
-      "num": 168235,
-      "word": "Amber听到谢娜第一的反应",
-      "onboard_time": 1685687607,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 268667,
       "num": 268667,
       "word": "小学生放学捡到特殊纸币报警",
@@ -1801,6 +1817,14 @@
       "onboard_time": 1685620647,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261306,
+      "num": 188784,
+      "word": "肖战显眼包式停车",
+      "onboard_time": 1685689046,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 260968,
@@ -1931,12 +1955,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 250671,
-      "num": 166156,
-      "word": "吴倩没有镜头",
-      "onboard_time": 1685689167,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 251698,
+      "num": 164012,
+      "word": "吴世勋更新EXO拍摄现场照",
+      "onboard_time": 1685690067,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 250152,
@@ -2107,6 +2131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 230891,
+      "num": 230891,
+      "word": "杭州外卖小哥3年还清35万外债",
+      "onboard_time": 1685688446,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230703,
       "num": 230703,
       "word": "张予曦是真公主吧",
@@ -2243,6 +2275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216364,
+      "num": 167965,
+      "word": "731部队新罪证首次公开",
+      "onboard_time": 1685690427,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216094,
       "num": 217807,
       "word": "江苏南通",
@@ -2337,14 +2377,6 @@
       "onboard_time": 1685547628,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 207686,
-      "num": 164089,
-      "word": "肖战显眼包式停车",
-      "onboard_time": 1685689046,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 207317,
@@ -2491,6 +2523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193755,
+      "num": 164779,
+      "word": "浙江12岁高马尾男孩坐拥千万粉丝",
+      "onboard_time": 1685689228,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193536,
       "num": 193536,
       "word": "农民的苦难不是流量的噱头",
@@ -2571,6 +2611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190143,
+      "num": 190143,
+      "word": "杨丞琳李荣浩贴脸照",
+      "onboard_time": 1685690848,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189683,
       "num": 214869,
       "word": "开空调省电的办法",
@@ -2601,14 +2649,6 @@
       "onboard_time": 1685608048,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 187634,
-      "num": 164779,
-      "word": "浙江12岁高马尾男孩坐拥千万粉丝",
-      "onboard_time": 1685689228,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187061,
@@ -2753,14 +2793,6 @@
       "onboard_time": 1685631931,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 176102,
-      "num": 176102,
-      "word": "杭州外卖小哥3年还清35万外债",
-      "onboard_time": 1685688446,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172903,
@@ -2947,14 +2979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 159796,
-      "num": 159796,
-      "word": "吴世勋更新EXO拍摄现场照",
-      "onboard_time": 1685690067,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159173,
       "num": 159173,
       "word": "比亚迪",
@@ -3025,14 +3049,6 @@
       "onboard_time": 1685580809,
       "rank": 39,
       "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 153038,
-      "num": 153038,
-      "word": "五月天因为余佳运不再当音乐节目评委",
-      "onboard_time": 1685689767,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 152551,
@@ -3195,6 +3211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138433,
+      "num": 138433,
+      "word": "老伴走后第二天浙大老教师又去捡垃圾了",
+      "onboard_time": 1685690547,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138289,
       "num": 138289,
       "word": "天空之城",
@@ -3233,6 +3257,14 @@
       "onboard_time": 1685605588,
       "rank": 34,
       "category": "科技"
+    },
+    {
+      "raw_hot": 134145,
+      "num": 134145,
+      "word": "林志玲说是她跟Akira求婚的",
+      "onboard_time": 1685690966,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 133781,
@@ -3515,6 +3547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 108335,
+      "num": 135300,
+      "word": "他9年为农村老人拍10000张全家福",
+      "onboard_time": 1685689706,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108158,
       "num": 108158,
       "word": "14名山西乡村儿童圆梦故宫",
@@ -3563,20 +3603,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101809,
+      "num": 107900,
+      "word": "肖战梦中的那片海招商全满",
+      "onboard_time": 1685691206,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 99389,
       "num": 122366,
       "word": "MC梦否认诱导边伯贤离开SMTOWN",
       "onboard_time": 1685681857,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 99136,
-      "num": 135300,
-      "word": "他9年为农村老人拍10000张全家福",
-      "onboard_time": 1685689706,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97869,
@@ -3785,6 +3825,14 @@
       "onboard_time": 1685661740,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72193,
+      "num": 106043,
+      "word": "龚翔宇太可爱了",
+      "onboard_time": 1685691086,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 71465,
