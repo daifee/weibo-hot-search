@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685787406794,
+  "endTime": 1685788412301,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -353,6 +353,14 @@
       "onboard_time": 1685685389,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1387281,
+      "num": 582689,
+      "word": "宋昕冉追星迪丽热巴成功",
+      "onboard_time": 1685786308,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1380628,
@@ -755,6 +763,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 950441,
+      "num": 950441,
+      "word": "赵露思是曾黎的人形挂件吧",
+      "onboard_time": 1685779887,
+      "rank": 21,
+      "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 938912,
+      "num": 938912,
+      "word": "4篇论文现同一划痕钢尺遭撤稿",
+      "onboard_time": 1685769449,
+      "rank": 15,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 924876,
       "num": 924876,
       "word": "太阳的后裔原型 李云龙原型歼灭的",
@@ -779,14 +803,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 886452,
-      "num": 886452,
-      "word": "4篇论文现同一划痕钢尺遭撤稿",
-      "onboard_time": 1685769449,
-      "rank": 15,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 886032,
       "num": 886032,
       "word": "梦中的那片海开播收视率",
@@ -803,14 +819,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 871543,
-      "num": 871543,
-      "word": "赵露思是曾黎的人形挂件吧",
-      "onboard_time": 1685779887,
-      "rank": 21,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 855032,
       "num": 855032,
       "word": "肖战刘芮麟新剧演兄弟",
@@ -824,14 +832,6 @@
       "word": "庾澄庆频繁在线",
       "onboard_time": 1685777127,
       "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 845387,
-      "num": 582689,
-      "word": "宋昕冉追星迪丽热巴成功",
-      "onboard_time": 1685786308,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -988,7 +988,7 @@
     },
     {
       "raw_hot": 687461,
-      "num": 1011721,
+      "num": 1128797,
       "word": "高三学生写永久请假条告别班主任",
       "onboard_time": 1685781809,
       "rank": 22,
@@ -1177,6 +1177,14 @@
       "onboard_time": 1685586327,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 606178,
+      "num": 416357,
+      "word": "曲婉婷被拍卖房产以219.9万成交",
+      "onboard_time": 1685786129,
+      "rank": 17,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 597309,
@@ -1539,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 473764,
+      "num": 456081,
+      "word": "朱一龙杨蓉友情",
+      "onboard_time": 1685783487,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 471013,
       "num": 445484,
       "word": "徐明浩直播",
@@ -1625,14 +1641,6 @@
       "onboard_time": 1685783129,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 456081,
-      "num": 456081,
-      "word": "朱一龙杨蓉友情",
-      "onboard_time": 1685783487,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 454259,
@@ -2419,6 +2427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 322744,
+      "num": 150449,
+      "word": "媒体称要对大学师生恋零容忍",
+      "onboard_time": 1685786427,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 321734,
       "num": 321734,
       "word": "手工耿 适合中国宝宝体质的林克",
@@ -2531,6 +2547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308523,
+      "num": 220346,
+      "word": "声生不息",
+      "onboard_time": 1685787327,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308029,
       "num": 308029,
       "word": "护心热度",
@@ -2633,6 +2657,14 @@
       "onboard_time": 1685712692,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 300030,
+      "num": 212120,
+      "word": "张小狮",
+      "onboard_time": 1685786907,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 299874,
@@ -2867,14 +2899,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 280476,
-      "num": 280476,
-      "word": "曲婉婷被拍卖房产以219.9万成交",
-      "onboard_time": 1685786129,
-      "rank": 17,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 280311,
       "num": 280311,
       "word": "肖战语文课本同款手套",
@@ -3083,6 +3107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264408,
+      "num": 152289,
+      "word": "黄景瑜吉林",
+      "onboard_time": 1685786247,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 264035,
       "num": 264035,
       "word": "张远演唱会",
@@ -3275,14 +3307,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 252536,
-      "num": 152289,
-      "word": "黄景瑜吉林",
-      "onboard_time": 1685786247,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 251954,
       "num": 251954,
       "word": "钱璐璐",
@@ -3321,14 +3345,6 @@
       "onboard_time": 1685604446,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 250070,
-      "num": 150449,
-      "word": "媒体称要对大学师生恋零容忍",
-      "onboard_time": 1685786427,
-      "rank": 30,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 249290,
@@ -3481,14 +3497,6 @@
       "onboard_time": 1685668827,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 237876,
-      "num": 150001,
-      "word": "张小狮",
-      "onboard_time": 1685786907,
-      "rank": 32,
-      "category": "网红"
     },
     {
       "raw_hot": 237850,
@@ -4067,6 +4075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206941,
+      "num": 148834,
+      "word": "古力娜扎南京",
+      "onboard_time": 1685785349,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 206740,
       "num": 192520,
       "word": "如何看待不雅聊天公职人员被免职",
@@ -4145,6 +4161,14 @@
       "onboard_time": 1685631691,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200341,
+      "num": 130133,
+      "word": "Angelababy白鹿哭戏",
+      "onboard_time": 1685787627,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 200300,
@@ -4265,14 +4289,6 @@
       "onboard_time": 1685686288,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 195825,
-      "num": 148834,
-      "word": "古力娜扎南京",
-      "onboard_time": 1685785349,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 195536,
@@ -4763,14 +4779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172601,
-      "num": 148174,
-      "word": "声生不息",
-      "onboard_time": 1685787327,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 172278,
       "num": 167351,
       "word": "美依礼芽晒自己画的眼妆",
@@ -4945,6 +4953,14 @@
       "onboard_time": 1685531249,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 164235,
+      "num": 116845,
+      "word": "蔡徐坤白衬衫顶胯",
+      "onboard_time": 1685788285,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 164063,
@@ -5179,6 +5195,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 153050,
+      "num": 176064,
+      "word": "双向奔赴才有意义",
+      "onboard_time": 1685783065,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152551,
       "num": 152551,
       "word": "儿童节礼物",
@@ -5395,6 +5419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140022,
+      "num": 147673,
+      "word": "毕业生趁校长拨穗时来了个大拥抱",
+      "onboard_time": 1685785709,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139943,
       "num": 139943,
       "word": "龚琳娜美依礼芽吃早饭",
@@ -5505,6 +5537,14 @@
       "onboard_time": 1685542471,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133360,
+      "num": 133360,
+      "word": "什刹海男团都是撕漫男",
+      "onboard_time": 1685788226,
+      "rank": 29,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 132917,
@@ -5675,20 +5715,20 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 122573,
-      "num": 176064,
-      "word": "双向奔赴才有意义",
-      "onboard_time": 1685783065,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 121213,
       "num": 145261,
       "word": "当西游记中的世界照进现实",
       "onboard_time": 1685637261,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121045,
+      "num": 148651,
+      "word": "当妈后才明白的事",
+      "onboard_time": 1685787086,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 120187,
@@ -5769,14 +5809,6 @@
       "onboard_time": 1685712152,
       "rank": 47,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 117205,
-      "num": 148651,
-      "word": "当妈后才明白的事",
-      "onboard_time": 1685787086,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 116926,
@@ -6011,14 +6043,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 103973,
-      "num": 147673,
-      "word": "毕业生趁校长拨穗时来了个大拥抱",
-      "onboard_time": 1685785709,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103639,
       "num": 103639,
       "word": "蜘蛛侠彩蛋",
@@ -6057,6 +6081,14 @@
       "onboard_time": 1685609668,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100049,
+      "num": 112396,
+      "word": "成人身上有多少块骨头",
+      "onboard_time": 1685788226,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 99389,
@@ -6113,6 +6145,14 @@
       "onboard_time": 1685611827,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95801,
+      "num": 112383,
+      "word": "高考生这6样东西别发朋友圈",
+      "onboard_time": 1685788285,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 95528,
