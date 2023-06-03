@@ -1,0 +1,410 @@
+{
+  "runTime": 1685795478104,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2361198,
+        "num": 2361198,
+        "word": "上四休三",
+        "onboard_time": 1685789606,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1989445,
+        "num": 1989445,
+        "word": "黄渤回应贫困女孩争议",
+        "onboard_time": 1685793386,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 31383,
+        "num": 1441296,
+        "word": "带着我的梦想上天宫",
+        "onboard_time": 1685779226,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1333287,
+        "num": 1333287,
+        "word": "女孩父母回应网传黄渤放弃资助",
+        "onboard_time": 1685793568,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 911578,
+        "num": 911578,
+        "word": "曲婉婷被拍卖房产以219.9万成交",
+        "onboard_time": 1685786129,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 681434,
+        "num": 681434,
+        "word": "蔡徐坤澳门演唱会",
+        "onboard_time": 1685794226,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 672591,
+        "num": 672591,
+        "word": "吴倩说女儿和自己长得一模一样",
+        "onboard_time": 1685779887,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 541388,
+        "num": 541388,
+        "word": "四川一男子当街持刀捅伤女子后自杀",
+        "onboard_time": 1685791348,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477542,
+        "num": 477542,
+        "word": "张韶涵赵露思撞衫",
+        "onboard_time": 1685792186,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453597,
+        "num": 453597,
+        "word": "离职时HR把我的职位写高了",
+        "onboard_time": 1685790448,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 974541,
+        "num": 437004,
+        "word": "生日快乐啊小朋友",
+        "onboard_time": 1685792546,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 694911,
+        "num": 434336,
+        "word": "宋昕冉追星迪丽热巴成功",
+        "onboard_time": 1685786308,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401523,
+        "num": 401523,
+        "word": "陈伟霆章若楠真的没在谈吗",
+        "onboard_time": 1685777245,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 389530,
+        "num": 389530,
+        "word": "月嫂提前离开雇主不舍偷偷抹泪",
+        "onboard_time": 1685790028,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377072,
+        "num": 377072,
+        "word": "五月天演唱会",
+        "onboard_time": 1685792367,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 368191,
+        "num": 368191,
+        "word": "徐开骋被AI换脸",
+        "onboard_time": 1685777067,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 343797,
+        "num": 343797,
+        "word": "迪丽热巴有几个好妹妹",
+        "onboard_time": 1685789548,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364096,
+        "num": 330001,
+        "word": "陈伟霆亲到耳朵红了",
+        "onboard_time": 1685792367,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 316098,
+        "num": 316098,
+        "word": "赵露思是曾黎的人形挂件吧",
+        "onboard_time": 1685779887,
+        "rank": 18,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 290711,
+        "num": 290711,
+        "word": "陪着室友去医院车费却要AA",
+        "onboard_time": 1685790687,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264351,
+        "num": 264351,
+        "word": "杨紫长发及腰了",
+        "onboard_time": 1685779288,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254294,
+        "num": 254294,
+        "word": "卢靖姗顺产用了三十六个小时",
+        "onboard_time": 1685776287,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240785,
+        "num": 240785,
+        "word": "成都蓉城",
+        "onboard_time": 1685793085,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232803,
+        "num": 232803,
+        "word": "家属正在安排被撞小学生母亲后事",
+        "onboard_time": 1685768309,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208953,
+        "num": 208953,
+        "word": "高三学生写永久请假条告别班主任",
+        "onboard_time": 1685781809,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 235624,
+        "num": 201561,
+        "word": "摊爸谢可寅AnsrJ 流浪地球",
+        "onboard_time": 1685792966,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193612,
+        "num": 193612,
+        "word": "王一博岳云鹏热烈到底啥关系",
+        "onboard_time": 1685791946,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192400,
+        "num": 192400,
+        "word": "什刹海男团都是撕漫男",
+        "onboard_time": 1685788226,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162136,
+        "num": 162136,
+        "word": "TES对战EDG",
+        "onboard_time": 1685792247,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105902,
+        "num": 162101,
+        "word": "给高考生的专属仪式感",
+        "onboard_time": 1685794407,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191151,
+        "num": 161329,
+        "word": "华晨宇时隔五年再回鸟巢",
+        "onboard_time": 1685785166,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187050,
+        "num": 160707,
+        "word": "华晨宇在耳返里对那英队说爱你",
+        "onboard_time": 1685793806,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182557,
+        "num": 160544,
+        "word": "张馨予从小到大颜值变化",
+        "onboard_time": 1685794587,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179805,
+        "num": 159987,
+        "word": "张小狮",
+        "onboard_time": 1685786907,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 159655,
+        "num": 159655,
+        "word": "苏某读硕期间知网收录5篇论文",
+        "onboard_time": 1685794707,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 178980,
+        "num": 159079,
+        "word": "花戎",
+        "onboard_time": 1685793806,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156377,
+        "num": 156377,
+        "word": "这回是真的开了眼了",
+        "onboard_time": 1685795128,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150082,
+        "num": 150082,
+        "word": "媒体称要对大学师生恋零容忍",
+        "onboard_time": 1685786427,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 137913,
+        "num": 137913,
+        "word": "中国男篮",
+        "onboard_time": 1685790986,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122746,
+        "num": 122746,
+        "word": "小伙1.2万元拍下单颗荔枝送女友",
+        "onboard_time": 1685795186,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178619,
+        "num": 122378,
+        "word": "Angelababy白鹿哭戏",
+        "onboard_time": 1685787627,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166448,
+        "num": 118871,
+        "word": "照亮你能播出来不容易啊",
+        "onboard_time": 1685794949,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161090,
+        "num": 117690,
+        "word": "吴磊用的什么防晒",
+        "onboard_time": 1685792186,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146780,
+        "num": 115125,
+        "word": "程潇跳一半骨折了",
+        "onboard_time": 1685768729,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143666,
+        "num": 114115,
+        "word": "马嘉祺获声生不息新人奖",
+        "onboard_time": 1685789666,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112494,
+        "num": 112494,
+        "word": "回复给你喜欢扣6的朋友",
+        "onboard_time": 1685795007,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110325,
+        "num": 110325,
+        "word": "法网",
+        "onboard_time": 1685793027,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97808,
+        "num": 97808,
+        "word": "女儿在爸爸朋友圈发长文拜托别劝酒",
+        "onboard_time": 1685766088,
+        "rank": 47,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 92561,
+        "num": 92561,
+        "word": "印度火车相撞已致288人死亡",
+        "onboard_time": 1685769747,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91188,
+        "num": 91188,
+        "word": "人在跑步的时候还能做什么",
+        "onboard_time": 1685795066,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新的文化使命#"
+    }
+  }
+}

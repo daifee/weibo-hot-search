@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685792029359,
+  "endTime": 1685795478104,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -187,6 +187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2361198,
+      "num": 2361198,
+      "word": "上四休三",
+      "onboard_time": 1685789606,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2357543,
       "num": 1853231,
       "word": "退款",
@@ -369,6 +377,14 @@
       "onboard_time": 1685588486,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1989445,
+      "num": 1989445,
+      "word": "黄渤回应贫困女孩争议",
+      "onboard_time": 1685793386,
+      "rank": 1,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1979884,
@@ -955,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1333287,
+      "num": 1333287,
+      "word": "女孩父母回应网传黄渤放弃资助",
+      "onboard_time": 1685793568,
+      "rank": 3,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1332149,
       "num": 1332149,
       "word": "二十岁以后基本形象都靠人民币和自律维持",
@@ -1371,14 +1395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1148944,
-      "num": 1148944,
-      "word": "上四休三",
-      "onboard_time": 1685789606,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1148618,
       "num": 1148618,
       "word": "一杯奶茶钱可以买这么多东西",
@@ -1729,6 +1745,14 @@
       "onboard_time": 1685748560,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 974541,
+      "num": 437004,
+      "word": "生日快乐啊小朋友",
+      "onboard_time": 1685792546,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 970422,
@@ -2353,6 +2377,14 @@
       "onboard_time": 1685632591,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 681434,
+      "num": 681434,
+      "word": "蔡徐坤澳门演唱会",
+      "onboard_time": 1685794226,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 679829,
@@ -3147,6 +3179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 541388,
+      "num": 541388,
+      "word": "四川一男子当街持刀捅伤女子后自杀",
+      "onboard_time": 1685791348,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 539317,
       "num": 539317,
       "word": "五月天杭州",
@@ -3619,6 +3659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 477542,
+      "num": 477542,
+      "word": "张韶涵赵露思撞衫",
+      "onboard_time": 1685792186,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 475838,
       "num": 475838,
       "word": "以爱为营",
@@ -3809,6 +3857,14 @@
       "onboard_time": 1685672968,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 453597,
+      "num": 453597,
+      "word": "离职时HR把我的职位写高了",
+      "onboard_time": 1685790448,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 452787,
@@ -4515,6 +4571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 389530,
+      "num": 711692,
+      "word": "月嫂提前离开雇主不舍偷偷抹泪",
+      "onboard_time": 1685790028,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 389043,
       "num": 317340,
       "word": "网友问赵丽颖怎么演许半夏的",
@@ -4657,6 +4721,14 @@
       "onboard_time": 1685583746,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 377072,
+      "num": 377072,
+      "word": "五月天演唱会",
+      "onboard_time": 1685270126,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 376535,
@@ -4809,6 +4881,14 @@
       "onboard_time": 1685345728,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 364096,
+      "num": 330001,
+      "word": "陈伟霆亲到耳朵红了",
+      "onboard_time": 1685792367,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 363434,
@@ -6225,6 +6305,14 @@
       "onboard_time": 1685316262,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290711,
+      "num": 290711,
+      "word": "陪着室友去医院车费却要AA",
+      "onboard_time": 1685790687,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 289939,
@@ -7795,6 +7883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 240785,
+      "num": 240785,
+      "word": "成都蓉城",
+      "onboard_time": 1685793085,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240612,
       "num": 221014,
       "word": "吴谢宇案二审今日宣判",
@@ -7987,6 +8083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235624,
+      "num": 201561,
+      "word": "摊爸谢可寅AnsrJ 流浪地球",
+      "onboard_time": 1685792966,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235519,
       "num": 168441,
       "word": "杨紫直播",
@@ -8025,14 +8129,6 @@
       "onboard_time": 1685763869,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234713,
-      "num": 128180,
-      "word": "四川一男子当街持刀捅伤女子后自杀",
-      "onboard_time": 1685791348,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234503,
@@ -9499,14 +9595,6 @@
       "category": "社会新闻,音乐"
     },
     {
-      "raw_hot": 199795,
-      "num": 225919,
-      "word": "陪着室友去医院车费却要AA",
-      "onboard_time": 1685790687,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 199783,
       "num": 207481,
       "word": "TT对战FPX",
@@ -9859,6 +9947,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 193612,
+      "num": 193612,
+      "word": "王一博岳云鹏热烈到底啥关系",
+      "onboard_time": 1685791946,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193536,
       "num": 193536,
       "word": "农民的苦难不是流量的噱头",
@@ -10033,6 +10129,14 @@
       "onboard_time": 1685585365,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 191151,
+      "num": 161329,
+      "word": "华晨宇时隔五年再回鸟巢",
+      "onboard_time": 1685785166,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 191099,
@@ -10249,6 +10353,14 @@
       "onboard_time": 1685779288,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187050,
+      "num": 160707,
+      "word": "华晨宇在耳返里对那英队说爱你",
+      "onboard_time": 1685793806,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 186924,
@@ -10491,6 +10603,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 182557,
+      "num": 160544,
+      "word": "张馨予从小到大颜值变化",
+      "onboard_time": 1685794587,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 182428,
       "num": 185908,
       "word": "家电成精是种什么体验",
@@ -10513,14 +10633,6 @@
       "onboard_time": 1685695168,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 181909,
-      "num": 167589,
-      "word": "五月天演唱会",
-      "onboard_time": 1685270126,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 181743,
@@ -10561,14 +10673,6 @@
       "onboard_time": 1685684611,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 181303,
-      "num": 181303,
-      "word": "离职时HR把我的职位写高了",
-      "onboard_time": 1685790448,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 181274,
@@ -11147,6 +11251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 166448,
+      "num": 118871,
+      "word": "照亮你能播出来不容易啊",
+      "onboard_time": 1685794949,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 166297,
       "num": 143020,
       "word": "再就业对春晚有多执着",
@@ -11192,14 +11304,6 @@
       "word": "妻子将亡夫公益事业扩大225倍",
       "onboard_time": 1685413828,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165122,
-      "num": 711692,
-      "word": "月嫂提前离开雇主不舍偷偷抹泪",
-      "onboard_time": 1685790028,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -11371,6 +11475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162136,
+      "num": 162136,
+      "word": "TES对战EDG",
+      "onboard_time": 1685792247,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 161589,
       "num": 161589,
       "word": "梦中那片海定档",
@@ -11385,6 +11497,14 @@
       "onboard_time": 1685373573,
       "rank": 45,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 161090,
+      "num": 117690,
+      "word": "吴磊用的什么防晒",
+      "onboard_time": 1685792186,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 160886,
@@ -11449,6 +11569,14 @@
       "onboard_time": 1685356707,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159655,
+      "num": 159655,
+      "word": "苏某读硕期间知网收录5篇论文",
+      "onboard_time": 1685794707,
+      "rank": 34,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 159561,
@@ -11585,6 +11713,14 @@
       "onboard_time": 1685692167,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156377,
+      "num": 156377,
+      "word": "这回是真的开了眼了",
+      "onboard_time": 1685795128,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 156206,
@@ -12187,6 +12323,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 137913,
+      "num": 137913,
+      "word": "中国男篮",
+      "onboard_time": 1685790986,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137742,
       "num": 137742,
       "word": "爸爸只会报菜名",
@@ -12731,6 +12875,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 122746,
+      "num": 122746,
+      "word": "小伙1.2万元拍下单颗荔枝送女友",
+      "onboard_time": 1685795186,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122715,
       "num": 122715,
       "word": "樊振东4比2王楚钦",
@@ -12801,14 +12953,6 @@
       "onboard_time": 1685355629,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 121487,
-      "num": 121487,
-      "word": "中国男篮",
-      "onboard_time": 1685790986,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 121213,
@@ -13099,6 +13243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112494,
+      "num": 112494,
+      "word": "回复给你喜欢扣6的朋友",
+      "onboard_time": 1685795007,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112400,
       "num": 112400,
       "word": "成都欢乐谷大运音乐节",
@@ -13169,6 +13321,14 @@
       "onboard_time": 1685751925,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110325,
+      "num": 110325,
+      "word": "法网",
+      "onboard_time": 1685793027,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 108891,
@@ -13296,6 +13456,14 @@
       "word": "货车起火加油站员工飞奔扑救",
       "onboard_time": 1685669425,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105902,
+      "num": 162101,
+      "word": "给高考生的专属仪式感",
+      "onboard_time": 1685794407,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -13593,6 +13761,14 @@
       "onboard_time": 1685762129,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91188,
+      "num": 91188,
+      "word": "人在跑步的时候还能做什么",
+      "onboard_time": 1685795066,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 90871,
@@ -14596,7 +14772,7 @@
     },
     {
       "raw_hot": 33555,
-      "num": 1133931,
+      "num": 1441296,
       "word": "带着我的梦想上天宫",
       "onboard_time": 1685779226,
       "rank": 2,
