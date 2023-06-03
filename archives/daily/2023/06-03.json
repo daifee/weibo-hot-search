@@ -1,6 +1,6 @@
 {
   "startTime": 1685722886907,
-  "endTime": 1685774006353,
+  "endTime": 1685776473382,
   "band_list": [
     {
       "raw_hot": 4395833,
@@ -211,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 887008,
+      "num": 887008,
+      "word": "黄觉牵张艺凡",
+      "onboard_time": 1685774488,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 874910,
       "num": 874910,
       "word": "杨紫穿旗袍了",
@@ -227,12 +235,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 705499,
+      "num": 705499,
+      "word": "印度火车相撞已致288人死亡",
+      "onboard_time": 1685769747,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 679678,
       "num": 679678,
       "word": "苹果80",
       "onboard_time": 1685764946,
       "rank": 37,
       "category": "科技"
+    },
+    {
+      "raw_hot": 676786,
+      "num": 676786,
+      "word": "刘雅瑟多穿裙子吧",
+      "onboard_time": 1685773468,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 664463,
@@ -267,20 +291,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 613514,
+      "num": 613514,
+      "word": "4篇论文现同一划痕钢尺遭撤稿",
+      "onboard_time": 1685769449,
+      "rank": 15,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 595876,
       "num": 595876,
       "word": "赵丽颖回应被造谣与谢娜友情破裂",
       "onboard_time": 1685720071,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 563940,
-      "num": 563940,
-      "word": "印度火车相撞已致288人死亡",
-      "onboard_time": 1685769747,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 522527,
@@ -296,6 +320,14 @@
       "word": "凤九玄女是好朋友",
       "onboard_time": 1685763990,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 507598,
+      "num": 210353,
+      "word": "肖战 CHALI",
+      "onboard_time": 1685773107,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -345,14 +377,6 @@
       "onboard_time": 1685720489,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 423454,
-      "num": 295593,
-      "word": "4篇论文现同一划痕钢尺遭撤稿",
-      "onboard_time": 1685769449,
-      "rank": 15,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 404876,
@@ -436,7 +460,7 @@
     },
     {
       "raw_hot": 348960,
-      "num": 284522,
+      "num": 302559,
       "word": "奥运冠军王懿律宣布退出国家队",
       "onboard_time": 1685770407,
       "rank": 16,
@@ -563,14 +587,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 297193,
-      "num": 182190,
-      "word": "肖战 CHALI",
-      "onboard_time": 1685773107,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 295262,
       "num": 288280,
       "word": "肖春生怎么还不被炸",
@@ -611,14 +627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 276345,
-      "num": 276345,
-      "word": "刘雅瑟多穿裙子吧",
-      "onboard_time": 1685773468,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 269129,
       "num": 269129,
       "word": "王俊凯vs王源唱知足",
@@ -649,6 +657,14 @@
       "onboard_time": 1685718573,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257367,
+      "num": 257367,
+      "word": "花花和大家打招呼",
+      "onboard_time": 1685771246,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255003,
@@ -747,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228597,
+      "num": 206715,
+      "word": "吴倩给芝芙晒娃",
+      "onboard_time": 1685775026,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228000,
       "num": 228000,
       "word": "椰树男主播营业视频",
@@ -777,6 +801,14 @@
       "onboard_time": 1685764828,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216605,
+      "num": 174927,
+      "word": "陈伟霆新剧不拿观众当外人",
+      "onboard_time": 1685775148,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 215845,
@@ -817,6 +849,14 @@
       "onboard_time": 1685760989,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207521,
+      "num": 169619,
+      "word": "肖战召唤二八大杠男团",
+      "onboard_time": 1685775209,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 204276,
@@ -971,14 +1011,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 153951,
-      "num": 161451,
-      "word": "花花和大家打招呼",
-      "onboard_time": 1685771246,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152162,
       "num": 152162,
       "word": "金希澈王霏霏周觅银赫合照",
@@ -1001,6 +1033,14 @@
       "onboard_time": 1685766749,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148990,
+      "num": 163525,
+      "word": "公司负责人回应上四休三争议",
+      "onboard_time": 1685771188,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147668,
@@ -1051,6 +1091,14 @@
       "category": "时尚,美妆"
     },
     {
+      "raw_hot": 136667,
+      "num": 136667,
+      "word": "卢靖姗顺产用了三十六个小时",
+      "onboard_time": 1685776287,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133230,
       "num": 133230,
       "word": "初级会计",
@@ -1064,6 +1112,14 @@
       "word": "网友辣评浪姐粉丝现状",
       "onboard_time": 1685771308,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 129422,
+      "num": 129422,
+      "word": "密室大逃脱官微评论区",
+      "onboard_time": 1685776287,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -1089,6 +1145,14 @@
       "onboard_time": 1685752286,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116926,
+      "num": 129370,
+      "word": "杨天真教你搞钱",
+      "onboard_time": 1685775567,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 116346,
@@ -1139,14 +1203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 105078,
-      "num": 108005,
-      "word": "公司负责人回应上四休三争议",
-      "onboard_time": 1685771188,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104740,
       "num": 1242505,
       "word": "祝福2023高考生",
@@ -1185,6 +1241,14 @@
       "onboard_time": 1685725163,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 102672,
+      "num": 136668,
+      "word": "上班摸鱼的猫",
+      "onboard_time": 1685774126,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 102145,
@@ -1268,7 +1332,7 @@
     },
     {
       "raw_hot": 80370,
-      "num": 104776,
+      "num": 129344,
       "word": "不用哭啦叔叔也坐错过车",
       "onboard_time": 1685773887,
       "rank": 47,
@@ -1313,6 +1377,22 @@
       "onboard_time": 1685747060,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 59891,
+      "num": 129276,
+      "word": "不是只有嚎啕大哭才是悲痛",
+      "onboard_time": 1685776287,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 55874,
+      "num": 286078,
+      "word": "小麦收割机侧翻10辆越野车免费救援",
+      "onboard_time": 1685772087,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53349,
@@ -1361,14 +1441,6 @@
       "onboard_time": 1685624309,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 32165,
-      "num": 286078,
-      "word": "小麦收割机侧翻10辆越野车免费救援",
-      "onboard_time": 1685772087,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30926,
@@ -1458,6 +1530,9 @@
     },
     {
       "word": "#中华文明的五个突出特性诠释何以中国#"
+    },
+    {
+      "word": "#努力建设中华民族现代文明#"
     }
   ]
 }

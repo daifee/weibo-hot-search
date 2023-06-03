@@ -1,0 +1,410 @@
+{
+  "runTime": 1685776473382,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1426119,
+        "num": 1426119,
+        "word": "程潇跳一半骨折了",
+        "onboard_time": 1685768729,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 946048,
+        "num": 946048,
+        "word": "女儿在爸爸朋友圈发长文拜托别劝酒",
+        "onboard_time": 1685766088,
+        "rank": 1,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 57705,
+        "num": 892073,
+        "word": "祝福2023高考生",
+        "onboard_time": 1685765009,
+        "rank": 2,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 887008,
+        "num": 887008,
+        "word": "黄觉牵张艺凡",
+        "onboard_time": 1685774488,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 860786,
+        "num": 860786,
+        "word": "张艺兴 抢票",
+        "onboard_time": 1685769930,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 759994,
+        "num": 759994,
+        "word": "朱珠问吴倩看过人生大事吗",
+        "onboard_time": 1685768070,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 705499,
+        "num": 705499,
+        "word": "印度火车相撞已致288人死亡",
+        "onboard_time": 1685769747,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 676786,
+        "num": 676786,
+        "word": "刘雅瑟多穿裙子吧",
+        "onboard_time": 1685773468,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 613514,
+        "num": 613514,
+        "word": "4篇论文现同一划痕钢尺遭撤稿",
+        "onboard_time": 1685769449,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 302559,
+        "num": 302559,
+        "word": "奥运冠军王懿律宣布退出国家队",
+        "onboard_time": 1685770407,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2600320,
+        "num": 295595,
+        "word": "家属正在安排被撞小学生母亲后事",
+        "onboard_time": 1685768309,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419980,
+        "num": 285989,
+        "word": "黄磊 有的满意有的都不敢聊",
+        "onboard_time": 1685763748,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386895,
+        "num": 275640,
+        "word": "吴磊广州",
+        "onboard_time": 1685770048,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365665,
+        "num": 273502,
+        "word": "EXO是真的勇",
+        "onboard_time": 1685768250,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321754,
+        "num": 264331,
+        "word": "华南理工女博士答辩完整视频",
+        "onboard_time": 1685753667,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 257367,
+        "num": 257367,
+        "word": "花花和大家打招呼",
+        "onboard_time": 1685771246,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242972,
+        "num": 242972,
+        "word": "陈采尼 抄",
+        "onboard_time": 1685754870,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 241668,
+        "num": 241668,
+        "word": "千万不要长期喝热咖啡",
+        "onboard_time": 1685754390,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224132,
+        "num": 224132,
+        "word": "武汉迪士尼",
+        "onboard_time": 1685758169,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221354,
+        "num": 221354,
+        "word": "五月天嘉宾 华晨宇",
+        "onboard_time": 1685769808,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 507598,
+        "num": 210353,
+        "word": "肖战 CHALI",
+        "onboard_time": 1685773107,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345488,
+        "num": 209771,
+        "word": "一辆SUV盲区里藏着75名儿童",
+        "onboard_time": 1685771608,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228597,
+        "num": 206715,
+        "word": "吴倩给芝芙晒娃",
+        "onboard_time": 1685775026,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183769,
+        "num": 183769,
+        "word": "椰树首次正面回应直播风格争议",
+        "onboard_time": 1685763269,
+        "rank": 23,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 177298,
+        "num": 177298,
+        "word": "女孩不舍得父母买钢琴进门瞬间喜极而泣",
+        "onboard_time": 1685769029,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216605,
+        "num": 174927,
+        "word": "陈伟霆新剧不拿观众当外人",
+        "onboard_time": 1685775148,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207521,
+        "num": 169619,
+        "word": "肖战召唤二八大杠男团",
+        "onboard_time": 1685775209,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195150,
+        "num": 168975,
+        "word": "杨紫穿旗袍了",
+        "onboard_time": 1685751208,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164218,
+        "num": 164218,
+        "word": "苹果80",
+        "onboard_time": 1685764946,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 148990,
+        "num": 163525,
+        "word": "公司负责人回应上四休三争议",
+        "onboard_time": 1685771188,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192262,
+        "num": 163359,
+        "word": "Angelababy回归 跑男收视率",
+        "onboard_time": 1685751085,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163079,
+        "num": 163079,
+        "word": "精修泛滥的内娱审美体系",
+        "onboard_time": 1685770287,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165973,
+        "num": 161615,
+        "word": "Angelababy白鹿镜头时长",
+        "onboard_time": 1685762549,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119819,
+        "num": 159126,
+        "word": "你支持上四休三吗",
+        "onboard_time": 1685760750,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114037,
+        "num": 157975,
+        "word": "小狗进入美发店被店员装麻袋摔死",
+        "onboard_time": 1685764289,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157219,
+        "num": 157219,
+        "word": "高迪找狗",
+        "onboard_time": 1685770827,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 148114,
+        "num": 148114,
+        "word": "全员加速中",
+        "onboard_time": 1685771726,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136677,
+        "num": 136677,
+        "word": "凤九玄女是好朋友",
+        "onboard_time": 1685763990,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106394,
+        "num": 136671,
+        "word": "椰树男主播营业视频",
+        "onboard_time": 1685766147,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102672,
+        "num": 136668,
+        "word": "上班摸鱼的猫",
+        "onboard_time": 1685774126,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136667,
+        "num": 136667,
+        "word": "卢靖姗顺产用了三十六个小时",
+        "onboard_time": 1685776287,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129422,
+        "num": 129422,
+        "word": "密室大逃脱官微评论区",
+        "onboard_time": 1685776287,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101567,
+        "num": 129401,
+        "word": "爸爸到上海出差把女儿冰箱塞满",
+        "onboard_time": 1685748560,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123440,
+        "num": 129396,
+        "word": "阿信是TFBOYS端水大师",
+        "onboard_time": 1685762129,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116926,
+        "num": 129370,
+        "word": "杨天真教你搞钱",
+        "onboard_time": 1685775567,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76336,
+        "num": 129344,
+        "word": "不用哭啦叔叔也坐错过车",
+        "onboard_time": 1685773887,
+        "rank": 45,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 70543,
+        "num": 129319,
+        "word": "斗罗大陆",
+        "onboard_time": 1685759308,
+        "rank": 46,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 59891,
+        "num": 129276,
+        "word": "不是只有嚎啕大哭才是悲痛",
+        "onboard_time": 1685776287,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55874,
+        "num": 129264,
+        "word": "小麦收割机侧翻10辆越野车免费救援",
+        "onboard_time": 1685772087,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54411,
+        "num": 129220,
+        "word": "知情人辟谣被撞小学生父亲坠楼",
+        "onboard_time": 1685721031,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力建设中华民族现代文明#"
+    }
+  }
+}
