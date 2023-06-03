@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685760442611,
+  "endTime": 1685760962760,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1672725,
+      "num": 1672725,
+      "word": "千万不要长期喝热咖啡",
+      "onboard_time": 1685754390,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1663297,
       "num": 1663297,
       "word": "肖战台词",
@@ -216,14 +224,6 @@
       "word": "男生接女友下班遭车祸致1死1病危",
       "onboard_time": 1685603186,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1584389,
-      "num": 1584389,
-      "word": "千万不要长期喝热咖啡",
-      "onboard_time": 1685754390,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1384003,
+      "num": 627102,
+      "word": "半藏森林",
+      "onboard_time": 1685757991,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1380628,
       "num": 1380628,
       "word": "边伯贤金珉锡金钟大与SMTOWN解约",
@@ -313,14 +321,6 @@
       "onboard_time": 1685672128,
       "rank": 4,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 1344405,
-      "num": 627102,
-      "word": "半藏森林",
-      "onboard_time": 1685757991,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 1333960,
@@ -419,8 +419,8 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 1251851,
-      "num": 1251851,
+      "raw_hot": 1255756,
+      "num": 1255756,
       "word": "Angelababy回归 跑男收视率",
       "onboard_time": 1685751085,
       "rank": 6,
@@ -457,6 +457,14 @@
       "onboard_time": 1685626952,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1215387,
+      "num": 1215387,
+      "word": "武汉迪士尼",
+      "onboard_time": 1685758169,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1205084,
@@ -609,14 +617,6 @@
       "onboard_time": 1685594189,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 975963,
-      "num": 975963,
-      "word": "武汉迪士尼",
-      "onboard_time": 1685758169,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 963621,
@@ -2091,6 +2091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 321070,
+      "num": 321070,
+      "word": "杨紫穿旗袍了",
+      "onboard_time": 1685751208,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 319691,
       "num": 260719,
       "word": "陌生男子一脚踩死怀孕猫咪",
@@ -2140,7 +2148,7 @@
     },
     {
       "raw_hot": 312739,
-      "num": 301866,
+      "num": 311601,
       "word": "不要和陌生人拼桌吃饭",
       "onboard_time": 1685757630,
       "rank": 40,
@@ -2259,6 +2267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 299814,
+      "num": 299814,
+      "word": "有效追妻vs无效追妻",
+      "onboard_time": 1685759249,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 298809,
       "num": 298809,
       "word": "宋祖儿显眼肚",
@@ -2331,6 +2347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289872,
+      "num": 289872,
+      "word": "他只是爱我 却不理会我灵魂的出口",
+      "onboard_time": 1685756369,
+      "rank": 39,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 289851,
       "num": 188654,
       "word": "找到周深叫周深的原因了",
@@ -2369,14 +2393,6 @@
       "onboard_time": 1685753188,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 289082,
-      "num": 289082,
-      "word": "杨紫穿旗袍了",
-      "onboard_time": 1685751208,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 288392,
@@ -2537,14 +2553,6 @@
       "onboard_time": 1685690067,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 273918,
-      "num": 273918,
-      "word": "他只是爱我 却不理会我灵魂的出口",
-      "onboard_time": 1685756369,
-      "rank": 39,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 273283,
@@ -2995,6 +3003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236997,
+      "num": 236997,
+      "word": "斗罗大陆",
+      "onboard_time": 1685759308,
+      "rank": 34,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 236374,
       "num": 235938,
       "word": "王一博看秀内场照",
@@ -3017,14 +3033,6 @@
       "onboard_time": 1685720849,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 233683,
-      "num": 231719,
-      "word": "有效追妻vs无效追妻",
-      "onboard_time": 1685759249,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 232922,
@@ -3057,6 +3065,14 @@
       "onboard_time": 1685700631,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231656,
+      "num": 231656,
+      "word": "侯明昊靠脸起千楼",
+      "onboard_time": 1685759670,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 230958,
@@ -3835,14 +3851,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 182280,
-      "num": 182280,
-      "word": "斗罗大陆",
-      "onboard_time": 1685759308,
-      "rank": 34,
-      "category": "动漫,影视"
-    },
-    {
       "raw_hot": 182134,
       "num": 182134,
       "word": "福建一彩民中得1.5亿大奖",
@@ -3873,6 +3881,14 @@
       "onboard_time": 1685684611,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180679,
+      "num": 180679,
+      "word": "前羽球奥运冠军质疑李宗伟入选名人堂",
+      "onboard_time": 1685758767,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 180310,
@@ -3907,14 +3923,6 @@
       "category": "综艺,游戏"
     },
     {
-      "raw_hot": 178270,
-      "num": 178270,
-      "word": "侯明昊靠脸起千楼",
-      "onboard_time": 1685759670,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 177433,
       "num": 177433,
       "word": "孙红雷说谢娜心眼小",
@@ -3929,6 +3937,14 @@
       "onboard_time": 1685631931,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 176893,
+      "num": 176893,
+      "word": "今日头条",
+      "onboard_time": 1685758827,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176431,
@@ -4131,14 +4147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 164434,
-      "num": 164434,
-      "word": "今日头条",
-      "onboard_time": 1685758827,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164063,
       "num": 164063,
       "word": "赵露思浓妆vs淡妆",
@@ -4193,6 +4201,14 @@
       "onboard_time": 1685624668,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 162468,
+      "num": 162468,
+      "word": "张逸杰回应过度举铁",
+      "onboard_time": 1685757808,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 159970,
@@ -4291,14 +4307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156080,
-      "num": 156080,
-      "word": "前羽球奥运冠军质疑李宗伟入选名人堂",
-      "onboard_time": 1685758767,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 155499,
       "num": 155499,
       "word": "明星芭莎吃东西大片",
@@ -4313,14 +4321,6 @@
       "onboard_time": 1685755108,
       "rank": 42,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 155054,
-      "num": 155054,
-      "word": "张逸杰回应过度举铁",
-      "onboard_time": 1685757808,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 154671,
@@ -4433,6 +4433,14 @@
       "onboard_time": 1685692588,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149037,
+      "num": 149037,
+      "word": "你支持上四休三吗",
+      "onboard_time": 1685760750,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148767,
@@ -5113,6 +5121,14 @@
       "onboard_time": 1685681857,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98646,
+      "num": 98646,
+      "word": "狗狗吞下9只袜子",
+      "onboard_time": 1685760869,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 97869,

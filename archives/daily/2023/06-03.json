@@ -1,6 +1,6 @@
 {
   "startTime": 1685722886907,
-  "endTime": 1685760442611,
+  "endTime": 1685760962760,
   "band_list": [
     {
       "raw_hot": 4395833,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1584389,
-      "num": 1584389,
+      "raw_hot": 1672725,
+      "num": 1672725,
       "word": "千万不要长期喝热咖啡",
       "onboard_time": 1685754390,
       "rank": 9,
@@ -59,7 +59,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1344405,
+      "raw_hot": 1384003,
       "num": 627102,
       "word": "半藏森林",
       "onboard_time": 1685757991,
@@ -67,8 +67,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1251851,
-      "num": 1251851,
+      "raw_hot": 1255756,
+      "num": 1255756,
       "word": "Angelababy回归 跑男收视率",
       "onboard_time": 1685751085,
       "rank": 6,
@@ -80,6 +80,14 @@
       "word": "3未成年男性酒店轮流猥亵2少女",
       "onboard_time": 1685706814,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1215387,
+      "num": 1215387,
+      "word": "武汉迪士尼",
+      "onboard_time": 1685758169,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -128,14 +136,6 @@
       "word": "我国一孩生育率跌至0.5",
       "onboard_time": 1685704832,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 975963,
-      "num": 975963,
-      "word": "武汉迪士尼",
-      "onboard_time": 1685758169,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -339,6 +339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 321070,
+      "num": 321070,
+      "word": "杨紫穿旗袍了",
+      "onboard_time": 1685751208,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 314099,
       "num": 314099,
       "word": "收视率",
@@ -356,11 +364,27 @@
     },
     {
       "raw_hot": 312739,
-      "num": 301866,
+      "num": 311601,
       "word": "不要和陌生人拼桌吃饭",
       "onboard_time": 1685757630,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 299814,
+      "num": 299814,
+      "word": "有效追妻vs无效追妻",
+      "onboard_time": 1685759249,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 289872,
+      "num": 289872,
+      "word": "他只是爱我 却不理会我灵魂的出口",
+      "onboard_time": 1685756369,
+      "rank": 39,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 289345,
@@ -371,28 +395,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 289082,
-      "num": 289082,
-      "word": "杨紫穿旗袍了",
-      "onboard_time": 1685751208,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 285238,
       "num": 285238,
       "word": "EXO成员未来活动计划",
       "onboard_time": 1685723546,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 273918,
-      "num": 273918,
-      "word": "他只是爱我 却不理会我灵魂的出口",
-      "onboard_time": 1685756369,
-      "rank": 39,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 269129,
@@ -443,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236997,
+      "num": 236997,
+      "word": "斗罗大陆",
+      "onboard_time": 1685759308,
+      "rank": 34,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 234503,
       "num": 254862,
       "word": "原来举案齐眉是这么个举案齐眉",
@@ -451,11 +467,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 233683,
-      "num": 231719,
-      "word": "有效追妻vs无效追妻",
-      "onboard_time": 1685759249,
-      "rank": 30,
+      "raw_hot": 231656,
+      "num": 231656,
+      "word": "侯明昊靠脸起千楼",
+      "onboard_time": 1685759670,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -523,20 +539,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 182280,
-      "num": 182280,
-      "word": "斗罗大陆",
-      "onboard_time": 1685759308,
-      "rank": 34,
-      "category": "动漫,影视"
+      "raw_hot": 180679,
+      "num": 180679,
+      "word": "前羽球奥运冠军质疑李宗伟入选名人堂",
+      "onboard_time": 1685758767,
+      "rank": 37,
+      "category": "体育"
     },
     {
-      "raw_hot": 178270,
-      "num": 178270,
-      "word": "侯明昊靠脸起千楼",
-      "onboard_time": 1685759670,
-      "rank": 35,
-      "category": "影视"
+      "raw_hot": 176893,
+      "num": 176893,
+      "word": "今日头条",
+      "onboard_time": 1685758827,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168112,
@@ -547,12 +563,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 164434,
-      "num": 164434,
-      "word": "今日头条",
-      "onboard_time": 1685758827,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 162468,
+      "num": 162468,
+      "word": "张逸杰回应过度举铁",
+      "onboard_time": 1685757808,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 158881,
@@ -571,28 +587,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 156080,
-      "num": 156080,
-      "word": "前羽球奥运冠军质疑李宗伟入选名人堂",
-      "onboard_time": 1685758767,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 155092,
       "num": 155092,
       "word": "赵丽颖新中式玉兔盘发教程",
       "onboard_time": 1685755108,
       "rank": 42,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 155054,
-      "num": 155054,
-      "word": "张逸杰回应过度举铁",
-      "onboard_time": 1685757808,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 154671,
@@ -617,6 +617,14 @@
       "onboard_time": 1685716713,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 149037,
+      "num": 149037,
+      "word": "你支持上四休三吗",
+      "onboard_time": 1685760750,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144687,
@@ -753,6 +761,14 @@
       "onboard_time": 1685701710,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 98646,
+      "num": 98646,
+      "word": "狗狗吞下9只袜子",
+      "onboard_time": 1685760869,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 97347,
