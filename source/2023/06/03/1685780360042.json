@@ -1,0 +1,410 @@
+{
+  "runTime": 1685780360042,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1564298,
+        "num": 1564298,
+        "word": "卢靖姗顺产用了三十六个小时",
+        "onboard_time": 1685776287,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1424602,
+        "num": 1424602,
+        "word": "女儿在爸爸朋友圈发长文拜托别劝酒",
+        "onboard_time": 1685766088,
+        "rank": 1,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 25954,
+        "num": 1294508,
+        "word": "三夏已至农事正忙",
+        "onboard_time": 1685779707,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1250654,
+        "num": 1250654,
+        "word": "黄觉牵张艺凡",
+        "onboard_time": 1685774488,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1035798,
+        "num": 1035798,
+        "word": "徐开骋被AI换脸",
+        "onboard_time": 1685777067,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 846686,
+        "num": 846686,
+        "word": "庾澄庆频繁在线",
+        "onboard_time": 1685777127,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 835405,
+        "num": 835405,
+        "word": "陈伟霆章若楠真的没在谈吗",
+        "onboard_time": 1685777245,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 532837,
+        "num": 532837,
+        "word": "4篇论文现同一划痕钢尺遭撤稿",
+        "onboard_time": 1685769449,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 384540,
+        "num": 384540,
+        "word": "印度火车相撞已致288人死亡",
+        "onboard_time": 1685769747,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265271,
+        "num": 265271,
+        "word": "花花和大家打招呼",
+        "onboard_time": 1685771246,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1069082,
+        "num": 265123,
+        "word": "家属正在安排被撞小学生母亲后事",
+        "onboard_time": 1685768309,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 724642,
+        "num": 259298,
+        "word": "杨紫长发及腰了",
+        "onboard_time": 1685779288,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 687514,
+        "num": 254832,
+        "word": "程潇跳一半骨折了",
+        "onboard_time": 1685768729,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480181,
+        "num": 251412,
+        "word": "肖战 CHALI",
+        "onboard_time": 1685773107,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270163,
+        "num": 249137,
+        "word": "做饭阿姨好像活在总裁文里",
+        "onboard_time": 1685779528,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439742,
+        "num": 242582,
+        "word": "刘雅瑟多穿裙子吧",
+        "onboard_time": 1685773468,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351761,
+        "num": 239350,
+        "word": "朱珠问吴倩看过人生大事吗",
+        "onboard_time": 1685768070,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237181,
+        "num": 237181,
+        "word": "浙江多所小学美术本印有涉黄二维码",
+        "onboard_time": 1685778567,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 216906,
+        "num": 216906,
+        "word": "椰树首次正面回应直播风格争议",
+        "onboard_time": 1685763269,
+        "rank": 18,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 187970,
+        "num": 187970,
+        "word": "奥运冠军王懿律宣布退出国家队",
+        "onboard_time": 1685770407,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325019,
+        "num": 187736,
+        "word": "李泰容迷你专辑",
+        "onboard_time": 1685778509,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 291050,
+        "num": 187389,
+        "word": "赵露思是曾黎的人形挂件吧",
+        "onboard_time": 1685779887,
+        "rank": 21,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 220683,
+        "num": 187102,
+        "word": "一辆SUV盲区里藏着75名儿童",
+        "onboard_time": 1685771608,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186646,
+        "num": 186646,
+        "word": "您的骑手正在逗狗",
+        "onboard_time": 1685776588,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176685,
+        "num": 176685,
+        "word": "中国女排vs荷兰女排",
+        "onboard_time": 1685779288,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290470,
+        "num": 176102,
+        "word": "张艺兴 抢票",
+        "onboard_time": 1685769930,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 283072,
+        "num": 175329,
+        "word": "关晓彤多巴胺穿搭",
+        "onboard_time": 1685779347,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258139,
+        "num": 174809,
+        "word": "还以为吴磊从新疆骑到广州",
+        "onboard_time": 1685776886,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245838,
+        "num": 174255,
+        "word": "吴倩说女儿和自己长得一模一样",
+        "onboard_time": 1685779887,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173637,
+        "num": 173637,
+        "word": "千万不要长期喝热咖啡",
+        "onboard_time": 1685754390,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233734,
+        "num": 173340,
+        "word": "密室大逃脱官微评论区",
+        "onboard_time": 1685776287,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227064,
+        "num": 166922,
+        "word": "吴倩给芝芙晒娃",
+        "onboard_time": 1685775026,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208551,
+        "num": 158962,
+        "word": "EXO是真的勇",
+        "onboard_time": 1685768250,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147332,
+        "num": 147332,
+        "word": "武汉迪士尼",
+        "onboard_time": 1685758169,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146555,
+        "num": 146555,
+        "word": "女孩不舍得父母买钢琴进门瞬间喜极而泣",
+        "onboard_time": 1685769029,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202306,
+        "num": 135933,
+        "word": "蔡徐坤澳门演唱会今晚开唱",
+        "onboard_time": 1685779768,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122702,
+        "num": 122702,
+        "word": "感情里的假复合",
+        "onboard_time": 1685779768,
+        "rank": 36,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 118211,
+        "num": 118211,
+        "word": "龚翔宇",
+        "onboard_time": 1685779948,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109948,
+        "num": 109948,
+        "word": "女排",
+        "onboard_time": 1685776947,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108061,
+        "num": 108061,
+        "word": "苹果80",
+        "onboard_time": 1685764946,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 183941,
+        "num": 107153,
+        "word": "花戎又土又上头",
+        "onboard_time": 1685779588,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178512,
+        "num": 107015,
+        "word": "热烈追梦版预告",
+        "onboard_time": 1685780009,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171186,
+        "num": 105339,
+        "word": "黄磊 有的满意有的都不敢聊",
+        "onboard_time": 1685763748,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160886,
+        "num": 104867,
+        "word": "谢娜说用力过猛是我的风格",
+        "onboard_time": 1685777548,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156880,
+        "num": 103621,
+        "word": "迪丽热巴拍出一个爱心",
+        "onboard_time": 1685780187,
+        "rank": 44,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 156811,
+        "num": 102931,
+        "word": "吴磊广州",
+        "onboard_time": 1685770048,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102301,
+        "num": 102301,
+        "word": "小狗进入美发店被店员装麻袋摔死",
+        "onboard_time": 1685764289,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102247,
+        "num": 102247,
+        "word": "白鹭误进餐馆直奔后厨狂炫鱼货",
+        "onboard_time": 1685780130,
+        "rank": 47,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 99507,
+        "num": 99507,
+        "word": "椰树男主播营业视频",
+        "onboard_time": 1685766147,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90084,
+        "num": 99477,
+        "word": "高三生离校前给老师准备撒花惊喜",
+        "onboard_time": 1685779588,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力建设中华民族现代文明#"
+    }
+  }
+}

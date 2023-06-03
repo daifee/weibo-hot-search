@@ -1,6 +1,6 @@
 {
   "startTime": 1685722886907,
-  "endTime": 1685777603844,
+  "endTime": 1685780360042,
   "band_list": [
     {
       "raw_hot": 4395833,
@@ -99,8 +99,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1330195,
-      "num": 1330195,
+      "raw_hot": 1564298,
+      "num": 1564298,
+      "word": "卢靖姗顺产用了三十六个小时",
+      "onboard_time": 1685776287,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1424602,
+      "num": 1424602,
       "word": "女儿在爸爸朋友圈发长文拜托别劝酒",
       "onboard_time": 1685766088,
       "rank": 28,
@@ -121,6 +129,14 @@
       "onboard_time": 1685751085,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1250654,
+      "num": 1250654,
+      "word": "黄觉牵张艺凡",
+      "onboard_time": 1685774488,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1234336,
@@ -179,12 +195,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1041786,
-      "num": 1041786,
-      "word": "黄觉牵张艺凡",
-      "onboard_time": 1685774488,
-      "rank": 3,
-      "category": "作品衍生"
+      "raw_hot": 1035798,
+      "num": 1035798,
+      "word": "徐开骋被AI换脸",
+      "onboard_time": 1685777067,
+      "rank": 19,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1013892,
@@ -227,11 +243,35 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 846686,
+      "num": 846686,
+      "word": "庾澄庆频繁在线",
+      "onboard_time": 1685777127,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 835405,
+      "num": 835405,
+      "word": "陈伟霆章若楠真的没在谈吗",
+      "onboard_time": 1685777245,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 777837,
       "num": 777837,
       "word": "刘畊宏20秒短视频要价60万",
       "onboard_time": 1685748923,
       "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 724642,
+      "num": 259298,
+      "word": "杨紫长发及腰了",
+      "onboard_time": 1685779288,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -324,7 +364,7 @@
     },
     {
       "raw_hot": 507598,
-      "num": 212707,
+      "num": 251412,
       "word": "肖战 CHALI",
       "onboard_time": 1685773107,
       "rank": 30,
@@ -361,14 +401,6 @@
       "onboard_time": 1685770048,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 467374,
-      "num": 275274,
-      "word": "卢靖姗顺产用了三十六个小时",
-      "onboard_time": 1685776287,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 443920,
@@ -547,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 325019,
+      "num": 187736,
+      "word": "李泰容迷你专辑",
+      "onboard_time": 1685778509,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 324315,
       "num": 324315,
       "word": "张杰演唱会上的五口之家",
@@ -611,6 +651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 291050,
+      "num": 187389,
+      "word": "赵露思是曾黎的人形挂件吧",
+      "onboard_time": 1685779887,
+      "rank": 21,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 289872,
       "num": 289872,
       "word": "他只是爱我 却不理会我灵魂的出口",
@@ -643,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283072,
+      "num": 175329,
+      "word": "关晓彤多巴胺穿搭",
+      "onboard_time": 1685779347,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275421,
       "num": 275421,
       "word": "花花和大家打招呼",
@@ -651,12 +707,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 274662,
-      "num": 274662,
-      "word": "陈伟霆章若楠真的没在谈吗",
-      "onboard_time": 1685777245,
-      "rank": 16,
-      "category": "影视"
+      "raw_hot": 270163,
+      "num": 249137,
+      "word": "做饭阿姨好像活在总裁文里",
+      "onboard_time": 1685779528,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269129,
@@ -691,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258139,
+      "num": 174809,
+      "word": "还以为吴磊从新疆骑到广州",
+      "onboard_time": 1685776886,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255003,
       "num": 255003,
       "word": "全员加速中",
@@ -723,12 +787,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245838,
+      "num": 174255,
+      "word": "吴倩说女儿和自己长得一模一样",
+      "onboard_time": 1685779887,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244567,
       "num": 325062,
       "word": "如何看待我国一孩生育率下跌现象",
       "onboard_time": 1685718693,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237181,
+      "num": 237181,
+      "word": "浙江多所小学美术本印有涉黄二维码",
+      "onboard_time": 1685778567,
+      "rank": 17,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 237122,
@@ -753,6 +833,14 @@
       "onboard_time": 1685720849,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 233734,
+      "num": 173340,
+      "word": "密室大逃脱官微评论区",
+      "onboard_time": 1685776287,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 231656,
@@ -795,28 +883,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222601,
-      "num": 165210,
-      "word": "庾澄庆频繁在线",
-      "onboard_time": 1685777127,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 219385,
       "num": 211447,
       "word": "张艺兴深圳演唱会今天抢票",
       "onboard_time": 1685764946,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 218350,
-      "num": 218350,
-      "word": "徐开骋被AI换脸",
-      "onboard_time": 1685777067,
-      "rank": 19,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 218136,
@@ -915,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202306,
+      "num": 135933,
+      "word": "蔡徐坤澳门演唱会今晚开唱",
+      "onboard_time": 1685779768,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199760,
       "num": 170739,
       "word": "王嘉尔澳门演唱会官宣",
@@ -929,14 +1009,6 @@
       "onboard_time": 1685762668,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 194272,
-      "num": 152879,
-      "word": "还以为吴磊从新疆骑到广州",
-      "onboard_time": 1685776886,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 193713,
@@ -987,20 +1059,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 190466,
-      "num": 148014,
-      "word": "密室大逃脱官微评论区",
-      "onboard_time": 1685776287,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 190105,
       "num": 190105,
       "word": "蔡徐坤晒澳门演唱会舞台照",
       "onboard_time": 1685756009,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 186646,
+      "num": 186646,
+      "word": "您的骑手正在逗狗",
+      "onboard_time": 1685776588,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 185973,
@@ -1011,12 +1083,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182538,
-      "num": 182538,
-      "word": "您的骑手正在逗狗",
-      "onboard_time": 1685776588,
-      "rank": 23,
-      "category": "幽默"
+      "raw_hot": 183941,
+      "num": 107153,
+      "word": "花戎又土又上头",
+      "onboard_time": 1685779588,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 180679,
@@ -1024,6 +1096,22 @@
       "word": "前羽球奥运冠军质疑李宗伟入选名人堂",
       "onboard_time": 1685758767,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 178512,
+      "num": 107015,
+      "word": "热烈追梦版预告",
+      "onboard_time": 1685780009,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 176685,
+      "num": 176685,
+      "word": "中国女排vs荷兰女排",
+      "onboard_time": 1685779288,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -1041,6 +1129,14 @@
       "onboard_time": 1685769150,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 160886,
+      "num": 142302,
+      "word": "谢娜说用力过猛是我的风格",
+      "onboard_time": 1685777548,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 160686,
@@ -1081,6 +1177,14 @@
       "onboard_time": 1685757209,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156880,
+      "num": 103621,
+      "word": "迪丽热巴拍出一个爱心",
+      "onboard_time": 1685780187,
+      "rank": 44,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 155092,
@@ -1203,12 +1307,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122702,
+      "num": 122702,
+      "word": "感情里的假复合",
+      "onboard_time": 1685779768,
+      "rank": 36,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 122544,
       "num": 122544,
       "word": "张杰唱剑心爷青回",
       "onboard_time": 1685717975,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 118211,
+      "num": 118211,
+      "word": "龚翔宇",
+      "onboard_time": 1685779948,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 117678,
@@ -1241,14 +1361,6 @@
       "onboard_time": 1685747480,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113887,
-      "num": 142302,
-      "word": "谢娜说用力过猛是我的风格",
-      "onboard_time": 1685777548,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 112645,
@@ -1331,6 +1443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 102247,
+      "num": 102247,
+      "word": "白鹭误进餐馆直奔后厨狂炫鱼货",
+      "onboard_time": 1685780130,
+      "rank": 47,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 102145,
       "num": 102145,
       "word": "第一次意识到古装剧里眉毛这么重要",
@@ -1385,6 +1505,14 @@
       "onboard_time": 1685762129,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90084,
+      "num": 99477,
+      "word": "高三生离校前给老师准备撒花惊喜",
+      "onboard_time": 1685779588,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 89508,
@@ -1544,6 +1672,14 @@
       "word": "师生协力上演教科书式急救",
       "onboard_time": 1685768429,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25954,
+      "num": 1294508,
+      "word": "三夏已至农事正忙",
+      "onboard_time": 1685779707,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
