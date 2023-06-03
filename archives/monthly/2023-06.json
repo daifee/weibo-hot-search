@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685805345087,
+  "endTime": 1685806424730,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1995855,
-      "num": 546569,
+      "num": 616895,
       "word": "香港一精神病人在商场当众捅死2人",
       "onboard_time": 1685800528,
       "rank": 11,
@@ -371,6 +371,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1433613,
+      "num": 1411635,
+      "word": "瘦子真帅",
+      "onboard_time": 1685796210,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1424602,
       "num": 1424602,
       "word": "女儿在爸爸朋友圈发长文拜托别劝酒",
@@ -385,14 +393,6 @@
       "onboard_time": 1685706691,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1411635,
-      "num": 1411635,
-      "word": "瘦子真帅",
-      "onboard_time": 1685796210,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 1407080,
@@ -723,8 +723,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1110847,
-      "num": 1110847,
+      "raw_hot": 1124507,
+      "num": 1124507,
       "word": "原配抓小三路人帮腔大骂男方不要脸",
       "onboard_time": 1685801973,
       "rank": 23,
@@ -971,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 824764,
+      "num": 824764,
+      "word": "成都七中一学生被开除",
+      "onboard_time": 1685804552,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 810195,
       "num": 810195,
       "word": "研究生辞谢信彰显卧龙凤雏",
@@ -1113,6 +1121,14 @@
       "onboard_time": 1685689767,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 695559,
+      "num": 695559,
+      "word": "总裁带员工去蔡徐坤演唱会团建",
+      "onboard_time": 1685803712,
+      "rank": 8,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 688162,
@@ -1465,14 +1481,6 @@
       "onboard_time": 1685606668,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 559061,
-      "num": 559061,
-      "word": "总裁带员工去蔡徐坤演唱会团建",
-      "onboard_time": 1685803712,
-      "rank": 8,
-      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 557874,
@@ -1905,6 +1913,14 @@
       "onboard_time": 1685720489,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 437684,
+      "num": 437684,
+      "word": "一人说一个奇怪的生理反应",
+      "onboard_time": 1685804011,
+      "rank": 22,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 435195,
@@ -2811,14 +2827,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 311899,
-      "num": 311899,
-      "word": "一人说一个奇怪的生理反应",
-      "onboard_time": 1685804011,
-      "rank": 22,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 311706,
       "num": 311706,
       "word": "长月烬明三位主演的后续",
@@ -2833,6 +2841,14 @@
       "onboard_time": 1685607086,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 310847,
+      "num": 310847,
+      "word": "鹿晗演唱会",
+      "onboard_time": 1685805271,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 309663,
@@ -3027,12 +3043,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 295706,
-      "num": 295706,
-      "word": "成都七中一学生被开除",
-      "onboard_time": 1685804552,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 296872,
+      "num": 296872,
+      "word": "14岁女生心脏骤停教室上演生死救援",
+      "onboard_time": 1685804133,
+      "rank": 28,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 295262,
@@ -3163,6 +3179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285918,
+      "num": 258952,
+      "word": "黄奕45岁穿校服状态",
+      "onboard_time": 1685804552,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 285238,
       "num": 285238,
       "word": "EXO成员未来活动计划",
@@ -3208,6 +3232,14 @@
       "word": "梦中的那片海首播好多冠军",
       "onboard_time": 1685692767,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 281043,
+      "num": 276638,
+      "word": "肖春生是叶家编外人员",
+      "onboard_time": 1685803770,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -3281,14 +3313,6 @@
       "onboard_time": 1685589685,
       "rank": 27,
       "category": "美食"
-    },
-    {
-      "raw_hot": 276638,
-      "num": 276638,
-      "word": "肖春生是叶家编外人员",
-      "onboard_time": 1685803770,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 276491,
@@ -3651,20 +3675,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253733,
+      "num": 253733,
+      "word": "不要在APP上给我推荐可能认识的人了",
+      "onboard_time": 1685802211,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 253624,
       "num": 237403,
       "word": "王一博热烈儿童节海报",
       "onboard_time": 1685593050,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 252611,
-      "num": 252611,
-      "word": "14岁女生心脏骤停教室上演生死救援",
-      "onboard_time": 1685804133,
-      "rank": 28,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 251954,
@@ -3835,6 +3859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 241105,
+      "num": 241105,
+      "word": "声生不息 告五人",
+      "onboard_time": 1685805391,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240785,
       "num": 240785,
       "word": "成都蓉城",
@@ -3939,6 +3971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234847,
+      "num": 223223,
+      "word": "肖战李沁新剧宿命感",
+      "onboard_time": 1685803051,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 234785,
       "num": 216645,
       "word": "张嘉倪羽毛裙好轻灵",
@@ -4009,14 +4049,6 @@
       "onboard_time": 1685580569,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232258,
-      "num": 232258,
-      "word": "不要在APP上给我推荐可能认识的人了",
-      "onboard_time": 1685802211,
-      "rank": 43,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 232088,
@@ -4147,6 +4179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 224886,
+      "num": 224886,
+      "word": "2女生看五月天假装干杯被邻座塞饮料",
+      "onboard_time": 1685802752,
+      "rank": 42,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 224802,
       "num": 224802,
       "word": "卡琳娜",
@@ -4169,14 +4209,6 @@
       "onboard_time": 1685660781,
       "rank": 43,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 224186,
-      "num": 223223,
-      "word": "肖战李沁新剧宿命感",
-      "onboard_time": 1685803051,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 224075,
@@ -4595,6 +4627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202586,
+      "num": 176279,
+      "word": "张小狮 大树",
+      "onboard_time": 1685806172,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 202306,
       "num": 135933,
       "word": "蔡徐坤澳门演唱会今晚开唱",
@@ -4625,14 +4665,6 @@
       "onboard_time": 1685795547,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200553,
-      "num": 200553,
-      "word": "黄奕45岁穿校服状态",
-      "onboard_time": 1685804552,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 200341,
@@ -4793,14 +4825,6 @@
       "onboard_time": 1685782227,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 194936,
-      "num": 194936,
-      "word": "2女生看五月天假装干杯被邻座塞饮料",
-      "onboard_time": 1685802752,
-      "rank": 42,
-      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 193780,
@@ -5753,14 +5777,6 @@
       "onboard_time": 1685692167,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156981,
-      "num": 156981,
-      "word": "鹿晗演唱会",
-      "onboard_time": 1685805271,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 156377,

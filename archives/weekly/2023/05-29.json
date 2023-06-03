@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685805345087,
+  "endTime": 1685806424730,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 1995855,
-      "num": 546569,
+      "num": 616895,
       "word": "香港一精神病人在商场当众捅死2人",
       "onboard_time": 1685800528,
       "rank": 11,
@@ -859,6 +859,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1433613,
+      "num": 1411635,
+      "word": "瘦子真帅",
+      "onboard_time": 1685796210,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1425401,
       "num": 1425401,
       "word": "砍死柯基男子被拘留12天",
@@ -897,14 +905,6 @@
       "onboard_time": 1685706691,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1411635,
-      "num": 1411635,
-      "word": "瘦子真帅",
-      "onboard_time": 1685796210,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 1407080,
@@ -1507,19 +1507,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1124507,
+      "num": 1124507,
+      "word": "原配抓小三路人帮腔大骂男方不要脸",
+      "onboard_time": 1685801973,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1115603,
       "num": 1115603,
       "word": "大熊猫园润遭男子泼水",
       "onboard_time": 1685414187,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1110847,
-      "num": 1110847,
-      "word": "原配抓小三路人帮腔大骂男方不要脸",
-      "onboard_time": 1685801973,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -2091,6 +2091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 824764,
+      "num": 824764,
+      "word": "成都七中一学生被开除",
+      "onboard_time": 1685804552,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 819265,
       "num": 552009,
       "word": "四川大学",
@@ -2425,6 +2433,14 @@
       "onboard_time": 1685689767,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 695559,
+      "num": 695559,
+      "word": "总裁带员工去蔡徐坤演唱会团建",
+      "onboard_time": 1685803712,
+      "rank": 8,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 689329,
@@ -3137,14 +3153,6 @@
       "onboard_time": 1685444310,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 559061,
-      "num": 559061,
-      "word": "总裁带员工去蔡徐坤演唱会团建",
-      "onboard_time": 1685803712,
-      "rank": 8,
-      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 557874,
@@ -4089,6 +4097,14 @@
       "onboard_time": 1685409568,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 437684,
+      "num": 437684,
+      "word": "一人说一个奇怪的生理反应",
+      "onboard_time": 1685804011,
+      "rank": 22,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 437444,
@@ -6067,14 +6083,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 311899,
-      "num": 311899,
-      "word": "一人说一个奇怪的生理反应",
-      "onboard_time": 1685804011,
-      "rank": 22,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 311626,
       "num": 311626,
       "word": "肖战新剧不断更",
@@ -6089,6 +6097,14 @@
       "onboard_time": 1685493089,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310847,
+      "num": 310847,
+      "word": "鹿晗演唱会",
+      "onboard_time": 1685805271,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 310501,
@@ -6387,6 +6403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 296872,
+      "num": 296872,
+      "word": "14岁女生心脏骤停教室上演生死救援",
+      "onboard_time": 1685804133,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 296633,
       "num": 296633,
       "word": "直播间明星带货竟是AI换脸",
@@ -6401,14 +6425,6 @@
       "onboard_time": 1685503948,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 295706,
-      "num": 295706,
-      "word": "成都七中一学生被开除",
-      "onboard_time": 1685804552,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 295486,
@@ -6643,6 +6659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285918,
+      "num": 258952,
+      "word": "黄奕45岁穿校服状态",
+      "onboard_time": 1685804552,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 285238,
       "num": 285238,
       "word": "EXO成员未来活动计划",
@@ -6759,6 +6783,14 @@
       "num": 282749,
       "word": "肖战粉丝花式宣传梦中的那片海",
       "onboard_time": 1685544453,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 281043,
+      "num": 276638,
+      "word": "肖春生是叶家编外人员",
+      "onboard_time": 1685803770,
       "rank": 27,
       "category": "影视"
     },
@@ -6905,14 +6937,6 @@
       "onboard_time": 1685589685,
       "rank": 27,
       "category": "美食"
-    },
-    {
-      "raw_hot": 276638,
-      "num": 276638,
-      "word": "肖春生是叶家编外人员",
-      "onboard_time": 1685803770,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 276623,
@@ -7675,6 +7699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 253733,
+      "num": 253733,
+      "word": "不要在APP上给我推荐可能认识的人了",
+      "onboard_time": 1685802211,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 253624,
       "num": 237403,
       "word": "王一博热烈儿童节海报",
@@ -7697,14 +7729,6 @@
       "onboard_time": 1685426908,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 252611,
-      "num": 252611,
-      "word": "14岁女生心脏骤停教室上演生死救援",
-      "onboard_time": 1685804133,
-      "rank": 28,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 252471,
@@ -8131,6 +8155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 241105,
+      "num": 241105,
+      "word": "声生不息 告五人",
+      "onboard_time": 1685805391,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240785,
       "num": 240785,
       "word": "成都蓉城",
@@ -8387,6 +8419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 234847,
+      "num": 223223,
+      "word": "肖战李沁新剧宿命感",
+      "onboard_time": 1685803051,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 234785,
       "num": 216645,
       "word": "张嘉倪羽毛裙好轻灵",
@@ -8497,14 +8537,6 @@
       "onboard_time": 1685580569,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232258,
-      "num": 232258,
-      "word": "不要在APP上给我推荐可能认识的人了",
-      "onboard_time": 1685802211,
-      "rank": 43,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 232180,
@@ -8747,6 +8779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 224886,
+      "num": 224886,
+      "word": "2女生看五月天假装干杯被邻座塞饮料",
+      "onboard_time": 1685802752,
+      "rank": 42,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 224884,
       "num": 224884,
       "word": "7个月宝宝患癌妈妈躲走廊自责落泪",
@@ -8809,14 +8849,6 @@
       "onboard_time": 1685660781,
       "rank": 43,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 224186,
-      "num": 223223,
-      "word": "肖战李沁新剧宿命感",
-      "onboard_time": 1685803051,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 224167,
@@ -9779,6 +9811,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 202586,
+      "num": 176279,
+      "word": "张小狮 大树",
+      "onboard_time": 1685806172,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 202437,
       "num": 210589,
       "word": "在古代广东是流放地的原因",
@@ -9857,14 +9897,6 @@
       "onboard_time": 1685445990,
       "rank": 43,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 200553,
-      "num": 200553,
-      "word": "黄奕45岁穿校服状态",
-      "onboard_time": 1685804552,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 200414,
@@ -10241,14 +10273,6 @@
       "onboard_time": 1685278109,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 194936,
-      "num": 194936,
-      "word": "2女生看五月天假装干杯被邻座塞饮料",
-      "onboard_time": 1685802752,
-      "rank": 42,
-      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 194843,
@@ -12121,14 +12145,6 @@
       "onboard_time": 1685692167,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156981,
-      "num": 156981,
-      "word": "鹿晗演唱会",
-      "onboard_time": 1685805271,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 156377,
