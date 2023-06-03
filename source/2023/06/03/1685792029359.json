@@ -1,0 +1,410 @@
+{
+  "runTime": 1685792029359,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1148944,
+        "num": 1148944,
+        "word": "上四休三",
+        "onboard_time": 1685789606,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655801,
+        "num": 1139906,
+        "word": "高三学生写永久请假条告别班主任",
+        "onboard_time": 1685781809,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 33555,
+        "num": 1133931,
+        "word": "带着我的梦想上天宫",
+        "onboard_time": 1685779226,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1133157,
+        "num": 1133157,
+        "word": "曲婉婷被拍卖房产以219.9万成交",
+        "onboard_time": 1685786129,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 231730,
+        "num": 888164,
+        "word": "女儿在爸爸朋友圈发长文拜托别劝酒",
+        "onboard_time": 1685766088,
+        "rank": 4,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 729919,
+        "num": 729919,
+        "word": "吴倩说女儿和自己长得一模一样",
+        "onboard_time": 1685779887,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165122,
+        "num": 711692,
+        "word": "月嫂提前离开雇主不舍偷偷抹泪",
+        "onboard_time": 1685790028,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709033,
+        "num": 709033,
+        "word": "赵露思是曾黎的人形挂件吧",
+        "onboard_time": 1685779887,
+        "rank": 7,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 603229,
+        "num": 603229,
+        "word": "陈伟霆章若楠真的没在谈吗",
+        "onboard_time": 1685777245,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 356756,
+        "num": 356756,
+        "word": "什刹海男团都是撕漫男",
+        "onboard_time": 1685788226,
+        "rank": 9,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 1100213,
+        "num": 355139,
+        "word": "宋昕冉追星迪丽热巴成功",
+        "onboard_time": 1685786308,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432452,
+        "num": 349252,
+        "word": "徐开骋被AI换脸",
+        "onboard_time": 1685777067,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 587046,
+        "num": 345727,
+        "word": "迪丽热巴有几个好妹妹",
+        "onboard_time": 1685789548,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379888,
+        "num": 339888,
+        "word": "卢靖姗顺产用了三十六个小时",
+        "onboard_time": 1685776287,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372332,
+        "num": 332546,
+        "word": "盛一伦祝迪丽热巴生日快乐",
+        "onboard_time": 1685780968,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358253,
+        "num": 329169,
+        "word": "家属正在安排被撞小学生母亲后事",
+        "onboard_time": 1685768309,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326291,
+        "num": 326291,
+        "word": "杨紫长发及腰了",
+        "onboard_time": 1685779288,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323333,
+        "num": 323333,
+        "word": "张小狮",
+        "onboard_time": 1685786907,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 229217,
+        "num": 229217,
+        "word": "4篇论文现同一划痕钢尺遭撤稿",
+        "onboard_time": 1685769449,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 199795,
+        "num": 225919,
+        "word": "陪着室友去医院车费却要AA",
+        "onboard_time": 1685790687,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223406,
+        "num": 223406,
+        "word": "朱一龙杨蓉友情",
+        "onboard_time": 1685783487,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211768,
+        "num": 211768,
+        "word": "程潇跳一半骨折了",
+        "onboard_time": 1685768729,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177069,
+        "num": 177069,
+        "word": "离职时HR把我的职位写高了",
+        "onboard_time": 1685790448,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169994,
+        "num": 169994,
+        "word": "做饭阿姨好像活在总裁文里",
+        "onboard_time": 1685779528,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153283,
+        "num": 153283,
+        "word": "印度火车相撞已致288人死亡",
+        "onboard_time": 1685769747,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203119,
+        "num": 152007,
+        "word": "黄觉牵张艺凡",
+        "onboard_time": 1685774488,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193873,
+        "num": 151314,
+        "word": "Angelababy白鹿哭戏",
+        "onboard_time": 1685787627,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192575,
+        "num": 151087,
+        "word": "马嘉祺获声生不息新人奖",
+        "onboard_time": 1685789666,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150455,
+        "num": 150455,
+        "word": "山西一医院因夸大病情15人被捕",
+        "onboard_time": 1685783727,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128422,
+        "num": 128422,
+        "word": "成人身上有多少块骨头",
+        "onboard_time": 1685788226,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 268561,
+        "num": 128406,
+        "word": "媒体称要对大学师生恋零容忍",
+        "onboard_time": 1685786427,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 234713,
+        "num": 128180,
+        "word": "四川一男子当街持刀捅伤女子后自杀",
+        "onboard_time": 1685791348,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183462,
+        "num": 128018,
+        "word": "肖战 CHALI",
+        "onboard_time": 1685773107,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181869,
+        "num": 127849,
+        "word": "迪丽热巴回关宋昕冉",
+        "onboard_time": 1685788948,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165483,
+        "num": 127664,
+        "word": "黄景瑜吉林",
+        "onboard_time": 1685786247,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158938,
+        "num": 127607,
+        "word": "蔡徐坤白衬衫顶胯",
+        "onboard_time": 1685788285,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148436,
+        "num": 127392,
+        "word": "吴倩英文好流利",
+        "onboard_time": 1685783369,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127357,
+        "num": 127357,
+        "word": "高考生这6样东西别发朋友圈",
+        "onboard_time": 1685788285,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 121487,
+        "num": 121487,
+        "word": "中国男篮",
+        "onboard_time": 1685790986,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117660,
+        "num": 117660,
+        "word": "RNG对战LNG",
+        "onboard_time": 1685785349,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145567,
+        "num": 117558,
+        "word": "金泰妍演唱会",
+        "onboard_time": 1685786368,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140874,
+        "num": 116506,
+        "word": "李泰容吧 抽抽乐",
+        "onboard_time": 1685781268,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127470,
+        "num": 116278,
+        "word": "刘敏涛王一博演母子",
+        "onboard_time": 1685784208,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122636,
+        "num": 115477,
+        "word": "关晓彤多巴胺穿搭",
+        "onboard_time": 1685779347,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123290,
+        "num": 114676,
+        "word": "王一博接连两部新片成电影节闭幕片",
+        "onboard_time": 1685785588,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103007,
+        "num": 114157,
+        "word": "毕业生趁校长拨穗时来了个大拥抱",
+        "onboard_time": 1685785709,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96365,
+        "num": 113449,
+        "word": "您的骑手正在逗狗",
+        "onboard_time": 1685776588,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91254,
+        "num": 112872,
+        "word": "女孩不舍得父母买钢琴进门瞬间喜极而泣",
+        "onboard_time": 1685769029,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71170,
+        "num": 111947,
+        "word": "浙江多所小学美术本印有涉黄二维码",
+        "onboard_time": 1685778567,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 67860,
+        "num": 111565,
+        "word": "原汁原味",
+        "onboard_time": 1685789727,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新的文化使命#"
+    }
+  }
+}
