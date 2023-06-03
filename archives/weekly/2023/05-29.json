@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685820819560,
+  "endTime": 1685823475521,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -15560,6 +15560,14 @@
       "word": "苏打绿成团20周年快乐",
       "onboard_time": 1685465242,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 21658,
+      "num": 21658,
+      "word": "高叶 常州",
+      "onboard_time": 1685822951,
+      "rank": 40,
       "category": "艺人"
     },
     {

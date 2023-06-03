@@ -1,6 +1,6 @@
 {
   "startTime": 1685809286870,
-  "endTime": 1685820819560,
+  "endTime": 1685823475521,
   "band_list": [
     {
       "raw_hot": 1613516,
@@ -513,6 +513,14 @@
       "onboard_time": 1685816656,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 21658,
+      "num": 21658,
+      "word": "高叶 常州",
+      "onboard_time": 1685822951,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 13850,
