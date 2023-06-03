@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685798322285,
+  "endTime": 1685799214524,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 1456021,
-      "num": 550311,
+      "num": 585121,
       "word": "生日快乐啊小朋友",
       "onboard_time": 1685792546,
       "rank": 10,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 1387281,
-      "num": 582689,
+      "num": 588001,
       "word": "宋昕冉追星迪丽热巴成功",
       "onboard_time": 1685786308,
       "rank": 10,
@@ -819,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 945577,
+      "num": 945577,
+      "word": "瘦子真帅",
+      "onboard_time": 1685796210,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 938912,
       "num": 938912,
       "word": "4篇论文现同一划痕钢尺遭撤稿",
@@ -1011,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 713825,
+      "num": 713825,
+      "word": "苏某读硕期间知网收录5篇论文",
+      "onboard_time": 1685794707,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 710463,
       "num": 710463,
       "word": "陈伟霆亲到耳朵红了",
@@ -1056,14 +1072,6 @@
       "word": "五月天因为余佳运不再当音乐节目评委",
       "onboard_time": 1685689767,
       "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 692254,
-      "num": 692254,
-      "word": "瘦子真帅",
-      "onboard_time": 1685796210,
-      "rank": 29,
       "category": "综艺"
     },
     {
@@ -1331,6 +1339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 577875,
+      "num": 577875,
+      "word": "叶天瑜",
+      "onboard_time": 1685795487,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 573709,
       "num": 573709,
       "word": "鞠婧祎反手一个大比兜",
@@ -1449,6 +1465,14 @@
       "onboard_time": 1685585246,
       "rank": 17,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 542466,
+      "num": 542466,
+      "word": "五月天演唱会偶遇李现",
+      "onboard_time": 1685797109,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 542419,
@@ -1667,14 +1691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 469550,
-      "num": 469550,
-      "word": "苏某读硕期间知网收录5篇论文",
-      "onboard_time": 1685794707,
-      "rank": 34,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 469400,
       "num": 469400,
       "word": "辽宁阜新疑似出现龙卷风",
@@ -1801,14 +1817,6 @@
       "onboard_time": 1685763269,
       "rank": 36,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 440967,
-      "num": 440967,
-      "word": "五月天演唱会偶遇李现",
-      "onboard_time": 1685797109,
-      "rank": 14,
-      "category": "音乐"
     },
     {
       "raw_hot": 440239,
@@ -1977,14 +1985,6 @@
       "onboard_time": 1685597069,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 411467,
-      "num": 411467,
-      "word": "叶天瑜",
-      "onboard_time": 1685795487,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 407976,
@@ -2209,6 +2209,14 @@
       "onboard_time": 1685593529,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 366252,
+      "num": 366252,
+      "word": "华晨宇五月天",
+      "onboard_time": 1685797829,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 365142,
@@ -2955,14 +2963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 289251,
-      "num": 289251,
-      "word": "华晨宇五月天",
-      "onboard_time": 1685797829,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 288392,
       "num": 237444,
       "word": "他送我生日礼物是杯52颗珍珠的奶茶",
@@ -3137,6 +3137,14 @@
       "onboard_time": 1685690067,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276489,
+      "num": 276489,
+      "word": "华晨宇麦粒肿",
+      "onboard_time": 1685798250,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 275421,
@@ -3339,6 +3347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 260522,
+      "num": 260522,
+      "word": "宋茜江疏影桃花坞显眼包",
+      "onboard_time": 1685799088,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260431,
       "num": 258231,
       "word": "目睹活鱼店老板进货冻鱼",
@@ -3369,6 +3385,22 @@
       "onboard_time": 1685703755,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 258629,
+      "num": 214595,
+      "word": "陶白白肿了",
+      "onboard_time": 1685798008,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 258245,
+      "num": 258245,
+      "word": "赵露思的狗该剪指甲了",
+      "onboard_time": 1685798848,
+      "rank": 26,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 258139,
@@ -3939,6 +3971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223440,
+      "num": 223440,
+      "word": "TES对战EDG",
+      "onboard_time": 1685792247,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 221535,
       "num": 221535,
       "word": "你的童年回忆杀是什么",
@@ -4235,6 +4275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209679,
+      "num": 214022,
+      "word": "椰树风",
+      "onboard_time": 1685796388,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 207521,
       "num": 169619,
       "word": "肖战召唤二八大杠男团",
@@ -4289,14 +4337,6 @@
       "onboard_time": 1685610028,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204747,
-      "num": 214022,
-      "word": "椰树风",
-      "onboard_time": 1685796388,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 204021,
@@ -4404,7 +4444,7 @@
     },
     {
       "raw_hot": 199709,
-      "num": 187032,
+      "num": 189369,
       "word": "李莎旻子刘惜君在声生不息当观众",
       "onboard_time": 1685796567,
       "rank": 30,
@@ -4457,6 +4497,14 @@
       "onboard_time": 1685667269,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197499,
+      "num": 197499,
+      "word": "大屏上的蔡徐坤",
+      "onboard_time": 1685798848,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 197328,
@@ -4691,6 +4739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189584,
+      "num": 189584,
+      "word": "任意门",
+      "onboard_time": 1685798908,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189469,
       "num": 189469,
       "word": "张艺兴兑现两年前承诺",
@@ -4777,14 +4833,6 @@
       "onboard_time": 1685776588,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 186644,
-      "num": 186644,
-      "word": "陶白白肿了",
-      "onboard_time": 1685798008,
-      "rank": 32,
-      "category": "网红"
     },
     {
       "raw_hot": 186145,
@@ -4915,14 +4963,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 181519,
-      "num": 181519,
-      "word": "TES对战EDG",
-      "onboard_time": 1685792247,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 181375,
       "num": 181375,
       "word": "代号鸢",
@@ -4969,6 +5009,22 @@
       "onboard_time": 1685633430,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 179072,
+      "num": 179072,
+      "word": "蔡徐坤戴墨镜出场",
+      "onboard_time": 1685798848,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 179040,
+      "num": 189299,
+      "word": "曼联",
+      "onboard_time": 1685798370,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 178936,
@@ -5025,6 +5081,14 @@
       "onboard_time": 1685714134,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176038,
+      "num": 188769,
+      "word": "杭州部分小区房价跌回2017年",
+      "onboard_time": 1685797169,
+      "rank": 46,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 175437,
@@ -5105,6 +5169,14 @@
       "onboard_time": 1685696067,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 170350,
+      "num": 188455,
+      "word": "男子骑车碾压1个月大小狗致死",
+      "onboard_time": 1685796988,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170112,
@@ -5555,14 +5627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151269,
-      "num": 147121,
-      "word": "华晨宇麦粒肿",
-      "onboard_time": 1685798250,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 150499,
       "num": 150499,
       "word": "杭州女子为爱人求购非卖品获赠送",
@@ -5673,14 +5737,6 @@
       "onboard_time": 1685615366,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 147159,
-      "num": 147159,
-      "word": "男子骑车碾压1个月大小狗致死",
-      "onboard_time": 1685796988,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145184,
@@ -6225,14 +6281,6 @@
       "onboard_time": 1685701710,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112344,
-      "num": 143212,
-      "word": "杭州部分小区房价跌回2017年",
-      "onboard_time": 1685797169,
-      "rank": 46,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 111962,
@@ -7337,6 +7385,14 @@
       "onboard_time": 1685561473,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13722,
+      "num": 555689,
+      "word": "河南一学校摆状元餐为高三学子加油",
+      "onboard_time": 1685798608,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13388,

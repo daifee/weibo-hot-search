@@ -1,6 +1,6 @@
 {
   "startTime": 1685722886907,
-  "endTime": 1685798322285,
+  "endTime": 1685799214524,
   "band_list": [
     {
       "raw_hot": 4395833,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1456021,
-      "num": 550311,
+      "num": 585121,
       "word": "生日快乐啊小朋友",
       "onboard_time": 1685792546,
       "rank": 10,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 1387281,
-      "num": 582689,
+      "num": 588001,
       "word": "宋昕冉追星迪丽热巴成功",
       "onboard_time": 1685786308,
       "rank": 10,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 945577,
+      "num": 945577,
+      "word": "瘦子真帅",
+      "onboard_time": 1685796210,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 938912,
       "num": 938912,
       "word": "4篇论文现同一划痕钢尺遭撤稿",
@@ -379,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 713825,
+      "num": 713825,
+      "word": "苏某读硕期间知网收录5篇论文",
+      "onboard_time": 1685794707,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 710463,
       "num": 710463,
       "word": "陈伟霆亲到耳朵红了",
@@ -393,14 +409,6 @@
       "onboard_time": 1685769747,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 692254,
-      "num": 692254,
-      "word": "瘦子真帅",
-      "onboard_time": 1685796210,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 681434,
@@ -481,6 +489,22 @@
       "onboard_time": 1685789548,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 577875,
+      "num": 577875,
+      "word": "叶天瑜",
+      "onboard_time": 1685795487,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 542466,
+      "num": 542466,
+      "word": "五月天演唱会偶遇李现",
+      "onboard_time": 1685797109,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 541388,
@@ -571,14 +595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 469550,
-      "num": 469550,
-      "word": "苏某读硕期间知网收录5篇论文",
-      "onboard_time": 1685794707,
-      "rank": 34,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 457010,
       "num": 283891,
       "word": "王东被换脸",
@@ -595,14 +611,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 440967,
-      "num": 440967,
-      "word": "五月天演唱会偶遇李现",
-      "onboard_time": 1685797109,
-      "rank": 14,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 440239,
       "num": 440239,
       "word": "佟大为送迪丽热巴的生日礼物",
@@ -617,14 +625,6 @@
       "onboard_time": 1685792367,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 411467,
-      "num": 411467,
-      "word": "叶天瑜",
-      "onboard_time": 1685795487,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 404876,
@@ -689,6 +689,14 @@
       "onboard_time": 1685779528,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 366252,
+      "num": 366252,
+      "word": "华晨宇五月天",
+      "onboard_time": 1685797829,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 365948,
@@ -955,14 +963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 289251,
-      "num": 289251,
-      "word": "华晨宇五月天",
-      "onboard_time": 1685797829,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 285238,
       "num": 285238,
       "word": "EXO成员未来活动计划",
@@ -985,6 +985,14 @@
       "onboard_time": 1685779347,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276489,
+      "num": 276489,
+      "word": "华晨宇麦粒肿",
+      "onboard_time": 1685798250,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 275421,
@@ -1065,6 +1073,30 @@
       "onboard_time": 1685718573,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260522,
+      "num": 260522,
+      "word": "宋茜江疏影桃花坞显眼包",
+      "onboard_time": 1685799088,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 258629,
+      "num": 214595,
+      "word": "陶白白肿了",
+      "onboard_time": 1685798008,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 258245,
+      "num": 258245,
+      "word": "赵露思的狗该剪指甲了",
+      "onboard_time": 1685798848,
+      "rank": 26,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 258139,
@@ -1235,6 +1267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 223440,
+      "num": 223440,
+      "word": "TES对战EDG",
+      "onboard_time": 1685792247,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 219676,
       "num": 174459,
       "word": "黄觉的命也是命",
@@ -1299,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213512,
+      "num": 213512,
+      "word": "三分野",
+      "onboard_time": 1685796626,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 213057,
       "num": 213057,
       "word": "向往的生活",
@@ -1331,12 +1379,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 209060,
-      "num": 209060,
-      "word": "三分野",
-      "onboard_time": 1685796626,
-      "rank": 26,
-      "category": "影视"
+      "raw_hot": 209679,
+      "num": 214022,
+      "word": "椰树风",
+      "onboard_time": 1685796388,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 207521,
@@ -1353,14 +1401,6 @@
       "onboard_time": 1685785349,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 204747,
-      "num": 214022,
-      "word": "椰树风",
-      "onboard_time": 1685796388,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 204276,
@@ -1420,7 +1460,7 @@
     },
     {
       "raw_hot": 199709,
-      "num": 187032,
+      "num": 189369,
       "word": "李莎旻子刘惜君在声生不息当观众",
       "onboard_time": 1685796567,
       "rank": 30,
@@ -1433,6 +1473,14 @@
       "onboard_time": 1685785588,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197499,
+      "num": 197499,
+      "word": "大屏上的蔡徐坤",
+      "onboard_time": 1685798848,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 197084,
@@ -1531,6 +1579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189584,
+      "num": 189584,
+      "word": "任意门",
+      "onboard_time": 1685798908,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 187966,
       "num": 187966,
       "word": "原汁原味",
@@ -1563,14 +1619,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 186644,
-      "num": 186644,
-      "word": "陶白白肿了",
-      "onboard_time": 1685798008,
-      "rank": 32,
-      "category": "网红"
-    },
-    {
       "raw_hot": 185973,
       "num": 185973,
       "word": "今日头条",
@@ -1595,14 +1643,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 181519,
-      "num": 181519,
-      "word": "TES对战EDG",
-      "onboard_time": 1685792247,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 180679,
       "num": 180679,
       "word": "前羽球奥运冠军质疑李宗伟入选名人堂",
@@ -1617,6 +1657,22 @@
       "onboard_time": 1685784208,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 179072,
+      "num": 179072,
+      "word": "蔡徐坤戴墨镜出场",
+      "onboard_time": 1685798848,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 179040,
+      "num": 189299,
+      "word": "曼联",
+      "onboard_time": 1685798370,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 178980,
@@ -1635,12 +1691,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 176038,
+      "num": 188769,
+      "word": "杭州部分小区房价跌回2017年",
+      "onboard_time": 1685797169,
+      "rank": 46,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 175437,
       "num": 142132,
       "word": "迪丽热巴拍出一个爱心",
       "onboard_time": 1685780187,
       "rank": 44,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 170350,
+      "num": 188455,
+      "word": "男子骑车碾压1个月大小狗致死",
+      "onboard_time": 1685796988,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169777,
@@ -1795,14 +1867,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 151269,
-      "num": 147121,
-      "word": "华晨宇麦粒肿",
-      "onboard_time": 1685798250,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 149068,
       "num": 130482,
       "word": "柳智敏给缺席成员留位置",
@@ -1825,14 +1889,6 @@
       "onboard_time": 1685769508,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 147159,
-      "num": 147159,
-      "word": "男子骑车碾压1个月大小狗致死",
-      "onboard_time": 1685796988,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144687,
@@ -2001,14 +2057,6 @@
       "onboard_time": 1685795007,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 112344,
-      "num": 143212,
-      "word": "杭州部分小区房价跌回2017年",
-      "onboard_time": 1685797169,
-      "rank": 46,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 110709,
@@ -2456,6 +2504,14 @@
       "word": "儿童节",
       "onboard_time": 1685612248,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13722,
+      "num": 555689,
+      "word": "河南一学校摆状元餐为高三学子加油",
+      "onboard_time": 1685798608,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

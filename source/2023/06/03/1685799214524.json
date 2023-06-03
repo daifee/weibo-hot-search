@@ -1,0 +1,410 @@
+{
+  "runTime": 1685799214524,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2158082,
+        "num": 2158082,
+        "word": "黄渤回应贫困女孩争议",
+        "onboard_time": 1685793386,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 962904,
+        "num": 962904,
+        "word": "曲婉婷被拍卖房产以219.9万成交",
+        "onboard_time": 1685786129,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 27724,
+        "num": 951310,
+        "word": "三夏已至农事正忙",
+        "onboard_time": 1685779707,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1136243,
+        "num": 950136,
+        "word": "女孩父母回应网传黄渤放弃资助",
+        "onboard_time": 1685793568,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 945577,
+        "num": 945577,
+        "word": "瘦子真帅",
+        "onboard_time": 1685796210,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 777627,
+        "num": 777627,
+        "word": "离职时HR把我的职位写高了",
+        "onboard_time": 1685790448,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 728461,
+        "num": 728461,
+        "word": "小伙1.2万元拍下单颗荔枝送女友",
+        "onboard_time": 1685795186,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 713825,
+        "num": 713825,
+        "word": "苏某读硕期间知网收录5篇论文",
+        "onboard_time": 1685794707,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 606019,
+        "num": 606019,
+        "word": "吴倩说女儿和自己长得一模一样",
+        "onboard_time": 1685779887,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 598644,
+        "num": 598644,
+        "word": "陈伟霆亲到耳朵红了",
+        "onboard_time": 1685792367,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1066981,
+        "num": 597194,
+        "word": "上四休三",
+        "onboard_time": 1685789606,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 959352,
+        "num": 588001,
+        "word": "宋昕冉追星迪丽热巴成功",
+        "onboard_time": 1685786308,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 878514,
+        "num": 585121,
+        "word": "生日快乐啊小朋友",
+        "onboard_time": 1685792546,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 577875,
+        "num": 577875,
+        "word": "叶天瑜",
+        "onboard_time": 1685795487,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13722,
+        "num": 555689,
+        "word": "河南一学校摆状元餐为高三学子加油",
+        "onboard_time": 1685798608,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542466,
+        "num": 542466,
+        "word": "五月天演唱会偶遇李现",
+        "onboard_time": 1685797109,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 468852,
+        "num": 468852,
+        "word": "蔡徐坤澳门演唱会",
+        "onboard_time": 1685794226,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 439465,
+        "num": 439465,
+        "word": "高三学生写永久请假条告别班主任",
+        "onboard_time": 1685781809,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 366252,
+        "num": 366252,
+        "word": "华晨宇五月天",
+        "onboard_time": 1685797829,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 353372,
+        "num": 353372,
+        "word": "张韶涵赵露思撞衫",
+        "onboard_time": 1685792186,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 347020,
+        "num": 347020,
+        "word": "迪丽热巴有几个好妹妹",
+        "onboard_time": 1685789548,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339266,
+        "num": 339266,
+        "word": "五月天演唱会",
+        "onboard_time": 1685792367,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 293306,
+        "num": 293306,
+        "word": "徐开骋被AI换脸",
+        "onboard_time": 1685777067,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280333,
+        "num": 280333,
+        "word": "四川一男子当街持刀捅伤女子后自杀",
+        "onboard_time": 1685791348,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276489,
+        "num": 276489,
+        "word": "华晨宇麦粒肿",
+        "onboard_time": 1685798250,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 260522,
+        "num": 260522,
+        "word": "宋茜江疏影桃花坞显眼包",
+        "onboard_time": 1685799088,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258245,
+        "num": 258245,
+        "word": "赵露思的狗该剪指甲了",
+        "onboard_time": 1685798848,
+        "rank": 26,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 223440,
+        "num": 223440,
+        "word": "TES对战EDG",
+        "onboard_time": 1685792247,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216271,
+        "num": 216271,
+        "word": "卢靖姗顺产用了三十六个小时",
+        "onboard_time": 1685776287,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51989,
+        "num": 214797,
+        "word": "印度火车相撞已致288人死亡",
+        "onboard_time": 1685769747,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258629,
+        "num": 214595,
+        "word": "陶白白肿了",
+        "onboard_time": 1685798008,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 213512,
+        "num": 213512,
+        "word": "三分野",
+        "onboard_time": 1685796626,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209679,
+        "num": 209679,
+        "word": "椰树风",
+        "onboard_time": 1685796388,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197499,
+        "num": 197499,
+        "word": "大屏上的蔡徐坤",
+        "onboard_time": 1685798848,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189584,
+        "num": 189584,
+        "word": "任意门",
+        "onboard_time": 1685798908,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189369,
+        "num": 189369,
+        "word": "李莎旻子刘惜君在声生不息当观众",
+        "onboard_time": 1685796567,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179040,
+        "num": 189299,
+        "word": "曼联",
+        "onboard_time": 1685798370,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176038,
+        "num": 188769,
+        "word": "杭州部分小区房价跌回2017年",
+        "onboard_time": 1685797169,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 170350,
+        "num": 188455,
+        "word": "男子骑车碾压1个月大小狗致死",
+        "onboard_time": 1685796988,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143296,
+        "num": 187898,
+        "word": "家属正在安排被撞小学生母亲后事",
+        "onboard_time": 1685768309,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187856,
+        "num": 187856,
+        "word": "杨紫长发及腰了",
+        "onboard_time": 1685779288,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179072,
+        "num": 179072,
+        "word": "蔡徐坤戴墨镜出场",
+        "onboard_time": 1685798848,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176742,
+        "num": 176742,
+        "word": "那英队团魂",
+        "onboard_time": 1685796328,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170473,
+        "num": 170473,
+        "word": "法老想cos谢可寅",
+        "onboard_time": 1685795547,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166871,
+        "num": 166871,
+        "word": "赵露思是曾黎的人形挂件吧",
+        "onboard_time": 1685779887,
+        "rank": 44,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 159720,
+        "num": 159720,
+        "word": "摊爸谢可寅AnsrJ 流浪地球",
+        "onboard_time": 1685792966,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131659,
+        "num": 131659,
+        "word": "月嫂提前离开雇主不舍偷偷抹泪",
+        "onboard_time": 1685790028,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125140,
+        "num": 125140,
+        "word": "媒体称要对大学师生恋零容忍",
+        "onboard_time": 1685786427,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 118934,
+        "num": 118934,
+        "word": "陪着室友去医院车费却要AA",
+        "onboard_time": 1685790687,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111021,
+        "num": 118898,
+        "word": "成都蓉城",
+        "onboard_time": 1685793085,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平谈文化传承发展#"
+    }
+  }
+}
