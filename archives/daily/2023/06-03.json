@@ -1,6 +1,6 @@
 {
   "startTime": 1685722886907,
-  "endTime": 1685780360042,
+  "endTime": 1685781242768,
   "band_list": [
     {
       "raw_hot": 4395833,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1624748,
+      "num": 1624748,
+      "word": "卢靖姗顺产用了三十六个小时",
+      "onboard_time": 1685776287,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1593980,
       "num": 627102,
       "word": "半藏森林",
@@ -97,14 +105,6 @@
       "onboard_time": 1685754870,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1564298,
-      "num": 1564298,
-      "word": "卢靖姗顺产用了三十六个小时",
-      "onboard_time": 1685776287,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 1424602,
@@ -145,6 +145,14 @@
       "onboard_time": 1685706814,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1207181,
+      "num": 1207181,
+      "word": "徐开骋被AI换脸",
+      "onboard_time": 1685777067,
+      "rank": 19,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1191166,
@@ -195,14 +203,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1035798,
-      "num": 1035798,
-      "word": "徐开骋被AI换脸",
-      "onboard_time": 1685777067,
-      "rank": 19,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 1013892,
       "num": 1013892,
       "word": "今晚的观众好忙",
@@ -217,6 +217,14 @@
       "onboard_time": 1685704832,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1003411,
+      "num": 311808,
+      "word": "杨紫长发及腰了",
+      "onboard_time": 1685779288,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 975933,
@@ -267,12 +275,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 724642,
-      "num": 259298,
-      "word": "杨紫长发及腰了",
-      "onboard_time": 1685779288,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 757235,
+      "num": 757235,
+      "word": "4篇论文现同一划痕钢尺遭撤稿",
+      "onboard_time": 1685769449,
+      "rank": 15,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 735967,
+      "num": 294114,
+      "word": "赵露思是曾黎的人形挂件吧",
+      "onboard_time": 1685779887,
+      "rank": 21,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 705499,
@@ -297,14 +313,6 @@
       "onboard_time": 1685773468,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 670412,
-      "num": 670412,
-      "word": "4篇论文现同一划痕钢尺遭撤稿",
-      "onboard_time": 1685769449,
-      "rank": 15,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 664463,
@@ -347,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 549857,
+      "num": 269754,
+      "word": "吴倩说女儿和自己长得一模一样",
+      "onboard_time": 1685779887,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 522527,
       "num": 522527,
       "word": "那英劝周迅别去浪姐",
@@ -364,7 +380,7 @@
     },
     {
       "raw_hot": 507598,
-      "num": 251412,
+      "num": 253108,
       "word": "肖战 CHALI",
       "onboard_time": 1685773107,
       "rank": 30,
@@ -547,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337298,
+      "num": 277670,
+      "word": "做饭阿姨好像活在总裁文里",
+      "onboard_time": 1685779528,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333216,
       "num": 333216,
       "word": "侯媛丽",
@@ -593,6 +617,14 @@
       "onboard_time": 1685719953,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 315492,
+      "num": 315492,
+      "word": "浙江多所小学美术本印有涉黄二维码",
+      "onboard_time": 1685778567,
+      "rank": 17,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 314099,
@@ -651,14 +683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 291050,
-      "num": 187389,
-      "word": "赵露思是曾黎的人形挂件吧",
-      "onboard_time": 1685779887,
-      "rank": 21,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 289872,
       "num": 289872,
       "word": "他只是爱我 却不理会我灵魂的出口",
@@ -699,19 +723,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282593,
+      "num": 171705,
+      "word": "盛一伦祝迪丽热巴生日快乐",
+      "onboard_time": 1685780968,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275421,
       "num": 275421,
       "word": "花花和大家打招呼",
       "onboard_time": 1685771246,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 270163,
-      "num": 249137,
-      "word": "做饭阿姨好像活在总裁文里",
-      "onboard_time": 1685779528,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -787,12 +811,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245838,
-      "num": 174255,
-      "word": "吴倩说女儿和自己长得一模一样",
-      "onboard_time": 1685779887,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 246107,
+      "num": 246107,
+      "word": "龚翔宇",
+      "onboard_time": 1685779948,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 244567,
@@ -801,14 +825,6 @@
       "onboard_time": 1685718693,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 237181,
-      "num": 237181,
-      "word": "浙江多所小学美术本印有涉黄二维码",
-      "onboard_time": 1685778567,
-      "rank": 17,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 237122,
@@ -897,6 +913,14 @@
       "onboard_time": 1685762068,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218089,
+      "num": 143714,
+      "word": "没认出岳云鹏",
+      "onboard_time": 1685780728,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 217575,
@@ -1019,6 +1043,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 192965,
+      "num": 134110,
+      "word": "王一博热烈在地铁上练舞",
+      "onboard_time": 1685780427,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192160,
       "num": 192160,
       "word": "周也演技值得一个热搜",
@@ -1067,6 +1099,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187276,
+      "num": 187276,
+      "word": "中国女排vs荷兰女排",
+      "onboard_time": 1685779288,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186646,
       "num": 186646,
       "word": "您的骑手正在逗狗",
@@ -1100,19 +1140,19 @@
     },
     {
       "raw_hot": 178512,
-      "num": 107015,
+      "num": 117397,
       "word": "热烈追梦版预告",
       "onboard_time": 1685780009,
       "rank": 41,
       "category": "影视"
     },
     {
-      "raw_hot": 176685,
-      "num": 176685,
-      "word": "中国女排vs荷兰女排",
-      "onboard_time": 1685779288,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 175437,
+      "num": 124978,
+      "word": "迪丽热巴拍出一个爱心",
+      "onboard_time": 1685780187,
+      "rank": 44,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 168112,
@@ -1177,14 +1217,6 @@
       "onboard_time": 1685757209,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156880,
-      "num": 103621,
-      "word": "迪丽热巴拍出一个爱心",
-      "onboard_time": 1685780187,
-      "rank": 44,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 155092,
@@ -1299,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127571,
+      "num": 127571,
+      "word": "白鹭误进餐馆直奔后厨狂炫鱼货",
+      "onboard_time": 1685780130,
+      "rank": 47,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 127096,
       "num": 127096,
       "word": "你怎么看待酒桌文化",
@@ -1321,14 +1361,6 @@
       "onboard_time": 1685717975,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 118211,
-      "num": 118211,
-      "word": "龚翔宇",
-      "onboard_time": 1685779948,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 117678,
@@ -1377,6 +1409,14 @@
       "onboard_time": 1685751925,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108493,
+      "num": 108493,
+      "word": "王懿律 我不会离开羽毛球",
+      "onboard_time": 1685781148,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 108292,
@@ -1443,14 +1483,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 102247,
-      "num": 102247,
-      "word": "白鹭误进餐馆直奔后厨狂炫鱼货",
-      "onboard_time": 1685780130,
-      "rank": 47,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 102145,
       "num": 102145,
       "word": "第一次意识到古装剧里眉毛这么重要",
@@ -1465,6 +1497,14 @@
       "onboard_time": 1685760869,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 97718,
+      "num": 108453,
+      "word": "曼城vs曼联",
+      "onboard_time": 1685780369,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 97347,
@@ -1643,6 +1683,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 39591,
+      "num": 1294508,
+      "word": "三夏已至农事正忙",
+      "onboard_time": 1685779707,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32678,
       "num": 57631,
       "word": "肖战台词",
@@ -1672,14 +1720,6 @@
       "word": "师生协力上演教科书式急救",
       "onboard_time": 1685768429,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25954,
-      "num": 1294508,
-      "word": "三夏已至农事正忙",
-      "onboard_time": 1685779707,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1749,6 +1789,9 @@
     },
     {
       "word": "#努力建设中华民族现代文明#"
+    },
+    {
+      "word": "#新时代新的文化使命#"
     }
   ]
 }
