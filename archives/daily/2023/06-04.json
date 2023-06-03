@@ -1,6 +1,6 @@
 {
   "startTime": 1685809286870,
-  "endTime": 1685810184637,
+  "endTime": 1685812418449,
   "band_list": [
     {
       "raw_hot": 1613516,
@@ -35,20 +35,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 986931,
+      "num": 986931,
+      "word": "梅西自宣离队",
+      "onboard_time": 1685807790,
+      "rank": 11,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 937694,
       "num": 937694,
       "word": "黄渤回应贫困女孩争议",
       "onboard_time": 1685793386,
       "rank": 0,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 852126,
-      "num": 626579,
-      "word": "梅西自宣离队",
-      "onboard_time": 1685807790,
-      "rank": 11,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 726723,
@@ -129,6 +129,14 @@
       "onboard_time": 1685805271,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 335212,
+      "num": 254111,
+      "word": "东部战区就美加军舰过航台湾海峡发表谈话",
+      "onboard_time": 1685809408,
+      "rank": 38,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 310200,
@@ -267,6 +275,14 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 198108,
+      "num": 155073,
+      "word": "论文指导教师名字写成了自己的名字",
+      "onboard_time": 1685809346,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 193610,
       "num": 168425,
       "word": "肖春生是叶家编外人员",
@@ -307,8 +323,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 175608,
-      "num": 154315,
+      "raw_hot": 176828,
+      "num": 176828,
       "word": "大树",
       "onboard_time": 1685808689,
       "rank": 43,
@@ -323,28 +339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167356,
-      "num": 167356,
-      "word": "东部战区就美加军舰过航台湾海峡发表谈话",
-      "onboard_time": 1685809408,
-      "rank": 38,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 163071,
       "num": 136489,
       "word": "肖战李沁新剧宿命感",
       "onboard_time": 1685803051,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 155073,
-      "num": 155073,
-      "word": "论文指导教师名字写成了自己的名字",
-      "onboard_time": 1685809346,
-      "rank": 39,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 142457,
@@ -369,6 +369,14 @@
       "onboard_time": 1685805090,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132990,
+      "num": 132990,
+      "word": "被蚊子咬到正确的处理方式",
+      "onboard_time": 1685809287,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 130786,
@@ -403,20 +411,36 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 119624,
-      "num": 119624,
-      "word": "被蚊子咬到正确的处理方式",
-      "onboard_time": 1685809287,
-      "rank": 47,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 110704,
       "num": 110704,
       "word": "俩老人摔坐马路消防员秒出警",
       "onboard_time": 1685808750,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106107,
+      "num": 106107,
+      "word": "艾热威尔",
+      "onboard_time": 1685800709,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 101865,
+      "num": 101865,
+      "word": "阿信",
+      "onboard_time": 1685799870,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 73286,
+      "num": 73286,
+      "word": "白宇帆与藏族足球少年梦幻联动",
+      "onboard_time": 1685811683,
+      "rank": 48,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 52752,
@@ -433,6 +457,9 @@
     },
     {
       "word": "#带着我的梦想上天宫#"
+    },
+    {
+      "word": "#新时代新的文化使命#"
     }
   ]
 }

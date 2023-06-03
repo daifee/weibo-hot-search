@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685810184637,
+  "endTime": 1685812418449,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -1779,6 +1779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 986931,
+      "num": 986931,
+      "word": "梅西自宣离队",
+      "onboard_time": 1685807790,
+      "rank": 11,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 981443,
       "num": 981443,
       "word": "Angelababy 火山口走出的女战神",
@@ -2025,14 +2033,6 @@
       "onboard_time": 1685589806,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 852126,
-      "num": 626579,
-      "word": "梅西自宣离队",
-      "onboard_time": 1685807790,
-      "rank": 11,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 846686,
@@ -5529,6 +5529,14 @@
       "onboard_time": 1685716713,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 335212,
+      "num": 254111,
+      "word": "东部战区就美加军舰过航台湾海峡发表谈话",
+      "onboard_time": 1685809408,
+      "rank": 38,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 334300,
@@ -10099,6 +10107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198108,
+      "num": 155073,
+      "word": "论文指导教师名字写成了自己的名字",
+      "onboard_time": 1685809346,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 198096,
       "num": 198096,
       "word": "一战成名的紫微星",
@@ -11299,6 +11315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 176828,
+      "num": 176828,
+      "word": "大树",
+      "onboard_time": 1685808689,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 176799,
       "num": 176799,
       "word": "陈漫镜头下的明星们",
@@ -11337,14 +11361,6 @@
       "onboard_time": 1685402242,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175608,
-      "num": 154315,
-      "word": "大树",
-      "onboard_time": 1685808689,
-      "rank": 43,
-      "category": "网红"
     },
     {
       "raw_hot": 175437,
@@ -11681,14 +11697,6 @@
       "onboard_time": 1685539048,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 167356,
-      "num": 167356,
-      "word": "东部战区就美加军舰过航台湾海峡发表谈话",
-      "onboard_time": 1685809408,
-      "rank": 38,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 167242,
@@ -12289,14 +12297,6 @@
       "onboard_time": 1685755108,
       "rank": 42,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 155073,
-      "num": 155073,
-      "word": "论文指导教师名字写成了自己的名字",
-      "onboard_time": 1685809346,
-      "rank": 39,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 154869,
@@ -13011,6 +13011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132990,
+      "num": 132990,
+      "word": "被蚊子咬到正确的处理方式",
+      "onboard_time": 1685809287,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 132917,
       "num": 108366,
       "word": "网友辣评浪姐粉丝现状",
@@ -13529,14 +13537,6 @@
       "onboard_time": 1685490084,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119624,
-      "num": 119624,
-      "word": "被蚊子咬到正确的处理方式",
-      "onboard_time": 1685809287,
-      "rank": 47,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 119559,
@@ -14705,6 +14705,14 @@
       "onboard_time": 1685470574,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 73286,
+      "num": 73286,
+      "word": "白宇帆与藏族足球少年梦幻联动",
+      "onboard_time": 1685811683,
+      "rank": 48,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 73245,
