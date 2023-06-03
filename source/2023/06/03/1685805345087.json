@@ -1,0 +1,410 @@
+{
+  "runTime": 1685805345087,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1522427,
+        "num": 1522427,
+        "word": "魏如萱马嘉祺 台北文学",
+        "onboard_time": 1685802453,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1388909,
+        "num": 1388909,
+        "word": "黄渤回应贫困女孩争议",
+        "onboard_time": 1685793386,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 80575,
+        "num": 1382662,
+        "word": "首艘国产大型邮轮先睹为快",
+        "onboard_time": 1685803173,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1381748,
+        "num": 1381748,
+        "word": "瘦子真帅",
+        "onboard_time": 1685796210,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1174905,
+        "num": 1174905,
+        "word": "女孩父母回应网传黄渤放弃资助",
+        "onboard_time": 1685793568,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1110847,
+        "num": 1110847,
+        "word": "原配抓小三路人帮腔大骂男方不要脸",
+        "onboard_time": 1685801973,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688162,
+        "num": 688162,
+        "word": "张艺兴 买票请认准官方票务平台",
+        "onboard_time": 1685803953,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 589525,
+        "num": 589525,
+        "word": "Meiko 暂停",
+        "onboard_time": 1685801067,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 559061,
+        "num": 559061,
+        "word": "总裁带员工去蔡徐坤演唱会团建",
+        "onboard_time": 1685803712,
+        "rank": 8,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 549584,
+        "num": 549584,
+        "word": "离职时HR把我的职位写高了",
+        "onboard_time": 1685790448,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1995855,
+        "num": 546569,
+        "word": "香港一精神病人在商场当众捅死2人",
+        "onboard_time": 1685800528,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511550,
+        "num": 511550,
+        "word": "高三学生写永久请假条告别班主任",
+        "onboard_time": 1685781809,
+        "rank": 11,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 483652,
+        "num": 483652,
+        "word": "华晨宇麦粒肿",
+        "onboard_time": 1685798250,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 479633,
+        "num": 479633,
+        "word": "吴倩说女儿和自己长得一模一样",
+        "onboard_time": 1685779887,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 463997,
+        "num": 463997,
+        "word": "陈伟霆亲到耳朵红了",
+        "onboard_time": 1685792367,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 399536,
+        "num": 399536,
+        "word": "五月天演唱会偶遇李现",
+        "onboard_time": 1685797109,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 384322,
+        "num": 384322,
+        "word": "宋昕冉追星迪丽热巴成功",
+        "onboard_time": 1685786308,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338823,
+        "num": 338823,
+        "word": "蔡徐坤澳门演唱会",
+        "onboard_time": 1685794226,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 328805,
+        "num": 328805,
+        "word": "五月天演唱会",
+        "onboard_time": 1685792367,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 320070,
+        "num": 320070,
+        "word": "TES战胜EDG",
+        "onboard_time": 1685802691,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 377854,
+        "num": 317832,
+        "word": "三分野算爆了吗",
+        "onboard_time": 1685800650,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366176,
+        "num": 315375,
+        "word": "迪丽热巴说谢谢幂姐",
+        "onboard_time": 1685801189,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311899,
+        "num": 311899,
+        "word": "一人说一个奇怪的生理反应",
+        "onboard_time": 1685804011,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 303321,
+        "num": 303321,
+        "word": "曼城vs曼联",
+        "onboard_time": 1685805210,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295706,
+        "num": 295706,
+        "word": "成都七中一学生被开除",
+        "onboard_time": 1685804552,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326457,
+        "num": 286601,
+        "word": "张韶涵赵露思撞衫",
+        "onboard_time": 1685792186,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311050,
+        "num": 284736,
+        "word": "文俊辉要考清华",
+        "onboard_time": 1685801489,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276638,
+        "num": 276638,
+        "word": "肖春生是叶家编外人员",
+        "onboard_time": 1685803770,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252611,
+        "num": 252611,
+        "word": "14岁女生心脏骤停教室上演生死救援",
+        "onboard_time": 1685804133,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 239641,
+        "num": 239641,
+        "word": "女孩家长称黄渤赠送手表未送给弟弟",
+        "onboard_time": 1685803471,
+        "rank": 29,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 233411,
+        "num": 233411,
+        "word": "肖战肖春生好大的杯子",
+        "onboard_time": 1685803173,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232989,
+        "num": 232989,
+        "word": "赵露思的狗该剪指甲了",
+        "onboard_time": 1685798848,
+        "rank": 31,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 232258,
+        "num": 232258,
+        "word": "不要在APP上给我推荐可能认识的人了",
+        "onboard_time": 1685802211,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 229341,
+        "num": 229341,
+        "word": "迪丽热巴有几个好妹妹",
+        "onboard_time": 1685789548,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223274,
+        "num": 223274,
+        "word": "曲婉婷被拍卖房产以219.9万成交",
+        "onboard_time": 1685786129,
+        "rank": 34,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 227014,
+        "num": 223228,
+        "word": "宋茜江疏影桃花坞显眼包",
+        "onboard_time": 1685799088,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224186,
+        "num": 223223,
+        "word": "肖战李沁新剧宿命感",
+        "onboard_time": 1685803051,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220496,
+        "num": 220496,
+        "word": "法老cos李尔新",
+        "onboard_time": 1685804193,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216297,
+        "num": 216297,
+        "word": "小伙1.2万元拍下单颗荔枝送女友",
+        "onboard_time": 1685795186,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212184,
+        "num": 212184,
+        "word": "TES对战EDG",
+        "onboard_time": 1685792247,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200553,
+        "num": 200553,
+        "word": "黄奕45岁穿校服状态",
+        "onboard_time": 1685804552,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194936,
+        "num": 194936,
+        "word": "2女生看五月天假装干杯被邻座塞饮料",
+        "onboard_time": 1685802752,
+        "rank": 41,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 172779,
+        "num": 172779,
+        "word": "杭州部分小区房价跌回2017年",
+        "onboard_time": 1685797169,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 171937,
+        "num": 171937,
+        "word": "艾热威尔",
+        "onboard_time": 1685800709,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162951,
+        "num": 162951,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1685803712,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157398,
+        "num": 157398,
+        "word": "四川一男子当街持刀捅伤女子后自杀",
+        "onboard_time": 1685791348,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156981,
+        "num": 156981,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1685805271,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140916,
+        "num": 140916,
+        "word": "生日快乐啊小朋友",
+        "onboard_time": 1685792546,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138313,
+        "num": 138313,
+        "word": "苏某读硕期间知网收录5篇论文",
+        "onboard_time": 1685794707,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 120692,
+        "num": 120692,
+        "word": "leave",
+        "onboard_time": 1685805090,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新的文化使命#"
+    }
+  }
+}

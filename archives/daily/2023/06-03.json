@@ -1,6 +1,6 @@
 {
   "startTime": 1685722886907,
-  "endTime": 1685802809441,
+  "endTime": 1685805345087,
   "band_list": [
     {
       "raw_hot": 4395833,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1995855,
+      "num": 546569,
+      "word": "香港一精神病人在商场当众捅死2人",
+      "onboard_time": 1685800528,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1928089,
       "num": 1928089,
       "word": "千万不要长期喝热咖啡",
@@ -88,14 +96,6 @@
       "word": "武汉迪士尼",
       "onboard_time": 1685758169,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1710287,
-      "num": 497538,
-      "word": "香港一精神病人在商场当众捅死2人",
-      "onboard_time": 1685800528,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -145,6 +145,14 @@
       "onboard_time": 1685777067,
       "rank": 19,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1522427,
+      "num": 1522427,
+      "word": "魏如萱马嘉祺 台北文学",
+      "onboard_time": 1685802453,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 1486812,
@@ -291,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1110847,
+      "num": 1110847,
+      "word": "原配抓小三路人帮腔大骂男方不要脸",
+      "onboard_time": 1685801973,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1028327,
       "num": 565880,
       "word": "盛一伦祝迪丽热巴生日快乐",
@@ -435,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 688162,
+      "num": 688162,
+      "word": "张艺兴 买票请认准官方票务平台",
+      "onboard_time": 1685803953,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 683218,
       "num": 344661,
       "word": "梦中的那片海收视再创新高",
@@ -537,6 +561,14 @@
       "onboard_time": 1685795487,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 559061,
+      "num": 559061,
+      "word": "总裁带员工去蔡徐坤演唱会团建",
+      "onboard_time": 1685803712,
+      "rank": 8,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 542466,
@@ -723,14 +755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 387547,
-      "num": 387547,
-      "word": "魏如萱马嘉祺 台北文学",
-      "onboard_time": 1685802453,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 387087,
       "num": 325856,
       "word": "吴建豪淘汰赵丽颖",
@@ -745,6 +769,14 @@
       "onboard_time": 1685720670,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377854,
+      "num": 317832,
+      "word": "三分野算爆了吗",
+      "onboard_time": 1685800650,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 373653,
@@ -939,6 +971,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 320070,
+      "num": 320070,
+      "word": "TES战胜EDG",
+      "onboard_time": 1685802691,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 315443,
       "num": 176586,
       "word": "没认出岳云鹏",
@@ -979,28 +1019,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 312543,
-      "num": 312543,
-      "word": "三分野算爆了吗",
-      "onboard_time": 1685800650,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 312182,
-      "num": 321414,
-      "word": "原配抓小三路人帮腔大骂男方不要脸",
-      "onboard_time": 1685801973,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 311981,
       "num": 280800,
       "word": "五月天嘉宾 华晨宇",
       "onboard_time": 1685769808,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 311899,
+      "num": 311899,
+      "word": "一人说一个奇怪的生理反应",
+      "onboard_time": 1685804011,
+      "rank": 22,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 308523,
@@ -1027,6 +1059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 303321,
+      "num": 303321,
+      "word": "曼城vs曼联",
+      "onboard_time": 1685780369,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 300546,
       "num": 300546,
       "word": "赵露思的狗该剪指甲了",
@@ -1041,6 +1081,14 @@
       "onboard_time": 1685764348,
       "rank": 25,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 295706,
+      "num": 295706,
+      "word": "成都七中一学生被开除",
+      "onboard_time": 1685804552,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295262,
@@ -1089,6 +1137,14 @@
       "onboard_time": 1685779347,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276638,
+      "num": 276638,
+      "word": "肖春生是叶家编外人员",
+      "onboard_time": 1685803770,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 275421,
@@ -1219,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252611,
+      "num": 252611,
+      "word": "14岁女生心脏骤停教室上演生死救援",
+      "onboard_time": 1685804133,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 251954,
       "num": 251954,
       "word": "钱璐璐",
@@ -1265,6 +1329,14 @@
       "onboard_time": 1685793085,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239641,
+      "num": 239641,
+      "word": "女孩家长称黄渤赠送手表未送给弟弟",
+      "onboard_time": 1685803471,
+      "rank": 29,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 237370,
@@ -1331,12 +1403,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233411,
+      "num": 233411,
+      "word": "肖战肖春生好大的杯子",
+      "onboard_time": 1685803173,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 232632,
       "num": 232632,
       "word": "神舟十五号",
       "onboard_time": 1685801729,
       "rank": 35,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 232258,
+      "num": 232258,
+      "word": "不要在APP上给我推荐可能认识的人了",
+      "onboard_time": 1685802211,
+      "rank": 43,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 231656,
@@ -1385,6 +1473,22 @@
       "onboard_time": 1685786368,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 224186,
+      "num": 223223,
+      "word": "肖战李沁新剧宿命感",
+      "onboard_time": 1685803051,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 220496,
+      "num": 220496,
+      "word": "法老cos李尔新",
+      "onboard_time": 1685804193,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 219676,
@@ -1515,14 +1619,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 206580,
-      "num": 206580,
-      "word": "TES战胜EDG",
-      "onboard_time": 1685802691,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 204276,
       "num": 204276,
       "word": "瞿颖真的好敢说",
@@ -1553,6 +1649,14 @@
       "onboard_time": 1685795547,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200553,
+      "num": 200553,
+      "word": "黄奕45岁穿校服状态",
+      "onboard_time": 1685804552,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200341,
@@ -1625,6 +1729,14 @@
       "onboard_time": 1685782227,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194936,
+      "num": 194936,
+      "word": "2女生看五月天假装干杯被邻座塞饮料",
+      "onboard_time": 1685802752,
+      "rank": 42,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 193713,
@@ -1731,14 +1843,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 189509,
-      "num": 189509,
-      "word": "2女生看五月天假装干杯被邻座塞饮料",
-      "onboard_time": 1685802752,
-      "rank": 42,
-      "category": "社会新闻,音乐"
-    },
-    {
       "raw_hot": 187966,
       "num": 187966,
       "word": "原汁原味",
@@ -1843,14 +1947,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 177849,
-      "num": 177849,
-      "word": "不要在APP上给我推荐可能认识的人了",
-      "onboard_time": 1685802211,
-      "rank": 43,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 176446,
       "num": 176446,
       "word": "蔡徐坤黑色水钻镜片西装",
@@ -1904,6 +2000,14 @@
       "word": "蔡徐坤白衬衫顶胯",
       "onboard_time": 1685788285,
       "rank": 43,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 162951,
+      "num": 162951,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1685803712,
+      "rank": 44,
       "category": "音乐"
     },
     {
@@ -1961,6 +2065,14 @@
       "onboard_time": 1685757209,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156981,
+      "num": 156981,
+      "word": "鹿晗演唱会",
+      "onboard_time": 1685805271,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 156377,
@@ -2179,6 +2291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120692,
+      "num": 120692,
+      "word": "leave",
+      "onboard_time": 1685805090,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 117678,
       "num": 117678,
       "word": "何炅肌肉线条",
@@ -2339,14 +2459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 97718,
-      "num": 108453,
-      "word": "曼城vs曼联",
-      "onboard_time": 1685780369,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 97347,
       "num": 97347,
       "word": "舅舅配合家人演戏帮男孩戒掉手机",
@@ -2456,6 +2568,14 @@
       "word": "印度火车相撞超200人死亡",
       "onboard_time": 1685755947,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80575,
+      "num": 1382662,
+      "word": "首艘国产大型邮轮先睹为快",
+      "onboard_time": 1685803173,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
