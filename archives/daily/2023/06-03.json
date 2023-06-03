@@ -1,6 +1,6 @@
 {
   "startTime": 1685722886907,
-  "endTime": 1685766800512,
+  "endTime": 1685769297675,
   "band_list": [
     {
       "raw_hot": 4395833,
@@ -51,19 +51,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1745766,
+      "num": 1745766,
+      "word": "武汉迪士尼",
+      "onboard_time": 1685758169,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1677029,
       "num": 667263,
       "word": "知情人辟谣被撞小学生父亲坠楼",
       "onboard_time": 1685721031,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1672813,
-      "num": 1672813,
-      "word": "武汉迪士尼",
-      "onboard_time": 1685758169,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -81,6 +81,14 @@
       "onboard_time": 1685754870,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1330195,
+      "num": 1330195,
+      "word": "女儿在爸爸朋友圈发长文拜托别劝酒",
+      "onboard_time": 1685766088,
+      "rank": 28,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 1265809,
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1163185,
+      "num": 1163185,
+      "word": "黄磊 有的满意有的都不敢聊",
+      "onboard_time": 1685763748,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1013892,
       "num": 1013892,
       "word": "今晚的观众好忙",
@@ -155,19 +171,35 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 935602,
-      "num": 935602,
-      "word": "黄磊 有的满意有的都不敢聊",
-      "onboard_time": 1685763748,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 924876,
       "num": 924876,
       "word": "太阳的后裔原型 李云龙原型歼灭的",
       "onboard_time": 1685718693,
       "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 918331,
+      "num": 918331,
+      "word": "程潇跳一半骨折了",
+      "onboard_time": 1685768729,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 874910,
+      "num": 874910,
+      "word": "杨紫穿旗袍了",
+      "onboard_time": 1685751208,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 783968,
+      "num": 783968,
+      "word": "朱珠问吴倩看过人生大事吗",
+      "onboard_time": 1685768070,
+      "rank": 6,
       "category": "影视"
     },
     {
@@ -177,6 +209,14 @@
       "onboard_time": 1685748923,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 679678,
+      "num": 679678,
+      "word": "苹果80",
+      "onboard_time": 1685764946,
+      "rank": 37,
+      "category": "科技"
     },
     {
       "raw_hot": 664463,
@@ -203,20 +243,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 603604,
-      "num": 603604,
-      "word": "杨紫穿旗袍了",
-      "onboard_time": 1685751208,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 595876,
       "num": 595876,
       "word": "赵丽颖回应被造谣与谢娜友情破裂",
       "onboard_time": 1685720071,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 550578,
+      "num": 550578,
+      "word": "家属正在安排被撞小学生母亲后事",
+      "onboard_time": 1685768309,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 522527,
@@ -228,7 +268,7 @@
     },
     {
       "raw_hot": 521154,
-      "num": 393308,
+      "num": 481609,
       "word": "凤九玄女是好朋友",
       "onboard_time": 1685763990,
       "rank": 14,
@@ -259,20 +299,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 443920,
+      "num": 443920,
+      "word": "椰树首次正面回应直播风格争议",
+      "onboard_time": 1685763269,
+      "rank": 36,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 440239,
       "num": 440239,
       "word": "佟大为送迪丽热巴的生日礼物",
       "onboard_time": 1685720489,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 415746,
-      "num": 415746,
-      "word": "苹果80",
-      "onboard_time": 1685764946,
-      "rank": 37,
-      "category": "科技"
     },
     {
       "raw_hot": 404876,
@@ -345,6 +385,14 @@
       "onboard_time": 1685765669,
       "rank": 18,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 357568,
+      "num": 328169,
+      "word": "EXO是真的勇",
+      "onboard_time": 1685768250,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 345085,
@@ -452,7 +500,7 @@
     },
     {
       "raw_hot": 299874,
-      "num": 231916,
+      "num": 254266,
       "word": "迪丽热巴邻家少女",
       "onboard_time": 1685764348,
       "rank": 25,
@@ -491,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 285096,
+      "num": 285096,
+      "word": "龚俊王鹤棣白敬亭宣传照",
+      "onboard_time": 1685768186,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269129,
       "num": 269129,
       "word": "王俊凯vs王源唱知足",
@@ -515,28 +571,12 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 268216,
-      "num": 268216,
-      "word": "椰树首次正面回应直播风格争议",
-      "onboard_time": 1685763269,
-      "rank": 36,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 261789,
       "num": 261789,
       "word": "又显着范丞丞了",
       "onboard_time": 1685718573,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 254482,
-      "num": 254482,
-      "word": "女儿在爸爸朋友圈发长文拜托别劝酒",
-      "onboard_time": 1685766088,
-      "rank": 28,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 251954,
@@ -595,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230405,
+      "num": 269528,
+      "word": "小狗进入美发店被店员装麻袋摔死",
+      "onboard_time": 1685764289,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230088,
       "num": 230088,
       "word": "赵丽娜的身高",
@@ -611,8 +659,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225353,
-      "num": 225353,
+      "raw_hot": 228000,
+      "num": 228000,
       "word": "椰树男主播营业视频",
       "onboard_time": 1685766147,
       "rank": 31,
@@ -651,19 +699,19 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 215796,
-      "num": 236575,
-      "word": "小狗进入美发店被店员装麻袋摔死",
-      "onboard_time": 1685764289,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213057,
       "num": 213057,
       "word": "向往的生活",
       "onboard_time": 1685715694,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 210461,
+      "num": 168041,
+      "word": "跑男对女演员的加成",
+      "onboard_time": 1685768729,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -681,6 +729,14 @@
       "onboard_time": 1685719652,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199760,
+      "num": 156559,
+      "word": "王嘉尔澳门演唱会官宣",
+      "onboard_time": 1685768250,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 197084,
@@ -763,6 +819,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 165503,
+      "num": 132263,
+      "word": "林志玲 真诚勇敢",
+      "onboard_time": 1685769150,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 160686,
       "num": 160686,
       "word": "青春环游记",
@@ -819,6 +883,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149068,
+      "num": 130482,
+      "word": "柳智敏给缺席成员留位置",
+      "onboard_time": 1685766749,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 146043,
+      "num": 146043,
+      "word": "女孩不舍得父母买钢琴进门瞬间喜极而泣",
+      "onboard_time": 1685769029,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144687,
       "num": 144687,
       "word": "蒋胜男 学术风气",
@@ -867,12 +947,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 122652,
-      "num": 130482,
-      "word": "柳智敏给缺席成员留位置",
-      "onboard_time": 1685766749,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 127096,
+      "num": 127096,
+      "word": "你怎么看待酒桌文化",
+      "onboard_time": 1685769150,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122544,
@@ -940,7 +1020,7 @@
     },
     {
       "raw_hot": 104740,
-      "num": 934127,
+      "num": 1242505,
       "word": "祝福2023高考生",
       "onboard_time": 1685765009,
       "rank": 2,
@@ -1147,6 +1227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 26146,
+      "num": 452715,
+      "word": "师生协力上演教科书式急救",
+      "onboard_time": 1685768429,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23843,
       "num": 31722,
       "word": "二公排名",
@@ -1204,6 +1292,9 @@
     },
     {
       "word": "#加快建设高质量教育体系#"
+    },
+    {
+      "word": "#建设中华民族现代文明#"
     }
   ]
 }
