@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685796454827,
+  "endTime": 1685798322285,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -57,6 +57,14 @@
       "onboard_time": 1685704832,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2393927,
+      "num": 2393927,
+      "word": "黄渤回应贫困女孩争议",
+      "onboard_time": 1685793386,
+      "rank": 1,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2391937,
@@ -129,14 +137,6 @@
       "onboard_time": 1685539529,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1998094,
-      "num": 1998094,
-      "word": "黄渤回应贫困女孩争议",
-      "onboard_time": 1685793386,
-      "rank": 1,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1990762,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 1456021,
-      "num": 437004,
+      "num": 550311,
       "word": "生日快乐啊小朋友",
       "onboard_time": 1685792546,
       "rank": 10,
@@ -683,6 +683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1118887,
+      "num": 1118887,
+      "word": "离职时HR把我的职位写高了",
+      "onboard_time": 1685790448,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1105584,
       "num": 1105584,
       "word": "胡可说不要把另一半当自己人",
@@ -705,14 +713,6 @@
       "onboard_time": 1685614287,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1060607,
-      "num": 1060607,
-      "word": "离职时HR把我的职位写高了",
-      "onboard_time": 1685790448,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 1050365,
@@ -971,6 +971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 774942,
+      "num": 774942,
+      "word": "小伙1.2万元拍下单颗荔枝送女友",
+      "onboard_time": 1685795186,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 770410,
       "num": 680162,
       "word": "别把医术拍成了法术",
@@ -1001,6 +1009,14 @@
       "onboard_time": 1685676267,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 710463,
+      "num": 710463,
+      "word": "陈伟霆亲到耳朵红了",
+      "onboard_time": 1685792367,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 710394,
@@ -1040,6 +1056,14 @@
       "word": "五月天因为余佳运不再当音乐节目评委",
       "onboard_time": 1685689767,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 692254,
+      "num": 692254,
+      "word": "瘦子真帅",
+      "onboard_time": 1685796210,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -1643,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 469550,
+      "num": 469550,
+      "word": "苏某读硕期间知网收录5篇论文",
+      "onboard_time": 1685794707,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 469400,
       "num": 469400,
       "word": "辽宁阜新疑似出现龙卷风",
@@ -1664,14 +1696,6 @@
       "word": "公诉收视率",
       "onboard_time": 1685674226,
       "rank": 14,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 464053,
-      "num": 464053,
-      "word": "陈伟霆亲到耳朵红了",
-      "onboard_time": 1685792367,
-      "rank": 17,
       "category": "影视"
     },
     {
@@ -1779,6 +1803,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 440967,
+      "num": 440967,
+      "word": "五月天演唱会偶遇李现",
+      "onboard_time": 1685797109,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 440239,
       "num": 440239,
       "word": "佟大为送迪丽热巴的生日礼物",
@@ -1817,6 +1849,14 @@
       "onboard_time": 1685679270,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 430839,
+      "num": 430839,
+      "word": "五月天演唱会",
+      "onboard_time": 1685545112,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 430282,
@@ -1937,6 +1977,14 @@
       "onboard_time": 1685597069,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 411467,
+      "num": 411467,
+      "word": "叶天瑜",
+      "onboard_time": 1685795487,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407976,
@@ -2121,14 +2169,6 @@
       "onboard_time": 1685583746,
       "rank": 34,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 377072,
-      "num": 377072,
-      "word": "五月天演唱会",
-      "onboard_time": 1685545112,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 374320,
@@ -2835,14 +2875,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 296415,
-      "num": 296415,
-      "word": "小伙1.2万元拍下单颗荔枝送女友",
-      "onboard_time": 1685795186,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 295262,
       "num": 288280,
       "word": "肖春生怎么还不被炸",
@@ -2921,6 +2953,14 @@
       "onboard_time": 1685753188,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 289251,
+      "num": 289251,
+      "word": "华晨宇五月天",
+      "onboard_time": 1685797829,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 288392,
@@ -3113,14 +3153,6 @@
       "onboard_time": 1685780427,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 273447,
-      "num": 273447,
-      "word": "苏某读硕期间知网收录5篇论文",
-      "onboard_time": 1685794707,
-      "rank": 34,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 273283,
@@ -3347,6 +3379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257695,
+      "num": 257695,
+      "word": "那英队团魂",
+      "onboard_time": 1685796328,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257080,
       "num": 257080,
       "word": "王源我有一天来鸟巢",
@@ -3481,14 +3521,6 @@
       "onboard_time": 1685613148,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 248415,
-      "num": 248415,
-      "word": "叶天瑜",
-      "onboard_time": 1685795487,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 247972,
@@ -3971,14 +4003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 218409,
-      "num": 218409,
-      "word": "瘦子真帅",
-      "onboard_time": 1685796210,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 218136,
       "num": 218136,
       "word": "EXO回归中",
@@ -4267,6 +4291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204747,
+      "num": 214022,
+      "word": "椰树风",
+      "onboard_time": 1685796388,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 204021,
       "num": 204021,
       "word": "司机倒车坠河他们一个个冲了过来",
@@ -4369,6 +4401,14 @@
       "onboard_time": 1685768250,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 199709,
+      "num": 187032,
+      "word": "李莎旻子刘惜君在声生不息当观众",
+      "onboard_time": 1685796567,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 199612,
@@ -4739,6 +4779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 186644,
+      "num": 186644,
+      "word": "陶白白肿了",
+      "onboard_time": 1685798008,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 186145,
       "num": 186145,
       "word": "哺乳期面试者提出的小请求",
@@ -4867,6 +4915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 181519,
+      "num": 181519,
+      "word": "TES对战EDG",
+      "onboard_time": 1685792247,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181375,
       "num": 181375,
       "word": "代号鸢",
@@ -4953,14 +5009,6 @@
       "onboard_time": 1685631931,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 176979,
-      "num": 176979,
-      "word": "椰树风",
-      "onboard_time": 1685796388,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 176431,
@@ -5068,7 +5116,7 @@
     },
     {
       "raw_hot": 169777,
-      "num": 133794,
+      "num": 146965,
       "word": "照亮你能播出来不容易啊",
       "onboard_time": 1685794949,
       "rank": 41,
@@ -5187,14 +5235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164552,
-      "num": 130415,
-      "word": "那英队团魂",
-      "onboard_time": 1685796328,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 164496,
       "num": 164496,
       "word": "明天有两部新剧开播",
@@ -5264,14 +5304,6 @@
       "word": "WBG首发名单",
       "onboard_time": 1685624668,
       "rank": 49,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 162136,
-      "num": 162136,
-      "word": "TES对战EDG",
-      "onboard_time": 1685792247,
-      "rank": 28,
       "category": "游戏"
     },
     {
@@ -5523,6 +5555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151269,
+      "num": 147121,
+      "word": "华晨宇麦粒肿",
+      "onboard_time": 1685798250,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 150499,
       "num": 150499,
       "word": "杭州女子为爱人求购非卖品获赠送",
@@ -5635,6 +5675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147159,
+      "num": 147159,
+      "word": "男子骑车碾压1个月大小狗致死",
+      "onboard_time": 1685796988,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145184,
       "num": 145184,
       "word": "瞬息全宇宙",
@@ -5732,7 +5780,7 @@
     },
     {
       "raw_hot": 137913,
-      "num": 137913,
+      "num": 142414,
       "word": "中国男篮",
       "onboard_time": 1685790986,
       "rank": 38,
@@ -6177,6 +6225,14 @@
       "onboard_time": 1685701710,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112344,
+      "num": 143212,
+      "word": "杭州部分小区房价跌回2017年",
+      "onboard_time": 1685797169,
+      "rank": 46,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 111962,
@@ -6729,6 +6785,14 @@
       "onboard_time": 1685718032,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74373,
+      "num": 141466,
+      "word": "爱吃薯条的危害",
+      "onboard_time": 1685798008,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 73773,
@@ -7355,6 +7419,9 @@
     },
     {
       "word": "#习近平谈文化传承发展#"
+    },
+    {
+      "word": "#带着我的梦想上天宫#"
     }
   ]
 }
