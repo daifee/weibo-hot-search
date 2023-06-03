@@ -1,7 +1,15 @@
 {
   "startTime": 1685722886907,
-  "endTime": 1685748820321,
+  "endTime": 1685756663069,
   "band_list": [
+    {
+      "raw_hot": 4395833,
+      "num": 1141762,
+      "word": "被撞致死男孩父亲处于崩溃边缘",
+      "onboard_time": 1685748621,
+      "rank": 4,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3670728,
       "num": 825277,
@@ -19,12 +27,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2085016,
+      "num": 2085016,
+      "word": "半藏森林克隆人一年收入可高达72万",
+      "onboard_time": 1685752465,
+      "rank": 0,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 1677029,
       "num": 667263,
       "word": "知情人辟谣被撞小学生父亲坠楼",
       "onboard_time": 1685721031,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1406773,
+      "num": 1406773,
+      "word": "陈采尼 抄",
+      "onboard_time": 1685754870,
+      "rank": 1,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1234336,
@@ -36,7 +60,7 @@
     },
     {
       "raw_hot": 1191166,
-      "num": 401061,
+      "num": 806552,
       "word": "警方回应校内被撞身亡小学生母亲坠亡",
       "onboard_time": 1685722770,
       "rank": 39,
@@ -51,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1143712,
+      "num": 1143712,
+      "word": "迪丽热巴是祝绪丹最爱的女人",
+      "onboard_time": 1685748741,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1013892,
       "num": 1013892,
       "word": "今晚的观众好忙",
@@ -60,7 +92,7 @@
     },
     {
       "raw_hot": 1013238,
-      "num": 465980,
+      "num": 576812,
       "word": "我国一孩生育率跌至0.5",
       "onboard_time": 1685704832,
       "rank": 9,
@@ -73,6 +105,46 @@
       "onboard_time": 1685718693,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 848658,
+      "num": 848658,
+      "word": "爸爸到上海出差把女儿冰箱塞满",
+      "onboard_time": 1685748560,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 833927,
+      "num": 833927,
+      "word": "Angelababy回归 跑男收视率",
+      "onboard_time": 1685751085,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 777837,
+      "num": 777837,
+      "word": "刘畊宏20秒短视频要价60万",
+      "onboard_time": 1685748923,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 761052,
+      "num": 761052,
+      "word": "千万不要长期喝热咖啡",
+      "onboard_time": 1685754390,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 704757,
+      "num": 704757,
+      "word": "华南理工女博士答辩完整视频",
+      "onboard_time": 1685753667,
+      "rank": 11,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 617382,
@@ -91,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 517500,
+      "num": 517500,
+      "word": "第一次见在仙侠剧里搞绿化的神仙",
+      "onboard_time": 1685754328,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 470750,
       "num": 470750,
       "word": "吴所谓得知吴京去开家长会的反应",
@@ -107,11 +187,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 423450,
+      "num": 423450,
+      "word": "印度列车相撞已致207人死亡",
+      "onboard_time": 1685753366,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 404876,
       "num": 404876,
       "word": "8岁男孩摆摊1小时赚584元",
       "onboard_time": 1685716294,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 391957,
+      "num": 391957,
+      "word": "印度发生列车脱轨相撞事故",
+      "onboard_time": 1685751505,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -171,12 +267,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 340476,
+      "num": 340476,
+      "word": "华晨宇问那英在歌坛怎么存活下来的",
+      "onboard_time": 1685752347,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 340195,
       "num": 340195,
       "word": "九尾",
       "onboard_time": 1685717672,
       "rank": 17,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 337841,
+      "num": 337841,
+      "word": "孕妇泰国坠崖案丈夫被判33年4个月",
+      "onboard_time": 1685754269,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333216,
+      "num": 333216,
+      "word": "侯媛丽",
+      "onboard_time": 1685754692,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 328481,
@@ -203,12 +323,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 313864,
-      "num": 106437,
+      "raw_hot": 314044,
+      "num": 314044,
       "word": "已婚前任突然加我",
       "onboard_time": 1685746998,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 289345,
+      "num": 289345,
+      "word": "汪苏泷显眼包式亲薛凯琪",
+      "onboard_time": 1685753188,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 285238,
@@ -225,6 +353,14 @@
       "onboard_time": 1685719235,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266042,
+      "num": 266042,
+      "word": "杨紫穿旗袍了",
+      "onboard_time": 1685751208,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 261789,
@@ -275,20 +411,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222763,
+      "num": 222763,
+      "word": "王俊凯vs王源唱知足",
+      "onboard_time": 1685755350,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 213057,
       "num": 213057,
       "word": "向往的生活",
       "onboard_time": 1685715694,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 206610,
-      "num": 84163,
-      "word": "迪丽热巴是祝绪丹最爱的女人",
-      "onboard_time": 1685748741,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 204276,
@@ -299,12 +435,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198213,
+      "num": 198213,
+      "word": "那英劝周迅别去浪姐",
+      "onboard_time": 1685749222,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192160,
       "num": 192160,
       "word": "周也演技值得一个热搜",
       "onboard_time": 1685713652,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191689,
+      "num": 191689,
+      "word": "梦中的那片海收视率",
+      "onboard_time": 1685750483,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 190105,
+      "num": 190105,
+      "word": "蔡徐坤晒澳门演唱会舞台照",
+      "onboard_time": 1685756009,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 168112,
@@ -321,6 +481,22 @@
       "onboard_time": 1685719053,
       "rank": 33,
       "category": "科技"
+    },
+    {
+      "raw_hot": 152162,
+      "num": 152162,
+      "word": "金希澈王霏霏周觅银赫合照",
+      "onboard_time": 1685750723,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 151829,
+      "num": 151829,
+      "word": "迪丽热巴台词空耳挑战",
+      "onboard_time": 1685753549,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 151707,
@@ -371,12 +547,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 124091,
+      "num": 115674,
+      "word": "赵丽颖新中式玉兔盘发教程",
+      "onboard_time": 1685755108,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 122544,
       "num": 122544,
       "word": "张杰唱剑心爷青回",
       "onboard_time": 1685717975,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 117678,
+      "num": 117678,
+      "word": "何炅肌肉线条",
+      "onboard_time": 1685752286,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 116346,
@@ -387,11 +579,35 @@
       "category": "影视"
     },
     {
+      "raw_hot": 115051,
+      "num": 129250,
+      "word": "他只是爱我 却不理会我灵魂的出口",
+      "onboard_time": 1685756369,
+      "rank": 39,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 113066,
+      "num": 113066,
+      "word": "保洁阿姨捡到40万上交获奖励",
+      "onboard_time": 1685747480,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112645,
       "num": 93241,
       "word": "周深被李荣浩炸了",
       "onboard_time": 1685728637,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 110709,
+      "num": 110709,
+      "word": "宁静说的两个人是谁",
+      "onboard_time": 1685751925,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -443,20 +659,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 97347,
+      "num": 97347,
+      "word": "舅舅配合家人演戏帮男孩戒掉手机",
+      "onboard_time": 1685748679,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96811,
       "num": 96811,
       "word": "aespa和LESSERAFIM完全相反的食性",
       "onboard_time": 1685712451,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 93468,
-      "num": 93468,
-      "word": "保洁阿姨捡到40万上交获奖励",
-      "onboard_time": 1685747480,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 89508,
@@ -481,6 +697,22 @@
       "onboard_time": 1685711372,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 84653,
+      "num": 84653,
+      "word": "印度火车相撞超200人死亡",
+      "onboard_time": 1685755947,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76779,
+      "num": 84578,
+      "word": "广东人吃杨梅真是脑洞大开",
+      "onboard_time": 1685750305,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 68847,
@@ -523,16 +755,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 50160,
-      "num": 50160,
-      "word": "爸爸到上海出差把女儿冰箱塞满",
-      "onboard_time": 1685748560,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 50116,
+      "num": 84505,
+      "word": "沃格尔将担任太阳主帅",
+      "onboard_time": 1685754446,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 48735,
-      "num": 1071242,
+      "num": 1144038,
       "word": "全球最大自贸区进入全面实施新阶段",
       "onboard_time": 1685710712,
       "rank": 2,
