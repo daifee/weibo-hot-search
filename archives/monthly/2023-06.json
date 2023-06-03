@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685806424730,
+  "endTime": 1685809286870,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -289,6 +289,14 @@
       "onboard_time": 1685776287,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1613516,
+      "num": 824764,
+      "word": "成都七中一学生被开除",
+      "onboard_time": 1685804552,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1609257,
@@ -723,7 +731,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1124507,
+      "raw_hot": 1132486,
       "num": 1124507,
       "word": "原配抓小三路人帮腔大骂男方不要脸",
       "onboard_time": 1685801973,
@@ -915,6 +923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 852126,
+      "num": 410047,
+      "word": "梅西自宣离队",
+      "onboard_time": 1685807790,
+      "rank": 11,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 846686,
       "num": 846686,
       "word": "庾澄庆频繁在线",
@@ -968,14 +984,6 @@
       "word": "多次感染对身体的危害有多大",
       "onboard_time": 1685677468,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 824764,
-      "num": 824764,
-      "word": "成都七中一学生被开除",
-      "onboard_time": 1685804552,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1627,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 520211,
+      "num": 520211,
+      "word": "一人说一个奇怪的生理反应",
+      "onboard_time": 1685804011,
+      "rank": 22,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 519751,
       "num": 519751,
       "word": "宋妍霏对王嘉尔的小动作",
@@ -1753,6 +1769,14 @@
       "onboard_time": 1685792186,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 474302,
+      "num": 407811,
+      "word": "张小狮 大树",
+      "onboard_time": 1685806172,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 473764,
@@ -1913,14 +1937,6 @@
       "onboard_time": 1685720489,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 437684,
-      "num": 437684,
-      "word": "一人说一个奇怪的生理反应",
-      "onboard_time": 1685804011,
-      "rank": 22,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 435195,
@@ -2153,6 +2169,14 @@
       "onboard_time": 1685614166,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 395696,
+      "num": 395696,
+      "word": "曼城vs曼联",
+      "onboard_time": 1685780369,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 393775,
@@ -2425,6 +2449,14 @@
       "onboard_time": 1685718573,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 352851,
+      "num": 352851,
+      "word": "鹿晗演唱会",
+      "onboard_time": 1685805271,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 350994,
@@ -2843,14 +2875,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 310847,
-      "num": 310847,
-      "word": "鹿晗演唱会",
-      "onboard_time": 1685805271,
-      "rank": 46,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 309663,
       "num": 309663,
       "word": "官方回应昆明一幼儿园3岁女童死亡",
@@ -2921,14 +2945,6 @@
       "onboard_time": 1685676746,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 303321,
-      "num": 303321,
-      "word": "曼城vs曼联",
-      "onboard_time": 1685780369,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 302799,
@@ -3427,6 +3443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 265955,
+      "num": 251293,
+      "word": "声生不息 告五人",
+      "onboard_time": 1685805391,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265515,
       "num": 248382,
       "word": "TFBOYS十周年演唱会灯牌设计",
@@ -3859,14 +3883,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 241105,
-      "num": 241105,
-      "word": "声生不息 告五人",
-      "onboard_time": 1685805391,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 240785,
       "num": 240785,
       "word": "成都蓉城",
@@ -4065,6 +4081,14 @@
       "onboard_time": 1685759670,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 231296,
+      "num": 231296,
+      "word": "薛之谦把伴舞的鞋子扔了",
+      "onboard_time": 1685806651,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 230958,
@@ -4627,14 +4651,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 202586,
-      "num": 176279,
-      "word": "张小狮 大树",
-      "onboard_time": 1685806172,
-      "rank": 40,
-      "category": "网红"
-    },
-    {
       "raw_hot": 202306,
       "num": 135933,
       "word": "蔡徐坤澳门演唱会今晚开唱",
@@ -5115,6 +5131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 186190,
+      "num": 133642,
+      "word": "流浪地球2将进行联合国特别放映",
+      "onboard_time": 1685806949,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186145,
       "num": 186145,
       "word": "哺乳期面试者提出的小请求",
@@ -5513,6 +5537,14 @@
       "onboard_time": 1685587405,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167110,
+      "num": 167110,
+      "word": "杭州一碗面动辄三四十",
+      "onboard_time": 1685807730,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166865,
@@ -6011,6 +6043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148192,
+      "num": 131813,
+      "word": "大树",
+      "onboard_time": 1685808689,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 148153,
       "num": 148153,
       "word": "威神V陈学冬舞蹈挑战",
@@ -6211,6 +6251,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 133690,
+      "num": 133690,
+      "word": "leave",
+      "onboard_time": 1685805090,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 133454,
       "num": 133454,
       "word": "以后都不会做了的工作",
@@ -6409,14 +6457,6 @@
       "onboard_time": 1685787086,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 120692,
-      "num": 120692,
-      "word": "leave",
-      "onboard_time": 1685805090,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 120187,
@@ -6633,6 +6673,14 @@
       "onboard_time": 1685751925,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110704,
+      "num": 110704,
+      "word": "俩老人摔坐马路消防员秒出警",
+      "onboard_time": 1685808750,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110325,
