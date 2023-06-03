@@ -1,6 +1,6 @@
 {
   "startTime": 1685722886907,
-  "endTime": 1685781242768,
+  "endTime": 1685783698110,
   "band_list": [
     {
       "raw_hot": 4395833,
@@ -107,6 +107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1522742,
+      "num": 1522742,
+      "word": "徐开骋被AI换脸",
+      "onboard_time": 1685777067,
+      "rank": 19,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1424602,
       "num": 1424602,
       "word": "女儿在爸爸朋友圈发长文拜托别劝酒",
@@ -139,20 +147,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1236908,
+      "num": 1236908,
+      "word": "吴倩说女儿和自己长得一模一样",
+      "onboard_time": 1685779887,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1234336,
       "num": 324522,
       "word": "3未成年男性酒店轮流猥亵2少女",
       "onboard_time": 1685706814,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1207181,
-      "num": 1207181,
-      "word": "徐开骋被AI换脸",
-      "onboard_time": 1685777067,
-      "rank": 19,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1191166,
@@ -203,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1028327,
+      "num": 339567,
+      "word": "盛一伦祝迪丽热巴生日快乐",
+      "onboard_time": 1685780968,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1013892,
       "num": 1013892,
       "word": "今晚的观众好忙",
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 1003411,
-      "num": 311808,
+      "num": 335560,
       "word": "杨紫长发及腰了",
       "onboard_time": 1685779288,
       "rank": 11,
@@ -267,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 812503,
+      "num": 812503,
+      "word": "赵露思是曾黎的人形挂件吧",
+      "onboard_time": 1685779887,
+      "rank": 21,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 777837,
       "num": 777837,
       "word": "刘畊宏20秒短视频要价60万",
@@ -275,20 +299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 757235,
-      "num": 757235,
+      "raw_hot": 771081,
+      "num": 771081,
       "word": "4篇论文现同一划痕钢尺遭撤稿",
       "onboard_time": 1685769449,
       "rank": 15,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 735967,
-      "num": 294114,
-      "word": "赵露思是曾黎的人形挂件吧",
-      "onboard_time": 1685779887,
-      "rank": 21,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 705499,
@@ -355,12 +371,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 549857,
-      "num": 269754,
-      "word": "吴倩说女儿和自己长得一模一样",
-      "onboard_time": 1685779887,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 533282,
+      "num": 328419,
+      "word": "李泰容吧 抽抽乐",
+      "onboard_time": 1685781268,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 522527,
@@ -483,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 372455,
+      "num": 372455,
+      "word": "做饭阿姨好像活在总裁文里",
+      "onboard_time": 1685779528,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365948,
       "num": 365948,
       "word": "高校回应女博士毕业答辩争议",
@@ -563,20 +587,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 337298,
-      "num": 277670,
-      "word": "做饭阿姨好像活在总裁文里",
-      "onboard_time": 1685779528,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 333216,
       "num": 333216,
       "word": "侯媛丽",
       "onboard_time": 1685754692,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 330080,
+      "num": 330080,
+      "word": "浙江多所小学美术本印有涉黄二维码",
+      "onboard_time": 1685778567,
+      "rank": 17,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 328481,
@@ -619,12 +643,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 315492,
-      "num": 315492,
-      "word": "浙江多所小学美术本印有涉黄二维码",
-      "onboard_time": 1685778567,
-      "rank": 17,
-      "category": "社会新闻,教育"
+      "raw_hot": 315443,
+      "num": 172954,
+      "word": "没认出岳云鹏",
+      "onboard_time": 1685780728,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 314099,
@@ -659,10 +683,26 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 307674,
+      "num": 307674,
+      "word": "中国女排世联赛三连胜",
+      "onboard_time": 1685781809,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304743,
       "num": 258814,
       "word": "肖春生挨了一管叉",
       "onboard_time": 1685765607,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 303093,
+      "num": 172257,
+      "word": "王东被换脸",
+      "onboard_time": 1685783129,
       "rank": 26,
       "category": "影视"
     },
@@ -723,20 +763,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 282593,
-      "num": 171705,
-      "word": "盛一伦祝迪丽热巴生日快乐",
-      "onboard_time": 1685780968,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 275421,
       "num": 275421,
       "word": "花花和大家打招呼",
       "onboard_time": 1685771246,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274540,
+      "num": 170827,
+      "word": "王一博热烈在地铁上练舞",
+      "onboard_time": 1685780427,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 269129,
@@ -835,6 +875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 235519,
+      "num": 168441,
+      "word": "杨紫直播",
+      "onboard_time": 1685783129,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234785,
       "num": 216645,
       "word": "张嘉倪羽毛裙好轻灵",
@@ -899,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219676,
+      "num": 163410,
+      "word": "黄觉的命也是命",
+      "onboard_time": 1685782468,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 219385,
       "num": 211447,
       "word": "张艺兴深圳演唱会今天抢票",
@@ -913,14 +969,6 @@
       "onboard_time": 1685762068,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 218089,
-      "num": 143714,
-      "word": "没认出岳云鹏",
-      "onboard_time": 1685780728,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 217575,
@@ -1003,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207106,
+      "num": 162503,
+      "word": "朱一龙杨蓉友情",
+      "onboard_time": 1685783487,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204276,
       "num": 204276,
       "word": "瞿颖真的好敢说",
@@ -1035,20 +1091,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195536,
+      "num": 158095,
+      "word": "郭碧婷带娃逛商场",
+      "onboard_time": 1685782227,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193713,
       "num": 193713,
       "word": "还有4天高考",
       "onboard_time": 1685756671,
       "rank": 32,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 192965,
-      "num": 134110,
-      "word": "王一博热烈在地铁上练舞",
-      "onboard_time": 1685780427,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 192160,
@@ -1123,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185053,
+      "num": 185053,
+      "word": "高三学生写永久请假条告别班主任",
+      "onboard_time": 1685781809,
+      "rank": 22,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 183941,
       "num": 107153,
       "word": "花戎又土又上头",
@@ -1147,8 +1211,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 178005,
+      "num": 156337,
+      "word": "吴倩英文好流利",
+      "onboard_time": 1685783369,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175437,
-      "num": 124978,
+      "num": 142132,
       "word": "迪丽热巴拍出一个爱心",
       "onboard_time": 1685780187,
       "rank": 44,
@@ -1332,7 +1404,7 @@
     },
     {
       "raw_hot": 127571,
-      "num": 127571,
+      "num": 155766,
       "word": "白鹭误进餐馆直奔后厨狂炫鱼货",
       "onboard_time": 1685780130,
       "rank": 47,
@@ -1412,11 +1484,19 @@
     },
     {
       "raw_hot": 108493,
-      "num": 108493,
+      "num": 142055,
       "word": "王懿律 我不会离开羽毛球",
       "onboard_time": 1685781148,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108422,
+      "num": 164469,
+      "word": "双向奔赴才有意义",
+      "onboard_time": 1685783065,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 108292,
@@ -1571,6 +1651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85042,
+      "num": 142125,
+      "word": "你有劝过别人喝酒吗",
+      "onboard_time": 1685782407,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85005,
       "num": 101982,
       "word": "骆歆",
@@ -1643,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55470,
+      "num": 1294508,
+      "word": "三夏已至农事正忙",
+      "onboard_time": 1685779707,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53349,
       "num": 100474,
       "word": "沃格尔将担任太阳主帅",
@@ -1681,14 +1777,6 @@
       "onboard_time": 1685737032,
       "rank": 14,
       "category": "综艺,综艺"
-    },
-    {
-      "raw_hot": 39591,
-      "num": 1294508,
-      "word": "三夏已至农事正忙",
-      "onboard_time": 1685779707,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32678,

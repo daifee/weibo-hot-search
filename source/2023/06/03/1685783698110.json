@@ -1,0 +1,410 @@
+{
+  "runTime": 1685783698110,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1522742,
+        "num": 1522742,
+        "word": "徐开骋被AI换脸",
+        "onboard_time": 1685777067,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1236908,
+        "num": 1236908,
+        "word": "吴倩说女儿和自己长得一模一样",
+        "onboard_time": 1685779887,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55470,
+        "num": 1093132,
+        "word": "三夏已至农事正忙",
+        "onboard_time": 1685779707,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1085836,
+        "num": 1085836,
+        "word": "黄觉牵张艺凡",
+        "onboard_time": 1685774488,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1074192,
+        "num": 1074192,
+        "word": "卢靖姗顺产用了三十六个小时",
+        "onboard_time": 1685776287,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 812503,
+        "num": 812503,
+        "word": "赵露思是曾黎的人形挂件吧",
+        "onboard_time": 1685779887,
+        "rank": 5,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 771081,
+        "num": 771081,
+        "word": "4篇论文现同一划痕钢尺遭撤稿",
+        "onboard_time": 1685769449,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 480574,
+        "num": 480574,
+        "word": "女儿在爸爸朋友圈发长文拜托别劝酒",
+        "onboard_time": 1685766088,
+        "rank": 7,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 372455,
+        "num": 372455,
+        "word": "做饭阿姨好像活在总裁文里",
+        "onboard_time": 1685779528,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339964,
+        "num": 339964,
+        "word": "印度火车相撞已致288人死亡",
+        "onboard_time": 1685769747,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1028327,
+        "num": 339567,
+        "word": "盛一伦祝迪丽热巴生日快乐",
+        "onboard_time": 1685780968,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 858485,
+        "num": 335560,
+        "word": "杨紫长发及腰了",
+        "onboard_time": 1685779288,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 826767,
+        "num": 333217,
+        "word": "家属正在安排被撞小学生母亲后事",
+        "onboard_time": 1685768309,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 596246,
+        "num": 332002,
+        "word": "陈伟霆章若楠真的没在谈吗",
+        "onboard_time": 1685777245,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 330080,
+        "num": 330080,
+        "word": "浙江多所小学美术本印有涉黄二维码",
+        "onboard_time": 1685778567,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 564153,
+        "num": 328649,
+        "word": "庾澄庆频繁在线",
+        "onboard_time": 1685777127,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533282,
+        "num": 328419,
+        "word": "李泰容吧 抽抽乐",
+        "onboard_time": 1685781268,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479269,
+        "num": 325731,
+        "word": "程潇跳一半骨折了",
+        "onboard_time": 1685768729,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307674,
+        "num": 307674,
+        "word": "中国女排世联赛三连胜",
+        "onboard_time": 1685781809,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225212,
+        "num": 225212,
+        "word": "龚翔宇",
+        "onboard_time": 1685779948,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 354780,
+        "num": 215039,
+        "word": "肖战 CHALI",
+        "onboard_time": 1685773107,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200258,
+        "num": 200258,
+        "word": "一辆SUV盲区里藏着75名儿童",
+        "onboard_time": 1685771608,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185053,
+        "num": 185053,
+        "word": "高三学生写永久请假条告别班主任",
+        "onboard_time": 1685781809,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 174293,
+        "num": 174293,
+        "word": "花花和大家打招呼",
+        "onboard_time": 1685771246,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133378,
+        "num": 173873,
+        "word": "您的骑手正在逗狗",
+        "onboard_time": 1685776588,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 315443,
+        "num": 172954,
+        "word": "没认出岳云鹏",
+        "onboard_time": 1685780728,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303093,
+        "num": 172257,
+        "word": "王东被换脸",
+        "onboard_time": 1685783129,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274540,
+        "num": 170827,
+        "word": "王一博热烈在地铁上练舞",
+        "onboard_time": 1685780427,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121503,
+        "num": 170333,
+        "word": "椰树首次正面回应直播风格争议",
+        "onboard_time": 1685763269,
+        "rank": 28,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 112192,
+        "num": 169464,
+        "word": "中国女排vs荷兰女排",
+        "onboard_time": 1685779288,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235519,
+        "num": 168441,
+        "word": "杨紫直播",
+        "onboard_time": 1685783129,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234752,
+        "num": 166833,
+        "word": "李泰容迷你专辑",
+        "onboard_time": 1685778509,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 219879,
+        "num": 165861,
+        "word": "朱珠问吴倩看过人生大事吗",
+        "onboard_time": 1685768070,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111128,
+        "num": 165183,
+        "word": "千万不要长期喝热咖啡",
+        "onboard_time": 1685754390,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108422,
+        "num": 164469,
+        "word": "双向奔赴才有意义",
+        "onboard_time": 1685783065,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219676,
+        "num": 163410,
+        "word": "黄觉的命也是命",
+        "onboard_time": 1685782468,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207106,
+        "num": 162503,
+        "word": "朱一龙杨蓉友情",
+        "onboard_time": 1685783487,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208025,
+        "num": 161539,
+        "word": "关晓彤多巴胺穿搭",
+        "onboard_time": 1685779347,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105750,
+        "num": 160847,
+        "word": "女孩不舍得父母买钢琴进门瞬间喜极而泣",
+        "onboard_time": 1685769029,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98935,
+        "num": 160006,
+        "word": "奥运冠军王懿律宣布退出国家队",
+        "onboard_time": 1685770407,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195953,
+        "num": 158247,
+        "word": "EXO是真的勇",
+        "onboard_time": 1685768250,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195536,
+        "num": 158095,
+        "word": "郭碧婷带娃逛商场",
+        "onboard_time": 1685782227,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178005,
+        "num": 156337,
+        "word": "吴倩英文好流利",
+        "onboard_time": 1685783369,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91376,
+        "num": 155766,
+        "word": "白鹭误进餐馆直奔后厨狂炫鱼货",
+        "onboard_time": 1685780130,
+        "rank": 43,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 155293,
+        "num": 155293,
+        "word": "密室大逃脱官微评论区",
+        "onboard_time": 1685776287,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142132,
+        "num": 142132,
+        "word": "迪丽热巴拍出一个爱心",
+        "onboard_time": 1685780187,
+        "rank": 45,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 85042,
+        "num": 142125,
+        "word": "你有劝过别人喝酒吗",
+        "onboard_time": 1685782407,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82541,
+        "num": 142111,
+        "word": "苹果80",
+        "onboard_time": 1685764946,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 81982,
+        "num": 142084,
+        "word": "武汉迪士尼",
+        "onboard_time": 1685758169,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68317,
+        "num": 142055,
+        "word": "王懿律 我不会离开羽毛球",
+        "onboard_time": 1685781148,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力建设中华民族现代文明#"
+    }
+  }
+}
