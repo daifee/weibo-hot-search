@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685830486965,
+  "endTime": 1685831616531,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -15323,6 +15323,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 39424,
+      "num": 260992,
+      "word": "神十五航天员回地球",
+      "onboard_time": 1685802812,
+      "rank": 2,
+      "category": "科技"
+    },
+    {
       "raw_hot": 39236,
       "num": 370423,
       "word": "品如艾莉再次PK",
@@ -15417,14 +15425,6 @@
       "onboard_time": 1685537908,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31670,
-      "num": 260992,
-      "word": "神十五航天员回地球",
-      "onboard_time": 1685802812,
-      "rank": 2,
-      "category": "科技"
     },
     {
       "raw_hot": 31295,
@@ -15572,7 +15572,7 @@
     },
     {
       "raw_hot": 22077,
-      "num": 23066,
+      "num": 28235,
       "word": "高叶 常州",
       "onboard_time": 1685822951,
       "rank": 40,
