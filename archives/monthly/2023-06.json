@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685831616531,
+  "endTime": 1685834157856,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -6243,6 +6243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134917,
+      "num": 134917,
+      "word": "被蚊子咬到正确的处理方式",
+      "onboard_time": 1685809287,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 134843,
       "num": 134843,
       "word": "特斯拉",
@@ -6281,14 +6289,6 @@
       "onboard_time": 1685542471,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 132990,
-      "num": 132990,
-      "word": "被蚊子咬到正确的处理方式",
-      "onboard_time": 1685809287,
-      "rank": 47,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 132917,
@@ -6883,6 +6883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101364,
+      "num": 101364,
+      "word": "萌娃检查身体时突然向医生wink",
+      "onboard_time": 1685833277,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99389,
       "num": 122366,
       "word": "MC梦否认诱导边伯贤离开SMTOWN",
@@ -6936,6 +6944,14 @@
       "word": "男孩表演时看到爸爸一秒变开心",
       "onboard_time": 1685606487,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94652,
+      "num": 94652,
+      "word": "公司要求自带电脑上班不合格就充公",
+      "onboard_time": 1685833277,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -7067,6 +7083,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 86645,
+      "num": 368892,
+      "word": "神十五航天员回地球",
+      "onboard_time": 1685802812,
+      "rank": 2,
+      "category": "科技"
+    },
+    {
       "raw_hot": 86200,
       "num": 86200,
       "word": "穆里尼奥",
@@ -7097,6 +7121,14 @@
       "onboard_time": 1685796028,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85125,
+      "num": 85125,
+      "word": "郭碧婷的穿搭好接地气",
+      "onboard_time": 1685814257,
+      "rank": 22,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 85042,
@@ -7137,14 +7169,6 @@
       "onboard_time": 1685686469,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81056,
-      "num": 81056,
-      "word": "郭碧婷的穿搭好接地气",
-      "onboard_time": 1685814257,
-      "rank": 22,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 80575,
@@ -7275,6 +7299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73009,
+      "num": 73009,
+      "word": "黄渤看到岳云鹏新发型的反应",
+      "onboard_time": 1685816835,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 72847,
       "num": 104853,
       "word": "等以后下地狱了想要哪个角",
@@ -7369,6 +7401,14 @@
       "onboard_time": 1685748080,
       "rank": 37,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 68182,
+      "num": 68182,
+      "word": "肖战撞脸狗狗表情包",
+      "onboard_time": 1685833036,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 65719,
@@ -7497,14 +7537,6 @@
       "onboard_time": 1685540910,
       "rank": 45,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 56061,
-      "num": 56061,
-      "word": "黄渤看到岳云鹏新发型的反应",
-      "onboard_time": 1685816835,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 55874,
@@ -7683,12 +7715,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 39424,
-      "num": 260992,
-      "word": "神十五航天员回地球",
-      "onboard_time": 1685802812,
-      "rank": 2,
-      "category": "科技"
+      "raw_hot": 40377,
+      "num": 40377,
+      "word": "皇马官宣阿扎尔离队",
+      "onboard_time": 1685834116,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 35645,
