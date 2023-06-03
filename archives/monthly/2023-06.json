@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685763221124,
+  "endTime": 1685765979511,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1888314,
+      "num": 375686,
+      "word": "学术妲己 厌女",
+      "onboard_time": 1685763748,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1876838,
       "num": 356989,
       "word": "3未成年男性酒店轮流猥亵2少女",
@@ -184,6 +192,14 @@
       "word": "知情人辟谣被撞小学生父亲坠楼",
       "onboard_time": 1685721031,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1672813,
+      "num": 1672813,
+      "word": "武汉迪士尼",
+      "onboard_time": 1685758169,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -243,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1494780,
+      "num": 627102,
+      "word": "半藏森林",
+      "onboard_time": 1685757991,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1437497,
       "num": 1437497,
       "word": "百度网盘被苹果AppStore下架",
@@ -259,14 +283,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 1413464,
-      "num": 1413464,
-      "word": "武汉迪士尼",
-      "onboard_time": 1685758169,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1411897,
       "num": 1599420,
       "word": "张雪峰公司将实行上四休三",
@@ -281,14 +297,6 @@
       "onboard_time": 1685664568,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1394191,
-      "num": 627102,
-      "word": "半藏森林",
-      "onboard_time": 1685757991,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 1394049,
@@ -515,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1155227,
+      "num": 918192,
+      "word": "华南理工女博士答辩完整视频",
+      "onboard_time": 1685753667,
+      "rank": 11,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1147186,
       "num": 792011,
       "word": "女子退猫被拒后直接把猫摔死",
@@ -553,14 +569,6 @@
       "onboard_time": 1685597789,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1092436,
-      "num": 918192,
-      "word": "华南理工女博士答辩完整视频",
-      "onboard_time": 1685753667,
-      "rank": 11,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1081873,
@@ -619,8 +627,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 973409,
-      "num": 973409,
+      "raw_hot": 975933,
+      "num": 975933,
       "word": "爸爸到上海出差把女儿冰箱塞满",
       "onboard_time": 1685748560,
       "rank": 44,
@@ -689,6 +697,14 @@
       "onboard_time": 1685589806,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 837445,
+      "num": 347337,
+      "word": "黄磊 有的满意有的都不敢聊",
+      "onboard_time": 1685763748,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 837359,
@@ -955,6 +971,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 615506,
+      "num": 615506,
+      "word": "阿信是TFBOYS端水大师",
+      "onboard_time": 1685762129,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 612599,
       "num": 612599,
       "word": "王鹤棣要去泰国录跑男",
@@ -1009,6 +1033,14 @@
       "onboard_time": 1685626290,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 586090,
+      "num": 586090,
+      "word": "杨紫穿旗袍了",
+      "onboard_time": 1685751208,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 584444,
@@ -1195,12 +1227,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 521653,
-      "num": 521653,
+      "raw_hot": 522527,
+      "num": 522527,
       "word": "那英劝周迅别去浪姐",
       "onboard_time": 1685749222,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 521154,
+      "num": 323399,
+      "word": "凤九玄女是好朋友",
+      "onboard_time": 1685763990,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 519751,
@@ -1707,6 +1747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 388335,
+      "num": 242562,
+      "word": "Angelababy白鹿镜头时长",
+      "onboard_time": 1685762549,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 387087,
       "num": 325856,
       "word": "吴建豪淘汰赵丽颖",
@@ -1763,14 +1811,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 373573,
-      "num": 373573,
-      "word": "阿信是TFBOYS端水大师",
-      "onboard_time": 1685762129,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 372504,
       "num": 261249,
       "word": "我的人间烟火",
@@ -1793,14 +1833,6 @@
       "onboard_time": 1685593529,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 370105,
-      "num": 370105,
-      "word": "杨紫穿旗袍了",
-      "onboard_time": 1685751208,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 365142,
@@ -2219,6 +2251,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 304743,
+      "num": 227671,
+      "word": "肖春生挨了一管叉",
+      "onboard_time": 1685765607,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 304459,
       "num": 280360,
       "word": "学术妲己的危害",
@@ -2289,6 +2329,14 @@
       "onboard_time": 1685712692,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 299874,
+      "num": 230562,
+      "word": "迪丽热巴邻家少女",
+      "onboard_time": 1685764348,
+      "rank": 25,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 298809,
@@ -2489,6 +2537,14 @@
       "onboard_time": 1685619325,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283064,
+      "num": 283064,
+      "word": "椰树直播间",
+      "onboard_time": 1685765669,
+      "rank": 18,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 282924,
@@ -3059,11 +3115,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 235493,
-      "num": 235493,
-      "word": "Angelababy白鹿镜头时长",
-      "onboard_time": 1685762549,
-      "rank": 28,
+      "raw_hot": 234785,
+      "num": 216645,
+      "word": "张嘉倪羽毛裙好轻灵",
+      "onboard_time": 1685763869,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -3275,6 +3331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 219385,
+      "num": 211447,
+      "word": "张艺兴深圳演唱会今天抢票",
+      "onboard_time": 1685764946,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 218571,
       "num": 218571,
       "word": "王欣瑜首进大满贯32强",
@@ -3289,6 +3353,14 @@
       "onboard_time": 1685762068,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217575,
+      "num": 217575,
+      "word": "迪士尼将落户武汉消息不实",
+      "onboard_time": 1685764828,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217337,
@@ -3321,6 +3393,14 @@
       "onboard_time": 1685756729,
       "rank": 30,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 215796,
+      "num": 215796,
+      "word": "小狗进入美发店被店员装麻袋摔死",
+      "onboard_time": 1685764289,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215531,
@@ -3467,6 +3547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207425,
+      "num": 207425,
+      "word": "椰树首次正面回应直播风格争议",
+      "onboard_time": 1685763269,
+      "rank": 36,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 207317,
       "num": 207317,
       "word": "Jennie曼谷演唱会不划水",
@@ -3577,6 +3665,14 @@
       "onboard_time": 1685625088,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198392,
+      "num": 198392,
+      "word": "苹果80",
+      "onboard_time": 1685764946,
+      "rank": 37,
+      "category": "科技"
     },
     {
       "raw_hot": 198120,
@@ -3755,6 +3851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190820,
+      "num": 176406,
+      "word": "陈楚生说感谢张远特别邀请",
+      "onboard_time": 1685761890,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190487,
       "num": 190487,
       "word": "辛选主播将成人喝的牛奶推荐给孩子",
@@ -3881,14 +3985,6 @@
       "onboard_time": 1685603549,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 184358,
-      "num": 167701,
-      "word": "陈楚生说感谢张远特别邀请",
-      "onboard_time": 1685761890,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 184017,
@@ -5457,6 +5553,14 @@
       "onboard_time": 1685633608,
       "rank": 49,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 76000,
+      "num": 934127,
+      "word": "祝福2023高考生",
+      "onboard_time": 1685765009,
+      "rank": 2,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 75708,
