@@ -1,6 +1,6 @@
 {
   "startTime": 1685722886907,
-  "endTime": 1685760962760,
+  "endTime": 1685762202147,
   "band_list": [
     {
       "raw_hot": 4395833,
@@ -35,19 +35,19 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 1928089,
+      "num": 1928089,
+      "word": "千万不要长期喝热咖啡",
+      "onboard_time": 1685754390,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1677029,
       "num": 667263,
       "word": "知情人辟谣被撞小学生父亲坠楼",
       "onboard_time": 1685721031,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1672725,
-      "num": 1672725,
-      "word": "千万不要长期喝热咖啡",
-      "onboard_time": 1685754390,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -59,7 +59,15 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1384003,
+      "raw_hot": 1413464,
+      "num": 1413464,
+      "word": "武汉迪士尼",
+      "onboard_time": 1685758169,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1394191,
       "num": 627102,
       "word": "半藏森林",
       "onboard_time": 1685757991,
@@ -80,14 +88,6 @@
       "word": "3未成年男性酒店轮流猥亵2少女",
       "onboard_time": 1685706814,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1215387,
-      "num": 1215387,
-      "word": "武汉迪士尼",
-      "onboard_time": 1685758169,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -139,20 +139,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 973409,
+      "num": 973409,
+      "word": "爸爸到上海出差把女儿冰箱塞满",
+      "onboard_time": 1685748560,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 924876,
       "num": 924876,
       "word": "太阳的后裔原型 李云龙原型歼灭的",
       "onboard_time": 1685718693,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 848658,
-      "num": 848658,
-      "word": "爸爸到上海出差把女儿冰箱塞满",
-      "onboard_time": 1685748560,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 777837,
@@ -243,6 +243,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 387361,
+      "num": 387361,
+      "word": "有效追妻vs无效追妻",
+      "onboard_time": 1685759249,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 387087,
       "num": 325856,
       "word": "吴建豪淘汰赵丽颖",
@@ -257,6 +265,14 @@
       "onboard_time": 1685720670,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370105,
+      "num": 370105,
+      "word": "杨紫穿旗袍了",
+      "onboard_time": 1685751208,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 365948,
@@ -331,20 +347,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326812,
+      "num": 288786,
+      "word": "你支持上四休三吗",
+      "onboard_time": 1685760750,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324315,
       "num": 324315,
       "word": "张杰演唱会上的五口之家",
       "onboard_time": 1685719953,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 321070,
-      "num": 321070,
-      "word": "杨紫穿旗袍了",
-      "onboard_time": 1685751208,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 314099,
@@ -369,14 +385,6 @@
       "onboard_time": 1685757630,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 299814,
-      "num": 299814,
-      "word": "有效追妻vs无效追妻",
-      "onboard_time": 1685759249,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 289872,
@@ -419,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268270,
+      "num": 268270,
+      "word": "斗罗大陆",
+      "onboard_time": 1685759308,
+      "rank": 34,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 261789,
       "num": 261789,
       "word": "又显着范丞丞了",
@@ -451,12 +467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236997,
-      "num": 236997,
-      "word": "斗罗大陆",
-      "onboard_time": 1685759308,
-      "rank": 34,
-      "category": "动漫,影视"
+      "raw_hot": 236097,
+      "num": 236097,
+      "word": "肖春生怎么还不被炸",
+      "onboard_time": 1685761469,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 234503,
@@ -483,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219000,
+      "num": 219000,
+      "word": "宁静真的好懂赵丽颖",
+      "onboard_time": 1685761049,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215845,
       "num": 215845,
       "word": "官方回应迪士尼乐园有望落户武汉",
@@ -505,6 +529,22 @@
       "onboard_time": 1685719652,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199030,
+      "num": 199030,
+      "word": "谢娜乘风三公造型",
+      "onboard_time": 1685760989,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 196698,
+      "num": 196698,
+      "word": "赵丽娜的身高",
+      "onboard_time": 1685761168,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 193713,
@@ -539,6 +579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 185973,
+      "num": 185973,
+      "word": "今日头条",
+      "onboard_time": 1685758827,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180679,
       "num": 180679,
       "word": "前羽球奥运冠军质疑李宗伟入选名人堂",
@@ -547,19 +595,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176893,
-      "num": 176893,
-      "word": "今日头条",
-      "onboard_time": 1685758827,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168112,
       "num": 168112,
       "word": "五月天重庆",
       "onboard_time": 1685723906,
       "rank": 26,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 166303,
+      "num": 166303,
+      "word": "陈楚生说感谢张远特别邀请",
+      "onboard_time": 1685761890,
+      "rank": 40,
       "category": "音乐"
     },
     {
@@ -587,12 +635,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156775,
+      "num": 156775,
+      "word": "阿信是TFBOYS端水大师",
+      "onboard_time": 1685762129,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 155092,
       "num": 155092,
       "word": "赵丽颖新中式玉兔盘发教程",
       "onboard_time": 1685755108,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 154892,
+      "num": 154892,
+      "word": "EXO回归中",
+      "onboard_time": 1685762068,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 154671,
@@ -617,14 +681,6 @@
       "onboard_time": 1685716713,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 149037,
-      "num": 149037,
-      "word": "你支持上四休三吗",
-      "onboard_time": 1685760750,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144687,
@@ -785,6 +841,14 @@
       "onboard_time": 1685712451,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91245,
+      "num": 110111,
+      "word": "北动停电时的萌二",
+      "onboard_time": 1685762129,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89508,
