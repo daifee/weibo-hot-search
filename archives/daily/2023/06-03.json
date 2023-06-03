@@ -1,6 +1,6 @@
 {
   "startTime": 1685722886907,
-  "endTime": 1685788412301,
+  "endTime": 1685790835146,
   "band_list": [
     {
       "raw_hot": 4395833,
@@ -219,6 +219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1132838,
+      "num": 1132838,
+      "word": "曲婉婷被拍卖房产以219.9万成交",
+      "onboard_time": 1685786129,
+      "rank": 17,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1028327,
       "num": 565880,
       "word": "盛一伦祝迪丽热巴生日快乐",
@@ -251,20 +259,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 976898,
+      "num": 950441,
+      "word": "赵露思是曾黎的人形挂件吧",
+      "onboard_time": 1685779887,
+      "rank": 21,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 975933,
       "num": 975933,
       "word": "爸爸到上海出差把女儿冰箱塞满",
       "onboard_time": 1685748560,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 950441,
-      "num": 950441,
-      "word": "赵露思是曾黎的人形挂件吧",
-      "onboard_time": 1685779887,
-      "rank": 21,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 938912,
@@ -299,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 838196,
+      "num": 1128797,
+      "word": "高三学生写永久请假条告别班主任",
+      "onboard_time": 1685781809,
+      "rank": 22,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 835405,
       "num": 835405,
       "word": "陈伟霆章若楠真的没在谈吗",
@@ -321,14 +337,6 @@
       "onboard_time": 1685769747,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 687461,
-      "num": 1128797,
-      "word": "高三学生写永久请假条告别班主任",
-      "onboard_time": 1685781809,
-      "rank": 22,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 679678,
@@ -377,14 +385,6 @@
       "onboard_time": 1685706691,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 606178,
-      "num": 416357,
-      "word": "曲婉婷被拍卖房产以219.9万成交",
-      "onboard_time": 1685786129,
-      "rank": 17,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 595876,
@@ -491,6 +491,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 442082,
+      "num": 351893,
+      "word": "迪丽热巴有几个好妹妹",
+      "onboard_time": 1685789548,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 440239,
       "num": 440239,
       "word": "佟大为送迪丽热巴的生日礼物",
@@ -544,6 +552,14 @@
       "word": "花花和花花同框",
       "onboard_time": 1685720670,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380023,
+      "num": 380023,
+      "word": "上四休三",
+      "onboard_time": 1685789606,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -643,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 330719,
+      "num": 330719,
+      "word": "张小狮",
+      "onboard_time": 1685786907,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 330080,
       "num": 330080,
       "word": "浙江多所小学美术本印有涉黄二维码",
@@ -692,7 +716,7 @@
     },
     {
       "raw_hot": 322744,
-      "num": 150449,
+      "num": 165341,
       "word": "媒体称要对大学师生恋零容忍",
       "onboard_time": 1685786427,
       "rank": 30,
@@ -763,14 +787,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 300030,
-      "num": 212120,
-      "word": "张小狮",
-      "onboard_time": 1685786907,
-      "rank": 32,
-      "category": "网红"
-    },
-    {
       "raw_hot": 299874,
       "num": 254266,
       "word": "迪丽热巴邻家少女",
@@ -801,6 +817,14 @@
       "onboard_time": 1685753188,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 286997,
+      "num": 286997,
+      "word": "什刹海男团都是撕漫男",
+      "onboard_time": 1685788226,
+      "rank": 29,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 285238,
@@ -884,7 +908,7 @@
     },
     {
       "raw_hot": 264408,
-      "num": 152289,
+      "num": 180733,
       "word": "黄景瑜吉林",
       "onboard_time": 1685786247,
       "rank": 28,
@@ -1171,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203111,
+      "num": 160823,
+      "word": "迪丽热巴回关宋昕冉",
+      "onboard_time": 1685788948,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202306,
       "num": 135933,
       "word": "蔡徐坤澳门演唱会今晚开唱",
@@ -1180,7 +1212,7 @@
     },
     {
       "raw_hot": 200341,
-      "num": 130133,
+      "num": 157578,
       "word": "Angelababy白鹿哭戏",
       "onboard_time": 1685787627,
       "rank": 37,
@@ -1204,7 +1236,7 @@
     },
     {
       "raw_hot": 198121,
-      "num": 149052,
+      "num": 152122,
       "word": "王一博接连两部新片成电影节闭幕片",
       "onboard_time": 1685785588,
       "rank": 37,
@@ -1233,6 +1265,14 @@
       "onboard_time": 1685756671,
       "rank": 32,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 192442,
+      "num": 155389,
+      "word": "马嘉祺获声生不息新人奖",
+      "onboard_time": 1685789666,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 192160,
@@ -1283,6 +1323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187966,
+      "num": 187966,
+      "word": "原汁原味",
+      "onboard_time": 1685789727,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187276,
       "num": 187276,
       "word": "中国女排vs荷兰女排",
@@ -1313,6 +1361,14 @@
       "onboard_time": 1685779588,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181303,
+      "num": 181303,
+      "word": "离职时HR把我的职位写高了",
+      "onboard_time": 1685790448,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 180679,
@@ -1347,6 +1403,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 168950,
+      "num": 168950,
+      "word": "RNG对战LNG",
+      "onboard_time": 1685785349,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168112,
       "num": 168112,
       "word": "五月天重庆",
@@ -1363,16 +1427,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 165285,
-      "num": 165285,
-      "word": "RNG对战LNG",
-      "onboard_time": 1685785349,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 164235,
-      "num": 116845,
+      "num": 140325,
       "word": "蔡徐坤白衬衫顶胯",
       "onboard_time": 1685788285,
       "rank": 43,
@@ -1451,12 +1507,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152299,
+      "num": 152299,
+      "word": "毕业生趁校长拨穗时来了个大拥抱",
+      "onboard_time": 1685785709,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152162,
       "num": 152162,
       "word": "金希澈王霏霏周觅银赫合照",
       "onboard_time": 1685750723,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151715,
+      "num": 151715,
+      "word": "月嫂提前离开雇主不舍偷偷抹泪",
+      "onboard_time": 1685790028,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151707,
@@ -1515,12 +1587,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140022,
-      "num": 147673,
-      "word": "毕业生趁校长拨穗时来了个大拥抱",
-      "onboard_time": 1685785709,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 142981,
+      "num": 142981,
+      "word": "成人身上有多少块骨头",
+      "onboard_time": 1685788226,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 139943,
@@ -1537,14 +1609,6 @@
       "onboard_time": 1685722170,
       "rank": 44,
       "category": "时尚,美妆"
-    },
-    {
-      "raw_hot": 133360,
-      "num": 133360,
-      "word": "什刹海男团都是撕漫男",
-      "onboard_time": 1685788226,
-      "rank": 29,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 133230,
@@ -1633,6 +1697,14 @@
       "onboard_time": 1685747480,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115269,
+      "num": 115269,
+      "word": "高考生这6样东西别发朋友圈",
+      "onboard_time": 1685788285,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 112645,
@@ -1731,14 +1803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 100049,
-      "num": 112396,
-      "word": "成人身上有多少块骨头",
-      "onboard_time": 1685788226,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 98646,
       "num": 98646,
       "word": "狗狗吞下9只袜子",
@@ -1777,14 +1841,6 @@
       "onboard_time": 1685712451,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 95801,
-      "num": 112383,
-      "word": "高考生这6样东西别发朋友圈",
-      "onboard_time": 1685788285,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 93830,
@@ -1827,6 +1883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88168,
+      "num": 99332,
+      "word": "陪着室友去医院车费却要AA",
+      "onboard_time": 1685790687,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 88081,
       "num": 147307,
       "word": "高三生毕业手绘老师口头禅卡通画",
@@ -1865,6 +1929,14 @@
       "onboard_time": 1685750305,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 76054,
+      "num": 99264,
+      "word": "神十五搜救空中分队已准备就位",
+      "onboard_time": 1685790805,
+      "rank": 49,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 71533,
@@ -2041,6 +2113,14 @@
       "onboard_time": 1685618548,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19810,
+      "num": 824485,
+      "word": "带着我的梦想上天宫",
+      "onboard_time": 1685779226,
+      "rank": 2,
+      "category": "科技"
     },
     {
       "raw_hot": 15323,
