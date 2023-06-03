@@ -1,6 +1,6 @@
 {
   "startTime": 1685809286870,
-  "endTime": 1685813599382,
+  "endTime": 1685816367233,
   "band_list": [
     {
       "raw_hot": 1613516,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109040,
+      "num": 109040,
+      "word": "五月天第二十场鸟巢",
+      "onboard_time": 1685815459,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 106107,
       "num": 106107,
       "word": "艾热威尔",
@@ -443,12 +451,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 81056,
+      "num": 81056,
+      "word": "郭碧婷的穿搭好接地气",
+      "onboard_time": 1685814257,
+      "rank": 22,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 73286,
       "num": 73286,
       "word": "白宇帆与藏族足球少年梦幻联动",
       "onboard_time": 1685811683,
       "rank": 48,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 58669,
+      "num": 53335,
+      "word": "刘敏涛岳云鹏演夫妻",
+      "onboard_time": 1685815995,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 53341,
+      "num": 69793,
+      "word": "闯祸之后把自己伪装成受害者",
+      "onboard_time": 1685812163,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 52752,
@@ -465,14 +497,6 @@
       "onboard_time": 1685813240,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46435,
-      "num": 69793,
-      "word": "闯祸之后把自己伪装成受害者",
-      "onboard_time": 1685812163,
-      "rank": 49,
-      "category": "情感"
     }
   ],
   "hotgov_list": [
@@ -484,6 +508,9 @@
     },
     {
       "word": "#新时代新的文化使命#"
+    },
+    {
+      "word": "#习近平谈文化传承发展#"
     }
   ]
 }

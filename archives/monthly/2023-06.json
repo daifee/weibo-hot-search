@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685813599382,
+  "endTime": 1685816367233,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -6715,6 +6715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109040,
+      "num": 109040,
+      "word": "五月天第二十场鸟巢",
+      "onboard_time": 1685815459,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 108663,
       "num": 108663,
       "word": "如果广东停电一天",
@@ -7131,6 +7139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81056,
+      "num": 81056,
+      "word": "郭碧婷的穿搭好接地气",
+      "onboard_time": 1685814257,
+      "rank": 22,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 80575,
       "num": 1382662,
       "word": "首艘国产大型邮轮先睹为快",
@@ -7451,6 +7467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58669,
+      "num": 53335,
+      "word": "刘敏涛岳云鹏演夫妻",
+      "onboard_time": 1685815995,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 58565,
       "num": 1440332,
       "word": "三夏已至农事正忙",
@@ -7505,6 +7529,14 @@
       "onboard_time": 1685754446,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53341,
+      "num": 69793,
+      "word": "闯祸之后把自己伪装成受害者",
+      "onboard_time": 1685812163,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 53122,
@@ -7585,14 +7617,6 @@
       "onboard_time": 1685566092,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 46435,
-      "num": 69793,
-      "word": "闯祸之后把自己伪装成受害者",
-      "onboard_time": 1685812163,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 46429,
