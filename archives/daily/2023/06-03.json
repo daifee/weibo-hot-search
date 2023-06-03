@@ -1,6 +1,6 @@
 {
   "startTime": 1685722886907,
-  "endTime": 1685773238706,
+  "endTime": 1685774006353,
   "band_list": [
     {
       "raw_hot": 4395833,
@@ -16,6 +16,14 @@
       "word": "物业证实校内被撞身亡小学生母亲坠楼",
       "onboard_time": 1685717903,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2799470,
+      "num": 1051418,
+      "word": "家属正在安排被撞小学生母亲后事",
+      "onboard_time": 1685768309,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -57,14 +65,6 @@
       "onboard_time": 1685768729,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1770676,
-      "num": 1008981,
-      "word": "家属正在安排被撞小学生母亲后事",
-      "onboard_time": 1685768309,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1745766,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1133150,
+      "num": 1133150,
+      "word": "朱珠问吴倩看过人生大事吗",
+      "onboard_time": 1685768070,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1013892,
       "num": 1013892,
       "word": "今晚的观众好忙",
@@ -193,14 +201,6 @@
       "onboard_time": 1685748560,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 961516,
-      "num": 961516,
-      "word": "朱珠问吴倩看过人生大事吗",
-      "onboard_time": 1685768070,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 924876,
@@ -251,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 631626,
+      "num": 631626,
+      "word": "EXO是真的勇",
+      "onboard_time": 1685768250,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 617382,
       "num": 617382,
       "word": "张雪峰公司将实行上四休三",
@@ -267,12 +275,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 571087,
-      "num": 571087,
-      "word": "EXO是真的勇",
-      "onboard_time": 1685768250,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 563940,
+      "num": 563940,
+      "word": "印度火车相撞已致288人死亡",
+      "onboard_time": 1685769747,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 522527,
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 470177,
-      "num": 289297,
+      "num": 300794,
       "word": "吴磊广州",
       "onboard_time": 1685770048,
       "rank": 11,
@@ -337,6 +345,14 @@
       "onboard_time": 1685720489,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 423454,
+      "num": 295593,
+      "word": "4篇论文现同一划痕钢尺遭撤稿",
+      "onboard_time": 1685769449,
+      "rank": 15,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 404876,
@@ -403,12 +419,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360019,
+      "num": 274169,
+      "word": "一辆SUV盲区里藏着75名儿童",
+      "onboard_time": 1685771608,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359629,
       "num": 359629,
       "word": "椰树直播间",
       "onboard_time": 1685765669,
       "rank": 18,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 348960,
+      "num": 284522,
+      "word": "奥运冠军王懿律宣布退出国家队",
+      "onboard_time": 1685770407,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 345085,
@@ -443,28 +475,12 @@
       "category": "综艺,游戏"
     },
     {
-      "raw_hot": 339917,
-      "num": 286461,
-      "word": "印度火车相撞已致288人死亡",
-      "onboard_time": 1685769747,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 337841,
       "num": 337841,
       "word": "孕妇泰国坠崖案丈夫被判33年4个月",
       "onboard_time": 1685754269,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 334821,
-      "num": 283550,
-      "word": "4篇论文现同一划痕钢尺遭撤稿",
-      "onboard_time": 1685769449,
-      "rank": 15,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 333216,
@@ -491,28 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 325624,
-      "num": 281408,
-      "word": "奥运冠军王懿律宣布退出国家队",
-      "onboard_time": 1685770407,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 324315,
       "num": 324315,
       "word": "张杰演唱会上的五口之家",
       "onboard_time": 1685719953,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 322219,
-      "num": 274169,
-      "word": "一辆SUV盲区里藏着75名儿童",
-      "onboard_time": 1685771608,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 314099,
@@ -563,6 +563,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 297193,
+      "num": 182190,
+      "word": "肖战 CHALI",
+      "onboard_time": 1685773107,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 295262,
       "num": 288280,
       "word": "肖春生怎么还不被炸",
@@ -601,6 +609,14 @@
       "onboard_time": 1685768186,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276345,
+      "num": 276345,
+      "word": "刘雅瑟多穿裙子吧",
+      "onboard_time": 1685773468,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 269129,
@@ -675,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237122,
+      "num": 237122,
+      "word": "精修泛滥的内娱审美体系",
+      "onboard_time": 1685770287,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 234785,
       "num": 216645,
       "word": "张嘉倪羽毛裙好轻灵",
@@ -689,14 +713,6 @@
       "onboard_time": 1685720849,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 233779,
-      "num": 233779,
-      "word": "精修泛滥的内娱审美体系",
-      "onboard_time": 1685770287,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 231656,
@@ -811,14 +827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 203304,
-      "num": 182190,
-      "word": "肖战 CHALI",
-      "onboard_time": 1685773107,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199760,
       "num": 170739,
       "word": "王嘉尔澳门演唱会官宣",
@@ -931,6 +939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 158151,
+      "num": 158151,
+      "word": "高迪找狗",
+      "onboard_time": 1685770827,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 157339,
       "num": 157339,
       "word": "felix蓝发",
@@ -955,12 +971,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 152578,
-      "num": 108919,
-      "word": "高迪找狗",
-      "onboard_time": 1685770827,
-      "rank": 41,
-      "category": "网红"
+      "raw_hot": 153951,
+      "num": 161451,
+      "word": "花花和大家打招呼",
+      "onboard_time": 1685771246,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152162,
@@ -988,7 +1004,7 @@
     },
     {
       "raw_hot": 147668,
-      "num": 108675,
+      "num": 111378,
       "word": "王一博东京出发",
       "onboard_time": 1685769508,
       "rank": 42,
@@ -1033,14 +1049,6 @@
       "onboard_time": 1685722170,
       "rank": 44,
       "category": "时尚,美妆"
-    },
-    {
-      "raw_hot": 137077,
-      "num": 161451,
-      "word": "花花和大家打招呼",
-      "onboard_time": 1685771246,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133230,
@@ -1131,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105078,
+      "num": 108005,
+      "word": "公司负责人回应上四休三争议",
+      "onboard_time": 1685771188,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104740,
       "num": 1242505,
       "word": "祝福2023高考生",
@@ -1185,14 +1201,6 @@
       "onboard_time": 1685760869,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 98516,
-      "num": 108005,
-      "word": "公司负责人回应上四休三争议",
-      "onboard_time": 1685771188,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97347,
@@ -1257,6 +1265,14 @@
       "onboard_time": 1685755947,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80370,
+      "num": 104776,
+      "word": "不用哭啦叔叔也坐错过车",
+      "onboard_time": 1685773887,
+      "rank": 47,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 76779,
@@ -1347,6 +1363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 32165,
+      "num": 286078,
+      "word": "小麦收割机侧翻10辆越野车免费救援",
+      "onboard_time": 1685772087,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30926,
       "num": 48241,
       "word": "突降大雨店主暖心邀请老人进屋避雨",
@@ -1385,14 +1409,6 @@
       "onboard_time": 1685730796,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 22122,
-      "num": 285091,
-      "word": "小麦收割机侧翻10辆越野车免费救援",
-      "onboard_time": 1685772087,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19836,

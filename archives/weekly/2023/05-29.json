@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685773238706,
+  "endTime": 1685774006353,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -113,6 +113,14 @@
       "onboard_time": 1685430087,
       "rank": 25,
       "category": "社会议题,情感"
+    },
+    {
+      "raw_hot": 2799470,
+      "num": 1051418,
+      "word": "家属正在安排被撞小学生母亲后事",
+      "onboard_time": 1685768309,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2758583,
@@ -488,14 +496,6 @@
       "word": "柳州",
       "onboard_time": 1685538987,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1770676,
-      "num": 1008981,
-      "word": "家属正在安排被撞小学生母亲后事",
-      "onboard_time": 1685768309,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1379,6 +1379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1133150,
+      "num": 1133150,
+      "word": "朱珠问吴倩看过人生大事吗",
+      "onboard_time": 1685768070,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1115603,
       "num": 1115603,
       "word": "大熊猫园润遭男子泼水",
@@ -1681,14 +1689,6 @@
       "onboard_time": 1685596649,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 961516,
-      "num": 961516,
-      "word": "朱珠问吴倩看过人生大事吗",
-      "onboard_time": 1685768070,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 961186,
@@ -2451,6 +2451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 631626,
+      "num": 631626,
+      "word": "EXO是真的勇",
+      "onboard_time": 1685768250,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 631538,
       "num": 631538,
       "word": "亚运会名单",
@@ -2787,14 +2795,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 571087,
-      "num": 571087,
-      "word": "EXO是真的勇",
-      "onboard_time": 1685768250,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 569855,
       "num": 569855,
       "word": "肖战说谢谢淇哥",
@@ -2825,6 +2825,14 @@
       "onboard_time": 1685667629,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 563940,
+      "num": 563940,
+      "word": "印度火车相撞已致288人死亡",
+      "onboard_time": 1685769747,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 562261,
@@ -3484,7 +3492,7 @@
     },
     {
       "raw_hot": 470177,
-      "num": 289297,
+      "num": 300794,
       "word": "吴磊广州",
       "onboard_time": 1685770048,
       "rank": 11,
@@ -3881,6 +3889,14 @@
       "onboard_time": 1685493390,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 423454,
+      "num": 295593,
+      "word": "4篇论文现同一划痕钢尺遭撤稿",
+      "onboard_time": 1685769449,
+      "rank": 15,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 423449,
@@ -4667,6 +4683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 360019,
+      "num": 274169,
+      "word": "一辆SUV盲区里藏着75名儿童",
+      "onboard_time": 1685771608,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359629,
       "num": 359629,
       "word": "椰树直播间",
@@ -4809,6 +4833,14 @@
       "onboard_time": 1685323888,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 348960,
+      "num": 284522,
+      "word": "奥运冠军王懿律宣布退出国家队",
+      "onboard_time": 1685770407,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 348932,
@@ -4955,14 +4987,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 339917,
-      "num": 286461,
-      "word": "印度火车相撞已致288人死亡",
-      "onboard_time": 1685769747,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 339916,
       "num": 339916,
       "word": "狗狗耳朵上的小夹层是做啥用的",
@@ -5049,14 +5073,6 @@
       "onboard_time": 1685716713,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 334821,
-      "num": 283550,
-      "word": "4篇论文现同一划痕钢尺遭撤稿",
-      "onboard_time": 1685769449,
-      "rank": 15,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 334300,
@@ -5243,14 +5259,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 325624,
-      "num": 281408,
-      "word": "奥运冠军王懿律宣布退出国家队",
-      "onboard_time": 1685770407,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 325589,
       "num": 325589,
       "word": "王一博出发日本",
@@ -5344,14 +5352,6 @@
       "word": "外卖骑手取餐闻到煤气味机智救下2人",
       "onboard_time": 1685526388,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 322219,
-      "num": 274169,
-      "word": "一辆SUV盲区里藏着75名儿童",
-      "onboard_time": 1685771608,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -5857,6 +5857,14 @@
       "onboard_time": 1685365289,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 297193,
+      "num": 182190,
+      "word": "肖战 CHALI",
+      "onboard_time": 1685773107,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 297060,
@@ -6409,6 +6417,14 @@
       "onboard_time": 1685427808,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 276345,
+      "num": 276345,
+      "word": "刘雅瑟多穿裙子吧",
+      "onboard_time": 1685773468,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 275718,
@@ -7611,6 +7627,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 237122,
+      "num": 237122,
+      "word": "精修泛滥的内娱审美体系",
+      "onboard_time": 1685770287,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 236820,
       "num": 206792,
       "word": "G社拍的85花生图",
@@ -7705,14 +7729,6 @@
       "onboard_time": 1685720849,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 233779,
-      "num": 233779,
-      "word": "精修泛滥的内娱审美体系",
-      "onboard_time": 1685770287,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 233746,
@@ -8921,14 +8937,6 @@
       "onboard_time": 1685429969,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 203304,
-      "num": 182190,
-      "word": "肖战 CHALI",
-      "onboard_time": 1685773107,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 203215,
@@ -10995,6 +11003,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 158151,
+      "num": 158151,
+      "word": "高迪找狗",
+      "onboard_time": 1685770827,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 158029,
       "num": 158029,
       "word": "民警被一排办公摆件盯上了",
@@ -11131,6 +11147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153951,
+      "num": 161451,
+      "word": "花花和大家打招呼",
+      "onboard_time": 1685771246,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153637,
       "num": 153637,
       "word": "狗狗突然晕倒 路人人工呼吸抢救",
@@ -11153,14 +11177,6 @@
       "onboard_time": 1685580809,
       "rank": 39,
       "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 152578,
-      "num": 108919,
-      "word": "高迪找狗",
-      "onboard_time": 1685770827,
-      "rank": 41,
-      "category": "网红"
     },
     {
       "raw_hot": 152576,
@@ -11380,7 +11396,7 @@
     },
     {
       "raw_hot": 147668,
-      "num": 108675,
+      "num": 111378,
       "word": "王一博东京出发",
       "onboard_time": 1685769508,
       "rank": 42,
@@ -11625,14 +11641,6 @@
       "onboard_time": 1685357368,
       "rank": 42,
       "category": "教育,国内要闻"
-    },
-    {
-      "raw_hot": 137077,
-      "num": 161451,
-      "word": "花花和大家打招呼",
-      "onboard_time": 1685771246,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137066,
@@ -12667,6 +12675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 105078,
+      "num": 108005,
+      "word": "公司负责人回应上四休三争议",
+      "onboard_time": 1685771188,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104856,
       "num": 104856,
       "word": "成长就是越来越松弛的过程",
@@ -12809,14 +12825,6 @@
       "onboard_time": 1685760869,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 98516,
-      "num": 108005,
-      "word": "公司负责人回应上四休三争议",
-      "onboard_time": 1685771188,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98233,
@@ -13153,6 +13161,14 @@
       "onboard_time": 1685520089,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80370,
+      "num": 104776,
+      "word": "不用哭啦叔叔也坐错过车",
+      "onboard_time": 1685773887,
+      "rank": 47,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 79632,
@@ -13867,6 +13883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32165,
+      "num": 286078,
+      "word": "小麦收割机侧翻10辆越野车免费救援",
+      "onboard_time": 1685772087,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31905,
       "num": 36535,
       "word": "周深璀璨冒险人舞美寓意",
@@ -14025,14 +14049,6 @@
       "onboard_time": 1685465242,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 22122,
-      "num": 285091,
-      "word": "小麦收割机侧翻10辆越野车免费救援",
-      "onboard_time": 1685772087,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21272,
