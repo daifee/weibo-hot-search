@@ -1,0 +1,410 @@
+{
+  "runTime": 1685830486965,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 213112,
+        "num": 213112,
+        "word": "梅西自宣离队",
+        "onboard_time": 1685807790,
+        "rank": 0,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 185138,
+        "num": 185138,
+        "word": "女孩父母回应网传黄渤放弃资助",
+        "onboard_time": 1685793568,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 31670,
+        "num": 147823,
+        "word": "神十五航天员回地球",
+        "onboard_time": 1685802812,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 282783,
+        "num": 144609,
+        "word": "成都七中一学生被开除",
+        "onboard_time": 1685804552,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239757,
+        "num": 135683,
+        "word": "原配抓小三路人帮腔大骂男方不要脸",
+        "onboard_time": 1685801973,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114414,
+        "num": 114414,
+        "word": "黄渤回应贫困女孩争议",
+        "onboard_time": 1685793386,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 96500,
+        "num": 96500,
+        "word": "东部战区就美加军舰过航台湾海峡发表谈话",
+        "onboard_time": 1685809408,
+        "rank": 6,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 92162,
+        "num": 92162,
+        "word": "一人说一个奇怪的生理反应",
+        "onboard_time": 1685804011,
+        "rank": 7,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 65196,
+        "num": 65196,
+        "word": "小伙1.2万元拍下单颗荔枝送女友",
+        "onboard_time": 1685795186,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60882,
+        "num": 60882,
+        "word": "被蚊子咬到正确的处理方式",
+        "onboard_time": 1685809287,
+        "rank": 9,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 126155,
+        "num": 58577,
+        "word": "香港一精神病人在商场当众捅死2人",
+        "onboard_time": 1685800528,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71981,
+        "num": 57665,
+        "word": "女孩家长称黄渤赠送手表未送给弟弟",
+        "onboard_time": 1685803471,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 55172,
+        "num": 55172,
+        "word": "陈伟霆亲到耳朵红了",
+        "onboard_time": 1685792367,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55020,
+        "num": 55020,
+        "word": "杭州部分小区房价跌回2017年",
+        "onboard_time": 1685797169,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 53390,
+        "num": 53390,
+        "word": "14岁女生心脏骤停教室上演生死救援",
+        "onboard_time": 1685804133,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 53231,
+        "num": 53231,
+        "word": "张小狮 大树",
+        "onboard_time": 1685806172,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 51641,
+        "num": 51641,
+        "word": "2女生看五月天假装干杯被邻座塞饮料",
+        "onboard_time": 1685802752,
+        "rank": 16,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 49551,
+        "num": 49551,
+        "word": "不要在APP上给我推荐可能认识的人了",
+        "onboard_time": 1685802211,
+        "rank": 17,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 46172,
+        "num": 46172,
+        "word": "吴倩说女儿和自己长得一模一样",
+        "onboard_time": 1685779887,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45196,
+        "num": 45196,
+        "word": "魏如萱马嘉祺 台北文学",
+        "onboard_time": 1685802453,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62081,
+        "num": 44442,
+        "word": "三分野算爆了吗",
+        "onboard_time": 1685800650,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43163,
+        "num": 43163,
+        "word": "黄奕45岁穿校服状态",
+        "onboard_time": 1685804552,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 37887,
+        "num": 37887,
+        "word": "瘦子真帅",
+        "onboard_time": 1685796210,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37351,
+        "num": 37351,
+        "word": "苏某读硕期间知网收录5篇论文",
+        "onboard_time": 1685794707,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 36414,
+        "num": 36414,
+        "word": "Meiko 暂停",
+        "onboard_time": 1685801067,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 35123,
+        "num": 35123,
+        "word": "张韶涵赵露思撞衫",
+        "onboard_time": 1685792186,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33145,
+        "num": 33145,
+        "word": "郭碧婷的穿搭好接地气",
+        "onboard_time": 1685814257,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 32076,
+        "num": 32076,
+        "word": "薛之谦把伴舞的鞋子扔了",
+        "onboard_time": 1685806651,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 31414,
+        "num": 31414,
+        "word": "杭州一碗面动辄三四十",
+        "onboard_time": 1685807730,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30627,
+        "num": 30627,
+        "word": "总裁带员工去蔡徐坤演唱会团建",
+        "onboard_time": 1685803712,
+        "rank": 29,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 37008,
+        "num": 30348,
+        "word": "黄渤看到岳云鹏新发型的反应",
+        "onboard_time": 1685816835,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35347,
+        "num": 30151,
+        "word": "论文指导教师名字写成了自己的名字",
+        "onboard_time": 1685809346,
+        "rank": 31,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 29828,
+        "num": 29828,
+        "word": "刘奕君一个大逼斗黄磊记一辈子",
+        "onboard_time": 1685812941,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29369,
+        "num": 29369,
+        "word": "张艺兴 买票请认准官方票务平台",
+        "onboard_time": 1685803953,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 28953,
+        "num": 28953,
+        "word": "迪丽热巴说谢谢幂姐",
+        "onboard_time": 1685801189,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26753,
+        "num": 26753,
+        "word": "流浪地球2将进行联合国特别放映",
+        "onboard_time": 1685806949,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27573,
+        "num": 26474,
+        "word": "宋昕冉追星迪丽热巴成功",
+        "onboard_time": 1685786308,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26178,
+        "num": 26178,
+        "word": "大树",
+        "onboard_time": 1685808689,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 25960,
+        "num": 25960,
+        "word": "五月天演唱会",
+        "onboard_time": 1685792367,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 25398,
+        "num": 25398,
+        "word": "蔡徐坤澳门演唱会",
+        "onboard_time": 1685794226,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 24811,
+        "num": 24811,
+        "word": "曼城vs曼联",
+        "onboard_time": 1685805210,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23588,
+        "num": 23588,
+        "word": "闯祸之后把自己伪装成受害者",
+        "onboard_time": 1685812163,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23269,
+        "num": 23269,
+        "word": "曲婉婷被拍卖房产以219.9万成交",
+        "onboard_time": 1685786129,
+        "rank": 42,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 23075,
+        "num": 23075,
+        "word": "文俊辉要考清华",
+        "onboard_time": 1685801489,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22355,
+        "num": 23070,
+        "word": "五月天第二十场鸟巢",
+        "onboard_time": 1685815459,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21945,
+        "num": 23066,
+        "word": "高叶 常州",
+        "onboard_time": 1685822951,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20771,
+        "num": 23054,
+        "word": "华晨宇麦粒肿",
+        "onboard_time": 1685798250,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18565,
+        "num": 23047,
+        "word": "张小狮",
+        "onboard_time": 1685786907,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 17579,
+        "num": 23030,
+        "word": "TES战胜EDG",
+        "onboard_time": 1685802691,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17331,
+        "num": 23024,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1685805271,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平谈文化传承发展#"
+    }
+  }
+}
