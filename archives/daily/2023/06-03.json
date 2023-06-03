@@ -1,6 +1,6 @@
 {
   "startTime": 1685722886907,
-  "endTime": 1685784821501,
+  "endTime": 1685787406794,
   "band_list": [
     {
       "raw_hot": 4395833,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1680275,
+      "num": 1680275,
+      "word": "吴倩说女儿和自己长得一模一样",
+      "onboard_time": 1685779887,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1677029,
       "num": 667263,
       "word": "知情人辟谣被撞小学生父亲坠楼",
@@ -147,14 +155,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1236908,
-      "num": 1236908,
-      "word": "吴倩说女儿和自己长得一模一样",
-      "onboard_time": 1685779887,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1234336,
       "num": 324522,
       "word": "3未成年男性酒店轮流猥亵2少女",
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 1028327,
-      "num": 367926,
+      "num": 565880,
       "word": "盛一伦祝迪丽热巴生日快乐",
       "onboard_time": 1685780968,
       "rank": 26,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 1003411,
-      "num": 335560,
+      "num": 424554,
       "word": "杨紫长发及腰了",
       "onboard_time": 1685779288,
       "rank": 11,
@@ -275,11 +275,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 871543,
+      "num": 871543,
+      "word": "赵露思是曾黎的人形挂件吧",
+      "onboard_time": 1685779887,
+      "rank": 21,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 846686,
       "num": 846686,
       "word": "庾澄庆频繁在线",
       "onboard_time": 1685777127,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 845387,
+      "num": 582689,
+      "word": "宋昕冉追星迪丽热巴成功",
+      "onboard_time": 1685786308,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -289,14 +305,6 @@
       "onboard_time": 1685777245,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 819917,
-      "num": 819917,
-      "word": "赵露思是曾黎的人形挂件吧",
-      "onboard_time": 1685779887,
-      "rank": 21,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 777837,
@@ -313,6 +321,14 @@
       "onboard_time": 1685769747,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 687461,
+      "num": 1011721,
+      "word": "高三学生写永久请假条告别班主任",
+      "onboard_time": 1685781809,
+      "rank": 22,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 679678,
@@ -371,8 +387,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 566137,
-      "num": 566137,
+      "raw_hot": 594067,
+      "num": 594067,
       "word": "山西一医院因夸大病情15人被捕",
       "onboard_time": 1685783727,
       "rank": 7,
@@ -449,6 +465,14 @@
       "onboard_time": 1685783129,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 456081,
+      "num": 456081,
+      "word": "朱一龙杨蓉友情",
+      "onboard_time": 1685783487,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 443920,
@@ -699,14 +723,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 310038,
-      "num": 177052,
-      "word": "朱一龙杨蓉友情",
-      "onboard_time": 1685783487,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 307674,
       "num": 307674,
       "word": "中国女排世联赛三连胜",
@@ -779,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280476,
+      "num": 280476,
+      "word": "曲婉婷被拍卖房产以219.9万成交",
+      "onboard_time": 1685786129,
+      "rank": 17,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 275421,
       "num": 275421,
       "word": "花花和大家打招呼",
@@ -801,6 +825,14 @@
       "onboard_time": 1685755350,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 269091,
+      "num": 218498,
+      "word": "刘敏涛王一博演母子",
+      "onboard_time": 1685784208,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 268546,
@@ -827,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262125,
+      "num": 161511,
+      "word": "蔡徐坤演唱会",
+      "onboard_time": 1685786789,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 261789,
       "num": 261789,
       "word": "又显着范丞丞了",
@@ -851,12 +891,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252536,
+      "num": 152289,
+      "word": "黄景瑜吉林",
+      "onboard_time": 1685786247,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 251954,
       "num": 251954,
       "word": "钱璐璐",
       "onboard_time": 1685721869,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 250070,
+      "num": 150449,
+      "word": "媒体称要对大学师生恋零容忍",
+      "onboard_time": 1685786427,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 246979,
@@ -889,6 +945,14 @@
       "onboard_time": 1685718693,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237876,
+      "num": 150001,
+      "word": "张小狮",
+      "onboard_time": 1685786907,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 237122,
@@ -971,12 +1035,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222938,
-      "num": 222938,
-      "word": "高三学生写永久请假条告别班主任",
-      "onboard_time": 1685781809,
-      "rank": 22,
-      "category": "教育,社会新闻"
+      "raw_hot": 225380,
+      "num": 149463,
+      "word": "金泰妍演唱会",
+      "onboard_time": 1685786368,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 219676,
@@ -1036,7 +1100,7 @@
     },
     {
       "raw_hot": 214326,
-      "num": 214326,
+      "num": 815408,
       "word": "女孩不舍得父母买钢琴进门瞬间喜极而泣",
       "onboard_time": 1685769029,
       "rank": 36,
@@ -1099,6 +1163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 200269,
+      "num": 200269,
+      "word": "你们猜这衣服多久没收了",
+      "onboard_time": 1685785284,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199760,
       "num": 170739,
       "word": "王嘉尔澳门演唱会官宣",
@@ -1107,11 +1179,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 198287,
-      "num": 175406,
-      "word": "刘敏涛王一博演母子",
-      "onboard_time": 1685784208,
-      "rank": 33,
+      "raw_hot": 198121,
+      "num": 149052,
+      "word": "王一博接连两部新片成电影节闭幕片",
+      "onboard_time": 1685785588,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -1121,6 +1193,14 @@
       "onboard_time": 1685762668,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195825,
+      "num": 148834,
+      "word": "古力娜扎南京",
+      "onboard_time": 1685785349,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 195536,
@@ -1251,6 +1331,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 172601,
+      "num": 148174,
+      "word": "声生不息",
+      "onboard_time": 1685787327,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168112,
       "num": 168112,
       "word": "五月天重庆",
@@ -1265,6 +1353,14 @@
       "onboard_time": 1685769150,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 165285,
+      "num": 165285,
+      "word": "RNG对战LNG",
+      "onboard_time": 1685785349,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 160886,
@@ -1451,6 +1547,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 122573,
+      "num": 176064,
+      "word": "双向奔赴才有意义",
+      "onboard_time": 1685783065,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122544,
       "num": 122544,
       "word": "张杰唱剑心爷青回",
@@ -1465,6 +1569,14 @@
       "onboard_time": 1685752286,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117205,
+      "num": 148651,
+      "word": "当妈后才明白的事",
+      "onboard_time": 1685787086,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 116926,
@@ -1489,14 +1601,6 @@
       "onboard_time": 1685747480,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115152,
-      "num": 176064,
-      "word": "双向奔赴才有意义",
-      "onboard_time": 1685783065,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 112645,
@@ -1569,6 +1673,14 @@
       "onboard_time": 1685715934,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103973,
+      "num": 147673,
+      "word": "毕业生趁校长拨穗时来了个大拥抱",
+      "onboard_time": 1685785709,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103639,
@@ -1675,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88081,
+      "num": 147307,
+      "word": "高三生毕业手绘老师口头禅卡通画",
+      "onboard_time": 1685786968,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 85042,
       "num": 142125,
       "word": "你有劝过别人喝酒吗",
@@ -1705,6 +1825,14 @@
       "onboard_time": 1685750305,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 71533,
+      "num": 146976,
+      "word": "四川木里山火被扑灭",
+      "onboard_time": 1685786008,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 68847,
