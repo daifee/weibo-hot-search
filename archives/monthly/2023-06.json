@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685795478104,
+  "endTime": 1685796454827,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -131,20 +131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1998094,
+      "num": 1998094,
+      "word": "黄渤回应贫困女孩争议",
+      "onboard_time": 1685793386,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1990762,
       "num": 510454,
       "word": "Angelababy是靠什么长红多年的",
       "onboard_time": 1685588486,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1989445,
-      "num": 1989445,
-      "word": "黄渤回应贫困女孩争议",
-      "onboard_time": 1685793386,
-      "rank": 1,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1938833,
@@ -321,6 +321,14 @@
       "onboard_time": 1685705015,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1456021,
+      "num": 437004,
+      "word": "生日快乐啊小朋友",
+      "onboard_time": 1685792546,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 1437497,
@@ -699,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1060607,
+      "num": 1060607,
+      "word": "离职时HR把我的职位写高了",
+      "onboard_time": 1685790448,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1050365,
       "num": 1050365,
       "word": "黄晓明救了我的手机",
@@ -777,14 +793,6 @@
       "onboard_time": 1685748560,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 974541,
-      "num": 437004,
-      "word": "生日快乐啊小朋友",
-      "onboard_time": 1685792546,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 963621,
@@ -1659,6 +1667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 464053,
+      "num": 464053,
+      "word": "陈伟霆亲到耳朵红了",
+      "onboard_time": 1685792367,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 463802,
       "num": 463802,
       "word": "难听",
@@ -1713,14 +1729,6 @@
       "onboard_time": 1685672968,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 453597,
-      "num": 453597,
-      "word": "离职时HR把我的职位写高了",
-      "onboard_time": 1685790448,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 452787,
@@ -2171,14 +2179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 364096,
-      "num": 330001,
-      "word": "陈伟霆亲到耳朵红了",
-      "onboard_time": 1685792367,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 363434,
       "num": 363434,
       "word": "就喜欢纯爱",
@@ -2627,6 +2627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 312702,
+      "num": 312702,
+      "word": "陪着室友去医院车费却要AA",
+      "onboard_time": 1685790687,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 311981,
       "num": 280800,
       "word": "五月天嘉宾 华晨宇",
@@ -2827,6 +2835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 296415,
+      "num": 296415,
+      "word": "小伙1.2万元拍下单颗荔枝送女友",
+      "onboard_time": 1685795186,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295262,
       "num": 288280,
       "word": "肖春生怎么还不被炸",
@@ -2849,14 +2865,6 @@
       "onboard_time": 1685683951,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 290711,
-      "num": 290711,
-      "word": "陪着室友去医院车费却要AA",
-      "onboard_time": 1685790687,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 289939,
@@ -3105,6 +3113,14 @@
       "onboard_time": 1685780427,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 273447,
+      "num": 273447,
+      "word": "苏某读硕期间知网收录5篇论文",
+      "onboard_time": 1685794707,
+      "rank": 34,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 273283,
@@ -3465,6 +3481,14 @@
       "onboard_time": 1685613148,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 248415,
+      "num": 248415,
+      "word": "叶天瑜",
+      "onboard_time": 1685795487,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247972,
@@ -3947,6 +3971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218409,
+      "num": 218409,
+      "word": "瘦子真帅",
+      "onboard_time": 1685796210,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218136,
       "num": 218136,
       "word": "EXO回归中",
@@ -4299,8 +4331,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201405,
+      "num": 187817,
+      "word": "法老想cos谢可寅",
+      "onboard_time": 1685795547,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200341,
-      "num": 157578,
+      "num": 176426,
       "word": "Angelababy白鹿哭戏",
       "onboard_time": 1685787627,
       "rank": 37,
@@ -4532,7 +4572,7 @@
     },
     {
       "raw_hot": 191151,
-      "num": 161329,
+      "num": 186150,
       "word": "华晨宇时隔五年再回鸟巢",
       "onboard_time": 1685785166,
       "rank": 30,
@@ -4796,7 +4836,7 @@
     },
     {
       "raw_hot": 182557,
-      "num": 160544,
+      "num": 172452,
       "word": "张馨予从小到大颜值变化",
       "onboard_time": 1685794587,
       "rank": 32,
@@ -4915,6 +4955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 176979,
+      "num": 176979,
+      "word": "椰树风",
+      "onboard_time": 1685796388,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 176431,
       "num": 176431,
       "word": "水哥变帅的原因找到了",
@@ -5019,6 +5067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169777,
+      "num": 133794,
+      "word": "照亮你能播出来不容易啊",
+      "onboard_time": 1685794949,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169464,
       "num": 169464,
       "word": "肖战粉丝花式宣传梦中的那片海",
@@ -5083,14 +5139,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 166448,
-      "num": 118871,
-      "word": "照亮你能播出来不容易啊",
-      "onboard_time": 1685794949,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 166218,
       "num": 166218,
       "word": "总有人在替这个世界缝缝补补",
@@ -5137,6 +5185,14 @@
       "onboard_time": 1685684252,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164552,
+      "num": 130415,
+      "word": "那英队团魂",
+      "onboard_time": 1685796328,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 164496,
@@ -5220,7 +5276,7 @@
     },
     {
       "raw_hot": 161090,
-      "num": 117690,
+      "num": 126297,
       "word": "吴磊用的什么防晒",
       "onboard_time": 1685792186,
       "rank": 42,
@@ -5265,14 +5321,6 @@
       "onboard_time": 1685705915,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 159655,
-      "num": 159655,
-      "word": "苏某读硕期间知网收录5篇论文",
-      "onboard_time": 1685794707,
-      "rank": 34,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 159285,
@@ -5939,14 +5987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122746,
-      "num": 122746,
-      "word": "小伙1.2万元拍下单颗荔枝送女友",
-      "onboard_time": 1685795186,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122702,
       "num": 122702,
       "word": "感情里的假复合",
@@ -6563,6 +6603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 85205,
+      "num": 95988,
+      "word": "中超",
+      "onboard_time": 1685796028,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85042,
       "num": 142125,
       "word": "你有劝过别人喝酒吗",
@@ -6892,7 +6940,7 @@
     },
     {
       "raw_hot": 58565,
-      "num": 1294508,
+      "num": 1436068,
       "word": "三夏已至农事正忙",
       "onboard_time": 1685779707,
       "rank": 2,
