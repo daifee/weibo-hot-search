@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685799214524,
+  "endTime": 1685801625581,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -771,6 +771,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 1486812,
+      "num": 1486812,
+      "word": "离职时HR把我的职位写高了",
+      "onboard_time": 1685790448,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1478592,
       "num": 1478592,
       "word": "杨紫摄影师出来聊聊",
@@ -873,6 +881,14 @@
       "onboard_time": 1685706691,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1411635,
+      "num": 1411635,
+      "word": "瘦子真帅",
+      "onboard_time": 1685796210,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 1407080,
@@ -1467,14 +1483,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1118887,
-      "num": 1118887,
-      "word": "离职时HR把我的职位写高了",
-      "onboard_time": 1685790448,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1115603,
       "num": 1115603,
       "word": "大熊猫园润遭男子泼水",
@@ -1825,14 +1833,6 @@
       "onboard_time": 1685630192,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 945577,
-      "num": 945577,
-      "word": "瘦子真帅",
-      "onboard_time": 1685796210,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 938912,
@@ -2187,6 +2187,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 767588,
+      "num": 767588,
+      "word": "华晨宇麦粒肿",
+      "onboard_time": 1685798250,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 758694,
       "num": 966080,
       "word": "22年前被任贤齐救过的女孩来看演唱会了",
@@ -2409,6 +2417,14 @@
       "onboard_time": 1685539107,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 683218,
+      "num": 344661,
+      "word": "梦中的那片海收视再创新高",
+      "onboard_time": 1685800947,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 682510,
@@ -2971,6 +2987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 581476,
+      "num": 581476,
+      "word": "鸟巢 场外",
+      "onboard_time": 1685800650,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 578621,
       "num": 578621,
       "word": "男人眼中的6分女和6分男",
@@ -3448,6 +3472,14 @@
       "word": "上海白蚁",
       "onboard_time": 1685451096,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 507437,
+      "num": 497538,
+      "word": "香港一精神病人在商场当众捅死2人",
+      "onboard_time": 1685800528,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -5795,6 +5827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319057,
+      "num": 319057,
+      "word": "TES对战EDG",
+      "onboard_time": 1685792247,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 319001,
       "num": 319001,
       "word": "网友问金智秀为什么会跳Flower",
@@ -6307,6 +6347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293266,
+      "num": 293266,
+      "word": "宋茜江疏影桃花坞显眼包",
+      "onboard_time": 1685799088,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292871,
       "num": 274089,
       "word": "赵丽颖儿童节看小时候的画册",
@@ -6433,6 +6481,14 @@
       "onboard_time": 1685317405,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287864,
+      "num": 287864,
+      "word": "赵露思的狗该剪指甲了",
+      "onboard_time": 1685798848,
+      "rank": 26,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 287588,
@@ -6771,14 +6827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 276489,
-      "num": 276489,
-      "word": "华晨宇麦粒肿",
-      "onboard_time": 1685798250,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 276484,
       "num": 276484,
       "word": "电影走走停停开机",
@@ -7083,6 +7131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 266308,
+      "num": 266308,
+      "word": "LPL",
+      "onboard_time": 1685801130,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 266164,
       "num": 231029,
       "word": "杨幂能长红的原因",
@@ -7267,12 +7323,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 260522,
-      "num": 260522,
-      "word": "宋茜江疏影桃花坞显眼包",
-      "onboard_time": 1685799088,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 260611,
+      "num": 260611,
+      "word": "三分野算爆了吗",
+      "onboard_time": 1685800650,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 260518,
@@ -7331,6 +7387,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 259643,
+      "num": 259643,
+      "word": "蔡徐坤演唱会再现情人大合唱",
+      "onboard_time": 1685800947,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 259565,
       "num": 259565,
       "word": "王浩信陈自瑶不是TVB最恩爱夫妻",
@@ -7353,14 +7417,6 @@
       "onboard_time": 1685798008,
       "rank": 32,
       "category": "网红"
-    },
-    {
-      "raw_hot": 258245,
-      "num": 258245,
-      "word": "赵露思的狗该剪指甲了",
-      "onboard_time": 1685798848,
-      "rank": 26,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 258139,
@@ -7513,6 +7569,14 @@
       "onboard_time": 1685662943,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253855,
+      "num": 253855,
+      "word": "Meiko 暂停",
+      "onboard_time": 1685801067,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 253784,
@@ -7697,6 +7761,14 @@
       "onboard_time": 1685488642,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247084,
+      "num": 247084,
+      "word": "迪丽热巴说谢谢幂姐",
+      "onboard_time": 1685801189,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 247074,
@@ -8243,6 +8315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233693,
+      "num": 233693,
+      "word": "杭州部分小区房价跌回2017年",
+      "onboard_time": 1685797169,
+      "rank": 46,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 232922,
       "num": 258432,
       "word": "奥本海默定为R级",
@@ -8617,14 +8697,6 @@
       "onboard_time": 1685675069,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 223440,
-      "num": 223440,
-      "word": "TES对战EDG",
-      "onboard_time": 1685792247,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 223412,
@@ -9747,6 +9819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199355,
+      "num": 199355,
+      "word": "文俊辉要考清华",
+      "onboard_time": 1685801489,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198951,
       "num": 198951,
       "word": "别看不起做题家",
@@ -10107,6 +10187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 193287,
+      "num": 191559,
+      "word": "艾热威尔",
+      "onboard_time": 1685800709,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193246,
       "num": 1307695,
       "word": "无论几岁快乐万岁",
@@ -10227,6 +10315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191646,
+      "num": 191646,
+      "word": "曼联",
+      "onboard_time": 1685798370,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191551,
       "num": 191551,
       "word": "黑莲花或将延期",
@@ -10249,6 +10345,14 @@
       "onboard_time": 1685505988,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 191433,
+      "num": 191433,
+      "word": "男子骑车碾压1个月大小狗致死",
+      "onboard_time": 1685796988,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191189,
@@ -10545,6 +10649,14 @@
       "onboard_time": 1685650032,
       "rank": 30,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 185999,
+      "num": 256600,
+      "word": "神十五顺利撤离空间站",
+      "onboard_time": 1685801311,
+      "rank": 29,
+      "category": "科技,国内要闻"
     },
     {
       "raw_hot": 185973,
@@ -10923,14 +11035,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 179040,
-      "num": 189299,
-      "word": "曼联",
-      "onboard_time": 1685798370,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 178936,
       "num": 178936,
       "word": "铁路回应老人高铁上用菜刀削苹果",
@@ -10995,6 +11099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 176446,
+      "num": 176446,
+      "word": "蔡徐坤黑色水钻镜片西装",
+      "onboard_time": 1685799989,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 176431,
       "num": 176431,
       "word": "水哥变帅的原因找到了",
@@ -11017,14 +11129,6 @@
       "onboard_time": 1685402242,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176038,
-      "num": 188769,
-      "word": "杭州部分小区房价跌回2017年",
-      "onboard_time": 1685797169,
-      "rank": 46,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 175437,
@@ -11216,14 +11320,6 @@
       "word": "女孩将云肩披上学士服中国风拉满",
       "onboard_time": 1685410647,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170350,
-      "num": 188455,
-      "word": "男子骑车碾压1个月大小狗致死",
-      "onboard_time": 1685796988,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -12081,6 +12177,14 @@
       "onboard_time": 1685617408,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151149,
+      "num": 151149,
+      "word": "阿信",
+      "onboard_time": 1685799870,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 150717,
@@ -14620,7 +14724,7 @@
     },
     {
       "raw_hot": 58565,
-      "num": 1436068,
+      "num": 1440332,
       "word": "三夏已至农事正忙",
       "onboard_time": 1685779707,
       "rank": 2,
@@ -15025,6 +15129,14 @@
       "onboard_time": 1685440832,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 26872,
+      "num": 448756,
+      "word": "被拐28年女子和亲人视频已泪崩",
+      "onboard_time": 1685800829,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26146,
