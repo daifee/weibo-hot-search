@@ -1,6 +1,6 @@
 {
   "startTime": 1685809286870,
-  "endTime": 1685809286870,
+  "endTime": 1685810184637,
   "band_list": [
     {
       "raw_hot": 1613516,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 852126,
-      "num": 410047,
+      "num": 626579,
       "word": "梅西自宣离队",
       "onboard_time": 1685807790,
       "rank": 11,
@@ -83,7 +83,7 @@
       "category": "社会新闻,音乐"
     },
     {
-      "raw_hot": 474302,
+      "raw_hot": 476576,
       "num": 407811,
       "word": "张小狮 大树",
       "onboard_time": 1685806172,
@@ -131,20 +131,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 310200,
+      "num": 310200,
+      "word": "Meiko 暂停",
+      "onboard_time": 1685801067,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 305215,
       "num": 305215,
       "word": "五月天演唱会偶遇李现",
       "onboard_time": 1685797109,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 301404,
-      "num": 301404,
-      "word": "Meiko 暂停",
-      "onboard_time": 1685801067,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 298228,
@@ -275,60 +275,76 @@
       "category": "影视"
     },
     {
-      "raw_hot": 187453,
-      "num": 167861,
-      "word": "华晨宇麦粒肿",
-      "onboard_time": 1685798250,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 186190,
-      "num": 133642,
+      "raw_hot": 192372,
+      "num": 192372,
       "word": "流浪地球2将进行联合国特别放映",
       "onboard_time": 1685806949,
       "rank": 40,
       "category": "影视"
     },
     {
-      "raw_hot": 180624,
-      "num": 132655,
-      "word": "张小狮",
-      "onboard_time": 1685786907,
-      "rank": 41,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 168657,
-      "num": 168657,
-      "word": "小伙1.2万元拍下单颗荔枝送女友",
-      "onboard_time": 1685795186,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167110,
-      "num": 167110,
+      "raw_hot": 190706,
+      "num": 190706,
       "word": "杭州一碗面动辄三四十",
       "onboard_time": 1685807730,
       "rank": 37,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187453,
+      "num": 174472,
+      "word": "华晨宇麦粒肿",
+      "onboard_time": 1685798250,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 180624,
+      "num": 154228,
+      "word": "张小狮",
+      "onboard_time": 1685786907,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 175608,
+      "num": 154315,
+      "word": "大树",
+      "onboard_time": 1685808689,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 175025,
+      "num": 175025,
+      "word": "小伙1.2万元拍下单颗荔枝送女友",
+      "onboard_time": 1685795186,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167356,
+      "num": 167356,
+      "word": "东部战区就美加军舰过航台湾海峡发表谈话",
+      "onboard_time": 1685809408,
+      "rank": 38,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 163071,
-      "num": 132442,
+      "num": 136489,
       "word": "肖战李沁新剧宿命感",
       "onboard_time": 1685803051,
       "rank": 42,
       "category": "影视"
     },
     {
-      "raw_hot": 148192,
-      "num": 131813,
-      "word": "大树",
-      "onboard_time": 1685808689,
-      "rank": 43,
-      "category": "网红"
+      "raw_hot": 155073,
+      "num": 155073,
+      "word": "论文指导教师名字写成了自己的名字",
+      "onboard_time": 1685809346,
+      "rank": 39,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 142457,
@@ -339,8 +355,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 136504,
-      "num": 136504,
+      "raw_hot": 137926,
+      "num": 137926,
       "word": "杭州部分小区房价跌回2017年",
       "onboard_time": 1685797169,
       "rank": 38,
@@ -379,20 +395,28 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 120476,
+      "num": 120476,
+      "word": "苏某读硕期间知网收录5篇论文",
+      "onboard_time": 1685794707,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 119624,
+      "num": 119624,
+      "word": "被蚊子咬到正确的处理方式",
+      "onboard_time": 1685809287,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 110704,
       "num": 110704,
       "word": "俩老人摔坐马路消防员秒出警",
       "onboard_time": 1685808750,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108089,
-      "num": 108089,
-      "word": "苏某读硕期间知网收录5篇论文",
-      "onboard_time": 1685794707,
-      "rank": 49,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 52752,
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#努力建设中华民族现代文明#"
+    },
+    {
+      "word": "#带着我的梦想上天宫#"
     }
   ]
 }

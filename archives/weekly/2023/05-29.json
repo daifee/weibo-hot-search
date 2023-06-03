@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685809286870,
+  "endTime": 1685810184637,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -2028,7 +2028,7 @@
     },
     {
       "raw_hot": 852126,
-      "num": 410047,
+      "num": 626579,
       "word": "梅西自宣离队",
       "onboard_time": 1685807790,
       "rank": 11,
@@ -3827,20 +3827,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 476576,
+      "num": 407811,
+      "word": "张小狮 大树",
+      "onboard_time": 1685806172,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 475838,
       "num": 475838,
       "word": "以爱为营",
       "onboard_time": 1685415329,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 474302,
-      "num": 407811,
-      "word": "张小狮 大树",
-      "onboard_time": 1685806172,
-      "rank": 40,
-      "category": "网红"
     },
     {
       "raw_hot": 473764,
@@ -10451,6 +10451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192372,
+      "num": 192372,
+      "word": "流浪地球2将进行联合国特别放映",
+      "onboard_time": 1685806949,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192281,
       "num": 192281,
       "word": "我上网时心态平和多了",
@@ -10609,6 +10617,14 @@
       "onboard_time": 1685350049,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 190706,
+      "num": 190706,
+      "word": "杭州一碗面动辄三四十",
+      "onboard_time": 1685807730,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190487,
@@ -10833,14 +10849,6 @@
       "onboard_time": 1685445811,
       "rank": 48,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 186190,
-      "num": 133642,
-      "word": "流浪地球2将进行联合国特别放映",
-      "onboard_time": 1685806949,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 186145,
@@ -11331,6 +11339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175608,
+      "num": 154315,
+      "word": "大树",
+      "onboard_time": 1685808689,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 175437,
       "num": 142132,
       "word": "迪丽热巴拍出一个爱心",
@@ -11667,20 +11683,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167356,
+      "num": 167356,
+      "word": "东部战区就美加军舰过航台湾海峡发表谈话",
+      "onboard_time": 1685809408,
+      "rank": 38,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 167242,
       "num": 167242,
       "word": "任贤齐演唱会",
       "onboard_time": 1685354127,
       "rank": 37,
       "category": "社会新闻,音乐"
-    },
-    {
-      "raw_hot": 167110,
-      "num": 167110,
-      "word": "杭州一碗面动辄三四十",
-      "onboard_time": 1685807730,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166892,
@@ -12275,6 +12291,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 155073,
+      "num": 155073,
+      "word": "论文指导教师名字写成了自己的名字",
+      "onboard_time": 1685809346,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 154869,
       "num": 154869,
       "word": "年轻人的生育意愿为什么越来越低",
@@ -12569,14 +12593,6 @@
       "onboard_time": 1685576365,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148192,
-      "num": 131813,
-      "word": "大树",
-      "onboard_time": 1685808689,
-      "rank": 43,
-      "category": "网红"
     },
     {
       "raw_hot": 148153,
@@ -13513,6 +13529,14 @@
       "onboard_time": 1685490084,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119624,
+      "num": 119624,
+      "word": "被蚊子咬到正确的处理方式",
+      "onboard_time": 1685809287,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 119559,
