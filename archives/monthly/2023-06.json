@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685756663069,
+  "endTime": 1685757751026,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -75,20 +75,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2223234,
+      "num": 2223234,
+      "word": "半藏森林克隆人一年收入可高达72万",
+      "onboard_time": 1685752465,
+      "rank": 0,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 2123863,
       "num": 981146,
       "word": "学校正核查学术妲己事件",
       "onboard_time": 1685686708,
       "rank": 31,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 2085016,
-      "num": 2085016,
-      "word": "半藏森林克隆人一年收入可高达72万",
-      "onboard_time": 1685752465,
-      "rank": 0,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 2078971,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1463010,
+      "num": 1463010,
+      "word": "陈采尼 抄",
+      "onboard_time": 1685754870,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1437497,
       "num": 1437497,
       "word": "百度网盘被苹果AppStore下架",
@@ -257,14 +265,6 @@
       "onboard_time": 1685664568,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1406773,
-      "num": 1406773,
-      "word": "陈采尼 抄",
-      "onboard_time": 1685754870,
-      "rank": 1,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1394049,
@@ -444,11 +444,19 @@
     },
     {
       "raw_hot": 1191166,
-      "num": 806552,
+      "num": 1063314,
       "word": "警方回应校内被撞身亡小学生母亲坠亡",
       "onboard_time": 1685722770,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1172520,
+      "num": 1172520,
+      "word": "迪丽热巴是祝绪丹最爱的女人",
+      "onboard_time": 1685748741,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 1172134,
@@ -491,14 +499,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1143712,
-      "num": 1143712,
-      "word": "迪丽热巴是祝绪丹最爱的女人",
-      "onboard_time": 1685748741,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1139383,
       "num": 1139383,
       "word": "事业单位",
@@ -537,6 +537,14 @@
       "onboard_time": 1685693187,
       "rank": 38,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 1048376,
+      "num": 1048376,
+      "word": "千万不要长期喝热咖啡",
+      "onboard_time": 1685754390,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1044269,
@@ -611,12 +619,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 918192,
+      "num": 918192,
+      "word": "华南理工女博士答辩完整视频",
+      "onboard_time": 1685753667,
+      "rank": 11,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 914174,
       "num": 914174,
       "word": "出租房装的空调是5级能耗",
       "onboard_time": 1685574199,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 897955,
+      "num": 897955,
+      "word": "Angelababy回归 跑男收视率",
+      "onboard_time": 1685751085,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 888042,
@@ -657,14 +681,6 @@
       "onboard_time": 1685670148,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 833927,
-      "num": 833927,
-      "word": "Angelababy回归 跑男收视率",
-      "onboard_time": 1685751085,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 827838,
@@ -739,14 +755,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 761052,
-      "num": 761052,
-      "word": "千万不要长期喝热咖啡",
-      "onboard_time": 1685754390,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 753448,
       "num": 753448,
       "word": "谢娜给曾可妮乘风创始人",
@@ -777,14 +785,6 @@
       "onboard_time": 1685669425,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 704757,
-      "num": 704757,
-      "word": "华南理工女博士答辩完整视频",
-      "onboard_time": 1685753667,
-      "rank": 11,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 698316,
@@ -904,6 +904,14 @@
       "word": "酷云",
       "onboard_time": 1685620527,
       "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 632511,
+      "num": 632511,
+      "word": "第一次见在仙侠剧里搞绿化的神仙",
+      "onboard_time": 1685754328,
+      "rank": 14,
       "category": "影视"
     },
     {
@@ -1179,14 +1187,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 517500,
-      "num": 517500,
-      "word": "第一次见在仙侠剧里搞绿化的神仙",
-      "onboard_time": 1685754328,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 502975,
       "num": 502975,
       "word": "五月天王源唱如果我们不曾相遇",
@@ -1233,6 +1233,14 @@
       "onboard_time": 1685717735,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 487524,
+      "num": 487524,
+      "word": "印度列车相撞已致207人死亡",
+      "onboard_time": 1685753366,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 485114,
@@ -1472,14 +1480,6 @@
       "word": "马斯克再次成世界首富",
       "onboard_time": 1685591667,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 423450,
-      "num": 423450,
-      "word": "印度列车相撞已致207人死亡",
-      "onboard_time": 1685753366,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -2049,6 +2049,14 @@
       "onboard_time": 1685719953,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 323731,
+      "num": 316349,
+      "word": "那英劝周迅别去浪姐",
+      "onboard_time": 1685749222,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 321734,
@@ -2659,6 +2667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 260056,
+      "num": 260056,
+      "word": "王俊凯vs王源唱知足",
+      "onboard_time": 1685755350,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 260025,
       "num": 260025,
       "word": "巴黎主帅确认梅西即将离队",
@@ -3059,6 +3075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227603,
+      "num": 227603,
+      "word": "他只是爱我 却不理会我灵魂的出口",
+      "onboard_time": 1685756369,
+      "rank": 39,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 226927,
       "num": 226927,
       "word": "香蕉的英文这么烫嘴吗",
@@ -3113,14 +3137,6 @@
       "onboard_time": 1685675069,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 222763,
-      "num": 222763,
-      "word": "王俊凯vs王源唱知足",
-      "onboard_time": 1685755350,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 221535,
@@ -3193,6 +3209,14 @@
       "onboard_time": 1685666070,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215845,
+      "num": 215845,
+      "word": "官方回应迪士尼乐园有望落户武汉",
+      "onboard_time": 1685756729,
+      "rank": 30,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 215531,
@@ -3443,14 +3467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198213,
-      "num": 198213,
-      "word": "那英劝周迅别去浪姐",
-      "onboard_time": 1685749222,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198120,
       "num": 127613,
       "word": "李丹",
@@ -3521,6 +3537,14 @@
       "onboard_time": 1685609846,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193713,
+      "num": 193713,
+      "word": "还有4天高考",
+      "onboard_time": 1685756671,
+      "rank": 32,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 193536,
@@ -4155,12 +4179,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 158881,
+      "num": 158881,
+      "word": "迪丽热巴台词空耳挑战",
+      "onboard_time": 1685753549,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 158670,
       "num": 186705,
       "word": "胡锡进 毕节如此提防记者是在怕什么",
       "onboard_time": 1685597967,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157339,
+      "num": 157339,
+      "word": "felix蓝发",
+      "onboard_time": 1685757209,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 157184,
@@ -4201,6 +4241,14 @@
       "onboard_time": 1685602770,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 155092,
+      "num": 155092,
+      "word": "赵丽颖新中式玉兔盘发教程",
+      "onboard_time": 1685755108,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 154671,
@@ -4257,14 +4305,6 @@
       "onboard_time": 1685750723,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151829,
-      "num": 151829,
-      "word": "迪丽热巴台词空耳挑战",
-      "onboard_time": 1685753549,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 151567,
@@ -4555,6 +4595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131955,
+      "num": 131955,
+      "word": "不要和陌生人拼桌吃饭",
+      "onboard_time": 1685757630,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131400,
       "num": 152131,
       "word": "被学校抓住的话就一起跑吧",
@@ -4657,14 +4705,6 @@
       "onboard_time": 1685575402,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 124091,
-      "num": 115674,
-      "word": "赵丽颖新中式玉兔盘发教程",
-      "onboard_time": 1685755108,
-      "rank": 42,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 123396,
@@ -4771,6 +4811,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 116230,
+      "num": 116230,
+      "word": "保洁阿姨捡到40万上交获奖励",
+      "onboard_time": 1685747480,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116162,
       "num": 132437,
       "word": "镖人动画开播",
@@ -4800,22 +4848,6 @@
       "word": "男孩演完节目一句话让妈妈泪奔",
       "onboard_time": 1685680113,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115051,
-      "num": 129250,
-      "word": "他只是爱我 却不理会我灵魂的出口",
-      "onboard_time": 1685756369,
-      "rank": 39,
-      "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 113066,
-      "num": 113066,
-      "word": "保洁阿姨捡到40万上交获奖励",
-      "onboard_time": 1685747480,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -5220,7 +5252,7 @@
     },
     {
       "raw_hot": 76779,
-      "num": 84578,
+      "num": 100556,
       "word": "广东人吃杨梅真是脑洞大开",
       "onboard_time": 1685750305,
       "rank": 48,
@@ -5467,6 +5499,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 53349,
+      "num": 100474,
+      "word": "沃格尔将担任太阳主帅",
+      "onboard_time": 1685754446,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53122,
       "num": 1239034,
       "word": "长江金色航道百舸争流好壮美",
@@ -5529,14 +5569,6 @@
       "onboard_time": 1685633730,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50116,
-      "num": 84505,
-      "word": "沃格尔将担任太阳主帅",
-      "onboard_time": 1685754446,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 47994,
