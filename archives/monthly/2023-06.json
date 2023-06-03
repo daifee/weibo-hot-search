@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685823475521,
+  "endTime": 1685824412583,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -7811,8 +7811,8 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 21658,
-      "num": 21658,
+      "raw_hot": 22077,
+      "num": 22077,
       "word": "高叶 常州",
       "onboard_time": 1685822951,
       "rank": 40,
@@ -7843,20 +7843,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18679,
+      "num": 260992,
+      "word": "神十五航天员回地球",
+      "onboard_time": 1685802812,
+      "rank": 2,
+      "category": "科技"
+    },
+    {
       "raw_hot": 18107,
       "num": 25401,
       "word": "吴磊好酷",
       "onboard_time": 1685561473,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 13850,
-      "num": 260992,
-      "word": "神十五航天员回地球",
-      "onboard_time": 1685802812,
-      "rank": 2,
-      "category": "科技"
     },
     {
       "raw_hot": 13722,
