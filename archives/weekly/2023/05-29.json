@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685776473382,
+  "endTime": 1685777603844,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -1531,6 +1531,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 1041786,
+      "num": 1041786,
+      "word": "黄觉牵张艺凡",
+      "onboard_time": 1685774488,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1040921,
       "num": 1040921,
       "word": "TFBOYS演唱会最终章",
@@ -1785,14 +1793,6 @@
       "onboard_time": 1685624668,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 887008,
-      "num": 887008,
-      "word": "黄觉牵张艺凡",
-      "onboard_time": 1685774488,
-      "rank": 3,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 886032,
@@ -2299,6 +2299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 670412,
+      "num": 670412,
+      "word": "4篇论文现同一划痕钢尺遭撤稿",
+      "onboard_time": 1685769449,
+      "rank": 15,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 669807,
       "num": 185372,
       "word": "顾成 苏艳",
@@ -2593,14 +2601,6 @@
       "onboard_time": 1685502030,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 613514,
-      "num": 613514,
-      "word": "4篇论文现同一划痕钢尺遭撤稿",
-      "onboard_time": 1685769449,
-      "rank": 15,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 612599,
@@ -3220,7 +3220,7 @@
     },
     {
       "raw_hot": 507598,
-      "num": 210353,
+      "num": 212707,
       "word": "肖战 CHALI",
       "onboard_time": 1685773107,
       "rank": 30,
@@ -3561,6 +3561,14 @@
       "onboard_time": 1685674226,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 467374,
+      "num": 275274,
+      "word": "卢靖姗顺产用了三十六个小时",
+      "onboard_time": 1685776287,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 466837,
@@ -5283,6 +5291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 326234,
+      "num": 206715,
+      "word": "吴倩给芝芙晒娃",
+      "onboard_time": 1685775026,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 325589,
       "num": 325589,
       "word": "王一博出发日本",
@@ -6451,6 +6467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275421,
+      "num": 275421,
+      "word": "花花和大家打招呼",
+      "onboard_time": 1685771246,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275234,
       "num": 262312,
       "word": "果然站C位是有道理的",
@@ -6481,6 +6505,14 @@
       "onboard_time": 1685532627,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274662,
+      "num": 274662,
+      "word": "陈伟霆章若楠真的没在谈吗",
+      "onboard_time": 1685777245,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 274651,
@@ -6921,14 +6953,6 @@
       "onboard_time": 1685445750,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 257367,
-      "num": 257367,
-      "word": "花花和大家打招呼",
-      "onboard_time": 1685771246,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 257080,
@@ -7915,14 +7939,6 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 228597,
-      "num": 206715,
-      "word": "吴倩给芝芙晒娃",
-      "onboard_time": 1685775026,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 228236,
       "num": 168890,
       "word": "护心",
@@ -8187,6 +8203,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 222601,
+      "num": 165210,
+      "word": "庾澄庆频繁在线",
+      "onboard_time": 1685777127,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221655,
       "num": 207741,
       "word": "小S二女儿练普拉提",
@@ -8329,6 +8353,14 @@
       "onboard_time": 1685626111,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 218350,
+      "num": 218350,
+      "word": "徐开骋被AI换脸",
+      "onboard_time": 1685777067,
+      "rank": 19,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 218141,
@@ -8489,6 +8521,14 @@
       "onboard_time": 1685694028,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 214409,
+      "num": 163261,
+      "word": "肖春生遇见活阎王了",
+      "onboard_time": 1685776708,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 214326,
@@ -8673,6 +8713,14 @@
       "onboard_time": 1685523328,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 209681,
+      "num": 159572,
+      "word": "热烈",
+      "onboard_time": 1685777367,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 209680,
@@ -9419,6 +9467,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 194272,
+      "num": 152879,
+      "word": "还以为吴磊从新疆骑到广州",
+      "onboard_time": 1685776886,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193972,
       "num": 172903,
       "word": "请张彬彬不要随意解衬衫",
@@ -9651,6 +9707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191075,
+      "num": 161681,
+      "word": "迪丽热巴安旎的金句笔记",
+      "onboard_time": 1685776708,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190869,
       "num": 191528,
       "word": "六一快乐",
@@ -9681,6 +9745,14 @@
       "onboard_time": 1685637862,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190466,
+      "num": 148014,
+      "word": "密室大逃脱官微评论区",
+      "onboard_time": 1685776287,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 190397,
@@ -10049,6 +10121,14 @@
       "onboard_time": 1685537789,
       "rank": 36,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 182538,
+      "num": 182538,
+      "word": "您的骑手正在逗狗",
+      "onboard_time": 1685776588,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 182428,
@@ -10979,6 +11059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159285,
+      "num": 159285,
+      "word": "女排",
+      "onboard_time": 1685776947,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159151,
       "num": 159151,
       "word": "五月天在台上唱你不是真正的快乐",
@@ -11691,14 +11779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136667,
-      "num": 136667,
-      "word": "卢靖姗顺产用了三十六个小时",
-      "onboard_time": 1685776287,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 135683,
       "num": 123577,
       "word": "向园恋爱后的小变化",
@@ -11952,14 +12032,6 @@
       "word": "杨颖看腹肌的反应",
       "onboard_time": 1685702248,
       "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 129422,
-      "num": 129422,
-      "word": "密室大逃脱官微评论区",
-      "onboard_time": 1685776287,
-      "rank": 41,
       "category": "综艺"
     },
     {
@@ -12499,6 +12571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113887,
+      "num": 142302,
+      "word": "谢娜说用力过猛是我的风格",
+      "onboard_time": 1685777548,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113807,
       "num": 113807,
       "word": "糯米丸子蛋挞",
@@ -12963,6 +13043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 93830,
+      "num": 140775,
+      "word": "不用哭啦叔叔也坐错过车",
+      "onboard_time": 1685773887,
+      "rank": 47,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 93714,
       "num": 93714,
       "word": "重返未来1999",
@@ -13225,14 +13313,6 @@
       "onboard_time": 1685520089,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80370,
-      "num": 129344,
-      "word": "不用哭啦叔叔也坐错过车",
-      "onboard_time": 1685773887,
-      "rank": 47,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 79632,
