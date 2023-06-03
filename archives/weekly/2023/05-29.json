@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685762202147,
+  "endTime": 1685763221124,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -1227,19 +1227,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1184183,
+      "num": 1184183,
+      "word": "迪丽热巴是祝绪丹最爱的女人",
+      "onboard_time": 1685748741,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1181979,
       "num": 645195,
       "word": "曝昆汀花1万美元在夜店舔美女的脚",
       "onboard_time": 1685402122,
       "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1172520,
-      "num": 1172520,
-      "word": "迪丽热巴是祝绪丹最爱的女人",
-      "onboard_time": 1685748741,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -3003,6 +3003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 521653,
+      "num": 521653,
+      "word": "那英劝周迅别去浪姐",
+      "onboard_time": 1685749222,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 521207,
       "num": 478331,
       "word": "迪丽热巴虞书欣张元英神女造型",
@@ -3121,6 +3129,14 @@
       "onboard_time": 1685459794,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 504691,
+      "num": 504691,
+      "word": "有效追妻vs无效追妻",
+      "onboard_time": 1685759249,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 503896,
@@ -3521,14 +3537,6 @@
       "onboard_time": 1685706334,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 452424,
-      "num": 452424,
-      "word": "那英劝周迅别去浪姐",
-      "onboard_time": 1685749222,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 451793,
@@ -4235,14 +4243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 387361,
-      "num": 387361,
-      "word": "有效追妻vs无效追妻",
-      "onboard_time": 1685759249,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 387087,
       "num": 325856,
       "word": "吴建豪淘汰赵丽颖",
@@ -4401,6 +4401,14 @@
       "onboard_time": 1685631631,
       "rank": 38,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 373573,
+      "num": 373573,
+      "word": "阿信是TFBOYS端水大师",
+      "onboard_time": 1685762129,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 373279,
@@ -5715,6 +5723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 295262,
+      "num": 288280,
+      "word": "肖春生怎么还不被炸",
+      "onboard_time": 1685761469,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 294719,
       "num": 220243,
       "word": "唐嫣又穿的公主裙",
@@ -7027,6 +7043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246979,
+      "num": 246979,
+      "word": "宁静真的好懂赵丽颖",
+      "onboard_time": 1685761049,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246412,
       "num": 246412,
       "word": "cbx",
@@ -7427,14 +7451,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 236097,
-      "num": 236097,
-      "word": "肖春生怎么还不被炸",
-      "onboard_time": 1685761469,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 236040,
       "num": 236040,
       "word": "中国女排vs巴西女排",
@@ -7465,6 +7481,14 @@
       "onboard_time": 1685448752,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 235493,
+      "num": 235493,
+      "word": "Angelababy白鹿镜头时长",
+      "onboard_time": 1685762549,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 235434,
@@ -7616,6 +7640,14 @@
       "word": "张予曦是真公主吧",
       "onboard_time": 1685624129,
       "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 230088,
+      "num": 230088,
+      "word": "赵丽娜的身高",
+      "onboard_time": 1685761168,
+      "rank": 33,
       "category": "作品衍生"
     },
     {
@@ -8035,14 +8067,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 219000,
-      "num": 219000,
-      "word": "宁静真的好懂赵丽颖",
-      "onboard_time": 1685761049,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 218571,
       "num": 218571,
       "word": "王欣瑜首进大满贯32强",
@@ -8057,6 +8081,14 @@
       "onboard_time": 1685497827,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218136,
+      "num": 218136,
+      "word": "EXO回归中",
+      "onboard_time": 1685762068,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 217337,
@@ -8305,6 +8337,14 @@
       "onboard_time": 1685692046,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 210032,
+      "num": 210032,
+      "word": "谢娜乘风三公造型",
+      "onboard_time": 1685760989,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 210010,
@@ -8819,14 +8859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199030,
-      "num": 199030,
-      "word": "谢娜乘风三公造型",
-      "onboard_time": 1685760989,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198951,
       "num": 198951,
       "word": "别看不起做题家",
@@ -8931,6 +8963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197084,
+      "num": 197084,
+      "word": "张彬彬把衣服穿贵了",
+      "onboard_time": 1685762668,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196950,
       "num": 196950,
       "word": "易烊千玺主打一个会拍照",
@@ -8969,14 +9009,6 @@
       "onboard_time": 1685350708,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 196698,
-      "num": 196698,
-      "word": "赵丽娜的身高",
-      "onboard_time": 1685761168,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 196683,
@@ -9299,6 +9331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191099,
+      "num": 167994,
+      "word": "张逸杰回应过度举铁",
+      "onboard_time": 1685757808,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191078,
       "num": 191078,
       "word": "OMG对战BLG",
@@ -9585,6 +9625,14 @@
       "onboard_time": 1685603549,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 184358,
+      "num": 167701,
+      "word": "陈楚生说感谢张远特别邀请",
+      "onboard_time": 1685761890,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 184159,
@@ -10315,14 +10363,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 166303,
-      "num": 166303,
-      "word": "陈楚生说感谢张远特别邀请",
-      "onboard_time": 1685761890,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 166297,
       "num": 143020,
       "word": "再就业对春晚有多执着",
@@ -10523,14 +10563,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 162468,
-      "num": 162468,
-      "word": "张逸杰回应过度举铁",
-      "onboard_time": 1685757808,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 161589,
       "num": 161589,
       "word": "梦中那片海定档",
@@ -10553,6 +10585,14 @@
       "onboard_time": 1685427031,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 160686,
+      "num": 160686,
+      "word": "青春环游记",
+      "onboard_time": 1685762910,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 160011,
@@ -10715,14 +10755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156775,
-      "num": 156775,
-      "word": "阿信是TFBOYS端水大师",
-      "onboard_time": 1685762129,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 156206,
       "num": 156206,
       "word": "肖春生火场救人",
@@ -10801,14 +10833,6 @@
       "onboard_time": 1685755108,
       "rank": 42,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 154892,
-      "num": 154892,
-      "word": "EXO回归中",
-      "onboard_time": 1685762068,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 154869,
@@ -11233,6 +11257,14 @@
       "onboard_time": 1685450373,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139943,
+      "num": 139943,
+      "word": "龚琳娜美依礼芽吃早饭",
+      "onboard_time": 1685762308,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 139730,
@@ -12489,6 +12521,14 @@
       "onboard_time": 1685748679,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97180,
+      "num": 127279,
+      "word": "减肥期间去水肿的办法",
+      "onboard_time": 1685762308,
+      "rank": 49,
+      "category": "美妆,幽默"
     },
     {
       "raw_hot": 96837,

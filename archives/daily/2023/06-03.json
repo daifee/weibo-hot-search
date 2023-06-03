@@ -1,6 +1,6 @@
 {
   "startTime": 1685722886907,
-  "endTime": 1685762202147,
+  "endTime": 1685763221124,
   "band_list": [
     {
       "raw_hot": 4395833,
@@ -99,8 +99,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1172520,
-      "num": 1172520,
+      "raw_hot": 1184183,
+      "num": 1184183,
       "word": "迪丽热巴是祝绪丹最爱的女人",
       "onboard_time": 1685748741,
       "rank": 30,
@@ -187,6 +187,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 521653,
+      "num": 521653,
+      "word": "那英劝周迅别去浪姐",
+      "onboard_time": 1685749222,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 504691,
+      "num": 504691,
+      "word": "有效追妻vs无效追妻",
+      "onboard_time": 1685759249,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 487524,
       "num": 487524,
       "word": "印度列车相撞已致207人死亡",
@@ -201,14 +217,6 @@
       "onboard_time": 1685701350,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 452424,
-      "num": 452424,
-      "word": "那英劝周迅别去浪姐",
-      "onboard_time": 1685749222,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 440239,
@@ -243,14 +251,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 387361,
-      "num": 387361,
-      "word": "有效追妻vs无效追妻",
-      "onboard_time": 1685759249,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 387087,
       "num": 325856,
       "word": "吴建豪淘汰赵丽颖",
@@ -265,6 +265,14 @@
       "onboard_time": 1685720670,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373573,
+      "num": 373573,
+      "word": "阿信是TFBOYS端水大师",
+      "onboard_time": 1685762129,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 370105,
@@ -387,6 +395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 295262,
+      "num": 288280,
+      "word": "肖春生怎么还不被炸",
+      "onboard_time": 1685761469,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289872,
       "num": 289872,
       "word": "他只是爱我 却不理会我灵魂的出口",
@@ -451,6 +467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 246979,
+      "num": 246979,
+      "word": "宁静真的好懂赵丽颖",
+      "onboard_time": 1685761049,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246250,
       "num": 115496,
       "word": "学术妲己的危害",
@@ -467,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236097,
-      "num": 236097,
-      "word": "肖春生怎么还不被炸",
-      "onboard_time": 1685761469,
-      "rank": 26,
-      "category": "影视"
+      "raw_hot": 235493,
+      "num": 235493,
+      "word": "Angelababy白鹿镜头时长",
+      "onboard_time": 1685762549,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 234503,
@@ -491,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230088,
+      "num": 230088,
+      "word": "赵丽娜的身高",
+      "onboard_time": 1685761168,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 229544,
       "num": 229544,
       "word": "黄国平博士论文的致谢",
@@ -499,12 +531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219000,
-      "num": 219000,
-      "word": "宁静真的好懂赵丽颖",
-      "onboard_time": 1685761049,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 218136,
+      "num": 218136,
+      "word": "EXO回归中",
+      "onboard_time": 1685762068,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 215845,
@@ -523,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210032,
+      "num": 210032,
+      "word": "谢娜乘风三公造型",
+      "onboard_time": 1685760989,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204276,
       "num": 204276,
       "word": "瞿颖真的好敢说",
@@ -531,20 +571,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199030,
-      "num": 199030,
-      "word": "谢娜乘风三公造型",
-      "onboard_time": 1685760989,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 196698,
-      "num": 196698,
-      "word": "赵丽娜的身高",
-      "onboard_time": 1685761168,
-      "rank": 33,
-      "category": "作品衍生"
+      "raw_hot": 197084,
+      "num": 197084,
+      "word": "张彬彬把衣服穿贵了",
+      "onboard_time": 1685762668,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 193713,
@@ -571,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191099,
+      "num": 167994,
+      "word": "张逸杰回应过度举铁",
+      "onboard_time": 1685757808,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190105,
       "num": 190105,
       "word": "蔡徐坤晒澳门演唱会舞台照",
@@ -585,6 +625,14 @@
       "onboard_time": 1685758827,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184358,
+      "num": 167701,
+      "word": "陈楚生说感谢张远特别邀请",
+      "onboard_time": 1685761890,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 180679,
@@ -603,19 +651,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 166303,
-      "num": 166303,
-      "word": "陈楚生说感谢张远特别邀请",
-      "onboard_time": 1685761890,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 162468,
-      "num": 162468,
-      "word": "张逸杰回应过度举铁",
-      "onboard_time": 1685757808,
-      "rank": 38,
+      "raw_hot": 160686,
+      "num": 160686,
+      "word": "青春环游记",
+      "onboard_time": 1685762910,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -635,28 +675,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 156775,
-      "num": 156775,
-      "word": "阿信是TFBOYS端水大师",
-      "onboard_time": 1685762129,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 155092,
       "num": 155092,
       "word": "赵丽颖新中式玉兔盘发教程",
       "onboard_time": 1685755108,
       "rank": 42,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 154892,
-      "num": 154892,
-      "word": "EXO回归中",
-      "onboard_time": 1685762068,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 154671,
@@ -704,6 +728,14 @@
       "word": "孙红雷说谢娜心眼小",
       "onboard_time": 1685719533,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 139943,
+      "num": 139943,
+      "word": "龚琳娜美依礼芽吃早饭",
+      "onboard_time": 1685762308,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -833,6 +865,14 @@
       "onboard_time": 1685748679,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97180,
+      "num": 127279,
+      "word": "减肥期间去水肿的办法",
+      "onboard_time": 1685762308,
+      "rank": 49,
+      "category": "美妆,幽默"
     },
     {
       "raw_hot": 96811,
