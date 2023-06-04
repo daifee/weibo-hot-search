@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685852354321,
+  "endTime": 1685853210189,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -411,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1956300,
+      "num": 1956300,
+      "word": "79岁老人欲取离世儿子41万存款被拒",
+      "onboard_time": 1685847984,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1938833,
       "num": 539523,
       "word": "你喜欢大海 我承包岛",
@@ -457,14 +465,6 @@
       "onboard_time": 1685421032,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1890376,
-      "num": 1890376,
-      "word": "79岁老人欲取离世儿子41万存款被拒",
-      "onboard_time": 1685847984,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1887780,
@@ -731,6 +731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1562101,
+      "num": 1562101,
+      "word": "我的脸被隐翅虫毁容了",
+      "onboard_time": 1685849424,
+      "rank": 23,
+      "category": "其它"
+    },
+    {
       "raw_hot": 1560919,
       "num": 1549027,
       "word": "赵丽颖露背",
@@ -995,6 +1003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1373048,
+      "num": 1373048,
+      "word": "跑男打错范丞丞名字",
+      "onboard_time": 1685849967,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1372783,
       "num": 1372783,
       "word": "身体缺什么 嘴巴早知道",
@@ -1163,14 +1179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1297047,
-      "num": 1297047,
-      "word": "我的脸被隐翅虫毁容了",
-      "onboard_time": 1685849424,
-      "rank": 23,
-      "category": "其它"
-    },
-    {
       "raw_hot": 1295628,
       "num": 1295628,
       "word": "黄晓明尹正亲上了",
@@ -1329,14 +1337,6 @@
       "onboard_time": 1685697686,
       "rank": 30,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1251640,
-      "num": 1251640,
-      "word": "跑男打错范丞丞名字",
-      "onboard_time": 1685849967,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1250654,
@@ -4195,6 +4195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 445134,
+      "num": 445134,
+      "word": "韩娱四代TOP组合",
+      "onboard_time": 1685848345,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 443920,
       "num": 443920,
       "word": "椰树首次正面回应直播风格争议",
@@ -4225,14 +4233,6 @@
       "onboard_time": 1685720489,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 439756,
-      "num": 439756,
-      "word": "韩娱四代TOP组合",
-      "onboard_time": 1685848345,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 438481,
@@ -4859,6 +4859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391135,
+      "num": 391135,
+      "word": "男子结婚4战友随2厚本刮刮乐",
+      "onboard_time": 1685849967,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 391023,
       "num": 391023,
       "word": "被宠是一种什么体验",
@@ -5459,6 +5467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348302,
+      "num": 348302,
+      "word": "五十公里桃花坞",
+      "onboard_time": 1685851827,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347822,
       "num": 1229813,
       "word": "收费员多问一句救下一条命",
@@ -5537,14 +5553,6 @@
       "onboard_time": 1685442390,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 341873,
-      "num": 341873,
-      "word": "男子结婚4战友随2厚本刮刮乐",
-      "onboard_time": 1685849967,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 341356,
@@ -6184,6 +6192,14 @@
       "word": "吴倩新剧掉马",
       "onboard_time": 1685450312,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 317357,
+      "num": 317357,
+      "word": "谭松韵丁禹兮 蜀锦人家",
+      "onboard_time": 1685851588,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -6859,6 +6875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286243,
+      "num": 286243,
+      "word": "二建",
+      "onboard_time": 1685852067,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 286215,
       "num": 207550,
       "word": "Amber听到谢娜第一的反应",
@@ -7371,6 +7395,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 270321,
+      "num": 263275,
+      "word": "女生生气真的会生病的",
+      "onboard_time": 1685849547,
+      "rank": 30,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 270252,
       "num": 270252,
       "word": "丫丫离开上海回京",
@@ -7691,6 +7723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 260613,
+      "num": 260613,
+      "word": "真的不建议低谷期谈恋爱",
+      "onboard_time": 1685849786,
+      "rank": 35,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 260518,
       "num": 260518,
       "word": "孟子义我们不是死绿茶",
@@ -7769,6 +7809,14 @@
       "onboard_time": 1685445750,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 258942,
+      "num": 258942,
+      "word": "Lisa演唱会跳flower",
+      "onboard_time": 1685851286,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 258629,
@@ -7905,14 +7953,6 @@
       "onboard_time": 1685413770,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 254744,
-      "num": 246531,
-      "word": "女生生气真的会生病的",
-      "onboard_time": 1685849547,
-      "rank": 30,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 254531,
@@ -8267,14 +8307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 244459,
-      "num": 244459,
-      "word": "真的不建议低谷期谈恋爱",
-      "onboard_time": 1685849786,
-      "rank": 35,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 244207,
       "num": 244207,
       "word": "杨紫时尚芭莎封面",
@@ -8345,6 +8377,14 @@
       "onboard_time": 1685610028,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242875,
+      "num": 242875,
+      "word": "一只鸡现象",
+      "onboard_time": 1685848106,
+      "rank": 47,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 242282,
@@ -8635,14 +8675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235613,
-      "num": 235613,
-      "word": "一只鸡现象",
-      "onboard_time": 1685848106,
-      "rank": 47,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 235519,
       "num": 168441,
       "word": "杨紫直播",
@@ -8697,14 +8729,6 @@
       "onboard_time": 1685720849,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 234329,
-      "num": 234329,
-      "word": "谭松韵丁禹兮 蜀锦人家",
-      "onboard_time": 1685851588,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 234292,
@@ -9459,6 +9483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215863,
+      "num": 174294,
+      "word": "爸爸妈妈实现了女儿的钢琴梦",
+      "onboard_time": 1685849846,
+      "rank": 46,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 215845,
       "num": 215845,
       "word": "官方回应迪士尼乐园有望落户武汉",
@@ -9593,14 +9625,6 @@
       "onboard_time": 1685616928,
       "rank": 31,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 213062,
-      "num": 213062,
-      "word": "五十公里桃花坞",
-      "onboard_time": 1685851827,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 212868,
@@ -9841,14 +9865,6 @@
       "onboard_time": 1685411307,
       "rank": 32,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 207705,
-      "num": 207705,
-      "word": "二建",
-      "onboard_time": 1685852067,
-      "rank": 26,
-      "category": "教育"
     },
     {
       "raw_hot": 207521,
@@ -10147,14 +10163,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 202322,
-      "num": 202322,
-      "word": "Lisa演唱会跳flower",
-      "onboard_time": 1685851286,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 202306,
       "num": 135933,
       "word": "蔡徐坤澳门演唱会今晚开唱",
@@ -10169,14 +10177,6 @@
       "onboard_time": 1685836340,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 202008,
-      "num": 174294,
-      "word": "爸爸妈妈实现了女儿的钢琴梦",
-      "onboard_time": 1685849846,
-      "rank": 46,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 201933,
@@ -11475,6 +11475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182038,
+      "num": 182038,
+      "word": "Spotify流媒10亿KPOP艺人",
+      "onboard_time": 1685850147,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 181870,
       "num": 147286,
       "word": "公司要求自带电脑上班不合格就充公",
@@ -12427,14 +12435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160344,
-      "num": 160344,
-      "word": "Spotify流媒10亿KPOP艺人",
-      "onboard_time": 1685850147,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 160011,
       "num": 160011,
       "word": "灿烂灿烂",
@@ -12649,6 +12649,14 @@
       "onboard_time": 1685330308,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 156076,
+      "num": 156076,
+      "word": "文俊辉晒与洪知秀花絮照",
+      "onboard_time": 1685851347,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 155909,
@@ -12889,14 +12897,6 @@
       "onboard_time": 1685630970,
       "rank": 45,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 150066,
-      "num": 150066,
-      "word": "文俊辉晒与洪知秀花絮照",
-      "onboard_time": 1685851347,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 150002,
@@ -13161,6 +13161,14 @@
       "onboard_time": 1685703214,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142582,
+      "num": 142582,
+      "word": "那天他一下救了三个人",
+      "onboard_time": 1685852606,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 141910,
@@ -13563,6 +13571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130969,
+      "num": 130969,
+      "word": "14岁姐姐海姆立克法救下卡喉弟弟",
+      "onboard_time": 1685850985,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130764,
       "num": 148979,
       "word": "王楚钦说下一次会更好的回来",
@@ -13601,14 +13617,6 @@
       "onboard_time": 1685702248,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129591,
-      "num": 129591,
-      "word": "14岁姐姐海姆立克法救下卡喉弟弟",
-      "onboard_time": 1685850985,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129070,
@@ -14164,7 +14172,7 @@
     },
     {
       "raw_hot": 116007,
-      "num": 1342853,
+      "num": 1380874,
       "word": "神十五航天员回地球",
       "onboard_time": 1685802812,
       "rank": 2,
@@ -14296,6 +14304,14 @@
       "word": "成都欢乐谷大运音乐节",
       "onboard_time": 1685701710,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112276,
+      "num": 112276,
+      "word": "鸭脖",
+      "onboard_time": 1685853087,
+      "rank": 48,
       "category": "社会新闻"
     },
     {

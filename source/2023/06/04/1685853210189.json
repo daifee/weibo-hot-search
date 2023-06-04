@@ -1,0 +1,410 @@
+{
+  "runTime": 1685853210189,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1956300,
+        "num": 1956300,
+        "word": "79岁老人欲取离世儿子41万存款被拒",
+        "onboard_time": 1685847984,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1562101,
+        "num": 1562101,
+        "word": "我的脸被隐翅虫毁容了",
+        "onboard_time": 1685849424,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70284,
+        "num": 1380874,
+        "word": "神十五航天员回地球",
+        "onboard_time": 1685802812,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1373048,
+        "num": 1373048,
+        "word": "跑男打错范丞丞名字",
+        "onboard_time": 1685849967,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1121725,
+        "num": 1121725,
+        "word": "你觉得椰树直播算擦边吗",
+        "onboard_time": 1685843365,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 880242,
+        "num": 880242,
+        "word": "肖战迪丽热巴赵露思V榜破9",
+        "onboard_time": 1685848465,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 821789,
+        "num": 821789,
+        "word": "姑姑拍到侄女做梦吃雪糕",
+        "onboard_time": 1685841865,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786380,
+        "num": 786380,
+        "word": "我曾一度认为是超市算错了",
+        "onboard_time": 1685840423,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 517654,
+        "num": 517654,
+        "word": "一人说一个奇怪的生理反应",
+        "onboard_time": 1685804011,
+        "rank": 8,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 445191,
+        "num": 445191,
+        "word": "那英送何炅的衣服竟然是童装",
+        "onboard_time": 1685839106,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 445134,
+        "num": 445134,
+        "word": "韩娱四代TOP组合",
+        "onboard_time": 1685848345,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438694,
+        "num": 438694,
+        "word": "孩子随母姓被拒分配村集体收入",
+        "onboard_time": 1685846847,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414385,
+        "num": 414385,
+        "word": "千万不要把水果当饭吃",
+        "onboard_time": 1685838263,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 391135,
+        "num": 391135,
+        "word": "男子结婚4战友随2厚本刮刮乐",
+        "onboard_time": 1685849967,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348302,
+        "num": 348302,
+        "word": "五十公里桃花坞",
+        "onboard_time": 1685851827,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331991,
+        "num": 331991,
+        "word": "原配抓小三路人帮腔大骂男方不要脸",
+        "onboard_time": 1685801973,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317357,
+        "num": 317357,
+        "word": "谭松韵丁禹兮 蜀锦人家",
+        "onboard_time": 1685851588,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301466,
+        "num": 301466,
+        "word": "加拿大护卫舰目睹中国战舰逼美舰改道",
+        "onboard_time": 1685845646,
+        "rank": 17,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 286243,
+        "num": 286243,
+        "word": "二建",
+        "onboard_time": 1685852067,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 265115,
+        "num": 265115,
+        "word": "女孩家长称黄渤赠送手表未送给弟弟",
+        "onboard_time": 1685803471,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 270321,
+        "num": 263275,
+        "word": "女生生气真的会生病的",
+        "onboard_time": 1685849547,
+        "rank": 20,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 260613,
+        "num": 260613,
+        "word": "真的不建议低谷期谈恋爱",
+        "onboard_time": 1685849786,
+        "rank": 21,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 258942,
+        "num": 258942,
+        "word": "Lisa演唱会跳flower",
+        "onboard_time": 1685851286,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 242875,
+        "num": 242875,
+        "word": "一只鸡现象",
+        "onboard_time": 1685848106,
+        "rank": 23,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 239818,
+        "num": 239818,
+        "word": "杨紫回眸生图vs精修",
+        "onboard_time": 1685844747,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 236046,
+        "num": 236046,
+        "word": "法老 说唱界的显眼包",
+        "onboard_time": 1685846605,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209026,
+        "num": 209026,
+        "word": "五月天鸟巢尾场唱任意门",
+        "onboard_time": 1685842406,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202851,
+        "num": 202851,
+        "word": "Angelababy奔跑吧时长",
+        "onboard_time": 1685841806,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182038,
+        "num": 182038,
+        "word": "Spotify流媒10亿KPOP艺人",
+        "onboard_time": 1685850147,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173656,
+        "num": 173656,
+        "word": "QQ音乐豪华绿钻续费价格上调",
+        "onboard_time": 1685840364,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 215863,
+        "num": 167573,
+        "word": "爸爸妈妈实现了女儿的钢琴梦",
+        "onboard_time": 1685849846,
+        "rank": 30,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 156214,
+        "num": 156214,
+        "word": "如果你每天早起15分钟",
+        "onboard_time": 1685845886,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156076,
+        "num": 156076,
+        "word": "文俊辉晒与洪知秀花絮照",
+        "onboard_time": 1685851347,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153189,
+        "num": 153189,
+        "word": "椰树审美",
+        "onboard_time": 1685845587,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153102,
+        "num": 153102,
+        "word": "侯明昊七年前试镜视频",
+        "onboard_time": 1685846968,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151413,
+        "num": 151413,
+        "word": "蔡徐坤演唱会大型蹦迪现场",
+        "onboard_time": 1685841204,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147840,
+        "num": 147840,
+        "word": "2023高考",
+        "onboard_time": 1685841743,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 144570,
+        "num": 144570,
+        "word": "Lisa暗夜玫瑰造型",
+        "onboard_time": 1685846186,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144367,
+        "num": 144367,
+        "word": "梅西自宣离队",
+        "onboard_time": 1685807790,
+        "rank": 38,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 142582,
+        "num": 142582,
+        "word": "那天他一下救了三个人",
+        "onboard_time": 1685852606,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140006,
+        "num": 140006,
+        "word": "enhypen签售会新要求",
+        "onboard_time": 1685847984,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139527,
+        "num": 139527,
+        "word": "张小狮 大树",
+        "onboard_time": 1685806172,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 136605,
+        "num": 136605,
+        "word": "在年代剧里遇到了crush",
+        "onboard_time": 1685843846,
+        "rank": 42,
+        "category": "影视,情感"
+      },
+      {
+        "raw_hot": 134038,
+        "num": 134038,
+        "word": "无食欲拍照大法",
+        "onboard_time": 1685847566,
+        "rank": 43,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 130969,
+        "num": 130969,
+        "word": "14岁姐姐海姆立克法救下卡喉弟弟",
+        "onboard_time": 1685850985,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128834,
+        "num": 128834,
+        "word": "田柾国将solo出道",
+        "onboard_time": 1685839284,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127559,
+        "num": 127559,
+        "word": "香港一精神病人在商场当众捅死2人",
+        "onboard_time": 1685800528,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119805,
+        "num": 119805,
+        "word": "杨和苏怎么输的",
+        "onboard_time": 1685845167,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112276,
+        "num": 112276,
+        "word": "鸭脖",
+        "onboard_time": 1685853087,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105681,
+        "num": 105681,
+        "word": "萌娃检查身体时突然向医生wink",
+        "onboard_time": 1685833277,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平谈文化传承发展#"
+    }
+  }
+}
