@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685895661269,
+  "endTime": 1685896558517,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -627,6 +627,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1341404,
+      "num": 1341404,
+      "word": "男子连吃100天麦当劳减重53斤",
+      "onboard_time": 1685893707,
+      "rank": 10,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1333960,
       "num": 553485,
       "word": "李念官宣生三胎",
@@ -897,14 +905,6 @@
       "onboard_time": 1685689167,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1150357,
-      "num": 327209,
-      "word": "男子连吃100天麦当劳减重53斤",
-      "onboard_time": 1685893707,
-      "rank": 10,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1147186,
@@ -2467,6 +2467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 446123,
+      "num": 342334,
+      "word": "Kpop男友照",
+      "onboard_time": 1685893408,
+      "rank": 11,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 445550,
       "num": 434581,
       "word": "王诗龄说好久不见何炅",
@@ -2587,6 +2595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424870,
+      "num": 341264,
+      "word": "狗头萝莉摊煎饼",
+      "onboard_time": 1685892869,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 423253,
       "num": 183277,
       "word": "印度朋友到底怎么吃中国火锅",
@@ -2681,14 +2697,6 @@
       "onboard_time": 1685629892,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 412830,
-      "num": 314855,
-      "word": "Kpop男友照",
-      "onboard_time": 1685893408,
-      "rank": 11,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 411573,
@@ -2953,14 +2961,6 @@
       "onboard_time": 1685800650,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 377464,
-      "num": 157986,
-      "word": "狗头萝莉摊煎饼",
-      "onboard_time": 1685892869,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 377405,
@@ -5731,6 +5731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 214917,
+      "num": 181970,
+      "word": "杨超越模仿虞书欣长珩仙君夸我咯",
+      "onboard_time": 1685895625,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214519,
       "num": 214519,
       "word": "真的佩服塞尔达剧情党",
@@ -7619,20 +7627,20 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 153060,
+      "num": 153060,
+      "word": "多巴胺穿搭 QQ秀",
+      "onboard_time": 1685893050,
+      "rank": 34,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 153050,
       "num": 176064,
       "word": "双向奔赴才有意义",
       "onboard_time": 1685783065,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 152592,
-      "num": 152592,
-      "word": "多巴胺穿搭 QQ秀",
-      "onboard_time": 1685893050,
-      "rank": 34,
-      "category": "时尚"
     },
     {
       "raw_hot": 152551,
@@ -7657,6 +7665,14 @@
       "onboard_time": 1685785709,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152183,
+      "num": 152183,
+      "word": "广西的水果有多便宜",
+      "onboard_time": 1685894368,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 152162,
@@ -7713,6 +7729,14 @@
       "onboard_time": 1685630970,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 150357,
+      "num": 146831,
+      "word": "肖春生直球拒绝暧昧",
+      "onboard_time": 1685893408,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 150300,
@@ -7825,14 +7849,6 @@
       "onboard_time": 1685615366,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 146831,
-      "num": 146831,
-      "word": "肖春生直球拒绝暧昧",
-      "onboard_time": 1685893408,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 145418,
@@ -8003,14 +8019,6 @@
       "category": "时尚,美妆"
     },
     {
-      "raw_hot": 137170,
-      "num": 137170,
-      "word": "杨超越模仿虞书欣长珩仙君夸我咯",
-      "onboard_time": 1685895625,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 137066,
       "num": 1143174,
       "word": "距2023高考还有5天",
@@ -8147,6 +8155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131791,
+      "num": 131791,
+      "word": "周雨彤进组半熟男女",
+      "onboard_time": 1685895567,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 131400,
       "num": 152131,
       "word": "被学校抓住的话就一起跑吧",
@@ -8177,14 +8193,6 @@
       "onboard_time": 1685850985,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130762,
-      "num": 130762,
-      "word": "广西的水果有多便宜",
-      "onboard_time": 1685894368,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 130499,
@@ -8528,6 +8536,14 @@
       "word": "多想象一下自己的40岁",
       "onboard_time": 1685712152,
       "rank": 47,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 117247,
+      "num": 117247,
+      "word": "总要拿出时间去自在的朋友身边",
+      "onboard_time": 1685895806,
+      "rank": 36,
       "category": "情感,幽默"
     },
     {
@@ -9099,6 +9115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88416,
+      "num": 88416,
+      "word": "白鹭给自己理毛理出婚纱高定",
+      "onboard_time": 1685895806,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88081,
       "num": 147307,
       "word": "高三生毕业手绘老师口头禅卡通画",
@@ -9153,6 +9177,14 @@
       "onboard_time": 1685782407,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84751,
+      "num": 84751,
+      "word": "焦虑就是不信任",
+      "onboard_time": 1685896524,
+      "rank": 49,
+      "category": "作品衍生,情感"
     },
     {
       "raw_hot": 84653,
