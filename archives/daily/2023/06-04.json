@@ -1,6 +1,6 @@
 {
   "startTime": 1685809286870,
-  "endTime": 1685870261088,
+  "endTime": 1685871201379,
   "band_list": [
     {
       "raw_hot": 3115180,
@@ -172,11 +172,19 @@
     },
     {
       "raw_hot": 934917,
-      "num": 779266,
+      "num": 844284,
       "word": "小S大女儿获韩国舞蹈大赛第一名",
       "onboard_time": 1685863948,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 927305,
+      "num": 927305,
+      "word": "四川乐山高位山体塌方14人遇难",
+      "onboard_time": 1685868747,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 921878,
@@ -185,6 +193,14 @@
       "onboard_time": 1685853927,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 837937,
+      "num": 571344,
+      "word": "爆剧最多的女演员",
+      "onboard_time": 1685869707,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 833816,
@@ -219,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 729899,
+      "num": 729899,
+      "word": "直女发言聊天记录",
+      "onboard_time": 1685860946,
+      "rank": 23,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 726723,
       "num": 726723,
       "word": "魏如萱马嘉祺 台北文学",
@@ -235,20 +259,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 718000,
-      "num": 718000,
-      "word": "直女发言聊天记录",
-      "onboard_time": 1685860946,
-      "rank": 23,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 696467,
       "num": 696467,
       "word": "女孩父母回应网传黄渤放弃资助",
       "onboard_time": 1685793568,
       "rank": 6,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 694568,
+      "num": 694568,
+      "word": "宋茜汤晶媚聊天门遭罪",
+      "onboard_time": 1685866048,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 679303,
@@ -283,27 +307,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 625100,
-      "num": 625100,
-      "word": "四川乐山高位山体塌方14人遇难",
-      "onboard_time": 1685868747,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 603842,
       "num": 603842,
       "word": "王鹤棣趴着和宋丹丹张国立聊天",
       "onboard_time": 1685854708,
       "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 598197,
-      "num": 598197,
-      "word": "宋茜汤晶媚聊天门遭罪",
-      "onboard_time": 1685866048,
-      "rank": 31,
       "category": "综艺"
     },
     {
@@ -355,6 +363,14 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 495429,
+      "num": 495429,
+      "word": "帆帆 TTG",
+      "onboard_time": 1685869286,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 486994,
       "num": 486994,
       "word": "韩娱四代TOP组合",
@@ -369,14 +385,6 @@
       "onboard_time": 1685806172,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 465652,
-      "num": 465652,
-      "word": "帆帆 TTG",
-      "onboard_time": 1685869286,
-      "rank": 15,
-      "category": "游戏"
     },
     {
       "raw_hot": 448577,
@@ -539,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 345233,
+      "num": 345233,
+      "word": "蜘蛛侠",
+      "onboard_time": 1685869408,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 340186,
       "num": 340186,
       "word": "男生会有打伞羞耻吗",
@@ -595,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330493,
+      "num": 314866,
+      "word": "乐山",
+      "onboard_time": 1685870667,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329482,
       "num": 329482,
       "word": "Lisa暗夜玫瑰造型",
@@ -641,14 +665,6 @@
       "onboard_time": 1685797109,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 302654,
-      "num": 302654,
-      "word": "爆剧最多的女演员",
-      "onboard_time": 1685869707,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 298228,
@@ -899,6 +915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 238848,
+      "num": 238848,
+      "word": "杨幂龚俊或将合唱狐妖OST",
+      "onboard_time": 1685869467,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 238345,
       "num": 238345,
       "word": "离职时HR把我的职位写高了",
@@ -929,14 +953,6 @@
       "onboard_time": 1685863050,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 225953,
-      "num": 225953,
-      "word": "蜘蛛侠",
-      "onboard_time": 1685869408,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 225081,
@@ -1057,14 +1073,6 @@
       "onboard_time": 1685844506,
       "rank": 24,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 200107,
-      "num": 200107,
-      "word": "杨幂龚俊或将合唱狐妖OST",
-      "onboard_time": 1685869467,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 198108,
@@ -1227,6 +1235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 175533,
+      "num": 175533,
+      "word": "内娱毯星",
+      "onboard_time": 1685871026,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 175261,
       "num": 175261,
       "word": "enhypen签售会新要求",
@@ -1329,6 +1345,14 @@
       "onboard_time": 1685837963,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153429,
+      "num": 153429,
+      "word": "薛之谦演唱会拿到张杰荧光棒",
+      "onboard_time": 1685870728,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 148704,
@@ -1611,6 +1635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 106576,
+      "num": 106576,
+      "word": "女子考科三系错安全带考官面如死灰",
+      "onboard_time": 1685871086,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 106471,
       "num": 106471,
       "word": "郭碧婷的穿搭好接地气",
@@ -1673,6 +1705,14 @@
       "onboard_time": 1685834116,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91088,
+      "num": 465971,
+      "word": "女店主拎起灭火器冲上前救火",
+      "onboard_time": 1685869225,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87636,
@@ -1747,14 +1787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49643,
-      "num": 465971,
-      "word": "女店主拎起灭火器冲上前救火",
-      "onboard_time": 1685869225,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 47271,
       "num": 47271,
       "word": "宋祖儿特别出演热烈",
@@ -1771,20 +1803,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35652,
+      "num": 876379,
+      "word": "60秒回顾神十五返回舱着陆",
+      "onboard_time": 1685869828,
+      "rank": 2,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 22077,
       "num": 28235,
       "word": "高叶 常州",
       "onboard_time": 1685822951,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 20262,
-      "num": 751770,
-      "word": "60秒回顾神十五返回舱着陆",
-      "onboard_time": 1685869828,
-      "rank": 2,
-      "category": "社会新闻,科技"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1685871201379,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1214612,
+        "num": 1214612,
+        "word": "任敏 鸟鸟",
+        "onboard_time": 1685861067,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 927305,
+        "num": 927305,
+        "word": "四川乐山高位山体塌方14人遇难",
+        "onboard_time": 1685868747,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35652,
+        "num": 876379,
+        "word": "60秒回顾神十五返回舱着陆",
+        "onboard_time": 1685869828,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 844284,
+        "num": 844284,
+        "word": "小S大女儿获韩国舞蹈大赛第一名",
+        "onboard_time": 1685863948,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 791864,
+        "num": 791864,
+        "word": "我的脸被隐翅虫毁容了",
+        "onboard_time": 1685849424,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 771052,
+        "num": 771052,
+        "word": "蔡徐坤说叫我坤就可以了",
+        "onboard_time": 1685854348,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 735793,
+        "num": 735793,
+        "word": "孟子义锐评任敏汤晶媚乐队事件",
+        "onboard_time": 1685859687,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 729899,
+        "num": 729899,
+        "word": "直女发言聊天记录",
+        "onboard_time": 1685860946,
+        "rank": 7,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 694568,
+        "num": 694568,
+        "word": "宋茜汤晶媚聊天门遭罪",
+        "onboard_time": 1685866048,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 595295,
+        "num": 595295,
+        "word": "卡卡 北京",
+        "onboard_time": 1685854348,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 837937,
+        "num": 571344,
+        "word": "爆剧最多的女演员",
+        "onboard_time": 1685869707,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 528550,
+        "num": 528550,
+        "word": "校方回应食堂饭菜中吃出老鼠头",
+        "onboard_time": 1685863409,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 504963,
+        "num": 504963,
+        "word": "请各国管好自家的军舰飞机",
+        "onboard_time": 1685864308,
+        "rank": 12,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 495429,
+        "num": 495429,
+        "word": "帆帆 TTG",
+        "onboard_time": 1685869286,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 91088,
+        "num": 434629,
+        "word": "女店主拎起灭火器冲上前救火",
+        "onboard_time": 1685869225,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422835,
+        "num": 422835,
+        "word": "迪丽热巴 嘉人",
+        "onboard_time": 1685862747,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 405151,
+        "num": 405151,
+        "word": "任敏哭了",
+        "onboard_time": 1685855309,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400352,
+        "num": 400352,
+        "word": "金智秀看了都得愣一下",
+        "onboard_time": 1685864190,
+        "rank": 17,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 345233,
+        "num": 345233,
+        "word": "蜘蛛侠",
+        "onboard_time": 1685869408,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315466,
+        "num": 315466,
+        "word": "何炅的身材这么好吗",
+        "onboard_time": 1685865928,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 330493,
+        "num": 314866,
+        "word": "乐山",
+        "onboard_time": 1685870667,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299016,
+        "num": 299016,
+        "word": "79岁老人欲取离世儿子41万存款被拒",
+        "onboard_time": 1685847984,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279844,
+        "num": 279844,
+        "word": "张子豪 淘汰",
+        "onboard_time": 1685853927,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247653,
+        "num": 247653,
+        "word": "TTG",
+        "onboard_time": 1685868806,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 243342,
+        "num": 243342,
+        "word": "男生会有打伞羞耻吗",
+        "onboard_time": 1685857827,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238848,
+        "num": 238848,
+        "word": "杨幂龚俊或将合唱狐妖OST",
+        "onboard_time": 1685869467,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232057,
+        "num": 232057,
+        "word": "教练月光",
+        "onboard_time": 1685867666,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 229808,
+        "num": 229808,
+        "word": "张子豪在淘汰间打电话好心酸",
+        "onboard_time": 1685862327,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218305,
+        "num": 218305,
+        "word": "紫幻TTG",
+        "onboard_time": 1685868086,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203025,
+        "num": 203025,
+        "word": "美国教授称海底住95天后年轻10岁",
+        "onboard_time": 1685867128,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185263,
+        "num": 185263,
+        "word": "春花厌 侯明昊",
+        "onboard_time": 1685860826,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175533,
+        "num": 175533,
+        "word": "内娱毯星",
+        "onboard_time": 1685871026,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175040,
+        "num": 175040,
+        "word": "请给我一个任敏这样的e人朋友",
+        "onboard_time": 1685864367,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166559,
+        "num": 166559,
+        "word": "肖战对蝴蝶的吸引力",
+        "onboard_time": 1685860587,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164991,
+        "num": 164991,
+        "word": "KPL转会期",
+        "onboard_time": 1685865087,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162089,
+        "num": 162089,
+        "word": "老鼠头",
+        "onboard_time": 1685863106,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157090,
+        "num": 157090,
+        "word": "小狗守着腐烂狗妈妈尸体不愿离去",
+        "onboard_time": 1685859509,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155945,
+        "num": 155945,
+        "word": "跑男打错范丞丞名字",
+        "onboard_time": 1685849967,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154713,
+        "num": 154713,
+        "word": "中国说唱 人情世故",
+        "onboard_time": 1685863050,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153429,
+        "num": 153429,
+        "word": "薛之谦演唱会拿到张杰荧光棒",
+        "onboard_time": 1685870728,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153039,
+        "num": 153039,
+        "word": "AG转会期",
+        "onboard_time": 1685858847,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149997,
+        "num": 149997,
+        "word": "MTG 久诚",
+        "onboard_time": 1685865868,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145887,
+        "num": 145887,
+        "word": "卡琳娜发了李龙馥",
+        "onboard_time": 1685862267,
+        "rank": 42,
+        "category": "网红,艺人"
+      },
+      {
+        "raw_hot": 134688,
+        "num": 134688,
+        "word": "肖战迪丽热巴赵露思V榜破9",
+        "onboard_time": 1685848465,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130168,
+        "num": 130168,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1685868806,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121130,
+        "num": 121130,
+        "word": "蔡徐坤与女舞伴热舞",
+        "onboard_time": 1685862869,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118788,
+        "num": 118788,
+        "word": "丁程鑫北电汇演剧目",
+        "onboard_time": 1685867008,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110210,
+        "num": 110210,
+        "word": "你觉得椰树直播算擦边吗",
+        "onboard_time": 1685843365,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106576,
+        "num": 106576,
+        "word": "女子考科三系错安全带考官面如死灰",
+        "onboard_time": 1685871086,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 90138,
+        "num": 105848,
+        "word": "人一定要学会具备的能力",
+        "onboard_time": 1685866167,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#带着我的梦想上天宫#"
+    }
+  }
+}
