@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685885628098,
+  "endTime": 1685888027598,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -611,6 +611,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1817393,
+      "num": 1817393,
+      "word": "25岁女孩体重只有60多斤",
+      "onboard_time": 1685884349,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1794101,
       "num": 1370428,
       "word": "柳州",
@@ -651,20 +659,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1718657,
+      "num": 1289771,
+      "word": "杨紫 唯一纯白茉莉花",
+      "onboard_time": 1685883570,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1711483,
       "num": 1711483,
       "word": "苹果14",
       "onboard_time": 1685536646,
       "rank": 13,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1706180,
-      "num": 937435,
-      "word": "杨紫 唯一纯白茉莉花",
-      "onboard_time": 1685883570,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1694342,
@@ -681,6 +689,14 @@
       "onboard_time": 1685339425,
       "rank": 4,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 1686460,
+      "num": 1686460,
+      "word": "偏肺病毒",
+      "onboard_time": 1685883328,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1680275,
@@ -1547,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1189145,
+      "num": 1189145,
+      "word": "宋雨琦奔跑吧12期只录了4期",
+      "onboard_time": 1685883630,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1184183,
       "num": 1184183,
       "word": "迪丽热巴是祝绪丹最爱的女人",
@@ -1961,14 +1985,6 @@
       "onboard_time": 1685779288,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1002966,
-      "num": 1002966,
-      "word": "宋雨琦奔跑吧12期只录了4期",
-      "onboard_time": 1685883630,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 999225,
@@ -2617,6 +2633,14 @@
       "onboard_time": 1685794707,
       "rank": 34,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 713149,
+      "num": 713149,
+      "word": "妃子笑荔枝",
+      "onboard_time": 1685885549,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 712819,
@@ -4555,14 +4579,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 442680,
-      "num": 358300,
-      "word": "偏肺病毒",
-      "onboard_time": 1685883328,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 441431,
       "num": 441431,
       "word": "在年代剧里遇到了crush",
@@ -4801,14 +4817,6 @@
       "onboard_time": 1685444609,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 421352,
-      "num": 421352,
-      "word": "25岁女孩体重只有60多斤",
-      "onboard_time": 1685884349,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 421247,
@@ -5401,6 +5409,14 @@
       "onboard_time": 1685363366,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 382269,
+      "num": 382269,
+      "word": "肖春生颠儿了",
+      "onboard_time": 1685886392,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 382103,
@@ -7707,6 +7723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 278483,
+      "num": 278483,
+      "word": "教育部发布2023高考预警",
+      "onboard_time": 1685886333,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278441,
       "num": 269895,
       "word": "迪丽热巴说还是会拍古装剧偶像剧",
@@ -8081,6 +8105,14 @@
       "onboard_time": 1685857528,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 268732,
+      "num": 239325,
+      "word": "极限挑战全员葬爱造型出道",
+      "onboard_time": 1685883212,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 268667,
@@ -9179,6 +9211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239538,
+      "num": 239538,
+      "word": "内马尔告别梅西",
+      "onboard_time": 1685887474,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239218,
       "num": 220868,
       "word": "李沁佟晓梅",
@@ -9651,14 +9691,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 229787,
-      "num": 229787,
-      "word": "极限挑战全员葬爱造型出道",
-      "onboard_time": 1685883212,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 229544,
       "num": 229544,
       "word": "黄国平博士论文的致谢",
@@ -9929,6 +9961,14 @@
       "onboard_time": 1685675069,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223798,
+      "num": 223798,
+      "word": "尊嘟假嘟",
+      "onboard_time": 1685887351,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 223412,
@@ -10963,6 +11003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 202375,
+      "num": 444360,
+      "word": "高三学生放学家长齐开车灯照亮前程",
+      "onboard_time": 1685883630,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202306,
       "num": 135933,
       "word": "蔡徐坤澳门演唱会今晚开唱",
@@ -11033,6 +11081,14 @@
       "onboard_time": 1685431470,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 200959,
+      "num": 200959,
+      "word": "是谁在设计这种东西",
+      "onboard_time": 1685887890,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 200699,
@@ -11296,6 +11352,14 @@
       "word": "蛋仔派对",
       "onboard_time": 1685444490,
       "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 197166,
+      "num": 197166,
+      "word": "狼队选手发博告别1.0",
+      "onboard_time": 1685887713,
+      "rank": 32,
       "category": "游戏"
     },
     {
@@ -11595,6 +11659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192737,
+      "num": 192737,
+      "word": "神木",
+      "onboard_time": 1685887772,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 192664,
       "num": 174649,
       "word": "马佳 剧院魅影",
@@ -11723,6 +11795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191404,
+      "num": 191404,
+      "word": "恋爱脑的原因",
+      "onboard_time": 1685885970,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191383,
       "num": 191383,
       "word": "严浩翔极挑听了什么话",
@@ -11769,6 +11849,14 @@
       "onboard_time": 1685776708,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191029,
+      "num": 204714,
+      "word": "看一只熊猫泡澡看了半分钟",
+      "onboard_time": 1685884830,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190869,
@@ -13819,6 +13907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152043,
+      "num": 152043,
+      "word": "最早的外卖配送员 走读生",
+      "onboard_time": 1685887474,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151758,
       "num": 289153,
       "word": "赵明称行业必然跟进零风险护眼屏",
@@ -13889,14 +13985,6 @@
       "onboard_time": 1685630970,
       "rank": 45,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 150081,
-      "num": 188881,
-      "word": "看一只熊猫泡澡看了半分钟",
-      "onboard_time": 1685884830,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150002,
@@ -14633,14 +14721,6 @@
       "onboard_time": 1685324248,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 130615,
-      "num": 444360,
-      "word": "高三学生放学家长齐开车灯照亮前程",
-      "onboard_time": 1685883630,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130581,
@@ -15803,14 +15883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102342,
-      "num": 102342,
-      "word": "妃子笑荔枝",
-      "onboard_time": 1685885549,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 100779,
       "num": 316761,
       "word": "今晚有多少明星在天猫618直播",
@@ -16683,6 +16755,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 63544,
+      "num": 1310466,
+      "word": "圆梦乘组的高清笑颜",
+      "onboard_time": 1685882668,
+      "rank": 2,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 63178,
       "num": 433521,
       "word": "第一书记离任村民冒雨含泪送别",
@@ -16697,14 +16777,6 @@
       "onboard_time": 1685293460,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61089,
-      "num": 1233993,
-      "word": "圆梦乘组的高清笑颜",
-      "onboard_time": 1685882668,
-      "rank": 2,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 61053,
@@ -16800,6 +16872,14 @@
       "word": "三夏已至农事正忙",
       "onboard_time": 1685779707,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57954,
+      "num": 480015,
+      "word": "学生教室里假装打架为老师庆生",
+      "onboard_time": 1685887230,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

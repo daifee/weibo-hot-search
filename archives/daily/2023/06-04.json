@@ -1,6 +1,6 @@
 {
   "startTime": 1685809286870,
-  "endTime": 1685885628098,
+  "endTime": 1685888027598,
   "band_list": [
     {
       "raw_hot": 3115180,
@@ -99,6 +99,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1817393,
+      "num": 1817393,
+      "word": "25岁女孩体重只有60多斤",
+      "onboard_time": 1685884349,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1722394,
       "num": 1722394,
       "word": "任敏 鸟鸟",
@@ -107,12 +115,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1706180,
-      "num": 937435,
+      "raw_hot": 1718657,
+      "num": 1289771,
       "word": "杨紫 唯一纯白茉莉花",
       "onboard_time": 1685883570,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1686460,
+      "num": 1686460,
+      "word": "偏肺病毒",
+      "onboard_time": 1685883328,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1613516,
@@ -179,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1189145,
+      "num": 1189145,
+      "word": "宋雨琦奔跑吧12期只录了4期",
+      "onboard_time": 1685883630,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1183217,
       "num": 1183217,
       "word": "姑姑拍到侄女做梦吃雪糕",
@@ -224,14 +248,6 @@
       "word": "孟子义锐评任敏汤晶媚乐队事件",
       "onboard_time": 1685859687,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1002966,
-      "num": 1002966,
-      "word": "宋雨琦奔跑吧12期只录了4期",
-      "onboard_time": 1685883630,
-      "rank": 8,
       "category": "综艺"
     },
     {
@@ -307,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 807132,
+      "num": 807132,
+      "word": "全世界都在等你们分手",
+      "onboard_time": 1685882550,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 803185,
       "num": 589919,
       "word": "校方回应食堂饭菜中吃出老鼠头",
@@ -345,6 +369,14 @@
       "onboard_time": 1685839106,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 713149,
+      "num": 713149,
+      "word": "妃子笑荔枝",
+      "onboard_time": 1685885549,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 696467,
@@ -417,14 +449,6 @@
       "onboard_time": 1685865928,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 588362,
-      "num": 508287,
-      "word": "全世界都在等你们分手",
-      "onboard_time": 1685882550,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 581836,
@@ -547,14 +571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 442680,
-      "num": 358300,
-      "word": "偏肺病毒",
-      "onboard_time": 1685883328,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 441431,
       "num": 441431,
       "word": "在年代剧里遇到了crush",
@@ -585,14 +601,6 @@
       "onboard_time": 1685872226,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 421352,
-      "num": 421352,
-      "word": "25岁女孩体重只有60多斤",
-      "onboard_time": 1685884349,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 417769,
@@ -681,6 +689,14 @@
       "onboard_time": 1685863106,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382269,
+      "num": 382269,
+      "word": "肖春生颠儿了",
+      "onboard_time": 1685886392,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 372976,
@@ -1043,6 +1059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 278483,
+      "num": 278483,
+      "word": "教育部发布2023高考预警",
+      "onboard_time": 1685886333,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276146,
       "num": 276146,
       "word": "法老 说唱界的显眼包",
@@ -1081,6 +1105,14 @@
       "onboard_time": 1685857528,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 268732,
+      "num": 239325,
+      "word": "极限挑战全员葬爱造型出道",
+      "onboard_time": 1685883212,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 265955,
@@ -1219,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239538,
+      "num": 239538,
+      "word": "内马尔告别梅西",
+      "onboard_time": 1685887474,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239142,
       "num": 239142,
       "word": "你最近去过银行网点取钱吗",
@@ -1275,14 +1315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 229787,
-      "num": 229787,
-      "word": "极限挑战全员葬爱造型出道",
-      "onboard_time": 1685883212,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 227467,
       "num": 209779,
       "word": "中国说唱 人情世故",
@@ -1321,6 +1353,14 @@
       "onboard_time": 1685801489,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223798,
+      "num": 223798,
+      "word": "尊嘟假嘟",
+      "onboard_time": 1685887351,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 220737,
@@ -1427,12 +1467,28 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 202375,
+      "num": 444360,
+      "word": "高三学生放学家长齐开车灯照亮前程",
+      "onboard_time": 1685883630,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202261,
       "num": 202261,
       "word": "阿信说谢谢华晨宇同台飙歌",
       "onboard_time": 1685836340,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 200959,
+      "num": 200959,
+      "word": "是谁在设计这种东西",
+      "onboard_time": 1685887890,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 200653,
@@ -1459,6 +1515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197166,
+      "num": 197166,
+      "word": "狼队选手发博告别1.0",
+      "onboard_time": 1685887713,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196803,
       "num": 196803,
       "word": "威尔为什么还在",
@@ -1483,6 +1547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 192737,
+      "num": 192737,
+      "word": "神木",
+      "onboard_time": 1685887772,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 192372,
       "num": 192372,
       "word": "流浪地球2将进行联合国特别放映",
@@ -1491,12 +1563,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192273,
+      "num": 192273,
+      "word": "酷云",
+      "onboard_time": 1685885490,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 191404,
+      "num": 191404,
+      "word": "恋爱脑的原因",
+      "onboard_time": 1685885970,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191383,
       "num": 191383,
       "word": "严浩翔极挑听了什么话",
       "onboard_time": 1685873009,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191029,
+      "num": 204714,
+      "word": "看一只熊猫泡澡看了半分钟",
+      "onboard_time": 1685884830,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190706,
@@ -1803,20 +1899,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 152043,
+      "num": 152043,
+      "word": "最早的外卖配送员 走读生",
+      "onboard_time": 1685887474,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151404,
       "num": 151404,
       "word": "贵州村超",
       "onboard_time": 1685881768,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 150081,
-      "num": 188881,
-      "word": "看一只熊猫泡澡看了半分钟",
-      "onboard_time": 1685884830,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148704,
@@ -1857,14 +1953,6 @@
       "onboard_time": 1685847566,
       "rank": 41,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 144970,
-      "num": 144970,
-      "word": "酷云",
-      "onboard_time": 1685885490,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 143323,
@@ -1961,14 +2049,6 @@
       "onboard_time": 1685798848,
       "rank": 45,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 130615,
-      "num": 444360,
-      "word": "高三学生放学家长齐开车灯照亮前程",
-      "onboard_time": 1685883630,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129759,
@@ -2187,14 +2267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102342,
-      "num": 102342,
-      "word": "妃子笑荔枝",
-      "onboard_time": 1685885549,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 101865,
       "num": 101865,
       "word": "阿信",
@@ -2275,8 +2347,8 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 61089,
-      "num": 1233993,
+      "raw_hot": 63544,
+      "num": 1310466,
       "word": "圆梦乘组的高清笑颜",
       "onboard_time": 1685882668,
       "rank": 2,
@@ -2289,6 +2361,14 @@
       "onboard_time": 1685815995,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 57954,
+      "num": 480015,
+      "word": "学生教室里假装打架为老师庆生",
+      "onboard_time": 1685887230,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53341,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1685888027598,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1817393,
+        "num": 1817393,
+        "word": "25岁女孩体重只有60多斤",
+        "onboard_time": 1685884349,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1686460,
+        "num": 1686460,
+        "word": "偏肺病毒",
+        "onboard_time": 1685883328,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63544,
+        "num": 1310466,
+        "word": "圆梦乘组的高清笑颜",
+        "onboard_time": 1685882668,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1718657,
+        "num": 1289771,
+        "word": "杨紫 唯一纯白茉莉花",
+        "onboard_time": 1685883570,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1189145,
+        "num": 1189145,
+        "word": "宋雨琦奔跑吧12期只录了4期",
+        "onboard_time": 1685883630,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1076450,
+        "num": 1076450,
+        "word": "国内出现偏肺病毒感染",
+        "onboard_time": 1685875344,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1061710,
+        "num": 1061710,
+        "word": "爷爷把微信当书信用",
+        "onboard_time": 1685875886,
+        "rank": 6,
+        "category": "情感,科技"
+      },
+      {
+        "raw_hot": 1015070,
+        "num": 1015070,
+        "word": "宋茜做错了什么",
+        "onboard_time": 1685878168,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 807132,
+        "num": 807132,
+        "word": "全世界都在等你们分手",
+        "onboard_time": 1685882550,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 713149,
+        "num": 713149,
+        "word": "妃子笑荔枝",
+        "onboard_time": 1685885549,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1863127,
+        "num": 640690,
+        "word": "市监局再次确认高校饭菜异物是鸭脖",
+        "onboard_time": 1685876487,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520363,
+        "num": 520363,
+        "word": "沈月cos陈小希",
+        "onboard_time": 1685873726,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 508528,
+        "num": 508528,
+        "word": "黑莲花 成毅",
+        "onboard_time": 1685883328,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 488896,
+        "num": 488896,
+        "word": "宋茜汤晶媚聊天门遭罪",
+        "onboard_time": 1685866048,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57954,
+        "num": 480015,
+        "word": "学生教室里假装打架为老师庆生",
+        "onboard_time": 1685887230,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472306,
+        "num": 472306,
+        "word": "点10斤小龙虾上餐后称重仅5斤",
+        "onboard_time": 1685882909,
+        "rank": 15,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 467707,
+        "num": 467707,
+        "word": "爆剧最多的女演员",
+        "onboard_time": 1685869707,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 412121,
+        "num": 412121,
+        "word": "为什么没人捞张子豪",
+        "onboard_time": 1685876546,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406753,
+        "num": 406753,
+        "word": "男子为考清华复读14年",
+        "onboard_time": 1685871806,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 382269,
+        "num": 382269,
+        "word": "肖春生颠儿了",
+        "onboard_time": 1685886392,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 538453,
+        "num": 375499,
+        "word": "清清恋爱",
+        "onboard_time": 1685880146,
+        "rank": 20,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 338585,
+        "num": 338585,
+        "word": "蔡徐坤王一博同款舞姿",
+        "onboard_time": 1685882848,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 304673,
+        "num": 304673,
+        "word": "孟子义用的什么化妆品",
+        "onboard_time": 1685879429,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278483,
+        "num": 278483,
+        "word": "教育部发布2023高考预警",
+        "onboard_time": 1685886333,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239538,
+        "num": 239538,
+        "word": "内马尔告别梅西",
+        "onboard_time": 1685887474,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268732,
+        "num": 239325,
+        "word": "极限挑战全员葬爱造型出道",
+        "onboard_time": 1685883212,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223798,
+        "num": 223798,
+        "word": "尊嘟假嘟",
+        "onboard_time": 1685887351,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222783,
+        "num": 222783,
+        "word": "AG",
+        "onboard_time": 1685882607,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209928,
+        "num": 209928,
+        "word": "多巴胺穿搭",
+        "onboard_time": 1685881111,
+        "rank": 28,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 191029,
+        "num": 204714,
+        "word": "看一只熊猫泡澡看了半分钟",
+        "onboard_time": 1685884830,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202375,
+        "num": 202375,
+        "word": "高三学生放学家长齐开车灯照亮前程",
+        "onboard_time": 1685883630,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200959,
+        "num": 200959,
+        "word": "是谁在设计这种东西",
+        "onboard_time": 1685887890,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197166,
+        "num": 197166,
+        "word": "狼队选手发博告别1.0",
+        "onboard_time": 1685887713,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192737,
+        "num": 192737,
+        "word": "神木",
+        "onboard_time": 1685887772,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192273,
+        "num": 192273,
+        "word": "酷云",
+        "onboard_time": 1685885490,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191404,
+        "num": 191404,
+        "word": "恋爱脑的原因",
+        "onboard_time": 1685885970,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191051,
+        "num": 191051,
+        "word": "梦中的那片海版换乘恋爱",
+        "onboard_time": 1685880687,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188033,
+        "num": 188033,
+        "word": "任敏 鸟鸟",
+        "onboard_time": 1685861067,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168590,
+        "num": 168590,
+        "word": "高考卖花",
+        "onboard_time": 1685880929,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163583,
+        "num": 163583,
+        "word": "seventeen目前年龄",
+        "onboard_time": 1685880087,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152043,
+        "num": 152043,
+        "word": "最早的外卖配送员 走读生",
+        "onboard_time": 1685887474,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150935,
+        "num": 150935,
+        "word": "四川乐山高位山体塌方14人遇难",
+        "onboard_time": 1685868747,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149582,
+        "num": 149582,
+        "word": "杨紫高洁丝直播",
+        "onboard_time": 1685880447,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143976,
+        "num": 143976,
+        "word": "孟子义锐评任敏汤晶媚乐队事件",
+        "onboard_time": 1685859687,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140549,
+        "num": 140549,
+        "word": "英语不好也能在国外生存",
+        "onboard_time": 1685876546,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140547,
+        "num": 140547,
+        "word": "薛之谦演唱会拿到张杰荧光棒",
+        "onboard_time": 1685870728,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128078,
+        "num": 128078,
+        "word": "王一栩探班成毅李一桐",
+        "onboard_time": 1685881111,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127757,
+        "num": 127757,
+        "word": "蜘蛛侠",
+        "onboard_time": 1685869408,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125013,
+        "num": 125013,
+        "word": "我的脸被隐翅虫毁容了",
+        "onboard_time": 1685849424,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119018,
+        "num": 119018,
+        "word": "OMG战胜WBG",
+        "onboard_time": 1685882970,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#一起保护好传承好历史文化#"
+    }
+  }
+}
