@@ -1,0 +1,410 @@
+{
+  "runTime": 1685889210164,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1940082,
+        "num": 1940082,
+        "word": "25岁女孩体重只有60多斤",
+        "onboard_time": 1685884349,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1056098,
+        "num": 1056098,
+        "word": "宋雨琦奔跑吧12期只录了4期",
+        "onboard_time": 1685883630,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60383,
+        "num": 1048897,
+        "word": "圆梦乘组的高清笑颜",
+        "onboard_time": 1685882668,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1574793,
+        "num": 1031710,
+        "word": "杨紫 唯一纯白茉莉花",
+        "onboard_time": 1685883570,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2685396,
+        "num": 1010331,
+        "word": "偏肺病毒",
+        "onboard_time": 1685883328,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1155207,
+        "num": 984940,
+        "word": "国内出现偏肺病毒感染",
+        "onboard_time": 1685875344,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1081106,
+        "num": 978073,
+        "word": "宋茜做错了什么",
+        "onboard_time": 1685878168,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 963547,
+        "num": 963547,
+        "word": "爷爷把微信当书信用",
+        "onboard_time": 1685875886,
+        "rank": 7,
+        "category": "情感,科技"
+      },
+      {
+        "raw_hot": 821233,
+        "num": 821233,
+        "word": "全世界都在等你们分手",
+        "onboard_time": 1685882550,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 813062,
+        "num": 813062,
+        "word": "妃子笑荔枝",
+        "onboard_time": 1685885549,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1393743,
+        "num": 738967,
+        "word": "市监局再次确认高校饭菜异物是鸭脖",
+        "onboard_time": 1685876487,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537789,
+        "num": 537789,
+        "word": "内马尔告别梅西",
+        "onboard_time": 1685887474,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 490093,
+        "num": 490093,
+        "word": "宋茜汤晶媚聊天门遭罪",
+        "onboard_time": 1685866048,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 471442,
+        "num": 471442,
+        "word": "爆剧最多的女演员",
+        "onboard_time": 1685869707,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151193,
+        "num": 465718,
+        "word": "学生教室里假装打架为老师庆生",
+        "onboard_time": 1685887230,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461797,
+        "num": 461797,
+        "word": "为什么没人捞张子豪",
+        "onboard_time": 1685876546,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441915,
+        "num": 441915,
+        "word": "黑莲花 成毅",
+        "onboard_time": 1685883328,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 397440,
+        "num": 397440,
+        "word": "沈月cos陈小希",
+        "onboard_time": 1685873726,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373258,
+        "num": 373258,
+        "word": "点10斤小龙虾上餐后称重仅5斤",
+        "onboard_time": 1685882909,
+        "rank": 18,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 372964,
+        "num": 372964,
+        "word": "男子为考清华复读14年",
+        "onboard_time": 1685871806,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 354746,
+        "num": 354746,
+        "word": "肖春生颠儿了",
+        "onboard_time": 1685886392,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 308851,
+        "num": 308851,
+        "word": "孟子义用的什么化妆品",
+        "onboard_time": 1685879429,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297120,
+        "num": 297120,
+        "word": "尊嘟假嘟",
+        "onboard_time": 1685887351,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 288665,
+        "num": 288665,
+        "word": "教育部发布2023高考预警",
+        "onboard_time": 1685886333,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263103,
+        "num": 272816,
+        "word": "恋爱脑的原因",
+        "onboard_time": 1685885970,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 475729,
+        "num": 272792,
+        "word": "清清恋爱",
+        "onboard_time": 1685880146,
+        "rank": 25,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 271685,
+        "num": 271685,
+        "word": "蔡徐坤王一博同款舞姿",
+        "onboard_time": 1685882848,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267844,
+        "num": 267844,
+        "word": "极限挑战全员葬爱造型出道",
+        "onboard_time": 1685883212,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262415,
+        "num": 262415,
+        "word": "白鹿出道7年演了17部剧",
+        "onboard_time": 1685888131,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166901,
+        "num": 249741,
+        "word": "看一只熊猫泡澡看了半分钟",
+        "onboard_time": 1685884830,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245403,
+        "num": 245403,
+        "word": "宋亚轩中戏汇演",
+        "onboard_time": 1685888852,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238172,
+        "num": 238172,
+        "word": "是谁在设计这种东西",
+        "onboard_time": 1685887890,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227793,
+        "num": 227793,
+        "word": "最早的外卖配送员 走读生",
+        "onboard_time": 1685887474,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222540,
+        "num": 222540,
+        "word": "王鹤棣孟子义不考虑合作现偶吗",
+        "onboard_time": 1685888971,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191118,
+        "num": 191118,
+        "word": "神木",
+        "onboard_time": 1685887772,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219719,
+        "num": 190217,
+        "word": "桃花坞",
+        "onboard_time": 1685888373,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184517,
+        "num": 184517,
+        "word": "多巴胺穿搭",
+        "onboard_time": 1685881111,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 173953,
+        "num": 173953,
+        "word": "梦中的那片海版换乘恋爱",
+        "onboard_time": 1685880687,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173418,
+        "num": 173418,
+        "word": "狼队选手发博告别1.0",
+        "onboard_time": 1685887713,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167991,
+        "num": 167991,
+        "word": "AG",
+        "onboard_time": 1685882607,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170147,
+        "num": 164993,
+        "word": "梦中的那片海预告",
+        "onboard_time": 1685888793,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169887,
+        "num": 164951,
+        "word": "任敏 鸟鸟",
+        "onboard_time": 1685861067,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153723,
+        "num": 153723,
+        "word": "高三学生放学家长齐开车灯照亮前程",
+        "onboard_time": 1685883630,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142253,
+        "num": 142253,
+        "word": "孟子义锐评任敏汤晶媚乐队事件",
+        "onboard_time": 1685859687,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141151,
+        "num": 141151,
+        "word": "seventeen目前年龄",
+        "onboard_time": 1685880087,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138803,
+        "num": 138803,
+        "word": "英语不好也能在国外生存",
+        "onboard_time": 1685876546,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137831,
+        "num": 137831,
+        "word": "四川乐山高位山体塌方14人遇难",
+        "onboard_time": 1685868747,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136543,
+        "num": 136543,
+        "word": "杨紫高洁丝直播",
+        "onboard_time": 1685880447,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124600,
+        "num": 124600,
+        "word": "高考卖花",
+        "onboard_time": 1685880929,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124216,
+        "num": 124216,
+        "word": "88斤女生穿不进去S码牛仔裙",
+        "onboard_time": 1685889153,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#第四批空间科学实验样品顺利交付#"
+    }
+  }
+}

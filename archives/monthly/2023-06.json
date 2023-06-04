@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685888027598,
+  "endTime": 1685889210164,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -56,6 +56,14 @@
       "word": "家属正在安排被撞小学生母亲后事",
       "onboard_time": 1685768309,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2685396,
+      "num": 1686460,
+      "word": "偏肺病毒",
+      "onboard_time": 1685883328,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -219,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1940082,
+      "num": 1940082,
+      "word": "25岁女孩体重只有60多斤",
+      "onboard_time": 1685884349,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1938833,
       "num": 539523,
       "word": "你喜欢大海 我承包岛",
@@ -307,14 +323,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1817393,
-      "num": 1817393,
-      "word": "25岁女孩体重只有60多斤",
-      "onboard_time": 1685884349,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1794101,
       "num": 1370428,
       "word": "柳州",
@@ -353,14 +361,6 @@
       "onboard_time": 1685883570,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1686460,
-      "num": 1686460,
-      "word": "偏肺病毒",
-      "onboard_time": 1685883328,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1680275,
@@ -1259,20 +1259,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 821233,
+      "num": 821233,
+      "word": "全世界都在等你们分手",
+      "onboard_time": 1685882550,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 813062,
+      "num": 813062,
+      "word": "妃子笑荔枝",
+      "onboard_time": 1685885549,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 810195,
       "num": 810195,
       "word": "研究生辞谢信彰显卧龙凤雏",
       "onboard_time": 1685627791,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 807132,
-      "num": 807132,
-      "word": "全世界都在等你们分手",
-      "onboard_time": 1685882550,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 803185,
@@ -1393,14 +1401,6 @@
       "onboard_time": 1685794707,
       "rank": 34,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 713149,
-      "num": 713149,
-      "word": "妃子笑荔枝",
-      "onboard_time": 1685885549,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 710463,
@@ -2001,6 +2001,14 @@
       "onboard_time": 1685791348,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 537789,
+      "num": 537789,
+      "word": "内马尔告别梅西",
+      "onboard_time": 1685887474,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 533960,
@@ -3835,6 +3843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297120,
+      "num": 297120,
+      "word": "尊嘟假嘟",
+      "onboard_time": 1685887351,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 297060,
       "num": 297060,
       "word": "侯明昊周也 双人舞请尽快安排",
@@ -3961,6 +3977,14 @@
       "onboard_time": 1685753188,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288665,
+      "num": 288665,
+      "word": "教育部发布2023高考预警",
+      "onboard_time": 1685886333,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288392,
@@ -4155,14 +4179,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 278483,
-      "num": 278483,
-      "word": "教育部发布2023高考预警",
-      "onboard_time": 1685886333,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 278441,
       "num": 269895,
       "word": "迪丽热巴说还是会拍古装剧偶像剧",
@@ -4316,7 +4332,7 @@
     },
     {
       "raw_hot": 268732,
-      "num": 239325,
+      "num": 267844,
       "word": "极限挑战全员葬爱造型出道",
       "onboard_time": 1685883212,
       "rank": 30,
@@ -4451,6 +4467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 263103,
+      "num": 272816,
+      "word": "恋爱脑的原因",
+      "onboard_time": 1685885970,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 262712,
       "num": 262712,
       "word": "学生网购小石头商家发来7斤大石头",
@@ -4465,6 +4489,14 @@
       "onboard_time": 1685685389,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 262415,
+      "num": 262415,
+      "word": "白鹿出道7年演了17部剧",
+      "onboard_time": 1685888131,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 262242,
@@ -4795,6 +4827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245403,
+      "num": 245403,
+      "word": "宋亚轩中戏汇演",
+      "onboard_time": 1685888852,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244994,
       "num": 189146,
       "word": "这个视频我能笑三天三夜",
@@ -4915,14 +4955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 239538,
-      "num": 239538,
-      "word": "内马尔告别梅西",
-      "onboard_time": 1685887474,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 239142,
       "num": 239142,
       "word": "你最近去过银行网点取钱吗",
@@ -4960,6 +4992,14 @@
       "word": "谈一次恋爱被笑话一辈子",
       "onboard_time": 1685584646,
       "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 238172,
+      "num": 238172,
+      "word": "是谁在设计这种东西",
+      "onboard_time": 1685887890,
+      "rank": 31,
       "category": "幽默"
     },
     {
@@ -5235,6 +5275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227793,
+      "num": 227793,
+      "word": "最早的外卖配送员 走读生",
+      "onboard_time": 1685887474,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 227467,
       "num": 209779,
       "word": "中国说唱 人情世故",
@@ -5339,12 +5387,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223798,
-      "num": 223798,
-      "word": "尊嘟假嘟",
-      "onboard_time": 1685887351,
-      "rank": 26,
-      "category": "作品衍生"
+      "raw_hot": 222540,
+      "num": 222540,
+      "word": "王鹤棣孟子义不考虑合作现偶吗",
+      "onboard_time": 1685888971,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 221535,
@@ -5409,6 +5457,14 @@
       "onboard_time": 1685626772,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 219719,
+      "num": 190217,
+      "word": "桃花坞",
+      "onboard_time": 1685888373,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 219676,
@@ -5883,14 +5939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200959,
-      "num": 200959,
-      "word": "是谁在设计这种东西",
-      "onboard_time": 1685887890,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 200653,
       "num": 200653,
       "word": "张真源黑色花衬衫",
@@ -6219,14 +6267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191404,
-      "num": 191404,
-      "word": "恋爱脑的原因",
-      "onboard_time": 1685885970,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 191383,
       "num": 191383,
       "word": "严浩翔极挑听了什么话",
@@ -6276,7 +6316,7 @@
     },
     {
       "raw_hot": 191029,
-      "num": 204714,
+      "num": 249741,
       "word": "看一只熊猫泡澡看了半分钟",
       "onboard_time": 1685884830,
       "rank": 29,
@@ -7483,14 +7523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152043,
-      "num": 152043,
-      "word": "最早的外卖配送员 走读生",
-      "onboard_time": 1685887474,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 151567,
       "num": 151567,
       "word": "Angelababy赵露思将录制你好星期六",
@@ -7513,6 +7545,14 @@
       "onboard_time": 1685617408,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151193,
+      "num": 480015,
+      "word": "学生教室里假装打架为老师庆生",
+      "onboard_time": 1685887230,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151149,
@@ -8113,6 +8153,14 @@
       "onboard_time": 1685575402,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124216,
+      "num": 124216,
+      "word": "88斤女生穿不进去S码牛仔裙",
+      "onboard_time": 1685889153,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123510,
@@ -9328,14 +9376,6 @@
       "word": "三夏已至农事正忙",
       "onboard_time": 1685779707,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57954,
-      "num": 480015,
-      "word": "学生教室里假装打架为老师庆生",
-      "onboard_time": 1685887230,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
