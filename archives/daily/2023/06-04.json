@@ -1,7 +1,15 @@
 {
   "startTime": 1685809286870,
-  "endTime": 1685860404757,
+  "endTime": 1685862909714,
   "band_list": [
+    {
+      "raw_hot": 2794730,
+      "num": 511446,
+      "word": "石家庄小三",
+      "onboard_time": 1685859987,
+      "rank": 24,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2102301,
       "num": 2102301,
@@ -9,6 +17,14 @@
       "onboard_time": 1685803471,
       "rank": 29,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2089897,
+      "num": 2089897,
+      "word": "因为开玩笑把我哥订婚搅黄了",
+      "onboard_time": 1685854948,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 1956300,
@@ -35,8 +51,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1737403,
-      "num": 1737403,
+      "raw_hot": 1787659,
+      "num": 1787659,
       "word": "任敏哭了",
       "onboard_time": 1685855309,
       "rank": 30,
@@ -67,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1284064,
+      "num": 1284064,
+      "word": "任敏 鸟鸟",
+      "onboard_time": 1685861067,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1226620,
       "num": 414513,
       "word": "香港一精神病人在商场当众捅死2人",
@@ -81,14 +105,6 @@
       "onboard_time": 1685841865,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1173716,
-      "num": 1173716,
-      "word": "因为开玩笑把我哥订婚搅黄了",
-      "onboard_time": 1685854948,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 1132486,
@@ -152,6 +168,14 @@
       "word": "张子豪 淘汰",
       "onboard_time": 1685853927,
       "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 886806,
+      "num": 886806,
+      "word": "孟子义锐评任敏汤晶媚乐队事件",
+      "onboard_time": 1685859687,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -307,6 +331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 420400,
+      "num": 420400,
+      "word": "春花厌 侯明昊",
+      "onboard_time": 1685860826,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 414923,
       "num": 414923,
       "word": "宋茜性格",
@@ -451,6 +483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 325338,
+      "num": 188507,
+      "word": "蔡徐坤与女舞伴热舞",
+      "onboard_time": 1685862869,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 317993,
       "num": 317993,
       "word": "奶奶看小鬼演唱会捂耳朵",
@@ -499,6 +539,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 297373,
+      "num": 297373,
+      "word": "张子豪在淘汰间打电话好心酸",
+      "onboard_time": 1685862327,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 295466,
+      "num": 295466,
+      "word": "肖战对蝴蝶的吸引力",
+      "onboard_time": 1685860587,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 293534,
       "num": 293534,
       "word": "三分野算爆了吗",
@@ -545,6 +601,14 @@
       "onboard_time": 1685846605,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270350,
+      "num": 270350,
+      "word": "小狗守着腐烂狗妈妈尸体不愿离去",
+      "onboard_time": 1685859509,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270321,
@@ -635,6 +699,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 241238,
+      "num": 241238,
+      "word": "直女发言聊天记录",
+      "onboard_time": 1685860946,
+      "rank": 23,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 240437,
       "num": 240437,
       "word": "那天他一下救了三个人",
@@ -665,22 +737,6 @@
       "onboard_time": 1685790448,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 232524,
-      "num": 232524,
-      "word": "石家庄小三",
-      "onboard_time": 1685859987,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231496,
-      "num": 141934,
-      "word": "孟子义锐评任敏汤晶媚乐队事件",
-      "onboard_time": 1685859687,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 231296,
@@ -715,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220350,
+      "num": 210502,
+      "word": "春花厌",
+      "onboard_time": 1685862327,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218758,
       "num": 213423,
       "word": "研究表明宇宙中的一切最终都会蒸发",
@@ -723,12 +787,12 @@
       "category": "科技,自然"
     },
     {
-      "raw_hot": 218261,
-      "num": 218261,
-      "word": "小狗守着腐烂狗妈妈尸体不愿离去",
-      "onboard_time": 1685859509,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 217548,
+      "num": 206152,
+      "word": "卡琳娜发了李龙馥",
+      "onboard_time": 1685862267,
+      "rank": 27,
+      "category": "网红,艺人"
     },
     {
       "raw_hot": 217536,
@@ -803,6 +867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 200763,
+      "num": 200763,
+      "word": "你最近去过银行网点取钱吗",
+      "onboard_time": 1685858728,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200653,
       "num": 200653,
       "word": "张真源黑色花衬衫",
@@ -833,14 +905,6 @@
       "onboard_time": 1685856868,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193879,
-      "num": 193879,
-      "word": "你最近去过银行网点取钱吗",
-      "onboard_time": 1685858728,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193610,
@@ -1043,6 +1107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154711,
+      "num": 154711,
+      "word": "功夫胖淘汰",
+      "onboard_time": 1685861487,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154445,
       "num": 154445,
       "word": "男子路遇怪鸟薄如纸片一查是国二",
@@ -1065,6 +1137,14 @@
       "onboard_time": 1685797169,
       "rank": 38,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 146829,
+      "num": 146829,
+      "word": "孟子义 抓重点",
+      "onboard_time": 1685862806,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 145418,
@@ -1209,6 +1289,14 @@
       "onboard_time": 1685845527,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117631,
+      "num": 117631,
+      "word": "神十七10月出征",
+      "onboard_time": 1685862626,
+      "rank": 48,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 116694,
@@ -1393,6 +1481,14 @@
       "onboard_time": 1685816656,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 45503,
+      "num": 418540,
+      "word": "95后夫妻斗舞决定谁带娃一天",
+      "onboard_time": 1685862028,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22077,
