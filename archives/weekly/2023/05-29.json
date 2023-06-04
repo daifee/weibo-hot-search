@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685889210164,
+  "endTime": 1685891757908,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -2379,6 +2379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 823826,
+      "num": 823826,
+      "word": "王诗龄生图",
+      "onboard_time": 1685889394,
+      "rank": 6,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 819265,
       "num": 552009,
       "word": "四川大学",
@@ -2761,6 +2769,14 @@
       "onboard_time": 1685803712,
       "rank": 8,
       "category": "社会新闻,音乐"
+    },
+    {
+      "raw_hot": 694813,
+      "num": 598634,
+      "word": "王鹤棣孟子义不考虑合作现偶吗",
+      "onboard_time": 1685888971,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 694568,
@@ -3859,6 +3875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 523607,
+      "num": 523607,
+      "word": "教育部发布2023高考预警",
+      "onboard_time": 1685886333,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 522527,
       "num": 522527,
       "word": "那英劝周迅别去浪姐",
@@ -4435,12 +4459,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 460794,
+      "num": 320929,
+      "word": "88斤女生穿不进去S码牛仔裙",
+      "onboard_time": 1685889153,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 460088,
       "num": 299099,
       "word": "腾讯视频三部剧上星",
       "onboard_time": 1685514031,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 459208,
+      "num": 459208,
+      "word": "白桃星座",
+      "onboard_time": 1685285133,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 457732,
@@ -6131,6 +6171,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 338111,
+      "num": 320892,
+      "word": "白鹿出道7年演了17部剧",
+      "onboard_time": 1685888131,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 337870,
       "num": 337870,
       "word": "被砍死柯基主人称未与丈夫和解",
@@ -7411,14 +7459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 288665,
-      "num": 288665,
-      "word": "教育部发布2023高考预警",
-      "onboard_time": 1685886333,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 288392,
       "num": 237444,
       "word": "他送我生日礼物是杯52颗珍珠的奶茶",
@@ -7489,6 +7529,14 @@
       "onboard_time": 1685715934,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 286367,
+      "num": 286367,
+      "word": "薛之谦宜昌加场",
+      "onboard_time": 1685890593,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 286243,
@@ -8003,6 +8051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272218,
+      "num": 272218,
+      "word": "花傲天buff",
+      "onboard_time": 1685891312,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 271792,
       "num": 186628,
       "word": "迪丽热巴工作室 慢",
@@ -8017,6 +8073,14 @@
       "onboard_time": 1685316683,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271635,
+      "num": 271635,
+      "word": "周冠宇",
+      "onboard_time": 1685890353,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 271617,
@@ -8361,14 +8425,6 @@
       "onboard_time": 1685685389,
       "rank": 24,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 262415,
-      "num": 262415,
-      "word": "白鹿出道7年演了17部剧",
-      "onboard_time": 1685888131,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 262382,
@@ -9203,6 +9259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 240975,
+      "num": 240975,
+      "word": "任敏为i做e",
+      "onboard_time": 1685890052,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240785,
       "num": 240785,
       "word": "成都蓉城",
@@ -9313,6 +9377,14 @@
       "onboard_time": 1685584646,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 238473,
+      "num": 238473,
+      "word": "Jennie巡演神图",
+      "onboard_time": 1685889515,
+      "rank": 32,
+      "category": "音乐,时尚"
     },
     {
       "raw_hot": 238385,
@@ -10065,14 +10137,6 @@
       "onboard_time": 1685344948,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 222540,
-      "num": 222540,
-      "word": "王鹤棣孟子义不考虑合作现偶吗",
-      "onboard_time": 1685888971,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 221655,
@@ -10851,6 +10915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206454,
+      "num": 206454,
+      "word": "神木",
+      "onboard_time": 1685887772,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 206301,
       "num": 206301,
       "word": "离职前一定要删的东西",
@@ -10873,14 +10945,6 @@
       "onboard_time": 1685434047,
       "rank": 35,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 205966,
-      "num": 205966,
-      "word": "白桃星座",
-      "onboard_time": 1685285133,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 205832,
@@ -11499,6 +11563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196069,
+      "num": 480015,
+      "word": "学生教室里假装打架为老师庆生",
+      "onboard_time": 1685887230,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196015,
       "num": 196015,
       "word": "StrayKids新歌SClass上线",
@@ -11705,14 +11777,6 @@
       "onboard_time": 1685684790,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192737,
-      "num": 192737,
-      "word": "神木",
-      "onboard_time": 1685887772,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 192664,
@@ -12323,6 +12387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 184014,
+      "num": 184014,
+      "word": "梦中的那片海预告",
+      "onboard_time": 1685633430,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 183941,
       "num": 107153,
       "word": "花戎又土又上头",
@@ -12601,14 +12673,6 @@
       "onboard_time": 1685347587,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 179739,
-      "num": 179739,
-      "word": "梦中的那片海预告",
-      "onboard_time": 1685633430,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 179092,
@@ -13017,6 +13081,14 @@
       "onboard_time": 1685465482,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169241,
+      "num": 169241,
+      "word": "汤晶媚任敏我们和好啦",
+      "onboard_time": 1685891491,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 169057,
@@ -13979,14 +14051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151193,
-      "num": 480015,
-      "word": "学生教室里假装打架为老师庆生",
-      "onboard_time": 1685887230,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151149,
       "num": 151149,
       "word": "阿信",
@@ -14369,6 +14433,14 @@
       "onboard_time": 1685450373,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139948,
+      "num": 139948,
+      "word": "LGD夏季赛首周冠军",
+      "onboard_time": 1685889451,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 139943,
@@ -15033,14 +15105,6 @@
       "onboard_time": 1685329348,
       "rank": 47,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 124216,
-      "num": 124216,
-      "word": "88斤女生穿不进去S码牛仔裙",
-      "onboard_time": 1685889153,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124173,
@@ -16969,6 +17033,14 @@
       "onboard_time": 1685466199,
       "rank": 48,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 54440,
+      "num": 500786,
+      "word": "高考临近阿姨们在夜店里跳广场舞",
+      "onboard_time": 1685890897,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53349,
