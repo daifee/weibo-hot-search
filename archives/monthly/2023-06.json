@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685914412101,
+  "endTime": 1685916904707,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -7867,6 +7867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 144932,
+      "num": 70279,
+      "word": "离异男子独自养儿到17岁发现非亲生",
+      "onboard_time": 1685890114,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143323,
       "num": 137556,
       "word": "JYP艺人回归时间表",
@@ -9427,14 +9435,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 70279,
-      "num": 70279,
-      "word": "离异男子独自养儿到17岁发现非亲生",
-      "onboard_time": 1685890114,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 70247,
       "num": 70247,
       "word": "迪丽热巴虞书欣张元英神女造型",
@@ -9601,6 +9601,14 @@
       "onboard_time": 1685779707,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57788,
+      "num": 57788,
+      "word": "梦中的那片海塑造的女性",
+      "onboard_time": 1685901674,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 56826,
@@ -9795,6 +9803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43863,
+      "num": 32750,
+      "word": "汤晶媚跟任敏道歉",
+      "onboard_time": 1685910851,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 41028,
       "num": 41028,
       "word": "亲耳聆听了一场大女人发言",
@@ -9843,14 +9859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 34519,
-      "num": 36541,
-      "word": "梦中的那片海塑造的女性",
-      "onboard_time": 1685901674,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 33555,
       "num": 1441296,
       "word": "带着我的梦想上天宫",
@@ -9883,6 +9891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31325,
+      "num": 31325,
+      "word": "肖春生真挨了一管叉",
+      "onboard_time": 1685914212,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 30928,
       "num": 1048401,
       "word": "中国好书六一专榜",
@@ -9899,6 +9915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30467,
+      "num": 30467,
+      "word": "梅西回应内马尔",
+      "onboard_time": 1685895386,
+      "rank": 33,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 30302,
       "num": 31762,
       "word": "德克萨斯",
@@ -9913,22 +9937,6 @@
       "onboard_time": 1685627491,
       "rank": 27,
       "category": "科技"
-    },
-    {
-      "raw_hot": 29156,
-      "num": 25593,
-      "word": "梅西回应内马尔",
-      "onboard_time": 1685895386,
-      "rank": 33,
-      "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 28999,
-      "num": 21049,
-      "word": "汤晶媚跟任敏道歉",
-      "onboard_time": 1685910851,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 28689,
@@ -9977,6 +9985,14 @@
       "onboard_time": 1685730796,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 22158,
+      "num": 24431,
+      "word": "聚焦全国高考",
+      "onboard_time": 1685914272,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22077,
@@ -10033,22 +10049,6 @@
       "onboard_time": 1685644813,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 10486,
-      "num": 16798,
-      "word": "肖春生真挨了一管叉",
-      "onboard_time": 1685914212,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 10363,
-      "num": 16796,
-      "word": "聚焦全国高考",
-      "onboard_time": 1685914272,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9934,
