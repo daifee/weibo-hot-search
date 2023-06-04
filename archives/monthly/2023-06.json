@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685882802769,
+  "endTime": 1685884672614,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -169,6 +169,14 @@
       "onboard_time": 1685539529,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2017254,
+      "num": 2017254,
+      "word": "爷爷把微信当书信用",
+      "onboard_time": 1685875886,
+      "rank": 11,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1995855,
@@ -473,14 +481,6 @@
       "onboard_time": 1685843365,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1461324,
-      "num": 1461324,
-      "word": "爷爷把微信当书信用",
-      "onboard_time": 1685875886,
-      "rank": 11,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1456021,
@@ -1065,6 +1065,14 @@
       "onboard_time": 1685630192,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 946214,
+      "num": 678202,
+      "word": "杨紫 唯一纯白茉莉花",
+      "onboard_time": 1685883570,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 938912,
@@ -1675,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 597405,
+      "num": 597405,
+      "word": "黑莲花 成毅",
+      "onboard_time": 1685883328,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 597309,
       "num": 597309,
       "word": "梦中的那片海",
@@ -1745,6 +1761,14 @@
       "onboard_time": 1685672847,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 582223,
+      "num": 582223,
+      "word": "宋雨琦奔跑吧12期只录了4期",
+      "onboard_time": 1685883630,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 581836,
@@ -2195,6 +2219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 470571,
+      "num": 398823,
+      "word": "孟子义用的什么化妆品",
+      "onboard_time": 1685879429,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 470177,
       "num": 300794,
       "word": "吴磊广州",
@@ -2507,6 +2539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 417769,
+      "num": 417769,
+      "word": "高考卖花",
+      "onboard_time": 1685880929,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417227,
       "num": 417227,
       "word": "阚清子",
@@ -2571,6 +2611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 404607,
+      "num": 297620,
+      "word": "偏肺病毒",
+      "onboard_time": 1685883328,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 404400,
       "num": 404400,
       "word": "虞书欣妆造",
@@ -2601,14 +2649,6 @@
       "onboard_time": 1685574561,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 398823,
-      "num": 398823,
-      "word": "孟子义用的什么化妆品",
-      "onboard_time": 1685879429,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 398755,
@@ -2723,6 +2763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388550,
+      "num": 294955,
+      "word": "全世界都在等你们分手",
+      "onboard_time": 1685882550,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 388335,
       "num": 344789,
       "word": "Angelababy白鹿镜头时长",
@@ -2745,14 +2793,6 @@
       "onboard_time": 1685720489,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 385249,
-      "num": 385249,
-      "word": "高考卖花",
-      "onboard_time": 1685880929,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 383202,
@@ -3089,6 +3129,14 @@
       "onboard_time": 1685697092,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 343034,
+      "num": 343034,
+      "word": "蔡徐坤王一博同款舞姿",
+      "onboard_time": 1685882848,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 341004,
@@ -3555,6 +3603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 309860,
+      "num": 309860,
+      "word": "AG",
+      "onboard_time": 1685882607,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 309663,
       "num": 309663,
       "word": "官方回应昆明一幼儿园3岁女童死亡",
@@ -3963,6 +4019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284819,
+      "num": 284819,
+      "word": "梦中的那片海版换乘恋爱",
+      "onboard_time": 1685880687,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 284271,
       "num": 284271,
       "word": "小狗守着腐烂狗妈妈尸体不愿离去",
@@ -4025,6 +4089,14 @@
       "onboard_time": 1685695466,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 279318,
+      "num": 279318,
+      "word": "OMG战胜WBG",
+      "onboard_time": 1685882970,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 279256,
@@ -4457,14 +4529,6 @@
       "onboard_time": 1685798008,
       "rank": 32,
       "category": "网红"
-    },
-    {
-      "raw_hot": 258386,
-      "num": 177705,
-      "word": "梦中的那片海版换乘恋爱",
-      "onboard_time": 1685880687,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 258139,
@@ -5299,6 +5363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 218795,
+      "num": 274937,
+      "word": "点10斤小龙虾上餐后称重仅5斤",
+      "onboard_time": 1685882909,
+      "rank": 24,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 218758,
       "num": 213423,
       "word": "研究表明宇宙中的一切最终都会蒸发",
@@ -5667,6 +5739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205242,
+      "num": 205242,
+      "word": "极限挑战全员葬爱造型出道",
+      "onboard_time": 1685883212,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204021,
       "num": 204021,
       "word": "司机倒车坠河他们一个个冲了过来",
@@ -5817,14 +5897,6 @@
       "onboard_time": 1685625088,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198617,
-      "num": 198617,
-      "word": "AG",
-      "onboard_time": 1685882607,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 198121,
@@ -7068,7 +7140,7 @@
     },
     {
       "raw_hot": 159043,
-      "num": 175227,
+      "num": 206018,
       "word": "中国女排世联赛4连胜",
       "onboard_time": 1685879189,
       "rank": 29,
@@ -7129,6 +7201,14 @@
       "onboard_time": 1685692167,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156742,
+      "num": 156742,
+      "word": "25岁女孩体重只有60多斤",
+      "onboard_time": 1685884349,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156661,
@@ -7467,6 +7547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146973,
+      "num": 146973,
+      "word": "谢谢你本泽马",
+      "onboard_time": 1685880867,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145418,
       "num": 145418,
       "word": "无食欲拍照大法",
@@ -7627,14 +7715,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 135580,
-      "num": 135580,
-      "word": "全世界都在等你们分手",
-      "onboard_time": 1685882550,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 135511,
       "num": 135511,
       "word": "杨紫出发长春路透",
@@ -7648,6 +7728,14 @@
       "word": "深圳供电局再回应城中村晚上停电",
       "onboard_time": 1685707112,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135314,
+      "num": 385860,
+      "word": "高考是人生一战也是人生一站",
+      "onboard_time": 1685880087,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -7897,14 +7985,6 @@
       "onboard_time": 1685849367,
       "rank": 44,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 125750,
-      "num": 125750,
-      "word": "谢谢你本泽马",
-      "onboard_time": 1685880867,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 125732,
@@ -8483,14 +8563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102209,
-      "num": 385860,
-      "word": "高考是人生一战也是人生一站",
-      "onboard_time": 1685880087,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 100628,
       "num": 100628,
       "word": "黄渤看到岳云鹏新发型的反应",
@@ -8843,6 +8915,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 76125,
+      "num": 389887,
+      "word": "高三学生放学家长齐开车灯照亮前程",
+      "onboard_time": 1685883630,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76054,
       "num": 99264,
       "word": "神十五搜救空中分队已准备就位",
@@ -9065,6 +9145,14 @@
       "onboard_time": 1685783907,
       "rank": 47,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 61089,
+      "num": 1233993,
+      "word": "圆梦乘组的高清笑颜",
+      "onboard_time": 1685882668,
+      "rank": 2,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 61053,
@@ -9555,14 +9643,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 8815,
-      "num": 1233993,
-      "word": "圆梦乘组的高清笑颜",
-      "onboard_time": 1685882668,
-      "rank": 2,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 5391,
       "num": 578183,
       "word": "无限画里的童年",
@@ -9625,6 +9705,9 @@
     },
     {
       "word": "#一起保护好传承好历史文化#"
+    },
+    {
+      "word": "#第四批空间科学实验样品顺利交付#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1685884672614,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2017254,
+        "num": 2017254,
+        "word": "爷爷把微信当书信用",
+        "onboard_time": 1685875886,
+        "rank": 0,
+        "category": "情感,科技"
+      },
+      {
+        "raw_hot": 735035,
+        "num": 735035,
+        "word": "男子为考清华复读14年",
+        "onboard_time": 1685871806,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 61089,
+        "num": 720861,
+        "word": "圆梦乘组的高清笑颜",
+        "onboard_time": 1685882668,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1148193,
+        "num": 699645,
+        "word": "宋茜做错了什么",
+        "onboard_time": 1685878168,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 946214,
+        "num": 678202,
+        "word": "杨紫 唯一纯白茉莉花",
+        "onboard_time": 1685883570,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1292413,
+        "num": 664398,
+        "word": "国内出现偏肺病毒感染",
+        "onboard_time": 1685875344,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655757,
+        "num": 655757,
+        "word": "沈月cos陈小希",
+        "onboard_time": 1685873726,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 597405,
+        "num": 597405,
+        "word": "黑莲花 成毅",
+        "onboard_time": 1685883328,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 582223,
+        "num": 582223,
+        "word": "宋雨琦奔跑吧12期只录了4期",
+        "onboard_time": 1685883630,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417769,
+        "num": 417769,
+        "word": "高考卖花",
+        "onboard_time": 1685880929,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1733940,
+        "num": 412094,
+        "word": "市监局再次确认高校饭菜异物是鸭脖",
+        "onboard_time": 1685876487,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1071665,
+        "num": 409684,
+        "word": "清清恋爱",
+        "onboard_time": 1685880146,
+        "rank": 11,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 683131,
+        "num": 401300,
+        "word": "爆剧最多的女演员",
+        "onboard_time": 1685869707,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 527443,
+        "num": 396811,
+        "word": "宋茜汤晶媚聊天门遭罪",
+        "onboard_time": 1685866048,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76125,
+        "num": 389887,
+        "word": "高三学生放学家长齐开车灯照亮前程",
+        "onboard_time": 1685883630,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470571,
+        "num": 379476,
+        "word": "孟子义用的什么化妆品",
+        "onboard_time": 1685879429,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377726,
+        "num": 377726,
+        "word": "为什么没人捞张子豪",
+        "onboard_time": 1685876546,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343034,
+        "num": 343034,
+        "word": "蔡徐坤王一博同款舞姿",
+        "onboard_time": 1685882848,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 309860,
+        "num": 309860,
+        "word": "AG",
+        "onboard_time": 1685882607,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 301163,
+        "num": 301163,
+        "word": "多巴胺穿搭",
+        "onboard_time": 1685881111,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 404607,
+        "num": 297620,
+        "word": "偏肺病毒",
+        "onboard_time": 1685883328,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388550,
+        "num": 294955,
+        "word": "全世界都在等你们分手",
+        "onboard_time": 1685882550,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284819,
+        "num": 284819,
+        "word": "梦中的那片海版换乘恋爱",
+        "onboard_time": 1685880687,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279318,
+        "num": 279318,
+        "word": "OMG战胜WBG",
+        "onboard_time": 1685882970,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218795,
+        "num": 274937,
+        "word": "点10斤小龙虾上餐后称重仅5斤",
+        "onboard_time": 1685882909,
+        "rank": 24,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 274242,
+        "num": 274242,
+        "word": "seventeen目前年龄",
+        "onboard_time": 1685880087,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242898,
+        "num": 242898,
+        "word": "任敏 鸟鸟",
+        "onboard_time": 1685861067,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242736,
+        "num": 242736,
+        "word": "杨紫高洁丝直播",
+        "onboard_time": 1685880447,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208374,
+        "num": 208374,
+        "word": "孟子义锐评任敏汤晶媚乐队事件",
+        "onboard_time": 1685859687,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112627,
+        "num": 206018,
+        "word": "中国女排世联赛4连胜",
+        "onboard_time": 1685879189,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205242,
+        "num": 205242,
+        "word": "极限挑战全员葬爱造型出道",
+        "onboard_time": 1685883212,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176237,
+        "num": 176237,
+        "word": "英语不好也能在国外生存",
+        "onboard_time": 1685876546,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203977,
+        "num": 172428,
+        "word": "黄晓明 清澈的愚蠢",
+        "onboard_time": 1685878407,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163362,
+        "num": 163362,
+        "word": "31岁孤独症康复师离世捐出全部器官",
+        "onboard_time": 1685879008,
+        "rank": 33,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 156742,
+        "num": 156742,
+        "word": "25岁女孩体重只有60多斤",
+        "onboard_time": 1685884349,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192759,
+        "num": 155549,
+        "word": "王一栩探班成毅李一桐",
+        "onboard_time": 1685881111,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164072,
+        "num": 152778,
+        "word": "金在中去看了金泰妍演唱会",
+        "onboard_time": 1685879608,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147331,
+        "num": 147331,
+        "word": "我的脸被隐翅虫毁容了",
+        "onboard_time": 1685849424,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146973,
+        "num": 146973,
+        "word": "谢谢你本泽马",
+        "onboard_time": 1685880867,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144300,
+        "num": 144300,
+        "word": "女子考科三系错安全带考官面如死灰",
+        "onboard_time": 1685871086,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 156821,
+        "num": 142150,
+        "word": "薛之谦演唱会拿到张杰荧光棒",
+        "onboard_time": 1685870728,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153733,
+        "num": 139462,
+        "word": "小S大女儿获韩国舞蹈大赛第一名",
+        "onboard_time": 1685863948,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144547,
+        "num": 137900,
+        "word": "蜘蛛侠",
+        "onboard_time": 1685869408,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135314,
+        "num": 135314,
+        "word": "高考是人生一战也是人生一站",
+        "onboard_time": 1685880087,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 827794,
+        "num": 133265,
+        "word": "刘亦菲林志颖20年前合照",
+        "onboard_time": 1685878407,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129261,
+        "num": 129261,
+        "word": "隐翅虫 重楼解毒酊",
+        "onboard_time": 1685872466,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126391,
+        "num": 126391,
+        "word": "极限挑战",
+        "onboard_time": 1685877987,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448378,
+        "num": 125259,
+        "word": "何炅的身材这么好吗",
+        "onboard_time": 1685865928,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117428,
+        "num": 117428,
+        "word": "贵州村超",
+        "onboard_time": 1685881768,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112108,
+        "num": 112108,
+        "word": "张子豪 淘汰",
+        "onboard_time": 1685853927,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#第四批空间科学实验样品顺利交付#"
+    }
+  }
+}
