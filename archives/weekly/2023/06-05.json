@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1685920597253,
+  "endTime": 1685921607899,
   "band_list": [
     {
       "raw_hot": 1760114,
@@ -123,20 +123,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 355231,
+      "num": 355231,
+      "word": "教育部发布2023高考预警",
+      "onboard_time": 1685886333,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352922,
+      "num": 311521,
+      "word": "女子游野泳溺亡家属索赔166万被驳",
+      "onboard_time": 1685920162,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352908,
       "num": 336760,
       "word": "为什么没人捞张子豪",
       "onboard_time": 1685876546,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 350451,
-      "num": 350451,
-      "word": "教育部发布2023高考预警",
-      "onboard_time": 1685886333,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 345003,
@@ -161,6 +169,22 @@
       "onboard_time": 1685895625,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268734,
+      "num": 268734,
+      "word": "伊布宣布退役",
+      "onboard_time": 1685920521,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 257081,
+      "num": 257081,
+      "word": "日本女团成员灌男粉喝洗洁精",
+      "onboard_time": 1685920400,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244758,
@@ -243,6 +267,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 165701,
+      "num": 165701,
+      "word": "点10斤小龙虾上餐后称重仅5斤",
+      "onboard_time": 1685882909,
+      "rank": 32,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 158755,
       "num": 158755,
       "word": "周冠宇",
@@ -257,14 +289,6 @@
       "onboard_time": 1685890052,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157333,
-      "num": 157333,
-      "word": "点10斤小龙虾上餐后称重仅5斤",
-      "onboard_time": 1685882909,
-      "rank": 32,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 153551,
@@ -307,12 +331,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 132499,
-      "num": 132499,
+      "raw_hot": 146476,
+      "num": 146476,
       "word": "梅西回应内马尔",
       "onboard_time": 1685895386,
       "rank": 33,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 134495,
+      "num": 134495,
+      "word": "做拔智齿手术要提前录个音",
+      "onboard_time": 1685920581,
+      "rank": 26,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 132407,
@@ -347,20 +379,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 128781,
-      "num": 113339,
-      "word": "伊布宣布退役",
-      "onboard_time": 1685920521,
-      "rank": 22,
-      "category": "体育"
+      "raw_hot": 126613,
+      "num": 126613,
+      "word": "不愧是冠军亚军的实力",
+      "onboard_time": 1685919679,
+      "rank": 23,
+      "category": "音乐"
     },
     {
-      "raw_hot": 124324,
-      "num": 88768,
-      "word": "女子游野泳溺亡家属索赔166万被驳",
-      "onboard_time": 1685920162,
+      "raw_hot": 125308,
+      "num": 100773,
+      "word": "佛学院学生玩密室遇到吓人的念经",
+      "onboard_time": 1685920941,
       "rank": 30,
-      "category": "社会新闻"
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 117247,
@@ -385,14 +417,6 @@
       "onboard_time": 1685892151,
       "rank": 42,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 112299,
-      "num": 112299,
-      "word": "不愧是冠军亚军的实力",
-      "onboard_time": 1685919679,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 106100,
@@ -435,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97228,
+      "num": 97228,
+      "word": "苏醒一切以非官宣为主",
+      "onboard_time": 1685920400,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97043,
       "num": 97043,
       "word": "肖春生颠儿了",
@@ -443,12 +475,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 94802,
-      "num": 94802,
-      "word": "做拔智齿手术要提前录个音",
-      "onboard_time": 1685920581,
-      "rank": 26,
-      "category": "社会新闻,幽默"
+      "raw_hot": 90689,
+      "num": 90689,
+      "word": "肖春生真挨了一管叉",
+      "onboard_time": 1685914212,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 90376,
@@ -459,11 +491,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 89742,
-      "num": 89742,
-      "word": "肖春生真挨了一管叉",
-      "onboard_time": 1685914212,
-      "rank": 48,
+      "raw_hot": 90317,
+      "num": 87807,
+      "word": "肖战玉骨遥8月备播",
+      "onboard_time": 1685921241,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -491,11 +523,35 @@
       "category": "作品衍生,情感"
     },
     {
-      "raw_hot": 79105,
-      "num": 79105,
-      "word": "日本女团成员灌男粉喝洗洁精",
-      "onboard_time": 1685920400,
-      "rank": 36,
+      "raw_hot": 83454,
+      "num": 83454,
+      "word": "伴侣应该选择相似的还是互补的",
+      "onboard_time": 1685920281,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 70924,
+      "num": 70924,
+      "word": "暑假神剧西游记",
+      "onboard_time": 1685919679,
+      "rank": 41,
+      "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 70106,
+      "num": 70106,
+      "word": "长月烬明里究竟谁扛剧",
+      "onboard_time": 1685921302,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 65883,
+      "num": 65883,
+      "word": "700多年前满是花花的画太惊艳",
+      "onboard_time": 1685919679,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -507,20 +563,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 60005,
-      "num": 60005,
-      "word": "暑假神剧西游记",
-      "onboard_time": 1685919679,
-      "rank": 41,
-      "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 50507,
-      "num": 50507,
-      "word": "伴侣应该选择相似的还是互补的",
-      "onboard_time": 1685920281,
-      "rank": 46,
-      "category": "情感"
+      "raw_hot": 62535,
+      "num": 62535,
+      "word": "你会尝试多巴胺穿搭吗",
+      "onboard_time": 1685920339,
+      "rank": 47,
+      "category": "时尚"
     },
     {
       "raw_hot": 49996,
@@ -563,7 +611,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 34693,
+      "raw_hot": 34920,
       "num": 760480,
       "word": "圆梦乘组的高清笑颜",
       "onboard_time": 1685882668,
