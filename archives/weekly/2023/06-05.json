@@ -1,7 +1,15 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1685918036108,
+  "endTime": 1685920597253,
   "band_list": [
+    {
+      "raw_hot": 1760114,
+      "num": 1760114,
+      "word": "男子连吃100天麦当劳减重53斤",
+      "onboard_time": 1685893707,
+      "rank": 10,
+      "category": "社会新闻,美食"
+    },
     {
       "raw_hot": 1592709,
       "num": 242302,
@@ -9,14 +17,6 @@
       "onboard_time": 1685893230,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1341404,
-      "num": 1341404,
-      "word": "男子连吃100天麦当劳减重53斤",
-      "onboard_time": 1685893707,
-      "rank": 10,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1294356,
@@ -91,6 +91,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 407985,
+      "num": 216886,
+      "word": "离异男子独自养儿到17岁发现非亲生",
+      "onboard_time": 1685890114,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 388483,
       "num": 388483,
       "word": "25岁女孩体重只有60多斤",
@@ -123,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 350451,
+      "num": 350451,
+      "word": "教育部发布2023高考预警",
+      "onboard_time": 1685886333,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345003,
       "num": 345003,
       "word": "爷爷把微信当书信用",
@@ -145,14 +161,6 @@
       "onboard_time": 1685895625,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 270121,
-      "num": 270121,
-      "word": "教育部发布2023高考预警",
-      "onboard_time": 1685886333,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 244758,
@@ -187,11 +195,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 216886,
-      "num": 216886,
-      "word": "离异男子独自养儿到17岁发现非亲生",
-      "onboard_time": 1685890114,
-      "rank": 38,
+      "raw_hot": 185594,
+      "num": 185594,
+      "word": "高考临近阿姨们在夜店里跳广场舞",
+      "onboard_time": 1685890897,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -235,14 +243,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 164359,
-      "num": 164359,
-      "word": "高考临近阿姨们在夜店里跳广场舞",
-      "onboard_time": 1685890897,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158755,
       "num": 158755,
       "word": "周冠宇",
@@ -259,8 +259,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154398,
-      "num": 154398,
+      "raw_hot": 157333,
+      "num": 157333,
       "word": "点10斤小龙虾上餐后称重仅5斤",
       "onboard_time": 1685882909,
       "rank": 32,
@@ -299,6 +299,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147612,
+      "num": 147612,
+      "word": "梦中的那片海塑造的女性",
+      "onboard_time": 1685901674,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 132499,
+      "num": 132499,
+      "word": "梅西回应内马尔",
+      "onboard_time": 1685895386,
+      "rank": 33,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 132407,
       "num": 132407,
       "word": "薛之谦宜昌加场",
@@ -331,6 +347,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128781,
+      "num": 113339,
+      "word": "伊布宣布退役",
+      "onboard_time": 1685920521,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 124324,
+      "num": 88768,
+      "word": "女子游野泳溺亡家属索赔166万被驳",
+      "onboard_time": 1685920162,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117247,
       "num": 117247,
       "word": "总要拿出时间去自在的朋友身边",
@@ -353,6 +385,14 @@
       "onboard_time": 1685892151,
       "rank": 42,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 112299,
+      "num": 112299,
+      "word": "不愧是冠军亚军的实力",
+      "onboard_time": 1685919679,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 106100,
@@ -403,10 +443,26 @@
       "category": "影视"
     },
     {
+      "raw_hot": 94802,
+      "num": 94802,
+      "word": "做拔智齿手术要提前录个音",
+      "onboard_time": 1685920581,
+      "rank": 26,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 90376,
       "num": 90376,
       "word": "照亮你",
       "onboard_time": 1685893888,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 89742,
+      "num": 89742,
+      "word": "肖春生真挨了一管叉",
+      "onboard_time": 1685914212,
       "rank": 48,
       "category": "影视"
     },
@@ -419,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87736,
+      "num": 87736,
+      "word": "卡车司机车内搭窝收养三只小猫",
+      "onboard_time": 1685898139,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84751,
       "num": 84751,
       "word": "焦虑就是不信任",
@@ -427,12 +491,12 @@
       "category": "作品衍生,情感"
     },
     {
-      "raw_hot": 82187,
-      "num": 82187,
-      "word": "梦中的那片海塑造的女性",
-      "onboard_time": 1685901674,
-      "rank": 47,
-      "category": "影视"
+      "raw_hot": 79105,
+      "num": 79105,
+      "word": "日本女团成员灌男粉喝洗洁精",
+      "onboard_time": 1685920400,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65220,
@@ -443,20 +507,28 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 49733,
-      "num": 49733,
-      "word": "梅西回应内马尔",
-      "onboard_time": 1685895386,
-      "rank": 33,
-      "category": "体育,社会新闻"
+      "raw_hot": 60005,
+      "num": 60005,
+      "word": "暑假神剧西游记",
+      "onboard_time": 1685919679,
+      "rank": 41,
+      "category": "影视,幽默"
     },
     {
-      "raw_hot": 48987,
-      "num": 57873,
-      "word": "卡车司机车内搭窝收养三只小猫",
-      "onboard_time": 1685898139,
+      "raw_hot": 50507,
+      "num": 50507,
+      "word": "伴侣应该选择相似的还是互补的",
+      "onboard_time": 1685920281,
       "rank": 46,
-      "category": "社会新闻"
+      "category": "情感"
+    },
+    {
+      "raw_hot": 49996,
+      "num": 49996,
+      "word": "路人一把拉出陷入泥潭的小马驹",
+      "onboard_time": 1685920339,
+      "rank": 47,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 46958,
@@ -483,14 +555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 44194,
-      "num": 44194,
-      "word": "肖春生真挨了一管叉",
-      "onboard_time": 1685914212,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 39135,
       "num": 39135,
       "word": "不应该丧失对感情的信心",
@@ -499,7 +563,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 26612,
+      "raw_hot": 34693,
       "num": 760480,
       "word": "圆梦乘组的高清笑颜",
       "onboard_time": 1685882668,
