@@ -1,0 +1,410 @@
+{
+  "runTime": 1685845543790,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2102301,
+        "num": 2102301,
+        "word": "女孩家长称黄渤赠送手表未送给弟弟",
+        "onboard_time": 1685803471,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1659092,
+        "num": 1659092,
+        "word": "千万不要把水果当饭吃",
+        "onboard_time": 1685838263,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104965,
+        "num": 1285177,
+        "word": "神十五航天员回地球",
+        "onboard_time": 1685802812,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1070604,
+        "num": 1070604,
+        "word": "我曾一度认为是超市算错了",
+        "onboard_time": 1685840423,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 890127,
+        "num": 890127,
+        "word": "你觉得椰树直播算擦边吗",
+        "onboard_time": 1685843365,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 722158,
+        "num": 722158,
+        "word": "那英送何炅的衣服竟然是童装",
+        "onboard_time": 1685839106,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 667281,
+        "num": 667281,
+        "word": "一人说一个奇怪的生理反应",
+        "onboard_time": 1685804011,
+        "rank": 6,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 486617,
+        "num": 486617,
+        "word": "五月天鸟巢尾场唱任意门",
+        "onboard_time": 1685842406,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 388572,
+        "num": 388572,
+        "word": "萌娃检查身体时突然向医生wink",
+        "onboard_time": 1685833277,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359480,
+        "num": 359480,
+        "word": "梅西自宣离队",
+        "onboard_time": 1685807790,
+        "rank": 9,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 715051,
+        "num": 358803,
+        "word": "姑姑拍到侄女做梦吃雪糕",
+        "onboard_time": 1685841865,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572676,
+        "num": 356036,
+        "word": "原配抓小三路人帮腔大骂男方不要脸",
+        "onboard_time": 1685801973,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307786,
+        "num": 307786,
+        "word": "香港一精神病人在商场当众捅死2人",
+        "onboard_time": 1685800528,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300081,
+        "num": 300081,
+        "word": "Angelababy奔跑吧时长",
+        "onboard_time": 1685841806,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281224,
+        "num": 281224,
+        "word": "转发这个甄嬛万事皆如你所愿",
+        "onboard_time": 1685844506,
+        "rank": 14,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 411765,
+        "num": 279454,
+        "word": "学术妲己",
+        "onboard_time": 1685843785,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 275424,
+        "num": 275424,
+        "word": "陈伟霆亲到耳朵红了",
+        "onboard_time": 1685792367,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268668,
+        "num": 268668,
+        "word": "在年代剧里遇到了crush",
+        "onboard_time": 1685843846,
+        "rank": 17,
+        "category": "影视,情感"
+      },
+      {
+        "raw_hot": 266947,
+        "num": 266947,
+        "word": "张小狮 大树",
+        "onboard_time": 1685806172,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 261871,
+        "num": 261871,
+        "word": "女孩父母回应网传黄渤放弃资助",
+        "onboard_time": 1685793568,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 380179,
+        "num": 261863,
+        "word": "QQ音乐豪华绿钻续费价格上调",
+        "onboard_time": 1685840364,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 260906,
+        "num": 260906,
+        "word": "杨紫撑伞回眸",
+        "onboard_time": 1685838743,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200922,
+        "num": 200922,
+        "word": "蔡徐坤演唱会大型蹦迪现场",
+        "onboard_time": 1685841204,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203700,
+        "num": 200863,
+        "word": "杨紫回眸生图vs精修",
+        "onboard_time": 1685844747,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200653,
+        "num": 200653,
+        "word": "张真源黑色花衬衫",
+        "onboard_time": 1685844506,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 185199,
+        "num": 185199,
+        "word": "2023高考",
+        "onboard_time": 1685841743,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 173064,
+        "num": 173064,
+        "word": "流浪地球 好听",
+        "onboard_time": 1685843666,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161835,
+        "num": 161835,
+        "word": "田柾国将solo出道",
+        "onboard_time": 1685839284,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158499,
+        "num": 158499,
+        "word": "杨和苏怎么输的",
+        "onboard_time": 1685845167,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158307,
+        "num": 158307,
+        "word": "为何男性比女性更显老",
+        "onboard_time": 1685843246,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 454531,
+        "num": 158298,
+        "word": "成都七中一学生被开除",
+        "onboard_time": 1685804552,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213942,
+        "num": 155336,
+        "word": "甄嬛金句台词",
+        "onboard_time": 1685844567,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151600,
+        "num": 151600,
+        "word": "永远不要通过伤害自己自证",
+        "onboard_time": 1685842826,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146157,
+        "num": 146157,
+        "word": "梦海 cvb",
+        "onboard_time": 1685841506,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144354,
+        "num": 144354,
+        "word": "三分野算爆了吗",
+        "onboard_time": 1685800650,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143326,
+        "num": 143326,
+        "word": "14岁女生心脏骤停教室上演生死救援",
+        "onboard_time": 1685804133,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 140826,
+        "num": 140826,
+        "word": "肖战撞脸狗狗表情包",
+        "onboard_time": 1685833036,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138569,
+        "num": 138569,
+        "word": "阿信说谢谢华晨宇同台飙歌",
+        "onboard_time": 1685836340,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136618,
+        "num": 136618,
+        "word": "杭州一碗面动辄三四十",
+        "onboard_time": 1685807730,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130530,
+        "num": 130530,
+        "word": "井胧追星张杰成功",
+        "onboard_time": 1685835740,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129834,
+        "num": 129834,
+        "word": "公司要求自带电脑上班不合格就充公",
+        "onboard_time": 1685833277,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122228,
+        "num": 122228,
+        "word": "QQ音乐回应豪华绿钻续费价格上调",
+        "onboard_time": 1685844025,
+        "rank": 41,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 121464,
+        "num": 121464,
+        "word": "男子路遇怪鸟薄如纸片一查是国二",
+        "onboard_time": 1685837963,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117557,
+        "num": 117557,
+        "word": "黄渤回应贫困女孩争议",
+        "onboard_time": 1685793386,
+        "rank": 43,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 113105,
+        "num": 113105,
+        "word": "叶舒华说等洪恩採长大",
+        "onboard_time": 1685835920,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111615,
+        "num": 111615,
+        "word": "巴黎官宣梅西离队",
+        "onboard_time": 1685834597,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110873,
+        "num": 110873,
+        "word": "重启天涯直播7天7夜仅带货36万",
+        "onboard_time": 1685845527,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106177,
+        "num": 106177,
+        "word": "监控里听到妈妈声音后的小狗",
+        "onboard_time": 1685844085,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 102022,
+        "num": 102022,
+        "word": "被蚊子咬到正确的处理方式",
+        "onboard_time": 1685809287,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 101767,
+        "num": 101767,
+        "word": "黄奕45岁穿校服状态",
+        "onboard_time": 1685804552,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力建设中华民族现代文明#"
+    }
+  }
+}

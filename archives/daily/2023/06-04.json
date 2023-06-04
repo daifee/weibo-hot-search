@@ -1,10 +1,10 @@
 {
   "startTime": 1685809286870,
-  "endTime": 1685844038629,
+  "endTime": 1685845543790,
   "band_list": [
     {
-      "raw_hot": 1939890,
-      "num": 1939890,
+      "raw_hot": 2102301,
+      "num": 2102301,
       "word": "女孩家长称黄渤赠送手表未送给弟弟",
       "onboard_time": 1685803471,
       "rank": 29,
@@ -51,8 +51,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 991998,
-      "num": 991998,
+      "raw_hot": 1070604,
+      "num": 1070604,
       "word": "我曾一度认为是超市算错了",
       "onboard_time": 1685840423,
       "rank": 3,
@@ -75,6 +75,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 890127,
+      "num": 890127,
+      "word": "你觉得椰树直播算擦边吗",
+      "onboard_time": 1685843365,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 726723,
       "num": 726723,
       "word": "魏如萱马嘉祺 台北文学",
@@ -83,12 +91,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 706882,
-      "num": 706882,
+      "raw_hot": 722158,
+      "num": 722158,
       "word": "那英送何炅的衣服竟然是童装",
       "onboard_time": 1685839106,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 715051,
+      "num": 369065,
+      "word": "姑姑拍到侄女做梦吃雪糕",
+      "onboard_time": 1685841865,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 696467,
@@ -99,8 +115,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 652524,
-      "num": 652524,
+      "raw_hot": 667281,
+      "num": 667281,
       "word": "一人说一个奇怪的生理反应",
       "onboard_time": 1685804011,
       "rank": 7,
@@ -139,16 +155,16 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 415863,
-      "num": 369065,
-      "word": "姑姑拍到侄女做梦吃雪糕",
-      "onboard_time": 1685841865,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 411765,
+      "num": 279454,
+      "word": "学术妲己",
+      "onboard_time": 1685843785,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 411222,
-      "num": 200664,
+      "num": 261863,
       "word": "QQ音乐豪华绿钻续费价格上调",
       "onboard_time": 1685840364,
       "rank": 20,
@@ -171,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 388572,
+      "num": 388572,
+      "word": "萌娃检查身体时突然向医生wink",
+      "onboard_time": 1685833277,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372976,
       "num": 372976,
       "word": "杨紫撑伞回眸",
@@ -187,28 +211,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 358110,
-      "num": 358110,
-      "word": "萌娃检查身体时突然向医生wink",
-      "onboard_time": 1685833277,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 352851,
       "num": 352851,
       "word": "鹿晗演唱会",
       "onboard_time": 1685805271,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 343371,
-      "num": 343371,
-      "word": "你觉得椰树直播算擦边吗",
-      "onboard_time": 1685843365,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 335212,
@@ -235,6 +243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 300081,
+      "num": 300081,
+      "word": "Angelababy奔跑吧时长",
+      "onboard_time": 1685841806,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 298228,
       "num": 298228,
       "word": "五月天演唱会",
@@ -259,6 +275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 281224,
+      "num": 281224,
+      "word": "转发这个甄嬛万事皆如你所愿",
+      "onboard_time": 1685844506,
+      "rank": 14,
+      "category": "幽默,影视"
+    },
+    {
       "raw_hot": 280093,
       "num": 280093,
       "word": "迪丽热巴说谢谢幂姐",
@@ -267,12 +291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 266588,
-      "num": 266588,
-      "word": "Angelababy奔跑吧时长",
-      "onboard_time": 1685841806,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 268668,
+      "num": 268668,
+      "word": "在年代剧里遇到了crush",
+      "onboard_time": 1685843846,
+      "rank": 41,
+      "category": "影视,情感"
     },
     {
       "raw_hot": 265955,
@@ -339,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213942,
+      "num": 155336,
+      "word": "甄嬛金句台词",
+      "onboard_time": 1685844567,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212823,
       "num": 212823,
       "word": "宋昕冉追星迪丽热巴成功",
@@ -371,12 +403,28 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 203700,
+      "num": 200863,
+      "word": "杨紫回眸生图vs精修",
+      "onboard_time": 1685844747,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 202261,
       "num": 202261,
       "word": "阿信说谢谢华晨宇同台飙歌",
       "onboard_time": 1685836340,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 200653,
+      "num": 200653,
+      "word": "张真源黑色花衬衫",
+      "onboard_time": 1685844506,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 198108,
@@ -435,6 +483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 185199,
+      "num": 185199,
+      "word": "2023高考",
+      "onboard_time": 1685841743,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 184537,
       "num": 130577,
       "word": "神舟十五号返回",
@@ -459,14 +515,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 177451,
-      "num": 177451,
-      "word": "2023高考",
-      "onboard_time": 1685841743,
-      "rank": 23,
-      "category": "教育"
-    },
-    {
       "raw_hot": 176101,
       "num": 176101,
       "word": "梦海 cvb",
@@ -481,6 +529,14 @@
       "onboard_time": 1685795186,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173064,
+      "num": 173064,
+      "word": "流浪地球 好听",
+      "onboard_time": 1685843666,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 166025,
@@ -499,6 +555,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 158499,
+      "num": 158499,
+      "word": "杨和苏怎么输的",
+      "onboard_time": 1685845167,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 158307,
+      "num": 158307,
+      "word": "为何男性比女性更显老",
+      "onboard_time": 1685843246,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154445,
       "num": 154445,
       "word": "男子路遇怪鸟薄如纸片一查是国二",
@@ -513,14 +585,6 @@
       "onboard_time": 1685833036,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 148265,
-      "num": 148265,
-      "word": "为何男性比女性更显老",
-      "onboard_time": 1685843246,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 146931,
@@ -579,20 +643,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127813,
-      "num": 127813,
-      "word": "学术妲己",
-      "onboard_time": 1685843785,
-      "rank": 37,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 125770,
       "num": 125770,
       "word": "TES战胜EDG",
       "onboard_time": 1685802691,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 122228,
+      "num": 122228,
+      "word": "QQ音乐回应豪华绿钻续费价格上调",
+      "onboard_time": 1685844025,
+      "rank": 48,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 121903,
@@ -619,28 +683,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 117536,
-      "num": 117536,
-      "word": "流浪地球 好听",
-      "onboard_time": 1685843666,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 116007,
       "num": 1342853,
       "word": "神十五航天员回地球",
       "onboard_time": 1685802812,
       "rank": 2,
       "category": "科技"
-    },
-    {
-      "raw_hot": 115281,
-      "num": 115281,
-      "word": "在年代剧里遇到了crush",
-      "onboard_time": 1685843846,
-      "rank": 41,
-      "category": "影视,情感"
     },
     {
       "raw_hot": 112510,
@@ -651,12 +699,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 111037,
-      "num": 111037,
+      "raw_hot": 111615,
+      "num": 111615,
       "word": "巴黎官宣梅西离队",
       "onboard_time": 1685834597,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110873,
+      "num": 110873,
+      "word": "重启天涯直播7天7夜仅带货36万",
+      "onboard_time": 1685845527,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110704,
@@ -683,20 +739,20 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 106177,
+      "num": 106177,
+      "word": "监控里听到妈妈声音后的小狗",
+      "onboard_time": 1685844085,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 106107,
       "num": 106107,
       "word": "艾热威尔",
       "onboard_time": 1685800709,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 103215,
-      "num": 103215,
-      "word": "QQ音乐回应豪华绿钻续费价格上调",
-      "onboard_time": 1685844025,
-      "rank": 48,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 102385,
