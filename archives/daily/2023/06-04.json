@@ -1,6 +1,6 @@
 {
   "startTime": 1685809286870,
-  "endTime": 1685859621006,
+  "endTime": 1685860404757,
   "band_list": [
     {
       "raw_hot": 2102301,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1889821,
+      "num": 1889821,
+      "word": "我的脸被隐翅虫毁容了",
+      "onboard_time": 1685849424,
+      "rank": 23,
+      "category": "其它"
+    },
+    {
       "raw_hot": 1841672,
       "num": 1841672,
       "word": "千万不要把水果当饭吃",
@@ -27,16 +35,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1815387,
-      "num": 1815387,
-      "word": "我的脸被隐翅虫毁容了",
-      "onboard_time": 1685849424,
-      "rank": 23,
-      "category": "其它"
-    },
-    {
-      "raw_hot": 1653076,
-      "num": 1653076,
+      "raw_hot": 1737403,
+      "num": 1737403,
       "word": "任敏哭了",
       "onboard_time": 1685855309,
       "rank": 30,
@@ -83,12 +83,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1173716,
+      "num": 1173716,
+      "word": "因为开玩笑把我哥订婚搅黄了",
+      "onboard_time": 1685854948,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1132486,
       "num": 708722,
       "word": "原配抓小三路人帮腔大骂男方不要脸",
       "onboard_time": 1685801973,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1109788,
+      "num": 1109788,
+      "word": "卡卡 北京",
+      "onboard_time": 1685854348,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 1106063,
@@ -139,16 +155,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 898255,
-      "num": 898255,
-      "word": "卡卡 北京",
-      "onboard_time": 1685854348,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 812301,
-      "num": 812301,
+      "raw_hot": 833816,
+      "num": 833816,
       "word": "蔡徐坤说叫我坤就可以了",
       "onboard_time": 1685854348,
       "rank": 11,
@@ -195,14 +203,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 670063,
-      "num": 670063,
-      "word": "因为开玩笑把我哥订婚搅黄了",
-      "onboard_time": 1685854948,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 667281,
       "num": 667281,
       "word": "一人说一个奇怪的生理反应",
@@ -211,20 +211,20 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 579416,
-      "num": 579416,
-      "word": "王鹤棣趴着和宋丹丹张国立聊天",
-      "onboard_time": 1685854708,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 567591,
-      "num": 567591,
+      "raw_hot": 641658,
+      "num": 641658,
       "word": "重庆震感",
       "onboard_time": 1685858067,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 603842,
+      "num": 603842,
+      "word": "王鹤棣趴着和宋丹丹张国立聊天",
+      "onboard_time": 1685854708,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 564004,
@@ -403,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 340186,
+      "num": 340186,
+      "word": "男生会有打伞羞耻吗",
+      "onboard_time": 1685857827,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336941,
       "num": 272719,
       "word": "杨紫回眸生图vs精修",
@@ -481,14 +489,6 @@
       "onboard_time": 1685797109,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 299719,
-      "num": 299719,
-      "word": "男生会有打伞羞耻吗",
-      "onboard_time": 1685857827,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 298228,
@@ -620,7 +620,7 @@
     },
     {
       "raw_hot": 244994,
-      "num": 184720,
+      "num": 189146,
       "word": "这个视频我能笑三天三夜",
       "onboard_time": 1685859089,
       "rank": 30,
@@ -652,7 +652,7 @@
     },
     {
       "raw_hot": 238948,
-      "num": 184356,
+      "num": 226762,
       "word": "偶遇给自己销户的大叔",
       "onboard_time": 1685856270,
       "rank": 42,
@@ -665,6 +665,22 @@
       "onboard_time": 1685790448,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 232524,
+      "num": 232524,
+      "word": "石家庄小三",
+      "onboard_time": 1685859987,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231496,
+      "num": 141934,
+      "word": "孟子义锐评任敏汤晶媚乐队事件",
+      "onboard_time": 1685859687,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 231296,
@@ -705,6 +721,14 @@
       "onboard_time": 1685856689,
       "rank": 30,
       "category": "科技,自然"
+    },
+    {
+      "raw_hot": 218261,
+      "num": 218261,
+      "word": "小狗守着腐烂狗妈妈尸体不愿离去",
+      "onboard_time": 1685859509,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217536,
@@ -811,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193879,
+      "num": 193879,
+      "word": "你最近去过银行网点取钱吗",
+      "onboard_time": 1685858728,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193610,
       "num": 168425,
       "word": "肖春生是叶家编外人员",
@@ -843,20 +875,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188917,
+      "num": 188917,
+      "word": "AG转会期",
+      "onboard_time": 1685858847,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188884,
       "num": 188884,
       "word": "张子豪唱哭全场",
       "onboard_time": 1685855067,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188573,
-      "num": 188573,
-      "word": "AG转会期",
-      "onboard_time": 1685858847,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 187722,
@@ -913,6 +945,22 @@
       "onboard_time": 1685786907,
       "rank": 41,
       "category": "网红"
+    },
+    {
+      "raw_hot": 178265,
+      "num": 178265,
+      "word": "你的名字土是因为哪个字",
+      "onboard_time": 1685859387,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 177832,
+      "num": 177832,
+      "word": "肖春生贺红玲be美学",
+      "onboard_time": 1685859326,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 176101,
@@ -987,20 +1035,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154862,
+      "num": 154862,
+      "word": "朱珠现在认识所有姐姐了",
+      "onboard_time": 1685857048,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 154445,
       "num": 154445,
       "word": "男子路遇怪鸟薄如纸片一查是国二",
       "onboard_time": 1685837963,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151203,
-      "num": 151203,
-      "word": "朱珠现在认识所有姐姐了",
-      "onboard_time": 1685857048,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 148704,
@@ -1083,30 +1131,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 130259,
-      "num": 130259,
-      "word": "你的名字土是因为哪个字",
-      "onboard_time": 1685859387,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 129116,
-      "num": 129116,
-      "word": "小狗守着腐烂狗妈妈尸体不愿离去",
-      "onboard_time": 1685859509,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128136,
-      "num": 128136,
-      "word": "你最近去过银行网点取钱吗",
-      "onboard_time": 1685858728,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127913,
       "num": 127913,
       "word": "叶舒华说等洪恩採长大",
@@ -1129,14 +1153,6 @@
       "onboard_time": 1685802691,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 124333,
-      "num": 124333,
-      "word": "肖春生贺红玲be美学",
-      "onboard_time": 1685859326,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 121903,
@@ -1315,6 +1331,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 73780,
+      "num": 450631,
+      "word": "小客车侧翻两位白衣大侠迅速救人",
+      "onboard_time": 1685858428,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73286,
       "num": 73286,
       "word": "白宇帆与藏族足球少年梦幻联动",
@@ -1369,14 +1393,6 @@
       "onboard_time": 1685816656,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 47132,
-      "num": 450631,
-      "word": "小客车侧翻两位白衣大侠迅速救人",
-      "onboard_time": 1685858428,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22077,

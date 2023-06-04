@@ -1,0 +1,410 @@
+{
+  "runTime": 1685860404757,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1889821,
+        "num": 1889821,
+        "word": "我的脸被隐翅虫毁容了",
+        "onboard_time": 1685849424,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1737403,
+        "num": 1737403,
+        "word": "任敏哭了",
+        "onboard_time": 1685855309,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36384,
+        "num": 1369909,
+        "word": "神十五航天员回地球",
+        "onboard_time": 1685802812,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1173716,
+        "num": 1173716,
+        "word": "因为开玩笑把我哥订婚搅黄了",
+        "onboard_time": 1685854948,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1109788,
+        "num": 1109788,
+        "word": "卡卡 北京",
+        "onboard_time": 1685854348,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 873538,
+        "num": 873538,
+        "word": "你觉得椰树直播算擦边吗",
+        "onboard_time": 1685843365,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 833816,
+        "num": 833816,
+        "word": "蔡徐坤说叫我坤就可以了",
+        "onboard_time": 1685854348,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 675504,
+        "num": 675504,
+        "word": "张子豪 淘汰",
+        "onboard_time": 1685853927,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 641658,
+        "num": 641658,
+        "word": "重庆震感",
+        "onboard_time": 1685858067,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603842,
+        "num": 603842,
+        "word": "王鹤棣趴着和宋丹丹张国立聊天",
+        "onboard_time": 1685854708,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 567417,
+        "num": 567417,
+        "word": "79岁老人欲取离世儿子41万存款被拒",
+        "onboard_time": 1685847984,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541168,
+        "num": 541168,
+        "word": "跑男打错范丞丞名字",
+        "onboard_time": 1685849967,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485970,
+        "num": 485970,
+        "word": "孟子义给徐志胜卸妆",
+        "onboard_time": 1685857709,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415614,
+        "num": 415614,
+        "word": "肖战迪丽热巴赵露思V榜破9",
+        "onboard_time": 1685848465,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 73780,
+        "num": 409482,
+        "word": "小客车侧翻两位白衣大侠迅速救人",
+        "onboard_time": 1685858428,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404159,
+        "num": 404159,
+        "word": "汤晶媚组乐队没带任敏",
+        "onboard_time": 1685856988,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340186,
+        "num": 340186,
+        "word": "男生会有打伞羞耻吗",
+        "onboard_time": 1685857827,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391562,
+        "num": 339574,
+        "word": "宋茜性格",
+        "onboard_time": 1685855607,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338823,
+        "num": 338823,
+        "word": "鸭脖",
+        "onboard_time": 1685853087,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288646,
+        "num": 288646,
+        "word": "奶奶看小鬼演唱会捂耳朵",
+        "onboard_time": 1685854409,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 277914,
+        "num": 277914,
+        "word": "我曾一度认为是超市算错了",
+        "onboard_time": 1685840423,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 261765,
+        "num": 261765,
+        "word": "AG钟意 连接",
+        "onboard_time": 1685857528,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 247010,
+        "num": 247010,
+        "word": "一人说一个奇怪的生理反应",
+        "onboard_time": 1685804011,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 242493,
+        "num": 242493,
+        "word": "刘耀文全员加速中路透",
+        "onboard_time": 1685855607,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232524,
+        "num": 232524,
+        "word": "石家庄小三",
+        "onboard_time": 1685859987,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226762,
+        "num": 226762,
+        "word": "偶遇给自己销户的大叔",
+        "onboard_time": 1685856270,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218261,
+        "num": 218261,
+        "word": "小狗守着腐烂狗妈妈尸体不愿离去",
+        "onboard_time": 1685859509,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216059,
+        "num": 216059,
+        "word": "迪丽热巴小碎步打招呼",
+        "onboard_time": 1685855007,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196743,
+        "num": 196743,
+        "word": "千万不要把水果当饭吃",
+        "onboard_time": 1685838263,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154648,
+        "num": 194739,
+        "word": "加拿大护卫舰目睹中国战舰逼美舰改道",
+        "onboard_time": 1685845646,
+        "rank": 29,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 193879,
+        "num": 193879,
+        "word": "你最近去过银行网点取钱吗",
+        "onboard_time": 1685858728,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189146,
+        "num": 189146,
+        "word": "这个视频我能笑三天三夜",
+        "onboard_time": 1685859089,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188917,
+        "num": 188917,
+        "word": "AG转会期",
+        "onboard_time": 1685858847,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187437,
+        "num": 187437,
+        "word": "杨紫回眸生图vs精修",
+        "onboard_time": 1685844747,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178265,
+        "num": 178265,
+        "word": "你的名字土是因为哪个字",
+        "onboard_time": 1685859387,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177832,
+        "num": 177832,
+        "word": "肖春生贺红玲be美学",
+        "onboard_time": 1685859326,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175877,
+        "num": 175877,
+        "word": "威尔为什么还在",
+        "onboard_time": 1685856868,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167908,
+        "num": 167908,
+        "word": "韩娱四代TOP组合",
+        "onboard_time": 1685848345,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154862,
+        "num": 154862,
+        "word": "朱珠现在认识所有姐姐了",
+        "onboard_time": 1685857048,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147442,
+        "num": 147442,
+        "word": "cgv",
+        "onboard_time": 1685857827,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144139,
+        "num": 144139,
+        "word": "法老 说唱界的显眼包",
+        "onboard_time": 1685846605,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231496,
+        "num": 141934,
+        "word": "孟子义锐评任敏汤晶媚乐队事件",
+        "onboard_time": 1685859687,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132371,
+        "num": 132371,
+        "word": "五月天鸟巢尾场唱任意门",
+        "onboard_time": 1685842406,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126972,
+        "num": 126972,
+        "word": "男子结婚4战友随2厚本刮刮乐",
+        "onboard_time": 1685849967,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119755,
+        "num": 119755,
+        "word": "原配抓小三路人帮腔大骂男方不要脸",
+        "onboard_time": 1685801973,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112238,
+        "num": 112238,
+        "word": "Lisa演唱会跳flower",
+        "onboard_time": 1685851286,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 111126,
+        "num": 111126,
+        "word": "那英送何炅的衣服竟然是童装",
+        "onboard_time": 1685839106,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109618,
+        "num": 109618,
+        "word": "姑姑拍到侄女做梦吃雪糕",
+        "onboard_time": 1685841865,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109508,
+        "num": 109508,
+        "word": "如果你和对象互换身体24小时",
+        "onboard_time": 1685859326,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107386,
+        "num": 107386,
+        "word": "Spotify流媒10亿KPOP艺人",
+        "onboard_time": 1685850147,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#带着我的梦想上天宫#"
+    }
+  }
+}
