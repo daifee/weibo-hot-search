@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685892825048,
+  "endTime": 1685895661269,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -451,6 +451,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1592709,
+      "num": 242302,
+      "word": "蔡徐坤妈妈",
+      "onboard_time": 1685893230,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1580905,
       "num": 1580905,
       "word": "陈采尼 抄",
@@ -675,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1294356,
+      "num": 1294356,
+      "word": "88斤女生穿不进去S码牛仔裙",
+      "onboard_time": 1685889153,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1293845,
       "num": 1293845,
       "word": "坐飞机要称体重了",
@@ -881,6 +897,14 @@
       "onboard_time": 1685689167,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1150357,
+      "num": 327209,
+      "word": "男子连吃100天麦当劳减重53斤",
+      "onboard_time": 1685893707,
+      "rank": 10,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1147186,
@@ -1656,14 +1680,6 @@
       "word": "重庆震感",
       "onboard_time": 1685858067,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 639547,
-      "num": 639547,
-      "word": "88斤女生穿不进去S码牛仔裙",
-      "onboard_time": 1685889153,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2667,6 +2683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 412830,
+      "num": 314855,
+      "word": "Kpop男友照",
+      "onboard_time": 1685893408,
+      "rank": 11,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 411573,
       "num": 411573,
       "word": "陈宥维",
@@ -2929,6 +2953,14 @@
       "onboard_time": 1685800650,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 377464,
+      "num": 157986,
+      "word": "狗头萝莉摊煎饼",
+      "onboard_time": 1685892869,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 377405,
@@ -7211,6 +7243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164359,
+      "num": 500786,
+      "word": "高考临近阿姨们在夜店里跳广场舞",
+      "onboard_time": 1685890897,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164235,
       "num": 140325,
       "word": "蔡徐坤白衬衫顶胯",
@@ -7587,6 +7627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152592,
+      "num": 152592,
+      "word": "多巴胺穿搭 QQ秀",
+      "onboard_time": 1685893050,
+      "rank": 34,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 152551,
       "num": 152551,
       "word": "儿童节礼物",
@@ -7779,6 +7827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146831,
+      "num": 146831,
+      "word": "肖春生直球拒绝暧昧",
+      "onboard_time": 1685893408,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 145418,
       "num": 145418,
       "word": "无食欲拍照大法",
@@ -7891,14 +7947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139478,
-      "num": 500786,
-      "word": "高考临近阿姨们在夜店里跳广场舞",
-      "onboard_time": 1685890897,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139234,
       "num": 139234,
       "word": "央视记者探访河南小麦发芽发霉",
@@ -7953,6 +8001,14 @@
       "onboard_time": 1685722170,
       "rank": 44,
       "category": "时尚,美妆"
+    },
+    {
+      "raw_hot": 137170,
+      "num": 137170,
+      "word": "杨超越模仿虞书欣长珩仙君夸我咯",
+      "onboard_time": 1685895625,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 137066,
@@ -8121,6 +8177,14 @@
       "onboard_time": 1685850985,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130762,
+      "num": 130762,
+      "word": "广西的水果有多便宜",
+      "onboard_time": 1685894368,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 130499,
@@ -9377,6 +9441,14 @@
       "onboard_time": 1685608468,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65220,
+      "num": 90123,
+      "word": "高三毕业生临别给老师送五花肉",
+      "onboard_time": 1685895026,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 64820,
