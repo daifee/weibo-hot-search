@@ -1,0 +1,410 @@
+{
+  "runTime": 1685918036108,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 724766,
+        "num": 724766,
+        "word": "男子连吃100天麦当劳减重53斤",
+        "onboard_time": 1685893707,
+        "rank": 0,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 502679,
+        "num": 502679,
+        "word": "88斤女生穿不进去S码牛仔裙",
+        "onboard_time": 1685889153,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16165,
+        "num": 306858,
+        "word": "圆梦乘组的高清笑颜",
+        "onboard_time": 1685882668,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 216886,
+        "num": 216886,
+        "word": "离异男子独自养儿到17岁发现非亲生",
+        "onboard_time": 1685890114,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215235,
+        "num": 215235,
+        "word": "杨紫 唯一纯白茉莉花",
+        "onboard_time": 1685883570,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279617,
+        "num": 194948,
+        "word": "国内出现偏肺病毒感染",
+        "onboard_time": 1685875344,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171717,
+        "num": 171717,
+        "word": "教育部发布2023高考预警",
+        "onboard_time": 1685886333,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161342,
+        "num": 161342,
+        "word": "全世界都在等你们分手",
+        "onboard_time": 1685882550,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130580,
+        "num": 130580,
+        "word": "宋雨琦奔跑吧12期只录了4期",
+        "onboard_time": 1685883630,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117694,
+        "num": 117694,
+        "word": "25岁女孩体重只有60多斤",
+        "onboard_time": 1685884349,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127621,
+        "num": 114613,
+        "word": "狗头萝莉摊煎饼",
+        "onboard_time": 1685892869,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 97598,
+        "num": 97598,
+        "word": "汤晶媚任敏我们和好啦",
+        "onboard_time": 1685891491,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83937,
+        "num": 83937,
+        "word": "高考临近阿姨们在夜店里跳广场舞",
+        "onboard_time": 1685890897,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82187,
+        "num": 82187,
+        "word": "梦中的那片海塑造的女性",
+        "onboard_time": 1685901674,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69246,
+        "num": 69246,
+        "word": "内马尔告别梅西",
+        "onboard_time": 1685887474,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66364,
+        "num": 66364,
+        "word": "爷爷把微信当书信用",
+        "onboard_time": 1685875886,
+        "rank": 15,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 62950,
+        "num": 62950,
+        "word": "点10斤小龙虾上餐后称重仅5斤",
+        "onboard_time": 1685882909,
+        "rank": 16,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 61368,
+        "num": 61368,
+        "word": "王鹤棣孟子义不考虑合作现偶吗",
+        "onboard_time": 1685888971,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52786,
+        "num": 52786,
+        "word": "妃子笑荔枝",
+        "onboard_time": 1685885549,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 59786,
+        "num": 52300,
+        "word": "孟子义用的什么化妆品",
+        "onboard_time": 1685879429,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67428,
+        "num": 51532,
+        "word": "杨超越模仿虞书欣长珩仙君夸我咯",
+        "onboard_time": 1685895625,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66939,
+        "num": 50746,
+        "word": "肖春生直球拒绝暧昧",
+        "onboard_time": 1685893408,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49733,
+        "num": 49733,
+        "word": "梅西回应内马尔",
+        "onboard_time": 1685895386,
+        "rank": 22,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 48061,
+        "num": 48061,
+        "word": "卡车司机车内搭窝收养三只小猫",
+        "onboard_time": 1685898139,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47220,
+        "num": 47220,
+        "word": "白鹿出道7年演了17部剧",
+        "onboard_time": 1685888131,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46875,
+        "num": 46875,
+        "word": "广西的水果有多便宜",
+        "onboard_time": 1685894368,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 46834,
+        "num": 46834,
+        "word": "为什么没人捞张子豪",
+        "onboard_time": 1685876546,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46727,
+        "num": 46727,
+        "word": "多巴胺穿搭 QQ秀",
+        "onboard_time": 1685893050,
+        "rank": 27,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 46393,
+        "num": 46393,
+        "word": "汤晶媚跟任敏道歉",
+        "onboard_time": 1685910851,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38616,
+        "num": 45066,
+        "word": "看一只熊猫泡澡看了半分钟",
+        "onboard_time": 1685884830,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44194,
+        "num": 44194,
+        "word": "肖春生真挨了一管叉",
+        "onboard_time": 1685914212,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41142,
+        "num": 41142,
+        "word": "多巴胺穿搭",
+        "onboard_time": 1685881111,
+        "rank": 31,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 39766,
+        "num": 39766,
+        "word": "蔡徐坤王一博同款舞姿",
+        "onboard_time": 1685882848,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39247,
+        "num": 39247,
+        "word": "白桃星座",
+        "onboard_time": 1685889696,
+        "rank": 33,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 38297,
+        "num": 38297,
+        "word": "最早的外卖配送员 走读生",
+        "onboard_time": 1685887474,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36569,
+        "num": 36569,
+        "word": "周雨彤进组半熟男女",
+        "onboard_time": 1685895567,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35382,
+        "num": 35382,
+        "word": "Kpop男友照",
+        "onboard_time": 1685893408,
+        "rank": 36,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 33419,
+        "num": 33419,
+        "word": "林一文俊辉约饭",
+        "onboard_time": 1685892090,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31833,
+        "num": 31833,
+        "word": "爆剧最多的女演员",
+        "onboard_time": 1685869707,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30438,
+        "num": 30438,
+        "word": "男子为考清华复读14年",
+        "onboard_time": 1685871806,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 29487,
+        "num": 29487,
+        "word": "焦虑就是不信任",
+        "onboard_time": 1685896524,
+        "rank": 40,
+        "category": "作品衍生,情感"
+      },
+      {
+        "raw_hot": 28122,
+        "num": 28122,
+        "word": "宋茜做错了什么",
+        "onboard_time": 1685878168,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26370,
+        "num": 28090,
+        "word": "恋爱脑的原因",
+        "onboard_time": 1685885970,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25342,
+        "num": 27926,
+        "word": "是谁在设计这种东西",
+        "onboard_time": 1685887890,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24952,
+        "num": 27847,
+        "word": "花傲天buff",
+        "onboard_time": 1685891312,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24151,
+        "num": 27740,
+        "word": "聚焦全国高考",
+        "onboard_time": 1685914272,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23636,
+        "num": 27661,
+        "word": "任敏为i做e",
+        "onboard_time": 1685890052,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23225,
+        "num": 27572,
+        "word": "薛之谦宜昌加场",
+        "onboard_time": 1685890593,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20890,
+        "num": 27419,
+        "word": "Jennie巡演神图",
+        "onboard_time": 1685889515,
+        "rank": 48,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 18356,
+        "num": 27375,
+        "word": "鬼灭之刃锻刀村篇",
+        "onboard_time": 1685892151,
+        "rank": 49,
+        "category": "动漫,影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#一起保护好传承好历史文化#"
+    }
+  }
+}

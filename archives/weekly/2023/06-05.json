@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1685916904707,
+  "endTime": 1685918036108,
   "band_list": [
     {
       "raw_hot": 1592709,
@@ -187,6 +187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216886,
+      "num": 216886,
+      "word": "离异男子独自养儿到17岁发现非亲生",
+      "onboard_time": 1685890114,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177948,
       "num": 177948,
       "word": "爆剧最多的女演员",
@@ -289,14 +297,6 @@
       "onboard_time": 1685893408,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 144932,
-      "num": 70279,
-      "word": "离异男子独自养儿到17岁发现非亲生",
-      "onboard_time": 1685890114,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132407,
@@ -427,6 +427,14 @@
       "category": "作品衍生,情感"
     },
     {
+      "raw_hot": 82187,
+      "num": 82187,
+      "word": "梦中的那片海塑造的女性",
+      "onboard_time": 1685901674,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 65220,
       "num": 90123,
       "word": "高三毕业生临别给老师送五花肉",
@@ -435,12 +443,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 57788,
-      "num": 57788,
-      "word": "梦中的那片海塑造的女性",
-      "onboard_time": 1685901674,
-      "rank": 47,
-      "category": "影视"
+      "raw_hot": 49733,
+      "num": 49733,
+      "word": "梅西回应内马尔",
+      "onboard_time": 1685895386,
+      "rank": 33,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 48987,
@@ -459,6 +467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 46393,
+      "num": 46393,
+      "word": "汤晶媚跟任敏道歉",
+      "onboard_time": 1685910851,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 44276,
       "num": 57850,
       "word": "梦中的那片海版换乘恋爱",
@@ -467,12 +483,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 43863,
-      "num": 32750,
-      "word": "汤晶媚跟任敏道歉",
-      "onboard_time": 1685910851,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 44194,
+      "num": 44194,
+      "word": "肖春生真挨了一管叉",
+      "onboard_time": 1685914212,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 39135,
@@ -483,22 +499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 31325,
-      "num": 31325,
-      "word": "肖春生真挨了一管叉",
-      "onboard_time": 1685914212,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 30467,
-      "num": 30467,
-      "word": "梅西回应内马尔",
-      "onboard_time": 1685895386,
-      "rank": 33,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 26612,
       "num": 760480,
       "word": "圆梦乘组的高清笑颜",
@@ -507,8 +507,8 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 22158,
-      "num": 24431,
+      "raw_hot": 24151,
+      "num": 27740,
       "word": "聚焦全国高考",
       "onboard_time": 1685914272,
       "rank": 49,
