@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685845543790,
+  "endTime": 1685848138970,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -369,6 +369,14 @@
       "onboard_time": 1685790448,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1456528,
+      "num": 1456528,
+      "word": "你觉得椰树直播算擦边吗",
+      "onboard_time": 1685843365,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1456021,
@@ -787,6 +795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1051883,
+      "num": 1051883,
+      "word": "姑姑拍到侄女做梦吃雪糕",
+      "onboard_time": 1685841865,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1050365,
       "num": 1050365,
       "word": "黄晓明救了我的手机",
@@ -920,14 +936,6 @@
       "word": "出租房装的空调是5级能耗",
       "onboard_time": 1685574199,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 890127,
-      "num": 890127,
-      "word": "你觉得椰树直播算擦边吗",
-      "onboard_time": 1685843365,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1105,14 +1113,6 @@
       "onboard_time": 1685839106,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 715051,
-      "num": 369065,
-      "word": "姑姑拍到侄女做梦吃雪糕",
-      "onboard_time": 1685841865,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 714660,
@@ -1795,6 +1795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 482510,
+      "num": 482510,
+      "word": "Angelababy奔跑吧时长",
+      "onboard_time": 1685841806,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 481326,
       "num": 481326,
       "word": "TES对战EDG",
@@ -2017,6 +2025,14 @@
       "onboard_time": 1685545292,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 432395,
+      "num": 432395,
+      "word": "在年代剧里遇到了crush",
+      "onboard_time": 1685843846,
+      "rank": 41,
+      "category": "影视,情感"
     },
     {
       "raw_hot": 431141,
@@ -2243,6 +2259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 395612,
+      "num": 395612,
+      "word": "椰树审美",
+      "onboard_time": 1685845587,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393775,
       "num": 242906,
       "word": "女子被骗至金三角吸毒卖淫获救",
@@ -2456,6 +2480,14 @@
       "word": "就喜欢纯爱",
       "onboard_time": 1685602106,
       "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 363292,
+      "num": 248131,
+      "word": "如果你每天早起15分钟",
+      "onboard_time": 1685845886,
+      "rank": 20,
       "category": "情感"
     },
     {
@@ -2683,6 +2715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 335576,
+      "num": 248007,
+      "word": "杨紫回眸生图vs精修",
+      "onboard_time": 1685844747,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 335212,
       "num": 254111,
       "word": "东部战区就美加军舰过航台湾海峡发表谈话",
@@ -2745,6 +2785,14 @@
       "onboard_time": 1685778567,
       "rank": 17,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 329482,
+      "num": 329482,
+      "word": "Lisa暗夜玫瑰造型",
+      "onboard_time": 1685846186,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 328441,
@@ -2913,6 +2961,14 @@
       "onboard_time": 1685684191,
       "rank": 15,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 313703,
+      "num": 313703,
+      "word": "加拿大护卫舰目睹中国战舰逼美舰改道",
+      "onboard_time": 1685845646,
+      "rank": 15,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 313379,
@@ -3089,14 +3145,6 @@
       "onboard_time": 1685712692,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 300081,
-      "num": 300081,
-      "word": "Angelababy奔跑吧时长",
-      "onboard_time": 1685841806,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 299874,
@@ -3499,14 +3547,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 268668,
-      "num": 268668,
-      "word": "在年代剧里遇到了crush",
-      "onboard_time": 1685843846,
-      "rank": 41,
-      "category": "影视,情感"
-    },
-    {
       "raw_hot": 268667,
       "num": 268667,
       "word": "小学生放学捡到特殊纸币报警",
@@ -3779,6 +3819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255627,
+      "num": 255627,
+      "word": "法老 说唱界的显眼包",
+      "onboard_time": 1685846605,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255203,
       "num": 255203,
       "word": "一万人的朋友圈是什么样的",
@@ -4011,6 +4059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239646,
+      "num": 239646,
+      "word": "杨和苏怎么输的",
+      "onboard_time": 1685845167,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239098,
       "num": 239098,
       "word": "你有超过七年的友谊吗",
@@ -4211,6 +4267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 230914,
+      "num": 230914,
+      "word": "女子穿人字拖鞋带断裂摔下2楼险毁容",
+      "onboard_time": 1685846126,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230891,
       "num": 230891,
       "word": "杭州外卖小哥3年还清35万外债",
@@ -4385,6 +4449,14 @@
       "onboard_time": 1685593231,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220737,
+      "num": 220737,
+      "word": "流浪地球 好听",
+      "onboard_time": 1685843666,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 220496,
@@ -4747,14 +4819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203700,
-      "num": 200863,
-      "word": "杨紫回眸生图vs精修",
-      "onboard_time": 1685844747,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 203647,
       "num": 203647,
       "word": "十个勤天",
@@ -4945,6 +5009,14 @@
       "onboard_time": 1685667269,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197524,
+      "num": 197524,
+      "word": "侯明昊七年前试镜视频",
+      "onboard_time": 1685846968,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 197499,
@@ -5387,6 +5459,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 184388,
+      "num": 184388,
+      "word": "QQ音乐回应豪华绿钻续费价格上调",
+      "onboard_time": 1685844025,
+      "rank": 48,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 184017,
       "num": 184017,
       "word": "林俊杰武汉",
@@ -5627,14 +5707,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 173064,
-      "num": 173064,
-      "word": "流浪地球 好听",
-      "onboard_time": 1685843666,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 172903,
       "num": 172903,
       "word": "请张彬彬不要随意解衬衫",
@@ -5803,6 +5875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 165694,
+      "num": 163752,
+      "word": "孩子随母姓被拒分配村集体收入",
+      "onboard_time": 1685846847,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165671,
       "num": 206177,
       "word": "真实影像揭露境外高薪务工骗局",
@@ -5857,6 +5937,14 @@
       "onboard_time": 1685547030,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 163945,
+      "num": 163945,
+      "word": "黄子韬说我装一下",
+      "onboard_time": 1685845945,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 163787,
@@ -6001,14 +6089,6 @@
       "onboard_time": 1685597967,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158499,
-      "num": 158499,
-      "word": "杨和苏怎么输的",
-      "onboard_time": 1685845167,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 158307,
@@ -6321,6 +6401,14 @@
       "onboard_time": 1685615366,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147265,
+      "num": 147265,
+      "word": "enhypen签售会新要求",
+      "onboard_time": 1685847984,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 145184,
@@ -6675,6 +6763,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 125723,
+      "num": 125723,
+      "word": "79岁老人欲取离世儿子41万存款被拒",
+      "onboard_time": 1685847984,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125205,
       "num": 125205,
       "word": "贾静雯仙品侧颜",
@@ -6713,14 +6809,6 @@
       "onboard_time": 1685779768,
       "rank": 36,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 122228,
-      "num": 122228,
-      "word": "QQ音乐回应豪华绿钻续费价格上调",
-      "onboard_time": 1685844025,
-      "rank": 48,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 121903,
@@ -6785,6 +6873,22 @@
       "onboard_time": 1685575461,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118951,
+      "num": 118951,
+      "word": "无食欲拍照大法",
+      "onboard_time": 1685847566,
+      "rank": 41,
+      "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 118769,
+      "num": 118769,
+      "word": "监控里听到妈妈声音后的小狗",
+      "onboard_time": 1685844085,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 118687,
@@ -6883,6 +6987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113681,
+      "num": 113681,
+      "word": "巴黎官宣梅西离队",
+      "onboard_time": 1685834597,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112916,
       "num": 112916,
       "word": "儿童节",
@@ -6929,14 +7041,6 @@
       "onboard_time": 1685687247,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111615,
-      "num": 111615,
-      "word": "巴黎官宣梅西离队",
-      "onboard_time": 1685834597,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 111453,
@@ -7099,14 +7203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106177,
-      "num": 106177,
-      "word": "监控里听到妈妈声音后的小狗",
-      "onboard_time": 1685844085,
-      "rank": 47,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 105902,
       "num": 162101,
       "word": "给高考生的专属仪式感",
@@ -7161,6 +7257,14 @@
       "onboard_time": 1685774126,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102608,
+      "num": 102608,
+      "word": "一只鸡现象",
+      "onboard_time": 1685848106,
+      "rank": 47,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 102544,
