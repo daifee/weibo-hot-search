@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685835229114,
+  "endTime": 1685844038629,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -403,6 +403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1939890,
+      "num": 1939890,
+      "word": "女孩家长称黄渤赠送手表未送给弟弟",
+      "onboard_time": 1685803471,
+      "rank": 29,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1938833,
       "num": 539523,
       "word": "你喜欢大海 我承包岛",
@@ -481,6 +489,14 @@
       "onboard_time": 1685539347,
       "rank": 4,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 1841672,
+      "num": 1841672,
+      "word": "千万不要把水果当饭吃",
+      "onboard_time": 1685838263,
+      "rank": 1,
+      "category": "情感"
     },
     {
       "raw_hot": 1841242,
@@ -1779,6 +1795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 991998,
+      "num": 991998,
+      "word": "我曾一度认为是超市算错了",
+      "onboard_time": 1685840423,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 986931,
       "num": 986931,
       "word": "梅西自宣离队",
@@ -2379,6 +2403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 706882,
+      "num": 706882,
+      "word": "那英送何炅的衣服竟然是童装",
+      "onboard_time": 1685839106,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 705499,
       "num": 705499,
       "word": "印度火车相撞已致288人死亡",
@@ -2657,6 +2689,14 @@
       "onboard_time": 1685481551,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 652524,
+      "num": 652524,
+      "word": "一人说一个奇怪的生理反应",
+      "onboard_time": 1685804011,
+      "rank": 22,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 649496,
@@ -3139,6 +3179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 564004,
+      "num": 564004,
+      "word": "五月天鸟巢尾场唱任意门",
+      "onboard_time": 1685842406,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 562261,
       "num": 562261,
       "word": "五月天王源合唱",
@@ -3457,14 +3505,6 @@
       "onboard_time": 1685317886,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 520211,
-      "num": 520211,
-      "word": "一人说一个奇怪的生理反应",
-      "onboard_time": 1685804011,
-      "rank": 22,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 519806,
@@ -4435,6 +4475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 415863,
+      "num": 369065,
+      "word": "姑姑拍到侄女做梦吃雪糕",
+      "onboard_time": 1685841865,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414791,
       "num": 414791,
       "word": "大山的孩子去太空了",
@@ -4473,6 +4521,14 @@
       "onboard_time": 1685597069,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 411222,
+      "num": 200664,
+      "word": "QQ音乐豪华绿钻续费价格上调",
+      "onboard_time": 1685840364,
+      "rank": 20,
+      "category": "科技"
     },
     {
       "raw_hot": 409106,
@@ -4971,6 +5027,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 372976,
+      "num": 372976,
+      "word": "杨紫撑伞回眸",
+      "onboard_time": 1685838743,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 372504,
       "num": 261249,
       "word": "我的人间烟火",
@@ -5179,6 +5243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 358110,
+      "num": 358110,
+      "word": "萌娃检查身体时突然向医生wink",
+      "onboard_time": 1685833277,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357566,
       "num": 357566,
       "word": "发现同事已经在用AI摸鱼了",
@@ -5385,6 +5457,14 @@
       "onboard_time": 1685442390,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 343371,
+      "num": 343371,
+      "word": "你觉得椰树直播算擦边吗",
+      "onboard_time": 1685843365,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 341356,
@@ -7283,6 +7363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 266588,
+      "num": 266588,
+      "word": "Angelababy奔跑吧时长",
+      "onboard_time": 1685841806,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266308,
       "num": 266308,
       "word": "LPL",
@@ -7473,6 +7561,14 @@
       "onboard_time": 1685689046,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 261094,
+      "num": 261094,
+      "word": "蔡徐坤演唱会大型蹦迪现场",
+      "onboard_time": 1685841204,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 260968,
@@ -8219,14 +8315,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 239641,
-      "num": 239641,
-      "word": "女孩家长称黄渤赠送手表未送给弟弟",
-      "onboard_time": 1685803471,
-      "rank": 29,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 239218,
       "num": 220868,
       "word": "李沁佟晓梅",
@@ -8809,14 +8897,6 @@
       "onboard_time": 1685352867,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 225075,
-      "num": 225075,
-      "word": "萌娃检查身体时突然向医生wink",
-      "onboard_time": 1685833277,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224886,
@@ -9875,6 +9955,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202261,
+      "num": 202261,
+      "word": "阿信说谢谢华晨宇同台飙歌",
+      "onboard_time": 1685836340,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 201933,
       "num": 201933,
       "word": "春色寄情人编剧回应周雨彤NG",
@@ -10137,6 +10225,14 @@
       "onboard_time": 1685523267,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198037,
+      "num": 198037,
+      "word": "田柾国将solo出道",
+      "onboard_time": 1685839284,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 197936,
@@ -11140,7 +11236,7 @@
     },
     {
       "raw_hot": 181870,
-      "num": 130577,
+      "num": 147286,
       "word": "公司要求自带电脑上班不合格就充公",
       "onboard_time": 1685833277,
       "rank": 24,
@@ -11339,6 +11435,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 177451,
+      "num": 177451,
+      "word": "2023高考",
+      "onboard_time": 1685561952,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 177433,
       "num": 177433,
       "word": "孙红雷说谢娜心眼小",
@@ -11385,6 +11489,14 @@
       "onboard_time": 1685714134,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176101,
+      "num": 176101,
+      "word": "梦海 cvb",
+      "onboard_time": 1685841506,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 176090,
@@ -11808,6 +11920,14 @@
       "word": "哪些消费是智商税",
       "onboard_time": 1685668707,
       "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 166025,
+      "num": 166025,
+      "word": "永远不要通过伤害自己自证",
+      "onboard_time": 1685842826,
+      "rank": 26,
       "category": "情感"
     },
     {
@@ -12363,6 +12483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154445,
+      "num": 154445,
+      "word": "男子路遇怪鸟薄如纸片一查是国二",
+      "onboard_time": 1685837963,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153637,
       "num": 153637,
       "word": "狗狗突然晕倒 路人人工呼吸抢救",
@@ -12595,6 +12723,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 148704,
+      "num": 148704,
+      "word": "肖战撞脸狗狗表情包",
+      "onboard_time": 1685833036,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148619,
       "num": 148619,
       "word": "司机称两名赖车乘客拘留结束仍未道歉",
@@ -12617,6 +12753,14 @@
       "onboard_time": 1685433329,
       "rank": 4,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 148265,
+      "num": 148265,
+      "word": "为何男性比女性更显老",
+      "onboard_time": 1685843246,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 148197,
@@ -12905,6 +13049,14 @@
       "onboard_time": 1685678427,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136616,
+      "num": 136616,
+      "word": "井胧追星张杰成功",
+      "onboard_time": 1685835740,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 135683,
@@ -13243,6 +13395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 127913,
+      "num": 127913,
+      "word": "叶舒华说等洪恩採长大",
+      "onboard_time": 1685835920,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127650,
       "num": 127650,
       "word": "不怕压力不生癌",
@@ -13483,6 +13643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121903,
+      "num": 121903,
+      "word": "蔡徐坤拿粉丝手机自拍",
+      "onboard_time": 1685836160,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 121732,
       "num": 121732,
       "word": "熊猫梅兰过生日根本吃不完",
@@ -13643,6 +13811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117536,
+      "num": 117536,
+      "word": "流浪地球 好听",
+      "onboard_time": 1685843666,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117391,
       "num": 117391,
       "word": "多想象一下自己的40岁",
@@ -13683,6 +13859,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 116007,
+      "num": 1342853,
+      "word": "神十五航天员回地球",
+      "onboard_time": 1685802812,
+      "rank": 2,
+      "category": "科技"
+    },
+    {
       "raw_hot": 115422,
       "num": 115422,
       "word": "奔赴初夏",
@@ -13705,6 +13889,14 @@
       "onboard_time": 1685409867,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115281,
+      "num": 115281,
+      "word": "在年代剧里遇到了crush",
+      "onboard_time": 1685843846,
+      "rank": 41,
+      "category": "影视,情感"
     },
     {
       "raw_hot": 115215,
@@ -13851,6 +14043,14 @@
       "category": "社会正能量,教育"
     },
     {
+      "raw_hot": 111037,
+      "num": 111037,
+      "word": "巴黎官宣梅西离队",
+      "onboard_time": 1685834597,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110749,
       "num": 951960,
       "word": "迎接神十五乘组回家",
@@ -13880,14 +14080,6 @@
       "word": "法网",
       "onboard_time": 1685793027,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 110072,
-      "num": 110072,
-      "word": "巴黎官宣梅西离队",
-      "onboard_time": 1685834597,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -14019,6 +14211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106471,
+      "num": 106471,
+      "word": "郭碧婷的穿搭好接地气",
+      "onboard_time": 1685814257,
+      "rank": 22,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 106393,
       "num": 106393,
       "word": "货车起火加油站员工飞奔扑救",
@@ -14033,14 +14233,6 @@
       "onboard_time": 1685794407,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105858,
-      "num": 105858,
-      "word": "郭碧婷的穿搭好接地气",
-      "onboard_time": 1685814257,
-      "rank": 22,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 105823,
@@ -14131,6 +14323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103215,
+      "num": 103215,
+      "word": "QQ音乐回应豪华绿钻续费价格上调",
+      "onboard_time": 1685844025,
+      "rank": 48,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 103158,
       "num": 103158,
       "word": "孙颖莎世乒赛女单夺冠",
@@ -14169,14 +14369,6 @@
       "onboard_time": 1685609668,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102249,
-      "num": 446587,
-      "word": "神十五航天员回地球",
-      "onboard_time": 1685802812,
-      "rank": 2,
-      "category": "科技"
     },
     {
       "raw_hot": 100779,
@@ -14321,14 +14513,6 @@
       "onboard_time": 1685773887,
       "rank": 47,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 93825,
-      "num": 93825,
-      "word": "肖战撞脸狗狗表情包",
-      "onboard_time": 1685833036,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 93714,
@@ -15201,14 +15385,6 @@
       "onboard_time": 1685466199,
       "rank": 48,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 53746,
-      "num": 53746,
-      "word": "2023高考",
-      "onboard_time": 1685561952,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 53349,
