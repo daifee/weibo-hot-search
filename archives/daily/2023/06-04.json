@@ -1,6 +1,6 @@
 {
   "startTime": 1685809286870,
-  "endTime": 1685856802847,
+  "endTime": 1685859621006,
   "band_list": [
     {
       "raw_hot": 2102301,
@@ -27,20 +27,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1815387,
+      "num": 1815387,
+      "word": "我的脸被隐翅虫毁容了",
+      "onboard_time": 1685849424,
+      "rank": 23,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 1653076,
+      "num": 1653076,
+      "word": "任敏哭了",
+      "onboard_time": 1685855309,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1613516,
       "num": 718605,
       "word": "成都七中一学生被开除",
       "onboard_time": 1685804552,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1562101,
-      "num": 1562101,
-      "word": "我的脸被隐翅虫毁容了",
-      "onboard_time": 1685849424,
-      "rank": 23,
-      "category": "其它"
     },
     {
       "raw_hot": 1471783,
@@ -123,20 +131,28 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 934798,
-      "num": 934798,
-      "word": "任敏哭了",
-      "onboard_time": 1685855309,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 921878,
       "num": 921878,
       "word": "张子豪 淘汰",
       "onboard_time": 1685853927,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 898255,
+      "num": 898255,
+      "word": "卡卡 北京",
+      "onboard_time": 1685854348,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 812301,
+      "num": 812301,
+      "word": "蔡徐坤说叫我坤就可以了",
+      "onboard_time": 1685854348,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 752143,
@@ -153,14 +169,6 @@
       "onboard_time": 1685846847,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 730761,
-      "num": 730761,
-      "word": "蔡徐坤说叫我坤就可以了",
-      "onboard_time": 1685854348,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 726723,
@@ -187,6 +195,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 670063,
+      "num": 670063,
+      "word": "因为开玩笑把我哥订婚搅黄了",
+      "onboard_time": 1685854948,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 667281,
       "num": 667281,
       "word": "一人说一个奇怪的生理反应",
@@ -195,12 +211,20 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 570667,
-      "num": 318235,
-      "word": "因为开玩笑把我哥订婚搅黄了",
-      "onboard_time": 1685854948,
-      "rank": 20,
-      "category": "情感"
+      "raw_hot": 579416,
+      "num": 579416,
+      "word": "王鹤棣趴着和宋丹丹张国立聊天",
+      "onboard_time": 1685854708,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 567591,
+      "num": 567591,
+      "word": "重庆震感",
+      "onboard_time": 1685858067,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 564004,
@@ -211,20 +235,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 560671,
-      "num": 560671,
-      "word": "王鹤棣趴着和宋丹丹张国立聊天",
-      "onboard_time": 1685854708,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 557421,
       "num": 557421,
       "word": "男子结婚4战友随2厚本刮刮乐",
       "onboard_time": 1685849967,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 541556,
+      "num": 541556,
+      "word": "孟子义给徐志胜卸妆",
+      "onboard_time": 1685857709,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 533960,
@@ -259,6 +283,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 448577,
+      "num": 448577,
+      "word": "汤晶媚组乐队没带任敏",
+      "onboard_time": 1685856988,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441431,
       "num": 441431,
       "word": "在年代剧里遇到了crush",
@@ -275,12 +307,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 426130,
-      "num": 426130,
-      "word": "卡卡 北京",
-      "onboard_time": 1685854348,
-      "rank": 17,
-      "category": "体育"
+      "raw_hot": 414923,
+      "num": 414923,
+      "word": "宋茜性格",
+      "onboard_time": 1685855607,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 411765,
@@ -329,14 +361,6 @@
       "onboard_time": 1685833277,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 376300,
-      "num": 376300,
-      "word": "宋茜性格",
-      "onboard_time": 1685855607,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 372976,
@@ -459,6 +483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 299719,
+      "num": 299719,
+      "word": "男生会有打伞羞耻吗",
+      "onboard_time": 1685857827,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298228,
       "num": 298228,
       "word": "五月天演唱会",
@@ -523,6 +555,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 268873,
+      "num": 268873,
+      "word": "AG钟意 连接",
+      "onboard_time": 1685857528,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 265955,
       "num": 251293,
       "word": "声生不息 告五人",
@@ -579,6 +619,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 244994,
+      "num": 184720,
+      "word": "这个视频我能笑三天三夜",
+      "onboard_time": 1685859089,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 242875,
       "num": 242875,
       "word": "一只鸡现象",
@@ -601,6 +649,14 @@
       "onboard_time": 1685845167,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238948,
+      "num": 184356,
+      "word": "偶遇给自己销户的大叔",
+      "onboard_time": 1685856270,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 238345,
@@ -747,6 +803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 196803,
+      "num": 196803,
+      "word": "威尔为什么还在",
+      "onboard_time": 1685856868,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193610,
       "num": 168425,
       "word": "肖春生是叶家编外人员",
@@ -785,6 +849,14 @@
       "onboard_time": 1685855067,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188573,
+      "num": 188573,
+      "word": "AG转会期",
+      "onboard_time": 1685858847,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 187722,
@@ -851,6 +923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 175590,
+      "num": 175590,
+      "word": "cgv",
+      "onboard_time": 1685857827,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 175261,
       "num": 175261,
       "word": "enhypen签售会新要求",
@@ -915,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151203,
+      "num": 151203,
+      "word": "朱珠现在认识所有姐姐了",
+      "onboard_time": 1685857048,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148704,
       "num": 148704,
       "word": "肖战撞脸狗狗表情包",
@@ -929,14 +1017,6 @@
       "onboard_time": 1685797169,
       "rank": 38,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 146633,
-      "num": 146633,
-      "word": "偶遇给自己销户的大叔",
-      "onboard_time": 1685856270,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 145418,
@@ -979,6 +1059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 132601,
+      "num": 395300,
+      "word": "丽水一初中女篮训练太硬核了",
+      "onboard_time": 1685854829,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130969,
       "num": 130969,
       "word": "14岁姐姐海姆立克法救下卡喉弟弟",
@@ -993,6 +1081,30 @@
       "onboard_time": 1685798848,
       "rank": 45,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 130259,
+      "num": 130259,
+      "word": "你的名字土是因为哪个字",
+      "onboard_time": 1685859387,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 129116,
+      "num": 129116,
+      "word": "小狗守着腐烂狗妈妈尸体不愿离去",
+      "onboard_time": 1685859509,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128136,
+      "num": 128136,
+      "word": "你最近去过银行网点取钱吗",
+      "onboard_time": 1685858728,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127913,
@@ -1019,12 +1131,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 124333,
+      "num": 124333,
+      "word": "肖春生贺红玲be美学",
+      "onboard_time": 1685859326,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 121903,
       "num": 121903,
       "word": "蔡徐坤拿粉丝手机自拍",
       "onboard_time": 1685836160,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 121548,
+      "num": 121548,
+      "word": "如果你和对象互换身体24小时",
+      "onboard_time": 1685859326,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 120707,
@@ -1081,14 +1209,6 @@
       "onboard_time": 1685802812,
       "rank": 2,
       "category": "科技"
-    },
-    {
-      "raw_hot": 115156,
-      "num": 395300,
-      "word": "丽水一初中女篮训练太硬核了",
-      "onboard_time": 1685854829,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113681,
@@ -1249,6 +1369,14 @@
       "onboard_time": 1685816656,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 47132,
+      "num": 450631,
+      "word": "小客车侧翻两位白衣大侠迅速救人",
+      "onboard_time": 1685858428,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22077,

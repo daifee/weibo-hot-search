@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685856802847,
+  "endTime": 1685859621006,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -539,6 +539,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1815387,
+      "num": 1815387,
+      "word": "我的脸被隐翅虫毁容了",
+      "onboard_time": 1685849424,
+      "rank": 23,
+      "category": "其它"
+    },
+    {
       "raw_hot": 1794101,
       "num": 1370428,
       "word": "柳州",
@@ -643,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1653076,
+      "num": 1653076,
+      "word": "任敏哭了",
+      "onboard_time": 1685855309,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1650399,
       "num": 1650399,
       "word": "考研进清华和高考进清华的区别",
@@ -729,14 +745,6 @@
       "onboard_time": 1685284472,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1562101,
-      "num": 1562101,
-      "word": "我的脸被隐翅虫毁容了",
-      "onboard_time": 1685849424,
-      "rank": 23,
-      "category": "其它"
     },
     {
       "raw_hot": 1560919,
@@ -1963,14 +1971,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 934798,
-      "num": 934798,
-      "word": "任敏哭了",
-      "onboard_time": 1685855309,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 929988,
       "num": 929988,
       "word": "秦昊恋爱脑",
@@ -2025,6 +2025,14 @@
       "onboard_time": 1685352029,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 898255,
+      "num": 898255,
+      "word": "卡卡 北京",
+      "onboard_time": 1685854348,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 894425,
@@ -2203,6 +2211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 812301,
+      "num": 812301,
+      "word": "蔡徐坤说叫我坤就可以了",
+      "onboard_time": 1685854348,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 810195,
       "num": 810195,
       "word": "研究生辞谢信彰显卧龙凤雏",
@@ -2376,14 +2392,6 @@
       "word": "五月天演唱会成大型求婚现场",
       "onboard_time": 1685413408,
       "rank": 45,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 730761,
-      "num": 730761,
-      "word": "蔡徐坤说叫我坤就可以了",
-      "onboard_time": 1685854348,
-      "rank": 11,
       "category": "音乐"
     },
     {
@@ -2673,6 +2681,14 @@
       "onboard_time": 1685454875,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 670063,
+      "num": 670063,
+      "word": "因为开玩笑把我哥订婚搅黄了",
+      "onboard_time": 1685854948,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 669807,
@@ -3187,6 +3203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 579416,
+      "num": 579416,
+      "word": "王鹤棣趴着和宋丹丹张国立聊天",
+      "onboard_time": 1685854708,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 578621,
       "num": 578621,
       "word": "男人眼中的6分女和6分男",
@@ -3235,20 +3259,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 570667,
-      "num": 318235,
-      "word": "因为开玩笑把我哥订婚搅黄了",
-      "onboard_time": 1685854948,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 569855,
       "num": 569855,
       "word": "肖战说谢谢淇哥",
       "onboard_time": 1685535265,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 567591,
+      "num": 567591,
+      "word": "重庆震感",
+      "onboard_time": 1685858067,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 565931,
@@ -3297,14 +3321,6 @@
       "onboard_time": 1685606668,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 560671,
-      "num": 560671,
-      "word": "王鹤棣趴着和宋丹丹张国立聊天",
-      "onboard_time": 1685854708,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 559462,
@@ -3481,6 +3497,14 @@
       "onboard_time": 1685674287,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 541556,
+      "num": 541556,
+      "word": "孟子义给徐志胜卸妆",
+      "onboard_time": 1685857709,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 541388,
@@ -4251,6 +4275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 448577,
+      "num": 448577,
+      "word": "汤晶媚组乐队没带任敏",
+      "onboard_time": 1685856988,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 445550,
       "num": 434581,
       "word": "王诗龄说好久不见何炅",
@@ -4425,14 +4457,6 @@
       "onboard_time": 1685455233,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 426130,
-      "num": 426130,
-      "word": "卡卡 北京",
-      "onboard_time": 1685854348,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 425822,
@@ -4617,6 +4641,14 @@
       "onboard_time": 1685421696,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414923,
+      "num": 414923,
+      "word": "宋茜性格",
+      "onboard_time": 1685855607,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 414791,
@@ -5121,14 +5153,6 @@
       "onboard_time": 1685510850,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 376300,
-      "num": 376300,
-      "word": "宋茜性格",
-      "onboard_time": 1685855607,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 376241,
@@ -6667,6 +6691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299719,
+      "num": 299719,
+      "word": "男生会有打伞羞耻吗",
+      "onboard_time": 1685857827,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298809,
       "num": 298809,
       "word": "宋祖儿显眼肚",
@@ -7539,6 +7571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 268873,
+      "num": 268873,
+      "word": "AG钟意 连接",
+      "onboard_time": 1685857528,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 268667,
       "num": 268667,
       "word": "小学生放学捡到特殊纸币报警",
@@ -8379,6 +8419,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 244994,
+      "num": 184720,
+      "word": "这个视频我能笑三天三夜",
+      "onboard_time": 1685859089,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 244684,
       "num": 244684,
       "word": "种地吧感恩音乐会官宣嘉宾阵容",
@@ -8599,6 +8647,14 @@
       "num": 239098,
       "word": "你有超过七年的友谊吗",
       "onboard_time": 1685610511,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 238948,
+      "num": 184356,
+      "word": "偶遇给自己销户的大叔",
+      "onboard_time": 1685856270,
       "rank": 42,
       "category": "情感"
     },
@@ -10635,6 +10691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196803,
+      "num": 196803,
+      "word": "威尔为什么还在",
+      "onboard_time": 1685856868,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196769,
       "num": 196769,
       "word": "国安",
@@ -11251,6 +11315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188573,
+      "num": 188573,
+      "word": "AG转会期",
+      "onboard_time": 1685858847,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188436,
       "num": 188436,
       "word": "清醒的感受失去才是自虐",
@@ -11865,6 +11937,14 @@
       "onboard_time": 1685402242,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175590,
+      "num": 175590,
+      "word": "cgv",
+      "onboard_time": 1685857827,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 175437,
@@ -12979,6 +13059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151203,
+      "num": 151203,
+      "word": "朱珠现在认识所有姐姐了",
+      "onboard_time": 1685857048,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 151149,
       "num": 151149,
       "word": "阿信",
@@ -13201,14 +13289,6 @@
       "onboard_time": 1685409328,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 146633,
-      "num": 146633,
-      "word": "偶遇给自己销户的大叔",
-      "onboard_time": 1685856270,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 146310,
@@ -13611,6 +13691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132601,
+      "num": 395300,
+      "word": "丽水一初中女篮训练太硬核了",
+      "onboard_time": 1685854829,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132341,
       "num": 196247,
       "word": "周迅livehouse与小朋友同台演唱",
@@ -13731,12 +13819,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130259,
+      "num": 130259,
+      "word": "你的名字土是因为哪个字",
+      "onboard_time": 1685859387,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129910,
       "num": 129910,
       "word": "杨颖看腹肌的反应",
       "onboard_time": 1685702248,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129116,
+      "num": 129116,
+      "word": "小狗守着腐烂狗妈妈尸体不愿离去",
+      "onboard_time": 1685859509,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129070,
@@ -13801,6 +13905,14 @@
       "onboard_time": 1685516430,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 128136,
+      "num": 128136,
+      "word": "你最近去过银行网点取钱吗",
+      "onboard_time": 1685858728,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127913,
@@ -13955,6 +14067,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 124333,
+      "num": 124333,
+      "word": "肖春生贺红玲be美学",
+      "onboard_time": 1685859326,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 124173,
       "num": 124173,
       "word": "防晒",
@@ -14073,6 +14193,14 @@
       "onboard_time": 1685359708,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121548,
+      "num": 121548,
+      "word": "如果你和对象互换身体24小时",
+      "onboard_time": 1685859326,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 121521,
@@ -14344,14 +14472,6 @@
       "word": "男孩演完节目一句话让妈妈泪奔",
       "onboard_time": 1685680113,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115156,
-      "num": 395300,
-      "word": "丽水一初中女篮训练太硬核了",
-      "onboard_time": 1685854829,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -15961,6 +16081,14 @@
       "onboard_time": 1685816656,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 47132,
+      "num": 450631,
+      "word": "小客车侧翻两位白衣大侠迅速救人",
+      "onboard_time": 1685858428,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47010,
