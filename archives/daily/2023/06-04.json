@@ -1,6 +1,6 @@
 {
   "startTime": 1685809286870,
-  "endTime": 1685867628307,
+  "endTime": 1685870261088,
   "band_list": [
     {
       "raw_hot": 3115180,
@@ -171,20 +171,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 934917,
+      "num": 779266,
+      "word": "小S大女儿获韩国舞蹈大赛第一名",
+      "onboard_time": 1685863948,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 921878,
       "num": 921878,
       "word": "张子豪 淘汰",
       "onboard_time": 1685853927,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 910087,
-      "num": 779266,
-      "word": "小S大女儿获韩国舞蹈大赛第一名",
-      "onboard_time": 1685863948,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 833816,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 803185,
-      "num": 509339,
+      "num": 589919,
       "word": "校方回应食堂饭菜中吃出老鼠头",
       "onboard_time": 1685863409,
       "rank": 32,
@@ -235,6 +235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 718000,
+      "num": 718000,
+      "word": "直女发言聊天记录",
+      "onboard_time": 1685860946,
+      "rank": 23,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 696467,
       "num": 696467,
       "word": "女孩父母回应网传黄渤放弃资助",
@@ -251,19 +259,19 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 678664,
+      "num": 678664,
+      "word": "请各国管好自家的军舰飞机",
+      "onboard_time": 1685864308,
+      "rank": 12,
+      "category": "军事"
+    },
+    {
       "raw_hot": 667281,
       "num": 667281,
       "word": "一人说一个奇怪的生理反应",
       "onboard_time": 1685804011,
       "rank": 7,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 664500,
-      "num": 664500,
-      "word": "直女发言聊天记录",
-      "onboard_time": 1685860946,
-      "rank": 23,
       "category": "幽默,情感"
     },
     {
@@ -275,12 +283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 615692,
-      "num": 502976,
-      "word": "请各国管好自家的军舰飞机",
-      "onboard_time": 1685864308,
-      "rank": 12,
-      "category": "军事"
+      "raw_hot": 625100,
+      "num": 625100,
+      "word": "四川乐山高位山体塌方14人遇难",
+      "onboard_time": 1685868747,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 603842,
@@ -288,6 +296,14 @@
       "word": "王鹤棣趴着和宋丹丹张国立聊天",
       "onboard_time": 1685854708,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 598197,
+      "num": 598197,
+      "word": "宋茜汤晶媚聊天门遭罪",
+      "onboard_time": 1685866048,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -355,12 +371,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 465652,
+      "num": 465652,
+      "word": "帆帆 TTG",
+      "onboard_time": 1685869286,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 448577,
       "num": 448577,
       "word": "汤晶媚组乐队没带任敏",
       "onboard_time": 1685856988,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 445333,
+      "num": 445333,
+      "word": "何炅的身材这么好吗",
+      "onboard_time": 1685865928,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 441431,
@@ -507,14 +539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 340911,
-      "num": 255213,
-      "word": "宋茜汤晶媚聊天门遭罪",
-      "onboard_time": 1685866048,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 340186,
       "num": 340186,
       "word": "男生会有打伞羞耻吗",
@@ -553,6 +577,14 @@
       "onboard_time": 1685809408,
       "rank": 38,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 331186,
+      "num": 331186,
+      "word": "TTG",
+      "onboard_time": 1685868806,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 330599,
@@ -611,6 +643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 302654,
+      "num": 302654,
+      "word": "爆剧最多的女演员",
+      "onboard_time": 1685869707,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 298228,
       "num": 298228,
       "word": "五月天演唱会",
@@ -641,6 +681,14 @@
       "onboard_time": 1685800650,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 290484,
+      "num": 290484,
+      "word": "紫幻TTG",
+      "onboard_time": 1685868086,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 286909,
@@ -729,6 +777,14 @@
       "onboard_time": 1685805391,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265873,
+      "num": 265873,
+      "word": "教练月光",
+      "onboard_time": 1685867666,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 261094,
@@ -875,6 +931,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225953,
+      "num": 225953,
+      "word": "蜘蛛侠",
+      "onboard_time": 1685869408,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 225081,
+      "num": 225081,
+      "word": "美国教授称海底住95天后年轻10岁",
+      "onboard_time": 1685867128,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224649,
       "num": 224649,
       "word": "文俊辉要考清华",
@@ -985,6 +1057,14 @@
       "onboard_time": 1685844506,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 200107,
+      "num": 200107,
+      "word": "杨幂龚俊或将合唱狐妖OST",
+      "onboard_time": 1685869467,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 198108,
@@ -1171,14 +1251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166156,
-      "num": 166156,
-      "word": "何炅的身材这么好吗",
-      "onboard_time": 1685865928,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 166025,
       "num": 166025,
       "word": "永远不要通过伤害自己自证",
@@ -1281,6 +1353,14 @@
       "onboard_time": 1685797169,
       "rank": 38,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 145964,
+      "num": 145964,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1685868806,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 145418,
@@ -1547,14 +1627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103532,
-      "num": 103532,
-      "word": "美国教授称海底住95天后年轻10岁",
-      "onboard_time": 1685867128,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102385,
       "num": 102385,
       "word": "刘奕君一个大逼斗黄磊记一辈子",
@@ -1675,6 +1747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49643,
+      "num": 465971,
+      "word": "女店主拎起灭火器冲上前救火",
+      "onboard_time": 1685869225,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47271,
       "num": 47271,
       "word": "宋祖儿特别出演热烈",
@@ -1697,6 +1777,14 @@
       "onboard_time": 1685822951,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20262,
+      "num": 751770,
+      "word": "60秒回顾神十五返回舱着陆",
+      "onboard_time": 1685869828,
+      "rank": 2,
+      "category": "社会新闻,科技"
     }
   ],
   "hotgov_list": [
