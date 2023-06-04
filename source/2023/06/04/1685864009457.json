@@ -1,0 +1,410 @@
+{
+  "runTime": 1685864009457,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1955167,
+        "num": 1955167,
+        "word": "任敏哭了",
+        "onboard_time": 1685855309,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1004708,
+        "num": 1004708,
+        "word": "我的脸被隐翅虫毁容了",
+        "onboard_time": 1685849424,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23204,
+        "num": 668278,
+        "word": "神十五航天员回地球",
+        "onboard_time": 1685802812,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1361592,
+        "num": 642073,
+        "word": "任敏 鸟鸟",
+        "onboard_time": 1685861067,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 601918,
+        "num": 601918,
+        "word": "卡卡 北京",
+        "onboard_time": 1685854348,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1012196,
+        "num": 580763,
+        "word": "孟子义锐评任敏汤晶媚乐队事件",
+        "onboard_time": 1685859687,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 542247,
+        "num": 542247,
+        "word": "蔡徐坤说叫我坤就可以了",
+        "onboard_time": 1685854348,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 469472,
+        "num": 469472,
+        "word": "你觉得椰树直播算擦边吗",
+        "onboard_time": 1685843365,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1915142,
+        "num": 460598,
+        "word": "因为开玩笑把我哥订婚搅黄了",
+        "onboard_time": 1685854948,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 445861,
+        "num": 445861,
+        "word": "79岁老人欲取离世儿子41万存款被拒",
+        "onboard_time": 1685847984,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3115180,
+        "num": 441895,
+        "word": "石家庄小三",
+        "onboard_time": 1685859987,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436363,
+        "num": 436363,
+        "word": "张子豪 淘汰",
+        "onboard_time": 1685853927,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422663,
+        "num": 422663,
+        "word": "春花厌 侯明昊",
+        "onboard_time": 1685860826,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420542,
+        "num": 420542,
+        "word": "重庆震感",
+        "onboard_time": 1685858067,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123510,
+        "num": 398739,
+        "word": "95后夫妻斗舞决定谁带娃一天",
+        "onboard_time": 1685862028,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387244,
+        "num": 387244,
+        "word": "肖战迪丽热巴赵露思V榜破9",
+        "onboard_time": 1685848465,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 362725,
+        "num": 362725,
+        "word": "卡琳娜发了李龙馥",
+        "onboard_time": 1685862267,
+        "rank": 16,
+        "category": "网红,艺人"
+      },
+      {
+        "raw_hot": 357627,
+        "num": 357627,
+        "word": "隐翅虫",
+        "onboard_time": 1685863527,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337599,
+        "num": 337599,
+        "word": "蔡徐坤与女舞伴热舞",
+        "onboard_time": 1685862869,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 300570,
+        "num": 300570,
+        "word": "男生会有打伞羞耻吗",
+        "onboard_time": 1685857827,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297343,
+        "num": 297343,
+        "word": "直女发言聊天记录",
+        "onboard_time": 1685860946,
+        "rank": 20,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 288125,
+        "num": 288125,
+        "word": "跑男打错范丞丞名字",
+        "onboard_time": 1685849967,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284271,
+        "num": 284271,
+        "word": "小狗守着腐烂狗妈妈尸体不愿离去",
+        "onboard_time": 1685859509,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281365,
+        "num": 281365,
+        "word": "肖战对蝴蝶的吸引力",
+        "onboard_time": 1685860587,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278617,
+        "num": 278617,
+        "word": "迪丽热巴 嘉人",
+        "onboard_time": 1685862747,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 271096,
+        "num": 271096,
+        "word": "王鹤棣趴着和宋丹丹张国立聊天",
+        "onboard_time": 1685854708,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250303,
+        "num": 250303,
+        "word": "张子豪在淘汰间打电话好心酸",
+        "onboard_time": 1685862327,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256285,
+        "num": 247016,
+        "word": "汤晶媚组乐队没带任敏",
+        "onboard_time": 1685856988,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239142,
+        "num": 239142,
+        "word": "你最近去过银行网点取钱吗",
+        "onboard_time": 1685858728,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121284,
+        "num": 199161,
+        "word": "加拿大护卫舰目睹中国战舰逼美舰改道",
+        "onboard_time": 1685845646,
+        "rank": 29,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 195097,
+        "num": 195097,
+        "word": "中国说唱 人情世故",
+        "onboard_time": 1685863050,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178058,
+        "num": 178058,
+        "word": "老鼠头",
+        "onboard_time": 1685863106,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175740,
+        "num": 175740,
+        "word": "校方回应食堂饭菜中吃出老鼠头",
+        "onboard_time": 1685863409,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 163955,
+        "num": 163955,
+        "word": "我曾一度认为是超市算错了",
+        "onboard_time": 1685840423,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162436,
+        "num": 162436,
+        "word": "AG钟意 连接",
+        "onboard_time": 1685857528,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159974,
+        "num": 159974,
+        "word": "奶奶看小鬼演唱会捂耳朵",
+        "onboard_time": 1685854409,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157560,
+        "num": 157560,
+        "word": "鸭脖",
+        "onboard_time": 1685853087,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143708,
+        "num": 143708,
+        "word": "这个视频我能笑三天三夜",
+        "onboard_time": 1685859089,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141565,
+        "num": 141565,
+        "word": "春花厌",
+        "onboard_time": 1685862327,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135625,
+        "num": 135625,
+        "word": "你的名字土是因为哪个字",
+        "onboard_time": 1685859387,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135323,
+        "num": 135323,
+        "word": "杨紫回眸生图vs精修",
+        "onboard_time": 1685844747,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128700,
+        "num": 128700,
+        "word": "AG转会期",
+        "onboard_time": 1685858847,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128610,
+        "num": 128610,
+        "word": "功夫胖淘汰",
+        "onboard_time": 1685861487,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128239,
+        "num": 128239,
+        "word": "偶遇给自己销户的大叔",
+        "onboard_time": 1685856270,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125732,
+        "num": 125732,
+        "word": "古人的送考吉祥话有多牛",
+        "onboard_time": 1685863829,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 121738,
+        "num": 121738,
+        "word": "刘耀文全员加速中路透",
+        "onboard_time": 1685855607,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120029,
+        "num": 120029,
+        "word": "韩娱四代TOP组合",
+        "onboard_time": 1685848345,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119283,
+        "num": 119283,
+        "word": "威尔为什么还在",
+        "onboard_time": 1685856868,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116894,
+        "num": 116894,
+        "word": "小S大女儿获韩国舞蹈大赛第一名",
+        "onboard_time": 1685863948,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112695,
+        "num": 112695,
+        "word": "迪丽热巴小碎步打招呼",
+        "onboard_time": 1685855007,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平谈文化传承发展#"
+    }
+  }
+}

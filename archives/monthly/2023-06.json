@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685862909714,
+  "endTime": 1685864009457,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -43,19 +43,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 3115180,
+      "num": 511446,
+      "word": "石家庄小三",
+      "onboard_time": 1685859987,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2799470,
       "num": 1051418,
       "word": "家属正在安排被撞小学生母亲后事",
       "onboard_time": 1685768309,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2794730,
-      "num": 511446,
-      "word": "石家庄小三",
-      "onboard_time": 1685859987,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1955167,
+      "num": 1955167,
+      "word": "任敏哭了",
+      "onboard_time": 1685855309,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1938833,
       "num": 539523,
       "word": "你喜欢大海 我承包岛",
@@ -265,14 +273,6 @@
       "onboard_time": 1685538987,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1787659,
-      "num": 1787659,
-      "word": "任敏哭了",
-      "onboard_time": 1685855309,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 1762482,
@@ -531,6 +531,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1361592,
+      "num": 1284064,
+      "word": "任敏 鸟鸟",
+      "onboard_time": 1685861067,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1333960,
       "num": 553485,
       "word": "李念官宣生三胎",
@@ -601,14 +609,6 @@
       "onboard_time": 1685585607,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1284064,
-      "num": 1284064,
-      "word": "任敏 鸟鸟",
-      "onboard_time": 1685861067,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1277272,
@@ -915,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1012196,
+      "num": 886806,
+      "word": "孟子义锐评任敏汤晶媚乐队事件",
+      "onboard_time": 1685859687,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1003411,
       "num": 424554,
       "word": "杨紫长发及腰了",
@@ -1025,14 +1033,6 @@
       "onboard_time": 1685624668,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 886806,
-      "num": 886806,
-      "word": "孟子义锐评任敏汤晶媚乐队事件",
-      "onboard_time": 1685859687,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 886032,
@@ -2267,20 +2267,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 422663,
+      "num": 422663,
+      "word": "春花厌 侯明昊",
+      "onboard_time": 1685860826,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 422138,
       "num": 422138,
       "word": "内娱果然离不开85花",
       "onboard_time": 1685696188,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 420400,
-      "num": 420400,
-      "word": "春花厌 侯明昊",
-      "onboard_time": 1685860826,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 419918,
@@ -2667,6 +2667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 362725,
+      "num": 362725,
+      "word": "卡琳娜发了李龙馥",
+      "onboard_time": 1685862267,
+      "rank": 27,
+      "category": "网红,艺人"
+    },
+    {
       "raw_hot": 360019,
       "num": 274169,
       "word": "一辆SUV盲区里藏着75名儿童",
@@ -2705,6 +2713,14 @@
       "onboard_time": 1685616867,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 357627,
+      "num": 357627,
+      "word": "隐翅虫",
+      "onboard_time": 1685863527,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357053,
@@ -2881,6 +2897,14 @@
       "onboard_time": 1685754269,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337599,
+      "num": 337599,
+      "word": "蔡徐坤与女舞伴热舞",
+      "onboard_time": 1685862869,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 337520,
@@ -3065,14 +3089,6 @@
       "onboard_time": 1685775026,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 325338,
-      "num": 188507,
-      "word": "蔡徐坤与女舞伴热舞",
-      "onboard_time": 1685862869,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 325019,
@@ -3419,6 +3435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 297343,
+      "num": 297343,
+      "word": "直女发言聊天记录",
+      "onboard_time": 1685860946,
+      "rank": 23,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 297284,
       "num": 297284,
       "word": "阿根廷中国行票价公布",
@@ -3619,6 +3643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284271,
+      "num": 284271,
+      "word": "小狗守着腐烂狗妈妈尸体不愿离去",
+      "onboard_time": 1685859509,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284219,
       "num": 284219,
       "word": "被贴吧盗图造谣女生本人发声",
@@ -3689,6 +3721,14 @@
       "onboard_time": 1685602106,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 278617,
+      "num": 278617,
+      "word": "迪丽热巴 嘉人",
+      "onboard_time": 1685862747,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 278441,
@@ -3793,14 +3833,6 @@
       "onboard_time": 1685633010,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 270350,
-      "num": 270350,
-      "word": "小狗守着腐烂狗妈妈尸体不愿离去",
-      "onboard_time": 1685859509,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 270321,
@@ -4347,14 +4379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 241238,
-      "num": 241238,
-      "word": "直女发言聊天记录",
-      "onboard_time": 1685860946,
-      "rank": 23,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 241211,
       "num": 241211,
       "word": "男子站斑马线旁聊天被撞飞当场死亡",
@@ -4393,6 +4417,14 @@
       "onboard_time": 1685845167,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 239142,
+      "num": 239142,
+      "word": "你最近去过银行网点取钱吗",
+      "onboard_time": 1685858728,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239098,
@@ -4867,14 +4899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 217548,
-      "num": 206152,
-      "word": "卡琳娜发了李龙馥",
-      "onboard_time": 1685862267,
-      "rank": 27,
-      "category": "网红,艺人"
-    },
-    {
       "raw_hot": 217536,
       "num": 217536,
       "word": "不提穷字描述自己很穷",
@@ -5275,14 +5299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200763,
-      "num": 200763,
-      "word": "你最近去过银行网点取钱吗",
-      "onboard_time": 1685858728,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200653,
       "num": 200653,
       "word": "张真源黑色花衬衫",
@@ -5473,6 +5489,14 @@
       "onboard_time": 1685782227,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195097,
+      "num": 195097,
+      "word": "中国说唱 人情世故",
+      "onboard_time": 1685863050,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 193780,
@@ -6067,6 +6091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178058,
+      "num": 178058,
+      "word": "老鼠头",
+      "onboard_time": 1685863106,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177832,
       "num": 177832,
       "word": "肖春生贺红玲be美学",
@@ -6121,6 +6153,14 @@
       "onboard_time": 1685841506,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 175740,
+      "num": 175740,
+      "word": "校方回应食堂饭菜中吃出老鼠头",
+      "onboard_time": 1685863409,
+      "rank": 32,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 175590,
@@ -7259,6 +7299,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 125732,
+      "num": 125732,
+      "word": "古人的送考吉祥话有多牛",
+      "onboard_time": 1685863829,
+      "rank": 44,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 125205,
       "num": 125205,
       "word": "贾静雯仙品侧颜",
@@ -7273,6 +7321,14 @@
       "onboard_time": 1685575402,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123510,
+      "num": 418540,
+      "word": "95后夫妻斗舞决定谁带娃一天",
+      "onboard_time": 1685862028,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123396,
@@ -7448,6 +7504,14 @@
       "word": "杨天真教你搞钱",
       "onboard_time": 1685775567,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 116894,
+      "num": 116894,
+      "word": "小S大女儿获韩国舞蹈大赛第一名",
+      "onboard_time": 1685863948,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -8593,14 +8657,6 @@
       "onboard_time": 1685737032,
       "rank": 14,
       "category": "综艺,综艺"
-    },
-    {
-      "raw_hot": 45503,
-      "num": 418540,
-      "word": "95后夫妻斗舞决定谁带娃一天",
-      "onboard_time": 1685862028,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 45301,
