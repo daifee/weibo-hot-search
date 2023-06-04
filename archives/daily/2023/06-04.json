@@ -1,6 +1,6 @@
 {
   "startTime": 1685809286870,
-  "endTime": 1685855753568,
+  "endTime": 1685856802847,
   "band_list": [
     {
       "raw_hot": 2102301,
@@ -123,12 +123,28 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 829245,
-      "num": 829245,
+      "raw_hot": 934798,
+      "num": 934798,
+      "word": "任敏哭了",
+      "onboard_time": 1685855309,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 921878,
+      "num": 921878,
       "word": "张子豪 淘汰",
       "onboard_time": 1685853927,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 752143,
+      "num": 594375,
+      "word": "鸭脖",
+      "onboard_time": 1685853087,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 751501,
@@ -137,6 +153,14 @@
       "onboard_time": 1685846847,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 730761,
+      "num": 730761,
+      "word": "蔡徐坤说叫我坤就可以了",
+      "onboard_time": 1685854348,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 726723,
@@ -171,6 +195,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 570667,
+      "num": 318235,
+      "word": "因为开玩笑把我哥订婚搅黄了",
+      "onboard_time": 1685854948,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 564004,
       "num": 564004,
       "word": "五月天鸟巢尾场唱任意门",
@@ -179,19 +211,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 560671,
+      "num": 560671,
+      "word": "王鹤棣趴着和宋丹丹张国立聊天",
+      "onboard_time": 1685854708,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 557421,
       "num": 557421,
       "word": "男子结婚4战友随2厚本刮刮乐",
       "onboard_time": 1685849967,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 541033,
-      "num": 484875,
-      "word": "鸭脖",
-      "onboard_time": 1685853087,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -227,14 +259,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 476304,
-      "num": 476304,
-      "word": "蔡徐坤说叫我坤就可以了",
-      "onboard_time": 1685854348,
-      "rank": 11,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 441431,
       "num": 441431,
       "word": "在年代剧里遇到了crush",
@@ -251,6 +275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 426130,
+      "num": 426130,
+      "word": "卡卡 北京",
+      "onboard_time": 1685854348,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 411765,
       "num": 279454,
       "word": "学术妲己",
@@ -265,14 +297,6 @@
       "onboard_time": 1685840364,
       "rank": 20,
       "category": "科技"
-    },
-    {
-      "raw_hot": 410177,
-      "num": 304181,
-      "word": "因为开玩笑把我哥订婚搅黄了",
-      "onboard_time": 1685854948,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 396636,
@@ -307,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376300,
+      "num": 376300,
+      "word": "宋茜性格",
+      "onboard_time": 1685855607,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 372976,
       "num": 372976,
       "word": "杨紫撑伞回眸",
@@ -337,14 +369,6 @@
       "onboard_time": 1685805271,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 351093,
-      "num": 300575,
-      "word": "王鹤棣趴着和宋丹丹张国立聊天",
-      "onboard_time": 1685854708,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 348302,
@@ -379,12 +403,12 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 330203,
-      "num": 330203,
-      "word": "卡卡 北京",
-      "onboard_time": 1685854348,
-      "rank": 17,
-      "category": "体育"
+      "raw_hot": 330599,
+      "num": 318191,
+      "word": "迪丽热巴小碎步打招呼",
+      "onboard_time": 1685855007,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 329482,
@@ -392,6 +416,14 @@
       "word": "Lisa暗夜玫瑰造型",
       "onboard_time": 1685846186,
       "rank": 14,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 317993,
+      "num": 317993,
+      "word": "奶奶看小鬼演唱会捂耳朵",
+      "onboard_time": 1685854409,
+      "rank": 24,
       "category": "音乐"
     },
     {
@@ -441,14 +473,6 @@
       "onboard_time": 1685800650,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 288987,
-      "num": 288987,
-      "word": "奶奶看小鬼演唱会捂耳朵",
-      "onboard_time": 1685854409,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 286243,
@@ -579,14 +603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 238508,
-      "num": 238508,
-      "word": "宋茜性格",
-      "onboard_time": 1685855607,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 238345,
       "num": 238345,
       "word": "离职时HR把我的职位写高了",
@@ -611,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 229703,
-      "num": 229703,
-      "word": "任敏哭了",
-      "onboard_time": 1685855309,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224649,
       "num": 224649,
       "word": "文俊辉要考清华",
@@ -635,12 +643,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 218320,
-      "num": 218320,
-      "word": "迪丽热巴小碎步打招呼",
-      "onboard_time": 1685855007,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 218758,
+      "num": 213423,
+      "word": "研究表明宇宙中的一切最终都会蒸发",
+      "onboard_time": 1685856689,
+      "rank": 30,
+      "category": "科技,自然"
     },
     {
       "raw_hot": 217536,
@@ -923,6 +931,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 146633,
+      "num": 146633,
+      "word": "偶遇给自己销户的大叔",
+      "onboard_time": 1685856270,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145418,
       "num": 145418,
       "word": "无食欲拍照大法",
@@ -1067,6 +1083,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 115156,
+      "num": 395300,
+      "word": "丽水一初中女篮训练太硬核了",
+      "onboard_time": 1685854829,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113681,
       "num": 113681,
       "word": "巴黎官宣梅西离队",
@@ -1185,14 +1209,6 @@
       "onboard_time": 1685834597,
       "rank": 43,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 60531,
-      "num": 368472,
-      "word": "丽水一初中女篮训练太硬核了",
-      "onboard_time": 1685854829,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60391,

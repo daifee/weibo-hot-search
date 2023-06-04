@@ -1,0 +1,410 @@
+{
+  "runTime": 1685856802847,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1463075,
+        "num": 1463075,
+        "word": "79岁老人欲取离世儿子41万存款被拒",
+        "onboard_time": 1685847984,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1434659,
+        "num": 1434659,
+        "word": "我的脸被隐翅虫毁容了",
+        "onboard_time": 1685849424,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48989,
+        "num": 1266623,
+        "word": "神十五航天员回地球",
+        "onboard_time": 1685802812,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1163821,
+        "num": 1163821,
+        "word": "跑男打错范丞丞名字",
+        "onboard_time": 1685849967,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 934798,
+        "num": 934798,
+        "word": "任敏哭了",
+        "onboard_time": 1685855309,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 922142,
+        "num": 922142,
+        "word": "你觉得椰树直播算擦边吗",
+        "onboard_time": 1685843365,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 921878,
+        "num": 921878,
+        "word": "张子豪 淘汰",
+        "onboard_time": 1685853927,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 730761,
+        "num": 730761,
+        "word": "蔡徐坤说叫我坤就可以了",
+        "onboard_time": 1685854348,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 612773,
+        "num": 612773,
+        "word": "我曾一度认为是超市算错了",
+        "onboard_time": 1685840423,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 599731,
+        "num": 599731,
+        "word": "肖战迪丽热巴赵露思V榜破9",
+        "onboard_time": 1685848465,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 752143,
+        "num": 594375,
+        "word": "鸭脖",
+        "onboard_time": 1685853087,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560671,
+        "num": 560671,
+        "word": "王鹤棣趴着和宋丹丹张国立聊天",
+        "onboard_time": 1685854708,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426130,
+        "num": 426130,
+        "word": "卡卡 北京",
+        "onboard_time": 1685854348,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 421128,
+        "num": 421128,
+        "word": "男子结婚4战友随2厚本刮刮乐",
+        "onboard_time": 1685849967,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115156,
+        "num": 395300,
+        "word": "丽水一初中女篮训练太硬核了",
+        "onboard_time": 1685854829,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376300,
+        "num": 376300,
+        "word": "宋茜性格",
+        "onboard_time": 1685855607,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357200,
+        "num": 357200,
+        "word": "一人说一个奇怪的生理反应",
+        "onboard_time": 1685804011,
+        "rank": 16,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 344675,
+        "num": 344675,
+        "word": "韩娱四代TOP组合",
+        "onboard_time": 1685848345,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329069,
+        "num": 329069,
+        "word": "千万不要把水果当饭吃",
+        "onboard_time": 1685838263,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 318299,
+        "num": 318299,
+        "word": "那英送何炅的衣服竟然是童装",
+        "onboard_time": 1685839106,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 570667,
+        "num": 318235,
+        "word": "因为开玩笑把我哥订婚搅黄了",
+        "onboard_time": 1685854948,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 330599,
+        "num": 318191,
+        "word": "迪丽热巴小碎步打招呼",
+        "onboard_time": 1685855007,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317993,
+        "num": 317993,
+        "word": "奶奶看小鬼演唱会捂耳朵",
+        "onboard_time": 1685854409,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 303464,
+        "num": 303464,
+        "word": "刘耀文全员加速中路透",
+        "onboard_time": 1685855607,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273399,
+        "num": 273399,
+        "word": "孩子随母姓被拒分配村集体收入",
+        "onboard_time": 1685846847,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235459,
+        "num": 235459,
+        "word": "姑姑拍到侄女做梦吃雪糕",
+        "onboard_time": 1685841865,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231179,
+        "num": 231179,
+        "word": "谭松韵丁禹兮 蜀锦人家",
+        "onboard_time": 1685851588,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229695,
+        "num": 229695,
+        "word": "那天他一下救了三个人",
+        "onboard_time": 1685852606,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215569,
+        "num": 215569,
+        "word": "加拿大护卫舰目睹中国战舰逼美舰改道",
+        "onboard_time": 1685845646,
+        "rank": 28,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 214946,
+        "num": 214946,
+        "word": "杨紫回眸生图vs精修",
+        "onboard_time": 1685844747,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218758,
+        "num": 213423,
+        "word": "研究表明宇宙中的一切最终都会蒸发",
+        "onboard_time": 1685856689,
+        "rank": 30,
+        "category": "科技,自然"
+      },
+      {
+        "raw_hot": 206863,
+        "num": 206863,
+        "word": "五十公里桃花坞",
+        "onboard_time": 1685851827,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204536,
+        "num": 204536,
+        "word": "原配抓小三路人帮腔大骂男方不要脸",
+        "onboard_time": 1685801973,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194329,
+        "num": 194329,
+        "word": "Lisa演唱会跳flower",
+        "onboard_time": 1685851286,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192120,
+        "num": 192120,
+        "word": "不提穷字描述自己很穷",
+        "onboard_time": 1685853567,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 187207,
+        "num": 187207,
+        "word": "法老 说唱界的显眼包",
+        "onboard_time": 1685846605,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165028,
+        "num": 165028,
+        "word": "五月天鸟巢尾场唱任意门",
+        "onboard_time": 1685842406,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155607,
+        "num": 155607,
+        "word": "Spotify流媒10亿KPOP艺人",
+        "onboard_time": 1685850147,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154145,
+        "num": 154145,
+        "word": "女生生气真的会生病的",
+        "onboard_time": 1685849547,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 153793,
+        "num": 153793,
+        "word": "张子豪唱哭全场",
+        "onboard_time": 1685855067,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151819,
+        "num": 151819,
+        "word": "QQ音乐豪华绿钻续费价格上调",
+        "onboard_time": 1685840364,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 149932,
+        "num": 149932,
+        "word": "真的不建议低谷期谈恋爱",
+        "onboard_time": 1685849786,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 146633,
+        "num": 146633,
+        "word": "偶遇给自己销户的大叔",
+        "onboard_time": 1685856270,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142494,
+        "num": 142494,
+        "word": "爸爸妈妈实现了女儿的钢琴梦",
+        "onboard_time": 1685849846,
+        "rank": 43,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 132770,
+        "num": 132770,
+        "word": "二建",
+        "onboard_time": 1685852067,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 113132,
+        "num": 113132,
+        "word": "2023高考",
+        "onboard_time": 1685841743,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 111615,
+        "num": 111615,
+        "word": "女孩家长称黄渤赠送手表未送给弟弟",
+        "onboard_time": 1685803471,
+        "rank": 46,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 108035,
+        "num": 108035,
+        "word": "蔡徐坤演唱会大型蹦迪现场",
+        "onboard_time": 1685841204,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 106682,
+        "num": 106682,
+        "word": "一只鸡现象",
+        "onboard_time": 1685848106,
+        "rank": 48,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 103102,
+        "num": 103102,
+        "word": "文俊辉晒与洪知秀花絮照",
+        "onboard_time": 1685851347,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#带着我的梦想上天宫#"
+    }
+  }
+}

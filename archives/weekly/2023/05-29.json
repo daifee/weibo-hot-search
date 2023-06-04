@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685855753568,
+  "endTime": 1685856802847,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -1963,6 +1963,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 934798,
+      "num": 934798,
+      "word": "任敏哭了",
+      "onboard_time": 1685855309,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 929988,
       "num": 929988,
       "word": "秦昊恋爱脑",
@@ -1977,6 +1985,14 @@
       "onboard_time": 1685718693,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 921878,
+      "num": 921878,
+      "word": "张子豪 淘汰",
+      "onboard_time": 1685853927,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 919453,
@@ -2155,14 +2171,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 829245,
-      "num": 829245,
-      "word": "张子豪 淘汰",
-      "onboard_time": 1685853927,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 827838,
       "num": 827838,
       "word": "四川大学回应女博士生介入导师婚姻",
@@ -2339,6 +2347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 752143,
+      "num": 594375,
+      "word": "鸭脖",
+      "onboard_time": 1685853087,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 751501,
       "num": 533863,
       "word": "孩子随母姓被拒分配村集体收入",
@@ -2360,6 +2376,14 @@
       "word": "五月天演唱会成大型求婚现场",
       "onboard_time": 1685413408,
       "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 730761,
+      "num": 730761,
+      "word": "蔡徐坤说叫我坤就可以了",
+      "onboard_time": 1685854348,
+      "rank": 11,
       "category": "音乐"
     },
     {
@@ -3211,6 +3235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 570667,
+      "num": 318235,
+      "word": "因为开玩笑把我哥订婚搅黄了",
+      "onboard_time": 1685854948,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 569855,
       "num": 569855,
       "word": "肖战说谢谢淇哥",
@@ -3265,6 +3297,14 @@
       "onboard_time": 1685606668,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 560671,
+      "num": 560671,
+      "word": "王鹤棣趴着和宋丹丹张国立聊天",
+      "onboard_time": 1685854708,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 559462,
@@ -3448,14 +3488,6 @@
       "word": "四川一男子当街持刀捅伤女子后自杀",
       "onboard_time": 1685791348,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 541033,
-      "num": 484875,
-      "word": "鸭脖",
-      "onboard_time": 1685853087,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -3971,14 +4003,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 476304,
-      "num": 476304,
-      "word": "蔡徐坤说叫我坤就可以了",
-      "onboard_time": 1685854348,
-      "rank": 11,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 475838,
       "num": 475838,
       "word": "以爱为营",
@@ -4403,6 +4427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 426130,
+      "num": 426130,
+      "word": "卡卡 北京",
+      "onboard_time": 1685854348,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 425822,
       "num": 483681,
       "word": "马斯克再次成世界首富",
@@ -4633,14 +4665,6 @@
       "onboard_time": 1685840364,
       "rank": 20,
       "category": "科技"
-    },
-    {
-      "raw_hot": 410177,
-      "num": 304181,
-      "word": "因为开玩笑把我哥订婚搅黄了",
-      "onboard_time": 1685854948,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 409106,
@@ -5099,6 +5123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 376300,
+      "num": 376300,
+      "word": "宋茜性格",
+      "onboard_time": 1685855607,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 376241,
       "num": 376241,
       "word": "范丞丞帮杨紫拿奖杯",
@@ -5465,14 +5497,6 @@
       "onboard_time": 1685369314,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 351093,
-      "num": 300575,
-      "word": "王鹤棣趴着和宋丹丹张国立聊天",
-      "onboard_time": 1685854708,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 350994,
@@ -5859,20 +5883,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 330599,
+      "num": 318191,
+      "word": "迪丽热巴小碎步打招呼",
+      "onboard_time": 1685855007,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 330433,
       "num": 330433,
       "word": "三分野",
       "onboard_time": 1685369552,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 330203,
-      "num": 330203,
-      "word": "卡卡 北京",
-      "onboard_time": 1685854348,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 330080,
@@ -6232,6 +6256,14 @@
       "word": "谭松韵生日发自己写的歌",
       "onboard_time": 1685501188,
       "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 317993,
+      "num": 317993,
+      "word": "奶奶看小鬼演唱会捂耳朵",
+      "onboard_time": 1685854409,
+      "rank": 24,
       "category": "音乐"
     },
     {
@@ -6865,14 +6897,6 @@
       "onboard_time": 1685753188,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 288987,
-      "num": 288987,
-      "word": "奶奶看小鬼演唱会捂耳朵",
-      "onboard_time": 1685854409,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 288392,
@@ -8603,14 +8627,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 238508,
-      "num": 238508,
-      "word": "宋茜性格",
-      "onboard_time": 1685855607,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 238385,
       "num": 238385,
       "word": "林诗栋",
@@ -9009,14 +9025,6 @@
       "onboard_time": 1685493752,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 229703,
-      "num": 229703,
-      "word": "任敏哭了",
-      "onboard_time": 1685855309,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 229544,
@@ -9475,20 +9483,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 218758,
+      "num": 213423,
+      "word": "研究表明宇宙中的一切最终都会蒸发",
+      "onboard_time": 1685856689,
+      "rank": 30,
+      "category": "科技,自然"
+    },
+    {
       "raw_hot": 218571,
       "num": 218571,
       "word": "王欣瑜首进大满贯32强",
       "onboard_time": 1685626111,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 218320,
-      "num": 218320,
-      "word": "迪丽热巴小碎步打招呼",
-      "onboard_time": 1685855007,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 218141,
@@ -13195,6 +13203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 146633,
+      "num": 146633,
+      "word": "偶遇给自己销户的大叔",
+      "onboard_time": 1685856270,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146310,
       "num": 146310,
       "word": "薛之谦武汉",
@@ -14328,6 +14344,14 @@
       "word": "男孩演完节目一句话让妈妈泪奔",
       "onboard_time": 1685680113,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115156,
+      "num": 395300,
+      "word": "丽水一初中女篮训练太硬核了",
+      "onboard_time": 1685854829,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -15697,14 +15721,6 @@
       "onboard_time": 1685340026,
       "rank": 14,
       "category": "科技"
-    },
-    {
-      "raw_hot": 60531,
-      "num": 368472,
-      "word": "丽水一初中女篮训练太硬核了",
-      "onboard_time": 1685854829,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60391,
