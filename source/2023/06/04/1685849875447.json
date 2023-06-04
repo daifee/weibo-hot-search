@@ -1,0 +1,410 @@
+{
+  "runTime": 1685849875447,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1471783,
+        "num": 1471783,
+        "word": "你觉得椰树直播算擦边吗",
+        "onboard_time": 1685843365,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1205609,
+        "num": 1205609,
+        "word": "79岁老人欲取离世儿子41万存款被拒",
+        "onboard_time": 1685847984,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76417,
+        "num": 1189964,
+        "word": "神十五航天员回地球",
+        "onboard_time": 1685802812,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1183217,
+        "num": 1183217,
+        "word": "姑姑拍到侄女做梦吃雪糕",
+        "onboard_time": 1685841865,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 819155,
+        "num": 819155,
+        "word": "我曾一度认为是超市算错了",
+        "onboard_time": 1685840423,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 709348,
+        "num": 709348,
+        "word": "千万不要把水果当饭吃",
+        "onboard_time": 1685838263,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 653256,
+        "num": 653256,
+        "word": "肖战迪丽热巴赵露思V榜破9",
+        "onboard_time": 1685848465,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 565263,
+        "num": 565263,
+        "word": "女孩家长称黄渤赠送手表未送给弟弟",
+        "onboard_time": 1685803471,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 544857,
+        "num": 544857,
+        "word": "一人说一个奇怪的生理反应",
+        "onboard_time": 1685804011,
+        "rank": 8,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 533960,
+        "num": 533960,
+        "word": "Angelababy奔跑吧时长",
+        "onboard_time": 1685841806,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 751501,
+        "num": 533863,
+        "word": "孩子随母姓被拒分配村集体收入",
+        "onboard_time": 1685846847,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528466,
+        "num": 528466,
+        "word": "那英送何炅的衣服竟然是童装",
+        "onboard_time": 1685839106,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 413048,
+        "num": 413048,
+        "word": "原配抓小三路人帮腔大骂男方不要脸",
+        "onboard_time": 1685801973,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369318,
+        "num": 369318,
+        "word": "韩娱四代TOP组合",
+        "onboard_time": 1685848345,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336260,
+        "num": 336260,
+        "word": "加拿大护卫舰目睹中国战舰逼美舰改道",
+        "onboard_time": 1685845646,
+        "rank": 14,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 319048,
+        "num": 319048,
+        "word": "在年代剧里遇到了crush",
+        "onboard_time": 1685843846,
+        "rank": 15,
+        "category": "影视,情感"
+      },
+      {
+        "raw_hot": 310979,
+        "num": 310979,
+        "word": "椰树审美",
+        "onboard_time": 1685845587,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300482,
+        "num": 300482,
+        "word": "五月天鸟巢尾场唱任意门",
+        "onboard_time": 1685842406,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 276146,
+        "num": 276146,
+        "word": "法老 说唱界的显眼包",
+        "onboard_time": 1685846605,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274688,
+        "num": 274688,
+        "word": "萌娃检查身体时突然向医生wink",
+        "onboard_time": 1685833277,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282360,
+        "num": 272719,
+        "word": "杨紫回眸生图vs精修",
+        "onboard_time": 1685844747,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267865,
+        "num": 267865,
+        "word": "如果你每天早起15分钟",
+        "onboard_time": 1685845886,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264576,
+        "num": 264576,
+        "word": "梅西自宣离队",
+        "onboard_time": 1685807790,
+        "rank": 22,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 254301,
+        "num": 254301,
+        "word": "我的脸被隐翅虫毁容了",
+        "onboard_time": 1685849424,
+        "rank": 23,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 250885,
+        "num": 250885,
+        "word": "Lisa暗夜玫瑰造型",
+        "onboard_time": 1685846186,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 216157,
+        "num": 216157,
+        "word": "侯明昊七年前试镜视频",
+        "onboard_time": 1685846968,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210559,
+        "num": 210559,
+        "word": "张小狮 大树",
+        "onboard_time": 1685806172,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 208628,
+        "num": 208628,
+        "word": "香港一精神病人在商场当众捅死2人",
+        "onboard_time": 1685800528,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205932,
+        "num": 205932,
+        "word": "陈伟霆亲到耳朵红了",
+        "onboard_time": 1685792367,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203854,
+        "num": 203854,
+        "word": "QQ音乐豪华绿钻续费价格上调",
+        "onboard_time": 1685840364,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 254744,
+        "num": 201853,
+        "word": "女生生气真的会生病的",
+        "onboard_time": 1685849547,
+        "rank": 30,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 225126,
+        "num": 192007,
+        "word": "一只鸡现象",
+        "onboard_time": 1685848106,
+        "rank": 31,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 179349,
+        "num": 179349,
+        "word": "女子穿人字拖鞋带断裂摔下2楼险毁容",
+        "onboard_time": 1685846126,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174615,
+        "num": 174615,
+        "word": "enhypen签售会新要求",
+        "onboard_time": 1685847984,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172673,
+        "num": 172673,
+        "word": "杨和苏怎么输的",
+        "onboard_time": 1685845167,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172351,
+        "num": 172351,
+        "word": "真的不建议低谷期谈恋爱",
+        "onboard_time": 1685849786,
+        "rank": 35,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 163588,
+        "num": 163588,
+        "word": "黄子韬说我装一下",
+        "onboard_time": 1685845945,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159504,
+        "num": 159504,
+        "word": "流浪地球 好听",
+        "onboard_time": 1685843666,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145418,
+        "num": 145418,
+        "word": "无食欲拍照大法",
+        "onboard_time": 1685847566,
+        "rank": 38,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 144055,
+        "num": 144055,
+        "word": "QQ音乐回应豪华绿钻续费价格上调",
+        "onboard_time": 1685844025,
+        "rank": 39,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 142306,
+        "num": 142306,
+        "word": "蔡徐坤演唱会大型蹦迪现场",
+        "onboard_time": 1685841204,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139636,
+        "num": 139636,
+        "word": "田柾国将solo出道",
+        "onboard_time": 1685839284,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132685,
+        "num": 132685,
+        "word": "2023高考",
+        "onboard_time": 1685841743,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 131684,
+        "num": 131684,
+        "word": "为何男性比女性更显老",
+        "onboard_time": 1685843246,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126224,
+        "num": 126224,
+        "word": "邓清明出舱后笑得好开心",
+        "onboard_time": 1685849367,
+        "rank": 44,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 115190,
+        "num": 115190,
+        "word": "井胧追星张杰成功",
+        "onboard_time": 1685835740,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113956,
+        "num": 113956,
+        "word": "爸爸妈妈实现了女儿的钢琴梦",
+        "onboard_time": 1685849846,
+        "rank": 46,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 113011,
+        "num": 113011,
+        "word": "叶舒华说等洪恩採长大",
+        "onboard_time": 1685835920,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104744,
+        "num": 104744,
+        "word": "重启天涯直播7天7夜仅带货36万",
+        "onboard_time": 1685845527,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104616,
+        "num": 104616,
+        "word": "监控里听到妈妈声音后的小狗",
+        "onboard_time": 1685844085,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力建设中华民族现代文明#"
+    }
+  }
+}

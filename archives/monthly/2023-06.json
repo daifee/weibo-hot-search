@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685848308435,
+  "endTime": 1685849875447,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -371,8 +371,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1456528,
-      "num": 1456528,
+      "raw_hot": 1471783,
+      "num": 1471783,
       "word": "你觉得椰树直播算擦边吗",
       "onboard_time": 1685843365,
       "rank": 14,
@@ -651,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1205609,
+      "num": 1205609,
+      "word": "79岁老人欲取离世儿子41万存款被拒",
+      "onboard_time": 1685847984,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1205084,
       "num": 1205084,
       "word": "护心31集 封神",
@@ -673,6 +681,14 @@
       "onboard_time": 1685748741,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1183217,
+      "num": 1183217,
+      "word": "姑姑拍到侄女做梦吃雪糕",
+      "onboard_time": 1685841865,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1175741,
@@ -793,14 +809,6 @@
       "onboard_time": 1685840423,
       "rank": 3,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1062442,
-      "num": 1062442,
-      "word": "姑姑拍到侄女做梦吃雪糕",
-      "onboard_time": 1685841865,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1050365,
@@ -1099,6 +1107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 751501,
+      "num": 533863,
+      "word": "孩子随母姓被拒分配村集体收入",
+      "onboard_time": 1685846847,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 726387,
       "num": 1615343,
       "word": "女子为帮装空调丈夫拉安全绳拒绝减肥",
@@ -1329,6 +1345,14 @@
       "onboard_time": 1685539347,
       "rank": 4,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 653256,
+      "num": 653256,
+      "word": "肖战迪丽热巴赵露思V榜破9",
+      "onboard_time": 1685848465,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 632733,
@@ -1643,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 533960,
+      "num": 533960,
+      "word": "Angelababy奔跑吧时长",
+      "onboard_time": 1685841806,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 533282,
       "num": 328419,
       "word": "李泰容吧 抽抽乐",
@@ -1793,14 +1825,6 @@
       "onboard_time": 1685593770,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 484405,
-      "num": 484405,
-      "word": "Angelababy奔跑吧时长",
-      "onboard_time": 1685841806,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 481326,
@@ -2459,6 +2483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 369318,
+      "num": 369318,
+      "word": "韩娱四代TOP组合",
+      "onboard_time": 1685848345,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 366252,
       "num": 366252,
       "word": "华晨宇五月天",
@@ -2484,7 +2516,7 @@
     },
     {
       "raw_hot": 363292,
-      "num": 254780,
+      "num": 267865,
       "word": "如果你每天早起15分钟",
       "onboard_time": 1685845886,
       "rank": 20,
@@ -2708,11 +2740,19 @@
     },
     {
       "raw_hot": 336941,
-      "num": 254673,
+      "num": 272719,
       "word": "杨紫回眸生图vs精修",
       "onboard_time": 1685844747,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 336260,
+      "num": 336260,
+      "word": "加拿大护卫舰目睹中国战舰逼美舰改道",
+      "onboard_time": 1685845646,
+      "rank": 15,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 335995,
@@ -2889,14 +2929,6 @@
       "onboard_time": 1685786427,
       "rank": 30,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 322287,
-      "num": 322287,
-      "word": "加拿大护卫舰目睹中国战舰逼美舰改道",
-      "onboard_time": 1685845646,
-      "rank": 15,
-      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 321734,
@@ -3089,14 +3121,6 @@
       "onboard_time": 1685676746,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 303325,
-      "num": 303325,
-      "word": "孩子随母姓被拒分配村集体收入",
-      "onboard_time": 1685846847,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 302799,
@@ -3499,6 +3523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276146,
+      "num": 276146,
+      "word": "法老 说唱界的显眼包",
+      "onboard_time": 1685846605,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275421,
       "num": 275421,
       "word": "花花和大家打招呼",
@@ -3723,14 +3755,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 260827,
-      "num": 260827,
-      "word": "法老 说唱界的显眼包",
-      "onboard_time": 1685846605,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 260431,
       "num": 258231,
       "word": "目睹活鱼店老板进货冻鱼",
@@ -3851,12 +3875,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254744,
+      "num": 201853,
+      "word": "女生生气真的会生病的",
+      "onboard_time": 1685849547,
+      "rank": 30,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 254531,
       "num": 254531,
       "word": "小时候都有哪些无法释怀的事",
       "onboard_time": 1685590048,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 254301,
+      "num": 254301,
+      "word": "我的脸被隐翅虫毁容了",
+      "onboard_time": 1685849424,
+      "rank": 23,
+      "category": "其它"
     },
     {
       "raw_hot": 254196,
@@ -4385,6 +4425,14 @@
       "onboard_time": 1685786368,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 225126,
+      "num": 192007,
+      "word": "一只鸡现象",
+      "onboard_time": 1685848106,
+      "rank": 47,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 224886,
@@ -5739,6 +5787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172351,
+      "num": 172351,
+      "word": "真的不建议低谷期谈恋爱",
+      "onboard_time": 1685849786,
+      "rank": 35,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 172278,
       "num": 167351,
       "word": "美依礼芽晒自己画的眼妆",
@@ -5767,14 +5823,6 @@
       "num": 263494,
       "word": "广告牌砸倒三名女子路人飞奔营救",
       "onboard_time": 1685681137,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171028,
-      "num": 171028,
-      "word": "79岁老人欲取离世儿子41万存款被拒",
-      "onboard_time": 1685847984,
       "rank": 39,
       "category": "社会新闻"
     },
@@ -6419,6 +6467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145418,
+      "num": 145418,
+      "word": "无食欲拍照大法",
+      "onboard_time": 1685847566,
+      "rank": 41,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 145184,
       "num": 145184,
       "word": "瞬息全宇宙",
@@ -6771,6 +6827,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 126224,
+      "num": 126224,
+      "word": "邓清明出舱后笑得好开心",
+      "onboard_time": 1685849367,
+      "rank": 44,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 125205,
       "num": 125205,
       "word": "贾静雯仙品侧颜",
@@ -6873,14 +6937,6 @@
       "onboard_time": 1685575461,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 118951,
-      "num": 118951,
-      "word": "无食欲拍照大法",
-      "onboard_time": 1685847566,
-      "rank": 41,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 118769,
@@ -6995,11 +7051,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 113712,
-      "num": 113712,
-      "word": "一只鸡现象",
-      "onboard_time": 1685848106,
-      "rank": 47,
+      "raw_hot": 113956,
+      "num": 113956,
+      "word": "爸爸妈妈实现了女儿的钢琴梦",
+      "onboard_time": 1685849846,
+      "rank": 46,
       "category": "社会新闻,情感"
     },
     {
