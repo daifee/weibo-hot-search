@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/05 00:35:58
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/05 01:13:37
 </p>
 </blockquote>
 <p>
@@ -3105,6 +3105,12 @@ TFBOYS演唱会最终章（热度：289572）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E6%A8%A1%E4%BB%BF%E8%99%9E%E4%B9%A6%E6%AC%A3%E9%95%BF%E7%8F%A9%E4%BB%99%E5%90%9B%E5%A4%B8%E6%88%91%E5%92%AF%23" target="weibo">
+杨超越模仿虞书欣长珩仙君夸我咯（热度：286381）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%AE%9C%E6%98%8C%E5%8A%A0%E5%9C%BA%23" target="weibo">
 薛之谦宜昌加场（热度：286367）
 </a>
@@ -4307,12 +4313,6 @@ EXO回归中（热度：218136）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%B1%89%E8%89%AF%E5%84%BF%E7%AB%A5%E8%8A%82%E8%AF%B7%E5%9B%A2%E9%98%9F%E7%9C%8B%E4%BA%94%E6%9C%88%E5%A4%A9%23" target="weibo">
 钟汉良儿童节请团队看五月天（热度：215032）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E6%A8%A1%E4%BB%BF%E8%99%9E%E4%B9%A6%E6%AC%A3%E9%95%BF%E7%8F%A9%E4%BB%99%E5%90%9B%E5%A4%B8%E6%88%91%E5%92%AF%23" target="weibo">
-杨超越模仿虞书欣长珩仙君夸我咯（热度：214917）
 </a>
 </li>
 
