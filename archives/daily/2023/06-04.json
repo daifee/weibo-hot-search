@@ -1,6 +1,6 @@
 {
   "startTime": 1685809286870,
-  "endTime": 1685873808346,
+  "endTime": 1685874801420,
   "band_list": [
     {
       "raw_hot": 3115180,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1592919,
+      "num": 1592919,
+      "word": "直女发言聊天记录",
+      "onboard_time": 1685860946,
+      "rank": 23,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 1471783,
       "num": 1471783,
       "word": "你觉得椰树直播算擦边吗",
@@ -97,14 +105,6 @@
       "onboard_time": 1685849967,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1301951,
-      "num": 1301951,
-      "word": "直女发言聊天记录",
-      "onboard_time": 1685860946,
-      "rank": 23,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 1226620,
@@ -161,6 +161,14 @@
       "onboard_time": 1685859687,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 987460,
+      "num": 987460,
+      "word": "男子为考清华复读14年",
+      "onboard_time": 1685871806,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 986931,
@@ -347,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 534406,
+      "num": 372516,
+      "word": "沈月cos陈小希",
+      "onboard_time": 1685873726,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 533960,
       "num": 533960,
       "word": "Angelababy奔跑吧时长",
@@ -377,6 +393,14 @@
       "onboard_time": 1685869286,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 494353,
+      "num": 1176311,
+      "word": "瓜子厂老板停产帮乡亲烘麦子超10万斤",
+      "onboard_time": 1685872946,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 486994,
@@ -507,20 +531,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 390634,
-      "num": 390634,
-      "word": "男子为考清华复读14年",
-      "onboard_time": 1685871806,
-      "rank": 18,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 388572,
       "num": 388572,
       "word": "萌娃检查身体时突然向医生wink",
       "onboard_time": 1685833277,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 388104,
+      "num": 388104,
+      "word": "皇马官宣本泽马离队",
+      "onboard_time": 1685873547,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 382880,
@@ -851,6 +875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 264616,
+      "num": 264616,
+      "word": "薛之谦演唱会拿到张杰荧光棒",
+      "onboard_time": 1685870728,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 261869,
       "num": 261869,
       "word": "隐翅虫 重楼解毒酊",
@@ -905,14 +937,6 @@
       "onboard_time": 1685864367,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 254656,
-      "num": 254656,
-      "word": "皇马官宣本泽马离队",
-      "onboard_time": 1685873547,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 252633,
@@ -1027,14 +1051,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 226680,
-      "num": 226680,
-      "word": "薛之谦演唱会拿到张杰荧光棒",
-      "onboard_time": 1685870728,
-      "rank": 39,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 225081,
       "num": 225081,
       "word": "美国教授称海底住95天后年轻10岁",
@@ -1099,6 +1115,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 215501,
+      "num": 863526,
+      "word": "男子江边观潮好心人嘶吼喊回一命",
+      "onboard_time": 1685871208,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213942,
       "num": 155336,
       "word": "甄嬛金句台词",
@@ -1113,14 +1137,6 @@
       "onboard_time": 1685786308,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 211524,
-      "num": 863526,
-      "word": "男子江边观潮好心人嘶吼喊回一命",
-      "onboard_time": 1685871208,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210722,
@@ -1307,14 +1323,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 178338,
-      "num": 805887,
-      "word": "瓜子厂老板停产帮乡亲烘麦子超10万斤",
-      "onboard_time": 1685872946,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178265,
       "num": 178265,
       "word": "你的名字土是因为哪个字",
@@ -1371,11 +1379,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166292,
-      "num": 166292,
-      "word": "沈月cos陈小希",
-      "onboard_time": 1685873726,
-      "rank": 41,
+      "raw_hot": 167621,
+      "num": 167621,
+      "word": "gidle新歌Queencard获人歌一位",
+      "onboard_time": 1685869286,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -1851,6 +1859,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 67135,
+      "num": 464441,
+      "word": "脑梗妻子偏瘫丈夫悉心照料24年",
+      "onboard_time": 1685872887,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60391,
       "num": 58372,
       "word": "刘敏涛岳云鹏演夫妻",
@@ -1900,19 +1916,11 @@
     },
     {
       "raw_hot": 35652,
-      "num": 876379,
+      "num": 997505,
       "word": "60秒回顾神十五返回舱着陆",
       "onboard_time": 1685869828,
       "rank": 2,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 28394,
-      "num": 464441,
-      "word": "脑梗妻子偏瘫丈夫悉心照料24年",
-      "onboard_time": 1685872887,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22077,
