@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685891757908,
+  "endTime": 1685892825048,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -1243,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 827026,
+      "num": 827026,
+      "word": "王诗龄生图",
+      "onboard_time": 1685889394,
+      "rank": 6,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 826537,
       "num": 826537,
       "word": "多次感染对身体的危害有多大",
@@ -1259,20 +1267,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 823826,
-      "num": 823826,
-      "word": "王诗龄生图",
-      "onboard_time": 1685889394,
-      "rank": 6,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 821233,
       "num": 821233,
       "word": "全世界都在等你们分手",
       "onboard_time": 1685882550,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 816478,
+      "num": 816478,
+      "word": "汤晶媚任敏我们和好啦",
+      "onboard_time": 1685891491,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 813062,
@@ -1468,7 +1476,7 @@
     },
     {
       "raw_hot": 694813,
-      "num": 598634,
+      "num": 617381,
       "word": "王鹤棣孟子义不考虑合作现偶吗",
       "onboard_time": 1685888971,
       "rank": 33,
@@ -1648,6 +1656,14 @@
       "word": "重庆震感",
       "onboard_time": 1685858067,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 639547,
+      "num": 639547,
+      "word": "88斤女生穿不进去S码牛仔裙",
+      "onboard_time": 1685889153,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2363,14 +2379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 460794,
-      "num": 320929,
-      "word": "88斤女生穿不进去S码牛仔裙",
-      "onboard_time": 1685889153,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 459208,
       "num": 459208,
       "word": "白桃星座",
@@ -2891,6 +2899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 381476,
+      "num": 381476,
+      "word": "林一文俊辉约饭",
+      "onboard_time": 1685892090,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 380809,
       "num": 303265,
       "word": "为什么反对男艺人过度撸铁",
@@ -3147,6 +3163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349898,
+      "num": 349898,
+      "word": "白鹿出道7年演了17部剧",
+      "onboard_time": 1685888131,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 348960,
       "num": 302559,
       "word": "奥运冠军王懿律宣布退出国家队",
@@ -3281,14 +3305,6 @@
       "onboard_time": 1685579188,
       "rank": 16,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 338111,
-      "num": 320892,
-      "word": "白鹿出道7年演了17部剧",
-      "onboard_time": 1685888131,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 337841,
@@ -4275,6 +4291,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 276587,
+      "num": 276587,
+      "word": "Jennie巡演神图",
+      "onboard_time": 1685889515,
+      "rank": 32,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 276491,
       "num": 214068,
       "word": "吴世勋更新EXO拍摄现场照",
@@ -5057,14 +5081,6 @@
       "onboard_time": 1685584646,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 238473,
-      "num": 238473,
-      "word": "Jennie巡演神图",
-      "onboard_time": 1685889515,
-      "rank": 32,
-      "category": "音乐,时尚"
     },
     {
       "raw_hot": 238172,
@@ -7051,14 +7067,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 169241,
-      "num": 169241,
-      "word": "汤晶媚任敏我们和好啦",
-      "onboard_time": 1685891491,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 169057,
       "num": 169057,
       "word": "人生过百的秘密或在肠道细菌",
@@ -7883,12 +7891,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139478,
+      "num": 500786,
+      "word": "高考临近阿姨们在夜店里跳广场舞",
+      "onboard_time": 1685890897,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139234,
       "num": 139234,
       "word": "央视记者探访河南小麦发芽发霉",
       "onboard_time": 1685546971,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138355,
+      "num": 138355,
+      "word": "鬼灭之刃锻刀村篇",
+      "onboard_time": 1685892151,
+      "rank": 46,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 138289,
@@ -8248,6 +8272,14 @@
       "word": "95后夫妻斗舞决定谁带娃一天",
       "onboard_time": 1685862028,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123405,
+      "num": 123405,
+      "word": "高三老爸们向孩子倾情表白又萌又暖",
+      "onboard_time": 1685892690,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -9489,14 +9521,6 @@
       "onboard_time": 1685699010,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 54440,
-      "num": 500786,
-      "word": "高考临近阿姨们在夜店里跳广场舞",
-      "onboard_time": 1685890897,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53349,
