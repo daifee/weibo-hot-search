@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685866753561,
+  "endTime": 1685867628307,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1722394,
+      "num": 1722394,
+      "word": "任敏 鸟鸟",
+      "onboard_time": 1685861067,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1680275,
       "num": 1680275,
       "word": "吴倩说女儿和自己长得一模一样",
@@ -377,14 +385,6 @@
       "onboard_time": 1685754870,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1564161,
-      "num": 1564161,
-      "word": "任敏 鸟鸟",
-      "onboard_time": 1685861067,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1537274,
@@ -1027,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 910087,
+      "num": 779266,
+      "word": "小S大女儿获韩国舞蹈大赛第一名",
+      "onboard_time": 1685863948,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 888042,
       "num": 888042,
       "word": "WBG零封JDG",
@@ -1131,6 +1139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 803185,
+      "num": 509339,
+      "word": "校方回应食堂饭菜中吃出老鼠头",
+      "onboard_time": 1685863409,
+      "rank": 32,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 792254,
       "num": 792254,
       "word": "周也演技值得一个热搜",
@@ -1209,14 +1225,6 @@
       "onboard_time": 1685846847,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 736009,
-      "num": 736009,
-      "word": "小S大女儿获韩国舞蹈大赛第一名",
-      "onboard_time": 1685863948,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 726387,
@@ -1521,6 +1529,14 @@
       "onboard_time": 1685615487,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 615692,
+      "num": 502976,
+      "word": "请各国管好自家的军舰飞机",
+      "onboard_time": 1685864308,
+      "rank": 12,
+      "category": "军事"
     },
     {
       "raw_hot": 612599,
@@ -1875,20 +1891,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 520110,
-      "num": 383502,
-      "word": "校方回应食堂饭菜中吃出老鼠头",
-      "onboard_time": 1685863409,
-      "rank": 32,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 519751,
       "num": 519751,
       "word": "宋妍霏对王嘉尔的小动作",
       "onboard_time": 1685545531,
       "rank": 8,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 515440,
+      "num": 515440,
+      "word": "金智秀看了都得愣一下",
+      "onboard_time": 1685864190,
+      "rank": 15,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 507598,
@@ -2571,6 +2587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382880,
+      "num": 382880,
+      "word": "老鼠头",
+      "onboard_time": 1685863106,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380809,
       "num": 303265,
       "word": "为什么反对男艺人过度撸铁",
@@ -2609,14 +2633,6 @@
       "onboard_time": 1685583746,
       "rank": 34,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 375040,
-      "num": 375040,
-      "word": "请各国管好自家的军舰飞机",
-      "onboard_time": 1685864308,
-      "rank": 12,
-      "category": "军事"
     },
     {
       "raw_hot": 374320,
@@ -2737,14 +2753,6 @@
       "onboard_time": 1685701710,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 359564,
-      "num": 359564,
-      "word": "金智秀看了都得愣一下",
-      "onboard_time": 1685864190,
-      "rank": 15,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 359185,
@@ -2881,6 +2889,14 @@
       "onboard_time": 1685584646,
       "rank": 36,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 340911,
+      "num": 255213,
+      "word": "宋茜汤晶媚聊天门遭罪",
+      "onboard_time": 1685866048,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 340476,
@@ -3225,14 +3241,6 @@
       "onboard_time": 1685851588,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 316420,
-      "num": 316420,
-      "word": "老鼠头",
-      "onboard_time": 1685863106,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 315443,
@@ -4259,14 +4267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 253917,
-      "num": 209091,
-      "word": "宋茜汤晶媚聊天门遭罪",
-      "onboard_time": 1685866048,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 253733,
       "num": 253733,
       "word": "不要在APP上给我推荐可能认识的人了",
@@ -4449,6 +4449,14 @@
       "onboard_time": 1685592749,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 241313,
+      "num": 241313,
+      "word": "MTG 久诚",
+      "onboard_time": 1685865868,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 241211,
@@ -5129,14 +5137,6 @@
       "onboard_time": 1685616928,
       "rank": 31,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 212197,
-      "num": 212197,
-      "word": "MTG 久诚",
-      "onboard_time": 1685865868,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 211654,
@@ -6691,6 +6691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156661,
+      "num": 156661,
+      "word": "战至巅峰",
+      "onboard_time": 1685865209,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156612,
       "num": 156612,
       "word": "人一定要学会具备的能力",
@@ -6883,14 +6891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150490,
-      "num": 150490,
-      "word": "战至巅峰",
-      "onboard_time": 1685865209,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150454,
       "num": 150454,
       "word": "国产数码宝贝第二部剧透",
@@ -6960,6 +6960,14 @@
       "word": "肖战撞脸狗狗表情包",
       "onboard_time": 1685833036,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 148682,
+      "num": 148682,
+      "word": "肖春生吼叶芳时飞过一只蝴蝶",
+      "onboard_time": 1685864789,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -7099,6 +7107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 139496,
+      "num": 133013,
+      "word": "丁程鑫北电汇演剧目",
+      "onboard_time": 1685867008,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139234,
       "num": 139234,
       "word": "央视记者探访河南小麦发芽发霉",
@@ -7153,14 +7169,6 @@
       "onboard_time": 1685835740,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 136744,
-      "num": 136744,
-      "word": "肖春生吼叶芳时飞过一只蝴蝶",
-      "onboard_time": 1685864789,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 135511,
@@ -7377,6 +7385,14 @@
       "onboard_time": 1685788285,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 127179,
+      "num": 127179,
+      "word": "周一围歌单",
+      "onboard_time": 1685866108,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 127096,
@@ -7923,6 +7939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 103532,
+      "num": 103532,
+      "word": "美国教授称海底住95天后年轻10岁",
+      "onboard_time": 1685867128,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103499,
       "num": 132779,
       "word": "618发货真快",
@@ -7969,6 +7993,14 @@
       "onboard_time": 1685816835,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 100359,
+      "num": 100359,
+      "word": "中学生跳特斯河之赞课桌舞",
+      "onboard_time": 1685866886,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99389,
@@ -8795,6 +8827,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 35981,
+      "num": 381594,
+      "word": "费俊龙妈妈说回来给你烧红烧肉吃",
+      "onboard_time": 1685865688,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35645,
       "num": 206363,
       "word": "TVB直播带货成交额破亿",
@@ -8905,14 +8945,6 @@
       "onboard_time": 1685694809,
       "rank": 2,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 24642,
-      "num": 359614,
-      "word": "费俊龙妈妈说回来给你烧红烧肉吃",
-      "onboard_time": 1685865688,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23843,
