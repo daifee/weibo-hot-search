@@ -1,6 +1,6 @@
 {
   "startTime": 1685809286870,
-  "endTime": 1685864009457,
+  "endTime": 1685866753561,
   "band_list": [
     {
       "raw_hot": 3115180,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1564161,
+      "num": 1564161,
+      "word": "任敏 鸟鸟",
+      "onboard_time": 1685861067,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1471783,
       "num": 1471783,
       "word": "你觉得椰树直播算擦边吗",
@@ -79,14 +87,6 @@
       "num": 1373048,
       "word": "跑男打错范丞丞名字",
       "onboard_time": 1685849967,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1361592,
-      "num": 1284064,
-      "word": "任敏 鸟鸟",
-      "onboard_time": 1685861067,
       "rank": 3,
       "category": "综艺"
     },
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 736009,
+      "num": 736009,
+      "word": "小S大女儿获韩国舞蹈大赛第一名",
+      "onboard_time": 1685863948,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 726723,
       "num": 726723,
       "word": "魏如萱马嘉祺 台北文学",
@@ -227,11 +235,27 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 679303,
+      "num": 679303,
+      "word": "迪丽热巴 嘉人",
+      "onboard_time": 1685862747,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 667281,
       "num": 667281,
       "word": "一人说一个奇怪的生理反应",
       "onboard_time": 1685804011,
       "rank": 7,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 664500,
+      "num": 664500,
+      "word": "直女发言聊天记录",
+      "onboard_time": 1685860946,
+      "rank": 23,
       "category": "幽默,情感"
     },
     {
@@ -281,6 +305,14 @@
       "onboard_time": 1685841806,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 520110,
+      "num": 383502,
+      "word": "校方回应食堂饭菜中吃出老鼠头",
+      "onboard_time": 1685863409,
+      "rank": 32,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 510988,
@@ -395,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375040,
+      "num": 375040,
+      "word": "请各国管好自家的军舰飞机",
+      "onboard_time": 1685864308,
+      "rank": 12,
+      "category": "军事"
+    },
+    {
       "raw_hot": 372976,
       "num": 372976,
       "word": "杨紫撑伞回眸",
@@ -425,6 +465,14 @@
       "onboard_time": 1685792367,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 359564,
+      "num": 359564,
+      "word": "金智秀看了都得愣一下",
+      "onboard_time": 1685864190,
+      "rank": 15,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 357627,
@@ -523,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 316420,
+      "num": 316420,
+      "word": "老鼠头",
+      "onboard_time": 1685863106,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313866,
       "num": 313866,
       "word": "刘耀文全员加速中路透",
@@ -563,14 +619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 297343,
-      "num": 297343,
-      "word": "直女发言聊天记录",
-      "onboard_time": 1685860946,
-      "rank": 23,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 295466,
       "num": 295466,
       "word": "肖战对蝴蝶的吸引力",
@@ -585,6 +633,14 @@
       "onboard_time": 1685800650,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 286909,
+      "num": 286909,
+      "word": "孟子义 抓重点",
+      "onboard_time": 1685862806,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 286243,
@@ -627,12 +683,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 278617,
-      "num": 278617,
-      "word": "迪丽热巴 嘉人",
-      "onboard_time": 1685862747,
-      "rank": 24,
-      "category": "作品衍生,时尚"
+      "raw_hot": 278673,
+      "num": 278673,
+      "word": "KPL转会期",
+      "onboard_time": 1685865087,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 276146,
@@ -705,6 +761,22 @@
       "onboard_time": 1685804552,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 255937,
+      "num": 255937,
+      "word": "请给我一个任敏这样的e人朋友",
+      "onboard_time": 1685864367,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 253917,
+      "num": 209091,
+      "word": "宋茜汤晶媚聊天门遭罪",
+      "onboard_time": 1685866048,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 252633,
@@ -787,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227467,
+      "num": 209779,
+      "word": "中国说唱 人情世故",
+      "onboard_time": 1685863050,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224649,
       "num": 224649,
       "word": "文俊辉要考清华",
@@ -859,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212197,
+      "num": 212197,
+      "word": "MTG 久诚",
+      "onboard_time": 1685865868,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210722,
       "num": 210722,
       "word": "蔡徐坤澳门演唱会",
@@ -920,14 +1008,6 @@
       "word": "威尔为什么还在",
       "onboard_time": 1685856868,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 195097,
-      "num": 195097,
-      "word": "中国说唱 人情世故",
-      "onboard_time": 1685863050,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -1043,14 +1123,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 178058,
-      "num": 178058,
-      "word": "老鼠头",
-      "onboard_time": 1685863106,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177832,
       "num": 177832,
       "word": "肖春生贺红玲be美学",
@@ -1065,14 +1137,6 @@
       "onboard_time": 1685841506,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 175740,
-      "num": 175740,
-      "word": "校方回应食堂饭菜中吃出老鼠头",
-      "onboard_time": 1685863409,
-      "rank": 32,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 175590,
@@ -1107,12 +1171,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166156,
+      "num": 166156,
+      "word": "何炅的身材这么好吗",
+      "onboard_time": 1685865928,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 166025,
       "num": 166025,
       "word": "永远不要通过伤害自己自证",
       "onboard_time": 1685842826,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166024,
+      "num": 166024,
+      "word": "在水中睡觉的海豹",
+      "onboard_time": 1685866466,
+      "rank": 36,
+      "category": "自然"
     },
     {
       "raw_hot": 163071,
@@ -1128,6 +1208,14 @@
       "word": "为何男性比女性更显老",
       "onboard_time": 1685843246,
       "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 156612,
+      "num": 156612,
+      "word": "人一定要学会具备的能力",
+      "onboard_time": 1685866167,
+      "rank": 37,
       "category": "情感"
     },
     {
@@ -1163,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150490,
+      "num": 150490,
+      "word": "战至巅峰",
+      "onboard_time": 1685865209,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148704,
       "num": 148704,
       "word": "肖战撞脸狗狗表情包",
@@ -1179,20 +1275,20 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 146829,
-      "num": 146829,
-      "word": "孟子义 抓重点",
-      "onboard_time": 1685862806,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 145418,
       "num": 145418,
       "word": "无食欲拍照大法",
       "onboard_time": 1685847566,
       "rank": 41,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 143323,
+      "num": 137556,
+      "word": "JYP艺人回归时间表",
+      "onboard_time": 1685864069,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 142457,
@@ -1209,6 +1305,14 @@
       "onboard_time": 1685835740,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 136744,
+      "num": 136744,
+      "word": "肖春生吼叶芳时飞过一只蝴蝶",
+      "onboard_time": 1685864789,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 134917,
@@ -1307,6 +1411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121452,
+      "num": 121452,
+      "word": "BLG对战RA",
+      "onboard_time": 1685865328,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120707,
       "num": 120707,
       "word": "说唱巅峰对决联盟拯救赛",
@@ -1353,14 +1465,6 @@
       "onboard_time": 1685862626,
       "rank": 48,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 116894,
-      "num": 116894,
-      "word": "小S大女儿获韩国舞蹈大赛第一名",
-      "onboard_time": 1685863948,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 116694,
@@ -1545,6 +1649,14 @@
       "onboard_time": 1685816656,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 24642,
+      "num": 359614,
+      "word": "费俊龙妈妈说回来给你烧红烧肉吃",
+      "onboard_time": 1685865688,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22077,
