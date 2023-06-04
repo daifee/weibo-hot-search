@@ -1,0 +1,410 @@
+{
+  "runTime": 1685878404007,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1909134,
+        "num": 1909134,
+        "word": "国内出现偏肺病毒感染",
+        "onboard_time": 1685875344,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463883,
+        "num": 1531053,
+        "word": "瓜子厂老板停产帮乡亲烘麦子超10万斤",
+        "onboard_time": 1685872946,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30854,
+        "num": 1519258,
+        "word": "60秒回顾神十五返回舱着陆",
+        "onboard_time": 1685869828,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1517203,
+        "num": 1517203,
+        "word": "男子为考清华复读14年",
+        "onboard_time": 1685871806,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 169035,
+        "num": 1347012,
+        "word": "男子江边观潮好心人嘶吼喊回一命",
+        "onboard_time": 1685871208,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1274220,
+        "num": 1274220,
+        "word": "沈月cos陈小希",
+        "onboard_time": 1685873726,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107994,
+        "num": 1100533,
+        "word": "女店主拎起灭火器冲上前救火",
+        "onboard_time": 1685869225,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1019881,
+        "num": 1019881,
+        "word": "爷爷把微信当书信用",
+        "onboard_time": 1685875886,
+        "rank": 7,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 983530,
+        "num": 983530,
+        "word": "市监局再次确认高校饭菜异物是鸭脖",
+        "onboard_time": 1685876487,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 926519,
+        "num": 926519,
+        "word": "孟子义锐评任敏汤晶媚乐队事件",
+        "onboard_time": 1685859687,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1426458,
+        "num": 821641,
+        "word": "爆剧最多的女演员",
+        "onboard_time": 1685869707,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 637051,
+        "num": 637051,
+        "word": "直女发言聊天记录",
+        "onboard_time": 1685860946,
+        "rank": 11,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 608460,
+        "num": 608460,
+        "word": "为什么没人捞张子豪",
+        "onboard_time": 1685876546,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 595400,
+        "num": 595400,
+        "word": "何炅的身材这么好吗",
+        "onboard_time": 1685865928,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 44397,
+        "num": 510768,
+        "word": "学弟妹手写300多个书签助力高考",
+        "onboard_time": 1685876487,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503553,
+        "num": 503553,
+        "word": "任敏 鸟鸟",
+        "onboard_time": 1685861067,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319391,
+        "num": 319391,
+        "word": "小S大女儿获韩国舞蹈大赛第一名",
+        "onboard_time": 1685863948,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408443,
+        "num": 318509,
+        "word": "宋茜汤晶媚聊天门遭罪",
+        "onboard_time": 1685866048,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309186,
+        "num": 309186,
+        "word": "四川乐山高位山体塌方14人遇难",
+        "onboard_time": 1685868747,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296533,
+        "num": 296533,
+        "word": "迪丽热巴 嘉人",
+        "onboard_time": 1685862747,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 294162,
+        "num": 294162,
+        "word": "薛之谦演唱会拿到张杰荧光棒",
+        "onboard_time": 1685870728,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 275168,
+        "num": 275168,
+        "word": "NCT团站休站",
+        "onboard_time": 1685871746,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273451,
+        "num": 273451,
+        "word": "我的脸被隐翅虫毁容了",
+        "onboard_time": 1685849424,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272096,
+        "num": 272096,
+        "word": "中国女排",
+        "onboard_time": 1685874926,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225147,
+        "num": 225147,
+        "word": "肖春生和顾一野的成长时间线分析",
+        "onboard_time": 1685875166,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215778,
+        "num": 215778,
+        "word": "皇马官宣本泽马离队",
+        "onboard_time": 1685873547,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212737,
+        "num": 212737,
+        "word": "极限挑战",
+        "onboard_time": 1685877987,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201970,
+        "num": 201970,
+        "word": "蔡徐坤说叫我坤就可以了",
+        "onboard_time": 1685854348,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201642,
+        "num": 201642,
+        "word": "校方回应食堂饭菜中吃出老鼠头",
+        "onboard_time": 1685863409,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 198958,
+        "num": 198958,
+        "word": "隐翅虫 重楼解毒酊",
+        "onboard_time": 1685872466,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 323677,
+        "num": 198421,
+        "word": "宋茜做错了什么",
+        "onboard_time": 1685878168,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197879,
+        "num": 197879,
+        "word": "任敏哭了",
+        "onboard_time": 1685855309,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197492,
+        "num": 197492,
+        "word": "老司机狂人",
+        "onboard_time": 1685876066,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189628,
+        "num": 189628,
+        "word": "解说瓶子",
+        "onboard_time": 1685872226,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189131,
+        "num": 189131,
+        "word": "英语不好也能在国外生存",
+        "onboard_time": 1685876546,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179894,
+        "num": 179894,
+        "word": "李雪琴帮汪苏泷出头",
+        "onboard_time": 1685874385,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178728,
+        "num": 178728,
+        "word": "女子考科三系错安全带考官面如死灰",
+        "onboard_time": 1685871086,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 173831,
+        "num": 173831,
+        "word": "张子豪 淘汰",
+        "onboard_time": 1685853927,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172690,
+        "num": 172690,
+        "word": "best AG",
+        "onboard_time": 1685871507,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164091,
+        "num": 164091,
+        "word": "张子豪在淘汰间打电话好心酸",
+        "onboard_time": 1685862327,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163538,
+        "num": 163538,
+        "word": "蜘蛛侠",
+        "onboard_time": 1685869408,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163446,
+        "num": 163446,
+        "word": "宁静即兴表演好牛",
+        "onboard_time": 1685873245,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162145,
+        "num": 162145,
+        "word": "那英马嘉祺兰亭序声生不息金曲榜第一",
+        "onboard_time": 1685877806,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161526,
+        "num": 161526,
+        "word": "gidle新歌Queencard获人歌一位",
+        "onboard_time": 1685869286,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148827,
+        "num": 148827,
+        "word": "陈哲远梦回周斯越",
+        "onboard_time": 1685875828,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136348,
+        "num": 136348,
+        "word": "帆帆 TTG",
+        "onboard_time": 1685869286,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130958,
+        "num": 130958,
+        "word": "金智秀看了都得愣一下",
+        "onboard_time": 1685864190,
+        "rank": 46,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 129759,
+        "num": 129759,
+        "word": "中国说唱巅峰对决下期有朴宰范",
+        "onboard_time": 1685877087,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129558,
+        "num": 129558,
+        "word": "乐山",
+        "onboard_time": 1685870667,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112021,
+        "num": 127699,
+        "word": "2023世界女排联赛",
+        "onboard_time": 1685878288,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#带着我的梦想上天宫#"
+    }
+  }
+}
