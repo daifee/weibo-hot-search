@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685871201379,
+  "endTime": 1685873808346,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -504,6 +504,14 @@
       "word": "张萌问我出轨的角色这么经典吗",
       "onboard_time": 1685324187,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1881190,
+      "num": 571344,
+      "word": "爆剧最多的女演员",
+      "onboard_time": 1685869707,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -1193,6 +1201,14 @@
       "onboard_time": 1685701350,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1301951,
+      "num": 1301951,
+      "word": "直女发言聊天记录",
+      "onboard_time": 1685860946,
+      "rank": 23,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 1301269,
@@ -2203,14 +2219,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 837937,
-      "num": 571344,
-      "word": "爆剧最多的女演员",
-      "onboard_time": 1685869707,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 837359,
       "num": 837359,
       "word": "何炅王诗龄合照",
@@ -2457,14 +2465,6 @@
       "onboard_time": 1685413408,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 729899,
-      "num": 729899,
-      "word": "直女发言聊天记录",
-      "onboard_time": 1685860946,
-      "rank": 23,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 727064,
@@ -3443,6 +3443,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 556831,
+      "num": 369253,
+      "word": "内娱毯星",
+      "onboard_time": 1685871026,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 556604,
       "num": 438923,
       "word": "亲密关系最忌讳炫耀自己受欢迎",
@@ -4019,6 +4027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 486474,
+      "num": 486474,
+      "word": "NCT团站休站",
+      "onboard_time": 1685871746,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 485950,
       "num": 485950,
       "word": "网友点评赵露思虞书欣是韩式演技",
@@ -4235,6 +4251,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 462373,
+      "num": 462373,
+      "word": "何炅的身材这么好吗",
+      "onboard_time": 1685865928,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 461948,
       "num": 461948,
       "word": "九尾",
@@ -4393,14 +4417,6 @@
       "onboard_time": 1685693370,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 445333,
-      "num": 445333,
-      "word": "何炅的身材这么好吗",
-      "onboard_time": 1685865928,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 443920,
@@ -4625,6 +4641,14 @@
       "onboard_time": 1685860826,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 422403,
+      "num": 422403,
+      "word": "解说瓶子",
+      "onboard_time": 1685872226,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 422138,
@@ -5075,12 +5099,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391407,
+      "num": 391407,
+      "word": "best AG",
+      "onboard_time": 1685871507,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 391023,
       "num": 391023,
       "word": "被宠是一种什么体验",
       "onboard_time": 1685420192,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 390634,
+      "num": 390634,
+      "word": "男子为考清华复读14年",
+      "onboard_time": 1685871806,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 390420,
@@ -7651,6 +7691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274367,
+      "num": 274367,
+      "word": "女子考科三系错安全带考官面如死灰",
+      "onboard_time": 1685871086,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 273743,
       "num": 273743,
       "word": "张艺兴三巡主题叫无远弗届",
@@ -8051,6 +8099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 261869,
+      "num": 261869,
+      "word": "隐翅虫 重楼解毒酊",
+      "onboard_time": 1685872466,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 261330,
       "num": 261330,
       "word": "尾款",
@@ -8321,6 +8377,14 @@
       "onboard_time": 1685413770,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 254656,
+      "num": 254656,
+      "word": "皇马官宣本泽马离队",
+      "onboard_time": 1685873547,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 254531,
@@ -9427,6 +9491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227422,
+      "num": 227422,
+      "word": "给宋亚轩测试膝跳反射会发生什么",
+      "onboard_time": 1685873187,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 227378,
       "num": 227378,
       "word": "哈尔滨偶遇宁艺卓",
@@ -9441,6 +9513,14 @@
       "onboard_time": 1685634086,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 226680,
+      "num": 226680,
+      "word": "薛之谦演唱会拿到张杰荧光棒",
+      "onboard_time": 1685870728,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 225923,
@@ -10113,6 +10193,14 @@
       "onboard_time": 1685695288,
       "rank": 23,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 211524,
+      "num": 863526,
+      "word": "男子江边观潮好心人嘶吼喊回一命",
+      "onboard_time": 1685871208,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211504,
@@ -11371,6 +11459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191383,
+      "num": 191383,
+      "word": "严浩翔极挑听了什么话",
+      "onboard_time": 1685873009,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191189,
       "num": 191189,
       "word": "代号鸢孙策",
@@ -11689,6 +11785,14 @@
       "onboard_time": 1685445811,
       "rank": 48,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 186249,
+      "num": 186249,
+      "word": "宁静即兴表演好牛",
+      "onboard_time": 1685873245,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 186145,
@@ -12147,6 +12251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 178338,
+      "num": 805887,
+      "word": "瓜子厂老板停产帮乡亲烘麦子超10万斤",
+      "onboard_time": 1685872946,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178265,
       "num": 178265,
       "word": "你的名字土是因为哪个字",
@@ -12240,14 +12352,6 @@
       "word": "cgv",
       "onboard_time": 1685857827,
       "rank": 33,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 175533,
-      "num": 175533,
-      "word": "内娱毯星",
-      "onboard_time": 1685871026,
-      "rank": 31,
       "category": "作品衍生"
     },
     {
@@ -12667,6 +12771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166292,
+      "num": 166292,
+      "word": "沈月cos陈小希",
+      "onboard_time": 1685873726,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166218,
       "num": 166218,
       "word": "总有人在替这个世界缝缝补补",
@@ -12897,6 +13009,14 @@
       "onboard_time": 1685624668,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 161739,
+      "num": 845697,
+      "word": "女店主拎起灭火器冲上前救火",
+      "onboard_time": 1685869225,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161589,
@@ -13321,14 +13441,6 @@
       "onboard_time": 1685683355,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 153429,
-      "num": 153429,
-      "word": "薛之谦演唱会拿到张杰荧光棒",
-      "onboard_time": 1685870728,
-      "rank": 39,
-      "category": "音乐"
     },
     {
       "raw_hot": 153403,
@@ -15147,14 +15259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106576,
-      "num": 106576,
-      "word": "女子考科三系错安全带考官面如死灰",
-      "onboard_time": 1685871086,
-      "rank": 48,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 106471,
       "num": 106471,
       "word": "郭碧婷的穿搭好接地气",
@@ -15513,14 +15617,6 @@
       "onboard_time": 1685795066,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 91088,
-      "num": 465971,
-      "word": "女店主拎起灭火器冲上前救火",
-      "onboard_time": 1685869225,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90871,
@@ -16705,6 +16801,14 @@
       "onboard_time": 1685627491,
       "rank": 27,
       "category": "科技"
+    },
+    {
+      "raw_hot": 28394,
+      "num": 464441,
+      "word": "脑梗妻子偏瘫丈夫悉心照料24年",
+      "onboard_time": 1685872887,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27596,

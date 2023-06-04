@@ -1,6 +1,6 @@
 {
   "startTime": 1685809286870,
-  "endTime": 1685871201379,
+  "endTime": 1685873808346,
   "band_list": [
     {
       "raw_hot": 3115180,
@@ -51,6 +51,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 1881190,
+      "num": 571344,
+      "word": "爆剧最多的女演员",
+      "onboard_time": 1685869707,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1841672,
       "num": 1841672,
       "word": "千万不要把水果当饭吃",
@@ -89,6 +97,14 @@
       "onboard_time": 1685849967,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1301951,
+      "num": 1301951,
+      "word": "直女发言聊天记录",
+      "onboard_time": 1685860946,
+      "rank": 23,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 1226620,
@@ -195,14 +211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 837937,
-      "num": 571344,
-      "word": "爆剧最多的女演员",
-      "onboard_time": 1685869707,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 833816,
       "num": 833816,
       "word": "蔡徐坤说叫我坤就可以了",
@@ -233,14 +241,6 @@
       "onboard_time": 1685846847,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 729899,
-      "num": 729899,
-      "word": "直女发言聊天记录",
-      "onboard_time": 1685860946,
-      "rank": 23,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 726723,
@@ -331,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 556831,
+      "num": 369253,
+      "word": "内娱毯星",
+      "onboard_time": 1685871026,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 541556,
       "num": 541556,
       "word": "孟子义给徐志胜卸妆",
@@ -379,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 486474,
+      "num": 486474,
+      "word": "NCT团站休站",
+      "onboard_time": 1685871746,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 476576,
       "num": 407811,
       "word": "张小狮 大树",
@@ -387,20 +403,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 462373,
+      "num": 462373,
+      "word": "何炅的身材这么好吗",
+      "onboard_time": 1685865928,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 448577,
       "num": 448577,
       "word": "汤晶媚组乐队没带任敏",
       "onboard_time": 1685856988,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 445333,
-      "num": 445333,
-      "word": "何炅的身材这么好吗",
-      "onboard_time": 1685865928,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 441431,
@@ -425,6 +441,14 @@
       "onboard_time": 1685860826,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 422403,
+      "num": 422403,
+      "word": "解说瓶子",
+      "onboard_time": 1685872226,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 414923,
@@ -473,6 +497,22 @@
       "onboard_time": 1685845587,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 391407,
+      "num": 391407,
+      "word": "best AG",
+      "onboard_time": 1685871507,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 390634,
+      "num": 390634,
+      "word": "男子为考清华复读14年",
+      "onboard_time": 1685871806,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 388572,
@@ -771,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274367,
+      "num": 274367,
+      "word": "女子考科三系错安全带考官面如死灰",
+      "onboard_time": 1685871086,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 270321,
       "num": 263275,
       "word": "女生生气真的会生病的",
@@ -801,6 +849,14 @@
       "onboard_time": 1685867666,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 261869,
+      "num": 261869,
+      "word": "隐翅虫 重楼解毒酊",
+      "onboard_time": 1685872466,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 261094,
@@ -849,6 +905,14 @@
       "onboard_time": 1685864367,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254656,
+      "num": 254656,
+      "word": "皇马官宣本泽马离队",
+      "onboard_time": 1685873547,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 252633,
@@ -955,6 +1019,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227422,
+      "num": 227422,
+      "word": "给宋亚轩测试膝跳反射会发生什么",
+      "onboard_time": 1685873187,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 226680,
+      "num": 226680,
+      "word": "薛之谦演唱会拿到张杰荧光棒",
+      "onboard_time": 1685870728,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 225081,
       "num": 225081,
       "word": "美国教授称海底住95天后年轻10岁",
@@ -1033,6 +1113,14 @@
       "onboard_time": 1685786308,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211524,
+      "num": 863526,
+      "word": "男子江边观潮好心人嘶吼喊回一命",
+      "onboard_time": 1685871208,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210722,
@@ -1123,6 +1211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191383,
+      "num": 191383,
+      "word": "严浩翔极挑听了什么话",
+      "onboard_time": 1685873009,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190706,
       "num": 190706,
       "word": "杭州一碗面动辄三四十",
@@ -1161,6 +1257,14 @@
       "onboard_time": 1685798250,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 186249,
+      "num": 186249,
+      "word": "宁静即兴表演好牛",
+      "onboard_time": 1685873245,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 185199,
@@ -1203,6 +1307,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 178338,
+      "num": 805887,
+      "word": "瓜子厂老板停产帮乡亲烘麦子超10万斤",
+      "onboard_time": 1685872946,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178265,
       "num": 178265,
       "word": "你的名字土是因为哪个字",
@@ -1235,14 +1347,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 175533,
-      "num": 175533,
-      "word": "内娱毯星",
-      "onboard_time": 1685871026,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 175261,
       "num": 175261,
       "word": "enhypen签售会新要求",
@@ -1267,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166292,
+      "num": 166292,
+      "word": "沈月cos陈小希",
+      "onboard_time": 1685873726,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166025,
       "num": 166025,
       "word": "永远不要通过伤害自己自证",
@@ -1289,6 +1401,14 @@
       "onboard_time": 1685803051,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 161739,
+      "num": 845697,
+      "word": "女店主拎起灭火器冲上前救火",
+      "onboard_time": 1685869225,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158307,
@@ -1345,14 +1465,6 @@
       "onboard_time": 1685837963,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153429,
-      "num": 153429,
-      "word": "薛之谦演唱会拿到张杰荧光棒",
-      "onboard_time": 1685870728,
-      "rank": 39,
-      "category": "音乐"
     },
     {
       "raw_hot": 148704,
@@ -1635,14 +1747,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 106576,
-      "num": 106576,
-      "word": "女子考科三系错安全带考官面如死灰",
-      "onboard_time": 1685871086,
-      "rank": 48,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 106471,
       "num": 106471,
       "word": "郭碧婷的穿搭好接地气",
@@ -1705,14 +1809,6 @@
       "onboard_time": 1685834116,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91088,
-      "num": 465971,
-      "word": "女店主拎起灭火器冲上前救火",
-      "onboard_time": 1685869225,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87636,
@@ -1809,6 +1905,14 @@
       "onboard_time": 1685869828,
       "rank": 2,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 28394,
+      "num": 464441,
+      "word": "脑梗妻子偏瘫丈夫悉心照料24年",
+      "onboard_time": 1685872887,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22077,
