@@ -1,6 +1,6 @@
 {
   "startTime": 1685809286870,
-  "endTime": 1685881858586,
+  "endTime": 1685882802769,
   "band_list": [
     {
       "raw_hot": 3115180,
@@ -33,6 +33,14 @@
       "onboard_time": 1685854948,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1976925,
+      "num": 1976925,
+      "word": "市监局再次确认高校饭菜异物是鸭脖",
+      "onboard_time": 1685876487,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1956300,
@@ -91,14 +99,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1676542,
-      "num": 1676542,
-      "word": "市监局再次确认高校饭菜异物是鸭脖",
-      "onboard_time": 1685876487,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1613516,
       "num": 718605,
       "word": "成都七中一学生被开除",
@@ -131,20 +131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1461324,
+      "num": 1461324,
+      "word": "爷爷把微信当书信用",
+      "onboard_time": 1685875886,
+      "rank": 11,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 1373048,
       "num": 1373048,
       "word": "跑男打错范丞丞名字",
       "onboard_time": 1685849967,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1293577,
-      "num": 1293577,
-      "word": "爷爷把微信当书信用",
-      "onboard_time": 1685875886,
-      "rank": 11,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1274220,
@@ -163,20 +163,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1215308,
+      "num": 1215308,
+      "word": "宋茜做错了什么",
+      "onboard_time": 1685878168,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1183217,
       "num": 1183217,
       "word": "姑姑拍到侄女做梦吃雪糕",
       "onboard_time": 1685841865,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1138115,
-      "num": 1138115,
-      "word": "宋茜做错了什么",
-      "onboard_time": 1685878168,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 1132486,
@@ -267,8 +267,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 852391,
-      "num": 852391,
+      "raw_hot": 886142,
+      "num": 886142,
       "word": "刘亦菲林志颖20年前合照",
       "onboard_time": 1685878407,
       "rank": 8,
@@ -555,8 +555,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 398426,
-      "num": 398426,
+      "raw_hot": 398823,
+      "num": 398823,
       "word": "孟子义用的什么化妆品",
       "onboard_time": 1685879429,
       "rank": 13,
@@ -609,6 +609,14 @@
       "onboard_time": 1685873547,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 385249,
+      "num": 385249,
+      "word": "高考卖花",
+      "onboard_time": 1685880929,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 382880,
@@ -676,7 +684,7 @@
     },
     {
       "raw_hot": 353898,
-      "num": 224855,
+      "num": 259649,
       "word": "杨紫高洁丝直播",
       "onboard_time": 1685880447,
       "rank": 20,
@@ -779,6 +787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 320412,
+      "num": 320412,
+      "word": "多巴胺穿搭",
+      "onboard_time": 1685881111,
+      "rank": 24,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 317993,
       "num": 317993,
       "word": "奶奶看小鬼演唱会捂耳朵",
@@ -812,7 +828,7 @@
     },
     {
       "raw_hot": 306936,
-      "num": 178523,
+      "num": 244769,
       "word": "黄晓明 清澈的愚蠢",
       "onboard_time": 1685878407,
       "rank": 25,
@@ -955,6 +971,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 271323,
+      "num": 191668,
+      "word": "王一栩探班成毅李一桐",
+      "onboard_time": 1685881111,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 270321,
       "num": 263275,
       "word": "女生生气真的会生病的",
@@ -1041,6 +1065,14 @@
       "onboard_time": 1685804552,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 258386,
+      "num": 177705,
+      "word": "梦中的那片海版换乘恋爱",
+      "onboard_time": 1685880687,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 257891,
@@ -1179,14 +1211,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 225480,
-      "num": 225480,
-      "word": "高考卖花",
-      "onboard_time": 1685880929,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 225147,
       "num": 225147,
       "word": "肖春生和顾一野的成长时间线分析",
@@ -1224,14 +1248,6 @@
       "word": "春花厌",
       "onboard_time": 1685862327,
       "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 218946,
-      "num": 171473,
-      "word": "梦中的那片海版换乘恋爱",
-      "onboard_time": 1685880687,
-      "rank": 27,
       "category": "影视"
     },
     {
@@ -1339,12 +1355,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 200320,
-      "num": 166865,
-      "word": "王一栩探班成毅李一桐",
-      "onboard_time": 1685881111,
-      "rank": 31,
-      "category": "作品衍生"
+      "raw_hot": 198617,
+      "num": 198617,
+      "word": "AG",
+      "onboard_time": 1685882607,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 198108,
@@ -1481,14 +1497,6 @@
       "onboard_time": 1685844025,
       "rank": 48,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 184269,
-      "num": 184269,
-      "word": "多巴胺穿搭",
-      "onboard_time": 1685881111,
-      "rank": 24,
-      "category": "时尚"
     },
     {
       "raw_hot": 181870,
@@ -1636,7 +1644,7 @@
     },
     {
       "raw_hot": 159043,
-      "num": 167471,
+      "num": 175227,
       "word": "中国女排世联赛4连胜",
       "onboard_time": 1685879189,
       "rank": 29,
@@ -1697,6 +1705,22 @@
       "onboard_time": 1685837963,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153859,
+      "num": 153859,
+      "word": "JDG对战LNG",
+      "onboard_time": 1685879727,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 151404,
+      "num": 151404,
+      "word": "贵州村超",
+      "onboard_time": 1685881768,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 148704,
@@ -1769,6 +1793,14 @@
       "onboard_time": 1685835740,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 135580,
+      "num": 135580,
+      "word": "全世界都在等你们分手",
+      "onboard_time": 1685882550,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 134917,
@@ -1849,14 +1881,6 @@
       "onboard_time": 1685849367,
       "rank": 44,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 125887,
-      "num": 125887,
-      "word": "JDG对战LNG",
-      "onboard_time": 1685879727,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 125770,
@@ -1987,14 +2011,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 114373,
-      "num": 114373,
-      "word": "贵州村超",
-      "onboard_time": 1685881768,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 113681,
       "num": 113681,
       "word": "巴黎官宣梅西离队",
@@ -2057,6 +2073,14 @@
       "onboard_time": 1685812941,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102209,
+      "num": 385860,
+      "word": "高考是人生一战也是人生一站",
+      "onboard_time": 1685880087,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101865,
@@ -2139,14 +2163,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 68355,
-      "num": 382807,
-      "word": "高考是人生一战也是人生一站",
-      "onboard_time": 1685880087,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 60391,
       "num": 58372,
       "word": "刘敏涛岳云鹏演夫妻",
@@ -2217,6 +2233,14 @@
       "onboard_time": 1685822951,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 8815,
+      "num": 1233993,
+      "word": "圆梦乘组的高清笑颜",
+      "onboard_time": 1685882668,
+      "rank": 2,
+      "category": "社会新闻,科技"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685881858586,
+  "endTime": 1685882802769,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1976925,
+      "num": 1976925,
+      "word": "市监局再次确认高校饭菜异物是鸭脖",
+      "onboard_time": 1685876487,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1956300,
       "num": 1956300,
       "word": "79岁老人欲取离世儿子41万存款被拒",
@@ -339,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1676542,
-      "num": 1676542,
-      "word": "市监局再次确认高校饭菜异物是鸭脖",
-      "onboard_time": 1685876487,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1663297,
       "num": 1663297,
       "word": "肖战台词",
@@ -473,6 +473,14 @@
       "onboard_time": 1685843365,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1461324,
+      "num": 1461324,
+      "word": "爷爷把微信当书信用",
+      "onboard_time": 1685875886,
+      "rank": 11,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1456021,
@@ -651,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1293577,
-      "num": 1293577,
-      "word": "爷爷把微信当书信用",
-      "onboard_time": 1685875886,
-      "rank": 11,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 1289325,
       "num": 1289325,
       "word": "吴磊 快走吧哥们要累死了",
@@ -771,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1215308,
+      "num": 1215308,
+      "word": "宋茜做错了什么",
+      "onboard_time": 1685878168,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1205084,
       "num": 1205084,
       "word": "护心31集 封神",
@@ -865,14 +873,6 @@
       "onboard_time": 1685589866,
       "rank": 20,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1138115,
-      "num": 1138115,
-      "word": "宋茜做错了什么",
-      "onboard_time": 1685878168,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 1133157,
@@ -1123,6 +1123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 886142,
+      "num": 886142,
+      "word": "刘亦菲林志颖20年前合照",
+      "onboard_time": 1685878407,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 886032,
       "num": 886032,
       "word": "梦中的那片海开播收视率",
@@ -1144,14 +1152,6 @@
       "word": "肖战刘芮麟新剧演兄弟",
       "onboard_time": 1685589806,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 852391,
-      "num": 852391,
-      "word": "刘亦菲林志颖20年前合照",
-      "onboard_time": 1685878407,
-      "rank": 8,
       "category": "影视"
     },
     {
@@ -2603,20 +2603,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 398823,
+      "num": 398823,
+      "word": "孟子义用的什么化妆品",
+      "onboard_time": 1685879429,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 398755,
       "num": 352953,
       "word": "河南人和山东人都别沉默了",
       "onboard_time": 1685620466,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 398426,
-      "num": 398426,
-      "word": "孟子义用的什么化妆品",
-      "onboard_time": 1685879429,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 396671,
@@ -2745,6 +2745,14 @@
       "onboard_time": 1685720489,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 385249,
+      "num": 385249,
+      "word": "高考卖花",
+      "onboard_time": 1685880929,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 383202,
@@ -2980,7 +2988,7 @@
     },
     {
       "raw_hot": 353898,
-      "num": 224855,
+      "num": 259649,
       "word": "杨紫高洁丝直播",
       "onboard_time": 1685880447,
       "rank": 20,
@@ -3411,6 +3419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 320412,
+      "num": 320412,
+      "word": "多巴胺穿搭",
+      "onboard_time": 1685881111,
+      "rank": 24,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 320070,
       "num": 320070,
       "word": "TES战胜EDG",
@@ -3572,7 +3588,7 @@
     },
     {
       "raw_hot": 306936,
-      "num": 178523,
+      "num": 244769,
       "word": "黄晓明 清澈的愚蠢",
       "onboard_time": 1685878407,
       "rank": 25,
@@ -4139,6 +4155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271323,
+      "num": 191668,
+      "word": "王一栩探班成毅李一桐",
+      "onboard_time": 1685881111,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 271207,
       "num": 218400,
       "word": "虞书欣挂脖粉裙",
@@ -4433,6 +4457,14 @@
       "onboard_time": 1685798008,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 258386,
+      "num": 177705,
+      "word": "梦中的那片海版换乘恋爱",
+      "onboard_time": 1685880687,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 258139,
@@ -5123,14 +5155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 225480,
-      "num": 225480,
-      "word": "高考卖花",
-      "onboard_time": 1685880929,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 225380,
       "num": 149463,
       "word": "金泰妍演唱会",
@@ -5273,14 +5297,6 @@
       "onboard_time": 1685764946,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 218946,
-      "num": 171473,
-      "word": "梦中的那片海版换乘恋爱",
-      "onboard_time": 1685880687,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 218758,
@@ -5747,14 +5763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 200320,
-      "num": 166865,
-      "word": "王一栩探班成毅李一桐",
-      "onboard_time": 1685881111,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 200300,
       "num": 1108373,
       "word": "重庆一小学全校师生穿汉服过六一",
@@ -5809,6 +5817,14 @@
       "onboard_time": 1685625088,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198617,
+      "num": 198617,
+      "word": "AG",
+      "onboard_time": 1685882607,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 198121,
@@ -6361,14 +6377,6 @@
       "onboard_time": 1685844025,
       "rank": 48,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 184269,
-      "num": 184269,
-      "word": "多巴胺穿搭",
-      "onboard_time": 1685881111,
-      "rank": 24,
-      "category": "时尚"
     },
     {
       "raw_hot": 184017,
@@ -7060,7 +7068,7 @@
     },
     {
       "raw_hot": 159043,
-      "num": 167471,
+      "num": 175227,
       "word": "中国女排世联赛4连胜",
       "onboard_time": 1685879189,
       "rank": 29,
@@ -7235,6 +7243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153859,
+      "num": 153859,
+      "word": "JDG对战LNG",
+      "onboard_time": 1685879727,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153520,
       "num": 261022,
       "word": "永安镇故事集定档",
@@ -7297,6 +7313,14 @@
       "onboard_time": 1685597069,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151404,
+      "num": 151404,
+      "word": "贵州村超",
+      "onboard_time": 1685881768,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 151339,
@@ -7603,6 +7627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 135580,
+      "num": 135580,
+      "word": "全世界都在等你们分手",
+      "onboard_time": 1685882550,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 135511,
       "num": 135511,
       "word": "杨紫出发长春路透",
@@ -7865,14 +7897,6 @@
       "onboard_time": 1685849367,
       "rank": 44,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 125887,
-      "num": 125887,
-      "word": "JDG对战LNG",
-      "onboard_time": 1685879727,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 125750,
@@ -8161,14 +8185,6 @@
       "onboard_time": 1685680113,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114373,
-      "num": 114373,
-      "word": "贵州村超",
-      "onboard_time": 1685881768,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 113681,
@@ -8464,6 +8480,14 @@
       "word": "云南彝良突发洪灾致3人遇难",
       "onboard_time": 1685609668,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102209,
+      "num": 385860,
+      "word": "高考是人生一战也是人生一站",
+      "onboard_time": 1685880087,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -9011,14 +9035,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 68355,
-      "num": 382807,
-      "word": "高考是人生一战也是人生一站",
-      "onboard_time": 1685880087,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 65719,
       "num": 1319459,
       "word": "打卡中国",
@@ -9537,6 +9553,14 @@
       "onboard_time": 1685737992,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 8815,
+      "num": 1233993,
+      "word": "圆梦乘组的高清笑颜",
+      "onboard_time": 1685882668,
+      "rank": 2,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 5391,
