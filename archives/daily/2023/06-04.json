@@ -1,6 +1,6 @@
 {
   "startTime": 1685809286870,
-  "endTime": 1685849875447,
+  "endTime": 1685852354321,
   "band_list": [
     {
       "raw_hot": 2102301,
@@ -9,6 +9,14 @@
       "onboard_time": 1685803471,
       "rank": 29,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1890376,
+      "num": 1890376,
+      "word": "79岁老人欲取离世儿子41万存款被拒",
+      "onboard_time": 1685847984,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1841672,
@@ -35,19 +43,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1297047,
+      "num": 1297047,
+      "word": "我的脸被隐翅虫毁容了",
+      "onboard_time": 1685849424,
+      "rank": 23,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 1251640,
+      "num": 1251640,
+      "word": "跑男打错范丞丞名字",
+      "onboard_time": 1685849967,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1226620,
       "num": 414513,
       "word": "香港一精神病人在商场当众捅死2人",
       "onboard_time": 1685800528,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1205609,
-      "num": 1205609,
-      "word": "79岁老人欲取离世儿子41万存款被拒",
-      "onboard_time": 1685847984,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -89,6 +105,14 @@
       "onboard_time": 1685807790,
       "rank": 11,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 964320,
+      "num": 964320,
+      "word": "肖战迪丽热巴赵露思V榜破9",
+      "onboard_time": 1685848465,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 937694,
@@ -139,14 +163,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 653256,
-      "num": 653256,
-      "word": "肖战迪丽热巴赵露思V榜破9",
-      "onboard_time": 1685848465,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 564004,
       "num": 564004,
       "word": "五月天鸟巢尾场唱任意门",
@@ -185,6 +201,14 @@
       "onboard_time": 1685843846,
       "rank": 41,
       "category": "影视,情感"
+    },
+    {
+      "raw_hot": 439756,
+      "num": 439756,
+      "word": "韩娱四代TOP组合",
+      "onboard_time": 1685848345,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 429800,
@@ -251,14 +275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 369318,
-      "num": 369318,
-      "word": "韩娱四代TOP组合",
-      "onboard_time": 1685848345,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 363292,
       "num": 267865,
       "word": "如果你每天早起15分钟",
@@ -281,6 +297,14 @@
       "onboard_time": 1685805271,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 341873,
+      "num": 341873,
+      "word": "男子结婚4战友随2厚本刮刮乐",
+      "onboard_time": 1685849967,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336941,
@@ -412,19 +436,11 @@
     },
     {
       "raw_hot": 254744,
-      "num": 201853,
+      "num": 246531,
       "word": "女生生气真的会生病的",
       "onboard_time": 1685849547,
       "rank": 30,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 254301,
-      "num": 254301,
-      "word": "我的脸被隐翅虫毁容了",
-      "onboard_time": 1685849424,
-      "rank": 23,
-      "category": "其它"
     },
     {
       "raw_hot": 252633,
@@ -433,6 +449,14 @@
       "onboard_time": 1685802211,
       "rank": 24,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 244459,
+      "num": 244459,
+      "word": "真的不建议低谷期谈恋爱",
+      "onboard_time": 1685849786,
+      "rank": 35,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 239646,
@@ -451,6 +475,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 235613,
+      "num": 235613,
+      "word": "一只鸡现象",
+      "onboard_time": 1685848106,
+      "rank": 47,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 234329,
+      "num": 234329,
+      "word": "谭松韵丁禹兮 蜀锦人家",
+      "onboard_time": 1685851588,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 231296,
       "num": 231296,
       "word": "薛之谦把伴舞的鞋子扔了",
@@ -465,14 +505,6 @@
       "onboard_time": 1685846126,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225126,
-      "num": 192007,
-      "word": "一只鸡现象",
-      "onboard_time": 1685848106,
-      "rank": 47,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 224649,
@@ -507,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213062,
+      "num": 213062,
+      "word": "五十公里桃花坞",
+      "onboard_time": 1685851827,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212823,
       "num": 212823,
       "word": "宋昕冉追星迪丽热巴成功",
@@ -521,6 +561,14 @@
       "onboard_time": 1685794226,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 207705,
+      "num": 207705,
+      "word": "二建",
+      "onboard_time": 1685852067,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 207227,
@@ -539,12 +587,28 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 202322,
+      "num": 202322,
+      "word": "Lisa演唱会跳flower",
+      "onboard_time": 1685851286,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 202261,
       "num": 202261,
       "word": "阿信说谢谢华晨宇同台飙歌",
       "onboard_time": 1685836340,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 202008,
+      "num": 174294,
+      "word": "爸爸妈妈实现了女儿的钢琴梦",
+      "onboard_time": 1685849846,
+      "rank": 46,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 200653,
@@ -675,14 +739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172351,
-      "num": 172351,
-      "word": "真的不建议低谷期谈恋爱",
-      "onboard_time": 1685849786,
-      "rank": 35,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 168179,
       "num": 168179,
       "word": "黄子韬说我装一下",
@@ -707,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160344,
+      "num": 160344,
+      "word": "Spotify流媒10亿KPOP艺人",
+      "onboard_time": 1685850147,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 158307,
       "num": 158307,
       "word": "为何男性比女性更显老",
@@ -721,6 +785,14 @@
       "onboard_time": 1685837963,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150066,
+      "num": 150066,
+      "word": "文俊辉晒与洪知秀花絮照",
+      "onboard_time": 1685851347,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 148704,
@@ -787,6 +859,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 129591,
+      "num": 129591,
+      "word": "14岁姐姐海姆立克法救下卡喉弟弟",
+      "onboard_time": 1685850985,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127913,
       "num": 127913,
       "word": "叶舒华说等洪恩採长大",
@@ -851,20 +931,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116694,
+      "num": 116694,
+      "word": "曾可妮朱珠合照",
+      "onboard_time": 1685850624,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116007,
       "num": 1342853,
       "word": "神十五航天员回地球",
       "onboard_time": 1685802812,
       "rank": 2,
       "category": "科技"
-    },
-    {
-      "raw_hot": 113956,
-      "num": 113956,
-      "word": "爸爸妈妈实现了女儿的钢琴梦",
-      "onboard_time": 1685849846,
-      "rank": 46,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 113681,

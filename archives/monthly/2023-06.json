@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685849875447,
+  "endTime": 1685852354321,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -184,6 +184,14 @@
       "word": "柳州与女子不雅聊天公职人员被免职",
       "onboard_time": 1685624428,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1890376,
+      "num": 1890376,
+      "word": "79岁老人欲取离世儿子41万存款被拒",
+      "onboard_time": 1685847984,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -539,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1297047,
+      "num": 1297047,
+      "word": "我的脸被隐翅虫毁容了",
+      "onboard_time": 1685849424,
+      "rank": 23,
+      "category": "其它"
+    },
+    {
       "raw_hot": 1293845,
       "num": 1293845,
       "word": "坐飞机要称体重了",
@@ -619,6 +635,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1251640,
+      "num": 1251640,
+      "word": "跑男打错范丞丞名字",
+      "onboard_time": 1685849967,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1250654,
       "num": 1250654,
       "word": "黄觉牵张艺凡",
@@ -649,14 +673,6 @@
       "onboard_time": 1685626952,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1205609,
-      "num": 1205609,
-      "word": "79岁老人欲取离世儿子41万存款被拒",
-      "onboard_time": 1685847984,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1205084,
@@ -897,6 +913,14 @@
       "onboard_time": 1685748560,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 964320,
+      "num": 964320,
+      "word": "肖战迪丽热巴赵露思V榜破9",
+      "onboard_time": 1685848465,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 963621,
@@ -1345,14 +1369,6 @@
       "onboard_time": 1685539347,
       "rank": 4,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 653256,
-      "num": 653256,
-      "word": "肖战迪丽热巴赵露思V榜破9",
-      "onboard_time": 1685848465,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 632733,
@@ -2035,6 +2051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 439756,
+      "num": 439756,
+      "word": "韩娱四代TOP组合",
+      "onboard_time": 1685848345,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 435195,
       "num": 435195,
       "word": "我其实是一只水母 装成人的模样社交",
@@ -2483,14 +2507,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 369318,
-      "num": 369318,
-      "word": "韩娱四代TOP组合",
-      "onboard_time": 1685848345,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 366252,
       "num": 366252,
       "word": "华晨宇五月天",
@@ -2657,6 +2673,14 @@
       "onboard_time": 1685697092,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 341873,
+      "num": 341873,
+      "word": "男子结婚4战友随2厚本刮刮乐",
+      "onboard_time": 1685849967,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 341004,
@@ -3876,7 +3900,7 @@
     },
     {
       "raw_hot": 254744,
-      "num": 201853,
+      "num": 246531,
       "word": "女生生气真的会生病的",
       "onboard_time": 1685849547,
       "rank": 30,
@@ -3889,14 +3913,6 @@
       "onboard_time": 1685590048,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 254301,
-      "num": 254301,
-      "word": "我的脸被隐翅虫毁容了",
-      "onboard_time": 1685849424,
-      "rank": 23,
-      "category": "其它"
     },
     {
       "raw_hot": 254196,
@@ -4025,6 +4041,14 @@
       "onboard_time": 1685718693,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244459,
+      "num": 244459,
+      "word": "真的不建议低谷期谈恋爱",
+      "onboard_time": 1685849786,
+      "rank": 35,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 244193,
@@ -4195,6 +4219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235613,
+      "num": 235613,
+      "word": "一只鸡现象",
+      "onboard_time": 1685848106,
+      "rank": 47,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 235519,
       "num": 168441,
       "word": "杨紫直播",
@@ -4225,6 +4257,14 @@
       "onboard_time": 1685720849,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 234329,
+      "num": 234329,
+      "word": "谭松韵丁禹兮 蜀锦人家",
+      "onboard_time": 1685851588,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 234292,
@@ -4425,14 +4465,6 @@
       "onboard_time": 1685786368,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 225126,
-      "num": 192007,
-      "word": "一只鸡现象",
-      "onboard_time": 1685848106,
-      "rank": 47,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 224886,
@@ -4707,6 +4739,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 213062,
+      "num": 213062,
+      "word": "五十公里桃花坞",
+      "onboard_time": 1685851827,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211654,
       "num": 211654,
       "word": "只有考研生才知道的梗",
@@ -4809,6 +4849,14 @@
       "onboard_time": 1685796388,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 207705,
+      "num": 207705,
+      "word": "二建",
+      "onboard_time": 1685852067,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 207521,
@@ -4915,6 +4963,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202322,
+      "num": 202322,
+      "word": "Lisa演唱会跳flower",
+      "onboard_time": 1685851286,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 202306,
       "num": 135933,
       "word": "蔡徐坤澳门演唱会今晚开唱",
@@ -4929,6 +4985,14 @@
       "onboard_time": 1685836340,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 202008,
+      "num": 174294,
+      "word": "爸爸妈妈实现了女儿的钢琴梦",
+      "onboard_time": 1685849846,
+      "rank": 46,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 201849,
@@ -5787,14 +5851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172351,
-      "num": 172351,
-      "word": "真的不建议低谷期谈恋爱",
-      "onboard_time": 1685849786,
-      "rank": 35,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 172278,
       "num": 167351,
       "word": "美依礼芽晒自己画的眼妆",
@@ -6091,6 +6147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160344,
+      "num": 160344,
+      "word": "Spotify流媒10亿KPOP艺人",
+      "onboard_time": 1685850147,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 159970,
       "num": 176545,
       "word": "梦中的那片海制片人缅怀付宁导演",
@@ -6369,6 +6433,14 @@
       "onboard_time": 1685546313,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 150066,
+      "num": 150066,
+      "word": "文俊辉晒与洪知秀花絮照",
+      "onboard_time": 1685851347,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 150002,
@@ -6747,6 +6819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129591,
+      "num": 129591,
+      "word": "14岁姐姐海姆立克法救下卡喉弟弟",
+      "onboard_time": 1685850985,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129070,
       "num": 129070,
       "word": "观众称花千元在演唱会上看柱子",
@@ -7003,6 +7083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116694,
+      "num": 116694,
+      "word": "曾可妮朱珠合照",
+      "onboard_time": 1685850624,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116230,
       "num": 116230,
       "word": "保洁阿姨捡到40万上交获奖励",
@@ -7049,14 +7137,6 @@
       "onboard_time": 1685680113,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113956,
-      "num": 113956,
-      "word": "爸爸妈妈实现了女儿的钢琴梦",
-      "onboard_time": 1685849846,
-      "rank": 46,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 113681,
