@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685848138970,
+  "endTime": 1685848308435,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -1651,6 +1651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1062442,
+      "num": 1062442,
+      "word": "姑姑拍到侄女做梦吃雪糕",
+      "onboard_time": 1685841865,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1052791,
       "num": 1052791,
       "word": "女子3千割眼袋3个月眼睛闭不合",
@@ -1665,14 +1673,6 @@
       "onboard_time": 1685326527,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1051883,
-      "num": 1051883,
-      "word": "姑姑拍到侄女做梦吃雪糕",
-      "onboard_time": 1685841865,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1050365,
@@ -3811,6 +3811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 484405,
+      "num": 484405,
+      "word": "Angelababy奔跑吧时长",
+      "onboard_time": 1685841806,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 484256,
       "num": 484256,
       "word": "京东红包",
@@ -3825,14 +3833,6 @@
       "onboard_time": 1685518949,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 482510,
-      "num": 482510,
-      "word": "Angelababy奔跑吧时长",
-      "onboard_time": 1685841806,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 482501,
@@ -4171,6 +4171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 441431,
+      "num": 441431,
+      "word": "在年代剧里遇到了crush",
+      "onboard_time": 1685843846,
+      "rank": 41,
+      "category": "影视,情感"
+    },
+    {
       "raw_hot": 440239,
       "num": 440239,
       "word": "佟大为送迪丽热巴的生日礼物",
@@ -4217,14 +4225,6 @@
       "onboard_time": 1685665649,
       "rank": 6,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 432395,
-      "num": 432395,
-      "word": "在年代剧里遇到了crush",
-      "onboard_time": 1685843846,
-      "rank": 41,
-      "category": "影视,情感"
     },
     {
       "raw_hot": 431166,
@@ -5188,7 +5188,7 @@
     },
     {
       "raw_hot": 363292,
-      "num": 248131,
+      "num": 254780,
       "word": "如果你每天早起15分钟",
       "onboard_time": 1685845886,
       "rank": 20,
@@ -5611,6 +5611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336941,
+      "num": 254673,
+      "word": "杨紫回眸生图vs精修",
+      "onboard_time": 1685844747,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 336909,
       "num": 336909,
       "word": "萌兰",
@@ -5633,14 +5641,6 @@
       "onboard_time": 1685716713,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 335576,
-      "num": 248007,
-      "word": "杨紫回眸生图vs精修",
-      "onboard_time": 1685844747,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 335212,
@@ -5987,6 +5987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 322287,
+      "num": 322287,
+      "word": "加拿大护卫舰目睹中国战舰逼美舰改道",
+      "onboard_time": 1685845646,
+      "rank": 15,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 321845,
       "num": 220617,
       "word": "芭莎红毯主持人是李晓峰",
@@ -6177,14 +6185,6 @@
       "onboard_time": 1685684191,
       "rank": 15,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 313703,
-      "num": 313703,
-      "word": "加拿大护卫舰目睹中国战舰逼美舰改道",
-      "onboard_time": 1685845646,
-      "rank": 15,
-      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 313570,
@@ -6424,6 +6424,14 @@
       "word": "肠道是熬夜猝死元凶之一",
       "onboard_time": 1685356646,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303325,
+      "num": 303325,
+      "word": "孩子随母姓被拒分配村集体收入",
+      "onboard_time": 1685846847,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -7627,6 +7635,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 260827,
+      "num": 260827,
+      "word": "法老 说唱界的显眼包",
+      "onboard_time": 1685846605,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260518,
       "num": 260518,
       "word": "孟子义我们不是死绿茶",
@@ -7785,14 +7801,6 @@
       "onboard_time": 1685375130,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 255627,
-      "num": 255627,
-      "word": "法老 说唱界的显眼包",
-      "onboard_time": 1685846605,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 255539,
@@ -9331,6 +9339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 216871,
+      "num": 216871,
+      "word": "侯明昊七年前试镜视频",
+      "onboard_time": 1685846968,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 216752,
       "num": 216752,
       "word": "薛之谦我欠你几首歌来着",
@@ -10353,14 +10369,6 @@
       "onboard_time": 1685667269,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197524,
-      "num": 197524,
-      "word": "侯明昊七年前试镜视频",
-      "onboard_time": 1685846968,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 197499,
@@ -11627,6 +11635,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 175261,
+      "num": 175261,
+      "word": "enhypen签售会新要求",
+      "onboard_time": 1685847984,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 174861,
       "num": 174861,
       "word": "市民反映名媛K歌沐足没名媛",
@@ -11761,6 +11777,14 @@
       "onboard_time": 1685431470,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171028,
+      "num": 171028,
+      "word": "79岁老人欲取离世儿子41万存款被拒",
+      "onboard_time": 1685847984,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171007,
@@ -11907,6 +11931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168179,
+      "num": 168179,
+      "word": "黄子韬说我装一下",
+      "onboard_time": 1685845945,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168112,
       "num": 168112,
       "word": "五月天重庆",
@@ -12043,14 +12075,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 165694,
-      "num": 163752,
-      "word": "孩子随母姓被拒分配村集体收入",
-      "onboard_time": 1685846847,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165671,
       "num": 206177,
       "word": "真实影像揭露境外高薪务工骗局",
@@ -12153,14 +12177,6 @@
       "onboard_time": 1685423670,
       "rank": 49,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 163945,
-      "num": 163945,
-      "word": "黄子韬说我装一下",
-      "onboard_time": 1685845945,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 163848,
@@ -12931,14 +12947,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 147265,
-      "num": 147265,
-      "word": "enhypen签售会新要求",
-      "onboard_time": 1685847984,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 146961,
       "num": 146961,
       "word": "凯尔特人三分",
@@ -13187,8 +13195,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136616,
-      "num": 136616,
+      "raw_hot": 136960,
+      "num": 136960,
       "word": "井胧追星张杰成功",
       "onboard_time": 1685835740,
       "rank": 33,
@@ -13635,14 +13643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125723,
-      "num": 125723,
-      "word": "79岁老人欲取离世儿子41万存款被拒",
-      "onboard_time": 1685847984,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125655,
       "num": 125655,
       "word": "载荷专家桂海潮是北航教授",
@@ -13947,6 +13947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118594,
+      "num": 118594,
+      "word": "重启天涯直播7天7夜仅带货36万",
+      "onboard_time": 1685845527,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117963,
       "num": 117963,
       "word": "Ella你在乘风2023教了什么",
@@ -14091,6 +14099,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 113712,
+      "num": 113712,
+      "word": "一只鸡现象",
+      "onboard_time": 1685848106,
+      "rank": 47,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 113681,
       "num": 113681,
       "word": "巴黎官宣梅西离队",
@@ -14193,14 +14209,6 @@
       "onboard_time": 1685682631,
       "rank": 47,
       "category": "社会正能量,教育"
-    },
-    {
-      "raw_hot": 110873,
-      "num": 110873,
-      "word": "重启天涯直播7天7夜仅带货36万",
-      "onboard_time": 1685845527,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110749,
@@ -14489,14 +14497,6 @@
       "onboard_time": 1685774126,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 102608,
-      "num": 102608,
-      "word": "一只鸡现象",
-      "onboard_time": 1685848106,
-      "rank": 47,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 102544,
