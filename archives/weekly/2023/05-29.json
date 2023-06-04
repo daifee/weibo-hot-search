@@ -1,6 +1,6 @@
 {
   "startTime": 1685290816648,
-  "endTime": 1685853210189,
+  "endTime": 1685855753568,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -2155,6 +2155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 829245,
+      "num": 829245,
+      "word": "张子豪 淘汰",
+      "onboard_time": 1685853927,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 827838,
       "num": 827838,
       "word": "四川大学回应女博士生介入导师婚姻",
@@ -3275,6 +3283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 557421,
+      "num": 557421,
+      "word": "男子结婚4战友随2厚本刮刮乐",
+      "onboard_time": 1685849967,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 557089,
       "num": 557089,
       "word": "神十六成功对接空间站组合体",
@@ -3432,6 +3448,14 @@
       "word": "四川一男子当街持刀捅伤女子后自杀",
       "onboard_time": 1685791348,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 541033,
+      "num": 484875,
+      "word": "鸭脖",
+      "onboard_time": 1685853087,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -3827,6 +3851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 486994,
+      "num": 486994,
+      "word": "韩娱四代TOP组合",
+      "onboard_time": 1685848345,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 485950,
       "num": 485950,
       "word": "网友点评赵露思虞书欣是韩式演技",
@@ -3937,6 +3969,14 @@
       "onboard_time": 1685806172,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 476304,
+      "num": 476304,
+      "word": "蔡徐坤说叫我坤就可以了",
+      "onboard_time": 1685854348,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 475838,
@@ -4192,14 +4232,6 @@
       "word": "王诗龄说好久不见何炅",
       "onboard_time": 1685693370,
       "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 445134,
-      "num": 445134,
-      "word": "韩娱四代TOP组合",
-      "onboard_time": 1685848345,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -4603,6 +4635,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 410177,
+      "num": 304181,
+      "word": "因为开玩笑把我哥订婚搅黄了",
+      "onboard_time": 1685854948,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 409106,
       "num": 235392,
       "word": "刘宇宁 综艺",
@@ -4856,14 +4896,6 @@
       "word": "印度发生列车脱轨相撞事故",
       "onboard_time": 1685751505,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 391135,
-      "num": 391135,
-      "word": "男子结婚4战友随2厚本刮刮乐",
-      "onboard_time": 1685849967,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -5435,6 +5467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 351093,
+      "num": 300575,
+      "word": "王鹤棣趴着和宋丹丹张国立聊天",
+      "onboard_time": 1685854708,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350994,
       "num": 350994,
       "word": "百度贴吧回应女子婚纱照被盗孙吧",
@@ -5825,6 +5865,14 @@
       "onboard_time": 1685369552,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 330203,
+      "num": 330203,
+      "word": "卡卡 北京",
+      "onboard_time": 1685854348,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 330080,
@@ -6249,6 +6297,14 @@
       "onboard_time": 1685746998,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 313866,
+      "num": 313866,
+      "word": "刘耀文全员加速中路透",
+      "onboard_time": 1685855607,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 313754,
@@ -6809,6 +6865,14 @@
       "onboard_time": 1685753188,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288987,
+      "num": 288987,
+      "word": "奶奶看小鬼演唱会捂耳朵",
+      "onboard_time": 1685854409,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 288392,
@@ -8475,6 +8539,14 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 240437,
+      "num": 240437,
+      "word": "那天他一下救了三个人",
+      "onboard_time": 1685852606,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 240331,
       "num": 240331,
       "word": "荣耀发布会",
@@ -8529,6 +8601,14 @@
       "onboard_time": 1685584646,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 238508,
+      "num": 238508,
+      "word": "宋茜性格",
+      "onboard_time": 1685855607,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 238385,
@@ -8929,6 +9009,14 @@
       "onboard_time": 1685493752,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 229703,
+      "num": 229703,
+      "word": "任敏哭了",
+      "onboard_time": 1685855309,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 229544,
@@ -9395,6 +9483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218320,
+      "num": 218320,
+      "word": "迪丽热巴小碎步打招呼",
+      "onboard_time": 1685855007,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218141,
       "num": 218141,
       "word": "马斯克北京首日晚宴吃了啥",
@@ -9417,6 +9513,14 @@
       "onboard_time": 1685764828,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217536,
+      "num": 217536,
+      "word": "不提穷字描述自己很穷",
+      "onboard_time": 1685853567,
+      "rank": 33,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 217337,
@@ -10755,6 +10859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 193112,
+      "num": 193112,
+      "word": "Spotify流媒10亿KPOP艺人",
+      "onboard_time": 1685850147,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 193040,
       "num": 193040,
       "word": "鬼灭之刃",
@@ -11089,6 +11201,14 @@
       "onboard_time": 1685537728,
       "rank": 34,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 188884,
+      "num": 188884,
+      "word": "张子豪唱哭全场",
+      "onboard_time": 1685855067,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 188863,
@@ -11473,14 +11593,6 @@
       "onboard_time": 1685695168,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 182038,
-      "num": 182038,
-      "word": "Spotify流媒10亿KPOP艺人",
-      "onboard_time": 1685850147,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 181870,
@@ -13163,14 +13275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 142582,
-      "num": 142582,
-      "word": "那天他一下救了三个人",
-      "onboard_time": 1685852606,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 141910,
       "num": 141910,
       "word": "鹿晗蜘蛛侠主题曲MV",
@@ -13979,6 +14083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120707,
+      "num": 120707,
+      "word": "说唱巅峰对决联盟拯救赛",
+      "onboard_time": 1685854228,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120487,
       "num": 120487,
       "word": "黄奕道歉",
@@ -14304,14 +14416,6 @@
       "word": "成都欢乐谷大运音乐节",
       "onboard_time": 1685701710,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112276,
-      "num": 112276,
-      "word": "鸭脖",
-      "onboard_time": 1685853087,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -15593,6 +15697,14 @@
       "onboard_time": 1685340026,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 60531,
+      "num": 368472,
+      "word": "丽水一初中女篮训练太硬核了",
+      "onboard_time": 1685854829,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60391,
